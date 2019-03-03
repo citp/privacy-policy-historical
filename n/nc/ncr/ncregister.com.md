@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ncregister.com privacy policy that was archived on 2018-10-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181022035206id_/http%3A//www.ncregister.com/info/ncr-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ncregister.com privacy policy that was archived on 2019-03-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190303172518id_/http%3A//ncregister.com/info/ncr-privacy-policy) for the most accurate reproduction.*
 
 # National Catholic Register Privacy Policy
 
