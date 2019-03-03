@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the holidaywatchdog.com privacy policy that was archived on 2018-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180623094506id_/https%3A//www.holidaywatchdog.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the holidaywatchdog.com privacy policy that was archived on 2019-03-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190303120434id_/https%3A//www.holidaywatchdog.com/privacy) for the most accurate reproduction.*
 
-# Privacy policy - Holiday Watchdog™
+# Privacy policy
 
 Holiday Watchdog ( **"Holiday Watchdog"** , **"we"** , **"our"** , **"us"** ) is an online service that provides users ( **"you"** ) with recommendations for travel and travel planning, including hotels, travel guides, attractions and experiences, restaurants, cruises and lots more.
 
@@ -114,7 +114,7 @@ We collect information via cookies and other similar technologies (such as web b
 
 You can find more details about what cookies and similar technologies (such as web beacons) we use in our Cookies Policy.
 
-You can also find out more information about cookies in general, including how to see what cookies are installed on your (mobile) device and how to manage and delete them at websites such as [www.allaboutcookies.org/](http://www.allaboutcookies.org/) and [www.youronlinechoices.eu/](https://www.youronlinechoices.eu/).
+You can also find out more information about cookies in general, including how to see what cookies are installed on your (mobile) device and how to manage and delete them at websites such as [www.allaboutcookies.org/](https://www.allaboutcookies.org/) and [www.youronlinechoices.eu/](https://www.youronlinechoices.eu/).
 
 ## 6\. Your rights 
 
