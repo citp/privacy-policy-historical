@@ -1,19 +1,19 @@
-> *The following text is extracted and transformed from the macofalltrades.com privacy policy that was archived on 2018-05-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180521113230id_/http%3A//www.macofalltrades.com/Terms_privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the macofalltrades.com privacy policy that was archived on 2019-03-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190303164154id_/https%3A//www.macofalltrades.com/privacy-policy) for the most accurate reproduction.*
 
-# Terms: Privacy
+# Privacy Policy
 
 Information We Collect 
 
-  * We collect information from you when you register on the site, place an order, enter a contest or sweepstakes, respond to a survey or communication such as email, or participate in another site feature.
+  * We collect information from you when you register on the site, place an order, enter a contest or sweepstakes, respond to a survey or communication such as email, or participate in another site feature. 
   
 
-  * When ordering or registering, we may ask you for your name, email address, mailing address, phone number, credit card information or other information. You may, however, visit our site anonymously.
+  * When ordering or registering, we may ask you for your name, email address, mailing address, phone number, credit card information or other information. You may, however, visit our site anonymously. 
   
 
-  * We also collect information about gift recipients so that we can fulfill the gift purchase. The information we collect about gift recipients is not used for marketing purposes.
+  * We also collect information about gift recipients so that we can fulfill the gift purchase. The information we collect about gift recipients is not used for marketing purposes. 
   
 
-  * Like many websites, we use "cookies" to enhance your experience and gather information about visitors and visits to our websites. Please refer to the _Use of "Cookies"_ section below for information about cookies and how we use them.
+  * Like many websites, we use "cookies" to enhance your experience and gather information about visitors and visits to our websites. Please refer to the _Use of "Cookies"_ section below for information about cookies and how we use them. 
 
 
 
@@ -21,16 +21,16 @@ How We Use Your Information
 
 We may use the information we collect from you when you register, purchase products, enter a contest or promotion, respond to a survey or marketing communication, surf the website, or use certain other site features in the following ways: 
 
-  * To personalize your site experience and to allow us to deliver the type of content and product offerings in which you are most interested.
+  * To personalize your site experience and to allow us to deliver the type of content and product offerings in which you are most interested. 
   
 
-  * To allow us to better service you in responding to your customer service requests.
+  * To allow us to better service you in responding to your customer service requests. 
   
 
-  * To quickly process your transactions.
+  * To quickly process your transactions. 
   
 
-  * To administer a contest, promotion, survey or other site feature.
+  * To administer a contest, promotion, survey or other site feature. 
 
 
 
@@ -47,7 +47,8 @@ Each registered user chooses a password for his/her use. This password is used b
 Use of "Cookies" 
 
 Cookies are small files that a site or its service provider transfers to your computer's hard drive through your Web browser (if you allow) that enables the site's or service provider's systems to recognize your browser and capture and remember certain information. For instance, we use cookies to help us remember and process the items in your shopping cart. They are also used to help us understand your preferences based on previous or current site activity, which enables us to provide you with improved services. We also use cookies to help us compile aggregate data about site traffic and site interaction so that we can offer better site experiences and tools in the future.   
-We may contract with third-party service providers to assist us in better understanding our site visitors. These service providers are not permitted to use the information collected on our behalf except to help us conduct and improve our business.   
+We may contract with third-party service providers to assist us in better understanding our site visitors. These service providers are not permitted to use the information collected on our behalf except to help us conduct and improve our business. 
+
 You can choose to have your computer warn you each time a cookie is being sent, or you can choose to turn off all cookies. You do this through your browser (like Netscape Navigator or Internet Explorer) settings. Each browser is a little different, so look at your browser Help menu to learn the correct way to modify your cookies. If you turn cookies off, you will not have access to many features that make your site experience more efficient and some of our services will not function properly. However, you can still place orders over the telephone by contacting customer service. 
 
 Disclosure of Information to Third-Parties 
