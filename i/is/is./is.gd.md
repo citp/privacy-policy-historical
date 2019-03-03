@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the is.gd privacy policy that was archived on 2018-09-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180916135533id_/https%3A//is.gd/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the is.gd privacy policy that was archived on 2019-03-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190303231144id_/https%3A//is.gd/privacy.php) for the most accurate reproduction.*
 
 # is.gd - Privacy policy
 
