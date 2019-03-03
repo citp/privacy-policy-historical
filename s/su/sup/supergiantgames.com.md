@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the supergiantgames.com privacy policy that was archived on 2018-10-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181021052049id_/http%3A//store.supergiantgames.com/pages/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the supergiantgames.com privacy policy that was archived on 2019-03-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190303145246id_/http%3A//store.supergiantgames.com/pages/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Supergiant Games
 
@@ -6,7 +6,7 @@ Privacy Policy
 
 SUPERGIANT GAMES PRIVACY POLICY
 
-_Effective Date: May 18th, 2018_
+_Effective Date: Dec. 6th, 2018_
 
 **Introduction**
 
@@ -167,11 +167,13 @@ The personal information that you provide to us is stored on servers, which are 
 
 We are based in the U.S. and the information we and our Service Providers collect is governed by U.S. law.  If you are accessing the Service from outside of the U.S., please be aware that information collected through the Service may be transferred to, processed, stored and used in the U.S.  Data protection laws in the U.S. may be different from those of your country of residence. Your use of the Service or provision of any information therefore constitutes your consent to the transfer to and from, processing, usage, sharing and storage of your information, including personal information, in the U.S. as set forth in this Privacy Policy. 
 
-The Company has applied to participate in the EU-U.S. Privacy Shield Framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal information from the European Union and European Economic Area (“ _EEA_ ”). The Company has certified or will certify to the Department of Commerce that it adheres to the Privacy Shield Principles of notice, choice, accountability for onward transfer, security, data integrity and purpose limitation, access, and recourse, enforcement and liability. For purposes of this section, Company refers to the following U.S. legal entities: Supergiant Games, LLC.
+The Company has applied to participate in the EU-U.S. Privacy Shield Framework and the Swiss-U.S. Privacy Shield Framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal information from the European Union and European Economic Area (“ _EEA_ ”), and Switzerland. The Company has certified or will certify to the Department of Commerce that it adheres to the Privacy Shield Principles of notice, choice, accountability for onward transfer, security, data integrity and purpose limitation, access, and recourse, enforcement and liability. For purposes of this section, Company refers to the following U.S. legal entities: Supergiant Games, LLC.
 
 In accordance with our obligations under the Privacy Shield, and subject to the investigatory and enforcement powers of the U.S. Federal Trade Commission, we hereby affirm our commitment to subject to the Privacy Shield Principles all personal information transferred from the EU in reliance on the Privacy Shield. This means that, in addition to our other obligations under the Privacy Shield Principles, we shall be liable to you for any third party agent to which we transfer your personal information and that processes such personal information in a manner that violates the Privacy Shield Principles, unless we can demonstrate that we are not responsible for the resulting damages.
 
-In the event that you have any inquiry, dispute, or claim arising out of our compliance with Privacy Shield, please e-mail us at info@supergiantgames.com or send us a letter to Supergiant Games, LLC, 505 Gough Street, San Francisco, California 94102 (Attention: Legal). If we are unable to resolve your complaint directly, you may submit your complaint at no cost to you to JAMS at <https://www.jamsadr.com/file-an-eu-us-privacy-shield-or-safe-harbor-claim>. In the event there are residual complaints that have not been resolved by JAMS, or any other means, you may seek a non-monetary remedy through binding arbitration to be provided to you in accordance with the Privacy Shield Principles.
+Supergiant Games, LLC complies with the EU-U.S. Privacy Shield Framework and Swiss-U.S. Privacy Shield Framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal information transferred from the European Union and Switzerland to the United States. Supergiant Games, LLC has certified to the Department of Commerce that it adheres to the Privacy Shield Principles. If there is any conflict between the terms in this privacy policy and the Privacy Shield Principles, the Privacy Shield Principles shall govern. To learn more about the Privacy Shield program, and to view our certification, please visit https://www.privacyshield.gov/.
+
+In the event that you have any inquiry, dispute, or claim arising out of our compliance with Privacy Shield, please e-mail us at info@supergiantgames.com or send us a letter to Supergiant Games, LLC, 521 Gough Street, San Francisco, California 94102 (Attention: Legal). If we are unable to resolve your complaint directly, you may submit your complaint at no cost to you to JAMS at <https://www.jamsadr.com/eu-us-privacy-shield>. In the event there are residual complaints that have not been resolved by JAMS, or any other means, you may seek a non-monetary remedy through binding arbitration to be provided to you in accordance with the Privacy Shield Principles.
 
 To learn more about the Privacy Shield Framework, please visit [http://www.privacyshield.gov](http://www.privacyshield.gov/). A list of companies certified under the Privacy Shield Framework is available at the following link: <https://www.privacyshield.gov/list>.
 
