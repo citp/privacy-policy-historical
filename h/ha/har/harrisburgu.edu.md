@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the harrisburgu.edu privacy policy that was archived on 2018-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181221031759id_/http%3A//harrisburgu.edu/lib/pdf/HU-Privacy-Notice-9-10-18.pdf) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the harrisburgu.edu privacy policy that was archived on 2019-03-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190303113323id_/http%3A//harrisburgu.edu/lib/pdf/HU-Privacy-Notice-9-10-18.pdf) for the most accurate reproduction.*
 
 # 
 
