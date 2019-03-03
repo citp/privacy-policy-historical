@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sallyhansen.com privacy policy that was archived on 2018-03-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180307073038id_/https%3A//www.coty.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sallyhansen.com privacy policy that was archived on 2019-03-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190303183301id_/https%3A//www.coty.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy policy | coty.com
 
