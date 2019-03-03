@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the coedcherry.com privacy policy that was archived on 2017-08-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170812020512id_/https%3A//www.coedcherry.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the coedcherry.com privacy policy that was archived on 2019-03-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190303052552id_/https%3A//www.coedcherry.com/privacy) for the most accurate reproduction.*
 
 # Coed Cherry Privacy Policy
 
@@ -32,9 +32,9 @@ All of this data is **anonymous**. Here are some things Google Analytics does **
 
 The information Google Analytics collects allows us to better understand the kind of people who come here and what content theyre enjoying. This allows us to make better decisions about what kind of content to provide in the future.
 
-All of this activity falls within the bounds of the [Google Analytics Terms of Service](http://www.google.com/analytics/tos.html). 
+All of this activity falls within the bounds of the [Google Analytics Terms of Service](https://www.google.com/analytics/tos.html). 
 
-You can [opt out of Googles advertising tracking cookie](http://www.google.com/privacy_ads.html) or use a [browser plugin to opt out of all Google Analytics tracking software](https://tools.google.com/dlpage/gaoptout?hl=en).
+You can [opt out of Googles advertising tracking cookie](https://www.google.com/privacy_ads.html) or use a [browser plugin to opt out of all Google Analytics tracking software](https://tools.google.com/dlpage/gaoptout?hl=en).
 
 In addition to Google Analytics we measure the total amount of clicks that content on our site receives (gallery, pay-site link, model page, thumbnail, etc.) Currently these numbers are statistical only, i.e: we only count the total clicks received without knowing who specifically clicked on what.
 
