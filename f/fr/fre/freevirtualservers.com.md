@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the freevirtualservers.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606173533id_/https%3A//www.freevirtualservers.com/privacy-agreement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freevirtualservers.com privacy policy that was archived on 2019-03-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190303192135id_/https%3A//www.freevirtualservers.com/privacy-agreement) for the most accurate reproduction.*
 
 # Privacy Agreement - Free Virtual Servers
 
@@ -16,6 +16,29 @@ We may request or collect personal information from online users in a variety of
 ## Non-personally identifying information
 
 We may also collect information on how users interact with our websites by using cookies and log files which may include your Internet Protocol (IP), browser "user-agent", pages viewed and other activities similar activities. 
+
+## Personal Information Collection
+
+We may request or collect personal information from online users in a variety of ways, including through online forms for ordering products and services, and other instances where users are invited to volunteer such information. "Personal information" in this privacy policy, we mean information, which identifies you as an individual, or is capable of doing so – for example, your name, address, telephone number, email address, date of birth and billing information. 
+
+## Legal Basis for processing personal Information
+
+Our legal basis for collecting and using the personal information described above will depend on the personal information concerned and the specific context in which we collect it. 
+
+We will normally collect personal information from you only (i) where we need the personal information to perform a contract with you; (ii) where the processing is in our legitimate interests and not overridden by your rights; or (iii) where we have your consent to do so. We have a legitimate interest in operating our Services and communicating with you as necessary to provide these Services, for example when responding to your queries, improving our platform, undertaking marketing, or for the purposes of detecting or preventing illegal activities. 
+
+If we ask you to provide personal information to comply with a legal requirement or to perform a contract with you, we will make this clear at the relevant time and advise you whether the provision of your personal information is mandatory or not (as well as of the possible consequences if you do not provide your personal information). 
+
+## Your rights under GDPR
+
+If you're a citizen of the EU, you have the following rights under the GDPR: 
+
+  * You can update the personal data we hold on you at any time by logging into your account and updating the details as required. 
+  * You can opt-out of marketing emails at any time by clicking on the unsubscribe link on any marketing email we send you. 
+  * You have the right to complain to a data protection authority about our collection and use of your personal information. For more information, please contact your local data protection authority. 
+  * You have the right to request a copy of the data we hold on you, for free. If you wish to exercise this right, please submit a ticket to Customer Services and we can provide a copy of your account in JSON format. 
+
+
 
 ## Cookie Policy
 
@@ -45,6 +68,8 @@ On occasions, it is necessary to send out service related announcements, such as
 
 The time period for which we keep information varies according to what the information is used for. In some cases, there are legal requirements to keep data for a minimum period. Unless there is a specific legal requirement for us to keep the information, we will retain it for no longer than is necessary for the purposes for which the data was collected or for which it is to be further processed.  
 The data may be stored on one or more databases directly or indirectly maintained by Easy Internet Solutions. We employ industry standard security measures to protect the confidentiality of the information, but whilst we cannot guarantee that any loss, misuse or alteration of data will not occur, every effort is made to prevent such occurrences. Any particularly sensitive information (such as credit card details) is encrypted prior to transmission to us and will only be stored in encrypted systems. 
+
+Billing data is retained for 7 years, as is required by UK VAT law. 
 
 ## Access to your information
 
