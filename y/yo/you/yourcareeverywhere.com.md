@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the yourcareeverywhere.com privacy policy that was archived on 2017-02-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170211020014id_/https%3A//www.yourcareeverywhere.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the yourcareeverywhere.com privacy policy that was archived on 2019-03-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190303051051id_/https%3A//www.yourcareeverywhere.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy | YourCareEverywhere
 
-YourCareEverywhere (“YCE”), a division of YourCareUniverse, Inc., takes your privacy very seriously. This privacy policy will tell you what information we collect from you and about your use of the site. Except where noted, the Privacy Policy applies to all YCE affiliated web sites, and includes all tools and services offered therein, including the YCE Personal Health Record (“PHR”).  The YCE PHR allows you to collect, manage, and share your health information. If you have registered to access your patient record via a patient portal through your healthcare provider, the Terms of Use and Privacy Policy associated with those records will govern your use and access of any such portal content (even if accessed within the YCE site).
+YourCareEverywhere (“YCE”), a division of MEDHOST Cloud Services, Inc., takes your privacy very seriously. This privacy policy will tell you what information we collect from you and about your use of the site. Except where noted, the Privacy Policy applies to all YCE affiliated web sites, and includes all tools and services offered therein, including the YCE Personal Health Record (“PHR”).  The YCE PHR allows you to collect, manage, and share your health information. If you have registered to access your patient record via a patient portal through your healthcare provider, the Terms of Use and Privacy Policy associated with those records will govern your use and access of any such portal content (even if accessed within the YCE site).
 
 ## Information You Give Us
 
@@ -77,15 +77,15 @@ Your unique user ID (Screen Name) and password help protect your Personal Inform
 
 ### Contacting YCE
 
-Please send us an email by using the [Contact Us](https://web.archive.org/contact-us.html) link at the bottom of every page of our site if you have any questions about this Privacy Policy or the Personal Information we maintain about you.
+Please send us an email by using the [Contact Us](https://web.archive.org/content/medhost/your-care-everywhere/contact-us.html) link at the bottom of every page of our site if you have any questions about this Privacy Policy or the Personal Information we maintain about you.
 
 You can also contact the Privacy Office at:
 
-YCU, Inc.
+MEDHOST Cloud Services, Inc.
 
 Attn: Privacy Officer
 
-6550 Carothers Parkway #100,
+6550 Carothers Parkway Suite 160,
 
 Franklin, TN 37067
 
@@ -93,4 +93,4 @@ Franklin, TN 37067
 
 We reserve the right to modify this Privacy Policy at any time.  Any changes will be effective at the time posted unless stated otherwise. For material changes to this Privacy Policy, we will notify you directly by email (sent to the email address specified when you register) and/or by means of a notice on this website prior to the change becoming effective. We encourage you to review the Privacy Policy periodically to stay informed about how we are using and protecting your information. Your continued use of the YCE site will be subject to the revised Privacy Policy. Please exit the web site immediately if you do not agree to the terms of this Privacy Policy.
 
-Updated: _June 2, 2016_
+Updated: _January 30, 2019_
