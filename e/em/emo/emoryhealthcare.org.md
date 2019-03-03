@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the emoryhealthcare.org privacy policy that was archived on 2018-11-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181104211357id_/http%3A//www.emoryhealthcare.org/ui/pdfs/npp2016.pdf) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the emoryhealthcare.org privacy policy that was archived on 2019-03-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190303092554id_/http%3A//www.emoryhealthcare.org/ui/pdfs/npp-final-2018.pdf) for the most accurate reproduction.*
 
 # 
 
@@ -64,8 +64,10 @@ contact you for fundraising opportunities. We are allowed to and may use demogra
 or date of birth. We may also use the dates you received treatment or services, department of service, outcomes information, treating physician information and
 health insurance status. You have the right to opt out of fundraising communications. If you do not want Emory Healthcare or the Woodruff Health Sciences
 Center to contact you for fundraising efforts, you may opt out by calling 404-727-7111, emailing askemory@emory.edu, or by submitting the request in writing to
-the Development and Alumni Relations Office, Robert W. Woodruff Health Sciences Center, 1440 Clifton Road, Suite 116, Atlanta, Georgia 30322. Your
-decision whether or not to receive fundraising communications will not affect your ability to receive health care services at Emory Healthcare.
+the Advancement and Alumni Engagement Office, Robert W. Woodruff Health Sciences Center, 1440 Clifton Road, Suite 170, Atlanta, Georgia 30322. If you do
+not want the DeKalb Medical Foundation to contact you for fundraising efforts for Emory Decatur Hospital, Emory Hillandale Hospital, or Emory Long-Term Acute
+Care, formerly known as DeKalb Medical, you may opt out by e-mailing foundation@emoryhealthcare.org or calling 404-501-5956. Your decision whether or not
+to receive fundraising communications will not affect your ability to receive health care services at Emory Healthcare.
 Emory Healthcare Directory – We may use or disclose health information about you in the patient directory while you are a patient at an Emory Healthcare
 facility. This information may include your name, location in the facility, your general condition (e.g., fair, stable, etc.) and your religious affiliation. The directory
 information, except for your religious affiliation, may be released to people who ask for you by name. Your religious affiliation may be given to a member of the
@@ -99,13 +101,13 @@ necessary, to facilitate organ or tissue donation and transplantation.
 Military and Veterans – to military command authorities as required, if you are a member of the armed forces. We may also disclose health information about
 foreign military personnel to the appropriate foreign military authority.
 Workers' Compensation – to workers' compensation or similar programs that provide benefits for work-related injuries or illnesses.
+
+
 Public Health Activities – to public health agencies or other governmental authorities to report public health activities or risks. These activities generally include
 the following: to prevent or control disease, injury or disability; to report births and deaths; to report child abuse or neglect; to report reactions to medications or
-
-
 problems with products; to notify people of recalls of products they may be using; to notify a person who may have been exposed to a disease or may be at risk
-for contracting or spreading a disease or condition as authorized by law; to notify the appropriate government authority if we believe a patient has been the
-victim of abuse, neglect or domestic violence (we will only make this disclosure if you agree or when required or authorized by law).
+for contracting or spreading a disease or condition as authorized by law; to notify the appropriate government authority if we believe a patient has been the victim
+of abuse, neglect or domestic violence (we will only make this disclosure if you agree or when required or authorized by law).
 Health Oversight Activities – to a health oversight agency for activities authorized by law and the Secretary of the Department of Health and Human Services.
 Examples of oversight activities include: audits, investigations, inspections, and licensure. Oversight activities are necessary for the government to monitor the
 health care system and government programs to ensure compliance with civil rights laws and to enforce privacy regulations.
@@ -159,8 +161,7 @@ Right to an Accounting of Disclosures – You have the right to request a list o
       •     pursuant to an authorization,
       •     incident to a permitted use or disclosure, or
       •     for certain other limited disclosures defined by law.
-                                                                                                                                                            nd
-To request this list of disclosures, you must submit your request in writing to the Emory Healthcare Privacy Office at 101 West Ponce de Leon Ave, 2 Floor,
+To request this list of disclosures, you must submit your request in writing to the Emory Healthcare Privacy Office at 101 West Ponce de Leon Ave, 2nd Floor,
 Suite 242, Decatur, Georgia 30030. Your request must specify a time period for which you are seeking an accounting of disclosures and include your name,
 contact information, date of birth and dates of service if known. If you are acting as a personal representative, include the name of the patient, your contact
 information, date of birth and dates of service if known. You may not request disclosures that are more than six years from the date of your request or that were
@@ -175,20 +176,17 @@ payment or healthcare operations, BUT ONLY if the health information you ask to 
 which you have paid out of pocket, in full. We are not required to agree to any other requests. If we do agree, we will comply with your request unless the
 information is needed to provide you with emergency treatment. We have the right to revoke our agreement at any time, and once we notify you of this
 revocation, we may use or disclose your health information without regard to any restriction or limitation you may have requested. To request restrictions, you
-                                                                                                                  nd
-must make your request in writing to the Emory Healthcare Privacy Office, 101 West Ponce de Leon Ave, 2 Floor, Suite 242, Decatur, Georgia 30030. In your
+must make your request in writing to the Emory Healthcare Privacy Office, 101 West Ponce de Leon Ave, 2nd Floor, Suite 242, Decatur, Georgia 30030. In your
 request, you must tell us (1) what information you want to limit; (2) whether you want to limit our use, disclosure or both; and (3) to whom you want the limits to
 apply, for example, disclosures to your spouse.
 Right to Request Confidential Communications – You have the right to request that we communicate with you about medical matters in a certain way or at a
 certain location. For example, you can ask that we only contact you at work or by mail. To request confidential communications, you must make your request in
-                                                                                          nd
-writing to the Emory Healthcare Privacy Office, 101 West Ponce de Leon Avenue, 2 Floor, Suite 242, Decatur, Georgia 30030. You will need to include your
+writing to the Emory Healthcare Privacy Office, 101 West Ponce de Leon Avenue, 2nd Floor, Suite 242, Decatur, Georgia 30030. You will need to include your
 name, or if acting as a personal representative, include the name of the patient, contact information, date of birth and dates of service if known. We will not ask
 you the reason for your request. We will work to accommodate all reasonable requests. Your request must specify how or where you wish to be contacted.
 Right to Receive a Paper Copy of This Notice – Even if you have agreed to receive this Notice electronically, you have the right to receive a paper copy of this
 Notice, which you may ask for at any time. You may obtain a copy of this Notice at our website, www.emoryhealthcare.org. To obtain a paper copy of this Notice,
-                                                                                       nd
-write to the Emory Healthcare Privacy Office, 101 West Ponce de Leon Avenue, 2 Floor, Suite 242, Decatur, Georgia 30030.
+write to the Emory Healthcare Privacy Office, 101 West Ponce de Leon Avenue, 2nd Floor, Suite 242, Decatur, Georgia 30030.
 Right to Receive Notification of a Breach of Your Health Information – We have put in place reasonable processes and procedures to protect the
 privacy and security of your health information. If there is an unauthorized acquisition, access, use, or disclosure of your protected health
 information we will notify you as required by law. The law may not require notice to you in all cases. In some situations, even if the law does not
@@ -199,21 +197,19 @@ you as well as any information we receive in the future. We will post a copy of 
 the current notice. In addition, the current notice will be posted at www.emoryhealthcare.org.
 COMPLAINTS
 If you believe your privacy rights have been violated, you may file a complaint by writing to the Chief Privacy Officer, Emory Healthcare, 101 W. Ponce de Leon
-            nd
-Avenue, 2 Floor, Suite 242, Decatur, GA 30030.
+Avenue, 2nd Floor, Suite 242, Decatur, GA 30030.
 You may also file a complaint with the Secretary of the Department of Health and Human Services, http://www.hhs.gov/ocr/privacy/hipaa/complaints. You will not
 be penalized for filing a complaint. For further information, you may send written inquiries to the Emory Healthcare Privacy Office, 101 West Ponce de Leon
-            nd
-Avenue, 2 Floor, Suite 242, Decatur, GA 30030 or call 404-778-2757.
+Avenue, 2nd Floor, Suite 242, Decatur, GA 30030 or call 404-778-2757.
 This Notice of Privacy Practices applies to the following organizations:
-Emory Healthcare facilities that will abide by this notice include: Emory University Hospital, Emory University Orthopaedics and Spine Hospital, Emory University
-Hospital Midtown, Emory Johns Creek Hospital, Emory Saint Joseph’s Hospital, Emory Ambulatory Surgery Care Center at Dunwoody, Emory Ambulatory
-Surgery Center at Lagrange. Emory Ambulatory Surgery Centers, Emory Clinic, Emory Children’s Center, Emory Specialty Associates, Emory Wesley Woods
-Center, Emory Dialysis Center, LLC. Emory Rehabilitation Hospital in Partnership with Select Medical, Emory Rehabilitation Outpatient Center in Partnership
-with Select Medical, Emory, Emory Physical Therapy. This list of facilities may change from time to time; you may obtain an updated list of facilities by calling
-404-778-2757.
+Emory Healthcare facilities that will abide by this notice include but are not limited to: Emory University Hospital, Emory University Orthopaedics and Spine
+Hospital, Emory University Hospital Midtown, Emory Johns Creek Hospital, Emory Saint Joseph’s Hospital, Emory Decatur Hospital, Emory Hillandale Hospital,
+Emory Ambulatory Surgery Care Center at Dunwoody, Emory Ambulatory Surgery Center at Lagrange, Emory Ambulatory Surgery Centers, Emory Clinic,
+Emory Children’s Center, Emory Specialty Associates, Emory Budd Terrace, Emory Wesley Woods Center, Emory Dialysis Center, LLC, Emory Long-Term
 
 
+Acute Care, Emory Rehabilitation Hospital in Partnership with Select Medical, Emory Rehabilitation Outpatient Center in Partnership with Select Medical, Emory,
+Emory Physical Therapy. This list of facilities may change from time to time; you may obtain an updated list of facilities by calling 404-778-2757.
 Emory University is called a “Hybrid Covered Entity” under the HIPAA regulations. This is because the University has some components that are covered by
 HIPAA (thereafter referred to as, “Covered Component”) and others that are not. The following Emory University facilities have a Covered Component: the
 School of Medicine, School of Nursing, School of Public Health, Emory College and Emory University Graduate School Departments of Psychology, Student
@@ -230,19 +226,19 @@ Privacy Act instead of HIPAA),
 (b) Take or process payment for health care services that are billed to insurance or a government program, and/or
 (c) Perform health care operations.
 NOTE: The Emory University Group Health Plan operates under a separate Notice of Privacy Practices and therefore does not follow this Notice.
-                                                                                       •
+                                                                                        v
 Emory Healthcare complies with applicable Federal civil rights laws and does not discriminate on the basis
 of race, color, national origin, age, disability, or sex.
 Emory Healthcare cumple con las leyes federales de derechos viviles aplicables y no discrimina por
 motivos de raza, color, nacionalidad, edad, discapacidad o sexo.
 Emory Healthcare tuân thủ luật dân quyền hiện hành của Liên bang và không phân biệt đối xử dựa trên
 chủng tộc, màu da, nguồn gốc quốc gia, độ tuổi, khuyết tật, hoặc giới tính.
-                                                                                       •
+                                                                                        v
 ATTENTION: If you are an individual with limited English language proficiency assistance services, free of
 charge, are available to you.
 ATENCIÓN: si habla español, tiene a su disposición servicios gratuitos de asistencia lingüística.
 CHÚ Ý: Nếu bạn nói Tiếng Việt, có các dịch vụ hỗ trợ ngôn ngữ miễn phí dành cho bạn.
-                                                                                       •
+                                                                                        v
 Non-Discrimination Policy
-    emoryhealthcare.org/ui/pdfs/ehc-sec1557nondiscrimination-policy.pdf
-                                                               Effective Date: April 2003 – Revised Dates: June 16, 2004, February 2012, June 2013, July 2014, September 2016
+http://www.emoryhealthcare.org/patients-visitors/non-discrimination-policy.html
+                                               Effective Date: April 2003 – Revised Dates: June 16, 2004, February 2012, June 2013, July 2014, September 2016, September 2018
