@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hostplus.com.au privacy policy that was archived on 2018-09-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180904145214id_/https%3A//hostplus.com.au/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hostplus.com.au privacy policy that was archived on 2019-03-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190303041731id_/https%3A//hostplus.com.au/privacy) for the most accurate reproduction.*
 
 # Privacy
 
@@ -8,7 +8,10 @@ At Hostplus we’re run to benefit our members, which means we’re committed to
 
 We often say that in the superannuation business we sell trust. The nature of our product means our members need to trust us to look after their money for many years, decades in fact.  And your personal information is no different.
 
-This policy briefly explains the main ways we protect your privacy, the reasons why we collect your personal information, and how we comply with the Australian Privacy Principles. 
+This policy briefly explains the main ways we protect your privacy, the reasons why we collect your personal information, and how we comply with the Australian Privacy Principles.
+
+Hostplus employers and members may ask to speak with our Privacy Officer. At Hostplus our Privacy Officer is our Head of Compliance.  
+You can contact the Hostplus Privacy Officer through [hpprivacy@hostplus.com.au](mailto:hpprivacy@hostplus.com.au).
 
 ### What is personal information? 
 
@@ -143,14 +146,14 @@ Simply contact us via the details below and we’d be happy to help with:
 
   * **Finding out more.** If you’d like further information about privacy at Hostplus, just let us know.
   * **Accessing or updating your personal information.**   We’ll provide you with a copy of your requested personal information or update your details as soon as possible. We encourage you to contact us to correct any personal information we hold on you. In the rare event that we’re unable to provide you with access to or update your personal information, we’ll write to you to let you know why.
-  * **Providing feedback or making a complaint.**   We’ll make sure that someone from Hostplus responds to you within 30 days. If you're still not satisfied with our response, you can then either contact the Financial Ombudsman Service or the Office of the Australian Information Commissioner. 
-  * **Opting-out**. Please contact us at any time if you no longer wish to receive direct marketing material, or do not wish to receive information about additional services that Hostplus or its partners provide. Alternatively, log into your Member Online account to opt out.
+  * **Providing feedback or making a complaint.**   We’ll make sure that someone from Hostplus responds to you within 30 days. If we don’t respond to you within this timeframe, or if you’re not satisfied with our response, you can contact the Office of the Australian Information Commissioner by visiting [oaic.gov.au/individuals/how-do-i-make-a-privacy-complaint](https://www.oaic.gov.au/individuals/how-do-i-make-a-privacy-complaint)
+  * **Opting-out.** Please contact us at any time if you no longer wish to receive direct marketing material, or do not wish to receive information about additional services that Hostplus or its partners provide. Alternatively, log into your Member Online account to opt out.
 
 
 
 Call us on **1300 467 875  **for super members or **1300 348 546** for pension members.
 
-Email us at [**privacy@mail.hostplus.com.au**](mailto:privacy@hostplus.com.au), or **[privacy@mail.hostpluspension.com.au](mailto:privacy@mail.hostpluspension.com.au)**
+Email us at [**privacy@hostplus.com.au**](mailto:privacy@hostplus.com.au), or **[privacy@hostpluspension.com.au](mailto:privacy@hostpluspension.com.au)**
 
 Write to us at Locked Bag 5046 Parramatta NSW 2124.
 
