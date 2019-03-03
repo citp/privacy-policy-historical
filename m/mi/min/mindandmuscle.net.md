@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mindandmuscle.net privacy policy that was archived on 2018-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181102053148id_/http%3A//mindandmuscle.net/articles/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mindandmuscle.net privacy policy that was archived on 2019-03-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190303093446id_/https%3A//mindandmuscle.net/articles/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Mind And Muscle
 
