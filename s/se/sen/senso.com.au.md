@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the senso.com.au privacy policy that was archived on 2018-09-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180907230852id_/https%3A//senso.com.au/pages/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the senso.com.au privacy policy that was archived on 2019-03-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190304064414id_/https%3A//senso.com.au/pages/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy – SENSO
 
@@ -34,4 +34,4 @@ Protecting the privacy of the very young is especially important. For that reaso
 
 ## How To Contact Us:
 
-Should you have other questions or concerns about these privacy policies, please send us an email at [info@senso.com.au](https://web.archive.org/web/20180907230852id_/https%3A//senso.com.au/pages/info@senso.com.au).
+Should you have other questions or concerns about these privacy policies, please send us an email at [info@senso.com.au](https://web.archive.org/web/20190304064414id_/https%3A//senso.com.au/pages/info@senso.com.au).
