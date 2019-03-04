@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the oneshift.com.au privacy policy that was archived on 2018-09-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180908123526id_/https%3A//oneshift.com.au/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the oneshift.com.au privacy policy that was archived on 2019-03-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190304133507id_/https%3A//oneshift.com.au/privacypolicy) for the most accurate reproduction.*
 
 # OneShift Jobs - Privacy Policy
 
