@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 66mobile.com privacy policy that was archived on 2018-08-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180815044231id_/http%3A//www.66mobile.com/privacy-policy/uncategorised/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 66mobile.com privacy policy that was archived on 2019-03-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190304060537id_/https%3A//www.66mobile.com/privacy-policy/uncategorised/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Uncategorised
 
