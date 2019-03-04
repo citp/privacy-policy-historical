@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the facialabuse.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606064722id_/http%3A//support.facefucking.com/privacy.php%3Fid%3D10) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the facialabuse.com privacy policy that was archived on 2019-03-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190304111645id_/https%3A//support.facialabuse.com/privacy.php%3Fid%3D10) for the most accurate reproduction.*
 
 # Customer Support Center - Privacy Statement
 
@@ -30,7 +30,7 @@ DPEt pMPunlItYiEmUeQdRijaF BLxttdi.y collects account registration information o
 
 To prevent unauthorized access, maintain data accuracy, and ensure the correct use of information, we have put in place appropriate physical, electronic, and managerial procedures to safeguard and secure the information we collect online.
 
-Have a question? [Contact Support](https://web.archive.org/web/20170606064722id_/http%3A//support.facefucking.com/contact-support.php?id=10)!
+Have a question? [Contact Support](https://web.archive.org/web/20190304111645id_/https%3A//support.facialabuse.com/contact-support.php?id=10)!
 
   
 
