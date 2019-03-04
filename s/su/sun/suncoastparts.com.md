@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the suncoastparts.com privacy policy that was archived on 2017-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170626232954id_/https%3A//www.suncoastparts.com/PRPO.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the suncoastparts.com privacy policy that was archived on 2019-03-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190304160614id_/https%3A//www.suncoastparts.com/PRPO.html) for the most accurate reproduction.*
 
 # Suncoast Porsche Parts & Accessories: Privacy Policy
 
@@ -13,6 +13,30 @@ We receive and store information you enter. For example, when you search for or 
 #### Cookies
 
 Like many websites, we use "cookies". Cookies are small programs that we transfer to your hard drive that allow us to recognize you and to provide you with a customized shopping experience. If you do not want us to use cookies, you can easily disable them by going to the toolbar of your web browser, and clicking on the "help"button. Follow the instructions that will prevent the browser from accepting cookies, or set the browser to inform you when you receive a new cookie.In addition, you may visit this and other websites anonymously through the use of utilities provided by other private companies. 
+
+#### The Cookies We Set
+
+· Account related cookies - If you create an account with us then we will use cookies for the management of the signup process and general administration. These cookies will usually be deleted when you log out however in some cases they may remain afterwards to remember your site preferences when logged out. 
+
+· Login related cookies - We use cookies when you are logged in which prevents you from having to log in every single time you visit a new page. These cookies are typically removed or cleared when you log out to ensure that you can only access restricted features and areas when logged in. 
+
+· Email newsletters related cookies - This site offers newsletter or email subscription services and cookies may be used to remember if you are already registered and whether to show certain notifications which might only be valid to subscribed/unsubscribed users. 
+
+· Survey related cookies - From time to time we offer user surveys and questionnaires to provide you with interesting insights, helpful tools, or to understand our user base more accurately. These surveys may use cookies to remember who has already taken part in a survey or to provide you with accurate results after you change pages. 
+
+· Forms related cookies - When you submit data to through a form such as those found on contact pages or comment forms cookies may be set to remember your user details for future correspondence. 
+
+· Site preferences cookies - In order to remember your user preferences we need to set cookies so that this information can be called whenever you interact with a page that is affected by your preferences. 
+
+#### Google Analytics
+
+Google Analytics, which is one of the most widespread and trusted analytics solutions on the web for helping us understand how you use the site and ways that we can improve your experience. These cookies may track things such as how long you spend on the site and the pages that you visit so we can continue to produce engaging content. The following resources are available for Google Analytics: [Privacy Policy](https://developers.google.com/analytics/devguides/collection/analyticsjs/cookie-usage) and under [Terms of Service](https://www.google.com/analytics/terms/us.html). For more information, see the [Google Analytics Cookie Usage page](https://developers.google.com/analytics/devguides/collection/analyticsjs/cookie-usage). 
+
+We also use social media buttons and/or plugins on this site that allow you to connect with your social network in various ways. Facebook, Pinterest, Twitter, Instagram, YouTube, etc. For more information on their privacy policy, visit those sites for details. 
+
+#### Email Newsletter
+
+We use StreamSend.com for our weekly newsletter. Our newsletter contains tracking pixels (Newsletter-Tracking). A tracking pixel is a miniature graphic embedded in such e-mails, which are sent in HTML format to enable log file recording and analysis. This allows a statistical analysis of the success or failure of online marketing campaigns. Based on the embedded tracking pixel, SuncoastParts.com may see if and when an e-mail was opened and which links in the e-mail were clicked. Your personal data will not be passed on to third parties. We provide a single opt-in procedure as well as opting-out from our newsletters. If you elect to opt-out of our newsletter, your personal data will be removed and deleted. SuncoastParts.com automatically regards opting-out as a withdrawal from any further newsletters. 
 
 #### Other Information
 
