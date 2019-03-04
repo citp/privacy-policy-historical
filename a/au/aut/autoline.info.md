@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the autoline.info privacy policy that was archived on 2018-08-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180815051049id_/https%3A//autoline.info/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the autoline.info privacy policy that was archived on 2019-03-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190304231631id_/https%3A//autoline.info/privacy-policy) for the most accurate reproduction.*
 
 # Privacy policy
 
