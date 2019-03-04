@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the tigerair.com.au privacy policy that was archived on 2018-09-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180904074432id_/https%3A//tigerair.com.au/legal/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tigerair.com.au privacy policy that was archived on 2019-03-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190304213847id_/https%3A//tigerair.com.au/legal/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | tigerair Australia
+# Privacy Policy | tigerair
 
   1. About this policy
   2. Collecting your personal information
