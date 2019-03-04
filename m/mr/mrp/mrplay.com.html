@@ -1,0 +1,1795 @@
+<!--The following is the downloaded HTML source of the mrplay.com privacy policy that was archived on 2019-03-04.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20190304092834id_/https%3A//www.mrplay.com/info/privacy) for the most accurate reproduction.-->
+
+<!DOCTYPE html><html lang="en"><head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge"><script type="text/javascript">window.NREUM||(NREUM={}),__nr_require=function(e,n,t){function r(t){if(!n[t]){var o=n[t]={exports:{}};e[t][0].call(o.exports,function(n){var o=e[t][1][n];return r(o||n)},o,o.exports)}return n[t].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<t.length;o++)r(t[o]);return r}({1:[function(e,n,t){function r(){}function o(e,n,t){return function(){return i(e,[c.now()].concat(u(arguments)),n?null:this,t),n?void 0:this}}var i=e("handle"),a=e(3),u=e(4),f=e("ee").get("tracer"),c=e("loader"),s=NREUM;"undefined"==typeof window.newrelic&&(newrelic=s);var p=["setPageViewName","setCustomAttribute","setErrorHandler","finished","addToTrace","inlineHit","addRelease"],d="api-",l=d+"ixn-";a(p,function(e,n){s[n]=o(d+n,!0,"api")}),s.addPageAction=o(d+"addPageAction",!0),s.setCurrentRouteName=o(d+"routeName",!0),n.exports=newrelic,s.interaction=function(){return(new r).get()};var m=r.prototype={createTracer:function(e,n){var t={},r=this,o="function"==typeof n;return i(l+"tracer",[c.now(),e,t],r),function(){if(f.emit((o?"":"no-")+"fn-start",[c.now(),r,o],t),o)try{return n.apply(this,arguments)}catch(e){throw f.emit("fn-err",[arguments,this,e],t),e}finally{f.emit("fn-end",[c.now()],t)}}}};a("actionText,setName,setAttribute,save,ignore,onEnd,getContext,end,get".split(","),function(e,n){m[n]=o(l+n)}),newrelic.noticeError=function(e,n){"string"==typeof e&&(e=new Error(e)),i("err",[e,c.now(),!1,n])}},{}],2:[function(e,n,t){function r(e,n){if(!o)return!1;if(e!==o)return!1;if(!n)return!0;if(!i)return!1;for(var t=i.split("."),r=n.split("."),a=0;a<r.length;a++)if(r[a]!==t[a])return!1;return!0}var o=null,i=null,a=/Version\/(\S+)\s+Safari/;if(navigator.userAgent){var u=navigator.userAgent,f=u.match(a);f&&u.indexOf("Chrome")===-1&&u.indexOf("Chromium")===-1&&(o="Safari",i=f[1])}n.exports={agent:o,version:i,match:r}},{}],3:[function(e,n,t){function r(e,n){var t=[],r="",i=0;for(r in e)o.call(e,r)&&(t[i]=n(r,e[r]),i+=1);return t}var o=Object.prototype.hasOwnProperty;n.exports=r},{}],4:[function(e,n,t){function r(e,n,t){n||(n=0),"undefined"==typeof t&&(t=e?e.length:0);for(var r=-1,o=t-n||0,i=Array(o<0?0:o);++r<o;)i[r]=e[n+r];return i}n.exports=r},{}],5:[function(e,n,t){n.exports={exists:"undefined"!=typeof window.performance&&window.performance.timing&&"undefined"!=typeof window.performance.timing.navigationStart}},{}],ee:[function(e,n,t){function r(){}function o(e){function n(e){return e&&e instanceof r?e:e?f(e,u,i):i()}function t(t,r,o,i){if(!d.aborted||i){e&&e(t,r,o);for(var a=n(o),u=v(t),f=u.length,c=0;c<f;c++)u[c].apply(a,r);var p=s[y[t]];return p&&p.push([b,t,r,a]),a}}function l(e,n){h[e]=v(e).concat(n)}function m(e,n){var t=h[e];if(t)for(var r=0;r<t.length;r++)t[r]===n&&t.splice(r,1)}function v(e){return h[e]||[]}function g(e){return p[e]=p[e]||o(t)}function w(e,n){c(e,function(e,t){n=n||"feature",y[t]=n,n in s||(s[n]=[])})}var h={},y={},b={on:l,addEventListener:l,removeEventListener:m,emit:t,get:g,listeners:v,context:n,buffer:w,abort:a,aborted:!1};return b}function i(){return new r}function a(){(s.api||s.feature)&&(d.aborted=!0,s=d.backlog={})}var u="nr@context",f=e("gos"),c=e(3),s={},p={},d=n.exports=o();d.backlog=s},{}],gos:[function(e,n,t){function r(e,n,t){if(o.call(e,n))return e[n];var r=t();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(e,n,{value:r,writable:!0,enumerable:!1}),r}catch(i){}return e[n]=r,r}var o=Object.prototype.hasOwnProperty;n.exports=r},{}],handle:[function(e,n,t){function r(e,n,t,r){o.buffer([e],r),o.emit(e,n,t)}var o=e("ee").get("handle");n.exports=r,r.ee=o},{}],id:[function(e,n,t){function r(e){var n=typeof e;return!e||"object"!==n&&"function"!==n?-1:e===window?0:a(e,i,function(){return o++})}var o=1,i="nr@id",a=e("gos");n.exports=r},{}],loader:[function(e,n,t){function r(){if(!E++){var e=x.info=NREUM.info,n=l.getElementsByTagName("script")[0];if(setTimeout(s.abort,3e4),!(e&&e.licenseKey&&e.applicationID&&n))return s.abort();c(y,function(n,t){e[n]||(e[n]=t)}),f("mark",["onload",a()+x.offset],null,"api");var t=l.createElement("script");t.src="https://"+e.agent,n.parentNode.insertBefore(t,n)}}function o(){"complete"===l.readyState&&i()}function i(){f("mark",["domContent",a()+x.offset],null,"api")}function a(){return O.exists&&performance.now?Math.round(performance.now()):(u=Math.max((new Date).getTime(),u))-x.offset}var u=(new Date).getTime(),f=e("handle"),c=e(3),s=e("ee"),p=e(2),d=window,l=d.document,m="addEventListener",v="attachEvent",g=d.XMLHttpRequest,w=g&&g.prototype;NREUM.o={ST:setTimeout,SI:d.setImmediate,CT:clearTimeout,XHR:g,REQ:d.Request,EV:d.Event,PR:d.Promise,MO:d.MutationObserver};var h=""+location,y={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-1118.min.js"},b=g&&w&&w[m]&&!/CriOS/.test(navigator.userAgent),x=n.exports={offset:u,now:a,origin:h,features:{},xhrWrappable:b,userAgent:p};e(1),l[m]?(l[m]("DOMContentLoaded",i,!1),d[m]("load",r,!1)):(l[v]("onreadystatechange",o),d[v]("onload",r)),f("mark",["firstbyte",u],null,"api");var E=0,O=e(5)},{}]},{},["loader"]);</script>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0">
+    <meta name="mwc-app-mode" content="widget">
+    <title>Mrplay.com</title>
+    <meta name="description" content="mr.play Casino offers a wide range of card games including Blackjack, Baccarat, Poker and more.">
+    <meta name="keywords" content="">
+
+    <meta name="application-name" content="Mrplay">
+    <meta name="mwc-app-mode" content="fullapp">
+    <meta name="apple-mobile-web-app-capable" content="yes">
+    <meta name="apple-mobile-web-app-status-bar-style" content="black">
+
+    
+    <!-- To support old sizes -->
+    <link rel="apple-touch-icon" sizes="114x114" href="https://download.gamesrv1.com/Resources/mrplaycom/web/all/touch-icon/114x114.png">
+    <!-- To support new sizes -->
+    <link rel="apple-touch-icon" sizes="120x120" href="https://download.gamesrv1.com/Resources/mrplaycom/web/all/touch-icon/120x120.png">
+    <link rel="apple-touch-icon" sizes="152x152" href="https://download.gamesrv1.com/Resources/mrplaycom/web/all/touch-icon/152x152.png">
+    <link rel="apple-touch-icon" sizes="180x180" href="https://download.gamesrv1.com/Resources/mrplaycom/web/all/touch-icon/180x180.png">
+    <link rel="apple-touch-icon" sizes="128x128" href="https://download.gamesrv1.com/Resources/mrplaycom/web/all/touch-icon/128x128.png">
+        <link rel="shortcut icon" type="image/x-icon" href="https://download.gamesrv1.com/Resources/mrplaycom/web/all/favicon.ico">
+
+    <link rel="alternate" href="https://www.mrplay.com/info/privacy/" hreflang="en">
+<link rel="alternate" href="https://de.mrplay.com/info/privacy/" hreflang="de">
+<link rel="alternate" href="https://sv.mrplay.com/info/privacy/" hreflang="sv">
+<link rel="alternate" href="https://no.mrplay.com/info/privacy/" hreflang="no">
+<link rel="alternate" href="https://fi.mrplay.com/info/privacy/" hreflang="fi">
+        <script type="text/javascript" id="_hseo_" data-seo-link="https://online.mrplaypartners.com/promoRedirect?member=mrplaymarket&amp;campaign=DEFAULT&amp;channel=DEFAULT&amp;zone=13530883&amp;lp=13525279" src="https://mrplaypartners.com/seo.packed.js"></script>    <link rel="canonical" href="https://www.mrplay.com/info/privacy/">
+
+
+    
+        
+    
+
+    <link rel="shortcut icon" type="image/x-icon" href="https://www.mrplay.com/wp-content/themes/AspireLayout_mrplay/images/MrPlay_Favicon_32x32px.png">
+<link href="https://fonts.googleapis.com/css?family=Lato|Open+Sans|Poppins" rel="stylesheet">
+    <link rel="stylesheet" href="https://fnc.aspireglobal.com/asg-framework/global_plugins/fonts/open-sans-fonts/open-sans.css">
+    <link rel="stylesheet" href="https://www.mrplay.com/wp-content/themes/AspireLayout_mrplay/css/bootstrap.min.css">
+    <link rel="stylesheet" href="https://www.mrplay.com/wp-content/themes/AspireLayout_mrplay/owlcarousel/owl.carousel.min.css">
+    <link rel="stylesheet" href="https://www.mrplay.com/wp-content/themes/AspireLayout_mrplay/owlcarousel/owl.theme.default.css">
+    <link rel="stylesheet" href="https://fnc.aspireglobal.com/asg-framework/global.css">
+    <link rel="stylesheet" href="https://www.mrplay.com/wp-content/themes/AspireLayout_mrplay/css/mrplay.css">
+    <link rel="stylesheet" href="https://www.mrplay.com/wp-content/themes/AspireLayout_mrplay/style.css">
+    <link rel="stylesheet" href="https://www.mrplay.com/wp-content/themes/AspireLayout_mrplay/mobile.css">
+<meta name="ROBOTS" content="NOINDEX, FOLLOW"><script src="https://www.mrplay.com/wp-content/themes/AspireLayout_mrplay/js/jquery.min.js"></script>
+<script src="https://www.mrplay.com/wp-content/themes/AspireLayout_mrplay/js/popper.min.js"></script>
+<script src="https://www.mrplay.com/wp-content/themes/AspireLayout_mrplay/js/bootstrap.min.js"></script>
+<script src="https://www.mrplay.com/wp-content/themes/AspireLayout_mrplay/owlcarousel/owl.carousel.min.js"></script>
+
+<script src="https://fnc.aspireglobal.com/asg-framework/global_plugins/image-map-resizer/js/imageMapResizer.min.js"></script>
+</head>
+<body class="asg country-us info  ">
+<div id="totop"><span class="mrplay-sprite arr down"></span></div>
+
+<div class="iSoftBet-popup-wrap show-iSoftBet-popup" style="display: none;">
+    <div class="iSoftBet-popup-inner">
+        <div class="iSoftBet-popup-content">Game is loading. You are now exiting the Maltese jurisdiction.</div>
+    </div>
+</div>
+<div class="cover-screen primary-bgcolor"></div>
+<div class="popup-wrap show-popup" style="display: none;">
+    <div class="popup-inner" id="popup-messages-container">
+        <div class="bonus-wager-popup-enter popup-content" data-name="bonus-wager-enter" style="display: none;">You have bonus money in your account, wagering will be required before any winnings can be withdrawn.</div>
+        <div class="bonus-wager-popup-exit popup-content" data-name="bonus-wager-exit" style="display: none;">You are now playing with real money.</div>
+    </div>
+</div>
+
+
+<div class="cockie-popup-wrap" style="display: none;">
+    <div class="cockie-popup-inner">
+        <div class="cockie-popup-close"><img src="https://download.gamesrv1.com/Resources/asg-universal/x.png" alt="cockie-popup-close"></div>
+        <div class="cockie-popup-content">We use cookies in order to provide you with a better browsing experience. If you continue to use this website we assume you are ok with this. <a href="/info/privacy/" style="text-decoration: underline;">To learn more and to turn off cookies visit our Privacy and Cookie Policy</a></div>
+    </div>
+</div>
+<div style="display:none">
+    <ul class="sb-menu fifth-bgcolor">
+        <div class="log-out">
+            <li class="item-promotions"><a data-action="navigateTo" data-action-info="/promotions/" class="dropdown-item"><span class="mrplay-sprite icon promotions"></span>Promotions</a></li>
+<li class="item-exclusiveClub"><a data-action="navigateTo" data-action-info="/vip/" class="dropdown-item"><span class="mrplay-sprite icon exclusiveClub"></span>Exclusive club</a></li>
+<li>
+    <a><span class="mrplay-sprite icon gettingStarted"></span>Getting Started</a>
+    <ul>
+        <li class="side-deposits">
+    <a data-action="navigateTo" data-action-info="/info/help-deposit/">
+        Deposits
+    </a>
+</li>
+    
+<li class="side-cashout">
+    <a data-action="navigateTo" data-action-info="/info/helpcashout/">
+        Cashout
+    </a>
+</li>
+    
+<li class="side-help">
+    <a data-action="navigateTo" data-action-info="/info/help/">
+        Help
+    </a>
+</li>
+    
+<li class="side-faq">
+    <a data-action="navigateTo" data-action-info="/info/faq/">
+        FAQs
+    </a>
+</li>
+    
+
+    </ul>
+    <span class="mrplay-sprite arr down"></span>
+</li>
+
+
+
+<li>
+    <a><span class="mrplay-sprite icon information"></span>Information</a>
+    <ul>
+        <li class="side-bonusPolicy">
+    <a data-action="navigateTo" data-action-info="/info/bonus-policy/">
+        Bonus Policy
+    </a>
+</li>
+    
+<li class="side-responsibleGaming">
+    <a data-action="navigateTo" data-action-info="/info/responsible/">
+        Responsible Gaming
+    </a>
+</li>
+    
+<li class="side-fairPlay">
+    <a data-action="navigateTo" data-action-info="/info/fair-play/">
+        Fair Play
+    </a>
+</li>
+    
+<li class="side-paymentMethods">
+    <a data-action="navigateTo" data-action-info="/info/help-deposit-methods/">
+        Payment Methods
+    </a>
+</li>
+    
+
+    </ul>
+    <span class="mrplay-sprite arr down"></span>
+</li>
+
+
+
+<li>
+    <a><span class="mrplay-sprite icon Casino Games"></span>Casino Games</a>
+    <ul>
+        <li class="side-All Games">
+    <a data-action="navigateTo" data-action-info="https://www.mrplay.com/casino/">
+        All Games
+    </a>
+</li>
+    <li class="side-Slots">
+    <a data-action="navigateTo" data-action-info="https://www.mrplay.com/casino/slots/">
+        Slots
+    </a>
+</li>
+    <li class="side-Roulette">
+    <a data-action="navigateTo" data-action-info="https://www.mrplay.com/casino/roulette/">
+        Roulette
+    </a>
+</li>
+    <li class="side-Blackjack">
+    <a data-action="navigateTo" data-action-info="https://www.mrplay.com/casino/blackjack/">
+        Blackjack
+    </a>
+</li>
+    <li class="side-Progressive Jackpots">
+    <a data-action="navigateTo" data-action-info="https://www.mrplay.com/casino/progressive-jackpot/">
+        Progressive Jackpots
+    </a>
+</li>
+    <li class="side-Live">
+    <a data-action="navigateTo" data-action-info="https://www.mrplay.com/casino/live/">
+        Live
+    </a>
+</li>
+    <li class="side-Classic Slots">
+    <a data-action="navigateTo" data-action-info="https://www.mrplay.com/casino/classic-slots/">
+        Classic Slots
+    </a>
+</li>
+    <li class="side-Card Games">
+    <a data-action="navigateTo" data-action-info="https://www.mrplay.com/casino/card-games/">
+        Card Games
+    </a>
+</li>
+    <li class="side-Casual Games">
+    <a data-action="navigateTo" data-action-info="https://www.mrplay.com/casino/casual-games/">
+        Casual Games
+    </a>
+</li>
+    <li class="side-Popular Games">
+    <a data-action="navigateTo" data-action-info="https://www.mrplay.com/casino/popular-games/">
+        Popular Games
+    </a>
+</li>
+    <li class="side-New Games">
+    <a data-action="navigateTo" data-action-info="https://www.mrplay.com/casino/new-games/">
+        New Games
+    </a>
+</li>
+    <li class="side-Scratchcards">
+    <a data-action="navigateTo" data-action-info="https://www.mrplay.com/casino/scratchcards/">
+        Scratchcards
+    </a>
+</li>
+    
+    </ul>
+    <span class="mrplay-sprite arr down"></span>
+</li>
+
+
+<li class="item-chat"><a data-action="showChat" data-action-info="" class="dropdown-item"><span class="mrplay-sprite icon chat"></span>CHAT</a></li>
+<li>
+    <a><span class="mrplay-sprite icon changeLanguage"></span>Change Language</a>
+    <ul>
+        <li class="side-language">
+    <a data-action="changeLanguage" data-action-info="ENG">
+        English
+    </a>
+</li>
+    <li class="side-language">
+    <a data-action="changeLanguage" data-action-info="GER">
+        Deutsch
+    </a>
+</li>
+    <li class="side-language">
+    <a data-action="changeLanguage" data-action-info="SWE">
+        Svenska
+    </a>
+</li>
+    <li class="side-language">
+    <a data-action="changeLanguage" data-action-info="NOR">
+        Norsk
+    </a>
+</li>
+    <li class="side-language">
+    <a data-action="changeLanguage" data-action-info="FIN">
+        Suomi
+    </a>
+</li>
+    
+
+    </ul>
+    <span class="mrplay-sprite arr down"></span>
+</li>
+
+
+<li class="item-logout"><a data-action="logout" data-action-info="" class="dropdown-item"><span class="mrplay-sprite icon logout"></span>Logout</a></li>
+        </div>
+        <div class="log-in">
+            <li class="item-login"><a data-action="showLogin" data-action-info="" class="dropdown-item"><span class="mrplay-sprite icon login"></span>Login</a></li>
+<li class="item-promotions"><a data-action="navigateTo" data-action-info="/promotions/" class="dropdown-item"><span class="mrplay-sprite icon promotions"></span>Promotions</a></li>
+<li class="item-exclusiveClub"><a data-action="navigateTo" data-action-info="/vip/" class="dropdown-item"><span class="mrplay-sprite icon exclusiveClub"></span>Exclusive club</a></li>
+<li>
+    <a><span class="mrplay-sprite icon gettingStarted"></span>Getting Started</a>
+    <ul>
+        <li class="side-deposits">
+    <a data-action="navigateTo" data-action-info="/info/help-deposit/">
+        Deposits
+    </a>
+</li>
+    
+<li class="side-cashout">
+    <a data-action="navigateTo" data-action-info="/info/helpcashout/">
+        Cashout
+    </a>
+</li>
+    
+<li class="side-help">
+    <a data-action="navigateTo" data-action-info="/info/help/">
+        Help
+    </a>
+</li>
+    
+<li class="side-faq">
+    <a data-action="navigateTo" data-action-info="/info/faq/">
+        FAQs
+    </a>
+</li>
+    
+
+    </ul>
+    <span class="mrplay-sprite arr down"></span>
+</li>
+
+
+
+<li>
+    <a><span class="mrplay-sprite icon information"></span>Information</a>
+    <ul>
+        <li class="side-bonusPolicy">
+    <a data-action="navigateTo" data-action-info="/info/bonus-policy/">
+        Bonus Policy
+    </a>
+</li>
+    
+<li class="side-responsibleGaming">
+    <a data-action="navigateTo" data-action-info="/info/responsible/">
+        Responsible Gaming
+    </a>
+</li>
+    
+<li class="side-fairPlay">
+    <a data-action="navigateTo" data-action-info="/info/fair-play/">
+        Fair Play
+    </a>
+</li>
+    
+<li class="side-paymentMethods">
+    <a data-action="navigateTo" data-action-info="/info/help-deposit-methods/">
+        Payment Methods
+    </a>
+</li>
+    
+
+    </ul>
+    <span class="mrplay-sprite arr down"></span>
+</li>
+
+
+
+<li>
+    <a><span class="mrplay-sprite icon Casino Games"></span>Casino Games</a>
+    <ul>
+        <li class="side-All Games">
+    <a data-action="navigateTo" data-action-info="https://www.mrplay.com/casino/">
+        All Games
+    </a>
+</li>
+    <li class="side-Slots">
+    <a data-action="navigateTo" data-action-info="https://www.mrplay.com/casino/slots/">
+        Slots
+    </a>
+</li>
+    <li class="side-Roulette">
+    <a data-action="navigateTo" data-action-info="https://www.mrplay.com/casino/roulette/">
+        Roulette
+    </a>
+</li>
+    <li class="side-Blackjack">
+    <a data-action="navigateTo" data-action-info="https://www.mrplay.com/casino/blackjack/">
+        Blackjack
+    </a>
+</li>
+    <li class="side-Progressive Jackpots">
+    <a data-action="navigateTo" data-action-info="https://www.mrplay.com/casino/progressive-jackpot/">
+        Progressive Jackpots
+    </a>
+</li>
+    <li class="side-Live">
+    <a data-action="navigateTo" data-action-info="https://www.mrplay.com/casino/live/">
+        Live
+    </a>
+</li>
+    <li class="side-Classic Slots">
+    <a data-action="navigateTo" data-action-info="https://www.mrplay.com/casino/classic-slots/">
+        Classic Slots
+    </a>
+</li>
+    <li class="side-Card Games">
+    <a data-action="navigateTo" data-action-info="https://www.mrplay.com/casino/card-games/">
+        Card Games
+    </a>
+</li>
+    <li class="side-Casual Games">
+    <a data-action="navigateTo" data-action-info="https://www.mrplay.com/casino/casual-games/">
+        Casual Games
+    </a>
+</li>
+    <li class="side-Popular Games">
+    <a data-action="navigateTo" data-action-info="https://www.mrplay.com/casino/popular-games/">
+        Popular Games
+    </a>
+</li>
+    <li class="side-New Games">
+    <a data-action="navigateTo" data-action-info="https://www.mrplay.com/casino/new-games/">
+        New Games
+    </a>
+</li>
+    <li class="side-Scratchcards">
+    <a data-action="navigateTo" data-action-info="https://www.mrplay.com/casino/scratchcards/">
+        Scratchcards
+    </a>
+</li>
+    
+    </ul>
+    <span class="mrplay-sprite arr down"></span>
+</li>
+
+
+<li class="item-chat"><a data-action="showChat" data-action-info="" class="dropdown-item"><span class="mrplay-sprite icon chat"></span>CHAT</a></li>
+<li>
+    <a><span class="mrplay-sprite icon changeLanguage"></span>Change Language</a>
+    <ul>
+        <li class="side-language">
+    <a data-action="changeLanguage" data-action-info="ENG">
+        English
+    </a>
+</li>
+    <li class="side-language">
+    <a data-action="changeLanguage" data-action-info="GER">
+        Deutsch
+    </a>
+</li>
+    <li class="side-language">
+    <a data-action="changeLanguage" data-action-info="SWE">
+        Svenska
+    </a>
+</li>
+    <li class="side-language">
+    <a data-action="changeLanguage" data-action-info="NOR">
+        Norsk
+    </a>
+</li>
+    <li class="side-language">
+    <a data-action="changeLanguage" data-action-info="FIN">
+        Suomi
+    </a>
+</li>
+    
+
+    </ul>
+    <span class="mrplay-sprite arr down"></span>
+</li>
+
+
+        </div>
+        
+    </ul>
+</div>
+<header>
+    <div class="side-nav">
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 37.13 28.16">
+    <defs>
+        <style>svg:hover{fill:#01a0f9;}</style>
+    </defs>
+    <title>hamburger</title>
+    <g id="Layer_2" data-name="Layer 2">
+        <g id="Layer_1-2" data-name="Layer 1">
+            <path class="cls-1" d="M13.72,5.92H34.17a3,3,0,1,0,0-5.92H13.72a3,3,0,0,0,0,5.92Z"></path>
+            <path class="cls-1" d="M34.17,11.12H13.72a3,3,0,0,0,0,5.92H34.17a3,3,0,1,0,0-5.92Z"></path>
+            <rect class="cls-1" x="10.76" y="22.24" width="26.37" height="5.92" rx="2.96" ry="2.96"></rect>
+            <path class="cls-1" d="M3,0a3,3,0,1,0,3,3A3,3,0,0,0,3,0Z"></path>
+            <path class="cls-1" d="M3,11.12a3,3,0,1,0,3,3A3,3,0,0,0,3,11.12Z"></path>
+            <path class="cls-1" d="M3,22.24a3,3,0,1,0,3,3A3,3,0,0,0,3,22.24Z"></path>
+        </g>
+    </g>
+</svg>    </div>
+    <ul class="games-categories main-nav mob-hidden"></ul>
+    <a href="/" class="top-logo">MrPlay</a>
+    <div class="opts-nav log-in">
+        <a href="#" data-action="showRegistration" data-action-info="" class="mrplay-btn blue account text-white mob-hidden">Open Account</a>
+        <a href="#" data-action="showLogin" data-action-info="" class="mrplay-btn white login mob-hidden">Login</a>
+        <a href="#" data-action="showChat" data-action-info="#" class="mrplay-btn grey chat mob-hidden">&nbsp;</a>
+        <a href="#" class="mrplay-btn search mob-visible"><span class="close-search">Close Search</span></a>
+    </div>
+    <div class="opts-nav log-out">
+        <div id="user-area" class="mob-hidden">
+            <div class="inner">
+                <div class="item user-menu">
+                    <div class="user-icon"></div>
+
+                    <div class="dropdown">
+                        <div class="menu-arrow" id="user-dropdown" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false"></div>
+                        <ul id="account_details" class="dropdown-menu dropdown-menu-right" role="menu" aria-labelledby="user-dropdown">
+                            <li><a class="dropdown-item user-id"></a></li>
+                            <div class="dropdown-divider"></div>
+                            <li class="item-myAccount"><a data-action="showMyAccount" data-action-info="" class="dropdown-item"><span class="mrplay-sprite icon myAccount"></span>My Account</a></li>
+<li class="item-myRewardPoints"><a data-action="showMyRewards" data-action-info="" class="dropdown-item"><span class="mrplay-sprite icon myRewardPoints"></span>My reward points</a></li>
+<li class="item-responsibleGaming"><a data-action="navigateTo" data-action-info="/info/responsible/" class="dropdown-item"><span class="mrplay-sprite icon responsibleGaming"></span>Responsible Gaming</a></li>
+<li class="item-deposit"><a data-action="showDeposit" data-action-info="" class="dropdown-item"><span class="mrplay-sprite icon deposit"></span>Deposit</a></li>
+<li class="item-cashout"><a data-action="showWithdraw" data-action-info="" class="dropdown-item"><span class="mrplay-sprite icon cashout"></span>Cashout</a></li>
+<li class="item-needHelp"><a data-action="navigateTo" data-action-info="/help.aspx" class="dropdown-item"><span class="mrplay-sprite icon needHelp"></span>Need Help?</a></li>
+<li class="item-contactUs"><a data-action="showContactUs" data-action-info="" class="dropdown-item"><span class="mrplay-sprite icon contactUs"></span>Contact Us</a></li>
+<li class="item-logout"><a data-action="logout" data-action-info="" class="dropdown-item"><span class="mrplay-sprite icon logout"></span>Logout</a></li>
+                        </ul>
+                    </div>
+
+                </div>
+                <div class="floating">
+                                            <div class="item user-status">
+                            <div class="user-text"></div>
+                            <div class="user-progress item-myRewardPoints">
+                                <div class="bar" style="width:0%;">0%</div>
+                            </div>
+                        </div>
+                                        <div class="item user-balance sum-span"></div>
+                </div>
+            </div>
+        </div>
+        <a href="#" class="mrplay-btn blue account text-white mob-hidden" data-action="showDeposit">Deposit</a>
+        <a href="#" class="mrplay-btn grey chat mob-hidden" data-action="showChat" data-action-info="#">&nbsp;</a>
+        <a href="#" class="mrplay-btn search mob-visible"><span class="close-search">Close Search</span></a>
+    </div>
+</header>
+<div class="mob-nav log-in-mobile">
+    <a data-action="showRegistration" data-action-info="" class="mrplay-btn blue account text-white">Open Account</a>
+    <a data-action="showLogin" data-action-info="" class="mrplay-btn white login">Login</a>
+</div>
+<aside class="side-wrap">
+    <div class="side-menu">
+        <div class="head"><a href="#" class="mrplay-sprite close">close</a></div>
+        <ul class="top log-in">
+	        <li class="item-login"><a data-action="showLogin" data-action-info="" class="dropdown-item"><span class="mrplay-sprite icon login"></span>Login</a></li>
+<li class="item-promotions"><a data-action="navigateTo" data-action-info="/promotions/" class="dropdown-item"><span class="mrplay-sprite icon promotions"></span>Promotions</a></li>
+<li class="item-exclusiveClub"><a data-action="navigateTo" data-action-info="/vip/" class="dropdown-item"><span class="mrplay-sprite icon exclusiveClub"></span>Exclusive club</a></li>
+<li>
+    <a><span class="mrplay-sprite icon gettingStarted"></span>Getting Started</a>
+    <ul>
+        <li class="side-deposits">
+    <a data-action="navigateTo" data-action-info="/info/help-deposit/">
+        Deposits
+    </a>
+</li>
+    
+<li class="side-cashout">
+    <a data-action="navigateTo" data-action-info="/info/helpcashout/">
+        Cashout
+    </a>
+</li>
+    
+<li class="side-help">
+    <a data-action="navigateTo" data-action-info="/info/help/">
+        Help
+    </a>
+</li>
+    
+<li class="side-faq">
+    <a data-action="navigateTo" data-action-info="/info/faq/">
+        FAQs
+    </a>
+</li>
+    
+
+    </ul>
+    <span class="mrplay-sprite arr down"></span>
+</li>
+
+
+
+<li>
+    <a><span class="mrplay-sprite icon information"></span>Information</a>
+    <ul>
+        <li class="side-bonusPolicy">
+    <a data-action="navigateTo" data-action-info="/info/bonus-policy/">
+        Bonus Policy
+    </a>
+</li>
+    
+<li class="side-responsibleGaming">
+    <a data-action="navigateTo" data-action-info="/info/responsible/">
+        Responsible Gaming
+    </a>
+</li>
+    
+<li class="side-fairPlay">
+    <a data-action="navigateTo" data-action-info="/info/fair-play/">
+        Fair Play
+    </a>
+</li>
+    
+<li class="side-paymentMethods">
+    <a data-action="navigateTo" data-action-info="/info/help-deposit-methods/">
+        Payment Methods
+    </a>
+</li>
+    
+
+    </ul>
+    <span class="mrplay-sprite arr down"></span>
+</li>
+
+
+
+<li>
+    <a><span class="mrplay-sprite icon Casino Games"></span>Casino Games</a>
+    <ul>
+        <li class="side-All Games">
+    <a data-action="navigateTo" data-action-info="https://www.mrplay.com/casino/">
+        All Games
+    </a>
+</li>
+    <li class="side-Slots">
+    <a data-action="navigateTo" data-action-info="https://www.mrplay.com/casino/slots/">
+        Slots
+    </a>
+</li>
+    <li class="side-Roulette">
+    <a data-action="navigateTo" data-action-info="https://www.mrplay.com/casino/roulette/">
+        Roulette
+    </a>
+</li>
+    <li class="side-Blackjack">
+    <a data-action="navigateTo" data-action-info="https://www.mrplay.com/casino/blackjack/">
+        Blackjack
+    </a>
+</li>
+    <li class="side-Progressive Jackpots">
+    <a data-action="navigateTo" data-action-info="https://www.mrplay.com/casino/progressive-jackpot/">
+        Progressive Jackpots
+    </a>
+</li>
+    <li class="side-Live">
+    <a data-action="navigateTo" data-action-info="https://www.mrplay.com/casino/live/">
+        Live
+    </a>
+</li>
+    <li class="side-Classic Slots">
+    <a data-action="navigateTo" data-action-info="https://www.mrplay.com/casino/classic-slots/">
+        Classic Slots
+    </a>
+</li>
+    <li class="side-Card Games">
+    <a data-action="navigateTo" data-action-info="https://www.mrplay.com/casino/card-games/">
+        Card Games
+    </a>
+</li>
+    <li class="side-Casual Games">
+    <a data-action="navigateTo" data-action-info="https://www.mrplay.com/casino/casual-games/">
+        Casual Games
+    </a>
+</li>
+    <li class="side-Popular Games">
+    <a data-action="navigateTo" data-action-info="https://www.mrplay.com/casino/popular-games/">
+        Popular Games
+    </a>
+</li>
+    <li class="side-New Games">
+    <a data-action="navigateTo" data-action-info="https://www.mrplay.com/casino/new-games/">
+        New Games
+    </a>
+</li>
+    <li class="side-Scratchcards">
+    <a data-action="navigateTo" data-action-info="https://www.mrplay.com/casino/scratchcards/">
+        Scratchcards
+    </a>
+</li>
+    
+    </ul>
+    <span class="mrplay-sprite arr down"></span>
+</li>
+
+
+<li class="item-chat"><a data-action="showChat" data-action-info="" class="dropdown-item"><span class="mrplay-sprite icon chat"></span>CHAT</a></li>
+<li>
+    <a><span class="mrplay-sprite icon changeLanguage"></span>Change Language</a>
+    <ul>
+        <li class="side-language">
+    <a data-action="changeLanguage" data-action-info="ENG">
+        English
+    </a>
+</li>
+    <li class="side-language">
+    <a data-action="changeLanguage" data-action-info="GER">
+        Deutsch
+    </a>
+</li>
+    <li class="side-language">
+    <a data-action="changeLanguage" data-action-info="SWE">
+        Svenska
+    </a>
+</li>
+    <li class="side-language">
+    <a data-action="changeLanguage" data-action-info="NOR">
+        Norsk
+    </a>
+</li>
+    <li class="side-language">
+    <a data-action="changeLanguage" data-action-info="FIN">
+        Suomi
+    </a>
+</li>
+    
+
+    </ul>
+    <span class="mrplay-sprite arr down"></span>
+</li>
+
+
+        </ul>
+        <ul class="top log-out">
+                        <li class="mob-visible" id="user-area-mobile"></li>
+            <li class="mob-nav mob-visible">
+                <a href="#" class="mrplay-btn blue account text-white" data-action="showDeposit">Deposit</a>
+                <a href="#" class="mrplay-btn white login" data-action="showWithdraw">Cashout</a>
+            </li>
+	        <li class="item-promotions"><a data-action="navigateTo" data-action-info="/promotions/" class="dropdown-item"><span class="mrplay-sprite icon promotions"></span>Promotions</a></li>
+<li class="item-exclusiveClub"><a data-action="navigateTo" data-action-info="/vip/" class="dropdown-item"><span class="mrplay-sprite icon exclusiveClub"></span>Exclusive club</a></li>
+<li>
+    <a><span class="mrplay-sprite icon gettingStarted"></span>Getting Started</a>
+    <ul>
+        <li class="side-deposits">
+    <a data-action="navigateTo" data-action-info="/info/help-deposit/">
+        Deposits
+    </a>
+</li>
+    
+<li class="side-cashout">
+    <a data-action="navigateTo" data-action-info="/info/helpcashout/">
+        Cashout
+    </a>
+</li>
+    
+<li class="side-help">
+    <a data-action="navigateTo" data-action-info="/info/help/">
+        Help
+    </a>
+</li>
+    
+<li class="side-faq">
+    <a data-action="navigateTo" data-action-info="/info/faq/">
+        FAQs
+    </a>
+</li>
+    
+
+    </ul>
+    <span class="mrplay-sprite arr down"></span>
+</li>
+
+
+
+<li>
+    <a><span class="mrplay-sprite icon information"></span>Information</a>
+    <ul>
+        <li class="side-bonusPolicy">
+    <a data-action="navigateTo" data-action-info="/info/bonus-policy/">
+        Bonus Policy
+    </a>
+</li>
+    
+<li class="side-responsibleGaming">
+    <a data-action="navigateTo" data-action-info="/info/responsible/">
+        Responsible Gaming
+    </a>
+</li>
+    
+<li class="side-fairPlay">
+    <a data-action="navigateTo" data-action-info="/info/fair-play/">
+        Fair Play
+    </a>
+</li>
+    
+<li class="side-paymentMethods">
+    <a data-action="navigateTo" data-action-info="/info/help-deposit-methods/">
+        Payment Methods
+    </a>
+</li>
+    
+
+    </ul>
+    <span class="mrplay-sprite arr down"></span>
+</li>
+
+
+
+<li>
+    <a><span class="mrplay-sprite icon Casino Games"></span>Casino Games</a>
+    <ul>
+        <li class="side-All Games">
+    <a data-action="navigateTo" data-action-info="https://www.mrplay.com/casino/">
+        All Games
+    </a>
+</li>
+    <li class="side-Slots">
+    <a data-action="navigateTo" data-action-info="https://www.mrplay.com/casino/slots/">
+        Slots
+    </a>
+</li>
+    <li class="side-Roulette">
+    <a data-action="navigateTo" data-action-info="https://www.mrplay.com/casino/roulette/">
+        Roulette
+    </a>
+</li>
+    <li class="side-Blackjack">
+    <a data-action="navigateTo" data-action-info="https://www.mrplay.com/casino/blackjack/">
+        Blackjack
+    </a>
+</li>
+    <li class="side-Progressive Jackpots">
+    <a data-action="navigateTo" data-action-info="https://www.mrplay.com/casino/progressive-jackpot/">
+        Progressive Jackpots
+    </a>
+</li>
+    <li class="side-Live">
+    <a data-action="navigateTo" data-action-info="https://www.mrplay.com/casino/live/">
+        Live
+    </a>
+</li>
+    <li class="side-Classic Slots">
+    <a data-action="navigateTo" data-action-info="https://www.mrplay.com/casino/classic-slots/">
+        Classic Slots
+    </a>
+</li>
+    <li class="side-Card Games">
+    <a data-action="navigateTo" data-action-info="https://www.mrplay.com/casino/card-games/">
+        Card Games
+    </a>
+</li>
+    <li class="side-Casual Games">
+    <a data-action="navigateTo" data-action-info="https://www.mrplay.com/casino/casual-games/">
+        Casual Games
+    </a>
+</li>
+    <li class="side-Popular Games">
+    <a data-action="navigateTo" data-action-info="https://www.mrplay.com/casino/popular-games/">
+        Popular Games
+    </a>
+</li>
+    <li class="side-New Games">
+    <a data-action="navigateTo" data-action-info="https://www.mrplay.com/casino/new-games/">
+        New Games
+    </a>
+</li>
+    <li class="side-Scratchcards">
+    <a data-action="navigateTo" data-action-info="https://www.mrplay.com/casino/scratchcards/">
+        Scratchcards
+    </a>
+</li>
+    
+    </ul>
+    <span class="mrplay-sprite arr down"></span>
+</li>
+
+
+<li class="item-chat"><a data-action="showChat" data-action-info="" class="dropdown-item"><span class="mrplay-sprite icon chat"></span>CHAT</a></li>
+<li>
+    <a><span class="mrplay-sprite icon changeLanguage"></span>Change Language</a>
+    <ul>
+        <li class="side-language">
+    <a data-action="changeLanguage" data-action-info="ENG">
+        English
+    </a>
+</li>
+    <li class="side-language">
+    <a data-action="changeLanguage" data-action-info="GER">
+        Deutsch
+    </a>
+</li>
+    <li class="side-language">
+    <a data-action="changeLanguage" data-action-info="SWE">
+        Svenska
+    </a>
+</li>
+    <li class="side-language">
+    <a data-action="changeLanguage" data-action-info="NOR">
+        Norsk
+    </a>
+</li>
+    <li class="side-language">
+    <a data-action="changeLanguage" data-action-info="FIN">
+        Suomi
+    </a>
+</li>
+    
+
+    </ul>
+    <span class="mrplay-sprite arr down"></span>
+</li>
+
+
+<li class="item-logout"><a data-action="logout" data-action-info="" class="dropdown-item"><span class="mrplay-sprite icon logout"></span>Logout</a></li>
+        </ul>
+    </div>
+</aside>
+<div class="search-panel">
+    <div class="close">×</div>
+	<div class="search-game">
+    <div class="input-group stylish-input-group search-form">
+        <form name="search">
+            <input type="text" class="form-control" placeholder="Game Search">
+            <button type="submit" class="mrplay-sprite"></button>
+        </form>
+        <div class="imaginary-container">
+            <ul class="games-list"></ul>
+        </div>
+    </div>
+</div></div>
+
+<div id="main-container" class="main-container">
+
+
+
+<div class="inner-page about-us-page">
+    <div class="h1">
+        <div class="container">
+            <div class="head-content">
+                <div class="crumbs"><a class="" href="/">Mrplay</a><span class="">Privacy</span></div>                <h1 id="title"></h1>
+            </div>
+        </div>
+    </div>
+
+    <div class="container page-content">
+        <div class="text">
+            <table id="tblOuterContent" class="" cellspacing="0" cellpadding="0"><tbody><tr><td align="center" valign="top" class="PageBody">
+                            <span> 
+   <br><br><br><br><table class="StandardPageLeftSectionContentTable" cellpadding="0px" cellspacing="0px"><tbody><tr><td class="StandardPageLeftSectionContentTopBorderCell">
+               &nbsp;
+           </td>
+        </tr><tr><td> <div class="StandardPageLeftSectionContentTitle">
+              ASPIRE GLOBAL INTERNATIONAL LTD PRIVACY POLICY
+			  </div>
+			   <br><br>
+			 Last revised: November 25, 2018
+			  <br><br><b>INTRODUCTION</b>
+			              
+           </td>
+        </tr><tr><td>
+           <div class="StandardPageLeftSectionContentDiv">
+           <br>
+		   The Company (as defined in the Terms of Service/End User License Agreement applicable to you), offers online gambling services (collectively, the <b>“Services"</b>).The Company forms part of the Aspire group of companies (the "Group", "we", "our" or "us") which includes the entities specified below under "The Group" Section below. We offer Services via:
+			<ul><li>
+			our own in-house brands (each, an <b>"In-House Brand"</b>; the terms "Group", "we", "our" or "us”, shall include any In-House Brand ), and
+			</li>
+			<li>
+			Third party brands and their respective affiliates (each, <b>"White Label Brand"</b>). 
+			</li></ul><br>
+		   The Group is deeply committed to safeguard the privacy expectations of its users (<b>“User(s)”</b>, <b>“you”</b> or <b>“your”</b>). Accordingly, we have put in place this Privacy Policy, which outlines our data protection practices, including how we collect, use, disclose and protect your Personal Information, as well as your rights with respect to your Personal Information. 
+		   <br><br>
+			In this Privacy Policy you will read about:
+                <ol class="StandardPageLeftSectionContentOL"></ol><ul class="StandardPageLeftSectionContentUL"><li>
+                    <a class="ContentLinks" href="#Section1"><b>THE GROUP </b> </a>
+					</li>		
+                       <li>
+					   <a class="ContentLinks" href="#Section2"><b>WHAT INFORMATION WE COLLECT? </b> 
+                       </a></li>
+                      <li><a class="ContentLinks" href="#Section3"><b>MINORS</b>
+                            </a></li>
+							
+			 <li><a class="ContentLinks" href="#Section4"><b>CONDITIONS FOR PROCESSING OF PERSONAL INFORMATION </b>
+				 </a></li>
+                            
+				<li><a class="ContentLinks" href="#Section5"> <b>HOW WE USE THE COLLECTED INFORMATION? </b></a>
+                            </li>
+                           
+								
+                  <li><a class="ContentLinks" href="#Section6"><b>MARKETING</b> 
+                                 </a></li>
+                           
+                            
+                            
+				<li><a class="ContentLinks" href="#Section7"><b>WITH WHOM WE SHARE INFORMATION?</b>
+                                </a></li>
+							
+							
+				<li><a class="ContentLinks" href="#Section8">	<b>	INTERNATIONAL TRANSFER OF INFORMATION</b> </a></li>  
+				<li><a class="ContentLinks" href="#Section9">	 <b>	THIRD PARTY TRACKING TECHNOLOGIES</b> </a></li>  
+                <li><a class="ContentLinks" href="#Section10">	<b>	THIRD PARTY SERVICES</b> </a></li>  
+				<li><a class="ContentLinks" href="#Section11">	 <b>	RETENTION OF PERSONAL INFORMATION</b> </a></li>  
+				<li><a class="ContentLinks" href="#Section12">	 <b>		YOUR RIGHTS</b> </a></li> 
+				<li><a class="ContentLinks" href="#Section13">	 <b>		HOW WE KEEP YOUR INFORMATION SECURED</b> </a></li> 
+				<li><a class="ContentLinks" href="#Section14">	 <b>		CHANGES TO THE PRIVACY POLICY</b> </a></li> 
+				<li><a class="ContentLinks" href="#Section15">	 <b>		HOW TO CONTACT US</b> </a></li> 
+				<li><a class="ContentLinks" href="#Section16">	 <b>		COOKIE POLICY</b> </a></li> 
+				
+				
+                    
+                
+                
+				
+            </ul></div>
+			<ul><div class="StandardPageLeftSectionContentDiv">
+			
+                
+				We encourage you to read the Privacy Policy carefully and use it to make informed decisions. 
+				By visiting the Group’s websites, mobile apps or other online properties, or by creating an account 
+				through our Services, you hereby agree to the Privacy Policy.
+				
+                <br><br><a class="ThemeColorContentLink" name="Section1"><b> THE GROUP </b> </a>
+						<br><br><div class="StandardPageLeftSectionContentDiv">
+			<ul>
+						
+							
+									
+								The Group includes the following companies: 	
+								<br><br><li>	
+									Aspire Global plc- Level G, office 1/5086, Quantum House, 75 Abate Rigord Street, Taw Xbiex XBX 1120, Malta 						
+									</li>
+									<li>
+											Aspire Global Limited- Suites 7B &amp; 8B, 50 Town Range, GX11 1AA, Gibraltar 
+										</li><li>
+											Aspire Global International LTD- 135, High street, Sliema SLM 1549, Malta
+										</li><li>
+										AG Communications LTD- 135, High street, Sliema SLM 1549, Malta
+										</li><li>
+										AG Software LTD- 135, High street, Sliema SLM 1549, Malta
+										</li>
+										<br></ul>
+										The Group provides the Services through the following applications and platforms (collectively the <b>“Platforms”</b>):
+										<ul><br><li>
+											Internet websites;
+										</li><li>
+										Downloadable applications and software ("Software"), such as native applications which are distributed through mobile application stores and PC and Mac desktop software which can be downloaded to your computer;
+										</li><li>
+											Non-downloadable online applications (e.g. flash applications, HTML5 applications, etc.);
+										</li><li>
+											Facebook applications; and
+										</li><li>
+											White Label Brands.
+										</li>
+										</ul></div>
+
+								<br><br><a class="TextUnderLine" name="Section2"><b>WHAT INFORMATION WE COLLECT?  </b>
+							</a>
+								<br><br>
+								We collect two types of information from our Users:
+								<br><br><ul><li>
+								
+								<b>	Personal Information </b>
+								</li></ul>
+								
+								The first type of information is information that identifies or may reasonably identify an individual reasonable effort (<b>“Personal Information”</b>). Personal Information which is being gathered may consist of the following:
+								<br><br><ul><li>
+								<b>	Registration details: </b> When you open an account and register to use the Services, you will be asked to provide us certain details about yourself, such as: first and last name, email address, gender, birth data, physical address, ID number, phone number, occupation, etc. In addition, we may collect certain information as required under various gambling regulations, as well as Know Your Client (“KYC”) and Anti-Money Laundering (“AML”) regulatory requirements, such as your source of funds.</li><br><li>
+								<b>	Governmental-issued ID: </b>In certain instances, you will be required to provide a copy of a governmental-issued ID, for identity verification process. Please note that this information is required for certain features of our Services.</li><br><li>
+								<b>	Payment information: </b>In order for you to enjoy all of the functions of the Services (e.g. place bets, perform purchases, play in tournaments, etc.), payment information will be collected from you, such as your credit card number and bank account details.
+								</li><br><li>
+								<b>Gaming information</b> : in order for us to provide the Services, we automatically record different information related to your account and use of our Services, including with respect to your transactions, deposits, balances, bets, withdraws, bonuses and winnings. We also collect information regarding potential gambling problems or addictions, based on your patterns of gambling across our services, in order to ensure a responsible gaming environment and as required by law.
+
+
+								</li><br><li>
+								<b>	Voluntary information:</b>We also collect information which you provide us voluntarily. For example, when you respond to communications from us, communicate with us via email or share additional information about yourself through your use of the Services, such as on the chat feature and in games.
+								</li><br><li><b>	Device information: </b>We collect specific types of connection details and information with regard to your device, software or hardware that may identify you, such as: device’s unique identifiers (e.g. UDID, IMEI, MAC address), browser fingerprinting, IP address and geo-location data.
+								</li><br><li><b>	Telephone calls: </b>We record or monitor telephone calls for customer support, training and/or security purposes.
+								</li><br><li><b>	Social networks: </b> When you register through your social network account (such as your Facebook account), to use the Services or connect your player account with such account, we will have access to basic information from your social network account, such as your name, birthdate, profile picture and friends' list, as well as information you made publicly available on such account. 
+								</li><br><li>
+									In addition, when using the Services, you may be able via your social network to "Invite a Friend" to use the Services. Should the person accept your invitation, we may obtain Personal Information from him/her such as: name, email address, phone number and date of birth. We will use the Personal Information for the purposes set out herein and disclose such information only to third parties as detailed in this Privacy Policy.
+								</li> <br><li>
+								<b>Feedback, reviews and testimonials</b>: We also collect and display 
+								personal testimonials, reviews and feedback of satisfied Users on 
+								the Services in addition to other endorsements. With your consent, 
+								we may post your testimonial along with your name, on the Services. 
+								If you wish to update or delete your testimonial, you can contact 
+								us at <a href="mailto:support@mrplay.com">support@mrplay.com</a>
+								</li>
+								<br><li><b>	Information we collect from third parties: </b>We collect Personal Information from third party service providers, such as information about your credit history from credit agencies and other financial information which is relevant to the provision of the Services, as well as information which is gathered in order to verify your identity and prevent fraudulent or illegal activity.
+								</li>
+								</ul><br><br><li>
+								<b>	Non-personal information</b>
+								<br>
+								The second type of information is un-identified and non-identifiable information pertaining to a User(s), which may be made available or gathered via the User’s use of the Services (“Non-Personal Information”). 
+								<br><br>
+								Non-Personal Information which is being collected consists of technical information and aggregated usage information, and may contain, among other things, the User’s operating system, type of browser, screen resolution, browser and keyboard language, the User’s ‘click-stream’ and activities on the Services, the period of time the User visited the Services and related time stamps, etc.
+								<br><br><b>For avoidance of doubt, any Non-personal Information connected or linked to any Personal Information shall be deemed as Personal Information as long as such connection or linkage exists.</b>
+								<br><br>
+								Types of Non-personal Information we collect from or about you:
+								<br><br><ul><li>
+								<b>	Technical information:</b>
+								 In order to enhance the functionality of the Services and to provide you with a better user experience, we collect technical information transmitted by your device, including certain software and hardware information (e.g. the type of browser and operating system your device uses, language preference, access time and the domain name of the website from which you linked to the Services; etc.).
+								 </li>
+								 <br><li><b>	Gameplay information:</b>We record game play information including, amongst other things, your deposits, bets, bonuses, game session duration and your high scores. We may also share and publish such information through any of our Platforms.
+								 </li>
+								 <br><li>
+								 <b>	Device and connection information: </b> If you download the Software to your device, we may collect information from the particular device you are using, for security and fraud detection and prevention purposes. For example, we may gather information with regard to other software which is running simultaneously with the Software for detecting if you are using software which is associated with fraudulent activity (e.g. robots, malware, etc.) or checking if the connection you are using is via a VPN or proxy.
+								 </li>
+								 <br><li>
+								 <b>	Analytics information: </b>We collect information about your use of the Services, such as applications' usage, log files, user activity (e.g. pages viewed, the amount of time spent on particular pages, online browsing, clicks, actions, etc.), time stamps, alerts, etc. This information is collected for amongst other things troubleshooting errors and bugs as well as for research and analytics purposes about your use of the Services.
+								 </li>
+								 <br><li>
+								 <b>	Anonymous information: </b>We may anonymize or de-identify the information collected by the Services or via other means so that the information cannot, on its own, personally identify you. Our use and disclosure of such aggregated or de-identified information is not subject to any restrictions under this Privacy Policy, and we may disclose it to others without limitation and for any purpose, such as for advertising or marketing purposes.
+								 </li>
+								 <br><br><br><a class="TextUnderLine" name="Section3"><b>MINORS  </b>
+							</a>
+								<br><br>
+
+
+								The Services are not designed or directed to persons under the age of 18 or 
+								persons under the age of legal consent with respect to the use of the Services 
+								of any jurisdiction, whichever is higher (“Legally of Age”). If you are not 
+								Legally of Age, you should not download or use the Services nor provide any 
+								Personal Information to us.
+								<br><br>
+								We reserve the right to access and verify any Personal Information 
+								collected from you. In the event that we become aware that a user who is 
+								not Legally of Age has shared any information, we may discard such 
+								information. If you have any reason to believe that a minor has shared 
+								any information with us, please contact us at 
+								<a href="mailto:support@mrplay.com">support@mrplay.com</a>
+								
+								 <br><br><a class="TextUnderLine" name="Section4"><b>CONDITIONS FOR PROCESSING 
+								 OF PERSONAL INFORMATION  </b>
+							</a>
+								<br><br>
+							
+							We will process your Personal Information for a variety of reasons, each 
+							of which is prescribed by relevant data protection laws.
+							<br><br><ul><li>
+							<b>Fulfillment of a contract, compliance with a legal obligation </b>
+							It is necessary for us to process your Personal Information where it is 
+							necessary for the performance of a contract (such as for the User Agreement) 
+							or in order for us to comply with our various legal and/or regulatory 
+							responsibilities, including, but not limited to, complying with the 
+							conditions of our gambling licenses and complying with any AML and KYC legislation.
+							</li>
+							<li>
+							<b>Legitimate interests </b>
+							</li>
+							We also process your Personal Information where we deem such processing to be 
+							in our (or a third party's) legitimate interests and provided always that such
+							processing will not prejudice your interests, rights and freedoms. Examples
+							of us processing in accordance with legitimate interests would include: (i) 
+							where we disclose your Personal Information to any one or more of our 
+							associate/subsidiary companies following a restructure or for internal 
+							administrative purposes; (ii) detection and retention of information 
+							pertaining to those with responsible gambling issues; (iii) processing 
+							for the purposes of ensuring network and information security, including 
+							preventing unauthorized access to our electronic communications network; 
+							(iv) safeguarding the integrity of our Services by combatting, reporting
+							and sharing information related to suspicious betting patterns or 
+							fraudulent activities; (v) adhering to regulatory and statutory requirements; 
+							(vi) devising a tailored reward scheme for players; and (vii) sharing personal
+							information with our advisers and professional services providers 
+							(such as auditors) for ensuring our compliance with regulatory 
+							requirements and industry best practices.
+							</ul></ul></li>
+							<li>
+							<b>Consent </b>
+							</li>
+							
+							Our processing of your Personal Information will primarily be necessary for us to 
+							provide you with the Services. However, on certain occasions we may ask for your 
+							consent to processing Personal Information. In these instances your Personal 
+							Information will be processed in accordance with such consent and you will be 
+							able to withdraw this consent in writing at any time.
+							<li>
+							<b>Special Categories of Personal Data </b>
+							</li>
+							Our processing of your Personal Information may also involve special 
+							categories of personal data, such as your racial or ethnic origin
+							(as defined under Article 9 of the GDPR). We will process such information, 
+							as well as disclose it to competent authorities (such as licensing bodies 
+							or law enforcement bodies), where it is necessary for the following purposes 
+							(to the extent permissible by applicable law): (i) prevention or detection 
+							of an unlawful act, (i) prevention of dishonesty, malpractice or other 
+							seriously improper conduct, provided that obtaining your consent 
+							may prejudice those purposes. In addition, we may process and disclose 
+							such information where it is necessary for the purposes of safeguarding 
+							your (or others’) economic well-being (such as detection and retention of 
+							information pertaining to those with responsible gambling issues).
+							 <br><br><a class="TextUnderLine" name="Section5"><b>HOW WE USE THE COLLECTED INFORMATION?  </b>
+							</a>
+								<br><br>
+							
+							We use your Personal Information for the purposes listed below: 
+							<br><li>
+								To set up, manage and update your account;
+							</li><li>
+								To provide and operate the Services (such as for betting and payment processing);
+							</li><li>
+								To communicate with you and to keep you informed of our latest updates to our Services and special offers;
+							</li><li>
+								To market our Services (see more below under “Marketing”), as well as to serve you advertisements, including behavioral advertising;
+							</li><li>
+								To promote our Services by displaying Users’ testimonials of our Services. The testimonials are displayed on our Services as well as on websites operated by our affiliates and partners.
+							</li><li>
+							
+								To conduct analytics, statistical and research purposes, in order to improve and customize the Services to your needs and interests (such as by compiling aggregated reports about the usage of certain features of our Services);
+							</li><li>
+							For Customer Relationship Management purposes, and to support and troubleshoot the Services and to respond to your queries;
+							</li><li>
+								To enable us to further develop, customize and improve the Services based on Users’ common preferences and uses;
+							</li><li>
+								To provide you with a responsible gaming environment;
+							</li><li>
+								To communicate with your and to process any of your requests to exercise your User Rights;
+							</li><li>
+								To identify and authenticate your access to certain features of the Services;
+							</li><li>
+								To detect and prevent fraudulent and illegal activity or any other type of activity that may jeopardize or negatively affect the integrity of the Services, including by identifying risks associated with your activity on our Services;
+							</li><li>
+							To investigate violations of our policies and User Agreement as well as enforce our policies and the User Agreement;
+							</li><li>
+								To investigate and resolve disputes in connection with your use of the Services; and
+							</li><li>
+								As required by law or regulation (such as Know Your Customer ("KYC") and Anti-Money Laundering regulatory requirements), or as required by other governmental authorities, or to comply with a subpoena or similar legal process or respond to a government request.
+							</li>
+
+							<br><br><a class="TextUnderLine" name="Section6"><b>	MARKETING </b> </a>
+								<br><br>
+								The Group will use your Personal Information, such as your name, home address, 
+								email address, telephone number etc., ourselves or by using our third party 
+								subcontractors for the purpose of providing you with promotional materials, 
+								concerning the Services as well as products, services, websites and 
+								applications which relate to: (i) other companies within the Group; (ii) 
+								White Label Brands; or (iii) Group's business partners and affiliates 
+								(collectively: <b>“Marketing Affiliates"</b>, which we believe may interest you.
+								<br><br>
+								We may also share and disclose Personal Information with our 
+								Marketing Affiliates for the purpose of providing you different 
+								marketing offers, which we, or our Marketing Affiliates, believe 
+								are relevant for you, where we have a legitimate interest to do so or where we obtained your consent.. Our Marketing Affiliates may use this Personal 
+								Information for different marketing techniques, such as direct email, 
+								post, SMS and telephone marketing purposes.
+								<br><br>
+								You may at any time decline receiving further marketing offers 
+								from us or from our business partners and marketing affiliates by
+								contacting us at to 
+								<a href="mailto:support@mrplay.com">support@mrplay.com</a>. Please note that even if you unsubscribe from our marketing mailing list, we may continue to send you service-related updates and notifications.
+								<br><br><a class="TextUnderLine" name="Section7"><b>	WITH WHOM WE SHARE INFORMATION? </b> </a>
+								<br><br>
+								We do not rent, sell, or share your Personal Information with third parties (“Recipients”) except as described in this Privacy Policy. The Personal Information will be disclosed to Recipients only to the extent required for the specific purpose, as stipulated in this Privacy Policy.
+								<br>
+								We share Personal Information with any of the following recipients:
+								<br><li>
+									White Label Brands, including any replacement service provider that the White Label Brand may engage to operate the White Label Brands (if applicable);
+								</li>
+								<li>
+									Companies within the Group and other affiliated companies;
+								</li>
+								<li>
+									Subcontractors and third party service providers, as well as their subcontractors, which by way of example include (but is not limited to) cloud computing companies, marketing affiliates, identity verification and fraud prevention services, and other data verifiers;
+								</li>
+								<li>
+								Gambling addiction bodies;
+								</li>
+								<li>
+									Credit reporting agencies;
+								</li><li>
+									Payment service providers, payment processors and banks;
+								</li><li>
+									To any third parties who provide services in relation to the operation or promotion of the applicable In House Brand or the White Label Brands (if applicable);
+								</li><li>
+									To any third parties who organize offline events or tournaments on behalf of or in conjunction with any companies within the Group;
+								</li>
+								<li>
+									To hotels and flight companies (such as in the context of offline events and promotions);
+									</li><li>
+									Auditors, contractors or advisers of any of the Group’s business processes;
+									</li><li>
+								To any third parties who investigate, detect or prevent fraudulent or illegal activity (e.g. governmental authorities, police, banks and other investigatory organizations);
+								</li><li>
+							Licensing authorities, governmental and regulatory bodies, in accordance with applicable laws and regulations; and
+							</li><li>
+							Potential purchasers or investors in any of the companies within the Group or While Label Brand (if applicable), or in the event of a corporate transaction (e.g. sale of a substantial part of our business, merger, reorganization, bankruptcy, consolidation or asset sale of an asset or transfer in the operation thereof) in relation to any company within the Group (in such event, the acquiring company or transferee will assume the rights and obligations as described in this Privacy Policy).
+							</li>
+							In addition to the purposes listed in this Privacy Policy, we share Personal Information with those Recipients for any of the following purposes:
+							<li>
+								Storing such information on our behalf, for example by using cloud computing service providers;
+								</li><li>
+								Processing such information to assist us with our business operations (e.g. to process payments and your deposits; authenticate your access; auditing our operations; detect and prevent fraudulent or illegal activity; etc.);
+								</li><li>
+								Performing research, technical diagnostics or analytics; 
+								</li><li>
+							Communicating targeted advertising, as well as promotional and informational materials, in accordance with our marketing policy (see below, under "Marketing"); and
+							</li><li>
+						Whenever we believe in good faith that disclosure is necessary to protect our rights or legal claims, enforce our policies (including our User Agreement and Privacy Policy), protect your safety or the safety of others, as well as to investigate or prevent any fraud, for security reasons or to help us with any other related technical issue.
+						</li><br><br><a class="TextUnderLine" name="Section8"><b>	TRANSFER OF INFORMATION </b> </a>
+								<br><br>
+
+								Since we operate globally, it may be necessary to transfer your Personal Information to countries outside the European Union. The data protection and other laws of these countries may not be as comprehensive as those in the European Union. 
+								<br>
+								We use best efforts to ensure that your Personal Information is protected in accordance with our Privacy Policy, through contractual means (such as by using the standard contractual clauses approved by the European Commission for data transfer, as available here) or other means (such as ensuring that the European Commission decisions determined that such jurisdictions offer adequate level of protection, as available here).
+								<br>
+								For more information about the transfer of your personal data outside of the EEA, please contact us (our contact details are available under the "HOW TO CONTACT US?" section).
+								
+								<br><br><a class="TextUnderLine" name="Section9"><b>	THIRD PARTY TRACKING TECHNOLOGIES </b> </a>
+								<br><br>
+
+								When you visit or access our Services (for example when you visit our websites), we use (and authorize third parties to use) web beacons, cookies, pixels, scripts, tags and other technologies (<b>"Tracking Technologies"</b>).
+								<br>
+								The Tracking Technologies allow us to automatically collect information about you and your online behavior, as well as your device (for example your computer or mobile device), for different purposes, such as in order to enhance your navigation on our Services, improve our Services’ performance and customize your experience on our Services. We also use this information to collect statistics about the usage of our Services, perform analytics, deliver content which is tailored to your interests and administer services to our Users, advertisers, publishers, customers and partners.
+								<br>
+								We also allow third parties to collect information about you through Tracking Technologies. To learn more please visit our 
+								<a class="ContentLinks" href="javascript:OpenPopup('CookiePolicy.aspx')">Cookie Policy </a>.
+
+								<br><br><a class="TextUnderLine" name="Section10"><b>THIRD PARTY SERVICES </b> </a>
+								<br><br>
+								While using the Services you may encounter links to third party websites, services or applications. Please keep in mind that this Privacy Policy does not apply to any third party websites, services or applications, even if they are accessible, downloadable, or otherwise distributed through the Services. 
+								<br>
+								Please be advised that such third party websites, services or applications are independent from the Group. We assume no responsibility or liability whatsoever with regard to privacy matters or any other legal matter with respect to such third party websites and/or services. We encourage you to carefully read the privacy policies and the terms of use of such third party websites and/or services, as their terms, not ours, will apply to any of your interactions with such third parties.
+								<br>
+								You should always review their privacy practices carefully before providing Personal Information to such third parties.
+								<br>
+								You are knowingly and voluntarily assuming all risks of using any third-party websites, services or applications. You agree that we shall have no liability whatsoever with respect to such third party sites and your usage of them.
+								<br><br><a class="TextUnderLine" name="Section11"><b>RETENTION OF PERSONAL INFORMATION </b> </a>
+								<br><br>
+
+								If you have registered with an account through our Services, the Group 
+								will retain your Personal Information during the period your account 
+								is active. In addition, the Group will retain your Personal Data for 
+								additional periods, to enable the Group to meet its legal obligations 
+								under applicable laws or regulations, such as the applicable gambling 
+								regulations, Know-Your-Customer and Anti-Money Laundering regulations.
+								<br>
+								In addition, the Group may retain your Personal Information for 
+								longer periods, provided that retaining such information is necessary 
+								for the Group’s legitimate interests, such as fraud prevention and record keeping.
+
+								<br><br><a class="TextUnderLine" name="Section12"><b>YOUR RIGHTS </b> </a>
+								<br><br>
+								You may contact us at any time by email 
+								(at: <a href="mailto:support@mrplay.com">support@mrplay.com</a>, 
+								and request:
+								<br><ul><li>
+									To access or delete any Personal Information relating to you;
+								</li><li>
+								To change or update any Personal Information relating to you (for example, if you believe that your Personal Information is incorrect, you may ask to have it corrected or deleted). Note that you may also request that we will correct errors with regard to your Personal Information (except in cases where the information is required to be kept in its original format under any applicable laws and regulations);
+								</li><li>
+									That we will restrict or cease any further use of your Personal Information;
+								</li><li>
+									That we will provide the Personal Information you volunteered to us in a machine-readable format.
+								</li>
+								</ul><br>
+								Please note that these rights are not absolute and requests are subject to any applicable legal requirements, including gambling regulations and other legal and ethical reporting or document retention obligations. We may also rectify, replenish or remove incomplete or inaccurate information, at any time and at our own discretion, in accordance with our internal policies.
+								<br><br><a class="TextUnderLine" name="Section13"><b>HOW WE KEEP YOUR INFORMATION SECURED </b> </a>
+								<br><br>
+								We take great care in implementing and maintaining the security of the Services and your information. We have put in place appropriate physical and technological safeguards to help prevent unauthorized access, to maintain data security, and to use correctly the information we collect online. These safeguards vary based on the sensitivity of the information that we collect and store.
+								<br>
+								We employ industry standard procedures and controls to ensure the safety of our users’ information, such as:
+								<br><ul><li>
+									Secure network topology, which includes intrusion prevention and Firewall systems;
+								</li><li>
+									Encrypted communication;
+								</li><li>
+									Authentication and Access Control;
+								</li><li>
+									External and Internal audit tests; etc.
+								</li> </ul><br>
+
+								Although we take reasonable steps to safeguard information, we cannot be responsible for the acts of those who gain unauthorized access or abuse the Services, and we make no warranty, express, implied or otherwise, that we will prevent such access.
+
+								<br><br><a class="TextUnderLine" name="Section14"><b>CHANGES TO THE PRIVACY POLICY </b> </a>
+								<br><br>
+								We reserve the right to change this Privacy Policy at any time, 
+								so please re-visit this page frequently. We will provide notice of 
+								substantial changes of this Privacy Policy on the Services and/or 
+								we will send you an e-mail regarding such changes to the e-mail 
+								address that you volunteered. Such substantial changes will 
+								take effect seven (7) days after such notice was provided on 
+								any of the above mentioned methods. Otherwise, all other changes 
+								to this Privacy Policy are effective as of the stated “Last Revised” 
+								date, and your continued use of the Services after the Last 
+								Revised date will constitute acceptance of, and agreement 
+								to be bound by, those changes.
+
+								<br><br><a class="TextUnderLine" name="Section15"><b>HOW TO CONTACT US </b> </a>
+								<br><br>
+
+								If you have any general questions about the Services or the 
+								information that we collect about you and how we use it, please 
+								contact us via email at 
+								<a href="mailto:support@mrplay.com">support@mrplay.com</a>, 
+								or by sending a letter to:
+								<br><br><ul><ul>
+								mrplay.com
+								<br><br>
+									Attn: Data Protection Officer
+								<br><br>
+									135, High street, Sliema SLM 1549, Malta 
+								<br><br><a href="mailto:DPO@aspireglobal.com">	DPO@aspireglobal.com	</a>
+									<br><br></ul></ul>
+									We will make an effort to reply within a reasonable timeframe. Please feel free to reach out to us at any time. If you are unsatisfied with our response, you can reach out to the applicable data protection supervisory authority.
+									<br>
+									The Platforms are operated by:
+									<li>
+									mrplay.com
+									</li>
+									<li>
+										Attn: Data Protection Officer
+									</li><li>
+										135, High street, Sliema SLM 1549, Malta 
+									</li><li>
+									<a href="mailto:%20DPO@aspireglobal.com">	DPO@aspireglobal.com	</a>
+									
+									<br><br><a class="TextUnderLine" name="Section16"><b>COOKIE POLICY </b> </a>
+								<br><br>
+								Revised at: May 3rd 2018
+								 <br><br></li></div>
+								 
+							<b>INTRODUCTION</b>
+                      <br><br>
+			
+		   
+		   When you visit or access our websites or applications operated by us, or when you interact or engage with our 
+		   content (<b>"Services"</b>),
+		   we use (and authorize third parties to use) web beacons, cookies, pixel tags, scripts, tags, API and other technologies 
+		   (<b>"Tracking Technologies"</b>).
+		   
+			The Tracking Technologies allow us to automatically collect information about you and your online behavior, 
+			as well as your device (for example your computer or mobile device), in order to enhance your navigation 
+			on our Services, improve our Services performance and customize your experience on our Services. We also use 
+			this information to collect statistics about the usage of our Services, perform analytics, deliver content which 
+			is tailored to your interests and administer services to our Users, advertisers, publishers, 
+			customers and partners.
+
+
+
+		   <br><br>
+		   We also allow third parties to collect information about you through Tracking Technologies. 
+<br><br><div class="StandardPageLeftSectionContentSubTitle">
+               <b> What are cookies?</b>
+            </div>
+            <div class="StandardPageLeftSectionContentDiv">
+                <br>
+				Cookies are small text files (composed only of letters and numbers) that a web server places on your computer or mobile device when you visit a webpage. When used, the cookie can help make our Services more user-friendly, for example by remembering your language preferences and settings. You can find more information about cookies at all about cookies. <a href="https://www.allaboutcookies.org/">All about cookies</a>    
+				   
+				<br><br>
+				Cookies are widely used in order to make websites work in an efficient way. The use of cookies allows you to navigate between pages efficiently. Cookies remember your preferences, and make the interaction between you and the Services smoother and more efficient. Cookies are also used to help ensure that the advertisements you see online are relevant to you and your interests.
+			
+		   <br><br></div> 
+			<div class="StandardPageLeftSectionContentSubTitle">
+                <br><b> Storing Tracking Technologies </b>
+            </div>
+            <div class="StandardPageLeftSectionContentDiv">
+                <br>
+				We store Tracking Technologies when you visit or access our Services (for example when you 
+				are visiting our websites) – these are called "First Party Tracking Technologies". 
+				In addition, Tracking Technologies are stored by other third parties (for example our 
+				analytics service providers, business partners and advertisers) who run content on our Services – 
+				these are called "Third Party Tracking Technologies".
+				<br><br>
+				Both types of Tracking Technologies may be stored either for the duration of your visit on our Services or for repeat visits.
+				</div>
+				<br><br><div class="StandardPageLeftSectionContentSubTitle">
+                <br><b>What types of Tracking Technologies do we use?</b>
+            </div>
+            <div class="StandardPageLeftSectionContentDiv">
+                <br>
+				There are five main types of Tracking Technologies:
+				<br><ul><li>
+				<b>	Strictly necessary Tracking Technologies – </b>
+				<br><br>
+				These Tracking Technologies are essential to enable you to login, navigate around and use 
+				the features of our Services, or to provide a service requested by you (such as your username). 
+				We do not need to obtain your consent in order to use these Tracking Technologies. 
+				These Tracking Technologies can be used for security and integrity reasons - for example to detect 
+				violation of our policies and for support or security features.
+				</li>
+				<br><br><li><b>	Functionality Tracking Technologies –</b>
+				<br><br>
+				These Tracking Technologies allow our Services to remember choices you make (such as your language) 
+				and provide enhanced and personalized features. For example, these Tracking Technologies are used for 
+				authentication (to remember when you are logged-in) and support other features of our Services.
+				</li>
+				<br><br><li>
+				<b>	Performance Tracking Technologies –</b>
+				<br><br>
+				These Tracking Technologies collect information about your online activity (for example the duration 
+				of your visit on our Services), including behavioral data and content engagement metrics. These Tracking 
+				Technologies are used for analytics, research and to perform statistics (based on aggregated information).
+				</li>
+				<br><br><li>
+				<b>	Marketing or Advertising Tracking Technologies – </b>
+				<br><br>
+				These Tracking Technologies are used to deliver tailored offers and advertisements to you, based on your 
+				derived interests, as well as to perform email marketing campaigns. They can also be used to limit the 
+				number of times you see an advertisement as well as help measure the effectiveness of the advertising campaign. 
+				They are usually placed by our advertisers (for example advertising networks) and provide them insights about 
+				the people who see and interact with their ads, visit their websites or use their app.
+				</li>
+				<br><br><li>
+				<b>	Social media Tracking Technologies – </b>
+				<br><br>
+				Our website includes social media features, such as the Facebook "Like" or "Share" buttons. 
+				These features are either hosted by a third party or hosted directly on our Services. Your interactions 
+				with these features are governed by the privacy statement of the company providing these features.
+				</li>
+				</ul></div>
+				<br><br><a href="https://www.linkedin.com/legal/privacy-policy"><br></a><table style="text-align: left; height: 200px; width: 835px;" border="1" cellpadding="2" cellspacing="2"><tbody><tr><td style="width: 179px; font-weight: bold;" align="center" valign="middle">&nbsp;Tracking Technologies</td>
+      <td style="width: 192px; font-weight: bold;" align="center" valign="middle">Type</td>
+      <td style="width: 438px; font-weight: bold;" align="center" valign="middle">Purpose</td>
+    </tr><tr><td style="width: 179px; text-align: left;" valign="middle">&nbsp;Analytics
+Cookies</td>
+      <td style="width: 192px; text-align: left;" valign="middle">First
+party Tracking Technology</td>
+      <td style="width: 438px; text-align: left;" valign="middle"><span style="font-weight: bold;">Performance Tracking
+Technologies </span><br>
+These Tracking Technologies are used to collect&nbsp;information
+regarding how you interact with the content on our Services,
+attribution
+purposes (for example, the referral URL, etc. We use the information to
+compile reports, calculate the revenues due to us and, help us improve
+the Services and to offer personalized products and content.</td>
+    </tr><tr><td style="width: 179px; text-align: left;" valign="middle">Google
+Analytics</td>
+      <td style="width: 192px; text-align: left;" valign="middle"><span style="font-size: 11pt; line-height: 115%; font-family: &quot;Calibri&quot;,sans-serif;">Third
+party Tracking
+Technology</span></td>
+      <td style="width: 438px; text-align: left;" valign="middle"><span style="font-weight: bold;">Performance Tracking
+Technologies</span><br><span style="font-size: 11pt; line-height: 115%; font-family: &quot;Calibri&quot;,sans-serif;">This
+cookie is used to
+collect information about how visitors use our Services. We use the
+information
+to compile reports and to help us improve the Services. The cookies
+collect the
+number of visitors to the Services, where visitors have come to the
+Services from
+and the pages they visited, and other data</span><span style="font-size: 12pt; line-height: 115%; font-family: &quot;Times New Roman&quot;,serif; color: rgb(122, 121, 121);">.&nbsp;</span><span style="font-size: 11pt; line-height: 115%; font-family: &quot;Calibri&quot;,sans-serif;"><a href="https://policies.google.com/privacy?hl=en&amp;gl=ZZ" target="_blank"><span style="color: windowtext;">Google Privacy Policy</span></a></span></td>
+    </tr><tr><td style="width: 179px; text-align: left;" valign="middle"><b><span style="font-size: 11pt; line-height: 115%; font-family: &quot;Calibri&quot;,sans-serif;">Google
+Tag Manager</span></b></td>
+      <td style="width: 192px; text-align: left;" valign="middle"><span style="font-size: 11pt; line-height: 115%; font-family: &quot;Calibri&quot;,sans-serif;">Third
+party Tracking
+Technology</span></td>
+      <td style="width: 438px; text-align: left;" valign="middle">
+      <p class="MsoNormal" style="margin-bottom: 0.0001pt; line-height: normal;"><span style="font-weight: bold;">Performance</span><i style="font-weight: bold;"><span style="font-size: 12pt; font-family: &quot;Times New Roman&quot;,serif; color: rgb(122, 121, 121);">
+      </span></i><span style="font-weight: bold;">Tracking
+Technologies</span> </p><p></p><p></p>
+      <br><p class="MsoNormal" style="margin-bottom: 0.0001pt; line-height: normal;">This
+cookie is associated with Google Tag Manager which we use to load
+scripts into our website pages. <span style="font-size: 11pt; line-height: 115%; font-family: &quot;Calibri&quot;,sans-serif;"><a href="https://policies.google.com/privacy?hl=en&amp;gl=ZZ" target="_blank"><span style="color: windowtext;">Google Privacy Policy</span></a></span></p><p></p><p></p>
+      <span style="font-size: 12pt; line-height: 115%; font-family: &quot;Times New Roman&quot;,serif; color: rgb(122, 121, 121);"></span><br></td>
+    </tr><tr><td style="width: 179px; text-align: left;" valign="middle">
+      <p class="MsoNormal" style="margin-bottom: 0.0001pt; line-height: normal;"><b>Facebook</b></p><p></p><p></p>
+      </td>
+      <td style="width: 192px; text-align: left;" valign="middle"><span style="font-size: 11pt; line-height: 115%; font-family: &quot;Calibri&quot;,sans-serif;">Third
+party Tracking
+Technology</span></td>
+      <td style="width: 438px; text-align: left;" valign="middle">
+      <p class="MsoNormal" style="margin-bottom: 0.0001pt; line-height: normal;"><b>Marketing
+or Advertising Tracking Technologies</b><span style="background: white none repeat scroll 0% 50%; -moz-background-clip: initial; -moz-background-origin: initial; -moz-background-inline-policy: initial; font-size: 10.5pt; font-family: &quot;Arial&quot;,sans-serif; color: rgb(64, 64, 64);">
+      </span><span style="font-family: &quot;Arial&quot;,sans-serif; color: rgb(122, 121, 121);"><br></span>Facebook pixel is a
+code that is placed on the header of our websites
+and we later on use Lookalike feature on Facebook to reach similar
+audiences
+who took actions within our websites and improve advertisement
+capabilities. <span style="font-size: 11pt; line-height: 115%; font-family: &quot;Calibri&quot;,sans-serif;"><a href="https://termsfeed.com/blog/privacy-policy-url-facebook-app/">Facebook
+privacy policy</a></span><span style="font-size: 12pt; line-height: 115%; font-family: &quot;Times New Roman&quot;,serif; color: rgb(122, 121, 121);"></span></p><p></p><p></p>
+      </td>
+    </tr><tr><td style="text-align: left;" valign="middle"><b><span style="font-size: 11pt; line-height: 115%; font-family: &quot;Calibri&quot;,sans-serif;">Protected
+Media</span></b></td>
+      <td style="text-align: left;" valign="middle"><span style="font-size: 11pt; line-height: 115%; font-family: &quot;Calibri&quot;,sans-serif;">Third
+party Tracking
+Technology</span></td>
+      <td style="text-align: left;" valign="middle">
+      <p class="MsoNormal" style="margin-bottom: 0.0001pt; line-height: normal;"><b>Strictly
+necessary Tracking Technologies</b></p><p></p><p></p>
+      <p class="MsoNormal" style="margin-bottom: 0.0001pt; line-height: normal;">These
+cookies are used for cyber security and fraud detection and
+prevention purposes.</p><p></p><p></p>
+      <span style="font-size: 11pt; line-height: 115%; font-family: &quot;Calibri&quot;,sans-serif;"><a href="https://www.protected.media/privacy-policy/">Protected
+Media privacy
+policy</a></span></td>
+    </tr><tr><td style="text-align: left;" valign="middle"><b><span style="font-size: 11pt; line-height: 115%; font-family: &quot;Calibri&quot;,sans-serif;">LinkedIn</span></b></td>
+      <td style="text-align: left;" valign="middle"><span style="font-size: 11pt; line-height: 115%; font-family: &quot;Calibri&quot;,sans-serif;">Third
+party Tracking
+Technology</span></td>
+      <td style="text-align: left;" valign="middle">
+      <p class="MsoNormal" style="margin-bottom: 0.0001pt; line-height: normal;"><b>Marketing
+or Advertising Tracking Technologies</b><span style="background: white none repeat scroll 0% 50%; -moz-background-clip: initial; -moz-background-origin: initial; -moz-background-inline-policy: initial; font-size: 10.5pt; font-family: &quot;Arial&quot;,sans-serif; color: rgb(64, 64, 64);">
+      </span><span style="font-family: &quot;Arial&quot;,sans-serif; color: rgb(122, 121, 121);"><br></span>LinkedIn pixel is a
+code that is placed on the header of our websites
+and allows the display of targeted ads based on the user’s
+browsing behaviour or possibly on interests..<a href="https://www.linkedin.com/legal/privacy-policy">LinkedIn
+Privacy Policy</a></p><p></p><p></p>
+      </td>
+      </tr><tr><td style="width: 280px; text-align: left;" valign="middle"><b><span style="font-size: 11pt; line-height: 115%; font-family: &quot;Calibri&quot;,sans-serif;">Appsflyer</span></b></td>
+      <td style="text-align: left; width: 210px;" valign="middle"><span style="font-size: 11pt; line-height: 115%; font-family: &quot;Calibri&quot;,sans-serif;">Third
+party Tracking
+Technology</span></td>
+      <td style="text-align: left; width: 290px;" valign="middle">
+      <p class="MsoNormal" style="margin-bottom: 0.0001pt; line-height: normal;"><b>Performance</b><b><i><span style="font-size: 12pt; font-family: &quot;Times New Roman&quot;,serif; color: rgb(122, 121, 121);">
+      </span></i>Tracking
+Technologies</b></p><p></p><p></p>
+      <p class="MsoNormal" style="margin-bottom: 0.0001pt; line-height: normal;">This
+is used to measure and track installs (attribution vendor).<span style="background: white none repeat scroll 0% 50%; -moz-background-clip: initial; -moz-background-origin: initial; -moz-background-inline-policy: initial; font-size: 10.5pt; font-family: &quot;Arial&quot;,sans-serif; color: rgb(75, 79, 86);">
+      </span></p><p></p><p></p>
+      <span style="font-size: 11pt; line-height: 115%; font-family: &quot;Calibri&quot;,sans-serif;"><a href="https://www.appsflyer.com/privacy-policy/">Appsflyer
+privacy policy</a></span></td>
+    </tr><tr><td style="width: 280px; text-align: left;" valign="middle"><b><span style="font-size: 11pt; line-height: 115%; font-family: &quot;Calibri&quot;,sans-serif;">Criteo</span></b></td>
+      <td style="text-align: left; width: 210px;" valign="middle"><span style="font-size: 11pt; line-height: 115%; font-family: &quot;Calibri&quot;,sans-serif;">Third
+party Tracking
+Technology</span></td>
+      <td style="width: 290px; text-align: left;" valign="middle">
+      <p class="MsoNormal" style="margin-bottom: 0.0001pt; line-height: normal;"><b>Marketing
+or Advertising Tracking Technologies </b></p><p></p><p></p>
+      <p class="MsoNormal" style="margin-bottom: 0.0001pt; line-height: normal;">The
+advertising service Criteo allows the display of targeted ads based
+on the user’s browsing behaviour or possibly on interests</p><p></p><p></p>
+      <span style="font-size: 11pt; line-height: 115%; font-family: &quot;Calibri&quot;,sans-serif;">You
+can view the policy <a href="http://www.criteo.com/en/privacy/">here</a>
+and you can disable it from <a href="http://www.criteo.com/deactivate-criteo-banners/">here&nbsp;</a>
+      </span></td>
+    </tr><tr><td style="width: 280px; text-align: left;" valign="middle"><b><span style="font-size: 11pt; line-height: 115%; font-family: &quot;Calibri&quot;,sans-serif;">Other
+cookies</span></b></td>
+      <td style="text-align: left; width: 210px;" valign="middle"><span style="font-size: 11pt; line-height: 115%; font-family: &quot;Calibri&quot;,sans-serif;">Third
+party Tracking
+Technology</span></td>
+      <td style="width: 290px; text-align: left;" valign="middle"><b><span style="font-size: 11pt; line-height: 115%; font-family: &quot;Calibri&quot;,sans-serif;">Strictly
+necessary Tracking
+Technologies</span></b><span style="font-size: 11pt; line-height: 115%; font-family: &quot;Calibri&quot;,sans-serif;"><br>
+- these unlisted cookies might be in use on internal sections of the
+Services,
+in order to customize and simplify the user experience on the site by
+remembering choices you made and your log in credentials.</span></td>
+    </tr><tr><td>Marketing Tracking Pixel</td>
+	  <td>Third party Tracking Technology	</td>
+	  <td>Adoric is a platform that allows to display personalized message on the website based on information in users cookies. Adoric is as well using cookies to save information on how players are engaging to message displayed. <a href="https://adoric.com/PRIVACY">Privacy Policy</a></td>
+	</tr></tbody></table><br><br><div class="StandardPageLeftSectionContentDiv">
+                <br>
+				How to manage your cookie settings
+				<br>
+				Please note that we do not recognize or respond to automated browser signals regarding Tracking 
+				Technologies, including "Do Not Track" requests. However, there are various ways in which you can manage 
+				and control your cookie settings. Please remember that, by deleting or blocking cookies, some of the features 
+				of the Services may not work properly or as effectively.
+				<ul><li>
+				<b>	Turning off cookies via your web browser – </b>
+				<br><br>			
+				Most web browsers will provide you with some general information about cookies, enable you to see 
+				what cookies are stored on your device, allow you to delete them all or on an individual basis, and 
+				enable you to block or allow cookies for all websites or individually selected websites. You can also 
+				normally turn off third party cookies separately. Please note that the settings offered by a browser or 
+				device often only apply to that particular browser or device.
+				</li>
+				<br><br><li>
+				Information about cookies is usually found in the "Help" section of the web browser. Below are some links to some commonly used web browsers:
+				</li>
+				<ul><li>
+				<a class="ContentLinks" href="https://www.google.com/chrome//" target="_blank"> Chrome</a>
+				</li><li>
+				<a class="ContentLinks" href="https://www.google.com/mobile/chrome/%20//" target="_blank"> Chrome for mobile</a>				</li><li>
+				<a class="ContentLinks" href="https://www.microsoft.com/en-us/windows/microsoft-edge//" target="_blank">Internet Explorer and Microsoft Edge</a>
+				</li><li>
+				<a class="ContentLinks" href="/%E2%80%9Dhttps://mozilla-firefox.en.softonic.com///%22" target="_blank">Mozilla Firefox</a>				</li><li>
+				<a class="ContentLinks" href="/%E2%80%9Dhttps://support.apple.com/downloads/safari//%E2%80%9Dtarget=%E2%80%9D_blank%E2%80%9D">Safari</a>				</li><li>
+				<a class="ContentLinks" href="/%E2%80%9Dhttps://en.wikipedia.org/wiki/Opera_(web_browser)">Opera</a>				</li>
+				</ul><br><br><li>
+				<b>Turning off third party cookies</b>:you can turn off certain third party cookies for advertising purposes by visiting the Network Advertising Initiative, located here: <a class="ContentLinks" href="http://optout.networkadvertising.org/?c=1#!%2F/" target="_blank"> Network Advertising Initiative </a>   or the DAA opt-out program, which are located here:
+				<a class="ContentLinks" href="http://www.aboutads.info/choices/" target="_blank"> aboutads</a> (for EU/EEA citizens): 
+				<a class="ContentLinks" href="http://www.youronlinechoices.eu/" target="_blank">youronlinechoices.eu</a> and here (for mobile devices): 
+				<a class="ContentLinks" href="http://www.aboutads.info/appchoices" target="_blank">aboutads.info/appchoices</a>
+				 </li>
+				<br><br></ul></div>
+        </ul></td>
+    </tr><tr><td class="StandardPageLeftSectionContentBottomBorderCell">
+            &nbsp;
+        </td></tr><tr><td class="StandardPageLeftSectionContentBottomBorderCell">
+            &nbsp;
+        </td></tr></tbody></table><div align="center">
+                    
+
+                    
+                </div>
+                <noscript id="ctl00_noSciptTag">
+                <a href="https://info.mrplay.com" title="link"></a><a href="https:/de./info.mrplay.com" title="link"></a><a href="https:/nl./info.mrplay.com" title="link"></a><a href="https:/sv./info.mrplay.com" title="link"></a><a href="https:/no./info.mrplay.com" title="link"></a><a href="https:/fi./info.mrplay.com" title="link"></a></noscript>
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                
+            
+        
+    
+    
+       
+    
+    
+    <script language="javascript" type="text/javascript">
+        $("a[onclick*='ContactUsMail']").attr("onclick", "window.location.href='ContactUsMail.aspx?BackBtn=1&popup=1'");
+    </script></span></td></tr></tbody></table>
+        </div>
+
+    </div>
+
+</div>
+
+
+</div>
+
+<div class="footer-menu text-box footer-links">
+    <div class="container">
+        <ul class="top-menu">
+            <li class="menu-item menu-item-has-children col"><h5>About Us</h5>
+    <ul class="sub-menu">
+        <li class="menu-item footer-aboutUs"><a href="/info/about-us/" target="_self" data-action="navigateTo" data-action-info="/info/about-us/">About Us</a></li>
+<li class="menu-item footer-contactUs"><a href="" data-action="showContactUs" data-action-info="">Contact Us</a></li>
+
+    </ul>
+</li>
+
+<li class="menu-item menu-item-has-children col"><h5>Security &amp; Privacy</h5>
+    <ul class="sub-menu">
+        <li class="menu-item footer-terms"><a href="/info/terms/" target="_self" data-action="navigateTo" data-action-info="/info/terms/">Terms</a></li>
+<li class="menu-item footer-security"><a href="/info/helpdepositbanking/" target="_self" data-action="navigateTo" data-action-info="/info/helpdepositbanking/">Security</a></li>
+<li class="menu-item footer-privacy"><a href="/info/privacy/" target="_self" data-action="navigateTo" data-action-info="/info/privacy/">Privacy</a></li>
+
+    </ul>
+</li>
+
+<li class="menu-item menu-item-has-children col"><h5>Information</h5>
+    <ul class="sub-menu">
+        <li class="menu-item footer-bonusPolicy"><a href="/info/bonus-policy/" target="_self" data-action="navigateTo" data-action-info="/info/bonus-policy/">Bonus Policy</a></li>
+<li class="menu-item footer-responsibleGaming"><a href="/info/responsible/" target="_self" data-action="navigateTo" data-action-info="/info/responsible/">Responsible Gaming</a></li>
+<li class="menu-item footer-fairPlay"><a href="/info/fair-play/" target="_self" data-action="navigateTo" data-action-info="/info/fair-play/">Fair Play</a></li>
+<li class="menu-item footer-paymentMethods"><a href="/info/help-deposit-methods/" target="_self" data-action="navigateTo" data-action-info="/info/help-deposit-methods/">Payment Methods</a></li>
+
+    </ul>
+</li>
+
+<li class="menu-item menu-item-has-children col"><h5>Getting Started</h5>
+    <ul class="sub-menu">
+        <li class="menu-item footer-deposits"><a href="/info/help-deposit/" target="_self" data-action="navigateTo" data-action-info="/info/help-deposit/">Deposits</a></li>
+<li class="menu-item footer-cashout"><a href="/info/helpcashout/" target="_self" data-action="navigateTo" data-action-info="/info/helpcashout/">Cashout</a></li>
+<li class="menu-item footer-help"><a href="/info/help/" target="_self" data-action="navigateTo" data-action-info="/info/help/">Help</a></li>
+<li class="menu-item footer-faq"><a href="/info/faq/" target="_self" data-action="navigateTo" data-action-info="/info/faq/">FAQs</a></li>
+
+    </ul>
+</li>
+
+<li class="menu-item menu-item-has-children col"><h5>Extras</h5>
+    <ul class="sub-menu">
+        <li class="menu-item footer-Magazine"><a href="https://www.mrplay.com/magazine/" target="_self" data-action="navigateTo" data-action-info="https://www.mrplay.com/magazine/">Magazine</a></li><li class="menu-item footer-Sitemap"><a href="https://www.mrplay.com/sitemap/" target="_self" data-action="navigateTo" data-action-info="https://www.mrplay.com/sitemap/">Sitemap</a></li><li class="menu-item footer-Affiliates"><a href="http://mrplaypartners.com/" target="_blank" data-action="navigateTo" data-action-info="http://mrplaypartners.com/">Affiliates</a></li>
+    </ul>
+</li><li class="menu-item menu-item-has-children col"><h5>Casino Games</h5>
+    <ul class="sub-menu">
+        <li class="menu-item footer-All Games"><a href="https://www.mrplay.com/casino/" target="_self" data-action="navigateTo" data-action-info="https://www.mrplay.com/casino/">All Games</a></li><li class="menu-item footer-Slots"><a href="https://www.mrplay.com/casino/slots/" target="_self" data-action="navigateTo" data-action-info="https://www.mrplay.com/casino/slots/">Slots</a></li><li class="menu-item footer-Roulette"><a href="https://www.mrplay.com/casino/roulette/" target="_self" data-action="navigateTo" data-action-info="https://www.mrplay.com/casino/roulette/">Roulette</a></li><li class="menu-item footer-Blackjack"><a href="https://www.mrplay.com/casino/blackjack/" target="_self" data-action="navigateTo" data-action-info="https://www.mrplay.com/casino/blackjack/">Blackjack</a></li><li class="menu-item footer-Progressive Jackpots"><a href="https://www.mrplay.com/casino/progressive-jackpot/" target="_self" data-action="navigateTo" data-action-info="https://www.mrplay.com/casino/progressive-jackpot/">Progressive Jackpots</a></li><li class="menu-item footer-Live"><a href="https://www.mrplay.com/casino/live/" target="_self" data-action="navigateTo" data-action-info="https://www.mrplay.com/casino/live/">Live</a></li><li class="menu-item footer-Classic Slots"><a href="https://www.mrplay.com/casino/classic-slots/" target="_self" data-action="navigateTo" data-action-info="https://www.mrplay.com/casino/classic-slots/">Classic Slots</a></li><li class="menu-item footer-Card Games"><a href="https://www.mrplay.com/casino/card-games/" target="_self" data-action="navigateTo" data-action-info="https://www.mrplay.com/casino/card-games/">Card Games</a></li><li class="menu-item footer-Casual Games"><a href="https://www.mrplay.com/casino/casual-games/" target="_self" data-action="navigateTo" data-action-info="https://www.mrplay.com/casino/casual-games/">Casual Games</a></li><li class="menu-item footer-Popular Games"><a href="https://www.mrplay.com/casino/popular-games/" target="_self" data-action="navigateTo" data-action-info="https://www.mrplay.com/casino/popular-games/">Popular Games</a></li><li class="menu-item footer-New Games"><a href="https://www.mrplay.com/casino/new-games/" target="_self" data-action="navigateTo" data-action-info="https://www.mrplay.com/casino/new-games/">New Games</a></li><li class="menu-item footer-Scratchcards"><a href="https://www.mrplay.com/casino/scratchcards/" target="_self" data-action="navigateTo" data-action-info="https://www.mrplay.com/casino/scratchcards/">Scratchcards</a></li>
+    </ul>
+</li>
+        </ul>
+        <div class="mob-visible"><div class="moustache"></div></div>
+    </div>
+</div>
+<footer>
+    <div class="disclaimer container secondary-bgcolor">
+        <div class="copy">
+			Copyright 2018- All Rights Reserved. Mrplay.com is a brand owned by Marketplay LTD, a company incorporated under the laws of  Malta. The games on this website are powered and operated by Aspire Global International LTD., a Malta based company with registration number C42296 and having registered office at 135, High street, Sliema SLM 1549, Malta, which is a fully licensed operator under the Remote Gaming Regulations of Malta MGA/B2C/148/2007 issued on the 17 August 2009 (this license incorporates the previous licenses held by the Company and list the old license numbers with their license dates) and regulated by the Malta Gaming Authority.  In Great Britain , the games on this website are operated by AG Communications Limited, a Malta based company with registration number C48328 and having registered office at 135, High street, Sliema SLM 1549, Malta, which is licensed and regulated by the United Kingdom Gambling Commission (Remote Gaming License Number 000-039483-R-319409-001). The games offered by isoftbet are approved and licensed by Alderney Gambling Control Commission, license number: 117C2. The current status of operators license can be found at: <a href="https://secure.gamblingcommission.gov.uk/gccustomweb/PublicRegister/PRSearch.aspx?ExternalAccountId=39483" target="_blank" rel="nofollow"> Gambling Commission</a>.
+<br>In Sweden, the games on this website are operated by AG Communications Limited  a Malta based company with registration number C48328 and having registered office at 135, High street, Sliema SLM 1549, Malta, which is licensed and regulated by Lotteriinspektionen with license number 18Li7458.
+<br><br><div style="text-align:center;"><a href="/info/responsible" style="color:#808388; text-decoration: underline;">Gambling can be addictive, please play responsibly</a></div>
+        </div>
+    </div>
+</footer>
+
+<div class="payments-methods secondary-bgcolor">
+    <div class="social-buttons footer-share-buttons">
+                    <a href="https://www.facebook.com/mrplayCasino/" target="_blank">
+                    <img src="https://www.mrplay.com/wp-content/uploads/sites/30/2018/11/FB-2-icon.jpg">
+            </a>
+            </div>
+    
+
+
+<img id="footer-icons" usemap="#footer-icons" src="https://download.gamesrv1.com/Resources/asg-universal/web-elements/icons.png" onerror="this.src='https://download.gamesrv1.com/Resources/asg-universal/web-elements/icons.png'" class="payments-big" alt="">
+<a class="mga-logo hide-sv-item" rel="nofollow" href="https://www.authorisation.mga.org.mt/verification.aspx?lang=EN&amp;company=0e4c58b8-3336-48df-a191-f7e2d7a0baad" target="_blank"><img src="https://download.gamesrv1.com/Resources/asg-universal/web-elements/large.png" id="mga-img" alt="MGA logo"></a>
+
+
+<map name="footer-icons">
+        <area shape="rect" coords="52,62,77,84" rel="nofollow" href="/info/underage" alt="Responsible Online Gaming" title="Responsible Online Gaming" target="_blank">
+    <area shape="rect" coords="82,57,143,84" rel="nofollow" href="https://download.gamesrv1.com//general/website/certificate/rng_certificate_080108.pdf" alt="iTech Labs" title="iTech Labs" target="_blank">
+    <area shape="rect" coords="147,60,179,87" rel="nofollow" href="http://www.gamcare.org.uk/" alt="Game Care" title="Game Care" target="_blank">
+    <area shape="rect" coords="180,59,293,83" href="http://www.aspireglobal.com/" alt="Aspire Global" title="Aspire Global" target="_blank">
+    <area shape="rect" coords="295,57,326,84" rel="nofollow" href="http://www.gamblersanonymous.org/ga/" alt="" title="" target="_blank">
+        </map></div>
+
+<script src="https://fnc.aspireglobal.com/asg-framework/js/services.js?v=1551260882737"></script>
+<script src="https://fnc.aspireglobal.com/asg-framework/js/asg-fw.js?v=1551260882737"></script>
+<script src="https://fnc.aspireglobal.com/asg-framework/js/asg-app.js?v=1551260882737"></script>
+<script src="https://fnc.aspireglobal.com/asg-framework/js/asg-ui.js?v=1551260882737"></script>
+
+<script src="https://www.mrplay.com/wp-content/themes/AspireLayout_mrplay/js/app.ui.js?v=1551260882737"></script>
+
+<script>
+    var isFront = 0;
+</script>
+<script src="https://www.mrplay.com/wp-content/themes/AspireLayout_mrplay/js/mrplay.js?v=1551260882737"></script>
+
+<script>AsgApp.init({"BrandID":"162","Language":"ENG","Platform":"W","URLParams":"_icl_current_language=en&l=en&lng=ENG","AsgFrameworkUri":"https:\/\/fnc.aspireglobal.com\/asg-framework\/","ThemeUri":"\/wp-content\/themes\/AspireLayout_mrplay\/","NGInfoPage":"https:\/\/info.mrplay.com\/","Currency":"EUR","CurrencySign":"&euro;","Country":"us","IsGameStandaloneMode":false,"chatRequiresLogin":null,"universalImagesUri":"https:\/\/download.gamesrv1.com\/Resources\/asg-universal\/","generalImagesUri":"https:\/\/download.gamesrv1.com\/Resources\/mrplaycom\/web\/all\/","crmImagesUri":"https:\/\/download.gamesrv1.com\/Brands\/mrplay\/Website\/","isCMScontrol":true,"sport":false,"bingo":false,"achievementsMode":false,"sportLaunchingMode":false,"double_game_size":false,"hideTutorialPopup":false,"playForMoneyAfterLogin":true,"hasSwedishLicense":false,"karamball":false,"isShowOnlyWinnersOfThisBrand":null,"balanceUpdateUkMode":null,"defaultLng":"ENG"},{"regulationText": "Applies only to new depositing players. Min deposit £10. 18+. Wagering requirement apply 35x. Offer valid for 24hr. 100 spins includes 3 deposit. See full terms here"});</script>
+<script>AppUI.init(-1,"info.php",{
+        'specialEventPreloginBanner': 'https://www.mrplay.com/wp-content/uploads/sites/30/2019/01/mrplaySE541x366-NEW-EUR.jpg',
+        'mainBanners' : [{"url":"https:\/\/www.mrplay.com\/wp-content\/uploads\/sites\/30\/2018\/11\/1920x575_MrPlay_Welcome_EUR.jpg"},{"url":"https:\/\/www.mrplay.com\/wp-content\/uploads\/sites\/30\/2018\/11\/1920x575_MrPlay_Slots_EN.jpg"},{"url":"https:\/\/www.mrplay.com\/wp-content\/uploads\/sites\/30\/2018\/11\/1920x575_MrPlay_Roulette_EN.jpg"},{"url":"https:\/\/www.mrplay.com\/wp-content\/uploads\/sites\/30\/2018\/11\/1920x575_MrPlay_Vip_EN.jpg"}],
+        'gameName': '',
+        'isGamePageexists':'1',
+        'specialEventPreLoginWpLink' : {
+            "wp_special_event_banner": "",
+            "wp_special_event_inner_side_banner": ""
+        }
+    });
+</script>
+
+
+
+
+
+
+<script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","licenseKey":"6b892fae85","applicationID":"180203996","transactionName":"ZFVSZ0tUXhFZWxIKVl0fcVBNXF8MF1EIBVYeQFFUXA==","queueTime":0,"applicationTime":1171,"atts":"SBJREQNOTR8=","errorBeacon":"bam.nr-data.net","agent":""}</script>
+
+
+    </body></html>
