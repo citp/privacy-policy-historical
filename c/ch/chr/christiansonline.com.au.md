@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the christiansonline.com.au privacy policy that was archived on 2018-10-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181016030020id_/http%3A//www.christiansonline.com.au/page/general/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the christiansonline.com.au privacy policy that was archived on 2019-03-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190304172905id_/https%3A//www.christiansonline.com.au/page/general/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Christian Dating, Christian Singles Dating, Online Dating Australia
 
