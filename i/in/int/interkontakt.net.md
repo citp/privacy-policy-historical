@@ -1,13 +1,9 @@
-> *The following text is extracted and transformed from the interkontakt.net privacy policy that was archived on 2016-11-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161113150630id_/http%3A//www.interkontakt.net/datasavety.php%3Fl%3Den%26randm%3D4%26randw%3D7) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the interkontakt.net privacy policy that was archived on 2019-03-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190304055954id_/https%3A//www.interkontakt.net/datasavety.php%3Fl%3Den%26randm%3D4%26randw%3D7) for the most accurate reproduction.*
 
 # InterKontakt NET
 
-|  | | |   
----|---|---  
-| 
-
   1. [ Home ](https://web.archive.org/)
-  2. [ About us ](https://web.archive.org/impressum.php)
+  2. [ Contact us ](https://web.archive.org/impressum.php)
   3. Privacy Policy
 
 |    
@@ -33,7 +29,7 @@ Options are:
 
   * You find an OPT-OUT link in every email you receive from us at the bottom of the email.
   * When you are logged in at the site you go to menu "My membership". There you find a button to delete your profile.
-  * Send us an e-mail to **_[info@interkontakt.net](mailto:info@interkontakt.net?subject=Questions%20for%20InterKontakt%20NET%20not-logged-in)_** to let us know that you would like to opt out of future correspondence and we will remove you from our lists.
+  * Send us an e-mail to **_[info@interkontakt.net](https://web.archive.org/cdn-cgi/l/email-protection#1f393c2e2f2a24393c2e2e2f24393c2e2f2d24393c2e2e2e24393c292b24393c2e2f2a24393c2e2e2f24393c2e2e2924393c2e2f2e24393c2e2e2b24393c2e2f2824393c2e2e2e24393c2e2e2f24393c2e2e2924393c262824393c2e2f2824393c2e2e2924393c2b2924393c2e2e2f24393c2e2f2e24393c2e2e2924206c6a7d757a7c6b224e6a7a6c6b7670716c3f79706d3f56716b7a6d5470716b7e746b3f515a4b3f71706b32737078787a7b327671)_** to let us know that you would like to opt out of future correspondence and we will remove you from our lists.
   * Send us a fax to +49 911 308 44 77 844 with your email address you used to register at InterKontakt NET and your member ID **not-logged-in**
 
 
@@ -98,5 +94,4 @@ The author intended not to use any copyrighted material for the publication or, 
 
 ## 4\. Legal validity of this disclaimer
 
-This disclaimer is to be regarded as part of the internet publication which you were referred from. If sections or individual terms of this statement are not legal or correct, the content or validity of the other parts remain uninfluenced by this fact.   
-| | | | 
+This disclaimer is to be regarded as part of the internet publication which you were referred from. If sections or individual terms of this statement are not legal or correct, the content or validity of the other parts remain uninfluenced by this fact. 
