@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the t-app.com.au privacy policy that was archived on 2018-03-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180312131203id_/https%3A//t-app.com.au/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the t-app.com.au privacy policy that was archived on 2019-03-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190304150224id_/https%3A//t-app.com.au/privacy.aspx) for the most accurate reproduction.*
 
 # 
 
@@ -34,7 +34,7 @@ Personal information is held for one or more of the functions and activities of 
 
 ## Who tApp discloses information to
 
-tApp will discloses personal information collected by it to organisations such as real estate agents, property owners, utility providers, utility brokers, insurers and insurance brokers, other providers of goods and services, banks and commercial agents.
+tApp will discloses personal information collected by it to organisations such as real estate agents, property owners, utility providers, utility brokers, insurers and insurance brokers, other providers of goods and services, banks and commercial agents. Personal Information may be disclosed to persons outside Australia. This may occur in circumstances where an organisation or person to whom information is disclosed and located in Australia outsources administrative and/or operational functions to persons outside Australia or where a person located outside Australia requests to undertake a search of the information held by TRA on its database. Such persons may be located in the Philippines but it is otherwise not practicable for TRA to specify the countries in which those person outside Australia are likely to be located.  
 
 ##  tApp policies in relation to the management of personal information
 
