@@ -1,103 +1,141 @@
-> *The following text is extracted and transformed from the spreets.com.au privacy policy that was archived on 2018-03-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180312105050id_/https%3A//spreets.com.au/page/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the spreets.com.au privacy policy that was archived on 2019-03-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190304135437id_/https%3A//spreets.com.au/page/privacy-policy) for the most accurate reproduction.*
 
 # Spreets
 
-##  WHAT THIS PRIVACY POLICY COVERS
+##  **1\. Privacy Statement**
 
-###  Spreets takes your privacy seriously. Please read the following to learn more about our privacy policy.
+1.1 Spreets.com.au and each of its Related Bodies Corporate (also referred to as “We”, “Us” or “Our” in this Privacy Policy) respects your privacy and is committed to protecting your personal information. Our privacy policy outlines Our approach to privacy and how We collect, use and protect your personal information. It also sets out your rights in relation to accessing the personal information We collect and hold about you. We are bound by the Australian Privacy Principles in the Privacy Act 1988 (Cth).
 
-###  How Spreets Uses Your Personal Information
+This Privacy Policy has been drafted having regard to Our obligations under the Privacy Act 1988 (Cth), the Privacy Amendment (Enhancing Privacy Protection) Act 2012, which includes the Australian Privacy Principles (collectively, the Privacy Act), and the Spam Act 2003 (Cth). This Privacy Policy is a public document and has been prepared in light of Australian Privacy Principle 1 - Open and Transparent Management of Personal Information.
 
-Spreets complies with the Australian Privacy Principles (“APPs”).  This policy covers how Spreets Pty Ltd ABN 76 142 688 524 (“ **Spreets** ”) and its parent company DEALS.com.au Pty Ltd (ACN 139 798 191) (“ **DEALS** ”) treat personal information that Spreets collects and receives, including information related to your past use of Spreets products and services. Personal information is information or opinion about an individual, or an individual who is reasonably identifiable whether the information or opinion is true or not, and whether the information or opinion is recorded in a material form) and includes (but is not limited to) the following kinds of information: your name, address, email address, phone number and so on.
+Please take a few minutes to review this Privacy Policy. By using the Spreets.com.au website, you are consenting to the collection, use and disclosure of your personal information as set forth in this Privacy Policy.
 
-###  This privacy policy only applies to Spreets
+1.2 Personal information is defined in the Privacy Act 1988 (Cth) and means information or an opinion about an identified individual, or an individual who is reasonably identifiable.
 
-This policy does not apply to the practices of companies that Spreets or DEALS do not own or control, or to people that Spreets or DEALS do not employ or manage. The companies that Spreets partners with, including the group buying partners and advertisers who promote their deals and offers on the Spreets website, have their own privacy policies that will apply if you use their website or services or you transact with them directly.  You can access the privacy policies for those companies on their respective websites.
+1.3 Our website may contain links to third party websites. We are not responsible for the privacy policies of any third party websites. We recommend that you review the privacy policy of each website you visit.
 
-By using Spreets’ products and services, you consent to Spreets and DEALS using your personal information as set out in this Privacy Policy.
+###  **2\. Collection of Personal Information**
 
-**Information Collection and Use**
+2.1 Spreets.com.au only collects personal information for the purposes of conducting Our business as an online retailer and trader. The personal information We collect from you will include information you give Us when you:
 
-Spreets and DEALS collect your personal information when you register on the Spreets website, when you subscribe to our emails, when you visit Spreets pages or the pages of certain Spreets partners, when you submit a customer enquiry or complaint and when you enter [promotions or competitions](http://info.yahoo.com/privacy/au/yahoo/promotions/). Spreets may combine information about you that we have with information we obtain from our business partners or other companies.
+2.1.1 register or subscribe to Our website;
 
-Generally, the type of information we collect may include your name, email address, post code, phone number and date of birth. When you register with Spreets or use our services, you are not anonymous to us. However, you may choose to deal with Spreets anonymously or under a pseudonym where lawful and practicable.
+2.1.2 complete a transaction with Us; and
 
-Spreets also collects information about your transactions with some of our business partners.
+2.1.3 contact Us.
 
-Spreets automatically receives and records information from your computer and browser, including your [IP address](http://info.yahoo.com/privacy/au/yahoo/ip/), Spreets [cookie](http://info.yahoo.com/privacy/au/yahoo/cookies/) information, software and hardware attributes, and the page you request.
+2.2 The personal information that We collect on individuals may include, but is not limited to:
 
-Spreets and DEALS use information for the following general purposes: to send you daily emails and other periodic emails, to customise the advertising and content you see, to fulfill your requests for our services, to improve our services, to contact you about specials, offers and new products including those offered by our partners, to conduct research, and to provide anonymous reporting for internal and external clients.
+2.2.1 your name;
 
-You expressly consent to us using your personal information for these purposes and to communicate with you in connection with our services.
+2.2.2 your contact details, including your email, home address and billing address;
 
-**Information Sharing and Disclosure**
+2.2.3 your payment details; and
 
-Spreets and DEALS do not rent, sell, or share personal information about you with other people or non-affiliated companies except to provide products or services you have requested, when we have your permission, or under the following circumstances:
+2.2.4 other personal information that We collect in the course of a transaction or that you provide to Us when you contact Us.
 
-•           We provide the information, in compliance with the Australian Privacy Principles, to trusted partners who work on behalf of or with Spreets under confidentiality agreements. These companies may use your personal information to help Spreets communicate with you about offers from Spreets and our marketing partners. However, these companies do not have any independent right to share this information except to the extent required by law.
+2.3 If you wish to 'refer a friend' to Spreets.com.au, that friend must register themselves - We will not enter Personal Information on their behalf.
 
-•           We respond to subpoenas, court orders, or legal process, or to establish or exercise our legal rights or defend against legal claims.
+2.4 At or before the time, or, if that is not practicable, as soon as practicable after, We collect your personal information, We will notify you of the matters required pursuant to Australian Privacy Principal 5 – Notification of the Collection of Personal Information, by providing you with this Privacy Policy, or by notifying you of how you may access this Privacy Policy.
 
-•           We believe it is necessary to share information in order to investigate, prevent, or take action regarding illegal activities, suspected fraud, situations involving potential threats to the physical safety of any person, violations of Spreets’ terms of use, or as otherwise required by law.
+2.5 Spreets.com.au will not collect personal information secretly or in an underhanded way and will not sell your personal information to any third party.
 
-•           We transfer information about you if Spreets is acquired by or merged with another company. In these circumstances, you agree that we may transfer your personal information to the acquiring company.
+2.6 We may collect personal information from individuals who are not customers of Our business, but whose personal information is given to Us by those individuals via Our website or in the course of a transaction.
 
-The websites you visit work with online advertising companies to provide you with advertising that is as relevant and useful as possible. Some of the online ads you are served may be based on the content of the web page you’re visiting; some others may be based on registration information you provide; and other ads may be customised based on predictions about your interests generated from your visits to other web sites. To learn more about relevant advertising click [here](http://info.yahoo.com/privacy/au/yahoo/relevantads.html). 
+2.7 Where reasonably practicable, We attempt to collect information directly from individuals. When We collect information, We will generally explain to the individual why We are collecting it, who We give it to and how We will use or disclose it or, alternatively, those matters will be obvious from the circumstances.
 
-On some occasions your personal information may need to be transferred to overseas countries, including Austria in order to perform one or more of Spreets’ functions or activities and you consent to such transfer and acknowledge that Section 8.1 of the Australian Privacy Principles will not apply to such transfer. 
+2.8 We will collect personal information from you by lawful and fair means and not in an unreasonably intrusive way.
 
-**Cookies**
+2.9 When you visit Our website and/or download Our app, third parties may place cookies on your browser to enhance and manage Our website and improve Our business and the services We provide to you. We and/or Google may use this information to optimise and place advertisements, including advertisements of third party vendors, on Our own and third party websites. Google’s ability to use and share information collected by Google Analytics is restricted by the Google Analytics Terms of Use and Privacy Policy. By using the website and agreeing to this policy, you grant Us permission to place and store cookies on your browser. Cookies may be used by Us to collect the following information:
 
-Spreets or DEALS may set and access [cookies](http://info.yahoo.com/privacy/au/yahoo/cookies/details.html) on your computer. 
+2.9.1 your computer's operating system;
 
-Spreets and DEALS allow [other companies](http://info.yahoo.com/privacy/au/yahoo/adservers/) that are presenting advertisements on some of our pages to set and access their cookies on your computer. The way other companies use their cookies is subject to their own privacy policies, not this one. Advertisers or other companies do not have access to Spreets or DEALS’s cookies. 
+2.9.2 your computer's browser type and capabilities;
 
-Spreets and DEALS use [web beacons](http://info.yahoo.com/privacy/au/yahoo/webbeacons/) to access our cookies within and outside our network of web sites and in connection with Spreets and DEALS owned products and services. 
+2.9.3 your computer's Internet Protocol (IP) address and geolocation;
 
-Other companies such as web analytics partners, application developers and ad networks may use [cookies](http://info.yahoo.com/privacy/au/yahoo/cookies/details.html), [web beacons](http://info.yahoo.com/privacy/au/yahoo/webbeacons/details.html) and applications such as widgets on the DEALS network of websites as described [here](http://info.yahoo.com/privacy/au/yahoo/thirdparties/).  
+2.9.4 web pages visited, including how you were referred to each web page; and
 
-_We use Google Analytics (a web analytics services provided by Google) and data such as age, gender and browsing activity to better understand the behaviour of our customers and provide targeted advertising to suit customers interests and preferences. Accordingly, w_ _hen you visit our website, we, and/or a third party, may place cookies on your browser to determine information including (but not limited to) your computers location, browsing activity and time spent on each web page. We and/or Google may use this information to optimise and place advertisements. By using this website and agreeing to this policy, you grant us permission to place and store cookies on your browser. Cookies can be managed by accessing the individual settings in your browser._
+2.9.5 web page usage statistics, including the time spent on each web page.
 
-​
+2.10 Cookies can be managed by accessing the individual settings in your browser.
 
-  **How to Unsubscribe**
+2.11 We will not identify users or their browsing activities, except where required by law or in accordance with Our Terms and Conditions of Use and Sale.
 
-You can unsubscribe at any time by clicking the ‘Unsubscribe’ link at the bottom of each of our emails and following the instructions contained in the email.
+2.12 When downloading Our app, you will receive notification informing you what content on your smartphone the app will need to access. This may include but is not limited to ~~to~~ maps, location and calendar.  You can pick and choose which content a particular app can have access to under Settings / Apps / App Permission.
 
-If you experience any difficulty in unsubscribing from our emails via the automatic unsubscribe facility at the bottom of each of our emails, please contact Spreets at [support@spreets.com](mailto:support@spreets.com) and we will investigate as a matter of urgency.
+###  **3.  ** **Using and Disclosing Your Personal Information**
 
-We reserve the right to send you certain communications relating to the Spreets service, such as service announcements and administrative messages, without offering you the opportunity to opt out of receiving them.
+3.1 We will generally use or disclose your personal information only for the primary purpose for which it was collected; or for a related secondary purpose where you would reasonably expect Us to use or disclose the personal information for that secondary purpose. We may otherwise use and disclose your personal information if you have given Us consent for the use or disclosure or it is required or authorised by law.
 
-**Confidentiality and Security**
+3.2 Generally, We use and disclose your personal information for the purpose of providing you with the goods or services that you have requested, or otherwise to enable Us to carry out Our business as an online retailer of goods and services.
 
-We limit access to personal information about you to our employees or those of our related bodies corporate who we believe reasonably need to come into contact with that information to provide products or services to you or in order to do their jobs.
+3.3 If those purposes for which We have collected the information involve providing personal information about an individual to any third party, We will take appropriate and reasonable steps to ensure any personal information is protected.
 
-We have physical, electronic, and procedural safeguards that comply with federal regulations to protect personal information about you.
+3.4 We will generally only use personal information for marketing if you have given express or implied consent or it is impracticable to seek consent before this use.
 
-**Your Ability to Access, Edit or Delete Your Personal Information and Preferences**
+3.5 When registering with Spreets.com.au, you consent to Spreets.com.au using your personal information, such as your email address, for direct marketing purposes. This includes sending you deal emails. You may opt out of receiving these direct marketing communications at any time. Our electronic marketing activities will comply with the requirements of the Spam Act 2003 (Cth).
 
-If you have set up an account with Spreets, you can access and edit/correct your Spreets Account Information, including your marketing preferences, at any time.
+3.6 We may also provide your information to third parties that provide services to Us, including third parties that provide Our payment gateway, marketing, logistics and technology support services. This may include providing your information to third parties that are located outside of Australia. Where your personal information is transferred outside Australia (including the USA, UK, Hong Kong, the Philippines and the EU), We will do so in accordance with Australian Privacy Principal 8 – Cross-border Disclosure of Personal Information.
 
-New categories of marketing communications might be added to the Marketing Preferences page from time to time. Users who visit this page can opt out of receiving future marketing communications from these new categories or they can unsubscribe by following instructions contained in the messages they receive.
+In addition, We may also disclose your information to third parties in order for them to provide services to you, in accordance with Our Terms and Conditions of Use and Sale and this Privacy Policy.
 
-We reserve the right to send you certain communications relating to the DEALSservice, such as service announcements and administrative messages that are considered part of your Spreets subscription, without offering you the opportunity to opt out of receiving them.
+###  **4.  ** **Security of Your Personal Information**
 
-You may also request access to and correction of the personal information Spreets holds about you by writing to the Privacy Officer. Additionally, you may delete the personal information held by Spreets by logging into your Spreets account and deleting the personal information.
+4.1 We take steps to protect the personal information We hold against loss, unauthorised access, use, modification or disclosure and against other misuse. When no longer required, personal information is destroyed in a secure manner or deleted.
 
-**Questions, Complaints and Suggestions**
+###  **5.  ** **Access to Your Personal Information and Complaints Procedure**
 
-If you have questions or suggestions, please complete a feedback form.  Complaints about a breach of the APPs must be addressed in writing to:
+5.1 Under the Privacy Act 1988 (Cth), you have certain rights to access the personal information We collect and hold about you.
 
-Privacy Officer c/-Legal Department  
-Spreets Pty Limited  
-New Yorker, Level 1, 50-56 York St  
-South Melbourne VIC 3205  
-Australia
+5.2 Generally, subject to the exceptions of Australian Privacy Principal 12.3, We will allow an individual access to the personal information We hold about them within a reasonable time after it is requested. When requesting such access, please identify the precise type/s of information requested. You may make a request by contacting Our Help Centre or by writing to Us at: Privacy Officer, Spreets.com.au Pty Ltd, Level 1, 50-56 York St, South Melbourne, VIC 3205.
 
-We will notify you within 14 working days of the Privacy Officer receiving your complaint and will try to resolve the complaint within 30 working days. When this is not possible we will contact you to provide an estimate of the time it will take to resolve the complaint.
+5.3 We take those steps reasonable in the circumstances to ensure that the personal information that We collect, use and disclose is accurate, up to date and complete. Where an individual requests to correct information, We will take reasonable steps to correct the information, having regard to the purpose for which it is held. You may lodge a request to correct personal information in the manner outlined in clause 5.2 above.
 
-**Changes to this Privacy Policy**
+5.4 To make a complaint about a breach of the Australian Privacy Principles, which includes how We handle your personal information, you may contact Our Help Centre or write to Us at the address provided in clause 5.2 above. We will endeavour to respond to your complaint within a reasonable time after it is received. If you are not satisfied by Our response, you may acquire further information regarding privacy from the Office of the Australian Information Commissioner.
 
-Spreets may update this policy. We will notify you about significant changes in the way we treat personal information by sending a notice to your email address or by placing a prominent notice on our site.
+**6.  ** **Lux Vendor App**
 
-_Effective date: 12 March 2015_
+6.1 By downloading the Lux Vendor app, this will enable the camera feature of your smartphone to act as a scanner. By having this feature, it will allow a swift redemption to all vouchers that you service. The Lux Vendor app will also store your login credentials for quick and easy access. The Lux Vendor app will not have access to any further information stored on your phone, including your contacts, photographs and calendar.
+
+**Privacy Collection Statement**
+
+The personal information that We collect from you will include information you provide Us when you:
+
+1\. register or subscribe to Our website;
+
+2\. complete a transaction with Us; and
+
+3\. contact Us.
+
+We may further collect personal information from individuals who are not customers of Our business, but whose personal information is given to Us by those individuals via Our website, including Our Help Centre, or in the course of a transaction.
+
+All personal information will be collected by lawful means and not in an unreasonably intrusive way.
+
+We will use your personal information for the purpose of providing Our services to you. We generally share your information with third parties, so that they may also provide services to you pursuant to transactions you make on Our website.
+
+We also generally share your personal information:
+
+1\. with Our sister sites;
+
+2\. as required or authorised by law; and
+
+3\. in accordance with Our Terms and Conditions of Use and Sale and Our Privacy Policy with third parties that provide services to Us, including third parties that provide Our payment gateway, marketing, logistics and technology support services.
+
+This may include providing your information to third parties that are located outside of Australia, including the USA, UK, Hong Kong, the Philippines and the EU.
+
+In cases where personal information has been disclosed to any third party, We will take appropriate steps to ensure your personal information is protected.
+
+Spreets.com.au’s Privacy Policy provides you with information about how you may:
+
+1\. access your personal information held by Spreets.com.au and change that information; and
+
+2\. complain about a breach of the Privacy Act 1988 (Cth) and how Spreets.com.au will deal with such a complaint.
+
+Spreets.com.au’s Privacy Collection Statement and Privacy Policy may change from time to time. The latest versions will be available online at  _<https://spreets.com.au/page/privacy-policy>_
+
+Privacy Officer  
+Spreets.com.au Pty Ltd  
+Level 1, 50-56 York St  
+South Melbourne, VIC 3205  
+Email: [help@spreets.com](mailto:help@spreets.com)
