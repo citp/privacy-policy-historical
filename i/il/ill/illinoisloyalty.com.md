@@ -1,16 +1,14 @@
-> *The following text is extracted and transformed from the illinoisloyalty.com privacy policy that was archived on 2018-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180601183120id_/https%3A//www.illinoisloyalty.com/About/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the illinoisloyalty.com privacy policy that was archived on 2019-03-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190304181321id_/https%3A//www.illinoisloyalty.com/About/privacy.php) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy and Cookie Policy
 
 Last updated: May 24, 2018 
 
-Fourth Ridge Media Productions, LLC ("us", "we", or "our") operates the http://www.illinoisloyalty.com/ website (the "Service"). 
-
 This page informs you of our policies regarding the collection, use and disclosure of Personal Information when you use our Service. 
 
-We will not use or share your information with anyone except as described in this Privacy Policy. 
+We will not use or share your information with anyone except as described in this Privacy Policy and Cookie Policy. 
 
-**We use your Personal Information for providing and improving the Service. By using the Service, you agree to the collection and use of information in accordance with this policy.** Unless otherwise defined in this Privacy Policy, terms used in this Privacy Policy have the same meanings as in our Terms and Conditions, accessible at http://www.illinoisloyalty.com/ 
+**We use your Personal Information for providing and improving the Service. By using the Service, you agree to the collection and use of information in accordance with this policy.** Unless otherwise defined in this Privacy Policy and Cookie Policy, terms used in this Privacy Policy and Cookie Policy have the same meanings as in our Terms and Conditions, accessible at http://www.illinoisloyalty.com/ 
 
 **Information Collection And Use**
 
@@ -36,7 +34,47 @@ Google, as a third party vendor, uses cookies to serve ads on our Service. Googl
 
 You may opt out of the use of the DoubleClick Cookie for interest-based advertising by visiting the [Google Ads Settings](http://www.google.com/ads/preferences/ "Google Ads Settings") web page. 
 
-For more information on cookies, visit our [Cookie Policy](https://web.archive.org/About/cookies.php). 
+If you continue to use this site, you are consenting to our use of cookies. 
+
+**What are cookies?**
+
+Cookies are small text files stored on your computer by your web browser at the request of a site you're viewing. This allows the site you're viewing to remember things about you, such as your preferences and history or to keep you logged in. 
+
+Cookies may be stored on your computer for a short time (such as only while your browser is open) or for an extended period of time, even years. Cookies not set by this site will not be accessible to us. 
+
+**Our cookie usage**
+
+This site uses cookies for numerous things, including: 
+
+  * Registration and maintaining your preferences. This includes ensuring that you can stay logged in and keeping the site in the language or appearance that you requested.
+  * Analytics. This allows us to determine how people are using the site and improve it.
+  * Advertising cookies (possibly third-party). If this site displays advertising, cookies may be set by the advertisers to determine who has viewed an ad or similar things. These cookies may be set by third parties, in which case this site has no ability to read or write these cookies.
+  * Other third-party cookies for things like social media sharing. These cookies will generally be set by the third-party independently, so this site will have no ability to access them.
+
+
+
+**Additional cookies and those set by third parties**
+
+Additional cookies may be set during the use of the site to remember information as certain actions are being performed, or remembering certain preferences. 
+
+Other cookies may be set by third party service providers which may provide information such as tracking anonymously which users are visiting the site, or set by content embedded into some pages, such as YouTube or other media service providers. 
+
+**Removing/disabling cookies**
+
+Managing your cookies and cookie preferences must be done from within your browser's options/preferences. Here is a list of guides on how to do this for popular browser software: 
+
+  * [Microsoft Internet Explorer](https://support.microsoft.com/en-gb/help/17442/windows-internet-explorer-delete-manage-cookies)
+  * [Microsoft Edge](https://privacy.microsoft.com/en-us/windows-10-microsoft-edge-and-privacy)
+  * [Mozilla Firefox](https://support.mozilla.org/en-US/kb/cookies-information-websites-store-on-your-computer)
+  * [Google Chrome](https://support.google.com/chrome/answer/95647?hl=en)
+  * [Safari for macOS](https://support.apple.com/kb/PH21411)
+  * [Safari for iOS](https://support.apple.com/en-gb/HT201265)
+
+
+
+**More information about cookies**
+
+To learn more about cookies, and find more information about blocking certain types of cookies, please visit the [ICO website Cookies page](https://ico.org.uk/for-the-public/online/cookies/). 
 
 **Do Not Track Disclosure**
 
@@ -58,6 +96,8 @@ We will disclose your Personal Information where required to do so by law or sub
 
 **Business Transaction**
 
+Fourth Ridge Media Productions, LLC ("us", "we", or "our") operates the http://www.illinoisloyalty.com/ website (the "Service"). 
+
 If Fourth Ridge Media Productions, LLC is involved in a merger, acquisition or asset sale, your Personal Information may be transferred as a business asset. In such cases, we will provide notice before your Personal Information is transferred and/or becomes subject to a different Privacy Policy. 
 
 **Security**
@@ -72,7 +112,7 @@ Your information, including Personal Information, may be transferred to -- and m
 
 If you are located outside United States and choose to provide information to us, please note that we transfer the information, including Personal Information, to United States and process it there. 
 
-Your consent to this Privacy Policy followed by your submission of such information represents your agreement to that transfer. 
+Your consent to this Privacy Policy and Cookie Policy followed by your submission of such information represents your agreement to that transfer. 
 
 **Links To Other Sites**
 
@@ -82,16 +122,14 @@ We have no control over, and assume no responsibility for the content, privacy p
 
 **Children's Privacy**
 
-Only persons age 18 or older have permission to access our Service. Our Service does not address anyone under the age of 16 ("Children"). 
+Children under the age of 13 ("Children") are not permitted to use our sites and services. We do not knowingly collect personal information from children under the age of 13. If we learn that we have collected personal information from a child under 13, we will take steps to promptly delete such information. If you are a parent or guardian and you learn that your Children have provided us with Personal Information, please contact us. If we discover that a Child under 13 has provided us with Personal Information, we will delete such information from our servers. 
 
-We do not knowingly collect personally identifiable information from children under 16. If you are a parent or guardian and you learn that your Children have provided us with Personal Information, please contact us. If we discover that a Child under 16 has provided us with Personal Information, we will delete such information from our servers. 
+**Changes To This Privacy Policy and Cookie Policy**
 
-**Changes To This Privacy Policy**
+This Privacy Policy and Cookie Policy is effective as of May 24, 2018 and will remain in effect except with respect to any changes in its provisions in the future, which will be in effect immediately after being posted on this page. 
 
-This Privacy Policy is effective as of May 24, 2018 and will remain in effect except with respect to any changes in its provisions in the future, which will be in effect immediately after being posted on this page. 
-
-We reserve the right to update or change our Privacy Policy at any time and you should check this Privacy Policy periodically. Your continued use of the Service after we post any modifications to the Privacy Policy on this page will constitute your acknowledgment of the modifications and your consent to abide and be bound by the modified Privacy Policy. 
+We reserve the right to update or change our Privacy Policy and Cookie Policy at any time and you should check this Privacy Policy and Cookie Policy periodically. Your continued use of the Service after we post any modifications to the Privacy Policy and Cookie Policy on this page will constitute your acknowledgment of the modifications and your consent to abide and be bound by the modified Privacy Policy and Cookie Policy. 
 
 **Contact Us**
 
-If you have any questions about this Privacy Policy, please [contact us](https://web.archive.org/Contact/). 
+If you have any questions about this Privacy Policy and Cookie Policy, please [contact us](https://web.archive.org/Contact/). 
