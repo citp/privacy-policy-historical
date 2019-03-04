@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the landlordology.com privacy policy that was archived on 2017-08-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170828202830id_/https%3A//www.landlordology.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the landlordology.com privacy policy that was archived on 2019-03-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190304062150id_/https%3A//www.landlordology.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Landlordology
 
