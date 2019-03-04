@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the probertencyclopaedia.com privacy policy that was archived on 2017-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171219152828id_/http%3A//www.probertencyclopaedia.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the probertencyclopaedia.com privacy policy that was archived on 2019-03-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190304135745id_/http%3A//www.probertencyclopaedia.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - probertencyclopaedia.com
 
