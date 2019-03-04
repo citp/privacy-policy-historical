@@ -1,139 +1,124 @@
-> *The following text is extracted and transformed from the totalhockey.com privacy policy that was archived on 2015-03-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150319030611id_/http%3A//www.totalhockey.com/support/Privacy_Policy/pg_id/3/%3FCDT%3D635619687712260758) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the totalhockey.com privacy policy that was archived on 2019-03-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190304114512id_/https%3A//www.purehockey.com/support/Privacy_Policy/pg_id/3) for the most accurate reproduction.*
 
-# Our Policies | Total Hockey
+# Our Policies | Pure Hockey
 
-We value our customers and respect your privacy. We collect information about you in our stores and through our websites in an effort to improve your shopping experience or communicate with you about our products, services, contests and promotions. We do not sell or rent your personal information to third parties.
+Our website allows you to buy products and services, get information, enter contests, receive special discounts, apply for credit, fill out surveys, and receive newsletters, e-mails or other promotional information from us. We use the information that we collect about you to fulfill your product and service purchases and to create a more personalized online experience. This is just a brief overview, so please read on for more details about our Privacy Policy. This Policy may change from time to time, so please check back periodically. Except as limited below, we reserve the right to use or disclose your personally identifiable information for business reasons in whatever manner desired.
 
-This policy describes the personal information we collect about you, why we collect it and how we use it. Our policy also describes the choices you can make about how we collect and use your information. If our information practices change, we will post an updated policy on our website. You can tell if the policy has changed by checking the revision date that appears at the end of this policy. If we change the policy in a material way, we will provide appropriate notice to you. You may exercise your choices about how we collect and use your information consistent with this policy at any time.
+Except as otherwise discussed in this Privacy Policy, this document only addresses the use and disclosure of information we collect from you online. For some services, we either collect and transfer personal information to a service provider you have selected, or you may visit other merchants through links on our site who may collect and use your personal information. In those cases the third-party service provider or merchant's privacy policy will govern how your information is handled. We encourage you to ask questions and to be very cautious before you disclose your personal information to others.
 
-## What Kind of Information Does Total Hockey, Inc. Collect?
+Attn: Privacy Compliance Officer  
+Pure Hockey Corporate Offices  
+89 Cross Street  
+Holliston, MA, 01746
 
-We collect information, such as name, e-mail, postal addresses, phone and credit card numbers from you when you place an order online or by phone, create and save an account with us online or participate in a contest, sweepstakes, promotion or survey.
+## What information does Pure Hockey collect from you?
 
-## How Does Total Hockey, Inc. Use My Information?
+In order to better provide you with numerous products and services, [Pure Hockey](https://web.archive.org/) collects two types of information about its visitors: Personally Identifiable Information and Non-Personally Identifiable Information. Our primary goal in collecting information from you is to provide you with a smooth, efficient, and customized experience while using our site.
 
-We may use your personal information in the following ways:
+  1. Personally Identifiable Information
 
-  * To process and fulfill your order, including to send you e-mails to confirm your order status and shipment
-  * To communicate with you and to send you information by e-mail, postal mail, telephone, text message or other means about our products, services, contests and promotions, unless you have directed us not to contact you with promotional communications
-  * To administer and fulfill our contests and other promotions
-  * To help us learn more about your shopping preferences
-  * To help us address problems with and improve our site design, products and services
-  * To enhance your shopping experience
-  * To analyze trends and statistics
-  * To protect the security or integrity of our websites and our business
-  * To contact you if necessary
+This refers to information that lets us know the specifics of who you are. Personal information is requested when you register and set up an account, order a product or service, register for a Wish List, enter contests or sweepstakes, fill out surveys, and send us feedback. For example, this information might include your name, billing address, shipping address, telephone number, e-mail address, credit card or other payment information, and product details. With this information, [Pure Hockey](https://web.archive.org/) can fill your orders and better provide you with personalized services. If you visit another site available through a link on our site, they will independently collect, use and share your personal information in accordance with their own privacy policies. If you have questions about their information practices, please read their privacy policies.
 
+  2. Non-Personally Identifiable Information
 
+This refers to information that does not by itself identify a specific individual. We gather certain information about you based upon where you shop on our site in several ways. This information is compiled and analyzed on both a personal and an aggregated basis. For example, this information may include the Web site's Uniform Resource Locator ("URL") that you just came from, which URL you next go to, what browser you are using, and your Internet Protocol ("IP") address. A URL is the global address of documents and other resources on the World Wide Web. An IP address is an identifier for a computer or device on a Transmission Control Protocol/Internet Protocol ("TCP/IP") network, such as the World Wide Web. Networks like the Web use the TCP/IP protocol to route information based on the IP address of the destination. In other words, an IP address is a number that is automatically assigned to your computer whenever you are surfing the web, allowing web servers to locate and identify your computer. Computers require IP addresses in order for users to communicate on the Internet, browse and shop.
 
-You always have the choice not to receive marketing information. For instructions on opting out, please see the section entitled "How do I make choices about receiving promotional communications?" below.
+On an aggregated basis, we collect anonymous data related to the pages, products, downloads and other content that is sampled, clicked on, streamed, searched for, transferred from and downloaded. Except as otherwise limited in this Policy, we may disclose, sell, trade, or rent Non-Personally Identifiable Information to others without your consent.
 
-## Does Total Hockey, Inc. Share My Information?
 
-Total Hockey, Inc. makes every effort to protect our customers’ privacy.  We do not share customer information with any third party marketing companies, affiliate vendors or communication networks.  While extremely infrequent, there are a few cases where customer information may be shared with non-marketing related third parties, as described below:
 
-In the unlikely event of a sale or merger of Total Hockey Inc., our customers' personal information and other information we have collected as described in this policy may be among the transferred business assets.
 
-We reserve the right to disclose information about you as permitted or required by law, in response to legal process and law enforcement requests, and as we believe necessary to protect the property, interests and rights of Total Hockey, Inc. and others.
+## Where do we collect information from you and how do we use it?
 
-## How Do I Access or Change My Information?
+Our primary goal in collecting personal information is to provide [Pure Hockey](https://web.archive.org/)'s visitors with a superior customized online experience. We use the customer contact information to fill orders, contact purchasers to inform them of their order status, to send promotional information, to enhance the operation of our site and administer our systems.
 
-You can review and change certain personal information related to your use of our online site (such as your name and contact information). To access your information, simply sign in to your account using your e-mail address and password, and you will be able to edit your personal information in your account profile.
+Demographic data also may be collected at our site from third party advertising servers, content servers, or web site analysis agents who provide us with the zip code and area code associated with a visitor's server, along with pages viewed on our site. We review the actions of the [Pure Hockey](https://web.archive.org/) visitors on an aggregate basis to determine customers' preferences. [Pure Hockey](https://web.archive.org/) also does research on our visitors' demographics, interests, and pages viewed based on the information provided to us during ordering, a promotion, from our server log files, from our web site analysis agents, or from contests, drawings or surveys. We will use this data to tailor the visitor's experience at our site, to improve our marketing and promotional efforts, to statistically analyze site use, to improve our product offerings, and to customize our site's content, layout, and services. We receive reports from third party ad servers, content servers, or web site analysis agents that tells us how many ads were presented and clicked upon or what content was served or viewed.
 
-You can also ask us to update your personal information by contacting us as described in the section entitled "How do I contact you?" below. Please note that any request to update your personal information may take up to 10 days for your e-mail request and 6-8 weeks for your postal mail request.
+We may also share your personally identifiable information with third parties who provide services to us, our customers and web site visitors. Those third parties include authorized contractors, temporary employees and consultants and other companies working with us (collectively, "agents"). Where we believe it to be appropriate (in our sole discretion), we will ask our agents not to disclose or use your personal information for purposes other than to provide services to you or [Pure Hockey](https://web.archive.org/).
 
-## How Do I Make Choices About Receiving Promotional Communications?
+We gather information in the following ways:
 
-Total Hockey, Inc. wants to communicate with you only if you want to hear from us. If you prefer not to receive promotional information, such as information about special offers and sales events, from one or more of our brands, you can let us know by contacting our customer service as described in the sidebar above.
+  * Shopping
 
-Please be sure to include your full name and the e-mail address you used when you registered with or made a purchase from Total Hockey, Inc.  If you ask us to remove your name and address from promotional lists, we will maintain your name in a "do not contact" file to ensure that we can honor your request. It may take up to 10 days to process your e-mail request and 6-8 weeks to process your postal mail request, during which period you may continue to receive communications from Total Hockey.
+We collect IP addresses for the purposes of system administration, to gather broad demographic information, to enable ads to be served on our site, to report Non-Personally Identifiable Information to our advertisers, and to monitor the level of activity on our site. We collect information from visitors to our site regarding the URLs they came from, domain types (e.g., .com or .org), their IP addresses, the date and time of their visit or order, the number of visits and orders, the number of visits per browsing session, the server type, the operating system and browser type used to come to the site, the country, state and telephone area code where their servers are located, the pages and page titles of our site that visitors viewed during their visit, whether the visitor's computer is enabled for Java or cookies, browser language, applications and plug-ins, and any search terms entered on our site.
 
-If you change your mind, you can start receiving promotional communications from us again by logging into your online account and changing your preferences, by signing up when you visit our websites, when you enter a sweepstakes or contest or by contacting customer service.
+  * Ordering
 
-Please note that when you make an online purchase from us, we will continue to confirm your order status and shipment by e-mail. We may also need to contact you via telephone, e-mail or postal mail with questions or information regarding your order.
+When you order from us, we collect personally identifiable information from you. If you order one of our products or services, we will collect and maintain your name, e-mail address, billing address, shipping address, telephone number, product selections, credit card or other payment information, order number, referring URL, IP address, page you bought from and a password. We collect this, and other information, as disclosed in this Policy, in order to fill your order, to communicate with you about your order and to send you promotional materials. Before confirming your order, you will have the opportunity to review the product order form and make changes and additions to the information it contained and these changes will be automatically kept for future use. We may require additional verifications or information before accepting any order.
 
-## How Does Total Hockey, Inc. Protect Kids' Privacy?
+  * Gift Registry
 
-Total Hockey, Inc. is concerned about the privacy and safety of children when they use the Internet. We will never knowingly request personally identifiable information online from anyone under the age of 13 without prior verifiable parental consent. Our websites are general audience sites and are not targeted to or intended for use by children.
+If you decide to create a Wish List through our site, you will create an account, where we will collect and use your name, e-mail address, credit card or other payment information, billing and shipping address, phone number, password and product preferences. This information is subject to the terms of this Privacy Policy except as explained here. Others will be able to search for your Wist List using your e-mail address unless you choose not to make your Wist List searchable. Those who have access to your Wist List will be able to see your name, e-mail address, city, state, and may have access to other personal information and product information that you have entered into the Gift List. If others place orders for items on your Gift List, they may have access to your address. We will use the product preferences that you include in your Gift List to inform you about offers that may be of interest to you. If you provide us with the e-mail addresses of your family and friends, we will use their e-mail addresses to send them your Gift List if you instruct us to. With your permission, we will send them the Gift List using your e-mail address as the originating address. We will not use the e-mail addresses of your family and friends for any other purpose.
 
-## How Does Total Hockey, Inc. Use Cookies?
+  * Gift Cards
 
-Our website uses "cookies," which are small data files that are stored on your computer when you visit a website. Cookies enable you to shop on our websites and may be used in a variety of ways to enhance or personalize your online browsing and shopping experience.
+If you purchase a gift card from our site, you will give us the recipient's name and e-mail address if you wish to send the certificate by e-mail. If you wish to send a gift card by regular mail, you will give us the name, mailing information and phone number for the recipient. The recipient information you give us will only be used to send the gift certificate and for no other purpose.
 
-For example, we may use cookies to enable you to use certain website features, remember the items in your shopping cart, store your preferences, recognize you when you return to our website, track your orders and monitor and maintain information about your use of our websites.
+  * Online Surveys and Polling
 
-You can set your browser not to accept cookies or to notify you when you are sent a cookie, giving you the opportunity to decide whether or not to accept it. If you do not accept cookies, however, you will not be able to access your account information or make purchases on our website.
+In order to improve our services to you, we ask some of our customers to voluntarily complete surveys, which may be collected by an independent third party. Individual survey answers are confidential, although Non-Personally Identifiable Information is collected and disclosed to third parties. If you do not wish to participate in a survey, simply decline to participate when asked.
 
-## How Does Total Hockey, Inc. Use Pixel Tags?
+  * Contests and Sweepstakes
 
-We use "pixel tags" (also called "web beacons" or "clear gifs"), which are tiny graphic images, on our website and in some emails. Pixel tags help us analyze our customers' online behavior and measure the effectiveness of our websites and our advertising. We work with service providers that help us track, collect, and analyze this information.
+When you enter a contest or other promotion, we may ask you for contact information such as your name, address and e-mail address in order to administer the contest, to send you promotional e-mails, notify winners and make the winners' list publicly available pursuant to certain states' laws. Your consent to such promotional use and disclosure of this information is a condition of your participation. As a condition of receiving any prize, you will be required to submit an Affidavit of Eligibility, for us to ensure that you are eligible to receive the prize according to the Contest Rules.
 
-Pixel tags on our sites may be used to collect information about your visit, including the pages you view, the features you use, the links you click, and other actions you take in connection with the sites. This information may include your computer's Internet protocol (IP) address, your browser type, your operating system, date and time information, and other technical information about your computer. We may also track certain information about the identity of the website you visited immediately before coming to our site. We do not otherwise track any information about your use of other websites.
+  * Newsletters, Promotional E-mails
 
-Pixel tags and cookies in our emails may be used to track your interactions with those messages, such as when you receive, open, or click a link in an e-mail message from us.
+We offer free newsletters, promotional e-mails as a service to our customers. We will send you newsletters and e-mails periodically listing current specials and deals. You may "opt-out," or unsubscribe from our newsletters, emails or personalized on-line advertisements by following any unsubscribe instructions in any e-mail or newsletter you receive from us, or by sending an e-mail to "[optout@purehockey.com](mailto:optout@purehockey.com)". After doing so, if you have opted out of receiving all newsletters or promotional emails, you will not receive future promotional emails, newsletters unless you open a new account, enter a contest, or otherwise subsequently sign up to receive newsletters or emails. Please Note: If you agree to receive e-mails from any of our third party service providers or any third party merchants on our site, you will receive e-mails separately from them, and information that you choose to disclose to them will be subject to their privacy policy. If you later decide that you no longer want to receive their e-mails, you will need to follow their own specific opt-out instructions, as opting out to "[optout@purehockey.com](mailto:optout@purehockey.com)" as described above will not opt you out of their promotional emails.
 
-We may combine the information we collect through cookies and pixel tags with other information we have collected from you. This information may be used to improve our websites, to personalize your online experience, to tailor our communications with you, to determine the effectiveness of our advertising and for other internal business purposes.
+  * Contact Information and Third Party Data
 
-## How Do I Know My Personal Information is Secure?
+If you contact [Pure Hockey](https://web.archive.org/) or our customer service representatives by telephone, e-mail or letter, we may keep a record of your correspondence or comments. If you report a problem with our site, we may collect such information in a file specific to you. If you contact us through our feedback area or by calling one of our customer service representatives, we may ask for your name, e-mail address and order information in order to send you a reply.
 
-We do our best to provide you with a safe and convenient shopping experience. We have in place certain physical, electronic, contractual and managerial safeguards to protect the security and privacy of your personal information.
+  * Advertising
 
-When you enter your personal information on our website, we use Secure Sockets Layer (SSL) technology to protect your information as it is transmitted to us. To make sure you are accessing our secure server before you submit personal financial information, look at the lower left-hand corner of your browser. If you see an unbroken key or a closed lock (depending upon your browser), then SSL is active. To double-check for security, look at the URL or Location line of your browser. If you have accessed a secure server, the first characters of the address in that line should change from "http" to "https."
+We may display advertisements on our site. By knowing a little about you, [Pure Hockey](https://web.archive.org/) will be able to deliver more relevant advertisements and content to you in the form of targeted banners and promotions. For example, advertisers give us an advertisement and tell us the type of audience they want to reach. [Pure Hockey](https://web.archive.org/) takes the advertisement and includes it in a [Pure Hockey](https://web.archive.org/) e-mail to prior customers meeting that criterion. We may also have third-party advertising servers display ads linked to certain search terms that you have entered, or to certain pages that you are viewing. In this process, advertisers never have access to individual account information. [Pure Hockey](https://web.archive.org/) may share aggregated data with advertisers. We may also use advertising partners to assist us in delivering personalized on-line ads to you through the use of cookies while you are on the Internet.
 
-If for any reason you cannot access the secure server, or if you're not quite comfortable shopping online at any of our websites, please feel free to place your order with us by telephone at the number listed in the section entitled "How do I contact you?" below. Customer Service representatives are available 24 hours a day, seven days a week and will be happy to assist you.
+  * Web Site Use
 
-## What is "Phishing"?
+We also track customers' traffic patterns throughout their online session, including which pages, information and advertisements a customer views while using the site and what items they place in their basket or purchase. We use your IP address to diagnose problems with our servers, software, to administer our site and to gather demographic information. We may share aggregated statistics about pages viewed on our site, sales and other shopping information with third parties.
 
-"Phishing" is a scam designed to steal your personal information. If you receive an e-mail that looks like it is from us asking you for your personal information, do not respond. We will never request your password, user name, credit card information or other personal information through e-mail.
+  * Cookies
 
-## What About Links to Other Websites?
+We use cookies and may allow others to use cookies in the operation of our site; to find out what cookies are and how they are used, click here.
 
-For your convenience and information, our website may contain links to other sites, which may have privacy policies that differ from our own. We are not responsible for the content or practices of any linked site. We recommend that you review the privacy policy of any site that you access through our sites.
+  * Action Tags/Web Beacons
 
-## International Policy
+We may use and allow others to use action tags or web beacons in the operation of our site; to find out what action tags and web beacons are and how they are used, click here.
 
-Some orders will be subject to duties and taxes that are the responsibility of the purchaser. If you need further information, please contact your Customs Offices for duties, taxes or restricted product. Due to manufacturer shipping policies, there are some products we cannot ship outside the United States.
 
-Bauer does not allow us to ship outside of the USA and does not allow the use of any type of 3rd party shipping process to circumvent that policy.  In addition, brands like Brine, CCM, Easton, Reebok and Warrior cannot be shipped internationally due to policies set by the manufacturer. Any orders with the aforementioned product being shipped directly to an international address will not be completed or will be canceled.
 
-## Terms of Use
 
-Total Hockey, Inc. provides this Site as a service to our customers. Please review the following basic rules that govern your use of our Site (the "Agreement"). Please note that your use of our Site constitutes your agreement to follow and be bound by these terms. We may, at our own discretion, limit or cancel quantities purchased per person, per household or per order. We may also reserve the right to refuse any order you place with us. These restrictions may include orders placed by or under the same customer account, the same credit card, and/or orders that use the same billing and/or shipping address. In the event we make a change to an order, we will attempt to notify you by contacting the e-mail and/or billing address/phone number provided at the time the order was made. We reserve the right to limit or prohibit sales to dealers, resellers or distributors. If you do not agree to these terms, please do not use this Site.
+## Who is collecting your information?
 
-Although you may "bookmark" a particular portion of this Site and thereby bypass this Agreement, your use of this Site still binds you to the terms. Since Total Hockey, Inc. may revise this Agreement at any time, you should visit this page periodically to review the terms of your use.
+  * Ad Servers and Content Servers
 
-## Site Contents
+We may use third party ad servers or content servers to serve ads, product information, or other information both on and off our site. Those third parties may use "action tags" or web beacons throughout the site to count the number of visitors who click on a banner ad or other information and to track the number of customers who continue on to make a purchase. They may also place their own "cookie" on your computer to help those ads to run, analyze site usage and to provide you with personalized on-line advertisements. With respect to personalized on-line ad serving, our third party ad server may collect your first name and/or a product group/category (chosen by [Pure Hockey](https://web.archive.org/) based on your personal preferences and/or prior purchase history e.g., heads, gloves, helmets, etc.), which are used to serve you the most relevant personalized on-line ad. Except as set in the following sentence, we do not provide them with any of your Personally Identifiable Information. For more information about the information they collect, please see the section "Use of Cookies and Action Tags" below. To learn more about the information practices of the third party ad serving company used to serve ads on our site, Click here. To learn more about the information practices of the third party ad serving company used to serve you personalized ads, Click here.
 
-Occasionally there may be information on the Site that contains typographical errors, inaccuracies, or omissions that may relate to product descriptions, pricing, and availability. We reserve the right to correct any errors, inaccuracies, or omissions and to change or update information at any time without prior notice (including after you have submitted your order). We apologize for any inconvenience this may cause you. If you are not completely satisfied with your purchase, you may return it with your invoice to any retail store or by mail.
+  * Email Services
 
-Unless otherwise noted, all materials, including images, illustrations, designs, icons, photographs, video clips, and written and other materials that are part of this Site (collectively, the "Contents") are copyrights, trademarks, trade dress, and/or other intellectual property owned, controlled, or licensed by Total Hockey, Inc. The Site as a whole is protected by copyright and trade dress, all worldwide rights, titles, and interests in and to which are owned by Total Hockey
+We use a third party (Constant Contact) to send promotional e-mails to customers. Images contained in the email may be served by the third party. They collect certain information about you such as your IP address, browser type, your operating system, the country and server your computer is logged onto, where the servers that your computer is logged onto is located, the time and date that a particular email was viewed, the area code and zip code associated with your server, and whether you responded to a particular ad or email, products viewed and whether you continued on to make a purchase. They may use a "cookie" or "action tags."
 
-This Site and all its Contents are intended solely for personal, non-commercial use. You may download or copy the Contents and other downloadable materials displayed on the Site for your personal use only. No right, title, or interest in any downloaded materials or software is transferred to you as a result of any such downloading or copying. You may not reproduce (except as noted above), publish, transmit, distribute, display, modify, create derivative works from, sell or participate in any sale of, or exploit in any way, in whole, or in part any of the Contents, the Site, or related software.
+  * Website Analysis Agent
 
-In some cases Contents are provided by and originates from third party and manufacturer sources. While we take many steps to ensure the accuracy and completeness of information please refer to the manufacturer for complete product details.
+We may contract with several online partners to help manage and optimize our Internet business and marketing. We use the services of marketing companies to help us measure the effectiveness of our advertising and how visitors use our site. To do this, we use Action Tags and cookies provided by the marketing companies on this site. The type of information we collect includes things such as pages, information and advertisements viewed as well as what items are placed in a shopping basket or purchased, the order number, the amount of a purchase, the product number and the quantity purchased. By supplementing our records, this information helps us learn things like what kinds of customers our site attracts, which of our products most interest our customers, and what kinds of offers our customers like to see. Although the marketing companies log the information coming from our site on our behalf, we control how that data may and may not be used.
 
-## Colors
+  * Marketing Partners, Co-Branded Services, Framing/Windows on Third-Party Sites
 
-We have made every effort to display as accurately as possible the colors of our products that appear on our Site. However, as the actual colors you see will depend on your monitor or system settings we cannot guarantee that your display of any color will be precise.
+We may run promotions for merchants where you may visit the merchants' sites. In some of those promotions, a window or frame containing the merchant's site may appear. Any time you are in a window, you should assume that your personal information is being collected, used and disclosed in accordance with that merchant's policies. This Privacy Policy does not apply to information that you supply to those merchants. Any information that you share with them will be used and disclosed in accordance with that merchant's privacy policy. However, once you click on a return link to our site, you can expect that further information that you disclose will be treated in accordance with this Policy.
 
-## Links to Other Websites and Services
+  * Links and Banner Ads to Third-Party Sites
 
-This Site may contain links to other websites that are not under the control of Total Hockey. Total Hockey, Inc. has no responsibility for the linked websites, nor does it necessarily endorse the linked websites. Total Hockey, Inc. provides the links solely for the convenience and information of our Site users.
+Please be aware that our site may contain links to other sites on the Internet that are owned and operated by third parties. The information practices of those websites linking from or to our site are not covered by this Policy. These other sites may send their own cookies to users, collect data, or solicit personal information. Additionally, other companies or ad servers, which place advertising on our site may collect information about you through the use of cookies when you view or click on their advertising. We cannot control this collection of information. You should contact advertisers directly if you have any questions about their use of the information that they collect.
 
-## Disclaimer
 
-Total Hockey, Inc. PROVIDES THE MATERIALS ON THIS SITE "AS IS" WITHOUT WARRANTIES OF ANY KIND, EITHER EXPRESS OR IMPLIED, INCLUDING WITHOUT LIMITATION, WARRANTIES OF TITLE, IMPLIED WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, OR NON-INFRINGEMENT OF INTELLECTUAL PROPERTY. Total Hockey, Inc. EXPRESSLY DISCLAIMS ANY DUTY TO UPDATE OR REVISE THE MATERIALS ON THIS SITE, ALTHOUGH Total Hockey, Inc. MAY MODIFY THE MATERIALS AT ANY TIME WITHOUT NOTICE. BY YOUR USE OF THIS SITE, YOU ACKNOWLEDGE THAT YOUR USE IS AT YOUR SOLE RISK AND THAT YOU ASSUME FULL RESPONSIBILITY FOR ALL COSTS ASSOCIATED WITH ALL NECESSARY SERVICING OR REPAIRS OF ANY EQUIPMENT YOU USE IN CONNECTION WITH YOUR USE OF THIS SITE. YOU FURTHER ACKNOWLEDGE THAT Total Hockey, Inc. SHALL NOT BE LIABLE FOR ANY DAMAGES OF ANY KIND RELATED TO YOUR USE OF THIS SITE.
 
-## Indemnification
 
-You agree to defend, indemnify, and hold Total Hockey, Inc. harmless from and against any and all claims, damages, costs, and expenses, including attorneys' fees, arising from or related to your use of the Site, your breach of these Terms of Use, and/or any of the foregoing agreements, representations, and warranties.
+## With whom do we share your information?
 
-## Miscellaneous
+  * Other Parties Generally
 
-Unless otherwise specified and except to the extent Total Hockey, Inc. products are offered for sale in the United States through this Site, this Site and the Contents thereof are displayed solely for the purpose of promoting Total Hockey's products and services available in the United States and select foreign markets. This Site is controlled and operated by Total Hockey, Inc. from its offices in Maryland Heights, Missouri.
+We may provide Non-Personally Identifiable Information about our customers' sales, traffic patterns, and related site information to third parties, but these statistics do not include any Personally Identifiable Information whatsoever. We may release account information when we believe that such release is reasonably necessary to enforce or apply our Terms of Use or to protect the rights, property, and safety of [Pure Hockey](https://web.archive.org/), our users, or others. If customers do not pay us for products ordered, we may submit their account information to a third party collection agency. We may also share your Personally Identifiable Information with third parties who provide services to us, our customers and web site visitors. Those third parties include authorized contractors, temporary employees and consultants and other companies working with us. Where we believe it to be appropriate (in our sole discretion), we will ask our agents not to disclose or use your personal information for purposes other than to provide services to you or [Pure Hockey](https://web.archive.org/).
 
-This Agreement shall be construed in accordance with the laws of the State of Missouri, without regard to any conflict of law provisions. Any dispute arising under this Agreement shall be resolved exclusively by the state and/or federal courts of the State of Missouri and/or Saint Louis County. The waiver of any provision of these Terms of Use shall not be considered a waiver of any other provision or of Total Hockey, Inc. Inc.'s right to later require strict observance of each of the terms herein. If any provision of these Terms of Use is found to be unenforceable or invalid for any reason, that provision shall be severable and all other provisions shall remain in full force and effect. This constitutes the entire agreement between us relating to your use of the Site and shall not be modified except in a writing signed by both parties.
 
-## Termination
 
-These terms are effective unless and until terminated by either you or Total Hockey, Inc. You may terminate this Agreement at any time. Total Hockey, Inc. may also terminate this Agreement at any time and may do so immediately without notice, and accordingly deny you access to the Site, if in Total Hockey's sole discretion you fail to comply with any term or provision of this Agreement. Upon any termination of the Agreement by either you or Total Hockey, you must immediately discontinue use of this Site and promptly destroy all materials downloaded or otherwise obtained from this Site, as well as all copies of such materials, whether made under the terms of use or otherwise.
