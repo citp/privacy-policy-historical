@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ivona.com privacy policy that was archived on 2017-02-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170208165016id_/https%3A//www.ivona.com/us/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ivona.com privacy policy that was archived on 2019-03-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190304233344id_/https%3A//www.ivona.com/us/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | IVONA Text-to-Speech
 
