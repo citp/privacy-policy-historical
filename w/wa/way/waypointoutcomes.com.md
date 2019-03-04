@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the waypointoutcomes.com privacy policy that was archived on 2018-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181231192938id_/http%3A//bridgepointeducation.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the waypointoutcomes.com privacy policy that was archived on 2019-03-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190304122712id_/http%3A//bridgepointeducation.com/privacy.htm) for the most accurate reproduction.*
 
 # - Bridgepoint Education Privacy Policy Bridgepoint Education
 
