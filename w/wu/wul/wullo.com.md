@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the wullo.com privacy policy that was archived on 2018-04-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180412213738id_/http%3A//wullo.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wullo.com privacy policy that was archived on 2019-03-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190304190048id_/https%3A//wullo.com/privacy) for the most accurate reproduction.*
 
-# Wullo - Privacy Policy
+# Wullo | Privacy
 
-Wullo.com ("Wullo") takes your privacy very seriously and has created this Privacy Policy in order to disclose its use of consumer data collected about you. You may contact Wullo at 3941 S. Bristol St., Suite D337 Santa Ana, CA 92704 or via our [contact form](https://web.archive.org/web/20180412213738id_/http%3A//wullo.com/contact). 
+Wullo.com ("Wullo") takes your privacy very seriously and has created this Privacy Policy in order to disclose its use of consumer data collected about you. You may contact Wullo at 3941 S. Bristol St., Suite D337 Santa Ana, CA 92704 or via our [contact form](https://web.archive.org/contact). 
 
 By using the Wullo website, or submitting information to us by other means, you are subjecting your information to the practices outlined in this Privacy Policy. This Privacy Policy covers Wullo's treatment of personal information that we collect when you are on Wullo's website and when you use Wullo's services. This policy does not apply to the practices of third parties that Wullo does not own or control, including websites that we may link to, or to individuals that Wullo does not employ or manage. 
 
@@ -32,7 +32,7 @@ Through our use of Facebook products and services, including but not limited to 
 
 Wullo prohibits unsolicited email advertising of its site. 
 
-Wullo respects your email preferences and will never provide your email address to a third party without your permission, except as may be prescribed elsewhere in this Privacy Policy. If you provide us your email address, Wullo may email you job alerts, account notifications, news, offers, surveys, promotions, and other communications. If you do not want to receive particular types of email messages from Wullo, follow the unsubscribe instructions contained in the email message to notify us of our preferences, or [click here](https://web.archive.org/web/20180412213738id_/http%3A//wullo.com/unsubscribe). 
+Wullo respects your email preferences and will never provide your email address to a third party without your permission, except as may be prescribed elsewhere in this Privacy Policy. If you provide us your email address, Wullo may email you job alerts, account notifications, news, offers, surveys, promotions, and other communications. If you do not want to receive particular types of email messages from Wullo, follow the unsubscribe instructions contained in the email message to notify us of our preferences, or click here. 
 
 #### Children's Privacy
 
@@ -46,7 +46,7 @@ Never provide your social security number, credit card information, bank account
 
 #### Cookies
 
-Cookies are small pieces of information that are stored by your browser on your computers hard drive. Wullo may use cookies to keep track of your session and advertising delivery. Wullo or our partners may also use cookies to deliver content specific to your interests and to save a password associated with a user profile. We use third-party advertising companies to serve ads when you visit our site. These companies may use third-party cookies to record information (excluding your name, address, email address, or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you on others websites. You can learn more [here](http://www.google.com/privacy/ads/). You can opt-out of this type of advertising [here](http://www.aboutads.info/). 
+"Cookies" are small pieces of information that are stored by your browser on your computer's hard drive. Wullo may use cookies to keep track of your session and advertising delivery. Wullo or our partners may also use cookies to deliver content specific to your interests and to save a password associated with a user profile. We use third-party advertising companies to serve ads when you visit our site. These companies may use third-party cookies to record information (excluding your name, address, email address, or telephone number) about your visits to this and other websites and directly in emails/communications in order to provide advertisements about goods and services of interest to you on others websites. Our partners may also link the nonpersonal information we share with them to the cookie stored on your browser or device, and they may collect information such as your IP address, hashed version of your email address, browser or operating system type and version, and demographic or inferred-interest information. You can learn more [here](http://www.google.com/privacy/ads/). You can opt-out of this type of advertising [here](http://optout.aboutads.info/). 
 
 #### Links to Third Party Sites
 
@@ -58,7 +58,7 @@ If there is a change of control in Wullo's business (whether by merger, sale, or
 
 #### Conditions of Use
 
-If you decide to use Wullo's site or services, your use and any possible dispute over privacy is subject to this Privacy Policy. If you have questions about this Privacy Policy, you can [contact us](https://web.archive.org/web/20180412213738id_/http%3A//wullo.com/contact). 
+If you decide to use Wullo's site or services, your use and any possible dispute over privacy is subject to this Privacy Policy. If you have questions about this Privacy Policy, you can [contact us](https://web.archive.org/contact). 
 
   
 3941 S. Bristol St., Suite D337  
