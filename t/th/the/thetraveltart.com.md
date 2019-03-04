@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the thetraveltart.com privacy policy that was archived on 2017-07-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170710111910id_/https%3A//thetraveltart.com/travel-guides/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thetraveltart.com privacy policy that was archived on 2019-03-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190304094016id_/https%3A//www.thetraveltart.com/travel-guides/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - The Travel Tart Blog, Funny Photos, Videos, Advice
 
-## Privacy Policy Updated and Effective: March 2, 2015
+## Privacy Policy Updated and Effective: August 1, 2018
 
 This following document sets forth the **Privacy Policy** for the TheTravelTart.com.
 
@@ -48,8 +48,4 @@ TheTravelTart.com reserves the right to make amendments to this Privacy Policy a
 
 ## Contacting us
 
-TheTravelTart.com welcomes your comments regarding this Privacy Policy. If you have any questions about this Privacy Policy and would like further information, [please contact us](https://www.thetraveltart.com/international-travel/).
-
-### About Anthony The Travel Tart
-
-The Travel Tart writes about the funny, offbeat and weird aspects of world travel today. Travel wasn't meant to be taken too seriously! Check out ways to say hi below or [sign up for his silly newsletter!](http://thetraveltart.us6.list-manage1.com/subscribe/post?u=231ea8bfd220fe9854a414cdd&id=b87b46b560)
+TheTravelTart.com welcomes your comments regarding this Privacy Policy. If you have any questions about this Privacy Policy and would like further information, please contact us.
