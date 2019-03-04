@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the liveinmelbourne.vic.gov.au privacy policy that was archived on 2018-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180315010942id_/https%3A//liveinmelbourne.vic.gov.au/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the liveinmelbourne.vic.gov.au privacy policy that was archived on 2019-03-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190304053025id_/https%3A//liveinmelbourne.vic.gov.au/privacy) for the most accurate reproduction.*
 
 # Privacy - Live in Melbourne
 
-As part of the Victorian Government’s Department of Economic Development, Jobs, Transport and Resources (DEDJTR) the Skilled and Business Migration Program values the privacy of every individual's personal information and health information.
+As part of the Victorian Government’s Department of Jobs, Precincts and Regions (DJPR), the Skilled and Business Migration Program values the privacy of every individual's personal information and health information.
 
 We are committed to protecting the information we collect and use by complying with the Privacy and Data Protection Act 2014 and the Health Records Act 2001.
 
@@ -79,7 +79,7 @@ The Skilled and Business Migration Program has implemented technology and securi
 
 ### Access
 
-You have a right to access your personal information. In accordance with the Act, requests for access should be made via formal application under the Freedom of Information Act 1982 (Vic) (though in certain circumstances requests may be dealt with by the Skilled and Business Migration Program without the need to make formal application). Requests for access should be sent to the Department of Economic Development, Jobs, Transport and Resources using the information in the Privacy Officer Contact Details section below.
+You have a right to access your personal information. In accordance with the Act, requests for access should be made via formal application under the Freedom of Information Act 1982 (Vic) (though in certain circumstances requests may be dealt with by the Skilled and Business Migration Program without the need to make formal application). Requests for access should be sent to the Department of Jobs, Precincts and Regions using the information in the Privacy Officer Contact Details section below.
 
 ### Anonymity
 
@@ -100,9 +100,9 @@ The Skilled and Business Migration Program uses a variety of web monitoring tech
 
 You may be able to disable or avoid some of these technologies by adjusting your Internet browser settings, though doing so may prevent you from taking advantage of improvements to the sites. Importantly, at no time can individual users be identified from the data collected via these means.
 
-## Application of this privacy statement for DEDJTR
+## Application of this privacy statement for DJPR
 
-This privacy statement applies only to the department and this particular website. It is consistent with the department’s privacy policy and applies to all activities of the Department and its agencies.
+This privacy statement applies only to the Department and this particular website. It is consistent with the Department’s privacy policy and applies to all activities of the Department and its agencies.
 
 This website contains links to other websites. This privacy statement does not apply to those websites.
 
@@ -110,17 +110,15 @@ The Department’s privacy policy is available from the Privacy Officer.
 
 ### Privacy officer contact details
 
-**DEDJTR Privacy Officer**
+Department of Department of Jobs, Precincts and Regions
 
-Level 16, 1 Spring Street
+GPO Box 4509
 
-Melbourne, VIC, 3000, AUS
+Melbourne, VIC, 3001, AUS
 
-**Tel:** (+ 61 3) 9665 9535
+**Tel:** (+61 3) 8392 6329
 
-**Fax:** (+ 61 3) 9651 9129
-
-**Email:** [privacy@ecodev.vic.gov.au](mailto:privacy@ecodev.vic.gov.au)
+**Email:** [privacy@djpr.vic.gov.au](mailto:privacy@djpr.vic.gov.au)
 
 ## Privacy and Data Protection Act 2014 (Vic): Personal information
 
@@ -138,7 +136,7 @@ It is intended that this website can be used anonymously. However, for some func
 
 There are two exceptions to this:
 
-  * When someone else provides the department with your personal information. The department cannot prevent this. However, you are entitled to access and to correct any personal information about you collected by the department
+  * When someone else provides the Department with your personal information. The Department cannot prevent this. However, you are entitled to access and to correct any personal information about you collected by the Department
   * When the Department collects website visitation statistics using a web analytics service. For further information regarding this, see the Website Usage Measurement section.
 
 
@@ -149,7 +147,7 @@ The statistics collected from website visitation may qualify as personal informa
 
 If you provide personal information, the Department’s privacy policy will regulate its use and disclosure. However, should the department’s intended use and disclosure of personal information deviate from the Department’s general policy, a privacy statement particular to the circumstances will be made available at the time of collection.
 
-Personal information that is collected by the department will be used by, and disclosed to, departmental employees or contractors whose duties require them to use it. Such employees and contractors are required to protect and handle your personal information in accordance with the _Privacy and Data Protection Act 2014_ (Vic.) and any other applicable legislation regulating the collection, use, disclosure, storage and destruction of personal information.
+Personal information that is collected by the Department will be used by, and disclosed to, Departmental employees or contractors whose duties require them to use it. Such employees and contractors are required to protect and handle your personal information in accordance with the _Privacy and Data Protection Act 2014_ (Vic.) and any other applicable legislation regulating the collection, use, disclosure, storage and destruction of personal information.
 
 ### Access to and correction of personal information
 
@@ -159,23 +157,25 @@ Contact the Freedom of Information Officer about access to, and correction of, p
 
 **Freedom of Information Officer**
 
-Level 16, 1 Spring Street
+Department of Department of Jobs, Precincts and Regions
 
-Melbourne, VIC, 3000, AUS
+GPO Box 2392
+
+Melbourne, VIC, 3001, AUS
 
 **Tel:** (+61 3) 9208 3112
 
-**Email:** [foi@ecodev.vic.gov.au](mailto:foi@ecodev.vic.gov.au)
+**Email:** [foi@djpr.vic.gov.au](mailto:foi@djpr.vic.gov.au)
 
 ## Internet user risks
 
-The department does not warrant that the functions contained in the site will be uninterrupted or without error. In addition, the department shall not be responsible for the propagation of computer worms, viruses or other harmful components transmitted from this site and other third-party sites.
+The Department does not warrant that the functions contained in the site will be uninterrupted or without error. In addition, the Department shall not be responsible for the propagation of computer worms, viruses or other harmful components transmitted from this site and other third-party sites.
 
-The department recommends that you ensure that your browser is equipped with updated virus protection software.
+The Department recommends that you ensure that your browser is equipped with updated virus protection software.
 
 ### Website usage measurement
 
-This website uses Google Analytics and Yandex.Metrica web analytics. These web analytics products use "cookies", which are text files placed on your computer, to help the us analyze how users use the site. The information generated by the cookie about your use of the website (including your IP address) will be transmitted to and stored by these three companies on servers in various locations throughout the world, including the United States of America. These three companies will use this information for the purpose of evaluating your use of the website, compiling reports on website activity for website operators and providing other services relating to website activity and internet usage. These three companies may also transfer this information to third parties where required to do so by law, or where such third parties process the information on the three companies' behalf. The three companies will not associate your IP address with any other data held by themselves.
+This website uses Google Analytics and Yandex. Metrica web analytics. These web analytics products use "cookies", which are text files placed on your computer, to help the us analyze how users use the site. The information generated by the cookie about your use of the website (including your IP address) will be transmitted to and stored by these three companies on servers in various locations throughout the world, including the United States of America. These three companies will use this information for the purpose of evaluating your use of the website, compiling reports on website activity for website operators and providing other services relating to website activity and internet usage. These three companies may also transfer this information to third parties where required to do so by law, or where such third parties process the information on the three companies' behalf. The three companies will not associate your IP address with any other data held by themselves.
 
 You may refuse the use of cookies by selecting the appropriate settings on your browser, however please note that if you do this you may not be able to use the full functionality of this website. By using this website, you consent to the processing of data about you by these three companies in the manner and for the purposes set out in this Web Usage Measurement section.
 
