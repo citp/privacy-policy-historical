@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ashop.com.au privacy policy that was archived on 2018-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181101211530id_/https%3A//www.ashop.com.au/g/2615/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ashop.com.au privacy policy that was archived on 2019-03-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190304141232id_/https%3A//www.ashop.com.au/g/2615/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy - Ecommerce Shopping Cart Software
 
