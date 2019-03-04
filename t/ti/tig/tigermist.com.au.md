@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tigermist.com.au privacy policy that was archived on 2018-09-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180903221843id_/https%3A//tigermist.com.au/pages/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tigermist.com.au privacy policy that was archived on 2019-03-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190304105546id_/https%3A//tigermist.com.au/pages/privacy) for the most accurate reproduction.*
 
 # Privacy - Tiger Mist
 
@@ -6,7 +6,7 @@
 
 We are committed to protecting the privacy of any information provided by you as our customer and will take all reasonable precautions to protect your personally identifiable information from loss, misuse or unauthorised access.
 
-In dealing with your personal information as a customer, we will fulfil all obligations applicable to us by law. 
+In dealing with your personal information as a customer, we will fulfill all obligations applicable to us by law. 
 
 From time to time it may be necessary for us to revise and update our privacy policy. We reserve the right to change our privacy policy at any time without prior notice by updating this page. We suggest you familiarise yourself regularly with our policies and your rights before placing an order with us to ensure you are aware of our most up to date privacy policy. 
 
