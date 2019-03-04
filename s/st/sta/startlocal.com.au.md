@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the startlocal.com.au privacy policy that was archived on 2018-09-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180903210248id_/https%3A//www.startlocal.com.au/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the startlocal.com.au privacy policy that was archived on 2019-03-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190304203134id_/https%3A//www.startlocal.com.au/privacy.html) for the most accurate reproduction.*
 
 # Privacy: StartLocal® - Australian Business Directory & Business Search Engine
 
@@ -64,7 +64,7 @@
 
 8.1 If you require further information regarding our Privacy Policy, please contact us on 1300 607 487 or contact us through this form. 
 
-8.2 Should you wish to read more information on privacy legislation or the National Privacy Principles we recommend that you visit the Federal Privacy Commissioner's website at privacy@privacy.gov.au. 
+8.2 Should you wish to read more information on privacy legislation or the National Privacy Principles we recommend that you visit the Federal Privacy Commissioner's website at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection)
 
 **9 ACCEPTANCE**
 
