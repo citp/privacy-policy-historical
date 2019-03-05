@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the megabuy.com.au privacy policy that was archived on 2018-03-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180314095736id_/https%3A//www.megabuy.com.au/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the megabuy.com.au privacy policy that was archived on 2019-03-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190305105210id_/https%3A//www.megabuy.com.au/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy | MegaBuy Computer Parts
 
@@ -42,4 +42,4 @@ Cookies are pieces of information that your browser stores on your computer's ha
 **Your Feedback is Always Welcome**  
 We welcome your comments and questions about our privacy policy - or anything else you might want to discuss. Please contact us by going to our Contact Us page.
 
-You can also reach us via email at [[email protected]u](https://web.archive.org/cdn-cgi/l/email-protection#ef8e8b828681af828a888e8d9a96c18c8082c18e9a)
+You can also reach us via email at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#8dece9e0e4e3cde0e8eaeceff8f4a3eee2e0a3ecf8)
