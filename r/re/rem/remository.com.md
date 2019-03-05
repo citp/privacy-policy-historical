@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the remository.com privacy policy that was archived on 2017-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170608230222id_/http%3A//remository.com/policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the remository.com privacy policy that was archived on 2019-03-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190306001951id_/https%3A//remository.com/policy.html) for the most accurate reproduction.*
 
 # Remository Software Privacy Policy
 
