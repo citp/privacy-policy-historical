@@ -1,810 +1,360 @@
-<!--The following is the downloaded HTML source of the rummycircle.com privacy policy that was archived on 2017-06-02.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20170602215025id_/https%3A//www.rummycircle.com/privacy-policy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the rummycircle.com privacy policy that was archived on 2019-03-05.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20190305160132id_/https%3A//www.rummycircle.com/privacy-policy.html) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"><head> 
-<!--#include virtual="/includes/google_analytics_code.shtml" --><!-- NEW RC GAMES ANALYTICS CODE =DO NOT MODIFY -->
-
-<script async="" src="https://connect.facebook.net/en_US/fbevents.js"></script><script type="text/javascript">
+<!DOCTYPE html><html><head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no">
+<link rel="ICON" href="/favicon.ico">
+<!-- NEW RC GAMES ANALYTICS CODE =DO NOT MODIFY -->
+<script type="text/javascript">
 // UTILITY FUNCTIONS
 function getCookie(name) {
-    var nameEQ =name + "=",
-        ca =document.cookie.split(';');
-    for (var i =0; i <ca.length; i++) {
-        var c =ca[i];
-        while (c.charAt(0) == ' ') {
-            c =c.substring(1, c.length);
-        }
-        if (c.indexOf(nameEQ) == 0) {
-            var cookieVal =c.substring(nameEQ.length, c.length);
-            return decodeURIComponent(cookieVal);
-        }
-    }
-    return "";
+var nameEQ =name + "=",
+ca =document.cookie.split(';');
+for (var i =0; i <ca.length; i++) {
+var c =ca[i];
+while (c.charAt(0) == ' ') {
+c =c.substring(1, c.length);
 }
-
+if (c.indexOf(nameEQ) == 0) {
+var cookieVal =c.substring(nameEQ.length, c.length);
+return decodeURIComponent(cookieVal);
+}
+}
+return "";
+}
 function checkGuestUser()
 {
-    if(typeof isGuestUser !== 'undefined')
-    {
-        return isGuestUser;
-    }
-    var guestCookie =getCookie('guest.account.status');
-    if(guestCookie == "DUMMY_USER")
-    {
-        return true;
-    }
-    else
-    {
-        return false;
-    }
+if(typeof isGuestUser !== 'undefined')
+{
+return isGuestUser;
 }
-
+var guestCookie =getCookie('guest.account.status');
+if(guestCookie == "DUMMY_USER")
+{
+return true;
+}
+else
+{
+return false;
+}
+}
 function isFirstLogin()
 {
-    if(typeof firstLogin !== 'undefined')
-    {
-        return firstLogin;
-    }
-    var FLCookie =getCookie('fl');
-    firstLogin =FLCookie && FLCookie.indexOf('true') !== -1;
-    return firstLogin;
+if(typeof firstLogin !== 'undefined')
+{
+return firstLogin;
 }
-
+var FLCookie =getCookie('fl');
+firstLogin =FLCookie && FLCookie.indexOf('true') !== -1;
+return firstLogin;
+}
 function getUserId()
 {
-    if(userId)
-    {
-        return userId;
-    }
-
-    try
-    {
-        var sessionCookie =getCookie('ga24x7_jsessionid');
-        var userId =sessionCookie.split(":");
-    }
-    catch(e)
-    {
-        return null;
-    }
-    
-    return userId[1];
+if(userId)
+{
+return userId;
 }
-
+var sessionCookie =getCookie('ga24x7_jsessionid');
+var userId =sessionCookie.split(":");
+return userId[1];
+}
 var isGuestUser =checkGuestUser();
 var userId =getUserId();
 var firstLogin;
 var isfirstpracticegame;
-
 var analyticsTempQueue =[];
 function analyticsPreQueue()
 {
-    this.push =function(url)
-    {
-        console.log('Null call for old analytics tracking');
-        // var uniqueKey ='analytics_queue_' + (Date.now());
-        
-        // var storeObject ={
-        //     'url': url,
-        //     'time': Date.now()
-        // };
-        // storeObject =JSON.stringify(storeObject);
-
-        // try
-        // {
-        //     if(!window.localStorage.getItem(uniqueKey))
-        //     {
-        //         //Can set into localStorage
-        //         window.localStorage.setItem(uniqueKey, storeObject);
-        //     }
-        //     else
-        //     {
-        //         //Assign a random number to the end of the key
-        //         uniqueKey +='' + Number(Math.random()).toFixed(2);
-        //         window.localStorage.setItem(uniqueKey, storeObject);
-        //     }
-        // }
-        // catch(e)
-        // {
-        //    analyticsTempQueue.push(JSON.parse(storeObject));
-        //}
-    }
+this.push =function(url)
+{
+}
 }
 var trackingQueue =new analyticsPreQueue();
-
-//var guestcookie =getCookie('guest.rummycircle.mobile'); IF: guestcookie!=null && guestcookie!=''
-// var gaURL =('https:' == document.location.protocol ? 'https://' : 'http://') + 'analytics.rummycircle.com/GamesAnalytics/';
-// var ga247 =document.createElement('script');
-
-// ga247.type ='text/javascript'; ga247.async = true;
-// ga247.src=gaURL+'js/ga24x7_desktop.js';
-
-// var oHead =document.getElementsByTagName('head')[0];
-// oHead.appendChild(ga247);
-
-
 function trackAjaxPage(pageName)
 {
-    track(pageName);
+track(pageName);
 }
 function trackGamesAnalytics(pageName)
 {
 }
-
 function track(pageName)
 {
-    _gaq.push([
-            'pageTracker._setAccount', 'UA-3610156-1'
-    ], [
-            'pageTracker._setDomainName', 'RummyCircle.com'
-    ], [
-            'pageTracker._trackPageview', pageName
-    ]);
+_gaq.push([
+'pageTracker._setAccount', 'UA-3610156-1'
+], [
+'pageTracker._setDomainName', 'RummyCircle.com'
+], [
+'pageTracker._trackPageview', pageName
+]);
 }
 </script>
-
 <!-- END -->
 <script type="text/javascript">
-                        var _gaq =_gaq || [];
-                        if (typeof trackingQueue !== 'object') {
-                            trackingQueue =[];
-                        }
-                        _gaq.push(
-                                ['pageTracker._setAccount', 'UA-3610156-1'],
-                                ['pageTracker._trackPageview']
-                                );
-
-                        (function() 
-                        {
-                                var ga =document.createElement('script');
-                                ga.src =('https:' == document.location.protocol ? 'https://' : 'http://') + 'stats.g.doubleclick.net/dc.js';
-                                ga.setAttribute('async', 'true');
-                                document.documentElement.firstChild.appendChild(ga);
-                        })();
- </script><script src="https://stats.g.doubleclick.net/dc.js" async="true"></script>
- 
+var _gaq =_gaq || [];
+if (typeof trackingQueue !== 'object') {
+trackingQueue =[];
+}
+_gaq.push(
+['pageTracker._setAccount', 'UA-3610156-1'],
+['pageTracker._trackPageview']
+);
+(function() 
+{
+var ga =document.createElement('script');
+ga.src =('https:' == document.location.protocol ? 'https://' : 'http://') + 'stats.g.doubleclick.net/dc.js';
+ga.setAttribute('async', 'true');
+document.documentElement.firstChild.appendChild(ga);
+})();
+</script><script src="https://stats.g.doubleclick.net/dc.js" async="true"></script>
 <!-- Code for Action: RummyCircle_2013_TP -->
 <!-- Tag manager js -->
-<script src="/fusionassets/js/desktop/env_config.js" type="text/javascript"></script>
-<script src="/fusionassets/js/common/clickTrail.js?59d4f367ec2f77623007ad89c6cc9dd9" type="text/javascript"></script>
-
-<!-- PGTP-1415: new pixel implemetation script file -->
-<script src="/fusionassets/js/common/pixel.js?a0b2b560a0a5e7509fe27a584b1fb01f" async="" type="text/javascript"></script>
+<script src="/fusionassets/js/common/clickTrail.js?3387470624498e10b8191c23da72461a" type="text/javascript"></script>
 <script type="text/javascript">
- function showhidenew(obj) {
-   var div =document.getElementById(obj);
-   if (div.style.display == 'none') {
-     div.style.display ='';
-   }
-   else {
-     div.style.display ='none';
-   }
- }
+function showhidenew(obj) {
+var div =document.getElementById(obj);
+if (div.style.display == 'none') {
+div.style.display ='';
+}
+else {
+div.style.display ='none';
+}
+}
 </script>
-<script src="/fusionassets/js/common/plugins/jquery-1.6.2.min.js?9e711e492734cef8301c4e361d088dfc" type="text/javascript"></script>
+<script src="/fusionassets/js/common/plugins/jquery-1.6.2.min.js?f66d06f474db63f727c4a57127f87986" type="text/javascript"></script>
 
-<link rel="SHORTCUT ICON" href="/favicon.ico">
-<link rel="ICON" href="/favicon.ico">
-<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
-
-
-    <!--[if IE 6]>
-	<link href="/fusionassets/css/desktop/main-ie6.css?1a34b2ed4264679e1d0fe006d8c03261" rel="stylesheet" type="text/css" />
+<!--[if IE 6]>
+<link href="/fusionassets/css/desktop/main-ie6.css?1a34b2ed4264679e1d0fe006d8c03261" rel="stylesheet" type="text/css" />
 <![endif]-->
-    <!--[if IE 7]>
-	<link href="/fusionassets/css/desktop/main-ie6.css?1a34b2ed4264679e1d0fe006d8c03261" rel="stylesheet" type="text/css" />
+<!--[if IE 7]>
+<link href="/fusionassets/css/desktop/main-ie6.css?1a34b2ed4264679e1d0fe006d8c03261" rel="stylesheet" type="text/css" />
 <![endif]-->
-    <!--[if IE 8]>
-	<link href="/fusionassets/css/desktop/main-ie6.css?1a34b2ed4264679e1d0fe006d8c03261" rel="stylesheet" type="text/css" />
+<!--[if IE 8]>
+<link href="/fusionassets/css/desktop/main-ie6.css?1a34b2ed4264679e1d0fe006d8c03261" rel="stylesheet" type="text/css" />
 <![endif]-->
-<script type="text/javascript" src="/fusionassets/js/desktop/common.js?109000cb160fe20e527653953040bffe"></script>
-</head><body><input type="hidden" id="registrationWidget" data-desktop="userOptionsregister,userOptionsDefault" data-mobile="userOptionsM">
-
-
-
-
-
 <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no">
 <meta id="metaPageName" value="privacy-policy.html">
 <meta name="ROBOTS" content="INDEX, FOLLOW">
 
-<title>Privacy Policy - RummyCircle</title>
+<title>Privacy Policy Objective, User Consents @ RummyCircle</title>
 <meta name="description" content="RummyCircle respects your privacy and assures you that any information provided by you is protected and will be dealt with according to the Privacy Policy">
 <meta name="keywords" content="privacy policy rummy circle, privacy policy for rummy, rummycircle privacy polices">
 <link rel="canonical" href="https://www.rummycircle.com/privacy-policy.html">
 
-<link href="/promotions/css/promotion_less/prmotionbasic_style.css" type="text/css" rel="stylesheet">
-<link href="/fusionassets/plugins/bootstrap/css/bootstrap.min.css?cef8555672cd50521e8bf9b297880444" rel="stylesheet" type="text/css">
-<link href="/fusionassets/css/mobile/main.css?0c1be067d13136490fed00679d89c480" rel="stylesheet" type="text/css">
-<link href="/fusionassets/css/desktop/getting_started.css?491448a81fedb6b12104dc29fe87ab0c" rel="stylesheet" type="text/css">
-<link href="/fusionassets/css/acquisition/optimization-acq.css?6574720884e0d2465205b36b25c730c0" rel="stylesheet" type="text/css">
-<script src="/promotions/plugins/js/promotions.js" type="text/javascript"></script>
-
-
-<script src="/fusionassets/widgets/facebook/fb-login.js?83a638699f8cff366fc0b01d272d9bdc"></script>
-  <script type="text/javascript">
-    function codeAddress() {
-    var rcRegFbLoging = {
-        containerSelector:"#fb_btn_register_inner_page",
-        buttonClassName:"fb-register-userbtn",
-        myAccount: false
-    }
-    FBLogin.initMethod(rcRegFbLoging);
-  }
-  document.addEventListener("DOMContentLoaded", function(event) {
-    codeAddress();
-  });
-  </script>
-  
-
-
-<div id="wrapper">
-
+<link href="/landingassets/css/acquisition/inner-page-responsive.css?27dbecfe45c97551672c84f28c121bb5" rel="stylesheet" type="text/css">
+<script src="/promotions/plugins/js/acquisition.js" type="text/javascript" async=""></script>
+</head>  
+<body>
+<input type="hidden" id="registrationWidget" data-desktop="userOptionsregister,userOptionsDefault" data-mobile="userOptionsM">
 <input type="hidden" name="emailId" id="emailId">
-
-<div class="wrapper" id="preload_div">
-<!--#include virtual="/includes/ie6_not_support_message.shtml" --><div class="ie6_message_wrap">
-<div class="ie6_message">
-<div class="ie6_message_right">
-<a id="ie6_not_support_message_a" href="http://windows.microsoft.com/en-in/internet-explorer/downloads/ie" target="_blank">
-<img id="ie6_not_support_message_img" src="https://rcmg.in/rc/ie6_ie_icon.gif" width="108" height="42" alt="Internet Explorer" title="Internet Explorer"></a>
-<a id="ie6_not_support_message_a_6" href="http://www.google.com/chrome/" target="_blank">
-<img id="ie6_not_support_message_img_7" src="https://rcmg.in/rc/ie6_googlechrome_icon.gif" width="106" height="42" alt="Google Chrome" title="Google Chrome"></a>
-<a id="ie6_not_support_message_a_8" href="http://www.mozilla.org/en-US/firefox/new/" target="_blank">
-<img id="ie6_not_support_message_img_9" src="https://rcmg.in/rc/ie6_mozillafirefox_icon.gif" width="102" height="42" alt="Mozilla Firefox" title="Mozilla Firefox"></a>
-<!--
-<a id="ie6_not_support_message_a_11" href="http://www.apple.com/safari/" target="_blank">
-<img id="ie6_not_support_message_img_12" src="https://rcmg.in/rc/ie6_applesafari_icon.gif" width="99" height="42" alt="Apple Safari" title="Apple Safari"/></a>-->
+<div class="header_wrap_new sticky-header">
+<header class="header">
+<div id="nav-icon">
+<span></span>
+<span></span>
+<span></span>
 </div>
-<div class="ie6_message_left">
-<span>Your browser is outdated and not fully supported.</span><br>
-For a better experience on RummyCircle.com, please upgrade your browser.
-</div>
-</div>
-</div>
-<div class="header_wrap_new">
-<div class="header" style="position:relative;">
 <div class="logo">
-<a id="logiId" href="/">
-<img id="fe_header_btm_img_336" src="https://rcmg.in/rc/rummy-circle-logo.gif" width="256" height="66" alt="RummyCircle.com - The Best Rummy Experience." title="RummyCircle.com - The Best Rummy Experience."></a></div>
+<a href="/"><img class="lazy" data-src="https://rcmg.in/rc/rummy_circle_footer_logo.png" width="212" height="60" alt="RummyCircle.com - The Best Rummy Experience." title="RummyCircle.com - The Best Rummy Experience."></a>
+</div>
+<div class="comminityTxt">JOIN A COMMUNITY OF</div>
+<div class="fusion_header_players_box lazy" data-src="https://rcmg.in/rc/landingpage-icon-css-sprite-6.jpg">
+	<div class="fusion_header_players_heading">10,000,000+</div>
+	<div>Players</div>
+</div>
 
- <!--Retention HUD Banner Section Starts Here -->
-<!--<div style="width:404px; height:55px; position:absolute; right:0px; top:1px; color:#FFF;">
-	<a href="/promotions/winners-rummy-week.html" title="Winners Week"><img src="https://rcmg.in/rc/retention/winners-week/hud_banner.gif" alt="Winners Week"></a>
-</div>-->
-<!-- Retention HUD Banner Section Ends Here 
--->
-<ul id="top_nav" class="top_nav_alignment">
-<li>
-<ul id="tdropdown" class="dropdown">
-<li id="superlink2" style="width: auto;">    
-<h3>
-<a id="fe_header_btm_a_347" href="/" title="Rummy Lobby" class="">Home</a></h3>
-
+<ul class="headerButton">
+<li><div class="text">Don't have an Account yet?</div>
+<a class="btn_primary btn-register" href="https://www.rummycircle.com/?utm_source=organic&amp;utm_medium=registraion&amp;utm_content=innerpage" target="_blank" title="Register for Free">Register for Free</a>
 </li>
+<li><span>Already a Member?</span> <a href="/login.html" target="_blank" title="login">Login</a></li>
 </ul>
-</li>
-<li id="superlink3"><h3>
-<a id="fe_header_btm_a_my_acct_a_375" href="/promotions/promotions.html" title="Promotions" class="my_acct_a">Promotions</a></h3></li>
-<li>
-<ul id="tdropdown" class="dropdown">
-<li id="superlink4" style="width: auto;">    
-<h3>
-<a id="fe_header_btm_a_387" href="http://reviews.rummycircle.com/" target="_blank" title="Reviews" class="">Reviews</a></h3>
-</li>
-</ul>
-</li>
-<li id="superlink5"><h3>
-<a id="fe_header_btm_a_bring_friend" href="/misc/testimonials.html" title="Testimonials" class="bring_friend">Testimonials</a></h3></li>
-</ul> <!--  top_nav -->
-</div> <!--  header -->
-</div> <!-- header_wrap -->
-
-<!-- HUD starts here  -->
-
-
-</div> <!--  account_box -->
-<div id="register_box" class="userdetail_new width120">              	
-<div class="userdetail_main_new orangeonblackbg">
-<div class="register_box_inner">
-<div class="lp_leftbanner_section ">
-  <div class="frm_banner">
-    <div class="register-head"><span>CREATE A FREE ACCOUNT,</span> GET ₹ 1000* BONUS <a id="fe_banner_home_reg_form_new_a_3" href="#" onclick="javascript=window.open(&quot;/promotions/welcomebonus1000-2-tnc.html&quot;,&quot;&quot;,&quot;width=630,height=579,menuBar=no,scrollbars=yes,resizable=no&quot;);">*T&amp;C</a></div>
-    <div class="lpmain-from-con destoplpmain-from-con">
-      <div class="form-horizontal desktopvalidation-style">
-        <form>
-          <div class="form-group">
-            <input id="reg_username" autocomplete="off" autocorrect="off" autocapitalize="off" spellcheck="false" minlength="4" maxlength="12" type="text" class="form-control" placeholder="Username (4-12 chars.)">
-          </div>
-          <div class="error-con error-leftcon username">Please enter a username.</div>
-          <div class="form-group">
-            <input id="reg_password" autocomplete="off" autocorrect="off" autocapitalize="off" spellcheck="false" minlength="6" type="password" class="form-control" placeholder="Password (atleast 6 chars.)">
-          </div>
-          <div class="error-con error-leftcon password">Please enter a password.</div>
-          <div class="form-group form-group-last">
-            <input id="reg_email" autocomplete="off" autocorrect="off" autocapitalize="off" spellcheck="false" type="email" class="form-control desktoprejiemail" placeholder="Email Address">
-            <span class="email-helpicon">? <span class="left-tooltip">Account updates will be sent to this email address</span></span> </div>
-          <div class="error-con error-leftcon email">Please enter your email address.</div>
-			<div class="form-group-footer ">
-            <button id="btn_register_desktop" type="submit" class="btn_primary btn-register" onclick="registration.register(this); return false;">Register for Free</button>
-          </div><div class="or-border-box-dsk or-border-box-dsk-inner" id="or-condition"><span>OR</span></div>
-          <div id="fb_btn_register_inner_page"></div>
-        </form>
-      </div>
-    </div>
-    <div class="register-offerText">
-<div class="register-text">By clicking 'Register for Free' you agree to our <a href="/tos/terms-of-service.html" target="_blank">Terms of Service</a> &amp; <a href="/privacy-policy.html" target="_blank">Privacy Policy</a></div>
-<div class="register-offer"><label class="checkbox"><input id="reg_email_splOffer" checked="" type="checkbox"><span>Email me special offers</span></label></div><div class="register-login"><span>Already a Member ? <a id="fe_header_btm_a_722" href="/player/login.html">Login</a></span></div>
+</header>
 </div>
-  </div>
-</div>
-</div>
-<div class="login_box_inner">
-<span>Already a Member ? <br>
-<a id="fe_header_btm_a_722" href="/player/login.html">Login</a></span>
-</div>
-</div>
-
-</div>
-</div> <!--  login_box  --> 
-<!-- HUD ends here -->	
-<div class="content_wrap" id="preload_div_common">
-
-
-
-
-
+<div class="mainContainer pt-110">
 
 <input type="hidden" name="pageName" id="pageName" value="privacy-policy.html">
-<input type="hidden" id="pageName" value="privacy-policy.html">
 <input type="hidden" id="fromPage" value="privacy-policy.html">
 
-<h1 class="main_head" style="margin: 0;">Privacy Policy</h1>
+<h1 class="main_head">Privacy Policy</h1>
 
-<div class="content_area_full prContainer" style="background: #fff;">
+<div class="content_area prContainer">
+<p>&nbsp;</p>
 <p>This privacy policy forms part of our Website's 
-<a id="privacy-policy_a" href="/tos/terms-of-service.html" title="Terms of Service">Terms of Service</a>, by accepting the Terms of Service and the Privacy Policy on the registration page, you consent to provide sensitive personal data or personal information and are aware of the purpose of sharing such information. Please do not register if you do not wish to share the mandatory personal information with Play Games24x7 Private Limited (hereinafter referred as "RummyCircle") requested at the time of registration. Registration procedure cannot be completed until information in the non-optional fields is provided. Certain additional personal information may be requested by RummyCircle for permitting you access to any Cash Games organized by RummyCircle.</p>            
+<a href="/tos/terms-of-service.html" title="Terms of Service">Terms of Service</a>, by accepting the Terms of Service and the Privacy Policy on the registration page, you consent to provide sensitive personal data or personal information and are aware of the purpose of sharing such information. Please do not register if you do not wish to share the mandatory personal information with Play Games24x7 Private Limited (hereinafter referred as  “Play Games24x7” or “we” or “us” “our”) requested at the time of registration. Registration procedure cannot be completed until information in the non-optional fields is provided. Certain additional personal information may be requested by Play Games24x7 for permitting you access to any Cash Games organized by Play Games24x7.</p>
 
+<h2 class="sub_head">1. Policy objective</h2>
+<div class="collaspe">
+<p>Play Games24x7 respects your privacy and assures you that any information provided by you to Play Games24x7 is protected and will be dealt with according to this Policy and the applicable laws. To avail the services offered on <a href="https://www.rummycircle.com/">www.rummycircle.com</a> and www.My11Circle.com (hereinafter singly referred as the "Website" and collectively referred as “Websites”), you may have to provide certain information to us. This Policy provides the procedure followed by Play Games24x7 to gather, uses, store, discloses and manages users' personal data. Play Games24x7 only collects personal data for the purpose of verifying user accounts, maintaining the accounts of the users, completing transactions of the users and for analyzing user behavior and requirements.</p>
+</div>
 
-<p class="sub_head">Contents:</p>  
-
-<ol>
-<li>
-<a id="privacy-policy_a_22" href="#policy-objective" title="Policy objective">Policy objective</a></li>
-<li>
-<a id="privacy-policy_a_24" href="#what-is-included-in-personal-data" title="What is included in personal data?">What is included in personal data?</a></li>
-<li>
-<a id="privacy-policy_a_26" href="#user-consents" title="User Consents">User Consents</a></li>
-<li>
-<a id="privacy-policy_a_28" href="#data-security" title="Data Security">Data Security</a></li>
-<li>
-<a id="privacy-policy_a_30" href="#exclusions" title="Exclusions">Exclusions</a></li>
-<li>
-<a id="privacy-policy_a_32" href="#limitation-of-liability" title="Limitation of Liability">Limitation of Liability</a></li>
-<li>
-<a id="privacy-policy_a_34" href="#grievance-officer" title="Grievance Officer">Grievance Officer</a></li>
-</ol>
-
-<p></p>         
-
-<h2 class="sub_head2" id="policy-objective">1. Policy objective</h2>
-<p>RummyCircle respects your privacy and assures you that any information provided by you to RummyCircle is protected and will be dealt with according to this Policy and the applicable laws. To avail the services offered on www.RummyCircle.com (hereinafter referred as the "Website"), you may have to provide certain information to us. This Policy provides the procedure followed by RummyCircle to gather, uses, store, discloses and manages users' personal data. RummyCircle only collects personal data for the purpose of verifying user accounts, maintaining the accounts of the users, completing transactions of the users and for analyzing user behavior and requirements.</p>
-<br>
-
-<h2 class="sub_head2" id="what-is-included-in-personal-data">2. What is included in personal data?</h2>
-
+<h2 class="sub_head">2. What is included in personal data?</h2>
+<div class="collaspe">
 <h3><strong>User's personal data includes the following types of personal data or information:</strong></h3>
-
-<ol type="a">
+<ol>
 	<li><strong>Sensitive Personal Data:</strong>
-		<ol type="i">
-			<li>Account password</li>
-			<li>Financial information such as Bank account or credit card or debit card or other payment instrument details</li>
-		</ol>
+	<ul class="list-style-disc">
+		<li>Account password</li>
+		<li>Financial information such as Bank account or credit card or debit card or other payment instrument details</li>
+	</ul>
 	</li>
-
 	<li><strong>Other Personal Information:</strong>
-		<ol type="i">
-            <li>Name</li>
-            <li>Date of birth</li>
-            <li>Telephone number</li>
-            <li>Postal/Contact address</li>
-            <li>PAN number (as applicable)</li>
-            <li>The IP address of your computer, browser type and language.</li>
-            <li>The date and the time during which you accessed the site.</li>
-            <li>The address of the website which you may have used to link to the Website</li>
-            <li>Your photograph for testimonials and other promotions.</li>
-            <li>Such other information that is defined as sensitive personal data or information in law.</li>
-		</ol>
+	<ul class="list-style-disc">
+		<li>Name</li>
+		<li>Date of birth</li>
+		<li>Telephone number</li>
+		<li>Postal/Contact address</li>
+		<li>PAN number (as applicable)</li>
+		<li>The IP address of your computer, browser type and language.</li>
+		<li>The date and the time during which you accessed the site.</li>
+		<li>The address of the website which you may have used to link to any Website</li>
+		<li>Your photograph for testimonials and other promotions.</li>
+		<li>Such other information that is defined as sensitive personal data or information in law.</li>
+	</ul>
 	</li>
 </ol>
-<br>
+</div>
 
-<h2 class="sub_head2" id="user-consents">3. User Consents:</h2>
-
-
-<ol type="a">
+<h2 class="sub_head">3. User Consents:</h2>
+<div class="collaspe">
+<ol>
 <li><h3><strong>Consent for use of Sensitive Personal Data and Other Personal Information:</strong></h3>
-
-<p>All users of RummyCircle consent to the use of Sensitive Personal Data and Other Personal Information for the
-purpose stated in this policy. We restrict access of personal information to our employees, contractors and agents
-and only allow access to those who need to know that information in order to process it on our behalf.
+<p>All users of Play Games24x7 consent to the use of Sensitive Personal Data and Other Personal Information for the purpose stated in this policy. We restrict access of personal information to our employees, contractors and agents and only allow access to those who need to know that information in order to process it on our behalf.
 </p>
 
-<p>Users are entitled to withdraw consent for use of their <strong>Sensitive Personal Data or Other Personal Information</strong>
-by emailing a specific request to 
-<a id="privacy-policy_a_90" href="mailto:support@rummycircle.com">support@RummyCircle.com</a>. Withdrawal of consent of all or any part of Sensitive
-Personal Data and Other Personal Information may result in immediate withdrawal of any right to avail the services
-provided by RummyCircle. Withdrawal of consent shall not restrict the right of RummyCircle to use Other Personal
-Information for analysis of user data, subject to the condition that the Other Personal Information used in any analysis
-is not personally identifiable to any individual user.
+<p>Users are entitled to withdraw consent for use of their&nbsp;Sensitive Personal Data or Other Personal Information&nbsp;by emailing a specific request to support@RummyCircle.com or support@my11circle.com.com, as the case may be. Withdrawal of consent of all or any part of Sensitive Personal Data and Other Personal Information may result in immediate withdrawal of any right to avail the services provided by Play Games24x7. Withdrawal of consent shall not restrict the right of Play Games24x7 to use Other Personal Information for analysis of user data, subject to the condition that the Other Personal Information used in any analysis is not personally identifiable to any individual user.
 </p>
 
-<p>Photographs once provided by you for marketing purposes gives RummyCircle irrevocable rights to use it and it is
-completely RummyCircle's discretion to delete or not use it any further.</p>
+<p>Photographs once provided by you for marketing purposes gives Play Games24x7 irrevocable rights to use it and it is completely Play Games24x7's discretion to delete or not use it any further.</p>
 
-<p>RummyCircle may also use software applications for website traffic analysis and to gather statistics, used for
-advertising and for determining the efficacy and popularity of RummyCircle among others.</p>
+<p>Play Games24x7 may also use software applications for website traffic analysis and to gather statistics, used for advertising and for determining the efficacy and popularity of Play Games24x7 among others.
+</p>
 
-<p>Presently, RummyCircle is using display advertising and 
-<a id="privacy-policy_a_104" href="https://support.google.com/analytics/answer/2611268?hl=en" target="_blank">remarketing</a> through 
-<a id="privacy-policy_a_105" href="http://www.google.co.in/analytics/features/index.html" target="_blank">Google Analytics</a>, wherein third party vendors including google, display our ads on sites across the internet and uses first party cookies and third party cookies together to inform, optimize and serve ads based on visits of visitors to our website.  Our visitors are free to opt out of Google Analytics for display advertising and customize google display network ads using 
-<a id="privacy-policy_a_106" href="https://www.google.com/settings/u/0/ads/authenticated?hl=en" target="_blank">ads preference manager</a>.</p>
-
+<p>Presently, Play Games24x7 is using display advertising and
+<a href="https://support.google.com/analytics/answer/2611268?hl=en" target="_blank">remarketing</a> through 
+<a href="http://www.google.co.in/analytics/features/index.html" target="_blank">Google Analytics</a>, wherein third party vendors including google, display our ads on sites across the internet and uses first party cookies and third party cookies together to inform, optimize and serve ads based on visits of visitors to our website. Our visitors are free to opt out of Google Analytics for display advertising and customize google display network ads using 
+<a href="https://www.google.com/settings/u/0/ads/authenticated?hl=en" target="_blank">ads preference manager</a>.</p>
 </li>
-
-
 <li><h3><strong>Consent to use of Cookies:</strong></h3>
 <p>What is a Cookie: A cookie is a small text file that uniquely identifies your browser.</p>
 
-<p>You understand that when you visit the Website, cookies may be left in your computer. The cookies assigned by the
-servers of RummyCircle may be used to personalize your experience on the Website. Additionally, cookies may also
-be used for authentication, game management, data analysis and security purposes.</p>
-
-<p>Cookies may also be assigned by the advertisers of RummyCircle when you click on any of the advertisements
-which may be displayed on the Website in which case such cookies are controlled by these advertisers and not
-RummyCircle.</p>
+<p>You understand that when you visit the Website, cookies may be left in your computer. The cookies assigned by the servers of Play Games24x7 may be used to personalize your experience on the Website. Additionally, cookies may also be used for authentication, game management, data analysis and security purposes.</p>
+<p>Cookies may also be assigned by the advertisers of Play Games24x7 when you click on any of the advertisements which may be displayed on any Website in which case such cookies are controlled by these advertisers and not Play Games24x7.</p>
 </li>
-
-
 <li><h3><strong>Consent to email communication:</strong></h3>
-
-<p>When you register your email address with RummyCircle, you agree to receive email communication from
-RummyCircle, entities specifically authorized by RummyCircle and other users. You also agree and acknowledge that
-when you use our referral program for referring someone, RummyCircle will send emails to such person referred by
-you on your behalf and the email headers will carry your email address as the address from which such emails are
-sent.</p>
-
+<p>When you register your email address with Play Games24x7, you agree to receive email communication from Play Games24x7, entities specifically authorized by Play Games24x7 and other users. You also agree and acknowledge that when you use our referral program for referring someone, Play Games24x7 will send emails to such person referred by you on your behalf and the email headers will carry your email address as the address from which such emails are sent.</p>
+<p>Rummy Circle may also access and store such information relating to your contacts to send invitations and other promotions to them periodically.</p>
 </li>
-
 </ol>
+</div>
 
+<h2 class="sub_head">4. Data Security:</h2>
+<div class="collaspe">
+<p>We take appropriate security measures to protect against unauthorized access to or unauthorized alteration, disclosure or destruction of data. These include internal reviews of our data collection, storage and processing practices and security measures, including appropriate encryption and physical security measures to guard against unauthorized access to systems where we store personal data. Play Games24x7 has a comprehensive information security program and information security policies which contain managerial, technical, operational and physical security control measures adopted by Play Games24x7 for the protection of Sensitive Personal Date and Other Personal Information.</p>
 
+<p>Information gathered by Play Games24x7 is stored securely using several information security applications including firewalls. However, security is always relative and Play Games24x7 cannot guarantee that its security measures are absolute and cannot be breached. Data which is transmitted over the Internet is inherently exposed to security risks or threats. For instance, information transmitted via chat or email can be compromised and used by others. Therefore, Play Games24x7 cannot guarantee any security for such information in the course of transmission through the internet infrastructure or any unsolicited disclosures made by any user availing the services of the Website.</p>
 
+<p>When you register with Play Games24x7, your account is protected by means of login information which includes a username and a password that is known only to you. Therefore, you should not provide your personal information to anyone whosoever and breach hereof constitutes violation of this Policy and can also result in closure of account in certain cases. If you become aware of or reasonably suspect any breach of security, including compromise of your login information, it is your responsibility to immediately notify Play Games24x7.</p>
 
-<br>
+<p>The Websites may contain links to other websites. Such websites are governed by their own privacy policies and Play Games24x7 does not exercise any control over them. It is your responsibility to read and understand the privacy policy of such websites when you follow a link outside the Website. You are advised to exercise caution in sharing any personal information with any third party that advertises on the Websites and Play Games24x7 shall not be responsible for such information provided by you on third party websites.</p>
 
-<h2 class="sub_head2" id="data-security">4. Data Security:</h2>
+<p>Play Games24x7 has a policy of not sharing any personally identifiable information with anyone other than entities specifically authorized by Play Games24x7 which may include advertisers and sponsors of Play Games24x7. However, Play Games24x7 may use your name, photo, Login ID and the state from where you are participating when announcing the results of any contests run on the Website. Such contests are further governed by terms and conditions which shall be available on the Websites as and when such a contest is run on any Website. Play Games24x7 conducts periodic analysis and survey of the traffic to RummyCircle.com for market research and advertising purposes. Play Games24x7 reserves the right to share your registration information with Play Games24x7 appointed market research and advertising companies or firms from time to time for the said purposes. Play Games24x7 may also use cumulative non-personal information for auditing and analysis purposes with the aim of improving its services.</p>
+</div>
 
-
-<p>We take appropriate security measures to protect against unauthorized access to or unauthorized alteration,
-disclosure or destruction of data. These include internal reviews of our data collection, storage and processing
-practices and security measures, including appropriate encryption and physical security measures to guard against
-unauthorized access to systems where we store personal data. RummyCircle has a comprehensive information
-security program and information security policies which contain managerial, technical, operational and physical
-security control measures adopted by RummyCircle for the protection of Sensitive Personal Date and Other Personal
-Information.</p>
-
-<p>Information gathered by RummyCircle is stored securely using several information security applications including
-firewalls. However, security is always relative and RummyCircle cannot guarantee that its security measures are
-absolute and cannot be breached. Data which is transmitted over the Internet is inherently exposed to security
-risks or threats. For instance, information transmitted via chat or email can be compromised and used by others.
-Therefore, RummyCircle cannot guarantee any security for such information in the course of transmission through
-the internet infrastructure or any unsolicited disclosures made by any user availing the services of the Website.</p>
-
-<p>When you register with RummyCircle, your account is protected by means of login information which includes a
-username and a password that is known only to you. Therefore, you should not provide your personal information to
-anyone whosoever and breach hereof constitutes violation of this Policy and can also result in closure of account in
-certain cases. If you become aware of or reasonably suspect any breach of security, including compromise of your
-login information, it is your responsibility to immediately notify RummyCircle.</p>
-
-<p>The Website may contain links to other websites. Such websites are governed by their own privacy policies
-and RummyCircle does not exercise any control over them. It is your responsibility to read and understand the
-privacy policy of such websites when you follow a link outside the Website. You are advised to exercise caution in
-sharing any personal information with any third party that advertises on the Website and RummyCircle shall not be
-responsible for such information provided by you on third party websites.</p>
-
-<p>RummyCircle has a policy of not sharing any personally identifiable information with anyone other than entities
-specifically authorized by RummyCircle which may include advertisers and sponsors of RummyCircle. However,
-RummyCircle may use your name, photo, Login ID and the state from where you are participating when announcing
-the results of any contests run on the Website. Such contests are further governed by terms and conditions which
-shall be available on the website as and when such a contest is run on the website. RummyCircle conducts periodic
-analysis and survey of the traffic to RummyCircle.com for market research and advertising purposes. RummyCircle
-reserves the right to share your registration information with RummyCircle appointed market research and advertising
-companies or firms from time to time for the saidpurposes. RummyCircle may also use cumulative non-personal
-information for auditing and analysis purposes with the aim of improving its services.</p>
-
-
-<br>
-
-<h2 class="sub_head2" id="exclusions">5. Exclusions:</h2>
-
-<h3><strong>RummyCircle may share Sensitive Personal Data and Other Personal Information if sharing of such
-information is necessary:</strong></h3>
-
-<ol type="a">
-
+<h2 class="sub_head">5. Exclusions:</h2>
+<div class="collaspe">
+<h3><strong>Play Games24x7 may share Sensitive Personal Data and Other Personal Information if sharing of such information is necessary:</strong></h3>
+<ul class="list-style-disc">
 <li>to comply with legal processes or governmental request;</li>
-
 <li>to enforce the Terms of Service and this Privacy Policy;</li>
-
 <li>for prevention of fraud;</li>
-
 <li>for issues involving information security, or</li>
-
-
-
 <li>to protect:<br>
-
-<ol type="i">
+<ol>
 <li>your rights;</li>
-<li>rights of RummyCircle; and</li>
+<li>rights of Play Games24x7; and</li>
 <li>rights of the general public.</li>
 </ol>
 </li>
-</ol>
+</ul>
+</div>
 
+<h2 class="sub_head">6. Limitation of Liability:</h2>
+<div class="collaspe">
+<p>Play Games24x7 confirms that this Privacy Policy is only a description of its operation regarding user information. This Policy is not intended to and does not create any legal rights in your favour or in the favour of any other person. Play Games24x7 reserves the right to change this Policy at any time without giving you prior notice. The liability of Play Games24x7 shall be limited to removal of Sensitive Personal Data from the system of the Websites and removal of personally identifiable elements of the Other Personal Information. Notwithstanding anything to the contrary contained in this Policy and elsewhere, the aggregate liability of Play Games24x7 for all claims for damages pursuant to provisions of services on the Website, including claims in respect to the violation of this Policy, shall be limited to the aggregate maximum amount of liability as provided in the Terms of Service.</p>
+</div>
 
-<br>
-
-<h2 class="sub_head2" id="limitation-of-liability">6. Limitation of Liability:</h2>
-
-<p>RummyCircle confirms that this Privacy Policy is only a description of its operation regarding user information. This
-Policy is not intended to and does not create any legal rights in your favour or in the favour of any other person.
-RummyCircle reserves the right to change this Policy at any time without giving you prior notice. The liability of
-RummyCircle shall be limited to removal of Sensitive Personal Data from the system of the Website and removal
-of personally identifiable elements of the Other Personal Information. Notwithstanding anything to the contrary
-contained in this Policy and elsewhere, the aggregate liability of RummyCircle for all claims for damages pursuant to
-provisions of services on the Website, including claims in respect to the violation of this Policy, shall be limited to the
-aggregate maximum amount of liability as provided in the Terms of Service.</p>
-
-
-<br>
-
-<h2 class="sub_head2" id="grievance-officer">7. Grievance Officer:</h2>
-
-<p>RummyCircle currently appoints Mr. Hari Hara Sahu as the Grievance Officer. All complaints relating to personal data
-must be sent to the Grievance Officer at 
-<a id="privacy-policy_a_234" href="mailto:support@rummycircle.com">support@RummyCircle.com</a>.</p>
-
-<br>
-
-
-</div><!--/ca_wrap_top-->
-</div><!--/ca_wrap_btm-->
-<!--/ca_wrap-->
+<h2 class="sub_head">7. Grievance Officer:</h2>
+<div class="collaspe">
+	<p>Play Games24x7 currently appoints Mr. Vinay Pandit as the Grievance Officer. All complaints relating to personal data must be sent to the Grievance Officer at <a href="mailto:grievanceofficer@rummycircle.com">grievanceofficer@rummycircle.com</a> or <a href="mailto:grievanceofficer@my11circle.com">grievanceofficer@my11circle.com</a>.</p>
+</div>
+</div>
+<style>#nav-icon{display: none;}</style>
+ 
+</div><!--/ca_wrap-->
 <!--/content_wrap-->
-<!--/wrapper-->
 
-<div class="footer_wrap_home">
+<footer class="footer">
 <div class="footer_home">
 <div class="col_home1">
 <div class="col_home_fot_logo">
-<img src="https://rcmg.in/rc/rummy_circle_footer_logo.png" width="212" height="60" alt="RummyCircle.com - The Best Rummy Experience." title="RummyCircle.com - The Best Rummy Experience." id="footer_logo"></div>
+<img class="lazy" data-src="https://rcmg.in/rc/rummy_circle_footer_logo.png" width="212" height="60" alt="RummyCircle.com - The Best Rummy Experience." title="RummyCircle.com - The Best Rummy Experience." id="footer_logo">
+</div>
 <p class="">© 2012 Play Games24x7 Pvt. Ltd. All Rights Reserved.</p>
-
 <div class="sm_icons">
 <span>Follow Us On: </span>
-<a id="fe_footer_top_a_ico_fb" href="https://www.facebook.com/RummyCircle" title="Facebook" class="ico_fb" target="_blank"></a>
-<a id="fe_footer_top_a_ico_twit" href="http://www.twitter.com/rummycircle" title="Twitter" class="ico_twit" target="_blank"></a>
-<div class="ico_rss">
-<div class="g-plusone" data-annotation="none"></div>                
-</div>
+<a class="ico_fb lazy" data-src="https://rcmg.in/rc/landingpage-icon-css-sprite-6-v1.jpg" href="https://www.facebook.com/RummyCircle" title="Facebook" target="_blank"></a>
+<a class="ico_twit lazy" data-src="https://rcmg.in/rc/landingpage-icon-css-sprite-6-v1.jpg" href="https://www.twitter.com/rummycircle" title="Twitter" target="_blank"></a>
+<a class="ico_insta lazy" data-src="https://rcmg.in/rc/landingpage-icon-css-sprite-6-v1.jpg" href="https://www.instagram.com/rummycircle/" title="Instagram" target="_blank"></a>
 </div>
 </div>
 <div class="col_home2">
 <h6 class="footer_head">Quick Links</h6>
 <ul class="col2_links">
-<li>
-<a id="footer_home_link" href="/" title="Home">Home</a></li>
-<li>
-<a id="fe_footer_top_a_28" href="/about-us/what-we-do.html" title="About Us">About us</a></li>
-<li>
-<a id="fe_footer_top_a_30" href="/how-to-play-rummy/rummy-guide.html" title="How to Play">How to Play</a></li>
-<li>
-<a id="fe_footer_top_a_32" href="/promotions/promotions.html" title="Promotions">Promotions</a></li>
-<li>
-<a id="fe_footer_top_a_34" href="/support/contact-us.html" title="Contact Us">Contact Us</a></li>
-<li>
-<a id="fe_footer_top_a_36" href="/tos/terms-of-service.html" title="Terms of Service">Terms of Service</a></li>
-<li>
-<a id="fe_footer_top_a_38" href="/privacy-policy.html" title="Privacy Policy">Privacy Policy</a></li>
-<li>
-<a id="fe_footer_top_a_50" href="https://reviews.rummycircle.com/" target="_blank" title="Reviews">Reviews</a>
-</li>
-<!--#if expr="${AMF_DEVICE_IS_MOBILE} = 'true'" --><!--  <li>
-<a id="siteSwitchFooter" title="Switch to Mobile view">Switch to Mobile view</a></li>--> <!--#endif -->
+<li><a href="/" title="Home">Home</a></li>
+<li><a href="/about-us/what-we-do.html" title="About Us">About us</a></li>
+<li><a href="/how-to-play-rummy/rummy-rules.html" title="How to Play">How to Play</a></li>
+<li><a href="/promotions/promotions.html" title="Promotions">Promotions</a></li>
+<li><a href="/support/contact-us.html" title="Contact Us">Contact Us</a></li>
+<li><a href="/tos/terms-of-service.html" title="Terms of Service">Terms of Service</a></li>
+<li><a href="/privacy-policy.html" title="Privacy Policy">Privacy Policy</a></li>
+<li><a href="https://reviews.rummycircle.com/" target="_blank" title="Reviews">Reviews</a></li>
 </ul>
 <ul class="col2_links">
-
-<li>
-<a id="fe_footer_top_a_45" href="/sitemap.html" title="Sitemap">Sitemap</a></li>
-<li>
-<a id="fe_footer_top_a_47" href="/help/helphome.html" title="Help">Help</a></li>
-<li>
-<a id="fe_footer_top_a_49" href="/press.html" title="Press Releases">Press Releases</a></li>
-<li>
-<a id="fe_footer_top_a_51" href="https://www.rummycircle.com/blog" title="RummyCircle Blog" target="_blank">Blog</a></li>
-<li>
-<a id="fe_footer_top_a_53" href="/certification.html" title="Certification">Certification</a></li>
-<li>
-<a id="fe_footer_top_a_55" href="/legality.html" title="Legality">Legality</a></li>
-<li>
-<a id="fe_footer_top_a_57" href="/faq/faq-and-benefits.html" title="FAQs &amp; Benefits">FAQs &amp; Benefits</a></li>
+<li><a href="/articles/" title="Gaming Articles">Gaming Articles</a></li>
+<li><a href="/help/helphome.html" title="Help">Help</a></li>
+<li><a href="https://support.rummycircle.com/" title="Support">Support</a></li>
+<li><a href="/press.html" title="Press Releases">Press Releases</a></li>
+<li><a href="https://www.rummycircle.com/blog" title="RummyCircle Blog" target="_blank">Blog</a></li>
+<li><a href="/certification.html" title="Certification">Certification</a></li>
+<li><a href="/legality.html" title="Legality">Legality</a></li>
+<li><a href="/faq/faq-and-benefits.html" title="FAQs &amp; Benefits">FAQs &amp; Benefits</a></li>
 </ul>
 </div>
 <div class="col_home3">
 <h6 class="footer_head">Our Payment Partners</h6>
 <ul class="payment_part_foot">
-<li class="banklogo1"></li>
-<li class="last banklogo2"></li>
-<li class="banklogo3"></li>
-<li class="last banklogo4"></li>
-<li class="banklogo7"></li>
+<li data-src="https://rcmg.in/rc/landingpage-icon-css-sprite-6-v1.jpg" class="banklogo1 lazy"></li>
+<li data-src="https://rcmg.in/rc/landingpage-icon-css-sprite-6-v1.jpg" class="last banklogo2 lazy"></li>
+<li data-src="https://rcmg.in/rc/landingpage-icon-css-sprite-6-v1.jpg" class="banklogo3 lazy"></li>
+<li data-src="https://rcmg.in/rc/landingpage-icon-css-sprite-6-v1.jpg" class="last banklogo4 lazy"></li>
+<li data-src="https://rcmg.in/rc/landingpage-icon-css-sprite-6-v1.jpg" class="banklogo7 lazy"></li>
 </ul>
 <ul class="payment_part_foot">
-<!--<li class="title"><p class="foot_head_small">We Accept</p></li>--> 
 <li><p class="foot_head_small">RNG Certified By</p></li>
-<!--
-<a id="fe_footer_top_a_banklogo5" href="javascript:openCashOnDeliveryPopup();"><li class="banklogo5"></li></a>--> 
-<li class="last banklogo6"></li>
+<li data-src="https://rcmg.in/rc/landingpage-icon-css-sprite-6-v1.jpg" class="last banklogo6 lazy"></li>
 </ul>
 </div>
 </div>
-</div>
-<div class="foot_fix">
-<div class="wrapper">
-<a id="fe_footer_top_a_foot_link" href="javascript:;" title="Help Video" class="foot_link">Help Video</a>
-<ul id="conversation_bar">
-<li>
-<a id="fe_footer_top_a_84" href="javascript:;" title="Conversations">Conversations (0)</a></li>
-<li>
-<a id="fe_footer_top_a_86" href="javascript:;" title="Recent Opponents">Recent Opponents</a></li>
-<li>
-<a id="fe_footer_top_a_88" href="javascript:;" title="My RummyCircle">My RummyCircle</a></li>
-<li>
-<a id="fe_footer_top_a_90" href="javascript:;" title="Pending Requests">Pending Requests</a></li>
-</ul>
-</div>
-</div>
-
-
-
-
- 
+</footer>
 <!-- Back to Top Starts Here -->
-<div class="tooltip" id="goTop"><img src="https://rcmg.in/rc/promotion-page/top-arrow/go_to_top_v.png" alt=""> <span class="tooltiptext">Back to Top</span> </div>
+<div class="tooltip lazy" id="goTop" data-src="https://rcmg.in/rc/landingpage-icon-css-sprite-6-v1.jpg">&nbsp;<span class="tooltiptext">Back to Top</span></div>
 <!-- Back to Top Ends Here -->
-
-
-<div class="disclaimerContent"> 
-  <div class="disclaimer_info" style="max-height:30px;">
-		<p>* This is an indicative amount only and this includes promotional tournaments and bonuses. Actual amount may differ and would depend on the total number of cash tournaments played on the Website and bonuses claimed by players in a calendar month. Individual winnings depend on your skill and the number of cash tournaments you play in a calendar month.</p>
-</div> 
+<!--disclaimer_info-->
+<div class="disclaimer_info">
+<p>* This is an indicative amount only and this includes promotional tournaments and bonuses. Actual amount may differ and would depend on the total number of cash tournaments played on the Website and bonuses claimed by players in a calendar month. Individual winnings depend on your skill and the number of cash tournaments you play in a calendar month.</p>
 </div>
+<!--/disclaimer_info-->
 
 
-<!-- Facebook Pixel Code -->
-<script>
-
-!function(f,b,e,v,n,t,s){if(f.fbq)return;n=f.fbq=function(){n.callMethod?
-n.callMethod.apply(n,arguments):n.queue.push(arguments)};if(!f._fbq)f._fbq=n;
-n.push=n;n.loaded=!0;n.version='2.0';n.queue=[];t=b.createElement(e);t.async=!0;
-t.src=v;s=b.getElementsByTagName(e)[0];s.parentNode.insertBefore(t,s)}(window,
-document,'script','https://connect.facebook.net/en_US/fbevents.js');
-
-fbq('init', '1589341544685936');
-fbq('track', "PageView");
-
-</script>
-
-<noscript><img height="1" width="1" style="display:none" src="https://www.facebook.com/tr?id=1589341544685936&ev=PageView&noscript=1"
-/></noscript>
-<!-- End Facebook Pixel Code -->
-  
-
-
-<script src="/fusionassets/js/desktop/custom_function.js?ce2f460dab15e57cd2fb43a863841883" type="text/javascript"></script>
-<script src="/fusionassets/widgets/registration/RegistrationPlugin.js?983005da880605eea3bdafbb32211cc9"></script>
-
-
-
-
-
-
-
- 
-    
-
-<script type="text/javascript">
-var userOptionsregister = {
-      html: '<div class="register_box_inner"><div class="register-head"><span>CREATE A FREE ACCOUNT,</span> GET &#8377; 1000* BONUS</div> <div class="register-form-box desktopvalidation-style"> <form><div class="form-group"><input id="username_register" autocomplete="off" autocorrect="off" autocapitalize="off" spellcheck="false" minlength="4" maxlength="12" type="text" class="form-control" placeholder="Username (4-12 chars.)"></div><div class="error-con error-leftcon username_register">Please enter a username.</div><div class="form-group"> <input id="password_register" autocomplete="off" autocorrect="off" autocapitalize="off" spellcheck="false" minlength="6" type="password" class="form-control" placeholder="Password (atleast 6 chars.)" > </div> <div class="error-con error-leftcon password_register">Please enter a password.</div> <div class="form-group form-email"> <input id="email_register" autocomplete="off" autocorrect="off" autocapitalize="off" spellcheck="false" type="email" class="form-control desktoprejiemail" placeholder="Email Address" > <span class="email-helpicon">? <span class="left-tooltip">Account updates will be sent to this email address</span></span> </div> <div class="error-con error-leftcon email_register">Please enter your email address.</div> <div class="form-group-footer "> <button id="btn_register_desktop" type="submit" class="btn_primary btn-register" onClick="registration.register(this); return false;">Register for Free</button> </div> </form></div> <div class="register-offerText"> <div class="register-text">By clicking Register for Free you agree to our <a href="/tos/terms-of-service.html" target="_blank">Terms of Service</a> &amp; <a href="/privacy-policy.html" target="_blank">Privacy Policy</a></div> <div class="register-offer"><label class="checkbox"><input id="register_email_splOffer" checked type="checkbox" /><span>Email me special offers</span></label></div> </div> </div>',
-    container: '.register-form-box',
-    controls: {
-        username: {
-            selector: '#username_register',
-            isValidationRequired: true,
-            preValidationHook: null,
-            validationFunction: null,
-            postValidationHook: null,
-            errorSelector: '.error-con.error-leftcon.username_register',
-            data: null,
-            default: null,
-            registrationProp: "loginid",
-            requiresEncoding: false,
-            errorIndicatorClass: 'lpform-error',
-            isOptional: false
-        },
-        password: {
-            selector: '#password_register',
-            isValidationRequired: true,
-            preValidationHook: null,
-            validationFunction: null,
-            postValidationHook: null,
-            errorSelector: '.error-con.error-leftcon.password_register',
-            data: null,
-            default: null,
-            registrationProp: "password",
-            requiresEncoding: true,
-            errorIndicatorClass: 'lpform-error',
-            isOptional: false
-        },
-        email: {
-            selector: '#email_register',
-            isValidationRequired: true,
-            preValidationHook: null,
-            validationFunction: null,
-            postValidationHook: null,
-            errorSelector: '.error-con.error-leftcon.email_register',
-            data: null,
-            default: null,
-            registrationProp: "email",
-            requiresEncoding: false,
-            errorIndicatorClass: 'lpform-error',
-            isOptional: false
-        },
-        splOffer: {
-            selector: '#register_email_splOffer',
-            isValidationRequired: false,
-            preValidationHook: null,
-            validationFunction: null,
-            postValidationHook: null,
-            errorSelector: null,
-            data: null,
-            default: null,
-            registrationProp: "emailSplOffer",
-            requiresEncoding: false,
-            errorIndicatorClass: null,
-            isOptional: true
-        }
-    },
-    triggerSelectors: ["#btn_register_desktop"],
-    showAllErrorAtOnce: true,
-    registrationSuccessCallback: registrationSuccessCallback,
-    registrationFailureCallback:registrationFailureCallback,
-    loadingClass: 'loading-greenbtn',
-    externalCSSAndJSLinks: [],
-};
-
-//initialising default registration module
-  initialiseDefaultRegistrationWidget();
-  //initialising default registration module end
-
-RegistrationModule.getRegistrationModuleInstance(userOptionsregister,function(result) {
-     if(!result){
-      console.log("Error initialising overlay");
-     }
-     else{
-       console.log("overlay initialised successfully")
-     }});
-</script>
 </body></html>
