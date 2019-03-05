@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the staples.com.au privacy policy that was archived on 2018-08-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180812093513id_/https%3A//www.winc.com.au/page/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the staples.com.au privacy policy that was archived on 2019-03-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190305072718id_/https%3A//www.winc.com.au/page/privacy) for the most accurate reproduction.*
 
-# Privacy Policy | Staples now Winc
+# Privacy Policy | Winc
 
 At Winc we value the trust of our customers. To earn your trust, we respect your privacy in handling personal information relating to you and your transactions with us. 
 
