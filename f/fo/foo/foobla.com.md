@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the foobla.com privacy policy that was archived on 2017-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170616100815id_/https%3A//foobla.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the foobla.com privacy policy that was archived on 2019-03-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190305035018id_/https%3A//foobla.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
