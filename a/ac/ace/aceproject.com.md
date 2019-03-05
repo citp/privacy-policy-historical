@@ -1,8 +1,12 @@
-> *The following text is extracted and transformed from the aceproject.com privacy policy that was archived on 2017-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170614123827id_/http%3A//www.aceproject.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aceproject.com privacy policy that was archived on 2019-03-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190305153605id_/https%3A//www.aceproject.com/privacy-policy) for the most accurate reproduction.*
 
 # AceProject's Privacy Policy Statement
 
-This privacy statement covers the site [[www.aceproject.com]](http://www.aceproject.com/). Because this Web site wants to demonstrate its commitment to its users' privacy, it has agreed to disclose its information practices. If users have questions or concerns regarding this statement, they should first contact Daniel Raymond by email at [support@aceproject.com](mailto:support@aceproject.com).
+This privacy statement covers the site [[www.aceproject.com]](http://www.aceproject.com/). Because this Web site wants to demonstrate its commitment to its users' privacy, it has agreed to disclose its information practices. 
+
+If users have questions or concerns regarding this statement, they should first contact Daniel Raymond by email at [support@aceproject.com](mailto:support@aceproject.com).
+
+Also, a specific section has been added to this page for privacy policy information to align with the GDPR requirements. You can go directly to GDPR info section.
 
 ## Information Collection and Use
 
@@ -105,3 +109,5 @@ This privacy statement covers the site [[www.aceproject.com]](http://www.aceproj
 > If we decide to change our privacy policy, we will post those changes to this privacy statement, the homepage, and other places we deem appropriate so our users are always aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it. We will use information in accordance with the privacy policy under which the information was collected. 
 > 
 > If, however, we are going to use users' personally identifiable information in a manner different from that stated at the time of collection we will notify users via email. Users will have a choice as to whether or not we can use their information in this different manner. However, if users have opted out of all communication with the site, or deleted/deactivated their account, then they will not be contacted, nor will their personal information be used in this new manner. In addition, if we make any material changes in our privacy practices that do not affect user information already stored in our database, we will post a prominent notice on our Web site notifying users of the change. In some cases where we post a notice we will also email users, who have opted to receive communications from us, notifying them of the changes in our privacy practices.
+
+* * *
