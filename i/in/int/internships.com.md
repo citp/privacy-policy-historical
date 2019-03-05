@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the internships.com privacy policy that was archived on 2018-09-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180906080430id_/http%3A//www.internships.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the internships.com privacy policy that was archived on 2019-03-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190305022031id_/https%3A//www.internships.com/privacy) for the most accurate reproduction.*
 
 # Chegg.com Privacy Policy
+
+IF YOU ARE NOT FROM THE UNITED STATES, PLEASE REFER THE INTERNATIONAL PRIVACY POLICY [HERE](https://web.archive.org/internationalprivacypolicy).
 
 We at Chegg, Inc. (collectively with any subsidiaries, "Chegg") have created this Privacy Policy to describe our practices regarding information we collect through our web sites, mobile features, applications and any other interactive features or services owned or controlled by Chegg that post a link to this Privacy Policy (each, a "Service" and collectively, the "Services"), as well as any information we collect offline and combine in our databases. Certain features discussed in this Privacy Policy may not be offered on each Service at any particular time. Note that we combine the information we collect from you through all of our web sites, mobile applications, and other Services. 
 
@@ -43,7 +45,7 @@ Please read this Privacy Policy to learn more about:
 
 
 
-SUMMARY
+**SUMMARY**
 
 **WE FULLY DESCRIBE OUR PRIVACY PRACTICES BELOW IN THIS PRIVACY POLICY. THIS SUMMARY PROVIDES AN OVERVIEW OF SOME IMPORTANT INFORMATION REGARDING OUR USE AND SHARING OF YOUR INFORMATION, AND THIRD PARTIES WHO MAY SERVE ADVERTISEMENTS AND WHO MAY SETCOOKIES OR WEB BEACONS OR SIMILAR TRACKING TECHNOLOGIES WHEN YOU USE THE SERVICES. PLEASE REVIEW OUR FULL PRIVACY POLICY BEFORE USING OUR SERVICES.**
 
@@ -51,7 +53,7 @@ We primarily use the information we collect when you use the Services in connect
 
 Chegg works with network advertisers, analytics service providers and other vendors to serve our and third party advertisements on and through the Services and elsewhere online; to provide us with information regarding traffic on the Services, including the pages viewed and the actions users take when visiting the Services; and to provide us with information regarding the use of the Services and the effectiveness of our advertisements. For example, if you click on a Chegg advertisement, our service provider(s) may be able to tell us the advertisement you clicked on and where you were viewing the advertisement. The advertisements you see may be served by one or more third parties, who may use information about your activities on the Services, and other web sites and services, to provide you targeted advertising based upon your interests. Our ad network providers, the advertisers, ad agencies, analytics service providers and other vendors may set and access their own tracking devices (including cookies and web beacons) and they may otherwise collect or have access to information about you and your visits to and activity on the Services, as well as on other web sites or online services. We may share non-Personal information, including hashed or de-identified information, with these parties. And some of these parties may collect Personal Information when you visit the Services or other web sites and services. Please review "THIRD PARTY AD NETWORKS AND ANALYTICS PROVIDERS" for additional information. Some of the companies who serve these targeted ads participate in a self-regulatory program that allows you to opt-out of having information about you used for this purpose, and you may access that opt-out by clicking [here](http://preferences-mgr.truste.com/). Please note this does not opt you out of being served advertising. You will continue to receive generic ads while using the Services and elsewhere online.
 
-INFORMATION COLLECTION
+**INFORMATION COLLECTION**
 
 1\. **Registration and Other Information You Provide**
 
@@ -100,15 +102,15 @@ In addition, we automatically collect your IP address or other unique identifier
 
 Usage Information is collected via tracking technologies, including:
 
-Cookies and Log Files: Chegg uses cookies, log files or similar technologies to track usage of our Services. A cookie is a data file that resides on your computer, and which allows Chegg to recognize you when you return using the same computer and web browser. If your browser settings do not allow cookies, you will not be able to use our Services as fully as intended. Log files are the record of your visits to the Services and include Usage Information. Like the information you enter at registration or in your Profile, cookie and log file data is used to customize your experience when you use the Services. Third parties may also set cookies as you interact with the Service. Third parties may use session IDs and cookies to make it easier for you to use our Services and place orders, to deliver online advertising, and for other purposes.
+**Cookies and Log Files:** Chegg uses cookies, log files or similar technologies to track usage of our Services. A cookie is a data file that resides on your computer, and which allows Chegg to recognize you when you return using the same computer and web browser. If your browser settings do not allow cookies, you will not be able to use our Services as fully as intended. Log files are the record of your visits to the Services and include Usage Information. Like the information you enter at registration or in your Profile, cookie and log file data is used to customize your experience when you use the Services. Third parties may also set cookies as you interact with the Service. Third parties may use session IDs and cookies to make it easier for you to use our Services and place orders, to deliver online advertising, and for other purposes.
 
 One type of cookie we use, known as a "persistent" cookie, is set once you've logged in to your account on the Services. If you do not log out of your account, then the next time you visit, the persistent cookie will allow us to recognize you as an existing user so you will not need to log in before using the Services. If you are using a public computer or sharing your private computer with others, you should log out of your account after each visit. If you log out of a Service, you will need to re-enter your password the next time you visit in order to log in to your account. You can remove persistent cookies by following directions provided in your Internet browser's "help" file. We also use a cookie which functions as a "session" cookie, meaning that it is used to identify a particular visit. Session cookies expire after a short time or when you close your web browser.
 
-Web Beacons: We, as well as our affiliate program partners, service providers, and other third parties, may employ a software technology called web beacons (a.k.a. clear gifs), that help us better manage content on our Services by informing us of what content is effective. Clear gifs are tiny graphics with a unique identifier, similar in function to cookies, and are used to track the online movements of web users for our affiliate program. In contrast to cookies, which are stored on a user’s computer hard drive, clear gifs are embedded invisibly on web pages. This information is used to help improve the overall quality and experience of our Services. We tie the information gathered by clear gifs to our customers' Personal Information.
+**Web Beacons:** We, as well as our affiliate program partners, service providers, and other third parties, may employ a software technology called web beacons (a.k.a. clear gifs), that help us better manage content on our Services by informing us of what content is effective. Clear gifs are tiny graphics with a unique identifier, similar in function to cookies, and are used to track the online movements of web users for our affiliate program. In contrast to cookies, which are stored on a user’s computer hard drive, clear gifs are embedded invisibly on web pages. This information is used to help improve the overall quality and experience of our Services. We tie the information gathered by clear gifs to our customers' Personal Information.
 
-An Embedded Script: is programming code that is designed to collect information about your interactions with the Services, such as the links you click on. The code is temporarily downloaded onto your computer or other device from our server or a third party service provider and is deactivated or deleted when you disconnect from the Services.
+**An Embedded Script:** is programming code that is designed to collect information about your interactions with the Services, such as the links you click on. The code is temporarily downloaded onto your computer or other device from our server or a third party service provider and is deactivated or deleted when you disconnect from the Services.
 
-Flash & HTML5: We use Local Storage Objects (LSOs) such as HTML5 to store content, information and preferences. Third parties with whom we partner to provide certain features on our site or to display advertising based upon your Web browsing activity use LSOs such as HTML 5 & Flash to collect and store information. Various browsers may offer their own management tools for removing HTML5 LSOs. To manage Flash LSOs please click here:  
+**Flash & HTML5:** We use Local Storage Objects (LSOs) such as HTML5 to store content, information and preferences. Third parties with whom we partner to provide certain features on our site or to display advertising based upon your Web browsing activity use LSOs such as HTML 5 & Flash to collect and store information. Various browsers may offer their own management tools for removing HTML5 LSOs. To manage Flash LSOs please click here:  
 <http://www.macromedia.com/support/documentation/en/flashplayer/help/settings_manager07.html>
 
 In addition, we may use a variety of other technologies that collect similar information for security and fraud detection purposes.
@@ -117,13 +119,13 @@ How We Respond To Do Not Track Signals:
 
 Please note that your browser setting may allow you to automatically transmit a "Do Not Track" signal to web sites and online service you visit. There is no consensus among industry participants as to what "Do Not Track" means in this context. Like many web sites and online services, Chegg does not alter its practices when it receives a "Do Not Track" signal from a visitor's browser. To find out more about "Do Not Track", please visit [http://www.allaboutdnt.com](http://www.allaboutdnt.com/). 
 
-HOW WE USE YOUR INFORMATION
+**HOW WE USE YOUR INFORMATION**
 
 We use information about you, including Personal Information, the information you provide in your Profile, User Content, and Usage Information to: (1) process a transaction you initiate, allow you to participate in features we offer and provide customer service, such as responding to questions, complaints or comments; (2) tailor content, recommendations, information and offers we display to you, both on the Services and elsewhere online (this includes sending or displaying special offers or advertisements from us or third-parties); (3) email or otherwise provide you with information, products, services, or suggestions; (4) process your registration with our Services, including verifying your e-mail address is active and valid; (5) improve the Services and our products, and for internal business purposes, including the measurement of ad effectiveness; (6) contact you with regard to your use of the Services and, in our discretion, changes to our policies; and (7) permit other Chegg users to contact you, and vice versa; (8) to provide you with location features and services (e.g., telling you about local deals and events); (9) to assess your employment application for a position with Chegg (or an entity related to Chegg) and prepare related governmental and internal statistics reports; and (10) as described in the Privacy Policy and for purposes disclosed at the time you provide your information or otherwise with your consent. We may also use non-personal information, including information that has been de-identified (typically by using a mathematical process known as a “hash”), to make inferences about you and offers and content you may be interested in, to serve you with relevant advertising, and to allow others to do so.
 
 Please note that information submitted on the Services via a "Contact Us" or other similar function may not receive a response. We will not use the information provided via these functions to contact you for marketing purposes unrelated to your request unless you agree otherwise.
 
-INFORMATION SHARING
+**INFORMATION SHARING**
 
 Chegg does not share your Personal Information with third parties for their marketing purposes without your consent. Chegg may share non-Personal Information, such as aggregate user statistics, de-identified information, demographic information, and Usage Information with third parties, including advertisers, content providers, and analytics providers; and third parties may collect non-Personal Information when you visit the Services. Demographic information may include information related to your gender, age, graduation years, as well as other scholastic-related information. We may create de-identified information by removing all information that can be used to directly identify or contact you as a specific individual, such as your name and email address. We also may share your Personal Information with third parties with your consent, as disclosed at the time you provide us with information, and as described below or otherwise in this Privacy Policy:
 
@@ -141,7 +143,7 @@ Chegg does not share your Personal Information with third parties for their mark
 
 7\. **Employment Applications:** If you apply for a job through the Services, Chegg or its service provider may ask you to provide self-identifying information (such as veteran status, gender, and ethnicity) in conjunction with laws and regulations enforced by the Equal Employment Opportunity Commission ("EEOC") and other federal, state and local regulatory agencies. Providing such self-identifying information is voluntary, but if you do provide such information, Chegg or its service provider may submit that information to the appropriate government or regulatory agencies to fulfill reporting requirements and use that information to defend against employment-related complaints.
 
-THIRD PARTY AD NETWORKS AND ANALYTICS PROVIDERS
+**THIRD PARTY AD NETWORKS AND ANALYTICS PROVIDERS**
 
 Chegg works with network advertisers, ad agencies, analytics service providers and other vendors for advertising and analytics services, including to serve our and third party advertisements on and through the Services and elsewhere online; to provide us with information regarding traffic on the Services, including the pages viewed and the actions users take when visiting the Services; and to provide us with information regarding the use of the Services and the effectiveness of our advertisements. For example, if you click on a Chegg advertisement, our service provider(s) may be able to tell us the advertisement you clicked on and where you were viewing the advertisement; likewise, if you click on an ad you see on our Services, our service provider(s) may be able to tell which page you were visiting on our Services and pass that information to the advertiser. The advertisements you see may be served by one or more third parties, who may use information collected over time about your activities on the Services, and other web sites and services, to provide you targeted advertising based upon your interests.
 
@@ -149,7 +151,7 @@ Chegg may share non-Personal Information, such as de-identified (including hashe
 
 Some of the companies who serve these targeted ads participate in a self-regulatory program that allows you to opt-out of having information about you used for this purpose, and you may access that opt-out by clicking [here](http://preferences-mgr.truste.com/). Alternatively, you may opt-out of targeted ads by visiting the Digital Advertising Alliance Consumer Choice page at <http://www.aboutads.info/choices/> or the Network Advertising Initiative consumer opt-out page at <http://www.networkadvertising.org/managing/opt_out.asp>. Please note this does not opt you out of being served advertising. You will continue to receive generic ads while using the Services and elsewhere online.
 
-MOBILE USE
+**MOBILE USE**
 
 If you use the Services through a mobile device or one of our mobile applications, we will collect Usage Data, which may include your mobile carrier. If you have opted-in to share your precise location with us through one of our mobile applications, you can turn off the collection of precise location information through your Device settings. We may still be able to infer your approximate location through other information we collect, such as IP address. You agree that Chegg may store and use that information for security purposes (for example, for user verification and to ensure that Chegg's APIs are being used appropriately). You also acknowledge and agree that use of the Services through a mobile device may cause data to be displayed on and through your mobile device which may be viewed by your mobile carrier or other access provider.
 
@@ -159,39 +161,39 @@ Text messages: You may be able to opt-in to receiving text messages from Chegg. 
 
 Push Notification: We will send you push notifications if you agree to receive them to announce special deals and to send you your itinerary. You may opt-out of receiving these at any time by going to the phone settings and turning them off.
 
-UPDATING YOUR ACCOUNT INFORMATION AND CONTROL OVER CHEGG EMAILS
+**UPDATING YOUR ACCOUNT INFORMATION AND CONTROL OVER CHEGG EMAILS**
 
 You may be able to review the information you provided to us on a Service and make any desired changes to the information, or to the settings for your account on that Service, by logging in to your account for that Service and editing or deleting the information. You also may be able to limit the information you receive from us by adjusting your settings [here](https://web.archive.org/my/preferences). All changes to your email settings and preferences must be made in your account preferences page on the applicable Service or, for email, by using the unsubscribe button at the bottom of the Chegg email. However, we reserve the right to send you information on our behalf and on behalf of third parties through the Services. If you no longer want to receive information from us, you will need to close your account for that Service.
 
-CLOSING YOUR ACCOUNT
+**CLOSING YOUR ACCOUNT**
 
 If you wish to close your account with one of our Services, please send your request to [closemyaccount@chegg.com](mailto:closemyaccount@chegg.com) and we will remove your Personal Information and Profile, if applicable, from the active databases for the Service(s) you request. Please let us know which Service(s) you wish to close and send your request using an email account that you have registered with Chegg under your name. You typically will receive a response to a request sent to [closemyaccount@chegg.com](mailto:closemyaccount@chegg.com) within five business days of our receiving it. Requests to change your email preferences or unsubscribe from all emails may not be made through this email address, but rather must be submitted through one of the channels set out in the previous section.
 
 Even if your account is closed, information may remain in backup records and we may retain certain data if it may be necessary to prevent fraud or future abuse or for legitimate business purposes, such as analysis of aggregated, non-personally-identifiable data, account recovery or if required by law. All retained data will continue to be subject to the applicable privacy policy for the Service. Also, if you have posted content on or through the Services, such as in Community Forums, we may not be able to delete it.
 
-THIRD PARTY CONTENT, LINKS TO OTHER SITES
+**THIRD PARTY CONTENT, LINKS TO OTHER SITES**
 
 Certain content provided through the Services may be hosted and served by third parties, which may include third party widgets (such as those that allow you to "like" or "share" content with third party web sites and online services). In addition, the Services may link to third party web sites or content over which Chegg has no control and which are governed by the privacy policies and business practices of those third parties. In addition, third-party partners of Chegg from whom your order through the Services may have different privacy policies which apply to such partner's use of your information. These third parties may independently collect data. Chegg is not responsible for the privacy practices or business practices of any third party.
 
-TESTIMONIALS
+**TESTIMONIALS**
 
 We display personal testimonials of satisfied customers on our Services in addition to other endorsements. With your consent we may post your testimonial along with your name. If you wish to update or delete your testimonial, you can contact us at [legaldept@chegg.com](mailto:legaldept@chegg.com).
 
-SECURITY
+**SECURITY**
 
 Chegg takes commercially reasonable security measures to protect the Personal Information submitted to us, both during transmission and once we receive it. For example, when you enter sensitive information such as a credit card number and CCV2 number on our checkout forms, that information is encrypted to help protect the communications between you and our payment partners.
 
 However, no method of transmission over the Internet, or method of electronic storage, is 100% secure. Therefore, while we strive to use commercially acceptable means to protect your Personal Information, as in any real-life scenario, we cannot guarantee its absolute security. If you have any questions about security on our Services, you can email us at [legaldept@chegg.com](mailto:legaldept@chegg.com).
 
-CONSENT TO TRANSFER
+**CONSENT TO TRANSFER**
 
 The Services are operated in the United States. If you are located outside of the United States, please be aware that information we collect will be transferred to and processed in the United States. By using the Services, or providing us with any information, you fully understand and unambiguously consent to this transfer, processing and storage of your information in the United States, a jurisdiction in which the privacy laws may not be as comprehensive as those in the country where you reside and/or are a citizen.
 
-CHANGES TO THIS PRIVACY POLICY
+**CHANGES TO THIS PRIVACY POLICY**
 
 Chegg may update this Privacy Policy at any time and any changes will be effective upon posting of the revised Privacy Policy unless otherwise specified. In the event that there are material changes to the way we treat your Personal Information, we will display a notice through the Services of the updated Privacy Policy. We may also notify you in other ways in our discretion, such as through contact information you have provided. Your continued use of any of the Services after the effective date of the revised Privacy Policy will constitute your consent to the new Privacy Policy. However, we will not make material changes to how we treat previously collected Personal Information without first giving you the chance to consent (opt-in or opt-out). Note, however, that you may need to consent to our new Privacy Policy in order to continue to use the Services.
 
-QUESTIONS OR COMMENTS
+**QUESTIONS OR COMMENTS**
 
 If you have questions or comments about this privacy policy, please email us at [legaldept@chegg.com](mailto:legaldept@chegg.com) or contact us at:
 
@@ -201,7 +203,7 @@ Attn: Privacy Policy Issues
 Santa Clara, CA 95054  
 
 
-CALIFORNIA RESIDENTS - YOUR CA PRIVACY RIGHTS
+**CALIFORNIA RESIDENTS - YOUR CA PRIVACY RIGHTS**
 
 Pursuant to California Civil Code Section 1798.83, residents of the State of California have the right to request from companies conducting business in California a list of all third parties to which the company has disclosed certain categories of personal information during the preceding year for the third parties' direct marketing purposes and the categories of personal information the company shares. Alternatively, the law provides that a company that has a privacy policy that provides consumers choice (opt-out or opt-in) regarding sharing personal information with third parties for those third parties' direct marketing purposes may instead provide information on how to exercise that choice. Chegg qualifies for the alternative option; as stated above in this Privacy Policy, Chegg provides you choice prior to sharing your personal information with third parties for their direct marketing purposes. If you do not opt-in or if you choose to opt-out at the time Chegg offers that choice, Chegg does not share your information with that identified third party for its direct marketing purposes.
 
