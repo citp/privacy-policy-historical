@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gamegab.com privacy policy that was archived on 2018-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181102140319id_/http%3A//gamegab.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gamegab.com privacy policy that was archived on 2019-03-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190305183844id_/http%3A//gamegab.com/privacy) for the most accurate reproduction.*
 
 # GameGab Free OnLine Games | Privacy
 
