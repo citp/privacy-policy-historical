@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the theathletesfoot.com.au privacy policy that was archived on 2018-03-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180319164945id_/https%3A//www.theathletesfoot.com.au/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the theathletesfoot.com.au privacy policy that was archived on 2019-03-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190305100537id_/https%3A//www.theathletesfoot.com.au/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -92,4 +92,4 @@ We may vary the terms of this Privacy Policy at any time. You should check this 
 
 Access to information we hold about you
 
-Should you wish to access, update or correct personal information supplied to us, you may email us at myfitrewards@taf.com.au. There is no cost to request or update your information but we may charge you a reasonable fee to cover our costs in locating and extracting that information to supply it to you. You have the option to either not identify yourself or to use a pseudonym when you contact us, unless it is impractical for us to communicate with you in that manner or if we are required or authorised under Australian law, or a court or tribunal order, to deal with individuals who have identified themselves.
+Should you wish to access, update or correct personal information supplied to us, you may email us at [myfitrewards@taf.com.au](mailto:myfitrewards@taf.com.au). There is no cost to request or update your information but we may charge you a reasonable fee to cover our costs in locating and extracting that information to supply it to you. You have the option to either not identify yourself or to use a pseudonym when you contact us, unless it is impractical for us to communicate with you in that manner or if we are required or authorised under Australian law, or a court or tribunal order, to deal with individuals who have identified themselves.
