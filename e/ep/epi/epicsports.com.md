@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the epicsports.com privacy policy that was archived on 2017-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171219192105id_/http%3A//www.epicsports.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the epicsports.com privacy policy that was archived on 2019-03-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190305080548id_/https%3A//www.epicsports.com/privacy.html) for the most accurate reproduction.*
 
 # Epic Sports Privacy Policy
 
@@ -153,19 +153,15 @@ To be in accordance with CANSPAM we agree to the following:
 
 If at any time you would like to unsubscribe from receiving future emails, you can email us at customerservice@epicsports.com or follow the instructions at the bottom of each email and we will promptly remove you from all correspondence.
 
-**Criteo**
-
-The purpose of Criteo Email is to find visitors of Criteo advertising clients' properties (websites, apps and newsletters) and send them personalized emails. Criteo uses cookies to single out users and then personalize ads based on their browsing experience. To learn more or opt out of Criteo Email [click here](http://privacy.criteoemail.com/us/privacy-policy.html) (link to Criteo privacy policy at <http://privacy.criteoemail.com/us/privacy-policy.html>).
-
 **Contacting Us**
 
 If there are any questions regarding this privacy policy you may contact us using the information below.
 
 Epic Sports, Inc  
-3001 E. Harry St  
-Wichita, KS 67211  
+9750 E 53rd St N  
+Bel Aire, KS 67226  
 p (316) 612-0150  
 f (316) 691-0625  
 e customerservice@epicsports.com 
 
-**Last Edited on 06/14/2016**
+**Last Edited on 11/13/2018**
