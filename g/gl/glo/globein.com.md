@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the globein.com privacy policy that was archived on 2017-09-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170929235148id_/https%3A//globein.com/globein-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the globein.com privacy policy that was archived on 2019-03-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190306004913id_/https%3A//globein.com/globein-privacy-policy) for the most accurate reproduction.*
 
 # GlobeIn Privacy Policy | GlobeIn
 
@@ -79,6 +79,6 @@ Please contact us with any questions or comments about this Policy, your persona
 
 GlobeIn World, Inc.
 
-150 Constitution Dr
+1800 Seaport Blvd
 
-Menlo Park, CA 94025
+Redwood City, CA 94063
