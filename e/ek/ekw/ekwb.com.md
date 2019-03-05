@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ekwb.com privacy policy that was archived on 2018-10-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181022154342id_/https%3A//www.ekwb.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ekwb.com privacy policy that was archived on 2019-03-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190305175213id_/https%3A//www.ekwb.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - EKWB
 
