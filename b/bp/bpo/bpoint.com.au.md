@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bpoint.com.au privacy policy that was archived on 2018-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181206182522id_/https%3A//www.commbank.com.au/security-privacy/general-security/privacy-policy-html-version.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bpoint.com.au privacy policy that was archived on 2019-03-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190305051316id_/https%3A//www.commbank.com.au/security-privacy/general-security/privacy-policy-html-version.html) for the most accurate reproduction.*
 
 # Privacy Policy - How we handle your personal information - CommBank
 
