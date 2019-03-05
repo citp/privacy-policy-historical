@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the onedayonly.co.za privacy policy that was archived on 2018-03-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180308052236id_/https%3A//www.onedayonly.co.za/privacy/%3Fsrc%3Dfooter_menu) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the onedayonly.co.za privacy policy that was archived on 2019-03-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190305063321id_/https%3A//www.onedayonly.co.za/privacy) for the most accurate reproduction.*
 
 # Our Privacy Pledge | OneDayOnly.co.za
 
@@ -65,4 +65,4 @@ _OneDayOnly will not share, rent, lease, or sell your personal information (e.g.
 
 We hope this makes sense. Future changes to this Privacy Policy may be made at any time by sending you an email or posting notice of the changes on the site, with the changes effective 30 days after OneDayOnly's dispatch of the email or posting of the notice. To ask questions about this policy or to remove your personal information from our database, write us at customerservice@onedayonly.co.za: our people would love to tell you more about this.
 
-“Love the fact that we can pay in eBucks” Chantelle, Johannesburg
+“I am happy with product and the shopping experience - painless. I love shopping via OnedayOnly!!” Barbara, Joburg
