@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cartoonnetwork.com.au privacy policy that was archived on 2018-07-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180731024208id_/https%3A//www.cartoonnetwork.com.au/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cartoonnetwork.com.au privacy policy that was archived on 2019-03-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190305050729id_/https%3A//www.cartoonnetwork.com.au/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
