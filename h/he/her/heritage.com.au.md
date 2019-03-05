@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the heritage.com.au privacy policy that was archived on 2018-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181229191114id_/https%3A//www.heritage.com.au/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the heritage.com.au privacy policy that was archived on 2019-03-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190305104637id_/https%3A//www.heritage.com.au/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Heritage Bank
 
@@ -74,7 +74,7 @@ We collect most personal information directly from you. We may do this when you 
 
 We may monitor and/or preserve telephone calls, postal or email transmissions for the purpose of staff training, quality assurance, security reasons, to verify statements made and to assist with our dispute resolution process.  
   
-The technology “cookies” may be used to collect statistical information on our website or online banking. Cookies may also be used for other purposes which help us further enhance our service such as collecting preferences, geographical information and to auto populate. You are able to use your browser settings to manage cookies including preventing the acceptance of some or all cookies. For more information on adjusting browser settings and system requirements please see our website [heritage.com.au](https://web.archive.org/web/20181229191114id_/https%3A//www.heritage.com.au/heritage.com.au). If personal information about you is collected by third parties on any website you have accessed through our websites, we may also collect or have access to that information as part of our arrangement with those third parties.
+The technology “cookies” may be used to collect statistical information on our website or online banking. Cookies may also be used for other purposes which help us further enhance our service such as collecting preferences, geographical information and to auto populate. You are able to use your browser settings to manage cookies including preventing the acceptance of some or all cookies. For more information on adjusting browser settings and system requirements please see our website [heritage.com.au](https://web.archive.org/web/20190305104637id_/https%3A//www.heritage.com.au/heritage.com.au). If personal information about you is collected by third parties on any website you have accessed through our websites, we may also collect or have access to that information as part of our arrangement with those third parties.
 
 Sometimes, such as where we need to verify your identity, undertake customer due diligence, prevent or detect money laundering or terrorist financing and where we are required or authorised by law we may need to obtain personal information (including credit information and credit eligibility information) about you from a third party. These parties may include banks, financial advisers, family members, your employer, medical practitioners, CRBs, government authorities and publicly available sources of information.   
   
@@ -182,7 +182,7 @@ It is important that you advise us as soon as possible if there is a change to y
 
 Should you have any concerns, require further information or wish to make a complaint regarding the handling of your personal information you can let us know using any of the methods listed under "How to contact us".  
   
-Complaints regarding privacy are referred directly to Heritage’s Privacy Officer and are dealt with in accordance with our Internal Customer Disputes Resolution Process. Information about this process can be found on our website at [heritage.com.au](https://web.archive.org/web/20181229191114id_/https%3A//www.heritage.com.au/www.heritage.com.au) or by contacting us.
+Complaints regarding privacy are referred directly to Heritage’s Privacy Officer and are dealt with in accordance with our Internal Customer Disputes Resolution Process. Information about this process can be found on our website at [heritage.com.au](https://web.archive.org/web/20190305104637id_/https%3A//www.heritage.com.au/www.heritage.com.au) or by contacting us.
 
 We will acknowledge your complaint and keep your informed of its progress. Any specific credit reporting breaches or complaints will be acknowledged within 7 days of receipt and unless there are exceptional circumstances these investigations will be resolved within 30 days of receiving your complaint.
 
