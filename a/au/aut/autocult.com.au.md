@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the autocult.com.au privacy policy that was archived on 2018-08-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180812071229id_/http%3A//www.autocult.com.au/privacy-policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the autocult.com.au privacy policy that was archived on 2019-03-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190305200017id_/http%3A//www.autocult.com.au/privacy-policy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy | Auto Cult | 02 8599 6505
 
@@ -24,7 +24,7 @@ If Auto Cult suffers any loss or damage or incurs any cost in connection with a 
 
 #### Copyright, Trademarks and Licence
 
-Material on the Auto Cult website is Copyright © Auto Cult and Unique Websites 2018. All photography is copyright Auto Cult and Unique Websites and may not be reproduced without permission. Unless otherwise indicated on the Auto Cult website, the material on the Auto Cult website is owned by or licensed to Auto Cult and UniqueWebsites.com.au and is subject to copyright (the “Copyright Material”). You may:
+Material on the Auto Cult website is Copyright © Auto Cult and Unique Websites 2019. All photography is copyright Auto Cult and Unique Websites and may not be reproduced without permission. Unless otherwise indicated on the Auto Cult website, the material on the Auto Cult website is owned by or licensed to Auto Cult and UniqueWebsites.com.au and is subject to copyright (the “Copyright Material”). You may:
 
   * only copy or reproduce the Copyright Material for the purpose of browsing the Auto Cult website or making a copy for your own personal, private or research use, provided that such use constitutes fair use under the Copyright Act;
   * not alter or modify the Copyright Material or remove any legal notice associated with it.
