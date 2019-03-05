@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jamplay.com privacy policy that was archived on 2017-10-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171005024623id_/https%3A//www.jamplay.com/company/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jamplay.com privacy policy that was archived on 2019-03-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190305224812id_/https%3A//www.jamplay.com/company/privacy-policy) for the most accurate reproduction.*
 
 # JamPlay.com Privacy Policy
 
@@ -123,7 +123,7 @@ If JamPlay LLC is involved in a merger, acquisition, or sale of all or a portion
 
 Upon request Jamplay will provide you with information about whether we hold any of your personal information. If you wish to access your personal data, update, delete, or have an enquiry about our privacy policy, please contact us:
 
-  * sending an email to support@jamplay.com
+  * sending an email to [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection)
   * calling us at 1-877-999-4526
 
 
