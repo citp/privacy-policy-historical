@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the witchery.com.au privacy policy that was archived on 2018-03-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180319034418id_/https%3A//www.witchery.com.au/help/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the witchery.com.au privacy policy that was archived on 2019-03-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190305153214id_/https%3A//www.witchery.com.au/help/privacy-policy) for the most accurate reproduction.*
 
-# Witchery | Shop Women's Fashion, Men's & Kid's Clothing Online
+# Witchery Australia
 
 **WITCHERY** is the trading name of Witchery Fashions Pty Ltd ACN 006 897 230, which is a member of the Country Road Group. 
 
@@ -10,7 +10,7 @@ Country Road Group Pty Ltd ACN 006 759 182 and its Related Bodies Corporate (as 
 
 **2\. SCOPE OF OUR PRIVACY POLICY**
 
-Our Privacy Policy applies to the personal information we collect, store, maintain and use about you as our customers, visitors to our website, social media pages and other digital services (“Online Services”), or stores and members of the public. Our Privacy Policy applies to all of the brands owned by us from time to time, including, but not limited to, Country Road, Trenery, Witchery, Politix and Mimco (“Our Brands”).  Personal information we collect from job applicants as part of our recruitment process is governed by our [Privacy Statement](https://secure.dc2.pageuppeople.com/apply/433/aw/applicationForm/viewPrivacystatement.asp?sData=OD16nWJzXMgVZ4glAVX4Oaj5ocsy2ACIxo3k5FYzmMISuHJFE%2FnRJ260p8h9PsNYsx7SWbyFP4qPL1SMKyhRghiO56IbDFEg).
+Our Privacy Policy applies to the personal information we collect, store, maintain and use about you as our customers, visitors to our website, social media pages and other digital services (“Online Services”), or stores and members of the public. Our Privacy Policy applies to all of the brands owned by us from time to time, including, but not limited to, Country Road, Trenery, Witchery, Politix and Mimco (“Our Brands”).  Personal information we collect from job applicants as part of our recruitment process is governed by our [Privacy Statement](http://www.countryroadgroup.com.au/privacy-statement).
 
 **3\. CONSENT**
 
@@ -49,6 +49,8 @@ We use cookies to gain statistics on which areas of our sites attract traffic. W
 Most Internet browsers are set up to accept cookies. If you do not wish to receive cookies, you will need to adjust the settings of your browser to refuse all cookies or to notify you each time a cookie is sent to your computer. Please note that some of our Online Services will not function if your browser does not accept cookies. By using our Online Services, you consent to the use of cookies.
 
 When you click on links and banners on our sites that take you to third-party websites, you will be subject to that third-party's privacy policies. While we support the protection of privacy on the internet, we cannot be held responsible for the actions of any third-party websites.
+
+We use Google Analytics Advertising Features to promote our Services. Google and other third parties collect data about traffic to this site via advertising cookies and identifiers.  This enables us to display ads on other sites that are relevant to you, based on your previous visits to this site.  If you would like to prevent your data from being used by Google Analytics, please click here: <https://tools.google.com/dlpage/gaoptout/>
 
 **5\. WHAT INFORMATION DO WE COLLECT?**
 
