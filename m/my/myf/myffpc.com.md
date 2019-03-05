@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the myffpc.com privacy policy that was archived on 2018-11-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181103143204id_/http%3A//myffpc.com/ffpccontent/trust/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the myffpc.com privacy policy that was archived on 2019-03-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190305212001id_/http%3A//myffpc.com/ffpccontent/trust/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | FFPC
 
@@ -9,10 +9,9 @@ This Privacy Policy should be read in conjunction with our [Terms and Conditions
 Any questions, comments or complaints that you might have should be emailed to [info@myffpc.com](mailto:info@myffpc.com). You may also send it by mail to:
 
 FFPC  
-For Players – By Players LLC  
+FFPC, LLC  
 1133 Broadway, Suite 539  
-New York, NY 10010  
- 
+New York, NY 10010
 
 FFPC requires all its customers to maintain an account accurate and current personal information such as name, email, address of residence, and phone number.
 
@@ -26,7 +25,6 @@ FFPC does not offer services or sell products to minors. FFPC does not request o
 
 FFPC is committed to protecting our customer’s personal information and does not share any such information with anyone with the following exceptions.
 
-   
 FFPC will send or share personal information with other companies or people when:
 
   * we have the customer’s consent to share the information
