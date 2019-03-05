@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pikaba.com privacy policy that was archived on 2018-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180602015820id_/http%3A//www.pikaba.com/info.aspx%3Fmode%3Dpolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pikaba.com privacy policy that was archived on 2019-03-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190305081416id_/http%3A//www.pikaba.com/info.aspx%3Fmode%3Dpolicy) for the most accurate reproduction.*
 
 # Privacy Policy | Pikaba
 
