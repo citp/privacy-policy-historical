@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hotelscombined.com.au privacy policy that was archived on 2018-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180905003935id_/https%3A//www.hotelscombined.com.au/AboutUs/Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hotelscombined.com.au privacy policy that was archived on 2019-03-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190305230550id_/https%3A//www.hotelscombined.com.au/AboutUs/Privacy) for the most accurate reproduction.*
 
 # HotelsCombined.com.au Privacy Statement
 
