@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the guess.net.au privacy policy that was archived on 2018-03-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180314032549id_/https%3A//shop.guess.net.au/help/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the guess.net.au privacy policy that was archived on 2019-03-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190305145411id_/https%3A//shop.guess.net.au/help/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | GUESS | Jeans, Clothing and Accessories for Men and Women. Shop the latest fashion trends.
 
-This document describes how Signal Brands Australia Pty Ltd trading as GUESS (ABN 59 613 678 354) (we or us or our) complies with the requirements of the Privacy Act 1988 (Cth) and Privacy Act 1993 (NZ), including the Australian Privacy Principles (APPs) and New Zealand Privacy Principles (IPPs), and any other applicable privacy laws in Australia and New Zealand in respect of the website www.guess.net.au (including all related mobile applications and our social media sites) (Sites) and our services. This Privacy Policy sets out how we handle personal information to comply with our obligations.
+This document describes how GUESS Australia Pty Ltd (ABN 31 616 675 239) (we or us or our) complies with the requirements of the Privacy Act 1988 (Cth) and Privacy Act 1993 (NZ), including the Australian Privacy Principles (APPs) and New Zealand Privacy Principles (IPPs), and any other applicable privacy laws in Australia and New Zealand in respect of the website www.guess.net.au (including all related mobile applications and our social media sites) (Sites) and our services. This Privacy Policy sets out how we handle personal information to comply with our obligations.
 
 ## Collection of personal information
 
