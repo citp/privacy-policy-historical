@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the suas.ac.in privacy policy that was archived on 2018-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181125062640id_/http%3A//www.suas.ac.in/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the suas.ac.in privacy policy that was archived on 2019-03-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190305010655id_/http%3A//www.suas.ac.in/about-suas/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy» Symbiosis University of Applied Sciences (SUAS)
 
 **Symbiosis University of Applied Sciences (SUAS)** **Privacy Policy**
 
