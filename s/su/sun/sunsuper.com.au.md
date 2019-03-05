@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sunsuper.com.au privacy policy that was archived on 2018-08-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180812071207id_/https%3A//www.sunsuper.com.au/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sunsuper.com.au privacy policy that was archived on 2019-03-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190305071508id_/https%3A//www.sunsuper.com.au/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Sunsuper
 
@@ -205,7 +205,7 @@ Sydney NSW 2001
 
 ## 16\. Changes to this Privacy Policy
 
-This Privacy Policy may change from time to time. Before providing us with personal information, please check this policy for any changes either by logging on to www.sunsuper.com.au or by contacting us as set out above in section 14 to request an up to date copy. This Privacy Policy was last updated 25 May 2018.
+This Privacy Policy may change from time to time. Before providing us with personal information, please check this policy for any changes either by logging on to www.sunsuper.com.au or by contacting us as set out above in section 14 to request an up to date copy. This Privacy Policy was last updated 12 September 2018.
 
 * Sunsuper is the name we use to describe the business that offers a range of superannuation products and related financial services. Sunsuper Pty Ltd (ABN 88 010 720 840, AFSL No. 228975) is the Trustee of the Sunsuper Superannuation Fund. Financial product advice is provided by representatives of Sunsuper Financial Services Pty Ltd (ABN 50 087 154 818, AFSL No. 227867), wholly owned by the Sunsuper Superannuation Fund. Administration services are provided by Precision Administration Services Pty Ltd (ABN 47 098 977 667, AFSL No. 246604) (Precision), wholly owned by the Sunsuper Superannuation Fund.
 
@@ -242,6 +242,10 @@ Superannuation Industry (Supervision) Act 1993
 Overseas Countries where Sunsuper may disclose information
 
 Canada
+
+Czech Republic
+
+India
 
 New Zealand
 
