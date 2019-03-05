@@ -1,7 +1,719 @@
-<!--The following is the downloaded HTML source of the walkfree.org privacy policy that was archived on 2018-12-05.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20181205024613id_/https%3A//www.walkfreefoundation.org/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the walkfree.org privacy policy that was archived on 2019-03-06.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20190306005138id_/https%3A//www.minderoo.com.au/privacy-policy) for the most accurate reproduction.-->
 
-<!DOCTYPE html><html lang="en-US" prefix="og: http://ogp.me/ns#"><head> <meta charset="utf-8"> <meta http-equiv="X-UA-Compatible" content="IE=edge"><script src="https://js-agent.newrelic.com/nr-1099.min.js"></script><script async="" src="https://www.google-analytics.com/analytics.js"></script><script type="text/javascript">window.NREUM||(NREUM={}),__nr_require=function(e,n,t){function r(t){if(!n[t]){var o=n[t]={exports:{}};e[t][0].call(o.exports,function(n){var o=e[t][1][n];return r(o||n)},o,o.exports)}return n[t].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<t.length;o++)r(t[o]);return r}({1:[function(e,n,t){function r(){}function o(e,n,t){return function(){return i(e,[c.now()].concat(u(arguments)),n?null:this,t),n?void 0:this}}var i=e("handle"),a=e(3),u=e(4),f=e("ee").get("tracer"),c=e("loader"),s=NREUM;"undefined"==typeof window.newrelic&&(newrelic=s);var p=["setPageViewName","setCustomAttribute","setErrorHandler","finished","addToTrace","inlineHit","addRelease"],d="api-",l=d+"ixn-";a(p,function(e,n){s[n]=o(d+n,!0,"api")}),s.addPageAction=o(d+"addPageAction",!0),s.setCurrentRouteName=o(d+"routeName",!0),n.exports=newrelic,s.interaction=function(){return(new r).get()};var m=r.prototype={createTracer:function(e,n){var t={},r=this,o="function"==typeof n;return i(l+"tracer",[c.now(),e,t],r),function(){if(f.emit((o?"":"no-")+"fn-start",[c.now(),r,o],t),o)try{return n.apply(this,arguments)}catch(e){throw f.emit("fn-err",[arguments,this,e],t),e}finally{f.emit("fn-end",[c.now()],t)}}}};a("actionText,setName,setAttribute,save,ignore,onEnd,getContext,end,get".split(","),function(e,n){m[n]=o(l+n)}),newrelic.noticeError=function(e){"string"==typeof e&&(e=new Error(e)),i("err",[e,c.now()])}},{}],2:[function(e,n,t){function r(e,n){if(!o)return!1;if(e!==o)return!1;if(!n)return!0;if(!i)return!1;for(var t=i.split("."),r=n.split("."),a=0;a<r.length;a++)if(r[a]!==t[a])return!1;return!0}var o=null,i=null,a=/Version\/(\S+)\s+Safari/;if(navigator.userAgent){var u=navigator.userAgent,f=u.match(a);f&&u.indexOf("Chrome")===-1&&u.indexOf("Chromium")===-1&&(o="Safari",i=f[1])}n.exports={agent:o,version:i,match:r}},{}],3:[function(e,n,t){function r(e,n){var t=[],r="",i=0;for(r in e)o.call(e,r)&&(t[i]=n(r,e[r]),i+=1);return t}var o=Object.prototype.hasOwnProperty;n.exports=r},{}],4:[function(e,n,t){function r(e,n,t){n||(n=0),"undefined"==typeof t&&(t=e?e.length:0);for(var r=-1,o=t-n||0,i=Array(o<0?0:o);++r<o;)i[r]=e[n+r];return i}n.exports=r},{}],5:[function(e,n,t){n.exports={exists:"undefined"!=typeof window.performance&&window.performance.timing&&"undefined"!=typeof window.performance.timing.navigationStart}},{}],ee:[function(e,n,t){function r(){}function o(e){function n(e){return e&&e instanceof r?e:e?f(e,u,i):i()}function t(t,r,o,i){if(!d.aborted||i){e&&e(t,r,o);for(var a=n(o),u=v(t),f=u.length,c=0;c<f;c++)u[c].apply(a,r);var p=s[y[t]];return p&&p.push([b,t,r,a]),a}}function l(e,n){h[e]=v(e).concat(n)}function m(e,n){var t=h[e];if(t)for(var r=0;r<t.length;r++)t[r]===n&&t.splice(r,1)}function v(e){return h[e]||[]}function g(e){return p[e]=p[e]||o(t)}function w(e,n){c(e,function(e,t){n=n||"feature",y[t]=n,n in s||(s[n]=[])})}var h={},y={},b={on:l,addEventListener:l,removeEventListener:m,emit:t,get:g,listeners:v,context:n,buffer:w,abort:a,aborted:!1};return b}function i(){return new r}function a(){(s.api||s.feature)&&(d.aborted=!0,s=d.backlog={})}var u="nr@context",f=e("gos"),c=e(3),s={},p={},d=n.exports=o();d.backlog=s},{}],gos:[function(e,n,t){function r(e,n,t){if(o.call(e,n))return e[n];var r=t();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(e,n,{value:r,writable:!0,enumerable:!1}),r}catch(i){}return e[n]=r,r}var o=Object.prototype.hasOwnProperty;n.exports=r},{}],handle:[function(e,n,t){function r(e,n,t,r){o.buffer([e],r),o.emit(e,n,t)}var o=e("ee").get("handle");n.exports=r,r.ee=o},{}],id:[function(e,n,t){function r(e){var n=typeof e;return!e||"object"!==n&&"function"!==n?-1:e===window?0:a(e,i,function(){return o++})}var o=1,i="nr@id",a=e("gos");n.exports=r},{}],loader:[function(e,n,t){function r(){if(!E++){var e=x.info=NREUM.info,n=l.getElementsByTagName("script")[0];if(setTimeout(s.abort,3e4),!(e&&e.licenseKey&&e.applicationID&&n))return s.abort();c(y,function(n,t){e[n]||(e[n]=t)}),f("mark",["onload",a()+x.offset],null,"api");var t=l.createElement("script");t.src="https://"+e.agent,n.parentNode.insertBefore(t,n)}}function o(){"complete"===l.readyState&&i()}function i(){f("mark",["domContent",a()+x.offset],null,"api")}function a(){return O.exists&&performance.now?Math.round(performance.now()):(u=Math.max((new Date).getTime(),u))-x.offset}var u=(new Date).getTime(),f=e("handle"),c=e(3),s=e("ee"),p=e(2),d=window,l=d.document,m="addEventListener",v="attachEvent",g=d.XMLHttpRequest,w=g&&g.prototype;NREUM.o={ST:setTimeout,SI:d.setImmediate,CT:clearTimeout,XHR:g,REQ:d.Request,EV:d.Event,PR:d.Promise,MO:d.MutationObserver};var h=""+location,y={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-1099.min.js"},b=g&&w&&w[m]&&!/CriOS/.test(navigator.userAgent),x=n.exports={offset:u,now:a,origin:h,features:{},xhrWrappable:b,userAgent:p};e(1),l[m]?(l[m]("DOMContentLoaded",i,!1),d[m]("load",r,!1)):(l[v]("onreadystatechange",o),d[v]("onload",r)),f("mark",["firstbyte",u],null,"api");var E=0,O=e(5)},{}]},{},["loader"]);</script> <title>Privacy Policy - Walk Free Foundation</title> <meta name="viewport" content="width=device-width, initial-scale=1"> <link rel="apple-touch-icon" sizes="57x57" href="/favicons/favicons/favicon-57x57.png"> <link rel="apple-touch-icon" sizes="60x60" href="/favicons/favicon-60x60.png"> <link rel="apple-touch-icon" sizes="72x72" href="/favicons/favicon-72x72.png"> <link rel="apple-touch-icon" sizes="76x76" href="/favicons/favicon-76x76.png"> <link rel="apple-touch-icon" sizes="114x114" href="/favicons/favicon-114x114.png"> <link rel="apple-touch-icon" sizes="120x120" href="/favicons/favicon-120x120.png"> <link rel="apple-touch-icon" sizes="144x144" href="/favicons/favicon-144x144.png"> <link rel="apple-touch-icon" sizes="152x152" href="/favicons/favicon-152x152.png"> <link rel="apple-touch-icon" sizes="180x180" href="/favicons/favicon-180x180.png"> <link rel="icon" type="image/png" href="/favicons/favicon-32x32.png" sizes="32x32"> <link rel="icon" type="image/png" href="/favicons/favicon-192x192.png" sizes="192x192"> <link rel="icon" type="image/png" href="/favicons/favicon-96x96.png" sizes="96x96"> <link rel="icon" type="image/png" href="/favicons/favicon-16x16.png" sizes="16x16"> <link rel="manifest" href="/manifest.json"> <link rel="mask-icon" href="/favicons/safari-pinned-tab.svg" color="#ffffff"> <meta name="msapplication-TileColor" content="#ffffff"> <meta name="msapplication-TileImage" content="/favicons/favicon-144x144.png"> <meta name="theme-color" content="#ffffff"> <meta property="og:locale" content="en_US"><meta property="og:type" content="article"><meta property="og:title" content="Privacy Policy - Walk Free Foundation"><meta property="og:site_name" content="Walk Free Foundation"><meta property="article:publisher" content="https://www.facebook.com/walkfreefoundation/"><meta name="twitter:card" content="summary_large_image"><meta name="twitter:title" content="Privacy Policy - Walk Free Foundation"><meta name="twitter:site" content="@WalkFreeFdn"><meta name="twitter:creator" content="@WalkFreeFdn"><link rel="dns-prefetch" href="//use.typekit.net"><link rel="dns-prefetch" href="//s.w.org"><link rel="dns-prefetch" href="//cdn.walkfreefoundation.org"><script type="text/javascript">window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/11\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/11\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/cdn.walkfreefoundation.org\/wp\/wp-includes\/js\/wp-emoji-release.min.js"}};!function(a,b,c){function d(a,b){var c=String.fromCharCode;l.clearRect(0,0,k.width,k.height),l.fillText(c.apply(this,a),0,0);var d=k.toDataURL();l.clearRect(0,0,k.width,k.height),l.fillText(c.apply(this,b),0,0);var e=k.toDataURL();return d===e}function e(a){var b;if(!l||!l.fillText)return!1;switch(l.textBaseline="top",l.font="600 32px Arial",a){case"flag":return!(b=d([55356,56826,55356,56819],[55356,56826,8203,55356,56819]))&&(b=d([55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447],[55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447]),!b);case"emoji":return b=d([55358,56760,9792,65039],[55358,56760,8203,9792,65039]),!b}return!1}function f(a){var c=b.createElement("script");c.src=a,c.defer=c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var g,h,i,j,k=b.createElement("canvas"),l=k.getContext&&k.getContext("2d");for(j=Array("flag","emoji"),c.supports={everything:!0,everythingExceptFlag:!0},i=0;i<j.length;i++)c.supports[j[i]]=e(j[i]),c.supports.everything=c.supports.everything&&c.supports[j[i]],"flag"!==j[i]&&(c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&c.supports[j[i]]);c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&!c.supports.flag,c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.everything||(h=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",h,!1),a.addEventListener("load",h,!1)):(a.attachEvent("onload",h),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),g=c.source||{},g.concatemoji?f(g.concatemoji):g.wpemoji&&g.twemoji&&(f(g.twemoji),f(g.wpemoji)))}(window,document,window._wpemojiSettings);</script><script src="https://cdn.walkfreefoundation.org/wp/wp-includes/js/wp-emoji-release.min.js" type="text/javascript" defer=""></script><style type="text/css">img.wp-smiley,img.emoji{display:inline !important;border:none !important;box-shadow:none !important;height:1em !important;width:1em !important;margin:0 .07em !important;vertical-align:-0.1em !important;background:none !important;padding:0 !important}</style><link rel="stylesheet" id="styles-css" href="https://cdn.walkfreefoundation.org/content/themes/walkfreefoundation/assets/css/styles.css?v=35" media="all"><script type="text/javascript" src="//use.typekit.net/fsv1gwk.js"></script><script type="text/javascript" src="https://cdn.walkfreefoundation.org/wp/wp-includes/js/jquery/jquery.js"></script><script type="text/javascript" src="https://cdn.walkfreefoundation.org/wp/wp-includes/js/jquery/jquery-migrate.min.js"></script><link rel="https://api.w.org/" href="https://www.walkfreefoundation.org/wp-json/"><link rel="shortlink" href="https://www.walkfreefoundation.org/?p=69"><link rel="alternate" type="application/json+oembed" href="https://www.walkfreefoundation.org/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.walkfreefoundation.org%2Fprivacy-policy%2F"><link rel="alternate" type="text/xml+oembed" href="https://www.walkfreefoundation.org/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.walkfreefoundation.org%2Fprivacy-policy%2F&amp;format=xml"> <script>try{Typekit.load();}catch(e){}</script> <script>(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
-})(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
-ga('create', 'UA-82069606-1', 'auto');ga('send', 'pageview');(function(h,o,t,j,a,r){h.hj=h.hj||function(){(h.hj.q=h.hj.q||[]).push(arguments)};h._hjSettings={hjid:651359,hjsv:6};a=o.getElementsByTagName('head')[0];r=o.createElement('script');r.async=1;r.src=t+h._hjSettings.hjid+j+h._hjSettings.hjsv;a.appendChild(r);})(window,document,'https://static.hotjar.com/c/hotjar-','.js?sv=');
-</script><script async="" src="https://static.hotjar.com/c/hotjar-651359.js?sv=6"></script> </head> <body class="page-template-default page page-id-69">  <div class="mobile-menu-panel-mask"></div> <nav class="mobile-menu-panel push-menu-right"> <ul id="menu-header-small" class="header-small-menu"><li id="menu-item-886" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-886"><a href="https://www.walkfreefoundation.org/understand/">Understand</a></li><li id="menu-item-885" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-885"><a href="https://www.walkfreefoundation.org/advocate/">Advocate</a></li><li id="menu-item-884" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-884"><a href="https://www.walkfreefoundation.org/about-us/">About Us</a></li><li id="menu-item-883" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-883"><a href="https://www.walkfreefoundation.org/resources/">Resources</a></li><li id="menu-item-882" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-882"><a href="https://www.walkfreefoundation.org/news/">Media</a></li><li id="menu-item-881" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-881"><a href="https://www.walkfreefoundation.org/contact/">Contact</a></li></ul> </nav> <header class="site-header "> <div class="site-header__row"> <div class="site-header__logo-wrapper"> <a href="https://www.walkfreefoundation.org"><svg width="171px" height="50px" viewBox="0 0 171 50" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"> <defs> <polygon id="path-1" points="170.148931 0 0.0393103448 0 0.0393103448 49.9605263 170.148931 49.9605263"></polygon> </defs> <g id="Design" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd"> <g id="UNDERSTAND" transform="translate(-57.000000, -28.000000)"> <g id="WalkFreeFoundtion_Horiz" transform="translate(57.000000, 28.000000)"> <path d="M84.9581724,27.4763158 C84.9064138,27.8638158 84.546069,28.2 84.1346207,28.2 L82.9277931,28.2 C82.5405862,28.2 82.1566552,27.9164474 82.0537931,27.4763158 L79.9461034,16.6368421 C79.8943448,16.2506579 79.7403793,16.2506579 79.6637241,16.6368421 L77.7355517,27.4763158 C77.6588966,27.9401316 77.2985517,28.2 76.836,28.2 L75.6796207,28.2 C75.2426207,28.2 74.9346897,27.9164474 74.8311724,27.4763158 L71.6182069,10.4960526 C71.5664483,10.1592105 71.7996897,9.77236842 72.184931,9.77236842 L73.495931,9.77236842 C73.9578276,9.77236842 74.2919655,10.0828947 74.3686207,10.5203947 L76.2201379,20.9473684 C76.2967931,21.2572368 76.4245517,21.2572368 76.4763103,20.9223684 L78.4031724,10.5203947 C78.4811379,10.1592105 78.891931,9.77236842 79.252931,9.77236842 L80.3051379,9.77236842 C80.6916897,9.77236842 81.1024828,10.1592105 81.1784828,10.5203947 L83.261931,20.9223684 C83.3385862,21.2315789 83.5181034,21.2315789 83.5449655,20.9223684 L85.1625862,10.5203947 C85.2405517,10.0828947 85.6257931,9.77236842 86.0627931,9.77236842 L87.1936207,9.77236842 C87.6823793,9.77236842 87.8874483,10.1072368 87.8107931,10.5467105 L84.9581724,27.4763158" id="Fill-1" fill="#4F5355"></path> <path d="M98.8353793,28.2 L97.4719655,28.2 C96.9589655,28.2 96.6772414,27.8894737 96.5992759,27.4513158 L96.0843103,24.9480263 C95.984069,24.4822368 95.6479655,24.1730263 95.1847586,24.1730263 L92.7448966,24.1730263 C92.3321379,24.1730263 91.9468966,24.6111842 91.8971034,24.9480263 L91.4070345,27.4763158 C91.3054828,27.9151316 90.9713448,28.2 90.5336897,28.2 L89.1977931,28.2 C88.7601379,28.2 88.555069,27.8388158 88.6317241,27.4513158 L91.8971034,10.4697368 C91.9731034,10.0052632 92.2561379,9.77236842 92.7448966,9.77236842 L95.1847586,9.77236842 C95.699069,9.77236842 95.984069,10.0296053 96.0843103,10.5217105 L99.4781034,27.4513158 C99.5547586,27.9151316 99.2717241,28.2 98.8353793,28.2 M94.1050345,14.1078947 C94.0545862,13.9269737 93.8495172,13.8763158 93.8233103,14.1335526 L92.6151724,20.8967105 C92.5123103,21.3342105 92.8471034,21.5664474 93.2592069,21.5664474 L94.7235172,21.5664474 C95.1847586,21.5664474 95.4166897,21.3342105 95.3393793,20.8434211 L94.1050345,14.1078947" id="Fill-2" fill="#4F5355"></path> <path d="M109.165483,28.2 L102.123034,28.2 C101.737138,28.2 101.40431,27.8894737 101.40431,27.4763158 L101.40431,10.5217105 C101.40431,10.1072368 101.68669,9.77236842 102.123034,9.77236842 L103.483828,9.77236842 C103.924759,9.77236842 104.257586,10.0572368 104.257586,10.5217105 L104.257586,24.8190789 C104.257586,25.2572368 104.513103,25.5657895 104.950759,25.5657895 L109.165483,25.5657895 C109.654897,25.5657895 109.885517,25.8263158 109.885517,26.3144737 L109.885517,27.4763158 C109.885517,27.8894737 109.576276,28.2 109.165483,28.2" id="Fill-3" fill="#4F5355"></path> <path d="M121.527276,28.2 L119.882793,28.2 C119.316724,28.2 119.059897,27.9651316 118.879724,27.4513158 L116.310138,20.2506579 C116.258379,20.0710526 115.976,19.9927632 115.769621,19.9927632 C115.333276,19.9927632 114.509724,21.0756579 114.509724,22.8822368 L114.509724,27.4763158 C114.509724,27.8894737 114.176897,28.2 113.765448,28.2 L112.40269,28.2 C112.043,28.2 111.682655,27.8894737 111.682655,27.4763158 L111.682655,10.4947368 C111.682655,10.0822368 112.043,9.77236842 112.40269,9.77236842 L113.765448,9.77236842 C114.202448,9.77236842 114.509724,10.0822368 114.509724,10.5217105 L114.509724,16.6894737 C114.509724,16.9736842 114.766552,16.9467105 114.896931,16.6894737 L118.212103,10.5217105 C118.468931,10.0572368 118.803724,9.77236842 119.368483,9.77236842 L120.936966,9.77236842 C121.372655,9.77236842 121.425069,10.2105263 121.244897,10.5217105 L118.237,15.7328947 C117.929724,16.275 117.851759,16.6368421 118.057483,17.1802632 L121.964276,27.4513158 C122.117586,27.8388158 121.937414,28.2 121.527276,28.2" id="Fill-4" fill="#4F5355"></path> <path d="M136.457345,12.4046053 L132.371034,12.4046053 C131.984483,12.4046053 131.677207,12.8171053 131.677207,13.1789474 L131.677207,16.5078947 C131.677207,16.8697368 132.011345,17.2309211 132.371034,17.2309211 L135.865724,17.2309211 C136.251621,17.2309211 136.612621,17.6690789 136.612621,18.0309211 L136.612621,19.1394737 C136.612621,19.4763158 136.175621,19.8618421 135.865724,19.8618421 L132.371034,19.8618421 C132.011345,19.8618421 131.650345,20.2506579 131.650345,20.6111842 L131.650345,27.4513158 C131.650345,27.7848684 131.239552,28.2 130.906069,28.2 L129.543966,28.2 C129.236034,28.2 128.825241,27.7598684 128.825241,27.4513158 L128.825241,10.5203947 C128.825241,10.1072368 129.131862,9.77236842 129.543966,9.77236842 L136.457345,9.77236842 C136.894345,9.77236842 137.202276,10.0828947 137.202276,10.5203947 L137.202276,11.6822368 C137.202276,12.0710526 136.81769,12.4046053 136.457345,12.4046053" id="Fill-5" fill="#4F5355"></path> <path d="M148.226862,28.2 L146.710138,28.2 C146.170931,28.2 145.888552,27.9421053 145.734586,27.4513158 L143.780862,21.3861842 C143.602655,20.8697368 143.396276,20.6631579 142.830862,20.6631579 L142.573379,20.6631579 C142.085276,20.6631579 141.827138,20.8967105 141.827138,21.3861842 L141.827138,27.4763158 C141.827138,27.8894737 141.520517,28.2 141.107759,28.2 L139.695207,28.2 C139.258207,28.2 139.000069,27.8894737 139.000069,27.4763158 L139.000069,10.5217105 C139.000069,10.1328947 139.334862,9.77236842 139.721414,9.77236842 L143.472931,9.77236842 C146.890966,9.77236842 148.714966,11.6039474 148.714966,15.0375 C148.714966,17.1019737 148.099103,18.5980263 146.838552,19.5019737 C146.403517,19.8105263 146.299345,19.9927632 146.427759,20.4322368 L148.714966,27.4513158 C148.844034,27.8388158 148.612759,28.2 148.226862,28.2 M142.88131,12.4046053 L142.573379,12.4046053 C142.161931,12.4046053 141.827138,12.7401316 141.827138,13.1526316 L141.827138,17.2822368 C141.827138,17.6947368 142.161931,18.0296053 142.573379,18.0296053 L142.88131,18.0296053 C145.041414,18.0296053 145.786345,17.2822368 145.786345,15.1914474 C145.786345,13.1282895 145.041414,12.4046053 142.88131,12.4046053" id="Fill-6" fill="#4F5355"></path> <path d="M159.509586,27.4763158 C159.509586,27.8894737 159.176103,28.2 158.763345,28.2 L151.927931,28.2 C151.542034,28.2 151.182345,27.8894737 151.182345,27.4763158 L151.182345,10.5203947 C151.182345,10.1848684 151.593793,9.77236842 151.927931,9.77236842 L158.763345,9.77236842 C159.252103,9.77236842 159.484034,10.0302632 159.484034,10.5203947 L159.484034,11.6822368 C159.484034,12.1210526 159.252103,12.4046053 158.789552,12.4046053 L154.755655,12.4046053 C154.240034,12.4046053 154.008759,12.7664474 154.008759,13.2559211 L154.008759,16.5078947 C154.008759,16.9480263 154.344207,17.2309211 154.755655,17.2309211 L158.17369,17.2309211 C158.636241,17.2309211 158.892414,17.5401316 158.892414,17.9796053 L158.892414,19.1394737 C158.892414,19.5276316 158.558276,19.8618421 158.17369,19.8618421 L154.728793,19.8618421 C154.318655,19.8618421 154.03431,20.2230263 154.03431,20.6381579 L154.03431,24.8190789 C154.03431,25.2572368 154.266241,25.5677632 154.728793,25.5677632 L158.763345,25.5677632 C159.148586,25.5677632 159.509586,25.9526316 159.509586,26.3401316 L159.509586,27.4763158" id="Fill-7" fill="#4F5355"></path> <g id="Group-12"> <mask id="mask-2" fill="white"> <use xlink:href="#path-1"></use> </mask> <g id="Clip-9"></g> <path d="M170.148931,27.4763158 C170.148931,27.8894737 169.814793,28.2 169.40269,28.2 L162.567276,28.2 C162.181379,28.2 161.821034,27.8894737 161.821034,27.4763158 L161.821034,10.5203947 C161.821034,10.1848684 162.231828,9.77236842 162.567276,9.77236842 L169.40269,9.77236842 C169.892103,9.77236842 170.123379,10.0302632 170.123379,10.5203947 L170.123379,11.6822368 C170.123379,12.1210526 169.892103,12.4046053 169.429552,12.4046053 L165.395,12.4046053 C164.880034,12.4046053 164.648103,12.7664474 164.648103,13.2559211 L164.648103,16.5078947 C164.648103,16.9480263 164.981586,17.2309211 165.395,17.2309211 L168.812379,17.2309211 C169.274276,17.2309211 169.531759,17.5401316 169.531759,17.9796053 L169.531759,19.1394737 C169.531759,19.5276316 169.197621,19.8618421 168.812379,19.8618421 L165.367483,19.8618421 C164.95669,19.8618421 164.67431,20.2230263 164.67431,20.6381579 L164.67431,24.8190789 C164.67431,25.2572368 164.905586,25.5677632 165.367483,25.5677632 L169.40269,25.5677632 C169.787276,25.5677632 170.148931,25.9526316 170.148931,26.3401316 L170.148931,27.4763158" id="Fill-8" fill="#4F5355" mask="url(#mask-2)"></path> <path d="M59.0886897,24.4368421 C58.9353793,22.825 58.4662759,22.1052632 58.1432759,20.4546053 C57.5031724,18.2868421 55.4059655,13.5019737 52.7826552,10.5552632 C51.524069,9.14473684 50.4810345,7.89605263 49.2211379,6.77105263 C48.453931,6.3625 47.6356207,5.61644737 46.8081379,5.225 C43.8231724,3.81315789 40.6672069,1.75263158 37.5944483,0.775 C27.1012069,-0.453289474 25.577931,0.115789474 25.0288966,0.235526316 C24.5231034,0.347368421 23.769,0.6 23.56,0.624342105 C19.038,1.16381579 15.6841724,3.38026316 11.7957241,6.55328947 C9.49737931,8.43026316 6.86162069,10.1203947 4.91313793,12.6578947 C4.88889655,12.7 4.86203448,12.7421053 4.84041379,12.7822368 C2.29965517,17.3164474 2.30489655,18.4032895 1.54751724,20.8486842 C1.45710345,21.1467105 1.37062069,21.4447368 1.292,21.7401316 C0.934931034,23.8532895 0.0321034483,26.0217105 0,28.3276316 C0,28.3276316 0.0321034483,28.4539474 0.202448276,28.4539474 C0.373448276,28.4539474 1.73882759,28.3730263 2.5912069,28.3763158 C3.44293103,28.3835526 8.15296552,28.5269737 8.91427586,28.5164474 C9.67558621,28.5098684 15.3605172,28.3171053 16.3616207,28.3032895 C17.3601034,28.2855263 19.7455862,28.3098684 19.7455862,28.3098684 C19.9585172,27.4552632 20.516069,26.3407895 20.7316207,25.8184211 C21.128,24.8611842 21.4765517,24.1546053 22.1612069,23.4473684 C23.3274138,22.2309211 24.8284138,21.6164474 26.3385862,20.8052632 C27.3305172,20.2723684 28.5445517,20.2493421 29.731069,20.2493421 C31.3178966,20.2493421 32.8844138,20.7914474 34.2727241,21.3322368 C35.5738966,21.8381579 36.0744483,22.2947368 36.9956207,23.2684211 C37.711069,24.0256579 38.4396207,24.9223684 38.9676897,25.9690789 C39.3188621,26.6631579 39.3575172,28.0125 39.5697931,28.3276316 C39.5697931,28.3276316 44.7011034,28.5164474 46.9804483,28.4256579 C49.2650345,28.3348684 52.4039655,28.2434211 53.6946552,28.2434211 C54.9846897,28.2434211 55.3325862,28.3276316 56.5675862,28.3276316 C57.5031724,28.3276316 58.6746207,28.3730263 59.143069,28.3730263 C59.2957241,28.3730263 59.3016207,28.3276316 59.3016207,28.3276316 C59.4621379,27.5144737 59.1673103,25.2552632 59.0886897,24.4368421" id="Fill-10" fill="#F7C054" mask="url(#mask-2)"></path> <path d="M59.3684483,30.9348684 C59.3684483,30.9348684 59.2970345,30.875 59.1712414,30.8572368 C58.9288276,30.8296053 58.485931,30.8368421 57.9676897,30.8368421 C57.1834483,30.8368421 55.9681034,30.8855263 53.2773103,30.8855263 C50.5852069,30.8855263 44.2621379,31.2328947 40.9240345,30.8855263 C38.9054483,30.6756579 34.7568966,30.8993421 32.9158621,30.9348684 C32.1892759,30.9453947 23.56,30.8052632 21.9286207,30.8993421 C20.7263793,30.9697368 17.3574828,31.3375 7.23048276,30.8368421 C5.26824138,30.7381579 1.13737931,30.8401316 0.235862069,30.8789474 C0.121206897,30.8822368 0.0583103448,30.9842105 0.0583103448,30.9842105 C0.212931034,34.5296053 1.47217241,38.0690789 2.30162069,41.5421053 C2.337,41.6368421 2.37041379,41.7236842 2.40906897,41.8190789 C4.00965517,45.8901316 7.20558621,50 7.52006897,50 C7.81882759,50 14.4937241,44.6256579 15.6232414,43.6473684 C17.4557586,42.0605263 19.5326552,40.2348684 21.3926897,38.6052632 C22.42,37.7046053 23.1505172,36.7407895 24.0815172,35.9210526 C24.9306207,35.175 25.7233793,34.4776316 26.429,33.8539474 C28.4174483,32.0986842 29.731069,30.9348684 29.731069,30.9348684 C29.731069,30.9348684 32.1552069,33.2401316 32.737,33.7592105 C34.0538966,34.9296053 35.0471379,36.1388158 36.2782069,37.2348684 C38.1834483,38.9276316 38.877931,39.2118421 39.8731379,40.0875 C40.5761379,40.7046053 42.2265172,41.9552632 42.670069,42.3440789 C47.3067241,46.4059211 51.448069,49.9921053 51.6302069,49.9967105 C51.927,50 52.7092759,48.6973684 53.070931,48.2875 C54.2515517,46.6368421 55.6824483,45.1861842 56.6704483,42.7230263 C58.1675172,38.9907895 59.6757241,32.9111842 59.3684483,30.9348684" id="Fill-11" fill="#DC4038" mask="url(#mask-2)"></path> </g> <path d="M77.6602069,35.9861842 L74.7944828,35.9861842 C74.5238966,35.9861842 74.3076897,36.2756579 74.3076897,36.5282895 L74.3076897,38.8631579 C74.3076897,39.1177632 74.5422414,39.3710526 74.7944828,39.3710526 L77.2454828,39.3710526 C77.516069,39.3710526 77.7683103,39.6782895 77.7683103,39.9309211 L77.7683103,40.7098684 C77.7683103,40.9447368 77.4616897,41.2157895 77.2454828,41.2157895 L74.7944828,41.2157895 C74.5422414,41.2157895 74.29,41.4888158 74.29,41.7414474 L74.29,46.5381579 C74.29,46.7736842 74.001069,47.0625 73.7671724,47.0625 L72.811931,47.0625 C72.5957241,47.0625 72.3067931,46.7552632 72.3067931,46.5381579 L72.3067931,34.6644737 C72.3067931,34.375 72.523,34.1401316 72.811931,34.1401316 L77.6602069,34.1401316 C77.9668276,34.1401316 78.1830345,34.3572368 78.1830345,34.6644737 L78.1830345,35.4789474 C78.1830345,35.7513158 77.9131034,35.9861842 77.6602069,35.9861842" id="Fill-13" fill="#A9AAA9"></path> <path d="M86.4572069,38.3032895 C86.4572069,36.4565789 86.0601724,35.8230263 84.9424483,35.8230263 C83.8070345,35.8230263 83.429,36.4565789 83.429,38.3032895 L83.429,42.9368421 C83.429,44.7638158 83.7893448,45.3973684 84.9424483,45.3973684 C86.0601724,45.3973684 86.4572069,44.7638158 86.4572069,42.9368421 L86.4572069,38.3032895 Z M87.7367586,46.0131579 C87.1058276,46.8453947 86.1505862,47.2618421 84.9424483,47.2618421 C83.7356207,47.2618421 82.7076552,46.8092105 82.1671379,46.0131579 C81.6259655,45.2532895 81.4281034,44.4203947 81.4281034,42.9546053 L81.4281034,38.2657895 C81.4281034,36.8013158 81.6443103,35.8953947 82.1671379,35.1894737 C82.7613793,34.375 83.698931,33.9585526 84.9424483,33.9585526 C86.1505862,33.9585526 87.1778966,34.3927632 87.7367586,35.1894737 C88.2595862,35.9493421 88.4757931,36.8013158 88.4757931,38.2657895 L88.4757931,42.9546053 C88.4757931,44.4203947 88.2595862,45.3072368 87.7367586,46.0131579 L87.7367586,46.0131579 Z" id="Fill-14" fill="#A9AAA9"></path> <path d="M98.5877241,46.1223684 C97.9928276,46.8815789 97.0913103,47.2796053 95.9382069,47.2618421 C94.7844483,47.2440789 93.8115172,46.8631579 93.2703448,46.1223684 C92.7114828,45.3434211 92.5306552,44.5467105 92.5306552,42.9184211 L92.5306552,34.6644737 C92.5306552,34.3927632 92.7475172,34.1401316 93.0357931,34.1401316 L93.9910345,34.1401316 C94.3153448,34.1401316 94.5138621,34.3388158 94.5138621,34.6644737 L94.5138621,43.2256579 C94.5138621,44.7638158 94.9285862,45.3973684 95.9382069,45.3973684 C96.9478276,45.3973684 97.3435517,44.7815789 97.3435517,43.2256579 L97.3435517,34.6644737 C97.3435517,34.3572368 97.5597586,34.1401316 97.8663793,34.1401316 L98.803931,34.1401316 C99.1098966,34.1401316 99.3267586,34.3927632 99.3267586,34.6822368 L99.3267586,42.8993421 C99.3267586,44.5644737 99.1465862,45.4151316 98.5877241,46.1223684" id="Fill-15" fill="#A9AAA9"></path> <path d="M110.268138,47.0625 L109.294552,47.0625 C108.934862,47.0625 108.699655,46.8453947 108.573862,46.5381579 L105.779552,39.8052632 C105.671448,39.5519737 105.563345,39.5703947 105.563345,39.8052632 L105.563345,46.5381579 C105.563345,46.8453947 105.347138,47.0625 105.040517,47.0625 L104.067586,47.0625 C103.778655,47.0625 103.562448,46.8631579 103.562448,46.5565789 L103.562448,34.6644737 C103.562448,34.3572368 103.743276,34.1401316 104.067586,34.1401316 L105.040517,34.1401316 C105.365483,34.1401316 105.635414,34.3572368 105.761862,34.6460526 L108.573862,41.3973684 C108.681966,41.6519737 108.790069,41.6322368 108.790069,41.3973684 L108.790069,34.6644737 C108.790069,34.375 109.006276,34.1401316 109.294552,34.1401316 L110.268138,34.1401316 C110.574103,34.1401316 110.790966,34.3210526 110.790966,34.6460526 L110.790966,46.5565789 C110.790966,46.8092105 110.538724,47.0625 110.268138,47.0625" id="Fill-16" fill="#A9AAA9"></path> <path d="M119.984345,38.7375 C119.984345,36.6921053 119.479207,35.9861842 118.091552,35.9861842 L117.587069,35.9861842 C117.298138,35.9861842 117.099621,36.1855263 117.099621,36.4743421 L117.099621,44.8013158 C117.099621,45.0361842 117.316483,45.2164474 117.53269,45.2164474 L118.091552,45.2164474 C119.479207,45.2164474 119.984345,44.4927632 119.984345,42.4842105 L119.984345,38.7375 Z M118.253379,47.0625 L115.586172,47.0625 C115.297241,47.0625 115.117069,46.8276316 115.117069,46.5381579 L115.117069,34.6644737 C115.117069,34.4289474 115.333276,34.1401316 115.586172,34.1401316 L118.253379,34.1401316 C120.777103,34.1401316 121.984586,35.4427632 121.984586,38.1756579 L121.984586,43.0085526 C121.984586,45.7776316 120.777103,47.0625 118.253379,47.0625 L118.253379,47.0625 Z" id="Fill-17" fill="#A9AAA9"></path> <path d="M129.176414,37.1802632 C129.140379,37.0539474 128.996897,37.0184211 128.977897,37.1980263 L128.130759,41.9407895 C128.059345,42.2480263 128.293241,42.4111842 128.582172,42.4111842 L129.608828,42.4111842 C129.933793,42.4111842 130.095621,42.2480263 130.041897,41.9046053 L129.176414,37.1802632 Z M132.493552,47.0625 L131.53831,47.0625 C131.17731,47.0625 130.979448,46.8453947 130.925069,46.5381579 L130.564724,44.7815789 C130.492655,44.4565789 130.258103,44.2394737 129.933793,44.2394737 L128.221172,44.2394737 C127.933552,44.2394737 127.662966,44.5467105 127.626931,44.7815789 L127.283621,46.5565789 C127.212207,46.8631579 126.977655,47.0625 126.671034,47.0625 L125.734138,47.0625 C125.427517,47.0625 125.283379,46.8092105 125.337759,46.5381579 L127.626931,34.6282895 C127.680655,34.3032895 127.879172,34.1401316 128.221172,34.1401316 L129.933793,34.1401316 C130.294138,34.1401316 130.492655,34.3210526 130.564724,34.6644737 L132.943655,46.5381579 C132.998034,46.8631579 132.799517,47.0625 132.493552,47.0625 L132.493552,47.0625 Z" id="Fill-18" fill="#A9AAA9"></path> <path d="M141.487759,36.1480263 L140.02869,36.1480263 C139.739759,36.1480263 139.505862,36.3848684 139.505862,36.6736842 L139.505862,46.5565789 C139.505862,46.8276316 139.252966,47.0625 138.983034,47.0625 L138.008793,47.0625 C137.738862,47.0625 137.50431,46.8276316 137.50431,46.5565789 L137.50431,36.6559211 C137.50431,36.4026316 137.198345,36.1480263 136.981483,36.1480263 L135.522414,36.1480263 C135.251828,36.1480263 135.017276,35.8953947 135.017276,35.6236842 L135.017276,34.6460526 C135.017276,34.375 135.269517,34.1401316 135.522414,34.1401316 L141.487759,34.1401316 C141.776034,34.1401316 141.992897,34.3572368 141.992897,34.6460526 L141.992897,35.6421053 C141.992897,35.9309211 141.776034,36.1480263 141.487759,36.1480263" id="Fill-19" fill="#A9AAA9"></path> <path d="M147.075724,47.0625 L146.102793,47.0625 C145.849897,47.0625 145.59831,46.8453947 145.59831,46.5743421 L145.59831,34.6460526 C145.59831,34.3572368 145.814517,34.1401316 146.102793,34.1401316 L147.094069,34.1401316 C147.34631,34.1401316 147.598552,34.375 147.598552,34.6282895 L147.598552,46.5743421 C147.598552,46.8276316 147.328621,47.0625 147.075724,47.0625" id="Fill-20" fill="#A9AAA9"></path> <path d="M156.953759,38.3032895 C156.953759,36.4565789 156.556724,35.8230263 155.439,35.8230263 C154.303586,35.8230263 153.924897,36.4565789 153.924897,38.3032895 L153.924897,42.9368421 C153.924897,44.7638158 154.285241,45.3973684 155.439,45.3973684 C156.556724,45.3973684 156.953759,44.7638158 156.953759,42.9368421 L156.953759,38.3032895 Z M158.23331,46.0131579 C157.602379,46.8453947 156.647138,47.2618421 155.439,47.2618421 C154.231517,47.2618421 153.204207,46.8092105 152.66369,46.0131579 C152.122517,45.2532895 151.924655,44.4203947 151.924655,42.9546053 L151.924655,38.2657895 C151.924655,36.8013158 152.140862,35.8953947 152.66369,35.1894737 C153.257931,34.375 154.195483,33.9585526 155.439,33.9585526 C156.647138,33.9585526 157.673793,34.3927632 158.23331,35.1894737 C158.756138,35.9493421 158.972345,36.8013158 158.972345,38.2657895 L158.972345,42.9546053 C158.972345,44.4203947 158.756138,45.3072368 158.23331,46.0131579 L158.23331,46.0131579 Z" id="Fill-21" fill="#A9AAA9"></path> <path d="M169.82331,47.0625 L168.850379,47.0625 C168.490034,47.0625 168.255483,46.8453947 168.129034,46.5381579 L165.335379,39.8052632 C165.226621,39.5519737 165.118517,39.5703947 165.118517,39.8052632 L165.118517,46.5381579 C165.118517,46.8453947 164.90231,47.0625 164.596345,47.0625 L163.622759,47.0625 C163.334483,47.0625 163.118276,46.8631579 163.118276,46.5565789 L163.118276,34.6644737 C163.118276,34.3572368 163.298448,34.1401316 163.622759,34.1401316 L164.596345,34.1401316 C164.92131,34.1401316 165.191241,34.3572368 165.317034,34.6460526 L168.129034,41.3973684 C168.237138,41.6519737 168.345241,41.6322368 168.345241,41.3973684 L168.345241,34.6644737 C168.345241,34.375 168.561448,34.1401316 168.850379,34.1401316 L169.82331,34.1401316 C170.129931,34.1401316 170.346138,34.3210526 170.346138,34.6460526 L170.346138,46.5565789 C170.346138,46.8092105 170.093897,47.0625 169.82331,47.0625" id="Fill-22" fill="#A9AAA9"></path> </g> </g> </g> </svg></a> </div> <nav> <ul id="menu-header-large" class="header-large-menu"><li id="menu-item-25" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-25"><a href="https://www.walkfreefoundation.org/understand/">Understand</a></li><li id="menu-item-24" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-24"><a href="https://www.walkfreefoundation.org/advocate/">Advocate</a></li><li id="menu-item-23" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-23"><a href="https://www.walkfreefoundation.org/about-us/">About Us</a></li><li id="menu-item-22" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-22"><a href="https://www.walkfreefoundation.org/resources/">Resources</a></li><li id="menu-item-21" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-21"><a href="https://www.walkfreefoundation.org/news/">Media</a></li><li id="menu-item-20" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-20"><a href="https://www.walkfreefoundation.org/contact/">Contact</a></li></ul> <div class="site-header__mobile-toggle"> <a id="menu-toggle" class="hamburger-menu-toggle"><span></span></a> </div> </nav> </div> </header> <div class="viewport-wrapper"> <main class="site-content "> <section id="Policy" class="content-block "> <div class="content-block__row"> <header> <h1> <span class="small-text">Privacy</span> <span class="large-text">Policy</span> </h1> </header> <section class="content-block__single"> <p>INTRODUCTION</p><p>The Walk Free Foundation is a not-for-profit initiative that oversees the walkfreefoundation.org website. This policy explains how we use, disclose and protect the personal information of people who use our website or otherwise join or support the Walk Free Foundation in the ways described below. The Walk Free Foundation values and respects the privacy of our members.</p><p>WHAT INFORMATION DO WE COLLECT?</p><p>In order to use the Walk Free Foundation site, we may require information from you in order to provide the best service possible. All correspondence, including by email, may also be collected and stored, particularly in regard to donations.</p><p>HOW DO WE USE YOUR PERSONAL INFORMATION?</p><p>The Walk Free Foundation collects, holds, uses and discloses personal information where necessary for its operation, including staying in contact with you and letting you know of opportunities to take part in the fight against modern slavery, as well as for any secondary purpose that is reasonably related to this primary purpose. The Walk Free Foundation may also hold, use or disclose your personal information where you have expressly or implicitly consented to the holding, use or disclosure, or where the holding, use or disclosure is authorised or required by law. If the Walk Free Foundation wishes to hold, use or disclose your personal information in other circumstances, we will obtain your prior consent to do so. Further information about this is provided in the remainder of this policy.</p><p>WHEN MIGHT WE GIVE ANYONE ELSE ACCESS TO YOUR PERSONAL INFORMATION?</p><p>The Walk Free Foundation will not disclose your personal information to any third parties except: to our related companies, but only in exceptional circumstances; to third parties appointed by the Walk Free Foundation, including our contractors, website and data hosting providers, email or SMS providers, technology service providers, advertising partners, campaign partners and other persons who perform services for us – in which case, the Walk Free Foundation uses reasonable steps to ensure such third parties keep your personal information confidential and do not use or disclose your personal information for any purpose other than the purpose of providing those services to us; to our professional advisers, accountants, insurers, lawyers and auditors on a confidential basis; if the Walk Free Foundation or its assets are or may be acquired by a third party, the information may be provided to that third party and its advisors;</p><p>in exceptional circumstances, the Walk Free Foundation may be required or permitted by law to disclose personal information, for example when it is necessary for something you have requested from us and when necessary to protect someone’s safety, rights or property; or otherwise with your consent.</p><p>We do not hand our membership lists over to other groups. From time to time we might let you know about an exciting or important campaign being run by a partner organisation in the fight against modern day slavery. When we do this, the Walk Free Foundation will let you know, and will not hand over member information without consent and without securing a suitable written agreement with the other organisation for the proper use of this information.</p><p>The Walk Free Foundation may disclose your personal information to third parties located outside of the country in which your personal information is collected, if it is reasonably necessary for the Walk Free Foundation. The Walk Free Foundation will take reasonable steps to ensure that any foreign recipient protects your personal information in the manner provided in this policy. By providing the Walk Free Foundation with personal information, you consent to us disclosing personal information to a foreign recipient.</p><p>HOW CAN YOU STOP RECEIVING EMAIL FROM THE WALK FREE FOUNDATION?</p><p>If at any time you would like to unsubscribe from our email list, you may do so by clicking on the Unsubscribe link included in each of our emails or by emailing media@walkfreefoundation.org with “unsubscribe” in the subject heading and we will remove your name from our lists. We will act quickly to implement such requests but please note there may be time lags of up to a month to remove names from our database.</p><p>FINANCIAL TRANSACTIONS</p><p>If you make a financial transaction with the Walk Free Foundation, your credit card or other payment information will be used only for this transaction through our secure online payment system. The Walk Free Foundation does not retain payment information without your consent.</p><p>HOW DOES THE WALK FREE FOUNDATION KEEP YOUR INFORMATION SECURE?</p><p>The Walk Free Foundation endeavours to take all reasonable steps to keep secure any information that we hold about you, and to keep this information accurate and up to date. Your information is transmitted internationally to be stored on secure servers that are protected in controlled facilities. We require our employees and data processors to respect the confidentiality of any personal information.</p><p>WHAT TECHNOLOGIES DO WE USE TO ANALYSE TRAFFIC ON THE WALK FREE FOUNDATION WEBSITE?</p><p>Like most websites, we collect basic web traffic information (such as IP addresses) to monitor overall usage of our site. This helps us understand traffic patterns and know if there are problems on the site. Cookie technology is used on several parts of our website. Cookies are pieces of information that a website transfers to a computer, tablet or smartphone to analyse website usage and to facilitate transactions and a more personalised website experience. Most web browsers are set to accept cookies. If you do not wish to receive any cookies you may set your browser to refuse cookies. This may mean you will not be able to take full advantage of all the functions on the Walk Free Foundation website.</p><p>CHILDREN’S PRIVACY</p><p>We do not intend to solicit personally identifying information from children. Visitors who are under 13 years of age should ask their parent or guardian for guidance before they enter any personal information on our website.</p><p>GAINING ACCESS TO YOUR INFORMATION</p><p>If at any time you want to know exactly what personal information the Walk Free Foundation holds about you, you are welcome to request access to your record by e-mailing us at media@walkfreefoundation.org. As a standard procedure to protect anybody else gaining access to your personal information, we will ask for some proof of your identity before disclosing this information to you.</p><p>LINKS TO OTHER WEBSITES</p><p>The Walk Free Foundation website contains links to other websites. The Walk Free Foundation is not responsible for the practices or privacy policies of those sites.</p><p>FUTURE REVISIONS</p><p>The Walk Free Foundation’s website and activities will continue to grow and change. Because of this, from time to time, our privacy policy will be reviewed and revised. Whenever we change our privacy policy we will post an updated version on our website, including the last date of revision.</p><p>This privacy policy was last revised on 5 February 2016.</p><p>CONTACTING US</p><p>If you have any questions about how we handle your personal information and protect your privacy, please feel free to contact us at media@walkfreefoundation.org.</p> </section> </div> </section> </main> <section class="content-block site-footer"> <div class="content-block__row"> <header> <h1> <span class="small-text">connect</span> <span class="large-text">with us</span> </h1> </header> <section> <div class="site-footer__social"> <div> <h2>Social Media Links</h2> <ul> <li><a target="_blank" href="https://www.facebook.com/walkfreefoundation/"><i class="icon-facebook"></i></a></li> <li><a target="_blank" href="https://twitter.com/WalkFreeFdn"><i class="icon-twitter"></i></a></li> <li><a target="_blank" href="https://vimeo.com/minderoofoundation"><i class="icon-vimeo"></i></a></li> <li><a target="_blank" href="https://au.linkedin.com/company/walk-free"><i class="icon-linkedin"></i></a></li> </ul> </div> </div> <div class="site-footer__newsletter"> <div> <h2>Monthly Newsletter Sign Up</h2> <div class="gf_browser_unknown gform_wrapper" id="gform_wrapper_1"><a id="gf_1" class="gform_anchor"></a><form method="post" enctype="multipart/form-data" target="gform_ajax_frame_1" id="gform_1" action="/privacy-policy/#gf_1"> <div class="gform_heading"> <span class="gform_description"></span> </div> <div class="gform_body"><ul id="gform_fields_1" class="gform_fields top_label form_sublabel_below description_below"><li id="field_1_1" class="gfield field_sublabel_below field_description_below gfield_visibility_visible"><label class="gfield_label" for="input_1_1"></label><div class="ginput_container ginput_container_email"> <input name="input_1" id="input_1_1" type="email" value="" class="medium" placeholder="Email" aria-invalid="false"> </div></li><li id="field_1_2" class="gfield gform_validation_container field_sublabel_below field_description_below gfield_visibility_visible"><label class="gfield_label" for="input_1_2">Email</label><div class="ginput_container"><input name="input_2" id="input_1_2" type="text" value="" autocomplete="off"></div><div class="gfield_description">This field is for validation purposes and should be left unchanged.</div></li> </ul></div> <div class="gform_footer top_label"> <input type="submit" id="gform_submit_button_1" class="gform_button button" value="Sign Up" onclick="if(window[&quot;gf_submitting_1&quot;]){return false;} if( !jQuery(&quot;#gform_1&quot;)[0].checkValidity || jQuery(&quot;#gform_1&quot;)[0].checkValidity()){window[&quot;gf_submitting_1&quot;]=true;} " onkeypress="if( event.keyCode == 13 ){ if(window[&quot;gf_submitting_1&quot;]){return false;} if( !jQuery(&quot;#gform_1&quot;)[0].checkValidity || jQuery(&quot;#gform_1&quot;)[0].checkValidity()){window[&quot;gf_submitting_1&quot;]=true;} jQuery(&quot;#gform_1&quot;).trigger(&quot;submit&quot;,[true]); }"> <input type="hidden" name="gform_ajax" value="form_id=1&amp;title=&amp;description=1&amp;tabindex=0"> <input type="hidden" class="gform_hidden" name="is_submit_1" value="1"> <input type="hidden" class="gform_hidden" name="gform_submit" value="1"> <input type="hidden" class="gform_hidden" name="gform_unique_id" value=""> <input type="hidden" class="gform_hidden" name="state_1" value="WyJbXSIsIjI5ZDQzYjZkYTg0MWYyNTU2ZDQ4OWZjMDEwNjNkZDNlIl0="> <input type="hidden" class="gform_hidden" name="gform_target_page_number_1" id="gform_target_page_number_1" value="0"> <input type="hidden" class="gform_hidden" name="gform_source_page_number_1" id="gform_source_page_number_1" value="1"> <input type="hidden" name="gform_field_values" value=""> </div> </form> </div> <iframe style="display:none;width:0px;height:0px;" src="about:blank" name="gform_ajax_frame_1" id="gform_ajax_frame_1" title="Ajax Frame">This iframe contains the logic required to handle Ajax powered Gravity Forms.</iframe> <script type="text/javascript">jQuery(document).ready(function($){gformInitSpinner( 1, 'https://www.walkfreefoundation.org/content/plugins/gravityforms/images/spinner.gif' );jQuery('#gform_ajax_frame_1').on('load',function(){var contents = jQuery(this).contents().find('*').html();var is_postback = contents.indexOf('GF_AJAX_POSTBACK') >= 0;if(!is_postback){return;}var form_content = jQuery(this).contents().find('#gform_wrapper_1');var is_confirmation = jQuery(this).contents().find('#gform_confirmation_wrapper_1').length > 0;var is_redirect = contents.indexOf('gformRedirect(){') >= 0;var is_form = form_content.length > 0 && ! is_redirect && ! is_confirmation;if(is_form){jQuery('#gform_wrapper_1').html(form_content.html());if(form_content.hasClass('gform_validation_error')){jQuery('#gform_wrapper_1').addClass('gform_validation_error');} else {jQuery('#gform_wrapper_1').removeClass('gform_validation_error');}setTimeout( function() {  jQuery(document).scrollTop(jQuery('#gform_wrapper_1').offset().top); }, 50 );if(window['gformInitDatepicker']) {gformInitDatepicker();}if(window['gformInitPriceFields']) {gformInitPriceFields();}var current_page = jQuery('#gform_source_page_number_1').val();gformInitSpinner( 1, 'https://www.walkfreefoundation.org/content/plugins/gravityforms/images/spinner.gif' );jQuery(document).trigger('gform_page_loaded', [1, current_page]);window['gf_submitting_1'] = false;}else if(!is_redirect){var confirmation_content = jQuery(this).contents().find('.GF_AJAX_POSTBACK').html();if(!confirmation_content){confirmation_content = contents;}setTimeout(function(){jQuery('#gform_wrapper_1').replaceWith(confirmation_content);jQuery(document).scrollTop(jQuery('#gf_1').offset().top);jQuery(document).trigger('gform_confirmation_loaded', [1]);window['gf_submitting_1'] = false;}, 50);}else{jQuery('#gform_1').append(contents);if(window['gformRedirect']) {gformRedirect();}}jQuery(document).trigger('gform_post_render', [1, current_page]);} );} );</script><script type="text/javascript"> if(typeof gf_global == 'undefined') var gf_global = {"gf_currency_config":{"name":"U.S. Dollar","symbol_left":"$","symbol_right":"","symbol_padding":"","thousand_separator":",","decimal_separator":".","decimals":2},"base_url":"https:\/\/www.walkfreefoundation.org\/content\/plugins\/gravityforms","number_formats":[],"spinnerUrl":"https:\/\/www.walkfreefoundation.org\/content\/plugins\/gravityforms\/images\/spinner.gif"};jQuery(document).bind('gform_post_render', function(event, formId, currentPage){if(formId == 1) {if(typeof Placeholders != 'undefined'){Placeholders.enable();}} } );jQuery(document).bind('gform_post_conditional_logic', function(event, formId, fields, isInit){} );</script><script type="text/javascript"> jQuery(document).ready(function(){jQuery(document).trigger('gform_post_render', [1, 1]) } ); </script> </div> </div> <div class="site-footer__contact"> <div> <h2>Contact</h2> <p> <a href="mailto:info@walkfreefoundation.org">info@walkfreefoundation.org</a> </p> </div> </div> </section> </div> </section> <div class="initiative-bar"> <div class="initiative-bar__row"> <img src="https://cdn.walkfreefoundation.org/content/uploads/2018/01/30104936/initiative-logo.png" alt=""> </div> </div> <div class="footer-notice"> <div class="footer-notice__row"> <div class="footer-notice__copyright"> <p>© 2018 The Minderoo Foundation Pty Ltd. All rights reserved.</p> </div> <div class="footer_notice__links"> <ul id="menu-footer-links" class="footer-links"><li id="menu-item-73" class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-69 current_page_item menu-item-73"><a href="https://www.walkfreefoundation.org/privacy-policy/">Privacy Policy</a></li></ul> </div> </div> </div> </div> <script type="text/javascript" src="https://cdn.walkfreefoundation.org/content/plugins/ithemes-security-pro/core/modules/wordpress-tweaks/js/blankshield/blankshield.min.js"></script><script type="text/javascript" src="https://cdn.walkfreefoundation.org/content/plugins/ithemes-security-pro/core/modules/wordpress-tweaks/js/block-tabnapping.js"></script><script type="text/javascript" src="https://cdn.walkfreefoundation.org/content/themes/walkfreefoundation/assets/js/min/scripts-footer.min.js?v=4"></script><script type="text/javascript" src="https://cdn.walkfreefoundation.org/content/themes/walkfreefoundation/assets/js/vendor/stickyNavbar.js?v=3"></script><script type="text/javascript" src="https://cdn.walkfreefoundation.org/content/themes/walkfreefoundation/assets/js/min/manifest.js?v=3"></script><script type="text/javascript" src="https://cdn.walkfreefoundation.org/content/themes/walkfreefoundation/assets/js/min/vendor.js?v=3"></script><script type="text/javascript" src="https://cdn.walkfreefoundation.org/wp/wp-includes/js/wp-embed.min.js"></script><script type="text/javascript" src="https://cdn.walkfreefoundation.org/content/plugins/gravityforms/js/jquery.json.min.js"></script><script type="text/javascript" src="https://cdn.walkfreefoundation.org/content/plugins/gravityforms/js/gravityforms.min.js"></script><script type="text/javascript" src="https://cdn.walkfreefoundation.org/content/plugins/gravityforms/js/placeholders.jquery.min.js"></script> <script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","licenseKey":"19a9204e34","applicationID":"164532941","transactionName":"ZF0AYxFQW0sEUExbDF0XI1QXWFpWSkNZVQY=","queueTime":0,"applicationTime":1780,"atts":"SBoDFVlKSEU=","errorBeacon":"bam.nr-data.net","agent":""}</script></body></html>
+<!DOCTYPE html><html lang="en-US"><head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Privacy Policy | The Minderoo Foundation</title>
+            <meta name="description" value="Intro Text Here">
+            <script async="" src="https://www.googletagmanager.com/gtag/js?id=UA-82069103-1"></script>
+    <script>
+        window.dataLayer = window.dataLayer || [];
+        function gtag() {dataLayer.push(arguments);}
+        gtag('js', new Date());
+        gtag('config', 'UA-82069103-1');
+    </script>
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" type="text/css">
+    <script src="https://www.google.com/recaptcha/api.js" async="" defer=""></script>
+    <link rel="dns-prefetch" href="//s.w.org">
+<link rel="stylesheet" id="wp-block-library-css" href="https://www.minderoo.com.au/wp/wp-includes/css/dist/block-library/style.min.css?ver=5.0.3" type="text/css" media="all">
+<link rel="stylesheet" id="site-css" href="https://www.minderoo.com.au/content/themes/minderoo/css/1f7600a78347eca1f4125b0bf61f39df.css?ver=5.0.3" type="text/css" media="all">
+<script type="text/javascript" src="https://www.minderoo.com.au/wp/wp-includes/js/jquery/jquery.js?ver=1.12.4"></script>
+<script type="text/javascript" src="https://www.minderoo.com.au/wp/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.4.1"></script>
+<script type="text/javascript" src="https://www.minderoo.com.au/content/themes/minderoo/js/5d7df4a1c87a9e68a92282d844a49a3f.js?ver=5.0.3"></script>
+<link rel="https://api.w.org/" href="https://www.minderoo.com.au/wp-json/">
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://www.minderoo.com.au/wp/xmlrpc.php?rsd">
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="https://www.minderoo.com.au/wp/wp-includes/wlwmanifest.xml"> 
+<meta name="generator" content="WordPress 5.0.3">
+<link rel="canonical" href="https://www.minderoo.com.au/privacy-policy/">
+<link rel="shortlink" href="https://www.minderoo.com.au/?p=51">
+<link rel="alternate" type="application/json+oembed" href="https://www.minderoo.com.au/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.minderoo.com.au%2Fprivacy-policy%2F">
+<link rel="alternate" type="text/xml+oembed" href="https://www.minderoo.com.au/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.minderoo.com.au%2Fprivacy-policy%2F&amp;format=xml">
+</head>
+
+<body class="page-template-default page page-id-51 wp-embed-responsive">
+<header class="siteHeader">
+    <div class="siteHeader__container">
+        <a href="/home"><span class="siteHeader__logo"></span></a>
+        <div class="siteHeader__menuToggle">
+            <span class="siteHeader__menuToggleDot siteHeader__menuToggleDot--left"></span>
+            <span class="siteHeader__menuToggleDot siteHeader__menuToggleDot--right"></span>
+            <span class="siteHeader__menuToggleDot siteHeader__menuToggleDot--center"></span>
+            <span class="siteHeader__menuToggleDot siteHeader__menuToggleDot--inner"></span>
+            <span class="siteHeader__menuToggleDot siteHeader__menuToggleDot--cross"></span>
+        </div>
+        <nav class="siteHeader__nav">
+            <div class="siteHeader__navContent">
+                <div class="siteHeader__navContentLeft">
+                    <div class="siteHeader__navActionText">Evidence<br>to Action</div>
+                    <!--
+                    <div class="siteHeader__navSearch">
+                        <input class="siteHeader__navSearchInput" type="text" placeholder="search"/>
+                        <span class="siteHeader__navSearchIcon"></span>
+                        <span class="siteHeader__navSearchButton"></span>
+                    </div>
+                    -->
+                </div>
+                <div class="siteHeader__navContentRight">
+                    <ul class="siteHeader__navLinks">
+                                                    <li class="siteHeader__navLinksTitle">About
+                                <ul class="siteHeader__navLinks">
+                                                                            <li class="siteHeader__navLinksLink">
+                                            <a href="https://www.minderoo.com.au/about/">Who We Are</a>
+                                        </li>
+                                                                            <li class="siteHeader__navLinksLink">
+                                            <a href="https://www.minderoo.com.au/about/#history">Our History</a>
+                                        </li>
+                                                                            <li class="siteHeader__navLinksLink">
+                                            <a href="https://www.minderoo.com.au/about/#funding">Our Funding</a>
+                                        </li>
+                                                                    </ul>
+                            </li>
+                                                                            <li class="siteHeader__navLinksTitle">Projects
+                                <ul class="siteHeader__navLinks">
+                                                                            <li class="siteHeader__navLinksLink">
+                                            <a href="https://www.minderoo.com.au/early-stage/">Early Stage</a>
+                                        </li>
+                                                                            <li class="siteHeader__navLinksLink">
+                                            <a href="https://www.minderoo.com.au/on-the-ground/">On the Ground</a>
+                                        </li>
+                                                                            <li class="siteHeader__navLinksLink">
+                                            <a href="https://www.minderoo.com.au/policy/">Policy</a>
+                                        </li>
+                                                                    </ul>
+                            </li>
+                                                                            <li class="siteHeader__navLinksTitle">Initiatives
+                                <ul class="siteHeader__navLinks">
+                                                                            <li class="siteHeader__navLinksLink">
+                                            <a href="https://www.minderoo.com.au/building-communities/">Building Communities</a>
+                                        </li>
+                                                                            <li class="siteHeader__navLinksLink">
+                                            <a href="https://www.minderoo.com.au/eliminate-cancer/">Eliminate Cancer</a>
+                                        </li>
+                                                                            <li class="siteHeader__navLinksLink">
+                                            <a href="https://www.minderoo.com.au/flourishing-oceans/">Flourishing Oceans</a>
+                                        </li>
+                                                                            <li class="siteHeader__navLinksLink">
+                                            <a href="https://www.minderoo.com.au/generation-one/">Generation One</a>
+                                        </li>
+                                                                            <li class="siteHeader__navLinksLink">
+                                            <a href="https://www.minderoo.com.au/research-and-innovation/">Research &amp; Innovation</a>
+                                        </li>
+                                                                            <li class="siteHeader__navLinksLink">
+                                            <a href="https://www.minderoo.com.au/thrive-by-five/">Thrive By Five</a>
+                                        </li>
+                                                                            <li class="siteHeader__navLinksLink">
+                                            <a href="https://www.minderoo.com.au/walk-free/">Walk Free</a>
+                                        </li>
+                                                                    </ul>
+                            </li>
+                                            </ul>
+                    <div class="siteHeader__navContentRightFooter">
+                                                    <div class="siteHeader__navContact">+61 8 6460 4949
+<br>hello@minderoo.com.au
+<br>PO Box 3155, Broadway Nedlands, WA 6009</div>
+                                            </div>
+                </div>
+            </div>
+        </nav>
+    </div>
+</header>
+<style type="text/css" media="screen">.sitePage .suid-0{padding-bottom:56.25%;}.sitePage .suid-1{margin:0 0 50px 0;}.sitePage .suid-2{margin:0 0 50px 0;}.sitePage .suid-3{margin:0 0 20px 0;}.sitePage .suid-4{padding:0 20px 50px 0;}.sitePage .suid-5{margin:0 0 20px 0;}.sitePage .suid-6{margin:0 0 50px 0;}.sitePage .suid-7{margin:0 0 20px 0;}.sitePage .suid-8{margin:0 0 50px 0;}.sitePage .suid-9{margin:0 0 20px 0;}.sitePage .suid-10{margin:0 0 50px 0;}.sitePage .suid-11{margin:0 0 20px 0;}.sitePage .suid-12{margin:0 0 50px 0;}.sitePage .suid-13{margin:0 0 20px 0;}.sitePage .suid-14{margin:0 0 50px 0;}.sitePage .suid-15{margin:0 0 20px 0;}.sitePage .suid-16{margin:0 0 50px 0;}.sitePage .suid-17{margin:0 0 20px 0;}.sitePage .suid-18{margin:0 0 50px 0;}.sitePage .suid-19{margin:0 0 20px 0;}.sitePage .suid-20{margin:0 0 50px 0;}.sitePage .suid-21{margin:0 0 20px 0;}.sitePage .suid-22{margin:0 0 50px 0;}.sitePage .suid-23{margin:0 0 20px 0;}.sitePage .suid-24{margin:0 0 50px 0;}.sitePage .suid-25{margin:0 0 20px 0;}.sitePage .suid-26{margin:0 0 50px 0;}.sitePage .suid-27{margin:0 0 20px 0;}.sitePage .suid-28{margin:0 0 50px 0;}.sitePage .suid-29{margin:0 0 20px 0;}.sitePage .suid-30{margin:0 0 50px 0;}.sitePage .suid-31{margin:0 0 20px 0;}.sitePage .suid-32{margin:0 0 50px 0;}.sitePage .suid-33{margin:0 0 20px 0;}.sitePage .suid-34{margin:50px 0 20px 0;}.sitePage .suid-35{margin:0 0 50px 0;}.sitePage .suid-36{margin:0 0 20px 0;}.sitePage .suid-37{margin:0 0 50px 0;}.sitePage .suid-38{margin:0 0 20px 0;}.sitePage .suid-39{margin:0 0 50px 0;}.sitePage .suid-40{margin:0 0 20px 0;}.sitePage .suid-41{margin:0 0 50px 0;}.sitePage .suid-44{padding:0 20px 100px 20px;}@media (min-width: 769px){.sitePage .suid-1{margin:0 0 100px 0;}.sitePage .suid-2{margin:0 0 100px 0;}.sitePage .suid-3{margin:0 0 20px 0;}.sitePage .suid-4{padding:0 50px 100px 0;}.sitePage .suid-5{margin:0 0 20px 0;}.sitePage .suid-6{margin:0 0 100px 0;}.sitePage .suid-7{margin:0 0 20px 0;}.sitePage .suid-8{margin:0 0 100px 0;}.sitePage .suid-9{margin:0 0 20px 0;}.sitePage .suid-10{margin:0 0 100px 0;}.sitePage .suid-11{margin:0 0 20px 0;}.sitePage .suid-12{margin:0 0 100px 0;}.sitePage .suid-13{margin:0 0 20px 0;}.sitePage .suid-14{margin:0 0 100px 0;}.sitePage .suid-15{margin:0 0 20px 0;}.sitePage .suid-16{margin:0 0 100px 0;}.sitePage .suid-17{margin:0 0 20px 0;}.sitePage .suid-18{margin:0 0 100px 0;}.sitePage .suid-19{margin:0 0 20px 0;}.sitePage .suid-20{margin:0 0 100px 0;}.sitePage .suid-21{margin:0 0 20px 0;}.sitePage .suid-22{margin:0 0 100px 0;}.sitePage .suid-23{margin:0 0 20px 0;}.sitePage .suid-24{margin:0 0 100px 0;}.sitePage .suid-25{margin:0 0 20px 0;}.sitePage .suid-26{margin:0 0 100px 0;}.sitePage .suid-27{margin:0 0 20px 0;}.sitePage .suid-28{margin:0 0 100px 0;}.sitePage .suid-29{margin:0 0 20px 0;}.sitePage .suid-30{margin:0 0 100px 0;}.sitePage .suid-31{margin:0 0 20px 0;}.sitePage .suid-32{margin:0 0 100px 0;}.sitePage .suid-33{margin:0 0 20px 0;}.sitePage .suid-34{margin:100px 0 20px 0;}.sitePage .suid-35{margin:0 0 100px 0;}.sitePage .suid-36{margin:0 0 20px 0;}.sitePage .suid-37{margin:0 0 100px 0;}.sitePage .suid-38{margin:0 0 20px 0;}.sitePage .suid-39{margin:0 0 100px 0;}.sitePage .suid-40{margin:0 0 20px 0;}.sitePage .suid-41{margin:0 0 100px 0;}.sitePage .suid-44{padding:0 50px 150px 50px;}}@media (min-width: 1324px){.sitePage .suid-1{margin:0 0 100px 0;}.sitePage .suid-2{margin:0 0 100px 0;}.sitePage .suid-3{margin:0 0 20px 0;}.sitePage .suid-4{padding:0 50px 100px 0;}.sitePage .suid-5{margin:0 0 20px 0;}.sitePage .suid-6{margin:0 0 100px 0;}.sitePage .suid-7{margin:0 0 20px 0;}.sitePage .suid-8{margin:0 0 100px 0;}.sitePage .suid-9{margin:0 0 20px 0;}.sitePage .suid-10{margin:0 0 100px 0;}.sitePage .suid-11{margin:0 0 20px 0;}.sitePage .suid-12{margin:0 0 100px 0;}.sitePage .suid-13{margin:0 0 20px 0;}.sitePage .suid-14{margin:0 0 100px 0;}.sitePage .suid-15{margin:0 0 20px 0;}.sitePage .suid-16{margin:0 0 100px 0;}.sitePage .suid-17{margin:0 0 20px 0;}.sitePage .suid-18{margin:0 0 100px 0;}.sitePage .suid-19{margin:0 0 20px 0;}.sitePage .suid-20{margin:0 0 100px 0;}.sitePage .suid-21{margin:0 0 20px 0;}.sitePage .suid-22{margin:0 0 100px 0;}.sitePage .suid-23{margin:0 0 20px 0;}.sitePage .suid-24{margin:0 0 100px 0;}.sitePage .suid-25{margin:0 0 20px 0;}.sitePage .suid-26{margin:0 0 100px 0;}.sitePage .suid-27{margin:0 0 20px 0;}.sitePage .suid-28{margin:0 0 100px 0;}.sitePage .suid-29{margin:0 0 20px 0;}.sitePage .suid-30{margin:0 0 100px 0;}.sitePage .suid-31{margin:0 0 20px 0;}.sitePage .suid-32{margin:0 0 100px 0;}.sitePage .suid-33{margin:0 0 20px 0;}.sitePage .suid-34{margin:100px 0 20px 0;}.sitePage .suid-35{margin:0 0 100px 0;}.sitePage .suid-36{margin:0 0 20px 0;}.sitePage .suid-37{margin:0 0 100px 0;}.sitePage .suid-38{margin:0 0 20px 0;}.sitePage .suid-39{margin:0 0 100px 0;}.sitePage .suid-40{margin:0 0 20px 0;}.sitePage .suid-41{margin:0 0 100px 0;}.sitePage .suid-42{padding:0 20px 0 20px;}.sitePage .suid-43{margin:0 0 100px 0;}.sitePage .suid-44{padding:0 20px 150px 20px;}}</style><section class="sitePage"><div class="minderooRow suid-1">
+<div class="minderooRow__container">
+<div class="minderooRow__stylesWrapper">
+<div class="minderooImage">
+<div class="minderooImage__container">
+<div class="minderooImage__styleWrapper"><span class="minderooImage__imageContainer suid-0"><span class="minderooImage__imageWrapper"><img src="https://cdn.minderoo.com.au/content/uploads/2019/02/17184451/ozan-safak-484829-unsplash-100x56.jpg" srcset="https://cdn.minderoo.com.au/content/uploads/2019/02/17184451/ozan-safak-484829-unsplash-100x56.jpg 100w,https://cdn.minderoo.com.au/content/uploads/2019/02/17184451/ozan-safak-484829-unsplash-200x112.jpg 200w,https://cdn.minderoo.com.au/content/uploads/2019/02/17184451/ozan-safak-484829-unsplash-400x225.jpg 400w,https://cdn.minderoo.com.au/content/uploads/2019/02/17184451/ozan-safak-484829-unsplash-800x450.jpg 800w,https://cdn.minderoo.com.au/content/uploads/2019/02/17184451/ozan-safak-484829-unsplash-1000x562.jpg 1000w,https://cdn.minderoo.com.au/content/uploads/2019/02/17184451/ozan-safak-484829-unsplash-1600x900.jpg 1600w,https://cdn.minderoo.com.au/content/uploads/2019/02/17184451/ozan-safak-484829-unsplash-2000x1125.jpg 2000w" sizes="(min-width: 1000px) calc(1260px - 0px), calc(90vw - 0px)" alt="Man walking in front of a wall covered in news"></span></span></div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="minderooRow">
+<div class="minderooRow__container">
+<div class="minderooRow__stylesWrapper suid-44">
+<div class="minderooHeading suid-2">
+<div class="minderooHeading__container">
+<div class="minderooHeading__styleWrapper">
+<h2>Privacy Policy</h2>
+</div>
+</div>
+</div>
+<div class="minderooColumns minderooColumns--layout2 minderooColumns--unstackedDesktop minderooColumns--unstackedTablet minderooColumns--stackedMobile suid-43">
+<div class="minderooColumns__container">
+<div class="minderooColumns__styleWrapper">
+<div class="minderooColumns__column">
+<div class="minderooColumn__styleWrapper suid-4">
+<div class="minderooParagraph minderooParagraph--sizeJumbo suid-3">
+<div class="minderooParagraph__container">
+<div class="minderooParagraph__styleWrapper">
+<p>You can read the full details of our privacy policy below. As a quick summary:</p>
+</div>
+</div>
+</div>
+<div class="minderooParagraph minderooParagraph--sizeLarge">
+<div class="minderooParagraph__container">
+<div class="minderooParagraph__styleWrapper">
+<p>If we ask for your personal information, we only ask for personal information that we need.</p>
+</div>
+</div>
+</div>
+<div class="minderooParagraph minderooParagraph--sizeLarge">
+<div class="minderooParagraph__container">
+<div class="minderooParagraph__styleWrapper">
+<p>If you give us your personal information, we will treat it in accordance with our privacy policy.</p>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="minderooColumns__column">
+<div class="minderooColumn__styleWrapper suid-42">
+<div class="minderooHeading suid-5">
+<div class="minderooHeading__container">
+<div class="minderooHeading__styleWrapper">
+<h6>Who we are</h6>
+</div>
+</div>
+</div>
+<div class="minderooParagraph suid-6">
+<div class="minderooParagraph__container">
+<div class="minderooParagraph__styleWrapper">
+<p>This is the Privacy Policy of the Minderoo Foundation Pty Ltd as trustee for the Minderoo Foundation Trust (Minderoo). Our postal address is PO Box 3155, Broadway Nedlands, Western Australia, 6009.</p>
+</div>
+</div>
+</div>
+<div class="minderooHeading suid-7">
+<div class="minderooHeading__container">
+<div class="minderooHeading__styleWrapper">
+<h6>Our commitment to privacy of personal information</h6>
+</div>
+</div>
+</div>
+<div class="minderooParagraph">
+<div class="minderooParagraph__container">
+<div class="minderooParagraph__styleWrapper">
+<p>We are committed to managing personal information in accordance with the Australian Privacy Principles under the Privacy Act 1988 (Cth) and in accordance with other applicable privacy laws.</p>
+</div>
+</div>
+</div>
+<div class="minderooParagraph suid-8">
+<div class="minderooParagraph__container">
+<div class="minderooParagraph__styleWrapper">
+<p>This document sets out our policy for managing personal information and is referred to as our Privacy Policy.</p>
+</div>
+</div>
+</div>
+<div class="minderooHeading suid-9">
+<div class="minderooHeading__container">
+<div class="minderooHeading__styleWrapper">
+<h6>What we know about you from visiting our website</h6>
+</div>
+</div>
+</div>
+<div class="minderooParagraph">
+<div class="minderooParagraph__container">
+<div class="minderooParagraph__styleWrapper">
+<p>When you visit our website, our web server automatically records some general information about your visit. The information we record for statistical purposes is your server address, the date and time, the pages accessed and documents downloaded, the previous site visited, and the type of browser used. We may make these details available to third parties for the sole purpose of providing analysis of website traffic.</p>
+</div>
+</div>
+</div>
+<div class="minderooParagraph">
+<div class="minderooParagraph__container">
+<div class="minderooParagraph__styleWrapper">
+<p>We use information from visitors to our website to improve the content of our website and analyse what pages people visit.</p>
+</div>
+</div>
+</div>
+<div class="minderooParagraph suid-10">
+<div class="minderooParagraph__container">
+<div class="minderooParagraph__styleWrapper">
+<p>Cookies are only used on our website where required for website functionality. Disabling cookies should not affect your overall website experience. We do not collect or store personal or private information in any cookies originating from our website. However, Facebook and Google provide third party analytical services to us in respect of our website. A summary of information about how we use third party services and links is set out below. </p>
+</div>
+</div>
+</div>
+<div class="minderooHeading suid-11">
+<div class="minderooHeading__container">
+<div class="minderooHeading__styleWrapper">
+<h6>Google Analytics and remarketing</h6>
+</div>
+</div>
+</div>
+<div class="minderooParagraph">
+<div class="minderooParagraph__container">
+<div class="minderooParagraph__styleWrapper">
+<p>Our website uses:</p>
+</div>
+</div>
+</div>
+<ul>
+<li> Google Analytics: a service which transmits website traffic data to Google servers in the United States. We use reports provided by Google Analytics to help us understand website traffic and webpage usage.</li>
+<li> Google remarketing technology: a service which allows Google to display relevant content based on what pages on our website you have viewed. The content will be displayed using cookies. These cookies don’t record any personal information or identify you personally.</li>
+</ul>
+<div class="minderooParagraph suid-12">
+<div class="minderooParagraph__container">
+<div class="minderooParagraph__styleWrapper">
+<p>By using this website, you consent to the processing of data about you by Google for the purposes set out and in the manner described in Google’s data protection policy (which can be accessed here (https://www.google.com/intl/en/policies/privacy/)). You can opt out of Google Analytics if you disable or refuse the cookie, disable JavaScript, or use the opt out service provide by Google here (https://tools.google.com/dlpage/gaoptout).</p>
+</div>
+</div>
+</div>
+<div class="minderooHeading suid-13">
+<div class="minderooHeading__container">
+<div class="minderooHeading__styleWrapper">
+<h6>Facebook Conversion Tracking Pixel</h6>
+</div>
+</div>
+</div>
+<div class="minderooParagraph suid-14">
+<div class="minderooParagraph__container">
+<div class="minderooParagraph__styleWrapper">
+<p>We may from time to time use Facebook Advertising, Facebook Pixel Re-Marketing, and communications. This tool allows us to understand and deliver content and make it more relevant to you. The collected data remains anonymous and we cannot see the personal data of any individual user.<br> However, the collected data is saved and processed by Facebook. Facebook may be able to connect the data with your Facebook account and use the data for their own advertising purposes (in accordance with Facebook’s Data Use Policy found under: https://www.facebook.com/about/privacy/). Facebook has ultimate control of the information gathered through Facebook Advertising, Facebook Pixel Re-Marketing, and communications. You can opt-out of Facebook’s use of cookies and Facebook Pixel Re-Marketing through settings on your Facebook Account.<br></p>
+</div>
+</div>
+</div>
+<div class="minderooHeading suid-15">
+<div class="minderooHeading__container">
+<div class="minderooHeading__styleWrapper">
+<h6>Social Media</h6>
+</div>
+</div>
+</div>
+<div class="minderooParagraph suid-16">
+<div class="minderooParagraph__container">
+<div class="minderooParagraph__styleWrapper">
+<p>We also use interfaces with social media sites such as Facebook, LinkedIn, Twitter and others. If you choose to “like” or “share” information from this website through these services, you should review the privacy policy of that service. If you are a member of a social media site, the interfaces may allow the social media site to connect your visits to this site with other personal information.</p>
+</div>
+</div>
+</div>
+<div class="minderooHeading suid-17">
+<div class="minderooHeading__container">
+<div class="minderooHeading__styleWrapper">
+<h6>Links to third party websites</h6>
+</div>
+</div>
+</div>
+<div class="minderooParagraph">
+<div class="minderooParagraph__container">
+<div class="minderooParagraph__styleWrapper">
+<p>Our website may contain links to third-party websites. We are not responsible for the content of privacy practises of such third party websites.<br>
+How and why does Minderoo collect and use your information</p>
+</div>
+</div>
+</div>
+<div class="minderooParagraph">
+<div class="minderooParagraph__container">
+<div class="minderooParagraph__styleWrapper">
+<p>We collect personal information directly from you when you contact us, raise a general query or complaint with us, sign up to one of our mailing lists, or when we engage in our philanthropic activities with you. The purposes for which we usually collect and use personal information depends on the nature of your interaction with us, but may include: </p>
+</div>
+</div>
+</div>
+<ul>
+<li>Responding to requests for information and other general enquiries</li>
+<li>Informing you of activities and events with which we may have a connection</li>
+<li>Responding to enquiries and complaints</li>
+<li>When you apply for a career with us</li>
+<li>Collecting and processing a donation you have made.</li>
+</ul>
+<div class="minderooParagraph suid-18">
+<div class="minderooParagraph__container">
+<div class="minderooParagraph__styleWrapper">
+<p>The types of personal information we may collect when you interact with us in the ways set out above include your name and contact details, and other information relevant to the nature of that particular interaction.</p>
+</div>
+</div>
+</div>
+<div class="minderooHeading suid-19">
+<div class="minderooHeading__container">
+<div class="minderooHeading__styleWrapper">
+<h6>Research and partnerships</h6>
+</div>
+</div>
+</div>
+<div class="minderooParagraph">
+<div class="minderooParagraph__container">
+<div class="minderooParagraph__styleWrapper">
+<p>From time to time, we engage in research activities and collect data from individuals in an anonymised form.</p>
+</div>
+</div>
+</div>
+<div class="minderooParagraph suid-20">
+<div class="minderooParagraph__container">
+<div class="minderooParagraph__styleWrapper">
+<p>We also collect and receive data from overseas providers or research institutions that undertake research projects on our behalf. Again, the data we receive from these organisations is generally in an anonymised form.<br>
+On occasion we collect information about individuals through case studies or reports submitted to us from our partner organisations and from schools or universities who we provide scholarships. The types of personal information we receive in these circumstances includes name, address, date of birth, gender, photographs, academic records, employment records, income streams, family composition, health, disability information, culture and language.</p>
+</div>
+</div>
+</div>
+<div class="minderooHeading suid-21">
+<div class="minderooHeading__container">
+<div class="minderooHeading__styleWrapper">
+<h6>Third party suppliers</h6>
+</div>
+</div>
+</div>
+<div class="minderooParagraph suid-22">
+<div class="minderooParagraph__container">
+<div class="minderooParagraph__styleWrapper">
+<p>We collect and record personal information about individuals such as contractors and subcontractors and potential contractors and subcontractors and their representatives in relation to those service providers supplying goods and services to us.</p>
+</div>
+</div>
+</div>
+<div class="minderooHeading suid-23">
+<div class="minderooHeading__container">
+<div class="minderooHeading__styleWrapper">
+<h6>If you apply for a career with Minderoo</h6>
+</div>
+</div>
+</div>
+<div class="minderooParagraph">
+<div class="minderooParagraph__container">
+<div class="minderooParagraph__styleWrapper">
+<p>We collect personal information when recruiting personnel, such as your name, contact details, qualifications and work history. Generally, we will collect this information directly from you.</p>
+</div>
+</div>
+</div>
+<div class="minderooParagraph suid-24">
+<div class="minderooParagraph__container">
+<div class="minderooParagraph__styleWrapper">
+<p>We may also collect personal information from third parties (eg referees you have nominated). Before offering you a position we may collect additional details such as your tax file number, superannuation information and other information necessary to conduct background checks to determine your suitability for certain positions (eg police clearances or working with children checks).</p>
+</div>
+</div>
+</div>
+<div class="minderooHeading suid-25">
+<div class="minderooHeading__container">
+<div class="minderooHeading__styleWrapper">
+<h6>Your address</h6>
+</div>
+</div>
+</div>
+<div class="minderooParagraph">
+<div class="minderooParagraph__container">
+<div class="minderooParagraph__styleWrapper">
+<p>We do not know your email address unless you give it to us. We will only record your email address if you send us a message.</p>
+</div>
+</div>
+</div>
+<div class="minderooParagraph suid-26">
+<div class="minderooParagraph__container">
+<div class="minderooParagraph__styleWrapper">
+<p>If you supply us with your email address or postal address, we might send you information on new projects or upcoming events. If you do not wish to receive such mailings, please let us know by sending us an email to hello@minderoo.com.au.</p>
+</div>
+</div>
+</div>
+<div class="minderooHeading suid-27">
+<div class="minderooHeading__container">
+<div class="minderooHeading__styleWrapper">
+<h6>Images</h6>
+</div>
+</div>
+</div>
+<div class="minderooParagraph suid-28">
+<div class="minderooParagraph__container">
+<div class="minderooParagraph__styleWrapper">
+<p>If you are participating or attending an event we are managing or delivering, we may take images or audio-visual recordings which identify you. We may use those images or audio-visual recordings which identify you for promotional purposes.<br></p>
+</div>
+</div>
+</div>
+<div class="minderooHeading suid-29">
+<div class="minderooHeading__container">
+<div class="minderooHeading__styleWrapper">
+<h6>Marketing</h6>
+</div>
+</div>
+</div>
+<div class="minderooParagraph">
+<div class="minderooParagraph__container">
+<div class="minderooParagraph__styleWrapper">
+<p>You consent to us using your personal information for sending you information, including promotional material about us, as well as the products and services of our related entities and third parties, now and in the future.  You also consent to us sending you such information by means of direct mail, telemarketing, email, SMS and MMS messages.</p>
+</div>
+</div>
+</div>
+<div class="minderooParagraph">
+<div class="minderooParagraph__container">
+<div class="minderooParagraph__styleWrapper">
+<p>If you do not want to receive marketing information from us, you can unsubscribe in any of the following ways: by emailing us at hello@minderoo.com.au or by clicking on the “unsubscribe” link in an automated mailout that you have received from us.<br>
+Sensitive information</p>
+</div>
+</div>
+</div>
+<div class="minderooParagraph">
+<div class="minderooParagraph__container">
+<div class="minderooParagraph__styleWrapper">
+<p>In limited circumstances we may collect information which is considered sensitive information, eg if you are injured at an event promoted or delivered by us we may collect health information about you in an emergency or otherwise with your consent.<br>
+Can you deal with us anonymously</p>
+</div>
+</div>
+</div>
+<div class="minderooParagraph">
+<div class="minderooParagraph__container">
+<div class="minderooParagraph__styleWrapper">
+<p>You may choose to remain anonymous or use a pseudonym in your communications with us where it is lawful and practicable. Sometimes we may require your real name, for example where you are applying for a career with us. </p>
+</div>
+</div>
+</div>
+<div class="minderooParagraph suid-30">
+<div class="minderooParagraph__container">
+<div class="minderooParagraph__styleWrapper">
+<p>If you choose not to provide your personal information to us for the purposes set out in this Privacy Policy, we may not be able to provide you with requested information, products or services, or to effectively conduct our relationship with you. </p>
+</div>
+</div>
+</div>
+<div class="minderooHeading suid-31">
+<div class="minderooHeading__container">
+<div class="minderooHeading__styleWrapper">
+<h6>How do we hold information</h6>
+</div>
+</div>
+</div>
+<div class="minderooParagraph">
+<div class="minderooParagraph__container">
+<div class="minderooParagraph__styleWrapper">
+<p>We aim to keep your personal information secure. We endeavour to take reasonable steps to protect your personal information from misuse, interference and loss and from unauthorised access, modification or disclosure. We also endeavour to take reasonable steps to destroy or de-identify personal information that we no longer require.</p>
+</div>
+</div>
+</div>
+<div class="minderooParagraph">
+<div class="minderooParagraph__container">
+<div class="minderooParagraph__styleWrapper">
+<p>We maintain physical security over paper and electronic data stores such as through locks and security systems at our premises. We also maintain computer and network security such as firewalls to protect your personal information and to control access to our computer systems. </p>
+</div>
+</div>
+</div>
+<div class="minderooParagraph suid-32">
+<div class="minderooParagraph__container">
+<div class="minderooParagraph__styleWrapper">
+<p>We secure communications between your browser and our websites with SSL/HTTPS encryption wherever possible.   We encourage users of our website to exercise care in sending personal information via the internet. </p>
+</div>
+</div>
+</div>
+<div class="minderooHeading suid-33">
+<div class="minderooHeading__container">
+<div class="minderooHeading__styleWrapper">
+<h6>How do we use and disclose your information</h6>
+</div>
+</div>
+</div>
+<div class="minderooParagraph">
+<div class="minderooParagraph__container">
+<div class="minderooParagraph__styleWrapper">
+<p>We may use information that you provide to us internally and may share it with other people or organisations who need to know it as part of working with us in our normal business activities. For example we may disclose your personal information to:</p>
+</div>
+</div>
+</div>
+<ul>
+<li>Any of Minderoo’s internal divisions, business units or departments.</li>
+<li>Other organisations or individuals who assist us in providing products and services to you on our behalf.</li>
+<li>Representatives, agents or contractors who are appointed by us in the ordinary operation of our business to assist us in administering our business (such as for data storage or processing, printing, mailing, marketing, planning and product or service development).</li>
+</ul>
+<div class="minderooHeading suid-34">
+<div class="minderooHeading__container">
+<div class="minderooHeading__styleWrapper">
+<h6>Who has access to your information</h6>
+</div>
+</div>
+</div>
+<div class="minderooParagraph">
+<div class="minderooParagraph__container">
+<div class="minderooParagraph__styleWrapper">
+<p>We do not share your personal information with others except in accordance with this Privacy Policy or as permitted by the Privacy Act (including the Australian Privacy Principles) or other applicable privacy laws, and we do not sell your personal information to anyone for any purpose. </p>
+</div>
+</div>
+</div>
+<div class="minderooParagraph suid-35">
+<div class="minderooParagraph__container">
+<div class="minderooParagraph__styleWrapper">
+<p>Some of your personal information may be disclosed, transferred, stored, processed or used overseas by us, or by third party service providers.  This may happen if our employees or contractors are located overseas, including in the United States of America and the United Kingdom. In these circumstances, you consent to the collection, use, storage and processing of your personal information in those countries, without us being responsible under the Privacy Act for such use (or for any breach). Where such parties are located overseas, you may have rights to enforce such parties’ compliance with applicable data protection laws, but you might not have recourse against those parties under the Australian Privacy Act in relation to how those parties treat your personal information. </p>
+</div>
+</div>
+</div>
+<div class="minderooHeading suid-36">
+<div class="minderooHeading__container">
+<div class="minderooHeading__styleWrapper">
+<h6>How can you access or seek correction of your personal information</h6>
+</div>
+</div>
+</div>
+<div class="minderooParagraph">
+<div class="minderooParagraph__container">
+<div class="minderooParagraph__styleWrapper">
+<p>If you would like to access personal information we may hold about you please email us at <a href="mailto:hello@minderoo.com.au">hello@minderoo.com.au</a> to request it. You will not be charged for making a request to access your personal information but you may be charged for the reasonable time and expense incurred in compiling information in response to your request.</p>
+</div>
+</div>
+</div>
+<div class="minderooParagraph">
+<div class="minderooParagraph__container">
+<div class="minderooParagraph__styleWrapper">
+<p>Please let us know if there are any errors or discrepancies in the personal information we hold about you or if your details have changed and we will take reasonable steps to correct and/or update this information.</p>
+</div>
+</div>
+</div>
+<div class="minderooParagraph suid-37">
+<div class="minderooParagraph__container">
+<div class="minderooParagraph__styleWrapper">
+<p>We may decline your request to access or correct your personal information in certain circumstances in accordance with the Australian Privacy Principles. If we do refuse your request, we will provide you with a reason for our decision and, in the case of a request for correction, we will include a statement with your personal information about the requested correction.</p>
+</div>
+</div>
+</div>
+<div class="minderooHeading suid-38">
+<div class="minderooHeading__container">
+<div class="minderooHeading__styleWrapper">
+<h6>What should you do if you have a complaint about the handling of your personal information</h6>
+</div>
+</div>
+</div>
+<div class="minderooParagraph">
+<div class="minderooParagraph__container">
+<div class="minderooParagraph__styleWrapper">
+<p>Contact us at any time if you have any questions or concerns about this Privacy Policy or about the way in which your personal information has been handled or if you have a complaint about privacy by emailing us at hello@minderoo.com.au.</p>
+</div>
+</div>
+</div>
+<div class="minderooParagraph suid-39">
+<div class="minderooParagraph__container">
+<div class="minderooParagraph__styleWrapper">
+<p>We will consider your questions, concerns or complaint to work out what steps can be taken to resolve this. If you make a complaint which requires detailed consideration or investigation, we may ask you to give us more information about your complaint and the outcome you are seeking. We may need to gather relevant facts, locate and review relevant documents and speak with other persons involved. If we cannot provide you with a response within one (1) week we will let you know.</p>
+</div>
+</div>
+</div>
+<div class="minderooHeading suid-40">
+<div class="minderooHeading__container">
+<div class="minderooHeading__styleWrapper">
+<h6>How changes are made to this Privacy Policy</h6>
+</div>
+</div>
+</div>
+<div class="minderooParagraph">
+<div class="minderooParagraph__container">
+<div class="minderooParagraph__styleWrapper">
+<p>We may amend this Privacy Policy from time to time, with or without notice to you. </p>
+</div>
+</div>
+</div>
+<div class="minderooParagraph suid-41">
+<div class="minderooParagraph__container">
+<div class="minderooParagraph__styleWrapper">
+<p><em>This Privacy Policy was last updated on 18 February 2019.</em></p>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="minderooParagraph">
+<div class="minderooParagraph__container">
+<div class="minderooParagraph__styleWrapper">
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</section><footer class="siteFooter">
+    <div class="siteFooter__container">
+        <div class="siteFooter__content">
+            <div class="siteFooter__contentLeft">
+                <!--
+                <div class="siteFooter__newsletter">
+                    <input class="siteFooter__newsletterInput" type="email" placeholder="newsletter sign up"/>
+                    <span class="siteFooter__newsletterIcon"></span>
+                    <span class="siteFooter__newsletterButton"></span>
+                    <span class="siteFooter__newsletterTip">please enter your email address</span>
+                </div>
+                -->
+                                    <div class="siteFooter__contact">+61 8 6460 4949
+<br>hello@minderoo.com.au
+<br>PO Box 3155, Broadway Nedlands, WA 6009</div>
+                                <!--
+                <div class="siteFooter__social">
+                    <a class="siteFooter__socialIcon siteFooter__socialIcon--facebook" href="#"></a>
+                    <a class="siteFooter__socialIcon siteFooter__socialIcon--linkedin" href="#"></a>
+                    <a class="siteFooter__socialIcon siteFooter__socialIcon--twitter" href="#"></a>
+                    <a class="siteFooter__socialIcon siteFooter__socialIcon--instagram" href="#"></a>
+                    <a class="siteFooter__socialIcon siteFooter__socialIcon--vimeo" href="#"></a>
+                </div>
+                -->
+            </div>
+            <div class="siteFooter__contentRight">
+                <div class="siteFooter__contentRightColumn">
+                    <ul class="siteFooter__links">
+                        <li class="siteFooter__linksTitle">Initiatives</li>
+                                                                                    <li class="siteFooter__linksLink">
+                                    <a href="https://www.minderoo.com.au/building-communities/">Building Communities</a></li>
+                                                            <li class="siteFooter__linksLink">
+                                    <a href="https://www.minderoo.com.au/eliminate-cancer/">Eliminate Cancer</a></li>
+                                                            <li class="siteFooter__linksLink">
+                                    <a href="https://www.minderoo.com.au/flourishing-oceans/">Flourishing Oceans</a></li>
+                                                            <li class="siteFooter__linksLink">
+                                    <a href="https://www.minderoo.com.au/generation-one/">Generation One</a></li>
+                                                            <li class="siteFooter__linksLink">
+                                    <a href="https://www.minderoo.com.au/thrive-by-five/">Thrive By Five</a></li>
+                                                            <li class="siteFooter__linksLink">
+                                    <a href="https://www.minderoo.com.au/research-and-innovation/">Research &amp; Innovation</a></li>
+                                                            <li class="siteFooter__linksLink">
+                                    <a href="https://www.minderoo.com.au/walk-free/">Walk Free</a></li>
+                                                                        </ul>
+                    <ul class="siteFooter__links">
+                        <li class="siteFooter__linksTitle">Projects</li>
+                                                                                    <li class="siteFooter__linksLink">
+                                    <a href="https://www.minderoo.com.au/early-stage/">Early Stage</a></li>
+                                                            <li class="siteFooter__linksLink">
+                                    <a href="https://www.minderoo.com.au/on-the-ground/">On the Ground</a></li>
+                                                            <li class="siteFooter__linksLink">
+                                    <a href="https://www.minderoo.com.au/policy/">Policy</a></li>
+                                                                        </ul>
+                </div>
+                <div class="siteFooter__contentRightColumn">
+                    <ul class="siteFooter__links">
+                        <li class="siteFooter__linksTitle">Quick Links</li>
+                                                                                    <li class="siteFooter__linksLink">
+                                    <a href="https://www.minderoo.com.au/team/">Team</a></li>
+                                                            <li class="siteFooter__linksLink">
+                                    <a href="https://www.minderoo.com.au/careers/">Careers</a></li>
+                                                            <li class="siteFooter__linksLink">
+                                    <a href="https://www.minderoo.com.au/about/">About</a></li>
+                                                            <li class="siteFooter__linksLink">
+                                    <a href="#contact-form">Contact</a></li>
+                                                            <li class="siteFooter__linksLink">
+                                    <a href="https://www.minderoo.com.au/about/#funding">Commercial</a></li>
+                                                            <li class="siteFooter__linksLink">
+                                    <a href="https://www.minderoo.com.au/investments/">Investments</a></li>
+                                                                        </ul>
+                    <ul class="siteFooter__links">
+                        <li class="siteFooter__linksTitle">Legal</li>
+                                                                                    <li class="siteFooter__linksLink">
+                                    <a href="https://www.minderoo.com.au/privacy-policy/">Privacy Policy</a></li>
+                                                            <li class="siteFooter__linksLink">
+                                    <a href="https://www.minderoo.com.au/hoax-and-scams/">Hoax &amp; Scams</a></li>
+                                                            <li class="siteFooter__linksLink">
+                                    <a href="https://www.minderoo.com.au/terms-and-conditions/">Terms &amp; Conditions</a></li>
+                                                            <li class="siteFooter__linksLink">
+                                    <a href="https://www.minderoo.com.au/collection-statement/">Collection Statement</a></li>
+                                                                        </ul>
+                </div>
+            </div>
+        </div>
+        <div class="siteFooter__copyright">
+            <span class="siteFooter__copyrightActionText">Collaborate<br>For Change</span>
+            <span class="siteFooter__copyrightText">© 2019 The Minderoo Foundation Pty Ltd. All rights reserved.</span>
+        </div>
+    </div>
+</footer>
+<script type="text/javascript" src="https://www.minderoo.com.au/wp/wp-includes/js/underscore.min.js?ver=1.8.3"></script>
+<script type="text/javascript">
+/* <![CDATA[ */
+var _wpUtilSettings = {"ajax":{"url":"\/wp\/wp-admin\/admin-ajax.php"}};
+/* ]]> */
+</script>
+<script type="text/javascript" src="https://www.minderoo.com.au/wp/wp-includes/js/wp-util.min.js?ver=5.0.3"></script>
+<script type="text/javascript">
+/* <![CDATA[ */
+var wpApiSettings = {"root":"https:\/\/www.minderoo.com.au\/wp-json\/","nonce":"25c594bb86","versionString":"wp\/v2\/"};
+/* ]]> */
+</script>
+<script type="text/javascript" src="https://www.minderoo.com.au/wp/wp-includes/js/api-request.min.js?ver=5.0.3"></script>
+<script type="text/javascript" src="https://www.minderoo.com.au/content/themes/minderoo/js/4562874e106c110c2d4d8e7aecd11051.js?ver=5.0.3"></script>
+<script type="text/javascript" src="https://www.minderoo.com.au/wp/wp-includes/js/wp-embed.min.js?ver=5.0.3"></script>
+
+
+</body></html>
