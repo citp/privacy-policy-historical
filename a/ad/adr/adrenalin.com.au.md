@@ -1,107 +1,155 @@
-> *The following text is extracted and transformed from the adrenalin.com.au privacy policy that was archived on 2018-09-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180906050756id_/https%3A//www.adrenaline.com.au/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the adrenalin.com.au privacy policy that was archived on 2019-03-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190305182113id_/https%3A//www.adrenaline.com.au/privacy) for the most accurate reproduction.*
 
-# Privacy Policy - Adrenalin
+# Learn More About Our Privacy Policy Online - Adrenaline
 
-**Copyright  
-** Copyright in the Material on this Web Site is owned, or licensed by ADRENALINE PTY LTD.  
-Except where necessary for viewing, the Material on this web site on your browser, or as permitted under the Copyright Act of 1968, or other applicable laws, no Material on this web site may be reproduced, adapted, uploaded to a third party, linked to, framed, performed in public, distributed, or transmitted in any form by any process without the specific written consent of ADRENALINE PTY LTD.
+**The Big Red Group privacy policy**
 
-'Adrenaline', 'LIVE Adrenaline', 'A.365', 'Serious Fun', ‘Corporate Adrenaline’ and ‘a.gear’ all associated trademarks, are trademarks of ADRENALINE PTY LTD.  ACN 117 402 838.  
- ****
+The Big Red Group (ACN 617 874 718) and its related bodies corporate (us, we or our) is sensitive to the concerns our online users may have about the safety and use of the personal information they provide. Please read this Privacy Policy and our Terms and Conditions carefully to understand how any personal information collected by the Big Red Group is used.
 
-[](https://privacy.truste.com/privacy-seal/validation?rid=3e4431a8-73d7-4b6b-9db9-567374707a84)
+For reference, our related bodies corporate are:
 
-ADRENALINE PTY LTD takes the issue of safeguarding your privacy online seriously. We have created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses our information gathering and dissemination practices for the Adrenaline network of sites (and emails) including [www.adrenaline.com.au](https://www.adrenaline.com.au/) and [www.adrenaline.com.au/corporate/](https://www.adrenaline.com.au/corporate/).
+-          Mangoberry Pty Ltd (ACN 077 254 052)
 
-If you have questions or complaints regarding our privacy policy or practices, please [contact us](https://www.adrenaline.com.au/contact/). If you have an unresolved privacy or data use concern that we have not addressed satisfactorily, please contact our U.S.-based third party dispute resolution provider (free of charge) at <https://feedback-form.truste.com/watchdog/request>.   
- **  
-Collection of personal information by Adrenaline**
+-          Marketics Pty Ltd (ACN 620 568 238)
 
-The personal information we collect and store will depend on what products and services you request from us. This includes (but is not limited to) information provided when requesting an adventure booking, gift voucher, gear and/or membership. Our sites registration form requests users’ [which includes third party personal information where applicable collected as described below] to give us contact and profile information such as name, email address, phone number, mailing address, age, medical conditions and dietary requirements.  Some of the requested information is required in order to receive the Adrenaline product or service; other information is optional.  
-**  
-Where your personal information is stored**   
-Where we store your personal information depends on what products and services you have requested from Adrenaline. Data is stored in our CRM for the use of processing transactions, providing order confirmations and dispatching products. Information provided in customer feedback forms is also stored on this system. We also maintain an email database for subscribers to our monthly e-newsletters.  
-**  
-Ways we use data**   
-We collect your personal information so that we can use it for our functions and services. This may include, but is not limited to:
+-          RedBalloon Pty Ltd (ACN 097 376 442)
 
-  * processing your orders including bookings, gift vouchers, gear and membership.
-  * providing confirmation of your adventure booking and advise of any changes or additional information.
-  * sending out feedback and surveys and addressing any issues or complaints.
-  * answering any queries about Adrenaline and its products and services.
-  * sending targeted advertising and promotions that allow us to provide our service;
-  * sending special deals, promotions and offers based on users interests plus other news on Adrenaline including updates of new, or enhanced services.
-  * confirming receipt of profile changes.
-  * serving ads, promotions and special offers on Facebook. Any personal information provided to Facebook will be "hashed", a process that summarises text into a short fingerprint that cannot be decrypted and does not allow the original information to be recovered later by decryption. At no time will Facebook have access to any original, discernible personal information that it does not already have.
+-          RedBalloon NZ Ltd (CO. # 1417960)
 
+-          Redii.com Pty Ltd (ACN 607 261 978)
 
+-          The Huddle for Business Pty Ltd (ACN 618 271 800)
 
-If you do not provide us with your personal information, we will be unable to do one or more of the above. Upon placing an order with Adrenaline, you are automatically subscribed to receive our monthly e-newsletter and associated communications as per section below on ‘inferred consent’.  
- **  
-Inferred consent**   
-Section 2.3.2 of the Australian e-Marketing Code of Practise states that  _“Message Originators and Message Service Providers may send…Commercial Communications to Recipients…providing that… it can be reasonably Inferred … that the Recipient has Consented to receive such Commercial Communications (Inferred Consent)._ ” According to section 2.4.1 ‘Inferred consent’ is deemed to exist if Adrenaline can show that the Recipient has an existing and continuing relationship with us, and would have a reasonable expectation of receiving such commercial communications. Recipients therefore include all customers, account holders, subscribers, members, licencees, registered users, employees and contractors. For this reason, every person who submits an order for an Adrenaline product, or service will automatically be added to our subscriber database.  
- **  
-Disclosure of data**   
-We will not share your information with third parties for their promotional purposes without your permission; however we may obtain personal and other information from you to enable us to provide our services or products to you.   
-Personal information may also be disclosed to our third party service providers as described below:
+-          Wrapped.com Pty Ltd (ACN 619 379 609)
 
-  * To the adventure provider for the purpose of processing your booking request
-  * To others in the event of a medical emergency
-  * To any entity to which we are required, or authorised by or under law to disclose such information such as, in responding to a formal request in a court order, judicial proceeding or subpoena, bankruptcy proceedings or similar legal process.
-  * To disclose personal data in response to lawful requests by public authorities, including to meet national security or law enforcement requirements.
-  * To protect against misuse or unauthorised use of Adrenaline
-  * To protect the safety, or property of our members, or the public.
-  * We use a third party payment processor to fulfill payment for services procured on the Site.
-  * We may disclose your information to third parties for the purposes of collecting and publishing your feedback about the Adrenaline buying process.
-  * In the event of a sale, merger, or acquisition of some, or all of Adrenaline’s assets, your personal information could likely be a part of the transferred assets. In such an event we shall notify you by a notice on the home page of any information and privacy practices that would change as a result.
+-          Adrenaline Experiences Pty Ltd (ACN 627 166 527)
 
+This website [www.thebigredgroup.com.au](http://www.bigredgroup.com.au/) and the sites of our related bodies corporate (collectively, the Site) is used by the Big Red Group to give visitors and customers (Users) access to various products and services (the Services).
 
+Access to the Site and the provision of the Services is conditional on Users accepting the terms of this Privacy Policy. The Privacy Policy applies to the collection, storage, use and disclosure by Big Red Group of the personal information of the individuals using the Site.
 
-Third parties may access and collect information only as required to perform their functions and are not permitted to use the information for their promotional purposes.
+This Privacy Policy has been developed in accordance with the Commonwealth Privacy Act 1988 and the Australian Privacy Principles (APPs). Although we will comply with this Privacy Policy in respect of information provided to us by persons under the age of 18 years, those persons must obtain the consent of a parent or guardian prior to using the Site and the parent or guardian will be responsible for appropriately supervising the person’s use of the Site.
 
-These third parties may be located in Australia or overseas, including but not limited to the United States and the United Kingdom.
+If you have any further questions or if you wish to receive more information on our information practices and Privacy Policy, please contact our Privacy Officer, Kevin Davis at [info@thebigredgroup.com.au](mailto:info@thebigredgroup.com.au).
 
-We request demographic information for our own market research and understanding of our customers. With this information we can provide our users with content we think they might be interested in. Some, but not all, of this information is required to participate in Adrenaline programs, however we believe we will be able to provide users with a better service if demographic information is provided. During the registration process, subscribers may be asked if they would like to have their registration information made available to companies that wish to offer products and services that our subscribers may be interested in. We will never share your information with third parties unless you grant us permission to do so.  
- **  
-Collection of information other than personal information**
+**What personal information we collect from you**
 
-  * IP addresses/operating system/browser type: When you visit our web site or click on one of our links, we may automatically record information such as your I.P. address, operating system, browser version, date and time of your visit, pages you accessed and information you downloaded. We use this information to generate usage statistics, ensure that our site and emails are accessible to the widest possible audience and to assist in improving the quality and usability of our website. We may also use I.P. addresses to track abuse of our system. We do link this automatically collected data to other information we collect about you.
-  * Links: When we provide you with links in our emails, they may include a special tracking code unique to you, which allows us to determine which content and advertisements are most popular. We may share this data in aggregate form, but we will never share it in individual form.
-  * Adrenaline and its partners use cookies or similar technologies to analyze trends, administer the website, track users’ movements around the website, and to gather demographic information about our user base as a whole. You can control the use of cookies at the individual browser level, but if you choose to disable cookies, it may limit your use of certain features or functions on our website or service.
-  * We partner with a third party ad network to either display advertising on our Web site or to manage our advertising on other sites.  Our ad network partner uses cookies and Web beacons to collect non-personally identifiable information about your activities on this and other Web sites to provide you targeted advertising based upon your interests.  If you wish to not have this information used for the purpose of serving you targeted ads, you may opt-out by clicking [Here](http://preferences-mgr.truste.com/).  Please note this does not opt you out of being served advertising.  You will continue to receive generic ads.
+We request information from Users prior to their making a purchase or booking, for example contact information (like name, phone number, email address and delivery/ billing address). If there is an enquiry or trouble is experienced when processing an order or booking, this contact information is used to contact the User. This information will be saved for future orders and/ or bookings.
 
+In order to facilitate purchases we also request financial information (like credit card number, expiration date). No credit card details are retained under any circumstances.
 
+In order to provide the best possible service to our customers we record all calls handled by our Customer Experience team for coaching and training purposes. At the beginning of each call you will be given the opportunity to request that your call is not recorded. Call recordings are kept for a short period.
 
-**Third-party links**   
-This site (and our emails) contain links to other sites. Adrenaline.com.au is not responsible for the privacy practices or the content of such Web sites. We also provide users with the capacity to share information on the Site on other platforms. These widgets do not store or use your personal information.  
- ****
+In certain circumstances, such as when you purchase a gift card for another individual, we may also collect the information that you provide to us on that individual (such as their name and email address). In providing us with any personal information, you warrant that you are authorised to provide us with that personal information and that we are able to use that personal information for the purposes as set out in this privacy policy.
 
-**Social Media Widgets**   
-Our Web site includes Social Media Features, such as the Facebook Like button and Widgets, such as the Share this button that run on our site. These Features may collect your IP address, which page you are visiting on our site, and may set a cookie to enable the Feature to function properly. Social Media Features and Widgets are either hosted by a third party or hosted directly on our Site. Your interactions with these Features are governed by the privacy policy of the company providing it.
+We will not generally collect any sensitive information from you, revealing your: race, ethnic origin, political opinions, religious or philosophical beliefs, trade union memberships or details of health or disability which we consider are unnecessary to our function. Exceptions to this include:
 
-**Referral Program**   
-We may invite you to provide information (such as name and e-mail address) of your friends and family whom you think would like to receive our special offers. The users referred to us receive invitation e-mails, but do not become members until they confirm their interest in our service. We use the third party information you provide to send this one time email. Adrenaline Pty Ltd stores this information for the sole purpose of sending this one-time email and tracking the success of our referral program.  Your friend may [contact us](https://www.adrenaline.com.au/contact/) to request that we remove this information from our database.
+(a)           where you have given express consent to us to do so and the information is reasonably necessary for us to carry out our functions or activities;
 
-**E-commerce**   
-Our servers are equipped with 128-bit encryption bit technology (designated security keys from authorised certificate-of-trust distributors) for secure purchases and form ordering made within the shopping area. Users’ are notified of encryption processing when a gold padlock appears on the bottom right of the browser. While we take every measure to employ industry accepted security standards, please be aware no security mechanism is 100% secure.
+(b)           the use of this information is required or authorised under Australian law or a court or tribunal order; or
 
-**Unsubscribe**   
-If you no longer wish to receive Adrenaline’s publications, you may remove your details from the subscriptions list by clicking on the ‘unsubscribe’ link at the bottom of the associated email. Alternatively, [please contact us](https://www.adrenalin.com.au/contact/). Please note that by law, Adrenaline has 5 days to action your unsubscribe request.  
- **  
-Reviews  
-**We provide users’ an opportunity to review their adventures; we post their first name and last initial with their review after obtaining their consent. Please be aware that Adrenaline is not responsible for the personal information a user selects to include within their review. If you wish to update or delete your testimonial, you can [contact us](https://www.adrenaline.com.au/contact/).
+(c)            when the information is necessary for the establishment, exercise or defence of a legal claim.
 
-**Notification of Changes**   
-Adrenaline reserves the right to modify this privacy policy. For this reason, you should regularly check our policy to ensure that you are up to date on our policy. Should we make material changes in the manner we handle your personal information, we shall notify you by a prominent notice on the home page prior to the change becoming effective.  
- **  
-Access and Correction of your personal information**   
-Upon request Adrenaline will provide you with information about whether we hold any of your personal information. You can ask to obtain access to your personal information that we hold, although under some circumstances permitted by law, we may not provide such information to you. It is important to us that the personal information we hold about you is accurate, complete and up to date. If you would like your personal information corrected or deleted, [please contact us](https://www.adrenaline.com.au/contact/) with your updated information. We will respond to your request within a reasonable timeframe.  
- **  
-Data Retention**   
-We will retain your information for as long as your account is active or as needed to provide you services. If you wish to cancel your account or request that we no longer use your information to provide you services, [please contact us](https://www.adrenaline.com.au/contact/). We will retain and use your information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements.  
-  **  
-Contacting the web site or webmaster**   
-If you have any questions about this privacy statement, the practices of this site, or your dealings with this website, [please contact us](https://www.adrenaline.com.au/contact/) or call us on 1300 791 793. We will make all reasonable attempts to respond to your enquiry.  
-By Mail: 20 Burton, Darlinghurst, NSW 2010 Australia.
+We will not collect personal information unless the information is reasonably necessary for, or directly related to one, or more of our functions or activities.  If we are unable to collect personal information we reasonably require, we may not be able to do business with you or the organisation with which you are connected.
 
-Last Modified 26th April 2017.
+**Collection of Website Activity Information (Cookies)**
+
+The Big Red Group collects information about individual users and the activities of Users on the Site. This information is used to assist us in enhancing the functionality of the Site and Services.
+
+Collection of website activity information is conducted via the use of ‘cookies’. In simple terms a cookie is a little piece of information handed to a web browser from a web server that contains information that can be retrieved from the server later. When a User visits the Site the server may attach a cookie to their computer’s memory. The Big Red Group uses cookies to the extent of recognising the User when they visit the Site and pairing that user with an account profile. Personal information can only be used to identify a user’s website activity when that user is logged in to their Big Red Group customer account. Where a user is not logged in, website activity cannot be used to identify users.
+
+Unless you are a User of Big Red Group who is logged in to a Big Red Group account at the time, this information is not linked to any personal information that the user may provide and cannot be used to identify users. A User may configure their computer so that it disables cookies or does not accept them.
+
+We may also store your website activity in cookies which may be used by third party vendors, including Google, to serve ads based on your behaviour on our website. You may opt out of Google's use of cookies by visiting the Google advertising opt-out page.
+
+**What we will do with a user’s personal information**
+
+All personal information that Big Red Group or its related bodies corporate collect is collected for purposes that are reasonably necessary to provide our services to Users, including:
+
+(a)           processing a booking and/or order (for example sending order confirmations and booking confirmation details);
+
+(b)           enabling the Big Red Group to communicate effectively (for example to respond to any questions, concerns, or problems raised by the User); and
+
+(c)            enhancing functionality of the Site and Services when a User is logged in (for example, personalised recommendations and submission of customer feedback).
+
+For the purposes of providing you with our services, we may disclose your information to third parties such as our service providers and suppliers. Any such disclosure will be done in accordance with the terms of this Privacy Policy. We take reasonable steps to ensure that these organisations are bound by privacy obligations in relation to the protection of your personal information.
+
+We may also share information with third parties for the purposes of joint promotions or data analytics. Where we share information for the purposes of data analytics, this information will be appropriately de-identified so that it is not personal information and you will not be personally identifiable.
+
+We will not disclose personal information to any third party other than as set out above or elsewhere in this Privacy Policy. In order to deliver the services that we provide to you, we may disclose your personal information to other organisations, only in relation to providing our services to you.
+
+We may disclose certain information about you including your personal information to our related bodies corporate.
+
+In the event of a security incident involving unauthorised access, use or disclosure of personal information where a third party with whom we share personal information is involved, we will seek to work cooperatively with them to protect the personal information we have shared with them.
+
+Direct marketing
+
+The User will also be given the option to sign up for our email newsletter. Once subscribed, the Big Red Group and its related bodies corporate may use personal information about the User for the primary purpose of providing User with services from the Big Red Group or its partner suppliers, and for other purposes for which you would reasonably expect us to use that information. This includes sending the User information about new 'experiences', products, services and special offers by post, telephone or any form of electronic communication. By subscribing, the User authorises the Big Red Group to use any email address or other contact information he/she has provided at any time for this purpose.
+
+The User will also be given the opportunity to 'opt-out' of receiving emailed information or other correspondence, by simply clicking the unsubscribe link at the bottom of any newsletter email they receive from us. The User agrees and acknowledges that even if he/she opts out of receiving marketing material, the Big Red Group may still send the User essential information that it is legally required to send the User relating to the services they have acquired from us.
+
+Once you opt out of receiving marketing material from us, you agree and acknowledge that this removal from our distribution lists may take several business days after the date of you request to be removed.
+
+**Keeping a user’s personal information accurate**
+
+The personal information we hold about a user (such as name and email address) is kept so that we may correctly identify that user. Users can update their personal information anytime from within the ‘My Account’ area of the Site.
+
+We take all reasonable steps to ensure that personal information held by us is accurate, up-to-date, complete, relevant and not misleading. If you believe that any of your personal information is not accurate, up-to-date, complete, relevant and not misleading, please contact us (see below) and we will take all reasonable steps to correct it within a reasonable time.
+
+**Third Party and Linked Sites**
+
+This web site contains links to other sites. Please be aware that the Big Red Group is not responsible for the privacy practices of such other sites. We encourage our users to be aware that when they leave our site to read the privacy statements of each and every web site that collects personally identifiable information. This privacy statement applies solely to information collected by this web site.
+
+**Transfer of your data outside of Australia**
+
+Users’ personal information is uploaded to, and kept on, servers that we maintain or that are maintained by third parties that comply with strict contractual privacy obligations. It is not otherwise transferred internationally, other than New Zealand, except where a copy is sent to the user at their request. Users consent for their personal information to be transferred and stored in this manner is obtained at the time of registration.
+
+**User's consent to our use of personal information**
+
+We ask for users’ consent to the use of any personal information we collect from them in accordance with this Privacy Policy at the time of providing that information. If a user does not wish to provide us with their consent, they cannot agree to the Site Terms and Conditions and must not use the Site.
+
+Our use of the personal information we collect is necessary in order for us to maintain the Site and facilitate users’ use of the Site. We do not collect any unnecessary personal data from users (for instance, their race or religious beliefs).
+
+**Keeping a user’s personal information secure**
+
+The Big Red Group is committed to information security. We will use all reasonable endeavours to keep users’ personal information in a secure environment. For instance, each users’ personal information is encrypted whilst being sent to our server at the time of setting up an account. However, security cannot be guaranteed due to the nature of the internet.
+
+The Big Red Group security measures are designed to assist in ensuring that users’ personal information is not accessed by unauthorised personnel, lost or misused. If you reasonably believe that there has been an unauthorised use or disclosure of your personal information please let us know by contacting our Privacy and Data Protection Officer (contact details below).
+
+The security of your sensitive financial details is important to us. Credit card details are never stored by the Big Red Group. Credit card data is encrypted when being transferred through the payment gateway. Not only are all transactions secured using industry strength SSL encryption but, as additional protection, we also enforce the entry of the 3 or 4 digit credit card security numbers (CVN).
+
+**How long we hold a user’s personal information**
+
+We will retain your information for as long as a the Big Red Group account is active or as necessary to comply with our legal obligations, resolve issues, address queries and enforce our agreements. If you no longer wish to use our Site or Services, you may request that your account be deactivated by contacting info@thebigredgroup.com.au or calling our Customer Experience Team on 1300 875 500 (AU) or 0800 555 023 (NZ)
+
+**Breaches of security**
+
+Notwithstanding the reasonable steps taken to keep information secure, breaches may occur.  In the event of a security incident we have in place procedures to promptly investigate the incident and determine if there has been a data breach involving personal information, and if so, to assess if it is a breach that would require notification.  If it is, we will notify affected parties in accordance with Privacy Act requirements.
+
+**Revision of this Privacy Policy**
+
+The Big Red Group reserves the right to change, modify, or revise this Privacy Policy in order to comply with any applicable laws or for any other reason at any time. Therefore our users are required to check the Privacy Policy periodically to read about any changes, modifications, or revisions. Users may wish to check it each time they submit personal information. You will be deemed to have consented to such variation by your continued use of the Site following any changes being made.
+
+**How can users access, change or delete their personally identifiable information?**
+
+Users have a right to get a copy from us of the personal information we hold about them. If you wish to receive a copy of this information please address your request to the Privacy and Data Protection Officer (contact details below). We will deal with your request promptly and in any case at least within 30 days of the date of receiving it. We will give access to the information in the manner you request, where reasonable and practicable. This will be subject to any exemptions allowed under the Privacy Act. We will correct or delete inaccurate or incomplete personal information we hold about you at your request.
+
+**Contacting the Big Red Group about this privacy policy**
+
+Please address all requests and questions about this privacy policy to:
+
+Kevin Davis
+
+Privacy and Data Protection Officer
+
+info@thebigredgroup.com.au
+
+The Big Red Group, Level 11/ 50 Carrington St, Sydney, NSW, 2000.
+
+When contacting us you have the option to either not identify yourself or to use a pseudonym.  However, this will not apply if it is impracticable for us to communicate with you that way or we are required or authorised under Australian law to only deal with individuals who have identified themselves.
+
+##### HOT DEALS
+
+Sign up for exclusive offers
+
+© 1999 - 2019 Adrenaline Experiences Pty Ltd
