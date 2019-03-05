@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the addonchat.com privacy policy that was archived on 2018-09-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180929045450id_/http%3A//www.addonchat.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the addonchat.com privacy policy that was archived on 2019-03-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190305151601id_/http%3A//www.addonchat.com/privacy.html) for the most accurate reproduction.*
 
 # AddonChat Chat Software - HTML5 Chat and Instant Messaging Software - Privacy Policy
 
