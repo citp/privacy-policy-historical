@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the scranton.edu privacy policy that was archived on 2018-08-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180821011906id_/https%3A//scranton.edu//information-technology/documents/policies/privacy-policy.pdf) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the scranton.edu privacy policy that was archived on 2019-03-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190305053812id_/https%3A//scranton.edu//information-technology/documents/policies/privacy-policy.pdf) for the most accurate reproduction.*
 
 # SCRANTON.EDU PRIVACY POLICY
 
