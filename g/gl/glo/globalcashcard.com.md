@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the globalcashcard.com privacy policy that was archived on 2017-04-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170407044841id_/https%3A//www.globalcashcard.com/privacy_policy_en_us.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the globalcashcard.com privacy policy that was archived on 2019-03-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190306005219id_/https%3A//www.globalcashcard.com/privacy_policy_en_us.html) for the most accurate reproduction.*
 
 # Privacy Policy / Error Resolution
 
