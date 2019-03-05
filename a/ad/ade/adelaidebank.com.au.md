@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the adelaidebank.com.au privacy policy that was archived on 2018-09-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180904071702id_/https%3A//www.adelaidebank.com.au/other-links/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the adelaidebank.com.au privacy policy that was archived on 2019-03-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190305083411id_/https%3A//www.adelaidebank.com.au/other-links/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Adelaide Bank
 
@@ -192,24 +192,26 @@ The Customer Advocate can be contacted by:
 
   * Telephone - 1300 139 572 (+61 3 5485 7919) between 8:30am and 5:00pm Victorian time, weekdays
   * Email - [customeradvocate@bendigoadelaide.com.au](mailto:customeradvocate@bendigoadelaide.com.au)
-  * Post/Letter - write to Customer Advocate, P.O. Box 480, Bendigo, Vic, 3552
+  * Post/Letter - write to Customer Advocate, P.O. Box 480, Bendigo VIC 3552
 
 
 
-Alternatively (or following consideration by the Customer Advocate) you may refer your complaint directly to the relevant External Dispute Resolution (EDR) scheme.
+Alternatively (or following consideration by the Customer Advocate) you may refer your complaint directly to:
 
-Financial Ombudsman Service Australia   
-GPO Box 3   
-Melbourne Vic 3001  
-Phone: 1800 FOS AUS (1800 367 287)  
-Fax: 03 9613 6399   
-Email: [info@fos.org.au](mailto:info@fos.org.au)  
-[www.fos.org.au](http://www.fos.org.au/)
+ **Australian Financial Complaints Authority**  
+GPO Box 3  
+Melbourne VIC 3001  
+Phone: 1800 931 678  
+Fax: 03 9613 6399  
+Email: [info@afca.org.au](mailto:info@afca.org.au)  
+[www.afca.org.au](http://www.afca.org.au/)
 
-Office of the Australian Information Commissioner  
+ **Office of the Australian Information Commissioner**  
+GPO Box 5218  
+Sydney NSW 2001  
 Phone: 1300 363 992  
-Email: [enquiries@oaic.gov.au](mailto:enquiries@oaic.gov.au)  
-[www.oaic.gov.au](http://www.oaic.gov.au/)
+Email: [enquiries@oaic.gov.au](mailto:info@afca.org.au)  
+[www.oaic.gov.au](http://www.afca.org.au/)
 
 ## European Union General Data Protection Regulation (GDPR)
 
