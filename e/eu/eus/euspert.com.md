@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the euspert.com privacy policy that was archived on 2017-10-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171012071358id_/https%3A//uk.euspert.com/content/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the euspert.com privacy policy that was archived on 2019-03-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190305043932id_/https%3A//uk.euspert.com/content/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy - Euspert
 
