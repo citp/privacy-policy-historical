@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hotel.com.au privacy policy that was archived on 2018-08-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180815025318id_/https%3A//www.hotel.com.au/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hotel.com.au privacy policy that was archived on 2019-03-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190305220705id_/https%3A//www.hotel.com.au/privacy.htm) for the most accurate reproduction.*
 
 # About Hotel.com.au - Offering a wide choice of competitive rate hotels world wide
 
@@ -47,6 +47,40 @@ We at Hotel.com.au work hard to provide our clients with the best possible rates
 
 ### How to contact us
 
-This policy may be revised from time to time, as new features are added to the site or the legislation changes. Please check back periodically for updates and additions. If you have any concerns or queries about the Privacy Policy of Hotel.com.au or would like more information, please contact us on [RoomService@Hotel.com.au](mailto:RoomService@Hotel.com.au)
+This policy may be revised from time to time, as new features are added to the site or the legislation changes. Please check back periodically for updates and additions. If you have any concerns or queries about the Privacy Policy of Hotel.com.au or would like more information, please contact us on [help@Hotel.com.au](mailto:help@Hotel.com.au)
 
-Error! please load page again.
+## Book with Hotel.com.au
+
+  * Free cancellation on most rooms
+  * Huge range of over 2M+ hotels, resorts, apartments, holiday homes + more
+  * Compare, book & save $
+  * No booking fees
+  * Best price guarantee
+  * Price guardian™ Don't book without it.
+  * 100% Australian owned
+  * Daily deals for inspiration to take a break!  
+[Facebook.com/Hotelcomau](https://www.facebook.com/Hotelcomau)  
+[Hotel.com.au/Blog](https://www.hotel.com.au/blog/)
+
+
+
+## Our Customers
+
+  * _The Sebel Hawkesbury was excellent. Great friendly staff and excellent rooms. 11/10 Highly recommend this Hotel_
+
+A Denman
+
+  * _.... reservation process was fast and smooth. Grand Hyatt hotel has met our expectations. Our flight was very late and they allowed us to have late check out at 4 pm without extra charges. Definitely we will book again with Hotel.com.au_
+
+D Purnamasari
+
+  * _Booking our hotel was a fast and painless process with Hotel.com.au. A tick for your company._
+
+C Lee
+
+  * _The resevation service was simple to use and efficient._
+
+L Britz
+
+
+
