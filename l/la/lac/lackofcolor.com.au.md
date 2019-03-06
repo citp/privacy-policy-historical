@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lackofcolor.com.au privacy policy that was archived on 2018-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181212002528id_/https%3A//www.lackofcolor.com.au/pages/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lackofcolor.com.au privacy policy that was archived on 2019-03-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190306232618id_/https%3A//www.lackofcolor.com.au/pages/privacy) for the most accurate reproduction.*
 
 # Privacy – Lack of Color
 
