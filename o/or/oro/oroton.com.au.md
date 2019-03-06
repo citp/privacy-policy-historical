@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the oroton.com.au privacy policy that was archived on 2018-08-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180815074121id_/https%3A//www.oroton.com.au/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the oroton.com.au privacy policy that was archived on 2019-03-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190306102550id_/https%3A//www.oroton.com.au/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -10,13 +10,13 @@ This Privacy Policy and Disclosure Statement does not apply in relation to acts 
 
 ### Collection Of Your Personal Information
 
-You agree and consent that we may collect personal information from you when you subscribe to one of our OrotonGroup websites or instore mailing lists, and from the people we do business with (“business clients”) such as our suppliers and contractors. Normally, the type of personal information collected includes your name, email and postal addresses, home and business telephone numbers, age and gender. We do not generally collect sensitive personal information.
+You agree and consent that we may collect personal information from you when you subscribe to one of our Oroton websites or instore mailing lists, and from the people we do business with (“business clients”) such as our suppliers and contractors. Normally, the type of personal information collected includes your name, email and postal addresses, home and business telephone numbers, age and gender. We do not generally collect sensitive personal information.
 
-Our policy is to only collect personal information that we need for a particular purpose and use it for that purpose. Except as permitted or required by law, including as reasonably expected by the individual, OrotonGroup does not collect, use or disclose personal information without your consent.
+Our policy is to only collect personal information that we need for a particular purpose and use it for that purpose. Except as permitted or required by law, including as reasonably expected by the individual, Oroton does not collect, use or disclose personal information without your consent.
 
-You agree and consent that OrotonGroup may collect personal information about you from a third party source. OrotonGroup will take reasonable steps to contact you to and make you aware of the purposes for which the issuer has collected your personal information which has been obtained from a third party source.
+You agree and consent that Oroton may collect personal information about you from a third party source. Oroton will take reasonable steps to contact you to and make you aware of the purposes for which the issuer has collected your personal information which has been obtained from a third party source.
 
-You must not provide personal information to OrotonGroup about another person, unless that person has authorised OrotonGroup, through you, to collect, use and disclose personal information about that person for the purposes described in this Privacy Policy.
+You must not provide personal information to Oroton about another person, unless that person has authorised Oroton, through you, to collect, use and disclose personal information about that person for the purposes described in this Privacy Policy.
 
 Publisher collects personal information for some or all of the following purposes:
 
@@ -33,19 +33,19 @@ Publisher may collect personal information about you from a third party source. 
 
 You agree and consent that we may use personal information to manage our relationship with you and business clients and properly conduct our business. Specifically, you agree and consent that we may use your personal information in order to:
 
-  * communicate information on our products or services and to notify our customers about existing or new OrotonGroup product offerings, sales or special promotions from time to time;
+  * communicate information on our products or services and to notify our customers about existing or new Oroton product offerings, sales or special promotions from time to time;
   * help you decide which of our products would best suit your requirements;
   * Conduct market research by collating and analysing information in order to develop product ranges and identify opportunities to provide our customers with further service and benefits.
 
 
 
-If at any time you no longer wish to be notified about new OrotonGroup products or services or promotions, you should contact the Privacy Officer (see details below), and OrotonGroup will delete your personal information from our system. 
+If at any time you no longer wish to be notified about new Oroton products or services or promotions, you should contact the Privacy Officer (see details below), and Oroton will delete your personal information from our system. 
 
-You agree and consent that OrotonGroup’s use of your personal information may involve sharing your personal information with and amongst the companies within the OrotonGroup. Where information is disclosed to a related body corporate, that company is bound by the original purpose for which the information was collected.
+You agree and consent that Oroton’s use of your personal information may involve sharing your personal information with and amongst the companies within the Oroton. Where information is disclosed to a related body corporate, that company is bound by the original purpose for which the information was collected.
 
-OrotonGroup does not sell, rent, trade, give or share personal information to or with third parties. However, you agree and consent that we may disclose your personal information to third parties to whom OrotonGroup contracts out specialised functions (including without limitation such as printing companies for the purpose of printing OrotonGroup’s promotional material). If OrotonGroup does disclose your personal information to these third party contractors under outsourcing or contracting arrangements, OrotonGroup takes steps to ensure that those contractors comply with the National Privacy Principles when they handle your personal information, and are authorised only to use your personal information in order to provide the services or to perform the functions required by OrotonGroup.
+Oroton does not sell, rent, trade, give or share personal information to or with third parties. However, you agree and consent that we may disclose your personal information to third parties to whom Oroton contracts out specialised functions (including without limitation such as printing companies for the purpose of printing Oroton’s promotional material). If Oroton does disclose your personal information to these third party contractors under outsourcing or contracting arrangements, Oroton takes steps to ensure that those contractors comply with the National Privacy Principles when they handle your personal information, and are authorised only to use your personal information in order to provide the services or to perform the functions required by Oroton.
 
-Otherwise, OrotonGroup only uses or discloses personal information as authorised or required by law.
+Otherwise, Oroton only uses or discloses personal information as authorised or required by law.
 
 ### Personal Information About Other People
 
