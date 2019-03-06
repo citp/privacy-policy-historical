@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the newcastlepermanent.com.au privacy policy that was archived on 2018-08-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180825234745id_/https%3A//www.newcastlepermanent.com.au/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the newcastlepermanent.com.au privacy policy that was archived on 2019-03-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190306101229id_/https%3A//www.newcastlepermanent.com.au/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy – Newcastle Permanent
 
@@ -16,7 +16,7 @@ Personal Information
 
 | 
 
-Information or an opinion about you which is identified, or which can reasonably be identified, from the information.  
+Includes any information or opinion, about an identified individual or an individual who can be reasonably identified from that information. The information or opinion will still be personal information whether it is true or not an regardless of whether we have recorded it in a material form or not.   
   
 Credit-related Information 
 
@@ -28,7 +28,7 @@ Credit-related Information includes “credit information”, being information 
 
 Credit-related Information also includes “credit eligibility information”, being information related primarily to your credit-related dealings with other credit providers and comprises of “credit reporting information” disclosed by credit reporting bodies to us and information we derive from that information.   
   
-Wherever possible, we collect your Personal Information directly from you. For example, we may collect and hold Personal Information when you open an account, fill in an application form, deal with us over the telephone, send us a letter or email, visit our website, use webchat, post any information on our Facebook page, or visit us in a branch. The types of Personal Information we collect and hold will depend on the particular products and services you request from us. If you do not provide your Personal Information we cannot provide our products or services to you.
+Wherever possible, we collect your Personal Information directly from you. For example, we may collect and hold Personal Information when you open an account, fill in an application form, deal with us over the telephone, send us a letter or email, visit our website, use webchat, interact with us on social media (for example Facebook), or visit us in a branch. The types of Personal Information we collect and hold will depend on the particular products and services you request from us. If you do not provide your Personal Information we cannot provide our products or services to you.
 
 There may be occasions when we need to collect Personal Information about you from a third party. For example, we may collect Personal Information from any referees that you provide, your employer, other credit providers, and third party service providers including credit reporting bodies or insurers.
 
@@ -44,9 +44,9 @@ We only ask for Personal Information that is relevant to our business relationsh
 
 In certain circumstances, for example when you apply for a life insurance product, we may collect and hold sensitive information such as your health details. We will only collect sensitive information directly from you, with your consent, unless we are otherwise permitted by law to do so. 
 
-If you are a guarantor, we may collect your personal information to assess you as a guarantor, enter into a guarantee with you and administer that guarantee. If you do not provide the information we request, we may not be able to accept you as a guarantor.  
+If you are a guarantor, we may collect your Personal Information to assess you as a guarantor, enter into a guarantee with you and administer that guarantee. If you do not provide the information we request, we may not be able to accept you as a guarantor.  
 
-If you use our website or Facebook page, we collect the Personal Information that you tell us about yourself. For example, by completing an online form such as a loan application, by sending us an email, or making any postings. 
+If you use our website or interact with us on social media, we collect the Personal Information that you tell us about yourself. For example, by completing an online form such as a loan application, by sending us an email, or making any postings. 
 
 We also collect Personal Information to comply with Australian laws such as: 
 
@@ -57,6 +57,8 @@ We also collect Personal Information to comply with Australian laws such as:
   * the Taxation Administration Act 1953 (Cth), the Income Tax Assessment Act 1936 and 1997 (Cth) and other taxation laws and regulations. 
 
 
+
+If you apply for a job with us, or as part of our recruitment process, we may collect your Personal Information. The type of Personal Information we collect about you is generally the information in your application or resume, such as your name, address, contact details, employment details, referees, details of competency tests, background checks (criminal checks) and other information related to your career. We may obtain Personal Information about you from a third party (for example, nominated referees, professional bodies you claim to be affiliated with, educational institutions or other training organisations you claim to have qualifications from, employment or recruitment consultants and when receiving results of a psychological or competency test, or background check).
 
 We may collect and hold the following kinds of Credit-related Information and disclose this information to credit reporting bodies and other entities including our insurers, valuers, and debt collection agencies:
 
@@ -107,6 +109,7 @@ We may hold and use your Personal Information for the primary purpose of providi
   * assessing and processing your application for a product or service we offer including consumer or commercial finance products; 
   * establishing and operating our systems and processes to provide you with our products or services that you have requested; 
   * managing our relationship with you including direct marketing of our products and services;
+  * assessing and processing your application for a job with us;
   * uses required or authorised by law;
   * maintaining and developing our business systems and infrastructure.
 
@@ -124,7 +127,8 @@ We may disclose your Personal Information, for example to:
 
   * our related companies; 
   * external organisations that are our assignees, successors agents or contractors;
-  * external contractors or service providers of ours, such as payment systems operators, mercantile agents, printers, mailing houses, valuers and research consultants;
+  * external contractors or service providers of ours, such as payment systems operators, mercantile agents, printers, mailing houses, valuers, research consultants and employment or recruitment consultants;
+  * where you have applied for a job with us, your nominated referees, professional bodies you claim to be affiliated with, educational institutions or other training organisations you claim to hold qualifications from and external organisations that provide psychological or competency tests or that complete background checks;
   * entities that provide verification including on-line verification of your identity or any relevant government agency via the Document Verification Service (details of which can be found at [www.dvs.gov.au](http://www.dvs.gov.au/)) including for the purposes of the _Anti-Money Laundering and Counter-Terrorism Financing Act 2006 (Cth)_ ;
   * insurers and re-insurers, where insurance is provided in connection with our services to you;
   * superannuation funds, where superannuation services are provided to you;
@@ -136,15 +140,15 @@ We may disclose your Personal Information, for example to:
   * state or territory authorities that give assistance to facilitate the provision of home loans to individuals;
   * certain entities that have bought or otherwise obtained an interest in our assets or business (eg by means of securitisation), or that are considering doing so, and their professional advisors;
   * investors, advisers, trustees, security trustees, trust managers, reinsurers and underwriters, loan servicers or any other organisation that performs tasks in connection with purchasing, funding or managing products to borrowers; 
-  * your representative, for example, lawyer, mortgage broker, financial advisor or attorney, as authorised by you; or
-  * court, tribunal, industry body or other entity in connection with any claim, complaint or dispute relating to the approval, rejection or management of your account or service; 
-  * law enforcement agencies and government or regulatory authorities, if required by law.
+  * your representative, for example, lawyer, mortgage broker, financial advisor or attorney, as authorised by you; 
+  * court, tribunal, industry body or other entity in connection with any claim, complaint or dispute relating to the approval, rejection or management of your account or service; or
+  * law enforcement agencies and government or regulatory authorities or other third parties, if required or permitted by law.
 
 
 
 We will take reasonable steps to ensure that these organisations are bound by sufficient confidentiality and privacy obligations with respect to the protection of your Personal Information.
 
-Where the Privacy Act permits it, some of the recipients to whom we disclose your Personal Information may be based overseas. It is not reasonably practicable to list every country in which such recipients are located but it is likely that such countries will include the United Kingdom, New Zealand and Philippines. 
+Where the Privacy Act permits it, some of the recipients to whom we disclose your Personal Information may be based overseas. It is not reasonably practicable to list every country in which such recipients are located but it is likely that such countries will include the United States, United Kingdom, Denmark, New Zealand, Philippines, Thailand, Singapore and China.
 
 We will take reasonable steps to protect your Personal Information from misuse, loss, unauthorised access, modification, or disclosure. We do this by:
 
@@ -189,9 +193,9 @@ If you have any questions, concerns or complaints about this Privacy Policy (inc
 
 You can raise your concerns or complaint through any of our branches, by contacting our member Support Centre on 13 19 87, or by putting your concerns in writing. Once a complaint has been lodged we will acknowledge your complaint within seven days. We will provide you with a decision on your complaint within 30 days. 
 
-If you are dissatisfied with the response of our complaints officer you may make a complaint to the Privacy Commissioner who can be contacted at [www.oaic.gov.au](http://www.oaic.gov.au/) or by phoning 1300 363 992. Alternately, you can contact our External Dispute Resolution Scheme at: 
+If you are dissatisfied with the response of our complaints officer you may make a complaint to the Privacy Commissioner who can be contacted at [www.oaic.gov.au](http://www.oaic.gov.au/) or by phoning 1300 363 992. Alternately, if an issue has not been resolved to your satisfaction, you can lodge a complaint with the Australian Financial Complaints Authority, or AFCA. AFCA provides fair and independent financial services complaint resolution that is free to consumers.
 
-Credit and Investments Ombudsman Limited  
-PO Box A252, South Sydney NSW 1235  
-Telephone: 1800 138 422  
-[www.cio.org.au](http://www.cio.org.au/)
+Website: [www.afca.org.au](http://www.afca.org.au/)  
+Email: info@afca.org.au   
+Telephone: 1800 931 678 (free call)  
+In writing to: Australian Financial Complaints Authority, GPO Box 3, Melbourne VIC 3001.
