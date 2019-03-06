@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nwc.com.au privacy policy that was archived on 2018-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181125104047id_/http%3A//www.mmsg.com.au/wp-content/uploads/2017/08/privacy-policy-mmsg-november-2015.pdf) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nwc.com.au privacy policy that was archived on 2019-03-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190306163450id_/http%3A//www.mmsg.com.au/wp-content/uploads/2017/08/privacy-policy-mmsg-november-2015.pdf) for the most accurate reproduction.*
 
 # Privacy Policy
 
