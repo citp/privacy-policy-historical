@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the etax.com.au privacy policy that was archived on 2018-03-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180313173823id_/https%3A//www.etax.com.au/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the etax.com.au privacy policy that was archived on 2019-03-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190306080016id_/https%3A//www.etax.com.au/privacy) for the most accurate reproduction.*
 
 # Etax Privacy and Security Statement
 
@@ -8,7 +8,7 @@ As the Etax website develops and as technology evolves, Etax will continue to st
 
 In addition to the provisions of this Security and Privacy Statement, there may also be specific and additional privacy provisions which apply to certain sections of the Etax website. Because those specific and additional provisions also relate to your privacy protection, you should review them wherever they are accessible on the Etax website. In the event of any inconsistency between the provisions of this Security and Privacy Statement and those other specific and additional provisions, the specific and additional provisions will prevail.
 
-This Security and Privacy Statement applies to this website which is operated by Etax Accountants Pty Ltd (ACN 083 958 150) (“Etax”) under the domain name “www.etax.com.au” (“Etax website”). The Etax website is operated on behalf of Etax and its related bodies corporate (together called the “Etax Group”). The information described in this Security and Privacy Statement may be shared between members of the Etax Group.
+This Security and Privacy Statement applies to this website which is operated by Etax Accountants Pty Ltd (ACN 083 958 150, Postal Address: PO Box 6642 Upper Mount Gravatt, QLD 4122) (“Etax”) under the domain name “www.etax.com.au” (“Etax website”). The Etax website is operated on behalf of Etax and its related bodies corporate (together called the “Etax Group”). The information described in this Security and Privacy Statement may be shared between members of the Etax Group.
 
 This Security and Privacy Statement may also apply to services offered by Etax on websites hosted by third parties. If so, express reference to this Security and Privacy Statement will be made on those websites.
 
@@ -81,6 +81,8 @@ Etax also uses cookies for secure services (that is, an area where you are requi
 ## How we Handle Email
 
 We will preserve the content of any email that you send us, if we believe that we have a legal requirement to do so. Your email message content may be monitored by our Etax employees for security issues including where email abuse is suspected; our response to you may be monitored for quality assurance issues.
+
+If you’d like to unsubscribe from promotional emails, please simply click the unsubscribe link in the footer of any email or if you prefer simply contact us at admin@etax.com.au. Please note, as your tax agent, we have an obligation to send important tax related correspondence to you. Unsubscribing from our promotional emails will not affect obligatory tax related messages.
 
 ## Use and Disclosure of Information
 
