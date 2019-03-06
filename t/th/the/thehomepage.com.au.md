@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thehomepage.com.au privacy policy that was archived on 2018-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180510084713id_/https%3A//www.thehomepage.com.au/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thehomepage.com.au privacy policy that was archived on 2019-03-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190306194353id_/https%3A//www.thehomepage.com.au/privacy) for the most accurate reproduction.*
 
 # 
 
@@ -206,13 +206,13 @@ Williams Media's Privacy Officer’s contact details are:
 
 Address: Privacy Officer
 
-Level 1, 221 Drummond Street
+Level 34, Waterfront Place, 1 Eagle St,
 
-Carlton, Melbourne VIC, Australia 3053
+Brisbane City QLD 4000
 
 Telephone: +61 (03) 9486 0288 or 1300 377 037 (within Australia)
 
-Email: [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#d1a1a3b8a7b0b2a891a6b8bdbdb8b0bca2bcb4b5b8b0ffb2bebc)
+Email: [privacy@williamsmedia.com.au](mailto:privacy@williamsmedia.com)
 
 ### Changes to this policy
 
