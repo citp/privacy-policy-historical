@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the coinspot.com.au privacy policy that was archived on 2018-09-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180904011221id_/https%3A//www.coinspot.com.au/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the coinspot.com.au privacy policy that was archived on 2019-03-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190306015619id_/https%3A//www.coinspot.com.au/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - CoinSpot
 
@@ -40,8 +40,12 @@ We welcome your questions and comments about privacy. If you have any concerns o
 
 #### Anonymous data
 
-We use technology to collect anonymous information about the use of our Platform, for example when you browse our Platform our service provider logs your server address, the date and time of your visit, the pages and links accessed and the type of browser used. It does not identify you personally and we only use this information for statistical purposes and to improve the content and functionality of our website, to better understand our clients and markets and to improve our services. 
+We use technology to collect anonymous information about the use of our platform. For example, when you browse our platform our service provider logs your server address, the date and time of your visit, the pages and links accessed and the type of browser used. It does not identify you personally and we only use this information for statistical purposes and to improve the content and functionality of our website, to better understand our clients and markets and to improve our services. 
 
 #### Cookies
 
-In order to collect this anonymous data, we may use “cookies”. Cookies are small pieces of information which are sent to your browser and stored on your computer’s hard drive. Sometimes they identify users where the Platform requires information to be retained from one page to the next. This is purely to increase the functionality of the site. We may use Cookies to recognise you as a customer and user of CoinSpot’s Service, to customise our Services and advertising, and to collect information in order alleviate the risk of fraud and illegal conduct. Cookies do not damage your computer and you can set your browser to notify you when you receive a cookie so that you can decide if you want to accept it although this may impact the operation of the website. In order to provide a more user-friendly experience and enhance security, cookies will also be used to allow our website to recognise your computer when you return in the future. 
+In order to collect this anonymous data, we may use “cookies”. Cookies are small pieces of information which are sent to your browser and stored on your computer’s hard drive. Cookies are utilised by almost all websites that you visit and allow websites and browsers to operate more efficiently, improve your browsing experience as well as to provide anonymised information to the owners of the site. 
+
+Sometimes they identify users where the Platform requires information to be retained from one page to the next. This is purely to increase the functionality of the site. We may use Cookies to recognise you as a customer and user of CoinSpot’s Service, to customise our services and advertising, and to collect information in order alleviate the risk of fraud and illegal conduct. We may also utilise cookies to assist in delivering targeted advertising campaigns at certain times through third party sites. 
+
+Cookies do not damage your computer and you can set your browser to notify you when you receive a cookie so that you can decide if you want to accept it. You can also de-activate the use of cookies if you do not want to receive targeted advertising however; although this may impact the operation of the website. In order to provide a more user-friendly experience and enhance security, cookies will also be used to allow our website to recognise your computer when you return in the future. 
