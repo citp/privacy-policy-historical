@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the formpl.us privacy policy that was archived on 2018-11-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181105045304id_/https%3A//formpl.us/terms_and_privacy%23privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the formpl.us privacy policy that was archived on 2019-03-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190306190536id_/https%3A//www.formpl.us/terms_and_privacy%23privacy) for the most accurate reproduction.*
 
 # Terms & Privacy | Formplus - Online Form Builder & Data Collection Tool
 
@@ -65,7 +65,7 @@ While we use encryption to protect sensitive information transmitted online, we 
 
 All orders are made from the Formplus website and subscriptions are renewed every month. You are automatically billed every month except if you opt out of the Formplus billing. 
 
-Formplus also has a 100% refund policy, so that you would be refunded in cases where you do not wish to continue with the service, provided you are yet to receive 10% of your allotted responses (or up to 100 responses for the Unlimited plan) within 30 days of your payment. 
+Formplus also has a 100% refund policy, so that you would be refunded in cases where you do not wish to continue with the service, provided you are yet to receive 10% of your allotted responses (or up to 100 responses for the Professional plan) within 30 days of your payment. 
 
 Our support agents would address all other questions or complaints. You can contact us directly at support@formpl.us or submit a ticket at support.formpl.us.
 
