@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the saverocity.com privacy policy that was archived on 2018-11-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181109004801id_/http%3A//saverocity.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the saverocity.com privacy policy that was archived on 2019-03-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190306030332id_/https%3A//saverocity.com/privacy) for the most accurate reproduction.*
 
 # Privacy - Saverocity
 
@@ -6,7 +6,7 @@
 
 ## Who we are
 
-Our website address is: http://saverocity.com.
+Our website address is: https://saverocity.com.
 
 ## What personal data we collect and why we collect it
 
