@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the beginningboutique.com.au privacy policy that was archived on 2018-09-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180904011547id_/https%3A//www.beginningboutique.com.au/pages/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the beginningboutique.com.au privacy policy that was archived on 2019-03-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190306163712id_/https%3A//www.beginningboutique.com.au/pages/privacy) for the most accurate reproduction.*
 
 # Privacy Policy – Beginning Boutique
 
@@ -64,6 +64,8 @@ Your purchase is secured by Stripe. Your credit card details are passed securely
 We do not store your credit card details; they are deleted after your purchase has been completed. Payment or debiting of your credit/debit card will be completed when you accept to complete the transaction at checkout.
 
 We take a firm stance against credit card fraud. If a transaction is flagged in our system, we reserve the right to conduct any and all security checks to ensure that the owner of the card authorises the transaction. If the requested security check is not complied with, we reserve the right to dishonour, cancel, refund and report the transaction information with the relevant Fraud Prevention and Banking Authorities. The decision to do so is at our sole discretion.
+
+If you believe that your credit card details have been used against your knowledge or permission, please contact us as soon as possible and we will assist where we can in preventing any orders being shipped. We recommend that you also contact your bank and get a block on the card, to prevent any future transactions being placed fraudulently.
 
 #### Changes To This Privacy Policy
 
