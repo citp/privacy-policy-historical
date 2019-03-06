@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the styloko.com privacy policy that was archived on 2018-10-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181005031044id_/https%3A//www.endource.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the styloko.com privacy policy that was archived on 2019-03-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190306085120id_/https%3A//www.endource.com/privacy) for the most accurate reproduction.*
 
 # Cookies & Privacy | Endource
 
