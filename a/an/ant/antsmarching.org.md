@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the antsmarching.org privacy policy that was archived on 2018-07-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180725193954id_/https%3A//www.antsmarching.org/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the antsmarching.org privacy policy that was archived on 2019-03-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190306183641id_/https%3A//www.antsmarching.org/privacy.php) for the most accurate reproduction.*
 
 # antsmarching.org: Dave Matthews Band
 
