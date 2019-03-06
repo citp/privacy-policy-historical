@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wordmvp.com privacy policy that was archived on 2018-11-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181116075748id_/https%3A//wordmvp.com/PrivacyPolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wordmvp.com privacy policy that was archived on 2019-03-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190306045307id_/https%3A//wordmvp.com/PrivacyPolicy.html) for the most accurate reproduction.*
 
 # Word MVP Site - Privacy Policy
 
