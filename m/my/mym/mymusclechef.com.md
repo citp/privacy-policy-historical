@@ -1,10 +1,6 @@
-> *The following text is extracted and transformed from the mymusclechef.com privacy policy that was archived on 2018-09-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180903150302id_/https%3A//www.mymusclechef.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mymusclechef.com privacy policy that was archived on 2019-03-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190306175815id_/https%3A//www.mymusclechef.com/privacy) for the most accurate reproduction.*
 
-# Muscle Meals & Weight Loss Meals Delivered
-
-[](https://web.archive.org/)[__](https://web.archive.org/checkout)
-
-[](https://web.archive.org/)[__](https://web.archive.org/checkout)
+# Australia’s Best Ready Meals Delivered Fresh | My Muscle Chef
 
   1. We respect your privacy  
 
