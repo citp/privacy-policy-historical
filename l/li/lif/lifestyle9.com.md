@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the lifestyle9.com privacy policy that was archived on 2018-08-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180823054918id_/https%3A//lifestyle9.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lifestyle9.com privacy policy that was archived on 2019-03-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190306101326id_/https%3A//lifestyle9.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - Fashion & Lifestyle Magazine - Lifestyle9
+# Privacy Policy
 
 This privacy policy sets out how lifestyle9.org uses and protects any information that you give to lifestyle.com when you use this website.
 
@@ -44,7 +44,7 @@ You can find more information about cookies at:
 
   * [ Enable Cookies](http://www.enablecookies.org/)
   * [www.youronlinechoices.eu](http://www.youronlinechoices.eu/)
-  * For a video about cookies visit [a look at cookies](http://www.google.co.uk/goodtoknow/data-on-the-web/cookies)
+  * For a video about cookies visit [a look at cookies](https://www.google.co.uk/goodtoknow/data-on-the-web/cookies)
 
 
 
