@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the siteworthchecker.com privacy policy that was archived on 2017-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170315171752id_/https%3A//siteworthchecker.com/page/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the siteworthchecker.com privacy policy that was archived on 2019-03-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190306162309id_/https%3A//siteworthchecker.com/page/privacy_policy) for the most accurate reproduction.*
 
 # Privacy Policy | Site Worth Checker
 
@@ -18,4 +18,4 @@ We have included links on this site for your use and reference. We are not respo
 
 Visitor Communication
 
-If you subscribe to our Newsletter and receive information from Site Worth Checker, you are able to unsubscribe from future communication with Site Worth Checker by unsubscribing from our mass emailing database or just emailing us (info@siteworthchecker.com) and requesting to do so.
+If you subscribe to our Newsletter and receive information from Site Worth Checker, you are able to unsubscribe from future communication with Site Worth Checker by unsubscribing from our mass emailing database or just emailing us ([[email protected]](https://web.archive.org/cdn-cgi/l/email-protection)) and requesting to do so.
