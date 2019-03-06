@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the weightwatchers.co.uk privacy policy that was archived on 2018-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180617133921id_/https%3A//www.weightwatchers.com/uk/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the weightwatchers.co.uk privacy policy that was archived on 2019-03-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190306080813id_/https%3A//www.weightwatchers.com/uk/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Weight Watchers UK | Weight Watchers UK
+# Privacy Policy | WW UK
 
 **Weight Watchers Website Privacy Policy**
 
@@ -52,7 +52,7 @@ We will use your name and email address to send you an order confirmation email 
 
   * If we Send you Service Updates 
 
-We use your Personal Data to send you important service announcements and up-dates regarding our Website or Internet Products or, if you are a subscriber, about your billing account status. When you become a community user or when you subscribe to our Internet Products, we will send you a welcome email to provide transactional information about your subscription or to verify your username and password. Such service announcements and updates contain important information relevant to your use of our Website and/or our Internet Products. 
+We use your Personal Data to send you important service announcements and up-dates regarding our Website or Internet Products or, if you are a subscriber, about your billing account status. When you become a community user or when you subscribe to our Internet Products, we will send emails to provide transactional information about your subscription or to verify your username and password. Such service announcements and updates contain important information relevant to your use of our Website and/or our Internet Products. 
 
 The processing of your Personal Data for such purposes is necessary for the perfor-mance of our services. The legal basis for such processing of your Personal Data is therefore Art. 6(1)(b) GDPR. Please note that you are contractually required to provide us with such Personal Data and that without such Personal Data we will not be able to send you service-related communication. 
 
@@ -107,6 +107,10 @@ To the extent certain third-party website features are available on our Website,
 We use plug-ins of the social networks Facebook, Pinterest, Twitter, Instagram and YouTube to enable our Website users to easily share content found on our Website and connect with their friends via such social networks. Whenever you view a page of our Website containing such plug-in, your browser establishes a direct connection to the servers operated by provider of the social network. As a result, the content of the social plug-in is transferred by the network provider directly to your browser and embedded in our Website being shown. If you visit our Website whilst signed into your social network user account, information concerning your visit will be transferred to the network provider and the provider of the social network can assign your visit to our Website to your account with the social network. Please note that a data transfer is triggered already when you visit our Website, irrespective whether you interact with the plug-in. To prevent this you must log out of your social network account before visiting our Website. Please refer to the privacy policies of Facebook, Pinterest, Twitter, Instagram and YouTube for more information on the purpose and scope of data collection and data analysis undertaken by the social network as well as your options to modify settings and how to protect your privacy. 
 
 Our Website offers you the option to connect your Weight Watchers account with third party applications or devices (each a "Tracker") such as activity trackers that measure your activity level (e.g. the number of steps and distance walked, calories burned and other personal met-rics). If you connect your Weight Watchers account with an account you have with a provider of a Tracker, the third party provider will receive the information from us that you have a Weight Watchers account. At the same time, data collected by your third party Tracker (for example, personal activity data collected via an activity tracker device or other collected data) will be transferred to us and may be incorporated into your Weight Watchers account (for example, to display activity SmartPoints® values earned) in accordance with the terms of this Privacy Poli-cy. You have the option to disconnect the Trackers from your Weight Watchers account at any time via our website. Please refer to the privacy policy of your Tracker provider for further de-tails, which may include information on what specific data is collected by your third party Tracker and account. 
+
+**Apple HealthKit**
+
+We provide our subscribers the ability to sync with Apple’s HealthKit framework, which provides the ability to access your health and fitness data to help you keep track of your activity in the WW app on your iPhone and Apple Watch if you so choose. (For more information [click here](https://foundations.weightwatchers.co.uk/help/article/590d0fbe15b8be005a4b08fa-en_UK/how-do-i-connect-and-sync-my-fitness-device)). We do not use information gained through the HealthKit framework for advertising or similar services. You can always stop WW from accessing your data by changing the settings of your mobile device. 
 
 **HOW WE SHARE AND DISCLOSE PERSONAL DATA**
 
