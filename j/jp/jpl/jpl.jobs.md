@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jpl.jobs privacy policy that was archived on 2017-09-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170919143622id_/https%3A//www.jpl.nasa.gov/copyrights.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jpl.jobs privacy policy that was archived on 2019-03-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190306211236id_/https%3A//www.jpl.nasa.gov/copyrights.php) for the most accurate reproduction.*
 
 # Copyrights
 
@@ -103,7 +103,7 @@ Unauthorized attempts to upload or change information on Caltech/JPL servers are
 
 ##  Accessibility Statement 
 
-We continually strive to ensure the pages on this Web site are accessible to individuals with disabilities in accordance with [Section 508 of the Rehabilitation Act](http://www.section508.gov/). [jpl508report@list.jpl.nasa.gov](mailto:jpl508report@list.jpl.nasa.gov). 
+We continually strive to ensure the pages on this Web site are accessible to individuals with disabilities in accordance with [Section 508 of the Rehabilitation Act](http://www.section508.gov/). If you have questions about accessibility at JPL or would like to report issues with the accessibility of this site or other JPL sites, please let us know by visiting our [feedback page](https://web.archive.org/web/20190306211236id_/https%3A//www.jpl.nasa.gov/contact_JPL.php). 
 
 Documents on Caltech/JPL Web sites are presented in many formats. These formats are generally accessible to users using screen reading software. Some files on this Web site may be posted as Adobe Acrobat Portable Document Format (PDF) files. Adobe provides their [Acrobat Reader](http://www.adobe.com/products/acrobat/alternate.html) software as a free download. 
 
