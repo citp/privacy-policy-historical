@@ -1,30 +1,36 @@
-<!--The following is the downloaded HTML source of the salehoo.com privacy policy that was archived on 2018-01-29.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20180129220045id_/https%3A//www.salehoo.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the salehoo.com privacy policy that was archived on 2019-03-06.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20190306020245id_/https%3A//www.salehoo.com/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en"><head>
 <meta charset="utf-8">
-<meta http-equiv="X-UA-Compatible" content="IE=edge"><script src="https://js-agent.newrelic.com/nr-1071.min.js"></script><script async="" id="cio-tracker" data-site-id="b945b13bdf85d001f02b" src="https://assets.customer.io/assets/track.js"></script><script async="" src="https://www.googletagmanager.com/gtm.js?id=GTM-PBFG3J"></script><script type="text/javascript">(window.NREUM||(NREUM={})).loader_config={xpid:"UgUAVFNXGwACU1RaAwk="};window.NREUM||(NREUM={}),__nr_require=function(t,n,e){function r(e){if(!n[e]){var o=n[e]={exports:{}};t[e][0].call(o.exports,function(n){var o=t[e][1][n];return r(o||n)},o,o.exports)}return n[e].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<e.length;o++)r(e[o]);return r}({1:[function(t,n,e){function r(t){try{s.console&&console.log(t)}catch(n){}}var o,i=t("ee"),a=t(15),s={};try{o=localStorage.getItem("__nr_flags").split(","),console&&"function"==typeof console.log&&(s.console=!0,o.indexOf("dev")!==-1&&(s.dev=!0),o.indexOf("nr_dev")!==-1&&(s.nrDev=!0))}catch(c){}s.nrDev&&i.on("internal-error",function(t){r(t.stack)}),s.dev&&i.on("fn-err",function(t,n,e){r(e.stack)}),s.dev&&(r("NR AGENT IN DEVELOPMENT MODE"),r("flags: "+a(s,function(t,n){return t}).join(", ")))},{}],2:[function(t,n,e){function r(t,n,e,r,s){try{p?p-=1:o(s||new UncaughtException(t,n,e),!0)}catch(f){try{i("ierr",[f,c.now(),!0])}catch(d){}}return"function"==typeof u&&u.apply(this,a(arguments))}function UncaughtException(t,n,e){this.message=t||"Uncaught error with no additional information",this.sourceURL=n,this.line=e}function o(t,n){var e=n?null:c.now();i("err",[t,e])}var i=t("handle"),a=t(16),s=t("ee"),c=t("loader"),f=t("gos"),u=window.onerror,d=!1,l="nr@seenError",p=0;c.features.err=!0,t(1),window.onerror=r;try{throw new Error}catch(h){"stack"in h&&(t(8),t(7),"addEventListener"in window&&t(5),c.xhrWrappable&&t(9),d=!0)}s.on("fn-start",function(t,n,e){d&&(p+=1)}),s.on("fn-err",function(t,n,e){d&&!e[l]&&(f(e,l,function(){return!0}),this.thrown=!0,o(e))}),s.on("fn-end",function(){d&&!this.thrown&&p>0&&(p-=1)}),s.on("internal-error",function(t){i("ierr",[t,c.now(),!0])})},{}],3:[function(t,n,e){t("loader").features.ins=!0},{}],4:[function(t,n,e){function r(t){}if(window.performance&&window.performance.timing&&window.performance.getEntriesByType){var o=t("ee"),i=t("handle"),a=t(8),s=t(7),c="learResourceTimings",f="addEventListener",u="resourcetimingbufferfull",d="bstResource",l="resource",p="-start",h="-end",m="fn"+p,w="fn"+h,v="bstTimer",y="pushState",g=t("loader");g.features.stn=!0,t(6);var b=NREUM.o.EV;o.on(m,function(t,n){var e=t[0];e instanceof b&&(this.bstStart=g.now())}),o.on(w,function(t,n){var e=t[0];e instanceof b&&i("bst",[e,n,this.bstStart,g.now()])}),a.on(m,function(t,n,e){this.bstStart=g.now(),this.bstType=e}),a.on(w,function(t,n){i(v,[n,this.bstStart,g.now(),this.bstType])}),s.on(m,function(){this.bstStart=g.now()}),s.on(w,function(t,n){i(v,[n,this.bstStart,g.now(),"requestAnimationFrame"])}),o.on(y+p,function(t){this.time=g.now(),this.startPath=location.pathname+location.hash}),o.on(y+h,function(t){i("bstHist",[location.pathname+location.hash,this.startPath,this.time])}),f in window.performance&&(window.performance["c"+c]?window.performance[f](u,function(t){i(d,[window.performance.getEntriesByType(l)]),window.performance["c"+c]()},!1):window.performance[f]("webkit"+u,function(t){i(d,[window.performance.getEntriesByType(l)]),window.performance["webkitC"+c]()},!1)),document[f]("scroll",r,{passive:!0}),document[f]("keypress",r,!1),document[f]("click",r,!1)}},{}],5:[function(t,n,e){function r(t){for(var n=t;n&&!n.hasOwnProperty(u);)n=Object.getPrototypeOf(n);n&&o(n)}function o(t){s.inPlace(t,[u,d],"-",i)}function i(t,n){return t[1]}var a=t("ee").get("events"),s=t(18)(a,!0),c=t("gos"),f=XMLHttpRequest,u="addEventListener",d="removeEventListener";n.exports=a,"getPrototypeOf"in Object?(r(document),r(window),r(f.prototype)):f.prototype.hasOwnProperty(u)&&(o(window),o(f.prototype)),a.on(u+"-start",function(t,n){var e=t[1],r=c(e,"nr@wrapped",function(){function t(){if("function"==typeof e.handleEvent)return e.handleEvent.apply(e,arguments)}var n={object:t,"function":e}[typeof e];return n?s(n,"fn-",null,n.name||"anonymous"):e});this.wrapped=t[1]=r}),a.on(d+"-start",function(t){t[1]=this.wrapped||t[1]})},{}],6:[function(t,n,e){var r=t("ee").get("history"),o=t(18)(r);n.exports=r,o.inPlace(window.history,["pushState","replaceState"],"-")},{}],7:[function(t,n,e){var r=t("ee").get("raf"),o=t(18)(r),i="equestAnimationFrame";n.exports=r,o.inPlace(window,["r"+i,"mozR"+i,"webkitR"+i,"msR"+i],"raf-"),r.on("raf-start",function(t){t[0]=o(t[0],"fn-")})},{}],8:[function(t,n,e){function r(t,n,e){t[0]=a(t[0],"fn-",null,e)}function o(t,n,e){this.method=e,this.timerDuration=isNaN(t[1])?0:+t[1],t[0]=a(t[0],"fn-",this,e)}var i=t("ee").get("timer"),a=t(18)(i),s="setTimeout",c="setInterval",f="clearTimeout",u="-start",d="-";n.exports=i,a.inPlace(window,[s,"setImmediate"],s+d),a.inPlace(window,[c],c+d),a.inPlace(window,[f,"clearImmediate"],f+d),i.on(c+u,r),i.on(s+u,o)},{}],9:[function(t,n,e){function r(t,n){d.inPlace(n,["onreadystatechange"],"fn-",s)}function o(){var t=this,n=u.context(t);t.readyState>3&&!n.resolved&&(n.resolved=!0,u.emit("xhr-resolved",[],t)),d.inPlace(t,y,"fn-",s)}function i(t){g.push(t),h&&(x?x.then(a):w?w(a):(E=-E,O.data=E))}function a(){for(var t=0;t<g.length;t++)r([],g[t]);g.length&&(g=[])}function s(t,n){return n}function c(t,n){for(var e in t)n[e]=t[e];return n}t(5);var f=t("ee"),u=f.get("xhr"),d=t(18)(u),l=NREUM.o,p=l.XHR,h=l.MO,m=l.PR,w=l.SI,v="readystatechange",y=["onload","onerror","onabort","onloadstart","onloadend","onprogress","ontimeout"],g=[];n.exports=u;var b=window.XMLHttpRequest=function(t){var n=new p(t);try{u.emit("new-xhr",[n],n),n.addEventListener(v,o,!1)}catch(e){try{u.emit("internal-error",[e])}catch(r){}}return n};if(c(p,b),b.prototype=p.prototype,d.inPlace(b.prototype,["open","send"],"-xhr-",s),u.on("send-xhr-start",function(t,n){r(t,n),i(n)}),u.on("open-xhr-start",r),h){var x=m&&m.resolve();if(!w&&!m){var E=1,O=document.createTextNode(E);new h(a).observe(O,{characterData:!0})}}else f.on("fn-end",function(t){t[0]&&t[0].type===v||a()})},{}],10:[function(t,n,e){function r(t){var n=this.params,e=this.metrics;if(!this.ended){this.ended=!0;for(var r=0;r<d;r++)t.removeEventListener(u[r],this.listener,!1);if(!n.aborted){if(e.duration=a.now()-this.startTime,4===t.readyState){n.status=t.status;var i=o(t,this.lastSize);if(i&&(e.rxSize=i),this.sameOrigin){var c=t.getResponseHeader("X-NewRelic-App-Data");c&&(n.cat=c.split(", ").pop())}}else n.status=0;e.cbTime=this.cbTime,f.emit("xhr-done",[t],t),s("xhr",[n,e,this.startTime])}}}function o(t,n){var e=t.responseType;if("json"===e&&null!==n)return n;var r="arraybuffer"===e||"blob"===e||"json"===e?t.response:t.responseText;return h(r)}function i(t,n){var e=c(n),r=t.params;r.host=e.hostname+":"+e.port,r.pathname=e.pathname,t.sameOrigin=e.sameOrigin}var a=t("loader");if(a.xhrWrappable){var s=t("handle"),c=t(11),f=t("ee"),u=["load","error","abort","timeout"],d=u.length,l=t("id"),p=t(14),h=t(13),m=window.XMLHttpRequest;a.features.xhr=!0,t(9),f.on("new-xhr",function(t){var n=this;n.totalCbs=0,n.called=0,n.cbTime=0,n.end=r,n.ended=!1,n.xhrGuids={},n.lastSize=null,p&&(p>34||p<10)||window.opera||t.addEventListener("progress",function(t){n.lastSize=t.loaded},!1)}),f.on("open-xhr-start",function(t){this.params={method:t[0]},i(this,t[1]),this.metrics={}}),f.on("open-xhr-end",function(t,n){"loader_config"in NREUM&&"xpid"in NREUM.loader_config&&this.sameOrigin&&n.setRequestHeader("X-NewRelic-ID",NREUM.loader_config.xpid)}),f.on("send-xhr-start",function(t,n){var e=this.metrics,r=t[0],o=this;if(e&&r){var i=h(r);i&&(e.txSize=i)}this.startTime=a.now(),this.listener=function(t){try{"abort"===t.type&&(o.params.aborted=!0),("load"!==t.type||o.called===o.totalCbs&&(o.onloadCalled||"function"!=typeof n.onload))&&o.end(n)}catch(e){try{f.emit("internal-error",[e])}catch(r){}}};for(var s=0;s<d;s++)n.addEventListener(u[s],this.listener,!1)}),f.on("xhr-cb-time",function(t,n,e){this.cbTime+=t,n?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&&"function"==typeof e.onload||this.end(e)}),f.on("xhr-load-added",function(t,n){var e=""+l(t)+!!n;this.xhrGuids&&!this.xhrGuids[e]&&(this.xhrGuids[e]=!0,this.totalCbs+=1)}),f.on("xhr-load-removed",function(t,n){var e=""+l(t)+!!n;this.xhrGuids&&this.xhrGuids[e]&&(delete this.xhrGuids[e],this.totalCbs-=1)}),f.on("addEventListener-end",function(t,n){n instanceof m&&"load"===t[0]&&f.emit("xhr-load-added",[t[1],t[2]],n)}),f.on("removeEventListener-end",function(t,n){n instanceof m&&"load"===t[0]&&f.emit("xhr-load-removed",[t[1],t[2]],n)}),f.on("fn-start",function(t,n,e){n instanceof m&&("onload"===e&&(this.onload=!0),("load"===(t[0]&&t[0].type)||this.onload)&&(this.xhrCbStart=a.now()))}),f.on("fn-end",function(t,n){this.xhrCbStart&&f.emit("xhr-cb-time",[a.now()-this.xhrCbStart,this.onload,n],n)})}},{}],11:[function(t,n,e){n.exports=function(t){var n=document.createElement("a"),e=window.location,r={};n.href=t,r.port=n.port;var o=n.href.split("://");!r.port&&o[1]&&(r.port=o[1].split("/")[0].split("@").pop().split(":")[1]),r.port&&"0"!==r.port||(r.port="https"===o[0]?"443":"80"),r.hostname=n.hostname||e.hostname,r.pathname=n.pathname,r.protocol=o[0],"/"!==r.pathname.charAt(0)&&(r.pathname="/"+r.pathname);var i=!n.protocol||":"===n.protocol||n.protocol===e.protocol,a=n.hostname===document.domain&&n.port===e.port;return r.sameOrigin=i&&(!n.hostname||a),r}},{}],12:[function(t,n,e){function r(){}function o(t,n,e){return function(){return i(t,[f.now()].concat(s(arguments)),n?null:this,e),n?void 0:this}}var i=t("handle"),a=t(15),s=t(16),c=t("ee").get("tracer"),f=t("loader"),u=NREUM;"undefined"==typeof window.newrelic&&(newrelic=u);var d=["setPageViewName","setCustomAttribute","setErrorHandler","finished","addToTrace","inlineHit","addRelease"],l="api-",p=l+"ixn-";a(d,function(t,n){u[n]=o(l+n,!0,"api")}),u.addPageAction=o(l+"addPageAction",!0),u.setCurrentRouteName=o(l+"routeName",!0),n.exports=newrelic,u.interaction=function(){return(new r).get()};var h=r.prototype={createTracer:function(t,n){var e={},r=this,o="function"==typeof n;return i(p+"tracer",[f.now(),t,e],r),function(){if(c.emit((o?"":"no-")+"fn-start",[f.now(),r,o],e),o)try{return n.apply(this,arguments)}catch(t){throw c.emit("fn-err",[arguments,this,t],e),t}finally{c.emit("fn-end",[f.now()],e)}}}};a("setName,setAttribute,save,ignore,onEnd,getContext,end,get".split(","),function(t,n){h[n]=o(p+n)}),newrelic.noticeError=function(t){"string"==typeof t&&(t=new Error(t)),i("err",[t,f.now()])}},{}],13:[function(t,n,e){n.exports=function(t){if("string"==typeof t&&t.length)return t.length;if("object"==typeof t){if("undefined"!=typeof ArrayBuffer&&t instanceof ArrayBuffer&&t.byteLength)return t.byteLength;if("undefined"!=typeof Blob&&t instanceof Blob&&t.size)return t.size;if(!("undefined"!=typeof FormData&&t instanceof FormData))try{return JSON.stringify(t).length}catch(n){return}}}},{}],14:[function(t,n,e){var r=0,o=navigator.userAgent.match(/Firefox[\/\s](\d+\.\d+)/);o&&(r=+o[1]),n.exports=r},{}],15:[function(t,n,e){function r(t,n){var e=[],r="",i=0;for(r in t)o.call(t,r)&&(e[i]=n(r,t[r]),i+=1);return e}var o=Object.prototype.hasOwnProperty;n.exports=r},{}],16:[function(t,n,e){function r(t,n,e){n||(n=0),"undefined"==typeof e&&(e=t?t.length:0);for(var r=-1,o=e-n||0,i=Array(o<0?0:o);++r<o;)i[r]=t[n+r];return i}n.exports=r},{}],17:[function(t,n,e){n.exports={exists:"undefined"!=typeof window.performance&&window.performance.timing&&"undefined"!=typeof window.performance.timing.navigationStart}},{}],18:[function(t,n,e){function r(t){return!(t&&t instanceof Function&&t.apply&&!t[a])}var o=t("ee"),i=t(16),a="nr@original",s=Object.prototype.hasOwnProperty,c=!1;n.exports=function(t,n){function e(t,n,e,o){function nrWrapper(){var r,a,s,c;try{a=this,r=i(arguments),s="function"==typeof e?e(r,a):e||{}}catch(f){l([f,"",[r,a,o],s])}u(n+"start",[r,a,o],s);try{return c=t.apply(a,r)}catch(d){throw u(n+"err",[r,a,d],s),d}finally{u(n+"end",[r,a,c],s)}}return r(t)?t:(n||(n=""),nrWrapper[a]=t,d(t,nrWrapper),nrWrapper)}function f(t,n,o,i){o||(o="");var a,s,c,f="-"===o.charAt(0);for(c=0;c<n.length;c++)s=n[c],a=t[s],r(a)||(t[s]=e(a,f?s+o:o,i,s))}function u(e,r,o){if(!c||n){var i=c;c=!0;try{t.emit(e,r,o,n)}catch(a){l([a,e,r,o])}c=i}}function d(t,n){if(Object.defineProperty&&Object.keys)try{var e=Object.keys(t);return e.forEach(function(e){Object.defineProperty(n,e,{get:function(){return t[e]},set:function(n){return t[e]=n,n}})}),n}catch(r){l([r])}for(var o in t)s.call(t,o)&&(n[o]=t[o]);return n}function l(n){try{t.emit("internal-error",n)}catch(e){}}return t||(t=o),e.inPlace=f,e.flag=a,e}},{}],ee:[function(t,n,e){function r(){}function o(t){function n(t){return t&&t instanceof r?t:t?c(t,s,i):i()}function e(e,r,o,i){if(!l.aborted||i){t&&t(e,r,o);for(var a=n(o),s=h(e),c=s.length,f=0;f<c;f++)s[f].apply(a,r);var d=u[y[e]];return d&&d.push([g,e,r,a]),a}}function p(t,n){v[t]=h(t).concat(n)}function h(t){return v[t]||[]}function m(t){return d[t]=d[t]||o(e)}function w(t,n){f(t,function(t,e){n=n||"feature",y[e]=n,n in u||(u[n]=[])})}var v={},y={},g={on:p,emit:e,get:m,listeners:h,context:n,buffer:w,abort:a,aborted:!1};return g}function i(){return new r}function a(){(u.api||u.feature)&&(l.aborted=!0,u=l.backlog={})}var s="nr@context",c=t("gos"),f=t(15),u={},d={},l=n.exports=o();l.backlog=u},{}],gos:[function(t,n,e){function r(t,n,e){if(o.call(t,n))return t[n];var r=e();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(t,n,{value:r,writable:!0,enumerable:!1}),r}catch(i){}return t[n]=r,r}var o=Object.prototype.hasOwnProperty;n.exports=r},{}],handle:[function(t,n,e){function r(t,n,e,r){o.buffer([t],r),o.emit(t,n,e)}var o=t("ee").get("handle");n.exports=r,r.ee=o},{}],id:[function(t,n,e){function r(t){var n=typeof t;return!t||"object"!==n&&"function"!==n?-1:t===window?0:a(t,i,function(){return o++})}var o=1,i="nr@id",a=t("gos");n.exports=r},{}],loader:[function(t,n,e){function r(){if(!x++){var t=b.info=NREUM.info,n=l.getElementsByTagName("script")[0];if(setTimeout(u.abort,3e4),!(t&&t.licenseKey&&t.applicationID&&n))return u.abort();f(y,function(n,e){t[n]||(t[n]=e)}),c("mark",["onload",a()+b.offset],null,"api");var e=l.createElement("script");e.src="https://"+t.agent,n.parentNode.insertBefore(e,n)}}function o(){"complete"===l.readyState&&i()}function i(){c("mark",["domContent",a()+b.offset],null,"api")}function a(){return E.exists&&performance.now?Math.round(performance.now()):(s=Math.max((new Date).getTime(),s))-b.offset}var s=(new Date).getTime(),c=t("handle"),f=t(15),u=t("ee"),d=window,l=d.document,p="addEventListener",h="attachEvent",m=d.XMLHttpRequest,w=m&&m.prototype;NREUM.o={ST:setTimeout,SI:d.setImmediate,CT:clearTimeout,XHR:m,REQ:d.Request,EV:d.Event,PR:d.Promise,MO:d.MutationObserver};var v=""+location,y={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-1071.min.js"},g=m&&w&&w[p]&&!/CriOS/.test(navigator.userAgent),b=n.exports={offset:s,now:a,origin:v,features:{},xhrWrappable:g};t(12),l[p]?(l[p]("DOMContentLoaded",i,!1),d[p]("load",r,!1)):(l[h]("onreadystatechange",o),d[h]("onload",r)),c("mark",["firstbyte",s],null,"api");var x=0,E=t(17)},{}]},{},["loader",2,10,4,3]);</script>
+<meta http-equiv="X-UA-Compatible" content="IE=edge"><script src="https://js-agent.newrelic.com/nr-1118.min.js"></script><script async="" src="https://io.innertrends.com/itl.js" type="text/javascript"></script><script async="" id="cio-tracker" data-site-id="b945b13bdf85d001f02b" src="https://assets.customer.io/assets/track.js"></script><script async="" src="https://www.googletagmanager.com/gtm.js?id=GTM-PBFG3J"></script><script type="text/javascript">(window.NREUM||(NREUM={})).loader_config={xpid:"UgUAVFNXGwACU1RaAwk="};window.NREUM||(NREUM={}),__nr_require=function(t,n,e){function r(e){if(!n[e]){var o=n[e]={exports:{}};t[e][0].call(o.exports,function(n){var o=t[e][1][n];return r(o||n)},o,o.exports)}return n[e].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<e.length;o++)r(e[o]);return r}({1:[function(t,n,e){function r(t){try{s.console&&console.log(t)}catch(n){}}var o,i=t("ee"),a=t(16),s={};try{o=localStorage.getItem("__nr_flags").split(","),console&&"function"==typeof console.log&&(s.console=!0,o.indexOf("dev")!==-1&&(s.dev=!0),o.indexOf("nr_dev")!==-1&&(s.nrDev=!0))}catch(c){}s.nrDev&&i.on("internal-error",function(t){r(t.stack)}),s.dev&&i.on("fn-err",function(t,n,e){r(e.stack)}),s.dev&&(r("NR AGENT IN DEVELOPMENT MODE"),r("flags: "+a(s,function(t,n){return t}).join(", ")))},{}],2:[function(t,n,e){function r(t,n,e,r,s){try{p?p-=1:o(s||new UncaughtException(t,n,e),!0)}catch(f){try{i("ierr",[f,c.now(),!0])}catch(d){}}return"function"==typeof u&&u.apply(this,a(arguments))}function UncaughtException(t,n,e){this.message=t||"Uncaught error with no additional information",this.sourceURL=n,this.line=e}function o(t,n){var e=n?null:c.now();i("err",[t,e])}var i=t("handle"),a=t(17),s=t("ee"),c=t("loader"),f=t("gos"),u=window.onerror,d=!1,l="nr@seenError",p=0;c.features.err=!0,t(1),window.onerror=r;try{throw new Error}catch(h){"stack"in h&&(t(8),t(7),"addEventListener"in window&&t(5),c.xhrWrappable&&t(9),d=!0)}s.on("fn-start",function(t,n,e){d&&(p+=1)}),s.on("fn-err",function(t,n,e){d&&!e[l]&&(f(e,l,function(){return!0}),this.thrown=!0,o(e))}),s.on("fn-end",function(){d&&!this.thrown&&p>0&&(p-=1)}),s.on("internal-error",function(t){i("ierr",[t,c.now(),!0])})},{}],3:[function(t,n,e){t("loader").features.ins=!0},{}],4:[function(t,n,e){function r(t){}if(window.performance&&window.performance.timing&&window.performance.getEntriesByType){var o=t("ee"),i=t("handle"),a=t(8),s=t(7),c="learResourceTimings",f="addEventListener",u="resourcetimingbufferfull",d="bstResource",l="resource",p="-start",h="-end",m="fn"+p,v="fn"+h,w="bstTimer",y="pushState",g=t("loader");g.features.stn=!0,t(6);var b=NREUM.o.EV;o.on(m,function(t,n){var e=t[0];e instanceof b&&(this.bstStart=g.now())}),o.on(v,function(t,n){var e=t[0];e instanceof b&&i("bst",[e,n,this.bstStart,g.now()])}),a.on(m,function(t,n,e){this.bstStart=g.now(),this.bstType=e}),a.on(v,function(t,n){i(w,[n,this.bstStart,g.now(),this.bstType])}),s.on(m,function(){this.bstStart=g.now()}),s.on(v,function(t,n){i(w,[n,this.bstStart,g.now(),"requestAnimationFrame"])}),o.on(y+p,function(t){this.time=g.now(),this.startPath=location.pathname+location.hash}),o.on(y+h,function(t){i("bstHist",[location.pathname+location.hash,this.startPath,this.time])}),f in window.performance&&(window.performance["c"+c]?window.performance[f](u,function(t){i(d,[window.performance.getEntriesByType(l)]),window.performance["c"+c]()},!1):window.performance[f]("webkit"+u,function(t){i(d,[window.performance.getEntriesByType(l)]),window.performance["webkitC"+c]()},!1)),document[f]("scroll",r,{passive:!0}),document[f]("keypress",r,!1),document[f]("click",r,!1)}},{}],5:[function(t,n,e){function r(t){for(var n=t;n&&!n.hasOwnProperty(u);)n=Object.getPrototypeOf(n);n&&o(n)}function o(t){s.inPlace(t,[u,d],"-",i)}function i(t,n){return t[1]}var a=t("ee").get("events"),s=t(19)(a,!0),c=t("gos"),f=XMLHttpRequest,u="addEventListener",d="removeEventListener";n.exports=a,"getPrototypeOf"in Object?(r(document),r(window),r(f.prototype)):f.prototype.hasOwnProperty(u)&&(o(window),o(f.prototype)),a.on(u+"-start",function(t,n){var e=t[1],r=c(e,"nr@wrapped",function(){function t(){if("function"==typeof e.handleEvent)return e.handleEvent.apply(e,arguments)}var n={object:t,"function":e}[typeof e];return n?s(n,"fn-",null,n.name||"anonymous"):e});this.wrapped=t[1]=r}),a.on(d+"-start",function(t){t[1]=this.wrapped||t[1]})},{}],6:[function(t,n,e){var r=t("ee").get("history"),o=t(19)(r);n.exports=r,o.inPlace(window.history,["pushState","replaceState"],"-")},{}],7:[function(t,n,e){var r=t("ee").get("raf"),o=t(19)(r),i="equestAnimationFrame";n.exports=r,o.inPlace(window,["r"+i,"mozR"+i,"webkitR"+i,"msR"+i],"raf-"),r.on("raf-start",function(t){t[0]=o(t[0],"fn-")})},{}],8:[function(t,n,e){function r(t,n,e){t[0]=a(t[0],"fn-",null,e)}function o(t,n,e){this.method=e,this.timerDuration=isNaN(t[1])?0:+t[1],t[0]=a(t[0],"fn-",this,e)}var i=t("ee").get("timer"),a=t(19)(i),s="setTimeout",c="setInterval",f="clearTimeout",u="-start",d="-";n.exports=i,a.inPlace(window,[s,"setImmediate"],s+d),a.inPlace(window,[c],c+d),a.inPlace(window,[f,"clearImmediate"],f+d),i.on(c+u,r),i.on(s+u,o)},{}],9:[function(t,n,e){function r(t,n){d.inPlace(n,["onreadystatechange"],"fn-",s)}function o(){var t=this,n=u.context(t);t.readyState>3&&!n.resolved&&(n.resolved=!0,u.emit("xhr-resolved",[],t)),d.inPlace(t,y,"fn-",s)}function i(t){g.push(t),h&&(x?x.then(a):v?v(a):(E=-E,O.data=E))}function a(){for(var t=0;t<g.length;t++)r([],g[t]);g.length&&(g=[])}function s(t,n){return n}function c(t,n){for(var e in t)n[e]=t[e];return n}t(5);var f=t("ee"),u=f.get("xhr"),d=t(19)(u),l=NREUM.o,p=l.XHR,h=l.MO,m=l.PR,v=l.SI,w="readystatechange",y=["onload","onerror","onabort","onloadstart","onloadend","onprogress","ontimeout"],g=[];n.exports=u;var b=window.XMLHttpRequest=function(t){var n=new p(t);try{u.emit("new-xhr",[n],n),n.addEventListener(w,o,!1)}catch(e){try{u.emit("internal-error",[e])}catch(r){}}return n};if(c(p,b),b.prototype=p.prototype,d.inPlace(b.prototype,["open","send"],"-xhr-",s),u.on("send-xhr-start",function(t,n){r(t,n),i(n)}),u.on("open-xhr-start",r),h){var x=m&&m.resolve();if(!v&&!m){var E=1,O=document.createTextNode(E);new h(a).observe(O,{characterData:!0})}}else f.on("fn-end",function(t){t[0]&&t[0].type===w||a()})},{}],10:[function(t,n,e){function r(t){var n=this.params,e=this.metrics;if(!this.ended){this.ended=!0;for(var r=0;r<d;r++)t.removeEventListener(u[r],this.listener,!1);if(!n.aborted){if(e.duration=a.now()-this.startTime,4===t.readyState){n.status=t.status;var i=o(t,this.lastSize);if(i&&(e.rxSize=i),this.sameOrigin){var c=t.getResponseHeader("X-NewRelic-App-Data");c&&(n.cat=c.split(", ").pop())}}else n.status=0;e.cbTime=this.cbTime,f.emit("xhr-done",[t],t),s("xhr",[n,e,this.startTime])}}}function o(t,n){var e=t.responseType;if("json"===e&&null!==n)return n;var r="arraybuffer"===e||"blob"===e||"json"===e?t.response:t.responseText;return h(r)}function i(t,n){var e=c(n),r=t.params;r.host=e.hostname+":"+e.port,r.pathname=e.pathname,t.sameOrigin=e.sameOrigin}var a=t("loader");if(a.xhrWrappable){var s=t("handle"),c=t(11),f=t("ee"),u=["load","error","abort","timeout"],d=u.length,l=t("id"),p=t(14),h=t(13),m=window.XMLHttpRequest;a.features.xhr=!0,t(9),f.on("new-xhr",function(t){var n=this;n.totalCbs=0,n.called=0,n.cbTime=0,n.end=r,n.ended=!1,n.xhrGuids={},n.lastSize=null,p&&(p>34||p<10)||window.opera||t.addEventListener("progress",function(t){n.lastSize=t.loaded},!1)}),f.on("open-xhr-start",function(t){this.params={method:t[0]},i(this,t[1]),this.metrics={}}),f.on("open-xhr-end",function(t,n){"loader_config"in NREUM&&"xpid"in NREUM.loader_config&&this.sameOrigin&&n.setRequestHeader("X-NewRelic-ID",NREUM.loader_config.xpid)}),f.on("send-xhr-start",function(t,n){var e=this.metrics,r=t[0],o=this;if(e&&r){var i=h(r);i&&(e.txSize=i)}this.startTime=a.now(),this.listener=function(t){try{"abort"===t.type&&(o.params.aborted=!0),("load"!==t.type||o.called===o.totalCbs&&(o.onloadCalled||"function"!=typeof n.onload))&&o.end(n)}catch(e){try{f.emit("internal-error",[e])}catch(r){}}};for(var s=0;s<d;s++)n.addEventListener(u[s],this.listener,!1)}),f.on("xhr-cb-time",function(t,n,e){this.cbTime+=t,n?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&&"function"==typeof e.onload||this.end(e)}),f.on("xhr-load-added",function(t,n){var e=""+l(t)+!!n;this.xhrGuids&&!this.xhrGuids[e]&&(this.xhrGuids[e]=!0,this.totalCbs+=1)}),f.on("xhr-load-removed",function(t,n){var e=""+l(t)+!!n;this.xhrGuids&&this.xhrGuids[e]&&(delete this.xhrGuids[e],this.totalCbs-=1)}),f.on("addEventListener-end",function(t,n){n instanceof m&&"load"===t[0]&&f.emit("xhr-load-added",[t[1],t[2]],n)}),f.on("removeEventListener-end",function(t,n){n instanceof m&&"load"===t[0]&&f.emit("xhr-load-removed",[t[1],t[2]],n)}),f.on("fn-start",function(t,n,e){n instanceof m&&("onload"===e&&(this.onload=!0),("load"===(t[0]&&t[0].type)||this.onload)&&(this.xhrCbStart=a.now()))}),f.on("fn-end",function(t,n){this.xhrCbStart&&f.emit("xhr-cb-time",[a.now()-this.xhrCbStart,this.onload,n],n)})}},{}],11:[function(t,n,e){n.exports=function(t){var n=document.createElement("a"),e=window.location,r={};n.href=t,r.port=n.port;var o=n.href.split("://");!r.port&&o[1]&&(r.port=o[1].split("/")[0].split("@").pop().split(":")[1]),r.port&&"0"!==r.port||(r.port="https"===o[0]?"443":"80"),r.hostname=n.hostname||e.hostname,r.pathname=n.pathname,r.protocol=o[0],"/"!==r.pathname.charAt(0)&&(r.pathname="/"+r.pathname);var i=!n.protocol||":"===n.protocol||n.protocol===e.protocol,a=n.hostname===document.domain&&n.port===e.port;return r.sameOrigin=i&&(!n.hostname||a),r}},{}],12:[function(t,n,e){function r(){}function o(t,n,e){return function(){return i(t,[f.now()].concat(s(arguments)),n?null:this,e),n?void 0:this}}var i=t("handle"),a=t(16),s=t(17),c=t("ee").get("tracer"),f=t("loader"),u=NREUM;"undefined"==typeof window.newrelic&&(newrelic=u);var d=["setPageViewName","setCustomAttribute","setErrorHandler","finished","addToTrace","inlineHit","addRelease"],l="api-",p=l+"ixn-";a(d,function(t,n){u[n]=o(l+n,!0,"api")}),u.addPageAction=o(l+"addPageAction",!0),u.setCurrentRouteName=o(l+"routeName",!0),n.exports=newrelic,u.interaction=function(){return(new r).get()};var h=r.prototype={createTracer:function(t,n){var e={},r=this,o="function"==typeof n;return i(p+"tracer",[f.now(),t,e],r),function(){if(c.emit((o?"":"no-")+"fn-start",[f.now(),r,o],e),o)try{return n.apply(this,arguments)}catch(t){throw c.emit("fn-err",[arguments,this,t],e),t}finally{c.emit("fn-end",[f.now()],e)}}}};a("actionText,setName,setAttribute,save,ignore,onEnd,getContext,end,get".split(","),function(t,n){h[n]=o(p+n)}),newrelic.noticeError=function(t,n){"string"==typeof t&&(t=new Error(t)),i("err",[t,f.now(),!1,n])}},{}],13:[function(t,n,e){n.exports=function(t){if("string"==typeof t&&t.length)return t.length;if("object"==typeof t){if("undefined"!=typeof ArrayBuffer&&t instanceof ArrayBuffer&&t.byteLength)return t.byteLength;if("undefined"!=typeof Blob&&t instanceof Blob&&t.size)return t.size;if(!("undefined"!=typeof FormData&&t instanceof FormData))try{return JSON.stringify(t).length}catch(n){return}}}},{}],14:[function(t,n,e){var r=0,o=navigator.userAgent.match(/Firefox[\/\s](\d+\.\d+)/);o&&(r=+o[1]),n.exports=r},{}],15:[function(t,n,e){function r(t,n){if(!o)return!1;if(t!==o)return!1;if(!n)return!0;if(!i)return!1;for(var e=i.split("."),r=n.split("."),a=0;a<r.length;a++)if(r[a]!==e[a])return!1;return!0}var o=null,i=null,a=/Version\/(\S+)\s+Safari/;if(navigator.userAgent){var s=navigator.userAgent,c=s.match(a);c&&s.indexOf("Chrome")===-1&&s.indexOf("Chromium")===-1&&(o="Safari",i=c[1])}n.exports={agent:o,version:i,match:r}},{}],16:[function(t,n,e){function r(t,n){var e=[],r="",i=0;for(r in t)o.call(t,r)&&(e[i]=n(r,t[r]),i+=1);return e}var o=Object.prototype.hasOwnProperty;n.exports=r},{}],17:[function(t,n,e){function r(t,n,e){n||(n=0),"undefined"==typeof e&&(e=t?t.length:0);for(var r=-1,o=e-n||0,i=Array(o<0?0:o);++r<o;)i[r]=t[n+r];return i}n.exports=r},{}],18:[function(t,n,e){n.exports={exists:"undefined"!=typeof window.performance&&window.performance.timing&&"undefined"!=typeof window.performance.timing.navigationStart}},{}],19:[function(t,n,e){function r(t){return!(t&&t instanceof Function&&t.apply&&!t[a])}var o=t("ee"),i=t(17),a="nr@original",s=Object.prototype.hasOwnProperty,c=!1;n.exports=function(t,n){function e(t,n,e,o){function nrWrapper(){var r,a,s,c;try{a=this,r=i(arguments),s="function"==typeof e?e(r,a):e||{}}catch(f){l([f,"",[r,a,o],s])}u(n+"start",[r,a,o],s);try{return c=t.apply(a,r)}catch(d){throw u(n+"err",[r,a,d],s),d}finally{u(n+"end",[r,a,c],s)}}return r(t)?t:(n||(n=""),nrWrapper[a]=t,d(t,nrWrapper),nrWrapper)}function f(t,n,o,i){o||(o="");var a,s,c,f="-"===o.charAt(0);for(c=0;c<n.length;c++)s=n[c],a=t[s],r(a)||(t[s]=e(a,f?s+o:o,i,s))}function u(e,r,o){if(!c||n){var i=c;c=!0;try{t.emit(e,r,o,n)}catch(a){l([a,e,r,o])}c=i}}function d(t,n){if(Object.defineProperty&&Object.keys)try{var e=Object.keys(t);return e.forEach(function(e){Object.defineProperty(n,e,{get:function(){return t[e]},set:function(n){return t[e]=n,n}})}),n}catch(r){l([r])}for(var o in t)s.call(t,o)&&(n[o]=t[o]);return n}function l(n){try{t.emit("internal-error",n)}catch(e){}}return t||(t=o),e.inPlace=f,e.flag=a,e}},{}],ee:[function(t,n,e){function r(){}function o(t){function n(t){return t&&t instanceof r?t:t?c(t,s,i):i()}function e(e,r,o,i){if(!l.aborted||i){t&&t(e,r,o);for(var a=n(o),s=m(e),c=s.length,f=0;f<c;f++)s[f].apply(a,r);var d=u[g[e]];return d&&d.push([b,e,r,a]),a}}function p(t,n){y[t]=m(t).concat(n)}function h(t,n){var e=y[t];if(e)for(var r=0;r<e.length;r++)e[r]===n&&e.splice(r,1)}function m(t){return y[t]||[]}function v(t){return d[t]=d[t]||o(e)}function w(t,n){f(t,function(t,e){n=n||"feature",g[e]=n,n in u||(u[n]=[])})}var y={},g={},b={on:p,addEventListener:p,removeEventListener:h,emit:e,get:v,listeners:m,context:n,buffer:w,abort:a,aborted:!1};return b}function i(){return new r}function a(){(u.api||u.feature)&&(l.aborted=!0,u=l.backlog={})}var s="nr@context",c=t("gos"),f=t(16),u={},d={},l=n.exports=o();l.backlog=u},{}],gos:[function(t,n,e){function r(t,n,e){if(o.call(t,n))return t[n];var r=e();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(t,n,{value:r,writable:!0,enumerable:!1}),r}catch(i){}return t[n]=r,r}var o=Object.prototype.hasOwnProperty;n.exports=r},{}],handle:[function(t,n,e){function r(t,n,e,r){o.buffer([t],r),o.emit(t,n,e)}var o=t("ee").get("handle");n.exports=r,r.ee=o},{}],id:[function(t,n,e){function r(t){var n=typeof t;return!t||"object"!==n&&"function"!==n?-1:t===window?0:a(t,i,function(){return o++})}var o=1,i="nr@id",a=t("gos");n.exports=r},{}],loader:[function(t,n,e){function r(){if(!E++){var t=x.info=NREUM.info,n=p.getElementsByTagName("script")[0];if(setTimeout(u.abort,3e4),!(t&&t.licenseKey&&t.applicationID&&n))return u.abort();f(g,function(n,e){t[n]||(t[n]=e)}),c("mark",["onload",a()+x.offset],null,"api");var e=p.createElement("script");e.src="https://"+t.agent,n.parentNode.insertBefore(e,n)}}function o(){"complete"===p.readyState&&i()}function i(){c("mark",["domContent",a()+x.offset],null,"api")}function a(){return O.exists&&performance.now?Math.round(performance.now()):(s=Math.max((new Date).getTime(),s))-x.offset}var s=(new Date).getTime(),c=t("handle"),f=t(16),u=t("ee"),d=t(15),l=window,p=l.document,h="addEventListener",m="attachEvent",v=l.XMLHttpRequest,w=v&&v.prototype;NREUM.o={ST:setTimeout,SI:l.setImmediate,CT:clearTimeout,XHR:v,REQ:l.Request,EV:l.Event,PR:l.Promise,MO:l.MutationObserver};var y=""+location,g={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-1118.min.js"},b=v&&w&&w[h]&&!/CriOS/.test(navigator.userAgent),x=n.exports={offset:s,now:a,origin:y,features:{},xhrWrappable:b,userAgent:d};t(12),p[h]?(p[h]("DOMContentLoaded",i,!1),l[h]("load",r,!1)):(p[m]("onreadystatechange",o),l[m]("onload",r)),c("mark",["firstbyte",s],null,"api");var E=0,O=t(18)},{}]},{},["loader",2,10,4,3]);</script>
 <meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="theme-color" content="#FFFFFF">
 <title>SaleHoo Privacy Policy | SaleHoo</title>
-<link href="//fonts.googleapis.com/css?family=Open+Sans:300,300i,400,400i,600,600i,700,700i|Poppins:300,400,500,600,700|Sacramento" rel="stylesheet">
-<script src="//cdn.optimizely.com/js/3732086.js"></script>
+<link href="//fonts.googleapis.com/css?family=Open+Sans:300,300i,400,400i,600,600i,700,700i%7CPoppins:300,400,500,600,700%7CSacramento" rel="stylesheet">
 <script>dataLayer=[[]];</script>
 <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src='https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);})(window,document,'script','dataLayer','GTM-PBFG3J');</script>
-<link rel="stylesheet" type="text/css" href="/ccss/A.bootstrap_f2cb01abbfbbf760b9c952d83cce2549ssl_84298.css.pagespeed.cf.W8tZxPd58l.css">
-<style>@font-face{font-family:'fpicons';src:url(flowplayer/skin/fonts/fpicons.eot?yg5dv7);src:url(flowplayer/skin/fonts/fpicons.eot?#iefixyg5dv7) format('embedded-opentype') , url(flowplayer/skin/fonts/fpicons.woff?yg5dv7) format('woff') , url(flowplayer/skin/fonts/fpicons.ttf?yg5dv7) format('truetype') , url(flowplayer/skin/fonts/fpicons.svg?yg5dv7#fpicons) format('svg');font-weight:normal;font-style:normal}</style>
-<link rel="stylesheet" type="text/css" href="/flowplayer/skin/A.minimalist.css.pagespeed.cf.4RiwXkKIwZ.css"><link rel="stylesheet" type="text/css" href="/ccss/A.default_a597f5e774ec6bafb36bf27b817147f1ssl_84298.css.pagespeed.cf.Amh-Eh97Ka.css">
-<style>@font-face{font-family:'fpicons';src:url(flowplayer/skin/fonts/fpicons.eot?yg5dv7);src:url(flowplayer/skin/fonts/fpicons.eot?#iefixyg5dv7) format('embedded-opentype') , url(flowplayer/skin/fonts/fpicons.woff?yg5dv7) format('woff') , url(flowplayer/skin/fonts/fpicons.ttf?yg5dv7) format('truetype') , url(flowplayer/skin/fonts/fpicons.svg?yg5dv7#fpicons) format('svg');font-weight:normal;font-style:normal}</style>
-<link rel="stylesheet" type="text/css" href="/flowplayer/skin/A.minimalist.css.pagespeed.cf.4RiwXkKIwZ.css"><script type="text/javascript" src="/cjs/head_5fa026a2214c0785e2915b52fae4f386ssl_84298.js.pagespeed.jm.Dd_lcjpyuR.js"></script>
-<script type="text/javascript" src="/flowplayer/flowplayer.min.js.pagespeed.jm.cXH5kYckxK.js"></script> <link rel="shortcut icon" href="/favicon.ico">
-<link rel="apple-touch-icon-precomposed" sizes="144x144" href="/img/apple-touch-icon-144-precomposed.png.pagespeed.ce.bWtZf84Pkx.png">
-<link rel="apple-touch-icon-precomposed" sizes="114x114" href="/img/apple-touch-icon-114-precomposed.png.pagespeed.ce.CiUSTOMidp.png">
-<link rel="apple-touch-icon-precomposed" sizes="72x72" href="/img/xapple-touch-icon-72-precomposed.png.pagespeed.ic.nBLKH9p7y0.png">
-<link rel="apple-touch-icon-precomposed" href="/img/xapple-touch-icon-57-precomposed.png.pagespeed.ic.LuYuBnGWIV.png">
+<link rel="stylesheet" type="text/css" href="/ccss/A.bootstrap_1ebfb63ab84ecea669018b1ec53f01cassl_84457.css.pagespeed.cf.W8tZxPd58l.css">
+<link rel="stylesheet" type="text/css" href="/flowplayer/skin/fonts.css">
+<link rel="stylesheet" type="text/css" href="/flowplayer/skin/minimalist.css"><link rel="stylesheet" type="text/css" href="/ccss/A.default_8b565b75af4d5531fa84382dee0d43d9ssl_84457.css.pagespeed.cf.oIzgSxBTs7.css">
+<link rel="stylesheet" type="text/css" href="/flowplayer/skin/fonts.css">
+<link rel="stylesheet" type="text/css" href="/flowplayer/skin/minimalist.css"><script type="text/javascript" src="/cjs/head_26e88ed8fc1788ea15c8f028369c6e95ssl_84457.js.pagespeed.jm.u9x-4Ut6ss.js"></script>
+<script type="text/javascript" src="/flowplayer/flowplayer.min.js"></script> <link rel="shortcut icon" href="/favicon.ico">
+<link rel="manifest" href="/manifest.json">
+<meta name="apple-mobile-web-app-title" content="SaleHoo">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<link rel="apple-touch-icon" sizes="144x144" href="/img/xxapple-touch-icon-144-precomposed.png.pagespeed.ic.TrNQaB5n14.png">
+<link rel="apple-touch-icon-precomposed" sizes="144x144" href="/img/xxapple-touch-icon-144-precomposed.png.pagespeed.ic.TrNQaB5n14.png">
+<link rel="apple-touch-icon-precomposed" sizes="114x114" href="/img/xxapple-touch-icon-114-precomposed.png.pagespeed.ic.CFay8jg9O8.png">
+<link rel="apple-touch-icon-precomposed" sizes="72x72" href="/img/xxapple-touch-icon-72-precomposed.png.pagespeed.ic.lgHsmnvnNz.png">
+<link rel="apple-touch-icon-precomposed" sizes="57x57" href="/img/xxapple-touch-icon-57-precomposed.png.pagespeed.ic.eWX-VZjEtq.png">
+<script src="https://www.google.com/recaptcha/api.js?render=6Le0IXkUAAAAAESm7EEgsb_B588zWDmQPBvqBhu0"></script>
+<script>grecaptcha.ready(function(){grecaptcha.execute('6Le0IXkUAAAAAESm7EEgsb_B588zWDmQPBvqBhu0',{action:'login'}).then(function(token){jQuery('.login-recatpcha-response').val(token);});});</script>
 <meta name="description" content="This privacy policy set out below covers how SaleHoo Group Limited deals with your personal information.">
 </head>
 <body itemscope="" itemtype="http://schema.org/WebPage">
 <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-PBFG3J&" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
-<div class="topbar text-right hidden-xs hidden-sm">
+<div class="topbar text-right hidden-xs">
 <div class="container">
 <ul class="list-inline text-uppercase">
 <li class="dropdown"> <a href="/contact" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false"> Contact Us
@@ -32,15 +38,15 @@
 +1 888-881-8703 <span class="caret"></span></a>
 <div class="dropdown-menu contact-drop updatever2_1">
 <div class="contact-lead-top">Get in touch with us, anytime!</div>
-<div class="rw"><img src="https://cdn.salehoo.com/img/lb-icotop-email.png?84298"> <a href="/contact"><strong>support@salehoo.com</strong></a></div>
-<div class="rw"><img src="https://cdn.salehoo.com/img/lb-icotop-twitter.png?84298"> <a href="https://twitter.com/salehoo" target="_blank"><strong>@salehoo</strong></a></div>
-<div class="rw hide top-chat"><img src="https://cdn.salehoo.com/img/lb-icotop-chat-crisp.png?84298"> <a href="#"><strong>chat live</strong> <span class="text-muted">(Mon-Fri <span class="support-client-hours" data-format=":start til :end" data-time-format="h:mma" data-start="2018-01-29 14:00Z" data-end="2018-01-30 06:30Z">8:00am til 12:30am EST</span>)</span></a></div>
+<div class="rw"><img src="https://cdn.salehoo.com/img/lb-icotop-email.png?84457" alt="Email"> <a href="/contact"><strong>support@salehoo.com</strong></a></div>
+<div class="rw"><img src="https://cdn.salehoo.com/img/lb-icotop-twitter.png?84457" alt="Twitter"> <a href="https://twitter.com/salehoo" target="_blank" rel="noopener"><strong>@salehoo</strong></a></div>
+<div class="rw hide top-chat"><img src="https://cdn.salehoo.com/img/lb-icotop-chat-crisp.png?84457" alt="Chat"> <a href="#"><strong>chat live</strong> <span class="text-muted">(Mon-Fri <span class="support-client-hours" data-format=":start til :end" data-time-format="h:mma" data-start="2019-03-05 14:00Z" data-end="2019-03-06 06:30Z">8:00am til 12:30am EST</span>)</span></a></div>
 </div>
 </li>
 <li class="menu-item logindrop dropdown hidden-phone"> <a href="/login" class="dropdown-toggle" data-toggle="dropdown" data-close-others="false">Login <span class="caret"></span></a>
 <div class="dropdown-menu topnvr-drop">
 <form id="header-login-form" method="post" class="signin" action="/login">
-<input type="hidden" name="data[Member][return]" value="%2Fprivacy" id="MemberReturn">
+<input type="hidden" name="data[Member][login_token]" value="b304427fc203f991d9d927d4871dde91"> <input type="hidden" name="data[Member][return]" value="%2Fprivacy" id="MemberReturn">
 <fieldset>
 <div class="form-group">
 <input id="username" class="form-control" name="data[Member][username]" type="email" placeholder="Email">
@@ -48,6 +54,7 @@
 <div class="form-group">
 <input id="password" class="form-control" name="data[Member][password]" placeholder="Password" type="password" autocomplete="off">
 </div>
+<input type="hidden" name="data[Login][recaptcha-response]" class="login-recatpcha-response" id="HeaderRecaptchaResponse">
 <div class="checkbox">
 <label>
 <input id="MemberRemember" type="checkbox" value="1" name="data[Member][remember]"> Remember me on this computer
@@ -76,21 +83,145 @@
 <img src="/img/logo.svg" class="svg" title="SaleHoo" alt="SaleHoo" itemprop="logo">
 </a>
 </div>
-<ul class="menu">
+<ul class="menu menu-rsrcs">
 <li class="menu-item"><a href="/tour">Product Tour</a></li>
 <li class="menu-item"><a href="/success">Success Stories</a></li>
 <li class="menu-item"><a href="/join-now">Pricing</a></li>
 <li class="menu-item"><a href="/about-us">About Us</a></li>
+<li class="menu-item visible-xs menu-rsrcs">Resources
+<ul class="visible-xs menu-rsrcs list-unstyled">
+<li><a href="/education">Free Guides</a></li>
+<li><a href="/forum/">Community</a></li>
+<li><a href="/profitable-niches?utm_source=home">Free Exclusive Guide</a></li>
+<li><a href="/100k-amazon-dropshipping-business-webinar?utm_source=home">Free Webinar</a></li>
+</ul>
+</li>
+<li class="dropdown mega-dropdown menu-item hidden-xs"> <a href="#" class="dropdown-toggle" data-toggle="dropdown">Resources <b class="caret"></b><span class="arrow_up"></span></a>
+<ul class="dropdown-menu mega-dropdown-menu row">
+<li class="col-sm-5">
+<div class="free-guides menu-container">
+<h5>Free Guides</h5>
+<div class="menu-container-inside">
+<div class="box-same-height">
+<p class="lead">Your complete guide to ecommerce success</p>
+<div class="row">
+<div class="col-md-6 col-sm-12">
+<div class="guide-box">
+<div class="img-box bg-dark-grey"><a href="/education/starting-online"><img alt="Getting Started" src="//cdn.salehoo.com/files/image/hp3/edu-img-getting-started.png" srcset="//cdn.salehoo.com/files/image/hp3/edu-img-getting-started@2x.png?id=2 2x" class="img-responsive"></a></div>
+<div class="txt-box">
+<h6 class="no-margin"><a href="/education/starting-online">Getting Started</a></h6>
+All you need to know to start selling online</div>
+</div>
+</div>
+<div class="col-md-6 col-sm-12">
+<div class="guide-box">
+<div class="img-box bg-bluegreen"><a href="/education/what-to-sell"><img alt="What to Sell" src="//cdn.salehoo.com/files/image/hp3/edu-img-what-should-you-sell.png" srcset="//cdn.salehoo.com/files/image/hp3/edu-img-what-should-you-sell@2x.png?id=2 2x" class="img-responsive"></a></div>
+<div class="txt-box">
+<h6 class="no-margin"><a href="/education/what-to-sell">What to sell?</a></h6>
+Discover the most profitable products to sell online </div>
+</div>
+</div>
+<div class="col-md-6 col-sm-12">
+<div class="guide-box">
+<div class="img-box bg-yellow"><a href="/education/find-a-product-supplier"><img alt="Find a Product Supplier" src="//cdn.salehoo.com/files/image/hp3/edu-img-finding-supplier.png" srcset="//cdn.salehoo.com/files/image/hp3/edu-img-finding-supplier@2x.png 2x" class="img-responsive"></a></div>
+<div class="txt-box">
+<h6 class="no-margin"><a href="/education/find-a-product-supplier">Find a Product Supplier</a></h6>
+Learn how to source products from trusted suppliers </div>
+</div>
+</div>
+<div class="col-md-6 col-sm-12">
+<div class="guide-box">
+<div class="img-box bg-medium-grey"><a href="/education/selling-on-ebay-amazon"><img alt="Selling on eBay &amp; Amazon" src="//cdn.salehoo.com/files/image/hp3/edu-img-selling-on-ebay--amazon.png" srcset="//cdn.salehoo.com/files/image/hp3/edu-img-selling-on-ebay--amazon@2x.png 2x" class="img-responsive"></a></div>
+<div class="txt-box">
+<h6 class="no-margin"><a href="/education/selling-on-ebay-amazon">Selling on eBay &amp; Amazon</a></h6>
+Master the most important online marketplaces </div>
+</div>
+</div>
+<div class="col-md-6 col-sm-12">
+<div class="guide-box">
+<div class="img-box bg-orange"><a href="/education/starting-online"><img alt="Starting an Online Store" src="//cdn.salehoo.com/files/image/hp3/edu-img-starting-an-online-store.png" srcset="//cdn.salehoo.com/files/image/hp3/edu-img-starting-an-online-store@2x.png 2x" class="img-responsive"></a></div>
+<div class="txt-box">
+<h6 class="no-margin"><a href="/education/starting-online">Starting an Online Store</a></h6>
+How to launch your own ecommerce store </div>
+</div>
+</div>
+<div class="col-md-6 col-sm-12">
+<div class="guide-box">
+<div class="img-box bg-light-grey"><a href="/education/importing-shipping"><img alt="Importing and Shipping" src="//cdn.salehoo.com/files/image/hp3/edu-img-importing--shipping.png" srcset="//cdn.salehoo.com/files/image/hp3/edu-img-importing--shipping@2x.png 2x" class="img-responsive"></a></div>
+<div class="txt-box">
+<h6 class="no-margin"><a href="/education/importing-shipping ">Importing &amp; Shipping</a></h6>
+Beginner's guide to Importing &amp; Shipping</div>
+</div>
+</div>
+</div>
+</div>
+<a class="btn btn-view" href="/education">View all guides</a> </div>
+</div>
+</li>
+<li class="col-md-5 col-sm-4">
+<div class="free-guides menu-container">
+<h5>Community</h5>
+<div class="menu-container-inside community-div">
+<div class="box-same-height">
+<p class="lead">Your questions answered by our community</p>
+<div class="row">
+<div class="col-md-6 col-sm-12">
+<div class="txt-box box-same-height">
+<h6 class="no-margin"><a href="/forum/dropshippers/"><span class="glyphicon glyphicon-tag" aria-hidden="true">&nbsp;</span>Drop Shipping</a></h6>
+Your complete guide to drop shipping success </div>
+</div>
+<div class="col-md-6 col-sm-12">
+<div class="txt-box box-same-height">
+<h6 class="no-margin"><a href="/forum/general/"><span class="glyphicon glyphicon-flash" aria-hidden="true">&nbsp;</span>Selling Tips</a></h6>
+Online sellers discuss their favourite tips and tactics </div>
+</div>
+<div class="col-md-6 col-sm-12">
+<div class="txt-box box-same-height">
+<h6 class="no-margin"><a href="/forum/selling/"><span class="glyphicon glyphicon-stats" aria-hidden="true">&nbsp;</span>Product Marketing</a></h6>
+Discuss the best techniques to market your business </div>
+</div>
+<div class="col-md-6 col-sm-12">
+<div class="txt-box box-same-height">
+<h6 class="no-margin"><a href="/forum/importing/"><span class="glyphicon glyphicon-check" aria-hidden="true">&nbsp;</span>Importing &amp; Customs</a></h6>
+Learn the technical details around importing goods </div>
+</div>
+<div class="col-md-6 col-sm-12">
+<div class="txt-box box-same-height">
+<h6 class="no-margin"><a href="/forum/sources/"><span class="glyphicon glyphicon-file" aria-hidden="true">&nbsp;</span>Supplier Reviews</a></h6>
+Discover suppliers tried &amp; trusted by our community </div>
+</div>
+<div class="col-md-6 col-sm-12">
+<div class="txt-box box-same-height">
+<h6 class="no-margin"><a href="/forum/sale/"><span class="glyphicon glyphicon-fire" aria-hidden="true">&nbsp;</span>Products For Sale</a></h6>
+Get exclusive deals on hot products from top suppliers </div>
+</div>
+</div>
+</div>
+<a class="btn btn-view" href="/forum/">View latest forum posts</a> </div>
+</div>
+</li>
+<li class="col-md-2 col-sm-3">
+<div class="ebook-webinar menu-container">
+<h5><span class="free">Free</span>Exclusive Guide</h5>
+<a href="/profitable-niches?utm_source=home" class="ebook-link"><img alt="Niches for Dropshipping" src="//cdn.salehoo.com/files/image/hp3/menu-ebook-profitable-niche.png" srcset="//cdn.salehoo.com/files/image/hp3/menu-ebook-profitable-niche@2x.png 2x" class="img-responsive">
+<div class="txt-box ebook-div"> Want to know what sells best online? There are niches you can almost ALWAYS make good profit in. </div>
+</a>
+<h5 class=" no-top-margin">Free Webinar</h5>
+<div class="txt-box webinar-div "> <a href="/100k-amazon-dropshipping-business-webinar" class="webinar-link">&nbsp;</a> How To Build a $100,000 Amazon Dropshipping Business </div>
+</div>
+</li>
+</ul>
+</li>
 <li class="menu-item visible-xs"><a href="/login">Login</a></li>
 <li role="separator" class="divider visible-xs"></li>
 <li class="menu-item loginbt">
-<a href="/join-now">Get Started Now</a>
+<a href="/join-now" class="">Get Started Now</a>
 </li>
 </ul>
 </div>
 </div>
 </header>
-<div class="visible-xs mobnav visible-sm lab-filter-sub">
+<div class="visible-xs mobnav visible-sm ">
 <div class="container">
 <div class="optionav pull-right">
 <ul class="list-inline">
@@ -113,68 +244,150 @@
 <p>&nbsp;</p>
 <div class="row">
 <div class="col-md-10 col-md-offset-1">
+<style type="text/css">.table.privacy-table{border:1px solid #ddd;font-size:13px}.table.privacy-table>thead>tr>th,.table.privacy-table>tbody>tr>th,.table.privacy-table>thead>tr>td,.table.privacy-table>tbody>tr>td{padding:15px}.table.privacy-table>thead>tr>th{border-bottom:1px solid #ddd;font-size:13px;text-transform:uppercase}.break-word{overflow-wrap:break-word;word-wrap:break-word;-ms-word-break:break-all;word-break:break-all;word-break:break-word}</style>
 <h2 class="semibold">Overview</h2>
-<p><em>Last updated: July 10, 2017</em></p>
-<p>We respect the privacy of our customers and users. This privacy policy is designed to help you understand what personal information we gather through your use of our website, software, and services and to help you understand what SaleHoo does with that information. Please read our privacy policy and our <a href="/terms">Terms of Use</a>. In summary, our privacy policy lets you know that:</p>
+<p><em>Last updated: May 14, 2018</em></p>
+<p>We respect the privacy of our customers and users. This privacy policy is designed to help you understand what personal information we gather through your use of our website, software, and services and to help you understand what SaleHoo does with that information, including to whom we may disclose your personal information. Please read our privacy policy and our&nbsp;<a href="https://www.salehoo.com/terms">Terms of Use</a>. In summary, our privacy policy lets you know that:</p>
 <ul>
-<li>We may collect personal information from you when you use this website or our software. We will not use or disclose your personal information except for purposes set out in this privacy policy or as allowed by the New Zealand Privacy Act 1993.</li>
+<li>We may collect personal information from you when you use this website or our software. We will not use or disclose your personal information except for purposes set out in this privacy policy or as allowed by the New Zealand Privacy Act 1993. If you are located in a jurisdiction to which the European Union’s General Data Protection Regulation (GDPR) applies to the processing of your personal data, we will also comply with our obligations under the GDPR with respect to the processing of your personal data.</li>
 <li>We may use automated tools such as cookies to collect certain information about your visit to our website. Your browser may provide you with the ability to adjust settings relating to cookies.</li>
 <li>We may gather more extensive information if we are concerned about abnormal website usage patterns or security breaches.</li>
 <li>We can use your information to provide you with relevant information, allow others to provide you with information, and to communicate with you, and for other purposes set out in this privacy policy.</li>
 <li>We may store your personal information, and do take several steps and precautions to protect the personal information that we store.</li>
-<li>We will store credit card details in accordance with this privacy policy will delete credit card details upon request if we no longer require these details.</li>
+<li>If we store credit card details in accordance with this privacy policy we will delete credit card details upon request if we no longer require these details. When submitting your credit card details through our website, you may be redirected to a third party payment service provider, in which case that service provider will be responsible for maintaining the security of your credit card details.</li>
 <li>You should check the privacy policies of third party websites to which this website is linked, and we are not responsible for their conduct.</li>
 <li>Please feel free to email our privacy officer should you wish to access or correct personal information we hold about you. We encourage you to update any outdated billing or contact information.</li>
 <li>We may change this privacy policy from time to time, including to account for new services and technologies. We recommend that you should regularly check this privacy policy for changes or updates.</li>
 </ul>
-<h3 class="semibold">&nbsp;</h3>
-<ol>
-<li><strong>About this privacy policy</strong>
+<h3>1. About this privacy policy</h3>
 <p>SaleHoo Group Limited values and respects the privacy of our customers and users. This privacy policy explains how we collect, use, disclose, transfer and store personal information that you provide to us. www.salehoo.com (this 'website') is operated by SaleHoo Group Limited. In this privacy policy, the terms 'we', 'us', and 'our' refer to SaleHoo Group Limited.</p>
 <p>By accessing and using this website, or using our software or services, you confirm your unconditional consent to our collecting, storing, using, and disclosing your personal information in the manner set out in this privacy policy.</p>
-</li>
-<li><strong>Terms of use</strong>
-<p>Please read this privacy policy&nbsp;in conjunction with our <a href="/terms">terms of use</a>, which describes how you may use this website.</p>
-</li>
-<li><strong>Collecting your personal information</strong>
-<p>We may collect personal information from you when you use this website or our software. We may also collect personal information that you provide to third-party websites or services, such as Facebook, Twitter, Clickbank, and Google Analytics. You may decide not to provide your personal information to us. However, if you do not provide it, we may not be able to provide you with access to certain information, services, or products.</p>
-</li>
-<li><strong>Automated collection</strong>
+<h3>2. About SaleHoo Group Limited</h3>
+<p>SaleHoo Group Limited is a company incorporated and registered in New Zealand under company number 1847085 and NZBN 9429033966717, having its registered office c/- BDO Christchurch Limited, 287-293 Durham Street North, Christchurch 8013, New Zealand.</p>
+<p>If you have any queries about this privacy policy, please contact us at <a href="mailto:support@salehoo.com">support@salehoo.com</a> or by writing to us at PO Box 41072, Christchurch 8247, New Zealand.</p>
+<h3>3. Terms of use</h3>
+<p>Please read this privacy policy&nbsp;in conjunction with our&nbsp;<a href="https://www.salehoo.com/terms">terms of use</a>, which describes how you may use this website.</p>
+<h3>4. Collecting your personal information from you</h3>
+<p>We may collect the following personal information from you when you use this website or our software:</p>
+<div class="table-responsive">
+<table class="table table-striped privacy-table">
+<thead>
+<tr>
+<th>Personal information collected</th>
+<th>When collected</th>
+<th>Why collected</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Your name and contact details</td>
+<td>When you register to use our services or create an account with us</td>
+<td>So that we may identify you for the purposes of entering into our terms and conditions with you, and corresponding with you</td>
+</tr>
+<tr>
+<td>Information regarding your business, including details of your products and stock, and your experience</td>
+<td>When you register to use our services or create an account with us</td>
+<td>So that we can tailor our services to your requirements</td>
+</tr>
+<tr>
+<td>Your username details for Clickbank</td>
+<td>When you sign up for our affiliate programme</td>
+<td>So that we can pay commission to you</td>
+</tr>
+<tr>
+<td>Your credit card details</td>
+<td>Whenever you make a payment to us</td>
+<td>So that we can process your payment</td>
+</tr>
+<tr>
+<td>Your social media details, location, and time zone</td>
+<td>If you voluntarily provide it to us by updating your personal details</td>
+<td>So that we can customise your use of our services and interact with you</td>
+</tr>
+<tr>
+<td>All personal information we collect about you, including the above</td>
+<td>The circumstances described above, and otherwise during the course of your interaction with us</td>
+<td>For the purposes set out in paragraph 10</td>
+</tr>
+</tbody>
+</table>
+</div>
+<p>You may decide not to provide your personal information to us. However, if you do not provide it, we may not be able to provide you with access to certain information, services, or products, and/or customise your use of our services.</p>
+<h3>5. Collecting your personal information from third parties</h3>
+<p>We may also receive your personal information from third-party websites or services, such as Facebook, Twitter, Clickbank, and Google Analytics, whom you have authorised to disclose your personal information to us. The collection of that personal information by third parties will be governed by terms you have agreed with those third parties.</p>
+<h3>6. Automated collection</h3>
 <p>When you visit this website or use our software, we may use automated tools and methods (such as cookies, sessions, and usage monitoring software) to collect certain information about your visit or software use, including:</p>
-<ul>
+<ol>
 <li>the internet protocol address and domain name used by your computer to connect to the Internet;</li>
 <li>the operating system and the browser your computer uses, and any search engine or inbound hyperlink used to reach this website;</li>
 <li>the nature of your use of our software or services, including information you input when using our software;</li>
 <li>the date, time, and duration of your website visit; and</li>
 <li>the pages viewed by you</li>
-</ul>
-<p>This information will be used in aggregate form to analyse how this website or our software is being used, for example to analyse usage patterns in order to improve this website or our software. We will not disclose any such information except in aggregate form.</p>
-</li>
-<li><strong>Cookies</strong>
-<p>This website may use cookies and sessions to provide you with certain services or functionality. Cookies and sessions may be used to identify you as an individual user of this website. We use this technology to, amongst other things:</p>
-<ol class="alpha">
-<li>personalise your visits to this website;</li>
-<li>eliminate the need for you to repeatedly enter the same information;</li>
-<li>enable us to improve the content, reliability and functionality of this website;</li>
-<li>evaluate the effectiveness of the advertising on this website; and</li>
-<li>track website usage patterns.</li>
 </ol>
+<p>This information will be used in aggregate form to analyse how this website or our software is being used, for example to analyse usage patterns in order to improve this website or our software. We will not disclose any such information except in aggregate form.</p>
+<h3>7. Cookies</h3>
+<p>A “cookie” is a small piece of information sent by a server and stored on the hard drive of your computer. When you use our website, you will be asked to confirm whether you agree to our use of cookies, and if you accept we will store cookies on your computer. Cookies make it easier for you to use our site during future visits. They also allow us to monitor traffic and to personalise the content of our site for you.</p>
+<p>This site uses the following type of cookies to provide you with certain services or functionality:</p>
+<div class="table-responsive">
+<table class="table table-striped privacy-table">
+<thead>
+<tr>
+<th>Name of cookie</th>
+<th>Information collected</th>
+<th>Purpose</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>_ga</td>
+<td>Visits, sessions, clicks</td>
+<td>For tracking user analytics through Google Analytics</td>
+</tr>
+<tr>
+<td>_gid</td>
+<td>Visits, sessions, clicks</td>
+<td>For tracking user analytics through Google Analytics</td>
+</tr>
+<tr>
+<td>_gat</td>
+<td>Visits, sessions, clicks</td>
+<td>For tracking user analytics through Google Analytics</td>
+</tr>
+<tr>
+<td>NREUM</td>
+<td>Visits, sessions, clicks</td>
+<td>For developers to track website performance</td>
+</tr>
+<tr>
+<td>JSESSIONID</td>
+<td>Visits, sessions, clicks</td>
+<td>For developers to track website performance</td>
+</tr>
+</tbody>
+</table>
+</div>
 <p>Using cookies will not give us access to any data on your computer other than the data stored in the cookie. Although you may configure your web browser to not accept cookies, you may experience a loss of functionality as a result.</p>
-</li>
-<li><strong>Collection of credit card details</strong>
-<p>We will collect credit card details where it is necessary for the following purposes:</p>
-<ol class="alpha">
+<p>Most web browsers allow some control of most cookies through the browser settings. To find out more about cookies, including how to see what cookies have been set and how to manage and delete them, visit&nbsp;<span class="break-word"><a href="http://www.aboutcookies.org/">www.aboutcookies.org</a>&nbsp;or&nbsp;<a href="http://www.allaboutcookies.org/">www.allaboutcookies.org</a></span>.</p>
+<h3>8. Collection and deletion of credit card details</h3>
+<p>We may collect credit card details where it is necessary for the following purposes:</p>
+<ol>
 <li>to process the payment for which the credit card details were provided;</li>
 <li>for a subscription that requires multiple payments over time; or</li>
 <li>for your convenience (i.e., so that you can provide those details once instead of for every purchase).</li>
 </ol>
-</li>
-<li><strong>Additional collection</strong>
+<p>You may at any time request that any of your credit card details be deleted. Please note that such deletion may cancel pending payments or subscriptions.</p>
+<p>We use the following third party payment service providers to process credit card transactions on our behalf:</p>
+<ul>
+<li>Braintree: <a href="https://www.braintreepayments.com">https://www.braintreepayments.com</a></li>
+<li>ClickBank: <a href="https://www.clickbank.com">https://www.clickbank.com</a></li>
+</ul>
+<p>Where we use third party payment service providers, you will be re-directed to a secure portal hosted by the relevant provider and you will provide your credit card details directly to that provider, in accordance with the privacy policy issued by the provider. In such cases, we will not have any access to your credit card details.</p>
+<h3>9. Additional collection</h3>
 <p>We may gather more extensive information if we are concerned, for example, about abnormal website usage patterns or security breaches.</p>
-</li>
-<li><strong>Use</strong>
-<p>We will not use or disclose your personal information except as provided in this privacy policy or otherwise in accordance with the Privacy Act 1993. We may use your personal information to:</p>
-<ol class="alpha">
+<h3>10. Use</h3>
+<p>We will not use or disclose your personal information except as provided in this privacy policy or otherwise in accordance with the Privacy Act 1993. If you are located in a jurisdiction to which the European Union’s General Data Protection Regulation (GDPR) applies to the processing of your personal data, we will also comply with our obligations under the GDPR with respect to the processing of your personal data.</p>
+<p>In addition to those matters set out in clause 4 above, we may also use your personal information to:</p>
+<ol>
 <li>provide you with services and information that you have requested;</li>
 <li>assist our software to function;</li>
 <li>help us debug or fix software problems;</li>
@@ -188,41 +401,100 @@
 <li>personalise this website in accordance with your preferences or enhance your user experience of this website or our software.</li>
 </ol>
 <p>We may also combine data or information that we have retrieved from external sources or services with personal information that we hold, for any of the above purposes.</p>
-</li>
-<li><strong>Other use and disclosure</strong>
-<p>We will not sell, rent, or lease your personal information to third parties. We may disclose your personal information to our professional advisors, contractors, service providers, business associates, related companies, and others who have agreed to treat your personal information in accordance with this privacy policy. We may share your personal information with companies who provide services such as information processing, extending credit, fulfilling customer orders, managing and enhancing customer data, providing customer service, assessing your interest in our products and services, and conducting customer research or satisfaction surveys. We will not otherwise use or disclose your personal information except:</p>
-<ol class="alpha">
-<li>for any purpose set out in clause 8;</li>
+<h3>11. Where your personal information is held</h3>
+<p>The personal information that we collect in respect of you is hosted on our behalf on servers maintained by Linode (<a href="http://www.linode.com" rel="noopener" target="_blank">www.linode.com</a>), at its data centres in the United States. Linode has advised us that it will implement measures to ensure that it complies with the GDPR prior to its introduction on 25 May 2018.</p>
+<p>We maintain a back-up of our data, including any personal information that we collect in respect of you, on servers maintained by Amazon Web Services, Inc. (‘AWS’) (<a href="https://aws.amazon.com" rel="noopener" target="_blank">https://aws.amazon.com</a>), at its data centres in the United States. AWS is a participant in the EU-US Privacy Shield and the Swiss-US Privacy Shield. Further details are available <a href="https://www.amazon.com/gp/help/customer/display.html/ref=hp_left_v4_sib?ie=UTF8&amp;nodeId=202135380" rel="noopener" target="_blank">here</a>.</p>
+<p>We also access and store our data, including any personal information that we collect in respect of you, through our systems and servers located at our head office in New Zealand. New Zealand is a “white list” country, the personal data protection laws of which have been assessed by the European Commission as being adequate thereby allowing transfers of personal data from the EEA to New Zealand. Transfers from Switzerland to New Zealand have also been authorised by the Swiss FDPIC.</p>
+<h3>12. Disclosure to third parties</h3>
+<p>We may share your personal information with companies who provide services such as information processing, extending credit, fulfilling customer orders, managing and enhancing customer data, providing customer service, assessing your interest in our products and services, and conducting customer research or satisfaction surveys.</p>
+<p>We may disclose your personal information to our professional advisors, contractors, service providers, business associates, related companies, and others who have agreed to treat your personal information in accordance with this privacy policy.</p>
+<p>We may disclose your personal information to the following third parties in the context of providing services to you:</p>
+<div class="table-responsive">
+<table class="table table-striped privacy-table">
+<thead>
+<tr>
+<th>Identity of third party</th>
+<th>Website</th>
+<th>Reason for disclosure</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Help Scout</td>
+<td><a href="https://www.helpscout.net" rel="noopener" target="_blank">https://www.helpscout.net</a></td>
+<td>For email delivery and sending newsletters</td>
+</tr>
+<tr>
+<td>Smtp2go</td>
+<td><a href="https://www.smtp2go.com" rel="noopener" target="_blank">https://www.smtp2go.com</a></td>
+<td>For email delivery and sending newsletters</td>
+</tr>
+<tr>
+<td>Customer IO</td>
+<td><a href="https://customer.io" rel="noopener" target="_blank">https://customer.io</a></td>
+<td>For email delivery and sending newsletters</td>
+</tr>
+<tr>
+<td>Webinarjam</td>
+<td><a href="https://www.webinarjam.com/" rel="noopener" target="_blank">https://www.webinarjam.com/</a></td>
+<td>Registration for webinars and interaction</td>
+</tr>
+<tr>
+<td>One Signal</td>
+<td><a href="https://onesignal.com" rel="noopener" target="_blank">https://onesignal.com</a></td>
+<td>Sending push notifications regarding new blog posts</td>
+</tr>
+<tr>
+<td>Hotjar</td>
+<td><a href="https://insights.hotjar.com" rel="noopener" target="_blank">https://insights.hotjar.com</a></td>
+<td>For tracking visits, sessions and clicks</td>
+</tr>
+<tr>
+<td>reCAPTCHA</td>
+<td><a href="https://www.google.com/recaptcha/intro/v3.html" rel="noopener" target="_blank">https://www.google.com/recaptcha/intro/v3.html</a></td>
+<td>Protect your submissions via forms on our website</td>
+</tr>
+</tbody>
+</table>
+</div>
+<h3>13. Restrictions on use</h3>
+<p>We will not sell, rent, or lease your personal information to third parties.</p>
+<p>We will not otherwise use or disclose your personal information except:</p>
+<ol>
+<li>for any purpose set out in this privacy policy;</li>
 <li>where you have otherwise authorised us to do so;</li>
 <li>where we have given you notification of the intended use or disclosure and you have not objected to that use or disclosure in an anonymised form;</li>
 <li>where we believe that such use or disclosure is reasonably necessary to assist a law enforcement agency or an agency responsible for national security in the performance of their functions;</li>
 <li>where we believe that such use or disclosure is reasonably necessary to enforce any legal rights we may have, or is reasonably necessary to protect the rights, property and safety of us, our users, or others; or</li>
 <li>as otherwise required or permitted by law.</li>
 </ol>
-</li>
-<li><strong>Deletion of credit card details</strong>
-<p>You may at any time request that any of your credit card details provided under clause 6 above be deleted. Please note that such deletion may cancel pending payments or subscriptions.</p>
-</li>
-<li><strong>Right to access and request correction</strong>
+<h3>14. Right to access and request correction</h3>
 <p>It is important to us that the personal information we hold about you is accurate, complete and up to date. If you are aware that this is not case and would like your personal information corrected, or simply desire access to your personal information, please contact our Privacy Officer. You may request access to your personal information that we hold. Where you make any such request:</p>
-<ol class="alpha">
+<ol>
 <li>we may ask you to put your request in writing;</li>
 <li>in some circumstances permitted by law, we may not provide such information to you;</li>
 <li>where we decide not to correct or provide you with access to your personal information, we will give you our reasons for our decision;</li>
 <li>where we provide the requested information or carry out the requested correction (or where we attach to that information a statement of any correction sought but not made), we may require you to pay a reasonable fee determined by us.</li>
 </ol>
-</li>
-<li><strong>Update information</strong>
+<h3>15. Update information</h3>
 <p>To ensure that the contact and billing information we hold about you is accurate and current please advise us of all necessary changes to such information as soon as possible.</p>
-</li>
-<li><strong>Third party websites</strong>
+<h3>16. Retention period</h3>
+<p>We will hold any personal information we collect about you for as long as is necessary to provide our services to you. If you cancel your account with us, we will retain your account information unless you request that we delete it from our system. Please submit any such requests to us at <a href="mailto:support@salehoo.com">support@salehoo.com</a>.</p>
+<h3>17. Third party websites</h3>
 <p>This website may contain hyperlinks to websites operated by third parties. We are not responsible for the content of such websites, or the manner in which those websites collect, store, use, and distribute any personal information you provide. When you visit third party websites from hyperlinks displayed on this website, we encourage you to review the privacy statements of those websites so that you can understand how the personal information you provide may be collected, stored, used and distributed.</p>
-</li>
-<li><strong>Changes to our privacy policy</strong>
+<h3>18. Changes to our privacy policy</h3>
 <p>We reserve the right to change this privacy policy from time to time by publishing the revised privacy policy on our website. Please check this privacy policy regularly for modifications and updates. If you continue to use this website or our software or services or if you provide any personal information after we make changes to this privacy policy, this constitutes your acceptance of those changes and the updated privacy policy.</p>
-</li>
-</ol>
-</div>
+<h3>19. Additional rights under the GDPR</h3>
+<p>In addition to the other rights granted to them under this privacy policy, EU-based users of our site may have rights under the GDPR:</p>
+<ul>
+<li>to receive access to their personal information in a commonly-used machine-readable format;</li>
+<li>to restrict processing of their personal information if a basis for doing so exists under the GDPR;</li>
+<li>to have any personal information about the participant erased upon request if it is no longer relevant (the “right to be forgotten”);</li>
+<li>to not be subject to a decision based solely on automated processing, including profiling;</li>
+<li>to withdraw their consent to the processing of their personal data, where such consent forms the basis for the processing;</li>
+<li>to lodge a complaint with the appropriate data protection authority.</li>
+</ul>
+<p>Please contact our <a href="/contact">Privacy Officer</a> using the contact details set out in this privacy policy if you wish to exercise any of these rights.</p> </div>
 </div>
 </div>
 <p>&nbsp;</p>
@@ -235,74 +507,87 @@
 <a class="btn text-capitalize btn-red" href="/learn-more">Find out how</a>
 </div>
 </div>
-<footer>
+<footer class="update_v4">
+<div class="menu_footer">
+<div class="container">
+<ul class="list-inline">
+<li><a href="/about-us">About Us</a></li>
+<li><a href="/join-now">Pricing</a></li>
+<li><a href="/reviews">Reviews</a></li>
+<li><a href="/support">Support</a></li>
+<li><a href="/blog">Blog</a></li>
+</ul>
+</div>
+</div>
 <div class="container">
 <div class="row">
 <div class="col-md-3 col-sm-3">
 <ul class="list-unstyled">
-<li>Our Products</li>
-<li><a href="/">Wholesale Directory</a></li>
-<li><a href="/labs">Market Research Lab</a></li>
-<li><a href="/stores">SaleHoo Stores</a></li>
-<li><a href="/glossary">eCommerce Glossary</a></li>
-<li><a href="/forum">Community Forum</a></li>
-<li><a href="/tradeshows">Trade Show Directory</a></li>
-<li><a href="/blog">eCommerce Blog</a></li>
+<li>Product</li>
+<li><a href="/tour/market-research">Research Labs</a></li>
+<li><a href="/">Supplier Directory</a></li>
+<li><a href="/tour/training-and-support">Support &amp; Training</a></li>
+</ul>
+<ul class="list-unstyled">
+<li>Company</li>
+<li><a href="/affiliates">Affiliate Program</a></li>
+<li><a href="/suppliers/new">Suppliers - Get listed</a></li>
+<li><a href="/about-us/business-solutions">Partnerships</a></li>
+<li><a href="/api">Developer Program</a></li>
 </ul>
 </div>
 <div class="col-md-3 col-sm-3">
 <ul class="list-unstyled">
-<li>Useful Resources</li>
-<li><a href="/education/starting-online">How To Start Selling Online</a></li>
-<li><a href="/education/importing-shipping">Importing And Shipping Products</a></li>
-<li><a href="/education/what-to-sell">What To Sell Online</a></li>
-<li><a href="/education/find-a-product-supplier">Finding A Product Supplier</a></li>
-<li><a href="/education/selling-on-ebay-amazon">Selling On eBay And Amazon</a></li>
+<li>Guides</li>
+<li><a href="/dropship">Complete Guide to Dropshipping</a></li>
+<li><a href="/education/starting-online">How to Start an Online Business</a></li>
+<li><a href="/education/importing-shipping">Guide on Importing and Shipping</a></li>
+<li><a href="/education/what-to-sell">Product Ideas to Sell</a></li>
+<li><a href="/education/find-a-product-supplier">How to Find Product Supplier</a></li>
+<li><a href="/education/selling-on-ebay-amazon">How to Sell on Ebay &amp; Amazon</a></li>
 <li><a href="/education/online-store">Starting An Online eCommerce Store</a></li>
-<li><a href="/dropship">The Ultimate Dropshipping Guide</a></li>
 </ul>
 </div>
 <div class="clearfix  visible-xs"></div>
-<div class="col-md-3 col-sm-3 footer-contact-col">
-<ul class="list-unstyled">
-<li>SaleHoo</li>
-<li><a href="/support">Contact</a></li>
-<li><a href="/suppliers/new">Suppliers - Get Listed</a></li>
-<li><a href="/affiliates">Affiliate Program</a></li>
-<li><a href="/api">Developer Program</a></li>
-<li><a href="/about-us/business-solutions">Partnerships</a></li>
-<li><a href="/about-us/jobs">Careers</a></li>
+<div class="col-md-3 col-sm-3">
+<ul class="list-unstyled no-margin">
+<li>Recent Posts</li>
+<li><a href="/blog/how-to-get-a-reseller-license-sales-tax-id">How to Get a Resellers Tax ID</a></li>
+<li><a href="/blog/top-6-places-to-sell-online">Places to Sell Online</a></li>
+<li><a href="/blog/how-to-source-trendy-niche-products-that-will-sell">How To Source Trendy Niche Products That Will Sell</a></li>
+<li><a href="/blog/selling-jewelry-online-sucks-unless-you-know-these-important-facts">How to Sell Jewelry Online</a></li>
 </ul>
 </div>
 <div class="col-md-3 col-sm-3">
 <ul class="list-unstyled">
 <li>Contact Us</li>
-<li><span class="frstcr">@:</span> <a href="/support">support@salehoo.com</a></li>
-<li><span class="frstcr">p:</span> +1 888-881-8703</li>
-<li><span class="frstcr">a:</span> PO Box 41072, Christchurch 8247, NZ</li>
-<li><a class="sicos fb" href="https://www.facebook.com/salehoo" target="_blank"></a> <a class="sicos ln" href="https://www.linkedin.com/company/salehoo-group-limited" target="_blank"></a> <a class="sicos tw" href="https://twitter.com/salehoo" target="_blank"></a></li>
+<li><span class="frstcr">@:</span> <a href="mailto:support@salehoo.com" target="_top">support@salehoo.com</a></li>
+<li><span class="frstcr">p:</span> +1 213-839-6836</li>
+<li><span class="frstcr">a:</span> 41072, Christchurch 8247, CT, NZ</li>
+<li><a class="sicos fb" href="https://www.facebook.com/salehoo"></a> <a class="sicos ln" href="https://www.linkedin.com/company/salehoo-group-limited/"></a> <a class="sicos tw" href="https://twitter.com/salehoo"></a> <a class="sicos yt" href="https://www.youtube.com/salehoodirectory"></a></li>
 </ul>
 </div>
 </div>
 <hr>
 <div class="copyrght">
-Copyright © 2005-2018 SaleHoo Group Limited.
+Copyright © 2005-2019 SaleHoo Group Limited.
 <div class="fotrnav">
 <ul class="list-inline">
-<li><a href="/">Home</a></li>
-<li><a href="/about-us">About Us</a></li>
-<li><a href="/about-us/press">Press &amp; Media</a></li>
-<li><a href="/in-the-news">In the News</a></li>
-<li><a href="/terms">Terms</a></li>
-<li><a href="/privacy">Privacy</a></li>
-<li><a class="sicos bbb" href="https://www.bbb.org/losangelessiliconvalley/business-reviews/advertising-directory-and-guide/salehoo-group-limited-in-los-angeles-ca-100031998/reviews-and-complaints" target="_blank"></a></li>
+<li><a href="https://www.salehoo.com/about-us/jobs">Careers</a></li>
+<li><a href="https://www.salehoo.com/about-us/press">Press &amp; Media</a></li>
+<li><a href="https://www.salehoo.com/terms">Terms</a></li>
+<li><a href="https://www.salehoo.com/privacy">Privacy</a></li>
+<li><a class="sicos bbb" href="https://www.bbb.org/us/ca/hawthorne/profile/directory-advertising/salehoo-group-limited-1216-100031998"></a></li>
 </ul>
 </div>
 </div>
 </div>
 </footer>
-<script type="text/javascript" src="/cjs/default_0bbc5fae4216524dd5cc7023af923a9essl_84298.js.pagespeed.jm.auyHncQWjf.js"></script><script type="text/javascript" src="/cjs/supplier-chat_a6e7b90585ae1a8388c805425b078b1fssl_84298.js.pagespeed.jm.sRORW8H4uy.js"></script>
+<script type="text/javascript" src="/cjs/default_a34cd64c64f66a613d3bbc208fbb1a95ssl_84457.js.pagespeed.jm.VYheAhzstg.js"></script><script type="text/javascript" src="/cjs/supplier-chat_0fee7cd41f2498fa112eb4b283131a99ssl_84457.js.pagespeed.jm.c27rkbDcLr.js"></script>
 <script>(function(){var burger=document.querySelector('.burger-container'),header=document.querySelector('.header');if(burger){burger.onclick=function(){header.classList.toggle('menu-opened');};}}());jQuery('img').filter(function(){return this.src.match(/.*\.svg$/);}).each(function(){var $img=jQuery(this);var imgID=$img.attr('id');var imgClass=$img.attr('class');var imgURL=$img.attr('src');jQuery.get(imgURL,function(data){var $svg=jQuery(data).find('svg');if(typeof imgID!=='undefined'){$svg=$svg.attr('id',imgID);}if(typeof imgClass!=='undefined'){$svg=$svg.attr('class',imgClass+' replaced-svg');}$svg=$svg.removeAttr('xmlns:a');$img.replaceWith($svg);},'xml');});</script>
 <script type="text/javascript">var _cio=_cio||[];(function(){var a,b,c;a=function(f){return function(){_cio.push([f].concat(Array.prototype.slice.call(arguments,0)))}};b=["load","identify","sidentify","track","page"];for(c=0;c<b.length;c++){_cio[b[c]]=a(b[c])};var t=document.createElement('script'),s=document.getElementsByTagName('script')[0];t.async=true;t.id='cio-tracker';t.setAttribute('data-site-id','b945b13bdf85d001f02b');t.src='https://assets.customer.io/assets/track.js';s.parentNode.insertBefore(t,s);})();</script>
-<script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","licenseKey":"38459064f6","applicationID":"3275848","transactionName":"blVbYBRXDBBSBRYKWFcfekEVQg0OHBYDBFJKH09dA0E=","queueTime":0,"applicationTime":391,"atts":"QhJYFlxNHx4=","errorBeacon":"bam.nr-data.net","agent":""}</script>
+<script type="text/javascript">(function(w,o,d,s){w['_itlk']='409f644499e43471f5b475f-2';w['_itlt']=[];w['_itlq']=[];w['_itld']=s;w[o]=w[o]||{log:function(t,v,p){w['_itlt'].push([t,v,p])},stream:function(q){w['_itlq'].push([q])}};var pa=d.createElement('script'),ae=d.getElementsByTagName('script')[0],protocol=(('https:'==d.location.protocol)?'https://':'http://');pa.async=1;pa.src=protocol+'io.innertrends.com/itl.js';pa.type='text/javascript';ae.parentNode.insertBefore(pa,ae);})(window,'_itl',document,"");var itEvents=true;</script>
+<script></script>
+<script type="text/javascript">window.csrf_token='b304427fc203f991d9d927d4871dde91';jQuery(function(){jQuery('input.csrf_client_token').val(window.csrf_token);});</script>
+<script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","licenseKey":"38459064f6","applicationID":"3275848","transactionName":"blVbYBRXDBBSBRYKWFcfekEVQg0OHBUXE1JLb1pVBV4HWRwWAwRSSh9PXQNB","queueTime":0,"applicationTime":22,"atts":"QhJYFlxNHx4=","errorBeacon":"bam.nr-data.net","agent":""}</script>
 </body></html>
