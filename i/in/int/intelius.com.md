@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the intelius.com privacy policy that was archived on 2018-10-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181006205011id_/http%3A//www.peopleconnect.us/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the intelius.com privacy policy that was archived on 2019-03-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190306082330id_/http%3A//www.peopleconnect.us/privacy) for the most accurate reproduction.*
 
 # PeopleConnect Privacy Policy
 
