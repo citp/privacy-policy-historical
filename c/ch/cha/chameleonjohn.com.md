@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the chameleonjohn.com privacy policy that was archived on 2016-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160629203437id_/http%3A//www.chameleonjohn.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the chameleonjohn.com privacy policy that was archived on 2019-03-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190306150551id_/https%3A//www.chameleonjohn.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | ChameleonJohn
 
 _Effective Date: February 7th, 2014_
 
-This Privacy Statement ("Privacy Statement") explains how www.chameleonjohn.com ("ChameleonJohn", "Site"), a website owned and operated by Electrim Technologies Corporation, uses personal information and applies to all new users and affiliates who participate in, register on, or interact with, our site on or after the Effective Date. Please read this Privacy Statement carefully. If you do not agree to our practices, please do not register, subscribe, create an account, or otherwise interact with Electrim Technologies Corporation at www.chameleonjohn.com and all Site's Services we provide. 
+This Privacy Statement ("Privacy Statement") explains how www.chameleonjohn.com ("ChameleonJohn", "Site"), a website owned and operated by HH LLC uses personal information and applies to all new users and affiliates who participate in, register on, or interact with, our site on or after the Effective Date. Please read this Privacy Statement carefully. If you do not agree to our practices, please do not register, subscribe, create an account, or otherwise interact with HH LLC at www.chameleonjohn.com and all Site's Services we provide. 
 
 ChameleonJohn may contain links to third-party websites, products and services. This privacy policy only applies to ChameleonJohn and our collection and use of your information. The linked websites, products and services of third parties, and their collection and use of your information, are governed by the privacy policies of such third parties. We encourage you to learn about the privacy practices of those third parties. 
 
@@ -70,4 +70,4 @@ ChameleonJohn services are not directed to people under 16. If you become aware 
 
 **Changes to this Policy**
 
-We may change this Privacy Policy from time to time. The most current version of the policy will govern our use of your information and will always be at [www.chameleonjohn.com/privacy-policy](http://www.chameleonjohn.com/privacy-policy). If we make a change to this policy that, in our sole discretion, is material, we will always make a notice in the top of this page. By continuing to access or use our services after those changes become effective, you agree to be bound by the revised Privacy Policy. 
+We may change this Privacy Policy from time to time. The most current version of the policy will govern our use of your information and will always be at [www.chameleonjohn.com/privacy-policy](https://www.chameleonjohn.com/privacy-policy). If we make a change to this policy that, in our sole discretion, is material, we will always make a notice in the top of this page. By continuing to access or use our services after those changes become effective, you agree to be bound by the revised Privacy Policy. 
