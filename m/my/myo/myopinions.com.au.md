@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the myopinions.com.au privacy policy that was archived on 2018-03-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180317134037id_/https%3A//www.myopinions.com.au/en-AU/policies/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the myopinions.com.au privacy policy that was archived on 2019-03-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190306093517id_/https%3A//www.myopinions.com.au/en-AU/policies/privacy) for the most accurate reproduction.*
 
 # Read Our Privacy Policy - Australia | My Opinions
 
@@ -14,13 +14,13 @@ This Privacy Policy sets forth the collection, use and disclosure of personal da
 
 Your use of SSI’s Application/Services is completely voluntary and therefore SSI’s processing of your PII in connection with the Application/Services and Non-Research Activities and this Privacy Policy is with your consent.
 
-Surveys administered by third parties and the data collected in connection therewith are not subject to this Privacy Policy. Registration with, use of, and access to SSI’s Services is subject to [SSI’s Terms and Conditions](https://www.opinionworld.in/en-in/policies/terms/general).   In most cases SSI is not the sponsor of the survey and the survey instrument, and the survey results or survey data, are and will be owned by the sponsor of the survey.  
+Surveys administered by third parties and the data collected in connection therewith are not subject to this Privacy Policy. Registration with, use of, and access to SSI’s Services is subject to [SSI’s Terms and Conditions](https://www.opinionworld.com.au/en-au/policies/terms/general).   In most cases SSI is not the sponsor of the survey and the survey instrument, and the survey results or survey data, are and will be owned by the sponsor of the survey.  
 
 All references in this Privacy Policy to “SSI” include SSI and its parent, subsidiary and affiliated companies. All references to “us” or “we” refer to SSI.  All PII is stored on servers located in the United States, where SSI’s servers are located and accessible globally to SSI employees and/or agents.  For purposes of this policy, respondent shall mean any individual who participates in SSI Services, including passive data collection and/or participates in the Non-Research Activities described herein.  For purposes of this policy, online shall include mobile web browsing,
 
 **What personal data and other information does the Application/Services collect and how is it used?**
 
-SSI collects personally identifiable information (“PII”) from research participants during and after registration with a panel, including, without limitation, during participation in a survey and in connection with the receipt and redemption of rewards and incentives and/or during the Application/Services registration and download process. You will be asked to provide certain PII and demographic information, including, without limitation, your name, address(es), telephone number(s) (including home, cell, and/or business telephone numbers), email address(es), date of birth, and occupation/education, the unique panelist/respondent identification number we assign to you when you sign up for an account (individually a " **UID** " and collectively " **UIDs** "), and racial and gender information. In addition to the collection of PII mentioned above, during and subsequent to the registration process, you may be asked to voluntarily provide or disclose Sensitive Data. **“ _Sensitive Data_ ”** means PII that discloses or reveals health and medical conditions, sexual orientation or sexual life, political opinions/views, race/ethnic origin, religious and philosophical beliefs and trade-union membership. Sensitive Data is used to target survey opportunities to you and as otherwisåe set forth in this Privacy Policy. 
+SSI collects personally identifiable information (“PII”) from research participants during and after registration with a panel, including, without limitation, during participation in a survey and in connection with the receipt and redemption of rewards and incentives and/or during the Application/Services registration and download process. You will be asked to provide certain PII and demographic information, including, without limitation, your name, address(es), telephone number(s) (including home, cell, and/or business telephone numbers), email address(es), date of birth, and occupation/education, the unique panelist/respondent identification number we assign to you when you sign up for an account (individually a " **UID** " and collectively " **UIDs** "), and racial and gender information. In addition to the collection of PII mentioned above, during and subsequent to the registration process, you may be asked to voluntarily provide or disclose Sensitive Data. **“ _Sensitive Data_ ”** means PII that discloses or reveals health and medical conditions, sexual orientation or sexual life, political opinions/views, race/ethnic origin, religious and philosophical beliefs and trade-union membership. Sensitive Data is used to target survey opportunities to you and as otherwise set forth in this Privacy Policy. 
 
 SSI collects PII and demographic information from non-panel members prior to and during participation in a survey.
 
@@ -275,6 +275,56 @@ Ad Targeting
 | 
 
 [https://www.google.com/settings/u/0/ads/anonymous?sig=ACi0TCj4WP5NIiVsywTryJs0co02qTOM3neOksYwSi_MO2oNN-zzyl8Xcvh4NHNWnEYBxg57mU4BgRbNo_97mhwkdwXVZgL9OA&hl=en](https://www.google.com/settings/u/0/ads/anonymous?sig=ACi0TCj4WP5NIiVsywTryJs0co02qTOM3neOksYwSi_MO2oNN-zzyl8Xcvh4NHNWnEYBxg57mU4BgRbNo_97mhwkdwXVZgL9OA&hl=en)  
+  
+adimension (Research Now)
+
+| 
+
+Ad effectiveness research
+
+| 
+
+[ https://opt-out.researchnow.com](https://opt-out.researchnow.com/)  
+  
+Semasio
+
+| 
+
+Partner datashare
+
+| 
+
+<https://www.semasio.com/de/nc/en/opt-out/>  
+  
+Doubleclick_floodlight
+
+| 
+
+Ad effectiveness research
+
+| 
+
+<https://www.google.com/ads/preferences/>  
+  
+Drawbridge
+
+| 
+
+Cross device measurement
+
+| 
+
+<https://drawbridge.com/optoutstart>  
+  
+Lotame
+
+| 
+
+Online Ad Effectiveness, Tracking Website Visits, Developing Online Look-a-Like Cohorts and Audience Insights
+
+| 
+
+<https://www.lotame.com/opt-out-preference-manager/>  
   
 _Log Files_ . The Application/Services may automatically gather and store certain information, including, without limitation, data available from your web browser, including, without limitation, IP Address, browser type, internet service provider, referring/exiting pages, operating system, date/time stamp, and click stream data in log files.
 
