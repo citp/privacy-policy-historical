@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the edrugsearch.com privacy policy that was archived on 2017-07-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170702193546id_/https%3A//edrugsearch.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the edrugsearch.com privacy policy that was archived on 2019-03-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190307003556id_/https%3A//edrugsearch.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - eDrugSearch
 
-eDrugSearch.com is firmly committed to respecting the privacy of individuals. Please read the following to learn more about our privacy policy.
+[eDrugSearch.com](https://edrugsearch.com/) is firmly committed to respecting the privacy of individuals. Please read the following to learn more about our privacy policy.
 
 ## What This Privacy Policy Covers
 
@@ -63,7 +63,7 @@ You may choose to stop receiving our newsletter or marketing emails by following
 
 If you choose to use our referral service to tell a friend about our site, we will ask you for your friend’s name and email address. We will automatically send your friend a one-time email inviting him or her to visit the site. eDrugSearch.com stores this information for the sole purpose of sending this one-time email and tracking the success of our referral program.
 
-Your friend may contact us at info@edrugsearch.com to request that we remove this information from our database.
+Your friend may contact us at [info@edrugsearch.com](mailto:info@edrugsearch.com) to request that we remove this information from our database.
 
 ### Import Contacts
 
@@ -87,7 +87,7 @@ We will retain your information for as long as your account is active or as need
 
 eDrugSearch.com may update this policy. We will notify you about significant or material changes in the way we treat personal information by sending a notice to the primary email address specified in your eDrugSearch.com account or by placing a prominent notice on our site.
 
-NOTICE: [Click here](http://www.ftc.gov/bcp/conline/pubs/online/sitesee.htm?__hstc=51977334.26959b9bbf2c72f88429cf90c5c2b37e.1363841925134.1366005730564.1366009651438.20&__hssc=51977334.3.1366009651438) for important information about safe surfing from the Federal Trade Commission.
+NOTICE: [Click here](https://www.consumer.ftc.gov/features/feature-0038-onguardonline) for important information about safe surfing from the Federal Trade Commission.
 
 Effective Date: July 2, 2016
 
@@ -115,8 +115,11 @@ We use this information to notify contest winners, award prizes, _to monitor sit
 
 We may use a third party service provider to conduct these surveys or contests; that company is prohibited from using our users’ personally identifiable information for any other purpose. We will not share the personally identifiable information you provide through a contest or survey with other third parties unless we give you prior notice and choice.
 
-Here is our physical mailing address:  
-607 E. Blanco #398  
+eDrugSearch is owned by Squawkia, Inc.
+
+Here is our physical mailing address:
+
+1207 Breeze Way  
 Boerne, Texas 78006  
 (210) 789-2973
 
