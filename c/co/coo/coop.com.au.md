@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the coop.com.au privacy policy that was archived on 2018-03-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180313201002id_/https%3A//www.coop.com.au/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the coop.com.au privacy policy that was archived on 2019-03-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190306095718id_/https%3A//www.coop.com.au/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -54,8 +54,6 @@ The information that we ask for is generally used to:
 
 
 While we do not generally disclose personal information to third parties, we may need to disclose personal information to persons who perform services that enable us to provide the goods and services to you (e.g. carriers or data storage providers). Those parties may be located overseas (for instance, our data storage providers are located in China and the United States) and are required under the terms of their agreement with Co-op to comply with relevant provisions of the Privacy Act. We will not use or disclose any personal information that we collect about you other than for the purpose for which you have given it to us or a secondary purpose that is related to the primary purpose of collection, as set out in this Privacy Policy, or as disclosed to you at the time we collect the information. If the information will be disclosed or used for other purposes, we will take reasonable steps to obtain your consent.
-
-If you have applied for a ME Bank EveryDay Transaction Account as part of your Co-op membership application, we will disclose your name, personal details, membership number and membership join date to Members Equity Bank Pty Ltd ABN 56 070 887 679 for the purpose of starting your ME Bank EveryDay Transaction Account application.
 
 If you have applied for an International Student Identity Card as part of your Co-op membership application, we will disclose your name, personal details, membership number and membership join date to STA Travel Pty Ltd ABN 34 004 801 512 for the purpose of starting your application.
 
