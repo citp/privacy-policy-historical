@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the virginmoney.com.au privacy policy that was archived on 2018-03-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180312184506id_/https%3A//www.virginmoney.com.au/about-virgin-money/help-and-faqs/privacy-and-security) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the virginmoney.com.au privacy policy that was archived on 2019-03-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190307094722id_/https%3A//www.virginmoney.com.au/help/privacy-and-security) for the most accurate reproduction.*
 
 # Privacy and security | Virgin Money
 
@@ -54,7 +54,7 @@ From time to time, we may also use your personal information to let you know abo
 
   * What if I don't want to receive advertising materials?
 
-That's fine. Forward the email you have received with the subject line “unsubscribe” to us at [privacy@virginmoney.com.au](mailto:privacy@virginmoney.com.au) or call us on [13 81 51](tel:138151). You can choose either to hear only about Virgin Money products, or to not receive any marketing material at all.
+That's fine. Forward the email you have received with the subject line “unsubscribe” to us at [privacy@virginmoney.com.au](mailto:privacy@virginmoney.com.au) or call us on [+61 2 8222 8000](tel:0282228000).
 
 If you apply for any Virgin Money products and your application is declined, we may keep your details on file to let you know about future Virgin Money products.
 
@@ -157,22 +157,19 @@ If you feel you need to make a complaint about privacy, please call our Privacy 
 
 We are committed to resolving your complaint internally and as quickly as possible.   We aim to respond to all complaints within 5 business days, however timeframes may be longer depending on the nature of the complaint.
 
-If your complaint is not resolved to your satisfaction through the internal procedures outlined above, you may elect to refer your complaint to external dispute resolution to the Financial Ombudsman Service (This is a free service).
+If your complaint is not resolved to your satisfaction through the internal procedures outlined above, you may elect to refer your complaint to an external dispute resolution the Australian Financial Complaints Authority (AFCA) this is a free service.
 
-Financial Ombudsman Service  
-GPO Box 3  
-Melbourne VIC 3001  
-Phone: 1300 78 08 08
-
-**For more information go to**[ **www.fos.org.au**](http://www.fos.org.au/)
+Website: [www.afca.org.au](https://www.afca.org.au/)  
+Email: [info@afca.org.au](mailto:info@afca.org.au)  
+Phone: [1800 931 678](tel:1800931678) (free call)  
+Mail: Australian Financial Complaints Authority, GPO Box 3, Melbourne VIC 3001
 
 You may also elect to contact the Office of the Australian Information Commissioner (OAIC) if you have a complaint about the way we handle your personal information at:
 
-GPO Box 5218  
-Sydney NSW 2001  
-Phone: 1300 363 992  
-Email: enquiries@oaic.gov.au  
-[**www.oaic.gov.au**](http://www.oaic.gov.au/)
+Website: [www.oaic.gov.au](http://www.oaic.gov.au/)  
+Phone: [1300 363 992](tel:1300363992)  
+Email: [enquiries@oaic.gov.au](mailto:enquiries@oaic.gov.au)  
+Mail: Office of the Australian Information Commissioner, GPO Box 5218, Sydney NSW 2001
 
 
 
