@@ -1,210 +1,257 @@
-> *The following text is extracted and transformed from the thesettlersonline.com privacy policy that was archived on 2018-03-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180309033737id_/https%3A//www.thesettlersonline.com/en/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thesettlersonline.com privacy policy that was archived on 2019-03-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190307093448id_/https%3A//www.thesettlersonline.com/en/privacy-policy) for the most accurate reproduction.*
 
 # UBISOFT PRIVACY POLICY
 
-Last revised: January 12th 2016
+**WELCOME TO UBISOFT SERVICES.**
 
-[](http://www.esrb.org/confirm/ubisoft-confirmation.jsp)
+**PLEASE READ THIS PRIVACY POLICY CAREFULLY**
 
-Ubisoft Inc. and any one of its parent, subsidiary or affiliated companies, including without limitation, Ubisoft Entertainment SA, Ubisoft EMEA SAS, Ubisoft Mobile Games, Red Storm Entertainment, Inc. and Blue Byte GmbH (collectively, " **Ubisoft** " or " **we** "), respect the privacy rights of our visitors and users (" **Users** ") and recognize the importance of protecting all information that you may choose to share with us. To further this commitment, we have adopted this Privacy Policy (" **Policy** ") to guide how we collect, store, use and share the information you provide us when you access Ubisoft's websites, mobile sites and applications, online games, online functions of offline games and any other online functions controlled, accessed by Ubisoft as described herein (collectively, the " **Services** "). If you do not agree to the terms of this Policy, please do not use the Services. 
+[](http://www.esrb.org/confirm/ubisoft-confirmation.aspx)
 
-We reserve the right to change the provisions of this Policy at any time. We will alert you that changes have been made by indicating on the Policy the date it was revised. We encourage you to review this Policy from time to time to make sure that you understand how any personal information you provide will be used. Your continued use of the Services following the posting of changes to these terms will mean you accept those changes. 
+Welcome to Ubisoft, a worldwide leader in video games and interactive content. This Privacy Policy explains our privacy commitment to our players and users of our Services (hereinafter " **Users** "). This Privacy Policy is incorporated as part of the Ubisoft Terms of Use, accessible at <http://legal.ubi.com/>.
 
-This Policy and the certification seal shown on the Services confirm that Ubisoft is a member in good standing of ESRB's Privacy Certified Program. ESRB's Privacy Certified Program is designed to ensure that our Services’ information disclosure practices are responsible and appropriate. To protect your privacy, we have voluntarily undertaken this privacy initiative and the Services have been reviewed and certified by ESRB Privacy Certified to meet established online information collection and use practices. As part of this privacy program, we are subject to frequent audits of our Services and other enforcement and accountability mechanisms administered independently by the ESRB. 
+At Ubisoft, we collect personal data to support our products and services, while respecting all applicable laws, including but not limited to the Personal Information Protection and Electronic Documents Act (PIPEDA), and regulation (EU) 2016/679 of the European Parliament and of the Council of 27 April 2016, directly applicable from May, 25th, 2018 (hereinafter, "General Data Protection Regulation", or "GDPR"). As defined in the GDPR, "personal data" means any information relating to an identified or identifiable natural person, directly or indirectly, in particular by reference to an identifier such as a name, an identification number, location data, an online identifier or to one or more factors specific to the physical, physiological, genetic, mental, economic, cultural or social identity of that natural person.
 
-**_TABLE OF CONTENTS_**
+By using Ubisoft’s services, you authorize Ubisoft and its affiliated companies, such as but not limited to Ubisoft Entertainment SA, Ubisoft EMEA SAS, Ubisoft Inc., Ubisoft Mobile Games, Red Storm Entertainment Inc., and Blue Byte GmbH (collectively, " **Ubisoft** " or " **we** "), to process your personal data according to this Privacy Policy. If you do not accept the terms of this Privacy Policy, please refrain from using our online games or our games’ online functionalities, our websites, our mobile apps and any other online Ubisoft products and services (hereinafter " **Services** ").
 
-  1. **What is Personal Information?**
-  2. **What types of Personal Information do we collect about our Users?**
-  3. **How is Personal Information used and shared?**
-  4. **Do we share Personal Information with third parties?**
-  5. **What choices do you have about the collection, use, and sharing of Personal Information?**
-  6. **Does Ubisoft collect information from children under the age of 13?**
-  7. **What kinds of security measures do we take to safeguard Personal Information?**
-  8. **How long does Ubisoft use my Personal Information?**
-  9. **Does this Policy apply to other sites linked to the Services?**
-  10. **How can you access and update your Personal Information and account profile?**
-  11. **Ubisoft’s Terms of Use**
-  12. **How can you ask questions or send comments about this Policy?**
+In accordance with this Privacy Policy, the Data controller is Ubisoft Entertainment, with its headquarters at 107 avenue Henri Fréville, 35200, Rennes, France.
 
+This Policy and the certification seal shown on the Services confirm that Ubisoft is a member in good standing of ESRB's Privacy Certified Program. ESRB's Privacy Certified Program is designed to ensure that our Services’ information disclosure practices are responsible and appropriate. As part of this privacy program, we are subject to frequent audits of our Services and other enforcement and accountability mechanisms administered independently by the ESRB.
 
+**Table of contents:**
 
-## **1\. What is Personal Information?**
+  1. When does Ubisoft collect your personal information?
 
-As used herein, the term "personal information" means information that specifically identifies any individual ( including without limitation, name, date of birth, address, telephone/mobile number, e-mail address, or payment/billing information), and any other information that is required by applicable law to be treated as Personal Information (" **Personal** **Information** "). 
+  2. What personal information does Ubisoft collect?
 
-Personal Information does not include "aggregate" or "anonymized" information", which is data we collect about a User’s, or group or category of Users’, use of the Services and/or other sites or services (including without limitation, demographic or preference information) from which individual identities or other Personal Information has been removed. Please note, if Ubisoft combines this information with Personal Information, Ubisoft will treat this information as Personal Information pursuant to this Policy. 
+  3. How does Ubisoft use my personal data?
 
-## **2\. What types of Personal Information do we collect about our Users?**
+  4. For how long does Ubisoft keep my personal data?
 
-We collect Personal Information about our Users in a number of ways when you visit or use the Services:
+  5. With whom does Ubisoft share my personal data?
 
-**Active Collection:** We collect certain information from you when you provide it, such as if you:
+  6. Does Ubisoft make my personal information public? Who can see my personal information?
 
-  * Create a Uplay or game account;
-  * Apply for a beta tester position;
-  * Subscribe to one of our newsletters or other promotional content;
-  * Email-a-friend;
-  * Participate in our community forums or chat rooms;
-  * Create a public profile;
-  * Shop at one of our online stores or purchase virtual items within a Ubisoft's game;
-  * Receive customer or technical support;
-  * Participate in contests, events, or promotions;
-  * Register product online for warranty protection; and
-  * Polls, surveys, or questionnaires.
+  7. Minors
 
+  8. What are my rights?
 
+  9. Privacy Policy changes
 
-  
-Typically, the Personal Information collected includes: name; email address; telephone number; shipping and billing address; date of birth, and payment information for those purchasing products through the Services. Additionally, we may also collect demographic information such as your age, gender, country and zip code of residence, other geo-locational information, recent game purchases, and game ownership and preferences. This demographic information may be associated with your Personal Information. If this demographic information is connected with Personal Information, we will treat the demographic information as Personal Information.
+  10. Contacts
 
-**Passive Collection:** Furthermore, Ubisoft may collect information regarding your behavior to better adapt our products and Services to your interests and to provide a better quality of Services. Ubisoft may on its own, or with the help of third party analytics tools, collect information concerning your and other Users’ gaming habits, hardware and use of our products and Services. The information collected may contain the following, without limitation: device unique identity, including console, mobile, tablet and console unique identifier or other device identifiers and settings, internet provider, carrier, operating system, hardware information, localization information, date and time spent on the Services, game scores, game metrics and statistics, feature usage, advertising conversion rates, monetization rate, purchase history and other similar information. Standing alone, this information may not be Personal Information; however, if Ubisoft combines any of this information with Personal Information, Ubisoft will treat this information as Personal Information pursuant to this Policy.
 
-**Cookies:** Ubisoft uses cookies on the Services. A "cookie" is a small bit of record-keeping information that websites often store on a User's computer. Cookies are typically used to quickly identify a User's computer and to "remember" things about the User's visit. Ubisoft may set cookies for your web browser as you visit our websites, use our products or visit a website where Ubisoft provides ads, content or analytics. You can disable cookies or set your browser to alert you when cookies are being sent to your computer, although this may affect your ability to shop online or to access certain features of our Services. Each browser is different, so check the "Help" menu of your browser to learn how to change your cookie preferences. In addition to Ubisoft using cookies on Services and our network of websites, Ubisoft allow certain partners to set and access their cookies on your computer. These companies use of cookies is subject to their own privacy policies, not the Ubisoft Privacy Policy. Please review them carefully. For more information about cookies, please see [**http://www.allaboutcookies.org**](http://www.allaboutcookies.org/). Please note, if you choose to remove or reject cookies, this could affect certain features on the Services. 
 
-Ubisoft makes its best efforts to (a) provide you with the list of partners whose cookies and other analytic tools are used in our Services, (b) links to these partners’ own privacy policies according to which their tools and technologies are used, and (c) when available, to provide you with a link to allow you to opt-out from these partners’ services. To that end, you will find such non-exhaustive list here: [**https://legal.ubi.com/cookies/**](https://legal.ubi.com/cookies/) **.**
 
-**Third Parties:** We may obtain certain information about you from third parties, including Personal Information. Please note: Ubisoft is not responsible for the privacy and security practices and policies of such third parties. 
+## **1\. WHEN DOES UBISOFT COLLECT YOUR PERSONAL INFORMATION?**
 
-**Transfer of Personal Information:** Please note that your Personal Information may be transferred to the various offices of Ubisoft located in countries outside the United States, including but not limited to in Europe, the United States, Latin America and Asia. The list of these subsidiaries is available online at https://www.ubisoftgroup.com/en-US/about_ubisoft/world_presence/world_presence.aspx. Your Personal Information may be processed by teams working for Ubisoft or one of its subcontractors outside of the United States and will be accessible to employees and agents of Ubisoft subsidiaries and/or subcontractors.
+Ubisoft collects and processes your personal information at different times when you interact with our Services. Generally, personal information is collected when:
 
-## **3\. How is Personal Information used and shared?**
+(a) you use a Service,
 
-We don't require Personal Information to access our Services. However, if you prefer not to disclose Personal Information, to the extent permitted by applicable law, you will not be able to register and/or enjoy certain features of our Services. We use Personal Information we collect through the Services for the purposes described in this Policy. 
+(b) you create an Account,
 
-For example:
+(c) you make a purchase within our Services,
 
-  * To provide the Services, products or information you request and to process and complete any transactions in connection therewith; 
-  * To communicate with you and respond to your emails, submissions, questions, inquiries, comments, requests, and complaints and to provide customer service. For instance, we may use your email address to send you service announcements that tell you about updates to our Terms of Use or this Policy, changing in pricing, changes to the Services or our online service or customer support policies. 
-  * To monitor and analyze the Services usage and trends and otherwise measure the effectiveness of the Services or request feedback from you about the Services; 
-  * To send you confirmations, updates, security alerts, and support and administrative messages, to detect and prevent fraud, and to otherwise facilitate your use of, and our administration and operation of, the Services; 
-  * To conduct surveys contests and sweepstakes;
-  * To operate the Services, including, without limitation, payment processing, and products delivery ; and
-  * To personalize and improve the Services and Users' experiences, to increase the functionality and User friendliness of the Services, to deliver advertisements, newsletters, coupons, promotions, rewards, awards or other content, or features that match User profiles or interests on the Services, and to provide recommendations as to other advertisements, content or features that may be of interest to Users on the Services; 
-  * To provide you with news and information about our third party events, activities, offers, promotions, products, and services we think will be of interest to you; 
-  * For any other purpose as described in this Policy or for which we notified you the information will be collected, used and shared and received your consent. 
+(d) you create user generated content,
 
+(e) you watch advertisements within our Services,
 
+(f) you sign up for a newsletter,
 
-**Interest Based Advertising:** We may use third party ad serving technologies that collect information as a result of ad serving in the products and Services, and then temporarily display advertisements on the Services and third party sites. The information collected and used for the interest based advertising may contain the following, without limitation: age and gender, number views of an advertisement, device unique identity or other device identifiers and settings, information about your use of the products and Services and other Internet sites (including third party web pages and mobile Internet sites) viewed by you (as well as date and time viewed), advertisement(s) served, the advertisement(s)’ in game location and length, and your response to the advertisement(s) (if any). The analytics tools and ad serving technologies may use server log files, web beacons, cookies (as further described below), tracking pixels and other technologies to collect said information, and may combine the information collected on other Ubisoft products and services with information collected from other third party sites and mobile products and services and with demographic, advertisement, market and other analytics surveys. Standing alone, this information may not be Personal Information; however, if we combine any of this information with Personal Information to serve you such interest based advertising, we will provide you an opportunity to opt-out of such combination and treat this information as Personal Information pursuant to this Policy. We make our best efforts to (a) provide you with the list of partners whose ad serving technologies are used in our Services, (b) links to these partners’ own privacy policies according to which their tools and technologies are used, and (c) when available, to provide you with a link to allow you to opt-out from these partners’ services. To that end, you will find such non-exhaustive list here: [**https://legal.ubi.com/cookies/**](https://legal.ubi.com/cookies/) **.** Alternatively, you can opt out of some third-party technology’s use of cookies for interest-based advertising by visiting [**aboutads.info**](http://www.aboutads.info/) **.**
+(g) you contact Ubisoft customer service and during technical support sessions,
 
-## **4\. Do we share Personal Information with third parties?**
+(h) you enter into a contest or sweepstakes,
 
-We will only share the Personal Information we collect from you through the Services with third parties as described in this Policy or otherwise as detailed at the time of collection. For example, we may share Personal Information as follows:
+(i) you chat with other users of the Services,
 
-  * With vendors, consultants, and/or other service providers (" **Service** **Providers** ") who are engaged by or working with us in connection with the operation of the Services and/or the promotion of Ubisoft products and who need access to such information to carry out their work; 
-  * With other Users of the Services as described herein; and
-  * With promotional partners to send you coupons, promotions, rewards, awards and advertisements you request.
+(j) you participate in a beta or otherwise download a patch or a demo, or
 
+(k) you share or otherwise contribute to our social media channels or other community websites.
 
+Whatever the activity may be, we will only collect personal information to the extent necessary to provide you with the Services and fulfil your requests.
 
-To the extent that third parties have access to your Personal Information, whenever possible, we will request that they will follow practices that are at least as restrictive as the practices described in this Policy;
+## **2\. WHAT PERSONAL INFORMATION DOES UBISOFT COLLECT?**
 
-We will also use and share information, including Personal Information, for the purposes specifically described below:
+## **2.1 When you use Ubisoft services**
 
-**Custom Content** : We may share the Personal Information collected by us pursuant to this Policy with promotional partners to display customized content on our Services or third party sites that we think will be of interest to you. To opt out of this type of sharing of Personal Information by Ubisoft, please update your settings in your Uplay account, as further described below in " **Custom Content Opt-Out** ".
+**2.1.1 While Browsing Ubisoft websites**
 
-**Public Profile:** Uplay.com and other brand specific Ubisoft sites may offer a public profile feature (" **Public** **Profile** ") that allows you to publish information, including Personal Information, to the public Internet. Other than as stated on the applicable public profile site, the information you upload or input to your Public Profile will default to the privacy level you choose at sign-in, and you can choose to change the privacy settings at any time. Those aspects of the Public Profile that are designated as "public" will be visible by everyone, including people off the Ubisoft environment, and may be indexed and displayed through public search engines when someone searches for you. If you post your Personal Information to a Public Profile, including a video, image or photo, you should be aware that these may be viewed, collected, copied and/or used by other Users without your consent, and there is no expectation of privacy or confidentiality there. We are not responsible for disclosure by other Users of your Personal Information, including without limitation, videos, images or photos that you choose to submit to Ubisoft’s sites. Also, please remember that the Personal Information you provide to us as part of your Public Profile may reveal or allow others to identify aspects of your life that you may not choose to state on your Public Profile directly (for example, your picture may reveal your gender). 
+**Cookies.**  Ubisoft uses cookies on the Services. A "cookie" is a small bit of record-keeping information that web sites often store on a user's computer. Cookies are not intended to include people's names, or other information that is directly identifiable; rather, they are typically used to quickly identify a user's device and to "remember" things about the user's visit. Ubisoft may set cookies for your web browser as you visit our websites, use our products, or visit a website where Ubisoft provides ads, content or analytics. For example, Ubisoft uses cookies to keep track of selected items in your shopping cart on our online store, and to remember your Account identifier. You can disable cookies or set your browser to alert you when cookies are being sent to your computer, although this may affect your ability to shop online or to access certain features of our Services. Each browser is different, so check the "Help" resources for your web browser to learn how to change your cookie preferences. In addition to Ubisoft using cookies on our network of websites, Ubisoft may allow certain partners to set and access their cookies on your computer. These companies’ use of cookies is subject to their own privacy policies, not the Ubisoft Privacy Policy. Please review them carefully. For more information about cookies, please see [http://www.allaboutcookies.org](http://www.allaboutcookies.org/). You can see the list of companies that may implement and/or access cookies on your computer, mobile or device, and how to opt-out to such cookies (where available) at <https://legal.ubi.com/cookies/>.
 
-**Friend Finder tools:** By using friend finder tools, you acknowledge that use of these tools will help you find your contacts and will also allow your contacts to associate your Uplay account, other Ubisoft accounts if any (and related gaming entitlements, including games played on PC, mobile and console platforms) with your social networking profile and/or email address. Your resulting friends' list, which may be accessible across Ubisoft sites, will be subject to this Policy. Note that the friends that you choose to include on any friends' list may be able to find and/or identify you in the context of different Ubisoft products and Services, and may see the profiles and information you have made visible to them or to everyone. Similarly, Ubisoft may also collect or receive information about you from other Users who choose to upload their email and other contacts. This information will be stored by us and used primarily to help you and your friends connect. 
+**IP addresses.** Ubisoft also collects Internet Protocol (IP) addresses for safety and security reasons. An IP address is a number that is used by computers on the network to identify your computer every time you log on to the Internet.
 
-**Console Accounts/ Social Networks :** By playing an Ubisoft game through a social network or other third party platform or service, or by connecting to a third party account, network, platform or service via one of our products and/or Services, you are authorizing Ubisoft to (1) collect, store, and use, in accordance with this Policy, any and all information that you agreed that the console manufacturer, social network or other third party platform could provide to Ubisoft based on your settings on your console account, the third party social network or platform and (2) share any and all of your Personal Information with the console manufacturer, social network or other third party platform, through the third party platform’s Application Programming Interface (API). Your agreement to this takes place when you connect with the third party network, platform or service via our products and/or services, and/or when you connect with, "accept" or "allow" (or similar terms) one of our applications through the third party platform or service. 
+**Other passively collected information.** While browsing our sites, Ubisoft may, on its own, or with the help of third party tools, collect non-personally identifiable information concerning your gaming hardware, habits, behaviors and use of our Services. Ubisoft collects such information to better adapt our Services to users’ interests, and for a better quality of our Services. The information collected may contain the following, without limitation: device unique identity, including MAC address, console, mobile, tablet and console unique identifier or other device identifiers and settings, internet provider, carrier, operating system, hardware information, localization information, date and time spent on the Services, game scores, game metrics, achievements, rankings, time played and statistics, feature usage, advertising conversion rates, monetization rate, purchase history and other similar information.
 
-**Online Events and Promotions:** Your participation in online events and promotions may be conditional upon Ubisoft’s collection, use, storage, transmission and public display of statistical data (such as your scores, rankings and achievements) generated through your participation. This statistical data may include your Personal Information.
+**2.1.2 Registering on a Ubisoft service**
 
-**Business Information:** For practical reasons, we treat Personal Information submitted to us in a business capacity different from information we receive in a non-business capacity. Personal Information submitted to us in a business capacity (e.g. resumes) may be shared with third parties as described at the time of collection 
+To access certain Services, you will need a Ubisoft Account. During the creation of your Account, we will ask you to provide your user name, password, email address, date of birth (or age) and country of origin. This information is mandatory to create an Account. On other Services, Ubisoft may ask you additional personal information relevant to the Service such as your phone number, home address, or geo-location information (for example, you will be asked your home address when purchasing a product within our online shop, in order for Ubisoft to deliver the product to your home address).
 
-**Purchase or Sale of Businesses:** From time to time, we may purchase a business or sell one or more of our businesses and your Personal Information may be transferred as a part of the purchase or sale. If we purchase a business, the Personal Information received with that business would be treated in accordance with this Policy, if it is practicable and permissible to do so. If we sell a business, whenever possible, we will include provisions in the selling contract requiring the purchaser to treat your Personal Information in the same manner required by this Policy. The provisions of this paragraph will also apply if we are sold as part of bankruptcy proceedings.
+**2.1.3 Creating a Ubisoft account**
 
-**Disclosures required by law and to protect the security and safety of Users:** We will disclose Personal Information when we believe in good faith that such disclosures (a) are required by law, including, for example, to comply with a court order or subpoena, (b) will help to: enforce this Policy, our Terms of Use; enforce contest, sweepstakes, promotions, and/or game rules, (c) protect your safety or security, including the safety and security of property that belongs to you; and/or, protect the safety and security of Ubisoft, or any third parties. Unless required by law, Ubisoft will not be required to notify you of any such disclosure.
+By creating a Ubisoft Account, you agree to receive newsletter or adverts about Ubisoft products, services, and sales. You can unsubscribe at any time by:
 
-You understand that when you use the Services, any information you post in any interactive areas of the Services, as well as any information you share with individuals through public or private groups or forums, as well as any information you share with individuals through the Services or through social network sites or other social feeds, will be available to other Users and in some cases may be publicly available. We recommend you be cautious about giving out Personal Information to others or sharing Personal Information in public or private online forums. Except to the extent required by applicable law, we are not responsible for the actions of third party service providers or other third parties, nor are we responsible for any additional information you provide directly to any third parties. Therefore, we encourage you to become familiar with their privacy practices before disclosing information directly to any such third parties. 
+(a) clicking the unsubscribe link contained in all Ubisoft email marketing messages;
 
-## **5\. What choices do you have about the collection, use, and sharing of your Personal Information?**
+(b) changing your contact preferences on your Ubisoft account page at [https://account.ubisoft.com](https://account.ubisoft.com/)
 
-As mentioned above, you have choices as to how we use the Personal Information you submit to us:
+(c) contacting [http://support.ubi.com](http://support.ubi.com/) or [privacy@ubisoft.com](mailto:privacy@ubisoft.com) with your unsubscribe request; or
 
-**Promotional E-mails:** Once you register to our Services and/or purchase one of our products, Ubisoft will send you promotional communications about its own products and Services that you may be interested in. If you do not wish to receive promotional e-mails from Ubisoft, please follow one of these two options: (a) when you receive a promotional e-mail from us, it will contain a link or other instruction that allows you to stop the delivery of such messages from us and/or (2) contact us at http://support.ubi.com or [**privacy@ubisoft.com**](mailto:privacy@ubisoft.com) with your request. If you decide to opt-out of receiving promotional e-mails, you will no longer receive special offers, valuable coupons, new product introductions or e-newsletters from Ubisoft. However, you will continue to receive non-promotional communications from us, such as order confirmations and/or important notifications about the Services and or your account(s). Your opt-out request will be processed within thirty (30) days of the date of which we receive it. 
+(d) sending your unsubscribe request to Ubisoft, Inc. Attn: Privacy Rights Administrator c/o Legal Department, 625 Third Street San Francisco, 94107 CA, USA
 
-**Opt-Out of Custom Content:** We may work with trusted marketing partners to bring you more useful and interesting content on our Services and on third party sites and services. The list of such trusted marketing partners is available at **legal.ubi.com/active-sharing/.** We may do this by sharing or matching the Personal Information you have provided us on the Services with the information (which may include Personal Information) you have provided third party marketing partners. If you do not want Ubisoft to match your Personal Information with trusted partners to tailor ads or other custom content for you on our Services and/or third party sites, you can uncheck the box next to "Share my information with select third parties" in your Uplay account settings at any time. When you uncheck this box, Ubisoft will no longer share your Personal Information with partners to tailor ads or other custom content for you following the date of your request. 
+To access certain Services, you will need to give an additional consent to allow Ubisoft to share some of your personal data with third parties, such as companies or organizations, which provide services and products you may be interested in. In this case, you can unsubscribe from third parties’ communications through the mechanisms provided by the third party.
 
-Please note that opting-out from the Custom Content will not change the behavior of third parties collecting information on the Services. Please note that opting-out from the Custom Content will not change the behavior of third parties collecting information on the Services. For more information as to how to opt-out of third party collection please go to: [**https://legal.ubi.com/cookies/**](https://legal.ubi.com/cookies/) **.**
+**2.1.4 Contacting Ubisoft**
 
-**Do not Track:** Ubisoft does not respond to Do Not Track (DNT) settings in your browser.
+Ubisoft may ask for your first name, family name, e-mail address and your date of birth to answer your demands to the Ubisoft Customer Support, to confirm any information or transaction on your Ubisoft account, and to give you information regarding the Services (for instance, if you lose your password or if we make changes to the Terms of Use).
 
-**Your California Privacy Rights** : The following applies solely to California residents who have an established business relationship with Ubisoft. If we collect Personal Information from you, we may make the Personal Information available to third parties for their marketing and promotional purposes. If you decide that you do not want us to share your Personal Information with these companies for their marketing and promotional purposes, please send an e-mail to [**privacy@ubisoft.com**](mailto:support@ubisoft.com). In this email, state that you would like Ubisoft to not share your Personal Information with third parties for their marketing purposes. Your opt-out request will be processed within thirty (30) days of the date of which we receive it. 
+**2.1.5 Participating to contests and sweepstakes**
 
-## **6\. Does Ubisoft collect information from children under the age of 13?**
+Ubisoft may offer you the opportunity to participate in online surveys, questionnaires, contests and sweepstakes. To participate, you may need to provide your first name, your family name, e-mail address, date of birth, your address and country of residence. If you choose to participate in contests, sweepstakes, surveys and questionnaires, your personal data may be processed to allow you to participate, and for internal statistical use.
 
-Unless stated specifically to the contrary on the applicable Ubisoft site, Ubisoft’s Services are not intended for children under 13 ("Child" or "Children") and Ubisoft will not request any Personal Information from Children. Therefore, Ubisoft restricts access to certain Services on age grounds. In certain jurisdictions, for certain Services and functions, Ubisoft may allow a Child to register for certain Services with parental approval. 
+**2.1.6 Interacting on forums**
 
-When Children are permitted to register for a Service with parental approval, we will take additional steps to protect the Children's privacy, including:
+Whenever you participate or interact with other users on a forum, Ubisoft collects the content of your communications, the time and the location of your activities, as well as your online ID and your IP address.
 
-  * Notifying parents about our information practices with regard to Children, including the types of Personal Information we may collect from Children, the uses to which we may put that information, and whether and with whom we may share that information 
-  * In accordance with applicable law, obtaining consent from parents for the collection and use of Personal Information from their Children 
-  * Limiting our collection of Personal Information from Children to no more than is reasonably necessary to participate in an online activity 
-  * Giving parents access or the ability to request access to Personal Information we have collected from their Children and the ability to request that the Personal Information be changed or deleted 
+**2.1.7 Advertisements**
 
+Ubisoft uses third party ad-serving technologies that may collect information to provide behavioural and non-behavioral advertisements within our Services. The information collected and used for the targeted advertising may contain the following, without limitation: age and gender, number of views of an advertisement, device unique identifier or other device identifiers and settings, information about your use of the products and Services, other sites (including third party web pages and mobile Internet sites) you have viewed (as well as date and time viewed), advertisement(s) served, the advertisement(s)’ in-game location and length, and your response to the advertisement(s) (if any). The analytics tools and ad serving technologies may use server log files, web beacons, cookies, tracking pixels and other technologies to collect this information, and may combine the information collected on other Ubisoft Services with information collected from other third party websites, products and services and with demographic, advertisement, market and other analytics surveys. Standing alone, this information is not personal data; however, if Ubisoft combines any of this information with personal data, Ubisoft will treat this information as personal data pursuant to this Privacy Policy.
 
+You can find a list of our partners whose analytic tools and ad serving technologies are used in our Services at <https://legal.ubi.com/cookies/>. Ubisoft makes its best efforts to provide you with the links to our partners’ privacy policies, and when available, instructions regarding how to opt-out from their services.
 
-More specifically, when a Child registers, (s)he must supply the e-mail address, and/or other contact information of a parent or legal guardian who will be contacted by Ubisoft to ask him/her to confirm, refuse to modify his/her Child’s registration. The parent/legal guardian may be asked to provide additional documentation or perform additional actions as part of the approval process as consistent with applicable law. Ubisoft reserves the right to refuse access to the Service pending confirmation and activation by his/her parent or guardian. Ubisoft reserves the right to ask for written proof of parental consent for any User or potential User of the services suspected to be a Child. Parental consent applies exclusively to the specific service for which it has been granted. 
+**2.1.8 Social media and other third parties’ platforms**
 
-Certain Services are specifically designed for Children and enable Children to create their own free accounts for which Ubisoft collects their username or other identifier, password, date of birth (or age), photo, video, voice recording, country, zip code or other geo-locational information, and parent or guardian's e-mail address and/or other parent or guardian contact information. Such Services sometimes offer the possibility of paying for a subscription or certain game functions which enable Children to participate in more activities on the Services by making a payment. The subscription services may also allow parents or guardians to manage their Child's account and create their own player accounts. 
+Ubisoft may also collect personal information on third party social networks, platforms or services. By playing a Ubisoft game through a social network or other third party platform, or by connecting to such a third party network, platform or service via one of our products and/or Services, you authorize Ubisoft to (1) collect, store, and use, in accordance with this Privacy Policy, any and all personal information that you agreed the social network or third party platform could provide to Ubisoft based on your settings on the social network or platform, and (2) share any and all of your personal information with the social network or other third party platform, through the social network/third party platform’s Application Programming Interface (API). You agree to this sharing when you connect with the third party network, platform or service via our products and/or services, and/or when you connect with, "accept" or "allow" (or similar terms) one of our applications through a social network, or other third party platform or service.
 
-Certain Services enable Children to create personalized avatars which they can use in numerous activities in the services, including mini-games and virtual worlds. Children may also use other functions of the Services such as "Recommend to a friend" to invite a friend to find out about the Services. The "Recommend to a friend" functions enable Children to send their friends a single message inviting them to visit the related service. Ubisoft will collect the first name and e-mail address of your Child (or, failing that, the e-mail address of the parent or guardian) and the e-mail address of his/her friend for the sole purpose of sending a single message. This information is neither stored nor used for any other purpose and we do not reveal your child's e-mail address to the recipient. 
+**2.1.9 Custom content**
 
-Parents may delete their Child's account or change their Child's privacy settings at any time by sending an e-mail to the administrator of the Policy, who is identified below. The deletion request will be processed within thirty (30) days of the date of which we receive it. 
+Ubisoft may work with trusted marketing partners to bring you more useful and interesting advertising content on our Services and on third party sites and services. If the box labeled "Share my information with select parties" box on your Ubisoft Account settings is checked, we may do this by sharing or matching the personal information you have provided us on the Services with the information (which may include personal information) you have provided third party marketing partners. If you do not want Ubisoft to match your Personal Information with trusted partners to tailor ads or other custom content for you on our Services and/or third party sites, you can uncheck this box at <https://account.ubisoft.com/> at any time. When you uncheck this box, Ubisoft will no longer share your Personal Information with partners to tailor ads or other custom content for you following the date of your request.
 
-In all cases, use of the Services by Children must take place under the responsibility of their parents or legal guardians and any use of the Services is assumed to have been validated by them. AS FAR AS IS PERMITTED BY APPLICABLE LEGISLATION, UBISOFT DECLINES ANY RESPONSIBILITY REGARDING ANY ACTIVITIES WHICH MAY BE CONDUCTED BY CHILDREN WITHOUT THE PERMISSION OF THEIR PARENTS OR LEGAL GUARDIANS. 
+As explained above in the cookies section, we may share some information via cookies and other technologies. To learn more about our trusted marketing partners or opt-out of this sharing, please consult <https://legal.ubi.com/cookies/>.
 
-IF YOU ARE A PARENT OR LEGAL GUARDIAN AND YOU GIVE YOUR PERMISSION FOR YOUR CHILD TO REGISTER FOR ONE OR OTHER OF THE SERVICES, YOU THEREBY AGREE TO THE TERMS RELATING TO USE OF THE SERVICES BY YOUR CHILD. 
+## **2.2 Whenever you play Ubisoft games**
 
-## **7\. What kinds of security measures do we take to safeguard Personal Information?**
+**2.2.1 Registering when activating a Ubisoft game**
 
-The security and confidentiality of your Personal Information is extremely important to us. We use robust security measures to protect Personal Information from loss, misuse and alteration. We use industry-standard practices such as encrypted communications, physically secured rooms, firewalls and password protection systems to safeguard the confidentiality of your Personal Information. From time to time, we review our security procedures to consider appropriate new technology and methods. However, please understand that, despite our best efforts, no security measure is perfect or impenetrable. Please note, we will notify Users of a data breach pursuant to applicable law **.**
+If you play Ubisoft games on a third-party console, your ID for this console will be disclosed to Ubisoft, in order to let Ubisoft create your Ubisoft Account. You must have a Ubisoft Account in order to access certain online features. From your console, Ubisoft receives your username and your password, your e-mail address, your date of birth, and your country of residence.
 
-To protect the confidentiality of Personal Information maintained in your account, you must keep your password confidential and not disclose it to any other person. You are responsible for all uses of the Services by any person using your password. Please advise us immediately if you believe your password has been misused. 
+**2.2.2 Creation of user generated content**
 
-DESPITE OUR REASONABLE EFFORTS TO KEEP YOUR PERSONAL INFORMATION SECURE, NO COMPANY CAN GUARANTEE THE SECURITY AND PRIVACY OF ITS SERVICES, INFORMATION AND OTHER DATA. OUR PRIVACY POLICIES AND PROCEDURES ARE "AS IS" AND UBISOFT MAKES NO REPRESENTATIONS AS TO THE FITNESS FOR A PARTICULAR PURPOSE OR MERCHANTABILITY. 
+Some Services give you access to tools in order to allow you to create and/or share unique content. This User-Generated Content may be collected by Ubisoft; this content may also contain your personal information or the personal information of others (for instance, your name, or a picture of you). Please exercise caution: Ubisoft is not liable for any negative consequences linked to your disclosure of User-generated content.
 
-## **8\. How long does Ubisoft use my Personal Information?**
+**2.2.3 In-game data collection**
 
-Unless a different use/storage period is required by applicable laws and regulations, Ubisoft will use and store your Personal Information for a length of time necessary for the uses explained in this Policy.
+Whenever you use the Services, Ubisoft may collect, store and process your in-game data, including but not limited to: your game scores, game metrics, achievements, rankings, time played and statistics, feature usage, advertising conversion rates, monetization rate, purchase history and other similar information. Ubisoft will use this information to improve the Services, to personalize them to your interests, and otherwise upgrade your gaming experience. Any information collected by Ubisoft in accordance with Article 1 of this Privacy Policy may also be used in an aggregated form to identify specific patterns regarding the use of our Services.
 
-## **9\. Does this Policy apply to other sites linked to the Services?**
+## **2.3 Online payment**
 
-The Services may contain links to other sites. For instance, purchases of Virtual Currency or Virtual Items for Ubisoft Services may be transacted on a third party processors site. Any Personal Information you provide on linked pages or applications is provided directly to that third party and is subject to that third party's privacy policy. This Policy does not apply to such linked sites, and we are not responsible for the content or privacy and security practices and policies of these websites or any other sites that are linked to or from the Services. We encourage you to learn about their privacy and security practices and policies before providing them with Personal Information. 
+For some Services, you may make purchases, whether you shop on Ubisoft websites or directly in-game. When you do this, you agree that Ubisoft may share your personal data with third parties, companies, or organizations, which may collect and process your personal data in order to effectuate online credit card transactions, delivery, discounts, and promotional gifts. To make a purchase on Ubisoft store and process your online payment, you may be asked to provide the following information to a payment provider: your first name, your family name, your address, your e-mail address, your country of residence and your banking details, i.e. your credit card number, the name of the credit card owner, the expiration date and security code. This information may be stored in Ubisoft’s premises, or, when relevant, in the third parties’ premises. Such storage is necessary to allow Ubisoft to manage internal accounts, checking, accounting, compliance, and for legal purposes, in accordance with Article 3 of this Privacy Policy. You may be asked to give your telecommunications provider’s name, your cell phone model, and a valid phone number in order to provide you with purchasing instructions directly via your cell phone. For the payment of your in-game purchases, you may find supplementary information in our Terms of Sale, accessible at <http://legal.ubi.com/>.
 
-## **10\. How can you access and update your Personal Information and account profile?**
+## **3\. HOW DOES UBISOFT USE MY PERSONAL DATA?**
 
-You can access and update the contact information you gave us during registration (that is, your e-mail address or any other information that would directly enable us to contact you), by logging in and clicking the Edit Profile section, or contacting us at [**privacy@ubisoft.com**](mailto:privacy@ubisoft.com). You may be required to provide additional information in order for us to verify your request. Your request will be processed within thirty (30) days of the date of which we receive it. 
+The information you submit to our Services is collected and used by Ubisoft as set out in this Privacy Policy. In addition, Ubisoft may use the submitted information to answer your demands, to send your order confirmations and other information regarding your Ubisoft Account, to send you advertising or promotional materials, including information about special rebates, promotional offers and other events of interest, based on your preferences. We also use your personal information for our internal marketing and demographic studies, so we can constantly improve the Services we provide you and to better meet your needs.
 
-**_Users under 18_. **If you are under 18 (eighteen) years old and desire that your information you have posted to a Ubisoft public facing site be removed from such site, please contact us at [**https://support.ubi.com**](https://support.ubi.com/) or at **privacy@ubisoft.com**. You may be required to provide additional information in order for us to verify your request. 
+Ubisoft may have to duplicate some of your personal data within its databases for technical reasons, or for any other reason indicated in this Privacy Policy. Ubisoft may use your IP address and Console ID to enforce the Ubisoft Terms of Use and Terms of Sale. In case of misuse of the Services by any User, Ubisoft reserves the right to block such User’s Ubisoft Account, IP address or console ID, as provided by licensed console manufacturers. Ubisoft may use your date of birth or your age to control access to its forums and live chats, in accordance with the relevant laws. Ubisoft does not monitor all chat communications on its services. However, Ubisoft reserves the right, at its sole discretion and without notice, to modify or delete any communications on its service. Ubisoft may use all data collected in the forums and chat logs to enforce its Terms, to carry out its legal obligations, and to protect its rights and the rights and safety of its affiliated companies, users, and employees. Your information may be disclosed to any relevant judiciary or administrative entity, in accordance with the relevant legal provisions.
 
-Please note, if information is deleted from our commercial databases and/or view by members of the public, Ubisoft may still retain your information in our files, to resolve disputes, enforce our Terms of Use or other User agreements, and due to technical and legal requirements and constraints related to the security, integrity and operation of our Services. Your request will be processed within thirty (30) days of the date of which we receive it. 
+## **3.1 Legal basis for your personal data collection and processing**
 
-## **11\. Ubisoft’s Terms of Use**
+Ubisoft processes your personal data, wherever necessary:
 
-The terms of this Policy are incorporated into our Terms of Use. Please review our Terms of Use at: **legal.ubi.com/termsofuse**. All terms in capital used in this Policy have the meaning as those defined in the Terms of Use located at **legal.ubi.com/terms of use**. 
+\- To provide you with the Services (creation of your Ubisoft account, bug detection, fighting fraud, online payment, etc.)
 
-## **12\. How can you ask questions or send comments about this Policy?**
+\- To offer the best possible experience to users, and improve the Services (in-game data analytics, etc). It is in Ubisoft’s legitimate interest to process your data for these purposes.
 
-If you have questions or wish to send us comments about this Policy, please send an e-mail with your questions or comments to [**privacy@ubisoft.com**](mailto:privacy@ubisoft.com) or write us at the address below:
+\- To provide you with supplementary services (custom content, etc.). In such case, Ubisoft will ask for your consent before processing your personal data for this purpose.
+
+## **3.2 Security**
+
+We take your privacy and the security of your personal information very seriously. To protect your personal information, Ubisoft maintains appropriate safeguards to ensure the security, integrity and privacy of the information you have provided. We use robust security measures to protect personal information from loss, misuse and alteration. We use industry-standard practices such as encrypted communications, physically secured rooms, firewalls and password protection systems to safeguard the confidentiality of your personal information. In addition, we take reasonable steps to assure that third parties who collect personal information on our behalf provide sufficient protection of personal information, in addition to requiring their compliance with this Privacy Policy at all times. Please note, we will notify Users of a data breach pursuant to applicable law **.**
+
+However, please note that no existing data transmission method on the web, or electronic storage, can guarantee the absolute security of your personal data. If your Ubisoft accounts and personal data are protected by a password, you are responsible for ensuring this password’s confidentiality. Please do not disclose this password. If you share a computer with other people, please consider disconnecting from your accounts before allowing others to use your computer. Services may contain links leading to third party websites, such as but not limited to social media sites. Whenever you click on a link leading to a third party’s website, you agree to leave Ubisoft Services as governed by this Privacy Policy, and you understand and agree that Ubisoft does not control such third party’s website. Ubisoft cannot guarantee that third parties’ websites will be governed by the same security and confidentiality obligations. Ubisoft is not liable for the use of your personal data by these third parties. Please consider checking privacy policies of any service provider you transfer your personal data to.
+
+DESPITE OUR REASONABLE EFFORTS TO KEEP YOUR PERSONAL INFORMATION SECURE, NO COMPANY CAN GUARANTEE THE SECURITY AND PRIVACY OF ITS SERVICES, INFORMATION AND OTHER DATA. OUR PRIVACY POLICIES AND PROCEDURES ARE "AS IS" AND UBISOFT MAKES NO REPRESENTATIONS AS TO THE FITNESS FOR A PARTICULAR PURPOSE OR MERCHANTABILITY.
+
+## **4\. FOR HOW LONG DOES UBISOFT KEEP MY PERSONAL DATA ?**
+
+Unless relevant legal provisions mandate a different data retention period, Ubisoft will store your personal data only as long as necessary to process it according to this Privacy Policy. For instance, we may retain certain information after you close your account for a period of time needed to protect Ubisoft from legal claims. In this case, we will archive your personal data during the relevant statutory period of limitations.
+
+## **5\. WITH WHOM DOES UBISOFT SHARE MY PERSONAL INFORMATION?**
+
+Ubisoft does not disclose your personal data to any third party without your prior consent.
+
+## **5.1 Sharing your personal data with Ubisoft affiliated companies**
+
+Ubisoft may share your personal information among the Ubisoft group of companies. To the extent that our corporate affiliates and/or technical partners have access to your information, they will follow practices that are at least as restrictive as the practices described in this Privacy Policy.
+
+## **5.2 Sharing your personal data with third parties**
+
+While browsing on Ubisoft websites, or while using Ubisoft Services, external providers may collect your personal data for and on behalf of Ubisoft, and Ubisoft may share some of your personal data with these partners to allow the functioning of the Services. For example, these third parties may help deliver your purchases, provide discounts or offer products, promote the Services, perform electronic payment processing, and any other service that may be required by Ubisoft. External providers must comply with this Privacy Policy when collecting your personal data. These external providers will share your personal data with no one other than Ubisoft, and they may not use your data for their own independent marketing purposes, unless you consent to their privacy policy and terms directly,.
+
+## **5.3 Sharing your personal data with government authorities**
+
+In accordance with relevant laws, Ubisoft may have to disclose your personal data to a judiciary or administrative entity, whenever such disclosure is deemed necessary for protecting, challenging or enforcing the legal rights of Ubisoft, its Users, or third parties. Unless required by law, Ubisoft will not be required to notify you of any such disclosure.
+
+## **5.4 Sharing your personal data in case of mergers**
+
+In the unlikely event Ubisoft’s business activities or shares are transferred partly or totally to any third party, such third parties may access your personal data. In this case, Ubisoft may also allow your personal data to be transferred to the acquiring third party.
+
+## **5.5 Transfers of personal data to third countries**
+
+Please be aware that your personal information may be transferred to, stored in, and processed by affiliated companies, subcontractors and/or Ubisoft partners, located in third countries such as, but not limited to, United States, Canada and China. A list of Ubisoft affiliated companies is available at <http://www.ubisoftgroup.com/en-US/about_ubisoft/world_presence/world_presence.aspx>. Some personal data recipients are located in countries that are not considered as ensuring an adequate protection level according to the EU Commission. In such case, Ubisoft uses the strict framework of the EU Commission’s approved standard contractual clauses, which are available on the EU Commission website ([https://ec.europa.eu/info/law/law-topic/data-protection/data-transfers-outside-eu/model-contracts-transfer-personal-data-third-countries_fr/](https://ec.europa.eu/info/law/law-topic/data-protection/data-transfers-outside-eu/model-contracts-transfer-personal-data-third-countries_fr)), or by request at [privacy@ubisoft.com](mailto:privacy@ubisoft.com).
+
+## **5.6 Business Information**
+
+For practical reasons, we treat Personal Information submitted to us in a business capacity different from information we receive in a non-business capacity. Personal Information submitted to us in a business capacity (e.g. resumes) may be shared with third parties as described at the time of collection.
+
+## **6\. DOES UBISOFT MAKE MY PERSONAL INFORMATION PUBLIC? WHO CAN SEE MY PERSONAL INFORMATION?**
+
+Ubisoft Services may offer a public profile feature ("Public Profile") that allows you to publish information, including personal information, to the public Internet. Other than as stated on the applicable Public Profile site, the information you upload or input to your Public Profile will default to the privacy level you choose at sign-in, and you can choose to change the privacy settings at any time. By default, certain aspects of the Public Profile are set to "public". Those aspects of the Public Profile that are designated as "public" will be visible to everyone, potentially including people not registered within the Ubisoft environment, and may be indexed and displayed through public search engines when someone searches for you. If you post your personal information to a Public Profile, including a video, image or photo, you should be aware that these may be viewed, collected, copied and/or used by other users without your consent.
+
+We are not responsible for disclosure by other users of your Personal Information, including without limitation, videos, images or photos that you choose to make public on the Ubisoft Services. Also, please remember that the Personal Information you provide to us as part of your Public Profile may reveal or allow others to identify aspects of your life that you may not choose to state on your Public Profile directly (for example, your picture may reveal your gender). Certain Services may feature a friend finder tool. By using our friend finder tools, you acknowledge that these tools will help you find your contacts, and will also allow your contacts to associate your Ubisoft Account, other Ubisoft accounts (if any), and related gaming entitlements, including games played on PC, mobile and console platforms with your social networking profile and/or email address. Your resulting friends' list, which may be accessible across Ubisoft’s sites, will be subject to this Privacy Policy. Note that the friends that you choose to include on your friend list may be able to find and/or identify you in the context of different Ubisoft products and Services, and may see the profiles and information you have made visible to them or to everyone. Similarly, Ubisoft may also collect or receive information about you from other Ubisoft users who choose to upload their emails and other contacts. This information will be stored by us and used primarily to help you and your friends connect.
+
+## **7\. MINORS**
+
+Unless stated specifically to the contrary in a given Service, our Services are not intended for children, and Ubisoft will not request any Personal Information from children. For games that are not directed at children but nonetheless likely to appeal to younger players, we take additional steps to limit access to these Services on age grounds, and limit data collection for underage players to only what is necessary to support the internal operations of the Service.
+
+In certain jurisdictions, for we may allow a child to register for specific Services with parental approval. In these circumstances, we will take additional steps to protect the child’s privacy, by notifying the parent about our information practices with regard to children, and asking for consent before processing their child’s personal information. Parents may delete their child's account, change their child's privacy settings, or access and modify their child’s personal data at any time by contacting customer support at support.ubi.com.
+
+In all cases, use of the Services by Children must take place under the responsibility of their parents or legal guardians and any use of the Services is assumed to have been validated by them. AS FAR AS IS PERMITTED BY APPLICABLE LEGISLATION, UBISOFT DECLINES ANY RESPONSIBILITY REGARDING ANY ACTIVITIES WHICH MAY BE CONDUCTED BY CHILDREN WITHOUT THE PERMISSION OF THEIR PARENTS OR LEGAL GUARDIANS.
+
+IF YOU ARE A PARENT OR LEGAL GUARDIAN AND YOU GIVE YOUR PERMISSION FOR YOUR CHILD TO REGISTER FOR ONE OR OTHER OF THE SERVICES, YOU THEREBY AGREE TO THE TERMS RELATING TO USE OF THE SERVICES BY YOUR CHILD.
+
+## **8\. WHAT ARE MY RIGHTS?**
+
+You can access and update the contact information you gave us during registration (that is, your e-mail address or any other information that would directly enable us to contact you), by logging in and clicking the Edit Profile section. Additionally, You have a right to access, rectify, erase, object, or restrict processing for all your personal data processed by Ubisoft, as well as the right of data portability. You can exercise these rights or terminate your Ubisoft account by writing to Ubisoft customer support, via the following website : [http://support.ubi.com](http://support.ubi.com/). Ubisoft will answer your request within a month following the receipt of your demand. Ubisoft reserves the right to extend this delay up to three months if it necessary regarding the complexity of your demand, or based on the number of demands we receive. In such case, we will inform you of this extension within a month following the receipt of your demand. For any data processing activity requiring your consent (cookies, behavioral advertising…etc), you may withdraw your consent at any time. This withdrawal does not affect the lawfulness of any previous processing. You may also address any complaint to the national supervisory authority of your country.
+
+**Do not Track:**  Ubisoft does not currently respond to Do Not Track (DNT) settings in your browser.
+
+**Your California Privacy Rights** : The following applies solely to California residents who have an established business relationship with Ubisoft. If we collect Personal Information from you, we may make the Personal Information available to third parties for their marketing and promotional purposes with your consent. If you decide that you do not want us to share Personal Information from your Ubisoft account with these companies for their marketing and promotional purposes, please send an e-mail to [ **privacy@ubisoft.com**](mailto:privacy@ubisoft.com). In this email, state that you would like Ubisoft to not share your Personal Information with third parties for their marketing purposes. Your opt-out request will be processed within thirty (30) days of the date of which we receive it.
+
+**Users under 18. **If you are under 18 (eighteen) years old and desire that your information you have posted to a Ubisoft public facing site be removed from such site, please contact us at [ **https://support.ubi.com**](https://support.ubi.com/) or at  **privacy@ubisoft.com**. You may be required to provide additional information in order for us to verify your request. Please note, if information is deleted from our commercial databases and/or view by members of the public, Ubisoft may still retain your information in our files, to resolve disputes, enforce our Terms of Use or other User agreements, and due to technical and legal requirements and constraints related to the security, integrity and operation of our Services. Your request will be processed within thirty (30) days of the date of which we receive it.
+
+## **9\. PRIVACY POLICY CHANGES**
+
+Ubisoft reserves the right to modify this Privacy Policy at any time. As a result, please consider checking this Privacy Policy from time to time. Your use of the Services after Ubisoft changed this Privacy Policy shall signify that you agree with these changes. If you do not accept changes made to this Privacy Policy, please refrain from using the Services.
+
+## **10\. CONTACTS**
+
+For any question related to your personal data processing and this Privacy Policy, please contact Ubisoft data protection officer at the following address: [privacy@ubisoft.com](mailto:privacy@ubisoft.com).
+
+You can also write us at the address below:
 
 Ubisoft, Inc. Attn: Privacy Rights Administrator c/o Legal Department  
 625 Third Street San Francisco, 94107 CA, USA
 
 Please be assured that any Personal Information that you provide in communications to the above email and postal mail addresses will not be used to send you promotional materials, unless you request it.
 
-Ubisoft is a licensee of the ESRB's Privacy Certified Program. If you believe that we have not responded to your inquiry or your inquiry has not been satisfactorily addressed, please contact ESRB by email at: [**http://www.esrb.org/privacy/contact.jsp**](http://www.esrb.org/privacy/contact.jsp) or by mail at the address below:
+Ubisoft is a licensee of the ESRB's Privacy Certified Program. If you believe that we have not responded to your inquiry or your inquiry has not been satisfactorily addressed, please contact ESRB by email at: [ **http://www.esrb.org/privacy/contact.jsp**](http://www.esrb.org/privacy/contact.jsp) or by mail at the address below:
 
 ESRB
 
-Attn.: Privacy Certified Program  
-317 Madison Avenue, 22nd Floor  
-New York, NY 10017  
-[**privacy@esrb.org**](http://www.ubi.com/US/Info/privacy@esrb.org)
+Attn: VP, Privacy Certified Program
 
-**Last Updated: January 12, 2016**
+420 Lexington Ave, Suite 2240
 
-[](http://www.esrb.org/confirm/ubisoft-confirmation.jsp)
+New York, NY 10170
+
+[](http://www.esrb.org/confirm/ubisoft-confirmation.aspx)
