@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nabard.org privacy policy that was archived on 2017-10-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171022070428id_/http%3A//nabard.org/ftrcontent.aspx%3Fid%3D537) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nabard.org privacy policy that was archived on 2019-03-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190307151311id_/https%3A//www.nabard.org/ftrcontent.aspx%3Fid%3D537) for the most accurate reproduction.*
 
 # NABARD - National Bank For Agriculture And Rural Development
 
