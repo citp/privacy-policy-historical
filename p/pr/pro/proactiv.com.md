@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the proactiv.com privacy policy that was archived on 2017-09-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170928170257id_/https%3A//www.proactiv.com/en_us/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the proactiv.com privacy policy that was archived on 2019-03-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190307184655id_/https%3A//www.proactiv.com/en_us/privacy-policy.html) for the most accurate reproduction.*
 
-# Proactiv Company|Proactiv Privacy Policy|Proactiv®
+# Proactiv Company | Proactiv Privacy Policy | Proactiv®
 
 This Privacy Policy is effective as of June 29, 2017.
 
@@ -79,7 +79,7 @@ California Civil Code Section 1798.83 permits customers of Company who are Calif
 The Proactiv Company LLC  
 General Counsel  
 100 N. Sepulveda Blvd., Suite 1400  
-El Segundo, California 90245  
+El Segundo, CA 90245  
 Attn: California Privacy Rights
 
 ### Notification of Changes
