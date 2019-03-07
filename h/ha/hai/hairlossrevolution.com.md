@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hairlossrevolution.com privacy policy that was archived on 2018-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181228204157id_/https%3A//www.hairlossrevolution.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hairlossrevolution.com privacy policy that was archived on 2019-03-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190307090355id_/https%3A//www.hairlossrevolution.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Hair Loss Revolution
 
