@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nonib.com.au privacy policy that was archived on 2018-09-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180903150357id_/https%3A//www.nonib.com.au/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nonib.com.au privacy policy that was archived on 2019-03-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190307015438id_/https%3A//www.nonib.com.au/privacy.aspx) for the most accurate reproduction.*
 
 # Noni B | Privacy Policy | Shop Online Buy women's timeless fashion online - Noni B
 
@@ -6,7 +6,7 @@
 
 ## PRIVACY COMMITMENT
 
-Noni B Group Pty Ltd ACN 003 321 579 and its Related Bodies Corporate (as defined in the Corporations Act 2001 (Cth)) (“we”, “our” or “us”) recognise the trust you are placing in us through your dealings with us. We do everything we can to maintain that trust. Our staff are employed on the basis that they will protect information about you. Your rights to privacy are also protected by the Australian Privacy Principles in force under the Privacy Act 1988 (Cth). These privacy laws place strict requirements on us to treat certain information collected as confidential, to store your information securely and to allow you easy access to check and correct your information. 
+Noni B Ltd ACN 003 321 579 and its Related Bodies Corporate (as defined in the Corporations Act 2001 (Cth)) (“we”, “our” or “us”) recognise the trust you are placing in us through your dealings with us. We do everything we can to maintain that trust. Our staff are employed on the basis that they will protect information about you. Your rights to privacy are also protected by the Australian Privacy Principles in force under the Privacy Act 1988 (Cth). These privacy laws place strict requirements on us to treat certain information collected as confidential, to store your information securely and to allow you easy access to check and correct your information. 
 
 ## Scope of our Privacy policy
 
@@ -117,7 +117,7 @@ Ensure you sign out when you have finished visiting our websites especially if y
 
 ## Privacy complaints
 
-If you believe that we have breached your privacy rights in any way, or you would like to discuss any issues about our Privacy Policy please contact our Privacy Manager on 1300 728 980 or [privacy@nonib.com.au](mailto:privacy@nonib.com.au).
+If you believe that we have breached your privacy rights in any way, or you would like to discuss any issues about our Privacy Policy please contact our Privacy Manager on 1300 728 980 or [privacy@nonibgroup.com.au](mailto:privacy@nonibgroup.com.au).
 
 All such enquiries or complaints will be taken seriously and handled with impartiality and discretion.
 
@@ -145,4 +145,4 @@ PO Box 7,
 St Peters NSW 2044
 
 1300 728 980  
-[customercare@NoniB.com.au](mailto:customercare@nonib.com.au)
+[customercare@Nonib.com.au](mailto:customercare@nonib.com.au)
