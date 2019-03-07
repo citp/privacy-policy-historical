@@ -1,12 +1,14 @@
-> *The following text is extracted and transformed from the slideroom.com privacy policy that was archived on 2018-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181122173941id_/http%3A//www.slideroom.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the slideroom.com privacy policy that was archived on 2019-03-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190307053320id_/http%3A//slideroom.com/privacy.html) for the most accurate reproduction.*
 
 # SlideRoom - Privacy Policy
+
+SlideRoom Technologies Inc. (“Company”) is a business to business service provider providing applicant tracking systems (ATS) to almost one thousand institutional customers across university admissions, HR, grants, and other important areas. As such we hand all personal data as a data processor, and follow the directions of our client, who remains the data controller. 
 
 This statement applies with respect to the information that we collect from the Product Website at [http://www.SlideRoom.com](http://www.slideroom.com/) and Accounts provided to our Clients and their applicants. Amendments to this statement will be posted at this URL and will be effective when posted. Your continued use of this site following the posting of any amendment, modification or change shall constitute your acceptance thereof.
 
 ###  I. INFORMATION COLLECTED
 
-We collect non-personally identifiable information about you in a number of ways, including tracking your activities through your IP address, computer settings or most-recently visited URL. We may also ask you to provide your name, address, email, and phone number and other personally identifiable items defined by each SlideRoom customer you elect to submit an application to, in order to fulfill your application requirements. We do not collect any personally identifiable information about you unless you voluntarily submit such information to us, by, for example, filling out an application or registration form.
+We collect non-personally identifiable information about you in a number of ways, including tracking your activities through your IP address, computer settings or most-recently visited URL. We may also ask you to provide your name, address, email, and phone number and other personally identifiable items defined by each SlideRoom customer you elect to submit an application to, in order to fulfill your application requirements. We do not collect any personally identifiable information about you unless you voluntarily submit such information to us, by, for example, filling out a SlideRoom-hosted application or registration form.
 
 ###  II. USE OF INFORMATION
 
@@ -34,7 +36,7 @@ If you learn of any unauthorized use of your password or SlideRoom account, plea
 
 ###  VI. ONWARD TRANSFER
 
-SlideRoom may be required to disclose personal information in response to a lawful request by public authorities, including to meet national security or law enforcement requirements. In cases of onward transfer to third parties of data of EU and Swiss individuals received pursuant to the Privacy Shield Principles, SlideRoom is potentially liable.
+SlideRoom may be required to disclose personal information in response to a lawful request by public authorities, including to meet national security or law enforcement requirements. In cases of onward transfer to third parties of data of EU and Swiss individuals received pursuant to the Privacy Shield Principles, SlideRoom is liable unless we can prove we were not a party giving rise to the damages.
 
 SlideRoom will only disclose your personal information with the organization that you are applying to, whom you purposefully select to submit that information to. Whenever your application is submitted to third party, that organization and only that organization will be able to view all information associated with your SlideRoom account, as well as all information included in your surveys, applications, or forms you submit to that organization.
 
@@ -55,7 +57,7 @@ Dallas, TX 75243
 
 SlideRoom has further committed to refer unresolved privacy complaints under the Privacy Shield to an independent dispute resolution mechanism, the BBB EU Privacy Shield, operated by the Council of Better Business Bureaus. If you do not receive timely acknowledgment of your complaint, or if your complaint is not satisfactorily addressed by SlideRoom, please visit the BBB EU Privacy Shield web site at <http://www.bbb.org/EU-privacy-shield/file-a-complaint/> for more information and to file a complaint.
 
-Please note that if your complaint is not resolved through these channels, under limited circumstances, a binding arbitration option may be available before a Privacy Shield Panel.
+If your Privacy Shield complaint cannot be resolved through the above channels, under certain conditions, you may invoke binding arbitration for some residual claims not resolved by other redress mechanisms. See Privacy Shield Annex 1 at https://www.privacyshield.gov/article?id=ANNEX-I-introductionSlideRoom is subject to the investigatory and enforcement powers of the Federal Trade Commission (FTC).
 
 SlideRoom is subject to the investigatory and enforcement powers of the Federal Trade Commission (FTC).
 
