@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the equinix.com privacy policy that was archived on 2018-08-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180821014231id_/https%3A//www.equinix.com/company/legal/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the equinix.com privacy policy that was archived on 2019-03-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190307231351id_/https%3A//www.equinix.com/company/legal/privacy) for the most accurate reproduction.*
 
 # Privacy Statement | Equinix
 
