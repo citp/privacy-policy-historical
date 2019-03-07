@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the greatlengths.com.au privacy policy that was archived on 2018-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181222110312id_/http%3A//www.greatlengths.com.au/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the greatlengths.com.au privacy policy that was archived on 2019-03-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190307134540id_/http%3A//www.greatlengths.com.au/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy – Great Lengths Australia & New Zealand
 
