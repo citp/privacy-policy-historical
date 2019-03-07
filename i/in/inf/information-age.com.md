@@ -1,31 +1,38 @@
-> *The following text is extracted and transformed from the information-age.com privacy policy that was archived on 2018-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180628124000id_/https%3A//vitessemedia.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the information-age.com privacy policy that was archived on 2019-03-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190307222256id_/https%3A//bonhillplc.com/site-resources/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - Vitesse Media
+# Privacy Policy – Bonhill Group plc
 
-### **Who are we?**
+## Who are we?
 
-Vitesse Media is a UK Based media company that provides content and events for the SME, Technology, Investment and Diversity sectors.
+Bonhill Group is a UK Based media company that provides content and events for the SME, Technology, Investment and Diversity sectors.
 
 Our GDPR Owner and data protection representatives can be contacted directly here:
 
-  * Clive Brett (Chief Technology Officer)  
-[Clive.Brett@VitesseMedia.co.uk](mailto:Clive.Brett@VitesseMedia.co.uk)  
+  * Darlene Schroeder (Chief Information Officer)  
+[darlene.schroeder@bonhillplc.com](mailto:darlene.schroeder@bonhillplc.com)  
 020 7250 7023
   * The Data Manager  
-[Data.Manager@VitesseMedia.co.uk](mailto:Data.Manager@VitesseMedia.co.uk)  
-020 7250 7020
+[Data.Manager@bonhillplc.com](mailto:Data.Manager@bonhillplc.com)  
+020 7250 7036
 
 
 
 The personal data we would like to collect and process on you are:
 
- **Name**|   Including Title, First or Given Name, Initials, Last or Family name and any prefix or suffix as appropriate  
----|---  
- **Contact Details**|   Including email, telephone, social network profiles and other communication channels  
- **Business Card Information**|  Including company name, industry sector, company size, job title, job function and office location  
- **Delivery & Billing Address**| When required to provide services requested by you  
- **Interests**|  These allow us to tailor our communications with you to ensure you only receive relevant content  
-  
+Including Title, First or Given Name, Initials, Last or Family name and any prefix or suffix as appropriate 
+
+Including email, telephone, social network profiles and other communication channels 
+
+Business Card Information 
+
+Including company name, industry sector, company size, job title, job function and office location 
+
+Delivery & Billing Address 
+
+When required to provide services requested by you 
+
+These allow us to tailor our communications with you to ensure you only receive relevant content 
+
 The personal data we collect will be used for the following purposes:
 
   * Sales
@@ -60,30 +67,25 @@ Any legitimate interests pursued by us, or third parties we use, are as follows:
 
 The special categories of personal data concerned are:
 
-  * None
+None
 
-
-
-### Consent
-
-  1. 
-
+## Consent
 
 By consenting to this privacy notice you are giving us permission to process your personal data specifically for the purposes identified.
 
-Consent is required for Vitesse Media Plc to process both types of personal data, but it must be explicitly given. Where we are asking you for sensitive personal data we will always tell you why and how the information will be used. 
+Consent is required for Bonhill Group Plc to process both types of personal data, but it must be explicitly given. Where we are asking you for sensitive personal data we will always tell you why and how the information will be used.
 
 You may withdraw consent at any time by contacting the Data Manager
 
-### Disclosure
+## Disclosure
 
-Vitesse Media Plc will NOT pass on your personal data to third parties without first obtaining your consent except where there is clear Legitimate Interest.
+Bonhill Group Plc will NOT pass on your personal data to third parties without first obtaining your consent except where there is clear Legitimate Interest.
 
-### Retention period
+## Retention period
 
-Vitesse Media Plc will process personal data for up to 18 months and will store the personal data for 24 months unless a longer period is required by the law.
+Bonhill Group Plc will process personal data for up to 18 months and will store the personal data for 24 months unless a longer period is required by the law.
 
-### Your rights as a data subject
+## Your rights as a data subject
 
 At any point while we are in possession of or processing your personal data, you, the data subject, have the following rights:
 
@@ -94,52 +96,52 @@ At any point while we are in possession of or processing your personal data, you
   * Right of portability – you have the right to have the data we hold about you transferred to another organisation.
   * Right to object – you have the right to object to certain types of processing such as direct marketing.
   * Right to object to automated processing, including profiling – you also have the right to be subject to the legal effects of automated processing or profiling.
-  * Right to judicial review: in the event that Vitesse Media Plc refuses your request under rights of access, we will provide you with a reason as to why. You have the right to complain as outlined below.
+  * Right to judicial review: in the event that Bonhill Group Plc refuses your request under rights of access, we will provide you with a reason as to why. You have the right to complain as outlined below.
 
 
 
 All of the above requests will be forwarded on should there be a third party involved in the processing of your personal data.
 
-### Complaints
+## Complaints
 
-In the event that you wish to make a complaint about how your personal data is being processed by Vitesse Media Plc (or third parties), or how your complaint has been handled, you have the right to lodge a complaint directly with the supervisory authority and Vitesse Media Plc’s data protection representatives and the GDPR Owner.
+In the event that you wish to make a complaint about how your personal data is being processed by Bonhill Group Plc (or third parties), or how your complaint has been handled, you have the right to lodge a complaint directly with the supervisory authority and Bonhill Group Plc’s data protection representatives and the GDPR Owner.
 
 The details for each of these contacts are displayed at the top of this document
 
-### Privacy statement
+## Privacy statement
 
-#### Personal data
+### Personal data
 
 Under the EU’s General Data Protection Regulation (GDPR) personal data is defined as:
 
 “any information relating to an identified or identifiable natural person (‘data subject’); an identifiable natural person is one who can be identified, directly or indirectly, in particular by reference to an identifier such as a name, an identification number, location data, an online identifier or to one or more factors specific to the physical, physiological, genetic, mental, economic, cultural or social identity of that natural person”.
 
-#### Why does Vitesse Media Plc need to collect and store personal data?
+## Why does Bonhill Group Plc need to collect and store personal data?
 
 In order for us to provide you with a requested product or service, we need to collect personal data for correspondence purposes and detailed service provision. In any event, we are committed to ensuring that the information we collect and use is appropriate for this purpose, and does not constitute an invasion of your privacy.
 
-In terms of being contacted for marketing purposes, Vitesse Media Plc would contact you for additional consent.
+In terms of being contacted for marketing purposes, Bonhill Group Plc would contact you for additional consent.
 
-#### Will Vitesse Media Plc share my personal data with anyone else?
+## Will Bonhill Group Plc share my personal data with anyone else?
 
-We may pass your personal data on to third-party service providers contracted to Vitesse Media Plc in the course of dealing with you. Any third parties that we may share your data with are obliged to keep your details securely, and to use them only to fulfil the service they provide you on our behalf or to provide information and services that are closely aligned to expressed preferences and interests. When they no longer need your data to fulfil this service, they will dispose of the details in line with Vitesse Media Plc’s procedures. If we wish to pass your sensitive personal data onto a third party we will only do so once we have obtained your consent, unless we are legally required to do otherwise.
+We may pass your personal data on to third-party service providers contracted to Bonhill Group Plc in the course of dealing with you. Any third parties that we may share your data with are obliged to keep your details securely, and to use them only to fulfil the service they provide you on our behalf or to provide information and services that are closely aligned to expressed preferences and interests. When they no longer need your data to fulfil this service, they will dispose of the details in line with Bonhill Group Plc’s procedures. If we wish to pass your sensitive personal data onto a third party we will only do so once we have obtained your consent, unless we are legally required to do otherwise.
 
-#### How will Vitesse Media Plc use the personal data it collects about me?
+## How will Bonhill Group Plc use the personal data it collects about me?
 
-Vitesse Media Plc will process (collect, store and use) the information you provide in a manner compatible with the EU’s General Data Protection Regulation (GDPR). We will endeavour to keep your information accurate and up to date, and not keep it for longer than is necessary. Vitesse Media Plc is required to retain information in accordance with the law, such as information needed for income tax and audit purposes. How long certain kinds of personal data should be kept may also be governed by specific business-sector requirements and agreed practices. Personal data may be held in addition to these periods depending on individual business needs.
+Bonhill Group Plc will process (collect, store and use) the information you provide in a manner compatible with the EU’s General Data Protection Regulation (GDPR). We will endeavour to keep your information accurate and up to date, and not keep it for longer than is necessary. Bonhill Group Plc is required to retain information in accordance with the law, such as information needed for income tax and audit purposes. How long certain kinds of personal data should be kept may also be governed by specific business-sector requirements and agreed practices. Personal data may be held in addition to these periods depending on individual business needs.
 
-#### Under what circumstances will Vitesse Media Plc contact me?
+## Under what circumstances will Bonhill Group Plc contact me?
 
 Our aim is not to be intrusive, and we undertake not to ask irrelevant or unnecessary questions. Moreover, the information you provide will be subject to rigorous measures and procedures to minimise the risk of unauthorised access or disclosure.
 
-#### Can I find out the personal data that the organisation holds about me?
+## Can I find out the personal data that the organisation holds about me?
 
-Vitesse Media Plc at your request can confirm what information we hold about you and how it is processed. If Vitesse Media Plc does hold personal data about you, you can request the following information:
+Bonhill Group Plc at your request can confirm what information we hold about you and how it is processed. If Bonhill Group Plc does hold personal data about you, you can request the following information:
 
   * Identity and the contact details of the person or organisation that has determined how and why to process your data. In some cases, this will be a representative in the EU.
   * Contact details of the data protection officer, where applicable.
   * The purpose of the processing as well as the legal basis for processing.
-  * If the processing is based on the legitimate interests of Vitesse Media Plc or a third party, information about those interests.
+  * If the processing is based on the legitimate interests of Bonhill Group Plc or a third party, information about those interests.
   * The categories of personal data collected, stored and processed.
   * Recipient(s) or categories of recipients that the data is/will be disclosed to.
   * If we intend to transfer the personal data to a third country or international organisation, information about how we ensure this is done securely. The EU has approved sending personal data to some countries because they meet a minimum standard of data protection. In other cases, we will ensure there are specific measures in place to secure your information.
@@ -153,9 +155,9 @@ Vitesse Media Plc at your request can confirm what information we hold about you
 
 
 
-#### What forms of ID will I need to provide in order to access this?
+## What forms of ID will I need to provide in order to access this?
 
-Vitesse Media Plc accepts the following forms of ID when information on your personal data is requested:
+Bonhill Group Plc accepts the following forms of ID when information on your personal data is requested:
 
   * Passport
   * Driving licence
