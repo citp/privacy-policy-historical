@@ -1,0 +1,630 @@
+<!--The following is the downloaded HTML source of the wooriamericabank.com privacy policy that was archived on 2019-03-07.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20190307013515id_/https%3A//www.wooriamericabank.com/pages/privacy-policy.asp) for the most accurate reproduction.-->
+
+<!DOCTYPE html><html xmlns:fb="https://ogp.me/ns/fb#" lang="en-US" prefix="og: https://ogp.me/ns#"><head>
+
+    <title>Privacy Policy | Woori America Bank</title>
+    <!-- 
+        including link files 
+    -->
+    
+
+
+    <meta charset="UTF-8">
+    <meta name="description" content="Woori America Bank Homepage">
+
+    <meta http-equiv="X-UA-Compatible" content="ID=edge,chrome=1">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+
+    <!-- CSS -->
+    <link href="https://www.wooriamericabank.com/assets/css/style.css?ver=0103" type="text/css" rel="stylesheet">
+
+    <!-- Scripts -->
+    <script src="https://www.wooriamericabank.com/assets/js/jquery.min.js"></script>
+    <script src="https://www.wooriamericabank.com/assets/js/swiper.min.js"></script>
+    <script src="https://www.wooriamericabank.com/assets/js/jquery.fancybox.min.js"></script>
+    <script src="https://www.wooriamericabank.com/assets/js/app.js"></script>
+		
+	<script>
+	//Get or Set Cookie value for choosing language(Eng or Kor)
+		function setCookie(cname, cvalue, exdays) {
+			console.log("aaaa");
+			var d = new Date();
+			d.setTime(d.getTime() + (exdays*24*60*60*1000));
+			var expires = "expires="+ d.toUTCString();
+			if (location.hostname == "www.wooriamericabank.com"){
+				document.cookie = cname + "=" + cvalue + ";" + expires + ";path=/;domain=wooriamericabank.com";
+			}else if (location.hostname == "wooriamericabank.com"){
+				document.cookie = cname + "=" + cvalue + ";" + expires + ";path=/;domain=wooriamericabank.com";
+			}else if (location.hostname == "www.wooriamerica.com"){
+				document.cookie = cname + "=" + cvalue + ";" + expires + ";path=/;domain=wooriamerica.com";
+			}else if (location.hostname == "wooriamerica.com"){
+				document.cookie = cname + "=" + cvalue + ";" + expires + ";path=/;domain=wooriamerica.com";
+			}else{
+				document.cookie = cname + "=" + cvalue + ";" + expires + ";path=/";
+			}
+			//document.cookie = cname + "=" + cvalue + ";" + expires + ";path=/;domain="+location.hostname;
+			//alert (document.cookie);
+			//document.cookie = cname + "=" + cvalue + ";" + expires + ";path=/";
+		}
+		function getCookie(cname) {
+			var name = cname + "=";
+			var decodedCookie = decodeURIComponent(document.cookie);
+			var ca = decodedCookie.split(';');
+			for(var i = 0; i <ca.length; i++) {
+				var c = ca[i];
+				while (c.charAt(0) == ' ') {
+					c = c.substring(1);
+				}
+				if (c.indexOf(name) == 0) {
+					return c.substring(name.length, c.length);
+				}
+			}
+			return "";
+		}
+		/*Language Cookie*/
+		function setEnglish(){
+			setCookie("prefLang","en-us",30);
+			return location.reload();
+		}
+		function setKorean(){            
+			setCookie("prefLang","ko-mx",30);
+			return location.reload(); 
+		}
+		function chkLngCookie(){
+			return getCookie("prefLang");
+		}
+		/*For mobile version, when users access homepage, check url text eng or kor*/
+		$.urlParam = function(name){
+			var results = new RegExp('[\?&]' + name + '=([^&#]*)').exec(window.location.href);
+			if (results !== null){
+				return results[1] || 0;
+			}
+			return 0;
+		}
+		function chkCookieLang(inputLang){
+			inputLang=="en-us" ? setEnglish() : setKorean();
+		}
+		
+		$(window).load(function() {
+			var reqLang = $.urlParam("lang");
+			var inputLang;
+			if(reqLang == 0){
+				getCookie("prefLang")=="" ? setCookie("prefLang","en-us",30) : console.log("Lang::::"+reqLang);
+			}else{
+				reqLang == "en" ? inputLang = "en-us" : inputLang = "ko-mx";
+				getCookie("prefLang")!=inputLang ? chkCookieLang(inputLang) : console.log("Lang::::"+reqLang);
+			}
+			//#############Below: language Cookie###############
+			//getCookie("prefLang")=="" ? setCookie("prefLang","en-us",30) : console.log("Language(getCookie)::::"+getCookie("prefLang"));
+		});
+		
+		$(document).ready(function(){
+			$('.appstore').on('click', function(){window.location.href = 'https://itunes.apple.com/us/app/woori-america-bank-mobile-bank/id1386127124?l=ko&ls=1&mt=8';});
+			$('.googleplay').on('click', function(){window.location.href = 'https://play.google.com/store/apps/details?id=com.wooribank.mobilewab';});
+		});
+	</script>
+
+
+  </head>
+
+  <body class="page">
+ 
+	
+       <!-- 
+            Login Form
+        -->  
+        <div id="loginFormWrap" class="loginDeskTop">
+          <form id="frmLogin" method="post" enctype="application/x-www-form-urlencoded" action="https://olb.wooriamericabank.com/WAB/Login.aspx">
+            <h5>Internet Banking</h5>
+            <div class="fieldWrap">
+              <input id="txtUsername" type="text" title="txtUsername" name="txtUsername" required="">
+              <label class="goesTop" for="txtUsername">User ID</label>
+            </div>
+            <div class="fieldWrap pass">
+              <input id="txtPassword" maxlength="32" title="txtPassword" type="password" name="txtPassword" required="">
+              <label class="goesTop" for="txtPassword">Password</label>
+            </div>
+            <div class="fieldWrap checkbox">
+              <input type="checkbox" title="id-remember" id="remember-checkbox" name="remember"><label for="remember-checkbox">Remember</label>
+               <span>|</span> <a href="https://olb.wooriamericabank.com/WAB/Enrollment/Enrollment.aspx" title="user-Enroll">Enroll</a> <span>|</span> <a href="https://olb.wooriamericabank.com/WAB/ForgottenPassword/ForgotYourPassword.aspx" title="Forget">Forgot</a>
+            </div>
+			<div class="fieldWrap">
+				<table>
+				</table>
+			</div>
+            <div class="fieldWrap login">
+              <input type="submit" name="btnLogin" id="btnLogin" value="Log In">
+            </div>
+			<!--<input name="TestJavaScript" type="hidden" value="OK">
+			<input id="hldUserKey" type="hidden" value="OLBUserID"/>
+          </form> -->
+        </form></div>
+       <!-- 
+            Login Form Ending
+        -->
+		
+
+	<nav id="nav-wrap">
+      <div class="top-nav">
+        <div class="inner">
+
+          <!-- 
+              The language switcher
+          -->
+          <div class="lang">
+            <div class="label">English<span></span></div>
+            <ul>
+              <li><a title="Korean" href="#" onclick="setKorean();">한글</a></li>
+            </ul>
+          </div>
+
+
+          <!-- 
+              Brand nav menu
+              Use 'active' class for active state
+          -->
+          <div class="brand-nav">
+            <ul>
+              <li><a class="active" title="Personal-Banking Link" href="https://www.wooriamericabank.com/">Personal<span class="hidden-xs"> Banking</span></a></li>
+              <li><a title="Business Banking Link" href="https://www.wooriamericabank.com/business.asp">Business <span class="hidden-xs">Banking</span></a></li>
+              <li><a class="our-network-btn" title="Our Network Link" href="https://www.wooriamericabank.com/pages/locations.asp">Our Network</a></li>
+            </ul>
+          </div>
+        </div>
+      </div>
+
+      <div class="main-nav">
+        <div class="inner">
+          <div class="logoWrap">
+            <!-- 
+                The logo image.
+            -->
+            <a href="https://www.wooriamericabank.com/"><img class="logo" src="https://www.wooriamericabank.com/assets/images/woori-america-bank.png" alt="Woori America Bank"></a>
+          </div>
+
+
+
+           <!-- 
+                The main menu.
+            -->
+          <div class="menu">
+            <ul>
+              <li><a href="https://www.wooriamericabank.com/pages/personal/checking.asp" title="Personal Checking Link">Checking</a>
+                <ul><!-- submenu stars here !-->
+                  <li><a href="https://www.wooriamericabank.com/pages/personal/checking/dream-checking.asp" title="Dream Checking Link">Dream Checking</a></li>
+                  <li><a href="https://www.wooriamericabank.com/pages/personal/checking/student-access-checking.asp" title="Student Access Checking Link">Student Access Checking</a></li>
+                  <li><a href="https://www.wooriamericabank.com/pages/personal/checking/regular-personal-checking.asp" title="Regular Personal Checking Link">Regular Personal Checking</a></li>
+                  <li><a href="https://www.wooriamericabank.com/pages/personal/checking/prestige-checking.asp" title="Prestige Checking Link">Prestige Checking</a></li>
+                  <li><a href="https://www.wooriamericabank.com/pages/personal/checking/debit-atm-card.asp" title="Debit / ATM Card Link">Debit / ATM Card</a></li>
+                </ul><!-- submenu ends here !-->
+              </li>
+              <li><a href="https://www.wooriamericabank.com/pages/personal/savings-and-money-markets.asp" title="Savings Money Markets Link">Savings &amp; Money Market</a>
+                <ul><!-- submenu stars here !-->
+                  <li><a href="https://www.wooriamericabank.com/pages/personal/savings-and-money-markets/regular-statement-savings.asp" title="Regular Statement Savings Link">Regular Statement Savings</a></li>
+                  <li><a href="https://www.wooriamericabank.com/pages/personal/savings-and-money-markets/golden-statement-savings.asp" title="Golden Statement Savings Link">Golden Statement Savings</a></li>
+                  <li><a href="https://www.wooriamericabank.com/pages/personal/savings-and-money-markets/regular-money-market.asp" title="Regular Money Market Link">Regular Money Market</a></li>
+                  <li><a href="https://www.wooriamericabank.com/pages/personal/savings-and-money-markets/priority-money-market.asp" title="Priority Money Market Link">Priority Money Market</a></li>
+                  <li><a href="https://www.wooriamericabank.com/pages/personal/savings-and-money-markets/easy-escrow-money-market.asp" title="Easy Escrow Money Market Link">Easy Escrow Money Market</a></li>
+                </ul><!-- submenu ends here !-->
+              </li>
+              <li><a href="https://www.wooriamericabank.com/pages/personal/time-deposit.asp" title="Time Deposit Link">Time Deposit</a>
+                <ul><!-- submenu stars here !-->
+                  <!--<li><a href="https://www.wooriamericabank.com/pages/personal/time-deposit/promoted-products.asp" title="Promoted Products Link">Promoted Products</a></li>-->
+                  <li><a href="https://www.wooriamericabank.com/pages/personal/time-deposit/cd.asp" title="Certificate of Deposit (CD) Link">Certificate of Deposit (CD)</a></li>
+                  <li><a href="https://www.wooriamericabank.com/pages/personal/time-deposit/ira.asp" title="IRA (Individual-Retirement-Accounts) Link">IRA (Individual Retirement Accounts)</a></li>
+                  <li><a href="https://www.wooriamericabank.com/pages/personal/time-deposit/happy-club-account.asp" title="Happy Club Account Link">Happy Club Account</a></li>
+                </ul><!-- submenu ends here !-->
+              </li>
+              <li><a href="https://www.wooriamericabank.com/pages/personal/lending.asp" title="Personal Lending Link">Lending</a>
+                <ul><!-- submenu stars here !-->
+                  <li><a href="https://www.wooriamericabank.com/pages/personal/lending/promoted-products.asp" title="Promoted Products Link">Promoted Products</a></li>
+                  <li><a href="https://www.wooriamericabank.com/pages/personal/lending/home-mortgage.asp" title="Regular Statement Savings Link">Home Mortgage Loan</a></li>
+                  <li><a href="https://www.wooriamericabank.com/pages/personal/lending/personal-credit-card.asp" title="Golden Statement Savings Link">Personal Credit Cards</a></li>
+                </ul><!-- submenu ends here !-->
+              </li>
+              <li><a href="https://www.wooriamericabank.com/pages/personal/banking-service.asp" title="Banking Service Link">Banking Service</a>
+                <ul><!-- submenu stars here !-->
+                  <li><a href="https://www.wooriamericabank.com/pages/personal/banking-service/internet-banking.asp" title="Internet Banking Service Link">Internet Banking Service</a></li>
+                  <li><a href="https://www.wooriamericabank.com/pages/personal/banking-service/remittance-service.asp" title="Remittance Service Link">Remittance Service</a></li>
+                  <li><a href="https://www.wooriamericabank.com/pages/personal/banking-service/korean-won-currency-exchange-service.asp" title="Korean Won Currency Exchange Service Link">Korean Won Currency Exchange Service</a></li>
+                  <li><a href="https://www.wooriamericabank.com/pages/personal/banking-service/safe-deposit-service.asp" title="Safe Deposit Service Link">Safe Deposit Service</a></li>
+                  <li><a href="https://www.wooriamericabank.com/pages/personal/banking-service/instant-debit-card-issuance.asp" title="Instant Debit Card Issuance Link">Instant Debit Card Issuance</a></li>
+                  <li><a href="https://www.wooriamericabank.com/pages/personal/banking-service/estatement-service.asp" title="E-Statement Service Link">E-Statement Service</a></li>
+                  <li><a href="https://www.wooriamericabank.com/pages/personal/banking-service/bill-payment-service.asp" title="Bill Payment Service Link">Bill Payment Service</a></li>
+                  <li><a href="https://www.wooriamericabank.com/pages/personal/banking-service/new-account-service-for-customers-residing-in-korea.asp" title="New Account Service for Customers Residing in Korea Link">New Account Service for Customers Residing in Korea</a></li>
+                  <!--<li><a href="https://www.wooriamericabank.com/pages/personal/banking-service/telebanking-service.asp" title="personal Telebanking Link">Telebanking Service</a></li>-->
+                </ul><!-- submenu ends here !-->
+              </li>
+            </ul>
+          </div>
+          <span class="sign-in-btn hidden-md-lg">Sign In</span>
+        </div>
+
+        <!-- 
+            The hamburger menu button for mobile
+        -->
+        <div class="navButton">
+          <div class="bar top"></div>
+          <div class="bar middle"></div>
+          <div class="bar bottom"></div>
+        </div>
+
+      </div><!-- end of top-nav div -->
+    </nav><!-- end of navwrap -->
+
+
+<script>
+	//Personal Id remember Cookie
+	function setIdRmb(){
+		var id = document.getElementById("txtUsername").value;
+		setCookie("rememberId",id,30)
+	}
+	function setIdTxt(){
+		document.getElementById("txtUsername").value = getCookie("rememberId");
+	}
+	$(window).load(function() {
+		//#############Below: Log in Remember###############
+		getCookie("rememberId")=="" ? console.log("####rememberId(getCookie)Empty####") : setIdTxt() ;
+	});
+	$(document).ready(function(){
+		$("#btnLogin").on("click", function(){ 
+			document.getElementById("remember-checkbox").checked == true ? setIdRmb():console.log("no remembered id:::::") ;
+		//#########blocking auto save password#########
+		/*var rtn = bkValidation();
+		if (rtn == true)
+		{
+			bkSubmit();
+		}
+		});
+		$("#txtUsername,#txtPassword").keydown(function (e) {
+		  if (e.keyCode == 13) {
+			$('#btnLogin').click();
+		  }*/
+		});
+		//#########blocking auto save password#########
+	});
+	//#########blocking auto save password#########
+	function bkValidation(){
+		if ($('#txtUsername').val()==''){
+			$('#txtUsername').focus();
+			return false;
+		}
+		if ($('#txtPassword').val()=='') {
+			$('#txtPassword').focus();
+			return false;
+		}
+		return true;
+	}
+	function bkSubmit(){
+		$('#txtUsername').val($('#txtUsername').val());
+		$('#txtPassword').val($('#txtPassword').val());
+		$('#txtUsername').val('');
+		$('#txtPassword').val('');
+		$('#frmLogin').submit();
+	}
+	//#########blocking auto save password#########
+</script>
+
+    <div class="pageHeader" style="background: #0000ff url('https://www.wooriamericabank.com/assets/images/cms/FormsbannerHeader.jpg') center; background-size:cover;">
+      <div class="inner">
+        <div class="breadcrumbs">
+          <ul>
+            <li><a href="https://www.wooriamericabank.com/" title="Home Link">Home</a></li>
+            <li><strong style="color: #fff;">Privacy Policy</strong></li>
+          </ul>
+        </div>
+        <h1 style="color: #fff;">U.S. Consumer Privacy Notice</h1>
+      </div>
+    </div>
+
+    <div class="site-content column-left">
+      <div class="inner">
+        <div class="leftCol">
+          
+          <div class="cta-questions">
+            <div class="title">Have a question?</div>
+            <p>For more information, please call customer service at <strong>1–888–MyWoori <span>(699–6674)</span></strong> or contact us online.</p>
+            <a class="btn" href="https://www.wooriamericabank.com/pages/contactus.asp" title="Contact Us Link">Contact Us</a>
+          </div>
+        </div>
+        <div class="content">
+          <section>
+            <p>
+              Last Updated : May 2018<br>
+              <a target="_blank" title="Printer Friendly version (PDF)" href="https://www.wooriamericabank.com/assets/files/May2018PrivacyPolicy.pdf">Printer Friendly version (PDF)</a>
+            </p>
+          </section>
+          <hr>
+          <section>
+            <h2>Facts: What does Woori America Bank do with your personal information?</h2>
+            <table class="responsive">
+              <thead>
+                <tr id="why">
+                  <th>Why?</th>
+                </tr>
+              </thead>
+              <tbody>
+                <tr>
+                  <td headers="why">
+                    <p>Financial companies choose how they share your personal information. Federal law gives consumers the right to limit some but not all sharing. Federal law also requires us to tell you how we collect, share, and protect your personal information. Please read this notice carefully to understand what we do.</p></td>
+                </tr>
+              </tbody>
+            </table>
+            <table class="responsive">
+              <thead>
+                <tr>
+                  <th id="what" scope="col">What?</th>
+                </tr>
+              </thead>
+              <tbody>
+                <tr>
+                  <td headers="what">
+                    <p>The types of personal information we collect and share depend on the product or service you have with us. This information can include:</p>
+                    <ul>
+                      <li>Social Security Number and income</li>
+                      <li>account balances and transaction history</li>
+                      <li>credit history and payment history</li>
+                    </ul>
+                  </td>
+                </tr>
+              </tbody>
+            </table>
+            <table class="responsive">
+              <thead>
+                <tr>
+                  <th id="how" scope="col">How?</th>
+                </tr>
+              </thead>
+              <tbody>
+                <tr>
+                  <td headers="how">
+                    <p>All financial companies need to share customers´ personal information to run their everyday business. In the section below, we list the reasons financial companies can share their customers´ personal information; the reasons Woori America Bank chooses to share; and whether you can limit this sharing.</p></td>
+                </tr>
+              </tbody>
+            </table>
+          </section>
+          <hr>
+          <section>
+            <table class="responsive pivot twoHeaders">
+              <thead>
+                <tr>
+                    <th id="reasons" scope="col" width="33%" data-priority="1">Reasons we can share your personal information</th>
+                    <th id="doeswoorishare" scope="col" width="33%" data-priority="1">Does Woori America Bank share?</th>
+                    <th id="canyoulimit" scope="col" width="33%" data-priority="2">Can you limit this sharing?</th>
+                </tr>
+              </thead>
+              <tbody>
+                <tr>
+                  <th scope="row" id="businesspurposes" headers="reasons"><strong>For our everyday business purposes</strong> – such as to process your transactions, maintain your account(s), respond to court orders and legal investigations, or report to credit bureaus</th>
+                  <td data-th="Does Woori America Bank share?" headers="doeswoorishare businesspurposes"><p>Yes</p></td>
+                  <td data-th="Can you limit this sharing?" headers="canyoulimit businesspurposes"><p>No</p></td>
+                </tr>
+                <tr>
+                  <th scope="row" id="marketingpurposes" headers="reasons">For our marketing purposes – to offer our products and services to you</th>
+                  <td data-th="Does Woori America Bank share?" headers="doeswoorishare marketingpurposes"><p>No</p></td>
+                  <td data-th="Can you limit this sharing?" headers="canyoulimit marketingpurposes"><p>We don’t share</p></td>
+                </tr>
+                <tr>
+                  <th scope="row" id="financialcompanies" headers="reasons">For joint marketing with other financial companies</th>
+                  <td data-th="Does Woori America Bank share?" headers="doeswoorishare financialcompanies"><p>No</p></td>
+                  <td data-th="Can you limit this sharing?" headers="canyoulimit financialcompanies"><p>We don’t share</p></td>
+                </tr>
+                <tr>
+                  <th scope="row" id="transactions" headers="reasons">For our affiliates´ everyday business purposes – information about your transactions and experiences</th>
+                  <td data-th="Does Woori America Bank share?" headers="doeswoorishare transactions"><p>Yes</p></td>
+                  <td data-th="Can you limit this sharing?" headers="canyoulimit transactions"><p>No</p></td>
+                </tr>
+                <tr>
+                  <th scope="row" id="creditworthiness" headers="reasons">For our affiliates´ everyday business purposes – information about your creditworthiness</th>
+                  <td data-th="Does Woori America Bank share?" headers="doeswoorishare creditworthiness"><p>No</p></td>
+                  <td data-th="Can you limit this sharing?" headers="canyoulimit creditworthiness"><p>We don’t share</p></td>
+                </tr>
+                <tr>
+                  <th scope="row" id="market" headers="reasons">For our affiliates to market to you</th>
+                  <td data-th="Does Woori America Bank share?" headers="doeswoorishare market"><p>No</p></td>
+                  <td data-th="Can you limit this sharing?" headers="canyoulimit market"><p>We don’t share</p></td>
+                </tr>
+                <tr>
+                  <th scope="row" id="non-affiliates" headers="reasons">For non–affiliates to market to you</th>
+                  <td data-th="Does Woori America Bank share?" headers="doeswoorishare non-affiliates"><p>No</p></td>
+                  <td data-th="Can you limit this sharing?" headers="canyoulimit non-affiliates"><p>We don’t share</p></td>
+                </tr>
+              </tbody>
+            </table>
+            <table style="width: 100%; table-layout: fixed;" class="responsive standard">
+              <thead>
+                <tr>
+                  <th>Questions?</th>
+                </tr>
+              </thead>
+              <tbody>
+                <tr>
+                  <td>
+                    <p>Call (888) 699 – 6674</p></td>
+                </tr>
+              </tbody>
+            </table>
+
+            <table class="responsive pivot twoHeaders">
+              <thead>
+                <tr>
+                    <th colspan="2" id="Whoweare" scope="col" width="33%" data-priority="1">Who we are</th>
+                </tr>
+              </thead>
+              <tbody>
+                <tr>
+                  <th scope="row" id="whoisprovidingthisnotice" headers="Whoweare">Who is providing this notice?</th>
+                  <td data-th="Who we are" headers="Whoweare whoisprovidingthisnotice"><p>Woori America Bank</p></td>
+                </tr>
+              </tbody>
+            </table>
+
+            <table class="responsive pivot twoHeaders">
+              <thead>
+                <tr>
+                    <th colspan="2" id="Whatwedo" scope="col" width="33%" data-priority="1">What we do</th>
+                </tr>
+              </thead>
+              <tbody>
+                <tr>
+                  <th scope="row" id="howprotect" headers="Whatwedo">How does Woori America Bank protect my personal information?</th>
+                  <td data-th="What we do" headers="Whatwedo howprotect"><p>To protect your personal information from unauthorized access and use, we use security measures that comply with federal law. These measures include computer safeguards and secured files and buildings.</p></td>
+                </tr>
+                <tr>
+                  <th scope="row" id="howcollect" headers="Whatwedo">How does Woori America Bank collect my personal information?</th>
+                  <td data-th="What we do" headers="Whatwedo howcollect">
+                    <p>We collect your personal information, for example, when you</p>
+                    <ul>
+                      <li>open an account or make deposits or withdrawals from your account</li>
+                      <li>pay your bills or apply for a loan</li>
+                      <li>use your credit or debit card</li>
+                    </ul>
+                    <p>We also collect your personal information from others, such as credit bureaus, affiliates, or other companies.</p>
+                  </td>
+                </tr>
+                <tr>
+                  <th scope="row" id="canIlimit" headers="Whatwedo">Why can´t I limit all sharing?</th>
+                  <td data-th="What we do" headers="Whatwedo canIlimit">
+                    <p>Federal law gives you the right to limit only</p>
+                    <ul>
+                      <li>sharing for affiliates´ everyday business purposes – information about your creditworthiness</li>
+                      <li>affiliates from using your information to market to you</li>
+                      <li>sharing for non–affiliates to market to you</li>
+                    </ul>
+                  </td>
+                </tr>
+              </tbody>
+            </table>
+
+
+            <table class="responsive pivot twoHeaders">
+              <thead>
+                <tr>
+                    <th colspan="2" id="Definitions" scope="col" width="33%" data-priority="1">Definitions</th>
+                </tr>
+              </thead>
+              <tbody>
+                <tr>
+                  <th scope="row" id="Affiliates" headers="Definitions">Affiliates</th>
+                  <td data-th="What we do" headers="Definitions Affiliates"><p>Companies related by common ownership or control. They can be financial and non–financial companies.</p>
+                    <ul>
+                      <li><em>Our affiliates is Woori Bank, South Korea</em></li>
+                    </ul>
+                  </td>
+                </tr>
+                <tr>
+                  <th scope="row" id="Nonaffiliates" headers="Definitions">Nonaffiliates</th>
+                  <td data-th="What we do" headers="Definitions Nonaffiliates">
+                    <p>Companies not related by common ownership or control. They can be financial and non–financial companies.</p>
+                    <ul>
+                      <li><em>Woori America Bank does not share with non–affiliates so they can market to you.</em></li>
+                    </ul>
+                  </td>
+                </tr>
+                <tr>
+                  <th scope="row" id="Jointmarketing" headers="Definitions">Joint marketing</th>
+                  <td data-th="What we do" headers="Definitions Jointmarketing">
+                    <p>A formal agreement between nonaffiliated financial companies that together market financial products or services to you.</p>
+                    <ul>
+                      <li><em>Woori America Bank does not jointly market</em></li>
+                    </ul>
+                  </td>
+                </tr>
+              </tbody>
+            </table>
+
+          </section>
+          
+          
+
+          <div class="cta-questions xs-only">
+            <div class="title">Have a question?</div>
+            <p>For more information, please call customer service at <strong>1–888–MyWoori <span>(699–6674)</span></strong> or contact us online.</p>
+            <a class="btn" href="https://www.wooriamericabank.com/pages/contactus.asp" title="Contact Us Link">Contact Us</a>
+          </div>
+         
+          
+        </div>
+      </div>
+      <div class="clear"></div>
+    </div>
+
+	
+    <!-- 
+        Footer
+    -->
+    	
+    <!-- 
+        Footer
+    -->
+    <footer id="main-footer">
+      <div class="inner">
+        <div class="firstCol">
+          <div class="menu-header">Security</div>
+          <div class="colInner">
+            <ul>
+              <li><a href="https://www.wooriamericabank.com/pages/security/online-security-program.asp" title="Online Security Program Link">Online Security Program</a></li>
+              <li><a href="https://www.wooriamericabank.com/pages/security/privacy-security.asp" title="Privacy &amp; Security Link">Customer Awareness</a></li>
+              <li><a href="https://www.wooriamericabank.com/pages/security/regulation-gg.asp" title="Regulation GG Link">Regulation GG</a></li>
+              <li><a href="https://www.wooriamericabank.com/pages/security/bill-payment-guarantee.asp" title="Bill Payment Guarantee Link">Bill Payment Guarantee</a></li>
+              <li><a href="https://www.wooriamericabank.com/pages/security/cip-notice.asp" title="CIP Notice Link">CIP Notice</a></li>
+              <li><a href="https://www.wooriamericabank.com/pages/security/annual-disclosure-statement.asp" title="Annual Disclosure Statement Link">Annual Disclosure Statement</a></li>
+              <li><a href="https://www.wooriamericabank.com/pages/privacy-policy.asp" title="Privacy Policy Link">Privacy Policy</a></li>
+              <li><a href="https://www.wooriamericabank.com/pages/security/online-privacy-statement.asp" title="Online Privacy Statement Link">Online Privacy Statement</a></li>
+            </ul>
+          </div>
+        </div>
+        <div class="secondCol">
+          <div class="menu-header">Explore</div>
+          <div class="colInner">
+            <ul>
+              <li><a href="https://www.wooriamericabank.com/pages/about-us.asp" title="About Us Link">About Us</a></li>
+              <li><a href="https://www.wooriamericabank.com/pages/locations.asp" title="Locations Link">Locations</a></li>
+              <li><a href="https://www.wooriamericabank.com/pages/careers.asp" title="Careers Link">Careers</a></li>
+              <li><a href="https://www.wooriamericabank.com/pages/forms.asp" title="Forms Link">Forms</a></li>
+              <!-- <li><a href="#" title="Mobile App">Mobile App</a></li> -->
+              <li><a href="https://www.wooriamericabank.com/pages/sitemap.asp" title="Sitemap Link">Sitemap</a></li>
+            </ul>
+          </div>
+        </div>
+        <div class="thirdCol">
+          <div class="menu-header">General</div>
+          <div class="colInner">
+            <ul>
+              <li><a href="https://www.wooriamericabank.com/t8.asp?link=https://spib.wooribank.com/spd/Dream?withyou=ENENG0432" title="Currency Rate Link">Currency Rate</a></li>
+              <li><a href="https://www.wooriamericabank.com/t8.asp?link=https://go.wooribank.com/nl/hs/oh/HSOHMain.do" title="Global Networks Link">Global Networks</a></li>
+              <!-- <li><a href="#" title="Terms and Conditions Link">Terms and Conditions</a></li> -->
+			  <li><a href="https://www.wooriamericabank.com/pages/personal/banking-service/internet-banking.asp" title="Internet Banking Instruction Link">Internet Banking Instruction</a></li>
+			  <li><a href="https://www.wooriamericabank.com/pages/personal/banking-service/remittance-service.asp" title="Online Remittance Instruction Link">Online Remittance Instruction</a></li>
+			  <li><a href="https://www.wooriamericabank.com/pages/personal/banking-service/bill-payment-service.asp" title="Bill Payment Instruction Link">Bill Payment Instruction</a></li>
+			  <!--<li><a href="https://www.wooriamericabank.com/pages/personal/banking-service/telebanking-service.asp" title="Telebanking Instruction Link">Telebanking Instruction</a></li>-->
+			  <li><a href="https://www.wooriamericabank.com/pages/support/E-Sign-Disclosure.asp" title="E-Sign Disclosure Link">E-Sign Disclosure</a></li>
+            </ul>
+          </div>
+        </div>
+        <div class="fourthCol">
+          <div class="menu-header">Contact</div>
+          <div class="colInner">
+            <div class="contactWrap">
+              <div class="address">
+                <strong>Customer Service</strong><br>
+                1–888–MYWOORI (699–6674)
+              </div>
+              ABA Number: 026007443<br>
+              SWIFT Code: HVBKUS3N<br>
+              <a class="mailto" href="mailto:cs@wooriamericabank.com" title="Woori America Bank Customer Service Email Address">cs@wooriamericabank.com</a>
+            </div>
+          </div>
+        </div>
+        <div class="clear"></div>
+        <div class="copyright">
+          <p><img alt="FDIC" src="https://www.wooriamericabank.com/assets/images/cms/member-fdic.png">
+          <span>Copyright @ 2018 Woori America Bank. All rights reserved</span></p>
+        </div>
+      </div>
+    </footer>
+
+
+  
+</body></html>
