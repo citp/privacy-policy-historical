@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the tamiltunes.live privacy policy that was archived on 2018-10-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181001150500id_/http%3A//tamiltunes.live/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tamiltunes.live privacy policy that was archived on 2019-03-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190307230535id_/https%3A//tamiltunes.online/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - TamilTunes.com - Download Tamil Songs
 
-This Privacy Policy governs the manner in which tamiltunes.live collects, uses, maintains and discloses information collected from users (each, a “User”) of the [http://tamiltunes.live](http://tamiltunes.live/) website (“Site”). This privacy policy applies to the Site and all products and services offered by tamiltunes.live.
+This Privacy Policy governs the manner in which tamiltunes.online collects, uses, maintains and discloses information collected from users (each, a “User”) of the [http://tamiltunes.online](http://tamiltunes.online/) website (“Site”). This privacy policy applies to the Site and all products and services offered by tamiltunes.online.
 
 **Personal identification information**
 
@@ -18,7 +18,7 @@ Our Site may use “cookies” to enhance User experience. User’s web browser 
 
 **How we use collected information**
 
-tamiltunes.live may collect and use Users personal information for the following purposes:
+tamiltunes.online may collect and use Users personal information for the following purposes:
 
   * _– To improve our Site_  
 We may use feedback you provide to improve our products and services.
@@ -43,17 +43,17 @@ Ads appearing on our site may be delivered to Users by advertising partners, who
 
 **Changes to this privacy policy**
 
-tamiltunes.live has the discretion to update this privacy policy at any time. When we do, we will post a notification on the main page of our Site, revise the updated date at the bottom of this page. We encourage Users to frequently check this page for any changes to stay informed about how we are helping to protect the personal information we collect. You acknowledge and agree that it is your responsibility to review this privacy policy periodically and become aware of modifications.
+tamiltunes.online has the discretion to update this privacy policy at any time. When we do, we will post a notification on the main page of our Site, revise the updated date at the bottom of this page. We encourage Users to frequently check this page for any changes to stay informed about how we are helping to protect the personal information we collect. You acknowledge and agree that it is your responsibility to review this privacy policy periodically and become aware of modifications.
 
 **Your acceptance of these terms**
 
-By using this Site, you signify your acceptance of this policy and [terms of service](http://tamiltunes.live/terms-conditions/). If you do not agree to this policy, please do not use our Site. Your continued use of the Site following the posting of changes to this policy will be deemed your acceptance of those changes.
+By using this Site, you signify your acceptance of this policy and [terms of service](http://tamiltunes.online/terms-conditions/). If you do not agree to this policy, please do not use our Site. Your continued use of the Site following the posting of changes to this policy will be deemed your acceptance of those changes.
 
 **Contacting us**
 
 If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this site, please contact us at:  
-[tamiltunes.live](http://tamiltunes.live/)  
-[ http://tamiltunes.live](http://tamiltunes.live/)  
+[tamiltunes.online](http://tamiltunes.online/)  
+[ http://tamiltunes.online](http://tamiltunes.online/)  
 info@tamilwire.com
 
 This document was last updated on September 09, 2013
