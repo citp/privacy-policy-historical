@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ddo.com privacy policy that was archived on 2018-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181220084619id_/https%3A//www.daybreakgames.com/privacy%3Flocale%3Den_US) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ddo.com privacy policy that was archived on 2019-03-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190307093227id_/https%3A//www.daybreakgames.com/privacy%3Flocale%3Den_US) for the most accurate reproduction.*
 
 # Privacy Policy | Daybreak Game Company
 
