@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the portphillippublishing.com.au privacy policy that was archived on 2018-09-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180907140037id_/https%3A//www.portphillippublishing.com.au/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the portphillippublishing.com.au privacy policy that was archived on 2019-03-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190307021931id_/https%3A//www.portphillippublishing.com.au/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy – Port Phillip Publishing
+# Privacy Policy - Port Phillip Publishing
 
 **Port Phillip Publishing Privacy Policy**
 
@@ -97,9 +97,9 @@ Port Phillip Publishing Pty Ltd,
 Albert Park, VIC 3206  
 Australia
 
-**Copyright 2018 Port Phillip Publishing Pty Ltd. All rights reserved. No portion of this website may be reproduced, copied or in any way reused without the written persmision of Port Phillip Publishing.**
+**Copyright 2019 Port Phillip Publishing Pty Ltd. All rights reserved. No portion of this website may be reproduced, copied or in any way reused without the written persmision of Port Phillip Publishing.**
 
-© Copyright 2006 - 2018 - Port Phillip Publishing.
+© Copyright 2006 - 2019 - Port Phillip Publishing.
 
 All rights reserved. (ACN: 117 765 009) (AFS Licence: 323 988).
 
