@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the kelbytraining.com privacy policy that was archived on 2017-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170614231147id_/https%3A//kelbyone.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kelbytraining.com privacy policy that was archived on 2019-03-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190307030747id_/https%3A//kelbyone.com/privacy) for the most accurate reproduction.*
 
-# KelbyOne - Privacy Policy
+# Privacy Policy | KelbyOne
 
 ## Our Privacy Pledge
 
@@ -93,4 +93,4 @@ KelbyOne, LLCATTN: Privacy Policy Administrator
 Oldsmar, FL - 34677  
 Tel. 813.749.4000 x152
 
-[privacy@kelbymediagroup.com](mailto:privacy@kelbymediagroup.com)
+[privacy@kelbyone.com](mailto:privacy@kelbyone.com)
