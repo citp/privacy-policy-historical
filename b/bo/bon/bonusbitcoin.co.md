@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bonusbitcoin.co privacy policy that was archived on 2018-08-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180828092750id_/https%3A//bonusbitcoin.co/privacy.htm%3Fv2) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bonusbitcoin.co privacy policy that was archived on 2019-03-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190307171121id_/https%3A//bonusbitcoin.co/privacy.htm%3Fv2) for the most accurate reproduction.*
 
 # 
 
