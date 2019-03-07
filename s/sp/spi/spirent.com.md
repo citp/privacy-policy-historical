@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the spirent.com privacy policy that was archived on 2018-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181224192051id_/https%3A//www.spirent.com/Bottom_menu/Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the spirent.com privacy policy that was archived on 2019-03-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190307205225id_/https%3A//www.spirent.com/Bottom_menu/Privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Spirent
 
