@@ -1,9 +1,11 @@
-> *The following text is extracted and transformed from the thesteadyhandblog.com privacy policy that was archived on 2018-11-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181104181105id_/http%3A//thesteadyhandblog.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thesteadyhandblog.com privacy policy that was archived on 2019-03-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190307134728id_/http%3A//thesteadyhandblog.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy | The Steady Hand
 
-**Privacy Policy Dated: May 2018  
+**Privacy Policy Dated: December 2018  
 **
+
+_(Psst…if you want me to delete any and all information that my website has collected from you please email me at aprile.mazey@gmail.com. If there is information on my site that you would like to talk to me about please email me at aprile.mazey@gmail.com. I had to write all this legal jargon but I would love to save you from reading it. Whatever it is, email me and I am sure we can work it out. Thanks!)_
 
 The Steady Hand Blog is owned, operated, written and edited by Aprile Mazey. Our website address is: http://thesteadyhandblog.com. The Steady Hand is based out of Murfreesboro, TN USA.
 
@@ -14,119 +16,20 @@ This policy explains the what, how, and why of the information I collect when yo
  **Information I Collect**  
 Information you voluntarily provide to me: When you sign up for my email newsletter, send me an email, comment on my blog posts, or communicate with me in any way, you are voluntarily giving me information that I collect. That information may include either your name, physical address, email address, IP address, phone number, as well as details including gender, occupation, location, and other demographic information. By giving me this information, you consent to this information being collected, used, disclosed, transferred to the United States and stored by me, as described in this Privacy Policy.
 
- **Information I collect automatically:** When you browse my Websites, I may collect information about your visit to my Websites, your usage of the Services, and your web browsing. That information may include your IP address, your operating system, your browser ID, your browsing activity, and other information about how you interacted with my Websites or other websites. I may collect this information as a part of log files as well as through the use of cookies or other tracking technologies. My use of cookies is discussed more below.
+When you browse my Websites, I may collect information about your visit to my Websites, your usage of the Services, and your web browsing. That information may include your IP address, your operating system, your browser ID, your browsing activity, and other information about how you interacted with my Websites or other websites. I may collect this information as a part of log files as well as through the use of cookies or other tracking technologies. My use of cookies is discussed more below.
 
 Any information you include in a comment on my blog may be read, collected, and used by anyone. If your Personal Information appears on my blog and you want it removed, contact me at aprile@thesteadyhandblog.com.
 
-### Carousel
-
- **Data Used:** If image view tracking is enabled, the following information is used: IP address, WordPress.com user ID (if logged in), WordPress.com username (if logged in), user agent, visiting URL, referring URL, timestamp of event, browser language, country code.
-
- **Activity Tracked:** Image views.
-
- ** _This feature is only accessible to users logged in to WordPress.com._**
-
- **Data Used:** In order to process a comment like, the following information is used: WordPress.com user ID/username (you must be logged in to use this feature), the local site-specific user ID (if the user is signed in to the site on which the like occurred), and a true/false data point that tells us if the user liked a specific comment. If you perform a like action from [one of our mobile apps](https://apps.wordpress.com/mobile/), some additional information is used to track the activity: IP address, user agent, timestamp of event, blog ID, browser language, country code, and device info.
-
- **Activity Tracked:** Comment likes.
-
-### Contact Form
-
- **Data Used:** If [Akismet](https://akismet.com/) is enabled on the site, the contact form submission data — IP address, user agent, name, email address, website, and message — is submitted to the [Akismet](https://akismet.com/) service (also owned by [Automattic](https://automattic.com/)) for the sole purpose of spam checking. The actual submission data is stored in the database of the site on which it was submitted and is emailed directly to the owner of the form (i.e. the site author who published the page on which the contact form resides). This email will include the submitter’s IP address, timestamp, name, email address, website, and message.
-
- **Data Synced ([?](https://jetpack.com/support/what-data-does-jetpack-sync/)):** Post and post meta data associated with a user’s contact form submission. If [Akismet](https://akismet.com/) is enabled on the site, the IP address and user agent originally submitted with the comment are synced, as well, as they are stored in post meta.
-
-### Gravatar Hovercards
-
- **Data Used:** This feature will send a hash of the user’s email address (if logged in to the site or WordPress.com — or if they submitted a comment on the site using their email address that is attached to an active Gravatar profile) to the [Gravatar](https://gravatar.com/) service (also owned by [Automattic](https://automattic.com/)) in order to retrieve their profile image.
-
-### Infinite Scroll
-
- **Data Used:** In order to record page views via [WordPress.com Stats](https://jetpack.com/support/wordpress-com-stats/) (which must be enabled for page view tracking here to work) with additional loads, the following information is used: IP address, WordPress.com user ID (if logged in), WordPress.com username (if logged in), user agent, visiting URL, referring URL, timestamp of event, browser language, country code.
-
- **Activity Tracked:** Page views will be tracked with each additional load (i.e. when you scroll down to the bottom of the page and a new set of posts loads automatically). If the site owner has enabled [Google Analytics](https://jetpack.com/support/google-analytics/) to work with this feature, a page view event will also be sent to the appropriate Google Analytics account with each additional load.
-
+Comments  
 When visitors leave comments on the site we collect the data shown in the comments form, and also the visitor’s IP address and browser user agent string to help spam detection.
 
 An anonymized string created from your email address (also called a hash) may be provided to the Gravatar service to see if you are using it. The Gravatar service privacy policy is available here: https://automattic.com/privacy/. After approval of your comment, your profile picture is visible to the public in the context of your comment.
 
- **Data Used:** Commenter’s name, email address, and site URL (if provided via the comment form), timestamp, and IP address. Additionally, a jetpack.wordpress.com IFrame receives the following data: WordPress.com blog ID attached to the site, ID of the post on which the comment is being submitted, commenter’s local user ID (if available), commenter’s local username (if available), commenter’s site URL (if available), MD5 hash of the commenter’s email address (if available), and the comment content. If [Akismet](https://akismet.com/) (also owned by [Automattic](https://automattic.com/)) is enabled on the site, the following information is sent to the service for the sole purpose of spam checking: commenter’s name, email address, site URL, IP address, and user agent.
+Media  
+If you upload images to the website, you should avoid uploading images with embedded location data (EXIF GPS) included. Visitors to the website can download and extract any location data from images on the website.
 
- **Activity Tracked:** The comment author’s name, email address, and site URL (if provided during the comment submission) are stored in cookies. [Learn more about these cookies](https://jetpack.com/support/cookies/#comments).
-
- **Data Synced ([?](https://jetpack.com/support/what-data-does-jetpack-sync/)):** All data and metadata (see above) associated with comments. This includes the status of the comment and, if [Akismet](https://akismet.com/) is enabled on the site, whether or not it was classified as spam by Akismet.
-
-### Likes
-
- ** _This feature is only accessible to users logged in to WordPress.com._**
-
- **Data Used:** In order to process a post like action, the following information is used: IP address, WordPress.com user ID, WordPress.com username, WordPress.com-connected site ID (on which the post was liked), post ID (of the post that was liked), user agent, timestamp of event, browser language, country code.
-
- **Activity Tracked:** Post likes.
-
-### Mobile Theme
-
- **Data Used:** A visitor’s preference on viewing the mobile version of a site.
-
- **Activity Tracked:** A cookie (`akm_mobile`) is stored for 3.5 days to remember whether or not a visitor of the site wishes to view its mobile version. [Learn more about this cookie](https://jetpack.com/support/cookies/#mobile-theme).
-
-### Notifications
-
- ** _This feature is only accessible to registered users of the site who are logged in to WordPress.com._**
-
- **Data Used:** IP address, WordPress.com user ID, WordPress.com username, WordPress.com-connected site ID and URL, Jetpack version, user agent, visiting URL, referring URL, timestamp of event, browser language, country code. Some visitor-related information or activity may be sent to the site owner via this feature. This may include: email address, WordPress.com username, site URL, email address, comment content, follow actions, etc.
-
- **Activity Tracked:** Sending notifications (i.e. when we send a notification to a particular user), opening notifications (i.e. when a user opens a notification that they receive), performing an action from within the notification panel (e.g. liking a comment or marking a comment as spam), and clicking on any link from within the notification panel/interface.
-
-### Protect
-
- **Data Used:** In order to check login activity and potentially block fraudulent attempts, the following information is used: attempting user’s IP address, attempting user’s email address/username (i.e. according to the value they were attempting to use during the login process), and all IP-related HTTP headers attached to the attempting user.
-
- **Activity Tracked:** Failed login attempts (these include IP address and user agent). We also set a cookie (`jpp_math_pass`) for 1 day to remember if/when a user has successfully completed a math captcha to prove that they’re a real human. [Learn more about this cookie.](https://jetpack.com/support/cookies/#protect)
-
- **Data Synced ([?](https://jetpack.com/support/what-data-does-jetpack-sync/)):** Failed login attempts, which contain the user’s IP address, attempted username or email address, and user agent information.
-
-### Sharing
-
- **Data Used:** When sharing content via email (this option is only available if [Akismet](https://akismet.com/) is active on the site), the following information is used: sharing party’s name and email address (if the user is logged in, this information will be pulled directly from their account), IP address (for spam checking), user agent (for spam checking), and email body/content. This content will be sent to [Akismet](https://akismet.com/) (also owned by [Automattic](https://automattic.com/)) so that a spam check can be performed. Additionally, if [reCAPTCHA](http://www.google.com/recaptcha) (by Google) is enabled by the site owner, the sharing party’s IP address will be shared with that service. You can find Google’s privacy policy [here](https://www.google.com/policies/privacy/).
-
-### Subscriptions
-
- **Data Used:** To initiate and process subscriptions, the following information is used: subscriber’s email address and the ID of the post or comment (depending on the specific subscription being processed). In the event of a new subscription being initiated, we also collect some basic server data, including all of the subscribing user’s HTTP request headers, the IP address from which the subscribing user is viewing the page, and the URI which was given in order to access the page (`REQUEST_URI` and `DOCUMENT_URI`). This server data used for the exclusive purpose of monitoring and preventing abuse and spam.
-
- **Activity Tracked:** [Functionality cookies](https://jetpack.com/support/cookies/#subscriptions) are set for a duration of **347 days** to remember a visitor’s blog and post subscription choices if, in fact, they have an active subscription.
-
-### WooCommerce Services
-
- **Data Used:** _For payments with PayPal or Stripe:_ purchase total, currency, billing information. _For taxes:_ the value of goods in the cart, value of shipping, destination address. _For checkout rates:_ destination address, purchased product IDs, dimensions, weight, and quantities. _For shipping labels:_ customer’s name, address as well as the dimensions, weight, and quantities of purchased products.
-
- **Data Synced ([?](https://jetpack.com/support/what-data-does-jetpack-sync/)):** For payments, we send the purchase total, currency and customer’s billing information to the respective payment processor. Please see the respective third party’s privacy policy ([Stripe’s Privacy Policy](https://stripe.com/privacy/) and [PayPal’s Privacy Policy](https://stripe.com/privacy/)) for more details. For automated taxes we send the value of goods in the cart, the value of shipping, and the destination address to TaxJar. Please see TaxJar’s [Privacy Policy](https://www.taxjar.com/privacy-policy/) for details about how they handle this information. For checkout rates we send the destination ZIP/postal code and purchased product dimensions, weight and quantities to [USPS](https://www.usps.com/) or [Canada Post](https://www.canadapost.ca/), depending on the service used. For shipping labels we send the customer’s name, address as well as the dimensions, weight, and quantities of purchased products to [EasyPost](https://www.easypost.com/). We also store the purchased shipping labels on our server to make it easy to reprint them and handle support requests.
-
-### WordPress.com Secure Sign On
-
- ** _This feature is only accessible to registered users of the site with WordPress.com accounts._**
-
- **Data Used:** User ID (local site and WordPress.com), role (e.g. administrator), email address, username and display name. Additionally, for activity tracking (see below): IP address, WordPress.com user ID, WordPress.com username, WordPress.com-connected site ID and URL, Jetpack version, user agent, visiting URL, referring URL, timestamp of event, browser language, country code.
-
- **Activity Tracked:** The following usage events are recorded: starting the login process, completing the login process, failing the login process, successfully being redirected after login, and failing to be redirected after login. Several functionality cookies are also set, and these are detailed explicitly in our [Cookie documentation](https://jetpack.com/support/cookies/#sso).
-
- **Data Synced ([?](https://jetpack.com/support/what-data-does-jetpack-sync/)):** The user ID and role of any user who successfully signed in via this feature.
-
-### WordPress.com Stats
-
- **Data Used:** IP address, WordPress.com user ID (if logged in), WordPress.com username (if logged in), user agent, visiting URL, referring URL, timestamp of event, browser language, country code. _Important:_ The site owner does **not** have access to any of this information via this feature. For example, a site owner can see that a specific post has 285 views, but he/she cannot see which specific users/accounts viewed that post. Stats logs — containing visitor IP addresses and WordPress.com usernames (if available) — are retained by [Automattic](https://automattic.com/) for 28 days and are used for the sole purpose of powering this feature.
-
- **Activity Tracked:** Post and page views, [video plays](https://jetpackme.wordpress.com/support/for-your-privacy-policy/#video-hosting) (if videos are hosted by WordPress.com), outbound link clicks, referring URLs and search engine terms, and country. When this module is enabled, Jetpack also tracks performance on each page load that includes the Javascript file used for tracking stats. This is exclusively for aggregate performance tracking across Jetpack sites in order to make sure that our plugin and code is not causing performance issues. This includes the tracking of page load times and resource loading duration (image files, Javascript files, CSS files, etc.). The site owner has the ability to force this feature [to honor DNT settings of visitors](https://jetpack.com/support/wordpress-com-stats/#honoring-dnt). By default, DNT is currently not honored.
-
-### WordPress.com Toolbar
-
- ** _This feature is only accessible to registered users of the site who are also logged in to WordPress.com._**
-
- **Data Used:** Gravatar image URL of the logged-in user in order to display it in the toolbar and the WordPress.com user ID of the logged-in user. Additionally, for activity tracking (detailed below): IP address, WordPress.com user ID, WordPress.com username, WordPress.com-connected site ID and URL, Jetpack version, user agent, visiting URL, referring URL, timestamp of event, browser language, country code.
-
- **Activity Tracked:** Click actions within the toolbar.
-
-### Embedded content from other websites
+Contact Form  
+The contact form submission data — IP address, user agent, name, email address, website, and message — is submitted to the Akismet service (also owned by Automattic) for the sole purpose of spam checking. The actual submission data is stored in the database of the site on which it was submitted and is emailed directly to the owner of the form (i.e. me). This email will include the submitter’s IP address, timestamp, name, email address, website, and message.
 
 Articles on this site may include embedded content (e.g. videos, images, articles, etc.). Embedded content from other websites behaves in the exact same way as if the visitor has visited the other website.
 
@@ -209,7 +112,7 @@ The Steady Hand is compensated to provide opinion on products, services, website
 
 The Steady Hand does not contain any content which might present a conflict of interest.
 
-######  **Cookie Statement**
+ **Cookie Statement**
 
 This Cookie Statement explains how The Steady Hand (“ **The Steady Hand** ”, “ **I** “, “ **me** “, and “ **mine** “) use cookies and similar technologies to recognize you when you visit http://www.thesteadyhandblog.com or any website owned, operated or controlled by us (“ **Websites** “). It explains what these technologies are and why we use them, as well as your rights to control my use of them.
 
@@ -257,8 +160,7 @@ All content on www.thesteadyhandblog.com is the sole property of the site, unles
 
 The Steady Hand  
 Aprile Mazey  
-1009 Loblolly Drive  
-Murfreesboro, TN 37128  
-(630) 740-4895  
 aprile@thesteadyhandblog.com  
 aprile.mazey@gmail.com
+
+For more contact information please email me. Thank you!
