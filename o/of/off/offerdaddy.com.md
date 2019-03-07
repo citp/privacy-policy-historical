@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the offerdaddy.com privacy policy that was archived on 2018-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181218170417id_/https%3A//www.offerdaddy.com/home/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the offerdaddy.com privacy policy that was archived on 2019-03-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190307145226id_/https%3A//www.offerdaddy.com/home/privacy) for the most accurate reproduction.*
 
 # OfferDaddy - Offers & Surveys only Wall for Mobile and Web Apps
 
