@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the greatcargames.com privacy policy that was archived on 2018-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181201011225id_/http%3A//www.4v4.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the greatcargames.com privacy policy that was archived on 2019-03-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190307160631id_/http%3A//www.4v4.com/privacy) for the most accurate reproduction.*
 
 # 4v4.com | Privacy Policy
 
