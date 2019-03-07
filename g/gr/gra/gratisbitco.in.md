@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gratisbitco.in privacy policy that was archived on 2017-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171119070641id_/https%3A//bitfun.co/privacy.htm%3Fv2) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gratisbitco.in privacy policy that was archived on 2019-03-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190307171045id_/https%3A//bitfun.co/privacy.htm%3Fv2) for the most accurate reproduction.*
 
 # 
 
