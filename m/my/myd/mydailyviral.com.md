@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mydailyviral.com privacy policy that was archived on 2018-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180523192937id_/http%3A//www.mydailyviral.com/about/%3Fshow%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mydailyviral.com privacy policy that was archived on 2019-03-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190307015747id_/https%3A//mydailyviral.com/about/%3Fshow%3Dprivacy) for the most accurate reproduction.*
 
 # MyDailyViral
 
