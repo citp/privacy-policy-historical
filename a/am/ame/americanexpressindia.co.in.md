@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the americanexpressindia.co.in privacy policy that was archived on 2017-07-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170724163253id_/https%3A//www.americanexpress.com/india/legal/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the americanexpressindia.co.in privacy policy that was archived on 2019-03-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190307134213id_/https%3A//www.americanexpress.com/india/legal/privacy.shtml) for the most accurate reproduction.*
 
 # American Express | India Online Privacy Statement
 
@@ -12,7 +12,7 @@ If you have questions about our online privacy statement or want to make a compl
   
 
 
-**Aggregated Information ** \-- data or information relating to multiple people which has been combined or aggregated. Aggregated Information includes information that we create or compile from various sources, including card transactions or certain data from Cookies and Similar Technologies. 
+ **Aggregated Information ** \-- data or information relating to multiple people which has been combined or aggregated. Aggregated Information includes information that we create or compile from various sources, including card transactions or certain data from Cookies and Similar Technologies. 
 
 **American Express (we, our, us) ** \-- the American Express Company as identified at the beginning of this online privacy statement. 
 
