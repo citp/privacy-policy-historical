@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the carpathiahost.net privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606081806id_/http%3A//www.qtsdatacenters.com/company/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the carpathiahost.net privacy policy that was archived on 2019-03-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190307231329id_/https%3A//www.qtsdatacenters.com/company/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | QTS Data Centers
+# Privacy Policy | QTS | Data Center, Colocation & Cloud Solutions
 
 #### Privacy Policy
 
-Privacy Policy Quality Realty Trust, Inc. (QTS) is sensitive to privacy issues with respect to the use of user information provided to us over the Internet. QTS is committed to maintaining the privacy and confidentiality of the personal information that we collect. For these reasons, we are disclosing to you our practices in gathering and using information that you provide us. 
+Quality Realty Trust, Inc. (QTS) is sensitive to privacy issues with respect to the use of user information provided to us over the Internet. QTS is committed to maintaining the privacy and confidentiality of the personal information that we collect. For these reasons, we are disclosing to you our practices in gathering and using information that you provide us. 
 
 #### What Information Do We Collect and How Do We Collect It?
 
@@ -56,13 +56,13 @@ You may opt-out of disclosure of your personal data to third parties for marketi
 
 QTS is self-certified by with the EU-US Privacy Shield. QTS complies with the EU-U.S. Privacy Shield Framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal information transferred from the European Union to the United States. QTS has certified to the Department of Commerce that it adheres to the Privacy Shield Principles. If there is any conflict between the terms in this privacy policy and the Privacy Shield Principles, the Privacy Shield Principles shall govern. To learn more about the Privacy Shield program, and to view our certification, please visit [www.privacyshield.gov](http://www.privacyshield.gov/). 
 
-QTS has further committed to cooperate with EU data protection authorities (DPAs) with regard to unresolved Privacy Shield complaints concerning data transferred from the EU. If you do not receive timely acknowledgment of your complaint from us, or if we have not addressed your complaint to your satisfaction, please contact the EU DPAs at [EU Data Protection Authorities (DPAs)](http://ec.europa.eu/justice/data-protection/article-29/structure/data-protection-authorities/index_en.htm) for more information or to file a complaint. The services of EU DPAs are provided at no cost to you. 
+QTS has further committed to cooperate with EU data protection authorities (DPAs) with regard to unresolved Privacy Shield complaints concerning data transferred from the EU. If you do not receive timely acknowledgment of your complaint from us, or if we have not addressed your complaint to your satisfaction, please rel="noopener noreferrer" contact the EU DPAs at [EU Data Protection Authorities (DPAs)](http://ec.europa.eu/justice/data-protection/article-29/structure/data-protection-authorities/index_en.htm) for more information or to file a complaint. The services of EU DPAs are provided at no cost to you. 
 
 In compliance with the Privacy Shield Principles, QTS commits to resolve complaints about our collection or use of your personal information. Individuals in the European Union with inquiries or complaints regarding our Private Shield policy should first contact support at: [support@qtsdatacenters.com](mailto:support@qtsdatacenters.com). 
 
 Currently, QTS does not disclose your information to any third party, without your consent. Individuals have the right to access their personal data. Individuals that would like to limit the use and disclosure of their personal data can email [support@qtsdatacenters.com](mailto:support@qtsdatacenters.com), at any time. QTS is subject to the investigatory and enforcement powers of the Federal Trade Commission (FTC). Under certain conditions, an individual can invoke binding arbitration. We will disclose personal information in response to lawful requests by public authorities, including to meet national security or law enforcement requirements. In addition, our organization retains liability in cases of onward transfers to third parties. 
 
-All QTS subsidiaries adhere the Privacy Shield Principles, including Carpathia Hosting, LLC and QualityTech, LP.
+All QTS subsidiaries adhere to the Privacy Shield Principles and General Data Protection Regulation.
 
 #### Access to Information; Contacting QTS
 
@@ -72,18 +72,18 @@ To keep your Personal Data accurate, current, complete or limit or delete it, pl
 
 If you have any questions about this Privacy Policy, please contact QTS at:
 
-Quality Technology Services
+QTS
 
-Attn: Privacy Director
+Attn: Privacy Officer
 
 12851 Foster St.
 
 Overland Park, KS 66213
 
-[compliance@qtsdatacenters.com](mailto:compliance@qtsdatacenters.com)
+Send Email to our Compliance team
 
 1.877.QTS.DATA (787.3282)
 
 #### Updates to This Privacy Policy
 
-QTS may update this policy periodically. QTS reserves the right to modify, add or remove portions of this privacy statement at its discretion. If we decide to change this policy, we will post those changes at this site. If the changes we make to the policy are material, we also may post a notice on the QTS web page ([www.qtsdatacenters.com](http://www.qtsdatacenters.com/)) or, in some cases, may provide notice of the changes by e-mail. This policy was last updated on February 7, 2017.
+QTS may update this policy periodically. QTS reserves the right to modify, add or remove portions of this privacy statement at its discretion. If we decide to change this policy, we will post those changes at this site. If the changes we make to the policy are material, we also may post a notice on the QTS web page ([www.qtsdatacenters.com](https://web.archive.org/)) or, in some cases, may provide notice of the changes by e-mail. This policy was last updated on May 23, 2018.
