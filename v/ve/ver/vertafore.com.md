@@ -1,22 +1,24 @@
-> *The following text is extracted and transformed from the vertafore.com privacy policy that was archived on 2017-10-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171007155139id_/http%3A//www.vertafore.com/Privacy-Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vertafore.com privacy policy that was archived on 2019-03-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190308003658id_/https%3A//www.vertafore.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Vertafore
 
-Updated: December 11, 2014 
+Privacy Policy
 
-This policy covers Vertafore.com (the "Site"). Other Vertafore web properties may reference this policy or have site specific privacy policies.
+Updated: July 21, 2017
+
+This policy covers Vertafore.com (the "Site").  Other Vertafore web properties may reference this policy or have site specific privacy policies.
 
 **Notice Regarding Collection and Use of your Personal Information**
 
-Personally identifiable information collected on this Site will be used to operate the Site and to provide the service(s) or carry out the action(s) you have requested or authorized. Additionally, Vertafore, Inc. and its controlled subsidiaries and affiliates ("Vertafore"), may use personal information to provide you with information about other Vertafore products and services.
+Personally identifiable information collected on this Site will be used to operate the Site and to provide the service(s) or carry out the action(s) you have requested or authorized.  Additionally, Vertafore, Inc. and its controlled subsidiaries and affiliates ("Vertafore"), may use personal information to provide you with information about other Vertafore products and services.
 
-The Site may collect certain information about your visit, such as the name of the Internet service provider and the Internet Protocol (IP) address through which you access the Internet; the browser you are using; the date and time you access the Site; the pages that you access while at the Site and the Internet address of the web site from which you linked directly to our site. This information is used to help improve the Site, analyze trends, and administer the Site.
+ The Site may collect certain information about your visit, such as the name of the Internet service provider and the Internet Protocol (IP) address through which you access the Internet; the browser you are using; the date and time you access the Site; the pages that you access while at the Site and the Internet address of the web site from which you linked directly to our site.  This information is used to help improve the Site, analyze trends, and administer the Site.
 
-Our web pages may provide links to unaffiliated third-party web sites. Since we do not control these web sites, we encourage you to review the policies of these third-party sites.
+Our web pages may provide links to unaffiliated third-party web sites.  Since we do not control these web sites, we encourage you to review the policies of these third-party sites.
 
 **Security of your Personal Information**
 
-Vertafore is committed to protecting the security of your personal information. To prevent unauthorized access, maintain data accuracy, and ensure the correct use of information, we have put in place appropriate physical, electronic, and managerial procedures to safeguard and secure the information we collect online. If social security numbers are collected by one of our sites, we protect the confidentiality, prohibit unlawful disclosure, and by limit access to the social security numbers.
+Vertafore is committed to protecting the security of your personal information.  To prevent unauthorized access, maintain data accuracy, and ensure the correct use of information, we have put in place appropriate physical, electronic, and managerial procedures to safeguard and secure the information we collect online.  If social security numbers are collected by one of our sites, we protect the confidentiality, prohibit unlawful disclosure, and by limit access to the social security numbers.
 
 **Transfer of your Personal Information**
 
@@ -26,23 +28,23 @@ Vertafore may disclose personal information if required to do so by law or in th
 
 **Use of Cookies**
 
-The Site uses “cookies” so that we can recognize you and determine when you revisit Vertafore, and to provide a more personalized experience. A "cookie" is a small amount of data, which often includes an anonymous unique identifier, that our Site stores on the hard drive of your computer through your browser. Most browsers are set up to accept cookies, but you can usually change your browser settings to refuse them. Vertafore does not use cookies to retrieve personal information about you from your computer. 
+The Site uses “cookies” so that we can recognize you and determine when you revisit Vertafore.com, and to provide a more personalized experience.  A "cookie" is a small amount of data, which often includes an anonymous unique identifier, that our Site stores on the hard drive of your computer through your browser.  Most browsers are set up to accept cookies, but you can usually change your browser settings to refuse them.  Vertafore does not use cookies to retrieve personal information about you from your computer.
 
-Vertafore uses cookies to: 
+Vertafore uses cookies to:
 
   * Recognize you so that you can log in to our Site and access your account information.
-  * Evaluate how many people return to our Site and measure the traffic to various areas of the Site. 
-  * Track the way you use our promotions, contests, and sales. 
-  * Personalize a user’s experience on the Site and target our advertisements based on your current or previous use of our web site and any keywords you use on internet search engines to locate our Site. 
+  * Evaluate how many people return to our Site and measure the traffic to various areas of the Site.
+  * Track the way you use our promotions, contests, and sales.
+  * Personalize a user’s experience on the Site and target our advertisements based on your current or previous use of our web site and any keywords you use on internet search engines to locate our Site.
   * Identify to third-party advertisers that you have visited the Site, so that these third-party advertisers may serve ads on our behalf.
 
 
 
-In addition to the cookies that Vertafore uses, third-party service providers may also set cookies when you visit the Site. In some cases, we use third-party service providers to provide functions or services on our behalf, such as credit card processing, business and marketing analytics, customer service, distribution of surveys or sweepstakes programs, or sending postal mail or e-mail. Third-party service providers have access to personal information about you that is needed to perform their functions, but may not use it for any other purpose. 
+In addition to the cookies that Vertafore uses, third-party service providers may also set cookies when you visit the Site.  In some cases, we use third-party service providers to provide functions or services on our behalf, such as credit card processing, business and marketing analytics, customer service, distribution of surveys or sweepstakes programs, or sending postal mail or e-mail.  Third-party service providers have access to personal information about you that is needed to perform their functions, but may not use it for any other purpose.
 
 **Choice of Future Communications**
 
-From time to time, Vertafore may send you information about product and service offerings that may be of interest to you. At such a time, you will be given an opportunity to opt-out of future communications.
+From time to time, Vertafore may send you information about product and service offerings that may be of interest to you.  At such a time, you will be given an opportunity to opt-out of future marketing communications.
 
 **Protection of Children's Personal Information**
 
@@ -50,14 +52,16 @@ The Site is intended for a general audience and we do not knowingly collect pers
 
 **Changes to this Statement**
 
-We may occasionally update this privacy statement. When we do, we will also revise the "Updated" date at the top of the privacy statement. We encourage you to periodically review this privacy statement to stay informed about how we are helping to protect the personal information we collect. Your continued use of the Site constitutes your agreement to this privacy statement and any updates.
+We may occasionally update this privacy statement.  When we do, we will also revise the "Updated" date at the top of the privacy statement.  We encourage you to periodically review this privacy statement to stay informed about how we are helping to protect the personal information we collect.  Your continued use of the Site constitutes your agreement to this privacy statement and any updates.
+
+[**GDPR Statement**](https://www.vertafore.com/sites/default/files/files/2018-06/Vertafore%20GDPR%20Notice%20for%20Privacy%20Policy_0.PDF)
 
 **Contact and Enforcement Information**
 
-Vertafore welcomes your comments regarding this privacy statement. If you have questions regarding this statement, please contact Vertafore at infosec@vertafore.com.
+Vertafore welcomes your comments regarding this privacy statement.  If you have questions regarding this statement, please contact Vertafore at infosec@vertafore.com.
 
 If you believe that Vertafore has not adhered to this privacy statement, please contact us at infosec@Vertafore.com or via postal mail at the address provided below, and we will use commercially reasonable efforts to promptly determine and remedy the problem.
 
-**Vertafore, Inc. (Attention Legal Department)**   
-11724 NE 195th Street  
-Bothell, WA 98011
+**Vertafore, Inc. (Attention General Counsel)** 999 18th St. N400
+
+Denver, CO 80202
