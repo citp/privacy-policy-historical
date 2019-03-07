@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bulksupplements.com privacy policy that was archived on 2017-09-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170922040622id_/http%3A//www.bulksupplements.com/customer-service) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bulksupplements.com privacy policy that was archived on 2019-03-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190307221441id_/https%3A//www.bulksupplements.com/customer-service) for the most accurate reproduction.*
 
 # Privacy Policy & Terms
 
