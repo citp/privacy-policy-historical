@@ -1,10 +1,16 @@
-<!--The following is the downloaded HTML source of the demco.com privacy policy that was archived on 2017-10-07.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20171007013019id_/http%3A//www.demco.com/goto%3FHSPSECURITY_PRIVACY) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the demco.com privacy policy that was archived on 2019-03-07.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20190307142734id_/https%3A//www.demco.com/goto%3FHSPSECURITY_PRIVACY) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" class=" async-hide"><head>
 
+
+<!-- Start  UBX GA integration Javascript files -->
+<script type="text/javascript" async="" src="https://tag.marinsm.com/serve/553a5939ca8b0103c100008f.js"></script><script async="" src="https://connect.facebook.net/en_US/fbevents.js"></script><script async="" src="https://www.google-analytics.com/analytics.js"></script><script async="" src="https://www.googletagmanager.com/gtm.js?id=GTM-KM98JT"></script><script type="text/javascript" src="/webprd_demco/scripts/GAtoUBXEventMapper.js"></script>
+<script type="text/javascript" src="/webprd_demco/scripts/ubx.js"></script>
+<!-- End of UBX GA integration Javascript files -->
+
 <!-- Google Tag Manager -->
-<script type="text/javascript" async="" src="https://tag.marinsm.com/serve/553a5939ca8b0103c100008f.js"></script><script async="" src="https://connect.facebook.net/en_US/fbevents.js"></script><script async="" src="https://www.google-analytics.com/analytics.js"></script><script async="" src="https://www.googletagmanager.com/gtm.js?id=GTM-KM98JT"></script><script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
 new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
 j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
@@ -30,10 +36,26 @@ h.end=i=function(){s.className=s.className.replace(RegExp(' ?'+y),'')};
   (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
   m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
   })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
-  ga('create', 'UA-334728-4', 'auto');
+  ga('create', 'UA-334728-4', 'auto', {'allowLinker': true});
   ga('require', 'GTM-NZXVCB6');
 
 
+
+<!-- Added to enable ecommerce events send to GA -->
+ga('require', 'ec');
+var identifiersMapper = [];
+identifiersMapper.push({"googleName":"googleIdenfierField1", "ubxName":"ubxIdentifierField1"});
+identifiersMapper.push({"googleName":"googleIdenfierField2", "ubxName":"ubxIdentifierField2"});
+ga(function() {
+    var tracker = ga.getByName("t0");
+    var originalSendHitTask = tracker.get("sendHitTask");
+    tracker.set("sendHitTask", function(model) {
+        originalSendHitTask(model);
+        var payLoad = model.get("hitPayload");
+        console.log("model=" + JSON.stringify(model));
+        google_ubx.sendEventFromPayload(payLoad,identifiersMapper);
+        });
+});
 
   ga('send', 'pageview');
 
@@ -71,9 +93,6 @@ Security and Privacy Policy
 <script src="/goto?HSPSECURITY_PRIVACY"></script>
 
 
-<script type="text/javascript" src="//product.reflektion.com/rfk/js/11205-14345634/init.js" async="true"></script>
-
-
 
 <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
 <meta http-equiv="pragma" content="no-cache">
@@ -85,10 +104,6 @@ Security and Privacy Policy
 <meta name="Description" content="Choose Demco for all your library supplies! Enjoy superior customer service &amp; more
 than 50,000 products including security labels, book carts and library furniture.">
 
-
-
-<meta name="Keywords" content="library supplies, library furniture, printable labels, security label, book tape, label
-protectors, book carts, book cart, library book cart">
 
 <meta name="robots" content="index, follow">
 <meta name="googlebot" content="index, follow">
@@ -111,7 +126,7 @@ protectors, book carts, book cart, library book cart">
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
-<link href="/webprd_demco/styles2/styles.css?v=1.1" rel="stylesheet" type="text/css">
+<link href="/webprd_demco/styles2/styles.css?v=1.2" rel="stylesheet" type="text/css">
 
 <link href="/webprd_demco/styles2/jquery-ui-1.8.21.custom.css" rel="stylesheet" type="text/css">
       <link rel="stylesheet" type="text/css" href="/webprd_demco/styles2/product_page.css">
@@ -120,7 +135,7 @@ protectors, book carts, book cart, library book cart">
       <link rel="stylesheet" type="text/css" href="/webprd_demco/styles2/idTabs.css">
       <link rel="stylesheet" type="text/css" href="/webprd_demco/styles2/jquery.qtip.css">
 
-<link href="https://fonts.googleapis.com/css?family=Muli:300,400" rel="stylesheet" type="text/css">
+<link href="https://fonts.googleapis.com/css?family=Muli:300,400,600,800" rel="stylesheet" type="text/css">
 <link rel="stylesheet" type="text/css" href="/webprd_demco/styles2/font_awesome/font-awesome.css">
 
 	<link rel="stylesheet" href="/webprd_demco/styles2/main_nav/desktop/superfish.css" media="screen and (min-width: 769px)">
@@ -222,9 +237,10 @@ protectors, book carts, book cart, library book cart">
 // END MAIN NAV //
 
 
-// REFRESH PAGE IF BROWSWER RESIZED HAVING MOBILE NAV WIDTH TO DESKTOP WIDTH //
+// REFRESH PAGE IF BROWSER RESIZED HAVING MOBILE NAV WIDTH TO DESKTOP WIDTH //
+$(document).ready(function() {
 	var ww = $(window).width();
-	var limit = 769;
+	var limit = 768;
 
 	function refresh() {
 		 ww = $(window).width();
@@ -233,13 +249,14 @@ protectors, book carts, book cart, library book cart">
 
 	var tOut;
 	$(window).resize(function() {
- $('ul.sf-menu ul,ul.sf-menu-upstart ul').css('display', 'none');
+		 $('ul.sf-menu ul,ul.sf-menu-upstart ul').css('display', 'none');
 			var resW = $(window).width();
 			clearTimeout(tOut);
 			if ( (ww>limit && resW<limit) || (ww<limit && resW>limit) ) {
-					tOut = setTimeout(refresh, 100);
+				tOut = setTimeout(refresh, 100);
 			}
 	});
+});
 // END REFRESH //
 
 $( window ).on( "orientationchange", function( event ) {
@@ -338,7 +355,11 @@ $(window).resize(function () {
 <body bgcolor="#FFFFFF" marginwidth="0" marginheight="0" leftmargin="0" topmargin="0" onload="StdOnLoad(); GetBrowser();">
 
 
-<div class="entire_page_wrap">
+<!-- Google Tag Manager (noscript) -->
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-KM98JT"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<!-- End Google Tag Manager (noscript) -->
+
 
 
 
@@ -356,16 +377,17 @@ $(window).resize(function () {
 #hs_strip_noncontract a h2 .underline {text-decoration:underline !important;}
 </style>
 
-<div id="hs_strip_noncontract">
-  <div class="inner">
-    <a href="/goto?HSPWEB_SPECIALS&amp;intcmp=strip_Oct17_Web_Specials">
-    <h2>SAVE UP TO 30%! <span>Sale prices end 10/31/17. <span class="underline">Shop Now!</span></span></h2></a>
-  </div>
-  <div class="inner mobile">
-    <a href="/goto?HSPWEB_SPECIALS&amp;intcmp=strip_Oct17_Web_Specials">
-    <h2>SAVE UP TO 30%! <span>Ends 10/31/17. <span class="underline">Shop Now!</span></span></h2></a>
-  </div>
-</div>
+<!--div class="entire_page_wrap"-->
+	<div id="hs_strip_noncontract">
+		<div class="inner">
+			<a href="/goto?HSPWEB_SPECIALS">
+			<h2>SAVE UP TO 50%! <span>Sale prices end 03/31/19. <span class="underline">Shop Now!</span></span></h2></a>
+		</div>
+		<div class="inner mobile">
+			<a href="/goto?HSPWEB_SPECIALS">
+			<h2>SAVE UP TO 50%! <span>Ends 03/31/19. <span class="underline">Shop Now!</span></span></h2></a>
+		</div>
+	</div>
 
 
 
@@ -412,7 +434,7 @@ function StdOnLoad()
    var DoNothing = 1;
    var SessExp = new Date();
    SessExp.setTime(SessExp.getTime() + (100*24*60*60*1000));
-   document.cookie = "WCKSESSID=" + escape('32337699211711413467') + "; expires=" + SessExp.toGMTString() + ";path=/";
+   document.cookie = "WCKSESSID=" + escape('01505986887193315369') + "; expires=" + SessExp.toGMTString() + ";path=/";
    document.cookie = "WCKVISITR=" + escape('') + "; expires=" + SessExp.toGMTString() + ";path=/";
 
 
@@ -445,7 +467,7 @@ function HandlePage(Act,Proc,Func)
         dateseq += String(today.getHours()) + String(today.getMinutes()) + String(today.getSeconds());
 
    var HandleOpt   = 'PROCFUN+' + Proc + '+' + Func + '+PRD+ENG+FUNCPARMS+';
-        HandleOpt += 'ZZWSESSID(A0200):32337699211711413467+ZZWNAVPAG(A0100):' + Act + '+DATESEQ(A0140):' + dateseq;
+        HandleOpt += 'ZZWSESSID(A0200):01505986887193315369+ZZWNAVPAG(A0100):' + Act + '+DATESEQ(A0140):' + dateseq;
    document.LANSA.AZZWNAVPAG.value = Act;
    document.LANSA.action = document.LANSA2.action + HandleOpt;
    document.LANSA.submit();
@@ -458,7 +480,7 @@ function HandlePageNoSSL(Act,Proc,Func)
         dateseq += String(today.getHours()) + String(today.getMinutes()) + String(today.getSeconds());
 
    var HandleOpt   = 'PROCFUN+' + Proc + '+' + Func + '+PRD+ENG+FUNCPARMS+';
-        HandleOpt += 'ZZWSESSID(A0200):32337699211711413467+ZZWNAVPAG(A0100):' + Act + '+DATESEQ(A0140):' + dateseq;
+        HandleOpt += 'ZZWSESSID(A0200):01505986887193315369+ZZWNAVPAG(A0100):' + Act + '+DATESEQ(A0140):' + dateseq;
    document.LANSA.AZZWNAVPAG.value = Act;
    document.LANSA.action = document.LANSA2.action.replace("https://", "http://")  + HandleOpt;
    document.LANSA.submit();
@@ -471,7 +493,7 @@ function HandlePageWParameters(Act,Proc,Func,Parameters)
         dateseq += String(today.getHours()) + String(today.getMinutes()) + String(today.getSeconds());
 
    var HandleOpt   = 'PROCFUN+' + Proc + '+' + Func + '+PRD+ENG+FUNCPARMS+';
-        HandleOpt += 'ZZWSESSID(A0200):32337699211711413467+ZZWNAVPAG(A0100):' + Act + '+DATESEQ(A0140):' + dateseq;
+        HandleOpt += 'ZZWSESSID(A0200):01505986887193315369+ZZWNAVPAG(A0100):' + Act + '+DATESEQ(A0140):' + dateseq;
    document.LANSA.AZZWNAVPAG.value = Act;
    document.LANSA.action = document.LANSA2.action + HandleOpt + Parameters;
    document.LANSA.submit();
@@ -484,7 +506,7 @@ function HandlePageTrk(Act,Proc,Func,TrackID)
         dateseq += String(today.getHours()) + String(today.getMinutes()) + String(today.getSeconds());
 
    var HandleOpt   = 'PROCFUN+' + Proc + '+' + Func + '+PRD+ENG+FUNCPARMS+';
-        HandleOpt += 'ZZWSESSID(A0200):32337699211711413467+ZZWNAVPAG(A0100):' + Act + '+ZZWBTRKID(A0120):' + TrackID + '+DATESEQ(A0140):' + dateseq;
+        HandleOpt += 'ZZWSESSID(A0200):01505986887193315369+ZZWNAVPAG(A0100):' + Act + '+ZZWBTRKID(A0120):' + TrackID + '+DATESEQ(A0140):' + dateseq;
    document.LANSA.AZZWNAVPAG.value = Act;
    document.LANSA.action = document.LANSA2.action + HandleOpt;
    document.LANSA.submit();
@@ -499,7 +521,7 @@ function GotoPage(PageID)
    var NavPage = 'SPECIALPAGE';
 
    var HandleOpt   = 'PROCFUN+LWDHWEB21+LWDH265' + '+PRD+ENG+FUNCPARMS+';
-        HandleOpt += 'ZZWSESSID(A0200):32337699211711413467+ZZWNAVPAG(A0100):' + NavPage + '+ZZWGOTOPG(A0800):' + PageID + '+DATESEQ(A0140):' + dateseq;
+        HandleOpt += 'ZZWSESSID(A0200):01505986887193315369+ZZWNAVPAG(A0100):' + NavPage + '+ZZWGOTOPG(A0800):' + PageID + '+DATESEQ(A0140):' + dateseq;
    document.LANSA.AZZWNAVPAG.value = NavPage;
    document.LANSA.action = document.LANSA2.action + HandleOpt;
    document.LANSA.submit();
@@ -516,7 +538,7 @@ function SnippetPage(PageNam,PageFmt,TrkID)
    case 'P':
         var AssistOpt = document.LANSA.AHTTP.value;
         AssistOpt += '/CGI-BIN/LANSAWEB?PROCFUN+LWDHWEB23+LWDH321' + '+PRD';
-        AssistOpt += '+ENG+FUNCPARMS+ZZWSESSID(A0200):32337699211711413467';
+        AssistOpt += '+ENG+FUNCPARMS+ZZWSESSID(A0200):01505986887193315369';
         AssistOpt += '+ZZWNAVPAG(A0100):SNPPETPAGE+ZZXPAGFMT(A0100):POPUP+ZZWSNPET2(A1800):' + PageNam + '+DATESEQ(A0140):' + dateseq;
         if(TrkID != null)
           {
@@ -527,7 +549,7 @@ function SnippetPage(PageNam,PageFmt,TrkID)
         break;
    default:
         var HandleOpt   = 'PROCFUN+LWDHWEB23+LWDH321' + '+PRD+ENG+FUNCPARMS+';
-        HandleOpt += 'ZZWSESSID(A0200):32337699211711413467+ZZWNAVPAG(A0100):SNPPETPAGE+ZZWSNPET2(A1800):' + PageNam + '+DATESEQ(A0140):' + dateseq;
+        HandleOpt += 'ZZWSESSID(A0200):01505986887193315369+ZZWNAVPAG(A0100):SNPPETPAGE+ZZWSNPET2(A1800):' + PageNam + '+DATESEQ(A0140):' + dateseq;
         if(TrkID != null)
           {
             HandleOpt += '+ZZWBTRKID(A0120):' + TrkID;
@@ -596,7 +618,7 @@ function exeSearchAction(action, srchparam)
         dateseq += String(today.getHours()) + String(today.getMinutes()) + String(today.getSeconds());
 
    var HandleOpt   = 'PROCFUN+LWDHWEB23+LWDH336' + '+PRD+ENG+FUNCPARMS+';
-        HandleOpt += 'ZZWSESSID(A0200):32337699211711413467+ZZWNAVPAG(A0100):' + action;
+        HandleOpt += 'ZZWSESSID(A0200):01505986887193315369+ZZWNAVPAG(A0100):' + action;
         HandleOpt += '+ZZWESPAR1(A0300):' + srchparam + '+DATESEQ(A0140):' + dateseq;
    document.LANSA.AZZWNAVPAG.value = action;
    document.LANSA.action = document.LANSA2.action + HandleOpt;
@@ -612,7 +634,7 @@ function ExecuteSearch(SearchTerm)
    var NavPage = 'NEWFRTX';
 
    var HandleOpt   = 'PROCFUN+LWDHWEB23+LWDH336' + '+PRD+ENG+FUNCPARMS+';
-        HandleOpt += 'ZZWSESSID(A0200):32337699211711413467+ZZWNAVPAG(A0100):' + NavPage + '+DATESEQ(A0140):' + dateseq;
+        HandleOpt += 'ZZWSESSID(A0200):01505986887193315369+ZZWNAVPAG(A0100):' + NavPage + '+DATESEQ(A0140):' + dateseq;
    document.LANSA.AZZWNAVPAG.value = NavPage;
    document.LANSA.LZZWSUPKEY.value = SearchTerm;
    document.LANSA.action = document.LANSA2.action + HandleOpt;
@@ -628,7 +650,7 @@ function GotoPageTrk(PageID,TrackID)
    var NavPage = 'SPECIALPAGE';
 
    var HandleOpt   = 'PROCFUN+LWDHWEB21+LWDH265' + '+PRD+ENG+FUNCPARMS+';
-        HandleOpt += 'ZZWSESSID(A0200):32337699211711413467+ZZWNAVPAG(A0100):' + NavPage + '+ZZWSPCPAG(A0150):' + PageID + '+ZZWBTRKID(A0120):' + TrackID + '+DATESEQ(A0140):' + dateseq;
+        HandleOpt += 'ZZWSESSID(A0200):01505986887193315369+ZZWNAVPAG(A0100):' + NavPage + '+ZZWSPCPAG(A0150):' + PageID + '+ZZWBTRKID(A0120):' + TrackID + '+DATESEQ(A0140):' + dateseq;
    document.LANSA.AZZWNAVPAG.value = NavPage;
    document.LANSA.action = document.LANSA2.action + HandleOpt;
    document.LANSA.submit();
@@ -643,7 +665,7 @@ function ProdBlockList(ListID,TrackID)
    var NavPage = 'BLOCKLIST';
 
    var HandleOpt   = 'PROCFUN+LWDHWEB22+LWDH288' + '+PRD+ENG+FUNCPARMS+';
-        HandleOpt += 'ZZWSESSID(A0200):32337699211711413467+ZZWNAVPAG(A0100):' + NavPage + '+ZZWPBLKY2(A0150):' + ListID + '+ZZWPBLKYN(A0030):KY2';
+        HandleOpt += 'ZZWSESSID(A0200):01505986887193315369+ZZWNAVPAG(A0100):' + NavPage + '+ZZWPBLKY2(A0150):' + ListID + '+ZZWPBLKYN(A0030):KY2';
    if(TrackID != null)
      {
         HandleOpt += '+ZZWBTRKID(A0120):' + TrackID;
@@ -662,7 +684,7 @@ function ShowTier(NavPage,TierID,TierLvl,TrackID)
         dateseq += String(today.getHours()) + String(today.getMinutes()) + String(today.getSeconds());
 
    var HandleOpt   = 'PROCFUN+LWDHWEB23+LWDH320' + '+PRD+ENG+FUNCPARMS+';
-        HandleOpt += 'ZZWSESSID(A0200):32337699211711413467+ZZWNAVPAG(A0100):' + NavPage + '+ZZWTIERKB(A0090):' + TierID + '+ZZWTIERLV(A0010):' + TierLvl + '+ZZWTIERKS(A0030):KYB';
+        HandleOpt += 'ZZWSESSID(A0200):01505986887193315369+ZZWNAVPAG(A0100):' + NavPage + '+ZZWTIERKB(A0090):' + TierID + '+ZZWTIERLV(A0010):' + TierLvl + '+ZZWTIERKS(A0030):KYB';
    if(TrackID != null)
      {
         HandleOpt += '+ZZWBTRKID(A0120):' + TrackID;
@@ -681,7 +703,7 @@ function SetDefaultPage(Act,Proc,Func)
         dateseq += String(today.getHours()) + String(today.getMinutes()) + String(today.getSeconds());
 
    var SetDefaultOpt   = 'PROCFUN+' + Proc + '+' + Func + '+PRD+ENG+FUNCPARMS+';
-        SetDefaultOpt += 'ZZWSESSID(A0200):32337699211711413467+ZZWNAVPAG(A0100):' + Act + '+DATESEQ(A0140):' + dateseq;
+        SetDefaultOpt += 'ZZWSESSID(A0200):01505986887193315369+ZZWNAVPAG(A0100):' + Act + '+DATESEQ(A0140):' + dateseq;
 
    document.LANSA.AZZWNAVPAG.value = Act;
    document.LANSA.action = document.LANSA2.action + SetDefaultOpt;
@@ -699,7 +721,7 @@ function ReloadPage(IPAddr,Act,Proc,Func,ExchData)
         dateseq += String(today.getHours()) + String(today.getMinutes()) + String(today.getSeconds());
 
    var ReloadOpt   = IPAddr + '/CGI-BIN/LANSAWEB?PROCFUN+' + Proc + '+' + Func + '+PRD';
-        ReloadOpt += '+ENG+FUNCPARMS+ZZWSESSID(A0200):32337699211711413467';
+        ReloadOpt += '+ENG+FUNCPARMS+ZZWSESSID(A0200):01505986887193315369';
         ReloadOpt += '+ZZWNAVPAG(A0100):' + Act + '+DATESEQ(A0140):' + dateseq + ExchData;
 
    window.open(ReloadOpt, currWinName);
@@ -723,7 +745,7 @@ function ReloadParentWin(IPAddr,Act,Proc,Func,ExchData)
         dateseq += String(today.getHours()) + String(today.getMinutes()) + String(today.getSeconds());
 
    var ReloadOpt   = IPAddr + '/CGI-BIN/LANSAWEB?PROCFUN+' + Proc + '+' + Func + '+PRD';
-        ReloadOpt += '+ENG+FUNCPARMS+ZZWSESSID(A0200):32337699211711413467';
+        ReloadOpt += '+ENG+FUNCPARMS+ZZWSESSID(A0200):01505986887193315369';
         ReloadOpt += '+ZZWNAVPAG(A0100):' + Act + '+DATESEQ(A0140):' + dateseq + ExchData;
 
    if(ParWinName == 'assist')
@@ -743,7 +765,7 @@ function ReloadPageCO(IPAddr,Act,Proc,Func,ExchData)
         dateseq += String(today.getHours()) + String(today.getMinutes()) + String(today.getSeconds());
 
    var ReloadOpt   = IPAddr + '/CGI-BIN/LANSAWEB?PROCFUN+' + Proc + '+' + Func + '+PRD';
-        ReloadOpt += '+ENG+FUNCPARMS+ZZWSESSID(A0200):32337699211711413467';
+        ReloadOpt += '+ENG+FUNCPARMS+ZZWSESSID(A0200):01505986887193315369';
         ReloadOpt += '+ZZWNAVPAG(A0100):' + Act + '+DATESEQ(A0140):' + dateseq + ExchData;
 
    window.open(ReloadOpt, "_self");
@@ -758,7 +780,7 @@ function ReloadNewZone(IPAddr,Act,Proc,Func,ExchData)
         dateseq += String(today.getHours()) + String(today.getMinutes()) + String(today.getSeconds());
 
    var ReloadNZO   = IPAddr + '/CGI-BIN/LANSAWEB?PROCFUN+' + Proc + '+' + Func + '+PRD';
-        ReloadNZO += '+ENG+FUNCPARMS+ZZWSESSID(A0200):32337699211711413467';
+        ReloadNZO += '+ENG+FUNCPARMS+ZZWSESSID(A0200):01505986887193315369';
         ReloadNZO += '+ZZWNAVPAG(A0100):' + Act + '+DATESEQ(A0140):' + dateseq + ExchData;
 
    window.open(ReloadNZO, "main");
@@ -773,7 +795,7 @@ function AssistPage(IPAddr,Act,Proc,Func,ExchData)
         dateseq += String(today.getHours()) + String(today.getMinutes()) + String(today.getSeconds());
 
    var AssistOpt   = IPAddr + '/CGI-BIN/LANSAWEB?PROCFUN+' + Proc + '+' + Func + '+PRD';
-        AssistOpt += '+ENG+FUNCPARMS+ZZWSESSID(A0200):32337699211711413467';
+        AssistOpt += '+ENG+FUNCPARMS+ZZWSESSID(A0200):01505986887193315369';
         AssistOpt += '+ZZWNAVPAG(A0100):' + Act + '+DATESEQ(A0140):' + dateseq + ExchData;
 
    window.open(AssistOpt, 'assist');
@@ -787,7 +809,7 @@ function ViewCartURL(IPAddr)
         dateseq += String(today.getHours()) + String(today.getMinutes()) + String(today.getSeconds());
 
    var DetailOpt   = IPAddr + '/CGI-BIN/LANSAWEB?PROCFUN+LWDHWEB20+LWDH238' + '+PRD+ENG+FUNCPARMS+';
-        DetailOpt += 'ZZWSESSID(A0200):32337699211711413467+ZZWNAVPAG(A0100):VIEWCART';
+        DetailOpt += 'ZZWSESSID(A0200):01505986887193315369+ZZWNAVPAG(A0100):VIEWCART';
         DetailOpt += '+DATESEQ(A0140):' + dateseq;
 
    location.href=DetailOpt;
@@ -812,7 +834,7 @@ function ViewCartURL(IPAddr)
 
 
 <input name="AZZWHDRCMP" type="HIDDEN" size="20" maxlength="20" value="DHSY_HEADER">
-<input name="AZZWSESSID" type="HIDDEN" size="20" maxlength="20" value="32337699211711413467">
+<input name="AZZWSESSID" type="HIDDEN" size="20" maxlength="20" value="01505986887193315369">
 <input name="AZZWZONE" type="HIDDEN" size="3" maxlength="3" value="">
 <input name="AZZWFTRCMP" type="HIDDEN" size="20" maxlength="20" value="DHSY_FOOTER">
 <input name="AZZWNEWHDR" type="HIDDEN" size="20" maxlength="20" value="DHSY_HEADER">
@@ -835,7 +857,7 @@ function ViewCartURL(IPAddr)
 <input name="AZZWPBLKEY" type="HIDDEN" size="15" maxlength="15" value="">
 <input name="AZZWTIERKA" type="HIDDEN" size="9" maxlength="9" value="">
 <input name="AZZWTIERKD" type="HIDDEN" size="1" maxlength="1" value="">
-<input name="AHTTP" type="HIDDEN" size="50" maxlength="50" value="http://www.demco.com">
+<input name="AHTTP" type="HIDDEN" size="50" maxlength="50" value="https://www.demco.com">
 <input name="AHTTPS" type="HIDDEN" size="50" maxlength="50" value="https://www.demco.com">
 <input name="ACGI" type="HIDDEN" size="20" maxlength="20" value="CGI-BIN">
 <input name="APARTITION" type="HIDDEN" size="3" maxlength="3" value="PRD">
@@ -885,7 +907,7 @@ function GotoDD(dropdownID)
        var dateseq   = String(today.getMonth() + 1) + String(today.getDate()) + String(today.getYear());
             dateseq += String(today.getHours()) + String(today.getMinutes()) + String(today.getSeconds());
        var HandleOpt   = 'PROCFUN+LWDHWEB21+LWDH265' + '+PRD+ENG+FUNCPARMS+';
-            HandleOpt += 'ZZWSESSID(A0200):32337699211711413467+ZZWNAVPAG(A0100):GOTOPAGE+ZZWGOTOPG(A0800):' + gotoID;
+            HandleOpt += 'ZZWSESSID(A0200):01505986887193315369+ZZWNAVPAG(A0100):GOTOPAGE+ZZWGOTOPG(A0800):' + gotoID;
             HandleOpt += '+DATESEQ(A0140):' + dateseq;
        document.LANSA.AZZWNAVPAG.value = 'GOTOPAGE';
        document.LANSA.action = document.LANSA2.action + HandleOpt;
@@ -924,7 +946,7 @@ function doSignIn()
             dateseq += String(today.getHours()) + String(today.getMinutes()) + String(today.getSeconds());
        var HandleOpt = 'https://www.demco.com' + '/CGI-BIN/LANSAWEB?'
             HandleOpt += 'PROCFUN+LWDHWEB23+LWDH330' + '+PRD+ENG+FUNCPARMS+';
-            HandleOpt += 'ZZWSESSID(A0200):32337699211711413467+ZZWNAVPAG(A0100):SIGNINHDR';
+            HandleOpt += 'ZZWSESSID(A0200):01505986887193315369+ZZWNAVPAG(A0100):SIGNINHDR';
             HandleOpt += '+DATESEQ(A0140):' + dateseq;
        document.LANSA.AZZWNAVPAG.value = 'SIGNINHDR';
        document.LANSA.action = HandleOpt;
@@ -943,7 +965,7 @@ function forgotPwd()
             dateseq += String(today.getHours()) + String(today.getMinutes()) + String(today.getSeconds());
        var HandleOpt = 'https://www.demco.com' + '/CGI-BIN/LANSAWEB?'
             HandleOpt += 'PROCFUN+LWDHWEB23+LWDH331' + '+PRD+ENG+FUNCPARMS+';
-            HandleOpt += 'ZZWSESSID(A0200):32337699211711413467+ZZWNAVPAG(A0100):FORGOTPWD';
+            HandleOpt += 'ZZWSESSID(A0200):01505986887193315369+ZZWNAVPAG(A0100):FORGOTPWD';
             HandleOpt += '+DATESEQ(A0140):' + dateseq;
        document.LANSA.AZZWNAVPAG.value = 'FORGOTPWD';
        document.LANSA.action = HandleOpt;
@@ -993,7 +1015,8 @@ src="https://www.facebook.com/tr?id=245108699264841&ev=PageView
 
 
 
-<script src="http://contentz.mkt941.com/lp/static/js/iMAWebCookie.js?716932-11aea241612-4f4749e15ce6d7a21b02ab08b9b7921c&amp;h=www.pages04.net" type="text/javascript"></script>
+<!--<script src="https://contentz.mkt941.com/lp/static/js/iMAWebCookie.js?716932-11aea241612-4f4749e15ce6d7a21b02ab08b9b7921c&h=www.pages04.net" type="text/javascript"></script>-->
+<script src="https://www.sc.pages04.net/lp/static/js/iMAWebCookie.js?716932-11aea241612-4f4749e15ce6d7a21b02ab08b9b7921c&amp;h=www.pages04.net" type="text/javascript"></script>
 <script>
 var signinType="";
 var gaNullSearch="";
@@ -1015,7 +1038,7 @@ var gaWUID="";
 		<div id="header_row1">
 
 				<div id="header_links"><span><a href="/goto?home">Home</a>
-				</span>|<span><a href="/goto?QUICKORDER&amp;intcmp=TNS_QUICK_ORDER">Quick Order</a></span>|<span><a href="/goto?INTERNATIONAL&amp;intcmp=TNS_INTERNATIONAL">International</a></span>|<span class="nobold"><a href="/goto?HELP&amp;intcmp=TL_HELP">Help</a></span>|<span class="nobold last">800.356.1200</span></div>
+				</span>|<span><a href="/goto?QUICKORDER">Quick Order</a></span>|<span><a href="/goto?INTERNATIONAL">International</a></span>|<span class="nobold"><a href="/goto?HELP">Help</a></span>|<span class="nobold last">800.356.1200</span></div>
 
 				<div id="header_links" class="mobile">
 					<div class="welcome_text">&nbsp;</div>
@@ -1028,8 +1051,8 @@ var gaWUID="";
 
 <div class="search_container">
 				<div class="search_container_contents">
-					<div class="search_input_box"><input type="text" title="Enter a search term or product #" name="LZZWSUPKEY" id="LZZWSUPKEY" value="" onkeyup="checkSearchEnter(event)" data-rfkid="rfkid_6"></div>
-					<div class="search_button"><div class="gray_button_search"><a href="JavaScript:doSrchID()"><i class="fa fa-search" aria-hidden="true"></i></a></div></div>
+					<div class="search_input_box"><input type="text" title="Enter a search term or product #" name="LZZWSUPKEY" id="LZZWSUPKEY" value="" onkeyup="checkSearchEnter(event)"></div>
+					<div class="search_button"><div class="gray_button_search"><a href="JavaScript:doSrchID()" id="icon_search"><i class="fa fa-search" aria-hidden="true"></i></a></div></div>
 				</div>
 <div id="mobile_close_search"><i class="fa fa-times"></i></div>
 			</div>
@@ -1107,25 +1130,22 @@ var gaWUID="";
 
 
 
-    <li class="has_sub"><a href="/goto?PRODUCTS&amp;intcmp=TN_ALL" class="sf-with-ul">Products</a>
+        <li class="has_sub"><a href="/goto?PRODUCTS" class="sf-with-ul">Products</a>
       <ul style="display: none;">
-        <li id="nav_archival"><a href="/Category/Archival/_/N-rt&amp;intcmp=TN_A01" class="sf-with-ul">Archival</a>
+        <li id="nav_archival"><a href="/Category/Archival/_/N-rt" class="sf-with-ul">Archival</a>
           <ul style="display: none;">
             <h3>Archival</h3>
-            <li><a href="/Category/Archival/AV-Storage/_/N-ru&amp;intcmp=TN_C01">AV Storage</a></li>
-            <li><a href="/Category/Archival/Conservation-Supplies/_/N-rw&amp;intcmp=TN_C02">Conservation Supplies</a></li>
-            <li><a href="/Category/Archival/Document-Storage/_/N-s2&amp;intcmp=TN_C03">Document Storage</a></li>
-            <li><a href="/Category/Archival/Microfilm-Microfiche/_/N-sc&amp;intcmp=TN_C05">Microfilm &amp; Microfiche</a></li>
-            <li><a href="/Category/Archival/Pamphlet-Protection/_/N-sf&amp;intcmp=TN_C06">Pamphlet Protection</a></li>
+            <li><a href="/Category/Archival/AV-Storage/_/N-ru">AV Storage</a></li>
+            <li><a href="/Category/Archival/Conservation-Supplies/_/N-rw">Conservation Supplies</a></li>
+            <li><a href="/Category/Archival/Document-Storage/_/N-s2">Document Storage</a></li>
+            <li><a href="/Category/Archival/Microfilm-Microfiche/_/N-sc">Microfilm &amp; Microfiche</a></li>
+            <li><a href="/Category/Archival/Pamphlet-Protection/_/N-sf">Pamphlet Protection</a></li>
           </ul>
           <div class="temp_block"></div><div class="featured_cat_ad feature_archival"><script>
 if ($(window).width() > 768) {
-	if ( $( "#header" ).is( ".ssl" ) ) {
-	} else {
-		$('#nav_archival').one("hover", function(){
-			// UNCOMMENT TO MAKE ACTIVE $('.feature_archival a').html('<img src="/webprd_demco/html/main_nav/images/archival.jpg" border="0" alt="Archival Featured Ad" />');
-		});
-	}
+	$('#nav_archival').one("hover", function(){
+		// UNCOMMENT TO MAKE ACTIVE $('.feature_archival a').html('<img src="/webprd_demco/html/main_nav/images/archival.jpg" border="0" alt="Archival Featured Ad" />');
+	});
 }
 </script>
 
@@ -1134,24 +1154,22 @@ if ($(window).width() > 768) {
 #header.secure .featured_cat_ad {display:none;}
 </style>
 
-<a href="#null&amp;intcmp=NAV_AD_ARCHIVAL"></a></div>
+<a href="#null"></a></div>
         </li>
-        <li id="nav_arts_crafts"><a href="/Category/Arts-Crafts/_/N-sp&amp;intcmp=TN_A02" class="sf-with-ul">Arts &amp; Crafts</a>
+        <li id="nav_arts_crafts"><a href="/Category/Arts-Crafts/_/N-sp" class="sf-with-ul">Arts &amp; Crafts</a>
           <ul style="display: none;">
             <h3>Arts &amp; Crafts</h3>
-            <li><a href="/Category/Arts-Crafts/Coloring-Supplies/_/N-sq&amp;intcmp=TN_C09">Coloring Supplies</a></li>
-            <li><a href="/Category/Arts-Crafts/Paper/_/N-su&amp;intcmp=TN_C10">Paper</a></li>
-            <li><a href="/Category/Arts-Crafts/Project-Supplies/_/N-t0&amp;intcmp=TN_C11">Project Supplies</a></li>
-            <li><a href="/Category/Arts-Crafts/Shape-Cutting/_/N-t3&amp;intcmp=TN_C12">Shape Cutting</a></li>
+						<li><a href="/Category/Arts-Crafts/Button-Making/_/N-1qu">Button Making</a></li>
+            <li><a href="/Category/Arts-Crafts/Coloring-Supplies/_/N-sq">Coloring Supplies</a></li>
+            <li><a href="/Category/Arts-Crafts/Paper/_/N-su">Paper</a></li>
+            <li><a href="/Category/Arts-Crafts/Project-Supplies/_/N-t0">Project Supplies</a></li>
+            <li><a href="/Category/Arts-Crafts/Shape-Cutting/_/N-t3">Shape Cutting</a></li>
           </ul>
           <div class="temp_block"></div><div class="featured_cat_ad feature_arts_crafts"><script>
 if ($(window).width() > 768) {
-	if ( $( "#header" ).is( ".ssl" ) ) {
-	} else {
-		$('#nav_arts_crafts').one("hover", function(){
-			$('.feature_arts_crafts a').html('<img src="/webprd_demco/html/main_nav/images/arts_crafts.jpg" border="0" alt="Arts & Crafts Featured Ad" />');
-		});
-	}
+	$('#nav_arts_crafts').one("hover", function(){
+		$('.feature_arts_crafts a').html('<img src="/webprd_demco/html/main_nav/images/arts_crafts.jpg" border="0" alt="Arts & Crafts Featured Ad" />');
+	});
 }
 </script>
 
@@ -1160,30 +1178,30 @@ if ($(window).width() > 768) {
 #header.secure .featured_cat_ad {display:none;}
 </style>
 
-<a href="/goto?Makerspace&amp;intcmp=NAV_AD_ARTS_CRAFTS"></a></div>
+<a href="/goto?Makerspace"></a></div>
         </li>
-        <li id="nav_audio_visual"><a href="/Category/Audio-Visual/_/N-t8&amp;intcmp=TN_A03" class="sf-with-ul">Audio Visual</a>
+        <li id="nav_audio_visual"><a href="/Category/Audio-Visual/_/N-t8" class="sf-with-ul">Audio Visual &amp; Electronics</a>
           <ul style="display: none;">
-            <h3>Audio Visual</h3>
-            <li><a href="/Category/Audio-Visual/Audio/_/N-t9&amp;intcmp=TN_C13">Audio</a></li>
-            <li><a href="/Category/Audio-Visual/AV-Media-Packaging/_/N-tn&amp;intcmp=TN_C15">AV Media Packaging</a></li>
-            <li><a href="/Category/Audio-Visual/Cameras-Camcorders/_/N-tx&amp;intcmp=TN_C16">Cameras &amp; Camcorders</a></li>
-            <li><a href="/Category/Audio-Visual/Disc-Cleaning-Repair/_/N-th&amp;intcmp=TN_C14">Disc Cleaning &amp; Repair</a></li>
-            <li><a href="/Category/Audio-Visual/Gaming/_/N-u2&amp;intcmp=TN_C18">Gaming</a></li>
-            <li><a href="/Category/Audio-Visual/Headphones/_/N-u5&amp;intcmp=TN_C19">Headphones</a></li>
-            <li><a href="/Category/Audio-Visual/Listening-Centers/_/N-ub&amp;intcmp=TN_C20">Listening Centers</a></li>
-            <li><a href="/Category/Audio-Visual/PA-Systems/_/N-uf&amp;intcmp=TN_C21">PA Systems</a></li>
-            <li><a href="/Category/Audio-Visual/Tablets-Phones/_/N-1mu&amp;intcmp=TN_F01">Tablets &amp; Phones</a></li>
-            <li><a href="/Category/Audio-Visual/TV-Video/_/N-uk&amp;intcmp=TN_C22">TV &amp; Video</a></li>
+            <h3>Audio Visual &amp; Electronics</h3>
+            <li><a href="/Category/Audio-Visual/Audio/_/N-t9">Audio</a></li>
+            <li><a href="/Category/Audio-Visual/AV-Media-Packaging/_/N-tn">AV Media Packaging</a></li>
+            <li><a href="/Category/Audio-Visual/Cameras-Camcorders/_/N-tx">Cameras &amp; Camcorders</a></li>
+						<li><a href="/Category/Audio-Visual/Charging-Stations/_/N-1r0">Charging Stations</a></li>
+            <li><a href="/Category/Audio-Visual/Disc-Cleaning-Repair/_/N-th">Disc Cleaning &amp; Repair</a></li>
+            <li><a href="/Category/Audio-Visual/Headphones/_/N-u5">Headphones</a></li>
+            <li><a href="/Category/Audio-Visual/Listening-Centers/_/N-ub">Listening Centers</a></li>
+            <li><a href="/Category/Audio-Visual/PA-Systems/_/N-uf">PA Systems</a></li>
+						<li><a href="/Category/Audio-Visual/Projectors/_/N-1qw">Projectors</a></li>
+						<li><a href="/Category/Audio-Visual/Screens/_/N-1r9">Screens</a></li>
+            <li><a href="/Category/Audio-Visual/Tablets-Phones/_/N-1mu">Tablets &amp; Phones</a></li>
+            <li><a href="/Category/Audio-Visual/TV-Video/_/N-uk">TV &amp; Video</a></li>
+						<li><a href="/Category/Audio-Visual/Virtual-Reality/_/N-1qy">Virtual Reality</a></li>
           </ul>
           <div class="temp_block"></div><div class="featured_cat_ad feature_audio_visual"><script>
 if ($(window).width() > 768) {
-	if ( $( "#header" ).is( ".ssl" ) ) {
-	} else {
-		$('#nav_audio_visual').one("hover", function(){
-			$('.feature_audio_visual a').html('<img src="/webprd_demco/html/main_nav/images/audio_visual.jpg" border="0" alt="Audio Visual Featured Ad" />');
-		});
-	}
+	$('#nav_audio_visual').one("hover", function(){
+		$('.feature_audio_visual a').html('<img src="/webprd_demco/html/main_nav/images/audio_visual.jpg" border="0" alt="Audio Visual Featured Ad" />');
+	});
 }
 </script>
 
@@ -1192,26 +1210,23 @@ if ($(window).width() > 768) {
 #header.secure .featured_cat_ad {display:none;}
 </style>
 
-<a href="/Category/Audio-Visual/Tablets-Phones/Charging-Station/_/N-1po&amp;intcmp=NAV_AD_AUDIO_VISUAL"></a></div>
+<a href="/Category/Audio-Visual/Tablets-Phones/Charging-Station/_/N-1po"></a></div>
         </li>
-        <li id="nav_books"><a href="/Category/Books/_/N-ur&amp;intcmp=TN_A04" class="sf-with-ul">Books</a>
+        <li id="nav_books"><a href="/Category/Books/_/N-ur" class="sf-with-ul">Books</a>
           <ul style="display: none;">
             <h3>Books</h3>
-            <li><a href="/Category/Books/Big-Books/_/N-1ll&amp;intcmp=TN_E95">Big Books</a></li>
-            <li><a href="/Category/Books/Chapter-Books/_/N-us&amp;intcmp=TN_C23">Chapter Books</a></li>
-            <li><a href="/Category/Books/Children-s-Books/_/N-uv&amp;intcmp=TN_C24">Children's Books</a></li>
-            <li><a href="/Category/Books/Educational/_/N-1oi&amp;intcmp=TN_F11">Educational</a></li>
-            <li><a href="/Category/Books/Graphic-Novels/_/N-ux&amp;intcmp=TN_C25">Graphic Novels</a></li>
-            <li><a href="/Category/Books/StorySacks/_/N-1ln&amp;intcmp=TN_E94">StorySacks</a></li>
+            <li><a href="/Category/Books/Big-Books/_/N-1ll">Big Books</a></li>
+            <li><a href="/Category/Books/Chapter-Books/_/N-us">Chapter Books</a></li>
+            <li><a href="/Category/Books/Children-s-Books/_/N-uv">Children's Books</a></li>
+            <li><a href="/Category/Books/Educational/_/N-1oi">Educational</a></li>
+            <li><a href="/Category/Books/Graphic-Novels/_/N-ux">Graphic Novels</a></li>
+            <li><a href="/Category/Books/StorySacks/_/N-1ln">StorySacks</a></li>
           </ul>
           <div class="temp_block"></div><div class="featured_cat_ad feature_books"><script>
 if ($(window).width() > 768) {
-	if ( $( "#header" ).is( ".ssl" ) ) {
-	} else {
-		$('#nav_books').one("hover", function(){
-			$('.feature_books a').html('<img src="/webprd_demco/html/main_nav/images/books.jpg" border="0" alt="Books Featured Ad" />');
-		});
-	}
+	$('#nav_books').one("hover", function(){
+		$('.feature_books a').html('<img src="/webprd_demco/html/main_nav/images/books.jpg" border="0" alt="Books Featured Ad" />');
+	});
 }
 </script>
 
@@ -1220,104 +1235,93 @@ if ($(window).width() > 768) {
 #header.secure .featured_cat_ad {display:none;}
 </style>
 
-<a href="/Category/Upstart-Promotions/_/N-184&amp;intcmp=NAV_AD_BOOKS"></a></div>
+<a href="/Category/Upstart-Promotions/_/N-184"></a></div>
         </li>
-        <li id="nav_carpets"><a href="/Category/Carpets/_/N-vk&amp;intcmp=TN_A05" class="sf-with-ul">Carpets</a>
+        <li id="nav_carpets"><a href="/Category/Carpets/_/N-vk" class="sf-with-ul">Carpets</a>
           <ul style="display: none;">
             <h3>Carpets</h3>
-            <li><a href="/Category/Carpets/Children-s-Themed-Carpets/_/N-vl&amp;intcmp=TN_C29">Children's Themed Carpets</a></li>
-            <li><a href="/Category/Carpets/Patterned-Carpets/_/N-w0&amp;intcmp=TN_C30">Patterned Carpets</a></li>
-            <li><a href="/Category/Carpets/Solid-Carpets/_/N-wa&amp;intcmp=TN_C31">Solid Carpets</a></li>
-            <li><a href="/Category/Carpets/Teen-Carpets/_/N-wc&amp;intcmp=TN_C32">Teen Carpets</a></li>
+            <li><a href="/Category/Carpets/Children-s-Themed-Carpets/_/N-vl">Children's Themed Carpets</a></li>
+            <li><a href="/Category/Carpets/Patterned-Carpets/_/N-w0">Patterned Carpets</a></li>
+            <li><a href="/Category/Carpets/Solid-Carpets/_/N-wa">Solid Carpets</a></li>
+            <li><a href="/Category/Carpets/Teen-Carpets/_/N-wc">Teen Carpets</a></li>
           </ul>
           <div class="temp_block"></div><div class="featured_cat_ad feature_carpets"><script>
 if ($(window).width() > 768) {
-	if ( $( "#header" ).is( ".ssl" ) ) {
-	} else {
-		$('#nav_carpets').one("hover", function(){
-			// UNCOMMENT TO MAKE ACTIVE $('.feature_carpets a').html('<img src="/webprd_demco/html/main_nav/images/carpets.jpg" border="0" alt="Carpets Featured Ad" />');
-		});
-	}
+	$('#nav_carpets').one("hover", function(){
+		$('.feature_carpets a').html('<img src="/webprd_demco/html/main_nav/images/carpets.jpg" border="0" alt="Carpets Featured Ad" />');
+	});
 }
 </script>
 
 <style>
-.sfHover > .featured_cat_ad.feature_carpets {display:none  /* change to "block" to show */;visibility:visible;}
+.sfHover > .featured_cat_ad.feature_carpets {display:block;visibility:visible;}
 #header.secure .featured_cat_ad {display:none;}
 </style>
 
-<a href="#null&amp;intcmp=NAV_AD_CARPETS"></a></div>
+<a href="/Category/Carpets/Children-s-Themed-Carpets/Licensed-Character/_/N-vp"></a></div>
         </li>
-        <li id="nav_carts_booktrucks"><a href="/Category/Carts-Booktrucks/_/N-we&amp;intcmp=TN_A06" class="sf-with-ul">Carts &amp; Booktrucks</a>
+        <li id="nav_carts_booktrucks"><a href="/Category/Carts-Booktrucks/_/N-we" class="sf-with-ul">Carts &amp; Booktrucks</a>
           <ul style="display: none;">
             <h3>Carts &amp; Booktrucks</h3>
-            <li><a href="/Category/Carts-Booktrucks/AV-Carts/_/N-wf&amp;intcmp=TN_C33">AV Carts</a></li>
-            <li><a href="/Category/Carts-Booktrucks/Book-Carts/_/N-wn&amp;intcmp=TN_C34">Book Carts</a></li>
-            <li><a href="/Category/Carts-Booktrucks/Booktrucks/_/N-ws&amp;intcmp=TN_C35">Booktrucks</a></li>
-            <li><a href="/Category/Carts-Booktrucks/Charging/_/N-1oq&amp;intcmp=TN_F12">Charging</a></li>
-            <li><a href="/Category/Carts-Booktrucks/Materials-Handling/_/N-wy&amp;intcmp=TN_C36">Materials Handling</a></li>
-            <li><a href="/Category/Carts-Booktrucks/Teaching-Carts/_/N-1pt&amp;intcmp=TN_F17">Teaching Carts</a></li>
-            <li><a href="/Category/Carts-Booktrucks/Utility-Carts/_/N-x2&amp;intcmp=TN_C37">Utility Carts</a></li>
+            <li><a href="/Category/Carts-Booktrucks/AV-Carts/_/N-wf">AV Carts</a></li>
+            <li><a href="/Category/Carts-Booktrucks/Book-Carts/_/N-wn">Book Carts</a></li>
+            <li><a href="/Category/Carts-Booktrucks/Booktrucks/_/N-ws">Booktrucks</a></li>
+            <li><a href="/Category/Carts-Booktrucks/Charging/_/N-1oq">Charging</a></li>
+            <li><a href="/Category/Carts-Booktrucks/Materials-Handling/_/N-wy">Materials Handling</a></li>
+            <li><a href="/Category/Carts-Booktrucks/Teaching-Carts/_/N-1pt">Teaching Carts</a></li>
+            <li><a href="/Category/Carts-Booktrucks/Utility-Carts/_/N-x2">Utility Carts</a></li>
           </ul>
           <div class="temp_block"></div><div class="featured_cat_ad feature_carts_booktrucks"><script>
 if ($(window).width() > 768) {
-	if ( $( "#header" ).is( ".ssl" ) ) {
-	} else {
-		$('#nav_carts_booktrucks').one("hover", function(){
-			// UNCOMMENT TO MAKE ACTIVE $('.feature_carts_booktrucks a').html('<img src="/webprd_demco/html/main_nav/images/carts_booktrucks.jpg" border="0" alt="Carts & Booktrucks Featured Ad" />');
-		});
-	}
+	$('#nav_carts_booktrucks').one("hover", function(){
+		$('.feature_carts_booktrucks a').html('<img src="/webprd_demco/html/main_nav/images/carts_booktrucks.jpg" border="0" alt="Carts & Booktrucks Featured Ad" />');
+	});
 }
 </script>
 
 <style>
-.sfHover > .featured_cat_ad.feature_carts_booktrucks {display:none  /* change to "block" to show */;visibility:visible;}
+.sfHover > .featured_cat_ad.feature_carts_booktrucks {display:block;visibility:visible;}
 #header.secure .featured_cat_ad {display:none;}
 </style>
 
-<a href="#null&amp;intcmp=NAV_AD_CARTS_BOOKTRUCKS"></a></div>
+<a href="/goto?browse&amp;key=libraryquiet"></a></div>
         </li>
-        <li id="nav_creative_play"><a href="/Category/Creative-Play/_/N-x7&amp;intcmp=TN_A07" class="sf-with-ul">Creative Play</a>
+        <li id="nav_creative_play"><a href="/Category/Creative-Play/_/N-x7" class="sf-with-ul">Creative Play</a>
           <ul style="display: none;">
             <h3>Creative Play</h3>
-            <li><a href="/Category/Creative-Play/Activity-Centers/_/N-x8&amp;intcmp=TN_C38">Activity Centers</a></li>
-            <li><a href="/Category/Creative-Play/Plush-Characters/_/N-xf&amp;intcmp=TN_C40">Plush Characters</a></li>
-            <li><a href="/Category/Creative-Play/Puppets/_/N-xi&amp;intcmp=TN_C41">Puppets</a></li>
+            <li><a href="/Category/Creative-Play/Activity-Centers/_/N-x8">Activity Centers</a></li>
+            <li><a href="/Category/Creative-Play/Games/_/N-1r2">Games</a></li>
+						<li><a href="/Category/Creative-Play/Plush-Characters/_/N-xf">Plush Characters</a></li>
+            <li><a href="/Category/Creative-Play/Puppets/_/N-xi">Puppets</a></li>
           </ul>
           <div class="temp_block"></div><div class="featured_cat_ad feature_creative_play"><script>
 if ($(window).width() > 768) {
-	if ( $( "#header" ).is( ".ssl" ) ) {
-	} else {
-		$('#nav_creative_play').one("hover", function(){
-			// UNCOMMENT TO MAKE ACTIVE $('.feature_creative_play a').html('<img src="/webprd_demco/html/main_nav/images/creative_play.jpg" border="0" alt="Creative Play Featured Ad" />');
-		});
-	}
+	$('#nav_creative_play').one("hover", function(){
+		$('.feature_creative_play a').html('<img src="/webprd_demco/html/main_nav/images/creative_play.jpg" border="0" alt="Creative Play Featured Ad" />');
+	});
 }
 </script>
 
 <style>
-.sfHover > .featured_cat_ad.feature_creative_play {display:none  /* change to "block" to show */;visibility:visible;}
+.sfHover > .featured_cat_ad.feature_creative_play {display:block;visibility:visible;}
 #header.secure .featured_cat_ad {display:none;}
 </style>
 
-<a href="#null&amp;intcmp=NAV_AD_CREATIVE_PLAY"></a></div>
+<a href="/goto?child_sp_early2"></a></div>
         </li>
-        <li id="nav_decor"><a href="/Category/Decor/_/N-yi&amp;intcmp=TN_A10" class="sf-with-ul">Décor</a>
+        <li id="nav_decor"><a href="/Category/Decor/_/N-yi" class="sf-with-ul">Décor</a>
           <ul style="display: none;">
             <h3>Décor</h3>
-            <li><a href="/Category/Decor/Art-Prints-Wall-Décor/_/N-yj&amp;intcmp=TN_C51">Art Prints &amp; Wall Décor</a></li>
-            <li><a href="/Category/Decor/Clocks/_/N-ym&amp;intcmp=TN_C52">Clocks</a></li>
-            <li><a href="/Category/Decor/Lighting/_/N-yp&amp;intcmp=TN_C53">Lighting</a></li>
-            <li><a href="/Category/Decor/Rugs/_/N-1px&amp;intcmp=TN_F18">Rugs</a></li>
+            <li><a href="/Category/Decor/Art-Prints-Wall-Décor/_/N-yj">Art Prints &amp; Wall Décor</a></li>
+            <li><a href="/Category/Decor/Clocks/_/N-ym">Clocks</a></li>
+            <li><a href="/Category/Decor/Lighting/_/N-yp">Lighting</a></li>
+            <li><a href="/Category/Decor/Rugs/_/N-1px">Rugs</a></li>
           </ul>
           <div class="temp_block"></div><div class="featured_cat_ad feature_decor"><script>
 if ($(window).width() > 768) {
-	if ( $( "#header" ).is( ".ssl" ) ) {
-	} else {
-		$('#nav_decor').one("hover", function(){
-			$('.feature_decor a').html('<img src="/webprd_demco/html/main_nav/images/decor.jpg" border="0" alt="D&eacute;core Featured Ad" />');
-		});
-	}
+	$('#nav_decor').one("hover", function(){
+		$('.feature_decor a').html('<img src="/webprd_demco/html/main_nav/images/decor.jpg" border="0" alt="D&eacute;core Featured Ad" />');
+	});
 }
 </script>
 
@@ -1326,29 +1330,25 @@ if ($(window).width() > 768) {
 #header.secure .featured_cat_ad {display:none;}
 </style>
 
-<a href="/goto?wall_art_p&amp;intcmp=NAV_AD_DECOR"></a></div>
+<a href="/goto?wall_art_p"></a></div>
         </li>
-        <li><a href="/software&amp;intcmp=TN_DS" class="submenu_button_manual">Demco Software</a></li>
-        <li id="nav_educational_resources"><a href="/Category/Educational-Resources/_/N-1bu&amp;intcmp=TN_A20" class="sf-with-ul">Educational Resources</a>
+        <li><a href="/software" class="submenu_button_manual">Demco Software</a></li>
+        <li id="nav_educational_resources"><a href="/Category/Educational-Resources/_/N-1bu" class="sf-with-ul">Educational Resources</a>
           <ul style="display: none;">
             <h3>Educational Resources</h3>
-            <li><a href="/Category/Educational-Resources/Classroom-Management/_/N-1bv&amp;intcmp=TN_D34">Classroom Management</a></li>
-            <li><a href="/Category/Educational-Resources/Games/_/N-1bz&amp;intcmp=TN_D35">Games</a></li>
-            <li><a href="/Category/Educational-Resources/Geography/_/N-1c3&amp;intcmp=TN_D36">Geography</a></li>
-            <li><a href="/Category/Educational-Resources/Language-Arts/_/N-1la&amp;intcmp=TN_E93">Language Arts</a></li>
-            <li><a href="/Category/Educational-Resources/Library-Skills/_/N-1c8&amp;intcmp=TN_D37">Library Skills</a></li>
-            <li><a href="/Category/Educational-Resources/Math/_/N-1cf&amp;intcmp=TN_D39">Math</a></li>
-            <li><a href="/Category/Educational-Resources/Science/_/N-1cj&amp;intcmp=TN_D40">Science</a></li>
-            <li><a href="/Category/Educational-Resources/Social-Studies/_/N-1cu&amp;intcmp=TN_D42">Social Studies</a></li>
+            <li><a href="/Category/Educational-Resources/Classroom-Management/_/N-1bv">Classroom Management</a></li>
+						<li><a href="/Category/Educational-Resources/DVDs/_/N-1rb">DVDs</a></li>
+            <li><a href="/Category/Educational-Resources/Games/_/N-1bz">Games</a></li>
+            <li><a href="/Category/Educational-Resources/Geography/_/N-1c3">Maps &amp; Globes</a></li>
+            <li><a href="/Category/Educational-Resources/Library-Skills/_/N-1c8">Library Skills</a></li>
+						<li><a href="/Category/Educational-Resources/Reference-Books/_/N-1r7">Reference Books</a></li>
+            <li><a href="/goto?makerspace_stem">STEM</a></li>
           </ul>
           <div class="temp_block"></div><div class="featured_cat_ad feature_educational_resources"><script>
 if ($(window).width() > 768) {
-	if ( $( "#header" ).is( ".ssl" ) ) {
-	} else {
-		$('#nav_educational_resources').one("hover", function(){
-			$('.feature_educational_resources a').html('<img src="/webprd_demco/html/main_nav/images/educational_resources.jpg" border="0" alt="Educational Resources Featured Ad" />');
-		});
-	}
+	$('#nav_educational_resources').one("hover", function(){
+		$('.feature_educational_resources a').html('<img src="/webprd_demco/html/main_nav/images/educational_resources.jpg" border="0" alt="Educational Resources Featured Ad" />');
+	});
 }
 </script>
 
@@ -1357,66 +1357,59 @@ if ($(window).width() > 768) {
 #header.secure .featured_cat_ad {display:none;}
 </style>
 
-<a href="/goto?MAKERSPACE_STEM&amp;intcmp=NAV_AD_EDUCATIONAL_RESOURCES"></a></div>
+<a href="/goto?MAKERSPACE_STEM"></a></div>
         </li>
-        <li id="nav_facilities_management"><a href="/Category/Facilities-Management/_/N-xm&amp;intcmp=TN_A09" class="sf-with-ul">Facilities Management</a>
+        <li id="nav_facilities_management"><a href="/Category/Facilities-Management/_/N-xm" class="sf-with-ul">Facilities Management</a>
           <ul style="display: none;">
             <h3>Facilities Management</h3>
-            <li><a href="/Category/Facilities-Management/Community-Engagement/_/N-1o6&amp;intcmp=TN_F09">Community Engagement</a></li>
-            <li><a href="/Category/Facilities-Management/Flags/_/N-xq&amp;intcmp=TN_C44">Flags</a></li>
-            <li><a href="/Category/Facilities-Management/Flashlights/_/N-1n6&amp;intcmp=TN_F02">Flashlights</a></li>
-            <li><a href="/Category/Facilities-Management/Garment-Racks/_/N-xn&amp;intcmp=TN_C43">Garment Racks</a></li>
-            <li><a href="/Category/Facilities-Management/Janitorial/_/N-xu&amp;intcmp=TN_C45">Janitorial</a></li>
-            <li><a href="/Category/Facilities-Management/Ladders-Stools/_/N-xy&amp;intcmp=TN_C46">Ladders &amp; Stools</a></li>
-            <li><a href="/Category/Facilities-Management/Mats/_/N-y1&amp;intcmp=TN_C47">Mats</a></li>
-            <li><a href="/Category/Facilities-Management/Outdoor-Furniture/_/N-y6&amp;intcmp=TN_C48">Outdoor Furniture</a></li>
-            <li><a href="/Category/Facilities-Management/Power-Management/_/N-1nb&amp;intcmp=TN_F03">Power Management</a></li>
-            <li><a href="/Category/Facilities-Management/Stages-Risers/_/N-yb&amp;intcmp=TN_C49">Stages &amp; Risers</a></li>
-            <li><a href="/Category/Facilities-Management/Traffic-Control/_/N-1q9&amp;intcmp=TN_F20">Traffic Control</a></li>
-            <li><a href="/Category/Facilities-Management/Waste-Receptacles/_/N-ye&amp;intcmp=TN_C50">Waste Receptacles</a></li>
+            <li><a href="/Category/Facilities-Management/Flags/_/N-xq">Flags</a></li>
+            <li><a href="/Category/Facilities-Management/Flashlights/_/N-1n6">Flashlights</a></li>
+            <li><a href="/Category/Facilities-Management/Garment-Racks/_/N-xn">Garment Racks</a></li>
+            <li><a href="/Category/Facilities-Management/Janitorial/_/N-xu">Janitorial</a></li>
+            <li><a href="/Category/Facilities-Management/Ladders-Stools/_/N-xy">Ladders &amp; Stools</a></li>
+            <li><a href="/Category/Facilities-Management/Mats/_/N-y1">Mats</a></li>
+            <li><a href="/Category/Facilities-Management/Outdoor-Furniture/_/N-y6">Outdoor Furniture</a></li>
+            <li><a href="/Category/Facilities-Management/Power-Management/_/N-1nb">Power Management</a></li>
+            <li><a href="/Category/Facilities-Management/Stages-Risers/_/N-yb">Stages &amp; Risers</a></li>
+            <li><a href="/Category/Facilities-Management/Traffic-Control/_/N-1q9">Traffic Control</a></li>
+            <li><a href="/Category/Facilities-Management/Waste-Receptacles/_/N-ye">Waste Receptacles</a></li>
           </ul>
           <div class="temp_block"></div><div class="featured_cat_ad feature_facilities_management"><script>
 if ($(window).width() > 768) {
-	if ( $( "#header" ).is( ".ssl" ) ) {
-	} else {
-		$('#nav_facilities_management').one("hover", function(){
-			// UNCOMMENT TO MAKE ACTIVE $('.feature_facilities_management a').html('<img src="/webprd_demco/html/main_nav/images/facilities_management.jpg" border="0" alt="Facilities Management Featured Ad" />');
-		});
-	}
+	$('#nav_facilities_management').one("hover", function(){
+		$('.feature_facilities_management a').html('<img src="/webprd_demco/html/main_nav/images/facilities_management.jpg" border="0" alt="Facilities Management Featured Ad" />');
+	});
 }
 </script>
 
 <style>
-.sfHover > .featured_cat_ad.feature_facilities_management {display:none  /* change to "block" to show */;visibility:visible;}
+.sfHover > .featured_cat_ad.feature_facilities_management {display:block;visibility:visible;}
 #header.secure .featured_cat_ad {display:none;}
 </style>
 
-<a href="#null&amp;intcmp=NAV_AD_FACILITIES_MANAGEMENT"></a></div>
+<a href="/products/Facilities-Management/Ladders-Stools/Stools/Cramer-reg-Kik-Step-reg-Stools/_/A-B00174717"></a></div>
         </li>
-        <li id="nav_furniture"><a href="/Category/Furniture/_/N-yv&amp;intcmp=TN_A11" class="sf-with-ul">Furniture</a>
+        <li id="nav_furniture"><a href="/Category/Furniture/_/N-yv" class="sf-with-ul">Furniture</a>
           <ul style="display: none;">
             <h3>Furniture</h3>
-            <li><a href="/Category/Furniture/Book-Returns/_/N-yw&amp;intcmp=TN_C55">Book Returns</a></li>
-            <li><a href="/Category/Furniture/Carrels/_/N-z0&amp;intcmp=TN_C56">Carrels</a></li>
-            <li><a href="/Category/Furniture/Chairs/_/N-z3&amp;intcmp=TN_C57">Chairs</a></li>
-            <li><a href="/Category/Furniture/Circulation-Desks/_/N-zc&amp;intcmp=TN_C58">Circulation Desks</a></li>
-            <li><a href="/Category/Furniture/Computer-Workstations/_/N-zg&amp;intcmp=TN_C59">Computer Workstations</a></li>
-            <li><a href="/Category/Furniture/Desks/_/N-zm&amp;intcmp=TN_C60">Desks</a></li>
-            <li><a href="/Category/Furniture/Displays/_/N-zs&amp;intcmp=TN_C61">Displays</a></li>
-            <li><a href="/Category/Furniture/Panel-Systems/_/N-10t&amp;intcmp=TN_C63">Panel Systems</a></li>
-            <li><a href="/Category/Furniture/Seating/_/N-10w&amp;intcmp=TN_C64">Seating</a></li>
-            <li><a href="/Category/Furniture/Stools/_/N-116&amp;intcmp=TN_C65">Stools</a></li>
-            <li><a href="/Category/Furniture/Storage/_/N-10c&amp;intcmp=TN_C62">Storage</a></li>
-            <li><a href="/Category/Furniture/Tables/_/N-11c&amp;intcmp=TN_C66">Tables</a></li>
+            <li><a href="/Category/Furniture/Book-Returns/_/N-yw">Book Returns</a></li>
+            <li><a href="/Category/Furniture/Carrels/_/N-z0">Carrels</a></li>
+            <li><a href="/Category/Furniture/Chairs/_/N-z3">Chairs</a></li>
+            <li><a href="/Category/Furniture/Circulation-Desks/_/N-zc">Circulation Desks</a></li>
+            <li><a href="/Category/Furniture/Computer-Workstations/_/N-zg">Computer Workstations</a></li>
+            <li><a href="/Category/Furniture/Desks/_/N-zm">Desks</a></li>
+            <li><a href="/Category/Furniture/Displays/_/N-zs">Displays</a></li>
+            <li><a href="/Category/Furniture/Panel-Systems/_/N-10t">Panel Systems</a></li>
+            <li><a href="/Category/Furniture/Seating/_/N-10w">Seating</a></li>
+            <li><a href="/Category/Furniture/Stools/_/N-116">Stools</a></li>
+            <li><a href="/Category/Furniture/Storage/_/N-10c">Storage</a></li>
+            <li><a href="/Category/Furniture/Tables/_/N-11c">Tables</a></li>
           </ul>
           <div class="temp_block"></div><div class="featured_cat_ad feature_furniture"><script>
 if ($(window).width() > 768) {
-	if ( $( "#header" ).is( ".ssl" ) ) {
-	} else {
-		$('#nav_furniture').one("hover", function(){
-			$('.feature_furniture a').html('<img src="/webprd_demco/html/main_nav/images/furniture.jpg" border="0" alt="Furniture Featured Ad" />');
-		});
-	}
+	$('#nav_furniture').one("hover", function(){
+		$('.feature_furniture a').html('<img src="/webprd_demco/html/main_nav/images/furniture.jpg" border="0" alt="Furniture Featured Ad" />');
+	});
 }
 </script>
 
@@ -1425,29 +1418,26 @@ if ($(window).width() > 768) {
 #header.secure .featured_cat_ad {display:none;}
 </style>
 
-<a href="/goto?collabspaces&amp;intcmp=NAV_AD_FURNITURE"></a></div>
+<a href="/goto?collabspaces"></a></div>
         </li>
-        <li id="nav_library_supplies"><a href="/Category/Library-Supplies/_/N-11x&amp;intcmp=TN_A12" class="sf-with-ul">Library Supplies</a>
+        <li id="nav_library_supplies"><a href="/Category/Library-Supplies/_/N-11x" class="sf-with-ul">Library Supplies</a>
           <ul style="display: none;">
             <h3>Library Supplies</h3>
-            <li><a href="/Category/Library-Supplies/AV-Media-Packaging/_/N-1pc&amp;intcmp=TN_F15">AV Media Packaging</a></li>
-            <li><a href="/Category/Library-Supplies/Book-Care/_/N-11y&amp;intcmp=TN_C68">Book Care</a></li>
-            <li><a href="/Category/Library-Supplies/Book-Protection/_/N-128&amp;intcmp=TN_C69">Book Protection</a></li>
-            <li><a href="/Category/Library-Supplies/Circulation/_/N-12f&amp;intcmp=TN_C70">Circulation</a></li>
-            <li><a href="/Category/Library-Supplies/Date-Due/_/N-12r&amp;intcmp=TN_C71">Date Due</a></li>
-            <li><a href="/Category/Library-Supplies/Labels/_/N-12y&amp;intcmp=TN_C72">Labels</a></li>
-            <li><a href="/Category/Library-Supplies/Magazine-Protection/_/N-13e&amp;intcmp=TN_C73">Magazine Protection</a></li>
-            <li><a href="/Category/Library-Supplies/Shelf-Organization/_/N-13h&amp;intcmp=TN_C74">Shelf Organization</a></li>
-            <li><a href="/Category/Library-Supplies/Tape/_/N-13s&amp;intcmp=TN_C75">Tape</a></li>
+            <li><a href="/Category/Library-Supplies/AV-Media-Packaging/_/N-1pc">AV Media Packaging</a></li>
+            <li><a href="/Category/Library-Supplies/Book-Care/_/N-11y">Book Care</a></li>
+            <li><a href="/Category/Library-Supplies/Book-Protection/_/N-128">Book Protection</a></li>
+            <li><a href="/Category/Library-Supplies/Circulation/_/N-12f">Circulation</a></li>
+            <li><a href="/Category/Library-Supplies/Date-Due/_/N-12r">Date Due</a></li>
+            <li><a href="/Category/Library-Supplies/Labels/_/N-12y">Labels</a></li>
+            <li><a href="/Category/Library-Supplies/Magazine-Protection/_/N-13e">Magazine Protection</a></li>
+            <li><a href="/Category/Library-Supplies/Shelf-Organization/_/N-13h">Shelf Organization</a></li>
+            <li><a href="/Category/Library-Supplies/Tape/_/N-13s">Tape</a></li>
           </ul>
           <div class="temp_block"></div><div class="featured_cat_ad feature_library_supplies"><script>
 if ($(window).width() > 768) {
-	if ( $( "#header" ).is( ".ssl" ) ) {
-	} else {
-		$('#nav_library_supplies').one("hover", function(){
-			$('.feature_library_supplies a').html('<img src="/webprd_demco/html/main_nav/images/library_supplies.jpg" border="0" alt="Library Supplies Featured Ad" />');
-		});
-	}
+	$('#nav_library_supplies').one("hover", function(){
+		$('.feature_library_supplies a').html('<img src="/webprd_demco/html/main_nav/images/library_supplies.jpg" border="0" alt="Library Supplies Featured Ad" />');
+	});
 }
 </script>
 
@@ -1456,154 +1446,163 @@ if ($(window).width() > 768) {
 #header.secure .featured_cat_ad {display:none;}
 </style>
 
-<a href="/Category/Library-Supplies/Labels/Label-Protectors/_/N-12z&amp;intcmp=NAV_AD_LIBRARY_SUPPLIES"></a></div>
+<a href="/products/Library-Supplies/Labels/Color-coding/Demco-reg-Ultra-aggressive-Color-tinted-Label-Protectors/_/A-B00433182"></a></div>
         </li>
-        <li id="nav_office_equipment"><a href="/Category/Office-Equipment/_/N-146&amp;intcmp=TN_A13" class="sf-with-ul">Office Equipment</a>
+        <li id="nav_makerspace"><a href="/goto?Makerspace" class="sf-with-ul">Makerspace &amp; STEM</a>
+          <ul style="display: none;">
+            <h3>Makerspace &amp; STEM</h3>
+            <li><a href="/goto?makerspace_stem">STEM</a></li>
+            <li><a href="/goto?makerspace_furn">Furniture</a></li>
+            <li><a href="/goto?makerspace_org">Organization</a></li>
+            <li><a href="/goto?makerspace_tech">Technology</a></li>
+            <li><a href="/goto?makerspace_arts">Arts &amp; Crafts</a></li>
+					</ul>
+          <div class="temp_block"></div><div class="featured_cat_ad feature_makerspace"><script>
+if ($(window).width() > 768) {
+	$('#nav_makerspace').one("hover", function(){
+		$('.feature_makerspace a').html('<img src="/webprd_demco/html/main_nav/images/makerspace.jpg" border="0" alt="Makerspace Featured Ad" />');
+	});
+}
+</script>
+
+<style>
+.sfHover > .featured_cat_ad.feature_makerspace {display:block;visibility:visible;}
+#header.secure .featured_cat_ad {display:none;}
+</style>
+
+<a href="/goto?makercollection"></a></div>
+				</li>
+        <li id="nav_office_equipment"><a href="/Category/Office-Equipment/_/N-146" class="sf-with-ul">Office Equipment</a>
           <ul style="display: none;">
             <h3>Office Equipment</h3>
-            <li><a href="/Category/Office-Equipment/Calculators/_/N-147&amp;intcmp=TN_C76">Calculators</a></li>
-            <li><a href="/Category/Office-Equipment/Flashlights/_/N-1mi&amp;intcmp=TN_E97">Flashlights</a></li>
-            <li><a href="/Category/Office-Equipment/Laminators/_/N-14a&amp;intcmp=TN_C77">Laminators</a></li>
-            <li><a href="/Category/Office-Equipment/Office-Machines/_/N-14e&amp;intcmp=TN_C78">Office Machines</a></li>
-            <li><a href="/Category/Office-Equipment/Paper-Trimmers/_/N-14m&amp;intcmp=TN_C80">Paper Trimmers</a></li>
-            <li><a href="/Category/Office-Equipment/Pencil-Sharpeners/_/N-14j&amp;intcmp=TN_C79">Pencil Sharpeners</a></li>
-            <li><a href="/Category/Office-Equipment/Power-Management/_/N-14p&amp;intcmp=TN_C81">Power Management</a></li>
-            <li><a href="/Category/Office-Equipment/Shredders/_/N-14s&amp;intcmp=TN_C82">Shredders</a></li>
+            <li><a href="/Category/Office-Equipment/Calculators/_/N-147">Calculators</a></li>
+            <li><a href="/Category/Office-Equipment/Flashlights/_/N-1mi">Flashlights</a></li>
+            <li><a href="/Category/Office-Equipment/Laminators/_/N-14a">Laminators</a></li>
+						<li><a href="/Category/Office-Equipment/Mailing/_/N-1m9">Mailing Equipment</a></li>
+            <li><a href="/Category/Office-Equipment/Office-Machines/_/N-14e">Office Machines</a></li>
+            <li><a href="/Category/Office-Equipment/Paper-Trimmers/_/N-14m">Paper Trimmers</a></li>
+            <li><a href="/Category/Office-Equipment/Pencil-Sharpeners/_/N-14j">Pencil Sharpeners</a></li>
+            <li><a href="/Category/Office-Equipment/Power-Management/_/N-14p">Power Management</a></li>
+            <li><a href="/Category/Office-Equipment/Shredders/_/N-14s">Shredders</a></li>
           </ul>
           <div class="temp_block"></div><div class="featured_cat_ad feature_office_equipment"><script>
 if ($(window).width() > 768) {
-	if ( $( "#header" ).is( ".ssl" ) ) {
-	} else {
-		$('#nav_office_equipment').one("hover", function(){
-			// UNCOMMENT TO MAKE ACTIVE $('.feature_office_equipment a').html('<img src="/webprd_demco/html/main_nav/images/office_equipment.jpg" border="0" alt="Office Equipment Featured Ad" />');
-		});
-	}
+	$('#nav_office_equipment').one("hover", function(){
+		$('.feature_office_equipment a').html('<img src="/webprd_demco/html/main_nav/images/office_equipment.jpg" border="0" alt="Office Equipment Featured Ad" />');
+	});
 }
 </script>
 
 <style>
-.sfHover > .featured_cat_ad.feature_office_equipment {display:none  /* change to "block" to show */;visibility:visible;}
+.sfHover > .featured_cat_ad.feature_office_equipment {display:block;visibility:visible;}
 #header.secure .featured_cat_ad {display:none;}
 </style>
 
-<a href="#null&amp;intcmp=NAV_AD_OFFICE_EQUIPMENT"></a></div>
+<a href="/goto?browse&amp;key=nobelus"></a></div>
         </li>
-        <li id="nav_office_supplies"><a href="/Category/Office-Supplies/_/N-14v&amp;intcmp=TN_A14" class="sf-with-ul">Office Supplies</a>
+        <li id="nav_office_supplies"><a href="/Category/Office-Supplies/_/N-14v" class="sf-with-ul">Office Supplies</a>
           <ul style="display: none;">
             <h3>Office Supplies</h3>
-            <li><a href="/Category/Office-Supplies/Batteries/_/N-14w&amp;intcmp=TN_C83">Batteries</a></li>
-            <li><a href="/Category/Office-Supplies/Computer-Accessories/_/N-150&amp;intcmp=TN_C85">Computer Accessories</a></li>
-            <li><a href="/Category/Office-Supplies/Cutting-Tools/_/N-15f&amp;intcmp=TN_C86">Cutting Tools</a></li>
-            <li><a href="/Category/Office-Supplies/Desk-Organization/_/N-15j&amp;intcmp=TN_C87">Desk Organization</a></li>
-            <li><a href="/Category/Office-Supplies/Ergonomic-Products/_/N-15p&amp;intcmp=TN_C88">Ergonomic Products</a></li>
-            <li><a href="/Category/Office-Supplies/File-Organization/_/N-15s&amp;intcmp=TN_C89">File Organization</a></li>
-            <li><a href="/Category/Office-Supplies/General-Supplies/_/N-163&amp;intcmp=TN_C91">General Supplies</a></li>
-            <li><a href="/Category/Office-Supplies/ID-Badges/_/N-1nn&amp;intcmp=TN_F06">ID Badges</a></li>
-            <li><a href="/Category/Office-Supplies/Laminating/_/N-16g&amp;intcmp=TN_C92">Laminating</a></li>
-            <li><a href="/Category/Office-Supplies/Mailing/_/N-16k&amp;intcmp=TN_C93">Mailing</a></li>
-            <li><a href="/Category/Office-Supplies/Office-Paper/_/N-16q&amp;intcmp=TN_C94">Office Paper</a></li>
-            <li><a href="/Category/Office-Supplies/Paper-Punches/_/N-1nk&amp;intcmp=TN_F05">Paper Punches</a></li>
-            <li><a href="/Category/Office-Supplies/Staplers/_/N-1nh&amp;intcmp=TN_F04">Staplers</a></li>
-            <li><a href="/Category/Office-Supplies/Tape/_/N-1np&amp;intcmp=TN_F07">Tape</a></li>
-            <li><a href="/Category/Office-Supplies/Writing/_/N-16z&amp;intcmp=TN_C95">Writing</a></li>
+            <li><a href="/Category/Office-Supplies/Batteries/_/N-14w">Batteries</a></li>
+            <li><a href="/Category/Office-Supplies/Computer-Accessories/_/N-150">Computer Accessories</a></li>
+            <li><a href="/Category/Office-Supplies/Cutting-Tools/_/N-15f">Cutting Tools</a></li>
+            <li><a href="/Category/Office-Supplies/Desk-Organization/_/N-15j">Desk Organization</a></li>
+            <li><a href="/Category/Office-Supplies/Ergonomic-Products/_/N-15p">Ergonomic Products</a></li>
+            <li><a href="/Category/Office-Supplies/File-Organization/_/N-15s">File Organization</a></li>
+            <li><a href="/Category/Office-Supplies/General-Supplies/_/N-163">General Supplies</a></li>
+            <li><a href="/Category/Office-Supplies/ID-Badges/_/N-1nn">ID Badges</a></li>
+            <li><a href="/Category/Office-Supplies/Laminating/_/N-16g">Laminating</a></li>
+            <li><a href="/Category/Office-Supplies/Mailing/_/N-16k">Mailing</a></li>
+            <li><a href="/Category/Office-Supplies/Office-Paper/_/N-16q">Office Paper</a></li>
+            <li><a href="/Category/Office-Supplies/Paper-Punches/_/N-1nk">Paper Punches</a></li>
+            <li><a href="/Category/Office-Supplies/Staplers/_/N-1nh">Staplers</a></li>
+            <li><a href="/Category/Office-Supplies/Tape/_/N-1np">Tape</a></li>
+            <li><a href="/Category/Office-Supplies/Writing/_/N-16z">Writing</a></li>
           </ul>
           <div class="temp_block"></div><div class="featured_cat_ad feature_office_supplies"><script>
 if ($(window).width() > 768) {
-	if ( $( "#header" ).is( ".ssl" ) ) {
-	} else {
-		$('#nav_office_supplies').one("hover", function(){
-			// UNCOMMENT TO MAKE ACTIVE $('.feature_office_supplies a').html('<img src="/webprd_demco/html/main_nav/images/office_supplies.jpg" border="0" alt="Office Supplies Featured Ad" />');
-		});
-	}
+	$('#nav_office_supplies').one("hover", function(){
+		$('.feature_office_supplies a').html('<img src="/webprd_demco/html/main_nav/images/office_supplies.jpg" border="0" alt="Office Supplies Featured Ad" />');
+	});
 }
 </script>
 
 <style>
-.sfHover > .featured_cat_ad.feature_office_supplies {display:none  /* change to "block" to show */;visibility:visible;}
+.sfHover > .featured_cat_ad.feature_office_supplies {display:block;visibility:visible;}
 #header.secure .featured_cat_ad {display:none;}
 </style>
 
-<a href="#null&amp;intcmp=NAV_AD_OFFICE_SUPPLIES"></a></div>
+<a href="/products/Library-Supplies/Tape/Office/Demco-reg-Invisible-Tape/_/A-B00401452"></a></div>
         </li>
-        <li id="nav_presentation"><a href="/Category/Presentation/_/N-176&amp;intcmp=TN_A15" class="sf-with-ul">Presentation</a>
+        <li id="nav_presentation"><a href="/Category/Presentation/_/N-176" class="sf-with-ul">Presentation</a>
           <ul style="display: none;">
             <h3>Presentation</h3>
-            <li><a href="/Category/Presentation/AV-Presentation-Stands/_/N-17y&amp;intcmp=TN_D03">AV Presentation Stands</a></li>
-            <li><a href="/Category/Presentation/Bulletin-Boards/_/N-177&amp;intcmp=TN_C96">Bulletin Boards</a></li>
-            <li><a href="/Category/Presentation/Chalkboards/_/N-17c&amp;intcmp=TN_C97">Chalkboards</a></li>
-            <li><a href="/Category/Presentation/Easels/_/N-17e&amp;intcmp=TN_C98">Easels</a></li>
-            <li><a href="/Category/Presentation/Lecterns/_/N-17h&amp;intcmp=TN_C99">Lecterns</a></li>
-            <li><a href="/Category/Presentation/Markerboards/_/N-17k&amp;intcmp=TN_D01">Markerboards</a></li>
-            <li><a href="/Category/Presentation/Projectors/_/N-17r&amp;intcmp=TN_D02">Projectors</a></li>
-            <li><a href="/Category/Presentation/Screens/_/N-180&amp;intcmp=TN_D04">Screens</a></li>
+            <li><a href="/Category/Presentation/AV-Presentation-Stands/_/N-17y">AV Presentation Stands</a></li>
+            <li><a href="/Category/Presentation/Bulletin-Boards/_/N-177">Bulletin Boards</a></li>
+            <li><a href="/Category/Presentation/Easels/_/N-17e">Easels</a></li>
+            <li><a href="/Category/Presentation/Lecterns/_/N-17h">Lecterns</a></li>
+            <li><a href="/Category/Presentation/Markerboards/_/N-17k">Markerboards</a></li>
+            <li><a href="/Category/Presentation/Projectors/_/N-17r">Projectors</a></li>
+            <li><a href="/Category/Presentation/Screens/_/N-180">Screens</a></li>
           </ul>
           <div class="temp_block"></div><div class="featured_cat_ad feature_presentation"><script>
 if ($(window).width() > 768) {
-	if ( $( "#header" ).is( ".ssl" ) ) {
-	} else {
-		$('#nav_presentation').one("hover", function(){
-			// UNCOMMENT TO MAKE ACTIVE $('.feature_presentation a').html('<img src="/webprd_demco/html/main_nav/images/presentation.jpg" border="0" alt="Presentation Featured Ad" />');
-		});
-	}
+	$('#nav_presentation').one("hover", function(){
+		$('.feature_presentation a').html('<img src="/webprd_demco/html/main_nav/images/presentation.jpg" border="0" alt="Presentation Featured Ad" />');
+	});
 }
 </script>
 
 <style>
-.sfHover > .featured_cat_ad.feature_presentation {display:none  /* change to "block" to show */;visibility:visible;}
+.sfHover > .featured_cat_ad.feature_presentation {display:block;visibility:visible;}
 #header.secure .featured_cat_ad {display:none;}
 </style>
 
-<a href="#null&amp;intcmp=NAV_AD_PRESENTATION"></a></div>
+<a href="/goto?browse&amp;category=D01&amp;key=mobile"></a></div>
         </li>
-        <li id="nav_security"><a href="/Category/Security/_/N-19p&amp;intcmp=TN_A17" class="sf-with-ul">Security</a>
+        <li id="nav_security"><a href="/Category/Security/_/N-19p" class="sf-with-ul">Security</a>
           <ul style="display: none;">
             <h3>Security</h3>
-            <li><a href="/Category/Security/Security-Gates/_/N-1mr&amp;intcmp=TN_E99">Security Gates</a></li>
-            <li><a href="/Category/Security/Security-Strips-Tags/_/N-19q&amp;intcmp=TN_D14">Security Strips &amp; Tags</a></li>
-            <li><a href="/Category/Security/Self-Check-System/_/N-1pp&amp;intcmp=TN_F16">Self-Check System</a></li>
-            <li><a href="/Category/Security/Sensitizing-Equipment/_/N-1l1&amp;intcmp=TN_E92">Sensitizing Equipment</a></li>
-            <li><a href="/Category/Security/Surveillance/_/N-19v&amp;intcmp=TN_D15">Surveillance</a></li>
-            <li><a href="/Category/Security/Traffic-Control/_/N-19y&amp;intcmp=TN_D16">Traffic Control</a></li>
+            <li><a href="/Category/Security/Security-Gates/_/N-1mr">Security Gates</a></li>
+            <li><a href="/Category/Security/Security-Strips-Tags/_/N-19q">Security Strips &amp; Tags</a></li>
+            <li><a href="/Category/Security/Self-Check-System/_/N-1pp">Self-Check System</a></li>
+            <li><a href="/Category/Security/Sensitizing-Equipment/_/N-1l1">Sensitizing Equipment</a></li>
+            <li><a href="/Category/Security/Surveillance/_/N-19v">Surveillance</a></li>
+            <li><a href="/Category/Security/Traffic-Control/_/N-19y">Traffic Control</a></li>
           </ul>
           <div class="temp_block"></div><div class="featured_cat_ad feature_security"><script>
 if ($(window).width() > 768) {
-	if ( $( "#header" ).is( ".ssl" ) ) {
-	} else {
-		$('#nav_security').one("hover", function(){
-			// UNCOMMENT TO MAKE ACTIVE $('.feature_security a').html('<img src="/webprd_demco/html/main_nav/images/security.jpg" border="0" alt="Security Featured Ad" />');
-		});
-	}
+	$('#nav_security').one("hover", function(){
+		$('.feature_security a').html('<img src="/webprd_demco/html/main_nav/images/security.jpg" border="0" alt="Security Featured Ad" />');
+	});
 }
 </script>
 
 <style>
-.sfHover > .featured_cat_ad.feature_security {display:none  /* change to "block" to show */;visibility:visible;}
+.sfHover > .featured_cat_ad.feature_security {display:block;visibility:visible;}
 #header.secure .featured_cat_ad {display:none;}
 </style>
 
-<a href="#null&amp;intcmp=NAV_AD_SECURITY"></a></div>
+<a href="/Category/Security/Security-Strips-Tags/Electromagnetic/_/N-19s"></a></div>
         </li>
-        <li id="nav_shelving"><a href="/Category/Shelving/_/N-1a1&amp;intcmp=TN_A18" class="sf-with-ul">Shelving</a>
+        <li id="nav_shelving"><a href="/Category/Shelving/_/N-1a1" class="sf-with-ul">Shelving</a>
           <ul style="display: none;">
             <h3>Shelving</h3>
-            <li><a href="/Category/Shelving/Display/_/N-1a2&amp;intcmp=TN_D17">Display</a></li>
-            <li><a href="/Category/Shelving/End-of-Range/_/N-1a6&amp;intcmp=TN_D18">End of Range</a></li>
-            <li><a href="/Category/Shelving/Laminate-Melamine/_/N-1a9&amp;intcmp=TN_D19">Laminate/Melamine</a></li>
-            <li><a href="/Category/Shelving/Mobile/_/N-1ac&amp;intcmp=TN_D21">Mobile</a></li>
-            <li><a href="/Category/Shelving/Steel-Cantilever/_/N-1af&amp;intcmp=TN_D22">Steel Cantilever</a></li>
-            <li><a href="/Category/Shelving/Steel-Case-Style/_/N-1al&amp;intcmp=TN_D23">Steel Case Style</a></li>
-            <li><a href="/Category/Shelving/Utility/_/N-1p3&amp;intcmp=TN_F13">Utility</a></li>
-            <li><a href="/Category/Shelving/Wood/_/N-1an&amp;intcmp=TN_D24">Wood</a></li>
-            <li><a href="/Category/Shelving/Wood-Steel/_/N-1at&amp;intcmp=TN_D25">Wood &amp; Steel</a></li>
+            <li><a href="/Category/Shelving/Display/_/N-1a2">Display</a></li>
+            <li><a href="/Category/Shelving/End-of-Range/_/N-1a6">End of Range</a></li>
+            <li><a href="/Category/Shelving/Laminate-Melamine/_/N-1a9">Laminate/Melamine</a></li>
+            <li><a href="/Category/Shelving/Mobile/_/N-1ac">Mobile</a></li>
+            <li><a href="/Category/Shelving/Steel-Cantilever/_/N-1af">Steel Cantilever</a></li>
+            <li><a href="/Category/Shelving/Steel-Case-Style/_/N-1al">Steel Case Style</a></li>
+            <li><a href="/Category/Shelving/Utility/_/N-1p3">Utility</a></li>
+            <li><a href="/Category/Shelving/Wood/_/N-1an">Wood</a></li>
+            <li><a href="/Category/Shelving/Wood-Steel/_/N-1at">Wood &amp; Steel</a></li>
           </ul>
           <div class="temp_block"></div><div class="featured_cat_ad feature_shelving"><script>
 if ($(window).width() > 768) {
-	if ( $( "#header" ).is( ".ssl" ) ) {
-	} else {
-		$('#nav_shelving').one("hover", function(){
-			$('.feature_shelving a').html('<img src="/webprd_demco/html/main_nav/images/shelving.jpg" border="0" alt="Shelving Featured Ad" />');
-		});
-	}
+	$('#nav_shelving').one("hover", function(){
+		$('.feature_shelving a').html('<img src="/webprd_demco/html/main_nav/images/shelving.jpg" border="0" alt="Shelving Featured Ad" />');
+	});
 }
 </script>
 
@@ -1612,29 +1611,26 @@ if ($(window).width() > 768) {
 #header.secure .featured_cat_ad {display:none;}
 </style>
 
-<a href="/goto?COLORSCAPE&amp;intcmp=NAV_AD_SHELVING"></a></div>
+<a href="/goto?COLORSCAPE"></a></div>
         </li>
-        <li id="nav_signage"><a href="/Category/Signage/_/N-1ay&amp;intcmp=TN_A19" class="sf-with-ul">Signage</a>
+        <li id="nav_signage"><a href="/Category/Signage/_/N-1ay" class="sf-with-ul">Signage</a>
           <ul style="display: none;">
             <h3>Signage</h3>
-            <li><a href="/Category/Signage/ADA-Signs/_/N-1az&amp;intcmp=TN_D26">ADA Signs</a></li>
-            <li><a href="/Category/Signage/Digital-Electronic/_/N-1b3&amp;intcmp=TN_D27">Digital &amp; Electronic</a></li>
-            <li><a href="/Category/Signage/Fold-up-Signs/_/N-1p7&amp;intcmp=TN_F14">Fold up Signs</a></li>
-            <li><a href="/Category/Signage/Outdoor-Signs/_/N-1b9&amp;intcmp=TN_D29">Outdoor Signs</a></li>
-            <li><a href="/Category/Signage/Overhead-Signs/_/N-1bf&amp;intcmp=TN_D30">Overhead Signs</a></li>
-            <li><a href="/Category/Signage/Shelf-Signs/_/N-1bn&amp;intcmp=TN_D32">Shelf Signs</a></li>
-            <li><a href="/Category/Signage/Sign-Holders/_/N-1bi&amp;intcmp=TN_D31">Sign Holders</a></li>
-            <li><a href="/Category/Signage/Sign-Letters-Graphics/_/N-1b6&amp;intcmp=TN_D28">Sign Letters &amp; Graphics</a></li>
-            <li><a href="/Category/Signage/Wall-Mounted-Signs/_/N-1bq&amp;intcmp=TN_D33">Wall Mounted Signs</a></li>
+            <li><a href="/Category/Signage/ADA-Signs/_/N-1az">ADA Signs</a></li>
+            <li><a href="/Category/Signage/Digital-Electronic/_/N-1b3">Digital &amp; Electronic</a></li>
+            <li><a href="/Category/Signage/Fold-up-Signs/_/N-1p7">Fold up Signs</a></li>
+            <li><a href="/Category/Signage/Outdoor-Signs/_/N-1b9">Outdoor Signs</a></li>
+            <li><a href="/Category/Signage/Overhead-Signs/_/N-1bf">Overhead Signs</a></li>
+            <li><a href="/Category/Signage/Shelf-Signs/_/N-1bn">Shelf Signs</a></li>
+            <li><a href="/Category/Signage/Sign-Holders/_/N-1bi">Sign Holders</a></li>
+            <li><a href="/Category/Signage/Sign-Letters-Graphics/_/N-1b6">Sign Letters &amp; Graphics</a></li>
+            <li><a href="/Category/Signage/Wall-Mounted-Signs/_/N-1bq">Wall Mounted Signs</a></li>
           </ul>
           <div class="temp_block"></div><div class="featured_cat_ad feature_signage"><script>
 if ($(window).width() > 768) {
-	if ( $( "#header" ).is( ".ssl" ) ) {
-	} else {
-		$('#nav_signage').one("hover", function(){
-			$('.feature_signage a').html('<img src="/webprd_demco/html/main_nav/images/signage.jpg" border="0" alt="Signage Featured Ad" />');
-		});
-	}
+	$('#nav_signage').one("hover", function(){
+		$('.feature_signage a').html('<img src="/webprd_demco/html/main_nav/images/signage.jpg" border="0" alt="Signage Featured Ad" />');
+	});
 }
 </script>
 
@@ -1643,33 +1639,30 @@ if ($(window).width() > 768) {
 #header.secure .featured_cat_ad {display:none;}
 </style>
 
-<a href="/goto?find_your_way&amp;intcmp=NAV_AD_SIGNAGE"></a></div>
+<a href="/goto?find_your_way"></a></div>
         </li>
-        <li id="nav_upstart_promotions"><a href="/Category/Upstart-Promotions/_/N-184&amp;intcmp=TN_A16" class="sf-with-ul">Upstart Promotions</a>
+        <li id="nav_upstart_promotions"><a href="/Category/Upstart-Promotions/_/N-184" class="sf-with-ul">Upstart Promotions</a>
           <ul style="display: none;">
             <h3>Upstart Promotions</h3>
-            <li><a href="/Category/Upstart-Promotions/Book-Bags/_/N-185&amp;intcmp=TN_D05">Book Bags</a></li>
-            <li><a href="/Category/Upstart-Promotions/Bookmarks/_/N-18b&amp;intcmp=TN_D06">Bookmarks</a></li>
-            <li><a href="/Category/Upstart-Promotions/Certificate-Records-Stickers/_/N-18x&amp;intcmp=TN_D09">Certificate, Records, Stickers</a></li>
-            <li><a href="/Category/Upstart-Promotions/Gifts-Apparel/_/N-1kh&amp;intcmp=TN_E90">Gifts &amp; Apparel</a></li>
-            <li><a href="/Category/Upstart-Promotions/Incentives/_/N-1kl&amp;intcmp=TN_E91">Incentives</a></li>
-            <li><a href="/Category/Upstart-Promotions/Posters-Décor/_/N-197&amp;intcmp=TN_D10">Posters &amp; Décor</a></li>
-            <li><a href="/Category/Upstart-Promotions/Reading-Programs/_/N-1q0&amp;intcmp=TN_F19">Reading Programs</a></li>
-            <li><a href="/Category/Upstart-Promotions/UpstartBooks/_/N-1o9&amp;intcmp=TN_F10">UpstartBooks</a></li>
+            <li><a href="/Category/Upstart-Promotions/Book-Bags/_/N-185">Book Bags</a></li>
+            <li><a href="/Category/Upstart-Promotions/Bookmarks/_/N-18b">Bookmarks</a></li>
+            <li><a href="/Category/Upstart-Promotions/Certificate-Records-Stickers/_/N-18x">Certificate, Records, Stickers</a></li>
+            <li><a href="/Category/Upstart-Promotions/Gifts-Apparel/_/N-1kh">Gifts &amp; Apparel</a></li>
+            <li><a href="/Category/Upstart-Promotions/Incentives-and-Craft-Kits/_/N-1kl">Incentives &amp; Craft Kits</a></li>
+            <li><a href="/Category/Upstart-Promotions/Posters-Décor/_/N-197">Posters &amp; Décor</a></li>
+            <li><a href="/Category/Upstart-Promotions/Reading-Programs/_/N-1q0">Reading Programs</a></li>
+            <li><a href="/Category/Upstart-Promotions/UpstartBooks/_/N-1o9">UpstartBooks</a></li>
             <hr>
-            <li><a href="/goto?upstart_theme&amp;intcmp=TN_UP_SHOPTHEME">Shop by Theme</a></li>
-            <li><a href="/goto?browse&amp;new=new&amp;category=A16&amp;intcmp=TN_UP_NEW">New Products</a></li>
+            <li><a href="/goto?upstart_theme">Shop by Theme</a></li>
+            <li><a href="/goto?browse&amp;new=new&amp;category=A16">New Products</a></li>
             <li><a href="http://ideas.demco.com/trends-topics/reader-engagement/upstart-activity-guides/" target="_blank">Activity Guides</a></li>
 
           </ul>
           <div class="temp_block"></div><div class="featured_cat_ad feature_upstart_promotions"><script>
 if ($(window).width() > 768) {
-	if ( $( "#header" ).is( ".ssl" ) ) {
-	} else {
-		$('#nav_upstart_promotions').one("hover", function(){
-			$('.feature_upstart_promotions a').html('<img src="/webprd_demco/html/main_nav/images/upstart.jpg" border="0" alt="Upstart Promotions Featured Ad" />');
-		});
-	}
+	$('#nav_upstart_promotions').one("hover", function(){
+		$('.feature_upstart_promotions a').html('<img src="/webprd_demco/html/main_nav/images/upstart.jpg" border="0" alt="Upstart Promotions Featured Ad" />');
+	});
 }
 </script>
 
@@ -1678,26 +1671,26 @@ if ($(window).width() > 768) {
 #header.secure .featured_cat_ad {display:none;}
 </style>
 
-<a href="/goto?browse&amp;new=new&amp;category=A16&amp;intcmp=NAV_AD_UPSTART"></a></div>
+<a href="/goto?browse&amp;new=new&amp;category=A16"></a></div>
         </li>
       </ul>
     </li>
-    <li class="has_sub" id="nav_shop_by_space"><a href="#null&amp;intcmp=TNS_SHOP_BY_SPACE" class="sf-with-ul">Shop by Space</a>
+    <li class="has_sub" id="nav_shop_by_space"><a href="#null" class="sf-with-ul">Shop by Space</a>
       <ul style="display: none;">
-        <li><a href="/goto?collabspaces&amp;intcmp=TNS_collab">Collaborative</a></li>
-        <li><a href="/goto?Makerspace&amp;intcmp=TNS_maker">Makerspaces</a></li>
-        <li><a href="/goto?child_new&amp;intcmp=TNS_kids">Kids</a></li>
-        <li><a href="/goto?child_sp_teen2&amp;intcmp=TNS_teen">Teen</a></li>
-        <li><a href="/goto?ACADEMIC&amp;intcmp=TNS_4HigherEd" class="no_arrow">Higher Education</a></li>
+        <li><a href="/goto?collabspaces">Collaborative</a></li>
+        <li><a href="/goto?Makerspace">Makerspaces</a></li>
+        <li><a href="/goto?child_new">Kids</a></li>
+        <li><a href="/goto?child_sp_teen2">Teen</a></li>
+        <li><a href="/goto?ACADEMIC" class="no_arrow">Higher Education</a></li>
+        <li><a href="/goto?learningcommons">Learning Commons</a></li>
+        <hr>
+        <li><a href="/goto?vr_tours">Virtual Reality Tours</a></li>
       </ul>
       <div class="temp_block"></div><div class="featured_cat_ad feature_shop_by_space"><script>
 if ($(window).width() > 768) {
-	if ( $( "#header" ).is( ".ssl" ) ) {
-	} else {
-		$('#nav_shop_by_space').one("hover", function(){
-			$('.feature_shop_by_space a').html('<img src="/webprd_demco/html/main_nav/images/shop_by_space.jpg" border="0" alt="Shop by Space Featured Ad" />');
-		});
-	}
+	$('#nav_shop_by_space').one("hover", function(){
+		$('.feature_shop_by_space a').html('<img src="/webprd_demco/html/main_nav/images/shop_by_space.jpg" border="0" alt="Shop by Space Featured Ad" />');
+	});
 }
 </script>
 
@@ -1706,28 +1699,29 @@ if ($(window).width() > 768) {
 #header.secure .featured_cat_ad {display:none;}
 </style>
 
-<a href="/goto?projectservices&amp;intcmp=NAV_AD_SHOPSPACE"></a></div>
+<a href="/goto?projectservices"></a></div>
     </li>
-    <li><a href="/goto?HSPWEB_SPECIALS&amp;intcmp=TNS_ON_SALE">On Sale</a></li>
-    <li><a href="/goto?NEW_LANDINGPAGE&amp;intcmp=TNS_NEW_PRODUCTS">New</a></li>
-    <li><a href="/goto?CLEARANCE10&amp;intcmp=TNS_CLEARANCE_CENTER">Clearance</a></li>
-    <li class="has_sub"><a href="/Category/Upstart-Promotions/_/N-184&amp;intcmp=up-nav" class="sf-with-ul">Upstart</a>
+    <li><a href="/goto?HSPWEB_SPECIALS">On Sale</a></li>
+    <li><a href="/goto?NEW_LANDINGPAGE">New</a></li>
+    <li><a href="/goto?CLEARANCE10">Clearance</a></li>
+    <li class="has_sub"><a href="/Category/Upstart-Promotions/_/N-184" class="sf-with-ul">Upstart</a>
       <ul class="upstart_main_nav_sub" style="display: none;">
-        <li><a href="/Category/Upstart-Promotions/Book-Bags/_/N-185&amp;intcmp=up-nav-bookbags">Book Bags</a></li>
-        <li><a href="/Category/Upstart-Promotions/Bookmarks/_/N-18b&amp;intcmp=up-nav-bookmarks">Bookmarks</a></li>
-        <li><a href="/Category/Upstart-Promotions/Certificate-Records-Stickers/_/N-18x&amp;intcmp=up-nav-certificates">Certificate, Records, Stickers</a></li>
-        <li><a href="/Category/Upstart-Promotions/Gifts/_/N-1kh&amp;intcmp=up-nav-gifts">Gifts &amp; Apparel</a></li>
-        <li><a href="/Category/Upstart-Promotions/Incentives/_/N-1kl&amp;intcmp=up-nav-incentives">Incentives</a></li>
-        <li><a href="/Category/Upstart-Promotions/Posters-Décor/_/N-197&amp;intcmp=up-nav-posters">Posters &amp; Décor</a></li>
-        <li><a href="/Category/Upstart-Promotions/Reading-Programs/_/N-1q0&amp;intcmp=up-nav-readingprogram">Reading Programs</a></li>
-        <li><a href="/Category/Upstart-Promotions/UpstartBooks/_/N-1o9&amp;intcmp=up-nav-upstartbooks">UpstartBooks</a></li>
+        <li><a href="/Category/Upstart-Promotions/Book-Bags/_/N-185">Book Bags</a></li>
+        <li><a href="/Category/Upstart-Promotions/Bookmarks/_/N-18b">Bookmarks</a></li>
+        <li><a href="/Category/Upstart-Promotions/Certificate-Records-Stickers/_/N-18x">Certificate, Records, Stickers</a></li>
+        <li><a href="/Category/Upstart-Promotions/Gifts/_/N-1kh">Gifts &amp; Apparel</a></li>
+        <li><a href="/Category/Upstart-Promotions/Incentives-and-Craft-Kits/_/N-1kl">Incentives &amp; Craft Kits</a></li>
+        <li><a href="/Category/Upstart-Promotions/Posters-Décor/_/N-197">Posters &amp; Décor</a></li>
+        <li><a href="/Category/Upstart-Promotions/Reading-Programs/_/N-1q0">Reading Programs</a></li>
+        <li><a href="/Category/Upstart-Promotions/UpstartBooks/_/N-1o9">UpstartBooks</a></li>
         <hr>
-        <li><a href="/goto?upstart_theme&amp;intcmp=UP-NAV-SHOPTHEME">Shop by Theme</a></li>
-        <li><a href="/goto?browse&amp;new=new&amp;category=A16&amp;intcmp=UP-NAV-NEW">New Products</a></li>
+        <li><a href="/goto?upstart_theme">Shop by Theme</a></li>
+        <li><a href="/goto?browse&amp;new=new&amp;category=A16">New Products</a></li>
         <li><a href="http://ideas.demco.com/trends-topics/reader-engagement/upstart-activity-guides/" target="_blank">Activity Guides</a></li>
       </ul>
     </li>
     <li class="main_nav_ideas"><a href="http://ideas.demco.com/" target="_blank"><span style="display:inline-block;margin-right:6px;vertical-align: middle;"><img src="/webprd_demco/images2/site_elements/ideas_icon_small1.png" width="21" height="19" border="0"></span>Ideas &amp; Inspiration</a></li>
+
   </ul>
 </div>
 <!-- END NAV BAR-->
@@ -1736,6 +1730,7 @@ if ($(window).width() > 768) {
 	</div>
 	<div id="nav_body_overlay" class=""></div>
 </div>
+
 
  <div id="body_content">
   <div id="mc_container">
@@ -1837,7 +1832,7 @@ if ($(window).width() > 768) {
 
 
 
-<li><strong><a href="http://www.demco.com/goto?PNHA01&amp;intcmp=LN_A01">Archival</a></strong></li>
+<li><strong><a href="goto?PNHA01&amp;intcmp=LN_A01">Archival</a></strong></li>
 
 
 
@@ -1914,7 +1909,7 @@ if ($(window).width() > 768) {
 
 
 
-<li><strong><a href="http://www.demco.com/goto?PNHA02&amp;intcmp=LN_A02">Arts &amp; Crafts</a></strong></li>
+<li><strong><a href="goto?PNHA02&amp;intcmp=LN_A02">Arts &amp; Crafts</a></strong></li>
 
 
 
@@ -1991,7 +1986,7 @@ if ($(window).width() > 768) {
 
 
 
-<li><strong><a href="http://www.demco.com/goto?PNHA03&amp;intcmp=LN_A03">Audio Visual</a></strong></li>
+<li><strong><a href="goto?PNHA03&amp;intcmp=LN_A03">Audio Visual</a></strong></li>
 
 
 
@@ -2068,7 +2063,7 @@ if ($(window).width() > 768) {
 
 
 
-<li><strong><a href="http://www.demco.com/goto?PNHA04&amp;intcmp=LN_A04">Books</a></strong></li>
+<li><strong><a href="goto?PNHA04&amp;intcmp=LN_A04">Books</a></strong></li>
 
 
 
@@ -2145,7 +2140,7 @@ if ($(window).width() > 768) {
 
 
 
-<li><strong><a href="http://www.demco.com/goto?PNHA05&amp;intcmp=LN_A05">Carpets</a></strong></li>
+<li><strong><a href="goto?PNHA05&amp;intcmp=LN_A05">Carpets</a></strong></li>
 
 
 
@@ -2222,7 +2217,7 @@ if ($(window).width() > 768) {
 
 
 
-<li><strong><a href="http://www.demco.com/goto?PNHA06&amp;intcmp=LN_A06">Carts &amp; Booktrucks</a></strong></li>
+<li><strong><a href="goto?PNHA06&amp;intcmp=LN_A06">Carts &amp; Booktrucks</a></strong></li>
 
 
 
@@ -2489,7 +2484,7 @@ if ($(window).width() > 768) {
 
 
 
-<li><strong><a href="http://www.demco.com/goto?PNHA07&amp;intcmp=LN_A07">Creative Play</a></strong></li>
+<li><strong><a href="goto?PNHA07&amp;intcmp=LN_A07">Creative Play</a></strong></li>
 
 
 
@@ -2566,7 +2561,7 @@ if ($(window).width() > 768) {
 
 
 
-<li><strong><a href="http://www.demco.com/goto?PNHA20&amp;intcmp=LN_A20">Educational Resources</a></strong></li>
+<li><strong><a href="goto?PNHA20&amp;intcmp=LN_A20">Educational Resources</a></strong></li>
 
 
 
@@ -2643,7 +2638,7 @@ if ($(window).width() > 768) {
 
 
 
-<li><strong><a href="http://www.demco.com/goto?PNHA09&amp;intcmp=LN_A09">Facilities Management</a></strong></li>
+<li><strong><a href="goto?PNHA09&amp;intcmp=LN_A09">Facilities Management</a></strong></li>
 
 
 
@@ -2720,7 +2715,7 @@ if ($(window).width() > 768) {
 
 
 
-<li><strong><a href="http://www.demco.com/goto?PNHA10&amp;intcmp=LN_A10">Decor</a></strong></li>
+<li><strong><a href="goto?PNHA10&amp;intcmp=LN_A10">Decor</a></strong></li>
 
 
 
@@ -2797,7 +2792,7 @@ if ($(window).width() > 768) {
 
 
 
-<li><strong><a href="http://www.demco.com/goto?PNHA11&amp;intcmp=LN_A11">Furniture</a></strong></li>
+<li><strong><a href="goto?PNHA11&amp;intcmp=LN_A11">Furniture</a></strong></li>
 
 
 
@@ -3140,7 +3135,7 @@ if ($(window).width() > 768) {
 
 
 
-<li><strong><a href="http://www.demco.com/goto?PNHA12&amp;intcmp=LN_A12">Library Supplies</a></strong></li>
+<li><strong><a href="goto?PNHA12&amp;intcmp=LN_A12">Library Supplies</a></strong></li>
 
 
 
@@ -3483,7 +3478,7 @@ if ($(window).width() > 768) {
 
 
 
-<li><strong><a href="http://www.demco.com/goto?PNHA13&amp;intcmp=LN_A13">Office Equipment</a></strong></li>
+<li><strong><a href="goto?PNHA13&amp;intcmp=LN_A13">Office Equipment</a></strong></li>
 
 
 
@@ -3560,7 +3555,7 @@ if ($(window).width() > 768) {
 
 
 
-<li><strong><a href="http://www.demco.com/goto?PNHA14&amp;intcmp=LN_A14">Office Supplies</a></strong></li>
+<li><strong><a href="goto?PNHA14&amp;intcmp=LN_A14">Office Supplies</a></strong></li>
 
 
 
@@ -3637,7 +3632,7 @@ if ($(window).width() > 768) {
 
 
 
-<li><strong><a href="http://www.demco.com/goto?PNHA15&amp;intcmp=LN_A15">Presentation</a></strong></li>
+<li><strong><a href="goto?PNHA15&amp;intcmp=LN_A15">Presentation</a></strong></li>
 
 
 
@@ -3714,7 +3709,7 @@ if ($(window).width() > 768) {
 
 
 
-<li><strong><a href="http://www.demco.com/goto?PNHA17&amp;intcmp=LN_A17">Security</a></strong></li>
+<li><strong><a href="goto?PNHA17&amp;intcmp=LN_A17">Security</a></strong></li>
 
 
 
@@ -3791,7 +3786,7 @@ if ($(window).width() > 768) {
 
 
 
-<li><strong><a href="http://www.demco.com/goto?PNHA18&amp;intcmp=LN_A18">Shelving</a></strong></li>
+<li><strong><a href="goto?PNHA18&amp;intcmp=LN_A18">Shelving</a></strong></li>
 
 
 
@@ -3868,7 +3863,7 @@ if ($(window).width() > 768) {
 
 
 
-<li><strong><a href="http://www.demco.com/goto?PNHA19&amp;intcmp=LN_A19">Signage</a></strong></li>
+<li><strong><a href="goto?PNHA19&amp;intcmp=LN_A19">Signage</a></strong></li>
 
 
 
@@ -3945,7 +3940,7 @@ if ($(window).width() > 768) {
 
 
 
-<li><strong><a href="http://www.demco.com/goto?PNHA16&amp;intcmp=LN_A16">Upstart Promotions</a></strong></li>
+<li><strong><a href="goto?PNHA16&amp;intcmp=LN_A16">Upstart Promotions</a></strong></li>
 
 
 
@@ -4458,13 +4453,14 @@ This website is not directed toward children under 13 years of age and we do not
 
 
 <div class="rc_ban_container">
-	<div class="banner_content" style="position:relative;">
-    <h3>30% SAVINGS!<br>
-	  <a href="/products/Library-Supplies/Book-Protection/Book-Jacket-Covers/Demco-reg-Paperfold-trade-Book-Jacket-Covers-on-Rolls/_/A-B00166674&amp;intcmp=RC1_Oct17_Paperfold"><img src="/webprd_demco/endeca/banners/right/images/rc_17oct_paperfold.jpg" alt="30% Savings" width="146" height="165" border="0"></a></h3>
-<p>Save now on librarians’ favorite adjustable book jacket covers!</p>
-      <p class="link"><a href="/products/Library-Supplies/Book-Protection/Book-Jacket-Covers/Demco-reg-Paperfold-trade-Book-Jacket-Covers-on-Rolls/_/A-B00166674&amp;intcmp=RC1_Oct17_Paperfold">Shop Now</a></p>
+  <div class="banner_content" style="position:relative;">
+    <h3>PRICES REDUCED<br>
+	  <a href="/goto?reduced_prices"><img src="/webprd_demco/endeca/banners/right/images/BOOK-&amp;-MAG-SO.jpg" alt="Prices Reduced" width="146" height="150" border="0"></a></h3>
+<p>Stock up and save on hundreds of your library favorites!</p>
+    <p class="link"><a href="/goto?reduced_prices">Shop Now</a></p>
   </div>
 </div>
+
 
 
 
@@ -4479,10 +4475,10 @@ This website is not directed toward children under 13 years of age and we do not
 
 <div class="rc_ban_container">
 	<div class="banner_content" style="position:relative;">
-    <h3>BUY 18, GET 6 FREE<br>
-	  <a href="/products/Library-Supplies/Shelf-Organization/Steel-Book-Supports/Demco-reg-Titan-trade-Steel-Book-Supports/_/A-B00168180&amp;intcmp=RC1_Oct17_BOGOBookSupports"><img src="/webprd_demco/endeca/banners/right/images/rc_17oct_bogo_book_supports.jpg" alt="Buy 18, Get 6 FREE Book Supports" width="146" height="165" border="0"></a></h3>
-<p>Buy ANY 18, get 6 oversized black, cork-base book supports FREE with Promo Code WB2769.</p>
-      <p class="link"><a href="/products/Library-Supplies/Shelf-Organization/Steel-Book-Supports/Demco-reg-Titan-trade-Steel-Book-Supports/_/A-B00168180&amp;intcmp=RC1_Oct17_BOGOBookSupports">Shop Now</a></p>
+    <h3>WHAT’S NEW?<br>
+	  <a href="/goto?NEW_LANDINGPAGE&amp;intcmp=RC1_Mar19_New_Products"><img src="/webprd_demco/endeca/banners/right/images/rc_17nov_new_products_green.jpg" alt="New Products" width="146" height="122" border="0"></a></h3>
+<p>For engaging spaces, active learning, charging solutions and more!</p>
+      <p class="link"><a href="/goto?NEW_LANDINGPAGE&amp;intcmp=RC1_Mar19_New_Products">Shop Now</a></p>
   </div>
 </div>
 
@@ -4494,31 +4490,13 @@ This website is not directed toward children under 13 years of age and we do not
 
 
 
-
-<style>
-
-.on_sale .right_col_ban_content p.link a {
-    color: #DF0F0F;
-    text-decoration: none;
-}
-
-.on_sale .right_col_ban_content a {
-    color: #DF0F0F;
-    text-decoration: none;
-}
-
-
-</style>
-
-
-
 <div class="right_col_ban_container on_sale">
 	<div class="right_col_ban_content">
-		<h4><a href="/goto?HSPWEB_SPECIALS&amp;intcmp=RCB_Onsale">SALE!</a></h4>
+		<h4>SALE!</h4>
 		<div class="percentage_container">
-			<div class="upto"><a href="/goto?HSPWEB_SPECIALS&amp;intcmp=RCB_Onsale">UP<br>TO</a></div>
-			<div class="percent"><a href="/goto?HSPWEB_SPECIALS&amp;intcmp=RCB_Onsale">30</a></div>
-			<div class="percent_off"><a href="/goto?HSPWEB_SPECIALS&amp;intcmp=RCB_Onsale">%<br>OFF</a></div>
+			<div class="upto">UP<br>TO</div>
+			<div class="percent">50</div>
+			<div class="percent_off">%<br>OFF</div>
 		</div>
 	  <p class="copy">Check out this month's amazing deals before they're gone!</p>
 		<p class="link"><a href="/goto?HSPWEB_SPECIALS&amp;intcmp=RCB_Onsale">SHOP NOW</a></p>
@@ -4594,20 +4572,77 @@ This website is not directed toward children under 13 years of age and we do not
 
 	<div class="clear"></div>
 
-	<div class="row family_brands">
-		<div class="center945">
-			<h2>Discover the Demco Family of Brands!</h2>
-			<div class="center945">
-				<div class="brand_container first"><a href="/goto?DEMCOINC&amp;intcmp=BB_Demco"><img src="/webprd_demco/images2/site_elements/brand_logos_footer/fb-demco1.png" alt="Demco" border="0"></a></div>
-				<div class="brand_container"><a href="http://demcosoftware.com/?utm_source=Demco&amp;utm_medium=Brands-Banner&amp;utm_campaign=DemcoSoftware" target="_blank"><img src="/webprd_demco/images2/site_elements/brand_logos_footer/fb-demco-software1.png" alt="Demco Software" border="0"></a></div>
-				<div class="brand_container"><a href="http://demcointeriors.com/?utm_source=Demco&amp;utm_medium=Brands-Banner&amp;utm_campaign=DemcoInteriors" target="_blank"><img src="/webprd_demco/images2/site_elements/brand_logos_footer/fb-di1.png" alt="DEMCO Interiors" border="0"></a></div>
-				<div class="brand_container"><a href="/Category/Upstart-Promotions/_/N-184&amp;intcmp=BB_Upstart"><img src="/webprd_demco/images2/site_elements/brand_logos_footer/fb-upstart1.png" alt="Upstart" border="0"></a></div>
+	<link href="https://fonts.googleapis.com/css?family=Roboto+Condensed:700" rel="stylesheet">
+<style>
+	.homepage .row.ideas_banner.shadow.grid2 {margin-top:32px !important;}
+	.homepage #footer_double_banner {margin-top:0px !important;}
+	#footer_double_banner {width:100%;display:block;clear:both;margin:32px 0px 0px 0px !important;padding:32px 0px !important;font-size:0px;text-align:center;border-top: solid 4px #ffcc00;}
+		#footer_double_banner .center945 {display:inline-block !important;clear:both;}
+		#footer_double_banner .column {display:inline-block;width:48.5%;border-right:none !important;box-sizing: border-box;-moz-box-sizing: border-box;-webkit-box-sizing: border-box;border-bottom:solid 4px #d8d8d8;background:#f2f2f2;padding:16px;vertical-align:top;}
+			#footer_double_banner .column.first {margin-right:3%;}
+			#footer_double_banner .content {font:normal 13px/17px Arial, Helvetica, sans-serif;display:inline-block;width:65%;text-align:left;box-sizing: border-box;-moz-box-sizing: border-box;-webkit-box-sizing: border-box;vertical-align:top;}
+				#footer_double_banner .content h3,
+				#footer_double_banner .content h3 a {font:700 24px/28px 'Roboto Condensed', sans-serif !important;margin:0px !important;text-align:left;}
+					#footer_double_banner .content.upstart h3,
+					#footer_double_banner .content.upstart h3 a {color:#ef3e42 !important;text-decoration:none;}
+					#footer_double_banner .content.di h3,
+					#footer_double_banner .content.di h3 a {color:#e3701e !important;text-decoration:none;}
+				#footer_double_banner .content p {margin:0px 0px 12px 0px;}
+					#footer_double_banner .content p a {font:normal 15px/20px Arial, Helvetica, sans-serif;color:#333333;margin:0px;text-decoration:none;}
+			#footer_double_banner .image {display:inline-block;width:32%;box-sizing: border-box;-moz-box-sizing: border-box;-webkit-box-sizing: border-box;margin:0%;vertical-align:top;text-align:center;margin-right:3%;}
+	#footer .footer_end .center_container_996 {border:none !important;}
+
+@media screen 
+and (max-width: 945px)
+and (min-width: 769px) {
+	#footer_double_banner .column {min-height:144px;}
+}
+
+@media screen 
+and (max-width: 768px)
+and (min-width: 481px) {
+	#footer_double_banner .column {min-height:244px;}
+		#footer_double_banner .image {display:block;max-width:60%;width:100%;margin:0px auto 16px auto;}
+		#footer_double_banner .content {display:block;width:100%;text-align:center;}
+}
+
+@media screen 
+and (max-width: 480px)
+and (min-width: 321px) {
+	#footer_double_banner .column {display:block;clear:both;margin:0px 0px 24px 0px;width:100%;}
+}
+
+@media screen 
+and (max-width: 320px)
+and (min-width: 120px) {
+	#footer_double_banner .column {display:block;clear:both;margin:0px 0px 24px 0px;width:100%;}
+		#footer_double_banner .image {display:block;max-width:60%;width:100%;margin:0px auto 16px auto;}
+		#footer_double_banner .content {display:block;width:100%;text-align:center;}
+}
+</style>
+
+<div id="footer_double_banner">
+	<div class="center945">
+		<div class="column first">
+			<div class="image"><a href="/Category/Upstart-Promotions/_/N-184"><img src="/webprd_demco/images2/site_elements/footer/upstart_footer_banner1.png" alt="Upstart"></a></div>
+			<div class="content upstart">
+				<h3><a href="/Category/Upstart-Promotions/_/N-184">Library Promotions &amp; Gifts</a></h3>
+				<p><a href="/Category/Upstart-Promotions/_/N-184">Posters, bookmarks, incentives, and teaching resources.</a></p>
 			</div>
-		<div class="clear"></div>
+		</div>
+		<div class="column last">
+			<div class="image"><a href="/goto?projectservices"><img src="/webprd_demco/images2/site_elements/footer/di_footer_banner1.png" alt="Demco Interiors"></a></div>
+			<div class="content di">
+				<h3><a href="/goto?projectservices">Your Design Partner</a></h3>
+				<p><a href="/goto?projectservices">Creating beautiful, fully functional library &amp; school spaces.</a></p>
+			</div>
 		</div>
 	</div>
+</div>
 
-		  <div id="footer">
+	<div class="clear"></div>
+
+	  <div id="footer">
       <div class="center_container_996">
 	<div id="footer_bottom">
 
@@ -4686,13 +4721,13 @@ spam, viruses and online scams" oncontextmenu="alert('Copying Prohibited by Law 
 			<div id="footer_links">
 				<div class="column">
 					<h3>Customer Info</h3>
-						<p><a href="/goto?myaccount&amp;intcmp=FA_MY_ACCOUNT">My Account</a><br>
+						<p><a href="/goto?myaccount">My Account</a><br>
             <a href="JavaScript:HandlePageTrk('ORDHIST', 'LWDHWEB20', 'LWDH215', 'FA_ORDER_TRACKING')">Order Tracking</a><br>
-            <a href="/goto?changeaddress&amp;intcmp=FA_CHANGE_ADDRESS">Address Change</a><br>
-            <a href="/goto?easyreorder&amp;intcmp=FA_EASY_REORDER">Easy Reorder</a><br>
-            <a href="/goto?mylists&amp;intcmp=FA_MY_LISTS">My Lists</a>
+            <a href="/goto?changeaddress">Address Change</a><br>
+            <a href="/goto?easyreorder">Easy Reorder</a><br>
+            <a href="/goto?mylists">My Lists</a>
 	<br>
-            <a href="javascript:ReloadPage('http://www.demco.com', 'SIGNINLINK', 'LWDHWEB23', 'LWDH330','')">Sign In</a>
+            <a href="javascript:ReloadPage('https://www.demco.com', 'SIGNINLINK', 'LWDHWEB23', 'LWDH330','')">Sign In</a>
 
 
 	</p>
@@ -4700,41 +4735,48 @@ spam, viruses and online scams" oncontextmenu="alert('Copying Prohibited by Law 
 				<div class="column">
 					<h3>Company Info</h3>
 					<p><a href="/goto?DEMCOINC">About Demco, Inc.</a><br>
-            <a href="/goto?HSPTESTIMONIALS&amp;intcmp=FB_TESTIMONIALS">Testimonials</a><br>
-            <a href="/goto?HSPABOUT_DEMCO&amp;intcmp=FB_DEMCO_STORY">The Demco Story</a><br>
-            <a href="/goto?jobs&amp;intcmp=FB_JOBS">Jobs</a></p>
+            <a href="/goto?HSPABOUT_DEMCO">The Demco Story</a><br>
+            <a href="/goto?jobs">Jobs</a></p>
 				</div>
 				<div class="column">
 					<h3>Services</h3>
-					<p><a href="/goto?CATALOG&amp;intcmp=FC_FREE_CATALOG">FREE Catalog</a><br>
-            <a href="/goto?HSPBIDSQUOTES&amp;intcmp=FC_BIDS_QUOTES">Bids &amp; Quotes</a><br>
-            <a href="/goto?QUICKORDER&amp;intcmp=FC_QUICK_ORDER">Catalog Quick Order</a><br>
-            <a href="/goto?GRANTS&amp;intcmp=FC_GRANTS">FREE Grant Search</a><br>
-            <a href="http://www.demcointeriors.com" target="_blank">DEMCO Interiors</a><br>
-	<a href="/goto?SOLUTIONCENTER&amp;intcmp=FC_SOLUTIONCENTER">Resource Center</a><br>
+					<p><a href="/goto?CATALOG">FREE Catalog</a><br>
+            <a href="/goto?HSPBIDSQUOTES">Bids &amp; Quotes</a><br>
+            <a href="/goto?QUICKORDER">Catalog Quick Order</a><br>
+            <a href="/goto?GRANTS">FREE Grant Search</a><br>
+            <a href="http://www.demcointeriors.com" target="_blank">Demco Interiors</a><br>
+	<a href="/goto?SOLUTIONCENTER">Resource Center</a><br>
 	<a href="http://ideas.demco.com/blog/" target="_blank">Blog</a><br>
 	<a href="http://ideas.demco.com/webinars/" target="_blank">Webinars</a></p>
 				</div>
 				<div class="column no-border">
 					<h3>Help</h3>
-					<p><a href="/goto?HELP&amp;intcmp=FD_HELP">Customer Service</a><br>
-            <a href="/goto?orderform&amp;intcmp=FD_ORDER_FORM">Demco Order Form</a><br>
-            <a href="/goto?HSPSHIPPING&amp;intcmp=FD_SHIPPING_INFO">Shipping Information</a><br>
-	<a href="/goto?HSPHLP_SNP_RETURNS&amp;intcmp=FB_RETURNS">Returns &amp; Exchanges</a><br>
+					<p><a href="/goto?HELP">Customer Service</a><br>
+            <a href="/goto?orderform">Demco Order Form</a><br>
+            <a href="/goto?HSPSHIPPING">Shipping Information</a><br>
+	<a href="/goto?HSPHLP_SNP_RETURNS">Returns &amp; Exchanges</a><br>
              <a href="/goto?HSPFAQS&amp;LAUFAQS">FAQs</a><br>
             <a href="/goto?msds">MSDS</a><br>
-            <a href="/goto?HSPNEW_SITE_FEEDBACK&amp;intcmp=FD_SITE_FEEDBACK">New Site Feedback</a><br>
-            <a href="/goto?INTERNATIONAL&amp;intcmp=FD_INTERNATIONAL">International</a><br>
-            <a href="/goto?federalgov&amp;intcmp=FD_federalgov">Federal Government</a><br>
-            <a href="/goto?CONTACTUS&amp;intcmp=FD_CONTACT_US">Contact Us</a><br>
+            <a href="/goto?INTERNATIONAL">International</a><br>
+            <a href="/goto?federalgov">Federal Government</a><br>
+            <a href="/goto?CONTACTUS">Contact Us</a><br>
             <a href="/webprd_demco/html/main_body/help/images/transition_faqs/w9_data_sheet.pdf">Demco's W-9 Form</a></p>
 				</div>
 			</div>
 		</div>
+
+	<div id="footer_solutions">
+		<div class="solution"><img src="/webprd_demco/images2/site_elements/footer/solutions/supplies.jpg" alt="Demco Supplies"></div>
+		<div class="solution"><img src="/webprd_demco/images2/site_elements/footer/solutions/equipment.jpg" alt="Demco Equipment"></div>
+		<div class="solution"><img src="/webprd_demco/images2/site_elements/footer/solutions/furniture.jpg" alt="Demco Furniture"></div>
+		<div class="solution"><img src="/webprd_demco/images2/site_elements/footer/solutions/learning.jpg" alt="Demco Learning"></div>
+		<div class="solution"><img src="/webprd_demco/images2/site_elements/footer/solutions/software.jpg" alt="Demco Software"></div>
+	</div>
+
 	</div>
 		<div class="footer_end">
 			<div class="center_container_996">
-				<div class="footer_addy">©&nbsp;2017&nbsp;Demco, Inc.&nbsp;&nbsp;|&nbsp;&nbsp;<a href="/goto?HSPSECURITY_PRIVACY">Privacy
+				<div class="footer_addy">©&nbsp;2019&nbsp;Demco, Inc.&nbsp;&nbsp;|&nbsp;&nbsp;<a href="/goto?HSPSECURITY_PRIVACY">Privacy
 				Policy</a></div>
 			</div>
 
@@ -4750,12 +4792,12 @@ spam, viruses and online scams" oncontextmenu="alert('Copying Prohibited by Law 
   var google_conversion_value = 0;
  /* ]]> */
 </script>
-<script type="text/javascript" src="http://www.googleadservices.com/pagead/conversion.js" <http:="" www.googleadservices.com="" pagead="" conversion.js=""> >
+<script type="text/javascript" src="https://www.googleadservices.com/pagead/conversion.js" <https:="" www.googleadservices.com="" pagead="" conversion.js=""> >
 </script>
 <noscript>
 <img height="1" width="1" style="border-style:none;" alt=""
-src="http://www.googleadservices.com/pagead/conversion/1032455765/?label=t4HcCKG99gEQ1Yyo7AM&amp;guid=ON&amp;script=0"/
-<http://www.googleadservices.com/pagead/conversion/1032455765/?label=t4HcCKG99gEQ1Yyo7AM&amp;guid=ON&amp;script=0> >
+src="https://www.googleadservices.com/pagead/conversion/1032455765/?label=t4HcCKG99gEQ1Yyo7AM&amp;guid=ON&amp;script=0"/
+<https://www.googleadservices.com/pagead/conversion/1032455765/?label=t4HcCKG99gEQ1Yyo7AM&amp;guid=ON&amp;script=0> >
 </noscript>
 </div>
 <div style="display:block;height:1px !important;float:left;clear:both;overflow:hidden;margin:0px;padding:0px;">
@@ -4818,7 +4860,6 @@ ga('send', 'event', 'Internal Promotions', 'click', intcmp);
 
 
 </div>
-</form></div>
 
 
 
@@ -4831,6 +4872,7 @@ ga('send', 'event', 'Internal Promotions', 'click', intcmp);
 
 
 
+</form>
 
 
 
