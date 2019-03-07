@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the globalsurveygroup.com privacy policy that was archived on 2018-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181212033041id_/http%3A//www.globalsurveygroup.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the globalsurveygroup.com privacy policy that was archived on 2019-03-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190307215704id_/http%3A//www.globalsurveygroup.com/privacy.php) for the most accurate reproduction.*
 
 # Paid Surveys - GlobalSurveyGroup - Online Surveys for Making Money
 
@@ -99,6 +99,6 @@ We may sell, brand or share your personal information that you supply to us with
 
 #### Contact Information:
 
-If you are not in agreement with the terms of this Policy, please unsubscribe from the Global Survey Group [click here](https://web.archive.org/web/20181212033041id_/http%3A//www.globalsurveygroup.com/unsub.php) or write to us at Global Survey Group, 1420 East Roseville Parkway #140-245, Roseville, CA 95661 and request to be removed.
+If you are not in agreement with the terms of this Policy, please unsubscribe from the Global Survey Group [click here](https://web.archive.org/web/20190307215704id_/http%3A//www.globalsurveygroup.com/unsub.php) or write to us at Global Survey Group, 1420 East Roseville Parkway #140-245, Roseville, CA 95661 and request to be removed.
 
-If you feel that Global Survey Group is not abiding by its posted privacy policy, please [click here](https://web.archive.org/web/20181212033041id_/http%3A//www.globalsurveygroup.com/contact.php) or write us at Global Survey Group, 1420 East Roseville Parkway #140-245, Roseville, CA 95661.
+If you feel that Global Survey Group is not abiding by its posted privacy policy, please [click here](https://web.archive.org/web/20190307215704id_/http%3A//www.globalsurveygroup.com/contact.php) or write us at Global Survey Group, 1420 East Roseville Parkway #140-245, Roseville, CA 95661.
