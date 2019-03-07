@@ -1,108 +1,73 @@
-> *The following text is extracted and transformed from the visaeurope.com privacy policy that was archived on 2017-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171102181917id_/https%3A//www.visaeurope.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the visaeurope.com privacy policy that was archived on 2019-03-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190307054149id_/http%3A//www.visaeurope.com/privacy) for the most accurate reproduction.*
 
-# Privacy
+# Privacy Policy
 
-**To learn more about how Visa uses your data for anonymous marketing reports, and to OPT-OUT of this,please click here.**
+Find out more about our commitment to privacy, read our privacy notices, learn about your privacy choices and find answers to common questions.
 
-We at VISA EUROPE want you to have the information you need to make your own decisions about your privacy. This Privacy Policy applies to visaeurope.com, visaeurope.at, visa.de, visa.gr, visaitalia.com, visa.nl, visa.no, visa.pl, visaeurope.es, visa.se, visaeurope.ch and visa.com.tr and affiliated websites owned and managed by VISA Europe (the “Sites”).
+## Our commitment
 
-This Privacy Policy describes the types of personal data we collect at the Sites, how we may use that information, and with whom we may share it. Our Privacy Policy also describes the measures we take to protect the security of the information. We also explain how you can reach us to (i) access, rectify, or delete the data that you have provided, (ii) withdraw any consent that was given to process your personal data, (iii) tell us to refrain from providing you with information about our products and services (iv) answer any questions you may have about our online privacy practices.
+Visa is committed to protecting the privacy and security of your Personal Information. The information you share with Visa allows us to provide you with the best experience using our products and services. We have a dedicated Global Privacy Program that protects all the Personal Information we collect and helps ensure that Personal Information is handled properly worldwide.
 
-## Information we collect and how we use it
+Earning and maintaining trust is core to what we do. Visa is committed to transparency in our privacy practices and we want you to interact with us in conﬁdence. The links below can help you ﬁnd the information you need about how we handle personal information.
 
-You may choose to provide personal data (such as your name, address, telephone number and email address) on this Web site. Here are the ways you may provide the information and the types of information you may submit. We also tell you how we may use the information.
+If you have any other questions, please contact us directly. Our contact information can be found in the “Who can I contact at Visa with privacy questions” section of the “Q+A” section below.
 
-### Information or support requests
+## Your privacy choices
 
-If you wish to obtain information or support from VISA EUROPE you may do so by contacting VISA EUROPE through various email links or information requests on this site. The specific personal data that you must submit will depend upon the information or support that you are requesting. VISA EUROPE will only use your information to contact you and provide the information or support you requested.
+Visa offers you different choices about how we communicate with you and use your information. You can read about your choices in the Global Privacy Notice or use these links to manage your preferences with Visa and some of our third party advertising partners.
 
-### Surveys
+#### Visa Marketing Solutions - Opt Out
 
-We occasionally may ask visitors to our Web site to complete online surveys and opinion polls about their activities, attitudes and interests. If you choose to participate, we use your response to produce survey results and, sometimes, to publish those results in aggregate on the site. We will hold these responses only as anonymous statistics. We will never disclose, sell or rent such information to any third parties. We do not process, use or keep any personal data about you in connection with your participation in a Web site survey unless you specifically agree to provide that information.
+Learn more about and information on opting out of Visa's [Marketing Solutions](https://web.archive.org/privacy/privacy-policy-opt-out).
 
-### Marketing
+#### Adjust Ad Preferences
 
-We will not send you any marketing materials (such as e.g. messages describing updates, new features or promotional offers) unless you have provided your opt-in consent to do so, for example, by registering to receive information about our products and services. You can choose to stop receiving these materials any time. Simply follow the instructions included in the e-mail or send a reply stating your request.
+Our service providers collect information about your use of this website in order to tailor ads that you may see here or on other websites. This tool allows you to opt-out of use of this information for online behavioral advertising through Evidon.
 
-### Cookies and log files
+#### Network Advertising Initiative (NAI)
 
-We use cookie technology as part of our web site’s statistical reporting. A cookie is a small piece of information sent by a web site that is saved on your hard disk by your computer's browser. It holds information a site may need to personalize your experience (i.e., rotating images on the visaeurope.com home page) and to gather web site statistical data, such as which pages are visited, what is downloaded, the Internet provider's domain name and country that our visitors come from (e.g. “aol.com,”) and the addresses of sites visited immediately before, and after, coming to visaeurope.com. The information in the cookies lets us trace your “click stream” activity (i.e., the paths taken by visitors to our site as they move from page to page.
+The [Network Advertising Initiative](http://www.networkadvertising.org/consumer/opt_out.asp) (NAI) opt-out page has information on where you can learn more about tailored online ads and your choices to opt-out.
 
-We also use standard web server log files to help us count visitors and evaluate our site's technical capacity. We use this information to find out how many people visit Visaeurope.com, help us arrange the pages in the most user-friendly way, keep the site browser-friendly and to make our pages more useful to our visitors. We record information on site traffic but not information on individual visitors to our site.
+#### Adobe Marketing Cloud
 
-We use Google Analytics to help us measure the effectiveness of our advertising and how visitors use our Sites.
+We may market to you via “targeted” or “interest-based” providing tailored ads based on your interests and activities online. Privacy choices for [Adobe Marketing Cloud](http://www.adobe.com/privacy/marketing-cloud.html) can be found here.
 
-The “help” portion of the toolbar on most browsers will tell you how to stop accepting new cookies, how to be notified when you receive a new cookie, and how to disable existing cookies. Remember, though, without cookies, you may not be able to take full advantage of all of our Web site features.
+#### Google
 
-## Information we share
+More information about targeted ads from [Google, Google Analytics and opt-out choices](http://www.google.com/policies/privacy/partners/)
 
-We do not sell, rent, trade or otherwise disclose personal data about our Web site visitors, except as described here. We may share information provided by our Web site visitors with service providers we have retained to perform various services on our behalf.
+#### Facebook Cookies and Advertising
 
-These service providers are contractually bound to our privacy principles and are not authorized by us to use or disclose the information except as necessary to perform services or functions for VISA EUROPE or to comply with legal requirements. They are not authorized by VISA EUROPE to use the information for their own marketing purposes.
+More information about [Facebook cookies, advertising and opt-out choices](https://www.facebook.com/about/privacy/)
 
-We may disclose information about you (i) if we are required to do so by law or (ii) in response to a request from law enforcement authorities.
+#### Twitter Cookies and Advertising
 
-We reserve the right to transfer any information we have about you in the event we sell or transfer all or a portion of our business or assets. Should such a sale or transfer occur, we will use reasonable efforts to try to require that the transferee uses personal data you have provided through this Web site in a manner that is consistent with this Privacy Policy. If you do not want the transferee to further process your data in such case you should contact the transferee.
+More information about [Twitter cookies, advertising and options to opt-out](https://twitter.com/privacy)
 
-## Transfers outside Europe
+## Q + A
 
-VISA EUROPE Sites are hosted in the United Kingdom and the United States. We may transfer information submitted by you through the site outside your country or outside the EEA which then may be stored in the United Kingdom and/or the United States. We have taken steps to ensure that our hosting providers, provide the necessary level of protection for your information.
+Find answers to common privacy related questions here.
 
-## Links to other sites
+### Where can I learn more about how Visa collects, uses and shares my data?
 
-Please remember that when you use a link to go from the VISA EUROPE Sites to another web site, the VISA EUROPE Sites privacy policy is no longer in effect. Your browsing and interaction on any other web site, including any site that has a link to VISA EUROPE Sites, is subject to the rules and policies of that site. We encourage you to read the rules and policies of the sites you visit to further understand their procedures for collecting, using and disclosing personal data.
+Every Visa product, service and platform has a privacy notice that gives you information about what personal information is collected and how the personal information is used and disclosed. Look for the “privacy” link at the bottom of each page. Most Visa websites will link to the Visa Global Privacy Notice but some platforms do have their own privacy notice.
 
-## Security
+### I want to understand how other companies use my personal information, such as Visa card-issuers and promotion partners. Where can I find the relevant privacy notice?
 
-The security of personal data is important to us. We maintain appropriate administrative, technical and physical safeguards to protect personal data against accidental or unlawful destruction, accidental loss, alteration, unauthorized disclosure or access, use, and all other unlawful forms of processing of the personal data in our possession.
+Visa’s privacy notices only address the use and disclosure of information by Visa Inc. and its Affiliates. Please contact the financial institution or other entity that has issued your Visa card to learn about its privacy practices. Additionally, if you are participating in a promotion or offer with a third party (such as a merchant or travel partner), please read the privacy notice given to you by that company or site owner.
 
-## Updates to this privacy policy
+### What steps does Visa take to protect the security of my information?
 
-VISA EUROPE reserves the right to change, modify or amend this policy at any time, but will not reduce the level of privacy protection contained herein. Visa takes privacy matters very seriously and intends to stay at the forefront of privacy policy and data protection matters. We will occasionally update our privacy policy and we will post those updates on this page.
+We use physical, technical, organizational, and administrative safeguards to help protect your Personal Information from unauthorized access or loss.
 
-## Access rights
+### What safeguards does Visa have in place for transferring Personal Information outside of Europe?
 
-You have the right to ask us to give you a statement about the personal data we process about you, to rectify your data, or to delete your information, to withdraw your consent given for processing of personal data, or to remove you from our mailing lists.
+Visa’s internal cross-border data transfers are covered by European Commission approved agreements, called Standard Contractual Clauses.
 
-## Visa Advertising Solutions (Visa Audiences) Opt-out
+### Who can I contact at Visa with privacy questions?
 
-### How to opt-out
+You can email the Visa Global Privacy Office at [privacy@visa.com](mailto:privacy@visa.com) or write to us at:
 
-In order to process your Visa transactions and deliver the security protections and other benefits you expect from Visa, we require four key pieces of information when a Visa card is used: the account number associated with the card; the location of the transaction; the time and date of the transaction; and the amount of the transaction.
-
-The primary use of this data is to ensure Visa delivers on its promise of a secure, convenient and reliable payments experience. Another way we may use this data is for the creation of anonymous marketing reports that we provide to other companies. Anonymous reports compile data from a large cardholder population and contain no account level or other identifiable data. These companies use these anonymized reports to improve their marketing efforts. For example, a report may show that one postcode tends to spend more at auto parts stores than compared to other postcodes. The data used in these reports is combined and processed so that the reports cannot identify you or your specific Visa purchases.
-
-If you do not want us to use your card number as part of the pool of anonymised data used in Visa Advertising Solutions, you may choose to opt out by clicking [here](https://marketingreportoptout.visa.com/OPTOUT/request.do).
-
-Please note that your data will be transferred to the USA in order to facilitate your opt-out. We have taken steps to ensure that our hosting providers, provide the necessary level of protection for your information.
-
-### Limitations of this opt-out
-
-If you choose to exercise this anonymous marketing opt-out, it will only impact our use of data from your registered card number in Visa's anonymous marketing initiatives. This opt-out will not stop our use of data in other aspects of Visa's business, such as:
-
-  * Processing transactions
-  * Risk and fraud prevention
-  * Maintenance and development of our systems
-  * Reporting on the state of our business
-  * Designing and operating our other products and services, or
-  * Providing information to card issuers, acquiring institutions and other Visa system stakeholders such as merchants and co-branded card partners.
-
-
-
-In addition, this opt-out will not affect any of your preferences or the choices provided to you by the financial institution issuing your card. Please contact your financial institution if you want to change your preferences or choices regarding its use of your information.
-
-### How to maintain your opt-out choice
-
-Because card numbers are not unique to you and may be reused, your opt-out will be honored for a period of **five years**. After the five year period, if your card number has not changed, you will need to resubmit your card number. If your card account number changes for any reason and you want to have your new card number registered for this marketing opt-out, you will need to submit the new card number. To opt out, please click [here](https://marketingreportoptout.visa.com/OPTOUT/request.do).
-
-## How to contact us
-
-If you have any questions about our information practices, please contact us by: Clicking here: [customersupport@visa.com](mailto:customersupport@visa.com)
-
-Writing to us at:
-
-VISA EUROPE LIMITED   
-1 Sheldon Square   
-London W2 6WH   
-United Kingdom   
-Attention: Data Protection Officer
+Visa Global Privacy Oﬃce   
+900 Metro Center Blvd.,   
+Foster City, CA, 94404 USA
