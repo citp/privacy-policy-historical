@@ -1,36 +1,69 @@
-> *The following text is extracted and transformed from the cachorrona.org privacy policy that was archived on 2018-01-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180104095947id_/http%3A//ww43.cachorrona.org/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cachorrona.org privacy policy that was archived on 2019-03-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190307055038id_/https%3A//pug.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy – Pug.com
 
-* **Overview**
+## Who we are
 
-Thank you for visiting ww43.cachorrona.org (the "Web Site") and reviewing our Privacy Policy. Your privacy is important to us, and our policy is simple: we will collect no personally identifiable information about you when you visit the Web Site unless you choose to provide that information. This Privacy Policy does not describe information collection practices on other sites, including those linked to or from the Web Site.
+Our website address is: https://pug.com.
 
-* **What Type of Information We Collect**
+## What personal data we collect and why we collect it
 
-The server on which the Web Site is located collects and saves only the default information customarily logged by web server software. Such information may include the date and time of your visit, the originating IP address, and the pages and images requested. 
+### Comments
 
-We partner with a limited number of third party behavioral advertising companies. In some cases, these companies serve ads and/or collect certain information when you visit the Web Site. The Web Site and third party advertisers may use cookies, a small file containing a string of characters that is sent to your computer when you visit a website, to collect non-personal information (name, address, email address, or telephone number) about your visits to this and other websites in order to provide advertisements of interest to you on the Web Site, other sites, and other forms of media. 
+When visitors leave comments on the site we collect the data shown in the comments form, and also the visitor’s IP address and browser user agent string to help spam detection.
 
-* **Uses May Include**
+An anonymized string created from your email address (also called a hash) may be provided to the Gravatar service to see if you are using it. The Gravatar service privacy policy is available here: https://automattic.com/privacy/. After approval of your comment, your profile picture is visible to the public in the context of your comment.
 
-  * We may use personal information to provide the services you've requested, including services that display customized content and advertising. 
-  
+### Media
 
-  * We may also use personal information for auditing, research and analysis to operate and improve our technologies and services. 
-  
+If you upload images to the website, you should avoid uploading images with embedded location data (EXIF GPS) included. Visitors to the website can download and extract any location data from images on the website.
 
-  * We may share aggregated non-personal information with third parties outside of The Web Site. 
-  
+### Contact forms
 
-  * When we use third parties to assist us in processing your personal information, we require that they comply with our Privacy Policy and any other appropriate confidentiality and security measures. 
-  
+### Cookies
 
-  * We may also share information with third parties in limited circumstances, including when complying with legal process, preventing fraud or imminent harm, and ensuring the security of our network and services. 
-  
+If you leave a comment on our site you may opt-in to saving your name, email address and website in cookies. These are for your convenience so that you do not have to fill in your details again when you leave another comment. These cookies will last for one year.
 
-  * The Web Site processes personal information on servers in the United States of America. In some cases, we process personal information on a server outside your own country. 
-  
+If you have an account and you log in to this site, we will set a temporary cookie to determine if your browser accepts cookies. This cookie contains no personal data and is discarded when you close your browser.
 
+When you log in, we will also set up several cookies to save your login information and your screen display choices. Login cookies last for two days, and screen options cookies last for a year. If you select “Remember Me”, your login will persist for two weeks. If you log out of your account, the login cookies will be removed.
 
-* If you would like to know more about these practices and your choices about not having this information used to target ads to you, please visit the Network Advertising Initiative opt-out page <http://www.networkadvertising.org/managing/opt_out.asp> or the Digital Advertising Alliance at [aboutads.info](http://www.aboutads.info/).
+If you edit or publish an article, an additional cookie will be saved in your browser. This cookie includes no personal data and simply indicates the post ID of the article you just edited. It expires after 1 day.
+
+### Embedded content from other websites
+
+Articles on this site may include embedded content (e.g. videos, images, articles, etc.). Embedded content from other websites behaves in the exact same way as if the visitor has visited the other website.
+
+These websites may collect data about you, use cookies, embed additional third-party tracking, and monitor your interaction with that embedded content, including tracking your interaction with the embedded content if you have an account and are logged in to that website.
+
+### Analytics
+
+## Who we share your data with
+
+## How long we retain your data
+
+If you leave a comment, the comment and its metadata are retained indefinitely. This is so we can recognize and approve any follow-up comments automatically instead of holding them in a moderation queue.
+
+For users that register on our website (if any), we also store the personal information they provide in their user profile. All users can see, edit, or delete their personal information at any time (except they cannot change their username). Website administrators can also see and edit that information.
+
+## What rights you have over your data
+
+If you have an account on this site, or have left comments, you can request to receive an exported file of the personal data we hold about you, including any data you have provided to us. You can also request that we erase any personal data we hold about you. This does not include any data we are obliged to keep for administrative, legal, or security purposes.
+
+## Where we send your data
+
+Visitor comments may be checked through an automated spam detection service.
+
+## Your contact information
+
+## Additional information
+
+### How we protect your data
+
+### What data breach procedures we have in place
+
+### What third parties we receive data from
+
+### What automated decision making and/or profiling we do with user data
+
+### Industry regulatory disclosure requirements
