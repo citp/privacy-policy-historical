@@ -1,61 +1,135 @@
-> *The following text is extracted and transformed from the e46fanatics.com privacy policy that was archived on 2017-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170618114507id_/http%3A//www.e46fanatics.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the e46fanatics.com privacy policy that was archived on 2019-03-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190307134243id_/https%3A//www.verticalscope.com/site-privacy-policy/index.php%3Fsite%3De46fanatics.com) for the most accurate reproduction.*
 
-# E46Fanatics.com Privacy Policy
+# 
 
-This website is owned and operated by performanceIX, Inc. performanceIX values your right to privacy. This Privacy Policy is effective March 22, 2016 and describes the types of information that performanceIX gathers from visitors and how that information is used. performanceIX reserves the right to modify this Privacy Policy at any time. The currently operative Privacy Policy will always be available by clicking on the Privacy Policy link on the home page. Please read this policy carefully and, if you have any questions, please email us at [pix@performanceix.com](mailto:pix@performanceix.com). 
+**Privacy Policy**  
+Last updated: May 15, 2018 
 
-We do not collect any personally identifiable information unless you specifically provide it to us. You may provide such information to us by registering on the Site or by otherwise specifically providing such information to us. 
+This Privacy Policy describes how VerticalScope Inc. (' **VerticalScope** ', ' **we** ', ' **us** ' or ' **our** ') collects personal information in connection with our websites and mobile or other applications on which this Privacy Policy is posted or linked to (collectively, the ' **Site** '), and how this information may be used, shared and safeguarded. Personal information is information about you as an identifiable Site visitor.
 
-_Unregistered Users_
+By visiting our Site or otherwise providing us with personal information, you agree that we may collect, use and share your personal information as described in this Privacy Policy. If you do not agree, please do not visit our Site or provide us with any personal information. We may at any time and at our sole discretion update this Privacy Policy by posting the updated Privacy Policy here along with the date on which the Privacy Policy was changed. Any changes will be effective immediately upon the posting of or linking to the revised Privacy Policy on our Site. 
 
-We collect certain information necessary to assist us in operating the Site. We log your IP address to assist us in diagnosing server problems, administering our website, and tracking usage statistics. Your IP address is provided to you by your Internet Service Provider and may be constant or may be different each time you access the Internet, depending on the type of Internet service you have. We do not try to identify you through your IP address and it would be extremely difficult for us to do so. 
+**QUICK LINKS**
 
-If you click through to the Site from another website, then we collect that information. This helps us learn where our visitors are coming from and helps us make the Site better. Any such information is collected and used only in the aggregate and although we can generate reports to help us understand the information as a whole, we cannot generate reports about specific users. If you have provided personal information to another website from which you click through to the Site, then you should review the privacy policy of that website to determine what information that website collects and how it is used. At present, the Site does not receive any personal information you may have provided to any website not operated by performanceIX and we have no plans to do so. If our plans should change, we will modify this Privacy Policy to reflect that change before any change is implemented, and any such personal information would be subject to this Privacy Policy. 
+Click on one of the links below to jump to the listed section:
 
-We may place small files known as “cookies” on your computer’s hard drive to help us learn about how visitors use our website and to provide our users with a better experience. A cookie may, for example, contain certain information that allows us to track your path through the Site, to determine whether you are a return visitor, and to automatically log you in to our Interactive Areas. Cookies do not permit us to personally identify you and cannot access any other data on your computer. Your web browser may provide a way for you to refuse cookies and you are free to do so without affecting your ability to access the Site. However, you will lose the ability to personalize your experience on the Site, including the ability to participate in any of our Interactive Areas. Cookies are harmless, so we encourage you to allow us to place one on your computer so that you can take full advantage of everything the Site has to offer. 
+  1. Information we collect
+  2. How we use the information we collect
+  3. Cookies, tracking technologies and interest-based advertising
+  4. How we share your personal information
+  5. How we store and protect your personal information
+  6. Links to external content
+  7. Children
+  8. Accessing and correcting your personal information
+  9. Your choices
+  10. How to contact us
 
-_Registered Users_
 
-The above information concerning Unregistered Users also applies to Registered Users. Registration is voluntary, and has many benefits, including the ability to post messages and other information in our Interactive Areas, the ability to personalize the website to best serve your needs, and automatic registration with other car enthusiast websites we operate so that you can easily participate in the forums that interest you most. If you choose to register, then you will provide certain information to us, including a username, email address, location, and information about your car. That information may or may not include personally-identifiable information. 
 
-_How We Use Your Information_
+## **1\. Information we collect**
 
-We use the information that we collect about you or that you provide to us for various purposes, including: registration and management of your account, to communicate with you, to enable us to publish forum posts that you write, to respond to your questions, to improve our products and services, to customize your experience of the website, to solicit information from you, to resolve disputes or problems, to prevent prohibited or illegal activities, and to otherwise enforce our Terms of Use. When you provide an e-mail address to us, we will use that to communicate with you. You can opt-out of receiving these emails if you wish by updating your personal preferences and unchecking the “receive email” box. 
+In general, you may visit our Site without providing any personal information. However, in order to use certain features of our Site, we may need to collect your personal information. For example:
 
-_Disclosure of Personal Information_
+  * We collect your username, email address or telephone number, and password when you create an account or public user profile. For some Sites you may be required to provide additional information such as your date of birth or the type of vehicle you own. We collect additional information that you choose to add to your account or public user profile, such as a profile picture or information about your hobbies and interests. 
+  * We collect your name, contact information and payment card information when you purchase a product or service through our Site (such as a subscription or classified advertisement). 
+  * If you use a social media account to create an account on our Site, to log-in to our Site, or if you otherwise interact with a social media service through our Site (such as by using a plug-in), we will receive personal information from the social media service, such as your username, email address, gender, public profile information and any other information that you have agreed to share with us, whether explicitly or through your privacy settings.
+  * Our Site may offer public forums or communication platforms that allow you to communicate with other users, post information, content, images, photos or videos, post your opinions on surveys, or submit reviews or ratings (collectively, your 'Content'). Your Content will be associated with your public user profile. Your Content and public user profile is public, unencrypted and non-confidential. This means that it can be read and used by others, including advertisers. We are not responsible for the information you choose to submit in these public areas. You should exercise caution when deciding to disclose personal information in public areas of our Site.
+  * We collect geographical location information if the Site you are using is location-enabled and your device transmits location data and/or your IP address, so we can provide location-specific information to you.
+  * We may collect personal information when you participate in a survey, poll, contest or promotion, such as your name and contact information and responses to survey or poll questions or the information you provide on a contest entry form.
+  * We may collect other personal information with your consent or where required or permitted by law.
 
-We do not disclose your personal information to any third party, except as may be required by law. We do not sell or rent any personally identifiable information to any third party. We may share personally identifiable information with third-parties that we specifically engage to provide services to performanceIX such as market research, marketing services, and advertising agencies, but in those circumstances we will require those parties to use that information solely for the purpose of providing those services to performanceIX. We also may share personal information within the performanceIX family of websites. 
 
-performanceIX must cooperate with legal authorities, and may be required to disclose personally identifiable information in response to requests from law enforcement authorities, or in response to a subpoena or other legal process. In the unlikely event that this should happen, we will provide only the information we must provide. We may also disclose personally identifiable information if we believe we must in order to prevent a violation of the law. By using the Site and by providing personally identifiable information to us, you consent to our doing so, in our sole discretion. You also agree that we may disclose personally identifiable information in the course of legal proceedings, if we reasonably believe that doing so might mitigate our liability or assist us in enforcing our legal rights. We also may share your information in connection with a corporate transaction, such as a divestiture, merger, consolidation, or asset sale, and in the unlikely event of bankruptcy. 
 
-_Collection of Personally Identifiable Information by Third-Party Sites_
+We, our service providers and third party advertising partners also collect information about Site visitors automatically using cookies and other tracking technologies. See Cookies, tracking technologies and interest-based advertising below.
 
-The Site may contain links to web sites of third parties. When you leave our website for a third-party website, we do not send any personally identifiable information to that website. However, we have no control over any third-party website or over any personally identifiable information that any third-party website may collect from you. Before providing any personally identifiable information to any such third-party website, you should review that website’s terms of use and privacy policy and make sure that they are acceptable to you. 
+## **2\. How we use the information we collect**
 
-_E-Mail Opt-in and Opt-out_
+We generally use the personal information we collect to provide the product, service, feature or information you have requested and for our reasonable business purposes, including: 
 
-If you provide your e-mail address to us, then you consent to our use of that e-mail address to contact you. We do not sell your e-mail address. If you wish to receive communications from us, then you may visit <http://forum.e46fanatics.com/profile.php?do=editoptions> and check the boxes in the “Receive E-mail” section. Once you have set your preferences, scroll to the bottom of the page and click on “Save Changes” to confirm your changes. If you later decide that you no longer wish to receive communications from us, simply go to that link and un-check the boxes again. Don’t forget to click on “Save Changes” to confirm. 
+  * to manage our Site and provide our services, such as to create and administer accounts and facilitate the use and enjoyment of forums and communication platforms;
+  * to enable geographic-specific features, such as geographic-specific pricing and information;
+  * to process payments;
+  * to notify you of changes to your account or our Site's services, terms, conditions or policies and to provide you with administrative messages, updates, legal notices, technical notices or security alerts;
+  * to customize your user experience, including by tailoring the advertisements that are displayed to you to make them more useful and relevant to you;
+  * to conduct research and development, analyze and understand trends and user behaviour and to improve our Sites, products and services;
+  * to respond to your inquiries and provide you with technical and other support;
+  * to ensure compliance with our Terms of Use and prevent fraud;
+  * to provide you with newsletters, information, promotional offers and other advertising about us or our advertising partners;
+  * to facilitate your participation in a contest or similar promotion, or a survey or poll;
+  * to meet contractual obligations; and
+  * for other purposes with your consent or as permitted or required by law.
 
-_How to review and update your personal information._
 
-You can review and update the personal information you have provided through the registration process by visiting <http://forum.e46fanatics.com/profile.php?do=editprofile>
 
-_How we protect your personal information._
+## **3\. Cookies, tracking technologies and interest-based advertising**
 
-performanceIX takes reasonable steps and complies with all applicable laws to protect your personally identifiable information. However, it is possible that third parties may unlawfully intercept transmissions of personal information, or otherwise access that information. In the unlikely event that someone should gain access to personally identifiable information, performanceIX will comply with any applicable laws on the notification of persons affected by the disclosure of personally identifiable information. 
+We, our service providers and third party advertising partners use technologies that automatically collect information about Site visitors.
 
-_Children’s Privacy_
+We automatically collect information about how you access, navigate and leave our Site, including the website you came from before visiting our Site, what browser type and operating system you are using, the internet protocol (IP) address you are accessing the Site from, your mobile device ID or Advertising ID if you visit our Site from a mobile device, the pages of our Site that you are navigating through, the date and time of your visit, how long you spend on our Site or certain pages of our Site, and what website you go to after visiting our Site. This information may be used to determine how many visitors visit our Site or certain areas of our Site, how long they remain on our Site, whether they use the hyperlinks we provide or respond to advertising and to tailor our advertisements to you. We may share this information with partners who referred you to our Site, and with advertising partners, who may use the information to optimize the traffic they send to us and for delivering targeted ads to you when you visit other websites.
 
-This website is a general audience site, and we do not knowingly collect information about children. Should a child whom we know to be under 13 send personal information to us, we will delete or destroy that information as soon as reasonably possible. 
+We, our service providers and third-party advertising partners collect information about Site visitors using cookies and other tracking technologies (including browser cookies, pixels and Adobe Flash). We use these technologies to remember your preferences and facilitate your navigation of our Site. We and our service providers and third-party advertising partners also use these technologies to track your activities on our Site and other websites, including the websites and web pages that you visited, the ads or content that you clicked on and the search terms you used, in order to deliver tailored advertising to you. We may also share a hashed or encrypted version of your email address or telephone number with advertising partners so that you may be served with tailored advertising on our websites or other third party websites. These advertising partners are not permitted to use your hashed or encrypted email address for any other purpose. 
 
-_Use of our Websites from Outside the United States_
+If you would prefer not to accept cookies, most browsers will allow you to: (i) change your browser settings to notify you when you receive a cookie, which lets you choose whether or not to accept it; (ii) disable existing cookies; or (iii) set your browser to automatically reject any cookies. You may also set your e-mail options to prevent the automatic downloading of images that may contain technologies that would allow us to know whether you have accessed our e-mail and performed certain functions with it. If you don't want us to share your hashed or encrypted email address with advertising partners, simply opt-out of our promotional communications. See Your Choices below. 
 
-If you access our websites from outside the United States, you should know that your information may be transferred, stored, and processed in the United States. The applicable data protection and privacy laws of the United States may differ from those in your country. 
+At this time, we do not respond to browser 'do not track' signals. However, you may also opt-out of network advertising programs that track your activities across multiple websites to deliver personalized advertising content to you. Please visit [Digital Advertising Alliance of Canada Opt-Out Page](http://youradchoices.ca/understanding-online-advertising), [NAI Opt-Out Page](http://www.networkadvertising.org/choices/%5d%20) and the [Ad Choices Opt-Out Page](http://www.aboutads.info/choices). 
 
-_How to Contact Us_
+We use Google Analytics to help us understand how our Site visitors use the Site, and as well as certain features of Google Analytics Display Advertising to advertise online, sell advertising and to develop content. You can opt out of Google Analytics and customize Google's Display Network ads. Please visit [Google's Ad Settings](https://www.google.ca/settings/ads?hl=en-GB&sig=ACi0TChcn38hjfs81vhis-lHPEFutHa4wTjKTTYLde8Te7kFkjhssvxJtvPzARFnl4zsrUvJxBZzttCNq7h0T4bGaa6vdJatyTG0psR5BwGgwEWTWOFuy0c2qoyWC-TPCVzunZHSxtpy7V1KLCOI7EoBsf0HKnoA1J8cmI3FZz_-cuwNnYOHY5MyPD4bpjoQiiq_2M8f0pr-) and [Google Analytics Opt-out Browser Add-on](https://tools.google.com/dlpage/gaoptout). Please visit [How Google uses data when you use our partners' sites or apps](https://policies.google.com/privacy/partners) for a description of how Google uses information sent by our browser and for ways you can control the information sent to Google. 
 
-If you have questions about this Privacy Policy, you may contact us by clicking <http://forum.e46fanatics.com/sendmessage.php>
+## **4\. How we share your information**
 
-_Changes to this Privacy Policy._
+We may share information we collect about you in the following circumstances.
 
-We reserve the right to change this policy. The most recent version of this policy will always be posted here. You should review the policy periodically to make sure that you still agree to it and to make any desired changes to the personal information you have provided. 
+**Advertising partners**  
+We share information with our third-party advertising partners as described in the Cookies, tracking technologies and interest-based advertising section above.
+
+**Service Providers**  
+We may use service providers (including affiliates acting in this capacity) to provide services to us or to you on our behalf. For example, our service providers may host our Site, analyze data collected from our Site, provide customer service on our behalf, administer our promotions, facilitate and process transactions and payments, provide marketing or promotional assistance, distribute emails and other communications, post our advertisements (including online through targeted advertising campaigns), and collect your feedback on our Site and advertisements. We share your personal information with our service providers solely for the purposes of providing services to you and to us. They are not permitted to use your personal information for other purposes. Some of our service providers are located outside of Canada, including in the United States. While your personal information is located outside Canada it will be subject to legal requirements applicable to our service providers, for example, lawful requirements to disclose personal information to national security agencies or government authorities in certain circumstances. 
+
+**Aggregate or de-identified information**  
+We may use your personal information to create aggregate statistics and de-identified data. We may use, share and sell this information for any purpose.
+
+**With your consent**  
+We may share your personal information with third parties with your consent. For example, if you provide us with your contact information, such as an e-mail address, for the purposes of signing up for information, newsletters, contests, or marketing offers from a third party, or for receiving business offers or service quotes from a third party, we may share your personal information for that purpose. Once shared, your personal information will be subject to the privacy policy of that third party.
+
+**Business Transactions**  
+We may disclose personal information to third parties in connection with the proposed or actual financing, securitization, insuring, sale, assignment or other disposal of all or part of VerticalScope or our business or assets. These third parties may use the information, for the purposes of evaluating and/or completing the proposed transaction. We will use reasonable efforts to ensure that our successors or assigns process the information we transfer to them in a manner that is consistent with this Privacy Policy. 
+
+**Other**  
+We may disclose your personal information in other circumstances where permitted or required by law or other legal process. For example, we may disclose your personal information: (a) to collect a debt owed to us; (b) as necessary to comply with a subpoena, warrant, court order or other legal process; (c) if disclosure is requested by an investigatory body, law enforcement official or governmental authority which has lawful authority to request the disclosure of the information in respect of an investigation or other legal process; or (d) if we have reasonable grounds to believe that the information relates to a breach of an agreement or contravention of a law, or to protect the personal safety of our users or defend our rights or property.
+
+## **5\. How we store and protect personal information**
+
+Personal information is maintained on our servers (or those of our service providers). In an effort to protect your personal information against unauthorized access or disclosure. For example, accounts you create on our Sites are password protected. In identified parts of our Sites, we use SSL-encryption to protect data transmissions. We limit access to personal information to employees, representatives and service providers who require access in connection with their job responsibilities. Please note it is not possible to transmit data with absolute security over the internet, and we cannot and do not guarantee the security of your personal information.
+
+## **6\. Links to external content**
+
+Our Site may link or direct you to other websites, services or external content provided by third parties. We do not exercise any control over these third party websites or services. We are not responsible for the privacy practices of such third party websites or services. We recommend that you read the privacy policy for any third party website that you visit or service that you use. 
+
+## **7\. Children**
+
+Our Sites are not directed to and we do not knowingly request or collect personal information from children - persons under 13 years of age, or another age if required by applicable law - without prior verifiable parental consent. If we become aware that we have unknowingly collected personal information about a child without verifiable parental consent, we will delete this information from our records or, if that is not reasonable, we will take reasonable available steps to de-identify the information. 
+
+## **8\. Accessing or correcting your personal information**
+
+We encourage you to keep your personal information accurate and up to date. You can access and correct the information in your account or public user profile by logging in to your account or profile and making the necessary edits.  
+You can request access to or correction of your personal information in our custody or control by contacting us as set out below. We may take reasonable steps to authenticate your identity before providing you with access to your personal information or making corrections. Please also note that in some cases we may not be able to provide you with the personal information you have requested (for example, if the information is subject to solicitor-client privilege or contains personal information of others that cannot be severed). 
+
+## **9\. Your Choices**
+
+You may opt out of receiving promotional communications from us at any time by following the unsubscribe instructions included in each communication and/or by selecting your communication preferences in an account or profile.
+
+You may be able to control the information we received from your device or from third parties (such as social media networks) by changing your device settings, browser settings or privacy settings.  
+You may withdraw your consent to our collection, use or disclosure of your personal information, subject to contractual or legal restrictions and reasonable notice. However, if you withdraw your consent to certain collections, uses or disclosures of your personal information, we may not be able to provide you with certain products or services. 
+
+## **10\. How to contact us**
+
+If you have any questions or comments about this Privacy Policy, please contact us at:
+
+privacy@verticalscope.com 
+
+Privacy Officer  
+111 Peter, Suite 901  
+Toronto, Ontario  
+M5V 2H1  
+Canada  
+
