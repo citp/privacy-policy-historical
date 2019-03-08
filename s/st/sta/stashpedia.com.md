@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the stashpedia.com privacy policy that was archived on 2018-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180607011148id_/https%3A//stashpedia.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the stashpedia.com privacy policy that was archived on 2019-03-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190309001307id_/https%3A//stashpedia.com/privacy-policy) for the most accurate reproduction.*
 
 # Stashpedia Collection & Values Tracker
 
