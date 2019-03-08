@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lycamobile.com.au privacy policy that was archived on 2018-04-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180421093700id_/https%3A//www.lycamobile.com.au/en/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lycamobile.com.au privacy policy that was archived on 2019-03-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190308013634id_/https%3A//www.lycamobile.com.au/en/privacy-policy) for the most accurate reproduction.*
 
 # Lycamobile Privacy Policy | Lycamobile Australia, Free SIM
 
@@ -58,7 +58,7 @@ Where we have given you (or where you have chosen) a password which enables you 
 
 We use Personal Data held about you in the following ways:
 
-Verifying your identity and supplying onformation to the manager of the Integrated Public Number Database,  
+Verifying your identity (with a third-party provider to verify the details with the Official Record Holder or issuer) and supplying onformation to the manager of the Integrated Public Number Database,  
 supplying the Products and Services to you,  
 the administration of your Account by the Customer Services Department,  
 providing you with service information, for example about Network faults,  
