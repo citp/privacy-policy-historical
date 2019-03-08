@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mactalk.com.au privacy policy that was archived on 2018-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180905130604id_/http%3A//www.mactalk.com.au/content.php%3Fr%3D1807-Privacy-Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mactalk.com.au privacy policy that was archived on 2019-03-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190308033159id_/http%3A//www.mactalk.com.au/content.php%3Fr%3D1807-Privacy-Policy) for the most accurate reproduction.*
 
 # MacTalk - Privacy Policy
 
