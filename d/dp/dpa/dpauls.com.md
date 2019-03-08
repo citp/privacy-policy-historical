@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dpauls.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606200145id_/https%3A//dpauls.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dpauls.com privacy policy that was archived on 2019-03-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190308085803id_/https%3A//dpauls.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy of DPauls Travel & Tour
 
@@ -22,7 +22,7 @@ All data we collect about you will be held under Indian law. When you provide in
 
 The Site may use cookie and tracking technology depending on the features offered. Cookie and tracking technology are useful for gathering information such as browser type and operating system, tracking the number of visitors to the Site, and understanding how visitors use the Site. Cookies can also help customize the Site for visitors. Personal information cannot be collected via cookies and other tracking technology; however, if you previously provided personally identifiable information, cookies may be tied to such information.
 
-**D.Pauls Travel & Tours & its representatives can Call , SMS & Email with reference to your Travel enquiry. This consent will override any registration for DNC / NDNC. **
+**DPauls.com & its representatives can Call, SMS & Email with reference to your Travel enquiry. This consent will override any registration for DNC / NDNC. **
 
 ##### **Security**
 
@@ -32,7 +32,7 @@ This website has security measures in place to protect the loss, misuse, and/or 
 
 If you have any questions, concerns, or comments about our privacy policy you may contact us using the information below: 
 
-**By Email:** info@dpaulstravel.com
+**By Email:** info@dpauls.com
 
 **By Phone:** +91 9211787134
 
