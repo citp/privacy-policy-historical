@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the techdeck.com privacy policy that was archived on 2018-10-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181013185706id_/http%3A//www.spinmaster.com/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the techdeck.com privacy policy that was archived on 2019-03-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190308044232id_/http%3A//www.spinmaster.com/privacy-policy.php) for the most accurate reproduction.*
 
 # Spin Master - Privacy Policy
 
@@ -103,4 +103,4 @@ If you have a concern about our handling of your personal information, please ge
 
 From time to time we may change our privacy policies. We will notify you of any material changes to our Policy as required by law. We will also post an updated copy on our website. Please check our site periodically for updates.
 
-© 2018 Spin Master Ltd. All rights reserved.
+© 2019 Spin Master Ltd. All rights reserved.
