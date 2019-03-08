@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nickels-n-dimes.com privacy policy that was archived on 2018-11-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181106034750id_/http%3A//nickels-n-dimes.com/about-2/disclosure-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nickels-n-dimes.com privacy policy that was archived on 2019-03-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190308201948id_/http%3A//nickels-n-dimes.com/about-2/disclosure-privacy-policy) for the most accurate reproduction.*
 
 # Disclosure / Privacy Policy Nickels-n-Dimes Nickels-n-Dimes | Save Money | Free Kindle Books | Coupons | Magazine Deals | Grocery Store Deals | Free Christian Fiction Books
 
