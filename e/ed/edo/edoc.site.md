@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the edoc.site privacy policy that was archived on 2018-10-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181025163503id_/https%3A//edoc.site/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the edoc.site privacy policy that was archived on 2019-03-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190308174709id_/https%3A//edoc.site/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - EDOC.SITE
 
@@ -24,5 +24,3 @@ Despite all efforts to protect your privacy and the confidentiality of the infor
 
   
 By using EDOC.SITE you signify your agreement to our privacy policy as stated above. Note that this policy may be revised periodically without notice. Please re-read this policy prior to submitting any personal information if you have concerns about how your information is being collected and used, and feel free to contact us if you have any questions. 
-
-EDOC.SITE | To ensure the functioning of the site, we use **cookies**. We share information about your activities on the site with our partners and Google partners: social networks and companies engaged in advertising and web analytics. For more information, see the [Privacy Policy](https://edoc.site/privacy) and [Google Privacy & Terms](https://policies.google.com/technologies/partner-sites). Your consent to our cookies if you continue to use this website.  Necessary cookieAccept
