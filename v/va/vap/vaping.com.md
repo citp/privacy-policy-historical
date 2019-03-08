@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the vaping.com privacy policy that was archived on 2018-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181126171931id_/https%3A//vaping.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vaping.com privacy policy that was archived on 2019-03-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190308051934id_/https%3A//vaping.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | vaping.com
 
