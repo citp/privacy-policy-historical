@@ -1,25 +1,179 @@
-> *The following text is extracted and transformed from the weenysoft.com privacy policy that was archived on 2018-03-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180322140837id_/http%3A//www.weenysoft.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the weenysoft.com privacy policy that was archived on 2019-03-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190308011613id_/https%3A//www.weenysoft.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy - Weeny Software
 
 ### Privacy Policy
 
-Weeny Software is committed to respecting your online privacy and recognize your need for appropriate protection and management of any personally identifiable information ("Personal Information") you share with us. Weeny Software has established this Online Privacy Policy so that you can understand the care with which we intend to treat your Personal Information. For the purposes of this statement, "Personal Information" means any information that may be used to identify an individual, including, but not limited to, a first and last name, a home or other physical address and an email address or other contact information, whether at work or at home.
+Weenysoft.com is dedicated to making your online experience as interesting and enjoyable as possible. We truly appreciate your presence on our site and at all times understand that you are our guest and should be treated accordingly. To ensure this, we have listed the components of our Privacy Policy below. This Privacy Policy lets you know what happens to any personal data that you give to us or that we collect from you. We collect only the minimum amount of personal information necessary for you to make use of our services. This Privacy Policy does not apply to any third party applications or software that integrate with the services, or any other third party products, services or businesses, where we are not the controller of your personal data. 
 
-**What information do we collect?**
+If you have any questions regarding the processing of your personal data, as well as your rights regarding data privacy, please contact: support@weenysoft.com.
 
-Our programs do not collect any kind of personal information. We will ask you when we need information that personally identifies you ("Personal Information") or allows us to contact you. Generally this information is requested when you want to provide us with your personal data, to give us the opportunity to get in touch with you. When you enter a contest or other promotional event, we may ask for information such as your name, address, telephone number and e-mail address so we can administer the contest and notify winners. We may use your IP address to help diagnose problems with our server, and to administer our Web site. Your IP address is also used to help identify you and your time spent at our sites, and to gather broad demographic information. This allows us to see which parts of our sites users are visiting. We do not link IP addresses to anything personally identifiable. This means, for instance, that a user's session will be tracked, but the user will remain anonymous. We do not use this information for any other purposes. When a user submits personal information, it is kept on a private server not accessible from the Internet. This limits the possibility of any malicious use of your information.
+#### Use of cookies
 
-**What do we use personal information for?**
+To make this site work properly, we sometimes place small data files called cookies on your device. Most big websites do this too.
 
-Weeny Software does not intend to transfer Personal Information without your consent to third parties who are not bound to act on Weeny Software behalf unless such transfer is legally required. Similarly, it is against Weeny Software policy to sell Personal Information collected online without consent. In short, Weeny Software does not sell registrant information to lists. In some cases, Weeny Software may use a visitor's personal information to understand overall patterns for site usage, to contact the user for clarification on inaccurate information, or to follow up on a customer service issue. Personal information may include name, address, telephone number, etc.
+**What are cookies?**
 
-**About third-party ads**
+A cookie is a small text file that a website saves on your computer or mobile device when you visit the site. It enables the website to remember your actions and preferences (such as login, language, font size and other display preferences) over a period of time, so you don't have to keep re-entering them whenever you come back to the site or browse from one page to another. 
 
-We use third-party advertising companies to serve ads when you visit our Web site. These companies may use aggregated information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you.
+**How do we use cookies?**
 
-**About cookies**
+Weenysoft.com does not use any first-party cookies require consent. Our website uses third party services such as advertising from Google Adsense that may use cookies. 
 
-In order to better understand what services are valuable to our customers, we use "cookies". A cookie is a small text file that a Website writes to your hard drive. Cookies work as your identification card and may record passwords, preferences and purchases. Cookies let the web page server know that you have returned to this site. Cookies also can determine other information, such as the daily visitors to our website and the pages of the site most frequently visited. Cookies are unique and can only be read by the server that assigns them. They cannot be executed as code or deliver viruses.
+**Google Adsense cookies**
 
-You can change the settings in your browser to prevent cookies if you do not want to have a cookie set when you visit our website. However, by doing so, you may not have full access to all the web pages.
+On our website, we use the functions of the online advertising service Google AdSense. Google AdSense is a service of Google Inc. ("Google"), 1600 Amphitheatre Parkway, Mountain View, CA 94043, USA. Google AdSense is a Google service that displays Google advertisements from advertisers on third-party websites. By integrating Google AdSense we provide Google with appropriate advertising space on our website.
+
+Google AdSense uses so-called "cookies", which are text files that are saved on your device and that enabled the website to conduct an analysis of the websites you visited. Google AdSense may also use so-called web beacons (invisible graphics). Via these web beacons, information such as the visitor traffic on the pages of this offer can be evaluated. The information generated by cookies and web beacons about the usage of our website (including your IP address) and the delivery of advertising formats will be transmitted to and stored by a Google server that might be located in the USA or other third countries. This way, Google can reconstruct on which websites the usage of advertising media took place in order to be able to allocate a commission to the website operator.
+
+The following information (including personal data) might be processed:
+
+  * Your web request
+  * Your IP address
+  * Your browser type
+  * Your browser language
+  * The date and time of your request
+  * One or more cookies that may uniquely identify your browser
+
+
+
+You have the right to object. To do so, you can prevent the acquisition of the data generated by the cookies (including your IP address) by Google as well as the processing of this data by Google by downloading and installing the browser plug-in available under the following link: <https://tools.google.com/dlpage/gaoptout?hl=en>
+
+In addition, you have the possibility to deactivate the interest-based ads from Google according to the instructions in the following link: <https://support.google.com/ads/answer/2662922?hl=en>
+
+More information about Google Adsense's privacy: [Privacy Policy](https://www.google.com/policies/technologies/ads/), [Opt Out](https://www.google.com/settings/ads/onweb/optout).
+
+**DoubleClick cookies**
+
+We also may use DART cookies for ad serving through Google's DoubleClick, which places a cookie on your computer when you are browsing the web and visit a site using DoubleClick advertising (including some Google AdSense advertisements). This cookie is used to serve ads specific to you and your interests ("interest based targeting").
+
+The ads served will be targeted based on your previous browsing history (For example, if you have been viewing sites about visiting Las Vegas, you may see Las Vegas hotel advertisements when viewing a non-related site, such as on a site about hockey). DART uses "non personally identifiable information". It does NOT track personal information about you, such as your name, email address, physical address, telephone number, social security numbers, bank account numbers or credit card numbers.
+
+You can opt-out of this ad serving on all sites using this advertising by visiting <http://www.doubleclick.com/privacy/dart_adserving.aspx>
+
+**Non-personalized ads for users in the EEA**
+
+We have set Google AdSense to show all users in the EEA (European Economic Area) only non-personalized ads.
+
+Non-personalized ads are targeted using contextual information rather than the past behavior of a user. Although these ads don't use cookies for ads personalization, they do use cookies to allow for frequency capping, aggregated ad reporting, and to combat fraud and abuse.
+
+**How to control cookies?**
+
+You can control and/or delete cookies as you wish – for details, see [aboutcookies.org](http://www.aboutcookies.org/).
+
+You can delete all cookies that are already on your computer and you can set most browsers to prevent them from being placed. If you do this, however, you may have to manually adjust some preferences every time you visit a site and some services and functionalities may not work.
+
+**Right of objection**
+
+You have the right to object.
+
+In your browser settings you can restrict or completely prevent the use of cookies. You can also prompt the automatic deletion of cookies when a browser window is closed.
+
+You can find out how to delete and change the cookie settings of the most common browsers here:
+
+  * Google Chrome: [Website](https://support.google.com/chrome/answer/95647?hl=en)
+  * Mozilla Firefox: [Website](https://support.mozilla.org/en-US/kb/delete-cookies-remove-info-websites-stored)
+  * Apple Safari: [Website](https://support.apple.com/en-euro/guide/safari/sfri11471/mac)
+  * Microsoft Internet Explorer: [Website](https://support.microsoft.com/en-us/help/17442/windows-internet-explorer-delete-manage-cookies)
+
+
+
+#### Data protection
+
+**Personal information**
+
+When visiting Weenysoft.com, the IP address used to access the site will be logged along with the dates and times of access. This information is purely used to analyze trends, administer the site, track users movement and gather broad demographic information for internal use. Most importantly, any recorded IP addresses are not linked to personally identifiable information.
+
+Weenysoft.com doesn't require registration to use. That means we DO NOT collect your name, email address, company name or password etc.
+
+Weenysoft.com will never share your personal information with any Third Party business organization that intends to use it for direct marketing purposes unless you have given us specific permission to do so. The processed information will only be stored as long as it is necessary for the purpose it was processed for or for as long as it is legally required.
+
+**Storage of files**
+
+All the files uploaded for processing on Weenysoft.com are stored on an appropriate server located at North America or Europe for processing and the download afterwards. All user-uploaded files as well as the converted output files will be deleted in two hours after upload or conversion respectively. We keep the files for the sole purpose of giving you enough time to download them. During that time, we don't look at the files or mine any data from them. No backups are made of any uploaded files nor their processed output neither are the contents monitored without the explicit permission of user. We do not claim ownership in any of your files that you upload.
+
+**Data security**
+
+All filenames are generated randomly and cannot be guessed. All communications between your web browser and the conversion servers are through secure channel with HTTPS enabled, which prevents data to be altered or diverted. This completely protects your data from unauthorized access. All collected information on the website is protected from disclosure and unauthorized access by using physical, electronic and managerial protection procedures. 
+
+**Right of objection**
+
+We allow you to access, modify, or delete the personal data collected by us. If you would like to do so, please contact us at support@weenysoft.com. We will get back to you as soon as possible.
+
+Please note that uploaded and processed files are never stored longer than two hours on our servers and are then deleted permanently. During this hour, your files are not accessed, copied, analyzed or anything else unless you provide us with the explicit written permission to do so. We can't make a backup copy of your files even if you ask us to do so.
+
+#### Apps for Android
+
+Weenysoft.com built apps as Ad Supported apps. This SERVICE is provided by Weenysoft.com at no cost and is intended for use as is. For a better experience, while using our Service, we may require you to provide us with certain personally identifiable information. The information that we request will be retained on your device and is not collected by us in any way.
+
+Our JPG to PDF Converter app uses permissions that are associated with accessing camera. This permission allows this application to capture images in order to be converted to a PDF file within this application. This permission can be rejected. Our online file conversion services may require you to upload files to convert. Your files will be for only you to access and will be automatically removed permanently on our server in 2 hours.
+
+Our apps use third party services that may collect information used to identify you. Link to privacy policy of third party service providers used by our apps:
+
+[Google Play Services](https://www.google.com/policies/privacy/), [AdMob](https://support.google.com/admob/answer/6128543?hl=en)
+
+**AdMob**
+
+AdMob, is Google's mobile app advertising platform designed specifically for app developers. In order to understand Google's use of Data, consult Google's partner policy.
+
+The following information (including personal data) might be processed:
+
+  * Online identifiers, including cookie identifiers
+  * IP addresses
+  * Device identifiers
+  * Client identifiers 
+  * Unique device identifiers for advertising (Google Advertiser ID or IDFA, for example)
+  * Usage Data.
+
+
+
+Retention:
+
+Google anonymizes the log data by removing part of the IP address (after 9 months) and cookie information (after 18 months)
+
+More information about Google Admob's privacy: [Privacy Policy](https://www.google.com/policies/technologies/ads/), [Opt out](https://www.google.com/settings/ads), [Service Information](https://privacy.google.com/businesses/adsservices/), [Partner policy](https://policies.google.com/technologies/partner-sites), [Ad technology providers](https://support.google.com/admob/answer/9012903).
+
+**Google Play Services**
+
+Google Play Services offers APIs and security services to the Android developer ecosystem. Google acts as a data controller for any personal data processed in Google Play Services, and offers user notices and consents about the use of personal data in the service's user interface in Android.
+
+The following information (including personal data) might be processed:
+
+  * Device information
+  * Log information
+  * Location information
+  * Unique application numbers
+  * Local storage
+  * Cookies and similar technologies
+
+
+
+Google use the collected information to provide, maintain, protect and improve Google's services, to develop new ones, and to protect Google and the users. Google also use this information to offer you tailored content – like giving you more relevant search results and ads.
+
+More information about Google Play Services's privacy: [Google Terms of Service](https://policies.google.com/terms), [Google Privacy Policy](https://policies.google.com/privacy).
+
+**Distribution**
+
+The only official channel for distribution of our apps for Android is Google Play Store. Any other mode of distribution is not official and thus, is not maintained by the developer. This privacy policy is effective to distribution made on official channel only.
+
+#### Third party websites
+
+Our website may contain links to other websites of interest. However, once you have used these links to leave our site, you should note that we do not have any control over that other website. Therefore, we cannot be responsible for the protection and privacy of any information which you provide whilst visiting such sites and such sites are not governed by this privacy statement. You should exercise caution and look at the privacy statement applicable to the website in question.
+
+#### General Data Protection Regulation (GDPR)
+
+The General Data Protection Regulation (GDPR) is a regulation in EU law on data protection and privacy for all individuals across the EU and within the European Economic Area. It becomes enforceable on 25 May 2018.
+
+In the terms of the GDPR, Weenysoft.com acts as the data controller and data processor.
+
+**Weenysoft.com acts as a data controller** when it directly collects or processes personal data providing services to end users. It means that Weenysoft.com acts as a data controller when you upload files, which may contain your personal data. We do collect your IP address and access times information. We do not share this data with anyone. Weenysoft.com irreversibly deletes all your files according to "Storage of files" section of this policy.
+
+**Weenysoft.com acts as a data processor** if it processes data on behalf of its customer, i.e. when you use REST API or any other way to process files of your own customers. As a data processor, Weenysoft.com will treat and manage your data in accordance with strict security standards. The REST API isn't available of users in the EEA.
+
+#### Contact
+
+If you have any questions regarding our privacy policy and GDPR compliance, feel free to contact us at:  
+Jimmy Liu   
+Rm208,3 building, No.72 YinSan  
+Shanghai 200136, China  
+Email: support@weenysoft.com
