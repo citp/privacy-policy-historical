@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the idmobile.co.uk privacy policy that was archived on 2018-11-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181106101536id_/http%3A//www.idmobile.co.uk/legal/privacy-and-cookies) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the idmobile.co.uk privacy policy that was archived on 2019-03-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190308090046id_/http%3A//www.idmobile.co.uk/legal/privacy-and-cookies) for the most accurate reproduction.*
 
 # Privacy & Cookies | Legal | iD Mobile Network
 
@@ -156,6 +156,11 @@ We may transfer your personal information to other organisations in certain scen
   * If we need to do so in order to exercise or protect our legal rights, users, systems and services
   * In response to requests from individuals (or their representatives) seeking to protect their legal rights or the rights of others.
   * With emergency services (if you make an emergency call), including your approximate location
+  * Companies that enable us to collect your reviews and comments, both online and offline.
+  * We may use trusted third parties to carry out certain activities on our behalf and may share your personal data with them for the purposes of: processing and sorting data, monitoring how customers use our site, issuing our emails for us and collecting product/customer feedback from you via surveys. The third parties include Reevo, Maru/EDR (previously eDigital), ABA Research, this is by no means an exhaustive list but it gives an indication of the many third parties we work with.
+  * Companies which run our contact centres because they need your personal information to identify and contact you.
+  * Third party vendors who help us to manage and maintain the Group IT infrastructure.
+  * Companies that provide insights and analytics services for us so we can stock the right products, send the right marketing campaigns and understand our business and customers better.
 
 
 
@@ -253,8 +258,7 @@ If you would like to exercise these rights, please contact us
 
 Please make sure you provide the following identification documents as part of your application:
 
-  * One proof of identity - we can accept an unexpired copy of either your passport or your driver's licence
-  * One proof of address - we can accept a copy of most recent (and less than 3 months old) credit or debit card statement or a utility bill showing the same name and address on your account or driving license where it hasn't be used as proof of identity (see above)
+  * Please make sure you provide one proof of identity (we suggest either a utility bill in your name or your driver's licence, but other similar formal documents may be accepted, please note the documents cannot be older than 6 months) as part of your request.
 
 
 
