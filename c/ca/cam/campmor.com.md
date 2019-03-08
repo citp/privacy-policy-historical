@@ -1,14 +1,11 @@
-> *The following text is extracted and transformed from the campmor.com privacy policy that was archived on 2018-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181207172141id_/https%3A//www.campmor.com/CustomerServiceContent_____privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the campmor.com privacy policy that was archived on 2019-03-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190308051748id_/https%3A//www.campmor.com/CustomerServiceContent_____privacypolicy) for the most accurate reproduction.*
 
 # Campmor: Customer Service Privacy Policy
 
 Campmor is committed to the protection of your privacy. The following statement will explain, in greater depth, Campmor's Privacy Policy. If you have questions, you may send e-mail to our customer service department, at any time, using this page or email them at [customer-service@campmor.com](mailto:customer-service@campmor.com) or you can reach them by telephone, toll free, at 1-800-525-4784 during the following hours:
 
 **Monday - Friday**  
-8:30am - 9:30pm, Eastern Time
-
-**Saturday**  
-8:30am - 6:00pm, Eastern Time
+8:30am - 5:30pm, Eastern Time
 
 Customer Service is closed Sundays, Memorial Day, Independence Day, Labor Day, Thanksgiving, Christmas, and New Years Day.
 
