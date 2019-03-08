@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the myfreebingocards.com privacy policy that was archived on 2018-04-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180422023354id_/http%3A//myfreebingocards.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the myfreebingocards.com privacy policy that was archived on 2019-03-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190308220506id_/https%3A//myfreebingocards.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -18,6 +18,6 @@ Myfreebingocards.com and mfbc.us use Google Analytics to gather anonymous statis
 
   * Third party vendors, including Google, use cookies to serve ads based on a user's prior visits to your website.
   * Google's use of the DoubleClick cookie enables it and its partners to serve ads to your users that are based on their visit to your sites and/or other sites across the Internet.
-  * You can opt out of using the DoubleClick cookie for interest-based advertising by visiting [Ads Settings](http://www.google.com/ads/preferences/). 
+  * You can opt out of using the DoubleClick cookie for interest-based advertising by visiting [Ads Settings](https://www.google.com/ads/preferences/). 
 
 
