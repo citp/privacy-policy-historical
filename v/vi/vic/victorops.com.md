@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the victorops.com privacy policy that was archived on 2018-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180628045548id_/https%3A//victorops.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the victorops.com privacy policy that was archived on 2019-03-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190308053852id_/https%3A//victorops.com/privacy) for the most accurate reproduction.*
 
 # VictorOps Privacy - VictorOps
 
@@ -189,8 +189,8 @@ If you wish to exercise any of these rights, please contact us using the details
 
 ### 17\. Complaints
 
-We are committed to resolve any complaints about our collection or use of your personal data. If you would like to make a complaint regarding this Policy or our practices in relation to your personal data, please contact us at: support@victorops.com. We will reply to your complaint as soon as we can and in any event, within 45 days. We hope to resolve any complaint brought to our attention, however if you feel that your complaint has not been adequately resolved, you reserve the right to contact your local data protection supervisory authority, which for the UK, is the Information Commissioner’s Office.
+We are committed to resolve any complaints about our collection or use of your personal data. If you would like to make a complaint regarding this Policy or our practices in relation to your personal data, please contact us at: victorops-support@splunk.com. We will reply to your complaint as soon as we can and in any event, within 45 days. We hope to resolve any complaint brought to our attention, however if you feel that your complaint has not been adequately resolved, you reserve the right to contact your local data protection supervisory authority, which for the UK, is the Information Commissioner’s Office.
 
 ### 18\. Contact Information
 
-We welcome your comments or questions about this Policy. You may contact us in writing at support@victorops.com or VictorOps c/o Information Security, 1401 Pearl St. Ste 300, Boulder, CO 80302 USA.
+We welcome your comments or questions about this Policy. You may contact us in writing at victorops-support@splunk.com or VictorOps c/o Information Security, 1401 Pearl St. Ste 300, Boulder, CO 80302 USA.
