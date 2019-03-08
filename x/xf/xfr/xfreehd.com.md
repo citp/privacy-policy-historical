@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the xfreehd.com privacy policy that was archived on 2018-02-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180201061722id_/https%3A//xfreehd.com/static/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the xfreehd.com privacy policy that was archived on 2019-03-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190308025645id_/https%3A//www.xfreehd.com/static/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - XFREEHD
 
