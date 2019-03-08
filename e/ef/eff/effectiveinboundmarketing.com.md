@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the effectiveinboundmarketing.com privacy policy that was archived on 2018-10-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181031103320id_/http%3A//effectiveinboundmarketing.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the effectiveinboundmarketing.com privacy policy that was archived on 2019-03-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190308062437id_/https%3A//www.effectiveinboundmarketing.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | EIM
 
