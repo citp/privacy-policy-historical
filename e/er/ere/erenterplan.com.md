@@ -1,59 +1,102 @@
-> *The following text is extracted and transformed from the erenterplan.com privacy policy that was archived on 2017-02-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170202221134id_/https%3A//erenterplan.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the erenterplan.com privacy policy that was archived on 2019-03-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190308123325id_/https%3A//www.erenterplan.com/Home/Privacy) for the most accurate reproduction.*
 
 # Privacy - Renters Insurance
 
-  
-August 5, 2014 
+September 12, 2018
 
-RealPage, Inc. (“RealPage”) is committed to providing our product and service users with clear and concise information regarding our privacy policy and practices. This Privacy Policy describes in detail our policy and practices regarding the collection, use, and disclosure of user information by the [RealPage family of companies, products, and services](http://www.realpage.com/company/). By accessing our websites or utilizing our products and services, you consent to the information collection and handling practices outlined in this policy. 
+RealPage is committed to providing our product and service users with clear and concise information regarding our privacy policies and practices. This Privacy Statement describes how RealPage and its subsidiary, Multifamily Internet Ventures, LLC, ("we," or "us") collect, use, and disclose certain personal data for our eRenterPlan insurance services (collectively “eRenterPlan”). By accessing our website or utilizing our eRenterPlan insurance services, you consent to the information collection and handling practices outlined in this statement. 
 
-RealPage may collect various types of information, both personal and anonymous, through our products, services, and websites. The information is gathered from your usage of our products and services, as well as from your entry of information on our websites. This collected information consists of two basic types of data: 1) personal information and 2) non-personal information. 
+## **eRenterPlan Services and Scope**
 
-Personal information is information that can be used to uniquely identify you as an individual or contact you directly. This may include contact information such as your name, address, telephone number, and email address. For certain financial, health, or credit-based products and services, personal information may also include sensitive data such as payment data, credit records, social security numbers, date of birth, and account numbers. Personal information is only collected based upon your choice to provide it to RealPage through our products, services, and websites. You have the option to choose not to provide personal information to us; however, the lack of such personal information will typically prevent RealPage from providing the requested products or services to you. 
+eRenterPlan offers renters insurance policies underwritten by various insurance companies. These policies are sold by Multifamily Internet Ventures, LLC, a licensed insurance agency doing business as LeasingDesk Insurance Services. Prospective policyholders may obtain policy information and purchase coverage via both our website and our insurance agency call center. This Privacy Statement covers the information collection, use, and handling practices for the entire scope of eRenterPlan services, regardless of whether information is submitted via website or telephone. References to “eRenterPlan” encompass both the eRenterPlan product and the corresponding activities of RealPage and Multifamily Internet Ventures in offering and servicing the product. This Statement does not apply to the privacy or security practices of any third party. 
 
-If you provide us personal information about others, or if others give us your information, we will only use that information for the specific reason for which it was provided to us. 
+## **Collection of Personal Data**
 
-Non-personal information is general information that does not permit direct association with you as an individual. When you browse RealPage websites, we may automatically collect non-personal information such as your IP address, device information, browser, internet connection speed, past web pages visited, and your link selections on our various website pages. This information may be used to: (1) manage and protect our websites, products, services, and users from fraudulent, abusive, or unlawful uses; and (2) help us research, develop, and improve our websites, products, and services. This type of information may also be aggregated or otherwise rendered anonymous for business and marketing uses by us or by third parties. 
+eRenterPlan collects personal data necessary to issue and service our renters insurance policies. This personal data includes the following information: 
 
-Except as explained in this Privacy Policy, RealPage does not sell, license, or share our users’ information outside the RealPage family of companies without the consent and authorization of the user whose information will be shared. 
+  * Contact Information: name, address, telephone number, and email address for the primary policyholder and additional occupants
+  * Personal Details: date of birth and driver’s license/state-issued ID number
+  * Claims Information: Prior insurance claim history
+  * Financial Account Information: bank account information and credit card information
+  * Credentials and Authentication Information: user names, passwords, password hints and security questions
+  * Technical Information: IP address, device and hardware specifications, and web browser type
+  * Usage Data: logging data that tracks service access, usage, performance metrics, and error reports
 
-We may share your information within the [RealPage family of companies, products, and services](http://www.realpage.com/company/) for operational and marketing purposes. The RealPage companies that access your information will do so in conformity with the practices described in this Privacy Policy. Sharing this information allows RealPage to provide you with the best customer service experience possible, provide you with the services you have ordered or requested, and notify you of the latest information regarding new or enhanced products, services, and promotions. RealPage may periodically send offers, promotions, and updates regarding RealPage products and services to current and potential users via e-mail. Every marketing e-mail RealPage sends contains instructions and procedures allowing you to opt out of additional marketing e-mails for that product or service. 
 
-In some circumstances, we use third-party companies, agents, and contractors to perform services on our behalf, such as website optimization, email distribution, processing credit card transactions, infrastructure and IT services, background screening, and other data processing or handling functions. In the course of engaging these third party services, RealPage only shares your information to the extent reasonably necessary for the third party to perform the services on our behalf. We do not permit these third parties to use or disclose your personal information except for the purpose of providing the services we request of them. However, please note that RealPage does not maintain control over the privacy policies and practices of any third party companies, agents, or contractors. 
 
-RealPage also reserves the right to disclose user information if we reasonably believe that such disclosure is necessary to (1) satisfy any applicable legal or regulatory requirement, (2) to respond to a governmental request, as required by law such as to comply with a subpoena, or similar legal process (3) enforce RealPage Terms of Use or investigate potential violations thereof, (4) to protect against fraudulent, malicious, abusive, unauthorized or unlawful use of RealPage products, services, and websites, or (5) to protect our rights or property, or the safety or security of our customers, employees or data. 
+## **Personal Data Usage**
 
-If RealPage enters into any business transition, restructuring, merger, sale, or other transferring of assets, we reserve the right to transfer user information, including all personal information, as part of or in connection with the transaction. You will be notified via email and/or a prominent notice on our Web site of any change in ownership or uses of your personal information, as well as any choices you may have regarding your personal information. 
+The personal data collected by eRenterPlan is used for a variety of purposes, including:
 
-Certain RealPage products, services, and websites are aligned with the senior market, assisted living, and skilled nursing industries. These products, services, and websites allow users to share and disclose protected health information in an electronic format (ePHI). RealPage is committed to protecting the privacy of ePHI received from our users in accordance with the requirements of the Health Insurance Portability and Accountability Act of 1996 (HIPAA). RealPage will not use or disclose user ePHI except as authorized by the user in accordance with the product, service, or website terms or as required by law. 
+  * eRenterPlan policy processing, issuance, and servicing
+  * Integration with your apartment community leasing and rents software, including Interested Party cancellation and lapse notifications
+  * Processing of premium payments
+  * Distribution of communications and legally-required notices regarding the status of you eRenterPlan policy
+  * Integration with your apartment community online resident portal
+  * eRenterPlan product and website optimization
 
-When you access our websites, products, and services, RealPage servers may place small text files (“cookies”) on your computer for recordkeeping purposes. Among other things, cookies enable RealPage to gather information about your activity on our websites, products, and services for the purposes of improving your online experience, remembering your preferences and settings, delivering advertising to match your preferences and interests, and for other similar customization purposes. 
 
-In addition to cookies, RealPage may utilize web beacons, clear gifs, or other technologies built into our websites, products and services to gather information on how users interact with and utilize various features. These technologies can help personalize your RealPage usage experience and help associate your interactions with our products and services to other information within your account. For example, these technologies can identify popular pages, viewing patterns, click-through, conversion rates, and other information that can be used to improve, monitor, and operate our websites, products, and services. For greater detail on how these technologies function and how your activity records are used, please review the Google Analytics privacy disclosures at [www.google.com/policies/privacy/partners/](http://www.google.com/policies/privacy/partners/). 
 
-Most internet browsers provide controls that allow users to manage or disable the placement and usage of cookies on their computer. Please note that disabling cookies may deactivate or otherwise restrict certain features on RealPage websites, products, and services. To opt out of any behavioral advertising and tracking cookies, please go to <http://www.aboutads.info/choices> to submit your do not track request. 
+## **Disclosure of Personal Data**
 
-Certain RealPage websites may include third party advertisements and links to other websites. These linked websites are operated by unaffiliated third parties that have separate and independent privacy statements, terms of use, and related notices or disclosures regarding information handling practices. Third party advertisers may also utilize cookies, web beacons, and similar technologies to collect information regarding your website interactions and activities. These third party technologies may be utilized by those entities to provided targeted advertising and web links based upon your activities and preferences. If you choose to interact with specific advertisers who advertise on our sites, the information you provide to them is subject to the conditions of their specific privacy policies and in no way covered by the practices described in this policy. RealPage cannot be responsible for the information handling practices of independent parties and encourages you to review their practices prior to information disclosure. 
+eRenterPlan may provide personal data to third-party service providers and vendors that perform tasks on our behalf to support the products and services described in this statement. eRenterPlan only shares your information to the extent reasonably necessary for the third party to perform the services on our behalf. We do not permit these third parties to use or disclose your personal information except for the purpose of providing the services we request of them. However, please note that RealPage does not maintain control over the privacy policies and practices of any third party companies, agents, or contractors. 
 
-RealPage websites, products, and services may include the option of integration through third party social networking sites and related social media plug-ins or applications. When you integrate or link our websites, products, and services with your social media applications (e.g., Facebook, LinkedIn, MySpace, Google+, etc.), you authorize RealPage to have access to certain information from your social media profile (e.g., name, e-mail address, photo, gender, birthday, location, your list of friends, comments, etc.) to deliver the content or as part of the operation of the integrated application. We may also obtain non-personally identifiable information (e.g., content viewed, advertising viewed, etc.) from your interaction with our integrated content. 
+In addition, if RealPage enters into any business transition, restructuring, merger, sale, or other transferring of assets, we reserve the right to transfer all eRenterPlan product and service information, including all personal data, as part of or in connection with the transaction. 
 
-By choosing to integrate RealPage websites, product, and services with social media applications, you consent to the use of this information in accordance with our privacy policy. When you provide personal information to us through an integrated application, it may be publicly viewed by other members of these sites and RealPage cannot prevent further use of the information by independent third parties. For more information about how social networking sites handle your personal information and available privacy settings, please refer to their privacy policies and terms of use. 
+Finally, we will access, transfer, disclose, and preserve personal data when we have a good faith belief that doing so is necessary to: 
 
-Certain RealPage websites, products, and services offer mobile applications for access via smartphones and tablet devices. These applications are subject to the information handling practices outlined in this policy. 
+  * Comply with applicable law or respond to valid requests by public authorities, including law enforcement, national security agencies, or other government entities
+  * Operate and maintain the security of our products and services
+  * Protect the rights and property of RealPage, including both intellectual property and physical systems infrastructure
+  * Permit a person with a beneficial or legal interest in a policy to protect that interest
 
-RealPage mobile applications may include the option to provide you with helpful information based on where you are. To provide such location-based services, RealPage may collect, use, and share precise location data, including the real-time geographic location of your mobile device. This location data is collected anonymously in a form that does not personally identify you and is solely used by RealPage to provide and improve location-based products and services. If you wish to deactivate this feature, you can disable the location services on your mobile device. 
 
-RealPage implements and maintains physical, administrative, and technical safeguards designed to secure user information and prevent unauthorized access to or disclosure of that information. Under our security policies and practices, access to sensitive personal information is authorized only for those who have a business need for such access, and sensitive records are retained only as long as reasonably necessary for business or legal purposes. RealPage strives to protect the user information that we collect and store, however, no security program is 100% secure and we cannot guarantee that our safeguards will prevent every unauthorized attempt to access, use, or disclose personal information. RealPage maintains security incident response policies and procedures to handle incidents involving unauthorized access to private information we collect or store. 
 
-RealPage does not target children under the age of 13 for the collection of information online. Our products, services, and websites are not designed to attract the attention of persons under the age of 13. 
+## **Cookies, Web Beacons, and Other Technologies**
 
-In the event that your personal information is found to be outdated, incomplete, or inaccurate, you may access and update your information by logging into your RealPage product or service account. If you require verification that your requested changes have been completed, and such verification is not readily displayed in your product or service account, you may request confirmation at the email address listed below (See “Contact Us”). 
+When you access the eRenterPlan website, our servers may place small text files (“cookies”) on your computer for recordkeeping purposes. Among other things, cookies enable us to gather information about your activity on our website for the purposes of improving your online experience, remembering your preferences and settings, and for other similar customization purposes. 
 
-As RealPage develops new products and services, updates or expands technologies, and develops new information uses, we reserve the right to update this Privacy Policy as necessary to reflect such changes. We recommend that you review this policy periodically for any changes that may have been made. Your continued use of RealPage products, services, and websites subsequent to any changes made after your initial consent means that you agree to be bound by those changes. The most current version of this Privacy Policy supersedes all previous versions. 
+In addition to cookies, the eRenterPlan website may utilize web beacons, clear gifs, or other technologies to gather information on how users interact with and utilize various features. For example, these technologies can identify popular pages, viewing patterns, click-through, conversion rates, and other information that can be used to improve, monitor, and operate our websites, products, and services. 
 
-If you have any questions or concerns about the RealPage Privacy Policy or its implementation, you may contact us at privacy@realpage.com or mail your written inquiry to: 
+Most internet browsers provide controls that allow users to manage or disable the placement and usage of cookies on their computer. Please note that disabling cookies may deactivate or otherwise restrict certain features on the eRenterPlan website. To opt out of any behavioral advertising and tracking cookies, please go to <http://www.aboutads.info/choices> to submit your do not track request. 
 
-RealPage, Inc.  
-Attn: Privacy (Legal)  
-4000 International Parkway  
-Carrollton, Texas 75007-1913 
+We also utilize Google Analytics, a web analytics service provided by Google, Inc. ("Google") that helps us understand (i) how visitors engage with the eRenterPlan website and (ii) the general demographics of our website audience. These analytics services collect information anonymously, using cookies and IP addresses, and report website trends without identifying individual visitors. This demographic data does not include personally identifiable information, and it is never linked to any personally identifiable information that we may have in our records. For more information about Google Analytics, please visit <https://policies.google.com/technologies/partner-sites>. You can opt out of Google’s collection and Processing of data generated by your use of the Services by going to <http://tools.google.com/dlpage/gaoptout>. 
+
+## **Third Party Advertisements and Links to Other Sites**
+
+The eRenterPlan website may include third party advertisements and links to other websites. These linked websites are operated by unaffiliated third parties that have separate and independent privacy statements, terms of use, and related notices or disclosures regarding information handling practices. Third party advertisers may also utilize cookies, web beacons, and similar technologies to collect information regarding your website interactions and activities. These third party technologies may be utilized by those entities to provided targeted advertising and web links based upon your activities and preferences. If you choose to interact with specific advertisers who advertise on our sites, the information you provide to them is subject to the conditions of their specific privacy policies and in no way covered by the practices described in this Privacy Statement. We cannot be responsible for the information handling practices of independent parties and encourage you to review their practices prior to information disclosure. 
+
+## **Data Security**
+
+eRenterPlan implements and maintains appropriate physical, administrative, technical and organizational measures to protect the personal data we process against unauthorized or unlawful access, use or disclosure, and against accidental loss, damage, alteration or destruction. Under our security policies and practices, access to personal data is authorized only for those who have a business need for such access. eRenterPlan strives to protect the personal data that we process; however, no security program is 100% secure and we cannot guarantee that our safeguards will prevent every unauthorized attempt to access, use, or disclose personal data. We maintain security incident response policies and procedures to handle incidents involving unauthorized access to personal data we process. 
+
+## **Accessing and Updating Personal Information**
+
+In the event your personal information is determined to be outdated, incomplete, or inaccurate, you may access and update your information by logging into your eRenterPlan account or calling our insurance agency call center. If you require verification that your requested changes have been completed, and such verification is not readily displayed in your product or service account, you may request confirmation at the email address listed below (See “Contact Us”). 
+
+## **Children’s Online Privacy**
+
+eRenterPlan does not target children under the age of 13 for the collection of information online. Our product, services, and website are not designed to attract the attention of persons under the age of 13. 
+
+## **California Privacy Rights – “Shine The Light” Requests**
+
+California Civil Code Section § 1798.83 permits California residents to request certain information regarding our disclosure of personal information to third parties for their direct marketing purposes. Your options for making such a request are listed below. (See “Contact Us”). 
+
+## **Privacy Policy Changes**
+
+eRenterPlan reserve the right to update this Privacy Statement as necessary to reflect changes in our products and services. We recommend that you review this Statement periodically for any changes that may have been made. Your continued use of the eRenterPlan services and website subsequent to any changes made after your initial consent means that you agree to be bound by those changes. The most current version of this Privacy Statement supersedes all previous versions. 
+
+## **Contact Us**
+
+If you have any questions or concerns about this Privacy Statement or its implementation, you may contact us via the following methods: 
+
+**Via US Postal Service at:**  
+RealPage, Inc.   
+Attn: Privacy (Legal)   
+2201 Lakeside Blvd.  
+Richardson, TX 75082 
+
+OR 
+
+**Via email at:**  
+[privacy@realpage.com](mailto:privacy@realpage.com)
