@@ -1,93 +1,192 @@
-> *The following text is extracted and transformed from the voiceplaces.com privacy policy that was archived on 2017-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170628023349id_/http%3A//www.laweekly.com/about/privacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the voiceplaces.com privacy policy that was archived on 2019-03-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190308093928id_/https%3A//www.voicemediagroup.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Los Angeles News and Events | LA Weekly
+# Privacy Policy | www.voicemediagroup.com
 
-### LA Weekly, LP
+Privacy Policy  
+Voice Media Group, Inc.
 
-This Privacy Policy is effective as of February 15, 2012.
+Voice Media Group (“us”, “we”, or “our”) operates the http://www.voicemediagroup.com website (the “Service”). For users located in the European Economic Area, and to the extent applicable, Voice Media Group is the data controller and is responsible for the Personal Data (as defined below) of EEA users of the Services.
 
-This Privacy Policy describes the practices that LA Weekly, LP ("L.A. Weekly") follows with respect to the collection, maintenance and use of information submitted on laweekly.com (the "Site"). This Privacy Policy applies only to information we collect from this Site, and does not apply to any other website or business activity of L.A. Weekly. By using our Site, and/or providing information to us, you consent to the collection, maintenance and use of this information by us.
+This page informs you of our policies regarding the collection, use, and disclosure of personal data when you use our Service and the choices you have associated with that data.
 
-If you do not agree to the terms of this Privacy Policy, please do not use the Site and exit immediately. We reserve the right to modify or amend the terms of this Privacy Policy from time to time. Your continued use of the Site following the posting of changes to these terms means that you accept those changes. We will give you notice of the revised Privacy Policy by posting the revised policy on the Site and by revising the "effective date" set forth above.
+We use your data to provide and improve the Service. By using the Service, you agree to the collection and use of information in accordance with this policy. Unless otherwise defined in this Privacy Policy, terms used in this Privacy Policy have the same meanings as in our Terms and Conditions, accessible from [http://www.voicemediagroup.com](https://www.voicemediagroup.com/)
 
-### Information We Collect
+## Information Collection and Use
 
-We collect and maintain personally identifiable information and automatic information.
+We collect several different types of information for various purposes to provide and improve our Service to you.
 
-### Personally Identifiable Information
+Where we need to collect Personal Data by law, or under the terms of a contract we have with you, and you fail to provide that data when requested, we may not be able to provide the Service or perform the contract we have or are trying to enter into with you.
 
-"Personally identifiable information" is information that tells us who you are, such as your name, screen name, email address, postal address, phone number, credit card information, birth date/year and gender.
+## Types of Data Collected
 
-L.A. Weekly collects and maintains personally identifiable information about you only when you provide it to us. For example, we may collect and maintain personally identifiable information about you when you register for or participate in contests, sweepstakes, promotions, polls, surveys, newsletters and text messages (including contests, sweepstakes, promotions, polls, surveys, newsletters and text messages of certain third parties). We may also collect and maintain personally identifiable information when you post an ad, submit comments to the Site or letters to the editor, submit events for inclusion on our Site, purchase event tickets from us, or otherwise provide it to us when you contact us.
+#### Personal Data
 
-If you do not provide information to us, you may be unable to use certain features of the Site. For example, you cannot post comments in connection with certain articles or register for the Site, contests, surveys or newsletters unless you provide certain information. Also, you will not be able to submit events for inclusion on our Site or purchase event tickets if you do not provide certain information.
+While using our Service, we collect certain personally identifiable information that can be used (either alone or in combination with other information) to contact or identify you (“Personal Data”). We collect and use your Personal Data for the purposes set out below. The Personal Data we collect includes:
 
-### Automatic Information and Cookies
+· Email address  
+· First name and last name  
+· Phone number  
+· Address, State, Province, ZIP/Postal code, City  
+· Usage Data (including data obtained from the use of cookies or similar technologies)  
+· Location Data  
+· Cookies Data
 
-"Automatic information" is information automatically collected whenever you visit our site. For example, automatic information includes information collected by our web server (which may be hosted by a third party) that your web browser makes available whenever you visit our Site, such as your browser type and capabilities, network properties, the site that you visited before viewing our Site, content viewed on the Site, and your geographic location. We currently use, or may use, such information in various ways:
+When you sign in to our Service using a social media account, you give permission to the social media platform to share with us Personal Data. 
 
-Aggregated data: We maintain automatic information in aggregated form, not associated with your IP address or personally identifiable information. 
+When you post information on a discussion board or comment publicly on an article on our Service, the information you post and your username are publicly accessible. This information can be viewed online and collected by other people. We are not responsible for the way these other people use this information. When contributing to a discussion, we strongly recommend you avoid sharing any personal details, and especially information that can be used to identify you directly such as your name, age, address and name of employer. We are not responsible for the privacy of any identifiable information that you post in our online community or other public pages of the Service.
 
-IP address tracking: All computers and servers on the Internet use IP addresses to recognize and communicate with each other. We collect and maintain IP addresses to administer and analyze our Site and report aggregate information (such as how many visitors we have and how many visitors see and click on particular advertisements). 
+#### Usage Data
 
-We may associate your IP address with your personally identifiable information and may maintain, use and disclose such information in accordance with the terms of this Privacy Policy below.
+We may also collect information about how you use and access the Service (for example, the duration of a page visit and your browsing journey, including where you entered the Service from and where you go from you exit) (“Usage Data”). This Usage Data includes information such as your device’s Internet Protocol address (i.e. IP address), browser type, browser version, the pages of our Service that you visit, the time and date of your visit, the time spent on those pages, unique device identifiers and other diagnostic data.
 
-Cookies: This Site uses "cookies." "Cookies" are small text files that allow websites to store and retrieve information about you from your computer system. L.A. Weekly does serve cookies to track individual site usage for later aggregation and for other purposes explained in this policy. You are always free to decline our cookies if your browser permits, but you may not be able to take full advantage of our Site's features if you do. 
+#### Location Data
 
-We do not and cannot use cookies or IP address tracking to retrieve personally identifiable information from your computer.
+We may use and store information about your location if you give us permission to do so (“Location Data”) by setting your device to allow for location tracking/data or by opting in to browser prompt that asks for location tracking. We use this data to provide features of our Service, to improve and customize our Service, such as:
 
-Online Behavioral Advertising. L.A. Weekly may tailor advertisements on the Site to a user's apparent interests, based on user browsing activity. That is, ads may be displayed for you on the Site based on the pages and content that you view. This is sometimes known as first-party online behavioral advertising. Also, your viewing activity on the Site may be shared with advertising networks, so that they can display ads for you, which they believe will interest you, on other sites, not affiliated with L.A. Weekly. This is sometimes known as third-party online behavioral advertising. L.A. Weekly attempts to deal with advertising networks that are members of the Network Advertising Initiative or the Digital Advertising Alliance, but at times ad networks that are not NAI or DAA participants may have access to your activity on the Site, and hence may use that information in connection with displaying ads to you on other sites. 
+· Content that is around your specific location  
+· Business location/listings around your location
 
-Advertising networks that are members of Network Advertising Initiative or that participate in the Digital Advertising Alliance have subscribed to certain principles relating to collection and use of information, and may permit users to direct whether or how information about their viewing activities are used for advertising purposes. To register your preferences or choices, or to opt out of behavioral advertising offered by participants in these programs, visit http://www.networkadvertising.org or http://www.aboutads.info.
+You can enable or disable location services when you use our Service at any time, through your device settings.
 
-If you change browsers or computers, or delete the cookies on your computer, you may need to re-enter your preferences or opt-out.
+#### Tracking Cookies Data
 
-Web Beacons: The Site uses web beacons, which provide website operators and third parties a means to deliver a graphic image on a web page or in an email message for the purpose of gathering data. The Site uses web beacons to gather automatic information such as the duration of a visit to the Site, the web pages viewed, a user's geographical information (e.g., city, state, zip code), IP address, and type of web browser.
+We use cookies and similar tracking technologies to track the activity on our Service and hold certain information (“Cookies Data”). You can instruct your browser to refuse all cookies or to indicate when a cookie is being set. However, if you do not accept cookies, you may not be able to use some portions of our Service. Please see our Cookies Policy for further information.
 
-### Use and Disclosure of Information
+## Use of Data
 
-We maintain and use personally identifiable information for the purpose or purposes for which it is provided and for purposes specified in this Privacy Policy. For example, we may maintain and use personally identifiable information to send newsletters and text messages that you have opted to receive; to establish your online account and recognize you when you return to the Site; to contact you regarding contests, promotions, polls, and surveys; to complete the sale of event tickets; to provide customer support; or to otherwise communicate with you regarding our Site, an ad you posted, an event you submitted to the Site, or your comments or letters to the editor. 
+Voice Media Group uses the data it collects for various purposes:
 
-We may also maintain and use your personally identifiable information to attribute your comments, letters to the editor and/or other submissions to the Site to you. As has traditionally been the case with our print editions, we may require that you supply certain information to us (such as your real name, daytime telephone number and/or e-mail address) in connection with comments and other submissions to the Site. That is because we may need to contact you, and because your identity may be important to understand your point of view. If you send us comments or other submissions, we reserve the right to publish them in print or display them on this Site in full or in edited form. We normally honor requests to withhold your name and address when provided in connection with comments and other submissions, both in print and on-line, but we reserve the right to use, discuss and report facts that we consider newsworthy relating to submissions even if it might reveal or tend to reveal the poster's identity.
+· To provide and maintain our Service and the services you sign up for;  
+· To notify you about changes to our Service;  
+· To allow you to participate in interactive features of our Service when you choose to do so;  
+· To provide customer support, including to respond to your queries and resolving complaints;  
+· To use data analytics to improve our Service, products/services, marketing, customer relationships and experiences – see “Analytics” below;  
+· To monitor the usage of our Service – see “Analytics” below;  
+· To administer and protect our business and the Service (including for accounting and records, troubleshooting, data analysis, testing, system maintenance, support, reporting and hosting of data);  
+· To deliver personalized Service content and advertisements to you (including using third party service providers) and measure or understand the effectiveness of the advertising we (or such third parties) serve to you;  
+· To sell advertising space on the Service;  
+· To provide you with news, special offers and general information about other goods, services and events which we offer that are similar to those that you have already purchased or enquired about unless you have opted not to receive such information – see “Marketing” below;  
+· To comply with applicable laws and regulations.
 
-We may combine personally identifiable information and automatic information we obtain from you or your activities with other data concerning or relating to the behavioral and demographic attributes of our customers, in order to identify our best customers, reach them effectively, understand their interests and best manage our relationships with them.
+## Analytics
 
-We may also use personally identifiable information to send you advertisements, promotions and information about the Site, L.A. Weekly and our partners. 
+We use Google Analytics to monitor and analyze the use of our Service. Google Analytics is a web analytics service offered by Google that tracks and reports website traffic. For more information on Google’s privacy practices, please see Google’s Privacy and Terms: <https://policies.google.com/?hl=en>
 
-We may disclose personally identifiable information in special cases when we have reason to believe that disclosing this information is necessary to identify, contact, or bring legal action against someone who may have breached our Terms of Use or who may be causing injury to or interference with (either intentionally or unintentionally) our rights or property, other users of our Site, or anyone else who could be harmed by such activities. We may also disclose personally identifiable information when we reasonably believe that the law requires it. 
+You can opt-out of having your data used by Google Analytics by installing the Google Analytics opt-out browser add-on: <https://tools.google.com/dlpage/gaoptout>
 
-If you chose to provide your personally identifiable information for the purposes of a third-party contest, promotion, poll, survey or newsletter, your personally identifiable information will be given to L.A. Weekly and to the third-party advertiser/sponsor involved with the relevant contest, promotion, poll, survey or newsletter and/or its agents and affiliates. For rules or requirements for contests, promotions, polls, surveys and/or newsletters, please see the applicable page on our Site. 
+We use Chartbeat to monitor and analyze the use of our Service. Chartbeat is a web analytics service offered by Chartbeat that tracks and reports website article traffic. For more information on Chartbeat’s privacy practices, please see Chartbeat’s Privacy and Terms:   
+<https://chartbeat.com/privacy>  
+<https://chartbeat.com/terms/>
 
-We occasionally have third party agents, subsidiaries, affiliates and joint ventures that perform functions on our behalf, such as credit card processing, shipping or stocking orders, providing customer service, data combination, etc. They are provided access to personally identifiable information needed to perform their functions.
+## Marketing
 
-In the event of a sale of L.A. Weekly or a sale of substantially all L.A. Weekly assets, personally identifiable information may be one of the business assets transferred or sold.
+In relation to marketing communications, we may provide you with an “opt in” or “opt-out” mechanism depending on where in the world you are located. An “opt-in” mechanism will provide you the opportunity to positively indicate that you would like or do not object to our sending you such further communications and we will not send you any unless you have “opted-in”. An “opt-out” mechanism will provide you the opportunity to indicate that you do not want us to send you such further communications, and if you “opt-out” we will not send you any.
 
-We may maintain and use automatic information to track how our visitors use the Site, study traffic patterns, and run and maintain the site, and we and other third parties may provide targeted advertisements to you based on such data. 
+## Advertising
 
-We may share aggregated data with our advertisers and other marketing and business partners.
+We use Google’s AdSense and DoubleClick services to show advertisements to you to help support and maintain our Service. Google uses cookies to enable it and its partners to serve ads to our users based on their visit to our Service or other websites on the internet. You can use Google’s Ads Settings to manage the Google ads you see and opt out of Ads Personalization. For more information on Google’s privacy practices, please see Google’s Privacy and Terms: <https://policies.google.com/?hl=en>
 
-This Privacy Policy does not apply to any information you choose to make public. 
+## Behavioral Remarketing
 
-### Opt-Out
+Voice Media Group uses the remarketing services below to advertise on third party websites to you after you have visited our Service. We and our third-party service providers use cookies to inform, optimize and serve ads based on your past visits to our Service. The collection and use of Personal Data by the remarketing service providers below is governed by their respective privacy policies. 
 
-You may terminate any ongoing communications you receive from L.A. Weekly via e-mail (such as newsletters, subscriptions, contest results, survey inquiries, etc.) by (1) clicking the "unsubscribe" link that is available within the communication received, or (2) through your online profile. 
+· **AppNexus:** Please see the AppNexus Platform Privacy Policy for information regarding AppNexus’s privacy practices including on how to manage or opt out of their cookies: <https://www.appnexus.com/platform-privacy-policy>  
+· **Quantcast:** Please see Quantcast’s Platform Privacy Policy for information regarding Quantcast’s privacy practices including on how to manage or opt out of their cookies: <https://www.quantcast.com/privacy/>  
+· **Rubicon:** Please see Rubicon’s Platform Privacy Policy for information regarding Rubicon’s privacy practices including on how to manage or opt out of their cookies: <https://rubiconproject.com/privacy/>  
+· **APS:** Please see APS’s Privacy Policy for information regarding APS’s privacy practices including on how to manage or opt out of their cookies:. 
 
-### Children
+You can also manage many companies’ cookies used for online advertising via the consumer choice tools created under self-regulation programs in many countries, such as the US-based [aboutads.info choices](http://optout.aboutads.info/) page or the EU-based [Your Online Choices](http://www.youronlinechoices.com/uk/your-ad-choices).
 
-Some of the material on this Site is for mature audiences, and parents and guardians should take responsibility for monitoring their children's use of the Site. Children under the age of 13 should not use this Site. We do not intentionally collect personally identifiable information from users of the Site who are under the age of thirteen. 
+Please also see our Cookies Policy for further information.
 
-### Links to Other Sites
+## Legal Basis for Processing Personal Data Under General Data Protection Regulation (GDPR)
 
-This Site provides links to websites maintained by other organizations. L.A. Weekly provides these links as a convenience to users, but it does not operate, control or endorse such sites. L.A. Weekly also disclaims any responsibility for the information on those sites and any products or services offered on such sites. Please review the privacy policies of these sites. L.A. Weekly is not responsible for any actions or policies of such third parties, and does not make any warranties or representations that any linked sites (or even this Site) will function without error or interruption, that defects will be corrected, or that the sites and their servers are free of viruses and other problems that can harm your computer. L.A. Weekly disclaims any responsibility for transactions conducted on those sites and cannot vouch for the security of the information submitted in those transactions. 
+If you are located in the European Economic Area, Voice Media Group’s legal basis for collecting and using your Personal Data, as described in this Privacy Policy, depends on the Personal Data we collect and the specific context in which we collect it. 
 
-### E-Commerce and Our Secure Server
+Generally, Voice Media Group processes your Personal Data on the basis of one or more of the following legal grounds:
 
-We use reasonable efforts to protect your personally identifiable information from unauthorized use or disclosure. Unfortunately, information transmitted on the Internet and/or stored on systems attached to the Internet are not 100% secure. As a result, we do not ensure, warrant or guarantee the security or integrity of such information. We will not be responsible for disclosure of any information due to errors in transmission or the unauthorized acts of third parties.
+· We need to perform a contract with you;  
+· You have given us permission to do so;  
+· The processing is in our legitimate interests and it’s not overridden by your rights. Such “legitimate interests” include:
 
-### Updates and Changes to Your Information.
+· to study how customers use the Service,  
+· to develop the Service and grow our business,  
+· to manage our business, including the provision of administration and IT services, network security, to prevent fraud and in the context of a business reorganization or group restructuring exercise,  
+· to inform our marketing and advertising strategy; or
 
-If your personally identifiable information changes, you may correct and/or update it by sending us [an email](https://web.archive.org/about/contact?category=community). You may also view, correct and/or update your personally identifiable information by accessing your profile on the Site. 
+· To comply with our legal and regulatory obligations.  
+· We may process your Personal Data for more than one lawful ground depending on the specific purpose for which we are using your data. Please contact us if you need details about the specific legal ground we are relying on to process your Personal Data.
 
-### More Questions? 
+## Retention of Data
 
-If you have any questions about this privacy policy, please e-mail them to [privacyadministrator@laweekly.com](mailto:privacyadministrator@laweekly.com), and be sure to indicate the specific site you are visiting and the nature of your question or concern.
+Voice Media Group retains your Personal Data only for as long as is necessary for the purposes set out in this Privacy Policy. We will retain and use your Personal Data to the extent necessary to comply with our legal obligations (for example, if we are required to retain your data to comply with applicable laws), resolve disputes, and enforce our legal agreements and policies.
+
+Voice Media Group also retains Usage Data for internal analysis and statistical purposes. Usage Data is generally retained for a shorter period of time than other Personal Data, except when such data is used to strengthen the security of the Service or to improve the functionality of our Service, or we are legally obligated to retain such data for longer time periods.
+
+To determine the appropriate retention period for Personal Data, we consider the amount, nature and sensitivity of the Personal Data, the potential risk of harm from unauthorized use or disclosure of your Personal Data, the purposes for which we process your Personal Data and whether we can achieve those purposes through other means, and the applicable legal, regulatory, tax, accounting or other requirements.
+
+## Transfer of Data
+
+Your information, including Personal Data, may be transferred to — and stored on — computers located outside of your state, province, country or other governmental jurisdiction where the data protection laws may differ to those in your local jurisdiction.
+
+If you are located outside United States and choose to provide information to us, please note that this information, including Personal Data, is processed in the United States.
+
+Subject to applicable law, your consent to this Privacy Policy **OR** use of the Service] and your submission of such information constitutes your agreement to the transfer of your information to the United States.
+
+Voice Media Group will take all steps reasonably necessary to ensure that your data is treated securely and in accordance with this Privacy Policy. No transfer of your Personal Data will take place to an organization or a country unless there are adequate controls in place in relation to the security of your data (including Personal Data).
+
+## Disclosure of Data
+
+We may share your Personal Data with the parties, or in the circumstances, set out below. We require all third parties to respect the security of your Personal Data and to treat it in accordance with the law. We do not allow our third-party service providers to use your Personal Data for their own purposes and only permit them to process your Personal Data for specified purposes and in accordance with our instructions. 
+
+· **Within voicemediagroup.com:** voicemediagroup.com may share information collected through the Services with other companies in the Voice Media Group. These affiliates are permitted to use your information for their own marketing purposes and in a manner otherwise consistent with this Privacy Policy.  
+· **Service Providers:** We may employ third party companies and individuals to facilitate our Service, to provide the Service on our behalf, to perform Service-related activities or to assist us in analyzing how our Service is used. These third parties have access to your Personal Data only to perform these tasks on our behalf and are obligated not to disclose or use it for any other purpose.  
+· **Business Transaction:** If Voice Media Group is involved in a merger, acquisition or asset sale, your Personal Data may be transferred to another third party. If a change happens to our business, then the new owners may use your Personal Data in the same way as set out in this Privacy Policy.  
+· **Disclosure for Law Enforcement:** Under certain circumstances, Voice Media Group may be required to disclose your Personal Data if required to do so by law or in response to valid requests by public authorities (e.g. a court, a government agency, or law enforcement organization).  
+· **Legal Requirements:** Voice Media Group may disclose your Personal Data to such third parties where such action is necessary to: comply with a legal obligation, protect and defend the rights or property of Voice Media Group, prevent or investigate possible wrongdoing in connection with the Service, protect the personal safety of users of the Service or the public, or protect against legal liability.  
+· **Professional Advisors:** We will share your Personal Data with our professional advisors, including legal advisors and insurers, where this is necessary for the advice they provide. These third parties have access to your Personal Data only to perform these tasks on our behalf and are obligated not to disclose or use it for any other purpose.  
+· **Advertising Partners:** We may share your information with our advertising partners. Please see “Marketing” and “Behavioral Remarketing” above. This means that when you are on another website, you may be shown advertising based on your browsing patterns on the Service. We may also show you advertising on the Service based on your browsing patterns on other sites that we have obtained from our advertising partners.
+
+## Security of Data
+
+The security of your data is important to us, but no method of transmission over the internet, or method of electronic storage is 100% secure. While we strive to use commercially acceptable means to protect your Personal Data, we cannot guarantee its absolute security.
+
+## “Do Not Track” Signals Under California Online Privacy Protection Act (CalOPPA)
+
+We do not support Do Not Track (“DNT”). Do Not Track is a preference you can set in your web browser to inform websites that you do not want to be tracked. You can enable or disable Do Not Track by visiting the Preferences or Settings page of your web browser.
+
+## Your Data Protection Rights Under General Data Protection Regulation (GDPR)
+
+If you are located in the EEA, and subject to national or local law exemptions, you have certain data protection rights in certain circumstances. Please contact us if you would like to exercise any of these rights.
+
+· **Right to withdraw consent at any time:** This applies where we are relying on consent to process your Personal Data.  
+· **Access:** This enables you to receive a copy of the Personal Data we hold about you and to check that it is accurate and that we are processing it lawfully.  
+· **Object:** This enables you to object to processing of your Personal Data where we are relying on a legitimate interest and there is an impact on your fundamental rights and freedoms. In some cases, we may demonstrate that we have compelling legitimate grounds to process your information which override certain of your rights and freedoms. You also have the right to object where we are processing your Personal Data for direct marketing purposes.  
+· **Correction:** This enables you to have any incomplete or inaccurate Personal Data we hold about you corrected, though we may need to verify the accuracy of the new Personal Data you provide to us.  
+· **Erasure:** This enables you to ask us to delete or remove Personal Data where there is no good reason for us continuing to process it. Note, however, that we may not always be able to comply with your request for erasure for specific legal reasons which will be notified to you, if applicable, at the time of your request.  
+· **Portability:** This enables you to request the transfer of your Personal Data to you or to a third party. We will provide to you, or a third party you have chosen, your Personal Data in a structured, commonly used, machine-readable format. Note that this right only applies to automated information which you initially provided consent for us to use or where we used the information to perform a contract with you.  
+· **Restriction:** This enables you to ask us to suspend the processing of your Personal Data in the following circumstances: (a) if you want us to establish the information’s accuracy; (b) where our use of the data is unlawful but you do not want us to erase it; (c) where you need us to hold the Personal Data even if we no longer require it as you need it to establish, exercise or defend legal claims; or (d) you have objected to our use of your Personal Data but we need to verify whether we have overriding legitimate grounds to use it. 
+
+Please note that we may ask you to verify your identity before responding to such requests.
+
+You have the right to complain to the relevant EU Data Protection Authority about our collection and use of your Personal Data at any time. However, we would appreciate the opportunity to address your complaint in the first instance.
+
+## Links to Other Sites
+
+Our Service may contain links to other sites that are not operated by us. If you click on a third party link, you will be directed to that third party’s site. We strongly advise you to review the Privacy Policy of every site you visit.
+
+We have no control over and assume no responsibility for the content, privacy policies or practices of any third party sites or services.
+
+## Children’s Privacy
+
+Our Service does not address anyone under the age of 18 and we do not knowingly collect Personal Data from anyone under the age of 18. If you are a parent or guardian and you are aware that your child has provided us with Personal Data, please contact us. If we become aware that we have collected Personal Data from children without verification of parental consent, we take steps to remove that information from our servers.
+
+## Changes to This Privacy Policy
+
+We may update our Privacy Policy from time to time. We will notify you of any changes by posting the new Privacy Policy on this page and updating the “effective date” at the top of this Privacy Policy. Where we make material changes to this Privacy Policy, we will endeavor to notify you specifically via email and/or a prominent notice on our Service. Nevertheless, you are advised to review this Privacy Policy periodically for any changes. Changes to this Privacy Policy are effective when they are posted on this page.
+
+## Contact Us
+
+If you have any questions about this Privacy Policy, please contact us:
+
+· By email: [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#8efefce7f8efedf7efeae3e7e0e7fdfafceffae1fccef8e1e7edebe3ebeae7efe9fce1fbfea0ede1e3)
