@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the echt.com.au privacy policy that was archived on 2018-09-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180906003837id_/https%3A//echt.com.au/pages/faq) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the echt.com.au privacy policy that was archived on 2019-03-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190308011252id_/https%3A//echt.com.au/pages/faq) for the most accurate reproduction.*
 
 # Privacy Policy - Echt Apparel | Engineered for the Modern Day Athlete
 
