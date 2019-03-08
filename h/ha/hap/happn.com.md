@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the happn.com privacy policy that was archived on 2018-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180624041139id_/https%3A//www.happn.com/en/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the happn.com privacy policy that was archived on 2019-03-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190308092822id_/https%3A//www.happn.com/en/privacy) for the most accurate reproduction.*
 
 # Privacy policy
 
@@ -25,7 +25,7 @@ The information you share contains the following data: 
 **Registration data:** this is the basic data that is necessary for you to register and access our Services. This data is collected by HAPPN from Facebook, via Facebook Connect, to simplify the process. When you click on “Facebook Connect”, you let Facebook share this data with us. This identity data is: 
 
   * Your photo (public): this is, at least, your public Facebook profile picture. You then have the option of removing this photo and/or adding other photos to your Account from your Facebook account or smartphone.
-  * Your birthdate (private): only your age, as deducted from the birthday, will be visible to other members. You can also hide your age by subscribing to an option. 
+  * Your birthdate (private): only your age, as deduced from the birthday, will be visible to other members. You can also hide your age by subscribing to an option. 
   * Your gender (public)  
   * Your first name (public)
   * Your last name (private)
@@ -100,7 +100,7 @@ Lastly, we may be required to share your data for the purposes of a corporate op
 
 ### **5\. Overview of a Member’s rights**
 
-In compliance with the French Data Protection Act of January 6th, 1978 (Loi Informatique et Libertés), and the GDPR, every Member has a right to access, rectify, and a right to data portability and removal of his/her personal data, along with a right to contest or limit processing of his/her personal data, and the right to decide on the way to handle the personal data after his/her death.  In an effort to address its Members’ concerns, HAPPN commits to respecting the protection of personal data and to process requests as soon as possible. A Member can exercise his/her rights, granted he/she can prove his/her identity, by sending a letter or e-mail to [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection) or by exercising his/her rights directly on the Application. 
+In compliance with the French Data Protection Act of January 6th, 1978 (Loi Informatique et Libertés), and the GDPR, every Member has a right to access, rectify, and a right to data portability and removal of his/her personal data, along with a right to contest or limit processing of his/her personal data, and the right to decide on the way to handle the personal data after his/her death.  In an effort to address its Members’ concerns, HAPPN commits to respecting the protection of personal data and to process requests as soon as possible. A Member can exercise his/her rights, granted he/she can prove his/her identity, by sending a letter or e-mail to support@happn.com or by exercising his/her rights directly on the Application. 
 
 For any other claim, the Member may lodge a claim with the national authority responsible for the protection of data. 
 
@@ -149,7 +149,7 @@ To learn more, read our document on the Use of Cookies on our website. 
 If you have any questions regarding this privacy policy, or any other request concerning your personal data, you can contact us: 
 
   * by filling the contact form on HAPPN’s website (www.happn.com) or directly on the Application
-  * by sending an e-mail to our contact e-mail address [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection)
+  * by sending an e-mail to our contact e-mail address support@happn.com.
   * by sending a letter to the following address: For the Representative for data protection - 8 rue du Sentier 75002 Paris – France.
 
 
