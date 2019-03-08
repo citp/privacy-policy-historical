@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the wtso.com privacy policy that was archived on 2016-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161101223808id_/https%3A//www.wtso.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wtso.com privacy policy that was archived on 2019-03-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190308235053id_/https%3A//www.wtso.com/privacy-policy) for the most accurate reproduction.*
 
-# Wine At The Best Price Online - One At A Time - 'Til Sold Out
+# Premier Online Wine Shop | Wines Til Sold Out | wtso.com
 
 #### Our Commitment to Privacy
 
@@ -69,9 +69,3 @@ From time to time, we may sponsor sweepstakes, contests, other promotions or sur
 #### With Whom Will the Information Be Shared?
 
 The personally identifiable information gathered during your visit to this website is not shared with any organization for any purpose.
-
-* * *
-
-#### TITLE & OWNERSHIP
-
-Title to, and ownership of, all wine passes from WTSO to the purchaser in the State of New Jersey and the purchaser takes all responsibility for the import of the package from New Jersey to his/her home state. Since we own all of our inventory and therefore arrange for transportation of the wine, WTSO is providing a service to, and acting on behalf of the purchaser. By utilizing this service from WTSO, the purchaser is representing that he/she is acting in a fashion compliant with his/her local and state laws regarding the purchase, transportation, and delivery of wine. By placing an order with WTSO, buyer authorizes WTSO to act on buyer’s behalf to engage a common carrier to deliver buyer’s order. The purchaser represents that he/she has obtained all required permissions, paid all required fees, is working through properly licensed intermediaries, is legally entitled to take possession of wine, is legally entitled to take quantities ordered, and authorizes that he/she is 21 years of age. WTSO makes no representation to the legal rights of anyone to ship or import alcoholic beverages into any state outside of New Jersey.
