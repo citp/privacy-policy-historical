@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the carefreervresorts.com privacy policy that was archived on 2018-08-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180822233919id_/http%3A//www.suncommunities.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the carefreervresorts.com privacy policy that was archived on 2019-03-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190308124649id_/http%3A//www.suncommunities.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Sun Communities, Inc.
 
