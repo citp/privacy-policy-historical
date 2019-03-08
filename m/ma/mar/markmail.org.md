@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the markmail.org privacy policy that was archived on 2018-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180623193412id_/http%3A//www.marklogic.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the markmail.org privacy policy that was archived on 2019-03-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190308083105id_/http%3A//www.marklogic.com/privacy-policy) for the most accurate reproduction.*
 
 # MarkLogic Privacy Statement
 
