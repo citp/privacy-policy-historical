@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mysmartrend.com privacy policy that was archived on 2018-09-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180908084728id_/http%3A//www.mysmartrend.com/legal) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mysmartrend.com privacy policy that was archived on 2019-03-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190308140554id_/http%3A//www.mysmartrend.com/legal) for the most accurate reproduction.*
 
 # Web Site Privacy Statement | Comtex SmarTrend
 
@@ -57,7 +57,7 @@ The _SmarTrend_ ® Service uses encryption technology to protect your privacy an
 
 Comtex will occasionally update this Privacy Statement as our business and products evolve. When we do, we will also revise the "last updated" date at the top of the Privacy Statement. For material changes to this Privacy Statement, Comtex will notify you by placing prominent notice on the Web site.
 
-If you have questions about this Privacy Statement, its implementation, or our practices, please contact us at [cs@comtex.com](mailto:cs@comtex.com).
+If you have questions about this Privacy Statement, its implementation, or our practices, please contact us at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#b4d7c7f4d7dbd9c0d1cc9ad7dbd9).
 
 _This document was last updated on July 15,2015_
 
@@ -89,7 +89,7 @@ Your CSM information is linked to your account and device GUIDs on our servers. 
 
 If you obtained access to the _SmarTrend_ ® Service from a third party (e.g., Track Data, Knobias, Stockgroup), please read the third party's privacy statement or otherwise learn about the third party's privacy practices. This is important because these parties may have access to usage information and this information may be linked to personal information about users.
 
-You may choose to terminate the _SmarTrend_ Service, with 24 hours prior notice, by writing to [cs@mysmartrend.com](mailto:cs@mysmartrend.com). All information collected up to the date on which you terminate access will be treated in accordance with this Privacy Statement.
+You may choose to terminate the _SmarTrend_ Service, with 24 hours prior notice, by writing to [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#90f3e3d0fde9e3fdf1e2e4e2f5fef4bef3fffd). All information collected up to the date on which you terminate access will be treated in accordance with this Privacy Statement.
 
 Except as specifically permitted in this Statement, no provision of this Statement can be, nor be deemed to be, waived, altered, modified or amended unless agreed to in writing signed by an authorized officer of Comtex (Vice President or higher).
 
