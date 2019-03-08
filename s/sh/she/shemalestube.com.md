@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the shemalestube.com privacy policy that was archived on 2018-10-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181024155231id_/https%3A//www.shemalestube.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shemalestube.com privacy policy that was archived on 2019-03-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190308092711id_/https%3A//www.shemalestube.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | ShemalesTube.com
 
@@ -46,3 +46,5 @@ Unfortunately, the transmission of information via the Internet is not completel
 ### YOUR RIGHTS
 
 You are entitled to access and correct your Data by doing so directly on the website or by requesting us to do so via email ( webmaster@shemalestube.com ). 
+
+Third Wave Network S.R.L. Bulevardul Nicolae Titulescu, Nr 2, Bloc 2A, Scara 3, #73 Cluj Napoca, Romania 
