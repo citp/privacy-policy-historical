@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the jobungo.com privacy policy that was archived on 2018-04-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180414090337id_/http%3A//jobungo.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jobungo.com privacy policy that was archived on 2019-03-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190308071607id_/https%3A//www.jobungo.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Jobungo.com
 
-### Updated 2014
+### Updated July 2018
 
 Jobungo.com (“Jobungo”) takes your privacy very seriously and has created this Privacy Policy in order to disclose its use of consumer data collected about you. You may contact Jobungo at 4533 MacArthur Blvd., Suite #254, Newport Beach, CA 92660 or via our [contact form](https://web.archive.org/contact).
 
@@ -34,7 +34,7 @@ Through our use of Facebook products and services, including but not limited to 
 
 ### Email Communications
 
-Jobungo respects your email preferences and will never provide your email address to a third party without your permission, except as may be prescribed elsewhere in this Privacy Policy. If you provide us your email address, Jobungo may email you job alerts, account notifications, news, offers, surveys, promotions, and other communications. If you do not want to receive particular types of email messages from Jobungo, follow the unsubscribe instructions contained in the email message to notify us of our preferences, or click [here.](https://web.archive.org/unsubscribe)
+Jobungo respects your email preferences and will never provide your email address to a third party without your permission, except as may be prescribed elsewhere in this Privacy Policy. If you provide us your email address, Jobungo may email you job alerts, account notifications, news, offers, surveys, promotions, and other communications. If you do not want to receive particular types of email messages from Jobungo, follow the unsubscribe instructions contained in the email message to notify us of our preferences, or click here.
 
 ### Children’s Privacy
 
@@ -48,7 +48,7 @@ Never provide your social security number, credit card information, bank account
 
 ### Cookies
 
-"Cookies" are small pieces of information that are stored by your browser on your computers hard drive. Jobungo may use cookies to keep track of your session and advertising delivery. Jobungo or our partners may also use cookies to deliver content specific to your interests and to save a password associated with a user profile. We use third-party advertising companies to serve ads when you visit our site. These companies may use third-party cookies to record information (excluding your name, address, email address, or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you on others websites. You can learn more [here](http://www.google.com/privacy/ads/). You can opt-out of this type of advertising [here](http://www.aboutads.info/).
+"Cookies" are small pieces of information that are stored by your browser on your computer's hard drive. Jobungo may use cookies to keep track of your session and advertising delivery. Jobungo or our partners may also use cookies to deliver content specific to your interests and to save a password associated with a user profile. We use third-party advertising companies to serve ads when you visit our site. These companies may use third-party cookies to record information (excluding your name, address, email address, or telephone number) about your visits to this and other websites and directly in emails/communications in order to provide advertisements about goods and services of interest to you on others websites. Our partners may also link the nonpersonal information we share with them to the cookie stored on your browser or device, and they may collect information such as your IP address, hashed version of your email address, browser or operating system type and version, and demographic or inferred-interest information. You can learn more [here](http://www.google.com/privacy/ads/). You can opt-out of this type of advertising [here](http://optout.aboutads.info/).
 
 ### Links to Third Party Sites
 
