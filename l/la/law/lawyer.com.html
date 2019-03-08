@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the lawyer.com privacy policy that was archived on 2018-12-21.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20181221180321id_/https%3A//www.lawyer.com/privacy.php) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the lawyer.com privacy policy that was archived on 2019-03-08.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20190308153228id_/https%3A//www.lawyer.com/privacy.php) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en"><head>
       <meta charset="utf-8">
@@ -8,14 +8,15 @@
       <meta name="description" content="Lawyer.com ​​Website Privacy Policy Information">
       <meta name="keywords" content="Lawyer, Lawyer.com, Privacy, Policy, Website">
       <meta name="referrer" content="origin">
-      <meta name="copyright" content="Copyright 2008-2018, Lawyer.com">
+      <meta name="copyright" content="Copyright 2008-2019, Lawyer.com">
           
       <link rel="canonical" href="https://www.lawyer.com/privacy.php">
      <meta name="google-site-verification" content="2_qGwhCPikNxlx8TLXVN9wgHtpk4IfQjXbWYVChPJWI">
      <meta name="msvalidate.01" content="A8BA1FF778E7168D631A06B994163291">
      
      <link rel="stylesheet" href="/css/shell.css">
-     <link rel="stylesheet" href="/css/twocol.css">
+     <link rel="stylesheet" href="/css/twocol.css">     
+     <script async="" src="//www.google-analytics.com/analytics.js"></script><script src="https://www.google.com/recaptcha/api.js" async="" defer=""></script>
    </head>
 
    <body id="simplehomepage">
@@ -91,6 +92,7 @@
                         <input type="hidden" name="source" value="Organic-TopNav">
                         <input value="https://www.lawyer.com/privacy.php" name="referrer_url" id="source" type="hidden">
                         <div class="smartPlaceholderWrapper" style="position:relative;"><div class="smartPlaceholderWrapper" style="position:relative;"><input name="email2" class="email2 hide_normal" style="transition: all 0.3s ease 0s;"><div class="smartPlaceholderBox" style="position:absolute; width:98%; margin:0 1%; height:0; background-color:#fff; color:#999; font-size:11px; text-align:left; text-indent:5px; top:1px; left:0; line-height:0; -webkit-transition: all 0.3s ease; -moz-transition: all 0.3s ease; -o-transition: all 0.3s ease; transition: all 0.3s ease; overflow:hidden; display:block; -webkit-border-top-left-radius: 3px; -moz-border-top-left-radius: 3px; border-top-left-radius: 3px; -webkit-border-top-right-radius: 3px; -moz-border-top-right-radius: 3px; border-top-right-radius: 3px;"></div></div><div class="smartPlaceholderBox" style="position:absolute; width:98%; margin:0 1%; height:0; background-color:#fff; color:#999; font-size:13px; text-align:left; text-indent:5px; top:1px; left:0; line-height:0; -webkit-transition: all 0.3s ease; -moz-transition: all 0.3s ease; -o-transition: all 0.3s ease; transition: all 0.3s ease; overflow:hidden; display:block; -webkit-border-top-left-radius: 3px; -moz-border-top-left-radius: 3px; border-top-left-radius: 3px; -webkit-border-top-right-radius: 3px; -moz-border-top-right-radius: 3px; border-top-right-radius: 3px;"></div></div>
+                        <input value="1" name="v3check" id="v3check" type="hidden">
                         <p class="text_center"> 
                               Please include all relevant details from your case including where, when, and who it involoves. <br>Case details that can effectively describe the legal situation while also staying concise generally receive the best responses from lawyers.</p>
                         <hr>
@@ -139,7 +141,8 @@
                                 </small>
                               </div>
                               <div class="pull-right">
-                                 <input id="webtn" type="submit" value="SUBMIT" class="btn btn-success btn-w pull-right">
+                                
+                                 <button id="webtn_menu" class="g-recaptcha btn btn-success btn-w pull-right" data-sitekey="6Ldi04AUAAAAAH3bkG7XHczcMWs9OLEn2f8aZt59" data-callback="webtn_menu" data-badge="inline">SUBMIT</button>
                               </div>
                               <div class="clearboth"></div>
                            </div>
@@ -148,6 +151,7 @@
                   </div>
                </div>
             </div>
+            
 
             <main id="main">
 
@@ -277,6 +281,122 @@
             </main></div>
 
         
+
+        <script>
+            function webtn_menu(data) {
+                  $("#case-modal").submit();
+            }  
+         
+            function topBbtn(data) {
+              $("#case-modal").submit();
+            }
+
+            function psubmit(data) {
+              $("#prof-refb").submit();
+            }  
+            
+            function webtnbottom(data) {
+              $("#list-refb-bottom").submit();
+            }   
+            
+            function webtopSubmit(data) {
+              $("#list-refb-top").submit();
+            }   
+            
+            function officeSubmit(data) {
+                $("#office-refb").submit();
+            }   
+
+            function contactusSubmit(data) {
+                var input1  = $("#contactname").val(); 
+                var input2  = $("#contactphone").val(); 
+                var input3  = $("#contactemail").val();
+                if(input1 == "" || $.trim(input1).length == 0 || input2 == "" || $.trim(input2).length == 0 || input3 == "" || $.trim(input3).length == 0){
+                  $("#alertbox").text("");
+                  $("#alertbox").text("Please input all required field");
+                  $("#alertbox").show();
+                }else{
+                  $("#contactform").submit();
+                }
+            }  
+
+           function firmpremSubmit(data) {
+              var input1  = $("#updatefirmname").val(); 
+              var input2  = $("#updatename").val(); 
+              var input3  = $("#updatecontact").val();
+              if(input1 == "" || $.trim(input1).length == 0 || input2 == "" || $.trim(input2).length == 0 || input3 == "" || $.trim(input3).length == 0){
+                $("#alertbox").text("");
+                  $("#alertbox").text("Please input all required field");
+                   $("#alertbox").show();
+              }else{
+                 $("#rF").submit();
+              }
+           }
+
+           function topfirmsSubmit(data) {
+                var input1  = $("#yourname").val(); 
+                var input2  = $("#yourcontact").val(); 
+                if(input1 == "" || $.trim(input1).length == 0 || input2 == "" || $.trim(input2).length == 0 ){
+                  $("#alertbox").text("");
+                    $("#alertbox").text("Please input all required field");
+                     $("#alertbox").show();
+                }else{
+                   $("#rF").submit();
+                }
+           } 
+
+           function partnersSubmit(data) {
+              var input1  = $("#companyname").val(); 
+              var input2  = $("#yourname").val(); 
+              var input3  = $("#yourcontact").val();
+              if(input1 == "" || $.trim(input1).length == 0 || input2 == "" || $.trim(input2).length == 0 || input3 == "" || $.trim(input3).length == 0){
+                $("#alertbox").text("");
+                  $("#alertbox").text("Please input all required field");
+                   $("#alertbox").show();
+              }else{
+                 $("#rF").submit();
+              }
+           } 
+
+           function expressSubmit(data) {
+              var input1  = $("#liqname").val(); 
+              var input2  = $("#liqemail").val(); 
+              var input3  = $("#liqphone").val();
+              if(input1 == "" || $.trim(input1).length == 0 || input2 == "" || $.trim(input2).length == 0 || input3 == "" || $.trim(input3).length == 0){
+                $("#alertbox").text("");
+                  $("#alertbox").text("Please input all required field");
+                   $("#alertbox").show();
+              }else{
+                 $("#rF").submit();
+              }
+           } 
+
+            function captchaSubmit(data) {
+                  var input1  = $("#inputName").val(); 
+                  var input2  = $("#inputEmail1").val(); 
+                  var input3  = $("#inputPhone").val();
+                  if(input1 == "" || $.trim(input1).length == 0 || input2 == "" || $.trim(input2).length == 0 || input3 == "" || $.trim(input3).length == 0){
+                    $("#alertbox").text("");
+                      $("#alertbox").text("Please input all fields");
+                       $("#alertbox").show();
+                  }else{
+                     $("#linelanding").submit();
+                  }
+            }
+
+            function updateSubmit(data){
+              var input1  = $("[name='contactname']").val(); 
+              var input2  = $("[name='contactphone']").val(); 
+              var input3  = $("[name='contactemail']").val();
+              if(input1 == "" || $.trim(input1).length == 0 || input2 == "" || $.trim(input2).length == 0 || input3 == "" || $.trim(input3).length == 0){
+                  $("#alertbox").text("Please input all fields");
+                  $("#alertbox").show();
+              }else{
+                  $("#upgradeForm").submit();
+              }
+            }
+        </script>
+
         <footer id="footer">
             <div class="container">
                 <div class="l_link">
@@ -307,7 +427,7 @@
           </footer>        
           
    
-    <script async="" src="//www.google-analytics.com/analytics.js"></script><script defer="" src="/js/jquery-1.11.3.min.js"></script>
+    <script defer="" src="/js/jquery-1.11.3.min.js"></script>
             <script defer="" src="/js/shell.js"></script><div id="topdropdown" class="dropdown full-width">
     <a id="dLabel" data-target="#" href="#" class="dropdown-toggle hidden" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false"> &nbsp;
     </a>
@@ -561,7 +681,7 @@
 		    ga('require', 'linkid', 'linkid.js');
 ga("send", "pageview","/privacy.php");
 </script>
- <!--Server IP: 149.97.150.186-->
+ <!--Server IP: 149.97.150.183-->
 
     
 </body></html>
