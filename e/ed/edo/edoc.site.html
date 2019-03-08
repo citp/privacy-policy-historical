@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the edoc.site privacy policy that was archived on 2018-10-25.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20181025163503id_/https%3A//edoc.site/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the edoc.site privacy policy that was archived on 2019-03-08.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20190308174709id_/https%3A//edoc.site/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en"><head>
 <meta charset="utf-8">
@@ -17,8 +17,8 @@
             },
             "headline": "Privacy Policy - EDOC.SITE",
             "description": "Upload Ideas And Publishing Resources Write A Book PDF Free Download Professional Platform",
-            "datePublished": "2018-10-25+0723:35:03+00:00",
-            "dateModified": "2018-10-25+0723:35:03+00:00",
+            "datePublished": "2019-03-09+0700:47:10+00:00",
+            "dateModified": "2019-03-09+0700:47:10+00:00",
             "author": {
             "@type": "Person",
             "name": "Guest"            },
@@ -78,7 +78,7 @@
 <link href="https://fonts.googleapis.com/css?family=Montserrat:300,400,500,600,700,900" rel="stylesheet">
 <link href="https://edoc.site/assets/css/bootstrap.min.css" rel="stylesheet" type="text/css">
 <link href="https://edoc.site/assets/css/bootstrap-social.css" rel="stylesheet" type="text/css">
-<link href="https://edoc.site/assets/css/minified.css" rel="stylesheet" type="text/css">
+<link href="https://edoc.site/assets/css/minified.css?v=3" rel="stylesheet" type="text/css">
 <script src="https://edoc.site/assets/js/jquery-3.2.1.min.js"></script>
 <script src="https://edoc.site/assets/js/bootstrap.min.js"></script>
 </head>
@@ -116,10 +116,6 @@
 </div>
 </div>
 </div>
-</div>
-<div class="container-fluid" style="margin-bottom: 10px;">
-<div class="alert alert-error" style="margin-bottom: 0;">
-Please login before use this function! </div>
 </div>
 <div class="container-fluid">
 <div class="row">
@@ -164,13 +160,14 @@ By using EDOC.SITE you signify your agreement to our privacy policy as stated ab
 </div>
 <footer class="footer" style="margin-top: 60px;">
 <div class="container-fluid">
-Copyright © 2018 EDOC.SITE. All rights reserved.
+Copyright © 2019 EDOC.SITE. All rights reserved.
 <div class="pull-right">
 <span><a href="https://edoc.site/about">About Us</a></span> |
 <span><a href="https://edoc.site/privacy">Privacy Policy</a></span> |
 <span><a href="https://edoc.site/term">Terms of Service</a></span> |
 <span><a href="https://edoc.site/copyright">Copyright</a></span> |
-<span><a href="https://edoc.site/contact">Contact Us</a></span>
+<span><a href="https://edoc.site/contact">Contact Us</a></span> |
+<span><a href="https://edoc.site/cookie_policy">Cookie Policy</a></span>
 </div>
 </div>
 </footer>
@@ -213,65 +210,68 @@ Copyright © 2018 EDOC.SITE. All rights reserved.
 
 <script async="" src="https://www.googletagmanager.com/gtag/js?id=UA-113209818-1"></script>
 <script>
-    window.dataLayer = window.dataLayer || [];
-    function gtag() {
-        dataLayer.push(arguments);
-    }
-    gtag('js', new Date());
+	    window.dataLayer = window.dataLayer || [];
+	    function gtag() {
+		dataLayer.push(arguments);
+	    }
+	    gtag('js', new Date());
 
-    gtag('config', 'UA-113209818-1');
-</script>
+	    gtag('config', 'UA-113209818-1');
+	</script>
 <script src="https://edoc.site/assets/js/jquery-ui.min.js"></script>
 <link rel="stylesheet" href="https://edoc.site/assets/css/jquery-ui.css">
 <script>
-    $(function () {
-        $("#document_search").autocomplete({
-            source: function (request, response) {
-                $.ajax({
-                    url: "https://edoc.site/suggest",
-                    dataType: "json",
-                    data: {
-                        term: request.term
-                    },
-                    success: function (data) {
-                        response(data);
-                    }
-                });
-            },
-            autoFill: true,
-            select: function (event, ui) {
-                $(this).val(ui.item.value);
-                $(this).parents("form").submit();
-            }
-        });
-    });
-</script>
-<div id="EDOCSITE_cookie_box" style="z-index:99999; border-top: 1px solid #fefefe; background: #97c479; width: 100%; position: fixed; padding: 5px 15px; text-align: center; left:0; bottom: 0;">
-<p>EDOC.SITE | To ensure the functioning of the site, we use <b>cookies</b>. We share information about your activities on the site with our partners and Google partners: social networks and companies engaged in advertising and web analytics. For more information, see the <a href="https://edoc.site/privacy">Privacy Policy</a> and <a href="https://policies.google.com/technologies/partner-sites" target="_blank">Google Privacy &amp; Terms</a>. Your consent to our cookies if you continue to use this website. <label><input type="checkbox" checked="" disabled=""> Necessary cookie</label><a href="#" class="btn btn-success" onclick="accept_EDOCSITE_cookie_box();return false;" style="border: #fefefe 1px solid;margin-left: 5px;">Accept</a>
-</p></div>
+	    $(function () {
+		$("#document_search").autocomplete({
+		    source: function (request, response) {
+			$.ajax({
+			    url: "https://edoc.site/suggest",
+			    dataType: "json",
+			    data: {
+				term: request.term
+			    },
+			    success: function (data) {
+				response(data);
+			    }
+			});
+		    },
+		    autoFill: true,
+		    select: function (event, ui) {
+			$(this).val(ui.item.value);
+			$(this).parents("form").submit();
+		    }
+		});
+	    });
+	</script>
+
+<div id="EDOCSITE_cookie_box" style="z-index:99999; background: #97c479; width: 100%; position: fixed; padding: 5px 15px; text-align: center; left:0; bottom: 0;">
+Our partners will collect data and use cookies for ad personalization and measurement. <a href="https://edoc.site/cookie_policy" target="_blank">Learn how we and our ad partner Google, collect and use data</a>. <a href="#" class="btn btn-success" onclick="accept_EDOCSITE_cookie_box();return false;">Agree &amp; close</a>
+</div>
 <script>
-    function accept_EDOCSITE_cookie_box() {
-        document.cookie = "EDOCSITE_cookie_box_viewed=1;max-age=15768000;path=/";
-        hide_EDOCSITE_cookie_box();
-    }
+	    function accept_EDOCSITE_cookie_box() {
+		document.cookie = "EDOCSITE_cookie_box_viewed=1;max-age=15768000;path=/";
+		hide_EDOCSITE_cookie_box();
+	    }
 
-    function hide_EDOCSITE_cookie_box() {
-        var cb = document.getElementById('EDOCSITE_cookie_box');
-        if (cb) {
-            cb.parentElement.removeChild(cb);
-        }
-    }
+	    function hide_EDOCSITE_cookie_box() {
+		var cb = document.getElementById('EDOCSITE_cookie_box');
+		if (cb) {
+		    cb.parentElement.removeChild(cb);
+		}
+	    }
 
-    (function () {
-        var EDOCSITE_cookie_box_viewed = (function (name) {
-            var matches = document.cookie.match(new RegExp("(?:^|; )" + name.replace(/([\.$?*|{}\(\)\[\]\\\/\+^])/g, '\\$1') + "=([^;]*)"));
-            return matches ? decodeURIComponent(matches[1]) : undefined;
-        })('EDOCSITE_cookie_box_viewed');
+	    (function () {
+		var EDOCSITE_cookie_box_viewed = (function (name) {
+		    var matches = document.cookie.match(new RegExp("(?:^|; )" + name.replace(/([\.$?*|{}\(\)\[\]\\\/\+^])/g, '\\$1') + "=([^;]*)"));
+		    return matches ? decodeURIComponent(matches[1]) : undefined;
+		})('EDOCSITE_cookie_box_viewed');
 
-        if (EDOCSITE_cookie_box_viewed) {
-            hide_EDOCSITE_cookie_box();
-        }
-    })();
-</script>
+		if (EDOCSITE_cookie_box_viewed) {
+		    hide_EDOCSITE_cookie_box();
+		}
+	    })();
+	</script>
+
+
 
 </body></html>
