@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the warehouseskateboards.com privacy policy that was archived on 2016-03-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160327012541id_/https%3A//www.warehouseskateboards.com/privacy-policy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the warehouseskateboards.com privacy policy that was archived on 2019-03-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190308184216id_/https%3A//www.warehouseskateboards.com/privacy-policy-statement) for the most accurate reproduction.*
 
 # Privacy Policy - Warehouse Skateboards
 
@@ -11,7 +11,7 @@ Our site allows you to buy products, create wish lists, enter contests, receive 
 
 Except as otherwise discussed in this Privacy Policy, this document only addresses the use and disclosure of information we collect from you online. For some services, we either collect and transfer personal information to a service provider you have selected, or you may visit other merchants through links on our site who may collect and use your personal information. We encourage you to ask questions and to be very cautious before you disclose your personal information to others.
 
-Questions regarding this Policy should be directed to [customerservice@warehouseskateboards.com](mailto:customerservice@warehouseskateboards.com), or may also be contacted directly at the following address:
+Questions regarding this Policy should be directed to [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#4e2d3b3d3a21232b3c3d2b3c38272d2b0e392f3c2b26213b3d2b3d252f3a2b2c212f3c2a3d602d2123), or may also be contacted directly at the following address:
 
 Warehouse Skateboards  
 Attn: Customer Service  
@@ -66,7 +66,7 @@ We gather information in the following ways:
 
 **Contests and Sweepstakes:** When you enter a contest or other promotion, we may ask you for contact information such as your name, address and e-mail address in order to administer the contest, to send you promotional emails, notify winners and make the winners' list publicly available pursuant to certain states' laws. Your consent to such promotional use and disclosure of this information as a condition of your participation.
 
-**Newsletters and Promotional E-mails:** We offer promotional e-mails as a service to our customers. We will send e-mails periodically listing current specials and deals. To stop receiving, send an e-mail to us at [customerservice@warehouseskateboards.com](mailto:customerservice@warehouseskateboards.com).
+**Newsletters and Promotional E-mails:** We offer promotional e-mails as a service to our customers. We will send e-mails periodically listing current specials and deals. To stop receiving, send an e-mail to us at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#6d0e181e190200081f1e081f1b040e082d1a0c1f080502181e081e060c19080f020c1f091e430e0200).
 
 **Contact Information and Third Party Data:** If you contact Warehouse Skateboards or our customer service representatives by telephone, e-mail, live chat or letter, we may keep a record of your correspondence or comments. If you contact us through our feedback area or by calling one of our customer service representatives, we may ask for your name, e-mail address and order information in order to send you a reply.
 
@@ -90,7 +90,7 @@ We gather information in the following ways:
 
 **4\. With whom do we share your information?**
 
-**Fulfillment:** The information collected by Warehouse Skateboards is used for processing orders, keeping you informed about your order status, for statistical purposes, for improving our site and its performance, to serve ads, and to notify you of products or special offers that may be of interest to you. We will disclose your Personally Identifiable Information to third parties to charge your credit card, fill your order, deliver your order, provide customer service, provide you with credit and deliver promotional e-mails to you from Warehouse Skateboards. For example, we must release your credit card information to the card-issuing bank to confirm payment; and release your address and telephone information to the delivery service to deliver products that you ordered. In addition we retain the right to share your Personally Identifiable Information with third parties at our sole discretion. You can always contact us in order to have us suppress your Personally Identifiable Information from our systems by e-mailing us at [customerservice@warehouseskateboards.com](mailto:customerservice@warehouseskateboards.com) then we will not share your Personally Identifiable Information with Other third parties, except as under the section "Compliance with Service of Process or Law Enforcement" below or to protect the rights of Warehouse Skateboards, its suppliers and/or its customers. Please allow 90 days to process the change, and you acknowledge that most of the services provided on our site will not be available.
+**Fulfillment:** The information collected by Warehouse Skateboards is used for processing orders, keeping you informed about your order status, for statistical purposes, for improving our site and its performance, to serve ads, and to notify you of products or special offers that may be of interest to you. We will disclose your Personally Identifiable Information to third parties to charge your credit card, fill your order, deliver your order, provide customer service, provide you with credit and deliver promotional e-mails to you from Warehouse Skateboards. For example, we must release your credit card information to the card-issuing bank to confirm payment; and release your address and telephone information to the delivery service to deliver products that you ordered. In addition we retain the right to share your Personally Identifiable Information with third parties at our sole discretion. You can always contact us in order to have us suppress your Personally Identifiable Information from our systems by e-mailing us at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#65061016110a080017160017130c060025120417000d0a101600160e041100070a041701164b060a08) then we will not share your Personally Identifiable Information with Other third parties, except as under the section "Compliance with Service of Process or Law Enforcement" below or to protect the rights of Warehouse Skateboards, its suppliers and/or its customers. Please allow 90 days to process the change, and you acknowledge that most of the services provided on our site will not be available.
 
 **Non-Personally Identifiable Information:** We may provide Non-Personally Identifiable Information about our customers' sales, traffic patterns, and related site information to third parties, but these statistics do not include any Personally Identifiable Information.
 
@@ -124,7 +124,7 @@ In order to most efficiently serve you, credit card transactions and order fulfi
 
 **8\. A special note about children's privacy**
 
-You must be at least 13 years old to have our permission to use this site. Our policy is that we do not knowingly collect, use or disclose Personally Identifiable Information about visitors under 13 years of age. If you are the parent or guardian of a minor under 13 years of age and believe that they have disclosed personally identifiable information to us, please contact us at [customerservice@warehouseskateboards.com](mailto:customerservice@warehouseskateboards.com).  
+You must be at least 13 years old to have our permission to use this site. Our policy is that we do not knowingly collect, use or disclose Personally Identifiable Information about visitors under 13 years of age. If you are the parent or guardian of a minor under 13 years of age and believe that they have disclosed personally identifiable information to us, please contact us at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#8deef8fef9e2e0e8fffee8fffbe4eee8cdfaecffe8e5e2f8fee8fee6ecf9e8efe2ecffe9fea3eee2e0).  
 
 
 **9\. Warehouse Skateboards and third-party use of "cookies" and "action tags."**
@@ -160,7 +160,7 @@ Attn: Customer Service
 1638 Military Cutoff Road, Suite 101  
 Wilmington, NC 28403
 
-You may also contact us by e-mail at [customerservice@warehouseskateboards.com](mailto:customerservice@warehouseskateboards.com).  
+You may also contact us by e-mail at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#d8bbadabacb7b5bdaaabbdaaaeb1bbbd98afb9aabdb0b7adabbdabb3b9acbdbab7b9aabcabf6bbb7b5).  
 
 
 **12\. Privacy Policy changes**
