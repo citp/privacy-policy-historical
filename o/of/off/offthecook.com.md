@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the offthecook.com privacy policy that was archived on 2016-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161219215213id_/http%3A//offthecook.com/terms-of-use-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the offthecook.com privacy policy that was archived on 2019-03-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190308052637id_/https%3A//offthecook.com/terms-of-use-privacy-policy) for the most accurate reproduction.*
 
 # Terms of Use & Privacy Policy - Off the Cook
 
@@ -69,6 +69,4 @@ Through the use of this website, you are hereby accepting the terms and conditio
 
 **How to Contact Us**
 
-If you have any questions or concerns regarding the Privacy Policy Agreement related to our website, please feel free to contact us at the following email, telephone number or mailing address.
-
-**Email:** contact(at)offthecook(dot)com
+If you have any questions or concerns regarding the Privacy Policy Agreement related to our website, please feel free to contact us using the form on this page: https://offthecook.com/contact-us/
