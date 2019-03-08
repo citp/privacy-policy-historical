@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the discoverstudentloans.com privacy policy that was archived on 2017-09-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170922153832id_/https%3A//www.discover.com/privacy-statement/student-loans-privacy-policy.html%3FICMPGN%3DDSL_FTR_ABTDSL_PRVCY) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the discoverstudentloans.com privacy policy that was archived on 2019-03-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190308090121id_/https%3A//www.discover.com/privacy-statement/student-loans-privacy-policy.html%3FICMPGN%3DDSL_FTR_ABTDSL_PRVCY) for the most accurate reproduction.*
 
 # Privacy Statements for Discover.com, mobile, and individual accounts
 
-[](https://web.archive.org/web/20170922153832id_/https%3A//www.discover.com/privacy-statement/pdf/DiscoverPrivacyPolicyEntireSite.pdf) [Print](https://web.archive.org/web/20170922153832id_/https%3A//www.discover.com/privacy-statement/pdf/DiscoverPrivacyPolicyEntireSite.pdf "click for printable PDF")
+[](https://web.archive.org/web/20190308090121id_/https%3A//www.discover.com/privacy-statement/pdf/DiscoverPrivacyPolicyEntireSite.pdf) [Print](https://web.archive.org/web/20190308090121id_/https%3A//www.discover.com/privacy-statement/pdf/DiscoverPrivacyPolicyEntireSite.pdf "click for printable PDF")
 
 ## Your consumer privacy
 
@@ -24,7 +24,7 @@ Consumer Privacy Statement
 ### WHAT DOES DISCOVER BANK  
 DO WITH YOUR PERSONAL INFORMATION?
 
-Rev. 10/17
+Rev. 08/18
 
 Why?
 
@@ -227,7 +227,7 @@ Companies related by common ownership or control. They can be financial and nonf
 
   
 
-  * our affiliates include companies with a Discover or DFS name and financial companies such as Diners Club International Ltd., PULSE Network LLC, The Student Loan Corporation, and GTC Insurance Agency, Inc.
+  * our affiliates include companies with a Discover or DFS name and financial companies such as Diners Club International Ltd.; PULSE Network LLC; The Student Loan Corporation; and GTC Insurance Agency, Inc.
 
   
   
@@ -265,6 +265,6 @@ Other important information
 
 **Nevada Residents** – To be placed on our Do Not Call list you may call 1-800-STUDENT or mail a request to Discover Student Loans, PO Box 30948, Salt Lake City, UT 84130-0948. For additional information, please visit DiscoverStudentLoans.com. You may also contact the Bureau of Consumer Protection, Office of the Nevada Attorney General, 555 E. Washington Ave., Suite 3900, Las Vegas, NV 89101, call 1-702-486-3132 or e-mail [BCPINFO@ag.state.nv.us](mailto:BCPINFO@ag.state.nv.us "click to e-mail the Bureau of Consumer Protection, Office of the Nevada Attorney General"). This notice is provided pursuant to state law.  
   
-SL.PRV.LIN.1017
+SL.PRV.LIN.0818
 
-©2017 Discover Bank, Member FDIC
+©2018 Discover Bank, Member FDIC
