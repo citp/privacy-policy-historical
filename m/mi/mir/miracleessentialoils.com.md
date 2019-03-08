@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the miracleessentialoils.com privacy policy that was archived on 2017-10-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171013104608id_/http%3A//miracleessentialoils.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the miracleessentialoils.com privacy policy that was archived on 2019-03-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190308171922id_/https%3A//miracleessentialoils.com/privacy) for the most accurate reproduction.*
 
 # Miracle Essential Oils - Miracle Worker Terms
 
@@ -37,7 +37,7 @@ Information we collect is generally used for the following purposes:
 
 #### Sharing of Information
 
-We may use the personal information that you supply to us to fulfill your orders. We may also use your information to send you mail and emails you with offers you may be interested in. We may sell or rent aggregated statistical information, and user, member or former member-specific information, including name, address, telephone number and payment information, to our marketing partners or other third-parties so that they can send you offers you may be interested in. If you want Miracle Essential Oils to stop sharing information it has about you in the future, you may notify us by contacting Company’s Member Services department by emailing contact@miracleessentialoils.com or calling 800.968.7093.
+We may use the personal information that you supply to us to fulfill your orders. We may also use your information to send you mail and emails you with offers you may be interested in. We may sell or rent aggregated statistical information, and user, member or former member-specific information, including name, address, telephone number and payment information, to our marketing partners or other third-parties so that they can send you offers you may be interested in. If you want Miracle Essential Oils to stop sharing information it has about you in the future, you may notify us by contacting Company’s Member Services department by emailing contact@miracleessentialoils.com.
 
 In addition, we may share information that we collect with our vendors or service providers who help us operate our business; in response to a subpoena or similar investigative demand, a court order, or a request for cooperation from a law enforcement or other government agency; to establish or exercise our legal rights; to defend against legal claims; when we believe disclosure is necessary to investigate, prevent, or take action regarding illegal activity, suspected fraud or other wrongdoing; to protect and defend the rights, property, or safety of our company, our employees, our web site users, or others; or to enforce our website terms and conditions or other agreements or policies. We may also transfer any data we collect in connection with a corporate change such as a merger, our acquisition by another company, or a partial or total sale of our assets (including as part of a bankruptcy proceeding).
 
@@ -67,4 +67,4 @@ We may make your personal information available to third parties for their marke
 
 #### Contact Us
 
-You may contact us by emailing us at contact@miracleessentialoils.com or calling 800.968.7093. If we need, or are required, to contact you concerning any event that involves your information, we may do so by email, telephone, or mail.
+You may contact us by emailing us at contact@miracleessentialoils.com. If we need, or are required, to contact you concerning any event that involves your information, we may do so by email, telephone, or mail.
