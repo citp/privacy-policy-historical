@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the edaboard.com privacy policy that was archived on 2018-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181222015733id_/https%3A//www.edaboard.com/misc.php%3Fdo%3Dvsarules) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the edaboard.com privacy policy that was archived on 2019-03-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190308225034id_/https%3A//www.edaboard.com/misc.php%3Fdo%3Dvsarules) for the most accurate reproduction.*
 
 # Forum for Electronics - Forum Rules
 
