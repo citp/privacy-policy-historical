@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hotnessrater.com privacy policy that was archived on 2018-11-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181109164847id_/https%3A//hotnessrater.com/about/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hotnessrater.com privacy policy that was archived on 2019-03-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190308085401id_/https%3A//hotnessrater.com/about/privacypolicy) for the most accurate reproduction.*
 
 # Privacy Policy
 
