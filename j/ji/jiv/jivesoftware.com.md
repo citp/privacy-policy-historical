@@ -1,132 +1,240 @@
-> *The following text is extracted and transformed from the jivesoftware.com privacy policy that was archived on 2017-07-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170712211925id_/https%3A//www.jivesoftware.com/legal/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jivesoftware.com privacy policy that was archived on 2019-03-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190308080046id_/https%3A//www.jivesoftware.com/legal/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Jive Software
 
-  * Privacy Policy [PDF](https://web.archive.org/legal-documents/privacy-policy/) (English)
-  * Politique de confidentialité [PDF](https://web.archive.org/legal-documents/politique-de-confidentialite-privacy-policy/) (en Français)
-  * Datenschutzrichtlinie [PDF](https://web.archive.org/legal-documents/datenschutzrichtlinie-privacy-policy/) (auf Deutsch)
+Jive Software, Inc.(“Jive,” “we,” or “us”) respects your privacy. This Privacy Policy Statement (“Privacy Policy”) describes the ways we collect information from and about you, and what we do with the information, so that you may decide whether or not to provide information to us. By accessing our website, or purchasing our products or services, you agree to this Privacy Policy in addition to any other agreements we might have with you. In the event that such agreements contain terms that conflict with this Privacy Policy, the terms of those agreements will prevail.
+
+This Privacy Policy includes Jive’s Privacy Policy Statement and the Privacy Shield Notice.
+
+#### Jive’s Privacy Policy Statement
+
+  1. **Our Collection of your Information**
 
 
 
-_Last updated 28 September, 2016_
+**Personal Information**
 
-* * *
+The information we collect may include your personal information, such as your name, contact information, IP addresses, product and service selections and other things that identify you. We collect personal information from you at several different points, including but not limited to the following:
 
-Jive Software, Inc. and its affiliated companies and subsidiaries (collectively referred to here as “we,” “our,” or “Jive”) created this Privacy Policy to inform our websites’ users (including users of features and functionality on our websites), event registrants/participants, newsletter/information recipients, promotion participants, online community participants those who inquire about our products and services, and others (collectively referred to as “Users”) about our practices regarding collection, use, and disclosure of information, including personally identifiable information (“personal data”), that we collect from them through our website at [www.jivesoftware.com]() and our service (collectively, our “Sites”). The use of information collected through our service shall be limited to the purpose of providing the service for which a User or customer (the “Corporate Client”) has engaged Jive. While Jive’s websites or other materials may include links or references to non-Jive websites, materials, or entities, this Privacy Policy does not apply to those non-Jive sites, materials, or entities unless otherwise indicated.
+  * when we correspond with you as a customer or prospective customer;
+  * when you visit our website or use the Platform;
+  * when you register as an end-user of our services and an account is created for you;
+  * when you contact us for help;
+  * when you attend our customer conferences or webinars; and
+  * when the site sends us error reports or application analytics data.
 
-You should read this entire Privacy Policy before using any Jive website or submitting information, including personal data, to Jive. Whenever you submit information via the Jive website, online community or otherwise to Jive, whether online or offline, you expressly consent to the collection, use, processing and disclosure of that information in accordance with this Privacy Policy.
 
-[](https://privacy.truste.com/privacy-seal/validation?rid=2120d2f7-a288-49bc-ac8b-463075edab15 "TRUSTe Privacy Certification")
-
-#### Compliance with Regulatory Authorities
-
-Jive and Jive Software, Ltd. participates in and has certified its compliance with the EU-U.S. Privacy Shield Framework. Jive is committed to subjecting all personal data received from European Union (EU) member countries, in reliance on the Privacy Shield Framework, to the Framework’s applicable principles. To learn more about the Privacy Shield Framework, visit the U.S. Department of Commerce’s [Privacy Shield List](https://www.privacyshield.gov/list).
-
-Jive is responsible for the processing of personal data it receives, under the Privacy Shield Framework, and subsequently transfers to a third party acting as an agent on its behalf. Jive complies with the Privacy Shield Principles for all onward transfers of personal data from the EU, including the onward transfer liability provisions.
-
-With respect to personal data received or transferred pursuant to the Privacy Shield Framework, Jive is subject to the regulatory enforcement powers of the U.S. Federal Trade Commission (“FTC”). In certain situations, Jive may be required to disclose personal data in response to lawful requests by public authorities, including to meet national security or law enforcement requirements.
-
-If you have an unresolved privacy or data use concern that we have not addressed satisfactorily, please contact our U.S.-based third party dispute resolution provider (free of charge) at https://feedback-form.truste.com/watchdog/request. Under certain conditions, more fully described on the [Privacy Shield website](https://www.privacyshield.gov/article?id=How-to-Submit-a-Complaint), you may invoke binding arbitration when other dispute resolution procedures have been exhausted.
-
-Additionally, Jive Software, Inc. complies with the U.S. – Swiss Safe Harbor frameworks as set forth by the U.S. Department of Commerce regarding the collection, use and retention of personal data from Switzerland. Jive Software, Inc. has certified that it adheres to the Swiss Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. To learn more about the Swiss Safe Harbor program, and to view Jive Software, Inc. certification, please visit https://safeharbor.export.gov/swisslist.aspx
-
-#### Compliance with Children’s Online Privacy Protection Act (“COPPA”)
-
-Our Sites are not directed to children and we do not knowingly collect any personally identifiable information from individuals under 13 years of age through our sites.
-
-#### Information Collection on the Jive Sites
-
-Jive may collect information, including personal data, from Users both online and offline. In many cases, such information will be collected directly from you, such as through a transaction or inquiry, or your submission of a form, registration, or communication to us through the Jive Sites. Information may also be gathered from third-party sources (including without limitation, opt-in lists, publicly available data, consumer reporting agencies, other companies, and referrals) and through your activities and interactions with Jive. We may combine data collected from these disparate sources unless we tell you otherwise.
-
-The types of personal data typically collected by Jive may include the following (but this list is not exhaustive as these activities can vary from time to time depending on your activities):
-
-  * Contact information, including name, title, street address (home, work), postal code, country, telephone numbers (home, work, cell, etc.), email address (home, work), company name, and other similar information. If you choose to use our referral service to invite a friend to the Jive Community, we will ask you for your friend’s email address in order to automatically send your friend a one-time email inviting him or her to visit the site. Jive stores this information for the sole purpose of sending this one-time email and tracking the success of our referral program. Your friend may contact us at any time at [privacy@jivesoftware.com](mailto:privacy@jivesoftware.com) to request that we remove this information from our database.
-  * Personal/demographic information, including gender, occupation, level of education and the like.
-  * Authentication information, including user IDs, log-in names, passwords, password reminders, etc. (in addition to other personal data such as contact information and the like).
-  * Transactional information, including products or services you inquire about or request.
-  * User content, including information provided when you use one of our online communities, forums or other online means of communications, and all other user submissions and content you provide.
+  2. **Our Use of your Personal Information**
 
 
 
-As you use our Sites, some information can be “passively” collected using various technologies by us and our partners, such as cookies, web beacons, and navigational data collection (clickstream, log files, server logs, etc.) or similar technologies or other automated information collection means. Cookies are pieces of information, which may include referring/exit pages, platform type, date/time stamp, and number of clicks, about your use of the website that is stored on your browser or hard drive. Cookies save you time because you do not need to manually re-enter the information stored on your hard drive. Your Internet browser automatically transmits some of this information, such as the URL of the website you just visited and the Internet Protocol (IP) address and browser version currently being used by your computer. We do not link the information we store in cookies to any personally identifiable information you submit while on our website.
+Jive may use information that we collect about you to:
 
-Our Sites also may include certain social media features, such as the Facebook and Twitter buttons and widgets, such as the share this button or interactive mini-programs that run on our site (collectively referred to as “Features”). These Features may collect your IP address, which page you are visiting on our Sites, and may set a cookie to enable the Feature to function properly. Features may be hosted by a third party or hosted directly on our Sites. Your interactions with these Features are governed by the privacy policy of the company providing it.
+  * deliver the products and services that you have requested;
+  * manage your customer relationship and provide you with customer support;
+  * perform research and analysis about your use of, or interest in, our products, services, or content, or products, services or content offered by others;
+  * communicate with you by e-mail, postal mail, telephone or mobile devices about products or services that may be of interest to you either from us, or other third parties;
+  * develop and display content and advertising tailored to your interests on our site and other websites;
+  * verify your eligibility and deliver prizes in connection with promotions, contests and sweepstakes;
+  * enforce our terms and conditions;
+  * manage our business, and
+  * perform functions as otherwise described to you at the time of collection.
 
-#### Information Related to Data Collected Through the Jive Platform
 
-Jive has no direct relationship with the individuals whose personal data it processes. Jive may collect certain information through the Jive Platform under the direction of its Corporate Clients and all obligations with respect to personal data for which Jive is a data processor is solely governed by and subject to the applicable end user license terms executed between the Corporate Client and Jive and are not included in this Privacy Policy. Jive work with its Corporate Clients to help them provide notice to their customers concerning the purpose for which personal information is collected.
-
-An individual who seeks access or who seeks to correct, amend, or delete inaccurate data should log into their corporate account and make the appropriate changes or deletions, or direct their query to their corporate administrator (“Corporate Administrator” or the “Data Controller”). If the Corporate Client requests that Jive remove the data, we will respond to their request within 30 business days.
-
-In the event that Jive operates as a data processor on behalf of our Corporate Clients, Jive may collect information about others from Corporate Clients such as the name, address and email address of individuals to be added to the Jive Service. Jive will use this information to allow Corporate Clients to email new users of the Service a notification of account activation and/or administer your corporate service account.
-
-We will retain and use personal data we process on behalf of our Corporate Clients for as long as needed to provide services to our Corporate Clients and/or as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements.
-
-If you are a customer/employee of one of our corporate clients and would no longer like to be contacted by one of our Corporate Clients that use our service, please contact the Corporate Administrator that you interact with directly. We may transfer personal information to companies that help us provide our service. Transfers to subsequent third parties are covered by the service agreements with our Corporate Clients.
-
-#### How We Use Your Information
-
-As is the case with many websites, Jive and its partners may use cookies and similar technologies to keep track of your interactions with our websites and services, and provide you with a more customized experience. Cookies also help us upgrade the website by showing when and how Users use the website. You can set your browser to notify you when a cookie is sent or refuse cookies altogether, but certain features of Jive websites might not work without cookies. The use of cookies by our service providers are not covered by our privacy statement as we do not have access or control over these cookies.
-
-Jive websites and services may also use IP addresses for the same purposes identified above, as well as to analyze trends, administer the website, track users’ movements, gather broad demographic information for aggregate use and to confirm that a particular individual affirmed his/her consent to specific legal terms (e.g. our clickwrap end user license agreement). We may use web beacons (also known as Internet tags or clear GIFs) on our websites and services to access and set cookies and otherwise help us to better understand how users are utilizing our websites. Information provided by the web beacon includes the computer’s IP address, the type of browser being used, and the time that the web beacon was viewed. We may also use web beacons in emails and newsletters so that we know when such communications have been opened and to otherwise help us tailor our communications to individual users.
-
-We may use local shared objects, also known as Flash cookies, to store your preferences relating to video content we provide on the Jive Software Web site. Third Parties, with whom we partner to provide this feature, use Flash cookies to collect and store information. Flash cookies are different from browser cookies because of the amount of, type of, and how data is stored. Cookie management tools provided by your browser will not remove Flash cookies. To learn how to manage privacy and storage settings for Flash cookies click [here](http://www.macromedia.com/support/documentation/en/flashplayer/help/settings_manager.html#117118).
-
-Jive may also monitor the performance of our services and our websites in order to manage, maintain, and improve our services and websites. We (or our third party providers) may use tools to help prevent and block “spam” communications, viruses, spyware, and other harmful or unwanted communications and programs on the website. These tools may automatically scan any content you upload through the websites (or using functionality available via the websites) in order to help us protect you and the website against these harmful or unwanted communications and programs. However, these tools do not collect or disclose personally identifiable information about you.
-
-Additionally, information may be collected on an individual’s web browsing behavior such as the pages they have visited or the searches they have made for the purposes of re-targeted advertising and this information may then be used to display ads. The information collected is only linked to an anonymous cookie ID (alphanumeric number); it does not include any information that could be linked back to a particular person, such as their name, address or credit card number. The information used for targeted advertising either comes from Jive or through third party website publishers. If you would like to opt out of re-targeted advertising from Jive that occurs when visiting our third party advertising publishers, please click [here](http://preferences.truste.com/truste/) (or if located in the European Union click [here](https://www.youronlinechoices.eu/)). Please note this does not opt you out of being served advertising and you will continue to receive generic ads.
-
-Jive uses personal data about Users to make our website, products and services more useful to you. This may include:
-
-  * Responding to your requests (including requests for newsletter subscriptions, materials, support, and so on) and following up with you after you have communicated with us or submitted information to us. We provide a number of ways for you to request materials from us, such as newsletters, blog/rss feeds, brochures, product literature, and the like. Jive may collect and use personal information such as contact name, title, contact information, demographic information, title and/or company name, and other information relevant to responding to your request, conducting transactions with you, processing your order and so on;
-  * Responding to your questions, comment, or concerns. Depending on the circumstances and method of contact via the “Contact Us” section, online community or postal mail, we may collect your name, title, contact information, message type, case number (if tied to a previous issue), comments, and other types of data relevant to the specific situation (e.g., product involved, use of the product, any problems with the product, and the like);
-  * Providing products or services that you have ordered;
-  * Processing your order transactions and contacting you regarding your order;
-  * Inviting you participate in a range of online and offline events and/or activities;
-  * Allowing you to post information and other content online (including in response to other postings) or to otherwise contact another person;
-  * Marketing/research purposes and sending promotional communications or offers (unless you have indicated otherwise or opted out of such communications). We may use your contact information to tell you about other products and services that we believe might be of interest;
-  * Providing internal and/or external training, quality assurance, and other purposes (including without limitation, call center recordings);
-  * Administration of legal and contractual issues;
-  * Registration (memberships, accounts (i.e., log-ins and passwords, etc.)) and participation in online communities or provision of user-generated content. Users may be given an opportunity to register for a variety of reasons, including to receive promotional communications/offers; to join/participate in an online community, blog, or other interactive areas or to otherwise provide user-generated content (such as posting favorite photos/videos/audio recordings, providing testimonials, sharing experiences about Jive products, etc.); to attend an event (e.g., a conference); and so on. Such activities may entail collection of name, title, contact information, birth date, user name and password, email address, experiences with Jive products, and personal information/preferences related to the subject matter of the particular activity. In some cases, you will select a user ID and password when you register, and you will use this to gain access to certain registration-restricted areas. Note that using a Jive website as a registered user enables information that is passively collected as you navigate the website to be associated with personal data actively collected from you on the website. Jive may use and/or disclose any personal data captured in an online community.
+  3. **Our Disclosure of your Personal Information to Third Parties**
 
 
 
-#### Disclosure of Your Information
+We may share your personal information with third parties only in the ways that are described in this Privacy Policy:
 
-Except as otherwise stated in this Privacy Policy, Jive does not sell, trade or share your personal information with third parties. We may disclose personal data you provide to our affiliates and partners and to consultants, service providers, and contractors that we use to support our business and operations (e.g., delivery services, financial institutions, fulfillment services, technical support, advertising, public relations, media and marketing services, legal services, call-in centers, e-commerce and other web-related services such as web hosting and web monitoring services, and event-related services such as online and offline data capture services) who have agreed to keep the information confidential and use it only to provide the applicable service(s). In some cases, we work with other companies who help to gather information from you or help us to communicate with you.
+  * we may provide your information to affiliated entities within our corporate group, as well as with vendors who perform functions on our behalf; such parties provide hosting and maintenance services, virtual infrastructure, payment processing, analysis and other services for us;
+  * third party contractors may have access to our databases.  Usually these contractors sign a standard confidentiality agreement;
+  * we may share your data with any parent company, subsidiaries, joint ventures, other entities under a common control or third-party acquirers. We expect these other entities will honor this Privacy Policy;
+  * we may allow a potential acquirer or merger partner to review our databases, although we would restrict their use and disclosure of this data during the diligence phase;
+  * as required by law enforcement, government officials, or other third parties pursuant to a subpoena, court order, or other legal process or requirement applicable to Jive; or when we believe, in our sole discretion, that the disclosure of personal information is necessary to prevent physical harm or financial loss; to report suspected illegal activity or to investigate violations of our agreements or company policies; to enforce our terms and conditions, to protect the security or integrity of our products and services, and
+  * when you give us consent to do so.
 
-We may post customer testimonials/comments/reviews (the “Testimonial”) on our website or online community which may contain personally identifiable information. However, we will obtain the customer’s consent via email prior to posting the Testimonial and/or their name along with their testimonial and any Testimonial may be removed upon request by contacting Jive or your Community Administrator.
 
-We may also disclose personal data to third parties (including without limitation, governmental agencies) if required to do so by law, regulation, or court order; to respond to governmental and/or law enforcement requests; to identify, contact, or bring legal action against someone who may be causing injury to or interfering with our (or others’) rights or property; to support any claim, defense, or declaration in a case or before any jurisdictional and/or administrative authority, arbitration, or mediation panel; or in connection with disciplinary actions/investigations.
 
-Likewise, we may disclose personal data to third parties in connection with the sale, assignment, or other transfer of Jive, its business or the website to which such data applies. In the event that Jive goes through a business transition, such as a merger, acquisition by another company or sale of a portion of its assets, our Users’ personal information may be part of the assets transferred. Users will be notified via prominent notice on our website prior to a change of ownership or control of their personal information. If, as a result of the business transaction, your personally identifiable information will be used in a manner materially different from that stated at the time of collection, you will be notified in a manner consistent with our Privacy Policy. The recipients of Users’ personal data, and more generally these disclosures, may be located in the United States or other jurisdictions that might not provide a level of protection equivalent to the laws in your jurisdiction. By submitting personal data to Jive, you consent to the transfer of such personal data outside your jurisdiction. We may make full use of all information that is de-identified or otherwise not in personally identifiable form, including without limitation, user-generated content. We will not, however, make use of any content you upload to a virtual online community that you or your organization has created through the use of our fee-based licensed products and services.
+Please note that these third parties may be in other countries where the laws on processing personal information may be less stringent than in your country.
 
-Finally, you are responsible for any information you share or postings you make in any online community. Any user-generated content will be subject to the applicable Jive Software Website [Terms of Use](https://web.archive.org/legal-documents/website-terms-of-use/) found at [www.jivesoftware.com/legal/](https://web.archive.org/egal/) and we reserve the right to not post or make available and/or remove any data submitted to us. You should review such terms carefully prior to submitting or posting any information and carefully consider whether you wish to submit personal data, or any data, in this manner. The profile you create in our online community, including your chosen username and profile image, will be publically accessible unless otherwise indicated and anything you make available as a participant in an online community or submit for posting by Jive may be made available for others to see. You may change the privacy settings of your profile at any time through your account portal. To request removal of your personal data from our blog or community forum, contact us at [community.admin@jivesoftware.com](mailto:community.admin@jivesoftware.com). In the event that we may not be able to remove your personal information, we will let you know if we are unable to do so and why.
+**Potential for Other Users to Contact You**
 
-#### Security
+To the extent that a given application supports personal messaging functionality between and among end users, you may receive personal messages from other end users. You can disable this functionality by using the unsubscribe and other disabling instructions in the given application.
 
-Jive takes appropriate steps to protect personal data from loss, misuse, and unauthorized access, disclosure, alteration, or destruction, whether in transmission or storage. When you enter sensitive information (such as a credit card number) on our order forms, we encrypt the transmission of that information using secure socket layer technology (SSL). Please keep in mind, however, that there is no such thing as perfect security, and no internet transmission is ever completely secure or error-free. Moreover, you are responsible for maintaining the confidentiality of any user name and password you use. If you have any questions about security on our website, you can contact us via the contact information below.
+  4. **Our Security Measures to Protect your Personal Information**
 
-#### Choice
 
-Jive offers you choices regarding the collection, use and sharing of your personal data. After you have registered for an account on any of our Sites, you may adjust your privacy settings at any time by logging into your account and making the appropriate changes.
 
-We want to keep in touch with you in ways that you find to be beneficial. By submitting personal contact information, you are agreeing that we may communicate with you via email, telephone, direct mail, and/or other means of communication. If you don’t want us to use your contact information for promotional purposes (such as to tell you about other products and services that might be of interest), please tell us that when you provide your contact information. You can also let us know your preference later by contacting us as specified in the “Contact Us” section below or by following the unsubscribe instructions in various communications that we may send you. Keep in mind that these notification preferences regarding promotional contacts do not mean that we might not contact you for other reasons, such as those related to an order you placed, an inquiry you made, a newsletter to which you may have subscribed (unless you have unsubscribed), a membership you undertook, an event for which you registered, a legally required notice, and so on.
+Jive uses industry-standard technologies when transferring and receiving data exchanged between Jive and other companies to help ensure its security. This site has security measures in place to help protect information under our control from the risk of accidental or unlawful destruction or accidental loss, alteration or unauthorized disclosure or access. However, “perfect security” does not exist on the Internet. Also, if this website contains links to other sites, Jive is not responsible for the security practices or the content of such sites.
 
-#### Your California Privacy Rights
+  5. **Our Use of Cookies, Web Beacons, Web Analytics Services, and Links**
 
-California Civil Code Section 1798.83 permits customers who are California residents to request that Jive not share their personal data with third parties for such parties’ direct marketing purposes. To make such a request, send an e-mail with “California Privacy” in the subject line to [privacy@jivesoftware.com](mailto:privacy@jivesoftware.com) or write to us: Attention: Consumer Relations — CA Privacy Issues Attn: Jive Software – General Counsel 915 SW Stark Street, Suite 200 Portland, OR 97205.
 
-#### Accessing and Updating Your Personal Information
+  * **Cookies.** Many of our web pages use “cookies.” Cookies are text files we place in your computer’s browser to store your preferences. Cookies, by themselves, do not tell us your e-mail address or other personally identifiable information unless you choose to provide this information to us by, for example, registering at one of our sites. However, once you choose to furnish the site with personal information, this information may be linked to the data stored in the cookie. We use cookies to understand site usage and to improve the content and offerings on our sites. We also may use cookies to offer you products, programs, or services. You have many choices with regards to the management of cookies on your computer. All major browsers allow you to block or delete cookies from your system. To learn more about your ability to manage cookies, please consult the privacy features in your browser.
+  * **Web Beacons.** Jive and third parties may also use small pieces of code called “web beacons” or “clear gifs” to collect anonymous and aggregate advertising metrics, such as counting page views, promotion views, or advertising responses. These “web beacons” may be used to deliver cookies that conform to Jive’s cookie requirements.
+  * **Web Analytics Services.** We use Google Analytics, a service for the marketing analysis of the site provided by Google, Inc. Google Analytics uses cookies to allow us to see how you use our site, so we can improve your experience. Google’s ability to use and share information collected by Google Analytics about your visits to the site is restricted by the Google Analytics Terms of Use available at <http://www.google.com/analytics/terms/us.html> and the Google Privacy Policy available at <http://www.google.com/policies/privacy/>. You can prevent Google Analytics from recognizing you on return visits to the site by disabling cookies in your browser. If you prefer to not have data reported by Google Analytics, you can install the Google Analytics Opt-out Browser Add-on available at <https://tools.google.com/dlpage/gaoptout>.
+  * **Website Links.** We may create links to other web sites. We will make a reasonable effort to link only to sites that meet similar standards for maintaining each individual’s right to privacy. However, many other sites that are not associated with or authorized by Jive may have links leading to our site. Jive cannot control these links and we are not responsible for any content appearing on these sites. Since this website does not control the privacy policies of third parties, you are subject to the privacy practices of that third party. We encourage you to ask questions before you disclose any personal information to others.
+  * **App Links.** A given application may provide you with an advertising link to other, third-party sites and applications. Such third-party sites will have their own data collection practices and policies. Please review the privacy policy for such sites and exercise caution in providing information that personally identifies you. We have no responsibility, access, or control over the data collection practices and policies of such third-party sites and applications. You will use such sites and applications at your own risk and outside of the scope of this Privacy Policy. The provision of such advertisements is done on an “As Is” basis, with no endorsements or representations.
+  * **Other.** Jive websites may use third parties to present or serve the advertisements that you may see at its web pages and to conduct research about the advertisements and web usage. This Privacy Policy does not cover any use of information that such third parties may have collected from you or the methods used by the third parties to collect that information.
 
-Upon request Jive will provide you with information about whether we hold, or process on behalf of a third party, any of your personal information. To request this information please contact us at [concierge@jivesoftware.com](mailto:concierge@jivesoftware.com).
 
-To keep personal data provided by you accurate, current, and complete, please contact us as specified in the “Contact Us” section or by making the change within your Jive community profile page after login into your account. We can then take appropriate steps to update or correct such information in our possession or to delete your information from our contact list. We will respond to your request to access within 30 days. We will retain your information for as long as your account is active or as needed to provide you services. If you wish to deactivate your Jive online community profile or an unauthorized corporate profile, you may contact your Community Administrator or email us at [community.admin@jivesoftware.com](mailto:community.admin@jivesoftware.com). If you wish to deactivate your corporate profile or an unauthorized profile from the Jive service, you must directly contact your Corporate Administrator that you interact with directly. When we delete account information, it will be deleted from the active database, but may remain in our archives. We will otherwise retain and use your information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements.
+  6. **Legal Basis for Processing your Personal Data (EEA and Switzerland only)**
 
-#### Contact Us
 
-If you have questions or concerns related to this Privacy Policy or Jive’s information practices, would like to update or correct information you have provided, or would like to opt out of future communications, please contact our Data Protection Officer by postal mail at Jive 915 SW Stark Street, Suite 200 Portland, OR 97205 or by email to [concierge@jivesoftware.com](mailto:concierge@jivesoftware.com).
 
-#### Changes to This Privacy Policy
+With respect to personal data collected from individuals from the European Economic Area or Switzerland, our legal basis for collecting and using the personal data will depend on the personal data concerned and the specific context in which we collect it. Jive will normally collect personal data from you only where: (a) we have your consent to do so, (b) where we need the personal data to perform a contract with you (e.g. to deliver the services you have requested), or (c) where the processing is in our or a third party’s legitimate interests (and not overridden by your data protection interests or fundamental rights and freedoms).
 
-Jive reserves the right, in its sole discretion, to change this Privacy Policy at any time. If this Privacy Policy changes, the revised policy will include a new effective date and will be posted on this page. If we make any material changes we will notify you by email (sent to the e-mail address specified in your account) or by means of updating this Site. Be sure to check the Privacy Policy for the effective date as set forth above (the “Effective Date”) and updated content whenever you submit personal data. Your continued use of the Jive website(s) or services following the posting of any amendment will constitute your acceptance of that amendment.
+  7. **Limiting Use, Disclosure, Retention**
+
+
+
+Jive identifies the purposes for which the information is being collected before or at the time of collection. The collection of your personal data will be limited to that which is needed for the purposes identified by Jive. Unless you consent, or we are required by law, we will only use the personal data for the purposes for which it was collected. If Jive will be processing your personal data for another purpose later on, Jive will seek your further legal permission or consent; except where the other purpose is compatible with the original purpose. We will keep your personal data only as long as required to serve those purposes. We will also retain and use your personal data for as long as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements.
+
+  8. **International Transfers of your Personal data**
+
+
+
+We are a global company. Information collected from you may be stored and processed in the European Economic Area, the United States or any other country in which Jive or agents or contractors maintain facilities, and by accessing our sites and using our services, you consent to any such transfer of information outside of your country. Such countries may have laws which are different, and potentially not as protective, as the laws of your own country.
+
+Whenever we share personal data originating in the European Economic Area or Switzerland, we will rely on lawful measures to transfer that data, such as the Privacy Shield or the EU standard contractual clauses. If you reside in the EEA or other regions with laws governing data collection and use, please note that you are agreeing to the transfer of your personal data to the United States and other jurisdictions in which we operate. By providing your personal data, you consent to any transfer and processing in accordance with this Policy.
+
+  9. **  Accuracy of Personal data**
+
+
+
+We do our best to ensure that the personal data we hold and use is accurate. We rely on the customers we do business with to disclose to us all relevant information and to inform us of any changes.
+
+  10. **  Your Access to and Updating of your Personal data**
+
+
+
+Reasonable access to your personal data may be provided upon request made to Jive at the contact information provided below. If access cannot be provided within that time frame, Jive will provide the requesting party a date when the information will be provided. If for some reason access is denied, we will provide an explanation as to why access has been denied. We may charge a reasonable fee in advance for copying and sending the information requested.
+
+If you would like us to delete any persona Data held about you, we will do so on request unless we need to hold the information as part of the provision of products and services to you.
+
+  11. **Marketing Communications**
+
+
+
+We offer those who provide personal contact information a means to choose how we use the information provided. You may manage your receipt of marketing and non- transactional communications by clicking on the “unsubscribe” link located on the bottom of our marketing emails.
+
+  12. **Additional Rights (EEA and Switzerland only)**
+
+
+
+If you reside in the European Economic Area or Switzerland, you may have the right to exercise additional rights available to you under applicable laws, including:
+
+  * **Right of erasure.** You may have a broader right to erasure of personal data that we hold about you. For example, if it is no longer necessary in relation to the purposes for which it was originally collected. Please note, however, that we may need to retain certain information for record keeping purposes, to complete transactions or to comply with our legal obligations, among other things.
+  * **Right to object to processing.** You may have the right to request that we stop processing your personal data or to stop sending you marketing communications.
+  * **Right to restrict processing.** You may have the right to request that we restrict processing of your personal data in certain circumstances. For example, where you believe that the personal data we hold about you is inaccurate or unlawfully held.
+  * **Right to data portability.**  In certain circumstances, you may have the right to be provided with your personal data in a structured, machine readable and commonly used format and to request that we transfer the personal data to another data controller without hindrance.
+
+
+
+If you would like to exercise any of the above rights, please contact our support team or contact our Data Protection Officer (see our contact details in Section 17 below). We will consider your request in accordance with applicable laws. To protect your privacy and security, we may take steps to verify your identity before complying with the request.
+
+You may also have the right to make a GDPR complaint to the relevant Supervisory Authority. A list of Supervisory Authorities is available here: <http://ec.europa.eu/justice/data-protection/bodies/authorities/index_en.htm>. If you need further assistance regarding your rights, please contact us using the contact information provided below and we will consider your request in accordance with applicable law. In some cases, our ability to uphold these rights for you may depend upon our obligations to process personal data for security, safety, fraud prevention reasons, compliance with regulatory or legal requirements, or because processing is necessary to deliver the services you have requested. Where this is the case, we will inform you of specific details in response to your request.
+
+  13. **Notice to End Users**
+
+
+
+Most of our services are intended for use by organizations. Where the services are made available to you through an organization (e.g. your employer), that organization is the administrator of the services and is responsible for the accounts and/or service over which it has control. Please direct your data privacy questions to your administrator, as your use of the services is subject to that organization’s policies. We are not responsible for the privacy or security practices of an administrator’s organization, which may be different than this policy.
+
+Administrators may be able to:
+
+  * help you exercise the rights described in Section 12 (if applicable);
+  * allow you to reset your account password;
+  * restrict, suspend or terminate your access to the services;
+  * access information in and about your account;
+  * access or retain information stored as part of your account;
+  * change your information, including profile information associated with your account; and
+  * allow you or restrict your ability to edit, restrict, modify or delete information.
+
+
+
+Please contact your organization or refer to your administrator’s organizational policies for more information.
+
+  14. **Children’s Privacy**
+
+
+
+Because of the nature of our business, our services are not designed to appeal to minors. We do not knowingly attempt to solicit or receive any information from anyone under the age of 13.  If you are a parent or guardian and you are aware that your child has provided us with personal data, please contact us immediately.
+
+  15. **Your California Privacy Rights (United States only)**
+
+
+
+Jive does not currently respond to browser “Do Not Track” (DNT) signals or other mechanisms. Third parties may collect personal data about your online activities over time and across sites when you visit the Site or use the Service.
+
+If you are a California resident, California Civil Code Section 1798.83 permits you to request certain information regarding our disclosure of personal data to third parties for the third parties’ direct marketing purposes. To make such a request, please contact us by sending an e-mail to [privacy@jivesoftware.com](mailto:privacy@jivesoftware.com).
+
+Our site, products, and services are not intended to appeal to minors. However, if you are a California resident under the age of 18, and a registered user of our Site or Service, California Business and Professions Code Section 22581 permits you to request and obtain removal of content or information you have publicly posted. To make such a request, please send an e-mail with a detailed description of the specific content or information to [privacy@jivesoftware.com](mailto:privacy@jivesoftware.com).
+
+Please be aware that such a request does not ensure complete or comprehensive removal of the content or information you have posted and that there may be circumstances in which the law does not require or allow removal even if requested.
+
+Under California law, California residents who have an established business relationship with us may opt-out of our disclosing personal data about them to third parties for their marketing purposes.
+
+  16. **Changes to our Privacy Policy**
+
+
+
+Jive may amend this Privacy Policy at any time by posting a new version. It is your responsibility to review this Privacy Policy periodically as your continued use of this website and our products and services represents your agreement with the then-current Privacy Policy.
+
+  17. **Contacting Us**
+
+
+
+We have designated a Data Protection Officer who is responsible for monitoring Jive’s ongoing compliance of this Privacy Policy. If you have any questions about this Privacy Policy, the practices or concerns of this site, please contact our Data Protection Officer at: [privacy@jivesoftware.com](mailto:privacy@jivesoftware.com).
+
+#### For EEA and Swiss Individuals: Privacy Shield Notice for Personal Data Transfers to the United States
+
+Jive complies with the EU-US Privacy Shield Framework and the Swiss-US Privacy Shield Framework as set forth by the US Department of Commerce regarding the collection, use, and retention of personal information from European Economic Area (“EEA”) member countries and Switzerland transferred to the United States pursuant to Privacy Shield. Jive has certified that it adheres to the Privacy Shield Principles with respect to such data. If there is any conflict between the policies in this privacy policy and data subject rights under the Privacy Shield Principles, the Privacy Shield Principles shall govern. To learn more about the Privacy Shield program, and to view our certification page, please visit [https://www.privacyshield.gov/ ](https://www.privacyshield.gov/)
+
+**A) Definitions**
+
+“Personal Data” means information that (1) is transferred from the EEA or Switzerland to the United States; (2) is recorded in any form; (3) is about or pertains to a specific individual; and (4) can be linked to that individual.
+
+“Sensitive Personal Information” means personal information that reveals race, ethnic origin, sexual orientation, political opinions, religious or philosophical beliefs, trade union membership or that concerns an individual’s health.
+
+**B) Principles**
+
+Jive may receive Personal Data from its own personnel as well as from its affiliates, resellers, customers, end-users and other parties located in the EEA or Switzerland.
+
+Such information may contain, but is not limited to name (first and last name), position, address, email address, phone number, login credentials, human resources data and transaction information and may be about customers, clients of customers, business partners, acquisition targets, potential buyers consultants, employees, and candidates for employment and includes information recorded on various media as well as electronic data. In addition, we might collect location and traffic data. Please refer to our main **Privacy Policy Statement** (above) for more information regarding our data handling practices.
+
+Jive is the controller of its own human resources data. In addition, Jive acting as a data processor or sub-processor may receive Personal Data via its customers. Jive executes data processing agreements with such customers which set out the parties’ obligations and responsibilities to comply with the Principles. Jive will cooperate with its customers to enable them to comply with the Principles.
+
+Whenever Jive processes Personal Data, Jive complies with the Principles (as each Principle is applicable to Jive’s role):
+
+  1. **Notice.** Whenever we collect Personal Data directly from individuals, we shall inform an individual of the purpose for which we collect and use their Personal Data and the types of third parties to which Jive discloses or may disclose that Personal Data. Please refer to our main Privacy Policy Statement for more information regarding our data handling practices. Jive shall provide the individual with the choice and means for limiting the use and disclosure of their Personal Data. Notice will be provided in clear and conspicuous language when individuals are first asked to provide Personal Data to Jive, or as soon as practicable thereafter, and in any event before Jive uses or discloses the Personal Data for a purpose other than for which it was originally collected. Jive may be required to disclose Personal Data in response to lawful request by public authorities, including to meet national security or law enforcement requirements.
+  2. **Choice.** Whenever Jive collects Personal Data directly from individuals for marketing purposes, those individuals have the opportunity to choose (opt out) whether their Personal Data is (1) to be disclosed to a third party or (2) to be used for a purpose other than the purpose for which it was originally collected or subsequently authorized by the individual by contacting our Data Protection Officer via email at [privacy@jivesoftware.com](mailto:privacy@jivesoftware.com). For Sensitive Personal Information, Jive will give individuals the opportunity to affirmatively or explicitly (opt in) consent to the disclosure of the information to a non-Agent third party or for a purpose other than the purpose for which it was originally collected or subsequently authorized by the individual. Jive shall treat Sensitive Personal Information received from an individual the same as the individual would treat and identify it as Sensitive Personal Information.  Agents, technology vendors and contractors of Jive or affiliated companies may have access to an individual’s Personal Data on a need to know basis for the purpose of performing services on behalf of Jive or providing or enabling elements of the services. All such agents, technology vendors and contractors who have access to such information are contractually required to keep the information confidential and not use it for any other purpose than to carry out the services they are performing for Jive or as otherwise required by law.
+  3. **Accountability for Onward Transfer.** Whenever we collect Personal Data directly from individuals, prior to disclosing Personal Data to a third party, we shall notify the individual of such disclosure and allow the individual the choice (opt out) of such disclosure. Jive shall ensure that any third party to which Personal Data may be disclosed agrees in writing to provide the same level of privacy protection as set forth in this policy.Jive’s accountability for personal data that it receives in the United States under the Privacy Shield and subsequently transfers to a third party is described in the Privacy Shield Principles. In particular, Jive remains responsible and liable under the Privacy Shield Principles if third-party agents that it engages to process the personal data on its behalf do so in a manner inconsistent with the Principles, unless Jive proves that it is not responsible for the event giving rise to the damage.
+  4. **Data Security.** We shall take reasonable steps to protect the Personal Data from loss, misuse and unauthorized access, disclosure, alteration and destruction. Jive has put in place appropriate physical, electronic and managerial procedures to safeguard and secure the Personal Data from loss, misuse, unauthorized access or disclosure, alteration or destruction. However, Jive cannot guarantee the security of Personal Data on or transmitted via the Internet.
+  5. **Data Integrity** **and Purpose Limitation.** We shall only process Personal Data in a way that is compatible with and relevant for the purpose for which it was collected or authorized by the individual. To the extent necessary for those purposes, Jive shall take reasonable steps to ensure that Personal Data is accurate, complete, current and reliable for its intended use.
+  6. **Access.** We acknowledge the individual’s right to access their Personal Data. We shall allow an individual access to their Personal Data and allow the individual the opportunity to correct, amend or delete inaccurate information, except where the burden or expense of providing access would be disproportionate to the risks to the privacy of the individual in the case in question or where the rights of persons other than the individual would be violated. Individuals may contact our Data Protection Officer via email at [privacy@jivesoftware.com](mailto:privacy@jivesoftware.com) to request to access, correct, amend, or delete the personal information Jive holds about you. In cases where Jive is a Data Sub-Processor or Processor, individuals must contact the Data Processor or the Data Controller, as applicable.
+  7. **Enforcement and Dispute Resolution.**  With respect to personal data received or transferred pursuant to the Privacy Shield Frameworks, Jive is subject to the regulatory enforcement powers of the U.S. Federal Trade Commission.In compliance with the Privacy Shield Principles, Jive commits to resolve complaints about your privacy and our collection or use of your personal information transferred to the United States pursuant to Privacy Shield. EEA and Swiss individuals with Privacy Shield inquiries or complaints should first contact us at:
+
+  Jive Software, Inc.  
+Data Protection Officer  
+401 Congress Avenue, Suite 2650  
+Austin Texas 78701 USA  
+E-mail: [privacy@jivesoftware.com](mailto:privacy@jivesoftware.com)
+
+
+
+  1. **Human Resources Data**. If your complaint involves human resources data transferred to the United States from the EEA or Switzerland in the context of the employment relationship, and Jive does not address it satisfactorily, Jive commits to cooperate with the panel established by the data protection authorities (DPA Panel) and the Swiss Federal Data Protection and Information Commissioner, as applicable and to comply with the advice given by the DPA panel and Commissioner, as applicable with regard to such human resources data.  To pursue an unresolved human resources complaint, you should contact the state or national data protection or labor authority in the appropriate jurisdiction.  Complaints related to human resources data should not be addressed to the BBB EU PRIVACY SHIELD.
+  2. **Non-Human Resources Data**. Jive has further committed to refer unresolved privacy complaints under the Privacy Shield Principles to an independent dispute resolution mechanism, the BBB EU PRIVACY SHIELD, operated by the Council of Better Business Bureaus. If you do not receive timely acknowledgment of your complaint, or if your complaint is not satisfactorily addressed, please visit [www.bbb.org/EU-privacy-shield/for-eu-consumers](http://www.bbb.org/EU-privacy-shield/for-eu-consumers) for more information and to file a complaint. This service is provided free of charge to you.
+
+
+
+If your Privacy Shield complaint was not resolved through the above channels, under certain conditions, you may invoke binding arbitration for some residual claims not resolved by other redress mechanisms. See Privacy Shield Annex 1 at <https://www.privacyshield.gov/article?id=ANNEX-I-introduction>
+
+**C) Amendments**  
+This Privacy Statement may be amended from time to time consistent with the requirements of the Shield Frameworks. We will post any revised policy on this website.
+
+**D) Information Subject to Other Policies**  
+We are committed to following the Principles for all Personal Data within the scope of the Privacy Shield Frameworks. However, certain information is subject to policies of Jive that may differ in some respects from the general policies set forth in this Privacy Statement.
+
+  **Updated:  January 18, 2019**
