@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rank-booster.com privacy policy that was archived on 2018-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181221172548id_/https%3A//www.rank-booster.com/pg/Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rank-booster.com privacy policy that was archived on 2019-03-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190308151220id_/https%3A//www.rank-booster.com/pg/Privacy) for the most accurate reproduction.*
 
 # Rank-Booster Privacy Policy - Rank Booster
 
@@ -422,7 +422,7 @@ d)                  All personal data processed for profiling p
 
 ### 15\. Contacting Us
 
-If you have any questions about Our Site or this Privacy Policy, please contact us by email at [[email protected]](https://www.rank-booster.com/cdn-cgi/l/email-protection#de8dabaeaeb1acaa9e8cbfb0b5f39cb1b1adaabbacf0bdb1b3)or by post at <https://help.rank-booster.com/contact/>. Please ensure that your query is clear, particularly if it is a request for information about the data We hold about you (as under section 11, above).
+If you have any questions about Our Site or this Privacy Policy, please contact us by email at [[email protected]](https://www.rank-booster.com/cdn-cgi/l/email-protection#fead8b8e8e918c8abeac9f9095d3bc91918d8a9b8cd09d9193)or by post at <https://help.rank-booster.com/contact/>. Please ensure that your query is clear, particularly if it is a request for information about the data We hold about you (as under section 11, above).
 
 ### 16\. Changes to Our Privacy Policy
 
