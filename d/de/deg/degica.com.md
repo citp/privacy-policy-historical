@@ -1,39 +1,92 @@
-> *The following text is extracted and transformed from the degica.com privacy policy that was archived on 2013-01-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130116233000id_/http%3A//www.degica.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the degica.com privacy policy that was archived on 2019-03-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190309001136id_/https%3A//www.degica.com/privacy.html) for the most accurate reproduction.*
 
-# Privacy Policy | Degica
+# Degica | Making Japan simple
 
-[Home](https://web.archive.org/) >> Privacy Policy 
+Last updated: October 12, 2018 
 
-Degica Co., Ltd. ("Degica") is committed to protecting the privacy of any personal information that you may provide to us when using any of our online services.
+We (DEGICA Co., Ltd.) may collect your personal information in order to provide our services, including EC sites operation, digital content sales and international promotion support. We fully understand the importance of safeguarding your privacy and endeavor to handle your personal information appropriately so that you can do business with us with peace of mind. To this end, we publish our Privacy Policy here. 
 
-## Collection of Personally Identifiable Information
+## 1\. Scope
 
-Degica may collect personally identifiable information if you purchase, download, or register any software products offered by Degica. This information may include your name, address, email address, phone number, etc. This information is used only to record any sales transactions, to provide you with any product support, or to provide you with product information (such as updates, alerts and associated product offerings), via opt-in permission based email. If we use a payment processing and product fulfillment merchant we ensure that the same strict privacy criteria are in place. Degica will never sell, rent, lease, or give your information to a third party unless required by law. If you have subscribed to receiving emails from Degica or any Degica affiliated company and you choose to no longer receive such emails, you may unsubscribe at any time by either clicking the "Unsubscribe" link in the email or by contacting Degica directly. By transmitting any information to Degica when prompted, you consent to Degica’s collection and use of such information for the purposes as defined herein. You are responsible for making the decision on whether or not to proceed with any activity that requires your requests your personal information.
+This Privacy Policy shall apply to all personal information you provide to us via our websites, phone, email, or in writing, etc., in connection with all of our services. If provisions differing with this Privacy Policy are specified when providing personal information, such provisions shall apply preferentially. Additionally, our Privacy Policy does not apply to personal information obtained separately by advertisers that place advertisements on our websites. 
 
-## Cookies
+## 2\. The Information We Collect
 
-Degica may from time to time use cookies. A "cookie" is a unique text file that the Degica Web site can send to your Internet browsing software in order to tailor information presented to you based on your browser settings and preferences. Cookies may also be stored on an Internet User’s computer for the purposes of tracking the Internet user’s clicks to ensure that they are directed to the correct click-through destination site, or to track the performance of its business partners and to ensure proper payment for their sales activities related to their business relationship with Degica. Degica’s usage of cookies does not collect any personal information in any way. If you do not want Degica to deploy cookies in your browser, you can set your browser to reject cookies or notify you when a Web site tries to put a cookie in your browser software, however, rejecting cookies may affect your ability to use of some of the products and/or services at our website.
+To achieve the purposes of use prescribed in “3. Use and Retention of Your Information”, we shall collect from you the personal information prescribed below. We take efforts to collect the minimum personal information necessary. 
 
-## Statistical Information
+## 2.1 Information Provided by You
 
-Degica may track domain names, IP addresses, and browser types from Internet users who visit our Web site. We use this information to produce traffic statistics for the Degica Web site, and to identify how we can improve our products, services, and Web site for our customers. Such information does not contain any personal information.
+  * Your personal information such as your name, mailing address, telephone number, your company name, email address, etc.
+  * Login information such as account name (user ID) and password
+  * Information regarding payment methods such as credit cards, bank accounts, electronic money, etc.
+  * Information for identity verification such as copies of drivers licenses, health insurance cards, etc.
 
-## Third Party Links
 
-Degica may from time to time include links from our website that may direct you to other third party websites which we believe may be of interest to you. Please take note that if you are directed to any third party websites, those websites are not governed by this Privacy Policy and it is your responsibility to review and understand the privacy policy of any websites that you visit.
 
-## Security
+## 2.2 Information Acquired via Cookies
 
-Any personally identifiable information that is collected by Degica is stored in limited access servers. Degica takes reasonable precautions and measures to protect the information that has been collected, and to safeguard the servers where such information is stored. These measures include technical and procedural steps to protect your data from misuse, unauthorized access or disclosure, loss, alteration, or destruction.
+When you visit our websites, we may place a small text file called a “cookie” on your device. You can disable cookies by changing their browser’s settings, but this may result in being unable to use some features provided by the website. 
 
-## Policy Modifications
+  * IP address
+  * Referring URL (address of the webpage linked from)
+  * Device information (browser type and version, time zone settings, operating system, etc.)
+  * Information on products and services displayed or searched
 
-Degica may from time to time make modifications to this Privacy Policy to ensure that we are in compliance with applicable regulations. Any changes to this Privacy Policy will be posted promptly on this Privacy Policy web page and on the Home page.
 
-## CONTACT
 
-If you would like to contact us, or have questions or suggestions regarding our Privacy Policies, please write, or e-mail us at the following address
+## 3\. Use and Retention of Your Information
 
-Degica Co., Ltd.
+We use your information for the purposes specified below. We shall not use it for any other purposes than below. 
 
-Data Protection Officer Email: info(at)degica.com
+  * To enable logging in to your account, forums, message boards, etc.
+  * To ship our products or gift and to provide our services such as downloads, etc.
+  * To bill fees for providing our services
+  * To refund when service cancellation
+  * To transfer collected fee on behalf of contractor of our service
+  * To reply appropriately to your inquiries about our service
+  * To send you information and advertisements such as direct mailings or email newsletters, etc.
+  * To notify you of updates, changes, or discontinuation, etc., of our services.
+  * To improve existing services and conduct R&D for the development of new services
+  * To utilize information for services such as analysis, marketing, and information dissemination, etc., as statistical data in which individuals or corporations are anonymized
+  * To perform identity verification
+  * To prevent, investigate, and identify fraud, cyber-attacks, and other illegal activities or violations of our services’ terms of use, and to protect our legal rights
+  * To utilize information for personnel recruitment
+
+
+
+We may retain information about you for as long as it is necessary to fulfill the purposes described above. In order to secure your information, we take all the security measures described in “6. Security” 
+
+## 4\. Sharing and Provision of Your Information
+
+We shall not sell or rent your personal information to third parties. However, we may share your information with our partners or provide it to a third party in the following circumstances. 
+
+  * When you have provided consent in advance
+  * When necessary for our partners to perform outsourced duties (transmitting email, processing payments, etc.)
+  * When necessary to provide statistical data in which individuals or corporations are anonymized
+  * When necessary to sell our business in whole or in part
+  * When required by law
+  * Cases of urgent necessity in which there is imminent danger to the life, body, or property of an individual, and in which it is difficult to obtain the consent of the person
+  * Cases of cooperation with legal demands by public institutions such as judiciary agencies or the police, etc.
+  * Cases in which there is reasonable suspicion that the individual has violated the law or our terms of use in connection with the use of our services, and it has been recognized as necessary to protect our or third party’s rights, assets, or services, etc.
+
+
+
+## 5\. Your Rights
+
+When we receive your request of disclosure, correction, amendment, deletion, erasing, suspension of use, or notification of the purposes of use of your information, we shall take care of it promptly within a reasonable scope. Under the GDPR (General Data Protection Regulation), those residing in the European Economic Area (EEA) countries have the rights to revoke consent to provide personal information, to raise objections regarding the handling of personal information, and to file complaints with the competent supervisory authorities. 
+
+## 6\. Security
+
+To prevent unauthorized access or leaking of your personal information, and maintain the accuracy of information and dispose of it properly, we shall comply with all applicable laws, and make efforts to handle personal information with high level of security. In order to protect your privacy and ensure security, your information shall be protected by passwords. Additionally, we shall use industry standard SSL encryption to protect data transmissions when necessary. When we outsource duties to a third party for the purpose of providing services to you, a contract will be signed to ensure proper management of the outsourcer. We shall conduct regular reviews to confirm that these activities are being properly performed and at a suitable level. 
+
+## 7\. Changes to this Privacy Policy
+
+We may revise our Privacy Policy in whole or in part. In the event of revisions, they shall apply automatically at the point in time they are posted on our websites or when we notify you of them. 
+
+## 8\. Contact Us
+
+If you have any questions or concerns regarding the contents of this Privacy Policy or other aspects of how your personal information is handled, please contact us below.   
+DEGICA Co., Ltd. / Personal information protection manager  
+PHONE: +81-50-6861-0240  
+e-mail: info@degica.com  
+Reception hours: 10:00am to 5:00pm, Monday to Friday (except Japan’s public holidays, the Year-End and New Year holidays) 
