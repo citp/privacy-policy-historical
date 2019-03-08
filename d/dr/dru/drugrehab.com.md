@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the drugrehab.com privacy policy that was archived on 2018-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181222025610id_/https%3A//www.drugrehab.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the drugrehab.com privacy policy that was archived on 2019-03-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190308234408id_/https%3A//www.drugrehab.com/privacy-policy) for the most accurate reproduction.*
 
 # Drugrehab.com's Privacy Policy | Collecting & Using Information
 
