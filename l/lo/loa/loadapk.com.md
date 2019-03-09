@@ -1,80 +1,71 @@
-> *The following text is extracted and transformed from the loadapk.com privacy policy that was archived on 2016-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160625063156id_/https%3A//www.hugedomains.com/privacy_policy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the loadapk.com privacy policy that was archived on 2019-03-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190310005156id_/http%3A//www.techgamestore.com/p/blog-page_10.html) for the most accurate reproduction.*
 
-# HugeDomains.com - Privacy Policy
+# Privacy Policy ~ TECH GAME STORE
 
-[Home](https://www.hugedomains.com/) _ _ Privacy Policy
+Privacy Policy for TECH GAME STORE 
 
-**What information do we collect?**
+**TECH GAME STORE  
 
-We collect information from you when you register on our site, place an order or fill out a form. 
 
-When ordering or registering on our site, as appropriate, you may be asked to enter your: name, e-mail address, mailing address, phone number or credit card information. You may, however, visit our site anonymously. 
+##  PRIVACY POLICY
 
-**What do we use your information for?**
+** Welcome to TECH GAME STORE (the "Site").
 
-Any of the information we collect from you may be used in one of the following ways: 
+We understand that privacy online is important to users of our Site, especially when conducting business.   
+This statement governs our privacy policies with respect to those users of the Site ("Visitors") who visit without   
+transacting business and Visitors who register to transact business on the Site and make use of the various services offered by TECH GAME STORE (collectively, "Services") ("Authorized Customers").
 
-• To personalize your experience  
-(your information helps us to better respond to your individual needs) 
+**"Personally Identifiable Information"**   
+refers to any information that identifies or can be used to identify, contact, or locate the person to whom such information pertains, including, but not limited to, name, address, phone number, fax number, email address, financial profiles, social security number, and credit card information. Personally Identifiable Information does not include information that is collected anonymously (that is, without identification of the individual user)   
+or demographic information not connected to an identified individual.
 
-• To improve our website  
-(we continually strive to improve our website offerings based on the information and feedback we receive from you) 
+**What Personally Identifiable Information is collected?**  
+We may collect basic user profile information from all of our Visitors. We collect the following additional information from our Authorized Customers: the names, addresses, phone numbers and email addresses of Authorized Customers, the nature and size of the business, and the nature and size of the advertising inventory that the Authorized Customer intends to purchase or sell.
 
-• To improve customer service  
-(your information helps us to more effectively respond to your customer service requests and support needs) 
+**What organizations are collecting the information?**  
+In addition to our direct collection of information, our third party service vendors (such as credit card companies, clearinghouses and banks) who may provide such services as credit, insurance, and escrow services may collect this information from our Visitors and Authorized Customers. We do not control how these third parties use such information, but we do ask them to disclose how they use personal information provided to them from Visitors and Authorized Customers. Some of these third parties may be intermediaries that act solely as links in the distribution chain, and do not store, retain, or use the information given to them.
 
-• To process transactions
+**How does the Site use Personally Identifiable Information?**  
+We use Personally Identifiable Information to customize the Site, to make appropriate service offerings, and to fulfill buying and selling requests on the Site. We may email Visitors and Authorized Customers about research or purchase and selling opportunities on the Site or information related to the subject matter of the Site. We may also use Personally Identifiable Information to contact Visitors and Authorized Customers in response to specific inquiries, or to provide requested information. 
 
-> Your information will be used to deliver the product you purchased. With domain purchases this means that that your name, address, city, state, zip, phone number, email address and fax number can and will be used to create an account at the current domain registrar on your behalf, or to move the domain into an existing account at the current registrar and might be visible in public whois records.
+**With whom may the information may be shared?**  
+Personally Identifiable Information about Authorized Customers may be shared with other Authorized Customers who wish to evaluate potential transactions with other Authorized Customers. We may share aggregated information about our Visitors, including the demographics of our Visitors and Authorized Customers, with our affiliated agencies and third party vendors. We also offer the opportunity to "opt out" of receiving information or being contacted by us or by any agency acting on our behalf. 
 
-• To send periodic emails
+**How is Personally Identifiable Information stored?**  
+Personally Identifiable Information collected by TECH GAME STORE is securely stored and is not accessible to third parties or employees of TECH GAME STORE except for use as indicated above.
 
-> The email address you provide for order processing, will only be used to send you information and updates pertaining to your order.
+**What choices are available to Visitors regarding collection, use and distribution of the information?**  
+Visitors and Authorized Customers may opt out of receiving unsolicited information from or being contacted by us and/or our vendors and affiliated agencies by responding to emails as instructed, or by contacting us at [cashflie9928@gmail.com](mailto:cashflie9928@gmail.com)
 
-If you decide to opt-in to a mailing list, you will receive emails that may include company news, updates, related product or service information, etc. 
+**Are Cookies Used on the Site?**  
+Cookies are used for a variety of reasons. We use Cookies to obtain information about the preferences of our Visitors and the services they select. We also use Cookies for security purposes to protect our Authorized Customers. For example, if an Authorized Customer is logged on and the site is unused for more than 10 minutes, we will automatically log the Authorized Customer off.
 
-Note: If at any time you would like to unsubscribe from receiving future emails, we include detailed unsubscribe instructions at the bottom of each email. 
+**How does TECH GAME STORE use login information?**  
+TECH GAME STORE uses login information, including, but not limited to, IP addresses, ISPs, and browser types, to analyze trends, administer the Site, track a user's movement and use, and gather broad demographic information.
 
-**How do we protect your information?**
+**What partners or service providers have access to Personally Identifiable Information from Visitors and/or Authorized Customers on the Site?**  
+TECH GAME STORE has entered into and will continue to enter into partnerships and other affiliations with a number of vendors.  
+Such vendors may have access to certain Personally Identifiable Information on a need to know basis for evaluating Authorized Customers for service eligibility.   
+Our privacy policy does not cover their collection or use of this information.   
+Disclosure of Personally Identifiable Information to comply with law. We will disclose Personally Identifiable Information in order to comply with a court order or subpoena or a request from a law enforcement agency to release information. We will also disclose Personally Identifiable Information when reasonably necessary to protect the safety of our Visitors and Authorized Customers. 
 
-We implement a variety of security measures to maintain the safety of your personal information when you place an order or access your personal information. 
+**How does the Site keep Personally Identifiable Information secure?**  
+All of our employees are familiar with our security policy and practices. The Personally Identifiable Information of our Visitors and Authorized Customers is only accessible to a limited number of qualified employees who are given a password in order to gain access to the information. We audit our security systems and processes on a regular basis. Sensitive information, such as credit card numbers or social security numbers, is protected by encryption protocols, in place to protect information sent over the Internet. While we take commercially reasonable measures to maintain a secure site, electronic communications and databases are subject to errors, tampering and break-ins, and we cannot guarantee or warrant that such events will not take place and we will not be liable to Visitors or Authorized Customers for any such occurrences. 
 
-We offer the use of a secure server. All supplied sensitive/credit information is transmitted via Secure Socket Layer (SSL) technology and then encrypted into our Payment gateway providers database only to be accessible by those authorized with special access rights to such systems, and are required to keep the information confidential. 
+**How can Visitors correct any inaccuracies in Personally Identifiable Information?**  
+Visitors and Authorized Customers may contact us to update Personally Identifiable Information about them or to correct any inaccuracies by emailing us at [cashflie9928@gmail.com](mailto:cashflie9928@gmail.com)
 
-After a transaction, your private information (credit cards, social security numbers, financials, etc.) will not be kept on file for more than 60 days. 
+**Can a Visitor delete or deactivate Personally Identifiable Information collected by the Site?**  
+We provide Visitors and Authorized Customers with a mechanism to delete/deactivate Personally Identifiable Information from the Site's database by contacting [cashflie9928@gmail.com](mailto:cashflie9928@gmail.com). However, because of backups and records of deletions, it may be impossible to delete a Visitor's entry without retaining some residual information. An individual who requests to have Personally Identifiable Information deactivated will have this information functionally deleted, and we will not sell, transfer, or use Personally Identifiable Information relating to that individual in any way moving forward. 
 
-**Do we use cookies?**
+**What happens if the Privacy Policy Changes?**  
+We will let our Visitors and Authorized Customers know about changes to our privacy policy by posting such changes on the Site. However, if we are changing our privacy policy in a manner that might cause disclosure of Personally Identifiable Information that a Visitor or Authorized Customer has previously requested not be disclosed, we will contact such Visitor or Authorized Customer to allow such Visitor or Authorized Customer to prevent such disclosure. 
 
-Yes, cookies are small files that a site or its service provider transfers to your computers hard drive through your Web browser (if you allow) that enables the sites or service providers systems to recognize your browser and capture and remember certain information 
+**Links:**  
+This web site contains links to other web sites. Please note that when you click on one of these links, you are moving to another web site. We encourage you to read the privacy statements of these linked sites as their privacy policies may differ from ours.   
 
-We use cookies to help us remember and process the items in your shopping cart, understand and save your preferences for future visits, keep track of advertisements and compile aggregate data about site traffic and site interaction so that we can offer better site experiences and tools in the future. 
 
-If you prefer, you can choose to have your computer warn you each time a cookie is being sent, or you can choose to turn off all cookies via your browser settings. Like most websites, if you turn your cookies off, some of our services may not function properly. However, you can still place orders over the telephone or by contacting customer service. 
+© 2019 **TECH GAME STORE** , All rights reserved.  
+Unauthorized duplication or publication of any materials from this Site is expressly prohibited. 
 
-**Do we disclose any information to outside parties?**
-
-Upon purchasing a domain from HugeDomains your personal information may be provided to the current registrar of record, allowing you to gain control and access to your domain name. Please note domain name registration contact information is made public through "whois" services, and by providing information to HugeDomains.com means the contact information may be made public as required by the domain name registrar which maintains the domain registration. 
-
-**Online Privacy Policy Only**
-
-This online privacy policy applies only to information collected through our website and not to information collected offline. 
-
-**Terms and Conditions**
-
-Please also visit our [Terms and Conditions](https://web.archive.org/terms.cfm) section establishing the use, disclaimers, and limitations of liability governing the use of our website at [ //www.hugedomains.com](https://www.hugedomains.com/index.cfm)
-
-**Your Consent**
-
-By using our site, you consent to our web site privacy policy. 
-
-**Changes to our Privacy Policy**
-
-If we decide to change our privacy policy, we will post those changes on this page, send an email notifying you of any changes, and/or update the Privacy Policy modification date below. 
-
-This policy was last modified on 1/10/2012 
-
-**Contacting Us**
-
-If there are any questions regarding this privacy policy you may use the [contact us](https://www.hugedomains.com/contact.cfm) form on this Web site. 
-
-HugeDomains.com
+Get your own Privacy Policy [here](http://www.prioritydigital.com/)! 
