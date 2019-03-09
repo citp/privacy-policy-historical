@@ -1,20 +1,20 @@
-> *The following text is extracted and transformed from the visser.com.au privacy policy that was archived on 2012-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121212014712id_/http%3A//www.visser.com.au/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the visser.com.au privacy policy that was archived on 2019-03-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190309084917id_/https%3A//www.visser.com.au/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Visser Labs
 
-\- Updated December 2012
+– Updated May 2018
 
-This following document sets forth the Privacy Policy for the Visser Labs website, [www.visser.com.au](http://www.visser.com.au/).
+This following document sets forth the Privacy Policy for the Visser Labs website, [www.visser.com.au](https://www.visser.com.au/).
 
-Visser Labs is committed to providing you with the best possible customer service experience and are bound by the Privacy Act 1988 (Crh), which sets out a number of principles concerning the privacy of individuals.
+Visser Labs is committed to providing you with the best possible customer service experience and are bound by the Australian Privacy Act 1988 (Crh), which sets out a number of principles concerning the privacy of individuals.
 
 ### Collection of your personal information
 
-There are many aspects of the site which can be viewed without providing personal information, however, for access to future Visser Labs customer support features you may be required to submit personally identifiable information. This may include but not limited to a unique username and password, or provide sensitive information in the recovery of your lost password.
+There are many aspects of the site which can be viewed without providing personal information, however, for access to future Visser Labs customer support features you may be required to submit personally identifiable information. This may include but not limited to a unique username and password, or provide sensitive information such as your e-mail address to recover your lost password.
 
 ### Sharing of your personal information
 
-We may occasionally hire other companies to provide services on our behalf, including but not limited to handling customer support enquiries, processing transactions or customer freight shipping. Those companies will be permitted to obtain only the personal information they need to deliver the service. Visser Labs takes reasonable steps to ensure that these organisations are bound by confidentiality and privacy obligations in relation to the protection of your personal information.
+We may occasionally hire other companies to provide services on our behalf, including but not limited to handling customer support inquiries and processing transactions. Those companies will be permitted to obtain only the personal information they need to deliver the service. Visser Labs takes reasonable steps to ensure that these organisations are bound by confidentiality and privacy obligations in relation to the protection of your personal information.
 
 ### Use of your personal information
 
@@ -34,4 +34,4 @@ You have a right to access your personal information, subject to exceptions allo
 
 Visser Labs welcomes your comments regarding this Privacy Policy. If you have any questions about this Privacy Policy and would like further information, please contact us by any of the following means during business hours Monday to Friday.
 
-E-mail: [michael@visser.com.au](mailto:michael@visser.com.au)
+E-mail: [support@visser.com.au](mailto:support@visser.com.au)
