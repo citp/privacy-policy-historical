@@ -1,122 +1,289 @@
-> *The following text is extracted and transformed from the clarks.co.uk privacy policy that was archived on 2017-03-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170331123412id_/http%3A//www.clarks.co.uk/PrivacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the clarks.co.uk privacy policy that was archived on 2019-03-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190309173745id_/https%3A//www.clarks.co.uk/privacy-policy) for the most accurate reproduction.*
 
 # Clarks Online - Clarks Privacy Policy - How We Use Your Data
 
-## How we use your information
+#### Important Information
 
-Clarks never make your personal details available to any other company for marketing purposes. Clarks (and our representatives) may hold your personal details in order to process your order and maintain your account for research purposes. If you order with us we store and send you the details of your order as well as our general terms via email. You can find the terms [here](https://web.archive.org/TermsandConditions) at all times. The details about your recent orders can be found in your My Account page once you have logged in.
+This Privacy Notice aims to give you information about how we collect and process your personal data when you use the website or app this Privacy Notice is linked to. This Privacy Notice covers any personal data you provide when you create an account, purchase a product or otherwise interact with us.
 
-## Use and storage of data
+We want to make sure you know who we are, how you can contact us, the personal data we process, how we use it, who we share it with, how long we keep it for and the choices you have to exercise your legal rights.
 
-If you have registered with us, or ordered items from us, we will have your email address, telephone number, postal address and the method you chose to make your purchase with. If you chose to have a delivery made to a third party address, then that will also be held on our records.
+It is important that you read this Privacy Notice together with any other privacy notice we may provide when we collect or process your personal data so that you are fully aware of how and why we are using your data. In particular, please read this Privacy Notice in conjunction with our [Cookie Policy](https://web.archive.org/cookies)
 
-We maintain an order history of your purchase(s), which allows you and us to track your deliveries and review past purchases. We may offer you a promotion or reward we think you might like based on your order history.
+This Privacy Notice covers the following topics:
 
-We currently plan on keeping all consumer data until we have completed a review and developed plans for its archiving, deletion or depersonalisation. This review will be complete within 12-18 months.
+  * Important information
+  * Who we are
+  * How to contact us
+  * The personal data we collect and use
+  * Who we share your personal data with
+  * How long your personal data will be kept for
+  * Transfer of your personal data out of the EEA (European Economic Area) 
+  * Control over your information
+  * Keeping your personal information secure
+  * How to complain
+  * Changes to this privacy notice
 
-The data that we collect from you may be transferred, processed and stored at a destination outside the European Economic Area ("EEA").
 
-If you have opted in to receive emails from Clarks your data will be transferred and stored by Experian in USA. By submitting your personal details you agree to this transfer, storing and processing.
 
-We collect data from your browsing behaviour on our website. No personal data is transferred or stored by Coremetrics in USA.
+#### Who we are
 
-We collect marketing and website purchase data through Tagman, a tracking and analytics supplier in USA that help us improve our marketing campaigns.
+C. & J. Clark International Limited is a company registered in England and Wales (company number 00141015) with a registered office at 40 High Street, Street, Somerset, BA16 0EQ. 
 
->We do not store any payment details. Once you have entered your payment details into the site we will use them for the transaction they have been entered for and that transaction only.
+When we mention “Clarks”, “we”, “us” or “our” in this Privacy Notice, we are referring to C. & J. Clark International Limited.
 
-## HR privacy
+For the purposes of data protection legislation, we are the data controller of your personal data. We are registered with the Information Commissioners Office in the UK with reference number Z5755995. 
 
-Information about you will be used for the purpose of determining your suitability for employment with Clarks. It may also be used for statistical analysis, for example to assess the success of advertising campaigns and different advertising media.
+#### How to contact us
 
-We may record information and opinions relating to you from third parties in the course of the recruitment process. You should note that your application may be subject to verification, for example your references may be taken up and any qualification which is indicated on your application may be verified by us contacting the appropriate body. This would not be done without your permission. We will not contact your current employer without your permission.
+We have appointed a Data Privacy Manager who is responsible for overseeing questions in relation to this Privacy Notice. If you have any comments, questions or requests in relation to this notice or how we handle your personal data, please address them to Privacy, Box No. 87, C. & J. Clark International Limited, 40 High Street, Street, Somerset, BA16 0EQ or email us at: [privacy@clarks.com](mailto:privacy@clarks.com). 
 
-Your details will be accessible only by our authorised personnel and will not be disclosed to any third party except as required by law.
+#### The personal information we collect and use
 
-We comply with stringent safeguards to protect your personal data. If you would like any further information about your rights, which include rights of access to data, then please email us at [recruitment@clarks.com](mailto:recruitment@clarks.com).
+If you have created an account with us, or ordered items from us or otherwise interact with our website or app, we will use your personal data in several different ways. The table below sets out how we use your personal data, showing what personal data we collect and why. 
 
-## Email communications
+Category of personal data
 
-If you have registered to receive emails from Clarks, you can remove your email address from the list at any time by using the links in the emails that are sent to you. We will never make your personal details available to other companies for marketing purposes.
+Name and contact details (such as email address, telephone number and postal address)
 
-We will endeavour to make all our communications clear in their intent. We will endeavour not to overuse your personal data.
+Deliver your purchase to you
 
-**Clarks recommend a friend campaign**  
-Individuals supplying Clarks with the email address of their friend via our recommend a friend campaign should first confirm that the friend consents to their email address being supplied. All email addresses supplied to us via the recommend a friend email campaign will be sent one email advising of the recommendation and will be given the option to supply further details and opt in to the Clarks emails.
+  
 
-## Cookies
 
-Our site uses cookies. Cookies are pieces of code that allow small amounts of information to be passed from your internet browser to our web server. Clarks use our own cookies, as well as those from third parties, serving several purposes. They allow us to remember whether you are logged in to the site, to remember what items you had in your shopping basket, to serve you with content tailored specifically for you and to help us learn about how you like to use our website and where we can make it better.
+Send you service messages by email or text, such as order updates
 
-Clarks will never disclose your personal details to any third parties. All data passed by cookies is anonymous and will never contain your name, address, telephone number or payment details.
+  
 
-To learn more about cookies and how we use them, please visit our [Cookie Policy](https://web.archive.org/Information/cookie-policy) page.
 
-## Third Party Cookie Use
+Send you information by email or post about our new products or services
 
-Clarks work with third party ad servers and ad networks who serve Clarks advertisements on our behalf. Clarks will not disclose your personal details to any third parties - for example, all data collected is anonymous and will not contain the name, address, telephone number, email address or IP address. Currently we have relationships with the following third-party ad network: [http://www.criteo.com](http://www.criteo.com/)
+  
 
-Criteo may place anonymous cookies in your browsers so that it can collect browsing data (such as the products you have viewed). Such data may be sent to website(s) in their network, and these cookies are collected in the 'visitors' cookie file. These cookies will allow the Criteo Technology to serve advertisements containing products that you have looked at and similar products.
 
-Advertisements will always include a link to Criteo's Privacy Policy page that will include information for users on how to opt-out of being cookie retargeted. If you wish to opt out of receiving such advertisements, or if you would like to receive more information on why you are being retargeted, simply click the 'i' which appears in the top left hand corner of every advertisement.
+So that you can book a fitting appointment
 
-If you would like to opt out of receiving Criteo advertisements go to <http://www.criteo.com/privacy-policy/opt-out>
+  
 
-## Security
 
-To prevent any unauthorised persons accessing your data, it is protected throughout the payment process.
+Fraud prevention and detection
 
-Your personal and payment details are captured online using industry-standard technology, which encrypts all information to make it secure. When you visit any of the secure areas of our site you'll notice that the web address begins 'https' and a padlock icon appears in the address bar. We also use the 'Extended Validation' certificate, so if you are using Internet Explorer 7 you will see confirmation that our identity has been verified.
+  
 
-## Access to your data
 
-You have a right to access the personal data that we hold on you under the Data Protection Act 1998. You must make your request in writing, enclosing a fee of £10, explaining clearly the information that you wish to be supplied.
+To register you with a Clarks account
 
-Please address your request to:
+Purchase information/history
 
-Direct Marketing Manager  
-Box 5  
-Clarks International  
-40 High Street  
-Street  
-Somerset  
-BA16 0EQ
+Maintain records of your purchases with us
 
-## Clarks First Shoes Experience app
+  
 
-Your personal data and your baby's Digital Image will be captured using the App, or where appropriate using the In-Store App.
 
-We will not process any information you provide us for the purpose of direct marketing unless you give us your permission. However to enable you to participate in the First Shoes Experience we will require you to provide us with the information set out in this privacy notice.
+Deliver your purchase to you
 
-We will collect the following information when you register on the App:
+  
 
-Your email address;  
-Your name;  
-Your postal address;  
-Your baby's date of birth;  
-Your baby's first name;  
-Your baby's gender;  
-Your baby's shoe size.
 
-What We Do With Your Personal Information:
+Send you service messages by email or text, such as order updates
 
-The information we collect will only be used by Clarks and our third parties for the purpose of your participation in the First Shoes Experience. Where you have given us permission we will also send you marketing and service emails promoting our children's shoes and other Clarks products and services. The information we collect will not be supplied to any other third party without first obtaining your consent, unless we are obliged or permitted by law to disclose it.
+Send you information by email or post about our new products or services
 
-We may also aggregate anonymous information about individuals who have engaged with our App (for example, the number of people who have used the App or In-Store App). We may retain this anonymous aggregate information to learn about how to make our future Clarks experiences even more successful.
+  
 
-To improve the range of products and services we offer to our youngest customers we may also aggregate anonymous information about your baby which may include; your baby’s date of birth, shoe size and gender. We may do this, for example, to learn about any changes in average shoe sizes in childhood development.
 
-Where we store your personal data:
+Fraud prevention and detection
 
-The data that we collect from you may be transferred to, and stored at, a destination outside the European Economic Area (EEA). By submitting your personal data, you agree to this transfer, storing and processing. We will take all steps reasonably necessary to ensure that your data is treated securely and in accordance with this privacy policy.
+  
 
-Unfortunately, the transmission of information via the internet is not completely secure. Although we will do our best to protect your personal data, we cannot guarantee the security of your data transmitted; any transmission is at your own risk. Once we have received your information, we will use strict procedures and security features to try to prevent unauthorised access.
 
-Your Rights:
+Make decisions about what Clarks adverts are shown to you as you browse the web or apps
 
-You have the right at any time to ask us to stop your participation in the First Shoes Experience and to stop any further processing of your personal data for marketing purposes. This can be requested using the contact details shown below or by using the automated unsubscribe facility shown at the end of each marketing email.
+Date of birth information
 
-Changes to this Privacy Policy:
+Fraud prevention and detection
 
-Any changes we may make to our privacy policy in the future will be posted on this page.
+  
 
-Questions, comments and requests regarding this privacy policy are welcomed and should be addressed to C & J Clark International Limited of 40 High Street Somerset BA16 0EQ or contact us on [customercare@clarks.com](mailto:customercare@clarks.com).
+
+To send you treats on your birthday 
+
+Payment information (we don’t store this information)
+
+Take payment and give refunds
+
+  
+
+
+Fraud prevention and detection
+
+Contact history with Clarks e.g. over the phone, email or on social media
+
+Provide customer service and support
+
+  
+
+
+  
+
+
+Information you provide when entering a competition or prize draw, playing games and completing surveys (including contact details and your actual entry)
+
+To facilitate your participation in the competition or prize draw
+
+  
+
+
+Device information: information about your computer, phone or other device you use to view the website or app such as device type, operating system, hardware version, browser type, unique device identifier, IP address and advertising ID  
+Log information: information about how you use our website or app such as the types of content you view or engage with, the frequency and duration of your activities, access times, language, your IP address and pages you visit before or after navigating away from the website  
+Device and log information will not be associated with you as a named individual unless you are logged into your account 
+
+Improve our website and set default options for you (such as language and currency)
+
+  
+
+
+Showing you Clarks adverts as you browse the web
+
+  
+
+
+Fraud prevention and detection
+
+  
+
+
+Make sure the website or app display and function correctly on your device (e.g. make sure pages load correctly on your device and that the displayed language and currency are correct for the country you are in)
+
+  
+
+
+Provide us with analytical information about the use of the website or app
+
+  
+
+
+Make the website or app secure
+
+  
+
+
+Make decisions about the pages, images and adverts to display to you on Clarks’ websites and apps
+
+  
+
+
+Make decisions about the adverts you see on websites and apps that are not owned by Clarks
+
+  
+
+
+Associate different devices you use with each other so that the pages, images and offers you see across devices are consistent.
+
+  
+
+
+  
+
+
+  
+
+
+We ensure that the collection and use of your personal data is lawful. Therefore, for the purposes listed above, we only use your personal data if one of the following conditions apply:
+
+  1. You have given us your consent
+  2. We need your personal data for the performance of a contract you enter into with us, such as when you purchase a product through the website or app
+  3. We need to comply with legal obligations
+  4. We need to protect your vital interests
+  5. Your data is necessary for the public interest, or
+  6. We have a legitimate interest in processing the personal data.
+
+
+
+#### Who we share your personal information with 
+
+We share your personal data with the following categories of companies as part of being able to provide our services to you: 
+
+  * Members of the Clarks group of companies, where they assist us in providing our services to you
+  * Companies that help us get your order to you, such as payment service providers, warehouses operators and delivery companies
+  * Marketing service providers, such as marketing agencies and advertising partners who help us market our business
+  * Technology service providers, such as companies that support our IT, help us analyse the data we hold, send communications to our customers and help us develop and host our websites and apps
+  * Professional advisors, such as companies that provide us with legal or financial advice
+  * Credit reference agencies, law enforcement and fraud prevention agencies, so we can help tackle fraud and other unlawful activities
+  * Companies approved by you, such as social media sites
+
+
+
+For a list of our third-party suppliers [click here](https://web.archive.org/assets/servicepages/privacy-policy/third_party_service_providers.pdf). Some of those third-party recipients may be based outside the European Economic Area — for further information including how we safeguard your personal data when this occurs, see ‘Transfer of your information out of the EEA’.
+
+#### How long your personal data will be kept
+
+We will hold on to your information for as long as you have your account, or as long as is needed to be able to provide the services to you, or (in the case of any contact you may have with our Customer Care team) for as long as is necessary to provide support-related reporting and trend analysis only. 
+
+If reasonably necessary or required to meet legal or regulatory requirements, resolve disputes, prevent fraud and abuse, or enforce our terms and conditions, we may also keep hold of some of your information as required, even after you have closed your account or it is no longer needed to provide the services to you. 
+
+#### Transfer of your personal data out of the EEA
+
+In order to process your personal data for the purposes set out in this Privacy Notice, we may transfer your personal data to third parties and other companies in our group that are based outside of the EEA.
+
+Whenever we transfer your personal data out of the EEA, we attach a similar degree of protection to it (as it would receive in the EEA) by ensuring at least one of the following safeguards is implemented:
+
+  * We will only transfer your personal data to countries, territories or sectors within a country that have been deemed to provide an adequate level of protection for personal data by the European Commission.
+  * The transfer is subject to a legally binding and enforceable commitment on the recipient to protection the personal data (e.g. through the use of European Commission approved standard contractual clauses).
+  * Where we use service providers based in the US, we may transfer data to them if they are part of the Privacy Shield which requires them to provide similar protection to personal data shared between Europe and the US.
+  * The transfer is made subject to binding corporate rules.
+  * The transfer is based on a derogation from restrictions on transferring personal data outside of the EEA (such as where you give your consent, the transfer is necessary for the performance of contract with you, or the transfer is necessary for the establishment, exercise or defence of legal claims).
+
+
+
+#### Control over your information
+
+Under the General Data Protection Regulation, you have several important rights available to you. In summary, those include rights to:
+
+  * Be informed about how your personal information is being used (hopefully this privacy notice explains it all)
+  * Access the personal information we hold about you
+  * Request that we transfer elements of your data to another service provider
+  * Request us to correct any mistakes in your information which we hold
+  * Request the erasure of personal information concerning you in certain situations
+  * Receive the personal information concerning you which you have provided to us, in a structured format or to ask us to transfer that information to another service provider
+  * Stop any direct marketing
+  * Object to processing of your personal data
+  * You can ask us to restrict or suspend processing of your personal data under certain circumstances, for example if you want us to restrict processing while the accuracy of personal data is being established
+  * Right not to be subjected to automated decision-making that significantly affects you, however, we will only use automated decision making in limited circumstances
+  * Right to withdraw your consent, where processing of your personal data is based on consent, you can remove it at any time
+
+
+
+For further information on each of these rights, including the circumstances in which they apply, see the [Guidance from the UK Information Commissioner’s Office (ICO) on individuals rights under the General Data Protection Regulation](https://ico.org.uk/for-organisations/guide-to-the-general-data-protection-regulation-gdpr/individual-rights/).
+
+If you would like to exercise any of these rights, please:
+
+  * email, call or write to us at Privacy, Box No. 87, C. & J. Clark International Limited, 40 High Street, Street, Somerset, BA16 0EQ or email [Privacy@Clarks.com](mailto:Privacy@Clarks.com), phone 01458 899 904
+  * let us have enough information to identify you; 
+  * let us know the information to which your request relates
+
+
+
+We try to respond to all legitimate requests within one month. Occasionally it may take us longer than a month if your request is particularly complex or you have made many requests. In this case, we will notify you and keep you updated.
+
+#### Keeping your personal information secure
+
+We have appropriate security measures in place to prevent personal information from being accidentally lost, or used or accessed in an unauthorised way. We limit access to your personal information to those who have a genuine business need to know it. Those processing your information will do so only in an authorised manner and are subject to a duty of confidentiality.
+
+We also have procedures in place to deal with any suspected data security breach. We will notify you and any applicable regulator of a suspected data security breach where we are legally required to do so.
+
+If you want detailed information from Get Safe Online on how to protect your information and your computers and devices against fraud, identity theft, viruses and many other online problems, please visit [www.getsafeonline.org](https://www.getsafeonline.org/). Get Safe Online is supported by HM Government and leading businesses.
+
+#### How to complain
+
+We hope that we can resolve any query or concern you raise about our use of your information. If you are not happy with how Clarks manages your personal data, you have the right to lodge a complaint with a supervisory authority. The supervisory authority in the UK is the Information Commissioner who may be contacted at <https://ico.org.uk/concerns/>.
+
+#### Changes to this privacy notice
+
+This privacy notice was published on 01/05/2018 and last updated on 28/01/2019.
+
+Any changes we make to this notice will be posted on this page. 
+
+#### How to contact us
+
+If you wish to contact us please send an email to [privacy@clarks.com](mailto:privacy@clarks.com) write to Privacy, PO Box 87, 40 High Street, Street, Somerset, BA16 0EQ. or call 01458 899 904.
