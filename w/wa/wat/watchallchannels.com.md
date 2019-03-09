@@ -1,6 +1,9 @@
-> *The following text is extracted and transformed from the watchallchannels.com privacy policy that was archived on 2018-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181222231442id_/https%3A//www.watchallchannels.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the watchallchannels.com privacy policy that was archived on 2019-03-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190309183315id_/https%3A//www.watchallchannels.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy & Policy - Live TV Online
+
+  
+
 
 ### In short, the following text will explain simply what information our website collects and what we do with it.
 
