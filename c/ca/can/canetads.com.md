@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the canetads.com privacy policy that was archived on 2018-10-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181016091802id_/http%3A//www.canetads.com/info/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the canetads.com privacy policy that was archived on 2019-03-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190309014132id_/http%3A//www.canetads.com/info/privacy.php) for the most accurate reproduction.*
 
 # CANetAds.com - Privacy Policy
 
