@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wearychef.com privacy policy that was archived on 2018-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181222131525id_/https%3A//wearychef.com/disclosures-and-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wearychef.com privacy policy that was archived on 2019-03-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190309093202id_/https%3A//wearychef.com/disclosures-and-privacy-policy) for the most accurate reproduction.*
 
 # Disclosures and Privacy Policy - The Weary Chef
 
