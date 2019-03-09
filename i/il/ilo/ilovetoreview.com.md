@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ilovetoreview.com privacy policy that was archived on 2017-03-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170303113730id_/https%3A//www.ilovetoreview.com/privacy-policy-2) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ilovetoreview.com privacy policy that was archived on 2019-03-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190309083732id_/https%3A//www.ilovetoreview.com/privacy-policy-2) for the most accurate reproduction.*
 
 # Privacy policy - iLoveToReview
 
