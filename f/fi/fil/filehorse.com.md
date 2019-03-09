@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the filehorse.com privacy policy that was archived on 2018-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181201221834id_/https%3A//www.filehorse.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the filehorse.com privacy policy that was archived on 2019-03-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190309080217id_/https%3A//www.filehorse.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy / FileHorse.com
 
