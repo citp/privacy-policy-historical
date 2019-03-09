@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the unmelted.com privacy policy that was archived on 2016-11-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161104052621id_/http%3A//unmelted.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the unmelted.com privacy policy that was archived on 2019-03-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190309105547id_/https%3A//www.unmelted.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Unmelted
 
@@ -36,7 +36,7 @@ We do not disclose any personal information obtained about you from this website
 
 ### CHOICE/OPT-OUT
 
-By default, members and/or customers do receive any system updates, such as the newsletters, invoices, and mailings. Any customer who receives these updates may unsubscribe at any time. Customers may not opt out of possibly receiving important system notifications, in the rare event that such notification would be necessary. Our site provides the opportunity to opt-out of receiving communications from us and our partners. Users can also [contact us](http://unmelted.com/contact) to not receive future communications or to no longer receive our service.
+By default, members and/or customers do receive any system updates, such as the newsletters, invoices, and mailings. Any customer who receives these updates may unsubscribe at any time. Customers may not opt out of possibly receiving important system notifications, in the rare event that such notification would be necessary. Our site provides the opportunity to opt-out of receiving communications from us and our partners. Users can also [contact us](https://www.unmelted.com/contact) to not receive future communications or to no longer receive our service.
 
 ### SECURITY
 
@@ -54,4 +54,4 @@ Any changes to our Privacy Policy will be placed here and will supersede this ve
 
 ### CONTACT INFORMATION
 
-If you have any questions or problems using our service, please [contact us](http://unmelted.com/contact). 
+If you have any questions or problems using our service, please [contact us](https://www.unmelted.com/contact). 
