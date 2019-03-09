@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jungroup.com privacy policy that was archived on 2018-11-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181117021222id_/https%3A//jungroup.com/pp.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jungroup.com privacy policy that was archived on 2019-03-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190309061002id_/https%3A//jungroup.com/pp.html) for the most accurate reproduction.*
 
 # Privacy Policy - Jun Group
 
