@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the msofficeforums.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606042253id_/http%3A//www.msofficeforums.com/faq.php%3Ffaq%3Dvb3_board_faq%23faq_privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the msofficeforums.com privacy policy that was archived on 2019-03-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190309013349id_/http%3A//www.msofficeforums.com/faq.php%3Ffaq%3Dvb3_board_faq%23faq_privacy_policy) for the most accurate reproduction.*
 
 # Microsoft Office Forums - FAQ: Board FAQ
 
