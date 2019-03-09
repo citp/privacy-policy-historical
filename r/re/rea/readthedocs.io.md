@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the readthedocs.io privacy policy that was archived on 2018-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181229134351id_/https%3A//docs.readthedocs.io/en/latest/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the readthedocs.io privacy policy that was archived on 2019-03-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190309073804id_/https%3A//docs.readthedocs.io/en/latest/privacy-policy.html) for the most accurate reproduction.*
 
-# Privacy Policy — Read the Docs 2.7 documentation
+# Privacy Policy — Read the Docs 3.3.1 documentation
 
-__[Read the Docs](https://web.archive.org/web/20181229134351id_/https%3A//docs.readthedocs.io/en/latest/index.html)
+__[Read the Docs](https://web.archive.org/web/20190309073804id_/https%3A//docs.readthedocs.io/en/latest/index.html)
 
 Effective date: **May 30, 2018**
 
