@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the webriti.com privacy policy that was archived on 2017-03-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170320195216id_/http%3A//webriti.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the webriti.com privacy policy that was archived on 2019-03-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190309190628id_/https%3A//webriti.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - WebRiti
 
