@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the purewow.com privacy policy that was archived on 2018-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180905101546id_/https%3A//purewow-prodstatics3azcdn.azureedge.net/sales/PureWow_Privacy_Policy_libreoffice.pdf) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the purewow.com privacy policy that was archived on 2019-03-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190309220357id_/https%3A//d3d127vhjgkwcw.cloudfront.net/sales/PureWow_Privacy_Policy_libreoffice.pdf) for the most accurate reproduction.*
 
 # PRIVACY POLICYThis policy was last modified on June 7, 2018.
 
