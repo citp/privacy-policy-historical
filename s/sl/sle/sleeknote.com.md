@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sleeknote.com privacy policy that was archived on 2018-01-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180103071452id_/https%3A//sleeknote.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sleeknote.com privacy policy that was archived on 2019-03-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190309015612id_/https%3A//sleeknote.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Sleeknote
 
@@ -12,8 +12,10 @@ Any and all communication with the visitor is a matter between you and your cust
 
 Considering the setup of the Service, you guarantee towards Sleeknote that:
 
-– You have obtained any necessary consent in order to transfer the information about your customer from You to Sleeknote, and  
-– You have obtained consent from each of your customers to the data applications, processes and/or registrations made by Sleeknote.
+  * You have obtained any necessary consent in order to transfer the information about your customer from You to Sleeknote, and
+  * You have obtained consent from each of your customers to the data applications, processes and/or registrations made by Sleeknote.
+
+
 
 Sleeknote is only processing and storing data about your customers by your orders. You are the controller of the information while Sleeknote is the processor.
 
@@ -21,11 +23,11 @@ Sleeknote will ensure to comply with all regulations obligated by law as they ma
 
 Information we gather from you about you and/or your customers:
 
-1\. Because the Service houses your website statistics on our servers, you must register for a Sleeknote account. The registration process asks for a username, password, email address and some personally identifiable information including name, address and contact details.
+  1. Because the Service houses your website statistics on our servers, you must register for a Sleeknote account. The registration process asks for a username, password, email address and some personally identifiable information including name, address and contact details.
+  2. When you log into the Service, our servers automatically record information that your browser sends whenever you visit a website. These server logs may include information such as your web request, Internet Protocol address, browser type, browser language, the date and time of your request and one or more cookies that may uniquely identify your browser.
+  3. When you send email or other communication to Sleeknote, we may retain those communications in order to process your inquiries, respond to your requests and improve our services.
 
-2\. When you log into the Service, our servers automatically record information that your browser sends whenever you visit a website. These server logs may include information such as your web request, Internet Protocol address, browser type, browser language, the date and time of your request and one or more cookies that may uniquely identify your browser.
 
-3\. When you send email or other communication to Sleeknote, we may retain those communications in order to process your inquiries, respond to your requests and improve our services.
 
 By the nature of our service, Sleeknote will gather non-personally identifiable statistics about the usage of your website and store that information. Sleeknote will not share your website statistics without your consent.
 
@@ -42,4 +44,4 @@ This Privacy Policy applies to websites and services that are owned and operated
 
 Sleeknote may change its Privacy Policy from time to time and at Sleeknote’s sole discretion. However, your rights will not be reduced without your explicit consent.
 
-Last update: 03-05-2016 (DD-MM-YYY)
+Last update: 26-02-2018 (DD-MM-YYY)
