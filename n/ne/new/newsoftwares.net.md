@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the newsoftwares.net privacy policy that was archived on 2018-07-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180731152437id_/http%3A//www.newsoftwares.net/legal/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the newsoftwares.net privacy policy that was archived on 2019-03-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190309082831id_/https%3A//www.newsoftwares.net/legal/privacy) for the most accurate reproduction.*
 
 # Privacy Policy NewSoftwares.net
 
@@ -40,7 +40,7 @@ We aim to provide you an excellent experience with our service. For additional d
 
  **Website Cookies and Logs**
 
-When you visit [www.newsoftwares.net](http://www.newsoftwares.net/) and other [NewSoftwares.net](http://www.newsoftwares.net/) websites, our servers automatically collect certain information such as your IP address, browser type, page requested, cookies, etc. This information is used to provide a custom experience, keep your session active, or improve the service.
+When you visit [www.newsoftwares.net](https://www.newsoftwares.net/) and other [NewSoftwares.net](https://www.newsoftwares.net/) websites, our servers automatically collect certain information such as your IP address, browser type, page requested, cookies, etc. This information is used to provide a custom experience, keep your session active, or improve the service.
 
  **Information You Provide**
 
@@ -48,7 +48,7 @@ You may provide information such as your name, email address, or other requested
 
  **Backup Service**
 
-By using the online backup service, the system automatically encrypts and transfers your files to secure cloud where data sits in encrypted form. Only certain information will be available to[ NewSoftwares.net](http://www.newsoftwares.net/) such as type of operating system, file types, or sizes to enable NewSoftwares.net to provide the service or help support you.
+By using the online backup service, the system automatically encrypts and transfers your files to secure cloud where data sits in encrypted form. Only certain information will be available to[ NewSoftwares.net](https://www.newsoftwares.net/) such as type of operating system, file types, or sizes to enable NewSoftwares.net to provide the service or help support you.
 
 NewSoftwares.net will never look at your actual files. NewSoftwares.net does not intentionally gather information about visitors under the age of 13.
 
@@ -76,7 +76,7 @@ From time to time, NewSoftwares.net will communicate with you via email to infor
 
  **Updating or Removing Information**
 
-Users may update or remove their information by signing in to [www.newsoftwares.net ](http://www.newsoftwares.net/)or contacting [NewSoftwares.net](http://www.newsoftwares.net/contact) Support to remove your information, please visit your account and click “Cancel Account.” If you cancel your account, some of your data may still be retained in our archives or backups.
+Users may update or remove their information by signing in to [www.newsoftwares.net ](https://www.newsoftwares.net/)or contacting [NewSoftwares.net](https://www.newsoftwares.net/contact) Support to remove your information, please visit your account and click “Cancel Account.” If you cancel your account, some of your data may still be retained in our archives or backups.
 
  **Privacy Policy Changes**
 
@@ -92,4 +92,4 @@ NewSoftwares.net is committed to protecting your privacy. If you have a privacy 
 
  **Contacting NewSoftwares.net**
 
-To view the latest version of this Privacy Policy and for any questions, comments, suggestions, or concerns, please [contact us.](http://www.newsoftwares.net/contact)
+To view the latest version of this Privacy Policy and for any questions, comments, suggestions, or concerns, please [contact us.](https://www.newsoftwares.net/contact)
