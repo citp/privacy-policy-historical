@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the oxfordstreet.co.uk privacy policy that was archived on 2018-10-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181025235523id_/https%3A//www.oxfordstreet.co.uk/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the oxfordstreet.co.uk privacy policy that was archived on 2019-03-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190309050159id_/https%3A//www.oxfordstreet.co.uk/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Oxford Street
 
@@ -76,7 +76,7 @@ Direct interactions. You may give us your Identity, Contact and Marketing and Co
 
 
 
-Automated technologies or interactions. As you interact with our website, we may automatically collect Technical Data about your equipment, browsing actions and patterns. We collect this personal data by using cookies, pixels, server logs and other similar technologies. Please see our **Cookie Policy** for further details.
+Automated technologies or interactions. As you interact with our website, we may automatically collect Technical Data about your equipment, browsing actions and patterns. We collect this personal data by using cookies, pixels, server logs and other similar technologies. Please see our [**Cookie Policy**](https://www.oxfordstreet.co.uk/cookie-policy/) for further details.
 
 Third parties or publicly available sources. We may receive personal data about you from various third parties as set out below.
 
@@ -197,8 +197,9 @@ If we need to use your personal data for an unrelated purpose, we will notify yo
 
 Please note that we may process your personal data without your knowledge or consent, in compliance with the above rules, where this is required or permitted by law.
 
-* **4\. DISCLOSURES OF YOUR PERSONAL DATA**
- ****
+  * **4\. DISCLOSURES OF YOUR PERSONAL DATA**
+
+
 
 We may have to share your personal data with the parties set out below for the purposes set out in the table in the paragraph above.
 
@@ -224,19 +225,25 @@ Where we use providers based in the US, we may transfer data to them if they are
 
 Please contact [info@newwestend.com](mailto:info@newwestend.com) if you want further information on the specific mechanism used by us when transferring your personal data out of the EEA.
 
-* **6.DATA SECURITY**
+  * **6.DATA SECURITY**
+
+
 
 We have put in place appropriate security measures to prevent your personal data from being accidentally lost, used or accessed in an unauthorised way, altered or disclosed. In addition, we limit access to your personal data to those employees, agents, contractors and other third parties who have a business need to know. They will only process your personal data on our instructions and they are subject to a duty of confidentiality.
 
 We have put in place procedures to deal with any suspected personal data breach and will notify you and any applicable regulator of a breach where we are legally required to do so.
 
-* **7\. DATA RETENTION**
+  * **7\. DATA RETENTION**
+
+
 
 We will only retain your personal data for as long as necessary to fulfil the purposes we collected it for, including for the purposes of satisfying any legal, accounting, or reporting requirements.
 
 To determine the appropriate retention period for personal data, we consider the amount, nature, and sensitivity of the personal data, the potential risk of harm from unauthorised use or disclosure of your personal data, the purposes for which we process your personal data and whether we can achieve those purposes through other means, and the applicable legal requirements.
 
-* **8.IMPORTANT INFORMATION AND WHO WE ARE**
+  * **8.IMPORTANT INFORMATION AND WHO WE ARE**
+
+
 
 This privacy notice aims to give you information on how NWEC collects and processes your personal data through your use of this website, including any data you may provide when you sign up to our newsletter or take part in a prize draw.
 
@@ -262,7 +269,9 @@ Postal address: Heddon House, 149-151 Regent Street, London W1B 4 JD
 
 You have the right to make a complaint at any time to the Information Commissioner’s Office (ICO), the UK supervisory authority for data protection issues (www.ico.org.uk). We would, however, appreciate the chance to deal with your concerns before you approach the ICO so please contact us in the first instance.
 
-* **9\. YOUR LEGAL RIGHTS**
+  * **9\. YOUR LEGAL RIGHTS**
+
+
 
 Under certain circumstances, you have rights under data protection laws in relation to your personal data. You have the right to:
 
