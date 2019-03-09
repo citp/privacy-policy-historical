@@ -1,14 +1,14 @@
-> *The following text is extracted and transformed from the jobseeq.com privacy policy that was archived on 2018-04-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180413025409id_/http%3A//jobseeq.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jobseeq.com privacy policy that was archived on 2019-03-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190309231930id_/https%3A//jobseeq.com/privacy) for the most accurate reproduction.*
 
 # JobSeeq | Privacy Policy
 
-Updated July 7, 2014
+Updated November 10, 2018
 
 Welcome to JobSeeq.com ("JobSeeq"). We respect the privacy of our users who access and/or use JobSeeq and are committed to protecting the personally identifiable information we collect about you.
 
 By using the JobSeeq website, or submitting your information to us by any other means, you are subjecting your information to the practices outlined in this Privacy Policy.
 
-If you have any questions or concerns, please contact JobSeeq at 3857 Birch Street, Suite #210, Newport Beach, CA 92660 or via our contact form located [here](https://web.archive.org/contact).
+If you have any questions or concerns, please contact JobSeeq at 1171 E Alosta Ave #10008, Azusa, CA 91702 or via our contact form located [here](https://web.archive.org/contact).
 
 ## What This Policy Covers
 
@@ -44,7 +44,7 @@ For the purpose of identifying users and delivering relevant content and adverti
 
 JobSeeq respects your email preferences and will never provide your email address to a third party without your permission, except as may be prescribed elsewhere in this Privacy Policy. If you provide us your email address, JobSeeq may email you job alerts, account notifications, news, offers, surveys, promotions, and other communications. Your contact information is also used to contact you when necessary. JobSeeq may use demographic and/or profile data, including but not limited to search history, to tailor your experience on JobSeeq's site, show you content that JobSeeq thinks you may be interested in, and display content according to your preferences. JobSeeq, or companies we partner with, may contact you based on your interests such as job postings and career development opportunities. 
 
-If you do not want to receive particular types of email messages from JobSeeq, follow the unsubscribe instructions contained in the email message to notify us of your preferences, or [click here](https://web.archive.org/unsubscribe).
+If you do not want to receive particular types of email messages from JobSeeq, follow the unsubscribe instructions contained in the email message to notify us of your preferences, or click here.
 
 ## Administer Site
 
@@ -64,7 +64,7 @@ Never provide your social security number, credit card information, bank account
 
 ## Cookies
 
-"Cookies" are small pieces of information that are stored by your browser on your computers hard drive. JobSeeq may use cookies to keep track of your session and advertising delivery. JobSeeq or our partners may also use cookies to deliver content specific to your interests and to save a password associated with a user profile. We use third-party advertising companies to serve ads when you visit our site. These companies may use third-party cookies to record information (excluding your name, address, email address, or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you on others websites. You can learn more [here](http://www.google.com/policies/technologies/ads/). You can opt-out of this type of advertising [here](https://web.archive.org/unsubscribe).
+"Cookies" are small pieces of information that are stored by your browser on your computer's hard drive. Jobseeq may use cookies to keep track of your session and advertising delivery. Jobseeq or our partners may also use cookies to deliver content specific to your interests and to save a password associated with a user profile. We use third-party advertising companies to serve ads when you visit our site. These companies may use third-party cookies to record information (excluding your name, address, email address, or telephone number) about your visits to this and other websites and directly in emails/communications in order to provide advertisements about goods and services of interest to you on others websites. Our partners may also link the nonpersonal information we share with them to the cookie stored on your browser or device, and they may collect information such as your IP address, hashed version of your email address, browser or operating system type and version, and demographic or inferred-interest information. You can learn more [here](http://www.google.com/policies/technologies/ads/). You can opt-out of this type of advertising [here](http://optout.aboutads.info/).
 
 ## Links to Third Party Sites
 
