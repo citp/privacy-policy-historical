@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the 360converter.com privacy policy that was archived on 2018-06-01.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20180601081342id_/http%3A//www.360converter.com/home/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the 360converter.com privacy policy that was archived on 2019-03-09.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20190309105039id_/https%3A//www.360converter.com/home/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html xml:lang="en" lang="en"><head>
     <!-- google adsense -->
@@ -44,12 +44,31 @@
     
 	<meta name="keywords" content="Privacy Policy">
 <meta name="description" content="Privacy Policy Applied on 360converter.com">
-<link rel="stylesheet" type="text/css" href="/css/misc.min.css?v=20180424-12:58">
+<link rel="stylesheet" type="text/css" href="/css/misc.min.css?v=20181226-17:26">
 <title>Privacy Policy</title>
-	<link rel="stylesheet" type="text/css" href="/css/main.min.css?v=20180424-12:58">
-        <link rel="stylesheet" type="text/css" href="/css/form.min.css?v=20180424-12:58">
+	<link rel="stylesheet" type="text/css" href="/css/main.min.css?v=20181226-17:26">
+        <link rel="stylesheet" type="text/css" href="/css/form.min.css?v=20181226-17:26">
     <link id="favicon" href="/images/favicon.ico" rel="icon" type="image/x-icon">
 
+
+    <!-- Google reCaptcha --> 
+            <script src="https://www.google.com/recaptcha/api.js?render=6LfVw3sUAAAAAJXW5gdOgWyJqL1M7r4MGICXfwQ2"></script>
+        <script>
+        $( document ).ready(function() {
+                  grecaptcha.ready(function() {
+                      grecaptcha.execute('6LfVw3sUAAAAAJXW5gdOgWyJqL1M7r4MGICXfwQ2', {action: '/home/recaptchaverify'}).then(function(token) {
+                            if( $('#google_recaptcha').length)
+                            {
+                                    $('#google_recaptcha').val(token);
+                            } 
+                            if( $('#google_recaptcha1').length)
+                            {
+                                    $('#google_recaptcha1').val(token);
+                            } 
+                      });
+                  });
+            });
+    </script>
 
     <!-- for sociation share website, like facebook -->
     <meta property="og:title" content="Privacy Policy">
@@ -59,37 +78,41 @@
     <meta property="og:site_name" content="360converter.com">
 <style>
 html{
-        height:100%;
-    }
-    body{
-            height:100%;
-    }
+    height:100%;
+}
+
+body{
+    height:100%;
+}
+
 .content{
-width: 100%;
-height: 100%;
-display: table;
+    width: 100%;
+    height: 100%;
+    display: table;
 }
 
 .content .row {
-display: table-row;
+    display: table-row;
 }
 
 .content .cell {
-display: table-cell;
+    display: table-cell;
 }
 
 .top .cell {
-vertical-align: top;
+    vertical-align: top;
 }
 
 .mid .cell {
-vertical-align: middle;
+    vertical-align: middle;
 }
 
 .base .cell {
-vertical-align: bottom;
+    vertical-align: bottom;
 }
 </style>
+
+
 
 </head>
 
@@ -141,7 +164,7 @@ vertical-align: bottom;
     </div> <!-- row top -->
     <div class="row mid">
     <div class="cell">
-    <div class="container" id="page_staticbg">
+        <div class="container" id="page_staticbg">
         <div class="left-div">
             <div id="content">
 	
@@ -243,9 +266,9 @@ vertical-align: bottom;
                         <a class="qlink-a" href="/conversion/youtubeConversion">Online Convert Youtube</a>
                         <a class="qlink-a" href="/conversion/text2speechConversion">Online Text to Speech</a>
                         <a class="qlink-a" href="/conversion/youtubeVideo2TextConversion">Youtube Video to Text</a>
-                        <a class="qlink-a" href="/conversion/video2TextConversion">Video to Text</a>
-                        <a class="qlink-a" href="/conversion/video2TextConversion">Audio to Text</a>
-                        <a class="qlink-a" href="/conversion/video2TextConversion">Speech to Text</a><br>
+                        <a class="qlink-a" href="/conversion/video2TextConversion?type=v2t">Video to Text</a>
+                        <a class="qlink-a" href="/conversion/video2TextConversion?type=a2t">Audio to Text</a>
+                        <a class="qlink-a" href="/conversion/video2TextConversion?type=s2t">Speech to Text</a><br>
                     </div>
                 </div>
             </div> <!-- divright -->
@@ -271,7 +294,7 @@ vertical-align: bottom;
             <a target="_blank" href="http://chulian.foxavideo.com">Find Your First Love</a>
         </div>
         <div id="footer">
-        Copyright © 2018 FoxAVideo Tech. | <a href="/home/terms">Terms of Service</a>
+        Copyright © 2019 FoxAVideo Tech. | <a href="/home/terms">Terms of Service</a>
             | <a href="/home/privacy">Privacy Policy</a>
         </div><!-- footer -->
     </div>
