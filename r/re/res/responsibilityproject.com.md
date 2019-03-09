@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the responsibilityproject.com privacy policy that was archived on 2018-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181222080722id_/https%3A//www.libertymutualgroup.com/about-lm/our-company/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the responsibilityproject.com privacy policy that was archived on 2019-03-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190309043054id_/https%3A//www.libertymutualgroup.com/about-lm/our-company/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
