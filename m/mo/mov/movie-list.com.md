@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the movie-list.com privacy policy that was archived on 2018-01-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180122154314id_/https%3A//www.movie-list.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the movie-list.com privacy policy that was archived on 2019-03-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190309174353id_/https%3A//www.movie-list.com/privacy.php) for the most accurate reproduction.*
 
 # Privacy Statement | Movie-List.com
 
-This Privacy Policy governs the manner in which Movie-List collects, uses, maintains and discloses information collected from users (each, a "User") of the [movie-list.com](https://web.archive.org/web/20180122154314id_/https%3A//www.movie-list.com/movie-list.com) website ("Site"). This privacy policy applies to the Site and all products and services offered by Movie-List.
+This Privacy Policy governs the manner in which Movie-List collects, uses, maintains and discloses information collected from users (each, a "User") of the [movie-list.com](https://web.archive.org/web/20190309174353id_/https%3A//www.movie-list.com/movie-list.com) website ("Site"). This privacy policy applies to the Site and all products and services offered by Movie-List.
 
 **Personal identification information**
 
@@ -69,6 +69,6 @@ If you have any questions about this Privacy Policy, the practices of this site,
 [Movie-List](http://movie-list.com/)  
 419 Sandhamn Pvt. Ottawa, ON K1T 2Z3 Canada  
 613-371-9889  
-[[email protected]](https://web.archive.org/cdn-cgi/l/email-protection)
+feedback@movie-list.com
 
 This document was last updated on January 15, 2013
