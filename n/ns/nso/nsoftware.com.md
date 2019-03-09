@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nsoftware.com privacy policy that was archived on 2018-10-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181015200504id_/https%3A//www.nsoftware.com/company/legal/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nsoftware.com privacy policy that was archived on 2019-03-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190309145955id_/https%3A//www.nsoftware.com/company/legal/privacy.aspx) for the most accurate reproduction.*
 
 # - Privacy Policy
 
