@@ -1,85 +1,128 @@
-> *The following text is extracted and transformed from the boldleads.com privacy policy that was archived on 2017-07-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170717042426id_/http%3A//boldleads.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the boldleads.com privacy policy that was archived on 2019-03-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190309224247id_/https%3A//boldleads.com/privacy-policy) for the most accurate reproduction.*
 
-# BoldLeads™ | Real Estate Seller Leads | Seller Leads | Real Estate Listing Leads | Real Estate Lead Generation
+# Privacy Policy | BoldLeads
 
-### Our Policy
+BoldLeads.com, Inc. Privacy Statement 
 
-Welcome to the web site (the “ **Site** “) of AgentPoster LLC, Inc. (“AgentPoster LLC”, “we”, “us” and/or “our”). This Site is operated by AgentPoster LLC and has been created to provide information about our AgentPoster LLC and our services (together with the Site, the “ **Services** “) to our Service visitors (“you”, “your”). This Privacy Policy sets forth AgentPoster LLC’s policy with respect to information including personally identifiable data (“ **Personal Data** “) and other information that is collected from visitors to the Site and Services.
+Last Updated: November 6, 2017 
 
-### Information We Collect
+At BoldLeads.com, Inc. (“BoldLeads”), we pride ourselves on our commitment to protecting your privacy. This Privacy Statement (“Statement”) describes in greater detail the privacy practices of BoldLeads and its affiliates and subsidiaries, meaning companies related by common ownership or control (“us,” “we,” “our”) responsible for collecting and maintaining certain information about you. 
 
-When you interact with us through the Services, we may collect Personal Data and other information from you, as further described below:
+If you have questions or complaints regarding our Privacy Statement or practices, please contact us as detailed under the How to Contact Us heading below. 
 
-#### Personal Data That You Provide Through the Services
+## 1\. WHEN THIS PRIVACY STATEMENT APPLIES. If a Service you’re using links to this Privacy Statement, this Statement applies to you. 
 
-We collect Personal Data from you when you voluntarily provide such information, such as when you contact us with inquiries, respond to one of our surveys, register for access to the Services or use certain Services. Wherever AgentPoster LLC collects Personal Data we make an effort to provide a link to this Privacy Policy.
+This Privacy Statement applies to our sites, products, and services (collectively, “Services“) that link to this Statement. BoldLeads is the responsible entity for all Personal Information subject to this Statement.
 
-**By voluntarily providing us with Personal Data, you are consenting to our use of it in accordance with this Privacy Policy. If you provide Personal Data to the Services, you acknowledge and agree that such Personal Data may be transferred from your current location to the offices and servers of AgentPoster LLC and the authorized third parties referred to herein located in the United States.**
+##  2\. WHAT WE DO WITH YOUR INFORMATION. We want to be clear about what information we collect and how we use it to deliver our Services to you, improve your financial life, operate our business, and help make our Services useful, more intelligent, and work better for you. Except as detailed below, we do not sell or share your Personal Information with third parties for their own commercial uses without your consent. 
 
-#### Other Information
+a) Types of Information We Collect. In connection with accessing our Services, we may collect information from you that can be used to identify you (“Personal Information“), such as your name, shipping/billing address, email address, phone number, username, and password. 
 
-##### Non-Identifiable Data
+We collect information when you register or open an account, sign in, pay a bill, purchase a Service, call us for support, agree to take part in a beta testing, ask to be placed on our waitlist, respond to one of our ads, or give us feedback. We may also get information from other companies or third parties, or when we may use service providers to supplement the Personal Information you give us to help us maintain the accuracy of your data and provide you with better service. Finally, we also collect content or other information that you may provide or create when you interact with our Services. 
 
-When you interact with AgentPoster LLC through the Services, we receive and store certain personally non-identifiable information. Such information, which is collected passively using various technologies, cannot presently be used to specifically identify you. AgentPoster LLC may store such information itself or such information may be included in databases owned and maintained by AgentPoster LLC affiliates, agents or service providers. The Services may use such information and pool it with other information to track, for example, the total number of visitors to our Site, the number of visitors to each page of our Site, and the domain names of our visitors’ Internet service providers. It is important to note that no Personal Data is available or used in this process.
+We may also automatically collect certain usage information when you access our Services (“Usage Data“), such as Internet Protocol (“IP”) addresses, log files, unique device identifiers, pages viewed, browser type, any links you click on to leave or interact with our Services, and other usage information obtained from cookies and other tracking technologies. For example, we collect IP addresses to track and aggregate non-personal information, such as using IP addresses to monitor the regions from which users navigate to our Services. We also collect IP addresses from users when they log into the Services as part of our log-in and security features. We may also, when you enable location services, collect Global Positioning System (“GPS”) location data and/or motion data. 
 
-In operating the Services, we may use a technology called “cookies.” A cookie is a piece of information that the computer that hosts our Services gives to your browser when you access the Services. Our cookies help provide additional functionality to the Services and help us analyze Services usage more accurately. For instance, our Services may set a cookie on your browser that allows you to access the Services without needing to remember and then enter a password more than once during a visit to the Services. In all cases in which we use cookies, we will not collect Personal Data except with your permission. On most web browsers, you will find a “help” section on the toolbar. Please refer to this section for information on how to receive notification when you are receiving a new cookie and how to turn cookies off. We recommend that you leave cookies turned on because they allow you to take advantage of some of the Service features.
+Our Services may change over time and we may introduce new features that may collect new or different types of information. 
 
-##### Aggregated Personal Data
+b) How We Use Your Information. We may use your information, including your Personal Information, for the following purposes: 
 
-In an ongoing effort to better understand and serve the users of the Services, AgentPoster LLC often conducts research on its customer demographics, interests and behavior based on the Personal Data and other information provided to us. This research may be compiled and analyzed on an aggregate basis, and AgentPoster LLC may share this aggregate data with its affiliates, agents and business partners. This aggregate information does not identify you personally. AgentPoster LLC may also disclose aggregated user statistics in order to describe our services to current and prospective business partners, and to other third parties for other lawful purposes.
+Account Registration. We may use your name, address, phone number, and email address to register your BoldLeads Account for certain Services we provide and to communicate important information to you. We may obtain additional Personal Information about you, such as address change information, from commercially available sources, to keep our records current. 
 
-### Our Use of Your Personal Data and Other Information
+Communicate with You and Tell You About Other Services. We may use your information to communicate with you about our Services and to give you offers for third party products and services that we think may be of use to you. Please see below under “What You Can Do to Manage Your Privacy” for the choices you have regarding these communications. 
 
-AgentPoster LLC uses the Personal Data you provide in a manner that is consistent with this Privacy Policy. If you provide Personal Data for a certain reason, we may use the Personal Data in connection with the reason for which it was provided. For instance, if you contact us by email, we will use the Personal Data you provide to answer your question or resolve your problem. Also, if you provide Personal Data in order to obtain access to the Services, we will use your Personal Data to provide you with access to such services and to monitor your use of such services. AgentPoster LLC and its subsidiaries and affiliates (the “AgentPoster LLC Related Companies”) may also use your Personal Data and other personally non-identifiable information collected through the Services to help us improve the content and functionality of the Services, to better understand our users and to improve the Services. AgentPoster LLC and its affiliates may use this information to contact you in the future to tell you about services we believe will be of interest to you. If we do so, each marketing communication we send you will contain instructions permitting you to “opt-out” of receiving future marketing communications. In addition, if at any time you wish not to receive any future marketing communications or you wish to have your name deleted from our mailing lists, please contact us as indicated below.
+To Improve Services and Develop New Services. We will use your information to personalize or customize your experience and the Service, develop new features or services, and to improve the overall quality of BoldLeads’ Services. 
 
-If AgentPoster LLC intends on using any Personal Data in any manner that is not consistent with this Privacy Policy, you will be informed of such anticipated use prior to or at the time at which the Personal Data is collected.
+To Provide Our Services and Operate Our Business. We may use your information to operate our business, including providing Services you requested, provide you with support related to our Services, and to help us protect our Services, including to combat fraud and protect your information. 
 
-### Our Disclosure of Your Personal Data and Other Information
+Customer Service and Technical Support. We may use your name, address, phone number, email address, how you interact with our Services, and information about your computer configuration to resolve questions you may have about our Services and to follow up with you about your experience. We also offer various Internet chat services, for example, to speak with a BoldLeads support representative. Internet Chat transmissions are not encrypted so you should not supply more Personal Information that is required to address your specific issue. A transcript of the session may be retained to resolve questions or issues related to our Services. 
 
-AgentPoster LLC is not in the business of selling your information. We consider this information to be a vital part of our relationship with you. There are, however, certain circumstances in which we may share your Personal Data with certain third parties without further notice to you, as set forth below:
+Feedback. We may use any information you volunteer in surveys you answer for us and combine them with answers from other customers in order to better understand our Services and how we may improve them. Answering any survey is optional. 
 
-#### Business Transfers
+Research, Including Publishing or Sharing Combined Information from Many Users, But Only in a Way that Would Not Allow You or Any Other Person to be Identified. Only in a way that would not allow you or any other person to be identified, we may prepare and share information about our customers with third parties, such as advertisers or partners, for research, academic, marketing and/or promotional purposes. For example, we may share demographic data that describes the percentage of our customers who use mobile services or who use a particular operating system. We or our third-party partners may publicly report the aggregated findings of the research or analysis, but only in a way that would not allow you to be identified. 
 
-As we develop our business, we might sell or buy businesses or assets. In the event of a corporate sale, merger, reorganization, dissolution or similar event, Personal Data may be part of the transferred assets.
+c) BoldLeads Account. BoldLeads Account is a Service that allows you to sign-in to a variety of BoldLeads Services with a single BoldLeads Account. We will collect certain information for security purposes in order to verify your authorized access to an account or to reset your password if you cannot access your BoldLeads Account. Some Services may require added security and you may be asked to provide additional information. The email address and password that you use to enroll your BoldLeads account are your “login credentials” that you will use to authenticate with our network. We assign a unique identification number to your credentials to track you and your associated information. BoldLeads does not allow sharing of BoldLeads Accounts between users or individuals, without your consent. 
 
-#### Related Companies
+d) How We Share Your Personal Information. From time to time, we may share your Personal Information with others. 
 
-We may also share your Personal Data with our Related Companies for purposes consistent with this Privacy Policy.
+Third Party Service Providers. We may share your information, including Personal Information and Usage Data, with third party service providers who perform various functions to enable us to provide our Services and help us operate our business, such as website design, sending email communications, fraud detection, and prevention, customer care, or performing analytics. 
 
-#### Agents, Consultants and Related Third Parties
+Licensees. BoldLeads licenses its ads and landing pages (the “Websites”) to its customers (the “Licensees”). You understand that by using the Websites you consent to provide your Personal Information to the Licensees who will contact you to market their services. 
 
-AgentPoster LLC, like many businesses, sometimes hires other companies to perform certain business-related functions. Examples of such functions include mailing information, maintaining databases and processing payments. When we employ another entity to perform a function of this nature, we only provide them with the information that they need to perform their specific function.
+Response to Subpoenas and Other Legal Requests. We may share your information with courts, law enforcement agencies, or other government bodies when we have a good faith belief we’re required or permitted to do so by law, including to meet national security or law enforcement requirements, to protect our company, or to respond to a court order, subpoena, search warrant, or other law enforcement request. 
 
-#### Legal Requirements
+Protection of BoldLeads and Others. We may share account information, Personal Information, and Usage Data when we believe it is appropriate to enforce or apply our products’ Terms of Service and other agreements; or protect the rights, property, or safety of BoldLeads, our Services, our users, or others. This includes exchanging information with other companies and organizations for fraud protection and credit risk reduction. 
 
-AgentPoster LLC may disclose your Personal Data if required to do so by law or in the good faith belief that such action is necessary to (i) comply with a legal obligation, (ii) protect and defend the rights or property of AgentPoster LLC, (iii) act in urgent circumstances to protect the personal safety of users of the Services or the public, or (iv) protect against legal liability.
+Reporting to Credit Bureaus. We may share your information with credit bureaus, consumer reporting agencies, and card associations. Late payments, missed payments, or other defaults on your account may be reflected in your credit report and consumer report. We may also share your information with other companies, lawyers, credit bureaus, agents, government agencies, and card associations in connection with issues related to fraud, credit, or debt collection. 
 
-### Your Choices
+Information Sharing Between BoldLeads Entities. We share your information, including your Personal Information, with and among our affiliates and subsidiaries, except where prohibited by law. The disclosures provided in this Privacy Statement apply across all BoldLeads entities. Affiliates and subsidiaries generally refer to companies related to us by common ownership or control. The reasons why we share your information include for our everyday business purposes, such as to: process your transactions, maintain your accounts, operate our business, facilitate signing on to your BoldLeads Account, etc. We will also share your information in order for us to be able to offer our products and services to you. We may also share information about your creditworthiness, your transactions, and experience so that we can operate our business effectively, detect and prevent fraud, and improve our Services. 
 
-You can visit the Site without providing any Personal Data. If you choose not to provide any Personal Data, you may not be able to use certain Services.
+Sale of Our Business. If we sell, merge, or transfer any part of our business, we may be required to share your information. If so, you will be asked if you’d like to stop receiving promotional information following any change of control. 
 
-### Exclusions
+With your Consent. With your consent, BoldLeads may rent or sell your Personal Information other than as set out above; however, we will provide you with notice and the opportunity to choose when your Personal Information may be shared with other third parties. 
 
-This Privacy Policy does not apply to any Personal Data collected by AgentPoster LLC other than Personal Data collected through the Services. This Privacy Policy shall not apply to any unsolicited information you provide to AgentPoster LLC through the Services or through any other means. This includes, but is not limited to, information posted to any public areas of the Services, such as forums, any ideas for new products or modifications to existing products, and other unsolicited submissions (collectively, “Unsolicited Information”). All Unsolicited Information shall be deemed to be non-confidential and AgentPoster LLC shall be free to reproduce, use, disclose, and distribute such Unsolicited Information to others without limitation or attribution.
+e) Syncing, Linking, Connecting Third Party Services with Your BoldLeads Service. 
 
-### Children
+We work with other companies or developers to offer you products and services and you may choose to sync, link or connect other third-party services with your BoldLeads Service. Sometimes BoldLeads may let you know about the service or product, or another company may let you know about a BoldLeads service or product. It will be clear who is referring to the service or product, and who is providing the service or product. If you choose to accept these services, providing your consent to either the third party or to us, we may exchange your information, including your Personal Information, as well as information about how you interact with each company’s service or product. This exchange of information assists us in maintaining business operations and providing the ongoing service you’ve requested. By requesting or accepting these products or services, you are permitting us to provide your information, including your Personal Information, to third parties. 
 
-AgentPoster LLC does not knowingly collect Personal Data from children under the age of 13. If you are under the age of 13, please do not submit any Personal Data through the Services. We encourage parents and legal guardians to monitor their children’s Internet usage and to help enforce our Privacy Policy by instructing their children never to provide Personal Data on the Services without their permission. If you have reason to believe that a child under the age of 13 has provided Personal Data to AgentPoster LLC through the Services, please contact us, and we will endeavor to delete that information from our databases.
+##  3\. WHAT YOU CAN DO TO MANAGE YOUR PRIVACY. You can view and edit information that identifies you online through your BoldLeads Service. How you can access and control information that identifies you will depend on which Services you use. You have a choice about the use of information that identifies you, marketing communications you receive from us. You do not have a choice regarding our use of cookies and other tracking technologies. Thus if you do not want us to track your use through cookies and other tracking technologies please stop using the website. 
 
-### Links to Other Web Sites
+a) Managing Marketing Communications From Us. We will endeavor to honor your choices when it comes to receiving marketing communications from us. 
 
-This Privacy Policy applies only to the Services. The Services may contain links to other web sites not operated or controlled by AgentPoster LLC (the “Third Party Sites”). The policies and procedures we described here do not apply to the Third Party Sites. The links from the Services do not imply that AgentPoster LLC endorses or has reviewed the Third Party Sites. We suggest contacting those sites directly for information on their privacy policies.
+You have the following choices if you have been receiving marketing communications from us that you no longer wish to receive: 
 
-### Integrating Social Networking Services
+Click the “unsubscribe” link in the email or newsletter you received. 
 
-The Service may allow you to enable or log in to the Services via various social networking services like Facebook or Twitter (“Social Networking Service(s)”). By directly integrating these services, we make your online experiences richer and more personalized. To take advantage of this feature, we will ask you to log into or grant us permission via the relevant Social Networking Service. When you add a Social Networking Services account to the Service or log into the Service using your Social Networking Services account, we will collect relevant information necessary to enable the Service to access that Social Networking Service and your data contained within that Social Networking Service. As part of such integration, the Social Networking Service will provide us with access to certain information that you have provided to the Social Networking Service, and we will use, store and disclose such information in accordance with this Privacy Policy. However, please remember that the manner in which Social Networking Services use, store and disclose your information is governed by the policies of such third parties, and AgentPoster LLC shall have no liability or responsibility for the privacy practices or other actions of any Social Networking Services that may be enabled within the Service.
+Adjust your preferences in your BoldLeads account settings. 
 
-You may also have the option of posting your Services activities to Social Networking Services when you access content through the Services (for example, you may post to Facebook that you performed an activity on the Service); you acknowledge that if you choose to use this feature, your friends, followers and subscribers on any Social Networking Services you have enabled will be able to view such activity.
+For SMS messages, reply “STOP” or follow the instructions in the message or settings to discontinue the Service. 
 
-### Security
+Unless you specifically instruct us otherwise as outlined herein, our mobile applications may send push notifications to your mobile device. If you are receiving push notifications and no longer wish to receive these types of communications, you may turn them off at the device level. Remember that even if you choose not to receive marketing communications from us, we will continue to send you mandatory service or transactional communications. 
 
-AgentPoster LLC takes reasonable steps to protect the Personal Data provided via the Services from loss, misuse, and unauthorized access, disclosure, alteration, or destruction. However, no Internet or email transmission is ever fully secure or error free. In particular, email sent to or from the Services may not be secure. Therefore, you should take special care in deciding what information you send to us via email. Please keep this in mind when disclosing any Personal Data to AgentPoster LLC via the Internet.
+b) Updating Your Personal Information. In connection with your right to manage your Personal Information you provide to us, you may access, update, change, correct or request deletion of your information either through the Service or through our customer support. You can reach our customer support by using the contact information provided in the “How to Contact Us” section of this statement. 
 
-### Other Terms and Conditions
+c) Cookies and Similar Tracking Technologies. The following is a high-level summary of our practices and your controls for cookies and other tracking technologies. 
 
-Your access to and use of the Services is subject to the Terms of Service at [http://BoldLeads.com/tos/.](http://boldleads.com/tos)
+In accordance with applicable law, BoldLeads and our service providers may use commonly-used tools to recognize your visit and track your interactions with our Services such as cookies, web beacons, pixels, local shared objects, and similar technologies (collectively, “Cookies”). Sometimes this tracking is necessary in order for us to provide you with the Service you requested. Other times, we combine Usage Data collected from Cookies with that of other customers to improve your and other customers’ experience. You have control over some of the Usage Data we collect from Cookies and how we use it. Information on changing your browser settings to opt out of Cookies can be found in your browser settings. 
+
+## 4\. DATA RETENTION AND YOUR ACCESS RIGHTS
+
+a) Data Retention. In accordance with, and as permitted by applicable law and regulations, we will retain your information as appropriate to render our Services, to serve you, to maintain your account for as long as your account is active, or as otherwise needed to operate our business. When you close your account, we may continue to communicate with you about our Services, give you important business updates that may affect you, and let you know about products and services that may interest you, unless you have opted out of receiving marketing communications. We may also continue to use some of your information for business purposes and to improve our offerings or in some cases to develop new ones. We will retain and use your information as required by applicable regulations and BoldLeads records and information management policies to comply with our legal and reporting obligations, resolve disputes, enforce our agreements, complete any outstanding transactions and for the detection and prevention of fraud. 
+
+b) Your Access Rights. 
+
+If you have created an online account with us and would like to update the Personal Information you have provided to us, you can access your account to view and make changes or corrections to your Personal Information. 
+
+If you wish to request access, to limit use, or to limit the disclosure, please contact us at [support@boldleads.com](mailto:support@boldleads.com) or the mailing address provided under “How to Contact Us” and please provide the name of the BoldLeads customer who submitted your Personal Information to our services. We will refer your requests to that customer and will support them as needed in responding to your request. 
+
+## 5\. SECURITY OF YOUR INFORMATION. Keeping your Information safe is important to us. 
+
+We provide reasonable and appropriate security measures in connection with securing Personal Information we collect. 
+
+For example, we:   
+Constantly work to update our security practices to implement accepted best methods to protect your Personal Information, and review our security procedures carefully.   
+Comply with applicable laws and security standards.   
+Securely transmit your sensitive Personal Information.   
+Train our staff and require them to safeguard your data.   
+Transmit, store, protect, and access all cardholder information in compliance with the Payment Card Industry’s Data Security Standards. 
+
+##  6\. HOW TO CONTACT US. If you have questions or comments about this Privacy Statement, please contact us. We want your feedback and comments. 
+
+a) Via Email. If you have questions or complaints regarding our Privacy Statement or practices, please contact us by email at support@boldleads.com. 
+
+b) Via Direct Mail. 565 W Chandler Blvd, Suite 112, Chandler, AZ 85225 
+
+##  7\. CHANGES TO OUR PRIVACY STATEMENTS. From time to time we may change or update our Privacy Statements. We reserve the right to make changes or updates at any time. More information about how we will notify you is below. 
+
+If we make material changes to the way we process your Personal Information, we will provide you notice via our Service or by other communication channels, such as by email or community post. Please review any changes carefully. If you object to any of the changes and no longer wish to use our Services, you may close your account(s). All changes are effective immediately upon posting and your use of our Service after a notice of material change or posting of an updated Privacy Statement shall constitute your consent to all changes. 
+
+##  8\. COLLECTION AND USE OF CHILDREN’S PERSONAL INFORMATION. We do not knowingly collect information from minors.
+
+BoldLeads Services are intended for and directed to adults. Our Services are not directed to minors and we do not knowingly collect Personal Information from minors. 
+
+##  9\. YOUR CALIFORNIA PRIVACY RIGHTS.
+
+We do not share your Personal Information with third parties for their marketing purposes without your consent. 
+
+## 10\. ADDITIONAL BOLDLEADS SERVICE SPECIFIC INFORMATION.
+
+[Download a PDF version of this Privacy Statement __](https://web.archive.org/pdf/Privacy_Policy.pdf)
