@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the salmat.com.au privacy policy that was archived on 2018-08-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180823180957id_/http%3A//cdn.salmat.com.au/media/salmat/media/pdf/companyinformation/privacy%2520policy/privacy-policy-external.pdf) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the salmat.com.au privacy policy that was archived on 2019-03-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190309122817id_/http%3A//cdn.salmat.com.au/media/salmat/media/pdf/companyinformation/privacy%2520policy/privacy-policy-external.pdf) for the most accurate reproduction.*
 
 # Corporate Policy
 
