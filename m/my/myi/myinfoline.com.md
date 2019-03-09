@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the myinfoline.com privacy policy that was archived on 2018-08-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180824035340id_/https%3A//www.myinfoline.com/pages/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the myinfoline.com privacy policy that was archived on 2019-03-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190309235717id_/http%3A//myinfoline.com/pages/privacypolicy) for the most accurate reproduction.*
 
 # Privacy | MyInfoline India | MyInfoline Yellow Page | Indian Business Directory | Yellow pages India
 
-Thank you for visiting our website, and for viewing our [terms and conditions ](http://myinfoline.com/pages/termsandconditions)and our privacy policy published on this page. We welcome you aboard, and are looking forward to doing business together. Before you go further though, we ask that you take a few moments to review the brief information that follows. If you are unable to accept these terms, then we respectfully ask you to leave.
+Thank you for visiting our website, and for viewing our [terms and conditions ](https://www.myinfoline.com/pages/termsandconditions)and our privacy policy published on this page. We welcome you aboard, and are looking forward to doing business together. Before you go further though, we ask that you take a few moments to review the brief information that follows. If you are unable to accept these terms, then we respectfully ask you to leave.
 
 Like most other companies operating on the internet, **MY INFOLINE** (hereafter called “ **MY INFOLINE** ”) collects basic client information to make your experience the very best available on the internet. At the same time, we respect your privacy, and assure you that we will protect this information and use it responsibly.
 
@@ -40,7 +40,7 @@ Should you prefer not to benefit from the advantages cookies bring, then we reco
 **My Infoline** is fully authorized to change in any kind of offer, discount and rules of cash back point without prior written to any members.
 
 **Personal Information Updates**  
-It’s in both our interests that you keep your personal information updated on our website, for example your billing information and your delivery address.Simply log on to our website, [check your data](http://myinfoline.com/member/dashboard), and modify it when convenient.
+It’s in both our interests that you keep your personal information updated on our website, for example your billing information and your delivery address.Simply log on to our website, [check your data](https://www.myinfoline.com/member/dashboard), and modify it when convenient.
 
 **Forums, Social Media Accounts and Discussion Boards**  
 Any opinion expressed on our forums, social media accounts and discussion boards is the spontaneous, un-moderated opinion of its author, and published without review.Hence **MY INFOLINE** : makes no guarantees regarding the soundness of that opinion, nor necessarily agrees with it either.
