@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the northcoastnow.com privacy policy that was archived on 2018-08-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180817152125id_/http%3A//northcoastnow.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the northcoastnow.com privacy policy that was archived on 2019-03-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190309164943id_/http%3A//northcoastnow.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - NorthCoastNow.com
 
