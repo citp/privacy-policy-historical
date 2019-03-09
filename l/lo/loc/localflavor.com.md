@@ -1,16 +1,14 @@
-> *The following text is extracted and transformed from the localflavor.com privacy policy that was archived on 2017-02-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170205025518id_/https%3A//www.localflavor.com/privacynotice) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the localflavor.com privacy policy that was archived on 2019-03-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190309133702id_/https%3A//www.localflavor.com/privacypolicy) for the most accurate reproduction.*
 
 # LocalFlavor :: discover savings where you live
 
-### Last Updated: June 24, 2015
+### Last Updated: May 25, 2018
 
-We take seriously your interest in how your information is collected and used. Please read the following to learn about our Privacy Notice.
+We take seriously your interest in how your information is collected and used. Please read the following to learn about our Privacy Policy.
 
-This Privacy Notice discloses the privacy practices of this website ("Site"). Specifically, it outlines the types of information that we gather about you while you are using the Site, and the ways in which we use and share this information. This Privacy Notice does not apply to any information you may provide to us, or that we may collect, offline and/or through other means (for example, at a live event, via telephone, or through the mail).
+This Privacy Policy discloses the privacy practices of this website ("Site"). Specifically, it outlines the types of information that we gather about you while you are using the Site, and the ways in which we use and share this information. This Privacy Policy does not apply to any information you may provide to us, or that we may collect, offline and/or through other means (for example, at a live event, via telephone, or through the mail).
 
-Please read this Privacy Notice carefully. By visiting and using the Site, you agree that your use of our Site, and any dispute over our online privacy practices, is governed by this Privacy Notice and our [Terms of Service](https://web.archive.org/TermsOfService). Because the Web is an evolving medium, we may need to change our Privacy Notice at some point in the future, in which case we’ll post the revised Privacy Notice on this website and update the "Last Updated" date to reflect the date of the changes. By continuing to use the Site after we post any such changes, you accept the Privacy Notice as modified.
-
-## Your California Privacy Rights
+Please read this Privacy Policy carefully. By visiting and using the Site, you agree that your use of our Site, and any dispute over our online privacy practices, is governed by this Privacy Policy and our Terms of Service. Because the Web is an evolving medium, we may need to change our Privacy Policy at some point in the future, in which case we’ll post the revised Privacy Policy on this website and update the "Last Updated" date to reflect the date of the changes. By continuing to use the Site after we post any such changes, you accept the Privacy Policy as modified.
 
 California Civil Code Section 1798.83, also known as the "Shine The Light" law, permits our customers who are California residents to request and obtain from us once a year, free of charge, information about the personal information (if any) we disclosed to third parties for direct marketing purposes in the preceding calendar year. If applicable, this information would include a list of the categories of personal information that was shared and the names and addresses of all third parties with which we shared information in the immediately preceding calendar year. If you are a California resident and would like to make such a request, please submit your request in writing to:
 
@@ -19,8 +17,6 @@ Local Flavor
 Clipper Magazine, LLC Law Department  
 19975 Victor Parkway  
 Livonia, MI 48152
-
-## How We Collect and Use Information
 
 We may collect and store information, including personally identifiable information (such as your name, postal address or email address) or other information that you voluntarily supply to us while on our Site. Some examples of this type of information include information that you electronically submit when you contact us with questions, information that you post on discussion forums or other community posting and social networking areas on our Site, and information that you electronically submit when you complete an online registration form to access and use certain features of our Site. We also may ask for information (including a credit card number and other financial information) from those users who make purchases or have payment transactions on our Site. If you decline to supply or provide us with certain information while using the Site, you may not be able to use or participate in some or all of the features offered through the Site.
 
@@ -36,19 +32,19 @@ In addition, we may use any information submitted by or collected from you via t
 
 We also may provide your information to our affiliates or to third parties, including our third-party service providers and contractors, for purposes related to Site administration and other services. For example, if you use a credit or debit card to complete a transaction on our Site, we may share your personal information and credit card number with a credit card processing and/or a fulfillment company in order to complete your transaction, or such service provider(s) may collect that information from you directly, on our behalf.
 
-If you do not wish your personally identifiable information to be used or shared for these purposes, send a letter to the Online Privacy Coordinator whose contact information is listed at the end of this Privacy Notice.
+If you do not wish your personally identifiable information to be used or shared for these purposes, send a letter to the Online Privacy Coordinator whose contact information is listed at the end of this Privacy Policy.
 
 For information about use of your information by us and by third-party advertising service providers for advertising, see the section "Data Collected in Connection with Ad Serving and Targeting."
 
-Our Site also may include links to other websites and may provide access to products and services offered by third parties, whose privacy policies we do not control. When you access another website or purchase products or services from a third party, use of any information you provide is governed by the privacy notice of the operator of the site you are visiting or the provider of such products or services.
+Our Site also may include links to other websites and may provide access to products and services offered by third parties, whose privacy policies we do not control. When you access another website or purchase products or services from a third party, use of any information you provide is governed by the privacy policy of the operator of the site you are visiting or the provider of such products or services.
 
-We also may make some content, products and services available through our Site through cooperative relationships with third-party providers, where the brands of our provider partner appear on the Site in connection with such content, products and/or services. We may share with our provider partner any information you provide, or that is collected, in the course of visiting any pages or purchasing any coupons, products or services that are made available in cooperation with our provider partner. In some cases, the provider partner may collect information from you directly, in which cases the privacy notice of our provider partner may apply to the provider partner's use of your information. The privacy notice of our provider partners may differ from ours. If you have any questions regarding the privacy notice of one of our provider partners, you should contact the provider partner directly for more information.
+We also may make some content, products and services available through our Site through cooperative relationships with third-party providers, where the brands of our provider partner appear on the Site in connection with such content, products and/or services. We may share with our provider partner any information you provide, or that is collected, in the course of visiting any pages or purchasing any coupons, products or services that are made available in cooperation with our provider partner. In some cases, the provider partner may collect information from you directly, in which cases the privacy policy of our provider partner may apply to the provider partner's use of your information. The privacy policy of our provider partners may differ from ours. If you have any questions regarding the privacy policy of one of our provider partners, you should contact the provider partner directly for more information.
 
-Please be aware that we may occasionally release information about our visitors if required to do so by law or if, in our business judgment, such disclosure is reasonably necessary: (a) to comply with legal process; (b) to enforce our [Terms of Service](https://web.archive.org/TermsOfService); or (c) to protect the rights, property, or personal safety of our Site, us, our affiliates, our officers, directors, employees, representatives, our licensors, other users, and/or the public.
+Please be aware that we may occasionally release information about our visitors if required to do so by law or if, in our business judgment, such disclosure is reasonably necessary: (a) to comply with legal process; (b) to enforce our Terms of Service; or (c) to protect the rights, property, or personal safety of our Site, us, our affiliates, our officers, directors, employees, representatives, our licensors, other users, and/or the public.
 
 Please also note that as our business grows, we may buy or sell various assets. In the unlikely event that we sell some or all of our assets, or our Site is acquired by another company, information about our Site users may be among the transferred assets.
 
-## Data Collected in Connection with Ad Serving and Targeting
+Our services are for the intended use of residents of the United States only. We do not provide any products or services to non-U.S. residents. If you live outside of the United States, please do not register or submit your email to us. Clipper Magazine LLC does not have control over third party websites, privacy policies or practices.
 
 We may use cookies, web beacons and similar technologies, and/or third-party ad-serving software, to collect non-personally identifiable information about site users and site activity, and we may use this information to, among other things, serve targeted advertisements on this site. The information collected allows us to analyze how users use the site and to track user interests, trends and patterns, thus allowing us to deliver more relevant advertisements to users.
 
@@ -56,13 +52,9 @@ We also may use third-party service providers to target and serve some of the ad
 
 The data collected in connection with the ad serving and ad targeting on our Site does not identify you personally and does not include your name, address, email address or telephone number, but it may include the IP address of your computer.
 
-The use and collection of information by third-party advertising service providers is governed by the relevant third party's privacy notice and is not covered by our privacy notice. If you would like more information about the information collection practices of a particular service provider, or if you would like more information on how to opt out of a service provider's information collection practices, please Click HERE.
-
-## Information You Post to Discussion Forums and Other Community Posting or Social Networking Areas of the Site
+The use and collection of information by third-party advertising service providers is governed by the relevant third party's privacy policy and is not covered by our privacy policy. If you would like more information about the information collection practices of a particular service provider, or if you would like more information on how to opt out of a service provider's information collection practices, please Click HERE.
 
 Please keep in mind that whenever you voluntarily make your personal information or other private information available for viewing by third parties online - for example, posting a comment or review on discussion forums or any community posting or social networking area of our Site - that information can be seen, collected and used by others besides us. We cannot be responsible for any unauthorized third-party use of such information.
-
-## Children's Privacy Statement
 
 This Children's Privacy Statement explains our practices with respect to the online collection and use of personal information from children under the age of 13, and provides important information regarding their rights under federal law with respect to such information.
 
@@ -73,26 +65,17 @@ This Children's Privacy Statement explains our practices with respect to the onl
 
 
 
-## How To Make Changes to Your Information
-
 If you are a registered member of our Site, you can make changes to your account information by logging in to the Site and using the account tools available via the Site. If you have any questions about modifying your account or preference information, please visit the "Customer Service" pages of our Site.
-
-## Storage of Information
 
 All information we gather on our Site is stored within a database to which only we and our hosting services provider are provided access. However, as effective as the reasonable security measures implemented by us may be, no physical or electronic security system is impenetrable. We cannot guarantee the security of our Site's servers or databases, nor can we guarantee that information you supply will not be intercepted while being transmitted to us over the Internet.
 
-## Questions Regarding Privacy
+If you have any questions about this Privacy Policy, our privacy practices, or your dealings with us, you can contact:
 
-If you have any questions about this Privacy Notice, our privacy practices, or your dealings with us, you can contact:
-
-William Herman  
-Online Privacy Coordinator  
+Melanie Simms  
 Local Flavor  
 Clipper Magazine, LLC Law Department  
-7950 Jones Branch Drive  
-McLean, VA 22107
-
-## Community Rules
+19975 Victor Parkway  
+Livonia, MI 48152
 
 ### Last Updated: January 23, 2015
 
@@ -145,8 +128,8 @@ In addition, by accessing and using any feature on this Site, you represent and 
   * Will not use the Site to post or transmit any information, software or other material that contains a virus or other harmful component;
   * Will not repeatedly post the same or similar content or otherwise impose an unreasonable or disproportionately large load on our infrastructure;
   * Take or cause to be taken any action that disrupts the normal flow of postings and dialogue on our Site (such as submitting an excessive number of messages – i.e. a flooding attack), or that otherwise negatively affects other users’ ability to use the Site and/or services;
-  * Will not use automated means, including spiders, robots, crawlers, data-mining tools, or the like to download data from our Site. Exception is made for Internet search engines (e.g., Google) and non-commercial public archives (e.g., archive.org) that comply with our [Terms of Service](https://web.archive.org/TermsOfService). We reserve the right to deny access to the Site or any features of the Site to anyone who violates these Community Rules or who, in our sole judgment, interferes with the ability of others to enjoy our website or infringes upon the rights of others.
+  * Will not use automated means, including spiders, robots, crawlers, data-mining tools, or the like to download data from our Site. Exception is made for Internet search engines (e.g., Google) and non-commercial public archives (e.g., archive.org) that comply with our Terms of Service. We reserve the right to deny access to the Site or any features of the Site to anyone who violates these Community Rules or who, in our sole judgment, interferes with the ability of others to enjoy our website or infringes upon the rights of others.
 
 
 
-All users of this Site are reminded that as set forth in the “[Responsibility for User-Provided Content](https://web.archive.org/TermsOfService#userprovidedcontentresponsibility)” section of these [Terms of Service](https://web.archive.org/TermsOfService) we may preserve content and materials submitted by you, and may also disclose such content and materials if required to do so by law or if, in our business judgment, such preservation or disclosure is reasonably necessary to: (a) comply with legal process; (b) enforce these [Terms of Service](https://web.archive.org/TermsOfService); (c) respond to claims that any content or materials submitted by you violate the rights of third parties; or (d) protect the rights, property, or personal safety of our Site, us, our affiliates, our officers, directors, employees, representatives, our licensors, other users, and/or the public.
+All users of this Site are reminded that as set forth in the “Responsibility for User-Provided Content” section of these Terms of Service we may preserve content and materials submitted by you, and may also disclose such content and materials if required to do so by law or if, in our business judgment, such preservation or disclosure is reasonably necessary to: (a) comply with legal process; (b) enforce these Terms of Service; (c) respond to claims that any content or materials submitted by you violate the rights of third parties; or (d) protect the rights, property, or personal safety of our Site, us, our affiliates, our officers, directors, employees, representatives, our licensors, other users, and/or the public.
