@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the korea7s.com privacy policy that was archived on 2018-10-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181028101343id_/http%3A//korea7s.com/PrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the korea7s.com privacy policy that was archived on 2019-03-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190309144148id_/http%3A//www.korea7s.com/PrivacyPolicy.aspx) for the most accurate reproduction.*
 
 # Korea7s.com covers local topics on pop, celebs, local news
 
