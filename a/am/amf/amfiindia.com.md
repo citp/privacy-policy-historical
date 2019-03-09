@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the amfiindia.com privacy policy that was archived on 2018-10-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181020102726id_/https%3A//www.amfiindia.com/privacy-notice) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the amfiindia.com privacy policy that was archived on 2019-03-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190309163600id_/https%3A//www.amfiindia.com/privacy-notice) for the most accurate reproduction.*
 
 # Privacy Notice | Mutual Funds in India | Equity Mutual Funds
 
