@@ -1,11 +1,11 @@
-> *The following text is extracted and transformed from the walterbecker.com privacy policy that was archived on 2018-08-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180816194621id_/http%3A//www.walterbecker.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the walterbecker.com privacy policy that was archived on 2019-03-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190309042713id_/http%3A//walterbecker.com/privacy.html) for the most accurate reproduction.*
 
 # privacy notice | walter becker dot com
 
 [n  
 e  
 w  
-s](https://web.archive.org/web/20180816194621id_/http%3A//www.walterbecker.com/news.html)
+s](https://web.archive.org/web/20190309042713id_/http%3A//walterbecker.com/news.html)
 
 •
 
@@ -16,7 +16,7 @@ w
   c  
 d
 
-](https://web.archive.org/web/20180816194621id_/http%3A//www.walterbecker.com/cm.html)
+](https://web.archive.org/web/20190309042713id_/http%3A//walterbecker.com/cm.html)
 
 •
 
@@ -26,14 +26,14 @@ s
 c  
 o  
 g  
-](https://web.archive.org/web/20180816194621id_/http%3A//www.walterbecker.com/sounds.html)
+](https://web.archive.org/web/20190309042713id_/http%3A//walterbecker.com/sounds.html)
 
 •
 
 [h  
 o  
 m  
-e](https://web.archive.org/web/20180816194621id_/http%3A//www.walterbecker.com/index.html)
+e](https://web.archive.org/web/20190309042713id_/http%3A//walterbecker.com/index.html)
 
 •
 
