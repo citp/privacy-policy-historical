@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the windrawwin.com privacy policy that was archived on 2018-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180602101051id_/http%3A//www.windrawwin.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the windrawwin.com privacy policy that was archived on 2019-03-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190309043753id_/https%3A//www.windrawwin.com/privacy) for the most accurate reproduction.*
 
 # Privacy and Cookie Policy - WinDrawWin.com
 
@@ -7,8 +7,6 @@ This privacy policy sets out how WinDrawWin.com uses and protects any informatio
 WinDrawWin.com is committed to ensuring that your privacy is protected. All information stored when using this website will only be used in accordance with this privacy statement.
 
 WinDrawWin.com may change this policy from time to time by updating this page. You should check this page from time to time to ensure that you are happy with any changes. This policy is effective from 24th April 2018.
-
-[](http://www.windrawwin.com/bet365/bet-credits/)
 
 ## What We Collect
 
