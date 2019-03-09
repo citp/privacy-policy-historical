@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the libertymutual.com privacy policy that was archived on 2018-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180630220628id_/https%3A//www.libertymutualgroup.com/about-lm/our-company/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the libertymutual.com privacy policy that was archived on 2019-03-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190309043054id_/https%3A//www.libertymutualgroup.com/about-lm/our-company/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -92,7 +92,8 @@ Liberty Personal Insurance Company,
 LM General Insurance Company,   
 American States Preferred Insurance Company,  
 Consolidated Insurance Company,  
-Montgomery Mutual Insurance Company
+Montgomery Mutual Insurance Company,  
+The Netherlands Insurance Company
 
  **Contact Information**  
 Communications Department  
