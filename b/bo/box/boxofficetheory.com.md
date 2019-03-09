@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the boxofficetheory.com privacy policy that was archived on 2017-11-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171115001322id_/http%3A//boxofficetheory.com/PrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the boxofficetheory.com privacy policy that was archived on 2019-03-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190309182520id_/https%3A//boxofficetheory.com/PrivacyPolicy.aspx) for the most accurate reproduction.*
 
 # 
 
