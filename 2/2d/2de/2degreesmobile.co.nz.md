@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 2degreesmobile.co.nz privacy policy that was archived on 2018-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181222152605id_/https%3A//www.2degreesmobile.co.nz/termsofuse/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 2degreesmobile.co.nz privacy policy that was archived on 2019-03-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190309113856id_/https%3A//www.2degreesmobile.co.nz/termsofuse/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | 2degrees Mobile
 
