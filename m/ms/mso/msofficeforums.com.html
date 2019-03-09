@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the msofficeforums.com privacy policy that was archived on 2017-06-06.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20170606042253id_/http%3A//www.msofficeforums.com/faq.php%3Ffaq%3Dvb3_board_faq%23faq_privacy_policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the msofficeforums.com privacy policy that was archived on 2019-03-09.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20190309013349id_/http%3A//www.msofficeforums.com/faq.php%3Ffaq%3Dvb3_board_faq%23faq_privacy_policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" dir="ltr" lang="en"><head>
 <meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1">
@@ -15,25 +15,25 @@
 * vBulletin 3.8.1 CSS
 * Style: 'Default Style'; Style ID: 1
 */
-@import url("clientscript/vbulletin_css/style-b536fdce-00001.css");
+@import url("clientscript/vbulletin_css/style-2fa13c90-00001.css");
 </style>
 <link rel="stylesheet" type="text/css" href="clientscript/vbulletin_important.css?v=381">
 
 
 <!-- / CSS Stylesheet -->
 
-<script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/yui/2.6.0/build/yahoo-dom-event/yahoo-dom-event.js?v=381"></script>
-<script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/yui/2.6.0/build/connection/connection-min.js?v=381"></script>
+<script type="text/javascript" src="clientscript/yui/yahoo-dom-event/yahoo-dom-event.js?v=381"></script>
+<script type="text/javascript" src="clientscript/yui/connection/connection-min.js?v=381"></script>
 <script type="text/javascript">
 <!--
-var SESSIONURL = "s=8bbe679dfcc54a1841e839db71197d77&";
+var SESSIONURL = "s=2a37ee879832bb6544e404ff9c6b995c&";
 var SECURITYTOKEN = "guest";
 var IMGDIR_MISC = "images/misc";
 var vb_disable_ajax = parseInt("0", 10);
 // -->
 </script>
 <script type="text/javascript" src="clientscript/vbulletin_global.js?v=381"></script>
-
+<script type="text/javascript" src="clientscript/vbulletin_menu.js?v=381"></script>
 
 
 	<link rel="alternate" type="application/rss+xml" title="Microsoft Office Forums RSS Feed" href="http://feeds.feedburner.com/VBSEO_FEEDBURNER">
@@ -116,7 +116,7 @@ var vb_disable_ajax = parseInt("0", 10);
 			<td><input type="submit" class="button" value="Log in" tabindex="104" title="Enter your username and password in the boxes provided to login, or click the 'register' button to create a profile for yourself." accesskey="s"></td>
 		</tr>
 		</tbody></table>
-		<input type="hidden" name="s" value="8bbe679dfcc54a1841e839db71197d77">
+		<input type="hidden" name="s" value="2a37ee879832bb6544e404ff9c6b995c">
 		<input type="hidden" name="securitytoken" value="guest">
 		<input type="hidden" name="do" value="login">
 		<input type="hidden" name="vb_login_md5password">
@@ -139,16 +139,15 @@ var vb_disable_ajax = parseInt("0", 10);
 		
 		
 		<td class="vbmenu_control"><a rel="help" href="faq.php" accesskey="5">FAQ</a></td>
-		
-		
+
+        		
 		
 			
-				<td class="vbmenu_control"><a href="search.php" accesskey="4">Search</a></td>
 				
 				<td class="vbmenu_control"><a href="search.php?do=getdaily" accesskey="2">Today's Posts</a></td>
 				
+				<td class="vbmenu_control"><a id="navbar_search" href="google.php">Search</a> </td>
 			
-			<td class="vbmenu_control"><a href="forumdisplay.php?do=markread" rel="nofollow">Mark Forums Read</a></td>
 			
 		
 		
@@ -165,6 +164,74 @@ var vb_disable_ajax = parseInt("0", 10);
 
 
 
+<!-- NAVBAR POPUP MENUS -->
+
+    
+	
+	
+	<!-- header quick search form -->
+	<div class="vbmenu_popup" id="navbar_search_menu" style="display:none;margin-top:3px" align="left">
+		<table cellpadding="4" cellspacing="1" border="0">
+<tbody><tr>
+			<td class="vbmenu_option"><a href="google.php">Search Forum with Google</a></td>
+		</tr>
+		<tr>
+			<td class="thead">Search Forums</td>
+		</tr>
+		<tr>
+			<td class="vbmenu_option" title="nohilite">
+				<form action="search.php?do=process" method="post">
+
+					<input type="hidden" name="do" value="process">
+					<input type="hidden" name="quicksearch" value="1">
+					<input type="hidden" name="childforums" value="1">
+					<input type="hidden" name="exactname" value="1">
+					<input type="hidden" name="s" value="2a37ee879832bb6544e404ff9c6b995c">
+					<input type="hidden" name="securitytoken" value="guest">
+					<div><input type="text" class="bginput" name="query" size="25" tabindex="1001"><input type="submit" class="button" value="Go" tabindex="1004"></div>
+					<div style="margin-top:6px">
+						<label for="rb_nb_sp0"><input type="radio" name="showposts" value="0" id="rb_nb_sp0" tabindex="1002" checked="checked">Show Threads</label>
+						&nbsp;
+						<label for="rb_nb_sp1"><input type="radio" name="showposts" value="1" id="rb_nb_sp1" tabindex="1003">Show Posts</label>
+					</div>
+				</form>
+			</td>
+		</tr>
+		
+		<tr>
+			<td class="vbmenu_option"><a href="tags.php" rel="nofollow">Tag Search</a></td>
+		</tr>
+		
+		<tr>
+			<td class="vbmenu_option"><a href="search.php" accesskey="4" rel="nofollow">Advanced Search</a></td>
+		</tr>
+		
+		</tbody></table>
+	</div>
+	<!-- / header quick search form -->
+	
+	
+	
+<!-- / NAVBAR POPUP MENUS -->
+
+<!-- PAGENAV POPUP -->
+	<div class="vbmenu_popup" id="pagenav_menu" style="display:none">
+		<table cellpadding="4" cellspacing="1" border="0">
+		<tbody><tr>
+			<td class="thead" nowrap="nowrap">Go to Page...</td>
+		</tr>
+		<tr>
+			<td class="vbmenu_option" title="nohilite">
+			<form action="/" method="get" onsubmit="return this.gotopage()" id="pagenav_form">
+				<input type="text" class="bginput" id="pagenav_itxt" style="font-size:11px" size="4">
+				<input type="button" class="button" id="pagenav_ibtn" value="Go">
+			</form>
+			</td>
+		</tr>
+		</tbody></table>
+	</div>
+<!-- / PAGENAV POPUP -->
+
 
 
 
@@ -172,7 +239,7 @@ var vb_disable_ajax = parseInt("0", 10);
 
 
 <form action="faq.php" method="get">
-<input type="hidden" name="s" value="8bbe679dfcc54a1841e839db71197d77">
+<input type="hidden" name="s" value="2a37ee879832bb6544e404ff9c6b995c">
 <input type="hidden" name="do" value="search">
 
 <table class="tborder" cellpadding="6" cellspacing="1" border="0" width="100%" align="center">
@@ -241,14 +308,17 @@ var vb_disable_ajax = parseInt("0", 10);
 	<td class="alt1"><ul>
 <li>If you can't login, please <a rel="nofollow" href="/login.php?do=lostpw">reset your password</a>, if you get the error message "You have not entered an email address that we recognize.", it means <strong>you haven't registered at our forums</strong>, please <a href="/register.php">simply register for a new account</a>.<br><br></li>
 
-<li>If you didn't receive your activation email after registration, please check your spam/junk folder. You can also have the <a rel="nofollow" href="http://www.msofficeforums.com/register.php?do=requestemail">activation email resent to you</a>. <br><br></li>
+<li>If you didn't receive your activation email after registration, please check your spam/junk folder first. If it's not there, please <a rel="nofollow" href="profile.php?do=editpassword">check/change your email address</a>. A new activation email will be sent to you immediately after you change your email address.<br><br>
+
+You can also have the <a rel="nofollow" href="register.php?do=requestemail">activation email resent to you</a>. <br><br></li>
 
 <li>Want to know <strong>how to ask a question</strong>? Please check out <a href="/forum-support/7545-how-post-question-forum.html">this thread.</a><br><br></li>
+
+<li>After a problem was solved, the thread can be <a href="/forum-support/1519-mark-thread-solved.html">marked as solved</a> by all participants.<br><br></li>
 
 <li><strong>Upload error</strong>: if you get error message "Security token is missing" when upload a file, please make sure the file size is under the limit, zip file is up to 2MB, other files are up to 500KB.
 <br><br></li>
 
-<li>For Microsoft Office related questions, please post on the forum. Please do not ask any Office questions with this form.<br><br></li>
 </ul></td>
 </tr>
 
@@ -394,7 +464,7 @@ No more information on users and other visitors reading pages is collected than 
 
 
 <br>
-<div class="smallfont" align="center">All times are GMT -7. The time now is <span class="time">09:22 PM</span>.</div>
+<div class="smallfont" align="center">All times are GMT -7. The time now is <span class="time">06:33 PM</span>.</div>
 <br>
 
 
@@ -444,7 +514,7 @@ No more information on users and other visitors reading pages is collected than 
 <div align="center">
 	<div class="smallfont" align="center">
 	<!-- Do not remove this copyright notice -->
-	Powered by vBulletin® Version 3.8.1<br>Copyright ©2000 - 2017, Jelsoft Enterprises Ltd.
+	Powered by vBulletin® Version 3.8.1<br>Copyright ©2000 - 2019, Jelsoft Enterprises Ltd.
 	
 <br>SEO by vBSEO ©2011, Crawlability, Inc.<!-- Do not remove this copyright notice -->
 	</div>
