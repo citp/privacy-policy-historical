@@ -1,30 +1,63 @@
-> *The following text is extracted and transformed from the pure-mac.com privacy policy that was archived on 2008-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081220044423id_/http%3A//www.pure-mac.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pure-mac.com privacy policy that was archived on 2019-03-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190310150417id_/http%3A//www.pure-mac.com/privacy.html) for the most accurate reproduction.*
 
-# Privacy Statement for Pure-Mac.com
+# Pure Mac: Software for Mac
+
+[](https://www.pure-mac.com/)   
+
 
 * * *
 
+**Privacy Policy for Pure-Mac.com**
+
+If you require any more information or have any questions about our privacy policy, please feel free to contact us by email at [pristine@pure-mac.com](mailto:pristine@pure-mac.com).
+
+At www.pure-mac.com we consider the privacy of our visitors to be extremely important. This privacy policy document describes in detail the types of personal information which is collected and recorded by www.pure-mac.com and how we use it. 
+
+**Log Files**  
+Like many other Web sites, www.pure-mac.com makes use of log files. These files merely logs visitors to the site - usually a standard procedure for hosting companies and a part of hosting services's analytics. The information inside the log files includes internet protocol (IP) addresses, browser type, Internet Service Provider (ISP), date/time stamp, referring/exit pages, and possibly the number of clicks. This information is used to analyze trends, administer the site, track user's movement around the site, and gather demographic information. IP addresses, and other such information are not linked to any information that is personally identifiable. 
+
+**Website Analytics**  
+Our website uses Google Analytics, a service which transmits website traffic data to Google servers in the United States. Google Analytics does not identify individual users or associate your IP address with any other data held by Google. We use reports provided by Google Analytics to help us understand website traffic and webpage usage. 
+
+**Cookies and Web Beacons**  
+www.pure-mac.com itself does not use cookies. 
+
+→ Google, as a third party vendor, uses cookies to serve ads on www.pure-mac.com.  
+→ Google's use of advertising cookies enables it and its partners to serve ads based on visits to this site and/or other sites on the Internet. Users may opt out of personalized advertising by visiting [Ads Settings](https://policies.google.com/technologies/ads). 
+
+**Our Advertising Partners**  
+Some of our advertising partners may use cookies and web beacons on our site. Our advertising partners include .......   
+
+
+  * Google
+
+
+
+_While each of these advertising partners has their own Privacy Policy for their site, an updated and hyperlinked resource is maintained here:[Privacy Policies](http://www.privacypolicyonline.com/privacy-policies).  
+You may consult this listing to find the privacy policy for each of the advertising partners of www.pure-mac.com._
+
+These third-party ad servers or ad networks use technology in their respective advertisements and links that appear on www.pure-mac.com and which are sent directly to your browser. They automatically receive your IP address when this occurs. Other technologies (such as cookies, JavaScript, or Web Beacons) may also be used by our site's third-party ad networks to measure the effectiveness of their advertising campaigns and/or to personalize the advertising content that you see on the site. 
+
+www.pure-mac.com has no access to or control over these cookies that are used by third-party advertisers.
+
+**Third Party Privacy Policies**  
+You should consult the respective privacy policies of these third-party ad servers for more detailed information on their practices as well as for instructions about how to opt-out of certain practices. www.pure-mac.com's privacy policy does not apply to, and we cannot control the activities of, such other advertisers or web sites. You may find a comprehensive listing of these privacy policies and their links here: [Privacy Policy Links](http://www.privacypolicyonline.com/privacy-policy-links "Privacy Policy Links").
+
+If you wish to disable cookies, you may do so through your individual browser options. More detailed information about cookie management with specific web browsers can be found at the browsers' respective websites. [What Are Cookies?](http://www.privacypolicyonline.com/what-are-cookies)
+
+**Children's Information**  
+We believe it is important to provide added protection for children online. We encourage parents and guardians to spend time online with their children to observe, participate in and/or monitor and guide their online activity. www.pure-mac.com does not knowingly collect any personally identifiable information from children under the age of 13. 
+
+**Online Privacy Policy Only**  
+This privacy policy applies only to our online activities and is valid for visitors to our website and regarding information shared and/or collected there. This policy does not apply to any information collected offline or via channels other than this website.
+
+**Consent**  
+By using our website, you hereby consent to our privacy policy and agree to its terms. 
+
+**Update**  
+This Privacy Policy was last updated on: Friday, August 31st, 2018.
+
   
-**Privacy Statement for Pure-Mac.com**
+_Should we update, amend or make any changes to our privacy policy, those changes will be posted here._
 
-**Pure Mac** has created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses the information gathering and dissemination practices for this Web site: [Pure Mac](http://www.pure-mac.com/)
-
-**Information Automatically Logged**
-
-We use your IP address to gather broad demographic information pretty much so we can say, "Cool, We got ten hits from Lithuania etc. today". We also log the type of browser you are using just out of perverse curiosity. Pure Mac does not solicit personal information of any type such as email addresses, personal names, addresses etc. If such information were volunteered, Pure Mac would not share such information unless you begged us and took us out to dinner. 
-
-**Advertisers**
-
-We may use an outside ad company to display ads on our site. These ads may contain cookies. While Pure Mac does not use cookies, cookies received with banner ads may be collected by our ad agency and we do not have access to this information. 
-
-**External Links**
-
-This site contains links to other sites. **Pure Mac** is not responsible for the privacy practices or the content of such Web sites. 
-
-**Contacting the Web Site**
-
-If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact:   
-[pristine@pure-mac.com](mailto:pristine@pure-mac.com)
-
-  
-Pure Mac © 1996-2008
+Pure Mac © 1996-2019 
