@@ -1,749 +1,1343 @@
-<!--The following is the downloaded HTML source of the sanmar.com privacy policy that was archived on 2011-12-29.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111229025007id_/http%3A//www.sanmar.com/privacy.jsp) for the most accurate reproduction.-->
-
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xmlns:ui="http://java.sun.com/jsf/facelets" xmlns:h="http://java.sun.com/jsf/html" xmlns:f="http://java.sun.com/jsf/core" xml:lang="en" lang="en"><head>
-<title>SanMar : Privacy Policy</title>
-<meta http-equiv="Content-Type" content="text/html;charset=UTF-8">
-<meta name="Description" content="The industry's most complete toolchest of marketing ideas for driving business.">
-<link href="/scripts/min/index.php?f=/css/global.css,/css/menus.css,/css/menu.css" rel="stylesheet" type="text/css">
-<script language="JavaScript" src="/scripts/min/index.php?f=/scripts/suckerfish.js,/scripts/highlight.js,/scripts/scriptaculous/prototype.js,/scripts/menu.js" type="text/javascript"></script>
-
-</head>
-<body>
-<div id="container">
-	<div id="header">
-		<!-- Note: This file is generated automatically at server startup. To make changes consider editing the template instead. -->
-
-
-
-<!-- templates/catalog/header-search_tmpl.html -->
-<script>
-    useBSNns = true;
-
-    var as_q_options = {
-        script: "/search/getAllLuceneKW7x.jsp?",
-        varname: "query",
-        json: false,
-        delay: 0,
-        timeout: 1800000,
-        maxresults: 25,
-        shownoresults: false,
-        callback: function(obj) {document.quicksrch.submit();}
-        };
-        
-    var as_q = null;
-    function start_bsn_q() {
-        as_q = new bsn.AutoSuggest('query', as_q_options);
-        if (as_p != null) {
-	     as_p.clearSuggestions();
-        }
-    }
-    function close_bsn_q() {
-	if (as_q != null) {
-             as_q.clearSuggestions();
-        }
-    }
-
-    var as_p_options = {
-        script: "/search/getAllLuceneKW7bx.jsp?",
-        varname: "productid",
-        json: false,
-        delay: 0,
-        timeout: 1800000,
-        maxresults: 25,
-        shownoresults: false,
-        callback: function(obj) { submit_bsn_p(); }
-        };
-    var as_p = null;
-    function start_bsn_p() {
-        as_p = new bsn.AutoSuggest('productid', as_p_options);
-        if (as_q != null) {
-	   as_q.clearSuggestions();
-        }
-       
-    }
-    function close_bsn_p() {
-        if (as_p != null) {
-             as_p.clearSuggestions();
-        }
-    }
-    function submit_bsn_p() {
-        if (document.TopOrderForm.productid.value.length == 0) {
-            alert("Style# is required");
-            return;
-        }
-        document.TopOrderForm.submit();
-    }
-
-    function quickSearchHandler(){
-       
-    	if ((document.quicksrch.query.value.length == 0) || (document.quicksrch.query.value.indexOf('style#/name') == 0)) {
-        	alert('Search criterion is required.'); 
-        	return false;
-        } else {
-            var isValidated = validateSpecialChar('query');
-            if(isValidated == true){           
-                return true;
-            }else{
-            	return false;
-            }
-        }        
-    }
-
-     
-    function submitInvCheckFormG() {
-        if ((document.ItemInventoryCheckFormG.productid.value.length == 0) || (document.ItemInventoryCheckFormG.productid.value == "enter style #")) {
-            alert("style number is required");
-            return false;
-        }
-    }
-
-</script>
-
-<!--[if IE 7]><link rel="stylesheet" type="text/css" href="/css/IE7styles.css" /><![endif]-->
-
-
-
- 
-<div id="topsearch">
-	<form id="quick" name="quicksrch" method="get" action="/sanmar-servlets/CatalogBrowser" onsubmit="quickSearchHandler();" style="text-align: left">
-    
-    	<!-- Search Field -->
-        <b>Search</b>
-        <input type="hidden" name="todo" value="search">
-        
-        <br>
-		<input type="text" id="query" name="query" value="style#/name/keyword" autocomplete="off" onclick="if (document.quicksrch.query.value == 'style#/name/keyword'){document.quicksrch.query.value='';} start_bsn_q();" onblur="close_bsn_q();" size="30">
-		
-        <a href="javascript:if ((document.quicksrch.query.value.length == 0) || (document.quicksrch.query.value.indexOf('style#/name') == 0)) {alert('Search criterion is required.');}else if(validateSpecialChar('query')){ document.quicksrch.submit(); };">
-        	<img src="/images/arrow-blue.png" alt="Execute Search" width="20" height="18" class="submit blue_arrow">
-        </a>
-        
-        <br>
-             <div id="_suggestions_" class="autocomplete" style="display:none"></div>
-		<a href="/sanmar-servlets/CatalogBrowser?todo=advsearch" id="refined_search">Refined Search</a>
-		<input type="hidden" name="WTs_stype" value="search">
-       </form>
-       
-        <!-- Order Field --> 
-        <form name="TopOrderForm" method="get" action="/cs/OnlineOrdering" style="text-align: left">
-      	<b>Order</b>
-      	<input type="hidden" name="todo" value="addtocart">
-      	<input type="hidden" name="top" value="Y">
-        <input type="hidden" name="src" value="order">
-        <input type="hidden" name="WTs_stype" value="Order">
-      	<br>
-      	
-      	<input type="text" id="productid" name="productid" value="enter style #" size="30" autocomplete="off" onclick="document.TopOrderForm.productid.value=''; start_bsn_p();" onblur="close_bsn_p();">
-        <a href="javascript:if ((document.TopOrderForm.productid.value.length == 0) || (document.TopOrderForm.productid.value.indexOf('enter style') == 0)) {alert('Style# is required.');}else{document.TopOrderForm.submit(); }">
-        	<img src="/images/arrow-blue.png" alt="Execute Search" width="20" height="18" class="submit blue_arrow">
-        </a><br>
-        <div id="_pidsuggestions_" class="autocomplete" style="display:none"></div>
-	</form>
-</div>
-
-<div id="masthead_logo">
-	The Nation's Premier Supplier of Wholesale Apparel &amp; Accessories
-	<br><br>
-    <a href="/index.jsp"><img src="/images/SanMar-Logo.png" border="0" alt="Return to Sanmar Home Page"></a>
-	<br>
-</div>
-
-
-
-
-		<!-- include: header-out.html -->
-<div id="user">
-
-            
-    <div id="sanmar_login">
-  		<!-- *** Printable Background Image *** <img id="sanmar_login_bg" src="/images/login-BG.png" />-->
-        <a href="/cs/OnlineOrdering?todo=login&amp;pAction=topnav" id="login_button_link">
-        	<img src="/images/login-button.gif" alt="Login Area" id="login_button">
-        </a><a>
-        </a><div id="login_links"><a>
-        	</a><a href="/about/new_customer.jsp">New Customer</a>&nbsp;<span class="nav_pipe">|</span>
-			<a href="https://info.sanmar.com/WebReg/CustomerRegistration.jsp">New User</a>
-        </div>
-    </div>
-    
-                    
-</div>
-
-	</div>
-	<!--Menu Starts Here-->
-
-  <!--Menu Starts Here-->
-
-
-
-
-
-
-
-
-
-
-
-
-<script>
-	function img_swap(name,on) {
-		var el = document.getElementById(name + '-img');
-		if (el != null) {
-			el.src = '/images/top_nav_' + name + ((on)? '_on.jpg' : '.jpg');
-		}
-	} 
-</script>
-<style>
-	.column1{
-		margin-left:11px;
-	}
-	 
-</style>
-
-<div id="topnav" class="splash">
-<div id="menu">	
-
-<ul class="level1 horizontal" id="root"> 
-<!-- Note: This file is generated automatically at server startup. To make changes consider editing the template instead. -->
-
- <!-- ******************* -->
-      <!-- *** Shop BEGINS *** -->
-      
-      <li class="level1">
-        
-        <!-- Menu Tab -->
-		<div class="topnavshop">
-          <a href="/shop/index.jsp" onmouseover="img_swap('shop',1);" onmouseout="img_swap('shop',0);">
-            <img src="/images/topnav_shop.jpg" alt="Shop" width="152" height="28" border="0" id="shop-img">
-          </a>
-        </div>
-        
-        <!-- Drop-Down Menu Items -->
-        <ul class="level2 dropdown" id="catmenu" onmouseover="img_swap('shop',1);" onmouseout="img_swap('shop',0);">
-          <li class="level2">
-            <div>
-
-
-
-        
-
-
-
-              
-              
-              
-				
-              <div class="column0">
-                
-              	  <p style="margin-bottom: 5px;"><a href="/sanmar-servlets/CatalogBrowser?todo=search&amp;query=new+and+coming">New</a></p>
-              		
-                  <p>Brands</p>
-                  
-                  
-                  <ul>
-<li><a href="/sanmar-servlets/CatalogBrowser?brand=Port+Authority&amp;action=advsearch&amp;todo=go&amp;color=" title="Port Authority">Port Authority</a></li><li><a href="/sanmar-servlets/CatalogBrowser?brand=Port+%26+Company&amp;action=advsearch&amp;todo=go&amp;color=" title="Port &amp; Company">Port &amp; Company</a></li><li><a href="/sanmar-servlets/CatalogBrowser?brand=Sport-Tek&amp;action=advsearch&amp;todo=go&amp;color=" title="Sport-Tek">Sport-Tek</a></li><li><a href="/sanmar-servlets/CatalogBrowser?brand=Red+House&amp;action=advsearch&amp;todo=go&amp;color=" title="Red House">Red House</a></li><li><a href="/sanmar-servlets/CatalogBrowser?brand=District+Threads&amp;action=advsearch&amp;todo=go&amp;color=" title="District Threads">District Threads</a></li><li><a href="/sanmar-servlets/CatalogBrowser?brand=CornerStone&amp;action=advsearch&amp;todo=go&amp;color=" title="Corner Stone">Corner Stone</a></li><li><a href="/sanmar-servlets/CatalogBrowser?brand=Precious+Cargo&amp;action=advsearch&amp;todo=go&amp;color=" title="Precious Cargo">Precious Cargo</a></li><li><a href="/sanmar-servlets/CatalogBrowser?brand=Nike&amp;action=advsearch&amp;todo=go&amp;color=" title="Nike Golf">Nike Golf</a></li><li><a href="/sanmar-servlets/CatalogBrowser?brand=OGIO&amp;action=advsearch&amp;todo=go&amp;color=" title="OGIO">OGIO</a></li><li><a href="/sanmar-servlets/CatalogBrowser?brand=Columbia&amp;action=advsearch&amp;todo=go&amp;color=" title="Columbia">Columbia</a></li><li><a href="/sanmar-servlets/CatalogBrowser?brand=New+Era&amp;action=advsearch&amp;todo=go&amp;color=" title="New Era">New Era</a></li><li><a href="/sanmar-servlets/CatalogBrowser?brand=Hanes&amp;action=advsearch&amp;todo=go&amp;color=" title="Hanes">Hanes</a></li><li><a href="/sanmar-servlets/CatalogBrowser?brand=Jerzees&amp;action=advsearch&amp;todo=go&amp;color=" title="Jerzees">Jerzees</a></li><li><a href="/sanmar-servlets/CatalogBrowser?brand=Gildan&amp;action=advsearch&amp;todo=go&amp;color=" title="Gildan">Gildan</a></li><li><a href="/sanmar-servlets/CatalogBrowser?brand=Outer+Banks&amp;action=advsearch&amp;todo=go&amp;color=" title="Outer Banks">Outer Banks</a></li>                 
-                   </ul>
-                
-                  
-                  <p><a href="javascript:submitTopNavForm('121','121', 'Woven Shirts');" id="Woven Shirts">
-Woven Shirts</a></p>
-                  <ul>
-
-
-<li><a href="javascript:submitTopNavForm('991726','121', '');" id="Easy Care">Easy Care</a></li><li><a href="javascript:submitTopNavForm('1303257','121', '');" id="Oxfords">Oxfords</a></li><li><a href="javascript:submitTopNavForm('6863539','121', '');" id="Workwear">Workwear</a></li><li><a href="javascript:submitTopNavForm('6863815','121', '');" id="Denim">Denim</a></li><li><a href="javascript:submitTopNavForm('6863548','121', '');" id="Fishing">Fishing</a></li><li><a href="javascript:submitTopNavForm('221427','121', '');" id="Camp Shirts">Camp Shirts</a></li><li><a href="javascript:submitTopNavForm('6863549','121', '');" id="Youth">Youth</a></li><li><a href="javascript:submitTopNavForm('6863669','121', '');" id="Tall">Tall</a></li><li><a href="javascript:submitTopNavForm('7201088','121', '');" id="Ladies">Ladies</a></li>
-
-                    
-                  </ul>
-                
-                  
-                  <p><a href="javascript:submitTopNavForm('115','115', 'Knit Shirts');" id="Knit Shirts">
-Polos/Knits</a></p>
-                  <ul>
-
-
-<li><a href="javascript:submitTopNavForm('991640','115', '');" id="Easy Care">Easy Care</a></li><li><a href="javascript:submitTopNavForm('991632','115', '');" id="Performance Fabrics">Performance Fabrics</a></li><li><a href="javascript:submitTopNavForm('1305776','115', '');" id="Organic">Organic</a></li><li> </li></ul></div><div class="column0"><p>
-Polos/Knits (continued..)</p><ul><li><a href="javascript:submitTopNavForm('6309360','115', '');" id="Workwear">Workwear</a></li><li><a href="javascript:submitTopNavForm('6863710','115', '');" id="Silk Touch™">Silk Touch™</a></li><li><a href="javascript:submitTopNavForm('63716','115', '');" id="Pocket">Pocket</a></li><li><a href="javascript:submitTopNavForm('63717','115', '');" id="Long Sleeve">Long Sleeve</a></li><li><a href="javascript:submitTopNavForm('991641','115', '');" id="Mock &amp; Turtlenecks">Mock &amp; Turtlenecks</a></li><li><a href="javascript:submitTopNavForm('224066','115', '');" id="Sweaters">Sweaters</a></li><li><a href="javascript:submitTopNavForm('6863734','115', '');" id="Youth">Youth</a></li><li><a href="javascript:submitTopNavForm('6863735','115', '');" id="Tall">Tall</a></li><li><a href="javascript:submitTopNavForm('991637','115', '');" id="Ladies">Ladies</a></li>
-
-                    
-                  </ul>
-                
-                  
-                  <p><a href="javascript:submitTopNavForm('125','125', 'T-Shirts/Active');" id="T-Shirts/Active">
-<nobr>T-Shirts/Active</nobr></a></p>
-                  <ul>
-
-
-<li><a href="javascript:submitTopNavForm('624','125', '');" id="100% Cotton">100% Cotton</a></li><li><a href="javascript:submitTopNavForm('625','125', '');" id="50/50">50/50</a></li><li><a href="javascript:submitTopNavForm('991722','125', '');" id="Tanks">Tanks</a></li><li><a href="javascript:submitTopNavForm('6309778','125', '');" id="Organic">Organic</a></li><li><a href="javascript:submitTopNavForm('991723','125', '');" id="Ringer Tees">Ringer Tees</a></li><li><a href="javascript:submitTopNavForm('6863798','125', '');" id="Tie-Dye">Tie-Dye</a></li><li><a href="javascript:submitTopNavForm('991718','125', '');" id="Pigment-Dyed">Pigment-Dyed</a></li><li><a href="javascript:submitTopNavForm('626','125', '');" id="Pocket">Pocket</a></li><li><a href="javascript:submitTopNavForm('627','125', '');" id="Long Sleeve">Long Sleeve</a></li><li><a href="javascript:submitTopNavForm('7201091','125', '');" id="Ladies">Ladies</a></li><li><a href="javascript:submitTopNavForm('991724','125', '');" id="Performance Fabrics">Performance Fabrics</a></li><li><a href="javascript:submitTopNavForm('6309406','125', '');" id="Shorts">Shorts</a></li><li><a href="javascript:submitTopNavForm('6309452','125', '');" id="Jerseys">Jerseys</a></li><li><a href="javascript:submitTopNavForm('6863804','125', '');" id="Youth">Youth</a></li>
-
-                    
-                  </ul>
-                
-                  
-                  <p><a href="javascript:submitTopNavForm('372485','372485', 'Infant &amp; Toddler');" id="Infant &amp; Toddler">
-Infant/Toddler</a></p>
-                  <ul>
-
-
-<li><a href="javascript:submitTopNavForm('991595','372485', '');" id="Tops &amp; Bottoms">Tops &amp; Bottoms</a></li><li><a href="javascript:submitTopNavForm('991597','372485', '');" id="Accessories">Accessories</a></li><li><a href="javascript:submitTopNavForm('1303312','372485', '');" id="Organic">Organic</a></li>
-
-                    
-                  </ul>
-                
-                  <br></div><div class="column1">
-                  <p><a href="javascript:submitTopNavForm('126','126', 'Caps');" id="Caps">
-Caps</a></p>
-                  <ul>
-
-
-<li><a href="javascript:submitTopNavForm('6863886','126', '');" id="Flex Fit">Flex Fit</a></li><li><a href="javascript:submitTopNavForm('991572','126', '');" id="Performance/ Athletic">Performance/ Athletic</a></li><li><a href="javascript:submitTopNavForm('991561','126', '');" id="Pigment/Garment Dyed">Pigment/Garment Dyed</a></li><li><a href="javascript:submitTopNavForm('991578','126', '');" id="Camouflage">Camouflage</a></li><li><a href="javascript:submitTopNavForm('991577','126', '');" id="Safety">Safety</a></li><li><a href="javascript:submitTopNavForm('991582','126', '');" id="Racing">Racing</a></li><li><a href="javascript:submitTopNavForm('991584','126', '');" id="Full Brim">Full Brim</a></li><li><a href="javascript:submitTopNavForm('790','126', '');" id="Visors">Visors</a></li><li><a href="javascript:submitTopNavForm('63628','126', '');" id="Fleece/Beanies">Fleece/Beanies</a></li><li><a href="javascript:submitTopNavForm('380112','126', '');" id="Scarves/Gloves">Scarves/Gloves</a></li><li><a href="javascript:submitTopNavForm('6863900','126', '');" id="Youth">Youth</a></li><li><a href="javascript:submitTopNavForm('6863901','126', '');" id="Ladies">Ladies</a></li>
-
-                    
-                  </ul>
-                
-                  
-                  <p><a href="javascript:submitTopNavForm('130','130', 'Bags');" id="Bags">
-Bags</a></p>
-                  <ul>
-
-
-<li><a href="javascript:submitTopNavForm('138765','130', '');" id="Briefcases/ Messengers">Briefcases/ Messengers</a></li><li><a href="javascript:submitTopNavForm('138763','130', '');" id="Backpacks">Backpacks</a></li><li><a href="javascript:submitTopNavForm('138762','130', '');" id="Duffels">Duffels</a></li><li><a href="javascript:submitTopNavForm('6863944','130', '');" id="Travel Bags">Travel Bags</a></li><li><a href="javascript:submitTopNavForm('766251','130', '');" id="Golf Bags">Golf Bags</a></li><li><a href="javascript:submitTopNavForm('766254','130', '');" id="Coolers">Coolers</a></li><li><a href="javascript:submitTopNavForm('6864019','130', '');" id="Cinch Packs">Cinch Packs</a></li><li><a href="javascript:submitTopNavForm('5103','130', '');" id="Totes/Specialty Bags">Totes/Specialty Bags</a></li><li><a href="javascript:submitTopNavForm('6864020','130', '');" id="Grocery Totes">Grocery Totes</a></li><li><a href="javascript:submitTopNavForm('6309779','130', '');" id="Organic">Organic</a></li>
-
-                    
-                  </ul>
-                
-                  
-                  <p><a href="javascript:submitTopNavForm('129','129', 'Accessories');" id="Accessories">
-Accessories</a></p>
-                  <ul>
-
-
-<li><a href="javascript:submitTopNavForm('16552','129', '');" id="Blankets">Blankets</a></li><li><a href="javascript:submitTopNavForm('785','129', '');" id="Robes/Towels">Robes/Towels</a></li><li><a href="javascript:submitTopNavForm('6309780','129', '');" id="Golf Towels">Golf Towels</a></li><li><a href="javascript:submitTopNavForm('783','129', '');" id="Aprons">Aprons</a></li>
-
-                    
-                  </ul>
-                
-                  <br></div><div class="column2">
-                  <p><a href="javascript:submitTopNavForm('127','127', 'Fleece');" id="Fleece">
-Fleece</a></p>
-                  <ul>
-
-
-<li><a href="javascript:submitTopNavForm('991402','127', '');" id="Fashion">Fashion</a></li><li><a href="javascript:submitTopNavForm('16656','127', '');" id="Pullover Hoods">Pullover Hoods</a></li><li><a href="javascript:submitTopNavForm('991418','127', '');" id="Performance">Performance</a></li><li><a href="javascript:submitTopNavForm('16658','127', '');" id="Full Zip, 1/2 -Zip &amp; 1/4-Zip">Full Zip, 1/2 -Zip &amp; 1/4-Zip</a></li><li><a href="javascript:submitTopNavForm('991426','127', '');" id="Heavyweight">Heavyweight</a></li><li><a href="javascript:submitTopNavForm('16655','127', '');" id="Crewnecks">Crewnecks</a></li><li><a href="javascript:submitTopNavForm('16657','127', '');" id="Sweatpants">Sweatpants</a></li><li><a href="javascript:submitTopNavForm('6864348','127', '');" id="Youth">Youth</a></li><li><a href="javascript:submitTopNavForm('6864350','127', '');" id="Ladies">Ladies</a></li>
-
-                    
-                  </ul>
-                
-                  
-                  <p><a href="javascript:submitTopNavForm('117','117', 'Outerwear');" id="Outerwear">
-Outerwear</a></p>
-                  <ul>
-
-
-<li><a href="javascript:submitTopNavForm('991691','117', '');" id="Soft Shells">Soft Shells</a></li><li><a href="javascript:submitTopNavForm('745','117', '');" id="Vests">Vests</a></li><li><a href="javascript:submitTopNavForm('991663','117', '');" id="Parkas/ Shells/ Systems">Parkas/ Shells/ Systems</a></li><li><a href="javascript:submitTopNavForm('748','117', '');" id="Leather/ Suede/ Wool">Leather/ Suede/ Wool</a></li><li><a href="javascript:submitTopNavForm('991703','117', '');" id="Wind Shirts">Wind Shirts</a></li><li><a href="javascript:submitTopNavForm('749','117', '');" id="Poly Fleece">Poly Fleece</a></li><li><a href="javascript:submitTopNavForm('750','117', '');" id="Athletic">Athletic</a></li><li><a href="javascript:submitTopNavForm('746','117', '');" id="Denim">Denim</a></li><li><a href="javascript:submitTopNavForm('991694','117', '');" id="Camouflage">Camouflage</a></li><li><a href="javascript:submitTopNavForm('6864369','117', '');" id="Youth">Youth</a></li><li><a href="javascript:submitTopNavForm('7201095','117', '');" id="Ladies">Ladies</a></li>
-
-                    
-                  </ul>
-                
-                  
-                  <p><a href="javascript:submitTopNavForm('1303136','1303136', 'Workwear');" id="Workwear">
-Workwear</a></p>
-                  <ul>
-
-
-<li><a href="javascript:submitTopNavForm('1303139','1303136', '');" id="Work Jackets">Work Jackets</a></li><li><a href="javascript:submitTopNavForm('1303141','1303136', '');" id="Industrial Work Shirts">Industrial Work Shirts</a></li><li><a href="javascript:submitTopNavForm('1303145','1303136', '');" id="Industrial Work Pants">Industrial Work Pants</a></li><li><a href="javascript:submitTopNavForm('1303146','1303136', '');" id="Medical/Scrubs">Medical/Scrubs</a></li><li><a href="javascript:submitTopNavForm('1303147','1303136', '');" id="Safety">Safety</a></li><li><a href="javascript:submitTopNavForm('1303142','1303136', '');" id="Aprons">Aprons</a></li><li><a href="javascript:submitTopNavForm('6864370','1303136', '');" id="Ladies">Ladies</a></li>
-
-                    
-                  </ul>
-                
-						<br><p style="padding-bottom:5px;"><a href="/custom/index.jsp" title="Custom Apparel">Custom Apparel</a></p>                       
-              </div>
-
-              <br class="clearfloat">
-              <form name="TopNavForm" method="get" action="/sanmar-servlets/CatalogBrowser">
-                <input type="hidden" name="todo" value="leftnav">
-                <input type="hidden" name="mcatid" value="">
-                <input type="hidden" name="catid" value="">
-              </form>
-
-              <script>
-                function submitTopNavForm(param1, param2, param3) {
-                  //dcsMultiTrack('WT.dl','10');
-                  document.TopNavForm.catid.value  = param1;
-                  document.TopNavForm.mcatid.value = param2;
-                  document.TopNavForm.submit();
-                }
-              </script>
-            </div>
-          </li>
-        </ul>
-      </li>
-	  <!-- *** Shop ENDS *** -->
-      <!-- ***************** -->
-
-
-
-<li class="level1"><div class="topnavmarket"><a href="/Market/" onmouseout="img_swap('market',0);" onmouseover="img_swap('market',1);"><img border="0" width="152" height="28" id="market-img" alt="Market" src="/images/top_nav_market.jpg"></a></div>
-
-  <ul id="marketingmenu" class="level2 dropdown" onmouseout="img_swap('market',0);" onmouseover="img_swap('market',1);" style="position: absolute; top: 144px; left: 516px; visibility: hidden;">
-  
- <li class="level2">
-    
- <div class="column">
-  <p><b>Catalogs</b></p>
-    
- <div style="margin-left: 10px;">
-    <p><a href="/sanmar-servlets/CatalogBrowser?todo=search&amp;query=catalogs">Generic Catalogs</a></p>
-<p><a href="/Market/Catalogs/custom_catalogs.html">Custom Catalogs</a></p>
-    
-</div><br>
-    <p><b>eMarketing</b></p>
-    
- <div style="margin-left: 10px;">
-    <p><a href="/Market/eMarketing/custom_websites.html">Custom Websites</a></p>
-<p><a href="/Market/eMarketing/wizards">Flyer &amp; Poster Wizard</a></p>
-<p><a href="/Market/eMarketing/image_library.html">Image Library</a></p>
-<p><a href="/Market/eMarketing/ezUpdate.html">Printed Price Lists</a></p>
-<p><a href="/Market/eMarketing/ezUpdate.html">EZ Update Price Lists</a></p>
-<p><a href="/Market/eMarketing/wizards">Catalog Wizard</a></p>
-<p><a href="/marketing/videogallery.jsp">Video Gallery</a></p>
-<p><a href="/marketing/ecatalog.jsp">E-Catalogs</a></p>
-<p><a href="/Market/eMarketing/survey_tool.html">Email Survey Tool</a></p>
-<p><a href="/Market/eMarketing/logoizer.html">Logoizer™</a></p>
-<p><a href="/marketing/specsheet/specsheetBrowser.jsp">Spec Sheet PDF's</a></p>
-<p><a href="/marketing/specsheet/productmeasurementsBrowser.jsp">Product Measurement PDF's</a></p>
-<p><a href="/Market/eMarketing/electronicintegration/">Electronic Integration</a></p>
-      
- <div style="margin-left: 15px;">
-      <p><a href="/Market/eMarketing/electronicintegration/gettingstarted.html">Getting Started</a></p>
-<p><a href="/Market/eMarketing/electronicintegration/options.html">Integration Options</a></p>
-<p><a href="/marketing/DataLibrary/DataLibraryMarket/">Product Download</a></p>
-<p><a href="/Market/eMarketing/electronicintegration/vendorpartners.html">Third-Party Vendors</a></p>
-      
-</div>
-          
-</div><br>
-    </div><div class="column0">
-<p><b>Samples</b></p>
-    
- <div style="margin-left: 10px;">
-    <p><a href="/Market/Samples/sample_programs.html">Grommeted Samples</a></p>
-<p><a href="/Market/Samples/sample_programs.html">Returnable Samples</a></p>
-<p><a href="/Market/Samples/presentation_box.html">Presentation Box</a></p>
-<p><a href="/Market/Samples/sample_programs.html">Branded Hangers</a></p>
-<p><a href="/Market/Samples/sample_programs.html">Branded Garment Bags</a></p>
-<p><a href="/Market/Samples/sample_programs.html">Fabric Swatch Books</a></p>
-    
-</div>
-    </div><div class="column0">
-<p><b>Showroom</b></p>
-    
- <div style="margin-left: 10px;">
-    <p><a href="/marketing/walldisplays.jsp">Branded Wall Displays</a></p>
-<p><a href="/Market/Showroom/builddisplays.html">Build Your Own Display</a></p>
-<p><a href="/Market/Showroom/prebuiltdisplays.html">Pre-Built Displays</a></p>
-    
-</div><br>
-      
- </div>
-  
- </li>
-  
- </ul>
-  </li>
-<li class="level1"><div class="topnavlearn"><a href="/Learn/" onmouseout="img_swap('learn',0);" onmouseover="img_swap('learn',1);"><img border="0" width="152" height="28" id="learn-img" alt="Learn" src="/images/top_nav_learn.jpg"></a></div>
-
-  <ul id="learnmenu" class="level2 dropdown" onmouseout="img_swap('learn',0);" onmouseover="img_swap('learn',1);" style="position: absolute; top: 144px; left: 678px; visibility: hidden;">
-  
- <li class="level2">
-    
- <div class="column">
-  <p><a style="color: rgb(54, 85, 130);" href="/learn/newsletter/index27.jsp"><strong>Fabric Newsletter</strong></a></p>
-    
- <div style="margin-left: 10px;">
-    <p><a href="/learn/newsletter/index27.jsp">Autumn 2011</a></p>
-<p><a href="/learn/newsletter/index26.jsp">Summer 2011</a></p>
-<p><a href="/learn/newsletter/index25.jsp">Spring 2011</a></p>
-<p><a href="/learn/newsletter/index24.jsp">Winter 2011</a></p>
-<p><a href="/learn/newsletter/index23.jsp">Autumn 2010</a></p>
-<p><a href="/learn/newsletter/index22.jsp">Summer 2010</a></p>
-<p><a href="/learn/newsletter/index21.jsp">Spring 2010</a></p>
-    
-</div><br>
-    <p><a style="color: rgb(54, 85, 130);" href="/learn/fall_styles_2011.jsp?null"><strong>New Fall 2011 Styles</strong></a><br></p>
-<p><a style="color: rgb(54, 85, 130);" href="/Learn/industry/"><strong>Industry Links</strong></a><br></p>
-<p><a style="color: rgb(54, 85, 130);" href="/Learn/shipping/"><strong>Shipping Carriers</strong></a><br></p>
-<p><a style="color: rgb(54, 85, 130);" href="/Learn/brands/"><strong>Brand Links</strong></a><br></p>
-<p><a style="color: rgb(54, 85, 130);" href="/cgi-bin/events.cgi"><strong>Tradeshow Schedule</strong></a><br></p>
-<p><a style="color: rgb(54, 85, 130);" href="/Learn/more_tools/"><strong>Reference Tools</strong></a></p>
-    
- <div style="margin-left: 10px;">
-    <p><a href="/Learn/more_tools/productinformation.html">Product Information</a></p>
-<p><a href="/Learn/more_tools/sizing.html">Size &amp; Fit</a></p>
-<p><a href="/learn/glossary.jsp">Glossary of Terms</a></p>
-<p><a href="/Learn/more_tools/FaxOrderForm.pdf">Fax Order Form</a></p>
-<p><a href="/Learn/more_tools/2011_springsummer_sellsheetFINAL.pdf">2011 Spring/Summer Sell Sheet</a></p>
-    
-</div><br>
-    <p><a style="color: rgb(54, 85, 130);" href="/Learn/productsafety/"><strong>Product Safety</strong></a></p>
-    
- <div style="margin-left: 10px;">
-    <p><a href="/productsafety/gcc.jsp">GCC Search</a></p>
-    
-</div><br>
-    <p><a style="color: rgb(54, 85, 130);" href="/Market/eMarketing/electronicintegration/"><strong>Electronic Integration</strong></a></p>
-    
- <div style="margin-left: 10px;">
-    <p><a href="/Market/eMarketing/electronicintegration/gettingstarted.html">Getting Started</a></p>
-<p><a href="/Market/eMarketing/electronicintegration/options.html">Integration Options</a></p>
-<p><a href="/marketing/DataLibrary/DataLibrary/">Product Download</a></p>
-<p><a href="/Market/eMarketing/electronicintegration/vendorpartners.html">Third-Party Vendors</a></p>
-    
-</div><br>
-    <p><a style="color: rgb(54, 85, 130);" href="/Learn/newsanmar/"><strong>About SanMar.com</strong></a></p>
-    
- <div style="margin-left: 10px;">
-    <p><a href="/Learn/newsanmar/systemrequirements.html">System Requirements</a></p>
-    
-</div><br>
-    <p><a style="color: rgb(54, 85, 130);" href="/learn/mobile.jsp"><strong>SanMar Mobile</strong></a><br></p>
-  
- </div>
-  
- </li>
-  
- </ul>
-  </li>
-<li class="level1"><div class="topnavabout"><a href="/AboutUs/" onmouseout="img_swap('aboutus',0);" onmouseover="img_swap('aboutus',1);"><img border="0" width="152" height="28" id="aboutus-img" alt="About Us" src="/images/top_nav_aboutus.jpg"></a></div>
-
-  <ul id="aboutmenu" class="level2 dropdown" onmouseout="img_swap('aboutus',0);" onmouseover="img_swap('aboutus',1);" style="position: absolute; top: 144px; left: 840px; visibility: hidden;">
-  
- <li class="level2">
-    
- <div class="column">
-  <p><a style="color: rgb(54, 85, 130);" href="/AboutUs/contact_us/"><strong>Contact Us</strong></a></p>
-    
- <div style="margin-left: 10px;">
-    <p><a href="/AboutUs/contact_us/">Customer Service</a></p>
-<p><a href="/AboutUs/contact_us/">Tech Support</a></p>
-<p><a href="/AboutUs/contact_us#contactbox">Feedback</a></p>
-    
-</div><br>
-    <p><a style="color: rgb(54, 85, 130);" href="/AboutUs/"><strong>SanMar Difference</strong></a><br></p>
-<p><a style="color: rgb(54, 85, 130);" href="/AboutUs/locations/"><strong>Locations</strong></a></p>
-    
- <div style="margin-left: 10px;">
-    <p><a href="/AboutUs/locations/seattle.html">Seattle, WA</a></p>
-<p><a href="/AboutUs/locations/cincinnati.html">Cincinnati, OH</a></p>
-<p><a href="/AboutUs/locations/reno.html">Reno, NV</a></p>
-<p><a href="/AboutUs/locations/robbinsville.html">Robbinsville, NJ</a></p>
-<p><a href="/AboutUs/locations/dallas.html">Dallas, TX</a></p>
-<p><a href="/AboutUs/locations/jacksonville.html">Jacksonville, FL</a></p>
-    
-</div><br>
-    <p><a style="color: rgb(54, 85, 130);" href="/about/shippingcutofftimes.jsp"><strong>Shipping Cutoff Times</strong></a><br></p>
-<p><a style="color: rgb(54, 85, 130);" href="/cgi-bin/events.cgi"><strong>Tradeshow Schedule</strong></a><br></p>
-<p><a style="color: rgb(54, 85, 130);" href="/cgi-bin/pr.cgi"><strong>SanMar in the News</strong></a><br></p>
-<p><a style="color: rgb(54, 85, 130);" href="/about/history.jsp"><strong>SanMar History</strong></a><br></p>
-<p><a style="color: rgb(54, 85, 130);" href="/about/socialResponsibility.jsp"><strong>Social Responsibility</strong></a><br></p>
-<p><a style="color: rgb(54, 85, 130);" href="/AboutUs/new_customer/"><strong>Become a Customer</strong></a></p>
-    
- <div style="margin-left: 10px;">
-    <p><a href="/about/credit_application.jsp">Credit Application</a></p>
-<p><a href="/about/credit_application.jsp">Resale Certificate</a></p>
-    
-</div><br>
-    <p class="spaced"><a style="color: rgb(54, 85, 130);" href="/cgi-bin/jobs.cgi"><strong>Careers</strong></a><br></p>
-<p class="spaced"><a style="color: rgb(54, 85, 130);" href="/AboutUs/branded_websites/"><strong>Branded Websites</strong></a><br></p>
-<p class="spaced"><a style="color: rgb(54, 85, 130);" href="/AboutUs/terms/"><strong>Terms of Use</strong></a><br></p>
-<p class="spaced"><a style="color: rgb(54, 85, 130);" href="/AboutUs/privacy/"><strong>Privacy Policy</strong></a><br></p>
-  
- </div>
-  
- </li>
-  
- </ul>
-  </li>
-
-</ul>
- 
-
-</div>
-
-</div>
-
+<!--The following is the downloaded HTML source of the sanmar.com privacy policy that was archived on 2019-03-10.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20190310233806id_/https%3A//www.sanmar.com/aboutus/privacypolicy) for the most accurate reproduction.-->
+
+<!DOCTYPE html><html lang="en" data-ng-app="SanMarApp"><!-- <![endif]--><head>
+		<title>Privacy Policy | SanMar</title>
+		<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+		<meta http-equiv="X-UA-Compatible" content="IE=edge">
+		<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1.0">
+		<meta name="format-detection" content="telephone=no"> 
+		<meta http-equiv="Pragma" content="no-cache, max-age=0, no-store">
+		<meta http-equiv="Cache-Control" content="no-cache, max-age=0, no-store">
+		<meta http-equiv="Expires" content="Mon, 26 Jul 1997 05:00:00 GMT">
 	
-    
+		<meta name="robots" content="no-index,follow">
+			<link rel="shortcut icon" type="image/x-icon" media="all" href="//cdnp.sanmar.com/_ui/responsive/theme-blue/images/favicon.ico?v=-1410263898">
+			<script src="https://js-agent.newrelic.com/nr-1026.min.js"></script><script type="text/javascript">
+	            window.NREUM||(NREUM={}),__nr_require=function(t,n,e){function r(e){if(!n[e]){var o=n[e]={exports:{}};t[e][0].call(o.exports,function(n){var o=t[e][1][n];return r(o||n)},o,o.exports)}return n[e].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<e.length;o++)r(e[o]);return r}({1:[function(t,n,e){function r(t){try{s.console&&console.log(t)}catch(n){}}var o,i=t("ee"),a=t(15),s={};try{o=localStorage.getItem("__nr_flags").split(","),console&&"function"==typeof console.log&&(s.console=!0,o.indexOf("dev")!==-1&&(s.dev=!0),o.indexOf("nr_dev")!==-1&&(s.nrDev=!0))}catch(c){}s.nrDev&&i.on("internal-error",function(t){r(t.stack)}),s.dev&&i.on("fn-err",function(t,n,e){r(e.stack)}),s.dev&&(r("NR AGENT IN DEVELOPMENT MODE"),r("flags: "+a(s,function(t,n){return t}).join(", ")))},{}],2:[function(t,n,e){function r(t,n,e,r,o){try{d?d-=1:i("err",[o||new UncaughtException(t,n,e)])}catch(s){try{i("ierr",[s,c.now(),!0])}catch(u){}}return"function"==typeof f&&f.apply(this,a(arguments))}function UncaughtException(t,n,e){this.message=t||"Uncaught error with no additional information",this.sourceURL=n,this.line=e}function o(t){i("err",[t,c.now()])}var i=t("handle"),a=t(16),s=t("ee"),c=t("loader"),f=window.onerror,u=!1,d=0;c.features.err=!0,t(1),window.onerror=r;try{throw new Error}catch(l){"stack"in l&&(t(8),t(7),"addEventListener"in window&&t(5),c.xhrWrappable&&t(9),u=!0)}s.on("fn-start",function(t,n,e){u&&(d+=1)}),s.on("fn-err",function(t,n,e){u&&(this.thrown=!0,o(e))}),s.on("fn-end",function(){u&&!this.thrown&&d>0&&(d-=1)}),s.on("internal-error",function(t){i("ierr",[t,c.now(),!0])})},{}],3:[function(t,n,e){t("loader").features.ins=!0},{}],4:[function(t,n,e){function r(t){}if(window.performance&&window.performance.timing&&window.performance.getEntriesByType){var o=t("ee"),i=t("handle"),a=t(8),s=t(7),c="learResourceTimings",f="addEventListener",u="resourcetimingbufferfull",d="bstResource",l="resource",p="-start",h="-end",m="fn"+p,w="fn"+h,v="bstTimer",y="pushState",g=t("loader");g.features.stn=!0,t(6);var b=NREUM.o.EV;o.on(m,function(t,n){var e=t[0];e instanceof b&&(this.bstStart=g.now())}),o.on(w,function(t,n){var e=t[0];e instanceof b&&i("bst",[e,n,this.bstStart,g.now()])}),a.on(m,function(t,n,e){this.bstStart=g.now(),this.bstType=e}),a.on(w,function(t,n){i(v,[n,this.bstStart,g.now(),this.bstType])}),s.on(m,function(){this.bstStart=g.now()}),s.on(w,function(t,n){i(v,[n,this.bstStart,g.now(),"requestAnimationFrame"])}),o.on(y+p,function(t){this.time=g.now(),this.startPath=location.pathname+location.hash}),o.on(y+h,function(t){i("bstHist",[location.pathname+location.hash,this.startPath,this.time])}),f in window.performance&&(window.performance["c"+c]?window.performance[f](u,function(t){i(d,[window.performance.getEntriesByType(l)]),window.performance["c"+c]()},!1):window.performance[f]("webkit"+u,function(t){i(d,[window.performance.getEntriesByType(l)]),window.performance["webkitC"+c]()},!1)),document[f]("scroll",r,{passive:!0}),document[f]("keypress",r,!1),document[f]("click",r,!1)}},{}],5:[function(t,n,e){function r(t){for(var n=t;n&&!n.hasOwnProperty(u);)n=Object.getPrototypeOf(n);n&&o(n)}function o(t){s.inPlace(t,[u,d],"-",i)}function i(t,n){return t[1]}var a=t("ee").get("events"),s=t(18)(a,!0),c=t("gos"),f=XMLHttpRequest,u="addEventListener",d="removeEventListener";n.exports=a,"getPrototypeOf"in Object?(r(document),r(window),r(f.prototype)):f.prototype.hasOwnProperty(u)&&(o(window),o(f.prototype)),a.on(u+"-start",function(t,n){var e=t[1],r=c(e,"nr@wrapped",function(){function t(){if("function"==typeof e.handleEvent)return e.handleEvent.apply(e,arguments)}var n={object:t,"function":e}[typeof e];return n?s(n,"fn-",null,n.name||"anonymous"):e});this.wrapped=t[1]=r}),a.on(d+"-start",function(t){t[1]=this.wrapped||t[1]})},{}],6:[function(t,n,e){var r=t("ee").get("history"),o=t(18)(r);n.exports=r,o.inPlace(window.history,["pushState","replaceState"],"-")},{}],7:[function(t,n,e){var r=t("ee").get("raf"),o=t(18)(r),i="equestAnimationFrame";n.exports=r,o.inPlace(window,["r"+i,"mozR"+i,"webkitR"+i,"msR"+i],"raf-"),r.on("raf-start",function(t){t[0]=o(t[0],"fn-")})},{}],8:[function(t,n,e){function r(t,n,e){t[0]=a(t[0],"fn-",null,e)}function o(t,n,e){this.method=e,this.timerDuration="number"==typeof t[1]?t[1]:0,t[0]=a(t[0],"fn-",this,e)}var i=t("ee").get("timer"),a=t(18)(i),s="setTimeout",c="setInterval",f="clearTimeout",u="-start",d="-";n.exports=i,a.inPlace(window,[s,"setImmediate"],s+d),a.inPlace(window,[c],c+d),a.inPlace(window,[f,"clearImmediate"],f+d),i.on(c+u,r),i.on(s+u,o)},{}],9:[function(t,n,e){function r(t,n){d.inPlace(n,["onreadystatechange"],"fn-",s)}function o(){var t=this,n=u.context(t);t.readyState>3&&!n.resolved&&(n.resolved=!0,u.emit("xhr-resolved",[],t)),d.inPlace(t,w,"fn-",s)}function i(t){v.push(t),h&&(g=-g,b.data=g)}function a(){for(var t=0;t<v.length;t++)r([],v[t]);v.length&&(v=[])}function s(t,n){return n}function c(t,n){for(var e in t)n[e]=t[e];return n}t(5);var f=t("ee"),u=f.get("xhr"),d=t(18)(u),l=NREUM.o,p=l.XHR,h=l.MO,m="readystatechange",w=["onload","onerror","onabort","onloadstart","onloadend","onprogress","ontimeout"],v=[];n.exports=u;var y=window.XMLHttpRequest=function(t){var n=new p(t);try{u.emit("new-xhr",[n],n),n.addEventListener(m,o,!1)}catch(e){try{u.emit("internal-error",[e])}catch(r){}}return n};if(c(p,y),y.prototype=p.prototype,d.inPlace(y.prototype,["open","send"],"-xhr-",s),u.on("send-xhr-start",function(t,n){r(t,n),i(n)}),u.on("open-xhr-start",r),h){var g=1,b=document.createTextNode(g);new h(a).observe(b,{characterData:!0})}else f.on("fn-end",function(t){t[0]&&t[0].type===m||a()})},{}],10:[function(t,n,e){function r(t){var n=this.params,e=this.metrics;if(!this.ended){this.ended=!0;for(var r=0;r<d;r++)t.removeEventListener(u[r],this.listener,!1);if(!n.aborted){if(e.duration=a.now()-this.startTime,4===t.readyState){n.status=t.status;var i=o(t,this.lastSize);if(i&&(e.rxSize=i),this.sameOrigin){var c=t.getResponseHeader("X-NewRelic-App-Data");c&&(n.cat=c.split(", ").pop())}}else n.status=0;e.cbTime=this.cbTime,f.emit("xhr-done",[t],t),s("xhr",[n,e,this.startTime])}}}function o(t,n){var e=t.responseType;if("json"===e&&null!==n)return n;var r="arraybuffer"===e||"blob"===e||"json"===e?t.response:t.responseText;return h(r)}function i(t,n){var e=c(n),r=t.params;r.host=e.hostname+":"+e.port,r.pathname=e.pathname,t.sameOrigin=e.sameOrigin}var a=t("loader");if(a.xhrWrappable){var s=t("handle"),c=t(11),f=t("ee"),u=["load","error","abort","timeout"],d=u.length,l=t("id"),p=t(14),h=t(13),m=window.XMLHttpRequest;a.features.xhr=!0,t(9),f.on("new-xhr",function(t){var n=this;n.totalCbs=0,n.called=0,n.cbTime=0,n.end=r,n.ended=!1,n.xhrGuids={},n.lastSize=null,p&&(p>34||p<10)||window.opera||t.addEventListener("progress",function(t){n.lastSize=t.loaded},!1)}),f.on("open-xhr-start",function(t){this.params={method:t[0]},i(this,t[1]),this.metrics={}}),f.on("open-xhr-end",function(t,n){"loader_config"in NREUM&&"xpid"in NREUM.loader_config&&this.sameOrigin&&n.setRequestHeader("X-NewRelic-ID",NREUM.loader_config.xpid)}),f.on("send-xhr-start",function(t,n){var e=this.metrics,r=t[0],o=this;if(e&&r){var i=h(r);i&&(e.txSize=i)}this.startTime=a.now(),this.listener=function(t){try{"abort"===t.type&&(o.params.aborted=!0),("load"!==t.type||o.called===o.totalCbs&&(o.onloadCalled||"function"!=typeof n.onload))&&o.end(n)}catch(e){try{f.emit("internal-error",[e])}catch(r){}}};for(var s=0;s<d;s++)n.addEventListener(u[s],this.listener,!1)}),f.on("xhr-cb-time",function(t,n,e){this.cbTime+=t,n?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&&"function"==typeof e.onload||this.end(e)}),f.on("xhr-load-added",function(t,n){var e=""+l(t)+!!n;this.xhrGuids&&!this.xhrGuids[e]&&(this.xhrGuids[e]=!0,this.totalCbs+=1)}),f.on("xhr-load-removed",function(t,n){var e=""+l(t)+!!n;this.xhrGuids&&this.xhrGuids[e]&&(delete this.xhrGuids[e],this.totalCbs-=1)}),f.on("addEventListener-end",function(t,n){n instanceof m&&"load"===t[0]&&f.emit("xhr-load-added",[t[1],t[2]],n)}),f.on("removeEventListener-end",function(t,n){n instanceof m&&"load"===t[0]&&f.emit("xhr-load-removed",[t[1],t[2]],n)}),f.on("fn-start",function(t,n,e){n instanceof m&&("onload"===e&&(this.onload=!0),("load"===(t[0]&&t[0].type)||this.onload)&&(this.xhrCbStart=a.now()))}),f.on("fn-end",function(t,n){this.xhrCbStart&&f.emit("xhr-cb-time",[a.now()-this.xhrCbStart,this.onload,n],n)})}},{}],11:[function(t,n,e){n.exports=function(t){var n=document.createElement("a"),e=window.location,r={};n.href=t,r.port=n.port;var o=n.href.split("://");!r.port&&o[1]&&(r.port=o[1].split("/")[0].split("@").pop().split(":")[1]),r.port&&"0"!==r.port||(r.port="https"===o[0]?"443":"80"),r.hostname=n.hostname||e.hostname,r.pathname=n.pathname,r.protocol=o[0],"/"!==r.pathname.charAt(0)&&(r.pathname="/"+r.pathname);var i=!n.protocol||":"===n.protocol||n.protocol===e.protocol,a=n.hostname===document.domain&&n.port===e.port;return r.sameOrigin=i&&(!n.hostname||a),r}},{}],12:[function(t,n,e){function r(){}function o(t,n,e){return function(){return i(t,[f.now()].concat(s(arguments)),n?null:this,e),n?void 0:this}}var i=t("handle"),a=t(15),s=t(16),c=t("ee").get("tracer"),f=t("loader"),u=NREUM;"undefined"==typeof window.newrelic&&(newrelic=u);var d=["setPageViewName","setCustomAttribute","setErrorHandler","finished","addToTrace","inlineHit","addRelease"],l="api-",p=l+"ixn-";a(d,function(t,n){u[n]=o(l+n,!0,"api")}),u.addPageAction=o(l+"addPageAction",!0),u.setCurrentRouteName=o(l+"routeName",!0),n.exports=newrelic,u.interaction=function(){return(new r).get()};var h=r.prototype={createTracer:function(t,n){var e={},r=this,o="function"==typeof n;return i(p+"tracer",[f.now(),t,e],r),function(){if(c.emit((o?"":"no-")+"fn-start",[f.now(),r,o],e),o)try{return n.apply(this,arguments)}finally{c.emit("fn-end",[f.now()],e)}}}};a("setName,setAttribute,save,ignore,onEnd,getContext,end,get".split(","),function(t,n){h[n]=o(p+n)}),newrelic.noticeError=function(t){"string"==typeof t&&(t=new Error(t)),i("err",[t,f.now()])}},{}],13:[function(t,n,e){n.exports=function(t){if("string"==typeof t&&t.length)return t.length;if("object"==typeof t){if("undefined"!=typeof ArrayBuffer&&t instanceof ArrayBuffer&&t.byteLength)return t.byteLength;if("undefined"!=typeof Blob&&t instanceof Blob&&t.size)return t.size;if(!("undefined"!=typeof FormData&&t instanceof FormData))try{return JSON.stringify(t).length}catch(n){return}}}},{}],14:[function(t,n,e){var r=0,o=navigator.userAgent.match(/Firefox[\/\s](\d+\.\d+)/);o&&(r=+o[1]),n.exports=r},{}],15:[function(t,n,e){function r(t,n){var e=[],r="",i=0;for(r in t)o.call(t,r)&&(e[i]=n(r,t[r]),i+=1);return e}var o=Object.prototype.hasOwnProperty;n.exports=r},{}],16:[function(t,n,e){function r(t,n,e){n||(n=0),"undefined"==typeof e&&(e=t?t.length:0);for(var r=-1,o=e-n||0,i=Array(o<0?0:o);++r<o;)i[r]=t[n+r];return i}n.exports=r},{}],17:[function(t,n,e){n.exports={exists:"undefined"!=typeof window.performance&&window.performance.timing&&"undefined"!=typeof window.performance.timing.navigationStart}},{}],18:[function(t,n,e){function r(t){return!(t&&t instanceof Function&&t.apply&&!t[a])}var o=t("ee"),i=t(16),a="nr@original",s=Object.prototype.hasOwnProperty,c=!1;n.exports=function(t,n){function e(t,n,e,o){function nrWrapper(){var r,a,s,c;try{a=this,r=i(arguments),s="function"==typeof e?e(r,a):e||{}}catch(f){l([f,"",[r,a,o],s])}u(n+"start",[r,a,o],s);try{return c=t.apply(a,r)}catch(d){throw u(n+"err",[r,a,d],s),d}finally{u(n+"end",[r,a,c],s)}}return r(t)?t:(n||(n=""),nrWrapper[a]=t,d(t,nrWrapper),nrWrapper)}function f(t,n,o,i){o||(o="");var a,s,c,f="-"===o.charAt(0);for(c=0;c<n.length;c++)s=n[c],a=t[s],r(a)||(t[s]=e(a,f?s+o:o,i,s))}function u(e,r,o){if(!c||n){var i=c;c=!0;try{t.emit(e,r,o,n)}catch(a){l([a,e,r,o])}c=i}}function d(t,n){if(Object.defineProperty&&Object.keys)try{var e=Object.keys(t);return e.forEach(function(e){Object.defineProperty(n,e,{get:function(){return t[e]},set:function(n){return t[e]=n,n}})}),n}catch(r){l([r])}for(var o in t)s.call(t,o)&&(n[o]=t[o]);return n}function l(n){try{t.emit("internal-error",n)}catch(e){}}return t||(t=o),e.inPlace=f,e.flag=a,e}},{}],ee:[function(t,n,e){function r(){}function o(t){function n(t){return t&&t instanceof r?t:t?c(t,s,i):i()}function e(e,r,o,i){if(!l.aborted||i){t&&t(e,r,o);for(var a=n(o),s=h(e),c=s.length,f=0;f<c;f++)s[f].apply(a,r);var d=u[y[e]];return d&&d.push([g,e,r,a]),a}}function p(t,n){v[t]=h(t).concat(n)}function h(t){return v[t]||[]}function m(t){return d[t]=d[t]||o(e)}function w(t,n){f(t,function(t,e){n=n||"feature",y[e]=n,n in u||(u[n]=[])})}var v={},y={},g={on:p,emit:e,get:m,listeners:h,context:n,buffer:w,abort:a,aborted:!1};return g}function i(){return new r}function a(){(u.api||u.feature)&&(l.aborted=!0,u=l.backlog={})}var s="nr@context",c=t("gos"),f=t(15),u={},d={},l=n.exports=o();l.backlog=u},{}],gos:[function(t,n,e){function r(t,n,e){if(o.call(t,n))return t[n];var r=e();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(t,n,{value:r,writable:!0,enumerable:!1}),r}catch(i){}return t[n]=r,r}var o=Object.prototype.hasOwnProperty;n.exports=r},{}],handle:[function(t,n,e){function r(t,n,e,r){o.buffer([t],r),o.emit(t,n,e)}var o=t("ee").get("handle");n.exports=r,r.ee=o},{}],id:[function(t,n,e){function r(t){var n=typeof t;return!t||"object"!==n&&"function"!==n?-1:t===window?0:a(t,i,function(){return o++})}var o=1,i="nr@id",a=t("gos");n.exports=r},{}],loader:[function(t,n,e){function r(){if(!x++){var t=b.info=NREUM.info,n=l.getElementsByTagName("script")[0];if(setTimeout(u.abort,3e4),!(t&&t.licenseKey&&t.applicationID&&n))return u.abort();f(y,function(n,e){t[n]||(t[n]=e)}),c("mark",["onload",a()+b.offset],null,"api");var e=l.createElement("script");e.src="https://"+t.agent,n.parentNode.insertBefore(e,n)}}function o(){"complete"===l.readyState&&i()}function i(){c("mark",["domContent",a()+b.offset],null,"api")}function a(){return E.exists&&performance.now?Math.round(performance.now()):(s=Math.max((new Date).getTime(),s))-b.offset}var s=(new Date).getTime(),c=t("handle"),f=t(15),u=t("ee"),d=window,l=d.document,p="addEventListener",h="attachEvent",m=d.XMLHttpRequest,w=m&&m.prototype;NREUM.o={ST:setTimeout,CT:clearTimeout,XHR:m,REQ:d.Request,EV:d.Event,PR:d.Promise,MO:d.MutationObserver};var v=""+location,y={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-1026.min.js"},g=m&&w&&w[p]&&!/CriOS/.test(navigator.userAgent),b=n.exports={offset:s,now:a,origin:v,features:{},xhrWrappable:g};t(12),l[p]?(l[p]("DOMContentLoaded",i,!1),d[p]("load",r,!1)):(l[h]("onreadystatechange",o),d[h]("onload",r)),c("mark",["firstbyte",s],null,"api");var x=0,E=t(17)},{}]},{},["loader",2,10,4,3]);
+	            ;NREUM.info={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",licenseKey:"3adac0cdc8",applicationID:"43711690",sa:1}
+			</script>
+		<link rel="stylesheet" type="text/css" media="all" href="//cdnp.sanmar.com/_ui/responsive/theme-blue/css/bootstrap.css?v=-1410263898">
 
-    <!--Menu Ends Here-->
+<link rel="stylesheet" type="text/css" media="all" href="//cdnp.sanmar.com/_ui/responsive/theme-blue/css/main_1.css?v=-1410263898">
+<link rel="stylesheet" type="text/css" media="all" href="//cdnp.sanmar.com/_ui/responsive/theme-blue/css/main_2.css?v=-1410263898">
+<script type="text/javascript" src="/_ui/shared/js/analyticsmediator.js"></script>
+<!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
+		<!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
+		<!--[if lt IE 9]>
+			<script src="../responsive/common/js/html5shiv.js"></script>
+			<script src="../responsive/common/js/respond.min.js"></script>
+		<![endif]-->
+		
+		<script src="//cdnp.sanmar.com/_ui/responsive/common/js/picturefill.min.js?v=-1410263898" async=""></script>
+		
+		<script src="//cdnp.sanmar.com/_ui/responsive/common/js/jquery-2.2.4.min.js?v=-1410263898" integrity="sha384-rY/jv8mMhqDabXSo+UCggqKtdmBfd3qC2/KvyTDNQ6PcUJXaxK1tMepoQda4g5vB" crossorigin="anonymous"></script>
 
+<script type="text/javascript">
+		function callEnsighten(myDataLayer) {
+			<!-- commom data element --> 
+			 
+			var mygjson = '{"server":"wathybrisapp07","isLoggedIn":"false"}';	
+			
+			<!-- add page specific data element - either as a parameter or as an attribute--> 
+			var myjson = "";
+			
+				
+			if ( myDataLayer == undefined ) {
+				if ( myjson == "" ) {
+					<!-- no page specific data --> 
+					window._datalayername = JSON.parse(mygjson);
+				} else {	
+					var json = mygjson.substring(0,mygjson.length-1).concat(",").concat(myjson.substring(1, myjson.length));
+					window._datalayername = JSON.parse(json);
+				}	
+			} else {
+				window._datalayername = $.extend(JSON.parse(mygjson), myDataLayer);
+			}
+			
+			<!-- add errorMsg and pageTitle -->
+			
+			window._datalayername["pageTitle"]= "Privacy Policy | SanMar";
+		}
+</script>
 
-
-
-   <!--Quick Bar Starts Here-->
-
-    
-
-    <div id="quickbar">
-
-		<div class="inventorycheck"> <!--Inventory/Price Check -->
-
-			<form id="inventorycheckform" name="ItemInventoryCheckForm" method="get" action="/cs/OnlineOrdering" onsubmit="return submitInventoryCheckFormNow();">
-
-				<input type="hidden" name="todo" value="addtocart">
-
-				<input type="hidden" name="swatch" value="">
-
-				<input type="hidden" name="parentId" value="">
-
-				<input type="hidden" name="prodimage" value="">
-
-				<input type="hidden" name="discontinued" value="">
-
-				<input type="hidden" name="top" value="A">
-
-				<input type="hidden" name="WTs_stype" value="IPC">
-
-				Inventory/Price Check
-
-				<input type="text" id="invproductid" name="productid" value="enter style #" onclick="document.ItemInventoryCheckForm.productid.value='';"><input type="image" src="/images/arrow-blue.png" alt="check inventory" border="0" class="submit">
-
-				<!--/a-->
-
-			</form>
-
-			<br>
-
-		</div>
-
-		<div class="expressorder"><!--Express Order-->
-
-			<form id="expressorderform" name="ExOrForm" method="get" action="/cs/OnlineOrdering" onsubmit="return submitExpressOrderFormNow();">
-
-				<input type="hidden" name="todo" value="exor">
-
-				<input type="hidden" name="top" value="A">
-
-				<input type="hidden" name="WTs_stype" value="exOrder">
-
-				Express Order
-
-				<input type="text" id="exproductid" name="productid" value="enter style #" onclick="document.ExOrForm.productid.value='';"><input type="image" src="/images/arrow-blue.png" alt="check inventory" border="0" class="submit">
-
-				<!--/a-->
-
-			<div id="_pidsuggestions_" class="autocomplete" style="display:none"></div>
-	</form>
-
-
-			<br>
-
-		</div>
-
-		<div class="quicklinks"> Quick Links: <a href="/Market/Catalogs/custom_catalogs.html?ql=Y">Custom Catalogs </a>|<a href="/Market/eMarketing/wizards?ql=Y"> Flyers </a>| <a href="/Market/eMarketing/custom_websites.html?ql=Y">Custom Websites</a> </div>
-
-	</div>
-
-    
-
-    <!--Quick Bar Ends Here-->
-    
-    
- 
-	<div id="sidebar">
-		<div class="content">
-			<div id="leftnav"> </div>
-		</div>
-	</div>
-	<div id="marketing">
-		<h1>Privacy Policy</h1>
-		<div class="content">
-			<p>SanMar Corporation promises to protect the personal information given to us by visitors to our website and information included on our electronic mail lists. </p>
-			<p><strong>COLLECTION AND USE OF INFORMATION:<br>
-				</strong>SanMar analyzes our website logs to constantly improve the value of our website to our visitors. This includes page views, unique views, unique visitors, repeat visitors, frequency of visits, and peak-volume traffic periods. In our use of this service, we do not gather, request, record, require, collect, or track any Internet users' personally identifiable information. </p>
-			<p><strong>USE OF COOKIES:</strong><br>
-				Cookies are small data files that are downloaded onto your computer when you visit our site and that automatically identify your browser to our server whenever you interact with our site. We do link the cookies to your personally identifiable information on our servers, but no personal information is stored in the cookies themselves. We use cookies to track your use of our site, and to authenticate users when signing in. We do not share cookies with any other site. </p>
-			<p><strong>DISCLOSURE OF INFORMATION:</strong> <br>
-				SanMar does not sell, rent, loan, trade, or lease personal information collected on our website or included on our e-mail lists to any third party. </p>
-			<p><strong>DATA SECURITY:</strong> <br>
-				We take precautions to protect your data from loss, misuse, unauthorized access or disclosure, alteration, or destruction. </p>
-			<p><strong>ENFORCEMENT:</strong> <br>
-				If for any reason you believe that SanMar has not adhered to these privacy principles, please notify us by e-mail at <a href="mailto:customertechsupport@sanmar.com">customertechsupport@sanmar.com</a>, and we will endeavor to review and correct the problem promptly. Please use the words 'Privacy Policy' in the subject line. </p>
-			<p><strong>EXTERNAL LINKS:</strong> <br>
-				This website provides links to various websites that SanMar does not control. When you click on one of these links, you will be transferred out of our website and connected to the website of the organization or company that you selected. Even if an affiliation exists between our website and a third party website, we exercise no control over linked sites. Each of these linked sites maintains its own independent privacy and data collection practices and procedures. If you visit a website that is linked to our site, you should consult that site's privacy policy before providing any personal information. </p>
-			<p><strong>INTERNATIONAL INFORMATION TRANSFERS:</strong><br>
-				Any personally identifiable information that you provide to SanMar will be collected directly on servers located in the United States and maintained on servers located in the United States. If you are located outside the United States, this means that any information you provide will be transferred abroad. While SanMar is committed to providing your information with the highest level of privacy protection, we believe you should know that the general level of protection for personal information in the United States may not be the same as that provided in other countries, including those that belong to the European Economic Area. </p>
-			<p><strong>TERMS AND MODIFICATIONS TO PRIVACY POLICY: <br>
-				</strong>By using this website, you signify your agreement to the terms of our privacy policy. If you do not agree with these terms, please do not disclose any personal information through this site. SanMar may modify this privacy policy at any time at its discretion and modifications are effective upon being posted on this site. You are responsible for reviewing this privacy policy periodically to ensure that you are aware of any changes to it. <br>
-				<br>
-				If you have any questions or concerns regarding privacy on the SanMar website, please contact us at <a href="mailto:customertechsupport@sanmar.com">customertechsupport@sanmar.com</a> This policy was last updated on November 15, 2007.</p>
-			<br class="clearfloat">
-		</div>
-	</div>
-	<!-- Note: This file is generated automatically at server startup. To make changes consider editing the template instead. -->
-
-
-
-<!-- Template: catalog/footer_tmpl.html -->
-<link rel="stylesheet" type="text/css" href="/css/global.css">
-
-
-
-<style type="text/css">
-	<!--
-	.style3 {color: #007cc2}
-	-->
-</style>
-
-
-<br id="footer_break">
-
-<div id="footer">  
-    ©2011 SanMar.com
- 	<a href="/index.jsp">Home</a>
-  | <a href="/AboutUs/privacy/">Privacy Policy</a>
-  | <a href="/AboutUs/terms/">Terms of Use</a>
-  | <a href="/AboutUs/branded_websites/">Branded Websites</a>
-  | <a href="/AboutUs/contact_us/">Contact Us</a>
-  | <span>Social Networking</span>
-  
-	<img src="/images/socmedia_icons2.png" width="33" height="14" border="0" align="top" usemap="#Map">
-    
-    <map name="Map" id="Map">
-        <area shape="rect" coords="18,0,33,14" href="http://www.facebook.com/pages/SanMar/126332147784?ref=ts" target="_blank" alt="Join us on Facebook!">
-        <area shape="rect" coords="0,0,14,14" href="http://twitter.com/sanmar_corp" target="_blank" alt="Follow us on Twitter!">
-        <area shape="rect" coords="0,0,1,3" href="#">
-    </map>
+<script type="text/javascript">
+		
+		callEnsighten();
+	</script>
+<script type="text/javascript" src="https://nexus.ensighten.com/sanmar/prod/Bootstrap.js"></script>
+		</head>
+	<body ondragstart="return false;" ondrop="return false;" class="privacy-policy page-privacy-policy pageType-ContentPage template-pages-content-textOnlyLeftNavPage -aboutus-privacypolicy  language-en">
+		<div class="site-global-messages">
+            </div>
+        <div id="header-container" data-currency-iso-code="USD">
+            <div class="content"><!-- Contact us tool tip -->
+<div id="contact-us-popover-content" class="popover-dynamic-content">
+    <p><strong>Customer Service</strong></p>
+    <p>Toll-Free: (800) 426-6399 <br> Email: <a href="mailto:sales@sanmar.com">sales@sanmar.com</a><br> Hours:5 a.m. to 5 p.m. PT <br>
+        Monday-Friday</p> <a href="/contactus" title="Other Contact Options">Other Contact Options</a>
+</div></div><div id="my-sanmar-popover-content" class="popover-dynamic-content">    
+	<div class="list-group">        
+		<a href="/mysanmar/account-information" title="Account Information">Account Information</a><a href="/mysanmar/payinvoicessignup" title="View and Pay Invoices">View and Pay Invoices</a></div>
 </div>
 
 
-<!-- START OF SmartSource Data Collector TAG -->
-<!-- Copyright (c) 1996-2008 WebTrends Inc.  All rights reserved. -->
-<!-- Version: 8.6.0 -->
-<!-- Tag Builder Version: 2.1.0  -->
-<!-- Created: 12/12/2008 10:19:10 PM -->
-<script src="/scripts/webtrends.js" type="text/javascript"></script>
-<!-- *********************************************************************************** -->
-<!-- Warning: The two script blocks below must remain inline. Moving them to an external -->
-<!-- JavaScript include file can cause serious problems with cross-domain tracking.      -->
-<!-- *********************************************************************************** -->
-<script type="text/javascript">
-var _tag=new WebTrends();
-_tag.dcsGetId();
+
+<div class="container">
+	<div class="row main-header xs-bg-sm-blue">
+		<div class="col-md-12 col-xs-12">
+
+			<div class="navbar-header pull-left hidden-no-xs">
+				<button type="button" class="navbar-toggle global-navigation-btn">
+					<span class="sr-only">Toggle navigation</span>
+					<span class="icon-bar white"></span>
+					<span class="icon-bar white"></span>
+					<span class="icon-bar white"></span>
+				</button>
+			</div>
+			<a href="/" class="site-logo hidden-xs" target="_self"><img id="d-sanmar-logo" title="SanMar Logo" alt="SanMar Logo" src="//cdnp.sanmar.com/medias/sys_master/images/images/hd5/hf3/8904980529182/8797467181086.png"></a>
+	<a href="/" class="site-logo hidden-no-xs" target="_self"><img id="m-sanmar-logo" title="" alt="" src="/medias/sys_master/root/h50/h7a/8850522636318/8797467148318.png"></a>
+	<a href="/login" class="pull-right text-right login hidden-no-xs">
+						<span class="mar-r-5" id="login-name">Web User Login</span>
+						<span class="fa fa-lock fa-2x mar-0"></span>
+					</a>
+				<div class="clearfix hidden-no-xs">
+				<script type="text/javascript">
+ 	function setSearchBoxSearch() {
+		var http = new XMLHttpRequest();
+		var url = '/search/setSearchBoxSearch?searchBoxSearch=true';
+		http.open('GET', url, false);		
+		http.send();
+ 	}
 </script>
+
+<form name="search_form" method="get" action="/search/" class="form-horizontal search-form col-xs-12 pull-right clearfix" onsubmit="setSearchBoxSearch()">
+	<div class="form-group search-form-icon">
+		<label class="sr-only control-label" for="main-search">Search</label>
+		<div class="col-xs-12 pad-0">
+				<input id="main-search" class="form-control main-search pull-right js-site-search-input" type="text" name="text" value="" maxlength="100" placeholder="Search for Products, Stock or Pricing" data-options="{&quot;autocompleteUrl&quot; : &quot;/search/autocomplete/SearchBox&quot;,&quot;minCharactersBeforeRequest&quot; : &quot;1&quot;,&quot;waitTimeBeforeRequest&quot; : &quot;500&quot;,&quot;displayProductImages&quot; : true}">
+					<span class="fa fa-search fa-lg fa-light-gray main-search-icon"></span>
+			</div>
+		</div>
+</form>
+
+</div>
+			</div>
+	</div>
+	</div>
+
+
+<!-- This Modal code needs to be here due to mobile -->
+<!-- Modal: Forgotten password -->
+<div class="modal fade close-reset-all" id="forgottenPassword" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
+
+	<div class="modal-dialog">
+		<div class="modal-content">
+			<div class="modal-header">
+				<button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">×</span></button>
+				<h4 class="modal-title" id="myModalLabel">Request New Password</h4>
+			</div>
+			<div class="modal-body">
+				<div id="forgotten-password-global-error">
+
+				</div>
+				<p class="mar-b-20">To reset your password, please enter your username below. Instructions to create a new password will be sent to your email address.</p>
+				<form id="forgottenpwdForm" class="form-validation" action="/login/pw/request" method="post"><div class="row">
+						<div class="form-group icon-before">
+							<label for="username" class="control-label required col-md-12">Username</label>
+							<div class="col-md-6">
+								<span class="fa fa-user fa-lg input-md fa-gray-dark"></span>
+								<input type="text" name="username" id="usernameId" class="form-control input-md js-existing" size="28" value="">
+							</div>
+						</div>
+
+					</div>
+					<div class="row mar-t-20">
+						<div class="col-xs-12">
+							<div class="form-group">
+								<button type="submit" class="btn btn-primary btn-block-xs">Submit</button>
+							</div>
+						</div>
+					</div>
+					<h4 class="mar-b-0">Forgot your username?</h4>
+					<p>Please call (800) 426-6399 for assistance.</p>
+				<div>
+<input type="hidden" name="CSRFToken" value="d1a3afb6-fbeb-417e-90c6-df7439371d16">
+</div></form></div>
+
+		</div>
+	</div>
+</div><nav class="navbar-collapse global-navigation clearfix logged-out collapse" id="global-navigation">
+
+	<div class="container holder hidden-for-box">
+		<div class="row">
+
+			<div class="yCmsContentSlot headerContent secondRow">
+<div class="yCmsComponent">
+<div class="span-20 last">
+	<div class="login-area hidden-xs pad-0 pull-right clearfix">
+
+	<form id="loginForm" class="form-inline clearfix" action="/j_spring_security_check" method="post"><input type="hidden" name="redir" value="">
+		<div class="form-group icon-before">
+			<label class="sr-only" for="j_username">Email address</label>
+			<span class="fa fa-user fa-lg fa-gray-dark input-sm fa-fw"></span>
+			<input id="username" name="j_username" class="form-control input-sm" placeholder="Username" type="text" value=""></div>
+		<div class="form-group icon-before">
+			<label class="sr-only" for="j_password">Password</label>
+			<span class="fa fa-lock fa-lg fa-gray-dark input-sm fa-fw"></span>
+			<input id="password" name="j_password" class="form-control input-sm" placeholder="Password" type="password" value=""></div>
+		<div class="form-group login pad-0">
+			<button type="submit" class="btn btn-orange btn-sm">Login</button>
+		</div>
+		<div class="form-group col-md-12 helpers small">
+			<div class="col-md-5 pad-0 text-left">
+				<input id="_spring_security_remember_me" name="_spring_security_remember_me" class="rememberMe" type="checkbox" value="true"><label for="_spring_security_remember_me">Keep Me Logged In</label><input type="hidden" name="__spring_security_remember_me" value="on"></div>
+			<a class="col-6 pad-l-10 text-left" id="forgotten_pwd_pop_up" href="#" data-toggle="modal" data-target="#forgottenPassword" title="Forgot Username or Password?">Forgot Username or Password?</a>
+		</div>
+	<div>
+<input type="hidden" name="CSRFToken" value="d1a3afb6-fbeb-417e-90c6-df7439371d16">
+</div></form></div>
+
+</div>
+</div></div><div class="content"><ul class="customer-options clearfix col-xs-12">
+	<li>
+		<a href="/contactus" class="contact-us-popover"><span class="contact-phone-mail-icon m-only"></span>Contact <span class="fa fa-caret-down"></span></a>
+	</li>
+	<li>
+		<a href="/signup/webuser" title="New Web User"><span class="fa fa-blue fa-user-plus fa-2-5x m-only"></span>New Web User</a>
+	</li>
+	<li>
+		<a href="/signup/customer" title="New Customer Signup"><span class="fa fa-blue fa-user-plus fa-2-5x m-only"></span>New Customer Signup</a>
+	</li>
+</ul></div></div>
+	</div>
+	<div id="main-navigation" role="navigation" class="main-navigation col-xs-12 col-md-12 pad-0">
+		<div class="container holder">
+			<div class="xs-row">
+				<ul class="main-nav nav hidden-for-box">
+
+	<li class="products">
+		<a href="/productlanding" title="Products">Products</a><ul id="products-nav" class="list-unstyled mega-menu">
+				<li class="">
+							<a href="/NEW/c/new" class="bold" title="NEW">NEW</a></li>
+					<li class="">
+							<a href="#" class="parent"> Brands</a>
+								<div class="submenu">
+									<div class="submenu-content">
+										<h2 class="submenu-heading serif">Brands</h2>
+										<hr class="mar-b-10">
+										<ul class="list-unstyled list-vertical">
+											<li class="yCmsComponent">
+<a href="/Brands/Port-Authority/c/bra-portauthority" class="second-level" title="Port Authority">Port Authority</a></li><li class="yCmsComponent">
+<a href="/Brands/Port-%26-Company/c/bra-portcompany" class="second-level" title="Port &amp; Company">Port &amp; Company</a></li><li class="yCmsComponent">
+<a href="/Brands/Sport-Tek/c/bra-sporttek" class="second-level" title="Sport-Tek">Sport-Tek</a></li><li class="yCmsComponent">
+<a href="/Brands/Red-House/c/bra-redhouse" class="second-level" title="Red House">Red House</a></li><li class="yCmsComponent">
+<a href="/Brands/District/c/bra-district" class="second-level" title="District">District</a></li><li class="yCmsComponent">
+<a href="/Brands/CornerStone/c/bra-cornerstone" class="second-level" title="CornerStone">CornerStone</a></li><li class="yCmsComponent">
+<a href="/Brands/Nike/c/bra-nikegolf" class="second-level" title="Nike">Nike</a></li><li class="yCmsComponent">
+<a href="/Brands/Nike-Limited-Edition/c/bra-nikelimitededition" title="Nike Limited Edition">Nike Limited Edition</a></li><li class="yCmsComponent">
+<a href="/Brands/OGIO/c/bra-ogio" class="second-level" title="OGIO">OGIO</a></li><li class="yCmsComponent">
+<a href="/Brands/OGIO-Endurance/c/bra-ogioendurance" class="second-level" title="OGIO Endurance">OGIO Endurance</a></li><li class="yCmsComponent">
+<a href="/Brands/New-Era/c/bra-newera" class="second-level" title="New Era">New Era</a></li><li class="yCmsComponent">
+<a href="/Brands/The-North-Face/c/bra-thenorthface" title="The North Face">The North Face</a></li><li class="yCmsComponent">
+<a href="/Brands/Eddie-Bauer/c/bra-eddiebauer" class="second-level" title="Eddie Bauer">Eddie Bauer</a></li><li class="yCmsComponent">
+<a href="/Brands/Carhartt/c/bra-carhartt" title="Carhartt">Carhartt</a></li></ul>
+										<ul class="list-unstyled list-vertical">
+											<li class="yCmsComponent">
+<a href="/Brands/Red-Kap/c/bra-redkap" class="second-level" title="Red Kap">Red Kap</a></li><li class="yCmsComponent">
+<a href="/Brands/Bulwark/c/bra-bulwark" class="second-level" title="Bulwark">Bulwark</a></li><li class="yCmsComponent">
+<a href="/Brands/Alternative-Apparel/c/bra-alternative" class="second-level" title="Alternative Apparel">Alternative Apparel</a></li><li class="yCmsComponent">
+<a href="/Brands/BELLA%2BCANVAS/c/bra-bellacanvas" title="BELLA+CANVAS">BELLA+CANVAS</a></li><li class="yCmsComponent">
+<a href="/Brands/Hanes/c/bra-hanes" class="second-level" title="Hanes">Hanes</a></li><li class="yCmsComponent">
+<a href="/Brands/Jerzees/c/bra-jerzees" class="second-level" title="Jerzees">Jerzees</a></li><li class="yCmsComponent">
+<a href="/Brands/Fruit-of-the-Loom/c/bra-fruitoftheloom" class="second-level" title="Fruit of the Loom">Fruit of the Loom</a></li><li class="yCmsComponent">
+<a href="/Brands/Anvil/c/bra-anvil" class="second-level" title="Anvil">Anvil</a></li><li class="yCmsComponent">
+<a href="/Brands/Comfort-Colors/c/bra-comfortcolors" title="Comfort Colors">Comfort Colors</a></li><li class="yCmsComponent">
+<a href="/Brands/American-Apparel/c/bra-americanapparel" title="American Apparel">American Apparel</a></li><li class="yCmsComponent">
+<a href="/Brands/Gildan/c/bra-gildan" class="second-level" title="Gildan">Gildan</a></li><li class="yCmsComponent">
+<a href="/Brands/Rabbit-Skins/c/bra-rabbitskins" title="Rabbit Skins">Rabbit Skins</a></li><li class="yCmsComponent">
+<a href="/Brands/Russell-Outdoors/c/bra-russelloutdoors" class="second-level" title="Russell Outdoors">Russell Outdoors</a></li></ul>
+									</div>
+								</div>
+							</li>
+					<li class="">
+							<a href="/T-Shirts/c/tshirts" class="parent" title="T-Shirts">T-Shirts</a><div class="submenu">
+									<div class="submenu-content">
+										<h2 class="submenu-heading serif">T-Shirts</h2>
+										<hr class="">
+										<ul class="list-unstyled d-list-inline m-list-block special-offers">
+												<li class="">
+														<strong class="yCmsComponent">
+<a href="/T-Shirts/c/tshirts#?text=:relevance:styleStatusFlagFacet:NEW" title="New">New</a></strong></li>
+												<li class="item-sale">
+														<strong class="yCmsComponent">
+<a href="/T-Shirts/c/tshirts#?text=:relevance:styleStatusFlagFacet:SALE" title="Sale">Sale</a></strong></li>
+												<li class="">
+														<strong class="yCmsComponent">
+<a href="/sale/valuebasics" title="Value Basics">Value Basics</a></strong></li>
+												<li class="">
+														<strong class="yCmsComponent">
+<a href="/T-Shirts/c/tshirts#?text=:relevance:styleStatusFlagFacet:OUTLET" title="Discontinued">Discontinued</a></strong></li>
+												<li class="">
+														<strong class="yCmsComponent">
+<a href="/T-Shirts/Essentials/c/tsh-ess" title="Essentials">Essentials</a></strong></li>
+												</ul>
+											<hr>
+										<ul class="list-unstyled list-vertical">
+											<li class="yCmsComponent">
+<a href="/T-Shirts/100%25-Cotton/c/tsh-100cotton" title="100% Cotton">100% Cotton</a></li><li class="yCmsComponent">
+<a href="/T-Shirts/6-6-1-100%25-Cotton/c/tsh-661100cotton" title="6-6.1 100% Cotton">6-6.1 100% Cotton</a></li><li class="yCmsComponent">
+<a href="/T-Shirts/5-5-6-100%25-Cotton/c/tsh-556100cotton" title="5-5.6 100% Cotton">5-5.6 100% Cotton</a></li><li class="yCmsComponent">
+<a href="/T-Shirts/50-50-Blend/c/tsh-5050blend" title="50/50 Blend">50/50 Blend</a></li><li class="yCmsComponent">
+<a href="/T-Shirts/Performance/c/tsh-performance" title="Performance">Performance</a></li><li class="yCmsComponent">
+<a href="/T-Shirts/Tanks/c/tsh-tanks" title="Tanks">Tanks</a></li><li class="yCmsComponent">
+<a href="/T-Shirts/Ladies-Women/c/tsh-ladieswomens" title="Ladies/Women">Ladies/Women</a></li><li class="yCmsComponent">
+<a href="/T-Shirts/Youth/c/tsh-youth" title="Youth">Youth</a></li></ul>
+										<ul class="list-unstyled list-vertical">
+											<li class="yCmsComponent">
+<a href="/T-Shirts/Ring-Spun/c/tsh-ringspun" title="Ring Spun">Ring Spun</a></li><li class="yCmsComponent">
+<a href="/T-Shirts/Long-Sleeve/c/tsh-longsleeve" title="Long Sleeve">Long Sleeve</a></li><li class="yCmsComponent">
+<a href="/T-Shirts/Specialty/c/tsh-specialty" title="Specialty">Specialty</a></li><li class="yCmsComponent">
+<a href="/T-Shirts/Fashion/c/tsh-fashion" title="Fashion">Fashion</a></li><li class="yCmsComponent">
+<a href="/T-Shirts/Workwear/c/tsh-workwear" title="Workwear">Workwear</a></li><li class="yCmsComponent">
+<a href="/T-Shirts/Tall/c/tsh-tall" title="Tall">Tall</a></li><li class="yCmsComponent">
+</li></ul>
+									</div>
+								</div>
+							</li>
+					<li class="">
+							<a href="/Polos-Knits/c/polosknits" class="parent" title="Polos/Knits">Polos/Knits</a><div class="submenu">
+									<div class="submenu-content">
+										<h2 class="submenu-heading serif">Polos/Knits</h2>
+										<hr class="">
+										<ul class="list-unstyled d-list-inline m-list-block special-offers">
+												<li class="">
+														<strong class="yCmsComponent">
+<a href="/Polos-Knits/c/polosknits#?text=:relevance:styleStatusFlagFacet:NEW" title="New">New</a></strong></li>
+												<li class="item-sale">
+														<strong class="yCmsComponent">
+<a href="/Polos-Knits/c/polosknits#?text=:relevance:styleStatusFlagFacet:SALE" title="Sale">Sale</a></strong></li>
+												<li class="">
+														<strong class="yCmsComponent">
+<a href="/Polos-Knits/c/polosknits#?text=:relevance:styleStatusFlagFacet:OUTLET" title="Discontinued">Discontinued</a></strong></li>
+												<li class="">
+														<strong class="yCmsComponent">
+<a href="/Polos-Knits/Essentials/c/pol-essentials" title="Essentials">Essentials</a></strong></li>
+												</ul>
+											<hr>
+										<ul class="list-unstyled list-vertical">
+											<li class="yCmsComponent">
+<a href="/Polos-Knits/Performance/c/pol-performance" title="Performance">Performance</a></li><li class="yCmsComponent">
+<a href="/Polos-Knits/Easy-Care/c/pol-easycare" title="Easy Care">Easy Care</a></li><li class="yCmsComponent">
+<a href="/Polos-Knits/Silk-Touch/c/pol-silktouch" title="Silk Touch">Silk Touch</a></li><li class="yCmsComponent">
+<a href="/Polos-Knits/Cotton/c/pol-cotton" title="Cotton">Cotton</a></li><li class="yCmsComponent">
+<a href="/Polos-Knits/Workwear/c/pol-workwear" title="Workwear">Workwear</a></li></ul>
+										<ul class="list-unstyled list-vertical">
+											<li class="yCmsComponent">
+<a href="/Polos-Knits/Sweaters/c/pol-sweaters" title="Sweaters">Sweaters</a></li><li class="yCmsComponent">
+<a href="/Polos-Knits/Mock-Turtlenecks/c/pol-mockturtlenecks" title="Mock/Turtlenecks">Mock/Turtlenecks</a></li><li class="yCmsComponent">
+<a href="/Polos-Knits/Ladies-Women/c/pol-ladieswomens" title="Ladies/Women">Ladies/Women</a></li><li class="yCmsComponent">
+<a href="/Polos-Knits/Youth/c/pol-youth" title="Youth">Youth</a></li><li class="yCmsComponent">
+<a href="/Polos-Knits/Tall/c/pol-tall" title="Tall">Tall</a></li></ul>
+									</div>
+								</div>
+							</li>
+					<li class="">
+							<a href="/Sweatshirts-Fleece/c/sweatshirtsfleece" class="parent" title="Sweatshirts/Fleece">Sweatshirts/Fleece</a><div class="submenu">
+									<div class="submenu-content">
+										<h2 class="submenu-heading serif">Sweatshirts/Fleece</h2>
+										<hr class="">
+										<ul class="list-unstyled d-list-inline m-list-block special-offers">
+												<li class="">
+														<strong class="yCmsComponent">
+<a href="/Sweatshirts-Fleece/c/sweatshirtsfleece#?text=:relevance:styleStatusFlagFacet:NEW" title="New">New</a></strong></li>
+												<li class="item-sale">
+														<strong class="yCmsComponent">
+<a href="/Sweatshirts-Fleece/c/sweatshirtsfleece#?text=:relevance:styleStatusFlagFacet:SALE" title="Sale">Sale</a></strong></li>
+												<li class="">
+														<strong class="yCmsComponent">
+<a href="/Sweatshirts-Fleece/c/sweatshirtsfleece#?text=:relevance:styleStatusFlagFacet:OUTLET" title="Discontinued">Discontinued</a></strong></li>
+												<li class="">
+														<strong class="yCmsComponent">
+<a href="/Sweatshirts-Fleece/Essentials/c/swe-essentials" title="Essentials">Essentials</a></strong></li>
+												</ul>
+											<hr>
+										<ul class="list-unstyled list-vertical">
+											<li class="yCmsComponent">
+<a href="/Sweatshirts-Fleece/Crewnecks/c/swe-crewnecks" title="Crewnecks">Crewnecks</a></li><li class="yCmsComponent">
+<a href="/Sweatshirts-Fleece/Hoodie/c/swe-hoodie" title="Hoodie">Hoodie</a></li><li class="yCmsComponent">
+<a href="/Sweatshirts-Fleece/Performance/c/swe-performance" title="Performance">Performance</a></li><li class="yCmsComponent">
+<a href="/Sweatshirts-Fleece/Sweatpants/c/swe-sweatpants" title="Sweatpants">Sweatpants</a></li><li class="yCmsComponent">
+<a href="/Sweatshirts-Fleece/1-2-%26-1-4-Zip/c/swe-1214zip" title="1/2 &amp; 1/4 Zip">1/2 &amp; 1/4 Zip</a></li><li class="yCmsComponent">
+<a href="/Sweatshirts-Fleece/Full-Zip/c/swe-fullzip" title="Full Zip">Full Zip</a></li></ul>
+										<ul class="list-unstyled list-vertical">
+											<li class="yCmsComponent">
+<a href="/Sweatshirts-Fleece/Ladies-Women/c/swe-ladieswomens" title="Ladies/Women">Ladies/Women</a></li><li class="yCmsComponent">
+<a href="/Sweatshirts-Fleece/Youth/c/swe-youth" title="Youth">Youth</a></li><li class="yCmsComponent">
+<a href="/Sweatshirts-Fleece/Fleece/c/swe-fleece" title="Fleece">Fleece</a></li><li class="yCmsComponent">
+<a href="/Sweatshirts-Fleece/Heavyweight/c/swe-heavyweight" title="Heavyweight">Heavyweight</a></li><li class="yCmsComponent">
+<a href="/Sweatshirts-Fleece/Tall/c/swe-tall" title="Tall">Tall</a></li></ul>
+									</div>
+								</div>
+							</li>
+					<li class="">
+							<a href="/Caps/c/caps" class="parent" title="Caps">Caps</a><div class="submenu">
+									<div class="submenu-content">
+										<h2 class="submenu-heading serif">Caps</h2>
+										<hr class="">
+										<ul class="list-unstyled d-list-inline m-list-block special-offers">
+												<li class="">
+														<strong class="yCmsComponent">
+<a href="/Caps/c/caps#?text=:relevance:styleStatusFlagFacet:NEW" title="New">New</a></strong></li>
+												<li class="item-sale">
+														<strong class="yCmsComponent">
+<a href="/Caps/c/caps#?text=:relevance:styleStatusFlagFacet:SALE" title="Sale">Sale</a></strong></li>
+												<li class="">
+														<strong class="yCmsComponent">
+<a href="/Caps/c/caps#?text=:relevance:styleStatusFlagFacet:OUTLET" title="Discontinued">Discontinued</a></strong></li>
+												<li class="">
+														<strong class="yCmsComponent">
+<a href="/Caps/Essentials/c/cap-essentials" title="Essentials">Essentials</a></strong></li>
+												</ul>
+											<hr>
+										<ul class="list-unstyled list-vertical">
+											<li class="yCmsComponent">
+<a href="/Caps/Stretch-to-Fit/c/cap-stretchtofit" title="Stretch-to-Fit">Stretch-to-Fit</a></li><li class="yCmsComponent">
+<a href="/Caps/Performance-Athletic/c/cap-performanceathletic" title="Performance/Athletic">Performance/Athletic</a></li><li class="yCmsComponent">
+<a href="/Caps/Fashion/c/cap-fashion" title="Fashion">Fashion</a></li><li class="yCmsComponent">
+<a href="/Caps/Pigment-Garment-Dyed/c/cap-pigmentgarmentdyed" title="Pigment/Garment Dyed">Pigment/Garment Dyed</a></li><li class="yCmsComponent">
+<a href="/Caps/Camouflage/c/cap-camouflage" title="Camouflage">Camouflage</a></li><li class="yCmsComponent">
+<a href="/Caps/Safety/c/cap-safety" title="Safety">Safety</a></li><li class="yCmsComponent">
+<a href="/Caps/Racing/c/cap-racing" title="Racing">Racing</a></li><li class="yCmsComponent">
+<a href="/Caps/Full-Brim/c/cap-fullbrim" title="Full Brim">Full Brim</a></li></ul>
+										<ul class="list-unstyled list-vertical">
+											<li class="yCmsComponent">
+<a href="/Caps/Visors/c/cap-visors" title="Visors">Visors</a></li><li class="yCmsComponent">
+<a href="/Caps/Fleece-Beanies/c/cap-fleecebeanies" title="Fleece/Beanies">Fleece/Beanies</a></li><li class="yCmsComponent">
+<a href="/Caps/Twill/c/cap-twill" title="Twill">Twill</a></li><li class="yCmsComponent">
+<a href="/Caps/Scarves-Gloves/c/cap-scarvesgloves" title="Scarves/Gloves">Scarves/Gloves</a></li><li class="yCmsComponent">
+<a href="/Caps/Ladies-Women/c/cap-ladieswomens" title="Ladies/Women">Ladies/Women</a></li><li class="yCmsComponent">
+<a href="/Caps/Youth/c/cap-youth" title="Youth">Youth</a></li><li class="yCmsComponent">
+<a href="/Caps/Flexfit/c/cap-flexfit" title="Flexfit">Flexfit</a></li><li class="yCmsComponent">
+<a href="/Caps/Mesh-Back/c/cap-meshback" title="Mesh Back">Mesh Back</a></li></ul>
+									</div>
+								</div>
+							</li>
+					<li class="">
+							<a href="/Activewear/c/activewear" class="parent" title="Activewear">Activewear</a><div class="submenu">
+									<div class="submenu-content">
+										<h2 class="submenu-heading serif">Activewear</h2>
+										<hr class="">
+										<ul class="list-unstyled d-list-inline m-list-block special-offers">
+												<li class="">
+														<strong class="yCmsComponent">
+<a href="/Activewear/c/activewear#?text=:relevance:styleStatusFlagFacet:NEW" title="New">New</a></strong></li>
+												<li class="item-sale">
+														<strong class="yCmsComponent">
+<a href="/Activewear/c/activewear#?text=:relevance:styleStatusFlagFacet:SALE" title="Sale">Sale</a></strong></li>
+												<li class="">
+														<strong class="yCmsComponent">
+<a href="/Activewear/c/activewear#?text=:relevance:styleStatusFlagFacet:OUTLET" title="Discontinued">Discontinued</a></strong></li>
+												<li class="">
+														<strong class="yCmsComponent">
+<a href="/Activewear/Essentials/c/act-essentials" title="Essentials">Essentials</a></strong></li>
+												</ul>
+											<hr>
+										<ul class="list-unstyled list-vertical">
+											<li class="yCmsComponent">
+<a href="/Activewear/Performance/c/act-performance" title="Performance">Performance</a></li><li class="yCmsComponent">
+<a href="/Activewear/Jerseys/c/act-jerseys" title="Jerseys">Jerseys</a></li><li class="yCmsComponent">
+<a href="/Activewear/Tanks/c/act-tanks" title="Tanks">Tanks</a></li><li class="yCmsComponent">
+<a href="/Activewear/Athletic-Warm-Ups/c/act-athleticwarmups" title="Athletic/Warm-Ups">Athletic/Warm-Ups</a></li><li class="yCmsComponent">
+<a href="/Activewear/Ladies-Women/c/act-ladieswomens" title="Ladies/Women">Ladies/Women</a></li></ul>
+										<ul class="list-unstyled list-vertical">
+											<li class="yCmsComponent">
+<a href="/Activewear/Baseball/c/act-baseball" title="Baseball">Baseball</a></li><li class="yCmsComponent">
+<a href="/Activewear/Basketball/c/act-basketball" title="Basketball">Basketball</a></li><li class="yCmsComponent">
+<a href="/Activewear/Youth/c/act-youth" title="Youth">Youth</a></li><li class="yCmsComponent">
+<a href="/Activewear/Pants-%26-Shorts/c/act-pantsshorts" title="Pants &amp; Shorts">Pants &amp; Shorts</a></li><li class="yCmsComponent">
+<a href="/Activewear/Tall/c/act-tall" title="Tall">Tall</a></li></ul>
+									</div>
+								</div>
+							</li>
+					<li class="">
+							<a href="/Outerwear/c/outerwear" class="parent" title="Outerwear">Outerwear</a><div class="submenu">
+									<div class="submenu-content">
+										<h2 class="submenu-heading serif">Outerwear</h2>
+										<hr class="">
+										<ul class="list-unstyled d-list-inline m-list-block special-offers">
+												<li class="">
+														<strong class="yCmsComponent">
+<a href="/Outerwear/c/outerwear#?text=:relevance:styleStatusFlagFacet:NEW" title="New">New</a></strong></li>
+												<li class="item-sale">
+														<strong class="yCmsComponent">
+<a href="/Outerwear/c/outerwear#?text=:relevance:styleStatusFlagFacet:SALE" title="Sale">Sale</a></strong></li>
+												<li class="">
+														<strong class="yCmsComponent">
+<a href="/Outerwear/c/outerwear#?text=:relevance:styleStatusFlagFacet:OUTLET" title="Discontinued">Discontinued</a></strong></li>
+												<li class="">
+														<strong class="yCmsComponent">
+<a href="/Outerwear/Essentials/c/out-essentials" title="Essentials">Essentials</a></strong></li>
+												</ul>
+											<hr>
+										<ul class="list-unstyled list-vertical">
+											<li class="yCmsComponent">
+<a href="/Outerwear/Soft-Shells/c/out-softshells" title="Soft Shells">Soft Shells</a></li><li class="yCmsComponent">
+<a href="/Outerwear/Polyester-Fleece/c/out-polyesterfleece" title="Polyester Fleece">Polyester Fleece</a></li><li class="yCmsComponent">
+<a href="/Outerwear/Rainwear/c/out-rainwear" title="Rainwear">Rainwear</a></li><li class="yCmsComponent">
+<a href="/Outerwear/3-in-1/c/out-3in1" title="3-in-1">3-in-1</a></li><li class="yCmsComponent">
+<a href="/Outerwear/Athletic-Warm-Ups/c/out-athleticwarmups" title="Athletic/Warm-Ups">Athletic/Warm-Ups</a></li><li class="yCmsComponent">
+<a href="/Outerwear/Vests/c/out-vests" title="Vests">Vests</a></li><li class="yCmsComponent">
+<a href="/Outerwear/Corporate-Jackets/c/out-corporatejackets" title="Corporate Jackets">Corporate Jackets</a></li><li class="yCmsComponent">
+<a href="/Outerwear/Work-Jackets/c/out-workjackets" title="Work Jackets">Work Jackets</a></li></ul>
+										<ul class="list-unstyled list-vertical">
+											<li class="yCmsComponent">
+<a href="/Outerwear/Golf-Outerwear/c/out-golfouterwear" title="Golf Outerwear">Golf Outerwear</a></li><li class="yCmsComponent">
+<a href="/Outerwear/Insulated-Jackets/c/out-insulatedjackets" title="Insulated Jackets">Insulated Jackets</a></li><li class="yCmsComponent">
+<a href="/Outerwear/Camouflage/c/out-camouflage" title="Camouflage">Camouflage</a></li><li class="yCmsComponent">
+<a href="/Outerwear/Ladies-Women/c/out-ladieswomens" title="Ladies/Women">Ladies/Women</a></li><li class="yCmsComponent">
+<a href="/Outerwear/Youth/c/out-youth" title="Youth">Youth</a></li><li class="yCmsComponent">
+<a href="/Outerwear/Tall/c/out-tall" title="Tall">Tall</a></li></ul>
+									</div>
+								</div>
+							</li>
+					<li class="">
+							<a href="/Woven-Shirts/c/wovenshirts" class="parent" title="Woven/Dress Shirts">Woven/Dress Shirts</a><div class="submenu">
+									<div class="submenu-content">
+										<h2 class="submenu-heading serif">Woven/Dress Shirts</h2>
+										<hr class="">
+										<ul class="list-unstyled d-list-inline m-list-block special-offers">
+												<li class="">
+														<strong class="yCmsComponent">
+<a href="/Woven-Shirts/c/wovenshirts#?text=:relevance:styleStatusFlagFacet:NEW" title="New">New</a></strong></li>
+												<li class="item-sale">
+														<strong class="yCmsComponent">
+<a href="/Woven-Shirts/c/wovenshirts#?text=:relevance:styleStatusFlagFacet:SALE" title="Sale">Sale</a></strong></li>
+												<li class="">
+														<strong class="yCmsComponent">
+<a href="/Woven-Shirts/c/wovenshirts#?text=:relevance:styleStatusFlagFacet:OUTLET" title="Discontinued">Discontinued</a></strong></li>
+												<li class="">
+														<strong class="yCmsComponent">
+<a href="/Woven-Shirts/Essentials/c/wov-essentials" title="Essentials">Essentials</a></strong></li>
+												</ul>
+											<hr>
+										<ul class="list-unstyled list-vertical">
+											<li class="yCmsComponent">
+<a href="/Woven-Shirts/Easy-Care/c/wov-easycare" title="Easy Care">Easy Care</a></li><li class="yCmsComponent">
+<a href="/Woven-Shirts/Oxfords/c/wov-oxfords" title="Oxfords">Oxfords</a></li><li class="yCmsComponent">
+<a href="/Woven-Shirts/Workwear/c/wov-workwear" title="Workwear">Workwear</a></li><li class="yCmsComponent">
+<a href="/Woven-Shirts/Denim/c/wov-denim" title="Denim">Denim</a></li><li class="yCmsComponent">
+<a href="/Woven-Shirts/Cotton/c/wov-cotton" title="Cotton">Cotton</a></li><li class="yCmsComponent">
+<a href="/Woven-Shirts/Fishing/c/wov-fishing" title="Fishing">Fishing</a></li></ul>
+										<ul class="list-unstyled list-vertical">
+											<li class="yCmsComponent">
+<a href="/Woven-Shirts/Camp-Shirts/c/wov-campshirts" title="Camp Shirts">Camp Shirts</a></li><li class="yCmsComponent">
+<a href="/Woven-Shirts/Ladies-Women/c/wov-ladieswomens" title="Ladies/Women">Ladies/Women</a></li><li class="yCmsComponent">
+<a href="/Woven-Shirts/Cotton-Poly-Blend/c/wov-cottonpolyblend" title="Cotton/Poly Blend">Cotton/Poly Blend</a></li><li class="yCmsComponent">
+<a href="/Woven-Shirts/100%25-Cotton/c/wov-100cotton" title="100% Cotton">100% Cotton</a></li><li class="yCmsComponent">
+<a href="/Woven-Shirts/Premium-Wovens/c/wov-premiumwovens" title="Premium Wovens">Premium Wovens</a></li><li class="yCmsComponent">
+<a href="/Woven-Shirts/Tall/c/wov-tall" title="Tall">Tall</a></li></ul>
+									</div>
+								</div>
+							</li>
+					<li class="">
+							<a href="/Workwear/c/workwear" class="parent" title="Workwear">Workwear</a><div class="submenu">
+									<div class="submenu-content">
+										<h2 class="submenu-heading serif">Workwear</h2>
+										<hr class="">
+										<ul class="list-unstyled d-list-inline m-list-block special-offers">
+												<li class="">
+														<strong class="yCmsComponent">
+<a href="/Workwear/c/workwear#?text=:relevance:styleStatusFlagFacet:NEW" title="New">New</a></strong></li>
+												<li class="item-sale">
+														<strong class="yCmsComponent">
+<a href="/Workwear/c/workwear#?text=:relevance:styleStatusFlagFacet:SALE" title="Sale">Sale</a></strong></li>
+												<li class="">
+														<strong class="yCmsComponent">
+<a href="/Workwear/c/workwear#?text=:relevance:styleStatusFlagFacet:OUTLET" title="Discontinued">Discontinued</a></strong></li>
+												</ul>
+											<hr>
+										<ul class="list-unstyled list-vertical">
+											<li class="yCmsComponent">
+<a href="/Workwear/Industrial-Work-Shirts/c/wor-industrialworkshirts" title="Industrial Work Shirts">Industrial Work Shirts</a></li><li class="yCmsComponent">
+<a href="/Workwear/Stain-Soil-Resistant/c/wor-stainsoilresistant" title="Stain/Soil Resistant">Stain/Soil Resistant</a></li><li class="yCmsComponent">
+<a href="/Workwear/Industrial-Work-Pants-Shorts/c/wor-industrialworkpantsshorts" title="Industrial Work Pants/Shorts">Industrial Work Pants/Shorts</a></li><li class="yCmsComponent">
+<a href="/Workwear/Work-Jackets/c/wor-workjackets" title="Work Jackets">Work Jackets</a></li></ul>
+										<ul class="list-unstyled list-vertical">
+											<li class="yCmsComponent">
+<a href="/Workwear/Safety/c/wor-safety" title="Safety">Safety</a></li><li class="yCmsComponent">
+<a href="/Workwear/Aprons/c/wor-aprons" title="Aprons">Aprons</a></li><li class="yCmsComponent">
+<a href="/Workwear/Medical-Scrubs/c/wor-medicalscrubs" title="Medical/Scrubs">Medical/Scrubs</a></li><li class="yCmsComponent">
+<a href="/Workwear/Tall/c/wor-tall" title="Tall">Tall</a></li></ul>
+									</div>
+								</div>
+							</li>
+					<li class="">
+							<a href="/Bags/c/bags" class="parent" title="Bags">Bags</a><div class="submenu">
+									<div class="submenu-content">
+										<h2 class="submenu-heading serif">Bags</h2>
+										<hr class="">
+										<ul class="list-unstyled d-list-inline m-list-block special-offers">
+												<li class="">
+														<strong class="yCmsComponent">
+<a href="/Bags/c/bags#?text=:relevance:styleStatusFlagFacet:NEW" title="New">New</a></strong></li>
+												<li class="item-sale">
+														<strong class="yCmsComponent">
+<a href="/Bags/c/bags#?text=:relevance:styleStatusFlagFacet:SALE" title="Sale">Sale</a></strong></li>
+												<li class="">
+														<strong class="yCmsComponent">
+<a href="/Bags/c/bags#?text=:relevance:styleStatusFlagFacet:OUTLET" title="Discontinued">Discontinued</a></strong></li>
+												<li class="">
+														<strong class="yCmsComponent">
+<a href="/Bags/Essentials/c/bag-essentials" title="Essentials">Essentials</a></strong></li>
+												</ul>
+											<hr>
+										<ul class="list-unstyled list-vertical">
+											<li class="yCmsComponent">
+<a href="/Bags/Briefcases-Messengers/c/bag-briefcasesmessengers" title="Briefcases/Messengers">Briefcases/Messengers</a></li><li class="yCmsComponent">
+<a href="/Bags/Backpacks/c/bag-backpacks" title="Backpacks">Backpacks</a></li><li class="yCmsComponent">
+<a href="/Bags/Duffels/c/bag-duffels" title="Duffels">Duffels</a></li><li class="yCmsComponent">
+<a href="/Bags/Travel-Bags/c/bag-travelbags" title="Travel Bags">Travel Bags</a></li><li class="yCmsComponent">
+<a href="/Bags/Golf-Bags/c/bag-golfbags" title="Golf Bags">Golf Bags</a></li><li class="yCmsComponent">
+<a href="/Bags/Coolers-%26-Lunch-Bags/c/bag-coolerslunchbags" title="Coolers &amp; Lunch Bags">Coolers &amp; Lunch Bags</a></li></ul>
+										<ul class="list-unstyled list-vertical">
+											<li class="yCmsComponent">
+<a href="/Bags/Cinch-Packs/c/bag-cinchpacks" title="Cinch Packs">Cinch Packs</a></li><li class="yCmsComponent">
+<a href="/Bags/Totes/c/bag-totes" title="Totes">Totes</a></li><li class="yCmsComponent">
+<a href="/Bags/Grocery-Totes/c/bag-grocerytotes" title="Grocery Totes">Grocery Totes</a></li><li class="yCmsComponent">
+<a href="/Bags/Specialty-Bags/c/bag-specialtybags" title="Specialty Bags">Specialty Bags</a></li><li class="yCmsComponent">
+<a href="/Bags/Rolling-Bags/c/bag-rollingbags" title="Rolling Bags">Rolling Bags</a></li></ul>
+									</div>
+								</div>
+							</li>
+					<li class="">
+							<a href="/Accessories/c/accessories" class="parent" title="Accessories">Accessories</a><div class="submenu">
+									<div class="submenu-content">
+										<h2 class="submenu-heading serif">Accessories</h2>
+										<hr class="">
+										<ul class="list-unstyled d-list-inline m-list-block special-offers">
+												<li class="">
+														<strong class="yCmsComponent">
+<a href="/Accessories/c/accessories#?text=:relevance:styleStatusFlagFacet:NEW" title="New">New</a></strong></li>
+												<li class="item-sale">
+														<strong class="yCmsComponent">
+<a href="/Accessories/c/accessories#?text=:relevance:styleStatusFlagFacet:SALE" title="Sale">Sale</a></strong></li>
+												<li class="">
+														<strong class="yCmsComponent">
+<a href="/Accessories/c/accessories#?text=:relevance:styleStatusFlagFacet:OUTLET" title="Discontinued">Discontinued</a></strong></li>
+												<li class="">
+														<strong class="yCmsComponent">
+<a href="/Accessories/Essentials/c/acc-essentials" title="Essentials">Essentials</a></strong></li>
+												</ul>
+											<hr>
+										<ul class="list-unstyled list-vertical">
+											<li class="yCmsComponent">
+<a href="/Accessories/Blankets/c/acc-blankets" title="Blankets">Blankets</a></li><li class="yCmsComponent">
+<a href="/Accessories/Robes-Towels/c/acc-robestowels" title="Robes/Towels">Robes/Towels</a></li><li class="yCmsComponent">
+<a href="/Accessories/Golf-Towels/c/acc-golftowels" title="Golf Towels">Golf Towels</a></li></ul>
+										<ul class="list-unstyled list-vertical">
+											<li class="yCmsComponent">
+<a href="/Accessories/Aprons/c/acc-aprons" title="Aprons">Aprons</a></li><li class="yCmsComponent">
+<a href="/Accessories/Scarves-Gloves/c/acc-scarvesgloves" title="Scarves/Gloves">Scarves/Gloves</a></li><li class="yCmsComponent">
+<a href="/Accessories/Other/c/acc-other" title="Other">Other</a></li></ul>
+									</div>
+								</div>
+							</li>
+					<li class="">
+							<a href="/Ladies-Women/c/ladieswomens" class="parent" title="Ladies/Women">Ladies/Women</a><div class="submenu">
+									<div class="submenu-content">
+										<h2 class="submenu-heading serif">Ladies/Women's</h2>
+										<hr class="">
+										<ul class="list-unstyled d-list-inline m-list-block special-offers">
+												<li class="">
+														<strong class="yCmsComponent">
+<a href="/Ladies-Women/c/ladieswomens#?text=:relevance:styleStatusFlagFacet:NEW" title="New">New</a></strong></li>
+												<li class="item-sale">
+														<strong class="yCmsComponent">
+<a href="/Ladies-Women/c/ladieswomens#?text=:relevance:styleStatusFlagFacet:SALE" title="Sale">Sale</a></strong></li>
+												<li class="">
+														<strong class="yCmsComponent">
+<a href="/Ladies-Women/c/ladieswomens#?text=:relevance:styleStatusFlagFacet:OUTLET" title="Discontinued">Discontinued</a></strong></li>
+												</ul>
+											<hr>
+										<ul class="list-unstyled list-vertical">
+											<li class="yCmsComponent">
+<a href="/Ladies-Women/T-Shirts/c/lad-tshirts" title="T-Shirts">T-Shirts</a></li><li class="yCmsComponent">
+<a href="/Ladies-Women/Polos-Knits/c/lad-polosknits" title="Polos/Knits">Polos/Knits</a></li><li class="yCmsComponent">
+<a href="/Ladies-Women/Sweatshirts-Fleece/c/lad-sweatshirtsfleece" title="Sweatshirts/Fleece">Sweatshirts/Fleece</a></li><li class="yCmsComponent">
+<a href="/Ladies-Women/Woven-Shirts/c/lad-wovenshirts" title="Woven Shirts">Woven Shirts</a></li></ul>
+										<ul class="list-unstyled list-vertical">
+											<li class="yCmsComponent">
+<a href="/Ladies-Women/Caps/c/lad-caps" title="Caps">Caps</a></li><li class="yCmsComponent">
+<a href="/Ladies-Women/Outerwear/c/lad-outerwear" title="Outerwear">Outerwear</a></li><li class="yCmsComponent">
+<a href="/Ladies-Women/Activewear/c/lad-activewear" title="Activewear">Activewear</a></li><li class="yCmsComponent">
+<a href="/Ladies-Women/Fashion/c/lad-fashion" title="Fashion">Fashion</a></li></ul>
+									</div>
+								</div>
+							</li>
+					<li class="">
+							<a href="/Youth/c/youth" class="parent" title="Youth">Youth</a><div class="submenu">
+									<div class="submenu-content">
+										<h2 class="submenu-heading serif">Youth</h2>
+										<hr class="">
+										<ul class="list-unstyled d-list-inline m-list-block special-offers">
+												<li class="">
+														<strong class="yCmsComponent">
+<a href="/Youth/c/youth#?text=:relevance:styleStatusFlagFacet:NEW" title="New">New</a></strong></li>
+												<li class="item-sale">
+														<strong class="yCmsComponent">
+<a href="/Youth/c/youth#?text=:relevance:styleStatusFlagFacet:SALE" title="Sale">Sale</a></strong></li>
+												<li class="">
+														<strong class="yCmsComponent">
+<a href="/Youth/c/youth#?text=:relevance:styleStatusFlagFacet:OUTLET" title="Discontinued">Discontinued</a></strong></li>
+												</ul>
+											<hr>
+										<ul class="list-unstyled list-vertical">
+											<li class="yCmsComponent">
+<a href="/Youth/T-Shirts/c/you-tshirts" title="T-Shirts">T-Shirts</a></li><li class="yCmsComponent">
+<a href="/Youth/Polos-Knits/c/you-polosknits" title="Polos/Knits">Polos/Knits</a></li><li class="yCmsComponent">
+<a href="/Youth/Sweatshirts-Fleece/c/you-sweatshirtsfleece" title="Sweatshirts/Fleece">Sweatshirts/Fleece</a></li><li class="yCmsComponent">
+<a href="/Youth/Caps/c/you-caps" title="Caps">Caps</a></li></ul>
+										<ul class="list-unstyled list-vertical">
+											<li class="yCmsComponent">
+<a href="/Youth/Activewear/c/you-activewear" title="Activewear">Activewear</a></li><li class="yCmsComponent">
+<a href="/Youth/Outerwear/c/you-outerwear" title="Outerwear">Outerwear</a></li><li class="yCmsComponent">
+<a href="/Youth/Infant-%26-Toddler/c/you-infanttoddler" title="Infant &amp; Toddler">Infant &amp; Toddler</a></li></ul>
+									</div>
+								</div>
+							</li>
+					<li class="">
+							<a href="/sale/outlet/products" title="Outlet">Outlet</a></li>
+					<li class="mega-menu-alternate-background">
+							<a href="http://www.education.sanmar.com/" class="bold" title="SanMar U" target="_blank">SanMar U</a><div class="submenu">
+									<div class="submenu-content">
+										<h2 class="submenu-heading serif">SanMar U</h2>
+										<hr class="mar-b-10">
+										<ul class="list-unstyled list-vertical">
+											<li class="yCmsComponent">
+<a href="http://www.education.sanmar.com/t-shirts/" title="Product Education" target="_blank">Product Education</a></li><li class="yCmsComponent">
+<a href="http://www.education.sanmar.com/decoration-education/" title="Decoration Education" target="_blank">Decoration Education</a></li><li class="yCmsComponent">
+<a href="http://www.education.sanmar.com/fabric-blog/" title="Fabric Blog" target="_blank">Fabric Blog</a></li><li class="yCmsComponent">
+<a href="http://www.education.sanmar.com/podcasts/" title="Podcasts" target="_blank">Podcasts</a></li></ul>
+										<ul class="list-unstyled list-vertical">
+											<li class="yCmsComponent">
+<a href="http://www.education.sanmar.com/webcasts/" title="Webcasts" target="_blank">Webcasts</a></li><li class="yCmsComponent">
+<a href="http://www.education.sanmar.com/displays-how-to/" title="Displays How-To" target="_blank">Displays How-To</a></li><li class="yCmsComponent">
+<a href="http://www.education.sanmar.com/decoration-education/decoration-trends/" title="Decoration Trends" target="_blank">Decoration Trends</a></li></ul>
+									</div>
+								</div>
+							</li>
+					<li class="mega-menu-alternate-background">
+							<a href="#" class="parent"> <strong>Selling Occasions</strong></a>
+								<div class="submenu">
+									<div class="submenu-content">
+										<h2 class="submenu-heading serif"><strong>Selling Occasions</strong></h2>
+										<hr class="mar-b-10">
+										<ul class="list-unstyled list-vertical">
+											<li class="yCmsComponent">
+<a href="/marketing/businessuniforming" title="Business Uniforming">Business Uniforming</a></li><li class="yCmsComponent">
+<a href="/marketing/outerwearguide" title="Outerwear Sales Guide">Outerwear Sales Guide</a></li><li class="yCmsComponent">
+<a href="/marketing/giftgiving" title="Gift Giving Guide">Gift Giving Guide</a></li><li class="yCmsComponent">
+<a href="/marketing/theoutdoorsman" title="For the Outdoorsman">For the Outdoorsman</a></li><li class="yCmsComponent">
+<a href="/marketing/schoolsales" title="School Sales Guide">School Sales Guide</a></li></ul>
+										<ul class="list-unstyled list-vertical">
+											<li class="yCmsComponent">
+<a href="/marketing/golfguide" title="Golf Guide">Golf Guide</a></li><li class="yCmsComponent">
+<a href="/marketing/tshirtguide" title="5 Top T-Shirt Markets">5 Top T-Shirt Markets</a></li><li class="yCmsComponent">
+<a href="/marketing/workwear" title="Workwear Guide">Workwear Guide</a></li><li class="yCmsComponent">
+<a href="/sellingoccasionsarchive" title="Archives">Archives</a></li></ul>
+									</div>
+								</div>
+							</li>
+					</ul>
+		</li>
+<li class="marketing">
+		<a href="/marketing" title="Marketing">Marketing</a><div class="second-lvl-nav flyover marketing">
+	<div class="col-md-4 col-xs-12">
+				<a href="#" class="parent submenu-heading">Marketing Tools</a>
+							<ul class="list-unstyled list-vertical content-submenu">
+                                    <li class="yCmsComponent">
+<a href="/marketing/marketingtools/customwebsites" title="Custom Websites">Custom Websites</a></li><li class="yCmsComponent">
+<a href="/marketing/marketingtools/genericwebsites" title="Generic Websites">Generic Websites</a></li><li class="yCmsComponent">
+<a href="/marketing/marketingtools/designcenter" title="Design Center">Design Center</a></li><li class="yCmsComponent">
+<a href="/marketing/marketingtools/logoizer" title="Logoizer">Logoizer</a></li><li class="yCmsComponent">
+<a href="/marketing/pricelists" class="legacy-btn" title="Price Lists">Price Lists</a></li></ul>
+                            </div>	
+		<div class="col-md-4 col-xs-12">
+				<a href="#" class="parent submenu-heading">Catalogs</a>
+							<ul class="list-unstyled list-vertical content-submenu">
+                                    <li class="yCmsComponent">
+<a href="/c/genericcatalogs" title="Generic Catalogs">Generic Catalogs</a></li><li class="yCmsComponent">
+<a href="/marketing/catalogs/customcatalogs" title="Custom Catalogs">Custom Catalogs</a></li><li class="yCmsComponent">
+<a href="/marketing/catalogs/ecatalogsandpdfs" title="E-Catalogs and PDFs">E-Catalogs and PDFs</a></li></ul>
+                            </div>	
+		<div class="col-md-4 col-xs-12">
+				<h4 class="yCmsComponent submenu-heading">
+<a href="/marketing/medialibrary" title="Media Library">Media Library</a></h4><span class="pad-l-5"><span style="color:#20a135;">Improved</span></span>
+								<br class="hidden-xs">
+                            <h4 class="yCmsComponent submenu-heading">
+<a href="/marketing/samples" title="Samples">Samples</a></h4><br class="hidden-xs">
+                            <h4 class="yCmsComponent submenu-heading">
+<a href="/marketing/displayandhangers" title="Display &amp; Hangers">Display &amp; Hangers</a></h4><br class="hidden-xs">
+                            </div>	
+		</div>
+</li>
+<li class="resources">
+		<a href="/resources" title="Resources">Resources</a><div class="second-lvl-nav flyover resources">
+	<div class="col-md-4 col-xs-12">
+				<a href="#" class="parent submenu-heading">Become a Customer</a>
+							<ul class="list-unstyled list-vertical content-submenu">
+                                    <li class="yCmsComponent">
+<a href="/signup/customer" title="New Customer Signup">New Customer Signup</a></li><li class="yCmsComponent">
+<a href="/resources/newcustomer/creditapp" title="Credit Application">Credit Application</a></li><li class="yCmsComponent">
+<a href="/resalecertificate" title="Resale Certificate">Resale Certificate</a></li><li class="yCmsComponent">
+<a href="/signup/webuser" title="New Web User">New Web User</a></li></ul>
+                            <a href="#" class="parent submenu-heading">Locations / Shipping</a>
+							<ul class="list-unstyled list-vertical content-submenu">
+                                    <li class="yCmsComponent">
+<a href="/resources/locationsshipping/warehouses" title="Warehouses">Warehouses</a></li><li class="yCmsComponent">
+<a href="/resources/shipping-cutoff-times" title="Shipping Cutoff Times">Shipping Cutoff Times</a></li><li class="yCmsComponent">
+<a href="/resources/locationsshipping/carriers" title="Carriers">Carriers</a></li></ul>
+                            <a href="#" class="parent submenu-heading">Product Materials</a>
+							<ul class="list-unstyled list-vertical content-submenu">
+                                    <li class="yCmsComponent">
+<a href="/resources/productmaterials/glossary" title="Glossary of Terms">Glossary of Terms</a></li><li class="yCmsComponent">
+<a href="/resources/productmaterials/sizeandfit" title="Size &amp; Fit">Size &amp; Fit</a></li><li class="yCmsComponent">
+<a href="/resources/productmaterials/productreferencetools" title="Product Reference Tools">Product Reference Tools</a></li></ul>
+                            </div>	
+		<div class="col-md-4 col-xs-12">
+				<a href="#" class="parent submenu-heading">Compliance</a>
+							<ul class="list-unstyled list-vertical content-submenu">
+                                    <li class="yCmsComponent">
+<a href="/resources/compliance/productsafety" title="Product Safety">Product Safety</a></li><li class="yCmsComponent">
+<a href="#" class="legacy-btn" title="CPSIA Certificates" data-legacy="cpsia">CPSIA Certificates</a></li><li class="yCmsComponent">
+<a href="/resources/compliance/factorymonitoring" title="Factory Monitoring">Factory Monitoring</a></li></ul>
+                            <a href="#" class="parent submenu-heading">Electronic Integration</a>
+							<ul class="list-unstyled list-vertical content-submenu">
+                                    <li class="yCmsComponent">
+<a href="/resources/electronicintegration/integrationofferings" title="Integration Offerings">Integration Offerings</a></li><li class="yCmsComponent">
+<a href="/resources/electronicintegration/sanmardatalibrary" title="SanMar Data Library">SanMar Data Library</a></li></ul>
+                            <a href="#" class="parent submenu-heading">Reference</a>
+							<ul class="list-unstyled list-vertical content-submenu">
+                                    <li class="yCmsComponent">
+<a href="/resources/reference/brands" title="Brands">Brands</a></li><li class="yCmsComponent">
+<a href="/resources/reference/industrylinks" title="Industry Links">Industry Links</a></li><li class="yCmsComponent">
+<a href="/resources/reference/tradeshowschedule" title="Tradeshow Schedule">Tradeshow Schedule</a></li></ul>
+                            </div>	
+		<div class="col-md-4 col-xs-12">
+				<a href="#" class="parent submenu-heading">Education</a>
+							<ul class="list-unstyled list-vertical content-submenu">
+                                    <li class="yCmsComponent">
+<a href="http://www.education.sanmar.com/" title="SanMar U" target="_blank">SanMar U</a></li><li class="yCmsComponent">
+<a href="http://www.education.sanmar.com/podcasts/" title="Podcasts" target="_blank">Podcasts</a></li><li class="yCmsComponent">
+<a href="http://www.education.sanmar.com/webcasts/" title="Webcasts" target="_blank">Webcasts</a></li></ul>
+                            <a href="#" class="parent submenu-heading">Trends</a>
+							<ul class="list-unstyled list-vertical content-submenu">
+                                    <li class="yCmsComponent">
+<a href="/resources/trends/stylenetwork/outerlimits" title="The Style Network">The Style Network</a></li><li class="yCmsComponent">
+<a href="/resources/trends/stylenetwork/trendarchive" title="Archives">Archives</a></li></ul>
+                            <a href="#" class="parent submenu-heading">Services</a>
+							<ul class="list-unstyled list-vertical content-submenu">
+                                    <li class="yCmsComponent">
+<a href="/resources/services/customapparel" title="Custom Apparel">Custom Apparel</a></li><li class="yCmsComponent">
+<a href="/resources/services/uniformingservices" title="Uniforming Services">Uniforming Services</a></li><li class="yCmsComponent">
+<a href="/resources/decorator-relations" title="Decorator Relations">Decorator Relations</a></li><li class="yCmsComponent">
+<a href="/resources/services/sportinggoods" title="Sporting Goods">Sporting Goods</a></li></ul>
+                            </div>	
+		</div>
+</li>
+<li class="sale">
+		<a href="/sale" title="Sale">Sale</a><div class="second-lvl-nav sale flyover">
+				<div class="col-xs-12 col-md-12">
+					<ul class="list-unstyled d-list-inline m-list-block special-offers">
+						<li class="">
+									<strong class="yCmsComponent">
+<a href="/sale/outlet/products" title="Outlet">Outlet</a></strong></li>
+							<li class="item-sale">
+									<strong class="yCmsComponent">
+<a href="/sale/products" title="Sale">Sale</a></strong></li>
+							<li class="">
+									<strong class="yCmsComponent">
+<a href="/sale/valuebasics" title="Value Basics">Value Basics</a></strong></li>
+							</ul>
+					<hr>
+					<a href="#" class="submenu-heading full-width" id="sale-menu">Lowest Priced White Tees</a>
+						<ul class="list-unstyled list-inline list-products sale-list-items">
+							<li class="col-md-12 col-xs-12 list-items">
+									<a class="pad-5 sale-info" href="/p/3985_White">
+									<div class="col-xs-2 product-size-container">
+											<span class="product-size"><strong>5.5 oz.</strong></span>
+										</div>
+										<div class="col-xs-3">
+											<img class="img-responsive" alt="" src="//cdnp.sanmar.com/medias/sys_master/images/images/h83/h4d/8851375521822/3985-White-1-PC54WhiteModelFront-90W.jpg">
+										</div>
+										<div class="col-xs-6 pad-r-0">
+											<span class="product-name"><strong>PC54</strong></span>
+											<span class="product-name">Port &amp; Company<sup>®</sup> - Core Cotton Tee</span><br>
+											</div>
+									</a>
+								</li>
+							<li class="col-md-12 col-xs-12 list-items">
+									<a class="pad-5 sale-info" href="/p/1626_White">
+									<div class="col-xs-2 product-size-container">
+											<span class="product-size"><strong>50/50</strong></span>
+										</div>
+										<div class="col-xs-3">
+											<img class="img-responsive" alt="" src="//cdnp.sanmar.com/medias/sys_master/images/images/h8f/h63/8828362194974/1626-White-1-PC55WhiteModelFront-90W.jpg">
+										</div>
+										<div class="col-xs-6 pad-r-0">
+											<span class="product-name"><strong>PC55</strong></span>
+											<span class="product-name">Port &amp; Company<sup>®</sup> - Core Blend Tee</span><br>
+											</div>
+									</a>
+								</li>
+							<li class="col-md-12 col-xs-12 list-items">
+									<a class="pad-5 sale-info" href="/p/1634_White">
+									<div class="col-xs-2 product-size-container">
+											<span class="product-size"><strong>6.1 oz.</strong></span>
+										</div>
+										<div class="col-xs-3">
+											<img class="img-responsive" alt="" src="//cdnp.sanmar.com/medias/sys_master/images/images/h87/hb5/8852056506398/1634-White-1-PC61WhiteModelFront-90W.jpg">
+										</div>
+										<div class="col-xs-6 pad-r-0">
+											<span class="product-name"><strong>PC61</strong></span>
+											<span class="product-name">Port &amp; Company<sup>®</sup> - Essential Tee</span><br>
+											</div>
+									</a>
+								</li>
+							<li class="col-md-12 col-xs-12 list-items">
+									<a class="pad-5 sale-info" href="/p/7449_White">
+									<div class="col-xs-2 product-size-container">
+											<span class="product-size"><strong>Ring Spun</strong></span>
+										</div>
+										<div class="col-xs-3">
+											<img class="img-responsive" alt="" src="//cdnp.sanmar.com/medias/sys_master/images/images/h42/ha0/8822382362654/7449-White-1-PC450WhiteModelFront-90W.jpg">
+										</div>
+										<div class="col-xs-6 pad-r-0">
+											<span class="product-name"><strong>PC450</strong></span>
+											<span class="product-name">Port &amp; Company<sup>®</sup> Fan Favorite™  Tee</span><br>
+											</div>
+									</a>
+								</li>
+							</ul>
+						<br>
+					</div>
+			</div>
+		</li>
+<li class="yCmsContentSlot search hidden-xs ">
 <script type="text/javascript">
-_tag.dcsCollect();
+ 	function setSearchBoxSearch() {
+		var http = new XMLHttpRequest();
+		var url = '/search/setSearchBoxSearch?searchBoxSearch=true';
+		http.open('GET', url, false);		
+		http.send();
+ 	}
 </script>
-<noscript>
-<div><img alt="DCSIMG" id="DCSIMG" width="1" height="1" src="http://wt.sanmar.com/dcsairxqntlbtj3wwflz3plo1_4d5g/njs.gif?dcsuri=/nojavascript&amp;WT.js=No&amp;WT.tv=8.6.0"/></div>
-</noscript>
-<!-- END OF SmartSource Data Collector TAG -->
-<!-- script type="text/javascript" src="/scripts/autocompleter.js"></script -->
+
+<form name="search_form" method="get" action="/search/" class="form-horizontal search-form col-xs-12 pull-right clearfix" onsubmit="setSearchBoxSearch()">
+	<div class="form-group search-form-icon">
+		<label class="sr-only control-label" for="main-search">Search</label>
+		<div class="col-xs-12 pad-0">
+				<input id="main-search" class="form-control main-search pull-right js-site-search-input" type="text" name="text" value="" maxlength="100" placeholder="Search for Products, Stock or Pricing" data-options="{&quot;autocompleteUrl&quot; : &quot;/search/autocomplete/SearchBox&quot;,&quot;minCharactersBeforeRequest&quot; : &quot;1&quot;,&quot;waitTimeBeforeRequest&quot; : &quot;500&quot;,&quot;displayProductImages&quot; : true}">
+					<span class="fa fa-search fa-lg fa-light-gray main-search-icon"></span>
+			</div>
+		</div>
+</form>
+
+</li></ul>
+</div>
+		</div>
+	</div>
+	</nav>
 
 
 
 
 </div>
+        <!-- start of Mobile navigation component - Homepage only -->
+        <!-- end of Mobile navigation component - Homepage only -->
+        <div class="container main-content" id="content">
+            <div id="breadcrumb">
+			<div class="row">
+	<div class="col-md-12 sm-full-width-wrapper">
+		<ol class="breadcrumb sm-full-width-inner">
+			
+			<li><a href="/">Home</a></li>
+			
+			<li class="active">
+						Privacy Policy</li>
+				</ol>
+	</div>
+</div>
+</div>
+		<div class="row sidebar-background">
+			<div class="col-md-10 col-xs-12 pull-right">
+				<div class="col-xs-12 col-md-12 row">
+    <h1 class="serif pad-b-10">Privacy Policy</h1>
+</div><div class="col-xs-12 col-md-12 mar-b-20 row">
+					<div class="content"><p><style type="text/css">
+	.privacy-policy h4 {
+		margin: 10px 0 0 0;
+	}
+</style></p>
+<p>SanMar Corporation promises to protect the personal information given to us by our customers, website visitors and information included in our mailing lists.</p>
+<h4>COLLECTION AND USE OF INFORMATION</h4>
+<p>SanMar collects personal data that you voluntarily provide to us. This might include your name, the name of your business, your address, phone number, e-mail address and other similar information that we need to provide services to our customers. We also analyze our website logs to constantly improve the value of our website to our visitors. This includes page views, unique views, unique visitors, repeat visitors, frequency of visits, and peak volume traffic periods. In our use of this service we do not gather, request, record, require, collect, or track any internet users' personally identifiable information. Additionally, we may gather personal information from you if you apply for employment with SanMar.  Unless required by law, SanMar retains personal information only for as long as necessary to allow us to accomplish the purposes for which we collect it.</p>
+<h4>USE OF COOKIES</h4>
+<p>Cookies are small data files that are downloaded onto your computer when you visit our site that automatically identify your browser to our server whenever you interact with our site. We link the cookies to your personally identifiable information on our servers but no personal information is stored in the cookies themselves. We use cookies to track your use of our site and to authenticate users when signing in. We do not share cookies with any other site. You may deactivate cookies in your browser at any time if you do not want to use cookies. Cookies are not required to visit SanMar.com.</p>
+<h4>DISCLOSURE OF INFORMATION</h4>
+<p>SanMar does not sell, rent, loan, trade or lease personal information shared to our representatives, collected on our website or included in our email lists to any third party. We will only use the personal information that you provide for the reason that you provided it to SanMar. For example, if you provide us with a shipping address we may use that personal information to create a shipping label.  We may also share certain personal information with vendors or service providers that SanMar uses to service its customers.  For example, a shipping address may be shared with the carrier used to deliver the package to you. SanMar may also share your personal information with vendors that help us provide you with services and help us provide you with an excellent customer experience. SanMar’s third party vendors only have access to your personal data for a short period of time. SanMar makes best efforts to be sure that its vendors are contractually obligated to carefully handle data received from SanMar and to delete it after a reasonable period of time.</p>
+<h4>INFORMATION UPDATES AND OPTING OUT</h4>
+<p>Information updates to your account or changes to your personal information will be made at your request. SanMar makes commercially reasonable efforts to ensure that all data, including your personal information, is accurate.  You may unsubscribe from SanMar's promotional and marketing e-mail lists at any time. Unsubscribe links are provided in all promotional and marketing e-mails. You may also unsubscribe by calling Customer Service Toll Free at (800) 426-6399, emailing us at <a href="mailto:sales@sanmar.com">sales@sanmar.com</a> or by writing us at E-Mail Privacy Policy Team c/o Customer Service, SanMar Corporation, 22833 SE Black Nugget Rd., Suite 130, Issaquah, WA 98029. You may also use these contacts to close your account at any time. Please note that personal information may be retained after you close your account to allow us to meet our obligations to you, resolve problems and meet applicable legal requirements.</p>
+<h4>DATA SECURITY</h4>
+<p>We take precautions to protect your data from loss, misuse, unauthorized access or disclosure, alteration or destruction.</p>
+<h4>GDPR RIGHTS</h4>
+<p>European Union data subjects have certain rights related to personal information under the EU General Data Protection Regulation.  If you qualify, it is your right to request (a) access to your personal information; (b) data correction to your personal information is incorrect or incomplete; (c) object to SanMar’s use of your personal information because there is a strong legitimate reason that we should not process your personal information that is unique to you; or (d) SanMar’s deletion of your personal information. If you provided us with consent related to your personal data, you can withdraw that consent at any time. You may also unsubscribe from promotional and marketing e-mails at any time by contacting SanMar.</p>
+<h4>DATA SECURITY</h4>
+<p>We take precautions to protect your data from loss, misuse, unauthorized access or disclosure, alteration or destruction. Please note that our data security precautions are not a guarantee that that data will not be subject to unauthorized access, disclosure or destruction if our safety precautions are breached. Electronic disclosure of personal information may not always be secure or error free and SanMar is not responsible for disclosures that happen due to transmission errors or unauthorized interception of electronic communication.  We may reach out to you electronically if we discover a data security breach. Sharing personal information with us or using SanMar.com is your agreement that we can contact you electronically to share information related to privacy and information on data security so that you can take steps to protect your information. You may also be entitled to receive written notice of a security breach under your local law.</p>
+<h4>ENFORCEMENT</h4>
+<p>If for any reason you believe that SanMar has not adhered to these privacy principles or you wish to object to or withdraw previously provided consent to process your personal information, please notify us by e-mail at <a href="mailto:customertechsupport@sanmar.com">customertechsupport@sanmar.com</a> and we will endeavor to review and promptly correct the problem. Please use the words 'Privacy Policy' in the subject line.</p>
+<h4>EXTERNAL LINKS</h4>
+<p>This website provides links to various websites that SanMar does not control. When you click on one of these links, you will be transferred out of our website and connected to the website of the organization or company that you selected. Even if an affiliation exists between our website and a third party website, we exercise no control over linked sites. Each of these linked sites maintains its own independent privacy and data collection practices and procedures. If you visit a website that is linked to our site, you should consult that site's privacy policy before providing any personal information.</p>
+<h4>INTERNATIONAL INFORMATION TRANSFERS</h4>
+<p>Any personally identifiable information that you provide to SanMar will be collected directly on servers located in the United States and maintained on servers located in the United States. If you are located outside the United States, this means that any information you provide will be transferred abroad. While SanMar is committed to providing your information with the highest level of privacy protection, we believe you should know that the general level of protection for personal information in the United States may not be the same as that provided in other countries, including those that belong to the European Economic Area.</p>
+<h4>TERMS AND MODIFICATIONS TO PRIVACY POLICY</h4>
+<p>By using this website, you signify your agreement to the terms of our privacy policy. If you do not agree with these terms, please do not disclose any personal information through this site. SanMar may modify this privacy policy at any time at its discretion and modifications are effective upon being posted on this site. You are responsible for reviewing this privacy policy periodically to ensure that you are aware of any changes to it.</p>
+<p>If you have any questions or concerns regarding privacy on the SanMar website, please contact us at <a href="mailto:customertechsupport@sanmar.com">customertechsupport@sanmar.com</a>.  If you wish to speak to SanMar’s Data Protection Officer, please contact:</p>
+<p>Name: Paul Harvey <br>
+Title: Senior Manager, Information Technology Infrastructure Services  <br>
+Phone: 800.346.3369 ext.5688 <br>
+E-mail: <a href="mailto:paulharvey@sanmar.com">paulharvey@sanmar.com</a></p>
+<p>This policy was last updated on May 25, 2018</p></div></div>
+			</div>
+			<div class="sidebar col-md-2 col-xs-12 pull-left clearfix">
+				<div>
+		<h2 class="headline">About Us</h2>
+		<ul class="list-unstyled">
+			<section>
 
+					<h4 class="yCmsComponent">
+<a href="/aboutus/corporateresponsibility" class="bold" title="Corporate Responsibility">Corporate Responsibility</a></h4><li class="yCmsComponent  ">
+<a href="/aboutus/corporateresponsibility/letterfromjeremy" title="Letter from Jeremy">Letter from Jeremy</a></li><li class="yCmsComponent  ">
+<a href="/aboutus/corporateresponsibility/people" title="People">People</a></li><li class="yCmsComponent  ">
+<a href="/aboutus/corporateresponsibility/product" title="Product">Product</a></li><li class="yCmsComponent  ">
+<a href="/aboutus/corporateresponsibility/planet" title="Planet">Planet</a></li><li class="yCmsComponent  ">
+<a href="/aboutus/corporateresponsibility/spotlight" title="Spotlight">Spotlight</a></li></section>
+			<section>
+
+					<h4></h4>
+						<li class="yCmsComponent  ">
+<a href="/aboutus/careers" class="bold" title="Careers">Careers</a></li><li class="yCmsComponent  ">
+<a href="/aboutus/press" class="bold" title="Press">Press</a></li><li class="yCmsComponent  ">
+<a href="/aboutus/history" class="bold" title="History">History</a></li><li class="yCmsComponent  ">
+<a href="/contactus" class="bold" title="Contact Us">Contact Us</a></li><li class="yCmsComponent  ">
+<a href="/aboutus/termsandconditions" class="bold" title="Terms and Conditions">Terms and Conditions</a></li><li class="yCmsComponent  ">
+<a href="/aboutus/meetourleaders" class="bold" title="Meet Our Leaders">Meet Our Leaders</a></li></section>
+			</ul>
+	</div>
+</div>
+		</div>
+		</div>
+        <div id="footer">
+            <div class="yCmsContentSlot footer">
+<div class="content"><div class="main-footer">
+<div class="footer-bg">
+<div class="container">
+<div class="row">
+<div class="col-md-12 clearfix main-nav">
+<div class="footer-links clearfix">
+<ul class="links clearfix col-md-9">
+    <li><a title="About SanMar" href="/aboutus"><span class="fa fa-angle-right"> </span>About SanMar</a></li>
+    <li><a title="Terms of Use" href="/aboutus/termsandconditions"><span class="fa fa-angle-right"> </span>Terms of Use</a></li>
+    <li><a title="Privacy Policy" href="/aboutus/privacypolicy"><span class="fa fa-angle-right"> </span>Privacy Policy</a></li>
+    <li><a title="Product Recalls" href="/aboutus/productrecalls"><span class="fa fa-angle-right"> </span>Product Recalls</a></li>
+    <li><a title="Contact Us" href="/contactus"><span class="fa fa-angle-right"> </span>Contact Us</a></li>
+    <li><a title="Careers at SanMar" href="/aboutus/careers"><span class="fa fa-angle-right"> </span>Careers</a></li>
+    <li><a title="Supply Chain Disclosure" href="/resources/compliance/factorymonitoring#supplychain"><span class="fa fa-angle-right"> </span>Supply Chain Disclosure</a></li>
+</ul>
+<ul class="social clearfix col-md-3">
+    <li><a target="_blank" href="http://www.facebook.com/pages/SanMar/126332147784?ref=ts" title="Facebook"><span class="fa fa-facebook fa-2x"> </span></a></li>
+    <li><a target="_blank" href="https://twitter.com/sanmar_corp" title="Twitter"><span class="fa fa-twitter fa-2x"> </span></a></li>
+    <li><a target="_blank" href="https://www.instagram.com/sanmar_corp/" title="Instagram"><span class="fa fa-instagram fa-2x"> </span></a></li>
+    <li><a target="_blank" href="https://www.pinterest.com/sanmar_corp/" title="Pinterest"><span class="fa fa-pinterest fa-2x"> </span></a></li>
+    <li><a target="_blank" href="https://www.youtube.com/user/SanMarVideos" title="YouTube"><span class="fa fa-youtube fa-2x"> </span></a></li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="container">
+<div class="footer-copyright clearfix">Copyright © <span class="sanmar-current-year">2018</span>&nbsp;SanMar Corp. All rights reserved.</div>
+</div>
+</div></div></div><div class="content-for-email"></div></div>
+        <div id="print-section"></div>
+    <div id="ariaStatusMsg" class="skip" role="status" aria-relevant="text" aria-live="polite"></div>
+		<script src="//cdnp.sanmar.com/_ui/responsive/common/js/jquery-2.2.4.min.js?v=-1410263898" integrity="sha384-rY/jv8mMhqDabXSo+UCggqKtdmBfd3qC2/KvyTDNQ6PcUJXaxK1tMepoQda4g5vB" crossorigin="anonymous"></script>
+
+<script type="text/javascript">
+	var ACC = {};
+</script>
+
+<script type="text/javascript">
+		/*<![CDATA[*/
+		
+		var ACC = { config: {}, regex: {}, validationCommon: {}, validationRequired: {}, validationIncorrect:{} };
+			ACC.config.contextPath = "";
+			ACC.config.encodedContextPath = "";
+			ACC.config.commonResourcePath = "//cdnp.sanmar.com/_ui/responsive/common";
+			ACC.config.themeResourcePath = "//cdnp.sanmar.com/_ui/responsive/theme-blue";
+			ACC.config.siteResourcePath = "//cdnp.sanmar.com/_ui/responsive/site-sanmar";
+			ACC.config.language = "";
+			ACC.config.rootPath = "/_ui/responsive";
+			ACC.config.CSRFToken = "d1a3afb6-fbeb-417e-90c6-df7439371d16";
+			ACC.config.smartystreetkey = "";
+			ACC.config.legacyUrl = "https://marketing.sanmar.com";
+
+			ACC.forgottenPwdSuccessMessage = 'You have been sent an email with a link to change your password.';
+			ACC.invalidforgottenPwdError = 'Invalid Username, Please try again.';
+			ACC.savedShoppingBoxSuccess = 'Your Shopping Box has been saved successfully';
+			ACC.savedShoppingBoxError = 'Your Shopping Box could not have been saved, please try again';
+			ACC.savedShoppingNameError = 'Shopping Box by that name is already existing';
+			ACC.savedShoppingBoxDataError = 'Replace option is not selected or saved shopping box is not entered';
+
+			ACC.shoppingBoxBackOrderDecreasedValidation = '\u003Cspan\u003ESince this quantity is associated with a backorder, we had to reduce your backorder quantity instead.\u003Ca href=\'#\' data-dismiss=\'popover\' class=\'close\'\u003E\u003Cspan class=\'fa fa-times pull-left\'\u003E\u003C\/span\u003E\u003C\/a\u003E\u003C\/span\u003E';
+			ACC.shoppingBoxBackOrderIncreasedValidation = '\u003Cspan\u003ESince this quantity is associated with a backorder, we had to increase your backorder quantity instead.\u003Ca href=\'#\' data-dismiss=\'popover\' class=\'close\'\u003E\u003Cspan class=\'fa fa-times pull-left\'\u003E\u003C\/span\u003E\u003C\/a\u003E\u003C\/span\u003E';
+			ACC.shoppingBoxEmpty = 'Your shopping box is empty';
+			ACC.shoppingBoxBackOrderUpdated = '\u003Cp\u003EYour backorder quantity has been amended. \u003Ca href=\'#\' data-dismiss=\'popover\' class=\'close\'\u003E\u003Cspan class=\'fa fa-times pull-left\'\u003E\u003C\/span\u003E\u003C\/a\u003E\u003C\/p\u003E';
+			ACC.shoppingBoxPromoCodeValid = 'Promotional code has been successfully applied.'; 
+			ACC.shoppingBoxQtyUpdateSuccess = 'Your shopping box was successfully updated';
+			
+			ACC.shippingAdressNoSavedAddresses = 'No Saved Addresses Found';
+			ACC.shippingAdressAddNewAddressTitle = 'Add New Address';
+			ACC.shippingAdressShippingAddressTitle = 'Shipping Address';
+			ACC.shippingAdressEditAddressTitle = 'View address';
+			
+			ACC.carrierAccountsAddNewAccountTitle = 'Add New Account';
+			ACC.carrierAccountsEditAccountTitle = 'Edit Account';
+			ACC.carrierAccountDeleteError = 'System Error. Unfortunately we are unable to access the requested records at this time. Please try again.';
+			ACC.carrierAccountDeleteSuccess = 'The selected Carrier Account has been successfully deleted .';
+			
+			ACC.shipAndPayCarrierAccountCheckboxLabel = 'I would like to use my carrier account';
+			ACC.shipAndPayAddModalTitle = 'Add New Carrier Account';
+			ACC.shipAndPayEditModalTitle = 'Edit Carrier Account';
+
+			ACC.productListingEmailPriceStartsAt = 'Starting at';
+			ACC.productListingEmailCallForPrice = 'Call for pricing';
+			ACC.productListingSendEmailNoProductsError = 'Error while sending email. You need to add at least 1 product.';
+
+			ACC.checkInventoryAddToShoppingBox = 'There is nothing to submit';
+			ACC.checkInventoryProceedToCheckout = 'Your shopping box is empty';
+			ACC.checkInventoryAddToShoppingBoxServerError = 'An error occured while adding items to shopping box';
+			ACC.creditcardUpdateErrormsg='An error has occurred while updating payment card details';
+			
+
+			// ---------------------
+			// VALIDATION MESSAGING 
+			// ---------------------
+						
+			ACC.validationCommon.maxLength ='Maximum length is 255 characters';
+			ACC.validationCommon.maxLengthCity='Maximum length is 28 characters';
+			ACC.validationCommon.maxLengthNames ='Maximum length is 120 characters';
+			ACC.validationCommon.maxLengthEmail ='Maximum length is 105 characters.';
+			ACC.validationCommon.maxLengthEmailMultipleAddresses = 'Email must not be longer than 525 characters.';
+			ACC.validationCommon.maxLengthZip ='Maximum length is 10 characters';
+			ACC.validationCommon.maxLengthPassword ='The password must be between 7 and 28 characters';
+			ACC.validationCommon.maxlengthMessage ='Maximum length is 1000 characters';
+			ACC.validationCommon.maxlengthUsername ='The username must be between 6 and 28 characters';
+			ACC.validationCommon.maxlengthUsernameMinValue ='';
+			ACC.validationCommon.maxlengthBirthday ='Maximum length is 8 characters';
+			ACC.validationCommon.maxlengthCardNumber ='Maximum length is 16 characters';
+			ACC.validationCommon.maxlengthState ='Maximum length of state is 2 characters';
+			ACC.validationCommon.maxlengthCountry ='Maximum length of country is 2 characters';
+			ACC.validationCommon.maxlengthShoppingBox ='Maximum length is 200 characters';
+			ACC.validationCommon.maxLengthComments ='';
+			ACC.validationCommon.maxlengthOrderHistorySearch = 'Maximum length is 50 characters';
+			ACC.validationCommon.maxlengthEmailMessage = 'Maximum is 1000 characters';
+			ACC.validationCommon.maxlengthDate ='Maximum length is 10 characters';
+			ACC.validationCommon.fieldRequired ='This field is required.';
+			ACC.validationCommon.maxLengthAttention ='Maximum length is 35 characters';
+			ACC.validationCommon.maxLengthNamesAddress ='Maximum length is 28 characters';
+			ACC.validationCommon.maxLengthAddressLine ='Maximum length is 35 characters.';
+        	ACC.validationCommon.maxlengthCustomerPo ='Maximum length is 28 characters.';
+			ACC.validationCommon.maxLengthEventSummary ='Maximum length is 4000 characters';
+			ACC.validationCommon.maxlengthCardName ='Maximum length is 61 characters';
+			ACC.validationCommon.maxLengthLogoizerTextLogos = 'A maxmimum of 3 text logos are allowed';
+			ACC.validationCommon.maxLengthcarrieraccountnumups = 'Maximum and Minimum length for UPS Account Number is 6 characters';
+			ACC.validationCommon.maxLengthcarrieraccountnumfedex = 'FedEx Account Number must consist of 9 digits';
+			ACC.validationCommon.maxLengthAccountNumber = '';
+			ACC.validationCommon.maxThirdPartyBillingPoNumLength = 'Maximum length is 12 characters';
+			ACC.validationCommon.maxLengthcarrieraccountcontact = 'Maximum length is 28 characters';
+			ACC.validationCommon.maxLengthcarrieraccountname = 'Maximum length is 28 characters';
+			
+			ACC.validationRequired.eventSummary='Event Summary is required.';
+			ACC.validationRequired.companyName ='Company Name is required.';
+			ACC.validationRequired.ownerName ='Owner name is required.';
+			ACC.validationRequired.contact ='Contact is required.';
+			ACC.validationRequired.natureOfBusiness ='Nature of business is required.';
+			ACC.validationRequired.addressLine ='Address is required.';
+			ACC.validationRequired.city ='City name is required.';
+			ACC.validationRequired.zip ='ZIP code is required.';
+			ACC.validationRequired.country ='Country is required.';
+			ACC.validationRequired.phone ='Phone number is required.';
+			ACC.validationRequired.personalPhone ='Personal Phone number is required.';
+			ACC.validationRequired.businessPhone ='Business phone number is required.';
+			ACC.validationRequired.fax ='Fax is required.';
+			ACC.validationRequired.stateResaleLicense ='State Resale License # for Garment Industry is required.';
+			ACC.validationRequired.website ='';
+			ACC.validationRequired.email ='Email address is required.';
+			ACC.validationRequired.name ='Name is required.';
+			ACC.validationRequired.logoizerText ='Logoizer Text is required.';
+			ACC.validationRequired.subject ='Subject line is required.';
+			ACC.validationRequired.appSuite ='App\/Suite is required.';
+			ACC.validationRequired.isResidence ='You must select an option';
+			ACC.validationRequired.saveCard ='Save Card Name is required.';
+			ACC.validationRequired.cardNumber ='Card Number is required.';
+			ACC.validationRequired.cardName ='Card Name is required.';
+			ACC.validationRequired.cardType ='Card Type is required.';
+			ACC.validationRequired.expireMonth ='Expire Month is required.';
+			ACC.validationRequired.expireYear ='Expire Year is required.';
+			ACC.validationRequired.birthday ='Date of Birth is required.';
+			ACC.validationRequired.accountNumber ='Account Number is required.';
+			ACC.validationRequired.password ='Password is required.';
+			ACC.validationRequired.username ='Username is required.';
+			ACC.validationRequired.styleNumber ='Style number is required.';
+			ACC.validationRequired.shoppingBoxName = 'The Shopping Box name is required';
+			ACC.validationRequired.shoppingBoxOption = 'You must select an option';
+			ACC.validationRequired.merchandiseQty = 'Merchandise quantity is required.';
+			ACC.validationRequired.formatStatement = 'You must select a statement format before proceeding';
+			ACC.validationRequired.formatStatement = '';
+			ACC.validationRequired.contactUsOptions ='Subject is required.';
+			ACC.validationRequired.emailMessage ='Message is Required';
+			ACC.validationRequired.date='Event date should not be empty.';
+			ACC.validationRequired.eventName='Event Name is required.';
+			ACC.validationRequired.state='State name is required.';
+			ACC.validationRequired.paymentMethod ='Payment Method is required.';
+			ACC.validationRequired.jobTitle = 'Title is required.';
+			ACC.validationRequired.agreeToTerms = 'Click to Agree is required.';
+			ACC.validationRequired.carrier = 'Carrier name is required';
+			ACC.validationRequired.carrieraccountnum = 'Carrier Account Number is required';
+
+			ACC.validationIncorrect.companyName ='Company name should only contain letters, numbers, dots, hyphens and apostrophes.';
+			ACC.validationIncorrect.eventName ='Event name should only contain letters, numbers, dots, hyphens and apostrophes.';
+			ACC.validationIncorrect.ownerName ='Owner name should only contain letters, hyphens, dots and apostrophes.';
+			ACC.validationIncorrect.contact ='Contact should only contain letters, hyphens, dots and apostrophes.';
+			ACC.validationIncorrect.otherNatureOfBusiness ='Other nature of business should only contain letters.';
+			ACC.validationIncorrect.addressLine ='Address line must not start with dot and can only contain letters, numbers, hyphens, slashes, hashes, dots and apostrophes.';
+			ACC.validationIncorrect.state ='State should only contain letters.';
+			ACC.validationIncorrect.zip ='ZIP code must be of format 12345 or 12345-6789.';
+			ACC.validationIncorrect.internationalZip ='ZIP code is alphanumeric characters, space, hyphens with a maximum length of 10 characters.';
+			ACC.validationIncorrect.zipCode ='ZIP code must be a valid format. Please enter valid ZIP code.';
+			ACC.validationIncorrect.country ='Country should only contain letters.';
+			ACC.validationIncorrect.phone ='Phone number must be valid.';
+			ACC.validationIncorrect.personalPhone ='Personal phone number must be valid.';
+			ACC.validationIncorrect.fax ='Fax is incorrect.';
+			ACC.validationIncorrect.resaleLicense ='Resale License should only contain letters, numbers, dots, hyphens, apostrophes and quotation marks.';
+			ACC.validationIncorrect.email ='Email address must be valid.';
+			ACC.validationIncorrect.multipleEmail = 'Maximum of 5 email addresses allowed.';
+			ACC.validationIncorrect.name ='Name is incorrect.';
+			ACC.validationIncorrect.nameFrontEnd ='Name may not contain numeric or special characters.';
+			ACC.validationIncorrect.subject ='Subject line is incorrect. It allows only alphanumeric characters.';
+			ACC.validationIncorrect.appSuite ='App\/Suite is incorrect.';
+			ACC.validationIncorrect.saveCard ='Please use only letters, numbers, \', -, _ and . when creating your name.';
+			ACC.validationIncorrect.cardName ='Card Name should contain First and Last Names separated by space.';
+			ACC.validationIncorrect.incorrectCardName ='Special characters are not allowed.';
+			ACC.validationIncorrect.tooLongCardHolderName ='Either First or Last name contains more than 30 characters.';
+			ACC.validationIncorrect.birthday ='Date of Birth is incorrect.';
+			ACC.validationIncorrect.accountNumber ='Account Number is incorrect.';
+			ACC.validationIncorrect.username ='Please use only letters, numbers, -, _ and . when creating your username.';
+			ACC.validationIncorrect.password ='Please enter valid new password having at least 1 letter and 1 number.';
+			ACC.validationIncorrect.emailMatch ='The emails do not match';
+			ACC.validationIncorrect.passwordMatch ='The passwords do not match';
+			ACC.validationIncorrect.website ='The website URL is incorrect.';
+			ACC.validationIncorrect.styleNumber ='Style number is incorrect.';
+			ACC.validationIncorrect.shoppingBoxName = 'The Shopping Box name is not valid';
+			ACC.validationIncorrect.promoCode = 'The promotional code is not valid';
+			ACC.validationIncorrect.merchandiseQty = 'Merchandise quantity is not valid';
+			ACC.validationIncorrect.customerPo = 'Customer PO must not contain leading space, single quote, double quote or pipe characters.';
+			ACC.validationIncorrect.customerNumber = 'Customer Number is incorrect.';
+			ACC.validationIncorrect.dataOutOfRange ='Date is out of range.';
+			ACC.validationIncorrect.quantity = 'Quantity must be an integer.';
+			ACC.validationIncorrect.creditcard='The credit card number is not valid';
+			ACC.validationIncorrect.expired='The expiration date is invalid';
+			ACC.validationIncorrect.price='Please enter valid price with two decimal digits and maximum 9 digits before decimal';
+			ACC.validationIncorrect.emailMessage='Message text is not valid. It allows only alphanumeric characters.';
+			ACC.validationIncorrect.webUserNameFirst = 'Please use only letters, numbers, -, _, @ and . when creating your name.';
+			ACC.validationIncorrect.webUserNameLast = 'Last Name can only contain letters, numbers, dots, hyphens and @';
+			ACC.validationIncorrect.logoizerFileSizeLimit = 'File size must be less than 2 megabytes';
+			ACC.validationIncorrect.logoizerUploadFileFormatError = 'Please upload a supported file format';
+			ACC.validationIncorrect.logoizerFileNameRestriction = 'File name must not contain non-alphanumeric characters';
+			ACC.validationIncorrect.carrier = 'Carrier name should only contain letters and spaces.';
+			ACC.validationIncorrect.carrieraccountnumups = 'Carrier Account Number for UPS must only contain 6 of the following characters: A, E, F, R, T, V, W, X, Y, and 0 through 9.';
+			ACC.validationIncorrect.carrieraccountnumfedex = 'Carrier Account Number for FedEx should only contain numbers.';
+			ACC.validationIncorrect.carrieraccountcontact = 'Contact should only contain letters, hyphens, dots and apostrophes.';
+			ACC.validationIncorrect.carrieraccountcompany = 'Name \/ Company should only contain numbers, letters, hyphens, dots and apostrophes.';
+			ACC.validationIncorrect.carrieraccountnickname = 'Carrier Account Nickname should only contain alphanumeric characters.';
+			ACC.validationIncorrect.thirdPartyBillingPoNumber = 'Third Party Billing PO must not contain leading space, single quote, double quote or pipe characters.';
+
+			ACC.savedShoppingBoxCustomHemmedProductsError = 'Shopping Box can not be saved. Shopping box contains only custom hemmed or back order products.';
+			ACC.savedShoppingBoxUnexpectedError = 'Unexpected Error Occured while saving the cart. please try again';
+			ACC.payinvoiceBreadcrumb = 'Review & Pay';
+			ACC.psstEstimate = 'PSST Program (Estimate Not Available)';
+			ACC.shippingAddressDeleteError = 'System Error. Unfortunately we were unable to access the requested records at the moment. Please try again soon.';
+			ACC.shippingAddressDeleteSuccess = 'Shipping Address has been deleted successfully.';
+			ACC.validationIncorrect.webUserNameFirst = 'Please use only letters, numbers, -, _, @ and . when creating your name.';
+			ACC.validationIncorrect.webUserNameLast = 'Last Name can only contain letters, numbers, dots, hyphens and @';
+			ACC.validationIncorrect.logoizerFileSizeLimit = 'File size must be less than 2 megabytes';
+			ACC.validationIncorrect.logoizerUploadFileFormatError = 'Please upload a supported file format';
+			ACC.validationIncorrect.logoizerFileNameRestriction = 'File name must not contain non-alphanumeric characters';
+			ACC.validationIncorrect.jobTitle = 'Title is incorrect.';
+			
+			ACC.shippingMethodText = 'Payment Method';
+
+			/*]]>*/
+	</script>
+<script src="//cdnp.sanmar.com/_ui/responsive/common/js/matchMedia.js?v=-1410263898"></script>
+<script src="//cdnp.sanmar.com/_ui/responsive/common/js/matchMedia.addListener.js?v=-1410263898"></script>
+
+<script src="/_ui/shared/js/generatedVariables.js"></script>
+<script src="//cdnp.sanmar.com/_ui/responsive/common/js/enquire.min.js?v=-1410263898"></script>
+
+<script src="//cdnp.sanmar.com/_ui/responsive/common/js/jquery.menu-aim.js?v=-1410263898"></script>
+<script src="//cdnp.sanmar.com/_ui/responsive/common/js/jquery.hoverIntent.js?v=-1410263898"></script>
+
+<script src="//cdnp.sanmar.com/_ui/responsive/common/js/jquery.placeholder.min.js?v=-1410263898"></script>
+
+<script src="//cdnp.sanmar.com/_ui/responsive/common/bootstrap/dist/js/bootstrap.js?v=-1410263898"></script>
+
+<script src="//cdnp.sanmar.com/_ui/responsive/common/bootstrap-colorpicker-master/dist/js/bootstrap-colorpicker.min.js?v=-1410263898"></script>
+
+<script src="//cdnp.sanmar.com/_ui/responsive/common/js/jquery-ui-1.10.4.custom.min.js?v=-1410263898"></script>
+
+<script src="//cdnp.sanmar.com/_ui/responsive/common/js/jquery.menu-aim.js?v=-1410263898"></script>
+
+<script src="//cdnp.sanmar.com/_ui/responsive/common/js/js.cookie.js?v=-1410263898"></script>
+
+<script src="//cdnp.sanmar.com/_ui/responsive/common/js/jquery.mask.min.js?v=-1410263898"></script>
+<script src="//cdnp.sanmar.com/_ui/responsive/common/js/formvalidation/dist/js/formValidation.min.js?v=-1410263898"></script>
+<script src="//cdnp.sanmar.com/_ui/responsive/common/js/formvalidation/dist/js/framework/bootstrap.min.js?v=-1410263898"></script>
+<script src="//cdnp.sanmar.com/_ui/responsive/common/js/formvalidation/dist/js/reCaptcha2.min.js?v=-1410263898"></script>
+<script src="//cdnp.sanmar.com/_ui/responsive/common/js/acc.formvalidation.js?v=-1410263898"></script>
+
+<script type="text/javascript" src="//cdnp.sanmar.com/_ui/responsive/common/js/jquery.rwdImageMaps.js?v=-1410263898"></script>
+
+<script src="//cdnp.sanmar.com/_ui/responsive/common/js/acc.global.js?v=-1410263898"></script>
+<script src="//cdnp.sanmar.com/_ui/responsive/common/js/acc.autocomplete.js?v=-1410263898"></script>
+<script src="//cdnp.sanmar.com/_ui/responsive/common/js/jquery.syncheight.js?v=-1410263898"></script>
+<script type="text/javascript" src="//cdnp.sanmar.com/_ui/responsive/common/js/angular.1.3.15.min.js?v=-1410263898"></script>
+<script type="text/javascript" src="//cdnp.sanmar.com/_ui/responsive/common/js/angular-route.min.js?v=-1410263898"></script>
+<script type="text/javascript" src="//cdnp.sanmar.com/_ui/responsive/common/js/angular-ui-bootstrap-tpls-0.13.0.min.js?v=-1410263898"></script>
+<script type="text/javascript" src="//cdnp.sanmar.com/_ui/responsive/common/js/app/app.js?v=-1410263898"></script>
+<script type="text/javascript" src="//cdnp.sanmar.com/_ui/responsive/common/js/spin.min.js?v=-1410263898"></script>
+<script type="text/javascript" src="//cdnp.sanmar.com/_ui/responsive/common/js/app/angular-spinner.js?v=-1410263898"></script>
+<script type="text/javascript" src="//cdnp.sanmar.com/_ui/responsive/common/js/app/angular-upload.min.js?v=-1410263898"></script>
+<script type="text/javascript" src="//cdnp.sanmar.com/_ui/responsive/common/js/angular-sanitize.min.js?v=-1410263898"></script>
+<script type="text/javascript" src="//cdnp.sanmar.com/_ui/responsive/common/js/placeholders.min.js?v=-1410263898"></script>
+
+<script src="//cdnp.sanmar.com/_ui/responsive/common/js/owl.carousel.min.js?v=-1410263898"></script>
+<script type="text/javascript" src="//cdnp.sanmar.com/_ui/responsive/common/js/acc.owl.carousel.custom.js?v=-1410263898"></script>
+
+
+<script type="text/javascript" src="/_ui/addons/assistedservicestorefront../../../responsive/common/asm/js/asmstorefront.js"></script>
 
 </body></html>
