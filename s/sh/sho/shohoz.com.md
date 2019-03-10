@@ -1,6 +1,12 @@
-> *The following text is extracted and transformed from the shohoz.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606213457id_/https%3A//www.shohoz.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shohoz.com privacy policy that was archived on 2019-03-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190310165301id_/https%3A//www.shohoz.com/privacy-policy) for the most accurate reproduction.*
 
 # Buy Bus Tickets Online | Bus Tickets | Privacy Policy : Shohoz.com
+
+**Please Note: Tickets of Bangladesh Vs England ODI - III at Chittagong will be available in phases starting from 10:00 AM on 10th Oct 2016. To buy tickets,[Click here](https://web.archive.org/events/bangladesh-vs-england-series-2016)**
+
+**Please Note: Tickets of Bangladesh Vs England ODI - III at Chittagong will be available in phases starting from 10:00 AM on 10th Oct 2016. To buy tickets,[Click here](https://web.archive.org/events/bangladesh-vs-england-series-2016)**
+
+### Privacy Policy
 
 We, at shohoz.com, ensure to maintain the highest standards of transactional security and quality so that your information and details are secure. To know more about our policies please read the following to learn about our information gathering and dissemination practices.
 
@@ -50,3 +56,96 @@ Our Website has stringent security measures in place to protect the loss, misuse
 By using the Website and/ or by providing your information, you consent to the collection and use of the information you disclose on the Website in accordance with this Privacy Policy, including but not limited to your consent for sharing your information as per this privacy policy.
 
 We may decide to make amends to this privacy policy without prior information, therefore, it is suggested you review this page at regular intervals. This ensures you are up-to-date with the details of the information we collect, how we use it, and under what circumstances we disclose it.
+
+Scroll
+
+#### Available Bus Operators
+
+* * *
+
+  * Abdullah Paribahan
+  * Agomony Express
+  * Akota Transport
+  * Al-Mobaraka Paribahan
+  * Alhamra Paribahan
+  * Barkat Travels
+  * Chaklader Paribahan
+  * Comfort Line Pvt Ltd
+  * Dhaka Line
+  * Diganta Express
+  * Diganta Paribahan
+  * Dipjol Enterprise
+  * Elish Paribahan
+  * Emad Enterprise
+  * Ena Transport (Pvt) Ltd
+  * Green Line Paribahan
+  * Hanif Enterprise
+  * HIMACHOL
+  * Islam Paribahan
+  * Kanak Paribahan Ltd
+  * M M Paribahan
+  * Manik Express
+  * Nabil Paribahan
+  * New S.B Super Deluxe
+  * Ranga Provat Paribahan Ltd
+  * Relax Transport Ltd.
+  * Royal Coach
+  * Rozina Enterprise
+  * S.B Super Deluxe
+  * S.R Travels (Pvt) Ltd
+  * Sagorika Enterprise
+  * Saintmartin Hyundai
+  * Saintmartin Paribahan Ltd
+  * Saintmartin Travels
+  * Shahzadpur Travels
+  * Sheba Green Line
+  * Sheba Transport
+  * Shohagh Paribahan
+  * Shoukhin Paribahan
+  * Shuvo Bosundhara Paribahan
+  * Shyamoli Paribahan
+  * Soudia Air Con
+  * Soudia Coach Service
+  * SP Golden Line
+  * Star Line Special Ltd.
+  * Tisha Group
+  * Tuba Line
+  * Tungipara Express
+  * Year-71
+
+
+
+#### Eid Tickets
+
+* * *
+
+#### How does it work?
+
+  * **Login with Facebook** and refer your friends
+  * When your friends buy tickets from Shohoz.com, you get Tk. 50 talktime
+  * Your friends also get Tk. 200 off on their first purchase
+  * 
+
+
+  * Tickets booked for your journey between **05 Sep 16** and **17 Sep 16** are classified as **Eid Tickets**.
+  * SMS tickets are not acceptable for Eid Tickets. **Please carry a printed ticket while travelling**.
+  * **Green Line Paribahan** tickets are available through Call Centre. Please call: 16374
+
+
+
+  * Buy bus tickets from Shohoz.com Android App & get discount upto **Tk. 300** on your first order.
+  * Get discount upto **Tk. 150** second order ownards.
+
+
+
+  * To buy your tickets for Eid travel with ease and convenience, you are advised to download the **Shohoz - Buy Bus Tickets** Android App from Google Playstore.
+
+
+
+  * During Eid travel, bus operators reserve the right to **CANCEL / DELAY** trips or change BUSES / SEATS due to unavoidable reasons, which is beyond Shohoz.com's control.
+
+
+
+  * **Please Note:** In case of trip cancellations during Eid, passengers are requested to claim the refund for their tickets from respective bus operators / counters. 
+
+
