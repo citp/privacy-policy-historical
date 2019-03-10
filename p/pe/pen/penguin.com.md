@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the penguin.com privacy policy that was archived on 2018-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181208030328id_/http%3A//www.penguin.com/aboutus/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the penguin.com privacy policy that was archived on 2019-03-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190310041027id_/https%3A//www.penguin.com/aboutus/privacypolicy) for the most accurate reproduction.*
 
 # Privacy Policy - Penguin Books USA
 
