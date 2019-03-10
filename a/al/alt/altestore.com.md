@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the altestore.com privacy policy that was archived on 2016-07-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160715095637id_/https%3A//www.altestore.com/store/info/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the altestore.com privacy policy that was archived on 2019-03-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190310044346id_/https%3A//www.altestore.com/store/info/privacy_policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy | altE
 
 altE is the sole owner of information collected on this site. We will not sell, share, or rent this information to any outside parties, except as outlined in this policy. We collect information from our customers to process orders and better serve you with pertinent information, such as order confirmations and order status updates. Information collected includes your name, shipping address, billing address, telephone numbers, e-mail address, and payment information such as your credit card number. We also require you to submit a username and password of your choice for your future access to your account information. To safeguard that your user name and password remain confidential, DO NOT share this information with anyone. If you elect to receive our newsletter or special promotions, your contact information will be used for the delivery of these items. 
 
@@ -52,7 +52,7 @@ altE takes precautions to protect its customers' information. When you submit se
 
 When our registration/order form asks you to enter sensitive information (such as your credit card number), that information is encrypted and is protected using SSL encryption software. To learn more about SSL, follow this link: [www.verisign.com](http://www.verisign.com/).
 
-Newegg no longer supports the version 3.0 SSL protocol as of November 6, 2014.  
+altE no longer supports the version 3.0 SSL protocol as of November 6, 2014.  
 Please review your browser version to ensure it supports the latest secure protocols.
 
 > Apple Safari: <http://support.apple.com/downloads/#safari>  
