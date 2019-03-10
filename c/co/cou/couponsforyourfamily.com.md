@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the couponsforyourfamily.com privacy policy that was archived on 2018-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180525045318id_/http%3A//www.couponsforyourfamily.com/about/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the couponsforyourfamily.com privacy policy that was archived on 2019-03-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190311005310id_/https%3A//www.couponsforyourfamily.com/about/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy |
 
 ## **Couponsforyourfamily.com takes your privacy seriously.**
 
-Coupons For Your Fammily found at http://www.couponsforyurfamily.com (“Website”) is governed by the following privacy policy (“Privacy Policy”).
+Coupons For Your Family found at https://www.couponsforyourfamily.com (“Website”) is governed by the following privacy policy (“Privacy Policy”).
 
 We respect your privacy and are committed to protecting it. The purpose of this Privacy Policy is to inform you what personally identifiable information we may collect and how it may be used. This statement only applies to this Website.
 
@@ -106,6 +106,6 @@ The Website does not knowingly collect any personally identifiable information f
 
 ## **CONTACT INFORMATION**
 
-At any time, please contact us a tcouponsforyourfamily@gmail.com for questions related to this Privacy Policy.
+At any time, please contact us a couponsforyourfamily@gmail.com for questions related to this Privacy Policy.
 
 Last updated: May 4, 2018.
