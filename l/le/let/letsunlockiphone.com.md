@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the letsunlockiphone.com privacy policy that was archived on 2018-09-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180901110927id_/http%3A//letsunlockiphone.guru/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the letsunlockiphone.com privacy policy that was archived on 2019-03-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190310235634id_/http%3A//letsunlockiphone.guru/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Lets Unlock iPhone
 
