@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the southmoonunder.com privacy policy that was archived on 2017-10-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171019015106id_/https%3A//www.southmoonunder.com/Privacy-Policy/privacy-policy%2Cdefault%2Cpg.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the southmoonunder.com privacy policy that was archived on 2019-03-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190310082003id_/https%3A//www.southmoonunder.com/privacy-policy.html) for the most accurate reproduction.*
 
 # eCommerce Solutions On-Demand | Demandware Privacy Policy | South Moon Under
 
