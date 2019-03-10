@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cardboard-crack.com privacy policy that was archived on 2018-11-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181108000721id_/http%3A//cardboard-crack.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cardboard-crack.com privacy policy that was archived on 2019-03-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190310072339id_/http%3A//cardboard-crack.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Cardboard Crack
 
