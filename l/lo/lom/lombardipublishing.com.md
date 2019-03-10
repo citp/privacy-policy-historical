@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the lombardipublishing.com privacy policy that was archived on 2018-08-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180827040811id_/https%3A//www.privacypolicyanddisclaimer.com) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lombardipublishing.com privacy policy that was archived on 2019-03-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190310100156id_/https%3A//www.privacypolicyanddisclaimer.com) for the most accurate reproduction.*
 
 # Privacy & Terms of Use
 
-Lombardi Publishing Corporation is the publisher of the free editorial content investment e-newsletters _Profit Confidential_ , _Income Investors_ , _Lombardi Letter_ , and _America Closed_ and their respective web sites and subscription-based and consumer financial advisory newsletters (herein collectively and individually the " _Lombardi e-letters_ ").
+Lombardi Publishing Corporation is the publisher of the free editorial content investment e-newsletters _Profit Confidential_ , _Income Investors_ , and _Lombardi Letter_ and their respective web sites and subscription-based and consumer financial advisory newsletters (herein collectively and individually the " _Lombardi e-letters_ ").
 
 The personal information you provide us with is used for delivery of the _Lombardi e-letters_ you have opted in to receive (e.g. your name, address, and/or e-mail address). To help fund the cost of publishing the _Lombardi e-letters_ , aside from the editorial content you will receive in the _Lombardi e-letters_ , you will also receive advertisements for Lombardi Publishing Corporation paid content via e-mail and ad blurbs in our _Lombardi e-letters_. If you want to opt out from receiving these advertisements, or from receiving our _Lombardi e-letters_ , you can do so by: (1) using the opt-out link that is at the bottom of our editorial and advertisements e-mails; (2) by contacting us at the mailing address below; or (3) by sending us an e-mail to the e-mail address below.
 
