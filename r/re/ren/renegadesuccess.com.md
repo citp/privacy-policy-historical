@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the renegadesuccess.com privacy policy that was archived on 2018-11-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181109142025id_/http%3A//renegadesuccess.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the renegadesuccess.com privacy policy that was archived on 2019-03-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190310154157id_/http%3A//renegadesuccess.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy « Home Business Success Training by Devon Brown
 
