@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the noah-conference.com privacy policy that was archived on 2018-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181203121141id_/https%3A//www.noah-conference.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the noah-conference.com privacy policy that was archived on 2019-03-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190310172758id_/https%3A//www.noah-conference.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | NOAH Conference 2019 - Tel Aviv, Berlin and London
+# Privacy Policy | NOAH Conference - Tel Aviv, Berlin and London
 
 Last modified: April 2018
 
