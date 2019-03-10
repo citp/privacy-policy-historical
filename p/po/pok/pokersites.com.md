@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pokersites.com privacy policy that was archived on 2018-07-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180718130543id_/https%3A//www.pokersites.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pokersites.com privacy policy that was archived on 2019-03-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190310144334id_/https%3A//www.pokersites.com/privacy) for the most accurate reproduction.*
 
 # PokerSites.com Privacy and Cookie Policy
 
