@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hublot.com privacy policy that was archived on 2018-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181120132556id_/https%3A//www.hublot.com/en/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hublot.com privacy policy that was archived on 2019-03-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190310143202id_/https%3A//www.hublot.com/en/privacy) for the most accurate reproduction.*
 
 # Hublot Privacy - Swiss Luxury Watches I Hublot
 
@@ -103,7 +103,7 @@ Most browsers allow you to manage your cookies preferences by changing your brow
   * Chrome (<https://support.google.com/chrome/answer/95647?hl=en> )
   * Internet Explorer (<http://windows.microsoft.com/en-US/windows-vista/Block-or-allow-cookies> )
   * Mozilla Firefox ([https://support.mozilla.org/en-US/kb/enable-and-disable-cookies-website-preferences?redirectlocale=en-US&redirectslug=Enabling+and+disabling+cookies](https://support.mozilla.org/en-US/kb/enable-and-disable-cookies-website-preferences?redirectlocale=en-US&redirectslug=Enabling+and+disabling+cookies) )
-  * Safari ([https://support.apple.com/kb/PH21411?viewlocale=en_US&locale=fr_FR](https://support.apple.com/kb/PH21411?viewlocale=en_US&locale=fr_FR))
+  * Safari (<https://support.apple.com/guide/safari/manage-cookies-and-website-data-sfri11471/mac>)
 
 
 
