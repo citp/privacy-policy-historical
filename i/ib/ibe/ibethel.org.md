@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ibethel.org privacy policy that was archived on 2018-04-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180401105209id_/https%3A//www.bethel.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ibethel.org privacy policy that was archived on 2019-03-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190310224122id_/https%3A//www.bethel.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Bethel Church
 
@@ -68,7 +68,7 @@ We may provide links to non-Bethel Church sites. We are not responsible for thos
 
 ### Website Terms & Conditions
 
-This Privacy Policy constitutes an integrated part of Bethel’s [Terms & Conditions](https://shop.ibethel.org/terms)
+This Privacy Policy constitutes an integrated part of Bethel’s [Terms & Conditions](https://web.archive.org/terms/)
 
 ### Contact
 
