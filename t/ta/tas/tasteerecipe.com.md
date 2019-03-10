@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tasteerecipe.com privacy policy that was archived on 2018-10-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181013202917id_/https%3A//tasteerecipe.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tasteerecipe.com privacy policy that was archived on 2019-03-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190310094154id_/https%3A//tasteerecipe.com/privacy-policy) for the most accurate reproduction.*
 
 # Tastee Recipe PRIVACY POLICY - Tastee Recipe
 
@@ -13,7 +13,7 @@ We know that you care how your information is used, and we appreciate your trust
 
 
 
- **2\. How Do We Use Your Information?**
+**2\. How Do We Use Your Information?**
 
   * Customized Shopping. We use your information to better serve you by providing a customized shopping experience. As noted above, you may “opt-out” of this customization, or even visit and shop anonymously.
   * Agents. We employ other companies and individuals to perform functions on our behalf. Examples include delivering packages, sending postal mail and e-mail, and processing credit card payments. They have access to personal information needed to perform their functions, but may not use it for other purposes.
@@ -23,7 +23,7 @@ We know that you care how your information is used, and we appreciate your trust
 
 
 
- **3\. Your Choice: Opt-in or Opt-out.**
+**3\. Your Choice: Opt-in or Opt-out.**
 
 It is your choice whether to receive emails or special offers from us or others. The following section provides you with this choice. Please note the default settings.
 
@@ -34,11 +34,11 @@ It is your choice whether to receive emails or special offers from us or others.
 
 
 
- **4\. Children**
+**4\. Children**
 
 We do not sell products or services to children. If you are under 18, you may use this site only with involvement of a parent or guardian.
 
- **5\. Other Websites**
+**5\. Other Websites**
 
 Various Web sites may be linked to from this site. If you link to another site, your privacy depends on the policy of that site. We strongly urge you to check their privacy policy. Not all sites guarantee that they will not share your personally identifiable information with others. You may also wish to consult privacy guidelines such as those recommended by the Online Privacy Alliance (www.privacyalliance.org).
 
@@ -46,4 +46,4 @@ Various Web sites may be linked to from this site. If you link to another site, 
 
 If you would like to learn more about our privacy policy, or to access your personally identifiable information contained on our website, you may contact us for assistance at our Support Desk.
 
- **No portion of this website can be copied without written permission from the author.**
+**No portion of this website can be copied without written permission from the author.**
