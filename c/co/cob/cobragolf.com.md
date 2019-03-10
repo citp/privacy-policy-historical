@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cobragolf.com privacy policy that was archived on 2017-08-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170814193344id_/https%3A//www.cobragolf.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cobragolf.com privacy policy that was archived on 2019-03-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190310220705id_/https%3A//www.cobragolf.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
