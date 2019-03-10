@@ -1,51 +1,73 @@
-> *The following text is extracted and transformed from the metacdn.com privacy policy that was archived on 2018-03-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180309215743id_/http%3A//www.metacdn.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the metacdn.com privacy policy that was archived on 2019-03-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190310220053id_/http%3A//www.metacdn.com/privacy) for the most accurate reproduction.*
 
-# MetaCDN - Privacy Policy
+# Privacy Policy - StreamShark
 
-### Introduction
+**1\. We respect your privacy**
 
-This Privacy Policy is incorporated into and is subject to the MetaCDN Terms and Conditions. By entering into the Agreement, you expressly consent to MetaCDN's use and disclosure of your personal information in accordance with this Privacy Policy.
+1.1. MetaCDN Pty Ltd respects your right to privacy and is committed to safeguarding the privacy of our customers and website visitors.  We adhere to the Australian Privacy Principles contained in the _Privacy Act_ 1988 (Cth). This policy sets out how we collect and treat your personal information.
 
-### Use of Personal Information
+1.2. “Personal information” is information we hold which is identifiable as being about you. 
 
-MetaCDN will not give, sell, rent, share, or trade any personal information about you to third parties or provide your personal information, including your name or electronic mail address, to third parties except as required by law, subpoena or court order. MetaCDN may disclose your username, name, address, electronic mail, and other personal information as it believes necessary or appropriate in connection with an investigation for fraud, intellectual property infringement, piracy, or other illegal activity as well as dispute resolution and enforcement of the Agreement. MetaCDN will share names or other contact information with our suppliers as necessary to provide our services. These suppliers are not allowed to use personally identifiable information except for the purpose of providing these services.
+**2\. Collection of personal information**
 
-### Data Security
+2.1. MetaCDN Pty Ltd will, from time to time, receive and store personal information you enter onto our website, provided to us directly or given to us in other forms. 
 
-MetaCDN takes data security seriously and has put in place appropriate physical, electronic, and procedures to safeguard and secure the information we process. MetaCDN uses best practices to protect our Users' information. Only employees who need the information to perform a specific job (for example, our billing clerk or a customer service representative) are granted access to personally identifiable information. Furthermore, employees are kept up-to-date on MetaCDN's security and privacy practices. Every quarter, as well as any time new policies are added, MetaCDN employees are notified and/or reminded about the importance placed on privacy, and what they can do to ensure the Users' information is protected. Finally, the servers on which MetaCDN stores personally identifiable information are kept in a secure environment.
+2.2. You may provide basic information such as your name, phone number, address and email address to enable us to send information, provide updates and process your product or service order. We may collect additional information at other times, including but not limited to, when you provide feedback, when you provide information about your personal or business affairs, change your content or email preference, respond to surveys and/or promotions, provide financial or credit card information, or communicate with our customer support. 
 
-### Registration
+2.3. Additionally, we may also collect any other information you provide while interacting with us. 
 
-In order to use MetaCDN's services, you must first complete a registration process, which requires you to provide certain information. This includes contact information (e.g., name and address) and financial information (e.g., credit card number and expiration date). This information enables us to offer you services.
+**3\. How we collect your personal information**
 
-### Correspondence
+3.1. MetaCDN Pty Ltd collects personal information from you in a variety of ways, including when you interact with us electronically or in person, when you access our website and when we provide our services to you. We may receive personal information from third parties. If we do, we will protect it as set out in this Privacy Policy.
 
-MetaCDN may retain correspondence from you for tracking purposes only and, except as required by law or to assist in enforcing the Agreement, will not use it for any secondary purpose or to send you unsolicited electronic mail.
+ **4\. Use of your personal information**
 
-### Special Offers
+4.1. MetaCDN Pty Ltd may use personal information collected from you to provide you with information, updates and our services. We may also make you aware of new and additional products, services and opportunities available to you. We may use your personal information to improve our products and services and better understand your needs.
 
-MetaCDN may occasionally send you information on products, services, special deals, or a newsletter. Out of respect for your privacy, MetaCDN will present the option to not receive these types of communications.
+4.2. MetaCDN Pty Ltd may contact you by a variety of measures including, but not limited to telephone, email, sms or mail.
 
-### Site and Service Updates
+**5\. Disclosure of your personal information**
 
-MetaCDN may send you site and service announcement updates. You are not able to un-subscribe from service announcements, which contain important information about the service. communicates with the User to provide requested services and in regards to issues relating to their account via electronic mail or phone.
+5.1. We may disclose your personal information to any of our employees, officers, insurers, professional advisers, agents, suppliers or subcontractors insofar as reasonably necessary for the purposes set out in this Policy. Personal information is only supplied to a third party when it is required for the delivery of our services.
 
-### Correcting/Updating Personal Information
+5.2. We may from time to time need to disclose personal information to comply with a legal requirement, such as a law, regulation, court order, subpoena, warrant, in the course of a legal proceeding or in response to a law enforcement agency request.  
 
-MetaCDN will provide a way for you to correct or update your personal data. This can usually be done at your Account Information page or by electronically mailing our Customer Support at support@metacdn.com
+5.3. We may also use your personal information to protect the copyright, trademarks, legal rights, property or safety of MetaCDN Pty Ltd, https://www.metacdn.com, https://www.streamshark.io, its customers or third parties.
 
-### Removing Personal Information and Content
+5.4. Information that we collect may from time to time be stored, processed in or transferred between parties located in countries outside of Australia. These may include, but are not limited to Australia, United States, Singapore and Ireland. 
 
-MetaCDN will remove your contact information from its current database if you decide that you no longer want to use MetaCDN's services and request to be removed from the database. MetaCDN may in some circumstances retain information that you have requested removed to resolve disputes, troubleshoot problems and enforce the Agreement. Further, such prior information is never completely removed from MetaCDN's databases due to technical constraints and the fact that MetaCDN backs up its systems. Accordingly, your personal information will not be completely removed from MetaCDN's databases in response to your requests.
+5.5. If there is a change of control in our business or a sale or transfer of business assets, we reserve the right to transfer to the extent permissible at law our user databases, together with any personal information and non-personal information contained in those databases. This information may be disclosed to a potential purchaser under an agreement to maintain confidentiality. We would seek to only disclose information in good faith and where required by any of the above circumstances. 
 
-### Notice of Changes
+5.6. By providing us with personal information, you consent to the terms of this Privacy Policy and the types of disclosure covered by this Policy.  Where we disclose your personal information to third parties, we will request that the third party follow this Policy regarding handling your personal information.
 
-If MetaCDN decides to change this privacy policy, it will post those changes so Users are always aware of what information MetaCDN collects, how it uses it, and under which circumstances, if any, it is disclosed. If at any point MetaCDN decides to use personally identifiable information in a manner different from that stated at the time it was collected, MetaCDN will notify you by way of electronic mail. You will have a choice as to whether MetaCDN may use your information in this different manner. Otherwise, MetaCDN will use information in accordance with the privacy policy under which the information was collected.
+ **6\. Security of your personal information**
 
-### No Warranties
+6.1. MetaCDN Pty Ltd is committed to ensuring that the information you provide to us is secure. In order to prevent unauthorised access or disclosure, we have put in place suitable physical, electronic and managerial procedures to safeguard and secure information and protect it from misuse, interference, loss and unauthorised access, modification and disclosure. 
 
-Due to technical, legal and practical limitations, MetaCDN cannot warrant and does not guarantee, and you should not expect, that all of your private communications and other personal information will never be disclosed in ways not otherwise described in this Privacy Policy. MetaCDN may disclose information to governmental authorities or third parties under certain circumstances, or third parties may unlawfully intercept or access transmissions or private communications. You authorize MetaCDN to disclose any information about you to law enforcement or other government officials as MetaCDN, in its sole discretion, believes necessary, prudent or appropriate, in connection with an investigation of fraud, intellectual property infringement, or other activity that is illegal or may expose MetaCDN to legal liability.
+6.2. The transmission and exchange of information is carried out at your own risk. We cannot guarantee the security of any information that you transmit to us, or receive from us.  Although we take measures to safeguard against unauthorised disclosures of information, we cannot assure you that personal information that we collect will not be disclosed in a manner that is inconsistent with this Privacy Policy.
 
-### Safe Harbor
+**7\. Access to your personal information**
 
-The United States Department of Commerce and the European Commission have agreed on a set of data protection principles and frequently asked questions (FAQ) to enable U.S. companies to satisfy European Union (EU) law requirements for adequate protection of personal information transferred from the EEA to the United States. MetaCDN adheres to the Safe Harbor Principles. MetaCDN does not collect personal information directly from individuals in the EU. Personal information may exist in information that is provided to MetaCDN from an EEA organization for processing. To the extent permitted in the Safe Harbor Agreement, we reserve the right to process personal information in the course of providing services to our clients without the knowledge of individuals involved.
+7.1. You may request details of personal information that we hold about you in accordance with the provisions of the  _Privacy Act 1988_  (Cth). A small administrative fee may be payable for the provision of information. If you would like a copy of the information which we hold about you or believe that any information we hold on you is inaccurate, out of date, incomplete, irrelevant or misleading, please email us at contact@metacdn.com. 
+
+7.2. We reserve the right to refuse to provide you with information that we hold about you, in certain circumstances set out in the Privacy Act.
+
+ **8\. Complaints about privacy**
+
+8.1. If you have any complaints about our privacy practices, please feel free to send in details of your complaints to MetaCDN Pty Ltd, Level 1, 520 Bourke Street, Melbourne, Victoria 3000, Australia. We take complaints very seriously and will respond shortly after receiving written notice of your complaint.
+
+ **9\. Changes to Privacy Policy**
+
+9.1. Please be aware that we may change this Privacy Policy in the future. We may modify this Policy at any time, in our sole discretion and all modifications will be effective immediately upon our posting of the modifications on our website or notice board. Please check back from time to time to review our Privacy Policy.
+
+ **10\. Website**
+
+ _10.1. When you visit our website(s)._ When you come to our website(s) (https://www.metacdn.com and https://www.streamshark.io) we may collect certain information such as browser type, device type, IP address, operating system, website visited immediately before coming to our site, etc. This information is used in an aggregated manner to analyse how people use our site and webservices, such that we can improve our service.
+
+ _10.2. Cookies._ We may from time to time use cookies on our website. Cookies are very small files which a website uses to identify you when you come back to the site and to store details about your use of the site. Cookies are not malicious programs that access or damage your computer. Most web browsers automatically accept cookies but you can choose to reject cookies by changing your browser settings. However, this may prevent you from taking full advantage of our website and webservices. 
+
+10.3. Our website may from time to time use cookies to analyses website traffic and help us provide a better website visitor experience. In addition, cookies may be used to serve relevant ads to website visitors through third party services such as Google Adwords. These ads may appear on this website or other websites you visit.
+
+ _10.4. Third party sites._ Our site may from time to time have links to other websites not owned or controlled by us. These links are meant for your convenience only. Links to third party websites do not constitute sponsorship or endorsement or approval of these websites. Please be aware that MetaCDN Pty Ltd is not responsible for the privacy practises of other such websites. We encourage our users to be aware, when they leave our website, to read the privacy statements of each and every website that collects personal identifiable information. 
+
+25 May 2018
