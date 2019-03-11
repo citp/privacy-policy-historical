@@ -1,0 +1,790 @@
+<!--The following is the downloaded HTML source of the gestyy.com privacy policy that was archived on 2019-03-11.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20190311071904id_/https%3A//shorte.st/privacy) for the most accurate reproduction.-->
+
+<!DOCTYPE html><html><head prefix="og: http://ogp.me/ns# fb: http://ogp.me/ns/fb#">
+        <meta http-equiv="Content-Type" content="text/html; charset=utf-8"><script src="https://js-agent.newrelic.com/nr-1118.min.js"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script async="" src="https://www.googletagmanager.com/gtm.js?id=GTM-W2LDN5R"></script><script id="facebook-jssdk" src="//connect.facebook.net/en_US/sdk.js"></script><script type="text/javascript">window.NREUM||(NREUM={}),__nr_require=function(e,n,t){function r(t){if(!n[t]){var o=n[t]={exports:{}};e[t][0].call(o.exports,function(n){var o=e[t][1][n];return r(o||n)},o,o.exports)}return n[t].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<t.length;o++)r(t[o]);return r}({1:[function(e,n,t){function r(){}function o(e,n,t){return function(){return i(e,[c.now()].concat(u(arguments)),n?null:this,t),n?void 0:this}}var i=e("handle"),a=e(3),u=e(4),f=e("ee").get("tracer"),c=e("loader"),s=NREUM;"undefined"==typeof window.newrelic&&(newrelic=s);var p=["setPageViewName","setCustomAttribute","setErrorHandler","finished","addToTrace","inlineHit","addRelease"],d="api-",l=d+"ixn-";a(p,function(e,n){s[n]=o(d+n,!0,"api")}),s.addPageAction=o(d+"addPageAction",!0),s.setCurrentRouteName=o(d+"routeName",!0),n.exports=newrelic,s.interaction=function(){return(new r).get()};var m=r.prototype={createTracer:function(e,n){var t={},r=this,o="function"==typeof n;return i(l+"tracer",[c.now(),e,t],r),function(){if(f.emit((o?"":"no-")+"fn-start",[c.now(),r,o],t),o)try{return n.apply(this,arguments)}catch(e){throw f.emit("fn-err",[arguments,this,e],t),e}finally{f.emit("fn-end",[c.now()],t)}}}};a("actionText,setName,setAttribute,save,ignore,onEnd,getContext,end,get".split(","),function(e,n){m[n]=o(l+n)}),newrelic.noticeError=function(e,n){"string"==typeof e&&(e=new Error(e)),i("err",[e,c.now(),!1,n])}},{}],2:[function(e,n,t){function r(e,n){if(!o)return!1;if(e!==o)return!1;if(!n)return!0;if(!i)return!1;for(var t=i.split("."),r=n.split("."),a=0;a<r.length;a++)if(r[a]!==t[a])return!1;return!0}var o=null,i=null,a=/Version\/(\S+)\s+Safari/;if(navigator.userAgent){var u=navigator.userAgent,f=u.match(a);f&&u.indexOf("Chrome")===-1&&u.indexOf("Chromium")===-1&&(o="Safari",i=f[1])}n.exports={agent:o,version:i,match:r}},{}],3:[function(e,n,t){function r(e,n){var t=[],r="",i=0;for(r in e)o.call(e,r)&&(t[i]=n(r,e[r]),i+=1);return t}var o=Object.prototype.hasOwnProperty;n.exports=r},{}],4:[function(e,n,t){function r(e,n,t){n||(n=0),"undefined"==typeof t&&(t=e?e.length:0);for(var r=-1,o=t-n||0,i=Array(o<0?0:o);++r<o;)i[r]=e[n+r];return i}n.exports=r},{}],5:[function(e,n,t){n.exports={exists:"undefined"!=typeof window.performance&&window.performance.timing&&"undefined"!=typeof window.performance.timing.navigationStart}},{}],ee:[function(e,n,t){function r(){}function o(e){function n(e){return e&&e instanceof r?e:e?f(e,u,i):i()}function t(t,r,o,i){if(!d.aborted||i){e&&e(t,r,o);for(var a=n(o),u=v(t),f=u.length,c=0;c<f;c++)u[c].apply(a,r);var p=s[y[t]];return p&&p.push([b,t,r,a]),a}}function l(e,n){h[e]=v(e).concat(n)}function m(e,n){var t=h[e];if(t)for(var r=0;r<t.length;r++)t[r]===n&&t.splice(r,1)}function v(e){return h[e]||[]}function g(e){return p[e]=p[e]||o(t)}function w(e,n){c(e,function(e,t){n=n||"feature",y[t]=n,n in s||(s[n]=[])})}var h={},y={},b={on:l,addEventListener:l,removeEventListener:m,emit:t,get:g,listeners:v,context:n,buffer:w,abort:a,aborted:!1};return b}function i(){return new r}function a(){(s.api||s.feature)&&(d.aborted=!0,s=d.backlog={})}var u="nr@context",f=e("gos"),c=e(3),s={},p={},d=n.exports=o();d.backlog=s},{}],gos:[function(e,n,t){function r(e,n,t){if(o.call(e,n))return e[n];var r=t();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(e,n,{value:r,writable:!0,enumerable:!1}),r}catch(i){}return e[n]=r,r}var o=Object.prototype.hasOwnProperty;n.exports=r},{}],handle:[function(e,n,t){function r(e,n,t,r){o.buffer([e],r),o.emit(e,n,t)}var o=e("ee").get("handle");n.exports=r,r.ee=o},{}],id:[function(e,n,t){function r(e){var n=typeof e;return!e||"object"!==n&&"function"!==n?-1:e===window?0:a(e,i,function(){return o++})}var o=1,i="nr@id",a=e("gos");n.exports=r},{}],loader:[function(e,n,t){function r(){if(!E++){var e=x.info=NREUM.info,n=l.getElementsByTagName("script")[0];if(setTimeout(s.abort,3e4),!(e&&e.licenseKey&&e.applicationID&&n))return s.abort();c(y,function(n,t){e[n]||(e[n]=t)}),f("mark",["onload",a()+x.offset],null,"api");var t=l.createElement("script");t.src="https://"+e.agent,n.parentNode.insertBefore(t,n)}}function o(){"complete"===l.readyState&&i()}function i(){f("mark",["domContent",a()+x.offset],null,"api")}function a(){return O.exists&&performance.now?Math.round(performance.now()):(u=Math.max((new Date).getTime(),u))-x.offset}var u=(new Date).getTime(),f=e("handle"),c=e(3),s=e("ee"),p=e(2),d=window,l=d.document,m="addEventListener",v="attachEvent",g=d.XMLHttpRequest,w=g&&g.prototype;NREUM.o={ST:setTimeout,SI:d.setImmediate,CT:clearTimeout,XHR:g,REQ:d.Request,EV:d.Event,PR:d.Promise,MO:d.MutationObserver};var h=""+location,y={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-1118.min.js"},b=g&&w&&w[m]&&!/CriOS/.test(navigator.userAgent),x=n.exports={offset:u,now:a,origin:h,features:{},xhrWrappable:b,userAgent:p};e(1),l[m]?(l[m]("DOMContentLoaded",i,!1),d[m]("load",r,!1)):(l[v]("onreadystatechange",o),d[v]("onload",r)),f("mark",["firstbyte",u],null,"api");var E=0,O=e(5)},{}]},{},["loader"]);</script>
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <meta name="keywords" content="shorte.st, shortest, short links, link shortener, adf.ly, adfly, ad network, make money, earn money, make money online, passive income">
+        <link rel="alternate" hreflang="en" href="https://shorte.st/">
+<link rel="alternate" hreflang="es" href="https://shorte.st/es/">
+<link rel="alternate" hreflang="ru" href="https://shorte.st/ru/">
+<link rel="alternate" hreflang="pt" href="https://shorte.st/pt/">
+        <meta name="robots" content="noindex">        <meta property="og:image" content="https://static.shorte.st/bundles/smeweb/img/shortest-gfx.png?2018-12-20.1">
+        <meta name="description" content="Use shorte.st link shortener to make money online. We pay for each visit to your short link.">
+        <title>Privacy Policy - Shorte.st links</title>
+        <link rel="shortcut icon" href="https://static.shorte.st/bundles/smeweb/img/favicon.ico?2018-12-20.1">
+                    <link rel="stylesheet" href="//static.shorte.st/css/smeweb.css?2018-12-20.1">
+            <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css">
+                        <script type="text/javascript">
+    var app = {},
+        $ = function(selector) {
+            return bonzo(qwery(selector));
+        },
+        addthis_config = {
+            data_ga_property: 'UA-42296749-1',
+            data_ga_social: true
+        }
+    ;
+    app.options = {
+        translations: {
+            'copyButton': 'Copy',
+            'copiedButton': 'Copied'
+        },
+
+        captcha: {
+            'public_key': '6LeT9DEUAAAAAHSbpOoPCW9QnuWUwQ3FOFZh0Uu8'
+        },
+
+        routes: {
+            'facebookLogin':
+                '/oauth/facebook',
+            'fosUserSecurityLogout':
+                '/logout'
+        },
+
+        userInfo: {
+            'withdrawalEmailLabelTranslations' : {
+                0: 'Withdrawal email',
+                1: 'Withdrawal email',
+                2: 'Withdrawal email',
+                3: 'WebMoney USD purse id \x28e\x2eg\x2e Z0123456789012\x29'
+            },
+          'toBind': ['#sme_user_info_withdrawalMethods'],
+          'withdrawalEmailLabelSelector': '#js-withdrawal-email-label',
+          'withdrawalMethodsSelector': '#sme_user_info_withdrawalMethods'
+        },
+
+        shortener: {
+            'submitShortenPath': '/shortener/shorten',
+            'shortDomain' : 'clkmein.com',
+            'validateShortDomains' : ['sh.st', 'digg.to', 'clkme.in', 'clkmein.com', 'shorte.st', 'staging.shorte.st'],
+
+            'shortenButton': '#shorten',
+            'urlInputField': '#shortener_form_url',
+            'ninjaHead': '#logo-ninja-head',
+            'copyButton': '#copy',
+            'errorLabel': '#shorten_error',
+            'register': '#register-info',
+            'copyInfo': '#copy-info',
+            'shortenAnother' : '#shorten-another',
+            'earnMoney' : '#earn-money',
+            'shortenerContainer' : "#shortener-container",
+
+            'errorEmptyUrl': 'This field cannot be empty',
+            'errorInvalidUrl': 'It is not a valid URL',
+            'errorAlreadyShortened': 'You cannot shorten shortened url'
+        },
+
+
+        userCopyElements: {
+            'copyButtons': '.copyable-btn'
+        },
+
+        hider: {
+            selector: '.js-hide-by-click'
+        },
+        facebook: {
+            toBind: [], //'#facebook-login-top', '#fb-btn', '#facebook-login', '#connect-with-fb', '#fb-mobile-login'],
+            scope: "email, public_profile"
+        },
+
+        statistics: {
+            monthName: '.js-monthName',
+            totalViewsNode: '.js-totalViews',
+            totalIncomeNode: '.js-totalIncome strong',
+            totalEcpmNode: '.js-totalEcpm strong',
+            monthsLookup: []
+        },
+
+                gaTracker: {
+            setters: {
+                gaReferredDimensionSetter: 'setDimension',
+                gaServiceVersionDimensionSetter: 'setDimension',
+                gaServiceUserIdSetter: 'setUserId'
+            },
+            referredSetter: {
+                isRoleReferred: false,
+                referredCookieName: 'referral_id'
+            },
+            serviceVersionSetter: {
+                version: '2018-12-20.1'
+            },
+            serviceUserIdSetter: {
+                userId: 0            }
+        },
+
+        hittogle: {
+
+        },
+
+        customizer: {
+
+        },
+
+        elementToggle: {
+
+        },
+
+        layerHider: {
+
+        },
+
+        textareaselect: {
+
+        },
+
+        initializeModules: {
+            'shortener': true,
+            'userCopyElements': true,
+            'slider': false,
+            'hittoggle': false,
+            'errors': true,
+            'hider': true,
+            'facebook': true,
+            'sitescoutRetargeting': false,
+            'perfectAudience': false,
+            'gaPageviewTracker': true,
+            'customizer': false,
+            'statistics': false,
+            'elementToggle': false,
+            'layerHider': false,
+            'textareaselect': false,
+            'userInfo': true
+        }
+    };
+</script>
+        <script async="" src="//static.hotjar.com/c/hotjar-134435.js?sv=5"></script></head><body><div id="fb-root"></div>
+<script>
+    window.fbAsyncInit = function() {
+        FB.init({
+            appId      : '569416546450463',
+            xfbml      : false,
+            version    : 'v2.1',
+            status     : true
+        });
+    };
+
+    (function(d, s, id) {
+        var js, fjs = d.getElementsByTagName(s)[0];
+        if (d.getElementById(id)) {return;}
+        js = d.createElement(s); js.id = id;
+        js.src = "//connect.facebook.net/en_US/sdk.js";
+        fjs.parentNode.insertBefore(js, fjs);
+    }(document, 'script', 'facebook-jssdk'));
+</script>
+                    <script type="text/javascript" src="//static.shorte.st/js/packed/smeweb.js?2018-12-20.1"></script>
+        
+        <!-- Google Tag Manager -->
+        <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+        new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+        j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+        'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+        })(window,document,'script','dataLayer','GTM-W2LDN5R');</script>
+        <!-- End Google Tag Manager -->
+
+                <script type="text/javascript">
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create',
+      'UA-42296749-1',
+      {
+          allowLinker: true
+      }
+  );
+  </script>        <script type="text/javascript">
+          var addthis_config =
+          {
+            ui_use_css: false
+          }
+        </script>
+    
+    
+      <!-- Google Tag Manager (noscript) -->
+      <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-W2LDN5R"
+      height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+      <!-- End Google Tag Manager (noscript) -->
+                <a class="shortest-mobile-logo " href="&#10;              /                        ">
+          <img src="//static.shorte.st/bundles/smeweb/img/mobile-logo.png?2018-12-20.1" alt="shorte.st">
+        </a>
+        <p style="display:none">I started to earn money on short links. It’s easy - make the shorte.st links and earn the biggest money - shorte.st.</p>
+        
+
+
+    <div class="nav-container" id="not-logged">
+        <div class="container row-fluid navigation">
+            <ul class="span16 lng-en">
+                <li class="home-page ">
+                    <a href="/">
+                        Home                    </a>
+                </li>
+                <li>
+                    <a href="/benefits">
+                        Benefits                    </a>
+                </li>
+
+                <li>
+                    <a href="/referral-program">
+                       Affiliation                   </a>
+                </li>
+                 <li class="mining-app">
+                    <a href="https://shortest-miner.com">
+                        Mining Application
+                    </a>
+                </li>
+                <li class="user-action join ">
+                    <a href="/register/" class="join">
+                        Join                    </a>
+                </li>
+                <li class="user-action ">
+                    <a href="/login" class="login">
+                        Login                    </a>
+                </li>
+            </ul>
+        </div>
+    </div>
+    <div class="mobile-nav">
+        <ul>
+            <li><a class="mobi-menu-switch"><img src="https://static.shorte.st/bundles/smeweb/img/menu-burger.png?2018-12-20.1" alt="menu"></a></li>
+            <span class="user-account-action">
+                <ul>
+                    <li class="user-action join ">
+                        <a href="/register/" class="join">
+                            Join                        </a>
+                    </li>
+                    <li class="user-action ">
+                        <a href="/login" class="login">
+                            Login                        </a>
+                    </li>
+                </ul>
+            </span>
+            <li class="mobi-menu">
+                <ul>
+                    <li class="home-page ">
+                        <a href="/">
+                            Home                        </a>
+                    </li>
+                    <li>
+                        <a href="/benefits">
+                            Benefits                        </a>
+                    </li>
+
+                    <li>
+                        <a href="/referral-program">
+                           Affiliation                       </a>
+                    </li>
+                    <li class="mining-app">
+                        <a href="https://shortest-miner.com">
+                            Mining Application
+                        </a>
+                    </li>
+
+                </ul>
+            </li>
+        </ul>
+    </div>
+            
+    <div class="fixed-padding-subpage"></div>
+    <div class="shortener-container subpage lng-en ">
+        <div class="container">
+            <div class="row-fluid shortener-itself">
+                <div class="logo-short-head" id="logo-ninja-head">
+                    <a href="&#10;                        /                                            ">
+                        <img id="loading" src="https://static.shorte.st/bundles/smeweb/img/ninja-head-logo.png?2018-12-20.1" alt="ninja head" class="ninja-head">
+                    </a>
+                    <span class="plus-one"></span>
+                </div>
+                <div class="input-prepend span12 shortener-cont">
+	<input type="text" onclick="this.select()" id="shortener_form_url" name="shortener_form[url]" class="span13 shortener-input" required="required" placeholder="Shorten URL and get paid">
+	<input type="button" class="btn btn-shortest span3" id="shorten" value="Shorten">
+	<label id="shorten_error" style="display:none" for="shortener_form_url" class="shortener-error span13 js-hide-by-click"></label>
+	<button id="copy" class="copy-button lng-en" style="display: none;" data-clipboard-target="#shortener_form_url">Copy</button>
+    <div id="copy-info" class="hidden">
+        <span class="copied">
+            Your link has been copied        </span>
+        <a id="shorten-another">Shorten another link</a>
+    </div>
+</div>
+
+            </div>
+        </div>
+    </div>
+
+        
+                    <div class="flash-msg">
+                            </div>
+
+            <div class="language">
+                <div class="language-picker ">
+    <form class="en language-selector" id="languageOption">
+        <label class="language-label">Choose your language:</label>
+                            <label class="language-picker lang-en active ">
+                <a href="/language/en">en</a>
+                </label>
+                            <label class="language-picker lang-es  ">
+                <a href="/language/es">es</a>
+                </label>
+                            <label class="language-picker lang-ru  ">
+                <a href="/language/ru">ru</a>
+                </label>
+                </form>
+</div>
+            </div>
+
+            
+            <div class="row-fluid breads">
+                <div class="container mobile-version">
+                    
+<ul class="breadcrumb">
+            <li class="item">
+                <a href="/" alt="breadcrumbs.home">Home</a>
+                <span class="separator"></span>
+            </li>
+        <li class="item active">
+        Privacy Policy    </li>
+</ul>
+                </div>
+            </div>
+        
+
+        <!-- Body starts here -->
+            <div class="container static mobile-version">
+    <h2 class="text-center">
+        Privacy Policy    </h2>
+    <div class="main row-fluid">
+        <div class="row-fluid span14 offset1 element">
+        	<p>Effective data: May 25, 2018.</p>
+        	<p>We provide this Privacy Policy to inform you of our policies and procedures regarding the collection,
+                use and disclosure of the personal data and other information we receive from Publishers.</p>
+
+<p>Unless otherwise defined in this Privacy Policy, capitalized terms used in this Privacy Policy have the
+    same meanings as in our Terms of Use. By continuing to use the Site and/or Service after notice of
+    changes has been sent to you, you are consenting to these changes.</p>
+
+<p>You willingly provide us certain personal data, which we collect in order to allow you to benefit from
+    the Site and/or Service functionalities. If you have any hesitation about providing such personal data to
+    us or otherwise used in any manner permitted in this Privacy Policy and in our Terms of Use, you
+    should not become a Publisher.</p>
+
+<h3 class="static">The Site and Third Party Sites</h3>
+
+<p>This Privacy Policy applies solely to the Site. The Site may contain links to third parties' sites which
+    are not owned or controlled by the Provider. The Provider has no control over, and assumes no
+    responsibility for, the content, privacy policies (if any), or practices of any third parties' sites. You
+    acknowledge that you are responsible for reviewing and understanding the privacy policies (if any) of
+    any third parties' sites you may access through this Site. By using this Site, you release the Provider
+    from any and all liability arising from your use of any third parties' sites to which this Site may link.</p>
+
+<p>Our primary goals in collecting your personal data are to provide and improve the Site and Service
+    and the related features, to administer your subscription and to enable Publishers to enjoy and easily
+    navigate the Site and Service. Below are the types and categories of information we collect.</p>
+
+<h3 class="static">Personal Data Collected</h3>
+
+<p>We collect your personal data in the following ways:</p>
+
+<h3 class="static">Sign-up</h3>
+
+<p>To use the Service you are required to provide the following information, which you recognize and
+    expressly acknowledge are personal data allowing others, including the Provider, to identify you: first
+    and last name, full address e-mail address, You are responsible for ensuring the accuracy of any
+    personal information you submit. Inaccurate information will affect the information you receive when
+    using the Site and Service and our ability to contact you as described in this Privacy Policy.</p>
+
+<h3 class="static">Log Data</h3>
+
+<p>When you visit the Site our servers automatically record information about your use and your visit to
+    the Site ("Log Data"). The Log Data may include information such as your computer Internet Protocol
+    (IP) address, time and date of your requests, your browser type, what software you were using, the
+    web page you were visiting immediately prior to visiting the Site, access times and dates, your
+    location, mobile network information and other statistics. We use this information to monitor and
+    analyze the use of the Site and for the Site's technical administration, to improve the Site's
+    functionalities and Publisher-friendliness, and to better tailor it to the Publishers' needs.</p>
+
+<h3 class="static">Cookies</h3>
+
+<p>Like most sites, we use cookies and web log files to track the use of the Site. A cookie is a tiny data
+    file which resides on your computer and allows the Provider to recognize you as a Publisher when you
+    return to the Site using the same computer and web browser. If your browser settings do not allow
+    cookies, you may not be able to use the Site. Like the information you enter at subscription, cookies
+    and log file data are used to customize your experience on the Site.</p>
+
+<p>One type of cookie, known as a "session" cookie, is used to identify a particular visit to the Site.
+    Session cookie expires after a short time or when you close your web browser.</p>
+
+<p>Moreover, the Site may use local shared objects, commonly called a "flash cookies" for purposes such
+    as storing Publishers’ preferences. You may manage or opt out of your flash cookies <a href="http://www.macromedia.com/support/documentation/en/flashplayer/help/settings_manager06.html">here</a>.</p>
+
+<p>In the course of serving advertisements or optimizing Service to our Publishers, we may allow
+    authorized third parties to place or recognize a unique cookie on your browser. Any information
+    provided to third parties through such cookies will not be personally identifiable. If you would like more
+    information about this practice and to know your choices about not having this information used by
+    third parties, please click <a href="http://www.networkadvertising.org/managing/opt_out.asp">here</a>. Most browsers are initially set up to accept cookies, but you can reset
+    your browser to refuse all cookies or to indicate when a cookie is being sent. Unfortunately, if your
+    browser settings do not allow cookies or you opt to refuse all cookies, you may not be able to use the
+    Site. The Provider does not store personal data in the cookies.</p>
+
+<h3 class="static">Web Beacons</h3>
+
+<p>We allow other companies, called ad networks, to serve advertisements to Publishers through the
+    Site. Ad networks include third party ad servers, ad agencies, ad technology vendors and research
+    firms.</p>
+
+<p>To deliver these ads properly, we may include a file, called a web beacon, from these ad networks
+    within pages served by the Provider so the ad networks may provide anonymized, aggregated
+    auditing, research and reporting for advertisers as well as to target ads to you while you visit other
+    sites.</p>
+
+<p>Because your web browser must request these advertisements and web beacons from the ad
+    network’s servers, these companies can view, edit or set their own cookies, just as if you had
+    requested a web page from their site.</p>
+
+<p>These general targets may also be used by ad networks to display targeted ads on other sites as a
+    substitute for random, irrelevant ads. The Provider does not provide personal data to any advertiser or
+    any other third parties.</p>
+
+<h3 class="static">Log files, IP and Information About Your Computer</h3>
+
+<p>Due to the communications standards on the Internet, when you visit the Site we automatically receive
+    the URL of the site from which you came and the site to which you are going when you leave the Site.
+    We also receive the Internet protocol (IP) address of your computer (or the proxy server you use to
+    access the World Wide Web), your computer operating system and type of web browser you are
+    using, e-mail patterns, as well as the name of your ISP. This information is used to analyze overall
+    trends to help us improve the Site. The linkage between your IP address and your personal data is not
+    shared with third parties without your prior consent or except when allowed or required by law.</p>
+
+<h3 class="static">Communications</h3>
+
+<p>The Provider will communicate with you through e-mail and notices posted on the Site or through
+    other means available through the service, including text and other forms of messaging. If we send
+    any communications to you via the carrier service with which you have a mobile communications
+    subscription or otherwise have access, you understand you will pay any service fees associated with
+    any such access (including text messaging charges for messages to your mobile device). Please be
+    aware that you will always receive certain e-mails from the Provider related to the proper functioning of
+    the Service.</p>
+
+<h3 class="static">Sharing Information with Third Parties</h3>
+
+<p>The Provider takes the privacy of Publishers very seriously. Thus, we do not sell, rent, or otherwise
+    provide your personal data to third parties for marketing purposes. We will only share your personal
+    data with third parties to carry out your instructions or to provide specific services or information.
+    Unless you have agreed to it, these third parties do not retain, share, or store any personal data
+    except to provide these services and they are bound by confidentiality agreements which limit their
+    use of such information.</p>
+
+<p>We may provide aggregated anonymous data about the use of the Site to third parties for such
+    purposes as we deem, in our sole discretion, to be appropriate, including to prospective advertisers on
+    the Site.</p>
+
+<h3 class="static">Teaming with Third Parties</h3>
+
+<p>The Provider allows other companies to place advertisements on the Site. These companies use
+    technology to deliver advertisements you see on the Site directly to your browser. In doing so, they
+    may automatically receive your IP address. Other companies that place advertising on the Site may
+    have the ability to use cookies and/or web beacons to collect information, including information about
+    your use of the Site. We do not control the processes that advertisers use to collect the information.
+    However, IP addresses, cookies and web beacons alone are not considered as personal data and
+    generally cannot be used to identify individuals, only machines. Therefore, advertisers and others
+    whose advertisements or content may appear on the Site generally will not know who you are, unless
+    you provide additional information to them, by responding to an advertisement, by entering into an
+    agreement with them, or by some other means.</p>
+
+<h3 class="static">Legal Disclaimer</h3>
+
+<p>The Provider cooperates with government and law enforcement officials and private parties to enforce
+    and comply with the law. We will disclose any information about you to government or law
+    enforcement officials or private parties as we, in our sole discretion, believe necessary or appropriate
+    to respond to claims and legal process (including without limitation a court action), to protect the
+    property and rights of the Provider or a third party, to protect the safety of the public or any person, or
+    to prevent or stop activity we consider to be illegal or unethical.</p>
+
+<p>We provide the representations and information in this section in compliance with European privacy
+    laws, in particular the European General Data Protection Regulation (GDPR). They are specific to
+    persons located in EEA countries or Switzerland, so please don’t rely on the below, if you’re not in one
+    of those countries.</p>
+
+<p>If you are a visitor from the European Territories, our legal basis for collecting and using the personal
+    data described in this Privacy Policy will depend on the personal information concerned and the
+    specific context in which we collect it. "European Territories" mean the European Economic Area and
+    Switzerland. For the purpose of this Privacy Notice, the term "European Territories" shall continue to
+    include the United Kingdom, even after the United Kingdom leaves the European Economic Area
+    following Brexit.</p>
+
+<p>However, we will normally collect personal data from you where the processing is in our legitimate
+    business interests to, for example, administer our platforms and services and fulfil our contractual
+    obligations as a service provider.</p>
+
+<p>In some cases we may collect and process personal data based on consent. To the extent our clients
+    and Advertising Partners need to collect and share, or allow us to facilitate collection and sharing of
+    personal data to enable our services, it is the responsibility of these parties to provide necessary
+    privacy notices and obtain required consent(s).</p>
+
+<p>If you have questions about or need further information concerning the legal basis on which we collect
+    and use your personal information, including if you would like to better understand how our legitimate
+    interests to process your data are balanced against your data protection rights and freedoms, then
+    please contact us using the Contact Form</p>
+
+<h3 class="static">Disclosures to Others</h3>
+
+<p>The Provider may also disclose your personal data and other information you provide, to another third
+    party as part of reorganization or a sale of the assets of the Provider's division or company. Any third
+    party to which we transfer or sell our assets will have the right to continue to use the personal data
+    and other information that you provide to us.</p>
+
+<h3 class="static">Aggregate Information and Non-Identifying Information</h3>
+
+<p>We may share aggregated information that does not include personal data and we may otherwise
+    disclose non-identifying information and Log Data to third parties for industry analysis, demographic
+    profiling and other purposes. Any aggregated information shared in these contexts will not contain
+    your personal data.</p>
+
+<h3 class="static">International Transfer</h3>
+
+<p>Your information may be transferred to and maintained on computers and servers located outside of
+    your state, province, country or other governmental jurisdiction where the privacy laws may not be as
+    protective as those in your jurisdiction. Your consent to this Privacy Policy followed by your
+    submission of such information represents your consent to such transfer.</p>
+
+<h3 class="static">Links to Other Sites</h3>
+
+<p>Our Site contains links to other websites. If you choose to visit an advertiser by clicking on a banner
+    ad or other type of advertisement, or click on another third party link, you will be directed to those third
+    parties' websites. The fact that we link to a website or present a banner ad or other type of
+    advertisement is not an endorsement, authorization or representation of our affiliation with that third
+    party, nor is it an endorsement of their privacy or information security policies or practices. We do not
+    exercise control over third parties' websites. These other websites may place their own cookies or
+    other files on your computer, collect personal data or solicit personal information from you. Other sites
+    follow different rules regarding the use or disclosure of the personal data you submit to them. We
+    encourage you to read the privacy policies (if any) or statements of the other websites you visit.</p>
+
+<h3 class="static">Accessing and Changing Your Information</h3>
+
+<p>You can review the information you provided us with and make any desired changes to them at any
+    time. Please be aware that even after your request for a change is processed, the Provider may, for a
+    time, retain residual information about you in its backup and/or archival copies of its database. We
+    take your rights seriously and encourage you to use them if you deem this to be appropriate. You may
+    exercise these rights by emailing us using the following <a href="/contact/contact">Contact Form</a>.</p>
+
+<h3 class="static">Your Obligations</h3>
+
+<p>As a Publisher, you have certain obligations imposed by applicable law and regulations:</p>
+
+<ol class="static">
+	<li>You must, at all times, respect the terms and conditions of the then-current Privacy Policy and the Terms of Use. This includes respecting all intellectual property rights which may belong to third parties.</li>
+	<li>You must not download, upload or otherwise disseminate any information which may be deemed to be injurious, violent, offensive, racist or xenophobic.</li>
+</ol>
+
+<p>Any violation of these obligations may lead to the restriction, suspension or termination of your use of the Site and/or Service by the Provider, as we take these principles seriously and consider them to be the basis on which the Publishers adhere to the Site and the Service which it offers.</p>
+
+<h3 class="static">Security</h3>
+
+<p>We will make any legally required disclosures of any breach of the security, confidentiality, or integrity
+    of your unencrypted electronically stored "personal data" (as defined in applicable laws related to
+    security breach notification) to you via e-mail or conspicuous posting on the Site in the most expedient
+    time possible and without unreasonable delay, insofar as consistent with: (i) the legitimate needs of
+    law enforcement; or (ii) any measures necessary to determine the scope of the breach and restore the
+    reasonable integrity of the data system.</p>
+
+<p>We apply technical, administrative and organizational security measures to protect the data we collect
+    against accidental or unlawful destruction and loss, alteration, unauthorized disclosure or access, in
+    particular where the processing involves the transmission of data over a network, and against other
+    unlawful forms of processing.</p>
+
+<h3 class="static">Data Retention Policy</h3>
+
+<p>We retain personal data we collect directly for targeting purposes for no more than 12 months, after
+    which time we employ measures to delete it. However for identifiable data that we hold on behalf of an
+    Advertiser such as their email address list, we will retain until the Advertiser asks us to delete it.</p>
+
+<p>Personal data collected for other purposes is held no longer than necessary for our business purposes
+    but is anonymized. For example, we retain anonymized impression and click data to ensure we can
+    meet auditing requirements related to services provided or to meet legal requirements.</p>
+
+<h3 class="static">Additional data protection rights for EEA residents</h3>
+
+<p>If you wish to access, correct, update or request deletion of your personal information, you can contact
+    us using the Contact Form.</p>
+
+<p>You can object to processing of your personal information, ask us to restrict processing of your
+    personal information. Again, you can exercise these rights by contacting us using the Contact Form.</p>
+
+<p>Similarly, if we have collected and process your personal information with your consent, then you can
+    withdraw your consent at any time. Withdrawing your consent will not affect the lawfulness of any
+    processing we conducted prior to your withdrawal, nor will it affect processing of your personal
+    information conducted in reliance on lawful processing grounds other than consent.</p>
+
+<h3 class="static">Statement</h3>
+
+<p>In accordance with the Polish Act of 29 August 1997 on the protection of personal data (consolidated
+    text: Journal of Laws of 2002 No 101, item 926 as amended), the data controller of your personal data
+    is the Provider, that is Red Sky Sp. z o.o., a company duly incorporated under the laws of Poland, with
+    its registered office in Szczecin, at Aleja Piastów 22, Szczecin, 71-064, Poland, entered into the
+    register of entrepreneurs of the National Court Register maintained by the District Court Szczecin-
+    Centrum in Szczecin – the Commercial Court, XIII Commercial Department of the National Court
+    Register, with KRS number 0000209107, NIP (tax identification number): 6422683651, and REGON
+    number 276822679.</p>
+
+<h3 class="static">The Provider hereby declares as follows:</h3>
+
+<p>All data provided in a Contact Form and/or a Sign-up Form will be processed in order to allow the use
+    of the Site and Service. All data provided to the Provider will be stored and processed by the Provider
+    in accordance with the provisions of the Polish Act of 18 July 2002 on providing services by electronic
+    means (Journal of Laws of 2002 No 144, item 1204 as amended), as well as in accordance with the
+    Polish Act of 29 August 1997 on the protection of personal data and to EU Directive 95/46/EC and EU
+    Directive 2002/58/EC and the General Data Protection Regulation (“GDPR”) upon its effective date)
+    that relate to a party’s obligations under this Agreement.</p>
+<ol class="static">
+	<li>All personal data provided to the Provider will be stored in the Provider's database.</li>
+	<li>The Provider shall ensure the safety of Publishers’ personal data and the Provider has implemented
+        appropriate technical and organizational security measures as set forth in the Polish Act of 29 August
+        1997 on the protection of personal data and has met the requirements specified in the provisions
+        referred to thereof, in particular to protect the personal data to be processed against accidental or
+        unlawful destruction or accidental loss, alteration, unauthorized disclosure or access, in particular
+        where the processing involves the transmission of data over a network, and against all other unlawful
+
+        forms of processing. These measures ensure a level of security appropriate to the risks presented by
+        the processing and the nature of the data to be protected having regard to the state of the art.</li>
+	<li>Publishers have the right to verify, review and correct their personal data processed by the Provider.
+        The right can be exercised by a Publisher by sending a relevant request using the following <a href="/contact/contact">Contact Form</a>.</li>
+	<li>Publishers have the right to withdraw their consent to the processing of their personal data, giving the
+        Provider a notice to that effect. Though Publishers provide their personal data to the Provider
+        voluntarily, refusal to provide them renders entry into the agreement with the Provider and access to
+        the Site and use of the Service impossible.
+        The Provider fulfils all the requirements of the Act of 29 August 1997 on the protection of personal
+        data and EU Directive 95/46/EC and EU Directive 2002/58/EC and the General Data Protection
+        Regulation (“GDPR”) upon its effective date) that relate to a party’s obligations under this Agreement.</li>
+	<li>The Provider shall have the right to disclose the personal data only to the authorities entitled under the
+        provisions of the law in force (e.g. a court, the police).</li>
+	<li>The Provider shall have the right to disclose the personal data only to the authorities entitled under the provisions of the law in force (e.g. a court, the police).</li>
+	<li>Personal data provided to the Provider in a Contact Form and/or a Sign-up Form or in any other way
+        will be used by the Provider and its affiliates exclusively for the following purposes: (i) Publisher's use
+        of the Site and Service (a possibility of using the functionalities offered by the Site which includes
+        processing payments, resolving disputes, preventing prohibited or illegal activities; a Publisher is a
+        party to the agreement on services provided by electronic means); (ii) processing complaints and
+        providing customer support; (iii) contacting Publishers and replying to correspondence sent through
+        the Contact Form; (iv) technical operation of the Site and Service; (v) direct marketing (based on
+        Publisher’s preferences); (vi) maintaining the Site’s statistics; and (vii) performing research and
+        analysis aimed at improving the Site and Service.</li>
+</ol>
+
+<p>After reviewing the above Privacy Policy, by using or accessing the Site, and especially by clicking the
+    "SIGN UP NOW" button during the subscription process, you hereby:</p>
+
+<ol class="static">
+	<li>Consent to the processing and use by the Provider all the personal data provided to the Provider,
+        including data obtained as a result of your use of the Site and/or Service, for the above mentioned
+        purposes.</li>
+	<li>Consent to transfer of your personal data abroad, and in particular to the Provider affiliated companies
+        or associated entities, or to the Provider’s parent company, with their registered office outside the
+        Poland, for the purposes of processing in computer systems belonging to the Provider and its
+        business partners. You understand that the above entities may be located in countries that do not
+        guarantee the same level of personal data protection as the level guaranteed in Poland.</li>
+	<li>Agree that your consent remains valid for the entire period of your use of the Site and/or Service.</li>
+	<li>Declare and confirm that you have read the Terms of Use, you understand them and you will comply
+        with them, both in its current wording and with any later amendments.</li>
+</ol>
+
+<h3 class="static">How to contact us</h3>
+
+<p>If you have any queries regarding your personal data or comments on this Privacy Policy, please email us using the following <a href="/contact/contact">Contact Form</a>.</p>
+
+        </div>
+    </div>
+</div>
+
+        <!-- Body ends here -->
+        <div class="footer-container">
+    <div class="container">
+        <div class="row-fluid">
+            <div class="span4 offset2 element">
+                <h3 class="text-left">
+                    shorte.st
+                </h3>
+                <ul>
+                    <li><a href="/">Home</a></li>
+                    <li><a href="https://shorte.st/blog">Blog</a></li>
+                    <li><a href="/aboutus">About Us</a></li>
+                    <li><a rel="nofollow" href="/payoutrates">Payout rates</a> </li>
+                    <li><a href="/howitworks">How it works</a></li>
+                                    </ul>
+            </div>
+            <div class="span4 element">
+                <h3 class="text-left">
+                    More                </h3>
+                <ul>
+                    <li><a rel="nofollow" href="/privacy">Privacy Policy</a></li>
+                    <li><a rel="nofollow" href="/tou">Terms of use</a></li>
+                    <li><a href="/contact/contact">Contact us</a></li>
+                </ul>
+            </div>
+            <div class="span4 element">
+                <h3 class="text-left">
+                    Social                </h3>
+                <div class="span12 text-right addthis_toolbox addthis_default_style addthis_32x32_style" addthis:url="https://shorte.st/" addthis:title="I started to earn money on short links. It’s easy - make the shorte.st links and earn the biggest money.">
+                    <a class="addthis_button_google_plusone_share" g:plusone:size="medium" g:plusone:count="false" style="margin: 0 !important; padding: 0;">
+                        <span class="google-plus"></span>
+                    </a>
+                    <a class="addthis_button_twitter" style="margin: 0 1px; padding: 0;">
+                        <span class="twitter"></span>
+                    </a>
+                    <a class="addthis_button_facebook" style="margin: 0 !important; padding: 0;">
+                        <span class="facebook"></span>
+                    </a>
+                </div>
+                <script type="text/javascript">
+    var addthis_share = {
+                        title: "I started to earn money on short links. It’s easy - make the shorte.st links and earn the biggest money."
+            }
+    ;
+
+    domready(function () {
+        addthis.init();
+    });
+</script>
+<script type="text/javascript" src="//s7.addthis.com/js/300/addthis_widget.js#pubid=ra-51da6f311042459c&amp;async=1&amp;domready=1"></script>
+
+            </div>
+        </div>
+        <div class="row-fluid">
+            <p class="copy offset2 span12">
+                Copyright 2019 <b>shorte.st</b>. Crafted with love <span>♥</span> in Szczecin, PL
+                <a target="_blank" class="webmoney" href="http://www.wmtransfer.com/" title="WebMoney" rel="nofollow"><span></span></a>
+                <a target="_blank" class="payoneer" href="https://www.payoneer.com" title="Payoneer" rel="nofollow"><span></span></a>
+                <a target="_blank" class="paypal" href="https://www.paypal.com" title="PayPal" rel="nofollow"><span></span></a>
+            </p>
+        </div>
+    </div>
+
+</div>
+        <div class="cookies js-hide-by-click" data-app-hider-type="persistent" id="cookieInfo">
+            <p>
+                Dear User,
+Shorte.st uses cookies. By browsing the site, you're agreeing to our <a href="/privacy" target="_blank">cookie policy</a>.
+            </p>
+        </div>
+
+            <script type="text/javascript">
+            //dimensions6: Logged?
+            ga('set', 'dimension6', '0');
+        </script>
+        <script type="text/javascript">var ssaUrl = ('https:' == document.location.protocol ? 'https://' : 'http://') + 'pixel.sitescout.com/iap/da8c48308fa2e0fb';new Image().src = ssaUrl;</script>
+    
+                    <script>
+            (function(h,o,t,j,a,r){
+                h.hj=h.hj||function(){(h.hj.q=h.hj.q||[]).push(arguments)};
+                h._hjSettings={hjid:134435,hjsv:5};
+                a=o.getElementsByTagName('head')[0];
+                r=o.createElement('script');r.async=1;
+                r.src=t+h._hjSettings.hjid+j+h._hjSettings.hjsv;
+                a.appendChild(r);
+            })(window,document,'//static.hotjar.com/c/hotjar-','.js?sv=');
+        </script>
+                <!-- <script src="//cdn.optimizely.com/js/4656372646.js"></script> -->
+    
+
+    <script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","licenseKey":"28e0508023","applicationID":"9451013","transactionName":"NFRQZUVRChECVxINXA0ec1JDWQsMTGcLAWYQVEBzQl4ADgYONgVBF1hTXQ1fCgAMVRQAWg1W","queueTime":0,"applicationTime":39,"atts":"GBNTEw1LGR8=","errorBeacon":"bam.nr-data.net","agent":""}</script>
+
+
+</body></html>
