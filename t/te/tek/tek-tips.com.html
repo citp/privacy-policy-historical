@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the tek-tips.com privacy policy that was archived on 2018-12-24.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20181224093516id_/http%3A//www.engineering.com/Home/PrivacyPolicy/tabid/197/Default.aspx) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the tek-tips.com privacy policy that was archived on 2019-03-11.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20190311093304id_/http%3A//www.engineering.com/Home/PrivacyPolicy/tabid/197/Default.aspx) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xml:lang="en-US" lang="en-US" xmlns="http://www.w3.org/1999/xhtml"><head id="Head"><title>
 	ENGINEERING.com | Privacy Policy
@@ -198,253 +198,347 @@ googletag.enableServices();
 <style>a#CybotCookiebotDialogBodyLevelButtonAccept {background-color: #7A2A90!important;border: 1px solid #7A2A90!important;}</style>
 <script id="Cookiebot" src="https://consent.cookiebot.com/uc.js" data-cbid="a519561d-5e7f-44e8-9fab-3921debf3ae5" type="text/javascript" async=""></script>
 
+<style>
+	.notification_ribbon {
+		background: #3fa1a1;
+		background: -moz-linear-gradient(left, #3fa1a1 0%, #7a2a90 100%);
+		background: -webkit-linear-gradient(left, #3fa1a1 0%, #7a2a90 100%);
+		background: linear-gradient(to right, #3fa1a1 0%, #7a2a90 100%);
+		filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#3fa1a1', endColorstr='#7a2a90', GradientType=1);
+		padding: 15px 50px;
+		text-align: center;
+		font-family: montserrat;
+		font-size: 17px;
+		color: #ffffff !important;
+	}
+
+	.notification_ribbon a:link,
+	.notification_ribbon a:visited,
+	.notification_ribbon a:hover {
+		color: #ffffff !important;
+		text-decoration: underline;
+	}
+
+	.ribbon_close {
+		display: none;
+		position: absolute;
+		top: 18px;
+		right: 25px;
+		text-align: right;
+		font-weight: bold;
+		color: #ffffff !important;
+	}
+
+	.ribbon_txt {
+		display: inline;
+	}
+
+	.ribbon_link {
+		cursor: pointer;
+	}
+
+	@media screen and (max-width: 460px) {
+		.ribbon_txt {
+			display: none;
+		}
+	}
+
+	@media screen and (min-width: 461px) {
+		.ribbon_txt {
+			display: inline;
+		}
+	}
+</style>
+
+<script>
+	$('.ribbon_close').click(function () {
+		$('.notification_ribbon').hide();
+		document.cookie = "new_article_format_ribbon=hidden";
+	});
+
+	// if ($(window).width() < 460) {
+	// 	$('.ribbon_txt').hide();
+	// } else {
+	// 	$('.ribbon_txt').show();
+	// }
+</script>
+
+
+<div class="notification_ribbon"><span class="ribbon_txt">We're working on a new
+		experience for engineering.com stories! </span><a class="ribbon_link" href="https://new.engineering.com/article/?utm_source=engcom_new">Try the new look</a>
+	<div class="ribbon_close">X</div>
+</div>
+
+
 <nav class="topNav">
-  <div class="topNav_logo_mobile_container">
-    <a class="gtm_topNav" id="gtm_engcomHead_logo" href="/" target="_self" onclick="dataLayer.push({'eventLabel': 'Engineering.com Logo'});">
-      <img class="topNav_logo_mobile" src="https://file1.engineering.com/images/logos/engcom_logo_black.png" alt="Engineering.com">
-    </a>
-  </div>
+	<div class="topNav_logo_mobile_container">
+		<a class="gtm_topNav" id="gtm_engcomHead_logo" href="/" target="_self" onclick="dataLayer.push({'eventLabel': 'Engineering.com Logo'});">
+			<img class="topNav_logo_mobile" src="https://file1.engineering.com/images/logos/engcom_logo_black.png" alt="Engineering.com">
+		</a>
+	</div>
 
-  <!---------------- SEARCH MODE WHEN TOGGLED -------------------->
-  <ul class="topNav_bar animate searchMode">
+	<!---------------- SEARCH MODE WHEN TOGGLED -------------------->
+	<ul class="topNav_bar animate searchMode">
 
-    <div class="topNav_menuWrap">
+		<div class="topNav_menuWrap">
 
-    <!-- EngCom Logo -->
-    <li class="topNav_listItem_logo topNav_item_alt">
-      <div class="navToggle" id="navToggle">
-        MENU
-      </div>
-      <a class="gtm_topNav" id="gtm_engcomHead_logo" href="https://www.engineering.com" target="_self" onclick="dataLayer.push({'eventLabel': 'Engineering.com Logo'});"><img class="topNav_logo" src="https://file1.engineering.com/images/logos/engcom_logo_black.png" alt="Engineering.com"></a>
-    </li>
+			<!-- EngCom Logo -->
+			<li class="topNav_listItem_logo topNav_item_alt">
+				<div class="navToggle" id="navToggle">
+					MENU
+				</div>
+				<a class="gtm_topNav" id="gtm_engcomHead_logo" href="https://www.engineering.com" target="_self" onclick="dataLayer.push({'eventLabel': 'Engineering.com Logo'});"><img class="topNav_logo" src="https://file1.engineering.com/images/logos/engcom_logo_black.png" alt="Engineering.com"></a>
+			</li>
 
-    <!-- Google Custom Search -->
-    <li class="topNav_item hoverable topNav_item--searchmode">
-      <script async=""> function() { var cx = '007544273626336820637:46vyx4uu5ty'; var gcse = document.createElement('script'); gcse.type = 'text/javascript'; gcse.async = true; gcse.src = 'https://cse.google.com/cse.js?cx=' + cx; var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(gcse, s); }(); </script> <gcse:searchbox-only resultsurl="https://www.engineering.com/Search"></gcse:searchbox-only>
-    </li>
+			<!-- Google Custom Search -->
+			<li class="topNav_item hoverable topNav_item--searchmode">
+				<script async="">
+					function () {
+						var cx = '007544273626336820637:46vyx4uu5ty';
+						var gcse = document.createElement('script');
+						gcse.type = 'text/javascript';
+						gcse.async = true;
+						gcse.src = 'https://cse.google.com/cse.js?cx=' + cx;
+						var s = document.getElementsByTagName('script')[0];
+						s.parentNode.insertBefore(gcse, s);
+					}();
+				</script>
+				<gcse:searchbox-only resultsurl="https://www.engineering.com/Search"></gcse:searchbox-only>
+			</li>
 
-    <li class="topNav_item topNav_item--search topNav_item_alt mobile_right">
-      <a id="gtm_engcomHead_search" class="topNav_link gtm_topNav" href="#" target="_self" onclick="dataLayer.push({'eventLabel': 'Search (disable)'});"><img class="topNav_searchIcon" src="https://file1.engineering.com/images/icons-badges/magnify.svg" alt="Search Engineering.com"></a>
-    </li>
-    <li class="topNav_item_alt no-highlight">
-      <a id="gtm_engcomHead_login" href="https://www.engineering.com/Login.aspx?ReturnUrl=https://www.engineering.com/Home/PrivacyPolicy/tabid/197/Default.aspx" class="loginOut gtm_topNav" target="_self" onclick="dataLayer.push({'eventLabel': 'User Account > Log In'});">Log&nbsp;In</a>
-    </li>
-    </div>
-  </ul>
+			<li class="topNav_item topNav_item--search topNav_item_alt mobile_right">
+				<a id="gtm_engcomHead_search" class="topNav_link gtm_topNav" href="#" target="_self" onclick="dataLayer.push({'eventLabel': 'Search (disable)'});"><img class="topNav_searchIcon" src="https://file1.engineering.com/images/icons-badges/magnify.svg" alt="Search Engineering.com"></a>
+			</li>
+			<li class="topNav_item_alt no-highlight">
+				<a id="gtm_engcomHead_login" href="https://www.engineering.com/Login.aspx?ReturnUrl=https://www.engineering.com/Home/PrivacyPolicy/tabid/197/Default.aspx" class="loginOut gtm_topNav" target="_self" onclick="dataLayer.push({'eventLabel': 'User Account > Log In'});">Log&nbsp;In</a>
+			</li>
+		</div>
+	</ul>
 
-  <!---------------- STANDARD MENU MODE INCL MOBILE -------------------->
-  <ul class="topNav_bar animate standardMode">
+	<!---------------- STANDARD MENU MODE INCL MOBILE -------------------->
+	<ul class="topNav_bar animate standardMode">
 
-    <!-- Mobile navigation toggle tab -->
-    <div class="navToggle" id="navToggle">
-      MENU
-    </div>
+		<!-- Mobile navigation toggle tab -->
+		<div class="navToggle" id="navToggle">
+			MENU
+		</div>
 
-    <!-- Mobile swipe left edge invisible zone -->
-    <div class="navSwipeZone"></div>
+		<!-- Mobile swipe left edge invisible zone -->
+		<div class="navSwipeZone"></div>
 
-    <div class="topNav_menuWrap">
+		<div class="topNav_menuWrap">
 
-    <!-- EngCom Logo -->
-    <li class="topNav_listItem_logo topNav_item_alt">
-      <a class="gtm_topNav" id="gtm_engcomHead_logo" href="https://www.engineering.com" target="_self" onclick="dataLayer.push({'eventLabel': 'Engineering.com Logo'});"><img class="topNav_logo" src="https://file1.engineering.com/images/logos/engcom_logo_black.png" alt="Engineering.com"></a>
-    </li>
+			<!-- EngCom Logo -->
+			<li class="topNav_listItem_logo topNav_item_alt">
+				<a class="gtm_topNav" id="gtm_engcomHead_logo" href="https://www.engineering.com" target="_self" onclick="dataLayer.push({'eventLabel': 'Engineering.com Logo'});"><img class="topNav_logo" src="https://file1.engineering.com/images/logos/engcom_logo_black.png" alt="Engineering.com"></a>
+			</li>
 
-    <!-- Mobile menu search -->
-    <li class="topNav_mobileSearch">
-      <script async=""> (function() { var cx = '007544273626336820637:46vyx4uu5ty'; var gcse = document.createElement('script'); gcse.type = 'text/javascript'; gcse.async = true; gcse.src = 'https://cse.google.com/cse.js?cx=' + cx; var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(gcse, s); })(); </script> <gcse:searchbox-only resultsurl="http://www.engineering.com/Search"></gcse:searchbox-only>
-    </li>
+			<!-- Mobile menu search -->
+			<li class="topNav_mobileSearch">
+				<script async="">
+					(function () {
+						var cx = '007544273626336820637:46vyx4uu5ty';
+						var gcse = document.createElement('script');
+						gcse.type = 'text/javascript';
+						gcse.async = true;
+						gcse.src = 'https://cse.google.com/cse.js?cx=' + cx;
+						var s = document.getElementsByTagName('script')[0];
+						s.parentNode.insertBefore(gcse, s);
+					})();
+				</script>
+				<gcse:searchbox-only resultsurl="https://www.engineering.com/Search"></gcse:searchbox-only>
+			</li>
 
-    <!------------- STORIES - Top Level --------------->
-    <li class="topNav_item hoverable mobile_left">
-      <a id="gtm_engcomHead_stories_topLevel" class="topNav_link gtm_topNav" href="http://www.engineering.com/" target="_self" onclick="dataLayer.push({'eventLabel': 'Stories'});">Stories</a>
+			<!------------- STORIES - Top Level --------------->
+			<li class="topNav_item hoverable mobile_left">
+				<a id="gtm_engcomHead_stories_topLevel" class="topNav_link gtm_topNav" href="https://www.engineering.com/" target="_self" onclick="dataLayer.push({'eventLabel': 'Stories'});">Stories</a>
 
-      <!-- STORIES - Drop Down  -->
-      <div class="topNav_Box topLevel">
-        <div class="topLevel_head">
-          <h3>
-            The latest engineering related news and articles from around the world.
-          </h3>
-        </div>
-        <ul class="subNav" id="subNav_stories">
-          <li>
-            <a id="gtm_engcomHead_stories_designerEdge" class="subNav_link gtm_topNav" href="https://www.engineering.com/DesignerEdge/DesignerEdgeArticles.aspx" target="_self" onclick="dataLayer.push({'eventLabel': 'Stories > Designer Edge'});">Designer Edge</a>
-          </li>
-          <li>
-            <a id="gtm_engcomHead_stories_cadcae" class="subNav_link gtm_topNav" href="https://www.engineering.com/DesignSoftware/DesignSoftwareArticles.aspx" target="_self" onclick="dataLayer.push({'eventLabel': 'Stories > CAD/CAE'});">CAD/CAE</a>
-          </li>
-          <li>
-            <a id="gtm_engcomHead_stories_plmerp" class="subNav_link gtm_topNav" href="https://www.engineering.com/PLMERP.aspx" target="_self" onclick="dataLayer.push({'eventLabel': 'Stories > PLM/ERP'});">PLM/ERP</a>
-          </li>
-          <li>
-            <a id="gtm_engcomHead_stories_manufacturing" class="subNav_link gtm_topNav" href="https://www.engineering.com/AdvancedManufacturing.aspx" target="_self" onclick="dataLayer.push({'eventLabel': 'Stories > Manufacturing'});">Manufacturing</a>
-          </li>
-          <li>
-            <a id="gtm_engcomHead_stories_electronics" class="subNav_link gtm_topNav" href="https://www.engineering.com/ElectronicsDesign/ElectronicsDesignArticles.aspx" target="_self" onclick="dataLayer.push({'eventLabel': 'Stories > Electronics'});">Electronics</a>
-          </li>
-          <li>
-            <a id="gtm_engcomHead_stories_3dprinting" class="subNav_link gtm_topNav" href="https://www.engineering.com/3DPrinting/3DPrintingArticles.aspx" target="_self" onclick="dataLayer.push({'eventLabel': 'Stories > 3D Printing'});">3D Printing</a>
-          </li>
-          <li>
-            <a id="gtm_engcomHead_stories_bim" class="subNav_link gtm_topNav" href="https://www.engineering.com/BIM.aspx" target="_self" onclick="dataLayer.push({'eventLabel': 'Stories > BIM'});">BIM</a>
-          </li>
-          <li>
-            <a id="gtm_engcomHead_stories_education" class="subNav_link gtm_topNav" href="https://www.engineering.com/Education/EducationArticles.aspx" target="_self" onclick="dataLayer.push({'eventLabel': 'Stories > Education'});">Education</a>
-          </li>
-          <li>
-            <a id="gtm_engcomHead_stories_iot" class="subNav_link gtm_topNav" href="https://www.engineering.com/IOT.aspx" target="_self" onclick="dataLayer.push({'eventLabel': 'Stories > IoT'});">IoT</a>
-          </li>
-          <li>
-            <a id="gtm_engcomHead_stories_hardware" class="subNav_link gtm_topNav" href="https://www.engineering.com/Hardware.aspx" target="_self" onclick="dataLayer.push({'eventLabel': 'Stories > Hardware'});">Hardware</a>
-          </li>
-          <li>
-            <a id="gtm_engcomHead_stories_arvr" class="subNav_link gtm_topNav" href="https://www.engineering.com/ARVR.aspx" target="_self" onclick="dataLayer.push({'eventLabel': 'Stories > AR/VR'});">AR/VR</a>
-          </li>
-        </ul>
-        <h4><a id="gtm_engcomHead_stories_industries" class="subNav_link gtm_topNav" href="https://www.engineering.com/industries.aspx" target="_self" onclick="dataLayer.push({'eventLabel': 'Stories > Industries'});">Also browse by industries</a></h4>
-      </div>
-    </li>
+				<!-- STORIES - Drop Down  -->
+				<div class="topNav_Box topLevel">
+					<div class="topLevel_head">
+						<h3>
+							The latest engineering related news and articles from around the world.
+						</h3>
+					</div>
+					<ul class="subNav" id="subNav_stories">
+						<li>
+							<a id="gtm_engcomHead_stories_designerEdge" class="subNav_link gtm_topNav" href="https://www.engineering.com/DesignerEdge/DesignerEdgeArticles.aspx" target="_self" onclick="dataLayer.push({'eventLabel': 'Stories > Designer Edge'});">Designer Edge</a>
+						</li>
+						<li>
+							<a id="gtm_engcomHead_stories_cadcae" class="subNav_link gtm_topNav" href="https://www.engineering.com/DesignSoftware/DesignSoftwareArticles.aspx" target="_self" onclick="dataLayer.push({'eventLabel': 'Stories > CAD/CAE'});">CAD/CAE</a>
+						</li>
+						<li>
+							<a id="gtm_engcomHead_stories_plmerp" class="subNav_link gtm_topNav" href="https://www.engineering.com/PLMERP.aspx" target="_self" onclick="dataLayer.push({'eventLabel': 'Stories > PLM/ERP'});">PLM/ERP</a>
+						</li>
+						<li>
+							<a id="gtm_engcomHead_stories_manufacturing" class="subNav_link gtm_topNav" href="https://www.engineering.com/AdvancedManufacturing.aspx" target="_self" onclick="dataLayer.push({'eventLabel': 'Stories > Manufacturing'});">Manufacturing</a>
+						</li>
+						<li>
+							<a id="gtm_engcomHead_stories_electronics" class="subNav_link gtm_topNav" href="https://www.engineering.com/ElectronicsDesign/ElectronicsDesignArticles.aspx" target="_self" onclick="dataLayer.push({'eventLabel': 'Stories > Electronics'});">Electronics</a>
+						</li>
+						<li>
+							<a id="gtm_engcomHead_stories_3dprinting" class="subNav_link gtm_topNav" href="https://www.engineering.com/3DPrinting/3DPrintingArticles.aspx" target="_self" onclick="dataLayer.push({'eventLabel': 'Stories > 3D Printing'});">3D Printing</a>
+						</li>
+						<li>
+							<a id="gtm_engcomHead_stories_bim" class="subNav_link gtm_topNav" href="https://www.engineering.com/BIM.aspx" target="_self" onclick="dataLayer.push({'eventLabel': 'Stories > BIM'});">BIM</a>
+						</li>
+						<li>
+							<a id="gtm_engcomHead_stories_education" class="subNav_link gtm_topNav" href="https://www.engineering.com/Education/EducationArticles.aspx" target="_self" onclick="dataLayer.push({'eventLabel': 'Stories > Education'});">Education</a>
+						</li>
+						<li>
+							<a id="gtm_engcomHead_stories_iot" class="subNav_link gtm_topNav" href="https://www.engineering.com/IOT.aspx" target="_self" onclick="dataLayer.push({'eventLabel': 'Stories > IoT'});">IoT</a>
+						</li>
+						<li>
+							<a id="gtm_engcomHead_stories_hardware" class="subNav_link gtm_topNav" href="https://www.engineering.com/Hardware.aspx" target="_self" onclick="dataLayer.push({'eventLabel': 'Stories > Hardware'});">Hardware</a>
+						</li>
+						<li>
+							<a id="gtm_engcomHead_stories_arvr" class="subNav_link gtm_topNav" href="https://www.engineering.com/ARVR.aspx" target="_self" onclick="dataLayer.push({'eventLabel': 'Stories > AR/VR'});">AR/VR</a>
+						</li>
+					</ul>
+					<h4><a id="gtm_engcomHead_stories_industries" class="subNav_link gtm_topNav" href="https://www.engineering.com/industries.aspx" target="_self" onclick="dataLayer.push({'eventLabel': 'Stories > Industries'});">Also browse by industries</a></h4>
+				</div>
+			</li>
 
-    <!------------- PROJECTS - Top Level --------------->
-    <li class="topNav_item hoverable mobile_left">
-      <img class="new_badge2" src="https://file1.engineering.com/images/icons-badges/new-badge-purple.png" alt="">
-      <a id="gtm_engcomHead_projects_topLevel" class="topNav_link gtm_topNav" href="https://projects.engineering.com/?utm_source=ecomleonav" target="_blank" onclick="dataLayer.push({'eventLabel': 'Projects'});">ProjectBoard</a>
+			<!------------- PROJECTS - Top Level --------------->
+			<li class="topNav_item hoverable mobile_left">
+				<!-- <img class="new_badge2" src="https://file1.engineering.com/images/icons-badges/new-badge-purple.png" alt="" /> -->
+				<a id="gtm_engcomHead_projects_topLevel" class="topNav_link gtm_topNav" href="https://projects.engineering.com/?utm_source=ecomleonav" target="_blank" onclick="dataLayer.push({'eventLabel': 'Projects'});">ProjectBoard</a>
 
-      <!-- PROJECTS - Drop Down  -->
-      <div class="topNav_Box topLevel">
-        <div class="topLevel_head">
-          <h3>
-            The place for STEM minds to share ideas, take action and solve problems, big and small.
-          </h3>
-        </div>
-        <ul class="subNav noCol" id="subNav_projects">
-          <li>
-            <a id="gtm_engcomHead_projects_about" class="subNav_link gtm_topNav" href="https://www.projectboard.site?utm_source=leonavabout" target="_blank" onclick="dataLayer.push({'eventLabel': 'Projects > About'});">About ProjectBoard</a>
-          </li>
-          <li>
-            <a id="gtm_engcomHead_projects_browse" class="subNav_link gtm_topNav" href="https://projects.engineering.com/?utm_source=ecomleonav2" target="_blank" onclick="dataLayer.push({'eventLabel': 'Projects > Browse'});">Browse Public ProjectBoards</a>
-          </li>
-          <li>
-            <a id="gtm_engcomHead_projects_startNew" class="subNav_link gtm_topNav" href="https://projects.engineering.com/welcome?utm_source=ecomleonav3" target="_blank" onclick="dataLayer.push({'eventLabel': 'Projects > Start New'});">Start a New ProjectBoard</a>
-          </li>
-        </ul>
-      </div>
-    </li>
+				<!-- PROJECTS - Drop Down  -->
+				<div class="topNav_Box topLevel">
+					<div class="topLevel_head">
+						<h3>
+							The place for STEM minds to share ideas, take action and solve problems, big and small.
+						</h3>
+					</div>
+					<ul class="subNav noCol" id="subNav_projects">
+						<li>
+							<a id="gtm_engcomHead_projects_about" class="subNav_link gtm_topNav" href="https://www.projectboard.site?utm_source=leonavabout" target="_blank" onclick="dataLayer.push({'eventLabel': 'Projects > About'});">About ProjectBoard</a>
+						</li>
+						<li>
+							<a id="gtm_engcomHead_projects_browse" class="subNav_link gtm_topNav" href="https://projects.engineering.com/?utm_source=ecomleonav2" target="_blank" onclick="dataLayer.push({'eventLabel': 'Projects > Browse'});">Browse Public ProjectBoards</a>
+						</li>
+						<li>
+							<a id="gtm_engcomHead_projects_startNew" class="subNav_link gtm_topNav" href="https://projects.engineering.com/welcome?utm_source=ecomleonav3" target="_blank" onclick="dataLayer.push({'eventLabel': 'Projects > Start New'});">Start a New ProjectBoard</a>
+						</li>
+					</ul>
+				</div>
+			</li>
 
-    <!------------- JOBS - Top Level --------------->
-    <li class="topNav_item hoverable">
-      <a id="gtm_engcomHead_jobs_topLevel" class="topNav_link gtm_topNav" href="https://www.engineering.com/jobs/" target="_blank" onclick="dataLayer.push({'eventLabel': 'Jobs'});">Jobs</a>
+			<!------------- JOBS - Top Level --------------->
+			<li class="topNav_item hoverable">
+				<a id="gtm_engcomHead_jobs_topLevel" class="topNav_link gtm_topNav" href="https://www.engineering.com/jobs/" target="_blank" onclick="dataLayer.push({'eventLabel': 'Jobs'});">Jobs</a>
 
-      <!-- JOBS - Drop Down -->
-      <div class="topNav_Box topLevel">
-        <div class="topLevel_head">
-          <h3>
-            Discover thousands of jobs in engineering around the world.
-          </h3>
-        </div>
-        <ul class="subNav noCol" id="subNav_jobs">
-          <li>
-            <a id="gtm_engcomHead_jobs_find" class="subNav_link gtm_topNav" href="https://www.engineering.com/jobs/find-jobs/" target="_blank" onclick="dataLayer.push({'eventLabel': 'Jobs > Find'});">Find a Job</a>
-          </li>
-          <li>
-            <a id="gtm_engcomHead_jobs_post" class="subNav_link gtm_topNav" href="https://www.engineering.com/jobs/add-listing/?listing_type_id=Job" target="_blank" onclick="dataLayer.push({'eventLabel': 'Jobs > Post'});">Post a Job</a>
-          </li>
-          <li>
-            <a id="gtm_engcomHead_jobs_stories" class="subNav_link gtm_topNav" href="https://www.engineering.com/JobArticles.aspx" target="_blank" onclick="dataLayer.push({'eventLabel': 'Jobs > Stories'});">Stories</a>
-          </li>
-        </ul>
-      </div>
-    </li>
+				<!-- JOBS - Drop Down -->
+				<div class="topNav_Box topLevel">
+					<div class="topLevel_head">
+						<h3>
+							Discover thousands of jobs in engineering around the world.
+						</h3>
+					</div>
+					<ul class="subNav noCol" id="subNav_jobs">
+						<li>
+							<a id="gtm_engcomHead_jobs_find" class="subNav_link gtm_topNav" href="https://www.engineering.com/jobs/find-jobs/" target="_blank" onclick="dataLayer.push({'eventLabel': 'Jobs > Find'});">Find a Job</a>
+						</li>
+						<li>
+							<a id="gtm_engcomHead_jobs_post" class="subNav_link gtm_topNav" href="https://www.engineering.com/jobs/add-listing/?listing_type_id=Job" target="_blank" onclick="dataLayer.push({'eventLabel': 'Jobs > Post'});">Post a Job</a>
+						</li>
+						<li>
+							<a id="gtm_engcomHead_jobs_stories" class="subNav_link gtm_topNav" href="https://www.engineering.com/JobArticles.aspx" target="_blank" onclick="dataLayer.push({'eventLabel': 'Jobs > Stories'});">Stories</a>
+						</li>
+					</ul>
+				</div>
+			</li>
 
-    <!------------- RESOURCES - Top Level --------------->
-    <li class="topNav_item hoverable">
-      <a id="gtm_engcomHead_resources_topLevel" class="topNav_link gtm_topNav" href="https://www.engineering.com/Resources.aspx" target="_self" onclick="dataLayer.push({'eventLabel': 'Resources'});">Resources</a>
+			<!------------- RESOURCES - Top Level --------------->
+			<li class="topNav_item hoverable">
+				<a id="gtm_engcomHead_resources_topLevel" class="topNav_link gtm_topNav" href="https://www.engineering.com/Resources.aspx" target="_self" onclick="dataLayer.push({'eventLabel': 'Resources'});">Resources</a>
 
-      <!-- RESOURCES - Drop Down -->
-      <div class="topNav_Box topLevel">
-        <div class="topLevel_head">
-          <h3>
-            Informative and educational webinars, tutorials, technical papers and videos for engineers.
-          </h3>
-        </div>
-        <ul class="subNav noCol" id="subNav_Resources">
-          <li>
-            <a id="gtm_engcomHead_resources_webinars" class="subNav_link gtm_topNav" href="https://www.engineering.com/Webinars.aspx" target="_self" onclick="dataLayer.push({'eventLabel': 'Resources > Webinars'});">Webinars</a>
-          </li>
-          <li>
-            <a id="gtm_engcomHead_resources_ebooksWhitepapers" class="subNav_link gtm_topNav" href="https://www.engineering.com/Resources.aspx" target="_self" onclick="dataLayer.push({'eventLabel': 'Resources > Ebooks/Whitepapers'});">Ebooks and Whitepapers</a>
-          </li>
-          <li>
-            <a id="gtm_engcomHead_resources_tutorials" class="subNav_link gtm_topNav" href="https://www.engineering.com/tutorials/" target="_blank" onclick="dataLayer.push({'eventLabel': 'Resources > Tutorials'});">Tutorials</a>
-          </li>
-          <li>
-            <a id="gtm_engcomHead_resources_audio" class="subNav_link gtm_topNav" href="http://www.engineering.com/Audio.aspx" target="_self" onclick="dataLayer.push({'eventLabel': 'Resources > Audio'});">Audio</a>
-          </li>
-          <li>
-            <a id="gtm_engcomHead_resources_video" class="subNav_link gtm_topNav" href="https://www.engineering.com/Videos.aspx" target="_self" onclick="dataLayer.push({'eventLabel': 'Resources > Videos'});">Videos</a>
-          </li>
-          <li>
-            <a id="gtm_engcomHead_resources_mastersDiscovery" class="subNav_link gtm_topNav" href="http://www.engineering.com/schools/colleges-universities/graduate-school-degree-finder/" target="_self" onclick="dataLayer.push({'eventLabel': 'Resources > MastersDiscovery'});">MastersDiscovery</a>
-          </li>
-        </ul>
-      </div>
-    </li>
+				<!-- RESOURCES - Drop Down -->
+				<div class="topNav_Box topLevel">
+					<div class="topLevel_head">
+						<h3>
+							Informative and educational webinars, tutorials, technical papers and videos for engineers.
+						</h3>
+					</div>
+					<ul class="subNav noCol" id="subNav_Resources">
+						<li>
+							<a id="gtm_engcomHead_resources_webinars" class="subNav_link gtm_topNav" href="https://www.engineering.com/Webinars.aspx" target="_self" onclick="dataLayer.push({'eventLabel': 'Resources > Webinars'});">Webinars</a>
+						</li>
+						<li>
+							<a id="gtm_engcomHead_resources_ebooksWhitepapers" class="subNav_link gtm_topNav" href="https://www.engineering.com/Resources.aspx" target="_self" onclick="dataLayer.push({'eventLabel': 'Resources > Ebooks/Whitepapers'});">Ebooks and Whitepapers</a>
+						</li>
+						<li>
+							<a id="gtm_engcomHead_resources_tutorials" class="subNav_link gtm_topNav" href="https://www.engineering.com/tutorials/" target="_blank" onclick="dataLayer.push({'eventLabel': 'Resources > Tutorials'});">Tutorials</a>
+						</li>
+						<li>
+							<a id="gtm_engcomHead_resources_audio" class="subNav_link gtm_topNav" href="https://www.engineering.com/Audio.aspx" target="_self" onclick="dataLayer.push({'eventLabel': 'Resources > Audio'});">Audio</a>
+						</li>
+						<li>
+							<a id="gtm_engcomHead_resources_video" class="subNav_link gtm_topNav" href="https://www.engineering.com/Videos.aspx" target="_self" onclick="dataLayer.push({'eventLabel': 'Resources > Videos'});">Videos</a>
+						</li>
+						<!--<li>
+            <a id="gtm_engcomHead_resources_mastersDiscovery" class="subNav_link gtm_topNav" href="https://www.engineering.com/schools/colleges-universities/graduate-school-degree-finder/" target="_self" onclick="dataLayer.push({'eventLabel': 'Resources > MastersDiscovery'});">MastersDiscovery</a>-->
+			
+	</ul>
+	</div>
+	</li>
 
-    <!------------- GAMES - Top Level --------------->
-    <li class="topNav_item hoverable" id="subNav_games">
-      <a id="gtm_engcomHead_games_topLevel" class="topNav_link gtm_topNav" href="https://www.engineering.com/GamesPuzzles/tabid/82/Default.aspx" target="_self" onclick="dataLayer.push({'eventLabel': 'Games'});">Games</a>
+	<!------------- GAMES - Top Level --------------->
+	<li class="topNav_item hoverable" id="subNav_games">
+		<a id="gtm_engcomHead_games_topLevel" class="topNav_link gtm_topNav" href="https://www.engineering.com/GamesPuzzles/tabid/82/Default.aspx" target="_self" onclick="dataLayer.push({'eventLabel': 'Games'});">Games</a>
 
-      <!-- GAMES - Drop Down -->
-      <div class="topNav_Box topLevel">
-        <div class="topLevel_head">
-          <h3>
-            Challenging games and puzzles for the engineering mind.
-          </h3>
-        </div>
-        <ul class="subNav noCol">
-          <li>
-            <a id="gtm_engcomHead_games_mostPopularGames" class="subNav_link gtm_topNav" href="https://www.engineering.com/GamesPuzzles/TopGames.aspx" target="_self" onclick="dataLayer.push({'eventLabel': 'Games > Top Games'});">Top Games</a>
-          </li>
-        </ul>
-      </div>
-    </li>
+		<!-- GAMES - Drop Down -->
+		<div class="topNav_Box topLevel">
+			<div class="topLevel_head">
+				<h3>
+					Challenging games and puzzles for the engineering mind.
+				</h3>
+			</div>
+			<ul class="subNav noCol">
+				<li>
+					<a id="gtm_engcomHead_games_mostPopularGames" class="subNav_link gtm_topNav" href="https://www.engineering.com/GamesPuzzles/TopGames.aspx" target="_self" onclick="dataLayer.push({'eventLabel': 'Games > Top Games'});">Top Games</a>
+				</li>
+			</ul>
+		</div>
+	</li>
 
-    <!------------- FORUMS - Top Level --------------->
-    <li class="topNav_item hoverable" id="subNav_forums">
-      <a id="gtm_engcomHead_forums_topLevel" class="topNav_link gtm_topNav" href="https://www.eng-tips.com/" target="_blank" onclick="dataLayer.push({'eventLabel': 'Forums'});">Forums</a>
+	<!------------- FORUMS - Top Level --------------->
+	<li class="topNav_item hoverable" id="subNav_forums">
+		<a id="gtm_engcomHead_forums_topLevel" class="topNav_link gtm_topNav" href="https://www.eng-tips.com/" target="_blank" onclick="dataLayer.push({'eventLabel': 'Forums'});">Forums</a>
 
-      <!-- FORUMS - Drop Down -->
-      <div class="topNav_Box topLevel">
-        <div class="topLevel_head">
-          <h3>
-            Forums for working professionals.
-          </h3>
-        </div>
-        <ul class="subNav noCol">
-          <li>
-            <a id="gtm_engcomHead_forums_engtips" class="subNav_link gtm_topNav" href="https://www.eng-tips.com/" target="_blank" onclick="dataLayer.push({'eventLabel': 'Forums > Eng-Tips'});">Eng-tips for engineering professionals</a>
-          </li>
-          <li>
-            <a id="gtm_engcomHead_forums_tektips" class="subNav_link gtm_topNav" href="https://www.tek-tips.com/" target="_blank" onclick="dataLayer.push({'eventLabel': 'Forums > Tek-Tips'});">Tek-Tips for computer professionals</a>
-          </li>
-        </ul>
-      </div>
-    </li>
+		<!-- FORUMS - Drop Down -->
+		<div class="topNav_Box topLevel">
+			<div class="topLevel_head">
+				<h3>
+					Forums for working professionals.
+				</h3>
+			</div>
+			<ul class="subNav noCol">
+				<li>
+					<a id="gtm_engcomHead_forums_engtips" class="subNav_link gtm_topNav" href="https://www.eng-tips.com/" target="_blank" onclick="dataLayer.push({'eventLabel': 'Forums > Eng-Tips'});">Eng-tips for engineering professionals</a>
+				</li>
+				<li>
+					<a id="gtm_engcomHead_forums_tektips" class="subNav_link gtm_topNav" href="https://www.tek-tips.com/" target="_blank" onclick="dataLayer.push({'eventLabel': 'Forums > Tek-Tips'});">Tek-Tips for computer professionals</a>
+				</li>
+			</ul>
+		</div>
+	</li>
 
-    <!------------- SEARCH - Top Level --------------->
-    <li class="topNav_item topNav_item--search topNav_item_alt mobile_right">
-      <a id="gtm_engcomHead_searchSite" class="topNav_link gtm_topNav" href="#" target="_self" onclick="dataLayer.push({'eventLabel': 'Search (enable)'});"><img class="topNav_searchIcon" src="https://file1.engineering.com/images/icons-badges/magnify.svg" alt="Search Engineering.com"></a>
-    </li>
+	<!------------- SEARCH - Top Level --------------->
+	<li class="topNav_item topNav_item--search topNav_item_alt mobile_right">
+		<a id="gtm_engcomHead_searchSite" class="topNav_link gtm_topNav" href="#" target="_self" onclick="dataLayer.push({'eventLabel': 'Search (enable)'});"><img class="topNav_searchIcon" src="https://file1.engineering.com/images/icons-badges/magnify.svg" alt="Search Engineering.com"></a>
+	</li>
 
 
 
-    <!------------- ACCOUNT - Top Level --------------->
-    <li class="topNav_item_alt no-highlight">
-      <a id="gtm_engcomHead_login" href="/Login.aspx?ReturnUrl=https://www.engineering.com/Home/PrivacyPolicy/tabid/197/Default.aspx" class="loginOut gtm_topNav" target="_self" onclick="dataLayer.push({'eventLabel': 'User Account > Log In'});">Log&nbsp;In</a>
-    </li>
+	<!------------- ACCOUNT - Top Level --------------->
+	<li class="topNav_item_alt no-highlight">
+		<a id="gtm_engcomHead_login" href="/Login.aspx?ReturnUrl=https://www.engineering.com/Home/PrivacyPolicy/tabid/197/Default.aspx" class="loginOut gtm_topNav" target="_self" onclick="dataLayer.push({'eventLabel': 'User Account > Log In'});">Log&nbsp;In</a>
+	</li>
 
-    </div>
-  </ul>
+	</div>
+	</ul>
 </nav>
 </div>
 	
@@ -490,6 +584,7 @@ googletag.enableServices();
 <div class="privacy">
 <h2>Introduction</h2>
 <p>We at Engineering.com, Inc. ("engineering.com") are committed to respecting your online privacy and recognize your need to protect any personal identification information ("Personal Information") you share with us. Accordingly, engineering.com has established this Online Privacy Policy.</p>
+<p>This privacy policy applies to all sites owned and operated by Engineering.com, Inc. including www.engineering.com, www.eng-tips.com, www.tek-tips.com, projectboard.engineering.com, www.tenlinks.com, www.engineersrule.com and www.caddigest.com.&nbsp;&nbsp;</p>
 <p>Personal Information means any information that may be used to identify you, including, but not limited to, your first and last name, your home or work address and an email address or other contact information. We have designed engineering.com's web pages in such a way that you can visit most public areas without telling us who you are or revealing any Personal Information about yourself.</p>
 <p>Engineering.com strives to comply with relevant privacy legislation around the world. Our goal is to provide protection for your Personal Information regardless of where that Personal Information is collected or stored.</p>
 <h2>Tracking your site visits</h2>
@@ -656,9 +751,6 @@ You will have to proactively select that you agree with this policy in order to 
             <div class="col-md-12">
                 <strong style="margin-bottom:5px;">About engineering.com</strong>
                 <br>
-                <font class="footer">engineering.com brings the most influential voices in engineering to a worldwide audience of engineers. Our
-                    stories are informative, inspiring and entertaining.</font>
-                <br>
                 <br>
                 <div class="footer_sites">
                     <a href="http://www.engineering.com/">engineering.com</a>
@@ -673,8 +765,7 @@ You will have to proactively select that you agree with this policy in order to 
         </div>
         <!--<div class="row">
             <div class="col-md-12">
-            <strong style="margin-bottom:5px;">About engineering.com</strong><br />
-            <font class="footer">engineering.com brings the most influential voices in engineering to a worldwide audience of engineers.  Our stories are informative, inspiring and entertaining.</font><br /><br />
+            <strong style="margin-bottom:5px;">About engineering.com</strong><br /><br />
             <div class="col-md-4">
             <a href="http://www.engineering.com/"><img class="img-responsive" id="footer_logo" src="//d2gm6q2bvqrwiz.cloudfront.net/engcom/images/logos/engcom_color.png "/></a>
         </div>
@@ -688,8 +779,7 @@ You will have to proactively select that you agree with this policy in order to 
     </div>-->
         <div class="row">
             <div class="col-md-6">
-                <p class="footer">Copyright © 2018 engineering.com, Inc.
-                    <br> All rights reserved. Registration on or use of this site constitutes acceptance of our
+                <p class="footer">Copyright © 2019 engineering.com, Inc. All rights reserved. Registration on or use of this site constitutes acceptance of our
                     <a href="/Home/PrivacyPolicy/tabid/197/Default.aspx" class="footer">Privacy Policy.</a>
                 </p>
             </div>
@@ -772,10 +862,10 @@ You will have to proactively select that you agree with this policy in order to 
                     <br>
                     <a href="/ProductShowcase.aspx" class="footer">Showcase</a>
                     <br>
-                    <a href="/MastersDiscovery" class="footer">Masters of Engineering Management</a>
-                    <br>
+                    <!--<a href="/MastersDiscovery" class="footer">Masters of Engineering Management</a>
+                    <br />
                     <a href="/schools/colleges-universities/" class="footer">Schools</a>
-                    <br>
+                    <br />-->
                 </div>
                 <div class="col-md-2 col-sm-2 col-xs-6" style="margin-bottom:10px;">
                     <strong style="margin-bottom:5px;">For Advertisers</strong>
@@ -837,12 +927,12 @@ You will have to proactively select that you agree with this policy in order to 
 </div>
 
 <script>
-    // var pubYear = "";
-    // var pubMonth = "";
-    // var pubDay = "";
-    // console.log("Year Published: ", pubYear);
-    // console.log("Month Published: ", pubMonth);
-    // console.log("Day Published: ", pubDay);
+    //var pubYear = "";
+    //var pubMonth = "";
+    //var pubDay = "";
+    //console.log("Year Published: ", pubYear);
+    //console.log("Month Published: ", pubMonth);
+    //console.log("Day Published: ", pubDay);
 
 </script>
 
@@ -855,7 +945,22 @@ You will have to proactively select that you agree with this policy in order to 
         $('#dnn_ctr11672_Main_ctl00_pnlStatus, #dnn_ctr11682_Main_ctl00_pnlStatus').hide();
         $('.article_body').next().hide();
     }
+</script>
 
+<script>
+		// Hubspot (HSTC) related for field
+    $(document).ready(function () {
+        // set hstc on field click
+        $(document).on('keyup', '.fKEBEw', function () {
+            var hstc = checkCookie('hubspotutk');
+            $('input[name="hstc_wp"]').val(hstc);
+        })
+
+        $(document).on('click', '.ehpIRB', function () {
+            var hstc = checkCookie('hubspotutk');
+            $('input[name="hstc_wp"]').val(hstc);
+        })
+    });
 </script>
 
 <!-- Start of Async HubSpot Analytics Code -->
