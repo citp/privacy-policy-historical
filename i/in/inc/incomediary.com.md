@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the incomediary.com privacy policy that was archived on 2018-11-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181108183538id_/https%3A//www.incomediary.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the incomediary.com privacy policy that was archived on 2019-03-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190311071635id_/https%3A//www.incomediary.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy policy - How To Make Money Online
 
@@ -15,7 +15,7 @@ Michael Dunlop is the data controller and we are responsible for your personal d
 Our full details are:  
 Full name of legal entity: Michael Dunlop  
 ICO Registration No: ZA373532  
-Email address: [privacy@popupdomination.com](mailto:privacy@popupdomination.com)  
+Email address: [privacy@incomediary.com](mailto:privacy@incomediary.com)  
 Peal House  
 70 Stormore  
 Dilton Marsh  
@@ -25,7 +25,7 @@ UK
 
 If you are not happy with any aspect of how we collect and use your data, you have the right to complain to the Information Commissioner’s Office (ICO), the UK supervisory authority for data protection issues ([ _www.ico.org.uk_](http://www.ico.org.uk/)). We should be grateful if you would contact us first if you do have a complaint so that we can try to resolve it for you.
 
-It is very important that the information we hold about you is accurate and up to date. Please let us know if at any time your personal information changes by emailing us at [privacy@popupdomination.com](mailto:privacy@popupdomination.com).
+It is very important that the information we hold about you is accurate and up to date. Please let us know if at any time your personal information changes by emailing us at [privacy@incomediary.com](mailto:privacy@incomediary.com).
 
 **2.**    **WHAT DATA DO WE COLLECT ABOUT YOU**
 
@@ -63,7 +63,7 @@ We collect data about you through a variety of different methods including:
     * request resources or marketing be sent to you;
     * enter a competition, prize draw, promotion or survey; or
     * give us feedback.
-  * **Automated technologies or interactions:** As you use our site, we may automatically collect Technical Data about your equipment, browsing actions and usage patterns. We collect this data by using cookies, server logs and similar technologies. We may also receive Technical Data about you if you visit other websites that use our cookies. Please see our cookie policy at [https://incomediary.com/cookie-policy](https://incomediary.com/cookie-policy)/ for further details.
+  * **Automated technologies or interactions:** As you use our site, we may automatically collect Technical Data about your equipment, browsing actions and usage patterns. We collect this data by using cookies, server logs and similar technologies. We may also receive Technical Data about you if you visit other websites that use our cookies. Please see our cookie policy at [https://www.incomediary.com/local-storage-and-cookie-policy](https://www.incomediary.com/local-storage-and-cookie-policy)/ for further details.
   * **Third parties or publicly available sources:** We may receive personal data about you from various third parties and public sources as set out below. Technical Data from the following parties: 
     * analytics providers such as Google based outside the EU;
     * Contact, Financial and Transaction Data from providers of technical, payment and delivery services such as Samcart based outside the EU.
@@ -80,13 +80,13 @@ We will only use your personal data when legally permitted. The most common uses
 
 
 
-Generally, we do not rely on consent as a legal ground for processing your personal data, other than in relation to sending marketing communications to you via email or text message. You have the right to withdraw consent to marketing at any time by emailing us at [privacy@popupdomination.com](mailto:privacy@popupdomination.com) **.**
+Generally, we do not rely on consent as a legal ground for processing your personal data, other than in relation to sending marketing communications to you via email or text message. You have the right to withdraw consent to marketing at any time by emailing us at [privacy@incomediary.com](mailto:privacy@incomediary.com) **.**
 
 **Purposes for processing your personal data**   
 
 Set out below is a description of the ways we intend to use your personal data and the legal grounds on which we will process such data. We have also explained what our legitimate interests are where relevant.
 
-We may process your personal data for more than one lawful ground, depending on the specific purpose for which we are using your data. Please email us at privacy@popupdomination.com if you need details about the specific legal ground we are relying on to process your personal data where more than one ground has been set out in the table below.
+We may process your personal data for more than one lawful ground, depending on the specific purpose for which we are using your data. Please email us at privacy@incomediary.com if you need details about the specific legal ground we are relying on to process your personal data where more than one ground has been set out in the table below.
 
 **Purpose/Activity** | **Type of data** | **Lawful basis for processing**  
 ---|---|---  
@@ -199,13 +199,13 @@ You will receive marketing communications from us if you have:
 
 We will get your express opt-in consent before we share your personal data with any third party for marketing purposes.
 
-You can ask us or third parties to stop sending you marketing messages at any time by following the opt-out links on any marketing message sent to you or by emailing us at [privacy@popupdomination.com](mailto:privacy@popupdomination.com) at any time. 
+You can ask us or third parties to stop sending you marketing messages at any time by following the opt-out links on any marketing message sent to you or by emailing us at [privacy@incomediary.com](mailto:privacy@incomediary.com) at any time. 
 
 Where you opt out of receiving our marketing communications, this will not apply to personal data provided to us as a result of a product/service purchase, warranty registration, product/service experience or other transactions.
 
 **Change of purpose**
 
-We will only use your personal data for the purposes for which we collected it, unless we reasonably consider that we need to use it for another reason and that reason is compatible with the original purpose. If you wish to find out more about how the processing for the new purpose is compatible with the original purpose, please email us at [privacy@popupdomination.com](mailto:privacy@popupdomination.com).
+We will only use your personal data for the purposes for which we collected it, unless we reasonably consider that we need to use it for another reason and that reason is compatible with the original purpose. If you wish to find out more about how the processing for the new purpose is compatible with the original purpose, please email us at [privacy@incomediary.com](mailto:privacy@incomediary.com).
 
 If we need to use your personal data for a purpose unrelated to the purpose for which we collected the data, we will notify you and we will explain the legal ground of processing.
 
@@ -243,7 +243,7 @@ Whenever we transfer your personal data out of the EEA, we do our best to ensure
 
 If none of the above safeguards is available, we may request your explicit consent to the specific transfer. You will have the right to withdraw this consent at any time.
 
-Please email us at [privacy@popupdomination.com](mailto:privacy@popupdomination.com) __ if you want further information on the specific mechanism used by us when transferring your personal data out of the EEA.
+Please email us at [privacy@incomediary.com](mailto:privacy@incomediary.com) __ if you want further information on the specific mechanism used by us when transferring your personal data out of the EEA.
 
 **7.**    **DATA SECURITY**  
 
@@ -281,7 +281,7 @@ You can see more about these rights at:
 
 <https://ico.org.uk/for-organisations/guide-to-the-general-data-protection-regulation-gdpr/individual-rights/>.
 
-If you wish to exercise any of the rights set out above, please email us at [privacy@popupdomination.com](mailto:privacy@popupdomination.com).
+If you wish to exercise any of the rights set out above, please email us at [privacy@incomediary.com](mailto:privacy@incomediary.com).
 
 You will not have to pay a fee to access your personal data (or to exercise any of the other rights). However, we may charge a reasonable fee if your request is clearly unfounded, repetitive or excessive. Alternatively, we may refuse to comply with your request in these circumstances.
 
