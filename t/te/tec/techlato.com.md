@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the techlato.com privacy policy that was archived on 2016-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160626205508id_/http%3A//www.techlato.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the techlato.com privacy policy that was archived on 2019-03-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190311124113id_/https%3A//www.techlato.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - Techlato
+# Privacy Policy • Techlato
 
 If you require any more information or have any questions about our privacy policy, please feel free to contact us by email at techlato@gmail.com.
 
