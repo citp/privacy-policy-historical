@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the educationsportal.blogspot.in privacy policy that was archived on 2018-11-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181108002419id_/http%3A//www.edunewsask.com/2013/08/educationsportal-privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the educationsportal.blogspot.in privacy policy that was archived on 2019-03-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190311114018id_/http%3A//www.edunewsask.com/2013/08/educationsportal-privacy-policy.html) for the most accurate reproduction.*
 
 # Edunewsask Privacy Policy and Disclaimer
 
