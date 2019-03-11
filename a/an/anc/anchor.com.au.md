@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the anchor.com.au privacy policy that was archived on 2018-09-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180908090202id_/https%3A//www.anchor.com.au/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the anchor.com.au privacy policy that was archived on 2019-03-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190311155248id_/https%3A//www.anchor.com.au/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - AWS Managed Services by Anchor
 
