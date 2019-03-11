@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the stickytickets.com.au privacy policy that was archived on 2018-09-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180904124438id_/https%3A//www.stickytickets.com.au/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the stickytickets.com.au privacy policy that was archived on 2019-03-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190311092643id_/https%3A//www.stickytickets.com.au/privacy) for the most accurate reproduction.*
 
 # Privacy Statement - Sticky Tickets
 
