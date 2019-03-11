@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the superiorsingingmethod.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606013431id_/http%3A//www.superiorsingingmethod.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the superiorsingingmethod.com privacy policy that was archived on 2019-03-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190311185206id_/http%3A//www.superiorsingingmethod.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Superior Singing Method — Superior Singing Method
 
