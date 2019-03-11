@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the anmolmehta.com privacy policy that was archived on 2018-11-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181109074742id_/http%3A//anmolmehta.com/privacy-policy-for-anmolmehtacom) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the anmolmehta.com privacy policy that was archived on 2019-03-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190311140435id_/http%3A//anmolmehta.com/privacy-policy-for-anmolmehtacom) for the most accurate reproduction.*
 
 # Privacy Policy for AnmolMehta.com
 
-You are here: [Home](http://anmolmehta.com/ "Anmol Mehta | Mastery of Meditation and Yoga | Free Online Meditation and Yoga") / Privacy Policy for AnmolMehta.com
+You are here: [Home](https://anmolmehta.com/ "Anmol Mehta | Mastery of Meditation and Yoga | Free Online Meditation and Yoga") / Privacy Policy for AnmolMehta.com
 
 The privacy of our visitors to AnmolMehta.com is important to us. 
 
