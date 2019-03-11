@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gallupstrengthscenter.com privacy policy that was archived on 2018-09-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180916132519id_/https%3A//www.gallupstrengthscenter.com/home/en-us/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gallupstrengthscenter.com privacy policy that was archived on 2019-03-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190311153816id_/https%3A//www.gallupstrengthscenter.com/home/en-us/privacy) for the most accurate reproduction.*
 
 # Privacy Statement | Gallup
 
@@ -20,7 +20,7 @@ Information that by itself cannot be used to identify you or make you identifiab
 
 Gallup websites gather information in two ways: (1) indirectly (for example, through our site's technology), and (2) directly (for example, when you, the site visitor, voluntarily provide information on various pages).
 
-The information will be transferred to Gallup Inc.'s servers located in the United States of America ("USA"). Gallup has certified to the U.S. Department of Commerce that it adheres to the U.S. Privacy Shield Principles. In accordance with Article 45 of the European General Data Protection Regulation (" **GDPR** ") the European Commission recognises that the certification under the EU-U.S.-Privacy Shield ensures an adequate level of data protection, so that the data transfer to the USA does not require any specific authorisation (see also below clause III. 7 "Compliance and Cooperation with Regulatory Authorities").
+The information will be transferred to Gallup Inc.'s servers located in the United States of America ("USA"). Gallup has certified to the U.S. Department of Commerce that it adheres to the U.S. Privacy Shield Principles. In accordance with Article 45 of the European General Data Protection Regulation (" **GDPR** ") the European Commission recognizes that the certification under the EU-U.S.-Privacy Shield ensures an adequate level of data protection, so that the data transfer to the USA does not require any specific authorization (see also below clause III. 7 "Compliance and Cooperation with Regulatory Authorities").
 
 **_1\. Information Collected Indirectly_**
 
@@ -166,7 +166,7 @@ Gallup will obtain your consent before sharing your Personal Information with an
 
 For processing of your sensitive information (e.g. medical information, Personal Information revealing ethnic or racial origin, political opinions, religious or philosophical beliefs, trade union membership, the processing of genetic data, biometric data for the purpose of uniquely identifying a natural person, data concerning health or a natural's person sex life or sexual orientation), we will obtain your explicit consent.
 
-Gallup is among others not required to obtain explicit consent with respect to sensitive information where the processing is (a) necessary to protect the vital interests of the data subject or another natural person where the data subject is physically or legally incapable of giving consent; (b) necessary for the establishment, exercise or defence of legal claims or whenever courts are acting in their judicial capacity; (c) necessary to carry out Gallup's obligations in the field of employment law in so far as it is authorised by European Union or Member State Law or a collective agreement pursuant to Member State Law providing for appropriate safeguards for the fundamental rights and the interests of the data subject; or (d) related to information that is manifestly made public by the individual.
+Gallup is among others not required to obtain explicit consent with respect to sensitive information where the processing is (a) necessary to protect the vital interests of the data subject or another natural person where the data subject is physically or legally incapable of giving consent; (b) necessary for the establishment, exercise or defense of legal claims or whenever courts are acting in their judicial capacity; (c) necessary to carry out Gallup's obligations in the field of employment law in so far as it is authorized by European Union or Member State Law or a collective agreement pursuant to Member State Law providing for appropriate safeguards for the fundamental rights and the interests of the data subject; or (d) related to information that is manifestly made public by the individual.
 
 **_10\. Dispute Resolution_**
 
