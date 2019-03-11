@@ -1,10 +1,12 @@
-> *The following text is extracted and transformed from the eng-tips.com privacy policy that was archived on 2018-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181224093516id_/http%3A//www.engineering.com/Home/PrivacyPolicy/tabid/197/Default.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the eng-tips.com privacy policy that was archived on 2019-03-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190311093304id_/http%3A//www.engineering.com/Home/PrivacyPolicy/tabid/197/Default.aspx) for the most accurate reproduction.*
 
 # ENGINEERING.com | Privacy Policy
 
 ## Introduction
 
 We at Engineering.com, Inc. ("engineering.com") are committed to respecting your online privacy and recognize your need to protect any personal identification information ("Personal Information") you share with us. Accordingly, engineering.com has established this Online Privacy Policy.
+
+This privacy policy applies to all sites owned and operated by Engineering.com, Inc. including www.engineering.com, www.eng-tips.com, www.tek-tips.com, projectboard.engineering.com, www.tenlinks.com, www.engineersrule.com and www.caddigest.com.  
 
 Personal Information means any information that may be used to identify you, including, but not limited to, your first and last name, your home or work address and an email address or other contact information. We have designed engineering.com's web pages in such a way that you can visit most public areas without telling us who you are or revealing any Personal Information about yourself.
 
