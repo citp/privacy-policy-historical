@@ -1,115 +1,178 @@
-> *The following text is extracted and transformed from the postcodeanywhere.co.uk privacy policy that was archived on 2018-05-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180519083426id_/https%3A//www.pcapredict.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the postcodeanywhere.co.uk privacy policy that was archived on 2019-03-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190311232403id_/https%3A//www.loqate.com/en-gb/privacy) for the most accurate reproduction.*
 
-# PCA Predict Privacy Policy
+# Privacy Policy - Loqate, a GBG solution
 
-## Privacy & Security Policy
+### GB Group PLC ('GBG') Website Privacy Policy
 
-The purpose of this document is to bring to your attention GB Group plc's (trading as “PCA” or “PCA Predict”) policy regarding the use of, and protection of, personal data stored on our systems. It also explains how we use the information we collect about you, how you can instruct us if you prefer to limit the use of that information and procedures that we have in place to safeguard your privacy.
+GB Group Plc (‘GBG’) take the protection and security of your personal information very seriously and this policy sets out our responsibilities under The General Data Protection Regulation 2016 (‘GDPR’) and other applicable laws in England and Wales relating to the processing and security of personal information.
 
-In accordance with the Data Protection Act 1998, GB Group plc is registered as a 'Data Controller' on the public Register of Data Controllers as maintained by the UK’s Information Commissioner. When you use this website, please bear in mind that we may record: 
+This policy explains to you how GBG uses and secures your personal information whilst you are using the GBG website [www.loqate.com](http://www.gbgplc.com/) or when you enter into a contract with GBG to provide services to your organisation.
 
-  * the areas of the website that you visit; and
-  * information about your computer, such as which browser you are using, your network location, the type of connection you are using (e.g. broadband, ADSL etc.) and your IP address.
+GBG are global specialists in identity intelligence we have customers located in over 70 countries.  GBG uses data under licence to support our customers with their business needs, such as locating people, identity verification, reducing fraud and marketing solutions.
 
+GBG has offices in 24 locations; our registered head office is located within the United Kingdom.
 
+GB Group Plc  
+The Foundation  
+Herons Way  
+Chester Business Park  
+Chester  
+United Kingdom  
+CH4 9GB
 
-We do this by using cookies and tags. See our Cookies Policy www.pcapredict.com/cookies for more information on what a cookie is and how we use them on our website.
+Company Registration Number: 02415211
 
-## Use of personal information
+Our Data Protection Officer is Kate Lewis, please contact Kate if you have any questions about how your personal information is used by GBG, [compliance@gbgplc.com](mailto:compliance@gbgplc.com) or 01244 657277. 
 
-Once you register or log in or submit information through our website we will know who you are and your activities on this website and information about you and/or your company may be recorded on our systems. There are a number of areas within the PCA Predict (formerly Postcode Anywhere) website which record personal data, including the: registration; billing; contact; invoice; and account sections. The information requested within these sections is standard and includes name, address, phone number and email details and is collected for the purposes of: 
+GBG review our Privacy Policy on an annual basis, sooner if changes to regulation require it or GBG changes the way it processes personal information.
 
-  * administering your account (this will therefore include: registering your account; processing any orders which you make; communicating with you on any matter relating to the conduct of your account; and the provision of our services to you in general);
-  * internal record keeping;
-  * product and service development;
-  * developing our website;
-  * answering your queries or complaints;
-  * market research; and
-  * marketing our own products and services to you.
+This policy was last updated on 12th June 2018.
 
+### **What personal information do GBG collect and why?**
 
+**Browsing our website:** When you browse our website [www.loqate.com](http://www.loqate.com/), we will collect the Internet Protocol (IP) address of the PC you are using, this data is anonymous and we cannot identify you at this point. We collect this data so that we can identify where customers are dropping out of the website and to identify areas of improvement to make the experience more engaging for our customers.
 
-We would like to provide you with information about special features of our website, and/or PCA's products and services, and other information which we think you may find interesting. We may send you such information by post, push notification, email and/or telephone unless you have asked us not to do so. If you are a customer of ours or you have previously asked us for information on our products and services, we may send you information by email. However, in every marketing email message we send you we will give you the opportunity to unsubscribe from our mailings altogether. We do not provide your personal information to external organisations (i.e. outside of PCA for their own marketing purposes without your explicit consent). If at any time you do not want your information used for direct marketing purposes please contact us at support@pcapredict.com or on +44 1905 888 550 and if you decide that you no longer wish to receive marketing emails from us, please either follow the unsubscribe link in one of our marketing email messages or contact us at support@pcapredict.com or on +44 1905 888 550. Where we are undertaking any services in collaboration with a third party (this will be clear from either the branding or notices on the website), then we may be required in order to provide the respective services, to share your account details with such third party in order to administrate the account (in a similar manner as mentioned above) and provide the respective services.
+We use Cookies on our website so please see the Cookies section for more information.
 
-We will also need to share details about your use of our services with our data licensors and authorised resellers, with such details including the number of users and volume of transactions, so that appropriate licence fees and other payments can be calculated. We may also use aggregate information and statistics for the purposes of monitoring website usage in order to help us develop the website and our services. These statistics will not include information that can be used to identify any individual. 
+**Requesting a brochure:** When you request a brochure from us, we will collect the following information from you:
 
-## Email addresses
-
-We collect email addresses for 3 main purposes:
-
-  * Email is our preferred means of communication, and will be used to notify our customers of developments within the PCA Predict services.
-  * We use email to administer your account, for example, by alerting you when your account balance reaches a given level.
-  * The email address on registration will be used to authenticate users who have forgotten passwords or user account IDs.
-
-
-
-## Where We Process Your Personal Data
-
-Although we process your data within the European Economic Area ("EEA"), owing to the global nature of the Internet infrastructure, the information you provide may be transferred in transit to other countries outside the EEA that do not have similar protections in place as the EEA regarding your data and its use as set out in this policy. By submitting your information you consent to such transfers outside the EEA. Your personal information may be shared with other companies within the PCA group of companies based within or outside of the UK. We may also have third party companies providing hosting services for us. Such third party companies will act as our subcontractors, and they would hold your data for such hosting purposes only. Such subcontractors will not be provided with any permission for any other use or disclosure of your data. We will also ensure that we have reasonable safeguards in place with regard to any of our subcontractors, with regard to data retention and security. Please bear in mind that the countries to which your personal data is sent may have a different standard of data protection than the UK. 
-
-## Compliance & Confidentiality
-
-Our company complies with its obligations under the applicable data protection legislation in England. It will also take reasonable care to prevent any unauthorised access to your personal data. Our employees and contractors have been made aware of their responsibility to keep your information confidential. 
-
-## Security
-
-As you will probably be aware, the internet is not a secure medium. However we have put in place various security procedures by way of reasonable measures to protect your information. We consider the security of your personal data and the details of any transactions you make to be a matter of the highest priority. Your account information is protected by your account code and password which you should keep safe at all times. In addition to your password, we generate keys which are used to authenticate your account against our servers when you are querying the database. Keys are a randomly generated and unique set of letters and numbers. If you feel that there has been a breach in the security on your licence please contact us on +44 1905 888 550 or by email at security@pcapredict.co.uk. 
-
-## Purchasing
-
-When you place an order with us, we use a secure server. Any data you provide to us, is encrypted using a 'Secure Socket Layer' (SSL) session. SSL is an industry standard and is a widely used measure to guard against Internet messages being intercepted. You should be aware, however, that older browsers cannot use SSL. To be sure, you will need Netscape version 4.05 or above, Microsoft Internet Explorer version 4 or above, or any similar generation browser (e.g. Firefox, Opera). Although your account can be set up to make repeat purchases to automatically top-up your account by credit card, we do not actually store credit card details. We only hold the last 4 digits of your card, the card holder name and a reference to the last transaction made on that card from us. It is the transaction reference that is used to make repeat purchases and this can only be used between ourselves and our payment service provider, SecureTrading. 
-
-## Protecting your data
-
-Over and above what our company does to protect your privacy and security, we would advise you to adopt the following additional measures:
-
-  * Choose a password you can remember but others will not guess.
-  * Change your password regularly, and if you do write it down, keep it somewhere safe and secure.
-  * Do not activate Autocomplete (Internet Explorer) or any similar feature.
-  * Do not allow your internet browser to 'remember' passwords.
-  * When you have finished your session on our website we recommend that you close your browser, so any history of the session is cleared. As a further security measure our website will automatically shut down your session if it is not used for more than 20 minutes.
-  * Clear any 'cache' so there is no record of any transactions left on screen - all major web browsers let you do this.
+  * Email address (so that we can send the brochure to you)
+  * The name of your organisation (so that we can identify which sectors are showing the most interest in our products/services)
+  * Your IP address will no longer be anonymous and we will be able to identify you
 
 
 
-## Use of cookies
+**Requesting a call back:** when you request a call back from us, we will collect the following information from you:
 
-Our website creates a cookie every time you access the website. We may also place cookies (or similar tags) on the websites of our customer(s). Read more about [our use of cookies and see Disabling/Enabling Cookies below](http://www.pcapredict.com/cookies/?__hstc=210931082.11771deb38c53ceb9ed64e52df732ddc.1522155831162.1522155831162.1522245170705.2&__hssc=210931082.2.1522245170705&__hsfp=1962557905). 
-
-## Use of Web Beacons
-
-Some of our web pages may contain electronic images known as web beacons (sometimes known as clear gifs) that allow us to count users who have visited these pages. Web beacons collect only limited information which includes a cookie number, time and date of a page view, and a description of the page on which the web beacon resides. We may also carry web beacons placed by third party advertisers. These beacons do not carry any personally identifiable information and are only used to track the effectiveness of a particular campaign.
-
-## Third Party Advertising
-
-We may use a third party to serve advertisements on our site. Cookies may be associated with these advertisements to enable the advertiser to track the number of anonymous users responding to the campaign. We do not have access to or control of cookies placed by third parties. Disabling/Enabling Cookies If you register with our website, or if you continue to use this website, you agree to our use of cookies. You have the ability to accept or decline cookies by modifying the settings in your browser or using the link in our cookies policy [[here]](http://www.pcapredict.com/cookies/?__hstc=210931082.11771deb38c53ceb9ed64e52df732ddc.1522155831162.1522155831162.1522245170705.2&__hssc=210931082.2.1522245170705&__hsfp=1962557905). However, you may not be able to use all the interactive features of our website if cookies are disabled. In order to block or delete cookies, select the “Help” entry under the ""Help" menu of your internet browser and type in ""delete cookies" or "block cookies" to find a step by step process of how to undertake such actions. 
-
-## Third party sites
-
-Third party Internet sites that hotlink to PCA Predict are not covered by our Privacy and Security policy. PCA Predict accepts no responsibility or liability for these sites.
-
-## Sale of business
-
-If this business is sold or integrated with another business, your details may be disclosed to our advisers and any prospective purchasers and their advisers, and will be passed on to the new owners of the business. You will be informed of any change in ownership in our business.
-
-## Updating your details
-
-If any of the information that you have provided to us changes, for example if you change your e-mail address, name or other details, please let us know the correct details by sending an e-mail to accounts@pcapredict.co.uk.
-
-## Your consent
-
-By submitting your information, you consent to the use of that information as set out in this policy. If we change our privacy policy we will post the changes on this page, and may place notices on other pages of the website, so that you may be aware of the information we collect and how we use it. We may also e-mail you, should we make any changes to the way in which we use your information so that you may consent to our use of your information in that way. Continued use of the service will signify that you agree to any such changes, and that you have consented to such use of your information.
-
-## Right of access to your information & how to contact us
-
-When you visit our website, you have direct control over information in your personal profile. If you want to know exactly what personal information we hold on you, you can obtain it. If the information held is found to be inaccurate, we will make the necessary amendments and confirm to you that these have been made. Please write to the following address, enclosing a cheque for the administration fee of £10 (or if higher, such other fee as stipulated by statute or the Office of the Information Commissioner from time) made payable to GB Group plc, pursuant to the terms of the Data Protection Act: 
-
-IT Director,  
-GB Group plc (PCA Predict),  
-Waterside,  
-Basin Road,  
-WORCESTER,  
-WR5 3DA.  
+  * Your name (so that we contact the right individual)
+  * Your contact telephone number (so that we contact the right individual)
+  * Your reason for contact (this is so that we can direct your call back to the right team who will respond to you directly)
+  * Your IP address will no longer be anonymous and we will be able to identify you
 
 
-If you would like to contact us with any other queries or comments, then either [send an email here](http://www.pcapredict.com/cookies/?__hstc=210931082.11771deb38c53ceb9ed64e52df732ddc.1522155831162.1522155831162.1522245170705.2&__hssc=210931082.2.1522245170705&__hsfp=1962557905) or please write to the Customer Service Department at the above address.
+
+**Subscribing to our marketing lists:** Where you have consented to receive marketing from GBG, we will collect the following information from you:
+
+  * Your name (so that we market to the right individual)
+  * Email address (so that we send the marketing to right place)
+  * The marketing preferences indicated by yourself, such as your areas of interest and how you want to be marketed.
+  * Your IP address will no longer be anonymous and we will be able to identify you
+  * A record of your consent to confirm what you have consented to and when
+
+
+
+**Conference and Events:** As a global organisation, GBG attends worldwide events and have marketing team members located around the world.   GBG will obtain from the event organiser a delegate list of all attendees who have consented to their personal information being shared with GBG. 
+
+**Entering into an agreement with GBG** : When your organisation enters into an agreement with GBG to provide products and services, we will collect additional information, which is necessary for
+
+  * The performance of the contract we have with your organisation such as billing information
+  * Providing service updates related to the product/service GBG are providing to you
+
+
+
+All personal information we collect is held electronically within our Customer Relationship Management system (CRM) and Salesforce, located in the United Kingdom and USA.
+
+### **Who will we share your personal information with and why?**
+
+GB Group Plc (‘GBG’) will share your information with third party service partners, who are acting on behalf of GBG as our data processor, the details are below of whom GBG will share your personal information with and why:
+
+**HubSpot Inc.:** provide GBG with an email marketing solution, which delivers marketing emails on our behalf.  We share the following personal information with HubSpot Inc:
+
+  * When you are browsing our website HubSpot capture the anonymous IP address
+  * At the point that you enter all of the required personal information relating to a free trial, demo, brochure request, contact information for marketing, HubSpot will receive all of the personal information you provide via the website.
+
+
+
+GBG can assure you that we have taken all technical and organisational measures necessary to protect the personal information, which HubSpot may access.
+
+**Price Waterhouse Coopers and Salesforce Inc.:** provide GBG with our Customer Relationship Management (CRM) systems and they may access the live system for technical support.  GBG can assure you that we have taken all technical and organisational measures necessary to protect the personal information, which Price Waterhouse Coopers and Salesforce may access.
+
+### **Marketing and the use of your personal information.**
+
+Where you have consented to receive marketing from GBG we will only market to you via the channel you have consented to (such as email, telephone etc.).  As stated above we use a third party service provider HubSpot to manage our email marketing solution.  When you receive an email from GBG it will include an unsubscribe link which you can click if you wish to unsubscribe from our marketing lists.  We will then add your email address to our suppression list, which will ensure you do not receive any further marketing from GBG.
+
+Please be assured we do not sell your personal information to third party companies for marketing purposes.
+
+### **Accuracy of your personal information**
+
+As part of the account management process GBG will, on a regular basis enquire if the personal information we hold about you is correct.  You can also ensure your personal information is correct by:
+
+  * Contacting GBG at [compliance@gbgplc.com](mailto:compliance@gbgplc.com)
+  * Alternatively, if your organisation has an agreement with GBG for the provision of services, you can contact your GBG account manager who will ensure they update your record on our CRM system.
+
+
+
+### **Transfers outside of the European Economic Area (EEA)**
+
+As a global organisation, we have sales teams located all over the world, it will be necessary for your personal information to be transferred to them for account management activities and where you have provided consent, for marketing purposes.  GBG will take appropriate technical and organisational measures to ensure the security of your personal data when processed outside of the EEA. 
+
+### **How long do we retain your personal information for and why?**
+
+Where we have collected your personal information for marketing purposes we will retain your personal information for as long as you remain subscribed to our mailing lists or until the time when you inform us that you no longer wish to receive marketing from us. 
+
+For account management purposes, we will retain the personal information for as long as we have the relationship with your organisation.  If GBG no longer has a relationship with your organisation then we will only keep the relevant information such as invoices for audit purposes 6 years after the relationship with GBG has ended. 
+
+Once GBG are informed, you are no longer the contact we need to liaise with or you leave your organisation, we will remove your details from our system.
+
+### Security
+
+As you will probably be aware, the internet is not a secure medium. However we have put in place various security procedures by way of reasonable measures to protect your information. We consider the security of your personal data and the details of any transactions you make to be a matter of the highest priority. Your account information is protected by your account code and password which you should keep safe at all times. In addition to your password, we generate keys which are used to authenticate your account against our servers when you are querying the database. Keys are a randomly generated and unique set of letters and numbers. If you feel that there has been a breach in the security on your licence please contact us on +44 1905 888 550 or by email at [security@loqate.co.uk](mailto:security@loqate.co.uk).
+
+### Purchasing
+
+When you place an order with us, we use a secure server. Any data you provide to us, is encrypted using a 'Secure Socket Layer' (SSL) session. SSL is an industry standard and is a widely used measure to guard against Internet messages being intercepted. You should be aware, however, that older browsers cannot use SSL. To be sure, you will need Netscape version 4.05 or above, Microsoft Internet Explorer version 4 or above, or any similar generation browser (e.g. Firefox, Opera). Although your account can be set up to make repeat purchases to automatically top-up your account by credit card, we do not actually store credit card details. We only hold the last 4 digits of your card, the card holder name and a reference to the last transaction made on that card from us. It is the transaction reference that is used to make repeat purchases and this can only be used between ourselves and our payment service provider, SecureTrading.
+
+### **Your rights under GDPR**
+
+As an individual, you have rights under the GDPR regarding the use of your personal information, these are:
+
+  * The right to withdraw consent – you can withdraw your consent at any time
+  * The right to be forgotten – you can request that GBG remove your personal information from our systems
+  * The right to restrict processing – you can request that GBG only process your personal information for purposes specified by yourself
+  * The right to data portability – you can request that the personal information you have provided to GBG be ported to another organisation
+  * The right to access your personal information – You have a right to know what personal information GBG hold on you and for what purpose we are processing your personal information this is known as a Data Subject Access Request (DSAR). These requests must be made in writing by either email or letter with photographic identification to confirm your identity. 
+
+
+
+You can send these requests to [compliance@gbgplc.com](mailto:compliance@gbgplc.com) or by post to:
+
+Privacy & Data Compliance Team  
+GB Group Plc  
+The Foundation  
+Herons Way  
+Chester Business Park  
+Chester  
+United Kingdom  
+CH4 9GB
+
+### **How to complain**
+
+We appreciate that at GBG we do not always get things right and it is regrettable for us as an organisation when we receive a complaint.  We take all complaints seriously and can assure you we will do our best to deliver a satisfactory outcome.  If you do wish to complain about how your personal information is used by GBG then please write to us at:
+
+Privacy & Data Compliance Team  
+GB Group Plc  
+The Foundation  
+Herons Way  
+Chester Business Park  
+Chester  
+United Kingdom  
+CH4 9GB
+
+Alternatively, you can email us at [compliance@gbgplc.com](mailto:compliance@gbgplc.com)
+
+GBG will investigate and respond within 10 working days, this allows us time to investigate your complaint thoroughly. 
+
+### **The right to lodge a complaint with the Supervisory Authority**
+
+Where you believe that GBG have not taken our responsibilities with your personal information seriously, you have the right to complain to the Supervisory Authority.  Their details are:
+
+Information Commissioners office  
+Wycliffe House  
+Water Lane  
+Wilmslow  
+Cheshire  
+SK9 5AF
+
+Telephone number: 0303 123 113 or 01625 545 745
+
+Email: [casework@ico.org.uk](mailto:casework@ico.org.uk)
