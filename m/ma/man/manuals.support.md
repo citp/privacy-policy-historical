@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the manuals.support privacy policy that was archived on 2018-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180502053319id_/http%3A//manuals.support/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the manuals.support privacy policy that was archived on 2019-03-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190311013032id_/http%3A//manuals.support/privacy.php) for the most accurate reproduction.*
 
 # supermanuals.com : Privacy Policy
 
-Your privacy is important to supermanuals.com. So we’ve developed a Privacy Policy that covers how we collect, use, disclose, transfer, and store your information. Please take a moment to familiarize yourself with our privacy practices and [let us know](https://web.archive.org/web/20180502053319id_/http%3A//manuals.support/about.php) if you have any questions.
+Your privacy is important to supermanuals.com. So we’ve developed a Privacy Policy that covers how we collect, use, disclose, transfer, and store your information. Please take a moment to familiarize yourself with our privacy practices and [let us know](https://web.archive.org/web/20190311013032id_/http%3A//manuals.support/about.php) if you have any questions.
 
 ## Collection and Use of Personal Information
 
@@ -113,7 +113,7 @@ To make sure your personal information is secure, we communicate our privacy and
 
 ## Privacy Questions
 
-If you have any questions or concerns about supermanuals.com’s Privacy Policy or data processing, please [contact us](https://web.archive.org/web/20180502053319id_/http%3A//manuals.support/about.php).
+If you have any questions or concerns about supermanuals.com’s Privacy Policy or data processing, please [contact us](https://web.archive.org/web/20190311013032id_/http%3A//manuals.support/about.php).
 
 supermanuals.com may update its Privacy Policy from time to time. When we change the policy in a material way, a notice will be posted on our website along with the updated Privacy Policy.
 
