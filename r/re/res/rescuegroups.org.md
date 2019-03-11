@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the rescuegroups.org privacy policy that was archived on 2016-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161122052707id_/https%3A//rescuegroups.org/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rescuegroups.org privacy policy that was archived on 2019-03-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190311081413id_/https%3A//rescuegroups.org/privacy-statement) for the most accurate reproduction.*
 
-# Privacy Statement - RescueGroups.org
+# Privacy Statement | RescueGroups.org
 
 RescueGroups.org provides websites and Internet-based services to not-for-profit rescue organizations to help them fulfill their mission. This Privacy Statement is in regards to your (the individual) relationship to RescueGroups.org when visiting those public websites and services.
 
