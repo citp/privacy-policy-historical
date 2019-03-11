@@ -1,91 +1,274 @@
-> *The following text is extracted and transformed from the bulkregister.com privacy policy that was archived on 2017-01-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170122100527id_/http%3A//www.bulkregister.com/terms/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bulkregister.com privacy policy that was archived on 2019-03-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190311182239id_/https%3A//www.bulkregister.com/terms/privacy.asp) for the most accurate reproduction.*
 
 # BulkRegister - domain name, web site hosting, email, registration
 
-* * *
+Privacy Policy
 
-Last Updated: October 11, 2016
+Enom Inc. (“Enom”) is dedicated to maintaining both a high standard of privacy and a high standard of data protection in all of its activities. The company must, however, balance its respect for the privacy interests of its customers—both its resellers and its end-users—and employees with its public responsibilities as a service provider. This is particularly true with respect to Enom’s obligations as an accredited registrar where the company may be required to present registrant or other contact information in the applicable Whois directory.
 
-We know that you care how information about you is used and shared, and we appreciate your trust that we will do so carefully and sensibly. **By visiting our website, you are accepting the practices described in this Privacy Policy.** In this Privacy Policy, "we", "us" and "our" refer to eNom, Incorporated; eNom1039, Inc.; eNom1040, Inc.; eNom623, Inc.; eNom625, Inc.; Mobile Name Services Incorporated; Secure Business Services, Inc.; Sipence, Incorporated; Vedacore.com, Inc.; and Whois Privacy Protection Services, Inc.
+Scope
 
-#### What Personal Information About Customers Do We Gather?
+Enom’s privacy policy applies to personal information about identifiable Enom customers that is collected, used, or disclosed by Enom. It also applies to the management of personal information in any form whether oral, electronic, or written. The policy does not include a person or company’s name, title, business address, telephone number, or any other information that is required by a registry to be published in a Whois directory; a person or company’s name, title, business address, telephone number, or any other information that is requested by the person to be published in a Whois directory; or a person or company’s name, title, business address, telephone number, or any other information that is conveyed to law enforcement or to a third party on the basis of legal and legitimate purpose.
 
-  * **Information You Give Us:** We receive and store any information you enter on our website or give us in any other way. We use the information that you provide for such purposes as responding to your requests, providing our services (e.g., domain name registration, DNS hosting, etc.), and communicating with you.
-  * **Automatic Information:** We receive and store certain types of information whenever you interact with us. For example, like many websites, we use "cookies," and we obtain certain types of information when your browser accesses our sites. Examples of the information we collect and analyze include the Internet protocol (IP) address used to connect your computer to the Internet; computer and connection information such as browser type and version, operating system, and platform; and the full Uniform Resource Locators (URL) click stream to, through, and from our website, including date and time. We use IP addresses to analyze trends, administer the site, track user movement, and gather broad demographic information for aggregate use.
+General Application
 
+The policy will apply to and protect all personal information collected, used, or disclosed by Enom, except information that is aggregated in such a manner that it cannot be connected to a person and/or information which is published in a Whois directory.
 
+Personal information which may fall under the policy may include, but is not limited to:
 
-#### What About Cookies?
-
-  * Cookies are alphanumeric identifiers that we transfer to your computer's hard drive through your browser to enable our systems to recognize your browser. Besides using the information as described above, we utilize cookies to control the flow of the ordering processes by maintaining the state of your online transactions.
-
-Some of our business partners (e.g., advertisers) may use cookies on our website; however, we have no access to or control over these cookies.
-
-
-
-
-#### Do We Share the Information We Receive?
-
-Yes, we do share information we receive but only as described below. Otherwise we will not provide your personal information without your consent. We may be subject to liability in cases of onward transfer to third parties that do not conform with this Privacy Policy.
-
-  * **WHOIS:** We are required by the Internet Corporation for Assigned Names and Numbers ("ICANN"), the organization that assumes responsibility for domain name allocation, to collect information about you during the domain name registration process. This information includes your full name, mailing address, phone number, email address, and, where provided, your facsimile number. ICANN then requires us to make your full name, mailing address, phone number, email address, and, where provided, your facsimile number, as well as the creation and expiration dates of your domain name registration and the name server information associated with your domain name ( "WHOIS Information"), available to the public via an interactive webpage and a "port 43" WHOIS service, unless you utilize a proxy service approved by us. In the event you elect to utilize a proxy service approved by us, the information of that proxy service, rather than your WHOIS Information, will be made available to the public. Please note that we are not able to control how members of the public may use the WHOIS Information.
-  * **Affiliates.** We are a member of the Rightside Group, Ltd. family of companies (the "Family of Companies"). The Family of Companies includes the following U.S. based companies: Acquire This Name, Inc.; DomainSite, Inc.; eNom, Incorporated; eNom1039, Inc.; eNom1040, Inc.; eNom623, Inc.; eNom625, Inc.; Hot Media, Inc.; Mobile Name Services Incorporated; Name.com, Inc.; Name.net, Inc.; Name104, Inc.; Name105, Inc.; Name106, Inc.; Name107, Inc.; Name108, Inc.; Name109, Inc.; Name110, Inc.; Name111, Inc.; Name112, Inc.; Name113, Inc.; Name114, Inc.; Name115, Inc.; Name116, Inc.; Name117, Inc.; Name118, Inc.; Name119, Inc.; Name120, Inc.; Rightside Group, Ltd.; Rightside Operating Co.; Secure Business Services, Inc.; Sipence, Incorporated; Vedacore.com, Inc.; and Whois Privacy Protection Services, Inc. The Family of Companies also includes the following non-U.S. based companies: Bejing United TLD Tech Co., Ltd.; DMIH Limited; eNom Canada Corp.; Rightside Australia Pty Ltd; Rightside Canada, Inc.; Rightside Domains Europe Limited; and United TLD Holdco Ltd. We may share information we have about you within the Family of Companies to facilitate, support, and integrate their activities and improve our services. Each U.S. based member of the Family of Companies adheres to the Privacy Shield Principles (as discussed below). 
-  * **Advertisers:** We will share aggregated demographic information with our partners and advertisers. This is not linked to any personal information that can identify any individual person. 
-  * **Partners:** We partner with other parties to provide specific services. When the user signs up for these services, we will share names, or other contact information that is necessary for the third party to provide these services. 
-  * **Agents:** We engage other companies and individuals to perform functions on our behalf. Examples include processing credit card payments, providing marketing assistance, providing customer services, sending postal mail and email to you, removing repetitive information from customer lists, and analyzing data. These persons have access to personal information needed to perform their functions. These companies do not retain, share, store or use personally identifiable information that you provide to us for any secondary purposes. 
-  * **Service Providers:** We engage other companies and individuals to perform enhanced services on our behalf. In addition, certain of our enhanced services require that we contact Internet directories and various search engines on your behalf. Many of our service providers have access to personal information needed to perform their services. These parties are not allowed to use personally identifiable information except for the purpose of providing these services. 
-  * **Business Transfer:** As we continue to develop our business, we might sell or buy businesses or their assets. In such transactions, customer information generally is one of the transferred business assets. Also, if we or all or substantially all of our assets were ever to be acquired, customer information will of course be one of the transferred assets.
-  * **Compliance:** We release account and other personal information when we believe release is appropriate in response to a lawful request by public authorities, including to meet national security or law enforcement requirements; enforce or apply our agreements; or protect our rights, property, or safety, our users, or others. This includes exchanging information with other companies and organizations for fraud protection and credit risk reduction.
+  * Usernames and passwords;
+  * Technical support records;
+  * Credit history/performance information;
+  * How much is spent on Enom’s services and that of its competitors;
+  * Industry or business data;
+  * Credit card information;
+  * Date and location of birth;
+  * Citizenship data;
+  * National or local identification number;
+  * Taxation data;
+  * Language preferences;
+  * Internet protocol address and time stamps;
+  * Payment and banking information; and
+  * Special needs.
 
 
 
-#### How Secure Is Information About Me?
+This information is based on the data elements requested by registries and may include data points that are not relevant to your specific case.
 
-  * We work to protect the security of your information during transmission by using Secure Sockets Layer (SSL) software, which encrypts information you input and the information we may send to our agents.
-  * We have gone to great lengths to ensure your information is securely obtained and held in compliance with the Payment Card Industry Data Security Standard. For example, we encrypt your credit card number before it is stored in our database. This helps ensure that no one may access your credit card from our system.
-  * It is important for you to protect against unauthorized access to your password and to your computer. Be sure to sign off when finished using a shared computer.
+Personal information may be collected when:
 
-
-
-#### What Information Can I Access?
-
-  * We give you access to certain information about you for the limited purpose of viewing and, in certain cases, updating that information. To view or change this information, log in to your account. When you update information, we usually keep a copy of the prior version for our records.
+  1. A person makes any inquiries by telephone, agrees to a contract, registers a domain name, or provides any information by email or through the Internet, inquires about their services, receives technical support, registers an account online, makes additional orders for services, or when they make a complaint; and/or
+  2. A person visits a Enom owned, hosted, and/or controlled website including, but not limited to: bulkregister.com, enom.com, enomcentral.com, and registryrocket.com (the “Websites”).
 
 
 
-#### Links
+However, the policy does not impose any limits on the collection, use, or disclosure of the following information:
 
-  * Sites provided by us contain links to other sites. Please be aware that we are not responsible for the privacy practices of such other sites. We encourage our users to be aware when they leave our site and to read the privacy statements of each and every website that collects personally identifiable information. This privacy statement applies solely to information collected by this website.
-
-
-
-#### Children
-
-  * We do not sell services for purchase by children. If you are under 18, you may use our services only with involvement of a parent or guardian.
+  1. a person’s name, address, telephone number, fax number, and email address, when listed in a Whois directory;
+  2. business data, including an employee’s name, title, address, telephone number, fax number, and email address; or
+  3. information that is publicly available.
 
 
 
-#### Conditions of Use, Notices, and Revisions 
+Third Party Services
 
-  * If you choose to visit our website, your visit and any dispute over privacy is subject to this Privacy Policy and our terms and conditions, including limitations on damages, arbitration of disputes, and application of the law of the state of Washington. If you have any concern about our privacy practices, please send us a thorough description to [legalnotice@rightside.co](mailto:legalnotice@rightside.co), and we will try to resolve it. Our business changes constantly. This Privacy Policy and our terms and conditions will change also, and use of information that we gather now is subject to the Privacy Policy in effect at the time of use. We may email reminders of our notices and conditions, unless you have instructed us not to, but you should check our website frequently to see recent changes.
+In order to provide the highest level of service to our customers, employees, and to end-users, it is sometimes necessary for Enom to use third party services. Here is a list of the third party services that Enom uses:
 
-
-
-#### For European Union Citizens or Switzerland Citizens
-
-_EU-US Privacy Shield Framework_
-
-  * We comply with the EU-US Privacy Shield Framework as set forth by the US Department of Commerce regarding the collection, use, and retention of personal information from European Union member countries. We have certified that we adhere to the Privacy Shield Principles of Notice, Choice, Accountability for Onward Transfer, Security, Data Integrity and Purpose Limitation, Access, and Recourse, Enforcement and Liability. If there is any conflict between the policies in this Privacy Policy and the Privacy Shield Principles, the Privacy Shield Principles shall govern. To learn more about the Privacy Shield program, and to view our certification page, please visit <https://www.privacyshield.gov/>
-  * Note that you have the right to access, correct, or delete your personal data processed by us. Some personal data can be accessed, corrected, and deleted through your account. For assistance with accessing, correcting, or deleting your personal data, please contact us at [legalnotice@rightside.co](mailto:legalnotice@rightside.co). Please be aware that deleting your personal data may result in termination of the services you receive through us.
-  * In compliance with the EU-US Privacy Shield Principles, we commit to resolve complaints about your privacy and our collection or use of your personal information. European Union individuals with inquiries or complaints regarding this privacy policy should first contact our parent company, Rightside Group, Ltd., at [legalnotice@rightside.co](mailto:legalnotice@rightside.co), or by postal mail at: Rightside Group, Ltd., Attn: Legal Department, 5808 Lake Washington Blvd NE, Suite 300, Kirkland, WA 98033 USA
-  * We have further committed to refer unresolved privacy complaints under the EU-US Privacy Shield Principles BBB EU PRIVACY SHIELD, a non-profit alternative dispute resolution provider located in the United States and operated by the Council of Better Business Bureaus. If you do not receive timely acknowledgment of your complaint, or if your complaint is not satisfactorily addressed, please visit [www.bbb.org/EU-privacy-shield/for-eu-consumers/](https://web.archive.org/web/20170122100527id_/http://www.bulkregister.com/terms/www.bbb.org/EU-privacy-shield/for-eu-consumers/) for more information and to file a complaint. In addition, it is possible, under certain limited conditions, for individuals to invoke binding arbitration before the Privacy Shield Panel to be created by the US Department of Commerce and the European Commission. Note that the US Federal Trade Commission (FTC) has enforcement authority over our compliance with this Privacy Policy.
-
-
-
-_US-Swiss Safe Harbor Framework_
-
-  * We comply with the US-Swiss Safe Harbor Framework as set forth by the US Department of Commerce regarding the collection, use, and retention of personal information from Switzerland. We have certified that we adhere to the Safe Harbor Privacy Principles of notice, choice, accountability for onward transfer, security, data integrity and purpose limitation, access, and recourse, enforcement and liability. If there is any conflict between the policies in this Privacy Policy and the Safe Harbor Privacy Principles, the Safe Harbor Privacy Principles shall govern. To learn more about the US-Swiss Safe Harbor and to view our certification page, please visit <http://www.export.gov/safeharbor/>
-  * In compliance with the US-Swiss Safe Harbor Principles, we commit to resolve complaints about your privacy and our collection or use of your personal information. Swiss citizens with inquiries or complaints regarding this privacy policy should first contact our parent company, Rightside Group, Ltd., at [legalnotice@rightside.co](mailto:legalnotice@rightside.co), or by postal mail at: Rightside Group, Ltd., Attn: Legal Department, 5808 Lake Washington Blvd NE, Suite 300, Kirkland, WA 98033 USA.
-  * We have further committed to refer unresolved privacy complaints under the US-Swiss Safe Harbor to an independent dispute resolution mechanism operated by the Council of Better Business Bureaus. If you do not receive timely acknowledgment of your complaint, or if your complaint is not satisfactorily addressed, please visit [www.bbb.org/us/safe-harbor-complaints](https://web.archive.org/web/20170122100527id_/http://www.bulkregister.com/terms/www.bbb.org/us/safe-harbor-complaints) for more information and to file a complaint.
+  * American Express
+  * Bluesnap
+  * DENIC Data Escrow Services
+  * Iron Mountain Data Escrow Services
+  * Kibana
+  * Mail
+  * Pentaho
+  * Paypal
+  * Sage (Intacct)
+  * Stripe
+  * ZenDesk
 
 
+
+We only share personal information when necessary to provide the service and we make sure that the third parties we work with are responsible stewards of that information.
+
+Guidelines for Internet/Website Users
+
+There are additional guidelines that apply to persons who use the Websites and portals. In addition to the principles outlined above, Enom may permit third parties to offer users subscription and/or registration-based services through the Websites. In such circumstances, Enom cannot be responsible for the content of any third-party offerings or any actions or policies of such third parties.
+
+Enom also reminds users that voluntarily-disclosed information online in discussion areas or other public areas of the Websites can be collected and used by third parties and may result in unsolicited messages from third parties. Unfortunately, such activities are beyond the control of Enom.
+
+In some cases, users’ non-personal information and data may be automatically collected through the standard operation of Enom’s Internet servers or through the use of “cookies”. “Cookies” are small text files that are used by websites to: (a) recognize repeat users; (b) track usage behavior; and (c) compile aggregate data that will permit content improvements and targeted advertising. Enom cannot control or prevent the use of cookies or any information obtained through such cookies by advertisers or third parties. If you do not want information collected through the use of cookies, most browsers permit you to disable the cookie feature. However, cookies may be required for the use of certain features on the Websites.
+
+Any submissions made to discussion areas or other public areas on the Websites are done with a user’s understanding that they are accessible to third parties. If comments are not intended for third parties, you are advised not to make any submissions.
+
+Enom’s policy generally and in connection with Internet use is subject to the requirements or provisions of any applicable legislation, regulations, contracts, or agreements, or order of any court or other lawful authority. Your use of the Websites is also subject to these requirements as well as Enom’s Acceptable Use Policy.
+
+The Privacy Principles Enom Follows
+
+There are ten principles that form the basis of Enom’s policy. These principles are interrelated and Enom adheres to them as a whole. Each principle must be read in conjunction with the accompanying commentary. The commentary in Enom’s policy may be tailored to reflect personal information issues specific to Enom.
+
+Definitions
+
+To better understand our policy, Enom has set out some basic definitions to use when reading and interpreting the principles below:
+
+Collection: the act of gathering, acquiring, recording, or obtaining personal information from any source, including third parties, by any means.
+
+Consent: voluntary agreement with the collection, use, and disclosure of personal information for defined purposes. Consent can be provided directly by the individual or by an authorized representative of an entity.
+
+Customer: an individual or entity that uses, or applies to use, Enom’s products or services including, but not limited to, both resellers and registrants.
+
+Disclosure: making personal information available to a third party.
+
+Personal information: information about an identifiable individual that is recorded in any form; this does not include aggregated information that cannot be associated with an individual. For a customer, such information does not include information that is aggregated in such a manner that it cannot be connected to them and/or information that is publicly listed in a written or online directory.
+
+Third party: an individual or organization outside Enom.
+
+Use: the treatment, handling, and management of personal information by and within Enom.
+
+Principle 1 Accountability
+
+Enom is responsible for personal information under its control. In response, it has designated its Data Protection Officer (“DPO”) as accountable for the company’s compliance with the following principles.
+
+  1. Responsibility for ensuring compliance with the provisions of the Enom policy rests with the Legal Department within Enom, which shall designate one or more persons to be accountable for compliance with the Enom policy. Other individuals within Enom may be delegated to act on behalf of the designated person(s) or to take responsibility for the day-to-day collection and processing of personal information. The DPO has been designated in order that Enom may ensure that consumers have a resource to answer their privacy-related inquiries.
+  2. Enom shall make known, upon request, the identity of the person or persons designated to oversee Enom’s compliance with its policy.
+  3. Enom is responsible for personal information in its possession or control. Enom shall use appropriate means to provide a comparable level of protection while information is being processed by a third party.
+  4. Enom shall implement policies and practices to give effect to these principles, including:
+
+
+  * Implementing procedures to protect personal information and to oversee Enom’s compliance with its policy;
+  * Establishing procedures to receive and respond to inquiries or complaints;
+  * Training and communicating to staff about Enom’s policies and practices; and
+  * Developing information to explain Enom’s policies and practices.
+
+
+
+Principle 2 Identifying Purposes for Collection of Personal Information
+
+Enom shall identify the purposes for which personal information is collected within a reasonable period after obtaining the data, and prior to using the data.
+
+  1. Enom collects personal information only for the following purposes:
+
+
+  * To establish and maintain responsible commercial relations with customers and to provide ongoing services and offers;
+  * To understand customer needs;
+  * To develop, enhance, market, or provide products and services;
+  * To manage and develop Enom’s business and operations, including personnel and employment matters; and
+  * To meet legal, regulatory, and contractual requirements.
+
+
+  2. Further references to “identified purposes” mean the purposes identified in this Principle 2.
+
+
+  * Enom shall specify orally, electronically, or in writing the identified purposes to the customer or employee at the time personal information is collected or within a reasonable period. Upon request, persons collecting personal information shall explain these identified purposes or refer the individual to a designated person within Enom who shall explain the purposes.
+  * Unless required by law, Enom shall not use or disclose for any new purpose personal information that has been collected without first identifying and documenting the new purpose and obtaining the consent of the customer.
+
+
+
+Principle 3 Obtaining Consent for Collection, Use, or Disclosure of Personal Information
+
+The knowledge and consent of a customer is required for the collection, use, or disclosure of personal information, except where inappropriate.
+
+NOTE: In certain circumstances personal information can be collected, used, or disclosed without the knowledge and consent of the individual. For example, when required to fulfil a contract or when information is being collected for the detection and prevention of fraud or for law enforcement, seeking the consent of the individual might defeat the purpose of collecting the information.
+
+  1. In obtaining consent, Enom shall use reasonable efforts to ensure that a customer is advised of the identified purposes for which personal information collected will be used or disclosed. Purposes shall be stated in a manner that can be reasonably understood by the customer or employee.
+  2. Generally, Enom shall seek consent to use and disclose personal information at the same time it collects the information. However, Enom may seek consent to use and disclose personal information after it has been collected but before it is used or disclosed for a new purpose.
+  3. Enom will only require customers to consent to the collection, use, or disclosure of personal information as a condition to the supply of a product or service if such collection, use, or disclosure is required to fulfill the identified purposes.
+  4. In determining the appropriate form of consent, Enom shall take into account the sensitivity of the personal information and the reasonable expectations of its customers.
+  5. Unless required by contract, Enom will obtain express consent within a reasonable period after obtaining the data and prior to using the data.
+  6. A customer may withdraw consent at any time, subject to legal, regulatory, or contractual restrictions and reasonable notice. For example, if consent is required to perform the service requested by the customer, withdrawal of consent may result in termination of the service. Customers may contact Enom at the address below for more information regarding the implications of doing so.
+
+
+
+Principle 4 Limiting Collection of Personal Information
+
+Enom shall limit the collection of personal information to that which is necessary for the identified purposes. Enom shall collect personal information by fair and lawful means.
+
+  1. Enom collects personal information primarily from its customers.
+  2. Enom may also collect personal information from other sources including but not limited to credit bureaus or other third parties who represent that they have the right to disclose the information.
+
+
+
+Principle 5 Limiting Use, Disclosure, and Retention of Personal Information
+
+Enom shall not use or disclose personal information for purposes other than those for which it was collected, except with the consent of the individual or as required by a registry or by law. Enom shall retain personal information only as long as necessary for the fulfillment of those purposes or as required by law.
+
+1) Enom may disclose a customer’s personal information to:
+
+  * A registrant or end-user’s reseller;
+  * A third party service provider for the efficient and cost-effective provision of services purchased through the Websites;
+  * Another person or corporation as part of conducting business together or pursuant to the sale of all or substantially all of Enom’s assets related to one or more specific lines of business;
+  * A company involved in supplying communications or communications directory related services;
+  * A company or individual employed by Enom to perform functions on its behalf;
+  * Another company or person for the development, enhancement, marketing, or provision of any of Enom’s products or services;
+  * An agent or third party retained by Enom in connection with Enom’s administration or the provision of Enom’s products or services;
+  * An agent used by Enom to evaluate the customer’s creditworthiness or to collect the customer’s account;
+  * Credit grantors and reporting agencies;
+  * A public authority or agent of a public authority, if in the reasonable judgment of Enom, it appears that there is imminent danger to life or property which could be avoided or minimized by disclosure of this information;
+  * A person who, in the reasonable judgment of Enom, is seeking the information as an agent of the customer; and
+  * A third party or parties, where the customer consents to such disclosure or disclosure is required by law or emergency.
+
+
+
+Enom reserves the right to contact persons at any time regarding account status, changes to services, and other matters relevant to underlying services and/or personal information. Except as permitted in this Principle, Enom does not provide or sell its customer lists to any outside company for use in marketing or solicitation.
+
+2) Only Enom’s employees with a business need to know, or whose duties reasonably so require, are granted access to personal information that is not publicly available about customers.
+
+3) Enom shall keep personal information only as long as it remains necessary or relevant for the identified purposes or as required by law. Depending on the circumstances, where personal information has been used to make a decision about a customer, Enom shall retain, for a period of time that is reasonably sufficient to allow for access by the customer, either the actual information or the rationale for making the decision.
+
+4) Personal information that is no longer necessary or relevant for the identified purposes or required to be retained by law shall be destroyed, erased, or made anonymous. In any event, Enom shall maintain reasonable and systematic controls, schedules, and practices for such information, its retention and destruction.
+
+Principle 6 Accuracy of Personal Information
+
+Personal information shall be as accurate, complete, and up-to-date as is necessary for the purposes for which it is to be used.
+
+  1. Personal information used by Enom shall be sufficiently accurate, complete, and up-to-date to minimize the possibility that inappropriate information may be used to make a decision about a customer.
+  2. Enom shall update personal information about customers as and when necessary to fulfill the identified purposes or upon notification by the individual.
+
+
+
+Principle 7 Security Safeguards
+
+Enom shall protect personal information by implementing security safeguards appropriate to the sensitivity of the information.
+
+  1. Enom shall protect personal information against such risks as loss, theft, unauthorized access, disclosure, copying, use, modification, or destruction, through appropriate security measures. Enom shall protect the information regardless of the format in which it is held.
+  2. Enom shall protect personal information it discloses to third parties by contractual agreements stipulating the confidentiality of the information and the purposes for which it is to be used.
+  3. All of Enom’s employees with access to personal information shall be required as a condition of employment to contractually respect the confidentiality of personal information.
+
+
+
+Principle 8 Openness Concerning Policies and Practices
+
+Enom shall make readily available to customers and employees specific information about its policies and practices relating to the management of personal information.
+
+  1. Enom shall make information about its policies and practices easy to understand, including:
+
+
+  * The title and address of the DPO, who is accountable for Enom’s compliance with the policy and to whom inquiries or complaints can be forwarded;
+  * The means of gaining access to personal information held by Enom; and
+  * A description of the type of personal information held by Enom, including a general account of its use.
+
+
+
+Principle 9 Customer Access to Personal Information
+
+Enom shall inform a customer of the existence, use, and disclosure of their personal information upon request and shall give the individual access to that information. A customer shall be able to challenge the accuracy and completeness of the information and have it amended as appropriate.
+
+NOTE: In certain situations, Enom may not be able to provide access to all of the personal information it holds about a customer. Exceptions may include information that is prohibitively costly to provide, information that contains references to other individuals, information that cannot be disclosed for legal, security, commercial proprietary reasons, or information that is subject to attorney-client or litigation privilege. Enom shall provide the reasons for denying access upon request.
+
+  1. Upon request, Enom shall afford customers a reasonable opportunity to review the personal information it holds. Personal information shall be provided in understandable form within a reasonable time and at a minimal or no cost to the individual.
+  2. Upon request, Enom shall provide an account of the use and disclosure of personal information. In providing an account of disclosure, Enom shall provide a list of organizations to which it may have disclosed personal information about the individual when it is not possible to provide an actual list.
+  3. In order to safeguard personal information, a customer may be required to provide sufficient identification information to permit Enom to account for the existence, use, and disclosure of personal information and to authorize access to the individual’s file. Any such information shall be used only for this purpose.
+  4. Enom shall promptly correct or complete any personal information found to be inaccurate or incomplete. Any unresolved differences as to accuracy or completeness shall be noted in the individual’s file. Where appropriate, Enom shall transmit to third parties having access to the personal information in question any amended information or the existence of any unresolved differences.
+  5. Customers can obtain information or seek access to their individual files by contacting a designated representative at Enom’s business offices as described below.
+
+
+
+Principle 10 Challenging Compliance
+
+A customer shall be able to address a challenge concerning compliance with the above principles to the designated person or persons accountable for Enom’s compliance with the policy.
+
+  1. Enom shall maintain procedures for addressing and responding to all inquiries or complaints from its customers about Enom’s handling of personal information.
+  2. Enom shall inform its customers about the existence of these procedures as well as the availability of complaint procedures.
+  3. The person or persons accountable for compliance with Enom’s policy may seek external advice where appropriate before providing a final response to individual complaints.
+  4. Enom shall investigate all complaints concerning compliance with the policy. If a complaint is found to be justified, Enom shall take appropriate measures to resolve the complaint including, if necessary, amending its policies and procedures.
+
+
+
+For more information:
+
+Please contact us through any of the Websites or directly through our Privacy Office as follows by:
+
+E-mail: privacy@enom.com
+
+Telephone: 1-425-974-4689
+
+Mail: Enom Inc.
+
+10400 NE 4th Street
+
+Floor 5, Suite 121
+
+Bellevue WA 98004
+
+Attention: DPO
+
+Enom Privacy Policy v.3.2        13 December 2018
