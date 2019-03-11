@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the rainymood.com privacy policy that was archived on 2018-09-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180921201429id_/http%3A//rainymood.com/privacy-app.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rainymood.com privacy policy that was archived on 2019-03-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190312001022id_/http%3A//www.rainymood.com/privacy-app.php) for the most accurate reproduction.*
 
 # Privacy Policy
 
 Effective date: May 21, 2018
 
-Plain Theory, Inc. ("us", "we", or "our") operates the http://www.rainymood.com website and the Rainy Mood mobile application (the "Service").
+Plain Theory, Inc. ("us", "we", or "our") operates the http://www.rainymood.com website and the Rainy Mood application (the "Service").
 
 This page informs you of our policies regarding the collection, use, and disclosure of personal data when you use our Service and the choices you have associated with that data.
 
@@ -14,7 +14,7 @@ We use your data to provide and improve the Service. By using the Service, you a
 
   * **Service**
 
-Service means the http://www.rainymood.com website and the Rainy Mood mobile application operated by Plain Theory, Inc.
+Service means the http://www.rainymood.com website and the Rainy Mood application operated by Plain Theory, Inc.
 
   * **Personal Data**
 
