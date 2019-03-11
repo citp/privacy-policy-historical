@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the babbittsonline.com privacy policy that was archived on 2017-09-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170911031119id_/http%3A//www.babbittsonline.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the babbittsonline.com privacy policy that was archived on 2019-03-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190311122916id_/https%3A//www.babbittsonline.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -15,11 +15,11 @@ We use this information for three general purposes:
 
 ### Sharing Information
 
-Our customer's information is an inportant part of our business and we are NOT in the business of selling that to other parties.  We only use our customer's information as described in this privacy policy.
+Our customer's information is an important part of our business and we are NOT in the business of selling that to other parties. We only use our customer's information as described in this privacy policy.
 
 ### Security
 
-Your account information is password-protected for your privacy and security.  In sensitive areas of the site we also use industry-standard SSL-encryption to protect data transmissions.  It is important for you to protect unauthorized access to your password and to your computer.  Be sure to safely sign off when your have completed your transaction on a shared computer.
+Your account information is password-protected for your privacy and security. In sensitive areas of the site we also use industry-standard SSL-encryption to protect data transmissions. It is important for you to protect unauthorized access to your password and to your computer. Be sure to safely sign off when your have completed your transaction on a shared computer.
 
 ### Which Information Can You Access
 
@@ -27,18 +27,14 @@ This site gives you access to a broad range of information about your account an
 
 ### Changes to our Privacy Policy
 
-  * If we decide to change our privacy policy, we will post those changes on this page.
-
-
-
-This policy was last modified on 12/29/14.
+If we decide to change our privacy policy, we will post those changes on this page. This policy was last modified on 12/07/17.
 
 ### Contacting Us
 
 If there are any question regarding this privacy policy you may contact us using the information below.
 
-  * Babbitt's Sport Center
-  * 3712 Airline Rd.
-  * Muskegon, MI 49444
-  * 
+  * **Babbitt's Sports Center**
+  * 3712 Airline Road
+  * Muskegon, Michigan 49444
+
 
