@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the html-5-tutorial.com privacy policy that was archived on 2017-07-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170720064037id_/http%3A//www.html-5-tutorial.com/privacy-policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the html-5-tutorial.com privacy policy that was archived on 2019-03-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190311144933id_/https%3A//www.html-5-tutorial.com/privacy-policy.htm) for the most accurate reproduction.*
 
 # Privacy Policy - HTML5 tutorial
 
-[home](http://www.html-5-tutorial.com/)
+[home](https://www.html-5-tutorial.com/)
 
 **The privacy of my visitors to html-5-tutorial.com is important to me.**
 
@@ -18,4 +18,4 @@ Duncan Aitken
 website designer  
 [duncansprivateemail@gmail.com](mailto:duncansprivateemail@gmail.com)
 
-[home](http://www.html-5-tutorial.com/)
+[home](https://www.html-5-tutorial.com/)
