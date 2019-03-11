@@ -1,32 +1,31 @@
-> *The following text is extracted and transformed from the davesite.com privacy policy that was archived on 2012-03-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120305041650id_/http%3A//www.davesite.com/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the davesite.com privacy policy that was archived on 2019-03-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190311213425id_/https%3A//www.davesite.com/privacy.shtml) for the most accurate reproduction.*
 
 # Our Privacy Policy - davesite.com
 
-Our Goal at davesite.com and subsidiaries (including neonlollipops.com) is to provide world wide web surfers with informational, entertainment, or educational content.
+Our Goal at davesite.com is to provide world wide web surfers with informational, entertainment, or educational content.
 
 ## Information Collection and Use
 
-We do not sell, share, or rent personal information about our users obtained from their use of our site or their correspondence with our staff. This includes information provided on feedback forms and any other way of contact we choose to give the user. 
-
-We partner with ValueClick to serve ads and/or collect certain information when you visit our website. ValueClick may use cookies or web beacons to collect non-personally identifiable information during your visit to this website in order to help show advertisements on other websites likely to be more interesting to you. To learn more about this "behavioral advertising" practice or to opt-out of this use of your anonymous information, you can visit [http://www.valueclickmedia.com/member_privacy.shtml ](http://www.valueclickmedia.com/member_privacy.shtml)
+We do not sell, share, or rent personal information about our users obtained from their use of our site or their correspondence with our staff. This includes information provided on feedback forms and any other way of contact we choose to give the user.
 
 ## Cookies
 
-Davesite.com uses cookies in an attempt to limit the amount of some types of advertising received by visitors to the site. Our advertisers may also use cookies from time to time. While we do not believe third-party cookies are used to track personal information such as users' names, addresses, and phone numbers, we do not have control or access to this information. We encourage users to read the privacy policies of our advertisers (linked below.)
+Our advertisers may also use cookies from time to time. While we do not believe third-party cookies are used to track personal information such as users' names, addresses, and phone numbers, we do not have control or access to this information. We encourage users to read the privacy policies of our advertisers (linked below.)
 
   * [Google Privacy Policy](http://www.google.com/privacy.html)
-  * [Burst!Media Privacy Policy](http://www.burstmedia.com/release/privacy.asp)
+  * [Conversant Privacy Policy](https://www.conversantmedia.com/legal/privacy)
+  * [Amazon Privacy Policy](https://www.amazon.com/gp/help/customer/display.html?nodeId=468496)
 
 
-
-We also use cookies to enhance your experience within the web site. The cookies used do not contain personal identifying information.
 
 **Managing Cookies**
 
-Learning about and managing cookies vary based on your web browser. To learn how to manage cookies with your web browser, type **managing cookies** and your browser name in the box below. For example, if you're using Internet Explorer, type **managing cookies Internet Explorer**. If you are using Firefox, type **managing cookies Firefox**.  In addition, please note that: 
+Learning about and managing cookies vary based on your web browser. To learn how to manage cookies with your web browser, type **managing cookies** and your browser name in the box below. For example, if you're using Internet Explorer, type **managing cookies Internet Explorer**. If you are using Firefox, type **managing cookies Firefox**. 
 
-  * Google uses [Doubleclick's DART cookie](http://www.doubleclick.com/privacy/faq.aspx) to serve ads to you based on your visit to this site and other sites on the Internet. 
-  * You may opt out of the use of the DART cookie by [visiting the Google ad and content network privacy policy.](http://www.google.com/privacy_ads.html)
+In addition, please note that: 
+
+  * Google uses [Doubleclick's DART cookie](https://www.doubleclick.com/privacy/faq.aspx) to serve ads to you based on your visit to this site and other sites on the Internet. 
+  * You may opt out of the use of the DART cookie by [visiting the Google ad and content network privacy policy.](https://www.google.com/privacy_ads.html)
 
 
 
@@ -34,16 +33,9 @@ Learning about and managing cookies vary based on your web browser. To learn how
 
 Davesite.com maintains usage log files which may collect IP addresses from users for uses such as determining what countries our visitors are from and what internet service providers they use. There is no personal information collected during this process. Davesite.com may be able to determine which third-party site a user came from if a user found our site through a link. 
 
-## Surveys
-
-From time to time users may see surveys available on our site. These help our advertisers determine the type of people that visit our site. Data submitted through these surveys is aggregated with data of other respondents and stripped of all personal infomation. Although we encourage users to take part in these surveys they are not required to do so.   
-
-
-## Third-Party Contests and Subscriptions
-
-Our advertisers may offer contests and newsletter-like subscriptions. Please use your discretion when signing up for these services. Frequently, it takes these companies ten days or longer to remove you from their contest/newsletter mailing lists. 
-
 ## Links
+
+[ ](https://www.tkqlhce.com/click-462266-12310352)
 
 Many pages on davesite.com contain links to other web sites. These third-party sites may have privacy policies different from our own. Users should check with each site for their privacy policy. 
 
@@ -53,7 +45,7 @@ On some pages in our site there is a box that allows our servers to e-mail users
 
 ## Changes in Policy
 
-Any change to our privacy policy will be posted on our web site. This policy was posted on April 27, 2000, and modified August 11, 2000 / July 28, 2001 / October 5, 2002 / May 20, 2008 / April 7, 2009, April 23, 2010. Sept 1, 2010.
+Any change to our privacy policy will be posted on our web site. This policy was posted on April 27, 2000, and modified August 11, 2000 / July 28, 2001 / October 5, 2002 / May 20, 2008 / April 7, 2009, April 23, 2010. Sept 1, 2010. April 24, 2018 
 
 ## Contact
 
@@ -61,4 +53,8 @@ Please contact [Dave Kristula - webmaster@davesite.com](mailto:webmaster@davesit
 
 ## Back to the Site!
 
-Click the back button to return to your prior page or go to the [davesite.com main page](http://www.davesite.com/) or [neonlollipops.com main page](http://www.neonlollipops.com/). 
+Click the back button to return to your prior page or go to the [davesite.com main page](https://web.archive.org/)
+
+ _advertisement_
+
+## [iPage Web Hosting for only $1.99/Month](https://www.tkqlhce.com/click-462266-10780766)
