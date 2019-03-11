@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dealdey.com privacy policy that was archived on 2018-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181231182502id_/https%3A//www.dealdey.com/privacy_policy%3Fno_subscription_pop%3Dtrue) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dealdey.com privacy policy that was archived on 2019-03-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190311194559id_/https%3A//www.dealdey.com/privacy_policy%3Fno_subscription_pop%3Dtrue) for the most accurate reproduction.*
 
 # DealDey - Privacy Policy
 
