@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the xtremeskins.co.uk privacy policy that was archived on 2016-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161222190253id_/https%3A//www.xtremeskins.co.uk/pages/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the xtremeskins.co.uk privacy policy that was archived on 2019-03-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190311011046id_/https%3A//www.xtremeskins.co.uk/pages/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Notice - XtremeSkins
 
@@ -21,7 +21,7 @@ If we ask for your personal information for a secondary reason, like marketing, 
 
 #### How do I withdraw my consent?
 
-If after you opt-in, you change your mind, you may withdraw your consent for us to contact you, for the continued collection, use or disclosure of your information, at anytime, by contacting us at [xtremeskins@gmail.com](mailto:%20xtremeskins@gmail.com "Email Address")
+If after you opt-in, you change your mind, you may withdraw your consent for us to contact you, for the continued collection, use or disclosure of your information, at anytime, by contacting us at [info@xtremeskins.co.uk](mailto:%20info@xtremeskins.co.uk)
 
 ### SECTION 3 - DISCLOSURE
 
@@ -101,4 +101,4 @@ If our store is acquired or merged with another company, your information may be
 
 ### QUESTIONS AND CONTACT INFORMATION
 
-If you would like to: access, correct, amend or delete any personal information we have about you, register a complaint, or simply want more information contact our Privacy Compliance Officer at [xtremeskins@gmail.com](mailto:%20xtremeskins@gmail.com "Email Address")
+If you would like to: access, correct, amend or delete any personal information we have about you, register a complaint, or simply want more information contact our Privacy Compliance Officer at [info@xtremeskins.co.uk](mailto:%20info@xtremeskins.co.uk)
