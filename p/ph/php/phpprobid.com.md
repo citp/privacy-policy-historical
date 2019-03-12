@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the phpprobid.com privacy policy that was archived on 2017-02-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170214122855id_/https%3A//www.phpprobid.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the phpprobid.com privacy policy that was archived on 2019-03-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190312124845id_/https%3A//www.phpprobid.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy / PHP Pro Bid
+# Privacy Policy
 
 We believe your business is no one else's. Your privacy is important to you - and to us. So we'll protect the information you share with us. To protect your privacy, PHP Pro Bid follows different principles in accordance with world-wide practices for customer privacy and data protection. 
 
