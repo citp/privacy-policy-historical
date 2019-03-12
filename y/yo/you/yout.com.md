@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the yout.com privacy policy that was archived on 2018-11-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181116002609id_/https%3A//yout.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the yout.com privacy policy that was archived on 2019-03-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190312214016id_/https%3A//yout.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy | Yout
+# Privacy policy | Yout
 
 Your privacy is very important to us at Yout. This Privacy Policy document outlines what data Yout receives and how we store, manage, and protect it.
 
