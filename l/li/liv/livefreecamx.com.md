@@ -1,119 +1,128 @@
-> *The following text is extracted and transformed from the livefreecamx.com privacy policy that was archived on 2015-03-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150317094132id_/http%3A//www.livefreecamx.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the livefreecamx.com privacy policy that was archived on 2019-03-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190312214046id_/https%3A//www.livefreecamx.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy - livefreecamx
+# Privacy Policy - Livefreecamx
 
-Effective Date: March 4, 2014
+This Privacy & Cookies Policy (the "Policy") dated May 22, 2018 replaces all previous policies. Please take the time to review before you continue to use our products and services.
 
-Last Modified: March 4, 2014
+This Policy applies to any information you provide to us, including through this website, our mobile apps, communications by email and through social media, by telephone and in person. It also covers any information we receive from third parties.
 
-This Privacy Policy applies to all of the products, services, and websites (collectively, our “Services”) offered by Multi Media, LLC (“livefreecamx,” “we,” “our”). By using our Services and/or registering with livefreecamx, you acknowledge and accept the provisions in this Privacy Policy and grant us permission to collect, store, and use the items of personal information described herein, so long as livefreecamx adheres to the standards set forth more clearly below.
+By using our products and services, including browsing our websites, registering or logging in, you agree we may use your information as outlined in this Policy. If you do not wish to have your information used in line with this Policy, you must not use our products and services and not otherwise provide us with your information.
 
-We reserve the right to amend this Privacy Policy at any time and provide such amendments to you by posting a revised version on our website. If the revised version includes a substantial change, we will provide you with thirty (30) days’ notice prior to the effectiveness thereof by posting notice of the change in a prominent place on the livefreecamx website, such as presenting to you a click-through page immediately following your account login. Otherwise, in the case of insubstantial changes, the revised version will be effective at the time we post it. In any event, we will not reduce your rights under this Privacy Policy without your explicit consent, and we expect most changes will be minor. Each version of this Privacy Policy will be identified at the top of the page by its Last Modified date, and we will also keep prior versions of this Privacy Policy in an archive for your review.
+## About us
 
-If you have any questions about this Privacy Policy, please feel free to contact us through our website, by email at [support@chaturbate.com](mailto:support@chaturbate.com), or by phone at 1-949-274-7960.
+Multi Media, LLC operates the service located on Chaturbate.com (the "Site").
 
-**Information Collected**
+## Information we may collect and process about you
 
-In order to provide our full range of Services, we may collect the following types of information:
-
-Information you provide. When you register for a username, we ask you for personal information (such as your email address, username, and an account password). In order to improve the quality of our Services and to provide you with a better user experience, we may combine the information you submit with information provided by third parties.
-
-Financial Data. Some portions of the livefreecamx website are provided as paid services. Accordingly, our payment processor may collect billing information from you to facilitate your purchase of Services from us. Such information may include a credit card number, the associated card’s expiration date, and a billing address. WE DO NOT HAVE ACCESS TO YOUR FINANCIAL DATA, WHICH IS COLLECTED BY OUR PAYMENT PROCESSOR. Financial data that is collected by our payment processor will only be used as necessary to initiate and complete any orders placed by your account. Credit card purchases for the pay services offered on the livefreecamx site are processed via industry standard encryption through third-party processors, which processors only use your information the purpose of processing order placed by your account. Financial Data is considered private information and will not be shared with us, or with third parties, except with your authorization and as necessary to carry out orders placed by you with the understanding by you that such transaction(s) may be subject to the rules and policies of such third parties. Financial or other data provided by you to any companies or websites advertising on our website are not governed by this Privacy Policy. Any information provided by you to a third party, and any transaction with such a third party, is subject to that third party’s terms and conditions and privacy policy.
-
-Demographic Information. Each time you access our Services, our servers may automatically record in their server logs information that your browser sends whenever you visit a website. These server logs may include information such as your Internet Protocol or “IP” address, the date and time of your request, browser type, browser language, and one or more cookies (see description below) that may uniquely identify your browser. Additionally, we may collect other available demographic information, such as zip code, search history, browsing history, and user history. Aggregate, non-individual membership demographic information may be shared with third parties with whom we have a direct or indirect relationship who may offer products or services we believe you may be interested in.
-
-Links. We may present links that include codes that enable us to track whether these links have been followed. This information is used to improve the quality of our advertising and customized content, as well as the organization and layout of our website.
-
-Cookies. Assuming your browser is configured to accept them, when you visit our websites, we will send one or more cookies to your computer or other device. A cookie is a small file containing a string of characters that uniquely identifies your browser. We may also set one or more cookies in your browser when you click on an ads or other links presented on our website. Cookies make it possible to store user preferences and record which portions of our website you and other users are using the most. We use cookies for the purposes of preventing fraud and improving the quality of our Service. livefreecamx uses what are known as "evercookies" which may appear on your system despite certain settings and software to block standard cookies. Therefore, the evercookie works to ensure that you do not inadvertently clear your cookies and lose your preferences and ability to use livefreecamx as you have selected and to ensure that we keep people who breach our rules off of livefreecamx for the well-being of the livefreecamx community.
-
-User communications. We may retain communications that you send to livefreecamx by email or otherwise, in order to process your inquiries, respond to your requests, and improve our Services.
-
-Affiliated livefreecamx Services on other sites. From time to time, we may offer some of our Services on or through other websites. In the event that we do offer such services, it is possible that personal information you provide to those sites may be sent to livefreecamx to facilitate delivery of those services. We will process such information under this Privacy Policy as if the information had been submitted directly from you to livefreecamx. Any affiliated site through which our Services are offered will likely have its own privacy policy, which may be very different from ours. It is very important for you to review the privacy policies for such affiliated sites before submitting personal information to them.
-
-Other sites. This Privacy Policy only applies to Services offered by livefreecamx. We are not able to exercise control over sites that are linked to from within our various Services. These other sites may collect data, set their own cookies in your browser, or ask you to provide personal information.
-
-**Use of Personal Information**
-
-livefreecamx processes personal information only for the purposes described in this Privacy Policy. In addition to the reasons set forth above, such purposes also include:
-
-Providing our Services (which includes displaying customized advertising and other content);
-
-Auditing, research, and analysis (to maintain, protect, and improve our Services);
-
-Technical diagnostics (to ensure our network is functioning as expected);
-
-Protecting the rights or property of livefreecamx or our users, or third parties;
-
-To comply with applicable law, to cooperate with law enforcement and the court system;
-
-Creating new Services; and
-
-Marketing and sales of advertising.
-
-We process personal information on our servers, which are located in the United States of America and in other countries. As a result, there exists the possibility that we may process your personal information on a server that is not located in your home country. In some cases, we may process personal information at the request of third parties and according to their instructions, such as our advertising partners. We will treat all personal information processed at the request of a third party exactly as if we had collected the processed personal information ourselves.
-
-**Information Communicated via Video Chat**
-
-As the livefreecamx website features interactive video chat services, it is possible for you to communicate identifying information about yourself to other users who are viewing a live video stream from your computer. You should be aware that any such communication is made directly to those users viewing the live video stream, and not to livefreecamx. We are not responsible for the privacy of personal identifying information that you communicate via video chat to users who are viewing a live video stream from your computer. Accordingly, you should refrain from sharing personal information via live video stream to other users of livefreecamx services.
-
-**California Residents**
-
-If you are a California resident, you have the right to receive: a) information identifying any third-party company(ies) to whom we may have disclosed, within the past calendar year, personal information pertaining to you and your family for our direct marketing purposes; and b) a description of the categories of personal information disclosed. To obtain such information you must make a request in writing. Your request will not be processed if it does not include your name and email address, the URL for the website you visited, and a return address. We will not honor such requests more than once per calendar year. Please email your request to [support@chaturbate.com](mailto:%20support@chaturbate.com).
-
-**Privacy Principle: Choice**
-
-Use of our Services requires registering for a username. When you sign up for our Services, we ask you to provide personal information, such as your email address. We will ask for your consent prior to using any provided personal information in any way that is different from the stated purpose for which that information was collected.
-
-In the event that we develop a new use for personal information that is not described in this Privacy Policy, you will be given the opportunity to opt out of such use. We will not collect or use sensitive information, such as racial or ethnic origins, sexuality, politics, religion, or medical information, for any purpose not described herein.
-
-Use of our Service may require you to configure your browser settings to allow cookies to be stored on your computer or other browsing device. You should be aware that the Services might not function properly without cookies enabled.
-
-**Privacy Principle: Onward Transfer**
-
-livefreecamx may from time to time share personal information with individuals or other companies. In the event that we share information with companies or individuals not a part of livefreecamx, we will only do so in the following circumstances:
-
-  * If we have asked for and received your consent. You should be aware that when you register for a username, during the sign up process, you provide us with permission to share your personal information with trusted third parties (e.g., promotional partners and advertisers) so that they can promote their products and services and those of their affiliates and partners based on your preferences and interests. You may “opt out” of such disclosure(s) to the extent they include your personally identifiable information by sending an email at any time to support@chaturbate.com indicating your intent to do so.
-  * For the purpose of processing personal information on our behalf, we may provide personal information to trusted persons or businesses. We will require these third-party processors to adopt appropriate confidentiality and security measures. Further, all third-party processors will be provided with a copy of this Privacy Policy and instructions that all processing of personal information must be done in accordance herewith.
-  * We have a good-faith belief that access, use, preservation, or disclosure of your personal information is reasonably necessary: (a) to satisfy any applicable law, regulation, legal process or enforceable governmental request; (b) to enforce applicable Terms of Service, including investigation of potential violations thereof; (c) to detect, prevent, or otherwise address fraud, security or technical issues; or (d) as required or permitted by law, to protect against harm to the rights, property or safety of livefreecamx, its users, or the public.
+  * Information you provide to us
+  * Your IP address
+  * Information about accounts you've visited, products and services you've clicked on or shown an interest
+  * Information provided by other companies who have obtained your permission through their own privacy policies to share information about you
+  * Information about your interaction with the Site including any advertisements
+  * Information we collect using cookies stored on your device about your use of the Site and/or selected third party websites.
+  * Information we collect or remember using technologies similar to cookies, such as device identifiers on your mobile device.
+  * Technical information from your device relating to the service you receive
+  * Information relating to the location of your device.
 
 
 
-This Privacy Policy may be superseded by an acquiring party’s policies in the event that livefreecamx becomes involved in a merger, acquisition, or any form of sale of some or all of its assets.
+## How we may use your information
 
-We may share with third parties certain pieces of aggregated, non-personal information, such as the number of users who viewed a certain page in our website, for example, or how many users clicked on a particular advertisement. Such information does not identify you individually.
+By accessing the Site, you agree that we may collect, hold, use or otherwise process your information (including personal information) for the purpose of providing you with those products and services you request or access, and developing our business.
 
-**Privacy Principle: Security**
+### Payment Processing
 
-Appropriate security measures are taken to protect your personal information against unauthorized access to or unauthorized alteration, disclosure, or destruction. These measures include internal reviews of our data collection, storage, and processing practices. Physical security measures are also taken to prevent unauthorized access to systems where your personal information is stored.
+Please note that we contract with various third parties to carry out payment processing in connection with any purchases you may make through the Site. The processing and storage of any and all information you may provide to any such third-party payment processor, including information they may collect from you, is not governed by this Policy. You will need to review the Privacy and Cookie Policy for such third party on their website.
 
-Your personal information is revealed to our employees, contractors, and agents on a need-to-know basis in operating, developing, or improving our Services. As a condition of their employment or association with livefreecamx, these individuals are bound by confidentiality obligations. If they fail to maintain the confidentiality of your personal information, they may be subject to discipline, including termination and criminal prosecution.
+### Two Factor Authentication
 
-**Privacy Principle: Data Integrity**
+When you enable two factor authentication to protect your account, you may provide your phone number directly to a third party called Twilio. Their use of this information is outside of this Policy; however they do not receive any information regarding your account beyond the phone number you provide directly to them.
 
-livefreecamx processes personal information only for the purposes described in this Privacy Policy. We review our data collection, storage, and processing practices to ensure that we only collect, store, and process only that personal information which is needed to provide or improve our Services or as otherwise permitted hereunder. Although we depend on our users to keep their own personal information up to date, we also perform reasonable actions to ensure that the personal information we process is accurate, complete, and current.
+### Fraud Prevention Services
 
-**Privacy Principle: Access**
+We use third party services in connection with preventing fraud and other damage to our system. As such we may provide to such services with your IP and device data should your account be terminated for fraud or behavior which is damaging to our Site or service. This information will be retained indefinitely for the protection of our Site and users.
 
-We make good-faith efforts to provide you with access to your personal information that we have collected. In the event that such information is inaccurate, we will endeavor to provide facilities that allow you to either correct this data or to delete it, provided we are not otherwise required to retain such data by law or for legitimate business purposes. Before processing requests to access, delete, or alter such data, we ask individual users to identify themselves and the information requested to be accessed, deleted, or corrected. We may refuse to process requests: (i) that require disproportionate technical effort; (ii) that are unreasonably repetitive or systematic; (iii) that would be extremely impractical (for instance, requests concerning information residing on backup tapes); (iv) that jeopardize the privacy of others; or (v) for which access is not otherwise required. Unless providing access and correction service would involve a disproportionate effort, we will perform it free of charge.
+## How we may use your information in specific products or services
 
-**Privacy Principle: Enforcement**
+### Registration
 
-We regularly review our compliance with this Privacy Policy. If you feel there has been a specific instance where we have failed to comply with this Privacy Policy, please bring this matter to our attention by sending a detailed description of such noncompliance to us at email [support@chaturbate.com](mailto:%20support@chaturbate.com).
+**General account registration:** You are not required to provide any information to use the Site. You may determine to create an account with the Site. In such event you will be required to provide a user name, birthdate to demonstrate you meet our minimum age requirements, and your gender. This information, together with any information you determine to provide in your account profile, will be publicly posted in connection with your username.
 
-It is our policy to contact the complaining user regarding his or her concerns when we receive formal written complaints at this address. In order to resolve any complaints regarding the transfer of personal data that cannot be resolved between livefreecamx and an individual, we will cooperate with the appropriate regulatory authorities, such as local data protection authorities.
+**Contributor registration:** Should you determine to create a "Contributor" account (which is an account that is permitted to receive digital currency from other users of the Site), you will be required to provide a color copy of your current government issued photo identification. This information is stored by us in compliance with United States Federal law. You will also be required to provide “pay to” information such as a bank account or home address. You may be required to provide certain taxpayer information. We report to the United States Internal Revenue Service all moneys paid by us to Contributors as required by law.
 
-**Email Communications**
+**Webmaster registration:** Should you determine to create a webmaster account with the Site, you will be required to provide "pay to" information such as a bank account or home address. You may be required to provide certain taxpayer information. We report to the United States Internal Revenue Service moneys paid by us to webmasters as required by law.
 
-By providing your email address in connection with the creation of an account with Chaturbate, you thereby demonstrate your consent to receive email communications from us. Email addresses, when provided, are only used for friend notifications, broadcast and payout reminders, and account verification. Your email address is never sold or shared. If you wish to "opt-out" of all future email communications relating to Chaturbate, you may do so by taking the following steps:
+### Message boards, blogs and other public forums
 
-While logged in on the site, visit the "MY PROFILE" page using the link appearing the in upper right-hand area of the page.
+The Site may provide message boards, blogs and other user generated content facilities, in addition to user profiles. Anything that you share through any of these means is deemed public information. You should always be careful when deciding to disclose your personal information.
 
-From the "MY PROFILE" page, click on the "Settings & Privacy" tab.
+### Location based services
 
-Delete your email address from the "E-mail address" input box under the "Personal Data" heading
+Where we provide services that utilize your device's location, we may permit other users of the service to block individuals in certain locations, based upon their IP, from accessing such users' content.
 
-Click on the "Update Settings" button link near the bottom of the "MY PROFILE" page.
+## Certain Information Use Out of Our Control
 
-After opting out, please allow up to 10 days for your email to be fully removed from our mailing list.
+Should you determine to stream or upload any content to our Site, you understand that we cannot control the use of such content by any user/observer of our Site. Furthermore, we cannot control the use of any personal information you may determine to share with other users/observers of the Site. You should exercise caution in discussing your location, name, account information, and other identifying information. For privacy, we recommend using a unique username not in any way tied to any of your social media accounts or real name.
 
-If you have any additional questions or concerns about this Privacy Policy, please feel free to contact us any time through this web site, by email at [support@chaturbate.com](mailto:%20support@chaturbate.com), or by phone at 1-949-274-7960.
+## How we may share your information
+
+Your username will be associated with all activities you undertake on the Site including, without limitation, messages sent, content shared, and streamed content. Your gender information will be used to categorize your account and the content that you share so it is easier for site users to find. Your IP addresses, device data, and other use information is used by us in order to optimize our site for use. Your usage history may also be used to help our internal algorithm to recommend other Site users to you. Your "pay to" information, if provided to us, will be shared with third parties (such as, by way of example only, our bank) only as necessary to process payments to you using the "pay to" information you have provided to us. Your government identification, if provided to us, will be shared as required to comply with applicable law and as may be requested by you in writing. Notwithstanding the forgoing, we reserve the right to share any and all account information with law enforcement or agencies authorized by applicable governmental authorities either in response to their written request or should we believe, in our sole discretion, that you or your account may be involved with illegal activity, or if we determine in our sole discretion that such disclosure is necessary to protect the rights or property of Chaturbate, our users, or third parties.
+
+## Safeguards and security for your information
+
+We have measures in place to protect the security of your personal information from unauthorized access or use, such as by using encryption technology.
+
+## Information Deletion
+
+Should you request your personal data be deleted, it will be deleted in compliance with our data retention policy and applicable law and rules. In order to avoid abuse of our system, we will retain device and IP data relating to your account for a period of time to prevent you from creating a new account.
+
+You can request permanent deletion using our deletion tool [here](https://web.archive.org/security/privacy/delete/).
+
+## Cookies Policy
+
+You should be aware that when you use the Site we may collect information using cookies or similar technologies.
+
+### What are cookies and how do they work?
+
+Cookies are small files that are downloaded to your computer or mobile device when you visit a website. Your browser sends these cookies back to the website every time you visit the site again, so it can recognize you. This allows websites to tailor what you see on the screen.
+
+### Do we use other technologies which are similar to cookies?
+
+Our websites, apps and emails often contain small invisible images known as 'web beacons' or 'tracking pixels'. These are used in a way similar to cookies, to understand when a particular part of a webpage is viewed. Our apps often use device identifiers in the same way as cookies. A device identifier is a unique number on your device which allow us to remember your device.
+
+### What do we use cookies for?
+
+Cookies make using websites much smoother and affect lots of the useful features of websites. There are many different uses for cookies, but they fall into four main groups:
+
+  1. Cookies that are needed to provide the service you have asked for. Some cookies are essential so you can move around the website and use its features. Without these cookies, services you've asked for can't be provided. These cookies gather information about you that can be used for remembering your browsing history or allowing you to stay logged in during your visit.
+  2. Cookies used to improve your browsing experience. These cookies allow the website to remember choices you make, such as your language or region and they provide improved features such as content provider recommendations and limiting the number of times a particular advertisement is shown to you.
+  3. Cookies used to understand how people use our products and services. This allows us to keep track of what pages are popular to help other users find such pages.
+  4. Cookies used to show advertising that is relevant to you based upon your viewing history.
+
+
+
+We also use cookies in order to know how many advertisements we serve, how many times these are clicked or hovered over with a mouse cursor, how many advertisements we show to a given user and how many customer actions these generate.
+
+We may also use cookies on the Site and advertisers' sites to understand which customers reach a sale or other action page on an advertiser's site. This allows us to monitor how effective our advertising is.
+
+Some of our web pages will contain promotional links to other companies' sites. If you follow one of these links and then register with or buy something from that other site, a cookie is sometimes used to tell that other site that you came from one of our sites. That other site may then pay us a small amount for the successful referral. You will need to review the privacy policy of any website whose advertisement you click on as this Policy only applies to pages on our domain.
+
+## Contacting us and accessing your personal information
+
+If you have any queries or comments about this Privacy & Cookies Policy please contact us at:  
+[support@chaturbate.com](mailto:support@chaturbate.com)
+
+If you wish to review or receive a copy of the personal information we hold about you, we offer a self-serve tool [here](https://web.archive.org/security/privacy/data_export/), else please write to us at:
+
+> Attention: Data Protection Officer  
+>  Grizzly Empire Ltd  
+>  Unit 4 Studios  
+>  100 Bradford Road  
+>  Dewsbury, United Kingdom, WF13 2EF  
+>  [privacyquestions@chaturbate.com](mailto:privacyquestions@chaturbate.com)
+
+We reserve the right to charge an administration fee in relation to fulfilling a request for access to personal information which fee shall not exceed the maximum fee allowed by law.
+
+### Changes to this Privacy & Cookies Policy
+
+We reserve the right to make changes to our Privacy & Cookies Policy. Changes to this policy will be posted here and will become effective as of the updated effective date. Your continued use of our website or platform will signify your acceptance of these changes.
