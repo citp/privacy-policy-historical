@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the steinmart.com privacy policy that was archived on 2018-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181225212235id_/https%3A//www.steinmart.com/category/customer%2Bservice/privacy%2Band%2Bsecurity.do) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the steinmart.com privacy policy that was archived on 2019-03-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190312110532id_/https%3A//www.steinmart.com/category/customer%2Bservice/privacy%2Band%2Bsecurity.do) for the most accurate reproduction.*
 
 # Privacy and Security-Customer Service | Stein Mart
 
