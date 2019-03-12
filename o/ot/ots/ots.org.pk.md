@@ -1,158 +1,100 @@
-> *The following text is extracted and transformed from the ots.org.pk privacy policy that was archived on 2016-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161229131903id_/http%3A//www.ots.org.pk/privacypolicy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ots.org.pk privacy policy that was archived on 2019-03-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190312041037id_/https%3A//www.ots.org.pk/privacypolicy.php) for the most accurate reproduction.*
 
 # Privacy Policy | OTS
 
-Fair Information Practices 
+The purpose of this privacy policy is to make a reader aware that how their “Personally Identifiable Information” (PII) is used. PII is information that can be used to identify, contact or locate any single individual. This is according to international privacy standards. Please check our privacy policy carefully to know how we collect, use, protect or handle your “Personally Identifiable Information” according to our website. We care about the protection of your privacy and are dedicated to securing your personal data. 
 
-Fair information  
-Practices
+### Contents:
 
-This privacy policy has been compiled to better serve those who are concerned with how their 'Personally identifiable information' (PII) is being used online. PII, as used in US privacy law and information security, is information that can be used on its own or with other information to identify, contact, or locate a single person, or to identify an individual in context. Please read our privacy policy carefully to get a clear understanding of how we collect, use, protect or otherwise handle your Personally Identifiable Information in accordance with our website.  
+  1. Who are we?
+  2. What data do we collect about you?
+  3. Why do we process your personal information?
+  4. How will we inform you about changes in our privacy statement?
+  5. Your rights
+  6. Communication and marketing
+  7. How do we protect visitor information?
+  8. Who do we share your data with?
+  9. Where do we store your data and for how long?
+  10. Technical and organizational measures and processing security
+  11. Links to third-party websites
+  12. Contact
+  13. Changes to this Policy
 
 
- **What personal information do we collect from the people that visit our blog, website or app?**
 
-When ordering or registering on our site, as appropriate, you may be asked to enter your name, email address, mailing address, phone number or other details to help you with your experience.
+### 1\. Who are we?
 
- **When do we collect information?**
+Open Testing Service (OTS) is established with the vision to bring innovation in assessment and training process since 2012. OTS is leading by its cost-effective solutions in testing and training sector across the country. We have satisfied clients nationwide and worldwide. Our services include data management, data screening, testing and assessments, training programs; capacity building and enterprise software solutions that help institutions/ organizations improve reliability, increase manpower and educational improvements solutions. We provide a customized service to organizations that want to make over their employment process through assessment with cost-effective and high-quality of standards. 
 
-We collect information from you when you register on our site, fill out a form or enter information on our site.
+### 2\. What data do we collect about you?
 
- **How do we use your information?**
+You will be asked to enter your name, email address, postal address, phone number, qualification or other details while registering on our website in order to use our services as per client or organization requirements. All this information is collected to make a profound data processing, shortlisting for assessment / head hunting to check your eligibility as per our client’s organization requirements. 
 
-  
+### 3\. Why do we process your personal information?
 
+OTS is a service providing company, we provide services to different organizations regarding recruitments and filling vacant posts for both public and private sectors. Your personal data will be used only according to the set policies of the organization. 
 
-We may use the information we collect from you when you register, make a purchase, sign up for our newsletter, respond to a survey or marketing communication, surf the website, or use certain other site features in the following ways:
+We use the following information for the purpose of an ample performance and to improve the services and to protect you from any fraud. 
 
- **•** To administer a contest, promotion, survey or other site feature.
+  * When you enter or provide your data in soft or hard form to OTS.
+  * When it is necessary for us to improve our services and to provide you with a protected platform.
+  * When there are some legal requirements or our client requirements.
+  * Exceptionally we may use your data with your consent, in that case, you will be informed why and where your personal information is going to be used.
+  * OTS uses your mobile number, log data and unique device identifiers to protect our platform including troubleshooting, data analysis, testing, fraud prevention, system maintenance, support, reporting etc.
 
- **How do we protect visitor information?**
 
-We do not use vulnerability scanning and/or scanning to PCI standards.
 
-We do not use Malware Scanning.
+### 4\. How will we inform you about changes in our privacy statement?
 
-Your personal information is contained behind secured networks and is only accessible by a limited number of persons who have special access rights to such systems, and are required to keep the information confidential. In addition, all sensitive/credit information you supply is encrypted via Secure Socket Layer (SSL) technology. 
+OTS can change the privacy statement as per requirements. You will be kept informed about these changes through email or you can stay updated from this page. 
 
-We implement a variety of security measures when a user enters, submits, or accesses their information to maintain the safety of your personal information.
+### 5\. Your rights
 
-All transactions are processed through a gateway provider and are not stored or processed on our servers.
+In this section, we will let you know about all those rights you protect while using our services. 
 
- **Do we use 'cookies'?**
+  * **Right to request access:** you are able to access the data and receive a copy to check that if your data is valid.
+  * **Right to request correction:** if someone has incomplete or inaccurate data at OTS for some reason. We may add or correct data after verification if required by concern party/authority.
+  * **Right to withdraw your consent to the processing of your personal data at any time:** we do not accommodate such cases.
 
-We do not use cookies for tracking purposes 
 
-You can choose to have your computer warn you each time a cookie is being sent, or you can choose to turn off all cookies. You do this through your browser (like Internet Explorer) settings. Each browser is a little different, so look at your browser's Help menu to learn the correct way to modify your cookies.  
 
+### 6\. Communication and marketing
 
-If you disable cookies off, some features will be disabled that make your site experience more efficient and some of our services will not function properly.
+To confirm your registration an email, SMS or connections with our Services through our website are the primary mediums. However, you may contact us through our helpline. 
 
-However, you can still place orders .
+### 7\. How do we protect visitor information?
 
- **Third Party Disclosure**
+We do not expose scanning against PCI standards. We also do not use Malware Scanning at all. All your personal information is only accessible to the limited number of persons. They have special access rights to certain systems and are bound to keep the information confidential. Moreover, all your sensitive information you provide is encrypted via Secure Socket Layer (SSL) technology. We are implementing a variety of security measures when a user enters, submits, or accesses their information in order to maintain the safety of our personal information. All the dealings are processed through an entry provider and are not stored or processed on our servers. 
 
-  
+### 8\. Who do we share your data with?
 
+We do not share or sell your data with third parties. 
 
-We do not sell, trade, or otherwise transfer to outside parties your personally identifiable information unless we provide you with advance notice. This does not include website hosting partners and other parties who assist us in operating our website, conducting our business, or servicing you, so long as those parties agree to keep this information confidential. We may also release your information when we believe release is appropriate to comply with the law, enforce our site policies, or protect ours or others' rights, property, or safety. 
+### 9\. Where do we store your data and for how long?
 
-However, non-personally identifiable visitor information may be provided to other parties for marketing, advertising, or other uses. 
+We shall be sharing your data for the following purposes through our platform. We do not sell trade or transfer Personally Identifiable Information to any third party unless we inform you with advance notice. Website hosting partners and other parties assisting us in operating our website, conducting our business or serving you are exceptions. All those parties are agreed to keep this information confidential. Your information will be released only if releasing the information is legitimate. Though, non-personally identifiable visitor information may be revealed to other parties for marketing, advertising, or other purposes. We may store data both in soft and hard copy as per our OTS record or data disposal policy. Mostly we dispose of record in hard form after three months of the completion of the project and in the soft form your data is archived. We store all of your data in highly protected warehouses under the surveillance and CCTV cameras. There is a strong access policy where very few of employees are privileged. 
 
-**Third party links**
+**Test Centers:** OTS may share your data with its test centers which are located across Pakistan. They are working with us providing business operation services as per OTS SOPs. 
 
-Occasionally, at our discretion, we may include or offer third party products or services on our website. These third party sites have separate and independent privacy policies. We therefore have no responsibility or liability for the content and activities of these linked sites. Nonetheless, we seek to protect the integrity of our site and welcome any feedback about these sites.
+**Law enforcement authorities, regulators and others:** OTS may reveal your personal data to any law enforcement authorities, regulators, governmental or public bodies including the third party to obey any legal requirements. 
 
- **Google**
+In case OTS is sold, transferred or merged with some other organization or individual. Your personal data will be used according to the stated privacy policy. 
 
-  
+### 10\. Technical and organizational measures and processing security
 
+In order to provide the best possible user experience, OTS may store and process your data. We shall be holding your personal data for the purpose of any satisfying, legal, accounting, or reporting requirements. If we need to retain the data we will be looking at the nature and sensitivity of that personal data to avoid the potential risk of harm from unauthorized use. You can contact for any queries regarding retention of your personal information at OTS. 
 
-Google's advertising requirements can be summed up by Google's Advertising Principles. They are put in place to provide a positive experience for users. https://support.google.com/adwordspolicy/answer/1316548?hl=en 
+### 11\. Contact
 
-We use Google AdSense Advertising on our website.
+For information and guidance please contact us; 
 
-Google, as a third party vendor, uses cookies to serve ads on our site. Google's use of the DART cookie enables it to serve ads to our users based on their visit to our site and other sites on the Internet. Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy.  
+**Address:** OTS Headquarter (HQ), Office # 01, Central Avenue, Bahria Town, Phase VI, Islamabad.  
+**UAN:** 051 111 687 222 (Monday to Saturday From 9:00 AM to 05:30 PM)  
+**Fax:** 051-8441353  
+**Website:** www.ots.org.pk, **Email:** info@ots.org.pk 
 
+### 12\. Changes to this Policy
 
- **We have implemented the following:**
+The privacy policy may keep changing with the passage of time and within legal requirements. Regular visits to this page will keep you up to date for any changes regarding “Privacy Policies” or you will be notified through email. 
 
- **•** Demographics and Interests Reporting
-
-We along with third-party vendors, such as Google use first-party cookies (such as the Google Analytics cookies) and third-party cookies (such as the DoubleClick cookie) or other third-party identifiers together to compile data regarding user interactions with ad impressions, and other ad service functions as they relate to our website. 
-
-Opting out:  
-Users can set preferences for how Google advertises to you using the Google Ad Settings page. Alternatively, you can opt out by visiting the Network Advertising initiative opt out page or permanently using the Google Analytics Opt Out Browser add on.
-
- **California Online Privacy Protection Act**
-
-CalOPPA is the first state law in the nation to require commercial websites and online services to post a privacy policy. The law's reach stretches well beyond California to require a person or company in the United States (and conceivably the world) that operates websites collecting personally identifiable information from California consumers to post a conspicuous privacy policy on its website stating exactly the information being collected and those individuals with whom it is being shared, and to comply with this policy. - See more at: http://consumercal.org/california-online-privacy-protection-act-caloppa/#sthash.0FdRbT51.dpuf  
-
-
- **According to CalOPPA we agree to the following:**
-
-Users can visit our site anonymously
-
-Once this privacy policy is created, we will add a link to it on our home page, or as a minimum on the first significant page after entering our website.
-
-Our Privacy Policy link includes the word 'Privacy', and can be easily be found on the page specified above.
-
-Users will be notified of any privacy policy changes:
-
- **•** On our Privacy Policy Page
-
-Users are able to change their personal information:
-
- **•** By emailing us
-
- **How does our site handle do not track signals?**
-
-We honor do not track signals and do not track, plant cookies, or use advertising when a Do Not Track (DNT) browser mechanism is in place. 
-
-**Does our site allow third party behavioral tracking?**
-
-It's also important to note that we do not allow third party behavioral tracking
-
- **COPPA (Children Online Privacy Protection Act)**
-
-  
-
-
-When it comes to the collection of personal information from children under 13, the Children's Online Privacy Protection Act (COPPA) puts parents in control. The Federal Trade Commission, the nation's consumer protection agency, enforces the COPPA Rule, which spells out what operators of websites and online services must do to protect children's privacy and safety online.
-
-We do not specifically market to children under 13.
-
- **Fair Information Practices**
-
-  
-
-
-The Fair Information Practices Principles form the backbone of privacy law in the United States and the concepts they include have played a significant role in the development of data protection laws around the globe. Understanding the Fair Information Practice Principles and how they should be implemented is critical to comply with the various privacy laws that protect personal information.
-
- **In order to be in line with Fair Information Practices we will take the following responsive action, should a data breach occur:**
-
-We will notify users via phone call
-
- **•** Within 7 business days
-
-We will notify the users via in site notification
-
- **•** Within 7 business days
-
-We also agree to the individual redress principle, which requires that individuals have a right to pursue legally enforceable rights against data collectors and processors who fail to adhere to the law. This principle requires not only that individuals have enforceable rights against data users, but also that individuals have recourse to courts or a government agency to investigate and/or prosecute non-compliance by data processors.
-
- **CAN SPAM Act**
-
-  
-
-
-The CAN-SPAM Act is a law that sets the rules for commercial email, establishes requirements for commercial messages, gives recipients the right to have emails stopped from being sent to them, and spells out tough penalties for violations.
-
- **We collect your email address in order to:**
-
- **To be in accordance with CANSPAM we agree to the following:**
-
- **  
-If at any time you would like to unsubscribe from receiving future emails, you can email us at**
-
-and we will promptly remove you from **ALL** correspondence.
+Updated on: 28-01-2019
