@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the adcore.com privacy policy that was archived on 2015-03-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150321091709id_/https%3A//www.adcore.com%3Fp%3D1671) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the adcore.com privacy policy that was archived on 2019-03-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190312125546id_/https%3A//www.adcore.com%3Fp%3D1671) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy | ADCORE
+
+## **Privacy Policy  **
 
 This Privacy Policy applies to Company’s Website at www.adcore.com and any sub sites thereof, and the Services provided thereunder, (the “Website”) and governs data collection and usage therein and in connection thereto. By using the Website and the Services, accessing, browsing, using the Content or otherwise submitting information to the Website, you acknowledge and consent to the collection and use of information by the Company subject to the terms set forth below and the ToU (as defined below).
 
