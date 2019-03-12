@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the goodcheapeats.com privacy policy that was archived on 2018-08-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180801232555id_/https%3A//goodcheapeats.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the goodcheapeats.com privacy policy that was archived on 2019-03-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190312022527id_/https%3A//goodcheapeats.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Good Cheap Eats
 
