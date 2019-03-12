@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the myoniyonitranslations.com privacy policy that was archived on 2018-04-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180427094407id_/http%3A//myoniyonitranslations.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the myoniyonitranslations.com privacy policy that was archived on 2019-03-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190312181721id_/https%3A//myoniyonitranslations.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Myoniyoni Translations
 
