@@ -1,0 +1,1315 @@
+<!--The following is the downloaded HTML source of the saraswatbank.co.in privacy policy that was archived on 2019-03-12.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20190312082713id_/https%3A//www.saraswatbank.com/content.aspx%3Fid%3DPrivacy-Policy) for the most accurate reproduction.-->
+
+<!DOCTYPE html><html xmlns="http://www.w3.org/1999/xhtml"><head id="Head1">
+    <!-- Basic Page Needs================================================== -->
+    <meta charset="utf-8">
+    <!--[if IE]><meta http-equiv="x-ua-compatible" content="IE=9" /><![endif]-->
+    <meta name="viewport" content="width=device-width, initial-scale=1"><title>
+	Saraswat Cooperative Bank Ltd.
+</title><meta id="PageKeywords" name="Keywords" content="Privacy and Disclosures"><meta id="PageDescription" name="Description"><meta id="pageRobots" name="Robots"><meta id="pageGoogleBot" name="googlebot"><meta id="pageSiteVerification" name="google-site-verification"><meta id="pageLanguage" name="language" content="English"><meta id="pageAuthor" name="author"><link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.css"><link rel="stylesheet" href="https://netdna.bootstrapcdn.com/bootstrap/3.0.0-rc2/css/bootstrap-glyphicons.css">
+    <!-- Favicons================================================== -->
+    <link rel="shortcut icon" href="images/favicon/favicon.ico" type="image/x-icon"><meta name="msapplication-TileColor" content="#ffffff"><meta name="msapplication-TileImage" content="images/favicon/ms-icon-144x144.png">
+    <!-- Stylesheet================================================== -->
+    <link rel="stylesheet" type="text/css" href="css/stylesheet.css">
+    <!-- Owl Stylesheets================================================== -->
+    <link rel="stylesheet" href="css/owl.carousel.min.css"><link rel="stylesheet" href="css/owl.theme.min.css"><link rel="canonical" href="content.aspx?id=Privacy-Policy" <="" head="">
+
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async="" src="https://www.googletagmanager.com/gtag/js?id=UA-41679305-1"></script>
+<script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag() { dataLayer.push(arguments); }
+    gtag('js', new Date());
+
+    gtag('config', 'UA-41679305-1');
+</script>
+<script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.8.3/jquery.min.js"></script>
+    <script type="text/javascript" src="https://www.google.com/recaptcha/api.js?onload=onloadCallback&amp;render=explicit" async="" defer=""></script>
+<script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.min.js"></script>
+<script type="text/javascript">
+
+    $(document).ready(function () {
+
+        var statesDDL = $("#ddlStateMain");
+        var citiesDDL = $("#ddlCityMain");
+        var areasDDL = $("#ddlBranchMain");
+        var pofficeTypeId = 1;
+        $.ajax({
+            type: "POST",
+            url: "locator.aspx/getStates_locator",
+            data: JSON.stringify({ officeTypeId: pofficeTypeId }),
+            contentType: "application/json; charset=utf-8",
+            dataType: "json",
+            failure: function (response) {
+                alert(response.d);
+            },
+            error: function (response) {
+                alert(response.d);
+            },
+            success: function (response) {
+                // alert(JSON.stringify(response));
+
+
+                statesDDL.append($('<option/>', { value: -1, text: 'Select State' }));
+                citiesDDL.append($('<option/>', { value: -1, text: 'Select City' }));
+                areasDDL.append($('<option/>', { value: -1, text: 'Select Nearest Branch' }));
+                citiesDDL.prop('disabled', true);
+                areasDDL.prop('disabled', true);
+                $.each(response.d, function () {
+                    statesDDL.append($("<option></option>").val(this['StateId']).html(this['StateName']));
+                });
+
+            }
+        });
+
+
+        //Populate dropdowns on change
+        statesDDL.change(function () {
+
+            if ($(this).val() == -1) {
+                //  alert("Hi");
+                citiesDDL.empty();
+                areasDDL.empty();
+                citiesDDL.append($('<option/>', { value: -1, text: 'Select City' }));
+                areasDDL.append($('<option/>', { value: -1, text: 'Select Nearest Branch' }));
+                citiesDDL.val('-1');
+                areasDDL.val('-1');
+                citiesDDL.prop('disabled', true);
+                areasDDL.prop('disabled', true);
+
+            }
+            else {
+
+                $(function () {
+                    //   alert("called");
+                    var ddlVal = statesDDL.val();
+                    //  alert(ddlVal);
+                    $.ajax({
+                        type: "POST",
+                        url: "locator.aspx/getCities",
+                        data: JSON.stringify({ iState: ddlVal, officeTypeId: pofficeTypeId }),
+                        contentType: "application/json; charset=utf-8",
+                        dataType: "json",
+                        error: function (xhr, status, error) {
+                            var err = eval("(" + xhr.responseText + ")");
+                            alert(err.Message);
+                        },
+                        success: function (r) {
+                            // alert(JSON.stringify(r));
+                            citiesDDL.empty();
+                            citiesDDL.append($('<option/>', { value: -1, text: 'Select City' }));
+                            citiesDDL.prop('disabled', false);
+                            $.each(r.d, function () {
+                                citiesDDL.append($("<option></option>").val(this['CityId']).html(this['CityName']));
+                            });
+                        }
+                    });
+                });
+
+
+            }
+
+
+        });
+
+
+        citiesDDL.change(function () {
+
+            if ($(this).val() == -1) {
+                //   alert("Hi");
+                areasDDL.empty();
+                areasDDL.append($('<option/>', { value: -1, text: 'Select Nearest Branch' }));
+                areasDDL.val('-1');
+                areasDDL.prop('disabled', true);
+
+            }
+            else {
+
+                $(function () {
+                    //   alert("called");
+                    var ddlStateVal = statesDDL.val();
+                    var ddlVal = citiesDDL.val();
+
+                    //  alert(ddlVal);
+                    $.ajax({
+                        type: "POST",
+                        url: "locator.aspx/getBranch",
+                        data: JSON.stringify({ statesId: ddlStateVal, cityId: ddlVal }),
+                        contentType: "application/json; charset=utf-8",
+                        dataType: "json",
+                        error: function (xhr, status, error) {
+                            var err = eval("(" + xhr.responseText + ")");
+                            alert(err.Message);
+                        },
+                        success: function (r) {
+                            //alert(JSON.stringify(r));
+                            areasDDL.empty();
+                            areasDDL.append($('<option/>', { value: -1, text: 'Select Nearest Branch' }));
+                            areasDDL.prop('disabled', false);
+                            $.each(r.d, function () {
+                                areasDDL.append($("<option></option>").val(this['BranchId']).html(this['OfficeName']));
+                            });
+                        }
+                    });
+                });
+
+
+            }
+
+
+        });
+
+
+
+
+    });
+</script>
+<script type="text/javascript">
+    $(function () {
+        $(".apply_now,.accordion_apply_now").click(function () {
+
+            try {
+                var my_id_value = $(this).data('id');
+                var my_id_value2 = $(this).data('catid');
+                var my_id_value3 = $(this).data('name');
+                var my_id_value4 = $(this).data('src');
+
+
+
+                //alert(my_id_value);
+
+                //alert(my_id_value2);
+                // alert(my_id_value4);
+                $("[id*=lblLoanName]").text('');
+                $("[id*=hidden1]").val("");
+                $("[id*=hidden2]").val("");
+                // alert(formBO.PageKeywords);
+                $("[id*=txtName]").val("");
+                $("[id*=txtEmail]").val("");
+                $("[id*=txtAddress]").val("");
+                $("[id*=txtPincode]").val("");
+                $("[id*=txtMobile]").val("");
+
+                $("[id*=hiddenValue]").val(my_id_value);
+                $("[id*=hidden1]").val(my_id_value2);
+                $("[id*=hidden2]").val(my_id_value3);
+                $("[id*=hidden3]").val(my_id_value4);
+
+                //$(".modal-body #hiddenValue").val(my_id_value);
+                //$(".modal-body #hidden1").val(my_id_value2);
+                //$(".modal-body #hidden2").val(my_id_value3);
+
+                //$("[id*=lblLoanName]").val(my_id_value);
+                $("[id*=lblLoanName]").append(my_id_value3);
+
+
+                var ddlstate = document.getElementById("ddlStateMain");
+                ddlstate.selectedIndex = 0;
+                var ddlcity = document.getElementById("ddlCityMain");
+                ddlcity.selectedIndex = 0;
+                var ddlBranch = document.getElementById("ddlBranchMain");
+                ddlBranch.selectedIndex = 0;
+            }
+            catch (err) {
+                var newLine = "\r\n";
+                alert("An error occiured while opening the form.. Below is the error details" + newLine + err.message);
+            }
+
+        })
+    });
+
+
+    $('.modal').on('hidden.bs.modal', function () {
+
+    });
+
+</script>
+<script type="text/javascript">
+
+    $(function () {
+        $("[id*=btnSubmitForm]").bind("click", function () {
+
+
+           
+            var formBO = {};
+            formBO.PageKeywords = $("[id*=hiddenValue]").val();
+
+            formBO.catId = $("[id*=hidden1]").val();
+            formBO.catName = $("[id*=hidden2]").val();
+            formBO.srcCatId = $("[id*=hidden3]").val();
+            // alert(formBO.PageKeywords);
+            formBO.name = $("[id*=txtName]").val();
+            formBO.email = $("[id*=txtEmail]").val();
+            formBO.address = $("[id*=txtAddress]").val();
+            formBO.pincode = $("[id*=txtPincode]").val();
+            formBO.mobile = $("[id*=txtMobile]").val();
+            formBO.stateId = $('#ddlStateMain option:selected').val();
+            formBO.cityId = $('#ddlCityMain option:selected').val();
+            formBO.branchId = $('#ddlBranchMain option:selected').val();
+            // alert(formBO.mobile);
+
+            //Validate fields
+            if (IsValidname(formBO.name) == true) {
+                if (IsValidmobile(formBO.mobile) == true) {
+                    if (IsValidEmail(formBO.email) == true) {
+
+                        //Save Details in Database 
+                        if ($("[id*=txtName]").val() != "") {
+                            if ($("[id*=txtMobile]").val() != "") {
+                                if ($("[id*=ddlBranchMain]").val() != "-1") {
+
+                                    $.ajax({
+                                        type: "POST",
+                                        url: "index.aspx/AddLeads",
+                                        data: '{objBO: ' + JSON.stringify(formBO) + '}',
+                                        contentType: "application/json; charset=utf-8",
+                                        dataType: "json",
+                                        success: function (response) {
+                                            alert("Thank you. Our representative will get in touch with you shortly.");
+                                            window.location.reload();
+
+                                        }
+                                    });
+                                }
+                                else {
+                                    alert("Please Enter Name states,city and branch.");
+                                    return false;
+                                }
+                            }
+
+                        }
+                        else {
+                            alert("Please Enter Name & Other Details.");
+                            return false;
+                        } //Save Details in Database 
+
+
+                    }
+                    else {
+                        alert("Invalid Email Address.");
+                        return false;
+                    }
+                }
+
+                else {
+                    alert("Please enter the valid mobile no");
+                    return false;
+                }
+            }
+
+            else {
+                alert("Please enter a valid name");
+                return false;
+            }
+            return false;
+
+        });
+
+        function IsValidEmail(email) {
+            var expr = /^([\w-\.]+)@((\[[0-9]{1,3}\.[0-9]{1,3}\.[0-9]{1,3}\.)|(([\w-]+\.)+))([a-zA-Z]{2,4}|[0-9]{1,3})(\]?)$/;
+            return expr.test(email);
+        };
+
+        function IsValidmobile(mobile) {
+            var expr = /^[\s\S]{10,}$/;
+            return expr.test(mobile);
+        };
+        function IsValidname(mobile) {
+            var expr = /^[a-zA-Z'.\s]{1,50}/;
+            return expr.test(mobile);
+        };
+        function ValidateEmail() {
+
+            // if (!IsValidEmail(email)) {
+            //     return false;
+
+            //  }
+            //  else {
+            return true;
+            //  }
+        }
+
+
+    });
+
+    //function to send data to web service
+    $(function sendData2Service(keyword, CustName, Mobile, Email, Branch) {
+
+        //$.ajax({
+        //    type: "POST",
+
+        //    data: '{Keyword:' + keyword + ',CustName:' + CustName + ',Mobile:' + Mobile + ',Email:' + Email + ',Branch:' + Branch + '}',
+        //    contentType: "application/json; charset=utf-8",
+        //    dataType: "json",
+        //    error: function (response) {
+        //        alert(response.d);
+        //    },
+        //    success: function (response) {
+
+        //        alert('Data has been  posted.');
+        //    }
+        //});
+    });
+
+
+
+
+
+</script>
+ <script src="https://www.google.com/recaptcha/api.js"></script>
+<script type="text/javascript">
+    var onloadCallback = function () {
+        grecaptcha.render('dvCaptcha', {
+            'sitekey': '6LeRzmEUAAAAAEGBm15JuMzdxGwpo6qvtfJ1Vvka',
+            'callback': function (response) {
+                $.ajax({
+                    type: "POST",
+                    url: "Web.master/VerifyCaptcha",
+                    data: "{response: '" + response + "'}",
+                    contentType: "application/json; charset=utf-8",
+                    dataType: "json",
+                    success: function (r) {
+                        var captchaResponse = jQuery.parseJSON(r.d);
+                        if (captchaResponse.success) {
+                            $("[id*=txtCaptcha]").val(captchaResponse.success);
+                            $("[id*=rfvCaptcha]").hide();
+                        } else {
+                            $("[id*=txtCaptcha]").val("");
+                            $("[id*=rfvCaptcha]").show();
+                            var error = captchaResponse["error-codes"][0];
+                            $("[id*=rfvCaptcha]").html("RECaptcha error. " + error);
+                        }
+                    }
+                });
+            }
+        });
+    };
+    </script>
+<script type="text/javascript" src="jquery.js"></script><link rel="stylesheet" type="text/css" href="https://fonts.googleapis.com/css?family=Armata"><style type="text/css">#html5-text {color:#333; font-size:16px; font-family:Armata,sans-serif,Arial; overflow:hidden; white-space:nowrap; display:none;}.html5-error {text-align:center; color:#ff0000; font-size:14px; font-family:Arial, sans-serif; display:none;}</style></head><body>
+    <form method="post" action="./content.aspx?id=Privacy-Policy" onsubmit="javascript:return WebForm_OnSubmit();" onkeypress="javascript:return WebForm_FireDefaultButton(event, 'MainContent_lnkSearch')" id="Form1">
+<div class="aspNetHidden">
+<input type="hidden" name="_CSRFTOKEN" id="_CSRFTOKEN" value="/wEFJGEwNjA2MDczLTdjZmQtNGE2Yi1hZjdlLWY4M2RkMmMwMTZhYw==">
+<input type="hidden" name="__EVENTTARGET" id="__EVENTTARGET" value="">
+<input type="hidden" name="__EVENTARGUMENT" id="__EVENTARGUMENT" value="">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUKMjA1NDAxMjE1OA9kFgJmD2QWAmYPZBYEZg9kFhACBw8WAh4HY29udGVudAUXUHJpdmFjeSBhbmQgRGlzY2xvc3VyZXNkAggPFgIfAGRkAgkPFgIfAGRkAgoPFgIfAGRkAgsPFgIfAGRkAgwPFgIfAAUHRW5nbGlzaGQCDQ8WAh8AZGQCGQ8WAh4EVGV4dAU7PGxpbmsgcmVsPSJjYW5vbmljYWwiIGhyZWY9J2NvbnRlbnQuYXNweD9pZD1Qcml2YWN5LVBvbGljeSdkAgEPZBYkAgEPFgIfAQX2ASA8dWwgY2xhc3M9ImRyb3Bkb3duLW1lbnUiPg0KPGxpPjxhIGhyZWY9aHR0cHM6Ly9vbmVwYWdlLnNhcmFzd2F0YmFuay5jby5pbi9uZXRiYW5raW5nL2xvZ2luPlBlcnNvbmFsIEludGVybmV0IEJhbmtpbmc8L2E+DQo8L2xpPg0KPGxpPjxhIGhyZWY9aHR0cHM6Ly9jb3JwLnNhcmFzd2F0YmFuay5jby5pbi9Db3Jwb3JhdGVCYW5raW5nL21haW4uZG8+Q29ycG9yYXRlIEludGVybmV0IEJhbmtpbmc8L2E+DQo8L2xpPg0KPC91bD4NCmQCAw8WAh4EaHJlZgUOdGVsOjE4MDAyMjk5OTlkAgUPFgIfAgUOdGVsOjE4MDAyMjk5OTkWBAIBDxYCHwEFClRvbGwgRnJlZTpkAgMPFgIfAQUKMTgwMDIyOTk5OWQCBw8WAh4LXyFJdGVtQ291bnQCBRYKZg9kFgJmDxUEK2h0dHBzOi8vd3d3LmZhY2Vib29rLmNvbS9TYXJhc3dhdEJhbmtJbmRpYS8UL2ltYWdlcy9zb2NpYWxfMS5wbmcIRmFjZWJvb2sAZAIBD2QWAmYPFQQgaHR0cHM6Ly90d2l0dGVyLmNvbS9zYXJhc3dhdGJhbmsUL2ltYWdlcy9zb2NpYWxfMi5wbmcHVHdpdHRlcgBkAgIPZBYCZg8VBC1odHRwczovL3BsdXMuZ29vZ2xlLmNvbS8xMDQ2MzM5OTk0NzE0MzQ5NjQ2MDUUL2ltYWdlcy9zb2NpYWxfMy5wbmcLR29vZ2xlIFBsdXMAZAIDD2QWAmYPFQQvaHR0cHM6Ly93d3cuaW5zdGFncmFtLmNvbS9zYXJhc3dhdGJhbmtvZmZpY2lhbC8cL2ltYWdlcy9pbnN0YWdyYW0taGVhZGVyLnBuZwlJbnN0YWdyYW0AZAIED2QWAmYPFQQsaHR0cHM6Ly93d3cueW91dHViZS5jb20vU2FyYXN3YXRCYW5rT2ZmaWNpYWwUL2ltYWdlcy9zb2NpYWxfNi5wbmcHWW91dHViZQBkAgkPEA8WBh4NRGF0YVRleHRGaWVsZAUHY2F0RGVzYx4ORGF0YVZhbHVlRmllbGQFDGNhdGVnb3J5X3VybB4LXyFEYXRhQm91bmRnZBAVAxdTZWxlY3QgSW50ZXJuZXQgQmFua2luZxlQZXJzb25hbCBJbnRlcm5ldCBCYW5raW5nGkNvcnBvcmF0ZSBJbnRlcm5ldCBCYW5raW5nFQMXU2VsZWN0IEludGVybmV0IEJhbmtpbmczaHR0cHM6Ly9vbmVwYWdlLnNhcmFzd2F0YmFuay5jby5pbi9uZXRiYW5raW5nL2xvZ2luOGh0dHBzOi8vY29ycC5zYXJhc3dhdGJhbmsuY28uaW4vQ29ycG9yYXRlQmFua2luZy9tYWluLmRvFCsDA2dnZ2RkAgsPDxYCHwEFBUxvZ2luZGQCDQ8WAh8CBQppbmRleC5hc3B4FgICAQ8WAh4Dc3JjBQ9pbWFnZXMvbG9nby5wbmdkAg8PDxYCHwEFwzAgPG5hdiBjbGFzcz0id3NtZW51IGNsZWFyZml4Ij4gPHVsIGNsYXNzPSJtb2JpbGUtc3ViIHdzbWVudS1saXN0Ij4NCg0KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8bGkgY2xhc3M9InJpZ2h0bWVudSI+DQogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8ZGl2IGNsYXNzPSJ0b3BtZW51c2VhcmNoIj4NCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8aW5wdXQgcGxhY2Vob2xkZXI9IkZpbmQgYSBCcmFuY2ggT3IgQVRNIi8+DQogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPGJ1dHRvbiBjbGFzcz0iYnRuc3R5bGUiPg0KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8aSBjbGFzcz0ic2VhcmNoaWNvbiBmYSBmYS1zZWFyY2giIGFyaWEtaGlkZGVuPSJ0cnVlIj48L2k+PC9idXR0b24+DQogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8L2Rpdj4NCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPC9saT4NCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgDQo8bGk+PGEgaHJlZj1uYXZpZ2F0aW9uLmFzcHg/aWQ9UGVyc29uYWw+UGVyc29uYWw8aSBjbGFzcz0iZmEgZmEtYW5nbGUtZG93biIgYXJpYS1oaWRkZW49InRydWUiPjwvaT48L2E+DQo8dWwgY2xhc3M9IndzbWVudS1zdWJtZW51Ij4NCjxsaT48YSBocmVmPW5hdmlnYXRpb24uYXNweD9pZD1TYXZpbmdzPjxpIGNsYXNzPSJmYSBmYS1hbmdsZS1yaWdodCI+PC9pPlNhdmluZ3M8L2E+PC9saT4NCjxsaT48YSBocmVmPW5hdmlnYXRpb24uYXNweD9pZD1UZXJtLURlcG9zaXQ+PGkgY2xhc3M9ImZhIGZhLWFuZ2xlLXJpZ2h0Ij48L2k+VGVybSBEZXBvc2l0PC9hPjwvbGk+DQo8bGk+PGEgaHJlZj1uYXZpZ2F0aW9uLmFzcHg/aWQ9UmV0YWlsLUxvYW5zPjxpIGNsYXNzPSJmYSBmYS1hbmdsZS1yaWdodCI+PC9pPlJldGFpbCBMb2FuczwvYT48L2xpPg0KPGxpPjxhIGhyZWY9bmF2aWdhdGlvbi5hc3B4P2lkPUluc3VyYW5jZT48aSBjbGFzcz0iZmEgZmEtYW5nbGUtcmlnaHQiPjwvaT5JbnN1cmFuY2U8L2E+PC9saT4NCjxsaT48YSBocmVmPW5hdmlnYXRpb25fc3AuYXNweD9pZD1EZW1hdD48aSBjbGFzcz0iZmEgZmEtYW5nbGUtcmlnaHQiPjwvaT5EZW1hdDwvYT48L2xpPg0KPGxpPjxhIGhyZWY9bXV0dWFsLWZ1bmRzLmFzcHg/aWQ9TXV0dWFsLUZ1bmRzPjxpIGNsYXNzPSJmYSBmYS1hbmdsZS1yaWdodCI+PC9pPk11dHVhbCBGdW5kczwvYT48L2xpPg0KPGxpPjxhIGhyZWY9Y29udGVudC5hc3B4P2lkPVJlbWl0dGFuY2UtU2VydmljZXM+PGkgY2xhc3M9ImZhIGZhLWFuZ2xlLXJpZ2h0Ij48L2k+UmVtaXR0YW5jZSBTZXJ2aWNlczwvYT48L2xpPg0KPC91bD4NCjwvbGk+DQo8bGk+PGEgaHJlZj1uYXZpZ2F0aW9uLmFzcHg/aWQ9QnVzaW5lc3MtQmFua2luZz5CdXNpbmVzcyBCYW5raW5nPGkgY2xhc3M9ImZhIGZhLWFuZ2xlLWRvd24iIGFyaWEtaGlkZGVuPSJ0cnVlIj48L2k+PC9hPg0KPHVsIGNsYXNzPSJ3c21lbnUtc3VibWVudSI+DQo8bGk+PGEgaHJlZj1wcm9kdWN0LWxpc3RpbmcuYXNweD9pZD1DdXJyZW50LUFjY291bnRzPjxpIGNsYXNzPSJmYSBmYS1hbmdsZS1yaWdodCI+PC9pPkN1cnJlbnQgQWNjb3VudHM8L2E+PC9saT4NCjxsaT48YSBocmVmPW5hdmlnYXRpb24uYXNweD9pZD1CdXNpbmVzcy1Mb2Fucz48aSBjbGFzcz0iZmEgZmEtYW5nbGUtcmlnaHQiPjwvaT5CdXNpbmVzcyBMb2FuczwvYT48L2xpPg0KPGxpPjxhIGhyZWY9Y29udGVudC5hc3B4P2lkPUNvcnBvcmF0ZS1TZXJ2aWNlcz48aSBjbGFzcz0iZmEgZmEtYW5nbGUtcmlnaHQiPjwvaT5Db3Jwb3JhdGUgU2VydmljZXM8L2E+PC9saT4NCjxsaT48YSBocmVmPW5hdmlnYXRpb24uYXNweD9pZD1UcmFkZS1GaW5hbmNlPjxpIGNsYXNzPSJmYSBmYS1hbmdsZS1yaWdodCI+PC9pPlRyYWRlIEZpbmFuY2U8L2E+PC9saT4NCjxsaT48YSBocmVmPW5hdmlnYXRpb24uYXNweD9pZD1QcmFkaGFuLU1hbnRyaS1NVURSQS1Zb2phbmEtKFBNTVkpPjxpIGNsYXNzPSJmYSBmYS1hbmdsZS1yaWdodCI+PC9pPlByYWRoYW4gTWFudHJpIE1VRFJBIFlvamFuYSAoUE1NWSk8L2E+PC9saT4NCjwvdWw+DQo8L2xpPg0KPGxpPjxhIGhyZWY9bmF2aWdhdGlvbi5hc3B4P2lkPU5SSS1CYW5raW5nPk5SSSBCYW5raW5nPGkgY2xhc3M9ImZhIGZhLWFuZ2xlLWRvd24iIGFyaWEtaGlkZGVuPSJ0cnVlIj48L2k+PC9hPg0KPHVsIGNsYXNzPSJ3c21lbnUtc3VibWVudSI+DQo8bGk+PGEgaHJlZj1jb250ZW50LmFzcHg/aWQ9TlJJLURlcG9zaXQ+PGkgY2xhc3M9ImZhIGZhLWFuZ2xlLXJpZ2h0Ij48L2k+TlJJIERlcG9zaXQ8L2E+PC9saT4NCjxsaT48YSBocmVmPW5hdmlnYXRpb24uYXNweD9pZD1OUkktTG9hbnM+PGkgY2xhc3M9ImZhIGZhLWFuZ2xlLXJpZ2h0Ij48L2k+TlJJIExvYW5zPC9hPjwvbGk+DQo8bGk+PGEgaHJlZj1jb250ZW50LmFzcHg/aWQ9T3ZlcnNlYXMtKE5vc3RybyktQWNjb3VudD48aSBjbGFzcz0iZmEgZmEtYW5nbGUtcmlnaHQiPjwvaT5PdmVyc2VhcyAoTm9zdHJvKSBBY2NvdW50PC9hPjwvbGk+DQo8bGk+PGEgaHJlZj1jb250ZW50LmFzcHg/aWQ9Rm9yZXgtQ2VudHJlcz48aSBjbGFzcz0iZmEgZmEtYW5nbGUtcmlnaHQiPjwvaT5Gb3JleCBDZW50cmVzPC9hPjwvbGk+DQo8bGk+PGEgaHJlZj1jb250ZW50LmFzcHg/aWQ9TlJJLUJhbmtpbmctRkFRcy1MaW5raW5nPjxpIGNsYXNzPSJmYSBmYS1hbmdsZS1yaWdodCI+PC9pPk5SSSBCYW5raW5nIEZBUXM8L2E+PC9saT4NCjwvdWw+DQo8L2xpPg0KPGxpPjxhIGhyZWY9bmF2aWdhdGlvbi5hc3B4P2lkPUNhcmRzPkNhcmRzPGkgY2xhc3M9ImZhIGZhLWFuZ2xlLWRvd24iIGFyaWEtaGlkZGVuPSJ0cnVlIj48L2k+PC9hPg0KPHVsIGNsYXNzPSJ3c21lbnUtc3VibWVudSI+DQo8bGk+PGEgaHJlZj1uYXZpZ2F0aW9uLmFzcHg/aWQ9RGViaXQtQ2FyZD48aSBjbGFzcz0iZmEgZmEtYW5nbGUtcmlnaHQiPjwvaT5EZWJpdCBDYXJkPC9hPjwvbGk+DQo8bGk+PGEgaHJlZj1jb250ZW50LmFzcHg/aWQ9Q3JlZGl0LUNhcmRzPjxpIGNsYXNzPSJmYSBmYS1hbmdsZS1yaWdodCI+PC9pPkNyZWRpdCBDYXJkczwvYT48L2xpPg0KPGxpPjxhIGhyZWY9Y29udGVudC5hc3B4P2lkPUdpZnQtQ2FyZD48aSBjbGFzcz0iZmEgZmEtYW5nbGUtcmlnaHQiPjwvaT5HaWZ0IENhcmQ8L2E+PC9saT4NCjxsaT48YSBocmVmPWNvbnRlbnQuYXNweD9pZD1UcmF2ZWwtQ3VycmVuY3ktQ2FyZHM+PGkgY2xhc3M9ImZhIGZhLWFuZ2xlLXJpZ2h0Ij48L2k+VHJhdmVsIEN1cnJlbmN5IENhcmRzPC9hPjwvbGk+DQo8L3VsPg0KPC9saT4NCjxsaT48YSBocmVmPW5hdmlnYXRpb24uYXNweD9pZD1EaWdpdGFsLUJhbmtpbmc+RGlnaXRhbCBCYW5raW5nPGkgY2xhc3M9ImZhIGZhLWFuZ2xlLWRvd24iIGFyaWEtaGlkZGVuPSJ0cnVlIj48L2k+PC9hPg0KPHVsIGNsYXNzPSJ3c21lbnUtc3VibWVudSI+DQo8bGk+PGEgaHJlZj1jb250ZW50LmFzcHg/aWQ9SW50ZXJuZXQtQmFua2luZz48aSBjbGFzcz0iZmEgZmEtYW5nbGUtcmlnaHQiPjwvaT5JbnRlcm5ldCBCYW5raW5nPC9hPjwvbGk+DQo8bGk+PGEgaHJlZj1jb250ZW50LmFzcHg/aWQ9Q29ycG9yYXRlLUludGVybmV0LUJhbmtpbmc+PGkgY2xhc3M9ImZhIGZhLWFuZ2xlLXJpZ2h0Ij48L2k+Q29ycG9yYXRlIEludGVybmV0IEJhbmtpbmc8L2E+PC9saT4NCjxsaT48YSBocmVmPWNvbnRlbnQuYXNweD9pZD1Hb01vLU1vYmlsZS1CYW5raW5nPjxpIGNsYXNzPSJmYSBmYS1hbmdsZS1yaWdodCI+PC9pPkdvTW8gLSBNb2JpbGUgQmFua2luZzwvYT48L2xpPg0KPGxpPjxhIGhyZWY9Y29udGVudC5hc3B4P2lkPVNhcmFzd2F0LVVQSS1vbi1CSElNPjxpIGNsYXNzPSJmYSBmYS1hbmdsZS1yaWdodCI+PC9pPlNhcmFzd2F0IFVQSSBvbiBCSElNPC9hPjwvbGk+DQo8bGk+PGEgaHJlZj1jb250ZW50LmFzcHg/aWQ9bVBhc3Nib29rPjxpIGNsYXNzPSJmYSBmYS1hbmdsZS1yaWdodCI+PC9pPm1QYXNzYm9vazwvYT48L2xpPg0KPGxpPjxhIGhyZWY9Y29udGVudC5hc3B4P2lkPTI0LzctUGhvbmUtQmFua2luZy1TZXJ2aWNlPjxpIGNsYXNzPSJmYSBmYS1hbmdsZS1yaWdodCI+PC9pPjI0LzcgUGhvbmUgQmFua2luZyBTZXJ2aWNlPC9hPjwvbGk+DQo8bGk+PGEgaHJlZj1jb250ZW50LmFzcHg/aWQ9TWlzc2VkLUNhbGwtU2VydmljZT48aSBjbGFzcz0iZmEgZmEtYW5nbGUtcmlnaHQiPjwvaT5NaXNzZWQgQ2FsbCBTZXJ2aWNlPC9hPjwvbGk+DQo8bGk+PGEgaHJlZj1jb250ZW50LmFzcHg/aWQ9U01TLUJhbmtpbmc+PGkgY2xhc3M9ImZhIGZhLWFuZ2xlLXJpZ2h0Ij48L2k+U01TIEJhbmtpbmc8L2E+PC9saT4NCjxsaT48YSBocmVmPWNvbnRlbnQuYXNweD9pZD1TYXJhc3dhdC1CYW5rLUNvbm5lY3Q+PGkgY2xhc3M9ImZhIGZhLWFuZ2xlLXJpZ2h0Ij48L2k+U2FyYXN3YXQgQmFuayBDb25uZWN0PC9hPjwvbGk+DQo8bGk+PGEgaHJlZj1odHRwczovL3BnaS5iaWxsZGVzay5jb20vcGdpZHNrL3BnbWVyYy9pbnN0cHkvU1dCSW5kZXguanNwPjxpIGNsYXNzPSJmYSBmYS1hbmdsZS1yaWdodCI+PC9pPkluc3RhUGF5PC9hPjwvbGk+DQo8bGk+PGEgaHJlZj1jb250ZW50LmFzcHg/aWQ9TmF0aW9uYWwtRWxlY3Ryb25pYy1Ub2xsLUNvbGxlY3Rpb24tTkVUQz48aSBjbGFzcz0iZmEgZmEtYW5nbGUtcmlnaHQiPjwvaT5OYXRpb25hbCBFbGVjdHJvbmljIFRvbGwgQ29sbGVjdGlvbi1ORVRDPC9hPjwvbGk+DQo8bGk+PGEgaHJlZj1jb250ZW50LmFzcHg/aWQ9U2FyYXN3YXQtQmFuay1vbi1XaGF0c0FwcD48aSBjbGFzcz0iZmEgZmEtYW5nbGUtcmlnaHQiPjwvaT5TYXJhc3dhdCBCYW5rIG9uIFdoYXRzQXBwPC9hPjwvbGk+DQo8bGk+PGEgaHJlZj1jb250ZW50LmFzcHg/aWQ9QmhhcmF0LUJpbGxQYXk+PGkgY2xhc3M9ImZhIGZhLWFuZ2xlLXJpZ2h0Ij48L2k+QmhhcmF0IEJpbGxQYXk8L2E+PC9saT4NCjwvdWw+DQo8L2xpPg0KPGxpPjxhIGhyZWY9bmF2aWdhdGlvbi5hc3B4P2lkPU9mZmVycz5PZmZlcnM8aSBjbGFzcz0iZmEgZmEtYW5nbGUtZG93biIgYXJpYS1oaWRkZW49InRydWUiPjwvaT48L2E+DQo8dWwgY2xhc3M9IndzbWVudS1zdWJtZW51Ij4NCjxsaT48YSBocmVmPWNvbnRlbnQuYXNweD9pZD1TYXJhc3dhdC1CYW5rLVJld2FyZHo+PGkgY2xhc3M9ImZhIGZhLWFuZ2xlLXJpZ2h0Ij48L2k+U2FyYXN3YXQgQmFuayBSZXdhcmR6PC9hPjwvbGk+DQo8bGk+PGEgaHJlZj1jb250ZW50LmFzcHg/aWQ9WW9sb2thbD48aSBjbGFzcz0iZmEgZmEtYW5nbGUtcmlnaHQiPjwvaT5Zb2xva2FsPC9hPjwvbGk+DQo8bGk+PGEgaHJlZj1odHRwOi8va2lsbGVyamVhbnMuY29tL3NhcmFzd2F0YmFuay8+PGkgY2xhc3M9ImZhIGZhLWFuZ2xlLXJpZ2h0Ij48L2k+S2lsbGVyIE1lcmNoYW5kaXNlPC9hPjwvbGk+DQo8bGk+PGEgaHJlZj1jb250ZW50LmFzcHg/aWQ9Q2luZXBvbGlzQmhpbVVwaU9mZmVycz48aSBjbGFzcz0iZmEgZmEtYW5nbGUtcmlnaHQiPjwvaT5DaW5lcG9saXMgQkhJTSBVUEkgT2ZmZXI8L2E+PC9saT4NCjxsaT48YSBocmVmPWNvbnRlbnQuYXNweD9pZD1Cb29rTXlTaG93b25SdVBheT48aSBjbGFzcz0iZmEgZmEtYW5nbGUtcmlnaHQiPjwvaT5Cb29rIE15IFNob3cgb24gUnVQYXk8L2E+PC9saT4NCjxsaT48YSBocmVmPWNvbnRlbnQuYXNweD9pZD1PbmxpbmVvZmZlcnNvblJ1UGF5PjxpIGNsYXNzPSJmYSBmYS1hbmdsZS1yaWdodCI+PC9pPk9ubGluZSBvZmZlcnMgb24gUnVQYXk8L2E+PC9saT4NCjxsaT48YSBocmVmPWNvbnRlbnQuYXNweD9pZD1JT0NMXy1DYXNoYmFja29mZmVyb25SdVBheWFuZEJISU1VUEk+PGkgY2xhc3M9ImZhIGZhLWFuZ2xlLXJpZ2h0Ij48L2k+SU9DTCBDYXNoYmFjayBvZmZlciBvbiBSdVBheSBhbmQgQkhJTSBVUEk8L2E+PC9saT4NCjxsaT48YSBocmVmPWNvbnRlbnQuYXNweD9pZD1Xb21lbnMtRGF5LURpc2NvdW50LUNhcm5pdmFsPjxpIGNsYXNzPSJmYSBmYS1hbmdsZS1yaWdodCI+PC9pPldvbWVuJ3MgRGF5IERpc2NvdW50IENhcm5pdmFsPC9hPjwvbGk+DQo8L3VsPg0KPC9saT4NCjxsaT4gPGEgaHJlZj0naHR0cHM6Ly93d3cuc2FyYXN3YXRiYW5rLmNvbS9jYXJlZXJfd29ya3dpdGh1cy5hc3B4P2lkPVdvcmstV2l0aC1Vcyc+Q2FyZWVyczwvYT48L2xpPjwvdWw+IDwvbmF2Pg0KZGQCEQ9kFgwCAw9kFgYCAQ8PFgIeCEltYWdlVXJsBRovaW1hZ2VzL2RlZmF1bHQtYmFubmVyLnBuZ2RkAgMPDxYEHwgFHS9pbWFnZXMvZGVmYXVsdC1UaHVtYm5haWwucG5nHg1BbHRlcm5hdGVUZXh0BQ5Qcml2YWN5LVBvbGljeWRkAgUPFgIeB1Zpc2libGVoZAIHDxYCHwMCARYCZg9kFgICAQ8WAh4FY2xhc3MFBmFjdGl2ZRYCZg8VAh5jb250ZW50LmFzcHg/aWQ9UHJpdmFjeS1Qb2xpY3kOUHJpdmFjeSBQb2xpY3lkAgkPZBYIAgEPFgIfAQUOUHJpdmFjeSBQb2xpY3lkAgMPFgIfAQXsKUluIHRoZSBjb3Vyc2Ugb2YgdXNpbmcgU2FyYXN3YXQgQmFuayB3ZWJzaXRlIG9yIG1vYmlsZSBhcHBsaWNhdGlvbiBhdmFpbGluZyB0aGUgcHJvZHVjdHMgYW5kIHNlcnZpY2VzIHZpZGUgdGhlIG9ubGluZSBhcHBsaWNhdGlvbiBmb3JtcyBhbmQgcXVlc3Rpb25uYWlyZXMsIHNhcmFzd2F0IEJhbmsgYW5kIGl0cyBhZmZpbGlhdGVzIG1heSBiZWNvbWUgcHJpdnkgdG8gdGhlIHBlcnNvbmFsIGluZm9ybWF0aW9uIG9mIGl0cyB1c2VycywgaW5jbHVkaW5nIGluZm9ybWF0aW9uIHRoYXQgaXMgb2YgYSBjb25maWRlbnRpYWwgbmF0dXJlLjxiciAvPg0KPGJyIC8+DQpTQVJBU1dBVCBCYW5rIGlzIHN0cm9uZ2x5IGNvbW1pdHRlZCB0byBwcm90ZWN0aW5nIHRoZSBwcml2YWN5IG9mIGl0cyB1c2VycyBhbmQgaGFzdGFrZW4gYWxsIG5lY2Vzc2FyeSBhbmQgcmVhc29uYWJsZSBtZWFzdXJlcyB0byBwcm90ZWN0IHRoZSBjb25maWRlbnRpYWxpdHkgb2YgdGhlIHVzZXJpbmZvcm1hdGlvbiBhbmQgaXRzIHRyYW5zbWlzc2lvbiB0aHJvdWdoIHRoZSB3b3JsZCB3aWRlIHdlYiBhbmQgaXQgc2hhbGwgbm90IGJlIGhlbGRsaWFibGUgZm9yIGRpc2Nsb3N1cmUgb2YgdGhlIGNvbmZpZGVudGlhbCBpbmZvcm1hdGlvbiB3aGVuIGluIGFjY29yZGFuY2Ugd2l0aCB0aGlzUHJpdmFjeSBDb21taXRtZW50IG9yIGluIHRlcm1zIG9mIHRoZSBhZ3JlZW1lbnRzLCBpZiBhbnksIHdpdGggdGhlIHVzZXJzLjxiciAvPg0KPGJyIC8+DQpTQVJBU1dBVCBCYW5rIGVuZGVhdm91cnMgdG8gc2FmZWd1YXJkIGFuZCBlbnN1cmUgdGhlIHNlY3VyaXR5IG9mIHRoZSBpbmZvcm1hdGlvbnByb3ZpZGVkIGJ5IHRoZSB1c2VyLiBUaGUgdXNlciB3b3VsZCBiZSByZXF1aXJlZCB0byBjb29wZXJhdGUgd2l0aCBTQVJBU1dBVCBCYW5raW4gb3JkZXIgdG8gZW5zdXJlIHRoZSBzZWN1cml0eSBvZiB0aGUgaW5mb3JtYXRpb24sIGFuZCBpdCBpcyByZWNvbW1lbmRlZCB0aGF0IHRoZSB1c2Vyc25lY2Vzc2FyaWx5IGNob29zZSB0aGVpciBwYXNzd29yZHMgY2FyZWZ1bGx5IHN1Y2ggdGhhdCBubyB1bmF1dGhvcmlzZWQgYWNjZXNzIGlzbWFkZSBieSBhIHRoaXJkIHBhcnR5LiBUaGUgdXNlcnMgc2hvdWxkIHVuZGVydGFrZSBub3QgdG8gZGlzY2xvc2UgdGhlaXIgcGFzc3dvcmQgdG9hbnlvbmUgb3Iga2VlcCBhbnkgd3JpdHRlbiBvciBvdGhlciByZWNvcmQgb2YgdGhlIHBhc3N3b3JkIHN1Y2ggdGhhdCBhIHRoaXJkIHBhcnR5Y291bGQgYWNjZXNzIGl0LiBTQVJBU1dBVCBCYW5rIHVuZGVydGFrZXMgbm90IHRvIGRpc2Nsb3NlIHRoZSBpbmZvcm1hdGlvbiBwcm92aWRlZGJ5IHRoZSB1c2VycyB0byBhbnkgcGVyc29uLCB1bmxlc3Mgc3VjaCBhY3Rpb24gaXMgbmVjZXNzYXJ5IHRvOg0KPG9sPg0KCTxsaT4NCgkJQ29uZm9ybSB0byBsZWdhbCByZXF1aXJlbWVudHMgb3IgY29tcGx5IHdpdGggbGVnYWwgcHJvY2Vzczs8L2xpPg0KCTxsaT4NCgkJUHJvdGVjdCBhbmQgZGVmZW5kIFNBUkFTV0FUIEJhbmsmIzM5O3Mgb3IgaXRzIEFmZmlsaWF0ZXMmIzM5OyByaWdodHMsIGludGVyZXN0cyBvciBwcm9wZXJ0eTs8L2xpPg0KCTxsaT4NCgkJRW5mb3JjZSB0aGUgdGVybXMgYW5kIGNvbmRpdGlvbnMgb2YgdGhlIHByb2R1Y3RzIG9yIHNlcnZpY2VzOyBvcjwvbGk+DQoJPGxpPg0KCQlBY3QgdG8gcHJvdGVjdCB0aGUgaW50ZXJlc3RzIG9mIFNBUkFTV0FUIEJhbmssIGl0cyBBZmZpbGlhdGVzLCBvciBpdHMgbWVtYmVycywgY29uc3RpdHVlbnRzIG9yIG9mIG90aGVyIHBlcnNvbnMuPC9saT4NCjwvb2w+DQo8YnIgLz4NClRoZSB1c2VycyBzaGFsbCBub3QgZGlzY2xvc2UgdG8gYW55IG90aGVyIHBlcnNvbiwgaW4gYW55IG1hbm5lciB3aGF0c29ldmVyLCBhbnlpbmZvcm1hdGlvbiByZWxhdGluZyB0byBTQVJBU1dBVCBCYW5rIG9yIGl0cyBBZmZpbGlhdGVzIG9mIGEgY29uZmlkZW50aWFsIG5hdHVyZW9idGFpbmVkIGluIHRoZSBjb3Vyc2Ugb2YgYXZhaWxpbmcgdGhlIHNlcnZpY2VzIHRocm91Z2ggdGhlIHdlYnNpdGUuIEZhaWx1cmUgdG8gY29tcGx5d2l0aCB0aGlzIG9ibGlnYXRpb24gc2hhbGwgYmUgZGVlbWVkIGEgc2VyaW91cyBicmVhY2ggb2YgdGhlIHRlcm1zIGhlcmVpbiBhbmQgc2hhbGxlbnRpdGxlIFNBUkFTV0FUIEJhbmsgb3IgaXRzIEFmZmlsaWF0ZXMgdG8gdGVybWluYXRlIHRoZSBzZXJ2aWNlcywgd2l0aG91dCBwcmVqdWRpY2UgdG9hbnkgZGFtYWdlcywgdG8gd2hpY2ggdGhlIHVzZXIgbWF5IGJlIGVudGl0bGVkIG90aGVyd2lzZS48YnIgLz4NCjxiciAvPg0KU0FSQVNXQVQgQmFuayB3aWxsIGxpbWl0IHRoZSBjb2xsZWN0aW9uIGFuZCB1c2Ugb2YgdXNlciBpbmZvcm1hdGlvbiBvbmx5IG9uIGEgbmVlZHRvLWtub3diYXNpcyB0byBkZWxpdmVyIGJldHRlciBzZXJ2aWNlIHRvIHRoZSB1c2Vycy4gU0FSQVNXQVQgQmFuayBtYXkgdXNlIGFuZHNoYXJlIHRoZSBpbmZvcm1hdGlvbiBwcm92aWRlZCBieSB0aGUgdXNlcnMgd2l0aCBpdHMgQWZmaWxpYXRlcyBhbmQgdGhpcmQgcGFydGllcyBmb3Jwcm92aWRpbmcgc2VydmljZXMgYW5kIGFueSBzZXJ2aWNlLXJlbGF0ZWQgYWN0aXZpdGllcyBzdWNoIGFzIGNvbGxlY3Rpbmcgc3Vic2NyaXB0aW9uZmVlcyBmb3Igc3VjaCBzZXJ2aWNlcywgYW5kIG5vdGlmeWluZyBvciBjb250YWN0aW5nIHRoZSB1c2VycyByZWdhcmRpbmcgYW55IHByb2JsZW13aXRoLCBvciB0aGUgZXhwaXJhdGlvbiBvZiwgc3VjaCBzZXJ2aWNlcy4gSW4gdGhpcyByZWdhcmQsIGl0IG1heSBiZSBuZWNlc3NhcnkgdG8gZGlzY2xvc2V0aGUgdXNlciBpbmZvcm1hdGlvbiB0byBvbmUgb3IgbW9yZSBhZ2VudHMgYW5kIGNvbnRyYWN0b3JzIG9mIFNBUkFTV0FUIEJhbmsgYW5kdGhlaXIgc3ViLWNvbnRyYWN0b3JzLCBidXQgc3VjaCBhZ2VudHMsIGNvbnRyYWN0b3JzLCBhbmQgc3ViLWNvbnRyYWN0b3JzIHdpbGwgYmVyZXF1aXJlZCB0byBhZ3JlZSB0byB1c2UgdGhlIGluZm9ybWF0aW9uIG9idGFpbmVkIGZyb20gU0FSQVNXQVQgQmFuayBvbmx5IGZvcnRoZXNlIHB1cnBvc2VzLjxiciAvPg0KPGJyIC8+DQpUaGUgdXNlciBhdXRob3Jpc2VzIFNBUkFTV0FUIEJhbmsgdG8gZXhjaGFuZ2UsIHNoYXJlLCBwYXJ0IHdpdGggYWxsIGluZm9ybWF0aW9ucmVsYXRlZCB0byB0aGUgZGV0YWlscyBhbmQgdHJhbnNhY3Rpb24gaGlzdG9yeSBvZiB0aGUgdXNlcnMgdG8gaXRzIEFmZmlsaWF0ZXMgLyBiYW5rcyAvZmluYW5jaWFsIGluc3RpdHV0aW9ucyAvIGNyZWRpdCBidXJlYXVzIC8gYWdlbmNpZXMvcGFydGljaXBhdGlvbiBpbiBhbnkgdGVsZWNvbW11bmljYXRpb25vciBlbGVjdHJvbmljIGNsZWFyaW5nIG5ldHdvcmsgYXMgbWF5IGJlIHJlcXVpcmVkIGJ5IGxhdywgY3VzdG9tYXJ5IHByYWN0aWNlLCBjcmVkaXQgcmVwb3J0aW5nLCBzdGF0aXN0aWNhbCBhbmFseXNpcyBhbmQgY3JlZGl0IHNjb3JpbmcsIHZlcmlmaWNhdGlvbiBvciByaXNrIG1hbmFnZW1lbnQgYW5kc2hhbGwgbm90IGhvbGQgU0FSQVNXQVQgQmFuayBsaWFibGUgZm9yIHVzZSBvciBkaXNjbG9zdXJlIG9mIHRoaXMgaW5mb3JtYXRpb24uPGJyIC8+DQo8YnIgLz4NCkFueSBpbmZvcm1hdGlvbiB0aGF0IGlzIGZyZWVseSBhdmFpbGFibGUgb3IgYWNjZXNzaWJsZSBpbiBwdWJsaWMgZG9tYWluIG9yIGZ1cm5pc2hlZCB1bmRlciB0aGUgcmlnaHQgdG8gSW5mb3JtYXRpb24gQWN0LDIwMDUgb3IgYW55IGxhdyBmb3IgdGhlIHRpbWUgYmVpbmcgaW4gZm9yY2Ugc2hhbGwgbm90IGJlIHJlZ2FyZGVkIGFzIGRhdGEgb3IgaW5mb3JtYXRpb24gZm9yIHRoZSBwdXJwb3NlIG9mIHRoaXMmbmJzcDsgYW5kIHRoZSBiYW5rIHNoYWxsIG5vdCBiZSByZXNwb25zaWJsZSBmb3IgdGhlIHNhbWUuIFRoZSBCYW5rIG1heSBmcm9tIHRpbWUgdG8gdGltZSBtYXkgY2hhbmdlIHRoaXMgcG9saWN5LjxiciAvPg0KPGJyIC8+DQpUaGUgcHJpdmFjeSBwcmFjdGljZXMgc2V0IGZvcnRoIGluIHRoaXMgcG9saWN5IGFyZSBmb3Igd3d3LnNhcmFzd2F0YmFuay5jb20gd2Vic2l0ZSBhbmQgbW9iaWxlIGFwcGxpY2F0aW9uIG9ubHkuIFNhcmFzd2F0IEJhbmsgd2Vic2l0ZSBtYXkgY29udGFpbiBsaW5rcyB0byBvdGhlciB3ZWJzaXRlcyBvZiBzaW1pbGFyIGludGVyZXN0LiBIb3dldmVyLCBvbmNlIHVzZXIgY2xpY2sgdGhlc2UgbGlua3MgYW5kIGxlYXZlIHRoZSBiYW5rJnJzcXVvO3Mgd2Vic2l0ZSwgdXNlciBzaG91bGQgbm90ZSB0aGF0IFNhcmFzd2F0IEJhbmsgZG9lcyBub3QgaGF2ZSBhbnkgY29udHJvbCBvdmVyIG90aGVyIHdlYnNpdGVzLiBUaGVyZWZvcmUsIFNhcmFzd2F0IEJhbmsgY2Fubm90IGJlIHJlc3BvbnNpYmxlIGZvciB0aGUgcHJvdGVjdGlvbiBhbmQgcHJpdmFjeSBvZiBhbnkgaW5mb3JtYXRpb24gd2hpY2ggdXNlciBwcm92aWRlIHdoaWxzdCB2aXNpdGluZyBzdWNoIHdlYnNpdGVzIGFuZCBzdWNoIHdlYnNpdGVzIGFyZSBub3QgZ292ZXJuZWQgYnkgdGhpcyBwcml2YWN5IHN0YXRlbWVudC4gVXNlciBzaG91bGQgZXhlcmNpc2UgY2F1dGlvbiBhbmQgbG9vayBhdCB0aGUgcHJpdmFjeSBzdGF0ZW1lbnQgYXBwbGljYWJsZSB0byB0aGUgcmVzcGVjdGl2ZSB3ZWJzaXRlKHMpLjxiciAvPg0KPGJyIC8+DQpXaGVuIHVzZXIgYWNjZXNzIFNhcmFzd2F0IEJhbmsgd2Vic2l0ZSBmcm9tIGEgY29tcHV0ZXIsIG1vYmlsZSBhcHBsaWNhdGlvbiBmcm9tIG1vYmlsZSBwaG9uZSwgb3Igb3RoZXIgZGV2aWNlLCB0aGUgYmFuayBtYXkgY29sbGVjdCBpbmZvcm1hdGlvbiBmcm9tIHRoYXQgZGV2aWNlIGFib3V0IHRoZSBicm93c2VyIHR5cGUsIGxvY2F0aW9uLCBhbmQgSVAgYWRkcmVzcywgYXMgd2VsbCBhcyB0aGUgcGFnZXMgdXNlciB2aXNpdHMuIFRoZSB3ZWJzaXRlcyBrZWVwcyB0cmFjayBvZiB0aGUgcGFnZXMgYSB1c2VyIG1heSB2aXNpdCBieSBhcHByb3ByaWF0ZWx5IGNhcHR1cmluZyB0aGUgSVAgYWRkcmVzc2VzLCBicm93c2VyIGluZm9ybWF0aW9uLCBldGMuIHVzaW5nIGNvb2tpZXMuIFRoZSBpbmZvcm1hdGlvbiBjb2xsZWN0ZWQgdXNpbmcgY29va2llcyBtaWdodCBiZSB1c2VkIGZvciBhbmFseXNpcyBvZiB1c2VyIGJlaGF2aW91ci4gU2FyYXN3YXQgQmFuayBpcyBub3QgbGlhYmxlIGlmIHRoZSBjb29raWVzIGFyZSB1c2VkIGJ5IGFkdmVydGlzZXJzIG9yIGFueSBvdGhlciB0aGlyZCBwYXJ0aWVzIHdoZW4gdXNlciB2aXNpdCBTYXJhc3dhdCBCYW5rIHdlYnNpdGUgb3IgbW9iaWxlIGFwcGxpY2F0aW9uIGZyb20gb3RoZXIgc2l0ZXMgb3IgaWYgdXNlciB2aXNpdCBhbm90aGVyIHNpdGUgYWZ0ZXIgdmlzaXRpbmcgU2FyYXN3YXQgQmFuayB3ZWJzaXRlIC8gbW9iaWxlIGFwcGxpY2F0aW9uLjxiciAvPg0KPGJyIC8+DQpkAgUPFgIfA2ZkAgcPFgIfAWVkAgsPFgIfCmhkAhUPZBYEZg8WAh8DZmQCAQ8WAh8KaGQCFw8WAh8DAgYWDGYPZBYCZg8VBRpuYXZpZ2F0aW9uLmFzcHg/aWQ9U2F2aW5nczYvaW1hZ2VzL25lZWRoZWxwX18wNV8wN18yMDE4XzEwXzMzX29wZW4gYW4gYWNjb3VudC5wbmcPT3BlbiBBbiBBY2NvdW50D09wZW4gQW4gQWNjb3VudA9PcGVuIEFuIEFjY291bnRkAgEPZBYCZg8VBR9uYXZpZ2F0aW9uLmFzcHg/aWQ9UmV0YWlsLUxvYW5zLy9pbWFnZXMvbmVlZGhlbHBfXzA1XzA3XzIwMThfMTBfMzRfUGljdHVyZTEucG5nDkFwcGx5IEZvciBMb2FuDkFwcGx5IEZvciBMb2FuDkFwcGx5IEZvciBMb2FuZAICD2QWAmYPFQUmcHJvZHVjdC1kZXRhaWxzLmFzcHg/aWQ9My1pbi0xLUFjY291bnQ1L2ltYWdlcy9uZWVkaGVscF9fMDVfMDdfMjAxOF8xMF8zM18zIGluIDEgYWNjb3VudC5wbmcTT3BlbiAzLWluLTEgQWNjb3VudBNPcGVuIDMtaW4tMSBBY2NvdW50E09wZW4gMy1pbi0xIEFjY291bnRkAgMPZBYCZg8VBRtuYXZpZ2F0aW9uX3NwLmFzcHg/aWQ9RGVtYXQxL2ltYWdlcy9uZWVkaGVscF9fMDVfMDdfMjAxOF8xMF8zM19pbnZlc3RtZW50LnBuZxBNYWtlIEludmVzdG1lbnRzEE1ha2UgSW52ZXN0bWVudHMQTWFrZSBJbnZlc3RtZW50c2QCBA9kFgJmDxUFH25hdmlnYXRpb24uYXNweD9pZD1UZXJtLURlcG9zaXQzL2ltYWdlcy9uZWVkaGVscF9fMDVfMDdfMjAxOF8xMF8zM190ZXJtIGRlcG9zaXQucG5nFkFwcGx5IEZvciBUZXJtIERlcG9zaXQWQXBwbHkgRm9yIFRlcm0gRGVwb3NpdBZBcHBseSBGb3IgVGVybSBEZXBvc2l0ZAIFD2QWAmYPFQUcbmF2aWdhdGlvbi5hc3B4P2lkPUluc3VyYW5jZTAvaW1hZ2VzL25lZWRoZWxwX18wNV8wN18yMDE4XzEwXzM0X2luc3VyYW5jZS5wbmcQR2V0IEFuIEluc3VyYW5jZRBHZXQgQW4gSW5zdXJhbmNlEEdldCBBbiBJbnN1cmFuY2VkAhMPFgIfAwIGFgxmD2QWAmYPFQIcY29udGVudC5hc3B4P2lkPUhvbGlkYXktTGlzdAxIb2xpZGF5IExpc3RkAgEPZBYCZg8VAh9jb250ZW50LmFzcHg/aWQ9U2VydmljZS1DaGFyZ2VzD1NlcnZpY2UgQ2hhcmdlc2QCAg9kFgJmDxUCHmNvbnRlbnQuYXNweD9pZD1JbnRlcmVzdC1SYXRlcw5JbnRlcmVzdCBSYXRlc2QCAw9kFgJmDxUCGmVtaS5hc3B4P2lkPUVNSS1DYWxjdWxhdG9yDkVNSSBDYWxjdWxhdG9yZAIED2QWAmYPFQIMVW5jbGFpbS5hc3B4ElVuY2xhaW1lZCBEZXBvc2l0c2QCBQ9kFgJmDxUCGWNvbnRlbnQuYXNweD9pZD1Eb3dubG9hZHMJRG93bmxvYWRzZAIVDxYCHwMCARYCZg9kFgJmDxUCFk1pbGUgeWFoYW4sIERvbm8gSmFoYW70BTxwIHN0eWxlPSJ0ZXh0LWFsaWduOmp1c3RpZnkiPlRydWUgdG8gaXRzIG5ldyB0YWcgbGluZSwgIk1pbGUgWWFoYW4gRG9ubyBKYWhhbiIsIFNhcmFzd2F0IEJhbmsgaXMgY29tbWl0dGVkIHRvIGJyaWRnaW5nIHRoZSBnYXAgYmV0d2VlbiB0ZWNobm9sb2d5IGFuZCB0cmFkaXRpb24gYnkgYnJpbmdpbmcgdG8gaXRzIGN1c3RvbWVycyB0aGUgYmVzdCBvZiBib3RoIHdvcmxkcy48L3A+DQoNCjxwPktlZXBpbmcgdHJhZGl0aW9uIGludGFjdCBhbmQgZW1icmFjaW5nIHRlY2hub2xvZ3ksIHRoZSBCYW5rIGhhcyBtYXRjaGVkIHN0cmlkZXMgd2l0aCBJbmRpYSdzIGRpZ2l0YWwgcmV2b2x1dGlvbiBieSBvZmZlcmluZyB2YXJpb3VzIGRpZ2l0YWwgYmFua2luZyBzZXJ2aWNlcyBkZXNpZ25lZCB0byBtYWtlIGJhbmtpbmcgbW9yZSBlYXN5IGFuZCBjb252ZW5pZW50IGxpa2UgbW9iaWxlIGJhbmtpbmcsIGludGVybmV0IGJhbmtpbmcsIGludGVybmF0aW9uYWwgVklTQSBFTVYgYW5kIFJ1UGF5IGNoaXAgY2FyZHMsIGV0Yy4gU2ltdWx0YW5lb3VzbHksIHRocm91Z2ggaXRzIGVtcGhhc2lzIG9uIHBlcnNvbmFsaXplZCBhdHRlbnRpb24sIHRoZSBCYW5rIGhhcyBtYWludGFpbmVkIGl0cyBwZXJzb25hbCB0b3VjaCB3aXRoIGN1c3RvbWVycy4gQWdpbGl0eSBvZiB0aGUgc21hbGwgYmFuayB3aXRoIHRoZSBhYmlsaXR5IG9mIHRoZSBsYXJnZSBiYW5rIGhhcyBiZWVuIFNhcmFzd2F0IEJhbmsncyBlbmR1cmluZyBoZXJpdGFnZSBuZXcuPC9wPmQCFw8WAh8DAgYWDGYPZBYCZg8VAhtuYXZpZ2F0aW9uLmFzcHg/aWQ9QWJvdXQtVXMIQWJvdXQgVXNkAgEPZBYCZg8VAiFtbC5hc3B4P2lkPUF3YXJkcy1hbmQtUmVjb2duaXRpb24WQXdhcmRzIGFuZCBSZWNvZ25pdGlvbmQCAg9kFgJmDxUCHG1sLmFzcHg/aWQ9RmluYW5jaWFsLVJlc3VsdHMRRmluYW5jaWFsIFJlc3VsdHNkAgMPZBYCZg8VAixuYXZpZ2F0aW9uX3NwLmFzcHg/aWQ9UmVndWxhdG9yeS1EaXNjbG9zdXJlcxZSZWd1bGF0b3J5IERpc2Nsb3N1cmVzZAIED2QWAmYPFQI8Y3NyLWFjdGl2aXRpZXMuYXNweD9pZD1Db3Jwb3JhdGUtU29jaWFsLVJlc3BvbnNpYmlsaXR5LShDU1IpH0NvcnBvcmF0ZSBTb2NpYWwgUmVzcG9uc2liaWxpdHlkAgUPZBYCZg8VAh90ZWFtLmFzcHg/aWQ9Qm9hcmQtb2YtRGlyZWN0b3JzEkJvYXJkIE9mIERpcmVjdG9yc2QCGQ8WAh8DAgYWDGYPZBYCZg8VAiVuYXZpZ2F0aW9uLmFzcHg/aWQ9SW5mb3JtYXRpb24tQ2VudHJlEkluZm9ybWF0aW9uIENlbnRyZWQCAQ9kFgJmDxUCGm1lZGlhLmFzcHg/aWQ9TWVkaWEtQ2VudHJlDE1lZGlhIENlbnRyZWQCAg9kFgJmDxUCHWNvbnRhY3QtdXMuYXNweD9pZD1Db250YWN0LVVzCkNvbnRhY3QgVXNkAgMPZBYCZg8VAhlmZWVkYmFjay5hc3B4P2lkPUZlZWRiYWNrCEZlZWRiYWNrZAIED2QWAmYPFQImY2FyZWVyX3dvcmt3aXRodXMuYXNweD9pZD1Xb3JrLVdpdGgtVXMHQ2FyZWVyc2QCBQ9kFgJmDxUCEEZBUS5hc3B4P2lkPUZBUXMHRkFR4oCZc2QCGw8WAh8DAgUWCmYPZBYCZg8VBCtodHRwczovL3d3dy5mYWNlYm9vay5jb20vU2FyYXN3YXRCYW5rSW5kaWEvE2ltYWdlcy9zb2NpYWxfMS5wbmcIRmFjZWJvb2sAZAIBD2QWAmYPFQQgaHR0cHM6Ly90d2l0dGVyLmNvbS9zYXJhc3dhdGJhbmsTaW1hZ2VzL3NvY2lhbF8yLnBuZwdUd2l0dGVyAGQCAg9kFgJmDxUELWh0dHBzOi8vcGx1cy5nb29nbGUuY29tLzEwNDYzMzk5OTQ3MTQzNDk2NDYwNRNpbWFnZXMvc29jaWFsXzMucG5nAkcrAGQCAw9kFgJmDxUEL2h0dHBzOi8vd3d3Lmluc3RhZ3JhbS5jb20vc2FyYXN3YXRiYW5rb2ZmaWNpYWwvG2ltYWdlcy9pbnN0YWdyYW0taGVhZGVyLnBuZwlJbnN0YWdyYW0AZAIED2QWAmYPFQQsaHR0cHM6Ly93d3cueW91dHViZS5jb20vU2FyYXN3YXRCYW5rT2ZmaWNpYWwTaW1hZ2VzL3NvY2lhbF82LnBuZwdZb3V0dWJlAGQCHQ8WAh8DAgEWAmYPZBYCZg8VBRBDb3Jwb3JhdGUgT2ZmaWNlI1NhcmFzd2F0IENvLW9wZXJhdGl2ZSBCYW5rIExpbWl0ZWQgTkVrYW5hdGggVGhha3VyIEJoYXdhbiA5NTMsIEFwcGFzYWhlYiBNYXJhdGhlIE1hcmcsIFByYWJoYWRldmkuIE11bWJhaS0gNDAwIDAyNRVbKzkxXSAoMDIyKSAyNDAwIDU1NTUgY29ycG9yYXRlY2VudGVyQHNhcmFzd2F0YmFuay5jb21kAh8PDxYCHwEFPMKpIDIwMTkgU2FyYXN3YXQgQ28tb3BlcmF0aXZlIEJhbmsgTHRkLiBBbGwgUmlnaHRzIFJlc2VydmVkLmRkAiEPFgIfAwIDFgZmD2QWAmYPFQIaY29udGVudC5hc3B4P2lkPURpc2NsYWltZXIKRGlzY2xhaW1lcmQCAQ9kFgJmDxUCHmNvbnRlbnQuYXNweD9pZD1Qcml2YWN5LVBvbGljeQ5Qcml2YWN5IFBvbGljeWQCAg9kFgJmDxUCF3NpdGVtYXAuYXNweD9pZD1TaXRlbWFwB1NpdGVtYXBkAiMPDxYEHwEFEVN3aXRjaCB0byBNYXJhdGhpHwpoZGRkTaW79PhEXHTRD2Pfrh3SPs0XgPcLmnYpdV9UPLyEHl0=">
+</div>
+
+<script type="text/javascript">
+//<![CDATA[
+var theForm = document.forms['Form1'];
+if (!theForm) {
+    theForm = document.Form1;
+}
+function __doPostBack(eventTarget, eventArgument) {
+    if (!theForm.onsubmit || (theForm.onsubmit() != false)) {
+        theForm.__EVENTTARGET.value = eventTarget;
+        theForm.__EVENTARGUMENT.value = eventArgument;
+        theForm.submit();
+    }
+}
+//]]>
+</script>
+
+
+<script src="/WebResource.axd?d=G3CCmbHkAqFcpM8P6DfGm1RAT0IqtPF33B5P6HQ6-sNNOxprFAM_6emivolLmoHsLr5vaQ4O1nNrBzT6mgvh8tkPfcyL6bRvrm9VVHK9uV41&amp;t=636765661264470882" type="text/javascript"></script>
+
+
+<script src="/ScriptResource.axd?d=NN1PMj2SfLRpEn9lQGCsgkiY4-9T1V8zXLqDa3rqK6GaYf8MOnUc72P3-LIuZP-jmMHBlIHLmX0YFwvq26OOYwK8cjvm9b7LJGV8-yeRMymFjBkaPWYfP83p53K7UPPx7lRrU3rHfkoH1sO9-tHcxPpakmf7Ey7UVDCsOsJZ-cQ1&amp;t=29665526" type="text/javascript"></script>
+<script src="/ScriptResource.axd?d=89uXM8ExnZfZoyXwIMNsE3_oyCOTx-bFwqlcI3pqu_baC1oIDIvLY6Sz2IB06HfqLB0RCxgnSGa7BOkklzx65XetK6iIqdiRu58vESoznZnvUlFzf-Kk_0uRVWTLvQM1toBDQSvnaY1hSCKazYvaVtlYxci6i925H0Yteq1yERU7sUKUJNIPbqRiD7oBcjJz0&amp;t=ffffffff999c3159" type="text/javascript"></script>
+<script type="text/javascript">
+//<![CDATA[
+if (typeof(Sys) === 'undefined') throw new Error('ASP.NET Ajax client-side framework failed to load.');
+//]]>
+</script>
+
+<script src="/ScriptResource.axd?d=2iCgnJZ8wbL3hRgtS7045bAODqQ-P1S0rBQyFydKUGAWPHeCDPGw6kOa5b2YX2tkowvjyhOm2DQsBayAAzUZgJoEipOOFeD_ctrgfEhmFJO7KZDx677t62zCo-rG8AZ9tXA6QaRUl1aN-fTVcfxLmyTPwcpCPVJhxVDcKgaJh7amvMj26qdx2_Fltuax-NHF0&amp;t=ffffffff999c3159" type="text/javascript"></script>
+<script type="text/javascript">
+//<![CDATA[
+function WebForm_OnSubmit() {
+if (typeof(ValidatorOnSubmit) == "function" && ValidatorOnSubmit() == false) return false;
+return true;
+}
+//]]>
+</script>
+
+<div class="aspNetHidden">
+
+	<input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="65E7F3AF">
+</div>
+    <div class="wsmenucontainer clearfix">
+        <div class="overlapblackbg">
+        </div>
+        <!--Header-->
+        <header class="header">
+                <div class="wsmobileheader clearfix">
+                    <a id="wsnavtoggle" class="animated-arrow"><span></span></a><a href="index.aspx" class="smallogo">
+                        <img src="images/small_logo.png" width="120" alt="">
+                    </a>
+                    
+                                        <div class="moibile_log">
+                        <div class="dropdown">
+                            <button class="dropdown-toggle" data-toggle="dropdown" aria-expanded="false">Log In</button>
+
+                         <ul class="dropdown-menu">
+<li><a href="https://onepage.saraswatbank.co.in/netbanking/login">Personal Internet Banking</a>
+</li>
+<li><a href="https://corp.saraswatbank.co.in/CorporateBanking/main.do">Corporate Internet Banking</a>
+</li>
+</ul>
+
+                        </div>
+                    </div>
+                    <a href="tel:1800229999" id="atollFreePhone" class="callusicon"><span class="fa fa-phone"></span></a>
+                </div>
+                <!--Main Menu HTML Code-->
+                <div class="container">
+                    <div class="headtoppart clearfix">
+                        <div class="headerwp">
+                            <div class="row">
+                                <div class="col-lg-8 col-md-8 col-sm-6 col-xs-12">
+                                    <div class="headertopleft">
+                                        <div class="tollfree">
+                                            <a href="tel:1800229999" id="tollfreeLink_main"><span>
+                                                Toll Free:</span>
+                                                1800229999
+                                            </a>
+
+                                            
+                                                    <a href="https://www.facebook.com/SaraswatBankIndia/" target="_blank">
+                                                        <img src="/images/social_1.png" title="Facebook" alt=""></a>
+
+                                                
+                                                    <a href="https://twitter.com/saraswatbank" target="_blank">
+                                                        <img src="/images/social_2.png" title="Twitter" alt=""></a>
+
+                                                
+                                                    <a href="https://plus.google.com/104633999471434964605" target="_blank">
+                                                        <img src="/images/social_3.png" title="Google Plus" alt=""></a>
+
+                                                
+                                                    <a href="https://www.instagram.com/saraswatbankofficial/" target="_blank">
+                                                        <img src="/images/instagram-header.png" title="Instagram" alt=""></a>
+
+                                                
+                                                    <a href="https://www.youtube.com/SaraswatBankOfficial" target="_blank">
+                                                        <img src="/images/social_6.png" title="Youtube" alt=""></a>
+
+                                                
+
+
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="col-lg-4 col-md-4 col-sm-6 col-xs-12">
+                                    <div class="headertopright">
+                                        <div class="net_banking">
+                                            <div class="input-group">
+
+                                                <select name="ctl00$ctl00$ddlLoginCategory" id="ddlLoginCategory" class="form-control">
+	<option selected="selected" value="Select Internet Banking">Select Internet Banking</option>
+	<option value="https://onepage.saraswatbank.co.in/netbanking/login">Personal Internet Banking</option>
+	<option value="https://corp.saraswatbank.co.in/CorporateBanking/main.do">Corporate Internet Banking</option>
+
+</select>
+                                                
+                                                <a id="btnLogin" class="btn input-group-addon" href="javascript:__doPostBack('ctl00$ctl00$btnLogin','')">Login</a>
+                                                
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="headerfull">
+                    <!--Main Menu HTML Code-->
+
+                    <div class="overlapblackbg"></div>
+                    <div class="container">
+                        <div class="wsmain">
+                            <div class="smllogo">
+                                <a href="index.aspx" id="logoLink">
+                                    <img src="images/logo.png" id="imgLogo"></a>
+                            </div>
+                            <span id="lbl"> <nav class="wsmenu clearfix"> <ul class="mobile-sub wsmenu-list">
+
+                                <li class="rightmenu">
+                                    <div class="topmenusearch">
+                                        <input placeholder="Find a Branch Or ATM">
+                                        <button class="btnstyle">
+                                            <i class="searchicon fa fa-search" aria-hidden="true"></i></button>
+                                    </div>
+                                </li>
+                                
+<li><a href="navigation.aspx?id=Personal">Personal<i class="fa fa-angle-down" aria-hidden="true"></i></a>
+<ul class="wsmenu-submenu">
+<li><a href="navigation.aspx?id=Savings"><i class="fa fa-angle-right"></i>Savings</a></li>
+<li><a href="navigation.aspx?id=Term-Deposit"><i class="fa fa-angle-right"></i>Term Deposit</a></li>
+<li><a href="navigation.aspx?id=Retail-Loans"><i class="fa fa-angle-right"></i>Retail Loans</a></li>
+<li><a href="navigation.aspx?id=Insurance"><i class="fa fa-angle-right"></i>Insurance</a></li>
+<li><a href="navigation_sp.aspx?id=Demat"><i class="fa fa-angle-right"></i>Demat</a></li>
+<li><a href="mutual-funds.aspx?id=Mutual-Funds"><i class="fa fa-angle-right"></i>Mutual Funds</a></li>
+<li><a href="content.aspx?id=Remittance-Services"><i class="fa fa-angle-right"></i>Remittance Services</a></li>
+</ul>
+</li>
+<li><a href="navigation.aspx?id=Business-Banking">Business Banking<i class="fa fa-angle-down" aria-hidden="true"></i></a>
+<ul class="wsmenu-submenu">
+<li><a href="product-listing.aspx?id=Current-Accounts"><i class="fa fa-angle-right"></i>Current Accounts</a></li>
+<li><a href="navigation.aspx?id=Business-Loans"><i class="fa fa-angle-right"></i>Business Loans</a></li>
+<li><a href="content.aspx?id=Corporate-Services"><i class="fa fa-angle-right"></i>Corporate Services</a></li>
+<li><a href="navigation.aspx?id=Trade-Finance"><i class="fa fa-angle-right"></i>Trade Finance</a></li>
+<li><a href="navigation.aspx?id=Pradhan-Mantri-MUDRA-Yojana-(PMMY)"><i class="fa fa-angle-right"></i>Pradhan Mantri MUDRA Yojana (PMMY)</a></li>
+</ul>
+</li>
+<li><a href="navigation.aspx?id=NRI-Banking">NRI Banking<i class="fa fa-angle-down" aria-hidden="true"></i></a>
+<ul class="wsmenu-submenu">
+<li><a href="content.aspx?id=NRI-Deposit"><i class="fa fa-angle-right"></i>NRI Deposit</a></li>
+<li><a href="navigation.aspx?id=NRI-Loans"><i class="fa fa-angle-right"></i>NRI Loans</a></li>
+<li><a href="content.aspx?id=Overseas-(Nostro)-Account"><i class="fa fa-angle-right"></i>Overseas (Nostro) Account</a></li>
+<li><a href="content.aspx?id=Forex-Centres"><i class="fa fa-angle-right"></i>Forex Centres</a></li>
+<li><a href="content.aspx?id=NRI-Banking-FAQs-Linking"><i class="fa fa-angle-right"></i>NRI Banking FAQs</a></li>
+</ul>
+</li>
+<li><a href="navigation.aspx?id=Cards">Cards<i class="fa fa-angle-down" aria-hidden="true"></i></a>
+<ul class="wsmenu-submenu">
+<li><a href="navigation.aspx?id=Debit-Card"><i class="fa fa-angle-right"></i>Debit Card</a></li>
+<li><a href="content.aspx?id=Credit-Cards"><i class="fa fa-angle-right"></i>Credit Cards</a></li>
+<li><a href="content.aspx?id=Gift-Card"><i class="fa fa-angle-right"></i>Gift Card</a></li>
+<li><a href="content.aspx?id=Travel-Currency-Cards"><i class="fa fa-angle-right"></i>Travel Currency Cards</a></li>
+</ul>
+</li>
+<li><a href="navigation.aspx?id=Digital-Banking">Digital Banking<i class="fa fa-angle-down" aria-hidden="true"></i></a>
+<ul class="wsmenu-submenu">
+<li><a href="content.aspx?id=Internet-Banking"><i class="fa fa-angle-right"></i>Internet Banking</a></li>
+<li><a href="content.aspx?id=Corporate-Internet-Banking"><i class="fa fa-angle-right"></i>Corporate Internet Banking</a></li>
+<li><a href="content.aspx?id=GoMo-Mobile-Banking"><i class="fa fa-angle-right"></i>GoMo - Mobile Banking</a></li>
+<li><a href="content.aspx?id=Saraswat-UPI-on-BHIM"><i class="fa fa-angle-right"></i>Saraswat UPI on BHIM</a></li>
+<li><a href="content.aspx?id=mPassbook"><i class="fa fa-angle-right"></i>mPassbook</a></li>
+<li><a href="content.aspx?id=24/7-Phone-Banking-Service"><i class="fa fa-angle-right"></i>24/7 Phone Banking Service</a></li>
+<li><a href="content.aspx?id=Missed-Call-Service"><i class="fa fa-angle-right"></i>Missed Call Service</a></li>
+<li><a href="content.aspx?id=SMS-Banking"><i class="fa fa-angle-right"></i>SMS Banking</a></li>
+<li><a href="content.aspx?id=Saraswat-Bank-Connect"><i class="fa fa-angle-right"></i>Saraswat Bank Connect</a></li>
+<li><a href="https://pgi.billdesk.com/pgidsk/pgmerc/instpy/SWBIndex.jsp"><i class="fa fa-angle-right"></i>InstaPay</a></li>
+<li><a href="content.aspx?id=National-Electronic-Toll-Collection-NETC"><i class="fa fa-angle-right"></i>National Electronic Toll Collection-NETC</a></li>
+<li><a href="content.aspx?id=Saraswat-Bank-on-WhatsApp"><i class="fa fa-angle-right"></i>Saraswat Bank on WhatsApp</a></li>
+<li><a href="content.aspx?id=Bharat-BillPay"><i class="fa fa-angle-right"></i>Bharat BillPay</a></li>
+</ul>
+</li>
+<li><a href="navigation.aspx?id=Offers">Offers<i class="fa fa-angle-down" aria-hidden="true"></i></a>
+<ul class="wsmenu-submenu">
+<li><a href="content.aspx?id=Saraswat-Bank-Rewardz"><i class="fa fa-angle-right"></i>Saraswat Bank Rewardz</a></li>
+<li><a href="content.aspx?id=Yolokal"><i class="fa fa-angle-right"></i>Yolokal</a></li>
+<li><a href="http://killerjeans.com/saraswatbank/"><i class="fa fa-angle-right"></i>Killer Merchandise</a></li>
+<li><a href="content.aspx?id=CinepolisBhimUpiOffers"><i class="fa fa-angle-right"></i>Cinepolis BHIM UPI Offer</a></li>
+<li><a href="content.aspx?id=BookMyShowonRuPay"><i class="fa fa-angle-right"></i>Book My Show on RuPay</a></li>
+<li><a href="content.aspx?id=OnlineoffersonRuPay"><i class="fa fa-angle-right"></i>Online offers on RuPay</a></li>
+<li><a href="content.aspx?id=IOCL_-CashbackofferonRuPayandBHIMUPI"><i class="fa fa-angle-right"></i>IOCL Cashback offer on RuPay and BHIM UPI</a></li>
+<li><a href="content.aspx?id=Womens-Day-Discount-Carnival"><i class="fa fa-angle-right"></i>Women's Day Discount Carnival</a></li>
+</ul>
+</li>
+<li> <a href="https://www.saraswatbank.com/career_workwithus.aspx?id=Work-With-Us">Careers</a></li></ul> </nav>
+</span>
+                        </div>
+                    </div>
+
+                    <!--Menu HTML Code-->
+                </div>
+            </header>
+        <!--Header end-->
+        
+    <script type="text/javascript">
+//<![CDATA[
+Sys.WebForms.PageRequestManager._initialize('ctl00$ctl00$MainContent$ScriptManager1', 'Form1', [], [], [], 90, 'ctl00$ctl00');
+//]]>
+</script>
+
+   <!--Banner-->
+    <div id="MainContent_dvpagebanner" class="banner">
+        
+        <img id="MainContent_imgBanner" class="img-responsive desktop_thumb" src="/images/default-banner.png" style="width: 100%;">
+        <img id="MainContent_imgThumbnail" class="img-responsive mobile_thumb" src="/images/default-Thumbnail.png" alt="Privacy-Policy" style="width: 100%;">
+        
+        
+    </div>
+    <!--Banner end-->
+
+    <!--Breadcrumb-->
+    <div class="page_breadcrumb">
+        <div class="container">
+            <ul class="breadcrumb">
+                <input name="ctl00$ctl00$MainContent$hidTotalCount" type="hidden" id="MainContent_hidTotalCount" value="1">
+                <li><a href="index.aspx">Home</a></li>
+
+                
+                        <li id="MainContent_rptBreadcrumb_liItems_0" class="active">
+                            <a href="content.aspx?id=Privacy-Policy">Privacy Policy</a></li>
+                    
+
+            </ul>
+        </div>
+    </div>
+    <!--Breadcrumb End-->
+
+    <!--Content-->
+    <div class="content">
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-9 col-md-9 col-sm-12 col-xs-12">
+
+
+                    
+    <!--Javascripts--> 
+      <script type="text/javascript">
+          $(document).ready(function () {
+              if (location.hash != null && location.hash != "") {
+                  $('.collapse').removeClass('in');
+                  $(location.hash + '.collapse').collapse('show');
+              }
+          });
+    </script>
+  <script>      $(function () {
+          $('a[data-toggle="collapse"]').on('click', function () {
+
+              var objectID = $(this).attr('href');
+
+              if ($(objectID).hasClass('in')) {
+                  $(objectID).collapse('hide');
+              }
+
+              else {
+                  $(objectID).collapse('show');
+              }
+          });
+
+
+          $('#expandAll').on('click', function () {
+
+              $('a[data-toggle="collapse"]').each(function () {
+                  var objectID = $(this).attr('href');
+                  if ($(objectID).hasClass('in') === false) {
+                      $(objectID).collapse('show');
+                  }
+              });
+          });
+
+          $('#collapseAll').on('click', function () {
+
+              $('a[data-toggle="collapse"]').each(function () {
+                  var objectID = $(this).attr('href');
+                  $(objectID).collapse('hide');
+              });
+          });
+
+      });</script>
+
+<!-- Header and Description Starts -->
+    <div class="page_header">
+        <h1>
+            Privacy Policy</h1>
+
+    </div>
+    
+
+    <!-- Header Ends-->
+    <div class="nri">
+         In the course of using Saraswat Bank website or mobile application availing the products and services vide the online application forms and questionnaires, saraswat Bank and its affiliates may become privy to the personal information of its users, including information that is of a confidential nature.<br>
+<br>
+SARASWAT Bank is strongly committed to protecting the privacy of its users and hastaken all necessary and reasonable measures to protect the confidentiality of the userinformation and its transmission through the world wide web and it shall not be heldliable for disclosure of the confidential information when in accordance with thisPrivacy Commitment or in terms of the agreements, if any, with the users.<br>
+<br>
+SARASWAT Bank endeavours to safeguard and ensure the security of the informationprovided by the user. The user would be required to cooperate with SARASWAT Bankin order to ensure the security of the information, and it is recommended that the usersnecessarily choose their passwords carefully such that no unauthorised access ismade by a third party. The users should undertake not to disclose their password toanyone or keep any written or other record of the password such that a third partycould access it. SARASWAT Bank undertakes not to disclose the information providedby the users to any person, unless such action is necessary to:
+<ol>
+	<li>
+		Conform to legal requirements or comply with legal process;</li>
+	<li>
+		Protect and defend SARASWAT Bank's or its Affiliates' rights, interests or property;</li>
+	<li>
+		Enforce the terms and conditions of the products or services; or</li>
+	<li>
+		Act to protect the interests of SARASWAT Bank, its Affiliates, or its members, constituents or of other persons.</li>
+</ol>
+<br>
+The users shall not disclose to any other person, in any manner whatsoever, anyinformation relating to SARASWAT Bank or its Affiliates of a confidential natureobtained in the course of availing the services through the website. Failure to complywith this obligation shall be deemed a serious breach of the terms herein and shallentitle SARASWAT Bank or its Affiliates to terminate the services, without prejudice toany damages, to which the user may be entitled otherwise.<br>
+<br>
+SARASWAT Bank will limit the collection and use of user information only on a needto-knowbasis to deliver better service to the users. SARASWAT Bank may use andshare the information provided by the users with its Affiliates and third parties forproviding services and any service-related activities such as collecting subscriptionfees for such services, and notifying or contacting the users regarding any problemwith, or the expiration of, such services. In this regard, it may be necessary to disclosethe user information to one or more agents and contractors of SARASWAT Bank andtheir sub-contractors, but such agents, contractors, and sub-contractors will berequired to agree to use the information obtained from SARASWAT Bank only forthese purposes.<br>
+<br>
+The user authorises SARASWAT Bank to exchange, share, part with all informationrelated to the details and transaction history of the users to its Affiliates / banks /financial institutions / credit bureaus / agencies/participation in any telecommunicationor electronic clearing network as may be required by law, customary practice, credit reporting, statistical analysis and credit scoring, verification or risk management andshall not hold SARASWAT Bank liable for use or disclosure of this information.<br>
+<br>
+Any information that is freely available or accessible in public domain or furnished under the right to Information Act,2005 or any law for the time being in force shall not be regarded as data or information for the purpose of this&nbsp; and the bank shall not be responsible for the same. The Bank may from time to time may change this policy.<br>
+<br>
+The privacy practices set forth in this policy are for www.saraswatbank.com website and mobile application only. Saraswat Bank website may contain links to other websites of similar interest. However, once user click these links and leave the bank’s website, user should note that Saraswat Bank does not have any control over other websites. Therefore, Saraswat Bank cannot be responsible for the protection and privacy of any information which user provide whilst visiting such websites and such websites are not governed by this privacy statement. User should exercise caution and look at the privacy statement applicable to the respective website(s).<br>
+<br>
+When user access Saraswat Bank website from a computer, mobile application from mobile phone, or other device, the bank may collect information from that device about the browser type, location, and IP address, as well as the pages user visits. The websites keeps track of the pages a user may visit by appropriately capturing the IP addresses, browser information, etc. using cookies. The information collected using cookies might be used for analysis of user behaviour. Saraswat Bank is not liable if the cookies are used by advertisers or any other third parties when user visit Saraswat Bank website or mobile application from other sites or if user visit another site after visiting Saraswat Bank website / mobile application.<br>
+<br>
+
+        <br>
+        <div class="accordion">
+            <div class="panel-group" id="accordion" role="tablist" aria-multiselectable="true">
+                
+
+
+            </div>
+        </div>
+
+    </div>
+     
+
+                    <!-- Loan Links Begins-->
+                    
+                    <!-- Loan Links end-->
+                </div>
+                <div class="col-lg-3 col-md-3 col-sm-12 col-xs-12">
+                    <div class="look">
+                        <div>
+                            <input name="ctl00$ctl00$MainContent$txtSearch" type="text" id="MainContent_txtSearch" class="form-control" placeholder="I'm looking for...">
+                            <span id="MainContent_rpt" style="visibility:hidden;"></span>
+                            <a id="MainContent_lnkSearch" class="btn" href='javascript:WebForm_DoPostBackWithOptions(new WebForm_PostBackOptions("ctl00$ctl00$MainContent$lnkSearch", "", true, "search", "", false, true))'><i class="fa fa-search"></i></a>
+                        </div>
+                    </div>
+                     <a id="MainContent_locateUs" class="locate_btn" href="locator.aspx?id=LocateUs">Locate Us</a>
+
+                    
+                </div>
+
+            </div>
+        </div>
+    </div>
+
+
+
+    <div class="help">
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-3 col-md-4 col-sm-6 col-xs-10 pull-left">
+                    <div class="main_header">
+                        <h4>NEED <span>HELP?</span></h4>
+                    </div>
+                </div>
+            </div>
+            <ul>
+
+                
+                        <li><a href="navigation.aspx?id=Savings">
+                            <img src="/images/needhelp__05_07_2018_10_33_open an account.png" title="Open An Account" alt="Open An Account">Open An Account</a></li>
+
+                    
+                        <li><a href="navigation.aspx?id=Retail-Loans">
+                            <img src="/images/needhelp__05_07_2018_10_34_Picture1.png" title="Apply For Loan" alt="Apply For Loan">Apply For Loan</a></li>
+
+                    
+                        <li><a href="product-details.aspx?id=3-in-1-Account">
+                            <img src="/images/needhelp__05_07_2018_10_33_3 in 1 account.png" title="Open 3-in-1 Account" alt="Open 3-in-1 Account">Open 3-in-1 Account</a></li>
+
+                    
+                        <li><a href="navigation_sp.aspx?id=Demat">
+                            <img src="/images/needhelp__05_07_2018_10_33_investment.png" title="Make Investments" alt="Make Investments">Make Investments</a></li>
+
+                    
+                        <li><a href="navigation.aspx?id=Term-Deposit">
+                            <img src="/images/needhelp__05_07_2018_10_33_term deposit.png" title="Apply For Term Deposit" alt="Apply For Term Deposit">Apply For Term Deposit</a></li>
+
+                    
+                        <li><a href="navigation.aspx?id=Insurance">
+                            <img src="/images/needhelp__05_07_2018_10_34_insurance.png" title="Get An Insurance" alt="Get An Insurance">Get An Insurance</a></li>
+
+                    
+
+
+            </ul>
+        </div>
+    </div>
+
+
+
+        <!--Help Desk-->
+        <div class="healp_desk">
+            <div class="container">
+                <ul>
+                    
+                            
+                                
+                                    <li><a href="content.aspx?id=Holiday-List">
+                                        Holiday List</a></li>
+                                
+                            
+                        
+                            
+                                
+                                    <li><a href="content.aspx?id=Service-Charges">
+                                        Service Charges</a></li>
+                                
+                            
+                        
+                            
+                                
+                                    <li><a href="content.aspx?id=Interest-Rates">
+                                        Interest Rates</a></li>
+                                
+                            
+                        
+                            
+                                
+                                    <li><a href="emi.aspx?id=EMI-Calculator">
+                                        EMI Calculator</a></li>
+                                
+                            
+                        
+                            
+                                
+                                    <li><a href="Unclaim.aspx">
+                                        Unclaimed Deposits</a></li>
+                                
+                            
+                        
+                            
+                                
+                                    <li><a href="content.aspx?id=Downloads">
+                                        Downloads</a></li>
+                                
+                            
+                        
+                </ul>
+            </div>
+        </div>
+        <!--Help Desk End-->
+        <footer>
+                <div class="container">
+                    <div class="row">
+
+                        <div class="col-lg-5 col-md-5 col-sm-12 col-xs-12">
+                            
+                                    <h4>Mile yahan, Dono Jahan</h4>
+                                    <p>
+                                        </p><p style="text-align:justify">True to its new tag line, "Mile Yahan Dono Jahan", Saraswat Bank is committed to bridging the gap between technology and tradition by bringing to its customers the best of both worlds.</p>
+
+<p>Keeping tradition intact and embracing technology, the Bank has matched strides with India's digital revolution by offering various digital banking services designed to make banking more easy and convenient like mobile banking, internet banking, international VISA EMV and RuPay chip cards, etc. Simultaneously, through its emphasis on personalized attention, the Bank has maintained its personal touch with customers. Agility of the small bank with the ability of the large bank has been Saraswat Bank's enduring heritage new.</p>
+                                    <p></p>
+                                
+                        </div>
+
+                        <div class="col-lg-2 col-md-2 col-sm-4 col-xs-12">
+                            <h4>Get To Know Us</h4>
+                            <ul>
+                                
+                                        <li><a href="navigation.aspx?id=About-Us">About Us</a></li>
+                                    
+                                        <li><a href="ml.aspx?id=Awards-and-Recognition">Awards and Recognition</a></li>
+                                    
+                                        <li><a href="ml.aspx?id=Financial-Results">Financial Results</a></li>
+                                    
+                                        <li><a href="navigation_sp.aspx?id=Regulatory-Disclosures">Regulatory Disclosures</a></li>
+                                    
+                                        <li><a href="csr-activities.aspx?id=Corporate-Social-Responsibility-(CSR)">Corporate Social Responsibility</a></li>
+                                    
+                                        <li><a href="team.aspx?id=Board-of-Directors">Board Of Directors</a></li>
+                                    
+                            </ul>
+                        </div>
+
+                        <div class="col-lg-2 col-md-2 col-sm-4 col-xs-12">
+                            <h4>Stay Connected</h4>
+                            <ul>
+                                
+                                        <li><a href="navigation.aspx?id=Information-Centre">Information Centre</a></li>
+                                    
+                                        <li><a href="media.aspx?id=Media-Centre">Media Centre</a></li>
+                                    
+                                        <li><a href="contact-us.aspx?id=Contact-Us">Contact Us</a></li>
+                                    
+                                        <li><a href="feedback.aspx?id=Feedback">Feedback</a></li>
+                                    
+                                        <li><a href="career_workwithus.aspx?id=Work-With-Us">Careers</a></li>
+                                    
+                                        <li><a href="FAQ.aspx?id=FAQs">FAQ’s</a></li>
+                                    
+                            </ul>
+                            <div class="social">
+                                <h4>Follow Us On:</h4>
+                                
+                                        <a href="https://www.facebook.com/SaraswatBankIndia/" target="_blank">
+                                            <img src="images/social_1.png" title="Facebook" alt="">
+                                        </a>
+                                    
+                                        <a href="https://twitter.com/saraswatbank" target="_blank">
+                                            <img src="images/social_2.png" title="Twitter" alt="">
+                                        </a>
+                                    
+                                        <a href="https://plus.google.com/104633999471434964605" target="_blank">
+                                            <img src="images/social_3.png" title="G+" alt="">
+                                        </a>
+                                    
+                                        <a href="https://www.instagram.com/saraswatbankofficial/" target="_blank">
+                                            <img src="images/instagram-header.png" title="Instagram" alt="">
+                                        </a>
+                                    
+                                        <a href="https://www.youtube.com/SaraswatBankOfficial" target="_blank">
+                                            <img src="images/social_6.png" title="Youtube" alt="">
+                                        </a>
+                                    
+                            </div>
+                        </div>
+                        <div class="col-lg-3 col-md-3 col-sm-4 col-xs-12">
+                            <h4>Contact Saraswat Bank</h4>
+                            
+                                    <p style="text-align:left">  
+                                        <b>Corporate Office</b>
+                                        <br>
+                                       Saraswat Co-operative Bank Limited 
+                                        <br>
+                                     Ekanath Thakur Bhawan 953, Appasaheb Marathe Marg, Prabhadevi. Mumbai- 400 025
+                                        <br>
+                                        Tel:  [+91] (022) 2400 5555
+                                        <br>
+                                        Email:  corporatecenter@saraswatbank.com
+                                    </p>
+                                
+
+                        </div>
+                    </div>
+                    <div class="copyright">
+                        <div class="row">
+                            <div class="col-lg-6 col-md-6 col-sm-12 col-xs-12">
+                                <p>
+                                    <span id="lblCopyright">© 2019 Saraswat Co-operative Bank Ltd. All Rights Reserved.</span>
+                                </p>
+                            </div>
+                            <div class="col-lg-6 col-md-6 col-sm-12 col-xs-12">
+                                <ul>
+                                    
+                                            <li><a href="content.aspx?id=Disclaimer">Disclaimer</a></li>
+                                        
+                                            <li><a href="content.aspx?id=Privacy-Policy">Privacy Policy</a></li>
+                                        
+                                            <li><a href="sitemap.aspx?id=Sitemap">Sitemap</a></li>
+                                        
+                                </ul>
+                            </div>
+                        </div>
+                    </div>
+                    
+                </div>
+            </footer>
+        <!--Footer End-->
+    </div>
+    <!--wsmenucontainer end-->
+    <!--Apply Now-->
+    <div class="modal fade" id="apply_now" tabindex="-1" role="dialog" aria-labelledby="modalLabel" aria-hidden="true">
+        <div class="modal-dialog">
+            <div class="modal-content">
+                <div class="modal-header">
+                    <button type="button" class="close" data-dismiss="modal">
+                        <span aria-hidden="true">x</span><span class="sr-only">Close</span></button>
+                    <h3 class="modal-title" id="lineModalLabel">
+                        Apply for 
+                        <label id="lblLoanName" style="font-weight: 100;">
+                        </label>
+                    </h3>
+                </div>
+                <div class="modal-body">
+                    <!-- content goes here -->
+                    <div class="row">
+                        <div class="col-lg-6 col-md-6 col-sm-6 col-xs-12">
+                            <div class="form-group">
+                                <input type="hidden" name="hiddenValue" id="hiddenValue" value="">
+                                <input type="hidden" name="hiddenValue" id="hidden1" value="">
+                                <input type="hidden" name="hiddenValue" id="hidden2" value="">
+                                <input type="hidden" name="hiddenValue" id="hidden3" value="">
+                                <span><i class="fa fa-user" aria-hidden="true"></i></span>
+                                <input name="ctl00$ctl00$txtName" type="text" maxlength="50" id="txtName" class="form-control" placeholder="Name">
+                                <span id="rfv1" style="color:Red;display:none;">*</span>
+                            </div>
+                        </div>
+                        <div class="col-lg-6 col-md-6 col-sm-6 col-xs-12">
+                            <div class="form-group">
+                                <span><i class="fa fa-phone" aria-hidden="true"></i></span>
+                                <input name="ctl00$ctl00$txtMobile" type="text" maxlength="10" id="txtMobile" class="form-control" placeholder="Mobile" onkeypress="return IsNumeric(event);" ondrop="return false;" onpaste="return false;">
+                                <span id="RequiredFieldValidator4" style="color:Red;display:none;">*</span>
+                            </div>
+                        </div>
+                        <div class="col-lg-6 col-md-6 col-sm-6 col-xs-12">
+                            <div class="form-group">
+                                <span><i class="fa fa-envelope" aria-hidden="true"></i></span>
+                                <input name="ctl00$ctl00$txtEmail" type="text" maxlength="60" id="txtEmail" class="form-control" placeholder="Email">
+                                <span id="RequiredFieldValidator1" style="color:Red;display:none;">*</span>
+                            </div>
+                        </div>
+                        <div class="col-lg-6 col-md-6 col-sm-6 col-xs-12" style="display: none">
+                            <div class="form-group">
+                                <span><i class="fa fa-map-marker" aria-hidden="true"></i></span>
+                                <input name="ctl00$ctl00$txtAddress" type="text" maxlength="100" id="txtAddress" class="form-control" placeholder="Address">
+                            </div>
+                        </div>
+                        <div class="col-lg-6 col-md-6 col-sm-6 col-xs-12">
+                            <div class="form-group">
+                                <span><i class="fa fa-map" aria-hidden="true"></i></span>
+                                <select name="ctl00$ctl00$ddlStateMain" id="ddlStateMain" class="form-control">
+
+</select>
+                                <span id="RequiredFieldValidator3" style="color:Red;display:none;">*</span>
+                            </div>
+                        </div>
+                        <div class="col-lg-6 col-md-6 col-sm-6 col-xs-12">
+                            <div class="form-group">
+                                <span><i class="fa fa-building" aria-hidden="true"></i></span>
+                                <select name="ctl00$ctl00$ddlCityMain" id="ddlCityMain" class="form-control">
+
+</select>
+                                <span id="RequiredFieldValidator5" style="color:Red;display:none;">*</span>
+                            </div>
+                        </div>
+                        <div class="col-lg-6 col-md-6 col-sm-6 col-xs-12">
+                            <div class="form-group">
+                                <span><i class="fa fa-map-marker" aria-hidden="true"></i></span>
+                                <select name="ctl00$ctl00$ddlBranchMain" id="ddlBranchMain" class="form-control">
+
+</select>
+                                <span id="RequiredFieldValidator6" style="color:Red;display:none;">*</span>
+                            </div>
+                        </div>
+                        <div class="col-lg-6 col-md-6 col-sm-6 col-xs-12" style="display: none">
+                            <div class="form-group">
+                                <span><i>
+                                    <img src="images/pin.png" title="" alt=""></i></span>
+                                <input name="ctl00$ctl00$txtPincode" type="text" maxlength="6" id="txtPincode" class="form-control" placeholder="Pincode" onkeypress="return IsNumeric(event);" ondrop="return false;" onpaste="return false;">
+                            </div>
+                        </div>
+                    </div>
+                    <span id="error" style="color: Red; display: none" class="pull-left">* Input digits
+                        (0 - 9)</span>
+                    <span id="rvDigitsssss" class="requiredtext" style="display:none;">Please enter the valid mobile no</span><br>
+
+                                    <div id="dvCaptcha" style="display:none;">
+                                    </div>
+                                    <input name="ctl00$ctl00$txtCaptcha" type="text" id="txtCaptcha" style="display: none;">
+                                    <span id="rfvCaptcha" style="color:Red;display:none;">Captcha validation is required.</span>
+
+                    <a id="btnSubmitForm" class="btn btn-default pull-right" href='javascript:WebForm_DoPostBackWithOptions(new WebForm_PostBackOptions("ctl00$ctl00$btnSubmitForm", "", true, "NA", "", false, true))'>Submit</a><br>
+
+
+                         
+                </div>
+            </div>
+        </div>
+    </div>
+    <!--Apply Now End-->
+    
+<script type="text/javascript">
+//<![CDATA[
+var Page_Validators =  new Array(document.getElementById("MainContent_rpt"), document.getElementById("rfv1"), document.getElementById("RequiredFieldValidator4"), document.getElementById("RequiredFieldValidator1"), document.getElementById("RequiredFieldValidator3"), document.getElementById("RequiredFieldValidator5"), document.getElementById("RequiredFieldValidator6"), document.getElementById("rvDigitsssss"), document.getElementById("rfvCaptcha"));
+//]]>
+</script>
+
+<script type="text/javascript">
+//<![CDATA[
+var MainContent_rpt = document.all ? document.all["MainContent_rpt"] : document.getElementById("MainContent_rpt");
+MainContent_rpt.controltovalidate = "MainContent_txtSearch";
+MainContent_rpt.focusOnError = "t";
+MainContent_rpt.validationGroup = "search";
+MainContent_rpt.evaluationfunction = "RequiredFieldValidatorEvaluateIsValid";
+MainContent_rpt.initialvalue = "";
+var rfv1 = document.all ? document.all["rfv1"] : document.getElementById("rfv1");
+rfv1.controltovalidate = "txtName";
+rfv1.focusOnError = "t";
+rfv1.display = "Dynamic";
+rfv1.validationGroup = "NA";
+rfv1.evaluationfunction = "RequiredFieldValidatorEvaluateIsValid";
+rfv1.initialvalue = "";
+var RequiredFieldValidator4 = document.all ? document.all["RequiredFieldValidator4"] : document.getElementById("RequiredFieldValidator4");
+RequiredFieldValidator4.controltovalidate = "txtMobile";
+RequiredFieldValidator4.focusOnError = "t";
+RequiredFieldValidator4.display = "Dynamic";
+RequiredFieldValidator4.validationGroup = "NA";
+RequiredFieldValidator4.evaluationfunction = "RequiredFieldValidatorEvaluateIsValid";
+RequiredFieldValidator4.initialvalue = "";
+var RequiredFieldValidator1 = document.all ? document.all["RequiredFieldValidator1"] : document.getElementById("RequiredFieldValidator1");
+RequiredFieldValidator1.controltovalidate = "txtEmail";
+RequiredFieldValidator1.focusOnError = "t";
+RequiredFieldValidator1.display = "Dynamic";
+RequiredFieldValidator1.validationGroup = "NA";
+RequiredFieldValidator1.evaluationfunction = "RequiredFieldValidatorEvaluateIsValid";
+RequiredFieldValidator1.initialvalue = "";
+var RequiredFieldValidator3 = document.all ? document.all["RequiredFieldValidator3"] : document.getElementById("RequiredFieldValidator3");
+RequiredFieldValidator3.controltovalidate = "ddlStateMain";
+RequiredFieldValidator3.focusOnError = "t";
+RequiredFieldValidator3.display = "Dynamic";
+RequiredFieldValidator3.validationGroup = "NA";
+RequiredFieldValidator3.evaluationfunction = "RequiredFieldValidatorEvaluateIsValid";
+RequiredFieldValidator3.initialvalue = "Select State";
+var RequiredFieldValidator5 = document.all ? document.all["RequiredFieldValidator5"] : document.getElementById("RequiredFieldValidator5");
+RequiredFieldValidator5.controltovalidate = "ddlCityMain";
+RequiredFieldValidator5.focusOnError = "t";
+RequiredFieldValidator5.display = "Dynamic";
+RequiredFieldValidator5.validationGroup = "NA";
+RequiredFieldValidator5.evaluationfunction = "RequiredFieldValidatorEvaluateIsValid";
+RequiredFieldValidator5.initialvalue = "Select City";
+var RequiredFieldValidator6 = document.all ? document.all["RequiredFieldValidator6"] : document.getElementById("RequiredFieldValidator6");
+RequiredFieldValidator6.controltovalidate = "ddlBranchMain";
+RequiredFieldValidator6.focusOnError = "t";
+RequiredFieldValidator6.display = "Dynamic";
+RequiredFieldValidator6.validationGroup = "NA";
+RequiredFieldValidator6.evaluationfunction = "RequiredFieldValidatorEvaluateIsValid";
+RequiredFieldValidator6.initialvalue = "Select Nearest Branch";
+var rvDigitsssss = document.all ? document.all["rvDigitsssss"] : document.getElementById("rvDigitsssss");
+rvDigitsssss.controltovalidate = "txtMobile";
+rvDigitsssss.errormessage = "Please enter the valid mobile no";
+rvDigitsssss.display = "Dynamic";
+rvDigitsssss.validationGroup = "NA";
+rvDigitsssss.evaluationfunction = "RegularExpressionValidatorEvaluateIsValid";
+rvDigitsssss.validationexpression = "^[0-9]+$";
+var rfvCaptcha = document.all ? document.all["rfvCaptcha"] : document.getElementById("rfvCaptcha");
+rfvCaptcha.controltovalidate = "txtCaptcha";
+rfvCaptcha.focusOnError = "t";
+rfvCaptcha.errormessage = "Captcha validation is required.";
+rfvCaptcha.display = "Dynamic";
+rfvCaptcha.validationGroup = "NA";
+rfvCaptcha.evaluationfunction = "RequiredFieldValidatorEvaluateIsValid";
+rfvCaptcha.initialvalue = "";
+//]]>
+</script>
+
+
+<script type="text/javascript">
+//<![CDATA[
+
+var Page_ValidationActive = false;
+if (typeof(ValidatorOnLoad) == "function") {
+    ValidatorOnLoad();
+}
+
+function ValidatorOnSubmit() {
+    if (Page_ValidationActive) {
+        return ValidatorCommonOnSubmit();
+    }
+    else {
+        return true;
+    }
+}
+        
+document.getElementById('MainContent_rpt').dispose = function() {
+    Array.remove(Page_Validators, document.getElementById('MainContent_rpt'));
+}
+
+document.getElementById('rfv1').dispose = function() {
+    Array.remove(Page_Validators, document.getElementById('rfv1'));
+}
+
+document.getElementById('RequiredFieldValidator4').dispose = function() {
+    Array.remove(Page_Validators, document.getElementById('RequiredFieldValidator4'));
+}
+
+document.getElementById('RequiredFieldValidator1').dispose = function() {
+    Array.remove(Page_Validators, document.getElementById('RequiredFieldValidator1'));
+}
+
+document.getElementById('RequiredFieldValidator3').dispose = function() {
+    Array.remove(Page_Validators, document.getElementById('RequiredFieldValidator3'));
+}
+
+document.getElementById('RequiredFieldValidator5').dispose = function() {
+    Array.remove(Page_Validators, document.getElementById('RequiredFieldValidator5'));
+}
+
+document.getElementById('RequiredFieldValidator6').dispose = function() {
+    Array.remove(Page_Validators, document.getElementById('RequiredFieldValidator6'));
+}
+
+document.getElementById('rvDigitsssss').dispose = function() {
+    Array.remove(Page_Validators, document.getElementById('rvDigitsssss'));
+}
+
+document.getElementById('rfvCaptcha').dispose = function() {
+    Array.remove(Page_Validators, document.getElementById('rfvCaptcha'));
+}
+//]]>
+</script>
+</form>
+    <!--Javascripts-->
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.2.1/jquery.min.js"></script>
+    <script type="text/javascript" src="js/bootstrap.min.js"></script>
+    <script type="text/javascript" src="js/webslidemenu.min.js"></script>
+    <script type="text/javascript" src="html5lightbox.min.js"></script>
+    <!--Goals Tab-->
+    <script>
+        $(document).ready(function () {
+            var navItems = $('.admin-menu li > a');
+            var navListItems = $('.admin-menu li');
+            var allWells = $('.admin-content');
+            var allWellsExceptFirst = $('.admin-content:not(:first)');
+
+            allWellsExceptFirst.hide();
+            navItems.click(function (e) {
+                e.preventDefault();
+                navListItems.removeClass('active');
+                $(this).closest('li').addClass('active');
+
+                allWells.hide();
+                var target = $(this).attr('data-target-id');
+                $('#' + target).show();
+            });
+        });
+    </script>
+    <!--Goals Tab End-->
+    <!--owl.carousel-->
+    <script type="text/javascript" src="js/owl.carousel.min.js"></script>
+    <script>
+        $(document).ready(function () {
+            var owl = $("#owl-demo");
+
+            owl.owlCarousel({
+
+                items: 3, //10 items above 1000px browser width
+                itemsDesktop: [1000, 3], //5 items between 1000px and 901px
+                itemsDesktopSmall: [900, 3], // 3 items betweem 900px and 601px
+                itemsTablet: [600, 2], //2 items between 600 and 0;
+                itemsMobile: false // itemsMobile disabled - inherit from itemsTablet option
+
+            });
+        });
+    </script>
+    <!--owl.carousel END-->
+    <!--Sticky Header-->
+    <script>
+        $(window).scroll(function () {
+            if ($(this).scrollTop() > 1) {
+                $('header').addClass("sticky");
+            }
+            else {
+                $('header').removeClass("sticky");
+            }
+        });
+    </script>
+    <!--Sticky Header End-->
+    <!--Digital Banking -->
+    <script>
+        $(document).ready(function () {
+            $("div.bhoechie-tab-menu>div.list-group>a").click(function (e) {
+                e.preventDefault();
+                $(this).siblings('a.active').removeClass("active");
+                $(this).addClass("active");
+                var index = $(this).index();
+                $("div.bhoechie-tab>div.bhoechie-tab-content").removeClass("active");
+                $("div.bhoechie-tab>div.bhoechie-tab-content").eq(index).addClass("active");
+            });
+        });
+    </script>
+    <!--Digital Banking End-->
+    <script type="text/javascript">
+
+
+        var specialKeys = new Array();
+        specialKeys.push(8); //Backspace
+        function IsNumeric(e) {
+            var keyCode = e.which ? e.which : e.keyCode
+            var ret = ((keyCode >= 48 && keyCode <= 57) || specialKeys.indexOf(keyCode) != -1);
+            document.getElementById("error").style.display = ret ? "none" : "inline";
+            return ret;
+        }
+
+
+    </script>
+    
+
+
+<div id="html5-lightbox" style="display:none;position:absolute;top:0px;left:0px;width:100%;height:100%;z-index:999999999999;"><div id="html5-lightbox-overlay" style="display:block;position:absolute;top:0px;left:0px;width:100%;height:100%;background-color:rgba(0, 0, 0, 0.68);opacity:0.9;filter:alpha(opacity=90);"></div><div id="html5-lightbox-box" style="display:block;position:relative;margin:0px auto;overflow:hidden;"><div id="html5-elem-box" style="display:block;position:relative;margin:0px auto;text-align:center;"><div id="html5-elem-wrap" style="display:block;position:relative;margin:0px auto;text-align:center;background-color:#ffffff;"><div id="html5-loading" style="display:none;position:absolute;top:0px;left:0px;text-align:center;width:100%;height:100%;background:url(&quot;skins/default/loading.gif&quot;) no-repeat center center;"></div><div id="html5-error" class="html5-error" style="display:none;position:absolute;padding:8px;text-align:center;width:280px;height:48px;">The requested content cannot be loaded.<br>Please try again later.</div><div id="html5-image" style="display:none;position:absolute;top:0px;left:0px;padding:8px;text-align:center;"></div></div><div id="html5-next" style="display:none;cursor:pointer;position:absolute;right:8px;top:40%;"><img src="skins/default/next.png"></div><div id="html5-prev" style="display:none;cursor:pointer;position:absolute;left:8px;top:40%;"><img src="skins/default/prev.png"></div></div><div id="html5-elem-data-box" style="display:none;position:relative;width:100%;margin:0px auto;height:36px;background-color:#ffffff;"><div id="html5-text" style="display:block;float:left;overflow:hidden;margin-left:8px;"></div><div id="html5-close" style="display:block;cursor:pointer;float:right;margin-right:8px;"><img src="skins/default/close.png"></div></div><div id="html5-watermark" style="display:none;position:absolute;left:10px;top:10px;"></div></div></div></body></html>
