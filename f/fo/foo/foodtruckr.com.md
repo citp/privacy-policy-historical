@@ -1,222 +1,119 @@
-> *The following text is extracted and transformed from the foodtruckr.com privacy policy that was archived on 2018-01-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180130000117id_/https%3A//foodtruckr.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the foodtruckr.com privacy policy that was archived on 2019-03-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190312072542id_/https%3A//foodtruckr.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy – FoodTruckr | How to Start and Run a Successful Food Truck Business
 
-**Effective Date: April 7, 2015**
+**Effective Date: May 25, 2018**
 
-1\. INTRODUCTION
+We care about how businesses use our information online, so it seems only fair that we disclose our privacy practices to you in easily understood terms.
 
-1.1. PURPOSE OF POLICY. Flynndustries, LLC (“us”, “we,” “Company”) is committed
+**I. Our Valued Customers and Visitors Located In the European Union**
 
-to respecting the privacy rights of visitors and other users of FoodTruckr.com (the
+A. What Personal Data Do We Collect From You?
 
-“Site”). We created this Website Privacy Policy (“Privacy Policy”) to give you insight into
+Personal data is information that can be used to identify you such as your name, IP address, and email address. We process personal data from you in a number of ways including:
 
-our information collection and use practices for people visiting the Site. This Policy is
+(1) Purchases: Your full name, email address, product order details, payment information, and any information you provide in the Mastermind Group discussions should you participate.  
+(2) Customer Service: Your name, email address, and reason for contacting us.  
+(3) Email Subscription: Your email address if you decided to subscribe to our newsletter.
 
-only applicable to the Site, and not to any other websites that you may be able to
+B. What Is The Purpose of Processing Your Personal Data?
 
-access from the Site, each of which may have data collection and use practices and
+We collect the information above for the following purposes.
 
-policies that differ materially from this Policy
+(1) Purchases: Your personal data is used to process payments.  
+(2) Customer Service: Your personal data is used to evaluate your inquiry and provide you with answers.  
+(3) Email Subscription: To deliver information to you regarding the food truck business niche.
 
-1.2. NOTICE CONCERNING CHILDREN. We are a general audience site, and do not
+C. What Legal Basis Do We Have For Collecting and Processing Your Information?
 
-direct any of our content specifically at children under 13 years of age pursuant to the
+Websites must have a legal basis for collecting information from individuals located in the European Union. Our legal basis for each of the ways we process your data is as follows.
 
-Children’s Online Privacy Protection Act of 1998.
+(1) Purchases: We process your data as part of an allowed contractual transaction.  
+(2) Customer Service: A legitimate interest exists for providing you with answers to your questions. When you affirmatively contact us, your expectation is we will use your personal data to reply with an answer and we have a legitimate business interest in providing customers and potential customers with answers to their questions.  
+(3) Email Subscription: We will ask for your consent.
 
-2\. INFORMATION COLLECTION PRACTICES
+D. Who Has Access To The Data We Collect?
 
-2.1. WHAT PERSONALLY IDENTIFIABLE INFORMATION DOES THE COMPANY
+We process and access your data as described above through the help of third parties that have the digital infrastructure that we do not and without whom we would be unable to provide this site including:
 
-COLLECT?
+    • Payment processor  
+    • Email and customer management solution  
+    • Website design and maintenance provider  
+    • Statistics tracker so we can understand how people find the site and what they do with it.
 
-(a) CATEGORIES OF PERSONALLY IDENTIFIABLE INFORMATION. We may
+These third parties have made contractual promises to not use your personal data in any manner we do not authorize.
 
-collect personally identifiable information from you in one of two manners. The first is if
+E. Cookies and Similar Technologies
 
-you provide us with your name and email address while signing up for the free eBooks
+We use cookies to track you. This tracking is done to provide you with ease of use as well as to provide us with information on how people move about the site, what is of interest to them and what is not, and incidental items such as what percentage of users access the site from a personal computer versus a mobile phone. You may block most cookies by adjusting your browser settings as well as responding to the cookie consent notice that appears when you first visit this site. To learn more about this technology, please visit our **Cookie Policy**.
 
-to receive email communications from us. The second is if you write a comment to a
+F. How Long Do We Keep Your Data?
 
-post and list your name, email address and domain.
+We keep your personal data for different periods of time depending on the reason it was gathered in the first place.
 
-(b) PRIVACY POLICY MODIFICATIONS AND UPDATES. If we modify or update this
+(1) Purchases: We keep your payment data via a third party process for as long as you continue to interact with us as a paying member such as in the Mastermind Group. Once this is no longer the case, we will hold your information for an additional four years as part of our tax records should an audit arise.  
+(2) Customer Service: We will hold customer service personal data for a period of four years which covers the statute of limitations should a legal dispute arise between you and us.  
+(3) Email Subscription: A period of 36 months, however, you may opt out at any time by contacting us or clicking the “unsubscribe” link in each email you receive.
 
-privacy policy, we will post a notice on the Site. You will have 30 days from the posting
+G. Your Right To Ask For Corrections, Erasure, And Other Actions
 
-to consider whether you wish to continue accessing and using the Site pursuant to the
+We want you to have control over your data. You have the right to see all the data we have for you, ask for the corrections to the data, ask us to erase the data, object to how we use your data, ask that the data be exported, and ask that we stop automatically processing the data in particular manners. Although we have certain rights to limit your control of data, we believe it is YOUR data so we will liberally comply with your requests whenever possible. We are not a data mining company trying to monetize your personal information. To exercise any of these rights, please contact us using the Contact Form on the site accessible from the menu at the top of the homepage.
 
-updates to the policy. The modifications or updates will not be effective until the 30 day
+H. Your Right To Withdraw Consent
 
-period has passed. After 30 days, your continued use of the Site shall act as an
+We want to emphasize that wherever we’ve asked for your consent to collect or process your personal data, you have the right to withdraw that consent. You can withdraw your consent to receive emails by opting out using the link in each email message or by contacting us.
 
-affirmative acceptance of the new privacy policy, with the updates and modifications
+I. Do We Transfer Your Data To Third Countries?
 
-becoming binding upon you.
+No. We are located in the United States. Your data is collected and held here.
 
-(c) MODIFICATION OR REMOVAL PROCESS. If you wish to remove or modify any
+J. Privacy Concerns, Contacting Us, Complaints.
 
-of your personally identifiable information, please contact us using the Contact link on
+You can contact us with any questions or requests you have about these policies or your personal data by contacting us. If, after contacting us, you feel a privacy issue has not be resolved, you have the right to file a complaint with a Supervisory Authority such as the [Data Protection Commissioner of Ireland](https://www.dataprotection.ie/docs/Home/4.htm).
 
-the menu of the Site. You may also remove your information from any mailings by
+Data Controller  
+Representative: Pat Flynn  
+FoodTruckr, LLC  
+11315 Rancho Bernardo Road, Ste 126  
+San Diego, CA 92127
 
-“opting out” as indicated in the mailing.
+You can contact us by sending a message via our Contact Page or by sending correspondence to: FoodTruckr, LLC, 11315 Rancho Bernardo Road, Ste 126, San Diego, CA 92127
 
-(d) EFFECTIVE DATE: The effective date shall be April 7, 2015.
+**II. For Our Friends Located In California**
 
-(e) DO NOT TRACK SIGNALS. We hereby disclose that we do not currently honor “do not track” signals issued by browsers or other third party sources.
+A. Do Not Track Signals.
 
-(f) THIRD PARTY DISCLOSURE. As a matter of transparency, we’ve decided to
+Pursuant to the California Online Privacy Protection Act, we hereby disclose that we do not currently honor “do not track” signals issued by browsers or other third party sources.
 
-disclose to you whether third parties can acquire and track your personally identifiable
+B. California Eraser Law.
 
-information through our website. Google and other sites listed below can track you
+If you are an individual under 18 and have provided personal information or content to us in some manner, you have the right to request the deletion of that information pursuant to the “California Eraser Law.”  Contact us to make such a request.
 
-through this Site as we use their services for social media and infrastructure purposes.
+**III. For All Our Valued Friends Regardless of Location**
 
-Google participates in the NIA opt out program. You can visit this link
+A. Privacy Policy Modifications and Updates.
 
-[[http://www.networkadvertising.org/choices/#completed](https://www.networkadvertising.org/choices/#completed)] to no longer be tracked by
+We may update and modify this Privacy Policy at any time. In doing so, we will post a notice on the site 30 days before the change goes into effect and forward an email message to you should we have an email address for you. However, you may exercise any rights noted in the new policy before the 30 day period runs and we agree to abide by our obligations as noted in the new policy.
 
-Google and Google properties such as Google Plus. You can also visit the following
+B. Legal Disclosures of Personal Information.
 
-sites to read their privacy policies and how they track individuals across the web:
+We may disclose personal information if required to do so by law or in the good-faith belief that such action is necessary to (1) conform to the edicts of the law or comply with legal process served on us, (2) protect and defend our rights or property or (3) act under exigent circumstances to protect the safety of the public or users of the site.
 
-  * [Facebook](https://www.facebook.com/about/privacy/)
-  * [Twitter](https://twitter.com/privacy)
+C. DMCA Disclosures
 
+We comply with the Digital Millennium Copyright Act of 1998. As part of the compliance process, we may be required to disclose whatever information we have for you to a copyright holder who has submitted a complaint to us as a matter of law.
 
+D. Security Measures
 
-You can use programs such as [Privacy Badger](https://www.eff.org/privacybadger) to further control the collection of information regarding you online.
+We have security measures in place such as Secure Sockets Layer protocols to prevent the loss, misuse, and alteration of the information that we or our vendors obtain from you, but we make no assurances about our ability to prevent any such loss, misuse, to you or to any third party arising out of any such loss, misuse, or alteration. If we suffer a data breach, we will provide you with the appropriate breach notification given jurisdiction and FBI requirements.
 
-(g) California Eraser Law. We comply with the California Eraser Law. If you are under
+E. Third Party Websites.
 
-18 and wish to remove anything you have uploaded to the website, please contact us
+We link to other sites, but please keep in mind that we do not control the privacy policies of those sites. Make sure to review the policies of any such sites before providing your personal information.
 
-using the contact function on FoodTruckr.com. Please note the removal of content does
+F. Sale of Business
 
-not mean that it can’t be found elsewhere on the web. Archive sites and search engines,
+Should we sell this site or our business, your personal information will be an asset transferred to the new owner.
 
-for example, may have copies of the content.
+If you have any questions about this Privacy Policy, please contact us.  
 
-2.2. WHAT ADDITIONAL INFORMATION DOES COMPANY COLLECT?
-
-(a) AUTOMATIC COLLECTION. Our servers automatically recognize visitors’ domain
-
-names and IP addresses (the number assigned to computers on the Internet). No
-
-personal information about you is revealed in this process. The Site may also gather
-
-anonymous “traffic data” that does not personally identify you, but that may be helpful
-
-for marketing purposes or for improving the services we offer.
-
-(b) COOKIES. From time to time, we may use the standard “cookies” feature of major
-
-browser applications that allows us to store a small piece of data on your computer
-
-about your visit to our Site. Cookies help us learn which areas of our Site are useful and
-
-which areas need improvement.
-
-(c) SPONSORS AND ADVERTISERS. We may decide to accept sponsorship and
-
-advertisements on the Site. Should this occur, you should assume said sponsors and
-
-advertisers will be given access to the impressions and click data on their marketing
-
-pieces. Your personally identifiable information will not be revealed.
-
-3\. USE AND SHARING OF INFORMATION
-
-(a) PERSONAL INFORMATION. We will not share your personal information with any
-
-third parties without your consent, except as necessary to provide you with the services
-
-offered by us or to comply with the law. Your personally identifiable information is not
-
-given to third parties that will market to you.
-
-(b) ANONYMOUS INFORMATION. We use anonymous information to analyze our
-
-Site traffic. In addition, we may use anonymous IP addresses to help diagnose
-
-problems with our server, to administer our site, or to display the content according to
-
-your preferences. Traffic and transaction information may also be shared with business
-
-partners and advertisers on an aggregate and anonymous basis.
-
-(c) USE OF COOKIES. We may use cookies to gather information on where you
-
-move about the Site. The purpose of this is to analyze how the Site is performing and
-
-the type of information visitors prefer and do not prefer. We do not use cookies for the
-
-purpose personalizing our own advertising to you or to allow third party advertisers and
-
-partners to do so.
-
-(d) DISCLOSURE OF PERSONAL INFORMATION. We may disclose personal
-
-information if required to do so by law or in the good-faith belief that such action is
-
-necessary to (1) conform to the edicts of the law or comply with legal process served on
-
-Company or its parent company, subsidiaries or affiliates, (2) protect and defend the
-
-rights or property of Company or the users of the Site, or (3) act under exigent
-
-circumstances to protect the safety of the public or users of the Site.
-
-(e) SALE OF INFORMATION. In order to accommodate changes in our business, we
-
-may sell or buy portions of our company or other companies or assets, including the
-
-information collected through this Site. If Company or substantially all of its assets are
-
-acquired by a third party, your personally identifiable information will be one of the
-
-assets transferred to the acquirer.
-
-(f) DMCA CLAIM DISCLOSURES. We comply with the Digital Millennium Copyright
-
-Act of 1998, better known as the “DMCA”. Should we receive a claim of copyright
-
-infringement, we will comply with the safe harbor requirements of the DMCA. Part of
-
-that compliance may require the disclosure of your identity if you are either the allegedly
-
-infringing party or the party filing the copyright infringement complaint.
-
-4\. SECURITY
-
-The Site has reasonable security measures in place to prevent the loss, misuse, and
-
-alteration of the information that we obtain from you, but we make no assurances about
-
-our ability to prevent any such loss to you or to any third party arising out of any such
-
-loss, misuse, or alteration.
-
-5\. WEBSITE AREAS BEYOND COMPANY’S CONTROL
-
-5.1. THIRD PARTY WEBSITES
-
-From time-to-time, the Site may contain links to other websites. If you choose to visit
-
-those websites, it is important to understand our privacy practices and terms of use do
-
-not extend to those sites. It is your responsibility to review the privacy policies at those
-
-websites to confirm that you understand and agree with their practices.
-
-6\. CONTACT INFORMATION AND POLICY UPDATES
-
-6.1. CONTACTING US
-
-If you have any questions about this Policy or our practices related to this Site, please
-
-feel contact us using the “Contact” link on the menu located at the top of the site.
