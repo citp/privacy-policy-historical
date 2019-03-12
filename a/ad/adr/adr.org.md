@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the adr.org privacy policy that was archived on 2018-09-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180923212452id_/https%3A//www.adr.org/PrivacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the adr.org privacy policy that was archived on 2019-03-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190312070639id_/https%3A//www.adr.org/PrivacyPolicy) for the most accurate reproduction.*
 
 # Privacy Policy | ADR.ORG
 
@@ -34,7 +34,7 @@ To "opt-out" of (1) receiving communications from AAA (except for communications
 Requests to review or change Registration Information previously provided on or through certain portions of the Online Services may be made to the AAA by sending an email to the AAA Data Controller at [ _websitemail@adr.org_](mailto:websitemail@adr.org).
 
 **INDIVIDUAL RIGHTS**  
-For data subjects in the EU, it is your right to be informed of and to request a copy of the personal data AAA collects and maintains about you.  AAA also seeks to ensure your personal data is accurate and up-to-date; accordingly, you have a right to rectify or supplement your personal data.  Under certain circumstances, you may also have a right to erase, restrict the processing of, transmit, or object to the processing of your personal data.  If you would like to access, rectify, erase, restrict, transfer, or object to the processing of your personal data, please contact the AAA Data Controller at [websitemail@adr.org](mailto:websitemail@adr.org).
+For data subjects in the EU, it is your right to be informed of and to request a copy of the personal data AAA collects and maintains about you. AAA also seeks to ensure your personal data is accurate and up-to-date; accordingly, you have a right to rectify or supplement your personal data. Under certain circumstances, you may also have a right to erase, restrict the processing of, transmit, or object to the processing of your personal data. If you would like to access, rectify, erase, restrict, transfer, or object to the processing of your personal data, please contact the AAA Data Controller at [ _websitemail@adr.org_](mailto:websitemail@adr.org).
 
 **LINKED SITES  **  
 AAA may provide links to third parties' Web sites ("Linked Sites") from the Portal or the Online Services. Linked Sites are not necessarily reviewed, controlled or examined by AAA in any way and AAA is not responsible for the privacy policies and practices of any such Linked Sites, or any additional links contained therein. These links do not imply AAA's endorsement of or association with the Linked Sites. When leaving the Portal, AAA encourages you to review the applicable Privacy Policies of the Linked Sites.
