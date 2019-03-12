@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the toolguyd.com privacy policy that was archived on 2018-04-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180411114109id_/http%3A//toolguyd.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the toolguyd.com privacy policy that was archived on 2019-03-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190312015557id_/https%3A//toolguyd.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -12,7 +12,7 @@ Your information will not be shared in any way other than in the manner describe
 
 You are required to enter your email address when commenting to an entry or article – this is only done for anti-spam purposes. On rare occasion, ToolGuyd may chose to use this email address to respond to your comment or to contact you on an individual and case by case basis. The email address you enter in the comment form will never be added to any email list. If you are uncomfortable with the idea of submitting your real email address, feel free to make one up.
 
-Should you send us an email directly or via our [contact us](http://toolguyd.com/contact-us) form, we use your email address to direct our reply.
+Should you send us an email directly or via our [contact us](https://toolguyd.com/contact-us) form, we use your email address to direct our reply.
 
 If you subscribe to any of our email lists, your email address will be collected. Your email address will be shared with Google, since we use their Feedburner service to deliver emails to these lists. You may opt-out of such lists at any time.
 
@@ -42,6 +42,6 @@ You can chose to disable or selectively turn off our cookies or third-party cook
 
 While we periodically review the privacy policies of all third parties that may collect information through ToolGuyd via advertisements or provided services, we are not responsible for their privacy policies or how they use the information that they collect.
 
-If you have any questions or concerns about your privacy, please feel free to [contact us](http://toolguyd.com/contact-us/).
+If you have any questions or concerns about your privacy, please feel free to [contact us](https://toolguyd.com/contact-us/).
 
 Updated May 1st, 2012.
