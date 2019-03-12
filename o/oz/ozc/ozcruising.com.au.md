@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ozcruising.com.au privacy policy that was archived on 2018-09-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180904032038id_/https%3A//www.ozcruising.com.au/privacystatement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ozcruising.com.au privacy policy that was archived on 2019-03-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190312040109id_/https%3A//www.ozcruising.com.au/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Ozcruising.com.au
 
