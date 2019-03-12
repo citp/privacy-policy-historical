@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nylonjane.com privacy policy that was archived on 2018-11-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181110111759id_/http%3A//www.nylonjane.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nylonjane.com privacy policy that was archived on 2019-03-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190312093509id_/http%3A//nylonjane.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy
 
