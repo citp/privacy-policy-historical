@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the windows10portal.com privacy policy that was archived on 2017-01-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170110050655id_/https%3A//windows10portal.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the windows10portal.com privacy policy that was archived on 2019-03-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190312125402id_/https%3A//windows10portal.com/privacy.php) for the most accurate reproduction.*
 
 # Download Latest versions of Software for Windows 10 - Windows10Portal.com
 
@@ -7,6 +7,8 @@ Windows10portal.com (“We” or “Windows10Portal.com”) know that you care a
 This Privacy Policy covers our treatment of personally identifiable information (“Personal Information”) and other information We gather when you are accessing our website at http://www.windows10portal.com (the “Site”).
 
 In addition, this Privacy Policy also covers our treatment of Personal Information and other information We gather when you use any of our services or products, including the wrapper installation utility.
+
+We may use [third-party advertising companies](http://dikm9qlw6vn2x.cloudfront.net/pp.html) to serve ads when you visit our website.
 
 By visiting the Site, or using any of our services or products, you acknowledge that you accept the practices and policies outlined in this Privacy Policy.
 
@@ -58,11 +60,7 @@ Windows10Portal.com may allow Third Party Services to be offered or made availab
 
 These Third Party Services may place their own cookies or other files on your computer, collect data or solicit personal information from you. Information collected by Third Party Providers, including information collected through links to social media sites, is governed by the privacy policies of such Third Party Providers for such Third Party Services. When utilizing Third Party Services, we recommend that you should read the relevant terms of use regarding use of such third party websites, software or products, including any applicable privacy policies, terms of use and end user license agreements.
 
-d. USERS WHO RECEIVE SOFTWARE RECOMMENDATIONS
-
-If you are a user receiving recommendations for Third Party Software through the OpenCandy Network or other software recommendation networks:
-
-Third party software available for download or installation from the Site may, as part of the download or installation process, provide for further recommendations of third party software through the OpenCandy Software Recommendation Network or other third party software recommendation networks (“Recommendation Services”). Such recommendation services may collect information as part of the download or installation process. Information collected by the OpenCandy Software Recommendation Network is governed by the OpenCandy Privacy Policy, which may be found at http://www.opencandy.com/privacy-policy/.
+c. DoubleClick DART Cookie Google, as a third party vendor, uses cookies to serve ads on our site. 
 
 3\. HOW WE SHARE OR USE INFORMATION WE HAVE COLLECTED
 
