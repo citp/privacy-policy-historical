@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the adultmatchmaker.com.au privacy policy that was archived on 2018-10-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181030051527id_/http%3A//www.adultmatchmaker.com.au/help/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the adultmatchmaker.com.au privacy policy that was archived on 2019-03-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190312014943id_/https%3A//www.adultmatchmaker.com.au/help/privacy) for the most accurate reproduction.*
 
 # Privacy | Adult Match Maker
 
