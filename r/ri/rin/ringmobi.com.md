@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ringmobi.com privacy policy that was archived on 2018-10-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181022064540id_/https%3A//www.ringmobi.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ringmobi.com privacy policy that was archived on 2019-03-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190312074211id_/https%3A//www.ringmobi.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Ringmobi.com
 
