@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the dronetrest.com privacy policy that was archived on 2018-01-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180122005229id_/https%3A//www.dronetrest.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dronetrest.com privacy policy that was archived on 2019-03-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190312101455id_/https%3A//www.dronetrest.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy - DroneTrest
+# Privacy - DroneTrest
 
 ## What information do we collect?
 
