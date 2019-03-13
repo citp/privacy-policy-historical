@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the zanui.com.au privacy policy that was archived on 2018-09-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180919052152id_/https%3A//www.zanui.com.au/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the zanui.com.au privacy policy that was archived on 2019-03-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190313140535id_/https%3A//www.zanui.com.au/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Zanui
 
