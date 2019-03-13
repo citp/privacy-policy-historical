@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the revouninstaller.com privacy policy that was archived on 2018-10-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181015193511id_/https%3A//www.revouninstaller.com/revo_uninstaller_privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the revouninstaller.com privacy policy that was archived on 2019-03-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190313081914id_/https%3A//www.revouninstaller.com/revo_uninstaller_privacy_policy.html) for the most accurate reproduction.*
 
 # Revo Uninstaller Pro - Privacy Policy
 
@@ -133,7 +133,7 @@ The Controller uses the services of an e-mail service provider to store received
 
 ## VI. USE OF COOKIES
 
-8.1 Individuals can obtain more information about how the Controller uses cookies on the Cookies Policy page at: [cookie policy](https://web.archive.org/web/20181015193511id_/https%3A//www.revouninstaller.com/revo_uninstaller_cookie_policy.html)
+8.1 Individuals can obtain more information about how the Controller uses cookies on the Cookies Policy page at: [cookie policy](https://web.archive.org/web/20190313081914id_/https%3A//www.revouninstaller.com/revo_uninstaller_cookie_policy.html)
 
 ## VII. PURPOSES OF PERSONAL DATA PROCESSING
 
@@ -308,4 +308,4 @@ The Controller uses the services of an e-mail service provider to store received
 **20.1**  If you have additional questions about this Privacy Policy, please do not hesitate to contact the Controller at [support@revouninstaller.com](mailto:support@revouninstaller.com).
 
 We use cookies to improve content and ensure you get the best experience on our website. By continuing to browse our website you agree to our privacy policy.   
-For more information please view our [Privacy & Cookie Policy](https://web.archive.org/web/20181015193511id_/https%3A//www.revouninstaller.com/revo_uninstaller_privacy_policy.html)
+For more information please view our [Privacy & Cookie Policy](https://web.archive.org/web/20190313081914id_/https%3A//www.revouninstaller.com/revo_uninstaller_privacy_policy.html)
