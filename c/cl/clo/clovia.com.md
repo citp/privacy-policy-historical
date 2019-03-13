@@ -1,81 +1,50 @@
-> *The following text is extracted and transformed from the clovia.com privacy policy that was archived on 2017-07-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170707085849id_/https%3A//www.clovia.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the clovia.com privacy policy that was archived on 2019-03-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190313121649id_/https%3A//www.clovia.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy policy - Clovia
+# FAQ Privacy policy - Clovia
 
-###  Privacy Policy _   _
+  * This statement details the privacy practices for Purple Panda Fashions Pvt. Ltd, located at www.clovia.com.
 
-### Purple Panda Fashions Pvt. Ltd. is committed to protecting the privacy of Internet users. _   _
+Questions regarding this statement should be directed to www.clovia.com or by contacting Purple Panda Fashions Pvt. Ltd., G-52, Sector 6, Noida - 201 301 or by calling us at 0120-484-2200 
 
-This statement details the privacy practices for Purple Panda Fashions Pvt. Ltd, located at www.clovia.com.
+  * We collect information from you in several places on this site to provide an efficient, meaningful, and customized experience. For example, we can use your personal information to:
 
-Questions regarding this statement should be directed to www.clovia.com or by contacting Purple Panda Fashions Pvt. Ltd., G-52, Sector 6, Noida - 201 301 or by calling us at 011-39-588-599
+    * Help make this site easier for you to use by not having to enter information more than once.
+    * Help you find information, products, and services quickly.
+    * Help us create content on this site that is most relevant to you.
+    * Send you alerts on new products and services on offer.
+  * Before using certain sections of this site or ordering products, you may be required to complete an online registration form. During registration, you will be prompted to provide to us with certain personal information, including but not limited to your name, size, shipping and billing address(es), phone number and email address. 
 
-_   _ **Information Collection**
+  * We may also ask you to fill in some additional personal information like your anniversary or birth dates, or personal likes and dislikes to be able to service you better. We may also run contests and promotions from time to time to gather this information from our customers. Supplying such information is entirely voluntary.
 
-We collect information from you in several places on this site to provide an efficient, meaningful, and customized experience. For example, we can use your personal information to:
+  * Several locations on the site permit you to enter your email address for purposes including, but not limited to : registering for promotions; requesting us to notify you on particular offers or products, or signing up for our e-mail newsletter and special offers, including contests, which we may run from time to time. Your participation in contests is completely voluntary, so you can choose if you would like to participate and disclose information to us. We use this information to notify contest winners and to award prizes. We may post on our site and social media profiles (facebook, twitter and others) the names and cities of contest winners. 
 
-1: Help make this site easier for you to use by not having to enter information more than once.
+  * To help make our website more responsive to the needs of our visitors, we invoke a standard feature of browser software, called a "cookie", to assign each visitor a unique, random number (a sort of user ID) that resides on your computer. The cookie does not personally identify the visitor as an individual; rather, cookies merely identify the computer that a visitor uses to access our sites. Unless you voluntarily identify yourself (through registration, for example), we will have no way of knowing who you are, even if we assign a cookie to your computer. 
 
-2: Help you find information, products, and services quickly.
-
-3: Help us create content on this site that is most relevant to you.
-
-4: Send you alerts on new products and services on offer.
-
-  
-
-
-**Registration and Ordering -**  
-Before using certain sections of this site or ordering products, you may be required to complete an online registration form. During registration, you will be prompted to provide to us with certain personal information, including but not limited to your name, size, shipping and billing address(es), phone number and email address.
-
-**My Profile Section and Contests and Promotions -**  
-We may also ask you to fill in some additional personal information like your anniversary or birth dates, or personal likes and dislikes to be able to service you better. We may also run contests and promotions from time to time to gather this information from our customers. Supplying such information is entirely voluntary.
-
-**Email Addresses -**  
-Several locations on the site permit you to enter your email address for purposes including, but not limited to : registering for promotions; requesting us to notify you on particular offers or products, or signing up for our e-mail newsletter and special offers, including contests, which we may run from time to time. Your participation in contests is completely voluntary, so you can choose if you would like to participate and disclose information to us. We use this information to notify contest winners and to award prizes. We may post on our site and social media profiles (facebook, twitter and others) the names and cities of contest winners.
-
-**Cookies and Other Technology -**  
-To help make our website more responsive to the needs of our visitors, we invoke a standard feature of browser software, called a "cookie", to assign each visitor a unique, random number (a sort of user ID) that resides on your computer. The cookie does not personally identify the visitor as an individual; rather, cookies merely identify the computer that a visitor uses to access our sites. Unless you voluntarily identify yourself (through registration, for example), we will have no way of knowing who you are, even if we assign a cookie to your computer.
-
-1: Cookies are small pieces of information that are stored as text files by your Internet browser on your computer's hard drive. Most Internet browsers are initially set to accept cookies. You can set your browser to refuse cookies from web sites or to remove cookies from your hard drive, but if you do, you will not be able to access or use portions of this site. We use cookies to enable you to select products and to purchase those products. If you do this, we keep a record of your browsing activity and purchase.
-
-2: Web beacons assist in delivering cookies and help us determine whether a web page on the site has been viewed and, if so, how many times. For example, any electronic image on this site, such as an ad banner, can function as a web beacon.
-
-3: We may use third-party advertising companies to help us tailor site content to users or to serve ads on our behalf. These companies may employ cookies and web beacons to measure advertising effectiveness (such as which web pages are visited or what products are purchased and in what quantities). Our Privacy Policy does not cover any use of information that a third-party advertising company may collect from you. It also does not cover any information that you may choose to provide to them or to an advertiser whose goods or services are advertised through the site.
+    * Cookies are small pieces of information that are stored as text files by your Internet browser on your computer's hard drive. Most Internet browsers are initially set to accept cookies. You can set your browser to refuse cookies from web sites or to remove cookies from your hard drive, but if you do, you will not be able to access or use portions of this site. We use cookies to enable you to select products and to purchase those products. If you do this, we keep a record of your browsing activity and purchase.
+    * Web beacons assist in delivering cookies and help us determine whether a web page on the site has been viewed and, if so, how many times. For example, any electronic image on this site, such as an ad banner, can function as a web beacon.
+    * We may use third-party advertising companies to help us tailor site content to users or to serve ads on our behalf. These companies may employ cookies and web beacons to measure advertising effectiveness (such as which web pages are visited or what products are purchased and in what quantities). Our Privacy Policy does not cover any use of information that a third-party advertising company may collect from you. It also does not cover any information that you may choose to provide to them or to an advertiser whose goods or services are advertised through the site.
 
 If you do not want the benefit of cookies, there is a simple process to manually delete your cookies. Please consult your web browser's Help documentation for more information on this process.
 
-**Log Files -**  
-As is true of most web sites, the site automatically recognizes the Internet URL from which you access it. We may also log your Internet protocol ("IP") address, Internet service provider, and date/time stamp for system administration, order verification, internal marketing, and system troubleshooting purposes. (An IP address may indicate the location of your computer on the Internet.)
+  * As is true of most web sites, the site automatically recognizes the Internet URL from which you access it. We may also log your Internet protocol ("IP") address, Internet service provider, and date/time stamp for system administration, order verification, internal marketing, and system troubleshooting purposes. (An IP address may indicate the location of your computer on the Internet.)
 
-_   _ **Information Use & Disclosure**
+  *   * We may internally use your personal information to improve our site's content and layout, to improve our outreach and for our own marketing efforts (including marketing our services and products to you), and to determine general marketplace information about visitors to this site.
 
- **Internal Use**  
-We may internally use your personal information to improve our site's content and layout, to improve our outreach and for our own marketing efforts (including marketing our services and products to you), and to determine general marketplace information about visitors to this site.
+  * This process permits Clovia to make calls, send sms or/and mailers to its customers anytime of the day to keep them updated with our latest collections, exciting deals and partner offers. We respect your privacy and we abide by our policy to ensure that your details are safe with us. We use your personal information to process and fulfill your orders, to communicate with you regarding your orders and deliveries and to provide you with other client services such as confirmation of orders placed on cash-on-delivery mode. We will use your personal information to communicate with you about our site. Also, we may send you a confirmation email when you register with us. We may send you service-related announcements. Also, you may submit your email address for reasons such as to register for promotions; request we notify you regarding particular offers or products, or sign up for our email newsletter and special offers. If you submit your email address, we use it to deliver this information to you. We always permit you to unsubscribe or opt out of future emails. The ‘Unsubscribe’ link is given in all our promotion emails. However you cannot opt out of receiving emails related to your orders or your membership.
 
-**Communication with You**  
-This process permits Clovia to make calls, send sms or/and mailers to its customers anytime of the day to keep them updated with our latest collections, exciting deals and partner offers. We respect your privacy and we abide by our policy to ensure that your details are safe with us. We use your personal information to process and fulfill your orders, to communicate with you regarding your orders and deliveries and to provide you with other client services such as confirmation of orders placed on cash-on-delivery mode. We will use your personal information to communicate with you about our site. Also, we may send you a confirmation email when you register with us. We may send you service-related announcements. Also, you may submit your email address for reasons such as to register for promotions; request we notify you regarding particular offers or products, or sign up for our email newsletter and special offers. If you submit your email address, we use it to deliver this information to you. We always permit you to unsubscribe or opt out of future emails. The ‘Unsubscribe’ link is given in all our promotion emails. However you cannot opt out of receiving emails related to your orders or your membership.
+  * We aim to provide you with excellent service and to offer you a great selections on our site. We do not sell, rent, trade, license or otherwise disclose your specific personal information or financial information to anyone, except that:
 
-**External Use**  
-We aim to provide you with excellent service and to offer you a great selections on our site. We do not sell, rent, trade, license or otherwise disclose your specific personal information or financial information to anyone, except that:
-
-1: As do most Internet retailers, we use other service providers (such as courier services) to perform specific functions on our behalf. When we disclose information to these service providers, we disclose information to help them to perform their service. In the example of courier services, we provide them some personally identifiable information such as your name, shipping address, email, and phone number.
-
-2: We may be required to disclose your personal information in response to requests from law-enforcement officials conducting investigations; subpoenas; a court order; or if we are otherwise required to disclose such information by law. We also will release personal information where disclosure is necessary to protect our legal rights, enforce our Terms of Use or other agreements, or to protect ourselves or others. For example, we may share information to reduce the risk of fraud or if someone uses or attempts to use our site for illegal reasons or to commit fraud.
-
-3: We may share personal information and non-personal information with entities controlling, controlled by, or under common control with us. In the event that Purple Fashions Panda Pvt Ltd is merged, sold, or in the event of a transfer of some or all of our assets, we may disclose such information in connection with such transactions, subject to the Privacy Policy then in effect.
-
-4: We may share aggregate, non-personal information (such as the number of daily visitors to a particular web page, or the size of an order placed on a certain date) with third parties such as advertising partners. This information does not directly personally identify you or any user.
-
-_   _ **Data Security**
-
-All information gathered by Purple Panda Fashions Pvt. Ltd. is stored securely within a controlled database. The database is stored on servers secured behind a firewall; access to the servers is password-protected and is strictly limited. However, as effective as our security measures are, no security system is impenetrable. We cannot guarantee the security of our database, nor can we guarantee that information you supply will not be intercepted while being transmitted to us over the Internet. And, of course, any information you include in a posting to the discussion areas or on your social media profiles is available to anyone with Internet access. Any information that you share with your friends and others under our ‘share with your friend’ feature or ‘Share your private showcase’ is at your risk. You must responsibly choose whom to share the information with. 
+    * As do most Internet retailers, we use other service providers (such as courier services) to perform specific functions on our behalf. When we disclose information to these service providers, we disclose information to help them to perform their service. In the example of courier services, we provide them some personally identifiable information such as your name, shipping address, email, and phone number.
+    * We may be required to disclose your personal information in response to requests from law-enforcement officials conducting investigations; subpoenas; a court order; or if we are otherwise required to disclose such information by law. We also will release personal information where disclosure is necessary to protect our legal rights, enforce our Terms of Use or other agreements, or to protect ourselves or others. For example, we may share information to reduce the risk of fraud or if someone uses or attempts to use our site for illegal reasons or to commit fraud.
+    * We may share personal information and non-personal information with entities controlling, controlled by, or under common control with us. In the event that Purple Fashions Panda Pvt Ltd is merged, sold, or in the event of a transfer of some or all of our assets, we may disclose such information in connection with such transactions, subject to the Privacy Policy then in effect.
+    * We may share aggregate, non-personal information (such as the number of daily visitors to a particular web page, or the size of an order placed on a certain date) with third parties such as advertising partners. This information does not directly personally identify you or any user. 
+  * All information gathered by Purple Panda Fashions Pvt. Ltd. is stored securely within a controlled database. The database is stored on servers secured behind a firewall; access to the servers is password-protected and is strictly limited. However, as effective as our security measures are, no security system is impenetrable. We cannot guarantee the security of our database, nor can we guarantee that information you supply will not be intercepted while being transmitted to us over the Internet. And, of course, any information you include in a posting to the discussion areas or on your social media profiles is available to anyone with Internet access. Any information that you share with your friends and others under our ‘share with your friend’ feature or ‘Share your private showcase’ is at your risk. You must responsibly choose whom to share the information with.
 
 We use third-party service providers to serve ads on our behalf across the Internet and sometimes on this site. They may collect anonymous information about your visits to our website, and your interaction with our products and services. They may also use information about your visits to this and other websites to target advertisements for goods and services. This anonymous information is collected through the use of a pixel tag, which is industry standard technology used by most major websites. No personally identifiable information is collected or used in this process. They do not know the name, phone number, address, email address, or any personally identifying information about the user.
 
-If you would like more information about this practice and to know your choices about not having this anonymous information used by our third party service provider, please click http://www.networkadvertising.org/managing/opt_out.asp. You can also read more about online marketing practices and the technologies that support them by visiting the Network Advertising Initiative’s website by clicking <http://www.networkadvertising.org/>.
+If you would like more information about this practice and to know your choices about not having this anonymous information used by our third party service provider, please click [http://www.networkadvertising.org/managing/opt_out.asp.](http://www.networkadvertising.org/managing/opt_out.asp) You can also read more about online marketing practices and the technologies that support them by visiting the Network Advertising Initiative’s website by clicking [http://www.networkadvertising.org/.](http://www.networkadvertising.org/)
 
-A note to end on: The Web is an evolving medium. If we need to change our privacy policy at some point in the future, we'll post the changes before they take effect. Of course, our use of any information we gather will always be consistent with the policy under which the information was collected, regardless of what the new policy may be. The above given privacy statement is effective as of 10.01.2013.
+A note to end on: The Web is an evolving medium. If we need to change our privacy policy at some point in the future, we'll post the changes before they take effect. Of course, our use of any information we gather will always be consistent with the policy under which the information was collected, regardless of what the new policy may be. The above given privacy statement is effective as of 10.01.2013. 
 
-  
+
 
