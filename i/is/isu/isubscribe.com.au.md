@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the isubscribe.com.au privacy policy that was archived on 2018-09-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180904033757id_/https%3A//www.isubscribe.com.au/privacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the isubscribe.com.au privacy policy that was archived on 2019-03-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190313140400id_/https%3A//www.isubscribe.com.au/privacy.cfm) for the most accurate reproduction.*
 
 # Privacy Policy - isubscribe.com.au
 
