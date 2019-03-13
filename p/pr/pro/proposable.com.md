@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the proposable.com privacy policy that was archived on 2016-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161201111911id_/https%3A//proposable.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the proposable.com privacy policy that was archived on 2019-03-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190313111328id_/https%3A//proposable.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy : Proposal Software & Free Proposal Templates : Proposable
+# Privacy Policy : Proposable
 
 ##  Information Practices 
 
