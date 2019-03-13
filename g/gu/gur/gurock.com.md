@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gurock.com privacy policy that was archived on 2018-07-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180727011735id_/https%3A//www.gurock.com/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gurock.com privacy policy that was archived on 2019-03-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190313214700id_/https%3A//www.gurock.com/about/privacy) for the most accurate reproduction.*
 
 # Gurock Software's Privacy Policy
 
@@ -6,7 +6,7 @@
 
 Gurock Software GmbH ("Gurock") is committed to respecting and protecting the privacy of our customers, partners, webinars attendees and website visitors. Specifically, we do not sell, rent or trade email lists with other companies for marketing purposes. In this Privacy Statement we describe Gurock's privacy practices in relation to the use of Gurock Website (as defined below) and the related applications, services, products and programs offered by Gurock (collectively, "Services"), as well as individuals’ choices regarding use, access and correction of personal information.
 
-If you have questions or complaints regarding Gurock’s Privacy Statement or associated practices, please contact us at [compliance@gurock.io](mailto:compliance@gurock.io).
+If you have questions or complaints regarding Gurock’s Privacy Statement or associated practices, please contact us at [compliance@gurock.io](mailto:%20compliance@gurock.io).
 
 This Privacy Statement covers the information practices, including how Gurock collects, uses, shares and secures the personal information you provide to its website (the "Gurock Website").
 
@@ -82,7 +82,7 @@ The following sets out how Gurock uses different categories of cookies.
 
 ## Required Cookies: 
 
-Required cookies enable you to navigate Gurock Website and use its features, such as accessing secure areas of the website and using Gurock Services. If you have chosen to identify yourself to Gurock, Gurock may place on your browser cookies containing an encrypted, unique identifier. These cookies allow Gurock to uniquely identify you when you are logged into Gurock Website and Services and to process your online transactions and requests.
+Required cookies enable you to navigate Gurock Website and use its features, such as accessing secure areas of the website and using Gurock Services. If you have chosen to identify yourself to Gurock, Gurock may place on your browser cookies containing an encrypted, unique identifier. These cookies allow Gurock to uniquely identify you when you are logged into Gurock Website and Services and to process your online transactions and requests. 
 
 ## Functionality Cookies: 
 
@@ -90,9 +90,9 @@ Functionality cookies allow Gurock Website and Services to remember information 
 
 Functional cookies may also be used to improve how Gurock Website and Services function and perform, to enhance and customize your interactions with Gurock, and to help us provide you with more relevant messages, including marketing communications. These cookies collect information about how website visitors use our Website and Services, including which pages visitors go to most often and if they receive error messages from certain pages.
 
-Gurock may use its own technology (under Gurock brand name or an affiliated brand name) or third parties to track and analyze usage and volume statistical information from website visitors, attendees, and customers, to provide enhanced interactions and more relevant communications, and to track the performance of Gurock's advertisements. Gurock and its third-party partners may also utilize HTML5 local storage or Flash cookies for these purposes. Flash cookies and HTML local storage are different from browser cookies because of the amount of, type of, and how data is stored. Gurock also uses Flash cookies, to store your preferences or display content based upon what you view on Gurock Website and Services to personalize your visit.
+Gurock may use its own technology (under Gurock brand name or an affiliated brand name) or third parties to track and analyze usage and volume statistical information from website visitors, attendees, and customers, to provide enhanced interactions and more relevant communications, and to track the performance of Gurock's advertisements. Gurock and its third-party partners may also utilize HTML5 local storage or Flash cookies for these purposes. Flash cookies and HTML local storage are different from browser cookies because of the amount of, type of, and how data is stored. Gurock also uses Flash cookies, to store your preferences or display content based upon what you view on Gurock Website and Services to personalize your visit. 
 
-## Targeting or Advertising Cookies:
+## Targeting or Advertising Cookies: 
 
 Gurock sometimes uses cookies delivered by third parties to show you ads for Gurock products and services that we think may interest you on any devices you may use and to track the performance of Gurock advertisements.  For example, in these cases, cookies remember information such as which browsers have visited Gurock Website. The information provided to third parties does not include personal information, but this information may be re-associated with personal information after Gurock receives it. If Gurock is using one of its own cookie-related products on our own Website, then a cookie related to ads may appear on our Website under Gurock or one of our affiliated Gurock's name.
 
@@ -108,13 +108,13 @@ Gurock primarily stores Data about Gurock’s customers and Data about webinars 
 
 Gurock may retain your information for a period of time consistent with the original business purpose of collection. For example, we may retain your information during the time in which you have an account to use our Website or Services and for a reasonable period of time afterward. We may also retain your information during the period of time needed for Gurock to pursue our legitim business interest, conduct audits, comply with our legal obligations, resolve disputes and enforce our agreements.
 
-You may request to review, correct, delete or otherwise modify any of the personal information that you have previously provided to us through Gurock Website and Services. If you have registered for an account with Gurock, you may generally update your user settings, profile, organization’s settings or event registration by logging into the applicable website or Services with your username and password and editing your settings or profile. For other requests to access, correct, modify or delete your Data, please email [compliance@gurock.io](mailto:compliance@gurock.io) and we will assist you. Requests to access, change, or delete your information will be addresses within a reasonable timeframe.
+You may request to review, correct, delete or otherwise modify any of the personal information that you have previously provided to us through Gurock Website and Services. If you have registered for an account with Gurock, you may generally update your user settings, profile, organization’s settings or event registration by logging into the applicable website or Services with your username and password and editing your settings or profile. For other requests to access, correct, modify or delete your Data, please email [compliance@gurock.io](mailto:%20compliance@gurock.io) and we will assist you. Requests to access, change, or delete your information will be addresses within a reasonable timeframe.
 
 You may manage your receipt of marketing and non-transactional communications by clicking on the “unsubscribe” link located on the bottom of Gurock’s marketing emails. Additionally, you may unsubscribe by contacting us at any time using the form on our GDPR page [here](https://web.archive.org/about/gdpr/). 
 
 Gurock reserves the right to change this Privacy Statement from time to time. Gurock will provide notification of the material changes to this Privacy Statement through Gurock Website at least thirty (30) days prior to the change taking effect.
 
-Questions about this Privacy Statement or the information practices of Gurock Website and Services should be directed to our privacy team by [filling out this form](http://www.gurock.com/about/gdpr) or by emailing us at [compliance@gurock.io](mailto:compliance@gurock.io) or by mailing us at:
+Questions about this Privacy Statement or the information practices of Gurock Website and Services should be directed to our privacy team by [filling out this form](https://web.archive.org/about/gdpr) or by emailing us at [compliance@gurock.io](mailto:%20compliance@gurock.io) or by mailing us at: 
 
 Gurock Software GmbH  
 Attn: Legal Department  
@@ -122,11 +122,11 @@ Südliche Ringstraße 175
 63225 Langen, Germany  
 
 
-This website uses the Google AdWords and its remarketing service to advertise on third party websites (including Google) to previous visitors to our site. It could mean that we advertise to previous visitors who haven't completed a task on our site, for example using the contact form to make an enquiry. This could be in the form of an advertisement on the Google search results page, or a site in the Google Display Network.
+This website uses the Google AdWords and its remarketing service to advertise on third party websites (including Google) to previous visitors to our site. It could mean that we advertise to previous visitors who haven't completed a task on our site, for example using the contact form to make an enquiry. This could be in the form of an advertisement on the Google search results page, or a site in the Google Display Network. 
 
-Third-party vendors, including Google, use cookies to serve ads based on someone's past visits to the Gurock Software website. Of course, any data collected will be used in accordance with our own privacy policy and Google's privacy policy. If you would like to opt out of Google cookie based advertising, please visit Google's [Ads Settings](http://www.google.com/settings/ads).
+Third-party vendors, including Google, use cookies to serve ads based on someone's past visits to the Gurock Software website. Of course, any data collected will be used in accordance with our own privacy policy and Google's privacy policy. If you would like to opt out of Google cookie based advertising, please visit Google's [Ads Settings](http://www.google.com/settings/ads). 
 
-We use Google Analytics to improve the content of our website. Google Germany requires us to mention the following paragraph, intended for German visitors to learn more about how Google Analytics processes the collected data.
+We use Google Analytics to improve the content of our website. Google Germany requires us to mention the following paragraph, intended for German visitors to learn more about how Google Analytics processes the collected data. 
     
     
     Diese Website benutzt Google Analytics, einen Webanalysedienst der Google Inc. 
