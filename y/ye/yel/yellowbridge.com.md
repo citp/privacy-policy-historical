@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the yellowbridge.com privacy policy that was archived on 2018-08-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180819181909id_/https%3A//yellowbridge.com/general/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the yellowbridge.com privacy policy that was archived on 2019-03-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190313043142id_/https%3A//www.yellowbridge.com/general/privacy.php) for the most accurate reproduction.*
 
 # YellowBridge Privacy Policy
 
