@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the linksysinfo.org privacy policy that was archived on 2018-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181224105652id_/http%3A//linksysinfo.org/index.php%3Fhelp/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the linksysinfo.org privacy policy that was archived on 2019-03-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190313202343id_/https%3A//www.linksysinfo.org/index.php%3Fhelp/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | LinksysInfo.org
 
-We are LinksysInfo.org ("we", "our", "us"). We’re committed to protecting and respecting your privacy. If you have questions about your personal information please [contact us](https://web.archive.org/web/20181224105652id_/http%3A//linksysinfo.org/index.php%3Fhelp/index.php?misc/contact).
+We are LinksysInfo.org ("we", "our", "us"). We’re committed to protecting and respecting your privacy. If you have questions about your personal information please [contact us](https://web.archive.org/web/20190313202343id_/https%3A//www.linksysinfo.org/index.php%3Fhelp/index.php?misc/contact).
 
 ## What information we hold about you
 
@@ -49,13 +49,13 @@ We are committed to ensuring that any information you provide to us is secure. I
 
 Cookies are small text files which are set by us on your computer which allow us to provide certain functionality on our site, such as being able to log in, or remembering certain preferences.
 
-We have a detailed cookie policy and more information about the cookies that we set on [this page](https://web.archive.org/web/20181224105652id_/http%3A//linksysinfo.org/index.php%3Fhelp/index.php?help/cookies).
+We have a detailed cookie policy and more information about the cookies that we set on [this page](https://web.archive.org/web/20190313202343id_/https%3A//www.linksysinfo.org/index.php%3Fhelp/index.php?help/cookies).
 
 ## Rights
 
-You have a right to access the personal data we hold about you or obtain a copy of it. To do so please [contact us](https://web.archive.org/web/20181224105652id_/http%3A//linksysinfo.org/index.php%3Fhelp/index.php?misc/contact). If you believe that the information we hold for you is incomplete or inaccurate, you may [contact us](https://web.archive.org/web/20181224105652id_/http%3A//linksysinfo.org/index.php%3Fhelp/index.php?misc/contact) to ask us to complete or correct that information.
+You have a right to access the personal data we hold about you or obtain a copy of it. To do so please [contact us](https://web.archive.org/web/20190313202343id_/https%3A//www.linksysinfo.org/index.php%3Fhelp/index.php?misc/contact). If you believe that the information we hold for you is incomplete or inaccurate, you may [contact us](https://web.archive.org/web/20190313202343id_/https%3A//www.linksysinfo.org/index.php%3Fhelp/index.php?misc/contact) to ask us to complete or correct that information.
 
-You also have the right to request the erasure of your personal data. Please [contact us](https://web.archive.org/web/20181224105652id_/http%3A//linksysinfo.org/index.php%3Fhelp/index.php?misc/contact) if you would like us to remove your personal data.
+You also have the right to request the erasure of your personal data. Please [contact us](https://web.archive.org/web/20190313202343id_/https%3A//www.linksysinfo.org/index.php%3Fhelp/index.php?misc/contact) if you would like us to remove your personal data.
 
 ## Acceptance of this policy
 
