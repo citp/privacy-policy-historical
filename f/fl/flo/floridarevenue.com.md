@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the floridarevenue.com privacy policy that was archived on 2018-10-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181022100605id_/http%3A//floridarevenue.com/Pages/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the floridarevenue.com privacy policy that was archived on 2019-03-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190313123617id_/http%3A//floridarevenue.com/Pages/privacy.aspx) for the most accurate reproduction.*
 
 # Florida Dept. of Revenue - Privacy Notice
 
