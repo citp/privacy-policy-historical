@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the learnmmd.com privacy policy that was archived on 2018-10-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181018004456id_/https%3A//learnmmd.com/about/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the learnmmd.com privacy policy that was archived on 2019-03-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190313011417id_/https%3A//learnmmd.com/about/privacypolicy) for the most accurate reproduction.*
 
 # Privacy Policy - LearnMMD.com
 
