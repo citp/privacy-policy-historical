@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the skylinesaustralia.com privacy policy that was archived on 2018-09-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180903213522id_/https%3A//www.sau.com.au/forums/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the skylinesaustralia.com privacy policy that was archived on 2019-03-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190313202835id_/https%3A//www.sau.com.au/forums/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - SAU Community
 
