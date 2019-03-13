@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mobilefish.com privacy policy that was archived on 2018-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180611172143id_/https%3A//www.mobilefish.com/legal/privacy/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mobilefish.com privacy policy that was archived on 2019-03-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190313045011id_/https%3A//www.mobilefish.com/legal/privacy/privacy.html) for the most accurate reproduction.*
 
 # Mobilefish.com - Information about privacy policy.
 
