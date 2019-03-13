@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pass4sure.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606014916id_/http%3A//www.pass4sure.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pass4sure.com privacy policy that was archived on 2019-03-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190313115258id_/https%3A//www.pass4sure.com/privacy.php) for the most accurate reproduction.*
 
 # Pass4sure.com Privacy Policy
 
@@ -8,13 +8,13 @@ _In the following parts, we will show you how your data is collected and used._
 
 _**Where Can Privacy Notice be used?**_
 
-This privacy notice informs how Pass4sure deals with the personal identification information and other personal identification information shared by the business companies when visitors visit [www.pass4sure.com](http://www.pass4sure.com/) and its server.
+This privacy notice informs how Pass4sure deals with the personal identification information and other personal identification information shared by the business companies when visitors visit [www.pass4sure.com](https://www.pass4sure.com/) and its server.
 
 When you are registered to be a member of Pass4sure, it means that we can use your information according to this privacy notice.
 
 #### User E-mail and Password
 
-You are required to fill in your e-mail addresss and password when you register at Pass4sure. The only one thing that matters when you log in is your password. Your registered E-mail is your username when you log in at [http://www.pass4sure.com](http://www.pass4sure.com/). Please use an e-mail address which is effective so we can keep in touch with you. 
+You are required to fill in your e-mail addresss and password when you register at Pass4sure. The only one thing that matters when you log in is your password. Your registered E-mail is your username when you log in at [http://www.pass4sure.com](https://www.pass4sure.com/). Please use an e-mail address which is effective so we can keep in touch with you. 
 
   * You can change your password once you have logged in Pass4sure Member's Area.
   * If you forget your password, you may lose your account and your personal identification information. 
@@ -93,7 +93,7 @@ Pass4sure has a remarkable Candidate Success record. We're confident of our prod
 
 ##### Who Chooses Pass4sure
 
-Pass4sure is the world's largest certification preparation company with **99.3%** Pass Rate History from **176945+** Satisfied Customers in **145** Countries.
+Pass4sure is the world's largest certification preparation company with **99.3%** Pass Rate History from **189448+** Satisfied Customers in **145** Countries.
 
 ##### Secure Shopping Experience
 
