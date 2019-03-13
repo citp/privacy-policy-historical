@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the walyou.com privacy policy that was archived on 2018-10-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181005190051id_/http%3A//walyou.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the walyou.com privacy policy that was archived on 2019-03-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190313080917id_/https%3A//walyou.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Walyou
+# Privacy Policy - Walyou
 
 **Walyou Privacy & Cookie Policy**
 
