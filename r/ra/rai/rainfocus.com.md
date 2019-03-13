@@ -1,9 +1,9 @@
-> *The following text is extracted and transformed from the rainfocus.com privacy policy that was archived on 2018-07-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180730221138id_/https%3A//static.rainfocus.com/rainfocus/public/rainfocus-privacy-policy.pdf) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rainfocus.com privacy policy that was archived on 2019-03-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190313220911id_/https%3A//static.rainfocus.com/rainfocus/public/rainfocus-privacy-policy.pdf) for the most accurate reproduction.*
 
 # Privacy Policy
 
                                          Privacy Policy
-Last updated: May 24, 2018
+Last updated: Dec 19, 2018
 Scope of this Policy
 RainFocus, Inc. (the “Company” or “We”) understands you care how information about you is
 collected and used. RainFocus is committed to protecting the privacy of individuals who
@@ -381,8 +381,8 @@ address for you, and for periodically visiting this website and this privacy pol
 changes.
 Contact Information
 To ask questions or comment about this privacy policy and our privacy practices, contact us at:
-357 South 670 West
-Suite 150
-Lindon, UT, 84042
+1633 West Innovation Way
+Suite 100
+Lehi, UT, 84043
 dataprivacy@rainfocus.com
 650-684-7363
