@@ -1,12 +1,10 @@
-> *The following text is extracted and transformed from the asoftmurmur.com privacy policy that was archived on 2017-09-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170902071015id_/https%3A//asoftmurmur.com/docs/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the asoftmurmur.com privacy policy that was archived on 2019-03-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190313022250id_/https%3A//asoftmurmur.com/docs/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
-Polarised Light Ltd ("we/us/our") are committed to protecting and respecting your privacy.
+Sleepy Rabbit LLC ("we/us/our") are committed to protecting and respecting your privacy.
 
 This policy (together with our end user licence agreement and any other documents referred to on it) sets out the basis on which any personal data we collect from you, or that you provide to us, will be processed by us. Please read the following carefully to understand our views and practices regarding your personal data and how we will treat it.
-
-For the purpose of the Data Protection Act 1998 (the Act), the data controller is Polarised Light Ltd, a company incorporated in Scotland (registered number SC548373) with registered office at 32 Grange Road, Edinburgh, Scotland, EH9 1UL. 
 
 ### Information we may collect from you
 
@@ -56,20 +54,16 @@ We may disclose your personal information to any member of our group, which mean
 We may disclose your personal information to third parties:
 
   * In the event that we sell or buy any business or assets, in which case we may disclose your personal data to the prospective seller or buyer of such business or assets.
-  * If Polarised Light Ltd or substantially all of its assets are acquired by a third party, in which case personal data held by it about its customers will be one of the transferred assets.
-  * If we are under a duty to disclose or share your personal data in order to comply with any legal obligation, or in order to enforce or apply our terms of use and other agreements; or to protect the rights, property, or safety of Polarised Light Ltd, our customers, or others. This includes exchanging information with other companies and organisations for the purposes of fraud protection and credit risk reduction.
+  * If Sleepy Rabbit LLC or substantially all of its assets are acquired by a third party, in which case personal data held by it about its customers will be one of the transferred assets.
+  * If we are under a duty to disclose or share your personal data in order to comply with any legal obligation, or in order to enforce or apply our terms of use and other agreements; or to protect the rights, property, or safety of Sleepy Rabbit LLC, our customers, or others. This includes exchanging information with other companies and organisations for the purposes of fraud protection and credit risk reduction.
 
 
 
 ### Your rights
 
-You have the right to ask us not to process your personal data for marketing purposes. We will usually inform you (before collecting your data) if we intend to use your data for such purposes or if we intend to disclose your information to any third party for such purposes. You can exercise your right to prevent such processing at any time by contacting us at [contact@polarisedlight.com](mailto:contact@polarisedlight.com).
+You have the right to ask us not to process your personal data for marketing purposes. We will usually inform you (before collecting your data) if we intend to use your data for such purposes or if we intend to disclose your information to any third party for such purposes. You can exercise your right to prevent such processing at any time by contacting us at [gabriel@asoftmurmur.com](mailto:gabriel@asoftmurmur.com).
 
 Our site may, from time to time, contain links to and from the websites of our partner networks, advertisers and affiliates. If you follow a link to any of these websites, please note that these websites have their own privacy policies and that we do not accept any responsibility or liability for these policies. Please check these policies before you submit any personal data to these websites.
-
-### Access to information
-
-The Act gives you the right to access information held about you. Your right of access can be exercised in accordance with the Act. Any access request may be subject to a fee of £10 to meet our costs in providing you with details of the information we hold about you.
 
 ### Changes to our privacy policy
 
@@ -77,4 +71,4 @@ Any changes we may make to our privacy policy in the future will be posted on th
 
 ### Contact
 
-Questions, comments and requests regarding this privacy policy are welcomed and should be addressed to [contact@polarisedlight.com](mailto:contact@polarisedlight.com).
+Questions, comments and requests regarding this privacy policy are welcomed and should be addressed to [gabriel@asoftmurmur.com](mailto:gabriel@asoftmurmur.com).
