@@ -1,16 +1,16 @@
-> *The following text is extracted and transformed from the esuperfund.com.au privacy policy that was archived on 2018-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180315203335id_/https%3A//www.esuperfund.com.au/disclosures/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the esuperfund.com.au privacy policy that was archived on 2019-03-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190313074303id_/https%3A//www.esuperfund.com.au/disclosures/privacy-statement) for the most accurate reproduction.*
 
 # Privacy Statement | ESUPERFUND
 
 The purpose of the Privacy Policy is to explain how ESUPERFUND collects, maintains, uses and discloses your personal information. It also states how this information is used, updated and made available to those parties eligible to access it. It provides some detail about the rights that clients have in respect of their personal information. For the purpose of this Privacy Policy, any reference to "ESUPERFUND", "we", "us" or "our" refers to ESUPERFUND Pty Ltd (AFSL 340762) in its capacity as Trustee of the ESUPERFUND Trust (ABN 37 842 535 715) and other related companies. At ESUPERFUND, we are committed to ensuring the confidentiality and security of your personal information. We are bound by the Privacy Act 1988, including the Australian Privacy Principles (APPs) set out in the Act, to ensure we meet our requirements in our dealings with you.
 
-This Privacy Policy was last updated in December 2014.
+This Privacy Policy was last updated in June 2018.
 
 ##  Collection of Personal Information 
 
-You provide ESUPERFUND with your personal information when you ask for information about ESUPERFUND's services, when you access and use the ESUPERFUND website and its affiliated websites, and/or when you submit an application with ESUPERFUND.
+You provide ESUPERFUND with your personal information when you ask for information about ESUPERFUND's services, when you access and use the ESUPERFUND website and its affiliated websites, the ESUPERFUND Mobile App, and/or when you submit an application with ESUPERFUND.
 
-By using and accessing this website or by submitting an application with ESUPERFUND, you have consented to ESUPERFUND collecting, maintaining, using and disclosing personal information about you and provided by you or by another person as described below.
+By using and accessing this website and the mobile app or by submitting an application with ESUPERFUND, you have consented to ESUPERFUND collecting, maintaining, using and disclosing personal information about you and provided by you or by another person as described below.
 
 In most cases, we collect personal information about you directly from you. However, in some cases if you give us personal information about another person, you represent that you are authorised to do so and agree to inform that person who we are, that we will use and disclose that information for the relevant purposes set out below, and that they can access the information we hold about them.
 
@@ -28,7 +28,7 @@ The information requested in any application completed by you is required to ena
 
 The general rule is that we will not use or disclose your personal information other than for the purposes stated at the time of the collection. If we want to use your personal information for another purpose, we will seek further consent from you, unless that other purpose is related to one of the original purposes of collection and you would reasonably expect us to use your personal information for that other purpose.
 
-It may be necessary for ESUPERFUND to disclose your information to our representatives, employees, agents and affiliates for the purpose of providing services to ESUPERFUND. Our representatives, employees, agents and affiliates who have access to personal data obtained through the ESUPERFUND website are obliged to respect privacy.
+It may be necessary for ESUPERFUND to disclose your information to our representatives, employees, agents and affiliates for the purpose of providing services to ESUPERFUND. Our representatives, employees, agents and affiliates who have access to personal data obtained through the ESUPERFUND website and the ESUPERFUND Mobile App are obliged to respect privacy.
 
 Personal information will only be disclosed to third parties other than those we have specifically identified if you have consented to the disclosure; if you would reasonably expect us to disclose information of that kind to those third parties; if we are authorised or required to do so by law; or it is necessary to assist with law enforcement. For example, we may disclose your information to governmental agencies or entities, regulatory authorities, or other persons in line with applicable rules, official requests, orders, subpoenas or similar processes as either required or permitted by applicable law.
 
@@ -38,7 +38,7 @@ ESUPERFUND takes all reasonable steps to protect your personal information from 
 
 ##  Marketing 
 
-By accessing this website you consent to us sending commercial electronic messages (including messages about our products and services) to any electronic address which you provide or for which you are responsible. You warrant that you have authority, either as or on behalf of the electronic account holder, to provide this consent and agree that until you withdraw your consent by providing written notice to us or using an unsubscribe facility in the message, we may continue to send commercial electronic messages to those addresses.
+By accessing this website and the mobile app you consent to us sending commercial electronic messages (including messages about our products and services) to any electronic address which you provide or for which you are responsible. You warrant that you have authority, either as or on behalf of the electronic account holder, to provide this consent and agree that until you withdraw your consent by providing written notice to us or using an unsubscribe facility in the message, we may continue to send commercial electronic messages to those addresses.
 
 ##  Access to and update your personal information 
 
@@ -60,13 +60,15 @@ If a complaint is not resolved by ESUPERFUND to your satisfaction, you may acces
 
 We take steps to protect your personal information from misuse, loss and interference. We also protect it from unauthorised access, modification, disclosure.
 
+You are responsible for maintaining the confidentiality and security of your ESUPERFUND Client Portal Login details. You agree to notify ESUPERFUND immediately of any unauthorised use of your login details or other breaches of security. ESUPERFUND is not responsible for any loss or damage for unauthorised use of your login details or other breaches of security where you have not notified ESUPERFUND of such use or breaches.
+
 We keep your personal information on our computer databases which are held in Australia. All computer-based information is accessible to authorised personnel only and is protected by the use of access passwords.
 
 If we no longer require your personal information for a purpose, for example, to manage your financial product or provide you with a financial service, then we will take reasonable steps to securely destroy it or permanently remove all identifying features from that information.
 
 ##  Use of internet cookies 
 
-We collect statistical information about visitors to our websites such as the number of visitors, pages viewed, types of transactions conducted, time online and documents downloaded. This information is used to evaluate and improve the performance of our websites. Other than statistical information, we do not collect any information about you through our website unless you provide the information to us. We do not store any of your personal details when we do this.
+We collect statistical information about visitors to our websites and our mobile app such as the number of visitors, pages viewed, types of transactions conducted, time online and documents downloaded. This information is used to evaluate and improve the performance of our websites and our mobile app. Other than statistical information, we do not collect any information about you through our website or our mobile app unless you provide the information to us. We do not store any of your personal details when we do this.
 
 You should also be aware that we use cookies on our websites. A cookie is a small amount of data, which often includes a unique identification number or value that is sent to your browser from a website's computer and stored on your computer's hard drive. Each website can send its own cookies to your browser if your browser allows it. However, to protect your privacy, your browser only allows a website to access the cookies it has sent to your computer.
 
