@@ -1,16 +1,16 @@
-> *The following text is extracted and transformed from the mailstore.com privacy policy that was archived on 2018-09-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180910180557id_/https%3A//www.mailstore.com/en/legal/legal-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mailstore.com privacy policy that was archived on 2019-03-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190313020806id_/https%3A//www.mailstore.com/en/legal/legal-privacy-policy) for the most accurate reproduction.*
 
 # MailStore Privacy Notice
 
 _Last updated: 24/05/2018_
 
-MailStore Software GmbH, Viersen, Germany (“we” or “MailStore”) respects your right to privacy. This Privacy Notice explains who we are, how we collect, share and use personal information about you, and how you can exercise your privacy rights. This Privacy Notice only applies to personal information that we collect through our website at www.mailstore.com, help.mailstore.com, cs.mailstore.com and my.mailstore.com ( **“Website”** ), or otherwise in the course of providing our products and services.
+MailStore Software GmbH, Viersen, Germany (“we” or “MailStore”) respects your right to privacy. This Privacy Notice explains who we are, how we collect, share and use personal information about you, and how you can exercise your privacy rights. This Privacy Notice only applies to personal information that we collect through our website at www.mailstore.com, help.mailstore.com, cs.mailstore.com, community.mailstore.com and my.mailstore.com ( **“Website”** ), or otherwise in the course of providing our products and services.
 
 If you have any questions or concerns about our use of your personal information, then please contact us using the contact details provided at the bottom of this Privacy Notice.
 
 ## What does MailStore do?
 
-MailStore is a leading developer of innovative email archiving solutions for small and medium-sized enterprises, headquartered in Viersen, Germany, and part of the Carbonite Inc. group based in Boston, Massachusetts, U.S., one of the world’s leading providers of cloud, hybrid and onsite data protection solutions. Our products and services support you in making efficient and sustainable use of your emails as one of the most valuable and comprehensive information resources and allow you to meet a growing number of regulations.
+MailStore is a leading developer of innovative email archiving solutions for small and medium-sized enterprises, headquartered in Viersen, Germany, and part of the Carbonite Inc. group based in Boston, Massachusetts, U.S., a leading provider of backup and data protection solutions for businesses of all shapes and sizes. Our products and services support you in making efficient and sustainable use of your emails as one of the most valuable and comprehensive information resources and allow you to meet a growing number of regulations.
 
 For more information about MailStore, please see the “[Company](https://www.mailstore.com/en/company/)” section of our Website.
 
@@ -18,19 +18,19 @@ For more information about MailStore, please see the “[Company](https://www.ma
 
 The personal information that we collect about you falls into the following categories:
 
- **Information that we collect from you**  
+**Information that we collect from you**  
 We ask you to provide certain information voluntarily, and some information is automatically provided by your internet browser when you visit our Website. These types of information include:
 
- **Types of personal information**|  **Why we collect it**  
+**Types of personal information** | **Why we collect it**  
 ---|---  
-Inventory Data
+Inventory Data 
 
   * name
   * adress
   * contact details
 
 | Inventory data are required for contracting and determining subject terms and alterations of contract, and are used for contract execution only.  
-Usage data:
+Usage data: 
 
   * user identification data
   * information about period and scope of use
@@ -41,7 +41,7 @@ Usage data:
 contract execution,  
 promotions and market research,  
 demand-actuated design of our offers.  
-Log file data:
+Log file data: 
 
   * browser type and version
   * operating system
@@ -50,7 +50,7 @@ Log file data:
   * date and time of the access
   * internet protocol (IP) address
 
-| Log file data are automatically provided by your internet browser. In some countries, including countries in the European Economic Area, this information may be considered personal information under applicable data protection laws.
+| Log file data are automatically provided by your internet browser. In some countries, including countries in the European Economic Area, this information may be considered personal information under applicable data protection laws. 
 
 Collecting this information enables us to better understand the visitors who come to our Website, where they come from, and what content on our Website is of interest to them. We use this information for our internal analytics purposes and to improve the quality and relevance of our Website to our visitors.
 
@@ -94,11 +94,11 @@ We may use Google Invisible reCAPTCHA to secure our products and websites from a
 
 ### Bing Ads
 
-We further use technologies of Bing Ads which are provided and operated by the Microsoft Corporation (“Microsoft”). If you have reached our website through Bing Ads, Microsoft sets a cookie on your device. That way Microsoft and Mailstore can identify if someone has clicked an ad, was forwarded to our website and has reached a certain target page (Conversion Page). Mailstore only discovers the total number of users that have clicked the Bing ad and were forwarded to the Conversion Page. Microsoft collects and processes information through the cookie that is being used to create user profiles using pseudonyms. These user profiles serve for the analysis of visitor behaviour and are used for the creation of advertising. No personal information about the identity of the user is being processed. If you do not want such a use of information about your behaviour, you can object to the necessary setting of a cookie under the following link [choice.microsoft.com/de-DE/opt-out](http://choice.microsoft.com/de-DE/opt-out). Further information on this matter and Bing Ads can be found on Microsoft’s website [privacy.microsoft.com/de-de/privacystatement](https://privacy.microsoft.com/de-de/privacystatement).
+We further use technologies of Bing Ads which are provided and operated by the Microsoft Corporation (“Microsoft”). If you have reached our website through Bing Ads, Microsoft sets a cookie on your device. That way Microsoft and MailStore can identify if someone has clicked an ad, was forwarded to our website and has reached a certain target page (Conversion Page). MailStore only discovers the total number of users that have clicked the Bing ad and were forwarded to the Conversion Page. Microsoft collects and processes information through the cookie that is being used to create user profiles using pseudonyms. These user profiles serve for the analysis of visitor behaviour and are used for the creation of advertising. No personal information about the identity of the user is being processed. If you do not want such a use of information about your behaviour, you can object to the necessary setting of a cookie under the following link [choice.microsoft.com/de-DE/opt-out](http://choice.microsoft.com/de-DE/opt-out). Further information on this matter and Bing Ads can be found on Microsoft’s website [privacy.microsoft.com/de-de/privacystatement](https://privacy.microsoft.com/de-de/privacystatement).
 
 ### Facebook Remarketing
 
-Mailstore uses the remarketing feature of the Facebook, Inc. (“Facebook”). It serves to present interest-related advertising (“Facebook-Ads”) to visitors of our Website while visiting the social network Facebook. For this purpose the Remarketing-Tag was implemented into this Website. During the visit of this Website a direct connection to Facebook servers is established via remarketing tags. In this process the information gets transmitted that you have visited our Website and Facebook connects that information to your personal Facebook-profile. Further information on this matter can be found in the Facebook data protection declaration at [www.facebook.com/about/privacy/](https://www.facebook.com/about/privacy/). Should you not wish data acquisition via Facebook Remarketing, you can deactivate it [here](https://www.facebook.com/help/568137493302217).
+MailStore uses the remarketing feature of the Facebook, Inc. (“Facebook”). It serves to present interest-related advertising (“Facebook-Ads”) to visitors of our Website while visiting the social network Facebook. For this purpose the Remarketing-Tag was implemented into this Website. During the visit of this Website a direct connection to Facebook servers is established via remarketing tags. In this process the information gets transmitted that you have visited our Website and Facebook connects that information to your personal Facebook-profile. Further information on this matter can be found in the Facebook data protection declaration at [www.facebook.com/about/privacy/](https://www.facebook.com/about/privacy/). Should you not wish data acquisition via Facebook Remarketing, you can deactivate it [here](https://www.facebook.com/help/568137493302217).
 
 ### Information regarding Cookies
 
