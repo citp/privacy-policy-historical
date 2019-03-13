@@ -1,136 +1,96 @@
-> *The following text is extracted and transformed from the spreadsheet123.com privacy policy that was archived on 2016-10-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161023123359id_/http%3A//www.spreadsheet123.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the spreadsheet123.com privacy policy that was archived on 2019-03-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190313022615id_/https%3A//www.spreadsheet123.com/privacy/index.html) for the most accurate reproduction.*
 
 # Spreadsheet123.com | Privacy Policy
 
-At Spreadsheet123 Ltd **we treat your privacy with respect** and we are dedicated to safeguarding and preserving your privacy when visiting our site or communicating electronically with us.
+Note to users in the EU: We are committed to compliance with General Data Protection Regulation ("GDPR"), that comes into effect May 25, 2018. Our privacy policy will be updated as more information and guidance is made available about GDPR.
 
-Spreadsheet123.com (further mentioned as "site") is a property of **Spreadsheet123 Ltd** (further mentioned as "We", "Us" or "Our") as well as the associates, employees, partners, and affiliates who help to provide our **services** and deliver the **content** to you.
+**We treat your privacy with respect** and we are dedicated to safeguarding and preserving your privacy when visiting our site or communicating with us electronically.
 
-You are strictly prohibited from use of our service If you disagree or have any objections related to this Privacy Policy in full or with any of its part.
+Except for the carefully selected and trusted services that we use for processing payments, publishing ads, managing our newsletter, rating and reviewing, logging into the website and our web host, no other party will have access to your personal information unless you happen to publish it yourself by adding it to a discussion forum, public comment on a message board, blog post, comment, review, etc. **We do not share or in any way disclose your personal information or email list** with third parties except those specifically named herein.
 
-This Privacy Policy, together with our terms of use, provides an explanation as to what happens to any personal data that you provide to us, or that we collect from you.
+Spreadsheet123.com (further mentioned as "site") is a property of **Spreadsheet123 LTD** (further referred to as "We", "Us" or "Our") as well as the partners, associates, employees and affiliates who help run this website and deliver the content to you.
 
-Except for the carefully selected and trusted services that we use for processing payments, our web host, no other party has access to your personal information unless specified otherwise, or in the event of being disclosed or/and published by yourself by adding it to a discussion forum, public comment on a message board, blog post, etc. **We do not share or in any way disclose your personal information** to a third party except those specifically named or otherwise outlined in this Policy.
+You are strictly prohibited from use of our service, if you disagree or have any objections to this Privacy Policy in full or with any of its part.
 
-## Privacy Policy Revisions
+This Privacy Policy intend to explain and help you understand the following:
 
-We do update this Policy from time to time by updating this page so please do review this Policy regularly to check what Spreadsheet123.com does to protect your privacy.
-
-## Information We Collect
-
-In operating our website we may collect and process the following data about you:
-
-  * Details of your visits to our website and the resources that you access, including, but not limited to, traffic data, location data, weblogs and other communication data.
-  * Information that you provide by filling in forms on our website, such as when you registered for information or make a purchase.
-  * Information provided to us when you communicate with us for any reason.
+  * **Collection of Information** \- What personal information is collected (or not collected)
+  * **Use of Collected Information** \- How the information is used
+  * **Access to Collected Information** \- Who has access to the collected information
+  * **Email and Newsletter Policy** \- Explicit and Implicit consent, email newsletter opt-in and opt-out policy
+  * **Children's Privacy** \- Guidelines for children's privacy.
 
 
 
-## Use of Cookies
+## Collection of Information to Improve User Experience
 
-On occasion, we may gather information about your computer for our services and to provide statistical information regarding the use of our website to our advertisers.
+Information that we might collect from you may include surveys, rating pages or content that you like, submitting your comments, completing polls, filling out a registration form to create your profile, sending feedback and/or suggestions via email, social media or surveys, sharing content via social media or submitting a search. The information we may collect from you can help us improve your experience with using our website and services.
 
-Such information will not identify you personally it is statistical data about our visitors and their use of our site. This statistical data does not identify any personal details whatsoever.
+In some cases, we may ask you to provide the demographic information via surveys or through the creation of an online profile. This information may include the following: age, gender, marital status, number of children, home ownership, pets, profession, interests and/or favorites. This information may be used for marketing and/or targeting purposes. This information would also be used to help us tailor our content to your interests thus improve our services. **Aggregated demographic information** may be shared with advertisers. The information shared with advertisers and advertising agencies are purely **aggregated statistics** , such as the certain percentage of users are married or have a pet and cannot be used for your identification.
 
-Similarly to the above, we may gather information about your general internet use by using a cookie file. Where used, these cookies are downloaded to your computer automatically. This cookie file is stored on the hard drive of your computer as cookies contain information that is transferred to your computer's hard drive. They help us to improve our website and the service that we provide to you.
+We may run campaigns, surveys or contests on our website time to time in which the user can submit their sensitive information, such as email address, mailing address or other information. We use this information for a sole purpose to contact the user if need be, to inform them of the outcome of the contest or response to their question in the survey. We do not share your personal identifiable details with third parties, but we may share or publish the results of a survey or campaign as an aggregate statistical data.
 
-All computers have the ability to decline cookies. This can be done by activating the setting on your browser which enables you to decline the cookies. Please note that should you choose to decline cookies, you may be unable to access particular parts of our website.
+We do not collect nor will ask you to provide us with sensitive personal information related to your political affiliation, race, religion or any data such as your birthday, social security number etc. which can be potentially used to identify you.
 
-Our advertisers may also use cookies, over which we have no control. Such cookies (if used) would be downloaded once you click on advertisements on our website.
+We reserve the right to disclose your personally identifiable information as required by law and share this information with law enforcement officials to help in the investigation of alleged unlawful activities to protect our rights and/or comply with a judicial proceeding, court order, or legal process served on our website. For these type of disclosures we do not hold any legal liability.
+
+## Payment Processing
+
+Online Visitors will be asked to provide their full name, email address, postal address, phone number, as well as credit card number, expiration date and, in some cases card verification value (CVV) only when you wish to make donations or purchase a product or membership from our web sites.
+
+All transactions, where credit card or your bank account is required occur over a secure connection protected through encryption such as the Secure Socket Layer (SSL) protocol.
+
+In some cases we use [ClickBank.com](https://www.clickbank.com/) to process payments and in other cases we may use [PayPal.com](https://www.paypal.com/). **We do not keep any record of your bank account or credit card information!** We do keep information such as record of sales, which includes your names and email addresses, in order to provide technical assistance, process refunds and/or notify customers of changes or updates if necessary.
+
+Your information, whether public or private, will not be sold, exchanged, transferred, or given to any other company for any reason whatsoever, without your consent, other than for the express purpose of delivering the purchased product or service requested.
 
 ## Site Usage Statistics
 
 Our server keeps a log of site usage statistics which involves keeping track of numbers of hits on various pages, IP addresses, browser types, access times, and the sites from which a visitor is referred. For example, if you find our site through a search engine, our logs will show that a visitor clicked through to our site from that search engine. Such information is used to verify the effectiveness of marketing efforts. It may also be used to help interested parties determine the number of visitors who find our site through their sites. In other cases, site statistics are provided to potential advertisers and link partners. **These statistics cannot be used to identify an individual, since they do not include any personal information**.
 
-We use third-party advertising companies to serve ads when you visit our website. These companies may use information (not including your name, address, email address, or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, [click here](http://www.google.com/privacy/ads/).
+## Advertising
 
-  * Google, as a third party vendor, uses cookies to serve ads on our website.
-  * Google's use of the [DART cookie](http://www.google.com/intl/en/privacy/) enables it to serve ads on this site based on your visit to our site and other sites on the Internet.
-  * You may opt out of the use of the DART cookie by visiting the [Google ad and content network privacy policy](http://www.google.com/privacy/ads/).
+We use third-party advertising companies to serve ads when you visit our website. These companies may use information (not including your name, address, email address, or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, [click here](http://www.networkadvertising.org/).
 
-
-
-## Use of Your Information
-
-The information that we collect and store relating to you is primarily used to enable us to provide our services to you. In addition, we may use the information for the following purposes:
-
-  * To provide you with information requested from us, relating to our products or services. To provide information on other products which we feel may be of interest to you, where you have consented to receive such information.
-  * To meet our contractual commitments to you.
-  * To notify you about any changes to our website, such as improvements or service/product changes, that may affect our service.
-  * To process transactions
-    * Online Visitors will be asked to provide their name, email address, mailing address, phone number, and credit card number along with expiration date or any bank account details only if you wish to make donations or purchase a product or membership from our web sites. All transactions, where credit card or your bank account is required occur over a secure connection protected through encryption such as the Secure Socket Layer (SSL) protocol.
-    * We do use third party services such as PayPal.com and ClickBank.com to process payments or refunds therefore we do not keep any record of your bank account or credit card information, but we do store information such as record of sales, which may include your e-mail addresses, names, mailing addresses, in order to provide technical assistance or notify about any changes to the software purchased from us.
-    * Your information, whether public or private, will not be sold, exchanged, transferred, or given to any other company for any reason whatsoever, without your consent, other than for the express purpose of delivering the purchased product or service requested.
-  * To personalize your experience  
-(Your information helps us to better respond to your individual needs and improve our site and service)
+  * Media.net, as a third party vendor, uses cookies to serve ads on our website, you can view their [privacy policy here](https://www.media.net/en/privacy-policy)
+  * Google uses cookies to serve ads on our site. Google's use of the [DART cookie](https://policies.google.com/privacy?hl=en) enables it to serve ads on this site based on your visit to our site and other sites on the Internet.
+  * You may opt out of the use of the DART cookie by visiting the [Google ad and content network privacy policy](https://policies.google.com/technologies/ads).
+  * Learn how Google manages data in its ads products, [click here](https://policies.google.com/technologies/partner-sites)
 
 
 
-If you are an existing customer, we may contact you with information about goods and services similar to those which were the subject of a previous sale to you.
+We also work with a company called Ezoic to improve reader experience on the site. See [Ezoic's privacy policy](https://g.ezoic.net/privacy/spreadsheet123.com) to see how they handle data.
 
-Further, we may use your data, or permit selected third parties to use your data, so that you can be provided with information about unrelated goods and services which we consider may be of interest to you. We or they may contact you about these goods and services by any of the methods that you consented at the time your information was collected.
+## Use of Cookies
 
-If you are a new customer, we will only contact you or allow third parties to contact you only when you have provided consent and only by those means you provided consent for.
+On occasion, we may gather information about your computer for our services and provide statistical information regarding the use of our website to our advertisers. Such information will not identify you personally it is statistical data about our visitors and general use of our site. This statistical data does not identify any personal details whatsoever. The cookies may also be used to save your login credentials for subsequent use of our website, such as username and/or password. All computers and smart devices have the ability to decline cookies. This can be done by activating the setting on your browser which enables you to decline the cookies. You can remove cookies manually from your computer or smart device, please refer to your browser and/or device manual to learn more.
 
-If you do not want us to use your data for our or third parties you will have the opportunity to withhold your consent to this when you provide your details to us on the form on which we collect your data.
+## Template Vault - Google Sheets and Docs Add-ons
 
-Please be advised that we do not reveal information about identifiable individuals to our advertisers but we may, on occasion, provide them with aggregate statistical information about our visitors. The information shared with advertisers cannot be used to identify you.
+The Template Vault add-on for Google Sheets and Docs is an add-on that allows to copy spreadsheet templates and documents templates to your Google Drive at your request. The Template Vault add-ons require access to be able to make a copy of the requested document to your Drive, but no user data is shared or stored by these add-ons. Use of these add-ons is not compulsory, any of the documents and templates can be accessed directly via relevant links listed on Spreadsheet123.com
 
-We do not collect and will never ask you to provide us with sensitive personal information related to your political affiliation, race, religion or any data such as your birthday, social security number etc. which can be potentially used to identify you.
+## Children's Privacy
 
-## Disclosing Your Information
+We prioritise children's safety, their privacy is our major concern.
 
-Where applicable, we may disclose your personal information to any member of our group. This includes, where applicable, our subsidiaries, our holding company and its other subsidiaries (if any).
+We are in compliance with the requirements of **COPPA** (Childrens Online Privacy Protection Act), we do not knowingly collect any information from anyone under 13 years of age. Our website, products and services are all directed to people who are at least 13 years old or older. If we learn that we are in possession of personal information on a child under the age of 13, we will dispose this information from our servers and systems immediately. We strongly recommend and encourage parents to supervise their child during any online session and also encourage reading these tips on [protecting your children's privacy online](https://www.consumer.ftc.gov/topics/protecting-kids-online).
 
-We may also disclose your personal information to third parties:  
+## Emails You Send Us
 
+Email messages or communication sent to us are considered public statements. Unless stated otherwise in your email, we may publish the messages in whole or in part. We may include author's name or/and business information in the messages unless you specifically express otherwise. We will not publish or otherwise disclose the author's personal information such as email address, mailing address or other personal information included in the email. In most cases we request your permission before publishing or disclosing content of any email message, but we are not obligated to do so.
 
-  * Where we sell any or all of our business and/or our assets to a third party.
-  * Where we are legally required to disclose your information.
-  * To assist fraud protection and minimise credit risk.
+## Public Comments
 
+We may allow comments to be added by users. As reminder to you, any information disclosed in these comments becomes public information. We encourage you to exercise caution when deciding to disclose your personal information.
 
+## Links to External Websites
 
-## Comments & Emails You Send Us
+You may find links to external websites on our site. These websites conduct their own privacy policies which you should check. We do not accept any liability for their policies whatsoever as we have no control over them.
 
-We may allow comments to be added by users. As reminder to you that any information provided in these comments becomes disclosed to public and therefore becomes public information. We encourage you to be caution when deciding to disclose your personal information.
+## Privacy Policy Revisions
 
-Any Email messages or communication sent to us are considered public statements unless otherwise stated in your email, we may publish these messages in whole or any of its part with inclusion of author's name or/and business information in the messages unless clearly stated otherwise. We will not publish or otherwise disclose the author's personal information such as email address or other personal information included in the email. In most cases we request your permission before publishing or disclosing content of the message, but we are not obligated to do so.
-
-## Children's Online Privacy Protection Act Compliance
-
-In no event we knowingly publish child's name.
-
-We are in compliance with the requirements of COPPA (Childrens Online Privacy Protection Act), we do not knowingly collect any information from anyone under 13 years of age. Our website, products and services are all directed to people who are at least 13 years old or older.
-
-We strongly recommend and encourage parents to supervise their child during any online session and also encourage reading these tips on [protecting your children's privacy online](http://www.ftc.gov/bcp/edu/pubs/consumer/tech/tec08.shtm).
-
-## Third Party Links
-
-You may find links to third party websites on our site. These websites should have their own privacy policies which you should check. We do not accept any responsibility or liability for their policies whatsoever as we have no control over them.
-
-## Country and Region Specific
-
-**Storing Your Personal Data for users from EU and EEA**
-
-We may transfer data that we collect from you to locations outside of the European Economic Area for processing and storing. Also, it may be processed by staff operating outside the European Economic Area who work for us or for one of our suppliers. For example, such staff maybe engaged in the processing and concluding of your order, the processing of your payment details and the provision of support services. By submitting your personal data, you agree to this transfer, storing or processing. We will take all reasonable steps to make sure that your data is treated securely and in agreement with this Privacy Policy.
-
-Data that is provided to us is stored on our secure servers. Details relating to any transactions entered into on our site will be encrypted to ensure its safety.
-
-The transmission of information via the internet is not completely secure and therefore we cannot guarantee the security of data sent to us electronically and transmission of such data is therefore entirely at your own risk. Where we have given you (or where you have chosen) a password so that you can access certain parts of our site, you are responsible for keeping this password confidential.
-
- **Access To Information for UK users**
-
-The Data Protection Act 1998 gives you the right to access the information that we hold about you. Please note that any demand for access may be subject to payment of a fee of £10 which covers our costs in providing you with the information requested. Should you wish to receive details that we hold about you please contact us using the contact details below.
-
- **California Online Privacy Protection Act Compliance**
-
-Because we value your privacy we have taken the necessary precautions to be in compliance with the California Online Privacy Protection Act. We therefore will not distribute your personal information to outside parties without your consent except events specifically outlined in this Privacy Policy.
-
-## Your Consent
-
-By using our site, you consent to our privacy policy.
+We may update this Policy from time to time by updating the information on this page. We encourage you to visit and review this page regularly to check what Spreadsheet123.com does to protect your privacy.
 
 ## Contacting Us
 
-We welcome any queries, comments or requests you may have regarding this Privacy Policy. We can be reached via our [contact](http://www.spreadsheet123.com/emailus.html) page.
+We welcome any queries, comments or requests you may have regarding this Privacy Policy. We can be reached via our [contact](https://www.spreadsheet123.com/emailus.html) page.
