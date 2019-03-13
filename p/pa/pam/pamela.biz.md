@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pamela.biz privacy policy that was archived on 2018-11-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181110223757id_/https%3A//www.pamela.biz/en/policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pamela.biz privacy policy that was archived on 2019-03-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190313131717id_/https%3A//www.pamela.biz/en/policy) for the most accurate reproduction.*
 
 # Pamela for Skype - Privacy Policy › Pamela for Skype
 
