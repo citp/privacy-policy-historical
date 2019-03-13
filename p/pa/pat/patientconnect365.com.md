@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the patientconnect365.com privacy policy that was archived on 2016-11-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161110144507id_/https%3A//www.patientconnect365.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the patientconnect365.com privacy policy that was archived on 2019-03-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190313220634id_/https%3A//www.patientconnect365.com/Home/PrivacyPolicy) for the most accurate reproduction.*
 
 # Privacy Policy
-
-| 
 
 Revenue Well Systems (“RevenueWell”, “we”) created this Privacy Policy (“Policy”) in order to ensure confidence of all three groups of users we interact with: RevenueWell subscribers (“Subscribers”), the customers of RevenueWell subscribers (“Consumers”) and visitors to our corporate website and directories. Collectively we may refer to these groups as “users”.
 
@@ -42,7 +40,3 @@ RevenueWell takes the highest precautions to protect our subscribers’ informat
 RevenueWell will update this policy from time to time. A “last revised” date will always be included at the top of the statement. To keep up-to-date with RevenueWell’s privacy policy, please check this page periodically.
 
 If you have any questions about this privacy policy or if you feel that RevenueWell is not abiding by its posted privacy policy, you can contact us by e-mailing your questions or concerns to [info@revenuewell.com](mailto:info@revenuewell.com) or mail us at 2275 Half Day Rd, Suite 182, Bannockburn, IL 60015.
-
-© 2016 Revenue Well Systems, LLC. All rights reserved. April _  21, 2016_  
-  
----|---
