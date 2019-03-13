@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bestcollegesonline.com privacy policy that was archived on 2018-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181213014819id_/https%3A//www.bestcollegesonline.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bestcollegesonline.com privacy policy that was archived on 2019-03-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190313175618id_/https%3A//www.bestcollegesonline.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - BestCollegesOnline.com
 
