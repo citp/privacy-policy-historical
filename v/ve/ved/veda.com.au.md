@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the veda.com.au privacy policy that was archived on 2018-09-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180904052954id_/https%3A//www.equifax.com.au/privacy-policy-australia) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the veda.com.au privacy policy that was archived on 2019-03-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190314033920id_/https%3A//www.equifax.com.au/privacy-policy-australia) for the most accurate reproduction.*
 
 # Privacy Policy (Australia) | Equifax Australia
 
@@ -40,6 +40,7 @@ MOGObankconnect services provided by Equifax assist you to provide income and ex
   * National Tenancy Database (NTD) is a tenancy verification and identification service. 
   * Data-driven Marketing (formerly Inivio) uses data to assist businesses in analysing and formulating direct marketing strategies. 
   * The Prospect Shop can provide access to various commercially available marketing databases and mailing lists 
+  * ReachTEL is a market research company and communications provider who can help businesses accurately understand and reach out to their audience at a moment’s notice using automated technologies - at a fraction of the cost of traditional methods. 
 
 | 
 
@@ -49,6 +50,7 @@ For information about Equifax NZ’s privacy policy go to [www.equifax.co.nz](h
 
 Equifax also has equity interests in Malaysia, Singapore and Cambodia based consumer and commercial risk bureaus.  
   
+  
 Equifax comprises of a number of separate businesses, including the following:
 
   * EISS which operates a credit reporting business in Australia.
@@ -57,7 +59,22 @@ Equifax comprises of a number of separate businesses, including the following:
   * Australian Business Research operates a commercial credit reporting business managed by EISS and has linkages to EISS’ commercial credit database.
   * Secure Sentinel provides loss assistance and retrieval services to its members
   * Identity Watch provides online monitoring services to detect and alert its members if their details may be compromised
-  * Equifax Australasia Workforce Solutions Pty Limited ("Employment Verification") (formerly Verify Holdings Australia Pty Limited) provides candidate background screening service to organisations and individuals for employment purposes
+  * Equifax Australasia HR Solutions Pty Limited ("Employment Verification") (formerly Verify Holdings Australia Pty Limited) provides candidate background screening service to organisations and individuals for employment purposes
+  * Equifax Australasia Workforce Solutions Pty Limited (trading as ‘Equifax HR Solutions’) provides HR platform systems and other workforce data management services across the employment cycle to businesses and individuals under the following key products:
+
+    * fit2work
+    * Equifax Human Resources Platform (formerly known as eRecruit and ePerformance) 
+    * eCredential
+    * Verification Exchange™
+
+fit2work provides comprehensive candidate and employee background screening solutions including identity solutions, police checks and clearances. fit2Work also provides employees’ background screening badging solutions that ensure that the candidate or employee screening results are relevant and current. 
+
+The Equifax Human Resources Platform (EHRP) is a secure online platform application that streamlines end-to-end employee management processes. It offers applicant tracking, onboarding, active employee engagement and offboarding, plus links to Verification Exchange™.
+
+eCredential is a clinical credentialing online services solution for healthcare practitioners and providers. It provides health practitioners and staff with the capability to create and self-manage a centralised clinical profile once they have subscribed to the service, which can be then be shared with hospitals and other health service providers. Clinician status reports can be produced and issued to subscribers. These provide a complete overview of the clinician’s current scope, status and their identity. Hospital/Health Service providers are able to log in, review and/or supervise the clinician’s current scope of qualifications and activities. eCredential is also fully compatible with EHRP.
+
+Verification Exchange™ provides data services for a customers’ employees when they require income and employment verification at the request of a verifier such as a lender credit provider or other entity seeking to determine whether the employee is entitled to a benefit. The verifier will receive an access code from the employee which will allow that verifier to access relevant details for one time only within a 24 hour period.
+
   * Equifax Australia Marketing Services Pty Limited ("Data-driven Marketing") (formerly Veda Advantage Solutions Group Pty Limited t/as Inivio) offers its customers a range of products to assist them in aspects of campaign management.
   * Equifax Australia Personal Solutions Pty Limited (“EAPS”) provides services to communicate information and offers to individuals in relation to products and services of Equifax and its clients;
   * Equifax Australasia Credit Ratings Pty Limited t/as Corporate Scorecard (formerly Corporate Scorecard Pty Limited) provides services for assessing, commercial, financial and operational risks of suppliers and contractors in procurement.
@@ -346,7 +363,7 @@ In the case of NTD we collect information in accordance with the APPs for the pu
 
 If as part of signing up to Equifax Score, My Credit File, Secure Sentinel, Identity Watch, carhistory.com.au or NTD you provide consent to receive marketing offers from Equifax or from customers your identity information may be collected, used and disclosed to those customers by Equifax for marketing purposes.
 
-**Data-driven Marketing and The Prospect Shop**  collect your personal information for a variety of reasons including:
+**Data-driven Marketing, The Prospect Shop and ReachTEL**  collect your personal information for a variety of reasons including:
 
   * To evaluate and improve our service, and provide you with a more personalised service;
   * To provide you with information about the products and services we offer, including letting you know about competitions and promotions; 
@@ -360,23 +377,25 @@ For further information about the other purposes for which Data-driven Marketin
 
 For further information about the other purposes for which TPS uses and discloses personal information refer to the [TPS Privacy Policy](http://www.prospectshop.com.au/privacy.aspx)
 
+For further information about the other purposes for which ReachTEL uses and discloses personal information refer to the [ReachTEL Privacy Policy](https://www.reachtel.com.au/privacy)
+
 **TenancyCheck.com.au**  collects, uses and discloses your personal information including past tenant history, publicly available information, tenant evictions and terminations, irregular rent payment history to provider its tenancy services to landlords.  
   
-Equifax also holds an insurance database collected on behalf of Insurance Reference Services Limited, for that purpose we hold, use and disclose: 
+**Equifax HR Solutions**
 
-  * full name
-  * date of birth
-  * driver’s licence number
-  * gender
-  * latest and previous address
-  * insurance claims
-  * enquiries by insurers
-  * enquiries by loss assessors, loss adjusters and investigators
+| 
 
+Equifax HR Solutions provides HR platform systems and other workforce data management services across the employment cycle to businesses and individuals under the following key products: 
 
+  * fit2work
+  * Equifax Human Resources Platform (formerly known as eRecruit and ePerformance) 
+  * eCredential
+  * Verification Exchange™
 
-This information may now be used for investigation and audit purposes only.
+| 
 
+The Privacy Policy and relevant Collection Statements governing the Equifax HR Solutions systems and services are accessible at <https://www.equifax.com.au/hrsolutions/termsandconditions.html>  
+  
 In addition,  **as Veda Group Pty Limited was previously a public company**  listed on the Australian Stock Exchange, we collected, and hold, use and disclose your personal information as follows:
 
 **Type of personal information we collected**
@@ -469,6 +488,17 @@ NORTH SYDNEY  NSW  2059
 
 Email:  [info-eev@equifax.com](mailto:info-eev@equifax.com).  
   
+**Your personal information held be Equifax HR Solutions**
+
+| 
+
+**Equifax Australasia HR Solutions Pty Limited**
+
+Locked Bag 965   
+NORTH SYDNEY NSW 2059
+
+Email: [info-eev@equifax.com](mailto:info-eev@equifax.com).  
+  
 **Your personal information held by Data-driven Marketing** | 
 
 **Equifax Australia Marketing Services Pty Limited**
@@ -490,6 +520,15 @@ NORTH SYDNEY NSW 2059
 Telephone: 02 9281 0299
 
 Email: [info@prospectshop.com.au](mailto:info@prospectshop.com.au)  
+  
+**Your personal information held by ReachTEL** | 
+
+**ReachTEL**
+
+PO Box 13294, George St   
+BRISBANE QLD 4001
+
+Email: [support@reachtel.com.au](mailto:support@reachtel.com.au)  
   
 **Your MOGObankconnect personal information held by Equifax Australia Commercial Services and Solutions Pty Limited** | 
 
@@ -542,7 +581,7 @@ Equifax Australia Information Services and Solutions Pty Limited
 GPO Box 964  
 NORTH SYDNEY NSW 2059
 
-Or via the **[Equifax Corrections Portal](https://veda.credagility.com/)**  
+Or via the **[Equifax Corrections Portal](https://www.equifax.com.au/personal/resolution-centre)**  
   
 **Your information held by Reduce My Bills** | On 1300 680 603  
   
@@ -595,6 +634,15 @@ Telephone: 02 9281 0299
 
 Email: [info@prospectshop.com.au](mailto:info@prospectshop.com.au)  
   
+**Your personal information held by ReachTEL** | 
+
+**ReachTEL**
+
+PO Box 13294, George St   
+BRISBANE QLD 4001
+
+Email: [support@reachtel.com.au](mailto:support@reachtel.com.au)  
+  
 **Your MOGObankconnect personal information held by Equifax Australia Commercial Services and Solutions Pty Limited** | 
 
 **Equifax – Public Access**
@@ -606,17 +654,38 @@ NORTH SYDNEY NSW 2059
 
 Telephone: 13 8332  
   
-If you are unhappy with the outcome of our investigation you have a right to complain to Credit and Investments Ombudsman Service or the Office of the Australian Information Commissioner. The contact details of each are set out below:
+If you are unhappy with the outcome of Equifax’s investigation or would like to make a complaint, please contact our Internal Dispute Resolutions (IDR) team by sending an email to [customercomplaintsAU@equifax.com](mailto:customercomplaintsAU@equifax.com). Make sure that you sufficiently detail your matter and include your full name, contact details, any reference numbers and relevant supporting documentation. Our IDR team will investigate your matter and contact you to attempt to resolve the matter directly. 
 
-**Credit and Investments Ombudsman**  
-Reply Paid 252  
-South Sydney NSW 1234  
-Web:  [www.cio.org.au](http://www.cio.org.au/)
+  We want to do everything we can to resolve your matter, so it's important that you raise it with our IDR team prior to having your matter addressed externally. Raising your matter with Equifax directly will often result in a quicker resolution.  
 
-**Office of the Australian Information Commissioner**  
-GPO Box 5218  
-SYDNEY NSW 2001  
-Web: [www.oaic.gov.au](http://www.oaic.gov.au/)
+  If you are still not satisfied with our response, you may contact the external dispute resolution scheme of which Equifax is a member, the Australian Financial Complaints Authority (AFCA). Please note that if you have not already done so, AFCA will likely encourage you to work with us before they investigate your complaint. 
+
+  How to contact the Australian Financial Complaints Authority (AFCA):   
+Online:  [www.afca.org.au](http://www.afca.org.au/)    
+Email:  [info@afca.org.au](mailto:info@afca.org.au)    
+Phone: 1800 931 678    
+Mail: Australian Financial Complaints Authority   
+GPO Box 3   
+Melbourne VIC 3001 
+
+  When contacting AFCA, we suggest you include the following: 
+
+  * a detailed timeline/chronology of events
+  * copies of any correspondence with our Customer Resolutions Team and the credit provider 
+
+
+
+You may also make a complaint to the Office of the Australian Information Commissioner (OAIC). 
+
+  How to contact the Office of the Australian Information Commissioner (OAIC):   
+Online: [www.oaic.gov.au](http://www.oaic.gov.au/)    
+Email:  [enquiries@oaic.gov.au](mailto:enquiries@oaic.gov.au)    
+Fax: 1300 363 992    
+Mail: Office of the Australian Information Commissioner     
+GPO Box 5218     
+Sydney NSW 2001 
+
+We want to do everything we can to resolve your matter, so it's important that you raise it with our IDR team prior to having your matter addressed externally. Raising your matter with Equifax directly will often result in a quicker resolution.
 
 ### 7\. Use of Personal Information for Marketing Purposes
 
@@ -706,6 +775,12 @@ Email: [enquiries@kingswaygroup.com.au](mailto:enquiries@kingswaygroup.com.au)
 The Prospect Shop Pty Ltd
 
 Email: [info@prospectshop.com.au](mailto:info@prospectshop.com.au)  
+  
+**ReachTEL** | If you do not wish to receive direct marketing information or to be contacted for marketing offers or any market research. | 
+
+ReachTEL
+
+Registering your details at: [www.reachtel.com.au/do-not-call](https://www.reachtel.com.au/do-not-call) ;or Email: [support@reachtel.com.au](mailto:support@reachtel.com.au)  
   
 ### 8\. Government Identifiers and Sensitive Information
 
