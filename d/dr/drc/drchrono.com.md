@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the drchrono.com privacy policy that was archived on 2018-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181125121559id_/https%3A//www.drchrono.com/ehr-emr/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the drchrono.com privacy policy that was archived on 2019-03-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190314121304id_/https%3A//www.drchrono.com/ehr-emr/privacy-policy) for the most accurate reproduction.*
 
 # EHR/EMR, Medical Billing, RCM - Privacy Policy | drchrono
 
