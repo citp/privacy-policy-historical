@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dashbid.com privacy policy that was archived on 2018-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181122211835id_/https%3A//www.dashbid.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dashbid.com privacy policy that was archived on 2019-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190315004513id_/http%3A//www.dashbid.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy — DashBid | Programmatic Advertising That Works
 
