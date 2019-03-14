@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the biztree.com privacy policy that was archived on 2018-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181202043819id_/https%3A//www.biztree.com/company/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the biztree.com privacy policy that was archived on 2019-03-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190314025525id_/https%3A//www.biztree.com/company/privacy-policy) for the most accurate reproduction.*
 
 # Business-in-a-Box - Privacy Policy
 
