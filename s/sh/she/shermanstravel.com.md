@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the shermanstravel.com privacy policy that was archived on 2018-08-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180828142925id_/https%3A//www.shermanstravel.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shermanstravel.com privacy policy that was archived on 2019-03-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190314052312id_/https%3A//www.shermanstravel.com/privacy-policy) for the most accurate reproduction.*
 
 # Shermans Travel | Privacy Policy
 
