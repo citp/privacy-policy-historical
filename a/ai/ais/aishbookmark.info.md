@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the aishbookmark.info privacy policy that was archived on 2018-08-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180830220444id_/http%3A//aishbookmark.info/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aishbookmark.info privacy policy that was archived on 2019-03-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190314040248id_/http%3A//aishbookmark.info/privacy) for the most accurate reproduction.*
 
 # privacy – aishbookmark.info
 
