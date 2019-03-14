@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the aitsl.edu.au privacy policy that was archived on 2018-09-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180904010653id_/https%3A//www.aitsl.edu.au/general/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aitsl.edu.au privacy policy that was archived on 2019-03-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190314155224id_/https%3A//www.aitsl.edu.au/general/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -42,7 +42,7 @@ Furthermore to the extent that AITSL does retain any Personal Information about 
 
 To see the full text of AITSL’s Privacy Policy [](https://www.aitsl.edu.au/docs/default-source/default-document-library/aitsl_privacy_policy.pdf?sfvrsn=4 "Click Here")
 
-  * [AITSL Privacy Policy](https://web.archive.org/docs/default-source/default-document-library/privacy---aitsl-privacy-\(external\)-2018.pdf?sfvrsn=6029f03c_0 "AITSL Privacy Policy")
+  * [AITSL Privacy Policy](https://web.archive.org/docs/default-source/corporate/aitsl-privacy-policy-\(external\).pdf?sfvrsn=3701f23c_0 "AITSL Privacy Policy")
 
 
 
