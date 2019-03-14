@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the voipraider.com privacy policy that was archived on 2018-09-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180911011911id_/https%3A//www.voipraider.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the voipraider.com privacy policy that was archived on 2019-03-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190314045625id_/https%3A//www.voipraider.com/privacy) for the most accurate reproduction.*
 
 # VoipRaider
 
-DELLMONT S. à.r.l (hereinafter referred to as "DELLMONT")   is dedicated to protecting your privacy. This Privacy Policy explains how DELLMONT collects and uses your personal data. It also describes your rights towards us and how to exercise them.
+Dellmont B.V. (hereinafter referred to as "DELLMONT")   is dedicated to protecting your privacy. This Privacy Policy explains how DELLMONT collects and uses your personal data. It also describes your rights towards us and how to exercise them.
 
 By using DELLMONYS’s Services, you accept our Privacy Policy and our processing of your personal data. You also agree to DELLMONT’s use of electronic communication channels to send you information. It is important that you read and understand our Privacy Policy before using our Services.
 
@@ -24,13 +24,13 @@ When you use our Services, we may collect the following information, including 
 
 **Why we collect and use personal information.**
 
-DELLMONT collects, uses and stores your Personal Data in accordance with applicable Luxembourg Law and EU directives regarding the Protection of Persons and Personal Data, as modified.
+DELLMONT collects, uses and stores your Personal Data in accordance with applicable law and EU directives regarding the Protection of Persons and Personal Data, as modified.
 
 DELLMONT uses your Personal Data for the provision of Services and billing purposes.
 
 DELLMONT may use your Personal Data to improve their Services.
 
-DELLMONT may use your Personal Data to defect misuse of its system and / or a customer account.
+DELLMONT may use your Personal Data to detect misuse of its system and / or a customer account.
 
 DELLMONT may use the Personal Data to provide you with information relating to your account.
 
