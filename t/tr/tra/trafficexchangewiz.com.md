@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the trafficexchangewiz.com privacy policy that was archived on 2018-11-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181113025355id_/http%3A//trafficexchangewiz.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the trafficexchangewiz.com privacy policy that was archived on 2019-03-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190314165754id_/http%3A//trafficexchangewiz.com/privacy.php) for the most accurate reproduction.*
 
 # Traffic Exchange Wiz
 
