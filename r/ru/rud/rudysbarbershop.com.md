@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rudysbarbershop.com privacy policy that was archived on 2018-09-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180925000822id_/https%3A//rudysbarbershop.com/pages/help%3Fsection%3DPrivacy%2520Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rudysbarbershop.com privacy policy that was archived on 2019-03-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190314045638id_/https%3A//rudysbarbershop.com/pages/help%3Fsection%3DPrivacy%2520Policy) for the most accurate reproduction.*
 
 # Help | Quality Cuts For Everybody | Rudy's Barbershop
 
