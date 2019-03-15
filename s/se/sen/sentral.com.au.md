@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sentral.com.au privacy policy that was archived on 2018-09-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180906021444id_/https%3A//www.sentral.com.au/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sentral.com.au privacy policy that was archived on 2019-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190315070507id_/https%3A//www.sentral.com.au/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Sentral Education
 
