@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the goodlifehealthclubs.com.au privacy policy that was archived on 2018-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180905085445id_/https%3A//www.goodlifehealthclubs.com.au/footer/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the goodlifehealthclubs.com.au privacy policy that was archived on 2019-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190315024214id_/https%3A//www.goodlifehealthclubs.com.au/footer/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Goodlife Health Clubs
 
