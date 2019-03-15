@@ -1,0 +1,313 @@
+<!--The following is the downloaded HTML source of the kimcartoon.to privacy policy that was archived on 2019-03-16.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20190316001138id_/https%3A//kimcartoon.to/Message/PrivacyPolicy) for the most accurate reproduction.-->
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head><title>
+	
+	Privacy Policy
+
+</title><meta http-equiv="Content-Type" content="text/html; charset=utf-8"><meta http-equiv="X-UA-Compatible" content="IE=edge"><meta property="fb:admins" content="100006233868825"><meta property="fb:app_id" content="130397647116314">
+<script async="" src="//www.google-analytics.com/analytics.js"></script><script type="text/javascript" src="//code.jquery.com/jquery-1.7.min.js"></script>
+<!-- CSS -->
+<link href="/Content/css/tpl_style.css?v=10.14.1" rel="stylesheet" type="text/css">
+<link href="/Content/css/upload-progress.css" rel="stylesheet" type="text/css">
+<link rel="shortcut icon" href="/Content/images/favicon.ico" type="image/x-icon">
+<!--[if IE 6]><link href="/Content/css/tpl_ie_6.css"  rel="stylesheet" type="text/css" media="screen" /><![endif]-->
+<!--[if IE 7]><link rel="stylesheet" type="text/css" href="/Content/css/tpl_ie_7.css" /><![endif]-->
+<!--[if IE 8]><link rel="stylesheet" type="text/css" href="/Content/css/tpl_ie_7.css" /><![endif]-->
+
+
+    <script>
+        (function (i, s, o, g, r, a, m) {
+            i['GoogleAnalyticsObject'] = r; i[r] = i[r] || function () {
+                (i[r].q = i[r].q || []).push(arguments)
+            }, i[r].l = 1 * new Date(); a = s.createElement(o),
+  m = s.getElementsByTagName(o)[0]; a.async = 1; a.src = g; m.parentNode.insertBefore(a, m)
+        })(window, document, 'script', '//www.google-analytics.com/analytics.js', 'ga');
+
+        ga('create', 'UA-63783416-9', 'auto');
+        ga('send', 'pageview');
+    </script>
+    <script async="" data-cfasync="false" type="text/javascript" src="//yinmyar.xyz/1clk/10526"></script>
+    
+</head>
+<body>
+    
+    <div id="containerRoot">
+        <div id="head">
+            <h3>
+                
+<div style="position: relative; text-align: right; margin: -40px 46px 20px 0px; font: bold 13px Arial;">
+    
+    <div id="topHolderBox" style="width: 230px; height: 30px;">
+        <img src="/Content/images/user-small.png" style="vertical-align: middle; margin-bottom: 5px">
+        Please <a href="/Login">login</a>
+        or <a href="/Register">register</a>
+    </div>
+    
+</div>
+
+                <div id="search" style="position: relative">
+                    <form id="formSearch" method="post">
+                    <p>
+                        <input style="width: 250px" id="keyword" name="keyword" value="" class="text" autocomplete="off">
+                        <input id="imgSearch" type="image" src="/Content/images/search.png" class="button" onclick="return false;">
+                    </p>
+                    <div id="result_box" style="display: none; left: 57px; margin-top: -3px">
+                    </div>
+                    <div style="float: left; width: 240px; text-align: left; margin-left: 58px;">
+                        <div style="float: left; width: 90px">
+                            <iframe src="//www.facebook.com/plugins/like.php?href=http%3A%2F%2Fwww.facebook.com%2Fkimcartoonfp&amp;send=false&amp;layout=button_count&amp;width=100&amp;show_faces=false&amp;action=like&amp;colorscheme=dark&amp;font&amp;height=21" scrolling="no" frameborder="0" style="border: none; overflow: hidden; width: 100px;
+                                height: 21px;" allowtransparency="true"></iframe>
+                        </div>
+                        <div style="float: left; width: 65px">
+                            <a href="https://twitter.com/kimcartoonweb" class="twitter-follow-button" data-show-screen-name="false" data-lang="en" data-show-count="false">&nbsp;</a><script async="" src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+                        </div>
+                    </div>
+                    <div style="margin: 10px 48px 10px 0">
+                        <a href="/AdvanceSearch">
+                            <img src="/Content/images/read.png" width="16px" border="0" style="vertical-align: middle">&nbsp;&nbsp;Adv
+                            Search</a>
+                    </div>
+                    </form>
+                </div>
+                <script type="text/javascript">
+                    $('#imgSearch').click(function () {
+                        Submit();
+                    });
+
+                    var delay = (function () {
+                        var timer = 0;
+                        return function (callback, ms) {
+                            clearTimeout(timer);
+                            timer = setTimeout(callback, ms);
+                        };
+                    })();
+
+                    $('#keyword').keyup(function () {
+                        delay(function () {
+                            Suggest();
+                        }, 500);
+                    });
+
+                    $('#selectSearch').change(function () {
+                        Suggest();
+                    });
+
+                    $("#selectSearch option").each(function () {
+                        var url = location.href;
+                        if (url.indexOf($(this).attr('value')) != -1)
+                            $(this).attr("selected", "selected");
+                    });
+
+                    function Submit() {
+                        if ($.trim($('#keyword').val()).length < 2) {
+                            $('#keyword').blur();
+                            alert('Keyword must be more than one character!');
+                        }
+                        else {
+                            $("#formSearch").attr('action', "/Search/Cartoon");
+                            $("#formSearch").submit();
+                        }
+                    }
+
+
+                    function Suggest() {
+                        var keyword = $.trim($('#keyword').val());
+                        if (keyword != "") {
+                            $('#result_box').html("<span id='loader'></span>");
+                            $('#result_box').css('display', 'block');
+                            $.ajax(
+                            {
+                                type: "POST",
+                                url: "/Ajax/SearchSuggest",
+                                data: "type=Cartoon" + '&keyword=' + encodeURIComponent(keyword),
+                                success: function (message) {
+                                    if (message != "") {
+                                        $('#result_box').html(message);
+                                    }
+                                    else {
+                                        //$('#result_box').html('');
+                                        //$('#result_box').css('display', 'none');
+                                        $('#result_box').html('<a href="#" onclick="return false;">Press Enter to search...</a>');
+                                    }
+                                }
+                            });
+                        }
+                        else {
+                            $('#result_box').html('');
+                            $('#result_box').css('display', 'none');
+                        }
+                    }
+
+                    $(document).click(function (e) {
+                        var container = $("#search");                        
+                        if (container.has(e.target).length == 0) {
+                            $("#result_box").hide();
+                        }
+                    });
+                </script>
+            </h3>
+            <h1>
+                <a href="/" title="KimCartoon.to - High quality cartoon online" class="logo">KimCartoon.to</a></h1>
+        </div>
+        <!-- end div head -->
+        <div class="clear">
+        </div>
+        <div id="headnav">
+            
+<div id="navbar">
+    <div id="navcontainer">
+        <ul>
+            <li id="liHome"><a href="/">Home</a></li>
+            <li id="liDS"><a href="/CartoonList">
+                Cartoon list</a></li>
+            <li id="liReportError"><a href="/Message/ReportError">Report Error</a></li>
+            <li id="liRequest"><a rel="nofollow" target="_blank" href="https://www.facebook.com/messages/t/kimcartoonfp">
+                Request Cartoon</a></li>
+            
+        </ul>
+    </div>
+</div>
+<script type="text/javascript">
+    var path = 'Message';
+    if (path == 'Home')
+        $('#liHome a').attr('id', 'currentTab');
+    else if (path == 'Cartoon' || path == 'Genre' || path == 'Group')
+        $('#liDS a').attr('id', 'currentTab');
+    else if (document.URL.indexOf('GoPremium') >= 0)
+        $('#liGoPremium a').attr('id', 'currentTab');
+    else if (document.URL.indexOf('FreeDownload') >= 0)
+        $('#liDS a').attr('id', 'currentTab');
+    else if (document.URL.indexOf('FAQ') >= 0)
+        $('#liFAQ a').attr('id', 'currentTab');
+    else if (path == 'Error')
+        $('#liReport a').attr('id', 'currentTab');
+    else
+        $('#navcontainer a[href*="' + path + '"]').attr('id', 'currentTab');
+</script>
+
+
+        </div>
+        <!-- end div headnav -->
+        
+
+    <div id="container" style="text-align: left">
+        <span class="title-list">Privacy Policy</span>
+        <div class="clear2"></div>
+        <div class="bigBarContainer" style="border-top:2px solid #dacb46; width: 1036px;">
+            <div class="barContent">
+                <strong>Cookies &amp; 3rd Party Advertisements</strong>
+                <p>
+                    Google, as a third party vendor, uses cookies to serve ads on your site. Google's
+                    use of the DART cookie enables it to serve ads to your users based on their visit
+                    to your sites and other sites on the Internet. Users may opt out of the use of the
+                    DART cookie by visiting the <a href="http://www.google.com/privacy_ads.html" rel="nofollow" target="_blank">Google ad and content network privacy policy</a>.</p>
+                <p>
+                    We allow third-party companies to serve ads and/or collect certain anonymous information
+                    when you visit our web site. These companies may use non-personally identifiable
+                    information (e.g., click stream information, browser type, time and date, subject
+                    of advertisements clicked or scrolled over) during your visits to this and other
+                    Web sites in order to provide advertisements about goods and services likely to
+                    be of greater interest to you. These companies typically use a cookie or third party
+                    web beacon to collect this information. To learn more about this behavioral advertising
+                    practice or to opt-out of this type of advertising, you can visit <a href="http://www.networkadvertising.org/managing/opt_out.asp" rel="nofollow" target="_blank">http://www.networkadvertising.org/managing/opt_out.asp</a>.</p>
+            </div>
+        </div>
+    </div>
+
+        <!-- end div container -->
+        <div class="clear">
+            &nbsp;</div>
+        <div class="clear">
+            &nbsp;</div>
+        <div class="clear">
+            &nbsp;</div>
+        
+
+
+<!-- BEGIN BEBI SKIN JS TAG -->
+<script type="text/javascript">
+    if(!window.BB_ind) { BB_ind = 0; }
+    if(!window.BB_r) { BB_r = Math.floor(Math.random()*1000000000)}
+    BB_ind++;
+
+    window.BB_skin = {
+        centerWidth: 1038,
+        centerDomId: '',
+        leftOffset: 5,
+        rightOffset: 5,
+        topPos: 0,
+        deferLoading: false,
+        fixed: true,
+        fixedStickTopOnScroll: true,
+        fixedScrollSecondaryTop: 0,
+        adjustSkinOnDynamicCenter: true,
+        zIndex: 0,
+        leftFrameId: '',
+        rightFrameId: '',
+
+        pl: 41349,
+        index: BB_ind
+    };
+
+</script>
+<script type="text/javascript" async="" src="//st.bebi.com/bebi_v3.js"></script>
+<!-- END TAG -->
+
+
+    </div>
+    <div id="footer">
+        <div id="footcontainer" style="position: relative">
+            <p>
+                From 2017 <a href="/" title="KimCartoon.to">KimCartoon.to</a>. Copyrights and trademarks
+                for the cartoon, and other promotional materials are held by their respective owners
+                and their use is allowed under the fair use clause of the Copyright Law.
+                
+
+<a href="/Message/PrivacyPolicy">Privacy Policy</a>&nbsp;|&nbsp;<a href="/Message/DMCA">DMCA</a>&nbsp;|&nbsp;<a href="/">watch cartoons online</a>&nbsp;&nbsp;</p>
+        </div>
+    </div>
+    <script type="text/javascript">
+        $('#footer').css('top', $(document).height() - $('#containerRoot').height());
+    </script>
+    
+    
+
+
+
+
+<script data-cfasync="false" type="text/javascript" src="//inastina.pw/rzctjidpyrqGaHyS/10790"></script>
+
+    <div class="top_page_alert">Adblock extensions will affect to a several website features. Please turn it off for best experience!</div>
+    <script type="text/javascript">
+        $.ajaxSetup({
+            cache: false
+        });
+
+        var alb = true;
+
+        $.getScript('https://pubmatic.com/wp-content/themes/pubmatic/js/jquery.alignHeight.js?ver=1.0').done(function(script, textStatus) {
+            alb = false;
+        });
+
+        $.getScript('https://propellerads.com/wp-content/plugins/radiantthemes-addons/tabs/js/radiantthemes-tab-element-four.js').done(function(script, textStatus) {
+            alb = false;
+        });
+
+        $.getScript('https://www.bebi.com/js/plugins.js').done(function(script, textStatus) {
+            alb = false;
+        });
+
+        setTimeout(function() {
+            if (alb) {
+                $('.top_page_alert').css({
+                    background: "#ff0000",
+                    display: "block"
+                });
+            }
+        }, 8000);
+    </script>
+    
+
+
+</body></html>
