@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the isagenix.com privacy policy that was archived on 2017-09-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170902231957id_/https%3A//www.isagenix.com/en-us/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the isagenix.com privacy policy that was archived on 2019-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190315124153id_/https%3A//www.isagenix.com/en-us/privacy-policy) for the most accurate reproduction.*
 
-# Isagenix Privacy Policy - US
+# Privacy Policy - US
 
 Thank you for visiting the Isagenix International, LLC and its affiliates (“Isagenix”). We at Isagenix are committed to protecting the information that you share with us, and explaining how we collect, process, and share that information online.
 
