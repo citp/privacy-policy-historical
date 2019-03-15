@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the vitanetonline.com privacy policy that was archived on 2017-01-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170127074459id_/https%3A//vitanetonline.com/privacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vitanetonline.com privacy policy that was archived on 2019-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190315182918id_/https%3A//vitanetonline.com/privacy.cfm) for the most accurate reproduction.*
 
 # VitaNet ®, LLC Privacy Policy
 
@@ -9,9 +9,9 @@
 
 We value our customers and will make every effort to respect your privacy. The following is what to expect from VitaNet®, LLC. and our staff.
 
-Effective on 11/15/2013
+Updated on 03/05/2019
 
--Revision on Return policy, 180 days to return products, 10% restocking fee on opened products returned after 60 Days.
+-Revision on Return policy, 180 days to return products, 10% restocking fee on opened products returned after 90 Days.
 
 **Information Collected and How it is Used**
 
@@ -21,32 +21,33 @@ During the order process you will be asked for shipping information, name, addre
 
 VitaNet®, LLC. is hosted by Inhouse. VitaNet®, LLC. hosts the store pages, ordering system, and order data. VitaNet®, LLC. automatically collects order information.
 
-Like most standard Web site servers, we use log files. This includes internet protocol (IP) addresses, browser type, internet service provider (ISP), referring/exit pages, platform type, date/time stamp, and number of clicks to analyze trends, administer the site, track user's movement in the aggregate, and gather broad demographic information for aggregate use. IP addresses, etc. are not linked to personally identifiable information in any way. 
+We Do Not Track the following: internet protocol (IP) addresses, browser type, internet service provider (ISP), referring/exit pages, platform type, date/time stamp, and number of clicks to analyze trends, track user's movement in the aggregate, and gather broad demographic information for aggregate use. IP addresses, etc. are not linked to personally identifiable information in any way. 
 
-**Disclosure to Third Parties**
-
-We use our in house credit card machine to process all orders, we do not disclose any credit card information to any company accept the merchant processing company that we process credit cards with or PayPal If you opt to pay with PayPal. Credit Card information is shreaded right after the credit card is charged for an order so there are no papers laying around with sensitive information on them. We use primarily www.usps.com for delivery of orders and all address labels are generated in house with Endicia. 
-
-**AdWords Remarketing**  
+Your Personal data can be removed by you the customer at any time by simply logging into your account and editing: Name, address, phone and email. You can delete the information and we do not keep copies   
+**Disclosure to Third Parties**  
 
 
-  * This website uses Google AdWords
-  * This website uses the Google AdWords remarketing service to advertise on third party websites (including Google) to previous visitors to our site. It could mean that we advertise to previous visitors who haven’t completed a task on our site, for example using the contact form to make an enquiry. This could be in the form of an advertisement on the Google search results page, or a site in the Google Display Network. Third-party vendors, including Google, use cookies to serve ads based on someone’s past visits to the VitaNet ®, LLC website. Of course, any data collected will be used in accordance with our own privacy policy and Google’s privacy policy. 
-  * You can set preferences for how Google advertises to you using the Google Ad Preferences page. http://www.google.com/settings/ads
+We use our in house credit card machine to process all orders, we do not disclose any credit card information to any company accept the merchant processing company that we process credit cards with. Credit Card information is not retained, each order placed needs to provide Credit Card details because we do not retain this information. We use primarily www.usps.com for delivery of orders and all address labels are generated in house with Endicia. 
+
+**Other Third Parties**  
 
 
+  * This website uses Google Analytics
+  * This website uses Facebook Pixel
 
 Otherwise, we do not sell, rent, share, or transfer your personal information to third parties. The information you give us is confidential, and will not be sold or given to any individual or company or organization. This is our simple promise to you. 
 
-**“All information you provide is kept completely confidential including email addresses.”**
+**All information you provide is kept completely confidential including email addresses.**
 
 **Newsletter**
 
-We do provide a once a week newsletter, we provide a way for you to unsubscribe from it if you no longer wish to receive it. If you wish to unsubscribe from our newsletter, you may do so by following the unsubscribe support@vitanet.net.
+We do provide a once a week newsletter, we provide a way for you to unsubscribe from it if you no longer wish to receive it. If you wish to unsubscribe from our newsletter, you may do so by following the unsubscribe link or emailing: support@vitanet.net. By placing an order we reserve the right to send emailings, which can be unsubscribed by email or following the unsubscribe link on the emailings.
 
 **Cookies**
 
 VitaNet®, LLC. will place a cookie on your computer whenever you place an item in your shopping cart. This cookie is used to maintain your account number that was assigned when you placed your first item in the shopping cart. VitaNet®, LLC. will maintain your shopping cart details until you decide to proceed to checkout and input shipping details. Your browser needs to accept cookies, otherwise the shopping cart will not function properly. 
+
+Cookies that are set are not used to track customers in any way, Coldfusion environment uses some cookies to identify an event on the website to keep your shopping cart alive while shopping, we do not use cookies to track anything in any way.
 
 **Security**
 
@@ -76,6 +77,7 @@ If you have any questions about this privacy statement, the practices of this si
 VitaNet®, LLC., 887 Edison ST NW  
 Hartville, OH 44632  
 Phone: 330-877-8786 Toll Free: 800-877-8702 Fax: 330-877-8787  
+
 
 
 |   
