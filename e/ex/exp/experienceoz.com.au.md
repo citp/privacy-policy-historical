@@ -1,16 +1,6 @@
-> *The following text is extracted and transformed from the experienceoz.com.au privacy policy that was archived on 2018-09-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180908025302id_/https%3A//www.experienceoz.com.au/en/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the experienceoz.com.au privacy policy that was archived on 2019-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190315040612id_/https%3A//www.experienceoz.com.au/en/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy and Information Use for Experience Oz
-
-[ ](https://web.archive.org/en)
-
-Need Help? Call [1300 935 532](tel:1300935532)
-
-Reset Password
-
-Enter the email address associated with your account and we will email you instructions to reset your password.
-
-Privacy Policy - Experience Oz (Ticketmates Australia Pty Ltd)
 
 ## General Summary
 
