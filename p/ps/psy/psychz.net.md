@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the psychz.net privacy policy that was archived on 2018-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181212225938id_/https%3A//www.psychz.net/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the psychz.net privacy policy that was archived on 2019-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190315162559id_/https%3A//www.psychz.net/privacy.html) for the most accurate reproduction.*
 
 # Psychz Networks
 
@@ -28,4 +28,4 @@ Our site provides users the opportunity to opt-out of receiving communications f
 
 ### Correct/Update
 
-This site gives users the following options for changing and modifying information previously provided. **Email** : [sales@psychz.net](mailto:sales@psychz.net)
+This site gives users the following options for changing and modifying information previously provided. Email : [sales@psychz.net](mailto:sales@psychz.net)
