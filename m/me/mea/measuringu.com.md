@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the measuringu.com privacy policy that was archived on 2018-08-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180819102307id_/https%3A//measuringu.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the measuringu.com privacy policy that was archived on 2019-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190315195050id_/https%3A//measuringu.com/privacy) for the most accurate reproduction.*
 
 # MeasuringU: Privacy
 
@@ -18,7 +18,7 @@ MeasuringU, (referred to herein as “MeasuringU”, “we”, “our”, or “
 
 2.1 _How We Collect_. We may collect personal information from you when you use or access our Services, including but not limited to, when you sign up for the Services, when you send us credit card and personal information of your customers, or when you otherwise correspond with us or other users in connection with your use of the Services.  We may also automatically collect certain information about your device through the use of technologies such as cookies ( _see_[allaboutcookies.org)](http://www.allaboutcookies.org%29/) and log files.
 
-2.2 _What We Collect_. The personal information we collect includes, but is not limited to, the following:
+2.2 _What We Collect_. The personal information we collect includes, but is not limited to, the following (NOTE: THIS ONLY APPLIES TO OUR WEBSITE AND DOES NOT APPLY TO ONLINE STUDIES CONDUCTED BY MEASURINGU WHICH YOU MAY BE ASKED TO VOLUNTARILY PARTICIPATE IN):
 
   * Identifying information such as your name, address, phone numbers, and e-mail address;
   * Any other information that you enter into the Website, including but not limited to survey responses, to the  
