@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the ketubanjiwa.com privacy policy that was archived on 2016-03-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160324202506id_/http%3A//www.ketubanjiwa.com/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ketubanjiwa.com privacy policy that was archived on 2019-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190315135816id_/https%3A//www.ketubanjiwa.com/privacy-statement) for the most accurate reproduction.*
 
-# Privacy Statement
+# Privacy Statement | Ketuban Jiwa - PES Patch - FIFA Mod
 
 ****PRIVACY STATEMENT** **
 
-By visiting or using any document or resouce contained on this website – hereafter to be read as “ **http://www.ketubanjiwa.com/** ” – you agree to be bound by the provisions of these Privacy & User Policies. If at any time you have questions or concerns regarding the information provided by this document, please forward all such discourse to **Contact Us Page** ****where the appropriate administrator will respond to you as quickly as possible. **ketubanjiwa.com** reserves the right to modify, add, or remove portions of these policies at any time; it is therefore in your best interest to review this document periodically.
+By visiting or using any document or resouce contained on this website – hereafter to be read as “ **www.ketubanjiwa.com** ” – you agree to be bound by the provisions of these Privacy & User Policies. If at any time you have questions or concerns regarding the information provided by this document, please forward all such discourse to **[Contact Us](https://www.ketubanjiwa.com/contact-us) Page** where the appropriate administrator will respond to you as quickly as possible.  **www.ketubanjiwa.com** reserves the right to modify, add, or remove portions of these policies at any time; it is therefore in your best interest to review this document periodically.
 
 *** Information We Collect**
 
@@ -41,4 +41,6 @@ If a user wishes to subscribe to our newsletter, we ask for contact information 
 Although our staff is diligent in providing content that is appropriate to all ages and we screen – to the best of our ability – the content beyond all external links, ketubanjiwa.com cannot be held responsible for the privacy practices and/or age specificity of any other website we link to. By viewing ketubanjiwa.com you agree not to hold us liable for any damages that may occur by any means or for any reason to yourself or your property.
 
   
+[](https://www.ketubanjiwa.com/how-to-download)
 
+By visiting www.ketubanjiwa.com you agree for our to use cookies to improve our content, you can see about our [Privacy Statement](https://www.ketubanjiwa.com/privacy-statement)
