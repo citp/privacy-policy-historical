@@ -1,8 +1,10 @@
-> *The following text is extracted and transformed from the mercent.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606164743id_/https%3A//www.commercehub.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mercent.com privacy policy that was archived on 2019-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190315041454id_/http%3A//www.commercehub.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy -CommerceHub
+# Privacy Policy - CommerceHub
 
-**Effective September 26, 2016**
+## Privacy Policy
+
+Effective September 26, 2016
 
 **What’s been updated?** We have substantially revised our privacy policy to more clearly communicate our information collection, usage and handling practices, and to include provisions related to the US-EU Privacy Shield.
 
@@ -51,7 +53,7 @@ _To Provide Our Services and Related Information_. CommerceHub uses information 
   * to provide you with information on our products and services (note that, when you provide us with your contact information, you expressly consent to our communicating with you about our products or services);
   * to measure and improve our Properties, products and services;
   * to refer you to a business partner that provides services in which you have expressed an interest on behalf of your company, or which we believe may benefit your business
-  * to develop, use, publish and otherwise commercialize Anonymous Information as defined and described below; and
+  * to develop, use, publish and otherwise commercialize Anonymous Information as defined and described below; and 
   * for any other lawful purposes as disclosed to you at the time you provide your information, with your consent, and as disclosed to you in this Policy.
 
 
@@ -65,7 +67,7 @@ _As Anonymous Information_. We use non-personally identifiable information colle
   * to personalize and support your use of a Property, our products and services, and/or the services of our Participants and partners;
   * to improve a Property, the user experience, and our products and services;
   * for security and fraud prevention purposes, such as device fingerprinting;
-  * to identify actions or transactions as originating through a particular retailer, marketplace, or other channel;
+  * to identify actions or transactions as originating through a particular retailer, marketplace, or other channel
   * to market, sell, commercialize or otherwise provide reporting, statistics, and insights to our current and prospective Participants, partners and service providers; and
   * for other statistical, development, or research and analysis purposes.
 
@@ -81,7 +83,7 @@ _In Connection with Corporate Events_. If one of our corporate affiliates or a t
 
   * _Information on our Products and Services_. If you decide you no longer want to receive marketing information from us on our products and services, such as marketing materials or promotional e-mails, click the “unsubscribe” link in the electronic marketing message you received. Alternatively, you can e-mail us at [privacy@commercehub.com](mailto:privacy@commercehub.com) and specify in your e-mail which materials or communications you would no longer like to receive. These communications choices do not apply to mandatory service communications that are considered part of our services, which a user receives periodically until he/she is no longer an active user of our services.
   * _Google Analytics_. You can install Google Analytics’ opt-out browser add-on by visiting <http://tools.google.com/dlpage/gaoptout>. You can opt out of receiving interest-based Google advertisements, or customize the ads you receive from Google, by visiting <http://www.google.com/settings/ads>.
-  * _Cookies_. If you accept a cookie, you can delete it at any time (e.g., as soon as you leave our Property) through your web browser. If you do not wish to receive cookies or wish to manage when you accept cookies in general, you can set your browser to reject cookies or to alert you when a cookie is placed on your computer. Your use of the features and functionality of this Property will be limited if you set your browser to reject cookies.
+  * _Cookies_. If you accept a cookie, you can delete it at any time (e.g., as soon as you leave our Property) through your web browser. If you do not wish to receive cookies or wish to manage when you accept cookies in general, you can set your browser to reject cookies or to alert you when a cookie is placed on your computer. Your use of the features and functionality of this Property will be limited if you set your browser to reject cookies
 
 
 
@@ -134,7 +136,7 @@ We do not and have no intention of collecting personal information from children
 
 We expect that this Policy will be updated from time to time to reflect, among other things, changes in applicable laws, rules or regulations, changes in our data collection practices, and/or changes to our business or services. We will make an updated version of this Policy accessible through the Property with a revised effective date, to let you know that we updated the Policy.
 
-The revised Policy will apply to information collected or provided to us on and after the effective date of the revised Policy. If revisions to the Policy materially expand how we use your personal information collected _prior_ to the effective date of the revised Policy, we will request that you opt-in to the revised Policy. We encourage you to review our privacy policy regularly.
+The revised Policy will apply to information collected or provided to us on and after the effective date of the revised Policy. If revisions to the Policy materially expand how we use your personal information collected prior to the effective date of the revised Policy, we will request that you opt-in to the revised Policy. We encourage you to review our privacy policy regularly.
 
 ### Questions Regarding this Privacy Policy
 
