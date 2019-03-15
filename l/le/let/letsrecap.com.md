@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the letsrecap.com privacy policy that was archived on 2018-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181227101327id_/https%3A//letsrecap.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the letsrecap.com privacy policy that was archived on 2019-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190315201428id_/https%3A//letsrecap.com/privacy) for the most accurate reproduction.*
 
 # Privacy - Recap
 
@@ -14,7 +14,7 @@ This policy is separate and unique to our company website Swivl.com or any other
 
 Please read this Privacy Policy before using the site or submitting any personal information. When you sign up to start using the site, you are accepting the practices described in this Privacy Policy. We may revise and update this Privacy Policy from time to time. We will provide notice and require opt-in consent for any material changes to this policy before using.
 
-**Summary of updates May 25th, 2018:** In response to GDPR requirements, we have added better navigation, improvements in language, declared data processors and setup new internal processing for meet GDPR guidelines. ([See previous policy](https://web.archive.org/web/20181227101327id_/https://letsrecap.com/privacy/privacy-8.8.2016)) for reference.
+**Summary of updates May 25th, 2018:** In response to GDPR requirements, we have added better navigation, improvements in language, declared data processors and setup new internal processing for meet GDPR guidelines. ([See previous policy](https://web.archive.org/web/20190315201428id_/https://letsrecap.com/privacy/privacy-8.8.2016)) for reference.
 
 ### Privacy Policy
 
