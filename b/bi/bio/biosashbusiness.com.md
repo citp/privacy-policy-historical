@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the biosashbusiness.com privacy policy that was archived on 2018-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180626103404id_/http%3A//www.biosashbusiness.com/site/Privacy_Policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the biosashbusiness.com privacy policy that was archived on 2019-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190315174845id_/http%3A//www.biosashbusiness.com/site/Privacy_Policy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy : Largest Manufacturer of Sea buckthorn | Sea buckthorn in India | Sea buckthorn Health Care | Sea buckthorn in Network Marketing
 
