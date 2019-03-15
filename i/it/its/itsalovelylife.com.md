@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the itsalovelylife.com privacy policy that was archived on 2018-09-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180925051002id_/https%3A//itsalovelylife.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the itsalovelylife.com privacy policy that was archived on 2019-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190315014054id_/https%3A//itsalovelylife.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy – It's a Lovely Life!
 
