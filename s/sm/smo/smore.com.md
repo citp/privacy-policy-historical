@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the smore.com privacy policy that was archived on 2018-08-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180831022742id_/https%3A//www.smore.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the smore.com privacy policy that was archived on 2019-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190315050450id_/https%3A//www.smore.com/privacy) for the most accurate reproduction.*
 
 # Smore Privacy Center
 
@@ -25,3 +25,7 @@ This is pretty straight forward, we do not sell, trade, or otherwise transfer an
 ## We take security seriously
 
 Our tech team regularly ensures information is kept safe. We offer a secure server and all sensitive information is transmitted via Secure Socket Layer (SSL) technology and then encrypted.
+
+## Do you need more information about accessibility?
+
+No problem. Just use [this link](https://s3.amazonaws.com/fireplace-inc-docs/Smore+VPAT.pdf) to view our VPAT.
