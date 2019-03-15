@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fastpctools.com privacy policy that was archived on 2018-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181222175634id_/http%3A//fastpctools.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fastpctools.com privacy policy that was archived on 2019-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190315021143id_/http%3A//fastpctools.com/privacy-policy) for the most accurate reproduction.*
 
 # Fast PC Tools - One of the best software provider.
 
