@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the simplyathomemom.com privacy policy that was archived on 2018-11-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181113041403id_/http%3A//simplyathomemom.com/sample-page/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the simplyathomemom.com privacy policy that was archived on 2019-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190315114420id_/http%3A//simplyathomemom.com/sample-page/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Simply At Home Mom
 
