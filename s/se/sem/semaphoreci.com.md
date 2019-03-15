@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the semaphoreci.com privacy policy that was archived on 2018-09-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180907021837id_/http%3A//semaphoreci.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the semaphoreci.com privacy policy that was archived on 2019-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190315045046id_/https%3A//semaphoreci.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy – Semaphore
-
-NEW Cut down a large Rails test suite to 2 minutes or less with Boosters. [Read more →](https://web.archive.org/landers/boosters-rails)
+# Privacy Policy - Semaphore
 
 Last updated: May 18, 2018
 
