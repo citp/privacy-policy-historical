@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the goodlifehealthclubs.com.au privacy policy that was archived on 2018-09-05.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20180905085445id_/https%3A//www.goodlifehealthclubs.com.au/footer/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the goodlifehealthclubs.com.au privacy policy that was archived on 2019-03-15.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20190315024214id_/https%3A//www.goodlifehealthclubs.com.au/footer/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html class=" js flexbox canvas canvastext webgl no-touch geolocation postmessage websqldatabase indexeddb hashchange history draganddrop websockets rgba hsla multiplebgs backgroundsize borderimage borderradius boxshadow textshadow opacity cssanimations csscolumns cssgradients cssreflections csstransforms csstransforms3d csstransitions fontface generatedcontent video audio localstorage sessionstorage webworkers applicationcache svg inlinesvg smil svgclippaths" style=""><!--<![endif]--><head>
     <meta charset="utf-8">
@@ -8,10 +8,10 @@
     <meta name="description" content="">
     <meta name="robots" content="index, follow">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <link rel="canonical" href="https://www.goodlifehealthclubs.com.au/footer/privacy-policy/">
+    <script async="" src="https://www.googletagmanager.com/gtm.js?id=GTM-WXGHV9"></script><script type="text/javascript" src="/ruxitagentjs_ICA237SVfhjoqrx_10163190308101326.js" data-dtconfig="rid=RID_2114573230|rpid=403551703|domain=goodlifehealthclubs.com.au|reportUrl=/rb_bf08447vzp|app=5b2ff6b3704d8278|srms=1,1,,,|uxrgcm=100,25,300,3;100,25,300,3|featureHash=ICA237SVfhjoqrx|md=1=a.profile.children ^rb a[href^e/my-account]|lastModification=1552505382648|srsr=25000|dtVersion=10163190308101326|tp=500,50,0,1|rdnt=1|uxrgce=1|bp=2|agentUri=/ruxitagentjs_ICA237SVfhjoqrx_10163190308101326.js"></script><link rel="canonical" href="https://www.goodlifehealthclubs.com.au/footer/privacy-policy/">
     
 
-    <script async="" src="https://www.googletagmanager.com/gtm.js?id=GTM-WXGHV9"></script><script src="https://cdn.optimizely.com/js/9514850703.js" data-cfasync="false"></script>
+    <script src="https://cdn.optimizely.com/js/9514850703.js" data-cfasync="false"></script>
 
     <!-- Google Tag Manager -->
     <script data-cfasync="false">
@@ -86,7 +86,12 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
             <ul>
                 
 
-    <li class="more"><a href="/clubs">Select club</a></li>
+    <li data-clubid="30be0a8a-ed31-4c82-ae6f-c4ddd33cb113" class="club-sub-nav">
+            <button type="button" class="nonFavourite" onclick="selectClub('ab22984d-bd23-48ac-82f5-7960b9470c25', 2)">x</button><a href="/clubs/carindale/" onclick="SetMainClub('ab22984d-bd23-48ac-82f5-7960b9470c25', 'Carindale')">Carindale</a>
+        <ul>
+                            <li class="more"><a href="/clubs">More clubs</a></li>
+        </ul>
+    </li>
 
 
 
@@ -130,18 +135,18 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
         var clubs = cookieValue.split(',');
         var clubIndexOf = clubs.indexOf(clubId);
         clubs.splice(clubIndexOf, 1);
-
         if (clubs.length > 0) {
             $.cookie(shortClubListCookieName, clubs, { path: '/', domain: 'goodlifehealthclubs.com.au', expires: 1000 });
-
             // now we need to move to the selected page. would have been nice to set cookie and redirect in the controller but Safari iOS didn't work properly.
             if (clubIndexOf === 0) {
                 var href = "/Goodlife/ClubMenu/MoveToClub?clubId=" + clubs[0] + "&contextItemId=" + '{8477CB67-FD93-4AAD-87CC-3993857EA2A2}';
                 window.location.href = href;
+            } else {
+                window.location.href = "/clubs?clubId=" + clubId;
             }
         } else {
             $.removeCookie(shortClubListCookieName, { path: '/', domain: 'goodlifehealthclubs.com.au' });
-            //document.location.href = "/";
+            window.location.href = "/clubs?clubId=" + clubId;
         }
     }
 
@@ -172,20 +177,26 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
                             <a href="/about-us/24-7-access/">24.7 Access</a>
                         </li>
                         <li>
+                            <a href="/about-us/new-clubs-coming-soon/">New Clubs Coming Soon</a>
+                        </li>
+                        <li>
                             <a href="/about-us/careers/">Careers</a>
                         </li>
                         <li>
                             <a href="/about-us/corporate-fitness/">Corporate Partnerships</a>
                         </li>
+                        <li>
+                            <a href="/personal-training/">Personal Training</a>
+                        </li>
                 </ul>
 
         </li>
 <li class="  join" data-title="Join Now">
-            <a href="/join-now">Join Now</a>
+            <a href="/join-now/">Join Now</a>
 
         </li>
 <li class="  clubs" data-title="Clubs">
-            <a href="/clubs">Clubs</a>
+            <a href="/clubs/">Clubs</a>
 
         </li>
 <li class="  classes" data-title="Classes">
@@ -202,10 +213,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
                             <a href="/programs/12-week-challenge/">12 Week Challenge</a>
                         </li>
                         <li>
-                            <a href="">Emily Skye</a>
-                        </li>
-                        <li>
-                            <a href="/programs/championship-series/">Championship Series By Arena</a>
+                            <a href="/programs/championship-series/">Championship Series By Arena Fitness</a>
                         </li>
                         <li>
                             <a href="/programs/fit-series/">Fit Series by Arena Fitness</a>
@@ -229,7 +237,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 
         </li>
 <li class="  timetable" data-title="Timetable">
-            <a href="/timetable">Timetable</a>
+            <a href="/timetable/">Timetable</a>
 
         </li>
 
@@ -275,7 +283,12 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
             <ul>
                 
 
-    <li class="more"><a href="/clubs">Select club</a></li>
+    <li data-clubid="30be0a8a-ed31-4c82-ae6f-c4ddd33cb113" class="club-sub-nav">
+            <button type="button" class="nonFavourite" onclick="selectClub('ab22984d-bd23-48ac-82f5-7960b9470c25', 2)">x</button><a href="/clubs/carindale/" onclick="SetMainClub('ab22984d-bd23-48ac-82f5-7960b9470c25', 'Carindale')">Carindale</a>
+        <ul>
+                            <li class="more"><a href="/clubs">More clubs</a></li>
+        </ul>
+    </li>
 
 
 
@@ -319,23 +332,35 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
         var clubs = cookieValue.split(',');
         var clubIndexOf = clubs.indexOf(clubId);
         clubs.splice(clubIndexOf, 1);
-
         if (clubs.length > 0) {
             $.cookie(shortClubListCookieName, clubs, { path: '/', domain: 'goodlifehealthclubs.com.au', expires: 1000 });
-
             // now we need to move to the selected page. would have been nice to set cookie and redirect in the controller but Safari iOS didn't work properly.
             if (clubIndexOf === 0) {
                 var href = "/Goodlife/ClubMenu/MoveToClub?clubId=" + clubs[0] + "&contextItemId=" + '{8477CB67-FD93-4AAD-87CC-3993857EA2A2}';
                 window.location.href = href;
+            } else {
+                window.location.href = "/clubs?clubId=" + clubId;
             }
         } else {
             $.removeCookie(shortClubListCookieName, { path: '/', domain: 'goodlifehealthclubs.com.au' });
-            //document.location.href = "/";
+            window.location.href = "/clubs?clubId=" + clubId;
         }
     }
 
 </script>
-                    <li class="profile">
+                <li class=" ">
+            <a href="/clubs/carindale/">About the club</a>
+
+        </li>
+<li class=" ">
+            <a href="/personal-trainers/">Personal Trainers</a>
+
+        </li>
+<li class=" ">
+            <a href="/try-a-club/">5 Day Free Pass</a>
+
+        </li>
+    <li class="profile">
         <a href="/my-account">
             Sign in
         </a>
@@ -423,7 +448,7 @@ Some of our venues have surveillance cameras which may capture your image on fil
     <li>recruiters we have retained and from referees you have provided in support of a job application.</li>
 </ul>
 <h3>5. ACCESS BY CHILDREN</h3>
-As we cannot distinguish the age of people accessing our websites, our Privacy Policy applies to all individuals. If a person under sixteen years of age has provided us with personal information without parental or guardian consent, those details may be removed by emailing us at <a href="/cdn-cgi/l/email-protection" class="__cf_email__" data-cfemail="e69483858396928f8988a6818989828a8f8083c885898bc88793">[email&nbsp;protected]</a>
+As we cannot distinguish the age of people accessing our websites, our Privacy Policy applies to all individuals. If a person under sixteen years of age has provided us with personal information without parental or guardian consent, those details may be removed by emailing us at <a href="/cdn-cgi/l/email-protection" class="__cf_email__" data-cfemail="136176707663677a7c7d53747c7c777f7a75763d707c7e3d7266">[email&nbsp;protected]</a>
 <h3>6. HOW WE USE YOUR PERSONAL INFORMATION</h3>
 Your personal information may be used by us in a number of ways, including:
 <ul>
@@ -457,9 +482,9 @@ We may disclose your personal information in a variety of circumstances includin
 <p>For example, we may not be able to respond to your enquiry, assess your application, enter you in a promotion, or send you requested information.</p>
 <h3>9. UPDATING PERSONAL INFORMATION</h3>
 <p>We take reasonable steps to ensure that the personal information we collect and use is accurate, complete and up-to-date. However, the accuracy of the information we hold depends to a large extent on the information you provide. You can update (or request us to update) your personal information at any time. We ask you to keep your information as current as possible so that we may continue to provide you with useful information.</p>
-<p>To update your details, please email us at <a href="/cdn-cgi/l/email-protection" class="__cf_email__" data-cfemail="750710161005011c1a1b35121a1a11191c13105b161a185b14005b">[email&nbsp;protected]</a> Alternatively, if you have an online account with one of our businesses, you may update your details via your online account. If you would like to unsubscribe or “opt out” from receiving any direct marketing material from Goodlife, that option will be available in the relevant communication sent to you. We will respond to your unsubscribe request within a reasonable period after your request is made.</p>
+<p>To update your details, please email us at <a href="/cdn-cgi/l/email-protection" class="__cf_email__" data-cfemail="9ae8fff9ffeaeef3f5f4dafdf5f5fef6f3fcffb4f9f5f7b4fbefb4">[email&nbsp;protected]</a> Alternatively, if you have an online account with one of our businesses, you may update your details via your online account. If you would like to unsubscribe or “opt out” from receiving any direct marketing material from Goodlife, that option will be available in the relevant communication sent to you. We will respond to your unsubscribe request within a reasonable period after your request is made.</p>
 <h3>10. HOW YOU CAN ACCESS, UPDATE OR REMOVE YOUR PERSONAL INFORMATION</h3>
-<p>You have a right to request access to your personal information held by us. You are also able to update your details or request us to remove your details should you wish to “opt out” in the future. Should you wish to access, update or remove your details, please email us at <a href="/cdn-cgi/l/email-protection" class="__cf_email__" data-cfemail="d9abbcbabca9adb0b6b799beb6b6bdb5b0bfbcf7bab6b4f7b8acf7">[email&nbsp;protected]</a></p>
+<p>You have a right to request access to your personal information held by us. You are also able to update your details or request us to remove your details should you wish to “opt out” in the future. Should you wish to access, update or remove your details, please email us at <a href="/cdn-cgi/l/email-protection" class="__cf_email__" data-cfemail="1f6d7a7c7a6f6b7670715f7870707b7376797a317c7072317e6a31">[email&nbsp;protected]</a></p>
 <p>Alternatively, if you have an online account with one of our businesses, you may be able to access the personal information we hold about you via your online account.<br>
 If there is a lawful reason for not providing you with access, we will provide you with a written explanation and will inform you of the mechanism to complain about our refusal at that time. Please note that we will respond to your requests as soon as reasonably practicable and we may charge a reasonable fee for doing so.</p>
 <h3>11. SECURITY MEASURES TO PROTECT YOUR PERSONAL INFORMATION</h3>
@@ -486,7 +511,7 @@ We also ensure where possible that our contractors, agents, commercial partners 
 <h3>15. CHANGES TO OUR PRIVACY POLICY</h3>
 <p>From time to time we may need to change this Privacy Policy to reflect our changing business practices and/or changes in the law. We may therefore change this Privacy Policy at any time by posting the amended Privacy Policy on our websites or other social media platforms. All personal information collected and held by us will be governed by our most recent Privacy Policy as posted on our websites or other social media platforms.</p>
 <h3>16. PRIVACY COMPLAINT OR CONCERN</h3>
-<p>If you have a complaint or concern about the way in which your privacy has been handled by Goodlife, please email us at <a href="/cdn-cgi/l/email-protection" class="__cf_email__" data-cfemail="11637472746165787e7f51767e7e757d7877743f727e7c3f70643f">[email&nbsp;protected]</a> We will respond by email within 2 working days confirming receipt of your complaint or concern. We will then proactively investigate your complaint or concern and provide you with our response within a reasonable timeframe. If, after receiving our response, you still consider that your privacy complaint or concern has not been resolved, you may then take your complaint to the Office of the Australian Information Commissioner (www.oaic.gov.au).</p><p></p>
+<p>If you have a complaint or concern about the way in which your privacy has been handled by Goodlife, please email us at <a href="/cdn-cgi/l/email-protection" class="__cf_email__" data-cfemail="b6c4d3d5d3c6c2dfd9d8f6d1d9d9d2dadfd0d398d5d9db98d7c398">[email&nbsp;protected]</a> We will respond by email within 2 working days confirming receipt of your complaint or concern. We will then proactively investigate your complaint or concern and provide you with our response within a reasonable timeframe. If, after receiving our response, you still consider that your privacy complaint or concern has not been resolved, you may then take your complaint to the Office of the Australian Information Commissioner (www.oaic.gov.au).</p><p></p>
                         <div class="clear"></div>
                     </div>
 
@@ -513,13 +538,13 @@ We also ensure where possible that our contractors, agents, commercial partners 
 </section>
     <div class="clear ctaWrap">
 
-                <a class="col cta col-xs-12 col-sm-4 col-md-4 col-lg-4 no-gutter darkblue" href="/join-now">
+                <a class="col cta col-xs-12 col-sm-4 col-md-4 col-lg-4 no-gutter darkblue" href="https://www.goodlifehealthclubs.com.au/join-now/">
 
                     <span class="btn btn-md">Join Now</span>
-                    <strong>28 Days Free*</strong>
-                    <span class="span">Hurry – limited time only!</span>
+                    <strong>From $14.95/week*</strong>
+                    <span class="span">Sign up online</span>
                 </a>
-                <a class="col cta col-xs-12 col-sm-4 col-md-4 col-lg-4 no-gutter white" href="/try-a-club">
+                <a class="col cta col-xs-12 col-sm-4 col-md-4 col-lg-4 no-gutter white" href="/try-a-club/">
 
                     <span class="btn btn-md">Try This Club</span>
                     <strong>5 DAY FREE PASS</strong>
@@ -540,15 +565,20 @@ We also ensure where possible that our contractors, agents, commercial partners 
             <div class="contact clear">
                     <div class="col col-xs-12 col-sm-4">
                         <address class="phone">
-                            <span class="span"><a id="tel" href="tel:1300 393 733">1300 393 733 </a></span><br>
-                            Support Office
+                            <span class="span">
+                            <a id="tel" href="tel:07 3054 5888">07 3054 5888</a></span><br>
+                            Carindale
                         </address>
                     </div>
                     <div class="col col-xs-12 col-sm-4">
-                        <a class="btn btn-md icn-left icn-address" id="clubSelector" href="/clubs">Choose a club</a>
+                        <address class="postal">
+                            <span class="span">Level 3 Westfield Carindale 1151 Creek Rd</span><br>
+
+                            Carindale, QLD, 4152
+                        </address>
                     </div>
                     <div class="col col-xs-12 col-sm-4">
-                        <a class="btn btn-md icn-mail icn-left" id="formFooter" href="/contact-us">Send enquiry</a>
+                        <a class="btn btn-md icn-mail icn-left" id="formFooter" href="/contact-club">Send enquiry</a>
                     </div>
             </div>
 
