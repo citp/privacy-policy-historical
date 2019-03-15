@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the startupistanbul.com privacy policy that was archived on 2018-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181230134205id_/http%3A//startupistanbul.com/Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the startupistanbul.com privacy policy that was archived on 2019-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190315170035id_/https%3A//startupistanbul.com/Privacy) for the most accurate reproduction.*
 
 # Privacy | Startup Istanbul 2018
 
