@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the crazysales.com.au privacy policy that was archived on 2018-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180905214306id_/https%3A//www.crazysales.com.au/article/PrivacyStatement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the crazysales.com.au privacy policy that was archived on 2019-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190315061350id_/https%3A//www.crazysales.com.au/article/PrivacyStatement) for the most accurate reproduction.*
 
 # CrazySales Privacy Statement
 
