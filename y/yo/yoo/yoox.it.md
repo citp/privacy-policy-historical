@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the yoox.it privacy policy that was archived on 2018-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181225104439id_/https%3A//www.yoox.com/us/Legal/Privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the yoox.it privacy policy that was archived on 2019-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190315044458id_/https%3A//www.yoox.com/us/Legal/Privacypolicy) for the most accurate reproduction.*
 
 # PRIVACY POLICY
 
@@ -52,7 +52,7 @@ a) We collect the personal data required to conclude and execute your purchase o
 b) We collect your e-mail address when you sign up for our newsletter service;  
 c) We process the personal data you provide us when you contact our Customer Care to request assistance;  
 d) With your prior consent, we collect your personal data for marketing purposes;  
-e) For the registration of your Myoox account, we collect your name and surname, your e-mail address, password and your date of birth. If you are a registered user, we collect information about your access to the reserved area of the US Site. Subject to your express consent, and through the analysis of your personal data, we process information about your interests and preferences relating to our products and services, in order to customize the US Site and the commercial offers based on your interests. In case of authentication to the Myoox account through external social networks, we collect from these third parties the data necessary for registration/authentication through Facebook, and through Google. We collect information about you also from third parties and, in particular, from Facebook and Google+. This information includes the following data categories: e-mail address.  
+e) For the registration of your Myoox account, we collect your name and surname, your e-mail address, password and your date of birth. If you are a registered user, we collect information about your access to the reserved area of the US Site. Subject to your express consent, and through the analysis of your personal data, we process information about your interests and preferences relating to our products and services, in order to customize the US Site and the commercial offers based on your interests. In case of authentication to the Myoox account through external social networks, we collect from these third parties the data necessary for registration/authentication through Facebook, and through Google. We collect information about you also from third parties and, in particular, from Facebook and Google. This information includes the following data categories: e-mail address.  
 f) We collect information about your browsing on yoox.com/us, such as the pages you visit and how you interact with the single page and we save this information on our servers.  
 g) In the event that you provide YOOX USA with personal data of third parties, for example if you decide to buy a product to be delivered to a friend, or to send it as a gift, YOOX USA will arrange to deliver the privacy policy to the third party at the time of the first communication. We remind you that the use of personal data of third parties is subject to the discipline regarding the protection of personal data.  
 We inform you that YOOX USA does not process personal data relating to minors. If you access yoox.com/us and use the services offered by YOOX USA you declare that you are of legal age.  
@@ -147,4 +147,5 @@ The updated version of the privacy notice, in any case, will be published on thi
 **18\. Legislative references and useful links**  
 The processing of your personal data is performed by YOOX USA, which also uses the Data Processor YOOX Italy processing, which, having its registered office in the EU, is subject to the General Data Protection Regulation (UE) 2016/679, the rules on the processing of personal data and Italian measures of the Italian Data Protection Authority ([http://www.garanteprivacy.it](http://www.garanteprivacy.it/)).
 
+  
 Last update 12/05/2018.
