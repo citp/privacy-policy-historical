@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the traackr.com privacy policy that was archived on 2018-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181220023631id_/http%3A//www.traackr.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the traackr.com privacy policy that was archived on 2019-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190315200137id_/http%3A//www.traackr.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
