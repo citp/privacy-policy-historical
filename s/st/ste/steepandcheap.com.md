@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the steepandcheap.com privacy policy that was archived on 2018-08-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180813213423id_/https%3A//www.steepandcheap.com/sc/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the steepandcheap.com privacy policy that was archived on 2019-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190315041301id_/https%3A//www.steepandcheap.com/sc/privacy-policy) for the most accurate reproduction.*
 
 # Updated Privacy Policy | Steep and Cheap
 
