@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the royalroad.com privacy policy that was archived on 2018-11-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181116031722id_/https%3A//www.iubenda.com/privacy-policy/8009648) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the royalroad.com privacy policy that was archived on 2019-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190315211258id_/https%3A//www.iubenda.com/privacy-policy/8009648) for the most accurate reproduction.*
 
 # Privacy Policy of royalroadl.com
 
@@ -8,19 +8,19 @@
 
       * ### OpenX Ad Exchange, Google Ad Manager, Google AdSense, AppNexus and RhythmOne
 
-Personal Data: Cookies and Usage Data
+Personal Data: Cookies; Usage Data
 
     * ### Analytics
 
       * ### Google Analytics and Analytics collected directly
 
-Personal Data: Cookies and Usage Data
+Personal Data: Cookies; Usage Data
 
     * ### Commercial affiliation
 
       * ### Amazon Affiliation
 
-Personal Data: Cookies and Usage Data
+Personal Data: Cookies; Usage Data
 
     * ### Contacting the User
 
@@ -32,7 +32,7 @@ Personal Data: email address
 
       * ### Comment system managed directly
 
-Personal Data: Cookies, email address, Usage Data and username
+Personal Data: Cookies; email address; Usage Data; username
 
     * ### Handling payments
 
@@ -50,7 +50,7 @@ Personal Data: various types of Data as specified in the privacy policy of the s
 
       * ### Twitter Tweet button and social widgets and Facebook Like button and social widgets
 
-Personal Data: Cookies and Usage Data
+Personal Data: Cookies; Usage Data
 
     * ### Managing contacts and sending messages
 
@@ -62,19 +62,19 @@ Personal Data: email address
 
       * ### Direct registration
 
-Personal Data: date of birth, email address, gender, password, profile picture, username and website
+Personal Data: date of birth; email address; gender; password; profile picture; username; website
 
     * ### SPAM protection
 
       * ### Google reCAPTCHA
 
-Personal Data: Cookies and Usage Data
+Personal Data: Cookies; Usage Data
 
     * ### Traffic optimization and distribution
 
       * ### Cloudflare
 
-Personal Data: Cookies and various types of Data as specified in the privacy policy of the service
+Personal Data: Cookies; various types of Data as specified in the privacy policy of the service
 
 
 
