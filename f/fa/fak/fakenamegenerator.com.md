@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fakenamegenerator.com privacy policy that was archived on 2018-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181122104612id_/http%3A//www.fakenamegenerator.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fakenamegenerator.com privacy policy that was archived on 2019-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190315023409id_/https%3A//www.fakenamegenerator.com/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy - Fake Name Generator
 
