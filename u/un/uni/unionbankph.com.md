@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the unionbankph.com privacy policy that was archived on 2018-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181227152005id_/https%3A//www.unionbankph.com/privacy-and-security/privacy-statement-and-security) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the unionbankph.com privacy policy that was archived on 2019-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190315023504id_/https%3A//www.unionbankph.com/privacy-and-security/privacy-statement-and-security) for the most accurate reproduction.*
 
 # UnionBank of the Philippines - UnionBank Privacy Policy
 
