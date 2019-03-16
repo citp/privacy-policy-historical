@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the pinegrow.com privacy policy that was archived on 2018-03-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180321021958id_/http%3A//docs.pinegrow.com/v4/getting-started/privacy-and-anti-spam-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pinegrow.com privacy policy that was archived on 2019-03-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190316125747id_/https%3A//pinegrow.com/docs/getting-started/privacy-and-anti-spam-policy) for the most accurate reproduction.*
 
-# Privacy and Anti-spam policy | Pinegrow 4 – Documentation and Tutorials
+# Privacy and Anti-spam policy | Pinegrow Web Editor
 
 Pinegrow is a desktop app, so all your data (HTML, CSS, JS code, images and so on) never leaves your computer and is never read or stored on our servers.
 
