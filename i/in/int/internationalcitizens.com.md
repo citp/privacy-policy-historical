@@ -1,155 +1,177 @@
-> *The following text is extracted and transformed from the internationalcitizens.com privacy policy that was archived on 2018-01-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180129112213id_/https%3A//www.internationalcitizens.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the internationalcitizens.com privacy policy that was archived on 2019-03-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190316035531id_/https%3A//www.internationalcitizens.com/privacy.php) for the most accurate reproduction.*
 
-# International Citizens Group, Privacy Policy
+# Privacy Policy - InternationalCitizens.com
 
-This privacy policy has been compiled to better serve those who are concerned with how their ‘Personally Identifiable Information’ (PII) is being used online. PII, as described in US privacy law and information security, is information that can be used on its own or with other information to identify, contact, or locate a single person, or to identify an individual in context. Please read our privacy policy carefully to get a clear understanding of how we collect, use, protect or otherwise handle your Personally Identifiable Information in accordance with our website.
+Last Modified: May 25, 2018
 
-### What personal information do we collect from the people that visit our blog, website or app?
+We at International Citizens Group, Inc. are committed to protecting your privacy. This Privacy Policy applies to the Websites (www.internationalinsurance.com, www.internationalcitizens.com) owned and controlled by International Citizens Group, Inc. This Privacy Policy governs our data collection, processing, and usage practices. It also describes your choices regarding use, access, and correction of your personal information. If you do not agree with the data practices described in this Privacy Policy, you should not use the Websites.
 
-When ordering or registering on our site, as appropriate, you may be asked to enter your name, email address, phone number or other details to help you with your experience.
+We periodically update this Privacy Policy. We will post any privacy policy changes on this page and, if the changes are significant, we will provide a more prominent notice by sending you an email notification.
 
-### When do we collect information?
+While we will notify you of any material changes to this Privacy Policy, we encourage you to review this Privacy Policy periodically. We will also keep prior versions of this Privacy Policy in an archive for your review.
 
-We collect information from you when you fill out a form, Use Live Chat, Open a Support Ticket or enter information on our site.
+If you have any questions about this Privacy Policy or our treatment of the information you provide us, please write to us by email at [privacy@internationalcitizens.com](mailto:privacy@internationalcitizens.com) or by mail to International Citizens Group, Inc., 18 Shipyard Drive, Suite 2A, Hingham, MA 02043 USA, Attn: Privacy.
 
-### How do we use your information?
+  * Information We Collect
+  * How We Use Information We Collect
+  * How We Share Collected Information
+  * Cookies and Similar Technologies
+  * How to Access & Control Your Personal Data
 
-We may use the information we collect from you when you register, make a purchase, sign up for our newsletter, respond to a survey or marketing communication, surf the website, or use certain other site features in the following ways:
 
-  * To personalize your experience and to allow us to deliver the type of content and product offerings in which you are most interested.
-  * To improve our website in order to better serve you.
-  * To allow us to better service you in responding to your customer service requests.
-  * To ask for ratings and reviews of services or products
-  * To follow up with them after correspondence (live chat, email or phone inquiries)
 
+## 1\. Information We Collect
 
+### When You Visit our Websites
 
-### How do we protect your information?
+You are free to explore the Websites without providing any Personal Information about yourself. When you visit the Websites or request a quote, we ask that you provide Personal Information about yourself, and we collect Navigational Information.
 
-  * We use vulnerability scanning.
-  * We use regular Malware Scanning.
+### Personal Information
 
+Personal Information refers to any information that you voluntarily submit to us, and that identifies you personally, including contact information, such as your name, email address, phone number, and other information about yourself or your health. Personal Information can also include information about any transactions, which you enter into on the Websites, and information about you that is available on the internet, such as from Facebook, LinkedIn, Twitter and Google, or publicly available information that we acquire from service providers.
 
+Personal Information also includes Navigational Information where such information can directly or indirectly identify an individual. Navigational information refers to information about your computer and your visits to this website such as your IP address, geographical location, browser type, referral source, length of visit and pages viewed. Please see the “Navigation Information” section below. Except for this, we do not collect Sensitive Information from you.
 
-Your personal information is contained behind secured networks and is only accessible by a limited number of persons who have special access rights to such systems, and are required to keep the information confidential. In addition, all sensitive/credit information you supply is encrypted via Secure Socket Layer (SSL) technology.
+### Log Files
 
-We implement a variety of security measures when a user enters, submits, or accesses their information to maintain the safety of your personal information.
+When you use our services or view content provided by us, we automatically collect information about your computer hardware and software. This information can include your IP address, browser type, domain names, internet service provider (ISP), the files viewed on our site (e.g., HTML pages, graphics, etc.), operating system, clickstream data, access times and referring website addresses. This information is used by International Citizens Group, Inc. to provide general statistics regarding use of the Website. For these purposes, we do sometimes link this automatically-collected data to Personal Information such as name, email address, address, and phone number.
 
-### Do we use ‘cookies’?
+### Information We Collect from Third Parties
 
-Yes. Cookies are small files that a site or its service provider transfers to your computer’s hard drive through your Web browser (if you allow) that enables the site’s or service provider’s systems to recognize your browser and capture and remember certain information. For instance, we use cookies to help us remember and process the items in your shopping cart. They are also used to help us understand your preferences based on previous or current site activity, which enables us to provide you with improved services. We also use cookies to help us compile aggregate data about site traffic and site interaction so that we can offer better site experiences and tools in the future.
+We may receive Personal Information about you from third party sources including insurance partners with which we are sourcing quotes from on your behalf or from whom you have purchased a policy where we are the Broker of Record, and publicly available sources such as social media websites.
 
-**We use cookies to:**
+### Information About Children
 
-  * Understand and save user’s preferences for future visits.
-  * Compile aggregate data about site traffic and site interactions in order to offer better site experiences and tools in the future. We may also use trusted third-party services that track this information on our behalf.
+The Websites are not intended for or targeted at children under 16, and we do not knowingly or intentionally collect information about children under 16 If you believe that we have collected information about a child under 16, please contact us at [privacy@internationalcitizens.com](mailto:privacy@internationalcitizens.com), so that we may delete the information.  
 
 
+## 2\. How We Use Information We Collect
 
-You can choose to have your computer warn you each time a cookie is being sent, or you can choose to turn off all cookies. You do this through your browser settings. Since browser is a little different, look at your browser’s Help Menu to learn the correct way to modify your cookies.
+### Compliance with Our Privacy Policy
 
-**If users disable cookies in their browser:**
+We use the information we collect only in compliance with this Privacy Policy.
 
-If you turn cookies off, some of the features that make your site experience more efficient may not function properly. Some of the features that make your site experience more efficient and may not function properly.
+### We Never Sell Personal Information
 
-### Third-party disclosure
+We will never sell your Personal Information to any third party.
 
-**Do we disclose the information we collect to Third-Parties?**
+### Use of Personal Information
 
-We transfer to outside parties your name, email, phone number, and other data you submitted. We engage in this practice in order to provide solutions requested by you.
+In addition to the uses identified elsewhere in this Privacy Policy, we may use your Personal Information to:
 
-**Third-party links**
+  * improve your browsing experience by personalizing the Websites;
+  * send information or content to you which we think may be of interest to you by post, email, or other means and send you marketing communications relating to our business;
+  * promote the use of our services to you and share promotional and information content with you per your communication preferences;
+  * provide other companies with statistical information about our users — but this information will not be used to identify any individual user;
+  * send information to you regarding changes to our Terms of Use, Privacy Policy (including the Cookie Policy), or other legal agreements
+  * meet legal requirements.
 
-Occasionally, at our discretion, we may include or offer third-party products or services on our website. These third-party sites have separate and independent privacy policies. We therefore have no responsibility or liability for the content and activities of these linked sites. Nonetheless, we seek to protect the integrity of our site and welcome any feedback about these sites.
 
-**Google**
 
-Google’s advertising requirements can be summed up by Google’s Advertising Principles. They are put in place to provide a positive experience for users. <https://support.google.com/adwordspolicy/answer/6008942>
+We may contact you on behalf of external business partners about a particular offering that may be of interest to you. In those cases, we do not transfer your Personal Information to the third party.
 
-Google, as a third-party vendor, uses cookies to serve ads on our site. Google’s use of the DART cookie enables it to serve ads to our users based on previous visits to our site and other sites on the Internet. Users may opt-out of the use of the DART cookie by visiting the Google Ad and Content Network privacy policy.
+### The Legal Basis for Processing Personal Information (EEA visitors only)
 
-**We have implemented the following:**
+Our legal basis for collecting and using the personal information described above will depend on the personal information concerned and the specific context in which we collect it. However, we will typically collect personal information from you only where we have your consent to do so, where we need the personal information to perform a service for you, or where the processing is in our legitimate interests and not overridden by your data protection interests or fundamental rights and freedoms. In some cases, we may also have a legal obligation to collect personal information from you.
 
-  * Remarketing with Google AdSense
-  * Demographics and Interests Reporting
+If we ask you to provide personal information to comply with a legal requirement or to perform a service for you, we will make this clear at the time of the request and advise you whether the provision of your personal information is mandatory or not. We will also alert you to the possible consequences if you do not provide your personal information. Similarly, if we collect and use your personal information in reliance on our legitimate interests (or those of any third party), we will make clear to you at the relevant time what those legitimate interests are.
 
+If you are a visitor/customer located in the European Economic Area (“EEA”), you can contact our Data Protection Officer at [privacy@internationalcitizens.com](mailto:privacy@internationalcitizens.com).
 
+### Use of Navigational Information
 
-We, along with third-party vendors such as Google use first-party cookies (such as the Google Analytics cookies) or other third-party identifiers together to compile data regarding user interactions with ad impressions and other ad service functions as they relate to our website.
+We use Navigational Information to operate and improve the Websites. We may also use Navigational Information alone or in combination with Personal Information to provide you with personalized information about International Citizens Group, Inc.
 
-**Opting out:**
+### Customer Testimonials and Comments
 
-Users can set preferences for how Google advertises to you using the Google Ad Settings page. Alternatively, you can opt out by visiting the Network Advertising Initiative Opt Out page or by using the Google Analytics Opt Out Browser add on.
+We post customer testimonials and comments on our Websites, which may contain Personal Information. We obtain each customer’s consent via email before posting the customer’s name and testimonial.
 
-### California Online Privacy Protection Act
+### Use of Credit Card Information
 
-CalOPPA is the first state law in the nation to require commercial websites and online services to post a privacy policy. The law’s reach stretches well beyond California to require any person or company in the United States (and conceivably the world) that operates websites collecting Personally Identifiable Information from California consumers to post a conspicuous privacy policy on its website stating exactly the information being collected and those individuals or companies with whom it is being shared. – See more at: <https://consumercal.org/about-cfc/cfc-education-foundation/california-online-privacy-protection-act-caloppa-3/>
+If you give us credit card information, we use it solely to collect payment from you on behalf of our Insurance Partners. We do not store, retain, or use the information you provide except for the sole purpose of credit card processing on your behalf.
 
-**According to CalOPPA, we agree to the following:**
+### Security of your Personal Information
 
-  * Users can visit our site anonymously.
-  * Once this privacy policy is created, we will add a link to it on our home page or as a minimum, on the first significant page after entering our website.
-  * Our Privacy Policy link includes the word ‘Privacy’ and can easily be found on the page specified above.
+We use a variety of security technologies and procedures to help protect your Personal Information from unauthorized access, use or disclosure. We secure the Personal Information you provide on computer servers in a controlled, secure environment, protected from unauthorized access, use or disclosure. All Personal Information is safeguarded using appropriate physical, technical and organizational measures.
 
+### Social Media Features
 
+Our Websites include Social Media Features, such as the Facebook Like button and Widgets, such as Jetpack for WordPress. These features may collect your IP address, which page you are visiting on our sites, and may set a cookie to enable the feature to function correctly. Social Media Features and Widgets are either hosted by a third party or hosted directly on our Websites. This Privacy Policy does not apply to these features.  The governance of your interactions with these features falls under the privacy policy and other policies of the companies providing them. For assistance in locating the privacy policy of these companies, you can contact us at [privacy@internationalcitizens.com](mailto:privacy@internationalcitizens.com).
 
-You will be notified of any Privacy Policy changes on our Privacy Policy Page
+### External Websites
 
-You can change your personal information by emailing us
+Our Websites provide links to other websites. We do not control and are not responsible for, the content or practices of these other websites. Our provision of such links does not constitute our endorsement of these other websites, their content, their owners, or their practices. This Privacy Policy does not apply to these other websites, which are subject to any privacy and other policies they may have.
 
-**Does our site allow third-party behavioral tracking?**
+### Retention of Personal Information
 
-It’s also important to note that we allow third-party behavioral tracking
+How long we keep the information we collect about you depends on the type of information, as described in further detail below.  After such time, we will either delete or anonymize your information or, if this is not possible, then we will securely store your information and isolate it from any further use until deletion is possible.
 
-### COPPA (Children Online Privacy Protection Act) **  
-**
+We retain Personal Information that you provide to us where we have an ongoing legitimate business need to do so. For example, as long as is required to contact you about the quotes you requested, or to manage your policy as the Broker of Record, or as needed to comply with our legal obligations, resolve disputes and enforce our agreements).
 
-When it comes to the collection of personal information from children under the age of 13 years old, the Children’s Online Privacy Protection Act (COPPA) puts parents in control. The Federal Trade Commission, United States’ consumer protection agency, enforces the COPPA Rule, which spells out what operators of websites and online services must do to protect children’s privacy and safety online.
+When we have no ongoing legitimate business need to process your Personal Information, we securely delete the information or anonymize it or, if this is not possible, then we will safely store your Personal Information and isolate it from any further processing until deletion is possible. We will delete this information from the servers at an earlier date if you so request, as described in “To Unsubscribe from Our Communications” below.
 
-We do not specifically market to children under the age of 13 years old.
+If you have elected to receive marketing communications from us, we retain information about your marketing preferences for a reasonable period from the date you last expressed interest in our content, products, or services, such as when you last opened an email from us or canceled your policy.  We retain information derived from cookies and other tracking technologies for a reasonable period from the date such information was created.  
 
-### Fair Information Practices
 
-The Fair Information Practices Principles form the backbone of privacy law in the United States and the concepts they include have played a significant role in the development of data protection laws around the globe. Understanding the Fair Information Practice Principles and how they should be implemented is critical to comply with the various privacy laws that protect personal information.
+## 3\. How We Share Collected Information
 
-In order to be in line with Fair Information Practices we will take the following responsive action, should a data breach occur we will notify you via email within 7 business days.
+### Service Providers
 
-We also agree to the Individual Redress Principle which requires that individuals have the right to legally pursue enforceable rights against data collectors and processors who fail to adhere to the law. This principle requires not only that individuals have enforceable rights against data users, but also that individuals have recourse to courts or government agencies to investigate and/or prosecute non-compliance by data processors.
+We employ other companies and people to provide services to visitors to our Websites, and our customers, and may need to share your information with them to provide information, products or services to you. Examples may include removing repetitive information from prospect lists, analyzing data or performing statistical analysis, providing marketing assistance, supplementing the information you provide us to provide you with better service and providing customer service or support. In all cases where we share your information with such agents, we explicitly require the agent to acknowledge and adhere to our privacy and customer data handling policies.
 
-### CAN SPAM Act
+### International Citizens Group Partners
 
-The CAN-SPAM Act is a law that sets the rules for commercial email, establishes requirements for commercial messages, gives recipients the right to have emails stopped from being sent to them, and spells out tough penalties for violations.
+Also, we may share data with trusted Insurance Partners to contact you based on your request to receive such communications, help us perform statistical analysis, or provide customer support. Such third parties are prohibited from using your Personal Information except for these purposes, and they are required to maintain the confidentiality of your information.
 
-**We collect your email address in order to:**
+### Corporate Events
 
-  * Send information, respond to inquiries, and/or other requests or questions
-  * Market to our mailing list or continue to send emails to our clients after the original transaction has occurred.
+If we (or our assets) are acquired by another company, whether by merger, acquisition, bankruptcy or otherwise, that company will receive all information gathered by International Citizens Group, Inc. on the Websites. In this event, you will be notified via email or a prominent notice on our website, of any change in ownership, uses of your Personal Information, and choices you may have regarding your Personal Information.
 
+### Compelled Disclosure
 
+We reserve the right to use or disclose your Personal Information if required by law or if we reasonably believe that use or disclosure is necessary to protect our rights, protect your safety or the safety of others, investigate fraud, or comply with a law, court order, or legal process.  
 
-**To be in accordance with CANSPAM, we agree to the following:**
 
-  * Not use false or misleading subjects or email addresses.
-  * Identify the message as an advertisement in some reasonable way.
-  * Include the physical address of our business or site headquarters.
-  * Monitor third-party email marketing services for compliance, if one is used.
-  * Honor opt-out/unsubscribe requests quickly.
-  * Allow users to unsubscribe by using the link at the bottom of each email.
+## 4\. Cookies and Similar Technologies
 
+### Cookies
 
+International Citizens Group and its partners use cookies or similar technologies (such as web beacons) to analyze trends, administer the website, track users’ movements around the Website, and to gather demographic information about our user base as a whole. To find out more about how we use cookies on our Websites and how to manage your cookie preferences, please see our [Cookie Policy](https://www.internationalcitizens.com/cookie-policy.php).
 
-**If at any time you would like to unsubscribe from receiving future emails, you can email us at**  
-[[email protected]](https://web.archive.org/cdn-cgi/l/email-protection) and we will promptly remove you from ALL correspondence.
+### Advertising
 
-### Contacting Us
+We partner with a third party ad network to either display advertising on our Web site or to manage our advertising on other sites. Our ad network partner uses cookies and Web beacons to collect information about your activities on this and other websites to provide you targeted advertising based upon your interests.  If you wish not to have this information used to serve you targeted ads, you may opt-out by clicking here: [http://preferences-mgr.truste.com/](https://preferences-mgr.truste.com/) (or if located in the European Union, by clicking here: <http://www.youronlinechoices.eu/>). Please note this does not opt you out of being served ads. You will continue to receive generic advertising.
 
-If there are any questions regarding this privacy policy, you may contact us using the information below.
+### Third Party Tracking Technologies
 
-International Citizens Group  
+Our Privacy Policy or Cookie Policy do not cover the use of cookies and web beacons by any tracking utility company.  
+
+
+## 5\. How to Access & Control Your Personal Data
+
+### Reviewing, Correcting and Removing Your Personal Information
+
+You have the following data protection rights:
+
+  * You can request access, correction, updates or deletion of your personal information.
+  * You can object to the processing of your personal information, ask us to restrict processing of your personal information or request portability of your personal information.
+  * If we have collected and processed your personal information with your consent, then you can withdraw your consent at any time. Withdrawing your consent will not affect the lawfulness of any processing we conducted before your withdrawal.
+  * You have the right to complain to a data protection authority about our collection and use of your personal information. Contact details for data protection authorities in the EEA, Switzerland and certain non-European countries (including the US and Canada) are available here.)
+
+
+
+To exercise any of these rights, please contact us at [privacy@internationalcitizens.com](mailto:privacy@internationalcitizens.com) or by mail to International Citizens Group, Inc., 18 Shipyard Drive, Suite 2A, Hingham, MA 02043 USA, Attention: Privacy. We will respond to your request to change, correct, or delete your information within a reasonable timeframe and notify you of the action we have taken.
+
+### To Unsubscribe From Our Communications
+
+You may unsubscribe from our marketing communications by clicking on the “unsubscribe” link located on the bottom of our emails, or by sending us an email at [privacy@internationalcitizens.com](mailto:privacy@internationalcitizens.com) or postal mail to International Citizens Group, Inc., 18 Shipyard Drive, Suite 2A, Hingham, MA 02043 USA, Attention: Privacy. Customers cannot opt out of receiving transactional emails related to their account.
+
+### To Unsubscribe from Our Insurance Partners’ Communications
+
+Our Insurance Partners are solely responsible for their marketing emails and other communications; we cannot unsubscribe you from their communications. You can unsubscribe from our customers’ marketing communications by clicking on the “unsubscribe” link located on the bottom of their emails, or by contacting them directly.
+
+### Contact
+
+International Citizens Group, Inc.  
 18 Shipyard Drive, Suite 2A  
-Hingham, MA 02043  
-USA  
-[[email protected]](https://web.archive.org/cdn-cgi/l/email-protection)  
-877-758-4881
-
-Last Edited on 2017-06-02
+Hingham, MA 02043 USA
