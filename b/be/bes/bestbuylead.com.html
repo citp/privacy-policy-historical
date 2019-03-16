@@ -1,7 +1,16 @@
-<!--The following is the downloaded HTML source of the bestbuylead.com privacy policy that was archived on 2018-11-23.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20181123145805id_/http%3A//bestbuylead.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the bestbuylead.com privacy policy that was archived on 2019-03-17.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20190317004349id_/http%3A//bestbuylead.com/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en"><head>
+	<!-- Global site tag (gtag.js) - Google Analytics -->
+	<script async="" src="https://www.googletagmanager.com/gtag/js?id=UA-132361559-1"></script>
+	<script>
+	  window.dataLayer = window.dataLayer || [];
+	  function gtag(){dataLayer.push(arguments);}
+	  gtag('js', new Date());
+
+	  gtag('config', 'UA-132361559-1');
+	</script>
 	<meta charset="utf-8">
 	<meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=no">
 	<meta name="description" content="">
@@ -181,24 +190,23 @@
 															</div>
 																													<div class="col-xs-12 col-sm-6 col-md-3 col-menu">
 																<ul class="links">
-																																			<li><a href="/category/event+tickets/">Event Tickets</a></li>
-																																				<li><a href="/category/collectibles/">Collectibles</a></li>
+																																			<li><a href="/category/collectibles/">Collectibles</a></li>
 																																				<li><a href="/category/other+collectibles/">Other Collectibles</a></li>
 																																				<li><a href="/category/toys+and+hobbies/">Toys and Hobbies</a></li>
+																																				<li><a href="/category/toys/">Toys</a></li>
 																																		</ul>
 															</div>
 																													<div class="col-xs-12 col-sm-6 col-md-3 col-menu">
 																<ul class="links">
-																																			<li><a href="/category/toys/">Toys</a></li>
-																																				<li><a href="/category/games/">Games</a></li>
+																																			<li><a href="/category/games/">Games</a></li>
 																																				<li><a href="/category/crafts/">Crafts</a></li>
 																																				<li><a href="/category/costumes/">Costumes</a></li>
+																																				<li><a href="/category/other+toys+and+hobbies/">Other Toys and Hobbies</a></li>
 																																		</ul>
 															</div>
 																													<div class="col-xs-12 col-sm-6 col-md-3 col-menu">
 																<ul class="links">
-																																			<li><a href="/category/other+toys+and+hobbies/">Other Toys and Hobbies</a></li>
-																																				<li><a href="/category/video+gaming/">Video Gaming</a></li>
+																																			<li><a href="/category/video+gaming/">Video Gaming</a></li>
 																																				<li><a href="/category/video+games/">Video Games</a></li>
 																																				<li><a href="/category/gaming+hardware/">Gaming Hardware</a></li>
 																																		</ul>
@@ -223,7 +231,6 @@
 																													<div class="col-xs-12 col-sm-6 col-md-3 col-menu">
 																<ul class="links">
 																																			<li><a href="/category/kid%27s+shoes/">Kid's Shoes</a></li>
-																																				<li><a href="/category/shoes/">Shoes</a></li>
 																																				<li><a href="/category/men%27s+shoes/">Men's Shoes</a></li>
 																																				<li><a href="/category/women%27s+shoes/">Women's Shoes</a></li>
 																																		</ul>
@@ -302,20 +309,19 @@
 																																			<li><a href="/category/winter+sports/">Winter Sports</a></li>
 																																				<li><a href="/category/outdoor+apparel/">Outdoor Apparel</a></li>
 																																				<li><a href="/category/camping/">Camping</a></li>
-																																				<li><a href="/category/other+sports+and+fitness/">Other Sports and Fitness</a></li>
 																																		</ul>
 															</div>
 																													<div class="col-xs-12 col-sm-6 col-md-3 col-menu">
 																<ul class="links">
-																																			<li><a href="/category/firearms+and+hunting/">Firearms and Hunting</a></li>
+																																			<li><a href="/category/other+sports+and+fitness/">Other Sports and Fitness</a></li>
+																																				<li><a href="/category/firearms+and+hunting/">Firearms and Hunting</a></li>
 																																				<li><a href="/category/firearms/">Firearms</a></li>
-																																				<li><a href="/category/knives/">Knives</a></li>
 																																		</ul>
 															</div>
 																													<div class="col-xs-12 col-sm-6 col-md-3 col-menu">
 																<ul class="links">
-																																			<li><a href="/category/fishing/">Fishing</a></li>
-																																				<li><a href="/category/survival+gear/">Survival Gear</a></li>
+																																			<li><a href="/category/knives/">Knives</a></li>
+																																				<li><a href="/category/fishing/">Fishing</a></li>
 																																				<li><a href="/category/other+hunting/">Other Hunting</a></li>
 																																		</ul>
 															</div>
@@ -424,7 +430,7 @@
 	<div class="copyright-bar">
 		<div class="container">
 			<div class="col-xs-12 col-sm-6 no-padding">
-				<div>© 2016-2018 <a href="http://bestbuylead.com/">bestbuylead.com</a></div>
+				<div>© 2016-2019 <a href="http://bestbuylead.com/">bestbuylead.com</a></div>
 			</div>
 			<div class="col-xs-12 col-sm-6 no-padding">
 				<div class="text-right">
@@ -447,6 +453,60 @@
 <script src="/js/bootstrap-select.min.js"></script>
 <script src="/js/wow.min.js"></script>
 <script src="/js/scripts.js"></script>
+
+<script>
+	var els = document.querySelectorAll('.e1_prod_image');
+
+	var noImageSrc = '/images/no_image.jpg';
+
+	var errorImgFunc = function (e) {
+		if(this.dataset.url_a == '3')
+		{
+			return;
+		}
+		if(!this.dataset.url_a && typeof this.dataset.url2 == 'string')
+		{
+			this.dataset.url_a = '2';
+			this.setAttribute('src', this.dataset.url2);
+		}
+		else
+		{
+			this.setAttribute('src', noImageSrc);
+			this.dataset.url_a = '3';
+		}
+	};
+
+	var onLoadImageGunc = function () {
+		this.style.opacity = '1';
+		this.dataset.loaded = '1';
+	};
+
+	els.forEach(function (item) {
+		item.addEventListener('error', errorImgFunc);
+		item.addEventListener('load', onLoadImageGunc);
+		if(typeof  item.dataset.url == 'string' && item.dataset.url.length)
+		{
+			item.setAttribute('src', item.dataset.url);
+		}
+		else
+		{
+			item.setAttribute('src', noImageSrc);
+			item.dataset.url_a = '3';
+		}
+	});
+
+	setTimeout(function () {
+		els.forEach(function (item) {
+			if(!item.dataset.loaded)
+			{
+				item.style.opacity = '1';
+				item.setAttribute('src', noImageSrc);
+				item.dataset.url_a = '3';
+			}
+		});
+	}, 6000);
+
+</script>
 
 <script type="text/javascript">
 	(function () {
