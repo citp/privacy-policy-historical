@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the tourfactory.com privacy policy that was archived on 2018-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181215020100id_/http%3A//www.tourfactory.com/company/realtyprivacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tourfactory.com privacy policy that was archived on 2019-03-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190316121655id_/https%3A//www.tourfactory.com/company/realtyprivacy.asp) for the most accurate reproduction.*
 
 # TourFactory :: Realty Privacy
 
 ### Privacy Statement
 
-This privacy statement discloses the privacy practices for [www.homedebut.com](https://www.homedebut.com/) and [www.tourfactory.com](https://www.tourfactory.com/).
+This privacy statement discloses the privacy practices for [tours.tourfactory.com](https://tours.tourfactory.com/) and [www.tourfactory.com](https://www.tourfactory.com/).
 
 TourFactory's mission is to build users' trust and confidence in the Internet by promoting the use of fair information practices. Because this web site wants to demonstrate its commitment to your privacy, it has agreed to disclose its information practices. This web site has agreed to notify you of: 
 
@@ -71,7 +71,7 @@ From time-to-time our site requests information from users via surveys or contes
 
 ### Tell-A-Friend
 
-If a user elects to use our referral service for informing a friend about our site, we ask them for the friend's name and email address. TourFactory will automatically send the friend a one-time email inviting them to visit the site. TourFactory stores this information for the sole purpose of sending this one-time email. The friend may contact TourFactory at [www.homedebut.com](https://www.homedebut.com/) or [www.tourfactory.com](https://www.tourfactory.com/) to request the removal of this information from their database. 
+If a user elects to use our referral service for informing a friend about our site, we ask them for the friend's name and email address. TourFactory will automatically send the friend a one-time email inviting them to visit the site. TourFactory stores this information for the sole purpose of sending this one-time email. The friend may contact TourFactory at [tours.tourfactory.com](https://tours.tourfactory.com/) or [www.tourfactory.com](https://www.tourfactory.com/) to request the removal of this information from their database. 
 
 ### Security
 
