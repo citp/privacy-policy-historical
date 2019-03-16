@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the blizzardinternet.com privacy policy that was archived on 2016-10-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161001194014id_/http%3A//www.blizzardinternet.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the blizzardinternet.com privacy policy that was archived on 2019-03-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190316142315id_/https%3A//www.blizzardinternet.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - Blizzard Internet Marketing, Inc.
+# Privacy Policy - Blizzard Internet Marketing
 
 **What Information Do We Collect?**
 
@@ -10,7 +10,7 @@ When you fill out a form, you may be asked to enter your: name, email address, m
 
 **Customer Email Lists: Collection, Usage and Preference Options  
 **  
-By supplying us with your email address (while interacting with us, subscribing to our newsletter, or during an event, etc.), we will use that email address for marketing solicitations and ads. You can opt-out of these electronic communications at any time by following the instructions in our emails or by [contacting us](http://www.blizzardinternet.com/about/contact/).  
+By supplying us with your email address (while interacting with us, subscribing to our newsletter, or during an event, etc.), we will use that email address for marketing solicitations and ads. You can opt-out of these electronic communications at any time by following the instructions in our emails or by [contacting us](https://www.blizzardinternet.com/about/contact/).  
 **  
 ****What Do We Use Your Information For?** **  
 **
