@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wallpapercave.com privacy policy that was archived on 2018-09-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180927110205id_/https%3A//wallpapercave.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wallpapercave.com privacy policy that was archived on 2019-03-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190316071018id_/https%3A//wallpapercave.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Wallpaper Cave
 
