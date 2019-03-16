@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wtffunfact.com privacy policy that was archived on 2018-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181216023448id_/http%3A//wtffunfact.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wtffunfact.com privacy policy that was archived on 2019-03-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190316052103id_/http%3A//wtffunfact.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - www.wtffunfact.com
 
