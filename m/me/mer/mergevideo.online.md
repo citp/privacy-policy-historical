@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mergevideo.online privacy policy that was archived on 2018-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180602000645id_/https%3A//mergevideo.online/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mergevideo.online privacy policy that was archived on 2019-03-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190316031305id_/https%3A//mergevideo.online/privacy) for the most accurate reproduction.*
 
 # Merge Video Online — Privacy Policy
 
