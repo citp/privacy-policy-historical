@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the clarklittlephotography.com privacy policy that was archived on 2017-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170610140613id_/https%3A//clarklittlephotography.com/pages/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the clarklittlephotography.com privacy policy that was archived on 2019-03-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190316174207id_/https%3A//clarklittlephotography.com/pages/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Clark Little Photography
 
