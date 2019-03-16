@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the resumegenius.com privacy policy that was archived on 2018-11-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181115210824id_/https%3A//resumegenius.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the resumegenius.com privacy policy that was archived on 2019-03-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190316114930id_/https%3A//resumegenius.com/privacy-policy) for the most accurate reproduction.*
 
 # Users Privacy Policy | Resume Genius
 
@@ -276,17 +276,18 @@ If you are under 18 years of age, reside in California, and have a registered ac
 
 If you have any questions regarding our Privacy Policy, please contact our privacy officer at:
 
-U.S. Office:  
+**U.S. Office:**  
 Resume Companion LLC  
-427 N Tatnall St #95492  
-Wilmington, DE 19801-2230  
+717 Green Valley Road  
+Ste 200  
+Greensboro, NC 27408-2156  
 United States
 
-Europe Office:  
+**Europe Office:**  
 RGO Resume Technologies Ltd. dba ResumeGenius.com  
 Karpenision, 9 Strovolos, 2021  
 Nicosia, Cyprus
 
-Contacting us:  
+**Contacting us:**  
 Email: support@resumegenius.com  
 Phone: (866) 215-9048 (available Monday to Friday, 8AM – 12AM (Midnight) EDT)
