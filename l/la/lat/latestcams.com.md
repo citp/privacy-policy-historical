@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the latestcams.com privacy policy that was archived on 2018-03-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180309083751id_/http%3A//latestcams.com/documents/policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the latestcams.com privacy policy that was archived on 2019-03-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190316204442id_/https%3A//latestcams.com/documents/policy) for the most accurate reproduction.*
 
 # Privacy policy - Free Webcam Chat. Adult Porn - Live Hot Sex Cam
 
