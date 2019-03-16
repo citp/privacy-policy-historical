@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the foodiesfeed.com privacy policy that was archived on 2018-10-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181021002837id_/https%3A//www.foodiesfeed.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the foodiesfeed.com privacy policy that was archived on 2019-03-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190316235335id_/https%3A//www.foodiesfeed.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy policy & Cookies – Foodiesfeed
+# Privacy policy & Cookies — Food Pictures • Foodiesfeed • Free Food Photos
 
   
 We use Ezoic to provide personalization and analytic services on this website, as such Ezoic's privacy policy is in effect and can be reviewed [here](https://g.ezoic.net/privacy/foodiesfeed.com).  
