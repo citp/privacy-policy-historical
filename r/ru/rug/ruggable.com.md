@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the ruggable.com privacy policy that was archived on 2018-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181221053823id_/https%3A//ruggable.com/pages/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ruggable.com privacy policy that was archived on 2019-03-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190316230357id_/https%3A//ruggable.com/pages/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy – Ruggable
+# Privacy Policy | Machine Washable Area Rug | Ruggable
 
 PLEASE NOTE that our privacy policy has changed, effective March 1, 2016.
 
-Product Bliss, LLC and its affiliates (collectively, “us”, “our” or “we”), own and operate the RUGGABLE® 2-piece rug system brand.  Product Bliss collects customer information to help us to serve you better. We respect your privacy and are committed to maintaining and using this information responsibly. This privacy policy addresses the use and disclosure of personal information we collect from you. By visiting our website, or providing your information to us, you are accepting the practices described in this privacy policy.
+Ruggable, LLC and its affiliates (collectively, “us”, “our” or “we”), own and operate the RUGGABLE® 2-piece rug system brand.  Ruggable collects customer information to help us to serve you better. We respect your privacy and are committed to maintaining and using this information responsibly. This privacy policy addresses the use and disclosure of personal information we collect from you. By visiting our website, or providing your information to us, you are accepting the practices described in this privacy policy.
 
 **Personal information we collect about you**
 
@@ -16,7 +16,7 @@ Your web browser or client software may transmit certain geographic information 
 
 **How we use your information**
 
-We use your personal information to complete your purchase transaction, to keep you informed about the status of your order, to identify your product preferences so we can notify you of new or additional products that might be of interest, to notify you of any important information concerning the product you purchased such as revised care or application instructions, disclaimers or product recalls, and for internal marketing, profiling, or demographic purposes, so we can adapt our products and services to better suit your needs. We may also use information about your product preferences and interests in order to improve our site design and enhance your shopping experience.  In the event of a sale of some or all of our business, Product Bliss may disclose your personal information to a purchaser that agrees to abide by the terms and conditions of this privacy policy. 
+We use your personal information to complete your purchase transaction, to keep you informed about the status of your order, to identify your product preferences so we can notify you of new or additional products that might be of interest, to notify you of any important information concerning the product you purchased such as revised care or application instructions, disclaimers or product recalls, and for internal marketing, profiling, or demographic purposes, so we can adapt our products and services to better suit your needs. We may also use information about your product preferences and interests in order to improve our site design and enhance your shopping experience.  In the event of a sale of some or all of our business, Ruggable may disclose your personal information to a purchaser that agrees to abide by the terms and conditions of this privacy policy. 
 
 You should also be aware that we may disclose specific information about you if required to do so by law, governmental request, process or court order or based on our good faith belief that it is necessary to conform or comply with such law, request or court order or to protect the users of our websites or the public.
 
@@ -34,23 +34,23 @@ Web beacons are small strings of code that are placed in a web page or in an ema
 
 **How we work with third party service providers**
 
-Product Bliss works with reputable third parties who perform services on our behalf. Sometimes these service providers need information about our customers in order to do their jobs, such as to ship orders or to maintain and manage our customer database and report on customer behavior and/or preferences. We will attempt to ensure that these entities do not use your personal information for any other purpose, and that they have agreed to maintain the confidentiality, security, and integrity of the personal information they obtain from us.
+Ruggable works with reputable third parties who perform services on our behalf. Sometimes these service providers need information about our customers in order to do their jobs, such as to ship orders or to maintain and manage our customer database and report on customer behavior and/or preferences. We will attempt to ensure that these entities do not use your personal information for any other purpose, and that they have agreed to maintain the confidentiality, security, and integrity of the personal information they obtain from us.
 
 **Marketing email communications**
 
-If you do not wish to receive Product Bliss marketing emails or promotions, you may opt out by clicking on the unsubscribe link found at the bottom of all Product Bliss marketing emails, or you may email [contactus@ruggable.com](mailto:contactus@ruggable.com) with “remove” in the subject line. Be sure to send the email from the address you want removed. Please be aware that it can take up to 10 business days to remove you from our marketing email lists.
+If you do not wish to receive Ruggable marketing emails or promotions, you may opt-out by clicking on the unsubscribe link found at the bottom of all Ruggable marketing emails, or you may email [contactus@ruggable.com](mailto:contactus@ruggable.com) with “remove” in the subject line. Be sure to send the email from the address you want removed. Please be aware that it can take up to 10 business days to remove you from our marketing email lists.
 
 **Links to other sites**
 
-To enhance your shopping experience, our websites may include links to other sites outside our family of brands. Those websites will have their own privacy policies that you may wish to review. Product Bliss has no responsibility for these linked websites.
+To enhance your shopping experience, our websites may include links to other sites outside our family of brands. Those websites will have their own privacy policies that you may wish to review. Ruggable has no responsibility for these linked websites.
 
 **Privacy of young children**
 
-Product Bliss is concerned about the privacy of young children and we do not knowingly collect any personal information from a child under 13. We do not sell products for purchase by children and all children's products we sell are for purchase by adults only.
+Ruggable is concerned about the privacy of young children and we do not knowingly collect any personal information from a child under 13. We do not sell products for purchase by children and all children's products we sell are for purchase by adults only.
 
 **Security**
 
-The security of your information is very important to us. When ordering online from our website, your information is protected by Secure Socket Layer (SSL) technology. SSL technology encrypts your order information to protect it from being decoded by anyone other than Product Bliss.
+The security of your information is very important to us. When ordering online from our website, your information is protected by Secure Socket Layer (SSL) technology. SSL technology encrypts your order information to protect it from being decoded by anyone other than Ruggable.
 
 While we implement these and other security measures on our sites, please note that 100% security is not always possible. You play a role in protecting your information as well. Because your password permits access to your personal information, please keep your password secret and do not disclose it to others.
 
@@ -60,7 +60,7 @@ We do not currently accept international orders, but if you are visiting Ruggabl
 
 **Your California rights**
 
-Product Bliss collects various types of personal information about you both online and offline, as described in this privacy policy. Under California law, customers of Product Bliss who are residents of California may request certain information about our disclosure of personal information during the prior calendar year to third parties for their direct marketing purposes. To make such a request, please write to us at the following address: Ruggable Customer Relations 4950 Santa Fe Avenue, Vernon, CA  90058.  Alternatively, you may send us an email at [contactus@ruggable.com](mailto:contactus@ruggable.com) with the words "California Privacy Rights" in the subject line.
+Ruggable collects various types of personal information about you both online and offline, as described in this privacy policy. Under California law, customers of Ruggable who are residents of California may request certain information about our disclosure of personal information during the prior calendar year to third parties for their direct marketing purposes. To make such a request, please write to us at the following address: Ruggable Customer Relations 4950 Santa Fe Avenue, Vernon, CA  90058.  Alternatively, you may send us an email at [contactus@ruggable.com](mailto:contactus@ruggable.com) with the words "California Privacy Rights" in the subject line.
 
 **Privacy policy updates  **
 
