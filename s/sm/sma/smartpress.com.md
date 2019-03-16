@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the smartpress.com privacy policy that was archived on 2017-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170612045353id_/https%3A//blog.smartpress.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the smartpress.com privacy policy that was archived on 2019-03-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190316221952id_/https%3A//support.smartpress.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy | Smartpress Support
 
 **Privacy Policy**  
 **Commitment to Privacy**  
