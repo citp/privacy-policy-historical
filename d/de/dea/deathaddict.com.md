@@ -1,14 +1,14 @@
-> *The following text is extracted and transformed from the deathaddict.com privacy policy that was archived on 2018-10-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181020154424id_/https%3A//forum.deathaddict.com/pages/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the deathaddict.com privacy policy that was archived on 2019-03-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190316034933id_/https%3A//forum.deathaddict.co/pages/privacy-statement) for the most accurate reproduction.*
 
 # Privacy Statement | Death Addict - Death is a Hell of a Drug
 
 [ ](https://web.archive.org/threads/featured)
 
-[__](https://web.archive.org/web/20181020154424id_/https://forum.deathaddict.com/pages/privacy-statement/misc/quick-navigation-menu?selected=node-65 "Open quick navigation")
+[__](https://web.archive.org/web/20190316034933id_/https://forum.deathaddict.co/pages/privacy-statement/misc/quick-navigation-menu?selected=node-65 "Open quick navigation")
 
 **Death Addict - Death is a Hell of a Drug**
 
-[Home](https://web.archive.org/threads/featured) [Forums](https://forum.deathaddict.com/) >
+[Home](https://web.archive.org/threads/featured) [Forums](https://forum.deathaddict.co/) >
 
 **DeathAddict.com Privacy Statement**
 
@@ -76,8 +76,8 @@ We will not disclose personally identifiable information we collect from you to 
 
 ·         To respond to legal processes or to comply with the law
 
-[__](https://web.archive.org/web/20181020154424id_/https://forum.deathaddict.com/pages/privacy-statement/misc/quick-navigation-menu?selected=node-65 "Open quick navigation")
+[__](https://web.archive.org/web/20190316034933id_/https://forum.deathaddict.co/pages/privacy-statement/misc/quick-navigation-menu?selected=node-65 "Open quick navigation")
 
 **Death Addict - Death is a Hell of a Drug**
 
-[Home](https://web.archive.org/threads/featured) [Forums](https://forum.deathaddict.com/) >
+[Home](https://web.archive.org/threads/featured) [Forums](https://forum.deathaddict.co/) >
