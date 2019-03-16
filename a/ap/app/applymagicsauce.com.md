@@ -1,82 +1,144 @@
-> *The following text is extracted and transformed from the applymagicsauce.com privacy policy that was archived on 2018-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180616193548id_/https%3A//applymagicsauce.com/privacy_and_cookies.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the applymagicsauce.com privacy policy that was archived on 2019-03-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190316140432id_/https%3A//applymagicsauce.com/privacy-and-cookies) for the most accurate reproduction.*
 
-# Apply Magic Sauce - Prediction API - Privacy and Cookie Policy
+# Apply Magic Sauce - Prediction API
 
-This website is operated by the University of Cambridge Psychometrics Centre, Judge Business School, Trumpington Street, Cambridge, United Kingdom CB2 1AG. This document explains what happens to any personal data that you provide to us, or that we collect from you whilst you visit our site and how we use cookies on this website.
+This website is operated by the University of Cambridge Psychometrics Centre, Cambridge Judge Business School, Trumpington Street, Cambridge, United Kingdom CB2 1AG ("us", "we", or "our"). 
 
-We may update this Policy from time to time. Please review its terms regularly. Unless otherwise defined in this Privacy Policy, terms used in this Privacy Policy have the same meanings as in our Terms and Conditions. 
+This document (the "Policy") explains what happens to any personal data that you provide to us, or that we collect from you whilst you visit www.applymagicsauce.com (the "site", "website") and how we use cookies on this website. 
 
-## Information That We Collect
+We may update this Policy from time to time and your continued use of the site after any such changes constitutes your acceptance of the new Policy. Please review its terms regularly. 
 
-We collect information that your browser sends whenever you visit our website. This information constitutes standard web server log data, including the following:
+## This website is for Personal Use Only
+
+The demos, prediction tools, tests and other resources made available by us via this website are strictly for personal self-discovery and non-commercial use only. You agree that you will only use the site for these purposes and understand that you are prohibited from using or attempting to use the site or any of its features to conduct assessment of any kind on others. You may not submit or otherwise attempt to analyse any data via this site other than data which belongs and pertains solely to you as an individual. 
+
+You agree that you will under no circumstances use the site or permit others to do so nor any data, insights or other aspects of it in any way that could be considered to promote, facilitate or be otherwise connected to any of the following: 
+
+  1. Alcohol-related content or sale of tobacco products, ammunition and/or firearms; 
+  2. Online gambling, games of skill or lotteries, including online casinos, sports books, bingo, or poker; 
+  3. Political purposes, campaigning, polling, solicitation of contributions or any other activities that are funded to any extent with campaign funds, even if the activity is not overtly political in nature; 
+  4. Illegal activity and/or illegal contests, pyramid schemes, sweepstakes or chain letters; 
+  5. Content or purposes that are or could reasonably be perceived to be hateful, infringing, unlawful, harassing, threatening, defamatory, or pornographic, incite violence, or contain nudity or graphic or gratuitous violence; 
+  6. Content or purposes that infringe upon the rights of any third party, including privacy rights or that is deceptive, misleading or fraudulent; 
+  7. Any other purposes that in our reasonable opinion could adversely affect the good reputation of the University of Cambridge Psychometrics Centre or of JBS Executive Education Limited and/or cause injury or disrepute to either. 
+
+
+
+Nothing on this site constitutes, or is meant to constitute, advice of any kind. You must not rely on any information on this site as an alternative to medical or psychological advice from your doctor or other professional healthcare provider. 
+
+## Information we collect from your browser
+
+We collect information that your browser sends whenever you visit our website for the purpose of site functionality. This information constitutes standard Apache log data, including the following: 
 
   * Internet address of connecting client
   * Time stamp
   * Request made
   * Server's response code and number of bytes returned
   * The "user agent" string identifying the make of client
-  * Your browser type, browser version, the pages of our Site that you visit, the time and date of your visit, the time spent on those pages and other statistics 
+  * Your browser type, browser version, the pages of our site that you visit, the time and date of your visit, the time spent on those pages and other statistics 
 
 
 
-If you log in to demos and predictions available on our website, then we also collect certain information that is necessary to provide you with feedback. The content of this is determined by what you choose to share, but may include:
+## Information we collect when you connect a third-party platform account
 
-  * Your Facebook user ID, as specific to the Apply Magic Sauce application (note: this is not a universal Facebook platform ID). This is stored in hashed form. 
+If you log in to our prediction demo using a third-party platform account (e.g. Facebook Connect or Twitter Login), we will also collect social media information that is provided voluntarily by you via the consent dialogue of the relevant third-party platform. This information may include: 
+
+  * Your Facebook userID, as specific to the Apply Magic Sauce application (note: this is not a universal Facebook platform ID). This is stored by us in hashed form 
+  * Your Twitter ID. This is stored by us in hashed form
   * LikeIDs of the Pages you like or follow on Facebook
-  * Your Facebook status updates, Tweets and other user-generated text data
+  * The text content of your Facebook Posts, comments or Tweets
+  * Any profile information that you have chosen to make public
 
 
 
-We do not collect any social media information about you other than what you explicitly consent to share with the Apply Magic Sauce app via the consent dialogue of the relevant third party platform. We also do not store the results of any predictions generated by this website.
+We do not collect any social media information about you other than what you explicitly consent to share with the Apply Magic Sauce app via the consent dialogue of the relevant third party platform. This website uses Apply Magic Sauce API in order to generate predictions but this API does not store the results of any predictions generated by this website. 
 
-If you contact us through the Contact Form on this website, then we will collect and use the information submitted through it, including your email, for the purpose of responding to your enquiry.
+## Information we collect when you share a file containing your data
 
-You can view and delete all information that we store about you as a result of you logging into the prediction demo on this website using our [My Data @ Apply Magic Sauce Tool](https://mydata.applymagicsauce.com/). 
+The AMS Data Portability Tool allows you to share a file containing digital footprint data for the purpose of generating a prediction. This is an alternative to logging in with a third party platform account. When you select a file, we analyse it client-side (i.e. on your computer) in order to locate and extract only the files that are relevant for the purpose of prediction. 
+
+Even if you select a folder containing many files, the only files that we upload to our server are those from which predictions are generated, for example pages.json or tweets.csv. 
+
+When you use the AMS prediction demo (by any method) we also generate a unique CamPsych ID for you and show this on screen. This ID does not expire and is not reliant on any external platform resources, ensuring that you can always use it to request deletion of your data, even if you lose access to your Facebook or Twitter account, or if these login methods cease to function. 
+
+## Information we collect through forms
+
+If you contact us through the contact form on the website, then we will collect and use the information submitted through it, including your email, for the purpose of responding to your enquiry. 
+
+If you sign up to use Apply Magic Sauce API, then we will collect and use the information submitted through that form, including your email, for the purpose of account maintenance (required) and for marketing if you have opted in to receive communications from us. You can opt-out of receiving marketing from us at anytime via the unsubscribe link in every email. 
 
 ## Use of Cookies
 
-Cookies provide information regarding the computer used by a visitor. We use cookies on this site to gather information about your computer in order to enhance your experience and enable certain features.
+Cookies provide information regarding the computer used by a visitor. We use cookies on this site to gather information about your computer in order to enhance your experience and enable certain features. 
 
-We use self-expiring session cookies for the purpose of maintaining the test session for a given user. We also use them to anonymously match the session with sessions on our other websites, which are: [youronline.life](https://youronline.life/), [discovermyprofile.com](https://discovermyprofile.com/), [concertoplatform.com](http://concertoplatform.com/) and occasionally other domains that explicitly state if cookies are used in their respective user consent policies. Session matching merely tells us whether it was likely to be the same person using multiple websites we manage, without telling us who this person is.
+We use self-expiring session cookies for the purpose of maintaining the test session for a given user. We also use them to anonymously match the session with sessions on other websites that are maintained by the University of Cambridge Psychometrics Centre. These websites will state if cookies are used in their respective user consent policies. Session matching merely tells us whether it was likely to be the same person using multiple websites that we manage, without telling us who this person is. 
 
-We also use cookies for Google Analytics, Facebook Social Plugins and Twitter Social Plugins.
+We also use cookies for Google reCAPTCHA, Google Analytics, Facebook Social Plugins and Twitter Social Plugins. 
 
-Google Analytics is a web analytics tool that helps website owners understand how visitors engage with their website. Google Analytics customers can view a variety of reports about how visitors interact with their website so that they can improve it. Like many services, Google Analytics uses first-party cookies to track visitor interactions as in our case, where they are used to collect information about how visitors use our site. We then use the information to compile reports and to help us improve our site. Google Analytics collects information anonymously. It reports website trends without identifying individual visitors. You can opt out of Google Analytics without affecting how you visit our site. For more information on opting out of being tracked by Google Analytics across all websites you use, visit <http://www.google.com/policies/privacy/partners/>. 
+Google Analytics is a web analytics tool that helps website owners understand how visitors engage with their website. Google Analytics customers can view a variety of reports about how visitors interact with their website so that they can improve it. Like many services, Google Analytics uses first-party cookies to track visitor interactions as in our case, where they are used to collect information about how visitors use our site. We then use the information to compile reports and to help us improve our site. Google Analytics collects information anonymously. It reports website trends without identifying individual visitors. You can opt out of Google Analytics without affecting how you visit our site. For more information on opting out of being tracked by Google Analytics across all websites you use, visit [http://www.google.com/policies/privacy/partners/](https://policies.google.com/technologies/partner-sites?hl=en-GB&gl=uk). 
 
-Facebook Social Plugins are optional part of the site and one needs to have a Facebook Account to use them. Their usage is a subject to Facebook’s Data Policy.
+In order to prevent spambots and protect information sent via our contact form, we use the reCAPTCHA service provided by Google. The service determines whether the form was completed by a human being or was the result of misuse, processed automatically by a computer. The service includes sending the IP address to Google and possibly other data if required by Google for reCAPTCHA. For this purpose, your entry is sent and used by Google. We do not store this data for any other purposes. For more information, visit <https://policies.google.com/privacy?hl=en-GB>. 
 
-Twitter Social Plugins are optional part of the site and one needs to have a Twitter Account to use them. Their usage is a subject to Twitter’s Privacy Policy.
+Facebook Social Plugins are an optional part of the site and one needs to have a Facebook Account to use them. For information on the purpose and scope of data collection by Facebook and how it is processed and used, as well as your rights in this respect and settings options for protecting your privacy please visit [Facebook's Data Policy](https://www.facebook.com/policy.php). 
 
-You can adjust the settings on your computer to decline any cookies if you wish. However, if you do not accept cookies, you may not be able to use some portions of our site. For more information please read the advice at [AboutCookies.org](http://aboutcookies.org/). 
+Twitter Social Plugins are an optional part of the site and one needs to have a Twitter Account to use them. For information on the purpose and scope of the collection of data and the subsequent processing and use of the data by Twitter, as well as your corresponding rights and setting options for controlling privacy, please refer to [Twitter's Privacy Policy](https://twitter.com/en/privacy). 
+
+You can adjust the settings on your computer to decline any cookies if you wish. However, if you do not accept cookies, you may not be able to use some portions of our site. For more information please read the advice at AboutCookies.org. 
 
 ## Use of Your Information
 
-The information you submit to the website may be used for scientific research purposes, as defined in Recital 159 of the GDPR, which includes for example technological development and demonstration, fundamental research and applied research. The information will be stored for as long as it is relevant for these scientific research purposes, which are conducted in the public interest.
+The information you submit to the website may be used for scientific research purposes, as defined in Recital 159 of the General Data Protection Regulation, which includes for example technological development and demonstration, fundamental research and applied research. The information will be stored for as long as it is relevant for these scientific research purposes, which are conducted in the public interest. 
 
-If you have previously visited or submitted data to another website maintained by the University of Cambridge Psychometrics Centre, we may match the data you submit to this website with that other data for the purposes of scientific research and to provide you with more accurate and informative feedback. This matching is done on an anonymous basis using a self-expiring session cookie. We cannot and will not ever attempt to personally identify or contact any individual user of this website.
+If you have previously visited or submitted data to another website maintained by the University of Cambridge Psychometrics Centre, we may match the data you submit to this website with that other data for the purposes of scientific research and to provide you with more accurate and informative feedback. This matching is done on an anonymous basis using a self-expiring session cookie. We cannot and will not ever attempt to personally identify or contact any individual user of this website. In operating our website it may become necessary to transfer data that we collect from you to locations outside of the European Union for processing and storing. We will take all reasonable steps to ensure that your data remains secure in such an event. 
 
-In operating our website it may become necessary to transfer data that we collect from you to locations outside of the European Union for processing and storing. We will take all reasonable steps to ensure that your data remains secure in such an event.
+If you choose to share your email address with us, then we will use it for the purposes that you consent to at the time of sharing, which may be only for account management purposes or additionally for marketing purposes. In the latter case, we may use your email address to inform you of new features that may be of interest to you. Your email will never be shared with third parties for marketing purposes. 
 
-Lastly, we may use the information we collect in order to comply with applicable laws and to provide you with information that you request from us.
+Lastly, we may use the information we collect in order to comply with applicable laws and to provide you with information that you request from us. 
 
-## Disclosure of Information
+## Disclosure of information
 
-We may share the information collected by this website with other academic researchers (with a formal University affiliation and email) or with registered charities and non-profits, but only in an anonymous format such that the information can never be used to identify you or any other individual user. We will never share your data with any commercial organisations. We may additional be required to disclose information for the purpose of complying with legal obligations.
+We may share the information collected by this website with other academic researchers (with a formal University affiliation and email) or with registered charities and non-profits, but only in an anonymous format such that the information cannot be used to identify you or any other individual user. We will never share your data with any commercial organisations. We may additionally be required to disclose information for the purpose of complying with legal obligations to enforce our rights or the terms of this policy. 
+
+## Your rights in relation to your data
+
+You have the right to view or delete any information that you have submitted to us through this website at any time. We have built a subject access tool to allow you to do this more conveniently, which is available at [mydata.applymagicsauce.com](https://mydata.applymagicsauce.com/). 
+
+Please also refer to [JBSEEL's data protection policies](https://www.jbs.cam.ac.uk/about-this-site/privacy-policy/executive-education-data-protection/) for further information on your rights. 
 
 ## Third Party Links
 
-On occasion we may include links to third parties on this website. Where we provide a link it does not mean that we endorse or approve that site’s policy towards privacy. You should review the third party’s privacy policy before sending them any personal data.
+On occasion we may include links to third parties on this website. Where we provide a link it does not mean that we endorse or approve that site of that site's policy towards privacy. You should review the third party's privacy policy before sending them any personal data. 
 
-## Access to Information
+## Intellectual Property
 
-You have the right to view and delete any information that you have submitted to us through this website at any time. We have built a [My Data @ Apply Magic Sauce Tool](https://mydata.applymagicsauce.com/) to allow you to do this more conveniently.
+The site and its original content, features and functionality are owned by the University of Cambridge Psychometrics Centre and are protected by international copyright, trademark, patent, trade secret and other intellectual property or proprietary rights laws. You shall not attempt to adapt, hack, reverse-engineer, data-mine or copy any aspect of it in a way that recreates any of its functions or results. 
+
+You acknowledge that in no way does your use of the site generate any intellectual property rights in any of its underlying data, source code, algorithms, processes, appearances, interfaces, instances or other resources, and that the site remains at all times the sole property of the University of Cambridge Psychometrics Centre. 
+
+## Disclaimer
+
+You assume sole responsibility for any data, predictions, results or other outputs you obtain by using the site. 
+
+We do not guarantee any level of availability or performance whatsoever of any features of the site and we reserve the rights to interrupt, delay, discontinue or otherwise alter these features and their availability at any time as we deem necessary. 
+
+To the maximum extent permitted by applicable law in no circumstances will we (including our directors, officers, agents, suppliers and licensors) be liable to you for any indirect, incidental, consequential, punitive or exemplary, financial or economic loss or damage including, without limitation, any loss of profit, revenue, business opportunity; use of the service; goodwill or loss or corruption of data whether in contract, tort, negligence, breach of statutory duty or otherwise whatsoever or howsoever arising out of or in connection with this Policy. 
+
+Nothing contained or implied in this Policy creates any partnership, agency or trust, and no party has any authority to bind the other party in any way. 
+
+The Contracts (Rights of Third Parties) Act 1999 shall not apply to the Policy and nothing in the Policy shall confer or purport to confer on or operate to give any third party any benefit or any right to enforce any term of the Policy, except as expressly provided in the Policy. 
+
+## Governing law and jurisdiction
+
+This agreement, and any dispute or claim arising out of or in connection with it or its subject matter or formation (including non-contractual disputes or claims), shall be governed by, and construed in accordance with, the laws of England. 
+
+The parties irrevocably agree that the courts of England shall have exclusive jurisdiction to settle any dispute or claim that arises out of or in connection with this agreement or its subject matter or formation (including non-contractual disputes or claims). 
 
 ## Contacting Us
 
-This website was developed and is maintained by the University of Cambridge Psychometrics Centre and UK laws apply to this website. Please direct any enquiries regarding this privacy policy to University of Cambridge Psychometrics Centre, Judge Business School, Trumpington Street, Cambridge CB2 1AG or via [Contact Us Form](https://web.archive.org/contact_us.html).
+This website was developed and is maintained by the University of Cambridge Psychometrics Centre and laws of England and Wales apply to this website. Please direct any enquiries regarding this privacy policy to University of Cambridge Psychometrics Centre, Judge Business School, Trumpington Street, Cambridge CB2 1AG or via our [contact us](https://applymagicsauce.com/contact-us) form. 
 
-The data controller for the purposes of this website is JBS Executive Education Limited (“JBSEEL”), a wholly owned subsidiary of the University of Cambridge (company number 5908393). JBSEEL maintains a data protection notification (registration) with the Information Commissioner and is committed to protecting and respecting individuals’ privacy in compliance with data protection legislation.
+The data controller for the purposes of this website is JBS Executive Education Limited ("JBSEEL"), a wholly owned subsidiary of the University of Cambridge (company number 5908393). JBSEEL maintains a data protection notification (registration) with the Information Commissioner and is committed to protecting and respecting individuals' privacy in compliance with data protection legislation. Please read [JBSEEL's data protection policies](https://www.jbs.cam.ac.uk/about-this-site/privacy-policy/executive-education-data-protection/) for further information. 
 
-If you are not happy with the way your information is being handled, or with the response received from us, you have the right to lodge a complaint with the Information Commissioner’s Office at Wycliffe House, Water Lane, Wilmslow, SK9 5AF.
+If you are not happy with the way your information is being handled, or with the response received from us, you have the right to lodge a complaint with the Information Commissioner's Office at Wycliffe House, Water Lane, Wilmslow, SK9 5AF. 
 
-This Privacy Policy was last modified on 26 March 2018
+This Policy was last modified on 3 December 2018. 
