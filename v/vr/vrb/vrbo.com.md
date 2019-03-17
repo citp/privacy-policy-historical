@@ -1,14 +1,18 @@
-> *The following text is extracted and transformed from the vrbo.com privacy policy that was archived on 2018-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181203015858id_/https%3A//www.vrbo.com/info/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vrbo.com privacy policy that was archived on 2019-03-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190317064848id_/https%3A//www.vrbo.com/info/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - VRBO Vacation Rentals by Owner
 
-_Last updated: June 5, 2017_
+**Privacy Policies**
+
+**HomeAway Privacy Policy**
+
+Last updated November 14, 2017
 
 We are serious about protecting the privacy of our users.  This Privacy Policy describes how we use and protect your personal data.  It applies to HomeAway.com, VRBO.com, VacationRentals.com, software.homeaway.com, any subdomains thereof and any other websites where this policy is linked to in the footer of the page and any mobile application of such HomeAway websites (which we have collectively called the “Site” in this policy).
 
 The Site is operated by HomeAway.com, Inc., which is part of the HomeAway group.  The terms “users” or “you” as used in this Privacy Policy, refer to travelers, who use the Site to look for properties to rent, property owners and managers who list properties for rent on the Site and other users who use software or other tools or services we provide on a Site.  It also applies to other visitors to our site - for example those applying for a job through the Site.
 
-We use information collected about you as explained in this Privacy Policy. The Site may contain links to third parties' websites. We're not responsible for the privacy practices or the content of those websites. The Site may also contain links to terms and conditions and privacy policies of third party providers who provide tools or services on a Site. Therefore, please read carefully any privacy policies on those links or websites before either agreeing to their terms or using those tools, services or websites.  Unless we explain otherwise in this policy, the words and phrases used in this policy have the same meaning as in the Terms and Conditions - available at [Terms & Conditions](https://www.homeaway.com/info/about-us/legal/terms-conditions).
+We use information collected about you as explained in this Privacy Policy. The Site may contain links to third parties' websites. We're not responsible for the privacy practices or the content of those websites. The Site may also contain links to terms and conditions and privacy policies of third party providers who provide tools or services on a Site. Therefore, please read carefully any privacy policies on those links or websites before either agreeing to their terms or using those tools, services or websites.  Unless we explain otherwise in this policy, the words and phrases used in this policy have the same meaning as in the Terms and Conditions - available at  _[Terms& Conditions](https://web.archive.org/web/20171228000410/https:/www.homeaway.com/info/about-us/legal/terms-conditions)_.
 
 By providing information to us when listing a property, searching for a property, using any tool or service on a Site or otherwise using the Site, you expressly agree to this Privacy Policy and our terms of use. This Privacy Policy was last updated on the date set forth above and applies from that date.  We may occasionally amend this Privacy Policy to reflect regulatory requirements, advances in technology, Site updates and changes in our information collection and disclosure practices. Any new policy will automatically be effective when it is published on a Site. You should therefore return here regularly to view our most up to date Privacy Policy. You should also print a copy for your records.
 
@@ -18,7 +22,7 @@ Your personal data (also referred to as personal information) - that is, data th
 
 We do not knowingly collect or process data from anyone under the age of eighteen (18) years old.
 
-HomeAway Group sites may also use Google Analytics to gather statistics on site usage.  This may involve the use of cookies.  There are more details in our Cookie Notice and in Google’s own privacy policy.  Google may aggregate data they collect from their various services including Google Analytics, Google Translate, Google Maps and YouTube.  You acknowledge and accept that HomeAway Group has no control over Google’s data collection.  We strongly advise you to look at Google’s privacy policy for details of their data collection practices. You can find more information about how Google uses data here: <https://www.google.com/policies/privacy/partners/>. If you want to opt out from Google Analytics, please check here: <https://tools.google.com/dlpage/gaoptout>.
+HomeAway Group sites may also use Google Analytics to gather statistics on site usage.  This may involve the use of cookies.  There are more details in our Cookie Notice and in Google’s own privacy policy.  Google may aggregate data they collect from their various services including Google Analytics, Google Translate, Google Maps and YouTube.  You acknowledge and accept that HomeAway Group has no control over Google’s data collection.  We strongly advise you to look at Google’s privacy policy for details of their data collection practices. You can find more information about how Google uses data here:  _[https://www.google.com/policies/privacy/partners/](https://web.archive.org/web/20171228000410/https:/www.google.com/policies/privacy/partners/)_. If you want to opt out from Google Analytics, please check here:  _[https://tools.google.com/dlpage/gaoptout](https://web.archive.org/web/20171228000410/https:/tools.google.com/dlpage/gaoptout)_.
 
 **The information we gather**
 
@@ -136,13 +140,13 @@ You can reduce the information cookies collected from your device.  An easy way
 
 We gather and share information concerning the use of the Site by property owners and managers and travelers with one or more third-party tracking companies for the purpose of reporting statistics. To do this, some of the pages you visit on our Site use electronic images placed in the web page code, called pixel tags (also called "clear GIFs" or "web beacons") that can serve many of the same purposes as cookies.
 
-Web beacons may be used to track the traffic patterns of users from one page to another in order to maximize web traffic flow. Our third-party advertising service providers may also use web beacons to recognize you when you visit the Site and to help determine how you found the Site. If you would like more information about this and to know your choices about not having this information used by these companies, please visit: the Digital Advertising Alliance’s website, <http://www.aboutads.info/>, or the Network Advertising Initiative’s website, <http://networkadvertising.org/consumer/opt_out.asp>.
+Web beacons may be used to track the traffic patterns of users from one page to another in order to maximize web traffic flow. Our third-party advertising service providers may also use web beacons to recognize you when you visit the Site and to help determine how you found the Site. If you would like more information about this and to know your choices about not having this information used by these companies, please visit: the Digital Advertising Alliance’s website,  _[http://www.aboutads.info/](https://web.archive.org/web/20171228000410/http:/www.aboutads.info/)_ , or the Network Advertising Initiative’s website,  _[http://networkadvertising.org/consumer/opt_out.asp](https://web.archive.org/web/20171228000410/http:/networkadvertising.org/consumer/opt_out.asp)_.
 
 Your browser or device may include “Do Not Track” functionality. Our information collection and disclosure practices, and the choices that we provide to visitors, will continue to operate as described in this Privacy Policy, whether or not a Do Not Track signal is received.
 
 **Phishing or False emails**
 
-If you receive an unsolicited email that appears to be from us or a property owner or manager that requests personal information (such as your credit card, login, or password), or that asks you to verify or confirm your account or other personal information by clicking on a link, that email was likely to have been sent by someone trying to unlawfully obtain your information, sometimes referred to as a "phisher" or "spoofer." We do not ask for this type of information in an email. Do not provide the information or click on the link.  Please contact us at [Customer Support](http://help.homeaway.com/) if you get an email like this.
+If you receive an unsolicited email that appears to be from us or a property owner or manager that requests personal information (such as your credit card, login, or password), or that asks you to verify or confirm your account or other personal information by clicking on a link, that email was likely to have been sent by someone trying to unlawfully obtain your information, sometimes referred to as a "phisher" or "spoofer." We do not ask for this type of information in an email. Do not provide the information or click on the link.  Please contact us at  _[Customer Support](https://web.archive.org/web/20171228000410/http:/help.homeaway.com/)_  if you get an email like this.
 
 **Job applicants, current and former employees**
 
@@ -166,11 +170,11 @@ We will contact you from time to time for marketing purposes. Unless you have op
 
 You may opt-out of receiving marketing communications from us by the following means:
 
-1.    Contact us at [Customer Support](http://help.homeaway.com/);
+1.    Contact us at  _[Customer Support](https://web.archive.org/web/20171228000410/http:/help.homeaway.com/)_ ;
 
 2.    Follow the instructions included in each communication or newsletter;
 
-3.    Use the [Unsubscribe function](https://www.homeaway.com/newsletter/subscribe); or
+3.    Use the  _[Unsubscribe function](https://web.archive.org/web/20171228000410/https:/www.homeaway.com/newsletter/subscribe)_ ; or
 
 4.    Mail the request to us at 1011 W. Fifth Street, Suite 300 Austin, Texas 78703.
 
@@ -182,4 +186,4 @@ We will retain your personal data only as long as is necessary for the purposes 
 
 **How do I contact you?**
 
-If you have any questions about this Privacy Policy, the practices of this Site, or your dealings with this Site, we encourage you to contact us at [Customer Support](http://help.homeaway.com/). 
+If you have any questions about this Privacy Policy, the practices of this Site, or your dealings with this Site, we encourage you to contact us at  _[Customer Support](https://web.archive.org/web/20171228000410/http:/help.homeaway.com/)_. 
