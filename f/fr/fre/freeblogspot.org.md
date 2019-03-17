@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the freeblogspot.org privacy policy that was archived on 2018-11-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181114131122id_/http%3A//freeblogspot.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freeblogspot.org privacy policy that was archived on 2019-03-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190317095024id_/http%3A//freeblogspot.org/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy – Free Blog Spot
 
