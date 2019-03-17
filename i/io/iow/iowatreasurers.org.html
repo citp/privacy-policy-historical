@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the iowatreasurers.org privacy policy that was archived on 2016-10-18.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20161018170240id_/https%3A//www.iowatreasurers.org/privacy.php) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the iowatreasurers.org privacy policy that was archived on 2019-03-17.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20190317223409id_/https%3A//www.iowatreasurers.org/privacy.php) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd"><html lang="en"><head>
 
@@ -56,9 +56,578 @@
 	<!-- Bootstrap theme -->
     
 	<link href="datepicker/css/datepicker.css" rel="stylesheet">
-	<script src="methods/parceldetail.js?version=2"></script>
+	<!-- <script src="methods/parceldetail.js?version=2"></script> -->
+	<script>
+
+function
+
+onSelectAll(mycheckbox) {
+ 
+ var a = $("." + mycheckbox.id + "class");
+ var status = mycheckbox.checked;
+ $(a).each(function () {
+    $(this).attr("checked", status);
+  })
+
+
+}
+
+
+function
+
+showDetails(mycheckbox) {
+ 
+  var a = $("." + mycheckbox.id);
+  var status = mycheckbox.checked;
+  $(a).each(function () {
+    $(this).toggle();
+  })
+}
+
+function
+
+payFirst(mycheckbox,ii,end) {
+ var i=1;
+ var status = mycheckbox.checked;
+ var end=$("." + ii + "Count").val();
+ while (i<=end){
+  var a = $("." + ii + "FirstPayment" + i);
+  var b = $("." + ii + "FirstAmount" + i);
+  var c = $("." + ii + "FirstCheckBox" + i);
+  $(c).attr('checked',status);
+  if (status){$(a).val($(b).val());}
+	else {$(a).val('0.00');}
+  i++;
+  }
+   totalFirst(ii,end);
+  
+  
+}
+
+function
+
+totalFirst(group,end) {
+ var i=1;
+ var errormessage=false;
+ var warningmessage=false;
+ var c = $("." + group + "FirstTotal");
+ $(c).val('0.00');
+ while (i<=end){
+  var a = $("." + group + "FirstPayment" + i);
+  var z = $("." + group + "FirstAmount" + i);
+  var y = $("." + group + "FirstPI" + i);
+  var b = $("." + group + "SecondPayment" + i);
+  if ($("." + group + "Escrow" + i).val()=='1'){alert('Your mortgage company has submitted a file for payment on this parcel. Please contact your mortgage company before continuing payment. If you are responsible for payment of this parcel rather than your mortgage company, please continue processing this payment.');}
+  if (undefined != $(a).val())
+	{
+				if (+($(a).val())>+($(z).val())) {$(a).val($(z).val()); alert('Partial can not be more than amount due');}
+			    if ($(".ForcePenaltyAndInterest").val()==1){if ((+($(a).val())<+($(y).val()))&+($(a).val())>0) {$(a).val($(y).val()); alert('Partial must be at least penalty and interest');}}
+				if ($(".MinPayment").val()>0){if ((+($(a).val())<+($(".MinPayment").val()))&+($(a).val())>0&+($(z).val())>$(".MinPayment").val()) {$(a).val($(".MinPayment").val()); alert('Partial must be at least '+$(".MinPayment").val());}}
+	$(c).val((parseFloat($(a).val())+parseFloat($(c).val())).toFixed(2));}
+  if (parseFloat($(b).val()).toFixed(2)!=0.00 && parseFloat($(a).val()).toFixed(2)==0.00 && parseFloat($(z).val()).toFixed(2)!=0.00){
+		
+		if ($(".stoppayment").val()==1)
+			{
+				errormessage=true;
+				$(b).val('0.00');
+				var parcelcheckbox = $("." + group + "SecondCheckBox" + i);
+				$(parcelcheckbox).attr('checked', false);
+				var parcelgroupcheckbox = $("." + group + "Second");
+				$(parcelgroupcheckbox).attr('checked', false);
+			}
+		else {warningmessage=true;}
+		}
+  if ($(".inorder").val()==1 && $("." + group + "FirstParcel" + i).val()==0)
+			{
+				if ( 
+						((parseFloat($("." + group + "FirstAmount" + (i-1)).val() || 0.00)-parseFloat($("." + group + "FirstPayment" + (i-1)).val() || 0.00)!=0.00) && parseFloat($("." + group + "FirstPayment" + (i)).val() || 0.00)!=0.00) ||
+						((parseFloat($("." + group + "SecondAmount" + (i-1)).val() || 0.00)-parseFloat($("." + group + "SecondPayment" + (i-1)).val() || 0.00)!=0.00) && parseFloat($("." + group + "SecondPayment" + (i)).val() || 0.00)!=0.00) ||
+						((parseFloat($("." + group + "ThirdAmount" + (i-1)).val() || 0.00)-parseFloat($("." + group + "ThirdPayment" + (i-1)).val() || 0.00)!=0.00) && parseFloat($("." + group + "ThirdPayment" + (i)).val() || 0.00)!=0.00) ||
+						((parseFloat($("." + group + "FourthAmount" + (i-1)).val() || 0.00)-parseFloat($("." + group + "FourthPayment" + (i-1)).val() || 0.00)!=0.00) && parseFloat($("." + group + "FourthPayment" + (i)).val() || 0.00)!=0.00)
+					)
+					
+						{
+						
+														
+							$("." + group + "FirstPayment" + i).val('0.00');
+							var parcelcheckbox = $("." + group + "FirstCheckBox" + i);
+							$(parcelcheckbox).attr('checked', false);
+							var parcelgroupcheckbox = $("." + group + "First");
+							$(parcelgroupcheckbox).attr('checked', false);
+							
+							$("." + group + "SecondPayment" + i).val('0.00');
+							var parcelcheckbox = $("." + group + "SecondCheckBox" + i);
+							$(parcelcheckbox).attr('checked', false);
+							var parcelgroupcheckbox = $("." + group + "Second");
+							$(parcelgroupcheckbox).attr('checked', false);
+							
+							$("." + group + "ThirdPayment" + i).val('0.00');
+							var parcelcheckbox = $("." + group + "ThirdCheckBox" + i);
+							$(parcelcheckbox).attr('checked', false);
+							var parcelgroupcheckbox = $("." + group + "Third");
+							$(parcelgroupcheckbox).attr('checked', false);
+							
+							$("." + group + "FourthPayment" + i).val('0.00');
+							var parcelcheckbox = $("." + group + "FourthCheckBox" + i);
+							$(parcelcheckbox).attr('checked', false);
+							var parcelgroupcheckbox = $("." + group + "Fourth");
+							$(parcelgroupcheckbox).attr('checked', false);
+							
+							totalFirst(group,end);
+							totalSecond(group,end);
+							totalThird(group,end);
+							totalFourth(group,end);
+									
+						}
+						
+			}
+  i++;
+  }
+  if (errormessage){totalSecond(group,end);}
+  grandTotal(group);
+  // if (errormessage){alert('First must be paid before second ');
+  	 	if (errormessage){alert('First (due in September) must be paid before second (Due in March)'); 	
+	}
+  // if (warningmessage){alert('If you intend to pay the 2nd installment due March 1, please ignore this message. Otherwise uncheck, the 2nd installment and select the 1st installment due September 1 for payment instead');
+		 	if (warningmessage){alert('You are attempting to pay second installment (Due in March)  prior to first, if first installment (Due in September) is not paid in full before the due date you may receive a penalty'); 	
+	}
+  
+  
+}
+function
+
+payFirstParcel(mycheckbox,i,ii,end) {
+ 
+ var status = mycheckbox.checked;
+  var a = $("." + i + "FirstPayment" + ii);
+  var b = $("." + i + "FirstAmount" + ii);
+  if (status){$(a).val($(b).val());}
+	else {$(a).val('0.00');}
+  totalFirst(i,end);
+  }
+  
+  
+function
+
+payThird(mycheckbox,ii,end) {
+ var i=1;
+ var status = mycheckbox.checked;
+ while (i<=end){
+  var a = $("." + ii + "ThirdPayment" + i);
+  var b = $("." + ii + "ThirdAmount" + i);
+  var c = $("." + ii + "ThirdCheckBox" + i);
+  $(c).attr('checked',status);
+  if (status){$(a).val($(b).val());}
+	else {$(a).val('0.00');}
+  i++;
+  }
+   totalThird(ii,end);
+  
+  
+}
+
+function
+
+totalThird(group,end) {
+ var i=1;
+ var errormessage=false;
+ var d = $("." + group + "ThirdTotal");
+ $(d).val('0.00');
+ while (i<=end){
+  var a = $("." + group + "ThirdPayment" + i);
+  var b = $("." + group + "FirstPayment" + i);
+  var c = $("." + group + "FirstAmount" + i);
+  var e = $("." + group + "SecondPayment" + i);
+  var f = $("." + group + "SecondAmount" + i);
+  var z = $("." + group + "ThirdAmount" + i);
+  var y = $("." + group + "ThirdPI" + i);
+ 		  if (undefined != $(a).val())
+			{	if (+($(a).val())>+($(z).val())) {$(a).val($(z).val()); alert('Partial can not be more than amount due');}
+				if ($(".ForcePenaltyAndInterest").val()==1){if ((+($(a).val())<+($(y).val()))&+($(a).val())>0) {$(a).val($(y).val()); alert('Partial must be at least penalty and interest');}}
+				
+  if (((parseFloat($(b).val()).toFixed(2)!=parseFloat($(c).val()).toFixed(2)) || (parseFloat($(e).val()).toFixed(2)!=parseFloat($(f).val()).toFixed(2))) && parseFloat($(a).val()).toFixed(2)!=0.00) {
+		
+		if ($(".stoppayment").val()==1)
+			{
+				errormessage=true;
+				$(a).val('0.00');
+				var parcelcheckbox = $("." + group + "ThirdCheckBox" + i);
+				$(parcelcheckbox).attr('checked', false);
+				var parcelgroupcheckbox = $("." + group + "Third");
+				$(parcelgroupcheckbox).attr('checked', false);
+			}
+		}
+		$(d).val((parseFloat($(a).val())+parseFloat($(d).val())).toFixed(2));}
+		
+		if ($(".inorder").val()==1 && $("." + group + "FirstParcel" + i).val()==0)
+			{
+				if ( 
+						((parseFloat($("." + group + "FirstAmount" + (i-1)).val() || 0.00)-parseFloat($("." + group + "FirstPayment" + (i-1)).val() || 0.00)!=0.00) && parseFloat($("." + group + "FirstPayment" + (i)).val() || 0.00)!=0.00) ||
+						((parseFloat($("." + group + "SecondAmount" + (i-1)).val() || 0.00)-parseFloat($("." + group + "SecondPayment" + (i-1)).val() || 0.00)!=0.00) && parseFloat($("." + group + "SecondPayment" + (i)).val() || 0.00)!=0.00) ||
+						((parseFloat($("." + group + "ThirdAmount" + (i-1)).val() || 0.00)-parseFloat($("." + group + "ThirdPayment" + (i-1)).val() || 0.00)!=0.00) && parseFloat($("." + group + "ThirdPayment" + (i)).val() || 0.00)!=0.00) ||
+						((parseFloat($("." + group + "FourthAmount" + (i-1)).val() || 0.00)-parseFloat($("." + group + "FourthPayment" + (i-1)).val() || 0.00)!=0.00) && parseFloat($("." + group + "FourthPayment" + (i)).val() || 0.00)!=0.00)
+					)
+					
+						{
+							$("." + group + "FirstPayment" + i).val('0.00');
+							var parcelcheckbox = $("." + group + "FirstCheckBox" + i);
+							$(parcelcheckbox).attr('checked', false);
+							var parcelgroupcheckbox = $("." + group + "First");
+							$(parcelgroupcheckbox).attr('checked', false);
+							
+							$("." + group + "SecondPayment" + i).val('0.00');
+							var parcelcheckbox = $("." + group + "SecondCheckBox" + i);
+							$(parcelcheckbox).attr('checked', false);
+							var parcelgroupcheckbox = $("." + group + "Second");
+							$(parcelgroupcheckbox).attr('checked', false);
+							
+							$("." + group + "ThirdPayment" + i).val('0.00');
+							var parcelcheckbox = $("." + group + "ThirdCheckBox" + i);
+							$(parcelcheckbox).attr('checked', false);
+							var parcelgroupcheckbox = $("." + group + "Third");
+							$(parcelgroupcheckbox).attr('checked', false);
+							
+							$("." + group + "FourthPayment" + i).val('0.00');
+							var parcelcheckbox = $("." + group + "FourthCheckBox" + i);
+							$(parcelcheckbox).attr('checked', false);
+							var parcelgroupcheckbox = $("." + group + "Fourth");
+							$(parcelgroupcheckbox).attr('checked', false);
+							
+							totalFirst(group,end);
+							totalSecond(group,end);
+							totalThird(group,end);
+							totalFourth(group,end);
+							
+												
+						}
+						
+			}
+  i++;
+  }
+  grandTotal(group);
+  if (errormessage){alert('First and Second must be paid before Third ');}
+  return false;
+  
+}
+function
+
+payThirdParcel(mycheckbox,i,ii,end) {
+ 
+ var status = mycheckbox.checked;
+  var a = $("." + i + "ThirdPayment" + ii);
+  var b = $("." + i + "ThirdAmount" + ii);
+  if (status){$(a).val($(b).val());}
+	else {$(a).val('0.00');}
+  totalThird(i,end);
+  }
+
+function
+
+paySecond(mycheckbox,ii,end) {
+ var i=1;
+ var status = mycheckbox.checked;
+ var end=$("." + ii + "Count").val();
+ while (i<=end){
+  var a = $("." + ii + "SecondPayment" + i);
+  var b = $("." + ii + "SecondAmount" + i);
+  var c = $("." + ii + "SecondCheckBox" + i);
+  $(c).attr('checked',status);
+  if (status){$(a).val($(b).val());}
+	else {$(a).val('0.00');}
+  i++;
+  }
+  totalSecond(ii,end);
+  
+  
+}
+
+function
+
+totalSecond(group,end) {
+ var i=1;
+ var errormessage=false;
+ var warningmessage=false;
+ var d = $("." + group + "SecondTotal");
+ $(d).val('0.00');
+ while (i<=end){
+  var a = $("." + group + "SecondPayment" + i);
+  var b = $("." + group + "FirstPayment" + i);
+  var c = $("." + group + "FirstAmount" + i);
+  var z = $("." + group + "SecondAmount" + i);
+  var y = $("." + group + "SecondPI" + i);
+  if ($("." + group + "Escrow" + i).val()=='1'){alert('Your mortgage company has submitted a file for payment on this parcel. Please contact your mortgage company before continuing payment. If you are responsible for payment of this parcel rather than your mortgage company, please continue processing this payment.');}
+ 		  if (undefined != $(a).val())
+			{	if (+($(a).val())>+($(z).val())) {$(a).val($(z).val()); alert('Partial can not be more than amount due');}
+				if ($(".ForcePenaltyAndInterest").val()==1){if ((+($(a).val())<+($(y).val()))&+($(a).val())>0) {$(a).val($(y).val()); alert('Partial must be at least penalty and interest');}}
+				if ($(".MinPayment").val()>0){if ((+($(a).val())<+($(".MinPayment").val()))&+($(a).val())>0&+($(z).val())>$(".MinPayment").val()) {$(a).val($(".MinPayment").val()); alert('Partial must be at least '+$(".MinPayment").val());}}
+				
+  if (parseFloat($(b).val()).toFixed(2)!=parseFloat($(c).val()).toFixed(2) && parseFloat($(a).val()).toFixed(2)!=0){
+		
+		if ($(".stoppayment").val()==1)
+			{
+				errormessage=true;
+				$(a).val('0.00');
+				var parcelcheckbox = $("." + group + "SecondCheckBox" + i);
+				$(parcelcheckbox).attr('checked', false);
+				var parcelgroupcheckbox = $("." + group + "Second");
+				$(parcelgroupcheckbox).attr('checked', false);
+			}
+		else {warningmessage=true;}
+		
+		}
+		$(d).val((parseFloat($(a).val())+parseFloat($(d).val())).toFixed(2));}
+		
+		if ($(".inorder").val()==1 && $("." + group + "FirstParcel" + i).val()==0)
+			{
+				if ( 
+						((parseFloat($("." + group + "FirstAmount" + (i-1)).val() || 0.00)-parseFloat($("." + group + "FirstPayment" + (i-1)).val() || 0.00)!=0.00) && parseFloat($("." + group + "FirstPayment" + (i)).val() || 0.00)!=0.00) ||
+						((parseFloat($("." + group + "SecondAmount" + (i-1)).val() || 0.00)-parseFloat($("." + group + "SecondPayment" + (i-1)).val() || 0.00)!=0.00) && parseFloat($("." + group + "SecondPayment" + (i)).val() || 0.00)!=0.00) ||
+						((parseFloat($("." + group + "ThirdAmount" + (i-1)).val() || 0.00)-parseFloat($("." + group + "ThirdPayment" + (i-1)).val() || 0.00)!=0.00) && parseFloat($("." + group + "ThirdPayment" + (i)).val() || 0.00)!=0.00) ||
+						((parseFloat($("." + group + "FourthAmount" + (i-1)).val() || 0.00)-parseFloat($("." + group + "FourthPayment" + (i-1)).val() || 0.00)!=0.00) && parseFloat($("." + group + "FourthPayment" + (i)).val() || 0.00)!=0.00)
+					)
+					
+						{
+							$("." + group + "FirstPayment" + i).val('0.00');
+							var parcelcheckbox = $("." + group + "FirstCheckBox" + i);
+							$(parcelcheckbox).attr('checked', false);
+							var parcelgroupcheckbox = $("." + group + "First");
+							$(parcelgroupcheckbox).attr('checked', false);
+							
+							$("." + group + "SecondPayment" + i).val('0.00');
+							var parcelcheckbox = $("." + group + "SecondCheckBox" + i);
+							$(parcelcheckbox).attr('checked', false);
+							var parcelgroupcheckbox = $("." + group + "Second");
+							$(parcelgroupcheckbox).attr('checked', false);
+							
+							$("." + group + "ThirdPayment" + i).val('0.00');
+							var parcelcheckbox = $("." + group + "ThirdCheckBox" + i);
+							$(parcelcheckbox).attr('checked', false);
+							var parcelgroupcheckbox = $("." + group + "Third");
+							$(parcelgroupcheckbox).attr('checked', false);
+							
+							$("." + group + "FourthPayment" + i).val('0.00');
+							var parcelcheckbox = $("." + group + "FourthCheckBox" + i);
+							$(parcelcheckbox).attr('checked', false);
+							var parcelgroupcheckbox = $("." + group + "Fourth");
+							$(parcelgroupcheckbox).attr('checked', false);
+							
+							totalFirst(group,end);
+							totalSecond(group,end);
+							totalThird(group,end);
+							totalFourth(group,end);
+							
+							
+									
+						}
+						
+			}
+  i++;
+  }
+  grandTotal(group);
+  // if (errormessage){alert('First must be paid before second ');
+   	if (errormessage){alert('First (due in September) must be paid before second (Due in March)'); 	}
+	// if (warningmessage){alert('If you intend to pay the 2nd installment due March 1, please ignore this message. Otherwise uncheck, the 2nd installment and select the 1st installment due September 1 for payment instead');
+	 	if (warningmessage){alert('You are attempting to pay second installment (Due in March)  prior to first, if first installment (Due in September) is not paid in full before the due date you may receive a penalty'); 	
+	}
+  return false;
+  
+}
+
+function
+
+paySecondParcel(mycheckbox,i,ii,end) {
+ 
+ var status = mycheckbox.checked;
+  var a = $("." + i + "SecondPayment" + ii);
+  var b = $("." + i + "SecondAmount" + ii);
+  if (status){
+		$(a).val($(b).val());}
+	else {$(a).val('0.00');}
+  totalSecond(i,end);
+  }
+  
+
+ function
+
+payFourth(mycheckbox,ii,end) {
+ var i=1;
+ var status = mycheckbox.checked;
+ while (i<=end){
+  var a = $("." + ii + "FourthPayment" + i);
+  var b = $("." + ii + "FourthAmount" + i);
+  var c = $("." + ii + "FourthCheckBox" + i);
+  $(c).attr('checked',status);
+  if (status){$(a).val($(b).val());}
+	else {$(a).val('0.00');}
+  i++;
+  }
+   totalFourth(ii,end);
+  
+  
+}
+
+function
+
+totalFourth(group,end) {
+var i=1;
+ var errormessage=false;
+ var d = $("." + group + "FourthTotal");
+ $(d).val('0.00');
+ while (i<=end){
+  var a = $("." + group + "FourthPayment" + i);
+  var b = $("." + group + "FirstPayment" + i);
+  var c = $("." + group + "FirstAmount" + i);
+  var e = $("." + group + "SecondPayment" + i);
+  var f = $("." + group + "SecondAmount" + i);
+  var g = $("." + group + "ThirdPayment" + i);
+  var h = $("." + group + "ThirdAmount" + i);
+  var z = $("." + group + "FourthAmount" + i);
+  var y = $("." + group + "FourthPI" + i);
+ 		  if (undefined != $(a).val())
+			{	if (+($(a).val())>+($(z).val())) {$(a).val($(z).val()); alert('Partial can not be more than amount due');}
+			    if ($(".ForcePenaltyAndInterest").val()==1){if ((+($(a).val())<+($(y).val()))&+($(a).val())>0) {$(a).val($(y).val()); alert('Partial must be at least penalty and interest'); }}
+  if (((parseFloat($(b).val()).toFixed(2)!=parseFloat($(c).val()).toFixed(2)) || (parseFloat($(e).val()).toFixed(2)!=parseFloat($(f).val()).toFixed(2)) || (parseFloat($(g).val()).toFixed(2)!=parseFloat($(h).val()).toFixed(2)))&& parseFloat($(a).val()).toFixed(2)!=0.00){
+		
+		if ($(".stoppayment").val()==1)
+			{
+				errormessage=true;
+				$(a).val('0.00');
+				var parcelcheckbox = $("." + group + "FourthCheckBox" + i);
+				$(parcelcheckbox).attr('checked', false);
+				var parcelgroupcheckbox = $("." + group + "Fourth");
+				$(parcelgroupcheckbox).attr('checked', false);
+			}
+		}
+		$(d).val((parseFloat($(a).val())+parseFloat($(d).val())).toFixed(2));}
+		
+		if ($(".inorder").val()==1 && $("." + group + "FirstParcel" + i).val()==0)
+			{
+				if ( 
+						((parseFloat($("." + group + "FirstAmount" + (i-1)).val() || 0.00)-parseFloat($("." + group + "FirstPayment" + (i-1)).val() || 0.00)!=0.00) && parseFloat($("." + group + "FirstPayment" + (i)).val() || 0.00)!=0.00) ||
+						((parseFloat($("." + group + "SecondAmount" + (i-1)).val() || 0.00)-parseFloat($("." + group + "SecondPayment" + (i-1)).val() || 0.00)!=0.00) && parseFloat($("." + group + "SecondPayment" + (i)).val() || 0.00)!=0.00) ||
+						((parseFloat($("." + group + "ThirdAmount" + (i-1)).val() || 0.00)-parseFloat($("." + group + "ThirdPayment" + (i-1)).val() || 0.00)!=0.00) && parseFloat($("." + group + "ThirdPayment" + (i)).val() || 0.00)!=0.00) ||
+						((parseFloat($("." + group + "FourthAmount" + (i-1)).val() || 0.00)-parseFloat($("." + group + "FourthPayment" + (i-1)).val() || 0.00)!=0.00) && parseFloat($("." + group + "FourthPayment" + (i)).val() || 0.00)!=0.00)
+					)
+					
+						{
+							$("." + group + "FirstPayment" + i).val('0.00');
+							var parcelcheckbox = $("." + group + "FirstCheckBox" + i);
+							$(parcelcheckbox).attr('checked', false);
+							var parcelgroupcheckbox = $("." + group + "First");
+							$(parcelgroupcheckbox).attr('checked', false);
+							
+							$("." + group + "SecondPayment" + i).val('0.00');
+							var parcelcheckbox = $("." + group + "SecondCheckBox" + i);
+							$(parcelcheckbox).attr('checked', false);
+							var parcelgroupcheckbox = $("." + group + "Second");
+							$(parcelgroupcheckbox).attr('checked', false);
+							
+							$("." + group + "ThirdPayment" + i).val('0.00');
+							var parcelcheckbox = $("." + group + "ThirdCheckBox" + i);
+							$(parcelcheckbox).attr('checked', false);
+							var parcelgroupcheckbox = $("." + group + "Third");
+							$(parcelgroupcheckbox).attr('checked', false);
+							
+							$("." + group + "FourthPayment" + i).val('0.00');
+							var parcelcheckbox = $("." + group + "FourthCheckBox" + i);
+							$(parcelcheckbox).attr('checked', false);
+							var parcelgroupcheckbox = $("." + group + "Fourth");
+							$(parcelgroupcheckbox).attr('checked', false);
+							
+							totalFirst(group,end);
+							totalSecond(group,end);
+							totalThird(group,end);
+							totalFourth(group,end);
+							
+							
+									
+						}
+						
+			}
+  i++;
+  }
+  grandTotal(group);
+  if (errormessage){alert('First and Second and Third must be paid before Fourth ');}
+  return false;
+  
+}
+
+function
+
+payFourthParcel(mycheckbox,i,ii,end) {
+ 
+ var status = mycheckbox.checked;
+  var a = $("." + i + "FourthPayment" + ii);
+  var b = $("." + i + "FourthAmount" + ii);
+  if (status){
+		$(a).val($(b).val());}
+	else {$(a).val('0.00');}
+  totalFourth(i,end);
+  }
+  
+function
+ 
+ grandTotal(group) {
+  var a = $("." + group + "FirstTotal").val();
+  var b = $("." + group + "SecondTotal").val();
+  var d = $("." + group + "ThirdTotal").val();
+  var e = $("." + group + "FourthTotal").val();
+  var c = $("." + group + "Total");
+  if (!d) {d=0}
+  if (!e) {e=0}
+  if (!b) {b=0}
+ $(c).val('0.00');
+ $(c).val((parseFloat(a)+parseFloat(b)+parseFloat(d)+parseFloat(e)).toFixed(2));
+ $("#add1").attr('onclick','');
+ $("#add2").attr('onclick','');
+  }
+
+function
+highlightrow(myrow) {
+	$(myrow).css({ 'color': 'white', 'background-color': '#3366CC'});
+	$(myrow).find('a').css({'color': 'white'});
+	}
 	
-	<style type="text/css">
+function
+unhighlightrow(myrow,bgcolor) {
+	$(myrow).css({ 'color': 'black', 'background-color': bgcolor});
+	$(myrow).find('a').css({'color': 'blue'});
+	}
+	
+function
+ 
+ portfolioClick() {
+  $("#add1").attr('onclick','');
+ $("#add2").attr('onclick','');
+  }
+ 
+ 
+ function isNumericKey(e)
+        {
+            var key = e.which || e.keyCode;
+            if (!e.shiftKey && !e.altKey && !e.ctrlKey &&
+                     // numbers   
+                         key >= 48 && key <= 57 ||
+                     // Numeric keypad
+                         key >= 96 && key <= 105 ||
+                     // comma, period and minus, . on keypad
+                        key == 190 || key == 188 || key == 109 || key == 110 ||
+                     // Backspace and Tab and Enter
+                        key == 8 || key == 9 || key == 13 ||
+                     // Home and End
+                        key == 35 || key == 36 ||
+                     // left and right arrows
+                        key == 37 || key == 39 ||
+                     // Del and Ins
+                        key == 46 || key == 45)
+                         return true;
+
+                     return false;
+        }    
+
+		
+
+</script>	<style type="text/css">
 		.dropdown-menu li:hover .sub-menu {
 			visibility: visible;
 		}
@@ -200,7 +769,7 @@
 
 
 <div id="wrap">
-<div class="header visible-lg" style="background-image: url(art/banner.jpg); height: 189px; width: 1235px; margin: auto;">
+<div class="header visible-lg visible-md" style="background-image: url(https://www.iowatreasurers.org/bannerfiles/banner-ia.jpg); height: 189px; width: 1235px; margin: auto;">
 <div class="headertext" role="banner" style="font-family:'Times New Roman', Times, serif;font-style:italic;font-size:40px;float:left;margin: 10px 10px;">
 </div>
 </div>
@@ -223,11 +792,11 @@
           </div>
 	      <div class="collapse navbar-collapse">
           
-		  <ul class="nav navbar-nav"><li class="dropdown"><a href="#nogo2" aria-haspopup="true" class="dropdown-toggle" data-toggle="dropdown"><span class="down">Property Tax<div class="caret"></div></span></a>
-									<ul class="dropdown-menu"><li><a href="mapsearch.php">Pay Property Tax</a></li><li><a href="reminder.php">Reminder Email</a></li><li><a href="pdates.php">Important Dates</a></li><li><a href="pforms.php">Forms</a></li><li><a href="pfaq.php">FAQ</a></li><li><a href="portfolioservices.php">Portfolio Services</a></li></ul></li><li class="dropdown"><a href="#nogo2" aria-haspopup="true" class="dropdown-toggle" data-toggle="dropdown"><span class="down">Motor Vehicle<div class="caret"></div></span></a>
+		  <ul class="nav navbar-nav"><li class="top"><a href="index.php" class="top_link"><span>Home</span></a></li><li class="top"><a href="login.php" class="top_link"><span>Login</span></a></li><li class="dropdown"><a href="#nogo2" aria-haspopup="true" class="dropdown-toggle" data-toggle="dropdown"><span class="down">Property Tax<div class="caret"></div></span></a>
+									<ul class="dropdown-menu"><li><a href="mapsearch.php">Pay Property Tax</a></li><li><a href="reminder.php">Reminder Email</a></li><li><a href="pdates.php">Important Dates</a></li><li><a href="pforms.php">Forms</a></li><li><a href="pfaq.php">FAQ</a></li><li><a href="portfolioservices.php">Portfolio Services</a></li><li><a href="https://scheduled.iowatreasurers.org">Scheduled Payments</a></li></ul></li><li class="dropdown"><a href="#nogo2" aria-haspopup="true" class="dropdown-toggle" data-toggle="dropdown"><span class="down">Motor Vehicle<div class="caret"></div></span></a>
 									<ul class="dropdown-menu"><li><a href="tagsearch.php">Vehicle Renewal</a></li><li><a href="mvdates.php">Important Dates</a></li><li><a href="mvforms.php">Forms</a></li><li><a href="mvfaq.php">FAQ</a></li></ul></li><li class="dropdown"><a href="#nogo2" aria-haspopup="true" class="dropdown-toggle" data-toggle="dropdown"><span class="down">Driver's License<div class="caret"></div></span></a>
-									<ul class="dropdown-menu"><li><a href="dldates.php">Important Dates</a></li><li><a href="dlforms.php">Forms</a></li><li><a href="dlfaq.php">FAQ</a></li><li><a href="CDL-Test-Locations.pdf">CDL Test Locations</a></li></ul></li><li class="dropdown"><a href="#nogo2" aria-haspopup="true" class="dropdown-toggle" data-toggle="dropdown"><span class="down">Tax Sale<div class="caret"></div></span></a>
-									<ul class="dropdown-menu"><li><a href="auctionregister.php">Register To Pay Subsequent Tax</a></li><li><a href="login.php">Login To Pay Subsequent Tax</a></li><li><a href="https://www.iowataxauction.com">Register And Bid For Tax Sales</a></li></ul></li><li class="top"><a href="login.php" class="top_link"><span>Login</span></a></li><li class="top"><a href="index.php" class="top_link"><span>Home</span></a></li><li class="top"><a href="shoppingcart.php" class="top_link"><span>Shopping Cart(0)</span></a></li><li class="top"><a href="help.php" class="top_link"><span>Help</span></a></li><li class="top"><a href="support.php" class="top_link"><span>Contact/Support</span></a></li></ul>		  
+									<ul class="dropdown-menu"><li><a href="dldates.php">Important Dates</a></li><li><a href="dlforms.php">Forms and Manuals</a></li><li><a href="dlfaq.php">FAQ</a></li><li><a href="CDL-Test-Locations.pdf">CDL Test Locations</a></li></ul></li><li class="dropdown"><a href="#nogo2" aria-haspopup="true" class="dropdown-toggle" data-toggle="dropdown"><span class="down">Tax Sale<div class="caret"></div></span></a>
+									<ul class="dropdown-menu"><li><a href="auctionregister.php">Register To Pay Subsequent Tax</a></li><li><a href="login.php">Login To Pay Subsequent Tax</a></li><li><a href="https://www.iowataxauction.com">Register And Bid For Tax Sales</a></li></ul></li><li class="top"><a href="shoppingcart.php" class="top_link"><span>Shopping Cart(0)</span></a></li><li class="top"><a href="help.php" class="top_link"><span>Help</span></a></li><li class="top"><a href="support.php" class="top_link"><span>Contact/Support</span></a></li></ul>		  
 		
           </div>
         </div> 
@@ -335,7 +904,7 @@ function goBack() {
 		<div style="float:left;"> <script type="text/javascript" src="https://sealserver.trustwave.com/seal.js?code=43308e0161a54c65b617b082dbf57615"></script> </div>
 		<div>
 			<p align="center"><br>Designed and Maintained by <a href="http://www.govtechservices.com" title="GovTech">GovTech Services</a>
-			<br><a href="privacy.php">Privacy Policy</a></p>
+			<br><a href="privacy.php">Privacy Policy</a> - <a href="terms.php">Terms and Conditions</a></p>
 		</div>
       </div>
     </div>
