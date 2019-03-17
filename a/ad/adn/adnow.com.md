@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the adnow.com privacy policy that was archived on 2018-09-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180902005855id_/https%3A//adnow.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the adnow.com privacy policy that was archived on 2019-03-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190317200635id_/http%3A//adnow.com/privacy-policy) for the most accurate reproduction.*
 
 # AdNow | Privacy policy - native advertising
 
@@ -64,7 +64,11 @@ Unfortunately, no data transmission over the Internet can be guaranteed to be 10
 
 We have no technical influence on third parties, which are beyond our control.
 
-We are going to store your personal data until your request to terminate Terms of Use between us. If you do not want to use services of our Website anymore and delete your account, please, notify us in your account or by contact form. 
+We are going to store your personal data until your request to terminate Terms of Use between us. If you do not want to use services of our Website anymore and delete your account, please, notify us in your account or by contact form.
+
+In accordance with the recommendations of Payment Card Industry Security Standards Council, customer card details are protected using Transport Layer encryption - TLS 1.2 and application layer with algorithm AES and key length 256 bit.
+
+The company does not store user card data, but uses a payment service provider to process this data.
 
 ## Transfer of personal data
 
