@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bitcoinwallet.com privacy policy that was archived on 2018-08-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180825071601id_/https%3A//bitcoinwallet.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bitcoinwallet.com privacy policy that was archived on 2019-03-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190317170156id_/https%3A//bitcoinwallet.com/privacy.php) for the most accurate reproduction.*
 
 # BitcoinWallet.com Privacy Policy
 
@@ -82,6 +82,6 @@ You must be at least 18 years old (or otherwise reached the age of majority in y
 
 You should also be aware that when Personally Identifiable Information is voluntarily disclosed (i.e. your name, address, etc.) on any profile page, discussion forum, message board or other public areas of the site, that information, along with any information disclosed in your communication, can be viewed, collected and used by third parties and may result in unsolicited messages from third parties. Such activities are beyond our control and this Policy does not apply to such information. Any submissions to public areas on this site are accepted with the understanding that they are accessible to third parties. 
 
-If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this site, please contact us by sending us an email to support@bitcoinwallet.com. 
+If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this site, please contact us by sending us an email to support@bitcoinwallet.com.
 
 This Privacy Policy is effective as of 03/18/2014. 
