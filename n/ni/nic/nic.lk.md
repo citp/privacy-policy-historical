@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nic.lk privacy policy that was archived on 2018-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180623082951id_/http%3A//www.nic.lk/index.php/policies-procedures/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nic.lk privacy policy that was archived on 2019-03-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190317132817id_/http%3A//www.nic.lk/index.php/policies-procedures/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
