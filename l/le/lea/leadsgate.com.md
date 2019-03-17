@@ -1,125 +1,61 @@
-> *The following text is extracted and transformed from the leadsgate.com privacy policy that was archived on 2016-02-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160201044423id_/https%3A//leadsgate.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the leadsgate.com privacy policy that was archived on 2019-03-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190317230159id_/https%3A//leadsgate.com/privacy) for the most accurate reproduction.*
 
-# Payday Loans Affiliate Network - LeadsGate.com
+# Privacy Policy | LeadsGate
 
-This Privacy Policy is hereby incorporated into and forms part of LEADSGATE® PLATFORM AS A SERVICE AGREEMENT, therefore all legal procedures related to this Policy’s enforcement, alteration, expiring, interpretation etc. are prescribed in and governed by LEADSGATE® PLATFORM AS A SERVICE AGREEMENT. This Privacy Policy (hereinafter – Policy) reflects our undertakings before our customers, users, partners and the privacy practices we use at LeadsGate.com.
+LeadsGate.com (the "Website" or "Site") is operated by Leadsgate Limited (“LeadsGate”, the “Company”, “We” or “Us”).
 
-This Policy takes precedence over all other LeadsGate.com legal documents concerning privacy terms if otherwise is not mentioned in LEADSGATE® PLATFORM AS A SERVICE AGREEMENT.
+We did our best to explain our online information practices and the choices you can make about the way your information is used at our Websites. By visiting the Website or registering an affiliate account with us, you are accepting the practices described in this Privacy Policy. If you do not agree to this Privacy Policy, you are not authorized to become an Affiliate and/or use this website/service in any manner or form whatsoever. We’re committed to protecting the Privacy of our visitors' personally identifiable information.
 
-This Privacy Policy applies to any and all information processed using LeadsGate platform (hereinafter - LeadsGate.com). You unconditionally agree to be bound by this Privacy Policy if you:
+We reserve the right to modify this Privacy Policy at any time. In case if we decide to change this Privacy Policy, we will post those changes on our Website. We encourage you to intermittently review our Privacy Policy to stay informed about how we are using the information we collect. We may collect both personally identifiable information and non-personally identifiable information from or about our users.
 
-  * access or use LeadsGate.com; and/or
-  * accept our LEADSGATE® PLATFORM AS A SERVICE AGREEMENT and starts using LeadsGate.com in its full or part either as a LeadsGate PAAS customer, advertiser or as any other type of LeadsGate contractor, partner of website user.
+## Personally Identifiable Information
 
+We collect personally identifiable information from you when you register an affiliate account with us, complete one of more stages of our affiliate application form and/or when you contact us. The types of personally identifiable information we collect include: full name, complete physical address, e-mail address, daytime, evening and telephone number, birth date, gender, education and marital status, occupation, salary range, social security number, information about home ownership, employment information, account balances and payment history, other payment information and additional information that we may request from time to time. The information described above and any other financial information requested of you shall be considered sensitive information. We collect this personally identifiable information only from those individuals/entities that choose to participate.
 
+The company retains the submitted or collected personally information on this Website as needed to perform our services, to comply with legal obligations, to resolve disputes, and to enforce agreements. If you wish to correct factual errors in your personal information, or to update any data of your user profile, please contact us using our contact form or emailing at business@leadsgate.com.
 
-If you do not agree to this Privacy Policy, please do not use LeadsGate.com and any of its services.
+## How We Use Personally Identifiebly Information
 
-## Principles of data processing
+We use this information to process requests for products and services. We also use this information to communicate with you to notify you about recent updates of our products or services, to send you order confirmations and/or to provide you with important product warranty or safety information, to determine whether to extend you an offer to become our Affiliate, to review Website usage and operations, to address problems with the website or our business/products/services, to protect the security or integrity of the website and our business, to monitor the website for compliance with our Terms of Use and the law. We use collected personal information (other than your sensitive information) to respond to your inquiries about our products or services, and to offer you, by means of e-mail or through our newsletter, additional products, programs or services that we believe may be of interest to you. We also use the personally identifiable information you provide to us through this website in order to verify or review your application information to determine whether it meets eligibility requirements; communicate with you by email, postal mail, telephone, and/or mobile devices about products or services that may be of interest to you either from us, our marketing partners, or other third parties, display advertising tailored to your interests or background, perform data and statistical analysis on use of the website, enforce our terms and conditions, and perform any other functions otherwise described to you at the time we collect the information. We may also review your personal information to verify your identity and protect against possible fraudulent transaction. We treat personal information of our former users in the same manner as we treat personal data of our current users. If you do not wish to receive communications from us about offers and promotions, you can opt-out of receiving these communications by emailing us at business@leadsgate.com.
 
-While operating our business via leadsgate.com we are guided by the following privacy protection principles:
+## Non-Personally Identifiably Information
 
-  * We do not either serve or collect personal information of citizens under 18 years old;
-  * We do not provide third parties with any of your personal data in the way that is not prescribed in this Policy or LEADSGATE® PLATFORM AS A SERVICE AGREEMENT;
-  * We send you our E-mail offers only under subscription conditions;
-  * We collect your information in order to serve you in the best way or to keep you updated (if requested).
-  * We obey all applicable privacy laws that in any case will take precedence over legal documents related to LeadsGate.com.
-  * In order to protect your privacy we use modern data protection security means that help to avoid unauthorized access or occasional loss of your personal information.
+Non-personally identifiable information is anonymous information that cannot be associated with a specific individual. The types of non-personally identifiable information that we collect (either directly, through the use of "cookies," or through the use of a third party tracking system) include: the IP address of the computer making the request; your browser type and language; access times; information about areas of the site visited by users of the site; information about the links that users may select to visit on the site. IP addresses are not usually associated with your personal computer, but with a portal through which you accessed the Internet. IP addresses are not linked to personally identifiable information. A "cookie" is a piece of information a website sends to your computer while you are viewing the website to remember who you are without personally identifying you.
 
+We may share this non-personally identifiable information only in summary form with its suppliers and other third parties for the purpose of website statistical and trend analysis. We use the non-personally identifiable information that we collect to improve the design and content of our website and to enable us to personalize your Internet experience. We may use this information in the aggregate to analyze website usage. This information is not linked to any personally identifiable information that can identify an individual person.
 
+In order to enhance your experience with the website, we use "cookies". "Cookies" are used by your computer's browser to store your preferences. We use both session and persistent cookies. "Cookies", by themselves, do not tell us your e-mail address or other personally identifiable or sensitive information. We use "cookies" to understand our website usage and to improve the content and offerings. You can disable "cookies" through your Internet browser. If you set your browser not to accept "cookies", you will still be able to use the website. We may use web beacons to track certain websites that you visit. Web beacons are programming codes that can be used to display an image on a web page, but can also be used to transfer your unique user identification to a database and associate you with previously acquired information about an individual in a database. This allows us to track certain websites that you visit. Web beacons are used to track behavioral habits for marketing purposes to determine products or services that you may be interested in. In addition to using web beacons on web pages, we may also use web beacons in email messages sent to individuals listed in our database.
 
-## Minors
+As the use of technology on the Internet is rapidly developing, so we strongly encourages individuals to revisit this Privacy Policy for any updates regarding its use of new technology.
 
-At no time do we, our affiliates or partners collect personal information regarding users under 18 years old. If it is brought to our attention that we have accidentally collected such information, we shall remove that information from our database immediately. If you noticed that a person under 18 has provided us with its personal information, please, contact our support team: contact@leadsgate.com. 
+## Sharing your Personally Identifiable Information
 
-## Information we collect
+Any person (agents or contractors) who have access to personal information are required to protect it in a manner that is consistent with this Privacy Policy by, for example, not using the information for any purpose other than to carry out the services they are performing for the company. In case if you access the website through third-party websites, we also may need to report certain personally identifiable information back to that referring website. We will never disclose any sensitive information to any third-party marketers or other non-governmental entity. We may disclose your personally identifiable and/or sensitive information to a governmental entity if so ordered by a court of law, to comply with the local, state and federal laws where otherwise required by law or in the good-faith belief that such action is necessary in order to conform to the edicts of the law or comply with a legal process served on our website; or if we are sold or acquired. We will not share your personal information with such third parties without your prior informed consent.
 
-Personal information we collect directly as you provided us with this information under your own consent:
+We will not sell, share, or rent your personal information. However, we may disclose information collected from and about you to third-party administrative vendors for various reasons including, without limitation, billing, delivery, and payments; if we believe that there has been a violation of the Website Terms of Use or of our rights or the rights of any third party; to respond to legal process (such as a search warrant, subpoena or court order) and provide information to law enforcement agencies or in connection with an investigation on matters related to public safety, as permitted by law, or otherwise as required by law; in the event that our company or substantially all of its assets are acquired, your personal information may be one of the transferred assets. We may also disclose your personal information with your express consent. We may share aggregate, non-personally identifiable information about the Website users with third parties.
 
-  * User’s name, age, place of business;
-  * Social Security number (if applicable);
-  * Account balances and payment history, other payment information;
-  * Contact information such as skype, e-mail, telephone etc. that you share with us.
+## Third-Party Websites
 
+The website may contain links to other websites whose information practices may be different than ours. Our Privacy Policy does not cover these third parties' use of information. We have no control over information that is submitted to, or collected by, these third parties.
 
+We may supplement the information we collect online with outside records (e.g., information from our affiliates, subsidiaries and third party, including advertising partners) to enhance our ability to serve you, to tailor our content to you and to offer you opportunities to purchase products or services that we believe may be of interest to you. These companies may use tracking technologies, including cookies, to collect information about users of our website who view or interact with these advertisements. We may provide links or automatically redirect you to third-party websites that do not operate under this Privacy Policy. You can recognize most of our websites pages on these third-party websites by looking for the joint branding of our company and a third-party company. You should review the privacy statements and terms of use of all third-party websites you access. These third-party websites may independently solicit and collect information from you.
 
-We collect this information when you accept our LEADSGATE® PLATFORM AS A SERVICE AGREEMENT, activate and use your Platform account, give us your payment information, give us your contact information.
+## Children
 
-We use cookies automatically to collect information about you when you use LeadsGate.com. The types of information we may collect automatically include:
+We encourage parents and guardians to spend time online with their children and to participate and monitor the interactive activities of their children. We will never knowingly collect any personal information about children under the age of eighteen (18). If we obtain actual knowledge that it has collected personal information about a child under the age of eighteen (18), that information will be immediately deleted from its database. And we have no such information to use or to disclose to third parties. We has designed this policy in order to comply with the Children’s Privacy Protection Act ("COPPA").
 
-  * information about the type of browser you use;
-  * your IP address.
+## Security
 
+We have put in place physical, procedural, and technological security measures to help prevent unauthorized access to and improper use of the information we collect online. Only authorized employees and authorized third parties are permitted to access personally-identifiable information, and they may do so only for permitted business functions. No website or Internet network can be completely secure. Although we take steps to secure your information, we do not guarantee, and you should not expect, that your personal information, searches, or other communications will always remain secure.
 
+## Changes
 
-We may receive personal information about our customers from other sources, which could include commercially available sources, such as public databases and data aggregators and information from third parties to whom you have given permission to share your information.
+We reserve the right to change or update this Privacy Policy at any time by posting a notice on our website. If the manner in which we use personally identifiable information changes, we will notify you by posting the changes as a start-up screen prior to your subsequent use of the products and/or service offered on the website, sending the modified policy to the users via e-mail, placing a link to the modified policy on the applicable Website’s home page, or by any other reasonable means acceptable under applicable state and federal law. You will have a choice as to whether or not we use your information in this different manner. At any time that you do not agree with the changes, you must opt out from receiving future communications from us. Failure to opt out after notice of any such changes constitutes an affirmative acknowledgement and acceptance by you of the modified Privacy Policy. You should review this Privacy Policy each time you access the website as our policies, content, information, promotions, disclosures, disclaimers and features may be revised, modified, updated, and/or supplemented at any time and without prior notice at the sole and absolute discretion of LeadsGate.com.
 
-This Privacy Policy does not cover:
+## Opt-Out Option
 
-  * information collected by third party websites, platforms and/or applications (“Third Party Sites”) which we do not control and which you access via links on LeadsGate.com; or 
-  * banners, sweepstakes and other advertisements or promotions we may sponsor or participate in on Third Party Sites. 
+If you prefer not to receive marketing information from us or wish to fully deactivate your account information, simply let us know by emailing at business@leadsgate.com. Please note that even if you chose to opt out of our marketing emails, we will continue to send you important service-related communications (e.g., order confirmation or product safety information). However, these communications will not be promotional in nature.
 
+## Contact
 
-
-## Aims of personal information usage
-
-LeadsGate.com is a PAAS provider and/or informational intermediary (when applicable) and therefore requires your personal information to provide you with a good and convenient service.
-
-Due to specific of our business we use your personal data:
-
-  * to contact you before the Effective date of LEADSGATE® PLATFORM AS A SERVICE AGREEMENT with you with respect to your participation in a contract with us;
-  * to perform our rights and obligations under LEADSGATE® PLATFORM AS A SERVICE AGREEMENT with you;
-  * to send you our alerts, information about our new services or offers that you might be interested in, information about certain changes in our Platform (updates, upgrades, release of new modules or patches etc hereinafter referred to as E-mail offers);
-  * to evaluate the use of LeadsGate.com;
-  * to prevent fraud or other misuse of LeadsGate.com;
-  * to achieve the purposes for which you have given us your consent, or as may otherwise be permitted by applicable laws, rules, and regulations.
-
-
-
-We protect our user’s personal information and adhere to all legislative requirements with respect to protecting privacy. We do not rent, sell or trade your details in a way that is not prescribed by this Policy unless it is required by applicable law. We do not have any access and do not use in any manner information (including personal data) that you store at your own devices.
-
-LeadsGate.com may provide links to other web-sites or resources, but is not responsible or liable for any content, advertising, products, or other materials on or available from such sites or resources. Please, read Third Parties Sites’ privacy policy carefully before use it.
-
-The host servers for LeadsGate.com are in the United States of America and in CIS. Your personal information will be hosted in one of these regions and will be transferred and processed within that region in accordance with applicable data protection laws and regulations. We may need to transfer your personal information to another region and by consenting to this Policy you agree to us doing so (provided always that any such transfer is in accordance with applicable data protection laws and regulations).
-
-## Third parties access
-
-As a general rule, we do not share your personal information with anyone outside of LeadsGate.com. However, there are some trusted third parties with whom we may share your personal information. These are the following:
-
-  * our advertising, marketing and promotional agencies to help us deliver and analyze the effectiveness of our advertising campaigns and promotions;
-  * our legal, technical and financial assistants and consultants to help us to detect and investigate fraud or other misuse of LeadsGate.com or our services;
-  * law enforcement or government authorities where they have followed due legal process to request us to disclose the information;
-  * web analytics tool providers, such as Google.
-
-
-
-By using LeadsGate.com you unconditionally agree that we may collect, store and share your personal information electronically with the above mentioned parties exclusively in the manner and for the aims indicated in this Policy and LEADSGATE® PLATFORM AS A SERVICE AGREEMENT. We reserve the right to share information submitted or collected on LeadsGate.com where we determine such disclosure is necessary to protect our rights or a third party right, or to shield us from liability of any kind.
-
-No other parties may get an access to your personal information except of the cases you explicitly request us to share your personal information with any third parties.
-
-## Sending e-mails
-
-We use e-mails to communicate with you, to confirm receiving of your notices and orders, and to send information that you have requested. We may also keep you updated about our services, opportunities and campaigns by sending our E-mail offers to you only if you wish to receive this information by subscribing to LeadsGate.com. In order to subscribe, please, press Subscribe button at the top of LeadsGate.com home page and enter your e-mail. Once you decide not to receive marketing information from us no more, feel free to unsubscribe from our sending using LeadsGate.com tools.
-
-## Former users
-
-We treat personal information of our former users in the same manner as we treat personal data of our current users.
-
-## Testimonials
-
-We appreciate your feedback about LeadsGate.com service. Please, be informed that we will post your comments (that may include your personal information) in Testimonials only if you directly allow us to do so.
-
-## Your rights
-
-If you have any questions, comments or concerns about how we handle your personal information, then you may contact using our Contact Us page.
-
-You have the right to tell us if you:
-
-  * don't want to be contacted in the future by us (unsubscribe);
-  * would like a copy of the personal information which we hold about you;
-  * would like us to correct, update, or delete your personal information in our records;
-  * wish to report any misuse of your personal information.
-
-
-
-This Policy together with LEADSGATE® PLATFORM AS A SERVICE AGREEMENT constitutes full privacy protection rules that we follow within LeadsGate.com operation. If there is any conflict between this Policy and US federal law, federal laws shall have precedence.
+If you have questions about this policy, please contact us at business@leadsgate.com 
