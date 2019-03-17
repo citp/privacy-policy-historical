@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hearingdirect.com privacy policy that was archived on 2017-09-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170907013813id_/http%3A//www.hearingdirect.com/pages/cookies-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hearingdirect.com privacy policy that was archived on 2019-03-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190317111003id_/https%3A//www.hearingdirect.com//pages/cookies-privacy-policy) for the most accurate reproduction.*
 
 # Cookies & Privacy Policy - HearingDirect.com ™
 
@@ -24,24 +24,38 @@ For the purpose of making an enquiry or placing an order, our website may collec
 
 We require this information to understand your needs and provide you with more information for the product(s)/service(s) you have requested. Your information may also be stored in a CRM system for Internal record keeping. We may use the information to improve our products and services. We may periodically send promotional emails about new products, special offers or other information which we think you may find interesting using the email address which you have provided. From time to time, we may also use your information to contact you for market research purposes. We may contact you by email, phone, fax or mail. We may use the information to customise the website according to your interests. If at any time you wish for us to cease contacting you with items that may be of interest, please call us on 0800 0321301 or email customerservices@hearingdirect.com.
 
-We will not sell, distribute or lease your personal information to third parties unless we have your permission or are required by law to do so. We may use your personal information to send you promotional information about third parties which we think you may find interesting if you tell us that you wish this to happen. You may request details of personal information which we hold about you under the Data Protection Act 1998. A small fee may be payable. If you would like a copy of the information held on you please write to or email us.
+When you request information on or place orders for our products or services that are shown on our site ("Information"), through our online forms or otherwise, we may:
 
-If you believe that any information we are holding on you is incorrect or incomplete, please write to or email us as soon as possible, at the above address. We will promptly correct any information found to be incorrect.
+      * contact you by telephone, SMS, email or post with the Information;
+      * contact you by telephone, SMS, email or post to confirm or verify your contact details or the details of your request; and/or
+      * pass on your personal information and the details of your request to selected suppliers of the products or services for which you have requested Information, who may contact you directly by telephone, SMS, email or post.
 
+We may also use your personal and other information in the following ways:
+
+      * To contact you by telephone, SMS, email or post to ask about your experiences with the selected suppliers and request feedback. This might be in the form of survey questions, for example.
+      * To contact you by telephone, SMS, email or post with information about other products and services (ours and third parties') in which we think you may be interested.
+      * To pass on your personal information to selected suppliers of other products or services in which we think you may be interested, who may contact you directly by telephone, SMS, email or post.
+      * If you consent, to pass your contact details, including your email address, to organisations that have a relationship with you to enable such organisations to update their records.
+      * To facilitate communication between you and our customers (i.e. suppliers of some of products and services that are shown on our site).
+      * To carry out our obligations arising from any contracts entered into between you and us.
+      * To enable you to access and use our site and services.
+      * To ensure that the content on our site is presented in the most effective manner for you and for your computer, and improve our site.
+      * To notify you about changes to our site or services.
+      * We may also use, and provide anonymised aggregated information about our site users.
 
 
 
 ## Security
 
-      * ### Website Security
+    * ### Website Security
 
 We are committed to ensuring that your information is secure. In order to prevent unauthorised access or disclosure, we have put in place suitable physical, electronic and managerial procedures to safeguard and secure the information we collect online.
 
-      * ### Payment Security
+    * ### Payment Security
 
 We will take reasonable technical and organisational precautions to prevent the loss, misuse or alteration of your personal information. We will never store your credit/debit card information on our website. All electronic transactions you make to or receive from us will be encrypted using SSL technology via GEOTrust and will be transferred and processed by **Worldpay**. Of course, data transmission over the internet is inherently insecure, and we cannot guarantee the security of data sent over the internet. You are responsible for keeping your password and user details confidential. We will not ask you for your password.
 
-      * ### External Links
+    * ### External Links
 
 Our website may contain links to other websites of interest. However, once you have used these links to leave our site, you should note that we do not have any control over that other website. Therefore, we cannot be responsible for the protection and privacy of any information which you provide whilst visiting such sites and such sites are not governed by this privacy statement. You should exercise caution and look at the privacy statement applicable to the website in question.
 
@@ -58,22 +72,22 @@ Overall, cookies help us provide you with a better website, by enabling us to mo
 
 ### Cookies deployed by our website:
 
-      * ensure that functionality operates as intended
-      * remember your choices and preferences during and between visits
-      * allow you to share pages via social network widgets like Facebook, Twitter and AddThis
-      * allow you to interact with our website by leaving comments or opinions
-      * post enquiries via our Anti-Spam enquiry form
-      * track your visit for statistical analysis, allowing us to improve the usability, speed and security of our website
+  * ensure that functionality operates as intended
+  * remember your choices and preferences during and between visits
+  * allow you to share pages via social network widgets like Facebook, Twitter and AddThis
+  * allow you to interact with our website by leaving comments or opinions
+  * post enquiries via our Anti-Spam enquiry form
+  * track your visit for statistical analysis, allowing us to improve the usability, speed and security of our website
 
 
 
 ### Cookies are not deployed to:
 
-      * collect any personal identifiable information (without your express permission)
-      * collect any sensitive information (without your express permission)
-      * pass data to advertising networks
-      * pass personally identifiable data to third parties
-      * pay sales commissions
+  * collect any personal identifiable information (without your express permission)
+  * collect any sensitive information (without your express permission)
+  * pass data to advertising networks
+  * pass personally identifiable data to third parties
+  * pay sales commissions
 
 
 
@@ -83,31 +97,31 @@ Upon your first visit to our website, you may have noticed our banner alerting y
 
 ## Cookies used by our website
 
-      * ### Social Network Sharing
+  * ### Social Network Sharing
 
 We encourage users to share our content and/or like our on profile on the popular Social Media websites Facebook, Twitter, YouTube, Google+ and LinkedIn. In order to make 'Social Sharing' accessible, our website utilises widgets either provided directly from the Social Networks and/or via amalgamative widgets from third parties such as AddThis. Cookies and privacy implications from the social networks vary and will be dependent on your nominated privacy settings with each Social Network. Social Sharing buttons will only deploy cookies if you are signed to that respective Social Network at the time of being on our website.
 
-      * ### Analytical Tracking
+  * ### Analytical Tracking
 
 Our website has Google Analytics installed which allows us to track and compile anonymous visitor statistics. The information collected ranges from simple traffic volume to the type of browser you are viewing our website with. This information is valuable to us not just for marketing analysis and quantification, but to improve the usability, security and load speed of our website content. Google Analytics is a popular, secure, flagship webmaster product from Google. The privacy and security of Google Analytics data is a high priority at Google that you can read more about on [Google's Analytics Data Safeguarding page](https://www.google.com/analytics/learn/privacy.html). Google also offer a [Google Analytics Opt-out Browser Add-on](https://tools.google.com/dlpage/gaoptout) that will allow you to automatically Opt-out of all websites that track your activity via Google Analytics. No personal information is collected by Google Analytics.
 
-      * ### Cookie Consent Check
+  * ### Cookie Consent Check
 
 As mentioned above, upon your first visit our website displays a banner at the top of the page alerting you about cookies being deployed by our website. In order for our website to remember your choice of opting-in, we store an anonymous cookie to remove the alert banner for 28 days. To prevent this cookie being stored, simply do not accept and close the alert. If you have already accepted the alert and you wish to remove the cookie, please clear your cookies within your browser settings.
 
-      * ### Wordpress
+  * ### Wordpress
 
 Our website, either in full or in part, is built on the popular open-source CMS framework - WordPress. WordPress utilises cookies to allow visitors to register, login and comment on our website's content. If you do not wish to participate in commenting on our website, Wordpress will not deploy any cookies onto your device. Cookies will only be created by Wordpress if you actively register or comment via the clear forms on our website.
 
-      * ### Magento
+  * ### Magento
 
 Our eCommerce website is built on the popular open-source platform - Magento. Magento and eCommerce platforms in general require the use of several essential cookies for the website to function correctly. A comprehensive list of the 25 cookies Magento may use are detailed in the table below.
 
-      * ### Enquiry Forms
+  * ### Enquiry Forms
 
 Visitors can choose to contact us via enquiry form(s) on our website. In order to prevent spam enquiries, we protect our forms with a 'CAPTCHA' challenge to ensure the submission is from a living person, rather than a computer bot. This CAPTCHA challenge creates a cookie that is used only to check the input response from the user is correct. The CAPTCHA cookie does not store any other information from your enquiry.
 
-      * ### Google Maps/Places
+  * ### Google Maps/Places
 
 Our website may have our Google Maps/Places profile embedded within an iframe. Google Maps creates cookies that enable the functionality of their powerful mapping software. No personal information is stored or shared on the cookies deployed by Google Maps/Places
 
