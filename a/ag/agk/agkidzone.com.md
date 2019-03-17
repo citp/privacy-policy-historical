@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the agkidzone.com privacy policy that was archived on 2018-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181213134016id_/http%3A//www.agkidzone.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the agkidzone.com privacy policy that was archived on 2019-03-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190317165605id_/http%3A//www.agkidzone.com/privacy-policy) for the most accurate reproduction.*
 
 # AGKidZone Games, Online Activities, Cartoons, Coloring Pages, Videos
 
