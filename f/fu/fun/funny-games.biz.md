@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the funny-games.biz privacy policy that was archived on 2017-09-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170919183420id_/https%3A//www.funny-games.biz/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the funny-games.biz privacy policy that was archived on 2019-03-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190318005432id_/https%3A//www.funny-games.biz/privacy-policy.html) for the most accurate reproduction.*
 
 # Funny-Games.biz Privacy Policy
 
@@ -20,4 +20,5 @@ EXTERNAL LINKS
 Funny-games.biz contains links to other sites. I am not responsible for the privacy practices or the content of such Web sites.
 
 CONTACTING FUNNY GAMES  
-If you have any comments or questions about this privacy statement or any other issues you can contact me.
+If you have any comments or questions about this privacy statement or any other issues you can contact me.  
+
