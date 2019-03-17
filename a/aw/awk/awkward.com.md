@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the awkward.com privacy policy that was archived on 2018-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180629062246id_/http%3A//awkward.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the awkward.com privacy policy that was archived on 2019-03-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190317114722id_/http%3A//awkward.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Awkward.com
 
@@ -6,7 +6,7 @@ _Version Date: May 24, 2018_
 
 **GENERAL**
 
-Everhance, LLC (“Company” or “we” or “us” or “our”) respects the privacy of its users (“user” or “you”) that use our website located at https://awkward.com, including other media forms, media channels, mobile website or mobile application related or connected thereto (collectively, the “Website”). The following Company privacy policy (“Privacy Policy”) is designed to inform you, as a user of the Website, about the types of information that Company may gather about or collect from you in connection with your use of the Website. It also is intended to explain the conditions under which Company uses and discloses that information, and your rights in relation to that information. Changes to this Privacy Policy are discussed at the end of this document. Each time you use the Website, however, the current version of this Privacy Policy will apply. Accordingly, each time you use the Website you should check the date of this Privacy Policy (which appears at the beginning of this document) and review any changes since the last time you used the Website.
+Awkward (“Company” or “we” or “us” or “our”) respects the privacy of its users (“user” or “you”) that use our website located at https://awkward.com, including other media forms, media channels, mobile website or mobile application related or connected thereto (collectively, the “Website”). The following Company privacy policy (“Privacy Policy”) is designed to inform you, as a user of the Website, about the types of information that Company may gather about or collect from you in connection with your use of the Website. It also is intended to explain the conditions under which Company uses and discloses that information, and your rights in relation to that information. Changes to this Privacy Policy are discussed at the end of this document. Each time you use the Website, however, the current version of this Privacy Policy will apply. Accordingly, each time you use the Website you should check the date of this Privacy Policy (which appears at the beginning of this document) and review any changes since the last time you used the Website.
 
 The Website is hosted in the United States of America and is subject to U.S. state and federal law. If you are accessing our Website from other jurisdictions, please be advised that you are transferring your personal information to us in the United States, and by using our Website, you consent to that transfer and use of your personal information in accordance with this Privacy Policy. You also agree to abide by the applicable laws of applicable states and U.S. federal law concerning your use of the Website and your agreements with us. Any persons accessing our Website from any jurisdiction with laws or regulations governing the use of the Internet, including personal data collection, use and disclosure, different from those of the jurisdictions mentioned above may only use the Website in a manner lawful in their jurisdiction. If your use of the Website would be unlawful in your jurisdiction, please do not use the Website.
 
@@ -130,8 +130,6 @@ Most web browsers and some mobile operating systems include a Do-Not-Track (“D
 
 **CONTACT**
 
-If you have any questions regarding our Privacy Policy, please contact our Privacy Officer at:
+If you have any questions regarding our Privacy Policy, please contact our Privacy Officer on our [Contact Us form](http://awkward.com/contact/).
 
-> Everhance, LLC  
->  Email: info[at]everhance.com  
->  Phone: (913) 961-2114
+> 
