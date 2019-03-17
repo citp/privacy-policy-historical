@@ -1,16 +1,12 @@
-> *The following text is extracted and transformed from the comm100.com privacy policy that was archived on 2018-11-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181113233929id_/https%3A//www.comm100.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the comm100.com privacy policy that was archived on 2019-03-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190317011821id_/https%3A//www.comm100.com/privacy) for the most accurate reproduction.*
 
 # Privacy policy | Comm100
-
-[](https://privacy.truste.com/privacy-seal/validation?rid=75257e22-f2a1-46d8-9653-38277e4a9cd2)
 
 **Last Updated on August 21st, 2018**
 
 Comm100 Network Corporation (herein referred to as “We”, “Comm100” or the “Company”) is committed to protecting the privacy of your information. This Privacy Policy describes Comm100’s information practices.
 
 This Privacy Policy tells what Comm100 will and will not do with personal data collected by Comm100 or provided to Comm100 by other entities (“Organizations”) or by individuals interacting with this website, www.Comm100.com, or Comm100’s Services (“Users”) (collectively referred to as “Services”). Please read this Policy carefully to understand our policies and practices.
-
-If you have an unresolved privacy or data use concern that we have not addressed satisfactorily, please contact our U.S.-based third party dispute resolution provider (free of charge) at <https://feedback-form.truste.com/watchdog/request>.
 
 #### If You Do Not Agree with Our Policy
 
