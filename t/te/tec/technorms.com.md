@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the technorms.com privacy policy that was archived on 2014-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140515110054id_/http%3A//www.technorms.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the technorms.com privacy policy that was archived on 2019-03-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190317065209id_/https%3A//www.technorms.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy for TechNorms.com
 
