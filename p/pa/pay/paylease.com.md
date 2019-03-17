@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the paylease.com privacy policy that was archived on 2018-08-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180826150822id_/https%3A//www.paylease.com/corp/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the paylease.com privacy policy that was archived on 2019-03-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190317145941id_/https%3A//www.paylease.com/corp/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | PayLease
 
@@ -8,7 +8,7 @@ Privacy is important to PayLease LLC and we want you to be familiar with how we 
 
 ## Personal Information
 
- **Personal Information We May Collect**
+**Personal Information We May Collect**
 
 “ **Personal Information** ” is information that identifies you as an individual or relates to an identifiable person, including:
 
@@ -27,17 +27,17 @@ We may use a third-party payment service to process payments made through the Se
 
 If you submit any Personal Information relating to other people to us or to our service providers in connection with the Services, you represent that you have the authority to do so and to permit us to use the information in accordance with this Privacy Policy.
 
- **How We May Collect Personal Information**
+**How We May Collect Personal Information**
 
 We and our service providers may collect Personal Information in a variety of ways, including:
 
-  *  **Through the Services** : We may collect Personal Information through the Services, e.g., when you create an account or make a rental payment to your landlord through our Services, make a payment to your homeowners association, or engage in any other type of transaction with us.
-  *  **Offline** : We may collect Personal Information from you offline, such as when you fill out a lease application at one of the properties that uses our services or if you contact customer service.
-  *  **From Other Sources** : We may receive your Personal Information from other sources, such as public databases, joint marketing partners, social media platforms (including from people with whom you are friends or otherwise connected), landlords, property managers and others on whose behalf we may process transactions, and from other third parties including fraud prevention services. In addition, if you elect to connect your social media account to your Website account, certain Personal Information from your social media account will be shared with us, which may include Personal Information that is part of your profile or your friends’ profiles.
+  * **Through the Services** : We may collect Personal Information through the Services, e.g., when you create an account or make a rental payment to your landlord through our Services, make a payment to your homeowners association, or engage in any other type of transaction with us.
+  * **Offline** : We may collect Personal Information from you offline, such as when you fill out a lease application at one of the properties that uses our services or if you contact customer service.
+  * **From Other Sources** : We may receive your Personal Information from other sources, such as public databases, joint marketing partners, social media platforms (including from people with whom you are friends or otherwise connected), landlords, property managers and others on whose behalf we may process transactions, and from other third parties including fraud prevention services. In addition, if you elect to connect your social media account to your Website account, certain Personal Information from your social media account will be shared with us, which may include Personal Information that is part of your profile or your friends’ profiles.
 
 
 
- **How We May Use Personal Information**
+**How We May Use Personal Information**
 
 We and our service providers may use Personal Information:
 
@@ -50,7 +50,7 @@ We and our service providers may use Personal Information:
 
 
 
- **How Personal Information May Be Disclosed**
+**How Personal Information May Be Disclosed**
 
 Your Personal Information may be disclosed:
 
@@ -62,13 +62,13 @@ Your Personal Information may be disclosed:
 
 
 
- **Other Collection, Uses and Disclosures**
+**Other Collection, Uses and Disclosures**
 
 We also may collect, use and disclose your Personal Information as we believe to be necessary or appropriate: (a) under applicable law, which may include laws outside your country of residence; (b) to respond to requests from courts, law enforcement agencies, regulatory agencies, and other public and government authorities, which may include such authorities outside your country of residence; (c) to enforce our terms and conditions; and (d) to protect our rights, privacy, safety or property, and/or that of our affiliates, you or others.
 
 ## Other Information
 
- **Other Information We May Collect**
+**Other Information We May Collect**
 
 “ **Other Information** ” is any information that does not reveal your specific identity or does not directly relate to an identifiable individual, such as:
 
@@ -82,32 +82,32 @@ We also may collect, use and disclose your Personal Information as we believe to
 
 If we are required to treat Other Information as Personal Information under applicable law, then we may use it for the purposes for which we use and disclose Personal Information as detailed in this Policy.
 
- **How We May Collect Other Information**
+**How We May Collect Other Information**
 
 We and our service providers may collect Other Information in a variety of ways, including:
 
-  *  **Through your browser or device** : Certain information is collected by most browsers or automatically through your device, such as your Media Access Control (MAC) address, computer type (Windows or Macintosh), screen resolution, operating system name and version, device manufacturer and model, language, Internet browser type and version and the name and version of the Services (such as the App) you are using. We use this information to ensure that the Services function properly.
-  *  **Through your use of the App** : When you download and use the App, we and our service providers may track and collect App usage data, such as the date and time the App on your device accesses our servers and what information and files have been downloaded to the App based on your device number.
-  *  **Using cookies** : Cookies are pieces of information stored directly on the computer that you are using. Cookies allow us to collect information such as browser type, time spent on the Services, pages visited, language preferences, and other anonymous traffic data. We and our service providers use the information for security purposes, to facilitate navigation, to display information more effectively, to personalize your experience while using the Services and to recognize your computer in order to assist your use of the Services. We also gather statistical information about use of the Services in order to continually improve their design and functionality, understand how they are used and assist us with resolving questions regarding them. Cookies further allow us to select which of our advertisements or offers are most likely to appeal to you and display them while you are on the Services. We may also use cookies or other technologies to track responses to our online advertisements.
+  * **Through your browser or device** : Certain information is collected by most browsers or automatically through your device, such as your Media Access Control (MAC) address, computer type (Windows or Macintosh), screen resolution, operating system name and version, device manufacturer and model, language, Internet browser type and version and the name and version of the Services (such as the App) you are using. We use this information to ensure that the Services function properly.
+  * **Through your use of the App** : When you download and use the App, we and our service providers may track and collect App usage data, such as the date and time the App on your device accesses our servers and what information and files have been downloaded to the App based on your device number.
+  * **Using cookies** : Cookies are pieces of information stored directly on the computer that you are using. Cookies allow us to collect information such as browser type, time spent on the Services, pages visited, language preferences, and other anonymous traffic data. We and our service providers use the information for security purposes, to facilitate navigation, to display information more effectively, to personalize your experience while using the Services and to recognize your computer in order to assist your use of the Services. We also gather statistical information about use of the Services in order to continually improve their design and functionality, understand how they are used and assist us with resolving questions regarding them. Cookies further allow us to select which of our advertisements or offers are most likely to appeal to you and display them while you are on the Services. We may also use cookies or other technologies to track responses to our online advertisements.
 
 
 
 If you do not want information collected through the use of cookies, there is a simple procedure in most browsers that allows you to automatically decline cookies or be given the choice of declining or accepting the transfer to your computer of a particular cookie (or cookies) from a particular site. You may also wish to refer to <http://www.allaboutcookies.org/manage-cookies/index.html>. If, however, you do not accept cookies, you may experience some inconvenience in your use of the Services. For example, we may not be able to recognize your computer, and you may need to log in every time you visit. You also may not receive advertising or other offers from us that are relevant to our services and your interests and needs.
 
-  *  **Using pixel tags and** **other similar technologies** : Pixel tags (also known as web beacons and clear GIFs) may be used in connection with some Services to, among other things, track the actions of users of the Services (including email recipients), measure the success of our marketing campaigns and compile statistics about usage of the Services and response rates.
+  * **Using pixel tags and** **other similar technologies** : Pixel tags (also known as web beacons and clear GIFs) may be used in connection with some Services to, among other things, track the actions of users of the Services (including email recipients), measure the success of our marketing campaigns and compile statistics about usage of the Services and response rates.
 
 
 
 We do not respond to browser do-not-track signals at this time.
 
-  *  **Analytics**. We use Google Analytics, which uses cookies and similar technologies to collect and analyze information about use of the Services and report on activities and trends.  This service may also collect information regarding the use of other websites, apps and online resources.  You can learn about Google’s practices by going to [google.com/policies/privacy/‌partners/](http://www.google.com/policies/privacy/partners/), and opt out of them by downloading the Google Analytics opt-out browser add-on, available at <https://tools.google.com/dlpage/gaoptout>.
-  *  **IP Address** : Your IP address is a number that is automatically assigned to the computer that you are using by your Internet Service Provider (ISP). An IP address may be identified and logged automatically in our server log files whenever a user accesses the Services, along with the time of the visit and the page(s) that were visited. Collecting IP addresses is standard practice and is done automatically by many websites, applications and other services. We use IP addresses for purposes such as calculating usage levels, diagnosing server problems and administering the Services. We may also derive your approximate location from your IP address.
-  *  **From you** : Information such as your preferred means of communication is collected when you voluntarily provide it.
-  *  **By aggregating information** : Aggregated Personal Information does not personally identify you or any other user of the Services (for example, we may aggregate Personal Information to calculate the percentage of our users who have a particular telephone area code).
+  * **Analytics**. We use Google Analytics, which uses cookies and similar technologies to collect and analyze information about use of the Services and report on activities and trends.  This service may also collect information regarding the use of other websites, apps and online resources.  You can learn about Google’s practices by going to [google.com/policies/privacy/‌partners/](http://www.google.com/policies/privacy/partners/), and opt out of them by downloading the Google Analytics opt-out browser add-on, available at <https://tools.google.com/dlpage/gaoptout>.
+  * **IP Address** : Your IP address is a number that is automatically assigned to the computer that you are using by your Internet Service Provider (ISP). An IP address may be identified and logged automatically in our server log files whenever a user accesses the Services, along with the time of the visit and the page(s) that were visited. Collecting IP addresses is standard practice and is done automatically by many websites, applications and other services. We use IP addresses for purposes such as calculating usage levels, diagnosing server problems and administering the Services. We may also derive your approximate location from your IP address.
+  * **From you** : Information such as your preferred means of communication is collected when you voluntarily provide it.
+  * **By aggregating information** : Aggregated Personal Information does not personally identify you or any other user of the Services (for example, we may aggregate Personal Information to calculate the percentage of our users who have a particular telephone area code).
 
 
 
- **How We May Use and Disclose Other Information**
+**How We May Use and Disclose Other Information**
 
 We may use and disclose Other Information for any purpose, except where we are required to do otherwise under applicable law. In some instances, we may combine Other Information with Personal Information (such as combining your name with your location). If we do, we will treat the combined information as Personal Information as long as it is combined.
 
@@ -123,13 +123,13 @@ We seek to use reasonable organizational, technical and administrative measures 
 
 ## Choices and Access
 
- **Your choices regarding our use of your Personal Information**
+**Your choices regarding our use of your Personal Information**
 
 If you no longer want to receive marketing-related emails from us on a going-forward basis, you may opt-out by clicking on the “unsubscribe” link in such emails.
 
 We will try to comply with your request(s) as soon as reasonably practicable. Please note that if you opt-out of receiving marketing-related emails from us, we may still send you important administrative messages, from which you cannot opt-out.
 
- **How you can access, change or suppress your Personal Information**
+**How you can access, change or suppress your Personal Information**
 
 If you would like to review, correct, update, suppress or delete Personal Information that you have previously provided to us, you may contact us by email at [support@paylease.com](mailto:support@paylease.com) or mail at:
 
