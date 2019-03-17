@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the sircon.com privacy policy that was archived on 2017-07-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170706031727id_/https%3A//www.sircon.com/about/security/privacy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sircon.com privacy policy that was archived on 2019-03-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190318004921id_/https%3A//www.sircon.com/about/security/privacy.jsp) for the most accurate reproduction.*
 
-# Privacy Policy | Sircon Solutions | Vertafore
+# Privacy Policy | Sircon powered by Vertafore
 
 You are using an out-of-date browser which is unsupported. For the best viewing experience, please upgrade to the latest version of one of the following browsers:  
 [ Google Chrome](https://www.google.com/chrome/browser/desktop/) [ Mozilla Firefox](http://www.getfirefox.com/) [ Internet Explorer](http://www.microsoft.com/windows/internet-explorer/default.aspx) Hide
@@ -61,6 +61,8 @@ Vertafore welcomes your comments regarding this privacy statement. If you have q
 
 If you believe that Vertafore has not adhered to this privacy statement, please contact us at infosec@Vertafore.com or via postal mail at the address provided below, and we will use commercially reasonable efforts to promptly determine and remedy the problem.
 
-Vertafore, Inc. (Attention Legal Department)  
-11724 NE 195th Street  
-Bothell, WA 98011
+Vertafore, Inc.  
+Attn: Legal Department  
+999 18th St.  
+Suite 400  
+Denver, CO 80202
