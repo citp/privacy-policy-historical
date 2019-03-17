@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the itxdesign.com privacy policy that was archived on 2016-09-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160909094914id_/https%3A//itxdesign.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the itxdesign.com privacy policy that was archived on 2019-03-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190318005353id_/https%3A//itxdesign.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | ITX
 
