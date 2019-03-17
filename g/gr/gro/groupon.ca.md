@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the groupon.ca privacy policy that was archived on 2018-10-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181025082157id_/https%3A//www.groupon.ca/legal/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the groupon.ca privacy policy that was archived on 2019-03-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190317234452id_/https%3A//www.groupon.ca/legal/privacypolicy) for the most accurate reproduction.*
 
 # Groupon - Local Deals, Goods, and Getaways
 
