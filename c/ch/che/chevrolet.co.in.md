@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the chevrolet.co.in privacy policy that was archived on 2018-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181212213123id_/https%3A//www.chevrolet.co.in/tools/legal-privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the chevrolet.co.in privacy policy that was archived on 2019-03-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190317104223id_/https%3A//www.chevrolet.co.in/tools/legal-privacy.html) for the most accurate reproduction.*
 
-# Legal & Privacy
+# Legal Privacy & Statement - Chevrolet India
 
 GM (General Motors India Private Limited & Chevrolet Sales India Private Limited) has tried to make the information here as comprehensive and factual as possible. GM reserve the right, however, to make changes anytime without notice, in prices, colours, materials, equipment, specifications, models and availability. Since some information may have been updated continuously, please check with your GM retailer for complete details.  
 Neither GM nor their dealers assumes responsibility for any pricing errors. In the event a vehicle is listed at an incorrect price or with incorrect information inadvertently, GM or its dealers shall have the right to refuse any orders, which is based on incorrect price/information.
