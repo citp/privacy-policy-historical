@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the nabtron.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606230858id_/https%3A//nabtron.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nabtron.com privacy policy that was archived on 2019-03-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190317030910id_/https%3A//nabtron.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy & Cookie Policy - Nabtron
 
-##  Privacy & Cookie Policy 
+##  Privacy & Cookie Policy
 
 Privacy Policy for Nabtron.com
 
@@ -36,4 +36,4 @@ You can choose to disable or selectively turn off our cookies or third-party coo
 
 Deleting cookies does not mean you are permanently opted out of any advertising program.  Unless you have settings that disallow cookies, the next time you visit a site running the advertisements, a new cookie will be added.
 
-This website uses cookies to improve your experience. We'll assume you're ok with this, but you can opt-out if you wish.Accept [Read More](https://nabtron.com/privacy-policy/)
+This website uses cookies to improve your experience. We'll assume you're ok with this if you continue using the website.Accept [Read More](https://nabtron.com/privacy-policy/)
