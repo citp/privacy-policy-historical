@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the leanbellybreakthrough.com privacy policy that was archived on 2018-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181204000352id_/http%3A//leanbellybreakthrough.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the leanbellybreakthrough.com privacy policy that was archived on 2019-03-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190317164243id_/https%3A//leanbellybreakthrough.com/privacy.html) for the most accurate reproduction.*
 
 # Lean Belly Breakthrough
 
@@ -20,4 +20,4 @@ This Privacy Policy covers only our on-line information collection and use pract
 
 **7\. Changes to Policy.** We may change this Privacy Policy from time-to-time. However, if a change is made, we will post the revised Privacy Policy on this Site.
 
-ClickBank is the retailer of products on this site. CLICKBANK® is a registered trademark of Click Sales, Inc., a Delaware corporation located at 917 S. Lusk Street, Suite 200, Boise Idaho, 83706, USA and used by permission. ClickBank's role as retailer does not constitute an endorsement, approval or review of these products or any claim, statement or opinion used in promotion of these products.
+ClickBank is the retailer of products on this site. CLICKBANK速 is a registered trademark of Click Sales, Inc., a Delaware corporation located at 917 S. Lusk Street, Suite 200, Boise Idaho, 83706, USA and used by permission. ClickBank's role as retailer does not constitute an endorsement, approval or review of these products or any claim, statement or opinion used in promotion of these products.
