@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the surveysonline.com privacy policy that was archived on 2018-10-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181005185953id_/https%3A//magid.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the surveysonline.com privacy policy that was archived on 2019-03-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190317230430id_/https%3A//magid.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Magid
 
