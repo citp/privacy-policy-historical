@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the statravel.com.au privacy policy that was archived on 2018-10-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181008015009id_/http%3A//www.statravel.com.au/privacy_policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the statravel.com.au privacy policy that was archived on 2019-03-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190317071008id_/https%3A//www.statravel.com.au/privacy_policy.htm) for the most accurate reproduction.*
 
 # Privacy policy of STA Travel Australia and New Zealand | STA Travel | Privacy policy
 
@@ -74,13 +74,13 @@ If you choose not to provide your personal information to us for the purposes se
 
 ## Feedback, access and corrections
 
-STA Travel welcomes your questions and comments about privacy. Please contact us if you have any queries or concerns, or if you wish to exercise your rights under the Privacy Act to request access to, or to correct or update, your personal information, via the links below. [Contact us here](http://forms-customercare.statravel.com/?division=AU&_ga=2.128556805.823422502.1506421760-257923017.1503484850#/customer_care).
+STA Travel welcomes your questions and comments about privacy. Please contact us if you have any queries or concerns, or if you wish to exercise your rights under the Privacy Act to request access to, or to correct or update, your personal information, via the links below. [Contact us here](https://forms-customercare.statravel.com/?division=AU&_ga=2.128556805.823422502.1506421760-257923017.1503484850#/customer_care).
 
 STA Travel reserves the right to alter our privacy policy, as business needs require. Any alterations to this policy will be posted on our website in a timely manner.
 
 ## Privacy complaints
 
-If you have a complaint about our collection, use or disclosure of personal information, or if you believe that we have not complied with this Privacy Policy or the Privacy Act 1988 (Cth), please [contact us here](http://forms-customercare.statravel.com/?division=AU&_ga=2.128556805.823422502.1506421760-257923017.1503484850#/customer_care).
+If you have a complaint about our collection, use or disclosure of personal information, or if you believe that we have not complied with this Privacy Policy or the Privacy Act 1988 (Cth), please [contact us here](https://forms-customercare.statravel.com/?division=AU&_ga=2.128556805.823422502.1506421760-257923017.1503484850#/customer_care).
 
 When contacting us please provide as much detail as possible in relation to your question, comment or complaint.
 
