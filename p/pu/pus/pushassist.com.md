@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pushassist.com privacy policy that was archived on 2017-02-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170226102631id_/https%3A//pushassist.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pushassist.com privacy policy that was archived on 2019-03-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190317225820id_/https%3A//pushassist.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
