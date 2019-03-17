@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tamuk.edu privacy policy that was archived on 2018-11-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181113210314id_/http%3A//www.tamuk.edu/privacy/index.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tamuk.edu privacy policy that was archived on 2019-03-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190317080505id_/http%3A//www.tamuk.edu/privacy/index.html) for the most accurate reproduction.*
 
 # Privacy Statement
 
@@ -42,7 +42,7 @@ If you have any questions about this privacy statement, the practices of this si
   
 Texas A&M University-Kingsville
 
-[Office of Marketing and Communications](https://web.archive.org/web/20181113210314id_/http%3A//www.tamuk.edu/marcomm/index.html)
+[Office of Marketing and Communications](https://web.archive.org/web/20190317080505id_/http%3A//www.tamuk.edu/marcomm/index.html)
 
 Attention: [marcomm@tamuk.edu](mailto:marcomm@tamuk.edu "email")
 
