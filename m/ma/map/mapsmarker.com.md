@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mapsmarker.com privacy policy that was archived on 2018-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181120185147id_/https%3A//www.mapsmarker.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mapsmarker.com privacy policy that was archived on 2019-03-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190317100035id_/https%3A//www.mapsmarker.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy policy » Maps Marker Pro
 
