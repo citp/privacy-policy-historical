@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sony.com.au privacy policy that was archived on 2018-03-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180313091309id_/https%3A//www.sony.com.au/section/privacypolicy%3Fcid%3Dgwt%3Afooter%3Alegal%3Aprivacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sony.com.au privacy policy that was archived on 2019-03-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190318005401id_/https%3A//www.sony.com.au/section/privacypolicy%3Fcid%3Dgwt%3Afooter%3Alegal%3Aprivacypolicy) for the most accurate reproduction.*
 
 # Privacy Policy : Sony Australia
 
@@ -13,7 +13,7 @@ Please note that other companies in the Sony Group are responsible for personal 
   
 
 
-### Contents
+## Contents
 
 ## 1 Information that we collect
 
