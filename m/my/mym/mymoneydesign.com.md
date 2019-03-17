@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mymoneydesign.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606034038id_/http%3A//www.mymoneydesign.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mymoneydesign.com privacy policy that was archived on 2019-03-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190317084450id_/http%3A//www.mymoneydesign.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy for MyMoneyDesign.com
 
@@ -21,5 +21,7 @@ We do use cookies to store information, such as your personal preferences when y
 We also use third party advertisements on MyMoneyDesign.com to support our site. Some of these advertisers may use technology such as cookies and web beacons when they advertise on our site, which will also send these advertisers (such as Google through the Google AdSense program) information including your IP address, your ISP , the browser you used to visit our site, and in some cases, whether you have Flash installed. This is generally used for geotargeting purposes (showing New York real estate ads to someone in New York, for example) or showing certain ads based on specific sites visited (such as showing cooking ads to someone who frequents cooking sites).
 
 You can chose to disable or selectively turn off our cookies or third-party cookies in your browser settings, or by managing preferences in programs such as Norton Internet Security. However, this can affect how you are able to interact with our site as well as other websites. This could include the inability to login to services or programs, such as logging into forums or accounts.
+
+GHVHVDN13986236
 
 _This template for AdSense Privacy Policy was provided by[JenSense](http://www.jensense.com/2008/03/05/adsense-friendly-privacy-policy-sample-for-adsense-publishers-to-use/)._
