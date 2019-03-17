@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the elthamleisurecentre.com.au privacy policy that was archived on 2018-08-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180812053420id_/http%3A//elthamleisurecentre.com.au/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the elthamleisurecentre.com.au privacy policy that was archived on 2019-03-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190317155055id_/http%3A//elthamleisurecentre.com.au/privacy-policy) for the most accurate reproduction.*
 
 # Privacy policy |
 
