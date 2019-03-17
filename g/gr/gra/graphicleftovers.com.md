@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the graphicleftovers.com privacy policy that was archived on 2016-10-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161014142128id_/https%3A//graphicleftovers.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the graphicleftovers.com privacy policy that was archived on 2019-03-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190317201629id_/https%3A//glstock.com/privacy-policy) for the most accurate reproduction.*
 
 # Resources · GL Stock Images
 
 ## Privacy Policy
 
-Your privacy is very important to us. GL Stock Images ("Administrator") adheres to the following privacy policy   
+Your privacy is very important to us. GLStock ("Administrator") adheres to the following privacy policy   
 regarding its collection, use and dissemination of personal and non-personal information collected through its website ("Site").
 
 * * *
