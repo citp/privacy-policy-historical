@@ -1,14 +1,14 @@
-> *The following text is extracted and transformed from the hungryroot.com privacy policy that was archived on 2017-02-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170227175017id_/https%3A//www.hungryroot.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hungryroot.com privacy policy that was archived on 2019-03-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190317222217id_/https%3A//www.hungryroot.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Hungryroot
 
-## Privacy Policy
+Privacy Policy
 
 We value your privacy. This policy explains our privacy practices for hungryroot.com and services provided by Hungryroot, Inc. By visiting this website, you are accepting the terms of this Privacy Policy. We are not responsible for the content or the privacy policies of other websites linked to on our site.
 
 Last Updated: October 1, 2014
 
-##### Information We Gather or Receive
+Information We Gather or Receive
 
 Hungryroot will not sell or disclose your name, email address or other personal information to third parties without your explicit consent, except as specified in this policy. Hungryroot may require additional information, such as billing and payment information (including billing address, telephone number, credit card information), a telephone number, and/or a physical address. Credit card information on an account may be stored and used for billing purposes.
 
@@ -20,7 +20,7 @@ Hungryroot uses the information described in this policy to provide and improve 
 
 Hungryroot's Terms of Use require all account owners to be at least 18 years of age (or have the permission and supervision of a responsible parent or legal guardian), therefore, this policy does not discuss use of our site or services by minors.
 
-##### Controlling Your Information
+Controlling Your Information
 
 We want you to have control over your own information, so Hungryroot gives you the choice of providing, editing or removing certain information.
 
@@ -30,7 +30,7 @@ For various reasons, Hungryroot may contact you about our services or your activ
 
 If you no longer wish to use Hungryroot's services or receive service- related messages, please email help@hungryroot.com.
 
-##### Messages from Hungryroot
+Messages from Hungryroot
 
 In order to fulfill orders and keep you informed, Hungryroot will contact you. Typically, messages are delivered by email and SMS messages, and every account is required to keep a valid email address and phone number on file to receive messages. In some situations, Hungryroot may contact you by telephone or physical mail in order to provide you with information about products and features you may find of interest or to provide you with customer support.
 
@@ -40,7 +40,7 @@ As a customer, Hungryroot may also send you messages related to certain features
 
 Hungryroot offers optional email newsletters. When you register for an account, or choose to subscribe, you will receive newsletters from us. Newsletters are available to both customers and non-customers. Customers may subscribe or unsubscribe from optional newsletters by following the instructions contained in the newsletter emails.
 
-##### What Information We Share
+What Information We Share
 
 Hungryroot will never sell or disclose your name, email address or other personal information to third parties without your explicit consent, except as specified in this policy.
 
@@ -56,20 +56,20 @@ We can only speak for ourselves; this policy does not apply to the practices of 
 
 We reserve the right to transfer information (including your personal data) to a third party in the event of a sale, merger, liquidation, receivership or transfer of all or substantially all of the assets of our company provided that the third party agrees to adhere to the terms of our Privacy Policy and provided that the third party only uses your personal data for the purposes that you provided it to us. You will be notified in the event of any such transfer and you will be afforded an opportunity to opt-out.
 
-##### Cookies & Tracking Technologies
+Cookies & Tracking Technologies
 
 Hungryroot uses a variety of technologies to help us better understand how people use our site and services. Hungryroot may partner with third-party services who may use various tracking technologies, such as browser cookies or Flash cookies, to provide certain services or features. These technologies allow a partner to recognize your computer each time you visit Hungryroot, but do not allow access to personally identifiable information from Hungryroot. Hungryroot does not have access or control over these third-party technologies, and they are not covered by our privacy statement.
 
-##### Data Retention
+Data Retention
 
 Hungryroot will retain your information only for as long as is necessary or your account is active or as needed to provide you services. If you no longer want Hungryroot to use your information to provide you services, you may close your account. Hungryroot will retain and use your information as necessary to improve your experience with our products and services, comply with law enforcement and resolve disputes.
 
 You may inform us of any changes or requests in regards to your personal data, and in accordance with our obligations under local data protection law, we may update or delete your personal data accordingly.
 
-##### Privacy Policy Changes
+Privacy Policy Changes
 
 Hungryroot reserves the right to modify this privacy statement at any time, so please review it periodically. We’ll communicate changes by posting a notice on the site. If we make material changes to this policy you will be notified here, by email, or other places Hungryroot deems appropriate.
 
-##### Contact Hungryroot
+Contact Hungryroot
 
 If you have questions or suggestions you can contact Hungryroot's support team by sending an email to help@hungryroot.com.
