@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the misfit.com privacy policy that was archived on 2018-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181222232747id_/https%3A//misfit.com/legal/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the misfit.com privacy policy that was archived on 2019-03-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190318214610id_/https%3A//misfit.com/legal/privacy_policy) for the most accurate reproduction.*
 
 # Privacy Policy - Misfit
 
