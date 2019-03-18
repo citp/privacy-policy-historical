@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mindspay.com privacy policy that was archived on 2017-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171130165526id_/http%3A//www.mindspay.com/uc%3Fa%3Dst%26pt%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mindspay.com privacy policy that was archived on 2019-03-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190318171551id_/https%3A//mindspay.com/uc%3Fa%3Dst%26pt%3Dprivacy) for the most accurate reproduction.*
 
 # MindsPay :: - Privacy Policy !
 
@@ -43,6 +43,8 @@ Do we disclose any information to outside parties?
 
 We do not sell, trade, or otherwise transfer to outside parties your personally identifiable information. This does not include trusted third parties who assist us in operating our website, conducting our business, or servicing you, so long as those parties agree to keep this information confidential. We may also release your information when we believe release is appropriate to comply with the law, enforce our site policies, or protect ours or others' rights, property, or safety. However, non-personally identifiable visitor information may be provided to other parties for marketing, advertising, or other uses.
 
+We allow third-party companies to collect certain information when you visit our web site or within our email newsletters. These companies may utilize cookies, pixels or other technologies to collect user information (e.g., hashed, de-identified, data, click stream information, browser type, time and date, subject of advertisements clicked or scrolled over) during your visits to this and other websites in order to provide advertisements about goods and services likely to be of greater interest to you. To learn more about this behavioral advertising practice or to opt-out of this type of advertising, you can visit the websites of the Digital Advertising Alliance at http://www.aboutads.info/choices
+
 Third party links
 
 Occasionally, at our discretion, we may include or offer third party products or services on our website. These third party sites have separate and independent privacy policies. We therefore have no responsibility or liability for the content and activities of these linked sites. Nonetheless, we seek to protect the integrity of our site and welcome any feedback about these sites.
@@ -77,7 +79,7 @@ Changes to our Privacy Policy
 
 If we decide to change our privacy policy, we will post those changes on this page, and/or update the Privacy Policy modification date below. Policy changes will apply only to information collected after the date of the change.
 
-This policy was last modified on July 3rd, 2013
+This policy was last modified on March 8th, 2018
 
 Contacting Us
 
