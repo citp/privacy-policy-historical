@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the uoutdo.com privacy policy that was archived on 2016-04-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160427100520id_/http%3A//www.uoutdo.com/help/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the uoutdo.com privacy policy that was archived on 2019-03-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190318080451id_/http%3A//www.uoutdo.com/help/privacy) for the most accurate reproduction.*
 
 # uOutdo - Privacy Policy
 
