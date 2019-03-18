@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the richdadworld.com privacy policy that was archived on 2016-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161227000105id_/https%3A//www.richdadworld.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the richdadworld.com privacy policy that was archived on 2019-03-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190318061144id_/https%3A//www.richdadworld.com/privacy.html) for the most accurate reproduction.*
 
 # Rich Dad World PowerPack Privacy Statement | Rich Dad World PowerPack
 
@@ -12,13 +12,13 @@ If we send you an e-mail, it will contain an opt-out link which you can click to
 
 Rich Dad Coaching  
 Attn: Quality Department  
-9020 South Sandy Parkway   
-Sandy, UT, 84070   
+10235 S. Jordan Gateway, Suite 500  
+South Jordan, UT 84095   
 Call us toll-free at: 1-877-524-8854
 
 ### Security
 
-This site has security measures in place to protect against the loss, misuse and alteration of the information under our control. This site uses the Secure Socket Layer protocol to ensure secure data transmission.
+This site has security measures in place to protect against the loss, misuse and alteration of the information under our control. This site uses the Data Security Standard (PCI DSS) 3.1 and above to ensure secure data transmission.
 
 ### What Do We Collect and Why?
 
