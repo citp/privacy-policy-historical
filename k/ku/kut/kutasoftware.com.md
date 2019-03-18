@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kutasoftware.com privacy policy that was archived on 2018-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181130122225id_/http%3A//www.kutasoftware.com/policies.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kutasoftware.com privacy policy that was archived on 2019-03-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190318090106id_/http%3A//www.kutasoftware.com/policies.html) for the most accurate reproduction.*
 
 # Kuta Software Policies
 
@@ -51,4 +51,4 @@ Kuta Software LLC may revise and update this Privacy Policy from time to time. W
 
 #### Contact Us
 
-If you have questions or concerns about Kuta Software LLC or this Privacy Policy, please [contact us](https://web.archive.org/web/20181130122225id_/http%3A//www.kutasoftware.com/about.html).
+If you have questions or concerns about Kuta Software LLC or this Privacy Policy, please [contact us](https://web.archive.org/web/20190318090106id_/http%3A//www.kutasoftware.com/about.html).
