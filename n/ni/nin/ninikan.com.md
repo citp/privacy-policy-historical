@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ninikan.com privacy policy that was archived on 2018-07-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180709205547id_/http%3A//ww43.ninikan.com/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ninikan.com privacy policy that was archived on 2019-03-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190319001932id_/http%3A//ww43.ninikan.com/privacy_policy.php) for the most accurate reproduction.*
 
 # Privacy Policy
 
