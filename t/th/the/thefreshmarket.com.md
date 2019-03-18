@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the thefreshmarket.com privacy policy that was archived on 2018-10-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181001234142id_/https%3A//www.thefreshmarket.com/about-us/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thefreshmarket.com privacy policy that was archived on 2019-03-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190318110435id_/https%3A//www.thefreshmarket.com/about-us/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - The Fresh Market
+# Privacy Policy | The Fresh Market - The Fresh Market
 
 ### PRIVACY POLICY
 
