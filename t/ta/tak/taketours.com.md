@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the taketours.com privacy policy that was archived on 2017-09-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170914020758id_/https%3A//www.taketours.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the taketours.com privacy policy that was archived on 2019-03-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190319000321id_/https%3A//www.taketours.com/privacy) for the most accurate reproduction.*
 
 # Privacy - TakeTours
 
@@ -30,7 +30,7 @@ Information about our customers is an important part of our business, and we are
 
 Sometimes we send offers to selected groups of TakeTours.com customers on behalf of other businesses. When we do this, we do not give that business your name and address. If you do not want to receive such offers, please adjust your Customer Communication Preferences.
 
-Business Transfers: As we continue to develop our business, we might sell or buy stores or assets. In such transactions, customer information generally is one of the transferred business assets. Also, in the event that IvyMedia or substantially all of its assets are acquired, customer information will of course be one of the transferred assets. 
+Business Transfers: As we continue to develop our business, we might sell or buy stores or assets. In such transactions, customer information generally is one of the transferred business assets. Also, in the event that TakeTours or substantially all of its assets are acquired, customer information will of course be one of the transferred assets. 
 
 Protection of TakeTours.com and Others: We release account and other personal information when we believe release is appropriate to comply with law; enforce or apply our Conditions of Use and other agreements; or protect the rights, property, or safety of TakeTours.com, our users, or others. This includes exchanging information with other companies and organizations for fraud protection and credit risk reduction. 
 
@@ -57,7 +57,7 @@ As discussed above, you can always choose not to provide information, even thoug
 
 You can add or update certain information on pages such as those listed in the "What Information Can I Access?" section above. When you update information, we usually keep a copy of the prior version for our records. 
 
-If you do not want to receive e-mail or other mail from us, please adjust your Customer Communication Preferences. (If you do not want to receive Conditions of Use and other legal notices from us, such as this Privacy Notice, those notices will still govern your use of IvyMedia, and it is your responsibility to review them for changes.) 
+If you do not want to receive e-mail or other mail from us, please adjust your Customer Communication Preferences. (If you do not want to receive Conditions of Use and other legal notices from us, such as this Privacy Notice, those notices will still govern your use of TakeTours, and it is your responsibility to review them for changes.) 
 
 The "help" portion of the toolbar on most browsers will tell you how to prevent your browser from accepting new cookies, how to have the browser notify you when you receive a new cookie, or how to disable cookies altogether. However, you will not be able to use important features if you do not use cookies. 
 
