@@ -1,92 +1,170 @@
-> *The following text is extracted and transformed from the mindshareworld.com privacy policy that was archived on 2018-02-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180218223101id_/http%3A//mindshareworld.com/about/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mindshareworld.com privacy policy that was archived on 2019-03-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190318110230id_/https%3A//www.mindshareworld.com/about/privacy-notice) for the most accurate reproduction.*
 
-# Privacy Policy | Mindshare World
+# Privacy Notice | Mindshare World
 
-[Mindshare Media UK Ltd] ("Mindshare") is a part of GroupM Worldwide, Inc., and has adopted these privacy principles for the website located at mindshareworld.com.  This Privacy Policy applies only to the website on which it appears, and not to any other Mindshare, GroupM or other website or service.  This Privacy Policy also provides information about activities we undertake across internet websites on behalf of Mindshare clients. 
+**Mindshare Privacy Notice**
 
-Mindshare is firmly committed to protecting the privacy of Internet users and fostering user confidence in the Internet, Internet advertising and direct marketing.  Accordingly, we are committed to observing applicable industry guidelines including those established jointly by the Interactive Advertising Bureau, American Association of Advertising Agencies and Direct Marketing Association.  We continually evaluate innovative ways to protect online user privacy while also seeking to deliver relevant advertising and custom online experiences on behalf of our clients.  Mindshare provides services for its clients such as media planning and buying, marketing communications planning, campaign analytics and research, paid search placement and search engine optimization, branded entertainment as well as sports sponsorships ("Services").
+How and why we collect data and covering your choices.
 
-The purpose of this privacy policy is to provide clear notice about the user information we may collect online in connection with our Services and on our own website. 
+For our additional notice for Mindshare events click [here](https://web.archive.org/about/privacy-notice-events).
 
-The next few sections below describe how we collect user information in connection with the operation of our Services for our clients, such as through advertisements that may appear on various websites on the Internet.  Therefore, certain information collection by Mindshare through the use of cookies used in the Services, as described below, may occur on numerous websites across the Internet. 
+(last update, September 2018)
 
-For information on how we collect and use information that is collected directly on this website (as opposed to through the Services), please see the section entitled "Your Correspondence on this Website."
+**WHO ARE WE?**
 
-Information We Collect Through our Services
+Mindshare Media UK Limited (“ **Mindshare** ”), is a global media investment business and is a part of the GroupM Worldwide, Inc.. In the European Economic Area (EEA) and Switzerland the Mindshare legal entity responsible for the data that Mindshare collects is Mindshare Media UK Limited. Outside of the EEA and Switzerland the responsible legal entity is Mindshare USA LLC.
 
-We do not collect personally identifiable information ("PII") from users online through advertisements we manage on behalf of our clients unless users affirmatively and deliberately choose to release that information by submitting it, in a text field for example.  PII generally refers to identifying information such as an individual's name, mailing address, phone number or e-mail address. 
+We respect the privacy of users of our website and recognise that when you choose to provide us with information about yourself, you trust us to act in a responsible manner with that information. This privacy policy contains important information about how we use your personal information.
 
-Non-Personal Information Collected by our Services
+**WHAT INFORMATION IS COLLECTED AND USED BY MINDSHARE?**
 
-We do collect non-personally identifiable information ("Non-PII) to identify computers that we have interacted with before.  For instance, by using Non-PII, we may be able to identify a computer that has previously seen an advertisement we launched on behalf of a client.  In the context of Non-PII, whenever we refer to ‘you' or ‘yours,' please remember that we may be referring to a computer and not an identifiable person since we generally do not know who is using a computer at any particular time.
+We collect information that enables us to identify your browser and device and tell us which pages within our Website you visit and on which pages you spend the most time. We do this by using the following:
 
-Through the collection and use of Non-PII, we offer a range of Services to allow advertisers to show you the most useful and relevant online advertisements across numerous websites and to prevent excessive or repeated deliveries of the same advertisements.  For example, if we think that a user is interested in apparel options, then our Services may help our clients deliver interest-based online advertisements to you about a particular type of apparel. You can learn more about such advertising practices by visiting [www.iab.net/privacymatters](http://www.iab.net/privacymatters).
+Cookie
 
-We may collect Non-PII regarding your web browsing, usage or interactions with advertisements we manage on behalf of our clients.  We do this to better customize the sort of advertisements you see on various websites and for other purposes such as research and analysis.  Non-PII may include information such as the type of Internet browser used by an online user, the type of computer operating system used, the computer's Internet protocol ("IP") address, the domain name of the websites visited before and after viewing an advertisement, as well as information related to websites and web pages a user is viewing when an advertisement is shown.  
+| 
 
-We collect Non-PII through the use of cookies, pixels and related technologies.    A cookie is a file on your browser that uniquely identifies your browser and computer.  A pixel is a line of code which is used by a website or third party t to assign online activities to a computer or browser.  The use of a pixel allows websites and us to record, for example, that a user has visited a particular web page.  Additional Non-PII from an earlier period or interaction may be included in the pixel.  Though Non-PII does not personally identify anyone, we are still committed to giving users the opportunity to exercise choice about the Non-PII we collect.   See Section titled:
+a small alphanumeric text file that we automatically assign to visitors to our website. It is stored in your browser and allows us  to identify your interaction with us.
 
-User Choice - Opting Out of Receiving Cookies
+Sometimes a cookie resides on your device for just the single time you’re visiting our Website; this is called a session cookie. Sometimes a cookie remains on your device until you delete it or it expires automatically; this is called a persistent cookie. Both types of cookies are used on our Websites.   
+  
+---|---  
+  
+ IP  address
 
-Europe
+| 
 
-Please note - in some countries an IP address is considered PII by applicable law.  If we conduct business in such countries and we know that you are located in such a country, we will treat your IP address as PII.
+ Internet protocol address  
+  
+ Pixel
 
-In such countries we interpose a "black box" which is operated by an independent third party and which separates the user's IP address from other data we collect. If your browser does not accept cookies or if the opt-out-cookie is set, no tracking takes place.
+| 
 
-targ.ad 2.0 is a service of ours which places a cookie on your computer for the purpose of interest-based marketing as described above.  This service is primarily used Europe.  The service has been certified with the Data Privacy Seal issued by the Independent Data Protection Authority of the Federal State Schleswig-Holstein in Germany in March 2010.  
+A line of code that sits within our webpages and which we use to record that you have visited a particular page within our Websites.  
+  
+We use some or all of this information to improve your website experience by delivering content that you are likely to prefer on future visits. Our lawful basis for this type of processing is that we have a legitimate interest in understanding and improving your experience of our Website.
 
-Disclosure of Information to Third Parties
+If you don’t agree to us using cookies and the above information, you may prevent their use through your browser settings or you may choose to opt out [HERE](https://www.youradchoices.com/). By choosing not to accept cookies, certain Website features may not work as we have intended.  
+ 
 
-We do not collect PII via our client's advertisements, and therefore, we do not sell, rent, or share PII collected on our or other websites to non-affiliated third parties.  If you affirmatively and deliberately provide PII via one of our client's advertisements who was identified to you at the time of collection, then that PII will be provided to such client, and such PII shall be subject to that client's privacy policy.
+**Specific cookie types used**
 
-We may disclose Non-PII collected through our Services, and information derived from it, to our clients and vendors.  This Non-PII may be used by our clients to deliver tailored ads to users on participating websites and for other purposes as described above.  This information does not include any PII that can be used to contact or identify any person individually.  Further, we encourage our clients, as applicable, to use any Non-PII they receive in compliance with applicable laws and regulations and to publish privacy policies that tell you about how the information they are gathering is being used.  We urge you to always read the privacy policies of the websites you visit to understand issues relating to your online privacy.
+**Performance**
 
-We may disclose a user's Non-PII to third parties when we reasonably believe we are obligated to do so by law, and in order to investigate, prevent, or take action regarding suspected or actual prohibited activities, including, but not limited to, fraud and situations involving potential threats to the physical safety of any person.  In addition and if permitted by applicable law, we may also disclose and provide access to a user's PII and Non-PII to our vendors and contractors who are performing services on our behalf.  However, such vendors and contractors are not permitted to use such user information for any purpose other than providing services to us.
+**Analytics**
 
-User Choice - Opting Out of Receiving Cookies
+**Tracking**
 
-We use technology, which includes cookies, in the delivery of our Services.  We believe that the use of these tools enables us and our advertiser clients to provide users with a more meaningful web experience.
+| 
 
-At all times, you may adjust your computer's web browser settings to refuse all cookies.  However, by doing so, you may not be able to use certain features on the websites you visit or take full advantage of all the website offerings and interest-based advertising.  You can remove cookies by following directions provided in your Internet browser's "help" file.
+This type of cookie provides aggregated information about where a user may go on the Website.  
+  
+---|---  
+  
+**Google Analytics**
 
-Data Retention
+**(persistent)**
 
-We may use our anonymous cookie information for advertising purposes for up to 13 months.  Aggregate reports generated from this information may be kept longer.
+| 
 
-Information Security
+Mindshare uses Google Analytics to help analyze how visitors use the Website. Among other things, Google Analytics uses cookies to collect information about the number of visits to the Website, the webpage that referred visitors to the Website, language, device, browser and operating system, the pages visitors view within the Website and other similar details. We do not share this information with third parties. When used this way the Google Analytics cookie is a persistent cookie, and will remain on your device until the cookie expires or you delete it. These cookies may appear as _utma, _utmb, _utmc, _utmz, _utmv, _utmt, **_** gid.  
+  
+**Google Analytics**  
 
-We follow generally accepted industry standards to protect against the unauthorized access to, retention of, and disclosure of information.  This includes undertaking necessary physical, electronic, and management activities required to protect information integrity, access, and use.  Any information that is stored on our server is treated as confidential information.  Please keep in mind, however, that despite these reasonable efforts to protect information on our servers, no method of transmission over the Internet is guaranteed to be secure.  Therefore, while we strive to protect your information at all times, we cannot guarantee its absolute security.
+**(session)**
 
-Change to this Privacy Policy
+| 
 
-Please note that because of the changing nature of privacy laws, user needs, and our business, we may modify this Privacy Policy from time to time by providing advance notice on our website before implementing such modifications.  Accordingly, since we want to help you clearly understand our Privacy Policy, and any pertinent revisions, we encourage you to review our Privacy Policy periodically to become aware of any changes that may have occurred.
+This cookie may appear as has_js. We do not retain this data as it is deleted upon closing of your browser, and therefore we cannot share it with any third parties.  
+   
+  
+**Social media/**
 
-Information We Collect Through Your Correspondence on this Website
+**Social Sharing**
 
-If you provide us information through our "contact us" link on this website, sign up to receive our marketing emails or newsletters, submit information in connection with an employment inquiry, expressly enter information into a text field or otherwise submit information to us, we will keep a record of the information you provide including your email address and any other PII you provide solely for the purpose of responding to your inquiry or to provide you with requested marketing materials or newsletters.  Except as set forth in this Privacy Policy, this information will never be shared with third parties without your consent.  Mindshare may pass your PII to our subsidiaries and affiliated companies so that they may contact you in connection with the objective of your inquiry. Where we pass your PII to our subsidiary or affiliated companies in another country, we will make sure that they apply the same level of protection to your information as we do.  We may also disclose your information to third parties in the event of suspected fraud, legal requirement or in connection with our vendors and contractors, all as described above.
+| 
 
-Mindshare may use cookies to tailor your experience on our website (this website) and to help provide a better service to you.  You may opt out of cookies used on our websites through the instructions provided above.
+These are cookies that help with the Website’s functionality. These are third party cookies and they allow you to share comments, pages, bookmarks and likes and help to provide access to social networking tools easily  
+   
+  
+| 
 
-If you would like us to remove your information from our marketing e-mails or newsletters, please contact us at [privacy@mindshareworld.com](mailto:privacy@mindshareworld.com).  Be sure to include your name, username and clear instructions regarding any change to your PII including email address or if you would like us to unsubscribe you from our database. 
+Social media widgets used on this Website include LinkedIn, Twitter and YouTube. These social media widgets collect information about your visit to the Website and your use of the social platform services (for example, buttons or likes) on the Website. We do not share information with these social platforms, however please keep in mind the social networks collect the data of your site visit and interaction with the social widget directly  
+  
+**Third Party Services**
 
-Children's Privacy
+| 
 
-We are sensitive to the issue of children's privacy.  Therefore, our website and Services are neither developed for, nor directed at, children.  If you believe your child has provided us with PII, and you would like to have the information removed, please contact us at [privacy@mindshareworld.com](mailto:privacy@mindshareworld.com).
+We may use cookies and pixels from third party providers – such as Google, Facebook and others – on our website to help provide more relevant experiences for you as a user. Such cookie or pixel may be implemented on a Mindshare website which tags a visitor of the site, so that the visitor may be identified and advertisements can be served on that visitor via the relevant platforms.
 
-Linking to Other Websites
+If you wish to opt-out of any of these please do so by either using the privacy controls offered by these specific platforms or by using a recognised opt-out service such as: <https://www.youradchoices.com/>  
+  
+**Collection and use of contact information**
 
-A link from our own website to another website does not imply our endorsement of that website.  We do not control the websites to which we link and assume no responsibility for their content or privacy policies.  Therefore, you should carefully review the privacy policies that apply to any websites you access from our website.
+There are a few instances where we may collect your name and contact details (such as e-mail address, telephone number and postal address). But, we won’t collect this information without consent and never use it in online advertising placement. We keep a record of this information, including email address and other contact information, solely for responding to a user’s request. Examples where you might voluntarily provide your name and contact details include:
 
-Transfer of Data upon Change of Control
+  * If you click on the “contact us” link and submit a question or comment, we will collect your name, e-mail address, and phone number in order to send you a reply.
+  * If you voluntarily ask to be added to our newsletter list, we will collect your e-mail address to send you our email newsletter or marketing emails.
+  * If you submit information in connection with an employment inquiry
+  * to allow you to submit articles to the WPP Reading Room;
+  * If you enter information into a text field or otherwise submit information to us on the Website.
 
-In the event that another company acquires all or substantially all of the assets of our business through a consolidation, merger, asset purchase, or other transaction, we reserve the right to transfer all information (including any PII a user may have provided through the "contact us" page) that is in our possession or under our control to such acquiring party.
 
-Data Storage - United States, United Kingdom & Germany
 
-Our website and databases are maintained in the United States of America, the United Kingdom and Germany. By using the website or our Services, you freely and specifically give us your consent to collect and store, your information in the United States and Germany and to use your information as specified within this Privacy Policy.
+By entering your contact information as noted above you are consenting to Mindshare using that information to contact you regarding your request and provide you with better ways of accessing information from this website. This consent is our legal basis for using the information in this way.
 
-Questions or Comments about this Privacy Policy
+Mindshare may pass your contact information to our subsidiaries and affiliated companies so that they may contact you in connection with the objective of your inquiry for the purposes set out in this policy. Where we pass your contact information to our subsidiary or affiliated companies in another country, we will make sure that they apply the same level of protection to your information as we do. 
 
-If you have questions or concerns regarding this statement, you should contact us through email or by mail. You can address your general questions and comments by e-mail to [privacy@mindshareworld.com](mailto:privacy@mindshareworld.com) or by mail: GroupM, 498 7th Avenue, 7th Floor, New York, New York 10018, Attn: Privacy Officer.  
-Updated:  September 22 2010
+If at any time you decide to withdraw your consent and like would us to remove you from our marketing e-mails or newsletters, or to unsubscribe from our database, you can contact us using the details provided at the bottom of this Privacy Notice. You must include your name, e-mail address, and clear instructions regarding changes you are requesting. You may also unsubscribe from e-mail newsletters by clicking on the “unsubscribe” link found at the bottom of the e-mail.
+
+Mindshare is a data controller responsible for your personal data (as this term or similar term is defined by applicable law) when you visit our Website or provide us with contact information.
+
+**California**
+
+Pursuant to Section 1798.83 of the California Civil Code, residents of California can obtain certain information about the types of personal information that companies with whom they have an established business relationship have shared with third parties for direct marketing purposes during the preceding calendar year. To request a list of companies, if any, to which Mindshare has provided personal information for its own marketing purposes, please email us at [DPO@groupm.com](mailto:DPO@groupm.com). Please allow 30 days for a response.
+
+**Frequently Asked Questions**
+
+**Does Mindshare share any information with other vendors or partners?**  
+We may provide access to information we collect to our vendors and contractors (also known as third parties) who are performing services on our behalf to enable the uses of your information that we have described above. These vendors are not permitted to use this information for any other purpose. As noted above the Website uses [social media widgets ](https://www.groupm.com/eu-privacy-policy)including, but not limited to, YouTube, Twitter, and LinkedIn so users can easily share information about their visits with “likes” or “shares.” Always review the privacy policy of social media sites as their data collection practices are separate from Mindshare practices.  Additionally, we must disclose information when we believe we’re legally obliged to, or in order to investigate, prevent, or take action regarding prohibited activities, such as incidents of hacking, misuse, suspected fraud, or other prohibited activities.
+
+**Does Mindshare transfer your Personal Data outside the European Union?**  
+If you provide us with personal data, we may transfer that personal data to our affiliates and subsidiaries or to other third parties, across borders, and from your country or jurisdiction to other countries or jurisdictions around the world to enable us to use that personal data as described above.  Our standard practice is to use European Union model clauses for the transfer of data from the EEA & Switzerland to other non-EEA countries.
+
+**Use of this site by Children and Children’s data:**  
+Our Website is not developed for or directed at children under age 13. We specifically request that children not provide information about themselves through our Website. If you believe your child has provided this kind of information and would like it deleted from our database, you can contact us at [DPO@groupm.com](mailto:DPO@groupm.com) . If we become aware we’ve collected information about a child under the age of 13, we’ll delete it.
+
+**Data retention and storage:**  
+We will keep your information that we collect on the Website for a reasonable period for the purposes set out above. We follow generally accepted online advertising industry standards to ensure that your personal data disclosed to us is kept secure, accurate and up to date and kept only for so long as is necessary for the purposes for which it is used.  These standards include undertaking necessary physical, electronic, and management activities required to protect data integrity, access, and use.
+
+**Information Security:**    
+Maintaining the privacy of our users’ information is very important to us which means we take care and pay special attention to our security measures to protect this information from data breaches. We follow industry standards to protect against the unauthorized access to, retention of, and disclosure of information. This includes physical, electronic, and management activities to protect information integrity, access, and use.
+
+**Linking to other websites/Third party sites:**    
+A link from our Website to another website does not imply our endorsement of affiliates or websites, and we do not control third party websites to which we link, nor assume responsibility for their content or privacy policies. Once you follow a link to another website, the Mindshare Privacy Notice no longer applies. It’s important to always read the privacy policy of any website you are visiting.
+
+**Transfer of data upon change of control:**    
+In the event that another company acquires us, or all or substantially all of the assets of our business, through a consolidation, merger, asset purchase, or other transaction, we reserve the right to transfer all information (including any information you may have provided through the “contact us” page) that is in our possession or under our control to the acquiring party, and that information may be used by the acquiring party in its business.
+
+**Data Subject Rights of individuals in the EEA and Switzerland:**  
+You have the right to access, update, change, delete, restrict the use of, or obtain a copy of your Personal Data in an easily readable format. In certain circumstances, you may also request that Mindshare transfer your Personal Data to a third party, and the right to object to its use for marketing purposes. If you wish to exercise any of these rights please contact our DPO at [DPO@GroupM.com](mailto:DPO@GroupM.com). Where our processing of your personal data is based on your consent, you also have the right to withdraw this consent at any time by contacting our DPO at [DPO@GroupM.com](mailto:DPO@GroupM.com). Please note that your withdrawal of consent will not affect the lawfulness of our processing of your personal data prior to withdrawal of consent.
+
+**Changes to this Privacy Notice:**  
+Please note that because of the changing nature of privacy laws and regulations, digital technologies, and our business, we may modify this Privacy Notice from time to time. Please review this Privacy Notice periodically to become aware of any changes that may have occurred (we will update the effective date at the top of the page to help you know when changes have been made). 
+
+**If you have any Complaints or wish to contact us:**  
+Please use the details set out below depending on where you are located and we will do our best to address any complaints or worries you may have about how we collect and handle your Personal Data.
+
+If for whatever reason you don’t feel like we have adequately addressed your concerns you can contact the Data Protection Authority in your jurisdiction and make a formal complaint **.**
+
+**Europe:**
+
+[DPO@GroupM.com](mailto:DPO@GroupM.com)   
+
+Mindshare Media UK Limited, Central St Giles, 1 St Giles High Street, London, WC2H 8AR – Attn: Global Legal Director,
+
+**Outside Europe:**
+
+Mindshare Worldwide LLC
+
+GroupM, 498, 7th Avenue, New York, NY, 10018, USA  \- Attn: Director of Privacy
