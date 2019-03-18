@@ -1,210 +1,470 @@
-> *The following text is extracted and transformed from the misterwhat.co.uk privacy policy that was archived on 2017-09-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170910060236id_/https%3A//www.misterwhat.co.uk/content/terms) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the misterwhat.co.uk privacy policy that was archived on 2019-03-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190318035758id_/https%3A//www.misterwhat.co.uk/content/privacy) for the most accurate reproduction.*
 
-# Terms of use | MisterWhat
+# Privacy Policy | MisterWhat
 
-Terms and Conditions of Use for the website www.misterwhat.co.uk , administered by FABULABS S.p.A. 
+Privacy Policy for the website  www.misterwhat.co.uk  administered by FABULABS S.p.A. The original version of this document is in Italian. In the event of any discrepancy between a translated version of this Agreement and the Italian version, the Italian version shall prevail.
 
-### 1\. Domain of application of Terms and Conditions
+##  1\. Introduction
 
-1.1 Unless explicitly stated otherwise, these Terms and Conditions (hereinafter collectively referred to as "Terms") of www.misterwhat.co.uk (hereinafter "MISTERWHAT") apply to all services provided in the online business directory www.misterwhat.co.uk, in relation to the navigation on the Portal, the use of its Services and to all relationships and interactions between MISTERWHAT and the Users/Clients, unless special circumstances apply for a certain service. 
+This Privacy Policy (“Policy”) for  https://www.misterwhat.co.uk  (“Site”) describes who we are, what Personal Data we collect on or through the Site, how we obtain and use such information, what are the legal grounds for processing Personal Data, who has access to Personal Data, and what are the rights of the data subjects. Read this Policy carefully.
 
-1.2 (Definitions) 
+By visiting the Site, or by using the Service, you accept the privacy practices described in this Policy.
 
-MISTERWHAT: FABULABS S.p.A., Via Ticinello 22, Pavia (27100 – PV, Italy), P. IVA 02531310346 ("FABULABS"), promotes its activities and provides services through the website (“Portal”) www.misterwhat.co.uk ("MISTERWHAT"). 
+Data subjects have the right to object to the processing of their Personal Data carried out for our legitimate interests or for marketing purposes. Please refer to the section  “Rights of the data subjects”  for more information.
 
-Services: the services provided by the MISTERWHAT; 
+This Policy is incorporated into, and is subject to, the  MisterWhat  Terms of Use. Capitalized terms used but not defined in this Policy have the meaning given to them in the  MisterWhat  Terms of Use.
 
-Registration: operation administered by MISTERWHAT involving the release of an alphanumeric Password, which, combined with an Email address allows users to login to the protected area of MISTERWHAT. The user who registers to MISTERWHAT accepts to receive messages and notifications from MISTERWHAT as part of the Service; 
+##  2\. About us
 
-User: the internet user who visits MISTERWHAT and uses its Services; 
+Fabulabs S.p.a.
 
-Client: authorized natural entities/persons, legal persons, partners or private associations who complete the Registration procedure to access the registration-based services provided by MISTERWHAT. 
+Registered address: Galleria Polidoro 7 - 43121 - Parma - Italy
 
-1.3 In the online portal MISTERWHAT, users can search for different information about companies and authorized natural entities/persons. This information is recorded directly in the MISTERWHAT business directory by legal representatives of firms and authorized natural persons in question or is taken from publicly accessible documents, not protected by copyright and accessible by anyone. Clients present their activities in MISTERWHAT by using the services offered by MISTERWHAT, or use the different registration-based services provided by MISTERWHAT. 
+VAT N. IT02531310346
 
-The Services offered by MISTERWHAT include, but are not limited to, the following: 
+Email: 
 
-A. Free access to a list of companies, professionals, clients, organized in business categories. New company profiles can be added for free by clients after registration; 
+Fabulabs S.p.a. is the “controller” of the personal data provided by Users and Visitors.  
 
-B. MISTERWHAT may at any time enable features allowing users and/or clients to add comments, opinions, photos or other contents through the platform provided by MISTERWHAT. 
+##  3\. What personal data we collect and why
 
-1.4 Users and clients can apply for the services offered with or without registration solely on the basis of these terms and conditions. MISTERWHAT employees do not have the authorization to make additional oral agreements. Validity of other conditions is excluded. The terms listed here are also valid if MISTERWHAT fulfils an unconditioned request knowing the client's divergent conditions, even if these are different from the ones listed here. 
+When Users or Visitors use the Service, they may provide, and we may collect Personal Data. Personal data is any information which identifies a person, whether directly (for example name and surname) or indirectly (for example, information about the use of our Services). Visitors and Users may provide us with Personal Data in various ways on the Service. For example, when they register for an Account, use the Service, request that we publish their business listing or send us customer service requests.
 
-### 2\. Preliminary conditions of use
+We collect the following Personal Data:
 
-2.1 Using the portal services the client or user agrees to fully comply with the terms throughout the use of MISTERWHAT. 
+3.1 Information provided by Users and Visitors
 
-2.2 In order to present their business or to access specific services, clients need to register. Registration to MISTERWHAT is free. If the client has not completed an application form for registration, when data were taken from public sources, not protected by copyright and accessible by anyone, MISTERWHAT reserves the right to cancel the registration information without explaining it in writing to the client, in case it becomes impossible to update data from public sources not protected by copyright and accessible by anyone. As per the requirements of the registration form, all the information submitted by the client should be accurate, genuine, complete and current. The client is required to verify his publications at regular intervals and update his contact details and information. In case the client fails to meet the obligations concerning the absolute correctitude and completeness of the information in the fields marked mandatory, MISTERWHAT has the right to delete his registration temporarily or permanently and to forbid the client to use the registration-based services provided by MISTERWHAT. 
+  * Contact details provided by the User: Name, surname, email address and (optionally, only if the User voluntarily chooses to provide such information) postal address and telephone number. We may use this information to contact Users about their business listing on our directory, the content (for example reviews or photos) that they posted on the Site, and any other products and services that we may have agreed to provide to them;
+  * Business details provided by the User: Company name, postal address, telephone number, details of the products and/or services offered by the business, at least one category indicating the main economic sector in which the company operates. This information is necessary to publish the business listing in our directory and to provide the best possible service. Users can also choose to provide additional information about the company (for example, opening hours and photos). If they choose to provide this optional information, we will process it for the purposes of publishing the business listing in our directory;
+  * Correspondence: We collect any Personal Data that Visitors and Users may provide if they contact us by email, letter or telephone, in order to provide the best customer support.
 
-2.3 Registration-based services can be used only by individuals who have unlimited legal capacity, who are over the age of 18, authorised legal persons and natural persons with residence and registered office in any country in the world. When a customer transfers his initial residence to another country access to the portal will be automatically cancelled or the data will be transferred to the portal of the country where the new residence is, if applicable. The client is required to immediately inform MISTERWHAT when he permanently changes his/her residence. 
 
-2.4 Minors must not use the portal services without parental consent and supervision. It is the responsibility of their legal representatives to determine which services are appropriate for their child, and MISTERWHAT cannot be held responsible under any circumstance for use of the services without parental supervision. 
 
-### 3\. In the attention of clients and users
+3.2 “Automatically Collected" Information
 
-3.1 Clients can present their activities and companies for free using the services provided by MISTERWHAT. 
+We track the use of the Site through cookies and other similar technologies so that we can provide important features and functionality of the Service, monitor the use of the Site and provide a more personalized experience.
 
-3.2 The use of the MISTERWHAT portal services and its search functions does not imply any contractual relationship between the user and MISTERWHAT. In this sense there will not be contractual or quasi-contractual claims against MISTERWHAT. Likewise there will never be any claims against MISTERWHAT concerning the online publishing services. 
+This “automatically collected" information may include IP address or other device address or ID, web browser and/or device type, the web pages or sites visited just before or just after using the Service, the pages or other content the Visitor or User views or interacts with on the Service, and the dates and times of the visit, access, or use of the Service. Please refer to our  Cookie Policy  for more information.
 
-3.3 MISTERWHAT offers users and clients a simple use right to use information provided by MISTERWHAT. This use right is unrestricted in time and space, and is limited to the search and visualization of the information for personal use only. Any other use of the information provided by MISTERWHAT is strictly prohibited. Prohibited uses of the provided information include: industrial or commercial misuse of the information presented on MISTERWHAT, the partial or complete reproduction, sale, distribution, transmission, publication of the information and data available on the Portal, the creation of directories and/or digital or printed databases, processing of the information to third parties. Users can use the portal only in accordance with legal provisions, particularly with the regulations applied to data protection. 
+We also may use these technologies to collect information regarding a Visitor or User’s interaction with email messages, such as whether the Visitor or User opens, clicks on, or forwards a message. This information is collected on an aggregate level from all Users and Visitors.
 
-3.4 MISTERWHAT provides the service “as is” and “as available” without any further guarantee, implicit or explicit, for the contents, the fruition of the contents and their availability. MISTERWHAT does not guarantee the uninterrupted, unsuspended access to the Portal and its Services, which can be affected by various factors not under its control. For example: access to the portal and access to the services may be suspended and/or interrupted (temporarily or permanently) due to: any type of technical reasons, accidents, violation of terms of use. Under no circumstances can MISTERWHAT be held responsible by users and/or clients for the consequences caused by the interruption and/or suspension of its services. 
+3.3 Information provided by Integrated Services 
 
-3.5 The user is fully aware that all rights and responsibilities arising from the use of MISTERWHAT, including published contents, particularly the copyright law and the right to use, for example the database and files containing contact information, belong to MISTERWHAT or to third parties, especially to the clients. Databases of the portal are protected by copyright. 
+Visitors and Users may be given the option to access or register for the Service through the use of their username and passwords for certain services provided by third parties (each, an “Integrated Service”), such as through the use of their Google account, or otherwise have the option to authorize an Integrated Service to provide Personal Data or other information to us. By authorizing us to connect with an Integrated Service, Visitors and Users authorize us to access and store their name, email address, age range, gender, country, profile picture URL, and other information that the Integrated Service makes available to us, and to use and disclose it in accordance with this Policy. Visitors and Users should check their privacy settings on each Integrated Service to understand what information that Integrated Service makes available to us, and make changes as appropriate. Visitors and Users should review each Integrated Service’s terms of use and privacy policies carefully before using their services and connecting to our Service.
 
-3.6 MISTERWHAT source code, software, data, logos, texts, images, graphics, page layout and design solutions are protected by copyright and by trademark rights whenever applicable. The trademarks and logos on the Portal are property of MISTERWHAT. Unless stated otherwise by MISTERWHAT, the copyright of the sofware, programs, source code, graphics, design, texts, data etc. belongs to MISTERWHAT. Users/clients agree that the logos, trademarks, contents, information, software program and code, data and any other technical, creative, graphical solution on the Portal are property of MISTERWHAT and can be used by the user/client for the sole purpose of using the Portal and its Services. Any reproduction or unauthorised use, including but not limited to: the partial or complete reproduction, sale, modification, distribution, transmission, publication is prohibited and it is subject to civil and criminal law. Any reproduction or any other use requires written authorization. 
+3.4 Information from Other Sources  
 
-3.7 When infringing use rights, clients and users are entirely liable for any damages arising therefrom. 
+We may obtain information, including Personal Data, from third parties and sources other than the Service, such as our partners, advertisers, and Integrated Services. If we combine or associate information from other sources with Personal Data that we collect through the Service, we will treat the combined information as Personal Data in accordance with this Policy.
 
-3.8 The user or client may make the services provided by MISTERWHAT accessible to third parties only after first obtaining written permission from MISTERWHAT, when it is not an end client or a visitor of their web site who uses the services for his own purposes. 
+Information about companies, professionals, associations, when not provided directly by the company and/or professional, is gathered from various public sources, including company websites, professional registers, leaflets, etc. This information is processed for the purposes of publishing the company listings in our directory and providing the best possible service to Users and Visitors.   
 
-3.9 The user or client must to report MISTERWHAT without delay any occurring error or other threats and abuse committed by others. 
+##  4\. How we use the Personal Data we collect
 
-3.10 Users or clients are not allowed to post or send, by email or any other means, any type of viruses or any other software programs aimed at interrupting, destroying or limiting the functionality of any software, hardware or telecommunication devices. For all the information transmitted, by email or any other means, whether it is publicly posted or privately transmitted, including but not limited to photos, video, graphics, news, data, text, software, sound, or any other kind of content, the entire liability rests solely with the person who sent that particular content. 
+We use the information that we collect in a variety of ways in providing the Service and operating our business, including the following:
 
-3.11 Despite periodically monitoring the Portal, MISTERWHAT cannot guarantee that the Portal is immune from viruses and other potentially obnoxious programs. It is the responsibility of the user/client to adopt all the security measures and up to date software that are necessary to protect their devices. 
+4.1 Operations
 
-3.12 MISTERWHAT does not verify any content posted by registered clients or users through the portal and does not guarantee (nor assume any responsibility for), the correctness, quality, integrity or completeness of such content. Users and clients should consider the information on the Portal as an indication, and accept that MISTERWHAT is not responsible for any omission, missing information, incorrect information published on the Portal. 
+We use Personal Data to:
 
-3.13 MISTERWHAT has no control over the content posted by users and clients. The content of the company profile cannot have any reference to the following contents: excessive profanity, content related to racial intolerance or advocacy against any individual, group or organization, pornography, adult or mature content, hacking or cracking content, illicit drugs and drug paraphernalia content, sales of beer or hard alcohol, gambling/casino related content, sales of tobacco or tobacco related products, weapons or ammunition and any other content that is illegal, infringes on the legal rights of others and promotes illegal activity. MISTERWHAT reserve the right to delete with immediate effect the company profile page of those companies that contains any of such contents. Likewise, it must not be published any data, texts, images, files, links, software or different contents, which is considered by MISTERWHAT to be harmful, illegal, defamatory, abusive, harassing, vulgar, hateful, obscene or objectionable in any way. 
+  * operate, maintain, enhance and provide all features of the Site, and to provide the services and information that Visitors and Users request;
+  * publish the business listing on our directory and provide the Services;
+  * publish the reviews and photos that Users ask us to publish;
+  * confirm the identity and the information that Visitors and Users have provided. We need to confirm identity for security reasons and to safeguard the data in our directory (for example when we process a request to modify a business listing);
+  * remove a business listing, if a User or Visitor tells us to (see the “How to contact us” section).
 
-3.14 MISTERWHAT values the freedom of expression of its Users and Clients. However, we require such freedom to be exercised within the limits of the law, without offending any business, professional, company or organization in any way. Users who register can add comments, opinions and other contents on a specific business. Upon registering, users accept that they are solely responsible for any content that they will add through the commenting platform made available by the Portal. Therefore MISTERWHAT is not responsible in any way for the actions of users and clients who violate the Terms of Use. MISTERWHAT reserves the right to invalidate and delete any comment or opinion that is defamatory, insulting, discriminating, gross, without giving any notice to the user/client who entered it. Opinions and comments directly impacting business owners or employees and their work won’t be tolerated. MISTERWHAT is not obliged to check and verify comments and opinions entered by users/clients. However, we reserve the right to access those comments and opinions, anytime and without notice, in order to verify that Terms of Use are being respected. If any violation, real, verified or alleged is found, MISTERWHAT reserves the rights to take the required actions, including the suspension or interruption of the service. MISTERWHAT reserves the right to inform the relevant authorities in case appropriate. 
 
-3.15 Spamming the MISTERWHAT portal is prohibited. This includes sending illegal and unsolicited emails, publicity and promotional offers to third parties. When sending emails, it is prohibited to provide false information concerning the sender, or to hide his identity. 
 
-3.16 MISTERWHAT reserves the right to sell advertising space or place advertising on the Portal, free or paid, as deemed appropriate. 
+4.2 Improvements to the Service
 
-### 4\. Security and Obligations of Registered Users
+We use the information to:
 
-4.1 The user/client agrees to access the Portal and use its Services in accordance with Italian Law 196/2003 regarding the processing of personal data, Law 30/2005 regarding Industrial Property and Law 633/1941 regarding Copyright, Law 70/2003 regarding ecommerce as well as Laws against ‘cybercrimes’. This includes, but is not limited to: the user/client agrees to: a) not to abuse the portal for any illegal purposes; b) not to use the Portal to publish or transmit in any way any information or content that is incorrect, offensive, abusive, not legitimate, unlawful, illicit, pornographic, explicit, gross, obscene, racist, insulting, defamatory; c) not to transmit any materials, contents, messages inviting others to act against the law; d) not to spam, not to send commercial and/or promotional messages; e) not to upload, install, spread viruses, malware and other obnoxious sofwares and programs in the network and system. Not to interfere with, damage, erase, delete goods and/or personal information; f) not to perform actions that could voluntarily, artificially or in any way overload the Portal and its Services. 
+  * understand and analyze the usage trends and preferences of our Visitors and Users;
+  * improve the Service, and develop new products, services, features, and functionality.
 
-4.2 (Security and Access) When registering on the MISTERWHAT portal, the account holder is responsible for all activities conducted through his/her account. The account holder is not allowed to share the password with third parties. The user/client has the sole responsibility to securely store, preserve, manage and correctly use the password: the user/client agrees to take all necessary measures to protect and correctly use the password, and to immediately notify MISTERWHAT about lost password, unauthorized use of the password and any possible abuse. MISTERWHAT can in any moment and without notice modify and/or disable the Password for technical and security reasons, communicating the change to the user/client, who will need to follow the instructions to access the Portal again. In order to prevent possible abuses, the account holder is required to use the available 'Sign Out' button upon leaving the portal. 
 
-4.3 The client sends all the necessary information to implement the service. He reserves the right to transfer and publish data and information and undertakes to comply with data protection regulations. MISTERWHAT posts online and for free the published contents for its users. 
 
-4.4 The client is fully responsible for the accuracy and legality of the information provided by him. This is especially true for clients who have a protected professional title or who are members of a professional association (for example, architects, doctors, tradesmen, lawyers, notaries and accountants). The client explicitly guarantees that the recorded data comply with local laws. 
+Should this purpose require  MisterWhat  to process Personal Data, then the data will only be used in anonymized or aggregated form.
 
-4.5 The client agrees to indemnify MISTERWHAT regarding any third-party claims arising from illegally published information. This indemnity obligation includes the obligation to relieve entirely the operator of the portal of legal defense costs (for example lawyers, Court, Court of Appeal, and legal fees). 
+4.3 Cookies and tracking technologies
 
-4.6 MISTERWHAT can send information and explanations concerning Terms, in particular to the email address of the client. The client is responsible for checking regularly the email address through which he registered to MISTERWHAT. 
+We use automatically collected information and other information collected on the Service through cookies and similar technologies to:
 
-4.7 MISTERWHAT has the right to regularly inform the client about news and new services offered through newsletters and can ask the client to revise or update his published information. If MISTERWHAT has any reason to believe that the published information is false, inaccurate, outdated or incomplete, MISTERWHAT has the right to request from the client to update the information by email at any time; if the client does not respond to the email, MISTERWHAT reserves the right to delete his profile from the portal. 
+  * personalize our Service, such as remembering a User’s or Visitor’s information so that the User or Visitor will not have to re-enter it during a visit or on subsequent visits;
+  * provide personalized advertisements, content, and information;
+  * monitor and analyze the effectiveness of our marketing activities; 
+  * monitor aggregate site usage metrics such as total number of visitors and pages viewed.
 
-4.8 The registered account holder is fully responsible for access control and for the consequences of abuse committed during his access, as a result of neglected safety measures. 
 
-### 5\. Rights of Use
 
-5.1 MISTERWHAT is authorized to store contents and to deliver them to third parties as far as it is required by law or it is necessary and/or permitted by law, in order to comply with legal regulations or judicial/administrative orders to put into force the terms and conditions, to respond to allegations of copyright infringement by third parties, or to protect the rights, property or personal safety of MISTERWHAT, users and clients. MISTERWHAT emphasizes that the technical processing and transmission of contents from clients can be accomplished through different networks. Contents might be slightly changed to adapt to different requirements of connecting networks or other devices (like different Internet browsers). 
+Please read our  Cookie Policy  for more information.
 
-5.2 The client undertakes that he has all the necessary rights to publish all the texts and other materials online. The client transfers all the necessary rights to MISTERWHAT for online publication of his presentations, namely: the use rights, the protection of service and other rights, in particular the right to publish and reproduce pictures, logos, the content etc. 
+We also may use tracking technologies to collect information regarding how Visitors or Users interact with the email messages we send, to get information like the time and day they opened our emails and the type of device they used to open them. We use this information to analyze the effectiveness of our email communication in order to improve it and to provide a better and more personalized service.
 
-### 6\. Privacy
+4.4 Analytics
 
-6.1 The subject of this privacy policy refers to personal data. These are specific information about an identified or identifiable natural person's material or personal circumstances. These legal definitions include names, addresses, dates of birth, personal identification numbers, email addresses and similar information. 
+We use Google Analytics to measure and evaluate access to and traffic on the Public Area of the Site, and create navigation reports for our Site administrators. Google operates independently from us and has its own privacy policy, which we strongly suggest Visitors and Users to review. Google may use the information collected through Google Analytics to evaluate Users' and Visitors’ activity on our Site. For more information, see  [Google Analytics Privacy and Data Sharing](https://support.google.com/analytics/answer/6004245).
 
-MISTERWHAT binds itself to comply with data protection laws and to use the data entrusted by clients only within legal limits. This privacy policy applies only to our site www.misterwhat.co.uk. MISTERWHAT does not assume any responsibility for the contents of the external websites and web pages that can be accessed through the external links available on the portal and that are not operated by us. 
+We take measures to protect the technical information collected by our use of Google Analytics. The data collected will only be used on a need to know basis to resolve technical issues, administer the Site and identify visitor preferences; but in this case, the data will be in non-identifiable form. We do not use any of this information to identify Visitors or Users.
 
-The business directory Misterwhat.co.uk provides free access to publicly available information not protected by copyright and accessible by anyone (business name, address, phone number) on businesses and professionals in the UK. Data can be added, edited, removed by Users/Clients for free, through Registration and email confirmation (Users/Clients need to click on the confirmation link provided in the email). Data treatment is performed by MISTERWHAT according to the prescriptions contained in the data protection code, considering that the data is about companies, professional and organisations that operate publicly and are accessible directly and from a number of publicly available sources not protected by copyright and accessible by anyone.; as such, data can be treated by third parties that must adhere to the prescriptions contained in the code for the protection of personal data, including those of art.130, regarding unsolicited/undesired communication. Every company/professional/organization listed on MISTERWHAT can exercise their rights as per art. 7 of D.Lgs. 196/03, including the right to: 
+4.5 Communications
 
-Obtain the confirmation of existence of his/her personal data and get them in intelligible form; Ask to update, amend, correct, integrate, delete his/her information; 
+We use Personal Data to:
 
-Such rights can be exercised by writing to Fabulabs S.p.A. to the email address  or by sending a fax to the number +39 0382.049305. 
+  * communicate with Visitors and Users about our products and services, for example to let them know about major changes to our products or services, to the Terms of Use or to this Privacy Policy;
+  * respond to comments and questions, provide support to Users and Visitors, and improve our customer service;
+  * contact Users with updates on promotions and events, relating to products and services offered by us and by third parties we work with. Users have the ability to opt-out of receiving any promotional communications by managing the notification preferences in their account.
 
-6.2 If we present information that is not covered by the Data Protection Act, for example, in the case of legal persons or pseudonyms, these conditions of confidentiality are not applicable to these records. 
 
-6.3 In case your rights are affected by a record, please let us know. We will delete every problematic record. 
 
-6.4 Collection and processing of personal data: when you visit our site, as with most other websites we collect and use the data contained in log files. The information in the log files include your IP (internet protocol) address, your Internet Service Provider, the browser you used to visit our site, the time you visited our site and which pages you visited throughout the website. We will evaluate the data to estimate the use of our system in order to improve our services and to compile aggregate statistics. We have safety procedures in place to protect this data. We do not use the collected information for any personal or commercial purpose, and we never sell your personal information to third parties. In addition, personal data are collected only if you provide us with it voluntarily. Some of our services require registration. Your personal information required for this individual use is collected and used only in accordance with legal provisions for the protection of personal data. If we collect personal data as part of the registration, data which are not required to power the service, we will mark this by voluntary indication. 
+4.6 Enquiries, complaints and disputes
 
-6.5 Users and client of MISTERWHAT must use the portal and its services in accordance with Italian Law 196/2003 regarding the processing of personal data, Law 30/2005 regarding Industrial Property and Law 633/1941 regarding Copyright, Law 70/2003 regarding ecommerce as well as Laws against ‘cybercrimes’. 
+We use Personal Information to help us respond to any enquiries or complaints, or deal with any disputes which may arise while we provide our products and services, in the most effective way.
 
-The processed personal data include: name of the natural person in question, his address, email address, phone number, fax number, as well as picture as the case may be. MISTERWHAT has no personal benefit of the information collected here. As for the details of the right of access and intervention of the authorised natural person to the data, they are presented in these terms. 
+4.7 Fraud prevention and compliance with legal obligations
 
-6.6 To improve the service we offer to our users and clients, some parts of the site make use of "cookies"; we use cookies to store information and power some functionalities of the service, such as the ability to login to some of our features. 
+Under certain circumstances, we use Personal Data to the extent required in order to enable us to comply with our legal obligations, for example to investigate, detect and prevent fraud. This may require us to provide Personal Data to law enforcement agencies or officials, if they request it.
 
-We also use third party advertisements MISTERWHAT. Some of these advertisers may use technology such as cookies when they advertise on MISTERWHAT, which will also send these advertisers information including your IP address, your ISP , the browser you used to visit our site, and in some cases, whether you have Flash installed. This is generally used for geo-targeting purposes, such as showing London restaurants in London, or showing certain ads based on specific sites visited, such as showing sport clothing ads to a user who frequents golfing sites. 
+4.8 Internal training  
 
-You can disable or selectively turn off our cookies or third-party cookies in your browser settings. However, this can affect how you are able to interact with MISTERWHAT as well as other websites. This could include the inability to login to services or programs, such as logging into your account. 
+We may use Personal Data for internal training purposes, so that our staff has the skills needed to provide our Visitors and Users with the best possible experience. For example, if a User or Visitor contacts us by email, we may use their email for training purposes to improve our customer support.
 
-6.7 You have the right to request information for free, in writing, about the personal data we hold about you. Your claims and the correction, blocking or deletion of data will be applied immediately, if they are legally permitted. If you have questions or comments regarding the use of personal data by our company, please contact us. Please note that emails can be read by third parties. If you send us confidential information, please send it in writing or by fax. Please contact us at: FABULABS S.R.L. - Via Ticinello 22 - 27100 Pavia - ITALY - Email:  \- Fax: +39 0382 049305 
+4.9 Market research and analysis
 
-### 7\. Limitation of Liability
+We may use Personal Data to better understand the needs of our Users. We may also invite some Users to take part in surveys or market research. If a User accepts our invitation, we will use the feedback to improve our products and services.
 
-7.1 MISTERWHAT is not responsible for the contents or activities provided by the users and clients of the portal. This information cannot be attributed to the operator of www.misterwhat.co.uk and it does not represent its views. The contents include links, profile information, reviews, comments, pictures and videos posted on the web pages of the portal. 
+4.10 Internal records and accuracy
 
-7.2 MISTERWHAT holds as highly important that the service is reliable and the servers suffer as few interruptions as possible. Any interruption caused by maintenance or server failures cannot be excluded, and MISTERWHAT does not assume responsibility for any such interruption. 
+Like any company, we process Personal Data to administer and maintain our internal records. For example, we process Personal Data to verify that the information we have about a User is accurate.
 
-7.3 MISTERWHAT assumes no liability for damages arising from the use of the business directory by clients or users because in case of such free services in legal sense there is no service contract. Therefore there cannot be claims for loss of profits, third party claims for compensation or other direct or indirect damages resulting from interruptions or misuse of the service by its user(s). 
+##  5\. Legal grounds for processing Personal Data
 
-### 8\. Rights of public content
+The General Data Protection Regulation (GDPR) lists several legal grounds for the lawful processing of Personal Data, and requires us to only process Personal Data if we satisfy one or more legal grounds. 
 
-8.1 If the client or user publishes contents or files in publicly accessible areas, he gives MISTERWHAT the right to use these contents (in whole or in part) on a global level, to reproduce, modify, adapt and publish them, if this is done only for the sole purpose of presentation, distribution and promotion of the content in question. 
+We rely on a number of different legal grounds for the processing of Personal Data:
 
-8.2 This right is valid only for the period of publication made by the client or user. Clients can remove their publication from the portal at any time. 
+The data subject has given consent to the processing of his or her personal data for one or more specific purposes
 
-8.3 If the client or user does not have the right to publish a particular content, he must ensure that the content rights holder has agreed to the transfer of rights under the above provisions. 
+In some cases we process Personal Data after obtaining a User’s or Visitor’s consent to do so for the purposes of:
 
-8.4 For current and future services to meet more precisely his requirements, the client accepts that a pseudonym may be requested and be used when he applies for services. The authenticated pseudonymous data, in accordance with the law, will not be merged with the data of the pseudonym holder. MISTERWHAT uses these protocols only for its own purposes and in the interest of its clients to develop new services. There will be no transfer of personal data to third parties. 
+  * sending marketing communications about our products and services;
+  * sending marketing communications regarding products and services offered by third parties with whom we collaborate;
+  * conducting market analysis and research.
 
-### 9\. Security of personal data processing
 
-9.1 MISTERWHAT uses all the technical and organizational security measures to protect authentication information, passwords or any other data recorded for security purposes, from destruction, manipulation, loss, unauthorized access. The methods used to meet the protection requirements are in accordance with the generally accepted standards of this field. 
 
-### 10\. Jurisdiction
+Processing is necessary for the performance of a contract to which the data subject is party
 
-10.1 The exclusive place for all the disputes concerning services provided by MISTERWHAT is Pavia, Italy. For all claims of any kind arising from or in connection with a situation under terms and conditions, the Italian legislation will be applied. 
+It is necessary for us to  process Personal Data, and information about the business that a User represents, for the performance of the contract between us and Visitor/User, and to provide the Service.
 
-### 11\. Severability
+Data processing is necessary to:
 
-11.1 If some provisions of these Terms, in whole or in part, are no longer valid, or will lose their legal effect later, the validity of the Terms will not be affected more than that. Instead of the inefficient regulations the legal provisions will come in force automatically. The same applies in case of any possible omissions in the terms. 
+  * publish a business listing in our directory ;
 
-### 12\. Cookies
 
-This Cookie Policy explains what cookies are, the different types of cookies used on the MisterWhat Sites, and how you can change or delete them. We hope that this policy helps you understand our use of cookies. 
+  * publish the reviews and photos that a User asks us to publish ;
 
-### What are Cookies?
 
-Cookies are small text files that are stored on your computer or mobile device and hold data relating to a specific website. Cookies are placed on the user's computer or mobile device by that website and accessed each time a user browses the site. They are widely used in order to make websites work, or work in a better, more efficient way, to make websites easier to use, to support the provision of relevant functionalities to the user. Cookies enable websites to recognise you and remember important information that will make your use of a website more convenient, for example by remembering your user preferences. We primarily use cookies to collect data that help us improve our website by knowing which parts of the site are being visited, how users are accessing each page and what items on each page they prefer to click on. The types of information typically collected by cookies include information relating to your use of the MisterWhat Sites, your browser type, your device's IP address, how you arrived on one of the MisterWhat Sites etc.  
-Cookies come in different categories. By using this Site you accept our use of cookies. If you wish to restrict or block web browser cookies which are set on your device, You do this through your browser settings at any time. The Help function within your browser should tell you how. For further information on how to change your browser settings and on cookies in general, you may visit [www.aboutcookies.org](http://www.aboutcookies.org/), which contains comprehensive information on how to do this on a wide variety of desktop browsers. Please note that preventing the use of cookies is likely to impact the performance and functionality of this Site, or prevent you from using certain services provided by this Site. If you choose to prevent the use of cookies, we cannot guarantee that all services and functionalities provided by this Site will perform or work correctly during your visit. 
+  * send communications about the products and services we provide, for example to inform Visitors and Users of major changes to these products or services, the Terms of Use or the Privacy Policy;
+  * confirm a User or Visitor’s identity, and verify the information they provide to us;
+  * provide and improve customer support.
 
-### Types of Cookies used
+
+
+If a Visitor or User chooses not to give some or all the aforementioned information, this may affect our ability to provide our products and services to them.
+
+Processing is necessary for compliance with our legal obligations
+
+Under certain circumstances, we may process Personal Data to comply with our legal obligations, for example to investigate, detect and prevent fraud.
+
+Processing is necessary for the purposes of our legitimate interests
+
+To consider this as lawful basis for processing, a business must have legitimate interests which are not overridden by individuals' interests, rights or freedoms.
+
+Collecting and processing Personal Data is necessary for our legitimate business interests, which are:
+
+  * to better understand our Users and Visitors so we can improve our products and services;
+  * to improve and develop our Site to enhance the customer experience;
+  * to provide important features and functionality on our Site, monitor its usage and provide a more personalized experience;
+  * to provide Visitors and Users with products and services that are as useful as possible, for example to inform them of offers that may be of interest to their business;
+  * to train our staff so that they can offer the best customer support;
+  * to respond to any enquiries or complaints, or handle any disputes that might arise while we provide our products and services, in the most effective way;
+  * to manage our business effectively, to comply with our legal obligations, and to be able to exercise, or defend against, legal claims.
+
+
+
+We may process Personal Data based on our legitimate interests  except where such interests are overridden by the interests or fundamental rights and freedoms of the data subject.
+
+We have assessed these aspects carefully and, on balance, we believe that our interests described above are balanced with the fundamental interests, rights or freedoms of  the data subjects.
+
+Where we think there is a risk that one of the fundamental interests or freedoms of a Visitor or User may be compromised, we will not process their data unless there is another lawful legal basis for doing so (if we have obtained their consent to the processing or to comply with our legal obligations or if processing is necessary for the performance of a contract with them).
+
+##  6\. Who we share Personal Data with
+
+Except as described in this Policy, we will not intentionally disclose the Personal Data that we collect or store on the Service to third parties without the consent of the applicable Visitor or User. We may disclose information to third parties if a Visitor or User consent to us doing so, as well as in the following circumstances:
+
+6.1 Unrestricted Information
+
+Any information that a User voluntarily chooses to include in a Public Area of the Service, such as a public profile page or business listing, will be available to any Visitor or User who has access to that content.
+
+6.2 Service Providers
+
+We may provide Personal Data to our service providers, who provide us with certain services and act as "processors" of Personal Data on our behalf. These third parties may have access to, or process Personal Data as part of providing those services for us. We limit the information provided to these service providers to that which is reasonably necessary for them to perform their functions.
+
+6.3  Law Enforcement
+
+We may disclose Personal Data:
+
+  * if required to do so by law or in the good faith belief that such action is necessary to comply with applicable laws, in response to a facially valid court order, judicial or other government subpoena or warrant, or to otherwise cooperate with law enforcement or other governmental agencies;
+  * to protect the security or integrity of the Service;
+  * to protect our property or other legal rights, enforce our contracts, or protect the rights, property, or safety of others; 
+  * to protect ourselves or others from fraudulent, abusive, or unlawful uses or activity;
+  * to investigate and defend ourselves against any third-party claims or allegations.
+
+
+
+6.4 Change of Ownership
+
+Information about Users and Visitors, including Personal Data, may be disclosed and otherwise transferred to an acquirer, successor or assignee as part of any merger, acquisition, debt financing, sale of assets, or similar transaction, as well as in the event of an insolvency, bankruptcy, or receivership in which information is transferred to one or more third parties as one of our business assets and only if the recipient of the Personal Data commits to a Privacy Policy that has terms substantially consistent with this Privacy Policy.
+
+In some cases, the Personal Data we collect for the above purposes may be transferred outside the European Economic Area (EEA), and such destinations may not have laws protecting Personal Data to the same extent as in the European Economic Area. Data protection law requires us to ensure that where we or our "processors" transfer Personal Data outside the European Economic Area, it is processed securely and protected from unauthorized access, loss, destruction, unlawful processing, and any type of processing that is not consistent with the purposes outlined in this Policy.
+
+We will comply with GDPR requirements providing adequate protection for the transfer of personal information outside of the European Economic Area (EEA).
+
+The table below lists the third parties to whom we currently disclose Personal Data. The table also explains how these organizations use Personal Data, if they are our "processors" (they process the data on our behalf, and only in line with our instructions), or if they are "controllers" (they use Personal Data for their own purposes, after receiving them). The table indicates if the treatment is performed outside the EEA, and the safeguards that are used to protect Personal Data if this is the case.
+
+This information may be updated periodically.
+
+Recipient
+
+| 
+
+Why we share Personal Data
+
+| 
+
+Where Personal Data is processed
+
+| 
+
+Safeguards that are used to protect Personal Data outside the EEA  
+  
+---|---|---|---  
+  
+Service providers acting as “Processors”  
+  
+OVH
+
+| 
+
+OVH hosts our data.
+
+| 
+
+France
+
+| 
+
+N/D – processing is taking place within the EEA.  
+  
+SendGrid
+
+| 
+
+Provides email delivery services.
+
+| 
+
+SendGrid uses data centers all over the world to provide its services.
+
+| 
+
+SendGrid's GDPR Data Processing Addendum, signed between Sendgrid and Fabulabs S.p.a., states that:
+
+“To the extent that SendGrid processes (or causes to be processed) any Personal Data originating from the EEA in a country that has not been designated by the European Commission as providing an adequate level of protection for Personal Data, the Personal Data shall be deemed to have adequate protection (within the meaning of EU Data Protection Legislation) by virtue of SendGrid's self-certification to the Privacy Shield. SendGrid shall agree to apply the Privacy Shield Principles when processing (or causing to be processed) any EEA or Swiss Personal Data under this Agreement.” The contract also lists a number of additional security measures and GDPR obligations that Sendgrid is subject to under the Agreement.    
+  
+Google
+
+| 
+
+Monitoring and aggregate analysis of website traffic through  Google Analytics.
+
+| 
+
+EEA, US
+
+| 
+
+Please refer to  <https://policies.google.com/technologies/partner-sites>
+
+for more information on how Google uses information from sites or apps that use its services  
+
+Google is certified under the EU-U.S. and Swiss-U.S. Privacy Shield Frameworks, and is committed to GDPR compliance across its services.
+
+For more information:
+
+<https://cloud.google.com/security/gdpr/>  
+  
+Other organizations we share Personal Data with, acting as "Controllers”  
+  
+Google
+
+| 
+
+Traffic monetization through targeted online advertising (Google AdSense).
+
+| 
+
+EEA, US
+
+| 
+
+See “Google” above”  
+  
+As a consequence of our use of Google products, some of the ad technology providers listed below may receive your Personal Data. Ad technology providers (including Google and other ad networks and vendors) use data about users, for example, for the purposes of ads personalization and measurement. These ad technology providers have provided Google with information about their compliance with the GDPR. 
+
+##  7\. Data Retention
+
+We only retain the Personal Data for a limited period of time as long as we need it to fulfill the purposes for which we have initially collected it, unless otherwise required by law.
+
+The retention period may vary depending on the type of data. To determine retention periods, we consider a variety of factors, such as:
+
+  * legal obligations to retain data for a certain period of time, in accordance with the law;
+  * statute of limitations under applicable law;
+  * guidelines issued by relevant data protection authorities;
+  * the presence of actual or potential disputes.
+
+
+
+We securely delete Personal Data from our systems when they are no longer needed.
+
+##  8\. Rights of the data subject
+
+The GDPR provides the following rights for individuals:
+
+1\. Right to be informed
+
+Data subjects have the right to receive concise, transparent, intelligible, easily accessible information on how we use their Personal Data. This is why we provide the information contained in this Privacy Policy.
+
+2\. Right of access
+
+Data subjects have the right to obtain:
+
+  * confirmation that we are processing their Personal Data;
+  * a copy of their Personal Data;
+  * other information similar to that provided in this Privacy Policy.
+
+
+
+3\. Right to rectification
+
+Data subjects have the right to have inaccurate Personal Data rectified, or completed if it is incomplete.
+
+4\. Right to erasure ("right to be forgotten")
+
+Data subjects have the right to request the deletion or removal of their Personal Data, if:
+
+  * the personal data is no longer necessary for the purpose which we originally collected or processed it for;
+  * they withdraw their consent;
+  * they object to the processing of their Personal Data;
+  * we have processed the Personal Data unlawfully;
+  * we have to delete the data to comply with a legal obligation;
+  * data was collected from children.
+
+
+
+This is not a general right to erasure; there are exceptions.
+
+5\. Right to restrict processing
+
+In certain circumstances, data subjects have the right to restrict the processing of their Personal Data. When processing is restricted, we are permitted to store the Personal Data, but not use it.
+
+6\. Right to data portability
+
+Data subjects have the right to receive their Personal Data in a structured, commonly used and machine readable format.
+
+7\. Right to object
+
+Data subjects have the right to object to the processing of their Personal Data in certain circumstances (when data is being used for direct marketing, or when processing is based upon our legitimate interests).
+
+8\. Right to withdraw consent to processing
+
+If data subjects have given their consent to the processing of their Personal Data for a particular purpose (for example, direct marketing), they have the right to withdraw their consent at any time.
+
+9\. Minors and children’s privacy
+
+Protecting the privacy of young children is especially important. Our Service is not directed to children under the age of 16, and we do not knowingly collect Personal Data from children under the age of 16 without obtaining parental consent. If you are under 16 years of age, then please do not use or access the Service at any time or in any manner. If we learn that Personal Data has been collected on the Service from persons under 16 years of age and without verifiable parental consent, then we will take the appropriate steps to delete this information. If you are a parent or guardian and discover that your child under 16 years of age has obtained an Account on the Service, then you may alert us (see ‘How to contact us’ below’) and request that we delete that child’s Personal Data from our systems.
+
+##  10\. Data Security
+
+We follow generally accepted industry standards to protect the information submitted to us, both during transmission and once we receive it. We maintain appropriate administrative, technical and physical safeguards to protect Personal Data against accidental or unlawful destruction, accidental loss, unauthorized alteration, unauthorized disclosure or access, misuse, and any other unlawful form of processing of the Personal Data in our possession. This includes, for example, firewalls, password protection and other access and authentication controls. We use SSL technology to encrypt data during transmission through public internet.
+
+However, no method of transmission over the Internet, or method of electronic storage, is 100% secure. We cannot ensure or warrant the security of any information that Visitors and Users transmit to us or that is stored on the Service, and Visitors and Users use the Site at their own risk. We also cannot guarantee that such information may not be accessed, disclosed, altered, or destroyed by breach of any of our physical, technical, or managerial safeguards. If a User or Visitor believes that their Personal Data has been compromised, they should contact us as set forth in the “How to contact us” section.
+
+If we learn of a security systems breach, we will inform Visitors and Users and the authorities of the occurrence of the breach in accordance with applicable law.
+
+##  11\.  How to contact us
+
+Please contact us with any questions or comments about this Policy, Personal Data, or if you would like to exercise your data protection rights, or if you have any concerns or complaints about this Policy or your Personal Data, by sending an email to:    
+
+##  12\.  Links to other websites
+
+The Site contains features or links to websites and services provided by third parties. This Privacy Policy does not apply to those other websites. Any information that Visitors and Users provide on third-party sites or services is provided directly to the operators of such services and is subject to those operators’ policies, if any, governing privacy and security, even if accessed through the Service. the contents and for the privacy practices of such third party websites, and Visitors and Users use such websites is at their own risk. We encourage our Visitors and Users to learn about third parties’ privacy and security policies before providing them with information.
+
+##  13\.  Changes and updates to this Policy
+
+This Privacy Policy was last updated on 15 May 2018.
+
+This Privacy Policy may be updated from time to time so Visitors and Users may wish to revisit this page each time they provide Personal Data to us. Continued use of the Service by Visitors and Users after the revised Policy has become effective indicates that they have read, understood and agreed to the current version of the Policy.
+
+This Cookie Policy explains what cookies are, the different types of cookies used on the Site, and how you can change or delete them. We hope that this policy helps you understand our use of cookies. 
+
+## What are Cookies?
+
+Cookies are small text files that are stored on your computer or mobile device and hold data relating to a specific website. Cookies are placed on the User/Visitor's computer or mobile device by that website and accessed each time a User/Visitor browses the site. They are widely used in order to make websites work, or work in a better, more efficient way, to make websites easier to use, to support the provision of relevant functionalities to the User/Visitor. Cookies enable websites to recognise you and remember important information that will make your use of a website more convenient, for example by remembering your preferences. We primarily use cookies to collect data that help us improve our website by knowing which parts of the site are being visited, how Users/Visitors are accessing each page and what items on each page they prefer to click on. The types of information typically collected by cookies include information relating to your use of the Site, your browser type, your device's IP address, how you arrived on the Site etc.   
+Cookies come in different categories. By using this Site you accept our use of cookies. If you wish to restrict or block web browser cookies which are set on your device, You do this through your browser settings at any time. The Help function within your browser should tell you how. For further information on how to change your browser settings and on cookies in general, you may visit [http://www.allaboutcookies.org](http://www.allaboutcookies.org/), which contains comprehensive information on how to do this on a wide variety of desktop browsers. Please note that preventing the use of cookies is likely to impact the performance and functionality of this Site, or prevent you from using certain services provided by this Site. If you choose to prevent the use of cookies, we cannot guarantee that all services and functionalities provided by this Site will perform or work correctly during your visit. 
+
+## Types of Cookies used
 
 Further information about the types of cookies that are used on this Site can be found below. 
 
-#### Essential Cookies
+**Essential Cookies**   
+These cookies are strictly necessary to the Site in order to enable you to navigate through the websites and to use their features. No information about your browsing habits is gathered by these cookies. Without these essential and absolutely necessary cookies, certain aspects of the Site would not work. 
 
-These cookies are strictly necessary to the MisterWhat Sites in order to enable you to navigate through the websites and to use their features. No information about your browsing habits is gathered by these cookies. Without these essential and absolutely necessary cookies, certain aspects of the Sites would not work. 
-
-#### Analytics Cookies
-
-Analytics cookies collect information about how users interact with the MisterWhat Sites, and enable us to improve the way the website works, provide better products and service to our users and identify any areas of the Sites that may need maintenance.  
-For example, analytics cookies show us which are the most frequently visited pages on the MisterWhat Sites, help us record any difficulties you have with the navigation, show us where error messages are delivered and whether advertising is effective or not. This allows us to see the main patterns of usage on the Sites. Some of the analytics cookies we use may be operated by trusted third parties. Accepting analytics cookies is a condition of using the MisterWhat Sites and by continuing to use the Sites, you agree we can place analytics cookies on your device.  
+**Analytics Cookies**   
+Analytics cookies collect information about how Users/Visitors interact with the Site, and enable us to improve the way the website works, provide better products and services and identify any areas of the Site that may need maintenance.   
+For example, analytics cookies show us which are the most frequently visited pages on the Site, help us record any difficulties you have with the navigation, show us where error messages are delivered and whether advertising is effective or not. This allows us to see the main patterns of usage on the Site. Some of the analytics cookies we use may be operated by trusted third parties. Accepting analytics cookies is a condition of using the Site and by continuing to use the Site, you agree we can place analytics cookies on your device.   
 These cookies are just used for statistics, they don't collect information that identifies individuals and we can't identify you personally through the use of these cookies. All information provided by these cookies is anonymous. 
 
-#### Functional Cookies
+**Functional Cookies**   
+We use functional cookies to remember how you use the Site and the choices you make. For example, functional cookies allow this Site to remember your user name, log in details, and any customisations you make to the Site during your visit. We can't identify you personally through the use of these cookies, nor do these cookies track your browsing habits, but they do help us serve you with ads. 
 
-We use functional cookies to remember how you use the MisterWhat Sites and the choices you make. For example, functional cookies allow this Site to remember your user name, log in details, and any customisations you make to the Sites during your visit. We can't identify you personally through the use of these cookies, nor do these cookies track your browsing habits, but they do help us serve you with ads. 
+**Advertising or targeting cookies**   
+Targeting or advertising cookies collect information about your browsing behaviour and habits in order to make advertising more relevant to you and your interests and help measure the effectiveness of advertising on the Site.   
+We use third party cookies to make advertising relevant to the content/pages you are visiting and to your interests. The Site uses targeting or advertising cookies to provide Google and other advertising partners and advertising networks with information on your visit so that they can present you with relevant advertising that you may find interesting; we link to social networking websites like Facebook, Twitter who may then use information about your visit to target advertising to you on other properties. 
 
-#### Advertising or targeting cookies
+**Other Cookies**   
+Some of the cookies on the Site are operated by third parties, such as Google, Facebook and Twitter. We do not control these third parties or their use of cookies, and it is not possible for us to manage these cookies. Please visit the websites of those third parties for details on how they use cookies. 
 
-Targeting or advertising cookies collect information about your browsing behaviour and habits in order to make advertising more relevant to you and your interests and help measure the effectiveness of advertising on the Site.  
-We use third party cookies to make advertising relevant to the content/pages you are visiting and to your interests. The MisterWhat Sites uses targeting or advertising cookies to provide Google, Criteo and other advertising agencies and advertising networks with information on your visit so that they can present you with relevant advertising that you may find interesting; we link to social networking websites like Facebook, Twitter who may then use information about your visit to target advertising to you on other properties. 
+## How can I reject or opt out of receiving cookies?
 
-#### Other Cookies
+When you first visited this website you will have been shown a message bar drawing your attention to the fact that this website uses cookies and inviting you to review this cookie policy and manage your cookie preferences. If you do not set your preferences despite this prompt a cookie preference cookie will be dropped confirming that you consent to us using the cookies detailed in this cookie policy, this cookie preference cookie will last for no more than 5 years.   
+Please note that we can't always control third party cookies stored on your machine from our website and setting your cookie preferences with us will not stop those third party cookies from being stored on your machine, you must manage these cookies directly with the relevant third party, please see our "How to control cookies" section below for more information.   
+If you have previously consented to us storing cookies on your machine but then change your mind, you can do the following: 
 
-Some of the cookies on the MisterWhat Sites are operated by third parties, such as Google, Facebook and Twitter. We do not control these third parties or their use of cookies, and it is not possible for us to manage these cookies. Please visit the websites of those third parties for details on how they use cookies. 
+  * delete the cookies from your browser. Most browsers also allow you to prevent all or some cookies being stored on your machine in the future. For more information on how to delete or disable cookies from your browser please use the "help" function within your browser or alternatively visit www.allaboutcookies.org . By deleting our cookie preference cookie the next time you visit this website the cookie message bar will appear again inviting you to again reconsider your preferences.
+  * if you only want to reject some or all of the third party cookies you will need to visit the relevant third party's website directly to manage cookies stored on your machine by them. Please see our "How to control cookies" section below.
 
-### How to control Cookies
 
-You are not obliged to accept cookies and may refuse to accept cookies from the MisterWhat Sites at any time by activating the setting on your browser which allows you to refuse cookies. Further information about the procedure to follow in order to disable cookies can be found on your Internet browser provider's website via your help screen. Please be aware that if cookies are disabled, not all functionalities of the MisterWhat Sites may function or operate as intended. 
 
-You may wish to refer to the resources listed below:  
-\- Terminology and definitions - For more information see <http://www.allaboutcookies.org/>  
-\- To learn more about how Google uses data when you use its partners' sites or apps, please visit <http://www.google.com/intl/en/policies/privacy/partners/>  
-\- For further information about DoubleClick cookies and how to opt out, please see <https://support.google.com/adsense/answer/2839090>  
-\- For further information about Google Analytics, including how to opt out, please see <https://support.google.com/analytics/answer/6004245> and <https://tools.google.com/dlpage/gaoptout>  
-\- For further information about Criteo's privacy policy, advertising practices, and for information on how to prevent being tracked for advertising purposes by Criteo, please see <http://www.criteo.com/us/privacy-policy>
+Please be aware that disabling cookies may impact the functionality of this website. 
 
-If you would like to learn more about advertising networks, affiliate programmes and how cookies are used for advertising purposes, please see [www.youronlinechoices.com/uk](http://www.youronlinechoices.com/uk). This is a useful portal run by IAB (Internet Advertising Bureau), provides all the information about online advertising and the choices available to you. To prevent being tracked by advertising networks and other organisations please see <http://www.youronlinechoices.com/uk/your-ad-choices>
+## How to control cookies
 
-Pavia, 2015 - FABULABS S.p.A. - Via Ticinello 22 - 27100 Pavia - Italy 
+You are not obliged to accept cookies and may refuse to accept cookies from the Site at any time by activating the setting on your browser which allows you to refuse cookies. Further information about the procedure to follow in order to disable cookies can be found on your Internet browser provider's website via your help screen. Please be aware that if cookies are disabled, not all functionalities of the Site may function or operate as intended.   
+You may wish to refer to the resources listed below:   
+\- Terminology and definitions - For more information see [http://www.allaboutcookies.org](http://www.allaboutcookies.org/)   
+\- To learn more about how Google uses data when you use its partners' sites or apps, please visit <https://www.google.com/policies/technologies/partner-sites>   
+\- For further information about Google advertising cookies and how to opt out, please see [https://adssettings.google.com](https://adssettings.google.com/)   
+\- For further information about Google Analytics, including how to opt out, please see <https://support.google.com/analytics/answer/6004245> and <https://tools.google.com/dlpage/gaoptout>   
+\- For further information about Facebook's privacy policy, advertising practices, and for information on how to prevent being tracked for advertising purposes by Facebook, please see <https://www.facebook.com/about/privacy> \- <https://www.facebook.com/policies/cookies>   
+If you would like to learn more about advertising networks, affiliate programmes and how cookies are used for advertising purposes, please see [www.youronlinechoices.com/uk](http://www.youronlinechoices.com/uk). This is a useful portal run by IAB (Internet Advertising Bureau), provides all the information about online advertising and the choices available to you. To prevent being tracked by advertising networks and other organisations please see <http://www.youronlinechoices.com/uk/your-ad-choices>. 
