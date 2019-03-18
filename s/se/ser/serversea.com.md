@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the serversea.com privacy policy that was archived on 2017-04-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170412202727id_/https%3A//www.serversea.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the serversea.com privacy policy that was archived on 2019-03-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190318231119id_/https%3A//www.serversea.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Server Sea Hosting Company
 
@@ -16,8 +16,10 @@ We may use an outside ad company to display ads on our site. These ads may conta
 
 This site has security measures in place to protect the loss, misuse and alteration of the information under our control.
 
+**Changes to this Policy**
+
 Please note this Privacy Policy will change from time to time. We expect most such changes to be minor, but there may be changes that are more significant, we will also provide a more prominent notice. Each version will be noted at the top of the page. Prior versions of this Privacy Policy will be kept in an archive for you to view.
 
 **Contacting the Web Site**
 
-If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact [info@ServerSea.com](mailto:info@serversea.com)
+If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact [sales@serversea.com](mailto:sales@serversea.com)
