@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the aptdeco.com privacy policy that was archived on 2016-11-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161107034030id_/https%3A//www.aptdeco.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aptdeco.com privacy policy that was archived on 2019-03-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190318032719id_/https%3A//www.aptdeco.com/privacy) for the most accurate reproduction.*
 
-# AptDeco - Privacy policy
+# Privacy policy - AptDeco
 
 Last Updated: Dec 02, 2014
 
