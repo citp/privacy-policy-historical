@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the novashe.com privacy policy that was archived on 2018-10-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181019201457id_/http%3A//www.novashe.com/content/23-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the novashe.com privacy policy that was archived on 2019-03-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190318061936id_/http%3A//www.novashe.com/content/23-privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Novashe High Street Fashion
 
