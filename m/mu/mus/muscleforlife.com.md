@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the muscleforlife.com privacy policy that was archived on 2018-10-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181020123107id_/https%3A//www.muscleforlife.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the muscleforlife.com privacy policy that was archived on 2019-03-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190318051646id_/https%3A//www.muscleforlife.com/privacy-policy) for the most accurate reproduction.*
 
-# PRIVACY POLICY | Muscle For Life
+# PRIVACY POLICY - Muscle For Life
 
 **1.   Introduction**
 
@@ -88,11 +88,11 @@ We take certain measures to enhance the security of our Site and Service, includ
 
  **12.   Your California Privacy Rights**
 
-Muscle for Life permits residents of California to use its services.  Therefore, it is the intent of Muscle for Life to comply with the _California Business and Professions Code_ §§ 22575-22579.  If you are a California resident you may request certain information regarding our disclosure of personal information to any third parties for their direct marketing purposes.   Various provisions throughout this Privacy Policy address requirements of the Californian privacy statutes.  In summary, you must presume that we collect electronic information from all visitors.  You may contact us at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#13707c7d67727067537e6660707f76757c617f7a75763d707c7e) with any questions.
+Muscle for Life permits residents of California to use its services.  Therefore, it is the intent of Muscle for Life to comply with the _California Business and Professions Code_ §§ 22575-22579.  If you are a California resident you may request certain information regarding our disclosure of personal information to any third parties for their direct marketing purposes.   Various provisions throughout this Privacy Policy address requirements of the Californian privacy statutes.  In summary, you must presume that we collect electronic information from all visitors.  You may contact us at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#bad9d5d4cedbd9cefad7cfc9d9d6dfdcd5c8d6d3dcdf94d9d5d7) with any questions.
 
  **13.   Minors**
 
-Individuals under 18 years of age are not allowed to use our paid services, and individuals under 13 years of age must not use our Service at all.  If you become aware of a User who is under the required age to use all or any portion of our Service, please notify us immediately at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#bbd8d4d5cfdad8cffbd6cec8d8d7deddd4c9d7d2ddde95d8d4d6) and provide us with full details as to why you believe they are below that age and we will address the issue.  If you are a User who is reported in this manner, we may require you to provide suitable proof of age, such as a copy of government identification, in order to continue using our Site and/or Service.
+Individuals under 18 years of age are not allowed to use our paid services, and individuals under 13 years of age must not use our Service at all.  If you become aware of a User who is under the required age to use all or any portion of our Service, please notify us immediately at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#10737f7e64717364507d6563737c75767f627c7976753e737f7d) and provide us with full details as to why you believe they are below that age and we will address the issue.  If you are a User who is reported in this manner, we may require you to provide suitable proof of age, such as a copy of government identification, in order to continue using our Site and/or Service.
 
  **14.   International Transfer**
 
