@@ -1,59 +1,63 @@
-> *The following text is extracted and transformed from the businessownersideacafe.com privacy policy that was archived on 2017-11-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171116065709id_/https%3A//www.businessownersideacafe.com/ideacafe/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the businessownersideacafe.com privacy policy that was archived on 2019-03-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190318133732id_/https%3A//www.businessownersideacafe.com/ideacafe/privacy_policy.php) for the most accurate reproduction.*
 
 # Business Owners' Idea Cafe - Our Privacy Policy
 
-**You're in Control. Here are Shortcuts for Your Use:**
-
-To change your email address:   
-[https://www.businessownersideacafe.com/ideacafe/change_email.html](https://web.archive.org/web/20171116065709id_/https%3A//www.businessownersideacafe.com/ideacafe/change_email.html)
-
-To get off Idea Cafe's newsletter list:   
-[https://www.businessownersideacafe.com/ideacafe/remove_request.html](https://web.archive.org/web/20171116065709id_/https%3A//www.businessownersideacafe.com/ideacafe/remove_request.html)
-
 Privacy Policy for Business Owners Idea Cafe
 
-Idea Cafe Inc. has created this privacy statement in order to demonstrate our respect for user privacy. The following discloses our information gathering and dissemination practices. Please note that this policy may be modified from time to time; the most current version will always be available here on this web page. 
+**Privacy Notice**
 
-**Use of Technical Contact Data**
+DevStart is an online network of websites for small business owners.  Headquartered  in Chicago, Illinois, we provide websites relating to marketing, search engine optimization, web hosting, small business operations, and website development.  We are committed to maintaining the trust and confidence of our visitors to our web site and subscribers to our newsletters. Here you’ll find information on how we treat data that we collect from visitors to our website, or when someone subscribes to our newsletter.
 
-Idea Cafe may use your IP address to help diagnose problems with our server, and to administer our Web site. 
+**Visitors to our Website**
 
-**Links To Other Sites**
+When someone visits a site on our network, we use a third party service, Google Analytics, to collect standard internet log information and details of visitor behavior patterns. We do this to find out things such as the number of visitors to the various parts of the site. This information is only processed in a way which does not identify anyone. We do not make, and do not allow Google to make, any attempt to find out the identities of those visiting our website. You can find more information on how cookies are used on this website in the [Cookies Policy](https://web.archive.org/ideacafe/cookie_policy.php).
 
-Idea Cafe contains links to other sites. Idea Cafe is not responsible for the privacy practices or the content of such Web sites. 
+If we do want to collect personally identifiable information through our website, we will be up front about this. We will make it clear when we collect personal information and will explain what we intend to do with it.
 
-**Voluntary Opt-in Registration**
+**Newsletter Sign Up**
 
-Idea Cafe's voluntary registration form requires users to give certain information in order to become a registered "Regular" member. Regulars (members) receive certain privileges, such as access into restricted site areas, a free subscription to our own Biz Tips newsletter, plus contest eligibility and profile submissions; membership privileges may change from time to time. The registration form also gives users the opportunity to provide additional information voluntarily. Idea Cafe totals the data provided by all users to create our site user demographic reports: we share these demographic totals with interested parties. Idea Cafe uses contact information from the registration form to enable our users to receive information we believe would be helpful to them via email, mail or other methods. This information may come directly from us or from partners and advertisers we have screened and approved. Any third-party email offers we approve provide the user an instant link to opt out if he or she no longer wishes to receive such offers. Users may also opt-out of receiving future mailings of newsletters and letters directly from Business Owners Idea Cafe; see the choice/opt-out section below or the shortcut section above. 
+As part of the registration process for our e-newsletter at Idea Café, HostReview, and PromotionWorld, we collect personal information. We use that information for a few reasons: to tell you about stuff you’ve asked us to tell you about; to contact you if we need to obtain or provide additional information; to check our records are right and to check every now and then that you’re happy and satisfied. We don't share or trade email lists with other organizations and businesses.
 
-**Other Opt-in Areas**
+We use a third party provider, MailChimp, to deliver our newsletter. We gather statistics around email opening and clicks using industry standard technologies to help us monitor and improve our e-newsletter. For more information, please see [MailChimp’s privacy notice](https://mailchimp.com/legal/privacy/).
 
-Onsite, Idea Cafe has optional areas (such as contests, public forums, profiles, awards/greetings, newsletter/information requests and similar) in which we ask visitors for contact information. We use the contact data submitted to send users various notifications, including but not limited to that their awards/greeting were received, their forum message(s) responded to, and to send information from Idea Cafe and other legitimate resources. In some areas, by posting or submitting, the user agrees to convey certain publication rights; where this is the case, what the user is agreeing to will be clearly marked near the input area, so the user can determine what he or she wants to do. 
+You can unsubscribe to general mailings at any time of the day or night by clicking the unsubscribe link at the bottom of any of our emails.
 
-**Public Forums**
+**Links to Other Web Sites**
 
-Idea Cafe makes public forums (including but not limited to CyberSchmooz, profiles, etc.) available for our users' participation. Please remember that any information that is disclosed in these areas becomes public information and each user should exercise caution when deciding to disclose your personal information. 
+This privacy notice does not cover the links within this site linking to other websites. Those sites are not governed by this Privacy Policy, and if you have questions about how a site uses your information, you’ll need to check that site’s privacy statement.
+
+**Access to Your Personal Information**
+
+You have a right to (1) access, modify, correct, or delete certain of your information regarding your user profile, and (2) close your account. You can also contact us regarding any account information which is not on your profile or readily accessible to you. If you close your account, your information may be removed or unpublished from the Services within a reasonable amount of time.  Email your request to [privacy@devstart.com](mailto:privacy@devstart.com).
+
+Once you submit a review and the review has been approved for posting, it cannot be edited or removed.  You will have the ability to submit a revision to appear below your original posting and to revise your star ratings.
+
+We keep your account information for as long as your account is active or as needed. For example, we may keep certain information even after you close your account if it is necessary to comply with our legal obligations, meet regulatory requirements, resolve disputes, prevent fraud and abuse, enforce our agreements or as part of our Website data backup process. We may keep your data in a published or unpublished format on the Services or in backups of the Website.
+
+**CHILDREN**
+
+Our Websites and/or Services are not directed at children and our services are designed for businesses. We do not knowingly collect information from or about children under 13 years of age, and use of our services by children under 13 years of age is forbidden.
 
 **Security**
 
-Idea Cafe has security measures in place to protect the loss, misuse and alteration of the information under our control. All information is stored on a secure server and password protected. 
+We have implemented various technical, administrative, and physical safeguards to protect your information. These safeguards vary depending on the sensitivity of the information at issue.
 
-**Correct/Update**
+**Changes to this Privacy Notice**
 
-This page gives users the following option for changing and modifying email address information previously provided:   
-[https://www.businessownersideacafe.com/ideacafe/change_email.html](https://web.archive.org/web/20171116065709id_/https%3A//www.businessownersideacafe.com/ideacafe/change_email.html)
+We keep our privacy notice under regular review. This privacy notice was last updated on May 25, 2018.
 
-**Choice/Opt-Out**
+**CONTACT US**
 
-This page gives visitors the following option for removing their information from our database, to no longer receive newsletters or letters from Idea Cafe, or to no longer receive member privileges at this site:   
-[https://www.businessownersideacafe.com/ideacafe/remove_request.html](https://web.archive.org/web/20171116065709id_/https%3A//www.businessownersideacafe.com/ideacafe/remove_request.html)
+If you have any questions or concerns over this Privacy Policy, or wish to exercise any of your statutory rights, please contact us at:
 
-**Rights Reserved**
+DevStart, Inc. Privacy Matters  
+c/o DevStart, Inc.  
+Attn: Director of Security  
+64 Orland Square Drive  
+Suite 314A  
+Orland Park, IL 60462  
+USA
 
-Idea Cafe Inc. reserves the right to make changes to company and site content, policies and procedures at any time without notice. 
+Email – [privacy@devstart.com](mailto:privacy@devstart.com)
 
-**Contacting Idea Cafe About Privacy**
-
-If you have any questions about Idea Cafe's privacy statement, the practices of this site, or your dealings with Idea Cafe site, you can contact our Chef. 
-
-[Back to Registration Form](https://web.archive.org/web/20171116065709id_/https%3A//www.businessownersideacafe.com/ideacafe/register.php)  |  [Back to Idea Cafe Home](https://web.archive.org/Welcome.html)
+[Back to Registration Form](https://web.archive.org/web/20190318133732id_/https%3A//www.businessownersideacafe.com/ideacafe/register.php)  |  [Back to Idea Cafe Home](https://web.archive.org/Welcome.html)
