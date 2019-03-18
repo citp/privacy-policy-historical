@@ -1,129 +1,250 @@
-> *The following text is extracted and transformed from the traity.com privacy policy that was archived on 2014-10-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141005175336id_/https%3A//traity.com/terms) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the traity.com privacy policy that was archived on 2019-03-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190318014849id_/https%3A//traity.com/privacy) for the most accurate reproduction.*
 
-# Traity, the reputation standard
+# Traity | Helping people trust one another
 
-### Privacy
+### Privacy Policy
 
-#### 1\. Introduction
+**Traitperception Inc. and Traitperception España, S.L.U. (‘We’ or ‘TRAITY’) respects your privacy and is committed to protecting your personal data. This Privacy Policy will inform you as to how we look after your personal data when you visit our Website (regardless of where you visit it from) and tell you about your privacy rights and how the law protects you.**
 
-TraitPerception, Inc. ("TraitPerception" or "we") operates the Traity services to create an objective representation of who you are, based on your social networks. This will help you prove your trustworthiness with other people or companies for all types of activities, including job opportunities or carpooling with a stranger. It also allows you to find the relevant digital representation of other people so you can trust them.
+In this Privacy Policy, we explain how we collect and use your personal information. ‘We’ are TRAITY, and we are the data controller for the purposes of the EU General Data Protection Regulation.
 
-We provide this Privacy Policy to inform you of our policies regarding the collection, use, disclosure and protection of information. This Privacy Policy applies to all of the Traity websites, mobile features, applications, and other interactive features or services that link to it ("Traity Services"), including the Traity websites (http://traity.com) (the "Traity Site"), the Traity mobile applications and the Traity applications and pages on Facebook (the "Traity App"). Your use of the Traity Services is subject to our Terms of Service. If you access the Traity Services through Facebook, you may be required to read and accept the Facebook terms of service and privacy policy.
+Details of how to contact us if you have any questions about privacy or data protection can be found in the Contact Details section, below.
 
-At Traity we understand you want to keep your personal and professional life separate. We only take the information from Social Networks like Facebook or Twitter that helps us assess your trustworthiness and personal strengths, and you have full control over what is made public and private. We don´t store your social networks´ password or your email without your consent, and we don´t send emails or communication to your friends. You can also unsubscribe from all email communication to you in the footer of all our emails.
+This policy explains what our lawful basis is in respect of each purpose for which we keep and use information about you. Generally, we are allowed to process your personal data where it is necessary by accessing our Website located at a domain or subdomain owned by us, using our products and services through the Website or our mobile applications, or otherwise providing us with Personal Information, where it is necessary in order for us to provide our service, to comply with our legal obligations, or where we have a legitimate interest to do so (but we will always consider whether your right to privacy overrides our interest).
 
-Our policy concerning children under 13. The Traity Services are not intended for children younger than the age of 13. If we learn that we have inadvertently gathered information from children younger than the age of 13, we will take reasonable measures to delete such information from our records.
+Accessing to our Website, you confirm that you have read and accept the terms of this Privacy Policy and expressly consent to the collection, storage, use and disclosure of your Personal Information in accordance with the terms of this Privacy Policy.
 
-#### 2\. Traity Community Basics
+If you do not agree to the terms of this Privacy Policy you must immediately leave the Website and discontinue your use of our products and services.
 
-Through the Traity Services, we provide you with the tools to instantly obtain your trustworthiness score as well as your personal strengths and weaknesses as analysed from your social networks and additionally complemented with personality tests from yourself and endorsement from your contacts. This way you give the opportunity for potential employers, business partners, Traity customers, professional contacts and friends (the "Traity Community") to see the best in you and why your positivity makes you a trustworthy digital citizen. We allow you to find other members in order to check their trustworthiness and cultural compatibility. If you are planning to meet them, hire them, date them, etc., getting a good representation of the individual without needing to study the many other social networks is quite appealing.
+How do We use your personal information?
 
-Below we summarize what it means to be part of the Traity community and how your professional proﬁle and activity will be displayed.
+**Traity exists to help you show your reputation to others. Those others might be people, employers, financial services, etc. That´s entirely up to you. We aim to help you put your personal reputation in one place so that you can be the one leveraging your data for things that matter to you. Data should always be yours and for you to own and control. We are here to help you better aggregate and use such data.**
 
-Your Traity Proﬁle is a representation of who you are as a digital citizen, including your trustworthiness, your personality strengths and weaknesses, your employment history, education, personal and professional work, accomplishments, your connections, the feedback you receive from other connections, your most important events or moments on social networks (like best pictures or best posts), or within your proﬁle and actions you experience within Traity. Together they conform your Traity profile. Your Traity Proﬁle may be publicly visible to everyone on the Internet as indexed by search engines. Traity allows you to control whether certain information is made public or private. You can visit your Account Settings to change this.
+In application of the aforementioned regulations and commitment, TRAITY and its members treat the data strictly necessary to satisfy their legitimate purposes:
 
-Your Traity Proﬁle can be accessed through the Traity Services (e.g., by searching for your name on Traity or by clicking on your name listed on a Connection proﬁle) or directly through a simple URL (http://traity.com/namesurname), which you can share or display as you choose (for example, on your email signature or blog) or through our API (Application Programmable Interface).
+  * The creation of your reputational profile and reputation scores which are based on the data you share with us.
+  * The ability to enable our users to share their data and reputation scores and profiles with other parties.
+  * Anonymized research to create more effective reputational technology.
 
-There are several types of users on Traity:
 
-• Traity User. A Traity User is a user who has registered to join Traity by installing any of our mobile or web applications, or who has otherwise registered for Traity. 
 
-• Extended Network Member. An Extended Network Member is a person who has not installed any Traity application but is connected to a Traity User through other social networks or public networks. 
+How do We collect your personal information?
 
-• Enterprise Users. Enterprise Users are corporate customers who use Traity for networking, hiring, reputation checking or customer and business development purposes. Notwithstanding your privacy settings, Enterprise Users can access information in your Traity Proﬁle that is designated as public just like any other users. 
+Your personal data is obtained:
 
-If you are a Traity User, we may provide functionality such that when you view another Traity user’s proﬁle, that user will be able to view certain information about you (such as your proﬁle photo and your name, company, title, and city).
+  * From the users themselves through the Traity website forms.
+  * Through Traity´s widgets or Traity´s APIs operated by sharing economy companies or financial companies who use Traity, where you want to login with Traity to show your Traity reputation scores.
 
-Public Proﬁle Searchability: If your Traity Proﬁle is public, Traity makes it available for indexing on search engines, subject to the search engines’ own indexing regulations. Thus, there will likely be a delay before your Traity Proﬁle initially appears in a search engine’s search result and before any update you make to your Traity Proﬁle is reﬂected on a search engine.
 
-Default Post Visibility: When you join Traity, by default, your Personality Reports with the answers you provide and the feedback you receive will be visible to Everyone. You can change your default post visibility in Account Settings. Remember that this is the objective of Traity, to show your trustworthiness and the best of who you are so people can trust you.
 
-#### 3\. Information We Receive
+Personal information We collect and treat
 
-Our Services analyze data that is available on private social networks when authorized by our users to access such data. The data that is provided by users about their own personality (self-evaluation) and endorsement or Feedback about the personalities of their contacts, as well as information from public networks, is used to measure personality reputation and create scores for Internet users This includes, but is not limited to, our registered users. Traity presents some of this data on the website and our mobile application(s), such data may also be available on other websites and Traity may share this data with our third party partners (as described in more detail below).
+**What** Personal Data type we can collect:
 
-If you are not a user of the Services and wish to opt out, please click here: http:// traity.com/optout. If you are a current user of the Services, you can opt-out by logging into your account and removing your account under Settings.
+  * Identifying, through sites like Facebook or LinkedIn.
+  * Professional and Educational, through sites like LinkedIn.
+  * Reviews from sites like sharing economy like eBay.
+  * Interests or preferences through sites like Twitter.
 
-By accessing Traity with your Facebook ID, you are authorizing Traity to collect, store, and use, in accordance with this Privacy Policy, any and all information that you agreed that Facebook could provide to Traity through the Facebook’s Application Programming Interface ("API"). Your agreement takes place when you "accept" or "allow" (or similar term) the Traity App via Facebook. You may also grant us additional permissions at other times. Information is provided to us by Facebook under the terms of Facebook’s data use policy (or other applicable Facebook policies). Traity will only access additional information from your Facebook account with your consent.
 
-We and our third party service providers, including third party network advertising companies and content providers, may use a variety of technologies that automatically or passively collect certain information whenever you visit or interact with the Traity Services ("Usage Information"). Usage Information may include the browser and operating system you are using, the URL or advertisement that referred you to the Traity Site, the search terms you entered into a search engine that lead you to Traity (if applicable), and information about your interactions with the Traity Services (such as the pages and content you view and actions you take, the time you accessed Traity, and the duration of that period of access), among other information.
 
-In addition, Usage Information also includes your IP address or other unique identiﬁer ("Device Identiﬁer") for any computer, mobile phone or other device (any, a "Device") you may use to access the Traity Services. A Device Identiﬁer is a number that is automatically assigned to your Device used to access a web site, and our servers identify your Device by its Device Identiﬁer. If you use the Traity Services on a mobile device, we may also receive information about your mobile device, such as your UDID, mobile operating system, the name of your mobile carrier, and your location information (e.g., GPS coordinates or network-based location). Usage Information is collected through the use of server log ﬁles and tracking technologies, including cookies, web beacons and embedded scripts. In some cases, we will associate this information with your user ID number for our internal use.
+Your reputation is yours to build and own. So that we can provide you with our reputation score and current and future financial services, we may need to collect and process information about you. If you do not provide us with the information we request, we may not be able to supply you with our products and services.
 
-The methods we may use to collect Usage Information include the following:
+Specifically, information you might want to share with us to collect may include:
 
-• Cookies: A cookie is a data ﬁle placed on a Device when it is used to visit the Traity Services, or otherwise allow access to our online content. 
+Information about you including your name, address, date of birth, education, email address, time zone, employment details and rental history and ID details,
 
-• Cookies may be used for many purposes, including, without limitation, remembering you and your preferences and tracking your visits to our web pages. A Flash cookie is a data ﬁle placed on a Device via the Adobe Flash plugin that may be built-in to or downloaded onto your Device. Flash cookies may be used for various purposes, including, and without limitation, enabling a Flash feature and remembering your preferences. For more information about Flash and the privacy choices Adobe offers, visit this site. If you choose to disable cookies or to adjust your Flash privacy settings on your Device, some features of the Traity Site may not function properly. 
+Information about you derived from your social networks that might be reputational, including your connections, ratings, feedback, review, etc.
 
-• Web Beacons: A web beacon is a small (often invisible) graphic image, or other web programming code, embedded in a web page or email. Web beacons, or similar technologies, may be used for a number of purposes, including, without limitation, to count visitors to the Traity Services, to monitor how users navigate the Traity Services and to count how many e-mails that were sent were actually opened. 
+You can download all the data we hold about you on our Website, as specified below in this document.
 
-• Embedded Scripts: An embedded script is a programming code that is designed to collect information about your interactions with the Traity Site, such as the links you click on. The code is temporarily downloaded onto your Device from our server or a third party service provider and is deactivated or deleted thereafter. 
+**Why** we may collect data includes:
 
-We may receive information about you from third parties. For example, if you are on another web site or are using another app and you agree to receive information from Traity, that web site or app will forward your contact and other information to us so that we may contact you as requested. You may also choose to participate in a Traity or third party application or features (such as a widget that allows you to import your Traity proﬁle information to a third party site) through which you allow us (or the third party) to collect or share information about you, including Personal Information. The third party may allow you to remove the application or feature, in which case we will no longer collect information about you through the application or feature, but we may retain the information previously collected.
+  * **To help you build your social reputation profile:**
+    * Information that you give us directly: You authorise us to collect information you provide to us when accessing or using our products and services;
+    * Information you give us through third parties with your authorization, through APIs or Widgets or Oauths: For example, we may collect information about you from social media accounts which you have linked with the TRAITY platform, including but not limited to Facebook, Twitter, eBay or LinkedIn. The information supplied to us by such third parties is regulated by their respective privacy and cookies policies.
 
-Traity may offer you the ability to import your professional information from your resume or through third party services so that you can display such information in your Traity Proﬁle. Any information that you choose to import will become part of your Traity Proﬁle. Traity may also import publicly available information into Traity profiles. If you choose to import contacts, Traity will store those contacts for purposes of helping you and your contacts make connections on Traity. Traity will not store the passwords you provided without your consent.
 
-As noted above in "Information We Receive From Facebook," Traity receives certain information from Facebook when you use the Traity Services. In addition, we may receive information about you if other users of a third party web site give us access to their proﬁles and you are one of their "connections" or information about you is otherwise accessible through your "connections" web page, proﬁle page, or similar page on a social networking or other third party web site or interactive service.
+  * **To provide a better user experience:**
+    * Information we collect about you from your device: We automatically collect certain technical information about you when you use the TRAITY platform including your device identifier and location, screen resolution, how you use the TRAITY platform, language selection and preferences. This can be useful to show you a different desktop or mobile website.
+· 
+    * Usage data: We collect non-personal information about your use of our Website and the TRAITY platform in an effort to improve your personalized experience and our offerings. This would include services like Google Analytics; and
 
-We also may supplement the information we collect with outside records from third parties in order to provide you with information, services or goods you have requested.
 
-We combine the information we receive from those other sources with information we collect through the Traity Services, like your personality evaluation and the personality strengths feedback from your contacts. In those cases, we will apply this Privacy Policy to the combined information.
 
-#### 4\. How We Use Your Information
+We collect Personal Information so that we can carry out our business activities in a professional and efficient manner, in particular to:
 
-We may use your information as disclosed to you at the time you provide it or choose to participate in a feature or otherwise with your consent. In addition, Traity uses your Personal Information and Usage Information to register you for, and enable you to use, the Traity Services, like providing you with your Traity personality reports and allowing you to search other proﬁles of other people; to help serve you relevant and meaningful content; to improve the Traity Services and for our internal business purposes; to contact you regarding the Traity Services (e.g., to respond to your customer support inquiries, to update you regarding the activity of your Connections, to provide you with professional opportunities); to enable you to take polls, quizzes, and surveys; and to send you promotional messages on our behalf or on behalf of our partners. You can opt out of receiving promotional messages by clicking "unsubscribe" in the message or changing your email settings in the Account Settings. If you disclose information to Traity in a quiz, or survey, we may use the results from these activities in our recruiting efforts, and third parties may target advertising to you based on your responses.
+  * Most importantly, enable you to use your reputation profile and scores by providing access to other third parties you decide (which could include sharing economy companies or financial services), for the benefit of proving your trustworthiness to them;
+  * Provide support services in respect of your TRAITY account, improve your user experience and our service offerings, including the Website and TRAITY;
+  * Communicate with you, including to provide you with product news (unless you have opted out from receiving such information);
+  * Comply with local legal obligations;
+  * Calculate anonymous, aggregate statistics, for product development and analytics purposes including for sharing with third parties on an anonymous and aggregated basis;
+  * Manage complaints and disputes.
 
-Traity also uses your Personal Information and Usage Information to enable you to interact with other Traity users, whether privately or publicly (e.g., by sending a private message on Traity, following them, or enabling you to post on another Traity user’s proﬁle, e.g., through a public message, comparative anonymous feedback of personality), to connect with other users who share similar characteristics, like Personality type, or working for similar companies, and to invite a friend to join Traity (e.g., by email, a Facebook wall post, or through a Facebook notiﬁcation). When you initiate a communication through Traity, we may list your name as the sender of the message, but we will not include your personal email address without your consent or ability to remove such email address. Traity, however, enables other users who already know your email address (or other information about you) to ﬁnd and contact you on Traity using that contact information that they already have about you. When you invite a friend to join Traity, the invitation may contain information about other users your friend might know.
 
-Your public Traity profile will also be accessible through an API (Application Programmable Interface) for our clients or partners to access your information such as your levels of trust, personality, strengths or interests as per your public Traity profile in order to conduct commercial behavioural analysis and predictive modeling. You can set as private any of this information on your profile settings.
 
-In an ongoing effort to better understand and serve the users of our Services, Traity also often conducts academic and commercial research on its customer demographics, interests and behaviour based on the Personal Information and other information provided to us. This research may be compiled and analyzed on an aggregate basis, and Traity may share this aggregate data with its afﬁliates, agents and business partners. This aggregate information does not identify you personally. Traity may also disclose aggregated user statistics in order to describe our Services to current and prospective business partners, and to other third parties for other lawful purposes.
+TRAITY Commitments
 
-By using our Services you are consenting to our processing of your Information and data as set forth in this Privacy Policy now and as amended. As used herein, "processing" includes, but is not limited to, collecting, storing, deleting, combining and disclosing information.
+**Your data and your reputation is yours. You are the one who should benefit from your own data. We are humbled and honored to help you aggregate your reputation and put it together in one place, so that it can help you prove your trustworthiness to other parties in the future. You have full control over what you share for us to build your score, and you have ownership of your data and scores. Also, by the end of 2018, you will be able to host your Traity reputation with Blockchain technology, for further transparency, control and ownership.**
 
-#### 5\. How We Share Information
+  * We undertake to update the data processed, as soon as possible, in case of the deficiency or mistakes, as well as the secrecy and confidentiality of the information involved, not assuming in any way the possible damages arising from the falsity of the information provided by the interested users or parties.
+  * In application of the principle of transparency and information, will inform clearly and accurately to the interested parties, at the time of the collection of the data or later as the case may be, of the circumstances of treatment established in the EU General Data Protection Regulation, or particular European Country Law applies.
+  * We will not treat minors' data or special categories of data referring to ideology, religion, ethnic or racial origin, sexual orientation or criminal infractions.
+  * We will not sell or transfer personal data to third parties, outside of those cases authorized by the Law relating to the fulfilment of the obligations with the Social Security, the Treasury and other public entities, as well as the assignments or communications to collaborating entities that request their services.
+  * The realization, where appropriate, of international data transfer to third countries will be done in accordance with the Law, prior to the consent of the interested party, adequacy established, where appropriate by the Spanish Agency for Data Protection or compliance with the requirements established in the agreement between the US and the EU on the privacy shield. These transfers will be carried out to fulfil information storage purposes. The contracts with third parties for the management of personal data comply with the provisions of the EU General Data Protection Regulation, or particular European Country Law applies. We, verify the professionalism and preparation of said managers and including clauses in accordance with the Law in the corresponding contracts.
+  * We undertake to respect the exercise by the interested parties of the rights recognized by the EU General Data Protection Regulation, or particular European Country Law applies, to which it authorizes internal forms and procedures that facilitate said exercise to the interested parties.
+  * To facilitate the proper application of the above commitments, We committed to all procedures, resources, tools, applications and others that are intended or carry out the processing of personal data, are designed and implemented from a perspective of full respect to the regulations and principles of data protection. In this sense, in those cases in which there are several applicable options, We will apply the most respectful with those.
+  * In addition, We committed to implement all security, technical and organizational measures that are necessary to ensure the protection of personal data they treat and the privacy of their owners. These measures will be adapted to the level of risk anticipated, to the nature of the data and the treatments that are carried out and their purpose.
 
-We do not sell, rent, or otherwise provide your personal identiﬁable information to third parties for their direct marketing purposes without your consent. We share your information (which may include Personal Information and Usage Information) with third parties (not Traity) with your consent, as disclosed in this privacy policy or at the time you provide us with information, and in the following circumstances:
 
-As a service uniquely linked to the Facebook, Twitter or Google or other Social Networks API, Traity will disclose your Personal Information to those social networks when you have chosen to share your Traity activity with (e.g., your Traity activity stream and professional updates). Once information is shared with them, it then becomes subject to two separate policies: The social networks´ data use policy (and/or any other applicable policy of such social networks), with respect to the information held by them, and the Privacy Policy, with respect to the information held by Traity. Traity is not responsible for, and may be unable to, alter or delete information after it has been provided to social networks pursuant to your authorization. If you do not wish for social networks to receive your activity stream or professional updates from Traity, you should not agree to share your Traity activity with those social networks and adjust your social networks settings to prevent unwanted sharing. By default Traity does not request the permission to post on Facebook or other social networks on your behalf.
 
-You may be presented with an opportunity to receive information and/or marketing offers from one or more third parties. If you agree at that time to have your information shared, your information will be disclosed to that third party (or parties) and will be subject to the privacy policy and practices of that third party. We are not responsible for the privacy policies and practices of third parties, and, if you later decide that you no longer want to receive communications from a third party, you will need to contact that third party directly. You also may request, sometimes through your use of an interactive feature, a widget or third party application where we share information about you with a third party and we will typically do so under those circumstances.
+Change of purpose
 
-In order to generally provide our services to our users free of charge, we offer special services to Enterprise Users to help recruiters, sales professionals and other customers ﬁnd qualiﬁed candidates, business partners, and sales leads, and market research information through our API and to collect market intelligence and aggregate business information. Enterprise Users will have access to view your Traity Proﬁle as if they were a Connection. Enterprise Users will also be able to view your responses to certain polls, quizzes, and surveys, including your personality reports that you answer on Traity Services, as well as your personality traits feedback provided by your contacts if your proﬁle has been set as public on the Account Settings. Enterprise Users will also be able to contact you by sending you a Traity message to qualify you for business and career opportunities, request Introductions to your network, and collaborate with you on business opportunities, as well as for other purposes.
+We will only use your personal information for the purposes for which we collected it, unless we reasonably consider that we need to use it for another reason and that reason is compatible with the original purpose. If we need to use your personal information for an unrelated purpose, we will notify you and we will explain the legal basis for us to do so.
 
-We may provide information to service providers that help us bring you the services we offer. For example, we may use third parties to help host the Traity Site, send out email updates about Traity, remove repetitive information from our user lists, process payments, or provide search results or links (including sponsored links). If you purchase any products or services from Traity, our billing partner will receive billing and ﬁnancial information (e.g., credit card numbers) necessary to process your charges, including your postal and e-mail addresses depending on your payment method.
+Who do we share your personal information with?
 
-We may provide services jointly with other companies, such as with a sales-customer relationship management service or recruiting software service. If you use these services, we may share your information to facilitate that service. However, we will identify the partner before you use that service.
+**Sharing your information within our company**
 
-We may transfer and disclose information, including Personal Information and Usage Information, to third parties to comply with a legal obligation; when we believe in good faith that the law requires it; at the request of governmental authorities conducting an investigation; to verify or enforce our Terms of Services or other applicable policies; to respond to an emergency; or otherwise to protect the rights, property, safety, or security of third parties, users of the Traity Services or the public. We may also use device identiﬁers to identify users, and may do so in cooperation with copyright owners, Internet service providers, wireless service providers or law enforcement agencies, in our discretion. Such disclosures may be carried out without notice to you. Traity reserves the right to disclose and transfer user information, including personal information, in connection with a corporate merger, consolidation, restructuring, bankruptcy, the sale of certain stock and/or assets, or other corporate change including, without limitation to, during the course of any due diligence process. We may offer sweepstakes, contests, and other promotions (each, a "Promotion") that may require registration. If you choose to participate in a Promotion, your personal information may be disclosed to third parties in connection with the administration of such Promotion, such as in connection with winner selection, prize fulﬁllment, and as required by law, such as on a winners list. By entering a Promotion, you are agreeing to the ofﬁcial rules that govern that Promotion, which may contain speciﬁc requirements of you, including, except where prohibited by law, allowing the sponsor and/or other parties to use your name, voice and/or likeness in advertising or marketing materials.
+The raw information that builds your reputation score is private. We might share your profile with our staff when it might be required for the purpose of customer service or providing services to you.
 
-In addition, Traity partners may access our application programming interfaces ("APIs") in order to search people by skills, trustworthiness, interest, proﬁle name, email or personality strengths, for example, to offer job opportunities, financial services, commercial decisions, or commercial predictive modeling, that ﬁt with you only if your proﬁle is set to public.
+**Sharing your information with third parties**
 
-We may share non-personal information, such as aggregated user statistics with third parties for a variety of purposes, in our sole discretion. But we only do so in such a way that no individual user is speciﬁcally identiﬁed or linked to any speciﬁc action or information.
+We may share your data with selected third parties. For example, we may share your information with:
 
-#### 6\. Third Party Analytics Providers And Ad Servers
+  * Internet hosting providers to host the Website, related infrastructure, services and applications. A detailed list of providers can be found [here](https://web.archive.org/privacy/processors)
+  * To our customers (through Traity Widgets and APIs with your consent) and / or suppliers to provide our services.
 
-Although the Traity Site currently does not display ads from third parties, Traity works with network advertisers, ad agencies, third party trafﬁc measurement services and other vendors to provide us with information regarding trafﬁc on the Traity Site and through the Traity Services, to serve our advertisements on other web sites, within third party applications, and across the Internet, and to provide us with information regarding the use of the Traity Services and the effectiveness of our advertisements. For example, if you click on a Traity advertisement, our service provider(s) may be able to tell us which advertisement you clicked on and where you were viewing the advertisement. In connection with providing analytics and advertising services, our service providers may collect certain information about your visits to this or other web sites. We do not share personal information with these service providers, but they may set and access their own tracking technologies on your computer or device (including cookies and web beacons) and may otherwise collect or have access to information about you (such as your general interest in career networking and Usage Information). Cookies and web beacons, including those set by third party network advertisers, may be used to, among other things, target advertisements, prevent you from seeing the same advertisements too many times and to conduct research regarding the usefulness of certain advertisement to you. We may share Usage Information about visitors with third party advertising companies, analytics providers and other vendors for similar purposes. While we may use a variety of service providers to perform advertising and analytic services, you may wish to visit the NAI, which provides information regarding this practice by Network Advertising Initiative ("NAI") members, including the "opt-out" procedures of NAI members.
 
-#### 7\. How to Access and Update Your Information
 
-To manage the information Traity receives about you from Facebook, you will need to follow the instructions in your "Account" and "Privacy Settings" on Facebook (or similar features as determined by Facebook) for updating your information and changing your privacy settings.
+There are certain exceptional circumstances in which we may disclose your information to third parties. This would be where we believe that the disclosure is:
 
-Once Traity receives your information from Facebook, that information is stored and used by Traity in accordance with this Privacy Policy.
+  * Required by the law, or in order to comply with judicial proceedings, court orders or legal or regulatory proceedings.
+  * Necessary to protect the safety of our employees, our property or the public.
+  * Proportionate as part of a merger, business or asset sale, in the event that this happens we will share your information with the prospective seller or buyer involved.
 
-We would hate to see you go, but if you no longer want Traity to make active use of your information, you can delete your account from the "settings" or opt out. Please note that some information may not be able to be deleted from all databases and backup records. Certain records, for example those pertaining to payments or customer service matters, will be retained for legal and accounting purposes. Also, if you have posted content on or through the Traity Services, we may not be able to delete it.
 
-#### 8\. Security of Your Information
 
-Traity implements commercially reasonable security measures to protect the security of your information, both online and ofﬂine, and we are committed to the protection of customer information. When you sign into your account or enter payment information (such as a credit card number when purchasing virtual currency), we encrypt the transmission of that information using secure socket layer technology ("SSL"). While we take reasonable precautions against possible security breaches of our websites and our customer databases and records, no website or Internet transmission is completely secure, and we cannot guarantee that unauthorized access, hacking, data loss, or other breaches will never occur. We urge you to take steps to keep your personal information safe (including your account password), and to log out of your account after use. If your Facebook account is hacked, this may lead to unauthorized use of your Traity application, so be careful to keep your account information secure.
+How long do We keep your personal information?
 
-#### 9\. Traity Widgets And Traity Content Found Outside The Traity Services
+We will only store your personal information for as long as we need it for the purposes for which it was collected. Where we provide you with any service, we will retain any information you provide to us at least for as long as we continue to provide that service to you.
 
-When you are using the Traity Services, you may be directed to other websites or online services that are operated and controlled by third parties that are beyond our control. In addition, Traity content and widgets may be included on web pages and web sites that are not associated with us and over which we have no control. These third parties may independently collect data. Traity is not responsible for the privacy practices of any third party.
+If there is a contract or information has been provided, the personal data will be kept for a period of five (5) years from its formalization, to guarantee the existence of a probative document during the period of prescription of debts. This term will be extended until the term of existence and claim of the debt ends, in the event that it has been interrupted.
 
-#### 10\. Changes/Consent To Transfer/Contact Us
+In all other circumstances, we will keep your information until you have exhausted any funds on your account, all claims and legal disputes have been settled, there is no direct risk of fraudulent activity from erasing the data and that your account can be determined to be permanently dormant.
 
-Traity may update this policy from time to time and any changes will be effective upon posting. We will notify you about signiﬁcant changes in the way we treat personal information by sending a notice to the primary email address speciﬁed in your Traity account or by placing a prominent notice on the Traity Site. The Traity Services are operated in the United States. If you are located outside of the United States, please be aware that information we collect will be transferred to and processed in the United States. By using the Traity Services, or providing us with any information, you fully understand and unambiguously consent to this transfer, processing and storage of your information in the United States, a jurisdiction in which the privacy laws may not be as comprehensive as those in the country where you reside and/or are a citizen of. If you have any questions, comments or concerns regarding our Privacy Policy and/or practices, please send an e-mail to contact@traity.com.
+What rights do you have in respect of your personal information?
 
-[ __]() Cookies help us to deliver our services. By using our services, you agree to our use of cookies. Accept
+**You have the right to be informed**
+
+We have a legal obligation to provide you with concise, transparent, intelligible and easily accessible information about your personal information and our use of it. We have written this policy to do just that, but if you have any questions or require more specific information, you can get in touch using Contact Us section of the Website.
+
+**You have the right to access your personal data**
+
+You have the right to ask us to confirm whether or not we hold any of your personal information. If we do, you have the right to have a copy of your information and to be informed of the following:
+
+  * Why we have been using your information
+  * What categories of information we were using
+  * Who we have shared the information with
+  * How long we envisage holding your information
+
+
+
+In order to maintain the security of your information, we will have to verify your identity before we provide you with a copy of the information we hold.
+
+The first copy of your information that you request from us will be provided free of charge. If you require further copies, we may charge an administrative fee to cover our costs.
+
+This is the link to download your data (after you log-in): <https://traity.com/account-data>
+
+**You have the right to correct any inaccurate or incomplete personal data**
+
+Where you have requested a copy of the information we hold about you, you may notice that there are inaccuracies in the records, or that certain parts are incomplete. If this is the case, you can contact us so that we can correct our records.
+
+**You have the right to be forgotten**
+
+There may be times where it is no longer necessary for us to hold personal information about you. This could be if:
+
+  * The information is no longer needed for the original purpose that we collected it for
+  * You withdraw your consent for us to use the information (and we have no other legal reason to keep using it)
+  * You object to us using your information and we have no overriding reason to keep using it
+  * We have used your information unlawfully
+  * We are subject to a legal requirement to delete your information
+
+
+
+In those situations, you have the right to have your personal data deleted. If you believe one of these situations applies to you, please get in touch using our Website.
+
+**You have the right to have a copy of your data transferred to you or a third party in a compatible format**
+
+Also known as data portability, you have the right to obtain a copy of your personal data for your own purposes. This right allows you to move, copy or transfer your personal data more easily from one IT system to another, in a safe and secure way.
+
+If you would like us to transfer a copy of your data to you or another organisation in a structured, commonly use and machine-readable format, please contact us. There is no charge for you exercising this right.
+
+**You have the right to object to direct marketing**
+
+You can tell us at any time that you would prefer that we do not use your information for direct marketing purposes. If you would not like to receive any direct marketing from us, please contact us or use the links provided in any of our marketing communications, and we will stop sending direct marketing immediately.
+
+**You have the right to object to us using your information for our own legitimate interests**
+
+Sometimes, we use your personal information to achieve goals that will help us as well as you. This includes:
+
+  * When we tell you about products or services that are similar to ones that you have already bought
+  * When we use your information to help us make our business better
+  * When we contact you to interact, communicate or let you know about changes we are making
+
+
+
+We aim to always ensure that your rights and information are properly protected. If you believe that the way we are using your data is not justified due to its impact on you or your rights, you have the right to object. Unless we have a compelling reason to continue, we must stop using your personal data for these purposes.
+
+In order to exercise your right to object to our use of your data for the purposes above, please contact us.
+
+**You have the right to restrict how we use your personal data**
+
+You have the right to ask us to stop using your personal data in any way other than simply keeping a copy of it. This right is available where:
+
+  * You have informed us that the information we hold about you is inaccurate, and we have not yet been able to verify this
+  * You have objected to us using your information for our own legitimate interests and we are in the process of considering your objection
+  * We have used your information in an unlawful way, but you do not want us to delete your data
+  * We no longer need to use the information, but you need it for a legal claim
+
+
+
+If you believe any of these situations apply, please contact us.
+
+**You have rights related to automated-decision making and profiling**
+
+Any automated decision-making or profiling we undertake is solely for the purpose of tailoring the information which we provide to you. We will not use automated decision-making or profiling to make any decisions which will have a legal effect upon you or otherwise significantly affect you, and you have the right not to be subject to such decisions. If you have any concerns or questions about this right, please contact us.
+
+Use of Cookies
+
+On occasion, we may gather information about your computer for our services and to provide statistical information regarding the use of our Website.
+
+Such information is statistical data about our visitors and their use of our site.
+
+We may gather information about your general internet use by using a cookie file. Where used, these cookies are downloaded to your computer automatically. This cookie file is stored on the hard drive of your computer as cookies contain information that is transferred to your computer's hard drive. They help us to improve our Website and the service that we provide to you.
+
+Everything is described in detail in our [Cookies Policy](https://web.archive.org/cookies).
+
+Changes to our Privacy Policy
+
+Any changes we make to our Privacy Policy in the future will be posted on this page and, where appropriate, notified to you by email. Please check back frequently to see any updates or changes to our Privacy Policy.
+
+This version was last updated on 22/05/2018 and historic versions can be obtained by contacting us.
+
+Complaints
+
+If you wish to make a complaint about our collection or use of your personal data, please contact us so that we may seek to resolve your complaint.
+
+You have the right to lodge a complaint with the Spain Information Commissioner: [Agencia Española de Protección de Datos](http://www.agpd.es/portalwebAGPD/temas/reglamento/index-ides-idphp.php).
+
+Contact Details
+
+Our Data Protection Officer is Miguel Torres, who can be contacted at the address below.
+
+Post:  
+Traitperception España, S.L.U.  
+Plaza de España, 12, 9º Izq  
+28008, Madrid, Spain  
+
+
+Email: Privacy@traity.com
