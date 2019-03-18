@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the designimo.com privacy policy that was archived on 2017-01-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170110034358id_/https%3A//www.designimo.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the designimo.com privacy policy that was archived on 2019-03-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190318193659id_/https%3A//www.designimo.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -34,7 +34,7 @@ Disclosures for Legal Reasons: We will disclose Personal Information when we are
 
 ### COLLECTION OF INFORMATION BY THIRD PARTIES
 
-Some of the materials included on the Sites, including advertising, are served by third parties, including Google. These third parties, in the course of serving such materials, may collect information regarding your use of the Sites (not including your name, address, email address or telephone number) by using cookies or other technologies. They may use this information in order to present you with advertisements or other content on both this Site and other web sites based on your prior visits to the Sites. Collection, use, disclosure and security of information collected by third parties are subject to the privacy policies of those third parties.
+Some of the advertisements you see on the Site are selected and delivered by third parties, such as ad networks, advertising agencies, advertisers, and audience segment providers. These third parties may collect information about you and your online activities, either on the Site or on other websites, through cookies, web beacons, and other technologies in an effort to understand your interests and deliver to you advertisements that are tailored to your interests. Please remember that we do not have access to, or control over, the information these third parties may collect. The information practices of these third parties are not covered by this privacy policy. 
 
 You may opt out of Google's use of cookies by visiting the Google advertising opt-out page and you may opt out of certain other third parties' use of cookies by visiting the Network Advertising Initiative opt out page. We may also use Remarketing Dynamic Ads, a feature that uses the Teracent cookie. You may opt out use of the Teracent Cookie by visiting the Teracent opt-out page. In addition, we may use DoubleClick's remarketing pixels, which you may opt out of by visiting either the DoubleClick opt-out page or the Network Advertising Initiative opt-out page.
 
@@ -46,9 +46,13 @@ We make no representations or warranties about any of these other companies or t
 
 If you would like us to stop sending you email or otherwise communicating with you; would like us not to disclose your Personal Information to marketing partners or advertisers; or would like to access your registration information to correct or delete it, you may send us a request at legalnotice(at)Designimo.com. We will endeavor to satisfy such requests within a reasonable time. Any marketing emails that we send you will provide an opportunity for you to opt out of receiving further such communications from us. Note that we may not be able to provide you with our services if we delete your information. We take reasonable steps to ensure that the information we collect is reliable for its intended use, accurate, complete and current.
 
+The Website Policies and Terms & Conditions may be changed or updated occasionally to meet the requirements and standards. Therefore the Customers’ are encouraged to frequently visit these sections in order to be updated about the changes on the website. Modifications will be effective on the day they are posted.
+
 ### SECURITY
 
 We maintain all Personal Information with physical, electronic, and managerial safeguards to help ensure the security and confidentiality of the data against reasonably foreseeable risks. Security is designed to prevent unauthorized use, access, disclosure, destruction, and changes of data. For example, we restrict access to our computing facilities to individuals identified by management as needing access to perform their jobs. 
+
+All credit/debit cards details and personally identifiable information will NOT be stored, sold, shared, rented or leased to any third parties. 
 
 ### CHILDREN
 
