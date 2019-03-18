@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 2ndskiesforex.com privacy policy that was archived on 2016-11-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161108142352id_/https%3A//2ndskiesforex.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 2ndskiesforex.com privacy policy that was archived on 2019-03-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190318212629id_/https%3A//2ndskiesforex.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Forex Trading Strategies & Tutorials - 2ndSkiesForex
 
