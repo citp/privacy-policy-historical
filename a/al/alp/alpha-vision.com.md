@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the alpha-vision.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606054600id_/http%3A//www.alpha-vision.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the alpha-vision.com privacy policy that was archived on 2019-03-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190318031611id_/https%3A//www.alpha-vision.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - Alpha Vision
+# Privacy Policy | Alpha Vision
 
 **Effective Date of this Privacy Policy** : October 9th, 2015
 
-This Privacy Policy explains how Alpha Vision handles the personal information that you provide to us on our Website. Your use of Alpha Vision Website is subject to this Privacy Policy and the Online [Terms of Use](https://www.similac.ca/en/terms-use/). Please read this Privacy Policy before using Alpha Vision Website or submitting personal information to us.
+This Privacy Policy explains how Alpha Vision handles the personal information that you provide to us on our Website. Your use of Alpha Vision Website is subject to this Privacy Policy and the Online [Terms of Use](https://www.alpha-vision.com/terms-of-use/). Please read this Privacy Policy before using Alpha Vision Website or submitting personal information to us.
 
 **What is “personal information” as used in this Privacy Policy?**
 
@@ -66,7 +66,7 @@ In general, Alpha Vision will only store your personal information for as long a
 
 **How can I contact Alpha Vision?**
 
-If you have questions about the scope, use, amendment, or deletion of personal information that you have provided to us, or if you would like to opt out of future communications from Alpha Vision, please contact us by clicking on the “Contact Us” link on www.www.alpha-vision.com/contact-us/ or by e-mailing us at [sales@www.alpha-vision.com](mailto:sales@www.alpha-vision.com). Alternatively, you may send a letter to the
+If you have questions about the scope, use, amendment, or deletion of personal information that you have provided to us, or if you would like to opt out of future communications from Alpha Vision, please contact us by clicking on the “Contact Us” link on [www.alpha-vision.com/contact-us](https://www.alpha-vision.com/contact-us/) or by e-mailing us at [sales@alpha-vision.com](mailto:sales@alpha-vision.com). Alternatively, you may send a letter to the
 
 Alpha Vision  
 400 Armand-Frappier, Ste 150  
