@@ -1,70 +1,118 @@
-> *The following text is extracted and transformed from the indialends.com privacy policy that was archived on 2016-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160502051507id_/https%3A//indialends.com/privacy-policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the indialends.com privacy policy that was archived on 2019-03-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190318102729id_/https%3A//indialends.com/privacy-policy) for the most accurate reproduction.*
 
 # IndiaLends - Privacy Policy | Lenders and Borrowers
 
-At Indialends we ask for and use your personal information and are committed to keep this information secure. This policy talks about why we ask for personal information and how we keep it secure. Please note that during the course of your relationship with the Indialends you will be given more of such information. 
+Last Updated on 29th March, 2018
 
-We request you to please consider it carefully. We also request you to review our privacy policy from time to time because your use of our products and services provided on this website implies your acceptance of the prevailing Privacy Policy. If you do not agree with this privacy policy in its entirety, you must not use this website or products and/or services provided on it. 
+This privacy policy (“ **Policy** ”) has been drafted in accordance with the Information Technology Act, 2000 and the Information Technology (Reasonable security practices and procedures and sensitive personal data or information) Rules, 2011. 
 
-### In this privacy policy, the following terms have the meanings set out below:
+GC Web Ventures Private Limited (hereinafter “ **IndiaLends** ” “ **Us** ”, “ **Our** ” “ **We** ”, which shall mean and include its affiliates, successors and assigns) owns and operates this website, whether accessible on [www.indialends.com](https://indialends.com/) or such other URL as may be designated by IndiaLends, or through a mobile application, if available, (“ **Website** ”). 
 
-i. “Indialends”, “we”, “us”, and “our” means GC Web Ventures Private Limited which owns and operates the website, [www.indialends.com](https://www.indialends.com/) (“ **Website** ”).  
-ii. “you” and “your” means a user of the website and the products and services provided via it.
+THIS POLICY DESCRIBES OUR POLICIES AND PROCEDURES FOR COLLECTION, USE, STORAGE, PROCESSING, DISCLOSURE AND PROTECTION OF ANY INFORMATION, INCLUDING, BUT NOT LIMITED TO, BUSINESS OR PERSONAL INFORMATION PROVIDED BY YOU AS A USER (hereinafter referred to as “YOU” “YOUR” or “USER”) WHILE USING THE WEBSITE. USER SHALL MEAN ANY PERSON/ PERSONS, WHO VISITS, USES, DEALS WITH AND/ OR TRANSACTS THROUGH THE WEBSITE AND INCLUDES A BROWSER. 
 
- **Information we collect from you**  
-During your use of the Website, we will collect such information from you including but not limited to the below mentioned:  
-(a) information about you when you register or when you use our Website / App;  
-(b) personal and financial information like your name, address, date of birth, contact information, billing information, PAN no., bank statements, pay slips, information relating to income and expenses obtained through bank SMS scraping and through integration with the Service Provider, etc.;  
-(c) credit related information that is collected from other sources like the credit bureau;   
-(d) Information about your transaction history like spend data, through our app. etc.  
-(e) your unique identifiers such as username and password, preferences information and transaction history;   
-(f) information collected through Facebook, Twitter, Linkedin or other social media accounts of the Users which have been linked to the account on the Website.  
-(g) information that you provide when you write directly to us (including by e-mail) or provide us over telephone;   
-(h) any other information that Indialends is required to collect as per specific mandate from any bank or as a requirement under applicable law;   
-(i) Information from you electronically - like the pages viewed, how you navigate through the website and interact with webpages, etc.
+THIS POLICY CONSTITUTES A LEGAL AGREEMENT BETWEEN YOU, AS THE USER OF THE WEBSITE, AND INDIALENDS, AS THE OWNER OF THE WEBSITE. YOU MUST BE A NATURAL PERSON, CITIZEN OF INDIA, WHO IS ATLEAST 18 YEARS OF AGE. 
 
-The information we collect about you will depend on the products and services we offer, on an ongoing basis. If you do not allow us to collect all the information we request, we may not be able to deliver all of these services effectively. 
+BY VISITING/ ACCESSING THE WEBSITE AND VOLUNTARILY PROVIDING US WITH INFORMATION (PERSONAL AND/ OR NON- PERSONAL), YOU ARE CONSENTING TO OUR USE OF IT IN ACCORDANCE WITH THIS POLICY. THIS POLICY DOES NOT APPLY TO THIRD-PARTY WEBSITES/ APPLICATIONS THAT ARE CONNECTED VIA LINKS TO THE WEBSITE. IF YOU DO NOT AGREE WITH THE TERMS AND CONDITIONS OF THIS POLICY, PLEASE DO NOT PROCEED FURTHER TO USE/ ACCESS THIS WEBSITE. 
 
-### How we will use this information
+YOUR USE OF THE WEBSITE WILL BE GOVERNED BY THIS POLICY AS APPLICABLE TO THE WEBSITE TOGETHER WITH ALL POLICIES, NOTICES, GUIDELINES, DISCLAIMERS THAT ARE PUBLISHED AND SHARED WITH YOU FROM TIME TO TIME WHICH ARE INCORPORATED HEREIN BY WAY OF REFERENCE INCLUDING BUT NOT LIMITED TO OUR [TERMS OF USE](https://indialends.com/terms-conditions) AND SUCH OTHER TERMS AS MAY BE APPLICABLE TO YOU IN YOUR CAPACITY AS A USER OF THE WEBSITE. THIS POLICY SHALL BE ENFORCEABLE AGAINST YOU IN THE SAME MANNER AS ANY OTHER WRITTEN AGREEMENT. 
 
-We may use the information provided by you in the following ways, viz:  
-(a) to establish identity and assess applications;   
-(b) monitor, improve and administer our Website;   
-(c) design our products, , offer our products and services, manage our risks including the risk of fraud;   
-(d) analyze how the Website is used, diagnose service or technical problems and maintain security;   
-(e) manage our relationship with you, or get in touch with you to send communications, notifications, information, or process queries and applications that you have made and/or inform you about other products or services we think you might find of some use;   
-(f) improve our business for us and our customer;   
-(g) comply with country laws and regulations;   
-(h) to capture the user information given in the application forms and other such information uploaded on our website by you such as KYC documentation, bank slips and credit information,;   
-(i) Share the information with multiple financial institutions and other lenders for customization of offers and provision of services;  
-(j) Share the documents uploaded by the User with other users for availing the servies as set out in the terms and conditions.  
-(k) use this information in other ways permitted by law. 
+THIS POLICY IS A PART OF THE WEBSITE TERMS AND CONDITIONS LOCATED [HERE](https://indialends.com/terms-conditions) AND ALL CAPITALIZED TERMS UNDER THIS POLICY THAT HAVE NOT BEEN SPECIFICALLY DEFINED HEREIN SHALL HAVE THE MEANING AS ASCRIBED TO IT UNDER THE WEBSITE TERMS AND CONDITIONS.
 
-We will take utmost care to ensure that your personal information is not shared with the public and that your transactions on the Website are confidential. If we use any third parties for any of these transactions we will also make sure that confidentiality is maintained.   
-We may also provide personal information about our customers to other organizations such as our channel partners and affiliates. We will ensure that any personal information we disclose to them is only used for the specific task we ask them to perform. 
+WE MAY UPDATE THIS POLICY FROM TIME TO TIME. YOU MUST PERIODICALLY REVIEW THE POLICY FOR THE LATEST INFORMATION ON OUR PRIVACY PRACTICES. 
 
-### Cookies
+## A. IndiaLends Collection of Information 
 
-Cookies are small data files that a website stores on your computer. We will use cookies on our Website similar to other lending websites and online marketplace websites. Use of this information helps us identify you in order to make our web portal more user friendly. We might also use this information to display advertising from third party companies. Most browsers will let you decline cookies but if you choose to do this it might affect service on some parts of our website. 
+During Your use of the Website, We will collect such information from You, including but not limited to: 
 
-We might also use other technology to track how you interact with our portal and employ some third party agencies to use the data on our behalf. 
+  1. Your name, address, date of birth, Aadhar information, contact information, billing information, marital status, PAN number, name of the bank where You have a primary account, bank statements, pay slips, information relating to income and expenses obtained through bank SMS scraping and through integration with our service provider, other KYC documents etc.; 
+  2. Details regarding Your employment, including, years of experience, details of income, name of the current employer, details of the office address, details regarding the years/months completed with the current employer; 
+  3. Information with respect to Your income tax returns; 
+  4. Credit related information that is collected from other sources like the credit bureau; 
+  5. Information about Your transaction history like spend data, call history, contact list and other related information through our mobile application; 
+  6. Your unique identifiers such as username and password, preferences information and transaction history; 
+  7. Information collected through Facebook, Twitter, Linkedin or other social media accounts of the Users which have been linked to the account on the Website. We may receive Your Personal Information from such social media websites/ applications, in accordance with the privacy policy of such sites/applications. Such information received from the other websites/platforms/applications at the time of accessing the Website may include, and not be limited to, the user name, profile picture, e-mail address associated with that particular website/ application, any information that has been made public in connection with that website/ application belonging to You and/ or any information or content the social media website/ application has the right to share with Us. By accessing or connecting to the Website through a social media website/ application, You authorize Us to collect, store, use and retain such information and content in accordance with this Policy. 
+  8. Information that You provide when You write directly to Us (including by e-mail) or provide Us over telephone; 
+  9. Recordings of telephonic conversations between You and our call center executives for any query or assistance;
+  10. Information with respect to IMEI code, details on whether Your phone supports dual sim cards, mobile network, name of the device, device operating systems and IP address;
+  11. Information relating to other mobile applications installed on Your device; 
+  12. Any other information that IndiaLends is required to collect as per specific mandate from any bank or as a requirement under applicable law; 
+  13. Clickstream data, including but not limited to the products browsed on Our Website, the pages viewed, how You navigate through the Website and interact with webpages, etc. 
 
-### Information security
 
-We store and process your personal information on Microsoft Azure cloud servers. We protect your information using physical, technical, and administrative security measures to reduce the risks of loss, misuse, unauthorized access, disclosure and alteration. Some of the safeguards we use are firewalls and data encryption using SSL, and information access authorization controls. 
 
-However, you understand and accept that there’s no guarantee that data transmission over the Internet will be completely secure and that any information that you transmit to us is at your own risk. We assume no liability for any disclosure of information due to errors in transmission, unauthorized third party access to our Website and data bases or other acts of third parties, or acts or omissions beyond our reasonable control and you shall not be entitled to hold Indialends responsible for any breach of security. 
+The information We collect about You will depend on the products and services We offer, on an ongoing basis. The information collected from You will be used in order to effectively provide Services to You. If You do not allow Us to collect all the information We request, We may not be able to deliver all of these services effectively. 
 
-### Third party websites
+## B. Use of Information 
 
-With this policy we’re only addressing the disclosure and use of data collected by us. If you visit any websites through the links on the Indialends Website please ensure you go through the privacy policies of each of those websites. Their data collection practices and their policies might be different from this policy and Indialends does not have control over any of their policies. 
+We may use the information provided by You in the following ways, viz: 
 
-We might post your data on various pages of our Website that will be visible to people other than registered users. If you wish to not have your information shared please let us know at [support@indialends.com](mailto:support@indialends.com). 
+  1. To establish identity and assess applications; 
+  2. Monitor, improve and administer our Website; 
+  3. Design and offer customized products and services offered by our third party partners, manage our risks including the risk of fraud that may be committed against Us or our partners; 
+  4. Analyze how the Website is used, diagnose service or technical problems and maintain security; 
+  5. Send communications notifications, information regarding the products or services requested by You or process queries and applications that You have made on the Website;
+  6. Manage Our relationship with You and provide You with or inform You about other products or services We think you might find of some use; 
+  7. Conduct data analysis in order to improve the Services provided to the User; 
+  8. Use the User information in order to comply with country laws and regulations; 
+  9. To conduct KYC for our third party partners based on the information shared by the User for the provision of Services. This would include conducting analysis of Your bank statements and eKYC. IndiaLends, may directly or through third parties, conduct the KYC on its customers. In the event the KYC as detailed under this clause is being conducted by its third party service providers, IndiaLends shares Your relevant information with such third party service providers for availing the said services;
+  10. Use the User information in other ways permitted by law. 
 
-If it so happens that Indialends is part of a merger, acquisition or amalgamation, your data might be part of the deal with that third party and will be transferred to them. 
 
-### Disclosure
 
-During the course of operations and our relationship with you we might disclose your information to third parties associated with Indialends and the government and other judicial bodies mandated by the law and in order to comply with legal obligations. 
+We will use and retain Your information for such periods as necessary to comply with Our legal obligations, resolve disputes, and enforce Our agreements.
 
-If you have any questions or concerns about our privacy policy please contact us at [support@indialends.com](mailto:support@indialends.com) and we will be happy to assist you. 
+## C. Cookies 
+
+Cookies are small data files that a Website stores on Your computer. We will use cookies on our Website similar to other lending websites and online marketplace websites. Use of this information helps Us identify You, the User behavior, the products that the User browses, in order to make our Website more user friendly and to be able to provide You with information relating to Products that may be of interest to You. We might also use this information to display advertising from third party companies. Most browsers will permit You to decline cookies but if You choose to do this it might affect service on some parts of Our Website. 
+
+We might also use other technology to track how You interact with Website and employ some third party agencies to use the data on our behalf for data analysis to determine Your use and journey on the Website. 
+
+## D. Storage of Information and Disclosure 
+
+Storage 
+
+We store and process Your personal information on Microsoft Azure, Amazon cloud servers and other cloud service providers. Some of the safeguards We use are firewalls and data encryption using SSL, and information access authorization controls. We use reasonable safeguards to preserve the integrity and security of Your information against loss, theft, unauthorised access, disclosure, reproduction, use or amendment. To achieve the same, We use reasonable security practices and procedures as mandated under applicable laws for the protection of Your information. Information You provide to Us may be stored on Our secure servers located within or outside India. 
+
+However, You understand and accept that there’s no guarantee that data transmission over the Internet will be completely secure and that any information that You transmit to Us is at Your own risk. We assume no liability for any disclosure of information due to errors in transmission, unauthorized third party access to our Website and data bases or other acts of third parties, or acts or omissions beyond our reasonable control and You shall not be entitled to hold IndiaLends responsible for any breach of security. 
+
+Disclosure 
+
+We may share Your information with third parties under a confidentiality agreement for provision of Services which inter alia restricts such third parties from further disclosing the information unless such disclosure is for the purpose as detailed under that confidentiality agreement. However, We are not responsible for any breach of security or for any actions of any third parties that receive Your personal information. 
+
+We will share Your information with third parties only in such manner as described below: 
+
+  1. We may disclose Your information to the financial service providers, banks or NBFCs and our third party partners for providing the Services as detailed under the Terms of Use;
+  2. We may share Your information with our third party partners in order to conduct data analysis in order to serve You better and provide Services;
+  3. We may disclose Your information, without prior notice, if We are under a duty to do so in order to comply with any legal obligation or an order from the government and/or a statutory authority, or in order to enforce or apply Our Terms of Use or assign such information in the course of corporate divestitures, mergers, or to protect the rights, property, or safety of Us, Our users, or others. This includes exchanging information with other companies and organizations for the purposes of fraud protection and credit risk reduction. 
+
+
+
+## E. Third Party Websites
+
+With this policy We are only addressing the disclosure and use of data collected by Us. If You visit any websites through the links on the IndiaLends Website, please ensure You go through the privacy policies of each of those websites. Their data collection practices and their policies might be different from this policy and IndiaLends does not have control over any of their policies. 
+
+We might publish Your data, excluding personally identifiable information as determined by Us, on various pages of our Website that will be visible to people other than registered users. If You wish to not have Your information shared please let us know at [support@indialends.com](mailto:support@indialends.com). 
+
+## F. Phishing
+
+“Phishing" usually occurs when users of a website are induced by an individual/entity into divulging sensitive personal data by using fraudulent websites and/ or e-mail addresses. In the event You provide information to a website or respond to an e-mail which does not belong to Us or is not connected with Us in any manner, You will be a victim of Phishing. We do not send e-mails requesting a User for payment information, user name or passwords. However, We may verify the user name, password etc. provided by You from time to time. 
+
+## G. Severability and Exclusion
+
+We have taken every effort to ensure that this Policy adheres with the applicable laws. The invalidity or unenforceability of any part of this Policy shall not prejudice or affect the validity or enforceability of the remainder of this Policy. This Policy does not apply to any information other than the information collected by IndiaLends through the Website. This Policy shall be inapplicable to any unsolicited information You provide Us through this Website or through any other means. This includes, but is not limited to, information posted in any public areas of the Website. All unsolicited information shall be deemed to be non-confidential and the Company shall be free to use and/ or disclose such unsolicited information without any limitations. 
+
+## H. Governing Law and Dispute Resolution
+
+This Policy shall be governed by and construed in accordance with the laws of the Republic of India. The courts at Bangalore, India shall have exclusive jurisdiction in relation to any disputes arising out of or in connection with this Policy. 
+
+## I. No Waiver
+
+The rights and remedies available under this Policy may be exercised as often as necessary and are cumulative and not exclusive of rights or remedies provided by law. It may be waived only in writing. Delay in exercising or non-exercise of any such right or remedy does not constitute a waiver of that right or remedy, or any other right or remedy. 
+
+## J. Contact Us
+
+If You require any information or clarification regarding the use of Your personal information or this Privacy Policy, You can contact us at [support@indialends.com](mailto:support@indialends.com). 
+
+If You have grievance with respect to use of Your personal information, please write to Us at [grievanceofficer@indialends.com](mailto:grievanceofficer@indialends.com). 
+
+The Company is a company based in India. By browsing/using the Application, You hereby acknowledge that the Company is not responsible or liable in any manner to comply with any local laws of Your territory except India. 
