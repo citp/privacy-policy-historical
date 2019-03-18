@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hitgrab.com privacy policy that was archived on 2018-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181214213935id_/http%3A//hitgrab.com/privacypolicy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hitgrab.com privacy policy that was archived on 2019-03-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190318020744id_/http%3A//hitgrab.com/privacypolicy.php) for the most accurate reproduction.*
 
 # 
 
