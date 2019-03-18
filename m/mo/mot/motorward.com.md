@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the motorward.com privacy policy that was archived on 2018-10-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181031134739id_/https%3A//www.motorward.com/2008/10/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the motorward.com privacy policy that was archived on 2019-03-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190318024606id_/https%3A//www.motorward.com/2008/10/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -26,6 +26,6 @@ You can chose to disable or selectively turn off our cookies or third-party cook
 
 Deleting cookies does not mean you are permanently opted out of any advertising program. Unless you have settings that disallow cookies, the next time you visit a site running the advertisements, a new cookie will be added.
 
-Rating: 6.0/ **10** (1 vote cast)
+Rating: 3.0/ **10** (3 votes cast)
 
-Privacy Policy, 6.0 out of 10 based on 1 rating 
+Privacy Policy, 3.0 out of 10 based on 3 ratings 
