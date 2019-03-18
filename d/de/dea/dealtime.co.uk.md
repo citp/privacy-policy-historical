@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the dealtime.co.uk privacy policy that was archived on 2018-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180503041144id_/http%3A//www.ebaycommercenetwork.com/uk/pp.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dealtime.co.uk privacy policy that was archived on 2019-03-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190318115533id_/http%3A//www.ebaycommercenetwork.com/uk/pp.html) for the most accurate reproduction.*
 
 # eBay Product Ads – Advertise your products to eBay shoppers - Home
 
 ### Your Privacy Rights
 
-This Privacy Policy ("Policy") describes your privacy rights regarding our collection, use, storage, sharing, and protection of your personal information. It governs your participation on the eBayCommerce.com, Shopping.com, Epinions.com, DealTime.com, and PriceTool.com websites (including the versions of these sites in foreign jurisdictions), their sister sites, and all co-branded versions of these sites or any successor brand that eBay may designate from time to time inits discretion (in the United States or foreign jurisdictions), which are referred to collectively as the "eBay Commerce Network" or "ECN," along with their related sites, applications, services, and tools, regardless of how you access or use them, including through mobile devices. 
+This Privacy Policy ("Policy") describes your privacy rights regarding our collection, use, storage, sharing, and protection of your personal information. It governs your participation on the eBayCommerceNetwork.com, Shopping.com and DealTime.com websites (including the versions of these sites in foreign jurisdictions), their sister sites, and all co-branded versions of these sites or any successor brand that eBay may designate from time to time in its discretion (in the United States or foreign jurisdictions), which are referred to collectively as the "eBay Commerce Network" or "ECN," along with their related sites, applications, services, and tools, regardless of how you access or use them, including through mobile devices. 
 
 You accept this Privacy Policy when you sign up for, access, or use our products, services, content, features, technologies, or functions offered on our websites and all related sites, applications, and services (collectively "eBay Commerce Network Services"). 
 
@@ -18,7 +18,7 @@ Scope and Consent
 
 | 
 
-By using the eBay Commerce Network, and its related sites, applications, services and tools, and/or registering for an account, you expressly consent to our collection, use, disclosure, and retention of your personal information as described in this Privacy Policy and in our [User Agreement](https://web.archive.org/web/20180503041144id_/http%3A//www.ebaycommercenetwork.com/uk/user-agreement.html "User Agreement").   
+By using the eBay Commerce Network, and its related sites, applications, services and tools, and/or registering for an account, you expressly consent to our collection, use, disclosure, and retention of your personal information as described in this Privacy Policy and in our [User Agreement](https://web.archive.org/web/20190318115533id_/http%3A//www.ebaycommercenetwork.com/uk/user-agreement.html "User Agreement").   
   
 ---|---  
   
@@ -44,7 +44,7 @@ Collection of Personal Information
 
 | 
 
-We collect the different types of personal information in order to provide you with the use of and access to our sites, applications, services, and tools, and to help us personalize and improve your experience. This includes information we collect automatically (such as device ID, device type, geo-location information, computer and connection information, statistics on page views, traffic to and from the sites, referral URL, ad data, IP address, standard web log information, and anonymous information collected through our use cookies and web beacons) and information you give us (such as information you enter on our sites or you provide to us in context of using our sites, applications, services, or tools). Occasionally, we may also receive or collect supplemental information about you from third parties. This may include, but is not limited to, demographic information, navigation information, additional contact information, credit check information, and additional information about you from credit bureaus or other sources, as permitted by law.   
+We collect the different types of personal information in order to provide you with the use of and access to our sites, applications, services, and tools, and to help us personalize and improve your experience. This information is necessary for the adequate performance of the contract between you and us, to enable us to comply with our legal obligations, and given our legitimate interest to provide and improve the functionalities of eBay Commerce Network. The information we collect includes information we collect automatically (such as device ID, device type, geo-location information, computer and connection information, statistics on page views, traffic to and from the sites, referral URL, ad data, IP address, standard web log information, and anonymous information collected through our use cookies and web beacons) and information you give us (such as information you enter on our sites or you provide to us in context of using our sites, applications, services, or tools). Occasionally, we may also receive or collect supplemental information about you from third parties. This may include, but is not limited to, demographic information, navigation information, additional contact information, credit check information, and additional information about you from credit bureaus or other sources, as permitted by law.   
   
 Social Media
 
@@ -64,12 +64,6 @@ Use and Disclosure
 
 We may share your personal information with the eBay family of companies or others as further described in the full Policy.   
   
-Information you share on the site
-
-| 
-
-Ratings, reviews, tags, comments, and other content you contribute may be displayed publicly on the eBay Commerce Network and elsewhere on the web, sometimes alongside your member or user name. Reviews submitted through our product review services cannot later be deleted. For some of our features, other members may be able to request email notifications of your new public content or publish their own comments to your reviews. We may use the public content to develop aggregate ratings, personalize site views, market products or identify or feature popular members. Your wish lists are public by default.   
-  
 Cookies
 
 | 
@@ -80,7 +74,7 @@ Access, review, and modification
 
 | 
 
-You can review and edit your personal information at any time by logging in to your account and reviewing your account settings and profile. You can close your account at any time by contacting Customer Support in the [United States](http://www.shopping.com/sc/contact-us "United States"), in the [United Kingdom](http://uk.shopping.com/sc/contact-us "United Kingdom"), in [France](http://fr.shopping.com/sc/contact-us "France"), in [Germany](http://de.shopping.com/sc/contact-us "Germany") or in [Australia](http://au.shopping.com/sc/contact-us "Australia") (for Shopping.com) or [clicking here](http://www.epinions.com/help/feedback_general.html "clicking here") (for Epinions.com).   
+You can review and edit your personal information at any time by logging in to your account and reviewing your account settings and profile. You can close your account at any time by contacting Customer Support in the [United States](http://www.shopping.com/sc/contact-us "United States"), in the [United Kingdom](http://uk.shopping.com/sc/contact-us "United Kingdom"), in [France](http://fr.shopping.com/sc/contact-us "France"), in [Germany](http://de.shopping.com/sc/contact-us "Germany") or in [Australia](http://au.shopping.com/sc/contact-us "Australia") (for Shopping.com).   
   
 Protection and Retention
 
@@ -98,13 +92,13 @@ Contact Us
 
 | 
 
-You may write to us at: eBay Inc. Attn: Legal - Global Privacy Practices, 2145 Hamilton Avenue, San Jose, California 95125, or by using the [Contact Us form](http://ocsnext.ebay.com/ocs/cusr?domain=Help&query=Privacy%20policy&from=1003146 "Contact Us form"). More information about the Global Privacy Office and how to contact us is available at our [eBay Privacy Center](http://www.ebayprivacycenter.com/about-us "eBay Privacy Center").   
+You may write to us at: eBay Inc., Attn: Legal - Global Privacy Practices, 2025 Hamilton Avenue, San Jose, California 95125, or by using the [Contact Us form](http://ocsnext.ebay.com/ocs/cusr?domain=Help&query=Privacy%20policy&from=1003146 "Contact Us form"). More information about the Global Privacy Office and how to contact us is available at our [eBay Privacy Center](http://www.ebayprivacycenter.com/about-us "eBay Privacy Center").   
   
 ### Scope and Consent
 
-When you use any of the eBay Commerce Network websites listed above, you are contracting with eBay Inc., with offices located at 2145 Hamilton Avenue, San Jose, CA 95125. If you reside outside of the United States, eBay Inc. is your data controller.
+When you use any of the eBay Commerce Network websites listed above, you are contracting with eBay Inc., with offices located at 2025 Hamilton Avenue, San Jose, CA 95125. If you reside outside of the United States, eBay Inc. is your data controller.
 
-By using the ECN websites or their related applications, services, and tools, or by registering for an account with any of our websites, you expressly consent to our collection, use, disclosure, and retention of your personal information as described in this Privacy Policy and in the eBay Commerce Network [User Agreement](https://web.archive.org/web/20180503041144id_/http%3A//www.ebaycommercenetwork.com/uk/user-agreement.html "User Agreement"), as well as to the transfer and storage of your personal information to our servers in the United States and elsewhere in the world where we have facilities.
+By using the ECN websites or their related applications, services, and tools, or by registering for an account with any of our websites, you expressly consent to our collection, use, disclosure, and retention of your personal information as described in this Privacy Policy and in the eBay Commerce Network [User Agreement](https://web.archive.org/web/20190318115533id_/http%3A//www.ebaycommercenetwork.com/uk/user-agreement.html "User Agreement"), as well as to the transfer and storage of your personal information to our servers in the United States and elsewhere in the world where we have facilities.
 
 ### Global Privacy Standards
 
@@ -126,7 +120,7 @@ The eBay Commerce Network websites are all general audience websites, and neithe
 
 You can browse our ECN websites without telling us who you are or revealing any personal information about yourself. Personal information is only associated to your account when you sign in as a registered user. If you register for an account with us, you choose to give us your personal information and are not anonymous to us. If you choose to provide us with personal information, you consent to the transfer and storage of that information on our servers located in the United States and around the world.
 
-We collect the following types of personal information in order to provide you with the use of and access to our sites, applications, services, and tools, and to help us personalize and improve your experience: 
+We collect the following types of personal information in order to provide you with the use of and access to our sites, applications, services, and tools, and to help us personalize and improve your experience. This information is necessary for the adequate performance of the contract between you and us, to enable us to comply with our legal obligations, and given our legitimate interest to provide and improve the functionalities of eBay Commerce Network. 
 
 **Information we collect automatically:** When you visit our sites, use our applications, services, and tools, or interact with our advertising or content, we automatically collect information sent to us by your computer, mobile device, or other access device. This information is associated with you personally only when you sign in as a registered user, and includes but is not limited to:
 
@@ -138,7 +132,7 @@ We collect the following types of personal information in order to provide you w
 **Information you give us:** We collect and store any information you enter on our sites or you provide to us in context of using our sites, applications, services, or tools. This may include, but is not limited to:
 
   * information you provide us when registering for an account, including email address, phone number, mobile telephone number, physical contact information, and (depending on the service used) sometimes financial information, such as credit card or bank account numbers;
-  * addition information you may provide to us via social media sites or services
+  * additional information you may provide to us via social media sites or services
   * transactional information based on your activities on the sites (such as bidding, buying, selling, item and content you generate or that relates to your account);
   * shipping, billing and other information you provide to purchase or ship an item;
   * information provided in the context of community discussions, chats, dispute resolution, correspondence through our sites, or correspondence sent to us
@@ -194,23 +188,13 @@ We may also share your personal information with:
 
 Without limiting the above, in an effort to respect your privacy and our ability to keep the community free from bad actors, we will disclose your personal information to law enforcement, other government officials, or other third parties only if such parties have a subpoena, court order, or substantially similar legal procedure, or if we believe in good faith that the disclosure of information is necessary to prevent imminent physical harm or financial loss or to report suspected illegal activity.
 
-### Information You Share on Site
-
-Some portions of the eBay Commerce Network allow you to contribute ratings, reviews, tags, comments, and other content, either on one of our websites or via our product review services on other websites. This content may be displayed publicly on the eBay Commerce Network and elsewhere on the web. The reviews and comments you publish may be displayed with your member or user name. Registered members can publish reviews by logging in to their accounts; reviews submitted through our product review services cannot be deleted once uploaded. For some of our features, other members may be able to request email notifications of your new public content or publish their own comments to your reviews. You can also choose to make your wish lists private, but they are public by default. 
-
-We may use the public content to develop aggregate ratings, personalize site views, market products or identify or feature popular members. For example, we may promote most popular or highest-earning reviews and members. While we do not expect to transfer the complete review rating and web of trust database to others (except as discussed in this policy), we use the database throughout our network and to generate results for others.
-
-Your ECN User ID is displayed throughout the eBay Commerce Network (and so it is available to the public), and is connected to all of your ECN activity. This means that other people can see the feedback, ratings, and comments associated with your User ID. Notices sent to other community members about suspicious activity and policy violations on our sites likewise refer to specific User IDs. Therefore, if you associate your name with your User ID, the people to whom you have revealed your name will be able to personally identify your ECN activities. 
-
-If you access our sites from a shared computer or a computer in an internet café, you must log out of your account after use, or else certain information about you such as your User ID, activity, or reminders from eBay may be visible to other individuals who use the computer after you.
-
 ### Cookies
 
-When you access our websites or use our applications, services, or tools, we may place small data files on your computer or other device. These data files may be cookies, pixel tags, "Flash cookies," or other local storage provided by your browser or associated applications ("Cookies"). We use these data files to help us identify you as a user, customize our services, content and advertising, to measure promotional effectiveness, and to promote trust and safety. For more detailed information on our use of Cookies, see , see [Cookies and Your Privacy](http://pages.ebay.com/help/account/cookies-web-beacons.html "Cookies and Your Privacy"). 
+When you access our websites or use our applications, services, or tools, we may place small data files on your computer or other device. These data files may be cookies, pixel tags, "Flash cookies," or other local storage provided by your browser or associated applications ("Cookies"). We use these data files to help us identify you as a user, customize our services, content and advertising, to measure promotional effectiveness, and to promote trust and safety. For more detailed information on our use of Cookies, see [Cookies and Your Privacy](http://pages.ebay.com/help/account/cookies-web-beacons.html "Cookies and Your Privacy"). 
 
 A few important things you should know about our use of Cookies: 
 
-  * We offer certain features that are available onlythrough the use of Cookies
+  * We offer certain features that are available only through the use of Cookies
   * We use both session and persistent Cookies. Session Cookies expire and no longer have any effect when you log out of your account or close your browser. Persistent Cookies remain on your device until you erase them or they expire
   * You are always free to decline Cookies if your browser permits, although doing so may interfere with your use of our websites, applications, and/or services and tools. Refer to the help section of your browser, browser extensions, or installed applications for instructions on blocking, deleting, or disabling Cookies
   * We encode and protect our Cookies so that only we can interpret the information stored in them
@@ -225,7 +209,7 @@ eBay Inc. does not tolerate spam on the eBay Commerce Network. We do not send em
 
 ### Accessing, Reviewing, and Changing Your Personal Information
 
-Registered members can review and change personal information at any time by accessing the member page on their country version of Shopping.com (the [United States](http://www.shopping.com/ "United States"),the [United Kingdom](http://uk.shopping.com/ "United Kingdom"), [France](http://fr.shopping.com/ "France"), [Germany](http://de.shopping.com/ "Germany") and [Australia](http://au.shopping.com/ "Australia") ) or [Epinions](http://www.epinions.com/myaccount.html "Epinions"). You should promptly update your personal information if it changes or becomes inaccurate. You can make your ECN wish lists private by clicking "MyLists" and indicating that you want to keep your lists private. You can close your Shopping.com account by contacting Customer Support for the following country versions of Shopping.com through the following links: the [United States](http://www.shopping.com/sc/contact-us "United States"), the [United Kingdom](http://uk.shopping.com/sc/contact-us "United Kingdom"), [France](http://fr.shopping.com/sc/contact-us "France"), [Germany](http://de.shopping.com/sc/contact-us "Germany") and [Australia](http://au.shopping.com/sc/contact-us "Australia"), or your Epinions account by clicking [here](http://www.epinions.com/help/feedback_general.html "here"). We may retain some information from closed accounts so that we can comply with law, prevent fraud, assist with investigations, resolve disputes, analyze or troubleshoot programs, enforce our User Agreement, or take other actions permitted by law. Likewise if your account or membership is terminated or suspended, we may maintain some information to prevent re-registration. 
+Registered members can review and change personal information at any time by accessing the member page on their country version of Shopping.com (the [United States](http://www.shopping.com/ "United States"),the [United Kingdom](http://uk.shopping.com/ "United Kingdom"), [France](http://fr.shopping.com/ "France"), [Germany](http://de.shopping.com/ "Germany") and [Australia](http://au.shopping.com/ "Australia") ). You should promptly update your personal information if it changes or becomes inaccurate. You can close your Shopping.com account by contacting Customer Support for the following country versions of Shopping.com through the following links: the [United States](http://www.shopping.com/sc/contact-us "United States"), the [United Kingdom](http://uk.shopping.com/sc/contact-us "United Kingdom"), [France](http://fr.shopping.com/sc/contact-us "France"), [Germany](http://de.shopping.com/sc/contact-us "Germany") and [Australia](http://au.shopping.com/sc/contact-us "Australia"). We may retain some information from closed accounts so that we can comply with law, prevent fraud, assist with investigations, resolve disputes, analyze or troubleshoot programs, enforce our User Agreement, or take other actions permitted by law. Likewise if your account or membership is terminated or suspended, we may maintain some information to prevent re-registration. 
 
 ### Protection and Retention
 
@@ -239,8 +223,9 @@ Our ECN websites may contain links to other third party websites. We are not res
 
 You'll sometimes see eBay Commerce Network content on other websites, labeled "Powered by eBay Commerce Network." For example, we syndicate our eBay Commerce Network listings for use on other companies' websites. These listings appear with another company's logo at the top of the page. When you browse these syndicated listings, you are subject to that company's privacy policy, and eBay Inc. does not collect any personal information about you or receive any personal information from these other companies. The privacy practices of our corporate family are consistent with those described in this Privacy Policy and our BCRs.
 
-You may also interact with our product review services on websites operated by other companies. When you submit reviews or other content using our product review services, the information we collect is subject to our policies. We clearly label our product review services with the ECN Privacy Policy and User Agreement. 
-
 ### Contact Us
 
-If your questions are not answered online, you may write to us at: eBay Inc. Attn: Legal - Global Privacy Practices, 2145 Hamilton Avenue, San Jose, California 95125, or using the [Contact Us](https://web.archive.org/web/20180503041144id_/http%3A//www.ebaycommercenetwork.com/uk/contact-us.html "Contact Us") form. More information about the Global Privacy Office or how to contact us is available at our [eBay Privacy Center.](http://www.ebayprivacycenter.com/about-us "eBay Privacy Center")
+If your questions are not answered online, you may write to us at: eBay Inc. Attn: Legal - Global Privacy Practices, 2025 Hamilton Avenue, San Jose, California 95125, or using the [Contact Us](https://web.archive.org/web/20190318115533id_/http%3A//www.ebaycommercenetwork.com/uk/contact-us.html "Contact Us") form. More information about the Global Privacy Office or how to contact us is available at our [eBay Privacy Center.](http://www.ebayprivacycenter.com/about-us "eBay Privacy Center")
+
+  
+Last update – May 18, 2018
