@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ichro.me privacy policy that was archived on 2018-07-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180722083248id_/https%3A//ichro.me/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ichro.me privacy policy that was archived on 2019-03-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190319035013id_/https%3A//ichro.me/privacy) for the most accurate reproduction.*
 
 # iChrome - Privacy Policy
 
