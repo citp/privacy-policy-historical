@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wmnlife.com privacy policy that was archived on 2018-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181217163125id_/http%3A//wmnlife.com/cookies-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wmnlife.com privacy policy that was archived on 2019-03-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190319151318id_/http%3A//wmnlife.com/cookies-policy) for the most accurate reproduction.*
 
 # Cookies policy
 
