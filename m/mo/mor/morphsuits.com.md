@@ -1,74 +1,71 @@
-> *The following text is extracted and transformed from the morphsuits.com privacy policy that was archived on 2018-01-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180110213345id_/https%3A//www.morphsuits.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the morphsuits.com privacy policy that was archived on 2019-03-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190319115453id_/https%3A//www.morphsuits.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Morph Costumes US
 
-### What information do we collect?
+**MorphCostumes Privacy Policy**
 
-  * We collect information from you when you register on the site, place an order, enter a contest or sweepstakes, respond to a survey or communication such as e-mail, or participate in another site feature.
-  * When ordering or registering, we may ask you for your name, e-mail address, mailing address, phone number, credit card information or other information. You may, however, visit our site anonymously.
-  * We also collect information about gift recipients so that we can fulfill the gift purchase. The information we collect about gift recipients is not used for marketing purposes.
-  * Like many websites, we use "cookies" to enhance your experience and gather information about visitors and visits to our websites. Please refer to the "Do we use 'cookies'?" section below for information about cookies and how we use them.
+MorphCostumes is a subsidiary of AFG Media Ltd. 
 
+At MorphCostumes we take your privacy and data protection seriously. In this document we explain what information we collect from you, why we collect that information and what you can do if you want your data removed from our systems. 
 
+**Information required for processing your order:**
 
-### How do we use your information?
+· So that we can accurately process your orders we need you to provide ‘Operational Information’ (including name, delivery address, e-mail address, phone number) and ‘Payment Information’ (including credit card information and billing address). 
 
-We may use the information we collect from you when you register, purchase products, enter a contest or promotion, respond to a survey or marketing communication, surf the website, or use certain other site features in the following ways:
+· When you complete your order all Payment Information goes directly to our trusted Payment Partners, PayPal or Braintree, so MorphCostumes does not see or store this information. If you would like to know more about PayPal or Braintree’s Privacy policies please check their company websites. 
 
-  * To personalize your site experience and to allow us to deliver the type of content and product offerings in which you are most interested.
-  * To allow us to better service you in responding to your customer service requests.
-  * To quickly process your transactions.
-  * To administer a contest, promotion, survey or other site feature.
-  * If you have opted-in to receive our e-mail newsletter, we may send you periodic e-mails. If you would no longer like to receive promotional e-mail from us, please refer to the "How can you opt-out, remove or modify information you have provided to us?" section below. If you have not opted-in to receive e-mail newsletters, you will not receive these e-mails. Visitors who register or participate in other site features such as marketing programs and 'members-only' content will be given a choice whether they would like to be on our e-mail list and receive e-mail communications from us.
+· The Operational Information from your order is passed to our trusted Warehouse and Courier Partners so that your order can be fulfilled. 
 
+· This Operational information is securely stored to comply with Tax legislation and incase you contact us regarding the order in future. 
 
+· If you would like us to delete all of your information that we retain please contact support@morphsuits.co.uk and request this. 
 
-### How do we protect visitor information?
+**Giving Permission to receive marketing material:**
 
-We implement a variety of security measures to maintain the safety of your personal information. Your personal information is contained behind secured networks and is only accessible by a limited number of persons who have special access rights to such systems, and are required to keep the information confidential. When you place orders or access your personal information, we offer the use of a secure server. All sensitive/credit information you supply is transmitted via Secure Socket Layer (SSL) technology and then encrypted into our databases to be only accessed as stated above.
+· When you sign up for our e-mail newsletters, opt in to receive marketing material or enter marketing competitions, we securely store your e-mail address so that we can communicate with you as you have requested. 
 
-### Do we use "cookies"?
+· When we ask you to sign up we will clearly explain how we will communicate with you in the future. 
 
-Yes. Cookies are small files that a site or its service provider transfers to your computer's hard drive through your Web browser (if you allow) that enables the site's or service provider's systems to recognize your browser and capture and remember certain information. Cookies are completely harmless to your computer and don't store personally identifiable information such as name, address or payment details, but they do provide us with encrypted information to help improve your experience of the website. For example, they help us to identify errors, suggest related and recommended products and allow you to connect with social media sites such as Facebook, Twitter, Google+ and Pinterest. Further, we use cookies if you have visited our website before to keep track of what you have in your basket and make it quicker and easier to manage your account, place an order or track your deliveries. We also use cookies to help us compile aggregate data about site traffic and site interaction so that we can offer better site experiences and tools in the future.
+· We do not sell, trade, or otherwise transfer your information to outside parties other than to fulfil the service you have requested e.g. your information will be given to our e-mail service provider so that you can receive our e-mails or your information will be given to a courier if you have won a competition. 
 
-As part of Morphsuit Costumes commitment to comply with recent EU legislation changes, and to ensure that we are absolutely clear about your privacy when using our website, we have detailed full information on cookies and how we use them on morphsuits.co.uk
+· If you would like to stop receiving these marketing materials then please unsubscribe from our mailing list by clicking ‘unsubscribe’ at the bottom of one of our e-mails. 
 
-We may contract with third-party service providers to assist us in better understanding our site visitors. These service providers are not permitted to use the information collected on our behalf except to help us conduct and improve our business.
+**Cookies:**
 
-You can choose to have your computer warn you each time a cookie is being sent, or you can choose to turn off all cookies. You do this through your browser (like Netscape Navigator or Internet Explorer) settings. Each browser is a little different, so look at your browser Help menu to learn the correct way to modify your cookies. If you turn cookies off, you won't have access to many features that make your site experience more efficient and some of our services will not function properly. However, you can still place orders over the telephone by contacting customer service.
+· Cookies are small files that our website transfers to your computer's hard drive that enables our site to recognize your browser and collect and remember certain information. 
 
-### Do we disclose the information we collect to outside parties?
+· Cookies are completely harmless to your computer and don't store personally identifiable information such as name, address or payment details, but they do provide us with encrypted information to help improve your experience of the website. 
 
-We do not sell, trade, or otherwise transfer to outside parties your personally identifiable information unless we provide you with advance notice, except as described below. The term "outside parties" does not include AFG Media Ltd. It also does not include website hosting partners and other parties who assist us in operating our website, conducting our business, or servicing you, so long as those parties agree to keep this information confidential. We may also release your information when we believe release is appropriate to comply with the law, enforce our site policies, or protect ours or others' rights, property, or safety.
+· For example, they allow you to connect with social media sites such as Facebook, Twitter, Google+ and Pinterest. They allow us to keep track of what you have in your basket, which makes it quicker and easier for you to return to your basket at a later date and to track your deliveries. 
 
-However, non-personally identifiable visitor information may be provided to other parties for marketing, advertising, or other uses.
+· We also use cookies to help us compile aggregate data about site traffic and site interaction so that we can offer better site experiences in the future. 
 
-How can you opt-out, remove or modify information you have provided to us?
+· If you don’t want us to place Cookies on your computer you can refuse when the Cookie permission pops up. If you want to remove Cookies that are already on your computer you can do this through your browser settings (like Chrome, Safari or Internet Explorer). Each browser is a little different, so look at your browser Help menu to learn the correct way to modify your Cookies or remove data. If you turn Cookies off, you won't have access to many features that make your site experience more efficient and some of our services will not function properly. 
 
-To modify your e-mail subscriptions, please let us know by modifying your preferences in the "My Account" section. Please note that due to email production schedules you may receive any emails already in production.
+**Marketing via other channels e.g. Facebook and Google Display Network:**
 
-To delete all of your online account information from our database, sign into the "My Account" section of our site and remove your shipping addresses, billing addresses & payment information. Please note that we may maintain information about an individual sales transaction in order to service that transaction and for record keeping.
+· We advertise MorphCostumes via social media platforms like Facebook and Online Display Networks like Google. 
 
-### Third party links
+· If you would like to no-longer see these ads there are two things you can do: 
 
-In an attempt to provide you with increased value, we may include third party links on our site. These linked sites have separate and independent privacy policies. We therefore have no responsibility or liability for the content and activities of these linked sites. Nonetheless, we seek to protect the integrity of our site and welcome any feedback about these linked sites (including if a specific link does not work).
+o Clear your browser data as explained above. 
 
-### Changes to our policy
+o Change your preferences with the platform where you saw the ad. For example in Facebook you go to Settings – Ads – Ad Settings. 
 
-If we decide to change our privacy policy, we will post those changes on this page. Policy changes will apply only to information collected after the date of the change. This policy was last modified on August 6, 2003.
+**How we protect your information:**
 
-### Questions and feedback
+· We have a range of systems and processes in place to ensure your personal information is securely stored. 
 
-We welcome your questions, comments, and concerns about privacy. Please send us any and all feedback pertaining to privacy, or any other issue.
+· Our site is hosted on secure servers and all information is transmitted via Secure Socket Layer (SSL) technology. 
 
-### Online Policy Only
+**Disclosing your personal information to outside parties:**
 
-This online privacy policy applies only to information collected through our website and not to information collected offline.
+· As mentioned above we only share your information with trusted partners who are essential to fulfilling your order and managing our business. 
 
-### Terms and Conditions
+· We do not share your information with any third parties for marketing purposes. 
 
-Please also visit our Terms and Conditions section establishing the use, disclaimers, and limitations of liability governing the use of our website.
+· We may also release your information when we are legally required to do so. 
 
-### Your consent
+**Questions and Feedback:**
 
-By using our site, you consent to our privacy policy.
+· If you have any questions or concerns please contact support@morphsuits.co.uk 
