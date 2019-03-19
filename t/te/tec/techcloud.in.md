@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the techcloud.in privacy policy that was archived on 2017-08-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170827013105id_/http%3A//techcloud.in/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the techcloud.in privacy policy that was archived on 2019-03-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190319145831id_/https%3A//techcloud.in/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Tech.Cloud
 
@@ -36,6 +36,7 @@ We along with third-party vendors, such as Google use first-party cookies (such 
 **Copyrights  
 **Extreme caution has been taken to make sure that there are no copyright infringements in terms of the multimedia content and the subject matter that is posted on this blog. If you find anything that could be considered a violation of the copyright norms, please [contact us](http://techcloud.in/contact-us/ "Contact Us") immediately.
 
-**Tech.Cloud Content Copyright Notice**
+**Changes to this Privacy Policy**  
+We reserve the right to make change to this Privacy Policy.
 
-The entire content of this website is copyrighted to _**Arpit Roy**_ and should not be reproduced anywhere else without written authorization from the owner. Websites that are copying content in the form of RSS feeds, bots or manual methods without the explicit permission of the owner will be reported to their web host with a DMCA takedown notice.
+Last modification was made May 24, 2018.
