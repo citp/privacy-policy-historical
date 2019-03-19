@@ -1,150 +1,112 @@
-> *The following text is extracted and transformed from the halldis.com privacy policy that was archived on 2016-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161217185338id_/http%3A//www.halldis.com/content/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the halldis.com privacy policy that was archived on 2019-03-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190319160018id_/https%3A//halldis.com/privacy) for the most accurate reproduction.*
 
-# Privacy Agreement - Halldis
+# Halldis | Privacy Policy
 
-## Privacy policy
+Effective date: May 14, 2018
 
-Update: February 2016  
-Welcome to Halldis, the website of Windows on Europe SpA.
+Welcome to Halldis’ website, which is property of Halldis SpA (hereinafter “Halldis”), Data Controller based in Piazza IV Novembre, 7, 20124, Milan. The email address of our Privacy Officer is [privacy.officer@windowsoneurope.com](mailto:privacy.officer@windowsoneurope.com).
 
-Your privacy is very important to us, so we want to inform you of the ways in which we collect and use information about you.
+Your privacy is very important to us and therefore we want to inform you about how we collect and use your information.  
+Our company has always paid particular attention to the processing and protection of personal data of its Customers, Users, Suppliers, Collaborators, and all those with whom it comes into contact. For this reason, in order to ensure maximum compliance with the law, Legislative Decree of June 30, 2003 n. 196 and the EU Regulation 2016/679, Halldis has adopted a suitable Privacy Organizational Model.
 
-Windows on Europe SpA, the Data Controller, with an office in Milan, Piazza IV Novembre 7, a company belonging to the Windows on Europe Group, has always given special attention to processing and protection of personal data of its Clients, Users, Suppliers, Collaborators and all other entities it has a relationship with. For this reason, in order to assure the closest adherence to the regulation in Legislative Decree 30 June 2003 n. 196, our Company created a specific organization by adopting a suitable Model of Organizational Privacy.
+The Code and the Regulation in question requests that those who carry out processing of personal data are required to inform the person involved on what data is processed and regarding certain elements: it must be lawfully and transparently done, protecting your privacy and your rights. In accordance with the provisions of Article 13 of Legislative Decree 196/2003 and Articles 13 and 14 of EU Regulation 2016/679, we provide the following information.
 
-This Privacy Policy applies to our methods of using all the personal data provided via the functions of the Halldis site through email, telephone, messages or paper correspondence.
+**Why?**  
+This page describes how we manage our website in relation to the processing of its users’ personal data.
 
-Windows on Europe SpA reserves, furthermore, the right to change this Privacy Policy at any time: We invite you, therefore, to return to this page frequently in order to check for possible modifications. Your use of the Site and our Services implies acceptance of our Privacy Policy as it is amended from time to time.
+This is information that is made available to those who interact with Halldis’ web services, accessible electronically at: [www.halldis.com](http://www.halldis.com/).
 
-Windows on Europe SpA, in thanking you for having provided your personal data to us, informs you of the processing goals and methods intended for them, distinguishing among:
+This information is provided only for Halldis’ website and is not intended for other websites that may be consulted by the user through links.
 
-Website users  
-Clients and Suppliers  
-Job applicants
+This information is also based on the [Recommendation n. 2/2001](http://www.garanteprivacy.it/garante/doc.jsp?ID=1609845) that the European authorities created for the protection of personal data, established by [art. 29 of the directive n. 95/46/CE](http://www.garanteprivacy.it/garante/document?ID=432175), adopted on May 17, 2001 to identify certain minimum requirements for the collection of personal data online, and, in particular, the methods, timing, and nature of the information that the data controllers must provide to the users when they connect to websites, regardless of the purpose of the connection.
 
-Your rights and Responsibilities regarding your data
+**#InShort**  
+This privacy statement describes our privacy practices, what information we collect about our visitors and users, how we collect them, what we do with them, how we protect them and the rights of the User with respect to their information.
 
-First, we remind you that, according to section 7 of Legislative Decree 196/2003, provided below, it is your right, among others, to know which of your personal data we process as well as requesting its integration, correction or deletion.
+**What information do we collect?**  
+**Navigation data**  
+The computer systems and software procedures used to operate this website acquire, during its normal operation, some personal data whose transmission is implicit in the use of Internet communication protocols.  
+This is information that is not collected to be associated with identified interested parties, but which by its very nature could, through processing and association with data held by third parties, allow users to be identified.  
+This category of data includes IP addresses or domain names of the computers used by users connecting to the website, the addresses in the Uniform Resource Identifier (URI) notation of the requested resources, the time of the request, the method used to submit the request to the server, the size of the file obtained in response, the numerical code indicating the status of the response given by the server (success, error, etc.) and other parameters relating to the operating system and the user’s computer environment.  
+This data is used for the sole purpose of obtaining anonymous statistical information on the use of the website and to check its correct functioning, and are deleted immediately after processing. The data could be used to ascertain responsibility in case of hypothetical computer crimes to the website.
 
-To exercise these rights, contact the Person in Charge of processing at the following email address: privacy.officer@windowsoneurope.com, or at the postal address of our organization’s office.
+**Cookies**  
+Our Cookie Policy can be seen  _[here](https://halldis.com/cookies)_.
 
-The complete list of all those responsible for processing personal data, appointed by us, is available by contacting our Person in Charge of processing.
+Data provided voluntarily by the user  
+The optional, explicit, and voluntary sending of emails to the addresses indicated on this site or the completion of specific forms, involves the subsequent acquisition of the sender’s address and personal data necessary to respond to requests and / or to provide the requested services, as well as any other personal data included in the message (and in the attachments thereto) or in the appropriate forms.  
+The data will be processed in computer and telematic modes, to respond to requests and / or provide the requested service.
 
-Section 7 (Right to access personal data and other rights)
+**#InShort**  
+We collect two types of information: Personal Information (which can be used to uniquely identify an individual) and Non-Personal Information (which does not allow identification).
 
-1\. The subject has the right to confirm the existence or lack thereof of personal data regarding him, even if not yet recorded, and their communication to him in a readable format.
+We collect information about our users, visitors, and job applicants.
 
-2\. The subject has the right to obtain an index of a) the origin of the personal data; b) the purposes and types of processing; c) the logic applied if processing is performed electronically; d) the identification of the owner, the Persons in Charge, and the representative designated in accordance with section 5, paragraph 2; e) the subjects or categories of subjects to whom personal data may be communicated or who may become aware of them in their role as designated representatives in the territory of the State, the Persons in Charge, or the Appointees.
+**Why do we collect this information?**  
+We collect such information for the following purposes:  
+✓ To respond to your requests;  
+✓ To send you our Newsletter;  
+✓ To provide and manage our Services;  
+✓ To further develop, customize, and improve our Services based on the preferences, experiences, and common or personal difficulties of Visitors and Users;  
+✓ Provide our Customers with customer assistance and continuous technical support;  
+✓ Consider the candidacy of Candidates for recruitment  
+✓ Comply with legal obligations.
 
-3\. The subject has the right to obtain: a) updates, corrections, or, when necessary, supplementation of data; b) deletion, rendering anonymous, or blockages of data handled in violation of the law, including those data not required to be stored relevant to the purposes for which the data were obtained or later handled; c) notification that the operations referred to in a) and b) were made known, including regarding their content, to the subjects to whom the data were provided or distributed, excepting cases in which accomplishing this is revealed to be impossible or involves taking measures manifestly disproportionate to the protected right. 
+**#InShort**  
+We collect and use information to provide our services and make them better and safer.
 
- 4\. A data subject has the right to object, in whole or in part: a) for legitimate reasons to the handling of personal data regarding them, even if pertinent to the goal of the collection; b) to the handling of personal data regarding him in order to send advertising material or direct sales material, or for the performance of market research or commercial communications. 
+In addition, we collect and use this information to contact our visitors, users, and candidates for recruitment and to comply with applicable laws.
 
- DISCLOSURE TO WEBSITE USERS
+**Who do we share your information with?**  
+Halldis may share your Information with third parties (or otherwise grant them access) only in the following ways and in the following cases:
 
-In this page we describe the site’s management methods with reference to processing personal data of the users who consult it. The processing is always based on principles of lawfulness and accurate compliance with all regulations in force.
+**Third party services  **  
+Halldis collaborates with a number of selected service providers, whose services and solutions are integrated with ours, to facilitate and improve them.  
+These are hosting and co-location server services, communications, IT security services, billing and payment processing services, marketing services, fraud detection and prevention services, web analysis, newsletter distribution and monitoring services, session registration and remote access services, content providers, and our legal and financial advisors.  
+Such Third Party Services may receive or otherwise have access to the Personal Information of our Users, in its entirety or in part, depending on its particular role and purpose aimed at facilitating and improving our Services and may use them only for such purposes.
 
-This privacy police is also provided as a disclosure in compliance with section 13 of Legislative Decree 196/03 (Italian regulation on processing personal data in compliance with directive 95-46–CE) to those who interact with the web services on this site, for the purposes of protecting personal data, available online from www.halldis.com corresponding to the initial page of the official Halldis site. The disclosure is provided only for the Halldis site and not for other websites possibly consulted by the user through links. They are independent Owners of processing and therefore we refer you back to the site in question.
+**Compliance with legal obligations**  
+Halldis may disclose or otherwise grant access to the User’s Personal Information to others by virtue of legal obligation, such as a court summons, a judicial proceeding, a search warrant, a court order, or under applicable law, if it believes in good faith that this conduct is required by law, with or without prior notice to the User.
 
-This disclosure is prompted as well by Recommendation n. 2/2001 that the European authorities for personal data protection, convened in the Group required by section 29 of directive n. 95/46/CE, adopted 17 May 2001 to identify minimum requirements for the collection of personal data online and, in particular, the methods, the time and the nature of the information that the Owners of the processing must provide to users when they link to web pages, regardless of the purpose of the link.
+**Social media functionality**  
+Our website may include certain Social Media features and widgets, such as the “Like Facebook” button, the “Share” button or other interactive mini-programs. These Social Media Capabilities can collect information such as the IP address of the User or page you are visiting on our Site and may release a cookie to allow proper operation.  
+The Social Media features are hosted by third parties. The User’s interactions with these third parties are governed by their information and not by our own.
 
-Processing the data freely given by you will be performed in accordance with the regulations in force. In particular, the processing will be done in accordance with principles of accuracy, lawfulness and transparency, relevance, completeness and avoidance of excess; the data will be collected and recorded for the purposes in the following point and kept for a period of time strictly necessary for those purposes.
+**Companies related to Halldis  **  
+We may share Personal Information internally with companies in our group, for the purposes described in this Privacy Policy. Furthermore, in the event of a change in the corporate control structure of Halldis SpA or an affiliate thereof, for example through the merger, acquisition, or purchase of substantially all of its assets, the User’s Personal Information may be shared with the parties involved in this event.  
+If we believe in good faith that this change in the corporate control structure could substantially affect the User’s Personal Information stored with us, we will inform the User by email and / or we will communicate this on our Website and the choices available to the User in relation to their Personal Information.
 
-Types of data processed, methods of processing, goals of processing, whether optional or not.
+**#InShort**
 
-Net browsing data  
-The information systems and software procedures that govern the functioning of the website acquire, in the course of their operations, some personal data, the transmission of which is implicit in the use of Internet communication protocols.  
-Such information is not collected with the intention of matching it to the interested parties, although by its very nature, and through the processing and linking of data held by third parties, it might enable the identification of users. This category of data includes IP addresses or domain names of the computers used by visitors to the website, URI (Uniform Resource Identifier) addresses of requested resources, the time of the request made, the method used to submit the request to the server, the size of files received by way of response, the numerical code which indicates the status of the response given by the server (successful, error, etc.) as well as other parameters associated with the operating system and the IT environment of the user.  
-This data is used with the sole aim of extracting anonymous, statistical information regarding the use of the website and to ensure that the latter is operating correctly. The data is eliminated immediately after being analyzed. Should the website be subject to cyber crime, such data could be used for investigation purposes and might enable the identification of the responsible party.
+We may share information about our visitors and users with third parties, including certain service providers and law enforcement officials.  
+The information can be shared only in compliance with this policy.
 
-Data voluntarily supplied by the user
+**When can we contact you?**  
+**Promotional content**  
+By subscribing to our newsletter and providing us with an email address or other contact information, you expressly agree to receive promotional content by email.  
+If you do not wish to receive such promotional messages, you may notify Halldis at any time or follow the cancellation or unsubscribe instructions contained in the promotional communications received.
 
-The optional, explicit and voluntary transmission of information obtained, from the relevant compilation of forms or the sending of emails to the addresses indicated on this website, entails the subsequent acquisition of the sender’s address, and their personal data needed to respond to these requests; and/or providing the services requested, by using the personal data enclosed within the message (and attachment documents) or on forms provided.
+**#InShort**  
+With explicit consent, the User can receive our messages and promotional content.  
+The User can choose not to receive promotional messages simply by contacting us or using our cancellation options.
 
-All information and e-mails received are stored indefinitely on a server protected by appropriate security measures. Interested parties can fully exercise their rights under Article 7 of the Legislative Decree 196/2003, and in particular they can obtain information with regards to their personal data present in the archive, and request its cancellation by writing to the Data Controller directly at privacy.officer@windowsoneurope.com. 
+**How long do we keep your information?**  
+We may retain the User’s Personal Information as long as necessary for the provision of our Services.  
+We may continue to retain such Personal Information even after the termination of the use of any particular Service, to the extent that it is reasonably necessary to comply with legal obligations, resolve disputes concerning our Users, prevent fraud and abuse, respect the contracts signed, and / or protect our legitimate interests.
 
-When replying to enquiries and/or supplying services requested, the data supplied will be handled using informational and network procedures. The supply of personal data is always voluntary. Failure to provide such data will lead only to the inability of Halldis to satisfy any given request.
+**#InShort**  
+We may retain your information as long as necessary for the provision of our Services and for as long as necessary (for example, to comply with a legal obligation or to protect our interests).
 
-Your data may be disclosed by us (for the purpose of data retention to one or more subjects) to parties who have the right to access such information as sanctioned by legal provisions, regulations and/or EU directives regarding data handling. It also may be communicated to third parties when considered strictly necessary, in order for such parties to execute activities connected to the relationship between such users and our company (this includes indicative credit institutions).
+**Your rights and how to contact us**  
+We remind you that you have the right, at any time, to obtain confirmation of the existence or absence of your personal data treated by us and to know its content and origin, verify its accuracy, or request its integration, updating, rectification.
 
-Newsletter subscribers
+You also have the right to request the cancellation, transformation into an anonymous form, or blocking of data processed in violation of the law, as well as to request the limitation, or oppose in any case, for legitimate reasons, to its treatment.
 
-For Clients who wish to be promptly informed via e-mail about our activities, you can subscribe to our Newsletter by following the steps that are indicated in the relevant section of our website. Each email address that is signed up to receive our Newsletter, will not receive more than 1 message per week, except in particularly relevant cases. Within each message there can be the presence of a public announcement or a short advertisement.
+Requests should be addressed:  
+✓ via email, to our Privacy Officer: privacy.officer@windowsoneurope.com  
+✓ or via mail to: Privacy Officer – Halldis SpA, Piazza IV novembre, 7, 20124, Milan.  
+#InShort
 
-The personal information requested (email address) is indispensable for the service described above, and will be used for automatic and/or manual procedures only for this purpose. Your data will not under any circumstances be disclosed or distributed to third parties Remember that, at the time of distribution of the Newsletter, you can easily unsubscribe from our mailing list by clicking on the link at the bottom of the email. The discontinuation of the subscription will require your immediate feedback. After the subsequent deletion of an address, it is no longer recoverable. 
+The User and all interested parties can ask by email or letter to access the personal data processed by us, and ask for its correction or cancellation.
 
- Profiling  
-Our Profiling Policy is accessible [here](http://www.halldis.com/content/profiling-policy).
-
-Cookies
-
-Our Cookie Policy is available [here](http://www.halldis.com/content/cookie-policy).  
-  
-Location of data processing and scope of communication or broadcast.
-
-The data related to the web services of this site are processed by the Provider, within limits strictly necessary for providing the hosting service, at our organization’s office only by technical staff charged with processing and at the Servers of Google, Inc., 1600 Amphitheatre Parkway, Mountain View, California, 94043 - USA, or by possible persons charged with occasional maintenance operations. Your data may be communicated to parent, subsidiary or affiliate companies in accordance with section 2359 of the Italian Civil Code or to businesses under common control, for administrative accounting purposes as defined in section 34, paragraph 1-b of Legislative Decree 196/2003, or those involved in the performance of activities of an organizational, administrative, financial or accounting nature, regardless of the nature of the data processed.
-
-Your rights and the related ways to exercise them are reported in the beginning of this Privacy Policy.  
-  
-DISCLOSURE TO CLIENTS AND SUPPLIERS
-
-The nature of the data processed
-
-Windows on Europe SpA processes Your personal and financial data, as well as other personal data of a nature normally necessary for the performance of contractual relationships, current or future, with our company.
-
-Goals of processing
-
-Your data will be processed in connection with contractual obligations, and the consequent fulfilment of legal and financial obligations, as well as to permit effective management of financial and business relationships.
-
-Your data will be processed for the entire duration of the contractual relationship and thereafter, for the fulfilment of legal obligations and for administrative and business purposes.  
-  
-Objections to processing for business purposes: opt-out.
-
-The details you provided in email or paper correspondence may be used by Windows on Europe SpA in order to send direct advertising or sales materials or for the accomplishment of market or advertising research. This promotional activity may be related only to goods and services similar to the subject of the contractual relationship. We remind you that, upon our collection of Your data and in every communication sent regarding the mentioned purposes, you may object to processing by simply contacting our Person in Charge of replying, available at the email address privacy@halldis.com, or the postal address of our organization’s office, or by clicking on the “unsubscribe me” links provided at the bottom of electronic communications sent to you. You will receive an immediate reply to your request to stop processing.
-
-Methods of processing
-
-Data processing is done through the use of tools and processes suited to assure their safety and discretion and may be done either through paper backup or through the use of electronic means.
-
-Obligation or right to provide data
-
-As regards the data that we are required to know in order to fulfil our legal obligations, rules and public regulations or provisions issued by Authorities legally allowed to do so, or by units performing surveillance and inspection, Your withdrawal of permission constitutes the impossibility of establishing or continuing the relationship, as such data are necessary in the execution of the same. As regards the data we are not required to know, withdrawal of permission will be evaluated each time and will determine the consequent decisions, related to the importance to our organization of data requested and not provided.  
-  
-Scope of knowledge and communication of Your data
-
-Only executives, managers, accountants, administrators, operations management, or external consultants may access Your data in their roles as Persons in Charge or Trustees of processing appointed by this Organization. We may communicate your data (meaning by this term providing access to one or more defined subjects) to subjects who can access the data as provided by law, regulation or legislation, within the limits set forth in such regulations, as well as to subjects who need to access Your data for purposes auxiliary to the relationship between You and us, within limits strictly necessary to perform those auxiliary tasks.
-
-We may, moreover, communicate the data to parent, subsidiary or affiliate companies in accordance with section 2359 of the Italian Civil Code or to companies under common control, for administrative accounting purposes as defined in section 34, paragraph 1-b of Legislative Decree 196/2003, or those connected to the performance of organizational, administrative, financial and accounting activities, regardless of the nature of the data being processed. In particular, internal organizational activities, those needed for the fulfilment of contractual and pre-contractual obligations, to the management of the work relationship in all phases, to bookkeeping and the application of regulations of a financial, trade, social security and welfare, health, hygiene and work safety nature, may pursue these goals.
-
-The transfer of information about you, even temporary, to a Country not belonging to the European Union, may take place only if needed for the performance of obligations derived from a contract that You are party to, or to fulfil, before the end of the contract, Your specific requests, or for the conclusion or execution of a contract stipulated in Your favour.
-
-Your rights and the related way to exercise them are reported at the beginning of this Privacy Policy.
-
-DISCLOSURE TO JOB APPLICANTS
-
-Windows on Europe SpA performs the activity of selecting personnel in pursuit of parity between workers and not discriminating against candidates of either sex, in accordance with Laws 903/77 and 125/91.
-
-Your data will, moreover, be processed and stored with the greatest circumspection, care and diligence in compliance with Legislative Decree 196/2003 and according to the methods reported below.
-
-Collection and nature of data
-
-Data collection is done through transmitting, from the subjects, their own Curriculum Vitae. Collection may be done either online (emails or attachments to related forms) or on paper.
-
-Purposes of processing
-
-Processing of personal data is performed exclusively in the scope of performing activities of research, selection and evaluation of personnel.
-
-Obligatory or optional nature of collection
-
-Collection of personal data on the part of the subject, and the transmittal of one’s Curriculum Vitae, are optional: in its absence, however, we will not be able to perform the activities of research, selection and evaluation of personnel.
-
-Scope of communication or broadcast of data
-
-Persons in Charge or Appointees of targeted processing in our company may have access to Your data. Your data may, moreover, be communicated to third parties who supply specific services or perform related activities instrumental to or in support of the methods and purposes for which You provided Your data. Furthermore, we may communicate this data to parent, subsidiary or affiliate companies per section 2359 of the Italian Civil Code or to companies under common control, for administrative accounting purposes as defined in section 34, paragraph 1-b of Legislative Decree 196/2003, or those connected to the performance of activities of an organizational, administrative, financial and accounting nature, regardless of the nature of the data processed. In particular, internal organizational activities, those instrumental to the fulfillment of contractual and pre-contractual obligations, to the management of the work relationship in all phases, to bookkeeping and the application of financial, trade, social security and welfare, health, hygiene and work safety processes, may pursue those goals.  
-  
-Processing methods and data storage
-
-Data processing will be performed in accordance with the provisions of section 11 of Legislative Decree n. 196/2003. Data processing will also be performed with logic strictly correlated to the purposes indicated and with methods that assure safety and discretion of the data themselves, through the adoption of suitable measures to impede the alteration, deletion, destruction, unauthorized access or processing that is not allowed or does not conform to the purposes of the collection.
-
-Data will be kept at our database for a period of time not more than two years and, therefore, no longer than the period of time necessary to manage and monitor the process of research and selection.
-
-Your rights and the related ways You may exercise them are reported at the beginning of this Privacy Policy. 
+We will respond to requests within a reasonable time frame and, in any case, no later than 30 days from receipt.
