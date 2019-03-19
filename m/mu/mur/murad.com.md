@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the murad.com privacy policy that was archived on 2018-10-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181006123840id_/https%3A//www.murad.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the murad.com privacy policy that was archived on 2019-03-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190319210632id_/https%3A//www.murad.com/privacy-policy) for the most accurate reproduction.*
 
-# Unilever Privacy Policy
+# Unilever Privacy Policy | Murad
+
+## Privacy Policy
 
 ### UNILEVER PRIVACY PRINCIPLES
 
