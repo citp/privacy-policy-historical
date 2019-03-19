@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the infotrack.com.au privacy policy that was archived on 2018-09-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180903130535id_/https%3A//www.infotrack.com.au/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the infotrack.com.au privacy policy that was archived on 2019-03-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190319204853id_/https%3A//www.infotrack.com.au/privacy-policy) for the most accurate reproduction.*
 
 # Privacy policy | InfoTrack
 
@@ -38,7 +38,7 @@ Otherwise, InfoTrack does not directly collect information from users of our web
 
 InfoTrack does not try to identify users or their browsing activities except, in the event of an investigation, where a law enforcement agency may exercise a warrant to inspect the service provider's logs.
 
-We store personal information in computer storage facilities, paper-based files and other records. We take steps to protect the personal information against loss, unauthorised access, use modification or disclosure, and against other misuse. These steps include password protection and access privileges for accessing out IT system, and physical access restrictions to paper files.
+We store personal information in computer storage facilities, paper-based files and other records. We take steps to protect the personal information against loss, unauthorised access, use modification or disclosure, and against other misuse. These steps include password protection and access privileges for accessing our IT system, and physical access restrictions to paper files.
 
 Where we provide personal information to third parties, we endeavor to use contractual measures to protect this information.
 
@@ -59,8 +59,8 @@ We collect and use personal information for the following purposes:
   * for direct marketing and promotion and improvement of our business and products and services including:
   * to notify details of new services and products offered by us;
   * to notify details of meetings, events and seminars that may be of interest to InfoTrack customers and clients;
-  * to send our newsletters and other marketing publications;  
-to administer our databases for client service, marketing and financial accounting purposes; and
+  * to send our newsletters and other marketing publications;
+  * to administer our databases for client service, marketing and financial accounting purposes; and
   * to comply with legal requirements regarding collection and retention of information concerning the products and services that we provide.
 
 
@@ -77,7 +77,7 @@ We may also disclose your personal information to third parties who work with us
 
 We may also combine your personal information with information available from other sources, including the entities mentioned above, to help us provide better services to you.
 
-You may opt-out of receiving direct marketing or the disclosure your personal information for the purpose of direct marketing by contacting our privacy officer using the details set out below or by using any unsubscribe facility contained in a communication that you receive from us.
+You may opt-out of receiving direct marketing or the disclosure of your personal information for the purpose of direct marketing by contacting our privacy officer using the details set out below or by using any unsubscribe facility contained in a communication that you receive from us.
 
 ## Sending personal information overseas
 
