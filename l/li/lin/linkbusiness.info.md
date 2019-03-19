@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the linkbusiness.info privacy policy that was archived on 2018-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181118044354id_/http%3A//linkbusiness.info/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the linkbusiness.info privacy policy that was archived on 2019-03-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190319122647id_/http%3A//linkbusiness.info/privacy) for the most accurate reproduction.*
 
 # privacy – linkbusiness.info
 
