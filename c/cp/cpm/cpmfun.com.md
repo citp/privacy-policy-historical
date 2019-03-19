@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cpmfun.com privacy policy that was archived on 2018-11-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181117104931id_/http%3A//www.cpmfun.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cpmfun.com privacy policy that was archived on 2019-03-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190319100622id_/http%3A//www.cpmfun.com/privacy.php) for the most accurate reproduction.*
 
 # CPM Fun :: Highest Paying CPM Network
 
