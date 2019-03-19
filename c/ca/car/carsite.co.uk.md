@@ -1,32 +1,39 @@
-> *The following text is extracted and transformed from the carsite.co.uk privacy policy that was archived on 2017-09-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170922175932id_/http%3A//www.carsite.co.uk/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the carsite.co.uk privacy policy that was archived on 2019-03-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190319234957id_/https%3A//www.carsite.co.uk/privacy-policy) for the most accurate reproduction.*
 
 # CarSite - Privacy Policy
 
-#### 1\. This Privacy Policy
+## Privacy Policy
 
-BuyYour Ltd is committed to protecting your personal information and other data provided to us via this and any other BuyYour Ltd web site ("Web Site"). Please read this Privacy Policy carefully as it contains important information about the use of information that you provide to us. This Privacy Policy explains what information BuyYour Ltd collects about you, and how we collect and use your information, including setting out the circumstances where we could provide it to third parties. You should also read the separate [Site Visitor Agreement](https://web.archive.org/site-visitor-agreement "Site Visitor Agreement") applicable to this Web Site.
+  
 
-#### 2\. What information do we collect and what do we do with it?
+
+## 1\. This Privacy Policy
+
+BuyYour Ltd is committed to protecting your personal information and other data provided to us via this and any other BuyYour Ltd web site ("Web Site"). Please read this Privacy Policy carefully as it contains important information about the use of information that you provide to us. This Privacy Policy explains what information BuyYour Ltd collects about you, and how we collect and use your browsing information, including setting out the circumstances where we could provide it to third parties. You should also read the separate [Site Visitor Agreement](https://web.archive.org/site-visitor-agreement "Site Visitor Agreement") applicable to this Web Site.
+
+## 2\. What information do we collect and what do we do with it?
 
 2.1 To take advantage of some of our services you will be required to log on or register with the Web Site. We may use your IP address to help diagnose problems with our server and to administer our Web Site. The information will be collected when you register with the Web Site in order to use any of the services available via the Web Site.
 
-2.2 If you choose to advertise on the Web Site certain personal information or data (including credit card and billing information) about you will be captured electronically or otherwise. In the event that such personal information or data is part of your advert, such personal information or data will be posted to the Web Site may by viewed by users of the Web Site.
+2.2 If you choose to advertise on the Web Site certain personal information or data (including credit card and billing information) about you will be captured electronically or otherwise. In the event that such personal information or data is part of your advert, such personal information or data will be posted to the Web Site and may by viewed by users of the Web Site.
 
 2.3 We may use the information that we collect to personalise your experience on the Web Site, to help you log on in future and to continue to use the Web Site, and to help us select services or materials for inclusion on the Web Site that may be of interest to you. We may need to pass your information to third parties who help us to maintain, administer or develop the Web Site but, if so, that information is only given to those third parties for that limited purpose.
 
 2.4 We also monitor traffic patterns and usage of our Web Site to help us improve our Web Site design and layout. We may pass this information to our partners or other third parties but it will not contain any personally identifying information.
 
-2.5 BuyYour Ltd may want to contact you to notify you of news about BuyYour Ltd, changes to the Web Site, special events or new services or products that we think may interest you. BuyYour Ltd may also use your details and information to communicate to you offers for services or goods from other websites owned by BuyYour Ltd group or other companies which we think may be of interest to you. However, BuyYour Ltd will not contact you for these purposes unless you authorise us to do so by either ticking the relevant boxes (i.e. during registration on the Web Site) to authorise BuyYour Ltd to make such contact, or you provide such authorisation in writing to BuyYour Ltd or electronically via the Web Site (if applicable). If, at any time thereafter, you change your mind and would rather not be contacted by BuyYour Ltd (or the third parties described above) to receive such information, please send an email to support@carsite.co.uk with an explanation that you no longer wish to receive such information. In those circumstances, BuyYour Ltd will not contact you again in relation to the information described above in this paragraph 2.5. However, BuyYour Ltd and/or its group companies will still use your details to send you information and communications in relation to the services or products for which you have registered.
+2.5 BuyYour Ltd may want to contact you to notify you of news about BuyYour Ltd, changes to the Web Site, special events or new services or products that we think may interest you. BuyYour Ltd may also use your details and information to communicate to you offers for services or goods from other websites owned by BuyYour Ltd group or other companies which we think may be of interest to you. However, BuyYour Ltd will not contact you for these purposes unless you authorise us to do so by opting in, either by ticking the relevant boxes (i.e. during registration on the Web Site) to authorise BuyYour Ltd to make such contact, or you provide such authorisation in writing to BuyYour Ltd or electronically via the Web Site (if applicable). If, at any time thereafter, you change your mind and would rather not be contacted by BuyYour Ltd (or the third parties described above) to receive such information, please send an email to support@carsite.co.uk with an explanation that you no longer wish to receive such information. In those circumstances, BuyYour Ltd will not contact you again in relation to the information described above in this paragraph 2.5. However, BuyYour Ltd and/or its group companies will still use your details to send you information and communications in relation to the services or products for which you have registered, if applicable.
 
-#### 3\. Sharing of Information with Third Parties
+## 3\. Sharing of Information with Third Parties
 
-3.1 From time to time, CarSite may pass your details to carefully selected, trusted third parties so that they can also provide you with details of other services or products that might be of interest to you. If you do not wish us to do so, you should follow the procedure set out in paragraph 2.5 above and we will not provide your information to third parties for such purposes.
+3.1 Should you consent to us processing your personal data, from time to time, CarSite may pass your details to carefully selected, trusted third parties so that they can also provide you with details of other services or products that might be of interest to you. If you do not wish us to do so, you should follow the procedure set out in paragraph 2.5 above and we will not provide your information to third parties for such purposes.
 
 3.2 We follow security procedures as required by the UK Data Protection Act 1998, in the storage and disclosure of personal information that you have given us, to prevent unauthorised access to such information. At times we may let you know about the products or services provided by carefully selected third parties. We will only deal with partners who comply with the UK Data Protection Act 1998 as amended from time to time) and any other applicable data protection legislation or regulations, or with whom we are satisfied have appropriate measures to protect data. However, BuyYourLtd shall have no liability to you in respect of any breach of security by a third party.
 
-#### 4\. Your Consent
+3.3 As a CarSite Leasing customer, with your permission, we may share your information with selected third party suppliers, where we deem that there is a legitimate interest to do so – this is our legal basis for sharing this information. An example of this is Look After My Car (T/N of Premia Solutions Limited), an approved automotive insurance provider with whom we have partnered. We will pass your contact and vehicle information on to them for the purpose of facilitating membership to their online platform, and for them to contact you to discuss related automotive products and services. For more information on how they will use your data, or to opt out, you can visit their website.
 
-4.1 You acknowledge and agree that:
+## 4\. Your Consent
+
+4.1 Upon opting in for us to process your personal data, you acknowledge and agree that:
 
 4.1.1 in the course of using this Web Site or registering with it and any services offered via this Web Site, certain information about you will be captured electronically or otherwise and transmitted to CarSite or and, potentially, to any third parties as set out above or to third parties who host our web servers or assist us in maintaining this Web Site; and
 
@@ -36,21 +43,23 @@ BuyYour Ltd is committed to protecting your personal information and other data 
 
 4.3 If ordered by a court of competent jurisdiction to provide any of your personal information collected by CarSite as described in this Privacy Policy, you consent to CarSite providing such personal information to that court in accordance with the court's instructions.
 
-4.4 By using this Web Site, you expressly agree to the collection and use of your information as set out above for the purposes set out in this Privacy Policy.
+4.4 By using this Web Site and consenting to the processing of your personal data, you expressly agree to the collection and use of your information as set out above for the purposes set out in this Privacy Policy.
 
-#### 5\. Data Protection Indemnity
+## 5\. Data Protection Indemnity
 
 For the purpose of the Data Protection Act 1998, you acknowledge that in the course of you advertising goods or services on our Web Site, certain personal data about your employees, agents or subcontractors or certain personal data of third parties appearing in the advertising you requested to appear on our Web Site may be captured electronically or otherwise by us. If this is the case, you shall ensure that you have obtained the express consent of any employees, agents, subcontractors or any applicable third parties to the transfer of their personal data to us to use, store and process such personal information for the purposes set out in this Privacy Policy, including where such personal data forms part of the advertising and is posted to the Web Site for accessed by users inside and outside of the European Economic Area. You shall indemnify CarSite from and against all claims by any employees, agents, subcontractors or any third parties arising out of your failure to obtain the consent described in this paragraph 5.
 
-#### 6\. Our Responsibilities - How does CarSite protect Your Information?
+## 6\. Our Responsibilities - How does CarSite protect Your Information?
 
-6.1 When you enter into on-line credit or other payment card transactions (e.g. ordering advertising services on the Web Site), we offer the use of a secure server. The secure server software encrypts the information that you input before it is transmitted to us. To prevent unauthorised access, we follow legally required security procedures in the storage and disclosure of information that you have given to us. This means that sometimes we may ask for proof of identity before we disclose personal information to you.
+6.1 When you enter into on-line credit or other payment card transactions (e.g. ordering advertising services on the Web Site), we use the secure services provided by GoCardless.
 
-6.2 Areas of the Web Site where transactions are entered into, reviewed or transmitted may be password protected. You can help to preserve your privacy by never sharing your password with anyone else.
+6.2 Areas of the Web Site where personal data is stored (e.g. used car dealer account information such as name and address) are password protected. You can help to preserve your privacy by never sharing your password with anyone else.
 
-6.3 We seek to limit our employees' access to your information about you to those employees who need to have such information to service your account. We emphasise to our employees the confidential nature of user information and the high level of importance that CarSite places on maintaining this confidentiality.
+6.3 We limit our employees' access to your information about you to those employees who need to have such information to service your account. We emphasise to our employees the confidential nature of user information and the high level of importance that CarSite places on maintaining this confidentiality.
 
-#### 7\. 'Cookies'
+6.4 Where payments are taken over the phone, call recordings are paused as the card details are given. The details taken are entered into the secure software provided by, and protected by, WorldPay.
+
+## 7\. 'Cookies'
 
 7.1 Cookies - What is a Cookie?: A cookie is a piece of information that a web site transfers to the cookie file of the browser on your computer's hard drive. More information regarding the use of cookies can be found at <http://www.aboutcookies.org/Default.aspx?page=3>
 
@@ -66,7 +75,7 @@ For the purpose of the Data Protection Act 1998, you acknowledge that in the cou
 
 
 
-CarSite.co.uk may use online behavioural advertising cookies to enable us to tailor this advertising and make it more relevant to you.
+CarSite.co.uk may use online behavioural advertising cookies to enable us to tailor our display advertising and make it more relevant to you, but we will only use these with your explicit consent, as outlined in section 9 of this document.
 
 We don't sell the information collected by cookies, nor do we disclose the information to third parties, except where required by law (for example to government bodies and law enforcement agencies).
 
@@ -82,7 +91,11 @@ These cookies are essential for the running of our websites. Without the use of 
 
 #### 7.4.2. Analytical Performance Cookies
 
-We use these types of cookies to monitor our websites performance and how their users may use it. These cookies provide us with information that helps us provide better products to their users and also to identify any areas that may need maintenance.
+We use these types of cookies to monitor our websites performance and how their users may use it. These cookies provide us with information that helps us provide better products to their users and also to identify any areas that may need maintenance. 
+
+More information on how Google uses the data it collects from the website see here <https://policies.google.com/technologies/partner-sites>
+
+To opt out of being tracked via Google Analytics, you can also use Google's opt-out browser add-on: <https://tools.google.com/dlpage/gaoptout>
 
 #### 7.4.3. Functional Cookies
 
@@ -90,13 +103,13 @@ Functional cookies are used to remember your preferences on our websites. This c
 
 #### 7.4.4. Behavioural Advertising Cookies/Third Party Cookies
 
-We, and our advertisers/sponsors, may use cookies to provide tailored advertising to you which we believe are relevant to you.
+With your explicit consent, we - and our advertisers/sponsors - may use cookies to provide tailored advertisements to you which we believe are relevant to you. More information about these cookies can be found at <https://www.google.com/policies/technologies/cookies/> and details on how to disable them can be found at [https://adssettings.google.com](https://adssettings.google.com/) 
 
-Online behavioural advertising is a way of providing advertisements on the websites you visit and making them more relevant to your interests. This is done by grouping together shared interests based upon previous web browsing activity. Advertising is then displayed to you when you visit a website which matches these interests.
+Online behavioural advertising is a way of providing advertisements on the websites you visit that are relevant to your interests. This is done by grouping together shared interests based upon previous web browsing activity. Advertising is then displayed to you when you visit a website which matches these interests.
 
 Behavioural advertising is based upon your web browsing activity over a period of time - so it's different to advertising you may see when you're looking for something online using a search engine (eg Google) or on the website you may be visiting at a particular time.
 
-As an example, you may be doing research in order to buy a car and read a number of different articles on a number of different websites. If a car manufacturer was part of an advertising network, they may think that you are interested in buying a car and serve you with one of their adverts for one of their cars. It is possible that from reading these articles elsewhere, you would see this advert on one of our or someone else's websites.
+As an example, you may be doing research in order to buy a car and read a number of different articles on a number of different websites. If a car manufacturer was part of an advertising network, they may think that you are interested in buying a car and serve you with one of their adverts for one of their cars. It is possible that from reading these articles elsewhere, you would see this advert on one of our (or someone else's) websites.
 
 We cannot control nor do we have access to any cookies placed on your computer by third party advertisers and sponsors.
 
@@ -127,12 +140,28 @@ In order to manage or delete Flash Cookies, please visit Adobe's website, which 
 
 Further information about cookies can be found on the following websites:
 
-#### 8\. Changes to Privacy Policy
+## 8\. Changes to Privacy Policy
 
 We reserve the right to add to or change the terms of this Privacy Policy in our sole discretion, without prior notice to you. If we change this Privacy Policy, we will post the new Privacy Policy on the Web Site, and it will become effective from the time of posting to the Web Site. Please visit this Privacy Policy on a regular basis to make sure you have read the latest version and you understand what we do with your information. Wherever possible, we will give you notice of any changes prior to their implementation.
 
-#### 9\. Ad Serving
+## 9\. Ad Serving - Personalised, Non-Personalised and Opting In/Out
 
-We use third-party advertising companies to serve ads when you visit our Web site. These companies may use aggregated information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, please see: <http://www.networkadvertising.org/managing/opt_out.asp>
+9.1 Personlised Ads
 
-**Feedback:** If you have any queries or problems with regard to this Privacy Policy or the uses to which we put your information, please e-mail us at support@carsite.co.uk.
+We use third-party advertising companies to serve ads when users visit our Web Site. These companies may use aggregated information (not including name, address, email address or telephone number) about the user's visits to this and other Web Sites in order to provide advertisements about goods and services that are of interest to the user. But we will only show this type of personalised advert if the user has given explicit permission to do so. See section 7.4.4 of this document for more information about how this works.
+
+9.2 Non personalised Ads
+
+Should the user not choose to opt in to have personalised adverts displayed to them, we may still display ads on the pages that the user is viewing, but the advertisements displayed will not be personalised. The adverts in this case will either be totally random or contextually relevant to the content that the user is browsing.
+
+9.3 Opting In and Opting Out
+
+As previously stated we will not show personalised ads without an explicit opt in from the user. However, should the user change their mind, (e.g. initially they opted in, but now they would like to opt out) they can email us at support@carsite.co.uk and let us know.
+
+## 10\. Feedback, Questions and Complaints
+
+If you have any queries, problems, or complaints regarding our Privacy Policy or your personal data usage, then please e-mail us at support@carsite.co.uk.
+
+Or contact us by post at: BuyYour Ltd, Vesey House, Wylde Green Rd, Sutton Coldfield, B76 1QT.
+
+If you're not satisfied with our response or believe our processing of your personal data is not in accordance with the law you can complain to the UK data protection regulator, the Information Commissioner’s Office. Further details can be found at www.ico.org.uk.
