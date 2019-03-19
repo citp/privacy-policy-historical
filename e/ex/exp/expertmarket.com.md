@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the expertmarket.com privacy policy that was archived on 2018-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181204050617id_/http%3A//www2.expertmarket.com/privacy__cookies_policy_b2b_us__0316/eae1b/3ecbb) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the expertmarket.com privacy policy that was archived on 2019-03-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190319104639id_/http%3A//www2.expertmarket.com/privacy__cookies_policy_b2b_us__0316/eae1b/3ecbb) for the most accurate reproduction.*
 
-# Expert Market
+# MVF Global Ltd
 
 You have certain rights in relation to your data, including the right to object to processing based on legitimate interests, profiling (including the use of custom and lookalike/similar audiences), and direct marketing. At any time, you can exercise your rights by emailing us at [dataprotection@mvfglobal.com](mailto:dataprotection@mvfglobal.com). For further details about our processing and your rights, please see below.
 
