@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the asklaila.com privacy policy that was archived on 2016-07-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160708082326id_/https%3A//www.asklaila.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the asklaila.com privacy policy that was archived on 2019-03-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190319162413id_/https%3A//www.asklaila.com/privacy) for the most accurate reproduction.*
 
 # asklaila - Privacy Policy
 
