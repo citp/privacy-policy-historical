@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the careerfaqs.com.au privacy policy that was archived on 2018-09-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180907065228id_/https%3A//www.careerfaqs.com.au/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the careerfaqs.com.au privacy policy that was archived on 2019-03-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190319144543id_/https%3A//www.careerfaqs.com.au/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Page | Career FAQs
 
@@ -30,13 +30,13 @@ This Privacy Policy applies to any personal information you provide:
 
 
 
-Your personal information will be handled appropriately according to this policy and the [terms and conditions](https://www.careerfaqs.com.au/terms-of-use/) section of our website and may be amended, at Career FAQs’ discretion, from time to time. You may contact us at any time to request details about what personal information we hold, or to request that it be changed or deleted.
+Your personal information will be handled appropriately according to this policy and the [terms and conditions](https://web.archive.org/terms-of-use) section of our website and may be amended, at Career FAQs’ discretion, from time to time. You may contact us at any time to request details about what personal information we hold, or to request that it be changed or deleted.
 
-##  Collecting Information
+## Collecting Information
 
 The type of information that Career FAQs collects about you is dependent on how you use the services offered on our website.
 
-###  (a) Personal Information
+### (a) Personal Information
 
 Career FAQs collects personal information about its users. Once an individual decides to make an enquiry about a course, subscribe to our newsletter or download a career or education-related resource, Career FAQs (upon the individual completing an online form) will collect all or some of the following personal information:
 
@@ -54,11 +54,11 @@ We will not collect or solicit personal information via this site which would be
 
 There is no obligation on you to provide us with any of the personal information that we may request, however if you choose not to provide us with the requested information we may not be able to offer the requested service or it may affect our efficiency in providing our services to you. 
 
-###  (b) Sensitive Information
+### (b) Sensitive Information
 
 Generally, Career FAQs does not collective sensitive information about an individual. Sensitive information, as defined in the Privacy Act 1988 (Cth) and Australian Privacy Principles includes, but is not limited to, information or an opinion about an individual’s racial or ethnic origin, religious beliefs or sexual orientation.
 
-###  (d) Non-personal Information
+### (d) Non-personal Information
 
 Like most websites, Career FAQs collects non-personal information in aggregated form when an individual accesses the website, which includes the following information:
 
@@ -78,7 +78,7 @@ We use this information, which remains in aggregate form, to understand how our 
 
 Career FAQs will only collect information about an individual from that individual, unless it is reasonable and practicable to do so or for reasons compliant with the APP.
 
-##  Use and Disclosure of Personal Information
+## Use and Disclosure of Personal Information
 
 Personal information is requested or collected by us when it is required to assist in efficiently handling your request. You acknowledge that any disclosure of personal information by you during a visit to our website, whether as part of completing a course enquiry or otherwise, is being made freely by you without any pressure or undue influence being exerted on you.
 
@@ -101,7 +101,7 @@ Career FAQs will take reasonable steps to ensure that when personal information 
 
 You have the right to directly contact such third parties to request access to any personal information provided to us.
 
-##  Updated Information and Access to Personal Information
+## Updated Information and Access to Personal Information
 
 Career FAQs will make reasonable attempts to ensure that the personal information we hold about you is accurate, up to date and complete. To assist us with this, please provide us with the correct information and inform us if there is any change in your details.  
 Please contact us if you would like access to the personal information that we hold about you, if you would like to update your personal information or if you believe that the personal information we hold about you is incomplete or inaccurate. 
@@ -110,34 +110,34 @@ At your request, Career FAQs will provide you with access to your personal infor
 
 Please contact **info@careerfaqs.com.au** to request changes to your personal information.
 
-##  Cookies
+## Cookies
 
-Career FAQs uses 'cookies' in its website systems. A cookie is a small amount of data that is placed in the browser of your computer or on your mobile device, and allows you to be recognised as the same user across the pages of a website. Cookies enable you to use services such as downloading a resume or cover letter. You are able to disable cookies via your computer's web browser, however this may restrict access to some services within the Career FAQs website.
+Career FAQs uses ‘cookies’ in its website systems. A cookie is a small amount of data that is placed in the browser of your computer or on your mobile device, and allows you to be recognised as the same user across the pages of a website. Cookies enable you to use services such as downloading a resume or cover letter. You are able to disable cookies via your computer’s web browser, however this may restrict access to some services within the Career FAQs website.
 
-In addition to using cookies, Career FAQs sometimes uses web beacons. A web beacon is a tiny graphic image of just one pixel that’s delivered to your computer either as part of a web page request or in an HTML email message. Either directly or through service providers, we use these pixels as part of our online advertisements either on our website or on third-party websites to learn whether a user who's being shown an online advertisement also makes a course enquiry and to analyse a user's traffic patterns in order to optimise the career and education-related services we bring to you.
+In addition to using cookies, Career FAQs sometimes uses web beacons. A web beacon is a tiny graphic image of just one pixel that’s delivered to your computer either as part of a web page request or in an HTML email message. Either directly or through service providers, we use these pixels as part of our online advertisements either on our website or on third-party websites to learn whether a user who’s being shown an online advertisement also makes a course enquiry and to analyse a user’s traffic patterns in order to optimise the career and education-related services we bring to you.
 
-##  Security and Storage of Your Personal Information
+## Security and Storage of Your Personal Information
 
 Career FAQs takes the security of users’ personal information very seriously.  
 We take measures to ensure that the personal information you have provided to us is kept confidential and secure and is protected from unauthorised access, misuse, disclosure or alteration.
 
 We conduct regular reviews to implement new security and encryption technologies to ensure the highest level of protection. 
 
-##  Links to Other Sites
+## Links to Other Sites
 
 This site may, from time to time, contain links to other websites. The links to third-party websites do not constitute endorsement, sponsorship or approval by Career FAQs as to the content or policies of those websites.
 
 Career FAQs is not responsible for the privacy practices nor the content of any linked website. You should be aware that you must read the Privacy Statement related to that site. The Career FAQs Privacy Statement relates only to the Career FAQs website.
 
-##  Acknowledgment
+## Acknowledgment
 
 You acknowledge that Career FAQs will not be responsible or liable, directly or indirectly, for any damage or loss caused or alleged to be caused by or in connection with the use, or reliance on any information provided by you or the use of your personal information on any third-party website and any claim you will make in such circumstances will be limited to the owners of such third-party websites.
 
-##  Destruction of Your Personal Information
+## Destruction of Your Personal Information
 
 Career FAQs will take reasonable steps to de-identify and destroy any personal information about you once the information is no longer required for the purposes in which it was collected, or if we are required to do so by law.
 
-##  Changes to the Privacy Policy
+## Changes to the Privacy Policy
 
 This Privacy Policy is current as of 2016. 
 
@@ -145,12 +145,16 @@ Career FAQs may make changes to or update this privacy policy from time to time 
 
 Your continued use of the Career FAQs website constitutes your acceptance as to how we collect, use and disclose your personal information.
 
-##  Feedback and Complaints
+## Feedback and Complaints
 
 At Career FAQs, we welcome feedback and suggestions about our website. This will assist Career FAQs to update and refine any services we provide to you.
 
 If you have a complaint concerning your information privacy or if you would like more information about our approach to privacy, please contact **complaints@careerfaqs.com.au**. 
 
-##  For Further Information
+## For Further Information
 
-If you require more information about Australia's Privacy Laws and the National Privacy Principles, you can access the Federal Privacy Commissioner's website at [www.privacy.gov.au](http://www.privacy.gov.au/). 
+If you require more information about Australia’s Privacy Laws and the National Privacy Principles, you can access the Federal Privacy Commissioner’s website at [www.privacy.gov.au](http://www.privacy.gov.au/). 
+
+## For Enquiries related to Courses offered by Australian Catholic University
+
+Australian Catholic University collects personal information in accordance with its [Collection Notice](https://www.acu.edu.au/home/privacy_policy/acu_privacy_collection_notice). By completing the Enquiry Form for a course offered by Australian Catholic University you are also agreeing to the Privacy Terms and Conditions set out on their website, [click here for more information](https://www.acu.edu.au/home/privacy_policy).
