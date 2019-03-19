@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the skinsensewellness.com privacy policy that was archived on 2018-10-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181022061203id_/https%3A//skinsensewellness.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the skinsensewellness.com privacy policy that was archived on 2019-03-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190319101307id_/https%3A//skinsensewellness.com/privacy) for the most accurate reproduction.*
 
 # Your Privacy | SkinSense Wellness Day Spa Los Angeles
 
