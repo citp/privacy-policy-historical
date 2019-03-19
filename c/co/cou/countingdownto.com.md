@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the countingdownto.com privacy policy that was archived on 2017-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171224004006id_/https%3A//countingdownto.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the countingdownto.com privacy policy that was archived on 2019-03-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190319141825id_/https%3A//countingdownto.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | CountingDownTo.com
+# Privacy Policy
 
 Your privacy is our top concern. We work hard to earn and keep your trust, so we adhere to the following principles to protect your privacy.
 
