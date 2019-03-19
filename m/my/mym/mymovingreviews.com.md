@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the mymovingreviews.com privacy policy that was archived on 2016-10-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161030140820id_/http%3A//www.mymovingreviews.com/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mymovingreviews.com privacy policy that was archived on 2019-03-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190319100118id_/https%3A//www.mymovingreviews.com/privacy-policy.php) for the most accurate reproduction.*
 
 # Privacy Policy - MyMovingReviews
 
 For the apps privacy policy, please [click here](https://www.mymovingreviews.com/privacy-policy-apps.php).
 
-Effective date: 9/15/2016
+Effective date: 5/29/2017
 
-[](https://privacy.truste.com/privacy-seal/World-Media-Group,-LLC/validation?rid=4a1763d4-596e-4422-ac6e-47fe5dd9e68b "TRUSTe online privacy certification")
+[](https://privacy.truste.com/privacy-seal/validation?rid=4a1763d4-596e-4422-ac6e-47fe5dd9e68b)
 
 The bottom line is that MyMovingReviews, owned and operated by World Media Group LLC (collectively, "We", "Us", "Our" and "MyMovingReviews"), will NOT release your personal information without your consent when you write a moving review. We will use the information you submit in the quick moving quote form, the free moving calculator form or the cost calculator form **and provide it to professional moving companies** that will contact you to provide you with your moving estimate and moving cost calculation on our web site www.mymovingreviews.com.
 
@@ -29,7 +29,7 @@ Anyone can visit our site free of charge. You are welcome to browse our ratings 
 
 First, if you want to review a moving company, we will ask you to provide some personal information. If you have already registered, you know that the information we require is very basic: your e-mail address, name or/and password. One of the reasons we ask for your e-mail address is so that we can communicate with you and send you a validation email. As is true of most web sites, we gather certain information automatically and store it in log files. This information may include internet protocol (IP) addresses, browser type, internet service provider (ISP), referring/exit pages, operating system, date/time stamp, and/or clickstream data. We may combine this automatically collected log information with other information we collect about you. We do this to improve services we offer you, to improve marketing, analytics, and site functionality.
 
-We will share your personal information with third parties only in the ways that are described in this privacy policy. We do not sell your personal information to third parties. If you do not want us to share your personal information with these companies, contact us [here](http://www.mymovingreviews.com/contact-us.php).
+We will share your personal information with third parties only in the ways that are described in this privacy policy. We do not sell your personal information to third parties. If you do not want us to share your personal information with these companies, contact us [here](https://www.mymovingreviews.com/contact-us.php).
 
 We plan that, from time to time, we will provide certain companies (like our advertisers) with aggregated user information. We will NOT give advertisers your personal information about you without your specific authorization to do so, except when filling the quick quote form or the free moving calculator form or the cost calculator. We may also provide your personal information to companies that provide services to help us with our business activities such as offering customer service. These companies are authorized to use your personal information only as necessary to provide these services to us.
 
@@ -45,7 +45,7 @@ We World Media Group, LLC and our partners use technologies such as cookies or s
 
 If you are moving company and apply for a moving company account, please read the next chapter.
 
-In certain situations, World Media Group, LLC may be required to disclose personal data in response to lawful requests by public authorities, including to meet national security or law enforcement requirements.
+In certain situations, World Media Group, LLC may be required to disclose personal data in response to lawful requests by public authorities or law enforcement requirements.
 
 We may also disclose your personal information as required by law, such as to comply with a subpoena, bankruptcy proceedings, or similar legal process; when we believe in good faith that disclosure is necessary to protect our rights, protect your safety or the safety of others, investigate fraud, or respond to a government request. 
 
@@ -87,7 +87,7 @@ Our web site includes social media features, such as the Facebook Like button an
 
 ## 9\. What if I have more questions?
 
-If you have any questions about this privacy policy, the practices of this site, or your dealings with this Web site, please send an email to [info@mymovingreviews.com](mailto:info@mymovingreviews.com), or contact us at this address: World Media Group, LLC, PO Box 204, Pinehurst, MA, 01866.
+If you have any questions about this privacy policy, the practices of this site, or your dealings with this Web site, please send an email to [info@mymovingreviews.com](mailto:info@mymovingreviews.com), or contact us at this address: World Media Group, LLC, 8 The Green, Suite #6769, Dover, DE, 19901.
 
 ## 10\. How can I be sure that you adhere to your Privacy Policy?
 
