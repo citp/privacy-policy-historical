@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the estrowebservices.com privacy policy that was archived on 2018-09-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180915165141id_/https%3A//estrowebservices.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the estrowebservices.com privacy policy that was archived on 2019-03-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190319070456id_/https%3A//www.estrowebservices.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - EstroWeb - Trusted Offshore 1gbps Linux VPS and Windows RDP hosting
 
