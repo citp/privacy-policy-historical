@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the visitpuertovallarta.com privacy policy that was archived on 2018-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181212004856id_/http%3A//visitpuertovallarta.com/legal/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the visitpuertovallarta.com privacy policy that was archived on 2019-03-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190320004531id_/http%3A//visitpuertovallarta.com/legal/privacy) for the most accurate reproduction.*
 
 # Puerto Vallarta | Official Tourism Guide
 
