@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the iccsafe.org privacy policy that was archived on 2018-10-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181020223113id_/https%3A//www.iccsafe.org/about-icc/icc-online-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the iccsafe.org privacy policy that was archived on 2019-03-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190319115537id_/https%3A//www.iccsafe.org/about-icc/icc-online-privacy-policy) for the most accurate reproduction.*
 
 # ICC Online Privacy Policy - ICC
 
