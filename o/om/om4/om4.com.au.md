@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the om4.com.au privacy policy that was archived on 2018-09-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180903150352id_/https%3A//om4.com.au/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the om4.com.au privacy policy that was archived on 2019-03-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190319180311id_/https%3A//om4.com.au/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | OM4
 
@@ -25,7 +25,7 @@ This Privacy Policy applies to information that we collect about you when you us
   * Our WordPress plugins that are available via the wordpress.org plugins directory.
   * Our design, development and consulting services.
   * Other software written by us.
-  * Other services defined as Services in the [OM4 Terms of Service](https://om4.com.au/terms-of-service/).
+  * Other services defined as Services in the [OM4 Terms of Service](http://om4.com.au/terms-of-service/).
 
 
 
@@ -81,7 +81,7 @@ We use information about you as mentioned above and for the purposes listed belo
 
 #### _Legal Bases for Collecting and Using Information_
 
-A note here for those in the European Union about our legal grounds for processing information about you under EU data protection laws, which is that our use of your information is based on the grounds that: (1) The use is necessary in order to fulfil our commitments to you under our [Terms of Service](https://om4.com.au/terms-of-service/) or other agreements with you or is necessary to administer your account–for example, in order to enable access to our website on your device or charge you for a paid plan; or (2) The use is necessary for compliance with a legal obligation; or (3) The use is necessary in order to protect your vital interests or those of another person; or (4) We have a legitimate interest in using your information–for example, to provide and update our Services, to improve our Services so that we can offer you an even better user experience, to safeguard our Services, to communicate with you, to measure, gauge, and improve the effectiveness of our advertising, and better understand user retention and attrition, to monitor and prevent any problems with our Services, and to personalise your experience; or (5) You have given us your consent–for example before we place certain cookies on your device and access and analyse them later on.
+A note here for those in the European Union about our legal grounds for processing information about you under EU data protection laws, which is that our use of your information is based on the grounds that: (1) The use is necessary in order to fulfil our commitments to you under our [Terms of Service](http://om4.com.au/terms-of-service/) or other agreements with you or is necessary to administer your account–for example, in order to enable access to our website on your device or charge you for a paid plan; or (2) The use is necessary for compliance with a legal obligation; or (3) The use is necessary in order to protect your vital interests or those of another person; or (4) We have a legitimate interest in using your information–for example, to provide and update our Services, to improve our Services so that we can offer you an even better user experience, to safeguard our Services, to communicate with you, to measure, gauge, and improve the effectiveness of our advertising, and better understand user retention and attrition, to monitor and prevent any problems with our Services, and to personalise your experience; or (5) You have given us your consent–for example before we place certain cookies on your device and access and analyse them later on.
 
 ### Sharing Information
 
@@ -143,7 +143,7 @@ Holipac Pty Ltd t/as OM4 are based at 9/316 Onslow Roadd, Shenton Park, Western 
 
 ### How to Reach Us
 
-If you have a question about this Privacy Policy, or you would like to contact us about any of the rights mentioned in the Your Rights section above, please [contact us](https://om4.com.au/contact/).
+If you have a question about this Privacy Policy, or you would like to contact us about any of the rights mentioned in the Your Rights section above, please [contact us](http://om4.com.au/contact/).
 
 ### Other Things You Should Know (Keep Reading!)
 
