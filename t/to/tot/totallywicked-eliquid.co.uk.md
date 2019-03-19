@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the totallywicked-eliquid.co.uk privacy policy that was archived on 2018-11-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181117175202id_/http%3A//www.totallywicked-eliquid.co.uk/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the totallywicked-eliquid.co.uk privacy policy that was archived on 2019-03-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190319010155id_/https%3A//www.totallywicked-eliquid.co.uk/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy / Data Protection / Act Cookies | Totally Wicked
 
