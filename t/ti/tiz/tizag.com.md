@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tizag.com privacy policy that was archived on 2018-07-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180712020708id_/http%3A//www.tizag.com/about/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tizag.com privacy policy that was archived on 2019-03-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190319025754id_/http%3A//www.tizag.com/about/privacy.php) for the most accurate reproduction.*
 
 # Tizag Tutorials
 
