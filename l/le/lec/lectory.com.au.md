@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lectory.com.au privacy policy that was archived on 2018-09-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180903164348id_/https%3A//www.lectory.com.au/page/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lectory.com.au privacy policy that was archived on 2019-03-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190319050130id_/https%3A//www.lectory.com.au/page/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
