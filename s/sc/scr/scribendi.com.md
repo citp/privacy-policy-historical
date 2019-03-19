@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the scribendi.com privacy policy that was archived on 2018-09-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180924124451id_/https%3A//www.scribendi.com/privacy.en.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the scribendi.com privacy policy that was archived on 2019-03-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190320003007id_/https%3A//www.scribendi.com/privacy.en.html) for the most accurate reproduction.*
 
 # Your Privacy | Scribendi
 
@@ -130,7 +130,7 @@ The browser settings for changing your cookie settings are usually found in the 
   * [Cookie settings in Internet Explorer](https://support.microsoft.com/en-us/help/17442/windows-internet-explorer-delete-manage-cookies)
   * [Cookie settings in Firefox](https://support.mozilla.org/en-US/kb/enable-and-disable-cookies-website-preferences)
   * [Cookie settings in Chrome](https://support.google.com/chrome/answer/95647)
-  * [Cookie settings in Safari](https://support.apple.com/kb/ph21411?locale=en_US)
+  * [Cookie settings in Safari](https://support.apple.com/en-ca/guide/safari/manage-cookies-and-website-data-sfri11471/mac)
 
 
 
