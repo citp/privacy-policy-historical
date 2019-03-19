@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rajivbikram.com.np privacy policy that was archived on 2018-11-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181103232316id_/https%3A//rajivbikram.com.np/privacy-policy-2) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rajivbikram.com.np privacy policy that was archived on 2019-03-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190319135941id_/https%3A//rajivbikram.com.np/privacy-policy-2) for the most accurate reproduction.*
 
 # Privacy Policy - Bikram's Blog
 
@@ -66,9 +66,4 @@ This web site contains links to other web sites. Please note that when you click
   
 © 2017 **www.rajivbikram.com.np** , All rights reserved.  
 Unauthorized duplication or publication of any materials  
-from this Site is expressly prohibited. 
-
-  
-Get your own Privacy Policy [here](https://www.prioritydigital.com/)!  
-  
-
+from this Site is expressly prohibited.
