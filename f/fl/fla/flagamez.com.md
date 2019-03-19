@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the flagamez.com privacy policy that was archived on 2018-08-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180814213720id_/http%3A//www.flagamez.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the flagamez.com privacy policy that was archived on 2019-03-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190319173718id_/http%3A//flagamez.com/privacy.html) for the most accurate reproduction.*
 
 # flagamez.com - Privacy Policy
 
