@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mytemp.email privacy policy that was archived on 2017-10-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171001134404id_/https%3A//mytemp.email/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mytemp.email privacy policy that was archived on 2019-03-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190319125821id_/https%3A//mytemp.email/privacy) for the most accurate reproduction.*
 
 # Privacy - myTemp.email
 
