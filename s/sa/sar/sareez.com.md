@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sareez.com privacy policy that was archived on 2018-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181225110124id_/https%3A//www.sareez.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sareez.com privacy policy that was archived on 2019-03-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190319081113id_/https%3A//www.sareez.com/privacy-policy) for the most accurate reproduction.*
 
 # The Privacy Policy - Sareez.com - Designer Ethnic Wear Store
 
