@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the themedicportal.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606182439id_/https%3A//www.themedicportal.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the themedicportal.com privacy policy that was archived on 2019-03-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190319062751id_/https%3A//www.themedicportal.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - The Medic Portal
 
@@ -10,7 +10,7 @@ The Medic Portal Ltd (“we”, “our” or “us”) are committed to protecti
 
 This policy (together with our [Website Terms of Use](https://www.themedicportal.com/terms-conditions/) and any other documents referred to on it) sets out the basis on which any personal data we collect from you, or that you provide to us, will be processed by us.  Please read the following carefully to understand our views and practices regarding your personal data and how we will treat it.
 
-For the purpose of the Data Protection Act 1998 (the Act), the data controller is The Medic Portal Ltd of Broad House, The Broadway, Old Hatfield, Herts, AL9 5BG.
+For the purpose of the Data Protection Legislation, including GDPR, (EU General Data Protection Regulation 2016/679), the data controller is The Medic Portal Ltd of Broad House, The Broadway, Old Hatfield, Herts, AL9 5BG.
 
 ### 2.                   INFORMATION WE MAY COLLECT FROM YOU
 
@@ -50,7 +50,8 @@ We use information held about you in the following ways:
     * as part of our efforts to keep our website safe and secure;
     * to measure or understand the effectiveness of advertising we serve to you and others, and to deliver relevant advertising to you;
     * to make suggestions and recommendations to you and other users of our website about goods or services that may interest you or them.
-  * Information we receive from other sources. We may combine this information with information you give to us and information we collect about you. We may us this information and the combined information for the purposes set out above (depending on the types of information we receive).
+  * Information we receive from other sources. 
+    * We may combine this information with information you give to us and information we collect about you. We may us this information and the combined information for the purposes set out above (depending on the types of information we receive).
 
 
 
@@ -75,6 +76,8 @@ We may disclose your personal information to third parties:
 
 
 
+Feefo are our review generators and are acting on our behalf. They are only permitted to use your data to request a review from you. They will only use your contact details for market research and not use them for any other purpose.
+
 ### 6.                   WHERE WE STORE YOUR PERSONAL DATA
 
 The data that we collect from you may be transferred to, and stored at, a destination outside the European Economic Area (“EEA”). It may also be processed by staff operating outside the EEA who work for us or for one of our suppliers. Such staff maybe engaged in, among other things, the fulfilment of your order, the processing of your payment details and the provision of support services. By submitting your personal data, you agree to this transfer, storing or processing. We will take all steps reasonably necessary to ensure that your data is treated securely and in accordance with this privacy policy.
@@ -85,7 +88,7 @@ Unfortunately, the transmission of information via the internet is not completel
 
 ### 7.                   YOUR RIGHTS
 
-You have the right to ask us not to process your personal data for marketing purposes. We will usually inform you (before collecting your data) if we intend to use your data for such purposes or if we intend to disclose your information to any third party for such purposes. You can exercise your right to prevent such processing by checking certain boxes on the forms we use to collect your data.  You can also exercise the right at any time by contacting us at [info@themedicportal.com](mailto:info@themedicportal.com) or The Medic Portal, 8th Floor Elizabeth House, 39 York Road, London, SE1 7NQ.
+You have the right to ask us not to process your personal data for marketing purposes. We will usually inform you (before collecting your data) if we intend to use your data for such purposes or if we intend to disclose your information to any third party for such purposes. You can exercise your right to prevent such processing by checking certain boxes on the forms we use to collect your data.  You can also exercise the right at any time by contacting us at [info@themedicportal.com](mailto:info@themedicportal.com) or The Medic Portal, 1st Floor, The Tower Building, 11 York Road, London SE1 7NX.
 
 ### 8.                   Status of this Policy and Your Consent
 
@@ -109,10 +112,12 @@ Any changes we may make to our privacy policy in the future will be posted on th
 
 ### 12.                CONTACT
 
-Questions, comments and requests regarding this privacy policy are welcomed and should be sent to us at our email [info@themedicportal.com](mailto:info@themedicportal.com) or postal address The Medic Porta, 8th Floor Elizabeth House, 39 York Road, London, SE1 7NQ.
+Questions, comments and requests regarding this privacy policy are welcomed and should be sent to us at our email [info@themedicportal.com](mailto:info@themedicportal.com) or postal address The Medic Portal, 1st Floor, The Tower Building, 11 York Road, London SE1 7NX.
 
 ### 13.                EFFECTIVE DATE
 
-This Privacy Policy was uploaded to our website on 16 May 2016 and applies from this date.
+This Privacy Policy was updated in May 2018 and applies from this date.
 
 Loading More Content
+
+We use cookies to ensure that we give you the best experience on our website. 'All Cookies' includes cookies from third-party social media websites. If you continue to use the site without choosing a preference, only necessary cookies will be used. You can adjust cookie settings in your browser.Allow all cookiesAllow only necessary cookies[See our Cookies Policy](https://www.themedicportal.com/cookies-policy/)
