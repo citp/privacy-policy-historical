@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the gonegf.com privacy policy that was archived on 2016-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161210120210id_/http%3A//gonegf.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gonegf.com privacy policy that was archived on 2019-03-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190319065135id_/https%3A//gonegf.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - Gone GF
+# Privacy Policy | Gone GF
 
 This policy covers how Gonegf.com treats personal information that Gonegf.com collects and receives in connection with your use of the Gonegf.com website and related products and services. Personal information is information about you that is personally identifiable like your name, address, email address, or phone number, and that is not otherwise publicly available.
 
