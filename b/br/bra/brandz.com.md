@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the brandz.com privacy policy that was archived on 2018-05-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180505183858id_/http%3A//brandz.com/article/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the brandz.com privacy policy that was archived on 2019-03-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190319092641id_/http%3A//brandz.com/article/privacy-policy) for the most accurate reproduction.*
 
 # brandZ | Privacy Policy
 
@@ -8,7 +8,7 @@ BrandZ Privacy Policy
 
 This website is operated by WPP. By using and visiting our website and by submitting your personal information to us you agree to us using your personal information as set out in this privacy policy.
 
-[[If you just want to know about how we use cookies please click here](http://www.wpp.com/wpp/cookies.htm?&sa=D&ust=1520095812188000&usg=AFQjCNGdCujuaOT0N2C0CvhGobTPMtCLzg).]
+[[If you just want to know about how we use cookies please click here](http://www.wpp.com/wpp/cookies.htm?&sa=D&ust=1544732256549000).]
 
 We respect the privacy of users of our website and recognise that when you choose to provide us with information about yourself, you trust us to act in a responsible manner with that information. This privacy policy contains important information about how we use your personal information.
 
@@ -44,7 +44,33 @@ to provide you with better ways of accessing information from this website;
 
 Send personalised push notifications to your mobile
 
-[For how we use your information that is collected using cookies and similar technologies please see the "Cookies" [here](http://www.wpp.com/wpp/cookies.htm?&sa=D&ust=1520095812189000&usg=AFQjCNGOKYjatHSQacCq_ypwrjOp1sKn-g).]
+[For how we use your information that is collected using cookies and similar technologies please see the "Cookies" [here](http://www.wpp.com/wpp/cookies.htm?&sa=D&ust=1544732256552000).]
+
+Your Legal Rights
+
+Under certain circumstances, you have rights under data protection laws in relation to your personal data. These include the right to:
+
+\- Request access to your personal data.
+
+\- Request correction of your personal data.
+
+\- Request erasure of your personal data.
+
+\- Object to processing of your personal data.
+
+\- Request restriction of processing your personal data.
+
+\- Request transfer of your personal data.
+
+\- Right to withdraw consent.
+
+You can see more about these rights at: [https://ico.org.uk/for-organisations/guide-to-the-general-data-protection-regulation-gdpr/individual-rights/](https://ico.org.uk/for-organisations/guide-to-the-general-data-protection-regulation-gdpr/individual-rights/?&sa=D&ust=1544732256554000) If you wish to exercise any of the rights set out above, please email us at [brandz.website@wpp.com](mailto:brandz.website@wpp.com). 
+
+You will not have to pay a fee to access your personal data (or to exercise any of the other rights). However, we may charge a reasonable fee if your request is clearly unfounded, repetitive or excessive. Alternatively, we may refuse to comply with your request in these circumstances.
+
+We may need to request specific information from you to help us confirm your identity and ensure your right to access your personal data (or to exercise any of your other rights). This is a security measure to ensure that personal data is not disclosed to any person who has no right to receive it. We may also contact you to ask you for further information in relation to your request to speed up our response.
+
+We try to respond to all legitimate requests within one month. Occasionally it may take us longer than a month if your request is particularly complex or you have made a number of requests. In this case, we will notify you and keep you updated.
 
 Do we pass your information to third parties?
 
@@ -86,7 +112,7 @@ We may use information obtained from cookies or similar technology. Cookies are 
 
 Cookies come in many forms. We have set out below the main types and categories of cookies that are used. This section refers to all types and categories of cookies and not just those we use on our website.
 
-First and third-party cookies \- whether a cookie is first-party or third-party refers to the domain placing the cookie. First-party cookies are those set by a website that is being visited by the user, the website displayed in the URL window e.g. [www.wpp.com](http://www.wpp.com/?&sa=D&ust=1520095812191000&usg=AFQjCNEXsYh526s3iPMgHfzP2oip5Ioh6w). Third-Party cookies are cookies that are set by a domain other than that of the website being visited by the user. If a user visits a website and another entity sets a cookie through that website this would be a third-party cookie.
+First and third-party cookies \- whether a cookie is first-party or third-party refers to the domain placing the cookie. First-party cookies are those set by a website that is being visited by the user, the website displayed in the URL window e.g. [www.wpp.com](http://www.wpp.com/?&sa=D&ust=1544732256560000). Third-Party cookies are cookies that are set by a domain other than that of the website being visited by the user. If a user visits a website and another entity sets a cookie through that website this would be a third-party cookie.
 
 Persistent cookies – these cookies remain on a user's device for the period of time specified in the cookie. They are activated each time that the user visits the website that created that particular cookie.
 
@@ -96,23 +122,31 @@ What do we use cookies for?
 
 Cookies fall into one or more of the categories set out below. This website uses cookies that fall into all the categories. Also we use data from targeting cookies placed on your computer by third parties when you have visited other websites.
 
-1\. Strictly necessary cookies – These cookies enable services you have specifically asked for.
+  1. Strictly necessary cookies – These cookies enable services you have specifically asked for.
+
+
 
 These cookies are essential in order to enable you to move around the website and use its features, such as accessing secure areas of the website. Without these cookies certain services you have asked for cannot be provided. e,g, the ASP.NET cookie.
 
-2\. Performance cookies – These cookies collect information on the pages visited.
+  2. Performance cookies – These cookies collect information on the pages visited.
+
+
 
 These cookies collect information about how users use a website, for instance which pages users go to most often, and if they get error messages from web pages. These cookies don't collect information that identifies a visitor. All information these cookies collect is aggregated and therefore anonymous. They are only used to improve how the website works.
 
-3\. Functionality cookies – These cookies remember choices you make to improve your experience.
+  3. Functionality cookies – These cookies remember choices you make to improve your experience.
+
+
 
 These cookies allow the website to remember choices you make and provide enhanced, more personal features. The AddThis cookie provides ‘share this page’ functionality, where a user can email a link from a report to their friends. They may also be used to help provide services you have asked for such as watching a video or commenting on a blog. The information these cookies collect may be anonymised and they cannot track your browsing activity to other websites.
 
-4\. Targeting cookies or advertising cookies – these cookies collect information about your browsing habits in order to make advertising relevant to you and your interests.
+  4. Targeting cookies or advertising cookies – these cookies collect information about your browsing habits in order to make advertising relevant to you and your interests.
+
+
 
 These cookies are used to deliver adverts more relevant to you and your interests. They are also used to limit the number of times you see an advertisement as well as help measure the effectiveness of the advertising campaign. They are usually placed by advertising networks with the website operator's permission. They remember that you have visited a website and this information is shared with other organisation such as advertisers. Quite often targeting or advertising cookies will be linked to site functionality provided by the other organisation.
 
-If you want to delete any cookies that may already be on your computer or device, please refer to the instructions for your file management software to locate the file or directory that stores cookies. If you want to stop cookies being stored on your computer in future, please refer to your browser manufacturer’s instructions by clicking “Help” in your browser menu. Further information on cookies is available at [www.allaboutcookies.org](http://www.allaboutcookies.org/?&sa=D&ust=1520095812192000&usg=AFQjCNGTkinvbRE7m7-elQdWHh-Gz2pn7Q). By deleting our cookies or disabling future cookies you may not be able to access certain areas or features of our website.
+If you want to delete any cookies that may already be on your computer or device, please refer to the instructions for your file management software to locate the file or directory that stores cookies. If you want to stop cookies being stored on your computer in future, please refer to your browser manufacturer’s instructions by clicking “Help” in your browser menu. Further information on cookies is available at [www.allaboutcookies.org](http://www.allaboutcookies.org/?&sa=D&ust=1544732256563000). By deleting our cookies or disabling future cookies you may not be able to access certain areas or features of our website.
 
 Third Party Websites
 
@@ -140,6 +174,6 @@ We reserve the right, at our discretion, to change, modify, add, or remove porti
 
 Contact
 
-You can contact us at brandz.website@wpp.com to discuss any problems with this website.
+You can contact us at [brandz.website@wpp.com](mailto:brandz.website@wpp.com) to discuss any problems with this website.
 
 This privacy policy is governed and construed in accordance with English law.
