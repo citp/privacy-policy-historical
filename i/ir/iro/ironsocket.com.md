@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ironsocket.com privacy policy that was archived on 2017-04-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170417123746id_/https%3A//ironsocket.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ironsocket.com privacy policy that was archived on 2019-03-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190319062236id_/https%3A//ironsocket.com/privacy-policy) for the most accurate reproduction.*
 
 # IronSocket - Privacy Policy
 
@@ -126,9 +126,8 @@ We may change this Policy from time to time, without prior notice to you, consis
 ### Contact Information
 
 Pusa and Daga Hong Kong Limited  
-Suite A, 14th Floor  
-Gaylord Commercial Building  
-114-120 Lockhart Road  
-Wan Chai, Hong Kong
+11/F Three Exchange Square  
+8 Connaught Place  
+Central, Hong Kong
 
 Attention: [legal@pdcontact.com](mailto:legal@pdcontact.com)
