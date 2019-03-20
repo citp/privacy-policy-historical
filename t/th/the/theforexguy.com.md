@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the theforexguy.com privacy policy that was archived on 2015-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151207031037id_/http%3A//www.theforexguy.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the theforexguy.com privacy policy that was archived on 2019-03-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190320030419id_/https%3A//www.theforexguy.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -36,7 +36,7 @@ We are committed to ensuring that your information is secure. In order to preven
 
 ### How we use cookies
 
-A cookie is a small file which asks permission to be placed on your computer's hard drive. Once you agree, the file is added and the cookie helps analyse web traffic or lets you know when you visit a particular site. Cookies allow web applications to respond to you as an individual. The web application can tailor its operations to your needs, likes and dislikes by gathering and remembering information about your preferences.
+A cookie is a small file which asks permission to be placed on your computer’s hard drive. Once you agree, the file is added and the cookie helps analyse web traffic or lets you know when you visit a particular site. Cookies allow web applications to respond to you as an individual. The web application can tailor its operations to your needs, likes and dislikes by gathering and remembering information about your preferences.
 
 We use traffic log cookies to identify which pages are being used. This helps us analyse data about web page traffic and improve our website in order to tailor it to customer needs. We only use this information for statistical analysis purposes and then the data is removed from the system.
 
@@ -46,7 +46,7 @@ You can choose to accept or decline cookies. Most web browsers automatically acc
 
 ### Ad Remarketing through cookie data
 
-Cookies will be used to provide ads to you about theforexguy.com through remarketing techniques. The ads will be displayed across third party ad vendors, including the Google ad network. If you don't wish to receive these targeted ad you can opt out by visiting the [Network Advertising Initiative opt-out page](http://www.networkadvertising.org/managing/opt_out.asp).
+Cookies will be used to provide ads to you about theforexguy.com through remarketing techniques. The ads will be displayed across third party ad vendors, including the Google ad network. If you don’t wish to receive these targeted ad you can opt out by visiting the [Network Advertising Initiative opt-out page](http://www.networkadvertising.org/managing/opt_out.asp).
 
 ### Links to other websites
 
@@ -57,7 +57,7 @@ Our website may contain links to other websites of interest. However, once you h
 You may choose to restrict the collection or use of your personal information in the following ways:
 
   * whenever you are asked to fill in a form on the website, look for the box that you can click to indicate that you do not want the information to be used by anybody for direct marketing purposes
-  * if you have previously agreed to us using your personal information for direct marketing purposes, you may change your mind at any time by writing to or emailing us at [email-obfuscate email="support@TheForexGuy.com"]
+  * if you have previously agreed to us using your personal information for direct marketing purposes, you may change your mind at any time by writing to or emailing us at [email-obfuscate email=”[[email protected]](https://web.archive.org/cdn-cgi/l/email-protection)”]
 
 
 
