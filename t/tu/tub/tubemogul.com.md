@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tubemogul.com privacy policy that was archived on 2018-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181226083216id_/https%3A//www.adobe.com/privacy/marketing-cloud.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tubemogul.com privacy policy that was archived on 2019-03-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190320225918id_/https%3A//www.adobe.com/privacy/marketing-cloud.html) for the most accurate reproduction.*
 
 # Adobe Experience Cloud privacy
 
