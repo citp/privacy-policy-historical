@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the renttherunway.com privacy policy that was archived on 2017-03-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170327072920id_/https%3A//www.renttherunway.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the renttherunway.com privacy policy that was archived on 2019-03-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190320174532id_/https%3A//www.renttherunway.com/privacy) for the most accurate reproduction.*
 
 # Rent the Runway
 
@@ -137,7 +137,7 @@ When you provide us with your third party account credentials, to such services 
 
 #### Chat Rooms/ Discussion Boards
 
-If you choose to post messages in our chat rooms or other public message areas or leave feedback for other users, please note that such information is available to anyone with Internet access. We may, but are not obligated to, collect the information you post in our chat rooms or other public message areas to resolve disputes, provide customer support and troubleshoot problems as permitted by law. PLEASE BE CAREFUL WHEN DISCLOSING ANY INFORMATION IN CHAT ROOMS, DISCUSSION BOARDS AND OTHER PUBLIC POSTING AREAS. WE ARE NOT RESPONSIBLE FOR THE USE BY OTHERS OF THE INFORMATION YOU PUBLICLY DISCLOSE. If you send us personal correspondence, such as emails or letters, or if other users or third parties send us correspondence about your activities or postings on the Website, we may collect such information into a file specific to you. We reserve the right to terminate the accounts of visitors who use these Services in a manner that is inconsistent with the [Terms and Conditions](https://web.archive.org/web/20170327072920id_/https%3A//www.renttherunway.com/termsnconditions).
+If you choose to post messages in our chat rooms or other public message areas or leave feedback for other users, please note that such information is available to anyone with Internet access. We may, but are not obligated to, collect the information you post in our chat rooms or other public message areas to resolve disputes, provide customer support and troubleshoot problems as permitted by law. PLEASE BE CAREFUL WHEN DISCLOSING ANY INFORMATION IN CHAT ROOMS, DISCUSSION BOARDS AND OTHER PUBLIC POSTING AREAS. WE ARE NOT RESPONSIBLE FOR THE USE BY OTHERS OF THE INFORMATION YOU PUBLICLY DISCLOSE. If you send us personal correspondence, such as emails or letters, or if other users or third parties send us correspondence about your activities or postings on the Website, we may collect such information into a file specific to you. We reserve the right to terminate the accounts of visitors who use these Services in a manner that is inconsistent with the [Terms and Conditions](https://web.archive.org/web/20190320174532id_/https%3A//www.renttherunway.com/termsnconditions).
 
   
 
@@ -245,7 +245,7 @@ The Website contains links to other sites that are not owned or controlled by Re
 
 #### Access to Personally Identifiable Information
 
-If your information changes, or if you no longer desire our Services, you may correct, update, delete it or deactivate your account by going to your account or by emailing our Customer Support at [info@renttherunway.com](https://web.archive.org/web/20170327072920id_/https%3A//www.renttherunway.com/info@renttherunway.com) or by contacting us by telephone or postal mail at the contact information listed above.
+If your information changes, or if you no longer desire our Services, you may correct, update, delete it or deactivate your account by going to your account or by emailing our Customer Support at [info@renttherunway.com](https://web.archive.org/web/20190320174532id_/https%3A//www.renttherunway.com/info@renttherunway.com) or by contacting us by telephone or postal mail at the contact information listed above.
 
   
 
@@ -261,7 +261,7 @@ As part of securing personal data stored on our servers, we restrict access to P
 
 If we learn of a security breach, we may attempt to notify you electronically so that you can take appropriate protective steps. By using the Services or the Website or by providing Personal Information to us, you agree that we can communicate with you electronically regarding security, privacy, and administrative issues relating to your use of the Services.
 
-If a security systems breach occurs, we may post a notice on our homepage ([www.renttherunway.com](https://web.archive.org/web/20170327072920id_/https%3A//www.renttherunway.com/www.renttherunway.com)) or elsewhere on the Website and may send email to you at the email address you have provided to us. Depending on where you live, you may have a legal right to receive notice of a security breach in writing. This notice paragraph applies to users of Services and the Website.
+If a security systems breach occurs, we may post a notice on our homepage ([www.renttherunway.com](https://web.archive.org/web/20190320174532id_/https%3A//www.renttherunway.com/www.renttherunway.com)) or elsewhere on the Website and may send email to you at the email address you have provided to us. Depending on where you live, you may have a legal right to receive notice of a security breach in writing. This notice paragraph applies to users of Services and the Website.
 
   
 
@@ -282,7 +282,7 @@ The Children’s Online Privacy Protection Act (“COPPA”) protects the online
 
 #### Notice to California Residents
 
-If you are a resident of the state of California, California’s “Shine the Light” law permits you to request information regarding the disclosure of your Personal Information by us to a third party for the third party's direct marketing purposes. To make such a request, please send an email to [legalinfo@renttherunway.com](https://web.archive.org/web/20170327072920id_/https%3A//www.renttherunway.com/legalinfo@renttherunway.com) or write us at: Rent the Runway, Inc., 163 Varick St., 5th Floor, New York, NY 10013, Attention: Legal Department.
+If you are a resident of the state of California, California’s “Shine the Light” law permits you to request information regarding the disclosure of your Personal Information by us to a third party for the third party's direct marketing purposes. To make such a request, please send an email to [legalinfo@renttherunway.com](https://web.archive.org/web/20190320174532id_/https%3A//www.renttherunway.com/legalinfo@renttherunway.com) or write us at: Rent the Runway, Inc., 163 Varick St., 5th Floor, New York, NY 10013, Attention: Legal Department.
 
   
 
@@ -296,7 +296,7 @@ We may change this Privacy Policy from time to time. The most recent version of 
 
 #### Contact Us/Feedback 
 
-If you have questions, concerns or feedback regarding this Privacy Policy, you can contact us at [legalinfo@renttherunway.com](https://web.archive.org/web/20170327072920id_/https%3A//www.renttherunway.com/legalinfo@renttherunway.com), (212) 462-2342, Rent the Runway, Inc.,163 Varick Street, 5th Floor, New York, NY 10013.
+If you have questions, concerns or feedback regarding this Privacy Policy, you can contact us at [legalinfo@renttherunway.com](https://web.archive.org/web/20190320174532id_/https%3A//www.renttherunway.com/legalinfo@renttherunway.com), (212) 462-2342, Rent the Runway, Inc.,163 Varick Street, 5th Floor, New York, NY 10013.
 
   
 
