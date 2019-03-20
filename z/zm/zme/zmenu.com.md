@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the zmenu.com privacy policy that was archived on 2017-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171102071559id_/http%3A//www.zmenu.com/privacy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the zmenu.com privacy policy that was archived on 2019-03-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190320051600id_/https%3A//www.zmenu.com/privacy.jsp) for the most accurate reproduction.*
 
 # The most comprehensive restaurant menus & dish reviews site - Zmenu
 
