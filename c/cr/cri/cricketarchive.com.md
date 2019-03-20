@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cricketarchive.com privacy policy that was archived on 2018-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181212015828id_/http%3A//my.cricketarchive.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cricketarchive.com privacy policy that was archived on 2019-03-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190320201208id_/http%3A//my.cricketarchive.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - CricketArchive
 
