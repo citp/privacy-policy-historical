@@ -1,12 +1,10 @@
-> *The following text is extracted and transformed from the freehoroscopesastrology.com privacy policy that was archived on 2016-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161219214104id_/http%3A//www.freehoroscopesastrology.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freehoroscopesastrology.com privacy policy that was archived on 2019-03-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190320101304id_/https%3A//www.freehoroscopesastrology.com/privacy.aspx) for the most accurate reproduction.*
 
 # Free Horoscopes Astrology Privacy Policy
 
 |  | 
 
 * * *
-
-[ ](http://www.oranum.com/free-chat-testimonial?s=1&p=9&w=102878&t=246&c=14744)
 
 Free Horoscopes Astrology respects each individual’s right to personal privacy. We will collect and use information through our Web site only in the ways disclosed in this statement. This statement applies to information collected at the freehoroscopesastrology.com web site (Free Horoscopes Astrology) and its subdomains, owned and operated by the Millenium Multimedia Corporation, 751 NW 108th Ave, Plantation FL 33324. We may amend this statement at any time. Such amendments will apply from the time of publication forward.
 
@@ -70,13 +68,13 @@ Always remember to log out after your session ends, to ensure that others cannot
 
 ](mailto:freehoroscopesastrology@millenniummultimedia.net)
 
-[ ](mailto:freehoroscopesastrology@millenniummultimedia.net)[](http://www.freehoroscopesastrology.com/free-zodiac-birth-chart.aspx)
+[ ](mailto:freehoroscopesastrology@millenniummultimedia.net)[](https://www.freehoroscopesastrology.com/free-zodiac-birth-chart.aspx)
 
-Our in-depth personal astrology reports and personalized horoscopes are all about YOU, based on your zodiac birth chart. Birthday horoscopes, based on your birth place, birth date and time are the most accurate readings available. You'll be amazed by these in-depth astrology forecasts and personal zodiac interpretations. Available online and for immediate download without obligation, so grab your [free natal chart, birth chart interpretation and free personality profile](http://www.freehoroscopesastrology.com/free-zodiac-birth-chart.aspx) today. If you like the sample readings, you'll be thrilled with the full length astrology predictions and reports, on sale now!
+Our in-depth personal astrology reports and personalized horoscopes are all about YOU, based on your zodiac birth chart. Birthday horoscopes, based on your birth place, birth date and time are the most accurate readings available. You'll be amazed by these in-depth astrology forecasts and personal zodiac interpretations. Available online and for immediate download without obligation, so grab your [free natal chart, birth chart interpretation and free personality profile](https://www.freehoroscopesastrology.com/free-zodiac-birth-chart.aspx) today. If you like the sample readings, you'll be thrilled with the full length astrology predictions and reports, on sale now!
 
 **Favorite Astrology Quote:** "You are a child of the universe, no less than the trees and the stars.  You have a right to be here.  And whether or not it is clear to you, no doubt the universe is unfolding as it should." - Max Ehrman
 
-[](http://www.freehoroscopesastrology.com/personal-astrology-reading-horoscope-2016.aspx)
+[](https://www.freehoroscopesastrology.com/personal-astrology-reading-horoscope-2018.aspx)
 
 [](http://shop.freehoroscopesastrology.com/)
 
