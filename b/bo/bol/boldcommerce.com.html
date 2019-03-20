@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the boldcommerce.com privacy policy that was archived on 2018-12-03.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20181203031058id_/https%3A//boldcommerce.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the boldcommerce.com privacy policy that was archived on 2019-03-20.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20190320033200id_/https%3A//boldcommerce.com/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html class="fouc" lang="en" prefix="og: http://ogp.me/ns#"><head lang="en">
   <meta charset="utf-8">
@@ -57,7 +57,10 @@
   <meta name="theme-color" content="#035882">
 
   <!-- Stylesheets -->
-  <link rel="stylesheet" type="text/css" href="/assets/main-69bc9f236b9e0fdde88246819d2293464ea37895ce588cab4e5b6c43dc71597b.css">
+  
+
+  <link as="style" rel="preload" type="text/css" href="/assets/main-9a2160b8c7549d91242e.css">
+  <link rel="stylesheet" type="text/css" href="/assets/main-9a2160b8c7549d91242e.css">
   
 <style>.async-hide { opacity: 0 !important}</style>
 
@@ -85,20 +88,26 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 
 
     <!--Install Modal-->
-<div id="contactModal">
+<div id="contactModal" aria-hidden="true">
   <!--THIS IS IMPORTANT! to close the modal, the class name has to match the name given on the ID  class="close-contactModal" -->
 
   <div class="modal-content">
     <section>
 
       <div class="container">
-        <div class="close-contactModal">
+        <a aria-hidden="true" href="javascript:void(0)" class="close-contactModal">
+          <span class="sr-only">Close contact modal</span>
           <i class="fa fa-times-circle faa-pulse animated-hover"></i>
-        </div>
+        </a>
         <div class="row justify-content-center">
           <div class="col-md-9">
 
-            <h2 class="my-4">Contact Bold Commerce</h2>
+            <h2 tabindex="0" class="my-4" id="contact_modal_title">Contact Bold Commerce</h2>
+
+            <a href="javascript:void(0)" class="close-contactModal sr-only">
+                <span>Close contact modal</span>
+                <i class="fa fa-times-circle faa-pulse animated-hover"></i>
+            </a>
 
             <form method="post" action="/sendform.php" autocomplete="off">
               <input type="hidden" name="_origin" value="https://boldcommerce.com/privacy.html">
@@ -107,29 +116,29 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
               <div class="row">
                 <div class="col-md-6">
                   <div class="w-100 mdl-textfield mdl-js-textfield mdl-textfield--floating-label">
-                    <input class="mdl-textfield__input" type="text" id="contact-fname" name="firstname" required="">
-                    <label class="mdl-textfield__label" for="contact-fname">First name</label>
+                    <input aria-labelledby="contact-fname_label" class="mdl-textfield__input" type="text" id="contact-fname" name="firstname" required="">
+                    <label aria-hidden="true" id="contact-fname_label" class="mdl-textfield__label" for="contact-fname">First name</label>
                   </div>
                 </div>
                 <div class="col-md-6">
                   <div class="w-100 mdl-textfield mdl-js-textfield mdl-textfield--floating-label">
-                    <input class="mdl-textfield__input" type="text" id="contact-lname" name="lasttname" required="">
-                    <label class="mdl-textfield__label" for="contact-lname">Last name</label>
+                    <input aria-labelledby="contact-lname_label" class="mdl-textfield__input" type="text" id="contact-lname" name="lasttname" required="">
+                    <label aria-hidden="true" id="contact-lname_label" class="mdl-textfield__label" for="contact-lname">Last name</label>
                   </div>
                 </div>
               </div>
               <div class="row">
                 <div class="col-md-6">
                   <div class="w-100 mdl-textfield mdl-js-textfield mdl-textfield--floating-label">
-                    <input class="mdl-textfield__input" type="email" id="contact-email" name="email" required="">
-                    <label class="mdl-textfield__label" for="contact-email">Email</label>
+                    <input aria-labelledby="contact-email_label" class="mdl-textfield__input" type="email" id="contact-email" name="email" required="">
+                    <label aria-hidden="true" id="contact-email_label" class="mdl-textfield__label" for="contact-email">Email</label>
                     <span class="mdl-textfield__error">Please enter a valid email address.</span>
                   </div>
                 </div>
                 <div class="col-md-6">
                   <div class="w-100 mdl-textfield mdl-js-textfield mdl-textfield--floating-label">
-                    <input class="mdl-textfield__input" type="text" id="contact-position" name="role" required="">
-                    <label class="mdl-textfield__label" for="contact-position">Your position at the company</label>
+                    <input aria-labelledby="contact-position_label" class="mdl-textfield__input" type="text" id="contact-position" name="role" required="">
+                    <label aria-hidden="true" id="contact-position_label" class="mdl-textfield__label" for="contact-position">Your position at the company</label>
                     <span class="mdl-textfield__error">Please enter a valid position.</span>
                   </div>
                 </div>
@@ -137,8 +146,8 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
               <div class="row">
                 <div class="col-md-12">
                   <div class="w-100 mdl-textfield mdl-js-textfield mdl-textfield--floating-label">
-                    <input class="mdl-textfield__input" type="text" id="contact-website" name="website" required="">
-                    <label class="mdl-textfield__label" for="contact-website">Your store URL</label>
+                    <input aria-labelledby="contact-website_label" class="mdl-textfield__input" type="text" id="contact-website" name="website" required="">
+                    <label aria-hidden="true" id="contact-website_label" class="mdl-textfield__label" for="contact-website">Your store URL</label>
                   </div>
                 </div>
               </div>
@@ -151,10 +160,10 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
                       <option value="Big Commerce">Big Commerce</option>
                       <option value="Magento">Magento</option>
                       <option value="Woo Commerce">Woo Commerce</option>
-                      <option value="Demandware">Demandware</option>
+                      <option value="Salesforce Commerce Cloud">Salesforce Commerce Cloud</option>
                       <option value="Other">Other</option>
                     </select>
-                    <label class="mdl-textfield__label" for="contact-ecommerce_platform">Your eCommerce platform</label>
+                    <label aria-hidden="true" class="mdl-textfield__label" for="contact-ecommerce_platform">Your eCommerce platform</label>
                   </div>
                 </div>
               </div>
@@ -167,7 +176,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
                       <option value="$500K - $2M">$500K - $2M</option>
                       <option value="$5M+">$5M+</option>
                     </select>
-                    <label class="mdl-textfield__label" for="contact-annual_revenue_dropdown">Your store's annual revenue</label>
+                    <label aria-hidden="true" class="mdl-textfield__label" for="contact-annual_revenue_dropdown">Your store's annual revenue</label>
                   </div>
                 </div>
               </div>
@@ -175,7 +184,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
                 <div class="col-md-12">
                   <div class="w-100 mdl-textfield mdl-js-textfield mdl-textfield--floating-label">
                     <textarea id="contact-comments" class="mdl-textfield__input" name="comments" required=""></textarea>
-                    <label for="contact-comments" class="mdl-textfield__label">Your Message for Bold Commerce</label>
+                    <label aria-hidden="true" for="contact-comments" class="mdl-textfield__label">Your Message for Bold Commerce</label>
                   </div>
                 </div>
               </div>
@@ -187,6 +196,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
                   <button disabled="" type="submit" class="btn btn-primary btn-large" id="submitContactForm"><i class="fas fa-envelope left"></i> Submit</button>
                 </div>
               </div>
+
             </form>
           </div>
         </div>
@@ -197,8 +207,10 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 
 
 
+
+
     <!--Install Modal-->
-<div id="hire-contactModal">
+<div id="hire-contactModal" aria-hidden="true">
   <!--THIS IS IMPORTANT! to close the modal, the class name has to match the name given on the ID  class="close-contactModal" -->
 
   <div class="modal-content">
@@ -220,22 +232,22 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
               <div class="row">
                 <div class="col-md-6">
                   <div class="w-100 mdl-textfield mdl-js-textfield mdl-textfield--floating-label">
-                    <input class="mdl-textfield__input" type="text" id="contact-fname" name="firstname" required="">
-                    <label class="mdl-textfield__label" for="contact-fname">First name</label>
+                    <input aria-labelledby="mini_contact-fname_label" class="mdl-textfield__input" type="text" id="mini_contact-fname" name="firstname" required="">
+                    <label id="mini_contact-fname_label" class="mdl-textfield__label" for="mini_contact-fname">First name</label>
                   </div>
                 </div>
                 <div class="col-md-6">
                   <div class="w-100 mdl-textfield mdl-js-textfield mdl-textfield--floating-label">
-                    <input class="mdl-textfield__input" type="text" id="contact-lname" name="lasttname" required="">
-                    <label class="mdl-textfield__label" for="contact-lname">Last name</label>
+                    <input aria-labelledby="mini_contact-lname_label" class="mdl-textfield__input" type="text" id="mini_contact-lname" name="lasttname" required="">
+                    <label id="mini_contact-lname_label" class="mdl-textfield__label" for="mini_contact-lname">Last name</label>
                   </div>
                 </div>
               </div>
               <div class="row">
                 <div class="col-md-12">
                   <div class="w-100 mdl-textfield mdl-js-textfield mdl-textfield--floating-label">
-                    <input class="mdl-textfield__input" type="email" id="contact-email" name="email" required="">
-                    <label class="mdl-textfield__label" for="contact-email">Email</label>
+                    <input aria-labelledby="mini_contact-email_label" class="mdl-textfield__input" type="email" id="mini_contact-email" name="email" required="">
+                    <label id="mini_contact-email_label" class="mdl-textfield__label" for="mini_contact-email">Email</label>
                     <span class="mdl-textfield__error">Please enter a valid email address.</span>
                   </div>
                 </div>
@@ -244,8 +256,8 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
               <div class="row">
                 <div class="col-md-12">
                   <div class="w-100 mdl-textfield mdl-js-textfield mdl-textfield--floating-label">
-                    <textarea id="contact-comments" class="mdl-textfield__input" name="comments" required=""></textarea>
-                    <label for="contact-comments" class="mdl-textfield__label">Your Message for Bold Commerce</label>
+                    <textarea aria-labelledby="mini_contact-comments_label" id="mini_contact-comments" class="mdl-textfield__input" name="comments" required=""></textarea>
+                    <label id="mini_contact-comments_label" for="mini_contact-comments" class="mdl-textfield__label">Your Message for Bold Commerce</label>
                   </div>
                 </div>
               </div>
@@ -269,58 +281,63 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 
 
     <!--Install Modal-->
-<div id="partnersModal">
+<div id="partnersModal" aria-hidden="true">
   <!--THIS IS IMPORTANT! to close the modal, the class name has to match the name given on the ID  class="close-partnersModal" -->
 
   <div class="modal-content">
     <section>
 
       <div class="container">
-        <div class="close-partnersModal">
+        <a class="close-partnersModal" href="javascript:void(0)">
+          <span class="sr-only">Close contact modal</span>
           <i class="fa fa-times-circle faa-pulse animated-hover"></i>
-        </div>
+        </a>
         <div class="row justify-content-center">
           <div class="col-md-9">
 
-            <h2 class="my-4">Contact the Bold Commerce partners team
+            <h2 tabindex="0" class="my-4">Contact the Bold Commerce partners team</h2>
 
-            </h2>
-<form method="post" action="/sendform.php" autocomplete="off">
+              <a class="close-partnersModal sr-only" href="javascript:void(0)">
+                <span class="sr-only">Close contact modal</span>
+                <i class="fa fa-times-circle faa-pulse animated-hover"></i>
+              </a>
+
+            <form method="post" action="/sendform.php" autocomplete="off">
               <input type="hidden" name="_origin" value="https://boldcommerce.com/privacy.html">
               <input type="hidden" name="_return" value="/thank-you">
               <input type="hidden" name="_form" value="partners-form">
               <div class="row">
                 <div class="col-md-6">
                   <div class="w-100 mdl-textfield mdl-js-textfield mdl-textfield--floating-label">
-                    <input class="mdl-textfield__input" type="text" id="contact-fname" name="firstname" required="">
-                    <label class="mdl-textfield__label" for="contact-fname">First name</label>
+                    <input aria-labelledby="partners-fname_label" class="mdl-textfield__input" type="text" id="partners-fname" name="firstname" required="">
+                    <label aria-hidden="true" id="partners-fname_label" class="mdl-textfield__label" for="partners-fname">First name</label>
                   </div>
                 </div>
                 <div class="col-md-6">
                   <div class="w-100 mdl-textfield mdl-js-textfield mdl-textfield--floating-label">
-                    <input class="mdl-textfield__input" type="text" id="contact-lname" name="lasttname" required="">
-                    <label class="mdl-textfield__label" for="contact-lname">Last name</label>
+                    <input aria-labelledby="partners-lname_label" class="mdl-textfield__input" type="text" id="partners-lname" name="lasttname" required="">
+                    <label aria-hidden="true" id="partners-lname_label" class="mdl-textfield__label" for="partners-lname">Last name</label>
                   </div>
                 </div>
               </div>
               <div class="row">
                 <div class="col-md-12">
                   <div class="w-100 mdl-textfield mdl-js-textfield mdl-textfield--floating-label">
-                    <input class="mdl-textfield__input" type="text" id="contact-company" name="company" required="">
-                    <label class="mdl-textfield__label" for="contact-company">Company name</label>
+                    <input aria-labelledby="partners-company_label" class="mdl-textfield__input" type="text" id="partners-company" name="company" required="">
+                    <label aria-hidden="true" id="partners-company_label" class="mdl-textfield__label" for="partners-company">Company name</label>
                   </div>
                 </div>
                 <div class="col-md-12">
                   <div class="w-100 mdl-textfield mdl-js-textfield mdl-textfield--floating-label">
-                    <input class="mdl-textfield__input" type="email" id="contact-email" name="email" required="">
-                    <label class="mdl-textfield__label" for="contact-email">Email</label>
+                    <input aria-labelledby="partners-email_label" class="mdl-textfield__input" type="email" id="partners-email" name="email" required="">
+                    <label aria-hidden="true" id="partners-email_label" class="mdl-textfield__label" for="partners-email">Email</label>
                     <span class="mdl-textfield__error">Please enter a valid email address.</span>
                   </div>
                 </div>
                 <div class="col-md-12">
                   <div class="w-100 mdl-textfield mdl-js-textfield mdl-textfield--floating-label">
-                    <textarea id="contact-comments" class="mdl-textfield__input" name="comments" required=""></textarea>
-                    <label for="contact-comments" class="mdl-textfield__label">Your Message for Bold Commerce</label>
+                    <textarea aria-labelledby="partners-comments_label" id="partners-comments" class="mdl-textfield__input" name="comments" required=""></textarea>
+                    <label aria-hidden="true" id="partners-comments_label" for="partners-comments" class="mdl-textfield__label">Your Message for Bold Commerce</label>
                   </div>
                 </div>
               </div>
@@ -346,13 +363,18 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 
     <!--SNIPPET TO INCLUDE A CTA BAR AT THE TOP-->
 <!--  -->
-<header class="legal bg-bold-commerce">
+<header class=" legal bg-bold-commerce" role="banner" aria-label="page header: main links and page intro">
+  <a class="sr-only skip_to_main_link" href="javascript:void(0)" target="_self">Skip to main content</a>
   <div class="wave-header">
     <div class="container">
       
-      <nav class="navbar navbar-dark p-0 d-md-none">
+      <nav class="navbar navbar-dark p-0 d-lg-none" role="navigation">
+  <h2 class="sr-only">Mobile main navigation</h2>
+
   <div class="navbar-brand">
-    <a href="https://boldcommerce.com"><img class="logo" width="90" src="/assets/boldlogo-inverse-68390c0f70d957b684728f5522384c82f34fc94eebadfc30e3dd228854e25a2a.svg"></a>
+    <a href="https://boldcommerce.com">
+      <img src="/assets/img/boldlogo-inverse-f210d2ffe419a76a3d199f01ff84ccd7.svg" class="logo" alt="bold logo">
+    </a>
     <!---->
   </div>
   <button class="navbar-toggler mt-20 mb-10" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
@@ -821,7 +843,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
                 
                 
                 
-                <li><a href="/store-locator">Store / Deal Locator</a></li>
+                <li><a href="/store-locator">Store / Dealer Locator</a></li>
                 
                 
                 
@@ -836,6 +858,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 
             <!-- Bold Solutions List -->
             
+
           </ul>
         </div>
       </li>
@@ -855,7 +878,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
             
             
             <li class="solutions-menuitem py-20 border-bottom">
-              <a href="/bold-checkout/" class="bold-checkout pr-70">
+              <a href="/bold-checkout/index.html" class="bold-checkout pr-70">
                   <span>Bold Checkout</span>
                   Custom Checkout, Multi-Currency, Fraud Security…
                 </a>
@@ -872,7 +895,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
             
             
             <li class="solutions-menuitem py-20 border-bottom">
-              <a href="/bold-conversion/" class="bold-conversion pr-70">
+              <a href="/bold-conversion/index.html" class="bold-conversion pr-70">
                   <span>Bold Conversion</span>
                   Upsells, Discounts, Sales Motivator, Auto Suggestions.
                 </a>
@@ -908,7 +931,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
             
             
             <li class="solutions-menuitem py-20 border-bottom">
-              <a href="/bold-everywhere/" class="bold-everywhere pr-70">
+              <a href="/bold-everywhere/index.html" class="bold-everywhere pr-70">
                   <span>Bold Everywhere</span>
                   Multi-Currency, Multi-Language, Custom Checkout.
                 </a>
@@ -971,6 +994,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 
             <!-- Other Link Lists -->
             
+
           </ul>
         </div>
       </li>
@@ -1024,6 +1048,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
             </li>
             
             
+
           </ul>
         </div>
       </li>
@@ -1041,7 +1066,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
               <h2>Community</h2>
               <ul class="links-list p-0">
                 
-                <li><a href="https://support.boldcommerce.com" target="_blank" rel="noopener noreferrer">Help Centre</a></li>
+                <li><a href="https://support.boldcommerce.com" target="_blank" rel="noopener noreferrer">Help Center</a></li>
                 
                 <li><a href="https://blog.boldcommerce.com" target="_blank" rel="noopener noreferrer">Bold Blog</a></li>
                 
@@ -1077,58 +1102,98 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
             </li>
             
             
+
           </ul>
         </div>
       </li>
       
+
+
+      <li class="nav-item dropdown mb-3">
+        <a class="nav-link dropdown-toggle" href="#" id="accessibility_options" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                accessibility options
+              </a>
+        <div class="dropdown-menu text-right" aria-labelledby="">
+          <ul class="px-40">
+            <!-- eCommerce App List -->
+
+            <li class="py-20 border-bottom">
+              <ul class="links-list p-0">
+                <li><a class="toggle_high_contrast_link" href="javascript:void(0)">Turn on high contrast</a></li>
+              </ul>
+            </li>
+
+          </ul>
+        </div>
+      </li>
+
+
     </ul>
   </div>
 </nav>
 
       
-      <div class="row d-none d-md-flex">
-        <div class="col-xs-6 col-sm-2">
-          <a href="https://boldcommerce.com"><img class="mt-20 mt-md-30 logo" src="/assets/boldlogo-inverse-68390c0f70d957b684728f5522384c82f34fc94eebadfc30e3dd228854e25a2a.svg">
-        </a>
-</div>
+      <div class="row d-none d-lg-flex">
+        <div class="logo_wrapper col-xs-6 col-sm-2">
+          <a href="https://boldcommerce.com">
+            <img src="/assets/img/boldlogo-inverse-f210d2ffe419a76a3d199f01ff84ccd7.svg" class="mt-20 mt-md-30 logo" alt="bold logo">
+          </a>
+        </div>
         
-        <div class="col-md-10 col-xs-6 cd-morph-dropdown text-right">
+        <div class="nav_wrapper col-md-10 col-xs-6 cd-morph-dropdown text-right">
   <a href="#0" class="nav-trigger">Open Nav<span aria-hidden="true"></span></a>
-  <nav class="main-nav">
+
+  <nav class="main-nav" role="navigation" aria-label="main navigation">
+
+    <h2 class="sr-only">Desktop main navigation</h2>
+
     <ul>
       
       <li class="has-dropdown links" data-content="ecommerce-apps">
-        <a>eCommerce Apps</a>
+        <a aria-expanded="false" aria-haspopup="true" href="javascript:void(0)">eCommerce Apps</a>
       </li>
       
       <li class="has-dropdown gallery" data-content="solutions">
-        <a>Solutions</a>
+        <a aria-expanded="false" aria-haspopup="true" href="javascript:void(0)">Solutions</a>
       </li>
       
       <li class="has-dropdown links" data-content="partners">
-        <a>Partners</a>
+        <a aria-expanded="false" aria-haspopup="true" href="javascript:void(0)">Partners</a>
       </li>
       
       <li class="has-dropdown links" data-content="more">
-        <a>More</a>
+        <a aria-expanded="false" aria-haspopup="true" href="javascript:void(0)">More</a>
       </li>
       
       <li class="button">
         <a href="https://support.boldcommerce.com" class="btn-support" target="_blank" rel="noopener noreferrer">Support</a>
       </li>
+
+      <li class="accessibility_options" data-content="accessibility_options">
+          <button class="btn-hi-contrast" aria-haspopup="true" data-target="#collapseHighContrast" href="javascript:void(0)" data-toggle="collapse" type="button" aria-expanded="false" aria-controls="collapseHighContrast">
+            <span class="sr-only">accessibility options</span>
+            <i class="fas fa-universal-access fa-2x"></i>
+          </button>
+          <div class="collapse" id="collapseHighContrast">
+            <a class="toggle_high_contrast_link" href="javascript:void(0)"><input class="mr-2" type="checkbox" id="contrastCheck">High contrast</a>
+          </div>
+      </li>
+
     </ul>
+
   </nav>
+
   <div class="morph-dropdown-wrapper">
     <div class="dropdown-list">
       <ul>
         
-        <li id="ecommerce-apps" class="dropdown links">
+        <li id="submenu_ecommerce-apps" class="dropdown links">
           <a class="label">eCommerce Apps</a>
-          <div class="content" style="width: 530px;;">
+          <div class="content" style="width: 540px;">
             <ul>
 
-            <!-- eCommerce App List -->
-            
+              <!-- eCommerce App List -->
+              
               
               <li>
                 <h2>Subscriptions</h2>
@@ -1169,7 +1234,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
                   
                   
                   
-                  <li><a href="/subscriptions">Subscriptions</a></li>
+                  <li><a tabindex="5" href="/subscriptions">Subscriptions</a></li>
                   
                   
                   
@@ -1188,7 +1253,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
                   
                   
                   
-                  <li><a href="/cashier">Cashier</a></li>
+                  <li><a tabindex="5" href="/cashier">Cashier</a></li>
                   
                   
                   
@@ -1204,7 +1269,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
                   
                   
                   
-                  <li><a href="/multi-currency">Multi-Currency</a></li>
+                  <li><a tabindex="5" href="/multi-currency">Multi-Currency</a></li>
                   
                   
                   
@@ -1263,7 +1328,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
                   
                   
                   
-                  <li><a href="/returns-manager">Returns Manager</a></li>
+                  <li><a tabindex="5" href="/returns-manager">Returns Manager</a></li>
                   
                   
                   
@@ -1284,7 +1349,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
                 <ul class="links-list">
                   
                   
-                  <li><a href="/bold-brain">Bold Brain</a></li>
+                  <li><a tabindex="5" href="/bold-brain">Bold Brain</a></li>
                   
                   
                   
@@ -1316,7 +1381,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
                   
                   
                   
-                  <li><a href="/social-autopilot">Social Autopilot</a></li>
+                  <li><a tabindex="5" href="/social-autopilot">Social Autopilot</a></li>
                   
                   
                   
@@ -1355,11 +1420,11 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
                   
                   
                   
-                  <li><a href="/product-builder">Product Builder</a></li>
+                  <li><a tabindex="5" href="/product-builder">Product Builder</a></li>
                   
                   
                   
-                  <li><a href="/product-options">Product Options</a></li>
+                  <li><a tabindex="5" href="/product-options">Product Options</a></li>
                   
                   
                   
@@ -1412,7 +1477,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
                   
                   
                   
-                  <li><a href="/quickbooks">Quickbooks Integration</a></li>
+                  <li><a tabindex="5" href="/quickbooks">Quickbooks Integration</a></li>
                   
                   
                   
@@ -1426,7 +1491,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
                   
                   
                   
-                  <li><a href="/xero">Xero Integration</a></li>
+                  <li><a tabindex="5" href="/xero">Xero Integration</a></li>
                   
                   
                 </ul>
@@ -1439,7 +1504,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
                   
                   
                   
-                  <li><a href="/bundles">Bundles</a></li>
+                  <li><a tabindex="5" href="/bundles">Bundles</a></li>
                   
                   
                   
@@ -1449,7 +1514,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
                   
                   
                   
-                  <li><a href="/kickbooster">Kickbooster</a></li>
+                  <li><a tabindex="5" href="/kickbooster">Kickbooster</a></li>
                   
                   
                   
@@ -1457,17 +1522,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
                   
                   
                   
-                  <li><a href="/motivator">Motivator</a></li>
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
-                  
+                  <li><a tabindex="5" href="/motivator">Motivator</a></li>
                   
                   
                   
@@ -1479,7 +1534,17 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
                   
                   
                   
-                  <li><a href="/upsell">Upsell</a></li>
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  <li><a tabindex="5" href="/upsell">Upsell</a></li>
                   
                   
                   
@@ -1498,15 +1563,11 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
                   
                   
                   
-                  <li><a href="/custom-pricing">Custom Pricing</a></li>
+                  <li><a tabindex="5" href="/custom-pricing">Custom Pricing</a></li>
                   
                   
                   
-                  <li><a href="/discounts">Discounts</a></li>
-                  
-                  
-                  
-                  
+                  <li><a tabindex="5" href="/discounts">Discounts</a></li>
                   
                   
                   
@@ -1520,7 +1581,11 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
                   
                   
                   
-                  <li><a href="/quantity-breaks">Quantity Breaks</a></li>
+                  
+                  
+                  
+                  
+                  <li><a tabindex="5" href="/quantity-breaks">Quantity Breaks</a></li>
                   
                   
                   
@@ -1557,15 +1622,11 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
                   
                   
                   
-                  <li><a href="/loyalty-points">Loyalty Points</a></li>
+                  <li><a tabindex="5" href="/loyalty-points">Loyalty Points</a></li>
                   
                   
                   
-                  <li><a href="/memberships.html">Memberships</a></li>
-                  
-                  
-                  
-                  
+                  <li><a tabindex="5" href="/memberships.html">Memberships</a></li>
                   
                   
                   
@@ -1581,7 +1642,11 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
                   
                   
                   
-                  <li><a href="/store-locator">Store / Deal Locator</a></li>
+                  
+                  
+                  
+                  
+                  <li><a tabindex="5" href="/store-locator">Store / Dealer Locator</a></li>
                   
                   
                   
@@ -1594,19 +1659,20 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
               </li>
               
 
-            <!-- Bold Solutions List -->
-            
+              <!-- Bold Solutions List -->
+              
+
             </ul>
           </div>
         </li>
         
-        <li id="solutions" class="dropdown gallery">
+        <li id="submenu_solutions" class="dropdown gallery">
           <a class="label">Solutions</a>
           <div class="content">
             <ul>
 
-            <!-- eCommerce App List -->
-            
+              <!-- eCommerce App List -->
+              
               
               
               
@@ -1614,7 +1680,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
               
               
               <li>
-                <a href="/bold-checkout/" class="bold-checkout">
+                <a href="/bold-checkout/index.html" class="bold-checkout">
                   <span>Bold Checkout</span>
                   Custom Checkout, Multi-Currency, Fraud Security…
                 </a>
@@ -1631,7 +1697,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
               
               
               <li>
-                <a href="/bold-conversion/" class="bold-conversion">
+                <a href="/bold-conversion/index.html" class="bold-conversion">
                   <span>Bold Conversion</span>
                   Upsells, Discounts, Sales Motivator, Auto Suggestions.
                 </a>
@@ -1667,7 +1733,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
               
               
               <li>
-                <a href="/bold-everywhere/" class="bold-everywhere">
+                <a href="/bold-everywhere/index.html" class="bold-everywhere">
                   <span>Bold Everywhere</span>
                   Multi-Currency, Multi-Language, Custom Checkout.
                 </a>
@@ -1728,19 +1794,20 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
               
               
 
-            <!-- Other Link Lists -->
-            
+              <!-- Other Link Lists -->
+              
+
             </ul>
           </div>
         </li>
         
-        <li id="partners" class="dropdown links">
+        <li id="submenu_partners" class="dropdown links">
           <a class="label">Partners</a>
           <div class="content" style="width: 540px;">
             <ul>
 
-            <!-- eCommerce App List -->
-            
+              <!-- eCommerce App List -->
+              
               
               <li>
                 <h2>Existing Partners</h2>
@@ -1781,24 +1848,25 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
                 </ul>
               </li>
               
-            
+              
+
             </ul>
           </div>
         </li>
         
-        <li id="more" class="dropdown links">
+        <li id="submenu_more" class="dropdown links">
           <a class="label">More</a>
           <div class="content" style="width: 540px;">
             <ul>
 
-            <!-- eCommerce App List -->
-            
+              <!-- eCommerce App List -->
+              
               
               <li>
                 <h2>Community</h2>
                 <ul class="links-list">
                   
-                  <li><a href="https://support.boldcommerce.com" target="_blank" rel="noopener noreferrer">Help Centre</a></li>
+                  <li><a href="https://support.boldcommerce.com" target="_blank" rel="noopener noreferrer">Help Center</a></li>
                   
                   <li><a href="https://blog.boldcommerce.com" target="_blank" rel="noopener noreferrer">Bold Blog</a></li>
                   
@@ -1833,11 +1901,13 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
                 </ul>
               </li>
               
-            
+              
+
             </ul>
           </div>
         </li>
         
+
       </ul>
       <div class="bg-layer" aria-hidden="true"></div>
     </div> <!-- dropdown-list -->
@@ -1898,7 +1968,8 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 </header>
 
 
-    <main role="main">
+    <main id="main" role="main" aria-label="" class="legal ">
+      <h2 class="sr-only">main page content</h2>
       <section id="legal" class="legal">
   <div class="container">
     <div class="row">
@@ -2054,10 +2125,9 @@ By using our Services and submitting your Personal Data, you agree to the transf
 
 <p>Alternatively, VeraSafe can be contacted at:</p>
 
-<p>Matthew Joseph<br>
-Zahradníčkova<br>
-1220/20A<br>
-Prague 15000<br>
+<p>VeraSafe Czech Republic s.r.o<br>
+Klimentská 46<br>
+Prague 1, 11002<br>
 Czech Republic</p>
 
 <p>VeraSafe Ireland Ltd<br>
@@ -2080,76 +2150,74 @@ The Netherlands</p>
     </main>
 
     
-    <footer>
+    <footer role="contentinfo" aria-label="Footer: social media, privacy policy, terms of service, and auxillary links">
   <div class="container text-center text-md-left">
     <div class="row justify-content-between">
       <div class="col-md-4">
-        <img class="mb-20 footer-logo" src="/assets/boldlogo-inverse-68390c0f70d957b684728f5522384c82f34fc94eebadfc30e3dd228854e25a2a.svg">
+        <img src="/assets/img/boldlogo-inverse-f210d2ffe419a76a3d199f01ff84ccd7.svg" class="mb-20 footer-logo" alt="">
         <p>Bold Commerce is a software development company that provides industry-leading eCommerce solutions for the world's most innovative brands.</p>
         <p>Our apps and suite of tools focus on merchant's core needs including subscriptions, automation, wholesale &amp; B2B, integrations, personalization, the payment experience, customization, and digital merchandising.</p>
         <div class="copyrights">
-          <p class="mb-0">©2018 Bold Commerce, All Rights Reserved</p>
-          <a href="https://boldcommerce.com/privacy">Privacy Policy</a>
-          <a href="https://boldcommerce.com/terms-of-service">Terms of Service</a>
+          <p class="mb-0">©2019 Bold Commerce, All Rights Reserved</p>
+          <a class="footer_link" href="https://boldcommerce.com/privacy">Privacy Policy</a>
+          <a class="footer_link" href="https://boldcommerce.com/terms-of-service">Terms of Service</a>
         </div>
         <div class="social">
           <p>Follow us</p>
           <ul>
-            <li><a href="https://twitter.com/bold_commerce" target="_blank" rel="noopener noreferrer"><i class="fab fa-twitter"></i></a></li>
-            <li><a href="https://www.facebook.com/BoldApp" target="_blank" rel="noopener noreferrer"><i class="fab fa-facebook"></i></a></li>
-            <li><a href="https://instagram.com/bold_commerce/" target="_blank" rel="noopener noreferrer"><i class="fab fa-instagram"></i></a></li>
+            <li><a class="footer_link" href="https://twitter.com/bold_commerce" target="_blank" rel="noopener noreferrer"><i class="fab fa-twitter"></i><span class="sr-only">Twitter link</span></a></li>
+            <li><a class="footer_link" href="https://www.facebook.com/BoldApp" target="_blank" rel="noopener noreferrer"><i class="fab fa-facebook"></i><span class="sr-only">Facebook link</span></a></li>
+            <li><a class="footer_link" href="https://instagram.com/bold_commerce/" target="_blank" rel="noopener noreferrer"><i class="fab fa-instagram"></i><span class="sr-only">Instagram link</span></a></li>
           </ul>
         </div>
 
       </div>
       
       <div class="col-md-2 offset-md-1 pt-60">
-        <h5>Company</h5>
+        <h2>Company</h2>
         <ul>
           
-          <li><a href="/about">About</a></li>
+          <li><a class="footer_link" href="/about">About</a></li>
           
-          <li><a href="/team-bold">Our Team</a></li>
+          <li><a class="footer_link" href="/bold-gives-back">Giving Back</a></li>
           
-          <li><a href="/bold-gives-back">Giving Back</a></li>
+          <li><a class="footer_link" href="/careers">Careers</a></li>
           
-          <li><a href="/careers">Careers</a></li>
-          
-          <li><a href="/bold-media-kit">Media Kit</a></li>
+          <li><a class="footer_link" href="/bold-media-kit">Media Kit</a></li>
           
         </ul>
       </div>
       
       <div class="col-md-2 pt-60">
-        <h5>Work with us</h5>
+        <h2>Work with us</h2>
         <ul>
           
-          <li><a href="http://boldsales.youcanbook.me/" target="_blank" rel="noopener noreferrer">Book a Demo</a></li>
+          <li><a class="footer_link" href="http://boldsales.youcanbook.me/" target="_blank" rel="noopener noreferrer">Book a Demo</a></li>
           
-          <li><a href="https://partners.boldcommerce.com" target="_blank" rel="noopener noreferrer">Partner Program</a></li>
+          <li><a class="footer_link" href="https://partners.boldcommerce.com" target="_blank" rel="noopener noreferrer">Partner Program</a></li>
           
-          <li><a href="https://partners.boldcommerce.com/contact" target="_blank" rel="noopener noreferrer">Contact Partners Team</a></li>
+          <li><a class="footer_link" href="https://partners.boldcommerce.com/contact" target="_blank" rel="noopener noreferrer">Contact Partners Team</a></li>
           
-          <li><a href="/contact">App Customizations</a></li>
+          <li><a class="footer_link" href="/contact">App Customizations</a></li>
           
-          <li><a href="/api-documentation">API Documentation</a></li>
+          <li><a class="footer_link" href="/api-documentation">API Documentation</a></li>
           
         </ul>
       </div>
       
       <div class="col-md-2 pt-60">
-        <h5>Support</h5>
+        <h2>Support</h2>
         <ul>
           
-          <li><a href="/FAQs">FAQs</a></li>
+          <li><a class="footer_link" href="/FAQs">FAQs</a></li>
           
-          <li><a href="https://support.boldcommerce.com" target="_blank" rel="noopener noreferrer">Help Center</a></li>
+          <li><a class="footer_link" href="https://support.boldcommerce.com" target="_blank" rel="noopener noreferrer">Help Center</a></li>
           
-          <li><a href="https://blog.boldcommerce.com" target="_blank" rel="noopener noreferrer">Bold Blog</a></li>
+          <li><a class="footer_link" href="https://blog.boldcommerce.com" target="_blank" rel="noopener noreferrer">Bold Blog</a></li>
           
-          <li><a href="https://blog.boldcommerce.com/bold-news/bold-school-of-commerce" target="_blank" rel="noopener noreferrer">School of Commerce</a></li>
+          <li><a class="footer_link" href="https://blog.boldcommerce.com/bold-news/bold-school-of-commerce" target="_blank" rel="noopener noreferrer">School of Commerce</a></li>
           
-          <li><a href="/contact">Contact Us</a></li>
+          <li><a class="footer_link" href="/contact">Contact Us</a></li>
           
         </ul>
       </div>
@@ -2158,10 +2226,12 @@ The Netherlands</p>
   </div>
 </footer>
 
+<div class="app_modal_anchor_point"></div>
+
     
 
 
-    <script src="/assets/bundle-3ba9c0189d06c461bcca9d1826c73f390821127bd927fc9634e4bbd2e95fa69b.js" type="text/javascript" integrity="sha256-O6nAGJ0GxGG8yp0YJsc/OQghEnvZJ/yWNOS70ulfpps=" crossorigin="anonymous"></script>
+    <script src="/assets/main-9a2160b8c7549d91242e.js"></script>
     
 <script>
   function enableContactFormSubmission(){
