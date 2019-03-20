@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the convertcase.net privacy policy that was archived on 2017-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171213212015id_/http%3A//convertcase.net/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the convertcase.net privacy policy that was archived on 2019-03-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190320170009id_/https%3A//convertcase.net/privacy) for the most accurate reproduction.*
 
 # Convert Case - Privacy Policy
 
 JavaScript is required to use this web site. Please turn it on in your browser or whitelist this site, then refresh the page.
 
-If you require any more information or have any questions about our privacy policy, please feel free to [contact us](http://jasongillyon.co.uk/contact).
+If you require any more information or have any questions about our privacy policy, please feel free to [contact us](mailto:contact@convertcase.net).
 
 At Convert Case, the privacy of our visitors is of extreme importance to us. This privacy policy document outlines the types of personal information is received and collected by Convert Case and how it is used.
 
