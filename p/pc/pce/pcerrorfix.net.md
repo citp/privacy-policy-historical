@@ -1,13 +1,13 @@
-> *The following text is extracted and transformed from the pcerrorfix.net privacy policy that was archived on 2018-10-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181010033219id_/http%3A//www.pcerrorfix.net/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pcerrorfix.net privacy policy that was archived on 2019-03-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190320050143id_/http%3A//www.pcerrorfix.net/privacy.php) for the most accurate reproduction.*
 
 # Windows Cleaner
 
-[Home](https://web.archive.org/web/20181010033219id_/http%3A//www.pcerrorfix.net/index.php) > Privacy Policy 
+[Home](https://web.archive.org/web/20190320050143id_/http%3A//www.pcerrorfix.net/index.php) > Privacy Policy 
 
 PCErrorFix Privacy Policy
     PCErrorFix is committed to protecting your privacy. Please read the PCErrorFix Online Privacy Statement below and also any supplemental information listed to the right for additional details about particular PCErrorFix sites and services that you may use.
     This PCErrorFix Online Privacy Statement applies to data collected by PCErrorFix through the majority of its Web sites and services, as well as its offline product support services. It does not apply to those PCErrorFix sites, services and products that do not display or link to this statement or that have their own privacy statements.
-    If you have any questions about this Policy, please feel free to [contact us](https://web.archive.org/web/20181010033219id_/http%3A//www.pcerrorfix.net/contact.php).
+    If you have any questions about this Policy, please feel free to [contact us](https://web.archive.org/web/20190320050143id_/http%3A//www.pcerrorfix.net/contact.php).
 
 Collection of Your Personal Information
     In order to access some PCErrorFix services, you will be asked to sign in with an e-mail address and password, which we refer to as your credentials. In most cases, these credentials means you can use the same credentials to sign in to many different PCErrorFix sites and services, as well as those of select PCErrorFix partners. By signing in on one PCErrorFix site or service, you may be automatically signed into other PCErrorFix sites and services. If you access our services via a mobile phone, you may also use your telephone number and a PIN as an alternative credential to your username and password. As part of creating your credentials, you may also be requested to provide questions and secret answers, which we use to help verify your identity and assist in resetting your password, as well as an alternate email address. Some services may require added security, and in these cases, you may be asked to create an additional security key. Finally, a unique ID number will be assigned to your credentials which will be used to identify your credentials and associated information.
@@ -62,4 +62,4 @@ Changes to This Privacy Statement
     We will occasionally update this privacy statement to reflect changes in our services and customer feedback. When we post changes to this Statement, we will revise the "Last Updated" date at the top of this statement. If there are material changes to this statement or in how PCErrorFix will use your personal information, we will notify you either by prominently posting a notice of such changes prior to implementing the change or by directly sending you a notification. We encourage you to periodically review this statement to be informed of how PCErrorFix protects your information..
 
 Contacting Us
-    PCErrorFix welcomes your comments regarding this privacy statement. If you have questions about this statement or believe that we have not adhered to it, please [contact us](https://web.archive.org/web/20181010033219id_/http%3A//www.pcerrorfix.net/contact.php).
+    PCErrorFix welcomes your comments regarding this privacy statement. If you have questions about this statement or believe that we have not adhered to it, please [contact us](https://web.archive.org/web/20190320050143id_/http%3A//www.pcerrorfix.net/contact.php).
