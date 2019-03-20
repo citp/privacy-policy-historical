@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the masslottery.com privacy policy that was archived on 2018-07-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180701063558id_/https%3A//www.masslottery.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the masslottery.com privacy policy that was archived on 2019-03-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190320131141id_/https%3A//www.masslottery.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy| MA State Lottery
 
@@ -13,7 +13,7 @@ This privacy policy applies only to the use of the Massachusetts State Lottery w
 
 ### A Privacy Partnership
 
-Your privacy with respect to the use of this web site results from a partnership between the Commonwealth and you, the user. At this web site, we attempt to protect your privacy to the maximum extent possible. However, because some of the information that we receive through this web site is subject to the [Public Records Law, Massachusetts General Laws Chapter 66, Section 10](http://www.mass.gov/legis/laws/mgl/66-10.htm), we cannot ensure absolute privacy. Information that you provide to us through this site may be made available to members of the public under that law. This policy informs you of the information that we collect from you at this site, what we do with it, to whom it may be disseminated, and how you can access it. Based on this information, you can make an informed choice about your use of this site and whether to share personally identifiable information with us through this site. 
+Your privacy with respect to the use of this web site results from a partnership between the Commonwealth and you, the user. At this web site, we attempt to protect your privacy to the maximum extent possible. However, because some of the information that we receive through this web site is subject to the [Public Records Law, Massachusetts General Laws Chapter 66, Section 10](https://www.mass.gov/legis/laws/mgl/66-10.htm), we cannot ensure absolute privacy. Information that you provide to us through this site may be made available to members of the public under that law. This policy informs you of the information that we collect from you at this site, what we do with it, to whom it may be disseminated, and how you can access it. Based on this information, you can make an informed choice about your use of this site and whether to share personally identifiable information with us through this site. 
 
 ### Personally Identifiable Information
 
@@ -31,13 +31,13 @@ This site does collect and store indefinitely your Internet Protocol (“IP”) 
 
 ### Dissemination of Your Personally Identifiable Information
 
-We do not sell any personally identifiable information collected through this web site or submitted to the Lottery in conjunction with using functions on the web site, and there is no direct or online public access to the information. However, once you voluntarily submit personally identifiable information to us, its dissemination is governed by the [Public Records Law](http://www.mass.gov/legis/laws/mgl/66a-1.htm), the [Massachusetts General Laws Chapter 66A](http://www.mass.gov/legis/laws/mgl/66-10.htm) (Fair Information Practices Act), [Executive Order 412](http://www.lawlib.state.ma.us/source/mass/eo/eotext/EO412.txt), and other applicable laws and regulations. In addition, dissemination of information collected through this web site may be made in the course of a law enforcement investigation, or through compulsory legal process. For these reasons, part or all of the information you send us may be disseminated. 
+We do not sell any personally identifiable information collected through this web site or submitted to the Lottery in conjunction with using functions on the web site, and there is no direct or online public access to the information. However, once you voluntarily submit personally identifiable information to us, its dissemination is governed by the [Public Records Law](https://www.mass.gov/legis/laws/mgl/66a-1.htm), the [Massachusetts General Laws Chapter 66A](https://www.mass.gov/legis/laws/mgl/66-10.htm) (Fair Information Practices Act), [Executive Order 412](https://www.lawlib.state.ma.us/source/mass/eo/eotext/EO412.txt), and other applicable laws and regulations. In addition, dissemination of information collected through this web site may be made in the course of a law enforcement investigation, or through compulsory legal process. For these reasons, part or all of the information you send us may be disseminated. 
 
 In addition, the information that you voluntarily submit will be disclosed only to Commonwealth employees or officials, or those under contract with the Commonwealth, with a “need to know” for purposes of fulfilling their job responsibilities. They will only use the information to answer your questions, respond to any requests for assistance, and fulfill the Commonwealth’s legal obligations. Where appropriate, we may provide the information submitted by you to the person or company that is the subject of your inquiry, or to a government agency responsible for the matters referred to in your communication. 
 
 ### Your Access and Opportunity to Correct
 
-The [Public Records Law](http://www.mass.gov/legis/laws/mgl/66a-1.htm) and the [Fair Information Practices Act](http://www.mass.gov/legis/laws/mgl/66-10.htm) provide you certain rights to get information about you that is in our records. To learn more about the circumstances under which you can get and correct this information, please click on the above references to these laws. 
+The [Public Records Law](https://www.mass.gov/legis/laws/mgl/66a-1.htm) and the [Fair Information Practices Act](https://www.mass.gov/legis/laws/mgl/66-10.htm) provide you certain rights to get information about you that is in our records. To learn more about the circumstances under which you can get and correct this information, please click on the above references to these laws. 
 
 ### Security
 
@@ -45,7 +45,7 @@ Because this site does not encrypt incoming e-mail, you should not send informat
 
 ### Special Protections Against Misuse Of Personally Identifiable Information Within Commonwealth Offices
 
-In 1999 [Executive Order 412](http://www.lawlib.state.ma.us/source/mass/eo/eotext/EO412.txt) was issued, which enhanced the privacy protection given to any information about you as a named individual held by the Executive Department of state government. [Executive Order 412](http://www.lawlib.state.ma.us/source/mass/eo/eotext/EO412.txt) limits the collection and dissemination of personally identifiable information within the Executive Department. This site complies with [Executive Order 412](http://www.lawlib.state.ma.us/source/mass/eo/eotext/EO412.txt), so all of the personally identifiable information that you submit to this site is given the privacy protections set forth in [Executive Order 412](http://www.lawlib.state.ma.us/source/mass/eo/eotext/EO412.txt). 
+In 1999 [Executive Order 412](https://www.lawlib.state.ma.us/source/mass/eo/eotext/EO412.txt) was issued, which enhanced the privacy protection given to any information about you as a named individual held by the Executive Department of state government. [Executive Order 412](https://www.lawlib.state.ma.us/source/mass/eo/eotext/EO412.txt) limits the collection and dissemination of personally identifiable information within the Executive Department. This site complies with [Executive Order 412](https://www.lawlib.state.ma.us/source/mass/eo/eotext/EO412.txt), so all of the personally identifiable information that you submit to this site is given the privacy protections set forth in [Executive Order 412](https://www.lawlib.state.ma.us/source/mass/eo/eotext/EO412.txt). 
 
 ### Policy Changes
 
