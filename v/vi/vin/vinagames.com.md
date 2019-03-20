@@ -1,10 +1,8 @@
-> *The following text is extracted and transformed from the vinagames.com privacy policy that was archived on 2016-03-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160306062558id_/http%3A//www.vinagames.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vinagames.com privacy policy that was archived on 2019-03-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190320224236id_/https%3A//www.vinagames.com/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy
 
 Last updated on 12/17/2001 
-
-Privacy Policy
 
 Vinagames.com respects the privacy rights of our online visitors and recognize the importance of protecting the information collected about you. We have adopted an Online Privacy Policy that guides how we collect, store and use the information you provide. 
 
