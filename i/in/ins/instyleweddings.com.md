@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the instyleweddings.com privacy policy that was archived on 2018-08-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180823040437id_/https%3A//subscription.timeinc.com/storefront/privacy/instyle/generic_privacy_new.html%3Fdnp-source%3DE) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the instyleweddings.com privacy policy that was archived on 2019-03-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190321004423id_/https%3A//www.meredith.com/legal-ti/instyle/generic_privacy_new.html%3Fdnp-source%3DE) for the most accurate reproduction.*
 
 # INSTYLE Privacy Policy for the US
 
@@ -21,13 +21,13 @@
 
 
 
-(NEW)[European Union Privacy Information](https://web.archive.org/web/20180823040437id_/https%3A//subscription.timeinc.com/storefront/privacy/instyle/generic_privacy_new_eu.html?dnp-source=E)  
+(NEW)[European Union Privacy Information](https://web.archive.org/web/20190321004423id_/https%3A//www.meredith.com/legal-ti/instyle/generic_privacy_new_eu.html)  
 For citizens of member countries of the European Union, and Switzerland, Norway, Lichtenstein, Iceland, Australia, and New Zealand
 
-[Canada Privacy Information](https://web.archive.org/web/20180823040437id_/https%3A//subscription.timeinc.com/storefront/privacy/instyle/generic_privacy_new_caneu.html?dnp-source=E)  
-This is the Privacy Policy which applies to you if you live outside the [European Union](https://web.archive.org/web/20180823040437id_/https%3A//subscription.timeinc.com/storefront/privacy/instyle/generic_privacy_new_eu.html?dnp-source=E), Switzerland, Norway, Lichtenstein, Iceland, Australia, New Zealand, and [Canada](https://web.archive.org/web/20180823040437id_/https%3A//subscription.timeinc.com/storefront/privacy/instyle/generic_privacy_new_caneu.html?dnp-source=E).
+[Canada Privacy Information](https://web.archive.org/web/20190321004423id_/https%3A//www.meredith.com/legal-ti/instyle/generic_privacy_new_caneu.html)  
+This is the Privacy Policy which applies to you if you live outside the [European Union](https://web.archive.org/web/20190321004423id_/https%3A//www.meredith.com/legal-ti/instyle/generic_privacy_new_eu.html), Switzerland, Norway, Lichtenstein, Iceland, Australia, New Zealand, and [Canada](https://web.archive.org/web/20190321004423id_/https%3A//www.meredith.com/legal-ti/instyle/generic_privacy_new_caneu.html).
 
-This Privacy Policy discloses the privacy practices for INSTYLE, the Time Inc . owned and operated websites and mobile apps on which it appears, including those websites listed [here](https://subscription-assets.timeinc.com/prod/assets/themes/magazines/default/template-resources/html/legal/bus_units.html), our email newsletters and other applications owned and operated by Time Inc ., including offline and online subscriptions and other product offerings (collectively referred to as the "Services"), and to any other services that display this Privacy Policy. Your privacy is important to us. To better protect your privacy, we provide this Privacy Policy explaining our information practices and the choices you can make about the way your information is collected and used by Time Inc . and its subsidiaries. 
+This Privacy Policy discloses the privacy practices for INSTYLE, the Meredith Corporation owned and operated websites and mobile apps on which it appears, including those websites listed [here](https://subscription-assets.timeinc.com/prod/assets/themes/magazines/default/template-resources/html/legal/bus_units.html), our email newsletters and other applications owned and operated by Meredith Corporation , including offline and online subscriptions and other product offerings (collectively referred to as the "Services"), and to any other services that display this Privacy Policy. Your privacy is important to us. To better protect your privacy, we provide this Privacy Policy explaining our information practices and the choices you can make about the way your information is collected and used by Meredith Corporation and its subsidiaries. 
 
 #### The Information We Collect
 
@@ -54,17 +54,17 @@ We may use the information collected under this Privacy Policy in the following 
   * The information we collect in connection with our online forums and communities is used to provide an interactive experience. We use this information to facilitate participation in these online forums and communities and, from time to time, to offer you products, programs, or services.
   * We sometimes use the non-personally identifiable information that we collect to improve the design and content of our publications and websites, and to enable us to customize your Internet experience. We also may use this information to analyze site usage, as well as to offer you products, programs, or services.
   * We will disclose information we maintain when required to do so by law, for example, in response to a court order or a subpoena. We also may disclose such information in response to a law enforcement agency's request.
-  * Agents and contractors of Time Inc . that have access to personally identifiable information are required to protect this information in a manner that is consistent with this Privacy Policy by, for example, not using the information for any purpose other than to carry out the services they are performing for Time Inc .
-  * We may transfer your personally identifiable information to other Time Inc . offices for internal management and administrative purposes on our behalf. Your personal data will be transferred to other Time Inc . offices where necessary for the performance or conclusion of our contractual obligations to you or for your benefit. To the extent not prohibited under applicable law, transfers and disclosures of personally identifiable information may also be made where necessary for the establishment, exercise, or defense of legal claims, to protect the rights and property of Time Inc ., our agents, customers, and others, including to enforce our agreements, policies, and terms of use; or to protect the personal safety of any person.
-  * Please note that if Time Inc . or any of its subsidiaries or lines of business is merged, acquired, divested, financed, sold, disposed of or dissolved, including through merger of, consolidation, sale or divestiture of assets, the relevant customer database, including personally identifiable information we may possess about you, may, in whole or in part, be sold, disposed of, transferred, divested, or otherwise disclosed as part of that transaction or proceeding.
+  * Agents and contractors of Meredith Corporation that have access to personally identifiable information are required to protect this information in a manner that is consistent with this Privacy Policy by, for example, not using the information for any purpose other than to carry out the services they are performing for Meredith Corporation 
+  * We may transfer your personally identifiable information to other Meredith Corporation offices for internal management and administrative purposes on our behalf. Your personal data will be transferred to other Meredith Corporation offices where necessary for the performance or conclusion of our contractual obligations to you or for your benefit. To the extent not prohibited under applicable law, transfers and disclosures of personally identifiable information may also be made where necessary for the establishment, exercise, or defense of legal claims, to protect the rights and property of Meredith Corporation , our agents, customers, and others, including to enforce our agreements, policies, and terms of use; or to protect the personal safety of any person.
+  * Please note that if Meredith Corporation or any of its subsidiaries or lines of business is merged, acquired, divested, financed, sold, disposed of or dissolved, including through merger of, consolidation, sale or divestiture of assets, the relevant customer database, including personally identifiable information we may possess about you, may, in whole or in part, be sold, disposed of, transferred, divested, or otherwise disclosed as part of that transaction or proceeding.
 
 
 
 #### Privacy Options
 
-If you prefer not to receive traditional mail or other off-line promotions from this or any other Time Inc . property, or if you want to opt-out of any sharing of your personally identifiable offline information with third parties not owned by Time Inc ., please [click here](https://web.archive.org/web/20180823040437id_/https%3A//subscription.timeinc.com/storefront/privacy/instyle/new_generic_privacy_form_offline.html?dnp-source=E).
+If you prefer not to receive traditional mail or other off-line promotions from this or any other Meredith Corporation property, or if you want to opt-out of any sharing of your personally identifiable offline information with third parties not owned by Meredith Corporation , please [click here](https://web.archive.org/offlinePrivacy.html).
 
-If you prefer not to receive e-mail marketing from this or any other Time Inc . property, or if you want to opt-out of any sharing of your email address with third parties not owned by Time Inc ., please [click here](https://web.archive.org/web/20180823040437id_/https%3A//subscription.timeinc.com/storefront/privacy/instyle/new_generic_privacy_form_online.html?dnp-source=E).
+If you prefer not to receive e-mail marketing from this or any other Meredith Corporation property, or if you want to opt-out of any sharing of your email address with third parties not owned by Meredith Corporation , please [click here](https://secure.instyle.com/common/profile/member/optout/?showAllSites=true).
 
 We will not use or transfer personally identifiable information provided to us in ways unrelated to the ones described above without also providing you with an opportunity to opt out of these unrelated uses.
 
@@ -72,13 +72,13 @@ back to top
 
 #### Your California Privacy Rights: Notice to California Customers
 
-California's "Shine the Light" law, Civil Code section 1798.83, requires certain businesses to respond to requests from California customers asking about the businesses' practices related to disclosing personal information to third parties for the third parties' direct marketing purposes. Alternately, such businesses may have in place a policy not to disclose personal information of customers to third parties for the third parties' direct marketing purposes if the customer has exercised an option to opt-out of such information-sharing. (Note: Time Inc . sites do not recognize the "do not track signals" that some browsers may employ.) As discussed above, if you wish to opt-out of our sharing of your information with third parties for the third parties' direct marketing purposes offline please [click here](https://web.archive.org/web/20180823040437id_/https%3A//subscription.timeinc.com/storefront/privacy/instyle/new_generic_privacy_form_offline.html?dnp-source=E), or for email please [click here](https://web.archive.org/web/20180823040437id_/https%3A//subscription.timeinc.com/storefront/privacy/instyle/new_generic_privacy_form_online.html?dnp-source=E). To find out more about your opt-out rights, please contact us as described in the **"How to Contact Us"** section below.
+California's "Shine the Light" law, Civil Code section 1798.83, requires certain businesses to respond to requests from California customers asking about the businesses' practices related to disclosing personal information to third parties for the third parties' direct marketing purposes. Alternately, such businesses may have in place a policy not to disclose personal information of customers to third parties for the third parties' direct marketing purposes if the customer has exercised an option to opt-out of such information-sharing. (Note: Meredith Corporation sites do not recognize the "do not track signals" that some browsers may employ.) As discussed above, if you wish to opt-out of our sharing of your information with third parties for the third parties' direct marketing purposes offline please [click here](https://web.archive.org/offlinePrivacy.html), or for email please [click here](https://secure.instyle.com/common/profile/member/optout/?showAllSites=true). To find out more about your opt-out rights, please contact us as described in the **"How to Contact Us"** section below.
 
 #### Collection of Information by Third Parties
 
 Some of our Services contain links to third party sites and services whose privacy practices may be different than ours. We also allow you to connect with other third party sites and services. You should consult the other third party sites' and services' privacy notices in order to better understand their privacy practices.
 
-We sometimes may offer contests, sweepstakes, promotions, editorial features, or other activities or offerings that are sponsored or co-sponsored by or presented with identified third parties. By virtue of your participation in such activities or offerings, your IP address and the personally identifiable information that you voluntarily submit may be provided to both the Time Inc . site and the third parties. Time Inc . has no control over the third parties' use of this information.
+We sometimes may offer contests, sweepstakes, promotions, editorial features, or other activities or offerings that are sponsored or co-sponsored by or presented with identified third parties. By virtue of your participation in such activities or offerings, your IP address and the personally identifiable information that you voluntarily submit may be provided to both the Meredith Corporation site and the third parties. Meredith Corporation has no control over the third parties' use of this information.
 
 We may use third parties to present or serve advertisements, including online behavioral advertisements, that you may see on the Services and to conduct research about the advertisements-or the Services themselves. Additionally, third parties may place and use tracking mechanisms, e.g., tracking pixels, in the emails we may send to you. This Privacy Policy does not cover any use of information that such third parties may have collected from you (e.g., type of browser, operating system, domain name, day and time of visit, page(s) visited) or the methods used by the third-parties to collect that information (e.g., cookies, web beacons and clear gifs).
 
@@ -125,20 +125,21 @@ We will retain your personal information while you have an account with us and t
 
 #### Special Note for Parents
 
-The site you are visiting is one of the Time Inc . general audience sites and is not intended for use by children. For more information about our online privacy practices for children's sites, consult the privacy notice at the children's site in which you are interested.
+The site you are visiting is one of the Meredith Corporation general audience sites and is not intended for use by children. For more information about our online privacy practices for children's sites, consult the privacy notice at the children's site in which you are interested.
 
 #### Changes to this Privacy Policy
 
-This Privacy Policy may be changed by Time Inc . The revised Privacy Policy will be posted to this page so that you are aware of the information we collect, how we use it, and under what circumstances we may disclose it.
+This Privacy Policy may be changed by Meredith Corporation The revised Privacy Policy will be posted to this page so that you are aware of the information we collect, how we use it, and under what circumstances we may disclose it.
 
 #### How to Contact Us
 
-If you have any questions or concerns about the Time Inc . Privacy Policy or its implementation please contact us via email by [clicking here](https://secure.customersvc.com/servlet/Show?WESPAGE=am/Services/load_email.jsp&MSRSMAG=IN) or by writing to:
+If you have any questions or concerns about the Meredith Corporation Privacy Policy or its implementation please contact us via email by [clicking here](mailto:privacy@meredith.com) or by writing to:
 
-Time Customer Service  
-Attention: Consumer Affairs  
-3000 University Center Drive  
-Tampa, Florida 33612-6408
+Meredith Corporation  
+1716 Locust Street  
+Des Moines, Iowa 50309  
+Email: [privacy@meredith.com](mailto:privacy@meredith.com)  
+1-515-284-3000
 
 back to top
 
