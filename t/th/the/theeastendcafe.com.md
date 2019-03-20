@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the theeastendcafe.com privacy policy that was archived on 2018-11-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181108053436id_/http%3A//www.theeastendcafe.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the theeastendcafe.com privacy policy that was archived on 2019-03-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190320162337id_/http%3A//www.theeastendcafe.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - ALL ABOUT HOUSE DESIGN
 
