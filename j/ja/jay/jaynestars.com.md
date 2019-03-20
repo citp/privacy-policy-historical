@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jaynestars.com privacy policy that was archived on 2018-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181214195630id_/https%3A//www.jaynestars.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jaynestars.com privacy policy that was archived on 2019-03-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190320201023id_/https%3A//www.jaynestars.com/privacy) for the most accurate reproduction.*
 
 # JayneStars.com | Privacy Policy
 
@@ -104,4 +104,4 @@ We reserve the right to modify this Privacy Policy from time to time at our disc
 
 **Questions or Comments**
 
-For questions or comments about our Privacy Policy, or if you need assistance accessing or updating information we have collected about you, please contact: [[email protected]](https://www.jaynestars.com/cdn-cgi/l/email-protection#f9989d949097b9939880979c8a8d988b8ad79a9694).
+For questions or comments about our Privacy Policy, or if you need assistance accessing or updating information we have collected about you, please contact: [[email protected]](https://www.jaynestars.com/cdn-cgi/l/email-protection#1677727b7f78567c776f787365627764653875797b).
