@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the boldcommerce.com privacy policy that was archived on 2018-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181203031058id_/https%3A//boldcommerce.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the boldcommerce.com privacy policy that was archived on 2019-03-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190320033200id_/https%3A//boldcommerce.com/privacy) for the most accurate reproduction.*
 
 # Privacy Statement | Bold Commerce
 
@@ -160,10 +160,9 @@ VeraSafe has been appointed as the European Union representative for Bold Commer
 
 Alternatively, VeraSafe can be contacted at:
 
-Matthew Joseph  
-Zahradníčkova  
-1220/20A  
-Prague 15000  
+VeraSafe Czech Republic s.r.o  
+Klimentská 46  
+Prague 1, 11002  
 Czech Republic
 
 VeraSafe Ireland Ltd  
