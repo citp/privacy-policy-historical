@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bodenusa.com privacy policy that was archived on 2018-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181209051111id_/http%3A//www.bodenusa.com/en-us/company-information/privacy-policy%23Footer) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bodenusa.com privacy policy that was archived on 2019-03-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190320030144id_/http%3A//www.bodenusa.com/en-us/company-information/privacy-policy%23Footer) for the most accurate reproduction.*
 
 # Privacy Policy | Boden
 
