@@ -1,95 +1,171 @@
-> *The following text is extracted and transformed from the swatch.com privacy policy that was archived on 2018-09-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180907220055id_/https%3A//shop.swatch.com/en_au/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the swatch.com privacy policy that was archived on 2019-03-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190320051613id_/https%3A//shop.swatch.com/en_us/privacy-policy) for the most accurate reproduction.*
 
-# Swatch® Australia - Privacy Policy
+# Swatch® United States - Privacy Policy
 
-The Swatch Group (Australia) Pty. Ltd. ("we", “us”, “our”) takes the security and privacy of your personal information very seriously. This policy sets out how we will collect and process any personal data as a result of your use of this website. All processing of your personal data will be in accordance with the applicable data protection legislation. Please read the following carefully to understand our views and practices regarding your personal data and how we will treat it
+Swatch (a division of The Swatch Group (U.S.) Inc.) ( “Swatch”, “we”, “our” or “us”) values the trust you have placed in us. As part of our relationship, we recognize and respect your privacy. That is why Swatch is committed to protecting your privacy and using the information you share with us responsibly.
+
+This Privacy Statement (“Privacy Statement”) is designed to explain: (i) how Swatch collects, uses, processes, secures, shares and transfers information; (ii) what type(s) of information we collect; (iii) how you can edit and/or delete certain information and change preferences; and (iv) covers your access and/or use of our website.  This Privacy Statement does not apply to the practices of companies that The Swatch Group (U.S.) Inc. does not own or control, or to people that Swatch does not employ or manage.
+
+This Privacy Statement may be updated periodically and without prior notice to you to reflect changes in our personal information practices or relevant laws. When we make changes, we will post them here. If we make material changes to this Privacy Statement we will place a notice on our website or we may send a notice to the e-mail address you provided to us. You may wish to check this section of our website from time to time, because by visiting our website, you agree to accept any such changes to this Privacy Statement. Except as otherwise mentioned herein, this Privacy Statement only addresses the use and disclosure of information we collect from you on our website. 
+
+This Privacy Statement is incorporated into, and part of our [Terms of Use](https://web.archive.org/en_us/terms-and-conditions), which governs your access to and use of our website in general. This Privacy Statement shall be interpreted under the laws of the United States, regardless of the location, residence or nationality of individual users. 
+
+We updated our Privacy Statement on November 1, 2016 which is this Privacy Statement’s effective date.
+
+**TYPES OF INFORMATION WE COLLECT**
+
+Swatch may collect personal information from you when you establish or update a Swatch account, enter a contest or sweepstake, participate in a survey or poll, shop online, check the status of an order or review order history, join our mailing list or our social networking sites, purchase and send a gift card or utilize our technical support or customer services. Categories of personal information collected include: your name, e-mail address, postal, billing and shipping address, phone number and credit card number. In addition, we may maintain a record of your purchases from SHOP.SWATCH.COM and our affiliated companies’ stores and authorized distributors, retailers and dealers. 
+
+We obtain certain information by automated means when you visit our website, such as the IP address of the device you use to connect to the Internet, domain type, browser version, service provider and the pages accessed. By collecting this information, we learn how to best tailor our website to our visitors and understand what products and services you might prefer. We and certain of our trusted third party providers collect this information through various means, such as "cookies" and "web beacons," each of which are discussed in more detail below. 
+
+We also collect information from third-party sources, including from social media and other websites that display authorized Swatch branding. For example, if you post a comment on our FaceBook page or send us a message on Twitter, we may collect that information as described in this Privacy Statement. We also may collect information about you from commercially available sources (such as data aggregators and public databases). Please note that we may combine this information with other information that we collect about you and use it as described in the Privacy Statement.
+
+**HOW WE USE INFORMATION**
+
+**Swatch uses the information we collect from you for the following purposes:**
+
+To process your order and answer your questions about the status of your order.
+
+To provide you with periodic e-mails and mailings about Swatch merchandise, services and promotions.
+
+To create and manage your account.
+
+Showing you and/or providing to you content that we think might be of interest to you, and displaying content according to your preferences and our terms.
+
+To communicate with you about, and administer your participation in, special events, contests, sweepstakes, programs, offers, surveys and market research.
+
+To provide advertisements to you about our products and services on this and other websites.
+
+To operate, evaluate and improve our business (including developing new products and services; enhancing and improving our online services (for example, to facilitate navigation and the login process, avoid duplicate data entry, enhance security, keep track of shopping cart additions and preserve order information between sessions); managing our communications; analyzing our products and customer base; cross reference customer databases to identify common customers; performing data analytics; (including online advertising and e-mail marketing), and performing accounting, auditing and other internal functions).
+
+To protect the security or integrity of our websites and our business.
+
+To contact or notify you if necessary.
+
+To interact with you on third party social networks (our interactions with you on a third party social network would be subject to that network's privacy policies and terms of use).
+
+To provide services to you.
+
+To protect against, identify and prevent fraud and other unlawful activity, claims and other liabilities.
+
+To comply with our legal obligations, policies and procedures.
+
+We also may use the information in other ways for which we provide specific notice at the time of collection or as otherwise indicated in our Terms of Use.
+
+Please note that if you use the share feature on our website to share any products with a friend, we will use your friend's name and email address to send the forwarding email. Your friend's information will not be saved in our customer or marketing databases. On occasion, we may combine information you provide with other demographic information available to us.
+
+**DATA INTEGRITY**
+
+Swatch processes personally identifiably information only for the purposes for which it was collected and in accordance with this Privacy Statement. We review our data collection, storage and processing practices to ensure that we only collect, store and process the personally identifiably information needed to provide or improve our website, services and products or as otherwise permitted under this Privacy Statement. Notwithstanding the foregoing, we depend on you to update or correct your personally identifiable information whenever necessary.
+
+**MOBILE MARKETING**
+
+You may be able to sign up to receive communications about our products and services through your mobile device by submitting your mobile telephone number mobile email address on this website. If you use this feature, we will send you communications about our products, services and promotions to such email address and/or by text message and voice message. You may, at any time, opt out of receiving these communications by contacting us as specified in the "How to Contact Us" section below. Depending on the terms of your mobile phone contract, you may incur charges for receiving and sending email and text messages on your mobile device. Swatch is not responsible for these charges.
 
   
-**Information we may collect from you and how we collect it**  
-We may collect and process the following personal data about you:
+**INFORMATION WE SHARE**
 
-  * Information that you provide by filling in forms on this website (such as your name, contact details, DOB, etc.). This includes information provided at the time of registering to use this website, subscribing to our service, becoming a Swatch Club member, posting material or requesting further services.
-  * Information you provide when you enter a competition or promotion sponsored by us.
-  * Information you provide when you report a problem with this website.
-  * Any correspondence between you and us.
-  * Any responses to surveys you may send us.
-  * Details of transactions you carry out through this website and of the fulfilment of your orders.
-  * Details of your visits to this website including, but not limited to traffic data, location data, site usage, weblogs and other communication data, whether this is required for our own purposes or otherwise and the resources that you access. For example, we may collect your IP address, the hostname of your computer, browser information and reference site domain name every time you visit this website. Please see the section below regarding cookies for more information about our use of cookies.
+We do not sell or otherwise disclose personal information about you, except as described in the Privacy Statement.  We may share the personal information you provide to us with our affiliates, subsidiaries and our and their respective parents and its/their respective subsidiaries worldwide, licensees and joint venture partners for the purposes described in this Privacy Statement.  
 
+We also may share the information with our service providers who perform services on our behalf based on our instructions. These service providers are not authorized by us to use or disclose the information except as necessary to perform services on our behalf or comply with legal requirements.  Examples of these service providers include entities that process credit card payments, manage and reduce our credit risk, verify information, fulfill orders, conduct promotions, contests, sweepstakes and surveys and provide search results and links (including paid listings and links), web hosting, analytics and marketing services.  These service providers may combine data we provide to them or allow them to collect from or about you with data they collect in connection with other websites, applications or services to measure the effectiveness of our advertising and determine how you use our websites and services. We also may share aggregated statistical or demographic information about you with third party companies in a manner that does not reveal your personal identity for any lawful purpose.
 
+Swatch may disclose your personal information to third parties (i) if we are required to do so by law, regulation or legal process (such as a court order), (ii) in response to a request by government or law enforcement authorities, (iii) when we believe disclosure is necessary or appropriate to prevent physical harm or financial loss or in connection with an investigation of suspected or actual illegal activity; (iv) enforce our Terms of Use or the terms of any of our statements or policies; or (v) protect the rights, property or safety of Swatch, our associates or our visitors, users, subscribers or customers. We also reserve the right to transfer personal information we have about you in the event we sell or transfer all or a portion of our business or assets (including in the event of a reorganization, dissolution or liquidation).
 
-If you choose not to provide the personal data as requested, we may not be able to supply you with our products or services as applicable.
+**LINKS TO OTHER WEBSITES**
 
-**Purposes of collecting information from you**  
-We collect personal data from you for the following purposes **:**
+This website may contain links and conduits to other websites (“Linked Sites”) for your convenience and information. These websites may be operated by companies not affiliated with Swatch. These Linked Sites may have their own privacy policies, which we strongly suggest you review if you visit any Linked Site. We are not responsible for the content of any websites that are not affiliated with Swatch, any Linked Site, any use of those websites, or the privacy practices of those websites.
 
-  * To ensure that content from this website is presented in the most effective manner for you and for your computer.
-  * To provide you with information, products or services that you request from us.
-  * To carry out our obligations arising from any contracts entered into between you and us.
-  * To allow you to participate in interactive features of our service, when you choose to do so.
-  * To notify you about changes to our service.
-  * To allow you to participate in competitions or promotions sponsored by us.
-  * To conduct and analyse market research.
+  
+**HOW WE PROTECT YOUR PERSONAL INFORMATION**
 
+We maintain appropriate administrative, technical and physical safeguards to protect the personal information you provide on this website against accidental, unlawful or unauthorized destruction, loss, alteration, access, disclosure or use and other unlawful forms of processing. We use Secure Sockets Layer ("SSL") technology to protect the transmission over the Internet of your payment card data. SSL technology encrypts your credit card number, order information and personal information before it is transmitted to protect it from being decoded by anyone other than or on behalf of Swatch. Our website also displays the VeriSign Secure Site Seal, which indicates that that portion of our website has been authenticated by VeriSign and that confidential transactions within that portion of the website are secured by SSL encryption. 
 
+You can check the security of your connection by looking at the URL line of your browser. When accessing a secure website, the first characters of the website address change from "http" to "https. If you are using a web browser or firewall that does not permit communications through secure websites, you will not be able to make purchases on our website. If you cannot access the secure server for any reason, you can place your order by calling **1-866-379-2824**. 
 
-**Storage and security of your personal data  
-** The data that we collect from you may be transferred to, and stored at, a location in Switzerland (server location) or another location outside Australia. The privacy laws of those countries may not provide the same level of protection as the privacy laws of Australia. However, this does not change our commitments to safeguard your privacy and we will comply with all applicable laws relating to the cross-border data disclosure.
+While we implement the above and other security measures to protect your information, please note that no data transmitted over the Internet or any other public network can be guaranteed to be 100% secure.
 
-All information you provide to us is stored on our secure servers. Any payment transactions will be encrypted using SSL technology. Where we have given you (or where you have chosen) a password which enables you to access certain parts of this website, you are responsible for keeping this password confidential. We ask you not to share a password with anyone.
+  
+**YOUR SECURITY OBLIGATIONS**
 
-Unfortunately, the transmission of information via the internet is not completely secure. Although we will do our best to protect your personal data, we cannot guarantee the security of your data transmitted to this website; any transmission is at your own risk. Once we have received your information, we will use strict procedures and security features to protect the information from misuse, interference, loss, unauthorised access, modification or disclosure.  
- **  
-** **  
-Direct marketing**  
-Like most businesses, marketing is important to our business's success. We may therefore, from time to time, send marketing materials to you by electronic means (e.g., email or SMS) or disclose your personal information to third parties for direct marketing purposes. We only do so in accordance with applicable laws or with your prior consent. ** __**You have the right to ask us not to use or disclose your personal data for marketing purposes. We will usually inform you (before collecting your data) if we intend to use your data for such purposes or if we intend to disclose your information to any third party for such purposes. You can exercise your right to prevent such processing by checking certain boxes on the forms we use to collect your data. You can also exercise the right at any time by contacting us at The Swatch Group (Australia) Pty. Ltd. Level 2, 1601 Malvern Road, Glen Iris, VIC 3146 AUSTRALIA or via e-mail atshop.swatch@swatchgroup.com.au  or by using the unsubscribe facilities included in our marketing communications.
+You must protect against unauthorized access to your password and to your computer. Please sign off when finished using a shared computer. Your emails to us are not necessarily secure against interception so do not include sensitive information in them. We generally will not ask for passwords in an email and you should assume that if you get such a request, it might be fraudulent. YOU MUST DO WHAT YOU REASONABLY CAN TO ENSURE THE SECURITY OF YOUR PERSONAL INFORMATION.
 
-We may share non-personal, non-individual statistics or demographic information in aggregate form with our marketing partners, advertisers or other third-parties for research purposes. For example, we may disclose to them how many customers have purchased a product or how many people are members of Swatch The Club. However, we will not disclose to our marketing partners that you have purchased a specific product or that you are member of Swatch The Club.
+  
+**SERVICES AND PRODUCTS ON OTHER WEBSITES**
 
-**Disclosure of your information**    
-We may disclose your personal information to any member of our group, which means our subsidiaries, our ultimate holding company and its subsidiaries. We may disclose your personal information to third parties:
+We may offer some of our products and services or authorized Swatch branding on or through other websites. Information, including personally identifiably information, that you provide to those websites may be sent to us in order to deliver our products and services or collected and used by us as described in this Privacy Statement. We process, use, share and secure such information under this Privacy Statement. The affiliated websites through which our products and services and authorized Swatch branding are offered may have different privacy practices and we encourage you to read their privacy policies. We have no responsibility or liability for the practices, policies and security measures implemented by third parties on their websites.
 
-  * Who help us to administer this website (such as our internet service providers) or to provide the services you are requesting. We require these third parties to provide the same levels of security for your personal information as Swatch.
-  * For direct marketing purposes.
-  * As is necessary to enable us to undertake credit card validation checks and obtain payment authorisations.
-  * In the event that we sell or buy any business or assets, in which case we may disclose your personal data to the prospective seller or buyer of such business or assets.
-  * If we are under a duty to disclose or share your personal data in order to comply with any legal obligation, or in order to enforce or apply our Terms of Use or Conditions of Sale and other agreements; or to protect the rights, property, or safety of The Swatch Group (Australia) Pty. Ltd. or any member of our group, our customers, or others. This includes exchanging information with other companies and organisations for the purposes of fraud protection and credit risk reduction.
+  
+**THIRD-PARTY APPLICATIONS**
 
+Our website may include Widgets, which are interactive mini-programs that run on our website to provide specific services from another company (e.g. allowing you to share a profile with your FaceBook or Twitter account). Personal information, such as your email address, may be collected through the Widget. Cookies may also be set by the Widget to enable it to function properly. Information collected by this Widget is governed by the privacy policy of the company that created it. We have no responsibility or liability for the practices, policies and security measures implemented by such parties.
 
+  
+**PUBLIC FORUMS**
 
-**Third party websites  
-** This website may, from time to time, contain links to and from the websites of our partner networks, advertisers and affiliates. If you follow a link to any of these websites, please note that these websites have their own privacy policies and that we do not accept any responsibility or liability for these websites or policies. Please check these policies before you submit any personal data to these websites.
+When you contribute to a public area or feature, such as a chat room, bulletin board, list serve, wall, blog, wiki or other open forum that we may make available on or through our website or an authorized third-party website, the information that you submit may be made available to the general public. We do not restrict the distribution of personal information that you voluntarily disclose in these public forums, and so that information can be collected and used by others. For this reason, we recommend that you do not submit any sensitive information, including your full name, home address, phone number, other information that would enable other users to locate you, or financial information on these areas. We cannot prevent such information from being used in a manner that may violate this Privacy Statement or applicable law.
 
-Access to and correction of information  
-If at any time you want to know exactly what personal information we hold about you, you are welcome to request access to your record by contacting us at The Swatch Group (Australia) Pty. Ltd. Level 2, 1601 Malvern Road, Glen Iris, VIC 3146 AUSTRALIA or via e-mail at shop.swatch@swatchgroup.com.au. Our file of your information will usually be made available to you within 14 days.
+  
+**CHANGES TO YOUR SHOP.SWATCH.COM ACCOUNT INFORMATION**
 
-If at any time you wish to change personal information that we hold about you because it is inaccurate or out of date, please contact us at The Swatch Group (Australia) Pty. Ltd. Level 2, 1601 Malvern Road, Glen Iris, VIC 3146 AUSTRALIA or via e-mail at shop.swatch@swatchgroup.com.au and we will amend this record. If you wish to have your personal information deleted, please let us know in the same manner as referred to above and we will take all reasonable steps to delete it unless we need to keep it for legal reasons.
+If at any time you want to change or review the information you have provided through SHOP.SWATCH.COM, simply sign on to SHOP.SWATCH.COM and click on "My Account" on the navigation bar. You will then be able to change any information stored in your account. Be sure to click "Save" when you complete your changes. You can also change or access this information by sending an e-mail to us or calling **1-866-379-2824**. Please be sure to include or have ready your full name, address, phone number and e-mail address.
 
-**Use of Cookies and Spyware  
-** We never use or install spyware on your computer, nor do we use spyware to retrieve information from your computer.
+  
+**ACCESS AND CORRECTION**
 
-Like many websites, we use "cookies", which are files stored on your computer's hard drive by your browser. Cookies help us to identify you as an account holder, to track your preferences and to optimize your experience on the website. 
+Subject to applicable law, we provide you with access to personal information we have retained about you and the ability to review, correct, update, block or delete the information where it is inaccurate. Subject to applicable law, we may limit or deny access to personal information where providing such access is unreasonably burdensome or expensive under the circumstances. Please submit your request to the address specified in the "How to Contact Us" section below. Please include your name, email address and postal address in your request.
 
-Some of our cookies are provided by third parties, such as Google Inc. (“Google”), and are subject to their privacy policies. For more information about Google’s privacy policy, please visit their [website](http://www.google.com/intl/en/policies/privacy/). The data these third parties collect may be transferred to, and stored at, a location outside Australia, in particular in the USA. By accepting their cookies, you agree to this transfer, storing or processing.
+  
+**YOUR CHOICES**
 
-Most browsers accept cookies automatically but allow you to disable them. The help menu on most browsers will tell you how to prevent your browser from accepting new cookies, how to have the browser notify you when you receive a new cookie and how to disable cookies all together. You can also disable or delete cookies you have previously accepted if you wish to. 
+We offer you certain choices about how we communicate with you and what information we collect from you. You may withdraw any consent you previously provided to us or object at any time on legitimate grounds to the processing of your personal information, and we will apply your preferences within a reasonable time going forward. You can choose not to receive marketing communications from us by clicking on the unsubscribe link in our marketing emails or contacting us as specified in the "How to Contact Us" section below. Please include your name, email address and postal address if you send us your request by email or postal mail.
 
-We recommend that you leave cookies "turned on" so that we can offer you a better experience on this website. If you use your browser settings to block all cookies (including strictly necessary cookies), you may not be able to access parts of our website or certain parts may not work as well.
+  
+**COOKIES**
 
-**Remarketing  
-** We use the remarketing feature of Google Inc. (“Google”) on this website. This allows Google to serve personalised advertisements, on our behalf, to visitors of our website on our partners’ websites. For this purpose, Google will store a cookie on your device. That cookie will, in turn, store anonymous details about your navigation (e.g. the products you viewed on our website) used to tailor the advertisements to your interests. 
+Like many companies, we use "cookies" on this website. Cookies are bits of text that are placed on your computer's hard drive when you visit certain websites. Cookies may enhance your online experience by saving your preferences while you are visiting a particular site. We use cookies, for example, to preserve the contents of your virtual shopping cart between visits. We also use cookies to measure activity on the website and determine which areas and features of the website are the most popular. Most browsers will tell you how to stop accepting new cookies, how to be notified when you receive a new cookie and how to disable existing cookies. Without cookies, however, you may not be able to take full advantage of all our website features. For example, if you turn off cookies or refuse them, you will not be able to make purchases on the website. If you cannot access the secure server for any reason, you can place your order by calling **1-866-379-2824**.
 
-This anonymous data does not in any way make it possible to personally identify you. 
+  
+**WEB BEACONS**
 
-You may opt out of the remarketing feature by visiting Google’s [Ads Settings](https://www.google.com/settings/u/0/ads?hl=en&sig=ACi0TCjlkRxlzpwY4FT3B3HNNWIW3mo9XwC7iz1n58IIlbFXotK31z8RR1XGHSBBijwJWxigSzmJC3P--0wID1XRfxj-prlhLKi8_CrhcY6amVRiLhgEy2KlrPWSZTD_lKCJ1TVaE81sbkaR7eXnsq4WKZuPYJ-ePLd3LP6abtdUjhq-tR4TSbo).
+Certain pages on this website contain "web beacons" (also known as Internet tags, pixel tags and clear GIFs). Web beacons are used for internal purposes, such as to obtain the IP address of the computer that downloaded the page on which the beacon appears, the URL of the page on which the beacon appears, the time the page containing the beacon was viewed, and the type of browser used to view the page. We also retain service providers who use web beacons to assess the effectiveness of our email communications and learn what pages our visitors viewed.
 
-**  
-Changes to our Privacy Policy**
+  
+**INTEREST-BASED ADVERTISING AND THIRD PARTY WEB ANALYTICS SERVICES**
 
-Any changes we may make to our Privacy Policy in the future will be posted on this page and, where appropriate, notified to you by e-mail.
+We may collect information about your online activities on our website to provide you with advertising about products and services tailored to your individual interests. We also may obtain information for this purpose from third-party websites on which our ads are served. This section of our Privacy Statement provides details and explains how to exercise your choices. You may see certain ads on other websites because we work with advertising partners (including advertising networks) to engage in remarketing and retargeting activities. Our advertising partners allow us to target our messaging to users through demographic, interest-based and contextual means. These partners track your online activities over time and across websites by collecting information through automated means, including through the use of third-party cookies, web server logs, and web beacons. They use this information to show you advertisements that may be tailored to your individual interests. The information our advertising partners may collect includes data about your visits to websites that participate in the relevant advertising networks, such as the pages or advertisements you view and the actions you take on the websites. This data collection takes place both on our website and on third-party websites that participate in the ad networks. This process also helps us track the effectiveness of our marketing efforts. For example, we utilize Criteo's, DoubleClick's, Facebook’s and Instagram’s targeted advertising services to show you our ads on other websites based on your prior visits to our website and other online activity. You can opt out of these features, respectively, here: [http://www.criteo.com/privacy/full-privacy-text/](http://www.criteo.com/privacy/full-privacy-text/) here: [https://code.google.com/archive/p/google-opt-out-plugin/](https://code.google.com/archive/p/google-opt-out-plugin/) and here <https://www.facebook.com/help/164968693837950>.
 
- **  
-Contact and complaints**  
-If you have any questions about this Privacy Policy or any concerns or complaints about how we handle personal information, please contact us at - The Swatch Group (Australia) Pty. Ltd. Level 2, 1601 Malvern Road, Glen Iris, VIC 3146 AUSTRALIA or via e-mail -  _shop.swatch@swatchgroup.com.au_
+Provided that a company participates in industry-developed programs designed to provide consumers choices about whether to receive targeted advertising, you also may opt out of ad network interest-based advertising generally through the Network Advertising Initiative website or by visiting <http://www.aboutads.info/choices/>. To learn more, please visit the websites operated by the Network Advertising Initiative and Digital Advertising Alliance.
 
-We will investigate any complaint and will use reasonable endeavours to respond to you in writing within 30 days of receiving the written complaint. If we fail to respond to your complaint within 30 days of receiving it in writing or if you are dissatisfied with the response that you receive from us, you may make a complaint to the Office of the Australian Information Commissioner (OAIC).
+We also may use third party web analytics services, such as Google Analytics, to measure the effectiveness of our advertising and determine how visitors use this website. These service providers’ tools, including cookies and web beacons, allow us to collect information such as the state and zip code from which our visitors come and the IP addresses of our visitors' computers. You can opt out of aggregation and analysis of data collected by Google Analytics at https://tools.google.com/dlpage/gaoptout. Bounce Exchange, Inc. is an analytics company and interest based ad platform for serving relevant behavioral ads on our website and/or email communications. You can opt out of receiving email communications from Swatch [here](http://link-email.swatch.com/u/nrd.php?p=sbqvgPV4te_415_2252229_1_30&ems_l=2458948&i=1&d=YW5kcmV3a2V2c291a3VwQGdtYWlsLmNvbQ%3D%3D%7CZW4%3D%7CVVM%3D%7C%7CMTc2OTI5MzEw%7Cc2JxdmdQVjR0ZQ%3D%3D%7CMmFkMTk3YTZiODNiZTNiNjE%3D%7C).  
+
+  
+**TRANSMIT AND TRANSFER PERSONAL INFORMATION TO OTHER COUNTRIES**
+
+If you are unsure whether this Privacy Statement is in conflict with the applicable local rules where you are located, you should not submit your or any other persons personally identifiably information to us. Anyone who accesses, uses or interacts with us, our third party providers or this website who submits personally identifiably information or provides any other information does thereby consent to: (i) the international transmission, transfer, processing and/or storage of all such information, including personally identifiably information, to a country which may be deemed to have inadequate data protection and (ii) the collection, using and sharing of such information, including personally identifiably information, as provided in this Privacy Statement.
+
+  
+**PHISHING**
+
+"Phishing" is a scam designed to steal your personal information. If you receive an email that looks like it is from us asking you for your personal information, do not respond. We will never request your password, user name, credit card information or other personal information through email.
+
+  
+**VISITING SHOP.SWATCH.COM FROM THIRD-PARTY SITES**
+
+If you are visiting SHOP.SWATCH.COM through a link from another website or search engine, information about your visit to SHOP.SWATCH.COM may be collected by the provider of the other website or search engine. We encourage you to review the privacy policies of these other websites or search engines. You may avoid disclosing your information to these other websites or search engines by entering SHOP.SWATCH.COM directly into the address field of your Internet browser.
+
+  
+**CHILDREN'S PRIVACY**
+
+This website is not directed to children under the age of thirteen and we do not knowingly collect personal information from children under the age of thirteen on the website. If we become aware that we have inadvertently received personal information from a visitor under the age of thirteen on this website, we will delete the information from our records. We recommend that prospective users between the ages of 13 and 17 ask their parents or other legal guardians for permission before sending any information about themselves to anyone over the Internet.
+
+  
+**HOW TO CONTACT US**
+
+If you have any questions or comments about this Privacy Statement or if you would like us to update information we have about you or your preferences, please contact us as indicated below: 
+
+**The Swatch Group (U.S.) Inc.**  
+1200 Harbor Boulevard  
+Weehawken, NJ 07086  
+ATTN: Customer Service – Ecommerce
+
+Phone: **1-866-379-2824**
