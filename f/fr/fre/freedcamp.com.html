@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the freedcamp.com privacy policy that was archived on 2018-01-25.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20180125231739id_/https%3A//freedcamp.com/Freedcamp_LxR/Freedcamp_Devel_yOf/wiki/wiki_public/view/pAbab) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the freedcamp.com privacy policy that was archived on 2019-03-20.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20190320085029id_/https%3A//freedcamp.com/Freedcamp_LxR/Freedcamp_Devel_yOf/wiki/wiki_public/view/pAbab) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html><head>
     <meta charset="utf-8">
@@ -10,121 +10,173 @@
 
     <script src="//ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
     <script src="https://cdn.freedcamp.com/project_apps/wiki/js/jquery.tableofcontents.js"></script>
-    <!-- SYNTAX HIGHLIGHTER -->
-    <script src="https://cdn.freedcamp.com/thirdparty/syntaxhighlighter308/scripts/shCore.js" type="text/javascript"></script>
-    <script src="https://cdn.freedcamp.com/thirdparty/syntaxhighlighter308/scripts/shAutoloader.js" type="text/javascript"></script>
-    <link type="text/css" rel="stylesheet" media="all" href="https://cdn.freedcamp.com/thirdparty/syntaxhighlighter308/styles/shCore.css">
-    <link type="text/css" rel="stylesheet" media="all" href="https://cdn.freedcamp.com/thirdparty/syntaxhighlighter308/styles/shThemeEclipse.css">
-    <script type="text/javascript">
+    <script>
         $(function(){
             if ($(".wiki_content").find("h1,h2,h3,h4,h5,h6").length > 0) {
                 $("#toc").tableOfContents(
                     $(".wiki_content"),      // Scoped to div#wrapper
                     {
                         startLevel: 1,    // H2 and up
-                        depth:      4,    // H2 through H4,
-                        topLinks:   true, // Add "Top" Links to Each Header
+                        depth: 4,    // H2 through H4,
+                        topLinks: true, // Add "Top" Links to Each Header
                     }
                 );
             } else {
                 $(".toc_wrap").hide();
             }
-            $(".toc_toggle").click(function(e){e.preventDefault();
-                $(".toc_container").slideToggle();
-                $(this).toggleClass("active");
-            });
-            $("a.toc-top-link").click(function(e) {e.preventDefault();
-                $("html, body").animate({ scrollTop: 0 }, "slow");
-                location.hash = "";
-                return false;
-            });
-            $('#toc a').click(function(){
-                $('html, body').animate({
-                    scrollTop: $( $(this).attr('href') ).offset().top - 20
-                }, 500);
-                location.hash = $(this).attr("href");
-                return false;
-            });
         });
     </script>
-    <style>
-        @font-face {
-            font-family: "Open Sans";
-            src: url(https://cdn.freedcamp.com/fonts/OpenSans-Regular.ttf);
-            font-style: normal;
-            font-weight: 400;
-        }
-        @font-face {
-            font-family: "Open Sans";
-            src: url(https://cdn.freedcamp.com/fonts/OpenSans-Semibold.ttf);
-            font-style: normal;
-            font-weight: 600;
-        }
-        @font-face {
-            font-family: "Open Sans";
-            src: url(https://cdn.freedcamp.com/fonts/OpenSans-LightItalic.ttf);
-            font-style: italic;
-            font-weight: 300;
-        }
-        .reset html,.reset body,.reset div,.reset span,.reset object,.reset iframe,.reset blockquote,.reset pre,.reset abbr,.reset address,.reset cite,.reset code,.reset del,.reset dfn,.reset em,.reset img,.reset ins,.reset kbd,.reset q,.reset samp,.reset small,.reset strong,.reset var,.reset fieldset,.reset form,.reset table,.reset caption,.reset tbody,.reset tfoot,.reset thead,.reset tr,.reset th,.reset td,.reset article,.reset aside,.reset dialog,.reset figure,.reset footer,.reset header,.reset hgroup,.reset menu,.reset nav,.reset section,.reset time,.reset mark,.reset audio,.reset video{vertical-align:baseline;margin:0;padding:0;}.reset article,.reset aside,.reset dialog,.reset figure,.reset footer,.reset header,.reset hgroup,.reset menu,.reset nav,.reset section,.reset time,.reset mark,.reset audio,.reset video{display:block;}.reset body{background:#fff;color:#000;font:75%/1.5em Arial,Helvetica,"DejaVu Sans","Liberation sans","Bitstream Vera Sans",sans-serif;position:relative;}.reset textarea{font:101%/1.5em Arial,Helvetica,"DejaVu Sans","Liberation sans","Bitstream Vera Sans",sans-serif;border:1px solid #ccc;border-bottom-color:#eee;border-right-color:#eee;box-sizing:border-box;-moz-box-sizing:border-box;-webkit-box-sizing:border-box;-ms-box-sizing:border-box;width:100%;margin:0;padding:.29em 0;}.reset blockquote,.reset q{quotes:none;}.reset blockquote:before,.reset blockquote:after,.reset q:before,.reset q:after{content:none;}.reset :focus{outline:none;}.reset a{text-decoration:underline;border:0;}.reset a:hover,.reset a:focus{text-decoration:none;}.reset abbr,.reset acronym{border-bottom:1px dotted;cursor:help;font-variant:small-caps;}.reset address,.reset cite,.reset em,.reset i{font-style:italic;}.reset blockquote p{margin:0 1.5em 1.5em;padding:.75em;}.reset code,.reset kbd,.reset tt{font-family:"Courier New",Courier,monospace,serif;line-height:1.5;}.reset del{text-decoration:line-through;}.reset dfn{border-bottom:1px dashed;font-style:italic;}.reset dl{margin:0 0 1.5em;}.reset dd{margin-left:1.5em;}.reset h1,.reset h2,.reset h3,.reset h4,.reset h5,.reset h6{font-weight:700;padding:0;}.reset h1{font-size:2em;margin:0 0 .75em;}.reset h2{font-size:1.5em;margin:0 0 1em;}.reset h3{font-size:1.1666em;margin:0 0 1.286em;}.reset h4{font-size:1em;margin:0 0 1.5em;}.reset h5{font-size:.8333em;margin:0 0 1.8em;}.reset h6{font-size:.666em;margin:0 0 2.25em;}.reset img{display:inline-block;vertical-align:text-bottom;}.reset ins{text-decoration:overline;}.reset mark{background-color:#ff9;color:#000;font-style:italic;font-weight:700;}.reset ol{list-style:outside decimal;}.reset p{font-weight:300;margin:0 0 1.5em;}.reset pre{font-family:"Courier New",Courier,monospace,serif;margin:0 0 1.5em;}.reset sub{top:.4em;font-size:.85em;line-height:1;position:relative;vertical-align:baseline;}.reset sup{font-size:.85em;line-height:1;position:relative;bottom:.5em;vertical-align:baseline;}.reset ul{list-style:outside disc;}.reset table{border-collapse:collapse;border-spacing:0;margin:0 0 1.5em;padding:0;}.reset caption{font-style:italic;text-align:left;}.reset tr.alt td{background:#eee;}.reset td{border:1px solid #000;vertical-align:middle;padding:.333em;}.reset th{font-weight:700;vertical-align:middle;padding:.333em;}.reset button{cursor:pointer;display:block;font-size:1em;height:2em;line-height:1.5em;margin:1.75em 0 0;padding:0 .5em;}.reset fieldset{border:0;position:relative;margin:0 0 1.5em;padding:1.5em 0 0;}.reset fieldset fieldset{clear:both;margin:0 0 1.5em;padding:0 0 0 1.5em;}.reset input{border:1px solid #ccc;border-bottom-color:#eee;border-right-color:#eee;box-sizing:border-box;-moz-box-sizing:border-box;-webkit-box-sizing:border-box;-ms-box-sizing:border-box;font-size:12px;height:1.5em;line-height:1.5em;width:100%;margin:0 0 .75em;padding:.29em 0;}.reset input[type=file]{height:2.25em;padding:0;}.reset select{border:1px solid #ccc;border-bottom-color:#eee;border-right-color:#eee;font-size:1em;height:2.25em;_margin:0 0 1.3em;margin:0 0 .8em;padding:.2em 0 0;}.reset optgroup{font-weight:700;font-style:normal;text-indent:.2em;}.reset optgroup+optgroup{margin-top:1em;}.reset option{font-size:1em;height:1.5em;text-indent:1em;padding:0;}.reset label{cursor:pointer;display:block;height:auto;line-height:1.4em;width:100%;margin:0;padding:0;}.reset label input{background:0;border:0;height:1.5em;line-height:1.5em;width:auto;margin:0 .5em 0 0;padding:0;}.reset legend{font-size:1.1666em;font-weight:700;left:0;margin:0;padding:0;}.reset dt,.reset strong,.reset b{font-weight:700;}.reset a img,.reset button::-moz-focus-inner{border:0;}.reset ul,.reset ol,.reset li ul,.reset li ol{margin:0 0 1.5em 1.5em;padding:0;}
-        body {font-family: 'Open Sans', sans-serif !important; background-color: whiteSmoke; }
-        #main .wiki_content p {font-weight: normal !important; color:#333;}
-
-        .wrap {width:960px; background-color: #fff; margin: 20px auto; -webkit-box-shadow: 0 -3px 1px rgba(255,255,255,.6), inset 0 2px 1px rgba(255,255,255,.97), 0 0 3px -1px rgba(0,0,0,.9);
-            -moz-box-shadow: 0 -3px 1px rgba(255,255,255,.6), inset 0 2px 1px rgba(255,255,255,.97), 0 0 3px -1px rgba(0,0,0,.9);
-            box-shadow: 0 -3px 1px rgba(255,255,255,.6), inset 0 2px 1px rgba(255,255,255,.97), 0 0 3px -1px rgba(0,0,0,.9);}
-
-        #main h1#wiki_title { font-size:28px; border:none; line-height:1.4em; margin:0; padding: 20px; background-color:#1b85c5; color:#fff; border-bottom:1px solid #ddd;}
-
-        .wiki_content {
-            color: #333;
-            font-family: 'Open Sans', sans-serif;
-            font-size: 15px; position: relative;
-            padding:35px;
-        }
-        .wiki_content table { border-collapse: collapse;}
-        .wiki_content ul, .wiki_content ol {margin-left:20px;}
-
-        body .wiki_content div.toc_wrap { position: absolute; z-index: 10; top:-1px; right:0px; background-color:whiteSmoke; border:1px solid #dfdfdf; border-top:none; width:300px; }
-        .toc_wrap .toc_container {display: none; padding: 15px; border-top:1px solid #dfdfdf;}
-        .toc_wrap .toc_toggle {display: block; width:159px; background:url(https://cdn.freedcamp.com/project_apps/wiki/images/toc_toggle.png) no-repeat bottom center; height:29px;
-            position: absolute; right:0px; top:100%; z-index: 9;}
-        .toc_wrap .toc_toggle.active {background-position: top center;}
-        .wiki_content #toc { list-style: upper-alpha; }
-        .wiki_content #toc ol { list-style: decimal;}
-        .wiki_content #toc ol ol { list-style: lower-roman;}
-        .wiki_content #toc ol ol ol { list-style: lower-alpha;}
-        body .wiki_content a.toc-top-link { display: block; width:15px; height: 15px; background:url(https://cdn.freedcamp.com/project_apps/wiki/images/top_top.png) no-repeat top left !important;
-            position: absolute; right:100%; top:50%; margin-top:-8px; margin-right:15px; text-indent: -9999px; }
-
-        .wiki_content p {line-height: 1.652em;}
-        .wiki_content s {text-decoration: line-through;}
-        .wiki_content u {text-decoration: underline;}
-        h1,h2,h3,h4,h5 { color:#000 ; margin:0.55em 0 0.5em; position: relative; font-family: 'Open Sans',sans-serif !important;}
-        h1 {font-size:20px; font-weight: 600; border-bottom:1px solid #ccc; color:#195C7E; line-height:1.33em;}
-        h2 {font-size:18px; }
-        h3 {font-size:16px; }
-        h4 {font-size:15px; }
-        h5 {font-size:14px; }
-        h6 {font-size:12px; text-transform:uppercase; color:#666; }
-
-        .wiki_content table {border:1px solid #ddd;}
-        .wiki_content table thead tr th {border:1px solid #ccc; border-bottom:1px solid #bbb; padding:5px !important; color:#000; padding:5px !important; font-size:12px; background-color: #eee; }
-        .wiki_content table tbody tr:nth-child(odd) td {background:none;}
-        .wiki_content table tbody tr:nth-child(even) td {background-color: whiteSmoke;}
-        .wiki_content table tr td {border:1px solid #ddd; padding:5px !important; font-size:13px; }
-        .wiki_content blockquote {border-left:3px solid #ccc; background-color: whiteSmoke; color:#666; font-style: italic; height: auto;}
-        .wiki_content blockquote p {margin:0px 5px 10px 5px !important; padding: 5px !important; font-family: Georgia, serif;}
-        .wiki_content ul, .wiki_content ol, .wiki_content dl { font-size: 14px; line-height: 1.6; margin-bottom: 17px; list-style-position: outside; }
-
-        .wiki_content ul li ul, .wiki_content ul li ol { margin-left: 20px; margin-bottom: 0; }
-        .wiki_content ol { margin-left: 20px; }
-        .wiki_content ol li ul, .wiki_content ol li ol { margin-left: 20px; margin-bottom: 0; }
-        .wiki_content strong u { font-weight: 700; }
-        .wiki_content pre { overflow-x: auto; }
-    </style>
-
-</head>
+            
+        <!-- SYNTAX HIGHLIGHTER -->
+        <script src="https://cdn.freedcamp.com/thirdparty/syntaxhighlighter308/scripts/shCore.js" type="text/javascript"></script>
+        <script src="https://cdn.freedcamp.com/thirdparty/syntaxhighlighter308/scripts/shAutoloader.js" type="text/javascript"></script>
+        <link type="text/css" rel="stylesheet" media="all" href="https://cdn.freedcamp.com/thirdparty/syntaxhighlighter308/styles/shCore.css">
+        <link type="text/css" rel="stylesheet" media="all" href="https://cdn.freedcamp.com/thirdparty/syntaxhighlighter308/styles/shThemeEclipse.css">
+        <script type="text/javascript">
+            $(function () {
+                $(".toc_toggle").click(function (e) {
+                    e.preventDefault();
+                    $(".toc_container").slideToggle();
+                    $(this).toggleClass("active");
+                });
+                $("a.toc-top-link").click(function (e) {
+                    e.preventDefault();
+                    $("html, body").animate({scrollTop: 0}, "slow");
+                    location.hash = "";
+                    return false;
+                });
+                $('#toc a').click(function () {
+                    $('html, body').animate({
+                        scrollTop: $($(this).attr('href')).offset().top - 20
+                    }, 500);
+                    location.hash = $(this).attr("href");
+                    return false;
+                });
+            });
+        </script>
+        <style>
+            @font-face {
+                font-family: "Open Sans";
+                src: url(https://cdn.freedcamp.com/fonts/OpenSans-Regular.ttf);
+                font-style: normal;
+                font-weight: 400;
+            }
+            @font-face {
+                font-family: "Open Sans";
+                src: url(https://cdn.freedcamp.com/fonts/OpenSans-Semibold.ttf);
+                font-style: normal;
+                font-weight: 600;
+            }
+            @font-face {
+                font-family: "Open Sans";
+                src: url(https://cdn.freedcamp.com/fonts/OpenSans-LightItalic.ttf);
+                font-style: italic;
+                font-weight: 300;
+            }
+            .reset html, .reset body, .reset div, .reset span, .reset object, .reset iframe, .reset blockquote, .reset pre, .reset abbr, .reset address, .reset cite, .reset code, .reset del, .reset dfn, .reset em, .reset img, .reset ins, .reset kbd, .reset q, .reset samp, .reset small, .reset strong, .reset var, .reset fieldset, .reset form, .reset table, .reset caption, .reset tbody, .reset tfoot, .reset thead, .reset tr, .reset th, .reset td, .reset article, .reset aside, .reset dialog, .reset figure, .reset footer, .reset header, .reset hgroup, .reset menu, .reset nav, .reset section, .reset time, .reset mark, .reset audio, .reset video {vertical-align: baseline;margin: 0;padding: 0;}
+            .reset article, .reset aside, .reset dialog, .reset figure, .reset footer, .reset header, .reset hgroup, .reset menu, .reset nav, .reset section, .reset time, .reset mark, .reset audio, .reset video {display: block;}
+            .reset body {background: #fff;color: #000;font: 75%/1.5em Arial, Helvetica, "DejaVu Sans", "Liberation sans", "Bitstream Vera Sans", sans-serif;position: relative;}
+            .reset textarea {font: 101%/1.5em Arial, Helvetica, "DejaVu Sans", "Liberation sans", "Bitstream Vera Sans", sans-serif;border: 1px solid #ccc;border-bottom-color: #eee;border-right-color: #eee;box-sizing: border-box;-moz-box-sizing: border-box;-webkit-box-sizing: border-box;-ms-box-sizing: border-box;width: 100%;margin: 0;padding: .29em 0;}
+            .reset blockquote, .reset q {quotes: none;}
+            .reset blockquote:before, .reset blockquote:after, .reset q:before, .reset q:after {content: none;}
+            .reset :focus {outline: none;}
+            .reset a {text-decoration: underline;border: 0;}
+            .reset a:hover, .reset a:focus {text-decoration: none;}
+            .reset abbr, .reset acronym {border-bottom: 1px dotted;cursor: help;font-variant: small-caps;}
+            .reset address, .reset cite, .reset em, .reset i {font-style: italic;}
+            .reset blockquote p {margin: 0 1.5em 1.5em;padding: .75em;}
+            .reset code, .reset kbd, .reset tt {font-family: "Courier New", Courier, monospace, serif;line-height: 1.5;}
+            .reset del {text-decoration: line-through;}
+            .reset dfn {border-bottom: 1px dashed;font-style: italic;}
+            .reset dl {margin: 0 0 1.5em;}
+            .reset dd {margin-left: 1.5em;}
+            .reset h1, .reset h2, .reset h3, .reset h4, .reset h5, .reset h6 {font-weight: 700;padding: 0;}
+            .reset h1 {font-size: 2em;margin: 0 0 .75em;}
+            .reset h2 {font-size: 1.5em;margin: 0 0 1em;}
+            .reset h3 {font-size: 1.1666em;margin: 0 0 1.286em;}
+            .reset h4 {font-size: 1em;margin: 0 0 1.5em;}
+            .reset h5 {font-size: .8333em;margin: 0 0 1.8em;}
+            .reset h6 {font-size: .666em;margin: 0 0 2.25em;}
+            .reset img {display: inline-block;vertical-align: text-bottom;}
+            .reset ins {text-decoration: overline;}
+            .reset mark {background-color: #ff9;color: #000;font-style: italic;font-weight: 700;}
+            .reset ol {list-style: outside decimal;}
+            .reset p {font-weight: 300;margin: 0 0 1.5em;}
+            .reset pre {font-family: "Courier New", Courier, monospace, serif;margin: 0 0 1.5em;}
+            .reset sub {top: .4em;font-size: .85em;line-height: 1;position: relative;vertical-align: baseline;}
+            .reset sup {font-size: .85em;line-height: 1;position: relative;bottom: .5em;vertical-align: baseline;}
+            .reset ul {list-style: outside disc;}
+            .reset table {border-collapse: collapse;border-spacing: 0;margin: 0 0 1.5em;padding: 0;}
+            .reset caption {font-style: italic;text-align: left;}
+            .reset tr.alt td {background: #eee;}
+            .reset td {border: 1px solid #000;vertical-align: middle;padding: .333em;}
+            .reset th {font-weight: 700;vertical-align: middle;padding: .333em;}
+            .reset button {cursor: pointer;display: block;font-size: 1em;height: 2em;line-height: 1.5em;margin: 1.75em 0 0;padding: 0 .5em;}
+            .reset fieldset {border: 0;position: relative;margin: 0 0 1.5em;padding: 1.5em 0 0;}
+            .reset fieldset fieldset {clear: both;margin: 0 0 1.5em;padding: 0 0 0 1.5em;}
+            .reset input {border: 1px solid #ccc;border-bottom-color: #eee;border-right-color: #eee;box-sizing: border-box;-moz-box-sizing: border-box;-webkit-box-sizing: border-box;-ms-box-sizing: border-box;font-size: 12px;height: 1.5em;line-height: 1.5em;width: 100%;margin: 0 0 .75em;padding: .29em 0;}
+            .reset input[type=file] {height: 2.25em;padding: 0;}
+            .reset select {border: 1px solid #ccc;border-bottom-color: #eee;border-right-color: #eee;font-size: 1em;height: 2.25em;_margin: 0 0 1.3em;margin: 0 0 .8em;padding: .2em 0 0;}
+            .reset optgroup {font-weight: 700;font-style: normal;text-indent: .2em;}
+            .reset optgroup + optgroup {margin-top: 1em;}
+            .reset option {font-size: 1em;height: 1.5em;text-indent: 1em;padding: 0;}
+            .reset label {cursor: pointer;display: block;height: auto;line-height: 1.4em;width: 100%;margin: 0;padding: 0;}
+            .reset label input {background: 0;border: 0;height: 1.5em;line-height: 1.5em;width: auto;margin: 0 .5em 0 0;padding: 0;}
+            .reset legend {font-size: 1.1666em;font-weight: 700;left: 0;margin: 0;padding: 0;}
+            .reset dt, .reset strong, .reset b {font-weight: 700;}
+            .reset a img, .reset button::-moz-focus-inner {border: 0;}
+            .reset ul, .reset ol, .reset li ul, .reset li ol {margin: 0 0 1.5em 1.5em;padding: 0;}
+            body {font-family: 'Open Sans', sans-serif !important; background-color: whiteSmoke; }
+            #main .wiki_content p {font-weight: normal !important; color: #333;}
+            .wrap {width: 960px; background-color: #fff; margin: 20px auto; -webkit-box-shadow: 0 -3px 1px rgba(255, 255, 255, .6), inset 0 2px 1px rgba(255, 255, 255, .97), 0 0 3px -1px rgba(0, 0, 0, .9);
+                -moz-box-shadow: 0 -3px 1px rgba(255, 255, 255, .6), inset 0 2px 1px rgba(255, 255, 255, .97), 0 0 3px -1px rgba(0, 0, 0, .9);
+                box-shadow: 0 -3px 1px rgba(255, 255, 255, .6), inset 0 2px 1px rgba(255, 255, 255, .97), 0 0 3px -1px rgba(0, 0, 0, .9);}
+            #main h1#wiki_title { font-size: 28px; border: none; line-height: 1.4em; margin: 0; padding: 20px; background-color: #1b85c5; color: #fff; border-bottom: 1px solid #ddd;}
+            .wiki_content {
+                color: #333;
+                font-family: 'Open Sans', sans-serif;
+                font-size: 15px; position: relative;
+                padding: 35px;
+            }
+            .wiki_content table { border-collapse: collapse;}
+            .wiki_content ul, .wiki_content ol {margin-left: 20px;}
+            body .wiki_content div.toc_wrap { position: absolute; z-index: 10; top: -1px; right: 0px; background-color: whiteSmoke; border: 1px solid #dfdfdf; border-top: none; width: 300px; }
+            .toc_wrap .toc_container {display: none; padding: 15px; border-top: 1px solid #dfdfdf;}
+            .toc_wrap .toc_toggle {display: block; width: 159px; background: url(https://cdn.freedcamp.com/project_apps/wiki/images/toc_toggle.png) no-repeat bottom center; height: 29px;
+                position: absolute; right: 0px; top: 100%; z-index: 9;}
+            .toc_wrap .toc_toggle.active {background-position: top center;}
+            .wiki_content #toc { list-style: upper-alpha; }
+            .wiki_content #toc ol { list-style: decimal;}
+            .wiki_content #toc ol ol { list-style: lower-roman;}
+            .wiki_content #toc ol ol ol { list-style: lower-alpha;}
+            body .wiki_content a.toc-top-link { display: block; width: 15px; height: 15px; background: url(https://cdn.freedcamp.com/project_apps/wiki/images/top_top.png) no-repeat top left !important;
+                position: absolute; right: 100%; top: 50%; margin-top: -8px; margin-right: 15px; text-indent: -9999px; }
+            .wiki_content p {line-height: 1.652em;}
+            .wiki_content s {text-decoration: line-through;}
+            .wiki_content u {text-decoration: underline;}
+            h1, h2, h3, h4, h5 { color: #000; margin: 0.55em 0 0.5em; position: relative; font-family: 'Open Sans', sans-serif !important;}
+            h1 {font-size: 20px; font-weight: 600; border-bottom: 1px solid #ccc; color: #195C7E; line-height: 1.33em;}
+            h2 {font-size: 18px; }
+            h3 {font-size: 16px; }
+            h4 {font-size: 15px; }
+            h5 {font-size: 14px; }
+            h6 {font-size: 12px; text-transform: uppercase; color: #666; }
+            .wiki_content table {border: 1px solid #ddd;}
+            .wiki_content table thead tr th {border: 1px solid #ccc; border-bottom: 1px solid #bbb; padding: 5px !important; color: #000; padding: 5px !important; font-size: 12px; background-color: #eee; }
+            .wiki_content table tbody tr:nth-child(odd) td {background: none;}
+            .wiki_content table tbody tr:nth-child(even) td {background-color: whiteSmoke;}
+            .wiki_content table tr td {border: 1px solid #ddd; padding: 5px !important; font-size: 13px; }
+            .wiki_content blockquote {border-left: 3px solid #ccc; background-color: whiteSmoke; color: #666; font-style: italic; height: auto;}
+            .wiki_content blockquote p {margin: 0px 5px 10px 5px !important; padding: 5px !important; font-family: Georgia, serif;}
+            .wiki_content ul, .wiki_content ol, .wiki_content dl { font-size: 14px; line-height: 1.6; margin-bottom: 17px; list-style-position: outside; }
+            .wiki_content ul li ul, .wiki_content ul li ol { margin-left: 20px; margin-bottom: 0; }
+            .wiki_content ol { margin-left: 20px; }
+            .wiki_content ol li ul, .wiki_content ol li ol { margin-left: 20px; margin-bottom: 0; }
+            .wiki_content strong u { font-weight: 700; }
+            .wiki_content pre { overflow-x: auto; }
+            .wiki_content table caption { margin-bottom: 10px; }
+        </style>
+    </head>
 <body>
 <div class="wrap">
     <div id="main">
@@ -133,98 +185,226 @@
             <div class="toc_wrap">
                 <div class="toc_container">
                     <div class="toc_title">Table of Contents</div>
-                    <ol id="toc"></ol>
+                    <ol id="toc" class="active"></ol>
                 </div>
                 <a href="#" class="toc_toggle"></a>
             </div><!-- toc_wrap -->
-            <p>This Privacy Policy governs the manner in which Freedcamp collects, uses, maintains and discloses information collected from Users (each, a "User") of the&nbsp;<a href="http://www.freedcamp.com/" style="color:rgb(57,161,231);text-decoration:none;" target="_blank"></a><a href="http://www.freedcamp.com" target="_blank">http://www.freedcamp.com</a> website ("Site"). This privacy policy applies to the Site and all products and services offered by Freedcamp, INC.</p>
+            <div class="sections">
+                <p style="margin-left:0in;margin-right:0in;"><span><span><span><strong><span><span><span><span style="color:#000000;">Effective 10th May 2018</span></span></span></span></strong></span></span></span></p>
 
-<h1 style="text-align:justify;">Personal Identification Information</h1>
+<p style="margin-left:0in;margin-right:0in;"><span><span><span><span><span><span style="color:#000000;">This Privacy Policy describes the manner in which Freedcamp collects, uses, maintains and discloses information collected from Users ("User") through our all our websites ("Site") by accessing our Services (“Services”). This privacy policy applies to the Site and all products and services offered by Freedcamp, INC. If you do not agree with this policy, please do not access or use our Services or any aspect of our Business. </span></span></span></span></span></span></p>
 
-<p style="text-align:justify;">We may collect personally identification information from Users in a variety of ways, including, but not limited to, when Users visit our site, register on the site, and in connection with other activities, services, features or resources we make available on our Site. Users may be asked for, as appropriate, name, email address. We will collect personal identification information from Users only if they voluntarily submit such information to us. Users can always refuse to supply personally identification information, except that it may prevent them from engaging in certain Site related activities.</p>
+<p style="margin-left:0in;margin-right:0in;"><span><span><span><span><span><span style="color:#000000;">Updates in this Privacy Policy reflects recent changes in data protection law (eg. GDPR) and aims to provide Users a clearer understanding of how Freedcamp manages all User Data.</span></span></span></span></span></span></p>
 
-<h1 style="text-align:justify;">Non-Personal Identification Information</h1>
+<h1>Applicability</h1>
 
-<p style="text-align:justify;">We may collect non-personal identification information about Users whenever they interact with our Site. Non-personal identification information may include the browser name, the type of computer and technical information about Users means of connection to our Site, such as the operating system and the Internet service providers utilized and other similar information.</p>
+<p style="margin-left:0in;margin-right:0in;"><span><span><span><span><span><span style="color:#000000;">This privacy policy applies to all products and Services (collectively, the “<strong>Services</strong>”) offered by Freedcamp, INC through Freedcamp.com (collectively, the “<strong>Sites</strong>”) and our Mobile Applications.<strong> </strong>In addition, this policy applies to personal data from the European Union that is collected and retained in the United States. This Privacy Policy does not apply to any third party applications or software that integrate with Freedcamp’s Services or any other third party products, services or business. </span></span></span></span></span></span></p>
 
-<h1 style="text-align:justify;">Web Browser Cookies</h1>
+<h1>Data Collected and Received by Freedcamp</h1>
 
-<p style="text-align:justify;">Our Site may use "cookies" to enhance User experience. User`s web browser places cookies on their hard drive for record-keeping purposes and sometimes to track information about them. User may choose to set their web browser to refuse cookies, or to alert you when cookies are being sent. If they do so, note that some parts of the Site may not function properly.</p>
+<h2>Personal Identification Information</h2>
 
-<h1 style="text-align:justify;">How We Use Collected Information</h1>
+<p style="margin-left:0in;margin-right:0in;text-align:justify;"><span><span><span><span><span><span style="color:#000000;">We may collect personally identification information from Users in a variety of ways, including, but not limited to, when Users visit our Sites, register on the Sites, and in connection with other activities, Services, features or resources we make available on our Sites. Users may be asked for, as appropriate, name, email address, billing information. We will collect personal identification information from Users only if they voluntarily submit such information to us. Users can always refuse to supply personally identification information, except that it may prevent them from engaging in certain Sites related activities. We will never sell your personal information to third parties and we won’t use your name or company name in any marketing statements without obtaining your permission in writing.</span></span></span></span></span></span></p>
 
-<p style="text-align:justify;">Freedcamp collects and uses Users personal information for the following purposes:</p>
+<h2>Non Personal Identification Information</h2>
 
-<ol><li>To personalize User experience</li>
-	<li>We may use information in the aggregate to understand how our Users as a group use the services and resources provided on our Site.</li>
-	<li>To improve our Site</li>
-	<li>We continually strive to improve our website offerings based on the information and feedback we receive from you.</li>
-	<li>To improve customer service</li>
-	<li>Your information helps us to more effectively respond to your customer service requests and support needs.</li>
-	<li>To administer a content, promotion, survey or other Site feature</li>
-	<li>To send Users information they agreed to receive about topics we think will be of interest to them.</li>
-	<li>To send periodic emails</li>
-	<li>The email address Users provide will only be used to respond to their inquiries, and/or other requests or questions. If User decides to opt-in to our mailing list, they will receive emails that may include company news, updates, related product or service information, etc. If at any time the User would like to unsubscribe from receiving future emails, we include detailed unsubscribe instructions at the bottom of each email.</li>
-</ol><h1 style="text-align:justify;">How We Protect Your Information</h1>
+<p style="margin-left:0in;margin-right:0in;text-align:justify;"><span><span><span><span><span><span style="color:#000000;">We may collect non-personal identification information about Users whenever they interact with our Sites. Non-personal identification information may include the browser name, the type of computer and technical information about Users means of connection to our Sites, such as the operating system and the Internet service providers utilized and other similar information. </span></span></span></span></span></span></p>
 
-<p style="text-align:justify;">We adopt appropriate data collection, storage and processing practices and security measures to protect against unauthorized access, alteration, disclosure or destruction of your personal information, Username, password, transaction information and data stored on our Site.</p>
+<h2>Other Information</h2>
 
-<h1 style="text-align:justify;">Sharing Your Personal Information</h1>
+<p style="margin-left:0in;margin-right:0in;text-align:justify;"><span><span><span><span><span><span style="color:#000000;">Services Metadata – when Users interact with our Services, metadata is generated to help provide additional context regarding how Users interact with our Sites. </span></span></span></span></span></span></p>
 
-<p style="text-align:justify;">We do not sell, trade, or rent Users personal identification information to others. We may share generic aggregated demographic information not linked to any personal identification information regarding visitors and Users with our business partners, trusted affiliates and advertisers for the purposes outlined above. We may use third party service providers to help us operate our business and the Site or administer activities on our behalf, such as sending out newsletters or surveys. We may share your information with these third parties for those limited purposes provided that you have given us your permission. We may share your First/Last names and avatar with others users within Freedcamp. We also reserve the right to freely moderate all comments made within Freedcamp. Even though Freedcamp owns the code, databases and rights to our applications, you, the Users, retain al rights to the data you share and upload. Under special circumstances, Freedcamp reserves the right to disclose your personal information should it relate to any legal matter or proceedings or if you have violated our Terms and Conditions.</p>
+<p style="margin-left:0in;margin-right:0in;text-align:justify;"><span><span><span><span><span><span style="color:#000000;">Log Data – Our services will automatically collect information when Users access or use our Sites or Services and records it in log files. Log data may include IP address, previously visited web page addresses, browser type and settings, time and date when Services were used, browser configurations and plugins, language and cookie data. </span></span></span></span></span></span></p>
 
-<h1 style="text-align:justify;">Changes To This Privacy Policy</h1>
+<p style="margin-left:0in;margin-right:0in;text-align:justify;"><span><span><span><span><span><span style="color:#000000;">Device Information – Freedcamp</span></span></span>&nbsp;<span><span><span style="color:#000000;">collect information about your computer, phone, tablet, or other devices you use to access our Services. This device information includes your connection type and settings when you install, access, update or use our Services. We also collect information through your device about your operating system, browser type, IP address, URLs of referring/exit pages, device identifiers, and crash data. We use your IP address and/or country preference in order to approximate your location to provide you with a better Service experience. How much of this information we collect depends on the type and settings of the device you use to access the Services. </span></span></span></span></span></span></p>
 
-<p style="text-align:justify;">Freedcamp has the discretion to update this privacy policy at any time. When we do make changes, we will post a notification on the main page of our Site and send you an email. We encourage Users to frequently check this page for any changes to stay informed about how we are helping to protect the personal information we collect. You acknowledge and agree that it is your responsibility to review this privacy policy periodically and become aware of modifications.</p>
+<p style="margin-left:0in;margin-right:0in;text-align:justify;"><span><span><span><span><span><span style="color:#000000;">Location information -&nbsp; Freedcamp will receive this information from Users during our Account Registration as well as from our vendor partners to approximate your location. </span></span></span></span></span></span></p>
 
-<h1 style="text-align:justify;">Your Acceptance Of These Terms</h1>
+<p style="margin-left:0in;margin-right:0in;text-align:justify;"><span><span><span><span><span><span style="color:#000000;">Project information – Freedcamp is a work collaboration tool, therefore any User-generated data by use of our Services will be collected and stored by Freedcamp, and vendor partners. Collected data includes, but not limited to, data that Users post, send, receive or share. These include any files or links that User upload to our Services. Project data will only be accessible through authorized accounts or Users designated account and can only be viewed, or altered, by Users assigned to such projects. Freedcamp will never share, sell, or exploit ay Project information unless requested by Project Admins. In addition, we may also inadvertently receive information about such Users from same project members. For example, a specific User may be mentioned by one of their project members when using our Services. </span></span></span></span></span></span></p>
 
-<p style="text-align:justify;">By using this Site, you signify your acceptance of this policy. If you do not agree to this policy, please do not use our Site. Your continued use of the Site following the posting of changes to this policy will be deemed your acceptance of those changes.</p>
+<h2>Web Browser Cookies</h2>
 
-<h1 style="text-align:justify;">Contacting Us</h1>
+<p style="margin-left:0in;margin-right:0in;text-align:justify;"><span><span><span><span><span><span style="color:#000000;">Our Site, and/or vendors, may use "cookies" to enhance User experience. User`s web browser places cookies on their hard drive for record-keeping purposes and sometimes to track information about them. A user may choose to set their web browser to refuse cookies, or to alert you when cookies are being sent. If they do so, note that some parts of the Site may not function properly.</span></span></span></span></span></span></p>
 
-<p style="text-align:justify;">If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this site, please contact us at:</p>
+<h1>How Freedcamp Use Collected Data</h1>
 
-<p style="text-align:justify;"><a href="http://www.freedcamp.com/" style="color:rgb(57,161,231);text-decoration:none;">Freedcamp</a>&nbsp;<br><a href="http://www.freedcamp.com/" style="color:rgb(57,161,231);text-decoration:none;" target="_blank"></a><a href="http://www.freedcamp.com" target="_blank">http://www.freedcamp.com</a>&nbsp;<br>
-3066 Foothill Rd Santa Barbara, CA 93105&nbsp;<br>
-(805)2458713&nbsp;<br>
-legal@freedcamp.com</p>
+<p style="margin-left:0in;margin-right:0in;text-align:justify;"><span><span><span><span><span><span style="color:#000000;">Users are the primary Controllers of User Data. Freedcamp is a processor of User Data and Controller of other certain data. Users who resume the role of Project Admins will have the rights to grant or remove access to Project Data to any other Users. Freedcamp will never remove Users from any Projects unless specifically instructed by Project Admins or Users failed to provide payment for Freedcamp’s services (see Terms of Service for additional information).&nbsp; </span></span></span></span></span></span></p>
 
-<p style="text-align:justify;">This document was last updated on March 23, 2015</p>
+<p style="margin-left:0in;margin-right:0in;text-align:justify;"><span><span><span><span><span><span style="color:#000000;">Freedcamp collects and uses Users personal information for the following purposes:</span></span></span></span></span></span></p>
+
+<ol><li><span><span><span><span><span><span><span style="color:#000000;">To personalize User experience</span></span></span></span></span></span></span></li>
+	<li><span><span><span><span><span><span><span style="color:#000000;">We may use information in the aggregate to understand how our Users as a group use the services and resources provided on our Site.</span></span></span></span></span></span></span></li>
+	<li><span><span><span><span><span><span><span style="color:#000000;">To improve our Site</span></span></span></span></span></span></span></li>
+	<li><span><span><span><span><span><span><span style="color:#000000;">We continually strive to improve our website offerings based on the information and feedback we receive from you.</span></span></span></span></span></span></span></li>
+	<li><span><span><span><span><span><span><span style="color:#000000;">To improve customer service</span></span></span></span></span></span></span></li>
+	<li><span><span><span><span><span><span><span style="color:#000000;">Your information helps us to more effectively respond to your customer service requests and support needs.</span></span></span></span></span></span></span></li>
+	<li><span><span><span><span><span><span><span style="color:#000000;">To administer a content, promotion, survey or other Site feature</span></span></span></span></span></span></span></li>
+	<li><span><span><span><span><span><span><span style="color:#000000;">To send Users information they agreed to receive about topics we think will be of interest to them.</span></span></span></span></span></span></span></li>
+	<li><span><span><span><span><span><span><span style="color:#000000;">The email address Users provide will only be used to respond to their inquiries, and/or other requests or questions. If User decides to opt-in to our mailing list, they will receive emails that may include company news, updates, related product or service information, etc. If at any time the User would like to unsubscribe from receiving future emails, we include detailed unsubscribe instructions at the bottom of each email.</span></span></span></span></span></span></span></li>
+	<li><span><span><span><span><span><span><span style="color:#000000;">As required by applicable law, legal process or regulation</span></span></span></span></span></span></span></li>
+	<li><span><span><span><span><span><span><span style="color:#000000;">For Billing, account management and other administrative matters </span></span></span></span></span></span></span></li>
+	<li><span><span><span><span><span><span><span style="color:#000000;">For investigative and preventive measures against Site abuse</span></span></span></span></span></span></span></li>
+	<li><span><span><span><span><span><span><span style="color:#000000;">We use information about Users when granted consent for a specific purpose not listed above. For example, we may publish testimonials or feature customer stories to promote our Services. We will always ask for consent prior to posting any information for promotional purposes.</span></span></span></span></span></span></span></li>
+</ol><h1>Sharing and Disclosure of Information</h1>
+
+<p style="margin-left:0in;margin-right:0in;text-align:justify;"><span><span><span><span><span><span style="color:#000000;">Freedcamp will only disclose or share User information for the following purposes:</span></span></span></span></span></span></p>
+
+<ol><li style="text-align:justify;"><span><span><span><strong><span><span><span style="color:#000000;">User’s Request:</span></span></span></strong><span><span><span style="color:#000000;"> Freedcamp will share all User Data based on User’s request and instructions. </span></span></span></span></span></span></li>
+	<li style="text-align:justify;"><span><span><span><strong><span><span><span style="color:#000000;">Project Collaboration:</span></span></span></strong> &nbsp;<span><span><span style="color:#000000;">Users can create content, which may contain information about themselves or other Users, and grant permission to others to see, share, edit, copy and download that content. Some of the collaboration features of the Services display some or all of your profile information to other Service Users when you share or interact with specific content. Similarly, when Users join a project, your name, profile picture and contact information and will be displayed in a list for other project members so they can find and interact with you. </span></span></span></span></span></span></li>
+	<li style="text-align:justify;"><span><span><span><strong><span><span><span style="color:#000000;">Legal Compliance:</span></span></span></strong><span><span><span style="color:#000000;"> </span></span></span><span style="color:#000000;">If requested by legal Authority, Freedcamp may disclose User information that we determine to be in accordance or required by any applicable law</span><span><span><span style="color:#000000;"> </span></span></span></span></span></span></li>
+	<li style="text-align:justify;"><span><span><span><strong><span><span><span style="color:#000000;">Enforcement</span></span></span></strong><span><span><span style="color:#000000;">: Freedcamp also reserves the right to disclose User information to investigate, prevent, or take action against illegal activities, suspected fraud, or situations involving a physical threat to any such persons. </span></span></span></span></span></span></li>
+	<li style="text-align:justify;"><span><span><span><strong><span><span><span style="color:#000000;">Consent</span></span></span></strong><span><span><span style="color:#000000;">: Freedcamp may share User information with other 3rd parties in instances when we have Users’ consent to do so.</span></span></span></span></span></span></li>
+	<li style="text-align:justify;"><span><span><span><strong><span><span><span style="color:#000000;">Third Party Service Providers and Partners:</span></span></span></strong><span><span><span style="color:#000000;"> </span></span></span><span style="color:#000000;">Freedcamp works with third-party service providers and partners to provide website and application development, hosting, maintenance, backup, storage, virtual infrastructure, payment processing, analysis and other services for Freedcamp, which may require them to access or use User information. If a service provider needs to access information about Users to perform services on Freedcamp’s behalf, they do so under instruction from Freedcamp, including abiding by policies and procedures designed to protect User information. Freedcamp will have certain liability under the Privacy Shield (please see below) if both 1) the 3rd Party Partner processes any personal data in a manner inconsistent with the Privacy Shield and 2) Freedcamp is responsible for the event giving rise to the damage.</span><span><span><span style="color:#000000;"> Please check <a href="https://freedcamp.com/Freedcamp_LxR/Freedcamp_Devel_yOf/wiki/wiki_public/view/CIcab">this page</a> for a list of Freedcamp's partners.</span></span></span></span></span></span>
+	<ul><li style="text-align:justify;"><span><span><span><span><strong><span><span><span style="color:#131313;">Services Users link to their account:</span></span></span></strong><span><span><span style="color:#131313;">&nbsp;Freedcamp receives information when Users enable any 3rd party apps or integrate a 3rd party service with our Services. Example, if Users log into our Services using your Google credentials, Freedcamp will receive your name and email address as permitted by User’s Google profile settings for authentication purposes. Users and project members may also integrate our Services with other 3rd party services to allow you to access, store, share and/or edit content from a 3rd party through our Services. Example, Users might authorize our Services to access and display files from a 3rd party document-sharing service within Freedcamp. Information that Freedcamp receives when Users link or integrate our Services with a 3rd party service depends on the settings, permissions and privacy policy controlled by that 3rd party service. We strongly suggest that Users thoroughly review privacy settings and ToS from any 3rd party services in order to fully understand what type of data may be disclosed or shared with Freedcamp.</span></span></span></span></span></span></span></li>
+		<li style="text-align:justify;"><span><span><span><strong><span><span><span style="color:#131313;">Operational Partners:</span></span></span></strong><span><span><span style="color:#131313;">&nbsp;Freedcamp works with 3rd parties who provide billing, support technical services to deliver and implement solutions to our Users.&nbsp;Freedcamp may share User information with these 3rd parties in connection with their services, such as to assist with billing cycles, to provide localized support, and to provide customizations work. Freedcamp may also share information with these 3rd parties where Users have granted Consent to share any information, for example, technical support services.</span></span></span></span></span></span></li>
+		<li style="text-align:justify;"><span><span><span><strong><span><span><span style="color:#131313;">3rd Party apps:</span></span></span></strong><span><span><span style="color:#131313;">&nbsp;Users may choose to add new functionality by enabling 3rd party apps to Freedcamp’s Services. In doing Users may be providing these 3rd party apps access to personal information about you such as name, email address, and project data you choose to use in connection with those apps. 3rd party app’s Privacy Policies and ToS are not controlled by Freedcamp, and Freedcamp’s Privacy Policy does not extend coverage for any 3rd party apps and how they handle your personal information. Freedcamp strongly encourages Users to review all 3rd Party Privacy Policies and ToS before connecting them to our Services. If Users object to information being shared with these 3rd parties, please disable the app immediately.</span></span></span></span></span></span></li>
+		<li style="text-align:justify;"><span><span><span><strong><span><span><span style="color:#131313;">Links to 3rd Party Sites:</span></span></span></strong><span><span><span style="color:#131313;">&nbsp;Freedcamp’s Services may include links that direct you to other websites or services whose privacy practices may differ from ours. What you submit to these 3rd party sites are governed under their Privacy Policies and is not covered by Freedcamp’s Privacy Policies.</span></span></span></span></span></span></li>
+		<li style="text-align:justify;"><span><span><span><strong><span><span><span style="color:#131313;">3rd Party Widgets:</span></span></span></strong><span><span><span style="color:#131313;">&nbsp;Our Services may contain widgets and social media features, e.g. the Twitter "tweet" button. These widgets and features collect your IP address, and may set a cookie to enable the feature to properly function. Widgets and social media features are either hosted by a 3rd party or hosted directly on our Services. User’s interactions with these features are governed by the privacy policy of the company providing it and not governed by Freedcamp’s Privacy Policy.</span></span></span></span></span></span></li>
+	</ul></li>
+</ol><p style="margin-left:0in;margin-right:0in;text-align:justify;"><span><span><span><span><span><span style="color:#000000;">The operations of Freedcamp does require our employees to have access to systems which store and process User Data. This primarily serves the purpose of problem diagnostic or troubleshooting. For example, in order to diagnose a problem Users may have with Freedcamp services, our Employees may need access to your User Data. All employees are prohibited from viewing User Data for any reasons unless absolutely necessary to do so. </span></span></span></span></span></span></p>
+
+<h1>Data Deletion</h1>
+
+<p style="margin-left:0in;margin-right:0in;"><span><span><span><span><span><span><span style="color:#000000;">When Users delete their account(s) there are different scenarios how data deletion will be treated as described below:</span></span></span></span></span></span></span></p>
+
+<ol><li><span><span><span><span><span><span><span style="color:#000000;">If you were not invited to any other projects owned by other Freedcamp User then your data can no longer be accessed by you or any other Users that you invited to Freedcamp. Complete data deletion will occur post 90 days. Please see “Data Retention” below for additional details regarding 90-days data retention.</span></span></span></span></span></span></span></li>
+	<li><span><span><span><span><span><span><span style="color:#000000;">If User does not own projects and was only invited to other Freedcamp User’s projects then your specific contribution in other the projects will remain, but your personal information will be deleted. Freedcamp will make every effort to mask any personal information remaining, for example, your contribution to someone else’s project will be listed as “First Name, Last Initial” with no connection to your deleted personal information such as email, phone numbers, etc.</span></span></span></span></span></span></span></li>
+	<li><span><span><span><span><span><span><span style="color:#000000;">If you own projects and were participating in other Users’ projects, then Freedcamp’s Data Deletion and Data Retention will apply to each category described in section (1) and (2) above.</span></span></span></span></span></span></span></li>
+</ol><p style="margin-left:0in;margin-right:0in;"><span><span><span><span><span><span style="color:#000000;">Users, at any time, may request a deletion of their personal data. If such request is made,&nbsp;</span></span></span><span><span>data are deleted based on points 1, 2, or 3 as noted above and will remain in backups and life-cycle we maintain to ensures we do not store data inside backups more than 90 days. Users may email <u><span style="color:#0000ff;">legal@freedcamp.com</span></u> to request data deletion. However, if Users requires deletion of their data, we strongly suggest Users delete their account as this will help initiate the process as stated in points 1, 2 and 3 above.&nbsp;</span></span></span></span></span></p>
+
+<p style="margin-left:0in;margin-right:0in;">IF Users fail to make payment for any premium plans, Freedcamp will remove all paid features and return Users to the Free Plan. Please see section 7.5 of our ToS for User inactivity under the Free Plan. If Freedcamp deletes an account due to inactivity, the above scenarios will apply.</p>
+
+<h1>Data Retention</h1>
+
+<h2>Information storage and security</h2>
+
+<p style="margin-left:0in;margin-right:0in;"><span><span><span><span><span><span style="color:#000000;">Freedcamp uses data hosting service providers in the United States to host collected information, and we use technical measures to secure all data. Despite the thorough security measures and safeguards that Freedcamp implements to protect data, no security system is impenetrable and due to the inherent nature of the Internet, Freedcamp cannot guarantee that data, during transmission through the Internet or while stored on our systems or otherwise in our care, is absolutely safe from intrusion by others. Freedcamp has policies in place in case of such situation and will respond to requests about this within a reasonable timeframe.&nbsp;</span></span></span><span><span>Freedcamp also provides Enterprise customers who selected 'private cloud' option to host their isolated and branded Freedcamp environment in any region supported by Amazon Web Services. Please&nbsp;contact <u><span style="color:#0000ff;">sales@freedcamp.com</span></u> for more information.</span></span></span></span></span></p>
+
+<h2>How long we keep information</h2>
+
+<p style="margin-left:0in;margin-right:0in;"><span><span><span style="color:#000000;">How long we keep the information we collect about you depends on the type of information, as described in further detail below. After such time, we will make every effort to delete your information or, if this is not possible (for example, because the information has been stored in backup archives), then we will securely store your information and isolate it from any further use until deletion is possible.</span></span></span></p>
+
+<ul><li><span><span style="color:#000000;"><span><span><span><span><span>User Account information:&nbsp;We retain User information until User delete their account(s), which then we will continue retaining the data for up to 90 days after account deletion. Freedcamp maintains this practice due to the following reason:</span></span></span></span></span></span></span>
+
+	<ul style="list-style-type:circle;"><li><span><span style="color:#000000;"><span><span><span><span><span>In the event that User’s account has been compromised and purposely deleted. Freedcamp will help maintain and restore data once the situation is rectified</span></span></span></span></span></span></span></li>
+		<li><span><span style="color:#000000;"><span><span><span><span><span>An account was mistakenly deleted by Users. In such an event, Freedcamp will be able to restore data for Users.</span></span></span></span></span></span></span></li>
+		<li><span><span style="color:#000000;"><span><span><span><span><span>Various data storage systems and backups have different lifecycle policies which are held for a maximum of 90 days. For example, our database backups are encrypted, incremental and full re-cycle in 30 days. It is impossible to erase User data inside up to 1 minute precision encrypted incremental backups.</span></span></span></span></span></span></span></li>
+		<li><span><span style="color:#000000;"><span><span><span><span><span>If User initially canceled their account and requested but later change their mind. A user will be able to have all data restored if an account is reactivated within 90 days after initial account cancellation. </span></span></span></span></span></span></span></li>
+		<li><span><span style="color:#000000;"><span><span><span><span><span>Freedcamp may also retain some of the User data as necessary to comply with our legal obligations, to resolve disputes, to enforce our agreements, to support business operations and to continue to develop and improve our Services. Where we retain information for Service improvement and development, we take steps to eliminate information that directly identifies any specific Users, and we only use the information to uncover collective insights about the use of our Services, not to specifically analyze personal characteristics about any Users.</span></span></span></span></span></span></span><br>
+		&nbsp;</li>
+	</ul></li>
+	<li><span><span style="color:#000000;"><span><span><span><span><span>The information you share on the Services:&nbsp;If User’s account is deactivated or disabled, some of the User information and the content that Users have provided will remain in order to allow other Project members or other Users to make full use of the Services. For example, we continue to display comments and content you provided to boards or cards. Freedcamp will hold User data up to 90 days after account cancellation in case Users will renew again within that time frame.</span></span></span></span></span></span></span><br>
+	&nbsp;</li>
+	<li><span><span style="color:#000000;"><span><span><span><span><span>Marketing and Promotional information:&nbsp;If Users have elected and provided consent to receive marketing and promotional emails from Freedcamp, we retain information about Users' marketing preferences unless asked specifically to delete such information. Freedcamp retains information derived from cookies and other tracking technologies for a reasonable period of time from the date such information was created.</span></span></span></span></span></span></span></li>
+</ul><h1>Security</h1>
+
+<p style="margin-left:0in;margin-right:0in;"><span><span><span><span><span><span style="color:#000000;">We take the security of your data very seriously at Freedcamp. As transparency is one of the principles on which our company is built, we aim to be as clear and open as we can about the way we handle security. Our security practices are <a href="https://freedcamp.com/Freedcamp_LxR/Freedcamp_Devel_yOf/wiki/wiki_public/view/SOcab">published here</a>.</span></span></span></span></span></span></p>
+
+<h1><br>
+Age Limitation</h1>
+
+<p style="margin-left:0in;margin-right:0in;"><span><span><span><span><span><span><span style="color:#000000;">Freedcamp does not allow the use of our Services or Sites to anyone younger than 16 years old unless Consent is provided in writing by a legal guardian. Freedcamp will make the utmost effort to prohibit the use of our Site by anyone not over the legal age. Should Freedcamp learn that anyone under 16 has unlawfully provided us with personal data, Freedcamp will take the necessary steps to delete such information. </span></span></span></span></span></span></span></p>
+
+<h1>Changes to Privacy Policy</h1>
+
+<p style="margin-left:0in;margin-right:0in;text-align:justify;"><span><span><span><span><span><span style="color:#000000;">Freedcamp has the discretion to update this privacy policy at any time. When we do make changes, we will post a notification on the main page of our Site and send you an email. We encourage Users to frequently check this page for any changes to stay informed about how we are helping to protect the personal information we collect. You acknowledge and agree that it is your responsibility to review this privacy policy periodically and become aware of modifications.</span></span></span></span></span></span></p>
+
+<h1>Privacy Shield</h1>
+
+<h2 style="margin-left:0in;margin-right:0in;">Compliance</h2>
+
+<p style="margin-left:0in;margin-right:0in;text-align:justify;"><span><span><span><span><span><span style="color:#000000;">Freedcamp Inc, a U.S. entity, complies with the EU-U.S. Privacy Shield Framework&nbsp;and Swiss-U.S. Privacy Shield Framework&nbsp;as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal information transferred from the European Union&nbsp;and Switzerland&nbsp;to the United States.&nbsp; Freedcamp Inc&nbsp;has certified to the Department of Commerce that it adheres to the Privacy Shield Principles.&nbsp; If there is any conflict between the terms in this privacy policy and the Privacy Shield Principles, the Privacy Shield Principles shall govern. &nbsp;To learn more about the Privacy Shield program, and to view our certification, please visit&nbsp;</span></span></span><a href="https://www.privacyshield.gov/participant?id=a2zt00000008RAVAA2&amp;status=Active">Freedcamp's Privacy Shield Status</a>.</span></span></span></p>
+
+<p style="margin-left:0in;margin-right:0in;"><span><span><span><span><span><span style="color:#000000;">In compliance with the Privacy Shield Principles, Freedcamp Inc commits to resolve complaints about our collection or use of your personal information.&nbsp; EU&nbsp;and Swiss&nbsp;individuals with inquiries or complaints regarding our Privacy Shield policy should first contact&nbsp;Freedcamp Inc at:&nbsp;</span></span></span></span></span></span></p>
+
+<p style="margin-left:0in;margin-right:0in;"><span><span><span><a href="mailto:support@freedcamp.com"><em><span><span><span style="color:#0000ff;">legal+dataprotection@freedcamp.com</span></span></span></em></a><span><span><span style="color:#000000;"> or by mail at</span></span></span></span></span></span></p>
+
+<p style="margin-left:0in;margin-right:0in;"><span><span><span><span><span>Freedcamp, Inc.<br><span style="color:#000000;">3066 Foothill Rd<br>
+Santa Barbara, CA 93105, USA<br>
++1 (805) 245-8713</span></span></span></span></span></span></p>
+
+<h2 style="margin-left:0in;margin-right:0in;">Dispute Resolution</h2>
+
+<p style="margin-left:0in;margin-right:0in;text-align:justify;"><span><span><span><span style="color:#000000;">Freedcamp Inc&nbsp;has further committed to refer unresolved Privacy Shield complaints to JAMs, an alternative dispute resolution provider located in the United States. If you do not receive timely acknowledgment of your complaint from us, or if we have not addressed your complaint to your satisfaction, please contact or visit JAMS Complaint handling link (</span></span></span></span><span><span><span><a href="https://www.jamsadr.com/file-an-eu-us-privacy-shield-claim)%20"><em><span><span><span><span style="color:#0000ff;"></span></span></span></span></em></a><em><a href="https://www.jamsadr.com/file-an-eu-us-privacy-shield-claim" target="_blank">https://www.jamsadr.com/file-an-eu-us-privacy-shield-claim</a></em></span></span></span><span><span><span><span style="color:#000000;">) for more information or to file a complaint.&nbsp; The services of JAMs are provided at no cost to you.</span></span></span></span></p>
+
+<h2 style="margin-left:0in;margin-right:0in;text-align:justify;">U.S. Federal Trade Commission</h2>
+
+<p style="margin-left:0in;margin-right:0in;"><span><span><span><span><span><span style="color:#000000;">Freedcamp’s Privacy Shield compliance is subject to the investigatory and enforcement powers of the U.S. Federal Trade Commission.</span></span></span></span></span></span></p>
+
+<h2 style="margin-left:0in;margin-right:0in;">Arbitration</h2>
+
+<p style="margin-left:0in;margin-right:0in;"><span><span><span><span><span><span style="color:#000000;">Users may invoke binding arbitration for any unresolved complaints/disputes, however, prior to initiating such arbitrations, residents of a European country participating in Privacy Shield must first:</span></span></span></span></span></span></p>
+
+<ol><li><span><span><span><span><span><span style="color:#000000;">Contact Freedcamp and give us a chance to resolve any issues;</span></span></span></span></span></span></li>
+	<li><span><span><span><span><span><span style="color:#000000;">Seek assistance with JAMS, our independent recourse mechanism;</span></span></span></span></span></span></li>
+	<li><span><span><span><span><span><span style="color:#000000;">Contac the U.S. Department and provide them adequate time to resolve the issue.</span></span></span></span></span></span></li>
+</ol><p style="margin-left:0in;margin-right:0in;"><span><span><span><span><span><span style="color:#000000;">If User invokes binding arbitration, each party will be responsible for its own legal fees. Please be advised that, pursuant to the Privacy Shield, the arbitrator(s) may only impose individual-specific, non-monetary, equitable relief necessary to remedy any violation of the Privacy Shield Principles with respect to the resident. </span></span></span></span></span></span></p>
+
+<h1>Data Protection Officer</h1>
+
+<p style="margin-left:0in;margin-right:0in;text-align:justify;"><span><span><span><span><span><span style="color:#000000;">Please contact Freedcamp's Data Protection Officer</span></span></span><span><span><span style="color:#000000;">&nbsp;for any questions related to our Privacy Policy. </span></span></span></span></span></span></p>
+
+<p style="margin-left:0in;margin-right:0in;"><span><span><span><a href="mailto:support@freedcamp.com" style="color:#0563c1;text-decoration:underline;"><span><span><span><span style="color:#000000;">legal+dataprotection@freedcamp.com</span></span></span></span></a><span><span><span><span style="color:#000000;"> or by mail at</span></span></span></span></span></span></span></p>
+
+<p style="margin-left:0in;margin-right:0in;">Freedcamp, Inc.<br><span><span><span><span><span><span><span style="color:#000000;">3066 Foothill Rd<br>
+Santa Barbara, CA 93105, USA<br>
++1 (805) 245-8713</span></span></span></span></span></span></span></p>
+
+<h1>User Rights</h1>
+
+<p style="margin-left:0in;margin-right:0in;text-align:justify;"><span><span><span><span><span><span style="color:#000000;">Users have certain statutory rights in relation to their personal data. Users may have the right to request or delete any personal information stored on Freedcamp. Please contact Freedcamp's Data Protection Officer&nbsp;for assistance. </span></span></span></span></span></span></p>
+
+<p style="margin-left:0in;margin-right:0in;"><span><span><span><a href="mailto:support@freedcamp.com"><em><span><span><span style="color:#0000ff;">legal+dataprotection@freedcamp.com</span></span></span></em></a><span><span><span style="color:#000000;"> or by mail at</span></span></span></span></span></span></p>
+
+<p style="margin-left:0in;margin-right:0in;"><span><span><span><span><span>Freedcamp, Inc.<br><span style="color:#000000;">3066 Foothill Rd<br>
+Santa Barbara, CA 93105, USA<br>
++1 (805) 245-8713</span></span></span></span></span></span></p>
+
+<p style="margin-left:0in;margin-right:0in;text-align:justify;"><span><span><span><span><span>Freedcamp will provide Users an option to export their data. Freedcamp does include this option on 3 of our paid plans(monthly, weekly, daily).&nbsp;Users on plans which do not provide data exportation tool can export to XLS whenever possible or start a trial on plans which include backup, wait for backup to be completed, download it and delete their account afterward. Please email legal@freedcamp.com for assistance.</span></span></span></span></span></p>
+
+<h1>References</h1>
+
+<p style="margin-left:0in;margin-right:0in;text-align:justify;"><a href="https://freedcamp.com/Freedcamp_LxR/Freedcamp_Devel_yOf/wiki/wiki_public/view/O8bab">Freedcamp's Terms of Service</a></p>
+
+<p style="text-align:justify;"><em>This document was last updated on May 29, 2018</em></p>
+            </div>
         </div>
     </div>
 </div>
-<script>
-    SyntaxHighlighter.autoloader(
-        'applescript https://cdn.freedcamp.com/thirdparty/syntaxhighlighter308/scripts/shBrushAppleScript.js',
-        'actionscript3 as3 https://cdn.freedcamp.com/thirdparty/syntaxhighlighter308/scripts/shBrushAS3.js',
-        'bash shell sh https://cdn.freedcamp.com/thirdparty/syntaxhighlighter308/scripts/shBrushBash.js',
-        'coldfusion cf https://cdn.freedcamp.com/thirdparty/syntaxhighlighter308/scripts/shBrushColdFusion.js',
-        'cpp c https://cdn.freedcamp.com/thirdparty/syntaxhighlighter308/scripts/shBrushCpp.js',
-        'c# c-sharp csharp https://cdn.freedcamp.com/thirdparty/syntaxhighlighter308/scripts/shBrushCSharp.js',
-        'css https://cdn.freedcamp.com/thirdparty/syntaxhighlighter308/scripts/shBrushCss.js',
-        'delphi pascal pas https://cdn.freedcamp.com/thirdparty/syntaxhighlighter308/scripts/shBrushDelphi.js',
-        'diff patch https://cdn.freedcamp.com/thirdparty/syntaxhighlighter308/scripts/shBrushDiff.js',
-        'erl erlang https://cdn.freedcamp.com/thirdparty/syntaxhighlighter308/scripts/shBrushErlang.js',
-        'groovy https://cdn.freedcamp.com/thirdparty/syntaxhighlighter308/scripts/shBrushGroovy.js',
-        'haxe hx https://cdn.freedcamp.com/thirdparty/syntaxhighlighter308/scripts/shBrushHaxe.js',
-        'java https://cdn.freedcamp.com/thirdparty/syntaxhighlighter308/scripts/shBrushJava.js',
-        'jfx javafx https://cdn.freedcamp.com/thirdparty/syntaxhighlighter308/scripts/shBrushJavaFX.js',
-        'js jscript javascript https://cdn.freedcamp.com/thirdparty/syntaxhighlighter308/scripts/shBrushJScript.js',
-        'perl Perl pl https://cdn.freedcamp.com/thirdparty/syntaxhighlighter308/scripts/shBrushPerl.js',
-        'php https://cdn.freedcamp.com/thirdparty/syntaxhighlighter308/scripts/shBrushPhp.js',
-        'text plain https://cdn.freedcamp.com/thirdparty/syntaxhighlighter308/scripts/shBrushPlain.js',
-        'powershell ps posh https://cdn.freedcamp.com/thirdparty/syntaxhighlighter308/scripts/shBrushPowerShell.js',
-        'py python https://cdn.freedcamp.com/thirdparty/syntaxhighlighter308/scripts/shBrushPython.js',
-        'ruby rails ror rb https://cdn.freedcamp.com/thirdparty/syntaxhighlighter308/scripts/shBrushRuby.js',
-        'sass scss https://cdn.freedcamp.com/thirdparty/syntaxhighlighter308/scripts/shBrushSass.js',
-        'scala https://cdn.freedcamp.com/thirdparty/syntaxhighlighter308/scripts/shBrushScala.js',
-        'sql https://cdn.freedcamp.com/thirdparty/syntaxhighlighter308/scripts/shBrushSql.js',
-        'ts typescript https://cdn.freedcamp.com/thirdparty/syntaxhighlighter308/scripts/shBrushTypeScript.js',
-        'vb vbnet https://cdn.freedcamp.com/thirdparty/syntaxhighlighter308/scripts/shBrushVb.js',
-        'xml xhtml xslt html https://cdn.freedcamp.com/thirdparty/syntaxhighlighter308/scripts/shBrushXml.js'
-    );
-    SyntaxHighlighter.all();
-</script>
+
+    <script>
+        SyntaxHighlighter.autoloader(
+            'applescript https://cdn.freedcamp.com/thirdparty/syntaxhighlighter308/scripts/shBrushAppleScript.js',
+            'actionscript3 as3 https://cdn.freedcamp.com/thirdparty/syntaxhighlighter308/scripts/shBrushAS3.js',
+            'bash shell sh https://cdn.freedcamp.com/thirdparty/syntaxhighlighter308/scripts/shBrushBash.js',
+            'coldfusion cf https://cdn.freedcamp.com/thirdparty/syntaxhighlighter308/scripts/shBrushColdFusion.js',
+            'cpp c https://cdn.freedcamp.com/thirdparty/syntaxhighlighter308/scripts/shBrushCpp.js',
+            'c# c-sharp csharp https://cdn.freedcamp.com/thirdparty/syntaxhighlighter308/scripts/shBrushCSharp.js',
+            'css https://cdn.freedcamp.com/thirdparty/syntaxhighlighter308/scripts/shBrushCss.js',
+            'delphi pascal pas https://cdn.freedcamp.com/thirdparty/syntaxhighlighter308/scripts/shBrushDelphi.js',
+            'diff patch https://cdn.freedcamp.com/thirdparty/syntaxhighlighter308/scripts/shBrushDiff.js',
+            'erl erlang https://cdn.freedcamp.com/thirdparty/syntaxhighlighter308/scripts/shBrushErlang.js',
+            'groovy https://cdn.freedcamp.com/thirdparty/syntaxhighlighter308/scripts/shBrushGroovy.js',
+            'haxe hx https://cdn.freedcamp.com/thirdparty/syntaxhighlighter308/scripts/shBrushHaxe.js',
+            'java https://cdn.freedcamp.com/thirdparty/syntaxhighlighter308/scripts/shBrushJava.js',
+            'jfx javafx https://cdn.freedcamp.com/thirdparty/syntaxhighlighter308/scripts/shBrushJavaFX.js',
+            'js jscript javascript https://cdn.freedcamp.com/thirdparty/syntaxhighlighter308/scripts/shBrushJScript.js',
+            'perl Perl pl https://cdn.freedcamp.com/thirdparty/syntaxhighlighter308/scripts/shBrushPerl.js',
+            'php https://cdn.freedcamp.com/thirdparty/syntaxhighlighter308/scripts/shBrushPhp.js',
+            'text plain https://cdn.freedcamp.com/thirdparty/syntaxhighlighter308/scripts/shBrushPlain.js',
+            'powershell ps posh https://cdn.freedcamp.com/thirdparty/syntaxhighlighter308/scripts/shBrushPowerShell.js',
+            'py python https://cdn.freedcamp.com/thirdparty/syntaxhighlighter308/scripts/shBrushPython.js',
+            'ruby rails ror rb https://cdn.freedcamp.com/thirdparty/syntaxhighlighter308/scripts/shBrushRuby.js',
+            'sass scss https://cdn.freedcamp.com/thirdparty/syntaxhighlighter308/scripts/shBrushSass.js',
+            'scala https://cdn.freedcamp.com/thirdparty/syntaxhighlighter308/scripts/shBrushScala.js',
+            'sql https://cdn.freedcamp.com/thirdparty/syntaxhighlighter308/scripts/shBrushSql.js',
+            'ts typescript https://cdn.freedcamp.com/thirdparty/syntaxhighlighter308/scripts/shBrushTypeScript.js',
+            'vb vbnet https://cdn.freedcamp.com/thirdparty/syntaxhighlighter308/scripts/shBrushVb.js',
+            'xml xhtml xslt html https://cdn.freedcamp.com/thirdparty/syntaxhighlighter308/scripts/shBrushXml.js'
+        );
+        SyntaxHighlighter.all();
+    </script>
+
+
 
 </body></html>
