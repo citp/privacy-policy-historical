@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the onefivenine.com privacy policy that was archived on 2017-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170602102938id_/http%3A//www.onefivenine.com/suggestion.dont%3Fmethod%3Dpp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the onefivenine.com privacy policy that was archived on 2019-03-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190321000149id_/http%3A//www.onefivenine.com/suggestion.dont%3Fmethod%3Dpp) for the most accurate reproduction.*
 
 # ANDHRA PRADESH
 
@@ -24,4 +24,4 @@ Google, as a third party vendor, uses cookies to serve ads on www.onefivenine.co
 
 Google's use of the DART cookie enables it to serve ads to users based on their visit to www.onefivenine.com and other sites on the Internet. 
 
-Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at the following URL - http://www.google.com/privacy_ads.html 
+Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at the following URL - https://www.google.com/privacy_ads.html 
