@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the localwise.com privacy policy that was archived on 2018-09-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180928041829id_/https%3A//www.localwise.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the localwise.com privacy policy that was archived on 2019-03-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190320074400id_/https%3A//www.localwise.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Localwise
 
@@ -139,4 +139,4 @@ If you have any questions about the Privacy Policy or the Platform, please conta
 
 #####  Effective Date: October 9, 2017   
 Last Update: October 9, 2017   
-Copyright © 2018 Localwise Inc.; All rights reserved. 
+Copyright © 2019 Localwise Inc.; All rights reserved. 
