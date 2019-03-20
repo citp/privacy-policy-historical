@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thelisaann.com privacy policy that was archived on 2018-09-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180925173159id_/http%3A//thelisaann.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thelisaann.com privacy policy that was archived on 2019-03-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190320233353id_/http%3A//thelisaann.com/privacy.html) for the most accurate reproduction.*
 
 # Lisa Ann Privacy Policy
 
