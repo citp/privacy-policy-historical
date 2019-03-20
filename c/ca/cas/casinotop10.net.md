@@ -1,25 +1,27 @@
-> *The following text is extracted and transformed from the casinotop10.net privacy policy that was archived on 2017-07-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170728142739id_/https%3A//www.casinotop10.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the casinotop10.net privacy policy that was archived on 2019-03-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190320100251id_/https%3A//www.casinotop10.net/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - The fine print of CasinoTop10.net
+# Privacy Policy | Read all about CasinoTop10.net's Privacy Policy
 
-436
+CasinoTop10 respects your privacy. Any information collected by this website will be kept strictly confidential and will not be sold, reused, rented, loaned, or otherwise disclosed. You can rest assured that any information that you give to CasinoTop10 will be kept with the uttermost care and will not be used in way to which you have not consented.
 
-CasinoTop10 respects your privacy. Any information collected at this website will be kept strictly confidential and will not be sold, reused, rented, loaned, or otherwise disclosed. Any information you give to CasinoTop10 will be kept with the uttermost care and will not be used in way to which you have not consented.
+**Resale or disclosure of information to third parties:**
 
-  * Resale or disclosure of information to third parties:  
 CasinoTop10 does not sell, rent, trade, loan, or lease any personal information collected at our site, including membership forms or e-mail lists.
-  * Browser information collected on the website:  
+
+**Browser information collected on the website:**
+
 CasinoTop10 analyses the website logs to improve the value of the material available on the website. Our website logs are not personally identifiable, and we make no attempt to link them with the individuals that actually browse the site.
-  * Advertisements:  
+
+**Advertisements:**
+
 We currently have ads served by an in-house program, which follow those privacy guidelines.
-  * Use of cookies:  
-CasinoTop10 does use cookies on its website, mostly in order to track traffic coming from other websites and leaving to other websites. With the cookies, we make no attempt to link them with individuals to make any information personally identifiable.
-  * Updates and changes:  
-CasinoTop10 reserves the right to replace this Privacy Policy at any time. We suggest that you regularly check: http://www.CasinoTop10.net/privacy-policy.shtml. We currently contract with several online partners to help manage and optimize our Internet business and communications. We use the services of a marketing company to help us measure the effectiveness of our advertising and how visitors use our site. To do this, we use Web beacons and cookies provided by our marketing company on this site. The type of information we collect includes information entered by visitors in forms, the pages visited, etc. By supplementing our records, this information helps us learn things like what pages are most attractive to our visitors, which of our products are most interesting for our customers, and what kinds of offers our customers like to see. Although our marketing company logs the information coming from our site on our behalf, we control how that data may and may not be used. If you do not want to help us learn how to improve our site, products, offers and marketing strategy, you can "opt-out" of our ability to analyze such data by clicking [here.](http://www.adobe.com/privacy.html)
 
+**Use of cookies:**
 
+CasinoTop10 does use cookies on its website, mostly in order to track traffic coming from search engines and other websites and leaving to other websites. With the cookies, we make no attempt to link them with individuals to make any information personally identifiable.
 
-Please feel free to e-mail any questions or comments to [info@casinotop10.net](mailto:info@casinotop10.net).
+**Updates and changes:**
 
-  
+CasinoTop10 reserves the right to replace this Privacy Policy at any time. We suggest that you regularly check: https://www.CasinoTop10.net/privacy-policy We currently contract with several online partners to help manage and optimize our Internet business and communications. We use the services of a marketing company to help us measure the effectiveness of our advertising and how visitors use our site. To do this, we use Web beacons and cookies provided by our marketing company on this site. The type of information we collect includes information entered by visitors in forms, the pages visited, etc. By supplementing our records, this information helps us learn things like what pages are most attractive to our visitors, which of our products are most interesting for our customers, and what kinds of offers our customers like to see. Although our marketing company logs the information coming from our site on our behalf, we control how that data may and may not be used. If you do not want to help us learn how to improve our site, products, offers and marketing strategy, you can "opt-out" of our ability to analyze such data by clicking here.
 
+Please feel free to e-mail any questions or comments to info@casinotop10.net.
