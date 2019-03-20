@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the vistek.ca privacy policy that was archived on 2018-09-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180907122046id_/https%3A//www.vistek.ca/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vistek.ca privacy policy that was archived on 2019-03-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190320223102id_/https%3A//www.vistek.ca/about/privacy) for the most accurate reproduction.*
 
 # Vistek Privacy policy
 
@@ -42,17 +42,17 @@ Personal Data: various types of Data as specified in the privacy policy of the s
 
       * ### Google Analytics
 
-Personal Data: Cookies and Usage Data
+Personal Data: Cookies; Usage Data
 
     * ### Contacting the User
 
       * ### Contact form
 
-Personal Data: company name, email address, first name, last name, phone number, profession and province
+Personal Data: company name; email address; first name; last name; phone number; profession; province
 
       * ### Mailing list or newsletter
 
-Personal Data: email address, first name and last name
+Personal Data: email address; first name; last name
 
       * ### Phone contact
 
@@ -62,11 +62,11 @@ Personal Data: phone number
 
       * ### Google Fonts
 
-Personal Data: Usage Data and various types of Data as specified in the privacy policy of the service
+Personal Data: Usage Data; various types of Data as specified in the privacy policy of the service
 
       * ### Instagram widget and YouTube video widget
 
-Personal Data: Cookies and Usage Data
+Personal Data: Cookies; Usage Data
 
     * ### Handling payments
 
@@ -84,19 +84,19 @@ Personal Data: various types of Data as specified in the privacy policy of the s
 
       * ### Twitter Tweet button and social widgets, Facebook Like button and social widgets and PayPal button and widgets
 
-Personal Data: Cookies and Usage Data
+Personal Data: Cookies; Usage Data
 
     * ### Interaction with online survey platforms
 
       * ### SurveyMonkey Widget
 
-Personal Data: Cookies and Usage Data
+Personal Data: Cookies; Usage Data
 
     * ### Managing contacts and sending messages
 
       * ### HubSpot Email
 
-Personal Data: email address and Usage Data
+Personal Data: email address; Usage Data
 
       * ### Mandrill
 
@@ -112,29 +112,29 @@ Personal Data: various types of Data as specified in the privacy policy of the s
 
       * ### Facebook Remarketing and AdWords Remarketing
 
-Personal Data: Cookies and Usage Data
+Personal Data: Cookies; Usage Data
 
       * ### Facebook Custom Audience
 
-Personal Data: Cookies and email address
+Personal Data: Cookies; email address
 
     * ### SPAM protection
 
       * ### Google reCAPTCHA
 
-Personal Data: Cookies and Usage Data
+Personal Data: Cookies; Usage Data
 
     * ### Tag Management
 
       * ### Google Tag Manager
 
-Personal Data: Cookies and Usage Data
+Personal Data: Cookies; Usage Data
 
     * ### User database management
 
       * ### HubSpot CRM
 
-Personal Data: email address, phone number and various types of Data as specified in the privacy policy of the service
+Personal Data: email address; phone number; various types of Data as specified in the privacy policy of the service
 
       * ### HubSpot Lead Management
 
@@ -147,8 +147,7 @@ Personal Data: various types of Data as specified in the privacy policy of the s
 
   *     * ### Selling goods and services online
 
-The Personal Data collected are used to provide the User with services or to sell goods, including payment and possible delivery.
-
+The Personal Data collected are used to provide the User with services or to sell goods, including payment and possible delivery.  
 The Personal Data collected to complete the payment may include the credit card, the bank account used for the transfer, or any other means of payment envisaged. The kind of Data collected by www.vistek.ca depends on the payment system used.
 
 
@@ -176,7 +175,7 @@ Toronto, Ontario, M5A 4G8
 
 ## Types of Data collected
 
-Among the types of Personal Data that www.vistek.ca collects, by itself or through third parties, there are: first name, last name, phone number, company name, profession, province, email address, Cookies, Usage Data and various types of Data. 
+Among the types of Personal Data that www.vistek.ca collects, by itself or through third parties, there are: first name; last name; phone number; company name; profession; province; email address; Cookies; Usage Data; various types of Data. 
 
 Complete details on each type of Personal Data collected are provided in the dedicated sections of this privacy policy or by specific explanation texts displayed prior to the Data collection.  
 Personal Data may be freely provided by the User, or, in case of Usage Data, collected automatically when using www.vistek.ca.  
@@ -288,7 +287,7 @@ The services contained in this section enable the Owner to monitor and analyze w
 Google Analytics is a web analysis service provided by Google Inc. (“Google”). Google utilizes the Data collected to track and examine the use of www.vistek.ca, to prepare reports on its activities and share them with other Google services.  
 Google may use the Data collected to contextualize and personalize the ads of its own advertising network.
 
-Personal Data collected: Cookies and Usage Data. 
+Personal Data collected: Cookies; Usage Data. 
 
 Place of processing: United States – [Privacy Policy](https://www.google.com/intl/en/policies/privacy/) – [Opt Out](https://tools.google.com/dlpage/gaoptout?hl=en). Privacy Shield participant. 
 
@@ -298,13 +297,13 @@ Place of processing: United States – [Privacy Policy](https://www.google.com/i
 
 By filling in the contact form with their Data, the User authorizes www.vistek.ca to use these details to reply to requests for information, quotes or any other kind of request as indicated by the form’s header.
 
-Personal Data collected: company name, email address, first name, last name, phone number, profession and province. 
+Personal Data collected: company name; email address; first name; last name; phone number; profession; province. 
 
 #### Mailing list or newsletter (www.vistek.ca)
 
 By registering on the mailing list or for the newsletter, the User’s email address will be added to the contact list of those who may receive email messages containing information of commercial or promotional nature concerning www.vistek.ca. Your email address might also be added to this list as a result of signing up to www.vistek.ca or after making a purchase.
 
-Personal Data collected: email address, first name and last name. 
+Personal Data collected: email address; first name; last name. 
 
 #### Phone contact (www.vistek.ca)
 
@@ -321,7 +320,7 @@ This type of service might still collect web traffic data for the pages where th
 
 Google Fonts is a typeface visualization service provided by Google Inc. that allows www.vistek.ca to incorporate content of this kind on its pages.
 
-Personal Data collected: Usage Data and various types of Data as specified in the privacy policy of the service. 
+Personal Data collected: Usage Data; various types of Data as specified in the privacy policy of the service. 
 
 Place of processing: United States – [Privacy Policy](https://www.google.com/intl/policies/privacy/). Privacy Shield participant. 
 
@@ -329,7 +328,7 @@ Place of processing: United States – [Privacy Policy](https://www.google.com/i
 
 Instagram is an image visualization service provided by Instagram, Inc. that allows www.vistek.ca to incorporate content of this kind on its pages.
 
-Personal Data collected: Cookies and Usage Data. 
+Personal Data collected: Cookies; Usage Data. 
 
 Place of processing: United States – [Privacy Policy](https://www.instagram.com/about/legal/privacy/). 
 
@@ -337,7 +336,7 @@ Place of processing: United States – [Privacy Policy](https://www.instagram.co
 
 YouTube is a video content visualization service provided by Google Inc. that allows www.vistek.ca to incorporate content of this kind on its pages.
 
-Personal Data collected: Cookies and Usage Data. 
+Personal Data collected: Cookies; Usage Data. 
 
 Place of processing: United States – [Privacy Policy](https://www.google.com/intl/en/policies/privacy/). Privacy Shield participant. 
 
@@ -384,7 +383,7 @@ This type of service might still collect traffic data for the pages where the se
 
 The Twitter Tweet button and social widgets are services allowing interaction with the Twitter social network provided by Twitter, Inc.
 
-Personal Data collected: Cookies and Usage Data. 
+Personal Data collected: Cookies; Usage Data. 
 
 Place of processing: United States – [Privacy Policy](https://twitter.com/privacy). Privacy Shield participant. 
 
@@ -392,7 +391,7 @@ Place of processing: United States – [Privacy Policy](https://twitter.com/priv
 
 The Facebook Like button and social widgets are services allowing interaction with the Facebook social network provided by Facebook, Inc.
 
-Personal Data collected: Cookies and Usage Data. 
+Personal Data collected: Cookies; Usage Data. 
 
 Place of processing: United States – [Privacy Policy](https://www.facebook.com/privacy/explanation). Privacy Shield participant. 
 
@@ -400,7 +399,7 @@ Place of processing: United States – [Privacy Policy](https://www.facebook.com
 
 The PayPal button and widgets are services allowing interaction with the PayPal platform provided by PayPal Inc.
 
-Personal Data collected: Cookies and Usage Data. 
+Personal Data collected: Cookies; Usage Data. 
 
 Place of processing: See the PayPal privacy policy – [Privacy Policy](https://www.paypal.com/cgi-bin/webscr?cmd=p/gen/ua/policy_privacy-outside). 
 
@@ -413,7 +412,7 @@ If one of these services is installed, it may collect browsing and Usage Data in
 
 The SurveyMonkey Widget is a service for interacting with the SurveyMonkey online survey platform provided by SurveyMonkey Inc.
 
-Personal Data collected: Cookies and Usage Data. 
+Personal Data collected: Cookies; Usage Data. 
 
 Place of processing: United States – [Privacy Policy](https://www.surveymonkey.com/mp/policy/privacy-policy/). 
 
@@ -426,7 +425,7 @@ These services may also collect data concerning the date and time when the messa
 
 HubSpot Email is an email address management and message sending service provided by HubSpot, Inc.
 
-Personal Data collected: email address and Usage Data. 
+Personal Data collected: email address; Usage Data. 
 
 Place of processing: United States – [Privacy Policy](https://www.hubspot.com/legal/privacy-policy). 
 
@@ -477,7 +476,7 @@ In addition to any opt-out offered by any of the services below, the User may op
 
 Facebook Remarketing is a remarketing and behavioral targeting service provided by Facebook, Inc. that connects the activity of www.vistek.ca with the Facebook advertising network.
 
-Personal Data collected: Cookies and Usage Data. 
+Personal Data collected: Cookies; Usage Data. 
 
 Place of processing: United States – [Privacy Policy](https://www.facebook.com/about/privacy/) – [Opt Out](https://www.aboutads.info/choices/). Privacy Shield participant. 
 
@@ -485,7 +484,7 @@ Place of processing: United States – [Privacy Policy](https://www.facebook.com
 
 AdWords Remarketing is a remarketing and behavioral targeting service provided by Google Inc. that connects the activity of www.vistek.ca with the Adwords advertising network and the Doubleclick Cookie.
 
-Personal Data collected: Cookies and Usage Data. 
+Personal Data collected: Cookies; Usage Data. 
 
 Place of processing: United States – [Privacy Policy](http://www.google.com/intl/en/policies/privacy/) – [Opt Out](https://www.google.com/settings/ads/onweb/optout). 
 
@@ -493,7 +492,7 @@ Place of processing: United States – [Privacy Policy](http://www.google.com/in
 
 Facebook Custom Audience is a remarketing and behavioral targeting service provided by Facebook, Inc. that connects the activity of www.vistek.ca with the Facebook advertising network.
 
-Personal Data collected: Cookies and email address. 
+Personal Data collected: Cookies; email address. 
 
 Place of processing: United States – [Privacy Policy](https://www.facebook.com/about/privacy/) – [Opt Out](https://www.aboutads.info/choices/). Privacy Shield participant. 
 
@@ -506,7 +505,7 @@ This type of service analyzes the traffic of www.vistek.ca, potentially containi
 Google reCAPTCHA is a SPAM protection service provided by Google Inc.  
 The use of reCAPTCHA is subject to the Google [privacy policy](https://www.google.com/policies/privacy/) and [terms of use](https://www.google.com/intl/en/policies/terms/).
 
-Personal Data collected: Cookies and Usage Data. 
+Personal Data collected: Cookies; Usage Data. 
 
 Place of processing: United States – [Privacy Policy](https://www.google.com/intl/policies/privacy/). Privacy Shield participant. 
 
@@ -519,7 +518,7 @@ This results in the Users' Data flowing through these services, potentially resu
 
 Google Tag Manager is a tag management service provided by Google LLC.
 
-Personal Data collected: Cookies and Usage Data. 
+Personal Data collected: Cookies; Usage Data. 
 
 Place of processing: United States – [Privacy Policy](https://www.google.com/intl/en/policies/privacy/). Privacy Shield participant. 
 
@@ -532,7 +531,7 @@ Some of these services may also enable the sending of timed messages to the User
 
 HubSpot CRM is a User database management service provided by HubSpot, Inc.
 
-Personal Data collected: email address, phone number and various types of Data as specified in the privacy policy of the service. 
+Personal Data collected: email address; phone number; various types of Data as specified in the privacy policy of the service. 
 
 Place of processing: United States – [Privacy Policy](https://www.hubspot.com/legal/privacy-policy). Privacy Shield participant. 
 
