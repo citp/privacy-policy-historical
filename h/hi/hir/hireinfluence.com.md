@@ -1,186 +1,189 @@
-> *The following text is extracted and transformed from the hireinfluence.com privacy policy that was archived on 2017-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170615043634id_/https%3A//hireinfluence.com/blog/client-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hireinfluence.com privacy policy that was archived on 2019-03-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190320080313id_/https%3A//hireinfluence.com/privacy-policy) for the most accurate reproduction.*
 
-# Client and Promoters Privacy Policy
+# Privacy Policy - HireInfluence
 
-It is essential that our _Clients_ and our _Advocates_ understand how our Services work. Together, our Client Privacy Policy and our Terms of Use Agreement do just that. Whether you are one of our larger corporate Clients or an individual Client using Hire **Influence** for the first time, these are important documents because they affect your rights and responsibilities. So here it is, in plain English. 
+## Privacy Policy
 
-_Two important things to note at the outset:_
+Effective Date of Current Policy: June 10, 2018
 
-  * This Privacy Policy applies only to Hire **Influence** _Clients_ — brands, businesses or individuals who use Hire **Influence** to promote a product, service, candidate, cause, or event. There is a separate Privacy Policy for Hire **Influence** _Advocates_ — the savvy, trending social media users or bloggers with significant Social Media Contacts through the Advocates’ Social Media Networks. 
-  * As with our Terms of Use, into which this Privacy Policy is incorporated, you _must_ completely agree to the Privacy Policy in order to use our webSite and Services. If you do not agree to any portion of this Privacy Policy or our Terms of Use, please stop using our _Site_ and _Services_ immediately. By registering with Hire **Influence** or using our Services, you are consenting to our practices, as described in this Privacy Policy, regarding the collection, use, and disclosure of _Campaign Specifics_ , business information, marketing information, and _Personal Information_. you are also agreeing to comply with the requirements contained herein. 
+ **1\. PURPOSE**  
+This Privacy Policy is incorporated by reference into the HireInfluence Terms of Service (the “Terms”). The terms “HireInfluence,” “we,” and “us” include HireInfluence, Inc and our affiliates and subsidiaries. This Privacy Policy explains our online and offline information practices, the kinds of information we may collect, how we intend to use and share that information, and how you can opt-out of a use or correct or change such information. All other terms not defined in Section 14 or otherwise herein will have the meanings set forth in the Terms.
 
+ **2\. SCOPE**  
+This Privacy Policy applies to Personal Information that is Processed by HireInfluence in the course of our business, including on HireInfluence websites (each a “Site”), mobile applications, forums, blogs, and other online or offline offerings (together with any and all future online and offline offerings operated by or on behalf of HireInfluence, the “Services”). All individuals whose responsibilities include the Processing of Personal Information on behalf of HireInfluence are expected to protect that data by adherence to this Privacy Policy. This Privacy Policy is intended to meet requirements globally, including those in North America, Europe, APAC, and other jurisdictions.
 
+ **3\. TRANSPARENCY/NOTICE-TYPES OF PERSONAL INFORMATION WE COLLECT AND HOW WE USE IT**  
+The types of Personal Information we may collect (directly from you or from Third-Party sources) and our privacy practices depend on the nature of the relationship you have with HireInfluence and the requirements of applicable law. Some of the ways that HireInfluence may collect Personal Information include:
 
-**Clients — Welcome to Hire **Influence**!**
+  * You may provide Personal Information directly to HireInfluence through interacting with the Services, participating in surveys, during events sponsored or held by HireInfluence, and requesting Services or information from HireInfluence.
+  * As you navigate the Services, certain passive information may also be collected about your visit, including through cookies and similar technologies as described below.
 
-## Introduction to Our Privacy Policy
 
-While we use plain English, it’s important that we all understand the same meaning of certain terms used in our Privacy Policy and Terms of Use, so you can find definitions for the following terms here: _Advocate; Client; App or Mobile App; Campaign; Campaign Specifics; Content; Cookies; Financial Information; Hire **Influence** Platform; Opportunity or Opportunities; Personal Information; Profile; Services; ; Site; and _
 
-In this Privacy Policy, we tell you about: 
+We endeavor to collect only that information which is relevant for the purposes of Processing. Below are the ways we collect Personal Information and how we use it.
 
-  * Hire **Influence** – How We Work with Clients 
-  * What Information We Collect and What We Do with It
-  * A Client’s Rights 
-  * A Client’s Responsibilities
-  * Children’s privacy
-  * Our Security, Technology and Policy Amendments
-  * How to Contact Us
+ **3.1 TYPES OF PERSONAL INFORMATION WE COLLECT**  
+HireInfluence collects Personal Information regarding its current, prospective, and former clients, customers, users, visitors, and guests (collectively “Individuals”).
 
+  *  **Information You Provide Directly to Us.** When you use the Services or engage in certain activities, such as registering for an Account with HireInfluence, responding to surveys, requesting Services or information, or contacting us directly, we may ask you to provide some or all of the following types of information:
+    *  **Account Creation.** We may collect Personal Information from you such as name, email address, phone number or mailing address when you create an Account. We may also collect financial data (i.e., credit card/billing information) along with demographic information, such as age gender, and zip code.
+    *  **Communications with Us.** We may collect Personal Information from you such as email address, phone number or mailing address when you choose to request information about our Services, register for HireInfluence’s newsletter that we may offer from time to time, request to receive customer or technical support, or otherwise communicate with us.
+    *  **Surveys.** From time to time, we may contact you to participate in online surveys. If you do decide to participate, you may be asked to provide certain information which may include Personal Information. All information collected from your participation in our surveys is provided by you voluntarily. We may use such information to improve our products and/or Services and in any manner consistent with the policies provided herein.
+    *  **Posting on the Services.** HireInfluence may offer publicly accessible blogs, private messages, or community forums (“Community Features”). You should be aware that, when you disclose information about yourself through Community Features, the Services will collect the information you provide in such submissions, including any Personal Information. If you choose to submit content to any public area of the Services, such content will be considered “public” and will not be subject to the privacy protections set forth herein.
+    *  **Automatic Data Collection.** We may collect certain information automatically through our Services or other methods of web analysis, such as your Internet protocol (IP) address, cookie identifiers, mobile carrier, mobile advertising identifiers, IMEI, Advertiser ID, and other device identifiers that are automatically assigned to your computer or device when you access the Internet, browser type and language, geo-location information, hardware type, operating system, Internet service provider, pages that you visit before and after using the Services, the date and time of your visit, the amount of time you spend on each page, information about the links you click, search terms and pages you view within the Services, and other actions taken through use of the Services such as preferences.
+  *  **Feedback Submitted Via Services.** You agree that HireInfluence is free to use the content of any feedback or other communications submitted to HireInfluence by you via the Services, including any ideas, inventions, concepts, techniques, or know-how disclosed therein, for any purpose including developing, manufacturing, and/or marketing goods or Services. HireInfluence will not release your name or otherwise publicize the fact that you submitted materials or other information to us unless: (a) you grant us permission to do so; (b) we first send notice to you that the materials or other information you submit to a particular part of a Service will be published or otherwise used with your name on it; or (c) we are required to do so by law.
+  *  **Information from Other Sources.** We may receive information about you from other sources, including through Third-Party services and organizations to supplement information provided by you. For example, if you connect your Account with or otherwise use a Third-Party application, such as social networking sites like Twitter or Instagram (each, a “Social Network”) or an app store, such as the Apple App Store, Google Play App Store, Amazon App Store (together with any similar applications, “App Stores”), we may collect information about you from that Third-Party application that you have made public via your privacy settings. Information we collect through App Stores or Social Network accounts may include your name, your Social Network user identification number, your Social Network user name, location, sex, birth date, email, profile picture, and your contacts on the Social Network. We may also collect audience demographics data for Social Networks. This supplemental information allows us to verify information that you have provided to HireInfluence and to enhance our ability to provide you our Services, products and information about our business.
 
 
-## Hire **Influence** — How We Work with Clients
 
-Hire **Influence** revolutionizes social media, how Social Media Networks and Social Media Contacts can be used, and how we can all benefit. Hire **Influence** establishes, manages, and optimizes online marketing Campaigns for our _Clients_ and _Advocates_. We are committed to protecting and appropriately managing the information that both our Clients and Advocates Share with us. 
+ **3.2 HOW HIREINFLUENCE USES YOUR INFORMATION**  
+We acquire, hold, use, and Process Personal Information about Individuals for a variety of business purposes, including:
 
-Hire **Influence** offers a dynamic, online social media marketing Platform. you — our Client — are using our Site because you are aware of the power of social media to inform, to shape, to influence and to trend products in our society. The Hire **Influence** Platform provides Clients with the ability to launch a _Campaign_ that accomplishes the Clients’ goals by harnessing the power of our Advocates, who are sophisticated users of Social Media Networks with large numbers of Social Media Contacts. 
+  *     *  **To Provide Products, Services, or Information Requested.** HireInfluence may use information about you to fulfill requests for products, Services, or information, including information about potential or future Services, including to:
+      * Generally manage Individual information and Accounts;
+      * Respond to questions, comments, and other requests;
+      * Provide access to certain areas, functionalities, and features of HireInfluence’s Services;
+      * Contact you to answer requests for customer support or technical support;
+      * Allow you to register for events.
+    *  **Administrative Purposes.** HireInfluence may use Personal Information about you for its administrative purposes, including to:
+      * Measure interest in HireInfluence’s Services;
+      * Develop new products and Services;
+      * Ensure internal quality control;
+      * Verify Individual identity;
+      * Communicate about Individual Accounts and activities on HireInfluence’s Services and systems, and, in HireInfluence’s discretion, changes to any HireInfluence policy;
+      * Send email to the email address you provide to us to verify your Account and for informational and operational purposes, such as Account management, customer service, or system maintenance;
+      * Process payment for products or services purchased;
+      * Process applications and transactions;
+      * Prevent potentially prohibited or illegal activities;
+      * Enforce our Terms.
+    *  **Marketing HireInfluence Products and Services.** HireInfluence may use Personal Information to provide you with materials about offers, products, and Services that may be of interest, including new content or Services. HireInfluence may provide you with these materials by phone, postal mail, facsimile, or email, as permitted by applicable law. Such uses include:
+      * To tailor content, advertisements, and offers;
+      * To notify you about offers, products, and services that may be of interest to you;
+      * To provide Services to you and our partners;
+      * For other purposes disclosed at the time that Individuals provide Personal Information; or
+      * Otherwise with your consent.
 
-_How does this all work?_
 
-As a Client, you must register with our Site. Once you are a registered Client, you will be able to utilize Advowire and the power of our Hire **Influence** Platform’s network search engine to create a Campaign and set search parameters to locate the best possible Advocates to assist you in marketing your Campaign. Using the Hire **Influence** Platform, our Advocates have consolidated and connected their Social Media Networks, blogs, and other digital assets into a single _Profile_ that may be accessed by Clients. 
 
-Using the Campaign Specifics you provide, you are able to harness our network search engine to select the best Advocates for your Campaign (this is accomplished using our Advocates’ _Social Media Networks, Social Media Contacts_ , number of Social Media Contacts, geographical location, gender, industry contacts, work experience, and other preferences that the Advocates may have chosen to provide, that may be evident from their Profile, or authorized us to gather and include in their Profile). Advocates are then presented with the _Opportunity_ to promote the Client’s products, Services, candidates, causes, or events. The Advocates who meet your Campaign’s parameters and goals and who accept the Opportunity will use their Social Media Networks (such as Facebook, Twitter, LinkedIn, and Pinterest) to _Share your content_ about your Campaign. Our Advocates receive compensation for their Shares through a protected pay structure established in accordance with Hire **Influence** business practices. 
+You may contact us at any time to opt-out of the use of your Personal Information for marketing purposes, as further described in Section 6 below.
 
-you need to know that this Privacy Policy applies to all of our Services, products, widgets, and webSites – including Advowire, Traffic Boost, Lead Generation, Custom Landings, , Advocate Sampling, Beta Testing Trials, Ambassador Groups, and  Advosearch  – that are offered by Hire **Influence** or its subsidiaries or affiliated companies. 
+  *  **Research and Development.** HireInfluence may use Personal Information to create non-identifiable information that we may use alone or in the aggregate with information obtained from other sources, in order to help us to optimally deliver our existing products and Services or develop new products and Services. We may share anonymous Individual and aggregate data for research and analysis purposes.
+  *  **Direct Mail, Email and Outbound Telemarketing.** Individuals who provide us with Personal Information, or whose Personal Information we obtain from Third Parties, may receive periodic emails, newsletters, mailings, or phone calls from us with information on HireInfluence’s or our business partners’ products and services or upcoming special offers/events we believe may be of interest. We offer the option to opt out of these communications at no cost to the Individual by following the instructions in Section 6 below.
+  *  **Anonymous and Aggregated Information Use.** HireInfluence may use Personal Information and other information about you to create anonymized and aggregated information, such as de-identified demographic information, de-identified location information, information about the computer or device from which you access HireInfluence’s Services, or other analyses we create. Anonymized and aggregated information is used for a variety of functions, including the measurement of visitors’ interest in and use of various portions or features of the Services. Anonymized or aggregated information is not Personal Information, and HireInfluence may use such information in a number of ways, including research, internal analysis, analytics, and any other legally permissible purposes. We may share this information within HireInfluence and with Third Parties for our or their purposes in an anonymized or aggregated form that is designed to prevent anyone from identifying you.
+  *  **Sharing Content with Friends or Colleagues.** HireInfluence’s Services may offer various tools and functionalities that permit you to share content, which may include Personal Information. HireInfluence will share such Personal Information per your use of the Services.
+  *  **Other Uses.** HireInfluence may use Personal Information for which we have a legitimate interest, such as direct marketing, individual or market research, anti-fraud protection, or any other purpose disclosed to you at the time you provide Personal Information or with your consent.
 
-## What Information We Collect and What We Do with It
 
-**Creation of the Campaign, Campaign Specifics, and Personal Information**
 
-To register and create a Campaign via our Hire **Influence** Platform and to start successfully promoting your Campaign via our Advocates, you must provide us with a name (where the Client is a corporation, an individual contact person’s name and information must be provided), an email address, a Campaign Title and the Campaign Specifics you choose. To make your Campaign more successful and economically efficient, you should provide as many Campaign Specifics as possible, including but not limited to the goals of the Campaign, an optional company logo or graphic if you have one, a description of the Campaign, the industry targeted, the audience characteristics you would like to target, such as geographical location, gender and age demographics, and, of course, your Campaign budget. 
+ **3.3 COOKIES, ANALYTICS INFORMATION, AND INTEREST-BASED ADVERTISING**  
+We, as well as Third Parties that provide content, advertising, or other functionality on our Services, may use cookies, pixel tags, local storage, and other technologies (“Technologies”) to automatically collect information through the Services. We use Technologies that are essentially small data files placed on your computer, tablet, mobile phone, or other devices (referred to collectively as a “device”) that allow us to record certain pieces of information whenever you visit or interact with our sites, services, applications, messaging, and tools, and to recognize you across devices.
 
-As our Client, you will determine via Advowire and our other Services whether to engage an Advocate for an Opportunity based upon the information collected and assembled in the Advocate’s Profile. By providing detailed Campaign Specifics, you will be able to utilize our network search engine to set parameters to locate and utilize only the Advocates who are best suited to promote your Campaign goals. These are the Advocates who will make a real difference for you and your Campaign with each and every Share they make. This is social media at its best. 
+  *  **Cookies.** Cookies are small text files placed in visitors’ computer browsers to store their preferences. Most browsers allow you to block and delete cookies. However, if you do that, the Services may not work properly.
+  *  **Google Analytics.** We may also use Google Analytics and Google Analytics Demographics and Interest Reporting to collect information regarding visitor behavior and visitor demographics on some of our Services, and to develop website content. This analytics data is not tied to any Personal Information. For more information about Google Analytics, please visit www.google.com/policies/privacy/partners/. You can opt out of Google’s collection and Processing of data generated by your use of the Services by going to http://tools.google.com/dlpage/gaoptout.
+  *  **Facebook.** We may use certain tools offered by Facebook, Inc. (“Facebook”) that enable it to collect or receive information about actions users take on: (a) our Site and elsewhere on the internet through use of Cookies, Web Beacons and other storage technologies; or (b) our mobile application and other mobile applications, in each case, in order to provide measurement services, targeted ads and other services. For more information regarding the collection and use of such information by Facebook, please see the Facebook Data Policy, available at: https://www.facebook.com/policy.php
 
-In order to provide you with a better experience and to improve the quality of our Services, we may combine the information provided to set up your account and your Campaign with other information you have provided to us when you utilize the various Services offered through our Site and the Hire **Influence** Platform. 
 
-By agreeing to our Terms of Use, establishing a Client account, and by creating a Campaign, you authorize us to access your account, use your Campaign and Campaign Specifics, and other information you provide to store Client data, set pricing for your Campaign, and Share your Client information with Advocates who elect to participate in the Opportunity offered by your Campaign. While you always retain the ability to revoke your Campaign and our access by amending your Hire **Influence** account settings, data we have collected prior to your revoking our right to access may be retained by Hire **Influence**. 
 
-**Cookies**
+Our uses of such Technologies fall into the following general categories:
 
-We may place _Cookies_ in your browser to improve your experience using our Site and Services, to track usage trends, and to improve security. By visiting Hire **Influence** , you consent to the placement of Cookies or similar identifiers in your browser. you can, however, control the receipt of Cookies through your web browser’s settings. Please note that some of our Services may not function properly if our Cookies are disabled. 
+  *  **Operationally Necessary.** We may use cookies, web beacons, or other similar technologies that are necessary to the operation of our Services. This includes technologies that allow you access to our Services; that are required to identify irregular site behavior, prevent fraudulent activity and improve security; or that allow you to make use of our functions such as shopping-carts, saved search, or similar functions;
+  *  **Performance Related.** We may use cookies, web beacons, or other similar technologies to assess the performance of our Services, including as part of our analytic practices to help us understand how our visitors use our Services, determine if you have interacted with our messaging, determine whether you have viewed an item or link, or to improve our Services’ content, applications, services, or tools;
+  *  **Functionality Related.** We may use cookies, web beacons, or other similar technologies that allow us to offer you enhanced functionality when accessing or using our Services. This may include identifying you when you sign into our Services or keeping track of your specified preferences, interests, or past items viewed so that we may enhance the presentation of content on our Services;
+  *  **Advertising or Targeting Related.** We may use first-party or third-party cookies and web beacons to deliver content, including ads relevant to your interests, on our Services or on Third Party sites. This includes using technologies to understand the usefulness to you of the advertisements and content that has been delivered to you, such as whether you have clicked on an advertisement.
 
-**Log Information**
 
-When you access our Site and your Hire **Influence** Account, our servers automatically record information sent from your browser, including your web request, Internet Protocol address, domain names, referring Uniform Resource Locator, browser type, browser language, and operating system; the date and time of your request and access; and Cookies that may uniquely identify your browser. This information is neither used nor intended to be used to personally identify you. 
 
-**Disclosure and Sharing of Personal Information to Third Parties**
+If you would like to opt-out of the Technologies we employ on our sites, services, applications, or tools, you may do so by blocking, deleting, or disabling them as your browser or device permits.
 
-Hire **Influence** will not distribute, sell, rent, transfer, or otherwise disclose your Personal Information to any third party without your consent except as follows: 
+ **3.4 THIRD-PARTY WEBSITES AND SOCIAL MEDIA PLATFORMS**  
+The Services, including any emails or advertisements, may contain links to other websites and other websites may reference or link to our Services. These other domains and websites are not controlled by us, and HireInfluence does not endorse or make any representations about Third-Party websites or social media platforms. We encourage our users to read the privacy policies of each and every website and application with which they interact. We do not endorse, screen or approve, and are not responsible for the privacy practices or content of such other websites or applications. Visiting these other websites or applications is at your own risk.  
+The Site and our other Services may also contain links and interactive features with various Social Networks (e.g., widgets). If you already use these platforms, their cookies may be set on your device when using our Services. You should be aware that Personal Information which you voluntarily include and transmit online through such Social Networks may be accessible by the providers of such Social Networks and, if posted publicly, may be viewed and used by others without any restrictions. We are unable to control such uses of your information when interacting with a Social Network, and by using such services you assume the risk that the Personal Information provided by you may be viewed and used by third parties for any number of purposes.
 
-  * To Advocates for potential Opportunities; 
-  * To business partners, suppliers, and other third parties such as Pay-Pal to help us process payments; 
-  * When necessary to identify, contact, or bring legal action against someone who may be injuring or interfering with Hire **Influence** ’s rights or property, or otherwise harming any other individual by utilizing Hire **Influence** ’s webSite or Services; 
-  * For tax purposes; 
-  * When you have consented to such disclosure; and
-  * When we have a good-faith belief that disclosure is required or permitted by law. 
+ **3.5 THIRD-PARTY PAYMENT PROCESSING**  
+When you make purchases through the Services, we process your payments through a Third-Party payment processor, such as PayPal. **(“Payment Processor”)**. The Payment Processor may collect certain financial information from you to process a payment on behalf of HireInfluence, including your name, email address, address and other billing information.
 
+ **4\. ONWARD TRANSFER-HIREINFLUENCE MAY DISCLOSE YOUR INFORMATION**
 
+ **4.1 INFORMATION WE SHARE**  
+We may share your information as described in this Privacy Policy (e.g., with our Third-Party service providers; to comply with legal obligations; to protect and defend our rights and property) or with your permission.
 
-Any disclosures made by you to a third party, including other Clients and Advocates, are not covered by this Privacy Policy, though they may be governed by privacy policies of those third parties. 
+  *  **We Use Vendors and Service Providers.** We may share any information we receive with vendors and service providers. The types of service providers (processors) to whom we entrust Personal Information include service providers for: (i) provision of IT and related services; (ii) payment processing; (iii) customer service activities; and (iv) other providers that may be necessary for the provision of the Services.
+  *  **Business Partners.** HireInfluence may share Personal Information with our business partners, and affiliates for our and our affiliates’ internal business purposes, as part of the Services we provide to you or at your request.
+  *  **Displaying to Other Users.** When you post or make information available using the Community Features, that information will be available to other users that can access that post. We are not responsible for privacy practices of the other users who will view and use the posted information.
+  *  **Marketing – Interest-Based Advertising and Third Party Marketing.** Through our Services, HireInfluence may allow Third-Party advertising partners to set tracking tools (e.g., cookies) to collect information regarding your activities (e.g., your IP address, page(s) visited, time of day). We may also share such de-identified information as well as selected Personal Information (such as demographic information and past purchase history) we have collected with Third-Party advertising partners. These advertising partners may use this information (and similar information collected from other websites) for purposes of delivering targeted advertisements to you when you visit non-HireInfluence related websites within their networks. This practice is commonly referred to as “interest-based advertising” or “online behavioral advertising. We may allow access to other data collected by the Site to facilitate transmittal of information that may be useful, relevant, valuable or otherwise of interest to you. If you prefer that we do not share your Personal Information with Third-Party advertising partners, you may opt-out of such sharing at no cost by following the instructions in Section 6 below.
+  *  **Disclosures to Protect Us or Others (e.g., as Required by Law and Similar Disclosures).** We may access, preserve, and disclose your Personal Information, other Account information, and content if we believe doing so is required or appropriate to: (i) comply with law enforcement or national security requests and legal process, such as a court order or subpoena; (ii) respond to your requests; (iii) protect yours’, ours’ or others’ rights, property, or safety; (iv) to enforce HireInfluence policies or contracts; (v) to collect amounts owed to HireInfluence; (vi) when we believe disclosure is necessary or appropriate to prevent physical harm or financial loss or in connection with an investigation or prosecution of suspected or actual illegal activity; or (vii) if we, in good faith, believe that disclosure is otherwise necessary or advisable.  
+In addition, from time to time, server logs may be reviewed for security purposes – e.g., to detect unauthorized activity on the Services. In such cases, server log data containing IP addresses may be shared with law enforcement bodies in order that they may identify users in connection with their investigation of the unauthorized activities.
+  *  **Merger, Sale, or Other Asset Transfers.** If we are involved in a merger, acquisition, financing due diligence, reorganization, bankruptcy, receivership, sale of company assets, or transition of service to another provider, then your information may be sold or transferred as part of such a transaction as permitted by law and/or contract. In such event, HireInfluence will endeavor to direct the transferee to use Personal Information in a manner that is consistent with the Privacy Policy in effect at the time such Personal Information was collected.
 
-**Other WebSites**
 
-Our Services are offered in connection with other webSites, including Social Media Networks. Personal Information you provide to Hire **Influence** to enable creation of your Campaign and to facilitate the use of our Services is handled pursuant to terms of this Privacy Policy and our Site’s Terms of Use; other webSites, however, may have different privacy policies, and we encourage you to read them. Hire **Influence** is not responsible for a Client’s compliance with various privacy policies on other webSites the Client may utilize or for an Advocate’s activity on the Advocate’s Social Media Networks that the Advocate links to through his or her Hire **Influence** Profile. Further, for your convenience, you may be directed by Hire **Influence** (through posted links or otherwise) to webSites that are not owned or controlled by Hire **Influence** and that may collect Personal Information from you. you access those Sites at your own risk. 
 
-We also do not exercise control of other webSites that may display information about Hire **Influence** and our Services, or direct how those other webSites may collect, distribute, or otherwise use your Personal Information. Such webSites may place their own Cookies or similar files on your computer, collect data, or solicit Personal Information from you. We do not guaranty the security of any information that you may disclose on other webSites, and Hire **Influence** is not responsible or liable for those webSites’ policies, actions, or content. 
+ **4.2 INTERNATIONAL DATA TRANSFERS**  
+You agree that all Personal Information collected via or by HireInfluence may be transferred, Processed, and stored anywhere in the world, including but not limited to, the United States, the European Union, in the cloud, on our servers, on the servers of our affiliates or the servers of our service providers. Your Personal Information may be accessible to law enforcement or other authorities pursuant to a lawful request. By providing information to HireInfluence, you explicitly consent to the storage of your Personal Information in these locations.
 
-**User Communications**
+ **5\. OPT-OUT**
 
-So as to process your inquiries, respond to your requests, and improve our Services, we may collect and retain electronic messages, mail, and other communications that you send to Hire **Influence** as well as the information contained therein. 
+ **5.1 GENERAL**  
+You have the right to object to and opt out of certain uses and disclosures of your Personal Information by deleting your Account. Where you have consented to HireInfluence’s Processing of your Personal Information or Sensitive Personal Information, you may withdraw that consent and delete your Account at any time and opt-out to further Processing by contacting support@hireinfluence.com or through the functionality of the Services. Even if you opt-out, we may still collect and use non-Personal Information regarding your activities on our Services and/or information from the advertisements on Third-Party websites for non-interest based advertising purposes, such as to determine the effectiveness of the advertisements.
 
-**Retention of Data**
+ **5.2 EMAIL AND TELEPHONE COMMUNICATIONS**  
+If you receive an unwanted email from us, you can use the unsubscribe link found at the bottom of the email to opt-out of receiving future emails. We will process your request within a reasonable time after receipt. Note that you will continue to receive transaction-related emails regarding products or services you have requested. We may also send you certain non-promotional communications regarding HireInfluence and our Services and you will not be able to opt out of those communications (e.g., communications regarding updates to our Terms or this Privacy Policy).
 
-We may retain residual information about you, including in our backup files or database, particularly when such retention is required by law or is pursuant to legitimate business purposes. you agree that we are under no obligation to delete or modify information that you have previously chosen to provide us. Please remember that if we have already disclosed some of your Personal Information to third parties, we cannot access that Personal Information any longer and cannot force the deletion or modification of that information by the parties to whom we have made those disclosures. 
+ **5.3 MOBILE DEVICES**  
+HireInfluence may occasionally send you push notifications through our mobile applications with notices that may be of interest to you. You may at any time opt-out from receiving these types of communications by changing the settings on your mobile device. HireInfluence may also collect location-based information if you use our mobile applications. You may opt-out of this collection by changing the settings on your mobile device.
 
-## A Client’s Rights
+ **5.4 “DO NOT TRACK”**  
+Do Not Track (“DNT”) is a privacy preference that users can set in certain web browsers. DNT is a way for users to inform websites and services that they do not want certain information about their webpage visits collected over time and across websites or online services. Please note that we do not respond to or honor DNT signals or similar mechanisms transmitted by web browsers.
 
-**Accessing, Controlling, Updating, and Deleting Client Data**
+ **5.5 COOKIES AND INTEREST-BASED ADVERTISING**  
+As noted above, you may stop or restrict the placement of cookies on your computer or remove them from your browser by adjusting your web browser preferences. Please note that cookie-based opt-outs are not effective on mobile applications. However, on many mobile devices, application users may opt out of certain mobile ads via their device settings.
 
-When you use Hire **Influence** , we work to provide you the ability to access, review, correct, edit, or remove the Client information, Campaign information and Campaign Specifics that you have provided to us. you can do this by logging into Hire **Influence** and accessing your account. you must identify yourself before we can process any request to access, review, correct, edit, or remove your Client information. Although most changes will occur immediately, some information may stay stored on your browser’s web cache. We take no responsibility and are not liable for information stored in your cache or on any other electronic devices through which you may access Hire **Influence**. 
+The online advertising industry also provides websites from which you may opt-out of receiving targeted ads from our data partners and our other advertising partners that participate in self-regulatory programs. You can access these, and also learn more about targeted advertising and consumer choice and privacy, at www.networkadvertising.org/managing/opt_out.asp, or http://www.youronlinechoices.eu/ and www.aboutads.info/choices/. You can also choose not to be included in Google Analytics here.
 
-We may decline to process requests that are unreasonably repetitive or systematic, require disproportionate technical effort, jeopardize the privacy of others, or would be extremely impractical. (In some instances, a request that requires disproportionate technical effort to accommodate may be processed for an additional fee.) you authorize us to use and disclose, in accordance with this Privacy Policy, any new or modified information that you provide. Please note our data retention practices identified above. 
+To be clear, whether you are using our opt-out or an online industry opt-out, these cookie-based opt-outs must be performed on each device and browser that you wish to have opted-out. For example, if you have opted-out on your computer browser, that opt-out will not be effective on your mobile device. You must separately opt-out on each device. Advertisements on Third-Party websites that contain the AdChoices link and that link to this Privacy Policy may have been directed to you based on anonymous, non-Personal Information collected by advertising partners over time and across websites. These advertisements provide a mechanism to opt-out of the advertising partners’ use of this information for interest-based advertising purposes.
 
-**Choices for Personal Information**
+ **6\. RIGHTS OF ACCESS, RECTIFICATION, ERASURE, AND RESTRICTION**  
+You may inquire as to whether HireInfluence is Processing Personal Information about you, request access to Personal Information, and ask that we correct, amend or delete your Personal Information where it is inaccurate. Where otherwise permitted by applicable law, you may send an e-mail to support@hireinfluence.com or use any of the methods set out in this Privacy Policy to request access to, receive (port), seek rectification, or request erasure of Personal Information held about you by HireInfluence. Please include your full name, email address associated with your Account, and a detailed description of your data request. Such requests will be processed in line with local laws.
 
-We will ask for your consent prior to collecting or using Personal Information for any purpose other than those described in this Privacy Policy or other supplementary privacy notices. Additionally, you may be given the option to opt out of some of our data-collection practices. If we propose to use Personal Information for any purpose other than those described in this Privacy Policy or other supplementary privacy notices, we will provide you with an effective way to opt out of such use. Please note that declining to submit Personal Information for any Hire **Influence** Service may prevent us from being able to provide that Service to you. 
+Although HireInfluence makes good faith efforts to provide Individuals with access to their Personal Information, there may be circumstances in which HireInfluence is unable to provide access, including but not limited to: where the information contains legal privilege, would compromise others’ privacy or other legitimate rights, where the burden or expense of providing access would be disproportionate to the risks to the Individual’s privacy in the case in question or where it is commercially proprietary. If HireInfluence determines that access should be restricted in any particular instance, we will provide you with an explanation of why that determination has been made and a contact point for any further inquiries. To protect your privacy, HireInfluence will take commercially reasonable steps to verify your identity before granting access to or making any changes to your Personal Information.
 
-**Closing your Account**
+ **7\. DATA RETENTION**  
+HireInfluence retains the Personal Information we receive as described in this Privacy Policy for as long as you use our Services or as necessary to fulfill the purpose(s) for which it was collected, provide our Services, resolve disputes, establish legal defenses, conduct audits, pursue legitimate business purposes, enforce our agreements, and comply with applicable laws.
 
-Upon your request, we will, as soon as practicable and in accordance with all applicable laws, close your account, delete your login information, and purge your Campaign data. After we have closed your account, information about your Campaign may remain on the Site, and we may continue to use log information in accordance with this Privacy Policy. We may also retain your Client information to comply with any applicable laws, prevent fraud, resolve disputes, troubleshoot problems, assist with any lawful investigations, enforce our Terms of Use, or take any other actions permitted by law. 
+ **8\. SECURITY OF YOUR INFORMATION**  
+We take steps to ensure that your information is treated securely and in accordance with this Privacy Policy. Unfortunately, the Internet cannot be guaranteed to be 100% secure, and we cannot ensure or warrant the security of any information you provide to us. We do not accept liability for unintentional disclosure.  
+By using the Site or providing Personal Information to us, you agree that we may communicate with you electronically regarding security, privacy, and administrative issues relating to your use of the Site. If we learn of a security system’s breach, we may attempt to notify you electronically by posting a notice on the Site or sending an e-mail to you. You may have a legal right to receive this notice in writing.
 
-## A Client’s Responsibilities
+ **9\. INTERNATIONAL USERS**  
+By using the Site, HireInfluence will transfer data to the United States. By choosing to visit the Site, utilize the Services or otherwise provide information to us, you agree that any dispute over privacy or the terms contained in this Privacy Policy will be governed by the laws of United States and the adjudication of any disputes arising in connection with HireInfluence or the Site will be in accordance with the Terms.  
+If you are visiting from the European Union or other regions with laws governing data collection and use, please note that you are agreeing to the transfer of your information to the United States and to Processing of your data globally. By providing your Personal Information, you consent to any transfer and Processing in accordance with this Policy.
 
-As a Client, you owe certain obligations to Hire **Influence** and our Advocates, including potential legal obligations. you are also expected to extend to Advocates and other users of the Hire **Influence** Platform various common courtesies broadly accepted by the social media community. As a Client, you must: 
+ **10\. CHILDREN’S PRIVACY**  
+The Services are not directed to children under 13 (and in certain jurisdictions under the age of 16) years of age, and HireInfluence does not knowingly collect Personally Identifiable Information from children under 13 (and in certain jurisdictions under the age of 16) years of age. If we learn that we have collected any Personal Information from children under 13 (and in certain jurisdictions under the age of 16), we will promptly take steps to delete such information and terminate the child’s Account.
 
-  * Abide by the terms and conditions of the governing and most current Privacy Policy, Terms of Use, and other Hire **Influence** policies; 
-  * NEVER provide false or fraudulent information when setting up a Campaign; 
-  * NEVER set up a Campaign for illegal or nefarious purposes; 
-  * Respect all intellectual-property rights (e.g., trademarks or copyrights) that may belong to Hire **Influence** , Advocates, other Clients, or third parties; 
-  * Refrain from uploading, posting, or disseminating any Personal Information that may infringe on the rights of others or be deemed offensive, injurious, discriminatory, prejudiced, or bigoted; and
-  * Safeguard your username and password by not sharing it with others. 
+ **11\. REDRESS/COMPLIANCE AND ACCOUNTABILITY**  
+If you have any questions about our privacy practices, this Privacy Policy, or how to lodge a complaint with the appropriate authority, please contact HireInfluence by email at support@hireinfluence.com. We will address your concerns and attempt to resolve any privacy issues in a timely manner.
 
+ **12\. OTHER RIGHTS AND IMPORTANT INFORMATION**
 
+ **12.1 CHANGES TO OUR PRIVACY POLICY AND PRACTICES**  
+This Privacy Policy may change from time to time. You understand and agree that you will be deemed to have accepted the updated Privacy Policy if you use the Services after the updated Privacy Policy is posted on the Services. If at any point you do not agree to any portion of the Privacy Policy then in effect, you must immediately stop using the Services.
 
-Hire **Influence** retains sole discretion to restrict, suspend, or terminate the account of an Advocate for any violation of the obligations or requirements set forth in our Terms of Use or other governing policies. 
+  * Revision to the Privacy Policy. We may revise this Privacy Policy in our sole discretion, so review it periodically. If you continue to visit this Site and use the services made available to you after such changes have been made, you hereby provide your consent to the changes.
+  * Posting of Revised Privacy Policy. If there are any material changes to this Privacy Policy, HireInfluence will notify you by email or as otherwise required by applicable law. We will post any adjustments to the Privacy Policy on this web page, and the revised version will be effective immediately when it is posted (or upon notice as applicable). If you are concerned about how your information is used, bookmark this page and read this Privacy Policy periodically.
+  * New Uses of Personal Information. Additionally, before we use Personal Information for any new purpose not originally authorized by you, we will endeavor to provide information regarding the new purpose and give you the opportunity to opt-out. Where consent of the Individual for the Processing of Personal Information is otherwise required by law or contract, HireInfluence will endeavor to comply with the law or contract.
 
-**Indemnification**
 
-_Any Client who uses the Hire **Influence** Site, the Hire **Influence** Platform, or any of Hire **Influence** ’s Services to engage in a Campaign that is false or fraudulent or is based upon false or misleading information, false or misleading advertising, or otherwise created for any improper or unlawful purpose, will be required to indemnify and hold harmless Hire **Influence** for all loss, claims, causes of action and costs and expenses associated with such use, including but not limited to attorneys’ fees, court costs, and any potential verdict or settlement resulting from such use. _
 
-**Acceptance of These Terms**
+ **12.2 CALIFORNIA PRIVACY RIGHTS**  
+California law permits users who are California residents to request and obtain from us once a year, free of charge, a list of the Third Parties to whom we have disclosed their Personal Information (if any) for their direct marketing purposes in the prior calendar year, as well as the type of Personal Information disclosed to those parties. HireInfluence does not share Personal Information with Third Parties for their own marketing purposes.
 
-By using the Hire **Influence** webSite and agreeing to the Terms of Use, you acknowledge and agree to the terms and conditions of this Privacy Policy. If you object to these terms, please immediately stop using this Site. 
+ **13\. DEFINITIONS**  
+The following capitalized terms shall have the meanings herein as set forth below.
 
-## Children’s Privacy
+  *  **“Agent”** means any Third Party that Processes Personal Information pursuant to the instructions of, and solely for, HireInfluence or to which HireInfluence discloses Personal Information for use on its behalf.
+  *  **“Personal Information”** is any information relating to an identified or identifiable natural person (“Individual”).
+  *  **“Process”** or **“Processing”** means any operation which is performed upon Personal Information, whether or not by automatic means, such as collection, recording, organization, structuring, storage, adaptation or alteration, retrieval, consultation, use, disclosure by transmission, dissemination or otherwise making available, alignment or combination, restriction, erasure, or destruction.
+  *  **“Sensitive Data”** or **“Sensitive Personal Information”** is a subset of Personal Information which, due to its nature, has been classified by law or by policy as deserving additional privacy and security protections. Sensitive Personal Information includes Personal Information regarding EU residents that is classified as a “Special Category of Personal Data” under EU law, which consists of the following data elements: (1) race or ethnic origin; (2) political opinions; (3) religious or philosophical beliefs; (4) trade union membership; (5) genetic data; (6) biometric data where Processed to uniquely identify a person; (6) health information; (7) sexual orientation or information about the Individual’s sex life; or (8) information relating to the commission of a criminal offense.
+  *  **“Third Party”** is any company, natural or legal person, public authority, agency, or body other than the Individual, HireInfluence or HireInfluence’s Agents.
 
-Hire **Influence** is committed to protecting the privacy of children and encourages parents and guardians to take an active role in their children’s online activities and interests. Hire **Influence** is not directed to children or designed to attract them. you must be at least 18 years of age to use our Services. Hire **Influence** does not knowingly collect, use, or disclose Personal Information about users that are under 18 years of age. If we later learn that a user is under 18 years of age, we will remove that user’s Personal Information from our databases and prevent the user from further using the Hire **Influence** Site and its Services. If you become aware that a user is under 18 years of age, please notify us immediately at admin@Hire **Influence**.com or flag the user’s Profile If you are a user who is identified in this manner, we may require you to submit suitable proof of age, such as a copy of government-issued identification, in order to continue using the Hire **Influence** Platform. 
 
-Due to the nature of social media use and the Internet, Hire **Influence** , however, cannot take responsibility for verifying that any Advocate is in fact over the age of 18, and Hire **Influence** further denies all liability should an Advocate misrepresent his or her actual age in utilizing the Hire **Influence** Platform. 
-
-## Security, Technology, and Amendments to Policies
-
-**Verification**
-
-Because Advocates may receive payments for Shares of your Campaign, we have implemented multiple layers of verification or authentication throughout our Services to avoid or reduce fraudulent activity (such as buying Social Media Contacts then leveraging that reach to make more money per Share, or creating fake accounts within the Hire **Influence** Platform). 
-
-The following steps of verification are performed to authenticate Advocates’ Hire **Influence** Profiles: 
-
-  1. Hire **Influence** utilizes StatusPeople (http://statuspeople.com/), an automated "Fakers" tool that differentiates between Active, Inactive, and Fake social followers within an Advocates network; 
-  2. Advocates and Clients can select an optional pay-for-review and "Certification" award process by Social Intelligence Corp (http://www.socialintel.com/) wherein Social Intelligence Corp. reviews authenticity factors within a person's social media network; 
-  3. Hire **Influence** performs random Advocate Profile spot checks; and 
-  4.   5. Hire **Influence** utilizes mandatory and automated phone/geographical verification through third-party provider Twilio.com. 
-
-
-
-Because you are utilizing our Site and Services, Hire **Influence** reserves the right to authenticate the Campaign provided by Clients. 
-
-**Security**
-
-In accordance with industry standards, we have implemented security safeguards to protect Hire **Influence** and its users against unauthorized accessing, disclosure, alteration, or destruction of Personal Information. Some of the safeguards may include: 
-
-  * Requiring passwords in order to access sections of the webSite or certain data; 
-  * Encryption; 
-  * Restricting access to Personal Information to certain Hire **Influence** employees, contractors, agents, and operators; and
-  * Requiring Hire **Influence** employees, contractors, agents, and operators to agree to and comply with strict confidentiality agreements, the violation of which include discipline, termination, and criminal prosecution. 
-
-
-
-While we are always looking to take reasonable steps to improve our security, the Internet can never be completely secure, and we cannot guarantee the security of the information transmitted to Hire **Influence**. In particular, emails, messages, and other communications between Hire **Influence** users are not encrypted, and you should never use these communication methods to convey Personal Information that you wish to keep private. Ultimately, you are responsible for protecting the security of your password and login information. 
-
-**Data Breach**
-
-While Hire **Influence** employs multiple security measures to maintain data security, data breaches can occasionally happen, even to the most secure of systems. In the event of such a situation, Hire **Influence** will, in compliance with any applicable federal and state data breach laws, endeavor to timely notify all Advocates and Clients whose Personal Information Hire **Influence** knows or has clear reason to believe was accessed by an unauthorized person. 
-
-**Borders**
-
-your Personal Information will be processed in conformance with this Privacy Policy. However, that processing may occur in countries with different laws as regards to your privacy. By using Hire **Influence** and providing any Personal Information, you consent to the transfer of data from your country to a country that may have different privacy laws. For citizens of the United States, your data may leave the territorial boundaries of the USA. 
-
-**Changes to the Privacy Policy**
-
-Hire **Influence** reserves the right, at any time, to change, modify, or revise this Privacy Policy and the privacy and security practices discussed herein. We will post any revised version of the Privacy Policy on our Site. We will not reduce your rights under this Privacy Policy without your explicit consent. If we make any significant, material changes to the Privacy Policy, we will prominently note such changes on the Site and also send notification to the last email address you have provided to us. Continued use of the Hire **Influence** Platform and our Services following such notice of changes constitutes your acknowledgement of them and agreement to be bound by their terms and conditions. 
-
-## Contact Us
-
-If you have any questions or concerns about our Advocate’s Privacy Policy or our Advocates Terms of Use, please contact us by sending an email to [admin@HireInfluence.com](mailto:admin@HireInfluence.com). 
-
-This Privacy Policy was published on January 27, 2014. 
