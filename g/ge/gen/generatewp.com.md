@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the generatewp.com privacy policy that was archived on 2016-03-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160330130915id_/https%3A//generatewp.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the generatewp.com privacy policy that was archived on 2019-03-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190320130957id_/https%3A//generatewp.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
