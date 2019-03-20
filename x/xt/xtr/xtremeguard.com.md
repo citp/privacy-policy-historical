@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the xtremeguard.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606132211id_/http%3A//www.xtremeguard.com/terms_privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the xtremeguard.com privacy policy that was archived on 2019-03-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190320074345id_/https%3A//www.xtremeguard.com/terms_privacy.asp) for the most accurate reproduction.*
 
 # Terms: Privacy
 
@@ -17,7 +17,7 @@ This Privacy Notice describes our collection, us, disclosure, retention, and pro
 
 **How do we use your information?**
 
-We may use the information we collect from you when you register, purchase products, enter a contest or promotion, respond to a survey or marketing communication, surf the website, or use certain other site features in the following ways:
+We may use the information we collect from you when you register, purchase products, enter a contest or promotion, respond to a survey or marketing communication, surf the website, or use certain other site features in the following ways: 
 
   * To personalize your site experience and to allow us to deliver the type of content and product offerings in which you are most interested.
   * To allow us to better service you in responding to your customer service requests.
@@ -57,9 +57,9 @@ To delete all of your online account information from our database, sign into th
 
 In an attempt to provide you with increased value, we may include third party links on our site. These linked sites have separate and independent privacy policies. We therefore have no responsibility or liability for the content and activities of these linked sites. Nonetheless, we seek to protect the integrity of our site and welcome any feedback about these linked sites (including if a specific link does not work).
 
-XtremeGuard works with [AdRoll retargeting](http://www.adroll.com/), who uses technology including web beacons and cookies to collect data about our website usage and to improve the effectiveness of our marketing. Data recorded through the use of this technology is aggregated and shared with us.
+XtremeGuard works with [AdRoll retargeting](https://www.adroll.com/), who uses technology including web beacons and cookies to collect data about our website usage and to improve the effectiveness of our marketing. Data recorded through the use of this technology is aggregated and shared with us.
 
-No personally identifiable information about you is collected or shared by AdRoll with the XtremeGuard. You can opt-out of AdRoll and their partners by visiting [this link](http://www.adroll.com/about/privacy).
+No personally identifiable information about you is collected or shared by AdRoll with the XtremeGuard. You can opt-out of AdRoll and their partners by visiting [this link](https://www.adroll.com/about/privacy).
 
 **Changes to our policy**
 
@@ -75,8 +75,8 @@ This online privacy policy applies only to information collected through our web
 
 **Terms and Conditions**
 
-Please also visit our [Terms and Conditions](http://www.xtremeguard.com/terms.asp) section establishing the use, disclaimers, and limitations of liability governing the use of our website.
+Please also visit our [Terms and Conditions](https://www.xtremeguard.com/terms.asp) section establishing the use, disclaimers, and limitations of liability governing the use of our website.
 
 **Your consent**
 
-By using our site, you consent to our privacy policy.
+By using our site, you consent to our privacy policy. 
