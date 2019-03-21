@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the johncabot.edu privacy policy that was archived on 2017-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170501074640id_/http%3A//www.johncabot.edu/about-jcu/privacy-policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the johncabot.edu privacy policy that was archived on 2019-03-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190321132500id_/https%3A//www.johncabot.edu/about-jcu/privacy-policy.aspx) for the most accurate reproduction.*
 
-# Study Abroad Rome Italy | An American University Rome | Privacy Policy
+# Privacy Policy |John Cabot University in Rome, Italy | JCU | An American University Rome, Italy
 
 **Commitment to Privacy  
 ** John Cabot University is committed to respecting and protecting your privacy. This statement describes our information collection practices and explains how we use and protect your personal information. Should you choose to provide us with any personal information, you can be assured that it will only be used by John Cabot University to conduct official University business, in conformity with [Italian law](http://www.garanteprivacy.it/home_en/italian-legislation). 
@@ -36,4 +36,4 @@ All enrolled students at John Cabot University are protected under [the Family 
 **Changes to Statement**  
 We reserve the right to modify this privacy statement at any time and will post the changes on this web page. 
 
-**Questions?** Contact [webupdates@johncabot.edu](mailto:webupdates@johncabot.edu)
+**Questions?** Contact [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#1760727562677376637264577d787f79747675786339727362)
