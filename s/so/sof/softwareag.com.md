@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the softwareag.com privacy policy that was archived on 2018-08-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180827235814id_/https%3A//www.softwareag.com/corporate/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the softwareag.com privacy policy that was archived on 2019-03-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190321025447id_/https%3A//www.softwareag.com/corporate/privacy.html) for the most accurate reproduction.*
 
-# Privacy Policy of Software AG
+# Software AG Privacy Policy: Nature, Scope and Purpose of Data Collection
 
 _Effective: May 24th, 2018   _
 
@@ -70,7 +70,7 @@ Software AG has contracted external data processing service providers to collect
 
 These service providers may be located outside the European Union or the European Economic Area (see section 6).
 
-Software AG is a globally operating corporation. In order to better process your matter, it might be necessary to forward your data to local subsidiaries or to local distribution partners, whose registered office might also be located in countries outside the European Union (see section 6). However, such data transfers only take place within the Software AG group companies listed in [Annex 1](https://web.archive.org/web/20180827235814id_/https%3A//www.softwareag.com/corporate/privacy#a1) and only for the aforementioned purposes. The lawfulness of the data export is our legitimate interest or legitimate interests of the recipients, e.g. internal administrative purposes, and no higher legitimate interests on your part, the fulfillment of legal obligations or your consent.
+Software AG is a globally operating corporation. In order to better process your matter, it might be necessary to forward your data to local subsidiaries or to local distribution partners, whose registered office might also be located in countries outside the European Union (see section 6). However, such data transfers only take place within the Software AG group companies listed in [Annex 1](https://web.archive.org/web/20190321025447id_/https%3A//www.softwareag.com/corporate/privacy#a1) and only for the aforementioned purposes. The lawfulness of the data export is our legitimate interest or legitimate interests of the recipients, e.g. internal administrative purposes, and no higher legitimate interests on your part, the fulfillment of legal obligations or your consent.
 
 Beyond that, we do not forward your data to other third parties, unless we are obliged to do so by virtue of statutory provisions or order of any judicial or other public authorities or you have explicitly given your consent for that purpose. In particular, your personal data will not be sold, leased or exchanged.
 
@@ -110,7 +110,7 @@ Your personal data will be kept by us as long as necessary to provide you with t
 
  **12\. Data Subject Rights**
 
-Under applicable law, you have the right under certain circumstances to (i) request information about your stored personal data, (ii) rectification of your personal data, (iii) restriction of processing of your personal data, (iv) deletion of your personal data, (v) data portability, (vi) revocation of your consent for processing of your personal data and (vii) object to the processing of your personal data. Further information on the individual rights can be found in [Annex 2](https://web.archive.org/web/20180827235814id_/https%3A//www.softwareag.com/corporate/privacy#a2) to this Privacy Statement.
+Under applicable law, you have the right under certain circumstances to (i) request information about your stored personal data, (ii) rectification of your personal data, (iii) restriction of processing of your personal data, (iv) deletion of your personal data, (v) data portability, (vi) revocation of your consent for processing of your personal data and (vii) object to the processing of your personal data. Further information on the individual rights can be found in [Annex 2](https://web.archive.org/web/20190321025447id_/https%3A//www.softwareag.com/corporate/privacy#a2) to this Privacy Statement.
 
 To exercise these rights, please contact our Data Protection Department at: dataprotection (at) softwareag.com 
 
