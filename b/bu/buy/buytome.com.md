@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the buytome.com privacy policy that was archived on 2018-01-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180115040728id_/http%3A//www.buytome.com/help/article/detail/id/67) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the buytome.com privacy policy that was archived on 2019-03-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190321163339id_/http%3A//www.buytome.com/help/article/detail/id/67) for the most accurate reproduction.*
 
 # Privacy Policy - Help Center - BuyToMe.com - Buy China shop at Wholesale Price By Online English Taobao Agent
 
@@ -52,4 +52,4 @@ BuyToMe will post any changes to this Privacy Statement on this Web Site, please
 
 Contact details
 
-If you have any comments or questions about our Privacy Statement, please send E-mail to:[[email protected]](https://web.archive.org/cdn-cgi/l/email-protection)
+If you have any comments or questions about our Privacy Statement, please send E-mail to:Service@BuyToMe.com
