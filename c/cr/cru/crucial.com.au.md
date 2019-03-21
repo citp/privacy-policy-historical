@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the crucial.com.au privacy policy that was archived on 2018-11-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181109054641id_/https%3A//www.crucial.com.au/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the crucial.com.au privacy policy that was archived on 2019-03-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190321062706id_/https%3A//www.crucial.com.au/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Crucial
 
@@ -67,8 +67,8 @@ In particular, we may contact you about products and services we think may be of
 
 You may opt-out of receiving marketing information from us and our related bodies corporate at any time by:
 
-  * Logging into your My Account area and [following these steps](https://help.crucial.com.au/hc/en-gb/articles/203147170-How-do-I-opt-out-of-Marketing-emails-).
-  * submitting a request via [here](https://help.crucial.com.au/hc/en-gb/requests/new?ticket_form_id=25750);
+  * Logging into your My Account area and [following these steps](https://support.crucial.com.au/en/knowledgebase/article/opt-out-of-marketing-emails).
+  * submitting a request via [here](https://control.crucial.com.au/submitticket.php);
   * calling us on 1300 884 839
 
 
@@ -84,7 +84,7 @@ You’re not required to give us your personal information. However, we may not 
 You can access or seek correction of your personal information by: 
 
   * Logging into your My Account area and correcting your information; or
-  * submitting a request via [here](https://help.crucial.com.au/hc/en-gb/requests/new?ticket_form_id=25750);
+  * submitting a request via [here](https://control.crucial.com.au/submitticket.php);
   * calling us on 1300 884 839
   * by mail at PO Box 1, Surry Hills, NSW 2010, Australia.
 
@@ -101,7 +101,7 @@ We do not charge a fee to give you access to your personal information. However,
 If you have any questions, concerns or complaints about how we collect or manage your personal information, then you may raise that matter with our Privacy Officer. Our Privacy Officer can be contacted as follows:
 
   * calling us on 1300 884 839;
-  * submitting a request via [here](https://help.crucial.com.au/hc/en-gb/requests/new?ticket_form_id=25750);
+  * submitting a request via [here](https://control.crucial.com.au/submitticket.php);
   * by mail, at PO Box 1, Surry Hills, NSW 2010, Australia.
 
 
