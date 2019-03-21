@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thedvdforums.com privacy policy that was archived on 2018-11-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181112102003id_/https%3A//www.thedigitalfix.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thedvdforums.com privacy policy that was archived on 2019-03-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190321185141id_/https%3A//www.thedigitalfix.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
