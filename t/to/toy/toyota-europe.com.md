@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the toyota-europe.com privacy policy that was archived on 2018-10-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181004163732id_/https%3A//www.toyota-europe.com/legal/data-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the toyota-europe.com privacy policy that was archived on 2019-03-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190321111410id_/https%3A//www.toyota-europe.com/legal/data-privacy-policy) for the most accurate reproduction.*
 
-# Data Privacy Policy Toyota Europe
+# Data Privacy Policy Toyota Motor Europe
 
 ## Toyota Motor Europe NV/SA (“TME”)
 
