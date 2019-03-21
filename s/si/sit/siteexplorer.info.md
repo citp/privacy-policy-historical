@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the siteexplorer.info privacy policy that was archived on 2018-10-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181022032241id_/https%3A//siteexplorer.info/Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the siteexplorer.info privacy policy that was archived on 2019-03-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190321235020id_/https%3A//siteexplorer.info/Privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
