@@ -1,0 +1,418 @@
+<!--The following is the downloaded HTML source of the distance.to privacy policy that was archived on 2019-03-21.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20190321211555id_/https%3A//www.distance.to/privacy) for the most accurate reproduction.-->
+
+<!DOCTYPE html><html lang="en-gb" dir="ltr"><head>
+<title>Distance calculator - Calculate the distance online!</title>
+<meta charset="UTF-8">
+<meta name="title" content="Distance calculator - Calculate the distance online!">
+<meta name="description" content="The popular distance calculator calculates distances in kilometres between any locations and coordinates, providing route planners, interactive maps, and information.">
+<meta name="google-site-verification" content="cBNeN49dQhYdjpsikw5wfT2AlHhQEYl5s09e03JFNBc">
+<meta name="yandex-verification" content="564c495ac6e482b1">
+<meta name="msvalidate.01" content="653EBD0B2556DF12847562BE52D83D10">
+<meta content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0" name="viewport">
+<link rel="apple-touch-icon" sizes="180x180" href="/xapple-touch-icon.png,qv=2bwaGzj3JR.pagespeed.ic.XxnbXrl3un.png">
+<link rel="icon" type="image/png" href="/xfavicon-32x32.png,qv=2bwaGzj3JR.pagespeed.ic.weQtu1nlYB.png" sizes="32x32">
+<link rel="icon" type="image/png" href="/xfavicon-16x16.png,qv=2bwaGzj3JR.pagespeed.ic.bx_aZ6KgJN.png" sizes="16x16">
+<link rel="manifest" href="/manifest.json?v=2bwaGzj3JR">
+<link rel="mask-icon" href="/safari-pinned-tab.svg?v=2bwaGzj3JR" color="#2d89ef">
+<link rel="shortcut icon" href="/favicon.ico?v=2bwaGzj3JR">
+<meta name="theme-color" content="#2d89ef">
+<meta name="apple-mobile-web-app-title" content="www.distance.to">
+<meta name="application-name" content="www.distance.to">
+<meta name="verification" content="993aeed467fd8ba6f840a68b8eb4603f">
+<meta property="og:title" content="Distance calculator - Calculate the distance online!">
+<meta property="og:type" content="website">
+<meta property="og:url" content="https://www.distance.to/">
+<meta property="og:image" content="https://www.distance.to/logo.png">
+<meta property="og:site_name" content="www.distance.to">
+<meta property="og:description" content="The popular distance calculator calculates distances in kilometres between any locations and coordinates, providing route planners, interactive maps, and information.">
+<meta name="twitter:card" content="summary" dochead="1">
+<meta name="twiter:site" content="@StephanGeorg" dochead="1">
+<meta name="twitter:tittle" content="Distance calculator - Calculate the distance online!">
+<meta name="twitter:description" content="The popular distance calculator calculates distances in kilometres between any locations and coordinates, providing route planners, interactive maps, and information.">
+<meta name="twitter:image" content="https://www.distance.to/logo.png">
+<link rel="canonical" href="//www.distance.to/">
+<link type="text/css" rel="stylesheet" href="/public/css/A.style.css+leaflet.css+mq.css,Mcc.H39Z8uMVZf.css.pagespeed.cf.Ayi0Yus3Kr.css">
+<link href="https://fonts.googleapis.com/css?family=Roboto" rel="stylesheet">
+<script async="" src="https://www.google-analytics.com/analytics.js"></script><script async="async" src="https://www.googletagservices.com/tag/js/gpt.js"></script>
+<script>var googletag=googletag||{};googletag.cmd=googletag.cmd||[];</script>
+<script type="text/javascript">var slots=[];</script>
+<script type="text/javascript">var type='osm';var map;var markersArray=[];var mid=0;var lines=[];var directions;var unt='km';var sep=',';var decp='.';function formatMoney(value,decPlaces,thouSeparator,decSeparator){var n=value,decPlaces=isNaN(decPlaces=Math.abs(decPlaces))?2:decPlaces,decSeparator=decSeparator==undefined?".":decSeparator,thouSeparator=thouSeparator==undefined?",":thouSeparator,sign=n<0?"-":"",i=parseInt(n=Math.abs(+n||0).toFixed(decPlaces))+"",j=(j=i.length)>3?j%3:0;return sign+(j?i.substr(0,j)+thouSeparator:"")+i.substr(j).replace(/(\d{3})(?=\d)/g,"$1"+thouSeparator)+(decPlaces?decSeparator+Math.abs(n-i).toFixed(decPlaces).slice(2):"");};function initialize(){if(type==='google'){var bounds=new google.maps.LatLngBounds();var mapOptions={zoom:3,center:new google.maps.LatLng(33.8869170,9.5374990),mapTypeId:google.maps.MapTypeId.ROADMAP,mapTypeControl:true,mapTypeControlOptions:{position:google.maps.ControlPosition.RIGHT_BOTTOM}}
+map=new google.maps.Map(document.getElementById("map"),mapOptions);}if(type==='osm'){var bounds=new L.latLngBounds([]);map=L.map('map',{zoomControl:false}).setView([33.8869170,9.5374990],3);var layer=L.tileLayer('https://osm-2.luftlinie.org/'+(L.Browser.retina?'retina':'tiles')+'/{z}/{x}/{y}.png',{attribution:'&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a>'}).addTo(map);new L.Control.Zoom({position:'bottomleft'}).addTo(map);map.on('click',function(e){var waypoint=L.circleMarker(e.latlng,{radius:3,stroke:true,color:"#00ff00",weight:2,opacity:1,fillColor:"#105c17",fillOpacity:1});map.addLayer(waypoint);addWaypoint(null,'Destination ...',e.latlng.lat+','+e.latlng.lng);});}var latlngtmp=new Array();var mmarker=new Array();var count=0;}function loadScript(){if(type==='google'){var script=document.createElement("script");script.type="text/javascript";script.src="https://maps.googleapis.com/maps/api/js?callback=initialize&key=AIzaSyA_NF1grEnPa_c-cW_P4yqv91rlCRuFwh4";document.body.appendChild(script);}else{initialize();}}function addMarker(location){if(type==='google'){marker=new google.maps.Marker({position:location,map:map,id:mid++});}else if(type==='osm'){marker=L.circleMarker(location,{radius:6,stroke:true,weight:1,color:'rgb(148, 39, 36)',opacity:1,fillOpacity:0.8,fillColor:'rgb(217, 83, 79)'});map.addLayer(marker);}markersArray.push(marker);return marker;}function startApp(){loadConsent(1,{script:""});loadScript();}window.onload=startApp;</script>
+</head>
+<body>
+<div class="content ">
+<div class="toolbox">
+<div id="logo" class="logo">
+<span class="main-head">
+<a class="lang-select en-GB local" href="#" title="Change Language!"></a>
+<a class="main-distance" href="/" title="Distance">Distance calculator</a>
+</span>
+<div class="share-list">
+<a class="resp-sharing-button__link" onclick="track(this);" href="https://facebook.com/sharer/sharer.php?u=https%3A%2F%2Fwww.distance.to%2Fprivacy" target="_blank" aria-label="">
+<div class="resp-sharing-button resp-sharing-button--facebook resp-sharing-button--small"><div aria-hidden="true" class="resp-sharing-button__icon resp-sharing-button__icon--solid">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M18.77 7.46H14.5v-1.9c0-.9.6-1.1 1-1.1h3V.5h-4.33C10.24.5 9.5 3.44 9.5 5.32v2.15h-3v4h3v12h5v-12h3.85l.42-4z"></path></svg>
+</div>
+</div>
+</a>
+<a class="resp-sharing-button__link" onclick="track(this);" href="https://twitter.com/intent/tweet/?url=https%3A%2F%2Fwww.distance.to%2Fprivacy" target="_blank" aria-label="">
+<div class="resp-sharing-button resp-sharing-button--twitter resp-sharing-button--small"><div aria-hidden="true" class="resp-sharing-button__icon resp-sharing-button__icon--solid">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M23.44 4.83c-.8.37-1.5.38-2.22.02.93-.56.98-.96 1.32-2.02-.88.52-1.86.9-2.9 1.1-.82-.88-2-1.43-3.3-1.43-2.5 0-4.55 2.04-4.55 4.54 0 .36.03.7.1 1.04-3.77-.2-7.12-2-9.36-4.75-.4.67-.6 1.45-.6 2.3 0 1.56.8 2.95 2 3.77-.74-.03-1.44-.23-2.05-.57v.06c0 2.2 1.56 4.03 3.64 4.44-.67.2-1.37.2-2.06.08.58 1.8 2.26 3.12 4.25 3.16C5.78 18.1 3.37 18.74 1 18.46c2 1.3 4.4 2.04 6.97 2.04 8.35 0 12.92-6.92 12.92-12.93 0-.2 0-.4-.02-.6.9-.63 1.96-1.22 2.56-2.14z"></path></svg>
+</div>
+</div>
+</a>
+<a class="resp-sharing-button__link" onclick="track(this);" href="https://reddit.com/submit/?url=https%3A%2F%2Fwww.distance.to%2Fprivacy" target="_blank" aria-label="">
+<div class="resp-sharing-button resp-sharing-button--reddit resp-sharing-button--small"><div aria-hidden="true" class="resp-sharing-button__icon resp-sharing-button__icon--solid">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M24 11.5c0-1.65-1.35-3-3-3-.96 0-1.86.48-2.42 1.24-1.64-1-3.75-1.64-6.07-1.72.08-1.1.4-3.05 1.52-3.7.72-.4 1.73-.24 3 .5C17.2 6.3 18.46 7.5 20 7.5c1.65 0 3-1.35 3-3s-1.35-3-3-3c-1.38 0-2.54.94-2.88 2.22-1.43-.72-2.64-.8-3.6-.25-1.64.94-1.95 3.47-2 4.55-2.33.08-4.45.7-6.1 1.72C4.86 8.98 3.96 8.5 3 8.5c-1.65 0-3 1.35-3 3 0 1.32.84 2.44 2.05 2.84-.03.22-.05.44-.05.66 0 3.86 4.5 7 10 7s10-3.14 10-7c0-.22-.02-.44-.05-.66 1.2-.4 2.05-1.54 2.05-2.84zM2.3 13.37C1.5 13.07 1 12.35 1 11.5c0-1.1.9-2 2-2 .64 0 1.22.32 1.6.82-1.1.85-1.92 1.9-2.3 3.05zm3.7.13c0-1.1.9-2 2-2s2 .9 2 2-.9 2-2 2-2-.9-2-2zm9.8 4.8c-1.08.63-2.42.96-3.8.96-1.4 0-2.74-.34-3.8-.95-.24-.13-.32-.44-.2-.68.15-.24.46-.32.7-.18 1.83 1.06 4.76 1.06 6.6 0 .23-.13.53-.05.67.2.14.23.06.54-.18.67zm.2-2.8c-1.1 0-2-.9-2-2s.9-2 2-2 2 .9 2 2-.9 2-2 2zm5.7-2.13c-.38-1.16-1.2-2.2-2.3-3.05.38-.5.97-.82 1.6-.82 1.1 0 2 .9 2 2 0 .84-.53 1.57-1.3 1.87z"></path></svg>
+</div>
+</div>
+</a>
+<a class="resp-sharing-button__link" onclick="track(this);" href="mailto:?body=https%3A%2F%2Fwww.distance.to%2Fprivacy" target="_self" aria-label="">
+<div class="resp-sharing-button resp-sharing-button--email resp-sharing-button--small"><div aria-hidden="true" class="resp-sharing-button__icon resp-sharing-button__icon--solid">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M22 4H2C.9 4 0 4.9 0 6v12c0 1.1.9 2 2 2h20c1.1 0 2-.9 2-2V6c0-1.1-.9-2-2-2zM7.25 14.43l-3.5 2c-.08.05-.17.07-.25.07-.17 0-.34-.1-.43-.25-.14-.24-.06-.55.18-.68l3.5-2c.24-.14.55-.06.68.18.14.24.06.55-.18.68zm4.75.07c-.1 0-.2-.03-.27-.08l-8.5-5.5c-.23-.15-.3-.46-.15-.7.15-.22.46-.3.7-.14L12 13.4l8.23-5.32c.23-.15.54-.08.7.15.14.23.07.54-.16.7l-8.5 5.5c-.08.04-.17.07-.27.07zm8.93 1.75c-.1.16-.26.25-.43.25-.08 0-.17-.02-.25-.07l-3.5-2c-.24-.13-.32-.44-.18-.68s.44-.32.68-.18l3.5 2c.24.13.32.44.18.68z"></path></svg>
+</div>
+</div>
+</a>
+</div>
+<span class="main-distances">
+<span class="claim">How far is it?</span>
+</span>
+</div>
+<div id="sf">
+<div class="typeaheadOuter"><input type="text" value="" id="start" class="bd" placeholder="Start ..."></div> <a class="waves-effect btn" onclick="addWaypoint(this, 'Destination ...')">+</a><br><div class="typeaheadOuter"><input type="text" value="" id="end" class="bd" placeholder="Destination ..."></div> <a class="waves-effect btn" onclick="addWaypoint(this, 'Destination ...')">+</a><br> <input id="calcDistance" class="bt" type="button" value="Calculate distance!">
+<input id="openBatch" class="bt batchBtn" type="button" lang="en" value="Bulk"> </div>
+<div id="language">
+<ul class="int">
+<li><a lang="en-GB" class="en-GB close" href="#" title="Distance calculator"></a></li>
+<li><a lang="en" class="en-GB" href="https://www.distance.to" title="Calculate distance!"></a></li>
+<li><a lang="de" class="de-DE" href="https://www.luftlinie.org" title="Entfernung berechnen"></a></li>
+<li><a lang="es" class="es-ES" href="https://es.distance.to" title="Calcule la distancia"></a></li>
+<li><a lang="fr" class="fr-FR" href="https://fr.distance.to" title="Calculer distance"></a></li>
+<li><a lang="it" class="it-IT" href="https://it.distance.to" title="Calcolo distanze"></a></li>
+<li><a lang="pt" class="pt-PT" href="https://pt.distance.to" title="Calcule a distância!"></a></li>
+<li><a lang="nl" class="nl-NL" href="https://nl.distance.to" title="Afstand meten!"></a></li>
+<li><a lang="sv" class="sv-SV" href="https://sv.distance.to" title="Beräkna Avstånd"></a></li>
+<li><a lang="da" class="da-DK" href="https://da.distance.to" title="Afstandsberegning"></a></li>
+<li><a lang="ru" class="ru-RU" href="https://ru.distance.to" title="Рассчитать расстояние!"></a></li>
+<li><a lang="ro" class="ro-RO" href="http://ro.distance.to" title="Calculaţi distanta!"></a></li>
+<li><a lang="ar" class="ar-AR" href="https://ar.distance.to" title="">المسافة حاسبة</a></li>
+<li><a lang="tr" class="tr-TR" href="http://tr.distance.to" title="şarj mesafe!"></a></li>
+</ul>
+</div>
+</div>
+<div id="map" class="map static privacy">
+</div>
+<div class="banner start single static privacy">
+<h1>Privacy policy</h1>
+<div class="information-block">
+<h2>Privacy statement</h2>
+<p>We use cookies to personalize content and ads and to analyze traffic to our site. We also share information about your use of our website with our advertising and analytics partners. Our affiliates may aggregate this information with other information that you have provided to them or that you have collected as part of your use of the services. <a href="/privacy">› Privacy Policy</a></p>
+<h2>Current consent status</h2>
+<p>Status: <span id="consentStatus" class="consentStatus"></span></p>
+<h2>Change privacy settings</h2>
+<div class="changeConsentBtns">
+<a id="consentAgree">agree</a>
+<a id="consentDecline">decline</a>
+</div>
+</div>
+<div class="information-block">
+<div class="article-content">
+<p>
+The following gives a simple overview of what happens to your personal
+information when you visit our website. Personal information is any data
+with which you could be personally identified. Detailed information on the
+subject of data protection can be found in our privacy policy found below.
+</p>
+<h2>What data do we use ?</h2>
+<p>
+Some data are collected when you provide it to us. This could, for example,
+be data you enter on a contact form.
+</p>
+<h3>General data (IP, Browser, OS and referrers)</h3>
+<p>
+Other data are collected automatically by our IT systems when you visit the website.
+These data are primarily technical data such as the browser, operating system and IP
+address you are using or when you accessed the page. These data are collected automatically
+as soon as you enter our website.</p>
+<p>
+Our servers are located in the data centers of Hetzner Online GmbH (
+<a href="https://www.hetzner.de/pdf/en/Sicherheit_en.pdf">
+Hetzner statement on security and privacy</a>). We also include
+static files hosted at Cloudflare content delivery network (
+<a href="https://www.cloudflare.com/privacypolicy/">
+Cloudflare Privacy Policy</a>).</p>
+<h3>Third party services</h3>
+<h4>Google Analytics</h4>
+<p>
+We’re using Google Analytics to analyze how the product is used. This
+data gives us insights to optimize the product and its features. We’re
+using it in anonymized form. Further information and the applicable data
+protection provisions of Google may be retrieved under
+<a href="https://www.google.com/intl/en/policies/privacy/">
+Google Privacy Policy</a>
+and under <a href="http://www.google.com/analytics/terms/us.html">
+Terms of Service</a>. Google Analytics is further explained under the following
+<a href="https://www.google.com/analytics/">Link</a>.</p>
+<h4>Google AdSense</h4>
+<p>
+We’re using Google AdSense to monetize our traffic. Google Adsense
+is a service which allows placement of advertising space on third-party
+sites and uses algorithms that selects advertisements to match with the context
+of the respective third-party site and/or allows an interest-based targeting
+of the Internet user, which is implemented by means of generating individual
+user profiles.</p>
+<h4>ESRI ArcGIS online</h4>
+<p>
+When you are using the search field, we make a request to the ESRI
+ArcGIS API to fetch suggestions for places and addresses. To show you
+the most relevant places in your nearby area we add your geolocation (if available)
+to that request. More information about
+<a href="https://doc.arcgis.com/en/trust/privacy/privacy-tab-intro.htm">
+ESRI ArcGIS online privacy</a>.</p>
+<h4>what3words</h4>
+<p>
+We also using what3words as alternative addressing. When using the
+search field, we fetch suggestions for what3words addresses. To show
+you the most relevant places in your nearby area we add your geolocation
+(if available) to that request. More information about
+<a href="http://what3words.com/privacy/">what3words privacy</a>.</p>
+<h2>General information and mandatory information</h2>
+<h3>Data protection</h3>
+<p>
+The operators of this website take the protection of your personal data
+very seriously. We treat your personal data as confidential and in accordance
+with the statutory data protection regulations and this privacy policy.</p>
+<p>
+If you use this website, various pieces of personal data will be collected.
+Personal information is any data with which you could be personally identified.
+This privacy policy explains what information we collect and what we use it for.
+It also explains how and for what purpose this happens.</p>
+<p>
+Please note that data transmitted via the internet (e.g. via email communication)
+may be subject to security breaches. Complete protection of your data from
+third-party access is not possible.</p>
+<h3>Revocation of your consent to the processing of your data</h3>
+<p>
+Many data processing operations are only possible with your express
+consent. You may revoke your consent at any time with future effect.
+An informal email making this request is sufficient. The data processed
+before we receive your request may still be legally processed.</p>
+<h3>Information, blocking, deletion</h3>
+<p>
+As permitted by law, you have the right to be provided at any time with
+information free of charge about any of your personal data that is
+stored as well as its origin, the recipient and the purpose for which
+it has been processed. You also have the right to have this data corrected,
+blocked or deleted. You can contact us at any time using the address
+given in our legal notice if you have further questions on the topic
+of personal data.</p>
+<h2>Data collection on our website</h2>
+<h3>Cookies</h3>
+<p>
+Some of our web pages use cookies. Cookies do not harm your computer and
+do not contain any viruses. Cookies help make our website more user-friendly,
+efficient, and secure. Cookies are small text files that are stored on your
+computer and saved by your browser.</p>
+<p>
+Most of the cookies we use are so-called "session cookies." They are
+automatically deleted after your visit. Other cookies remain in your device's
+memory until you delete them. These cookies make it possible to recognize your
+browser when you next visit the site.</p>
+<p>
+You can configure your browser to inform you about the use of cookies so
+that you can decide on a case-by-case basis whether to accept or reject a
+cookie. Alternatively, your browser can be configured to automatically
+accept cookies under certain conditions or to always reject them, or
+to automatically delete cookies when closing your browser. Disabling cookies
+may limit the functionality of this website.</p>
+<p>
+Cookies which are necessary to allow electronic communications or to provide
+certain functions you wish to use (such as the selected language) are stored
+pursuant to Art. 6 paragraph 1, letter f of DSGVO. The website operator has a
+legitimate interest in the storage of cookies to ensure an optimized service provided
+free of technical errors. If other cookies (such as those used to analyze your
+surfing behavior) are also stored, they will be treated separately in this
+privacy policy.</p>
+<h3>Server log files</h3>
+<p>
+The website provider automatically collects and stores information that your browser
+automatically transmits to us in "server log files". These are:</p>
+<ul>
+<li>Browser type and browser version</li>
+<li>Operating system used</li>
+<li>Referrer URL</li>
+<li>Host name of the accessing computer</li>
+<li>Time of the server requesT</li>
+<li>IP address</li>
+</ul>
+<p>
+These data will not be combined with data from other sources. The basis for data
+processing is Art. 6 (1) (f) DSGVO, which allows the processing of data to fulfill
+a contract or for measures preliminary to a contract.</p>
+<h2>Analytics and advertising</h2>
+<h3>Google Analytics</h3>
+<p>
+This website uses Google Analytics, a web analytics service. It is operated by
+Google Inc., 1600 Amphitheatre Parkway, Mountain View, CA 94043, USA.</p>
+<p>
+Google Analytics uses so-called "cookies". These are text files that
+are stored on your computer and that allow an analysis of the use of the website
+by you. The information generated by the cookie about your use of this website is
+usually transmitted to a Google server in the USA and stored there.</p>
+<p>
+Google Analytics cookies are stored based on Art. 6 (1) (f) DSGVO. The website
+operator has a legitimate interest in analyzing user behavior to optimize both
+its website and its advertising.</p>
+<h4>IP anonymization</h4>
+<p>
+We have activated the IP anonymization feature on this website. Your IP address
+will be shortened by Google within the European Union or other parties to the Agreement
+on the European Economic Area prior to transmission to the United States. Only
+in exceptional cases is the full IP address sent to a Google server in the US
+and shortened there. Google will use this information on behalf of the operator
+of this website to evaluate your use of the website, to compile reports on website
+activity, and to provide other services regarding website activity and Internet
+usage for the website operator. The IP address transmitted by your browser as part
+of Google Analytics will not be merged with any other data held by Google.</p>
+<h4>Browser plugin</h4>
+<p>
+You can prevent these cookies being stored by selecting the appropriate settings
+in your browser. However, we wish to point out that doing so may mean you will not
+be able to enjoy the full functionality of this website. You can also prevent the
+data generated by cookies about your use of the website (incl. your IP address)
+from being passed to Google, and the processing of these data by Google, by downloading
+and installing the browser plugin available at the following link:
+<a href="https://tools.google.com/dlpage/gaoptout?hl%3Den">https://tools.google.com/dlpage/gaoptout?hl=en</a>.</p>
+<h4>Objecting to the collection of data</h4>
+<p>
+You can prevent the collection of your data by Google Analytics by clicking on
+the following link. An opt-out cookie will be set to prevent your data from being
+collected on future visits to this site: Disable Google Analytics.</p>
+<p>
+For more information about how Google Analytics handles user data, see
+Google's privacy policy: <a href="https://support.google.com/analytics/answer/6004245?hl%3Den">
+https://support.google.com/analytics/answer/6004245?hl=en</a>.</p>
+<h4>Outsourced data processing</h4>
+<p>
+We have entered into an agreement with Google for the outsourcing of our
+data processing and fully implement the strict requirements of the German data
+protection authorities when using Google Analytics.</p>
+<h4>Demographic data collection by Google Analytics</h4>
+<p>
+This website uses Google Analytics' demographic features. This allows
+reports to be generated containing statements about the age, gender, and
+interests of site visitors. This data comes from interest-based advertising
+from Google and third-party visitor data. This collected data cannot be
+attributed to any specific individual person. You can disable this feature
+at any time by adjusting the ads settings in your Google account or you can
+forbid the collection of your data by Google Analytics as described in the
+section "Refusal of data collection".</p>
+<h3>Google AdSense</h3>
+<p>
+This website uses Google AdSense, a service for including advertisements
+from Google Inc. ("Google"). It is operated by Google Inc.,
+1600 Amphitheatre Parkway, Mountain View, CA 94043, USA.</p>
+<p>
+Google AdSense uses so-called "cookies", which are text files stored in your
+computer that enable an analysis of the way you use the website. Google AdSense also
+uses so-called web beacons (invisible graphics). Through these web beacons, information
+such as the visitor traffic on these pages can be evaluated.</p>
+<p>
+The information generated by cookies and web beacons relating to your use of this
+website (including your IP address), and delivery of advertising formats, is
+transmitted to a Google server in the US and stored there. This information can
+be passed on from Google to contracting parties of Google. However, Google will not
+merge your IP address with other data you have stored.</p>
+<p>
+AdSense cookies are stored based on Art. 6 (1) (f) DSGVO. The website operator
+has a legitimate interest in analyzing user behavior to optimize both its
+website and its advertising.</p>
+<p>
+You can prevent the installation of cookies by setting your browser software accordingly.
+Please be aware that in this case, you may not be able to make full use of all the features
+of this website. By using this website, you agree to the processing of data relating to you
+and collected by Google as described and for the purposes set out above.</p>
+<h2>Plugins and tools</h2>
+<h3>Google Web Fonts</h3>
+<p>
+For uniform representation of fonts, this page uses web fonts provided by Google.
+When you open a page, your browser loads the required web fonts into your
+browser cache to display texts and fonts correctly.</p>
+<p>
+For this purpose your browser has to establish a direct connection to
+Google servers. Google thus becomes aware that our web page was accessed
+via your IP address. The use of Google Web fonts is done in the interest
+of a uniform and attractive presentation of our website. This constitutes
+a justified interest pursuant to Art. 6 (1) (f) DSGVO.</p>
+<p>
+If your browser does not support web fonts, a standard font is used by your computer.</p>
+<p>
+Further information about handling user data, can be found at
+<a href="https://developers.google.com/fonts/fa">https://developers.google.com/fonts/faq</a>
+and in Google's privacy policy at
+<a href="https://www.google.com/policies/privacy/">https://www.google.com/policies/privacy/</a>.</p>
+</div>
+</div>
+<h4>Languages</h4>
+<div class="information-block languages">
+<p class="contribute">
+Help make this service available to everyone in the world and translate distance.to into other languages. <a href="https://github.com/StephanGeorg/distance.to-i18n"> Translate now! </a> </p>
+<ul class="int">
+<li class="us"><a lang="en" href="https://www.distance.to" title="Calculate distances worldwide">Distance calculator</a></li>
+<li class="de"><a lang="de" href="https://www.luftlinie.org" title="Entfernung berechnen">Entfernungsrechner</a></li>
+<li class="da"><a lang="da" href="https://da.distance.to" title="Afstandsberegning">Afstandsberegning</a></li>
+<li class="es"><a lang="es" href="https://es.distance.to" title="Calcule la distancia">Distancia entre ciudades</a></li>
+<li class="pt"><a lang="pt" href="https://pt.distance.to" title="Calcule a distância!">Distancia entre cidades</a></li>
+<li class="fr"><a lang="fr" href="https://fr.distance.to" title="Calculer distance">Distance entre deux villes</a></li>
+<li class="it"><a lang="it" href="https://it.distance.to" title="Distanza Calcolatrice">Distanze chilometriche</a></li>
+<li class="nl"><a lang="nl" href="https://nl.distance.to" title="Afstand meten!">Afstand berekenen</a></li>
+<li class="se"><a lang="sv" href="https://sv.distance.to" title="Avstånd åtgärd!">Beräkna Avstånd</a></li>
+<li class="ru"><a lang="ru" href="https://ru.distance.to" title="Посчитать расстояние!">Калькулятор расстояний</a></li>
+<li class="ro"><a lang="ro" href="http://ro.distance.to" title="Calculaţi distanta!">Distanta de calculator</a></li>
+<li class="ar"><a lang="ar" href="https://ar.distance.to" title="">المسافة حاسبة</a></li>
+<li class="tr"><a lang="tr" href="http://tr.distance.to" title="şarj mesafe!">Mesafe hesaplama</a></li>
+</ul>
+</div>
+<h5 id="Imprint">Imprint</h5>
+<div class="information-block imprint">
+<p>
+Stephan Georg<br>
+c/o Luftlinie.org<br>
+Twitter: <a href="//twitter.com/StephanGeorg" title="Twitter">Follow me!</a><br>
+E-Mail: <a href="mailto:stephangeorg3@gmail.com">Contact us!</a>
+</p>
+<h5>Copyrights</h5>
+<p>
+Maps and Geodata: © OpenStreetMap contributors
+</p>
+<p>
+Favicons: Icon made by <a title="Freepik" href="http://www.freepik.com">Freepik</a> from <a title="Flaticon" href="http://www.flaticon.com">www.flaticon.com</a><br>
+</p>
+</div>
+<div id="Footer" class="footer">
+<a target="_new" href="/api" title="DistanceAPI">API</a> -
+<a target="_new" href="https://bulk.distance.to/" title="Excel distance calculation">Bulk</a> -
+<a target="_new" href="https://docs.distance.to" title="Help &amp; Documentation">Help</a> -
+<a href="https://status.distance.to/" target="_new" title="System Status">Status</a> -
+<a href="/privacy">Privacy policy</a>
+</div>
+</div>
+</div>
+<script>(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)})(window,document,'script','https://www.google-analytics.com/analytics.js','ga');ga('create','UA-26553830-2','auto');ga('set','anonymizeIp',true);ga('send','pageview');</script>
+<script src="//d2wy8f7a9ursnm.cloudfront.net/v5/bugsnag.min.js"></script>
+<script>window.bugsnagClient=bugsnag('1d3cabcb1803b3bf10c6749b32efef92')</script>
+<script src="//cdnjs.cloudflare.com/ajax/libs/jquery/1.7/jquery.min.js"></script>
+<script src="//cdnjs.cloudflare.com/ajax/libs/leaflet/1.1.0/leaflet.js"></script>
+<script src="//cdnjs.cloudflare.com/ajax/libs/jquery.devbridge-autocomplete/1.4.5/jquery.autocomplete.min.js"></script>
+<script src="//cdnjs.cloudflare.com/ajax/libs/jquery-cookie/1.4.1/jquery.cookie.min.js"></script>
+<script src="/public/js/lib,_leaflet.geodesic.min.js+lib,_leaflet.encoded.min.js+lib,_moment.js+directions.js+consent.js+ui.js+tracking.js.pagespeed.jc.agDWn22qGk.js"></script><script>eval(mod_pagespeed_SIf1P2$56V);</script>
+<script>eval(mod_pagespeed_kMvAGQfBPN);</script>
+<script>eval(mod_pagespeed_b0npkCNvRG);</script>
+<script>eval(mod_pagespeed_ySukIVPsZR);</script>
+<script>eval(mod_pagespeed_OEW6UnbhEc);</script>
+<script>eval(mod_pagespeed_U0cyffSM6o);</script>
+<script>eval(mod_pagespeed_71eZzH_9Bs);</script>
+
+
+<link rel="shortcut icon" type="image/x-icon" href="/xfavicon.png.pagespeed.ic.11XREkTB5Y.png">
+</body></html>
