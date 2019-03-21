@@ -1,11 +1,11 @@
-> *The following text is extracted and transformed from the legalservicesindia.com privacy policy that was archived on 2018-09-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180922093933id_/http%3A//www.legalserviceindia.com/objective.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the legalservicesindia.com privacy policy that was archived on 2019-03-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190321174818id_/http%3A//www.legalserviceindia.com/objective.htm) for the most accurate reproduction.*
 
 # Objective of legal service India
 
 **Our Commitment To Privacy  
 **Your privacy is important to us. To better protect your privacy we provide this notice explaining our online information practices and the choices you can make about the way your information is collected and used. To make this notice easy to find, we make it available on our homepage and at every point where personally identifiable information may be requested.
 
-This notice applies to all information collected from or submitted to the following Legal Service India.com Web site(s), but to make this notice easier to read we will refer here only "our Web site", meaning either Legal Service India.com, legalservicesindia.com and legalservices.co.in
+This notice applies to all information collected from or submitted to the following Legal Service India.com Web site(s), but to make this notice easier to read we will refer here only "our Web site", meaning either Legal Service India.com and legalservicesindia.com
 
 Our Web site contains links to other Web sites operated by third parties. Legal Service India.com is not responsible for the privacy practices or policies of such third party Web sites.
 
@@ -48,3 +48,22 @@ You can request a copy of the personally-identifiable information that Legal Ser
 **How To Contact Us**  
 If you would like to contact us for any reason regarding our privacy practices, kindly e-mail us at the following addresses:  
 **E-Mailing address** : [admin@legalserviceindia.com](mailto:admin@legalserviceindia.com)
+
+Print This Article 
+
+## How To Submit Your Article:
+
+### Follow the Procedure Below To Submit Your Articles
+
+[ ](https://web.archive.org/web/20190321174818id_/http%3A//legal/register.html)
+
+Submit your Article by using our online form **[Click here](https://web.archive.org/web/20190321174818id_/http%3A//legal/register.html)**  
+Note* we only accept **Original Articles** , we will not accept Articles Already Published in other websites.  
+For Further Details Contact: [ editor@legalserviceindia.com](mailto:editor@legalserviceindia.com)
+
+  
+
+
+## [ Divorce by Mutual Consent in Delhi/NCR](http://www.legalserviceindia.com/helpline/mutual_consent_divorce.htm)
+
+Right Away Call us at Ph no: 9650499965 
