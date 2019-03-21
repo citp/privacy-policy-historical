@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the hentaidude.com privacy policy that was archived on 2018-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180628082556id_/http%3A//hentaidude.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hentaidude.com privacy policy that was archived on 2019-03-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190321090353id_/https%3A//hentaidude.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Hentai Tube
+# Privacy Policy | Hentaidude.com
 
 This document details important information regarding the use and disclosure of User Data collected on Hentaidude.com
 
