@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the amcnetworks.com privacy policy that was archived on 2018-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181226180044id_/http%3A//www.amcnetworks.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the amcnetworks.com privacy policy that was archived on 2019-03-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190322002228id_/https%3A//www.amcnetworks.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy – AMC Networks Inc.
 
-**EFFECTIVE DATE: May 10th, 2017**
+**EFFECTIVE DATE: February 28th, 2019**
 
 1. WHAT IS THE SCOPE OF THIS PRIVACY POLICY?
 
@@ -38,7 +38,7 @@
 
 This Privacy Policy describes what information AMC Networks Inc. and its United States-based affiliate and subsidiary companies (together, “AMC” or “we” and sometimes “us”) collect about you and why, how we use and share that information, and the choices we offer.
 
-This Privacy Policy (“Policy”) is incorporated into the AMC [Terms of Service](http://www.amcnetworks.com/terms-of-use/), and applies to information obtained by us when you sign up for, use, access, download or otherwise interact with any AMC applications, mobile applications, games, sweepstakes, products, services, or websites and anywhere else where this policy is posted, including applications we make available on third party sites or platforms, if disclosed to you in connection with your use of the application (collectively, “Services”). This Policy does not apply to information that is collected outside the Services. This Policy applies regardless of whether you access the Services using a personal computer, mobile device, gaming console or other equipment or device.  If you disagree with the terms of this Policy, please do not use the Services.
+This Privacy Policy (“Policy”) is incorporated into the AMC [Terms of Service](https://www.amcnetworks.com/terms-of-use/), and applies to information obtained by us when you sign up for, use, access, download or otherwise interact with any AMC applications, mobile applications, games, sweepstakes, products, services, or websites and anywhere else where this policy is posted, including applications we make available on third party sites or platforms, if disclosed to you in connection with your use of the application (collectively, “Services”). This Policy does not apply to information that is collected outside the Services. This Policy applies regardless of whether you access the Services using a personal computer, mobile device, gaming console or other equipment or device.  If you disagree with the terms of this Policy, please do not use the Services.
 
 ## **2.  ** **WILL THIS POLICY EVER CHANGE?**
 
@@ -134,7 +134,7 @@ This Policy and all disputes arising hereunder or relating hereto shall be gover
 
 ## **14.  ** **WHERE IS MY INFORMATION STORED AND PROCESSED?  **
 
-The information we collect from you through your use of the Services is stored and processed in the United States in compliance with New York State and United States law.  If you are not a United States citizen, do not use the Services.
+Our services are intended only for individuals located in the United States and Canada. If you visit our Services or contact us from outside of the United States, please be advised that (1) any information you provide to us or that we automatically collect will be stored or otherwise processed in the United States and may be transferred to other jurisdictions; (2) that by using our Services or submitting information to us, you agree to such processing and transfer; and (3) U.S. law may not offer the same privacy protections as those in your country.
 
 ## **15.  ** **HOW CAN I CONTACT YOU?**
 
