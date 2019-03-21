@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the youqueen.com privacy policy that was archived on 2018-01-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180128103432id_/https%3A//youqueen.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the youqueen.com privacy policy that was archived on 2019-03-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190321010655id_/https%3A//youqueen.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - YouQueen
 
-This Privacy Policy governs the manner in which YOUQUEEN LIMITED’s YouQueen.com collects, uses, maintains and discloses information collected from users (each, a “User”) of the [http://www.youqueen.com](http://www.youqueen.com/) website (“Site”). This privacy policy applies to the Site and all products and services offered by YOUQUEEN LIMITED.
+This Privacy Policy governs the manner in which YOUQUEEN LIMITED's YouQueen.com collects, uses, maintains and discloses information collected from users (each, a “User”) of the [http://www.youqueen.com](http://www.youqueen.com/) website (“Site”). This privacy policy applies to the Site and all products and services offered by YOUQUEEN LIMITED.
 
 ## Personal identification information
 
@@ -14,9 +14,9 @@ We may collect non-personal identification information about Users whenever they
 
 ## Web browser cookies
 
-Our Site may use “cookies” to enhance User experience. User’s web browser places cookies on their hard drive for record-keeping purposes and sometimes to track information about them. User may choose to set their web browser to refuse cookies, or to alert you when cookies are being sent. If they do so, note that some parts of the Site may not function properly.
+Our Site may use “cookies” to enhance User experience. User's web browser places cookies on their hard drive for record-keeping purposes and sometimes to track information about them. User may choose to set their web browser to refuse cookies, or to alert you when cookies are being sent. If they do so, note that some parts of the Site may not function properly.
 
-You can opt out of some, but not all, of these cookies in one location at the Network Advertising Initiative opt-out website at [www.networkadvertising.org/managing/opt_out.asp](http://www.networkadvertising.org/managing/opt_out.asp).
+You can opt out of some, but not all, of these cookies in one location at the Network Advertising Initiative opt-out website at [www.networkadvertising.org/managing/opt_out.asp](https://www.networkadvertising.org/managing/opt_out.asp).
 
 ## What is a “Cookie”?
 
@@ -51,7 +51,7 @@ We do not sell, trade, or rent Users personal identification information to othe
 
 ## Third party websites
 
-Users may find advertising or other content on our Site that link to the sites and services of our partners, suppliers, advertisers, sponsors, licensors and other third parties. We do not control the content or links that appear on these sites and are not responsible for the practices employed by websites linked to or from our Site. In addition, these sites or services, including their content and links, may be constantly changing. These sites and services may have their own privacy policies and customer service policies. Browsing and interaction on any other website, including websites which have a link to our Site, is subject to that website’s own terms and policies.
+Users may find advertising or other content on our Site that link to the sites and services of our partners, suppliers, advertisers, sponsors, licensors and other third parties. We do not control the content or links that appear on these sites and are not responsible for the practices employed by websites linked to or from our Site. In addition, these sites or services, including their content and links, may be constantly changing. These sites and services may have their own privacy policies and customer service policies. Browsing and interaction on any other website, including websites which have a link to our Site, is subject to that website's own terms and policies.
 
 ## Advertising & Affiliate Disclosure
 
@@ -113,11 +113,13 @@ The use of this website is subject to the following terms of use:
 
 
 
+YouQueen LTD collects some personal information from our visitors via pop ups and landing pages, such as email address and name. We do this to better personalize our communication and marketing messages. By submitting my information, you acknowledge that you will be receiving educational and promotional emails from YouQueen LTD. You also have the option of unsubscribing anytime by clicking the Unsubscribe button at the bottom of every email, and YouQueen LTD will delete your information completely from our systems. YouQueen LTD will not share your information with third-parties and that your information will be safely and securely stored within an email service provider YouQueen LTD uses. If there are any changes to this agreement, YouQueen LTD must first inform you and ask you for your consent.  If you have any questions at all you can contact us by sending an email to [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#2a4945445e4b495e6a53455f5b5f4f4f4404494547) and we’ll get back to you as soon as we can.
+
 ## Contacting us
 
 If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this site, please contact us at:
 
-contact@youqueen.com
+[[email protected]](https://web.archive.org/cdn-cgi/l/email-protection)
 
 [http://www.youqueen.com](http://www.youqueen.com/)
 
