@@ -1,8 +1,9 @@
-<!--The following is the downloaded HTML source of the getprice.com.au privacy policy that was archived on 2018-09-03.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20180903231617id_/https%3A//www.getprice.com.au/Privacy-Charter.htm) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the getprice.com.au privacy policy that was archived on 2019-03-21.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20190321150156id_/https%3A//www.getprice.com.au/Privacy-Charter.htm) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en" class="not-ie breakpoint-6"><!--<![endif]--><head id="Head1"><meta name="apple-itunes-app" content="app-id=1229611204"><script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-5K6FT3"></script><script async="" type="text/javascript" src="https://www.googletagservices.com/tag/js/gpt.js"></script><script>dataLayer = [{}];</script><link rel="stylesheet" href="/dist/css/getprice2_responsive2.min.css?v=&lt;%: Version %&gt;"><link rel="stylesheet" href="/dist/css/getprice2.min.css?v=&lt;%: Version %&gt;">
-    <script src="/dist/js/app.min.js?v=16"></script>
+ 
+    <script src="/dist/js/app.min.js?v=33"></script>
     
     <!-- Google Fonts -->
     <link href="https://fonts.googleapis.com/css?family=Rokkitt:400,700" rel="stylesheet" type="text/css">
@@ -34,26 +35,30 @@
         window.ads = {
             list: {},
             mappings: {
+                mini: googletag.sizeMapping().addSize([800, 100], [728, 90]).addSize([0, 0], [320, 50]).build(),
                 leaderboard: googletag.sizeMapping().addSize([800, 100], [728, 90]).addSize([0, 0], [300, 250]).build(),
                 main: googletag.sizeMapping().addSize([1000, 100], [970, 250]).addSize([0, 0], [300, 250]).build(),
-                sticky: googletag.sizeMapping().addSize([768, 100], []).addSize([0, 0], [320, 50]).build(),
+                sticky: googletag.sizeMapping().addSize([768, 100], []).addSize([0, 0], [320, 50]).build()
             },
             add: function (slot, name) {
                 window.ads.list[name] = slot;
             }
         };
 
+        // googletag.pubads().disableInitialLoad();
         // Enable Async mode
         googletag.pubads().enableAsyncRendering();
        
         // Collapse Ad container when blank
-        googletag.pubads().collapseEmptyDivs(true);
+        // googletag.pubads().collapseEmptyDivs(true);
 
         // Set category targeting for all DFP ads
-        if (dataLayer && dataLayer[0] && dataLayer[0].dfp) { 
-            googletag.pubads().setTargeting('category', JSON.parse(dataLayer[0].dfp));
+        if (dataLayer && dataLayer[0] && (dataLayer[0].dfp || dataLayer[0].category1)) { 
+            googletag.pubads().setTargeting('category', dataLayer[0].dfp || [dataLayer[0].category1, dataLayer[0].category2, dataLayer[0].category3].filter(function (x) { return x; }));
         }
-            
+
+        // googletag.pubads().enableSingleRequest();
+    
         // Enable the Ad service
         googletag.enableServices();
     });
@@ -343,7 +348,7 @@ hr {
 <header id="header">
     <div class="container">
         <h1 class="logo row">
-            <a id="ucSiteHeader_SiteLogo" title="GetPrice Australia" href="/" style="display:inline-block;width:207px;"><img title="GetPrice Australia" src="/images/logos/gp_logo.png" alt="GetPrice Australia"></a>
+            <a id="ucSiteHeader_SiteLogo" title="GetPrice Australia" href="/" style="display:inline-block;width:207px;"><img title="GetPrice Australia" src="/images/_new/GP_Logo.png" alt="GetPrice Australia"></a>
         </h1>
     </div>
     <div class="fullwidth container">
