@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cinematerial.com privacy policy that was archived on 2018-09-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180903181705id_/https%3A//www.cinematerial.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cinematerial.com privacy policy that was archived on 2019-03-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190321042605id_/https%3A//www.cinematerial.com/privacy-policy) for the most accurate reproduction.*
 
 # CineMaterial - Gallery of 700,000+ movie posters
 
