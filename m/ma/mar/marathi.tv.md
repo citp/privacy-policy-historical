@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the marathi.tv privacy policy that was archived on 2018-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181124222152id_/https%3A//www.marathi.tv/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the marathi.tv privacy policy that was archived on 2019-03-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190321162335id_/https%3A//www.marathi.tv/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Marathi.TV
 
@@ -85,4 +85,4 @@ We will notify the users via email sent from the following address : _[contact.m
 
 We also agree to the individual redress principle, which requires that individuals have a right to pursue legally enforceable rights against data collectors and processors who fail to adhere to the law. This principle requires not only that individuals have enforceable rights against data users, but also that individuals have recourse to courts or a government agency to investigate and/or prosecute non-compliance by data processors.
 
-If at any time you would like to know more about our privacy policy & cookies usage, you can email us at **[contact.marathitv@gmail.com](mailto:%63ontact.m%61ra%74hi%74%76@%67mail.c%6Fm)** and and we will promptly respond to you.
+If at any time you would like to know more about our privacy policy & cookies usage, you can email us at **[contact.marathitv@gmail.com](mailto:%63ontact.m%61ra%74hi%74%76@%67mail.c%6Fm)** and we will promptly respond to you.
