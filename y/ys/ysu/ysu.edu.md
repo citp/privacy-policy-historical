@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ysu.edu privacy policy that was archived on 2018-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181220192647id_/https%3A//ysu.edu/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ysu.edu privacy policy that was archived on 2019-03-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190321091459id_/https%3A//ysu.edu/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | YSU
 
