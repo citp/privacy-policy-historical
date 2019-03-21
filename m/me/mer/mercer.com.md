@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mercer.com privacy policy that was archived on 2018-09-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180917160118id_/https%3A//www.mercer.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mercer.com privacy policy that was archived on 2019-03-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190321084931id_/https%3A//www.mercer.com/privacy.html) for the most accurate reproduction.*
 
 # Mercer Privacy Notice
 
@@ -54,15 +54,15 @@ Some Other Matters
   
 Accessing and Correcting Your Information:
 
-Keeping your information accurate and up-to-date is very important. Inaccurate or incomplete information could impact our ability to deliver relevant services to you.  Please let us know about any changes that may be required to your personal information using the “contact us” feature of this website.
+Keeping your information accurate and up-to-date is very important. Inaccurate or incomplete information could impact our ability to deliver relevant services to you. Please let us know about any changes that may be required to your personal information using the “contact us” feature of this website.
 
 **External Links:**
 
-This Site includes links to other sites that are operated by organizations other than the Company.  If you access another organization’s website using a link provided, the other organization may collect information from you.  The Company is not responsible for the content or privacy practices of linked websites or their use.  Once you have left this Site via such a link (you can tell where you are by checking the URL in the location bar on your browser), you should refer to those websites' privacy policies, terms of use, and practices to determine how they will handle any information they collect from you.
+This Site includes links to other sites that are operated by organizations other than the Company. If you access another organization’s website using a link provided, the other organization may collect information from you.  The Company is not responsible for the content or privacy practices of linked websites or their use.  Once you have left this Site via such a link (you can tell where you are by checking the URL in the location bar on your browser), you should refer to those websites' privacy policies, terms of use, and practices to determine how they will handle any information they collect from you.
 
 **Applicability of This Privacy Statement to International Users:**
 
-This Privacy Statement is provided in accordance with and subject to U.S. law.  If you access this Site from a location outside of the United States, you agree that your use of this Site is subject to the terms of this Privacy Statement and the Terms of Use and you recognize and accept that your personal information may be transferred to and processed in the U.S. and other countries that may not be deemed to provide the same level of data protection as your home country and that may have been deemed to have inadequate data privacy laws under the laws of your jurisdiction.  See also the Privacy Statement or Policy available on other Mercer sites, such as country specific sites like mercer.xx or special purposes sites such as imercer.com, for information about privacy treatments for users of these sites.
+This Privacy Statement is provided in accordance with and subject to U.S. law. If you access this Site from a location outside of the United States, you agree that your use of this Site is subject to the terms of this Privacy Statement and the Terms of Use and you recognize and accept that your personal information may be transferred to and processed in the U.S. and other countries that may not be deemed to provide the same level of data protection as your home country and that may have been deemed to have inadequate data privacy laws under the laws of your jurisdiction.  See also the Privacy Statement or Policy available on other Mercer sites, such as country specific sites like mercer.xx or special purposes sites such as imercer.com, for information about privacy treatments for users of these sites.
 
 **Children:**
 
@@ -89,4 +89,4 @@ Mercer LLC
 New York, New York 10036  
 USA
 
-© 2018, MERCER LLC. ALL RIGHTS RESERVED
+© 2019, MERCER LLC. ALL RIGHTS RESERVED
