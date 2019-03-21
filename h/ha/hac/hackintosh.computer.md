@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the hackintosh.computer privacy policy that was archived on 2018-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181202024845id_/https%3A//www.hackintosh.computer/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hackintosh.computer privacy policy that was archived on 2019-03-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190321230649id_/https%3A//www.hackintosh.computer/privacy) for the most accurate reproduction.*
 
-# Privacy Policy - 1 / 1 - Hackintosh Computer
+# Privacy Policy - Hackintosh Computer
 
-This Privacy Policy governs the manner in which The Hackintosh Computer collects, uses, maintains and discloses information collected from users (each, a “User”) of the [www.Hackintosh.Computer](https://www.hackintosh.computer/) website (“Site”). This privacy policy applies to the Site and all products and services offered by The Hackintosh Computer .
+This Privacy Policy governs the manner in which The Hackintosh Computer collects, uses, maintains and discloses information collected from users (each, a “User”) of the [www.hackintosh.computer](https://www.hackintosh.computer/) website (“Site”). This privacy policy applies to the Site and all products and services offered by The Hackintosh Computer .
 
  **Personal identification information**
 
