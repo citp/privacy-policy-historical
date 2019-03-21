@@ -1,136 +1,175 @@
-> *The following text is extracted and transformed from the nutrifox.com privacy policy that was archived on 2017-03-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170313060727id_/https%3A//nutrifox.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nutrifox.com privacy policy that was archived on 2019-03-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190321163714id_/https%3A//nutrifox.com/privacy) for the most accurate reproduction.*
 
 # Nutrifox Privacy Policy
 
-Food Blogger Pro, LLC ("us", "we", or "our") operates the [https://nutrifox.com](https://nutrifox.com/) website (the "Service").
+As the owner of this website (nutrifox.com, referred to as the “Site”), Nutrifox LLC understands that your privacy is of critical importance. This Privacy Policy describes what information we collect from you via the Site and how we use and disclose such information.
 
-This page informs you of our policies regarding the collection, use and disclosure of Personal Information when you use our Service.
+## Our Use of Cookies
 
-We will not use or share your information with anyone except as described in this Privacy Policy.
+A cookie is a file containing an identifier (a string of letters and numbers) that is sent by a web server to a web browser and is stored by the browser. The identifier is then sent back to the server each time the browser requests a page from the server. Cookies may be either “persistent” cookies or “session” cookies: a persistent cookie will be stored by a web browser and will remain valid until its set expiry date, unless deleted by the user before the expiry date; a session cookie, on the other hand, will expire at the end of the user session, when the web browser is closed. Cookies do not typically contain any information that personally identifies a user, but personal information that we store about you may be linked to the information stored in and obtained from cookies.
 
-We use your Personal Information for providing and improving the Service. By using the Service, you agree to the collection and use of information in accordance with this policy. Unless otherwise defined in this Privacy Policy, terms used in this Privacy Policy have the same meanings as in our Terms and Conditions, accessible at [https://nutrifox.com](https://nutrifox.com/).
+We use cookies for the following purposes:
 
-**Information Collection And Use**
+(a) Authentication: We use cookies to identify you when you visit our website and as you navigate our website;
 
-While using our Service, we may ask you to provide us with certain personally identifiable information that can be used to contact or identify you. Personally identifiable information may include, but is not limited to, your email address, name ("Personal Information"). We collect this information for the purpose of providing the Service, identifying and communicating with you, responding to your requests/inquiries, servicing your purchase orders, and improving our services.
+(b) Status: We use cookies to help us to determine if you are logged into our website;
 
-**Log Data**
+(c) Personalization: We use cookies to store information about your preferences and to personalize the website for you;
 
-We may also collect information that your browser sends whenever you visit our Service ("Log Data"). This Log Data may include information such as your computer's Internet Protocol ("IP") address, browser type, browser version, the pages of our Service that you visit, the time and date of your visit, the time spent on those pages and other statistics.
+(d) Security: We use cookies as an element of the security measures used to protect user accounts, including preventing fraudulent use of login credentials, and to protect our website and services generally;
 
-In addition, we may use third party services such as Google Analytics that collect, monitor and analyze this type of information in order to increase our Service's functionality. These third party service providers have their own privacy policies addressing how they use such information.
+(e) Analysis: We use cookies to help us to analyze the use and performance of our website and services;
 
-**Cookies**
+## Google Analytics
 
-Cookies are files with a small amount of data, which may include an anonymous unique identifier. Cookies are sent to your browser from a web site and transferred to your device. We use cookies to collect information in order to improve our services for you.
+We use Google Analytics to analyze the use of our website. Google Analytics gathers information about website use by means of cookies. The information gathered relating to our website is used to create reports about the use of our website. 
 
-You can instruct your browser to refuse all cookies or to indicate when a cookie is being sent. The Help feature on most browsers provide information on how to accept cookies, disable cookies or to notify you when receiving a new cookie.
+Google’s privacy policy is available at: <https://www.google.com/policies/privacy/>
 
-If you do not accept cookies, you may not be able to use some features of our Service and we recommend that you leave them turned on.
+Most browsers allow you to refuse to accept cookies and to delete cookies. The methods for doing so vary from browser to browser, and from version to version. You can however obtain up-to-date information about blocking and deleting cookies via these links:
 
-**Behavioral Remarketing**
+(a) <https://support.google.com/chrome/answer/95647?hl=en> (Chrome);
 
-Food Blogger Pro, LLC uses remarketing services to advertise on third party web sites to you after you visited our Service. We, and our third party vendors, use cookies to inform, optimize and serve ads based on your past visits to our Service.
+(b) <https://support.mozilla.org/en-US/kb/enable-and-disable-cookies-website-preferences> (Firefox);
 
-  * Google
+(c) <http://www.opera.com/help/tutorials/security/cookies/> (Opera);
 
-Google AdWords remarketing service is provided by Google Inc.
+(d) <https://support.microsoft.com/en-gb/help/17442/windows-internet-explorer-delete-manage-cookies> (Internet Explorer);
 
-You can opt-out of Google Analytics for Display Advertising and customize the Google Display Network ads by visiting the Google Ads Settings page: <http://www.google.com/settings/ads>
+(e) <https://support.apple.com/kb/PH21411> (Safari); and
 
-Google also recommends installing the Google Analytics Opt-out Browser Add-on - https://tools.google.com/dlpage/gaoptout - for your web browser. Google Analytics Opt-out Browser Add-on provides visitors with the ability to prevent their data from being collected and used by Google Analytics.
+(f) [https://privacy.microsoft.com/en-us/windows–10-microsoft-edge-and-privacy](https://privacy.microsoft.com/en-us/windows-10-microsoft-edge-and-privacy) (Edge).
 
-For more information on the privacy practices of Google, please visit the Google Privacy & Terms web page: <http://www.google.com/intl/en/policies/privacy/>
+Please note that blocking cookies may have a negative impact on the functions of many websites, including our Site. Some features of the Site may cease to be available to you.
 
-  * Twitter
+## Hotjar
 
-Twitter remarketing service is provided by Twitter Inc.
+We use [Hotjar](https://www.hotjar.com/) in order to better understand our users’ needs and to optimize this service and experience. Hotjar is a technology service that helps us better understand our users experience (e.g. how much time they spend on which pages, which links they choose to click, what users do and don’t like, etc.) and this enables us to build and maintain our service with user feedback. Hotjar uses cookies and other technologies to collect data on our users’ behavior and their devices (in particular device’s IP address (captured and stored only in anonymized form), device screen size, device type (unique device identifiers), browser information, geographic location (country only), preferred language used to display our website). Hotjar stores this information in a pseudonymized user profile. Neither Hotjar nor we will ever use this information to identify individual users or to match it with further data on an individual user. For further details, please see Hotjar’s privacy policy by clicking on [this link](https://www.hotjar.com/legal/policies/privacy).
 
-You can opt-out from Twitter's interest-based ads by following their instructions: <https://support.twitter.com/articles/20170405>
+You can opt-out to the creation of a user profile, Hotjar’s storing of data about your usage of our site and Hotjar’s use of tracking cookies on other websites by following this [opt-out link](https://www.hotjar.com/legal/compliance/opt-out). 
 
-You can learn more about the privacy practices and policies of Twitter by visiting their Privacy Policy page: <https://twitter.com/privacy>
+## Intercom
 
-  * Facebook
+We use third-party analytics services to help understand your usage of our services. In particular, we provide a limited amount of your information (such as sign-up date and some personal information like your email address) to Intercom, Inc. (“Intercom”) and utilize Intercom to collect data for analytics purposes when you visit our website or use our product. As a data processor acting on our behalf, Intercom analyzes your use of our website and/or product and tracks our relationship by way of cookies and similar technologies so that we can improve our service to you. For more information on Intercom’s use of cookies, please visit <https://www.intercom.com/terms-and-policies#cookie-policy>. We may also use Intercom as a medium for communications, either through email, or through messages within our product(s). As part of our service agreements, Intercom collects publicly available contact and social information related to you, such as your email address, gender, company, job title, photos, website URLs, social network handles and physical addresses, to enhance your user experience. For more information on the privacy practices of Intercom, please visit <https://www.intercom.com/terms-and-policies#privacy>. Intercom’s services are governed by Intercom’s terms of use which can be found at <https://www.intercom.com/terms-and-policies#terms>. If you would like to opt out of having this information collected by or submitted to Intercom, please contact us.
 
-Facebook remarketing service is provided by Facebook Inc.
+## Zapier
 
-You can learn more about interest-based advertising from Facebook by visiting this page: <https://www.facebook.com/help/164968693837950>
+WP Tasty uses Zapier to send information such as your name and email address to other services listed here. This information is used by Zapier in accordance with their [privacy policy](https://zapier.com/privacy/).
 
-To opt-out from Facebook's interest-based ads follow these instructions from Facebook: <https://www.facebook.com/about/ads/#568137493302217>
+## ActiveCampaign
 
-Facebook adheres the Self-Regulatory Principles for Online Behavioral Advertising established by the Digital Advertising Alliance. You can also opt-out from Facebook and other participating companies through the Digital Advertising Alliance in the USA <http://www.aboutads.info/choices/>, the Digital Advertising Alliance of Canada in Canada http://youradchoices.ca/ or the European Interactive Digital Advertising Alliance in Europe http://www.youronlinechoices.eu/, or opt-out using your mobile device settings.
+WP Tasty uses ActiveCampaign to send emails to our customers and customer prospects. We may share your name, email address, and payment history with ActiveCampaign to improve your experience with our email marketing. This information is used by ActiveCampaign in accordance with their [privacy policy](https://www.activecampaign.com/privacy-policy/).
 
-For more information on the privacy practices of Facebook, please visit Facebook's Data Policy: <https://www.facebook.com/privacy/explanation>
+## Comments
 
-  * Pinterest
+If you leave a comment on our site you may opt-in to saving your name, email address and website in cookies. These are for your convenience so that you do not have to fill in your details again when you leave another comment. These cookies will last for one year.
 
-Pinterest remarketing service is provided by Pinterest Inc.
+Visitor comments may be checked through an automated spam detection service.
 
-You can opt-out from Pinterest's interest-based ads by enabling the "Do Not Track" functionality of your web browser or by following Pinterest instructions: <http://help.pinterest.com/en/articles/personalization-and-data>
+## How Long We Retain Your Data
 
-You can learn more about the privacy practices and policies of Pinterest by visiting their Privacy Policy page: <https://about.pinterest.com/en/privacy-policy>
+If you leave a comment, the comment and its metadata are retained indefinitely. This is so we can recognize and approve any follow-up comments automatically instead of holding them in a moderation queue.
 
+For users that register on our website, we also store the personal information they provide in their user profile. All users can see, edit, or delete their personal information at any time. Website administrators can also see and edit that information.
 
+## Embedded Content from Other Sites
 
+Articles on this site may include embedded content (e.g. videos, images, articles, etc.). Embedded content from other websites behaves in the exact same way as if the visitor has visited the other website.
 
-**Do Not Track Disclosure**
+These websites may collect data about you, use cookies, embed additional third-party tracking, and monitor your interaction with that embedded content, including tracking your interaction with the embedded content if you have an account and are logged in to that website.
 
-We support Do Not Track ("DNT"). Do Not Track is a preference you can set in your web browser to inform websites that you do not want to be tracked.
+## Email Addresses
 
-You can enable or disable Do Not Track by visiting the Preferences or Settings page of your web browser.
+We may collect your email address, but only if you voluntarily provide it to us. This may occur, for example, if you sign up to receive an email newsletter, or enter a promotion. We will use your email address for the purposes for which you provided it to us, and also from time to time to send you emails regarding the Site or other products or services that we believe may be of interest to you. You may opt out of such email communications at any time by clicking the “unsubscribe” button in the email.
 
-**Service Providers**
+We will not share your email address with any third parties.
 
-We may employ third party companies and individuals to facilitate our Service, to provide the Service on our behalf, to perform Service-related services and/or to assist us in analyzing how our Service is used.
+In addition, we may ask you to create a user profile, which would allow you to create a username and password. We will store the username, but your password will not be visible in our records. 
 
-These third parties have access to your Personal Information only to perform specific tasks on our behalf and are obligated not to disclose or use your information for any other purpose.
+If you are a resident of a country in the European Economic Area (EEA), please refer to the section below entitled “Additional Rights of EEA Residents.”
 
-**Communications**
+## How Your Information May Be Used
 
-We may use your Personal Information to contact you with newsletters, marketing or promotional materials and other information that may be of interest to you. You may opt out of receiving any, or all, of these communications from us by following the unsubscribe link or instructions provided in any email we send.
+We may use the information collected in the following ways: 
 
-**Compliance With Laws**
+  * To operate and maintain the Site;
+  * To create your account, identify you as a user of the Site, and customize the Site for your account;
+  * To send you promotional information, such as newsletters. Each email promotion will provide information on how to opt-out of future mailings;
+  * To send you administrative communications, such as administrative emails, confirmation emails, technical notices, updates on policies, or security alerts;
+  * To respond to your comments or inquiries;
+  * To provide you with user support;
+  * To track and measure advertising on the Site;
+  * To process payment for purchases you make through the Site; or,
+  * To protect, investigate, and deter against unauthorized or illegal activity.
 
-We will disclose your Personal Information where required to do so by law or subpoena or if we believe that such action is necessary to comply with the law and the reasonable requests of law enforcement or to protect the security or integrity of our Service.
 
-**Business Transaction**
 
-If Food Blogger Pro, LLC is involved in a merger, acquisition or asset sale, your Personal Information may be transferred as a business asset. In such cases, we will provide notice before your Personal Information is transferred and/or becomes subject to a different Privacy Policy.
+## Registration or Account Data
 
-**Security**
+We may collect other information from you when you register with our Site in order to use various features. Such information could include your name, birthday, postal code, screen name, and password (if applicable). As you use the Site, we could collect other data that you provide voluntarily (such as comments that you post).
 
-The security of your Personal Information is important to us, and we strive to implement and maintain reasonable, commercially acceptable security procedures and practices appropriate to the nature of the information we store, in order to protect it from unauthorized access, destruction, use, modification, or disclosure.
+We may also collect information about you through other methods, including research surveys, social media platforms, verification services, data services, as well as public sources. We may combine this data with your registration data in order to maintain a more thorough profile.
 
-However, please be aware that no method of transmission over the internet, or method of electronic storage is 100% secure and we are unable to guarantee the absolute security of the Personal Information we have collected from you.
+We may use your personally-identifying information for a variety of our internal business purposes, such as creating a better user experience for the Site, diagnosing and troubleshooting malfunctions on the Site, better understanding how the Site is used, and making personalized recommendations to you.
 
-**International Transfer**
+If you are a resident of a country in the European Economic Area (EEA), please refer to the section below entitled “Additional Rights of EEA Residents.” 
 
-Your information, including Personal Information, may be transferred to and maintained on computers located outside of your state, province, country or other governmental jurisdiction where the data protection laws may differ than those from your jurisdiction.
+## Transactional Data
 
-If you are located outside United States and choose to provide information to us, please note that we transfer the information, including Personal Information, to United States and process it there.
+We may process information relating to transactions, including purchases of goods and services, that you enter into with us and/or through our Site (“Transactional Data”). The Transactional Data may include your contact details, your card details and the transaction details. The transaction data may be processed for the purpose of supplying the purchased goods and services and keeping proper records of those transactions. Payment processing on our Site is handled by our payment services providers, PayPal and Stripe. We will share transaction data with our payment services providers only to the extent necessary for the purposes of processing your payments, refunding such payments and dealing with complaints and queries relating to such payments and refunds. You can find information about the payment services providers’ privacy policies and practices at <https://www.paypal.com/us/webapps/mpp/ua/privacy-full> and <https://stripe.com/privacy>.
 
-Your consent to this Privacy Policy followed by your submission of such information represents your agreement to that transfer.
+## Retargeting Ads
 
-**Links To Other Sites**
+From time to time, the Site may engage in remarketing efforts with third-party companies, such as Google, Facebook, or Instagram, in order to market the Site. These companies use cookies to serve ads based on someone’s past visits to the Site. 
 
-Our Service may contain links to other sites that are not operated by us. If you click on a third party link, you will be directed to that third party's site. We strongly advise you to review the Privacy Policy of every site you visit.
+## Affiliate Program Participation
 
-We have no control over, and assume no responsibility for the content, privacy policies or practices of any third party sites or services.
+The Site may engage in affiliate marketing, which is done by embedding tracking links into the Site. If you click on a link for an affiliate partnership, a cookie will be placed on your browser to track any sales for purposes of commissions. 
 
-**Children's Privacy**
+The Site is a participant in the Amazon Services LLC Associates Program, an affiliate advertising program designed to provide a means for sites to earn advertising fees by advertising and links to Amazon.com. As part of this Amazon Associates program, the Site will post customized links, provided by Amazon, to track the referrals to their website. This program utilizes cookies to track visits for the purposes of assigning commission on these sales.
 
-Only persons age 18 or older have permission to access our Service. Our Service does not address anyone under the age of 13 ("Children").
+## Newsletters or Email Lists
 
-We do not knowingly collect personally identifiable information from children under 13. If you are a parent or guardian and you learn that your Children have provided us with Personal Information, please contact us. If we become aware that we have collected Personal Information from a children under age 13 without verification of parental consent, we take steps to remove that information from our servers.
+On the Site, you may subscribe to our newsletter or email list, which may be used for advertising purposes. All newsletters sent may contain tracking pixels. The pixel is embedded in emails and allows an analysis of the success of online marketing campaigns. Because of these tracking pixels, we may see if and when you open an email and which links within the email you click. Also, this allows the Site to adapt the content of future newsletters to the interests of the user. This behavior will not be passed on to third parties
 
-**Changes To This Privacy Policy**
+## Additional Rights of EEA (European Economic Area) Residents
 
-This Privacy Policy is effective as of June 27, 2016 and will remain in effect except with respect to any changes in its provisions in the future, which will be in effect immediately after being posted on this page.
+If you are a resident of a country in the EEA, you have the rights, among others, to:
 
-We reserve the right to update or change our Privacy Policy at any time and you should check this Privacy Policy periodically. Your continued use of the Service after we post any modifications to the Privacy Policy on this page will constitute your acknowledgment of the modifications and your consent to abide and be bound by the modified Privacy Policy.
+(i) access your personal data
 
-If we make any material changes to this Privacy Policy, we will notify you either through the email address you have provided us, or by placing a prominent notice on our website.
+(ii) ensure the accuracy of your personal data
 
-**Contact Us**
+(iii) the right to have us delete your personal data
 
-If you have any questions about this Privacy Policy, please contact us.
+(iv) the right to restrict further processing of your personal data, and
+
+(v) the right to complain to a supervisory authority in your country of residence in the event that data is misused
+
+If you believe that our processing of your personal information infringes data protection laws, you have a legal right to lodge a complaint with a supervisory authority responsible for data protection. You may do so in the EU member state of your residence, your place of work or the place of the alleged infringement.
+
+You may exercise any of your rights in relation to your personal data by written notice to us addressed to the following:
+
+EU Privacy Complaints  
+2400 North 2nd Street  
+Suite #311  
+Minneapolis, MN 55411
+
+## Sale of Business or Assets
+
+In the event that the Site or substantially all of its assets is sold or disposed of as a going concern, whether by merger, sale of assets or otherwise, or in the event of an insolvency, bankruptcy or receivership, the information we have collected about you may be one of the assets sold or merged in connection with that transaction.
+
+## Changes to the Privacy Policy
+
+We may change this Privacy Policy from time to time. The most recent version of the Privacy Policy will always be posted on the Site, with the “Effective Date” posted at the top of the Policy. We may revise and update this Privacy Policy if our practices change, as technology changes, or as we add new services or change existing ones. If we make any material changes to our Privacy Policy or how we handle your personal information, or we are going to use any personal information in a manner that is materially different from that stated in our Privacy Policy at the time we collected such information, we will give you a reasonable opportunity to consent to the change. If you do not consent, your personal information will be used as agreed to under the terms of the privacy policy in effect at the time we obtained that information. By using our Site or services after the Effective Date, you are deemed to consent to our then-current privacy policy. We will use information previously obtained in accordance with the Privacy Policy in effect when the information was obtained from you.
+
+## Contacting Us
+
+If you have any questions about this Privacy Policy, or the practices of this Site, please contact us at info@nutrifox.com.
+
+Or write to us at:
+
+Nutrifox LLC  
+2400 North 2nd Street  
+Suite #311  
+Minneapolis, MN 55411
