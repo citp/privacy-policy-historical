@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wyndhamvacationrentals.com privacy policy that was archived on 2018-09-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180906131512id_/https%3A//www.wyndhamvacationrentals.com/content/privacy-notice) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wyndhamvacationrentals.com privacy policy that was archived on 2019-03-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190321092559id_/https%3A//www.wyndhamvacationrentals.com/content/privacy-notice) for the most accurate reproduction.*
 
 # Privacy Notice | Wyndham Vacation Rentals
 
