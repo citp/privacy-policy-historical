@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the redmondmag.com privacy policy that was archived on 2018-09-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180916024942id_/https%3A//1105media.com/pages/privacy-policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the redmondmag.com privacy policy that was archived on 2019-03-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190321011322id_/https%3A//1105media.com/pages/privacy-policy.aspx) for the most accurate reproduction.*
 
 # 1105 Media Privacy Policy -- 1105 Media
 
