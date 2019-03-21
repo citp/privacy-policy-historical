@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wi-fi.org privacy policy that was archived on 2018-10-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181020200703id_/https%3A//www.wi-fi.org/wi-fi-alliance-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wi-fi.org privacy policy that was archived on 2019-03-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190321190908id_/https%3A//www.wi-fi.org/wi-fi-alliance-privacy-policy) for the most accurate reproduction.*
 
 # Wi-Fi Alliance Privacy Policy | Wi-Fi Alliance
 
@@ -26,7 +26,7 @@ We take appropriate steps to protect your privacy and implement reasonable secur
 
 You can help Wi-Fi Alliance maintain the accuracy of your information by notifying us of any changes to your address, title, company name, phone number or email address. Wi-Fi Alliance members may update their contact information on the Members-Only website or by contacting Wi-Fi Alliance staff.
 
-Website visitors may opt-in to receive updates regarding press releases, events and other information. We give you the opportunity to change your election to receive/not receive information from us. At any time, a user may opt-out of receiving event updates, press release announcements, and other information and updates from Wi-Fi Alliance by updating your profile or by sending an email request to [website@wi-fi.org](mailto:web@wi-fi.org).
+Website visitors may opt-in to receive updates regarding press releases, events and other information. We give you the opportunity to change your election to receive/not receive information from us. At any time, a user may opt-out of receiving event updates, press release announcements, and other information and updates from Wi-Fi Alliance by updating your profile or by sending an email request to [GDPR@wi-fi.org](mailto:GDPR@wi-fi.org).
 
 Our website may provide links to third party sites. Since we do not control those websites, we encourage you to review the privacy policies of these third party websites.
 
