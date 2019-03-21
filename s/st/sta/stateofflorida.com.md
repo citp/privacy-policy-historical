@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the stateofflorida.com privacy policy that was archived on 2018-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180623080505id_/http%3A//www.stateofflorida.com/privacy-policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the stateofflorida.com privacy policy that was archived on 2019-03-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190321173218id_/https%3A//www.stateofflorida.com/privacy-policy.aspx) for the most accurate reproduction.*
 
 # State of Florida.com | Privacy Policy
 
-StateofFlorida.com is not affiliated with, owned, or operated by the State of Florida and is not endorsed or approved by the State of Florida. [Visit MyFlorida.com](http://www.myflorida.com/)
+StateofFlorida.com is not affiliated with, owned, or operated by the State of Florida and is not endorsed or approved by the State of Florida. [Visit MyFlorida.com](https://www.myflorida.com/)
 
 We at State of Florida.com recognize the importance of protecting your personal information.
 
@@ -18,4 +18,4 @@ We at State of Florida.com recognize the importance of protecting your personal 
 
 State of Florida.com contains links to other websites. State of Florida.com is not responsible for the privacy practices of other websites.
 
-State of Florida.com uses WebTrends Live to analyze traffic to this website. WebTrends Live does not create individual profiles for visitors. Unlike some tracking services WebTrends Live does not have a database of individual profiles for each visitor. WebTrends Live only collects aggregate data. For more information about WebTrends Live privacy policy, please click [here](http://www.webtrendslive.com/privacy_policy.htm).
+State of Florida.com uses WebTrends Live to analyze traffic to this website. WebTrends Live does not create individual profiles for visitors. Unlike some tracking services WebTrends Live does not have a database of individual profiles for each visitor. WebTrends Live only collects aggregate data. For more information about WebTrends Live privacy policy, please click [here](https://www.webtrendslive.com/privacy_policy.htm).
