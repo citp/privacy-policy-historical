@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the girl.com.au privacy policy that was archived on 2018-09-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180903222109id_/https%3A//www.girl.com.au/privacypol.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the girl.com.au privacy policy that was archived on 2019-03-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190321021421id_/https%3A//www.girl.com.au/privacypol.htm) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -144,7 +144,7 @@ When you enter a contest or other promotional feature, we may request both your 
 
 Winners drawn are at the discretion of Girl.com.au. The decision is final and not negotiable. Competitions are not open to Girl.com.au staff or relatives of staff. 
 
-To read more detailed Contests Terms & Conditions [CLICK HERE](https://web.archive.org/web/20180903222109id_/https%3A//www.girl.com.au/compstermsconditions.htm)
+To read more detailed Contests Terms & Conditions [CLICK HERE](https://web.archive.org/web/20190321021421id_/https%3A//www.girl.com.au/compstermsconditions.htm)
 
 **What happens to information & content collected by Girl.com.au?**
 
@@ -207,11 +207,11 @@ Girl.com.au encourages feedback and any questions you may have about privacy or 
 
 | 
 
-[](https://openx.vendercom.com/delivery/ck.php?oaparams=2__bannerid=742__zoneid=36__source=contactus%2Fprivacypol__cb=f08ea0af57__oadest=https%3A%2F%2Ft.cfjump.com%2F11216%2Fb%2F35329)
+[](https://openx.vendercom.com/delivery/ck.php?oaparams=2__bannerid=756__zoneid=36__source=contactus%2Fprivacypol__cb=18bfaf240d__oadest=https%3A%2F%2Ft.cfjump.com%2F11216%2Fb%2F38318)
 
   
 
 
-[](https://openx.vendercom.com/delivery/ck.php?oaparams=2__bannerid=758__zoneid=36__source=contactus%2Fprivacypol__cb=293777a41e__oadest=https%3A%2F%2Ft.cfjump.com%2F11216%2Fb%2F43757)  
+[](https://openx.vendercom.com/delivery/ck.php?oaparams=2__bannerid=745__zoneid=36__source=contactus%2Fprivacypol__cb=2dcea9d009__oadest=https%3A%2F%2Ft.cfjump.com%2F11216%2Fb%2F54105)  
   
 ---|---
