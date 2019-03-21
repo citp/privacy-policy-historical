@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gamezjet.com privacy policy that was archived on 2017-11-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171115002806id_/https%3A//gamezjet.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gamezjet.com privacy policy that was archived on 2019-03-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190321055951id_/https%3A//gamezjet.com/privacy-policy) for the most accurate reproduction.*
 
 # gamezjet.com - Privacy Policy
 
