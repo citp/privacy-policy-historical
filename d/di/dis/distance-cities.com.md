@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the distance-cities.com privacy policy that was archived on 2018-10-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181030023306id_/https%3A//www.distance-cities.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the distance-cities.com privacy policy that was archived on 2019-03-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190322002155id_/https%3A//www.distance-cities.com/privacy) for the most accurate reproduction.*
 
 # Privacy policy
 
