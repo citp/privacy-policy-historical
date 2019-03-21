@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the afghan123.com privacy policy that was archived on 2017-09-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170911053102id_/https%3A//www.afghan123.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the afghan123.com privacy policy that was archived on 2019-03-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190321175019id_/https%3A//www.afghan123.com/privacy-policy) for the most accurate reproduction.*
 
 # Our Privacy Policy - Afghan123
 
@@ -35,7 +35,7 @@ We may also release your information when we believe release is appropriate to c
 Occasionally, at our discretion, we may include or offer third party products or services on our website. These third party sites have separate and independent privacy policies. We therefore have no responsibility or liability for the content and activities of these linked sites. Nonetheless, we seek to protect the integrity of our site and welcome any feedback about these sites.
 
 **Terms and Conditions**   
-Please also visit our Terms and Conditions section establishing the use, disclaimers, and limitations of liability governing the use of our website at <http://www.afghan123.com/terms-of-service/>
+Please also visit our Terms and Conditions section establishing the use, disclaimers, and limitations of liability governing the use of our website at <https://www.afghan123.com/terms-of-service/>
 
 **Your Consent**   
 By using our site, you consent to our web site privacy policy.
@@ -48,4 +48,4 @@ This policy was last modified on 2015-02-08
 **Contacting Us**  
 If there are any questions regarding this privacy policy you may contact us using the information below.
 
-http://www.afghan123.com
+https://www.afghan123.com
