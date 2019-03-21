@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the flixxy.com privacy policy that was archived on 2018-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180614002405id_/http%3A//www.flixxy.com/privacy-policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the flixxy.com privacy policy that was archived on 2019-03-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190321071600id_/https%3A//www.flixxy.com/privacy-policy.htm) for the most accurate reproduction.*
 
 # Flixxy.com Privacy Policy
 
@@ -21,11 +21,11 @@ You can choose to disable or selectively turn off our cookies or third-party coo
 
 Deleting cookies does not mean you are permanently opted out of any advertising program.  Unless you have settings that disallow cookies, the next time you visit a site running the advertisements, a new cookie will be added.
 
-(AdSense Privacy Policy provided by [JenSense](https://www.jensense.com/))   
+(AdSense Privacy Policy provided by JenSense.com)   
 
 
 Cookies may also collect non-personally identifiable information [what your search for] during your visit to this website in order to help show advertisements on other websites likely to be more interesting to you.   
-We use third-party advertising companies to serve ads when you visit our Web site. These companies may use aggregated information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, please see: <http://www.networkadvertising.org/managing/opt_out.asp>
+We use third-party advertising companies to serve ads when you visit our Web site. These companies may use aggregated information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, please see: [http://www.networkadvertising.org/managing/opt_out.asp](https://www.networkadvertising.org/managing/opt_out.asp)
 
 **  
 How To Block Cookies**
