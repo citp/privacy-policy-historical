@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the switchfly.com privacy policy that was archived on 2018-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181204020541id_/https%3A//switchfly.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the switchfly.com privacy policy that was archived on 2019-03-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190321213523id_/https%3A//www.switchfly.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Switchfly
 
@@ -110,8 +110,8 @@ If we make any material changes to this Privacy Policy, we will post a revised l
 Switchfly, Inc. is the entity responsible for the processing of your Personal Information as described in this policy. If you have any questions or comments about this Privacy Policy, or our privacy practices in general, please contact us via email at [privacy@switchfly.com](mailto:privacy@switchfly.com), or via regular mail at:
 
 Switchfly, Inc.  
-601 Montgomery Street, 17th Floor  
+500 3rd Street, Suite 440  
 San Francisco, California  
-94111 USA
+94107 USA
 
 Effective Date: July 2018
