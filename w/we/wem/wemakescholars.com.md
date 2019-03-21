@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wemakescholars.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606172116id_/https%3A//www.wemakescholars.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wemakescholars.com privacy policy that was archived on 2019-03-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190321061720id_/https%3A//www.wemakescholars.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy|WeMakeScholars
 
@@ -80,4 +80,4 @@ Any dispute or issues arising out of any activity regarding the use of this webs
 
 #### Contact Information
 
-If you have any questions about our cancellation and refund policy or our Site as a whole, please feel free to contact us at  hello@wemakescholars.com
+If you have any questions about our cancellation and refund policy or our Site as a whole, please feel free to contact us at  [email protected]
