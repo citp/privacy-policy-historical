@@ -1,57 +1,69 @@
-> *The following text is extracted and transformed from the ipqualityscore.com privacy policy that was archived on 2018-02-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180220173021id_/http%3A//www.ipqualityscore.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ipqualityscore.com privacy policy that was archived on 2019-03-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190321154918id_/https%3A//www.ipqualityscore.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | IPQualityScore.com
 
-If you require any more information or have any questions about our privacy policy, please feel free to contact us by email at [Support@IPQualityScore.com](mailto:S%75p%70or%74@IP%51uality%53c%6Fre%2Ecom). 
+_Last Revised Feb 9th, 2019_  
+**IPQualityScore values your privacy and is fully compliant with GDPR regulations. All data shared with IPQualityScore is kept confidential and is never sold or made publicly available. Please also review our[Data Processing Agreement](https://web.archive.org/data-processing-agreement) for more details.**
 
-IPQualityScore.com and IPQualityScore, LLC value the privacy of our visitors and users. This privacy policy document outlines the types of personal information is received and collected by IPQualityScore.com and how it is used. 
+IPQualityScore Privacy Policy Overview 
 
-Log Files 
+This Privacy Policy document outlines the privacy measures of IPQualityScore, LLC (referred to as "IPQualityScore", "IPQS", "we", or "us"), in relation to the IPQualityScore.com website (the "Website") and any features, products, and online services (referred to as "services") provided by IPQualityScore. IPQualityScore values the privacy of our visitors and users. This Privacy Policy details the types of data and information that we collect and how we safeguard this data. 
 
-Like many other Web sites, IPQualityScore.com makes use of log files. The information inside the log files includes internet protocol ( IP ) addresses, type of browser, Internet Service Provider ( ISP ), date/time stamp, referring/exit pages, and number of clicks to analyze trends, administer the site, track user's movement around the site, and gather demographic information. IP addresses, and other such information are not linked to any information that is personally identifiable. 
+Our Services That Process Data 
 
-Cookies and Web Beacons 
+IPQualityScore's primary service is focused on fraud detection and prevention. We may use data related to you to analyze transactions, registrations, clicks, and other user behavior to determine if the intent is malicious or fraudulent. IPQualityScore's machine learning algorithms and data processing mechanisms are designed with this privacy framework in mind to prevent data leakage and protect your rights to privacy. 
 
-IPQualityScore.com does use cookies to store information about visitors preferences, record user-specific information on which pages the user access or visit, customize Web page content based on visitors browser type or other information that the visitor sends via their browser. 
+Web Server Log Files 
 
-DoubleClick DART Cookie 
+Like most web sites, IPQualityScore makes use of log files through our web server. This data includes internet protocol (IP) addresses, browser type, Internet Service Provider (ISP), date and timestamps, referring & exit pages, and clicks to analyze trends, administer the site, track user's movement around the site, and gather demographic information. Each of these data points is not personally identifiable on its own. 
 
-\- Google, as a third party vendor, uses cookies to serve ads on IPQualityScore.com. 
+Scripts, Cookies, and Web Beacons 
 
-\- Google's use of the DART cookie enables it to serve ads to users based on their visit to IPQualityScore.com and other sites on the Internet. 
+IPQualityScore may use cookies, pixel tags, embedded scripts, web beacons and similar technologies to store information about visitor preferences, record user behavior and actions, customize services based on the visitor's browser type or other information that the visitor sends via their browser. 
 
-\- Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at the following URL - http://www.google.com/privacy_ads.html 
+Information & Data Collection 
 
-Some of our advertising partners may use cookies and web beacons on our site. Our advertising partners include .... Google Adsense 
+**Personal Information** : information that identifies you as an individual or relates to an identifiable individual, including: name, unique identifier (such as account ID), email address, physical address, telephone number, credit card information, geolocation, and IP address. If you submit any Personal Information relating to other people to us or to our service providers in connection with our services, you represent that you have the authority to do so and to permit us to use the information in accordance with this Privacy Policy. 
 
-These third-party ad servers or ad networks use technology to the advertisements and links that appear on IPQualityScore.com send directly to your browsers. They automatically receive your IP address when this occurs. Other technologies ( such as cookies, JavaScript, or Web Beacons ) may also be used by the third-party ad networks to measure the effectiveness of their advertisements and / or to personalize the advertising content that you see. 
+**Non-Personal Information** : any information that does not directly reveal your specific identity or does not directly relate to an identifiable individual. This might include pseudonymous identifiers and information, device information, non-precise geolocation, information collected through cookies and other tracking technologies, and web server log files to track trends, administer the Website, track user movement, and gather demographic information. 
 
-IPQualityScore.com has no access to or control over these cookies that are used by third-party advertisers. 
+IPQualityScore does not collect more information than is necessary to provide accurate fraud detection services. 
 
-You should consult the respective privacy policies of these third-party ad servers for more detailed information on their practices as well as for instructions about how to opt-out of certain practices. IPQualityScore.com's privacy policy does not apply to, and we cannot control the activities of, such other advertisers or web sites. 
+Data Sharing & Data Processing 
 
-If you wish to disable cookies, you may do so through your individual browser options. More detailed information about cookie management with specific web browsers can be found at the browsers' respective websites. 
+Clients using our service may provide IPQualityScore with transactional information, which may include IP addresses, email addresses, billing details, phone numbers, and similar user data. This information is processed through our services to detect behavioral intent and analyze the risk profile of transactions and users. This data is used to identify patterns of fraud within our system and improve your account's personal machine learning algorithms. 
 
-Data Collection 
+IPQualityScore will **NEVER** sell or make publicly available any of your account's data or transaction/user information that is processed via our APIs or tools. Any data shared with IPQualityScore will be kept confidential, secured, and stored in the safest manner above industry standards. 
 
-  * we do not collect more information than is necessary 
-  * we do not use your data for purposes other than those specified 
-  * we do not keep your data if it is no longer needed 
+Data Processing Agreement 
 
-
+Please review our full [Data Processing Agreement](https://web.archive.org/data-processing-agreement) for more details on how we handle personal data while respecting relevant privacy laws including the General Data Protection Regulation (GDPR). 
 
 Data Security 
 
-IPQualityScore protects all data collected from unauthorized access, breaches, loss, manipulation, falsification, destruction or unauthorized disclosure. 
+IPQualityScore takes reasonable measures to protect all data collected from unauthorized access, breaches, loss, manipulation, falsification, destruction or unauthorized disclosure. 
 
-Access to Information 
+Your Privacy Rights & Access to Information 
 
-You have the right to request access to any personal information we may have collected for you. We can provide a copy of your personal data that we log. In order to comply with your request, we may ask you to verify your identity. Please contact us at [Support@IPQualityScore.com](mailto:S%75p%70or%74@IP%51uality%53c%6Fre%2Ecom) to submit a personal information request. 
+You have the right to request access to any personal information we may have collected for you. IPQualityScore can provide a copy of your stored personal data. In order to comply with your request, we may ask you to verify your identity. Please contact us at [Support@IPQualityScore.com](mailto:S%75p%70or%74@IP%51uality%53c%6Fre%2Ecom) to submit a personal information request. 
 
 Information Correction & Deletion 
 
 If you believe that the information we have recorded about you is incorrect, you are welcome to contact us so we can update it and keep your data accurate. You also have the right to request that we delete any information about you. In order to comply with your request, we may ask you to verify your identity. Please contact us at [Support@IPQualityScore.com](mailto:S%75p%70or%74@IP%51uality%53c%6Fre%2Ecom) to submit an information deletion request. 
 
+Data Compliance Officer 
+
+Should you have any questions related to your privacy or would like to speak with our Data Compliance Officer, please use the contact information below.
+
+ATTN: Data Compliance Officer  
+IPQualityScore LLC  
+PO Box 19052  
+Las Vegas, Nevada 89132  
+USA  
+[Support@IPQualityScore.com](mailto:S%75p%70or%74@IP%51uality%53c%6Fre%2Ecom)
+
 Summary 
 
-IPQualityScore takes every precaution to safeguard your data. We reserve the right to amend this privacy policy at any time as we constantly improve our policies. 
+IPQualityScore takes every precaution to safeguard your data. We reserve the right to amend this Privacy Policy at any time as we constantly improve our policies. 
+
+If you require more details or have any questions concerning our Privacy Policy, please feel free to [contact us](https://web.archive.org/contact-us). 
