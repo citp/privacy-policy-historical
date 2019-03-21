@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the luxhabitat.ae privacy policy that was archived on 2017-10-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171025045442id_/https%3A//www.luxhabitat.ae/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the luxhabitat.ae privacy policy that was archived on 2019-03-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190321060339id_/https%3A//www.luxhabitat.ae/privacy-policy) for the most accurate reproduction.*
 
 # Privacy policy | Luxhabitat
 
@@ -41,3 +41,13 @@ The Site may provide links to external websites maintained by individuals or org
 We value your privacy and we have appropriate security measures in place in our physical facilities to protect against the loss, misuse or alteration of information that we have collected from you at the Site.
 
 Revised 10 January 1, 2009. © 2009 LUXHABITAT. All rights reserved.
+
+## GDPR compliance
+
+Following the new EU General Data Protection Regulation (GDPR) that takes effect on May 25, 2018. We may need to collect and process personal information in order to provide the services to you or because we are legally required to do so. If you do not provide the information that we request, we may not be able to provide you with the services. We may use the personal information for our legitimate business interests, including those listed above.
+
+We do not knowingly permit children in the EEA under age 16 to register for any content, product or service. We do not knowingly collect, use or disclose personal information about users under age 16, except as permitted by law.
+
+We keep your personal information for as long as needed or permitted in light of the purpose for which it was obtained. The criteria used to determine our retention periods include (i) for as long as we have an ongoing relationship with you and provide the Services to you; (ii) as required by a legal obligation to which we are subject; or (iii) as advisable in light of our legal position (such as in regard of applicable statutes of limitations, litigation, or regulatory investigations).
+
+If you would like to receive an electronic copy of your Personal Information or for any questions about this privacy policy, you may contact us at [customercare@luxhabitat.ae](mailto:customercare@luxhabitat.ae).
