@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the timebucks.com privacy policy that was archived on 2018-09-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180920164310id_/https%3A//timebucks.com/index.php%3Fpg%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the timebucks.com privacy policy that was archived on 2019-03-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190321125341id_/https%3A//timebucks.com/index.php%3Fpg%3Dprivacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
