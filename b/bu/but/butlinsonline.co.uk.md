@@ -1,350 +1,230 @@
-> *The following text is extracted and transformed from the butlinsonline.co.uk privacy policy that was archived on 2012-10-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121006122340id_/http%3A//www.butlins.com/privacy-statement/index.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the butlinsonline.co.uk privacy policy that was archived on 2019-03-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190321170621id_/https%3A//www.butlins.com/privacy-and-cookies) for the most accurate reproduction.*
 
-# 
+# Privacy Policy | Butlin's
 
-## 
+**1\. Introduction**
 
-**BUTLIN'S PRIVACY STATEMENT**
+1.1 At Butlin's we are committed to protecting and respecting your privacy, whilst striving to provide the very best guest experience. We work very hard to keep your information safe and we want our services to be safe and enjoyable for everyone. We follow strict security procedures on how personal information is stored and used and who sees it to help stop any unauthorised person getting hold of it.
 
-This privacy statement sets out how Butlins complies with European Union data protection requirements. You can access this privacy statement from the bottom of every page on our website by clicking the appropriate link. Any changes to these policies will be posted on this page.
+1.2 This privacy policy (and any other documents referred to in it) sets out the basis on which we will process and use any personal information about our website visitors and guests that we collect from them, that they provide to us, or that we collect from third parties. Please read this privacy policy carefully to understand our practices regarding your personal information and how we will treat it.
 
-Butlins takes your privacy seriously. Because we gather certain types of information about our users we want you to understand the terms and conditions surrounding the collection and use of that information. This privacy statement discloses the types of information we gather, how we use it and how to correct or change it.
+1.3 This privacy policy was last updated on 25 May 2018.
 
- **  
-How and why do we collect information about you?**  
-At certain points during your visit to our website, we may ask you to enter personal details such as your name, address, telephone number or email address. You may also be asked whether you consent to use of that data and for what purposes. We will not use your data except to fulfil a request you make when disclosing those details, or if you consent.
+ **2\. Identity and Contact Details**
 
-Where we have your consent to do so, we may use the information to contact you or keep you informed of products or services that may interest you such as special promotions, late deals or news. This contact may take the form of email or other methods.
+2.1 We have a legal duty to protect personal information that we collect under Privacy Legislation such as, the Data Protection Act 2018 (the “DPA”) and the Privacy and Electronic Communications Regulations 2003, (PECR).
 
-We may also collect information about your preferences both when you tell us what these are and by analysis of site traffic, including using cookies and IP addresses. This information may be used to personalise your visits to our web site or provide you with relevant information based on your previous choices or information entered. You can configure you're your browser not to accept cookies and to prevent us using your information in this way. For further information see **Cookies and IP Addresses** below.
+2.2 For the purpose of the DPA and GDPR, we are the data controller and are located at One Park Lane, Hemel Hempstead, HP2 4YL. If you have any queries relating to this policy you may also contact us at [privacy@butlins.com](mailto:privacy@butlins.com).
 
- **  
-Other Web Sites  
-** Our website may contain links to other websites. Once you have clicked on these links we do not have any control over the websites at which you will arrive. Therefore, we cannot be responsible for the protection and privacy of any information that you provide whilst visiting such sites. You should look at the privacy statement applicable to the website in question.
+ **3\. Personal information we collect from you and how we use it**
 
- **  
-Cookies and IP Addresses**  
-A cookie is a piece of information that is deposited by our server when you visit our website and is stored on your computer's hard drive by your web browser. This makes it easier for Butlins to identify you, to personalise your experience when you visit our website and to analyse web traffic. You can configure your browser not to accept cookies, although this may hinder the functionality and enjoyment of the website. A cookie in no way gives us access to your computer or any information about you, other than the data you chose to share with us.
+3.1 We may collect and use various types of personal information about visitors to our websites and guests who book a holiday with us. Details of this information are set out below:
 
-The Help menu on the menu bar of most browsers will tell you how to prevent your browser from accepting new cookies, how to have the browser notify you when you receive a new cookie and how to disable cookies altogether. However, cookies allow you to take full advantage of some of Butlins.com's most useful features and we recommend that you leave these turned on. If you do leave cookies turned on, be sure to sign off when you finish using a shared computer.
+a) When you make an enquiry, confirm a booking or buy a holiday home we will collect your name, contact information and details about the places you are interested in so that we can provide you with the information that is of interest to you. This information we collect can include the following:   
 
-Below are some examples of how we use cookies to do this:
 
-  * To gather information which allows us to identify your platform and record sales so we may improve customer experience and identify issues on the site.
-  * To ensure you are provided with correct and useful information during your visit to our site.
-  * To allow you to add items to the basket and proceed through our checkout.
-  * To collect data which allows us to improve our services based on purchases and site usage.
+  * Name
+  * Date of Birth
+  * Telephone contact details
+  * Email address
+  * Postal Address
 
 
 
-There are three different categories these cookies are split into:
+b) We may collect and use certain other personal information when we correspond with you (whether by telephone, e-mail, social media, web chat or otherwise). This will normally be limited to:
 
-  *  **Essential to Site function cookies** – these cookies allow you to browse the site, search for holidays and book your holiday online.
-  *  **Helpful, non intrusive cookies** – these help improve your experience on the site
-  *  **Third Party Cookies** – to help us record customer experience and to allow us to test new services, to help us improve the customer journey on the website
+  * Name
+  * Email address
+  * Booking Number
+  * Postcode
+  * Other information you provide during the course of the correspondence
 
 
 
-We have detailed each of the cookies we use, the reason and their duration in the three tables below – split into the groups detailed above.
+c) Where there are additional members of your party, we will ask you for their name and date of birth. These are used to allow us to manage your booking.
 
- **Essential to Site function cookies**  
----  
-  
- **Cookie**
+d) If you take part in a competition we will collect and process information about your entry.
 
-| 
+e) We collect information about your credit or debit card where you use it to pay for our services.
 
- **Name**
+We use this information for the following purposes:
 
-| 
+a) Providing the products, services and information that you ask us for and performing our obligations to manage your holiday booking or holiday home ownership services. All ensuring you have a great time with us.
 
- **Purpose**
+b) Responding to messages from and corresponding with you regarding your booking or holiday home ownership and recording any communications.
 
-| 
+c) To administer your Butlin’s website account(s)
 
- **Duration**  
-  
-Butlins Premier Club
+d) Allowing you to participate in interactive features of our website and other services.
 
-| 
+e) Administering competitions that you may enter.
 
-MEMBERSHIPNO   
-PASSWORD   
-REMEMBERME
+The legal basis for our use of this information is to fulfil our contract(s) with you.
 
-| 
+f) We may also use this information for internal operations including trouble-shooting, data analysis, testing, research, statistical and survey purposes.
 
-These cookies are used to store both the user's membership and encrypted password for premier club and whether the user wants to be remembered for next visit to the website.
+g) To protect our guests and premises from crime, we operate CCTV and Automated Number Plate Recognition (ANPR) systems in our resorts and car parks which record images for security.
 
-| 
+h) If we discover any criminal activity or alleged criminal activity through our use of CCTV, we will process this data for the purposes of preventing or detecting unlawful acts. Our aim is to protect our guests and business from criminal activities.
 
-Browser session & 1 year  
-  
-Landing page promotions
+The legal basis for our use of this information is our legitimate interest to protect our guests and business and to develop and improve our services.
 
-| 
+3.2 We will collect and use certain technical information about you and your visit when you visit our website. This may include:
 
-PARTNER   
-PROMOCODE   
-PROMOID
+  * The IP address of the device you use.
+  * The pages you visit on our website, whether the page load was successful and the order in which you visit them.
+  * The browser which you are using
 
-| 
 
-These cookies are essential for special offers through unique landing page promotions.
 
-| 
+We collect this for the following purposes:
 
-Browser session  
-  
-Request a brochure
+a) Improving our website and ensuring that content is presented effectively.
 
-| 
+b) Managing our website and ensuring that it is safe and secure. This is outlined in more detail in the cookie policy.
 
-ShowBrochurePopup
+c) Administering our website and other systems and for internal operations, including troubleshooting, data analysis, testing, research, statistical and survey purposes.
 
-| 
+The legal basis for our use of this information is our legitimate interest in developing and improving our services.
 
-This cookie is used to display the request a brochure request popup for first time visitors.
+3.3 We may collect details of your marketing preferences and whether or not you want to receive certain marketing messages (e.g. marketing e-mails) from us.
 
-| 
+3.4 Our website will place third party cookies, web beacons (such as the Facebook pixel) and other storage technologies on your device which are used to provide personalised advertising to you.
 
-30 days  
-  
-currentgroup
+We combine this with your personal information detailed in 3.1 & 3.2 and we use this information for the following purposes:
 
-| 
+a) Providing you with marketing information about our services that we feel may interest you if you have agreed to receive these (these can be unsubscribed from at any time using links provided in the emails).
 
-currentgroup
+b) Providing you with personalised advertising across participating websites you visit. You can opt out of this by opting out of marketing emails or by managing your cookies as detailed below.
 
-| 
+c) Providing information about changes to our services.
 
-Used to identify whether booking engine has been invoked from family or adult site
+Where you have booked or received a quotation for a holiday with us, received a quotation for a holiday home purchase with us or own a holiday home with us, the legal basis for our use of this information is our legitimate interests in promoting and selling our services. You have the right to object to us processing this data at any time and our right to process data is not overridden by your interests, fundamental rights and freedoms.
 
-| 
+If you have not booked or received a quotation for a holiday or holiday home purchase with us, the legal basis for our use of this information is your consent. You have the right to withdraw your consent at any time.
 
-Browser session  
-  
-SITESOURCE
+Where our website places third party cookies, web beacons and other storage technologies on your device, the legal basis for their use of this information is your consent which is given when you accept the use of cookies. You can manage all cookies using your browser settings or using a service such as [www.aboutads.info/choices](http://www.aboutads.info/choices) and [www.youronlinechoices.eu/](http://www.youronlinechoices.eu/). You can manage your preferences for the Facebook pixel through Facebook settings. See our Cookies Policy for more information.
 
-| 
+We may collect certain other information that you give us, for example, if you take part in discussion boards or other social media functions on our website, participate in a webchat, register with us for and/or enter into promotions, complete surveys, or report problems with our website.
 
-SITESOURCE
+e) If you are involved in a reportable accident or incident while you are with us, we will record your details and the incident details in our accident book.
 
-| 
+The legal basis for our use of this information is our legitimate interests in managing our business and developing our services.
 
-This cookie is an indicator as to the rating of the currently selected break.
+We may collect details of your marketing preferences and whether or not you want to receive certain marketing messages (e.g. marketing emails) from us. We combine this with your personal information detailed in 3.1 & 3.2 and we use this information for the following purposes:
 
-| 
+a) Providing you with marketing information about our services that we feel may interest you if you have agreed to receive these (these can be unsubscribed from at any time using links provided in the e-mails). Email marketing information may also be provided through advertising on websites.
 
-Browser session  
-  
-sessionId
+b) Providing you with personalised advertising across participating websites you visit. You can opt out of this by opting out of marketing emails or by managing your cookies as detailed below.
 
-| 
+c) Providing information about changes to our services.
 
-sessionId
+Where you have booked or received a quotation for a holiday with us, received a quotation for a holiday home purchase with us or own a holiday home with us.
 
-| 
+The legal basis for our use of this information is our legitimate interests in promoting and selling our services. You have the right to object to us processing this data at any time and our right to process data is not overridden by your interests, fundamental rights and freedoms. If you have not booked or received a quotation for a holiday or holiday home purchase with us, the legal basis for our use of this information is your consent. You have the right to withdraw your consent at any time
 
-Session management cookie used by the booking engine to maintain state.
+d) We may collect certain other information that you give us, for example, if you take part in discussion boards or other social media functions on our website, participate in a webchat, register with us for and/or enter into promotions, complete surveys, or report problems with our website.
 
-| 
+e) If you are involved in a reportable accident or incident while you are with us, we will record your details and the incident details in our accident book.
 
-Session  
-  
-productType
+The legal basis for our use of this information is our legitimate interests in managing our business and developing our services.
 
-| 
+3.5 We combine the information you provide with certain information we obtain from other sources. This can include:
 
-productType
+  * Electoral roll
+  * Credit reference agencies
+  * Demographic information
 
-| 
 
-Allows main site to specify a product type to the booking engine for availability searches.
 
-| 
+We process this information to:
 
-Session  
-  
-searchData
+a) improve our ability to present you with offers which may be of interest to you.
 
-| 
+Where you have booked or received a quotation for a holiday with us, received a quotation for a holiday home purchase with us or own a holiday home with us. The legal basis for our use of this information is our legitimate interests in promoting and selling our services. You have the right to object to us processing this data at any time and our right to process data is not overridden by your interests, fundamental rights and freedoms.
 
-searchData
+If you have not booked or received a quotation for a holiday with us, the legal basis for our use of this information is your consent. You have the right to withdraw your consent at any time
 
-| 
+b) validate your identity so that we can accept your booking or purchase
 
-Allows system to remember previous break search
+c) protect our business and you from fraud and other illegal activities.
 
-| 
+The legal basis for our use of this information is our legitimate interests in managing our business and promoting our services.
 
-Session  
-  
- **Helpful, session and non intrusive cookies**  
----  
-  
- **Cookie**
+ **4\. How we use Sensitive Personal Information**
 
-| 
+4.1 We do not normally collect sensitive personal information from you. However, if you make us aware of any special requests, for your booking including anything due to specific medical, dietary or religious requirements, we will note these so that we can do our best to meet your request. We will not process this data for any other purpose.
 
- **Name**
+The legal basis for our use of this data is your consent and to fulfil our contract with you. You have the right to object to us processing this data at any time and our right to process data is not overridden by your interests, fundamental rights and freedoms.
 
-| 
+ **5\. How We Share Personal Information**
 
- **Purpose**
+5.1 We do not share website visitor and guest’ personal information with third parties for the purposes of the third party sending marketing information.
 
-| 
+5.2 We share our website visitor and guest personal information, as necessary, with the following third parties:
 
- **Duration**  
-  
-Google Analytics
+a) Any member of our group, which includes our subsidiaries
 
-| 
+b) Selected third parties, such as business partners and service providers where we ask them to fulfil services which enhance your holiday experience, maintain your holiday home or provide other services such as fulfilment of marketing activities. In these cases, the third parties act as Data Processors for us and your information remains in our care and under our control.
 
-__utma   
-__utmb   
-__utmc   
-__utmz
+c) Prospective buyers of our business or assets.
 
-| 
+d) Third parties, such as the police and regulatory authorities, to protect our rights, property, or the safety of our guests, staff and assets or when obliged to by court order or similar legal obligation.
 
-These cookies are used to collect information about how visitors use our site. We use the information to compile reports and to help us improve the site. The cookies collect information in an anonymous form, including the number of visitors to the site, where visitors have come to the site from and the pages they visited.
+e) Third parties, such as law firms and law courts, to enforce or apply any contract with you.
 
-| 
+ **6\. Where We Transfer and Store Personal Information**
 
-Either on browser close, or varies between 30 minutes and 1 year  
-  
-Tealeaf
+6.1 The personal information that we collect from our website visitors and guests will be transferred to, and stored at, destinations outside the European Economic Area, (the "EEA”). To safeguard your personal information and to make sure that it is properly protected we have put in place contractual safeguards with our Data Processors.
 
-| 
+ **7\. Retention of Personal Information**
 
-TLTHID   
-TLTSID
+7.1 We will keep your personal information for limited and appropriate periods of time only.
 
-| 
+7.2 We will retain your personal information for the period necessary to fulfil the purposes outlined in this privacy policy unless a longer retention period is required or allowed by law. If you need further information, please contact us at [privacy@butlins.com](mailto:privacy@butlins.com).
 
-To help us record customer experience and to allow us to test new services, to help us improve the customer journey on the website.
+ **8\. Your Rights in Your Personal Information**
 
-| 
+8.1 You have certain rights in respect of the personal information that we hold about you. Details of these rights are set out below. To exercise any of these rights, please contact us at [privacy@butlins.com](mailto:privacy@butlins.com).
 
-Browser session  
-  
-ASP.NET_SessionId
+8.2 We will process all personal data in line with your rights, in each case to the extent required by and in accordance with applicable law only (including in accordance with any applicable time limits and any requirements regarding fees and charges). We will respect your personal information rights in respect of:
 
-| 
+a) Access. We will confirm to you whether or not we are processing and using personal information about you, at your request and, if so, provide you with access to and a copy of such personal information and the other details to which you are entitled.
 
-ASP.NET_SessionId
+b) Rectification. We will correct any inaccurate personal data and complete any incomplete personal data (including by providing a supplementary statement) that we hold about you.
 
-| 
+c) Prevention of processing likely to cause damage or distress. We will respect your rights under the DPA to require us to cease or not to begin processing your personal information for a specific purpose, or in a specific way, that is likely to cause you or any third parties unwarranted damage or distress.
 
-Standard ASP.NET cookie for session management.
+d) Erasure. We will erase your personal information at your request without undue delay.
 
-| 
+e) Restriction. We will restrict the processing of your personal information in certain circumstances, if you ask us to do so.
 
-Browser session  
-  
-JSESSIONID
+f) Data portability. We will provide you or third parties on your behalf with a copy of any personal information that we hold about you which you have provided to us in a structured, commonly used and machine readable format.
 
-| 
+g) Objection (including objection to direct marketing). We will respect your general rights to object to the processing of your personal information in certain circumstances, including for direct marketing purposes. We will usually inform you (before collecting your information) if we intend to use your information for such purposes or if we intend to disclose your information to any third party for such purposes.
 
-JSESSIONID
+h) Automated decisions and profiling. We will not make decisions based on automated processing, including profiling.
 
-| 
+ **9\. Cookies**
 
-Standard Java session management cookie used to maintain session state.
+9.1 Our website uses “cookies” and other tracking technologies which are placed and stored on your computers’ hard drives, or in their browser memories, if you agree, when you visit our website. These are used for various purposes, including distinguishing you from other web-site visitors. By continuing to browse our website, you agree to our use of cookies and other tracking technologies.
 
-| 
+10\. How we look after your information
 
-Browser session  
-  
- **Third Party Cookies**  
----  
-  
- **Cookie**
+10.1 We treat your information with the utmost care and take all appropriate steps to protect it.
 
-| 
+10.2 We secure access to all transactional areas of our websites and apps using ‘https’ technology.
 
- **Name**
+10.3 Access to your personal information is password-protected, and sensitive data is secured and tokenised to ensure it is protected.
 
-| 
+10.4 We regularly monitor our system for possible vulnerabilities and attacks, and we carry out penetration testing to identify ways to further strengthen security.
 
- **Purpose**
+ **11\. Changes to Our Privacy Policy**
 
-| 
+11.1 We reserve the right to modify this privacy policy from time to time. Any changes we make in the future will be posted on the following website: www.butlins.com. You should check back frequently to see any updates or changes to our privacy policy.
 
- **Duration**  
-  
-Performance Horizon Cookie
+ **12\. Contact and Complaints**
 
-| 
+12.1 Questions, concerns, comments, requests or complaints regarding this privacy policy, our website and/or our use of your personal information should be addressed to [privacy@butlins.com](mailto:privacy@butlins.com)
 
-tPHG-PS
-
-| 
-
-This sole purpose is to allow our system to track a PHG publisher click so we can track any subsequent sales generated when the PHG tracking is triggered for that particular campaign
-
-| 
-
-30 days  
-  
-Affiliate Window & Buy.at Cookies
-
-| 
-
-awin1.com   
-perfiliate.com
-
-| 
-
-To identify when a user has clicked on our of our affiliate links and stores information related to the click e.g. click through time, affiliate ID, IP address
-
-| 
-
-30 days  
-  
-Doubleclick
-
-| 
-
-_drt_   
-id
-
-| 
-
-These cookies facilitate targeting of relevant ads, control the number of times a user sees a given ad and facilitate campaign performance reporting
-
-| 
-
-2 years  
-  
-You can choose not to allow cookies in your browser settings, but to be able to purchase from our site you will need to ensure your cookies are enabled. More information on cookies, their use and how to accept or reject them can be found at [www.aboutcookies.org](http://www.aboutcookies.org/).
-
- **  
-IP Tracking**  
-When you visit our website, we store web server logs which show your IP address, this gives us information such as which pages you looked at, whether the page request was successful or not and which browser you use to view the page. The use of this data is purely for statistical purposes.
-
- **  
-Security**
-
- **Will we disclose the information to third parties?  
-** We may pass your information on to sister companies or other carefully selected companies who have products or services that may interest you. These companies may use this information to contact you. If you tell us that you do not wish to have this information passed on we will respect your wishes. 
-
-Should you have any queries regarding the capture, storage and use of personal information by Butlins please e-mail or contact us at the following address: e-mail: [Butlins.webmaster@bourne-leisure.co.uk](mailto:Butlins.webmaster@bourne-leisure.co.uk) Postal: Data Protection Officer, Butlins, 1 Park Lane, Hemel Hempstead HP2 4YL  
-
- **  
-What if you think we have incorrect information or you would like a copy of the information we hold about you?**  
-Under the Data Protection Act 1998, you may request details of personal information that Butlins holds about you. An official fee will be payable. If you want to make a request please use the email address above.
-
-If you believe that any information we are holding on you is incorrect or incomplete, please write to us or e-mail us as soon as possible to the above address. We will correct any information which is found to be incorrect promptly.
-
- **  
-Butlins Registration**  
-Butlins Skyline Limited is registered under the Data Protection Act 1998 and has given all appropriate notifications to the Information Commissioner.
-
- **  
-Ad Management**  
-Butlins uses pixels, or transparent GIF files, to help manage online advertising. These GIF files are provided by our ad management partner, DoubleClick. These files enable DoubleClick to recognize a unique cookie on your Web browser, which in turn enables us to learn which advertisements bring users to our website. The cookie was placed by us, or by another advertiser who works with DoubleClick. With both cookies and Spotlight technology, the information that we collect and share is anonymous and not personally identifiable. It does not contain your name, address, telephone number, or email address. For more information about DoubleClick, including information about how to opt out of these technologies, go to <http://www.doubleclick.net/us/corporate/privacy>. 
-
-**Email marketing:  
-** Where we have your consent to do so, we may use email to contact you or keep you informed of products or services that may interest you such as special promotions, late deals or news. If you no longer wish to receive these emails, you can unsubscribe at any time by clicking on the unsubscribe link on any of the emails; or by visiting: [http://www.butlins.com/email-signup-unsubscribe.aspx,](http://www.butlins.com/email-signup-unsubscribe.aspx) or call us on 0845 070 4734 or write to us, Data Protection Officer, Butlins, 1 Park Lane, Hemel Hempstead HP2 4YL.
+12.2 If you have any complaints regarding this privacy policy, you may also contact the UK Information Commissioner at telephone number 0303 123 1113 or [ico.org.uk](https://ico.org.uk/).
