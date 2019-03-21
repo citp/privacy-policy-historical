@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 911fonts.com privacy policy that was archived on 2018-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181126190950id_/http%3A//www.911fonts.com/help/Privacy_Policy_48.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 911fonts.com privacy policy that was archived on 2019-03-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190321155122id_/http%3A//www.911fonts.com/help/Privacy_Policy_48.htm) for the most accurate reproduction.*
 
 # Help | Privacy Policy www.911fonts.com - Fonts archive with more than 40 000+ fonts. Zephyr font, Gill sans, Bembo font, cyrillic font download, graffity fonts, fonts.
 
