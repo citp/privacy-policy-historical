@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the buzznigeria.com privacy policy that was archived on 2018-08-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180826162317id_/https%3A//buzznigeria.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the buzznigeria.com privacy policy that was archived on 2019-03-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190321141107id_/https%3A//buzznigeria.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - BuzzNigeria - Famous People, Celebrity Bios, Updates and Trendy News
 
