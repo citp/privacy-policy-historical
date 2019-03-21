@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bloggercarnivals.com privacy policy that was archived on 2018-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180528190640id_/http%3A//www.bloggercarnivals.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bloggercarnivals.com privacy policy that was archived on 2019-03-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190321205753id_/http%3A//www.bloggercarnivals.com/privacy_policy) for the most accurate reproduction.*
 
 # Welcome to bloggercarnivals.com - Privacy Policy
 
