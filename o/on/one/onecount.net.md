@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the onecount.net privacy policy that was archived on 2018-08-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180824223644id_/https%3A//www.one-count.com/about/privacy-policy-terms) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the onecount.net privacy policy that was archived on 2019-03-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190322005958id_/https%3A//www.one-count.com/about/privacy-policy-terms) for the most accurate reproduction.*
 
 # Privacy Policy and Terms - ONEcount
 
