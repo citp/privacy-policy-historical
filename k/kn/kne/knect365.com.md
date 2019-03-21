@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the knect365.com privacy policy that was archived on 2018-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181222080251id_/https%3A//knect365.com/privacy-centre/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the knect365.com privacy policy that was archived on 2019-03-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190321073854id_/https%3A//knect365.com/privacy-centre/privacy-policy) for the most accurate reproduction.*
 
 # Privacy policy | KNect365 Corporate pages
 
@@ -22,19 +22,8 @@ Informa is organised into four Operating Divisions: Academic Publishing (which t
 
 This Privacy Policy explains how KNect365 collects, uses and protects your personal information. The following companies are controllers of the personal information you supply to KNect365:
 
-Informa Entity | Company number | Registered Office  
----|---|---  
-IIR Limited | 1835199 | 5 Howick Place, London, SW1P 1WG, UK  
-Informa Telecoms and Media Limited | 00991704 | 5 Howick Place, London, SW1P 1WG, UK  
-TU-Automotive Limited | 09798474 | 5 Howick Place, London, SW1P 1WG, UK  
-Futurum Media Ltd | 09813559 | 5 Howick Place, London, SW1P 1WG, UK  
-New Ag International SARL | 507590990 | 2 rue de Lisbonne, 75008, Paris, France  
-EBD Group GmbH | 173151 | Isartorplatz 4, 80331, Munich, Germany  
-Informa Media Inc | 826197 | 1166 Avenue of the Americas, 10th Floor, New York, NY 10036, United States  
-KNect365 US Inc | 855093 | 708 3rd Avenue, 4th Floor, New York, 10017, United States  
-Informa Middle East Ltd (Dubai branch) | 126878 | TRADING ADDRESS: Level 20, Sheikh Rashid Tower, Dubai World Trade Center, P.O. Box 9428, Dubai, United Arab Emirates  
-Informa Australia PTY Ltd | 086268313 | Level 18, 347 Kent Street, Sydney NSW 2000, Australia  
-  
+Informa EntityCompany numberRegistered OfficeIIR Limited18351995 Howick Place, London, SW1P 1WG, UKInforma Telecoms and Media Limited009917045 Howick Place, London, SW1P 1WG, UKTU-Automotive Limited097984745 Howick Place, London, SW1P 1WG, UKFuturum Media Ltd098135595 Howick Place, London, SW1P 1WG, UKNew Ag International SARL5075909902 rue de Lisbonne, 75008, Paris, FranceEBD Group GmbH173151Isartorplatz 4, 80331, Munich, GermanyInforma Media Inc8261971166 Avenue of the Americas, 10th Floor, New York, NY 10036, United StatesKNect365 US Inc855093708 3rd Avenue, 4th Floor, New York, 10017, United StatesInforma Middle East Ltd (Dubai branch)126878TRADING ADDRESS: Level 20, Sheikh Rashid Tower, Dubai World Trade Center, P.O. Box 9428, Dubai, United Arab EmiratesInforma Australia PTY Ltd086268313Level 18, 347 Kent Street, Sydney NSW 2000, Australia
+
 This Privacy Policy is issued on behalf of KNect365, and where “KNect365”, I”, "we", "us" or "our" appears, it includes the relevant legal entity processing your data.
 
 ### 2\. What we collect
@@ -60,7 +49,7 @@ We collect and use your personal information in the following main categories:
 
   * As customer / consumer data (transactional, prospect and analytics) including prospect data;
   * As contact data which includes corporate customer contact data (i.e. contact details of account manager / key contact at corporate customers); and subscriber / user data;
-  * In connection with an even, for instance customer event and trade show visitors, exhibitors, speakers, conference visitors and attendee data.
+  * In connection with an event, for instance customer event and trade show visitors, exhibitors, speakers, conference visitors and attendee data.
 
 
 
