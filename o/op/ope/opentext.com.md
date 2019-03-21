@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the opentext.com privacy policy that was archived on 2018-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181218000558id_/https%3A//www.opentext.com/about/copyright-information/site-privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the opentext.com privacy policy that was archived on 2019-03-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190321194727id_/https%3A//www.opentext.com/about/copyright-information/site-privacy) for the most accurate reproduction.*
 
 # Privacy and Security Policy | OpenText
 
@@ -63,7 +63,7 @@ In certain situations, OpenText may be required to disclose personal data in res
 
 ### Privacy Shield
 
-OpenText complies with the EU-U.S. Privacy Shield Framework and Swiss-U.S. Privacy Shield Framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal information transferred from the European Union or Switzerland to the United States. OpenText has certified to the U.S. Department of Commerce that it adheres to the Privacy Shield Principles. If there is any conflict between the terms in this Notice and the Privacy Shield Principles, the Privacy Shield Principles shall govern. To learn more about the Privacy Shield program, and to view our certification, please visit the U.S. Department of Commerce’s [Privacy Shield site](https://www.privacyshield.gov/Program-Overview).
+OpenText complies with the EU-U.S. Privacy Shield Framework and Swiss-U.S. Privacy Shield Framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal information transferred from the European Union and the United Kingdom and/or Switzerland to the United States. OpenText has certified to the U.S. Department of Commerce that it adheres to the Privacy Shield Principles. If there is any conflict between the terms in this Notice and the Privacy Shield Principles, the Privacy Shield Principles shall govern. To learn more about the Privacy Shield program, and to view our certification, please visit the U.S. Department of Commerce’s [Privacy Shield site](https://www.privacyshield.gov/Program-Overview).
 
 The U.S. Federal Trade Commission has jurisdiction over OpenText’s compliance with the Privacy Shield.
 
@@ -121,4 +121,4 @@ OpenText may also collect personal data from customers as required to provide su
 
 OpenText may update this Privacy Notice from time to time. If we modify this Privacy Notice, we will post the revised version here. We may also provide notification of material changes by other means such as posting a notice on our website.
 
-**Revised:** 9 May 2018
+**Revised:**  13 March 2019
