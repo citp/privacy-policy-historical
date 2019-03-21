@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the tonedeaf.com.au privacy policy that was archived on 2018-09-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180906175847id_/https%3A//tonedeaf.com.au/corporate/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tonedeaf.com.au privacy policy that was archived on 2019-03-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190321030459id_/https%3A//tonedeaf.thebrag.com/corporate/privacy) for the most accurate reproduction.*
 
-# Seventh Street Media Privacy Policy - Tone Deaf
+# Seventh Street Media Privacy Policy
 
 Tone Deaf, The Brag, J Play, The Industry Observer and Don’t Bore Us are all brands and publications under Seventh Street Media.
 
