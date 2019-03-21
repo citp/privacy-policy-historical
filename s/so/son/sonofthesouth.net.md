@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sonofthesouth.net privacy policy that was archived on 2018-09-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180917100959id_/http%3A//www.sonofthesouth.net/privacy-policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sonofthesouth.net privacy policy that was archived on 2019-03-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190321130601id_/http%3A//www.sonofthesouth.net/privacy-policy.htm) for the most accurate reproduction.*
 
 # Privacy Policy
 
