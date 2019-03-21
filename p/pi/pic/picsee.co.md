@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the picsee.co privacy policy that was archived on 2018-08-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180830030954id_/http%3A//picsee.co/policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the picsee.co privacy policy that was archived on 2019-03-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190321112251id_/https%3A//picsee.co/policy.php) for the most accurate reproduction.*
 
-# Terms of use | PicSee
+# นโยบายการเป็นสมาชิก | PicSee
 
-## Terms of use
+## นโยบายการเป็นสมาชิก
 
 Welcome PicSee!  
 PicSee as “PicSee皮克看見” shorten URLs team provided services. As long as you use the Service, you agree to these terms, so please carefully read through.
@@ -34,9 +34,9 @@ Member agrees PicSee may be based on security reasons , or in violation of the T
 8\. TERMS OF SERVICE AMENDMENT  
 If members have any questions about PicSee Terms of Service or related matters, you can contact us.  
 • PicSee E-mail: picsee.co@gmail.com  
-• PicSee fan page: Search “PicSee皮克看見” [https://www.facebook.com/picsee.co/](https://www.facebook.com/picsee.%20co/)
+• PicSee fan page: Search “PicSee皮克看見” <https://www.facebook.com/picsee.co/>
 
-## Privacy policy
+## ความเป็นส่วนตัว
 
 PicSee attaches great importance to the privacy of members. The development of this “Privacy Policy” is intended to help you understand PicSee information gathered, as well as its use.
 
@@ -71,4 +71,4 @@ Please note! Refuses above matters may result not enjoy full-service!
 Privacy policy change  
 If members have any questions about PicSee site privacy statement or related matters of personal data, you can contact us.  
 PicSee E-mail: picsee.co@gmail.com  
-PicSee fan page: Search” PicSee皮克看見” [https://www.facebook.com/picsee.co/](https://www.facebook.com/picsee.%20co/)
+PicSee fan page: Search” PicSee皮克看見” <https://www.facebook.com/picsee.co/>
