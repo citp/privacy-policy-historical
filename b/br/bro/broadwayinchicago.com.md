@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the broadwayinchicago.com privacy policy that was archived on 2018-09-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180906011958id_/http%3A//www.broadwayinchicago.com/privacy-notice) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the broadwayinchicago.com privacy policy that was archived on 2019-03-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190321155651id_/https%3A//www.broadwayinchicago.com/privacy-notice) for the most accurate reproduction.*
 
 # Privacy Notice | Broadway in Chicago
 
@@ -9,9 +9,9 @@ We may change this Privacy Policy. We will notify you of any material changes to
 The Information We Collect.  
 We collect information about Our customers and users of Our websites in various ways, such as your voluntary submissions, including when you purchase tickets through Us or Our business partner Ticketmaster, by registration of your information to create a membership account or receive information from Us, by visiting Our social networking sites, and through cookies and other tracking technologies. When you purchase tickets through Ticketmaster, you can opt-out of the sharing of this information.
 
-We do have an email sign-up on our website, but the information provided is maintained on the Ticketmaster website ([Email Newsletter Signup](http://broadwayinchicago.com/email-newsletter/ "Email Newsletter Signup")) and is covered by Ticketmaster’s Privacy Policy and Terms of Use. To stop receiving promotional emails, follow the instructions in any promotional message you receive from us. Requests will be processed within 10 business days.
+We do have an email sign-up on our website, but the information provided is maintained on the Ticketmaster website ([Email Newsletter Signup](https://broadwayinchicago.com/email-newsletter/ "Email Newsletter Signup")) and is covered by Ticketmaster’s Privacy Policy and Terms of Use. To stop receiving promotional emails, follow the instructions in any promotional message you receive from us. Requests will be processed within 10 business days.
 
-We do have an mobile sign-up on our website, but the information provided is maintained on the MobileStorm website ([Mobile Alerts](http://broadwayinchicago.com/tickets/mobile-alerts/ "Mobile Alerts")) and is covered by MobileStorm’s Privacy Policy and Terms of Use.
+We do have an mobile sign-up on our website, but the information provided is maintained on the MobileStorm website ([Mobile Alerts](https://broadwayinchicago.com/tickets/mobile-alerts/ "Mobile Alerts")) and is covered by MobileStorm’s Privacy Policy and Terms of Use.
 
 We also collect information from Our business partners and Nederlander, Our parent company. We may also provide information to Nederlander. If We do collect your information from Our business partners or through other sweepstakes and/or contests, We only do so after you have opted-in to receive additional information from Us. We do not purchase information about You.
 
