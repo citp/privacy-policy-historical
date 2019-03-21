@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the robbwolf.com privacy policy that was archived on 2018-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181130165105id_/https%3A//robbwolf.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the robbwolf.com privacy policy that was archived on 2019-03-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190321124538id_/https%3A//robbwolf.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -88,3 +88,5 @@ Although it is highly unlikely, this policy may be changed at any time at our di
 If you have any questions or concerns regarding our privacy policy please direct them to:
 
 hello@robbwolf.com
+
+[](https://www.pinterest.com/pin/create/button/)
