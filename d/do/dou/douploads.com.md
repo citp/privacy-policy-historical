@@ -1,18 +1,20 @@
-> *The following text is extracted and transformed from the douploads.com privacy policy that was archived on 2018-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181123023936id_/https%3A//douploads.com/pages/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the douploads.com privacy policy that was archived on 2019-03-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190321055405id_/https%3A//douploads.com/privacy.html) for the most accurate reproduction.*
 
 # DoUploads - Upload Files & Earn Money
 
-At DoUploads, we care about the privacy of your data and are committed to protecting it. This Privacy Policy explains what information we collect about you and why, what we do with that information, and how we handle that information. Throughout this policy, when we write "DoUploads" or "we" or "us," we�re referring to DoUploads., a Delaware corporation, and our subsidiaries and other affiliates.: 
+## Privacy Policy
+
+At DoUploads, we care about the privacy of your data and are committed to protecting it. This Privacy Policy explains what information we collect about you and why, what we do with that information, and how we handle that information. Throughout this policy, when we write "DoUploads" or "we" or "us," we're referring to DoUploads., a Delaware corporation, and our subsidiaries and other affiliates.: 
 
 This Privacy Policy ("Policy") is incorporated into DoUploads's Terms of Service and License Agreement located at douploads.com/tos.html (the [Terms Of Service](https://douploads.com/tos.html)") and applies to the information obtained by us through your use of DoUploads's Site, and Services (Information") as described in this Policy. Capitalized terms used in this Policy and not otherwise defined shall have the meanings provided for those terms in the Terms of Service. 
 
-##### Information collection and use
+### Information collection and use
 
-### What Information does DoUploads collect about me?
+What Information does DoUploads collect about me?
 
 When you interact with our Site, and/or Services, we collect Information that, alone or in combination with other data, could be used to identify you ("Personal Data"). Some of the Information we collect is stored in a manner that cannot be linked back to you ("Non-Personal Data").
 
-#### Information you provide us when you create an account
+### Information you provide us when you create an account
 
 When you signup for or use our Services, you voluntarily give us certain Personal Data, including:
 
@@ -21,7 +23,7 @@ When you signup for or use our Services, you voluntarily give us certain Persona
 
 
 
-#### Automatically collected Information
+### Automatically collected Information
 
 Certain data about the devices you use to connect with DoUploads and your use of the Site and/or Services are automatically logged in our systems, including:
 
@@ -36,7 +38,7 @@ Certain data about the devices you use to connect with DoUploads and your use of
 
 ### How does DoUploads use my Information ?
 
-We use, process, and store yourInformation as necessary to perform our contract with you and for our legitimate business interests, including: 
+We use, process, and store yourInformation as necessary to perform our contract with you and for our legitimate business interests, including:
 
   * to help us administer our Site and/or Services, authenticate users for security purposes, provide personalized user features and access, process transactions, conduct research, develop new features, and improve the features, algorithms, and usability of our Site, Software, and/or Services.
   * to communicate with you about your use ofour Site, Software, and/or Services, product announcements, and software updates, aswell asrespond toyour requests for assistance, including providing account verification support if you're having difficulty accessing your account.
