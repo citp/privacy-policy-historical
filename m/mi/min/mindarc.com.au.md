@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mindarc.com.au privacy policy that was archived on 2018-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181213144007id_/https%3A//www.mindarc.com.au/mindarc-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mindarc.com.au privacy policy that was archived on 2019-03-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190321171456id_/https%3A//www.mindarc.com.au/mindarc-privacy-policy) for the most accurate reproduction.*
 
 # MindArc Privacy Policy - MindArc Digital
 
