@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the projecthoneypot.org privacy policy that was archived on 2018-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181224044029id_/https%3A//www.projecthoneypot.org/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the projecthoneypot.org privacy policy that was archived on 2019-03-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190321182457id_/https%3A//www.projecthoneypot.org/privacy_policy.php) for the most accurate reproduction.*
 
 # Privacy Policy | Project Honey Pot
 
