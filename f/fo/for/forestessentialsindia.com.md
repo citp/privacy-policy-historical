@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the forestessentialsindia.com privacy policy that was archived on 2017-01-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170123122311id_/https%3A//www.forestessentialsindia.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the forestessentialsindia.com privacy policy that was archived on 2019-03-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190321165718id_/https%3A//www.forestessentialsindia.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -17,6 +17,8 @@
 \- Updates to Our Privacy Policy
 
 \- Comments
+
+\- Concerning Facebook
 
 **DATE OF EFFECT:**
 
@@ -128,3 +130,11 @@ We may revise this Privacy Policy from time to time. If we decide to change our 
 We have taken great efforts to ensure that your visit to Forest Essentials Online is an excellent and fruitful one and that your privacy is constantly respected. If you have any questions, comments or concerns about our privacy practices, please contact us by email at [legal@forestessentialsindia.com](mailto:legal@forestessentialsindia.com)
 
 Worldwide Copyright © Mountain Valley Springs India Pvt Ltd. (brand owners of Forest Essentials). All worldwide rights reserved.
+
+**CONCERNING FACEBOOK**
+
+On our pages, you will find a button linking to our Facebook page. Please note that, with the use of this button, data about the visit to our pages can be linked to your Facebook profile.
+
+If you do not wish to transmit data to Facebook, please ensure that you are logged out of Facebook while entering our pages.
+
+Please also be sure to note the data protection notices of Facebook if you wish to use the corresponding button on our pages. The information about data protection at Facebook can be found at: <http://wwww.facebook.com/about/privacy>
