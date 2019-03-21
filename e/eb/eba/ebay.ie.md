@@ -1,10 +1,8 @@
-> *The following text is extracted and transformed from the ebay.ie privacy policy that was archived on 2018-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181209053756id_/https%3A//pages.ebay.ie/help/policies/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ebay.ie privacy policy that was archived on 2019-03-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190321172344id_/https%3A//pages.ebay.ie/help/policies/privacy-policy.html) for the most accurate reproduction.*
 
 # User Privacy Notice
 
 This Privacy Notice was posted on **May 1, 2018**. It is effective immediately for new users, and from **June 1, 2018** for all other users. [See previous version of this Privacy Notice](https://web.archive.org/pages/help/pp_previous.html).
-
-If you have an unresolved privacy or data use concern that we have not addressed satisfactorily, please contact our U.S.-based third party dispute resolution provider (free of charge) at <https://feedback-form.truste.com/watchdog/request>.
 
 eBay is committed to your privacy. This privacy notice explains our collection, use, disclosure, retention and protection of your personal information.
 
