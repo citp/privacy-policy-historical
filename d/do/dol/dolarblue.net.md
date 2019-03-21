@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dolarblue.net privacy policy that was archived on 2018-11-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181109203256id_/https%3A//www.justhost.com/cgi/info/privacy-policy%3Fno_navigation%3D1) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dolarblue.net privacy policy that was archived on 2019-03-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190321173906id_/https%3A//www.justhost.com/cgi/info/privacy-policy%3Fno_navigation%3D1) for the most accurate reproduction.*
 
 # Privacy Policy | Just Host
 
