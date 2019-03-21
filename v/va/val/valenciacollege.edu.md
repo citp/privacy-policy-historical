@@ -1,17 +1,14 @@
-> *The following text is extracted and transformed from the valenciacollege.edu privacy policy that was archived on 2018-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181230055746id_/http%3A//valenciacollege.edu/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the valenciacollege.edu privacy policy that was archived on 2019-03-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190321100013id_/https%3A//valenciacollege.edu/about/privacy) for the most accurate reproduction.*
 
-# Privacy - Valencia College
+# Privacy Policy | Valencia College
 
-|  |   | 
-
-## Privacy Statement 
+## Privacy Statement
 
 > **Valencia College  
 >  Information Technology Resource Policies   
 >  [6Hx28:04-38]  
 >  Implementing Procedures for Online Privacy, Access and Security  
->  [04-38.04]**  
-> 
+>  [04-38.04]**
 
 **Online Privacy Statement** The policy of Valencia College is to respect the privacy of all Valencia proprietary web site visitors to the extent permitted by law. This online privacy statement is intended to inform you of the ways in which these web sites collect information, the uses to which that information will be put, and the ways in which we will protect any information you choose to provide us. 
 
@@ -32,8 +29,3 @@ In the course of using these web sites, you may choose to provide us with inform
 Valencia College web sites and subsites may provide links to other World Wide Web sites or resources. We do not control these sites and resources, do not endorse them, and are not responsible for their availability, content, or delivery of services. In particular, external sites are not bound by the college's online privacy policy; they may have their own policies or none at all. Often you can tell you are leaving a Valencia College web site by noting the URL of the destination site. 
 
 If you have questions, please contact the Vice President for Policy and General Counsel via email [policy@valenciacollege.edu](mailto:policy@valenciacollege.edu?Subject=Regarding%20Privacy%20Statement) or telephone (407) 582-3433. 
-
-Online Privacy, Access and Security [04-38.04] Revision: July 10, 2012  
-  
----|---  
-| 
