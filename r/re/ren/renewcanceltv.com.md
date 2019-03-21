@@ -1,44 +1,40 @@
-> *The following text is extracted and transformed from the renewcanceltv.com privacy policy that was archived on 2018-10-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181014205009id_/https%3A//renewcanceltv.com/privacy-policy-2) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the renewcanceltv.com privacy policy that was archived on 2019-03-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190321185243id_/https%3A//renewcanceltv.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy | RenewCancelTV
 
 ## **RenewCancelTV Privacy Policy & GDPR Compliance**
 
-**Here we provide a clear and complete guide and your personal data, how we use it, how long we retain it and measures we take to keep your data safe and secure.**
+ **Here we provide a clear and complete guide and your personal data, how we use it, how long we retain it and measures we take to keep your data safe and secure.**
 
-RenewCancel.club takes your privacy _**very**_ seriously and is committed to protecting your privacy on its web sites. We strive to take the bare minimum information necessary to provide our services. We do not disclose personally identifiable information about our visitors, other than described below.
+RenewCancelTV.com takes your privacy _**very**_ seriously and is committed to protecting your privacy on its web sites. We strive to take the bare minimum information necessary to provide our services. We do not disclose personally identifiable information about our visitors, other than described below.
 
-## **1\. Who We Are**
+##  **1\. Who We Are**
 
-We are RenewCancelTV.club (“[renewcanceltv.com](https://renewcanceltv.com/)“) (“[renewcancel.club](https://renewcancel.club/)“), a TV entertainment and news website. We provide historic and up-to-date news on the status of TV shows, specifically renewal and cancellation news and information.
+We are RenewCancelTV.com (“[renewcanceltv.com](https://renewcanceltv.com/)“), an independent TV entertainment and news website. We provide historic and up-to-date news on the status of TV shows, specifically renewal and cancellation news and information.
 
-## **2\. What Personal Data We Collect and Why We Collect It**
+##  **2\. What Personal Data We Collect and Why We Collect It**
 
-**2.1. Comments**
+ **2.1. Comments**
 
-RenewCancelTV offers users the possibility to leave individual comments on individual posts/articles on our website. Our website is built using WordPress. We use the native WordPress comments system, Heateor Social Comments and Disqus.
+RenewCancelTV offers users the possibility to leave individual comments on individual posts/articles on our website. Our website is built using WordPress. We use the native WordPress comments system.
 
 If you leave comments on the site we collect the data shown in the comments form, and also your IP address and browser user agent string to help spam detection. Users must consent that they want to leave a comment on the site by clicking “Post Comment” button. We have a comments section underneath articles on the site to allow users the opportunity to share their commentary on the topic in question. Comments are completely optional.
 
 An anonymized string created from your email address (also called a hash) may be provided to the Gravatar (the display picture next to comments) service to see if you are using it. The Gravatar service privacy policy is available [here](https://automattic.com/privacy/). After approval of your comment, your display picture (if you have one) is visible to the public in the context of your comment.
 
-We use Akismet (WordPress module) to keep spam under control and prevent malicious content by filtering out spam comments. The information we collected includes the commenter’s IP address, user agent, referrer, and Site URL, along with other information directly provided by the commenter such as their name, username, email address, and the comment itself. Please see their privacy policy [here](https://automattic.com/privacy-notice/).
+We use Akismet (WordPress module) to keep spam under control and prevent malicious content by filtering out spam comments. The information we collected includes the commenter’s IP address, user agent, referrer, and Site URL, along with other information directly provided by the commenter such as their name, username, email address, and the comment itself.Please see their privacy policy [here](https://automattic.com/privacy-notice/).
 
-The Disqus privacy policy is available [here](https://help.disqus.com/customer/portal/articles/466259-privacy-policy).
+You may request rectification or removal (erasure) of your comment at any time by contacting us on the following email address: [[email protected]](https://renewcanceltv.com/cdn-cgi/l/email-protection) We will use your request to identify your comment and rectify or remove it, as per your instructions within 72 hours.
 
-The Heateor Social Comments privacy policy is available [here](https://www.heateor.com/privacy/).
+Should you have any further requests concerning your comments or data, please do not hesitate to contact us using [[email protected]](https://renewcanceltv.com/cdn-cgi/l/email-protection) We are more than happy to assist you in providing access and information relating to your data, where technically feasible and when doing so does not adversely affect the rights and freedoms of others.
 
-You may request rectification or removal (erasure) of your comment at any time by contacting us on the following email address: info@renewcancel.club. We will use your request to identify your comment and rectify or remove it, as per your instructions usually within 72 hours.
+ **2.2. Email Contact**
 
-Should you have any further requests concerning your comments or data, please do not hesitate to contact us using info@renewcancel.club. We are more than happy to assist you in providing access and information relating to your data, where technically feasible and when doing so does not adversely affect the rights and freedoms of others.
+Information submitted to us by email are sent to our website email, hosted by Gmail (owned by Google). Google adheres to the EU “Privacy Shield” policy. More information about this is available [here](https://policies.google.com/privacy/frameworks).
 
-**2.2. Email Contact**
+We retain these submissions for user service purposes only (e.g. to deal with and respond to user queries) and they are never used for marketing purposes or shared with third parties.
 
-Information submitted to us by email are sent to our customer support service, hosted by tawk.to. tawk.to’s privacy policy is available [here](https://www.tawk.to/privacy-policy/).
-
-We retain these submissions for user service purposes only (e.g. to deal with and respond to user queries).
-
-**2.3. Cookies**
+ **2.3. Cookies**
 
 Many Internet sites and servers use cookies (“cookies”). Many cookies contain a so-called cookie ID. A cookie ID is a unique identifier of the cookie. It consists of a character string through which Internet pages and servers can be assigned to the specific Internet browser in which the cookie was stored. This allows visited Internet sites and servers to differentiate the individual browser of the data subject from other Internet browsers that contain other cookies. A specific Internet browser can be recognized and identified using the unique cookie ID.
 
@@ -48,9 +44,9 @@ Practical example of cookies in action: If you leave a comment on our site you m
 
 The data subject may, at any time, disable the setting of cookies through our website by means of a corresponding setting of the Internet browser used, and may thus permanently deny the setting of cookies. Furthermore, already set cookies may be deleted at any time via an Internet browser or other software programs. This is possible in all popular Internet browsers. Please bear in mind, that if the data subject deactivates the setting of cookies in the Internet browser used, not all functions of our website may be entirely usable.
 
-**2.4. Third Party Cookies**
+ **2.4. Third Party Cookies**
 
-**DoubleClick DART Cookie  **
+ **DoubleClick DART Cookie  **
 
 Our web site uses third party ad servers (e.g. DoubleClick) to serve the advertisements that you see on some pages of our web site. DoubleClick may use cookies to help serve their advertisements. For more information on DoubleClick’s cookie policy, please click [here](https://support.google.com/dfp_premium/answer/2839090).
 
@@ -62,32 +58,24 @@ Our web site uses third party ad servers (e.g. DoubleClick) to serve the adverti
 
 Please see below for the list of our advertising partners which may use cookies and web beacons on our site:
 
-  * Google AdSense ([privacy policy](https://policies.google.com/technologies/partner-sites))
-  * Amazon.com ([privacy policy](https://www.amazon.com/gp/help/customer/display.html?nodeId=468496#GUID-1B2BDAD4-7ACF-4D7A-8608-CBA6EA897FD3__SECTION_D17374D6EE5B4077946965351E11175C); [GDPR policy](https://advertising.amazon.com/ad-specs/en/policy/gdpr?ref_=blog-inpage))
-  * FlatFur.com Ad Network & FeedSpiders’ ([privacy policy](https://feedspiders.com/index.php/privacy-policy-terms-and-conditions/))
-  * Ezoic ([privacy policy](https://renewcanceltv.com/privacy-policy-2/)) (Go to: <https://g.ezoic.net/privacy/renewcanceltv.com>)
-  * PropellerAds ([privacy policy](https://propellerads.com/privacy/))
+  * Google Adsense ([privacy policy](https://policies.google.com/technologies/partner-sites))
+  * Amazon ([privacy policy](https://www.amazon.com/gp/help/customer/display.html?nodeId=468496#GUID-1B2BDAD4-7ACF-4D7A-8608-CBA6EA897FD3__SECTION_D17374D6EE5B4077946965351E11175C); [GDPR policy](https://advertising.amazon.com/ad-specs/en/policy/gdpr?ref_=blog-inpage))
+  * Media.net ([privacy policy](https://www.media.net/en/privacy-policy); also see [ad preference policy](https://www.media.net/en/adchoices))
+  * Sovrn ([privacy policy](https://www.sovrn.com/privacy-policy/))
   * Taboola ([privacy policy](https://www.taboola.com/privacy-policy))
-  * vi ([privacy policy](https://www.vi.ai/privacy-policy/))
-  * Infolinks ([privacy policy](https://www.infolinks.com/privacy-policy/))
-  * Content.ad ([privacy policy](https://content.ad/privacy-policy/))
-  * Adskeeper ([privacy policy](https://www.adskeeper.co.uk/privacy-policy))
-  * Adnow LLP ([privacy policy](https://adnow.com/privacy-policy))
-  * MediaVenus.com ([privacy policy](https://mediavenus.com/site/privacy-policy))
-  * S&W Media Group ([privacy policy](http://www.snw.media/wp-content/uploads/2018/01/Privacy-Policy-1.pdf))
-  * Outbrain ([privacy policy](https://www.outbrain.com/legal/privacy#privacy-policy))
+  * Ezoic ([privacy policy](https://g.ezoic.net/privacy/renewcanceltv.com))
 
 
 
-These third-party ad servers or ad networks use technology to the advertisements and links that appear on RenewCancelTV.club send directly to your web browsers. They automatically receive your IP address when this occurs. Other technologies (e.g. cookies, JavaScript or Web Beacons) may also be used by the third-party ad networks to measure the effectiveness of their advertisements and/or to personalize the advertising content that you see.
+These third-party ad servers or ad networks use technology to the advertisements and links that appear on RenewCancelTV.com send directly to your web browsers. They automatically receive your IP address when this occurs. Other technologies (e.g. cookies, JavaScript or Web Beacons) may also be used by the third-party ad networks to measure the effectiveness of their advertisements and/or to personalize the advertising content that you see.
 
-RenewCancelTV.club has no access to or control over these cookies that are used by third-party advertisers.
+RenewCancelTV.com has no access to or control over these cookies that are used by third-party advertisers.
 
-Please consult the respective privacy policies of these third-party ad servers for more detailed information on their practices as well as for instructions about how to opt-out of certain practices. RenewCancelTV’s privacy policy does not apply to, and we cannot control the activities of, such other advertisers or web sites.
+Please consult the respective privacy policies of these third-party ad servers for more detailed information on their practices as well as for instructions about how to opt-out of certain practices.RenewCancelTV’s privacy policy does not apply to, and we cannot control the activities of, such other advertisers or web sites.
 
 Should you wish to disable cookies, you may do so through your individual browser or device settings. More detailed information about cookie management with specific web browsers can be found at the browsers’ respective websites.
 
-RenewCancel.club will not rent or sell personally identifying information to anyone. Other than its operators RenewCancel.club discloses personally identifying information only when required to do so – for example, if requested by the law or if RenewCancel.club believes in good faith that disclosure is reasonably necessary to protect the rights of RenewCancel.club, its network web sites, partners, or the public at large.
+RenewCancelTV.com will not rent or sell personally identifying information to anyone. Other than its operators RenewCancelTV.com discloses personally identifying information only when required to do so – for example, if requested by the law or if RenewCancelTV.com believes in good faith that disclosure is reasonably necessary to protect the rights of RenewCancelTV.com, its network web sites, partners, or the public at large.
 
 Our site also uses the following cookies:
 
@@ -99,9 +87,7 @@ Our site also uses the following cookies:
 
 
 
-We reserve the right to also use other cookies.
-
-**2.5. Embedded content from other websites**
+ **2.5. Embedded content from other websites**
 
 Articles on this site may include embedded content (e.g. videos, tweets, images, articles, etc.). Embedded content from other websites behaves in the exact same way as if the visitor has visited the other website.
 
@@ -110,15 +96,13 @@ Such embedded content services may include:
   * Twitter
   * Facebook
   * Instagram
-  * Limelume Social
   * YouTube
-  * Google Calendar
 
 
 
 These websites may collect data about you, use cookies, embed additional third-party tracking, and monitor your interaction with that embedded content, including tracing your interaction with the embedded content if you have an account and are logged in to that website.
 
-**2.6. Analytics**
+ **2.6. Analytics**
 
 We use Google Analytics to measure visitors’ behavior and measure site performance. We do this to monitor site performance (articles, pages) and improve the quality of service we offer.  To learn about Google Analytics’ opt-outs, [please visit their policy document](https://support.google.com/analytics/answer/181881).
 
@@ -129,13 +113,11 @@ We also use the following analytics packages to analyse site performance and mon
 
 
 
-We reserve the right to also use other analytics services.
+ **2.7. Newsletters**
 
-**2.7. Newsletters**
+We offer web visitors the opportunity to subscribe to our weekly renew/cancel TV newsletter. This is a free service which subscribers can opt out of (unsubscribe) from at any time. To unsubscribe from our newsletter simply click the “unsubscribe” link attached to each email containing our newsletter, or write to us using [[email protected]](https://renewcanceltv.com/cdn-cgi/l/email-protection) We will proceed to remove (delete) your email and data from our newsletter lists within 72 hours.
 
-We offer web visitors the opportunity to subscribe to our renew/cancel TV newsletter. This is a free service which subscribers can opt out of (unsubscribe) from at any time. To unsubscribe from our newsletter simply click the “unsubscribe” link attached to each email containing our newsletter, or write to us using info@renewcancel.club. We usually proceed to remove (delete) your email and data from our newsletter lists within 72 hours.
-
-When you subscribe to our newsletter, your data (such as email address, IP address, date of sign up, date of opt-in, geo-location) is stored on either Aweber or Jetpack servers. Aweber is a leading email marketing service which abides by data protection and privacy laws (GDPR). You can view their privacy policy [here](https://www.aweber.com/privacy.htm). Jetpack is owned and controlled by Automatic, which is GDPR compliant. You can find more information about their privacy policy [here](https://automattic.com/privacy/).
+When you subscribe to our newsletter, your data (such as email address, IP address, date of sign up, date of opt-in, geo-location) is stored on Aweber servers. Aweber is a leading email marketing service which abides by data protection and privacy laws (GDPR). You can view their privacy policy [here](https://www.aweber.com/privacy.htm).
 
   * We use your data to send the newsletters you have requested to your inbox.
   * We use your data to notify you of information related to the service you have signed up for e.g. to inform you of important policy changes or that a service has been suspended.
@@ -148,23 +130,25 @@ We do not store your data on renewcanceltv.com servers. We provide a means for y
 
 We do not sell your data to third parties. By subscribing to our newsletter list, we provide subscribers with renew/cancel TV news and information, and give each subscriber the opportunity to unsubscribe and/or have their data deleted at any time.
 
-## **3\. How Long We Retain Your Data**
+##  **3\. How Long We Retain Your Data**
 
-If you leave a comment on the site, the comment and its metadata are retained indefinitely or until you ask us to remove it. This is so we can recognize and approve any follow-up comments automatically instead of holding them in a moderation queue. If your comment is held in moderation, it must be approved by a site administrator before appearing on the site. Should you wish to remove or edit a comment you have made on the site, please issue a request using info@renewcancel.club.
+If you leave a comment on the site, the comment and its metadata are retained indefinitely or until you ask us to remove it. This is so we can recognize and approve any follow-up comments automatically instead of holding them in a moderation queue. If your comment is held in moderation, it must be approved by a site administrator before appearing on the site. Should you wish to remove or edit a comment you have made on the site, please issue a request using [[email protected]](https://renewcanceltv.com/cdn-cgi/l/email-protection)
 
 We do not currently allow user registration to the site.
 
+Google Analytics records are held for 26 months, this is to enable use to monitor and track site performance and improvements.
+
 Emails sent to our website email account are held indefinitely or until you ask use to delete them. This is to provide support services and requests from users, so that we may reply to and authenticate user requests.
 
-## **4\. Who We Share Your Data With**
+##  **4\. Who We Share Your Data With**
 
-RenewCancel.club shall never sell or transfer your personally identifiable information such as email, name, etc, to unaffiliated third parties.
+RenewCancelTV.com shall never sell or transfer your personally identifiable information such as email, name, etc, to unaffiliated third parties.
 
 However, some data is transferred and/or stored with third-party services we use, such cloud-based services and newsletter services. This is only done as a way to provide you with a high-quality service and user experience.
 
-Here are some of the many services we use to improve your experience:
+Here are the services we use to improve your experience:
 
-  * KnownHost – our webserver which hosts renewcanceltv.com; keeps it online and accessible to visitors; stores our databases, files and themes; takes limited site backups. KnownHost also controls renewcanceltv.com billing data, that is the costs of hosting the site.
+  * InMotionHosting – our webserver which hosts renewcanceltv.com; keeps it online and accessible to visitors; stores our databases, files and themes; takes limited site backups. InMotionHosting also controls renewcanceltv.com billing data, that is the costs of hosting the site.
   * Aweber – newsletter service used to collect, store and delete subscriber contact details (such as email), deliver our weekly email newsletters to subscribers, who can opt-out at any time, and measure the effectiveness of our newsletters (clickthrough rates, bounce rates). Aweber is GDPR compliant, you can read their privacy policy [here](https://www.aweber.com/privacy.htm).
 
 
@@ -173,7 +157,7 @@ Our website reserves the right to perform statistical analysis of user behavior 
 
 ## 5\. Additional Data Protection Provisions
 
-**5.1. Facebook**
+ **5.1. Facebook**
 
 On certain pages, we may integrate components of the enterprise Facebook. Facebook is a social network.
 
@@ -189,7 +173,7 @@ Facebook always receives, through the Facebook component, information about a vi
 
 The data protection guideline published by Facebook, which is available at https://facebook.com/about/privacy/, provides information about the collection, processing and use of personal data by Facebook. In addition, it is explained there what setting options Facebook offers to protect the privacy of the data subject. In addition, different configuration options are made available to allow the elimination of data transmission to Facebook. These applications may be used by the data subject to eliminate a data transmission to Facebook.
 
-**5.2. Google Adsense**
+ **5.2. Google Adsense**
 
 RenewCancelTV uses Google AdSense. Google AdSense is an online service which allows the placement of advertising on third-party sites. Google AdSense is based on an algorithm that selects advertisements displayed on third-party sites to match with the content of the respective third-party site. Google AdSense allows an interest-based targeting of the Internet user, which is implemented by means of generating individual user profiles.
 
@@ -205,11 +189,15 @@ Through Google AdSense, personal data and information—which also includes the 
 
 Google AdSense is further explained under the following link https://www.google.com/intl/en/adsense/start/.
 
-#### 5.3. Google Analytics
+As mentioned in this privacy policy, and for clarifity, we also use the following advertising services: Amazon, Media.net, Sovrn and Taboola.
 
-RenewCancelTV has integrated the component of Google Analytics. Google Analytics is a web analytics service. Web analytics is the collection, gathering, and analysis of data about the behavior of visitors to websites. A web analysis service collects, inter alia, data about the website from which a person has come (the so-called referrer), which sub-pages were visited, or how often and for what duration a sub-page was viewed. Web analytics are mainly used for the optimization of a website and in order to carry out a cost-benefit analysis of Internet advertising.
+#### 5.3. Google Analytics (anonymized)
+
+RenewCancelTV has integrated the component of Google Analytics (with the anonymizer function). Google Analytics is a web analytics service. Web analytics is the collection, gathering, and analysis of data about the behavior of visitors to websites. A web analysis service collects, inter alia, data about the website from which a person has come (the so-called referrer), which sub-pages were visited, or how often and for what duration a sub-page was viewed. Web analytics are mainly used for the optimization of a website and in order to carry out a cost-benefit analysis of Internet advertising.
 
 The operator of the Google Analytics component is Google Inc., 1600 Amphitheatre Pkwy, Mountain View, CA 94043-1351, United States.
+
+For the web analytics through Google Analytics the controller uses the application “_gat. _anonymizeIp”. By means of this application the IP address of the Internet connection of the data subject is abridged by Google and anonymised when accessing our websites from a Member State of the European Union or another Contracting State to the Agreement on the European Economic Area.
 
 The purpose of the Google Analytics component is to analyze the traffic on our website. Google uses the collected data and information, inter alia, to evaluate the use of our website and to provide online reports, which show the activities on our websites, and to provide other services concerning the use of our Internet site for us.
 
@@ -223,7 +211,7 @@ In addition, the data subject has the possibility of objecting to a collection o
 
 Further information and the applicable data protection provisions of Google may be retrieved under https://www.google.com/intl/en/policies/privacy/ and under http://www.google.com/analytics/terms/us.html. Google Analytics is further explained under the following Link https://www.google.com/analytics/.
 
-**5.4. Instagram**
+ **5.4. Instagram**
 
 On certain pages of our website, we may integrate components of the service Instagram. Instagram is a service that may be qualified as an audiovisual platform, which allows users to share photos and videos, as well as disseminate such data in other social networks.
 
@@ -237,7 +225,7 @@ Instagram receives information via the Instagram component that the data subject
 
 Further information and the applicable data protection provisions of Instagram may be retrieved under https://help.instagram.com/155833707900388 and https://www.instagram.com/about/legal/privacy/.
 
-**5.5. Twitter**
+ **5.5. Twitter**
 
 On certain pages of RenewCancelTV, we may integrate components of Twitter. Twitter is a multilingual, publicly-accessible microblogging service on which users may publish and spread so-called ‘tweets,’ e.g. short messages, which are limited to 140 characters. These short messages are available for everyone, including those who are not logged on to Twitter. The tweets are also displayed to so-called followers of the respective user. Followers are other Twitter users who follow a user’s tweets. Furthermore, Twitter allows you to address a wide audience via hashtags, links or retweets.
 
@@ -251,7 +239,7 @@ Twitter receives information via the Twitter component that the data subject has
 
 The applicable data protection provisions of Twitter may be accessed under https://twitter.com/privacy?lang=en.
 
-**5.6. YouTube**
+ **5.6. YouTube**
 
 On certain pages we may integrate components of YouTube. YouTube is an Internet video portal that enables video publishers to set video clips and other users free of charge, which also provides free viewing, review and commenting on them. YouTube allows you to publish all kinds of videos, so you can access both full movies and TV broadcasts, as well as music videos, trailers, and videos made by users via the Internet portal.
 
@@ -265,13 +253,13 @@ YouTube and Google will receive information through the YouTube component that t
 
 YouTube’s data protection provisions, available at https://www.google.com/intl/en/policies/privacy/, provide information about the collection, processing and use of personal data by YouTube and Google.
 
-**5.7. Amazon Affiliation**
+ **5.7. Amazon Affiliation**
 
-RenewCancel.club participates in the Amazon affiliate advertising program designed to provide a means for sites to earn small advertising fees by linking to Amazon.com, where appropriate.
+RenewCancelTV.com participates in the Amazon affiliate advertising program designed to provide a means for sites to earn small advertising fees by linking to Amazon.com, where appropriate.
 
 ## 6.0. What rights you have over your data
 
-If you have left comments on this site or have subscribed to our newsletter, you can request to receive an exported file of the personal data we hold about you, including any data you have provided to us. You can also request that we erase any personal data we hold about you. This does not include any data we are obliged to keep for administrative, legal, or security purposes. We also reserve the right to refuse requests.
+If you have left comments on this site or have subscribed to our newsletter, you can request to receive an exported file of the personal data we hold about you, including any data you have provided to us. You can also request that we erase any personal data we hold about you. This does not include any data we are obliged to keep for administrative, legal, or security purposes.
 
 ## 7.0. How We Protect Your Data
 
@@ -283,32 +271,32 @@ We protect your data through a number of measures, as outlined below:
   * We use secure and complex passwords for our server and website.
   * We regularly change system and administrator passwords.
   * Our site uses SSL and HTTPS. This encrypts your communications with our server so that personal identifiable information is never captured by third parties without permission. You can read more about SSL and HTTPS [here](https://www.instantssl.com/ssl-certificate-products/https.html).
-  * We perform regular site backups. Frequent backups are performed in a secure environment. We also perform backups through an integrated WordPress service called Vaultpress from time to time, which connects from our site to its servers, to perform daily backups. Vaultpress does not collect or track personal identifiable information.
+  * We perform regular site backups. Daily backups are performed in a secure environment. We also perform backups through an integrated WordPress service called Vaultpress, which connects from our site to its servers, to perform daily backups. Vaultpress does not collect or track personal identifiable information.
   * Cloudflare. We use this as a content delivery network for our site. Cloudflare scans for, identifies and blocks threats, provides advanced DDoS protection and mitigation.
   * We constantly review our security policies and engage in staff training in data protection.
   * We use as few plugins and external services as necessary to run the site and perform its functions.
-  * We do not use contact forms on the site, further reducing the amount of data we request from our visitors. Instead, we invite users to contact us directly through email using info@renewcancel.club
+  * We do not use contact forms on the site, further reducing the amount of data we request from our visitors. Instead, we invite users to contact us directly through email using [[email protected]](https://renewcanceltv.com/cdn-cgi/l/email-protection)
 
 
 
-## **8.0. Period for which the personal data will be stored**
+##  **8.0. Period for which the personal data will be stored**
 
 The criteria used to determine the period of storage of personal data is the respective statutory retention period. After expiration of that period, the corresponding data is routinely deleted, as long as it is no longer necessary for the fulfillment of the contract or the initiation of a contract.
 
 ## 9.0. What Data Breach Procedures We Have In Place
 
-Should a breach occur, our system administrators will analyse the breach and enact our breach procedure. We will attempt to locate and sanitize the area(s) affected as quickly and thoroughly as possible. We will perform server and site-level scans to ensure to breach has been contained. In the event that user data is compromised, we will attempt to notify our users through a post on the website (or via email, should the breach relate to our newsletter subscribers) within 72 hours, explaining what has happened, how we’re resolving the issue, and what we will do to further safeguard user data.
+Should a breach occur, our system administrators will analyse the breach and enact our breach procedure. We will attempt to locate and sanitize the area(s) affected as quickly and thoroughly as possible. We will perform server and site-level scans to ensure to breach has been contained. In the event that user data is compromised, we will notify our users through a post on the website (or via email, should the breach relate to our newsletter subscribers) within 72 hours, explaining what has happened, how we’re resolving the issue, and what we will do to further safeguard user data.
 
 Following the breach, we will hold a staff meeting to discuss how we can improve security on the site.
 
-## **10\. Existence of automated decision-making**
+##  **10\. Existence of automated decision-making**
 
 As a responsible entity, we do not use automatic decision-making or profiling.
 
-## **11.0. Privacy Policy Changes**
+##  **11.0. Privacy Policy Changes**
 
-RenewCancel.club may update its privacy policy from time to time at RenewCancel.club discretion. RenewCancel.club encourages visitors to regularly check this page for any changes, updates or amendments to the RenewCancel.club privacy policy. Your continued use of RenewCancel.club after any change will constitute acceptance of such change.
+RenewCancelTV.com may update its privacy policy from time to time at RenewCancelTV.com discretion. RenewCancelTV.com encourages visitors to regularly check this page for any changes, updates or amendments to the RenewCancelTV.com privacy policy. Your continued use of RenewCancelTV.com after any change will constitute acceptance of such change.
 
-If you would like to speak to RenewCancel.club about our Privacy Policy, please contact us using info [@] RenewCancel.club.
+If you would like to speak to RenewCancelTV.com about our Privacy Policy, please contact us using info [@] RenewCancelTV.com.
 
 Attribution for this Privacy Policy goes to the [Automatic Privacy Policy](http://automattic.com/privacy/), which is available under the[ Creative Commons Attribution-Share Alike 2.5 Generic License](http://go2.wordpress.com/?id=725X1342&site=automattic.wordpress.com&url=http%3A%2F%2Fcreativecommons.org%2Flicenses%2Fby-sa%2F2.5%2F&sref=http%3A%2F%2Fautomattic.com%2Fprivacy%2F), and the [External Data Protection Officers](https://dg-datenschutz.de/services/external-data-protection-officer/?lang=en) that was developed in cooperation with RC GmbH, which sells [used notebooks](http://remarketing.company/) and the [Media Law Lawyers](https://www.wbs-law.de/eng/practice-areas/media-law/) from WBS-LAW.
