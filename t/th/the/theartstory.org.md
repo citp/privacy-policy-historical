@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the theartstory.org privacy policy that was archived on 2018-10-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181008130221id_/https%3A//www.theartstory.org/terms.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the theartstory.org privacy policy that was archived on 2019-03-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190321134513id_/https%3A//www.theartstory.org/terms.htm) for the most accurate reproduction.*
 
 # Privacy Policy, Terms, and Conditions | The Art Story
 
@@ -144,7 +144,7 @@ The CAN-SPAM Act is a law that sets the rules for commercial email, establishes 
 
 
 
-If at any time you would like to unsubscribe from receiving future emails, you can email us atinfo@theartstory.org and we will promptly remove you from ALL correspondence. 
+If at any time you would like to unsubscribe from receiving future emails, you can email us [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection) and we will promptly remove you from ALL correspondence. 
 
 #### Contacting Us
 
@@ -154,4 +154,4 @@ The Art Story
 253 West 73rd St 13H  
 New York, NEW YORK 10023  
 United States  
-info@theartstory.org 
+[[email protected]](https://web.archive.org/cdn-cgi/l/email-protection)
