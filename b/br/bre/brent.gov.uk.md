@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the brent.gov.uk privacy policy that was archived on 2018-10-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181022080357id_/https%3A//www.brent.gov.uk/privacy-cookie-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the brent.gov.uk privacy policy that was archived on 2019-03-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190321132823id_/https%3A//www.brent.gov.uk/privacy-cookie-policy) for the most accurate reproduction.*
 
-# Privacy and cookie policy | Brent Council
+# Brent Council - Privacy and cookie policy
 
 ## Privacy Notice - How we use your information
 
@@ -156,6 +156,12 @@ Where necessary or required we share information with:
 
 Once your information has been collected by the council, it may be used by other council departments, where necessary, to provide a complete service to you. It is for this reason that we link your information together, for example, to save you providing your information more than once.
 
+The paragraph within your Privacy Policy would require a small adjustment to meet requirements for Cifas Membership pilot, please see the amended paragraph below:
+
+  * The personal information we have collected from you will be shared with fraud prevention agencies who will use it to prevent fraud and money-laundering and to verify your identity. If fraud is detected, you could be refused certain services, finance, or employment. [View further details of how your information will be used](https://www.cifas.org.uk/fpn "View further details of how your information will be used") by us and these fraud prevention agencies, and your data protection rights. 
+
+
+
 ## Where in the world is your information stored?
 
 Brent Council does not process your information with third countries outside of the UK or EU zone without the safeguards being in place that are equivalent to the UK Data Protection legislation or the General Data Protection Regulations (GDPR).
@@ -233,6 +239,3 @@ In addition to undertaking our own data matching to identify errors and potentia
 If you have a concern about the way we are collecting or using your personal data, we would appreciate the chance to deal with your concerns before making a complaint to the Information Commissioner’s Office by visiting [https://ico.org.uk/concerns/](https://ico.org.uk/concerns/). You have the right to make a complaint at any time to the Information Commissioner.
 
 You can raise your concern by emailing the Data Protection Officer at [dpo@brent.gov.uk](mailto:dpo@brent.gov.uk "dpo@brent.gov.uk"),, or in writing to the Data Protection Officer, Brent Council, Civic Centre, Engineers Way HA9 0FJ.
-
-
-
