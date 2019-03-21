@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gohacking.com privacy policy that was archived on 2017-07-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170711234620id_/https%3A//www.gohacking.com/about/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gohacking.com privacy policy that was archived on 2019-03-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190321230452id_/https%3A//www.gohacking.com/about/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | GoHacking
 
