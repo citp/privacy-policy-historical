@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the datingskillsreview.com privacy policy that was archived on 2017-07-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170704132818id_/https%3A//www.datingskillsreview.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the datingskillsreview.com privacy policy that was archived on 2019-03-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190322120616id_/https%3A//www.datingskillsreview.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
-Personal Upgrades Limited (PUL) is committed to protecting your privacy. This privacy policy is provided for you to understand how we use your personal information (aka personally identifiable information). By accessing the PUL site, you take responsibility for reading and understanding this information. If you do not agree to this privacy policy, in part or whole, and do not wish to be bound by it, please discontinue accessing / utilizing our website. 
+PUL is committed to protecting your privacy. This privacy policy is provided for you to understand how we use your personal information (aka personally identifiable information). By accessing the PUL site, you take responsibility for reading and understanding this information. If you do not agree to this privacy policy, in part or whole, and do not wish to be bound by it, please discontinue accessing / utilizing our website. 
 
 This privacy policy describes what information PUL collects, how we collect it, and our information sharing practices, including: 
 
@@ -42,7 +42,7 @@ Clear GIFs often work in conjunction with existing cookies on a computer if they
 
 Your information is stored locally on our own website database or on the list server that delivers a PUL newsletter. Only authorized individuals who help manage our internal databases and those lists in order to deliver e-mail to PUL newsletter subscribed members can access your information. 
 
-All PUL newsletters include an unsubscribe link. You can unsubscribe yourself from our newsletters at any time by clicking on the unsubscribe link. To change your information, contact us at [support@personalupgrades.com](mailto:support@personalupgrades.com). 
+All PUL newsletters include an unsubscribe link. You can unsubscribe yourself from our newsletters at any time by clicking on the unsubscribe link. To change your information, contact us at var email = "support"; var domain = "datingskillsreview.com"; document.write("["+email+"@"+domain+"](https://www.datingskillsreview.com/%22%22+%22mail%22+%22to:%22+email+%22@%22+domain+%22/%22)"). 
 
 ## Personal Information of Minors
 
@@ -54,9 +54,9 @@ The PUL website contains links that redirect to third-party websites (e.g., for 
 
 ## Disclaimer
 
-PUL reserves the right and discretion to modify this privacy policy, in part or in whole, at any time. Any privacy policy updates we will posted to this website page. This policy was revised January 17, 2014. Please direct any questions or concerns regarding our privacy policy to [support@personalupgrades.com](mailto:support@personalupgrades.com). You may also contact: 
+PUL reserves the right and discretion to modify this privacy policy, in part or in whole, at any time. Any privacy policy updates we will posted to this website page. This policy was revised January 17, 2014. Please direct any questions or concerns regarding our privacy policy to [support@datingskillsreview.com](mailto:support@datingskillsreview.com) . You may also contact: 
 
-Personal Upgrades Limited  
+PUL  
 Unit 1010, 10/F, Miramar Tower, 132 Nathan Road,  
 Tsim Sha Tsui, Kowloon,  
 Hong Kong 
