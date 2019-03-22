@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the newschool.edu privacy policy that was archived on 2017-10-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171006193804id_/https%3A//www.newschool.edu/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the newschool.edu privacy policy that was archived on 2019-03-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190323002651id_/https%3A//www.newschool.edu/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | The New School
 
