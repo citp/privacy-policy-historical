@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the geekmagazine.org privacy policy that was archived on 2013-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131230005204id_/http%3A//www.geekinsider.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the geekmagazine.org privacy policy that was archived on 2019-03-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190322170835id_/https%3A//www.geekinsider.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy • Geek Insider
 
 **What information do we collect?**
 
@@ -55,10 +55,10 @@ This online privacy policy applies only to information collected through our web
 
 **Your Consent**
 
-By using our site, you consent to our [privacy policy](http://www.freeprivacypolicy.com/).
+By using our site, you consent to our privacy policy.
 
 **Changes to our Privacy Policy**
 
 If we decide to change our privacy policy, we will post those changes on this page, and/or send an email notifying you of any changes.
 
-This policy is powered by Free Privacy Policy and Rhino Support [help desk software](http://www.rhinosupport.com/).
+This policy is powered by Free Privacy Policy and Rhino Support help desk software.
