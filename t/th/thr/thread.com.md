@@ -1,75 +1,16 @@
-> *The following text is extracted and transformed from the thread.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606212655id_/https%3A//www.thread.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thread.com privacy policy that was archived on 2019-03-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190322230501id_/https%3A//www.thread.com/privacy) for the most accurate reproduction.*
 
-# Thread
+# Privacy Policy — Thread
 
-Thread, Inc. ("Thread") is totally committed to protecting the privacy of our site visitors and customers. The Thread team members are customers themselves of other Internet sites and fully appreciate and respect the importance of privacy on the Internet. We will not disclose information about our customers to third parties except where it is part of providing a service to you - e.g. arranging for a product to be sent to you, carrying out credit and other security checks and for the purposes of customer research and profiling or where we have your express permission to do so.
-
-### Your Consent
-
-We will not sell your name, address, e-mail address, credit card information or personal information to any third party without your permission, but we cannot be responsible or held liable for the actions of third party sites from which you may have linked or been directed to the Thread website.
-
-### Communication & Marketing
-
-If you have made a purchase from our store we may occasionally update you on our latest products, news and special offers via e-mail, post & telephone. You will also be given the opportunity to receive such communications from us and selected third parties when you become a member of Thread.
-
-All Thread members have the option to opt-out of receiving marketing communications from us and/or selected third parties. If you do not wish to continue to receive marketing from us and/or selected third parties you should opt-out by visiting '[Account](https://web.archive.org/settings/account)' on the Thread website. You can access '[Account](https://web.archive.org/settings/account)' once you register and login. Or click on the "unsubscribe" link in email communications which we might send you.
-
-### Cookies
-
-A cookie is a small information file that is sent to your computer, mobile or other device when you visit a website and it will recognise your device on future visits. These types of files do a number of different jobs such as remembering your preferences and chosen items, assisting you to improve your site experience as well as trying to ensure that the adverts or offers you see online are more relevant to you. These “cookies” can be divided into 4 types each of which is outlined below.
-
-### Category 1: Strictly Necessary Cookies
-
-These cookies are essential in order to enable the site to provide services you have asked for such as remembering your shopping bag items.
-
-### Category 2: Performance Cookies
-
-This type collect anonymous information on how people use the site and the data is merged with other users to enable us to improve how the site operates. For example we utilise Google Analytics cookies to help us understand how customers arrive at our site, browse or use our site and highlight areas where we can improve areas such as navigation, shopping experience and marketing campaigns. The data stored by these cookies never shows personal details from which your individual identity can be established.
-
-### Category 3: Functionality Cookies
-
-These remember choices you make such as language, search parameters such as size, colour or product line. These can then be used to provide you with an experience more appropriate with your selections and make the visits more tailored and pleasant. The information is also merged with other users on an anonymous basis to enable us to improve how the site operates. For example our Saved Items feature utilises a cookie to remember the products which you have expressed a wish to save whilst browsing our website.
-
-### Category 4: Targeting Cookies or Advertising Cookies
-
-These cookies collect information about your browsing habits in order to make advertising relevant to you and your interests. They remember the websites you have visited and that information is shared with other parties such as advertisers. For example we use 3rd party companies such as Criteo to provide you with more personalised adverts when visiting other websites.
-
-You can change the settings on your browser to prevent cookies being stored on your computer or mobile device without your explicit consent. Your browser “help” section will normally provide details on how to manage the cookie settings.
-
-### Protecting your security
-
-We may use personal information provided by you in order to conduct appropriate anti-fraud checks. Personal information that you provide may be disclosed to a credit reference or fraud prevention agency, which may keep a record of that information. This is done only to confirm your identity - a credit check is not performed and your credit rating is unaffected.
-
-### Transfers of your Information
-
-The information that we collect from you may be transferred to, and stored at, a destination outside the European Economic Area ("EEA"). It may also be processed by staff operating outside the EEA who work for Thread or one of our suppliers. Such processing may, for example, be required in order to fulfil your order, process your payment details or provide support services.
-
-Unfortunately, the transmission of information via the Internet is not completely secure. We will do our best to protect your personal data, but cannot guarantee the security of data transmitted to our site; any transmission is at your own risk. Once we have received your information, we will use strict procedures and security features to try to prevent unauthorised access.
-
-### Disclosures of your information
-
-We may disclose your personal information to any of our group of companies. We may also disclose your personal information to third parties:
-
-in the event that Thread sells or buys any business or assets; if Thread or substantially all of its assets are acquired by a third party, in which case personal data which we hold about our customers may be one of the transferred assets; or if we are under a duty to disclose or share your personal data in order to comply with any legal obligation, or in order to enforce or apply our terms of; or to protect the rights, property, or safety of Thread, our customers, or others. This includes exchanging information with other companies and organisations for the purposes of fraud protection and credit risk reduction.
-
-### Third party sites
-
-Our site may contain links to and from the websites of our partner networks, advertisers and other third parties. If you follow a link to any of these websites, please note that they have their own privacy policies and that we do not accept any responsibility or liability for these policies. Please check these policies before you submit any personal data to these websites.
-
-### Checking your Details
-
-If you wish to verify the details you have submitted to Thread you may do so by contacting us via the e-mail address or address given below. Our security procedures mean that we may request proof of identity before we reveal information. This proof of identity will take the form of your e-mail address and password submitted upon registration. You must therefore keep this information safe as you will be responsible for any action which we take in response to a request from someone using your e-mail and password. We would strongly recommend that you do not use the browser's password memory function as that would permit other people using your terminal to access your personal information.
-
-### Contacting us
-
-Thread, Inc. (at the address below) is the data controller for the purpose of the Data Protection Act 1998 (the Act).
-
-You have the right to access the information which Thread holds about you and your right of access can be exercised in accordance with the Act. You may lodge an access request for free, but depending upon the personal information you request, we may impose a charge to recover our costs in providing you with details of the information we hold about you. We will notify you of any such change upon receiving your access request, and confirm whether you wish to proceed and pay such charge.
-
-We are always pleased to hear from our customers (even if it is a complaint!). We are always grateful for any time you spend providing us with the knowledge we need to ensure our customers are completely satisfied - we want you to return to the site and to recommend us to your friends and family. If you have any questions or feedback about this statement, or if you would like us to stop processing your information, please do not hesitate to contact a customer service member of the Thread team, who will be delighted to answer any questions you may have.
-
-You can contact customer care either by emailing support at thread dot com, or by writing to us at the address below.
-
-### Write to us at:
-
-Thread, 104 Cavell Street London, E1 2JA United Kingdom
+**Contact information and basic personal details**. Such as your name, email address.  |  We use this information to communicate with you, including sending statements, news, alerts and marketing communications and conducting market research.  |  The processing is necessary for our legitimate interests, namely for marketing purposes, and for communicating with you effectively and responding to your queries.   
+We use this information to deal with enquiries and other requests made by or about you, including customer service issues, relating to our Website or the Thread Service.   
+We use this information to operate, maintain and provide to you the features and functionality of the Website and Thread Service.  |  The processing is necessary for the performance of a contract and to take steps prior to entering into a contract (namely our Terms & Conditions).   
+**Information provided by social networks you use to connect to our Website**. If you connect a social network, such as Facebook, to our Website, we will collect personal information from that social network in accordance with your privacy settings on that social network. These services will authenticate your identity and provide you the option to share certain personal information with us, which could include your name, email address, address book and contacts, or other information.  |  We use this information to operate, maintain and provide to you the features and functionality of the Website and Thread Service.  |  The processing is necessary for the performance of a contract and to take steps prior to entering into a contract (namely our Terms & Conditions).   
+**Correspondence and comments**. When you contact us directly, e.g. by email, phone, mail, when you respond to customer surveys or when you interact with customer service, we will record your comments and opinions.  |  To address your questions, issues and concerns and resolve your customer service issues.  |  The processing is necessary for our legitimate interests, namely communicating with you effectively for the purposes of resolving your issues.   
+**Your clothing-related preferences**. This includes your favourite clothing brands, fit preferences, styles, stores, preferred style photos, clothing sizes, clothing categories owned and wanted, items liked on the Website.  |  We use this information to make personalised clothing recommendations and related advice.  |  The processing is necessary for the performance of a contract (namely our Terms & Conditions).   
+**Details of your appearance and similar characteristics**. This includes your date of birth, photographs of you, hair colour eye colour.  |  We use this information to make personalised clothing recommendations and related advice.  |  The processing is necessary for the performance of a contract (namely our Terms & Conditions).   
+**Your skin colour**.  |  Where you provide it, we use this information to recommend clothes that suit your complexion.  |  We only collect this information with your explicit consent.   
+**Delivery address, billing address and country**.  |  We use this information to process and deliver orders and for billing purposes.  |  The processing is necessary for the performance of a contract (namely our Terms & Conditions).   
+We use this information to verify the eligibility of the users (as the Thread Service is for UK users only).  |  The processing is necessary for our legitimate interests, namely to verify that you are a UK-based customer.   
+**Recruiting details**. Contact information and basic personal details; professional details and employment information such as resume, references, LinkedIn profile.  |  We use this information to facilitate recruiting.  |  The processing is necessary for our legitimate interests, namely assessing your suitability for a role with Thread.   
+**All personal information set out above**.  |  We will use all the personal information we collect to operate, maintain and provide to you the features and functionality of the Website and Thread Service, to monitor and improve the Thread Service, our Website and business, and to help us develop new products and services, for internal record keeping.  |  The processing is necessary for our legitimate interests, namely to administer and improve the Thread Service, our business and develop new services. 
