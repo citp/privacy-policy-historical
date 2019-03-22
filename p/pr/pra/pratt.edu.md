@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pratt.edu privacy policy that was archived on 2018-09-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180930085912id_/https%3A//www.pratt.edu/the-institute/administration-resources/information-technology/pratt-institute-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pratt.edu privacy policy that was archived on 2019-03-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190322055005id_/https%3A//www.pratt.edu/the-institute/administration-resources/information-technology/pratt-institute-privacy-policy) for the most accurate reproduction.*
 
 # Pratt Institute | The Institute | Administration and Resources | Information Technology | Pratt Institute Privacy Policy
 
