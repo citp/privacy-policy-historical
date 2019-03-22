@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the studylight.org privacy policy that was archived on 2018-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181205022526id_/https%3A//www.studylight.org/site-info/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the studylight.org privacy policy that was archived on 2019-03-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190322150308id_/https%3A//www.studylight.org/site-info/privacypolicy.html) for the most accurate reproduction.*
 
 # Privacy Policy - StudyLight.org
 
@@ -50,13 +50,12 @@ User registration data can be corrected or updated by using our convenient [cont
 **delete/deactivate**  
 You may also use our convenient [contact form](https://web.archive.org/site-info/contact.cgi) to deactivate an account or delete an account and have it removed from our database.
 
-  
-
-
 Lectionary Calendar
 
-Tuesday, December 4th, 2018  
-the _First_ Week of Advent
+Friday, March 22nd, 2019  
+the _Second_ Week of Lent
+
+There are 30 days til Easter!
 
 ADVERTISEMENT
 
