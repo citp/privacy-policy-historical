@@ -1,111 +1,149 @@
-> *The following text is extracted and transformed from the imagecomics.com privacy policy that was archived on 2013-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130524021650id_/http%3A//www.imagecomics.com/termsofservice) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the imagecomics.com privacy policy that was archived on 2019-03-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190322113209id_/https%3A//imagecomics.com/privacy) for the most accurate reproduction.*
 
-# Image Comics | Terms of Service & Privacy Policy
+# Privacy Policy | Image Comics
 
-### Terms of Service
+Last Updated: 11/1/2018
 
-**Disclaimer and Liability**
+This Website Privacy Policy applies to information about you that Image Comics, Inc. (“Image,” “we,” or “us”), may obtain about visitors to [www.imagecomics.com/](http://www.imagecomics.com/)(the “Site”). With respect to information about Site visitors, this Privacy Policy also describes how we may collect, use, and share information we obtain about them through the Site; the choices Site visitors have regarding our use of information we obtain about them through the Site; the ways in which we safeguard the information we collect; and how to contact us regarding our privacy practices.
 
-By accessing our content, you expressly agree to use ImageComics.com at your own risk. ImageComics.com, its owners, its contributors, its affiliates and other related parties do not warrant the accuracy, completeness or reliability of any content, nor do they warrant the error-free, secure or uninterrupted delivery of service, and no oral or written information provided by the above parties shall enact such a warranty. Under no circumstances will ImageComics.com be liable for direct, indirect or incidental damages or loss or injury resulting from the use of our site, including, but not limited to, the downloading of content, errors, interruptions, delays in operation or transmission, omissions, deletion of files or e-mail, defects, viruses, theft, destruction, or unauthorized access to ImageComics.com's records or services. 
+This Privacy Policy does not apply to [www.subscriptions.imagecomics.com/](http://www.subscriptions.imagecomics.com/),[www.imagedirect.imagecomics.com](http://www.imagedirect.imagecomics.com/), or any other website related to Image Direct, as these websites are managed by a third party, [Discount Comic Book Service](https://www.dcbservice.com/)(DCBS). 
 
- **Copyright Information**
+How We Collect Information
 
-All information contained within ImageComics.com is protected under U.S. copyright laws. All rights reserved. ImageComics.com's content may only be reproduced, without alteration, for distribution in print or electronically if permission has been granted by ImageComics.com. This includes all hidden text displayed within our source code. 
+**Information You Provide**
 
-All Copyrights and trademarks used on ImageComics.com are the properties of their respective Licensors. 
+We obtain information that you provide to us directly through the Site, which may include personal information such as your name, mailing address, email address, telephone number, or other personally identifying information you choose to provide us. We also collect information from you when you seek to contact us, register for an event or hands-on training, or otherwise fill out online forms on the Site.
 
- **Registration**
+We may obtain personal information from you when you choose to email us, whether for general contact reasons or to submit original ideas to us as per our [Submissions](https://imagecomics.com/about/submissions)program. Personal information in such emails may include name, e-mail address, address, phone, fax numbers, and information provided in your cover letter, story arc synopsis, art pages, cover art, and in the body of the email you send. As Submissions are facilitated via email and not collected through the Site, personal information you provide in your emails to us are not subject to this Privacy Policy.
 
-By registering at ImageComics.com, you certify that all information provided by you is accurate. Registered users may change their passwords any time, and as often as they like. Usernames, however, cannot be changed. You are solely responsible for the use of your username and password. Registered users who lose their username and password should contact ImageComics.com immediately. 
+**Information Collected Automatically**
 
-For more information concerning the use of your personal information by ImageComics.com, see our Privacy Policy. 
+In addition to information you submit to us, we may collect certain information using automated tools such as cookies, web beacons, and web server logs (collectively “Tracking Technologies”). The types of information we collect automatically may include IP addresses, device identifiers, browser characteristics, operating system details, language preferences, referring URLs, timing and length of visits, and pages viewed.
 
- **Linking to ImageComics.com**
+· **Cookies:** A cookie is a small text file that is stored on a user’s device, which may be session ID cookies or tracking cookies. Session cookies make it easier for you to navigate the Site and expire when you close your browser. Tracking cookies remain longer and help in understanding how you use the Site, and enhance your user experience. Cookies may remain on your hard drive for an extended period of time. If you use your browser’s method of blocking or removing cookies, some but not all types of cookies may be deleted and/or blocked and as a result some features and functionalities of the Site may not work. A Flash cookie (or locally shared object) is a data file which may be placed on a device via the Adobe Flash plug-in that may be built-in to or downloaded by you to your device. HTML5 cookies can be programmed through HTML5 local storage. Flash cookies and HTML 5 cookies are locally stored on your device other than in the browser and browser settings won’t control them. To identify certain types of local shared objects on your computer and adjust your settings, please visit: [www.macromedia.com/support/documentation/en/flashplayer/help/settings_manager.html](http://www.macromedia.com/support/documentation/en/flashplayer/help/settings_manager.html). The Site may associate some or all of these types of cookies with your devices.
 
-While ImageComics.com generally encourages external sites to link to our site, we are not responsible or liable for any damages claimed in connection with content or products available from such external sites. 
+· **Web Beacons (“Tracking Pixels”):** Web beacons are small graphic images, also known as “Internet tags” or “clear gifs,” embedded in web pages and e-mail messages. Web beacons may be used, without limitation, to count the number of visitors to the Site, to monitor how users navigate the Site, and to count content views.
 
- **Rules of Conduct**
+· **Embedded Scripts:** An embedded script is programming code designed to collect information about your interactions with the Site. It is temporarily downloaded onto your computer from Image’s web server, or from a third party with which Image works, and is active only while you are connected to the Site, and deleted or deactivated thereafter.
 
-While ImageComics.com does not condone censorship and our message boards are meant to encourage open discussion, we will not tolerate unlawful or uncivilized behavior. With this in mind, ImageComics.com posters, both registered and unregistered, agree to adhere to the following rules: 
+We may combine certain automatically-collected information with other information we obtain about you, which may include information we obtain from third parties. 
 
-* You may not post any material which is knowingly false and/or defamatory, inaccurate, abusive, vulgar, hateful, harassing, obscene, profane, threatening, invasive of a person's privacy, or otherwise in violation of the law. 
+Information about your use of this Site and other online services may be collected across time, devices, and websites, and used for numerous purposes including to associate different devices you use and to deliver relevant and/or retargeted content, including interest-based ads.
 
-* You may not unlawfully post copyrighted material. 
+**Information We Obtain From Partners and Other Sources**
 
-* You may not post or link to sexually explicit material. 
+We also may obtain information about you from other sources and combine that information with information you provide to us directly or that we collect automatically through the Site.
 
-* You may not post any file that contains viruses, corrupted files, Trojan Horses, or any other destructive content. 
+**Sweepstakes, Contests and Promotions**
 
-* You may not impersonate any person, or falsely state or misrepresent your affiliation with a person or entity, or post advertisements, chain letters, pyramid schemes or solicitations.
+We may offer sweepstakes, contests, and other promotions (each, a “Promotion”), including Promotions jointly sponsored or offered by third parties, which may require submitting personal information. If you voluntarily choose to enter a Promotion, your information, including personal information, may be disclosed to Image, co-sponsors, service providers, and other third parties, including for administrative purposes and as required by law (e.g., on a winners list). By entering, you are agreeing to the official rules that govern that Promotion, which may include consent to additional or differing data practices from those contained in this Privacy Policy. Please review those rules carefully.
 
-Refusal to abide by these rules is grounds for the revocation of your posting privileges. 
+**Social Features, Advertising, and Analytics**
 
-We reserve the right to remove, edit, move or close any thread for any reason or for no reason whatsoever. You agree to hold ImageComics.com harmless from any claims or liabilities arising from the violation of these rules. As a poster, you are solely responsible for the use of your username or alias and password. Registered users who lose their username and password should contact ImageComics.com immediately. 
+Certain functionalities on the Site permit interactions that you initiate between the Site and third-party services, such as social networks (“Social Features”). Examples of Social Features include features enabling you to send content such as contacts and photos between the Site and a third-party service; “liking” or “sharing” our content; and features that otherwise connect the Site to a third-party service (e.g., to pull or push information to or from the Site). If you use Social Features, and potentially other third-party services, information you post or provide access to may be publicly displayed by the third-party service you use. Also, both Image and the third party may have access to certain information about you and your use of the Site and the third-party service.
 
- **Privacy**
+We may engage and work with service providers and other third parties to serve advertisements on the Site and/or on third-party services. Some of these ads may be tailored to your interest based on your browsing of the Site and elsewhere on the internet, sometimes referred to as “interest-based advertising” and “online behavioral advertising,” which may include sending you an ad on a third party service after you have left the Site (i.e., “retargeting”). 
 
-Protecting your privacy is a priority at ImageComics.com. Please read our Privacy Policy below for details. 
+We use certain third-party web analytics [services, such as Adobe Analytics and Google Analytics, to help us understand and analyze how visitors use the Site.](https://imagecomics.com/admin.php?/cp/content_publish/entry_form&channel_id=6&entry_id=662498&filter=YToyOntzOjE1OiJyZXR1cm5fdG9femVuYnUiO3M6MToieSI7czo3OiJwZXJwYWdlIjtpOjA7fQ==&S=ddd897bb91cd9386a751d0659bebf6bd)
 
- **Usage of ImageComics.com by minors**
+Your web browser may have settings that allow you to transmit a “Do Not Track” signal when you visit various websites or use online services. Like many websites, our Site is not designed to respond to “Do Not Track” signals received from browsers. To learn more about “Do Not Track” signals, you may wish to visit <http://www.allaboutdnt.com/>.
 
-ImageComics.com cannot and will not prohibit children under 18 from visiting our site. We encourage concerned parents or guardians to peruse ImageComics.com with their children. ImageComics.com does not condone censorship. Comic books and other graphic media, while sometimes intended for mature audiences, should be available for the enjoyment of all. While ImageComics.com makes no claims of compliance with the Children's Online Privacy Protection Act, we do not feel that our content is necessarily inappropriate for minors. If you disagree, or if you find any of our content offensive, feel free to leave ImageComics.com at any time. 
+How We Use Your Information
 
-### Privacy Policy
+We may use the information we collect about you for various purposes, including to:
 
-**Information Collection and Use**
+· Allow you to participate in features we offer on the Site;
 
-ImageComics.com is the sole owner of the information collected on this site. We will not sell, share, or rent this information to others in ways different from what is disclosed in this statement. ImageComics.com collects information from our users at several different instances. 
+· Access, store and use your customer profile to provide appropriate and tailored customer services;
 
- **Registration**
+· Personalize and improve your online experience;
 
-In order to become a registered user at ImageComics.com, a user must first complete the registration form. During registration a user is required to provide a valid e-mail address and to create a username. This information is used to contact the user about the services on our site for which they have expressed interest. All other information, is optional, but encouraged so we can provide a more personalized user experience. 
+· Enhance the viability and effectiveness of the Site and our product lineup;
 
- **Cookies**
+· Respond to emails, inquiries, comments, questions, or other requests for support;
 
-A cookie is a piece of data stored on the user's hard drive containing information about the user. Usage of a cookie is in no way linked to any personally identifiable information while on ImageComics.com. Once the user closes his or her browser, the cookie simply terminates. For instance, by setting a cookie on our site, the user would not have to log in a password more than once, thereby saving time while on our site. If a user rejects the cookie, he or she may still use our site. The only drawback to rejecting cookies is that the user will be limited in some areas of our site. Cookies can also enable us to track and target the interests of our users to enhance the experience on our site. Some of our business partners use cookies on our site through their banner advertisements and through their affiliate links. However, we have no access to or control over these cookies. 
+· Monitor and analyze trends, usage, and activities of visitors and users;
 
- **Log Files**
+· Develop new technologies and methodologies to help prevent fraud and combat the use of fraudulent email addresses;
 
-ImageComics.com uses IP addresses to analyze trends, administer the site, track users' movement, and gather broad demographic information for aggregate use. IP addresses are not linked to personally identifiable information. 
+· Improve the Site, our marketing, and other products or services we may offer;
 
- **Sharing**
+· Contact you regarding your use of the Site or, in our discretion, changes to our policies;
 
-We will share aggregated demographic information with our partners and advertisers. This is not linked to any personal information that can identify any individual person. 
+· Provide Site visitors with offers tailored to their interests and past activities on the Site;
 
-When ImageComics.com partners with another party to provide specific services, and a user signs up for these services, we will share names, or other contact information necessary for the third party to provide these services. These parties are not allowed to use personally identifiable information except for the purpose of providing these services. 
+· Comply with applicable laws, regulations, or legal process as well as industry standards and our company policies;
 
- **Links**
+· Prevent, investigate, identify, or take any other action with regard to any suspected or actual fraudulent or illegal activity or any activity that violates our terms; or
 
-This Web site contains links to other sites. Please be aware that ImageComics.com is not responsible for the privacy practices of such sites. We encourage our users to be aware when they leave our site and to read the privacy statements of every Web site that collects personally identifiable information. This privacy statement applies solely to information collected by ImageComics.com. 
+· For any other purpose, with your consent.
 
- **Surveys & Contests**
+We also may use the information we obtain about you in other ways, in which case we will notify you at the time of collection.
 
-From time to time, ImageComics.com requests information from users via surveys or contests. Participation in these surveys or contests is completely voluntary and the user therefore has a choice as to whether or not he or she will disclose personal information. Information requested may include contact information (such as name and address), and demographic information (such as zip code and age). Contact information will be used to notify the winners and award prizes. Survey information will be used for purposes of monitoring or improving the functionality of ImageComics.com. 
+How We May Share Your Information
 
- **Special Offers**
+We may disclose personal information we collect from visitors to this Site to our employees, agents, vendors, consultants, contractors, and other service providers and affiliated organizations that need the information to carry out work on our behalf. For example, we may use a third-party payment processor, such as PayPal, to handle payments for the Site. These third parties use the personal information to which they have access to fulfill the purposes for which we shared that information. We may also share your personal information with our affiliates and with partners we think you might be interested in, for their own marketing purposes. 
 
-ImageComics.com sends all new members a welcome e-mail to verify password and username. Only members who opt to receive such correspondence will occasionally receive information on products, services, special deals, and/or a newsletter. ImageComics.com always offers members the ability to opt-out of correspondence. Please see our choice and opt-out guidelines below. 
+We also may share your information:
 
- **Site and Service Updates**
+· To enforce our policies, or to protect legal rights, property, or safety;
 
-ImageComics.com also sends registered users site and service announcement updates. Members are not able to unsubscribe from service announcements, which contain important information about the service. We communicate with the user to provide requested services and in regards to issues relating to their membership via e-mail. 
+· To respond to requests by government agencies, including law enforcement authorities;
 
- **Correction/Updating Personal Information**
+· When we believe disclosure is necessary or appropriate to prevent physical harm or financial loss, or in connection with an investigation of suspected or actual illegal activity;
 
-If a registered user's personally identifiable information changes, or if a registered user wants to terminate his or her membership, we will endeavor to provide a way to correct, update, or remove that user's personal information from our database. This can usually be done at the member information page or by e-mailing us at info@imagecomics.com. 
+· With third parties, to investigate or address possible criminal or fraudulent activity; 
 
- **Choice/Opt-out**
+· In the event of a joint venture, partnership, or other collaboration with another organization; or
 
-ImageComics.com's users are given the opportunity to opt-out of having their information used for purposes not directly related to ImageComics.com at the point at which we ask for the information. 
+· If we are required to do so by law, regulation, or legal process (such as in response to a subpoena or court order or similar government request for information).
 
-Users who no longer wish to receive our newsletter or promotional materials from our partners may opt-out of receiving these communications by e-mailing us at info@imagecomics.com. 
+We reserve the right to disclose any information we obtain through the Site in the event we sell or transfer all or a portion of our business or assets (e.g., further to a merger, reorganization, liquidation, or any other business transaction), including negotiations of such transactions. Entities that acquire information from us in the context of a business transaction may continue to use that information in accordance with the terms of this Policy.
 
-ImageComics.com users are always notified when their information is being collected by outside parties. We do this so our users can make an informed choice as to whether or not they should proceed with services that require an outside party. 
+Your Choices
 
- **Membership Cancellation**
+**Ability to Unsubscribe**
 
-Image does enforce a policy that provides for termination in appropriate circumstances of members who are repeat infringers. If you believe that a member is a repeat infringer, please follow the instructions above to contact Image and provide information sufficient for us to verify that the member is a repeat infringer. 
+Should you receive a promotional email from us, you may opt out of receiving additional promotional email communications from us by following the unsubscribe instructions on the emails. Please note that even if you opt out of receiving promotional communications from us, we may continue to send you non-promotional emails.
 
- **Notification of Changes**
+**Ability to Opt Out of Analytics and Interest-Based Advertising**
 
-If we decide to change our privacy policy, we will post those changes on this page so our users are always aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it. If at any point we decide to use personally identifiable information in a manner different from that stated at the time it was collected, we will notify users via e-mail. Users will have a choice as to whether or not we use their information in this different manner. We will use information in accordance with the privacy policy under which the information was collected. 
+You may exercise choices regarding the use of cookies from Google Analytics [by visiting this page](https://tools.google.com/dlpage/gaoptout)or downloading the Google Analytics Opt-out Browser Add-on. You may exercise choices regarding the use of cookies from Adobe Analytics by going to [**http://www.adobe.com/privacy/opt-out.html**](http://www.adobe.com/privacy/opt-out.html)under the section labeled “Tell our customers not to measure your use of their websites or tailor their online ads for you.” 
+
+You may choose whether to receive some Interest-based Advertising by submitting opt-outs. Some of the advertisers and Service Providers that perform advertising-related services for us and third parties may participate in the Digital Advertising Alliance’s (“ **DAA** ”) Self-Regulatory Program for Online Behavioral Advertising. To learn more about how you can exercise certain choices regarding Interest-based Advertising, visit [**http://www.aboutads.info/choices/**](http://www.aboutads.info/choices/), and [**http://www.aboutads.info/appchoices**](http://www.aboutads.info/appchoices)for information on the DAA’s opt-out program for mobile apps. Some of these companies may also be members of the Network Advertising Initiative (“ **NAI** ”). To learn more about the NAI and your opt-out options for their members, see **http://www.networkadvertising.org/choices/**. Please be aware that, even if you are able to opt out of certain kinds of Interest-based Advertising, you may continue to receive other types of ads. Opting out only means that those selected members should no longer deliver certain Interest-based Advertisingto you, but does not mean you will no longer receive any targeted content and/or ads ( _e.g._ , from other ad networks). Also, if your browsers are configured to reject cookies when you visit these opt-out webpages, or you subsequently erase your cookies, use a different device or web browser or use a non-browser-based method of access ( _e.g._ , mobile app),your NAI / DAA browser-based opt-out may not, or may no longer, be effective. We support the ad industry’s 2009 Self-regulatory Principles for Online Behavioral Advertising expects that ad networks we directly engage to serve you Interest-based Advertisingwill do so as well, though we cannot guaranty their compliance. We arenot responsible for effectiveness of, or compliance with, any third-parties’ opt-out options or programs or the accuracy of their statements regarding their programs.
+
+In addition, we may serve ads on third-party services that are targeted to reach people on those services that are also identified on one of more of our data bases (“Matched List Ads”). This is done by matching common factors between our data bases and the data bases of the third-party services. For instance, we may use such ad services offered by Facebook or Twitter and other third-party services. We are not responsible for these third-party services, including without limitation their security of the data. If we use Facebook to serve Matched List Ads on Facebook services, you should be able to hover over the box in the right corner of such a Facebook ad and find out how to opt-out with us from such list. If you opt-out from our Facebook Matched List Ads, we will remove the matching Personal Information from that list, however, this will not take effect immediately and if you have multiple e-mails or other accounts you may have to opt-out separately for each one. We are not responsible for such third parties’ failure to comply with your or our opt-out instructions or to provide us notice of your opt-out elections, and they may change their options without notice to us or you.
+
+Information Security
+
+We maintain appropriate administrative, technical, and physical safeguards designed to help protect personal information collected or received through the Site. Although we use reasonable efforts to safeguard information, transmission via the Internet is not completely secure and we cannot guarantee the security of your information collected through the Site.
+
+Links to Other Websites
+
+We may provide links to other websites or services for your convenience and information. Websites that are operated by entities not affiliated with Image may have their own privacy policies or notices, which we strongly suggest you review. Image is not responsible for the content or privacy practices of any linked websites that we do not control.
+
+[California Privacy Rights](https://imagecomics.com/admin.php?/cp/content_publish/entry_form&channel_id=6&entry_id=662498&filter=YToyOntzOjE1OiJyZXR1cm5fdG9femVuYnUiO3M6MToieSI7czo3OiJwZXJwYWdlIjtpOjA7fQ==&S=ddd897bb91cd9386a751d0659bebf6bd)
+
+We do not share personal information as defined by California Civil Code Section 1798.83 (“Shine The Light law”) with third parties for their direct marketing purposes absent your consent. If you are a California resident, you may request information about our compliance with the Shine the Light law by contacting us here or by sending a letter to: 
+
+Image Comics, Inc.
+
+Attention: California Privacy Rights Request
+
+2701 NW Vaughn St Suite 780
+
+Portland, Oregon 
+
+Any such request must include “California Privacy Rights Request” in the first line of the description and include your name, street address, city, state, and ZIP code. Please note that we are only required to respond to one request per customer each year, and we are not required to respond to requests made by means other than through this e-mail address or mail address. 
+
+Children’s Privacy
+
+This Site is not intended for, nor targeted to, children under 13, and we do not knowingly or intentionally collect information from children under 13. If we learn that we have received information directly from a child who is under the age of 13, we will delete the information in accordance with applicable law.
+
+Information for Users Outside the United States
+
+If you are visiting the Site from outside the United States, please be aware that the Site is meant for Site visitors located in the United States and any information we collect will be transferred to and stored on our servers in the United States. By using the Site, you acknowledge and consent to the transfer and processing of your personal information in the United States as described in this Privacy Policy. Please be aware that the data protection laws and regulations applicable to your personal information transferred to the United States may be different from the laws in your country of residence.
+
+Changes to this Privacy Policy
+
+We may change this Privacy Policy from time to time at our sole discretion. If we make changes, we will notify you by revising the date at the top of this Privacy Policy. Your continued use of this Site after any update to this Privacy Policy will constitute your acceptance of the change.
