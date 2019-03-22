@@ -1,8 +1,12 @@
-> *The following text is extracted and transformed from the biogen.com privacy policy that was archived on 2018-09-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180919145824id_/https%3A//www.biogen.com/en_us/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the biogen.com privacy policy that was archived on 2019-03-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190322071008id_/https%3A//www.biogen.com/en_us/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
-### **THIS PRIVACY POLICY APPLIES TO YOUR ACCESS AND USE OF Biogen Inc., its subsidiaries, affiliates and Agents, (collectively “Biogen”, or “we”, “US” or “OUR”) WEBSITEs (“Websites”).  BY USING THE WEBSITES, YOU CONFIRM THAT YOU HAVE READ AND AGREE TO BE BOUND BY THIS PRIVACY POLICY.  IF YOU DISAGREE WITH ANY PART OF THIS PRIVACY POLICY, THEN PLEASE DO NOT USE THE WEBSITES.**
+PRIVACY POLICY
+
+Version date:  September 1, 2018
+
+**THIS PRIVACY POLICY APPLIES TO YOUR ACCESS AND USE OF Biogen Inc., its subsidiaries, affiliates and Agents, (collectively “Biogen”, or “we”, “US” or “OUR”) WEBSITEs (“Websites”).  BY USING THE WEBSITES, YOU CONFIRM THAT YOU HAVE READ AND AGREE TO BE BOUND BY THIS PRIVACY POLICY.  IF YOU DISAGREE WITH ANY PART OF THIS PRIVACY POLICY, THEN PLEASE DO NOT USE THE WEBSITES.**
 
 This Privacy Policy explains the policies and practices that we have developed to safeguard personal information and to comply with applicable data protection laws.  Please read this notice carefully to understand what information we collect, how we collect it, how we use it, who we may disclose it to, and how you can manage your personal information.
 
@@ -14,7 +18,7 @@ We may change our Privacy Policy, so please check this page periodically, as you
 
 We provide Websites to share information about the services and products we offer.  Regardless of the device you use to interact with our Websites, Biogen may collect some information that identifies you or that can be used to contact or distinguish you as an individual (“Personal Information”).  We may need to collect Personal Information about you to provide you with services or information you request, or to facilitate commercial engagements with you. If you do not provide Personal Information, we may not be able to provide services or information to you, or enter commercial engagements with you.
 
-We will only collect Personal Information about you that is necessary for one or more of our legitimate business purposes, or is required by law.
+We will only collect Personal Information about you that is necessary for one or more of our legitimate business purposes, or is required by law. 
 
 When you visit our Websites, we collect the following types of Personal Information:
 
@@ -96,7 +100,7 @@ When we collect your Personal Information, we will take reasonable steps to advi
 
 **HOW WE SHARE YOUR PERSONAL INFORMATION WITH OTHERS**
 
-Your privacy is very important to us.  We may disclose your Personal Information to certain third parties listed below, including third parties who provide us with various business services.  We will not sell your Personal Information.  We will not otherwise disclose your Personal Information without your consent, except where such disclosure is reasonably necessary for normal business operations and such disclosure is in accordance with all applicable data protection and privacy laws.
+Your privacy is very important to us.  We may disclose your Personal Information to certain third parties listed below, including third parties who provide us with various business services.  We will not sell your Personal Information.  We will not otherwise disclose your Personal Information without your consent, except where such disclosure is reasonably necessary for normal business operations and such disclosure is in accordance with all applicable data protection and privacy laws. 
 
 **(a)         Affiliates**
 
@@ -136,7 +140,7 @@ You have the rights and choices regarding Biogen’s processing of your Personal
 
 **Opt-in.** When you access any interactive tool or service on the Website that collects Personal Information, you will be asked to affirmatively choose (“opt-in”) to provide the requested Personal Information. You may always choose not to provide the requested Personal Information.
 
-**Manage email.** You may elect to receive email updates about developments regarding Biogen. If you decide, at any later time, that you no longer wish to receive these emails, you may unsubscribe to any such contact list by using the “Unsubscribe” links within the electronic communication channel, or by sending an email entitled “Unsubscribe” to privacy@biogen.com.
+**Manage email.** You may elect to receive email updates about developments regarding Biogen. If you decide, at any later time, that you no longer wish to receive these emails, you may unsubscribe to any such contact list by using the “Unsubscribe” links within the electronic communication channel, or by sending an email entitled “Unsubscribe” to [privacy@biogen.com](mailto:privacy@biogen.com).
 
 **Manage cookies.** Most web browsers allow control of cookies through the browser settings. You can set your browser to notify you when you receive a cookie, which will enable you to decide if you want to accept it or not. However, if you do not accept a cookie, certain elements of the Website may not function correctly or completely.
 
@@ -150,7 +154,7 @@ Please note that some of the above rights are limited by applicable information 
 
 **Data Collection Technologies, Interest-Based Advertising and “Do Not Track”  **
 
-**Data Collection Technologies.**   In addition to collecting your IP address as described above, we may also use certain Data Collection Technologies on our Websites such as:
+**Data Collection Technologies.**   In addition to collecting your IP address as described above, we may also use certain Data Collection Technologies on our Websites such as: 
 
 **Cookies.** Cookies are small text files placed in your computer browser or other web-accessing device directories to store your information about your use of the Websites and your activities online (collectively, “Cookies”).  A Cookie will typically contain the name of the domain (internet location) from which the Cookie has come, the “lifetime” of the Cookie (i.e. when does it expire), and a value, usually a randomly generated unique number.  To find out more about Cookies, including how to see what Cookies have been set on your device and how to manage and delete them, visit [www.allaboutcookies.org](http://www.allaboutcookies.org/).
 
@@ -182,7 +186,8 @@ Please note that when you “opt-out” of receiving interest-based advertisemen
 
 **OUR SECURITY MEASURES**
 
-We have implemented reasonable safeguards designed to prevent loss, misuse and unauthorized access, disclosure or modification of Personal Information provided or collected through the Websites.  Unfortunately, no system or online transmission of data can be guaranteed to be 100% secure and you should always take appropriate security measures to protect your Personal Information, including ensuring that you have up-to-date antivirus software. ****
+We have implemented reasonable safeguards designed to prevent loss, misuse and unauthorized access, disclosure or modification of Personal Information provided or collected through the Websites.  Unfortunately, no system or online transmission of data can be guaranteed to be 100% secure and you should always take appropriate security measures to protect your Personal Information, including ensuring that you have up-to-date antivirus software.  
+****
 
 **STORAGE & RETENTION**
 
@@ -196,11 +201,11 @@ Our Websites may feature links to third-party websites that we believe you might
 
 **OUR CHILDREN’S NOTICE**
 
-We recognize the importance of protecting the privacy of children. Our Websites are neither intended for children nor are they designed to attract child users. Our Websites, their content and our services are intended for users over the age of eighteen (18). We do not knowingly collect any personally identifiable information from children under age eighteen (18). When a user discloses Personal Information on the Websites, the user is representing to us that he or she is at least eighteen (18) years of age.  If we learn a user under the age of eighteen (18) has volunteered personally identifiable information on our Websites, or a provider has volunteered information about a patient who is identified as younger than eighteen (18), we will delete such information from our active databases.
+We recognize the importance of protecting the privacy of children. Our Websites are neither intended for children nor are they designed to attract child users. Our Websites, their content and our services are intended for users over the age of eighteen (18). We do not knowingly collect any personally identifiable information from children under age eighteen (18). When a user discloses Personal Information on the Websites, the user is representing to us that he or she is at least eighteen (18) years of age.  If we learn a user under the age of eighteen (18) has volunteered personally identifiable information on our Websites, we will delete such information from our active databases.
 
 **CONTACT US**
 
-If you have any concerns about the way your Personal Information has been collected or handled by Biogen, or any queries regarding this privacy statement, you can contact Biogen’s Global Privacy Office at  _privacy@biogen.com_.
+If you have any concerns about the way your Personal Information has been collected or handled by Biogen, or any queries regarding this privacy statement, you can contact Biogen’s Global Privacy Office at  _privacy@biogen.com._
 
 You can also write to the following address:
 
@@ -210,7 +215,7 @@ Biogen MA Inc.
 Cambridge, MA 02142  
 USA
 
-### **_EXHIBIT A_**
+**_EXHIBIT A    _**
 
 **FOCUS ON DATA COLLECTION TECHNOLOGIES**
 
@@ -283,7 +288,9 @@ Pingdom website monitoring service
 
 Service which provides anonymous monitoring of a website to guarantee that the website is active and functioning, without collecting any personally identifiable information.  
   
-We do not allow other websites or third parties to use our cookies for their own purposes on your computer when you visit our website.
+·       We only use first-party cookies or cookies that function as first-party cookies.
+
+·       We do not allow other websites or third parties to use our cookies for their own purposes or to use their own cookies on your computer when you visit our website.
 
 Most Web browsers allow control of cookies through the browser settings. You can set your browser to notify you when you receive a cookie, which will enable you to decide if you want to accept it or not. However, if you do not accept a cookie, certain elements of the website may not function correctly or completely.
 
