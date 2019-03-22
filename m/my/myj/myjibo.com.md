@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the myjibo.com privacy policy that was archived on 2018-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181219093334id_/https%3A//www.jibo.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the myjibo.com privacy policy that was archived on 2019-03-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190322072001id_/https%3A//www.jibo.com/privacy) for the most accurate reproduction.*
 
 # Privacy - Jibo
 
