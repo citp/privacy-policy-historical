@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ebizq.net privacy policy that was archived on 2018-10-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181005214157id_/http%3A//www.ebizq.net/membership/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ebizq.net privacy policy that was archived on 2019-03-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190322045727id_/http%3A//www.ebizq.net/membership/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy - TechTarget
 
@@ -131,7 +131,7 @@ TechTarget takes the security of the data that it collects very seriously. TechT
 
 TechTarget will only use your Member Information for the purposes described in this Policy or as subsequently authorized by you. We strive to offer you with choices about how your Personal Information is used and shared, as further outlined below.
 
-If, after becoming a Member, you wish to access, rectify, erase, restrict, transfer, or object to the use of your information, withdraw your membership, or if you have any questions in connection with this policy or the use of your information, please contact us at [privacy@techtarget.com](mailto:privacy@techtarget.com).
+If, after becoming a Member, you wish to access, rectify, erase, restrict, transfer, or object to the use of your information, withdraw your membership, or if you have any questions in connection with this policy or the use of your information, please access the [Individual Rights Request Form.](https://www.techtarget.com/individual-rights-request/)
 
 **A. Opting-Out**. TechTarget provides Users and Members with several ways in which they can easily opt-out of TechTarget’s services.
 
@@ -157,11 +157,11 @@ Members may receive email marketing messages from us about relevant content, pro
 
 Personal Information collected outside the United States, including in the European Economic Area (“ **EEA** “), is transferred to and stored on our servers in the United States and potentially in or to other countries whose data protection laws may be different to the laws in your country. We will protect your Personal Information in accordance with this Policy wherever it is processed.
 
-TechTarget has certified to the United States Department of Commerce and the European Commission that it adheres to the EU-US Privacy Shield Framework and the Swiss-US Privacy Shield Framework (together, the “Privacy Shield.” The Privacy Shield is a set of guidelines that establishes an adequacy standard which governs data-sharing between the European Union and Switzerland and the United States.
+TechTarget has certified to the United States Department of Commerce and the European Commission that it adheres to the EU-US Privacy Shield Framework and the Swiss-US Privacy Shield Framework (together, the “Privacy Shield.”) as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal information transferred from the European Union, the United Kingdom, and Switzerland to the United States in reliance on Privacy Shield. 
 
-TechTarget has certified that (1) it has certain protections and procedures in place which meet EU and Swiss data protection and privacy standards and (2) further, that it adheres to the Privacy Shield principals of notice, choice, security, data integration and purpose limitation, access, accountability for the onward transfer of personal data, recourse, enforcement, and liability. To learn more about the EU-US Privacy Shield, and to view TechTarget’s certification, please visit https://www.commerce.gov/page/eu-us-privacy-shield.
+TechTarget has certified that (1) it has certain protections and procedures in place which meet EU and Swiss data protection and privacy standards, (2) it adheres to the Privacy Shield principals of notice, choice, security, data integration and purpose limitation, access, accountability for the onward transfer of personal data, recourse, enforcement, and liability, and (3) it is committed to cooperating with the panel established by the EU data protection authorities (DPAs) with regard to unresolved Privacy Shield complaints concerning data transferred from the United States in connection with this Policy. To learn more about the EU-US Privacy Shield, and to view TechTarget’s certification, please visit https://www.commerce.gov/page/eu-us-privacy-shield.
 
-[TechTarget’s EU-US/Swiss-US Privacy Shield Policy](https://www.techtarget.com/wp-content/uploads/files/clientresources/EU_Safe_Harbor_Policy_10-23-2015.pdf), incorporated herein by reference, describes the manner in which TechTarget adheres to the Privacy Shield principles.
+[TechTarget’s EU-US/Swiss-US Privacy Shield Policy](https://web.archive.org/techtarget-inc-eu-us-privacy-shield-policy-and-notice-of-certification/), incorporated herein by reference, describes the manner in which TechTarget adheres to the Privacy Shield principles.
 
 ### XIV. General
 
