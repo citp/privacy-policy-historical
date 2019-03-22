@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the simplicable.com privacy policy that was archived on 2018-08-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180824060905id_/https%3A//simplicable.com/new/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the simplicable.com privacy policy that was archived on 2019-03-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190322044621id_/https%3A//simplicable.com/new/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Simplicable
 
@@ -60,13 +60,6 @@ The most popular articles on Simplicable in the past day.
 
 Recent posts or updates on Simplicable.
 
-[](https://simplicable.com/new/modern-vs-contemporary)| | 
-
-The difference between modern and contemporary as it applies to ideas, art, architecture, literature and other works.  
-  
-  
----|---|---  
-  
   
   
   
