@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the weekendnotes.com privacy policy that was archived on 2017-09-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170916155900id_/https%3A//www.weekendnotes.com/wn-privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the weekendnotes.com privacy policy that was archived on 2019-03-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190322055349id_/https%3A//www.weekendnotes.com/wn-privacy) for the most accurate reproduction.*
 
 # Privacy
 
