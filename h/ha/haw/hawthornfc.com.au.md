@@ -1,22 +1,14 @@
-> *The following text is extracted and transformed from the hawthornfc.com.au privacy policy that was archived on 2018-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181231130519id_/http%3A//www.hawthornfc.com.au/club/reports-and-policies) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hawthornfc.com.au privacy policy that was archived on 2019-03-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190322224405id_/http%3A//www.hawthornfc.com.au/club/reports-and-policies) for the most accurate reproduction.*
 
 # Reports and Policies - hawthornfc.com.au
 
-View the **[Hawthorn Football Club Constitution](https://s.afl.com.au/staticfile/AFL%20Tenant/Hawthorn/PDFs/2017%20PDF/HFC%20Constitution%20%202013.pdf)**
-
-**●  [Notice of the 2018 AGM (.pdf)](https://memberhq.s3.amazonaws.com/afl-hawks/uploads/2018-Official-Member-Letter-and-Notice-2018.pdf)**
-
-●  **[Form of proxy](https://memberhq.s3.amazonaws.com/afl-hawks/uploads/HFC_-Appointment-of-Proxy-Form---25.10.18-66203779v1.pdf) (.pdf)**
-
-**●  [ **Constitution with proposed amendments at the 2018 AGM**](https://memberhq.s3.amazonaws.com/afl-hawks/uploads/HFC-Constitution-incorporated-proposed-2018-AGM-amendments-pdf.pdf)**
-
-******●[Annual report](https://s.afl.com.au/staticfile/AFL%20Tenant/Hawthorn/PDFs/2018%20PDFs/2018%20Hawthorn%20FC%20Annual%20Report%20ONLINE2.pdf)******
+View the **[Hawthorn Football Club Constitution](https://s.afl.com.au/staticfile/AFL%20Tenant/Hawthorn/PDFs/2018%20PDFs/HFC%20Constitution%20\(effective%2011%20Dec%202018\)%20\(66582305v1\).PDF)**
 
 The Hawthorn Football Club Media Policy outlines the procedures which apply to all media wishing to deal with the Club for on-field and off-field activities.
 
 The intention of the Policy is to provide media agencies and those employed by media agencies a clear framework as to the weekly media opportunities available, the interview request process, match day activities, communication of key weekly Club information and spokespersons on various Club issues and activities.
 
-**[Download the 2017 Hawthorn media policy (.pdf)](https://s.afl.com.au/staticfile/AFL%20Tenant/Hawthorn/PDFs/2017%20PDF/2017%20Hawthorn%20FC%20Media%20Policy.docx)**
+**[Download the 2019 Hawthorn media policy (.pdf)](https://s.afl.com.au/staticfile/AFL%20Tenant/Hawthorn/PDFs/2018%20PDFs/2019%20Hawthorn%20FC%20Media%20Policy.pdf)**
 
 ## AFL and AFL Club Privacy Policy
 
