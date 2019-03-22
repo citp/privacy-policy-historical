@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the barbequesgalore.com.au privacy policy that was archived on 2018-08-15.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20180815170339id_/https%3A//www.barbequesgalore.com.au/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the barbequesgalore.com.au privacy policy that was archived on 2019-03-22.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20190322105209id_/https%3A//www.barbequesgalore.com.au/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"><head>
     <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
@@ -32,7 +32,7 @@
 //]]>
 </script>
 <![endif]-->
-<script async="" charset="utf-8" src="//v2.zopim.com/?3023tEZYRXYs5Yb3wawj8b8CsKKnhpqb" type="text/javascript"></script><script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-M6HJNG"></script><script async="" src="//connect.facebook.net/en_US/fbevents.js"></script><script type="text/javascript">
+<script async="" charset="utf-8" src="//v2.zopim.com/?3023tEZYRXYs5Yb3wawj8b8CsKKnhpqb" type="text/javascript"></script><script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-M6HJNG"></script><script async="" src="https://www.googletagmanager.com/gtm.js?id=GTM-M6HJNG"></script><script type="text/javascript">
     //<![CDATA[
     var BASE_URL = 'https://www.barbequesgalore.com.au/';
 
@@ -212,24 +212,42 @@ optionalZipCountries = [];
 </script><!-- Easy Email Capture For Checkout -->
 
 <!-- Easy Email Capture For Newsletter Field -->
+    <script>
+        Event.observe(document, 'personalisationcookie:render', function() {
+            var vCookieName = 'personalisation';
+            var aResults = document.cookie.match ( '(^|;) ?' + vCookieName + '=([^;]*)(;|$)' );
+            if (aResults){
+                var vCookie = unescape (aResults[2]);
+                if(vCookie != ''){
+                    var aCookieData = vCookie.evalJSON();                    
+                                            $$('#cart-count').each(function(el) {
+                            el.update(aCookieData['cart_count'].toString().split('+').join(' '));
+                        });
+                                        
+                                        
+                                        
+                                        
+                                        
+                                                                if(aCookieData['logged_in']=='true'){
+                            $$('').invoke('hide');
+                            $$('').invoke('show');
+                        } else {
+                            $$('').invoke('show');
+                            $$('').invoke('hide');
+                        }
+                                    }
+            } else {
+                $$('').invoke('show');
+                $$('').invoke('hide');
+            }
+        })
+        Event.observe(document, 'dom:loaded', function() {
+            Event.fire(document, 'personalisationcookie:render');
+        })
+    </script>
 
-<!-- Facebook Pixel Code - Remmote © --> 
-<script> 
-    !function(f,b,e,v,n,t,s){if(f.fbq)return;n=f.fbq=function(){n.callMethod? 
-    n.callMethod.apply(n,arguments):n.queue.push(arguments)};if(!f._fbq)f._fbq=n; 
-    n.push=n;n.loaded=!0;n.version='2.0';n.queue=[];t=b.createElement(e);t.async=!0; 
-    t.src=v;s=b.getElementsByTagName(e)[0];s.parentNode.insertBefore(t,s)}(window, 
-    document,'script','//connect.facebook.net/en_US/fbevents.js');
-
-
-    fbq('init',  '677022302509103'); 
-    fbq('track', 'PageView');
-
-</script> 
-<noscript><img height="1" width="1" style="display:none" src="https://www.facebook.com/tr?id=677022302509103&ev=PageView&noscript=1"/></noscript>
-<!-- End Facebook Pixel Code - Remmote © -->
 <script>
-    window.algoliaConfig = {"instant":{"enabled":false,"apiKey":"ODFmY2ZlNDZiZWRkNGZkZjZhNzBiYzZkMzhkZjYyZTNjMTRmOGE1NjcxMWNhYWI2MTA3YjQzNTg2NzIzNTRkY2ZpbHRlcnM9Jm51bWVyaWNGaWx0ZXJzPXZpc2liaWxpdHlfc2VhcmNoJTNEMQ==","selector":".main","isAddToCartEnabled":true,"showStaticContent":false,"title":"","description":"","content":"","imgHtml":"","hasFacets":false},"autocomplete":{"enabled":true,"apiKey":"YWMzMjNhMDk5ZTg3NTFhODI1MWM0MWM4NDVhYWQ0YTY3ZTE5YzYxNmFlY2RkY2I4YmRiM2UwNTE2NTJmMzk2MWZpbHRlcnM9","selector":".algolia-search-input","sections":[],"nbOfProductsSuggestions":"6","nbOfCategoriesSuggestions":"6","nbOfQueriesSuggestions":"0","displaySuggestionsCategories":true,"isDebugEnabled":false},"extensionVersion":"1.11.1","applicationId":"3CHH6JKO24","indexName":"magento_prod_default","facets":[],"areCategoriesInFacets":false,"hitsPerPage":12,"sortingIndices":[],"isSearchPage":false,"isCategoryPage":false,"removeBranding":false,"priceKey":".AUD.default","currencyCode":"AUD","currencySymbol":"$","maxValuesPerFacet":10,"autofocus":true,"analytics":{"enabled":true,"delay":3000,"triggerOnUIInteraction":true,"pushInitialSearch":false},"request":{"query":"","refinementKey":"","refinementValue":"","path":"","level":"","formKey":"lEqbE6szkJgF7ERg"},"showCatsNotIncludedInNavigation":false,"showSuggestionsOnNoResultsPage":true,"baseUrl":"https:\/\/www.barbequesgalore.com.au","popularQueries":[],"useAdaptiveImage":false,"urls":{"logo":"https:\/\/www.barbequesgalore.com.au\/skin\/frontend\/base\/default\/algoliasearch\/search-by-algolia.svg?v=97"},"translations":{"to":"to","or":"or","go":"Go","in":"in","popularQueries":"You can try one of the popular search queries","seeAll":"See all products","allDepartments":"See All Products","seeIn":"","orIn":"or in","noProducts":"No products for query","noResults":"No results","refine":"Refine","selectedFilters":"Selected Filters","clearAll":"Clear all","previousPage":"Previous page","nextPage":"Next page","searchFor":"Search for products","relevance":"Relevance","categories":"Categories","products":"Products","searchBy":"Search by"}};
+    window.algoliaConfig = {"instant":{"enabled":false,"apiKey":"ODFmY2ZlNDZiZWRkNGZkZjZhNzBiYzZkMzhkZjYyZTNjMTRmOGE1NjcxMWNhYWI2MTA3YjQzNTg2NzIzNTRkY2ZpbHRlcnM9Jm51bWVyaWNGaWx0ZXJzPXZpc2liaWxpdHlfc2VhcmNoJTNEMQ==","selector":".main","isAddToCartEnabled":true,"showStaticContent":false,"title":"","description":"","content":"","imgHtml":"","hasFacets":false},"autocomplete":{"enabled":true,"apiKey":"YWMzMjNhMDk5ZTg3NTFhODI1MWM0MWM4NDVhYWQ0YTY3ZTE5YzYxNmFlY2RkY2I4YmRiM2UwNTE2NTJmMzk2MWZpbHRlcnM9","selector":".algolia-search-input","sections":[{"name":"pages","label":"Pages","hitsPerPage":"1"}],"nbOfProductsSuggestions":"8","nbOfCategoriesSuggestions":"3","nbOfQueriesSuggestions":"6","displaySuggestionsCategories":false,"isDebugEnabled":false},"extensionVersion":"1.11.1","applicationId":"3CHH6JKO24","indexName":"magento_prod_default","facets":[],"areCategoriesInFacets":false,"hitsPerPage":12,"sortingIndices":[],"isSearchPage":false,"isCategoryPage":false,"removeBranding":false,"priceKey":".AUD.default","currencyCode":"AUD","currencySymbol":"$","maxValuesPerFacet":10,"autofocus":true,"analytics":{"enabled":true,"delay":3000,"triggerOnUIInteraction":true,"pushInitialSearch":false},"request":{"query":"","refinementKey":"","refinementValue":"","path":"","level":"","formKey":"XyZmonJtyfnezWJv"},"showCatsNotIncludedInNavigation":false,"showSuggestionsOnNoResultsPage":true,"baseUrl":"https:\/\/www.barbequesgalore.com.au","popularQueries":[],"useAdaptiveImage":false,"urls":{"logo":"https:\/\/www.barbequesgalore.com.au\/skin\/frontend\/base\/default\/algoliasearch\/search-by-algolia.svg?v=97"},"translations":{"to":"to","or":"or","go":"Go","in":"in","popularQueries":"You can try one of the popular search queries","seeAll":"See all products","allDepartments":"See All Products","seeIn":"","orIn":"or in","noProducts":"No products for query","noResults":"No results","refine":"Refine","selectedFilters":"Selected Filters","clearAll":"Clear all","previousPage":"Previous page","nextPage":"Next page","searchFor":"Search for products","relevance":"Relevance","categories":"Categories","products":"Products","searchBy":"Search by"}};
 </script>
 
 <!--[if lte IE 9]>
@@ -250,7 +268,15 @@ optionalZipCountries = [];
                         
                     <script type="text/javascript">//<![CDATA[
         var Translator = new Translate([]);
-        //]]></script><meta name="google-site-verification" content="7CIc5KldwV0WopgzOhwtO0PAy5ONG5F7c65DAgt5VPE">
+        //]]></script><!-- Google Tag Manager -->
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-M6HJNG');</script>
+<!-- End Google Tag Manager -->
+
+<meta name="google-site-verification" content="7CIc5KldwV0WopgzOhwtO0PAy5ONG5F7c65DAgt5VPE">
 
 <style>
 .-clearance---limited-stock-label span
@@ -435,7 +461,132 @@ var shopselector = new NS.Shopselector({
                         </div>
                         <div class="account-links">
                                                     </div>
-                        <div class="top-cart hide"></div>
+                        <div class="top-cart hide">            <div class="hdr-cart">
+            <div class="hdr-cart-dropdown-box">
+                <div class="hdr-cart-dropdown-chosen block-title">
+                    <div id="cartHeader" class="cart-header">
+                                                <span id="cart-count" class="cart-count">0</span>
+                        <span class="desktop-label">My Cart</span>
+                        <span class="mobile-label">Cart</span>
+                    </div>
+                </div>
+                <div id="top_cart_content" class="hdr-cart-dropdown">
+                    <div class="minicart-arrow"></div>
+                    <div id="minicart-content">
+                        Loading...
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <script>
+            (function ($, $$, Event) {
+                var miniCartIsLoaded = false;
+                var miniCartDropDown = $('top_cart_content');
+                var miniCartContent = $('minicart-content');
+
+                function showMinicart(event) {
+                    miniCartDropDown.addClassName('visible');
+                    // document.querySelector('.page').classList.add('minicart-visible');
+
+                    // If the user is on mobile, the position of the arrow needs to be dynamically calculated
+                    // This is done after adding the visible class so that the left position of the minicart will be accurate and consistent
+                    var minicartArrow = document.querySelector('.minicart-arrow');
+                    if (window.innerWidth <= 767) {
+                        var minicartMobileButton = document.querySelector('.top-cart');
+                        var minicart             = document.querySelector('.hdr-cart-dropdown');
+
+                        var btnLeftPost     = minicartMobileButton.getBoundingClientRect().left;
+                        var minicartLeftPos = minicart.getBoundingClientRect().left;
+                        var btnWidth        = minicartMobileButton.getBoundingClientRect().width;
+                        var arrowPosRelToMinicartLeft = btnLeftPost - minicartLeftPos + (btnWidth /2) - 6;
+
+                        minicartArrow.style.left = Math.abs(arrowPosRelToMinicartLeft) + 'px';
+                    } else {
+                        // Reset the left positioning if the user now sees the desktop view after previously seeing mobile
+                        minicartArrow.style.left = 'auto';
+                    }
+
+                    if (!miniCartIsLoaded) {
+                        var cartUrl = '//www.barbequesgalore.com.au/checkout/cart/' + '?cachebuster=' + new Date().valueOf();
+                        new Ajax.Request(cartUrl,{
+                            method: 'get',
+                            onSuccess: function(resp) {
+                                var minicart = resp.responseJSON;
+                                if (minicart && minicart.minicart) {
+                                    miniCartContent.update(minicart.minicart);
+                                    miniCartIsLoaded = true;
+                                    Event.fire(document, 'minicart:loaded');
+                                } else {
+                                    alert('An error has occurred. Please try again');
+                                }
+                            }
+                        });
+                    }
+                    event.stopPropagation(true);
+                }
+
+                function reloadMiniCart(ev) {
+                    miniCartIsLoaded = false;
+                    showMinicart(ev);
+                }
+
+                function hideMiniCart(ev) {
+                    miniCartDropDown.removeClassName('visible');
+                    // document.querySelector('.page').classList.remove('minicart-visible');
+                }
+
+                Event.observe(document, 'personalisationcookie:render', function() {
+                    miniCartIsLoaded = false;
+                });
+
+                // Open mincart on successful add to cart on Mix N Matchpage
+                // Mix N Match is the only thing that uses Aligent's Ajax add to
+                // cart (and therefore throws this event) so no conditional is
+                // required to make sure it was a Mix N Match item before
+                // opening cart.
+                Event.observe(document, 'addToCart:addComplete', function (ev) {
+                    showMinicart(ev);
+                    var hideMiniCartTimeout = setTimeout(function() {
+                        hideMiniCart();
+                    }, 5000);
+                    Event.observe('top_cart_content', 'mouseover', function () {
+                        clearTimeout(hideMiniCartTimeout)
+                    });
+                });
+
+                // Bind event observer to close button whenever the minicart is reloaded.
+                Event.observe(document, 'minicart:loaded', function() {
+                    miniCartDropDown.select(".controls .close").invoke('observe', 'click', function(ev) {
+                        hideMiniCart();
+                        ev.preventDefault();
+                    });
+                    $$(".btn-remove-minicart").invoke('observe', 'click', reloadMiniCart);
+                });
+
+                Event.observe(document, 'dom:loaded', function() {
+                    $$(".hdr-cart-dropdown-box .hdr-cart-dropdown-chosen").invoke('observe', 'click', function(ev) {
+                        if (document.querySelector('.hdr-cart-dropdown').classList.contains('visible')) {
+                            hideMiniCart(ev);
+                        } else {
+                            showMinicart(ev);
+                        }
+                    });
+
+                    $$('.page').invoke('observe', 'click', function(e) {
+
+                        // Only hide the minicart if the user has clicked outside of the minicart container
+                        if (!e.target.matches('.hdr-cart-dropdown') &&
+                            $(e.target).up('.hdr-cart-dropdown') === undefined
+                        ) {
+                            hideMiniCart()
+                        }
+                    });
+                });
+
+            }($, $$, Event));
+        </script>
+    </div>
                     </div>
 
                     <div class="header-search ">
@@ -457,12 +608,13 @@ var shopselector = new NS.Shopselector({
 </script>
                     </div>
 
-                    <ul><!-- <li><a href="https://www.barbequesgalore.com.au/sale">Sale up to 30%</a></li> --> <!-- <li><a href="https://www.barbequesgalore.com.au/outdoor-living-ideas">Outdoor Living Ideas</a></li> --> <!-- <li><a href="/wood-heating-tips/wood-heaters-guide">Wood Heating Guide</a></li> --> <!-- <li><a href="https://www.barbequesgalore.com.au/outdoor-furniture/whats-new/">New Outdoor Furniture</a></li> -->
+                    <ul><!-- <li><a href="https://www.barbequesgalore.com.au/sale">Sale up to 30%</a></li> --> <!-- <li><a href="https://www.barbequesgalore.com.au/outdoor-living-ideas">Outdoor Living Ideas</a></li> --> <!-- <li><a href="https://www.barbequesgalore.com.au/outdoor-furniture/whats-new/">New Outdoor Furniture</a></li> -->
 <li><a href="https://www.barbequesgalore.com.au/bbq-expert/category/bbq-recipes/">Recipes</a></li>
 <!-- <li><a href="https://www.barbequesgalore.com.au/bbq-expert/">BBQ Expert</a></li> -->
 <li><a href="https://www.barbequesgalore.com.au/lownslow">Low N Slow</a></li>
-<li><a href="/wood-heating-tips/wood-heaters-guide">Wood Heating Guide</a></li>
+<!-- <li><a href="/wood-heating-tips/wood-heaters-guide">Wood Heating Guide</a></li> -->
 <li><a href="https://www.barbequesgaloregiftcards.com.au/?utm_source=content%20menu&amp;utm_medium=link&amp;utm_campaign=BBQGalore%20Website">Gift Cards</a></li>
+<li><a href="https://www.barbequesgalore.com.au/at-home">At Home Augmented Reality App</a></li>
 </ul>                </div>
             </div>
         </div>
@@ -490,47 +642,52 @@ var shopselector = new NS.Shopselector({
 <li class="level2 nav-1-1-2"><a class="level2" href="https://www.barbequesgalore.com.au/barbeques/barbeque-type/portable">Portable</a></li>
 <li class="level2 nav-1-1-3"><a class="level2" href="https://www.barbequesgalore.com.au/barbeques/barbeque-type/freestanding-gas">Freestanding</a></li>
 <li class="level2 nav-1-1-4"><a class="level2" href="https://www.barbequesgalore.com.au/barbeques/barbeque-type/outdoor-kitchens">Outdoor Kitchen</a></li>
-<li class="level2 nav-1-1-5"><a class="level2" href="https://www.barbequesgalore.com.au/barbeques/barbeque-styles/smokers">Smokers</a></li>
-<li class="level2 nav-1-1-6"><a class="level2" href="https://www.barbequesgalore.com.au/barbeques/barbeque-styles/pizza-ovens">Pizza Ovens</a></li>
-<li class="level2 nav-1-1-7"><a class="level2" href="https://www.barbequesgalore.com.au/barbeques/barbeque-styles/kettle">Kettle</a></li>
-<li class="level2 nav-1-1-8"><a class="level2" href="https://www.barbequesgalore.com.au/barbeques/barbeque-styles/spit">Spit</a></li>
-<li class="level2 nav-1-1-9"><a class="level2" href="https://www.barbequesgalore.com.au/barbeques/barbeque-styles/full-hotplate">Full Hotplate</a></li>
+<li class="level2 nav-1-1-5"><a class="level2" href="https://www.barbequesgalore.com.au/alfresco-kitchen-co">Alfresco Kitchen Co.</a></li>
+<li class="level2 nav-1-1-6"><a class="level2" href="https://www.barbequesgalore.com.au/barbeques/barbeque-styles/smokers">Smokers</a></li>
+<li class="level2 nav-1-1-7"><a class="level2" href="https://www.barbequesgalore.com.au/barbeques/barbeque-styles/pizza-ovens">Pizza Ovens</a></li>
+<li class="level2 nav-1-1-8"><a class="level2" href="https://www.barbequesgalore.com.au/barbeques/barbeque-styles/kettle">Kettle</a></li>
+<li class="level2 nav-1-1-9"><a class="level2" href="https://www.barbequesgalore.com.au/barbeques/barbeque-styles/spit">Spit</a></li>
+<li class="level2 nav-1-1-10"><a class="level2" href="https://www.barbequesgalore.com.au/barbeques/barbeque-styles/full-hotplate">Full Hotplate</a></li>
 </ul>
 </div>
 </div>
 <div class="li_block" data-equalizer-watch="foo">
-<div class="level1 nav-1-2 parent"><a class="level1 has-children" href="https://www.barbequesgalore.com.au/barbeques/barbeque-brands">Brand</a>
+<div class="level1 nav-1-2 parent"><a class="level1 has-children " href="https://www.barbequesgalore.com.au/barbeques/barbeque-brands/all-premium-bbqs">Premium BBQ Brands</a>
 <ul class="level1">
-<li class="level2 nav-1-2-1 first"><a class="level2 has-children" href="https://www.barbequesgalore.com.au/barbeques/barbeque-brands/ziegler-brown">Ziegler &amp; Brown Grill &amp; Turbo</a></li>
-<li class="level2 nav-1-2-2"><a class="level2" href="https://www.barbequesgalore.com.au/barbeques/barbeque-brands/beefmaster">Beefmaster</a></li>
-<li class="level2 nav-1-2-3"><a class="level2" href="https://www.barbequesgalore.com.au/barbeques/barbeque-brands/bradley">Bradley</a></li>
-<li class="level2 nav-1-2-4"><a class="level2" href="https://www.barbequesgalore.com.au/barbeques/barbeque-brands/kamado-joe">Kamado Joe</a></li>
-<li class="level2 nav-1-2-5"><a class="level2" href="https://www.barbequesgalore.com.au/barbeques/barbeque-brands/traeger">Traeger</a></li>
-<li class="level2 nav-1-2-6"><a class="level2" href="https://www.barbequesgalore.com.au/barbeques/barbeque-brands/napoleon">Napoleon</a></li>
-<li class="level2 nav-1-2-7"><a class="level2" href="https://www.barbequesgalore.com.au/barbeques/barbeque-brands/cordon-bleu">Cordon Bleu</a></li>
-<li class="level2 nav-1-2-8"><a class="level2" href="https://www.barbequesgalore.com.au/barbeques/barbeque-brands/downunder">Downunder</a></li>
-<li class="level2 nav-1-2-9"><a class="level2" href="https://www.barbequesgalore.com.au/barbeques/barbeque-brands/billabong">Billabong</a></li>
-<li class="level2 nav-1-2-10"><a class="level2" href="https://www.barbequesgalore.com.au/barbeques/barbeque-brands/footymaster">Footymaster</a></li>
-<li class="level2 nav-1-2-11"><a class="level2  " href="https://www.barbequesgalore.com.au/barbeques/barbeque-brands/pro-q">ProQ</a></li>
-<li class="level2 nav-1-2-12"><a class="level2  " href="https://www.barbequesgalore.com.au/barbeques/barbeque-brands/weber">Weber</a></li>
+<li class="level2 nav-1-2-1 first"><a class="level2 has-children" href="https://www.barbequesgalore.com.au/barbeques/barbeque-brands/turbo-range">Ziegler &amp; Brown Turbo</a></li>
+<li class="level2 nav-1-2-1 first"><a class="level2 has-children" href="https://www.barbequesgalore.com.au/barbeques/barbeque-brands/ziegler-brown/ziggy-grill-series">Ziggy Grill Series</a></li>
+<!-- <li class="level2 nav-1-2-2"><a class="level2" href="https://www.barbequesgalore.com.au/barbeques/barbeque-brands/cordon-bleu">Cordon Bleu</a></li> -->
+<li class="level2 nav-1-2-4"><a class="level2" href="https://www.barbequesgalore.com.au/barbeques/barbeque-brands/all-premium-bbqs">All Premium BBQs</a></li>
+</ul>
+</div>
+<div class="level1 nav-1-2 parent"><a class="level1 has-children " href="https://www.barbequesgalore.com.au/barbeques/barbeque-brands/all-everyday-bbqs">Everyday BBQ Brands</a>
+<ul class="level1">
+<li class="level2 nav-1-2-2"><a class="level2" href="https://www.barbequesgalore.com.au/barbeques/barbeque-brands/beefmaster-alfresco">Beefmaster &amp; Alfresco</a></li>
+<li class="level2 nav-1-2-8"><a class="level2" href="https://www.barbequesgalore.com.au/barbeques/barbeque-brands/downunder-footymaster">Downunder &amp; Footymaster Hotplates</a></li>
+<li class="level2 nav-1-2-9"><a class="level2" href="https://www.barbequesgalore.com.au/barbeques/barbeque-brands/billabong-nexgrill">Billabong &amp; Nexgrill</a></li>
+<li class="level2 nav-1-2-11"><a class="level2" href="https://www.barbequesgalore.com.au/barbeques/barbeque-brands/all-everyday-bbqs">All Everyday BBQs</a></li>
 </ul>
 </div>
 </div>
 <div class="li_block" data-equalizer-watch="foo">
-<div class="level1 nav-1-3 parent"><a class="level1 has-children " href="https://www.barbequesgalore.com.au/barbeques/barbeque-styles">No. of Burners</a>
+<div class="level1 nav-1-3 parent"><a class="level1 has-children " href="https://www.barbequesgalore.com.au/barbeques/barbeque-brands/all-speciality-bbqs">Speciality BBQ Brands</a>
 <ul class="level1">
-<li class="level2 nav-1-2-1"><a class="level2  " href="https://www.barbequesgalore.com.au/barbeques/barbeque-type/2-burner-bbqs">2 Burner BBQs</a></li>
-<li class="level2 nav-1-2-2"><a class="level2  " href="https://www.barbequesgalore.com.au/barbeques/barbeque-type/3-burner-bbqs">3 Burner BBQs</a></li>
-<li class="level2 nav-1-2-3"><a class="level2  " href="https://www.barbequesgalore.com.au/barbeques/barbeque-type/4-burner-bbqs">4 Burner BBQs</a></li>
-<li class="level2 nav-1-2-4"><a class="level2  " href="https://www.barbequesgalore.com.au/barbeques/barbeque-type/6-burner-bbqs">6 Burner BBQs</a></li>
+<li class="level2 nav-1-2-1"><a class="level2" href="https://www.barbequesgalore.com.au/barbeques/barbeque-brands/traeger">Traeger</a></li>
+<li class="level2 nav-1-2-2"><a class="level2" href="https://www.barbequesgalore.com.au/barbeques/barbeque-brands/kamado-joe">Kamado Joe</a></li>
+<li class="level2 nav-1-2-3"><a class="level2" href="https://www.barbequesgalore.com.au/barbeques/barbeque-brands/napoleon">Napoleon</a></li>
+<li class="level2 nav-1-2-4"><a class="level2" href="https://www.barbequesgalore.com.au/barbeques/barbeque-brands/bradley">Bradley</a></li>
+<li class="level2 nav-1-2-5"><a class="level2" href="https://www.barbequesgalore.com.au/barbeques/barbeque-brands/pro-q">ProQ</a></li>
+<li class="level2 nav-1-2-6"><a class="level2" href="https://www.barbequesgalore.com.au/barbeques/barbeque-brands/all-speciality-bbqs">All Speciality BBQs</a></li>
 </ul>
 </div>
-<div class="level1 nav-1-3 parent"><a class="level1 has-children " href="https://www.barbequesgalore.com.au/barbeques/barbeque-styles">Fuel Type</a>
+<div class="level1 nav-1-3 parent"><a class="level1 has-children " href="https://www.barbequesgalore.com.au/barbeques/barbeque-brands/selected-stores">Selected Stores</a>
 <ul class="level1">
-<li class="level2 nav-1-2-7"><a class="level2  " href="https://www.barbequesgalore.com.au/barbeques/barbeque-type/freestanding-gas">Gas</a></li>
-<li class="level2 nav-1-2-8"><a class="level2  " href="https://www.barbequesgalore.com.au/barbeques/barbeque-type/charcoal-and-wood-fired">Charcoal</a></li>
-<li class="level2 nav-1-2-9"><a class="level2  " href="https://www.barbequesgalore.com.au/barbeques/barbeque-type/electric">Electric</a></li>
-<li class="level2 nav-1-2-10"><a class="level2  " href="https://www.barbequesgalore.com.au/barbeques/barbeque-type/wood-fired-barbeques">Wood Fired</a></li>
+<li class="level2 nav-1-2-7"><a class="level2 " href="https://www.barbequesgalore.com.au/barbeques/barbeque-brands/selected-stores/broil-king">Broil King</a></li>
+<li class="level2 nav-1-2-8"><a class="level2 " href="https://www.barbequesgalore.com.au/barbeques/barbeque-brands/selected-stores/everdure-by-heston-blumenthal">Everdure by Heston Blumenthal</a></li>
+<li class="level2 nav-1-2-9"><a class="level2  " href="https://www.barbequesgalore.com.au/barbeques/barbeque-brands/selected-stores/gateway">Gateway</a></li>
+<li class="level2 nav-1-2-10"><a class="level2  " href="https://www.barbequesgalore.com.au/barbeques/barbeque-brands/selected-stores/ofyr">OFYR</a></li>
+<li class="level2 nav-1-2-11"><a class="level2  " href="https://www.barbequesgalore.com.au/barbeques/barbeque-brands/selected-stores/napoleon">Napoleon</a></li>
+<li class="level2 nav-1-2-12"><a class="level2  " href="https://www.barbequesgalore.com.au/barbeques/barbeque-brands/selected-stores/beefeater">BeefEater</a></li>
 </ul>
 </div>
 </div>
@@ -541,24 +698,25 @@ var shopselector = new NS.Shopselector({
 <li class="level2 nav-1-1-2"><a class="level2" href="https://www.barbequesgalore.com.au/accessories/barbeque-accessories/cleaning">Cleaning &amp; Maintenance</a></li>
 <li class="level2 nav-1-1-3"><a class="level2" href="https://www.barbequesgalore.com.au/accessories/barbeque-accessories/tools">Tools</a></li>
 <li class="level2 nav-1-1-4"><a class="level2" href="https://www.barbequesgalore.com.au/accessories/barbeque-accessories/bbq-covers">BBQ Covers</a></li>
-<li class="level2 nav-1-1-5"><a class="level2" href="https://www.barbequesgalore.com.au/accessories/barbeque-accessories/bbq-fuel">BBQ Fuel</a></li>
 </ul>
 <div class="shop_all"><a style="background: black !important;" href="https://www.barbequesgalore.com.au/barbeques">View All Barbeques</a></div>
 </div>
 </div>
 <div class="li_block" data-equalizer-watch="foo">
-<p><a href="https://www.barbequesgalore.com.au/barbeques/barbeque-brands/traeger" target="_blank"><img alt="Traeger" src="https://www.barbequesgalore.com.au/media/wysiwyg/mega_menu/Mega-Menu-Treager.jpg?v=96"></a></p>
-<p><a href="https://www.barbequesgalore.com.au/barbeques/barbeque-brands/traeger" target="_blank">Learn about Traeger Smokers</a></p>
-<p><a class="img_link" title="BBQs on Sale" href="/sale/barbeques-on-sale" target="_self"><img alt="sale" src="https://www.barbequesgalore.com.au/media/wysiwyg/mega_menu/Napoleon_-_Mega_Menu_256x117px.png?v=97"></a></p>
+<p><a href="https://www.barbequesgalore.com.au/barbeques/barbeque-brands/turbo-range" target="_blank"><img alt="Turbo" src="https://www.barbequesgalore.com.au/media/wysiwyg/ZB_Turbo_Range/Z_B_Canstar_Award_FACEBOOK_2.jpg?v=97"></a></p>
+<p><a href="https://www.barbequesgalore.com.au/barbeques/barbeque-brands/turbo-range" target="_blank">View the Canstar 2018 Award Winning Z&amp;B Turbo Range</a></p>
+<p><a href="/sale"><img alt="Barbeques on Sale" src="https://www.barbequesgalore.com.au/media/wysiwyg/mega_menu/Napoleon_-_Mega_Menu_256x117px.png?v=97"></a></p>
+<!-- https://www.barbequesgalore.com.au/media/wysiwyg/mega_menu/Napoleon_-_Mega_Menu_256x117px.png?v=97 -->
 <p><a class="txt_link" title="Clearance" href="/sale" target="_blank">Shop Products on Clearance</a></p>
 </div>
 </div>
-<ul class="top_menu show-for-small-only"><ul><!-- <li><a href="https://www.barbequesgalore.com.au/sale">Sale up to 30%</a></li> --> <!-- <li><a href="https://www.barbequesgalore.com.au/outdoor-living-ideas">Outdoor Living Ideas</a></li> --> <!-- <li><a href="/wood-heating-tips/wood-heaters-guide">Wood Heating Guide</a></li> --> <!-- <li><a href="https://www.barbequesgalore.com.au/outdoor-furniture/whats-new/">New Outdoor Furniture</a></li> -->
+<ul class="top_menu show-for-small-only"><ul><!-- <li><a href="https://www.barbequesgalore.com.au/sale">Sale up to 30%</a></li> --> <!-- <li><a href="https://www.barbequesgalore.com.au/outdoor-living-ideas">Outdoor Living Ideas</a></li> --> <!-- <li><a href="https://www.barbequesgalore.com.au/outdoor-furniture/whats-new/">New Outdoor Furniture</a></li> -->
 <li><a href="https://www.barbequesgalore.com.au/bbq-expert/category/bbq-recipes/">Recipes</a></li>
 <!-- <li><a href="https://www.barbequesgalore.com.au/bbq-expert/">BBQ Expert</a></li> -->
 <li><a href="https://www.barbequesgalore.com.au/lownslow">Low N Slow</a></li>
-<li><a href="/wood-heating-tips/wood-heaters-guide">Wood Heating Guide</a></li>
+<!-- <li><a href="/wood-heating-tips/wood-heaters-guide">Wood Heating Guide</a></li> -->
 <li><a href="https://www.barbequesgaloregiftcards.com.au/?utm_source=content%20menu&amp;utm_medium=link&amp;utm_campaign=BBQGalore%20Website">Gift Cards</a></li>
+<li><a href="https://www.barbequesgalore.com.au/at-home">At Home Augmented Reality App</a></li>
 </ul></ul>
 <div class="view_catalouge show-for-small-only">
 <p><a href="https://www.barbequesgalore.com.au/catalogues">View Our Latest Catalogue</a></p>
@@ -595,20 +753,18 @@ var shopselector = new NS.Shopselector({
 <div class="li_block" data-equalizer-watch="foo">
 <div class="level1 nav-2-2 parent"><a class="level1 has-children " href="https://www.barbequesgalore.com.au/outdoor-furniture/furniture-series">By Collection</a>
 <ul class="level1"><!-- <li class="level2 nav-2-2-1 first"><a class="level2  " href="https://www.barbequesgalore.com.au/outdoor-furniture/furniture-series/bella">Bella</a></li> -->
-<li class="level2 nav-2-2-10"><a class="level2  " href="https://www.barbequesgalore.com.au/outdoor-furniture/furniture-series/andorra">Andorra</a></li>
+<li class="level2 nav-2-2-10"><a href="https://www.barbequesgalore.com.au/outdoor-furniture/furniture-series/aura" target="_self">Aura</a></li>
 <li class="level2 nav-2-2-10"><a class="level2  " href="https://www.barbequesgalore.com.au/outdoor-furniture/furniture-series/boston">Boston</a></li>
-<li class="level2 nav-2-2-10"><a class="level2  " href="https://www.barbequesgalore.com.au/outdoor-furniture/furniture-series/club">Club</a></li>
 <li class="level2 nav-2-2-2"><a class="level2  " href="https://www.barbequesgalore.com.au/outdoor-furniture/furniture-series/contempo">Contempo</a></li>
 <li class="level2 nav-2-2-2"><a class="level2  " href="https://www.barbequesgalore.com.au/outdoor-furniture/furniture-series/cruz">Cruz</a></li>
 <li class="level2 nav-2-2-10"><a class="level2  " href="https://www.barbequesgalore.com.au/outdoor-furniture/furniture-series/gibraltar">Gibraltar</a></li>
 <!-- <li class="level2 nav-2-2-3"><a class="level2  " href="https://www.barbequesgalore.com.au/outdoor-furniture/furniture-series/euro">Euro</a></li> -->
+<li class="level2 nav-2-2-4"><a href="https://www.barbequesgalore.com.au/outdoor-furniture/furniture-series/jette" target="_self">Jette</a></li>
 <li class="level2 nav-2-2-7"><a class="level2  " href="https://www.barbequesgalore.com.au/outdoor-furniture/furniture-series/larache">Larache</a></li>
-<li class="level2 nav-2-2-7"><a class="level2  " href="https://www.barbequesgalore.com.au/outdoor-furniture/furniture-series/valencia">Valencia</a></li>
+<li class="level2 nav-2-2-7"><a href="https://www.barbequesgalore.com.au/outdoor-furniture/furniture-series/mixed-sets" target="_self">Mixed&nbsp;Sets</a></li>
 <!-- <li class="level2 nav-2-2-5"><a class="level2  " href="https://www.barbequesgalore.com.au/outdoor-furniture/furniture-series/rome">Rome</a></li> --> <!-- <li class="level2 nav-2-2-6"><a class="level2  " href="https://www.barbequesgalore.com.au/outdoor-furniture/furniture-series/finicia">Finicia</a></li> --> <!-- <li class="level2 nav-2-2-8"><a class="level2  " href="https://www.barbequesgalore.com.au/outdoor-furniture/furniture-series/madrid">Madrid</a></li> -->
-<li class="level2 nav-2-2-9"><a class="level2  " href="https://www.barbequesgalore.com.au/outdoor-furniture/furniture-series/matino">Matino</a></li>
 <li class="level2 nav-2-2-4"><a class="level2  " href="https://www.barbequesgalore.com.au/outdoor-furniture/furniture-series/princeton">Princeton</a></li>
 <li class="level2 nav-2-2-4"><a class="level2  " href="https://www.barbequesgalore.com.au/outdoor-furniture/furniture-series/savannah">Savannah</a></li>
-<li class="level2 nav-2-2-4"><a class="level2  " href="https://www.barbequesgalore.com.au/outdoor-furniture/furniture-series/slide">Slide</a></li>
 <!-- <li class="level2 nav-2-2-11"><a class="level2  " href="https://www.barbequesgalore.com.au/outdoor-furniture/furniture-series/palma">Palma</a></li> --> <!-- <li class="level2 nav-2-2-12"><a class="level2  " href="https://www.barbequesgalore.com.au/outdoor-furniture/furniture-series/stockholm">Stockholm</a></li> -->
 <li class="level2 nav-2-2-13"><a class="level2  " href="https://www.barbequesgalore.com.au/outdoor-furniture/furniture-series/venus">Venus</a></li>
 <!-- <li class="level2 nav-2-2-14"><a class="level2  " href="https://www.barbequesgalore.com.au/outdoor-furniture/furniture-series/victoria">Victoria</a></li> --> <!-- <li class="level2 nav-2-2-15"><a class="level2  " href="https://www.barbequesgalore.com.au/outdoor-furniture/furniture-series/valencia">Valencia</a></li> --> <!-- <li class="level2 nav-2-2-16"><a class="level2  " href="https://www.barbequesgalore.com.au/outdoor-furniture/furniture-series/scando">Scando</a></li> --> <!-- <li class="level2 nav-2-2-17"><a class="level2  " href="https://www.barbequesgalore.com.au/outdoor-furniture/furniture-series/kenton">Kenton</a></li> --></ul>
@@ -642,19 +798,21 @@ var shopselector = new NS.Shopselector({
 </div>
 </div>
 <div class="li_block" data-equalizer-watch="foo">
-<p><a href="/sale/furniture-on-sale" target="_self"><img alt="Furniture on Sale" src="https://www.barbequesgalore.com.au/media/wysiwyg/mega_menu/Furniture_-_Mega_Menu_256x117px.png?v=97"></a></p>
+<p><a href="/sale" target="_self"><img alt="Furniture on Sale" src="https://www.barbequesgalore.com.au/media/wysiwyg/mega_menu/Furniture_-_Mega_Menu_256x117px.png?v=97"></a></p>
+<!-- https://www.barbequesgalore.com.au/media/wysiwyg/mega_menu/Furniture_-_Mega_Menu_256x117px.png?v=97 -->
 <p><a href="/sale" target="_blank">Savings on Furniture</a></p>
 <p><a title="clearance" href="/sale/clearance" target="_blank"><img alt="Venus Outdoor Collection" src="https://www.barbequesgalore.com.au/media/wysiwyg/mega_menu/Mega-Menu-Furniture-venus.jpg?v=30"></a></p>
 <p><a class="txt_link" href="/outdoor-furniture/furniture-series/venus">Shop the Venus collection, our contemporary aluminium range</a></p>
 </div>
 </div>
 </div>
-<ul class="top_menu show-for-small-only"><ul><!-- <li><a href="https://www.barbequesgalore.com.au/sale">Sale up to 30%</a></li> --> <!-- <li><a href="https://www.barbequesgalore.com.au/outdoor-living-ideas">Outdoor Living Ideas</a></li> --> <!-- <li><a href="/wood-heating-tips/wood-heaters-guide">Wood Heating Guide</a></li> --> <!-- <li><a href="https://www.barbequesgalore.com.au/outdoor-furniture/whats-new/">New Outdoor Furniture</a></li> -->
+<ul class="top_menu show-for-small-only"><ul><!-- <li><a href="https://www.barbequesgalore.com.au/sale">Sale up to 30%</a></li> --> <!-- <li><a href="https://www.barbequesgalore.com.au/outdoor-living-ideas">Outdoor Living Ideas</a></li> --> <!-- <li><a href="https://www.barbequesgalore.com.au/outdoor-furniture/whats-new/">New Outdoor Furniture</a></li> -->
 <li><a href="https://www.barbequesgalore.com.au/bbq-expert/category/bbq-recipes/">Recipes</a></li>
 <!-- <li><a href="https://www.barbequesgalore.com.au/bbq-expert/">BBQ Expert</a></li> -->
 <li><a href="https://www.barbequesgalore.com.au/lownslow">Low N Slow</a></li>
-<li><a href="/wood-heating-tips/wood-heaters-guide">Wood Heating Guide</a></li>
+<!-- <li><a href="/wood-heating-tips/wood-heaters-guide">Wood Heating Guide</a></li> -->
 <li><a href="https://www.barbequesgaloregiftcards.com.au/?utm_source=content%20menu&amp;utm_medium=link&amp;utm_campaign=BBQGalore%20Website">Gift Cards</a></li>
+<li><a href="https://www.barbequesgalore.com.au/at-home">At Home Augmented Reality App</a></li>
 </ul></ul>
 <div class="view_catalouge show-for-small-only">
 <p><a href="/catalogues">View Our Latest Catalogue</a></p>
@@ -800,10 +958,11 @@ var shopselector = new NS.Shopselector({
 <div class="shop_all"><a href="https://www.barbequesgalore.com.au/heating">View All Heaters</a></div>
 </div> -->
 <div class="li_block" style="height: 700px;" data-equalizer-watch="foo">
-<p><a class="img_link" title="Heating on Sale" href="/sale/heaters-on-sale" target="_blank"><img alt="Heating on Sale" src="https://www.barbequesgalore.com.au/media/wysiwyg/mega_menu/Outdoor_Heating_-_Mega_Menu_256x117px_1.png?v=97"></a></p>
+<p><a class="img_link" title="Heating on Sale" href="/sale" target="_blank"><img alt="Heating on Sale" src="https://www.barbequesgalore.com.au/media/wysiwyg/mega_menu/Outdoor_Heating_-_Mega_Menu_256x117px_1.png?v=97"></a></p>
+<!-- https://www.barbequesgalore.com.au/media/wysiwyg/mega_menu/Outdoor_Heating_-_Mega_Menu_256x117px_1.png?v=97 -->
 <p><a class="txt_link" title="Outdoor Heating Clearance" href="/sale/heaters-on-sale" target="_self">Outdoor Heating Clearance</a></p>
-<p><a class="img_link" href="https://www.barbequesgalore.com.au/media/wysiwyg/2018/woodheating/BBQG0086_WoodHeating_Cat%202018_FINAL.pdf"><img title="Saxon Blackwood Freestanding Heater" alt="Saxon Blackwood Freestanding Heater" src="https://www.barbequesgalore.com.au/media/wysiwyg/mega_menu/20180510_111814.jpg?v=96"></a></p>
-<p><a class="txt_link" href="https://www.barbequesgalore.com.au/media/wysiwyg/2018/woodheating/BBQG0086_WoodHeating_Cat%202018_FINAL.pdf">Check out the 2018 Range Brochure</a></p>
+<p><a class="img_link" href="https://www.barbequesgalore.com.au/media/wysiwyg/2019_Wood_heating/Wood_Heating_Brochure_2019.pdf?v=97"><img title="Check out the 2019 Range Brochure" alt="" src="https://www.barbequesgalore.com.au/media/wysiwyg/2019_Wood_heating/Wood-Heater-Brochure-preview-1113x626px-250219.jpg?v=97"></a></p>
+<p><a class="txt_link" href="https://www.barbequesgalore.com.au/media/wysiwyg/2019_Wood_heating/Wood_Heating_Brochure_2019.pdf?v=97">Check out the 2019 Range Brochure</a></p>
 </div>
 </div>
 </div>
@@ -873,14 +1032,17 @@ var shopselector = new NS.Shopselector({
 <div class="shop_all"><a style="background: black !important;" href="https://www.barbequesgalore.com.au/accessories/">View All Accessories</a></div>
 </div>
 </div>
-<div class="li_block" data-equalizer-watch="foo">&nbsp;</div>
+<div class="li_block" style="height: 260px;" data-equalizer-watch="foo"><!-- <p><a href="/sale/biggest-sale-ever/barbeque-accessories"><img alt="Barbeques on Sale" src="https://www.barbequesgalore.com.au/media/wysiwyg/Biggest_sale_ever/NAV_BAR_BLOCK_Biggest_Sale_Ever30.jpg?v=97" /></a></p> -->
+<p><a class="txt_link" title="Clearance" href="/sale/clearance" target="_blank">Shop Products on Clearance</a></p>
 </div>
-<ul class="top_menu show-for-small-only"><ul><!-- <li><a href="https://www.barbequesgalore.com.au/sale">Sale up to 30%</a></li> --> <!-- <li><a href="https://www.barbequesgalore.com.au/outdoor-living-ideas">Outdoor Living Ideas</a></li> --> <!-- <li><a href="/wood-heating-tips/wood-heaters-guide">Wood Heating Guide</a></li> --> <!-- <li><a href="https://www.barbequesgalore.com.au/outdoor-furniture/whats-new/">New Outdoor Furniture</a></li> -->
+</div>
+<ul class="top_menu show-for-small-only"><ul><!-- <li><a href="https://www.barbequesgalore.com.au/sale">Sale up to 30%</a></li> --> <!-- <li><a href="https://www.barbequesgalore.com.au/outdoor-living-ideas">Outdoor Living Ideas</a></li> --> <!-- <li><a href="https://www.barbequesgalore.com.au/outdoor-furniture/whats-new/">New Outdoor Furniture</a></li> -->
 <li><a href="https://www.barbequesgalore.com.au/bbq-expert/category/bbq-recipes/">Recipes</a></li>
 <!-- <li><a href="https://www.barbequesgalore.com.au/bbq-expert/">BBQ Expert</a></li> -->
 <li><a href="https://www.barbequesgalore.com.au/lownslow">Low N Slow</a></li>
-<li><a href="/wood-heating-tips/wood-heaters-guide">Wood Heating Guide</a></li>
+<!-- <li><a href="/wood-heating-tips/wood-heaters-guide">Wood Heating Guide</a></li> -->
 <li><a href="https://www.barbequesgaloregiftcards.com.au/?utm_source=content%20menu&amp;utm_medium=link&amp;utm_campaign=BBQGalore%20Website">Gift Cards</a></li>
+<li><a href="https://www.barbequesgalore.com.au/at-home">At Home Augmented Reality App</a></li>
 </ul></ul>
 <div class="view_catalouge show-for-small-only">
 <p><a href="https://www.barbequesgalore.com.au/catalogues">View Our Latest Catalogue</a></p>
@@ -899,13 +1061,13 @@ var shopselector = new NS.Shopselector({
 <div class="submenu-content large-12 columns">
 <div class="submenu-list" data-equalizer="foo">
 <div class="li_block" data-equalizer-watch="foo">
-<div class="level1 nav-6-1 first parent"><a class="level1 has-children " title="20% Off All Barbeques" href="https://www.barbequesgalore.com.au/sale/">Products on Sale</a>
+<div class="level1 nav-6-1 first parent"><a class="level1 has-children " title="All Sale Products" href="https://www.barbequesgalore.com.au/sale">All Sale</a>
 <ul class="level1">
-<li class="level2 nav-1-1-1 first parent"><a class="level2  " title="Barbeques on Sale" href="/sale/barbeques-on-sale" target="_self">Barbeques on Sale</a></li>
-<li class="level2 nav-1-1-2"><a class="level2  " title="Furniture on Sale" href="/sale/furniture-on-sale" target="_self">Furniture on Sale</a></li>
-<li class="level2 nav-1-1-3"><a class="level2  " title="Heaters on Sale" href="/sale/heaters-on-sale" target="_self">Heaters on Sale</a></li>
-<li class="level2 nav-1-1-4"><a class="level2  " title="Accessories on Sale" href="/sale/accessories-on-sale" target="_self">Accessories on Sale</a></li>
-</ul>
+<li class="level2 nav-1-1-1 first parent"><a class="level2  " title="Barbeques on Sale" href="/sale/barbeques-on-sale" target="_self">Barbeques Sale</a></li>
+<li class="level2 nav-1-1-2"><a class="level2  " title="Furniture on Sale" href="/sale/furniture-on-sale" target="_self">Furniture Sale</a></li>
+<li class="level2 nav-1-1-3"><a class="level2  " title="Heaters on Sale" href="/sale/heaters-on-sale" target="_self">Heating Sale</a></li>
+<li class="level2 nav-1-1-4"><a class="level2  " title="Accessories on Sale" href="/sale/accessories-on-sale" target="_self">Accessories Sale</a></li>
+<!-- <li class="level2 nav-1-1-5"><a class="level2  " title="Accessories on Sale" href="/sale/biggest-sale-ever/wood-heaters" target="_self">Wood Heaters</a></li> --></ul>
 </div>
 </div>
 <div class="li_block" data-equalizer-watch="foo">
@@ -918,12 +1080,13 @@ var shopselector = new NS.Shopselector({
 </div>
 </div>
 </div>
-<ul class="top_menu show-for-small-only"><ul><!-- <li><a href="https://www.barbequesgalore.com.au/sale">Sale up to 30%</a></li> --> <!-- <li><a href="https://www.barbequesgalore.com.au/outdoor-living-ideas">Outdoor Living Ideas</a></li> --> <!-- <li><a href="/wood-heating-tips/wood-heaters-guide">Wood Heating Guide</a></li> --> <!-- <li><a href="https://www.barbequesgalore.com.au/outdoor-furniture/whats-new/">New Outdoor Furniture</a></li> -->
+<ul class="top_menu show-for-small-only"><ul><!-- <li><a href="https://www.barbequesgalore.com.au/sale">Sale up to 30%</a></li> --> <!-- <li><a href="https://www.barbequesgalore.com.au/outdoor-living-ideas">Outdoor Living Ideas</a></li> --> <!-- <li><a href="https://www.barbequesgalore.com.au/outdoor-furniture/whats-new/">New Outdoor Furniture</a></li> -->
 <li><a href="https://www.barbequesgalore.com.au/bbq-expert/category/bbq-recipes/">Recipes</a></li>
 <!-- <li><a href="https://www.barbequesgalore.com.au/bbq-expert/">BBQ Expert</a></li> -->
 <li><a href="https://www.barbequesgalore.com.au/lownslow">Low N Slow</a></li>
-<li><a href="/wood-heating-tips/wood-heaters-guide">Wood Heating Guide</a></li>
+<!-- <li><a href="/wood-heating-tips/wood-heaters-guide">Wood Heating Guide</a></li> -->
 <li><a href="https://www.barbequesgaloregiftcards.com.au/?utm_source=content%20menu&amp;utm_medium=link&amp;utm_campaign=BBQGalore%20Website">Gift Cards</a></li>
+<li><a href="https://www.barbequesgalore.com.au/at-home">At Home Augmented Reality App</a></li>
 </ul></ul>
 <div class="view_catalouge show-for-small-only">
 <p><a href="/catalogues">View Our Latest Catalogue</a></p>
@@ -956,47 +1119,52 @@ var shopselector = new NS.Shopselector({
 <li class="level2 nav-1-1-2"><a class="level2" href="https://www.barbequesgalore.com.au/barbeques/barbeque-type/portable">Portable</a></li>
 <li class="level2 nav-1-1-3"><a class="level2" href="https://www.barbequesgalore.com.au/barbeques/barbeque-type/freestanding-gas">Freestanding</a></li>
 <li class="level2 nav-1-1-4"><a class="level2" href="https://www.barbequesgalore.com.au/barbeques/barbeque-type/outdoor-kitchens">Outdoor Kitchen</a></li>
-<li class="level2 nav-1-1-5"><a class="level2" href="https://www.barbequesgalore.com.au/barbeques/barbeque-styles/smokers">Smokers</a></li>
-<li class="level2 nav-1-1-6"><a class="level2" href="https://www.barbequesgalore.com.au/barbeques/barbeque-styles/pizza-ovens">Pizza Ovens</a></li>
-<li class="level2 nav-1-1-7"><a class="level2" href="https://www.barbequesgalore.com.au/barbeques/barbeque-styles/kettle">Kettle</a></li>
-<li class="level2 nav-1-1-8"><a class="level2" href="https://www.barbequesgalore.com.au/barbeques/barbeque-styles/spit">Spit</a></li>
-<li class="level2 nav-1-1-9"><a class="level2" href="https://www.barbequesgalore.com.au/barbeques/barbeque-styles/full-hotplate">Full Hotplate</a></li>
+<li class="level2 nav-1-1-5"><a class="level2" href="https://www.barbequesgalore.com.au/alfresco-kitchen-co">Alfresco Kitchen Co.</a></li>
+<li class="level2 nav-1-1-6"><a class="level2" href="https://www.barbequesgalore.com.au/barbeques/barbeque-styles/smokers">Smokers</a></li>
+<li class="level2 nav-1-1-7"><a class="level2" href="https://www.barbequesgalore.com.au/barbeques/barbeque-styles/pizza-ovens">Pizza Ovens</a></li>
+<li class="level2 nav-1-1-8"><a class="level2" href="https://www.barbequesgalore.com.au/barbeques/barbeque-styles/kettle">Kettle</a></li>
+<li class="level2 nav-1-1-9"><a class="level2" href="https://www.barbequesgalore.com.au/barbeques/barbeque-styles/spit">Spit</a></li>
+<li class="level2 nav-1-1-10"><a class="level2" href="https://www.barbequesgalore.com.au/barbeques/barbeque-styles/full-hotplate">Full Hotplate</a></li>
 </ul>
 </div>
 </div>
 <div class="li_block" data-equalizer-watch="foo">
-<div class="level1 nav-1-2 parent"><a class="level1 has-children" href="https://www.barbequesgalore.com.au/barbeques/barbeque-brands">Brand</a>
+<div class="level1 nav-1-2 parent"><a class="level1 has-children " href="https://www.barbequesgalore.com.au/barbeques/barbeque-brands/all-premium-bbqs">Premium BBQ Brands</a>
 <ul class="level1">
-<li class="level2 nav-1-2-1 first"><a class="level2 has-children" href="https://www.barbequesgalore.com.au/barbeques/barbeque-brands/ziegler-brown">Ziegler &amp; Brown Grill &amp; Turbo</a></li>
-<li class="level2 nav-1-2-2"><a class="level2" href="https://www.barbequesgalore.com.au/barbeques/barbeque-brands/beefmaster">Beefmaster</a></li>
-<li class="level2 nav-1-2-3"><a class="level2" href="https://www.barbequesgalore.com.au/barbeques/barbeque-brands/bradley">Bradley</a></li>
-<li class="level2 nav-1-2-4"><a class="level2" href="https://www.barbequesgalore.com.au/barbeques/barbeque-brands/kamado-joe">Kamado Joe</a></li>
-<li class="level2 nav-1-2-5"><a class="level2" href="https://www.barbequesgalore.com.au/barbeques/barbeque-brands/traeger">Traeger</a></li>
-<li class="level2 nav-1-2-6"><a class="level2" href="https://www.barbequesgalore.com.au/barbeques/barbeque-brands/napoleon">Napoleon</a></li>
-<li class="level2 nav-1-2-7"><a class="level2" href="https://www.barbequesgalore.com.au/barbeques/barbeque-brands/cordon-bleu">Cordon Bleu</a></li>
-<li class="level2 nav-1-2-8"><a class="level2" href="https://www.barbequesgalore.com.au/barbeques/barbeque-brands/downunder">Downunder</a></li>
-<li class="level2 nav-1-2-9"><a class="level2" href="https://www.barbequesgalore.com.au/barbeques/barbeque-brands/billabong">Billabong</a></li>
-<li class="level2 nav-1-2-10"><a class="level2" href="https://www.barbequesgalore.com.au/barbeques/barbeque-brands/footymaster">Footymaster</a></li>
-<li class="level2 nav-1-2-11"><a class="level2  " href="https://www.barbequesgalore.com.au/barbeques/barbeque-brands/pro-q">ProQ</a></li>
-<li class="level2 nav-1-2-12"><a class="level2  " href="https://www.barbequesgalore.com.au/barbeques/barbeque-brands/weber">Weber</a></li>
+<li class="level2 nav-1-2-1 first"><a class="level2 has-children" href="https://www.barbequesgalore.com.au/barbeques/barbeque-brands/turbo-range">Ziegler &amp; Brown Turbo</a></li>
+<li class="level2 nav-1-2-1 first"><a class="level2 has-children" href="https://www.barbequesgalore.com.au/barbeques/barbeque-brands/ziegler-brown/ziggy-grill-series">Ziggy Grill Series</a></li>
+<!-- <li class="level2 nav-1-2-2"><a class="level2" href="https://www.barbequesgalore.com.au/barbeques/barbeque-brands/cordon-bleu">Cordon Bleu</a></li> -->
+<li class="level2 nav-1-2-4"><a class="level2" href="https://www.barbequesgalore.com.au/barbeques/barbeque-brands/all-premium-bbqs">All Premium BBQs</a></li>
+</ul>
+</div>
+<div class="level1 nav-1-2 parent"><a class="level1 has-children " href="https://www.barbequesgalore.com.au/barbeques/barbeque-brands/all-everyday-bbqs">Everyday BBQ Brands</a>
+<ul class="level1">
+<li class="level2 nav-1-2-2"><a class="level2" href="https://www.barbequesgalore.com.au/barbeques/barbeque-brands/beefmaster-alfresco">Beefmaster &amp; Alfresco</a></li>
+<li class="level2 nav-1-2-8"><a class="level2" href="https://www.barbequesgalore.com.au/barbeques/barbeque-brands/downunder-footymaster">Downunder &amp; Footymaster Hotplates</a></li>
+<li class="level2 nav-1-2-9"><a class="level2" href="https://www.barbequesgalore.com.au/barbeques/barbeque-brands/billabong-nexgrill">Billabong &amp; Nexgrill</a></li>
+<li class="level2 nav-1-2-11"><a class="level2" href="https://www.barbequesgalore.com.au/barbeques/barbeque-brands/all-everyday-bbqs">All Everyday BBQs</a></li>
 </ul>
 </div>
 </div>
 <div class="li_block" data-equalizer-watch="foo">
-<div class="level1 nav-1-3 parent"><a class="level1 has-children " href="https://www.barbequesgalore.com.au/barbeques/barbeque-styles">No. of Burners</a>
+<div class="level1 nav-1-3 parent"><a class="level1 has-children " href="https://www.barbequesgalore.com.au/barbeques/barbeque-brands/all-speciality-bbqs">Speciality BBQ Brands</a>
 <ul class="level1">
-<li class="level2 nav-1-2-1"><a class="level2  " href="https://www.barbequesgalore.com.au/barbeques/barbeque-type/2-burner-bbqs">2 Burner BBQs</a></li>
-<li class="level2 nav-1-2-2"><a class="level2  " href="https://www.barbequesgalore.com.au/barbeques/barbeque-type/3-burner-bbqs">3 Burner BBQs</a></li>
-<li class="level2 nav-1-2-3"><a class="level2  " href="https://www.barbequesgalore.com.au/barbeques/barbeque-type/4-burner-bbqs">4 Burner BBQs</a></li>
-<li class="level2 nav-1-2-4"><a class="level2  " href="https://www.barbequesgalore.com.au/barbeques/barbeque-type/6-burner-bbqs">6 Burner BBQs</a></li>
+<li class="level2 nav-1-2-1"><a class="level2" href="https://www.barbequesgalore.com.au/barbeques/barbeque-brands/traeger">Traeger</a></li>
+<li class="level2 nav-1-2-2"><a class="level2" href="https://www.barbequesgalore.com.au/barbeques/barbeque-brands/kamado-joe">Kamado Joe</a></li>
+<li class="level2 nav-1-2-3"><a class="level2" href="https://www.barbequesgalore.com.au/barbeques/barbeque-brands/napoleon">Napoleon</a></li>
+<li class="level2 nav-1-2-4"><a class="level2" href="https://www.barbequesgalore.com.au/barbeques/barbeque-brands/bradley">Bradley</a></li>
+<li class="level2 nav-1-2-5"><a class="level2" href="https://www.barbequesgalore.com.au/barbeques/barbeque-brands/pro-q">ProQ</a></li>
+<li class="level2 nav-1-2-6"><a class="level2" href="https://www.barbequesgalore.com.au/barbeques/barbeque-brands/all-speciality-bbqs">All Speciality BBQs</a></li>
 </ul>
 </div>
-<div class="level1 nav-1-3 parent"><a class="level1 has-children " href="https://www.barbequesgalore.com.au/barbeques/barbeque-styles">Fuel Type</a>
+<div class="level1 nav-1-3 parent"><a class="level1 has-children " href="https://www.barbequesgalore.com.au/barbeques/barbeque-brands/selected-stores">Selected Stores</a>
 <ul class="level1">
-<li class="level2 nav-1-2-7"><a class="level2  " href="https://www.barbequesgalore.com.au/barbeques/barbeque-type/freestanding-gas">Gas</a></li>
-<li class="level2 nav-1-2-8"><a class="level2  " href="https://www.barbequesgalore.com.au/barbeques/barbeque-type/charcoal-and-wood-fired">Charcoal</a></li>
-<li class="level2 nav-1-2-9"><a class="level2  " href="https://www.barbequesgalore.com.au/barbeques/barbeque-type/electric">Electric</a></li>
-<li class="level2 nav-1-2-10"><a class="level2  " href="https://www.barbequesgalore.com.au/barbeques/barbeque-type/wood-fired-barbeques">Wood Fired</a></li>
+<li class="level2 nav-1-2-7"><a class="level2 " href="https://www.barbequesgalore.com.au/barbeques/barbeque-brands/selected-stores/broil-king">Broil King</a></li>
+<li class="level2 nav-1-2-8"><a class="level2 " href="https://www.barbequesgalore.com.au/barbeques/barbeque-brands/selected-stores/everdure-by-heston-blumenthal">Everdure by Heston Blumenthal</a></li>
+<li class="level2 nav-1-2-9"><a class="level2  " href="https://www.barbequesgalore.com.au/barbeques/barbeque-brands/selected-stores/gateway">Gateway</a></li>
+<li class="level2 nav-1-2-10"><a class="level2  " href="https://www.barbequesgalore.com.au/barbeques/barbeque-brands/selected-stores/ofyr">OFYR</a></li>
+<li class="level2 nav-1-2-11"><a class="level2  " href="https://www.barbequesgalore.com.au/barbeques/barbeque-brands/selected-stores/napoleon">Napoleon</a></li>
+<li class="level2 nav-1-2-12"><a class="level2  " href="https://www.barbequesgalore.com.au/barbeques/barbeque-brands/selected-stores/beefeater">BeefEater</a></li>
 </ul>
 </div>
 </div>
@@ -1007,24 +1175,25 @@ var shopselector = new NS.Shopselector({
 <li class="level2 nav-1-1-2"><a class="level2" href="https://www.barbequesgalore.com.au/accessories/barbeque-accessories/cleaning">Cleaning &amp; Maintenance</a></li>
 <li class="level2 nav-1-1-3"><a class="level2" href="https://www.barbequesgalore.com.au/accessories/barbeque-accessories/tools">Tools</a></li>
 <li class="level2 nav-1-1-4"><a class="level2" href="https://www.barbequesgalore.com.au/accessories/barbeque-accessories/bbq-covers">BBQ Covers</a></li>
-<li class="level2 nav-1-1-5"><a class="level2" href="https://www.barbequesgalore.com.au/accessories/barbeque-accessories/bbq-fuel">BBQ Fuel</a></li>
 </ul>
 <div class="shop_all"><a style="background: black !important;" href="https://www.barbequesgalore.com.au/barbeques">View All Barbeques</a></div>
 </div>
 </div>
 <div class="li_block" data-equalizer-watch="foo">
-<p><a href="https://www.barbequesgalore.com.au/barbeques/barbeque-brands/traeger" target="_blank"><img alt="Traeger" src="https://www.barbequesgalore.com.au/media/wysiwyg/mega_menu/Mega-Menu-Treager.jpg?v=96"></a></p>
-<p><a href="https://www.barbequesgalore.com.au/barbeques/barbeque-brands/traeger" target="_blank">Learn about Traeger Smokers</a></p>
-<p><a class="img_link" title="BBQs on Sale" href="/sale/barbeques-on-sale" target="_self"><img alt="sale" src="https://www.barbequesgalore.com.au/media/wysiwyg/mega_menu/Napoleon_-_Mega_Menu_256x117px.png?v=97"></a></p>
+<p><a href="https://www.barbequesgalore.com.au/barbeques/barbeque-brands/turbo-range" target="_blank"><img alt="Turbo" src="https://www.barbequesgalore.com.au/media/wysiwyg/ZB_Turbo_Range/Z_B_Canstar_Award_FACEBOOK_2.jpg?v=97"></a></p>
+<p><a href="https://www.barbequesgalore.com.au/barbeques/barbeque-brands/turbo-range" target="_blank">View the Canstar 2018 Award Winning Z&amp;B Turbo Range</a></p>
+<p><a href="/sale"><img alt="Barbeques on Sale" src="https://www.barbequesgalore.com.au/media/wysiwyg/mega_menu/Napoleon_-_Mega_Menu_256x117px.png?v=97"></a></p>
+<!-- https://www.barbequesgalore.com.au/media/wysiwyg/mega_menu/Napoleon_-_Mega_Menu_256x117px.png?v=97 -->
 <p><a class="txt_link" title="Clearance" href="/sale" target="_blank">Shop Products on Clearance</a></p>
 </div>
 </div>
-<ul class="top_menu show-for-small-only"><ul><!-- <li><a href="https://www.barbequesgalore.com.au/sale">Sale up to 30%</a></li> --> <!-- <li><a href="https://www.barbequesgalore.com.au/outdoor-living-ideas">Outdoor Living Ideas</a></li> --> <!-- <li><a href="/wood-heating-tips/wood-heaters-guide">Wood Heating Guide</a></li> --> <!-- <li><a href="https://www.barbequesgalore.com.au/outdoor-furniture/whats-new/">New Outdoor Furniture</a></li> -->
+<ul class="top_menu show-for-small-only"><ul><!-- <li><a href="https://www.barbequesgalore.com.au/sale">Sale up to 30%</a></li> --> <!-- <li><a href="https://www.barbequesgalore.com.au/outdoor-living-ideas">Outdoor Living Ideas</a></li> --> <!-- <li><a href="https://www.barbequesgalore.com.au/outdoor-furniture/whats-new/">New Outdoor Furniture</a></li> -->
 <li><a href="https://www.barbequesgalore.com.au/bbq-expert/category/bbq-recipes/">Recipes</a></li>
 <!-- <li><a href="https://www.barbequesgalore.com.au/bbq-expert/">BBQ Expert</a></li> -->
 <li><a href="https://www.barbequesgalore.com.au/lownslow">Low N Slow</a></li>
-<li><a href="/wood-heating-tips/wood-heaters-guide">Wood Heating Guide</a></li>
+<!-- <li><a href="/wood-heating-tips/wood-heaters-guide">Wood Heating Guide</a></li> -->
 <li><a href="https://www.barbequesgaloregiftcards.com.au/?utm_source=content%20menu&amp;utm_medium=link&amp;utm_campaign=BBQGalore%20Website">Gift Cards</a></li>
+<li><a href="https://www.barbequesgalore.com.au/at-home">At Home Augmented Reality App</a></li>
 </ul></ul>
 <div class="view_catalouge show-for-small-only">
 <p><a href="https://www.barbequesgalore.com.au/catalogues">View Our Latest Catalogue</a></p>
@@ -1061,20 +1230,18 @@ var shopselector = new NS.Shopselector({
 <div class="li_block" data-equalizer-watch="foo">
 <div class="level1 nav-2-2 parent"><a class="level1 has-children " href="https://www.barbequesgalore.com.au/outdoor-furniture/furniture-series">By Collection</a>
 <ul class="level1"><!-- <li class="level2 nav-2-2-1 first"><a class="level2  " href="https://www.barbequesgalore.com.au/outdoor-furniture/furniture-series/bella">Bella</a></li> -->
-<li class="level2 nav-2-2-10"><a class="level2  " href="https://www.barbequesgalore.com.au/outdoor-furniture/furniture-series/andorra">Andorra</a></li>
+<li class="level2 nav-2-2-10"><a href="https://www.barbequesgalore.com.au/outdoor-furniture/furniture-series/aura" target="_self">Aura</a></li>
 <li class="level2 nav-2-2-10"><a class="level2  " href="https://www.barbequesgalore.com.au/outdoor-furniture/furniture-series/boston">Boston</a></li>
-<li class="level2 nav-2-2-10"><a class="level2  " href="https://www.barbequesgalore.com.au/outdoor-furniture/furniture-series/club">Club</a></li>
 <li class="level2 nav-2-2-2"><a class="level2  " href="https://www.barbequesgalore.com.au/outdoor-furniture/furniture-series/contempo">Contempo</a></li>
 <li class="level2 nav-2-2-2"><a class="level2  " href="https://www.barbequesgalore.com.au/outdoor-furniture/furniture-series/cruz">Cruz</a></li>
 <li class="level2 nav-2-2-10"><a class="level2  " href="https://www.barbequesgalore.com.au/outdoor-furniture/furniture-series/gibraltar">Gibraltar</a></li>
 <!-- <li class="level2 nav-2-2-3"><a class="level2  " href="https://www.barbequesgalore.com.au/outdoor-furniture/furniture-series/euro">Euro</a></li> -->
+<li class="level2 nav-2-2-4"><a href="https://www.barbequesgalore.com.au/outdoor-furniture/furniture-series/jette" target="_self">Jette</a></li>
 <li class="level2 nav-2-2-7"><a class="level2  " href="https://www.barbequesgalore.com.au/outdoor-furniture/furniture-series/larache">Larache</a></li>
-<li class="level2 nav-2-2-7"><a class="level2  " href="https://www.barbequesgalore.com.au/outdoor-furniture/furniture-series/valencia">Valencia</a></li>
+<li class="level2 nav-2-2-7"><a href="https://www.barbequesgalore.com.au/outdoor-furniture/furniture-series/mixed-sets" target="_self">Mixed&nbsp;Sets</a></li>
 <!-- <li class="level2 nav-2-2-5"><a class="level2  " href="https://www.barbequesgalore.com.au/outdoor-furniture/furniture-series/rome">Rome</a></li> --> <!-- <li class="level2 nav-2-2-6"><a class="level2  " href="https://www.barbequesgalore.com.au/outdoor-furniture/furniture-series/finicia">Finicia</a></li> --> <!-- <li class="level2 nav-2-2-8"><a class="level2  " href="https://www.barbequesgalore.com.au/outdoor-furniture/furniture-series/madrid">Madrid</a></li> -->
-<li class="level2 nav-2-2-9"><a class="level2  " href="https://www.barbequesgalore.com.au/outdoor-furniture/furniture-series/matino">Matino</a></li>
 <li class="level2 nav-2-2-4"><a class="level2  " href="https://www.barbequesgalore.com.au/outdoor-furniture/furniture-series/princeton">Princeton</a></li>
 <li class="level2 nav-2-2-4"><a class="level2  " href="https://www.barbequesgalore.com.au/outdoor-furniture/furniture-series/savannah">Savannah</a></li>
-<li class="level2 nav-2-2-4"><a class="level2  " href="https://www.barbequesgalore.com.au/outdoor-furniture/furniture-series/slide">Slide</a></li>
 <!-- <li class="level2 nav-2-2-11"><a class="level2  " href="https://www.barbequesgalore.com.au/outdoor-furniture/furniture-series/palma">Palma</a></li> --> <!-- <li class="level2 nav-2-2-12"><a class="level2  " href="https://www.barbequesgalore.com.au/outdoor-furniture/furniture-series/stockholm">Stockholm</a></li> -->
 <li class="level2 nav-2-2-13"><a class="level2  " href="https://www.barbequesgalore.com.au/outdoor-furniture/furniture-series/venus">Venus</a></li>
 <!-- <li class="level2 nav-2-2-14"><a class="level2  " href="https://www.barbequesgalore.com.au/outdoor-furniture/furniture-series/victoria">Victoria</a></li> --> <!-- <li class="level2 nav-2-2-15"><a class="level2  " href="https://www.barbequesgalore.com.au/outdoor-furniture/furniture-series/valencia">Valencia</a></li> --> <!-- <li class="level2 nav-2-2-16"><a class="level2  " href="https://www.barbequesgalore.com.au/outdoor-furniture/furniture-series/scando">Scando</a></li> --> <!-- <li class="level2 nav-2-2-17"><a class="level2  " href="https://www.barbequesgalore.com.au/outdoor-furniture/furniture-series/kenton">Kenton</a></li> --></ul>
@@ -1108,19 +1275,21 @@ var shopselector = new NS.Shopselector({
 </div>
 </div>
 <div class="li_block" data-equalizer-watch="foo">
-<p><a href="/sale/furniture-on-sale" target="_self"><img alt="Furniture on Sale" src="https://www.barbequesgalore.com.au/media/wysiwyg/mega_menu/Furniture_-_Mega_Menu_256x117px.png?v=97"></a></p>
+<p><a href="/sale" target="_self"><img alt="Furniture on Sale" src="https://www.barbequesgalore.com.au/media/wysiwyg/mega_menu/Furniture_-_Mega_Menu_256x117px.png?v=97"></a></p>
+<!-- https://www.barbequesgalore.com.au/media/wysiwyg/mega_menu/Furniture_-_Mega_Menu_256x117px.png?v=97 -->
 <p><a href="/sale" target="_blank">Savings on Furniture</a></p>
 <p><a title="clearance" href="/sale/clearance" target="_blank"><img alt="Venus Outdoor Collection" src="https://www.barbequesgalore.com.au/media/wysiwyg/mega_menu/Mega-Menu-Furniture-venus.jpg?v=30"></a></p>
 <p><a class="txt_link" href="/outdoor-furniture/furniture-series/venus">Shop the Venus collection, our contemporary aluminium range</a></p>
 </div>
 </div>
 </div>
-<ul class="top_menu show-for-small-only"><ul><!-- <li><a href="https://www.barbequesgalore.com.au/sale">Sale up to 30%</a></li> --> <!-- <li><a href="https://www.barbequesgalore.com.au/outdoor-living-ideas">Outdoor Living Ideas</a></li> --> <!-- <li><a href="/wood-heating-tips/wood-heaters-guide">Wood Heating Guide</a></li> --> <!-- <li><a href="https://www.barbequesgalore.com.au/outdoor-furniture/whats-new/">New Outdoor Furniture</a></li> -->
+<ul class="top_menu show-for-small-only"><ul><!-- <li><a href="https://www.barbequesgalore.com.au/sale">Sale up to 30%</a></li> --> <!-- <li><a href="https://www.barbequesgalore.com.au/outdoor-living-ideas">Outdoor Living Ideas</a></li> --> <!-- <li><a href="https://www.barbequesgalore.com.au/outdoor-furniture/whats-new/">New Outdoor Furniture</a></li> -->
 <li><a href="https://www.barbequesgalore.com.au/bbq-expert/category/bbq-recipes/">Recipes</a></li>
 <!-- <li><a href="https://www.barbequesgalore.com.au/bbq-expert/">BBQ Expert</a></li> -->
 <li><a href="https://www.barbequesgalore.com.au/lownslow">Low N Slow</a></li>
-<li><a href="/wood-heating-tips/wood-heaters-guide">Wood Heating Guide</a></li>
+<!-- <li><a href="/wood-heating-tips/wood-heaters-guide">Wood Heating Guide</a></li> -->
 <li><a href="https://www.barbequesgaloregiftcards.com.au/?utm_source=content%20menu&amp;utm_medium=link&amp;utm_campaign=BBQGalore%20Website">Gift Cards</a></li>
+<li><a href="https://www.barbequesgalore.com.au/at-home">At Home Augmented Reality App</a></li>
 </ul></ul>
 <div class="view_catalouge show-for-small-only">
 <p><a href="/catalogues">View Our Latest Catalogue</a></p>
@@ -1266,10 +1435,11 @@ var shopselector = new NS.Shopselector({
 <div class="shop_all"><a href="https://www.barbequesgalore.com.au/heating">View All Heaters</a></div>
 </div> -->
 <div class="li_block" style="height: 700px;" data-equalizer-watch="foo">
-<p><a class="img_link" title="Heating on Sale" href="/sale/heaters-on-sale" target="_blank"><img alt="Heating on Sale" src="https://www.barbequesgalore.com.au/media/wysiwyg/mega_menu/Outdoor_Heating_-_Mega_Menu_256x117px_1.png?v=97"></a></p>
+<p><a class="img_link" title="Heating on Sale" href="/sale" target="_blank"><img alt="Heating on Sale" src="https://www.barbequesgalore.com.au/media/wysiwyg/mega_menu/Outdoor_Heating_-_Mega_Menu_256x117px_1.png?v=97"></a></p>
+<!-- https://www.barbequesgalore.com.au/media/wysiwyg/mega_menu/Outdoor_Heating_-_Mega_Menu_256x117px_1.png?v=97 -->
 <p><a class="txt_link" title="Outdoor Heating Clearance" href="/sale/heaters-on-sale" target="_self">Outdoor Heating Clearance</a></p>
-<p><a class="img_link" href="https://www.barbequesgalore.com.au/media/wysiwyg/2018/woodheating/BBQG0086_WoodHeating_Cat%202018_FINAL.pdf"><img title="Saxon Blackwood Freestanding Heater" alt="Saxon Blackwood Freestanding Heater" src="https://www.barbequesgalore.com.au/media/wysiwyg/mega_menu/20180510_111814.jpg?v=96"></a></p>
-<p><a class="txt_link" href="https://www.barbequesgalore.com.au/media/wysiwyg/2018/woodheating/BBQG0086_WoodHeating_Cat%202018_FINAL.pdf">Check out the 2018 Range Brochure</a></p>
+<p><a class="img_link" href="https://www.barbequesgalore.com.au/media/wysiwyg/2019_Wood_heating/Wood_Heating_Brochure_2019.pdf?v=97"><img title="Check out the 2019 Range Brochure" alt="" src="https://www.barbequesgalore.com.au/media/wysiwyg/2019_Wood_heating/Wood-Heater-Brochure-preview-1113x626px-250219.jpg?v=97"></a></p>
+<p><a class="txt_link" href="https://www.barbequesgalore.com.au/media/wysiwyg/2019_Wood_heating/Wood_Heating_Brochure_2019.pdf?v=97">Check out the 2019 Range Brochure</a></p>
 </div>
 </div>
 </div>
@@ -1339,14 +1509,17 @@ var shopselector = new NS.Shopselector({
 <div class="shop_all"><a style="background: black !important;" href="https://www.barbequesgalore.com.au/accessories/">View All Accessories</a></div>
 </div>
 </div>
-<div class="li_block" data-equalizer-watch="foo">&nbsp;</div>
+<div class="li_block" style="height: 260px;" data-equalizer-watch="foo"><!-- <p><a href="/sale/biggest-sale-ever/barbeque-accessories"><img alt="Barbeques on Sale" src="https://www.barbequesgalore.com.au/media/wysiwyg/Biggest_sale_ever/NAV_BAR_BLOCK_Biggest_Sale_Ever30.jpg?v=97" /></a></p> -->
+<p><a class="txt_link" title="Clearance" href="/sale/clearance" target="_blank">Shop Products on Clearance</a></p>
 </div>
-<ul class="top_menu show-for-small-only"><ul><!-- <li><a href="https://www.barbequesgalore.com.au/sale">Sale up to 30%</a></li> --> <!-- <li><a href="https://www.barbequesgalore.com.au/outdoor-living-ideas">Outdoor Living Ideas</a></li> --> <!-- <li><a href="/wood-heating-tips/wood-heaters-guide">Wood Heating Guide</a></li> --> <!-- <li><a href="https://www.barbequesgalore.com.au/outdoor-furniture/whats-new/">New Outdoor Furniture</a></li> -->
+</div>
+<ul class="top_menu show-for-small-only"><ul><!-- <li><a href="https://www.barbequesgalore.com.au/sale">Sale up to 30%</a></li> --> <!-- <li><a href="https://www.barbequesgalore.com.au/outdoor-living-ideas">Outdoor Living Ideas</a></li> --> <!-- <li><a href="https://www.barbequesgalore.com.au/outdoor-furniture/whats-new/">New Outdoor Furniture</a></li> -->
 <li><a href="https://www.barbequesgalore.com.au/bbq-expert/category/bbq-recipes/">Recipes</a></li>
 <!-- <li><a href="https://www.barbequesgalore.com.au/bbq-expert/">BBQ Expert</a></li> -->
 <li><a href="https://www.barbequesgalore.com.au/lownslow">Low N Slow</a></li>
-<li><a href="/wood-heating-tips/wood-heaters-guide">Wood Heating Guide</a></li>
+<!-- <li><a href="/wood-heating-tips/wood-heaters-guide">Wood Heating Guide</a></li> -->
 <li><a href="https://www.barbequesgaloregiftcards.com.au/?utm_source=content%20menu&amp;utm_medium=link&amp;utm_campaign=BBQGalore%20Website">Gift Cards</a></li>
+<li><a href="https://www.barbequesgalore.com.au/at-home">At Home Augmented Reality App</a></li>
 </ul></ul>
 <div class="view_catalouge show-for-small-only">
 <p><a href="https://www.barbequesgalore.com.au/catalogues">View Our Latest Catalogue</a></p>
@@ -1365,13 +1538,13 @@ var shopselector = new NS.Shopselector({
 <div class="submenu-content large-12 columns">
 <div class="submenu-list" data-equalizer="foo">
 <div class="li_block" data-equalizer-watch="foo">
-<div class="level1 nav-6-1 first parent"><a class="level1 has-children " title="20% Off All Barbeques" href="https://www.barbequesgalore.com.au/sale/">Products on Sale</a>
+<div class="level1 nav-6-1 first parent"><a class="level1 has-children " title="All Sale Products" href="https://www.barbequesgalore.com.au/sale">All Sale</a>
 <ul class="level1">
-<li class="level2 nav-1-1-1 first parent"><a class="level2  " title="Barbeques on Sale" href="/sale/barbeques-on-sale" target="_self">Barbeques on Sale</a></li>
-<li class="level2 nav-1-1-2"><a class="level2  " title="Furniture on Sale" href="/sale/furniture-on-sale" target="_self">Furniture on Sale</a></li>
-<li class="level2 nav-1-1-3"><a class="level2  " title="Heaters on Sale" href="/sale/heaters-on-sale" target="_self">Heaters on Sale</a></li>
-<li class="level2 nav-1-1-4"><a class="level2  " title="Accessories on Sale" href="/sale/accessories-on-sale" target="_self">Accessories on Sale</a></li>
-</ul>
+<li class="level2 nav-1-1-1 first parent"><a class="level2  " title="Barbeques on Sale" href="/sale/barbeques-on-sale" target="_self">Barbeques Sale</a></li>
+<li class="level2 nav-1-1-2"><a class="level2  " title="Furniture on Sale" href="/sale/furniture-on-sale" target="_self">Furniture Sale</a></li>
+<li class="level2 nav-1-1-3"><a class="level2  " title="Heaters on Sale" href="/sale/heaters-on-sale" target="_self">Heating Sale</a></li>
+<li class="level2 nav-1-1-4"><a class="level2  " title="Accessories on Sale" href="/sale/accessories-on-sale" target="_self">Accessories Sale</a></li>
+<!-- <li class="level2 nav-1-1-5"><a class="level2  " title="Accessories on Sale" href="/sale/biggest-sale-ever/wood-heaters" target="_self">Wood Heaters</a></li> --></ul>
 </div>
 </div>
 <div class="li_block" data-equalizer-watch="foo">
@@ -1384,12 +1557,13 @@ var shopselector = new NS.Shopselector({
 </div>
 </div>
 </div>
-<ul class="top_menu show-for-small-only"><ul><!-- <li><a href="https://www.barbequesgalore.com.au/sale">Sale up to 30%</a></li> --> <!-- <li><a href="https://www.barbequesgalore.com.au/outdoor-living-ideas">Outdoor Living Ideas</a></li> --> <!-- <li><a href="/wood-heating-tips/wood-heaters-guide">Wood Heating Guide</a></li> --> <!-- <li><a href="https://www.barbequesgalore.com.au/outdoor-furniture/whats-new/">New Outdoor Furniture</a></li> -->
+<ul class="top_menu show-for-small-only"><ul><!-- <li><a href="https://www.barbequesgalore.com.au/sale">Sale up to 30%</a></li> --> <!-- <li><a href="https://www.barbequesgalore.com.au/outdoor-living-ideas">Outdoor Living Ideas</a></li> --> <!-- <li><a href="https://www.barbequesgalore.com.au/outdoor-furniture/whats-new/">New Outdoor Furniture</a></li> -->
 <li><a href="https://www.barbequesgalore.com.au/bbq-expert/category/bbq-recipes/">Recipes</a></li>
 <!-- <li><a href="https://www.barbequesgalore.com.au/bbq-expert/">BBQ Expert</a></li> -->
 <li><a href="https://www.barbequesgalore.com.au/lownslow">Low N Slow</a></li>
-<li><a href="/wood-heating-tips/wood-heaters-guide">Wood Heating Guide</a></li>
+<!-- <li><a href="/wood-heating-tips/wood-heaters-guide">Wood Heating Guide</a></li> -->
 <li><a href="https://www.barbequesgaloregiftcards.com.au/?utm_source=content%20menu&amp;utm_medium=link&amp;utm_campaign=BBQGalore%20Website">Gift Cards</a></li>
+<li><a href="https://www.barbequesgalore.com.au/at-home">At Home Augmented Reality App</a></li>
 </ul></ul>
 <div class="view_catalouge show-for-small-only">
 <p><a href="/catalogues">View Our Latest Catalogue</a></p>
@@ -1460,7 +1634,10 @@ var shopselector = new NS.Shopselector({
 <li>you purchase a product</li>
 <li>you complete a finance application</li>
 <li>we contact you to confirm delivery details</li>
-<li>you visit our website.</li>
+<li>you visit our website</li>
+<li>
+<p style="display: inline !important;">you download or use any of our apps.</p>
+</li>
 </ol>
 <p>We also may obtain personal information from third parties such as contractors and suppliers. If we collect personal information about you from a third party and it is unclear that you have consented to the disclosure of your personal information to us, we will take reasonable steps to contact you and ensure that you are aware of the circumstances surrounding the collection and purposes for which we collected your personal information.</p>
 <h2>Website usage information and cookies</h2>
@@ -1474,7 +1651,7 @@ var shopselector = new NS.Shopselector({
 <li>Fraud risk mitigation- to confirm identities when payment is made using credit card.</li>
 </ol>
 <h2>Opting out of direct marketing communications</h2>
-<p>Where we use your personal information to send you marketing and promotional information by post, email or otherwise, we will provide you with an opportunity to “opt out” of receiving such information. By electing not to opt-out, we will assume we have your consent to receive similar information and communications in the future. We will always ensure that our opt-out notices are clear, conspicuous and easy to take up. <br> <br>If you do not wish to receive direct marketing communications from us, please contact us at <span style="background-color: black;"><a href="mailto:online@bbqgalore.com.au">online@bbqgalore.com.au</a></span></p>
+<p>Where we use your personal information to send you marketing and promotional information by post, email, SMS, phone calls, mobile applications, web, social media or otherwise, we will provide you with an opportunity to “opt out” of receiving such information. By electing not to opt-out, we will assume we have your consent to receive similar information and communications in the future. We will always ensure that our opt-out notices are clear, conspicuous and easy to take up. <br> <br>If you do not wish to receive direct marketing communications from us, please contact us at <span style="background-color: black;"><a href="mailto:online@bbqgalore.com.au">onlinestore@bbqgalore.com.au</a></span></p>
 <h2>To whom do we disclose your personal information?</h2>
 <p>We may disclose your personal information to others in order to carry out our activities. This may include</p>
 <ol>
@@ -1598,7 +1775,7 @@ var shopselector = new NS.Shopselector({
 <li><a href="https://www.barbequesgalore.com.au/barbeques/barbeque-brands">Barbeque Brands</a></li>
 <li><a href="https://www.barbequesgalore.com.au/barbeques/barbeque-type/portable">Portable Barbeques </a></li>
 <li><a href="https://www.barbequesgalore.com.au/barbeques/barbeque-brands/ziegler-brown">Ziegler &amp; Brown Barbeques </a></li>
-<li><a href="https://www.barbequesgalore.com.au/barbeques/barbeque-brands/weber">Weber Barbeques </a></li>
+<li><a href="https://www.barbequesgalore.com.au/barbeques/barbeque-brands/weber">Discontinued: Weber Barbeques </a></li>
 <li><a href="https://www.barbequesgalore.com.au/barbeques/barbeque-brands/kamado-joe">Kamado Joe Barbeques </a></li>
 <li><a href="https://www.barbequesgalore.com.au/accessories/barbeque-accessories">Barbeques Accessories </a></li>
 <li><a href="https://www.barbequesgalore.com.au/barbeques/barbeque-styles/smokers">Smokers </a></li>
@@ -1652,7 +1829,6 @@ var shopselector = new NS.Shopselector({
 <li><a href="https://www.barbequesgalore.com.au/customer-service/old-bbq-removal-service">BBQ Removal Service</a></li>
 <li><a href="https://www.barbequesgalore.com.au/customer-service/returns">Returns</a></li>
 <li><a href="https://www.barbequesgalore.com.au/customer-service/price-promise">Price Promise</a></li>
-<li><a href="https://www.barbequesgalore.com.au/customer-service/contact-us">Contact Us</a></li>
 <li><a href="https://www.barbequesgalore.com.au/customer-service/finance">Finance Options</a></li>
 <li><a href="https://www.barbequesgalore.com.au/customer-service/gift-cards">Gift Cards</a></li>
 <li><a href="https://www.barbequesgalore.com.au/customer-service/lay-bys">Lay Bys</a></li>
@@ -1665,9 +1841,9 @@ var shopselector = new NS.Shopselector({
 <ul class="segment accordion-content">
 <li class="heading hide-for-small-only">Company Info</li>
 <li><a href="/company-info/about-us" target="_self">About Us</a></li>
-<li><a href="/company-info/careers" target="_self">Careers</a></li>
 <li><a href="/company-info/commercial-sales" target="_self">Commercial Sales</a></li>
-<li><a href="/company-info/community" target="_self">Community</a></li>
+<li><a href="https://www.barbequesgalore.com.au/customer-service/contact-us">Contact Us</a></li>
+<li><a href="/company-info/careers" target="_self">Careers</a></li>
 <li><a href="/company-info/franchise-opportunities" target="_self">Franchise Opportunities</a></li>
 <li><a href="https://www.barbequesgalore.com.au/storelocator/">Store Locator</a></li>
 </ul>
@@ -1696,7 +1872,7 @@ var shopselector = new NS.Shopselector({
 <li class="last privacy"><a href="https://www.barbequesgalore.com.au/privacy-policy">Privacy Policy</a></li>
 <li><a href="https://www.barbequesgalore.com.au/catalog/seo_sitemap/category">Site Map</a></li>
 <li><a href="https://www.barbequesgalore.com.au/terms-of-use">Terms of Use</a></li>
-<li><a href="https://www.barbequesgalore.com.au/terms-conditions">Terms &amp; Conditions</a></li>
+<li><a href="https://www.barbequesgalore.com.au/sale/terms-and-conditions">Sale Terms &amp; Conditions</a></li>
 </ul></div>
 <!--                <div class="social-media">--><!--</div>-->
             </div>
@@ -2000,7 +2176,7 @@ $zopim.livechat.setLanguage('en');
                                     <form action="https://www.barbequesgalore.com.au//checkout/cart/add/product/{{objectID}}"
                                           method="post">
                                         <input type="hidden" name="form_key"
-                                               value="lEqbE6szkJgF7ERg"/>
+                                               value="XyZmonJtyfnezWJv"/>
                                         <input type="hidden" name="qty" value="1">
                                         <button type="submit">Add to Cart</button>
                                     </form>
@@ -2053,7 +2229,20 @@ $zopim.livechat.setLanguage('en');
 </script>                </div>
             </div>
 
-            
+            <script src="https://apis.google.com/js/platform.js?onload=renderBadge" async="" defer=""></script>
+
+<script>
+  window.renderBadge = function() {
+    var ratingBadgeContainer = document.createElement("div");
+    document.body.appendChild(ratingBadgeContainer);
+    window.gapi.load('ratingbadge', function() {
+      window.gapi.ratingbadge.render(ratingBadgeContainer, 
+        {"merchant_id": 9313760,"position": "BOTTOM_LEFT"}
+      );
+    });
+  }
+</script>
+
         </section>
 
     </div>
