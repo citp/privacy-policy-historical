@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dermnetnz.org privacy policy that was archived on 2018-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181221043933id_/https%3A//www.dermnetnz.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dermnetnz.org privacy policy that was archived on 2019-03-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190322201156id_/https%3A//www.dermnetnz.org/privacy-policy) for the most accurate reproduction.*
 
 # Privacy policy | DermNet NZ
 
@@ -52,7 +52,7 @@
 
 5.1 Our website is using cookies and web server logs to collect information about how our website is used. We may serve third-party advertisements that use cookies and web beacons in the course of ads being served on our website. You have the ability to accept or decline cookies by modifying your web browser.
 
-5.2 We are using Google Analytics to analyse the audience of the website and improve our content. Information gathered through cookies and web server logs may include your IP address, the date and time of visits, the pages viewed, time spent at our website, and the websites visited just before and just after our website. For further information on Google Analytics, please visit <http://www.google.com/analytics/learn/privacy.html>.
+5.2 We are using Google Analytics to analyse the audience of the website and improve our content. Information gathered through cookies and web server logs may include your IP address, the date and time of visits, the pages viewed, time spent at our website, and the websites visited just before and just after our website. For further information on Google Analytics, please visit [http://www.google.com/analytics/learn/privacy.html](https://www.google.com/analytics/learn/privacy.html).
 
 #### 6\. Security and storage of  personal information
 
