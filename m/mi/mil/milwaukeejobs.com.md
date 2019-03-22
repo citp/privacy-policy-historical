@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the milwaukeejobs.com privacy policy that was archived on 2017-03-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170323113209id_/https%3A//www.milwaukeejobs.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the milwaukeejobs.com privacy policy that was archived on 2019-03-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190322113050id_/https%3A//www.milwaukeejobs.com/privacy.asp) for the most accurate reproduction.*
 
-# MilwaukeeJobs.com - Help: Privacy Policy | MilwaukeeJobs.com
+# MilwaukeeJobs.com - Privacy Policy: | MilwaukeeJobs.com
 
 | 
 
