@@ -1,111 +1,118 @@
-> *The following text is extracted and transformed from the globalvisas.com privacy policy that was archived on 2018-04-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180401064247id_/https%3A//haskewlaw.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the globalvisas.com privacy policy that was archived on 2019-03-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190322215159id_/https%3A//haskewlaw.com/about-us/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy policy - Haskew Law
 
-**Privacy Policy**
+Our privacy policy shows how Haskew Law Ltd uses and protects all the information you may provide to Haskew Law Ltd when you use our website.
 
-Haskew Law respects the privacy rights of our online visitors and is committed to protecting the personal information collected about you. We have adopted this Online Privacy Statement to guide how we collect, store, and use the information you provide us online.
+Haskew Law Ltd is committed to ensuring your privacy is completely protected. Should we ask you to provide any information by which you can be identified when using our site, you can be assured it will only be used in accordance with our privacy statement.
 
-To protect your privacy, we have voluntarily undertaken this privacy initiative.
+Hakew Law Ltd may change this policy from time to time by updating this page. You should check this page from time to time to ensure that you are happy with any changes. This policy is effective from Oct 2015.
 
- **What does this Privacy Policy apply to?**
+### Our pledge to all users
 
-This Privacy Policy currently applies to the following websites operated by Haskew Law: 
-
-www.haskewlaw.com
-
-In addition, Haskew Law may also own several other domain names that point to the websites listed above, and we may from time to time add new sites.
-
-  
-Please note that this Privacy Policy applies only to information submitted and collected online through the websites listed above, and does not apply to information that may be collected by Haskew Law offline. In addition, this Privacy Policy applies only to sites listed above and not to websites maintained by other companies or organisations to which we link, including our international affiliates. Haskew Law cannot and does not guarantee the security of any personal information disclosed on those sites. In addition, please note that we may hire vendors (agents or contractors) to collect personal information on our behalf and in such cases, such vendors will be instructed to comply with our Online Privacy Statement as set forth herein.
-
-By using and submitting personal information to the websites listed above, you signify your assent to this Privacy Policy. If you do not agree to this Privacy Policy, please do not use our websites. We reserve the right to make changes to this Privacy Policy. Please check back from time to time to ensure that you are aware of these changes. If we make a material change to this Privacy Policy, we will notify you by posting the change on our websites and, if necessary, give you additional choices regarding such change. Your continued use of our websites will signify your acceptance of these changes.
-
- **What information does Haskew Law collect?**
-
-Haskew Law only collects personal information from you on a voluntary basis. When you submit personal information to Haskew Law, it will usually take the form of:
-
-  * Website registration;
-  * Newsletter subscription;
-  * Participation in our message boards or chat rooms;
-  * Product registration
-  * E-cards and "email this page" features;
-  * Technical support;
-  * Demo downloads and other program downloads or,
-  * Polls, surveys, or questionnaires.
+  * We **ALWAYS** ensure your online privacy is our top priority
+  * We **ONLY** contact you regarding your enquiry
+  * We **NEVER** share your Information
+  * We **DELETE** your details on completing our work
 
 
 
-The types of information collected in connection with the activities listed above will vary depending on the activity. The information we collect may include personal information such as your first and/or last name, e-mail address, phone number, mailing address, and for those purchasing a product/service online, credit card and shipping information. In addition, we may collect demographic information such as your age or date of birth, gender, country of choice. If demographic information is collected for an activity that also requires personal information, we may combine the demographic information with your personal information. On pages where you can send content to a third party; although we ask for a recipient's email address, we don't store this information, but rather delete it from our system after the message is sent.
+### What we collect
 
- **A Special Note about our Message Boards**
+We may collect the following information:
 
-Whenever you give out personal information in public areas such as on a message board or chat room, that information can be collected and used by people you don't know. While we strive to protect those who wish to participate in these forums, we cannot guarantee the security of any information you post in these areas.
+  * name and job title
+  * contact information including email address
+  * demographic information such as postcode, preferences and interests
+  * other information relevant to your case
 
- **CV’s / Resumes**
 
-Haskew Law allows for the online submission of CV’s / resumes/employment Assessments for worker visa applications and supporting information. Personal information collected from CVs / resumes/work visa assessment forms will be used solely for the purpose of accepting and evaluating candidate submissions for job postings and referrals to companies who can assist in securing employment overseas, and is therefore not governed by this Privacy Policy.
 
- **E-mail Correspondence**
+### What we do with the information we gather
 
-Haskew Law may provide on its websites e-mail addresses to which visitors can send us questions or comments, or which visitors can use to request customer support. In the process of receiving and responding to such requests, we may collect personal information about you, such as your e-mail address or any other personal data contained in the body of your e-mail message. By allowing you to send us these requests, we are not attempting to solicit personal information from you. We only use the information for the purpose of responding to your questions and/or comments or to provide customer support. In some cases, copies of your requests or messages may be kept on file for our records.
+We require this information to understand your needs and provide you with a better service, and in particular for the following reasons:
 
- **What happens if I refuse to provide my personal information?**
+  * Internal record keeping.
+  * We may use the information to improve our services
+  * We may periodically send promotional emails about emigration solutions and news we think you may find interesting using the email address which you have provided.
 
-Your refusal to submit personal information may limit your ability to participate in some of our activities or to purchase a Haskew Law product online. However, you do not need to provide us personal information in order to use our websites.
 
- **Does Haskew Law use cookies, track IP Addresses or use other passive means to collect information?**
 
-A "cookie" is a small bit of record-keeping information that websites often store on a user's computer. They are typically used to quickly identify a user's computer and to "remember" things about the user's visit.
+### Security
 
-Haskew Law uses cookies on its websites to measure site use and provide social features, such as "Like" buttons; these cookies do **not** include people's names, e-mail addresses, or other information that is personally identifiable.
+We are committed to ensuring that your information is secure. In order to prevent unauthorised access or disclosure, we have put in place suitable physical, electronic and managerial procedures to safeguard and secure the information we collect online.
 
-Learn more about cookies and how to remove them at [www.aboutcookies.org](http://www.aboutcookies.org/).
+### What is a cookie?
 
-You can always disable cookies or set your browser to alert you when cookies are being sent to your computer; however, disabling cookies may affect your ability to use certain portions of our websites.
+Cookies are text files containing small amounts of information which are downloaded to your device when you visit a website. Cookies are then sent back to the originating website on each subsequent visit, or to another website that recognises that cookie. Cookies are useful because they allow a website to recognise a user’s device.
 
-Haskew Law may also keep track of Internet Protocol (IP) addresses for safety and security reasons. An IP address is a number that is used by computers on the network to identify your computer every time you log on to the Internet.
+You can find more information about cookies at:
 
-The only other information that may be passively collected by Haskew Law is in the form of logs - files that record website activity, including how many "hits" a particular web page is getting (a.k.a. "navigational data"). These entries are generated anonymously and enable Haskew Law to assess overall website activity and users' browsing habits, track interest in advertised sales, and troubleshoot technical concerns. We also use the log file entries for our internal marketing and demographic studies, so we can constantly improve the online services we provide you. Log files are used internally only and are not associated with any particular user, computer, or browser.
+  * [www.allaboutcookies.org](http://www.allaboutcookies.org/)
+  * [www.youronlinechoices.eu](http://www.youronlinechoices.eu/)
 
- **Who is collecting my personal information and how will it be used?**
 
-When you submit information while on a Haskew Law website, you are sharing that information with Haskew Law unless specifically stated otherwise. As a result of this sharing, you may receive communications from Haskew Law and our external partners if you select that you request specific information regarding additional service from our external partners who can assist you with further information outside of our area of expertise. Haskew Law may use the submitted information to send you promotional materials, to provide you with access to our message boards, to fulfil product orders, and to respond to questions or technical problems. We also use your personal information for our internal marketing and demographic studies, so we can improve the products and services we provide to you and to better meet your needs.
 
-From time to time, Haskew Law may receive personal data such as email addresses from other sources or third party companies and may send the holders of such email addresses notices about Haskew Law products. While we strive to provide the same level of protection to the information that we receive from other sources (as we do for personal information collected through our websites), such information is not subject to this Privacy Policy.
+Cookies do lots of different jobs, like letting you navigate between pages efficiently, remembering your preferences, and generally improve the user experience. They can also help to ensure that adverts you see online are more relevant to you and your interests. The cookies used on this website have been categorised based on the categories found in the ICC UK Cookie guide.
 
-From time to time, Haskew Law may employ vendors to collect personal information on Haskew Law behalf. These vendors provide internal support to Haskew Law by operating some of the services we may provide you, for example, online product fulfilment. Haskew Law does NOT require that they adhere to Haskew Law's stated privacy policies.
+### Category 1: strictly necessary cookies
 
-From time to time, Haskew Law may employ the assistance of third parties to provide further information on Haskew Law behalf. These vendors provide support to Haskew Law and our users by operating some of the services you request, which they may provide you, for example, online product fulfilment, opening a bank account, employment opportunities etc.. Haskew Law does NOT require that they adhere to Haskew Law's stated privacy policies.
+These cookies are essential in order to enable you to move around the website and use its features, such as accessing secure areas of the website. Without these cookies services you have asked for, like shopping baskets or e-billing, cannot be provided.
 
- **With whom does Haskew Law share my personal information?**
+### Category 2: performance cookies
 
-Haskew Law, on your request, when selecting an option from our "Additional Advice You May Request" section of an enquiry form may share your personal information with a third party provider to provide the information you request, each partner has been hand selected to ensure they act in a professional manner and will protect your personal information as per their own privacy policies. Haskew Law may also share, your information with third parties as required to assist our users, secure employment or have their skills assessed by a third party who will require your information to assist in their work, open a bank account, etc... Other time may include as required by law enforcement or other government officials in connection with an investigation of fraud, intellectual property infringements, or other activity that is illegal or may expose you or us to legal liability. In addition, in the event of a merger, acquisition, reorganisation, bankruptcy, or other similar events, Haskew Law's customer information may be transferred to our successor or assign.
+These cookies collect information about how visitors use a website, for instance, which pages visitors go to most often, and if they get error messages from web pages. These cookies don’t collect information that identifies a visitor. All information these cookies collect is aggregated and therefore anonymous. It is only used to improve how a website works.
 
- **Can I choose how my personal information is used?**
+By using our website, you agree that we can place these type of cookies on your device.
 
-If you do not want Haskew Law to send you communications such as newsletters or promotional offers, you may opt-out from receiving these communications at the time your personal information is collected or later by contacting us:
+We use Google Analytics:
 
-Via email to admin@haskewlaw. com
+How Google use the information sent by your browser
 
- **How do I access my personal information?**
+When you visit websites or use apps that use Google technologies, Google may use the information we receive from those websites and apps to, for example:
 
-If for any reason you wish to view, correct or delete the personal information collected about you, please send an email to admin@haskewlaw.com. We will review, update or remove information as appropriate.
+  * Make ads more effective
+  * Provide reports of ads activity to advertisers and websites hosting the ads, and to ensure payment to those website publishers
+  * Help website and app owners using Google Analytics to understand how visitors engage with their sites or apps
+  * Improve your Google+ experience
+  * Detect and defend against fraud and other security risks to protect users and partners
+  * Meet their legal duties
+  * Improve their products
 
-For certain features such as our message boards, you may be able to access and update your personal information using the online "Profile" section of those features.
 
- **What is Haskew Law’ policy regarding links to other sites?**
 
-You should be aware that while you are on the Haskew Law websites you could be directed to other sites that are beyond our control. Because we cannot guarantee that the privacy policies of these websites meet our high standards, we recommend reading the privacy policy of the website you link to before you submit any of your personal information.
+### Category 3: functionality cookies
 
- **Does Haskew Law collect personal information from children under 13?**
+These cookies allow the website to remember choices you make (such as your user name, language or the region you are in) and provide enhanced, more personal features. For instance, a website may be able to provide you with local weather reports or traffic news by storing in a cookie the region in which you are currently located. These cookies can also be used to remember changes you have made to text size, fonts and other parts of web pages that you can customise. They may also be used to provide services you have asked for such as watching a video or commenting on a blog. The information these cookies collect may be anonymised and they cannot track your browsing activity on other websites.
 
-Haskew Law does not knowingly collect personal information from children 12 years old or under. We encourage parents to instruct/advise their children to never give out personal information such as their real names, addresses or phone numbers when using the Internet.
+By using our website, you agree that we can place these type of cookies on your device.
 
- **What safeguards does Haskew Law use to protect my personal information?**
+### Category 4: targeting cookies or advertising cookies
 
-To protect your personal information, Haskew Law maintains appropriate safeguards to ensure the security, integrity and privacy of the information you have provided. Our websites have security measures in place to protect the loss, misuse and alteration of the information under our control. Personal information collected by Haskew Law is stored in secure operating environments that are not available to the public (e.g., locked rooms). To prevent unauthorised electronic access to personal information, Haskew Law maintains information collected online behind a firewall-protected server and uses SSL encryption for purchases made online from our website.
+These cookies are used to deliver adverts more relevant to you and your interests They are also used to limit the number of times you see an advertisement as well as help measure the effectiveness of the advertising campaign. They are usually placed by advertising networks with the website operator’s permission. They remember that you have visited a website and this information is shared with other organisations such as advertisers. Quite often targeting or advertising cookies will be linked to site functionality provided by the other organizations.
 
- **How do I ask a question or file a complaint?**
+### Links to other websites
 
-Any questions or complaints about this Online Privacy Statement can be resolved by contacting our Privacy Policy Administrator via email to admin@haskewlaw.com
+Our website may contain links to other websites of interest. However, once you have used these links to leave our site, you should note that we do not have any control over that other website. Therefore, we cannot be responsible for the protection and privacy of any information which you provide whilst visiting such sites and such sites are not governed by this privacy statement. You should exercise caution and look at the privacy statement applicable to the website in question.
+
+### Controlling your personal information
+
+You may choose to restrict the collection or use of your personal information in the following ways:
+
+  * whenever you are asked to fill in a form on the website, look for the box that you can click to indicate that you do not want the information to be used by anybody for direct marketing purposes
+  * if you have previously agreed to us using your personal information for direct marketing purposes, you may change your mind at any time by writing to or emailing us at
+
+Email:
+
+
+
+
+We will not sell, distribute or lease your personal information to third parties unless we have your permission or are required by law to do so. We may use your personal information to send you promotional information about third parties which we think you may find interesting if you tell us that you wish this to happen.
+
+You may request details of personal information which we hold about you under the Data Protection Act 1998.
+
+A small fee of £20 will be payable.
+
+If you would like a copy of the information held on you please write to:
+
+If you believe that any information we are holding on you is incorrect or incomplete, please write to or email us as soon as possible at the above address. We will promptly correct any information found to be incorrect.
