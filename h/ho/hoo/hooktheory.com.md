@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the hooktheory.com privacy policy that was archived on 2017-10-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171001125906id_/https%3A//hooktheory.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hooktheory.com privacy policy that was archived on 2019-03-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190322233840id_/https%3A//www.hooktheory.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Hooktheory
 
-### Last updated October 19, 2011
+### Last updated May 25, 2018
 
 * * *
 
-Hooktheory.com is committed to protecting your privacy and ensuring that you have a positive experience on our website. We know that you care how information about you is used and shared. We value your trust and we will take all reasonable steps to ensure that your personal information is managed carefully and sensibly.
+Hooktheory.com is committed to protecting your privacy and ensuring that you have a positive experience on our website. We know that you care how information about you is used and shared. We value your trust, and we will take all reasonable steps to ensure that your personal information is managed carefully and sensibly.
 
 This privacy policy describes our practices for handling both non-identifying and identifying (i.e., “personal”) information, including online and offline data. This policy applies only to the hooktheory.com website. Please note that BY VISITING HOOKTHEORY.COM, YOU ARE ACCEPTING THE PRACTICES DESCRIBED IN THIS PRIVACY POLICY
 
@@ -28,6 +28,7 @@ Hooktheory uses the information you provide to help us improve and customize you
   * to provide support and assistance for our services;
   * to provide customer feedback and support;
   * to learn what you like and don't like, so we can personalize our website to fit your preferences;
+  * to send emails with updates and information on Hooktheory's services
   * to meet legal obligations
 
 
@@ -40,6 +41,17 @@ Hooktheory respects the privacy of your information. We may provide your persona
   * enabling data processing and storage;
   * hosting websites;
   * maintaining hooktheory.com's privacy and security policies.
+  * We use Google Analytics to help us understand how our customers use the Site--you can read more about how Google uses your Personal Information [here.](https://www.google.com/intl/en/policies/privacy/) You can also opt-out of Google Analytics [here.](https://tools.google.com/dlpage/gaoptout)
+
+
+
+#### As part of Compliance with the GDPR, Hooktheory has entered into data processing agreement (DPA's) with the following entities:
+
+  * Linode - our web host
+  * Google (Analytics) - tracking site usage statistics
+  * MailChimp - for sending emails to our users information about our services
+  * Stripe - payment processing gateway
+  * Paypal - payment processing gateway
 
 
 
@@ -51,9 +63,13 @@ Otherwise, Hooktheory will never disclose your personal information to third par
 
 Yes. Hooktheory is committed to protecting your personal information. We maintain industry-standard security technologies to protect your personal information from unauthorized access, use, or disclosure. 
 
+## Notice of breach of security
+
+If a security breach causes an unauthorized intrusion into our system that materially affects you, we will notify you.
+
 ## How long will Hooktheory keep my personal information?
 
-Hooktheory will only keep your personal information as long as necessary to fulfill the purposes for which it was collected or as required by applicable law.
+Hooktheory will only keep your personal information as long as necessary to fulfill the purposes for which it was collected or as required by applicable law. If you are a member of the European Union, as part of the GDPR you have the right to request access to this information and that it be deleted. We will comply with these requests within 30 days, which can be made by contacting support@hooktheory.com .
 
 ## What about cookies?
 
@@ -63,7 +79,7 @@ Please note that a cookie cannot read any personal data off your hard disk. Acce
 
 ## What if Hooktheory decides to use my information in a different way. 
 
-From time to time, Hooktheory may use user information for new, innovative and unanticipated purposes not previously disclosed or described in this privacy policy. 
+From time to time, Hooktheory may use user information for new, innovative and unanticipated purposes not previously disclosed or described in this privacy policy. You will be notified by email of any changes to our privacy policy, which will also be posted on the hooktheory.com web site.
 
 If you are concerned about how we are using your information, please check our web site periodically. Your continued use of this site  will constitute your acceptance thereof.
 
