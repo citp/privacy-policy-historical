@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the filmsite.org privacy policy that was archived on 2018-10-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181010165235id_/http%3A//www.filmsite.org/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the filmsite.org privacy policy that was archived on 2019-03-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190322192511id_/https%3A//www.filmsite.org/privacy.html) for the most accurate reproduction.*
 
 # Filmsite - AMC Privacy Policy
 
-**EFFECTIVE DATE: July 27th, 2015**
+**EFFECTIVE DATE: February 28th, 2019**
 
 This Privacy Policy describes what information AMC Networks Inc. and its United States-based affiliate and subsidiary companies (together, "AMC" or "we" and sometimes "us") collect about you and why, how we use and share that information, and the choices we offer.
 
@@ -103,7 +103,7 @@ This Policy and all disputes arising hereunder or relating hereto shall be gover
 
 ## **14.** **WHERE IS MY INFORMATION STORED AND PROCESSED?  **
 
-The information we collect from you through your use of the Services is stored and processed in the United States in compliance with New York State and United States law.  If you are not a United States citizen, do not use the Services.
+Our services are intended only for individuals located in the United States and Canada. If you visit our Services or contact us from outside of the United States, please be advised that (1) any information you provide to us or that we automatically collect will be stored or otherwise processed in the United States and may be transferred to other jurisdictions; (2) that by using our Services or submitting information to us, you agree to such processing and transfer; and (3) U.S. law may not offer the same privacy protections as those in your country.
 
 ## **15.** **HOW CAN I CONTACT YOU?**
 
@@ -113,4 +113,4 @@ If you have questions or concerns about our Policy, please contact us at: [priva
 
 AMC Network complies with the US/EU and US/Swiss Safe Harbor frameworks, as set forth by the U.S. Department of Commerce, for the collection, use and retention of personal information transferred from the EEA and Switzerland. More information regarding Safe Harbor can be found at: <http://www.export.gov/safeharbor>. 
 
-© 2015 AMC Networks Inc. All rights reserved.
+© 2019 AMC Networks Inc. All rights reserved.
