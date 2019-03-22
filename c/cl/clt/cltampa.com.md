@@ -1,45 +1,459 @@
-> *The following text is extracted and transformed from the cltampa.com privacy policy that was archived on 2017-10-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171008062112id_/http%3A//cltampa.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cltampa.com privacy policy that was archived on 2019-03-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190322233601id_/https%3A//www.cltampa.com/privacy-policy) for the most accurate reproduction.*
 
-# Creative Loafing: Tampa Bay
+# Privacy Policy
 
-### Creative Loafing Privacy Policy
+## Copyright
 
-Creative Loafing recognizes the importance of protecting the privacy of information provided to us by those who use our products and services. This policy describes how personally identifiable and anonymous information about our publication subscribers, online media product users and event registrants may be collected and shared.
+Copyright ©2018 Creative Loafing Tampa, Inc. all rights reserved. Creative Loafing Tampa is a wholly owned subsidiary of Euclid Media Group LLC. Reproduction in whole or in part without written permission of the publisher is prohibited. Publisher does not assume any liability for unsolicited manuscripts, materials, or other content. Any submission include a stamped, self-addressed envelope. All editorial, advertising and business correspondence should be mailed to 1911 N 13th Street, Tampa, FL 33605.
 
-Please be sure to read this Privacy Policy before using any Creative Loafing Web Site or submitting information through a Site. By using any of our Web Sites, you consent to our use of your information as outlined in this Privacy Policy and accept the terms and conditions herein.
+## Privacy Policy | Effective date: May 25, 2018
 
-This Privacy Policy is current as of March 4, 2011. If we change our privacy practices, we will also update this Privacy Policy. Users should review this policy periodically to monitor any changes. Your continued use of our sites and services constitutes your acceptance of this entire Privacy Policy, as updated from time to time. Creative Loafing reserves the right to access and disclose personally identifiable information to comply with applicable laws, lawful government requests and any orders of the court.
+Euclid Media Group, LLC ("us", "we", or "our") operates the [https://www.cltampa.com](https://www.cltampa.com/) website (the "Service").
 
-### How does Creative Loafing collect your information?
+This page informs you of our policies regarding the collection, use, and disclosure of personal data when you use our Service and the choices you have associated with that data.
 
-Creative Loafing uses cookies and other internet technologies in the management of our Web Site and email programs in an effort to enrich your online experience. We may also use IP addresses to gather broad geographic information for aggregate use. Our cookies do not contain any information that is personally identifiable. Like many Web Sites, Creative Loafing may use pixel tags, also known as web beacons, clear gifs, or web bugs. Pixel tags help us improve our understanding of our web traffic and visitor behavior, as well as gauge the response to our promotional efforts. If you wish, you may disable pixel tags by setting your browser to omit images and disable JavaScript.
+We use your data to provide and improve the Service. By using the Service, you agree to the collection and use of information in accordance with this policy. Unless otherwise defined in this Privacy Policy, terms used in this Privacy Policy have the same meanings as in our [Terms and Conditions](https://www.cltampa.com/terms-conditions).
 
-We use industry-standard, third party advertising service companies to serve advertisements when you visit our sites or open our emails. These companies may use cookies, pixel tags, and other methods to collect information about your visit to our Web Site, and others, in order to provide you with relevant advertisements about products, services, and events. These collection methods do not typically include your name, address, or telephone number. These elements also provide us with aggregate pictures of traffic patterns, which help us to improve your site experience and monitor advertising effort
+### Definitions 
 
-### When is personally identifiable information collected? How is your information used?
+**Personal Data** : Personal Data means data about a living individual who can be identified from those data (or from those and other information either in our possession or likely to come into our possession).
 
-Creative Loafing collects personally identifiable information that you choose to provide us when you subscribe to our magazines, sign up for e-newsletters, enter a contest, participate in surveys, login into our Web Sites using a third party login system (including, but not limited to, Facebook Connect, Twitter, etc.), register for a Web Site, webcast, or trade show, or otherwise communicate with us. When you provide this information to us, you are no longer anonymous. Creative Loafing does not take any steps to protect the privacy of information you volunteer about yourself in forums or other publicly accessible sections of our Web Sites.
+ **Usage Data** : Usage Data is data collected automatically either generated by the use of the Service or from the Service infrastructure itself (for example, the duration of a page visit).
 
-We may use your contact information to send notices for subscription renewal or provide you with information about products or services you have ordered with us. We may also use your contact information to send you e-newsletters or other promotional e-mails that contain targeted, relevant content that may be useful to your business. All promotional e-mails you receive from us will include an option to opt out of similar e-mail communications in the future.
+ **Cookies** : Cookies are small pieces of data stored on a User’s device.
 
-### With whom does Creative Loafing share your information?
+ **Data Controller** : Data Controller means a person who (either alone or jointly or in common with other persons) determines the purposes for which and the manner in which any personal data are, or are to be, processed.
 
-Creative Loafing may share information with our affiliates and business partners whom we believe share our commitment to privacy and information security. We may share identifiable information or anonymized aggregate information with advertisers and other third parties. In some cases you may receive relevant, carefully-screened offers from reputable third party business organizations with which we have shared your information. Many of our customers appreciate receiving these offers because they are relevant and useful to their business or occupation. Each such communication will provide you with an opportunity to opt out of similar future communications.
+For the purpose of this Privacy Policy, we are a Data Controller of your data.
 
-From time to time, you may receive information from or on behalf of advertisers who wish to contact you as a result of your viewing habits, such as where you have clicked on a link in a Creative Loafing e-newsletter, interacted with particular content, or indicated an interest in certain products, services or events. Each such form of contact will provide you with an opportunity to opt out of sharing your information with our advertisers. We may also use your information to send you e-mail and other communications on behalf of third parties. Each such communication will provide you with an opportunity to opt out of similar future communications.
+ **Data Processor (or Service Providers)** : Data Processor (or Service Provider) means any person (other than an employee of the Data Controller) who processes the data on behalf of the Data Controller.
 
-In compliance with privacy laws, we provide our opt-out lists to third parties so that any communications sent on Creative Loafing's behalf are not sent to those who have opted out of receiving such communications.
+We may use the services of various Service Providers in order to process your data more effectively.
 
-### How does Creative Loafing protect your information?
+ **Data Subject** : Data Subject is any living individual who is the subject of Personal Data.
 
-We use reasonable precautions, including appropriate technical, administrative, and physical procedures, to try to protect collected personal information from loss, misuse, or alteration.
+ **User** : The User is the individual using our Service. The User corresponds to the Data
 
-Many of our Web Sites contain links to Web Sites owned and operated by unaffiliated third parties. These links are provided as a service to you, and do not constitute Creative Loafing's endorsement or support of those third parties or their Web Sites. Each third party Web Site has its own information collection and use practices, and we advise you to review their policies.
+Subject, who is the subject of Personal Data.
 
-Creative Loafing is not responsible or liable for third party privacy practices or the content of third party sites. We are not responsible or liable for any breach of security or for the actions of these parties.
+### Information Collection And Use  
 
-Due to the design of the Internet and other factors outside our control, we cannot guarantee that communications between you and our servers will be free from unauthorized access by third parties. Any information you provide may be stored and maintained in a Creative Loafing database, either housed at Creative Loafing or with a third party vendor. In the case of a sale, change of ownership or merger involving Creative Loafing or any parent, subsidiary or affiliated company, your information may be transferred to a third party.
+We collect several different types of information for various purposes to provide and improve our Service to you.
 
-### What are your options for how Creative Loafing uses or shares your information?
+#### Types of Data Collected 
 
-If you wish to opt out of receiving postal, email, fax or phone calls from Creative Loafing please send an email to: [PrivacyManager@southcomm.com](mailto:PrivacyManager@southcomm.com) . You may also call 800-547-7377 and ask for the Privacy Manager, or mail your request to the attention of the Privacy Manager at 210 12th Ave. South, Nashville, TN 37203. Specifically who this privacy manager is and how contacting them will work is subject to change. We will attempt to process any such requests within 10 business days or as soon as reasonably possible thereafter.
+  
+
+
+##### Personal Data 
+
+While using our Service, we may ask you to provide us with certain personally identifiable information that can be used to contact or identify you ("Personal Data"). Personally identifiable information may include, but is not limited to:
+
+  
+
+  * Email address
+  
+
+  * First name and last name
+  
+
+  * Phone number
+  
+
+  * Address, State, Province, ZIP/Postal code, City
+  
+
+  * Cookies and Usage Data
+  
+
+
+
+We may use your Personal Data with your consent to contact you with newsletters, marketing or promotional materials and other information that may be of interest to you, or to notify you of policy updates or information regarding any sweepstakes you enter through our website. You may opt out of receiving any, or all, of these communications from us by following the unsubscribe link or instructions provided in any email we send or by [contacting us](mailto:policy@cltampa.com).
+
+##### Usage Data  
+
+We may also collect information how the Service is accessed and used ("Usage Data") if you give us permission to do so. This Usage Data may include information such as your computer's Internet Protocol address (e.g. IP address), browser type, browser version, the pages of our Service that you visit, the time and date of your visit, the time spent on those pages, unique device identifiers and other diagnostic data.
+
+You can enable or disable usage when you use our Service at any time, through your browser’s cookie settings.
+
+##### Location Data  
+
+We may use and store information about your location if you give us permission to do so (“Location Data”). We use this data to provide features of our Service, to improve and customize our Service.
+
+You can enable or disable location services when you use our Service at any time, through your device settings.
+
+##### Tracking & Cookies Data  
+
+We use cookies and similar tracking technologies to track the activity on our Service and hold certain information.
+
+Cookies are files with small amount of data which may include an anonymous unique identifier. Cookies are sent to your browser from a website and stored on your device. Tracking technologies also used are beacons, tags, and scripts to collect and track information and to improve and analyze our Service.
+
+You can instruct your browser to refuse all cookies or to indicate when a cookie is being sent. However, if you do not accept cookies, you may not be able to use some portions of our Service.
+
+##### Examples of Cookies we use:
+
+  
+
+
+  
+
+  * Session Cookies. We use Session Cookies to operate our Service.
+  
+
+  * Preference Cookies. We use Preference Cookies to remember your preferences and various settings.
+  
+
+  * Security Cookies. We use Security Cookies for security purposes.
+  
+
+  * Advertising Cookies. Advertising Cookies are used to serve you with advertisements that may be relevant to you and your interests.
+  
+
+  
+
+
+### Use of Data  
+
+Euclid Media Group, LLC uses the collected data for various purposes:
+
+  
+
+  1. To provide and maintain our Service
+  
+
+  2. To notify you about changes to our Service
+  
+
+  3. To allow you to participate in interactive features of our Service when you choose to do so
+  
+
+  4. To provide customer support
+  
+
+  5. To gather analysis or valuable information so that we can improve our Service
+  
+
+  6. To monitor the usage of our Service
+  
+
+  7. To detect, prevent and address technical issues
+  
+
+  8. To provide you with news, special offers and general information about other goods, services and events which we offer that are similar to those that you have already purchased or enquired about unless you have opted not to receive such information
+  
+
+  
+
+
+### Retention of Data  
+
+Euclid Media Group, LLC will retain your Personal Data only for as long as is necessary for the purposes set out in this Privacy Policy. We will retain and use your Personal Data to the extent necessary to comply with our legal obligations (for example, if we are required to retain your data to comply with applicable laws), resolve disputes, and enforce our legal agreements and policies.
+
+Euclid Media Group, LLC will also retain Usage Data for internal analysis purposes. Usage Data is generally retained for a shorter period of time, except when this data is used to strengthen the security or to improve the functionality of our Service, or we are legally obligated to retain this data for longer time periods.
+
+### Transfer of Data  
+
+Your information, including Personal Data, may be transferred to ‚Äî and maintained on ‚Äî computers located outside of your state, province, country or other governmental jurisdiction where the data protection laws may differ than those from your jurisdiction.
+
+If you are located outside United States and choose to provide information to us, please note that we transfer the data, including Personal Data, to United States and process it there.
+
+Your consent to this Privacy Policy followed by your submission of such information represents your agreement to that transfer.
+
+Euclid Media Group, LLC will take all steps reasonably necessary to ensure that your data is treated securely and in accordance with this Privacy Policy and no transfer of your Personal Data will take place to an organization or a country unless there are adequate controls in place including the security of your data and other personal information. Euclid Media Group, LLC utilizes standard contract clauses, rely on the European Commission’s adequacy decisions about certain countries, as applicable, and obtain your consent for these data transfers.
+
+### Disclosure of Data  
+
+##### Business Transaction  
+
+If Euclid Media Group, LLC is involved in a merger, acquisition or asset sale, your Personal Data may be transferred. We will provide notice before your Personal Data is transferred and becomes subject to a different Privacy Policy.
+
+##### Disclosure for Law Enforcement  
+
+Under certain circumstances, Euclid Media Group, LLC may be required to disclose your Personal Data if required to do so by law or in response to valid requests by public authorities (e.g. a court or a government agency).
+
+##### Legal Requirements  
+
+Euclid Media Group, LLC may disclose your Personal Data in the good faith belief that such action is necessary to:
+
+  
+
+  * To comply with a legal obligation
+  
+
+  * To protect and defend the rights or property of Euclid Media Group, LLC
+  
+
+  * To prevent or investigate possible wrongdoing in connection with the Service
+  
+
+  * To protect the personal safety of users of the Service or the public
+  
+
+  * To protect against legal liability
+  
+
+  
+
+
+### Security Of Data  
+
+The security of your data is important to us, but remember that no method of transmission over the Internet, or method of electronic storage is 100% secure. While we strive to use commercially acceptable means to protect your Personal Data, we cannot guarantee its absolute security, and appropriate technical and organizational measures ensure a level of security appropriate to the risk. We take the privacy of Personal Information seriously, and will continue to implement appropriate safeguards to protect this Personal Information from misuse or unauthorized disclosure.
+
+### "Do Not Track" Signals  
+
+We do not support Do Not Track ("DNT"). Do Not Track is a preference you can set in your web browser to inform websites that you do not want to be tracked.
+
+You can enable or disable Do Not Track by visiting the Preferences or Settings page of your web browser.
+
+### Your Rights  
+
+Euclid Media Group, LLC aims to take reasonable steps to allow you to correct, amend, delete, or limit the use of your Personal Data.
+
+Whenever made possible, you can update your Personal Data directly within your account settings section or by following links within email communications. If you are unable to change your Personal Data, please contact us to make the required changes.
+
+If you wish to be informed what Personal Data we hold about you and if you want it to be removed from our systems, please contact us at [policy@cltampa.com](mailto:policy@cltampa.com). 
+
+In certain circumstances, you have the right:
+
+  
+
+  * To be informed about what data is collected
+  
+
+  * To access and receive a copy of the Personal Data we hold about you
+  
+
+  * To rectify any Personal Data held about you that is inaccurate
+  
+
+  * To restrict collection or processing of Personal Data within Euclid Media Group systems or within Service Providers
+  
+
+  * To request the deletion of Personal Data held about you
+  
+
+
+
+You have the right to data portability for the information you provide to Euclid Media Group, LLC. You can request to obtain a copy of your Personal Data in a commonly used electronic format so that you can manage and move it.
+
+Similarly, if Personal Data is collected or processed on the basis of consent, the data subject can withdraw their consent at any time. Withdrawing your consent will not affect the lawfulness of any processing we conducted prior to your withdrawal, nor will it affect processing of your Personal Data conducted in reliance on lawful processing grounds other than consent.
+
+Please note that we may ask you to verify your identity before responding to such requests.
+
+### Service Providers  
+
+We may employ third party companies and individuals to facilitate our Service ("Service Providers"), to provide the Service on our behalf, to perform Service-related services or to assist us in analyzing how our Service is used.
+
+These third parties have access to your Personal Data only to perform these tasks on our behalf and are obligated not to disclose or use it for any other purpose.
+
+#### Analytics  
+
+We may use third-party Service Providers to monitor and analyze the use of our Service.
+
+####  Google Analytics
+
+Google Analytics is a web analytics service offered by Google that tracks and reports website traffic. Google uses the data collected to track and monitor the use of our Service. This data is shared with other Google services. Google may use the collected data to contextualize and personalize the ads of its own advertising network.
+
+You can opt-out of having made your activity on the Service available to Google Analytics by installing the Google Analytics [opt-out browser add-on](https://tools.google.com/dlpage/gaoptout). The add-on prevents the Google Analytics JavaScript (ga.js, analytics.js, and dc.js) from sharing information with Google Analytics about visits activity.
+
+For more information on the privacy practices of Google, please visit the Google Privacy & Terms web page: <http://www.google.com/intl/en/policies/privacy/>
+
+####  Quantcast Measure
+
+Quantcast Measure is a web analytics service offered by Quantcast that tracks and reports website traffic and non-personally identifiable demographic information. Quantcast uses the data collected to track and monitor the use of our Service. This data is shared with other Quantcast services.
+
+You can opt-out of having made your activity on the Service available to Quantcast Measure by opting out at <https://www.quantcast.com/opt-out/>. 
+
+For more information on the privacy practices of Quantcast, please visit their Privacy web page: <https://www.quantcast.com/privacy/>  
+
+### Advertising  
+
+We may use third-party Service Providers to show advertisements to you to help
+
+support and maintain our Service.
+
+####  Google AdSense & DoubleClick Cookie
+
+Google, as a third party vendor, uses cookies to serve ads on our Service. Google's use of the DoubleClick cookie enables it and its partners to serve ads to our users based on their visit to our Service or other websites on the Internet.
+
+You may opt out of the use of the DoubleClick Cookie for interest-based advertising by visiting the Google Ads Settings web page: <http://www.google.com/ads/preferences/>
+
+Residents of the EEA are automatically opted out of personalized advertising per Euclid Media Group’s settings within Google AdSense and DoubleClick.
+
+#### Behavioral Remarketing  
+
+Euclid Media Group, LLC uses remarketing services to advertise on third party websites to you after you visited our Service. We and our third-party vendors use cookies to inform, optimize and serve ads based on your past visits to our Service.
+
+####  Google AdWords
+
+Google AdWords remarketing service is provided by Google Inc.
+
+You can opt-out of Google Analytics for Display Advertising and customize the Google Display Network ads by visiting the Google Ads Settings page: <http://www.google.com/settings/ads>
+
+Google also recommends installing the Google Analytics Opt-out Browser Add-on - <https://tools.google.com/dlpage/gaoptout> \- for your web browser. Google Analytics Opt-out Browser Add-on provides visitors with the ability to prevent their data from being collected and used by Google Analytics.
+
+For more information on the privacy practices of Google, please visit the Google Privacy & Terms web page: <http://www.google.com/intl/en/policies/privacy/>
+
+  
+
+
+####  Other Interest-Based Advertising and Remarketing
+
+Euclid Media Group works with other third party advertisers and display partners to serve advertising based on non-personally identifiable information. You can opt-out of all providers at <http://www.networkadvertising.org/managing/opt_out.asp> or [optout.networkadvertising.org](http://optout.networkadvertising.org/), or opt-out of single providers at the links below.
+
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+
+
+### Social Media Platforms & Widgets
+
+We include social media features, such as the Facebook Like button and Facebook commenting. These features may collect information about your IP address and which page you are visiting on our Website, and they may set a cookie to make sure the feature functions properly.
+
+Any information, communications, or materials you submit to us via a social media platform is done at your own risk without any expectation of privacy. We cannot control the actions of other users of these platforms or the actions of the platforms themselves. Your interactions with those features and platforms are governed by the privacy policies of the companies that provide them.
+
+### Contesting, Sweepstakes, & Surveys
+
+We offer optional contests (“Giveaways” or “Free Stuff”) on our websites utilizing your account information. We also utilize Second Street, a Service Provider, to administer other contests and surveys. 
+
+Your participation in these contests is completely voluntary, and we use the information you provide to administer our contests. We may also, unless prohibited by the Promotion’s rules or law, use the information provided to communicate with you, or other people you select, about our Services. 
+
+We may share this information with our affiliates and other organizations or service providers in line with this privacy policy and the rules posted for our Promotions. For general contesting rules and restrictions, please read more here. (link to contest rules page)
+
+### Links To Other Sites  
+
+Our Service may contain links to other sites that are not operated by us. If you click on a third party link, you will be directed to that third party's site. We strongly advise you to review the Privacy Policy of every site you visit.
+
+We have no control over and assume no responsibility for the content, privacy policies or practices of any third party sites or services.
+
+### Children's Privacy  
+
+Our Service does not address anyone under the age of 13 ("Children").
+
+We do not knowingly collect personally identifiable information from anyone under the age of 13. If you are a parent or guardian and you are aware that your Children has provided us with Personal Data, please contact us. If we become aware that we have collected Personal Data from children without verification of parental consent, we take steps to remove that information from our servers.
+
+### Changes To This Privacy Policy  
+
+We may update our Privacy Policy from time to time. We will notify you of any changes by posting the new Privacy Policy on this page.
+
+We will let you know via email and/or a prominent notice on our Service, prior to the change becoming effective and update the "effective date" at the top of this Privacy Policy.
+
+You are advised to review this Privacy Policy periodically for any changes. Changes to this Privacy Policy are effective when they are posted on this page.
+
+### Contact Us  
+
+If you have any questions about this Privacy Policy, please contact us by email: policy@cltampa.com
+
+  
+
+
+## Cookies Policy | Last updated: May 25, 2018
+
+Euclid Media Group, LLC ("us", "we", or "our") uses cookies on the [https://www.cltampa.com](https://www.cltampa.com/) website (the "Service"). By using the Service, you consent to the use of cookies.
+
+Our Cookies Policy explains what cookies are, how we use cookies, how third- parties we may partner with may use cookies on the Service, your choices regarding cookies and further information about cookies.
+
+### What are cookies 
+
+Cookies are small pieces of text sent to your web browser by a website you visit. A cookie file is stored in your web browser and allows the Service or a third-party to recognize you and make your next visit easier and the Service more useful to you.
+
+Cookies can be "persistent" or "session" cookies. Persistent cookies remain on your personal computer or mobile device when you go offline, while session cookies are deleted as soon as you close your web browser.
+
+How Euclid Media Group, LLC uses cookies  
+
+When you use and access the Service, we may place a number of cookies files in your web browser.
+
+We use cookies for the following purposes:
+
+  
+
+  * To enable certain functions of the Service
+  
+
+  * To provide analytics
+  
+
+  * To store your preferences
+  
+
+  * To enable advertisements delivery, including behavioral advertising
+  
+
+
+
+We use both session and persistent cookies on the Service and we use different types of cookies to run the Service:
+
+  
+
+  * **Essential cookies**. We may use essential cookies to authenticate users and prevent fraudulent use of user accounts.
+  
+
+  * **Preferences cookies**. We may use preferences cookies to remember information that changes the way the Service behaves or looks, such as the "remember me" functionality of a registered user or a user's language preference.
+  
+
+  * **Analytics cookies**. We may use analytics cookies to track information how the Service is used so that we can make improvements. We may also use analytics cookies to test new advertisements, pages, features or new functionality of the Service to see how our users react to them.
+  
+
+  * **Advertising cookies**. These type of cookies are used to deliver advertisements on and through the Service and track the performance of these advertisements. These cookies may also be used to enable third-party advertising networks to deliver ads that may be relevant to you based upon your activities or interests.
+  
+
+
+
+#### Third-party cookies  
+
+In addition to our own cookies, we may also use various third-parties cookies to report usage statistics of the Service, deliver advertisements on and through the Service, and so on.
+
+#### What are your choices regarding cookies  
+
+If you'd like to delete cookies or instruct your web browser to delete or refuse cookies, please visit the help pages of your web browser.
+
+Please note, however, that if you delete cookies or refuse to accept them, you might not be able to use all of the features we offer, you may not be able to store your preferences, and some of our pages might not display properly.
+
+Please note, furthermore, that contradictions against the creation of usage profiles partly work through a so-called "opt-out cookie". If you delete all cookies, a contradiction may therefore no longer be taken into account and must be collected again by you.
+
+ * For the Chrome web browser, please visit this page from Google: <https://support.google.com/accounts/answer/32050>
+
+ * For the Internet Explorer web browser, please visit this page from Microsoft: <http://support.microsoft.com/kb/278835>
+
+ * For the Firefox web browser, please visit this page from Mozilla: <https://support.mozilla.org/en-US/kb/delete-cookies-remove-info-websites-stored>
+
+ * For the Safari web browser, please visit this page from Apple: <https://support.apple.com/kb/PH21411?locale=en_US>
+
+ * For any other web browser, please visit your web browser's official web pages.
+
+#### Where can you find more information about cookies  
+
+You can learn more about cookies and opt-out of advertising at the following third-party websites:
+
+  
+
+  * AllAboutCookies: <http://www.allaboutcookies.org/>
+  
+
+  * Network Advertising Initiative: <http://www.networkadvertising.org/>
+  
+
+  * AdChoices: <https://youradchoices.com/>
+
+
