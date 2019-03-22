@@ -1,68 +1,113 @@
-> *The following text is extracted and transformed from the openwave.com privacy policy that was archived on 2017-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170515221949id_/http%3A//owmobility.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the openwave.com privacy policy that was archived on 2019-03-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190322032700id_/https%3A//owmobility.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - OpenWave Mobility
 
-This Privacy Policy statement describes our practices regarding how personal information we collect on our website, www.owmobility.com (“Site”), is used and shared with third parties. The terms “our”, “we”, “us”, and “Openwave Mobility” refer to Openwave Mobility, Inc., a Delaware corporation. By visiting our Site or otherwise submitting your personal information to us, you accept and agree to the practices described in this statement. The information that we receive through our Site depends on your interactions with our Site including, what you do during your visit to our Site and what service(s) you request.
+Effective as of 2018-05-11
 
-#### European Union Users
+Openwave Mobility, Inc. and its subsidiaries (hereinafter referred to as “Openwave Mobility”, “we” or “us”) is committed to protecting and respecting the individual’s right to privacy. This privacy policy (“Privacy Policy”) describes how we use personal data that we collect from the user of Openwave Mobility’s website (hereinafter referred to “you”), or that you provide to us.
 
-YOU EXPRESSLY CONSENT TO OPENWAVE MOBILITY’S PROCESSING OF YOUR PERSONAL INFORMATION IN ACCORDANCE WITH THIS PRIVACY POLICY. YOUR PERSONAL INFORMATION MAY BE PROCESSED BY OPENWAVE MOBILITY IN THE COUNTRY WHERE IT WAS COLLECTED AND IN THE UNITED STATES. UNITED STATES LAWS REGARDING PROCESSING OF PERSONAL INFORMATION MAY BE LESS STRINGENT THAN THE LAWS IN YOUR COUNTRY.
+_We reserve the right, at our discretion, to revise this Privacy Policy. The revised Privacy Policy will be effective from the time of publication on this website, so it is important that you review this Privacy Policy regularly to be informed about any changes.  _
 
-IF YOU REPRESENT AN ORGANIZATION, YOU WILL ENSURE THAT EACH MEMBER OF YOUR ORGANIZATION (INCLUDING EMPLOYEES AND CONTRACTORS) ABOUT WHOM PERSONAL INFORMATION MAY BE PROVIDED TO OPENWAVE MOBILITY HAS GIVEN HIS OR HER EXPRESS CONSENT TO OUR PROCESSING OF SUCH PERSONAL INFORMATION.
+This Privacy Policy is in addition to any other terms and conditions applicable to the website.
 
-#### Personal Information
+Sending personal data via forms on Openwave Mobility’s website or, if applicable, sending emails requesting information, services and products, or otherwise voluntarily providing us with personal data constitute your consent to your personal data being used in accordance with this Privacy Policy.
 
-We may ask you to submit personal information at various places on our Site, including service request pages or information such as a white paper, subscribing to a newsletter, submitting feedback, or participating in a forum or survey. Such personal information which you voluntarily submit shall include, but not limited to, your name, address, email address, telephone number, information regarding your interest in Openwave Mobility’s products and services, your employer, and your employment position (“Personal Information”).
+You guarantee that the personal data provided to Openwave Mobility is truthful and is responsible for communicating any changes thereto.
 
-We use your Personal Information to contact you or send you information that you have requested or that we feel will be of interest to you. We may contact you via phone, email, or postal mail. We generally provide an option for you to choose not to receive these types of communications. If we send you a promotional or marketing based email, we will include an option to unsubscribe in the footer of the email. However, even if you request not to be contacted by us, we reserve the right to use your Personal Information as necessary to send you crucial information about Openwave Mobility products or services that you have purchased from us or information about changes to our privacy policy.
+_If you do not agree with this Privacy Policy, do not use our products and services or provide Openwave Mobility with your personal data._
 
-#### Non-Personally Identifying Information
+### **WHAT PERSONAL DATA DO WE COLLECT AND PROCESS?**
 
-We may also automatically collect information about your use of our Site, through, for example, "cookies" or "IP addresses." However, this information is not collected and stored in a personally identifiable manner. This information helps us evaluate and improve our Site and is also used for marketing and investment analysis. Additionally, third parties place cookies and other tracking technologies on our Site, but only in aggregate statistical form that includes no personal information.
+We may collect, store and use the following kinds of personal data:
 
-"Cookies" are small files that websites place on your hard drive that allow websites to identify you. The use of cookies is a common practice on many web sites. For example, if you allow a website to remember your login name or password, that website places a cookie on your computer. Cookies cannot read any other information on your hard drive. We may place cookies on your computer to allow us to identify you. We may use cookies to measure web site traffic, to offer you certain services, or to customize your visit. However, if you do not wish to receive cookies, or want to be notified of when they are placed, your browser may permit you to do so. An "IP address" is a number that is automatically assigned to your computer when you use the Internet. In some cases your IP address stays the same from browser session to browser session; but if you use a consumer internet access provider, your IP address may vary from session to session.
+  * information about your computer and about your visits to and use of Openwave Mobility’s website (including your IP address, weblogs, geographical location, browser type and version; operating system, referral source, length of visit, page views and website navigation);
+  * data that you provide to us for the purpose of registering with us (including name, address, email address, organizational size and activity);
+  * data that you provide to us for the purpose of subscribing to our website services, email notifications and/or newsletters (including name and email address);
+  * information that you provide us by filling in forms on our website, for example information provided at the time of subscribing to our services, posting material, any inquiry through the “Contact Us” section of the website, the request for further services and/or products or information when submitting online job applications;
+  * data that you provide to us when you use our products and services;
+  * data that you provide to us when you take part in campaigns or research or otherwise interact with us;
+  * any other data that you choose to send to us;
 
-#### Use of Contractors and Service Providers
 
-Openwave Mobility uses third parties (including contractors and service providers) to help with certain aspects of its operations, which may require disclosure of your personal information to them. For example, Openwave Mobility may use a third party to communicate with you (via telephone, email, or regular mail) about our products or services, to send information to you through an email service provider, to host our website and related databases, to collect your job application on our website, and to perform other work that we may need to outsource. Openwave Mobility requires these third parties to use your personal information only to the extent necessary to perform the services they are asked to perform.
 
-#### Public Forums
+### **HOW DO WE USE COOKIES?**
 
-If you use a blog, developer forum, or other public forum on this website, you should be aware that any personally identifiable information you submit there can be read, collected, or used by other users of these forums, and can be used to send you unsolicited messages. We are not responsible for the personally identifiable information you choose to submit in these forums.
+Openwave Mobility uses cookies to further increase the relevance of the content display to improve our website offering. Please visit our [ **Cookie Policy**](https://web.archive.org/cookie-policy/) to find out more about how Openwave Mobility uses cookies.
 
-#### Corporate Family
+### **WHY DO WE PROCESS YOUR PERSONAL DATA?**
 
-We may share some or all of your personal information with any current or future Affiliate. (For purposes for this Privacy Policy “Affiliate” shall mean a parent company, a subsidiary, joint venture, or other company under a common control with Openwave Mobility), in which case we will require the Affiliate to honor this Privacy Policy. If another company acquires Openwave Mobility (or a business unit of Openwave Mobility that uses your personal information), that company will possess the personal information collected by Openwave Mobility and it will assume the rights and obligations regarding your personal information as described in this privacy policy. We will notify you of these changes as described below in “Changes to the Privacy Policy.”
+Personal data submitted to us via Openwave Mobility’s website will be used for the purposes specified in this Privacy Policy or in relevant parts of the website.
 
-#### Security
+We may use your personal data to:
 
-We take reasonable steps to protect the personal information that you share with us from unauthorized access or disclosure. However, no company, including Openwave Mobility, can fully eliminate security risks associated with personal information.
+  * administer the website and to ensure that the content of our website is presented in the most effective manner for you and for your computer;
+  * to respond to your requests, to process your requests and deliver the requested material and information;
+  * enable your use of the products and services available on the website, to ensure the functionality and security of our products and services, to identify you as well as to prevent and investigate misuses;
+  * to develop and manage our products, services, customer care, sales and marketing;
+  * To provide you with information, products or services which we feel may be of an interest to you, where we have your consent or it is otherwise allowed;
+  * send you email notifications which you have specifically requested;  
+provide third parties with statistical data about our users – but this information will not be used to identify any individual user;
+  * deal with enquiries and complaints made by or about you relating to the website;
+  * in case of a job application, the information will be kept in order to process the job application and respond back to you;
+  * if you have supplied us with your name, phone numbers, mailing address and email address online you may receive telephone contact or an answer in the form of an answer to an email or documentation sent to an address with information regarding new products and services or upcoming events. If you do not wish to receive such telephone calls or any other form of answer, please let us know by sending us an email.
 
-Your privacy is very important to us. Due to factors beyond our control, however, we cannot fully ensure that your personal information will not be disclosed to other third parties. We reserve the right to disclose your personal information as required by law and when we believe that disclosure is necessary to protect our rights and/or comply with a judicial proceeding, court order, or legal process served to us. Additionally, third parties may unlawfully intercept or access transmissions or private communications.
 
-#### Linked Sites
 
-Our site may link to other websites and widgets not controlled by Openwave Mobility. We are not responsible for the privacy or security practices of any other websites. We therefore encourage you to read the privacy policies on those other websites. These widgets may have a feature where your email is collected to send information to another third party. Please refer to their privacy policy when you enter your personal information.
+### **TO WHOM WILL WE SHARE AND DISCLOSE YOUR PERSONAL DATA?**
 
-#### Changes to the Privacy Policy
+We may disclose data about you to any of Openwave Mobility’s employees, officers, agents, suppliers or subcontractors insofar as reasonably necessary for the purposes set out in this Privacy Policy with the use of appropriate security measures to protect your personal data.
 
-Any changes to this Privacy Policy will be promptly posted on this Privacy Policy page, the home page, and other places we deem appropriate so that you are aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it.
+In addition, we may disclose your personal data:
 
-We reserve the right to modify this Privacy Policy at any time, so please review it frequently. If we make material changes to this Privacy Policy, we will notify you here, by email, or by means of a notice on our home page.
+  * if we are under a duty to disclose or share your personal data in order to comply with any legal or regulatory obligation or any other governmental request;
+  * in connection with any legal proceedings or prospective legal proceedings;
+  * in order to establish, exercise or defend our legal rights, for example in civil or criminal proceedings;
+  * in the event that we sell, buy, merge, consolidate, transfer, change in control any business or assets or otherwise reorganize our business, in which case we may disclose your personal data to the prospective seller or buyer (including their advisers) of such business or assets;
+  * if we believe that there is a threat to the information stored in this website, or in order to protect or defend our rights or the well-being of our users. In general, we may release certain personal data in cases where we believe that the release of the information is reasonably necessary to protect the rights, property, and safety of others and ourselves.
+  * In cases where you provide us with your consent to do so.
 
-#### Access Changes to Your Personal Information
 
-If you have questions or comments about our Site or a request to correction or deletion of your personal information, please send us such a request via our Contact Us page at: http://www.owmobility.com. We will use commercially reasonable efforts to fulfill your request in a timely manner. However, even if Openwave Mobility deletes such personal information from its 'live' database(s), it may still be stored on other databases (including those kept for archival purposes).
 
-If you would like Openwave Mobility to delete your data, please contact us as described above. We will respond to your request within 30 business days.
+Except as provided in this Privacy Policy, we will not provide your data to third parties.
 
-#### Certifications
+### **WHERE DO WE STORE AND TRANSFER YOUR PERSONAL DATA?**
 
-Openwave Mobility has been awarded TRUSTe's Privacy Seal signifying that this Privacy Policy and our practices have been reviewed by TRUSTe for compliance with TRUSTe's program requirements including transparency, accountability and choice regarding the collection and use of your personal information. TRUSTe's mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy trustmark and innovative trust solutions. If you have questions or complaints regarding our Privacy Policy or practices, please contact us at privacy@owmobility.com. This Privacy Policy covers data collected at www.owmobility.com. Openwave Mobility participates in the EU Safe Harbor Privacy Framework as set forth by the United States Department of Commerce regarding the collection, use, and retention of data from the European Union. As part of our participation in such safe harbor, we have agreed to TRUSTe dispute resolution for disputes relating to our compliance with the Safe Harbor Privacy Framework. If you have any complaints regarding our compliance with the Safe Harbor you should first contact us (as provided above). For information about TRUSTe or the operation of TRUSTe's dispute resolution process, see https://feedbackform.truste.com/watchdog/request. The TRUSTe dispute resolution process shall be conducted in English.
+The data that we collect from you may be processed, transferred to, and stored outside the country where you use our website and services, including to countries outside the European Economic Area (EEA) that do not have laws providing specific protection for personal data or that have different legal rules on data protection. This means that data protection standards may be different from the place where the data is collected. By submitting your personal data to us, you agree to this transfer, storing or processing at any location in the world. We will take the appropriate measures necessary to ensure the safety and the confidentiality of your data and that it is treated in accordance with this Privacy Policy.
 
-The materials on this Site are provided by Openwave Mobility for informational purposes only. By downloading any material from the Site, you agree to all of the Terms of this Privacy Policy.
+_You expressly agree to such transfers of personal data._
 
-Last Updated December 2012  
-Openwave Mobility, Inc.  
-400 Seaport Ct, Suite 104  
-Redwood City, CA 94063
+### **WHAT DO WE DO TO SAFEGUARD YOUR PERSONAL DATA?**
+
+We are committed to protect any personal data divulged to us. We have implemented appropriate technical, administrative and organisational precautions to prevent the loss, misuse or alteration of your personal data. We have taken appropriate technical, administrative and organizational facilities, systems and processes necessary to ensure the safety of your personal data and avoid its alteration, loss, theft, or unauthorized disclosure. The persons processing your personal data are required to keep personal data confidential.
+
+Unfortunately, the transmission of information via the internet is not completely secure. Even though we will use reasonable efforts to protect your personal data taking into consideration the risk represented by the processing and nature of the data being protected, we cannot guarantee the security of your data transmitted to our site; any transmission is at your own risk. Once we have received your information, we will use the measures described above to prevent unauthorised access.
+
+You are responsible for keeping your password and user details confidential.
+
+### **FOR HOW LONG WILL WE STORE PERSONAL DATA?**
+
+Your information will be held by us and kept in a form, which permits identification of you for no longer than is reasonably necessary to fulfil the purposes for which the personal data is collected and legitimately processed. We may save the personal data longer if we are required by law or to safeguard our legal interests, for example in connection with a legal process.
+
+We will delete any information, which reasonable seems to be inaccurate or out of date by reason of the time elapsed since it was collected or by reason of any other information in our possession.
+
+### **WHAT ARE YOUR RIGHTS?**
+
+You may instruct us to provide you with any personal data we hold about you. You have a right to have incomplete, incorrect, unnecessary or outdated personal data deleted or updated. You have a right to unsubscribe from direct marketing messages and to request that we stop processing your personal data for direct marketing purposes or on other compelling legal grounds.
+
+You may exercise your rights by contacting us on the address set out under the header “Contact” below.
+
+You should be aware that in some cases, especially if you wish us to delete or stop processing your personal data, this may also mean that we may not be able to continue to provide the services and/or products to you.
+
+### **WHAT RESPONSIBILITY DO WE HAVE FOR THIRD PARTY WEBSITES?**
+
+The website contains links to other websites. We are not responsible for the privacy policies or practices of third party websites.
+
+This Privacy Policy does not apply to services and/or products offered by third parties including, but not limited to, websites linked from our services, advertiser’s services or other companies referred to in our website.
+
+### **HOW DO YOU CONTACT US?**
+
+If you have any questions about this Privacy Policy or our treatment of your personal data, please write to us by email at [info@owmobility.com](mailto:info@owmobility.com) or by post to Openwave Mobility, Charles House, 103-111 Donegall Street, Belfast BT1 2FJ, Northern Ireland.
+
+### **WHO IS THE CONTROLLER OF YOUR PERSONAL DATA?**
+
+The data controller responsible in respect of the data collected on this website is Openwave Mobility, Charles House, 103-111 Donegall Street, Belfast BT1 2FJ, Northern Ireland.
