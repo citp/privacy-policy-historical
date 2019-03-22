@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the warnervideo.com privacy policy that was archived on 2018-08-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180827060153id_/https%3A//www.wbshop.com/pages/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the warnervideo.com privacy policy that was archived on 2019-03-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190322151249id_/https%3A//www.wbshop.com/pages/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | WB Shop
+# Privacy Policy – WB Shop
 
 Last Updated: May 24, 2018
 
