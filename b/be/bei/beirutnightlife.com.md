@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the beirutnightlife.com privacy policy that was archived on 2018-08-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180827051320id_/http%3A//beirutnightlife.com/terms-of-service-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the beirutnightlife.com privacy policy that was archived on 2019-03-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190322132124id_/http%3A//beirutnightlife.com/terms-of-service-privacy-policy) for the most accurate reproduction.*
 
 # Terms of Service & Privacy Policy - BNL
 
