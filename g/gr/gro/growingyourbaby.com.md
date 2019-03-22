@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the growingyourbaby.com privacy policy that was archived on 2018-07-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180727221638id_/https%3A//www.growingyourbaby.com/about/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the growingyourbaby.com privacy policy that was archived on 2019-03-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190322192940id_/https%3A//www.growingyourbaby.com/about/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Growing Your Baby
 
-[](https://www.growingyourbaby.com/ "Growing Your Baby") Parenthood from Pregnancy to Pre-school
+[](https://www.growingyourbaby.com/)Parenthood from Pregnancy to Pre-school
 
 
 
