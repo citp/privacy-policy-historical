@@ -1,9 +1,10 @@
-<!--The following is the downloaded HTML source of the finishline.com privacy policy that was archived on 2018-12-06.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20181206135727id_/https%3A//www.finishline.com/store/corporate/privacyPolicy.jsp) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the finishline.com privacy policy that was archived on 2019-03-22.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20190322030946id_/https%3A//www.finishline.com/store/corporate/privacyPolicy.jsp) for the most accurate reproduction.-->
 
-<!DOCTYPE html><html lang="en-US" class=" whatinput-types-initial" data-whatinput="initial" data-whatintent="initial"><head>
-    <iframe src="javascript:void(0)" title="" style="width: 0px; height: 0px; border: 0px; display: none;"></iframe><script src="//tags.tiqcdn.com/utag/finishline/main/prod/utag.js" type="text/javascript" async=""></script><script async="" src="https://dhxtx5wtu812h.cloudfront.net/js/finishline.js"></script><script>!function(e){function r(r){r&&r.data&&r.data.boomr_mq&&(e.BOOMR_mq=e.BOOMR_mq||[],e.BOOMR_mq.push(r.data.boomr_mq))}e.addEventListener&&e.addEventListener("message",r);var a=e.navigator;a&&"serviceWorker"in a&&a.serviceWorker.addEventListener&&a.serviceWorker.addEventListener("message",r)}(window);</script>
-        
+<!DOCTYPE html><html lang="en-US" class=" whatinput-types-initial" data-whatinput="initial" data-whatintent="initial"><head><iframe src="javascript:void(0)" title="" style="width: 0px; height: 0px; border: 0px; display: none;"></iframe><script src="//tags.tiqcdn.com/utag/finishline/main/prod/utag.js" type="text/javascript" async=""></script><script async="" src="https://dhxtx5wtu812h.cloudfront.net/js/finishline.js"></script><script>
+// akam-sw.js install script version 1.1.0
+"serviceWorker"in navigator&&(()=>{let e=new Promise(e=>{"complete"===document.readyState||!1?e():(window.addEventListener("load",()=>{e()}),setTimeout(function(){"complete"!==document.readyState&&e()},1e4))}),o=window.akamServiceWorkerInvoked,a="1.1.0";if(o)aka3pmLog("akam-setup already invoked");else{window.akamServiceWorkerInvoked=!0,window.aka3pmLog=function(){window.akamServiceWorkerDebug&&console.log.apply(console,arguments)};const o=0,t=1;function r(e){(window.BOOMR_mq=window.BOOMR_mq||[]).push(["addVar",{"sm.sw.s":e,"sm.sw.v":a}])}let i="/akam-sw.js",s="/threepm-sw.js",c=new Map,l=(e,o)=>{c.has(e)||c.set(e,[]),c.get(e).push(o)},m=e=>{let o=c.get(e);return o&&o.length>0?o.shift():null};navigator.serviceWorker.addEventListener("message",e=>{let o=e.data;if(o.isAka3pm)if(o.command){let a=m(o.command);a&&a(e.data.response)}else if(o.commandToClient)switch(o.commandToClient){case"enableDebug":window.akamServiceWorkerDebug||(window.akamServiceWorkerDebug=!0,aka3pmLog("Setup script debug enabled via service worker message"),n());break;case"boomerangMQ":o.payload&&(window.BOOMR_mq=window.BOOMR_mq||[]).push(o.payload)}aka3pmLog("akam-sw message: "+JSON.stringify(e.data))});let d=function(e){return new Promise(o=>{l(e.command,o),navigator.serviceWorker.controller&&(e.isAka3pm=!0,navigator.serviceWorker.controller.postMessage(e))})},g=e=>d({command:"navTiming",navTiming:e});const w="X-Akam-SW-Other";let k=new URL(window.location.href).searchParams.get(w);k&&k.startsWith("akam-sw-old")&&("js"!==k.split(".").pop()&&(k+=".js"),i="/"+k);let p=!0;"boolean"==typeof aka3pmAllowDoubleSW&&(p&=aka3pmAllowDoubleSW);let v=function(e,a){return new Promise((n,i)=>{aka3pmLog("Registering service worker with URL: "+e),navigator.serviceWorker.register(e,a).then(function(e){aka3pmLog("ServiceWorker registration successful with scope: ",e.scope),n(e),r(t)}).catch(function(e){aka3pmLog("ServiceWorker registration failed: ",e),r(o),i(e)})})};if(p){let o=null,a={},r=function(){let e=i;return o&&(e+="?othersw="+encodeURIComponent(o)),v(e,a)},n=ServiceWorkerContainer.prototype.register;if(ServiceWorkerContainer.prototype.register=function(t,s){return t.includes(i)?n.call(this,t,s):(aka3pmLog("Overriding registration of service worker for: "+t),o=new URL(t,window.location.href),a=s,navigator.serviceWorker.controller?new Promise((a,n)=>{let t=navigator.serviceWorker.controller.scriptURL;if(t.includes(i)){let i=encodeURIComponent(o);t.includes(i)?(aka3pmLog("Cancelling registration as we already integrate other SW: "+o),navigator.serviceWorker.getRegistration().then(e=>{a(e)})):e.then(()=>{aka3pmLog("Unregistering existing 3pm service worker"),navigator.serviceWorker.getRegistration().then(e=>{e.unregister().then(()=>r()).then(e=>{a(e)}).catch(e=>{n(e)})})})}else aka3pmLog("Cancelling registration as we already have akam-sw.js installed"),navigator.serviceWorker.getRegistration().then(e=>{a(e)})}):n.call(this,t,s))},navigator.serviceWorker.controller){let n=navigator.serviceWorker.controller.scriptURL;n.includes(i)||n.includes(s)||(aka3pmLog("Detected existing service worker. Removing and re-adding inside akam-sw.js"),o=new URL(n,window.location.href),e.then(()=>{navigator.serviceWorker.getRegistration().then(function(e){a={scope:e.scope},e.unregister(),r()})}))}else e.then(()=>{r()})}else e.then(()=>{navigator.serviceWorker.controller||v(i,{})});if(window.performance){let e=window.performance.timing,o=e.responseEnd-e.responseStart;g(o)}e.then(()=>{d({command:"pageLoad"})});let u=!1;function n(){window.akamServiceWorkerDebug&&!u&&(u=!0,aka3pmLog("Initializing debug functions at window scope"),window.aka3pmInjectSwPolicy=(e=>d({command:"updatePolicy",policy:e})),window.aka3pmDisableInjectedPolicy=(()=>d({command:"disableInjectedPolicy"})),window.aka3pmDeleteInjectedPolicy=(()=>d({command:"deleteInjectedPolicy"})),window.aka3pmGetStateAsync=(()=>d({command:"getState"})),window.aka3pmDumpState=(()=>{aka3pmGetStateAsync().then(e=>{aka3pmLog(JSON.stringify(e,null,"\t"))})}),window.aka3pmInjectTiming=(e=>g(e)),window.aka3pmUpdatePolicyFromNetwork=(()=>d({command:"pullPolicyFromNetwork"})))}n()}})();    </script>
+     
 <meta http-equiv="Content-type" content="text/html;charset=UTF-8">
 <!-- end of Search Results -->	<!-- end of Search Results -->	<!-- This is for Product Detail Page -->	
 	<title>Customer Service Privacy Policy | Finish Line</title>	
@@ -14,10 +15,12 @@
 					<link rel="canonical" href="">
 					
 					
-<link rel="apple-touch-icon" href="/media/images/icons/apple-touch-icon.png">
+<!-- <link rel="apple-touch-icon" href="/media/images/icons/apple-touch-icon.png"/> -->
 <meta name="format-detection" content="telephone=no">
+
 <meta name="author" content="The Finish Line">
 <meta name="copyright" content="These documents are copyright 2015; The Finish Line, finishline.com">
+
 <meta name="rating" content="general">
 <meta name="google-site-verification" content="rHZwtMMaYTAX27ZWBRAZJ0hmiBHEC-RUJJZmlMEMxYs">
 <meta name="y_key" content="9c90cfbc3c52529b">
@@ -33,12 +36,13 @@
     </script>
 
     <!-- App CSS -->
-    <link rel="stylesheet" type="text/css" href="/store/assets/css/ff49b39b7057dc55f795ebc876f7c801.app.min.css">
+    <link rel="stylesheet" type="text/css" href="/store/assets/css/59a6f456b92d7ac57f0f5e4186f2b6e1.app.min.css">
     <!-- Style Guide CSS -->
-    
-            <link rel="stylesheet" type="text/css" href="/store/assets/css/0cfce9bc2f49b3365edf09b49ac2ccb9.style-guide.min.css">
-        
 
+    
+                    <link rel="stylesheet" type="text/css" href="/store/assets/css/3928058fc4bd5cdc7ddf3d98496ffcaa.style-guide.min.css">
+                
+    
     <script>
         window.FL = window.FL || {};
         FL.setup = FL.setup || {};
@@ -58,6 +62,10 @@
     <script>
         !function(){"use strict";window.FL=window.FL||{};var o=function(){};if(FL.state=FL.state||{consoleInitialized:!1},1!=FL.state.consoleInitialized){window.console||(window.console={});for(var e=["log","info","warn","error","debug","trace","dir","group","groupCollapsed","groupEnd","time","timeEnd","profile","profileEnd","dirxml","assert","count","markTimeline","timeStamp","clear"],i=0;i<e.length;i++)window.console[e[i]]||(window.console[e[i]]=o);FL.state.consoleInitialized=!0}}();
     </script>
+
+    
+        		<script src="//tags.tiqcdn.com/utag/finishline/main/prod/utag.sync.js"></script>
+        	
 
     <script type="text/x-jquery-tmpl" id="dynamicCartRWD_tmpl">
     <div class="row cart-nav">
@@ -186,9 +194,9 @@
     <meta class="foundation-mq-small">
 
 
-<script>(window.BOOMR_mq=window.BOOMR_mq||[]).push(["addVar",{"rua.upush":"false","rua.cpush":"true","rua.upre":"false","rua.cpre":"false","rua.uprl":"false","rua.cprl":"false","rua.cprf":"false","rua.trans":"b4862f63-b60b-cf7c-8706-45eee13554d9","rua.cook":"false","rua.ims":"false"}]);</script>
+<script>(window.BOOMR_mq=window.BOOMR_mq||[]).push(["addVar",{"rua.upush":"false","rua.cpush":"false","rua.upre":"false","rua.cpre":"false","rua.uprl":"false","rua.cprl":"false","rua.cprf":"false","rua.trans":"","rua.cook":"false","rua.ims":"false"}]);</script>
 <script>!function(){function o(n,i){if(n&&i)for(var r in i)i.hasOwnProperty(r)&&(void 0===n[r]?n[r]=i[r]:n[r].constructor===Object&&i[r].constructor===Object?o(n[r],i[r]):n[r]=i[r])}try{var n=decodeURIComponent("");if(n.length>0&&window.JSON&&"function"==typeof window.JSON.parse){var i=JSON.parse(n);void 0!==window.BOOMR_config?o(window.BOOMR_config,i):window.BOOMR_config=i}}catch(r){window.console&&"function"==typeof window.console.error&&console.error("mPulse: Could not parse configuration",r)}}();</script>
-<script>!function(e){var a="https://s.go-mpulse.net/boomerang/";if("False"=="True")e.BOOMR_config=e.BOOMR_config||{},e.BOOMR_config.PageParams=e.BOOMR_config.PageParams||{},e.BOOMR_config.PageParams.pci=!0,a="https://s2.go-mpulse.net/boomerang/";if(function(){function t(a){e.BOOMR_onload=a&&a.timeStamp||(new Date).getTime()}if(!e.BOOMR||!e.BOOMR.version&&!e.BOOMR.snippetExecuted){e.BOOMR=e.BOOMR||{},e.BOOMR.snippetExecuted=!0;var n,i,o,r=document.createElement("iframe");if(e.addEventListener)e.addEventListener("load",t,!1);else if(e.attachEvent)e.attachEvent("onload",t);r.src="javascript:void(0)",r.title="",r.role="presentation",(r.frameElement||r).style.cssText="width:0;height:0;border:0;display:none;",o=document.getElementsByTagName("script")[0],o.parentNode.insertBefore(r,o);try{i=r.contentWindow.document}catch(O){n=document.domain,r.src="javascript:var d=document.open();d.domain='"+n+"';void(0);",i=r.contentWindow.document}i.open()._l=function(){var e=this.createElement("script");if(n)this.domain=n;e.id="boomr-if-as",e.src=a+"ZETB4-AENPS-3RQZP-TU6MR-42G23",BOOMR_lstart=(new Date).getTime(),this.body.appendChild(e)},i.write("<bo"+'dy onload="document._l();">'),i.close()}}(),"".length>0)if(e&&"performance"in e&&e.performance&&"function"==typeof e.performance.setResourceTimingBufferSize)e.performance.setResourceTimingBufferSize();!function(){if(BOOMR=e.BOOMR||{},BOOMR.plugins=BOOMR.plugins||{},!BOOMR.plugins.AK){var a={i:!1,av:function(a){var t="http.initiator";if(a&&(!a[t]||"spa_hard"===a[t])){var n="true"=="true"?1:0,i="",o=void 0!==e.aFeoApplied?1:0;if(BOOMR.addVar({"ak.v":16,"ak.cp":"796261","ak.ai":"282842","ak.ol":"0","ak.cr":3,"ak.ipv":4,"ak.proto":"","ak.rid":"2ebf01b","ak.r":17497,"ak.a2":n,"ak.m":"a","ak.n":"essl","ak.bpcip":"207.241.229.0","ak.cport":54962,"ak.gh":"23.61.195.167","ak.quicv":"","ak.tlsv":"tls1.2","ak.0rtt":"","ak.csrc":"-","ak.acc":"reno","ak.feo":o}),""!==i)BOOMR.addVar("ak.ruds",i)}},rv:function(){var e=["ak.bpcip","ak.cport","ak.cr","ak.csrc","ak.gh","ak.ipv","ak.m","ak.n","ak.ol","ak.proto","ak.quicv","ak.tlsv","ak.0rtt","ak.r","ak.acc"];BOOMR.removeVar(e)}};BOOMR.plugins.AK={init:function(){if(!a.i){var e=BOOMR.subscribe;e("before_beacon",a.av,null,null),e("onbeacon",a.rv,null,null),a.i=!0}return this},is_complete:function(){return!0}}}}()}(window);</script><meta class="foundation-mq"></head>
+<script>!function(e){function a(a){if(a&&a.data&&a.data.boomr_mq)e.BOOMR_mq=e.BOOMR_mq||[],e.BOOMR_mq.push(a.data.boomr_mq)}var t="https://s.go-mpulse.net/boomerang/";if("False"=="True")e.BOOMR_config=e.BOOMR_config||{},e.BOOMR_config.PageParams=e.BOOMR_config.PageParams||{},e.BOOMR_config.PageParams.pci=!0,t="https://s2.go-mpulse.net/boomerang/";if(function(){function a(a){e.BOOMR_onload=a&&a.timeStamp||(new Date).getTime()}if(!e.BOOMR||!e.BOOMR.version&&!e.BOOMR.snippetExecuted){e.BOOMR=e.BOOMR||{},e.BOOMR.snippetExecuted=!0;var n,i,r,o=document.createElement("iframe");if(e.addEventListener)e.addEventListener("load",a,!1);else if(e.attachEvent)e.attachEvent("onload",a);o.src="javascript:void(0)",o.title="",o.role="presentation",(o.frameElement||o).style.cssText="width:0;height:0;border:0;display:none;",r=document.getElementsByTagName("script")[0],r.parentNode.insertBefore(o,r);try{i=o.contentWindow.document}catch(O){n=document.domain,o.src="javascript:var d=document.open();d.domain='"+n+"';void(0);",i=o.contentWindow.document}i.open()._l=function(){var e=this.createElement("script");if(n)this.domain=n;e.id="boomr-if-as",e.src=t+"ZETB4-AENPS-3RQZP-TU6MR-42G23",BOOMR_lstart=(new Date).getTime(),this.body.appendChild(e)},i.write("<bo"+'dy onload="document._l();">'),i.close()}}(),"".length>0)if(e&&"performance"in e&&e.performance&&"function"==typeof e.performance.setResourceTimingBufferSize)e.performance.setResourceTimingBufferSize();if(e.addEventListener)e.addEventListener("message",a);var n=e.navigator;if(n&&"serviceWorker"in n&&n.serviceWorker.addEventListener)n.serviceWorker.addEventListener("message",a);!function(){if(BOOMR=e.BOOMR||{},BOOMR.plugins=BOOMR.plugins||{},!BOOMR.plugins.AK){var a=""=="true"?1:0,t="",n="z7y6dyyxhpay2xeukh5a-f-3702db8f9-clientnsv4-s.akamaihd.net",i={"ak.v":19,"ak.cp":"796261","ak.ai":parseInt("282842",10),"ak.ol":"0","ak.cr":3,"ak.ipv":4,"ak.proto":"","ak.rid":"18e397e","ak.r":17497,"ak.a2":a,"ak.m":"a","ak.n":"essl","ak.bpcip":"207.241.225.0","ak.cport":46156,"ak.gh":"23.61.195.167","ak.quicv":"","ak.tlsv":"tls1.2","ak.0rtt":"","ak.csrc":"-","ak.acc":"reno"};if(""!==t)i["ak.ruds"]=t;var r={i:!1,av:function(a){var t="http.initiator";if(a&&(!a[t]||"spa_hard"===a[t]))i["ak.feo"]=void 0!==e.aFeoApplied?1:0,BOOMR.addVar(i)},rv:function(){var e=["ak.bpcip","ak.cport","ak.cr","ak.csrc","ak.gh","ak.ipv","ak.m","ak.n","ak.ol","ak.proto","ak.quicv","ak.tlsv","ak.0rtt","ak.r","ak.acc"];BOOMR.removeVar(e)}};BOOMR.plugins.AK={akVars:i,akDNSPreFetchDomain:n,init:function(){if(!r.i){var e=BOOMR.subscribe;e("before_beacon",r.av,null,null),e("onbeacon",r.rv,null,null),r.i=!0}return this},is_complete:function(){return!0}}}}()}(window);</script><script>bazadebezolkohpepadr="459718821"</script><script type="text/javascript" src="https://www.finishline.com/akam/10/1b66c381" defer=""></script><meta class="foundation-mq"></head>
 
         <!--[if IE 8 ]>
             <body id="contactus myaccount profileinfo privacyPolicy" class="  wideLayout contactus myaccount profileinfo privacyPolicy  no-landingPage privacyPolicy   spring-2013 addToCartModal   lp-promo-editor-skin  debug-off ie ie8 ">
@@ -197,11 +205,10 @@
             <body id="contactus myaccount profileinfo privacyPolicy" class="  wideLayout contactus myaccount profileinfo privacyPolicy no-landingPage privacyPolicy   spring-2013 addToCartModal   lp-promo-editor-skin  debug-off ie9 ">
         <![endif]-->
         <!--[if !IE]><!-->
-        <body id="privacyPolicy" class="contactus myaccount profileinfo privacyPolicy responsive-site" data-twttr-rendered="true">
-        <!--<![endif]-->
-
-        <!-- Changes for PDP BreadCrumb -->
         
+        		<body id="privacyPolicy" class="contactus myaccount profileinfo privacyPolicy responsive-site" data-twttr-rendered="true">
+        	
+ <!--<![endif]--> <!-- Changes for PDP BreadCrumb --> 
 	<!-- SiteCatalyst code version: H.15.1.	Copyright 1997-2008 Omniture, Inc. More info available at	http://www.omniture.com -->	
 				<script src="/store/assets/scripts/omniture/s_code_prod.js"></script>
 			
@@ -294,6 +301,7 @@
             "site_type" : "",
             "product_category" : "",
             "product_sub_category" : "",
+            "product_list_price" : "",
             "product_price" : "",
             "product_color" : "",
             "product_discount" : "",
@@ -313,7 +321,7 @@
             "order_store" : "",
             "order_promo_code" : "",
             "order_promo_amount" : "",
-            "order_customer_id" : "o3576322838",
+            "order_customer_id" : "o4327183216",
             "order_customer_email" : "",
             "order_customer_city" : "",
             "order_customer_state" : "",
@@ -357,13 +365,29 @@
              "eVar36" : "",
              "eVar43" : "Desktop",
              "eVar83" : "",
-             "eVar47" : ""
+             "eVar47" : "",
+             
+             //added for moving from Adobe Analytics to Google Analytics 360 (AGL-5339)
+             "event_flag":"/corporate/privacyPolicy.jsp", 
+             "page_url":"https://www.finishline.com:80/store/corporate/privacyPolicy.jsp", 
+             "time_parting":"Thu Mar 21 23:09:46 EDT 2019", 
+             "referrer":"", 
+             "referring_url":"", 
+             "previous_page":"", 
+             "customer_email":"", 
+             "login_status":"Guest", 
+             "ga_category":"", 
+             "ga_action":"", 
+             "ga_label":"", 
+             "checkout_step":""     
+             
         };
         </script>
 		
-
     
-	<!-- Loading script asynchronously -->
+    
+    
+	<!-- Loading script asynchronously from here -->
 	 <script type="text/javascript">
         (function(a,b,c,d){
         a='//tags.tiqcdn.com/utag/finishline/main/prod/utag.js';
@@ -372,9 +396,6 @@
         })();
     </script>
 
-
-
-	<script src="//tags.tiqcdn.com/utag/finishline/main/prod/utag.sync.js"></script>
 
 	
     
@@ -387,17 +408,15 @@
     
     <div class="off-canvas-wrapper">
     
-    <div class="off-canvas position-left is-transition-overlap is-closed" id="offCanvasLeftSlider" data-transition="overlap" data-off-canvas="" data-content-scroll="false" aria-hidden="true" data-t="olpfls-t"></div>
-    <div class="off-canvas position-right is-transition-overlap is-closed" id="offCanvasRightSlider" data-transition="overlap" data-off-canvas="" data-content-scroll="false" aria-hidden="true" data-t="9towdt-t"></div>
-    <div class="off-canvas position-bottom is-transition-overlap is-closed" id="offCanvasBottomSlider" data-transition="overlap" data-off-canvas="" data-content-scroll="false" aria-hidden="true" data-t="h00evg-t"></div>
-    <div class="off-canvas position-left is-transition-overlap is-closed" id="offCanvasMobileMenu" data-transition="overlap" data-off-canvas="" data-content-scroll="false" aria-hidden="true" data-t="rihcwc-t"></div>
+    <div class="off-canvas position-left is-transition-overlap is-closed" id="offCanvasLeftSlider" data-transition="overlap" data-off-canvas="" data-content-scroll="false" aria-hidden="true" data-t="pn0wfk-t"></div><div class="js-off-canvas-overlay is-overlay-fixed"></div>
+    <div class="off-canvas position-right is-transition-overlap is-closed" id="offCanvasRightSlider" aria-describedby="modal_description" data-transition="overlap" data-off-canvas="" data-content-scroll="false" data-trap-focus="true" aria-hidden="true" data-t="suyrrx-t"></div><div class="js-off-canvas-overlay is-overlay-fixed"></div>
+    <div class="off-canvas position-bottom is-transition-overlap is-closed" id="offCanvasBottomSlider" data-transition="overlap" data-off-canvas="" data-content-scroll="false" aria-hidden="true" data-t="6x5tfl-t"></div><div class="js-off-canvas-overlay is-overlay-fixed"></div>
+    <div class="off-canvas position-left is-transition-overlap is-closed" id="offCanvasMobileMenu" data-transition="overlap" data-off-canvas="" data-content-scroll="false" aria-hidden="true" data-t="3ayhto-t"></div><div class="js-off-canvas-overlay is-overlay-fixed"></div>
     
     <div class="off-canvas-content" data-off-canvas-content="">
     
     <div class="body-wrapper">
 
-	
-	
 	
 	
 	
@@ -419,76 +438,76 @@
                         </div>   
                     </div>
                 
-    </div>
-    
+ </div> 
 	<div class="header-main header-standard">
 		<div class="row align-middle">
+				
 			<div class="column small-12 medium-6 text-center medium-text-left">
-				<a href="//www.finishline.com">
-					<img src="/store/assets/images/FINISH_LINE_2_COLOR_MED_300x44.png" class="main-logo">
-                    <img src="/store/assets/images/FINISH_LINE_2_DARK_LRG_1000x145.png" class="main-logo retro-logo">
+				<a href="//www.finishline.com" title="Go to Home Page">
+					<img src="/store/assets/images/FINISH_LINE_2_COLOR_MED_300x44.png" alt="Finish Line logo" class="main-logo">
+                    <img src="/store/assets/images/FINISH_LINE_2_DARK_LRG_1000x145.png" alt="Finish Line logo" class="main-logo retro-logo">
 				</a>
 			</div>
-			
-					<div class="column header-navigation small-12 show-for-small-only text-center">
-						<div class="row">
-							<div class="columns small-3"><a id="mobileHeaderShop" href="javascript:void(0)"><span class="header-icon icon icon-large icon-hamburger"></span>Shop</a></div>
-							<div class="columns small-3 is-relative"><a id="mobileHeaderSearch" href="javascript:void(0)"><span class="header-icon icon icon-large icon-search"></span>Search</a><div class="diamond"></div></div>
-							<div class="columns small-3 is-relative"><a id="mobileHeaderAccount" href="javascript:void(0)"><span class="header-icon icon icon-large icon-account has-corner-badge"></span>Account</a><div class="diamond"></div></div>
-							<div class="columns small-3">
-                                <a href="javascript:void(0)" class="js-cart-link">
-                                    <span class="header-icon icon icon-large icon-bag has-corner-badge">
-                                        <span class="badge corner-badge small-badge js-count" style="display: none;"></span>
-                                    </span>Bag
-                                </a>
-                            </div>
-						</div>
-					</div>
-					<div class="column header-navigation hide-for-small-only medium-6">
-						<ul class="no-bullet">
-							<li class="fill-width search-form-container">
-                                <form id="searchBarForm" action="/store/search/;jsessionid=sB5_3jEbIGATRVjE9WABj6t3_Zblw77KE3PdjY2au0xHeTLAioDs!884320870" class="searchBarForm"><div style="display:none"><input name="_dyncharset" value="UTF-8" type="hidden"> </div><div style="display:none"><input value="-7804336573797999044" type="hidden"> </div>
-                                    <ul>
-                                        <li class="is-relative"><span class="icon icon-large icon-search"></span></li>
-                                        <li class="fill-width"><input type="text" id="searchBarSearchBox" placeholder="Search" autocomplete="off" name="Ntt"></li>
-                                        <li class="is-relative navigation-search-button hide"><span class="icon icon-small icon-circled icon-chevron-right search-button-icon"></span><input id="searchBarSearchButton" name="search" value="" type="submit" disabled="disabled"><input name="_D:search" value=" " type="hidden"></li> </ul> <div style="display:none"><input name="_DARGS" value="/store/navigation/header.jsp" type="hidden"> </div></form>
-							</li>
-                            <li class="is-relative">
-                                <ul class="no-bullet">
-                                    <li id="myaccount-nav" class="hover-effect" data-transient="false">
-                                        
-                                        <a href="/store/myaccount/login.jsp" class="button small hollow medium-gray"><span class="icon icon-large icon-account"></span><span class="navigation-label">Account</span></a>
-                                    </li>
-        							<li class="has-corner-badge js-dynamic-cart hover-effect">
-                                        <a href="javascript:void(0)" class="button small hollow medium-gray nav-last hide-for-small-only js-cart-link">
-                                            <span class="icon icon-large icon-bag"></span>
-                                            <span class="navigation-label">Bag</span>
-                                            <span class="badge corner-badge js-count" style="display: none;"></span>
+				
+                            <div class="column header-navigation small-12 show-for-small-only text-center">
+                                <div class="row">
+                                    <div class="columns small-3"><a id="mobileHeaderShop" href="javascript:void(0)"><span class="header-icon icon icon-large icon-hamburger"></span>Shop</a></div>
+                                    <div class="columns small-3 is-relative"><a id="mobileHeaderSearch" href="javascript:void(0)"><span class="header-icon icon icon-large icon-search"></span>Search</a><div class="diamond"></div></div>
+                                    <div class="columns small-3 is-relative"><a id="mobileHeaderAccount" href="javascript:void(0)"><span class="header-icon icon icon-large icon-account has-corner-badge"></span>Account</a><div class="diamond"></div></div>
+                                    <div class="columns small-3">
+                                        <a href="javascript:void(0)" class="js-cart-link">
+                                            <span class="header-icon icon icon-large icon-bag has-corner-badge">
+                                                <span class="badge corner-badge small-badge js-count" style="display: none;"></span>
+                                            </span>Bag
                                         </a>
-                                        <div id="dynamicCartWrapper">
-                                            
-                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="column header-navigation hide-for-small-only medium-6">
+                                <ul class="no-bullet">
+                                    <li class="fill-width search-form-container">
+                                        <form id="searchBarForm" action="/store/search/" class="searchBarForm"><div style="display:none"><input name="_dyncharset" value="UTF-8" type="hidden"> </div><div style="display:none"><input value="5989556420161967633" type="hidden"> </div>
+                                            <ul>
+                                                <li class="is-relative"><span class="icon icon-large icon-search"></span></li>
+                                                <li class="fill-width"><input type="text" id="searchBarSearchBox" placeholder="Search" autocomplete="off" name="Ntt"></li>
+                                                <li class="is-relative navigation-search-button hide"><span class="icon icon-small icon-circled icon-chevron-right search-button-icon"></span><input id="searchBarSearchButton" name="search" value="" type="submit" disabled="disabled"><input name="_D:search" value=" " type="hidden"></li> </ul> <div style="display:none"><input name="_DARGS" value="/store/navigation/header.jsp" type="hidden"> </div></form>
+                                    </li>
+                                    <li class="is-relative">
+                                        <ul class="no-bullet">
+                                            <li id="myaccount-nav" class="hover-effect" data-transient="true">
+                                                
+                                                <a href="/store/myaccount/login.jsp" class="button small hollow medium-gray"><span class="icon icon-large icon-acjd-account"></span><span class="navigation-label">Account</span></a>
+                                            </li>
+                                            <li class="has-corner-badge js-dynamic-cart hover-effect">
+                                                <a href="javascript:void(0)" class="button small hollow medium-gray nav-last hide-for-small-only js-cart-link">
+                                                    <span class="icon icon-large icon-bag"></span>
+                                                    <span class="navigation-label">Bag</span>
+                                                    <span class="badge corner-badge js-count" style="display: none;"></span>
+                                                </a>
+                                                <div id="dynamicCartWrapper">
+                                                    
+                                                </div>
+                                            </li>
+                                        </ul>
                                     </li>
                                 </ul>
-                            </li>
-						</ul>
-                        <div class="autosuggest-box">
-                            <div class="row">
-                                <div class="column small-5 br-medium-gray">
-                                    <ul class="autosuggest-list">
-                                    </ul>
-                                </div>
-                                <div class="column small-7 pl-5 autosuggest-products">
+                                <div class="autosuggest-box">
+                                    <div class="row">
+                                        <div class="column small-5 br-medium-gray">
+                                            <ul class="autosuggest-list">
+                                            </ul>
+                                        </div>
+                                        <div class="column small-7 pl-5 autosuggest-products">
+                                        </div>
+                                    </div>
                                 </div>
                             </div>
-                        </div>
-					</div>
-				
+                        
 		</div>
 	</div>
     
     <div id="mobileSearchWrapper" class="column header-mobile-search small-12 show-for-small-only is-relative">
-        <form id="mobileSearchBarForm" action="/store/search/;jsessionid=sB5_3jEbIGATRVjE9WABj6t3_Zblw77KE3PdjY2au0xHeTLAioDs!884320870" requestsessionconfirmation="false"><div style="display:none"><input name="_dyncharset" value="UTF-8" type="hidden"> </div><div style="display:none"><input name="_dynSessConf" value="-7804336573797999044" type="hidden"> </div>
+        <form id="mobileSearchBarForm" action="/store/search/" requestsessionconfirmation="false"><div style="display:none"><input name="_dyncharset" value="UTF-8" type="hidden"> </div><div style="display:none"><input name="_dynSessConf" value="5989556420161967633" type="hidden"> </div>
             <ul>
                 <li class="fill-width"><input type="text" id="mobileSearchBarSearchBox" placeholder="Search" autocomplete="off" name="Ntt"></li>
                 <li class="is-relative px-2"><div class="icon icon-close-x"></div></li>
@@ -505,117 +524,10 @@
     <div class="row align-middle">
         <ul id="desktop-mainmenu" class="menu main-menu medium-12">
             
-                <li>
-                    <a href="/store/gift-guide?mnid=HGG18" class="text-center">Gift Guide</a> 
-                                <div class="menu-dropdown align-middle">
-                                    <div class="row align-top">
-                                    	
-    
-    <div class="medium-2 columns megaMenuLinkContainer">
-        <ul class="menu vertical">
-            
- <li><strong>Holiday Essentials</strong></li> 
-                    
-                    <li><a href="/store/stocking-stuffers?mnid=HGG18_holidayessentials_stockingstuffers">Stocking Stuffers</a></li>	
-                    
-                    <li><a href="/store/gifts-under-30?mnid=HGG18_holidayessentials_giftsunder30">Gifts Under $30</a></li>	
-                    
-                    <li><a href="/store/giftcards?mnid=HGG18_holidayessentials_giftcards">Gift Cards</a></li>	
-                    
-                    <li><a href="/store/hoodies-jackets?mnid=HGG18_holidayessentials_hoodiesjackets">Hoodies &amp; Jackets</a></li>	
-                    
-                    <li><a href="/store/boots-beanies?mnid=HGG18_holidayessentials_bootsbeanies">Boots &amp; Beanies</a></li>	
-                    
-                    <li><a href="/store/holiday-favorites?mnid=HGG18_holidayessentials_holidayfavorites">Holiday Favorites</a></li>	
- </ul> </div>
-
-    
-    <div class="medium-2 columns megaMenuLinkContainer">
-        <ul class="menu vertical">
-            
- <li><strong>Top Gifts</strong></li> 
-                    
-                    <li><a href="/store/top-mens-gifts?mnid=HGG18_topgifts_topmensgifts">Top Men's Gifts</a></li>	
-                    
-                    <li><a href="/store/top-womens-gifts?mnid=HGG18_topgifts_topwomensgifts">Top Women's Gifts</a></li>	
-                    
-                    <li><a href="/store/top-boys-gifts?mnid=HGG18_topgifts_topboysgifts">Top Boys' Gifts</a></li>	
-                    
-                    <li><a href="/store/top-girls-gifts?mnid=HGG18_topgifts_topgirlsgifts">Top Girls' Gifts</a></li>	
- </ul> </div>
-
-    
-    <div class="medium-2 columns megaMenuLinkContainer">
-        <ul class="menu vertical">
-            
- <li><strong>Shop by Brand</strong></li> 
-                    
-                    <li><a href="/store/top-nike-gifts?mnid=HGG18_shopbybrand_topnikegifts">Top Nike Gifts</a></li>	
-                    
-                    <li><a href="/store/top-jordan-gifts?mnid=HGG18_shopbybrand_topjordangifts">Top Jordan Gifts</a></li>	
-                    
-                    <li><a href="/store/top-adidas-gifts?mnid=HGG18_shopbybrand_topadidasgifts">Top adidas Gifts</a></li>	
-                    
-                    <li><a href="/store/champion?mnid=HGG18_shopbybrand_topchampiongifts">Top Champion Gifts</a></li>	
-                    
-                    <li><a href="/store/fila?mnid=HGG18_shopbybrand_topfilagifts">Top Fila Gifts</a></li>	
-                    
-                    <li><a href="/store/timberland?mnid=HGG18_shopbybrand_toptimberlandgifts">Top Timberland Gifts</a></li>	
- </ul> </div>
-
-    
-    <div class="medium-2 columns megaMenuLinkableLinkContainer">
-        <ul class="menu vertical">
-            
-                <li><a href="/store/sale?mnid=HGG18_deals"><strong>Deals</strong></a></li> 
-                    
-                    <li><a href="/store/nike-sale?mnid=HGG18_deals_nike">Nike up to 50% Off</a></li>	
-                    
-                    <li><a href="/store/sale/jordan/_/N-1naclf7Z1qtmfa6?mnid=HGG18_deals_jordan">Jordan up to 30% Off</a></li>	
-                    
-                    <li><a href="/store/adidas-up-to-60-off?mnid=HGG18_deals_adidas">adidas up to 40% Off</a></li>	
-                    
-                    <li><a href="/store/new-markdowns?mnid=HGG18_deals_new_markdowns">New Markdowns</a></li>	
-                    
-                    <li><a href="/store/sale/boys/girls/_/N-1naclf7Z1ad6v8pZgoias6Zbalms8?mnid=HGG18_deals_kids_styles">Kids Styles up to 30% Off</a></li>	
-                    
-                    <li><a href="/store/only-sale-items/hoodie-/pants/_/N-1g2z5sjZx6f75sZ4i6t8z?mnid=HGG18_deals_hoodies_pants">Hoodies &amp; Pants up to 30% Off</a></li>	
- </ul> </div>
-
-
-    <div class="columns bl-medium-gray pl-large-5 hide-for-medium-only">
-        <div class="navigation-promo" id="NavigationPromoCarousel_1">
-            <div class="navigation-promo-slider">
-                
-
-    <div>
-        <div class="navigation-promo-slide" id="NavigationPromo_1">
-            <div class="navigation-promo-image" style="background-image: url(https://images.finishline.com/is/image/FinishLine/110118%5FHoliday%5F2018%5FGiftCards%5FTopNav%5F220x240%5Fv02?$promoJPG$);" onclick="window.location='/gift-cards?icid=GG_giftguidenav_P1_giftcards'"></div>
-            <div class="navigation-promo-cta">
-                <a href="/gift-cards?icid=GG_giftguidenav_P1_giftcards">Gift Cards</a> </div> </div> </div>
-
-
-    <div>
-        <div class="navigation-promo-slide" id="NavigationPromo_2">
-            <div class="navigation-promo-image" style="background-image: url(https://images.finishline.com/is/image/FinishLine/112918%5FStockingStuffers%5FMegaNav%5F220x240?$promoJPG$);" onclick="window.location='/stocking-stuffers?icid=GG_giftguidenav_P2_stockingstuffers'"></div>
-            <div class="navigation-promo-cta">
-                <a href="/stocking-stuffers?icid=GG_giftguidenav_P2_stockingstuffers">Stocking Stuffers</a> </div> </div> </div>
-
-
-    <div>
-        <div class="navigation-promo-slide" id="NavigationPromo_3">
-            <div class="navigation-promo-image" style="background-image: url(https://images.finishline.com/is/image/FinishLine/112918%5FGiftsUnder30%5FMegaNav%5F220x240?$promoJPG$);" onclick="window.location='/gifts-under-30?icid=GG_giftguidenav_P3_giftsunder30'"></div>
-            <div class="navigation-promo-cta">
-                <a href="/gifts-under-30?icid=GG_giftguidenav_P3_giftsunder30">Shop Now</a> </div> </div> </div>
-
- </div> </div> </div>
-
- </div> </div> 
- </li> 
-                <li>
-                    <a href="/store/new-arrivals?mnid=newarrivals" class="text-center">New Arrivals</a> 
-                                <div class="menu-dropdown align-middle">
-                                    <div class="row align-top">
+                <li data-mainitem="New Arrivals">
+                    <a href="/store/new-arrivals?mnid=newarrivals" class="text-center" data-toplayer="true">New Arrivals</a> 
+                                <div class="menu-dropdown align-middle hide">
+                                    <div class="row align-top menu-dropdown-row">
                                     	
     
     <div class="medium-2 columns megaMenuLinkableLinkContainer">
@@ -624,10 +536,6 @@
                 <li><a href="/store/mens-new-arrivals?mnid=newarrivals_men"><strong>Men</strong></a></li> 
                     
                     <li><a href="/store/mens-shoes-new-arrivals?mnid=newarrivals_men_shoes">Shoes</a></li>	
-                    
-                    <li><a href="/store/mens-apparel-new-arrivals?mnid=newarrivals_men_apparel">Apparel</a></li>	
-                    
-                    <li><a href="/store/mens-accessories-new-arrivals?mnid=newarrivals_men_accessories">Accessories</a></li>	
                     
                     <li><a href="/store/mens-new-arrivals?mnid=newarrivals_allmen">All Men's</a></li>	
  </ul> </div>
@@ -639,10 +547,6 @@
                 <li><a href="/store/womens-new-arrivals?mnid=newarrivals_women"><strong>Women</strong></a></li> 
                     
                     <li><a href="/store/womens-shoes-new-arrivals?mnid=newarrivals_women_shoes">Shoes</a></li>	
-                    
-                    <li><a href="/store/womens-apparel-new-arrivals?mnid=newarrivals_women_apparel">Apparel</a></li>	
-                    
-                    <li><a href="/store/womens-accessories-new-arrivals?mnid=newarrivals_women_accessories">Accessories</a></li>	
                     
                     <li><a href="/store/womens-new-arrivals?mnid=newarrivals_allwomen">All Women's</a></li>	
  </ul> </div>
@@ -659,8 +563,6 @@
                     
                     <li><a href="/store/boys-toddler-shoes-new-arrivals?mnid=newarrivals_boys_toddler">Toddler (2-12)</a></li>	
                     
-                    <li><a href="/store/boys-apparel-new-arrivals?mnid=newarrivals_boys_apparel">Apparel</a></li>	
-                    
                     <li><a href="/store/boys-new-arrivals?mnid=newarrivals_allboys">All Boys</a></li>	
  </ul> </div>
 
@@ -676,36 +578,45 @@
                     
                     <li><a href="/store/girls-toddler-shoes-new-arrivals?mnid=newarrivals_girls_toddler">Toddler (2-12)</a></li>	
                     
-                    <li><a href="/store/girls-apparel-new-arrivals?mnid=newarrivals_girls_apparel">Apparel</a></li>	
-                    
                     <li><a href="/store/girls-new-arrivals?mnid=newarrivals_allgirls">All Girls</a></li>	
  </ul> </div>
 
-    
-    <div class="medium-2 columns megaMenuLinkContainer">
-        <ul class="menu vertical">
-            
- <li><strong>Brands</strong></li> 
-                    
-                    <li><a href="/store/nike-new-arrivals?mnid=newarrivals_brands_nike">Nike</a></li>	
-                    
-                    <li><a href="/store/jordan-new-arrivals?mnid=newarrivals_brands_jordan">Jordan</a></li>	
-                    
-                    <li><a href="/store/adidas-new-arrivals?mnid=newarrivals_brands_adidas">adidas</a></li>	
-                    
-                    <li><a href="/store/champion-new-arrivals?mnid=newarrivals_brands_champion">Champion</a></li>	
-                    
-                    <li><a href="/store/under-armour-new-arrivals?mnid=newarrivals_brands_underarmour">Under Armour</a></li>	
- </ul> </div>
+
+    <div class="columns bl-medium-gray pl-large-5 hide-for-medium-only">
+        <div class="navigation-promo" id="NavigationPromoCarousel_1">
+            <div class="navigation-promo-slider">
+                
+
+    <div>
+        <div class="navigation-promo-slide" id="NavigationPromo_1">
+            <div class="navigation-promo-image" style="background-image: url(https://images.finishline.com/is/image/FinishLine/031219%5FJordan%5FWhyNot%5FMeganav%5FCartridge%5F220x240%20%281%29?$promoJPG$);" onclick="window.location='/store/jordan/_/N-vnhst2Z1bno91t?icid=GL_newarrivalsnav_P1_jordan_LFS'"></div>
+            <div class="navigation-promo-cta">
+                <a href="/store/jordan/_/N-vnhst2Z1bno91t?icid=GL_newarrivalsnav_P1_jordan_LFS">New Jordan</a> </div> </div> </div>
+
+
+    <div>
+        <div class="navigation-promo-slide" id="NavigationPromo_2">
+            <div class="navigation-promo-image" style="background-image: url(https://images.finishline.com/is/image/FinishLine/032019%5FAdidas%5FBoost%5FNavigationPromo%5FCartridge%5F220x240?$promoJPG$);" onclick="window.location='/adidas-boost?icid=GL_newarrivalsnav_P2_boost_LFS'"></div>
+            <div class="navigation-promo-cta">
+                <a href="/adidas-boost?icid=GL_newarrivalsnav_P2_boost_LFS">New adidas Boost</a> </div> </div> </div>
+
+
+    <div>
+        <div class="navigation-promo-slide" id="NavigationPromo_3">
+            <div class="navigation-promo-image" style="background-image: url(https://images.finishline.com/is/image/FinishLine/032019%5FNikeVapormax%5FMeganav%5FCartridge%5F220x240?$promoJPG$);" onclick="window.location='/store/nike-air-max/_/N-ifjv3jZ1bno91t?icid=GL_newarrivalsnav_P3_airmax_PDCT'"></div>
+            <div class="navigation-promo-cta">
+                <a href="/store/nike-air-max/_/N-ifjv3jZ1bno91t?icid=GL_newarrivalsnav_P3_airmax_PDCT">New Nike Air Max</a> </div> </div> </div>
+
+ </div> </div> </div>
 
  </div> </div> 
  </li> 
-                <li>
-                    <a href="/store/mens?mnid=mens" class="text-center">Men</a> 
-                                <div class="menu-dropdown align-middle">
-                                    <div class="row align-top">
+                <li data-mainitem="Men">
+                    <a href="/store/mens?mnid=mens" class="text-center" data-toplayer="true">Men</a> 
+                                <div class="menu-dropdown align-middle hide">
+                                    <div class="row align-top menu-dropdown-row">
                                     	
-    
+
     <div class="medium-2 columns megaMenuLinkContainer">
         <ul class="menu vertical">
             
@@ -715,24 +626,24 @@
             <li><a href="/store/men/shoes/running/_/N-57cgax?mnid=men_shoes_running" title="Running">Running</a></li> 
             <li><a href="/store/men/shoes/basketball/_/N-3z3fil?mnid=men_shoes_basketball" title="Basketball">Basketball</a></li> 
             <li><a href="/store/men/shoes/casual/_/N-1q3xsyk?mnid=men_shoes_casual" title="Casual">Casual</a></li> 
+            <li><a href="/store/men/shoes/sandals-slides-/_/N-1u4tz8v?mnid=men_shoes_sandalsslides" title="Sandals &amp; Slides ">Sandals &amp; Slides </a></li> 
             <li><a href="/store/men/shoes/boots/_/N-1psj4ir?mnid=men_shoes_boots" title="Boots">Boots</a></li> 
             <li><a href="/store/men/shoes/training-gym/_/N-kadepn?mnid=men_shoes_traininggym" title="Training &amp; Gym">Training &amp; Gym</a></li> 
-            <li><a href="/store/men/shoes/sandals-slides-/_/N-1u4tz8v?mnid=men_shoes_sandalsslides" title="Sandals &amp; Slides ">Sandals &amp; Slides </a></li> 
                     
                     <li><a href="/store/store/men/shoes/_/N-1737dkj/Nf-sku.size%7CBTWN+14+18?mnid=men_shoes_sizes14_18&amp;textBreadcrum=sizes%2014-18">Sizes 14-18</a></li>	
                     
                     <li><a href="/store/men/shoes/_/N-1737dkj?mnid=men_shoes">All Shoes</a></li>	
  </ul> </div>
 
-    
+
     <div class="medium-2 columns megaMenuLinkContainer">
         <ul class="menu vertical">
             
  <li> 
                         <a href="/store/men/apparel/_/N-w3ndur?mnid=men_apparel"><strong>Apparel</strong></a> 
  </li> 
-            <li><a href="/store/men/apparel/hoodies-sweatshirts/_/N-1pxpd0b?mnid=men_apparel_hoodiessweatshirts" title="Hoodies &amp; Sweatshirts">Hoodies &amp; Sweatshirts</a></li> 
             <li><a href="/store/men/apparel/shirts/_/N-gq94dx?mnid=men_apparel_shirts" title="Shirts">Shirts</a></li> 
+            <li><a href="/store/men/apparel/hoodies-sweatshirts/_/N-1pxpd0b?mnid=men_apparel_hoodiessweatshirts" title="Hoodies &amp; Sweatshirts">Hoodies &amp; Sweatshirts</a></li> 
             <li><a href="/store/men/apparel/jackets-windbreakers/_/N-byr7zs?mnid=men_apparel_jacketswindbreakers" title="Jackets &amp; Windbreakers">Jackets &amp; Windbreakers</a></li> 
             <li><a href="/store/men/apparel/pants/_/N-4duc9w?mnid=men_apparel_pants" title="Pants">Pants</a></li> 
             <li><a href="/store/men/apparel/shorts/_/N-15qjgkd?mnid=men_apparel_shorts" title="Shorts">Shorts</a></li> 
@@ -747,15 +658,13 @@
                     <li><a href="/store/men/apparel/_/N-w3ndur?mnid=men_apparel">All Apparel</a></li>	
  </ul> </div>
 
-    
+
     <div class="medium-2 columns megaMenuLinkContainer">
         <ul class="menu vertical">
             
  <li><strong>Featured</strong></li> 
                     
                     <li><a href="/store/men/_/N-10nn04kZ1bno91t?mnid=men">New Arrivals</a></li>	
-                    
-                    <li><a href="/store/top-mens-gifts?mnid=topmensgifts">Top Men's Gifts</a></li>	
                     
                     <li><a href="/store/jordan-retro-/men/_/N-t9y63aZ1hmpde0?mnid=jordanretro_men">Jordan Retro Styles</a></li>	
                     
@@ -780,32 +689,32 @@
 
     <div>
         <div class="navigation-promo-slide" id="NavigationPromo_4">
-            <div class="navigation-promo-image" style="background-image: url(https://images.finishline.com/is/image/FinishLine/110918%5FTopGifts%5FGirls%5FMegaNav%5F220x240?$promoJPG$);" onclick="window.location='/top-mens-gifts?icid=GL_mensnav_P1_mensgifts_SP'"></div>
+            <div class="navigation-promo-image" style="background-image: url(https://images.finishline.com/is/image/FinishLine/031419%5FNike%5FAir%5FMax%5F720%5FCartridge%5F220x240?$promoJPG$);" onclick="window.location='/store/nike-air-max-720/men/_/N-1c053gbZ1hmpde0?icid=GL_mensnav_P1_airmax720_LFS'"></div>
             <div class="navigation-promo-cta">
-                <a href="/top-mens-gifts?icid=GL_mensnav_P1_mensgifts_SP">Men's Gifts</a> </div> </div> </div>
+                <a href="/store/nike-air-max-720/men/_/N-1c053gbZ1hmpde0?icid=GL_mensnav_P1_airmax720_LFS">Nike Air Max 720</a> </div> </div> </div>
 
 
     <div>
         <div class="navigation-promo-slide" id="NavigationPromo_5">
-            <div class="navigation-promo-image" style="background-image: url(https://images.finishline.com/is/image/FinishLine/112818%5FNike%5FAir%5FMax%5FNavigationPromo%5FCartridge%5F220x240?$promoJPG$);" onclick="window.location='/store/nike-air-max/men/_/N-h43i84Z1hmpde0?icid=GL_mensnav_P2_airmax_SP'"></div>
+            <div class="navigation-promo-image" style="background-image: url(https://images.finishline.com/is/image/FinishLine/030519%5FAirVapormaxFK%5FMeganav%5FCartridge%5F220x240?$promoJPG$);" onclick="window.location='/store/nike-air-vapormax/men/_/N-1l23ryzZ1hmpde0?icid=GL_mensnav_P2_vapormax_PDCT'"></div>
             <div class="navigation-promo-cta">
-                <a href="/store/nike-air-max/men/_/N-h43i84Z1hmpde0?icid=GL_mensnav_P2_airmax_SP">Nike Air Max</a> </div> </div> </div>
+                <a href="/store/nike-air-vapormax/men/_/N-1l23ryzZ1hmpde0?icid=GL_mensnav_P2_vapormax_PDCT">Nike Air Vapormax</a> </div> </div> </div>
 
 
     <div>
         <div class="navigation-promo-slide" id="NavigationPromo_6">
-            <div class="navigation-promo-image" style="background-image: url(https://images.finishline.com/is/image/FinishLine/112618%5FNike%5FVaporMax%5FNavigationPromo%5FCartridge%5F220x240%2DA?$promoJPG$);" onclick="window.location='/store/nike-air-vapormax/men/_/N-1l23ryzZ1hmpde0?icid=GL_mensnav_P3_vapormax_LFS'"></div>
+            <div class="navigation-promo-image" style="background-image: url(https://images.finishline.com/is/image/FinishLine/032019%5FAdidas%5FBoost%5FNavigationPromo%5FCartridge%5F220x240?$promoJPG$);" onclick="window.location='/store/adidas-boost/men/_/N-1qtwb6xZ1hmpde0?icid=GL_mensnav_P3_boost_LFS'"></div>
             <div class="navigation-promo-cta">
-                <a href="/store/nike-air-vapormax/men/_/N-1l23ryzZ1hmpde0?icid=GL_mensnav_P3_vapormax_LFS">Nike Air Vapormax</a> </div> </div> </div>
+                <a href="/store/adidas-boost/men/_/N-1qtwb6xZ1hmpde0?icid=GL_mensnav_P3_boost_LFS">adidas Boost</a> </div> </div> </div>
 
  </div> </div> </div>
 
  </div> </div> 
  </li> 
-                <li>
-                    <a href="/store/womens?mnid=womens" class="text-center">Women</a> 
-                                <div class="menu-dropdown align-middle">
-                                    <div class="row align-top">
+                <li data-mainitem="Women">
+                    <a href="/store/womens?mnid=womens" class="text-center" data-toplayer="true">Women</a> 
+                                <div class="menu-dropdown align-middle hide">
+                                    <div class="row align-top menu-dropdown-row">
                                     	
         
         <div class="medium-2 columns column-hierarchy">
@@ -820,7 +729,7 @@
                     <li><a href="/store/women/shoes/boots/_/N-1qkyjxv?mnid=women_shoes_boots">Boots</a></li> 
                 
                 <li><a href="/store/women/shoes/_/N-1hednxh?mnid=women_shoes" title="Shoes">All Shoes</a></li> </ul> </div>	
-    
+
     <div class="medium-2 columns megaMenuLinkContainer">
         <ul class="menu vertical">
             
@@ -842,7 +751,7 @@
                     <li><a href="/store/women/apparel/_/N-19nbf27?mnid=women_apparel">All Apparel</a></li>	
  </ul> </div>
 
-    
+
     <div class="medium-2 columns megaMenuLinkContainer">
         <ul class="menu vertical">
             
@@ -850,11 +759,11 @@
                     
                     <li><a href="/store/women/_/N-1ieeppsZ1bno91t?mnid=women">New Arrivals</a></li>	
                     
-                    <li><a href="/store/top-womens-gifts?mnid=topwomensgifts">Top Gifts</a></li>	
-                    
                     <li><a href="/store/nike-epic-react/women/_/N-v7shwlZ1rmncop?mnid=nikeepicreact_women">Nike Epic React</a></li>	
                     
                     <li><a href="/store/nike-air-max/women/_/N-h43i84Z1rmncop?mnid=nikeairmax_women">Nike Air Max</a></li>	
+                    
+                    <li><a href="/store/brands/nike/collections/air-force-1/women/_/N-ij20i5Z1rmncop?mnid=brands_nike_collections_airforce1_women">Nike Air Force 1</a></li>	
                     
                     <li><a href="/store/nike-huarache/women/_/N-mnwo9xZ1rmncop?mnid=nikehuarache_women">Nike Huarache</a></li>	
                     
@@ -874,35 +783,35 @@
                 
 
     <div>
-        <div class="navigation-promo-slide" id="NavigationPromo_7">
-            <div class="navigation-promo-image" style="background-image: url(https://images.finishline.com/is/image/FinishLine/120118%5FNike%5FAF1%5FRebel%5FXX%5FLPSlider%5FNavigationPromo%5FCartridge%5F220x240?$promoJPG$);" onclick="window.location='/store/nike-air-force-1/women/_/N-1mwc3oeZ1rmncop?icid=GL_womensnav_P1_af1rebel_LFS'"></div>
+        <div class="navigation-promo-slide" id="womenspromo1">
+            <div class="navigation-promo-image" style="background-image: url(https://images.finishline.com/is/image/FinishLine/031519%5FNeeditNow%5FTopNav%5F220x240?$promoJPG$);" onclick="window.location='/need-it-now?icid=GL_womensnav_P1_needitnow_BRD'"></div>
             <div class="navigation-promo-cta">
-                <a href="/store/nike-air-force-1/women/_/N-1mwc3oeZ1rmncop?icid=GL_womensnav_P1_af1rebel_LFS">Nike Air Force 1 Rebel XX</a> </div> </div> </div>
+                <a href="/need-it-now?icid=GL_womensnav_P1_needitnow_BRD">Nike Need It Now</a> </div> </div> </div>
 
 
     <div>
-        <div class="navigation-promo-slide" id="NavigationPromo_8">
-            <div class="navigation-promo-image" style="background-image: url(https://images.finishline.com/is/image/FinishLine/112718%5FConverse%5FMiley%5FWomens%5FMegaNav%5F220x240?$promoJPG$);" onclick="window.location='/converse-miley-cyrus?icid=GL_womensnav_P2_mileycyrus_BRD'"></div>
+        <div class="navigation-promo-slide" id="womenspromo2">
+            <div class="navigation-promo-image" style="background-image: url(https://images.finishline.com/is/image/FinishLine/030119%5FHave%5FA%5FNike%5FDay%5FW%5FNavigationPromo%5FCartridge%5F220x240%5F3?$promoJPG$);" onclick="window.location='/store/women/_/N-1rmncopZ1hwdhl4?icid=GL_womensnav_P2_haveanikeday_BRD'"></div>
             <div class="navigation-promo-cta">
-                <a href="/converse-miley-cyrus?icid=GL_womensnav_P2_mileycyrus_BRD">Converse Miley Collection</a> </div> </div> </div>
+                <a href="/store/women/_/N-1rmncopZ1hwdhl4?icid=GL_womensnav_P2_haveanikeday_BRD">Have a Nike Day</a> </div> </div> </div>
 
 
     <div>
-        <div class="navigation-promo-slide" id="NavigationPromo_9">
-            <div class="navigation-promo-image" style="background-image: url(https://images.finishline.com/is/image/FinishLine/113018%5Fadidas%5FUltraboost%5FWomens%5FMegaNav%5F220x240?$promoJPG$);" onclick="window.location='/top-womens-gifts?icid=GL_womensnav_P3_topgifts_SP'"></div>
+        <div class="navigation-promo-slide" id="womenspromo3">
+            <div class="navigation-promo-image" style="background-image: url(https://images.finishline.com/is/image/FinishLine/032119%5FNike%5FRetro%5FFuture%5FWomens%5FMegaNav%5F220x240%2D2?$promoJPG$);" onclick="window.location='/store/women/_/N-1rmncopZ8y4z4v?icid=GL_womensnav_P3_throwbackfuture_SP'"></div>
             <div class="navigation-promo-cta">
-                <a href="/top-womens-gifts?icid=GL_womensnav_P3_topgifts_SP">Top Women's Gifts</a> </div> </div> </div>
+                <a href="/store/women/_/N-1rmncopZ8y4z4v?icid=GL_womensnav_P3_throwbackfuture_SP">Nike Throwback Future</a> </div> </div> </div>
 
  </div> </div> </div>
 
  </div> </div> 
  </li> 
-                <li>
-                    <a href="/store/boys?mnid=boys" class="text-center">Boys</a> 
-                                <div class="menu-dropdown align-middle">
-                                    <div class="row align-top">
+                <li data-mainitem="Boys">
+                    <a href="/store/boys?mnid=boys" class="text-center" data-toplayer="true">Boys</a> 
+                                <div class="menu-dropdown align-middle hide">
+                                    <div class="row align-top menu-dropdown-row">
                                     	
-    
+
     <div class="medium-2 columns megaMenuLinkContainer">
         <ul class="menu vertical">
             
@@ -913,8 +822,6 @@
                     <li><a href="/store/boys/boys-shoes/little-kids-sizes-10-5-3-/_/N-jhlqvc?mnid=boys_boysshoes_littlekidssizes1053">Little Kids (Sizes 10.5-3)</a></li>	
                     
                     <li><a href="/store/boys/boys-shoes/toddler-sizes-2-12-/_/N-13rydyy?mnid=boys_boysshoes_toddlersizes212">Toddler (Sizes 2-12)</a></li>	
-                    
-                    <li><a href="/store/boys/boys-shoes/infant/_/N-17y97kf?mnid=boys_boysshoes_infant">Infant</a></li>	
                     
                     <li><a href="/store/kids-shoes?mnid=boys_allkids">All Kids' Shoes</a></li>	
  </ul> </div>
@@ -940,7 +847,7 @@
                     <li><a href="/store/sale/boys/boys-shoes/_/N-1naclf7Z1yexw8v?mnid=sale_boys_boysshoes">Sale</a></li>	
  </ul> </div>
 
-    
+
     <div class="medium-2 columns megaMenuLinkContainer">
         <ul class="menu vertical">
             
@@ -950,6 +857,7 @@
             <li><a href="/store/boys/boys-apparel/sweatshirts-jackets/_/N-17em7en?mnid=boys_boysapparel_sweatshirtsjackets" title="Sweatshirts &amp; Jackets">Sweatshirts &amp; Jackets</a></li> 
             <li><a href="/store/boys/boys-apparel/shirts/_/N-u1yu5k?mnid=boys_boysapparel_shirts" title="Shirts">Shirts</a></li> 
             <li><a href="/store/boys/boys-apparel/shorts-pants/_/N-1t2v5nm?mnid=boys_boysapparel_shortspants" title="Shorts &amp; Pants">Shorts &amp; Pants</a></li> 
+            <li><a href="/store/boys/boys-apparel/toddler-2t-4t-/_/N-jl8jtj?mnid=boys_boysapparel_toddler2t4t" title="Toddler (2T-4T)">Toddler (2T-4T)</a></li> 
             <li><a href="/store/boys/boys-apparel/infant-0-24m-/_/N-1mojybs?mnid=boys_boysapparel_infant024m" title="Infant (0-24M)">Infant (0-24M)</a></li> 
                     
                     <li><a href="/store/store/boys/boys-accessories-/socks/_/N-7scimy?mnid=boys_apparel_socks">Socks</a></li>	
@@ -969,34 +877,34 @@
 
     <div>
         <div class="navigation-promo-slide" id="boys_nav1">
-            <div class="navigation-promo-image" style="background-image: url(https://images.finishline.com/is/image/FinishLine/113018%5FJordan%5FRetro%5F10%268%5FNavigationPromo%5FCartridge%5F220x240?$promoJPG$);" onclick="window.location='/store/jordan-retro-/boys/_/N-t9y63aZ1ad6v8p?icid=GL_boyssnav_P1_retro10retro8_SP'"></div>
+            <div class="navigation-promo-image" style="background-image: url(https://images.finishline.com/is/image/FinishLine/032119%5FBoys%5FNike%5FRetro%5FFuture%5FMegaNav%5F220x240?$promoJPG$);" onclick="window.location='/store/boys/girls/_/N-1ad6v8pZgoias6Z8y4z4v?icid=GL_boyssnav_P1_throwbackfuture_SP'"></div>
             <div class="navigation-promo-cta">
-                <a href="/store/jordan-retro-/boys/_/N-t9y63aZ1ad6v8p?icid=GL_boyssnav_P1_retro10retro8_SP">Jordan Retro</a> </div> </div> </div>
+                <a href="/store/boys/girls/_/N-1ad6v8pZgoias6Z8y4z4v?icid=GL_boyssnav_P1_throwbackfuture_SP">Nike Throwback Future</a> </div> </div> </div>
 
 
     <div>
         <div class="navigation-promo-slide" id="boys_nav2">
-            <div class="navigation-promo-image" style="background-image: url(https://images.finishline.com/is/image/FinishLine/112918%5FFILA%5FBoys%5FTopGifts%5FMegaNav%5F220x240?$promoJPG$);" onclick="window.location='/top-boys-gifts?icid=GL_boyssnav_P2_filatopgifts_SP'"></div>
+            <div class="navigation-promo-image" style="background-image: url(https://images.finishline.com/is/image/FinishLine/030219%5FJordan%5FRetro%5F4%5FBoys%5FMegaNav%5F220x240?$promoJPG$);" onclick="window.location='/store/jordan-retro-/boys/_/N-t9y63aZ1ad6v8p?icid=GL_boyssnav_P2_retro4_SP'"></div>
             <div class="navigation-promo-cta">
-                <a href="/top-boys-gifts?icid=GL_boyssnav_P2_filatopgifts_SP">Top Boys' Gifts</a> </div> </div> </div>
+                <a href="/store/jordan-retro-/boys/_/N-t9y63aZ1ad6v8p?icid=GL_boyssnav_P2_retro4_SP">Jordan Retro 4</a> </div> </div> </div>
 
 
     <div>
         <div class="navigation-promo-slide" id="boys_nav3">
-            <div class="navigation-promo-image" style="background-image: url(https://images.finishline.com/is/image/FinishLine/112118%5FNBA%5FPlayer%5FBoys%5FMegaNav%5F220x240);" onclick="window.location='/store/signature-basketball/boys/_/N-1k61p0bZ1ad6v8p?icid=GL_boyssnav_P3_nbaplayers_SP'"></div>
+            <div class="navigation-promo-image" style="background-image: url(https://images.finishline.com/is/image/FinishLine/031219%5FJordan%5FWhyNot%5FMeganav%5FCartridge%5F220x240?$promoJPG$);" onclick="window.location='/store/jordan/boys/_/N-1qtmfa6Z1ad6v8p?icid=GL_boyssnav_P3_whynotzero_BRD'"></div>
             <div class="navigation-promo-cta">
-                <a href="/store/signature-basketball/boys/_/N-1k61p0bZ1ad6v8p?icid=GL_boyssnav_P3_nbaplayers_SP">NBA Player Styles</a> </div> </div> </div>
+                <a href="/store/jordan/boys/_/N-1qtmfa6Z1ad6v8p?icid=GL_boyssnav_P3_whynotzero_BRD">Jordan Why Not Zero</a> </div> </div> </div>
 
  </div> </div> </div>
 
  </div> </div> 
  </li> 
-                <li>
-                    <a href="/store/girls?mnid=girls" class="text-center">Girls</a> 
-                                <div class="menu-dropdown align-middle">
-                                    <div class="row align-top">
+                <li data-mainitem="Girls">
+                    <a href="/store/girls?mnid=girls" class="text-center" data-toplayer="true">Girls</a> 
+                                <div class="menu-dropdown align-middle hide">
+                                    <div class="row align-top menu-dropdown-row">
                                     	
-    
+
     <div class="medium-2 columns megaMenuLinkContainer">
         <ul class="menu vertical">
             
@@ -1007,8 +915,6 @@
                     <li><a href="/store/girls/girls-shoes/little-kids-sizes-10-5-3-/_/N-1xj1btv?mnid=girls_girlsshoes_littlekidssizes1053">Little Kids (Sizes 10.5-3)</a></li>	
                     
                     <li><a href="/store/girls/girls-shoes/toddler-sizes-2-12-/_/N-13gzwm0?mnid=girls_girlsshoes_toddlersizes212">Toddler (Sizes 2-12)</a></li>	
-                    
-                    <li><a href="/store/girls/girls-shoes/infant/_/N-1uztvc3?mnid=girls_girlsshoes_infant">Infant</a></li>	
                     
                     <li><a href="/store/kids-shoes?mnid=girls_allkids">All Kids' Shoes</a></li>	
  </ul> </div>
@@ -1034,7 +940,7 @@
                     <li><a href="/store/sale/girls/girls-shoes/_/N-1naclf7Z1dg18eg?mnid=sale_girls_girlsshoes">Sale</a></li>	
  </ul> </div>
 
-    
+
     <div class="medium-2 columns megaMenuLinkContainer">
         <ul class="menu vertical">
             
@@ -1063,34 +969,34 @@
 
     <div>
         <div class="navigation-promo-slide" id="NavigationPromo_13">
-            <div class="navigation-promo-image" style="background-image: url(https://images.finishline.com/is/image/FinishLine/112718%5FNike%5FTri%2DShine%5FGirls%5FMegaNav%5F220x240?$promoJPG$);" onclick="window.location='/nike-tri-shine?icid=GL_girlsnav_P1_trishine_LFS'"></div>
+            <div class="navigation-promo-image" style="background-image: url(https://images.finishline.com/is/image/FinishLine/032119%5FGirls%5FNike%5FRetro%5FFuture%5FMegaNav%5F220x240?$promoJPG$);" onclick="window.location='/store/boys/girls/_/N-1ad6v8pZgoias6Z8y4z4v?icid=GL_girlsnav_P1_throwbackfuture_SP'"></div>
             <div class="navigation-promo-cta">
-                <a href="/nike-tri-shine?icid=GL_girlsnav_P1_trishine_LFS">Nike Tri Shine Collection</a> </div> </div> </div>
+                <a href="/store/boys/girls/_/N-1ad6v8pZgoias6Z8y4z4v?icid=GL_girlsnav_P1_throwbackfuture_SP">Nike Throwback Future</a> </div> </div> </div>
 
 
     <div>
         <div class="navigation-promo-slide" id="NavigationPromo_14">
-            <div class="navigation-promo-image" style="background-image: url(https://images.finishline.com/is/image/FinishLine/102018%5FTimberlandBoots%5FGirls%5FMegaNav%5F220x240?$promoJPG$);" onclick="window.location='/store/girls/girls-shoes/boots/_/N-1dg18egZ1o7o2bb?icid=GL_girlsnav_P2_boots_SP'"></div>
+            <div class="navigation-promo-image" style="background-image: url(https://images.finishline.com/is/image/FinishLine/030819%5FG%5FTopTrendingApp%5FTopNav%5F220x240%5Fv05?$promoJPG$);" onclick="window.location='/store/adidas/girls/_/N-1463hepZgoias6?icid=GL_girlsnav_P2_adidas_SP'"></div>
             <div class="navigation-promo-cta">
-                <a href="/store/girls/girls-shoes/boots/_/N-1dg18egZ1o7o2bb?icid=GL_girlsnav_P2_boots_SP">Boots</a> </div> </div> </div>
+                <a href="/store/adidas/girls/_/N-1463hepZgoias6?icid=GL_girlsnav_P2_adidas_SP">adidas</a> </div> </div> </div>
 
 
     <div>
         <div class="navigation-promo-slide" id="NavigationPromo_15">
-            <div class="navigation-promo-image" style="background-image: url(https://images.finishline.com/is/image/FinishLine/112218%5FReebok%5FPink%5FGirls%5FMegaNav%5F220x240?$promoJPG$);" onclick="window.location='/top-girls-gifts?icid=GL_girlsnav_P3_topgifts_SP'"></div>
+            <div class="navigation-promo-image" style="background-image: url(https://images.finishline.com/is/image/FinishLine/030119%5FHave%5FA%5FNike%5FDay%5FG%5FNavigationPromo%5FCartridge%5F220x240?$promoJPG$);" onclick="window.location='/store/girls/_/N-goias6Z1hwdhl4?icid=GL_girlsnav_P3_haveanikeday_SP'"></div>
             <div class="navigation-promo-cta">
-                <a href="/top-girls-gifts?icid=GL_girlsnav_P3_topgifts_SP">Top Girls' Gifts</a> </div> </div> </div>
+                <a href="/store/girls/_/N-goias6Z1hwdhl4?icid=GL_girlsnav_P3_haveanikeday_SP">Have a Nike Day</a> </div> </div> </div>
 
  </div> </div> </div>
 
  </div> </div> 
  </li> 
-                <li>
-                    <a href="/store/all-accessories?mnid=allaccessories" class="text-center">Accessories</a> 
-                                <div class="menu-dropdown align-middle">
-                                    <div class="row align-top">
+                <li data-mainitem="Accessories">
+                    <a href="/store/all-accessories?mnid=allaccessories" class="text-center" data-toplayer="true">Accessories</a> 
+                                <div class="menu-dropdown align-middle hide">
+                                    <div class="row align-top menu-dropdown-row">
                                     	
-    
+
     <div class="medium-2 columns megaMenuLinkContainer">
         <ul class="menu vertical">
             
@@ -1099,18 +1005,17 @@
  </li> 
             <li><a href="/store/men/accessories/socks/_/N-1a779a5?mnid=men_accessories_socks" title="Socks">Socks</a></li> 
             <li><a href="/store/men/accessories/shoe-care/_/N-1lfhyoi?mnid=men_accessories_shoecare" title="Shoe Care">Shoe Care</a></li> 
-            <li><a href="/store/men/accessories/hats-beanies/_/N-daxg35?mnid=men_accessories_hatsbeanies" title="Hats &amp; Beanies">Hats &amp; Beanies</a></li> 
+            <li><a href="/store/men/accessories/hats/_/N-daxg35?mnid=men_accessories_hats" title="Hats">Hats</a></li> 
             <li><a href="/store/men/accessories/bags-backpacks/_/N-106lnz1?mnid=men_accessories_bagsbackpacks" title="Bags &amp; Backpacks">Bags &amp; Backpacks</a></li> 
             <li><a href="/store/men/accessories/waist-packs/_/N-1wg97vq?mnid=men_accessories_waistpacks" title="Waist Packs">Waist Packs</a></li> 
-            <li><a href="/store/men/accessories/bracelets/_/N-1sk8n0x?mnid=men_accessories_bracelets" title="Bracelets">Bracelets</a></li> 
-            <li><a href="/store/men/accessories/insoles/_/N-boge83?mnid=men_accessories_insoles" title="Insoles">Insoles</a></li> 
+            <li><a href="/store/men/accessories/crossbody-bags/_/N-1bomjyw?mnid=men_accessories_crossbodybags" title="Crossbody Bags">Crossbody Bags</a></li> 
                     
                     <li><a href="/store/men/accessories/_/N-vp9why?mnid=men_accessories">All Accessories</a></li>	
                     
                     <li><a href="/store/sale/men/accessories/_/N-1naclf7Zvp9why?mnid=sale_men_accessories">Sale</a></li>	
  </ul> </div>
 
-    
+
     <div class="medium-2 columns megaMenuLinkContainer">
         <ul class="menu vertical">
             
@@ -1122,16 +1027,15 @@
             <li><a href="/store/women/accessories/dad-hats/_/N-136azpd?mnid=women_accessories_dadhats" title="Dad Hats">Dad Hats</a></li> 
             <li><a href="/store/women/accessories/bags-backpacks/_/N-sfbxbl?mnid=women_accessories_bagsbackpacks" title="Bags &amp; Backpacks">Bags &amp; Backpacks</a></li> 
             <li><a href="/store/women/accessories/waist-packs/_/N-1r2sg8p?mnid=women_accessories_waistpacks" title="Waist Packs">Waist Packs</a></li> 
+            <li><a href="/store/women/accessories/crossbody-bags/_/N-hbl73o?mnid=women_accessories_crossbodybags" title="Crossbody Bags">Crossbody Bags</a></li> 
             <li><a href="/store/women/accessories/headwear/_/N-4e4a6w?mnid=women_accessories_headwear" title="Headwear">Headwear</a></li> 
-            <li><a href="/store/women/accessories/bracelets/_/N-1pf4sff?mnid=women_accessories_bracelets" title="Bracelets">Bracelets</a></li> 
-            <li><a href="/store/women/accessories/insoles/_/N-yfcxj?mnid=women_accessories_insoles" title="Insoles">Insoles</a></li> 
                     
                     <li><a href="/store/women/accessories/_/N-1gwqgpg?mnid=women_accessories">All Accessories</a></li>	
                     
                     <li><a href="/store/sale/women/accessories/_/N-1naclf7Z1gwqgpg?mnid=sale_women_accessories">Sale</a></li>	
  </ul> </div>
 
-    
+
     <div class="medium-2 columns megaMenuLinkContainer">
         <ul class="menu vertical">
             
@@ -1141,14 +1045,16 @@
             <li><a href="/store/boys/boys-accessories-/socks/_/N-7scimy?mnid=boys_boysaccessories_socks" title="Socks">Socks</a></li> 
             <li><a href="/store/boys/boys-accessories-/bags-backpacks/_/N-cfvzg5?mnid=boys_boysaccessories_bagsbackpacks" title="Bags &amp; Backpacks">Bags &amp; Backpacks</a></li> 
             <li><a href="/store/boys/boys-accessories-/shoe-care/_/N-1ugxu2z?mnid=boys_boysaccessories_shoecare" title="Shoe Care">Shoe Care</a></li> 
-            <li><a href="/store/boys/boys-accessories-/hats-beanies/_/N-16h9ft4?mnid=boys_boysaccessories_hatsbeanies" title="Hats &amp; Beanies">Hats &amp; Beanies</a></li> 
+            <li><a href="/store/boys/boys-accessories-/hats/_/N-16h9ft4?mnid=boys_boysaccessories_hats" title="Hats">Hats</a></li> 
+                    
+                    <li><a href="/store/boys/boys-apparel/infant-0-24m-/_/N-1mojybs?mnid=boys_boysapparel_infant024m">Infant (0-24M)</a></li>	
                     
                     <li><a href="/store/boys/boys-accessories-/_/N-14jg5uo?mnid=boys_boysaccessories">All Accessories</a></li>	
                     
                     <li><a href="/store/sale/kids/boys-apparel/accessories/_/N-1naclf7Zj4v9w4?mnid=sale_kids_boysapparel_accessories">Sale</a></li>	
  </ul> </div>
 
-    
+
     <div class="medium-2 columns megaMenuLinkContainer">
         <ul class="menu vertical">
             
@@ -1159,6 +1065,8 @@
             <li><a href="/store/girls/girls-accessories/bags-backpacks/_/N-6vly7d?mnid=girls_girlsaccessories_bagsbackpacks" title="Bags &amp; Backpacks">Bags &amp; Backpacks</a></li> 
             <li><a href="/store/girls/girls-accessories/shoe-care/_/N-bxn8vf?mnid=girls_girlsaccessories_shoecare" title="Shoe Care">Shoe Care</a></li> 
             <li><a href="/store/girls/girls-accessories/headwear/_/N-l9e7me?mnid=girls_girlsaccessories_headwear" title="Headwear">Headwear</a></li> 
+                    
+                    <li><a href="/store/girls/girls-apparel/infant-0-24m-/_/N-15okq3l?mnid=girls_girlsapparel_infant024m">Infant (0-24M)</a></li>	
                     
                     <li><a href="/store/girls/girls-accessories/_/N-13pbrvx?mnid=girls_girlsaccessories">All Accessories</a></li>	
                     
@@ -1173,27 +1081,34 @@
 
     <div>
         <div class="navigation-promo-slide" id="accnavpromo1">
-            <div class="navigation-promo-image" style="background-image: url(https://images.finishline.com/is/image/FinishLine/080618%5FChampion%5FWaistpacks%5FMeganav%5FCartridge%5F220x240%5FV3?$promoJPG$);" onclick="window.location='/waist-packs?icid=GL_accessoriesnav_P1_champwaist_LFS'"></div>
+            <div class="navigation-promo-image" style="background-image: url(https://images.finishline.com/is/image/FinishLine/022719%5Fadi%5FAccessories%5FMeganav%5FCartridge%5F220x240);" onclick="window.location='/store/adidas/accessories/_/N-1463hepZ1guyqux?icid=GL_accessoriesnav_P1_adidasbags_SP'"></div>
             <div class="navigation-promo-cta">
-                <a href="/waist-packs?icid=GL_accessoriesnav_P1_champwaist_LFS">Waist Packs</a> </div> </div> </div>
+                <a href="/store/adidas/accessories/_/N-1463hepZ1guyqux?icid=GL_accessoriesnav_P1_adidasbags_SP">adidas Accessories</a> </div> </div> </div>
 
 
     <div>
         <div class="navigation-promo-slide" id="accnavpromo2">
-            <div class="navigation-promo-image" style="background-image: url(https://images.finishline.com/is/image/FinishLine/110918%5FNike%5FElite%5FSocks%5FNavigationPromo%5FCartridge%5F220x240?$promoJPG$);" onclick="window.location='/store/nike-elite-socks/_/N-50ne8w?icid=GL_accessoriesnav_P2_nikesocks_SP'"></div>
+            <div class="navigation-promo-image" style="background-image: url(https://images.finishline.com/is/image/FinishLine/020219%5FCrossBody%5FMeganav%5FCartridge%5F220x240?$promoJPG$);" onclick="window.location='/crossbody-bags?icid=GL_accessoriesnav_P2_crossbody_LFS'"></div>
             <div class="navigation-promo-cta">
-                <a href="/store/nike-elite-socks/_/N-50ne8w?icid=GL_accessoriesnav_P2_nikesocks_SP">Nike Elite Socks</a> </div> </div> </div>
+                <a href="/crossbody-bags?icid=GL_accessoriesnav_P2_crossbody_LFS">Crossbody Bags</a> </div> </div> </div>
+
+
+    <div>
+        <div class="navigation-promo-slide" id="accnavpromo3">
+            <div class="navigation-promo-image" style="background-image: url(https://images.finishline.com/is/image/FinishLine/110918%5FNike%5FElite%5FSocks%5FNavigationPromo%5FCartridge%5F220x240?$promoJPG$);" onclick="window.location='/store/nike-elite-socks?icid=GL_accessoriesnav_P3_nikesocks_SP'"></div>
+            <div class="navigation-promo-cta">
+                <a href="/store/nike-elite-socks?icid=GL_accessoriesnav_P3_nikesocks_SP">Nike Elite Socks</a> </div> </div> </div>
 
  </div> </div> </div>
 
  </div> </div> 
  </li> 
-                <li>
-                    <a href="/store/sale?mnid=sale" class="text-center">Sale</a> 
-                                <div class="menu-dropdown align-middle">
-                                    <div class="row align-top">
+                <li data-mainitem="Sale">
+                    <a href="/store/sale?mnid=sale" class="text-center" data-toplayer="true">Sale</a> 
+                                <div class="menu-dropdown align-middle hide">
+                                    <div class="row align-top menu-dropdown-row">
                                     	
-    
+
     <div class="medium-2 columns megaMenuLinkContainer">
         <ul class="menu vertical">
             
@@ -1214,7 +1129,7 @@
                     <li><a href="/store/sale/men/_/N-1naclf7Z10nn04k?mnid=sale_men">All Men's Sale</a></li>	
  </ul> </div>
 
-    
+
     <div class="medium-2 columns megaMenuLinkContainer">
         <ul class="menu vertical">
             
@@ -1230,12 +1145,10 @@
                     
                     <li><a href="/store/sale/women/accessories/_/N-1naclf7Z1gwqgpg?mnid=sale_women_accessories">Accessories</a></li>	
                     
-                    <li><a href="/store/sale/-team-2/women/_/N-1naclf7Z1pc3n8pZ1rmncop?mnid=sale_team2_women">Fan Gear</a></li>	
-                    
                     <li><a href="/store/sale/women/_/N-1naclf7Z1ieepps?mnid=sale_women">All Women's Sale</a></li>	
  </ul> </div>
 
-    
+
     <div class="medium-2 columns megaMenuLinkContainer">
         <ul class="menu vertical">
             
@@ -1250,10 +1163,12 @@
                     
                     <li><a href="/store/sale/boys/boys-accessories-/_/N-1naclf7Z14jg5uo?mnid=sale_boys_boysaccessories">Accessories</a></li>	
                     
+                    <li><a href="/store/sale/-team-2/boys/_/N-1naclf7Z1pc3n8pZ1ad6v8p?mnid=sale_team2_boys">Fan Gear</a></li>	
+                    
                     <li><a href="/store/sale/boys/_/N-1naclf7Z1ad6v8p?mnid=sale_boys">All Boys' Sale</a></li>	
  </ul> </div>
 
-    
+
     <div class="medium-2 columns megaMenuLinkContainer">
         <ul class="menu vertical">
             
@@ -1271,35 +1186,40 @@
                     <li><a href="/store/sale/girls/_/N-1naclf7Zgoias6?mnid=sale_girls">All Girls' Sale</a></li>	
  </ul> </div>
 
-    
-    <div class="medium-2 columns megaMenuLinkContainer">
-        <ul class="menu vertical">
-            
- <li><strong>Featured</strong></li> 
-                    
-                    <li><a href="/store/sale/nike/_/N-1naclf7Z1sg76hk?mnid=sale_nike">Nike up to 50% Off</a></li>	
-                    
-                    <li><a href="/store/sale/jordan/_/N-1naclf7Z1qtmfa6?mnid=sale_jordan">Jordan up to 30% off</a></li>	
-                    
-                    <li><a href="/store/sale/adidas/_/N-1naclf7Z1463hep?mnid=sale_adidas">adidas up to 40% off</a></li>	
-                    
-                    <li><a href="/store/sale/_/N-1naclf7Zbalms8?mnid=sale">New Markdowns</a></li>	
-                    
-                    <li><a href="/store/sale/boys/girls/_/N-1naclf7Z1ad6v8pZgoias6Zbalms8?mnid=sale_boys_girls">Kids' Styles up to 30% Off</a></li>	
-                    
-                    <li><a href="/store/sale/casual/shoes/_/N-1naclf7Z1oe2x3lZ1nc1fo0?mnid=sale_casual_shoes">Casual Shoes up to 40% off</a></li>	
-                    
-                    <li><a href="/store/only-sale-items/hoodie-/pants/_/N-1g2z5sjZx6f75sZ4i6t8z?mnid=onlysaleitems_hoodie_pants">Hoodies &amp; Pants up to 30% Off</a></li>	
-                    
-                    <li><a href="/store/apparel-under-25?mnid=apparelunder25">Apparel Under $25</a></li>	
- </ul> </div>
+
+    <div class="columns bl-medium-gray pl-large-5 hide-for-medium-only">
+        <div class="navigation-promo" id="NavigationPromoCarousel_7">
+            <div class="navigation-promo-slider">
+                
+
+    <div>
+        <div class="navigation-promo-slide" id="NavigationPromo_19">
+            <div class="navigation-promo-image" style="background-image: url(https://images.finishline.com/is/image/FinishLine/031019%5FSpringSavings%5FMeganav%5FCartridge%5F220x240?$promoJPG$);" onclick="window.location='/25-off-select-styles?icid=GL_salenav_P1_springsavings_TXT'"></div>
+            <div class="navigation-promo-cta">
+                <a href="/25-off-select-styles?icid=GL_salenav_P1_springsavings_TXT">Shop Now</a> </div> </div> </div>
+
+
+    <div>
+        <div class="navigation-promo-slide" id="NavigationPromo_20">
+            <div class="navigation-promo-image" style="background-image: url(https://images.finishline.com/is/image/FinishLine/030519%5FBags%5FMeganav%5FCartridge%5F220x240%5FV2?$promoJPG$);" onclick="window.location='/store/backpacks/only-sale-items/_/N-oscdrmZ1g2z5sj?icid=GL_salenav_P2_bags70_TXT'"></div>
+            <div class="navigation-promo-cta">
+                <a href="/store/backpacks/only-sale-items/_/N-oscdrmZ1g2z5sj?icid=GL_salenav_P2_bags70_TXT">Shop Now</a> </div> </div> </div>
+
+
+    <div>
+        <div class="navigation-promo-slide" id="NavigationPromo_21">
+            <div class="navigation-promo-image" style="background-image: url(https://images.finishline.com/is/image/FinishLine/022519%5FNikeJordan%5FMeganav%5FCartridge%5F220x240?$promoJPG$);" onclick="window.location='/store/nike/jordan/only-sale-items/_/N-htjl46Zvnhst2Z1g2z5sj?icid=GL_salenav_P3_nikejordan_TXT'"></div>
+            <div class="navigation-promo-cta">
+                <a href="/store/nike/jordan/only-sale-items/_/N-htjl46Zvnhst2Z1g2z5sj?icid=GL_salenav_P3_nikejordan_TXT">Shop Now</a> </div> </div> </div>
+
+ </div> </div> </div>
 
  </div> </div> 
  </li> 
-                <li>
-                    <a href="/store/brands" class="text-center">brands</a> 
-                                <div class="menu-dropdown align-middle">
-                                    <div class="row align-top">
+                <li data-mainitem="brands">
+                    <a href="/store/brands" class="text-center" data-toplayer="true">brands</a> 
+                                <div class="menu-dropdown align-middle hide">
+                                    <div class="row align-top menu-dropdown-row">
                                     	 
 	<div class="row icon-list align-center">
         
@@ -1362,6 +1282,10 @@
             <div class="medium-1 brands fila">
                 <a href="/fila?mnid=fila" title="Fila" class="icon icon-fila"></a>
             </div>
+        
+            <div class="medium-1 brands lacoste">
+                <a href="/lacoste?mnid=lacoste" title="Lacoste" class="icon icon-lacoste"></a>
+            </div>
         			
 	</div>
     <div class="row icon-list view-all-brands align-center mt-3">
@@ -1372,10 +1296,14 @@
 
  </div> </div> 
  </li> 
-                <li>
-                    <a href="/store/sneaker-release-dates?mnid=release_calendar" class="text-center">Releases</a> 
+                <li data-mainitem="Releases">
+                    <a href="/store/sneaker-release-dates?mnid=release_calendar" class="text-center" data-toplayer="true">Releases</a> 
  </li> 
- </ul> </div>
+            <div id="megaMenuBoss">
+                <div id="containerMenuBoss" class="menu-dropdown"></div>
+            </div>
+        </ul>
+    </div>
 
  </nav> 
  <style>.umb-wrapper .icon {color: #FFFFFF !important;}</style>
@@ -1388,24 +1316,25 @@
             <div id="umb1" class="umb-message-cartridge">
                 <div class="umb-message-container">
                             
-                            <a style="color:#FFFFFF" class="not-underline" data-open="fsdetailsmodal2" aria-controls="fsdetailsmodal2" aria-haspopup="true" tabindex="0">
-                                <b>FREE SHIPPING</b> on Orders Over $75. &nbsp;
+                            <a style="color:#FFFFFF" class="not-underline" data-open="fsdetailsmodal" aria-controls="fsdetailsmodal" aria-haspopup="true" tabindex="0">
+                                <strong>FREE SHIPPING</strong> on full-priced orders over $30.
                                 <span class="umb-cta cta-text" style="color:#FFFFFF; text-decoration: underline;">Details</span> </a> 
  </div> </div> 
  </div> 
  <div> 
             <div id="umb2" class="umb-message-cartridge">
                 <div class="umb-message-container">
-                    
-                                    <a href="/adidas-free-express-shipping?icid=GL_UMB2_adidasfreeexpressmessage" class="not-underline" style="color:#FFFFFF">Limited Time Only. <b>FREE EXPRESS SHIPPING</b> on Full Priced adidas Shoes and Apparel.&nbsp;</a> 
-                                    <a href="/adidas-free-express-shipping?icid=GL_UMB2_adidasfreeexpresscta" class="cta-text" style="color:#FFFFFF">Shop Now</a> 
+                            
+                            <a style="color:#FFFFFF" class="not-underline" data-open="fsdetailsmodal2" aria-controls="fsdetailsmodal2" aria-haspopup="true" tabindex="0">
+                                <strong>$7 flat-rate shipping</strong> on all sale orders.
+                                <span class="umb-cta cta-text" style="color:#FFFFFF; text-decoration: underline;">Details</span> </a> 
  </div> </div> 
  </div> 
  <div> 
             <div id="umb3" class="umb-message-cartridge">
                 <div class="umb-message-container">
                     
-                                    <a href="https://www.finishline.com/store/customerservice/gadgets/faqTopicBody.jsp?icid=GL_UMB2_Returnsdetailsmessage&amp;faqcategoryId=1600004&amp;topicId=1600012#tt1900020" class="not-underline" style="color:#FFFFFF">Free and Easy Returns. Every Day.</a> 
+                                    <a href="https://www.finishline.com/store/customerservice/gadgets/faqTopicBody.jsp?icid=GL_UMB2_Returnsdetailsmessage&amp;faqcategoryId=1600004&amp;topicId=1600012#tt1900020" class="not-underline" style="color:#FFFFFF">Free and easy returns. Every day.</a> 
                                     <a href="https://www.finishline.com/store/customerservice/gadgets/faqTopicBody.jsp?icid=GL_UMB2_ReturnsdetailsCTA&amp;faqcategoryId=1600004&amp;topicId=1600012#tt1900020" class="cta-text" style="color:#FFFFFF">Details</a> 
  </div> </div> 
  </div> 
@@ -1526,22 +1455,22 @@
 <h1>PRIVACY POLICY</h1>
 
 <p><br>
-Effective as of: June 12, 2018</p>
+Effective as of: February 25, 2019</p>
 
 <div class="main_subtitle">PRIVACY POLICY INTRODUCTION</div>
 
 <p><br>
-At Finish Line, we take seriously the trust you place in us when you choose to do business with us. Our Privacy Policy applies to information related to you that may be collected by Finish Line:</p>
+At The Finish Line, Inc., we take seriously the trust you place in us when you choose to do business with us. Our Privacy Policy describes the information The Finish Line, Inc. and our brands, which include Finish Line and JD (“<strong>Brands</strong>”), collect about you. Our Privacy Policy applies to information related to you that may be collected by or for us:</p>
 
 <ul>
-	<li>in our stores (“ <strong>Retail Stores</strong>”) and shops located in Macy’s stores (“ <strong>Shops</strong>”) (collectively, “Stores”);</li>
+	<li>in our Finish Line and JD stores (“ <strong>Retail Stores</strong>”) and Finish Line shops located in Macy’s stores (“ <strong>Shops</strong>”) (collectively, “<strong>Stores</strong>”);</li>
 	<li>online at finishline.com and at our blog at <a href="https://blog.finishline.com/">blog.finishline.com</a> (collectively, “ <strong>Site</strong>”);</li>
-	<li>when you purchase Finish Line athletic shoes through <a href="https://www.macys.com/shop/shoes/finish-line-athletic-shoes?id=63268">macys.com</a>;</li>
+	<li>when you purchase athletic footwear offered by Finish Line through <a href="https://www.macys.com/shop/shoes/finish-line-athletic-shoes?id=63268">macys.com</a>;</li>
 	<li>through our mobile application(s) (“ <strong>App</strong>”);</li>
-	<li>in connection with our brand loyalty membership program known as <a href="https://www.finishline.com/wc_terms">Winner’s Circle</a>;</li>
+	<li>in connection with our Finish Line brand loyalty membership program known as <a href="https://www.finishline.com/wc_terms">Winner’s Circle</a>;</li>
 	<li>for our sweepstakes, contests and surveys;</li>
 	<li>through our registration and event services;</li>
-	<li>by Store associates and customer service representatives; and</li>
+	<li>by Store associates (“<strong>Store Associates</strong>”) and customer service representatives; and</li>
 	<li>by and through emails, social media or other digital platforms, including our digital ads which may be delivered on third-party websites (collectively, “ <strong>Internet Marketing Platforms</strong>”).</li>
 </ul>
 (collectively, “ <strong>Services</strong>”).
@@ -1558,10 +1487,10 @@ Our Privacy Policy describes:</p>
 
 <p>We strive to adhere to the Self-Regulatory Principles of the Digital Advertising Alliance, which establishes and enforces responsible privacy practices for digital advertising. As such, our Privacy Policy also includes our <strong> <a href="https://www.finishline.com/interest-based-ads-policy&#10;">Interest-Based Ads Policy</a> </strong>.</p>
 
-<p>In our Privacy Policy, “ <strong>Finish Line</strong>”, “ <strong>we</strong>” and “ <strong>our</strong>” mean Finish Line, Inc. and its subsidiaries and affiliates, and “ <strong>you</strong>” means any person who accesses and uses our Services.</p>
+<p>In our Privacy Policy, “ <strong>Finish Line</strong>”, “ <strong>we</strong>” and “ <strong>our</strong>” mean The Finish Line, Inc., including its Brands, and its subsidiaries and affiliates, and “ <strong>you</strong>” means any person who accesses and uses our Services.</p>
 
 <p>We engage other companies to assist us in collecting and using information related to you as described in this Privacy Policy (“ <strong>Providers</strong>”). Where we describe our collection and use practices in this Privacy Policy, our Providers may be engaged in the same or similar collection and use practices on our behalf.</p>
-<i>By accessing or using any of our Services, you consent to the collection, use and disclosure of your information, including any information previously collected by and for Finish Line, as described in this Privacy Policy.</i>
+<i>By accessing or using any of our Services, you consent to the collection, use and disclosure of your information, including any information previously collected by and for us, as described in this Privacy Policy.</i>
 
 <p><br>
 If you would prefer to make your purchase by telephone rather than in our Stores, on our Site, or on our App), please call us at <strong> <a href="tel:18887773949">1-888-777-3949</a> </strong>. A Finish Line Customer Care representative will be happy to assist you.</p>
@@ -1574,22 +1503,22 @@ If you would prefer to make your purchase by telephone rather than in our Stores
 Click on the following links to go directly to the corresponding sections of this Privacy Policy:</p>
 
 <ol type="A">
-	<li><a href="#anchora">Customer Information Finish Line Collects</a></li>
-	<li><a href="#anchorb">How Finish Line Collects Customer Information</a></li>
-	<li><a href="#anchorc">How Finish Line Uses Customer Information</a></li>
-	<li><a href="#anchord">How Finish Line Shares Customer Information</a></li>
-	<li><a href="#anchore">Limiting Finish Line’s Collection and Use of Your Customer Information</a></li>
-	<li><a href="#anchorf">Updating Personal Information with Finish Line</a></li>
+	<li><a href="#anchora">Customer Information We Collect</a></li>
+	<li><a href="#anchorb">How We Collect Customer Information</a></li>
+	<li><a href="#anchorc">How We Use Customer Information</a></li>
+	<li><a href="#anchord">How We Share Customer Information</a></li>
+	<li><a href="#anchore">Limiting Our Collection and Use of Your Customer Information</a></li>
+	<li><a href="#anchorf">Updating Personal Information with Us</a></li>
 	<li><a href="#anchorg">Security Practices</a></li>
 	<li><a href="#anchorh">Storage of Customer Information and Data Transfers</a></li>
 	<li><a href="#anchori">Other Notices and Disclosures</a></li>
 	<li><a href="#anchorj">Privacy Policy Updates</a></li>
-	<li><a href="#anchork">Contact Finish Line</a></li>
+	<li><a href="#anchork">Contact Us</a></li>
 </ol>
 
 <p>&nbsp;</p>
 
-<div class="main_subtitle"><a name="anchora">A. CUSTOMER INFORMATION FINISH LINE COLLECTS</a></div>
+<div class="main_subtitle"><a name="anchora">A. CUSTOMER INFORMATION WE COLLECT</a></div>
 
 <p><strong><u>1. Personal Information and Non-Personal Information</u> </strong></p>
 
@@ -1630,7 +1559,7 @@ We may combine Customer Information we collect and obtain from different sources
 
 <p>&nbsp;</p>
 
-<div class="main_subtitle"><a name="anchorb">B. HOW FINISH LINE COLLECTS CUSTOMER INFORMATION</a></div>
+<div class="main_subtitle"><a name="anchorb">B. HOW WE COLLECT CUSTOMER INFORMATION</a></div>
 
 <p>We collect Customer Information related to you:</p>
 
@@ -1648,8 +1577,8 @@ We may combine Customer Information we collect and obtain from different sources
 <ul>
 	<li>create a customer account on our Site or App.</li>
 	<li>create a <a href="https://www.finishline.com/wc_terms">Winner’s Circle</a> account.</li>
-	<li>place an order with us (by phone, online at our Site, on our App and in-Store, including through our “We’ve Got It” program).</li>
-	<li>register for a free trial Sports Illustrated subscription in Retail Stores at the point-of-sale</li>
+	<li>place an order with us (by phone, online at our Site, on our App and in-Store, including through our “We’ve Got It” program and our Store Kiosks).</li>
+	<li>register for a free trial Sports Illustrated subscription in Finish Line Retail Stores at the point-of-sale</li>
 	<li>submit content you create on our Site, on our App and through our Internet Marketing Platforms, such as by liking a product or</li>
 	<li>posting a product review on our Site (“ <strong>User Contribution</strong>”).</li>
 	<li>participate in customer research and surveys.</li>
@@ -1667,6 +1596,7 @@ We receive Automatically Collected Information about you when you use our Servic
 
 <ul>
 	<li>when you interact with our Site or App on any device.</li>
+	<li>when you interact with our Store Kiosks.</li>
 	<li>when you interact with our Internet Marketing Platforms, including email advertisements or digital ads delivered on a third-party website.</li>
 	<li>when you install our App and enable certain features such as location-based features.</li>
 	<li>when you interact directly with our Providers or with other websites, mobile applications or companies that these providers also work with.</li>
@@ -1709,7 +1639,10 @@ We receive Automatically Collected Information about you when you use our Servic
 <strong>Store Beacons</strong>. We use beacons in our Retail Stores (“ <strong>Store Beacons</strong>”). Store Beacons are small devices that we use to enhance and make your in-store experience more interactive. Store Beacons broadcast a Bluetooth signal that can be received by Bluetooth-enabled devices, such as a mobile device, when those devices are within certain geographic distance or proximity to a Store Beacon. In-app permissions, such as permission to access location and accept push notifications, must be enabled for a Store Beacon to interact with a specific Bluetooth-enabled device. Store Beacon preferences are managed through your device (including through Bluetooth, location and push notification settings).</p>
 
 <p><br>
-<strong>Memory Mirrors by Memomi</strong>. In select Retail Stores, we offer you the opportunity to interact with Memory Mirrors made available by <a href="http://memorymirror.com/">Memomi</a>. A Memory Mirror is a Wi-Fi connected mirror equipped with a camera that allows you to view, take a photo and shoot a brief video of you wearing footwear we offer. During a Memory Mirror session, you may retain the photo or video that you take via the memory mirror by providing your mobile phone number and sending the photo or video to your mobile phone. Once the photo or video is sent to your mobile phone, you will have the option of saving the photo or video to your mobile phone, sharing it via email or sharing it on various social media platforms. Photos and videos sent to your mobile phone are not stored by us or Memomi. Photos and videos and any other data you may have provided during your session will be securely destroyed by Memomi when you end a Memory Mirror session.</p>
+<strong>Store Kiosks</strong>. We offer store kiosks in select Retail Stores (“ <strong>Store Kiosks</strong>”). Customers may browse for products on Store Kiosks and place orders through Store Kiosks. We may receive Automatically Collected Information when our customers interact with and place orders on our Store Kiosks. We use this information to help us understand how our customers use our Store Kiosks and to improve our customers’ shopping experience. Please note, on our Store Kiosks, a user may not be able to adjust browser settings that typically allow a user to manage cookies.</p>
+
+<p><br>
+<strong>Memory Mirrors by Memomi</strong>. In select Retail Stores, we offer you the opportunity to interact with Memory Mirrors made available by <a href="http://memorymirror.com/">Memomi</a>. A Memory Mirror is a Wi-Fi connected mirror equipped with a camera that allows you to view, take a photo and shoot a brief video of you wearing footwear we offer. During a Memory Mirror session, you may retain the photo or video that you take via the Memory Mirror by providing your mobile phone number and sending the photo or video to your mobile phone. Once the photo or video is sent to your mobile phone, you will have the option of saving the photo or video to your mobile phone, sharing it via email or sharing it on various social media platforms. Photos and videos sent to your mobile phone are not stored by us or Memomi. Photos and videos and any other data you may have provided during your session will be securely destroyed by Memomi when you end a Memory Mirror session.</p>
 
 <p><br>
 <strong>Video Cameras</strong>. We use cameras in our Stores for security purposes, to protect our assets and to measure customer traffic patterns. Cameras may capture your demographic information, such as age and gender, when you visit our Stores.</p>
@@ -1737,7 +1670,7 @@ We receive Automatically Collected Information about you when you use our Servic
 
 <p>&nbsp;</p>
 
-<div class="main_subtitle"><a name="anchorc">C. HOW FINISH LINE USES CUSTOMER INFORMATION</a></div>
+<div class="main_subtitle"><a name="anchorc">C. HOW WE USE CUSTOMER INFORMATION</a></div>
 
 <p>We may use Customer Information we collect for the following purposes:</p>
 
@@ -1772,6 +1705,7 @@ We receive Automatically Collected Information about you when you use our Servic
 	<li>Communicate with you regarding your transactions with us, including purchases, orders, payments and returns or exchanges</li>
 	<li>Communicate with you regarding your Winner’s Circle membership, including benefits you earn under this brand loyalty membership program</li>
 	<li>Respond to requests for information about our products and services in our Stores, on our Site or App or to otherwise serve you</li>
+	<li>Communicate weith you regarding our Brands</li>
 	<li>Connect with you to deliver customer service through our Customer Care center or on social media or Internet chat platforms</li>
 </ul>
 
@@ -1780,13 +1714,13 @@ We receive Automatically Collected Information about you when you use our Servic
 <p><strong><u>3. For Marketing, Promotions and Advertising (including Interest-Based Advertising)</u> </strong></p>
 
 <ul>
-	<li>Personalize your experiences with us through our Services, such as by identifying your product and shopping preferences</li>
+	<li>Personalize your experiences with our Brands through our Services, such as by identifying your product and shopping preferences</li>
 	<li>Deliver coupons, in-Store receipt messages, emails, App messages (including push notifications) and social media notifications</li>
 	<li>Provide interactive features of the Site, App and Internet Marketing Platforms, such as product reviews</li>
-	<li>Send communications and other information regarding products, services and promotions</li>
+	<li>Send communications and other information regarding our Brands' products, services and promotions that we believe may be of interest to you</li>
 	<li>Administer surveys, sweepstakes, contests, promotions and focus groups</li>
 	<li>Organize local community events, promotions and in-Store experiences</li>
-	<li>Provide personalized communications and services across all channels and platforms, including by personalizing our advertising, marketing communications, shopping experiences and promotional offers</li>
+	<li>Provide personalized communications and services across all channels and platforms and all of our Brands, including by personalizing our advertising, marketing communications, shopping experiences and promotional offers</li>
 </ul>
 
 <p>We participate in interest-based advertising, which is also known as online behavioral advertising. We work with third-party advertising companies and networks to display ads through third party websites or mobile applications. These ads are tailored to your individual interests based on how you use our Services, including how you browse and shop on our Site and App.</p>
@@ -1819,16 +1753,17 @@ We receive Automatically Collected Information about you when you use our Servic
 
 <p>&nbsp;</p>
 
-<div class="main_subtitle"><a name="anchord">D. HOW FINISH LINE SHARES CUSTOMER INFORMATION</a></div>
+<div class="main_subtitle"><a name="anchord">D. HOW WE SHARE CUSTOMER INFORMATION</a></div>
 
-<p>In general, we do not share your Customer Information with third parties for their marketing or advertising purposes (except that we may share your Customer Information with our affiliates for such purposes).</p>
+<p>A Brand may share Customer Information it collects with our other Brands. Use of any Customer Information shared among our Brands by our Brands is subject to our Privacy Policy.</p>
+
+<p>In general, we do not share your Customer Information with third parties for their marketing or advertising purposes (except that we may share your Customer Information with our affiliates, including any parent or subsidiary entity, for such purposes).</p>
 
 <p>We may share Customer Information we collect with third parties for other purposes, such as in the following ways:</p>
 
 <p>&nbsp;</p>
 
 <ul>
-	<li><strong>Internally</strong>. Within Finish Line (this includes all Finish Line affiliates).</li>
 	<li><strong>With our Providers</strong>. To companies who perform a business, professional or technical support function for us, including services for improving our products and services and our delivery of products and services to you. Such services include, for example, mobile marketing services, analytics, call center/chat services, payment processing, data enhancement, fraud prevention and shipping services.</li>
 	<li><strong>With social media platforms</strong>, such as Facebook, Twitter, YouTube, Pinterest and Instagram through social media widgets and other tools used in connection with our Site and App, which may be deployed by our Providers (for example, tools for you to share content on our Site or App with your friends and followers on social media).</li>
 	<li><strong>To comply with the law</strong>. To comply with applicable law or reasonable requests for information based on governmental regulation, court order, subpoena or a similar related action.</li>
@@ -1839,9 +1774,9 @@ We receive Automatically Collected Information about you when you use our Servic
 
 <p>&nbsp;</p>
 
-<div class="main_subtitle"><a name="anchore">E. LIMITING FINISH LINE’S COLLECTION AND USE OF YOUR CUSTOMER INFORMATION</a></div>
+<div class="main_subtitle"><a name="anchore">E. LIMITING OUR COLLECTION AND USE OF YOUR CUSTOMER INFORMATION</a></div>
 
-<p>We strive to offer you choices about how we collect and use Customer Information relating to you. Please be aware that disallowing certain data collection may limit the usefulness of our Services, including our Site and App. Your choices include the following:</p>
+<p>We strive to offer you choices about how we collect and use Customer Information relating to you. Please be aware that disallowing certain data collection may limit the usefulness of our Services, including our Site and App and across our Brands. Your choices include the following:</p>
 <strong>1. Postal Mail, Text Messages and Emails</strong>
 
 <p>From time to time, we may communicate with you for promotional purposes through postal mail, emails and text messages. <i>Even if you opt-out of receiving marketing or promotional communications from us, we may still contact you to respond to an inquiry and for transactional purposes (for example, sales confirmations, order fulfillment, shipping notifications, account maintenance and issuance of Winner’s Circle rewards).</i></p>
@@ -1940,7 +1875,7 @@ We receive Automatically Collected Information about you when you use our Servic
 
 <p>&nbsp;</p>
 
-<div class="main_subtitle"><a name="anchorf">F. UPDATING PERSONAL INFORMATION WITH FINISH LINE</a></div>
+<div class="main_subtitle"><a name="anchorf">F. UPDATING PERSONAL INFORMATION WITH US</a></div>
 
 <p>If you have registered an account on our Site or on our App, you may access and update certain Personal Information that you have provided us by logging into your account and making such changes. If you update your account or if you request we deactivate your account, we may not delete residual copies from our servers and may not remove information associated with the prior version(s) or deactivated account.</p>
 
@@ -1998,13 +1933,13 @@ We receive Automatically Collected Information about you when you use our Servic
 
 <p>&nbsp;</p>
 
-<div class="main_subtitle"><a name="anchork">K. CONTACT FINISH LINE</a></div>
+<div class="main_subtitle"><a name="anchork">K. CONTACT US</a></div>
 
 <p>You may come into contact with emails, texts or mobile alerts that look like they originate from us asking for your Personal Information. For your protection, do not respond to such communications or click on links or open any files attached to such suspicious, unsolicited communications. If you receive such a communication, please email us at onlinefraud@finishline.com immediately so that we may investigate the suspicious activity.</p>
 &nbsp;
 
 <p>If you have questions about this Privacy Policy or our practices, please contact us at:<br>
-The Finish Line, Inc.<br>
+The Finish Line, Inc. (d/b/a Finish Line and JD)<br>
 3308 North Mitthoeffer Road Indianapolis,<br>
 Indiana 46235<br>
 1-888-777-3949<br>
@@ -2045,6 +1980,8 @@ generalcounsel@finishline.com</p>
 	
                 
             
+                
+            
 	
 	
 	
@@ -2058,6 +1995,9 @@ generalcounsel@finishline.com</p>
     <script async="" src="//www.google.com/jsapi" type="text/javascript"></script>
     
     
+            
+    
+
     <script>
         var contextPath = "/store"
         FL.environment = "production";
@@ -2099,20 +2039,20 @@ generalcounsel@finishline.com</p>
     <!--[if lt IE 9]>
               <script src="/store/assets/scripts/alpha/jquery.validation-new.js"></script>
        <![endif]-->
-	
-			<script type="text/javascript" src="//finishline.ugc.bazaarvoice.com/static/9345/bvapi.js"></script>
-		
-            <script src="/store/assets/scripts/min/c63951b96d084aa9b83431858af9c960.style-guide.min.js"></script><div class="js-off-canvas-overlay is-overlay-absolute"></div><div class="js-off-canvas-overlay is-overlay-absolute"></div><div class="js-off-canvas-overlay is-overlay-absolute"></div><div class="js-off-canvas-overlay is-overlay-absolute"></div>
+    
+            <script type="text/javascript" src="//finishline.ugc.bazaarvoice.com/static/9345/bvapi.js"></script>
         
-	<script src="/store/assets/scripts/min/a5b9c128d6dfb6bd2ffe00fe7c56aace.vendor.min.js"></script>
-	<script src="/store/assets/scripts/min/2c388e5e2406eefb6c3005f9be4238aa.app.min.js"></script>
+            <script src="/store/assets/scripts/min/0c843e3edc6202b922852f7a9defaf9d.style-guide.min.js"></script>
+        
+    <script src="/store/assets/scripts/min/dba8e09c7bc68d88a9612e07c28d6c22.vendor.min.js"></script>
+    <script src="/store/assets/scripts/min/5c3a1ca88b2e5c9b59bcc6f5e4d61116.app.min.js"></script>
 
-	<!-- initialize foundation javascripts -->
-	
-	<script type="text/javascript">
-		$(document).foundation();
-		FL.global.init();
-	</script>
+    <!-- initialize foundation javascripts -->
+    
+    <script type="text/javascript">
+        $(document).foundation();
+        FL.global.init();
+    </script>
 
     
 
@@ -2126,40 +2066,45 @@ generalcounsel@finishline.com</p>
 <input type="hidden" id="hiddendText">
 
  <footer> <style type="text/css">.footer-link {
-        text-decoration: none;
-        color:#ffffff;
-    }
-
-    .footer-link:focus:not(:hover):not(.button) {
-        text-decoration: none;
-        color: #ffffff !important;
-    }
-
-    .row-footer-link {
-        margin-left: 0rem !important;
-        margin-right: 0rem !important;
-    }
-
-    .footer-icon {
-        margin-left: -1rem;
-    }
-
-    .footer-email-field {
-        padding-left: 4rem;
-        height: 44px;
-        width: 200px;
-    }
-#umbSlider .umb-message-cartridge {
-    height: auto !important;
+    text-decoration: none;
+    color:#ffffff;
 }
 
-/* Temp Fixes */ 
+.footer-link:focus:not(:hover):not(.button) {
+    text-decoration: none;
+    color: #ffffff !important;
+}
+
+.row-footer-link {
+    margin-left: 0rem !important;
+    margin-right: 0rem !important;
+}
+
+.footer-icon {
+    margin-left: -1rem;
+}
+
+.footer-email-field {
+    padding-left: 4rem;
+    height: 44px;
+    width: 200px;
+}
+#umbSlider .umb-message-cartridge {
+height: auto !important;
+}
+
+/* Temp Fix Fixing hero two columns page*/
+@media print, screen and (min-width: 64.0625em){
+.hero-promotion {
+padding-top: 50%;
+}
+}
 
 /* to fix the space on grid */
 @media screen and (min-width: 640px)  {
-    #filterRowBox {
-        height: 0px!important;
-    }
+#filterRowBox {
+    height: 0px!important;
+}
 }
 
 /* TEMP FIX*/
@@ -2169,21 +2114,31 @@ bottom:21px;
 
 /*  to fix weird hover in grid product cards that was causing a space after promo label, this sets it back to normal. */
 @media screen and (min-width: 640px) {
-    .product-card__container.is-grid .product-card:hover .product-card__label {
-        left: 0px !important;
-        top: .38462rem !important;
-    }
+.product-card__container.is-grid .product-card:hover .product-card__label {
+    left: 0px !important;
+    top: .38462rem !important;
+}
 }
 
 .product-card__media .product-card__media-slide {
-  position: relative;
-  height: auto !important;
+position: relative;
+height: auto !important;
 }
 
 @media (hover: none) {
-  .product-card__media .product-card__media-slide {
-    height:inherit !important;
-  }
+.product-card__media .product-card__media-slide {
+height:inherit !important;
+}
+}
+
+
+
+.special-grid-header div.promo-text-container div.promo-text div.promo-content:last-child {
+margin-bottom: 0!important;
+}
+
+.special-grid-header div.promo-text-container div.promo-text div.promo-content{
+text-align:center;
 }
 </style>
 <footer>
@@ -2205,7 +2160,7 @@ app, online or by phone</div>
 </div>
 
 <div class="column small-12 medium-6 large-3 tile-column">
-<div class="tile-content" onclick="window.location='/store/customerservice/contactUs.jsp'">
+<div class="tile-content" id="launchTYO">
 <div class="row align-middle">
 <div class="column shrink"><span class="icon icon-delivery">&nbsp;</span></div>
 
@@ -2317,9 +2272,12 @@ the business, see for yourself</div>
 </ul>
 <a class="footer-call text-right" href="tel:+1-888-777-3949"><span>Call</span>1.888.777.3949</a>
 
-<div class="footer-email"><strong class="all-caps align-self-left">Get on the List for deals, updates, and special offers</strong>
+<div class="footer-email"><strong class="all-caps align-self-left">Get on the List</strong>
 
-<form class="footerEmailSignupForm" id="footerEmailSignupMobile" name="footerEmailSignupMobile" novalidate="novalidate"><input class="footer-email-field" name="email" placeholder="Enter your email" type="email">&nbsp;</form>
+<form class="footerEmailSignupForm" id="footerEmailSignupMobile" name="footerEmailSignupMobile" novalidate="novalidate"><input class="footer-email-field" name="email" placeholder="Enter your email" type="email">&nbsp; <span class="icon icon-small icon-circled icon-chevron-right footer-email-icon hide">&nbsp;</span> <input class="btn-submit" disabled="disabled" type="submit" value=""> <span class="icon icon-email">&nbsp;</span>
+
+<div class="success callout footer-email-callout hide" data-closable=""><span class="content">&nbsp;</span><button aria-label="Dismiss alert" class="close-button" data-close="" type="button"><span aria-hidden="true">×</span></button></div>
+</form>
 </div>
 </div>
 
@@ -2348,8 +2306,7 @@ the business, see for yourself</div>
 		<li><a href="/store/customerservice/gadgets/faqTopicBody.jsp?faqcategoryId=1600004&amp;topicId=1600010#tt1900002">Cancel an Order</a></li>
 		<li><a href="/store/customerservice/contactUs.jsp&#10;">Contact Us</a></li>
 		<li><a href="tel:+1-888-777-3949">1.888.777.3949</a></li>
-		<li><a href="/store/customerservice/gadgets/faqTopicBody.jsp?faqcategoryId=1600002&amp;topicId=500002#tt1000002" rel="nofollow">Website Accessibility Policy</a></li>
-		<li><a href="/store/coupon-codes-offers">Coupons</a></li>
+		<li><a href="https://www.finishline.com/store/customerservice/gadgets/faqCategoryBody.jsp?faqcategoryId=1600010#tt1000002" rel="nofollow">Website Accessibility Policy</a></li>
 	</ul>
 	</li>
 </ul>
@@ -2363,8 +2320,10 @@ the business, see for yourself</div>
 	</ul>
 	</li>
 	<li class="align-left">
-	<div class="footer-email"><strong class="all-caps align-self-left">Get on the List for deals, updates, and special offers</strong>
-	<form class="footerEmailSignupForm" id="footerEmailSignupDesktop" name="footerEmailSignupDesktop" novalidate="novalidate"><input class="footer-email-field" name="email" placeholder="Enter your email" type="email"> <span class="icon icon-email">&nbsp;</span></form>
+	<div class="footer-email"><strong class="all-caps align-self-left">Get on the List</strong>
+	<form class="footerEmailSignupForm" id="footerEmailSignupDesktop" name="footerEmailSignupDesktop" novalidate="novalidate"><input class="footer-email-field" name="email" placeholder="Enter your email" type="email"> <span class="icon icon-small icon-circled icon-chevron-right footer-email-icon hide">&nbsp;</span> <input class="btn-submit" type="submit" value=""> <span class="icon icon-email">&nbsp;</span>
+	<div class="success callout footer-email-callout hide" data-closable=""><span class="content">&nbsp;</span><button aria-label="Dismiss alert" class="close-button" data-close="" type="button"><span aria-hidden="true">×</span></button></div>
+	</form>
 	</div>
 	</li>
 </ul>
@@ -2385,11 +2344,11 @@ the business, see for yourself</div>
 
 <div class="columns small-12 medium-6 large-8">
 <ul class="menu align-center footer-copyright">
-	<li class="hide-for-large">2018 Finish Line, Inc. All Rights Reserved.</li>
+	<li class="hide-for-large">2019 Finish Line, Inc. All Rights Reserved.</li>
 </ul>
 
 <ul class="menu align-center footer-bottomlinks">
-	<li class="show-for-large py-1">2018 Finish Line, Inc. All Rights Reserved.</li>
+	<li class="show-for-large py-1">2019 Finish Line, Inc. All Rights Reserved.</li>
 	<li><a href="/store/corporate/privacyPolicy.jsp" rel="nofollow">Privacy Policy</a></li>
 	<li><a href="/interest-based-ads-policy" rel="nofollow">Interest-Based Ads Policy</a></li>
 	<li><a href="/store/corporate/terms.jsp" rel="nofollow">Terms of Use</a></li>
@@ -2489,12 +2448,12 @@ the business, see for yourself</div>
 
 
 
-<div class="custom-small reveal" id="emailErrorModal" data-reveal="" data-close-on-click="true">
+<div class="custom-small reveal" id="theEmailModal" data-reveal="" data-close-on-click="true">
 	
 	<div class="modal-header">
-    <div class="h1">Get on the List</div>
+    <div class="h1"></div>
 </div>
-<div class="errorMessageContent"></div>
+<div class="messageContent"></div>
 
 	
 	
@@ -2508,7 +2467,7 @@ the business, see for yourself</div>
 
 	
 	</div>	
-	</div><div class="reveal-overlay"><div class="modal-size reveal" data-reveal="" id="optInModal" style="width: 60%" role="dialog" aria-hidden="true" data-yeti-box="optInModal" data-resize="optInModal" data-t="cfcjl6-t">
+	</div><div class="reveal-overlay"><div class="modal-size reveal" data-reveal="" id="optInModal" style="width: 60%" role="dialog" aria-hidden="true" data-yeti-box="optInModal" data-resize="optInModal" data-t="z0kwuc-t">
 <div class="row">
 <div class="column mt-3">
 <h3>OPT-IN SUCCESS</h3>
@@ -2528,7 +2487,7 @@ the business, see for yourself</div>
 <div class="row">
 <div class="column text-center"><button aria-label="Close modal" class="button close-modal-button" data-close="" type="button"><span aria-hidden="true">×</span></button><button aria-label="Close modal" class="button mt-3 mb-1" data-close="" type="button">OK</button></div>
 </div>
-</div></div><div class="reveal-overlay"><div class="modal-size reveal" data-reveal="" id="optOutModal" role="dialog" aria-hidden="true" data-yeti-box="optOutModal" data-resize="optOutModal" data-t="1gifr5-t">
+</div></div><div class="reveal-overlay"><div class="modal-size reveal" data-reveal="" id="optOutModal" role="dialog" aria-hidden="true" data-yeti-box="optOutModal" data-resize="optOutModal" data-t="y8nlku-t">
 <div class="row">
 <div class="column mt-3">
 <h3>OPT-OUT SUCCESS</h3>
@@ -2549,7 +2508,7 @@ the business, see for yourself</div>
 <div class="row">
 <div class="column text-center"><button aria-label="Close modal" class="button close-modal-button" data-close="" type="button"><span aria-hidden="true">×</span></button><button aria-label="Close modal" class="button mt-3 mb-1" data-close="" type="button">OK</button></div>
 </div>
-</div></div><div class="reveal-overlay"><div id="globalModal" class="reveal small" data-reveal="" role="dialog" aria-hidden="true" data-yeti-box="globalModal" data-resize="globalModal" data-t="7a15pz-t"></div></div><div class="reveal-overlay"><div class="custom-medium reveal" id="fsdetailsmodal2" data-reveal="" data-close-on-click="true" role="dialog" aria-hidden="true" data-yeti-box="fsdetailsmodal2" data-resize="fsdetailsmodal2" data-t="l07qg9-t">
+</div></div><div class="reveal-overlay"><div id="globalModal" class="reveal small" data-reveal="" role="dialog" aria-hidden="true" data-yeti-box="globalModal" data-resize="globalModal" data-t="h99xmy-t"></div></div><div class="reveal-overlay"><div class="custom-medium reveal" id="fsdetailsmodal" data-reveal="" data-close-on-click="true" role="dialog" aria-hidden="true" data-yeti-box="fsdetailsmodal" data-resize="fsdetailsmodal" data-t="k2r49g-t">
                     <div class="modal-header">
                         <h3><span class="h1">SHIPPING POLICIES</span></h3> </div> <style type="text/css">#buttontext1 {
 width: 245px;
@@ -2572,12 +2531,199 @@ padding: 5px;
 </style>
 <p>&nbsp;</p>
 
-<h2><strong>Free Shipping on Orders Over $75</strong></h2>
+<h2><strong>Free Shipping</strong></h2>
 
 <div id="buttontext1"><a href="/store/free-shipping-eligible?icid=GL_UMB1_Shipping30shop"><b>Shop Free Shipping Eligible Styles ▶</b></a></div>
 
 <p><br>
-This offer for free shipping (“Free Economy Shipping Offer”) applies to Economy shipping on eligible orders with a minimum order value of $75.01 or more. Free shipping is automatically applied in checkout. Minimum order value must be met after application of any Winner’s Circle reward and before the application of all taxes, and any applicable shipping charges and surcharges. Cannot be combined with any other promotional shipping offer, discount or coupon, nor applied to previous purchases. Premium and select launch products may be excluded from this offer at Finish Line’s discretion. This Free Economy Shipping Offer is not extended to resellers, wholesalers or diverters. Not available for orders shipped to APO/FPO addresses, P.O. boxes or orders shipped to Alaska or Hawaii. Availability of qualifying item(s) may vary over the course of this promotion. The Free Economy Shipping Offer is limited to available inventory of qualifying item(s) while supplies last. No rain checks are available. Offer valid for online purchases only. Void where prohibited. <b>Free Economy Shipping Offer is available for a limited time only (12:00 am ET December 3, 2018 through 11:59 pm ET December 13, 2018). Additional exclusions, restrictions and/or Finish Line terms of purchase and return may apply. Finish Line reserves the right to modify or discontinue this offer at any time.</b></p>
+Finish Line offers FREE SHIPPING on any order containing only full-priced item(s) where the order subtotal is more than $30.00, subject to the following terms:</p>
+
+<ul>
+	<li>Orders will only be delivered to U.S. residential addresses or P.O. Boxes via Economy Shipping by the U.S. Postal Service (in partnership with UPS).</li>
+	<li>Orders containing any item(s) marked as on sale in addition to any full-priced item(s) are not eligible for this offer.</li>
+	<li>Some premium and select launch product(s) are not eligible for this offer. Shipping promotion will not be applied to these product(s) at check-out. Gift cards are not eligible for this offer.</li>
+	<li>Minimum order value must be met after application of any discount, coupon, promotion, Winner’s Circle reward.</li>
+	<li>Minimum order value will be determined before application of all applicable taxes, shipping charges and surcharges.</li>
+	<li>Offer is not available for orders shipped to Alaska or Hawaii. Orders may not be shipped to Puerto Rico, Guam, APO/FPO Boxes or international addresses.</li>
+	<li>Offer cannot be applied to prior, completed purchases.</li>
+	<li>Offer is not available to resellers, wholesalers or diverters.</li>
+	<li>Offer valid for online purchases made at finishline.com only.</li>
+	<li>Finish Line reserves the right to modify or discontinue this offer at any time.</li>
+</ul>
+
+<p>&nbsp;</p>
+
+<h2><strong>$7 Flat Rate Shipping</strong></h2>
+
+<div id="buttontext2"><a href="/all-sale?icid=GL_UMB1_Shippingsaleshop"><b>Shop All Sale Styles ▶</b></a></div>
+
+<p><br>
+Finish Line offers $7 FLAT RATE SHIPPING on any order containing any item(s) marked as on sale, subject to the following terms:</p>
+
+<ul>
+	<li>Orders will only be delivered to U.S. residential addresses or P.O. Boxes via Economy Shipping by the U.S. Postal Service (in partnership with UPS).</li>
+	<li>Orders containing full-priced item(s) in addition to any item(s) marked as on sale are eligible for this offer.</li>
+	<li>Some premium and select launch product(s) are not eligible for this offer. Shipping promotion will not be applied to these product(s) at check-out. Gift cards are not eligible for this offer.</li>
+	<li>Offer is not available for orders shipped to Alaska or Hawaii. Orders may not be shipped to Puerto Rico, Guam, APO/FPO Boxes or international addresses.</li>
+	<li>Offer cannot be applied to prior, completed purchases.</li>
+	<li>Offer is not available to resellers, wholesalers or diverters.</li>
+	<li>Offer valid for online purchases made at finishline.com only.</li>
+	<li>Finish Line reserves the right to modify or discontinue this offer at any time.</li>
+</ul>
+
+<p dir="ltr" style="line-height:1.38;margin-top:0pt;margin-bottom:0pt;"><span id="docs-internal-guid-e1844b9b-8a2f-f1dc-e1bf-a7fd08fcf760"><span style="font-size: 10pt; font-family: Arial; background-color: transparent; font-weight: 700; font-variant-numeric: normal; font-variant-east-asian: normal; text-decoration-line: underline; text-decoration-skip-ink: none; vertical-align: baseline; white-space: pre-wrap;">Other Shipping Options</span></span></p>
+
+<p dir="ltr" style="line-height:1.38;margin-top:0pt;margin-bottom:0pt;">&nbsp;</p>
+
+<div dir="ltr" style="margin-left:0pt;">
+<table style="border:none;border-collapse:collapse">
+	<colgroup>
+		<col width="100">
+		<col width="100">
+		<col width="100">
+		<col width="100">
+	</colgroup>
+	<tbody>
+		<tr style="height:15pt">
+			<td colspan="4" style="border-width: 0.75pt; border-style: solid; border-color: rgb(204, 204, 204); vertical-align: bottom; padding: 2pt;">
+			<p dir="ltr" style="line-height:1.38;margin-top:0pt;margin-bottom:0pt;"><span id="docs-internal-guid-e1844b9b-8a2f-f1dc-e1bf-a7fd08fcf760"><span style="font-size: 10pt; font-family: Arial; background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;"><b>Continental U.S. Shipping Information</b></span></span></p>
+			</td>
+		</tr>
+		<tr style="height:15pt">
+			<td style="border-left:solid #cccccc 0.75pt;border-right:solid #cccccc 0.75pt;border-bottom:solid #cccccc 0.75pt;border-top:solid #cccccc 0.75pt;vertical-align:bottom;background-color:#f2f2f2;padding:2pt 2pt 2pt 2pt;">
+			<p dir="ltr" style="line-height:1.38;margin-top:0pt;margin-bottom:0pt;"><span id="docs-internal-guid-e1844b9b-8a2f-f1dc-e1bf-a7fd08fcf760"><span style="font-size: 10pt; font-family: Arial; background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;">Economy</span></span></p>
+			</td>
+			<td style="border-left:solid #cccccc 0.75pt;border-right:solid #cccccc 0.75pt;border-bottom:solid #cccccc 0.75pt;border-top:solid #cccccc 0.75pt;vertical-align:bottom;background-color:#f2f2f2;padding:2pt 2pt 2pt 2pt;">
+			<p dir="ltr" style="line-height:1.38;margin-top:0pt;margin-bottom:0pt;"><span id="docs-internal-guid-e1844b9b-8a2f-f1dc-e1bf-a7fd08fcf760"><span style="font-size: 10pt; font-family: Arial; background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;">*UPS Ground</span></span></p>
+			</td>
+			<td style="border-left:solid #cccccc 0.75pt;border-right:solid #cccccc 0.75pt;border-bottom:solid #cccccc 0.75pt;border-top:solid #cccccc 0.75pt;vertical-align:bottom;background-color:#f2f2f2;padding:2pt 2pt 2pt 2pt;">
+			<p dir="ltr" style="line-height:1.38;margin-top:0pt;margin-bottom:0pt;"><span id="docs-internal-guid-e1844b9b-8a2f-f1dc-e1bf-a7fd08fcf760"><span style="font-size: 10pt; font-family: Arial; background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;">Rush</span></span></p>
+			</td>
+			<td style="border-left:solid #cccccc 0.75pt;border-right:solid #cccccc 0.75pt;border-bottom:solid #cccccc 0.75pt;border-top:solid #cccccc 0.75pt;vertical-align:bottom;background-color:#f2f2f2;padding:2pt 2pt 2pt 2pt;">
+			<p dir="ltr" style="line-height:1.38;margin-top:0pt;margin-bottom:0pt;"><span id="docs-internal-guid-e1844b9b-8a2f-f1dc-e1bf-a7fd08fcf760"><span style="font-size: 10pt; font-family: Arial; background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;">Express</span></span></p>
+			</td>
+		</tr>
+		<tr style="height:15pt">
+			<td style="border-width: 0.75pt; border-style: solid; border-color: rgb(204, 204, 204); vertical-align: bottom; padding: 2pt;">
+			<p dir="ltr" style="line-height:1.38;margin-top:0pt;margin-bottom:0pt;"><span id="docs-internal-guid-e1844b9b-8a2f-f1dc-e1bf-a7fd08fcf760"><span style="font-size: 10pt; font-family: Arial; background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;">$7.00*</span></span></p>
+			</td>
+			<td style="border-width: 0.75pt; border-style: solid; border-color: rgb(204, 204, 204); vertical-align: bottom; padding: 2pt;">
+			<p dir="ltr" style="line-height:1.38;margin-top:0pt;margin-bottom:0pt;"><span id="docs-internal-guid-e1844b9b-8a2f-f1dc-e1bf-a7fd08fcf760"><span style="font-size: 10pt; font-family: Arial; background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;">$9.99</span></span></p>
+			</td>
+			<td style="border-width: 0.75pt; border-style: solid; border-color: rgb(204, 204, 204); vertical-align: bottom; padding: 2pt;">
+			<p dir="ltr" style="line-height:1.38;margin-top:0pt;margin-bottom:0pt;"><span id="docs-internal-guid-e1844b9b-8a2f-f1dc-e1bf-a7fd08fcf760"><span style="font-size: 10pt; font-family: Arial; background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;">$22.99</span></span></p>
+			</td>
+			<td style="border-width: 0.75pt; border-style: solid; border-color: rgb(204, 204, 204); vertical-align: bottom; padding: 2pt;">
+			<p dir="ltr" style="line-height:1.38;margin-top:0pt;margin-bottom:0pt;"><span id="docs-internal-guid-e1844b9b-8a2f-f1dc-e1bf-a7fd08fcf760"><span style="font-size: 10pt; font-family: Arial; background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;">$32.99</span></span></p>
+			</td>
+		</tr>
+		<tr style="height:15pt">
+			<td style="border-width: 0.75pt; border-style: solid; border-color: rgb(204, 204, 204); vertical-align: bottom; padding: 2pt;">&nbsp;</td>
+			<td style="border-left:solid #cccccc 0.75pt;border-right:solid #cccccc 0.75pt;border-bottom:solid #cccccc 0.75pt;border-top:solid #cccccc 0.75pt;vertical-align:bottom;padding:2pt 2pt 2pt 2pt;">&nbsp;</td>
+			<td style="border-left:solid #cccccc 0.75pt;border-right:solid #cccccc 0.75pt;border-bottom:solid #cccccc 0.75pt;border-top:solid #cccccc 0.75pt;vertical-align:bottom;padding:2pt 2pt 2pt 2pt;">&nbsp;</td>
+			<td style="border-left:solid #cccccc 0.75pt;border-right:solid #cccccc 0.75pt;border-bottom:solid #cccccc 0.75pt;border-top:solid #cccccc 0.75pt;vertical-align:bottom;padding:2pt 2pt 2pt 2pt;">&nbsp;</td>
+		</tr>
+		<tr style="height:15pt">
+			<td colspan="2" style="border-left:solid #cccccc 0.75pt;border-right:solid #cccccc 0.75pt;border-bottom:solid #cccccc 0.75pt;border-top:solid #cccccc 0.75pt;vertical-align:bottom;background-color:#f2f2f2;padding:2pt 2pt 2pt 2pt;">
+			<p dir="ltr" style="line-height:1.38;margin-top:0pt;margin-bottom:0pt;"><span id="docs-internal-guid-e1844b9b-8a2f-f1dc-e1bf-a7fd08fcf760"><span style="font-size: 10pt; font-family: Arial; background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;"><b>Alaska and Hawaii</b></span></span></p>
+			</td>
+			<td style="border-left:solid #cccccc 0.75pt;border-right:solid #cccccc 0.75pt;border-bottom:solid #cccccc 0.75pt;border-top:solid #cccccc 0.75pt;vertical-align:bottom;padding:2pt 2pt 2pt 2pt;">&nbsp;</td>
+			<td style="border-left:solid #cccccc 0.75pt;border-right:solid #cccccc 0.75pt;border-bottom:solid #cccccc 0.75pt;border-top:solid #cccccc 0.75pt;vertical-align:bottom;padding:2pt 2pt 2pt 2pt;">&nbsp;</td>
+		</tr>
+		<tr style="height:15pt">
+			<td style="border-width: 0.75pt; border-style: solid; border-color: rgb(204, 204, 204); vertical-align: bottom; padding: 2pt;">
+			<p dir="ltr" style="line-height:1.38;margin-top:0pt;margin-bottom:0pt;"><span id="docs-internal-guid-e1844b9b-8a2f-f1dc-e1bf-a7fd08fcf760"><span style="font-size: 10pt; font-family: Arial; color: rgb(0, 0, 0); background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;">Economy</span></span></p>
+			</td>
+			<td style="border-width: 0.75pt; border-style: solid; border-color: rgb(204, 204, 204); vertical-align: bottom; padding: 2pt;">
+			<p dir="ltr" style="line-height:1.38;margin-top:0pt;margin-bottom:0pt;"><span id="docs-internal-guid-e1844b9b-8a2f-f1dc-e1bf-a7fd08fcf760"><span style="font-size: 10pt; font-family: Arial; color: rgb(0, 0, 0); background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;">UPS Ground</span></span></p>
+			</td>
+			<td style="border-left:solid #cccccc 0.75pt;border-right:solid #cccccc 0.75pt;border-bottom:solid #cccccc 0.75pt;border-top:solid #cccccc 0.75pt;vertical-align:bottom;padding:2pt 2pt 2pt 2pt;">
+			<p dir="ltr" style="line-height:1.38;margin-top:0pt;margin-bottom:0pt;"><span id="docs-internal-guid-e1844b9b-8a2f-f1dc-e1bf-a7fd08fcf760"><span style="font-size: 10pt; font-family: Arial; color: rgb(0, 0, 0); background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;">Rush</span></span></p>
+			</td>
+			<td style="border-left:solid #cccccc 0.75pt;border-right:solid #cccccc 0.75pt;border-bottom:solid #cccccc 0.75pt;border-top:solid #cccccc 0.75pt;vertical-align:bottom;padding:2pt 2pt 2pt 2pt;">
+			<p dir="ltr" style="line-height:1.38;margin-top:0pt;margin-bottom:0pt;"><span id="docs-internal-guid-e1844b9b-8a2f-f1dc-e1bf-a7fd08fcf760"><span style="font-size: 10pt; font-family: Arial; color: rgb(0, 0, 0); background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;">Express</span></span></p>
+			</td>
+		</tr>
+		<tr style="height:15pt">
+			<td style="border-width: 0.75pt; border-style: solid; border-color: rgb(204, 204, 204); vertical-align: bottom; padding: 2pt;">
+			<p dir="ltr" style="line-height:1.38;margin-top:0pt;margin-bottom:0pt;">$9.99</p>
+			</td>
+			<td style="border-width: 0.75pt; border-style: solid; border-color: rgb(204, 204, 204); vertical-align: bottom; padding: 2pt;">
+			<p dir="ltr" style="line-height:1.38;margin-top:0pt;margin-bottom:0pt;">$14.99</p>
+			</td>
+			<td style="border-left:solid #cccccc 0.75pt;border-right:solid #cccccc 0.75pt;border-bottom:solid #cccccc 0.75pt;border-top:solid #cccccc 0.75pt;vertical-align:bottom;padding:2pt 2pt 2pt 2pt;">
+			<p dir="ltr" style="line-height:1.38;margin-top:0pt;margin-bottom:0pt;">$22.99</p>
+			</td>
+			<td style="border-left:solid #cccccc 0.75pt;border-right:solid #cccccc 0.75pt;border-bottom:solid #cccccc 0.75pt;border-top:solid #cccccc 0.75pt;vertical-align:bottom;padding:2pt 2pt 2pt 2pt;">
+			<p dir="ltr" style="line-height:1.38;margin-top:0pt;margin-bottom:0pt;">$32.99</p>
+
+			<p dir="ltr" style="line-height:1.38;margin-top:0pt;margin-bottom:0pt;">&nbsp;</p>
+			</td>
+		</tr>
+	</tbody>
+</table>
+</div>
+
+<p>*UPS partners with the U.S. postal Service to make Economy deliveries<br>
+*Orders that are eligible for free shipping will be sent Economy<br>
+*Economy deliveries may only be shipped to residential addresses per an agreement between UPS and the US Post Office (USPS). Select from Ground, Rush and Express delivery methods when shipping to commercial addresses.</p>
+
+<p><u><strong>Shipment Times</strong></u><br>
+Product availability will determine when the items in your order will ship. Orders with one or more items may be shipped from separate locations. All Finish Line orders are shipped via UPS.<br>
+The availability estimate on each item's product information page refers only to how long it will take to process the order. In transit times will vary based on the order's final destination.</p>
+
+<p><u><strong>How can I ship to a PO Box?</strong></u><br>
+Based on agreements between the US Post Office (USPS) and UPS, UPS can deliver to USPS owned property via the Economy shipping method only. Please enter your PO Box in the Apt/Suite line on the shipping page.</p>
+
+<p><u><strong>Why can't I ship to an APO/FPO Box</strong></u><br>
+Finish Line uses United Parcel Service (UPS) to ship products to our customers. Based on agreements between the US Post Office (USPS)and United Parcel Service (UPS), UPS cannot make deliveries to USPS-owned property. If you have an APO box, please make arrangements to have your Finish Line purchase delivered to a physical address where UPS is authorized to deliver. We apologize for any inconvenience this may cause.</p>
+
+<p><u><strong>Multiple Item Orders</strong></u><br>
+In order to show an expanded inventory online, Finish Line may ship some of the items listed online from one of our nationwide retail stores. Because of this, items in your order may be shipped from separate locations. On certain items, Finish Line reserves the right to restrict product quantities per order at their discretion.</p>
+                    
+                    <button class="close-icon" data-close="" aria-label="Close Modal"></button>
+                </div></div><div class="reveal-overlay"><div class="custom-medium reveal" id="fsdetailsmodal2" data-reveal="" data-close-on-click="true" role="dialog" aria-hidden="true" data-yeti-box="fsdetailsmodal2" data-resize="fsdetailsmodal2" data-t="fz3rrw-t">
+                    <div class="modal-header">
+                        <h3><span class="h1">SHIPPING POLICIES</span></h3> </div> <style type="text/css">#buttontext1 {
+width: 245px;
+border-width: 1px;
+border-style: solid;
+border-color: #008FDB;
+padding: 5px;
+ -webkit-border-radius: 5px;
+  border-radius: 5px;
+}
+#buttontext2 {
+width: 156px;
+border-width: 1px;
+border-style: solid;
+border-color: #008FDB;
+padding: 5px;
+ -webkit-border-radius: 5px;
+  border-radius: 5px;
+}
+</style>
+<p>&nbsp;</p>
+
+<h2><strong>Free Shipping</strong></h2>
+
+<div id="buttontext1"><a href="/store/free-shipping-eligible?icid=GL_UMB2_Shipping30shop"><b>Shop Free Shipping Eligible Styles ▶</b></a></div>
+
+<p><br>
+Finish Line offers FREE SHIPPING on any order containing only full-priced item(s) where the order subtotal is more than $30.00, subject to the following terms:</p>
+
+<ul>
+	<li>Orders will only be delivered to U.S. residential addresses or P.O. Boxes via Economy Shipping by the U.S. Postal Service (in partnership with UPS).</li>
+	<li>Orders containing any item(s) marked as on sale in addition to any full-priced item(s) are not eligible for this offer.</li>
+	<li>Some premium and select launch product(s) are not eligible for this offer. Shipping promotion will not be applied to these product(s) at check-out. Gift cards are not eligible for this offer.</li>
+	<li>Minimum order value must be met after application of any discount, coupon, promotion, Winner’s Circle reward.</li>
+	<li>Minimum order value will be determined before application of all applicable taxes, shipping charges and surcharges.</li>
+	<li>Offer is not available for orders shipped to Alaska or Hawaii. Orders may not be shipped to Puerto Rico, Guam, APO/FPO Boxes or international addresses.</li>
+	<li>Offer cannot be applied to prior, completed purchases.</li>
+	<li>Offer is not available to resellers, wholesalers or diverters.</li>
+	<li>Offer valid for online purchases made at finishline.com only.</li>
+	<li>Finish Line reserves the right to modify or discontinue this offer at any time.</li>
+</ul>
 
 <p>&nbsp;</p>
 
@@ -2674,16 +2820,16 @@ Finish Line offers $7 FLAT RATE SHIPPING on any order containing any item(s) mar
 		</tr>
 		<tr style="height:15pt">
 			<td style="border-width: 0.75pt; border-style: solid; border-color: rgb(204, 204, 204); vertical-align: bottom; padding: 2pt;">
-			<p dir="ltr" style="line-height:1.38;margin-top:0pt;margin-bottom:0pt;"><span id="docs-internal-guid-e1844b9b-8a2f-f1dc-e1bf-a7fd08fcf760"><span style="font-size: 10pt; font-family: Arial; background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;">N/A</span></span></p>
+			<p dir="ltr" style="line-height:1.38;margin-top:0pt;margin-bottom:0pt;">$9.99</p>
 			</td>
 			<td style="border-width: 0.75pt; border-style: solid; border-color: rgb(204, 204, 204); vertical-align: bottom; padding: 2pt;">
-			<p dir="ltr" style="line-height:1.38;margin-top:0pt;margin-bottom:0pt;"><span id="docs-internal-guid-e1844b9b-8a2f-f1dc-e1bf-a7fd08fcf760"><span style="font-size: 10pt; font-family: Arial; background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;">N/A</span></span></p>
+			<p dir="ltr" style="line-height:1.38;margin-top:0pt;margin-bottom:0pt;">$14.99</p>
 			</td>
 			<td style="border-left:solid #cccccc 0.75pt;border-right:solid #cccccc 0.75pt;border-bottom:solid #cccccc 0.75pt;border-top:solid #cccccc 0.75pt;vertical-align:bottom;padding:2pt 2pt 2pt 2pt;">
-			<p dir="ltr" style="line-height:1.38;margin-top:0pt;margin-bottom:0pt;"><span id="docs-internal-guid-e1844b9b-8a2f-f1dc-e1bf-a7fd08fcf760"><span style="font-size: 10pt; font-family: Arial; background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;">$24.99</span></span></p>
+			<p dir="ltr" style="line-height:1.38;margin-top:0pt;margin-bottom:0pt;"><span id="docs-internal-guid-e1844b9b-8a2f-f1dc-e1bf-a7fd08fcf760"><span style="font-size: 10pt; font-family: Arial; background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;">$22.99</span></span></p>
 			</td>
 			<td style="border-left:solid #cccccc 0.75pt;border-right:solid #cccccc 0.75pt;border-bottom:solid #cccccc 0.75pt;border-top:solid #cccccc 0.75pt;vertical-align:bottom;padding:2pt 2pt 2pt 2pt;">
-			<p dir="ltr" style="line-height:1.38;margin-top:0pt;margin-bottom:0pt;"><span id="docs-internal-guid-e1844b9b-8a2f-f1dc-e1bf-a7fd08fcf760"><span style="font-size: 10pt; font-family: Arial; color: rgb(0, 0, 0); background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;">N/A</span></span></p>
+			<p dir="ltr" style="line-height:1.38;margin-top:0pt;margin-bottom:0pt;">$32.99</p>
 			</td>
 		</tr>
 	</tbody>
@@ -2706,18 +2852,8 @@ Finish Line uses United Parcel Service (UPS) to ship products to our customers. 
 
 <p><u><strong>Multiple Item Orders</strong></u><br>
 In order to show an expanded inventory online, Finish Line may ship some of the items listed online from one of our nationwide retail stores. Because of this, items in your order may be shipped from separate locations. On certain items, Finish Line reserves the right to restrict product quantities per order at their discretion.</p>
-
-<p><u><strong>Drop Ship Items</strong></u><br>
-Certain items we offer for sale may be shipped directly from the manufacturer to you. Currently, these items may only be shipped by Economy method of delivery. <b>Please note, estimated delivery ranges for Drop Ship Items shipped by Economy may vary from our standard estimated delivery ranges for Economy method of delivery.</b></p>
-
-<p>If an order contains Drop Ship Items and non-Drop Ship Items, the order will be shipped in multiple packages, with the estimated time of delivery determined by whether or not the item to be delivered is a Drop Ship Item. You may receive separate shipment notifications in this case. Drop Ship Items are not available for delivery to Alaska or Hawaii at this time.</p>
-
-<p>There are no shipping and handling fees for the delivery of orders containing Drop Ship Items. The delivery time-frames you see at checkout are estimates only and are based on the method of delivery, include both processing time and the time your item is in transit and start the day after the order is placed. Order fulfillment processing times may vary based on product availability.</p>
-
-<p><b>Continental U.S. Shipping &amp; Handling Fees and Estimated Delivery</b><br>
-Economy&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;$7.00&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;6-8 business days</p>
                     
                     <button class="close-icon" data-close="" aria-label="Close Modal"></button>
-                </div></div>	<script type="text/javascript">var _cf = _cf || []; _cf.push(['_setFsp', true]); _cf.push(['_setBm', true]);</script><script type="text/javascript" src="/_bm/abd-1-30"></script>	
+                </div></div><div class="reveal-overlay"><div class="reveal custom-medium" id="trackYourOrder" data-reveal="" role="dialog" aria-hidden="true" data-yeti-box="trackYourOrder" data-resize="trackYourOrder" data-t="yugpir-t"></div></div>	<script type="text/javascript">var _cf = _cf || []; _cf.push(['_setFsp', true]); _cf.push(['_setBm', true]); _cf.push(['_setAu', '/public/57ddb6fdd17897a098fef9e8109b6']);</script><script type="text/javascript" src="/public/57ddb6fdd17897a098fef9e8109b6"></script><noscript><img src="https://www.finishline.com/akam/10/pixel_1b66c381?a=dD01MzMzYWNhZGIzNzU0NzI1ZGI2MWY3YzNhZTZjYmQ2MDc3NDU1OTQ3JmpzPW9mZg==" style="visibility: hidden; position: absolute; left: -999px; top: -999px;" /></noscript>	
 
 </body></html>
