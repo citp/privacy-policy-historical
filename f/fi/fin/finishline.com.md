@@ -1,23 +1,23 @@
-> *The following text is extracted and transformed from the finishline.com privacy policy that was archived on 2018-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181206135727id_/https%3A//www.finishline.com/store/corporate/privacyPolicy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the finishline.com privacy policy that was archived on 2019-03-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190322030946id_/https%3A//www.finishline.com/store/corporate/privacyPolicy.jsp) for the most accurate reproduction.*
 
 # Customer Service Privacy Policy | Finish Line
 
   
-Effective as of: June 12, 2018
+Effective as of: February 25, 2019
 
 PRIVACY POLICY INTRODUCTION
 
   
-At Finish Line, we take seriously the trust you place in us when you choose to do business with us. Our Privacy Policy applies to information related to you that may be collected by Finish Line:
+At The Finish Line, Inc., we take seriously the trust you place in us when you choose to do business with us. Our Privacy Policy describes the information The Finish Line, Inc. and our brands, which include Finish Line and JD (“ **Brands** ”), collect about you. Our Privacy Policy applies to information related to you that may be collected by or for us:
 
-  * in our stores (“ **Retail Stores** ”) and shops located in Macy’s stores (“ **Shops** ”) (collectively, “Stores”);
+  * in our Finish Line and JD stores (“ **Retail Stores** ”) and Finish Line shops located in Macy’s stores (“ **Shops** ”) (collectively, “ **Stores** ”);
   * online at finishline.com and at our blog at [blog.finishline.com](https://blog.finishline.com/) (collectively, “ **Site** ”);
-  * when you purchase Finish Line athletic shoes through [macys.com](https://www.macys.com/shop/shoes/finish-line-athletic-shoes?id=63268);
+  * when you purchase athletic footwear offered by Finish Line through [macys.com](https://www.macys.com/shop/shoes/finish-line-athletic-shoes?id=63268);
   * through our mobile application(s) (“ **App** ”);
-  * in connection with our brand loyalty membership program known as [Winner’s Circle](https://www.finishline.com/wc_terms);
+  * in connection with our Finish Line brand loyalty membership program known as [Winner’s Circle](https://www.finishline.com/wc_terms);
   * for our sweepstakes, contests and surveys;
   * through our registration and event services;
-  * by Store associates and customer service representatives; and
+  * by Store associates (“ **Store Associates** ”) and customer service representatives; and
   * by and through emails, social media or other digital platforms, including our digital ads which may be delivered on third-party websites (collectively, “ **Internet Marketing Platforms** ”).
 
 
@@ -36,11 +36,11 @@ Our Privacy Policy describes:
 
 We strive to adhere to the Self-Regulatory Principles of the Digital Advertising Alliance, which establishes and enforces responsible privacy practices for digital advertising. As such, our Privacy Policy also includes our **[Interest-Based Ads Policy](https://www.finishline.com/interest-based-ads-policy) **.
 
-In our Privacy Policy, “ **Finish Line** ”, “ **we** ” and “ **our** ” mean Finish Line, Inc. and its subsidiaries and affiliates, and “ **you** ” means any person who accesses and uses our Services.
+In our Privacy Policy, “ **Finish Line** ”, “ **we** ” and “ **our** ” mean The Finish Line, Inc., including its Brands, and its subsidiaries and affiliates, and “ **you** ” means any person who accesses and uses our Services.
 
 We engage other companies to assist us in collecting and using information related to you as described in this Privacy Policy (“ **Providers** ”). Where we describe our collection and use practices in this Privacy Policy, our Providers may be engaged in the same or similar collection and use practices on our behalf.
 
-_By accessing or using any of our Services, you consent to the collection, use and disclosure of your information, including any information previously collected by and for Finish Line, as described in this Privacy Policy._
+_By accessing or using any of our Services, you consent to the collection, use and disclosure of your information, including any information previously collected by and for us, as described in this Privacy Policy._
 
   
 If you would prefer to make your purchase by telephone rather than in our Stores, on our Site, or on our App), please call us at **[1-888-777-3949](tel:18887773949) **. A Finish Line Customer Care representative will be happy to assist you.
@@ -52,17 +52,17 @@ PRIVACY POLICY CONTENTS
   
 Click on the following links to go directly to the corresponding sections of this Privacy Policy:
 
-  1. Customer Information Finish Line Collects
-  2. How Finish Line Collects Customer Information
-  3. How Finish Line Uses Customer Information
-  4. How Finish Line Shares Customer Information
-  5. Limiting Finish Line’s Collection and Use of Your Customer Information
-  6. Updating Personal Information with Finish Line
+  1. Customer Information We Collect
+  2. How We Collect Customer Information
+  3. How We Use Customer Information
+  4. How We Share Customer Information
+  5. Limiting Our Collection and Use of Your Customer Information
+  6. Updating Personal Information with Us
   7. Security Practices
   8. Storage of Customer Information and Data Transfers
   9. Other Notices and Disclosures
   10. Privacy Policy Updates
-  11. Contact Finish Line
+  11. Contact Us
 
 
 
@@ -120,8 +120,8 @@ We receive Customer Information from you when you use our Services, such as when
 
   * create a customer account on our Site or App.
   * create a [Winner’s Circle](https://www.finishline.com/wc_terms) account.
-  * place an order with us (by phone, online at our Site, on our App and in-Store, including through our “We’ve Got It” program).
-  * register for a free trial Sports Illustrated subscription in Retail Stores at the point-of-sale
+  * place an order with us (by phone, online at our Site, on our App and in-Store, including through our “We’ve Got It” program and our Store Kiosks).
+  * register for a free trial Sports Illustrated subscription in Finish Line Retail Stores at the point-of-sale
   * submit content you create on our Site, on our App and through our Internet Marketing Platforms, such as by liking a product or
   * posting a product review on our Site (“ **User Contribution** ”).
   * participate in customer research and surveys.
@@ -140,6 +140,7 @@ Please note, when you use a third party website or mobile application in connect
 We receive Automatically Collected Information about you when you use our Services where automated information collection and tracking technologies have been employed by us or by our Providers, such as:
 
   * when you interact with our Site or App on any device.
+  * when you interact with our Store Kiosks.
   * when you interact with our Internet Marketing Platforms, including email advertisements or digital ads delivered on a third-party website.
   * when you install our App and enable certain features such as location-based features.
   * when you interact directly with our Providers or with other websites, mobile applications or companies that these providers also work with.
@@ -185,7 +186,10 @@ We may receive certain Customer Information about you when you visit our Stores.
 **Store Beacons**. We use beacons in our Retail Stores (“ **Store Beacons** ”). Store Beacons are small devices that we use to enhance and make your in-store experience more interactive. Store Beacons broadcast a Bluetooth signal that can be received by Bluetooth-enabled devices, such as a mobile device, when those devices are within certain geographic distance or proximity to a Store Beacon. In-app permissions, such as permission to access location and accept push notifications, must be enabled for a Store Beacon to interact with a specific Bluetooth-enabled device. Store Beacon preferences are managed through your device (including through Bluetooth, location and push notification settings).
 
   
-**Memory Mirrors by Memomi**. In select Retail Stores, we offer you the opportunity to interact with Memory Mirrors made available by [Memomi](http://memorymirror.com/). A Memory Mirror is a Wi-Fi connected mirror equipped with a camera that allows you to view, take a photo and shoot a brief video of you wearing footwear we offer. During a Memory Mirror session, you may retain the photo or video that you take via the memory mirror by providing your mobile phone number and sending the photo or video to your mobile phone. Once the photo or video is sent to your mobile phone, you will have the option of saving the photo or video to your mobile phone, sharing it via email or sharing it on various social media platforms. Photos and videos sent to your mobile phone are not stored by us or Memomi. Photos and videos and any other data you may have provided during your session will be securely destroyed by Memomi when you end a Memory Mirror session.
+**Store Kiosks**. We offer store kiosks in select Retail Stores (“ **Store Kiosks** ”). Customers may browse for products on Store Kiosks and place orders through Store Kiosks. We may receive Automatically Collected Information when our customers interact with and place orders on our Store Kiosks. We use this information to help us understand how our customers use our Store Kiosks and to improve our customers’ shopping experience. Please note, on our Store Kiosks, a user may not be able to adjust browser settings that typically allow a user to manage cookies.
+
+  
+**Memory Mirrors by Memomi**. In select Retail Stores, we offer you the opportunity to interact with Memory Mirrors made available by [Memomi](http://memorymirror.com/). A Memory Mirror is a Wi-Fi connected mirror equipped with a camera that allows you to view, take a photo and shoot a brief video of you wearing footwear we offer. During a Memory Mirror session, you may retain the photo or video that you take via the Memory Mirror by providing your mobile phone number and sending the photo or video to your mobile phone. Once the photo or video is sent to your mobile phone, you will have the option of saving the photo or video to your mobile phone, sharing it via email or sharing it on various social media platforms. Photos and videos sent to your mobile phone are not stored by us or Memomi. Photos and videos and any other data you may have provided during your session will be securely destroyed by Memomi when you end a Memory Mirror session.
 
   
 **Video Cameras**. We use cameras in our Stores for security purposes, to protect our assets and to measure customer traffic patterns. Cameras may capture your demographic information, such as age and gender, when you visit our Stores.
@@ -241,19 +245,20 @@ Examples of how we use Customer Information for these purposes are listed below.
   * Communicate with you regarding your transactions with us, including purchases, orders, payments and returns or exchanges
   * Communicate with you regarding your Winner’s Circle membership, including benefits you earn under this brand loyalty membership program
   * Respond to requests for information about our products and services in our Stores, on our Site or App or to otherwise serve you
+  * Communicate weith you regarding our Brands
   * Connect with you to deliver customer service through our Customer Care center or on social media or Internet chat platforms
 
 
 
 **_3\. For Marketing, Promotions and Advertising (including Interest-Based Advertising)_ **
 
-  * Personalize your experiences with us through our Services, such as by identifying your product and shopping preferences
+  * Personalize your experiences with our Brands through our Services, such as by identifying your product and shopping preferences
   * Deliver coupons, in-Store receipt messages, emails, App messages (including push notifications) and social media notifications
   * Provide interactive features of the Site, App and Internet Marketing Platforms, such as product reviews
-  * Send communications and other information regarding products, services and promotions
+  * Send communications and other information regarding our Brands' products, services and promotions that we believe may be of interest to you
   * Administer surveys, sweepstakes, contests, promotions and focus groups
   * Organize local community events, promotions and in-Store experiences
-  * Provide personalized communications and services across all channels and platforms, including by personalizing our advertising, marketing communications, shopping experiences and promotional offers
+  * Provide personalized communications and services across all channels and platforms and all of our Brands, including by personalizing our advertising, marketing communications, shopping experiences and promotional offers
 
 
 
@@ -283,11 +288,12 @@ Please click [HERE](https://www.finishline.com/interest-based-ads-policy) to rev
 
 
 
-In general, we do not share your Customer Information with third parties for their marketing or advertising purposes (except that we may share your Customer Information with our affiliates for such purposes).
+A Brand may share Customer Information it collects with our other Brands. Use of any Customer Information shared among our Brands by our Brands is subject to our Privacy Policy.
+
+In general, we do not share your Customer Information with third parties for their marketing or advertising purposes (except that we may share your Customer Information with our affiliates, including any parent or subsidiary entity, for such purposes).
 
 We may share Customer Information we collect with third parties for other purposes, such as in the following ways:
 
-  * **Internally**. Within Finish Line (this includes all Finish Line affiliates).
   * **With our Providers**. To companies who perform a business, professional or technical support function for us, including services for improving our products and services and our delivery of products and services to you. Such services include, for example, mobile marketing services, analytics, call center/chat services, payment processing, data enhancement, fraud prevention and shipping services.
   * **With social media platforms** , such as Facebook, Twitter, YouTube, Pinterest and Instagram through social media widgets and other tools used in connection with our Site and App, which may be deployed by our Providers (for example, tools for you to share content on our Site or App with your friends and followers on social media).
   * **To comply with the law**. To comply with applicable law or reasonable requests for information based on governmental regulation, court order, subpoena or a similar related action.
@@ -297,7 +303,7 @@ We may share Customer Information we collect with third parties for other purpos
 
 
 
-We strive to offer you choices about how we collect and use Customer Information relating to you. Please be aware that disallowing certain data collection may limit the usefulness of our Services, including our Site and App. Your choices include the following:
+We strive to offer you choices about how we collect and use Customer Information relating to you. Please be aware that disallowing certain data collection may limit the usefulness of our Services, including our Site and App and across our Brands. Your choices include the following:
 
 **1\. Postal Mail, Text Messages and Emails**
 
@@ -435,7 +441,7 @@ You may come into contact with emails, texts or mobile alerts that look like the
  
 
 If you have questions about this Privacy Policy or our practices, please contact us at:  
-The Finish Line, Inc.  
+The Finish Line, Inc. (d/b/a Finish Line and JD)  
 3308 North Mitthoeffer Road Indianapolis,  
 Indiana 46235  
 1-888-777-3949  
