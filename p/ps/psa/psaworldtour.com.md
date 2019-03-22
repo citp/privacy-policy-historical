@@ -1,152 +1,181 @@
-> *The following text is extracted and transformed from the psaworldtour.com privacy policy that was archived on 2018-02-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180201210557id_/https%3A//psaworldtour.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the psaworldtour.com privacy policy that was archived on 2019-03-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190322024730id_/https%3A//psaworldtour.com/privacy-policy) for the most accurate reproduction.*
 
 # Professional Squash Association Privacy Policy
 
-This Privacy Policy governs the manner in which the Professional Squash Association collects, uses, maintains and discloses information collected from users (each, a “User”) of the www.psaworldtour.com website (“Site”). This privacy policy applies to the Site and all products and Services offered by the Professional Squash Association.
+We are committed to safeguarding your information in line with the latest data protection and privacy laws. We want to be transparent about what information we collect about you, how we use it, and how you can control what we do with this information. We’ve detailed all this information in this Privacy Policy.
 
-#### Personal identification information
+#### About this notice
 
-We may collect personal identification information from Users in a variety of ways, including, but not limited to, when Users visit our site, register on the site, place an order, subscribe to the newsletter, respond to a survey, fill out a form, and in connection with other activities, Sites, features or resources we make available on our Site.  
-Users may be asked for, as appropriate, their name, email address, mailing address & phone number. We will collect personal identification information from Users only if they voluntarily submit such information to us. Users can always refuse to supply personally identification information, except that it may prevent them from engaging in certain Site related activities.
+This privacy notice applies to all users and customers of the Professional Squash Association website, [www.psaworldtour.com](https://psaworldtour.com/), it also applies to all products and services under the Professional Squash Association – including SquashTV.
 
-#### Non-personal identification information
+We collect and process personal information relating to you to ensure we deliver a personalised experience. We are committed to being transparent about how we collect and use data to meet our data protection obligations in accordance with the General Data Protection Regulations (GDPR).
 
-We may collect non-personal identification information about Users whenever they interact with our Site. Non-personal identification information may include the browser name, the type of computer and technical information about Users means of connection to our Site, such as the operating system and the Internet Site providers utilised and other similar information.
+In this notice, ‘We’, ‘Us’, ‘Our’ and ‘PSA’ means the Professional Squash Association and all of the services provided by the Professional Squash Association. ‘You’ and ‘Your’ are users and customers. PSA is the data controller and responsible for your personal data.
 
-#### Web browser cookies
+This Privacy Policy was last updated August 23, 2018.
 
-Our Site may use cookies to enhance User experience. Web browsers place cookies on a user’s hard drive for record-keeping purposes, and sometimes to track information about them. Users may choose to set their web browser to refuse cookies, or to alert you when cookies are being sent. If they do so, note that some parts of the Site may not function properly. A persistent cookie remains on your hard drive after you close your browser. Persistent cookies may be used by your browser on subsequent visits to the site. Persistent cookies can be removed by following your web browser’s directions. A session cookie is temporary and disappears after you close your browser. You can reset your web browser to refuse all cookies or to indicate when a cookie is being sent.
+#### The GDPR Principles
 
-#### Information we may receive from third parties
+We will comply with GDPR using these principles:
 
-We may receive information about you from third parties. For example, if you access our websites or Site through a third-party connection or log-in, for example, through Facebook Connect, that third party may pass certain information about your use of its Site to us. This information could include, but is not limited to, the user ID associated with your account (for example, your Facebook UID), an access token necessary to access that Site, any information that you have permitted the third party to share with us, and any information you have made public in connection with that Site. If you allow us access to your friends list, your friends’ user IDs, and your connection to those friends, may be used and stored to make your experience more social. You should always review, and if necessary, adjust your privacy settings on third-party websites and Sites before linking or connecting them. You may also unlink your third party account from the Site by adjusting your settings on the third party Site.
+  * To process data lawfully, fairly and in a transparent manner
+  * To collect data for specified, explicit and legitimate purposes, and only process it in a manner that is compatible with these purposes
+  * To ensure data is adequate, relevant and limited to what is necessary in relation to the purpose for which it is processed
+  * To ensure that data is accurate and kept up-to-date
+  * To ensure that data is kept in a form which permits identification of data subjects for no longer than is necessary for the purposes for which the personal data is processed
+  * To ensure data is processed in a manner that ensures appropriate security of the data, including protection against authorised or unlawful processing and accidental loss, destruction and damage.
 
-#### How we use collected information
-
-The Professional Squash Association may collect and use Users’ personal information for the following purposes:  
 
 
-  * To improve customer Site Information you provide helps us respond to your customer Site requests and support needs more efficiently.
-  * To personalise user experience We may use information in the aggregate to understand how our Users as a group use the Sites and resources provided on our Site.
-  * To improve our Site We may use feedback you provide to improve our products and Sites.
-  * To process payments We may use the information Users provide about themselves when placing an order only to provide Site to that order. We do not share this information with outside parties except to the extent necessary to provide the Site.
-  * To run a promotion, contest, survey or other Site feature
-  * To send Users information they agreed to receive about topics we think will be of interest to them.
-  * To send periodic emails We may use the email address to send User information and updates pertaining to their order. It may also be used to respond to their inquiries, questions, and/or other requests. If the User decides to opt-in to our mailing list, they will receive emails that may include company news, updates, related product or Site information, etc. If at any time the User would like to unsubscribe from receiving future emails, we include detailed unsubscribe instructions at the bottom of each email or User may contact us via our Site.
+#### What personal information do we collect and when?
+
+We collect and process a range of information about you.   
+This includes:
+
+  * Name
+  * Email address
+  * Address
+  * Gender
+  * Date of birth
+  * Payment details and your address
+  * Information about your use of our services including cookie data
+  * Your internet protocol (IP) address
+
+
+
+We collect this information in a variety of ways. For example, personal information is collected through sign-up forms on the website. 
+
+We collect this personal information when:
+
+  * You sign up for newsletters
+  * You take out a free SquashTV digital subscription
+  * Your take out a paid SquashTV subscription
+  * You buy tickets to PSA events
+  * You donate to the PSA Foundation
+  * You use the PSA website
+  * You enter PSA competitions and/or competitions managed by third parties, which we inform you about
+  * When you contact SquashTV/PSA customer services.
+
+
+
+We will seek personal information about you from third parties such as analytic platforms and provider of payment services.
+
+#### How long do we keep your personal information?
+
+We keep your personal information for only as long as necessary, which is longer in some cases than others. The length is determined on the purpose for which the personal information was obtained. For example:
+
+  * We may need to keep some personal information so we can deal with any complaints regarding the services we provide
+  * If you ask us to stop processing your personal data for direct marketing, we need to retain enough information about you to enable us to ensure we stop including you in those direct marketing activities
+  * We may have a legal duty to keep certain information for us and authorised third parties to abide by other laws including Payment Card Industry Data Security Standard. Unless there’s some other reason for keeping your personal information, your personal information will be deleted when it is no longer required, for example, if you have not opened any of our marketing email in two years, you will be removed from our mailing list.
+
+
+
+#### How will we use your personal information?
+
+We and our authorised third parties may use your information in a variety of ways, to:
+
+  * Monitor, develop and improve our services and/or your experience (this may include personalising the advertising content you see)
+  * Provide you with access to products and services
+  * Provide you with product and service recommendations
+  * Process payments from you to us
+  * Deal with complaints and enquiries made by you
+  * Contact you with essential information about our services (like account updates)
+  * Manage our relationship with you including monitoring compliance with our all relevant terms and conditions, policies and terms in connection with the services we provide and you use
+  * Send you marketing material depending on your preferences and consent
+  * Contact you in the event of you winning a prize and publish details if you win a competition
+  * Geo-restrict or regionalise our services to ensure we comply with our legal obligations
+
+We only process your personal information when we have legal grounds to do so. Generally, we only process it on the grounds:
+
+
+
+  * You have given us consent for the processing: please note you will always have the right to withdraw this consent at any time
+  * The processing is necessary for the performance of a contract to which you are party (for example, the terms and conditions of one of our services)
+  * The processing is necessary in order to take steps at your request prior to entering a contract
+  * The processing is necessary for the purposes of the legitimate interests pursued by us or a third party we deem of interest (for example, we have a legitimate interest in understanding how people use our services)
+
+
+
+In terms of geo-restricting, some of our content is only available in certain parts of the world. This is due to a range of legal contracts we’ve entered into. To ensure we only show you content when you’re in the appropriate territories, we detect the IP address of your device to work out your location.
+
+#### Do we share your personal information?
+
+We may pass your personal information onto third parties, for these reasons:  
+
+
+  * To third parties authorised by us and acting on our behalf such as our employees, contractors, suppliers and/or agents to administer services provided to you. These third parties are only allowed access to your information as needed to perform functions of the services or to provide services to us. They’re not allowed to use it for any other purpose.
+  * For marketing communications, where we have your consent to do so (see section below ‘We will send you marketing messages?’)
+  * In the event you win a competition, we’d share your name with our marketing channels and any image you supply to accompany the message
+  * We will disclose your data where legally required to, for example in the event of a subpoena or if we believe such action is necessary
+  * The only other time we will share your personal information is in order to protect the rights, property or personal safety of the PSA or our users.
   
 
 
 
-#### How we protect your information
+We require all third parties to respect the security of your personal information and to treat it in accordance with the law. We do not allow our third party service providers to use your personal information for their own purposes and only permit them to process your personal information for specified purposes and in accordance to our instructions. 
 
-We adopt appropriate data collection, storage and processing practices and security measures to protect against unauthorised access, alteration, disclosure or destruction of your personal information, username, password, transaction information and data stored on our Site.  
-Sharing your personal information  
-We do not sell, trade, or rent Users’ personal identification information to others. We may share generic aggregated demographic information not linked to any personal identification information regarding visitors and users with our business partners, trusted affiliates and advertisers for the purposes outlined above.We may use third party Site providers to help us operate our business and the Site or administer activities on our behalf, such as sending out newsletters or surveys. We may share your information with these third parties for those limited purposes provided that you have given us your permission.
+#### How do we protect your personal information?
 
-#### Third party websites
+We take the security of your personal information seriously. We have internal policies and controls in place to ensure, as far as we can, that your personal information is not lost, accidentally destroyed, misused or disclosed, and is not accessed by anyone who is not authorised to do so.
 
-Users may find advertising or other content on our Site that link to the sites and Sites of our partners, suppliers, advertisers, sponsors, licensors and other third parties. We do not control the content or links that appear on these sites and are not responsible for the practices employed by websites linked to or from our Site. In addition, these sites or Sites, including their content and links, may be constantly changing. These sites and Sites may have their own privacy policies and customer Site policies. Browsing and interaction on any other website, including websites which have a link to our Site, is subject to that website’s own terms and policies.
+As stated above, if an authorised third party uses your personal information while acting on our behalf, they do so in a professional and lawful manner. We expect them to abide by the same rules we do.
 
-#### Analytics information:
+We encrypt your personal information and use two-step authentication techniques wherever possible. We also use secure, purpose-built platforms to manage your personal information.
 
-We may directly collect analytics data, or use third-party analytics tools and Sites, to help us measure traffic and usage trends for the Professional Squash Association. These tools collect information sent by your browser or mobile device, including the pages you visit and other information that assists us in improving the Site. We collect and use this analytics information in aggregate form such that it cannot reasonably be manipulated to identify any particular individual user
+Please note it is your responsibility to keep your login details a secret and sharing of this information is against the SquashTV’s Terms and Conditions. 
 
-#### Log file information:
+#### Will we send you marketing communications?
 
-Log file information is automatically reported by your browser or mobile device each time you access the Site. When you use our Site, our servers automatically record certain log file information. These server logs may include anonymous information such as your web request, Internet Protocol (“IP”) address, browser type, referring / exit pages and URLs, number of clicks and how you interact with links on the Site, domain names, landing pages, pages viewed, and other such information.
+We only send you marketing communications if you provide your consent, for example by signing up for a subscription with the perks of newsletters.
 
-#### Device identifiers:
+Where we have your consent we may:
 
-When you access the Site by or through a mobile device (including but not limited to smart-phones or tablets), we may access, collect, monitor and/or remotely store one or more “device identifiers,” such as a universally unique identifier (“UUID”). Device identifiers are small data files or similar data structures stored on or associated with your mobile device, which uniquely identify your mobile device. A device identifier may be data stored in connection with the device hardware, data stored in connection with the device’s operating system or other software, or data sent to the device by Professional Squash Association. A device identifier may convey information to us about how you browse and use the Site. A device identifier may remain persistently on your device, to help you log in faster and enhance your navigation through the Site. Some features of the Site may not function properly if use or availability of device identifiers is impaired or disabled.
-
-#### Location data:
-
-When you access the Site by or through a mobile device, we may access, collect, monitor and/or remotely store “location data,” which may include GPS coordinates (e.g. latitude and/or longitude) or similar information regarding the location of your mobile device. Location data may convey to us information about how you browse and use the Site. Some features of the Site, particularly location-based Sites, may not function properly if use or availability of location data is impaired or disabled.
-
-#### Commercial and marketing communications:
-
-We use the information we collect or receive, such as your email address, to communicate directly with you. We may send you emails containing newsletters, promotions, and special offers. If you do not want to receive such email messages, you will be given the option to opt out or change your preferences. We also use your information to send you Site-related emails (e.g., account verification, purchase and billing confirmations and reminders, changes/updates to features of the Site, technical and security notices). You may not opt out of Site-related emails. You may also be able to be “found” on Professional Squash Association based on information that you provide (see “Find friends on Professional Squash Association”) above.
-
-#### Use of certain Site type information we collect about you:
-
-We use or may use cookies, log file, device identifiers, location data and clear gifs information to: (a) remember information so that you will not have to re-enter it during your visit or the next time you visit the site; (b) provide custom, personalised content and information; © to provide and monitor the effectiveness of our Site; (d) monitor aggregate metrics such as total number of visitors, traffic, and demographic patterns; (e) diagnose or fix technology problems; (f) help you efficiently access your information after you sign in; (g) to provide advertising to your browser or device, and (h) automatically update the Professional Squash Association application on your mobile devices.
-
-#### Sharing of Your Information
-
-We will not rent or sell your information into third parties outside Professional Squash Association and its group companies (including any parent, subsidiaries and affiliates) without your consent, except as noted below:
-
-  * Who we may share your information with: We may share your information with third-party business partners and Trusted Users for the purpose of providing the Site to you. Third party business partners will be given limited access to your information as is reasonably necessary to deliver the Site, and we will require that such third parties comply with this Privacy Policy, or operate under a similar privacy policy.
-
-
-  * Who can see User Content: Any User Content that you voluntarily disclose for posting to the Site becomes available to the public and cannot be removed, except by Professional Squash Association in its sole discretion. Once posted on Professional Squash Association, User Content may not be removable from public view, as copies may remain viewable in cached and archived pages of the Site, on other sites that have republished us, or if other Users have copied or saved that information. If you do not wish your User Content to be available to the public, please don’t post it on Professional Squash Association. Your username and if you choose to disclose it, your real name, will be published publicly. Once published your username and / or real name may not be able to be removed.
-
-
-  * Who can see your IP address: If you post User Content on the Site while not logged in, your IP address will be published with your User Content in order to attribute your contribution to the Site. A selection of Trusted Users with administrative powers on Professional Squash Association have the ability to review IP addresses of users to reduce abusive behavior. Any third party Site embedded on Professional Squash Association such as an advertiser, video provider, social network or other third party will also have access to your IP address.
-
-
-  * Who can see your email address: If you enter an email address, you will enable communication from Professional Squash Association and other Users. If you reply to users or participate in group Professional Squash Association activities such as meetups, your email address will be shared with these users. In addition, some email addresses such as blocked@Professional Squash Association.com forward to a group of Trusted Users, who will use your email address to reply to the email.
+  * Send you information about existing and new services including special offers
+  * Send you information about what’s going on in the squash industry. This includes the PSA World Tour and events we broadcast
+  * Send you information about related products or selected third parties we think may be of interest to you.
 
 
 
-#### Instances where we are required to share your information:
+You can unsubscribe from these marketing communications at any time. The easiest way to do this is to click the ‘unsubscribe’ link at the bottom of any of our marketing emails. Alternatively, you can email customerservices@psaworldtour.com and ask to be removed from our marketing lists at anytime. 
 
-Professional Squash Association will disclose your information where required to do so by law or subpoena or if we reasonably believe that such action is necessary to (a) comply with the law and the reasonable requests of law enforcement; (b) to enforce our Terms of Use or to protect the security, quality or integrity of our Site; and/or © to exercise or protect the rights, property, or personal safety of Professional Squash Association, our Users, or others.
+#### Do we use cookies?
 
-#### Sharing certain Site type information we collect about you:
+We, and our authorised third parties, may use cookies and/or other tools to store and sometimes track information about you. Please see our Cookie Policy.
 
-We may share certain Site type information, including information obtained through tools such as cookies, log files, device identifiers, location data and clear gifs (such as anonymous usage data, referring/exit pages and URLs, platform types, number of clicks, etc.): (i) with our third-party business partners for the purposes described in the section above on “How We Collect and Use Information.” We may also aggregate or otherwise strip data of all personally identifying characteristics and may share that aggregated, anonymized data with third parties.
+#### International transfers
 
-#### Ads on Professional Squash Association:
+PSA is an organisation with global reach and as such, your personal information may be transferred outside the European Economic Area (EEA). Many of our external third parties are based outside the EEA so their processing of your personal information will involve a transfer of data outside the EEA. Whenever we transfer your personal information out of the EEA, we ensure a similar degree of protection is afforded to it by ensuring that where we use providers based in the US, we may transfer personal infortmation to them if they are part of the Privacy Shield which requires them to provide similar protection to personal information shared between the EEA and the US.
 
-We may also share certain information such as your location, browser, and cookie data and other data relating to your use of our Site with our business partners to deliver advertisements (“ads”) that may be of interest to you. Professional Squash Association may allow third-party ad servers or ad networks to serve advertisements on the Site. These third-party ad servers or ad networks use technology to send, directly to your browser or mobile device, the ads and ad links that appear on the Site, and will automatically receive your IP address when they do so. They may also use other technologies (such as cookies, JavaScript, device identifiers, location data, and clear gifs, see above) to compile information about your browser’s or device’s visits and usage patterns on the Site and on other websites, and to measure the effectiveness of their ads and to personalise the advertising content delivered to you.
+#### Your rights 
 
-Please note that an advertiser may ask Professional Squash Association to show an ad to a certain audience of Users (e.g., based on demographics or other interests). In that situation, Professional Squash Association or our Partners determines the target audience and Professional Squash Association serves the advertising to that audience and only provides anonymous data to the advertiser. If you respond to such an ad, the advertiser or ad server may conclude that you fit the description of the audience they are trying to reach.
+Any personal information you supply will be treated in accordance with applicable data protection laws including GDPR and any other superseding legislation. We are committed to delivering the rights that individuals are entitled to under data protection laws. 
 
-To enhance your user experience or help us improve and measure our effectiveness, Professional Squash Association may embed code from third parties on the Site. Examples of such parties may include Facebook, Twitter, Pinterest, Google, YouTube, Howcast, VideoJug, AOL, and others. These third parties may collect information about you including IP address, cookies in ways Professional Squash Association does not control.
+These are:
 
-The Professional Squash Association Privacy Policy does not apply to, and we cannot control the activities of third-parties. Please consult the respective privacy policies of such third parties or contact such third parties for more information.
+  * The right to request a copy of the information we hold on you. To do this, please email customerservices@psaworldtour.com making it clear you are requesting a copy of your personal information and including the full details of what you require. You may be required to submit proof of your identity. We try to respond to all legitimate requests within one month, but, if your request is complex it could take us longer, we will keep you updated throughout the process. You will not have to pay a fee to access your personal information however, we may charge a reasonable fee if your request is clearly unfounded, repetitive or excessive. We may also refuse to comply with your request in these circumstances
+  * The right to object to your personal information being used for direct marketing. We will obtain your consent before undertaking marketing and you always have the ability to opt out
+  * The right to object to your personal information being processed where the legal basis for the processing is our own legitimate interests as a business. We will comply with this request unless there’s a lawful reason not to
+  * The right to correct any details about yourself that are incorrect, ensuring our data records are accurate
+  * The right to withdraw consent when we are processing your personal information on the basis that you have given us your consent to do so. You can withdraw consent at any time
+  * The right of erasure, you may request your personal information be erased. We will comply unless there’s a lawful reason for not doing so – for example if there are overriding lawful reasons or legitimate ground for retaining your personal information (keeping payment details to comply with HMRC rules)
+  * The right to lodge a complaint with the supervisory authority. Please contact us on customerservices@psaworldtour.com about any questions or if you have any complaints about how we process your personal information
+  * The right to request a transfer of your personal information to you or a third party. Your personal information will be provided in a structured, commonly used, machine readable format
+  * The right to request restriction of the processing of your personal information. You may request this if for example, our use of the personal information is unlawful but you do not want us to erase it, or if you have objected to our use of your personal information but we need to verify whether we have overriding legitimate grounds to use it.
 
-#### How We Store and Protect Your Information
 
-**Storage and Processing:**  
-Your information collected through the Site may be stored and processed in the United States or any other country in which Professional Squash Association or its subsidiaries, affiliates, or Site providers maintain facilities. Professional Squash Association may transfer information that we collect about you, including personal information, to affiliated entities, or to other third parties across borders and from your country or jurisdiction to other countries or jurisdictions around the world. If you are located in the European Union or other regions with laws governing data collection and use that may differ from U.S. law, please note that we may transfer information, including personal information, to a country and jurisdiction that does not have the same data protection laws as your jurisdiction, and you consent to the transfer of information to the U.S. or any other country in which Professional Squash Association or its parent, subsidiaries, affiliates, or Site providers maintain facilities and the use and disclosure of information about you as described in this Privacy Policy.
 
-**Keeping your information safe:**  
-Professional Squash Association cares about the security of your information, and uses commercially reasonable safeguards to preserve the integrity and security of all information collected through the Site. To protect your privacy and security, we take reasonable steps (such as requesting a unique password) to verify your identity before granting you access to your account. You are responsible for maintaining the secrecy of your unique password and account information, and for controlling access to your email communications from Professional Squash Association, at all times. However, Professional Squash Association cannot ensure or warrant the security of any information you transmit to Professional Squash Association or guarantee that information on the Site may not be accessed, disclosed, altered, or destroyed. Your privacy settings may also be affected by changes to the functionality of third party sites and Sites that you add to the Professional Squash Association Site, such as social networks. Professional Squash Association is not responsible for the functionality or security measures of any third party.
+#### Change of business 
 
-**Compromise of information:**  
-In the event that any information under our control is compromised as a result of a breach of security, Professional Squash Association will take reasonable steps to investigate the situation and where appropriate, notify those individuals whose information may have been compromised and take other steps, in accordance with any applicable laws and regulations.
+If we become involved in a merger, acquisition, restructuring, reorganisation or other transaction involving the sale of some or all of our group company’s assets, then your information may be included in the assets that are transferred to the new owner and maybe provided to the entities and advisors involved. Such a transaction may involve us:
 
-#### Opting out of collection of your information for Tracking / Advertising:
+Retaining the right to continue to use transferred personal information in addition to the right of the new owner to use such information and engaging in additional transfers of personal information with the new owner from time to time following such a transaction.
 
-Please refer to your mobile device or browser’s technical information for instructions on how to delete and disable cookies, and other tracking/recording tools. Depending on your type of device, it may not be possible to delete or disable tracking mechanisms on your mobile device. Note that disabling cookies and/or other tracking tools prevents Professional Squash Association or its business partners from tracking your browser’s activities in relation to the Site, and for use in targeted advertising activities by third parties. However, doing so may disable many of the features available through the Site. If you have any questions about opting out of the collection of cookies and other tracking/recording tools, you can contact us directly at wiki@Professional Squash Association.com.
+If there are changes to our business such as a re-organisation or restructuring, your personal information will remain subject to this privacy notice. However, where your personal information is transferred to a new owner following a merger or acquisition it may be subject to a different Privacy Notice. 
 
-#### Children’s Privacy
+#### Data Controller
 
-Professional Squash Association does not knowingly collect or solicit any information from anyone under the age of 13 or knowingly allow such persons to register as Users. The Site and its content are not directed at children under the age of 13. In the event that we learn that we have collected personal information from a child under age 13 without verification of parental consent, we will delete that information as quickly as possible. If you believe that we might have any information from or about a child under 13, please contact us at wiki@Professional Squash Association.com.
+Professional Squash Association is a company registered in England and Wales (registered number 2748136) with our registered office at Studio 4, 46 The Calls, Leeds, LS2 7EY. Our VAT registration number is 402573970.
 
-#### Links to Other Websites and Sites
+The Information Commissioner’s Office (ICO) regulates our processing of your personal information, you have the right to lodge a complaint with the ICO. 
 
-We are not responsible for the practices employed by websites or Sites linked to or from the Site, including the information or content contained therein. Please remember that when you use a link to go from the Site to another website, our Privacy Policy does not apply to third-party websites or Sites. Your browsing and interaction on any third-party website or Site, including those that have a link or advertisement on our website, are subject to that third party’s own rules and policies. In addition, you agree that we are not responsible and we do not control over any third-parties that you authorize to access your User Content. If you are using a third-party website or Site (like Facebook, Google groups, or an IRC chatroom) and you allow such a third-party access to you User Content you do so at your own risk. This Privacy Policy does not apply to information we collect by other means (including offline) or from other sources other than through the Site.
-
-#### Changes to this privacy policy
-
-The Professional Squash Association has the discretion to update this privacy policy at any time. When we do, we will revise the updated date at the bottom of this page. We encourage Users to frequently check this page for any changes to stay informed about how we are helping to protect the personal information we collect. You acknowledge and agree that it is your responsibility to review this privacy policy periodically and become aware of modifications.
-
-#### Your acceptance of these terms
-
-By using this Site, you signify your acceptance of this policy. If you do not agree to this policy, please do not use our Site. Your continued use of the Site following the posting of changes to this policy will be deemed your acceptance of those changes.
-
-#### Contacting Us
-
-If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this site, please contact us at:
-
-Professional Squash Association  
-46 The Calls  
-Leeds  
-LS2 7EY
-
-+44 (0)113 399 1000  
-office@psaworldtour.com
-
-Last updated: 6/10/2017
+If you wish to contact us about our Privacy Notice, please email customerservices@psaworldtour.com
