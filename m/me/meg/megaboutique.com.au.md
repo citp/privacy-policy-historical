@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the megaboutique.com.au privacy policy that was archived on 2018-03-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180326121325id_/https%3A//www.megaboutique.com.au/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the megaboutique.com.au privacy policy that was archived on 2019-03-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190322154544id_/https%3A//www.megaboutique.com.au/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -33,7 +33,7 @@ Some of the personal information that we collect is essential for us to be able 
 
 If you wish to gain access to your personal information, have a complaint about a breach of your privacy or you have any query on how your personal information is collected or used please forward your request, complaint or query to the address below. We will respond to your query or complaint as soon as possible. 
 
-Post: The Privacy Officer, ******** Glen Waverley Vic 3150.
+Post: The Privacy Officer, 64/170 Forster Road, Mount Waverley 3149 VIC.
 
 #### CHANGES TO THIS PRIVACY POLICY
 
