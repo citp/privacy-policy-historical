@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tekz24.com privacy policy that was archived on 2017-09-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170916061504id_/https%3A//www.tekz24.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tekz24.com privacy policy that was archived on 2019-03-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190322223638id_/https%3A//www.tekz24.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -63,7 +63,7 @@ We do not specifically market to children under the age of 13 years old.
 
 **Sponsored**
 
-** ** We can prefer some sponsored articles and stuff on the site. The maximum limit of any sponsored article or advertisement on our site is b/w 6 months to 1 year. After 6 months, we can modify the material or can change it totally.
+We can prefer some sponsored articles and stuff on the site. The maximum limit of any sponsored article or advertisement on our site is b/w 6 months to 1 year. After 6 months, we can modify the material or can change it totally. Note: the sponsored posts will be no-indexed and no-followed if it will be less than 1200 Words.
 
 **CAN-SPAM Act**  
 The CAN-SPAM Act is a law that sets the rules for commercial email, establishes requirements for commercial messages, gives recipients the right to have emails stopped from being sent to them, and spells out tough penalties for violations.
@@ -78,11 +78,4 @@ and we will promptly remove you from ALL correspondence.
 **Contacting Us**  
 If there are any questions regarding this privacy policy, you may contact us using the information below.
 
-**www.tekz24.com**  
-**D-374 Pull Pehladpur**  
-**New Delhi, Delhi 110044**
-
-**India**  
-**Email** – info@tekz24.com
-
-Last Edited on 2016-08-28
+**Last Edited on 2016-08-28**
