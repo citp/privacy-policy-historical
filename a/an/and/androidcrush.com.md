@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the androidcrush.com privacy policy that was archived on 2018-04-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180427182729id_/http%3A//www.androidcrush.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the androidcrush.com privacy policy that was archived on 2019-03-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190322234651id_/https%3A//www.androidcrush.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy Android Crush
 
-This Privacy Policy governs the manner in which Android Crush collects, uses, maintains and discloses information collected from users of the [http://www.androidcrush.com](http://www.androidcrush.com/) website.
+This Privacy Policy governs the manner in which Android Crush collects, uses, maintains and discloses information collected from users of the [https://www.androidcrush.com](https://www.androidcrush.com/) website.
 
 ### Personal identification information
 
@@ -20,17 +20,17 @@ Our Site may use “cookies” to enhance User experience. User’s web browser 
 
 Android Crush may collect and use Users personal information for the following purposes:
 
-  *  _To run and operate our Site_  
+  * _To run and operate our Site_  
 We may need your information display content on the Site correctly.
-  *  _To improve customer service_  
+  * _To improve customer service_  
 Information you provide helps us respond to your customer service requests and support needs more efficiently.
-  *  _To personalize user experience_  
+  * _To personalize user experience_  
 We may use information in the aggregate to understand how our Users as a group use the services and resources provided on our Site.
-  *  _To improve our Site_  
+  * _To improve our Site_  
 We may use feedback you provide to improve our products and services.
-  *  _To run a promotion, contest, survey or other Site feature_  
+  * _To run a promotion, contest, survey or other Site feature_  
 To send Users information they agreed to receive about topics we think will be of interest to them.
-  *  _To send periodic emails_  
+  * _To send periodic emails_  
 We may use the email address to send them information and updates pertaining to their order.
 
 
@@ -73,4 +73,4 @@ By using this Site, you signify your acceptance of this policy. If you do not ag
 
 ### Contacting us
 
-If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this site, please [contact us](http://www.androidcrush.com/contact/).
+If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this site, please [contact us](https://www.androidcrush.com/contact/).
