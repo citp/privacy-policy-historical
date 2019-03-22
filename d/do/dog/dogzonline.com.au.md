@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the dogzonline.com.au privacy policy that was archived on 2018-09-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180903181759id_/https%3A//www.dogzonline.com.au/privacy-policy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dogzonline.com.au privacy policy that was archived on 2019-03-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190323002519id_/https%3A//dogzonline.com.au/privacy-policy.asp) for the most accurate reproduction.*
 
-# DogzOnline: Showcasing Australia's Pure Bred Dogs
+# Australia's Pure Bred Dogs - Dogz Online
 
 These terms and conditions apply to the use of the following web sites 
 
