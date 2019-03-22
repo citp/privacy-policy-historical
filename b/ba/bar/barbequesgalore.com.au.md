@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the barbequesgalore.com.au privacy policy that was archived on 2018-08-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180815170339id_/https%3A//www.barbequesgalore.com.au/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the barbequesgalore.com.au privacy policy that was archived on 2019-03-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190322105209id_/https%3A//www.barbequesgalore.com.au/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Barbeques Galore
 
@@ -45,7 +45,9 @@ Where possible, we will collect your personal information directly from you. Thi
   1. you purchase a product
   2. you complete a finance application
   3. we contact you to confirm delivery details
-  4. you visit our website.
+  4. you visit our website
+  5. you download or use any of our apps.
+
 
 
 
@@ -70,9 +72,9 @@ We may collect your personal information for a number of purposes, including:
 
 ## Opting out of direct marketing communications
 
-Where we use your personal information to send you marketing and promotional information by post, email or otherwise, we will provide you with an opportunity to “opt out” of receiving such information. By electing not to opt-out, we will assume we have your consent to receive similar information and communications in the future. We will always ensure that our opt-out notices are clear, conspicuous and easy to take up. 
+Where we use your personal information to send you marketing and promotional information by post, email, SMS, phone calls, mobile applications, web, social media or otherwise, we will provide you with an opportunity to “opt out” of receiving such information. By electing not to opt-out, we will assume we have your consent to receive similar information and communications in the future. We will always ensure that our opt-out notices are clear, conspicuous and easy to take up. 
 
-If you do not wish to receive direct marketing communications from us, please contact us at [online@bbqgalore.com.au](mailto:online@bbqgalore.com.au)
+If you do not wish to receive direct marketing communications from us, please contact us at [onlinestore@bbqgalore.com.au](mailto:online@bbqgalore.com.au)
 
 ## To whom do we disclose your personal information?
 
