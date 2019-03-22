@@ -1,14 +1,6 @@
-> *The following text is extracted and transformed from the chilisathome.com privacy policy that was archived on 2017-08-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170803034742id_/https%3A//www.chilisathome.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the chilisathome.com privacy policy that was archived on 2019-03-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190322204021id_/https%3A//www.chilisathome.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Chili's At Home
-
-Discover all the flavors of Chili's®
-
-Drag to sort products by heat level
-
-Reset Filtering
-
-Discover all the flavors of Chili's®
 
 ### BELLISIO FOODS, INC. PRIVACY POLICY
 
