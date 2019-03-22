@@ -1,60 +1,56 @@
-> *The following text is extracted and transformed from the gurumannnutrition.com privacy policy that was archived on 2018-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180525015956id_/http%3A//www.gurumannnutrition.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gurumannnutrition.com privacy policy that was archived on 2019-03-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190322083624id_/https%3A//www.gurumannnutrition.com/privacy-policy%25e2%2580%258b%25e2%2580%258b) for the most accurate reproduction.*
 
-# Privacy Policy
+# PRIVACY POLICY​​ - GM NUTRITION
 
-​​​​​​ ****
-
-We, the Operators of this Website, provide it as a public service to our users.  
+###### We, the Operators of this Website, provide it as a public service to our users. 
 
 Your privacy is important to us. Our goal is to provide you with a personalized online experience that provides you with the information, resources, and services that are most relevant and helpful to you. This Privacy Policy has been written to describe the conditions under which this web site is being made available to you. The Privacy Policy discusses, among other things, how data obtained during your visit to this web site may be collected and used. We strongly recommend that you read the Privacy Policy carefully. By using this web site, you agree to be bound by the terms of this Privacy Policy. If you do not accept the terms of the Privacy Policy, you are directed to discontinue accessing or otherwise using the web site or any materials obtained from it. If you are dissatisfied with the web site, by all means contact us; otherwise, your only recourse is to disconnect from this site and refrain from visiting the site in the future. 
 
 The process of maintaining a web site is an evolving one, and the Operators may decide at some point in the future, without advance notice, to modify the terms of this Privacy Policy. Your use of the web site, or materials obtained from the web site, indicates your assent to the Privacy Policy at the time of such use. The effective Privacy Policy will be posted on the web site, and you should check upon every visit for any changes. 
 
-Sites Covered by this Privacy Policy  
+###### Sites Covered by this Privacy Policy
 
-
-  
 This Privacy Policy applies to all the Operators-maintained web sites, domains, information portals, and registries. Children’s Privacy 
 
 The Operators are committed to protecting the privacy needs of children, and we encourage parents and guardians to take an active role in their children’s online activities and interests. The Operators do not intentionally collect information from minors, and the Operators do not target its web site to children. 
 
-Links to Non-Operators Web Sites 
+###### Links to Non-Operators Web Sites 
 
 The Operator’s web sites may provide links to third-party web sites for the convenience of our users. If you access those links, you will leave the Operator’s web site. The Operators do not control these third-party websites and cannot represent that their policies and practices will be consistent with this Privacy Policy. For example, other web sites may collect or use personal information about you in a manner different from that described in this document. Therefore, you should use other web sites with caution, and you do so at your own risk. We encourage you to review the privacy policy of any web site before submitting personal information. 
 
-Types of Information We Collect 
+###### Types of Information We Collect 
 
-Non-Personal Information 
+###### Non-Personal Information 
 
 Non-personal information is data about usage and service operation that is not directly associated with a specific personal identity. The Operators may collect and analyze non-personal information to evaluate how visitors use the Operator’s web sites. 
 
-Aggregate Information 
+###### Aggregate Information 
 
 The Operators may gather aggregate information, which refers to information your computer automatically provides to us and that cannot be tied back to you as a specific individual. Examples include referral data (the web sites you visited just before and just after our site), the pages viewed, time spent at our Web site, and Internet Protocol (IP) addresses. An IP address is a number that is automatically assigned to your computer whenever you access the Internet. For example, when you request a page from one of our sites, our servers log your IP address to create aggregate reports on user demographics and traffic patterns and for purposes of system administration. 
 
-Log Files 
+###### Log Files 
 
-Every time you request or download a file from the web site, the Operators may store data about these events and your IP address in a log file. The Operators may use this information to analyze trends, administer the web site, track users’ movements, and gather broad demographic information for aggregate use or for other business purposes. 
+Every time you request or download a file from the web site, the Operators may store data about these events and your IP address in a log file. The Operators may use this information to analyze trends, administer the web site, track users’ movements, and gather broad demographic information for aggregate use or for other business purposes.
 
-Cookies 
+###### Cookies 
 
 Our site may use a feature of your browser to set a “cookie” on your computer. Cookies are small packets of information that a web site’s computer stores on your computer. The Operator’s web sites can then read the cookies whenever you visit our site. We may use cookies in a number of ways, such as to save your password so you don’t have to re-enter it each time you visit our site, to deliver content specific to your interests and to track the pages you’ve visited. These cookies allow us to use the information we collect to customize your experience so that your visit to our site is as relevant and as valuable to you as possible. 
 
 Most browser software can be set up to deal with cookies. You may modify your browser preference to provide you with choices relating to cookies. You have the choice to accept all cookies, to be notified when a cookie is set or to reject all cookies. If you choose to reject cookies, certain of the functions and conveniences of our web site may not work properly, and you may be unable to use those of the Operator’s services that require registration in order to participate, or you will have to re-register each time you visit our site. Most browsers offer instructions on how to reset the browser to reject cookies in the “Help” section of the toolbar. We do not link non-personal information from cookies to personally identifiable information without your permission. 
 
-Web Beacons 
+###### Web Beacons 
 
 The Operator’s web site also may use web beacons to collect non-personal information about your use of our web site and the web sites of selected sponsors or members, your use of special promotions or newsletters, and other activities. The information collected by web beacons allows us to statistically monitor how many people are using our web site and selected sponsors’ sites; how many people open our emails; and for what purposes these actions are being taken. Our web beacons are not used to track your activity outside of our web site or those of our sponsors. The Operators do not link non-personal information from web beacons to personally identifiable information without your permission. 
 
-Personal Information 
+###### Personal Information 
 
 Personal information is information that is associated with your name or personal identity. The Operators use personal information to better understand your needs and interests and to provide you with better service. On some of the Operators web pages, you may be able to request information, subscribe to mailing lists, participate in online discussions, collaborate on documents, provide feedback, submit information into registries, register for events, apply for membership, or join technical committees or working groups. The types of personal information you provide to us on these pages may include name, address, phone number, e-mail address, user IDs, passwords, billing information, or credit card information. 
 
-Members-Only Web Sites 
+###### Members-Only Web Sites 
 
 Information you provide on Operator’s membership applications is used to create a member profile, and some information may be shared with other of the Operator’s individual member representatives and organizations. Member contact information may be provided to other members on a secure web site to encourage and facilitate collaboration, research, and the free exchange of information among the Operator’s members, but we expressly prohibit members from using member contact information to send unsolicited commercial correspondence. The Operator’s members may be automatically added to the Operator’s mailing lists. From time to time, member information may be shared with event organizers and/or other organizations that provide additional benefits to the Operator’s members. By providing us with your personal information on the membership application, you expressly consent to our storing, processing, and distributing your information for these purposes. 
 
-How We Use Your Information 
+###### How We Use Your Information 
 
 The Operators may use non-personal data that is aggregated for reporting about the Operator’s web site usability, performance, and effectiveness. It may be used to improve the experience, usability, and content of the site. 
 
@@ -62,9 +58,9 @@ The Operators may use personal information to provide services that support the 
 
 Credit card information may be collected to facilitate membership applications; or if you purchase a product or service from our website, such information will not be kept longer than necessary for providing the services requested. Credit card numbers are used only for processing payment and are not used for other purposes. Payment processing services may be 
 
-provided by a third-party payment service, and a management company external to the Operators may provide support for the financial activities of the Operators. the Operators may share your personal information with its partners to facilitate these transactions. 
+provided by a third-party payment service, and a management company external to the Operators may provide support for the financial activities of the Operators. the Operators may share your personal information with its partners to facilitate these transactions.
 
-Information Sharing 
+###### Information Sharing 
 
 The Operators does not sell, rent, or lease any individual’s personal information or lists of email addresses to anyone for marketing purposes, and we take commercially reasonable steps to maintain the security of this information. However, the Operators reserve the right to supply any such information to any organization into which the Operators may merge in the future or to which it may make any transfer in order to enable a third party to continue part or all of its mission. We also reserve the right to release personal information to protect our systems or business, when we reasonably believe you to be in violation of our Terms of Use or if we reasonably believe you to have initiated or participated in any illegal activity. In addition, please be aware that in certain circumstances, the Operators may be obligated to release your personal information pursuant to judicial or other government subpoenas, warrants, or other orders. 
 
@@ -94,7 +90,4 @@ Opting Out 
 
 From time to time the Operators may email you electronic newsletters, announcements, surveys or other information. If you prefer not to receive any or all of these communications, you may opt out by following the directions provided within the electronic newsletters and announcements. 
 
-​  
-
-
-If you have questions regarding this privacy policy, please contact us. 
+​If you have questions regarding this privacy policy, please contact us. 
