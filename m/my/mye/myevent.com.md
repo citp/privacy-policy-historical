@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the myevent.com privacy policy that was archived on 2018-01-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180121125958id_/https%3A//myevent.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the myevent.com privacy policy that was archived on 2019-03-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190323001500id_/https%3A//myevent.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | MyEvent
 
