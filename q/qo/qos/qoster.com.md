@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the qoster.com privacy policy that was archived on 2018-11-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181115115627id_/http%3A//qoster.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the qoster.com privacy policy that was archived on 2019-03-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190322140726id_/http%3A//qoster.com/privacy-policy) for the most accurate reproduction.*
 
 # 
 
