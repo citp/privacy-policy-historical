@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mipcom.com privacy policy that was archived on 2018-09-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180909145551id_/https%3A//www.reedmidem.com/en/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mipcom.com privacy policy that was archived on 2019-03-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190322171531id_/https%3A//www.reedmidem.com/en/privacy-policy.html) for the most accurate reproduction.*
 
 # Reed MIDEM Privacy Policy
 
