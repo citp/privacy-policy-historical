@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the planetside-universe.com privacy policy that was archived on 2018-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181205032526id_/http%3A//www.planetside-universe.com/p-privacy-statement-28.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the planetside-universe.com privacy policy that was archived on 2019-03-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190322012323id_/http%3A//www.planetside-universe.com/p-privacy-statement-28.htm) for the most accurate reproduction.*
 
 # PlanetSide Universe - Rules/FAQ: PlanetSide Universe Privacy Statement
 
@@ -28,7 +28,7 @@ PlanetSide Universe uses third-party advertising companies to serve ads when you
   
 
 
-All times are GMT -5. The time now is 04:18 PM.
+All times are GMT -5. The time now is 08:23 PM.
 
   
 
@@ -38,4 +38,4 @@ PlanetSide and the SOE logo are registered trademarks of Sony Online Entertainme
 All other trademarks or tradenames are properties of their respective owners. 
 
 Powered by vBulletin  
-Copyright ©2000 - 2018, Jelsoft Enterprises Ltd. 
+Copyright ©2000 - 2019, Jelsoft Enterprises Ltd. 
