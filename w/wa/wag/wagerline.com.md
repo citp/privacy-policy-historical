@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wagerline.com privacy policy that was archived on 2018-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181230040441id_/https%3A//accounts2.covers.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wagerline.com privacy policy that was archived on 2019-03-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190323132922id_/https%3A//accounts2.covers.com/privacy) for the most accurate reproduction.*
 
 # 
 
@@ -55,7 +55,7 @@ We use this information, including to:
   * Improve our services to better suit the behaviours and technical capabilities of the users of our service;
   * Identify issues with the website and our users' experience of it;
   * Monitor the way our website is used (including locations it is accessed from, devices it is accessed from, understanding peak usage times and analysing what functionality and information is most and least accessed);and
-  * We use third party tools, including programmatic advertising, and retargeting, to make the advertising we show you on our Website and / or our partner websites more relevant and interesting to you. For this purpose, we use cookies, web beacons or similar technologies cross-device to collect information about your browsing behaviour (see our Cookies Policy for more detailed information) and deliver interest-based ads to you. We also ensure that mechanisms are made available to end-users to opt out of such data collection in both browsers and mobile applications.
+  * We use third-party advertising companies to serve ads when you visit our Web site. These companies may use aggregated information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, please see: <https://www.networkadvertising.org/managing/opt_out.asp>
 
 | 
 
