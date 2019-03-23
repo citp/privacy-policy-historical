@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the soulcysters.net privacy policy that was archived on 2015-07-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150714011019id_/http%3A//www.soulcysters.net/view.php%3Fpg%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the soulcysters.net privacy policy that was archived on 2019-03-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190323082540id_/http%3A//www.soulcysters.net/view.php%3Fpg%3Dprivacy) for the most accurate reproduction.*
 
 # privacy - PCOS Message Board
 
@@ -8,7 +8,7 @@
 
 This privacy policy will advise you about our guidelines concerning the use of your personal information, including, without limitation, the reasonable efforts we make to protect your personal information in accord with these guidelines, and about what choices you have concerning our use of such information. Please read this policy carefully. We may need to change this policy from time to time in order to address new issues and reflect changes on our sites. We will post those changes here so that you will always know our policies regarding what information we gather, how we might use that information and whether we will disclose that information to anyone. Please refer back to this policy regularly. 
 
-If you have any questions or concerns about our privacy policy, please send an e-mail to Privacy@TastyMedia.com or contact us at 261 17th Street, NW #1410, Atlanta, Georgia 30363.
+If you have any questions or concerns about our privacy policy, please send an e-mail to [[email protected]](http://www.soulcysters.net/cdn-cgi/l/email-protection) or contact us at 261 17th Street, NW #1410, Atlanta, Georgia 30363.
 
  **Scope of Privacy Policy**
 
@@ -72,7 +72,7 @@ Protecting your privacy and your information is a top priority. We have taken re
 
  **Access to/Correction of Information  **
 
-If you would like to review any personal information we have retained about you in our database, please send us an e-mail request for this information at Privacy@TastyMedia.com. To help us address your request, please specify which information you wish to review. Once you have reviewed this information, at your request, we will correct personal information about you that you state is erroneous. To request such a correction, please send an e-mail to Privacy@TastyMedia.com. You should be aware, however, that it is not always possible to completely remove or modify information in our databases and servers, although we will always make reasonable efforts to do so upon your request. Please also understand that due to the volume of traffic on the Sites and correspondence received, we cannot make any representations about the timeliness of the making of such modifications. In addition, we are unable to modify your information in the records of any third party who has been provided with your information in accordance with this policy.
+If you would like to review any personal information we have retained about you in our database, please send us an e-mail request for this information at [[email protected]](http://www.soulcysters.net/cdn-cgi/l/email-protection) To help us address your request, please specify which information you wish to review. Once you have reviewed this information, at your request, we will correct personal information about you that you state is erroneous. To request such a correction, please send an e-mail to [[email protected]](http://www.soulcysters.net/cdn-cgi/l/email-protection) You should be aware, however, that it is not always possible to completely remove or modify information in our databases and servers, although we will always make reasonable efforts to do so upon your request. Please also understand that due to the volume of traffic on the Sites and correspondence received, we cannot make any representations about the timeliness of the making of such modifications. In addition, we are unable to modify your information in the records of any third party who has been provided with your information in accordance with this policy.
 
  **Choice/Opt Out**
 
