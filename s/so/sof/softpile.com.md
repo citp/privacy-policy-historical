@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the softpile.com privacy policy that was archived on 2017-07-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170722082546id_/https%3A//www.softpile.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the softpile.com privacy policy that was archived on 2019-03-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190323030859id_/https%3A//www.softpile.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Softpile
 
