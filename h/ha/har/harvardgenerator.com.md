@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the harvardgenerator.com privacy policy that was archived on 2018-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181219123749id_/http%3A//www.harvardgenerator.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the harvardgenerator.com privacy policy that was archived on 2019-03-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190323045458id_/http%3A//www.harvardgenerator.com/privacy) for the most accurate reproduction.*
 
 # Harvard Referencing Generator | Privacy Policy
 
