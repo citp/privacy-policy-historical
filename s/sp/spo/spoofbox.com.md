@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the spoofbox.com privacy policy that was archived on 2018-08-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180808205735id_/https%3A//www.spoofbox.com/en/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the spoofbox.com privacy policy that was archived on 2019-03-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190323011311id_/https%3A//www.spoofbox.com/en/privacy) for the most accurate reproduction.*
 
 # Privacy policy
 
