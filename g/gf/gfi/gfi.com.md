@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gfi.com privacy policy that was archived on 2018-08-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180830014725id_/https%3A//www.gfi.com/legal/history/global-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gfi.com privacy policy that was archived on 2019-03-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190323233509id_/https%3A//www.gfi.com/legal/history/global-privacy-policy) for the most accurate reproduction.*
 
 # Global privacy policy | GFI Software
 
