@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the britishnewspaperarchive.co.uk privacy policy that was archived on 2018-10-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181023003105id_/https%3A//www.britishnewspaperarchive.co.uk/content/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the britishnewspaperarchive.co.uk privacy policy that was archived on 2019-03-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190323163435id_/https%3A//www.britishnewspaperarchive.co.uk/content/privacy) for the most accurate reproduction.*
 
 # Privacy | British Newspaper Archive
 
