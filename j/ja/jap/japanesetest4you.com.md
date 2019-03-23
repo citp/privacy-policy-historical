@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the japanesetest4you.com privacy policy that was archived on 2018-07-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180730050947id_/https%3A//japanesetest4you.com/privacy-policies) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the japanesetest4you.com privacy policy that was archived on 2019-03-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190323105507id_/https%3A//japanesetest4you.com/privacy-policies) for the most accurate reproduction.*
 
 # Privacy Policies – Japanesetest4you.com
 
@@ -38,11 +38,11 @@ Yes. Cookies are small files that a site or its service provider transfers to yo
 
 • Third party vendors, including Google, use cookies to serve ads based on a user’s prior visits to our site.  
 • Google’s use of the DoubleClick cookie enables it and its partners to serve ads to the users based on their visit to this site and/or other sites on the Internet.  
-• Users may opt out of the use of the DoubleClick cookie for interest-based advertising by visiting [Ads Settings](http://www.google.com/ads/preferences/). You can also check <http://www.aboutads.info/> on how to opt out of third-party vendor’s use of cookies for interest-based advertising.
+• Users may opt out of the use of the DoubleClick cookie for interest-based advertising by visiting [Ads Settings](https://www.google.com/ads/preferences/). You can also check <http://www.aboutads.info/> on how to opt out of third-party vendor’s use of cookies for interest-based advertising.
 
 **To EU Users :** Please read our disclosure notice as part of our compliance to the EU user consent policy:
 
-We use cookies to personalise content and ads, to provide social media features and to analyse our traffic. We also share information about your use of our site with our social media, advertising and analytics partners. For more information on how Google uses data when you use our partner’ sites or apps, visit this link: <http://www.google.com/intl/en/policies/privacy/partners/>
+We use cookies to personalise content and ads, to provide social media features and to analyse our traffic. We also share information about your use of our site with our social media, advertising and analytics partners. For more information on how Google uses data when you use our partner’ sites or apps, visit this link: [http://www.google.com/intl/en/policies/privacy/partners/](https://www.google.com/intl/en/policies/privacy/partners/)
 
 Some of our advertising partners may use cookies and web beacons on our site. Our advertising partners include:
 
