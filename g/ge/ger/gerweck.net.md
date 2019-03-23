@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the gerweck.net privacy policy that was archived on 2016-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160523075329id_/http%3A//www.gerweck.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gerweck.net privacy policy that was archived on 2019-03-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190323144133id_/https%3A//www.gerweck.net/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Gerweck.net
-
-## [Privacy Policy](http://www.gerweck.net/privacy-policy/ "Privacy Policy")
 
 **Third Party Advertising**
 
@@ -21,9 +19,20 @@ We use third-party advertising companies to serve ads when you visit our Web sit
 
 ****Our advertisements may contain cookies, which allow advertisers to track information about which sites you go to. For more information about this, you may visit our advertisers’ official websites: valueclickmedia.com and google.com/adsense.
 
+Publisher Properties, including, but not limited to, web-sites, desktop and mobile applications, etc, must feature an active and consistently accessible Privacy Policy. The Privacy Policy must comply with the Network Advertising Initiative (NAI) Code of Conduct, and feature, at a minimum, the following disclosures:
+
+A conspicuous hyper-link to an NAI-approved Opt-Out mechanism for Interest-Based Advertising, such as – here  
+A clear statement to the fact that data may be collected for the purpose of Interest-Based Advertising on the property.  
+A description of the types of data that is collected from users for the purpose of Interest-Based Advertising.  
+An explanation of the purposes for which the collected data will be transferred to third-parties.
+
+For any questions or assistance, please reach out to: support@infolinks.com
+
 **Affiliates/External links**
 
 ****We are affiliated with a few sites, and link to others in various news reports and interviews. If you click on their link, then you are sent to their respective site and from then on, has nothing to do with GERWECK.NET.
 
 
 
+
+(Visited 933 times, 3 visits today)
