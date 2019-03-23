@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the auditiondate.in privacy policy that was archived on 2018-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181121133450id_/http%3A//www.auditiondate.in/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the auditiondate.in privacy policy that was archived on 2019-03-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190323193436id_/http%3A//www.auditiondate.in/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -25,3 +25,5 @@ We likes comments and thoughts, but any comments which is abusive, racial or any
 Images & videos on this website are copyright to their respective owner.
 
 **_Note- The shows listed on our website is copyright to their respective owner, all right reserved to their respective owners. _** ** _Auditiondate.in is not a partner or host of any such shows listed on our website. We are just providing information about this shows._**
+
+### Like Us on Facebook For Audition News
