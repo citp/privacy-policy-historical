@@ -1,115 +1,149 @@
-> *The following text is extracted and transformed from the teaching.com.au privacy policy that was archived on 2018-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180509205715id_/https%3A//www.teaching.com.au/page/mta-privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the teaching.com.au privacy policy that was archived on 2019-03-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190323065012id_/https%3A//www.teaching.com.au/page/mta-privacy) for the most accurate reproduction.*
 
 # Modern Teaching Aids Privacy Policy
 
-This is the Privacy Policy of Modern Teaching Aids Pty Ltd. Modern Teaching Aids will observe this Privacy Policy for the collection, storage and use of personal information. For the purpose of this policy document, we are referred to as “Modern Teaching Aids” or “We”.
+Modern Teaching Aids Pty Limited (' **we** ', ' **our** ', ' **us** ' or ' **MTA** ') is committed to protecting the privacy of the personal information and sensitive information which it collects and holds.
 
-#### Open & transparent management of personal information
+We must comply with the Australian Privacy Principles under the Privacy Act 1988 (Cth). The purpose of this Privacy Policy is to explain:
 
-Modern Teaching Aids has made this Privacy Policy available to individuals upon request and/or if required. This policy is available free of charge in the following formats: written, electronic or recorded.
+**(a)** the kinds of information that we may collect about you and how that information is held;
 
-The personal information we may collect about you could include your name, whether you are a parent or teacher, or educator, your e-mail address, name of educational institution or company, ABN or ACN, address, title, contact telephone, facsimile, country, any product purchases, and encrypted billing information. If connected to a business we may also collect the names and address of the directors, proprietors and owners, any personal guarantors and reports from credit reporting agencies, which is collected as part of our credit application processes.
+**(b)** how we collect and hold personal information;
 
-Payments to Modern Teaching Aids are made through both secure internal and third-party payment gateways. Modern Teaching Aids receives notification of the processing of payments from the secure internal and third-party payment gateway in which any credit card information is provided in an encrypted format.
+**(c)** the purposes for which we collect, hold, use and disclose personal information;
 
-We do offer links to third party websites on our websites. Before disclosing your personal information on any other website, we advise you to examine the terms and conditions of using that website and its privacy statement.
+**(d)** how you can access the personal information we hold about you and seek to correct such information; and
 
-#### Use of Cookies
+**(e)** the way in which you can complain about a breach of your privacy and how we will handle that complaint; and
 
-Cookies are small files that a site or its service provider transfers to your computer's hard drive through your Web browser (if you allow) that enables the sites or service providers systems to recognise your browser and capture and remember certain information. Our websites use cookies to anonymously distinguish you from other users of our services and to provide increased functionality when you are using our services. This helps us to provide you with a better experience when you browse our websites and also allows us to improve our websites and our services. Unless you have adjusted your browser settings (where possible) to refuse cookies, our systems will issue cookies as soon you visit our websites or access other services. If you have switched off cookies then some of the functionality of our services may not be available to you. The cookies that we use on our websites only collect anonymous information to optimise our services, and do not collect personal information.
+**(f)** the countries in which your personal information may be stored. 
 
-To find out more about cookies including how to disable/enable and delete them at the following website [www.aboutcookies.org](http://www.aboutcookies.org/). If you use your browser settings to block all cookies you may not be able to access all or parts of our sites, or you may experience reduced functionality when accessing certain services.
+### 2.1 Types of personal information collected by MTA
 
-#### Anonymity & Pseudonymity
+#### **(a)** Customers
 
-Modern Teaching Aids will not collect or monitor any personal information about an individual without their expressed or implied consent. Personal information is required for the purposes of establishing a relationship with our customers, performing the necessary credit checks in accordance with our credit application processes, providing and marketing our goods and services to customers and receiving payment for the same.
+We collect information from you which is necessary to provide you with goods that we supply (including but not limited to teaching resources and education supplies). This includes collecting personal information such as your name, address, email address, contact telephone number, credit card details, bank account details, and any other information which is necessary to assist us in providing you with our goods. 
 
-#### Collection of solicited information other than sensitive information
+#### **(b)** Attendees at Conferences, Workshops and Professional Development Sessions
 
-If personal information concerns particular beliefs or backgrounds, it is considered to be of a sensitive nature. Such information may include:
+We collect information from you when you participate in conferences or attend professional development days organised or facilitated by us. This includes collecting personal information such as your name, address, email address, contact telephone number and any other information which is necessary to assist us in developing conferences and professional development to best meet your needs.
 
-  * racial background
-  * political opinions and political party memberships
-  * religious or philosophical beliefs
-  * trade union affiliations or membership
-  * sexual preferences
-  * criminal record
-  * health record
+#### **(c)** Competition Participants
 
+We collect information from you when you enter competitions either through our website or through competition forms at conferences, workshops and professional development sessions. This includes collecting personal information such as your name, address, email address, contact telephone number and any other information which is necessary to assist us in administering the competition and awarding prizes to competition winners.
 
+#### **(d)** Job applicants
 
-Modern Teaching Aids does not collect sensitive information.
+We collect information from you which is necessary to assess and engage applicants. This includes collecting personal information such as your name, address, professional experience, qualifications, references and past employers, and any other information which is necessary to assess your suitability for employment.
 
-Modern Teaching Aids may collect personal information about you from other sources including public sources and credit reporting agencies.
+#### **(e)** Suppliers
 
-#### Dealing with unsolicited personal information
+We collect information from you which is necessary to acquire goods or services from you or use such goods or services. This includes collecting personal information such as your name, address, email address, contact telephone number, and any other information which is necessary to assist us to acquire or use your goods or services.
 
-Should Modern Teaching Aids receive personal information, and did not solicit the information, Modern Teaching Aids will decide whether or not the personal information would have normally been collected. In the event that the personal information would not normally have been collected, it will be de-identified and destroyed.
+### 2.2 How we collect personal information 
 
-#### Notification of the collection of personal information
+We will usually collect your personal information directly from you which may include whenever you fill out a form on our website; by registering an account with us or use our website using that account; participate in conferences or attend professional development days organised or facilitated by us; and entering in a competition through our website or through competition forms at our workshops, conferences or professional development days. 
 
-In the majority of cases, we will require you to specifically consent to any collection, use or disclosure of your personal information by Modern Teaching Aids. Your consent may be requested in writing or verbally; expressed or implied.
+Sometimes we may need to collect information about you from third parties, such as credit reporting agencies and past employers and referees. We may be provided with contact lists containing your personal information from a third party such as your company head office, industry associations, industry consultants or state-based education departments provided that we have obtained express consent from that third party to use your personal information.
 
-#### Use & Disclosure of your personal information
+We will only collect information from third parties where:
 
-Modern Teaching Aids uses the personal information we collect so that we may continue to conduct our business of providing ongoing products and services. The personal information you provide may be utilised at a later date to allow us to market direct to yourselves, information about our additional products and services offered by Modern Teaching Aids or associated entities.
+**(a)** you have consented to such collection; 
 
-We may also disclose your personal information to our suppliers and third parties that perform other services for us in connection with the sale and provision of our goods and services, including third parties who:
+**(b)** such collection is necessary to enable us to provide you with our teaching resources and education supplies; or
 
-  * Provide Credit Reports
-  * Provide Debt Collection
-  * Provide Legal Advice
-  * Conduct market research and analysis
-  * Provide marketing services
+**(c)** it is legally permissible for us to do.
 
+We will only collect information which is necessary to provide you with our goods and services, or appropriately manage and conduct our business.
 
+### 2.3 How MTA uses your personal information
 
-#### Direct Marketing
+We only use your personal information for the purpose for which it was collected by us (' **primary purpose** '), unless:
 
-At times we may disclose personal information to third parties and our associated entities to market to you Modern Teaching Aids and associated entities products and/or services. We take steps to ensure that our service providers are obliged to protect the privacy and security of your personal information and use it only for the purpose for which it is disclosed.
+**(a)** there is another purpose (secondary purpose) and that secondary purpose is directly related to the primary purpose, and you would reasonably expect, or we have informed you, that your information will be used for that secondary purpose;
 
-We respect an individual’s choice to opt-out of direct marketing communications activities. Should you decide you do not wish to receive marketing or promotional materials from us, please click on the unsubscribe button at the bottom of our promotional emails or contact the Modern Teaching Aids Privacy Officer in writing at the address below.
+**(b)** you have given your consent for your personal information to be used for a secondary purpose; or
 
-#### Cross Border disclosure
+**(c)** we are required or authorised by law to use your personal information for a secondary purpose (including for quality improvements within MTA).
 
-Modern Teaching Aids may disclose personal information to third party data storage facilities that may be located in Australia and other countries including the United States of America and Japan.
+For example, we may use your personal information for the purpose of:
 
-#### Adoption, use or disclosure of Governmental related identifiers
+**(d)** providing our goods (including but not limited to teaching resources and education supplies) to you;
 
-Modern Teaching Aids does not use Commonwealth Identifiers as a means of identifying the personal information we collect from you.
+**(e)** notifying you of any of our services and goods of which we consider you may be reasonably interested; 
 
-#### Quality of personal information
+**(f)** undertaking credit checks as part of our credit application process; 
 
-Modern Teaching Aids relies on the personal information we hold to efficiently continue our business relationship with you. For this reason it is of utmost importance that the personal information we collect from you is accurate, complete and up to date. At times, we will ask you to inform us of any changes to your personal information, however you can contact us at any time to update your personal information or advise us if any information we hold is inaccurate or incomplete.
+**(g)** appropriately managing our business, such as assessing insurance requirements and business processes;
 
-#### Security of personal information
+**(h)** developing our conferences and professional development programs;
 
-Modern Teaching Aids ensures that your information is secure by protecting it from unauthorised access, modification and disclosure. We maintain physical security over our paper and electronic data stores and premises, such as locks and security systems. We also maintain computer and network security; for example, we use firewalls and other security systems such as user identifiers and passwords to control access to computer systems.
+**(i)** administering competitions and awarding prizes;
+
+**(j)** assessing your suitability to work within our organisation;
+
+**(k)** assisting us in running our business, including quality assurance programs, billing, improving our services, implementing appropriate security measures and training personnel; and
+
+**(l)** effectively communicating with third parties, such as courier companies engaged to deliver any ordered goods.
+
+### 2.4 Use of personal information for direct marketing
+
+At times, MTA sends information to market our goods and services which may be of interest to you and may be based on your buying history with us. Individuals can opt out of receiving such marketing materials at any time, by clicking the 'unsubscribe' button in any promotional email sent to you, or contacting the Privacy Officer on the details set out in section 6 below.
+
+### 2.5 Complete and accurate details
+
+Where possible and practicable, you will have the option to deal with us on an anonymous basis or by using a pseudonym. However, if the personal information you provide us is incomplete or inaccurate, or you withhold personal information, we may not be able to provide the services or goods you are seeking, or deal with you effectively. 
+
+We will confine our disclosure of your personal information to the primary purpose for which that information has been collected, or for a related secondary purpose. This includes when disclosure is necessary to provide goods or services to you, assist us in running our organisation, or for security reasons.
+
+We may provide your personal information to:
+
+**(a)** third parties who assist us in managing our business, such as credit report providers, debt collection agencies and professional advisors;
+
+**(b)** third parties contracted to provide services to us, such as couriers, repairmen and technicians;
+
+**(c)** our related bodies corporate;
+
+**(d)** anyone authorised by you to receive your personal information (your consent may be express or implied); and
+
+**(e)** anyone we are required by law to disclose your personal information to. 
+
+### 4.1 Data quality
+
+We will take reasonable steps to ensure that your personal information which is collected, used or disclosed is accurate, complete and up to date.
+
+### 4.2 Storage
+
+All your personal information is stored by us securely in physical or electronic form. 
+
+MTA uses third party data storage facilities that may be located in Australia, the United States of America and Japan. 
+
+### 4.3 Data security
+
+MTA ensures that your personal information is secure by protecting it from unauthorised access, modification and disclosure. We maintain physical security over our paper and electronic data stores and premises, such as locks and security systems. We also maintain computer and network security; for example, we use firewalls and other security systems such as user identifiers and passwords to control access to computer systems.
 
 We keep personal information only for as long as is reasonably necessary for the purpose for which it was collected or to comply with any applicable legal or ethical reporting or document retention requirements.
 
-#### Notification of Data Breaches
+Cookies are small files that a site or its service provider transfers to your computer's hard drive through your web browser (if you allow that) that enables the sites or service providers systems to recognise your browser and capture and remember certain information. Our websites use cookies to anonymously distinguish you from other users of our services and to provide increased functionality when you are using our services. This helps us to provide you with a better experience when you browse our websites and also allows us to improve our websites and our services. Unless you have adjusted your browser settings (where possible) to refuse cookies, our systems will issue cookies as soon you visit our websites or access other services. If you have switched off cookies then some of the functionality of our services may not be available to you. The cookies that we use on our websites only collect anonymous information to optimise our services, and do not collect personal information.
 
-In the unlikely event that we believe there has been a data breach at Modern Teaching Aids, we will attempt to take remedial action before any serious harm or loss of information occurs. However, where we believe after remedial action that the data breach is likely to result in serious harm to any of the individuals to whom the information relates, we will notify individuals who may be affected within 30 days of becoming aware that there has been a data breach. Furthermore, we will prepare a statement that sets out the identity and contact details of the entity, describes the data breach, sets out the kinds of information concerned and recommends steps that individuals should take in response. A copy of this statement will also be sent to the Australian Information Commissioner.
+To find out more about cookies including how to disable/enable and delete them at the following website [www.aboutcookies.org](https://web.archive.org/web/20190323065012id_/https%3A//www.teaching.com.au/page/www.aboutcookies.org). If you use your browser settings to block all cookies you may not be able to access all or parts of our sites, or you may experience reduced functionality when accessing certain services.
 
-#### Access to Personal Information
+You have a right to access your personal information which we hold about you. If you make a request to access your personal information, we will ask you to verify your identity and specify the information you require.
 
-If you would like to know what information we currently hold about you, please contact our Privacy Officer in writing at the address below. To protect the confidentiality of your details we will require some proof of identity in advance. Should Modern Teaching Aids refuse you access to personal information or credit eligibility information, we will provide you with written notice that sets out the reason for refusal and the mechanism available to complain about the refusal.
+You can also request an amendment to any of your personal information if you consider that it contains inaccurate information.
 
-#### Correction of personal information
+You can contact MTA about any privacy issues as follows:
 
-We will also correct, amend or delete any personal information that we agree is inaccurate, out-of-date, incomplete, irrelevant or misleading or if an individual requests Modern Teaching Aids to correct the information.
+Privacy Officer   
+Modern Teaching Aids Pty Limited   
+PO Box 6367   
+Frenchs Forest NSW 2086   
+Email: privacyinfo@teaching.com.au
 
-To update details of your personal information, please contact the Privacy Officer at the address below.
+If you have a complaint about MTA's information handling practices or consider we have breached your privacy, you can lodge a complaint with:
 
-#### Contact Details
+**(a)** our Privacy Officer, on the contact details listed in clause 6 above; or
 
-If you have any concerns about this privacy policy, or the personal information we have collected about you, or if you have any complaints about how we have handled your personal information please contact our Privacy Officer via one of the following means:
+**(b)** the Office of Australian Information Commissioner.
 
-Post: Modern Teaching Aids Privacy Officer, c/o Modern Teaching Aids Pty Ltd, PO Box 6367, Frenchs Forest NSW
-
-Email: [privacyinfo@teaching.com.au](mailto:privacyinfo@teaching.com.au)
-
-#### Changes to Privacy Policy
-
-Modern Teaching Aids may make changes to this Privacy Statement from time to time for any reason. We will publish those changes on our website. This Privacy Statement was last amended 2nd January 2018.
+We aim to deal with all complaints in a fair and efficient manner.
