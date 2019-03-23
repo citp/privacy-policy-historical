@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mhi.com privacy policy that was archived on 2018-04-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180426064320id_/http%3A//www.mhi.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mhi.com privacy policy that was archived on 2019-03-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190323111507id_/https%3A//www.mhi.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy | Mitsubishi Heavy Industries, Ltd. Global Website
 
@@ -89,8 +89,8 @@ In the event the department to which the personal information was provided is un
 Personal Information Advice Office  
 Legal & General Affairs Department, Head Office,  
 Mitsubishi Heavy Industries, Ltd.  
-16-5, Konan 2-chome, Minato-ku, Tokyo 108-8215  
-Tel.: +81-3-6716-3101
+2-3, Marunouchi 3-chome, Chiyoda-ku Tokyo, 100-8332  
+Tel.: +81-3-6275-6200
 
 For contacts about personal information to MHI's other locations, refer to this:
 
