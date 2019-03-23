@@ -1,44 +1,44 @@
-> *The following text is extracted and transformed from the elitedatascience.com privacy policy that was archived on 2018-02-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180213124927id_/https%3A//elitedatascience.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the elitedatascience.com privacy policy that was archived on 2019-03-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190323181114id_/https%3A//elitedatascience.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
-This is the Privacy Policy for EliteDataScience.com (“Site”), which is owned and operated by Challenger Media LLC (“Company” or “we” or “us”).
+_Last Modified: May 21 st, 2018_
 
-We are serious about protecting your online privacy. This Privacy Statement explains our views and practices concerning privacy, and how they may pertain to you as a user of our website.
+_Effective: May 25 th, 2018_
 
-**SECTION 1 – WHAT DO WE DO WITH YOUR INFORMATION?**
+This is the Privacy Policy for EliteDataScience.com (“Site” or “Website”), which is owned and operated by Challenger Media LLC (“Company” or “We” or “Us”). This policy also pertains to all of content, products, and courses (“Services”) on the site.
 
-When you purchase something from our site, as part of the buying and selling process, we collect the personal information you give us such as your name, address and email address. This enables us to both fulfill and support the products you purchase.
+We are serious about protecting your online privacy. This Privacy Policy explains our views and practices concerning privacy, and how they may pertain to you as a user of our website.
 
-When you browse our site, we also automatically receive your computer’s internet protocol (IP) address in order to provide us with information that helps us learn about your browser and operating system so we can better improve the experience for all our users.
+First, we always follow these fundamental principles:
 
-Email marketing: With your permission, we may send you emails about new products, free and premium content (i.e. blog posts, YouTube videos, reports/whitepapers, etc.), and special events.
+  * We try to keep the data we collect to a minimum. This philosophy is a win-win: it protects our users’ privacy and it simplifies our business processes. This has been our design principle from the beginning, and it will continue to guide our practices.
+  * We try to keep the personal information we collect to a minimum. For example, to analyze our site and content’s performance, we rely on anonymous or aggregate data.
+  * We try to make it as easy as possible to opt out of our email communications. There is an “unsubscribe” link at the bottom of each email. Again, this philosophy is a win-win: we only spend resources to communicate with users who agree to receive them.
+  * We do not actively collect or store any sensitive information about you. We are NOT in the data collection business; we are in the business of creating world-class content and courses.
+  * We never sell, lease, or otherwise share your information with anyone else, except for legal compliance purposes or when necessary for our business operations.
 
-**SECTION 2 – CONSENT**
 
-When you provide us with personal information to complete a transaction, verify your credit card, place an order, arrange for a delivery or return a purchase, we imply that you consent to our collecting it and using it for that specific reason only.
 
-If we ask for your personal information for a secondary reason (i.e. newsletter subscription and marketing messages), we will ask you directly for your expressed consent and provide you with an opportunity to withdraw your consent.
+**HOW WE USE THE INFORMATION WE COLLECT**
 
-You may withdraw your consent at any time by clicking on an “unsubscribe” link which is offered at the bottom of every email we send.
+**Customer Information:** When you buy a product from our site, enroll in a course, or purchase a service, we collect the personal information you provide us such as your name and email address. This enables us to fulfill your purchases and provide customer support. When you provide us this information, you are consenting to allow us to fulfill the order, inform you about product updates, and provide support and content that enhances the quality of the product.
 
-You may also withdraw your consent anytime, by contacting us at support (at) elitedatascience.com.
+**Cookies:** We use cookies to provide a better user experience, more relevant advertising, and important features on our site, such as the ability to log into your account. We may also use third-party tools such as Google Analytics to better understand our visitors at an aggregate level. However, you may disable cookies by changing your browser settings, and further instructions can be found on your Internet browser provider’s website. Please note that certain sections of the Site may not function properly without cookies enabled.
 
-**SECTION 3 – DISCLOSURE**
+**Email Marketing:** When you provide your email address in a form on our site, you consent to allow us to email you about new content on the site, new products, or exclusive offers on existing products. You may withdraw your consent at any time by simply clicking the “unsubscribe” link at the bottom of each email.
 
-We may disclose your personal information if we are required by law to do so or if you violate our [Terms of Service](http://elitedatascience.com/terms-of-service). Also, if our site is acquired or merged with another company, your information may be transferred to the new owners so that they may continue to sell and support our products and services.
+**Testimonials:** If you provide us with an explicit testimonial, you give us your consent for the use of your name and the Service to be displayed on our Site, or in our other marketing materials, together with the content of the testimonial that you provide.
 
-IMPORTANT: We do not sell, rent or otherwise disclose your personal information to any third parties, including but not limited to advertisers, strategic partners or vendors. Again, we take your privacy very seriously.
+**WHERE INFORMATION IS PROCESSED**
 
-**SECTION 4 – DATA STORAGE**
+The Company is based in the United States. In order to provide the Services to you, we must transfer your data to the U.S. for processing. By using our Site or Services, you consent to the processing and transferring of your information in and to the U.S. or other countries, no matter where you are located.
 
-Our shopping cart solution is hosted and managed by Stripe. They provide us with the online e-commerce platform that allows us to sell our products and services to you.
+**DISCLOSURE OF INFORMATION**
 
-Your data is stored through Stripe’s data storage, databases and the general Stripe application. They store your data on a secure server behind a firewall.
-
-NOTE: At no point during the transaction does the Site take custody or store your credit card information. This is process is monitored and managed by Stripe, and you can read their terms of service, privacy policy and PCI Compliance information by visiting their site at: https://stripe.com/us/privacy/[  
+We may disclose your personal information if we are required by law to do so or if you violate our [Terms of Service](http://slice2o.staging.wpengine.com/terms-of-service). Also, if our site is acquired or merged with another company, your information may be transferred to the new owners so that they may continue to sell and support our products and services.[  
 ](http://www.infusionsoft.com/legal)  
-**SECTION 5 – THIRD-PARTY SERVICES**
+**THIRD-PARTY SERVICES**
 
 In general, the third-party providers used by us will only collect, use and disclose your information to the extent necessary to allow them to perform the services they provide to us.
 
@@ -50,28 +50,56 @@ In particular, remember that certain providers may be located in or have facilit
 
 As an example, if you are located in Canada and your transaction is processed by a payment gateway located in the United States, then your personal information used in completing that transaction may be subject to disclosure under United States legislation, including the Patriot Act.
 
-Once you leave our store’s website or are redirected to a third-party website or application, you are no longer governed by this Privacy Policy or our website’s Terms of Service.
+**LINKS TO OTHER SITES**
 
-Links: When you click on links on our store, they may direct you away from our site. We are not responsible for the privacy practices of other sites and encourage you to read their privacy statements.
+Links: When you click on links on our site, they may direct you away from our site. We are not responsible for the privacy practices of other sites and encourage you to read their privacy statements.
 
-**SECTION 6 – SECURITY**
+Once you leave our website or are redirected to a third-party website or application, you are no longer governed by this Privacy Policy or our website’s Terms of Service.
+
+**SECURITY**
 
 To protect your personal information, we take reasonable precautions and follow industry best practices to make sure it is not inappropriately lost, misused, accessed, disclosed, altered or destroyed.
 
-If you provide us with your credit card information, the information is encrypted using secure socket layer technology (SSL) and stored with a AES-256 encryption. Although no method of transmission over the Internet or electronic storage is 100% secure, we follow all PCI-DSS requirements and implement additional generally accepted industry standards.
+Our payment processor is hosted and managed by Stripe, an enterprise-grade merchant solution. They provide us with the online e-commerce platform that allows us to sell our products and services to you. Your data is stored through Stripe’s data storage, databases and the general Stripe application. They store your data on a secure server behind a firewall.
 
-**SECTION 7 – COOKIES**
+NOTE: At no point during the transaction does the Site take custody or store your credit card information. This is process is monitored and managed by Stripe, and you can read their terms of service, privacy policy and PCI Compliance information by visiting their site at: https://stripe.com/us/privacy/
 
-The Site utilizes cookies to create a more customized experience for our users and customers. For example, we use a login cookie so members do not have to re-enter their username and password each time they return to our site We also use tracking pixels (i.e. Google Analytics) to aid in measuring and tracking where our website traffic is coming from and to track the performance of our site. Finally, we use remarking pixels from Facebook and Google to aid in customized, targeted followup advertising.
-
-**SECTION 8 – AGE OF CONSENT**
+**AGE OF CONSENT**
 
 By using this site, you represent that you are at least the age of majority in your state or province of residence, or that you are the age of majority in your state or province of residence and you have given us your consent to allow any of your minor dependents to use this site.
 
-**SECTION 9 – CHANGES TO THIS PRIVACY POLICY**
+**YOUR DATA RIGHTS**
+
+Your local laws, such as GDPR laws in the European Economic Area, may permit you to request that we:
+
+  * Correct or amend any information we store about you;
+  * Delete certain information we store about you;
+  * Prevent the processing of your information for direct-marketing; or
+  * Provide a copy of certain information we store about you.
+
+
+
+To make any of the above requests, please contact us at support (at) elitedatascience.com.
+
+Please allow 30 days for a response. Please also note that some information may be exempt from such requests in some situations, which may include if we need to keep processing your information for legitimate reasons or for legal compliance.
+
+When making such as request, we require the following information to help verify your request and to protect our users from fraudulent requests:
+
+  1. Email address associated with your records;
+  2. Products and/or courses previously purchased;
+  3. Approximate date of user account registration or user opt-in;
+  4. Information you want to view and/or to be deleted;
+  5. Country of residence; and
+  6. A statement under penalty of perjury that your request is truthful and that these are your records you would like to view and/or delete.
+
+
+
+We also require the request to be sent using the same email address as the records, and we may require additional methods of verification in our discretion.
+
+**CHANGES TO THIS PRIVACY POLICY**
 
 We reserve the right to modify this privacy policy at any time, so please review it frequently. Changes and clarifications will take effect immediately upon their posting on the website. If we make material changes to this policy, we will notify you here that it has been updated, so that you are aware of what information we collect, how we use it, and under what circumstances, if any, we use and/or disclose it.
 
 **QUESTIONS AND CONTACT INFORMATION**
 
-If you would like to: access, correct, amend or delete any personal information we have about you, register a complaint, or simply want more information contact our Privacy Compliance Officer at support (at) elitedatascience.com.
+If you have any questions, comments, or complaints about this Privacy Policy, please contact at support (at) elitedatascience.com.
