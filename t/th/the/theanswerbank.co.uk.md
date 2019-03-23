@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the theanswerbank.co.uk privacy policy that was archived on 2017-09-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170923194024id_/http%3A//www.theanswerbank.co.uk/AB-Editors-Blog/article/the-answerbank-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the theanswerbank.co.uk privacy policy that was archived on 2019-03-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190323145439id_/https%3A//www.theanswerbank.co.uk/AB-Editors-Blog/article/the-answerbank-privacy-policy) for the most accurate reproduction.*
 
 # The AnswerBank Privacy Policy in The AnswerBank: Editor's Blog
 
@@ -48,7 +48,7 @@ For more information on your profile and using the site, please [check out our F
 
 **Who makes sure we keep our word?**
 
-Any details which you provide to us from which we can identify you are protected by the [Data Protection Act](https://web.archive.org/web/20170923194024id_/http://www.theanswerbank.co.uk/AB-Editors-Blog/article/the-answerbank-privacy-policy/%E2%80%9Dhttp://www.dataprotection.gov.uk/principl.htm%E2%80%9D). 
+Any details which you provide to us from which we can identify you are protected by the [Data Protection Act](https://web.archive.org/web/20190323145439id_/https://www.theanswerbank.co.uk/AB-Editors-Blog/article/the-answerbank-privacy-policy/%E2%80%9Dhttp://www.dataprotection.gov.uk/principl.htm%E2%80%9D). 
 
 **Does The AnswerBank use cookies?**
 
@@ -57,13 +57,6 @@ Yes. Cookies are small files that are placed on your computer by your browser. W
 **Do AnswerBank advertisers use cookies?**
 
 Yes. AnswerBank works with several partners to directly or indirectly serve advertisements to the site. Adverts are an important way of providing revenue to The AnswerBank, which is completely free at the point of use. Advertising cookies do not contain personal details such as your name, telephone number or address. They may however be use for re-targeting campaigns and assuring you are not displayed averts more than a certain number of times per session. We believe that relevant and interesting adverts are important for maintaining site quality. 
-
-**Third Party Cookie Sharing**
-
-We work with several third-party partners to help us send personalised communication and adverts. We always use a de-identified non-human readable version of your email for matching to other data. At no time is your actual email address shared with any of these partners.  
-Partners who we work with are:  
-LiveRamp  
-The purpose of LiveRamp's service is to help brands use their data to improve customer interactions on any channel and device. LiveRamp may place an anonymous cookie and use a de-identified, non-human readable version of your email address for matching to other data about you to improve the relevance of online advertising and personalisation. To learn more or opt out of LiveRamp [click here](http://liveramp.com/service-privacy-policy). 
 
 **What is the best way to see what kind of cookies are being served to me?**
 
@@ -99,7 +92,7 @@ This may change as the service evolves. We will notify users of this site to any
 
 **How can I contact The AnswerBank?**
 
-If you wish to email us with any questions or comments about The AnswerBank, then please [contact us here](https://web.archive.org/web/20170923194024id_/http://www.theanswerbank.co.uk/AB-Editors-Blog/article/the-answerbank-privacy-policy/%E2%80%9Dhttp://www.theanswerbank.co.uk/Info/ContactUs/%E2%80%9D) or email us at  
+If you wish to email us with any questions or comments about The AnswerBank, then please [contact us here](https://web.archive.org/web/20190323145439id_/https://www.theanswerbank.co.uk/AB-Editors-Blog/article/the-answerbank-privacy-policy/%E2%80%9Dhttp://www.theanswerbank.co.uk/Info/ContactUs/%E2%80%9D) or email us at  
 [theeditor@theanswerbank.co.uk](mailto:theeditor@theanswerbank.co.uk?Subject=Privacy%20Policy%20Contact)
 
 If you wish to write to us by snail mail our registered address is: 
