@@ -1,8 +1,10 @@
-> *The following text is extracted and transformed from the voxox.com privacy policy that was archived on 2017-09-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170916213137id_/http%3A//www.voxox.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the voxox.com privacy policy that was archived on 2019-03-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190323225935id_/https%3A//www.voxox.com/privacy-policy) for the most accurate reproduction.*
 
-# VOXOX | Privacy Policy
+# Voxox Office | Business VOIP, SIP Trunks and Hosted PBX
 
-Telcentris, Inc., doing business as Voxox (“Voxox”), is committed to building a trusted relationship with all of our users (“You”, “Your” or “Yourself”).  This privacy policy (“Privacy Policy”) covers how we treat Your business and personal information.  To enable Your Voxox service (“Service”), we collect and receive some of Your business and personal information when You register for and use the Service, which includes the use of the Voxox website (“Website”), Voxox apps (“Apps”), Voxox network (“Network”) and Voxox software (“Software”).This Privacy Policy is subject to the respective Voxox Terms of Service.  Your use of the Service, including the Website, Apps, Network and Software, remains subject to the terms of this Privacy Policy and our Terms of Service.This Privacy Policy does not apply to the practices of companies that Voxox does not own or control, or to individuals whom Voxox does not employ or manage, including any authorized third party to which Voxox may disclose user information as set forth in this Privacy Policy.
+## Voxox Privacy Policy
+
+Telcentris, Inc., doing business as Voxox (“Voxox”), is committed to building a trusted relationship with all of our users (“You”, “Your” or “Yourself”). This privacy policy (“Privacy Policy”) covers how we treat Your business and personal information. To enable Your Voxox service (“Service”), we collect and receive some of Your business and personal information when You register for and use the Service, which includes the use of the Voxox website (“Website”), Voxox apps (“Apps”), Voxox network (“Network”) and Voxox software (“Software”).This Privacy Policy is subject to the respective Voxox Terms of Service. Your use of the Service, including the Website, Apps, Network and Software, remains subject to the terms of this Privacy Policy and our Terms of Service.This Privacy Policy does not apply to the practices of companies that Voxox does not own or control, or to individuals whom Voxox does not employ or manage, including any authorized third party to which Voxox may disclose user information as set forth in this Privacy Policy.
 
 If You don’t agree to our practices, please do not use the Service.
 
@@ -10,7 +12,7 @@ If You don’t agree to our practices, please do not use the Service.
 
 
 
-Voxox may gather and use information about You, known as personally identifiable information (PII), to provide You with the best possible experience when using the Service.  This information may include:
+Voxox may gather and use information about You, known as personally identifiable information (PII), to provide You with the best possible experience when using the Service. This information may include:
 
 a. Information about You, such as Your name, mobile phone number, email address, and any additional information that You provide as part of the registration process  
 b. Billing information, such as Your credit/debit card and banking information  
@@ -28,7 +30,7 @@ k. Survey results
 
 
 
-When visiting the Website, we may track certain non-personally identifiable information about You and Your interaction with our website in order to (a) remember information so that You don’t need to re-enter it during Your visit, (b) provide customer or personalized content and information, (c) monitor individual and aggregate metrics such as the total number of visitors, pages viewed, etc., (d) perform internal research on our users’ demographics, interests and behavior, (e) track Your entries, submissions and views, and (f) to monitor and enforce the Terms of Service agreement.  This information may include:
+When visiting the Website, we may track certain non-personally identifiable information about You and Your interaction with our website in order to (a) remember information so that You don’t need to re-enter it during Your visit, (b) provide customer or personalized content and information, (c) monitor individual and aggregate metrics such as the total number of visitors, pages viewed, etc., (d) perform internal research on our users’ demographics, interests and behavior, (e) track Your entries, submissions and views, and (f) to monitor and enforce the Terms of Service agreement. This information may include:
 
 a. Log File information, such as Your web request, Internet Protocol (IP) address, browser type, browser language, date and time of Your web requests, pages viewed, order and amount of time spent on each page, number of clicks, domain names, landing pages, the URL or web page that referred You to our website, the next URL or webpage You may visit, and any traffic to and from the Website.  
 b. Cookies information, if we send one or more persistent or session cookies (which are small text files containing a string of alphanumeric characters to uniquely identify Your computer browser) while You are visiting the Website. Your browser may use persistent cookies on subsequent visits to the Website. Persistent cookies can be removed by following Your web browser help file directions. A session cookie is temporary and disappears after You close Your browser. You can reset Your web browser to refuse all cookies or to indicate when a cookie is being sent. However, the Website may not function properly if the ability to accept cookies is disabled.
@@ -41,19 +43,19 @@ Please note that any voluntarily transmitted status submissions, business inform
 
 In the event that You contact Voxox to solicit customer care, You shall authorize Voxox from time to time to monitor and record the customer service call for quality control and training purposes.
 
-Voxox may monitor the quality of phone calls, message traffic, voicemail and call recordings, and thus You shall authorize Voxox to (a) contact You from time to time to evaluate the quality of Your communications, and (b) monitor or record Your phone calls that pass through its network and systems solely for troubleshooting and/or Service quality control checks required for the provision of Services.  These recordings may be done with or without Your knowledge and such recordings will only be used for quality purposes.
+Voxox may monitor the quality of phone calls, message traffic, voicemail and call recordings, and thus You shall authorize Voxox to (a) contact You from time to time to evaluate the quality of Your communications, and (b) monitor or record Your phone calls that pass through its network and systems solely for troubleshooting and/or Service quality control checks required for the provision of Services. These recordings may be done with or without Your knowledge and such recordings will only be used for quality purposes.
 
   4. **Information Not Collected**
 
 
 
-Voxox does not collect the names, email addresses, mailing addresses or other contact information from Your mobile address book or contact lists.  Voxox only collects the phone numbers so the Software can provide on-network contact discovery, select calling features (e.g., call block, call screening, etc.) and route the calls.
+Voxox does not collect the names, email addresses, mailing addresses or other contact information from Your mobile address book or contact lists. Voxox only collects the phone numbers so the Software can provide on-network contact discovery, select calling features (e.g., call block, call screening, etc.) and route the calls.
 
   5. **How Your Personal Information Is Used**
 
 
 
-Voxox wants every user to have the best experience possible when using the Service.  Thus, Voxox itself and its third party service providers collect and use Your personal data to:
+Voxox wants every user to have the best experience possible when using the Service. Thus, Voxox itself and its third party service providers collect and use Your personal data to:
 
 a. Verify Your identity  
 b. Provide products, functionality, features and services  
@@ -73,25 +75,25 @@ m. Protect Your and our interests, including in particular the enforcement of ou
 
 
 
-Like You, Voxox does not like unsolicited advertising (spam). Thus, Voxox is ad-free, and we hope to keep it that way.  We have no intention to subject You to advertising, but if for some unforeseen reason we do, we will let You know and update this section.
+Like You, Voxox does not like unsolicited advertising (spam). Thus, Voxox is ad-free, and we hope to keep it that way. We have no intention to subject You to advertising, but if for some unforeseen reason we do, we will let You know and update this section.
 
-Except as provided below, Voxox shall not sell, rent, or otherwise share any business or personal information and/or traffic data or communications content to any third party without Your explicit permission, unless it is necessary to comply with the law.  This includes not using Your mobile phone number or other personal information to send You advertising or marketing messages without Your consent or except as part of a specific program or feature for which You will have the ability to opt-in or opt-out.
+Except as provided below, Voxox shall not sell, rent, or otherwise share any business or personal information and/or traffic data or communications content to any third party without Your explicit permission, unless it is necessary to comply with the law. This includes not using Your mobile phone number or other personal information to send You advertising or marketing messages without Your consent or except as part of a specific program or feature for which You will have the ability to opt-in or opt-out.
 
-Voxox reserves the right to disclose business and personal information to respond to legal requests or to enforce or protect Voxox and it partners’ rights.  This includes disclosing information and/or non-personally identifiable information that Voxox beliefs, in good faith, is appropriate or necessary to enforce our Terms of Service, take precautions against liability, to investigate and defend itself against a third party claim or allegation, to assist government enforcement agencies, to protect the security or integrity of the Apps, Software, Website and/or its Network, and to protect the rights, property, or personal safety of Voxox, our users or others.
+Voxox reserves the right to disclose business and personal information to respond to legal requests or to enforce or protect Voxox and it partners’ rights. This includes disclosing information and/or non-personally identifiable information that Voxox beliefs, in good faith, is appropriate or necessary to enforce our Terms of Service, take precautions against liability, to investigate and defend itself against a third party claim or allegation, to assist government enforcement agencies, to protect the security or integrity of the Apps, Software, Website and/or its Network, and to protect the rights, property, or personal safety of Voxox, our users or others.
 
-Some Voxox products may be white-labeled or co-branded and offered together with or via a partner company.  Thus, Voxox may sometimes share Your personal and traffic data with Voxox partner companies.  Voxox will always require these third parties to take appropriate administrative and technical steps to comply with all necessary laws and protect Your personal information and traffic data with same degree of care and security as they would treat their own most confidential information.
+Some Voxox products may be white-labeled or co-branded and offered together with or via a partner company. Thus, Voxox may sometimes share Your personal and traffic data with Voxox partner companies. Voxox will always require these third parties to take appropriate administrative and technical steps to comply with all necessary laws and protect Your personal information and traffic data with same degree of care and security as they would treat their own most confidential information.
 
 By using Voxox, You consent to both Voxox and the partner company’s use of personal information collected in connection with the white-labeled or co-branded product.
 
-Voxox may provide any data including personal information to any law or government entity legally requesting such information via a subpoena, court order, search warrant, or equivalent, or where in our reasonable belief, an individual’s physical safety may be at risk or threatened.  Voxox will provide all reasonable assistance and information to fulfill such requests and Your consent to such disclosure, as applicable.
+Voxox may provide any data including personal information to any law or government entity legally requesting such information via a subpoena, court order, search warrant, or equivalent, or where in our reasonable belief, an individual’s physical safety may be at risk or threatened. Voxox will provide all reasonable assistance and information to fulfill such requests and Your consent to such disclosure, as applicable.
 
-Your information may be stored and processed in any country in which Voxox and its partners maintain facilities or offer the Service.  Voxox reserves the right to transfer information globally.  By using Voxox products and this Service, You consent to any such transfer of information.
+Your information may be stored and processed in any country in which Voxox and its partners maintain facilities or offer the Service. Voxox reserves the right to transfer information globally. By using Voxox products and this Service, You consent to any such transfer of information.
 
   7. **In the Event of Merger, Sale or Bankruptcy**
 
 
 
-Voxox may merge or be acquired by another business entity or may sell all or substantially all of its assets to an acquirer.  In the event of such merger, acquisition or sale, Voxox will continue to protect Your personal information and send You a notice before Your personal information is transferred or becomes subject to a different privacy policy.  Once the merger, acquisition or sale is complete, Voxox may share some or all of Your personally identifiable information with the acquiring company to continue serving You.
+Voxox may merge or be acquired by another business entity or may sell all or substantially all of its assets to an acquirer. In the event of such merger, acquisition or sale, Voxox will continue to protect Your personal information and send You a notice before Your personal information is transferred or becomes subject to a different privacy policy. Once the merger, acquisition or sale is complete, Voxox may share some or all of Your personally identifiable information with the acquiring company to continue serving You.
 
 In the unlikely event of bankruptcy, insolvency, reorganization, receivership, or assignment for the benefit of creditors, or the application of laws or equitable principles affecting creditors’ rights generally, we may not be able to control how Your personal information is treated, transferred, or used.
 
@@ -99,15 +101,15 @@ In the unlikely event of bankruptcy, insolvency, reorganization, receivership, o
 
 
 
-You may use the Service to initiate and receive phone calls or send messages that are partly or fully handled via our partners.  Therefore, any information that You may communicate during such phone calls or in such messages, including any personal information, shall not be deemed private.  Voxox cannot guarantee the security of any information that You disclose or communicate in such communications.  You agree and consent that any information that You communicate is at Your own risk.
+You may use the Service to initiate and receive phone calls or send messages that are partly or fully handled via our partners. Therefore, any information that You may communicate during such phone calls or in such messages, including any personal information, shall not be deemed private. Voxox cannot guarantee the security of any information that You disclose or communicate in such communications. You agree and consent that any information that You communicate is at Your own risk.
 
-You may also use the Service to reply to an incoming phone call with a message like “I’m busy, call me back later” that is sent to their mobile phone number.  Thus, if another person has Your mobile phone number stored in their contact list, they will be able to send You such notifications, unless You have chosen to block the user from being able to place calls to You.
+You may also use the Service to reply to an incoming phone call with a message like “I’m busy, call me back later” that is sent to their mobile phone number. Thus, if another person has Your mobile phone number stored in their contact list, they will be able to send You such notifications, unless You have chosen to block the user from being able to place calls to You.
 
   9. **Website and Third Party Applications**
 
 
 
-Voxox websites may contain links that will let You leave the Website and access other websites.  Linked websites are not under the control of Voxox and it is possible that these websites have a different privacy policy.  The Voxox Privacy Policy applies solely to business and personal information that is acquired on the Website or through Your use of the Website, Software, Apps and/or Your relationship with Voxox.  Voxox accepts no responsibility or liability for these other websites.
+Voxox websites may contain links that will let You leave the Website and access other websites. Linked websites are not under the control of Voxox and it is possible that these websites have a different privacy policy. The Voxox Privacy Policy applies solely to business and personal information that is acquired on the Website or through Your use of the Website, Software, Apps and/or Your relationship with Voxox. Voxox accepts no responsibility or liability for these other websites.
 
 If You use any extras, plugins or third party applications together with the Software, the provider of such items may obtain access to certain personal information about You. Voxox does not and cannot control how such third party providers may use any personal information collected in connection with such items/
 
@@ -121,7 +123,7 @@ Voxox takes administrative and technical steps to ensure that only its authorize
 
 
 
-Voxox uses commercially reasonable physical, managerial, and technical safeguards to preserve the integrity and security of Your personal information. We cannot, however, ensure or warrant the security of any information You transmit via Voxox and You do so at Your own risk. Using unsecured Wi-Fi or other unprotected networks to send messages through the Service is never recommended. Once Voxox receives Your transmission of information, Voxox makes commercially reasonable efforts to ensure the privacy and security of the information within our systems.  However, please note that this is not a guarantee that such information may not be accessed, disclosed, altered, or destroyed by breach of any of our physical, technical, or managerial safeguards. If Voxox learns of a security systems breach, then we may attempt to notify You electronically so that You can take appropriate protective steps. Voxox may post a notice on the Website, via the App or through the Service if a security breach occurs.
+Voxox uses commercially reasonable physical, managerial, and technical safeguards to preserve the integrity and security of Your personal information. We cannot, however, ensure or warrant the security of any information You transmit via Voxox and You do so at Your own risk. Using unsecured Wi-Fi or other unprotected networks to send messages through the Service is never recommended. Once Voxox receives Your transmission of information, Voxox makes commercially reasonable efforts to ensure the privacy and security of the information within our systems. However, please note that this is not a guarantee that such information may not be accessed, disclosed, altered, or destroyed by breach of any of our physical, technical, or managerial safeguards. If Voxox learns of a security systems breach, then we may attempt to notify You electronically so that You can take appropriate protective steps. Voxox may post a notice on the Website, via the App or through the Service if a security breach occurs.
 
   12. **Our Commitment To Children’s Privacy**
 
