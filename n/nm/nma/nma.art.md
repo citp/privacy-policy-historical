@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nma.art privacy policy that was archived on 2018-09-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180904031734id_/https%3A//www.nma.art/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nma.art privacy policy that was archived on 2019-03-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190323050537id_/https%3A//www.nma.art/privacy-policy) for the most accurate reproduction.*
 
 # New Masters Academy Privacy Policy | New Masters Academy
 
