@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sprinklecontent.com privacy policy that was archived on 2018-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180527170705id_/https%3A//strossle.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sprinklecontent.com privacy policy that was archived on 2019-03-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190323235632id_/https%3A//strossle.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Strossle
 
@@ -32,7 +32,7 @@ We may store information locally on your device (e.g., using your browsers local
 
 **Log information**
 
-When you use our service and interact with our recommendations, we collect information about where our service is loaded, what recommendations are displayed and what recommendations are clicked. We use this information in order to optimise recommendations and calculate delivery and payouts for advertisers and publishers. We focus on contextual optimisation and we do not store any personal data of any kind. For legal reasons, we may store IP addresses for up to 14 days if any fraudulent activities occur (see section: How we use the information we collect).
+When you use our service and interact with our recommendations, we collect information about where our service is loaded, what recommendations are displayed and what recommendations are clicked. We use this information in order to optimise recommendations and calculate delivery and payouts for advertisers and publishers. We focus on contextual optimisation and we do not store any personal data of any kind. For legal reasons, we may store IP addresses for up to 60 days if any fraudulent activities occur (see section: How we use the information we collect).
 
 ## How we use the information we collect
 
@@ -44,7 +44,7 @@ The data we collect when a user interacts with our service, specifically ad reco
 
 **Fraud detection**
 
-In order to protect our service and customers (e.g., publishers and advertisers), we use the information we collect to detect and analyse fraudulent activities. We may store the data (including IP address) for up to 14 days before it is deleted.
+In order to protect our service and customers (e.g., publishers and advertisers), we use the information we collect to detect and analyse fraudulent activities. We may store the data (including IP address) for up to 60 days before it is deleted.
 
 **Communication and support**
 
