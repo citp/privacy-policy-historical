@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ninadirectory.com privacy policy that was archived on 2018-10-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181024142524id_/http%3A//www.ninadirectory.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ninadirectory.com privacy policy that was archived on 2019-03-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190323214401id_/http%3A//www.ninadirectory.com/privacy.php) for the most accurate reproduction.*
 
 # Nina Directory - Privacy Policy
 
