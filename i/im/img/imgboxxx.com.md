@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the imgboxxx.com privacy policy that was archived on 2018-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181121070709id_/http%3A//imgboxxx.com/info.php%3Fact%3Dprivacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the imgboxxx.com privacy policy that was archived on 2019-03-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190323113158id_/http%3A//imgboxxx.com/info.php%3Fact%3Dprivacy_policy) for the most accurate reproduction.*
 
 # ImgBoxxx » More Information » Privacy Policy
 
