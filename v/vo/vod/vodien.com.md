@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the vodien.com privacy policy that was archived on 2018-09-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180903100935id_/https%3A//www.vodien.com/terms/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vodien.com privacy policy that was archived on 2019-03-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190323215841id_/https%3A//www.vodien.com/terms/privacy) for the most accurate reproduction.*
 
-# Privacy Policy | Assurance of privacy as a Vodien Customer - Vodien
+# 
 
 ## Sharing
 
@@ -22,7 +22,7 @@ In the event Vodien Internet Solutions goes through a business transition, such 
 
 Choice/Opt-out 
 
-Users who no longer wish to receive our newsletter and promotional communications may opt-out of receiving these communications by sending us an email at [marketing@vodien.com](mailto:marketing@vodien.com) . We also offer an opt-out mechanism on the newsletter subscription confirmation email. Alternatively, the user may contact us at +65 6288 6264 to opt-out. 
+Users who no longer wish to receive our newsletter and promotional communications may opt-out of receiving these communications by sending us an email at [marketing@vodien.com](mailto:marketing@vodien.com). We also offer an opt-out mechanism on the newsletter subscription confirmation email. Alternatively, the user may contact us at +65 6914 7888 to opt-out. 
 
 Users of our site are always notified when their information is being collected by any outside parties. We do this so our users can make an informed choice as to whether or not they should proceed with services that require an outside party. 
 
@@ -56,6 +56,6 @@ If we decide to change our privacy policy, we will post those changes to this pr
 
 Contact Information 
 
-Questions regarding this privacy policy may be directed to [contact@vodien.com ](mailto:contact@vodien.com). 
+Questions regarding this privacy policy may be directed to [contact@vodien.com](mailto:contact@vodien.com). 
 
 _The above stated Privacy Policy is correct as of 6th of April 2018._
