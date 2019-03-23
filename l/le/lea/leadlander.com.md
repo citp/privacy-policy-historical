@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the leadlander.com privacy policy that was archived on 2018-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181216171129id_/https%3A//uplandsoftware.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the leadlander.com privacy policy that was archived on 2019-03-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190323015349id_/https%3A//uplandsoftware.com/privacy) for the most accurate reproduction.*
 
-# Upland Privacy Policy
+# Privacy Policy | Upland Software
 
 ### Upland Software, Inc.
 
@@ -113,65 +113,24 @@ All information provided to our Customers using our Platforms is controlled by o
 ##### Retrieve a copy of the safeguards here  
   
 ---|---|---  
-  
-**Hubspot / United States**
-
-| 
-
-EU-U.S. and Swiss-U.S. Privacy Shield Framework
-
-| 
-
-<https://legal.hubspot.com/dpa>   
+**Hubspot / United States** | EU-U.S. and Swiss-U.S. Privacy Shield Framework | <https://legal.hubspot.com/dpa>  
 [https://www.privacyshield.gov/participant?id=a2zt0000000TN8pAAG&status=Active](https://www.privacyshield.gov/participant?id=a2zt0000000TN8pAAG&status=Active)  
-  
-**Salesforce / United States**
-
-| 
-
-EU-U.S. and Swiss-U.S. Privacy Shield Framework
-
-| 
-
-<https://www.salesforce.com/uk/campaign/gdpr/>   
+**Salesforce / United States** | EU-U.S. and Swiss-U.S. Privacy Shield Framework | <https://www.salesforce.com/uk/campaign/gdpr/>  
 [https://www.privacyshield.gov/participant?id=a2zt0000000KzLyAAK&status=Active](https://www.privacyshield.gov/participant?id=a2zt0000000KzLyAAK&status=Active)  
-  
-**Marketo / United States, Australia, Germany, Ireland, Israel, Japan, and the UK**
-
-| 
-
-EU-U.S. and Swiss-U.S. Privacy Shield Framework
-
-| 
-
-<https://www.marketo.com/company/trust/security/>   
+**Marketo / United States, Australia, Germany, Ireland, Israel, Japan, and the UK** | EU-U.S. and Swiss-U.S. Privacy Shield Framework | <https://www.marketo.com/company/trust/security/>  
 [https://www.privacyshield.gov/participant?id=a2zt0000000Gnm2AAC&status=Active](https://www.privacyshield.gov/participant?id=a2zt0000000Gnm2AAC&status=Active)  
-  
-**Amazon AWS / United States, European Union, Canada**
-
-| 
-
-EU-U.S. and Swiss-U.S. Privacy Shield Framework  
-ISO27001 Certification
-
-| 
-
-<https://aws.amazon.com/compliance/eu-us-privacy-shield-faq/>  
+**Amazon AWS / United States, European Union, Canada** | EU-U.S. and Swiss-U.S. Privacy Shield Framework  
+ISO27001 Certification | <https://aws.amazon.com/compliance/eu-us-privacy-shield-faq/>  
 <https://www.privacyshield.gov/participant?id=a2zt0000000TOWQAA4>  
 <https://d1.awsstatic.com/certifications/iso_27001_global_certification.pdf>  
-  
-**Microsoft / United States**
-
-| 
-
-EU-U.S. and Swiss Privacy Shield Framework  
-ISO27001 Certification
-
-| 
-
-<https://products.office.com/en-us/business/office-365-trust-center-privacy>  
+**Microsoft / United States** | EU-U.S. and Swiss Privacy Shield Framework  
+ISO27001 Certification | <https://products.office.com/en-us/business/office-365-trust-center-privacy>  
 [https://www.privacyshield.gov/participant?id=a2zt0000000KzNaAAK&status=Active](https://www.privacyshield.gov/participant?id=a2zt0000000KzNaAAK&status=Active)  
 [https://www.bsigroup.com/en-US/Our-services/Management-system-certification/Certificate-and-Customer-Directory-Search/Certificate-Customer-Directory-Search-Results/?searchkey=company%3dMicrosoft%26city%3dRedmond&licencenumber=IS%20552878](https://www.bsigroup.com/en-US/Our-services/Management-system-certification/Certificate-and-Client-Directory-Search/Certificate-Client-Directory-Search-Results/?searchkey=company%3dMicrosoft%26city%3dRedmond&licencenumber=IS%20552878)  
+**Zendesk / United States / European Union** | EU-U.S. and Swiss-U.S. Privacy Shield Framework, ISO27001 Certification | 
+
+[https://www.privacyshield.gov/participant?id=a2zt0000000TOjeAAG&status=Active](https://www.privacyshield.gov/participant?id=a2zt0000000TOjeAAG&status=Active)  
+<https://www.zendesk.com/product/zendesk-security/>  
   
 ### Cookies and Other Tracking Technologies
 
@@ -256,7 +215,7 @@ Contact details for the EU data protection authorities can be found at <http://e
 
 ### Privacy Shield Frameworks
 
-Upland Software Inc. complies with the EU-US Privacy Shield Framework and the Swiss-US Privacy Shield Framework as set forth by the US Department of Commerce regarding the collection, use, and retention of personal information from European Union member countries and Switzerland transferred to the United States pursuant to Privacy Shield. Upland has certified that it adheres to the Privacy Shield Principles with respect to such data. If there is any conflict between the policies in this privacy policy and data subject rights under the Privacy Shield Principles, the Privacy Shield Principles shall govern. To learn more about the Privacy Shield program, and to view our certification page, please visit <https://www.privacyshield.gov/>
+Upland Software Inc. complies with the EU-US Privacy Shield Framework and the Swiss-US Privacy Shield Framework as set forth by the US Department of Commerce regarding the collection, use, and retention of personal information from European Union member countries and the United Kingdom and Switzerland transferred to the United States pursuant to Privacy Shield. Upland has certified that it adheres to the Privacy Shield Principles with respect to such data. If there is any conflict between the policies in this privacy policy and data subject rights under the Privacy Shield Principles, the Privacy Shield Principles shall govern. To learn more about the Privacy Shield program, and to view our certification page, please visit <https://www.privacyshield.gov/>
 
 With respect to personal data received or transferred pursuant to the Privacy Shield Frameworks, Upland is subject to the regulatory enforcement powers of the U.S. Federal Trade Commission.
 
