@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the greyscalegorilla.com privacy policy that was archived on 2018-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181230151946id_/https%3A//greyscalegorilla.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the greyscalegorilla.com privacy policy that was archived on 2019-03-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190323114815id_/https%3A//greyscalegorilla.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Greyscalegorilla
 
