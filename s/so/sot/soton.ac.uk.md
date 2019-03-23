@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the soton.ac.uk privacy policy that was archived on 2018-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181225124932id_/https%3A//www.southampton.ac.uk/about/governance/policies/privacy-policy.page) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the soton.ac.uk privacy policy that was archived on 2019-03-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190323105734id_/https%3A//www.southampton.ac.uk/about/governance/policies/privacy-policy.page) for the most accurate reproduction.*
 
 # Privacy Notice | University of Southampton
 
