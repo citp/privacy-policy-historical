@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tomasha.com privacy policy that was archived on 2017-10-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171001152927id_/http%3A//www.tomasha.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tomasha.com privacy policy that was archived on 2019-03-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190324000038id_/https%3A//www.tomasha.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy of Tomasha
 
@@ -43,13 +43,10 @@ We may update this privacy statement to reflect changes to our information pract
 
 **CONTACT US**    
 If you have any questions about this privacy policy or the security practices of this site, please contact us through one of the methods listed on the contact us page of our site   
-[Contact Us](https://web.archive.org/web/20171001152927id_/http%3A//www.tomasha.com/contact)    
+[Contact Us](https://web.archive.org/web/20190324000038id_/https%3A//www.tomasha.com/contact)    
 Or   
 Customer Care at [webmaster@tomasha.com](mailto:webmaster@tomasha.com)  , or by contacting us by postal mail at the contact information listed below. 
 
 **_Legal Disclaimer_  **
 
 _We reserve the right to disclose your personally identifiable information as required by law and when we believe that disclosure is necessary to protect our rights and/or to comply with a judicial proceeding, court order, or legal process served on our Web site_
-
-
-
