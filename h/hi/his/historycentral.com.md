@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the historycentral.com privacy policy that was archived on 2018-05-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180522013550id_/http%3A//www.historycentral.com/Privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the historycentral.com privacy policy that was archived on 2019-03-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190323161216id_/https%3A//www.historycentral.com/Privacy.html) for the most accurate reproduction.*
 
-# HistoryCentral.com: Privacy Policy
+# About History Central
 
-HistoryCentral.com
+## HistoryCentral.com
 
 _**STATEMENT REGARDING INFORMAITON USE & PRIVACY ON THIS SITE**_
 
@@ -22,7 +22,7 @@ Some pages on our site may use "cookies" to keep track of your shopping cart. Co
 
 **Advertisers**
 
-"We use third-party advertising companies to serve ads when you visit our Web site. Our third-party advertising company also separately places or recognizes a cookie file on your browser in the course of delivering advertisements to this Site. These companies may use information (not including your name, address email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. I
+"We use third-party advertising companies to serve ads when you visit our Web site. Our third-party advertising company also separately places or recognizes a cookie file on your browser in the course of delivering advertisements to this Site. These companies may use information (not including your name, address email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. Almost all of the ads served on our site are served through the Google Ad Sense Platorm. Here is a [link](https://policies.google.com/technologies/partner-sites) to their policies
 
 **Registration Forms**
 
@@ -80,7 +80,7 @@ Our site provides users the opportunity to opt-out of receiving promotional/mark
 
 MultiEducator, Inc.  
 HistoryCentral.com  
-226 North Avenue  
+2553 North Avenue  
 New Rochelle, NY 10801
 
 **Data Quality/Access**
