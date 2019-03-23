@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ycp.edu privacy policy that was archived on 2018-10-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181002131313id_/https%3A//www.ycp.edu/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ycp.edu privacy policy that was archived on 2019-03-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190323120449id_/https%3A//www.ycp.edu/privacy-statement) for the most accurate reproduction.*
 
 # Privacy Statement | York College of PA
 
