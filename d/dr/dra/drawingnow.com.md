@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the drawingnow.com privacy policy that was archived on 2017-01-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170130023115id_/https%3A//www.drawingnow.com/policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the drawingnow.com privacy policy that was archived on 2019-03-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190323092001id_/https%3A//www.drawingnow.com/policy) for the most accurate reproduction.*
 
-# Privacy Policy | DrawingNow
+# Privacy Policy - DrawingNow
 
 The following discloses our privacy policy for this web site, DrawingNow.com. We take your privacy concerns seriously and we strive to earn and keep your trust.
 
