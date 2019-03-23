@@ -1,6 +1,10 @@
-> *The following text is extracted and transformed from the dvd.com privacy policy that was archived on 2018-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181220150809id_/https%3A//help.netflix.com/legal/privacy%3Flocale%3Den%26docType%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dvd.com privacy policy that was archived on 2019-03-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190323102903id_/https%3A//help.netflix.com/legal/privacy%3Flocale%3Den%26docType%3Dprivacy) for the most accurate reproduction.*
 
 # None
+
+  * [ Back to Help Home ](https://web.archive.org/en)
+
+
 
 This Privacy Statement explains our practices, including your choices, regarding the collection, use, and disclosure of certain information, including your personal information, by the [Netflix family of companies](https://help.netflix.com/support/2101) ("Netflix").
 
