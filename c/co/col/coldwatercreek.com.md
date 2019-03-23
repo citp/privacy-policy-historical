@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the coldwatercreek.com privacy policy that was archived on 2018-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181219013343id_/http%3A//www.coldwatercreek.com/privacy-policy/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the coldwatercreek.com privacy policy that was archived on 2019-03-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190323184129id_/http%3A//www.coldwatercreek.com/privacy-policy/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy | Coldwater Creek
 
