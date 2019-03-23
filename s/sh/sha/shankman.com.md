@@ -1,71 +1,75 @@
-> *The following text is extracted and transformed from the shankman.com privacy policy that was archived on 2011-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111222040000id_/http%3A//shankman.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shankman.com privacy policy that was archived on 2019-03-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190323081209id_/https%3A//www.shankman.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Peter Shankman
+# Privacy Policy - Peter Shankman
 
-SHANKMAN.COM™ PRIVACY POLICY STATEMENT
+## Who we are
 
-### COMPANY
+Our website address is: https://www.shankman.com.
 
-Shankman.com™ is owned and run by Peter Shankman (“Shankman” “Shankman.com” or “us”). To contact us with questions about this privacy policy, e- mail us at email us at info at Shankman dot com, or via postal mail at Peter Shankman, c/o Jerry S. Goldman, Esquire, Anderson Kill & Olick, P.C., 1251 Avenue of the Americas, New York, New York 10020 USA (+1-212-278-1000).
+## What personal data we collect and why we collect it
 
-### SCOPE
+### Comments
 
-Peter Shankman d/b/a Shankman.com™ (“Shankman.com”), has adopted this Privacy Policy to inform its customers and others about how it protects personally identifiable information and other information that may be collected when users visit the Shankman.com web site.
+When visitors leave comments on the site we collect the data shown in the comments form, and also the visitor’s IP address and browser user agent string to help spam detection.
 
-This Privacy Policy covers Shankman.com’s treatment of personal or personally identifiable information (“Personal Information”) that may be collected when you are on the Shankman.com website, and when you use the services of Shankman.com. The privacy of your nonpublic information is important to us. This includes, but is not limited to, your name, email address and any other personally identifiable information. We use safeguards to protect your privacy and confidentiality. This Policy Statement discusses information we collect and the manner in which it is used.
+An anonymized string created from your email address (also called a hash) may be provided to the Gravatar service to see if you are using it. The Gravatar service privacy policy is available here: https://automattic.com/privacy/. After approval of your comment, your profile picture is visible to the public in the context of your comment.
 
-### INFORMATION COLLECTION
+### Media
 
-Our primary goal in collecting personal information is to provide you with a smooth, efficient, and customized experience.
+If you upload images to the website, you should avoid uploading images with embedded location data (EXIF GPS) included. Visitors to the website can download and extract any location data from images on the website.
 
-Shankman.com is sensitive to the protection of “customer identifiable” information which an individual or another customer reasonably expects to be kept private. “Customer identifiable” information means information which can be associated with a specific entity or individual, including, by way of example, a customer’s name, e-mail address, and information about on-line activities which can be directly linked to him or her.
+### Contact forms
 
-Shankman.com may also collect Personal Information from your usage of the Shankman.com website. If you do nothing during your visit but browse through the website and read the information contained on the Web pages, we may gather certain information about your visit automatically, such as your IP address, the date and time you access a given page, and the pages you visit. We use cookies to identify return users, so that they need not log in each time they arrive.
+Any data submitted in a contact form is not stored locally. Instead it is transmitted directly to our Gmail. We are happy to delete your emails from our inbox.
 
-We use data collection devices such as “cookies” on certain pages of our Websites. “Cookies” are small files placed on your hard drive that assist us in providing customized services. We also offer certain features that are only available through the use of a “cookie.” Cookies can also help us provide information which is targeted to your interests. We use this information to determine our members’ demographics, interest, and behavior to better understand and serve you and our community. 
+### Cookies
 
-Please note that your personally identifiable information will be stored and processed on our computers in the United States. The laws regarding the handling of personal data in the United States may differ from the laws of other countries but, as we explain below, Shankman.com will hold and transmit your information in a safe, confidential and secure environment.
+If you leave a comment on our site you may opt-in to saving your name, email address and website in cookies. These are for your convenience so that you do not have to fill in your details again when you leave another comment. These cookies will last for one year.
 
-### OUR USE OF YOUR INFORMATION
+If you have an account and you log in to this site, we will set a temporary cookie to determine if your browser accepts cookies. This cookie contains no personal data and is discarded when you close your browser.
 
-We use information in the files we maintain about you, and the other information we obtain from your current and past activities on the Websites to resolve disputes, troubleshoot problems and enforce our Terms and Conditions. At times, we may review the data of multiple members to identify problems or resolve disputes.
+When you log in, we will also set up several cookies to save your login information and your screen display choices. Login cookies last for two days, and screen options cookies last for a year. If you select “Remember Me”, your login will persist for two weeks. If you log out of your account, the login cookies will be removed.
 
-You agree that we may use personally identifiable information about you to analyze Website usage, improve our content and service offerings, and customize our Website’s content, layout, and service. These uses improve our Websites and may better tailor them to meet your needs.
+If you edit or publish an article, an additional cookie will be saved in your browser. This cookie includes no personal data and simply indicates the post ID of the article you just edited. It expires after 1 day.
 
-You agree that we may use your information to contact you and to deliver information to you such as administrative notices, service offerings, and communications relevant to your use of the Website. By accepting this Privacy Policy, you expressly agree to receive this information.
+### Embedded content from other websites
 
-### SHARING AND DISCLOSURE OF PERSONAL INFORMATION
+Articles on this site may include embedded content (e.g. videos, images, articles, etc.). Embedded content from other websites behaves in the exact same way as if the visitor has visited the other website.
 
-Shankman.com will not sell or rent your Personal Information to any individual, business, or government entity. 
+These websites may collect data about you, use cookies, embed additional third-party tracking, and monitor your interaction with that embedded content, including tracing your interaction with the embedded content if you have an account and are logged in to that website.
 
-Shankman.com will share your Personal Information with other entities if The Geek Factory is required to respond to court orders, subpoenas, or other legal process. Shankman.com may also use customer identifiable information to investigate and help prevent potentially unlawful activity or activity that threatens Shankman.com’s users or otherwise violates the Terms of Use agreement.
+### Analytics
 
-Shankman.com’s servers automatically gather information about which pages are visited within the Shankman.com site. Shankman.com does not use that information except in the aggregate. This information helps us identify the type of website content or features our customers value most. We may use suppliers to assist us in collecting, using, or otherwise processing for our benefit the non- personal information obtained through the site.
+We use Google Analytics which collects non personally identifiable information about your use of the website. You may block Google Analytics with an [extension in Firefox](https://addons.mozilla.org/en-US/firefox/addon/google-analytics-blocker/).
 
-We share much of our data, including personally identifiable information about you, with our parent, affiliates and/or subsidiaries that are committed to  
-serving your online needs and related services, throughout the world. To the extent that these entities have access to your information, they will treat it at least as protectively as they treat information they obtain from their other members. Our parent, affiliates and/or subsidiaries will follow privacy practices no less protective of all members than our practices described in this document, to the extent alleged by applicable law. It is possible that Shankman.com, its affiliates, and/or its subsidiaries, or any combination of such, could merge with or be acquired by another business entity. Should such a combination occur, you should expect that Shankman.com would share some or all of your information in order to continue to provide the Service. You will receive notice of such event (to the extent it occurs) and we will require that the new combined entity follow the practices disclosed in this Privacy Policy, as it may be amended from time to time.
+## Who we share your data with
 
-### SECURITY
+Your data remains inside our eco-system. We do not share your personal data with third parties.
 
-Shankman.com uses industry standard practices to safeguard the confidentiality of your personal identifiable information. Shankman.com treats data as an asset that must be protected against loss and unauthorized access. We employ many different security techniques to protect such data from unauthorized access by others inside and outside the company. However, “perfect security” does not exist on the internet.
+## How long we retain your data
 
-### ACCESS
+If you leave a comment, the comment and its metadata are retained indefinitely. This is so we can recognize and approve any follow-up comments automatically instead of holding them in a moderation queue.
 
-We restrict access to nonpublic information to people on the Shankman.com team who need to access that information in order to provide Shankman.com service to you.
+For users that register on our website (if any), we also store the personal information they provide in their user profile. All users can see, edit, or delete their personal information at any time (except they cannot change their username). Website administrators can also see and edit that information.
 
-### LAWFUL USE OF SITE
+## What rights you have over your data
 
-Shankman.com website services may only be used for lawful purposes. Transmission of any material in violation of any US or state or local law, rule or regulation is strictly prohibited. This includes, but is not limited to: copyrighted or trademarked material; material legally judged to be threatening or obscene; material protected by trade secret; or material which violates a legally protected privacy right of an individual. Persons under the age of 18 may not access Shankman.com.
+If you have an account on this site, or have left comments, you can request to receive an exported file of the personal data we hold about you, including any data you have provided to us. You can also request that we erase any personal data we hold about you. This does not include any data we are obliged to keep for administrative, legal, or security purposes.
 
-Shankman.com operates in full compliance with the Digital Millennium Copyright Act of 1998 (DMCA). Shankman.com will cooperate with local, state and federal courts and law enforcement agencies in the investigation and prosecution of claims of illegal activities when legally obligated to do so. 
+## Where we send your data
 
-Shankman.com will comply with all legally enforceable subpoenas, search warrants, court orders and other forms of legal process. Under Shankman.com’s Terms and Conditions, the customer agrees to indemnify and hold Shankman.com, its, officers, directors, employees and agents, harmless from any claims, liabilities and expenses, including reasonable attorney’s fees, resulting from the customer’s use or misuse of the service which damages Peter Shankman, Shankman.com, its officers, directors, employees and agents, as well as any user, or another party.
+Visitor comments may be checked through an automated spam detection service.
 
-### AMENDMENTS
+## Your contact information
 
-Shankman.com will keep this policy current and reserves the right to change this policy at any time by amending the content of this Statement. Shankman.com will post a notice of changes on the Shankman.com website, when and if the policy is amended. This Statement and the policies expressed herein are not intended to and do not create any contractual or other legal rights in or on behalf of any customer, user, or other third party.
+Peter Shankman: peter@shankman.com
 
-### OWNERSHIP
+## Additional information
 
-Shankman.com™ is the exclusive trade name and mark of Peter Shankman d/b/a Shankman.com.  
-March 3, 2009
+### How we protect your data
+
+We routinely run malware scans on our servers, use a firewall, and we use an SSL certificate.
+
+### What data breach procedures we have in place
+
+We use a firewall on the website itself. Our server routinely scans for malware and hacks. We will notify all users of any data breach within 7 business days of discovery.
