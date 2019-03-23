@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sayshaadi.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606174349id_/http%3A//www.sayshaadi.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sayshaadi.com privacy policy that was archived on 2019-03-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190323133602id_/http%3A//www.sayshaadi.com/privacy) for the most accurate reproduction.*
 
 # Privacy | SayShaadi | SayShaadi.com
 
