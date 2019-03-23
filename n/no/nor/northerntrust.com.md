@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the northerntrust.com privacy policy that was archived on 2018-11-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181116142535id_/https%3A//www.northerntrust.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the northerntrust.com privacy policy that was archived on 2019-03-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190323222852id_/https%3A//www.northerntrust.com/privacy-policy) for the most accurate reproduction.*
 
 # US Privacy Notice / Privacy Policy - Northern Trust
 
