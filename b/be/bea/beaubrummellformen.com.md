@@ -1,29 +1,27 @@
-> *The following text is extracted and transformed from the beaubrummellformen.com privacy policy that was archived on 2017-01-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170107200651id_/https%3A//beaubrummellformen.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the beaubrummellformen.com privacy policy that was archived on 2019-03-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190323195725id_/https%3A//beaubrummellformen.com/pages/privacy-policy-1) for the most accurate reproduction.*
 
-# Privacy Policy - Beau Brummell
-
-#### **Privacy Policy**
+# Privacy Policy - Beau Brummell for Men
 
 This privacy policy has been compiled to better serve those who are concerned with how their ‘Personally identifiable information’ (PII) is being used online. PII, as used in US privacy law and information security, is information that can be used on its own or with other information to identify, contact, or locate a single person, or to identify an individual in context. Please read our privacy policy carefully to get a clear understanding of how we collect, use, protect or otherwise handle your Personally Identifiable Information in accordance with our website.
 
-####  **What personal information do we collect from the people that visit our blog, website or app?**
+#### **What personal information do we collect from the people that visit our blog, website or app?**
 
 When ordering or registering on our site, as appropriate, you may be asked to enter your name, email address, mailing address, phone number, credit card information or other details to help you with your experience.
 
-####  **When do we collect information?**
+#### **When information do we collect?**
 
 We collect information from you when you place an order or enter information on our site.
 
-####  **How do we use your information?**
+#### **How do we use your information?**
 
 We may use the information we collect from you when you register, make a purchase, sign up for our newsletter, respond to a survey or marketing communication, surf the website, or use certain other site features in the following ways:
 
-  * To quickly process your transactions.  
-To send emails and promotions.
+  * To quickly process your transactions.
+  * To send emails and promotions.
 
 
 
-####  **How do we protect visitor information?**
+#### **How do we protect visitor information?**
 
 Our website is scanned on a regular basis for security holes and known vulnerabilities in order to make your visit to our site as safe as possible.
 
@@ -35,15 +33,15 @@ We implement a variety of security measures when a user places an order enters, 
 
 All transactions are processed through a gateway provider and are not stored or processed on our servers.
 
-####  **Payments**
+#### **Payments**
 
- ** ** Payments made on this website are made through a third party credit card processor, [www.Stripe.com](http://www.stripe.com/). Stripe adheres to the most stringent security standards and has been audited by a PCI certified auditor to have a PCI service provider level 1 rating. This is the most stringent level of certification available. To view Stripe’s full security profile, please visit <https://stripe.com/docs/security>
+Payments made on this website are made through a third party credit card processor, [www.Stripe.com](http://www.stripe.com/). Stripe adheres to the most stringent security standards and has been audited by a PCI certified auditor to have a PCI service provider level 1 rating. This is the most stringent level of certification available. To view Stripe’s full security profile, please visit <https://stripe.com/docs/security>
 
 #### **Do we use ‘cookies’?**
 
 Yes. Cookies are small files that a site or its service provider transfers to your computer’s hard drive through your Web browser (if you allow) that enables the site’s or service provider’s systems to recognize your browser and capture and remember certain information. For instance, we use cookies to help us remember and process the items in your shopping cart. They are also used to help us understand your preferences based on previous or current site activity, which enables us to provide you with improved services. We also use cookies to help us compile aggregate data about site traffic and site interaction so that we can offer better site experiences and tools in the future.
 
-####  **We use cookies to:**
+#### **We use cookies to:**
 
   * Help remember and process the items in the shopping cart.
 
@@ -55,25 +53,25 @@ If you disable cookies off, some features will be disabled It won’t affect the
 
 However, you can still place orders.
 
-####  **Third Party Disclosure**
+#### **Third Party Disclosure**
 
-We do not sell, trade, or otherwise transfer to outside parties your personally identifiable information.
+We do not sell your personally indentifiable information to outside parties.
 
-####  **Third party links**
+The personally identifiable information that you provide to us and information about your order may be combined with other personally identifiable information (such as demographic information and past purchase history) available from our records and other sources. We also use Pixel Tags to collect additional information regarding your browsing experience. This information will be used to make our future marketing efforts more efficient and to provide you with a more relevant and timely brand and shopping experience. This information may also be shared with our third party service providers that assist us with our marketing efforts and with other marketers whose products or services we feel may be of interest to you. If you prefer that we do not share your name and address with other marketers, please email us at info@beaubrummellformen.com
 
-We do not include or offer third party products or services on our website.
+#### ****
 
-####  **Google**
+#### **Google**
 
-Google’s advertising requirements can be summed up by Google’s Advertising Principles. They are put in place to provide a positive experience for users. https://support.google.com/adwordspolicy/answer/1316548?hl=en
+Google’s advertising requirements can be summed up by Google’s Advertising Principles. They are put in place to provide a positive experience for users. <https://support.google.com/adwordspolicy/answer/1316548?hl=en>
 
 We have not enabled Google AdSense on our site but we may do so in the future.
 
-####  **California Online Privacy Protection Act**
+#### **California Online Privacy Protection Act**
 
 CalOPPA is the first state law in the nation to require commercial websites and online services to post a privacy policy. The law’s reach stretches well beyond California to require a person or company in the United States (and conceivably the world) that operates websites collecting personally identifiable information from California consumers to post a conspicuous privacy policy on its website stating exactly the information being collected and those individuals with whom it is being shared, and to comply with this policy. – See more at: http://consumercal.org/california-online-privacy-protection-act-caloppa/#sthash.0FdRbT51.dpuf
 
-####  **According to CalOPPA we agree to the following:**
+#### **According to CalOPPA we agree to the following:**
 
 Users can visit our site anonymously
 
@@ -93,29 +91,21 @@ Users are able to change their personal information:
 
 
 
-####  **How does our site handle do not track signals?**
+####  ******Variation**
 
-We honor do not track signals and do not track, plant cookies, or use advertising when a Do Not Track (DNT) browser mechanism is in place.
+beaubrummellformen.com may revise this privacy policy at any time. This privacy policy may be changed without prior notice. The revised privacy policy will apply to the use of this website from the date of the publication of the revised terms and conditions on this website. Please check this page regularly to ensure you are familiar with the current version.
 
-####  **Does our site allow third party behavioral tracking?**
-
-It’s also important to note that we do not allow third party behavioral tracking
-
-####  **Variation**
-
-beaubrummellformen.com may revise this privacy policy at any time. This privacy policy may be changed without prior notice. Revised privacy policy will apply to the use of this website from the date of the publication of the revised terms and conditions on this website. Please check this page regularly to ensure you are familiar with the current version.
-
-####  **COPPA (Children Online Privacy Protection Act)**
+#### **COPPA (Children Online Privacy Protection Act)**
 
 When it comes to the collection of personal information from children under 13, the Children’s Online Privacy Protection Act (COPPA) puts parents in control. The Federal Trade Commission, the nation’s consumer protection agency, enforces the COPPA Rule, which spells out what operators of websites and online services must do to protect children’s privacy and safety online.
 
 We do not specifically market to children under 13.
 
-####  **Fair Information Practices**
+#### **Fair Information Practices**
 
 The Fair Information Practices Principles form the backbone of privacy law in the United States and the concepts they include have played a significant role in the development of data protection laws around the globe. Understanding the Fair Information Practice Principles and how they should be implemented is critical to comply with the various privacy laws that protect personal information.
 
-####  **In order to be in line with Fair Information Practices we will take the following responsive action, should a data breach occur:**
+#### **In order to be in line with Fair Information Practices we will take the following responsive action, should a data breach occur:**
 
 We will notify the users via email
 
@@ -131,21 +121,21 @@ We will notify the users via in site notification
 
 We also agree to the individual redress principle, which requires that individuals have a right to pursue legally enforceable rights against data collectors and processors who fail to adhere to the law. This principle requires not only that individuals have enforceable rights against data users, but also that individuals have recourse to courts or a government agency to investigate and/or prosecute non-compliance by data processors.
 
-####  **CAN SPAM Act**
+#### **CAN SPAM Act**
 
 The CAN-SPAM Act is a law that sets the rules for commercial email, establishes requirements for commercial messages, gives recipients the right to have emails stopped from being sent to them, and spells out tough penalties for violations.
 
-####  **We collect your email address in order to:**
+#### **We collect your email address in order to:**
 
 -Send confirmation/order confirmation.
 
 -Notify users of promotional campaigns.
 
-####  **To be in accordance with CANSPAM we agree to the following:**
+#### **To be in accordance with CANSPAM we agree to the following:**
 
- **If at any time you would like to unsubscribe from receiving future emails, you can email us at**[ **info@beaubrummellformen.com**](mailto:info@beaubrummellformen.com) and we will promptly remove you from  **ALL**  correspondence.
+**If at any time you would like to unsubscribe from receiving future emails, you can email us at  [info@beaubrummellformen.com](mailto:info@beaubrummellformen.com) and we will promptly remove you from ALL correspondence.**
 
-####  **Contacting Us**
+#### **Contacting Us**
 
 If there are any questions regarding this privacy policy you may contact us using the information below.
 
@@ -157,5 +147,6 @@ South Hackensack, NJ 07606
 
 USA
 
-info@beaubrummellformen.com  
-Last Edited on 2016-05-11
+info@beaubrummellformen.com
+
+Last edited 10/3/2018
