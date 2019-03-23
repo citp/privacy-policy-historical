@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the footballdb.com privacy policy that was archived on 2018-01-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180108220827id_/https%3A//www.footballdb.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the footballdb.com privacy policy that was archived on 2019-03-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190323160709id_/https%3A//www.footballdb.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy | The Football Database
 
