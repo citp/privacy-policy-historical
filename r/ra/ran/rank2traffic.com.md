@@ -1,6 +1,10 @@
-> *The following text is extracted and transformed from the rank2traffic.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606101709id_/http%3A//www.rank2traffic.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rank2traffic.com privacy policy that was archived on 2019-03-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190323031308id_/https%3A//www.rank2traffic.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
+
+  
+We use Ezoic to provide personalization and analytic services on this website, as such Ezoic's privacy policy is in effect and can be reviewed [here](https://g.ezoic.net/privacy/rank2traffic.com).  
+
 
 At rank2traffic.com, we recognize that privacy of your personal information is important. Here is information on what types of personal information we receive and collect when you use and visit rank2traffic.com, and how we safeguard your information. We never sell your personal information to third parties. 
 
