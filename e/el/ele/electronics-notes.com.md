@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the electronics-notes.com privacy policy that was archived on 2017-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170613040520id_/https%3A//www.electronics-notes.com/about-us/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the electronics-notes.com privacy policy that was archived on 2019-03-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190323065456id_/https%3A//www.electronics-notes.com/about-us/privacy-policy.php) for the most accurate reproduction.*
 
-# Privacy-Policy | Electronics Notes
+# Privacy Policy | Electronics Notes
 
 Adrio Communications Ltd, the owners and operators of the Electronics Notes aim to offer a service that is free to all and free to use in a manner that will not infringe any privacy.
 
@@ -24,35 +24,32 @@ The Google Analytics Demographics and Interest Reporting, has been implemented. 
 
 How you use data from Google's Interest-based advertising or 3rd-party audience data (such as age, gender and interests) with Google Analytics.
 
-  
+## Cookies usage
 
+Our website uses cookies like most sites. Cookies are small packets of data that are stored in your web browser.
 
-## Contacting Adrio Communications Ltd
+Cookies help us to identify information such as how many people are using our website and what devices they are using. This allows us to improve our site for the people who use it.
 
-Should any user contact Adrio Communications Ltd, the email address will only be used to contact the sender in regard to the original of associated queries. These email addresses will not be passed on to other parties, nor will they be used for advertising.
+You can choose how your browser handles cookies or turn them off entirely by changing your browser settings. This may affect how you see our website and how well it works for you.
 
-  
-
+[www.aboutcookies.org](https://www.aboutcookies.org/) has useful information on how to manage cookies in your browser.
 
 ## External Websites
 
-While Adrio Communications Ltd aims to offer a service that is fair and free from the risk of infringements of individual rights, no guarantees can be made for any site into which Electronics Notes links either by way in links, advertising or affiliate relationships. When linking out of the site, no guarantees can be made about the privacy policies of these sites.
-
-  
-
+While Elecronics Notes aims to offer a service that is fair and free from the risk of infringements of individual rights, no guarantees can be made for any site into which Electronics Notes links either by way in links, advertising or affiliate relationships. When linking out of the site, no guarantees can be made about the privacy policies of these sites.
 
 ## Advertising
 
-We use third-party advertising companies to serve ads when you visit our website. These companies may use information (not including your name, address, email address or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you. Further information is provided in the links below.
-
-  
-
+We use third-party advertising companies to serve ads when you visit our website. For example, as an Amazon Affiliate we earn a commission on qualifying purchases. We currently belong to the affiliate programmes from Amazon.com, Amazon.ca, and Amazon.co.uk. These companies may use information about your visits to this and other websites in order to provide advertisements about goods and services of interest to you. As these policies change from time to time and they are different for different companies, we have included links to the sites we use below.
 
 ## Privacy polies of external organisations
 
   * [Google ](http://www.google.com/policies/privacy/) (Analytics, AdSense, DFP Small Business, etc..
   * [Amazon.co.uk ](http://www.amazon.co.uk/gp/help/customer/display.html/ref=footer_privacy?ie=UTF8&nodeId=502584)
   * [Amazon.com ](http://www.amazon.com/gp/help/customer/display.html/ref=footer_privacy?ie=UTF8&nodeId=468496)
-  * [Globalspec ](http://beta.globalspec.com/Help/Privacy)
+  * [Amazon.ca ](https://www.amazon.ca/gp/help/customer/display.html/ref=ap_footer_privacy_notice?ie=UTF8&nodeId=918814)
+  * [AddThis ](http://www.addthis.com/privacy/privacy-policy/) \- for social media buttons below the content 
 
 
+
+We carry adverts from a variety of companies and these may place cookies etc onto your computer when you visit their sites.
