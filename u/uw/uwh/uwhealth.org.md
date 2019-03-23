@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the uwhealth.org privacy policy that was archived on 2018-10-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181001234818id_/https%3A//www.uwhealth.org/about-uwhealth/website-privacy-policy/50422) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the uwhealth.org privacy policy that was archived on 2019-03-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190323173329id_/https%3A//www.uwhealth.org/about-uwhealth/website-privacy-policy/50422) for the most accurate reproduction.*
 
 # Website Privacy Policy | UW Health | Madison, WI
 
