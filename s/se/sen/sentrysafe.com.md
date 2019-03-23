@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sentrysafe.com privacy policy that was archived on 2018-11-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181115205554id_/https%3A//www.masterlock.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sentrysafe.com privacy policy that was archived on 2019-03-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190323223024id_/https%3A//www.masterlock.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Master Lock
 
@@ -111,4 +111,4 @@ As we operate internationally, and many of our computer systems are currently ba
 
 From time to time, we may update this Privacy Notice. You agree that we may notify you about material changes in the way we treat personal information by placing a notice on the Site. You should check the Site frequently for updates. We will also notify you of any material changes in the way that we collect or use your personal data.
 
-© 2018 Master Lock Company LLC. All rights reserved.
+© 2019 Master Lock Company LLC. All rights reserved.
