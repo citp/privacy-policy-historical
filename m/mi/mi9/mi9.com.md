@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mi9.com privacy policy that was archived on 2018-01-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180128162140id_/http%3A//wallpapers.mi9.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mi9.com privacy policy that was archived on 2019-03-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190323023929id_/https%3A//wallpapers.mi9.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - mi9.com
 
