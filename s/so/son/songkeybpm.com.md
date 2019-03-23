@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the songkeybpm.com privacy policy that was archived on 2018-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180527110204id_/http%3A//www.songkeybpm.com/Document/Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the songkeybpm.com privacy policy that was archived on 2019-03-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190323172816id_/https%3A//tunebat.com/Document/Privacy) for the most accurate reproduction.*
 
-# Song Key BPM - Find the key and BPM of any song
+# Tunebat Privacy Policy / Terms of Service
 
 **Privacy Policy**
 
-**SongKeyBPM.com** understands the importance of your personal privacy.  Therefore, we have created this Privacy Policy so that you know how we use and disclose your information when you make it available to us.  The Privacy Policy below discloses our practices regarding information collection and usage of the website located at songkeybpm.com, and the related mobile website (collectively, the “Websites”) and the service provided thereon (the “Service”).
+**Tunebat.com** understands the importance of your personal privacy.  Therefore, we have created this Privacy Policy so that you know how we use and disclose your information when you make it available to us.  The Privacy Policy below discloses our practices regarding information collection and usage of the website located at Tunebat.com, and the related mobile website (collectively, the “Websites”) and the service provided thereon (the “Service”).
 
 By using or accessing the Websites and the Service, you signify your agreement to be bound by this Privacy Policy. IF YOU DO NOT AGREE TO THIS PRIVACY POLICY YOU MAY NOT ACCESS OR OTHERWISE USE OUR SERVICE OR PARTICIPATE IN OUR SERVICES.
 
@@ -32,7 +32,7 @@ We may ask you for, or you may voluntarily submit, personally identifiable infor
 
 When you access our Service, we may automatically collect non-personally identifiable information from you, such as IP host address, web pages viewed, browser type, operating system, referring service, search information, device type, page views, usage and browsing habits on the Service and similar data. We may also aggregate demographic information collected from our users (such as the number of users in a particular geographical location) in a manner which does not identify any one individual.   We may also aggregate information collected offline in connection with the Service, obtain non-personally identifiable information from third party sources and develop aggregate information by anonymizing previously collected personally identifiable information.
 
-It is possible at times when collecting non-personally identifiable information through automatic means that we may unintentionally collect or receive personally identifiable information that is mixed in with the non-personally identifiable information.  While we will make reasonable efforts to prevent such incidental data collection, the possibility still exists.  If you believe that we have inadvertently collected your personal information, please notify us at oliverskbpm@gmail.com.
+It is possible at times when collecting non-personally identifiable information through automatic means that we may unintentionally collect or receive personally identifiable information that is mixed in with the non-personally identifiable information.  While we will make reasonable efforts to prevent such incidental data collection, the possibility still exists.  If you believe that we have inadvertently collected your personal information, please notify us at oliver@tunebat.com.
 
 **Information Usage:**
 
@@ -53,9 +53,9 @@ Party Vendors”) to further the purpose for which you provided such information
 
 
 
-or change of control of SongKeyBPM.com or the division responsible for the services with which your personally identifiable information is associated.
+or change of control of Tunebat.com or the division responsible for the services with which your personally identifiable information is associated.
 
-  * We may share your personally identifiable information with an affiliate of SongKeyBPM.com who is in the same corporate family as us as long as their privacy practices are substantially similar to ours.
+  * We may share your personally identifiable information with an affiliate of Tunebat.com who is in the same corporate family as us as long as their privacy practices are substantially similar to ours.
 
 
 
@@ -95,7 +95,7 @@ The security of your personally identifiable information is very important to us
 
 You should be aware that personally identifiable information which you voluntarily include and transmit online on the Service or in a publicly accessible blog, chat room, social media platform or otherwise online, or that you share in an open forum such as an in-person panel or survey, may be viewed and used by others without any restrictions.  We are unable to control such uses of your personally identifiable information, and by using the Service or any other online services you assume the risk that the personally identifiable information provided by you may be viewed and used by third parties for any number of purposes.
 
-If you login to the Websites and/or Service through your Facebook account, connect to a third party service such as Facebook or Twitter through an icon or link on the Service or otherwise link your SongKeyBPM.com account with a third party service, we may share the contents of your post and associated information (such as your user name, the fact that your connection originated from the Service, and other relevant usage and diagnostic information) with such third party.  With your one-time consent, we may also send information about the content you watch and your activities on the Service to such third parties. Once such information is shared, the use of your information will be subject to that service's privacy policy and this Privacy Policy will not apply.
+If you login to the Websites and/or Service through your Facebook account, connect to a third party service such as Facebook or Twitter through an icon or link on the Service or otherwise link your Tunebat.com account with a third party service, we may share the contents of your post and associated information (such as your user name, the fact that your connection originated from the Service, and other relevant usage and diagnostic information) with such third party.  With your one-time consent, we may also send information about the content you watch and your activities on the Service to such third parties. Once such information is shared, the use of your information will be subject to that service's privacy policy and this Privacy Policy will not apply.
 
 **Protection for Children:**
 
@@ -113,7 +113,7 @@ We reserve the right, at our discretion, to change, modify, add, or remove porti
 
 All unsubscribe or opt-out requests may be made by clicking the “unsubscribe” link at the bottom of the relevant email. We will process your request within a reasonable time after receipt. However, we are not responsible for, and in some cases we are incapable of, removing your personally identifiable information from the lists of any third party who has previously been provided your information in accordance with this Privacy Policy or your consent.  You should contact such third parties directly. If you would like to update or correct any personally identifiable information that you have provided to us, please email us at [Name of Site] and once we confirm your information, we will update such information within a reasonable amount of time.
 
-**Communications with SongKeyBPM.com:**
+**Communications with Tunebat.com:**
 
 By providing your contact information to us (including, without limitation, your email address, physical address, and phone number) (collectively the “Channels”) to us, you expressly consent to receive communications from us.  We may use the Channels to communicate with you, to send information that you have requested or to send information about other products or services developed or provided by us or our business partners, provided that, we will not give your contact information to another party to promote their products or services directly to you without your consent or as set forth in this Privacy Policy.
 
@@ -121,7 +121,7 @@ By using the Service, you expressly consent to receive in-product communications
 
 By providing your phone number to us, you expressly consent to receive phone calls and/or text messages from us. We will not give your phone number to another party to promote their products or services directly to you without your consent or as set forth in this Privacy Policy.
 
-Any phone calls and/or text messages delivered to your phone or device may cause you to incur extra data, text messaging, or other charges from your wireless carrier. MESSAGE AND DATA RATES MAY APPLY. You are solely responsible for any carrier charges incurred as a result of phone and/or text communications from SongKeyBPM.com.
+Any phone calls and/or text messages delivered to your phone or device may cause you to incur extra data, text messaging, or other charges from your wireless carrier. MESSAGE AND DATA RATES MAY APPLY. You are solely responsible for any carrier charges incurred as a result of phone and/or text communications from Tunebat.com.
 
 Any communication or material you transmit to us by email or otherwise, including any data, questions, comments, suggestions, or the like is, and will be treated as, non-confidential and nonproprietary.  Except to the extent expressly covered by this Privacy Policy, anything you transmit or post may be used by us for any purpose, including but not limited to, reproduction, disclosure, transmission, publication, broadcast and posting. Furthermore, you expressly agree that we are free to use any ideas, concepts, know-how, or techniques contained in any communication you send to us, as well as any data developed using the content of such communication, without compensation and for any purpose whatsoever, including but not limited to, developing, manufacturing and marketing products and services using such information.
 
@@ -143,7 +143,7 @@ This Privacy Policy and our legal obligations hereunder are subject to the laws 
 
 **Contact:**
 
-For questions or concerns relating to privacy, we can be contacted at oliverskbpm@gmail.com
+For questions or concerns relating to privacy, we can be contacted at oliver@tunebat.com
 
 **Effective Date:**
 
