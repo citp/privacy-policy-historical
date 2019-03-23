@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the amcham.org.eg privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606134528id_/https%3A//www.amcham.org.eg/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the amcham.org.eg privacy policy that was archived on 2019-03-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190323233631id_/https%3A//www.amcham.org.eg/privacy) for the most accurate reproduction.*
 
 # Privacy - AmCham Egypt
 
