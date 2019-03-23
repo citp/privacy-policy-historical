@@ -1,18 +1,18 @@
-> *The following text is extracted and transformed from the gogobot.com privacy policy that was archived on 2017-11-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171109050648id_/https%3A//www.trip.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gogobot.com privacy policy that was archived on 2019-03-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190323094811id_/https%3A//www.trip.skyscanner.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy - Trip.com
+# Privacy Policy - Skyscanner
 
-This Privacy Policy describes our privacy practices at Gogobot, Inc. d/b/a Trip.com, including the website located at http://www.gogobot.com and https://www.trip.com/, the Gogobot and Trip.com mobile applications, and the related services, applications, and websites owned or operated by us (collectively, the "Service").
+This Privacy Policy describes our privacy practices at Gogobot, Inc. d/b/a Trip by Skyscanner, including the website located at [http://www.gogobot.com](http://www.gogobot.com/) and [https://www.trip.skyscanner.com](https://www.trip.skyscanner.com/) , the Gogobot and Trip by Skyscanner mobile applications, and the related services, applications, and websites owned or operated by us (collectively, the "Service"). This Privacy Policy should be read along with our [Terms of Service](https://www.trip.skyscanner.com/terms) and [Community Guidelines.](https://www.trip.skyscanner.com/community_guidelines)
 
 #### What Information We Collect
 
-The types of information that we collect fall under two general categories: personally identifiable information (PII) and non-personally identifiable information (non-PII). PII consists of any information which can be used to specifically identify you as an individual, whereas non-PII consists of aggregate information or any other information that does not reveal your identity. This Privacy Policy describes how your PII and non-PII are collected by us, and how we use such information. Please note that we store all information we collect, including PII and non-PII, on servers located in the United States. When you use the Service, you consent to that.
+The types of information that we collect fall under two general categories: personal data and non-personal data. Personal data consists of any information which can be linked to you as an individual, whereas non-personal data consists of aggregate information or any other information that cannot be linked to you as an individual. This Privacy Policy describes how your personal and non-personal data are collected by us, and how we use such information. Please note that we store all information we collect on servers located in the United States.
 
 #### Log Files
 
-Any time you access the Service, our servers automatically gather information from your browser or device, including some PII and some non-PII. This information includes your IP addresses and browser type (if you are using a browser), device ID, location (if you have enabled this feature), Internet service provider (ISP) or wireless service provider, referring/exit pages, platform type, date/time stamp, and number of clicks. We may use this information to analyze trends, administer and improve the Service, prevent fraud, track visitor movement in the aggregate, and gather broad demographic information. Except as set forth in this Privacy Policy, we do not share this information externally.
+Any time you access the Service, our servers automatically gather information from your browser or device. This information includes your IP addresses and browser type (if you are using a browser), device ID, location (if you have enabled this feature), Internet service provider (ISP) or wireless service provider, referring/exit pages, platform type, date/time stamp, and number of clicks. We may use this information to analyze trends, administer and improve the Service, prevent fraud, track visitor movement in the aggregate, and gather broad demographic information. Except as set forth in this Privacy Policy, we do not share this information externally.
 
-####  Cookies
+#### Cookies
 
 We use "cookies" to keep track of some types of information while you are visiting our website or using the Service. Cookies are very small files placed on your computer, and they allow us to count the number of visitors to our website and distinguish repeat visitors from new visitors. They also allow us to save user preferences and track user trends. We rely on cookies for the proper operation of our Service. If your browser rejects cookies from the Service, then the Service will not function properly with your browser, and we are not responsible for any resulting loss of functionality in the Service.
 
@@ -22,67 +22,69 @@ We use third-party analytics service providers (“Analytics Providers”), such
 
 #### Location Information
 
-If you enable location-based services by the Service and your mobile device, the Service may collect data about your geographic location. Such location data may include, for example, geographic coordinates or other data used to determine your location (using GPS, IP address, Wi-Fi, or other technology to determine the location of your device), the time when such data is collected, and a non-PII identifier that we may use to correlate such data to you (collectively, the “Location Data”). The Location Data may be collected, stored, and processed by us and/or by our third-party location licensors or service providers. We may use the Location Data to analyze usage of the Service, to improve the Service, and to provide the Service to you (e.g., by providing you with location-based recommendations of places we think you might want to visit through the Service when you are exploring a new city).
+If you enable location-based services by the Service and your mobile device, the Service may collect data about your geographic location. Such location data may include, for example, geographic coordinates or other data used to determine your location (using GPS, IP address, Wi-Fi, or other technology to determine the location of your device), the time when such data is collected, and an identifier that we may use to correlate such data to you (collectively, the “Location Data”). The Location Data may be collected, stored, and processed by us and/or by our third-party location licensors or service providers. We may use the Location Data to analyze usage of the Service, to improve the Service, and to provide the Service to you (e.g., by providing you with location-based recommendations of places we think you might want to visit through the Service when you are exploring a new city).
 
-For example, if you visit Hotel XYZ in San Francisco, the Service and/or one of our third-party service providers may collect the location visited, the time of your visit, and a non-PII code that is unique to you. The Service could then use this information to push notifications to you relevant to that visit (e.g., recommendations of the most popular dinner places near Hotel XYZ or interesting events happening near the hotel).
+For example, if you visit Hotel XYZ in San Francisco, the Service and/or one of our third-party service providers may collect the location visited, the time of your visit, and an ID that is unique to you. The Service could then use this information to push notifications to you relevant to that visit (e.g., recommendations of the most popular dinner places near Hotel XYZ or interesting events happening near the hotel).
 
-#### However, it is important to note that:
+However, it is important to note that:
 
-  * (a) We will not share Location Data with anyone other than our licensors or service providers who provide the location services for the Service.
-  * (b) If any such third-party licensor or service provider collects, stores, or processes any Location Data for the Service, we contractually require that they not use the Location Data for their own purposes (other than analyzing and improving their location products and services) or share this data with anyone but us (other than aggregated, anonymized data that does not identify any individuals).
-  * (c) You may enable or disable location services at any time using the settings in the app and/or your device’s operating system.
+  * • (a) We will not share Location Data with anyone other than our licensors or service providers who provide the location services for the Service.
+  * • (b) If any such third-party licensor or service provider collects, stores, or processes any Location Data for the Service, we contractually require that they not use the Location Data for their own purposes (other than analyzing and improving their location products and services) or share this data with anyone but us (other than aggregated, anonymized data that does not identify any individuals).
+  * • (c) You may enable or disable location services at any time using the settings in the app and/or your device’s operating system.
 
 
 
 #### Web Beacons
 
-"Web beacons" (also known as "clear gifs" and "pixel tags") are small transparent graphic images that are often used in conjunction with cookies in order to further personalize our website for our users and to collect a limited set of information about our visitors. We may also use web beacons in email communications in order to understand the behavior of our customers. We do not link the web beacons to any PII.
+"Web beacons" (also known as "clear gifs" and "pixel tags") are small transparent graphic images that are often used in conjunction with cookies in order to further personalize our website for our users and to collect a limited set of information about our visitors. We may also use web beacons in email communications in order to understand the behavior of our customers. 
 
 #### Information About You
 
-When you register for the Service, we collect a variety of information about you to complete your online profile. Except as otherwise stated in this Privacy Policy, we do not disclose your PII to other users of the Service. If you choose to connect your Gogobot or Trip.com account with Facebook or any other service, we will receive and retain basic account registration data you provide to that service, such as name, email address, user ID and profile page URL. We may also receive and display content relevant to your use of the Service from activity feeds or other information from Facebook and other linked services, including the contents of your "Wall," status updates, comments, photos and location "check-ins" to the extent you grant us access to such information from those services.
+When you register for the Service, we collect a variety of information about you to complete your online profile. Except as otherwise stated in this Privacy Policy, we do not disclose your personal data to other users of the Service. If you choose to connect your Gogobot or Trip by Skyscanner account with Facebook or any other service, we will receive and retain basic account registration data you provide to that service, such as name, email address, user ID and profile page URL. We may also receive and display content relevant to your use of the Service from activity feeds or other information from Facebook and other linked services, including the contents of your "Wall," status updates, comments, photos and location "check-ins" to the extent you grant us access to such information from those services.
 
-####  E-mail
+#### E-mail
 
-We require an email address from you when you register for the Service. We use your email both for transactional purposes (e.g., activity updates such as notices that another user is now following you on the Service) and for promotional purposes (e.g., newsletters, new product offerings, event notifications, special third-party offers). Email messages we send you may contain code that enables our database to track your usage of the emails, including whether the email was opened and what links (if any) were clicked. If you would rather not receive promotional emails from us, please see the section below labeled "Choice/Opt-Out". We reserve the right to send you certain communications, such as service announcements and administrative messages, without offering you the opportunity to opt out of receiving them. We may also contact you by text message (including to any wireless number you may provide to us) solely in connection with the Service. If you would rather not receive text messages from us, you may change or delete your number from your "Account Settings" page, or ask to be removed from our contact list if you receive a call or text message from us. We fully comply with the requirements of the U.S. CAN-SPAM Act.
+We require an email address from you when you register for the Service. We use your email both for transactional purposes (e.g., activity updates such as notices that another user is now following you on the Service) and for promotional purposes (e.g., newsletters, new product offerings, event notifications, special third-party offers). Email messages we send you may contain code that enables our database to track your usage of the emails, including whether the email was opened and what links (if any) were clicked. If you would rather not receive promotional emails from us, please see the section below labeled "Choice/Opt-Out". We reserve the right to send you certain communications, such as service announcements and administrative messages, without offering you the opportunity to opt out of receiving them. We may also contact you by text message (including to any wireless number you may provide to us) solely in connection with the Service. If you would rather not receive text messages from us, you may change or delete your number from your ["Account Settings" ](https://www.trip.skyscanner.com/users/edit) page, or ask to be removed from our contact list if you receive a call or text message from us. We fully comply with the requirements of the U.S. CAN-SPAM Act.
 
 #### Demographic Data
 
 Demographic data is also collected by the Service. We use this data to tailor our visitors' experience, showing them content that we think they might be interested in, and displaying the content according to their preferences. Some of this information may be shared with advertisers on a non-personally identifiable basis.
 
-####  Online Survey Data
+#### Online Survey Data
 
 We may periodically conduct voluntary member surveys. We encourage our members to participate in such surveys because they provide us with important information regarding the improvement of the Service. You may also volunteer for certain surveys that we may offer to our users, and any additional rules regarding the conduct of such surveys will be disclosed to you prior to your participation.
 
 #### Information Regarding Your Friends
 
-We offer contact importer tools to help you upload your friends' addresses so that you can find your friends on the Service, and invite your contacts who do not have Gogobot or Trip.com accounts to join. If you give us your password to retrieve those contacts, we will not store your password after you have uploaded your contacts' information. We will send your designated contacts one or more email messages containing your name and inviting them to participate in the Service, which may include follow-up or reminder messages. These emails will also include instructions on how to remove their information from our database.
+We offer contact importer tools to help you upload your friends' addresses so that you can find your friends on the Service, and invite your contacts who do not have Gogobot or Trip by Skyscanner accounts to join. If you give us your password to retrieve those contacts, we will not store your password after you have uploaded your contacts' information. We will send your designated contacts one or more email messages containing your name and inviting them to participate in the Service, which may include follow-up or reminder messages. These emails will also include instructions on how to remove their information from our database.
 
 #### Public Forums
 
-We make discussion areas available to our Service's users and visitors. Any information that is disclosed in these areas becomes public information and you should exercise caution when deciding to disclose any PII. Please consult the Community Guidelines when posting comments on them for other specific information.
+We make discussion areas available to our Service's users and visitors. Any information that is disclosed in these areas becomes public information and you should exercise caution when deciding to disclose any personal data. Please consult the Community Guidelines when posting comments on them for other specific information.
 
 #### Disclosure of Your Information to Third Parties
 
 Disclosure Authorized or Required By Law. You acknowledge and agree that we may disclose information you provide if:
 
-  * (a) we believe in good faith that we are authorized or required to do so by law, including to respond to requests or orders relating to law enforcement, national security, or any legal process; or
-  * (b) you give us your consent to do so, including if we notify you that the information you provide will be shared in a particular manner and you provide such information; or
-  * (c) we believe that disclosure is reasonably necessary or appropriate to protect or defend the rights or property of us or a third party or to protect someone's health or safety.
+  * • (a) we believe in good faith that we are authorized or required to do so by law, including to respond to requests or orders relating to law enforcement, national security, or any legal process; or
+  * • (b) you give us your consent to do so, including if we notify you that the information you provide will be shared in a particular manner and you provide such information; or
+  * • (c) we believe that disclosure is reasonably necessary or appropriate to protect or defend the rights or property of us or a third party or to protect someone's health or safety.
 
 
 
-#### Disclosure to Trusted Third Parties By Us. 
+#### Disclosure to Trusted Third Parties By Us.
 
-We will only share your information with third parties in the ways defined in this Privacy Policy. We may share your non-PII with third parties, but not in a manner that would reveal your identity. For example, when you access a page on our website, a cookie may be automatically set by us or by our service providers to recognize your browser as you navigate on the Internet and to present you with information and advertising based on your apparent interests.
+We will only share your information with third parties in the ways defined in this Privacy Policy. For example, when you access a page on our website, a cookie may be automatically set by us or by our service providers to recognize your browser as you navigate on the Internet and to present you with information and advertising based on your apparent interests.
 
-We may share your PII, sometimes in conjunction with your non-PII, with service providers that may be associated with us to perform functions on our behalf. For example, outsourced customer support agents or technology infrastructure providers (such as a provider of location services, as described above) may need access to your information to perform services for you. We require that your information be treated as private and confidential by such service providers and not be used for any other purpose than we authorize. In addition, from time to time, we may share PII (such as email or mailing address) about our user base with carefully selected third parties, so they can offer goods and services that we believe may be of interest to our users. If you do not wish to receive offers from our trusted partners, you can change your email preferences at any time by following the steps outlined in the "Choice/Opt-Out" section below. We are potentially liable for the onward transfer of an EU individual’s PII to third parties.
+We may share and/or make available your publicly accessible personal data such as your name, profile picture, reviews, traveller photos and posts to carefully selected third parties with whom we have a contractual relationship. We may share your personal data with service providers that may be associated with us to perform functions on our behalf. For example, outsourced customer support agents or technology infrastructure providers (such as a provider of location services, as described above) may need access to your information to perform services for you. We require that your information be treated as private and confidential by such service providers and not be used for any other purpose than we authorize. In addition, from time to time, we may share certain personal data (such as email or mailing address) about our user base with carefully selected third parties, so they can offer goods and services that we believe may be of interest to our users. If you do not wish to receive offers from our trusted partners, you can change your email preferences at any time by following the steps outlined in the "Choice/Opt-Out" section below. 
 
-Information Transferred As a Result of Sale of Business. In the event that we are acquired by another company, your PII may be part of the assets transferred to the acquiring party. If this occurs, you will be notified if there are any material changes to the way your PII is collected or used.
+We may also share and/or transfer your personal data to our group companies.
+
+Information Transferred As a Result of Sale of Business. In the event that we are acquired by another company, your personal data may be part of the assets transferred to the acquiring party. If this occurs, you will be notified if there are any material changes to the way your personal data is collected or used.
 
 #### Third-Party Advertising
 
-We may use third-party advertising agencies or other service providers to serve ads on the Service on our behalf or on behalf of third-party advertisers (e.g., retailers of goods or services). These companies may employ cookies and web beacons to measure advertising effectiveness. Any information that these third parties collect via cookies and web beacons in ads on the Service is completely anonymous. However, if you click on a link to a third-party website or service, then the third party’s website or service would be subject to that third party’s privacy policy and terms of use.
+We may use third-party advertising agencies or other service providers to serve ads on the Service on our behalf or on behalf of third-party advertisers (e.g., retailers of goods or services). These companies may employ cookies and web beacons to measure advertising effectiveness. If you click on a link to a third-party website or service, then the third party’s website or service would be subject to that third party’s privacy policy and terms of use.
 
 #### Age Restrictions
 
@@ -90,19 +92,50 @@ Our age restrictions for the Service are set forth in our Terms of Use. We do no
 
 #### Data Stored in the US
 
-We are based in the United States. The information collected in connection with the Service (including PII) is stored and processed in the United States. If you reside outside the United States, in accessing or using the Service, you consent to the collection, transfer, use, storage and disclosure of your information in the United States, as described in this Privacy Policy (including PII) and as governed by United States Law. Users may not access, use, or register for the Service if prohibited by law in their country of residence.
+We are based in the United States. The information collected in connection with the Service (including personal data) is stored and processed in the United States. If you reside outside the United States, in accessing or using the Service, you consent to the collection, transfer, use, storage and disclosure of your information in the United States, as described in this Privacy Policy and as governed by United States Law. Users may not access, use, or register for the Service if prohibited by law in their country of residence.
 
 #### EU-U.S. Privacy Shield Framework
 
-We comply with the EU-US Privacy Shield Framework as set forth by the US Department of Commerce regarding the collection, use, and retention of personal information from European Union member countries. We have certified that we adhere to the Privacy Shield Principles of Notice, Choice, Accountability for Onward Transfer, Security, Data Integrity and Purpose Limitation, Access, and Recourse, Enforcement and Liability. If there is any conflict between the policies in this Privacy Policy and the Privacy Shield Principles, the Privacy Shield Principles shall govern. To learn more about the Privacy Shield program, and to view our certification page, please visit.[https://www.privacyshield.gov/.](https://www.privacyshield.gov/)
+We comply with the EU-US Privacy Shield Framework as set forth by the US Department of Commerce regarding the collection, use, and retention of personal information from European Union member countries. We have certified that we adhere to the Privacy Shield Principles of Notice, Choice, Accountability for Onward Transfer, Security, Data Integrity and Purpose Limitation, Access, and Recourse, Enforcement and Liability. If there is any conflict between the policies in this Privacy Policy and the Privacy Shield Principles, the Privacy Shield Principles shall govern. To learn more about the Privacy Shield program, and to view our certification page, please visit. <https://www.privacyshield.gov/>.
 
-In compliance with the Privacy Shield Principles, we commit to resolve complaints about our collection or use of your personal information. European Union individuals with inquiries or complaints regarding our Privacy Shield policy should first contact us at privacy@trip.com.
+In compliance with the Privacy Shield Principles, we commit to resolve complaints about our collection or use of your personal information. European Union individuals with inquiries or complaints regarding our Privacy Shield policy should first contact us at privacy@gogobot.com.
 
-We have further committed to refer unresolved privacy complaints under the EU-US Privacy Shield Principles to BBB EU PRIVACY SHIELD, a non-profit alternative dispute resolution provider located in the United States and operated by the Council of Better Business Bureaus. If you do not receive timely acknowledgment of your complaint, or if your complaint is not satisfactorily addressed, please visit http://www.bbb.org/EU-privacy-shield/for-eu-consumers/ for more information and to file a complaint.
+We have further committed to refer unresolved privacy complaints under the EU-US Privacy Shield Principles to BBB EU PRIVACY SHIELD, a non-profit alternative dispute resolution provider located in the United States and operated by the Council of Better Business Bureaus. If you do not receive timely acknowledgment of your complaint, or if your complaint is not satisfactorily addressed, please visit <http://www.bbb.org/EU-privacy-shield/for-eu-consumers/> for more information and to file a complaint.
 
 The Federal Trade Commission has jurisdiction with enforcement authority over our compliance with the Privacy Shield.
 
-Under certain conditions, you may have the right to invoke binding arbitration for complaints regarding Privacy Shield compliance not resolved by any of the other Privacy Shield mechanisms. For more information on binding arbitration, see https://www.privacyshield.gov/article?id=ANNEX-I-introduction
+Under certain conditions, you may have the right to invoke binding arbitration for complaints regarding Privacy Shield compliance not resolved by any of the other Privacy Shield mechanisms. For more information on binding arbitration, see <https://www.privacyshield.gov/article?id=ANNEX-I-introduction>
+
+#### EU Data Protection
+
+If you are a resident of the European Economic Area (EEA) you have additional rights and protections in relation to the personal data we collect, store and process about you.
+
+#### Data Subject Rights
+
+You have the right to:
+
+  * (i) request access to your personal data and request the amendment of any inaccurate personal data;
+  * (ii) request erasure of your personal data; 
+  * (iii) request restrictions on the processing of your personal data;
+  * (iv) object to processing your personal data; and/or
+  * (v) the right to data portability. 
+
+
+
+For more information about how to get exercise these rights, you can submit a request via our [Help Centre.](https://help.skyscanner.net/hc/en-us/requests/new)
+
+You also have the right to lodge a complaint with a supervisory authority.
+
+#### European Union Representative 
+
+We have appointed a representative within the European Union. The contact details of our representative are:  
+Skyscanner Limited,   
+Floor 6, The Avenue, 1 Bedford Avenue,  
+London, United Kingdom, WC1B 3AU. 
+
+#### Data Protection Officer
+
+If you have any questions about your personal data, you can contact the Skyscanner Data Protection Officer (who acts as the Data Protection Officer for Trip by Skyscanner) by post at Skyscanner Limited, Quartermile One, 15 Lauriston Place, Edinburgh EH3 9EN, or electronically via our [Help Centre.](https://help.skyscanner.net/hc/en-us/requests/new)
 
 #### Security
 
@@ -116,15 +149,13 @@ If you click on a link in our Service to a third party’s site or service, your
 
 You may use the following options for removing your information from our email mailing list if you wish to opt out of receiving promotional emails and newsletters.
 
-  * Click on the "unsubscribe" link on the bottom of the email;
-  * Click on the "Account Settings" link from our website or mobile app, and un-check the undesired promotions.
-  * Send mail to the following postal address letting us know which promotional emails you wish to opt out of:
-
-Gogobot, Inc. d/b/a Trip.com  
+  * • Click on the "unsubscribe" link on the bottom of the email;
+  * • Click on the ["Account Settings" ](https://www.trip.skyscanner.com/users/edit) link from our website or mobile app, and un-check the undesired promotions.
+  * • Send mail to the following postal address letting us know which promotional emails you wish to opt out of:  
+Gogobot, Inc. d/b/a Trip by Skyscanner  
 855 El Camino Real, Bldg 4, Ste 280  
 Palo Alto, CA 94301  
 Attn: Customer Service
-
 
 
 
@@ -137,10 +168,8 @@ We acknowledge the individual’s right to access his or her personal data. You 
 #### Contacting Us
 
 If you have any questions about this Privacy Policy, the practices of our Service, or your dealings with us, you can contact us at:  
-
-
 Site Administrator  
-Gogobot, Inc. d/b/a Trip.com  
+Gogobot, Inc. d/b/a Trip by Skyscanner  
 855 El Camino Real, Bldg 4, Ste 280  
 Palo Alto, CA 94301  
 (650) 838-9877
@@ -155,4 +184,4 @@ Any information that is collected is subject to the privacy policy in effect at 
 
 #### Effective Date
 
-This privacy statement was last revised on March 16, 2017.
+This privacy statement was last revised on 27 August 2018.
