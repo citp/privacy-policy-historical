@@ -1,13 +1,13 @@
-> *The following text is extracted and transformed from the shptron.com privacy policy that was archived on 2018-07-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180710124836id_/https%3A//kibocommerce.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shptron.com privacy policy that was archived on 2019-03-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190323200331id_/https%3A//kibocommerce.com/privacy) for the most accurate reproduction.*
 
 # Privacy Statement - Kibo Unified Omnichannel Solutions
 
 **US**    |   [CA](https://kibocommerce.com/privacy-ca/)   |   [DE](https://kibocommerce.com/privacy-de/)   |   [FR](https://kibocommerce.com/privacy-fr/)   |   [IT](https://kibocommerce.com/privacy-it/)
 
 Effective Date: April 21, 2018  
-Last Updated: April 11, 2018
+Last Updated: February 14, 2019
 
-Kibo Software, Inc., and its subsidiaries (“Kibo”), respects the privacy of our website visitors, customers, partners, and employees. We believe it is important that you understand the kinds of data we collect about you, how we protect that data, and how it is used. We recognize the need for appropriate safeguards and management of Personal Data you provide to us. This Privacy Statement sets forth the privacy principles Kibo follows with respect to your Personal Information. This privacy statement covers all Personal Information received by Kibo at its website [www.kibocommerce.com](http://kibocommerce.com/) (the “Site”) as well as through Kibo’s eCommerce, order management, individualization, mobile point of commerce, and related services (collectively the “Kibo eCommerce Services”).
+Kibo Software, Inc., and its subsidiaries Baynote, LLC; Shopatron, LLC; FiveRun, LLC; Cherrit, LLC; and MarketLive, LLC (“Kibo”), respects the privacy of our website visitors, customers, partners, and employees. We believe it is important that you understand the kinds of data we collect about you, how we protect that data, and how it is used. We recognize the need for appropriate safeguards and management of Personal Data you provide to us. This Privacy Statement sets forth the privacy principles Kibo follows with respect to your Personal Information. This privacy statement covers all Personal Information received by Kibo at its website www.kibocommerce.com (the “Site”) as well as through Kibo’s eCommerce, order management, individualization, mobile point of commerce, and related services (collectively the “Kibo eCommerce Services”).
 
 ## U.S.-EU PRIVACY SHIELD
 
@@ -61,17 +61,17 @@ With your consent, Kibo collects the information you provide us such as your nam
 
 Kibo collects information provided by you to evaluate your suitability for positions to which you apply.  This information may include: your email address, name, address, location information, telephone numbers, work authorization information, gender, race, veteran status, work history, education history and the like.
 
-KIBO’S USE OF PERSONAL DATA COLLECTED ON THE SITE
+ **KIBO’S USE OF PERSONAL DATA COLLECTED ON THE SITE**
 
 Kibo uses the personal data it collects through the Site to send you information about products or services, to respond to requests for technical or customer support; to track compliance with the Site’s rules and policies; to contact you in regards to Kibo products or services, to deliver technical resources and documents to you in email form, to provide you with Kibo’s newsletters and other documents, to coordinate communication with you regarding events you have registered to attend, and to evaluate applicants for jobs listed on the Site.  You have the option to opt-out of any secondary communications such as promotional communications by clicking on “opt-out” or “unsubscribe” on emails sent by Kibo. Kibo stores personal data in encrypted form on U.S. based servers. Kibo retains the personal data it collects on the site for no more than seven (7) years.
 
-DATA ACCESS REQUESTS AND RIGHTS TO CORRECTION & ERASURE
+ **DATA ACCESS REQUESTS AND RIGHTS TO CORRECTION & ERASURE**
 
-The General Data Protection Regulations (GDPR) provides you with a right to receive a copy of the data/information we hold about you or to authorize someone to act on your behalf. To request this information, please complete the form located at [https://kibocommerce.com/GDPR](https://kibocommerce.com/GDPR/).  Kibo responds to data access requests within 30 days receiving a completed request form with proof of identity.
+The General Data Protection Regulations (GDPR) provides you with a right to receive a copy of the data/information we hold about you or to authorize someone to act on your behalf. To request this information, please complete the form located at https://kibocommerce.com/GDPR.  Kibo responds to data access requests within 30 days receiving a completed request form with proof of identity.
 
-The GDPR also provides you with a right to erasure and/or rectification (correction) of Personal Data in certain circumstances.  To request erasure or correction of Personal Data collected by the Site, please complete the form located at [https://kibocommerce.com/GDPR](https://kibocommerce.com/GDPR/). Kibo responds to requests for erasure within 30 days of receiving a completed request form with proof of identity.
+The GDPR also provides you with a right to erasure and/or rectification (correction) of Personal Data in certain circumstances.  To request erasure or correction of Personal Data collected by the Site, please complete the form located at https://kibocommerce.com/GDPR. Kibo responds to requests for erasure within 30 days of receiving a completed request form with proof of identity.
 
-If you are a California resident, California Civil Code Section 1798.83 permits you to request information regarding the disclosure of your personal information by Kibo to its affiliates and/or third parties for their direct marketing purposes.  To make such a request, please complete the form located at [https://kibocommerce.com/GDPR](https://kibocommerce.com/GDPR/). Kibo responds to requests for erasure within 30 days of receiving a completed request form.
+If you are a California resident, California Civil Code Section 1798.83 permits you to request information regarding the disclosure of your personal information by Kibo to its affiliates and/or third parties for their direct marketing purposes.  To make such a request, please complete the form located at https://kibocommerce.com/GDPR. Kibo responds to requests for erasure within 30 days of receiving a completed request form.
 
 ## Non-Personal Data
 
@@ -83,23 +83,25 @@ We also collect NPD which involves cookies, action tags, and web beacons. Cookie
 
 THIRD PARTIES
 
-As part of Kibo’s operation of its Site, we may contract with third-party providers to perform certain functions. These third parties may have access to Personal Data and NPD to the extent necessary to permit them to assist Kibo in performing the functions set forth above. The Site contains links to other sites. Please be aware that Kibo is not responsible for the privacy practices of such other sites. We encourage our users to be aware when they leave the Site and to read the privacy statements of each and every website. This Privacy Statement applies solely to information collected by this Site and the Kibo eCommerce Services.
+As part of Kibo’s operation of its Site, we may contract with third-party providers to perform certain functions. In cases of onward transfer to third-parties of Personal Data received pursuant to the EU-U.S. Privacy Shield, Kibo is potentially liable. These third parties may have access to Personal Data and NPD to the extent necessary to permit them to assist Kibo in performing the functions set forth above. Before Kibo does this, it contracts with potential third parties to ensure that such data may only be processed for limited and specific purposes consistent with law and the consent provided by individuals, and that the recipient will provide the same level of protection as are required by the Privacy Shield Principles and applicable law. Kibo also requires that if a determination is made that the third party can no longer meet these obligations, it must notify Kibo.  If receives such notice from any third party, or if such a determination is made by Kibo, Kibo will require that the third party cease processing Personal Data or take other reasonable and appropriate steps to remediate its situation.
+
+The Site contains links to other sites. Please be aware that Kibo is not responsible for the privacy practices of such other sites. We encourage our users to be aware when they leave the Site and to read the privacy statements of each and every website. This Privacy Statement applies solely to information collected by this Site and the Kibo eCommerce Services.
 
 Kibo Client websites may contain links to third-party sites for Visitors’ convenience and/or information. If a Visitor accesses those links, he/she will leave the Kibo client’s website and be re-directed to a third-party site. Kibo does not control those sites or the privacy practices of those third-party sites, which may differ from Kibo’s privacy practices and those of our client. We do not endorse or make any representations about third-party websites, and the personal data Visitors choose to provide to third-party websites is not covered by this Privacy Statement. We encourage Visitors to review the Privacy Statement of any Website or company before submitting their Personal Information to them.
 
-FORUMS
+ **FORUMS**
 
 We provide online forums as a means for our clients and other users of the Kibo eCommerce Services to communicate. If you use a forum, you should be aware that any personally identifiable information you submit through a forum can be read, collected, or used by other users of these forums, and could be used to send you unsolicited messages. Kibo cannot be responsible for the PII you choose to submit in these forums.
 
  **KIBO AS A DATA PROCESSOR**
 
-## Data PROCESSED BY KIBO
+## DATA PROCESSED BY KIBO
 
 Kibo is a Software-as-a-Service eCommerce platform that supports the businesses of many client retailers (“Data Controllers”).  As a service provider, Kibo processes both Personal Data and Non-Personal Data on behalf of its clients, the Data Controllers.
 
-KIBO Platform Services:
+ **KIBO Platform Services:**
 
-eCommerce and Order Management
+ **eCommerce and Order Management**
 
 Kibo’s eCommerce solution powers the consumer-facing web presence of retailers on both computer, and mobile browsers.  Kibo’s Order Management System provides logistical support for order routing, fulfillment, shipment, inventory tracking and sales enablement. The Kibo eCommerce and Order Management Services are not a part of our corporate website. Kibo serves as a Data Processor for our clients who use these services. Kibo does not own the information that is submitted to its clients’ websites. The information that is submitted to our clients’ websites will be subject to our clients’ privacy policies/statements.
 
@@ -111,27 +113,27 @@ Kibo also processes NPD on its eCommerce and Order Management services and may l
 
 Kibo cannot be fully aware of and is not responsible for data collected by third party clients and/or data that is not processed by Kibo.
 
-Mobile Point of Commerce
+ **Mobile Point of Commerce**
 
 Kibo’s Mobile Point of Commerce (“MPOC”) solution powers mobile checkout, registration, purchases, and the placement of orders, for delivery or in-store pickup on a mobile tablet used by client associates. In providing this service, Kibo processes Personal Data in furtherance of Point of Sale sales contracts, orders, or registration contracts entered into by its Data Controller clients.  This Personal Data may include your name, email address, physical address, country of residence, location data, phone number, payment card numbers, third party payment account identifiers, IP address, order history, account information, account identifiers and the like. Kibo processes this information to ensure that orders placed are processed by shippers & fulfillers, to process payments, to screen for fraudulent orders, to provide consumer and client support, and to send messages related to the placement, fulfillment, shipment and delivery of orders.  Kibo’s MPOC solution may also process information about client personnel to provide control functions for the MPOC platform. This information may include personnel names, email addresses, account identifiers, IP addresses, physical addresses, location data, phone numbers, employer information, job function information and the like.
 
-Individualization
+ **Individualization**
 
 Kibo’s Real-Time Individualization (“RTI”) solution processes data gathered by our Data Controller clients during the visits to the Data Controllers’ websites to provide individualized web experiences tailored to each website visitor.  To provide this service, Kibo processes NPD including non-specific location information, user actions, click activity, search activity, purchase history, dwell time, and the like.  In some circumstances, Kibo may process Non-Personal Data to associate it with Personal Data provided by Kibo’s Data Controller clients to facilitate further personalized online experiences.  Kibo’s RTI solution may process anonymized user and machine attributes to associate multiple visits to client website properties.
 
-THIRD PARTIES
+ **THIRD PARTIES**
 
-As part of Kibo’s services we may contract with third-party providers to perform certain functions on behalf of our clients to enhance our existing product and service offerings. Examples include providing product and service support. These third parties may have access to Personal Data and NPD to the extent necessary to permit them to do their jobs, however, they are bound by confidentiality agreements or similar contractual restrictions before any information is provided to them, and they are restricted from using the information for other purposes.
+As part of Kibo’s services we may contract with third-party providers to perform certain functions on behalf of our clients to enhance our existing product and service offerings. Examples include providing product and service support. In cases of onward transfer to third-parties of Personal Data received pursuant to the EU-U.S. Privacy Shield, Kibo is potentially liable. These third parties may have access to Personal Data and NPD to the extent necessary to permit them to do their jobs, however, they are bound by confidentiality agreements or similar contractual restrictions before any information is provided to them, and they are restricted from using the information for other purposes. Kibo contracts with potential third parties to ensure that such data may only be processed for limited and specific purposes consistent with law and the consent provided by individuals, and that the recipient will provide the same level of protection as are required by the Privacy Shield Principles and applicable law. Kibo also requires that if a determination is made that the third party can no longer meet these obligations, it must notify Kibo. If receives such notice from any third party, or if such a determination is made by Kibo, Kibo will require that the third party cease processing Personal Data or take other reasonable and appropriate steps to remediate its situation.
 
-KIBO’S RETENTION OF PERSONAL DATA PROCESSED ON ITS PLATFORM
+ **KIBO’S RETENTION OF PERSONAL DATA PROCESSED ON ITS PLATFORM**
 
 Kibo retains the Personal Data it processed on its systems for no more than seven (7) years.  Personal Data is processed on servers based in the United States.
 
-DATA ACCESS REQUESTS AND RIGHTS TO CORRECTION & ERASURE
+ **DATA ACCESS REQUESTS AND RIGHTS TO CORRECTION & ERASURE**
 
 The General Data Protection Regulations (GDPR) provides you with a right to receive a copy of the data/information a Data Controller holds about you or to authorize someone to act on your behalf. To request this information, please contact the Kibo Data Controller client responsible for the storage of your data.  Alternatively, you may complete the form located at https://kibocommerce.com/GDPR which Kibo will forward to the Data Controller for processing.
 
-The GDPR also provides you with a right to erasure and/or rectification (correction) of Personal Data in certain circumstances.  To request erasure or correction of Personal Data processed by Kibo, please contact the Kibo Data Controller client responsible for the storage of your data.  Alternatively, you may complete the form located at[ https://kibocommerce.com/GDPR](https://kibocommerce.com/GDPR/), which Kibo will forward to the Data Controller for processing.
+The GDPR also provides you with a right to erasure and/or rectification (correction) of Personal Data in certain circumstances.  To request erasure or correction of Personal Data processed by Kibo, please contact the Kibo Data Controller client responsible for the storage of your data.  Alternatively, you may complete the form located at https://kibocommerce.com/GDPR, which Kibo will forward to the Data Controller for processing.
 
  **SECURITY**
 
