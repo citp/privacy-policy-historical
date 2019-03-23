@@ -1,18 +1,18 @@
-> *The following text is extracted and transformed from the southwestern.edu privacy policy that was archived on 2017-09-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170926025638id_/http%3A//www.southwestern.edu/policy/policy.php%3Fid%3D2) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the southwestern.edu privacy policy that was archived on 2019-03-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190323045326id_/http%3A//www.southwestern.edu/policy/library-it/web-privacy) for the most accurate reproduction.*
 
-# Web Privacy
+# Web Privacy • Southwestern University
 
 This Website domain, southwestern.edu, is owned by and is the responsibility of Southwestern University. The following policies apply to southwestern.edu and all other Websites/pages owned and operated by Southwestern University. 
 
-####  **Southwestern University’s Commitment To Privacy**
+####  **SOUTHWESTERN UNIVERSITY’S COMMITMENT TO PRIVACY**
 
 The privacy of visitors to our Website(s) is very important to Southwestern University. The University has adopted this policy to inform visitors about the University’s data collection practices - both when a visitor voluntarily enters and transmits information to the University and when data are collected automatically by systems used by the University. 
 
 Links to this notice are available on the University’s Homepage and on pages where personally identifiable information is collected or requested. 
 
-####  **Information Southwestern University Collects From Website Visitors**
+####  **INFORMATION SOUTHWESTERN UNIVERSITY COLLECTS FROM WEBSITE VISITORS**
 
-Southwestern collects **personally identifiable information (hereafter referred to as PII)** , submitted by visitors, at various points on University Websites/pages. Personally identifiable information are data which contain information that can be associated with or traced back to an individual visitor. PII includes, for instance, a visitor’s name, address, and phone number. Southwestern only uses your personal information to provide you requested services or to communicate with you about those services or the website. 
+Southwestern collects  **personally identifiable information (hereafter referred to as PII)** , submitted by visitors, at various points on University Websites/pages. Personally identifiable information are data which contain information that can be associated with or traced back to an individual visitor. PII includes, for instance, a visitor’s name, address, and phone number. Southwestern only uses your personal information to provide you requested services or to communicate with you about those services or the website. 
 
 Information that is not PII is often referred to as “aggregate information.” These data include a user’s Internet Protocol (IP) address, Website/page traffic and other statistics, and broad demographic data. Most aggregate information is collected automatically in temporary logs created by the web serving software. 
 
@@ -37,13 +37,13 @@ In addition, when a visitor uses Southwestern University’s search engine, Univ
 
 
 
-####  **Use Of Internet Cookies By Southwestern University**
+####  **USE OF INTERNET COOKIES BY SOUTHWESTERN UNIVERSITY**
 
 Southwestern University may place Internet “cookies” on a visitor’s computer. Cookies are small files inserted automatically on the hard drive of a Website visitor by the Website visited. Cookies placed by the University generally do not contain PII. However, the University reserves the right to associate PII with cookies at any time. 
 
 Most browser software allows users to make choices on how cookies are set by Websites. Browser software includes the ability to disable cookies. User preferences also allow the user to be notified when the Website/page attempts to set a cookie. Setting a browser to disable cookies, however, may restrict a visitor’s ability to interact with some or all information available on University Websites. 
 
-####  **The Way Southwestern University Uses Information Collected**
+####  **THE WAY SOUTHWESTERN UNIVERSITY USES INFORMATION COLLECTED**
 
 Information collected by Southwestern University, “PII or aggregate data,” may be used by Southwestern University for: 
 
@@ -59,9 +59,9 @@ Information collected by Southwestern University, “PII or aggregate data,” m
 
 Names, postal and e-mail addresses, and phone numbers provided by visitors via online forms may be added to Southwestern’s database(s) and the online form will state this fact. This information may be used for correspondence or other uses consistent with requested services, Southwestern’s business practices and/or academic mission. Southwestern may also use such information to provide users with information concerning University events and other University community activities and services. If you do not wish to be contacted by Southwestern University, please opt-out of receiving emails. If you want to restrict your PII, please notify the CIO. 
 
-This policy provides a baseline standard; departmental privacy policies may enforce standards that are more rigorous. The University also adheres to legal requirements prescribed by relevant statutes, such as the [Family Education Rights and Privacy Act of 1974](http://www.ed.gov/policy/gen/guid/fpco/ferpa/) (FERPA). 
+This policy provides a baseline standard; departmental privacy policies may enforce standards that are more rigorous. The University also adheres to legal requirements prescribed by relevant statutes, such as the [Family Education Rights and Privacy Act of 1974](http://www.ed.gov/policy/gen/guid/fpco/ferpa/) (FERPA). 
 
-####  **Disclosure Of Personal Data To Third Parties**
+####  **DISCLOSURE OF PERSONAL DATA TO THIRD PARTIES**
 
 Southwestern University occasionally retains the services of third parties to process financial transactions or information collected through the website. Third party services may also be used for other purposes approved by members of Southwestern’s senior management. In some cases, e.g., credit card processing, PII is passed to a third party for actual payment processing. In instances where PII is provided to a third-party, the transfer of the data is done using industry standard, secure protocols. 
 
@@ -69,31 +69,31 @@ Before providing PII to a third party, Southwestern University will obtain a non
 
 Southwestern University does not sell, rent or otherwise provide data to third parties except as described above. However, Southwestern will comply with lawful requests from authorized law enforcement agencies. 
 
-####  **Southwestern’s Commitment To Data Security**
+####  **SOUTHWESTERN’S COMMITMENT TO DATA SECURITY**
 
 To restrict unauthorized access and to enhance data integrity and accuracy, Southwestern University implements physical, electronic, and administrative security policies and procedures intended to safeguard information the University collects and/or stores online. However, the University cannot assure or warrant absolute effectiveness of the security measures implemented by the University. 
 
 Southwestern uses social buttons provided by services like Twitter, LinkedIn, and Facebook, as well as links to some 3rd-party fund-raising and other social media platform services. Southwestern does not control these sites nor do its policies and practices apply to third-party sites. Your use of these third-party services is entirely optional. Southwestern University is not responsible for the privacy policies and/or practices of these third party services, and you are responsible for reading and understanding those third party services’ privacy policies. 
 
-####  **Southwestern’s Commitment To Children’s Privacy**
+####  **SOUTHWESTERN’S COMMITMENT TO CHILDREN’S PRIVACY**
 
 Southwestern University neither collects nor attempts to collect PII from children known to be under the age of thirteen (13). However, Southwestern University cannot always determine if a visitor is a child. In general, the subject matter provided on the University’s Website(s) is not directed toward children under the age of thirteen (13). 
 
-####  **Southwestern University’s Right To Contact Website Visitors**
+####  **SOUTHWESTERN UNIVERSITY’S RIGHT TO CONTACT WEBSITE VISITORS**
 
 Southwestern University reserves the right to contact Website visitors for legitimate purposes relevant to University transactions, surveys, statistical purposes, and/or other reasons approved by the University’s administration. Such contact, if any, will be minimal and will be consistent with Southwestern’s business practices and/or academic mission. 
 
-####  **Southwestern’s Right To Change This Policy**
+####  **SOUTHWESTERN’S RIGHT TO CHANGE THIS POLICY**
 
-Southwestern University reserves the right to change this policy at any time. Visitors will not be notified of any changes made to this policy. The version of this policy in effect will be posted on the University’s main website, [Web Privacy Policy](https://web.archive.org/policy/). Changes to the University’s Website Privacy Policy are effective upon posting to this Website address. 
+Southwestern University reserves the right to change this policy at any time. Visitors will not be notified of any changes made to this policy. The version of this policy in effect will be posted on the University’s main website, Web Privacy Policy. Changes to the University’s Website Privacy Policy are effective upon posting to this Website address. 
 
-####  **How To Contact Southwestern University Regarding This Policy**
+####  **HOW TO CONTACT SOUTHWESTERN UNIVERSITY REGARDING THIS POLICY**
 
 Questions about this policy may be directed, in writing, to: 
 
-> Chief Information Officer  
->  Information Services  
->  Southwestern University  
->  P.O. Box 770  
->  Georgetown, TX 78627  
->  [cio@southwestern.edu](mailto:cio@southwestern.edu?subject=Southwestern%20University%20Web%20Privacy%20Policy "Click here to send email")
+Chief Information Officer  
+Information Services  
+Southwestern University  
+P.O. Box 770  
+Georgetown, TX 78627  
+[cio@southwestern.edu](mailto:cio@southwestern.edu?subject=Southwestern%20University%20Web%20Privacy%20Policy "Click here to send email")
