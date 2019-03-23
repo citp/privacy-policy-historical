@@ -1,12 +1,14 @@
-> *The following text is extracted and transformed from the lap-publishing.com privacy policy that was archived on 2018-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181125144633id_/http%3A//www.lap-publishing.com/site/imprint-privacy-policy/13) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lap-publishing.com privacy policy that was archived on 2019-03-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190323160707id_/http%3A//www.lap-publishing.com/site/imprint-privacy-policy/13) for the most accurate reproduction.*
 
 # LAP Publishing | Imprint and Privacy Policy
+
+Invalid request received, could not be processed
 
 ## Imprint:
 
 LAP LAMBERT Academic Publishing is a trademark of:
 
-SIA OmniScriptum Publishing  
+International Book Market Service Ltd.  
 Business address:  
 Brivibas gatve 197, LV-1039, Riga,   
 Latvia, European Union
@@ -14,17 +16,16 @@ Latvia, European Union
 Fax: +371 68620455  
 Email: info@omniscriptum.com
 
-Registration Number. 40203102774  
-VAT Number: LV 40203102774
+Registration Number. C07072290
 
-Managing directors: Liviu Oboroc, Dr. Wolfgang Philipp Müller (CEO), Ieva Konstantinova
+Managing directors: Liviu Oboroc, Dr. Wolfgang Philipp Müller (CEO), Ieva Konstantinova, Christine Cateaux
 
 This impressum also applies to:   
 <https://www.facebook.com/OmniScriptum>  
 <https://twitter.com/OmniScriptum>  
 <https://plus.google.com/+Omniscriptum>.
 
-Website created by: SIA OmniScriptum Publishing,   
+Website created by: International Book Market Service Ltd.,   
 Brivibas gatve 197, LV-1039, Riga,   
 Latvia, European Union
 
@@ -46,7 +47,8 @@ For the purposes of this privacy policy, the term “personal data” means any 
 
 #### Controller
 
-LAP LAMBERT Academic Publishing, a trademark owned by SIA OmniScriptum Publishing, incorporated in Latvia under company number 40203102774) is the controller and responsible for your personal data (referred to as “we”, “us” or “our” in this privacy policy).
+LAP LAMBERT Academic Publishing is a brand of Omniscriptum   
+Omniscriptum, a trademark owned by International Book Market Service Ltd., is the controller and responsible for your personal data (referred to as “we”, “us” or “our” in this privacy policy).
 
 We have appointed a data privacy manager who is responsible for overseeing questions in relation to this privacy policy. If you have any questions about this privacy policy, please contact the data privacy manager using the details set out below.
 
@@ -54,7 +56,7 @@ We have appointed a data privacy manager who is responsible for overseeing quest
 
 Our full details are:
 
-Full name of legal entity: SIA OmniScriptum Publishing
+Full name of legal entity: International Book Market Service Ltd.
 
 Title of data privacy manager: Data Protection Representative
 
@@ -335,6 +337,7 @@ Under certain circumstances, you have the following rights under data protection
   * Request restriction of processing of your personal data. This enables you to ask us to suspend the processing of your personal data in the following scenarios: (a) if you want us to establish the data’s accuracy; (b) where you need us to hold the data even if we no longer require it as you need it to establish, exercise or defend legal claims; or © you have objected to our use of your data but we need to verify whether we have overriding legitimate grounds to use it.
   * Request the transfer of your personal data to you or to a third party. We will provide to you, or a third party you have chosen, your personal data in a structured, commonly used, machine-readable format. Note that this right only applies to automated information which you initially provided consent for us to use or where we used the information to perform a contract with you.
   * Withdraw consent at any time where we are relying on consent to process your personal data. However, this will not affect the lawfulness of any processing carried out before you withdraw your consent. If you withdraw your consent, we may not be able to provide certain products or services to you. We will advise you if this is the case at the time you withdraw your consent.
+  * File a complaint to the corresponding supervisory authority if you think that your data has been wrongfully used.
 
 
 
