@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the clocalltoaction.com privacy policy that was archived on 2018-09-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180910122408id_/http%3A//www.clocalltoaction.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the clocalltoaction.com privacy policy that was archived on 2019-03-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190323150031id_/http%3A//www.clocalltoaction.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | See Local to Action
 
