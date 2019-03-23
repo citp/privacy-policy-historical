@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the scrapbox.io privacy policy that was archived on 2017-10-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171001054830id_/https%3A//scrapbox.io/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the scrapbox.io privacy policy that was archived on 2019-03-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190323204617id_/https%3A//scrapbox.io/privacy) for the most accurate reproduction.*
 
 # Scrapbox - Privacy
 
@@ -178,4 +178,4 @@ If you object to any sharing of your Personal Information that may be permitted 
 
 Effective Date: Oct 1, 2016
 
-Copyright © 2017 Nota, Inc. All rights reserved.
+Copyright © 2019 Nota, Inc. All rights reserved.
