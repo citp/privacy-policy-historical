@@ -1,27 +1,57 @@
-> *The following text is extracted and transformed from the serendeputy.com privacy policy that was archived on 2016-10-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161026120540id_/http%3A//serendeputy.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the serendeputy.com privacy policy that was archived on 2019-03-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190324015145id_/https%3A//serendeputy.com/about/privacy) for the most accurate reproduction.*
 
-# Serendeputy - Your Personal News Assistant
+# Serendeputy Privacy Policy | Serendeputy: Newsfeed Engine for the open web
 
-This Privacy Policy is effective as of July 14, 2009.
+**I built Serendeputy from the ground up to be a useful tool for everyone, without all the stalking, surveillance and spam. Here are the details.**
 
-Serendeputy collects personally-identifiable information to provide you with the products and services made available through the site. By using Serendeputy, you are agreeing to Serendeputy's using your information as explained in this Privacy Policy. 
+This Privacy Policy describes how your personal information is collected, used, and shared when you visit or make a purchase from https://serendeputy.com (the “Site”).
 
-When you visit Serendeputy, its servers automatically record information that your browser sends, including IP Address, browser type and other information. Serendeputy uses this data to monitor the use of the site, and for quality assurance.
+### PERSONAL INFORMATION WE COLLECT
 
-Serendeputy uses cookies to identify you on the site. Cookies are required for the site to function for you.
+When you visit the Site, we automatically collect certain information about your device, including information about your web browser, IP address, time zone, and some of the cookies that are installed on your device. Additionally, as you browse the Site, we collect information about the individual web pages you view, what websites or search terms referred you to the Site, and information about how you interact with the Site. We refer to this automatically-collected information as “Device Information.”
 
-If you wish to save your profile on Serendeputy, you will need to become a registered user and provide Serendeputy personally-identifiable information. 
+We collect Device Information using the following technologies:
 
-If you are a registered user of Serendeputy, you can delete your information by emailing privacy at serendeputy dot com. If you are not registered, you can delete your connection to Serendeputy by erasing your cookies.
+  * “Cookies” are data files that are placed on your device or computer and often include an anonymous unique identifier. These are what prevent you from having to sign in every time you come to the site. For more information about cookies, and how to disable cookies, visit [http://www.allaboutcookies.org](http://www.allaboutcookies.org/).
+  * “Log files” track actions occurring on the Site, and collect data including your IP address, browser type, Internet service provider, referring/exit pages, and date/time stamps.
 
-In addition, Serendeputy may use your contact information to market to you, and to provide you with information about our products and services. If you decide you no longer with to receive such information, please follow the unsubscribe instructions attached to each communication.
 
-Serendeputy may share your information with trusted third parties to provide services to us, including but not limited to web hosting, database management and marketing campaigns. These agreements require the third parties to maintain the privacy and security of your data.
 
-Serendeputy cooperates with government and law enforcement to enforce and comply with the law. We may disclose any information about you to the government or law-enforcement officials or private parties as we, in our sole discretion, believe necessary or appropriate to respond to claims, legal process, to protect our property and rights, or to prevent or stop any illegal, unethical or legally-actionable activity, or to comply with the law.
+**Google Analytics**. We use Google Analytics to help us understand how our customers use the Site--you can read more about how Google uses your Personal Information here: [ https://www.google.com/intl/en/policies/privacy/](https://www.google.com/intl/en/policies/privacy/). You can also opt-out of Google Analytics here: <https://tools.google.com/dlpage/gaoptout>. 
 
-Serendeputy contains links to other websites. A link to another website is not an endorsement of them or a representation of an affiliation with that third party. Serendeputy has no control over any third-party website, and is not responsible for its content or behavior.
+**Twitter Information** : If you choose to connect your account with Twitter, Twitter will share with us your screen name, email address and a unique identifier. Beyond knowing that you've connected your Twitter account with Serendeputy, Twitter has no knowledge of what you do here. Connecting your account with Twitter gives us the ability to index the links coming through your home timeline. We cannot post on your behalf or interact with Twitter on your behalf in any other way.
 
-This privacy policy is subject to change at any time. All changes will be posted at <http://serendeputy.com/privacy>. Continued use of Serendeputy constitutes acceptance of any changes.
+When we talk about “Personal Information” in this Privacy Policy, we are talking both about Device Information and Twitter Information.
 
-If you have any questions about this privacy policy, please contact privacy at serendeputy dot com.
+### HOW DO WE USE YOUR PERSONAL INFORMATION?
+
+We use your personal information, including the links coming through your Twitter feed and the interactions you make on the site -- bookmarking tags, clicking links, searching, etc. -- to provide you the newsfeed engine functionality.
+
+### SHARING YOUR PERSONAL INFORMATION
+
+**We do not share your information with any third parties, nor use it outside the context of the Serendeputy application.**
+
+That said, we may share your Personal Information to comply with applicable laws and regulations, to respond to a subpoena, search warrant or other lawful request for information we receive, or to otherwise protect our rights. 
+
+### GDPR
+
+If you are a European resident, you have the right to access personal information we hold about you and to ask that your personal information be corrected, updated, or deleted. If you would like to exercise this right, please contact us through the contact information below.
+
+When you use the site, we will maintain your information for our records unless and until you ask us to delete this information.
+
+### MINORS
+
+The Site is not intended for individuals under the age of thirteen.
+
+### CHANGES
+
+We may update this privacy policy from time to time in order to reflect, for example, changes to our practices or for other operational, legal or regulatory reasons.
+
+### CONTACT US
+
+For more information about our privacy practices, if you have questions, or if you would like to make a complaint, please contact us by e-mail at jason@serendeputy.com or by mail using the details provided below:
+
+Serendeputy   
+60 Thoreau Street #302   
+Concord, MA, 01742   
+United States
