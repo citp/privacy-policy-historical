@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the shareme.com privacy policy that was archived on 2018-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180604130636id_/http%3A//shareme.com/privacypage.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shareme.com privacy policy that was archived on 2019-03-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190324143217id_/https%3A//shareme.com/privacypage.html) for the most accurate reproduction.*
 
 # Our Privacy Policy - Shareme.com respects your right to privacy
 
-| [](http://shareme.com/) |   
+| [](https://shareme.com/) |   
 ---|---  
 | 
 
@@ -34,10 +34,6 @@ BootRacer Tests How Fast is your PC! It...
 
 The most powerful encryption software to...
 
-  * [Crave Accounting Pro 1.7.5](https://web.archive.org/details/crave-accounting-pro.html)
-
-Crave Accounting software is an easy to use...
-
   * [Money Manager Ex 0.9.9.0](https://web.archive.org/details/money-manager-ex.html)
 
 Money Manager Ex is a free, open-source,...
@@ -55,54 +51,58 @@ An intelligent freeware to fix common PC...
 
 ####  New Downloads
 
-  * [Canvas Draw for Mac 4.0.2.60](https://web.archive.org/details/canvas-draw-for-mac.html)
+  * [DoneEx XCell Compiler 2.6](https://web.archive.org/details/doneex-xcell-compiler.html)
 
-Take your business to the next level with the...
+Excel workbook copy protection tool, compiles...
 
-  * [Easy Button & Menu Maker 5.2](https://web.archive.org/details/easy-button---menu-maker.html)
+  * [PureVPN Windows VPN Software 7.0.2](https://web.archive.org/details/purevpn-windows-vpn-software.html)
 
-Easily create cool, responsive, mobile-ready...
+The updated Windows VPN app comes with new and...
 
-  * [ODBC Driver for xBase 1.1](https://web.archive.org/details/odbc-driver-for-xbase.html)
+  * [PDF-Tools 7.0.328.2](https://web.archive.org/details/pdf-tools.html)
 
-Devart ODBC Driver for xBase provides...
+All you will ever need to Create, view,...
 
-  * [AnyGantt JS Gantt Charts 8.2.0](https://web.archive.org/details/anygantt-js-gantt-charts.html)
+  * [BCGControlBar Professional Edition 29.2](https://web.archive.org/details/bcgcontrolbar-professional-edition.html)
 
-AnyGantt is a flexible, cross-platform and...
+MFC extension library for creation the most...
 
-  * [SoftPerfect WiFi Guard 2.0.2](https://web.archive.org/details/softperfect-wifi-guard.html)
+  * [2D Barcode FMX Components 7.0.1.846](https://web.archive.org/details/2d-barcode-fmx-components.html)
 
-A specialised network scanner that helps to...
+A FireMonkey components set designed for...
 
-  * [Cloud Secure 1.0.5](https://web.archive.org/details/cloud-secure.html)
+  * [Free 2D Barcode Generator 10.0.1.2533](https://web.archive.org/details/free-2d-barcode-generator.html)
 
-Cloud secure allows you to password protect...
+The programe generates and prints most popular...
 
-  * [Excel Add-in for Zoho CRM 1.7](https://web.archive.org/details/excel-add-in-for-zoho-crm.html)
+  * [Free 1D Barcode Generator 10.0.1.2179](https://web.archive.org/details/free-1d-barcode-generator.html)
 
-Devart Excel Add-in for Zoho CRM allows you to...
+The programe generates and prints most popular...
 
-  * [UDB Workbench 3.4.2](https://web.archive.org/details/udb-workbench.html)
+  * [2D Barcode VCL Components 10.0.1.2533](https://web.archive.org/details/2d-barcode-vcl-components.html)
 
-Database comparison and synchronization tool...
+The components set is designed for generating...
 
-  * [FlexiHub 3.2](https://web.archive.org/details/flexihub.html)
+  * [1D Barcode VCL Components 10.0.1.2179](https://web.archive.org/details/1d-barcode-vcl-components.html)
 
-FlexiHub is an excellent software solution that...
+The components set is designed for generating...
 
-  * [DXF Laser Cutting Fonts 5.0](https://web.archive.org/details/dxf-laser-cutting-fonts.html)
+  * [AnyMP4 DVD Creator 7.2.26](https://web.archive.org/details/anymp4-dvd-creator.html)
 
-CAD Tool for fast creating of letterings and...
+AnyMP4 DVD Creator can help users convert 3GP,...
 
 
 
 
 ####  Recent Searches
 
-[Delphi Portable 2010](https://web.archive.org/programs/delphi/portable-2010), [Blufftitler Dx9 504 Download](https://web.archive.org/programs/blufftitler/dx9-504-download), [Itunes Mp3 Convert M4p](https://web.archive.org/programs/itunes/mp3-convert-m4p), [All In One Hdd Docking](https://web.archive.org/programs/all/in-one-hdd-docking), [Arc Software Webcam Downloads](https://web.archive.org/programs/arc/software-webcam-downloads), [Motivational Quotes Of The Day](https://web.archive.org/programs/motivational/quotes-of-the-day), [Iball Robo 351](https://web.archive.org/programs/iball/robo-351), [Mac Dcx Fax Viewer](https://web.archive.org/programs/mac/dcx-fax-viewer), [Convert Dft To Pdf Free](https://web.archive.org/programs/convert/dft-to-pdf-free), [Auto Body Shop Templates](https://web.archive.org/programs/auto/body-shop-templates), [Photo To Sketching Cartoon Software](https://web.archive.org/programs/photo/to-sketching-cartoon-software), [Driver Labrop Tcl K42](https://web.archive.org/programs/driver/labrop-tcl-k42), [How To Usb Connector](https://web.archive.org/programs/how/to-usb-connector), [Dialogic Delphi](https://web.archive.org/programs/dialogic/delphi), [Cute Cartoon Rabbit](https://web.archive.org/programs/cute/cartoon-rabbit)
+[Customizing Folder](https://web.archive.org/programs/customizing/folder), [Nonimmigrant Us Visa Application Forms](https://web.archive.org/programs/nonimmigrant/us-visa-application-forms), [Cybercamps Machinima](https://web.archive.org/programs/cybercamps/machinima), [Xartes Gps Igo 8](https://web.archive.org/programs/xartes/gps-igo-8), [Magic Morph Software](https://web.archive.org/programs/magic/morph-software), [Htc Hero Free Full Games](https://web.archive.org/programs/htc/hero-free-full-games), [Bordeaux Airport Wikipedia](https://web.archive.org/programs/bordeaux/airport-wikipedia), [Intranet Design Annual 10 Best Intranets](https://web.archive.org/programs/intranet/design-annual-10-best-intranets), [Ourworld 30 Gem Codes April 2010](https://web.archive.org/programs/ourworld/30-gem-codes-april-2010), [Scs Deluxe](https://web.archive.org/programs/scs/deluxe), [First Alert Smoke Detectors](https://web.archive.org/programs/first/alert-smoke-detectors), [Flash Player For Blackberry Phone](https://web.archive.org/programs/flash/player-for-blackberry-phone), [Robot Window 7 Theme](https://web.archive.org/programs/robot/window-7-theme), [Hotmail Decrypt Md5 Hashes Online](https://web.archive.org/programs/hotmail/decrypt-md5-hashes-online), [Canon Pixma Ip1500 For Ubuntu](https://web.archive.org/programs/canon/pixma-ip1500-for-ubuntu)
 
 #### Latest Reviews
+
+  * [Mixcraft ](https://web.archive.org/details/mixcraft.html)   (ase)
+
+I am impressed with the software as it enables me to edit and save any recording for the presentation purpose. 
 
   * [Acronis True Image for Mac ](https://web.archive.org/details/acronis-true-image-for-mac.html)   (Henry)
 
@@ -139,10 +139,6 @@ FolderMill is an automation software which looks for incoming files and send the
   * [DocuVieware ](https://web.archive.org/details/docuvieware.html)   (Sigfrid)
 
 Fully featured document viewer which can be added in your page to load and read almost any type files, the software can... 
-
-  * [Kiosk Software ](https://web.archive.org/details/kiosk-software.html)   (Emmerentiana)
-
-Restricts access to the public computers and kiosks to prevent changes or viruses from affecting it, hence you need no... 
 
 
   
