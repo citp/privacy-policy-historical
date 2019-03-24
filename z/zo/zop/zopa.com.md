@@ -1,14 +1,8 @@
-> *The following text is extracted and transformed from the zopa.com privacy policy that was archived on 2018-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181228004119id_/https%3A//www.zopa.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the zopa.com privacy policy that was archived on 2019-03-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190324214757id_/http%3A//www.zopa.com/privacy-policy) for the most accurate reproduction.*
 
-# Zopa's privacy policy
+# Zopa privacy policy | Zopa.com
 
-This privacy policy is the standard data protection privacy policy for Zopa Limited and Zopa Financial Services Limited. When we mention "Zopa", "we", "us" or "our", we mean whichever one of Zopa Limited or Zopa Financial Services Limited that processed your personal information. 
-
-This privacy policy provides details of what information we collect from you, what we do with it, who we share it with and your rights in relation to it. 
-
-Last updated 4 December 2018
-
-## 1. Information we collect about you
+## 1\. Information we collect about you
 
 The information we collect about you may include:
 
@@ -29,7 +23,7 @@ This information may come from:
 
 
 
-## 2. Using your information
+## 2\. Using your information
 
 The UK's data protection law allows us to use your personal information provided we have a legal basis for doing so. The legal basis that we rely on to use your information include:
 
@@ -42,7 +36,7 @@ The UK's data protection law allows us to use your personal information provided
 
 We've set out in the table below how we use your information and the legal basis for using it.
 
-How we may use your information | Legal basis  
+How we may use your information| Legal basis  
 ---|---  
   
   * Verify your identity and any other information you've provided us
@@ -107,7 +101,7 @@ When you register with Zopa we'll give you the option to receive our occasional 
 
 There may be some messages that we're required by law or regulation to send you even if you ask us not to.
 
-## 3. Sharing your information
+## 3\. Sharing your information
 
 We may share your information with the following third parties so that we can use your information for the purposes described above.
 
@@ -125,7 +119,7 @@ We won't disclose customer information to other Zopa customers unless it's neces
 
 However, we may provide investors with certain transactional information (for example loan amount and repayment details). We will not be responsible for misuse of transactional data by others, but you must inform us promptly if you are the victim of any misuse of that information.
 
-## 4. Credit reference agencies
+## 4\. Credit reference agencies
 
 When you ask us to provide you with a personalised loan rate we'll supply your personal information to credit reference agencies (CRAs) and carry out a 'soft credit search' to establish your credit rating. This is a preliminary credit check and will give us an overall view of your financial health (including your credit score) but not your full credit report. This will help us determine whether your application will be successful and how much you can borrow and at what interest rate.
 
@@ -154,13 +148,16 @@ If you are an investor or a prospective investor we may conduct searches with cr
 
 The identities of the CRAs, their role also as fraud prevention agencies, the data they hold, the ways in which they use and share personal information, data retention periods and your data protection rights with the CRAs are explained in the Credit Reference Agency Information Notice (CRAIN), which is available from each of the three CRAs-clicking on any of these three links will take you to the CRAIN document:
 
-  1. [Callcredit](https://www.callcredit.co.uk/crain)
+  1. [TransUnion](https://www.transunion.co.uk/crain)
+
   2. [Equifax](https://www.equifax.co.uk/crain)
-  3. [Experian](https://www.experian.co.uk/crain)
+
+  3. [Experian](https://www.experian.co.uk/crain/index.html)
 
 
 
-## 5. Fraud prevention agencies
+
+## 5\. Fraud prevention agencies
 
 If you give us false or inaccurate information or if we suspect or identify fraud we may record this and may also pass this information to fraud prevention agencies and other organisations involved in crime and fraud prevention including law enforcement agencies.
 
@@ -170,19 +167,19 @@ Fraud prevention agencies may hold your information for different periods of tim
 
 You can contact us at [contactus@zopa.com](mailto:contactus@zopa.com?subject=I%20want%20to%20know%20more%20about%20credit%20and%20fraud%20agencies) if you'd like to know more about the credit reference and fraud prevention agencies we use.
 
-## 6. Overseas transfers
+## 6\. Overseas transfers
 
 We may transfer your personal information to countries outside the European Economic Area (EEA), whose information protection laws are less strict than in the UK. Where we do so, we will make sure suitable safeguards are in place in accordance with European data protection requirements, to protect the information.
 
 Whenever fraud prevention and credit reference agencies transfer your information outside the EEA, they impose contractual obligations on the recipients of that data to protect your personal information to the standard required in the EEA. They may also require recipients to subscribe to 'international frameworks' intended to enable secure data sharing.
 
-## 7. Retaining your information
+## 7\. Retaining your information
 
 We'll keep your information for up to six years after you close your Zopa account, to prevent fraud and other financial crimes, to comply with our regulatory obligations and to establish, exercise or defend legal claims.
 
 In exceptional circumstances, e.g. if there is an ongoing regulatory investigation or legal claim, we may retain our information beyond the six-year period.
 
-## 8. Automated decisions
+## 8\. Automated decisions
 
 When you apply for a loan we'll use an automated process to decide whether to lend to you, i.e. we may make our decision without any human involvement. This helps us to make fair and responsible lending decisions.
 
@@ -204,13 +201,13 @@ Our credit scoring methods are regularly tested to ensure they remain fair, accu
 
 You can ask us to reconsider any declined decision by contacting us at [contactus@zopa.com](mailto:contactus@zopa.com?subject=Reconsider%20a%20declined%20decision) or by calling us on [020 7580 6060](tel:+44-20-7580-6060).
 
-## 9. Consequences of processing
+## 9\. Consequences of processing
 
 If we, or a fraud prevention agency, determine that you pose a fraud or money laundering risk, we may refuse to provide you with the services or financing you have requested, or to employ you, or we may stop providing existing services to you.
 
 A record of any fraud or money laundering risk may be retained by fraud prevention agencies, and may result in others refusing to provide services, financing or employment to you. If you have any questions about this, please contact us using the details above.
 
-## 10. Your rights
+## 10\. Your rights
 
 ### Right to be provided with certain information
 
@@ -270,56 +267,72 @@ You can send us your request by emailing us at [contactus@zopa.com](mailto:conta
 
 If you no longer want to receive marketing messages you can log into your account and change your "[Details](https://secure2.zopa.com/profile)" settings. If you need help with this, please get in touch with our customer services at [contactus@zopa.com](mailto:contactus@zopa.com?subject=Help%20stopping%20Zopa%20marketing%20messages).
 
-## 11. Making a complaint
+## 11\. Making a complaint
 
 If you have any further questions about data privacy at Zopa, or if you are unhappy with how we've handled your information you can contact us at:
 
-**The Data Protection Officer (DPO)**  
+ **The Data Protection Officer (DPO)**  
 Zopa  
 47-49, Cottons Centre  
 Tooley St  
 London  
-SE1 2QG  
+SE1 2QG
+
 Or by email at: [privacy@zopa.com](mailto:privacy@zopa.com)
 
 If you are still unsatisfied you can refer your concerns to the Information Commissioner's Office, the body that regulates the handling of personal information in the UK, at:
 
-**Information Commissioner's Office**  
+ **Information Commissioner's Office**  
 Wycliffe House,  
 Water Lane,  
 Wimslow,  
-SK9 5AF  
-Tel: [0303 123 1113](tel:+44-303-123-1113)  
-Website: [www.ico.org.uk](https://www.ico.org.uk/)
+SK9 5AF
 
-## 12. Consequences of not providing us with your personal information
+Tel:
+
+[0303 123 1113](tel:+44-303-123-1113)  
+Website:
+
+[www.ico.org.uk](https://ico.org.uk/)
+
+## 12\. Consequences of not providing us with your personal information
 
 You don't have to provide us with your personal information. However, we need your information partly because the law requires us to ask for certain details about you and partly so that we can offer products and services to you in accordance with our agreement with you. This means that if you don't provide us with the information we ask for, we'll not be able to open an account for you.
 
-## 13. Keeping your information safe
+## 13\. Keeping your information safe
 
 We take your privacy seriously and take every reasonable measure to keep your information secure. We monitor our systems 24/7 and continually work to improve the security of your personal information and our systems.
 
 While we use all reasonable efforts to safeguard your personal information, you should be aware that the use of the internet is not entirely secure and we can't guarantee the security or integrity of any personal information that is transferred from you or to you via the internet.
 
-## 14. Cookies
+## 14\. Cookies
 
 We use "cookies", which store small amounts of information on your computer or device to allow certain information from your web browser to be collected. You can find more details about this in our [Cookie Policy](https://web.archive.org/cookie-policy)
 
-## 15. About Zopa
+## 15\. About Zopa
 
-Zopa Limited is authorised and regulated by the Financial Conduct Authority and entered on the Financial Services Register ([718925](https://register.fca.org.uk/ShPo_FirmDetailsPage?id=001b000001YW500AAD "Opens in a new window")). Zopa Financial Services Limited is authorised by the Prudential Regulation Authority and regulated by the Financial Conduct Authority and the Prudential Regulation Authority and entered on the Financial Services Register ([800542](https://register.fca.org.uk/ShPo_FirmDetailsPage?id=0010X000047Tv36QAC "Opens in a new window")). Zopa Limited ([05197592](https://beta.companieshouse.gov.uk/company/05197592 "Opens in a new window")) and Zopa Financial Services Limited ([10627575](https://beta.companieshouse.gov.uk/company/10627575 "Opens in a new window")) are both incorporated in England & Wales and have their registered office at: 1st Floor, Cottons Centre, Tooley Street, London, SE1 2QG. 
+Zopa Financial Services Limited is a company incorporated in England & Wales under company registration number 10627575, having its registered office at 1st Floor, Cottons Centre, Tooley Street, London SE1 2QG. It's registered with the Information Commissioner with registration number Z879078. It's also authorised and regulated by the Financial Conduct Authority and entered on the Financial Services Register under firm registration number 800542.
 
-## 16. Changes to this Privacy Policy
+## 16\. Changes to this Privacy Policy
 
 We'll regularly review this Privacy Policy. If we make any changes, we'll post the updated policy on this page.
 
 ### Recent updates:
 
-**4 December 2018:** We extended the policy to cover Zopa Financial Services Limited, which will launch as a bank next year.
+ **4 December 2018** We extended the policy to cover Zopa Financial Services Limited, which will launch as a bank next year.
 
-**1 December 2018:** We added details of how our company is now structured and regulated now that we have a banking licence.
+ **1 December 2018** We added details of how our company is now structured and regulated now that we have a banking licence.
 
-**23 November 2018:** Added contact details for our Data Protection Officer (DPO).
+**23 November 2018** Added contact details for our Data Protection Officer (DPO).
 
-**1 August 2018:** We clarified our responsibility on overseas transfers.
+ **1 August 2018**. We clarified our responsibility on overseas transfers.
+
+## We’re here to help
+
+Monday to Thursday (8am to 8pm), and Friday (8am to 5pm).
+
+We can't take applications over the phone.
+
+UK residents only. Calls may be monitored or recorded.
+
+[contactus@zopa.com](mailto:contactus@zopa.com)
