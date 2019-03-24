@@ -1,459 +1,109 @@
-> *The following text is extracted and transformed from the vivo.com privacy policy that was archived on 2016-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160618090432id_/http%3A//www.vivo.com/privacy/privacy_en%3Fr%3Dus) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vivo.com privacy policy that was archived on 2019-03-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190324202949id_/https%3A//www.vivo.com/en/index/privacyPolicy) for the most accurate reproduction.*
 
-# Privacy Policy | Listen.com
+# Vivo Global
 
-Please try again with Internet Explorer 9.0 or greater, or Chrome browser.
+Vivo Mobile Communications Co., Ltd. (hereafter referred as "Vivo" or "We") and its affiliates understand that information and privacy are important for you. If you would like to share your information with us, we can provide you with better products and services, and help you to solve the issues you might be facing while using our products.
 
-* * *
+We developed this Vivo Privacy Policy (hereafter referred as "Privacy Policy") for your reference so that you will be able to understand how we collect, use, store, transfer and disclose your information. The Privacy Policy covers how we handle your information.
 
-ENTERTAIN YOUR CALLERS &  
-SHARE YOUR FAVORITE SONGS  
-Get the LISTEN app!
+You can choose whether or not to share your information. However, if you decide not to share your information, we may not be able to provide you with related services and solve the issues you might be facing while using our products.
 
-Available in the US for T-Mobile and MetroPCS customers and in the UK for T-Mobile and Orange customers.
+## Main Content of the Privacy Policy
 
-**REALNETWORKS, INC., AND AFFILIATED ENTITIES**
+1\. The type, purpose, and usage of your personal information or information collected by Vivo
 
-_This document was last updated February 14, 2014._
+Personal information refers to the information that can be, either directly or indirectly, in combination with other information, used for individual identification.
 
-This Privacy Policy covers RealNetworks, Inc., its majority-owned affiliates and worldwide subsidiaries, and RealNetworks divisions operating under different trade names, including GameHouse, Muzicall, and Zylom (collectively "RealNetworks" or "RN"). RealNetworks is committed to protecting the privacy of your personal information. This Privacy Policy explains how RealNetworks collects and utilizes both personal and non-personal information when you use our products, mobile applications, services and websites "RN Online Services".
+1.1 Account creation, registration and purchase information – when you create an account, in order to register and create an account, complete the purchase of products and services and register or purchase our products or services, etc. you may be required to provide your name, phone number, email and mailing address, and payment method.
 
-RealNetworks processes information about our users on servers located in a number of countries. We may also subcontract processing or share your information to third parties located in countries other than your home country. Information collected by RealNetworks in the United States may, for example, be transferred to and processed in a country outside of the United States. Information collected within the European Economic Area and Switzerland may, for example, be transferred to, and processed in a country outside of the European Economic Area and Switzerland.
+The foregoing information will be used for providing services to you or in some cases providing information on additional services offered by us.
 
-By submitting your personal information to us and our agents through the use of the RN Online Services you consent to this transfer, storing or processing. We will take all steps reasonably necessary to ensure that your data is treated securely and in accordance with this Privacy Policy.
+1.2 Contact information When requesting to be contacted by Vivo relevant personnel, you may be asked to provide information about yourselves. This information enables Vivo relevant personnel to respond promptly and effectively to customer questions and requests. This information will be only used for address your questions.
 
-By downloading or using any of the RN Online Services you are agreeing that you have read and agree to be bound by this Privacy Policy. If you disagree with any part of this Privacy Policy then please do not use any of the RN Online Services.
+1.3 Product activation information – When you use and activate the device for the first time, we may collect information such as IMEI code, location and activation time, in order to enable related products and services (such as warranty service). This type of information will be collected anonymously, and any information collected will not be used to determine your identity.
 
-### WHY DO WE COLLECT PERSONAL INFORMATION?
+1.4 Abnormal or crash information – If you experience abnormal behavior or system crash after you have agreed to join Vivo's User Experience Improvement Plan, we may collect your device model, the application name and version, the IMEI code, error log, and other related information in order to solve the issues you are facing while using the product. This type of information will be collected anonymously, and any information collected will not be used to determine your identity.
 
-RealNetworks collects personal information to improve the manner by which we operate and offer our RN Online Services, communicate with you, and provide effective customer support. We will not share your personally identifiable information with third parties without your consent, unless necessary for the purposes set forth in this Privacy Policy.
+1.5 Function usage information – If you agree to join Vivo's User Experience Improvement Plan, we will need to understand how you use the different functions of your device, so that we can provide you with better service and user experience. Information we collect may include your usage information of the different functions of the device and applications as well as the usage habits. This type of information will be collected anonymously, and any information collected will not be used to determine your identity.
 
-### WHAT PERSONAL INFORMATION DO WE COLLECT?
+1.6 Update and upgrade information – In order to promptly notify you about any update or upgrade for your system and application, we might need to collect information such as device name, system and application version, operating system and browser version, region and language settings, device identification information and service provider’s network code. The above information will only be collected for application update notification purposes. This type of information will be collected anonymously, and any information collected will not be used to determine your identity.
 
-Personal information specifically identifies an individual and may include: name; email address; financial account information and other payment information submitted to us for order processing; mailing address; phone number; username and password; and device ID (including IP address)
+1.7 Location information – When you use certain feature or application from Vivo, we will need to collect information about your location. For example, when you use applications and features such as search, navigation and weather enquiries, we may obtain your physical location in order to provide you with accurate information and services. This type of information will be collected anonymously, and any information collected will not be used to determine your identity.
 
-### HOW DO WE USE YOUR PERSONAL INFORMATION?
+1.8 Cookies – Our websites, online services, Internet applications, email and advertisement may use Cookies and other similar technologies (such as pixel tags and web beacons). Our cookies will not be used to determine your identity, save as expressly stated otherwise herein. They are only used to provide you with better user experience and improve our services.
 
-RealNetworks uses your personal information to: 
+2\. Disclosure of user information
 
-  * Deliver to you and bill you for the RN Online Services, and communicate with you concerning your account and customer service issues, verify access rights to premium content or other access-restricted services and software;
-  * Ask you to participate in surveys;
-  * Offer you product upgrades, content, services and games;
-  * Auto-update downloaded products;
-  * Provide you with news, updates, targeted advertising, promotions, and special offers, including by combining your personal information with non-personal information, such as the amounts and types of purchases you make;
-  * Allow interoperability with social media and other third party sites. When using this functionality, you should consult the privacy policy of such sites to determine the information practices of those sites; and
-  * Further our business purposes, such as to perform data analysis, audits, fraud monitoring and prevention, to enhance, improve or modify the RN Online Services, to identify usage trends, determine the effectiveness of our promotional campaigns and to operate and expand our business activities.
+We may disclose your personal information under the following circumstances, pursuant to the consent provided by you herein:
 
+a. Your personal information will be disclosed to an affiliated company of Vivo;
 
+b. Your personal information will be disclosed to an authorized partner of Vivo. We require authorized partners of Vivo to comply with this Privacy Policy and to take necessary and reasonable measures to protect your information. Vivo will never allow any authorized third party to use your personal information for any other purpose other than this Privacy Policy;
 
-We may send "transactional or relationship" communications to you, such as notices to facilitate a transaction you have conducted or messages that provide information about your existing account, using various electronic communication, including email and mobile communications. If, at any time, you decide you would rather not receive these types of communications from RealNetworks, you can opt-out by clicking the unsubscribe link at the bottom of any RealNetworks email or update the Contact Preferences for your RealNetworks account.
+c. We are required to disclose your personal information by local judicial or government authorities, agencies or as mandated under applicable laws Vivo may, without obtaining prior consent from you, share information with governmental agencies mandated under law to obtain information including sensitive personal data or information for the purpose of verification of identity, or for prevention, detection, investigation including cyber incidents, prosecution, and punishment of offences.
 
-### WHAT NON-PERSONAL INFORMATION DO WE COLLECT?
+d. In the event of any merger, restructuring or bankruptcy, Vivo may also provide your personal information to related third parties.
 
-We collect non-personal information that does not permit direct association with any specific individual. We may collect, use, store, transfer, publish, promote, report and otherwise disclose non-personal information for any purpose, provided such information does not otherwise personally identify you. The following are examples of non-personal information that we collect: 
+3\. Protection of user information
 
-  * Information about your computer, hardware, software, platform, mobile device, Internet Protocol (IP) address;
-  * Language preference;
-  * Gender;
-  * Anonymous information regarding customer activities on our websites, which is aggregated and considered non-personal information for purposes of this Privacy Policy;
-  * Information collected through cookies, pixel tags and other technologies described in more detail later in this Privacy Policy.
+Vivo will take necessary and reasonable steps to protect your information, including but not limited to technical and physical measures. However, please note that although we have implemented reasonable measures to protect your personal information, there is no security measure that can guarantee absolute safety.
 
-  
+4\. Vivo's information of minors' protection
 
+We will only use or disclose information of minors under the following circumstances:
 
-### HOW DO WE USE YOUR NON-PERSONAL INFORMATION?
+a. The disclosure of information is allowed by law;
 
-  * Improve our software and services by providing content recommendations, language and location customization, targeted advertising and/or personalized help and instructions;
-  * Determine if you meet the minimum system requirements to use our products, and provide information concerning compatibility and interoperability;
-  * Track content use for the purpose of paying royalties and license fees to third party providers;
-  * Better understand how our products are used.
+b. Consent through this Privacy Policy from the legal representatives or guardians of the minors for and on behalf of the minors has been obtained;
 
+c. Use or disclose information of minors in order to protect the minors.
 
+Vivo will not knowingly collect personal information from minors, except as set out above. We will immediately take steps to delete such information if we discover it is from minors and the parents or legal representatives had not consented for and on behalf of the minors.
 
-We also may share or disclose your personal information or the content of files you upload using the RN Online Services to comply with the law or respond to legal process or lawful requests, including from law enforcement and government agencies.
+The definition of "minors" shall be in accordance with the relevant local regulations and laws.
 
-**THIRD PARTY ADVERTISING**  
-We allow third-party advertising companies to serve ads when you visit our websites or interact with the RN Online Services. These companies use non-personal information about your visits in order to provide advertisements of interest to you.
+5\. Scope of the Privacy Policy
 
-We allow third-party companies to serve ads and/or collect certain anonymous information when you use the RN Online Services. These companies may use non-personally identifiable information (e.g. click stream information, browser type, time and date, subject of advertisements clicked or scrolled over) during your visits to this and other web sites in order to provide advertisements about goods and services likely to be of greater interest to you.
+This Privacy Policy only applies to products and services from Vivo, and does not apply to products and services from any third party. Our website, products, applications and services may contain links to third party websites, products and services. In addition, our products and services may use or provide the product or service from a third party. Your use of the products or services from a third party shall be subject to the provisions of privacy policy/terms of use of the third party, please pay attention to the privacy policy/terms of use of the third party.
 
-These companies typically use a cookie or third party web beacon to collect this information and these technologies enable them to recognize a unique cookie that has been placed on your browser, which in turn enables us and these companies to learn which advertisements bring users to the RN Online Services.
+6\. Information storage and transmission/transfer
 
-In addition, we and these companies may use such technologies to track the actions of users of the RN Online Services, to measure statistics of our marketing efforts, and to deliver advertisements on the RN Online Services that may be more relevant to individual consumers and that will improve the consumer experience of the RN Online Services.
+Vivo products and services can be provided from resources or servers of different countries or regions around the world. Therefore, your information may be stored or transmitted to servers outside of the country in which you are living, in accordance with applicable laws. If you agree to accept our services and allow us to collect, handle, disclose, transfer and use your information, you are also giving us permission to collect, transfer, store, use and process your information outside your country or region according to this Privacy Policy.
 
-To learn more about behavioral advertising, or to opt-out of this type of advertising as conducted by our NAI partners (opt-out does not apply to advertising from non-NAI members), you can visit 
+7\. About Cookies
 
-http://www.networkadvertising.org/managing/opt_out.asp.
+Cookie is a type of specific identifier to enable your device to be identified by our system.
 
-RN is not an NAI member, and does not represent that it complies with all NAI standards.
+Sometimes we will store cookies on your device to record your preferences and provide personalized services. It will also record your login credentials, so you don't have to enter this information each time you sign in.
 
-Advertisements displayed on RealNetworks Web sites or embedded in other media content provided by RealNetworks may be delivered via an advertising management service. When you view a web page on our web site that contains advertising provided one of our advertising management services, the advertising service company may place a cookie on or retrieve a cookie from your computer if you have enabled cookies. This cookie may uniquely designate your computer/browser, without containing any personally identifying information such as your name or e-mail address. RealNetworks does not intentionally provide any of your personally 
+Current browser configuration has settings to accept and limit the level of cookies. You may configure at your own preference when you use web browser to access the services.
 
-When you search for specific content on RealNetworks web sites, the search terms may be embedded in the "search string" that appears in the URL display window of your web browser. Certain advertising services or third party content providers may associate these search strings with cookies they set or retrieve from our pages.
+You may learn more details about cookies from your browser's "Help" menu.
 
-From time to time, RealNetworks enters into partnerships with other companies to provide you with the opportunity to:
+You may at any time disable cookies. By modifying your browser preferences, you can choose to accept all cookies, or to reject all cookies. You can still use Vivo IT data network even if you do not accept cookies, but please note that certain services may be designed to work with cookies, and disabling cookies may affect your use of the services or part of the service.
 
-  * sample or purchase a product or service; 
-  * offer plug-ins, products and services that enhance the experience of using the RN Online Services, or;
-  * offer the opportunity to participate in third-party or co-branded promotions, sweepstakes or special programs.
+We may use cookie-like technology, such as web beacons (or "pixel tags"), to send information from your device to server.
 
+Web beacons are generally embedded in e-mail and online video. With beacon, we can read some specific information from your device, such as whether the e-mail was opened, device IP and so on.
 
+We will analyze the data collected through web beacons, in order to optimize the products and provide services that suit you better.
 
-If you purchase a product or service developed or owned by another company, RealNetworks will seek your informed consent prior to giving that company information you provide to us. We will never sell, rent or disclose to third parties our customers' personally identifiable information collected from the distribution of RealNetworks products or gathered on a RealNetworks Web site unless we are required to do so by law or receive your advance informed consent.
+By accessing and using our services, you are deemed to agree that cookies and web beacons will be stored on your device.
 
-RealNetworks offers a variety of "plug-in" products that are compatible with certain RealNetworks products. While we endeavor to fully research and disclose how such plug-ins utilize personal information, RealNetworks is not responsible for the operation of plug-ins provided by third parties and we strongly encourage you to visit their Web sites and read the privacy policies that govern their usage. RealNetworks will not provide personally identifiable information to our product plug-in partners without first obtaining the informed consent of our users.
+We will not use cookies or collect any personal information for any purpose other than those stated in this policy.
 
-### HOW DO WE KEEP YOUR PERSONAL INFORMATION SECURE?
+8\. Revision of this Privacy Policy
 
-RealNetworks is committed to protecting your personal information. We use the following controls to protect your personal information: 
+Vivo may amend or update this Privacy Policy from time to time, and we will notify you of any major changes by publishing notice of change. For the most updated version of this policy, please refer to our website.
 
-  * Use of secure connections using Secure Socket Layer Technology or SSL to safeguard information when transmitted from your Web browser to RealNetworks;
-  * Use of security controls to restrict access to databases housing personally identifying information;
-  * Use of encryption for sensitive personal information, such as credit card numbers and user names;
-  * Limited employee access to databases containing personal information and confidentiality requirements imposed upon employees who do; and
-  * Subcontractors bound by contractual, technical and organizational measures.
+9\. Your consent and choice
 
+You hereby consent to the collection, storage, use, disclosure, transfer, of the personal information and information by Vivo for the purposes of and in accordance with this Privacy Policy.
 
+You may at any time withdraw your consent to the collection, storage, use, disclosure, and transfer, of the information by us. When you withdraw your consent, you can go settings and disable the functions by turning off the relative button or you can notify your intention in writing to us by sending an e-mail to the contact address notified under paragraph 10. Your act of withdrawing shall be deemed a notification to us that you are withdrawing your consent to the collection, storage, use, disclosure, and transfer, of the information. However, in the event that you so choose to withdraw your consent to the aforesaid, we shall be entitled to discontinue providing any or all of the products/services to you.
 
-Unfortunately, no system or online transmission of data can be guaranteed to be 100% secure and you should always take appropriate security measures to protect your personal information, including ensuring that you have up to date antivirus software. If you believe that your RealNetworks account or any information you provided to us is no longer secure, please notify us immediately through the Contact Us information provided below.
+You may at any time review/ correct/ supplement/ add to, the personal information or information provided by you, by sending an e-mail to this effect to the contact address notified under paragraph 10. We shall at no time be responsible/liable for the authenticity/ veracity of the personal information or information provided by you.
 
-### PRIVACY ON SOCIAL NETWORKING SITES
+10\. Contact us
 
-When you use a RealNetworks product or game through a Social Networking Site such as Facebook ("SNS"), you allow RealNetworks to access certain personal and non-personal information that you provided to such SNS such as your user ID, first and last name, profile picture, and usage data for that product or game. By accessing a RealNetworks product or game through an SNS, you are authorizing RealNetworks to collect, store and use all information that you agreed the SNS could provide to RealNetworks through the SNS. RealNetworks' collection, storage and use of your information is governed by this Privacy Policy.
-
-When you link to the RN Online Services through any SNS please remember that you are bound by the privacy policy of the SNS and we do not control and are not responsible for the privacy practices of such sites. You should consult the privacy policy of such sites to determine the information practices of those sites.
-
-### WHEN AND HOW DO WE SHARE YOUR PERSONAL INFORMATION WITH THIRD PARTIES?
-
-RealNetworks does not use your personal information for purposes incompatible with those listed above. In some cases, access to certain products and services may require the provision of personal information to a third party. In such cases, this will be stated during the registration process, in the terms of use, through the distribution process, or in a similar manner. The third party's use of such information is governed by that party's privacy policy. Please visit the privacy policy of the third party to make sure you understand how they use the personal information you provide to them. If you do not wish for such a transfer to take place, you should not register for the applicable product or service. Additionally, RealNetworks may be required to provide specific access and usage information to certain content providers and rights holders as a condition of content licensing and royalties.
-
-RealNetworks may disclose relevant information about our customers to our contractors in order for them to provide specific services for RealNetworks such as website hosting, professional services, including information technology services and related infrastructure, customer service, e-mail delivery, auditing and other similar services. RealNetworks contractors are bound to keep all personal information they process confidential.
-
-We may disclose your personal information to third parties in order to perform services you request or functions you initiate, such as when you post information and materials on message boards and forums, including on our Facebook Page. When you post information in a public forum it becomes public information. In addition, we may disclose your personal information in order to identify you to anyone to whom you send communications through the RN Online Services.
-
-We may disclose your information to a third party in connection with a corporate reorganization, merger, sale, joint venture, assignment, transfer or other disposition of all or any portion of our business, assets or stock, including in connection with any bankruptcy or similar proceedings.
-
-RealNetworks may disclose your personal information if required to do so by law or in the good faith belief that such action is necessary to: (a) conform to the edicts of the law; (b) comply with the order of a competent judicial authority in any jurisdiction; (c) comply with legal process served on RealNetworks; (d) protect and defend the rights or property of RealNetworks; (e) act in urgent circumstances to protect the personal safety of users of RealNetworks products or the public at large; or (f) to enforce our terms and conditions.
-
-This Privacy Policy does not govern other sites that are linked to one of RN Online Services.
-
-### E-MAIL FROM REALNETWORKS
-
-Separate RealNetworks products, services and lines of business may send separate newsletters and marketing emails to you. You may opt out of receiving RealNetworks marketing messages. If you create an online account with RealNetworks, you can change your account setting to select whether you wish to receive marketing messages. However, we may continue to send you e-mails about RN Online Services you have previously purchased or to inform you about critical technical service issues relating to an RN Online Service.
-
-### HOW TO ACCESS AND UPDATE YOUR PERSONAL INFORMATION
-
-To access your account information and preferences, select "Manage My Account" from the menus in the RealPlayer (usually under the "Help" menu) or other RealNetworks consumer software. Sign in to your account and modify your information and preferences as needed.
-
-If you created an account with RealNetworks, you may review and update your account on the web at 
-
-www.real.com
-
-or by selecting "My Account," and logging in using your name and password. If you have forgotten a username or password, you can use our online help resources or contact customer service at: 1-866-420-5780 Monday - Friday, 8 am - 5 PM Pacific Time.
-
-### USE OF COOKIES
-
-We use cookies, web beacons, pixel tags, and similar technologies to provide you with a tailored experience.
-
-**What is a cookie?**  
-A "cookie" is a small text file that is stored by your web browser on your computer or mobile device to store your preferences. This cookie policy relates to tracking technologies generally and therefore, for the purposes of this policy, references to "cookies" will incorporate references to all types of tracking technologies which require access to and storage of data or programs on your computer.
-
-Cookies are not themselves personally identifiable, but may be linked to personal information that you provide to us through your interaction with the RN Online Services. A cookie will typically contain the name of the domain (internet location) from which the cookie has come, the "lifetime" of the cookie (i.e. when does it expire), and a value, usually a randomly generated unique number.
-
-**How does RealNetworks use cookies?**  
-Like many web and e-commerce sites, RealNetworks and our business partners use cookies to "recognize" your Internet browsing and RealNetworks software or apps in order to display information that is relevant to you and to cache some elements of the RealNetworks web sites and services to improve their performance. When you visit the RN Online Services, RealNetworks cookies are sent to our servers automatically.
-
-Cookies allow us to customize your RealNetworks experience. When you return to RealNetworks web sites your settings are maintained and we can personalize content, banners, advertisements and promotions that you will see when you visit RN Online Services. 
-
-RealNetworks does not require that you accept cookies, however, some functionality on our web sites, our product purchase check-out process, and our products and services may be impaired if you decline to accept cookies.
-
-**Types of Cookies Used by RealNetworks**
-
-Cookie Type| Purpose  
----|---  
-Functional| To recognize our users' preferences (playing webgames or downloading games, etc.) and remembering subscribers' and registered account holders' information such as username or ID.  
-Advertising| These are placed by RealNetworks or our partners for advertising purposes. Upon your return to our websites, we can personalize advertisements and promotions.  
-Analytics | To analyze how visitors use our websites. These cookies collect information in an anonymous form, including the number of visitors to the site, where visitors have come from and the pages they visited. These cookies help us understand traffic patterns on RN Online Services so that we can enhance your experience and provide you with more relevant information about our products and the content available on our web sites.
-
-[We only use Analytical/performance cookies that we think are helpful to you. These cookies allow us to recognise and count the number of visitors and to see how visitors move around our website. This helps us to improve the way our website works, for example, by ensuring that users are finding what they are looking for easily and do not encounter technical errors.]   
-  
-**Managing Cookies:**  
-A number of privacy organizations publish guides on how to manage or disable web based cookies. Two of these are: 
-
-www.aboutcookies.org
-
-and 
-
-www.allaboutcookies.org
-
-.
-
-Most browsers allow you to change your cookie settings. These settings are typically found in the options or preferences menu in your browser.
-
-**Third Party Cookies:**  
-The RN Online Services also use cookies and other technologies such as pixel tags, web beacons and clear GIF files, to help manage our online advertising program. These technologies are provided by our advertising partners and enable them to recognize a unique cookie that has been placed on your browser, which in turn enables us and these advertising partners to learn which advertisements bring users to the RN Online Services.
-
-In addition, we and our advertising partners may use these technologies to track the actions of users of the RN Online Services, to measure statistics of our marketing efforts, and to deliver advertisements on the RN Online Services that may be more relevant to individual consumers and that will improve the consumer experience on the RN Online Services.
-
-No personally identifiable information collected by RealNetworks is stored in these third party cookies.
-
-If you are concerned about third party cookies generated by advertisers you can visit one of the following sites to opt-out: 
-
-http://www.networkadvertising.org/choices/
-
-(if you are in the U.S.) or 
-
-http://www.youronlinechoices.com
-
-(if you are in Europe).
-
-**Use of Local Shared Objects or Flash Cookies:**  
-Flash cookies operate differently than browser cookies and cookie management tools available in a web browser may not remove flash cookies. To learn more about and to manage flash cookies visit: 
-
-http://www.macromedia.com/support/documentation/en/flashplayer/help/settings_manager.html
-
-.
-
-Add-on extensions have also have been created for the Firefox web browser, for example Click&Clean: 
-
-https://addons.mozilla.org/en-us/firefox/addon/clickclean/reviews/
-
-.
-
-**Retention of Cookies:**  
-RealNetworks retains cookies to maximize the functionality of serving pages and content from our web sites, consistent with our 
-
-Privacy Policy. Cookies that are set as part of subscription services will be active only for the duration of the subscription.
-
-Except for essential cookies, all cookies will expire after [two] years.
-
-### CHILDREN'S ONLINE PRIVACY
-
-RealNetworks does not intentionally collect personally identifiable information from children under the age of thirteen (13). When a user discloses personal information on the RN Online Services, the user is representing to us that he or she is at least thirteen (13) years of age. If a child under the age of thirteen (13) has provided us with personally identifiable information through the use of the RN Online Services, we ask that a parent or guardian e-mail us at privacy@realnetworks.com and we will delete the child's information from our records.
-
-### CHANGES TO OUR PRIVACY POLICY
-
-We frequently revise this Privacy Policy to keep it up to date with RealNetworks' products, services and Web pages. Please check this page from time to time as your continued use of the RN Online Services after we publish our changes indicates acceptance to any changed terms.
-
-### TRANSFER OF DATA TO OTHER COUNTRIES
-
-RealNetworks processes information about our users on servers located in a number of countries. We may also subcontract processing or share your information to third parties located in countries other than your home country. Information collected by RealNetworks in the United States may, for example, be transferred to and processed in a country outside of the United States. Information collected within the European Economic Area and Switzerland may, for example, be transferred to, and processed in a country outside of the European Economic Area and Switzerland.
-
-By submitting your personal information to us and our agents through the use of the RN Online Services you consent to this transfer, storing or processing. We will take all steps reasonably necessary to ensure that your data is treated securely and in accordance with this Privacy Policy.
-
-### SAFE HARBOR
-
-RealNetworks complies with the U.S.-EU and U.S.-Swiss Safe Harbor Frameworks and has certified its personal information practices with the U.S. Department of Commerce under the Safe Harbor Program to ensure that your personal information is protected adequately in the event that your data is processed for the purposes of your agreement with us by a RealNetworks company in the United States. Should you want more information on the Safe Harbor principles, please go to: 
-
-http://www.export.gov/safeharbor/
-
-If we require a RealNetworks company to process your data for the purposes of payment for goods and services this RealNetworks company will be RealNetworks, Inc., E Commerce LL; P.O. Box 91123, Seattle, Washington 98111-9223. The following data may be turned over to this company solely for the purpose of processing the payment transaction: your name, bank account, and amount to be charged. You have a right of access and rectification with regard to such data; to exercise these rights, or for other data privacy questions, please contact/send an email to:
-
-privacy@realnetworks.com.
-
-If you are a European resident and your data privacy complaint was not satisfactorily addressed by RealNetworks, you may contact the data protection authorities in the relevant jurisdiction.
-
-A list of data protection authorities is available at: 
-
-http://ec.europa.eu/justice/data-protection/bodies/authorities/index_en.htm
-
-RealNetworks has agreed to participate in the dispute resolution procedures of the panel established by the European Union data protection authorities to resolve disputes pursuant to the Safe Harbor Privacy Principles, as well as to cooperate and comply with the Federal Data Protection and Information Commissioner of Switzerland.
-
-### NO ERROR FREE PERFORMANCE
-
-RealNetworks does not guarantee error-free performance under this Privacy Policy. We will use reasonable efforts to comply with this Privacy Policy and will take prompt corrective action when we learn of any failure to comply. RealNetworks shall not be liable for any incidental, consequential or punitive damages relating to this Privacy Policy. This Privacy Policy shall be governed by the laws of the United States.
-
-### YOUR RIGHTS
-
-You have the right to ask us not to process your personal data for marketing purposes. We ask for your consent (before collecting your data) if we intend to use your data for such purposes or if we intend to disclose your information to any third party for such purposes. You can exercise your right to prevent such processing by checking certain boxes on the forms we use to collect your data. You can also exercise the right at any time by contacting us using the contact details set out below.
-
-You have the right to access information held about you. [Any written request for access to information held about you may be subject to a fee of £10 to meet our costs in providing this information.] If you wish to do this, please contact us using the methods listed below.
-
-### INTERNATIONAL
-
-This English-language Privacy Policy is RealNetworks' official statement of its Online Services privacy practices. In case of any inconsistency between this English-language Privacy Policy and its translation into another language, this English-language document prevails.
-
-### CHANGE OF CONTROL
-
-Your personally identifiable information may be transferred in connection with a sale, merger, transfer, exchange or other disposition (whether of assets, stock or otherwise) of all or a portion of a business of RealNetworks and/or its subsidiaries. Under the EU Safe Harbor, you have the right to opt out of such a transfer.
-
-### CONTACT US ABOUT PRIVACY
-
-If you have questions about the privacy aspects of our products or services, the information concerning you that RealNetworks has retained, or would like to make a complaint, please contact: 
-
-Privacy Policy Group  
-RealNetworks, Inc.  
-P.O. Box 91123  
-Seattle, WA 98111-9233
-
-https://realnetworks.zendesk.com/anonymous_requests/new
-
-**REALNETWORKS, INC., AND AFFILIATED ENTITIES**
-
-_This document was last updated 4 December 2013._
-
-This Privacy Policy covers RealNetworks, Inc., its majority-owned affiliates and worldwide subsidiaries, and RealNetworks divisions operating under different trade names, including Muzicall, GameHouse and Zylom (collectively "RealNetworks" or "RN"). RealNetworks is committed to protecting the privacy of your personal information. This Privacy Policy explains how RealNetworks collects and utilizes both personal and non-personal information when you use our products, mobile applications, services and websites "RN Online Services".
-
-RealNetworks processes information about our users on servers located in a number of countries. We may also subcontract processing or share your information to third parties located in countries other than your home country. Information collected by RealNetworks in the United States may, for example, be transferred to and processed in a country outside of the United States. Information collected within the European Economic Area and Switzerland may, for example, be transferred to, and processed in a country outside of the European Economic Area and Switzerland.
-
-By submitting your personal information to us and our agents through the use of the RN Online Services you consent to this transfer, storing or processing. We will take all steps reasonably necessary to ensure that your data is treated securely and in accordance with this Privacy Policy.
-
-By downloading or using any of the RN Online Services you are agreeing that you have read and agree to be bound by this Privacy Policy. If you disagree with any part of this Privacy Policy then please do not use any of the RN Online Services.
-
-### WHY DO WE COLLECT PERSONAL INFORMATION?
-
-RealNetworks collects personal information to improve the manner by which we operate and offer our RN Online Services, communicate with you, and provide effective customer support. We will not share your personally identifiable information with third parties without your consent, unless necessary for the purposes set forth in this Privacy Policy.
-
-### WHAT PERSONAL INFORMATION DO WE COLLECT?
-
-Personal information specifically identifies an individual and may include: name; email address; financial account information and other payment information submitted to us for order processing; mailing address; phone number; username and password; and device ID (including IP address)
-
-### HOW DO WE USE YOUR PERSONAL INFORMATION?
-
-RealNetworks uses your personal information to: 
-
-  * Deliver to you and bill you for the RN Online Services, and communicate with you concerning your account and customer service issues;
-  * Verify access rights to premium content or other access-restricted services and software;
-  * Ask you to participate in surveys;
-  * Offer you product upgrades, content, services and games;
-  * Auto-update downloaded products;
-  * Provide you with news, updates, targeted advertising, promotions, and special offers, including by combining your personal information with non-personal information, such as the amounts and types of purchases you make;
-  * Allow interoperability with social media and other third party sites. When using this functionality, you should consult the privacy policy of such sites to determine the information practices of those sites; and
-  * Further our business purposes, such as to perform data analysis, audits, fraud monitoring and prevention, to enhance, improve or modify the RN Online Services, to identify usage trends, determine the effectiveness of our promotional campaigns and to operate and expand our business activities.
-
-
-
-We may send "transactional or relationship" communications to you, such as notices to facilitate a transaction you have conducted or messages that provide information about your existing account, using various electronic communication, including email and mobile communications. You must opt-in to receive email and mobile communications (other than "transactional or relationship" communications referenced above), including SMS text messages from RealNetworks. Any opt-in will be subject to this Privacy Policy and we'll only email you, send you mobile alerts or SMS text messages if you opt-in to receive them from us. If, at any time, you decide you would rather not receive these types of communications from RealNetworks, you can opt-out by clicking the unsubscribe link at the bottom of any RealNetworks email or update the Contact Preferences for your RealNetworks account.
-
-### WHAT NON-PERSONAL INFORMATION DO WE COLLECT?
-
-We collect non-personal information that does not permit direct association with any specific individual. We may collect, use, store, transfer, publish, promote, report and otherwise disclose non-personal information for any purpose, provided such information does not otherwise personally identify you. The following are examples of non-personal information that we collect: 
-
-  * Information about your computer, hardware, software, platform, mobile device, Internet Protocol (IP) address;
-  * Language preference;
-  * Gender;
-  * Anonymous information regarding customer activities on our websites, which is aggregated and considered non-personal information for purposes of this Privacy Policy;
-  * Information collected through cookies, pixel tags and other technologies described in more detail later in this Privacy Policy.
-
-  
-
-
-### HOW DO WE USE YOUR NON-PERSONAL INFORMATION?
-
-  * Improve our software and services by providing content recommendations, language and location customization, targeted advertising and/or personalized help and instructions;
-  * Determine if you meet the minimum system requirements to use our products, and provide information concerning compatibility and interoperability;
-  * Track content use for the purpose of paying royalties and license fees to third party providers;
-  * Better understand how our products are used.
-
-
-
-We also may share or disclose your personal information or the content of files you upload using the RN Online Services to comply with the law or respond to legal process or lawful requests, including from law enforcement and government agencies.
-
-**THIRD PARTY ADVERTISING - GENERAL**  
-We allow third-party advertising companies to serve ads when you visit our websites or interact with the RN Online Services. These companies use non-personal information about your visits in order to provide advertisements of interest to you.
-
-We allow third-party companies to serve ads and/or collect certain anonymous information when you use the RN Online Services. These companies may use non-personally identifiable information (e.g. click stream information, browser type, time and date, subject of advertisements clicked or scrolled over) during your visits to this and other web sites in order to provide advertisements about goods and services likely to be of greater interest to you.
-
-These companies typically use a cookie or third party web beacon to collect this information and these technologies enable them to recognize a unique cookie that has been placed on your browser, which in turn enables us and these companies to learn which advertisements bring users to the RN Online Services.
-
-In addition, we and these companies may use such technologies to track the actions of users of the RN Online Services, to measure statistics of our marketing efforts, and to deliver advertisements on the RN Online Services that may be more relevant to individual consumers and that will improve the consumer experience of the RN Online Services.
-
-For more information regarding our advertising and use of cookies on the RN Online Services, http://realnetworks.com/privacy-policy/specific-topics.aspx.
-
-### HOW DO WE KEEP YOUR PERSONAL INFORMATION SECURE?
-
-RealNetworks is committed to protecting your personal information. We use the following controls to protect your personal information: 
-
-  * Use of secure connections using Secure Socket Layer Technology or SSL to safeguard information when transmitted from your Web browser to RealNetworks;
-  * Use of security controls to restrict access to databases housing personally identifying information;
-  * Use of encryption for sensitive personal information, such as credit card numbers and user names;
-  * Limited employee access to databases containing personal information and confidentiality requirements imposed upon employees who do; and
-  * Subcontractors bound by contractual, technical and organizational measures.
-
-
-
-Unfortunately, no system or online transmission of data can be guaranteed to be 100% secure and you should always take appropriate security measures to protect your personal information, including ensuring that you have up to date antivirus software. If you believe that your RealNetworks account or any information you provided to us is no longer secure, please notify us immediately through the Contact Us information provided below.
-
-### PRIVACY ON SOCIAL NETWORKING SITES 
-
-When you use a RealNetworks product or game through a Social Networking Site such as Facebook ("SNS"), you allow RealNetworks to access certain personal and non-personal information that you provided to such SNS such as your user ID, first and last name, profile picture, and usage data for that product or game. By accessing a RealNetworks product or game through an SNS, you are authorizing RealNetworks to collect, store and use all information that you agreed the SNS could provide to RealNetworks through the SNS. RealNetworks' collection, storage and use of your information is governed by this Privacy Policy.
-
-When you link to the RN Online Services through any SNS please remember that you are bound by the privacy policy of the SNS and we do not control and are not responsible for the privacy practices of such sites. You should consult the privacy policy of such sites to determine the information practices of those sites.
-
-### WHEN AND HOW DO WE SHARE YOUR PERSONAL INFORMATION WITH THIRD PARTIES?
-
-RealNetworks does not use your personal information for purposes incompatible with those listed above. In some cases, access to certain products and services may require the provision of personal information to a third party. In such cases, this will be stated during the registration process, in the terms of use, through the distribution process, or in a similar manner. The third party's use of such information is governed by that party's privacy policy. Please visit the privacy policy of the third party to make sure you understand how they use the personal information you provide to them. If you do not wish for such a transfer to take place, you should not register for the applicable product or service. Additionally, RealNetworks may be required to provide specific access and usage information to certain content providers and rights holders as a condition of content licensing and royalties. 
-
-RealNetworks may disclose relevant information about our customers to our contractors in order for them to provide specific services for RealNetworks such as website hosting, professional services, including information technology services and related infrastructure, customer service, e-mail delivery, auditing and other similar services. RealNetworks contractors are bound to keep all personal information they process confidential.
-
-We may disclose your personal information to third parties in order to perform services you request or functions you initiate, such as when you post information and materials on message boards and forums, including on our Facebook Page. When you post information in a public forum it becomes public information. In addition, we may disclose your personal information in order to identify you to anyone to whom you send communications through the RN Online Services.
-
-We may disclose your information to a third party in connection with a corporate reorganization, merger, sale, joint venture, assignment, transfer or other disposition of all or any portion of our business, assets or stock, including in connection with any bankruptcy or similar proceedings.
-
-RealNetworks may disclose your personal information if required to do so by law or in the good faith belief that such action is necessary to: (a) conform to the edicts of the law; (b) comply with the order of a competent judicial authority in any jurisdiction; (c) comply with legal process served on RealNetworks; (d) protect and defend the rights or property of RealNetworks; (e) act in urgent circumstances to protect the personal safety of users of RealNetworks products or the public at large; or (f) to enforce our terms and conditions.
-
-This Privacy Policy does not govern other sites that are linked to one of RN Online Services.
-
-### E-MAIL FROM REALNETWORKS
-
-Separate RealNetworks products, services and lines of business may send separate newsletters and marketing emails to you. You may opt out of receiving RealNetworks marketing messages. If you create an online account with RealNetworks, you can change your account setting to select whether you wish to receive marketing messages. However, we may continue to send you e-mails about RN Online Services you have previously purchased or to inform you about critical technical service issues relating to an RN Online Service.
-
-### HOW TO ACCESS AND UPDATE YOUR PERSONAL INFORMATION
-
-To access your account information and preferences, select "Manage My Account" from the menus in the RealPlayer (usually under the "Help" menu) or other RealNetworks consumer software. Sign in to your account and modify your information and preferences as needed.
-
-If you created an account with RealNetworks, you may review and update your account on the web at www.real.com or by selecting "My Account," and logging in using your name and password. If you have forgotten a username or password, you can use our online help resources http://service.real.com or contact customer service at: 1-866-420-5780 Monday - Friday, 8 am - 5 PM Pacific Time.
-
-### USE OF COOKIES
-
-We use cookies, web beacons, pixel tags, and similar technologies to provide you with a tailored experience.
-
-### CHILDREN'S ONLINE PRIVACY
-
-RealNetworks does not intentionally collect personally identifiable information from children under the age of thirteen (13). When a user discloses personal information on the RN Online Services, the user is representing to us that he or she is at least thirteen (13) years of age. If a child under the age of thirteen (13) has provided us with personally identifiable information through the use of the RN Online Services, we ask that a parent or guardian e-mail us at privacy@realnetworks.com and we will delete the child's information from our records.
-
-### CHANGES TO OUR PRIVACY POLICY
-
-We frequently revise this Privacy Policy to keep it up to date with RealNetworks' products, services and Web pages. Please check this page from time to time as your continued use of the RN Online Services after we publish our changes indicates acceptance to any changed terms.
-
-### TRANSFER OF DATA TO OTHER COUNTRIES
-
-RealNetworks processes information about our users on servers located in a number of countries. We may also subcontract processing or share your information to third parties located in countries other than your home country. Information collected by RealNetworks in the United States may, for example, be transferred to and processed in a country outside of the United States. Information collected within the European Economic Area and Switzerland may, for example, be transferred to, and processed in a country outside of the European Economic Area and Switzerland.
-
-By submitting your personal information to us and our agents through the use of the RN Online Services you consent to this transfer, storing or processing. We will take all steps reasonably necessary to ensure that your data is treated securely and in accordance with this Privacy Policy.
-
-### SAFE HARBOR
-
-RealNetworks complies with the U.S.-EU and U.S.-Swiss Safe Harbor Frameworks and has certified its personal information practices with the U.S. Department of Commerce under the Safe Harbor Program to ensure that your personal information is protected adequately in the event that your data is processed for the purposes of your agreement with us by a RealNetworks company in the United States. Should you want more information on the Safe Harbor principles, please go to: http://www.export.gov/safeharbor/
-
-If we require a RealNetworks company to process your data for the purposes of payment for goods and services this RealNetworks company will be RealNetworks, Inc., E Commerce LL; P.O. Box 91123, Seattle, Washington 98111-9223. The following data may be turned over to this company solely for the purpose of processing the payment transaction: your name, bank account, and amount to be charged. You have a right of access and rectification with regard to such data; to exercise these rights, or for other data privacy questions, please contact/send an email to:privacy@realnetworks.com.
-
-If you are a European resident and your data privacy complaint was not satisfactorily addressed by RealNetworks, you may contact the data protection authorities in the relevant jurisdiction.
-
-A list of data protection authorities is available at: http://ec.europa.eu/justice/data-protection/bodies/authorities/index_en.htm
-
-RealNetworks has agreed to participate in the dispute resolution procedures of the panel established by the European Union data protection authorities to resolve disputes pursuant to the Safe Harbor Privacy Principles, as well as to cooperate and comply with the Federal Data Protection and Information Commissioner of Switzerland.
-
-### NO ERROR FREE PERFORMANCE
-
-RealNetworks does not guarantee error-free performance under this Privacy Policy. We will use reasonable efforts to comply with this Privacy Policy and will take prompt corrective action when we learn of any failure to comply. RealNetworks shall not be liable for any incidental, consequential or punitive damages relating to this Privacy Policy. This Privacy Policy shall be governed by the laws of the United States.
-
-### YOUR RIGHTS
-
-You have the right to ask us not to process your personal data for marketing purposes. We ask for your consent (before collecting your data) if we intend to use your data for such purposes or if we intend to disclose your information to any third party for such purposes. You can exercise your right to prevent such processing by checking certain boxes on the forms we use to collect your data. You can also exercise the right at any time by contacting us using the contact details set out below.
-
-You have the right to access information held about you. Any written request for access to information held about you may be subject to a fee of £10 to meet our costs in providing this information. If you wish to do this, please contact us using the methods listed below.
-
-### INTERNATIONAL
-
-This English-language Privacy Policy is RealNetworks' official statement of its Online Services privacy practices. In case of any inconsistency between this English-language Privacy Policy and its translation into another language, this English-language document prevails.
-
-### CONTACT US ABOUT PRIVACY
-
-If you have questions about the privacy aspects of our products or services, the information concerning you that RealNetworks has retained, or would like to make a complaint, please contact: 
-
-Privacy Policy Group  
-RealNetworks, Inc.  
-P.O. Box 91123  
-Seattle, WA 98111-9233  
-https://realnetworks.zendesk.com/anonymous_requests/new
+If you have any question, comment or suggestion regarding this Privacy Policy, contact us via the “Feedback” app on your mobile phone, Vivo official forum or our after-sales services. You can also reach us via e-mail at privacy@vivoglobal.com.
