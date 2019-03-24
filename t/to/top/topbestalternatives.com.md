@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the topbestalternatives.com privacy policy that was archived on 2018-11-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181107213501id_/https%3A//www.topbestalternatives.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the topbestalternatives.com privacy policy that was archived on 2019-03-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190324090153id_/https%3A//www.topbestalternatives.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy – Top Best Alternatives
+# Privacy Policy – Top Best Alternatives
 
 ### Privacy Policy for Top & Best Alternative
 
