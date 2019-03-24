@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the 2site.me privacy policy that was archived on 2018-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181207083556id_/http%3A//2site.me/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 2site.me privacy policy that was archived on 2019-03-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190324181135id_/http%3A//daisydiary.me/privacy) for the most accurate reproduction.*
 
-# privacy – 2site.me
+# privacy – daisydiary.me
 
 #### Effective May 26, 2018
 
