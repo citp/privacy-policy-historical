@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the geniussis.com privacy policy that was archived on 2018-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181120185146id_/http%3A//www.geniussis.com/privacyshieldpolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the geniussis.com privacy policy that was archived on 2019-03-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190324072946id_/http%3A//geniussis.com/privacyshieldpolicy.html) for the most accurate reproduction.*
 
 # Genius SIS | Overview
 
