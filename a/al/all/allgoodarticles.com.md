@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the allgoodarticles.com privacy policy that was archived on 2018-08-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180823173342id_/http%3A//allgoodarticles.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the allgoodarticles.com privacy policy that was archived on 2019-03-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190324160730id_/http%3A//allgoodarticles.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - All Good Articles
 
