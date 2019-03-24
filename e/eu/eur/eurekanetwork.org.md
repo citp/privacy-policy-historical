@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the eurekanetwork.org privacy policy that was archived on 2018-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181122120818id_/http%3A//www.eurekanetwork.org/data-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the eurekanetwork.org privacy policy that was archived on 2019-03-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190324164218id_/http%3A//www.eurekanetwork.org/data-privacy-policy) for the most accurate reproduction.*
 
 # DATA PRIVACY POLICY | EUREKA
 
@@ -147,7 +147,7 @@ EUREKA may decline to process requests that are unreasonably repetitive or syste
 
 6.8.         Right to file a complaint:
 
-                You have the right to file a complaint to the Belgian Commission for the protection of privacy: Commission de la protection de la vie privée, Rue de la Presse 35, B-1000 Bruxelles, Tél. +32 (0)2 274 48 00, Fax +32 (0)2 274 48 35, email :  [commission@privacycommission.be](mailto:commission@privacycommission.be).
+                You have the right to file a complaint to the Data Protection Authority, Rue de la Presse 35, B-1000 Bruxelles, Tél. +32 (0)2 274 48 00, Fax +32 (0)2 274 48 35, email :  [contact@apd-gba.be](mailto:contact@apd-gba.be)
 
 This complaint does not prejudice proceedings in a civil court.
 
