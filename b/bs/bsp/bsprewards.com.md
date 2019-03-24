@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bsprewards.com privacy policy that was archived on 2018-10-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181020090452id_/http%3A//www.bsprewards.com/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bsprewards.com privacy policy that was archived on 2019-03-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190324235358id_/https%3A//www.bsprewards.com/Privacy.aspx) for the most accurate reproduction.*
 
 # BSP REWARDS
 
