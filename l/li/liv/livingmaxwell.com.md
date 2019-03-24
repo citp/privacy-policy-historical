@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the livingmaxwell.com privacy policy that was archived on 2018-10-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181022053109id_/https%3A//livingmaxwell.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the livingmaxwell.com privacy policy that was archived on 2019-03-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190324211546id_/http%3A//livingmaxwell.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | livingmaxwell: a guide to organic food & drink
 
