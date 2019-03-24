@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the unilad.co.uk privacy policy that was archived on 2018-08-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180825232222id_/https%3A//www.unilad.co.uk/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the unilad.co.uk privacy policy that was archived on 2019-03-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190324034700id_/https%3A//www.unilad.co.uk/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy ⋆ UNILAD
+# Privacy Policy
 
 This privacy policy sets out how UNILAD uses and protects any information that you give UNILAD when you use this website.
 
