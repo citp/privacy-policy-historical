@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the visitnsw.com privacy policy that was archived on 2018-09-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180929035611id_/https%3A//www.visitnsw.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the visitnsw.com privacy policy that was archived on 2019-03-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190324052050id_/https%3A//www.visitnsw.com/privacy) for the most accurate reproduction.*
 
 # Privacy | NSW Holidays & Accommodation, Things to Do, Attractions and Events
 
