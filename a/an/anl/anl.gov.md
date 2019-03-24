@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the anl.gov privacy policy that was archived on 2018-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180624172900id_/http%3A//www.anl.gov/privacy-security-notice) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the anl.gov privacy policy that was archived on 2019-03-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190324113123id_/https%3A//www.anl.gov/privacy-security-notice) for the most accurate reproduction.*
 
 # Privacy & Security Notice | Argonne National Laboratory
 
@@ -23,9 +23,9 @@ We collect no personal information about you when you visit a DOE web site, unle
 
 
 
-In addition, we use [Google Analytics](http://www.google.com/analytics/) to collect and analyze this information. Google Analytics uses a persistent cookie to track your usage of our site. This is classified as a Tier 2 usage under [OMB Memorandum M-10-22](http://www.whitehouse.gov/sites/default/files/omb/assets/memoranda_2010/m10-22.pdf). If you wish, you may opt out of Google Analytics by [disabling cookies in your browser](http://www.usa.gov/optout_instructions.shtml). If you choose to opt out of Google Analytics tracking, you will still have access to all of the information on this site.
+In addition, we use [Google Analytics](http://www.google.com/analytics/) to collect and analyze this information. Google Analytics uses a persistent cookie to track your usage of our site. This is classified as a Tier 2 usage under [OMB Memorandum M-10-22](https://obamawhitehouse.archives.gov/sites/default/files/omb/assets/memoranda_2010/m10-22.pdf). If you wish, you may opt out of Google Analytics by [disabling cookies in your browser](http://www.usa.gov/optout_instructions.shtml). If you choose to opt out of Google Analytics tracking, you will still have access to all of the information on this site.
 
-We use the summary statistics to help us make our site more useful to visitors, such as assessing what information is of most and least interest to visitors, and for other purposes, such as determining the site's technical design specifications and identifying system performance or problem areas.
+We use the summary statistics to help us make our site more useful to visitors, such as assessing what information is of most and least interest to visitors, and for other purposes, such as determining the site’s technical design specifications and identifying system performance or problem areas.
 
 This information is not shared with anyone beyond the support staff to this web site, except when required by law enforcement investigation, and is used only as a source of anonymous statistical information.
 
