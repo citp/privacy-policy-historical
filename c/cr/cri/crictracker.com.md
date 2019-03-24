@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the crictracker.com privacy policy that was archived on 2018-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181231112106id_/https%3A//www.crictracker.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the crictracker.com privacy policy that was archived on 2019-03-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190324011155id_/https%3A//www.crictracker.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - CricTracker
 
