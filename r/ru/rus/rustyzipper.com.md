@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rustyzipper.com privacy policy that was archived on 2018-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181122195547id_/http%3A//www.rustyzipper.com/shop.cfm%3Fpage%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rustyzipper.com privacy policy that was archived on 2019-03-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190324085018id_/http%3A//www.rustyzipper.com/shop.cfm%3Fpage%3Dprivacy) for the most accurate reproduction.*
 
 # 
 
@@ -85,10 +85,12 @@ This policy was last modified on July 10th, 2009
 
 If there are any questions regarding this privacy policy you may contact us using the information below. 
 
-http://www.rustyzipper.com  
-PO BOX 3050  
-Wilsonville, OR 97070  
+Rusty Zipper  
+5714 Crooked Finger Rd NE  
+Scotts Mills, OR 97375  
 United States  
-jen@rustyzipper.com  
+rob@rustyzipper.com
+
+866-387-5944  
 503-980-1929  
 
