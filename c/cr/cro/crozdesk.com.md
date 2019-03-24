@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the crozdesk.com privacy policy that was archived on 2018-09-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180917081813id_/https%3A//crozdesk.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the crozdesk.com privacy policy that was archived on 2019-03-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190324091508id_/https%3A//crozdesk.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Crozdesk
 
