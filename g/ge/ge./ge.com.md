@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the ge.com privacy policy that was archived on 2018-11-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181116134040id_/http%3A//www.ge.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ge.com privacy policy that was archived on 2019-03-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190324060624id_/http%3A//www.ge.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | GE.com
 
-Last Updated December 21, 2017
+Last Updated December 17, 2018
 
 The General Electric Company and its wholly and majority-owned entities (collectively, the “GE Group”), respect your concerns about privacy. References in this Privacy Policy to “GE”, “we”, “us”, and “our” are references to the entity responsible for the processing of your personal information, which generally is the entity that obtains your personal information.
 
@@ -10,7 +10,7 @@ This Privacy Policy applies to the personal information we obtain through the GE
 
 This Privacy Policy describes the types of personal information we obtain through the Channels, how we may use that personal information, with whom we may share it, and how you may exercise your rights regarding our processing of the information. The Privacy Policy also describes the measures we take to safeguard the personal information we obtain and how you can contact us about our privacy practices. 
 
-The Online Channels may provide links to other third-party websites and features **,** or contain third-party cookies, that are not owned or controlled by the GE Group. We are not responsible for the privacy practices of third parties, which are subject to their respective privacy policies.  
+The Online Channels may provide links to other third-party websites and features, or contain third-party cookies, that are not owned or controlled by the GE Group. Please review the privacy policies of these third parties to familiarize yourself with their practices. You may also exercise your choices regarding third-party cookies using our Cookie Consent Tool by clicking on “Cookies” at the bottom of the page for the GE Business you are interested in managing cookie preferences for.  
  
 
 Click on one of the links below to jump to the listed section:
@@ -53,9 +53,27 @@ We use third-party web analytics services in connection with the Online Channels
 
 Please note that providing personal information to us is voluntary on your part. If you choose not to provide us certain information, we may not be able to offer you certain products and services, and you may not be able to access certain features of the Online Channels.
 
-### Cookies and Similar Technologies
+#### Cookies and Similar Technologies
 
-The GE Group uses cookies, web beacons and similar technologies on our Online Channels. You may learn more about these technologies in our Cookie Consent Tool. To view the list of GE Group and third-party cookies used on the Online Channels and to make choices about those cookies, please visit our Cookie Consent Tool  _here_.
+Like most companies, GE uses cookies and similar technologies (“cookies”) on our websites to personalize and enhance your experience on our sites.
+
+**How We Use Cookies**
+
+Cookies contain small amounts of information which are downloaded to your device when you visit our website.  Cookies are sent back to our website to allow us to recognize your device.
+
+_Essential Cookies_ allow us to recognize your device to help you navigate efficiently to obtain the information and services you have requested.
+
+_Analytical and Customization Cookies_ allow our site to remember your preferences such as language selection, and help you to view information that is most relevant to your interests; these cookies also help us to maintain and improve our websites by providing information on how visitors find and use the sites, and how well the sites are performing.
+
+_Advertising Cookies_ may be used in some cases to make advertising messages more relevant to you.
+
+Unless you disable the cookies on our website, by using our website you agree to our use of those cookies.
+
+**Making Cookie Choices**  
+You may see the list of GE and selected partner cookies on our website and make choices about those cookies by visiting our Cookie Consent Tool, by clicking on “Cookies” at the bottom of the page for the GE Business you are interested in managing cookie preferences for. In addition to our Cookie Consent Tool, most browsers allow you to manage cookie preferences, If you decide to disable cookies on our site, you may not be able to take full advantage of all our website features once you have done so. Except for cookies that are essential to the operation of this website (Essential Cookies), you may make choices about the cookies on this website. Please note that if you choose to manage cookies on our websites, the Tool will place a cookie on your device to allow your choices to be honored.
+
+**Sharing Tools**  
+To enhance your experience on our websites, we sometimes embed content and sharing tools from other third-party sites, such as “like” buttons from social networking sites; these third-party sites may also place and access cookies on your device. GE does not control the placement or access of these third-party cookies. The third parties can be found in our Cookie Consent Tool. Please review the privacy policies of these third parties to familiarize yourself with their practices. You may exercise choices regarding third party cookies using our Cookie Consent Tool, by clicking on “Cookies” at the bottom of the page for the GE Business you are interested in managing cookie preferences for.
 
 ### How We Use Personal Information
 
@@ -109,37 +127,39 @@ We do not sell or otherwise disclose personal information about you except as de
 
 We may transfer the personal information we collect through the Channels to, and store such data in, other countries, including the U.S., which may have different data protection laws than the country in which the information was provided. If we do so, we will transfer the personal information only for the purposes described in this Privacy Policy. To the extent required by applicable law, when we transfer your personal information to recipients in other countries, we will take measures to protect that information. The GE Group has entered into Binding Corporate Rules governing our handling of personal information of residents of the European Union. For further information about the GE Group’s Binding Corporate Rules, please click [here](http://www.ge.com/bcr).
 
+The General Electric Company’s privacy practices, described in this Privacy Policy, comply with the APEC Cross Border Privacy Rules (CBPR) system. The APEC CBPR system provides a framework for organizations to ensure protection of personal information transferred among participating APEC economies. More information about the APEC framework can be found [here](https://web.archive.org/sites/default/files/CBPR-PoliciesRulesGuidelines.pdf).
+
 ### Your Choices
 
 We offer you certain choices in connection with the personal information we obtain about you. To update your preferences, limit the communications you receive from us or submit a request, please contact us as specified in the How To Contact Us section of this Privacy Policy.
 
-You also may exercise choice over how information about your interests is used by ad networks to deliver you relevant advertising. To learn how to opt out of ad network interest-based advertising in the United States, please visit [Digital Advertising Alliance](http://optout.aboutads.info/#!/), the [Network Advertising Initiative](http://optout.networkadvertising.org/#!/), and [TrustArc](http://preferences-mgr.truste.com/) **.   **In the European Union, please visit [European Interactive Digital Advertising Alliance](http://www.youronlinechoices.eu/) **or**[TrustArc](http://preferences-mgr.truste.com/). In Canada, to consent to receiving electronic communications, please visit <https://www.ge.com/ca/casl> and, to learn how to opt out of receiving electronic communications, please visit <http://sc.ge.com/*casl-unsubscribe>. The Online Channels are not designed to respond to “do not track” signals received from web browsers.
+You also may exercise choice over how information about your interests is used by ad networks to deliver you relevant advertising. To learn how to opt out of ad network interest-based advertising in the United States, please visit [Digital Advertising Alliance](http://optout.aboutads.info/#!/), the [Network Advertising Initiative](http://optout.networkadvertising.org/#!/), and [TrustArc](http://preferences-mgr.truste.com/) **.   **In the European Union, please visit [European Interactive Digital Advertising Alliance](http://www.youronlinechoices.eu/). In Canada, to consent to receiving electronic communications, please visit <https://www.ge.com/ca/casl> and, to learn how to opt out of receiving electronic communications, please visit <http://sc.ge.com/*casl-unsubscribe>. The Online Channels are not designed to respond to “do not track” signals received from web browsers.
 
-To the extent provided by the law of your jurisdiction, you may have the right to (1) access certain personal information we maintain about you; (2) request that we update, correct, amend, erase or restrict your personal information; or (3) exercise your right to data portability. Where provided by law, you may withdraw consent you previously provided to us or object at any time to the processing of your personal information on legitimate grounds relating to your particular situation, and we will apply your preferences going forward as appropriate. To request to exercise these rights, please contact us as indicated in the How To Contact Us section of this Privacy Policy. For more information, please see the “Individual Rights” section of our Binding Corporate Rules [here](https://www.ge.com/bcr). To help protect your privacy and maintain security, we may take steps to verify your identity before granting you access to the information. To the extent permitted by applicable law, a charge may apply before we provide you with a copy of any of your personal information that we maintain. Depending on your location, you may have the right to file a complaint with a government regulator if you are not satisfied with our response.
+To the extent provided by the law of your jurisdiction, you may have the right to (1) access certain personal information we maintain about you; (2) request that we update, correct, amend, erase or restrict your personal information; or (3) exercise your right to data portability. Where provided by law, you may withdraw consent you previously provided to us or object at any time to the processing of your personal information on legitimate grounds relating to your particular situation, and we will apply your preferences going forward as appropriate. To request to exercise these rights, please contact us as indicated in the How To Contact Us section of this Privacy Policy. For more information, please see the “Individual Rights” section of our Binding Corporate Rules [here](http://www.ge.com/bcr). To help protect your privacy and maintain security, we may take steps to verify your identity before granting you access to the information. To the extent permitted by applicable law, a charge may apply before we provide you with a copy of any of your personal information that we maintain. Depending on your location, you may have the right to file a complaint with a government regulator if you are not satisfied with our response. GE endeavors to respond to complaints within thirty days of receipt.
 
-### How We Protect Personal Information Transmission
+### **How We Protect Personal Information Transmission**
 
 We maintain administrative, technical and physical safeguards, consistent with legal requirements where the personal information was obtained, designed to protect against unlawful or unauthorized destruction, loss, alteration, use or disclosure of, or access to, the personal information provided to us through the Channels.
 
-### Retention of Personal Information
+### **Retention of Personal Information**
 
 To the extent permitted by applicable law, we retain personal information we obtain about you as long as (1) it is needed for the purposes for which we obtained it, in accordance with the provisions of this Privacy Policy or (2) we have another lawful basis, stated in this Privacy Policy or at the point of collection, for retaining that information beyond the period for which it is necessary to serve the original purpose for obtaining the personal information.
 
-### Additional Information
+### **Additional Information**
 
-#### Notice to California Residents
+#### **Notice to California Residents**
 
 Subject to certain limits under California law, California residents may ask us to provide them with (1) a list of certain categories of personal information we have disclosed to third parties for their direct marketing purposes during the immediately preceding calendar year and (2) the identity of those third parties. To obtain this information, please send an email to [CARequest@ge.com](mailto:CARequest@ge.com) with "California Shine the Light Privacy Request" in the subject line and in the body of your message.
 
-#### Children’s Personal Information
+#### **Children’s Personal Information**
 
 The Online Channels are designed for a general audience and are not directed to children under the age of 13. We do not knowingly collect or solicit personal information from children under the age of 13 through the Online Channels. If we become aware that we have collected personal information from a child under the age of 13, we will promptly delete the information from our records. If you believe that a child under the age of 13 may have provided us with personal information, please contact us as specified in the How To Contact Us section of this Privacy Policy.
 
-#### Changes to Our Privacy Policy
+#### **Changes to Our Privacy Policy**
 
 This Privacy Policy may be updated periodically and without prior notice to you to reflect changes in our information practices. We will indicate at the top of this Privacy Policy when it was most recently updated.
 
-### How to Contact Us
+### **How to Contact Us**
 
 If you have any questions or comments about this Privacy Policy or if you would like us to update information we have about you or your preferences, please contact us by visiting our [Feedback & Inquiries Form](https://www.ge.com/contact/general) or write to us at:
 
@@ -149,5 +169,7 @@ General Electric Company
 33-41 Farnsworth Street  
 Boston, MA 02210  
 United States
+
+If you have an unresolved privacy or data use concern that we have not addressed satisfactorily, please contact our U.S.-based third-party dispute resolution provider (free of charge) at <https://feedback-form.truste.com/watchdog/request>.
 
 For a list of privacy contacts at GE Healthcare, click [here](https://www.gehealthcare.co.uk/~/media/5C75986D05A94F67864288C8BFA7FBD4).
