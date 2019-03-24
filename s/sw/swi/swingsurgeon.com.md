@@ -1,87 +1,110 @@
-> *The following text is extracted and transformed from the swingsurgeon.com privacy policy that was archived on 2016-04-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160430071637id_/https%3A//www.swingsurgeon.com/legal/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the swingsurgeon.com privacy policy that was archived on 2019-03-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190324013745id_/https%3A//www.swingsurgeon.com/legal/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Swing Surgeon - Don Trahan Peak Performance Golf Swing
 
-**Last Updated: 20 November 2014**
+SwingSurgeon.com collects personal information for you to help you play golf better and for the betterment of golf as a whole. We sell videos, send information via email, write blogs, and conduct marketing all in the name of better golf. In order for all of these functions to happen some personal information is required to provide you the best services possible.
 
-Your information is safe with SwingSurgeon.com.  We value your infomation and your privacy greatly.  We will _**never**_ sale, rent, trade, loan, or in any way give your information out (unless legally compelled).  Now for the details if you care to read them...
+This policy governs [www.swingsurgeon.com](http://www.swingsurgeon.com/), [www.peakperformancegolfswing.com](http://www.peakperformancegolfswing.com/), and [www.dontrahanacademyofgolf.com](http://www.dontrahanacademyofgolf.com/).
 
- **What information do we collect?**
+We value your information and your privacy greatly. We will  _**never**_  sell , rent, trade, loan, or in any way give your information out (unless legally compelled). 
 
-We collect information from you when you register on our site, place an order, subscribe to our newsletter, respond to a survey or fill out a form.
+The first items we will cover is what we collect and how we protect it.
 
-When ordering or registering on our site, as appropriate, you may be asked to enter your: name, e-mail address, mailing address, phone number or credit card information (we **do not store your credit card** infomration). You may, however, visit our site anonymously.
+**What information do we collect and why?**
 
- **What do we use your information for?**
+The use of our site requires no personal information be gathered, you may use our site in complete anonymity if you desire.
 
-Any of the information we collect from you may be used in one of the following ways:
+For purchases, we collect the information required to fulfill the obligations of the payment processing companies used. Some of this information is also needed to establish an account (see below) to provide access to purchased products, order history, and order information. The personal information items collected for purchases are the following:
 
-  * To personalize your experience (your information helps us to better respond to your individual needs)
-  * To improve our website (we continually strive to improve our website offerings based on the information and feedback we receive from you)
-  * To improve customer service (your information helps us to more effectively respond to your customer service requests and support needs)
-  * To process transactions
-    * Your information, whether public or private, will not be sold, exchanged, transferred, or given to any other company for any reason whatsoever, without your consent, other than for the express purpose of delivering the purchased product or service requested.
-  * To administer a contest, promotion, survey or other site feature
-  * To send periodic emails
-    * The email address you provide for order processing, may be used to send you information and updates pertaining to your order, in addition to receiving occasional company news, updates, related product or service information, etc.
+  * Name (required)
+  * Address (required)
+  * Telephone Number (optional)
+  * Email address (required) 
+  * Payment Account or Processing Information (required)
 
 
 
-Note: If at any time you would like to unsubscribe from receiving future emails, we include detailed unsubscribe instructions at the bottom of each email.
+If you register to create an account on our site you consent to provide us the information we need to establish an account. The information you provide is:
 
- **How do we protect your information?**
+  * Name (optional)
+  * Email address (required)
+  * Mailing Address (optional)
+
+
+
+If you register to join our email list you consent to provide us personal information that allows us to send you email. The information you provide is:
+
+  * Name (optional)
+  * Email address (required)
+
+
+
+Completing support request forms or asking for information on our site. You consent to provide personal information that allows us to fulfill your request or answer your inquiry. The information you provide is:
+
+  * Name (options)
+  * Email address (required)
+  * Telephone number (optional)
+
+
+
+**How do we protect your information?**
+
+Controls we have in place to protect your information:
+
+  * All connections to our site are forced to use Secure Socket Layer (SSL) or HTTPS://
+  * Our SSL certificate is an extended validation so you know who we are (our company name appears in your browser address bar)
+  * System access to servers and databases that stored information are restricted to encrypted VPN connections there is no public access
+  * Data is encrypted at rest when possible
+  * Administrator accounts are strictly limited to people with a need to know
+  * Normal users are not allowed to view private information of other users
+  * Activity logs are monitored automatically with instant notifications for certain events
+  * All development is performed internal to Swing Surgeon so no third party developers have access to your data
+
+
 
 Protection and security at SwingSurgeon.com is the number one priority and we go to great lengths to protect your data.  We view any leak of information as an extreme security risk!  We implement a variety of security measures to maintain the safety of your personal information when you place an order or enter, submit, or access your personal information.
 
 We offer the use of a secure server. All supplied sensitive/credit information is transmitted via Secure Socket Layer (SSL) technology and then encrypted into our Payment gateway providers database only to be accessible by those authorized with special access rights to such systems, and are required to?keep the information confidential.
 
-After a transaction, your private information (credit cards, social security numbers, financials, etc.) will not be stored on our servers.
+After a transaction, your credit card account information is not stored on our servers or databases. Credit card account information is passed to our card processor live and never stored in persistent memory.
 
- **Do we use cookies?**
+ ** Do we use cookies?**
 
-Yes (Cookies are small files that a site or its service provider transfers to your computers hard drive through your Web browser (if you allow) that enables the sites or service providers systems to recognize your browser and capture and remember certain information
+Yes, we use cookies to do the following:
 
-We use cookies to help us remember and process the items in your shopping cart and understand and save your preferences for future visits.
+  * We use cookies to help us remember the items you place in your shopping cart
+  * We use cookies to help process purchases
+  * We use cookies to keep you from having to log in to the site for every visit
+  * We use cookies to track if you came from another website or service we control (examples: Swing Surgeon Facebook Page, Swing Surgeon Youtube Channel, Don Trahan Academy of Golf website, etc.)
+  * We use cookies to track if you came from an affiliate as we owe them something for your visit
 
-If you prefer, you can choose to have your computer warn you each time a cookie is being sent, or you can choose to turn off all cookies via your browser settings. Like most websites, if you turn your cookies off, some of our services may not function properly. However, you can still place orders by contacting customer service.
 
- **Do we disclose any information to outside parties?**
 
-We do not sell, trade, or otherwise transfer to outside parties your personally identifiable information. This does not include trusted third parties who assist us in operating our website, conducting our business, or servicing you, so long as those parties agree to keep this information confidential. We may also release your information when we believe release is appropriate to comply with the law, enforce our site policies, or protect ours or others rights, property, or safety. However, non-personally identifiable visitor information may be provided to other parties for marketing, advertising, or other uses.
+You may choose to not allow our site to store cookies in your web browser. These settings are controlled by your web browser. Please consult the vendor documentation for the web browser you use as to how to configure the browser to block our cookies. Lastly, the other option is to not use our site.
 
- **California Online Privacy Protection Act Compliance**
+**Do we disclose any information to outside parties?**
 
-Because we value your privacy we have taken the necessary precautions to be in compliance with the California Online Privacy Protection Act. We therefore will not distribute your personal information to outside parties without your consent.
+Yes, we do disclose limited information to outside parties. We use tracking services from Google and Facebook. These services take your computer or device internet address information for processing.
 
-As part of the California Online Privacy Protection Act, all users of our site may make any changes to their information at anytime by logging into the site and clicking "My Account" in the main navigation menu near the top of the website.
+We do not sell, trade, or otherwise transfer to outside parties information beyond your internet address. This does not include trusted third parties who assist us in operating our website, conducting our business, or servicing you, so long as those parties agree to keep this information confidential. We may also release your information when we believe release is appropriate to comply with the law, enforce our site policies, or protect ours or others rights, property, or safety.
 
- **Childrens Online Privacy Protection Act Compliance**
+Further Privacy Policy Information Click the Links Below:
 
-We are in compliance with the requirements of COPPA (Childrens Online Privacy Protection Act), we do not collect any information from anyone under 13 years of age. Our website, products and services are all directed to people who are at least 13 years old or older.
+  * [California Online Privacy Protection Compliance ](https://www.swingsurgeon.com/legal/california-online-privacy-act-compliance)
+  * [Children's Online Privacy Protection Act Compliance](https://www.swingsurgeon.com/legal/coppa-compliance)
+  * [Additional Details About Our Privacy Policy](https://www.swingsurgeon.com/legal/privacy-policy-details)
 
- **Online Privacy Policy Only**
 
-This online privacy policy applies only to information collected through our website and not to information collected offline.
 
- **Terms and Conditions**
-
-Please also visit our Terms and Conditions section establishing the use, disclaimers, and limitations of liability governing the use of our website at [here](https://web.archive.org/legal/terms-of-use)
-
- **Your Consent**
-
-By using our site, you consent to our [online privacy policy](http://www.freeprivacypolicy.com/).
-
- **Changes to our Privacy Policy**
-
-If we decide to change our privacy policy, we will post those changes on this page, and/or send an email notifying you of any changes.
-
- **Contacting Us**
+**Contacting Us**
 
 If there are any questions regarding this privacy policy you may contact us using the information below.
 
-<https://www.swingsurgeon.com/support>
+For online contact us this contact form:  <https://www.swingsurgeon.com/support>
 
-The Swing Surgeon Golf Management LLC   
+By Mail:
+
+The Swing Sur geon Golf Management LLC   
 P.O. Box 1025   
 Inman, SC 29349   
-Telephone: 888.847.9464
+Telephone: +1-864-610-1660
