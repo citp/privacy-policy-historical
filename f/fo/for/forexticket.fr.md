@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the forexticket.fr privacy policy that was archived on 2018-09-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180903184056id_/https%3A//www.mataf.net/en/info/legal%23privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the forexticket.fr privacy policy that was archived on 2019-03-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190324203656id_/https%3A//www.mataf.net/en/info/privacy) for the most accurate reproduction.*
 
-# Privacy - Mataf
+# Personal Data, Privacy Policy, Cookie Policy - Mataf
 
-> Please note that the original version of the privacy policies is the [French version](https://web.archive.org/fr/info/legal). We make our best to provide a complete and accurate translation, but the French version will be our reference. 
+> Please note that the original version of the privacy policies is the [French version](https://www.mataf.net/fr/info/privacy). We make our best to provide a complete and accurate translation, but the French version will be our reference. 
 
 ## Short version
 
@@ -81,6 +81,14 @@ More information
 
 Our servers are hosted by OVH. [OVH is GDPR compliant](https://www.ovh.ie/personal-data-protection/)
 
+140 quai Sartel 59000 ROUBAIX, France
+
+Phone : 0899 701 761
+
 ## Cloudflare
 
 We use Cloudflare as a CDN (Content Delivery Network). [Cloudlfare is GDPR compliant](https://www.cloudflare.com/gdpr/introduction/)
+
+## Ezoic
+
+We use Ezoic as a platform for some of our advertising invenntory. [Ezoic is GDPR compliant](https://www.ezoic.com/terms/).
