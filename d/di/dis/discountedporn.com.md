@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the discountedporn.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606175254id_/https%3A//www.discountedporn.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the discountedporn.com privacy policy that was archived on 2019-03-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190324071058id_/https%3A//www.discountedporn.com/privacy) for the most accurate reproduction.*
 
 # Privacy policy - Discounted Porn
 
@@ -67,6 +67,6 @@ By using this Site, you signify your acceptance of this policy and terms of serv
 If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this site, please contact us at:  
 Discounted Porn  
 discountedporn.com  
-[_webmaster@discountedporn.com_](mailto:webmaster@discountedporn.com)
+[_[email  protected]_](https://web.archive.org/cdn-cgi/l/email-protection#e99e8c8b84889a9d8c9ba98d809a8a869c879d8c8d99869b87c78a8684)
 
 This document was last updated on February 27, 2013
