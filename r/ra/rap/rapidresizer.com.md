@@ -1,76 +1,152 @@
-> *The following text is extracted and transformed from the rapidresizer.com privacy policy that was archived on 2016-07-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160721212559id_/http%3A//rapidresizer.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rapidresizer.com privacy policy that was archived on 2019-03-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190324085731id_/https%3A//www.rapidresizer.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
-[](https://web.archive.org/)
+## Privacy Policy
 
-[Resize Patterns](https://web.archive.org/index.php) | [Design Patterns](https://web.archive.org/designer.php) | [Try Free](https://web.archive.org/#download) | [Buy Now](https://web.archive.org/buy.php) | [Help](https://web.archive.org/contact.php)  
----|---|---|---|---  
-  
-This Privacy Policy governs the manner in which Patrick Roberts Software collects, uses, maintains and discloses information collected from users (each, a "User") of the [http://rapidresizer.com](http://rapidresizer.com/) website ("Site"). This privacy policy applies to the Site and all products and services offered by Patrick Roberts Software.
+Your privacy is important to us. It is Patrick Roberts' policy to respect your privacy regarding any information we may collect from you across our website, [https://RapidResizer.com](https://rapidresizer.com/), and other sites we own and operate.
 
-**Personal identification information**
+### Information we collect
 
-We may collect personal identification information from Users in a variety of ways, including, but not limited to, when Users visit our site, register on the site, place an order, subscribe to the newsletter, respond to a survey, fill out a form, and in connection with other activities, services, features or resources we make available on our Site. Users may be asked for, as appropriate, name, email address, mailing address, phone number, credit card information, social security number. Users may, however, visit our Site anonymously. We will collect personal identification information from Users only if they voluntarily submit such information to us. Users can always refuse to supply personally identification information, except that it may prevent them from engaging in certain Site related activities.
+Log data
 
-**Non-personal identification information**
+When you visit our website, our servers may automatically log the standard data provided by your web browser. This data is considered “non-identifying information”, as it does not personally identify you on its own. It may include your computer’s Internet Protocol (IP) address, your browser type and version, the pages you visit, the time and date of your visit, the time spent on each page, and other details.
 
-We may collect non-personal identification information about Users whenever they interact with our Site. Non-personal identification information may include the browser name, the type of computer and technical information about Users means of connection to our Site, such as the operating system and the Internet service providers utilized and other similar information.
+We may also collect data about the device you are using to access our website. This data may include the device type, operating system, unique device identifiers, device settings, and geo-location data. What we collect can depend on the individual settings of your device and software. We recommend checking the policies of your device manufacturer or software provider to learn what information they make available to us.
 
-**Web browser cookies**
+Personal information
 
-Our Site may use "cookies" to enhance User experience. User's web browser places cookies on their hard drive for record-keeping purposes and sometimes to track information about them. User may choose to set their web browser to refuse cookies, or to alert you when cookies are being sent. If they do so, note that some parts of the Site may not function properly.
+We may ask for personal information, such as your:
 
-**How we use collected information**
+  * Name
+  * Email
+  * Phone/mobile number
+  * Home/Mailing address
+  * Payment information
 
-Patrick Roberts Software may collect and use Users personal information for the following purposes:
 
-  * _\- To improve customer service_  
-Information you provide helps us respond to your customer service requests and support needs more efficiently.
-  * _\- To personalize user experience_  
-We may use information in the aggregate to understand how our Users as a group use the services and resources provided on our Site.
-  * _\- To improve our Site_  
-We may use feedback you provide to improve our products and services.
-  * _\- To process payments_  
-We may use the information Users provide about themselves when placing an order only to provide service to that order. We do not share this information with outside parties except to the extent necessary to provide the service.
-  * _\- To run a promotion, contest, survey or other Site feature_  
-To send Users information they agreed to receive about topics we think will be of interest to them.
-  * _\- To send periodic emails_  
-We may use the email address to send User information and updates pertaining to their order. It may also be used to respond to their inquiries, questions, and/or other requests. If User decides to opt-in to our mailing list, they will receive emails that may include company news, updates, related product or service information, etc. If at any time the User would like to unsubscribe from receiving future emails, we include detailed unsubscribe instructions at the bottom of each email or User may contact us via our Site.
 
-**How we protect your information**
+This data is considered “identifying information”, as it can personally identify you.
 
-We adopt appropriate data collection, storage and processing practices and security measures to protect against unauthorized access, alteration, disclosure or destruction of your personal information, username, password, transaction information and data stored on our Site.
+We only request this information when you interact with our services—like signing up for an account, making use of our platform features, paying for access, or subscribing to our newsletter. We only use collected personal information in the context of providing or improving these services.
 
-Sensitive and private data exchange between the Site and its Users happens over a SSL secured communication channel and is encrypted and protected with digital signatures.
+Business data
 
-**Sharing your personal information**
+Business data refers to data that accumulates over the normal course of operation on our platform. This may include transaction records, stored files, user profiles, analytics data and other metrics, as well as other types of information, created or generated, as users interact with our services.
 
-We do not sell, trade, or rent Users personal identification information to others. We may share generic aggregated demographic information not linked to any personal identification information regarding visitors and users with our business partners, trusted affiliates and advertisers for the purposes outlined above.We may use third party service providers to help us operate our business and the Site or administer activities on our behalf, such as sending out newsletters or surveys. We may share your information with these third parties for those limited purposes provided that you have given us your permission.
+### How we collect information
 
-**Third party websites**
+We collect information by fair and lawful means, with your knowledge and consent. We also let you know why we’re collecting it and how it will be used. You are free to refuse our request for this information, with the understanding that we may be unable to provide you with some of your desired services without it.
 
-Users may find advertising or other content on our Site that link to the sites and services of our partners, suppliers, advertisers, sponsors, licensors and other third parties. We do not control the content or links that appear on these sites and are not responsible for the practices employed by websites linked to or from our Site. In addition, these sites or services, including their content and links, may be constantly changing. These sites and services may have their own privacy policies and customer service policies. Browsing and interaction on any other website, including websites which have a link to our Site, is subject to that website's own terms and policies.
+### Use of information
 
-**Advertising**
+We may use a combination of identifying and non-identifying information to understand who our visitors are, how they use our services, and how we may improve their experience of our website in future. We also use this information to gain insights into demographics, product and service popularity, and the effectiveness of our marketing activity. We do not disclose the specifics of this information publicly, but may share aggregated and anonymised versions of this information, for example, in website and customer usage trend reports.
 
-Ads appearing on our site may be delivered to Users by advertising partners, who may set cookies. These cookies allow the ad server to recognize your computer each time they send you an online advertisement to compile non personal identification information about you or others who use your computer. This information allows ad networks to, among other things, deliver targeted advertisements that they believe will be of most interest to you. This privacy policy does not cover the use of cookies by any advertisers.
+We primarily use your personal information for the purposes of granting you access to engage with certain areas of our site, to charge you for your subscription, and to notify you of any changes to your account and service.
 
-**Changes to this privacy policy**
+We may use your personal details to contact you with updates about our website and services, along with promotional content that we believe may be of interest to you. If you wish to opt out of receiving promotional content, you can follow the “unsubscribe” instructions provided alongside any promotional correspondence from us.
 
-Patrick Roberts Software has the discretion to update this privacy policy at any time. When we do, we will revise the updated date at the bottom of this page. We encourage Users to frequently check this page for any changes to stay informed about how we are helping to protect the personal information we collect. You acknowledge and agree that it is your responsibility to review this privacy policy periodically and become aware of modifications.
+### Data processing and storage
 
-**Your acceptance of these terms**
+The personal information we collect is stored and processed in United States, or where we or our partners, affiliates and third-party providers maintain facilities. We only transfer data within jurisdictions subject to data protection laws that reflect our commitment to protecting the privacy of our users.
 
-By using this Site, you signify your acceptance of this policy. If you do not agree to this policy, please do not use our Site. Your continued use of the Site following the posting of changes to this policy will be deemed your acceptance of those changes.
+We only retain personal information and business data for as long as necessary to provide a service, or to improve our services in future. While we retain this data, we will protect it within commercially acceptable means to prevent loss and theft, as well as unauthorised access, disclosure, copying, use or modification. That said, we advise that no method of electronic transmission or storage is 100% secure, and cannot guarantee absolute data security.
 
-**Contacting us**
+If you request your personal information be deleted, or where your personal information becomes no longer relevant to our operations, we will erase it from our system within a reasonable timeframe.
 
-If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this site, please contact us at:  
-[Patrick Roberts Software](http://rapidresizer.com/)  
-[http://rapidresizer.com](http://rapidresizer.com/)  
-115 George St Suite # 144 Oakville ON L6J 0A2 Canada   
-1-800-887-5709  
-patrick@rapidresizer.com
+### Cookies
 
-This document was last updated on May 16, 2013
+We use “cookies” to collect information about you and your activity across our site. A cookie is a small piece of data that our website stores on your computer, and accesses each time you visit, so we can understand how you use our site. This helps us serve you content based on preferences you have specified. Please refer to our Cookie Policy for more information.
+
+### Third-party access to information
+
+We use third-party services for:
+
+  * Analytics tracking
+  * User authentication
+  * Advertising and promotion
+  * Content marketing
+  * Email marketing
+  * Payment processing
+
+
+
+These services may access our data solely for the purpose of performing specific tasks on our behalf. We do not share any personally identifying information with them without your explicit consent. We do not give them permission to disclose or use any of our data for any other purpose.
+
+We may, from time to time, allow limited access to our data by external consultants and agencies for the purpose of analysis and service improvement. This access is only permitted for as long as necessary to perform a specific function. We only work with external agencies whose privacy policies align with ours.
+
+We will refuse government and law enforcement requests for data if we believe a request is too broad or unrelated to its stated purpose. However, we may cooperate if we believe the requested information is necessary and appropriate to comply with legal process, to protect our own rights and property, to protect the safety of the public and any person, to prevent a crime, or to prevent what we reasonably believe to be illegal, legally actionable, or unethical activity.
+
+We do not otherwise share or supply personal information to third parties. We do not sell or rent your personal information to marketers or third parties.
+
+### Limits of our policy
+
+This privacy policy only covers Patrick Roberts' own collecting and handling of data. We only work with partners, affiliates and third-party providers whose privacy policies align with ours, however we cannot accept responsibility or liability for their respective privacy practices.
+
+Our website may link to external sites that are not operated by us. Please be aware that we have no control over the content and policies of those sites, and cannot accept responsibility or liability for their respective privacy practices.
+
+### Changes to this policy
+
+At our discretion, we may change our privacy policy to reflect current acceptable practices. We will take reasonable steps to let users know about changes via our website. If you are a registered user on [https://RapidResizer.com](https://rapidresizer.com/), we will notify you using the contact details saved in your account. Your continued use of this site after any changes to this policy will be regarded as acceptance of our practices around privacy and personal information.
+
+### Your rights and responsibilities
+
+As our user, you have the right to be informed about how your data is collected and used. You are entitled to know what data we collect about you, and how it is processed. You are entitled to correct and update any personal information about you, and to request this information be deleted.
+
+You are entitled to restrict or object to our use of your data, while retaining the right to use your personal information for your own purposes. You have the right to opt out of data about you being used in decisions based solely on automated processing.
+
+Feel free to contact if you have any concerns or questions about how we handle your data and personal information.
+
+Data Controller  
+Patrick Roberts  
+[E-mail](https://web.archive.org/help)
+
+This policy is effective as of 25 May 2018.
+
+## Cookie Policy
+
+We use cookies to help improve your experience of [https://RapidResizer.com](https://rapidresizer.com/). This cookie policy is part of Patrick Roberts' privacy policy, and covers the use of cookies between your device and our site. We also provide basic information on third-party services we may use, who may also use cookies as part of their service, though they are not covered by our policy.
+
+If you don’t wish to accept cookies from us, you should instruct your browser to refuse cookies from [https://RapidResizer.com](https://rapidresizer.com/), with the understanding that we may be unable to provide you with some of your desired content and services.
+
+### What is a cookie?
+
+A cookie is a small piece of data that a website stores on your device when you visit, typically containing information about the website itself, a unique identifier that allows the site to recognise your web browser when you return, additional data that serves the purpose of the cookie, and the lifespan of the cookie itself.
+
+Cookies are used to enable certain features (eg. logging in), to track site usage (eg. analytics), to store your user settings (eg. timezone, notification preferences), and to personalise your content (eg. advertising, language).
+
+Cookies set by the website you are visiting are normally referred to as “first-party cookies”, and typically only track your activity on that particular site. Cookies set by other sites and companies (ie. third parties) are called “third-party cookies”, and can be used to track you on other websites that use the same third-party service.
+
+### Types of cookies and how we use them
+
+Essential cookies
+
+Essential cookies are crucial to your experience of a website, enabling core features like user logins, account management, shopping carts and payment processing. We use essential cookies to enable certain functions on our website.
+
+Performance cookies
+
+Performance cookies are used in the tracking of how you use a website during your visit, without collecting personal information about you. Typically, this information is anonymous and aggregated with information tracked across all site users, to help companies understand visitor usage patterns, identify and diagnose problems or errors their users may encounter, and make better strategic decisions in improving their audience’s overall website experience. These cookies may be set by the website you’re visiting (first-party) or by third-party services. We use performance cookies on our site.
+
+Functionality cookies
+
+Functionality cookies are used in collecting information about your device and any settings you may configure on the website you’re visiting (like language and timezone settings). With this information, websites can provide you with customised, enhanced or optimised content and services. These cookies may be set by the website you’re visiting (first-party) or by third-party service. We use functionality cookies for selected features on our site.
+
+Targeting/advertising cookies
+
+Targeting/advertising cookies are used in determining what promotional content is more relevant and appropriate to you and your interests. Websites may use them to deliver targeted advertising or to limit the number of times you see an advertisement. This helps companies improve the effectiveness of their campaigns and the quality of content presented to you. These cookies may be set by the website you’re visiting (first-party) or by third-party services. Targeting/advertising cookies set by third-parties may be used to track you on other websites that use the same third-party service. We use targeting/advertising cookies on our site.
+
+### Third-party cookies on our site
+
+We may employ third-party companies and individuals on our websites—for example, analytics providers and content partners. We grant these third parties access to selected information to perform specific tasks on our behalf. They may also set third-party cookies in order to deliver the services they are providing. Third-party cookies can be used to track you on other websites that use the same third-party service. As we have no control over third-party cookies, they are not covered by Patrick Roberts' cookie policy.
+
+Our third-party privacy promise
+
+We review the privacy policies of all our third-party providers before enlisting their services to ensure their practices align with ours. We will never knowingly include third-party services that compromise or violate the privacy of our users.
+
+### How you can control or opt out of cookies
+
+If you do not wish to accept cookies from us, you can instruct your browser to refuse cookies from our website. Most browsers are configured to accept cookies by default, but you can update these settings to either refuse cookies altogether, or to notify you when a website is trying to set or update a cookie.
+
+If you browse websites from multiple devices, you may need to update your settings on each individual device.
+
+Although some cookies can be blocked with little impact on your experience of a website, blocking all cookies may mean you are unable to access certain features and content across the sites you visit.
