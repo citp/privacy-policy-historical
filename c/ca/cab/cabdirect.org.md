@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cabdirect.org privacy policy that was archived on 2018-08-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180828074604id_/http%3A//www.cabi.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cabdirect.org privacy policy that was archived on 2019-03-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190324112103id_/http%3A//www.cabi.org/privacy-policy) for the most accurate reproduction.*
 
 # Privacy policy
 
@@ -37,7 +37,7 @@ __
 
 
 
-This Privacy Policy (the “Privacy Policy”) explains how we collect, use, share and protect your personal information (“Information”). The information shall be used in accordance with the permissions granted by you and in accordance with the EU General Data Protection Regulation (GDPR). If we update this policy, we will post any changes on our website.
+This Privacy Policy (the “Privacy Policy”) explains how we collect, use, share and protect your personal information (“Information”). The information shall be used in accordance with the permissions granted by you and in accordance with the UK Data Protection Act 2018 and EU General Data Protection Regulation (GDPR). If we update this policy, we will post any changes on our website.
 
 This Privacy Policy is also intended to assist you in making informed decisions when using our Websites. Please take a minute to read and understand it and please note that it should be read in conjunction with our General Terms and Conditions and our Cookie Policy (<https://www.cabi.org/cookie-information/>).
 
@@ -52,10 +52,11 @@ Personal data relates to a living individual who can be identified from that dat
   * your full name
   * your date of birth
   * your contact information such as your address and postcode, your email address, telephone number, mobile telephone number, fax number
+  * institutional affiliation
   * credit or debit card information, information about your bank account number and sort code or other banking information
   * general information about yourself such as professional interests, your experience of our services and products or other services and products and your contact preferences
   * your contact with us such as a note of a call, an email or letter you send to us or other records of any contact you have with us
-  * our browsing information (which includes information about the Websites, Applications and other CABI Products you visit)
+  * your browsing information (which includes information about the Websites, Applications and other CABI Products  and Services you visit, any searches you may undertake, your location or location for search purposes in respect of your use of certain products and services)
   * In the event that you apply for a job with CABI, we will require further professional information about yourself by way of a job application or your Curriculum Vitae
 
 
@@ -89,6 +90,7 @@ CABI is the data controller (“Data Controller”) for the purposes of the Act 
 
   * take part in a competition, prize draw or survey
 
+  * take part in user testing
   * visit or browse our Websites, Applications and other CABI Products
 
 
@@ -110,14 +112,17 @@ CABI and/or our partners may use your information in the following ways:
 
   * to develop and improve our products and services
 
-  * for our internal record keeping
+  * for our internal record-keeping
 
   * to contact you to answer any queries you may have
 
   * to contact you for market research or marketing purposes where you have given us permission to do so
 
+  * to help with marketing, including testimonials for CABI's Products and services
 
 
+
+If you do not wish to receive information from CABI other than that requested or no longer wish to receive marketing material and communications, please contact us at [enquiries@cabi.org](mailto:enquiries@cabi.org).
 
 CABI is committed to ensuring your information is secure. As part of our efforts to protect your information, CABI will never send you emails asking for your personal information or for your registered password (if you are a registered user).
 
@@ -152,3 +157,11 @@ We use cookies to recognise users after they have registered to use a website or
 Cookies will enable our web-sites to recognize the information you have consented to give and use it to present you with custom web pages. So, for example, instead of seeing just a generic welcome page, you might see a welcome page with your name on it. Some features on this site will not function if you do not allow cookies.
 
 Click here for a full description of our Cookies policy (<https://www.cabi.org/cookie-information/>).
+
+MAP OF CENTRES 
+
+MAP OF PROJECTS 
+
+#### Pane 3 Content
+
+Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. 
