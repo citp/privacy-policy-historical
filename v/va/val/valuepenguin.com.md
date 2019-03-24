@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the valuepenguin.com privacy policy that was archived on 2017-03-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170306033849id_/https%3A//www.valuepenguin.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the valuepenguin.com privacy policy that was archived on 2019-03-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190324135034id_/https%3A//www.valuepenguin.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
