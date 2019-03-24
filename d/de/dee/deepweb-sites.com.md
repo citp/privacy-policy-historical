@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the deepweb-sites.com privacy policy that was archived on 2018-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181224235542id_/https%3A//www.deepweb-sites.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the deepweb-sites.com privacy policy that was archived on 2019-03-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190324121607id_/https%3A//www.deepweb-sites.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy and Cookie policy - Deep Web
 
@@ -211,4 +211,4 @@ If you have any questions or concerns about this Privacy Policy, please contact 
 
 [](https://www.deepweb-sites.com/goto/nordvpn/)
 
-[](https://www.deepweb-sites.com/goto/nordvpn/)
+[](https://www.deepweb-sites.com/recommends/cyberghost-vpn-deep-web/)
