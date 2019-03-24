@@ -1,0 +1,358 @@
+<!--The following is the downloaded HTML source of the htmlcolors.com privacy policy that was archived on 2019-03-24.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20190324102441id_/https%3A//htmlcolors.com/privacy) for the most accurate reproduction.-->
+
+<!DOCTYPE html><html lang="en" class="no-js"><head></head><body>
+
+  <meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:site" content="Htmlcolors.com">
+<meta name="twitter:title" content="Html Colors">
+<meta name="twitter:description" content="Get your Html Color codes with our color tools, HEX code, RGB, RGBA, HSL and HSLA values, including HSV, HWB and CMYK. Go pick!">
+<meta name="twitter:image" content="https://i.imgur.com/fWH7K9d.png">
+
+<link href="https://fonts.googleapis.com/css?family=David+Libre|Hind:400,700" rel="stylesheet">
+<link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+<link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
+<link rel="stylesheet" href="/css/reset.css"> <!-- CSS reset -->
+<link rel="stylesheet" href="/css/style.css"> <!-- Resource style -->
+<script src="/js/scrolltop.js"></script>
+<link rel="icon" type="image/png" href="/favicon.png">
+<link rel="apple-touch-icon" href="/img/htmlcolorsappgrande.png">
+<script src="/js/main.js"></script>
+<script src="https://unpkg.com/vue"></script>
+<script src="https://unpkg.com/axios/dist/axios.min.js"></script>
+
+   <!-- adsense de franco -->
+  <!-- <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+  <script>
+    (adsbygoogle = window.adsbygoogle || []).push({
+      google_ad_client: "ca-pub-4354147658581186",
+      enable_page_level_ads: true
+    });
+  </script> -->
+<script async="" src="https://www.googletagmanager.com/gtag/js?id=UA-113637426-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-113637426-1');
+</script>
+<div id="subscribe">
+<div class="popup">
+  <div class="wrapper">
+  <div class="boxsubs">
+    <h3 style="margin-top: -18px;font-size: 20px;font-weight:700">Subscribe to our newsletter</h3>
+    <br>
+    <input type="email" v-model="email" name="email" class="emailsubscribe" placeholder="name@example.com" required="">
+    <button @click="enviaremail()" name="subscribe" style="background-color: #337ab7;color:white" class="btn">Subscribe</button>
+    <p v-if="showinvalid" style="margin-top:10px">Invalid email format</p>
+    <p v-if="showalready" style="margin-top:10px">This email is already subscribed</p>
+    <p v-if="showsuccess" style="margin-top:10px">You have been succesfully subscribed to our newsletter</p>
+  </div>
+</div>
+</div>
+</div>
+<script>
+$(function() {
+    var wrap = $(".wrap.fixed");
+    $(window).scroll(function() {
+        var scroll = $(window).scrollTop();
+        if (scroll >= 50) wrap.addClass("sticky");
+        else wrap.removeClass("sticky");
+    });
+});
+
+$(document).ready(function() {
+
+  $(window).scroll(function() {
+      if ($(window).scrollTop() >= ($(document).height() - $(window).height())) {
+        $('.popup').css( "left", "20px" )
+        $('.arrow').hide();
+      }else{
+        $('.popup').css( "left", "-380px" );
+        $('.arrow').show();
+    }
+  });
+
+  $('.closeaparece').click(function(){
+    $('.popup').hide();
+  });
+
+
+});
+
+
+$('.arrow').click(function(){
+   $("html").animate({ scrollTop: $('html').prop("scrollHeight")}, 1200);
+   $('.popup').show();
+});
+</script>
+<script>
+var frank = new Vue({
+  el:'#subscribe',
+  data:{
+		email: "",
+    code: "ffosjnhwsqbkzuqmgpiiswfpwphmhm",
+    submit: "insert",
+    showinvalid: false,
+    showalready: false,
+    showsuccess: false
+  },
+  methods: {
+           enviaremail() {
+            axios.post('/validaremail.php', {
+                email: this.email,
+                code: this.code,
+                submit: this.submit
+              })
+              .then(function (response) {
+                if(response.data == 'invalid'){
+                frank.showinvalid = true;
+                frank.showalready = false;
+                frank.showsuccess = false;
+                    }
+                if(response.data == 'This email is already subscribed'){
+                frank.showalready = true;
+                frank.showinvalid = false;
+                frank.showsuccess = false;
+                    }
+                if(response.data == 'You have been succesfully subscribed to our newsletter'){
+                frank.showsuccess = true;
+                frank.showinvalid = false;
+                frank.showalready = false;
+                    }
+              console.log(response.data);
+              })
+              .catch(function (error) {
+                console.log(error);
+              });
+          }
+        }
+});
+</script>
+
+<style>
+@media (max-width:1265px) {
+	.dropprofile{min-width:130px!important;}
+}
+</style>
+<header style="border-bottom: 1px solid #ECF0F1;position: absolute;z-index: 4;" class="cd-auto-hide-header">
+	<div class="logo logonav"><a href="/"><img src="/img/cd-logo.svg" alt="Html Colors"></a></div>
+
+	<nav class="cd-primary-nav">
+		<a href="#cd-navigation" class="nav-trigger">
+			<span>
+				<em aria-hidden="true"></em>
+				Menu
+			</span>
+		</a> <!-- .nav-trigger -->
+		<ul id="cd-navigation">
+			<li><a class="tamañonav" style="text-decoration:none;font-weight: 700;" href="/color-picker">Picker</a></li>
+			<li><a class="tamañonav" style="text-decoration:none;font-weight: 700;" href="/color-chart">Chart</a></li>
+			<li><a class="tamañonav" style="text-decoration:none;font-weight: 700;" href="/color-names">Names</a></li>
+
+			<li class="dropdown dropnav"><a style="text-decoration:none;font-weight: 700;" class="dropdown-toggle tamañonav" data-toggle="dropdown" href="#" aria-expanded="false">Color Values<span class="caret"></span></a>
+				<ul class="dropdown-menu dropnav">
+				<li style="width:100%"><a class="tamañonav tamanodropdown" style="text-decoration:none;font-weight: 700;" href="/hex-color">Hex Color</a></li>
+				<li style="width:100%"><a class="tamañonav tamanodropdown" style="text-decoration:none;font-weight: 700;" href="/rgb-color">RGB Color</a></li>
+				<li style="width:100%"><a class="tamañonav tamanodropdown" style="text-decoration:none;font-weight: 700;" href="/rgba-color">RGBA Color</a></li>
+				<li style="width:100%"><a class="tamañonav tamanodropdown" style="text-decoration:none;font-weight: 700;" href="/hsl-color">HSL Color</a></li>
+				<li style="width:100%"><a class="tamañonav tamanodropdown" style="text-decoration:none;font-weight: 700;" href="/hsla-color">HSLA Color</a></li>
+				<li style="width:100%"><a class="tamañonav tamanodropdown" style="text-decoration:none;font-weight: 700;" href="/hsv-color">HSV Color</a></li>
+				<li style="width:100%"><a class="tamañonav tamanodropdown" style="text-decoration:none;font-weight: 700;" href="/hwb-color">HWB Color</a></li>
+				<li style="width:100%"><a class="tamañonav tamanodropdown" style="text-decoration:none;font-weight: 700;" href="/cmyk-color">CMYK Color</a></li>
+				</ul></li>
+
+				<li class="dropnavcel"><a class="tamañonav" style="text-decoration:none;font-weight: 700;" href="/hex-color">Hex Color</a></li>
+				<li class="dropnavcel"><a class="tamañonav" style="text-decoration:none;font-weight: 700;" href="/rgb-color">RGB Color</a></li>
+				<li class="dropnavcel"><a class="tamañonav" style="text-decoration:none;font-weight: 700;" href="/rgba-color">RGBA Color</a></li>
+				<li class="dropnavcel"><a class="tamañonav" style="text-decoration:none;font-weight: 700;" href="/hsl-color">HSL Color</a></li>
+				<li class="dropnavcel"><a class="tamañonav" style="text-decoration:none;font-weight: 700;" href="/hsla-color">HSLA Color</a></li>
+				<li class="dropnavcel"><a class="tamañonav" style="text-decoration:none;font-weight: 700;" href="/hsv-color">HSV Color</a></li>
+				<li class="dropnavcel"><a class="tamañonav" style="text-decoration:none;font-weight: 700;" href="/hwb-color">HWB Color</a></li>
+				<li class="dropnavcel"><a class="tamañonav" style="text-decoration:none;font-weight: 700;" href="/cmyk-color">CMYK Color</a></li>
+
+			<li><a class="tamañonav" style="text-decoration:none;font-weight: 700;" href="/color-wheel">Color wheel</a></li>
+			<li><a class="tamañonav" style="text-decoration:none;font-weight: 700;" href="/gradients">Gradients</a></li>
+			<li><a class="tamañonav" style="text-decoration:none;font-weight: 700;" href="/brand-colors">Brand colors</a></li>
+			<li><a class="tamañonav" style="text-decoration:none;font-weight: 700;" href="/palettes">Palettes</a></li>
+			<li><a class="tamañonav" style="text-decoration:none;font-weight: 700;" href="/tutorials">Tutorials</a></li>
+      
+				<li><a class="tamañonav" style="text-decoration:none;font-weight: 700;" href="/login"><span style="font-size:13px" class="glyphicon glyphicon-log-in"></span> Log in</a></li>
+				<li><a class="tamañonav" style="text-decoration:none;font-weight: 700;" href="/signup"><span style="font-size:13px" class="glyphicon glyphicon-user"></span> Sign up</a></li>
+				
+		</ul>
+	</nav> <!-- .cd-primary-nav -->
+</header> <!-- .cd-auto-hide-header -->
+<br><br><br>
+<div class="container" style="margin-top:80px;">
+<h1 class="titulocolores" style="display:inline-block!important;margin-left:45px;font-size:38px;font-weight:700!important;width:670px;line-height:52px;letter-spacing: 0.020em;"><a class="moechanges" style="font-size: 22px;text-decoration:none;color:#8F3985;">Html Colors</a><br>Privacy Policy of HtmlColors.com</h1><br><br>
+<br><br></div>
+<div class="container containerblanco">
+  <br>
+  <div class="container" style="font-size:16px;line-height:21px">
+  <p class="letratheory">
+At Htmlcolors.com, we recognize that privacy of your personal information is important.<br>
+Here is information on what types of personal information we receive and collect when you use visit Htmlcolors.com,
+and how we safeguard your information.  We never sell your personal information to third parties.<br><br>
+
+<b style="font-size:18px;font-weight:600;">Log Files</b><br><br>
+As with most other websites, we collect and use the data contained in log files.<br>
+
+The information in the log files include  your IP (internet protocol) address,
+your ISP (internet service provider, such as AOL or Shaw Cable),
+the browser you used to visit our site (such as Internet Explorer, Firefox or Google),
+the time you visited our site and which pages you visited throughout our site.
+<br>
+When you login on this page, you accept to receive mails from us every single week. In case you don't want to receive them anymore, you will need to disable them at the bottom of any of our sent mails.
+<br><br>
+
+<b style="font-size:18px;font-weight:600;">Cookies and Web Beacons</b><br><br>
+We do use cookies to store information, such as your personal preferences when you visit our site.
+This could include only showing you a popup once in your visit, or the ability to login to some of our features, such as forums.
+<br> <br>
+
+We also use third party advertisements on Htmlcolors.com to support our site.<br>
+Some of these advertisers may use technology such as cookies and web beacons when they advertise on our site,
+which will also send these advertisers (such as Google through the Google AdSense program) information including your IP address,
+your ISP , the browser you used to visit our site, and in some cases, whether you have Flash installed.
+This is generally used for geotargeting purposes (showing New York real estate ads to someone in New York, for example)
+or showing certain ads based on specific sites visited (such as showing cooking ads to someone who frequents cooking sites).
+<br> <br>
+
+You can chose to disable or selectively turn off our cookies or third-party cookies in your browser settings,
+or by managing preferences in programs such as Norton Internet Security.  However,
+this can affect how you are able to interact with our site as well as other websites.
+This could include the inability to login to services or programs, such as logging into forums or accounts.
+<br><br>
+<b style="font-size:18px;font-weight:600;">Google and the DoubleClick DART cookie</b><br><br>
+- Google, as a third party vendor, uses cookies to serve ads on Htmlcolors.com<br>
+- Google's use of the DART cookie enables it to serve ads to your users based on their visit to your sites and other sites on the Internet.<br>
+- Users may opt out of the use of the DART cookie by visiting the <a href="http://www.google.com/privacy_ads.html" target="_blank" title="Google ad and content network privacy policy">Google ad and content network privacy policy</a>.
+</p>
+</div>
+
+<br><br>
+</div>
+<br><br>
+<style>
+@media (max-width:1080px) {
+  #myBtn {
+    background-color: #ecf0f2!important;
+}}
+#myBtn {
+  position: fixed;
+  background-color: white;
+  bottom: 20px;
+  right: 8px;
+  border:none;
+  z-index: 100;
+  color: white;
+  cursor: pointer;
+  padding: 15px;
+  border-radius: 10px;
+  outline:none;
+}
+
+#myBtn:hover {
+  box-shadow: 0 25px 50px rgba(0,0,0,0.1);
+}
+ </style>
+ <button id="myBtn" class="top" title="Go to top"><span style="color:#8F3985;font-size:24px" class="fa fa-2x fa-arrow-circle-up"></span></button>
+
+    <footer id="myFooter">
+        <div class="container">
+            <div class="row">
+
+                <div class="col-sm-2">
+                    <a href="/"><img class="footerlogocolor" src="/img/cd-logo.svg" alt="Logo" style="width:150px;height:45px;margin-top: 23px;margin-bottom: 13px;"></a>
+                </div>
+                <div class="col-sm-3">
+                  <h5 class="afueracomp" style="color:#111">Share With Your Friends!</h5>
+
+                  <ul style="margin-top:-5px!important" class="icons2 share">
+                    <li class="email emailfooter"><a class="fa fafooter fa-pinterest lishare" style="font-size:36px;color:#ACAFB3" target="_blank" href="https://ar.pinterest.com/pin/create/button/?url=https://htmlcolors.com&amp;media=http%3A%2F%2Fhtmlcolors.com%2Fimg%2Fcd-logo.svg&amp;description=Get%20your%20Html%20Color%20codes%20with%20our%20color%20tools,%20HEX%20code,%20RGB,%20RGBA,%20HSL%20and%20HSLA%20values,%20including%20HSV,%20HWB%20and%20CMYK.%20Go%20pick!.">
+                  <path class="fill" d="M12,0C5.373,0,0,5.373,0,11.999c0,4.915,2.955,9.136,7.184,10.991c-0.035-0.838-0.006-1.844,0.209-2.756
+                    c0.23-0.974,1.543-6.537,1.543-6.537s-0.383-0.768-0.383-1.9c0-1.778,1.031-3.106,2.314-3.106c1.092,0,1.619,0.82,1.619,1.802
+                    c0,1.098-0.701,2.739-1.062,4.26c-0.301,1.272,0.64,2.312,1.896,2.312c2.272,0,3.805-2.92,3.805-6.38
+                    c0-2.631-1.771-4.598-4.994-4.598c-3.639,0-5.906,2.713-5.906,5.745c0,1.046,0.307,1.784,0.791,2.354
+                    c0.221,0.263,0.252,0.367,0.172,0.668c-0.059,0.222-0.189,0.754-0.244,0.965c-0.08,0.304-0.326,0.412-0.602,0.3
+                    c-1.676-0.685-2.457-2.521-2.457-4.586c0-3.408,2.875-7.495,8.576-7.495c4.582,0,7.598,3.315,7.598,6.873
+                    c0,4.709-2.617,8.226-6.475,8.226c-1.297,0-2.516-0.7-2.932-1.495c0,0-0.697,2.764-0.846,3.297
+                    c-0.254,0.926-0.752,1.852-1.207,2.571C9.68,23.826,10.818,24,12,24c6.627,0,12-5.372,12-12.001C24,5.373,18.627,0,12,0z"></path>
+                  </a></li>
+
+                        <li class="email emailfooter"><a title="share" href="whatsapp://send?text=https://htmlcolors.com" data-action="share/whatsapp/share"> <i style="font-size:36px;color:#ACAFB3" class="fa fafooter fa-whatsapp lishare"></i></a></li>
+
+                       <li class="email emailfooter"><a title="share" id="Twitter" target="_blank" href="https://twitter.com/share?url=https://htmlcolors.com;text=Get%20your%20Html%20Color%20codes%20with%20our%20color%20tools,%20HEX%20code,%20RGB,%20RGBA,%20HSL%20and%20HSLA%20values,%20including%20HSV,%20HWB%20and%20CMYK.%20Go%20pick!"> <i style="font-size:36px;color:#ACAFB3" class="fa fafooter fa-twitter lishare"></i>
+                       <path class="fill" d="M24,4.557c-0.883,0.392-1.832,0.656-2.828,0.775c1.018-0.609,1.799-1.574,2.164-2.724
+                         c-0.951,0.564-2.004,0.974-3.125,1.195c-0.898-0.957-2.18-1.555-3.596-1.555c-2.719,0-4.924,2.205-4.924,4.924
+                         c0,0.386,0.044,0.762,0.128,1.122C7.728,8.087,4.1,6.127,1.67,3.148C1.247,3.875,1.003,4.722,1.003,5.625
+                         c0,1.708,0.869,3.216,2.19,4.099c-0.807-0.025-1.566-0.247-2.23-0.616c0,0.021,0,0.041,0,0.062c0,2.386,1.697,4.375,3.95,4.829
+                         C4.5,14.109,4.065,14.17,3.617,14.17c-0.317,0-0.625-0.029-0.926-0.088c0.626,1.955,2.445,3.379,4.6,3.42
+                         c-1.685,1.32-3.808,2.107-6.115,2.107c-0.397,0-0.79-0.023-1.175-0.068c2.179,1.396,4.768,2.211,7.548,2.211
+                         c9.057,0,14.01-7.502,14.01-14.008c0-0.213-0.004-0.426-0.016-0.637C22.504,6.412,23.34,5.543,24,4.557z"></path>
+
+                        </a></li>
+                        <li class="fb email emailfooter">
+                        <script type="text/javascript">
+                        function fbs_click(width, height) {
+                        var leftPosition, topPosition;
+                        leftPosition = (window.screen.width / 2) - ((width / 2) + 10);
+                        topPosition = (window.screen.height / 2) - ((height / 2) + 50);
+                        var windowFeatures = "status=no,height=" + height + ",width=" + width + ",resizable=yes,left=" + leftPosition + ",top=" + topPosition + ",screenX=" + leftPosition + ",screenY=" + topPosition + ",toolbar=no,menubar=no,scrollbars=no,location=no,directories=no";
+                        u=location.href;
+                        t=document.title;
+                        window.open('https://www.facebook.com/sharer.php?u=https://htmlcolors.com &t='+encodeURIComponent(t),'sharer', windowFeatures);
+                        return false;
+                        }
+                        </script>
+                        <a href="https://www.facebook.com/share.php?u=/product" onclick="return fbs_click(550, 450)" title="Share It"><i style="font-size:36px;color:#ACAFB3" class="fa fafooter fa-facebook lishare fa-2x"></i></a></li>
+                      </ul>
+                </div>
+                <div class="col-sm-2">
+                    <h5 style="color:#111">Need Help?</h5>
+                    <ul>
+                        <li><a class="lishare" style="color:#696969" href="/terms">Terms &amp; Conditions</a></li>
+                        <li><a class="lishare" style="color:#696969" href="/privacy">Privacy Policy</a></li>
+                        <li><a class="lishare" style="color:#696969" href="/contact">Contact us</a></li>
+                    </ul>
+                </div>
+                <div class="col-sm-3">
+                    <h5 style="color:#111">More <span style="font-size:13px" class="glyphicon glyphicon-plus"></span></h5>
+                    <ul>
+
+                        <li><a class="lishare" style="color:#696969" href="/compliment-colors">Compliment Colors</a></li>
+                        <li><a class="lishare" style="color:#696969" href="/image-color-picker">Image Color Picker</a></li>
+                        <li><a class="lishare" style="color:#696969" href="/color-mixer">Color Mixer</a></li>
+                        <li><a class="lishare" style="color:#696969" href="/sample-gradients">Sample Gradients</a></li>
+
+                    </ul>
+                </div>
+                <div class="col-sm-2">
+                    <h5 style="color:#111">More <span style="font-size:13px" class="glyphicon glyphicon-plus"></span></h5>
+                    <ul>
+                      <li><a class="lishare" style="color:#696969" href="/color-converter">Color Converter</a></li>
+                      <li><a class="lishare" style="color:#696969" href="/color-theory">Color Theory</a></li>
+                      <li><a class="lishare" style="color:#696969" href="/color-generator">Color Generator</a></li>
+                      <li><a class="lishare" style="color:#696969" href="/web-safe-colors">Web Safe Colors</a></li>
+
+                    </ul>
+                </div>
+              </div>
+            </div>
+
+        <div class="footer-copyright">
+            <p class="copyrightp" style="color:#696969"> Copyright 2018 Htmlcolors.com | All Rights Reserved </p>
+            <div style="display:none"><img src="https://whos.amung.us/swidget/htmlcolors.png"></div>
+        </div>
+    </footer>
+
+
+</body></html>
