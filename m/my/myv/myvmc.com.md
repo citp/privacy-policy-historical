@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the myvmc.com privacy policy that was archived on 2018-09-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180925072754id_/https%3A//www.myvmc.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the myvmc.com privacy policy that was archived on 2019-03-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190325084001id_/https%3A//www.myvmc.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | myVMC
 
