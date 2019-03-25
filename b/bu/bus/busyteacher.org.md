@@ -1,25 +1,127 @@
-> *The following text is extracted and transformed from the busyteacher.org privacy policy that was archived on 2018-01-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180110023135id_/https%3A//busyteacher.org/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the busyteacher.org privacy policy that was archived on 2019-03-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190325162744id_/https%3A//busyteacher.org/privacy_policy.html) for the most accurate reproduction.*
 
 # Privacy Policy for BusyTeacher.org » BusyTeacher: Free Printable Worksheets For Busy English Teachers
 
-The privacy of our visitors to **http://busyteacher.org** is important to us.  
- 
+This privacy policy applies between you, the User of this Website and SURESWIFT CAPITAL INC., the owner and provider of this Website BusyTeacher.org. BusyTeacher takes the privacy of your information very seriously. This privacy policy applies to our use of any and all Data collected by us or provided by you in relation to your use of the Website. Please read this privacy policy carefully.
 
-At **http://busyteacher.org** , we recognize that privacy of your personal information is important. Here is information on what types of personal information we receive and collect when you use and visit **http://busyteacher.org** , and how we safeguard your information. We never sell your personal information to third parties.
+### Definitions and interpretation
 
-**Log Files** As with most other websites, we collect and use the data contained in log files. The information in the log files include your IP (internet protocol) address, your ISP (internet service provider, such as AOL or Shaw Cable), the browser you used to visit our site (such as Internet Explorer or Firefox), the time you visited our site and which pages you visited throughout our site.  
- 
+In this privacy policy, the following definitions are used:
 
-**Cookies and Web Beacons** We do use cookies to store information, such as your personal preferences when you visit our site. This could include only showing you a popup once in your visit, or the ability to login to some of our features, such as forums.  
- 
+Data  
+Collectively all information that you submit to BusyTeacher via the Website. This definition incorporates, where applicable, the definitions provided in the Data Protection Act 1998 and the European Union’s 2018 General Data Protection Regulation (GDPR);
 
-We also use third party advertisements on **http://busyteacher.org** to support our site. Some of these advertisers may use technology such as cookies and web beacons when they advertise on our site, which will also send these advertisers (such as Google through the Google AdSense program) information including your IP address, your ISP , the browser you used to visit our site, and in some cases, whether you have Flash installed. This is generally used for geotargeting purposes (showing New York real estate ads to someone in New York, for example) or showing certain ads based on specific sites visited (such as showing cooking ads to someone who frequents cooking sites).  
- 
+Credit & Debit Card Data  
+We do not store credit card details nor do we share customer details relating to financial data with any 3rd parties;
 
-**DoubleClick DART cookies** We also may use DART cookies for ad serving through Google's DoubleClick, which places a cookie on your computer when you are browsing the web and visit a site using DoubleClick advertising (including some Google AdSense advertisements). This cookie is used to serve ads specific to you and your interests ("interest based targeting"). The ads served will be targeted based on your previous browsing history (For example, if you have been viewing sites about visiting Las Vegas, you may see Las Vegas hotel advertisements when viewing a non-related site, such as on a site about hockey). DART uses "non personally identifiable information". It does NOT track personal information about you, such as your name, email address, physical address, telephone number, social security numbers, bank account numbers or credit card numbers. You can opt-out of this ad serving on all sites using this advertising by visiting [http://www.doubleclick.com/privacy/dart_adserving.aspx  
- ](http://www.doubleclick.com/privacy/dart_adserving.aspx)
+Cookies  
+a small text file may be placed on your computer by this Website when you visit certain parts of the Website and/or when you use certain features of the Website. Details of the cookies used by this Website are set out in the clause below (Cookies);
 
-You can choose to disable or selectively turn off our cookies or third-party cookies in your browser settings, or by managing preferences in programs such as Norton Internet Security. However, this can affect how you are able to interact with our site as well as other websites. This could include the inability to login to services or programs, such as logging into forums or accounts.  
- 
+BusyTeacher, SURESWIFT CAPITAL INC., we or us  
+BusyTeacher, owned fully by SURESWIFT CAPITAL INC., a company incorporated in Victoria, British Columbia, Canada with whose registered office is at 113-1834C Oak Bay Avenue, V8R 0A4;
 
-Deleting cookies does not mean you are permanently opted out of any advertising program. Unless you have settings that disallow cookies, the next time you visit a site running the advertisements, a new cookie will be added.
+UK and EU Cookie Law  
+the Privacy and Electronic Communications (EC Directive) Regulations 2003 as amended by the Privacy and Electronic Communications (EC Directive) (Amendment) Regulations 2011 and the European Union’s 2018 General Data Protection Regulation;
+
+User or you  
+any third party that accesses the Website and is not either (i) employed by SURESWIFT CAPITAL INC. and acting in the course of their employment or (ii) engaged as a consultant or otherwise providing services to SURESWIFT CAPITAL INC. and accessing the Website in connection with the provision of such services; and
+
+Website  
+the website that you are currently using, BusyTeacher.org, and any sub-domains of this site unless expressly excluded by their own terms and conditions.
+
+In this privacy policy, unless the context requires a different interpretation:  
+\- the singular includes the plural and vice versa;  
+\- references to sub-clauses, clauses, schedules or appendices are to sub-clauses, clauses, schedules or appendices of this privacy policy;  
+\- a reference to a person includes firms, companies, government entities, trusts and partnerships;  
+\- “including” is understood to mean “including without limitation”;  
+\- reference to any statutory provision includes any modification or amendment of it;  
+\- the headings and sub-headings do not form part of this privacy policy.
+
+### Scope of this privacy policy
+
+This privacy policy applies only to the actions of BusyTeacher and Users with respect to this Website. It does not extend to any websites that can be accessed from this Website including, but not limited to, any links we may provide to social media websites or externally-facing URLs provided throughout throughout the course of using BusyTeacher.
+
+### Data collected
+
+We may collect the following Data, which includes personal Data, from you:  
+\- Name (if you choose to use it as part of your Member Name)  
+\- Contact Information such as email address;  
+\- Member Name  
+in each case, in accordance with this privacy policy.
+
+### Our use of Data
+
+For purposes of the Data Protection Act 1998 and GDPR, BusyTeacher acts as the “data controller”.  
+We will retain any Data you submit for as long as BusyTeacher deems it necessary to provide adequate service to the User, unless explicitly asked by a User for their Data to be deleted.
+
+Unless we specifically say otherwise, your Data will never be intentionally disclosed to third parties for the sake of administering better service, but never for marketing purposes through various affiliates and / or other companies within our group.
+
+All personal Data is stored securely in accordance with the principles of the Data Protection Act 1998 and the European Union’s General Data Protection Regulation. For more details on these two security regulations see the clause below (Security).
+
+Any or all of the above Data may be required by us from time to time in order to provide you with the best possible service and experience when using our Website. Specifically, Data may be used by us for the following reasons:  
+\- internal record keeping;  
+\- improvement of our products / services;  
+\- transmission by email of promotional materials that may be of interest to you;  
+\- transmission to 3rd parties in order for them to market relevant promotional materials that may be of interest to you;
+
+The ability to make automated decision making, including profiling, only for the purpose of offering a better and more personalized experience for the User or marketing to new users based on information from the users of BusyTeacher in aggregate; in each case, in accordance with this privacy policy.
+
+### Third party websites and services
+
+BusyTeacher may, from time to time, employ the services of other parties for dealing with certain processes necessary for the operation of the Website. The providers of such services have access to certain personal Data provided by Users of this Website and may be located in various locations throughout the world. Any Data used by such parties is used only to the extent required by them to perform the services that we request. Any use for other purposes is strictly prohibited. Furthermore, any Data that is processed by third parties will be processed within the terms of this privacy policy and in accordance with the Data Protection Act 1998 and GDPR. Additionally, Data can be transmitted to 3rd parties for relevant marketing purposes at the sole discretion of those employed by SURESWIFT CAPITAL INC. and BusyTeacher.
+
+### Links to other websites
+
+This Website may, from time to time, provide links to other websites. We have no control over such websites and are not responsible for the content of these websites. This privacy policy does not extend to your use of such websites. You are advised to read the privacy policy or statement of other websites prior to using them.
+
+### Changes of business ownership and control
+
+SURESWIFT CAPITAL INC. may, from time to time, expand or reduce our business and this may involve the sale and/or the transfer of control of all or part of BusyTeacher. Data provided by Users will, where it is relevant to any part of our business so transferred, be transferred along with that part and the new owner or newly controlling party will, under the terms of this privacy policy, be permitted to use the Data for the purposes for which it was originally supplied to us. We may also disclose Data to a prospective purchaser of our business or any part of it. In the above instances, we will take steps with the aim of ensuring your privacy is protected.
+
+### Controlling use of your Data
+
+Wherever you are required to submit Data, you will be given options to restrict our use of that Data. This may include the following:  
+\- use of Data for direct or indirect marketing purposes;  
+You have the right to ask for a copy of any of your personal Data held by BusyTeacher.  
+You have the right to withdraw consent necessary to use the services provided by BusyTeacher at any time.  
+You have the right for your data to be deleted from the servers and databases of BusyTeacher.
+
+### Functionality of the Website
+
+To use all features and functions available on the Website, you may be required to submit certain Data. In order to use the service administered by BusyTeacher.org all Users must consent for BusyTeacher to use your data for purposes BusyTeacher sees fit as outlined elsewhere in the Privacy Policy. Refusal to offer consent is grounds for BusyTeacher to block access to services offered by BusyTeacher.org A User may revoke consent at any time. You may restrict your internet browser’s use of Cookies. For more information see the clause below (Cookies).
+
+### Security
+
+Data security is of great importance to BusyTeacher and to protect your Data we have put in place suitable physical, electronic and managerial procedures to safeguard and secure Data collected via this Website.
+
+If password access is required for certain parts of the Website, you are responsible for keeping this password confidential. We endeavor to do our best to protect your personal Data. However, transmission of information over the internet is not always perfectly secure and is done at your own risk. We cannot ensure the security of your Data transmitted to the Website.
+
+### Cookies
+
+This Website may place and access certain Cookies on your computer. BusyTeacher.org uses Cookies to improve your experience of using the Website and to improve our range of products and services. BusyTeacher.org has carefully chosen these Cookies and has taken steps to ensure that your privacy is protected and respected at all times. All Cookies used by this Website are used in accordance with current UK and EU Cookie Law.
+
+Before the Website places Cookies on your computer, you will be presented with a message bar requesting your consent to set those Cookies. By giving your consent to the placing of Cookies, you are enabling BusyTeacher to provide a better experience and service to you. You may, if you wish, deny consent to the placing of Cookies; however certain features of the Website may not function fully or as intended.  
+This Website may place the following Cookies:  
+1\. Strictly necessary cookies  
+These are cookies that are required for the operation of our website. They include, for example, cookies that enable you to log into secure areas of our website, use a shopping cart or make use of e-billing services.
+
+You can choose to enable or disable Cookies in your internet browser. By default, most internet browsers accept Cookies but this can be changed. For further details, please consult the help menu in your internet browser.
+
+You can choose to delete Cookies at any time; however you may lose any information that enables you to access the Website more quickly and efficiently including, but not limited to, personalization settings.
+
+It is recommended that you ensure that your internet browser is up-to-date and that you consult the help and guidance provided by the developer of your internet browser if you are unsure about adjusting your privacy settings.
+
+### General
+
+You may not transfer any of your rights under this privacy policy to any other person. We may transfer our rights under this privacy policy where we reasonably believe your rights will not be affected.
+
+If any court or competent authority finds that any provision of this privacy policy (or part of any provision) is invalid, illegal or unenforceable, that provision or part-provision will, to the extent required, be deemed to be deleted, and the validity and enforceability of the other provisions of this privacy policy will not be affected. Unless otherwise agreed, no delay, act or omission by a party in exercising any right or remedy will be deemed a waiver of that, or any other, right or remedy.
+
+The Privacy Policy is governed by and interpreted according to the laws of Canada. Any dispute, controversy or claim arising under, out of or relating to the validity, interpretation and performance of this Privacy Policy shall be referred to and finally determined by the competent courts of the Province of British Columbia and British Columbia law shall apply. For any questions or concerns relating to the use of your User Data while using BusyTeacher, you are welcome to contact the SURESWIFT CAPITAL INC.’s chosen Data Protection Officer who can be reached by sending an email to privacy@sureswiftcapital.com Every user of BusyTeacher has a variety of rights relating to the use of their data while using BusyTeacher, including the right to lodge a complaint with a supervisory authority.
+
+### Changes to this privacy policy
+
+BusyTeacher reserves the right to change this privacy policy as we may deem necessary from time to time or as may be required by law. Any changes will be immediately posted on the Website and you are deemed to have accepted the terms of the privacy policy on your first use of the Website following the alterations.You may contact BusyTeacher by email at support@busyteacher.org.
+
+Effective Date of this Privacy Policy:  
+This Privacy Policy is effective as of May 25, 2018.
