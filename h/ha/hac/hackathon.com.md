@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hackathon.com privacy policy that was archived on 2018-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181125035344id_/http%3A//privacy.bemyapp.com) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hackathon.com privacy policy that was archived on 2019-03-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190325232611id_/http%3A//privacy.bemyapp.com) for the most accurate reproduction.*
 
 # BeMyApp Cookies Policy
 
