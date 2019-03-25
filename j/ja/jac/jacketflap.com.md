@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jacketflap.com privacy policy that was archived on 2017-08-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170830105832id_/https%3A//www.jacketflap.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jacketflap.com privacy policy that was archived on 2019-03-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190326000744id_/https%3A//www.jacketflap.com/privacy.asp) for the most accurate reproduction.*
 
 # JacketFlap: Privacy Policy
 
@@ -6,7 +6,7 @@
 
 The following applies to Primary Knowledge, Inc. (Primary Knowledge) and the JacketFlap service offered by Primary Knowledge.
 
-Because we want you to understand the collection and uses of data that are necessary and possible on the JacketFlap platform, and to show our dedication to your privacy and security, we have established this privacy and security policy. We reserve the right to change this Statement and will provide notification of any material change at least thirty (30) days prior to the change taking effect. You may contact us with any questions pertaining to this policy at [tgrand@jacketflap.com](mailto:tgrand@jacketflap.com).
+Because we want you to understand the collection and uses of data that are necessary and possible on the JacketFlap platform, and to show our dedication to your privacy and security, we have established this privacy and security policy. We reserve the right to change this Statement and will provide notification of any material change at least thirty (30) days prior to the change taking effect. You may contact us with any questions pertaining to this policy at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#384c5f4a59565c7852595b535d4c5e545948165b5755).
 
 ### Collected Information
 
