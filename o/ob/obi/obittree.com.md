@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the obittree.com privacy policy that was archived on 2018-09-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180904081610id_/https%3A//obittree.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the obittree.com privacy policy that was archived on 2019-03-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190325175024id_/https%3A//obittree.com/privacy.php) for the most accurate reproduction.*
 
 # ObitTree™
 
