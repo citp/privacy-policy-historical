@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fredericks.com privacy policy that was archived on 2018-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181124231727id_/https%3A//www.fredericks.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fredericks.com privacy policy that was archived on 2019-03-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190325170044id_/http%3A//www.fredericks.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Frederick's of Hollywood
 
@@ -104,11 +104,21 @@ We may change our policy at any time by posting a new version of it on the Websi
 
 If there are any questions regarding this privacy policy you may contact us using the information below.
 
-Frederick’s of Hollywood Online Store  
+ **Email  
+**[support@fredericks.com](mailto:support@fredericks.com)  
+Or click "Submit a Request" at the top our [Help Center](https://fredericks.zendesk.com/hc/en-us)
+
+ **Phone  
+** 1 (844)-399-4364  
+Monday - Friday 7:00 AM - 1:00 PM Pacific  
+Closed Saturday & Sunday
+
+ **Mail  
+** Frederick’s of Hollywood Online Store  
 Attn: Privacy Policy  
 180 Madison Ave Ste 501  
 New York, NY 10016  
-USA  
-1 (844)-399-4364  
-[support@fredericks.com](https://fredericks.zendesk.com/hc/en-us/requests/new)
+USA
+
+
 
