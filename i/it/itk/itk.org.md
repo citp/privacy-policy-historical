@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the itk.org privacy policy that was archived on 2018-08-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180831133344id_/https%3A//www.kitware.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the itk.org privacy policy that was archived on 2019-03-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190325201051id_/https%3A//www.kitware.com/privacy) for the most accurate reproduction.*
 
 # Privacy - Kitware, Inc.
 
@@ -8,7 +8,7 @@
 
 **When does this Privacy Statement apply?** This Privacy Statement applies to Personal Data that you provide to KITWARE or which is derived from the Personal Data as outlined below. The use of any information that is gathered by cookies or other web tracking technologies is subject to the terms of our Cookies Policy.
 
-**Data Controller**. The data controller of Kitware, Inc. is Kitware, Inc., 28 Corporate Drive, Clifton Park, NY 12065 (“KITWARE”). 
+**Data Controller**. The data controller of Kitware, Inc. is Kitware, Inc., 1712 Route 9, Suite 300, Clifton Park, NY 12065 (“KITWARE”). 
 
 **What does KITWARE do with my Personal Data?** KITWARE will process the Personal Data provided hereunder only as set out in this Privacy Statement. Where the processing of your Personal Data is based on a statutory permission, you can find information on which Personal Data KITWARE is processing or using for which purposes in Section B below. Where consent for the processing of your Personal Data is required you can find further information in Section C. below. 
 
