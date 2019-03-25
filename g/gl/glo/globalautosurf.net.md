@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the globalautosurf.net privacy policy that was archived on 2018-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181203162354id_/http%3A//globalautosurf.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the globalautosurf.net privacy policy that was archived on 2019-03-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190325221018id_/http%3A//globalautosurf.net/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Global Auto Surf
 
