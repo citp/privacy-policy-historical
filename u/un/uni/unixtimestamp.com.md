@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the unixtimestamp.com privacy policy that was archived on 2018-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181230140229id_/https%3A//www.unixtimestamp.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the unixtimestamp.com privacy policy that was archived on 2019-03-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190325025533id_/https%3A//www.unixtimestamp.com/privacy.php) for the most accurate reproduction.*
 
 # Dans Tools - About the site.
 
