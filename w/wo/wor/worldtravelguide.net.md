@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the worldtravelguide.net privacy policy that was archived on 2018-11-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181117002555id_/https%3A//www.worldtravelguide.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the worldtravelguide.net privacy policy that was archived on 2019-03-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190325053739id_/https%3A//www.worldtravelguide.net/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - World Travel Guide
 
@@ -228,4 +228,4 @@ If you have any questions about this Privacy Policy, please contact
 
 us:
 
-By email: enquiries@columbustravelmedia.com
+By email: travel.editorial@columbustravelmedia.com
