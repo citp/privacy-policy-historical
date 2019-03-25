@@ -1,68 +1,190 @@
-> *The following text is extracted and transformed from the fanexpocanada.com privacy policy that was archived on 2017-10-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171007064150id_/http%3A//fanexpocanada.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fanexpocanada.com privacy policy that was archived on 2019-03-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190325124756id_/https%3A//www.informaexhibitions.com/en/privacy-policy.html) for the most accurate reproduction.*
 
-# Privacy Policy | FAN EXPO CANADA
+# Informa Exhibitions - Privacy Policy
 
-This Privacy Policy governs the manner in which Informa Canada collects, uses, maintains and discloses information collected from users (each, a "User") of the [informacanada.com](http://www.informacanada.com/) website ("Site"). This privacy policy applies to the Site and all products and services offered by Informa Canada. It is designed to give Users information which will allow them to make an informed choice about using the Site.
+### **Introduction**
 
-**Personal identification information**
-
-We may collect personal identification information from Users in a variety of ways, including, but not limited to, when Users visit our site, fill out a form, and in connection with other activities, services, features or resources we make available on our Site. Users may be asked for, as appropriate, name, email address, mailing address. Users may, however, visit our Site anonymously. We will collect personal identification information from Users only if they voluntarily submit such information to us. Users can always refuse to supply personally identification information, except that it may prevent them from engaging in certain Site related activities.
-
-**Non-personal identification information**
-
-We may collect non-personal identification information about Users whenever they interact with our Site. Non-personal identification information may include the browser name, the type of computer and technical information about Users means of connection to our Site, such as the operating system and the Internet service providers utilized and other similar information.
-
-**Web browser cookies**
-
-Our Site may use "cookies" to enhance User experience. A cookie is a small text file written to an individual’s hard drive that contains the user ID. The cookies do not contain any personal information about Users and in themselves only record those areas of the Website that have been visited by the computer in question, and for how long. The use of cookies is now widespread by websites in order to track traffic flows. From time to time we may use cookies to enable us to offer certain time-saving features to our Users. These may be used to administer the Website, track Users’ movements and actions, and gather broad demographic information for aggregate use. The information gathered would then be used to improve the Website and the User experience.
-
-You can find out more about the use of cookies and how you can remove them by going to the Interactive Advertising Bureau website [http://allaboutcookies.org](http://allaboutcookies.org/) or [http://www.cookiecentral.com](http://www.cookiecentral.com/). Users may choose to set their web browser to refuse cookies, or to alert when cookies are being sent. If they do so, note that some parts of the Site may not function properly.
-
-**Hyperlinks**
-
-This Website contains links to other websites, including without limitation those websites of other companies within Informa Canada and wider Informa Plc. Their inclusion cannot be taken to imply any endorsement or validation by Informa Canada of the content of the said websites. Informa Canada is not responsible for the privacy practices, nor do we accept any liability in connection with the content of such websites including those of our group companies which have their own privacy policies tailored for the particular business practices and sectors in which they operate.
-
-**How we use collected information**
-
-Any Personal Data that you give us will be treated with the utmost care and security. It will not be used in ways to which you have not consented. Informa Canada may collect and use Users personal information for the following purposes:
-
-  * To improve customer service
-  * Information you provide helps us respond to your customer service requests and support needs more efficiently.
-  * To run a promotion, contest, survey or other Site feature
-  * To send Users information they agreed to receive about topics we think will be of interest to them. 
-  * To send periodic emails 
+As an international Business-to-Business Information Services Group, data and information is at the heart of what Informa does.  
+We take the privacy and protection of data and information seriously, and are committed to handling the personal information of all those we engage with, whether customers, suppliers, colleagues or any other community, responsibly and in a way that meets the legal requirements of the countries in which we operate.  
+As part of using the Informa Group’s products and services, browsing our websites and contacting the business, data and information is collected.  This privacy policy (the “Privacy Policy”) sets out Informa’s approach to safeguarding and maintaining the privacy of that personal information, and explains what data is collected, how it is used, the legal basis for its use, and the rights individuals have over that data.  
 
 
+### **About Informa**
 
-We may use the email address to respond to their inquiries, questions, and/or other requests. If Users decide to opt-in to our mailing list, they will receive emails that may include company news, updates, related product or service information, etc. If at any time Users would like to unsubscribe from receiving future emails, we include detailed unsubscribe instructions at the bottom of each email.
+Informa is an international Business-to-Business Information Services Group, operating in over 20 countries.  We serve commercial, professional and academic communities by helping them connect and learn, and by creating and providing access to content and intelligence that helps people and businesses work smarter and make better decisions faster.
 
-The information collected from this Website could be stored for as long as is required for the uses stated above.
+Informa is organised into four Operating Divisions; Academic Publishing (which trades as the Taylor & Francis Group), Business Intelligence, Global Exhibitions and Knowledge & Networking (which trades as KNect365).
 
-**How we protect your information**
+### **About Informa’s Global Exhibitions Division**
 
-We adopt appropriate data collection, storage and processing practices and security measures to protect against unauthorized access, alteration, disclosure or destruction of your personal information, username, password, transaction information and data stored on our Site.
+**Informa’s Global Exhibitions Division connects groups seeking to identify new contacts, develop relationships, improve and expand their business.   We bring communities together to share information, gain inspiration and secure new business, creating platforms for organisations to build profitable alliances, create value and drive commercial success.**  
+This Privacy Policy explains how the Global Exhibitions Division collects, uses and protects your personal information. This includes products and services provided by brands such as such as Arab Health, Cityscape, Vitafoods, SupplySide, China Beauty Expo, Fan Expo, Middle East Electricity, TOC, Intermodal, Monaco Yacht Show, World of Concrete and AMWC.  The Global Exhibitions Division’s central data team, which operates through Informa Middle East Limited (Dubai Branch), controls all decision-making with respect to how the Global Exhibitions Division processes personal information.  
+This Privacy Policy is issued on behalf of the Global Exhibitions Division, and where “Global Exhibitions”, "we", "us" or "our" appears, it includes the relevant Global Exhibitions Division brand/product/service processing your data.
 
-**Sharing your personal information**
+### **What we collect**
 
-We do not sell, trade, or rent Users personal identification information to others. We may share generic aggregated demographic information not linked to any personal identification information regarding visitors and users with our business partners, trusted affiliates and advertisers for the purposes outlined above. For example, we use certain third party service providers to assist us in providing these services to you, for example, email alerting, web casting and hosting.
+**This section explains the personal information that may be collected when using our products and services, and the other personal data we may receive from other sources.**
 
-**Changes to this privacy policy**
+In this Privacy Policy, the term “personal information” refers to the types of information we may collect and use, which includes:
 
-Informa Canada has the discretion to update this privacy policy at any time. When we do, we will revise the updated date at the bottom of this page. We encourage Users to frequently check this page for any changes to stay informed about how we are helping to protect the personal information we collect. You acknowledge and agree that it is your responsibility to review this privacy policy periodically and become aware of modifications.
+  * Contact details, such as your name, e-mail address, postal address and telephone number;
+  * Educational, nationality and professional background information;
+  * Usernames and passwords;
+  * Payment information, such as a credit or debit card number;
+  * Comments, feedback, posts and other content you submit;
+  * Interests and communication preferences, including marketing permissions where appropriate; and
+  * Location information (e.g. through mobile apps).
 
-**Your acceptance of these terms**
 
-By using this Site, you signify your acceptance of this policy. If you do not agree to this policy, please do not use our Site. Your continued use of the Site following the posting of changes to this policy will be deemed your acceptance of those changes.
 
-**Contacting us**
+We collect and use your personal information in the following main categories:
 
-If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this site, please contact us at:
+  * As customer/consumer data, related to transactions, prospective sales or analytics;
+  * As contact data, which includes academic and corporate customer contact data such as details of account manager/key contact at corporate customers, and subscriber/user data;
+  * In connection to an event, for instance exhibition or conference visitors, delegates, exhibitors, speakers and attendee data;
+  * Product/intelligence data, collected through customer and market research surveys; and
+  * Author, editor, learned society and lecturer data associated with the delivery of publishing contracts and services.
 
-**Informa Canada**
 
-[informacanada.com](http://www.informacanada.com/)  
-10 Alcorn Ave Suite 100 Toronto, ON, M4V 3A9  
-416-960-9030  
-[info@informacanada.com](mailto:info@informacanada.com)
 
-This document was last updated on March 11, 2015
+**Sensitive personal data**  
+If collecting or storing sensitive personal data such as information relating to health, beliefs or political affiliation, we typically ask for your explicit consent.  However, there are some situations where it will not be possible to request consent, such as if you have an accident at one of our events.  If this does occur, we will ensure your privacy rights are protected.  
+**Children’s personal data**  
+Our products and services are directed to academics and business professionals.  They are not intended for children under the age of 13 and we do not knowingly collect personal data from this age group.  If any information is collected from a child under the age of 13 without verification of parental consent, it will be deleted.
+
+### **How and why personal information is used**
+
+**This section explains in detail how and why we use personal information.**
+
+### **Lawful processing in Europe**
+
+Global Exhibitions collects and uses personal information.  The lawful bases we use for this activity in Europe, as required under European data protection laws, are:
+
+  * Where it is necessary for entering into or performing a contract with you ****
+  * Where we have a legitimate **** interest to do so, provided your rights do not override these **** interests
+  * Where you have consented to its use
+  * Where our colleagues believe it is in your vital interests to share your personal details, for example with emergency services
+  * Where required to comply with our legal obligations
+
+
+
+### **Product enquires, sales and administration**
+
+As part of a purchase, product enquiry, request for information and for account administration, we collect information such as your name, country, job title, company information or academic affiliation, postal address, e-mail address and telephone number.  
+If you have made an enquiry about us or our products or services, either online or over the phone, we will use your personal information to respond to the enquiry or to take other steps at your request, before you enter into a contract.  For example, we collect the e-mail addresses and additional contact details of those who send e-mails to request information.  Where a sales representative speaks to you over the phone, the calls are recorded for training and monitoring purposes only.  
+If you have registered for or purchased a product or services, including on a trial basis, your personal information will be used to provide that product or service, communicate about it and handle payments, as is necessary for the performance of the contract entered into.  
+For purchases, payment information, including credit/debit card number/bank details and billing addresses are also collected.  Where payment card processors are used to facilitate payment card transactions on our website, your data will be collected and used according to that data processors’ privacy policy.   
+If your personal information is relevant to certain products and is freely available through public sources, such as on a website related to your work or profession, we may use this personal information for providing customers with our products, as part of our legitimate interests as a commercial organisation.
+
+### **Event and exhibition management**
+
+If you have agreed to participate in one of our events as a speaker, sponsor, exhibitor or attendee, personal information is used in connection with the running of the event, to handle payments or for other purposes, as is necessary for performing the contract entered into.  We will also use your personal information to maintain our databases, assess your qualities as a speaker or sponsor/exhibitor, promote events and encourage further engagement at our events, as part of the legitimate interests we have as a commercial organisation.   
+In addition, we sometimes take photos and videos at our events, which may feature attendees, speakers, sponsors or exhibitors.  Where photos and videos are taken that feature you as an attendee, speaker, sponsor or exhibitor, we may use those photos and videos for promotional purposes.
+
+### **Marketing**
+
+We will use your personal information to send you newsletters, offers or other marketing e-mails to keep you up to date with our news, events and products that may be of interest.  Depending on the nature of your interaction with us and the laws of the country where you live, you may have actively given your consent for this by opting in, or we may be entitled to rely on your implied consent or our legitimate interests.  The opportunity to opt out of future marketing e-mails will always be provided, and information on how to do this given when your personal information is collected and on every marketing e-mail sent.  You have the right to amend your marketing preferences at any time.  
+To make such a request, please send an e-mail to: [gedatateam@informa.com](mailto:gedatateam@informa.com) or write us at: GE Database Team Manager, Global Exhibitions, L20, World Trade Center Tower, PO Box 9428, Dubai, United Arab Emirates.  
+
+### **Customer and prospects management (including analytics and product management)**
+
+We may use your personal information, combined with publicly available data and your demographic data, to deliver products and services, to choose relevant offers that may be of interest to you, to improve our existing products and services, and to develop new products and services, as part of our legitimate interests as a commercial organisation.  This may include automated profiling and campaign management techniques.
+
+### **Mobile applications and website analytics (including location data)**
+
+We may combine visitor session information, or other information collected through tracking technologies with personally identifiable information, to understand and measure your online experiences and determine what products, promotions and services are likely to be of interest.   
+Technical methods are also used in HTML e-mails sent to visitors, for purposes including: (i) to determine whether visitors have opened or forwarded e-mails and/or clicked on links in those e-mails, (ii) to customise the display of banner advertisements and other messages after closing an e-mail, and (iii) to determine whether a visitor has made an enquiry or a purchase in response to a particular e-mail.  
+In compliance with the California Online Privacy Protection Act (CalOPPA) (e.g. Browsers Do Not Track Signals) while we strive to offer you choice when using our website and mobile applications, we do not promise that we will be able to receive or honor web browser Do Not Track signals.
+
+### **Bulletin boards or chat areas**
+
+When you disclose personal information on any public bulletin board or chat areas of this website, or any other website used as a result of use of this website, such personal information can be collected and used by anyone who views that board or area.  This may result in unsolicited messages from other participants or other parties, which we are not responsible for.  
+Where you engage on our customer enquiry chat areas, we will use any information provided to help recommend our products and/or assist with confirming any order you wish to place.
+
+### **Automated decision-making (including profiling)**
+
+We use algorithm-based technologies to personalise dynamic web content based on your explicit and/or implicit interests.  We carry out general profiling such as segmentation, non-automated and automated decision-making based on profiling for the purpose of providing you with a more relevant experience and for the purposes of our legitimate interests as a commercial organisation.  Solely automated decision making is never used in any way that produces a legal or similarly significant effect.  
+Depending on the laws of the country where you live, you may have rights related to our decision.  For example, if you live in the European Union, you may have the right not to be subject to our decision, or you may have the right to insist on human intervention in the process, express your point of view or contest the decision.  If you wish to exercise any such right, please contact us via one of the methods set out in the ‘Contacting us’ section below.  In some cases, we may have the right to continue with our decision, in accordance with applicable laws.  This will be explained if it is the case.  Otherwise, we will respond to your request as promptly as reasonably possible.
+
+### **Compliance with our legal obligations**
+
+To ensure compliance with international trade sanction laws and regulations, we screen customers, vendors and suppliers against US, OFAC, BIS, UN, EU and UK sanctions lists.  Should any screening checks flag an issue where we cannot continue in a contract with a customer or supplier, they will always be informed. 
+
+### **How we protect personal information**
+
+**Any personal information given to us will be treated with the utmost care and security.   This section sets out some of the security measures in place.  **  
+A variety of physical and technical measures is used to keep data safe and prevent unauthorised access to, or use or disclosure of personal information.   
+Electronic data and databases are stored on secure computer systems and we control who has access to information, using both physical and electronic means.  Our colleagues receive data protection training, and we have detailed security and data protection policies that colleagues are required to follow when handling personal data. ****  
+All reasonable steps are taken to ensure that your personal information is kept secure from unauthorised access, but we cannot guarantee it will be secure during the transmission process to this website because this transmission is not controlled by us.  We make use of HTTPS (HTTP Secure) whereby the communication protocol is encrypted via Transport Layer Security for secure communication over a computer network.  The website is loaded via HTTPS, represented by the lock icon in your web browser, which ensures the transmission is secure and is demonstrated by a certificate issued by an official security certificate authority to Global Exhibitions. 
+
+### **International transfer of personal information**
+
+As an international business and because of the technologies we use, personal information may be accessed by our colleagues and third-party service providers from locations outside of the European Economic Area, whose data protection laws may not be as extensive as those in Europe.  
+To ensure the same level of protection is in place when processing is conducted outside the European Economic Area, we use appropriate safeguards approved by the European Commission.  
+We apply appropriate protection to make sure your personal data remains adequately protected and is treated in line with this Privacy Policy.  Informa has international data transfer agreements between its companies and with relevant third-party service providers based on standard contractual clauses approved by the European Commission.
+
+### **Cookies**
+
+A cookie is a small text file containing a user ID that is automatically placed on a user’s computer or other device when visiting a website.  Cookies record the pages visited and the actions taken on a website, but do not contain any personal information.  From time to time, we may use cookies for purposes including administering the website; tracking your activity on the website; gathering broad demographic information for aggregate use to improve the website; and offering time-saving or personalised features on the website.  For more information, please visit our[  _Cookie Policy._](https://web.archive.org/en/cookie-policy.html)
+
+### **Third-party links**
+
+This website contains links to websites of other businesses, including potentially websites of other businesses within Informa.  These businesses will have their own privacy policies, tailored to their particular business practices and the sectors in which they operate, and if following those links, we recommend reviewing the privacy policy of each website to understand how personal data is used in that instance.  The inclusion of links to these websites does not imply an endorsement or validation of their content, and we are not responsible for their privacy practices, nor do we accept any liability in connection with the content on such websites. ****
+
+### **Who we share personal information with**
+
+**As an international company, to provide you with products and services we may share your information for specific reasons.   This section explains how and why we share personal data with other companies within Informa, suppliers and other third parties.**  
+**Sharing with Informa Group companies**  
+We may share your personal information with certain other companies within Informa for specific purposes.  For example, other Informa companies may assist in providing products and services to you, carry out internal analysis of the usage of products and services, or offer relevant products and services which may be of interest.  
+**  
+Sharing with service providers**  
+We may share personal information with third parties to assist in providing products and services to you.  These third party data processors are bound to compliance with data protection legislation through contracts that protect the personal information shared with us.  They may include: IT and marketing technology host suppliers, web and data hosting providers, mailing houses, ad servers, logistics and general services contractors, onsite health and safety partners, event registration partners, sales platform providers and other event collaboration partners. 
+
+**Sharing with other organisations**  
+We may share your personal information to our trusted partner organisations for their marketing purposes in accordance with local data laws and where appropriate your permissions.  If your personal information is subject to European data protection laws, it will not be shared with third parties for their marketing purposes unless you have given consent to do this.  
+We may share your personal information with third parties outside the Informa Group in the event of a sale, merger, acquisition, partnership, joint venture, or negotiations related to the same with respect to all or part of our business.  
+In some circumstances, we may be legally required to disclose your personal information, because a court, the police, another judicial or law enforcement body, or government entity has asked us for it.  
+For events specifically held in regions of the Middle East, we are required by law to supply your personal information (full name, DOB, nationality and e-mail address) to the Dubai Department of Tourism and Commerce Marketing (DTCM) and Abu Dhabi Municipality.  These government bodies state they will not disclose data to any third parties.  Global Exhibitions cannot accept any liability in this regard.
+
+### **How long information is kept**
+
+**We will only retain your personal information for as long as is necessary and as permitted by applicable laws.   **  
+We will retain your personal information while we are using it, as described in the section above and may continue to retain it after these uses have ended where we have a legitimate business purpose.  For example, if you have opted out of marketing communications from us, we will retain limited details about you to ensure the opt out request is honoured.  We may also continue to retain your personal information to meet our legal requirements or to defend or exercise our legal rights.  
+The length of time for which we will retain personal information will depend on the purposes for which it is retained.  After we no longer need to retain your personal information, it will be deleted or securely destroyed. 
+
+### **How to update your information and marketing preferences**
+
+**We want to ensure you remain in control of your personal information.   We try to ensure that the personal information held about you is accurate and up-to-date, and will always give the opportunity to opt out of future marketing communications.**  
+Information on how to opt out will be given to you when we collect your personal information and specified on every marketing e-mail sent to you.  If at any stage you would like to update or correct such personal information, or opt out of future marketing communications, e-mail: [gedatateam@informa.com](mailto:gedatateam@informa.com) or write to us at: GE Database Team Manager, Global Exhibitions, L20, World Trade Center Tower, PO Box 9428, Dubai, United Arab Emirates.
+
+### **Your rights**
+
+**Global Exhibitions operates in countries with data protection laws that may provide individuals the right to be able to access and control their information.   We always will enable you to exercise the rights provided by data protection laws.**  
+EU data protection laws give individuals a number of rights, where their data and information is collected and used by companies that are active and operating in Europe.  Under the General Data Protection Regulation, these are:
+
+  * The right to confirmation of whether or not we have your personal data and, if we do, to obtain a copy of the personal information we hold.  This is known as a subject access request;
+  * The right to have inaccurate data rectified;
+  * The right to have your data erased.  This does not however apply where it is necessary for us to continue to use the data for a lawful reason;
+  * The right to request the restriction or suppression of your personal data (such as, we will stop using the data but we may continue storing it);
+  * The right to obtain your personal data that you have provided to us, on the basis of consent or performance of a contract, and where technically feasible, transmitted in a common electronic format to you or directly to another company;
+  * The right to object to the use of your data.  Specifically, you have the right to object to our use for marketing and in relation to automated decision making, including profiling where there may be legal or similarly significant effects.
+
+
+
+There are exceptions to the rights above.  Where you make a request to us as part of these rights, we will always try to respond to your satisfaction, although there may be situations where we are unable to do so.  
+Depending on the laws of the country where you live, you may have other rights in respect of your personal information.  If you wish to exercise any legal right in respect of your personal information, please contact us via one of the methods set out in the ‘Contacting us’ section below.   
+In some cases, we may be entitled to decline a request you have made regarding your personal information, in accordance with applicable laws.  We will explain if that is the case.  Otherwise, we will meet your request as promptly as we reasonably can.  If you have requested that we stop sending you marketing messages, please note that you may still receive them for a short period while the request is processed.  
+If you would like further information on your rights or wish to exercise them, please write to the Informa Group Data Protection Officer at 5 Howick Place, London, SW1P 1WG or e-mail [compliance.officer@informa.com](mailto:compliance.officer@informa.com).
+
+### **Contacting us**
+
+**If you have any questions about this Privacy Policy, you can contact the Informa Group Data Protection Officer.**  
+If you have any questions about this Privacy Policy or our use of your information, e-mail [gedatateam@informa.com](mailto:gedatateam@informa.com) or write to our Global Database Team at the below address:  
+GE Database Team Manager, Global Exhibitions, L20, World Trade Center Tower, PO Box 9428, Dubai, United Arab Emirates.  
+You can also contact the Informa Group Data Protection Officer at 5 Howick Place, London, SW1P 1WG or e-mail [compliance.officer@informa.com](mailto:compliance.officer@informa.com).  
+We hope to resolve any privacy concerns you may have.  
+If you are not happy with our response, or you believe that your data protection or privacy rights have been infringed, you can complain to any supervisory authority or other public body with responsibility for enforcing privacy laws.  In the UK, the UK Information Commissioner’s Office regulates and enforces data protection law.  Their procedures can be found at [www.ico.org.uk](http://www.ico.org.uk/).  
+**Changes to this Privacy Policy**  
+To keep up with changing legislation, best practice and changes in how we process personal data, this Privacy Policy may be revised at any time without notice by posting an updated version on this website.  Checking back periodically will mean you are aware of any changes.  This Privacy Policy should be read in conjunction with, and is also subject to, the website’s [Terms of Use](https://web.archive.org/en/privacy-policy.html).
+
+This Privacy Policy was last updated on 24 May 2018.
