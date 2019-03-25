@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the healthdirect.gov.au privacy policy that was archived on 2018-09-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180912065616id_/https%3A//www.healthdirect.gov.au/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the healthdirect.gov.au privacy policy that was archived on 2019-03-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190325220556id_/https%3A//www.healthdirect.gov.au/privacy-policy) for the most accurate reproduction.*
 
 # Privacy policy | healthdirect
 
@@ -36,5 +36,5 @@ Contact our Privacy Officer about privacy-related matters:
 **Postal address:**  
 Privacy Officer  
 Healthdirect Australia  
-PO Box A835  
-Sydney South NSW 1235
+PO Box K411  
+Haymarket NSW 1240
