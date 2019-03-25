@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the phoenixrealestateguy.com privacy policy that was archived on 2017-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170603031517id_/http%3A//www.phoenixrealestateguy.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the phoenixrealestateguy.com privacy policy that was archived on 2019-03-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190325115920id_/https%3A//www.phoenixrealestateguy.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - The Phoenix Real Estate Guy
 
@@ -40,13 +40,13 @@ a. We use the information we collect to (a) provide, maintain, and protect the S
 
 b. Third Parties: When you register with the Sites, you explicitly authorize us to share your information with our email marketing partners to contact you via email, SMS, telephone and/or direct mail. We may also share your information collected on the Services with our subsidiaries and other affiliated companies, and with other trusted vendors and business partners. Such business partners include companies who provide business services to us or on our behalf, such as to market products or services to you, monitor Services activity, help to maintain our customer database, and administer e-mails, surveys or other contests.
 
-c. Opt-Out: If you decide that you are no longer interested in receiving sms or email communications from us, you may follow the instructions in our sms or emails to unsubscribe from our email list or by emailing us at: info@suitedconnector.com. If you wish to opt-out of disclosure and to be excluded from our mailing list, please email us at: info@suitedconnector.com.
+c. Opt-Out: If you decide that you are no longer interested in receiving sms or email communications from us, you may follow the instructions in our sms or emails to unsubscribe from our email list or by emailing us at: [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection) If you wish to opt-out of disclosure and to be excluded from our mailing list, please email us at: [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection)
 
 d. Legal Compliance: We also reserve the right to disclose your information in good faith as required by law, in response to legal process including law enforcement requests, and with any person or entity that may acquire all or any part of our business or assets, in connection with any change in control of us, and where needed to prevent fraud and to protect the safety, property, or legal rights of users of the Services or our affiliates.
 
 **4.0 Unsubscribe, Opt Out or Revoke**
 
-a. You may revoke consent at any time for any use of PII collected from you under this Privacy Policy. To revoke consent, indicate by emailing us at info@suitedconnector.com with the word “revoke Personal Information” in the subject line.
+a. You may revoke consent at any time for any use of PII collected from you under this Privacy Policy. To revoke consent, indicate by emailing us at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection) with the word “revoke Personal Information” in the subject line.
 
 **5.0 Privacy Policies of Third Parties**
 
@@ -60,9 +60,9 @@ c. We are not responsible for the policies or practices of third parties.
 
 a. We will permit you to change your profile settings. Even after you remove your information from your profile, copies of your information may remain viewable elsewhere to the extent it has been shared with others or it was copied or stored by other users. We may also be required to retain your information by law or for legitimate business purposes, such as to prevent identity theft or other misconduct.
 
-b. We will permit you to request a copy of your PII that we have collected about you by emailing us at info@suitedconnector.com.
+b. We will permit you to request a copy of your PII that we have collected about you by emailing us at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection)
 
-c. You can also correct factual inaccuracies in this information by emailing us at info@suitedconnector.com.
+c. You can also correct factual inaccuracies in this information by emailing us at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection)
 
 **7.0 Storage and Security**
 
@@ -80,7 +80,7 @@ d. We also are not responsible for the actions of any third parties that may rec
 
 **8.0 Minors and Privacy Issues**
 
-a. Children’s Online Privacy Protection Act- This site is intended to be used by people the age of 18 and older. We do not knowingly allow any users under the age of thirteen to use our service. However, if you become aware of the existence of a user who is under the age of thirteen, or that an individual under thirteen has provided their information to us, contact us immediately with details at info@suitedconnector.com. If you have been reported as being below thirteen by another person, we may request that you verify your age to us, including providing us a copy of your photo ID as a condition of your continued use of our service.
+a. Children’s Online Privacy Protection Act- This site is intended to be used by people the age of 18 and older. We do not knowingly allow any users under the age of thirteen to use our service. However, if you become aware of the existence of a user who is under the age of thirteen, or that an individual under thirteen has provided their information to us, contact us immediately with details at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection) If you have been reported as being below thirteen by another person, we may request that you verify your age to us, including providing us a copy of your photo ID as a condition of your continued use of our service.
 
 b. No part of the Services is designed to attract anyone under the age of 18.
 
@@ -88,7 +88,7 @@ c. Children under the age of 18 may not use the Services.
 
 d. If you are a parent or guardian and believe that your child under the age of 13 has provided personal information to us, you may contact us to request this information be deleted.
 
-e. California Privacy Rights-We permit residents of the State of California to use its Service, and complies with the California Business and Professions Code §§ 22575-22579. If you are a California resident you may request certain information regarding our disclosure of personal information to any third parties for their direct marketing purposes. Various provisions throughout this Privacy Policy address requirements of the Californian privacy statutes. In summary, you must presume that we collect electronic information from all visitors. You may contact us at info@suitedconnector.com with any questions.
+e. California Privacy Rights-We permit residents of the State of California to use its Service, and complies with the California Business and Professions Code §§ 22575-22579. If you are a California resident you may request certain information regarding our disclosure of personal information to any third parties for their direct marketing purposes. Various provisions throughout this Privacy Policy address requirements of the Californian privacy statutes. In summary, you must presume that we collect electronic information from all visitors. You may contact us at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection) with any questions.
 
 **9.0 Specific Industry Disclaimers**
 
@@ -118,6 +118,6 @@ d. If a change would authorize the use of your PII for a new or materially diffe
 
 **11.0 Contact Information**
 
-a. If you have any comments or questions regarding our Privacy Policy, or to report abuse of any PII collected under this Privacy Policy, please email us at info@suitedconnector.com or write to us with your specific instructions at: Suited Connector, LLC Attention: Consumer Services, 8149 N. 87th Place, Suite 211 Scottsdale, AZ 85258.
+a. If you have any comments or questions regarding our Privacy Policy, or to report abuse of any PII collected under this Privacy Policy, please email us at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection) or write to us with your specific instructions at: Suited Connector, LLC Attention: Consumer Services, 8149 N. 87th Place, Suite 211 Scottsdale, AZ 85258.
 
 b. For more information about protecting your privacy, you may wish to visit: http://www.ftc.gov.
