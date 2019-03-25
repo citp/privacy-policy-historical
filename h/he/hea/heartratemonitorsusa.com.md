@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the heartratemonitorsusa.com privacy policy that was archived on 2017-02-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170222011043id_/https%3A//www.heartratemonitorsusa.com/pages/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the heartratemonitorsusa.com privacy policy that was archived on 2019-03-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190325192040id_/https%3A//www.heartratemonitorsusa.com/pages/privacypolicy) for the most accurate reproduction.*
 
-# Privacy Policy – HeartRateMonitorsUSA.com
+# Privacy Policy — HeartRateMonitorsUSA.com
 
 PRIVACY STATEMENT
 
@@ -21,7 +21,7 @@ If we ask for your personal information for a secondary reason, like marketing, 
 How do I withdraw my consent?  
 If after you opt-in, you change your mind, you may withdraw your consent for us to contact you, for the continued collection, use or disclosure of your information, at anytime, by contacting us at sales@hrmusainc.com or mailing us at:  
 HeartRateMonitorsUSA.com  
-1044 Pulinski Rd Warminster Pennsylvania US 18974
+49 Richard Rd Warminster Pennsylvania US 18974
 
 SECTION 3 - DISCLOSURE
 
