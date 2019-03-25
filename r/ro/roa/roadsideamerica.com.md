@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the roadsideamerica.com privacy policy that was archived on 2018-11-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181115105649id_/https%3A//www.roadsideamerica.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the roadsideamerica.com privacy policy that was archived on 2019-03-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190325063703id_/https%3A//www.roadsideamerica.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy. Roadside America
 
