@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the framedestination.com privacy policy that was archived on 2018-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181231165724id_/https%3A//www.framedestination.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the framedestination.com privacy policy that was archived on 2019-03-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190325125607id_/https%3A//www.framedestination.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
