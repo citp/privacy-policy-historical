@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the dinartrade.com privacy policy that was archived on 2015-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150315035530id_/https%3A//www.dinartrade.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dinartrade.com privacy policy that was archived on 2019-03-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190325084240id_/https%3A//www.xchangeofamerica.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Xchange of America
+# Privacy Policy « XCHANGE OF AMERICA
 
 **What Personal Information Does Xchange of America Gather About Me?**
 
@@ -16,7 +16,8 @@ The Help feature on most browsers will tell you how to prevent your browser from
 
 **Does Xchange of America share information it gathers?**
 
-Information about our customers is an important part of our business, and will not sell it to others. We share customer information only within the Xchange of America family.  Because we are a licensed financial institution customer information is highly protected.
+Information about our customers is an important part of our business, and will not sell it to others. We share customer information only within the Xchange of America family.  Because we are a licensed financial institution customer information is highly protected. We comply with the Gramm-Leach-Bliley Act and will update customers to any changes to our information sharing policy.  
+
 
 **Protection of Xchange of America and Release of Personal Data**
 
