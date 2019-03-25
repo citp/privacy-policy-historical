@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the traffdaq.com privacy policy that was archived on 2018-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181213155320id_/http%3A//www.traffdaq.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the traffdaq.com privacy policy that was archived on 2019-03-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190325161111id_/http%3A//traffdaq.com/privacy-policy) for the most accurate reproduction.*
 
 # TRAFFDAQ - Multiply Your Traffic, Guaranteed!
 
