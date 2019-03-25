@@ -1,8 +1,10 @@
-> *The following text is extracted and transformed from the hersheys.com privacy policy that was archived on 2018-08-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180817040215id_/https%3A//www.hersheys.com/en_us/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hersheys.com privacy policy that was archived on 2019-03-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190325191811id_/https%3A//www.hersheys.com/en_us/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
 Effective Date 12/30/2016 (last updated 5/25/2018)
+
+[](http://www.caru.bbb.org/general.aspx?id=1680181193)
 
 ## Privacy Policy applies to the sites and apps where it appears
 
