@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the marmeladies.com privacy policy that was archived on 2009-09-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090922030908id_/http%3A//marmeladies.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the marmeladies.com privacy policy that was archived on 2019-03-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190325192023id_/https%3A//marmeladies.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -27,12 +27,15 @@ MarmeLadies gathers information about members in accordance with the rules, dete
 MarmeLadies has no intention to receive information from minors. According to the Charter, MarmeLadies forbids them using the Site.   
 3\. Storage of information about members  
 MarmeLadies gathers information about members in accordance with the rules, determined by the present Agreement. All information collected, stored and processed about members by MarmeLadies is considered to be restricted access information.   
-4\. Information protection  
+4\. Use of Cookies.   
+Marmeladies website uses cookies. By using the website and agreeing to this Terms, you consent to our use of cookies in accordance with the terms of this agreement. Cookies are small text files that are placed on your computer or device by the websites that you visit. They are widely used in order to make websites work and to provide information to the owner of the website. Cookies do not contain any information that personally identifies you. These cookies are essential for the appropriate running of the site and are used to manage the login and the access to reserved functions of the site.   
+You can accept or reject all cookies or to accept or reject specific cookies. You may also be able to set your browser to alert you every time a cookie is offered. Be advised that disabling all or part of the cookies can compromise the use of the functionality of the site reserved to registered users. In order to remove or block the cookies, follow the instruction of your browser in “Help” section.  
+5\. Information protection  
 MarmeLadies undertakes all reasonable measures to protect information about its members from destruction, distortion or disclosure.   
-5\. Access to information about members  
+6\. Access to information about members  
 Members, interested in acquaintance, have access only to the information about other members of the Site.   
 Information about other members is not accessible to the members of MarmeLadies. An exception is made for general data, which characterize MarmeLadies as a whole, for example, information about distribution of the members by country, age, occupation, education, etc.   
-6\. Restriction of using information from members profiles  
+7\. Restriction of using information from members profiles  
 MarmeLadies uses information from members' profiles (login and password, email address) only for authorization of Internet resource access. Responsibility for the safety of the provided information is carried by the member. Any actions, conducted with the use of such information, are considered by MarmeLadies as the actions, conducted by the member. Other information from a member's profile is not used by MarmeLadies for distributing information to members, except for the cases stipulated by the Site usage rules, or by members' obvious inquiry.
 
 **IV. Miscellaneous**  
@@ -41,6 +44,6 @@ MarmeLadies considers the references, associated with the present Agreement, inc
 2\. Correspondence to the MarmeLadies address  
 All correspondence, sent by members to the MarmeLadies address is perceived by MarmeLadies as restricted access information and can be published only with the consent of the member. Addresses, personal data and other information about the members, who have sent these letters, cannot be used without their special consent for other purposes, but only to provide answers on the subject of a received letter.   
 3\. Access to the text of the Agreement  
-The present Agreement is an open and publicly accessible document. The current edition of the Agreement is placed in the Internet and has the following permanent address – <http://marmeladies.com/privacy.php>   
+The present Agreement is an open and publicly accessible document. The current edition of the Agreement is placed in the Internet and has the following permanent address – [https://marmeladies.com/privacy.php](https://web.archive.org/privacy.php)   
 4\. MarmeLadies right to modify the Agreement   
-MarmeLadies reserves the right to modify the present Agreement, and notify members about such modifications at the address, where the present Agreement is placed, not later than 7 days before the respective alterations will come into force. 
+MarmeLadies reserves the right to modify the present Agreement, and notify members about such modifications at the address, where the present Agreement is placed, not later than 7 days before the respective alterations will come into force. This policy was last revised on May 11, 2018 
