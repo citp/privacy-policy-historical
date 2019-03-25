@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the stephenking.com privacy policy that was archived on 2018-09-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180924094312id_/http%3A//www.stephenking.com/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the stephenking.com privacy policy that was archived on 2019-03-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190325231101id_/https%3A//stephenking.com/privacy_policy.html) for the most accurate reproduction.*
 
 # StephenKing.com - Privacy Policy
 
