@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the swissotel.com privacy policy that was archived on 2018-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181223221120id_/https%3A//www.accorhotels.com/security-certificate/index.en.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the swissotel.com privacy policy that was archived on 2019-03-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190325034914id_/https%3A//www.accorhotels.com/security-certificate/index.en.shtml) for the most accurate reproduction.*
 
 # Accor Hotels : GLOBAL HOTEL GUEST PRIVACY POLICY
 
