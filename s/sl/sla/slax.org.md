@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the slax.org privacy policy that was archived on 2018-10-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181019221701id_/http%3A//www.slax.org/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the slax.org privacy policy that was archived on 2019-03-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190325110342id_/https%3A//www.slax.org/privacy.php) for the most accurate reproduction.*
 
 # Privacy - Slax Linux
+
+[](https://web.archive.org/)
 
 Your privacy is important to us. So we've developed a Privacy Policy that covers how we collect, use, disclose, transfer, and store your information. Please take a moment to familiarize yourself with our privacy practices and let us know if you have any questions. 
 
