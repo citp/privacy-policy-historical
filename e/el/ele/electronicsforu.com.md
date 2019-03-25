@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the electronicsforu.com privacy policy that was archived on 2017-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171210041827id_/https%3A//electronicsforu.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the electronicsforu.com privacy policy that was archived on 2019-03-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190325054516id_/https%3A//electronicsforu.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Electronics For You
 
@@ -38,7 +38,9 @@ If you prefer, you can choose to have your computer warn you each time a cookie 
 
 Information may be shared with third parties who assist us in operating our website or events, conducting our business, or servicing you, so long as those parties agree to keep this information confidential. We may also release your information when we believe release is appropriate to comply with the law, enforce our site policies, or protect ours or others rights, property, or safety.
 
-**Third party links** Occasionally, at our discretion, we may include or offer third party products or services on our website. These third party sites have separate and independent privacy policies. We therefore have no responsibility or liability for the content and activities of these linked sites. Nonetheless, we seek to protect the integrity of our site and welcome any feedback about these sites.
+**Third party links**
+
+Occasionally, at our discretion, we may include or offer third party products or services on our website. These third party sites have separate and independent privacy policies. We therefore have no responsibility or liability for the content and activities of these linked sites. Nonetheless, we seek to protect the integrity of our site and welcome any feedback about these sites.
 
 **Online Privacy Policy Only**
 
@@ -52,4 +54,4 @@ By using our site, you consent to our [online privacy policy](http://www.freepr
 
 If we decide to change our privacy policy, we will post those changes on this page.
 
-This policy was last modified on 18th June 2014
+This policy was last modified on 7th August 2018
