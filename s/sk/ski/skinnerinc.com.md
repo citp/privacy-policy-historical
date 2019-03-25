@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the skinnerinc.com privacy policy that was archived on 2018-09-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180907102721id_/https%3A//www.skinnerinc.com/connect/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the skinnerinc.com privacy policy that was archived on 2019-03-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190325085120id_/https%3A//www.skinnerinc.com/connect/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Skinner Auctioneers
 
