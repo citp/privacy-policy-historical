@@ -1,138 +1,205 @@
-> *The following text is extracted and transformed from the spredfast.com privacy policy that was archived on 2018-01-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180130134650id_/https%3A//www.spredfast.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the spredfast.com privacy policy that was archived on 2019-03-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190325143644id_/https%3A//www.spredfast.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Spredfast
 
-**SPREDFAST, INC.  
-PRIVACY POLICY**
+Effective Date: 11/30/18
 
-_Last updated January 2018_
+[](https://privacy.truste.com/privacy-seal/validation?rid=f626c3a0-4674-4a52-b5bd-eac5d2529682)
 
-Spredfast, Inc., together with Spredfast GmbH, Spredfast Limited, Spredfast Pty Ltd and any of its other wholly owned subsidiaries now or existing in the future (collectively, “ **Spredfast** ” or “ **we** ” or “ **us** ”) provide an open social marketing platform and related services, including software as a service (“ **SaaS** ”) applications, tools and platform, which help connect our Customers to the people they care about the most (collectively, “ **Spredfast Services** ”). 
+##  About Lithium
 
-This Privacy Policy (“ **Privacy Policy** ”) governs our privacy practices for our websites and mobile apps as well as the privacy practices applicable to our Customers in their use of Spredfast Services.  As used in this Privacy Policy, the term “ **Customers** ” refers to our Customers who have purchased or are otherwise authorized to use Spredfast Services (including all of their authorized users), the term “ **Visitors** ” shall refer to both the users of our websites and our Customers and the term “ **Website** ” shall include [www.spredfast.com](http://www.spredfast.com/), any website operated by Spredfast on which this Privacy Policy is posted, as well as mobile and other applications.   Use or access of any of our Websites or use or deployment of a Spredfast Service constitutes acceptance of this Privacy Policy on behalf of the Customer or Visitor.
+This Privacy Notice applies to [www.lithium.com](https://www.lithium.com/) (“Site”) owned and operated by Lithium Technologies, LLC, Spredfast, Inc., and its wholly owned subsidiaries (“we” or “Lithium”) and to the online communities and social media management products that Lithium provides to its customers (“Service(s)”). This Privacy Notice describes how Lithium collects, uses, shares and secures your personally identifying information on this Site, and as a data processor on behalf of our customers through the Services we provide to them. The use of information collected through our Services shall be limited to the purpose of providing the Service for which the customer has engaged Lithium, as agreed in a signed contract between Lithium and customer. This Privacy Notice also describes the choices available to you regarding the use of your personally identifying information by Lithium and options available to you to access your information and request correction or deletion should you choose to do so.
 
-**Overview & Purposes for Data Collection**
+Lithium does not send unsolicited emails or sell any personally identifying information users may have submitted to us though our website. In addition, for lead generation or marketing purposes, we may ask individuals interested in obtaining more information about Lithium products to voluntarily submit their contact information to us.
 
-Spredfast is committed to protecting the privacy of Visitors and Customers.  We collect information from Visitors and Customers for legitimate business purposes, primarily to operate our Websites and to provide, and improve, Spredfast Services. 
+##  Information Collected or Tracked by Lithium
 
-We also process content on behalf of our Customers as their data processor.  This content consists of content published or generated through the Spredfast Services, such as content Customers collect from Facebook, Twitter or other social media networks.  It is our Customers, and not Spredfast, who control how such information and content is collected and used.  Spredfast processes (rather than controls) such content in accordance with instructions from Customers. 
+###  Information Submitted to Lithium
 
-Unless otherwise agreed to in writing with a Visitor, we will process and store data in the United States.
+Lithium receives user-submitted information from users wishing to be sent additional promotional information on Lithium products. Personally identifying information would include information such as name, phone number, company, title, and email address.
 
-The Spredfast Services enable Customers to connect other accounts they may have on social media networks or apps, such as Facebook and Twitter.  This Privacy Policy does not govern the collection of content by other websites, apps, networks or otherwise which is not published or generated through the Spredfast Services, except to the extent that we act as a processor with respect to such content.  Our Customers are required to abide by the applicable policies and requirements of social media networks or any other websites or apps used in connection with the Spredfast Services.  
+##  Information Submitted to Lithium by Candidates for Employment
 
-  1. **Information We Collect**
+As part of its recruiting activities, Lithium also receives personal information from users submitting job application materials to be considered for Lithium employment (“Recruiting Data”). This Recruiting Data includes anything that an individual chooses to include a resume or application, and typically consists of job history, education, personal interests and activities, name, email address, phone number, and residence address. Further, Lithium collects gender, race, and military status from employment candidates to assist Lithium in its equal employment opportunity compliance and related statistical tracking to help our diversity efforts. In connection with job screening activities, Lithium also requests personal information sufficient to have background checks conducted prior to hiring.
 
+##  Information Indirectly Submitted by Users to Lithium
 
+We also use cookies and collect some information passively such as the client browser type and IP address information. This information is gathered for all users to our website to track usage and provide a personalized experience. More information on cookies and similar technologies can be found below.
 
-The specific types of information we receive from those who provide content through one of our Spredfast Services include the following:
+##  Information Collected from Other Social Media Sites
 
-**Information Provided to Us by Individuals**
+Lithium collects data about individuals that is made available to Lithium and other third parties by social media sites such as Twitter, Facebook, Instagram, Pinterest, YouTube, Google+ and others through APIs or social media monitoring technology (“Third Party Sites”). This data includes names, user IDs, social media handles, gender, and other information that individuals choose to make publicly available on social media sites. Lithium also monitors the public activities of individuals on social media sites, including posts, blogs, tweets, and profile information, including such social media messages directed at our customers (the “brands” that are interested in understanding their consumer customers in order to serve them better).
 
-**Personally Identifiable Information.**   When Visitors sign up on our website to receive information or to otherwise engage with us or when Customers use Spredfast Services, it is their choice to do so and if they so choose, such Visitors or Customers may be required to provide his or her name, address, telephone number, email address, or other types of personally identifiable information (collectively, “ **Personally Identifiable Information** ”).
+Additionally, when a customer provides or accesses information through one of our Services, we may receive information from the customer’s input of,in response to, or by way of interaction with, content generated by customer’s use of the Services, such as social media messaging, as well as from the customer’s website or Third Party Site. This may include information regarding a third party that was published on or provided to the customer’s website or Third Party Sites.
 
-**Content and third party information provided or accessed through Spredfast Services.** Our Customers may use Spredfast Services to connect with their own Customers or others over social media and there are a variety of opportunities for a third party user of a social media or other website to provide content.  For example, someone may provide general information and opinions, upload pictures and videos, and refer, share, or provide information to another person or audience.  This information is referred to in this privacy policy as “ **Third Party Information** ” and if it is generated or accessed through the Spredfast Services, it is information that we process as a data processor, as described further below.  
+This Privacy Notice does not govern the collection of content by Third Party Sites that is not published or generated through the Services, except to the extent that we act as a processor with respect to such content.  Our customers are required to abide by the applicable policies and requirements of such Third Party Sites used in connection with the Services and when using information from Third Party Sites
 
-**Information We Collect from Computers or Internet Devices**
+##  Information Collected through Community Forums
 
-**Access** **device** **and browser information.** When a Visitor uses one of our websites or when a Customer uses a Spredfast Service, we may collect information from that device, such as the browser type, location of the device, operating system, and IP address, as well as which website or Spredfast Service was used.
+We collect information that is posted by users to the Lithium Community forum (also called the “Lithosphere”) located at the Site, including content that is processed and stored within such community (“Community Content”). As part of our Services, we collect information that users post to our customer’s online communities hosted by Lithium (“Customer Communities”).
 
-**Cookie and web beacon Information.** We may store cookies on a Visitor’s or Customer’s computer or other Internet device. A cookie is a small amount of data that is sent from a web server and stored on a Visitor’s device.  We also occasionally use web beacons, which assist us (and our Customers) to determine, for example, whether an email has been read or forwarded to someone else.  We also collect and monitor aggregate data called “web log information” (such as a Visitor’s web browser, operating system, etc.) and use cookies and web beacons in connection with certain Spredfast Services (collectively, the “ **Aggregate and Statistical Data** ”). 
+##  Information Collected from Customers
 
-**Google Analytics.**   Spredfast uses a specific cookie in order to facilitate the use of Google Analytics with respect to our Customers using Spredfast Services.  We may use Customers' Spredfast log in information together with Google Analytics to track and analyze the web pages Customers visit so that we can better understand and improve Spredfast Services.  With respect to Visitors of our websites, we also use additional Google Analytics features such as Google Analytics Demographics and Interest Reporting to enable us to analyze this data, which we use for legitimate business purposes.  For more information about Google Analytics as well as how Google uses cookies and data, please visit: [www.google.com/policies/privacy/partners/](http://www.google.com/policies/privacy/partners/). 
+We collect information that our customers provide us to enable them to log on and use the Services. This data consists of personally identifiable information of their authorized users, company information and configuration, content, internal communications and notes.
 
-**Information We Receive from Customers and Third Parties**
+##  Information Collected from Other Websites
 
-**Customer Data.**   Customers provide us with data to enable them to log on and use the Spredfast Services, which consists of personally identifiable information of their authorized users, company information and configuration, content, internal communications and notes.  This information is what we refer to as “Customer Data” in most agreements with our Customers.
+We also collect information from partners and other websites concerning visitors of our website and our customers‘ websites (“Visitors”). For example, we ask or engage third parties to tell us additional information about Visitors, such as how they responded to our communication or promotions. We analyze this data, which we use for legitimate business purposes
 
-**Customer websites and social media websites.** We do not own or operate our Customers’ websites or the social media or other websites used in connection with the Spredfast Services.  When a Customer provides or accesses information through one of our Spredfast Services, we may receive information from the Customer input, in response to, or by way of interaction with, content generated by Customers using Spredfast Services as well as from the Customer’s website or the relevant social media site, including information about actions that the third party takes and may include additional information about the third party that was published on or provided to the Customer website or social media site.
+##  Use of Information Obtained by Lithium
 
-**Information from other websites.** We may obtain information from partners and other websites concerning Visitors.  For example, we may ask or engage third parties to tell us additional information about Visitors, such as how they responded to our communications or promotions. We analyze this data, which we use for legitimate business purposes.
+##  Information Users Submit to Lithium
 
-**2\. Quality, Use, Disclosure, Retention, and Disposal: How We Can Use and Share Information**
+Information collected by Lithium from each Customer Community is used solely to provide the Services for that Community, to provide related Services to the customer who manages that Community, and as otherwise agreed in a contract between Lithium and the customer. Other information gathered is solely used to: (i) respond to a user's request for additional information on Lithium Services; (ii) provide, develop, enhance and support related Lithium Services; (iii) fulfill Lithium’s legal obligations and defend Lithium’s legal rights, as needed. We may also use a user's email address to send promotional or marketing materials on related Services, such as updates on the product line, but this is only after the user is a customer, a Service is requested by the user, or Lithium has some other pre-existing business relationship with the user. We use your IP address and browser-type information in the general administration of our website.
 
-Maintaining the privacy of Personally Identifiable Information is important to us.  Except as provided in this Privacy Policy, we will not use or disclose to anyone Personally Identifiable Information.  We use Personally Identifiable Information only in ways that are relevant and compatible with the purposes for which that information was collected by our Customers, subsequently authorized by the individual user, or as otherwise provided in this Privacy Policy.  We take all commercially reasonable steps to ensure that Personally Identifiable Information collected is only used for its intended use and our Customers must do the same.  Our policy is to limit access to Personally Identifiable Information to those of our employees or contractors who need access to it to perform their duties and wo are subject to obligations to protect such information.  Any employee who violates our privacy or security policies may be subject to disciplinary action. 
+In addition, we use the information that we gather from other social media sites to:
 
-We consider information such as answers to surveys, comments, ideas, and suggestions (in each case, which do not contain Personally Identifiable Information) to be non-personal and do not classify such as Personally Identifiable Information. Except as otherwise provided by applicable contracts with our Customers or a third party, we are free to disclose and use such data or information without any obligation.
+  * provide context to a brand, such as information about an individual’s past interactions with that brand, and the individual’s public profile information, to improve the quality of the brand’s interactions with that consumer who is reaching out to them over social media,
+  * assess each individual’s general topics of interest (but excluding sensitive topics such as political or religious views),
+  * measure their influence on social media by assigning a numerical value based on our proprietary algorithm which looks at frequency/ dates of activity, responses of other individuals to that activity, and the occurrence of certain key words and/or brand names, and,
+  * allow brands to compare themselves to other brands in their industry by seeing aggregated statistics of the numbers of individuals who promote or detract from each brand based on the individuals’ public social media activity
 
-**Information from Spredfast Services Used by Customers**
 
-Customers may initiate a transfer of information collected from their use of Spredfast Services or their Customers or other third party’s interaction with, or response to, content generated by a Customer’s use of Spredfast Services.  The Customer may transfer such information from our systems to their systems. The information may also be consolidated with other information collected through a Spredfast Service.  We do not control how Customers use the information collected by way of their use of a Spredfast Service, but Customers must comply with all applicable laws and any applicable terms and conditions, such as terms and conditions of social media networks, when collecting and using such information.
 
-**Aggregate and Statistical Data**
+Through our social media management services, we provide this information on individuals to the customer support and service representatives of the companies who are Lithium customers, the “brands”, so that those representatives can provide support and service to their consumer customers more effectively, by triaging communications to address more urgent requests in priority order, and by understanding the interests of their consumer customers to provide more targeted support. We also provide aggregated statistic to the brands for competitive analysis purposes.
 
-We use Aggregate and Statistical Data to enable Spredfast and our Customers to better understand our tools and Spredfast Services-related activity. The Aggregate and Statistical Data also allows us to (a) effectively troubleshoot and resolve issues, (b) provide technical support assistance, (c) improve our offerings by enabling us to better understand which Spredfast Services Customers prefer and (d) provide relevant information to Customers relating to their usage of the Spredfast Services. 
+Through our Lithium Community and Lithium JX Community platforms, we make social impact scores available for individuals who participate in the community to create more effective and interesting social interactions within the Community.
 
-When we use Aggregate and Statistical Data, we do not link it to Personally Identifiable Information. We use the Aggregate and Statistical Data we collect and share it with selected affiliates and Customers in analyzing trends, the demographics of social media users, and usage of our Spredfast Services.  We may use Aggregate and Statistical Data to improve our marketing and promotional efforts, to statistically analyze site and Spredfast Services usage, and to improve our content service offerings.
+In the collection and use of information from other social media sites, we rely on our legitimate interests in providing services to our customers, and assisting them to provide better service to their customers, under applicable data privacy regulations, and balance those interests with the data privacy concerns of individuals. If you would like more information about our legitimate interests analysis, or have concerns that you would like us to address, please contact [privacy@lithium.com](mailto:privacy@lithium.com).
 
-**Point of Collection Purposes**
+In regards to Lithium Services, Lithium collects information under the direction of its customers, and has no direct relationship with the individuals whose personal data it processes. If you are a customer of one of our customers and would no longer like to be contacted by one of our customers that use our service, please contact the customer that you interact with directly. We may transfer personal information to companies that help us provide our service. Transfers to subsequent third parties are covered by the service agreements with our customers.
 
-Sometimes, our Customers have specific purposes for which they plan to use an individual user’s information, and our Customers describe those purposes at the point of collection.  For example, a Customer may solicit a user’s feedback in order to improve services and products, respond to a user’s questions or comments, register in connection with a contest, giveaway, or drawing, respond to a request for a brochure, or to otherwise send information to the user.  We may be asked to fulfill or assist with the fulfillment of the requirements associated with the point of collection purposes.
+In regards to candidates for employment, we use your Recruiting Data for purposes of evaluating candidates for potential employment with Lithium. We disclose your Recruiting Data to our private equity sponsor, Vista Equity Partners, and its affiliates, including Vista Consulting Group (collectively, " **Vista** ”), for administration, research, database development and business operation purposes, in line with the terms of this Privacy Notice. Vista processes your personal information on the basis of its legitimate interests in overseeing the recruitment process and, if applicable, your employment relationship with Lithium. If you have consented to us doing so, we also share your personal information with other Vista portfolio companies for the purpose of being considered for other job opportunities in the pooling system, both inside and outside your home country (including inside and outside the EEA). Please find a full list of all Vista portfolio companies at: <https://www.vistaequitypartners.com/companies/>. For residents of EEA countries, when this requires us to transfer your personal information outside of the EEA, we comply with applicable EU data privacy rules.
 
-**Vendor Services to Spredfast**
+Information collected by Lithium from customers is used solely to provide the Services and as otherwise agreed to in a contract between Lithium and the customer.
 
-We may share Personally Identifiable Information and other information with our vendors, contractors, and partners in connection with services that these individuals or entities perform for or with us and our Customers. The services they provide may include such activities as tools that work with Spredfast Services, fulfillment services, and promotional email or direct mail campaigns for the benefit of our Customers or prospective customers. These vendors, contractors, and partners are restricted from using this data in any way other than to provide services for us.  They may not share or resell any information, including Personally Identifiable Information.
+###  Aggregated Data
 
-**Acquiror of Spredfast**
+Lithium may use and disclose data cleansed of all personal data so that it no longer can identify the customer and/or User; and aggregated with similar data from other Lithium customers (“Aggregated Data”) to determine and report Services usage patterns by customers and end users generally, and for any other legitimate purpose.
 
-We may disclose Personally Identifiable Information and other information about Visitors in connection with an anticipated change of control of Spredfast pursuant to a merger, acquisition, or sale of all or substantially all of our assets.  Such disclosure will be governed by appropriate non-disclosure contractual provisions. 
+##  Point of Collection Purposes
 
-**Disclosure and Use for Legal Reasons**
+Sometimes, our customers have specific purposes for which they plan to use an individual user’s information, and our customers describe those purposes at the point of collection.  For example, a customer may solicit a user’s feedback in order to improve services and products, respond to a user’s questions or comments, register in connection with a contest, giveaway, or drawing, respond to a request for a brochure, or to otherwise send information to the user.  We may be asked to fulfill or assist with the fulfillment of the requirements associated with the point of collection purposes, but the responsibility to obtain any necessary consents remains with our customers as the data controllers.
 
-We may disclose Personally Identifiable Information and other information we receive if we believe in good faith that we are required to do so by law or court order.  We may also disclose or use information if it is necessary to identify, contact, or bring legal action against someone who may cause or is causing harm to, or interference with, our rights or other property, Customers, Visitors, or anyone else.  In addition, we may also use IP addresses in cooperation with Internet service providers to identify Visitors if we deem it necessary to comply with laws, to enforce compliance with this Privacy Policy or contractual obligations, or to protect our Customers, ourselves, or others. 
+##  Sharing of the Information This Site Gathers or Tracks
 
-**Respond to Requests Initiated by Visitors**
+As a matter of policy we do not sell your personally identifying information. We may disclose your personally identifying information only in ways that are described in this Privacy Notice as stated below:
 
-We may disclose and use Personally Identifiable Information and other information about an individual Visitor in order to respond to an inquiry, request, or complaint that the Visitor has made or to provide the Visitor with additional requested information, alerts, and updates regarding relevant services and products.
+##  Links to External Websites
 
-**Deletion of All Personally Identifiable Information**
+This site may contain links to other websites not connected to Lithium. Please be aware that Lithium is not responsible for the privacy practices of other websites. We encourage users to be aware when they leave our site and to read the privacy statements of any website that collects personally identifying information. This privacy statement applies solely to information collected by this website.
 
-At the request of a Visitor, we will delete from our active databases all Personally Identifiable Information the Visitor provided to us.  In addition, at the request of a Customer, we will delete from our active databases all Personally Identifiable Information collected through Spredfast Services collected by such Customer.   However, we may not be able to delete information accessed or provided through Spredfast Services if we do not control such information, such as information that originated through a social media network and is consequently controlled by such social media network.  In addition, we may retain such information to the extent required by law or if copies are kept in archival backups, but in no event will we use or disclose such information except as required by law.  To request the removal of Personally Identifiable Information, please send us an email to [legal@spredfast.com](mailto:legal@spredfast.com). See “Access to and Correction of Personally Identifiable Information” below for additional information as to correction and deletion of Personally Identifiable Information of individual Visitors.
+##  Special Offers and Updates
 
-**3\. Access, Security, and Other Important Matters Related to Privacy**
+We will occasionally send you information on products, services, special deals, and promotions. You can sign up for these emails from us on our website. Out of respect for your privacy, we present the option not to receive these types of communications. Please see the "Choices and Opt-out Options" section below.
 
-**Access to and Correction of Personally Identifiable Information**
+##  Use of Cookies and other Tracking Technologies
 
-If a Visitor has provided us Personally Identifiable Information and (a) would like that information deleted from our records, or (b) would like to update or correct that information, the Visitor can contact us at our email address, [legal@spredfast.com](mailto:legal@spredfast.com), with the subject line “Privacy Policy Request” and provide us with the relevant name, postal address, and any other information necessary to respond to the request.  If requested to do so, we will use reasonable efforts to make corrections or remove from our active databases applicable portions of Personally Identifiable Information.
+Cookies or similar technologies are used by Lithium and our partners, affiliates, or analytics or service providers. These technologies are used in analyzing trends, administering the site, tracking users’ movements around the site and to gather demographic information about our user base as a whole. We may receive reports based on the use of these technologies by these companies on an individual as well as aggregated basis.
 
-**Protection of Children’s Personally Identifiable Information**
+We use cookies to remember users’ settings (e.g. language preference) and for authentication. Users can control the use of cookies at the individual browser level. If you reject cookies, you may still use our site, but your ability to use some features or areas of our site may be limited.
 
-We do not intend to collect Personally Identifiable Information from anyone under age 13 and will not knowingly collect, maintain, or disclose such information.  As a condition to using the Spredfast Services, Customers should not knowingly collect information from anyone under age 13.  If a Customer or a parent or guardian has discovered that a child under age 13 has submitted his or her Personally Identifiable Information, upon notification of us, we will make reasonable efforts to remove the information from our database.  To request the removal of a child’s information, please send us an email to [legal@spredfast.com](mailto:legal@spredfast.com).
+As is true of most web sites, we gather certain information automatically and store it in log files. This information may include internet protocol (IP) addresses, browser type, referring/exit pages, browser type and operating system, date/time stamp, and/or clickstream data. We do not link this automatically collected data to other information we collect about you. For more information about cookies used by Lithium and a list of Lithium cookies [download the Lithium 'use of cookies' datasheet](http://community.lithium.com/t5/Information-and-Policies/Lithium-Cookies-Datasheet/ta-p/236502)
 
-**Security Program**
+##  Behavioral Targeting
 
-We have developed and implemented a security policy and program that includes administrative, technical, and physical safeguards to protect Personally Identifiable Information from loss, misuse, unauthorized access, disclosure, alteration, and destruction. In addition, we have restricted logical access to Personally Identifiable Information, and we have restricted physical access to the environment where we store that information. When transmitting Personally Identifiable Information from our database through a Spredfast application programming interface to a Customer, we use an encryption protocol to help ensure the information is kept secure.  In other circumstances, we strongly urge our Customers who collect Personally Identifiable Information while using a Spredfast Service to retrieve the collected information from our database using an encryption protocol or other adequate measures to maintain the security of the information retrieved.
+We partner with a third party ad network to either display advertising on our Web site or to manage our advertising on other sites. Our ad network partner uses cookies and Web beacons to collect information about your activities on this and other Web sites to provide you targeted advertising based upon your interests. If you wish to not have this information used for the purpose of serving you targeted ads, you may opt-out by clicking[here](http://preferences-mgr.truste.com/), or if you are located in the European Union you may click [here](http://www.youronlinechoices.eu/). Please note this does not opt you out of being served advertising. You will continue to receive generic ads.
 
-**4\. Staying Informed about this Privacy Policy and Our Information Practices**
+##  Blogs
 
-**Changes to our Privacy Policy.  ** If we make a material change to this Privacy Policy, we will notify Customers by one of the following methods: (a) by sending a notice to the Customer pursuant to the procedures described in the contract with the Customer, describing the change; or (b) by sending the Customer an email notifying the Customer of the change. We will also post the most recent version of this Privacy Policy on our website.
+Our Web site offers publicly accessible blogs or community forums. You should be aware that any information you provide in these areas may be read, collected, and used by others who access them. To request removal of your personal information from our blog or community forum, contact us at [legal@spredfast.com](mailto:legal@spredfast.com). In some cases, we may not be able to remove your personal information, in which case we will let you know if we are unable to do so and why.
 
-**Contacting us with questions.**   Questions or concerns about this Privacy Policy or our related information practices should be directed to us by email to [legal@spredfast.com](mailto:legal@spredfast.com) with the subject line “Privacy Policy Question,” or by writing to us at Spredfast, Inc., attention: Melissa Frugé, Chief Legal Officer, #600, 200 W Cesar Chavez St, Austin, TX 78701 Please include your name, address and any other information necessary to respond to your question.
+##  Testimonials and Comment, Idea, and Survey Submissions
 
-**5\. US_EU Privacy Shield and US-Swiss Privacy Shield**
+We display personal testimonials of satisfied customers on our site in addition to other endorsements. With your consent we may post your testimonial along with your name. If you wish to update or delete your testimonial, you can contact us at [ privacy@lithium.com](mailto:privacy@lithium.com)
 
-Spredfast has certified to the EU-US Privacy Shield and US-Swiss Privacy Shield Frameworks (the “Privacy Shields”) as set forth by the US Department of Commerce regarding the collection, use, and retention of personal information from European Union member countries and Switzerland, respectively.  We have certified that we adhere to the Privacy Shields Principles of Notice, Choice, Accountability for Onward Transfer, Security, Data Integrity and Purpose Limitation, Access, and Recourse, Enforcement and Liability.  If there is any conflict between the policies in this Privacy Policy and the Privacy Shields Principles, the Privacy Shields Principles shall govern.  To learn more about the Privacy Shields programs, please visit <https://www.privacyshield.gov/>.
+We consider information such as answers to surveys, comments, ideas, and suggestions (in each case, which do not contain personally identifiable information) to be non-personal and do not classify such as personally identifiable information. Except as otherwise provided by applicable contracts with our customers or a third party, Lithium is free to disclose and use such data or information without any obligation.
 
-We will adhere to the requirements of the Privacy Shields with respect to sensitive information (as defined below).  As a condition to using the Spredfast Services, Customers are required to obtain all necessary individual consents in order to collect and use sensitive information.   
+##  Single Sign-on
 
-We will offer Visitors the right to choose (opt out) if we ever going to (i) disclose Visitors’ personal information to a third party or (ii) use Vistors’ information that is materially different from the purpose(s) for which it was collected or subsequently authorized by the individuals, in each case, to the extent such disclosure or use differs from the disclosure or use cases described in this Privacy Policy.
+You can log in to our site using sign-in services such as Facebook Connect or an Open ID provider. These services will authenticate your identity and provide you the option to share certain personal information with us such as your name and email address to pre-populate our sign up form. Services like Facebook Connect give you the option to post information about your activities on this Web site to your profile page to share with others within your network.
 
-For purposes of this Privacy Shields disclosure, “personal information” means data that is (a) transferred from the European Union or Switzerland, as the case may be, to the United States; (b) recorded in any form; and (c) about, or pertains to, a specific individual who is identified in, or is identifiable from, the data.  “Sensitive information” means personal information specifying medical or health conditions, personal sexuality, racial or ethnic origin, political opinions, religious, ideological, philosophical, or trade union-related beliefs, views or activities, trade union membership, information specifying the sex life of the individual, information on social security measures, or administrative or criminal proceedings and sanctions, which are treated outside pending proceedings.  Sensitive information also includes personal information received from a third party where the third party treats and identifies it as sensitive. 
+##  Social Media Widgets
 
-**Monitoring and Enforcement**
+Our Web site includes Social Media Features, such as the Facebook and Twitter buttons and Widgets, such as the Share this button or interactive mini-programs that run on our site. These Features may collect your IP address, which page you are visiting on our site, and may set a cookie to enable the Feature to function properly. Social Media Features and Widgets are either hosted by a third party or hosted directly on our Site. Your interactions with these Features are governed by the privacy notice of the company providing it.
 
-**Generally.**   We have a process in place to address inquiries, complaints, and disputes. Each inquiry or complaint is addressed and its resolution is documented and communicated to the individual initiating the inquiry, complaint, or dispute.  Instances of non-compliance with this Privacy Policy and its procedures are documented and reported to management. If needed, corrective actions are taken on a timely basis.
+##  Changes in Our Privacy Notice
 
-Spredfast is subject to the investigatory and enforcement powers of the US Federal Trade Commission (the “ **FTC** ”).  In cases of onward transfer to third parties of data of EU or Swiss individuals received pursuant to the Privacy Shields, Spredfast is potentially liable.
+This Privacy notice may change from time to time, so please review it frequently for any updates or changes. If we make material changes to this notice we will notify you by email (sent to the e-mail address specified in your account) or we will place a prominent notice on our web site prior to the change becoming effective. We encourage you to periodically review this page for the latest information on our privacy practices.
 
-**Audit.**  An independent audit regarding our security controls for Personally Identifiable Information is conducted annually.  These audits are designed to help us maintain the effectiveness of our Privacy Policy, security practices, and corrective actions.
+##  Access to Your Personally Identifying Information (pii)
 
-**ICDR Online program: privacy complaints by** **European Union** **and Switzerland citizens.**   In compliance with the Privacy Shields, Spredfast commits to resolve complaints about privacy and our collection or use of personal information.  European Union and Switzerland citizens with inquiries or complaints regarding this Privacy Policy should first send us an email to [legal@spredfast.com](mailto:legal@spredfast.com). 
+Lithium acknowledges that you have the right to access your personal information. Upon request Lithium will provide you with information about whether we hold any of your personal information collected via this Site. You may access, correct, or request deletion of your personal information collected via this Site by emailing us at [legal@spredfast.com](mailto:%20legal@spredfast.com). We will respond to your request within a reasonable timeframe.
 
-Spredfast has further committed to refer unresolved privacy complaints under the Privacy Shields Principles, to the International Centre for Dispute Resolution (the “ICDR”), an international dispute resolution provider. If you do not receive timely acknowledgment of your complaint, or if your complaint is not satisfactorily addressed, please visit [www.icdr.org](http://www.icdr.org/)  for more information and to file a complaint. 
+We are unable to delete information accessed or provided through the Services if we do not control such information, such as information that originated through a social media network and is consequently controlled by such social media network, except to the extent that a copy of that data exists on our systems and with the permission of the data controller. 
+
+In regards to Lithium Services, Lithium has no direct relationship with the individuals whose personal data it processes. An individual who seeks access, or who seeks to correct, amend, or delete inaccurate data should direct their query to the Lithium’s customer (the data controller) in regards to Lithium Services. If requested to remove data, we will respond within a reasonable timeframe.
+
+##  Security of Your Personally Identifying Information
+
+We follow generally accepted industry standards to protect the personally identifying information submitted to us, both during transmission and once we receive it. Please keep in mind, however, no method of transmission over the Internet, or any method of electronic storage is perfectly secure. If you have any questions about our security practices or security on our website, you can visit our security information page at [lithium.com/security](https://www.lithium.com/security) or email us at [privacy@lithium.com](mailto:privacy@lithium.com)
+
+##  Choices and Opt-out Options
+
+Users have the opportunity to “opt-out” of having their personally identifying information used for certain purposes such as receiving promotional or other marketing material from us during the registration process for downloading a whitepaper or signing up for our webcasts. Additionally, users who no longer wish to receive our updates or newsletters may opt-out of receiving these communications by following the instructions contained in the mailer or by emailing us at [marketing@lithium.com](mailto:marketing@lithium.com). Please include the term “OPT-OUT” in the subject line immediately followed by your email address.
+
+##  Data Retention
+
+We will retain your contact information for as long as your account is active or as needed to provide your Services. If you wish to cancel your account or request that we no longer use your information to provide services, contact us at [marketing@lithium.com](mailto:marketing@lithium.com). Please include the term “OPT-OUT” in the subject line immediately followed by your email address. We will retain and use your information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements.
+
+Lithium may retain data, including personal data, in encrypted format held on back up media or other back up storage for disaster recovery purposes for up to 90 days pending routine erasure cycles, and log files held for security reasons for up to twelve months
+
+##  US-EU Privacy Shield, US-Swiss Privacy Shield, & EC Standard Contractual Clauses
+
+In the course of performing its Services, Lithium and its subprocessors may access and/or transfer personal data to (or from) areas outside of the European Economic Area (the “EEA”), pursuant to either, at Lithium’s sole option: (i) the European Commission Standard Contractual Clauses (“Clauses”) or (ii) the EU-US Privacy Shield program and the Swiss-US Privacy Shield program (collectively “Privacy Shield”).
+
+The following Lithium products are Privacy Shield certified, as set forth by the US Department of Commerce regarding the collection, use, and retention of personal information from European Union member countries and Switzerland: Conversations, Intelligence, Experiences, and Vault (collectively, the “Privacy Shield Certified Products”).  For the Privacy Shield Certified Products, we have certified that we adhere to the Privacy Shield Principles of Notice, Choice, Accountability for Onward Transfer, Security, Data Integrity and Purpose Limitation, Access, and Recourse, Enforcement and Liability.  If there is any conflict between the policies in this Privacy Notice and the Privacy Shield principles, the Privacy Shield principles shall govern.  To learn more about the Privacy Shield programs, please visit <https://www.privacyshield.gov/>.
+
+For the Privacy Shield Certified Products, we will adhere to the requirements of the Privacy Shield with respect to personal information (as defined below). As a condition to using the Services, customers are required to obtain all necessary individual consents in order to collect and use personal information.
+
+For purposes of this Privacy Shield disclosure, “personal information” means data that is (a) transferred from the European Union or Switzerland, as the case may be, to the United States; (b) recorded in any form; and (c) about, or pertains to, a specific individual who is identified in, or is identifiable from, the data.  “Sensitive information” means personal information specifying medical or health conditions, personal sexuality, racial or ethnic origin, political opinions, religious, ideological, philosophical, or trade union-related beliefs, views or activities, trade union membership, information specifying the sex life of the individual, information on social security measures, or administrative or criminal proceedings and sanctions, which are treated outside pending proceedings.  Sensitive information also includes personal information received from a third party where the third party treats and identifies it as sensitive.
+
+Lithium strictly prohibits the entry of Sensitive Information into Lithium systems, except with the express prior written consent of Lithium in each instance.
+
+If Lithium relies on Privacy Shield as a basis for transfer of personal data outside of the EEA and if Privacy Shield is deemed invalid by a competent authority or otherwise superseded, then any such transfers of EEA personal data outside the EEA shall be conducted pursuant to the EC Standard Contractual Clauses (the “Clauses”) and Lithium will execute a copy of the Clauses at customer’s request.
+
+##  Enforcement
+
+Lithium is subject to the investigatory and enforcement powers of the US Federal Trade Commission (the “FTC”). In cases of onward transfer to third parties of data of EU or Swiss individuals received pursuant to the Privacy Shield, Lithium is potentially liable.
+
+In compliance with the Privacy Shield, Lithium commits to resolve complaints about privacy and our collection or use of personal information.  European Union and Switzerland citizens with inquiries or complaints regarding this Privacy Notice should first send us an email to [legal@lithium.com.](mailto:legal@lithium.com)
+
+Lithium has further committed to refer unresolved privacy complaints under the Privacy Shield principles, to the International Centre for Dispute Resolution (the “ICDR”), an international dispute resolution provider. If you do not receive timely acknowledgment of your complaint, or if your complaint is not satisfactorily addressed, please visit [http://go.adr.org/privacyshield.html](https://go.adr.org/privacyshield.html) for more information and to file a complaint. 
 
 Please note that if your complaint is not resolved through these channels, under limited circumstances, a binding arbitration option may be available before a Privacy Shield Panel.
 
-**6\. Conflicts.  **
+##  Data Protection Officer and Data Protection Authority
 
-If there is a conflict between this Privacy Policy and a legal requirement, the legal requirement will take precedence.  We also may agree to privacy-related obligations with Customers, however such agreements will not diminish or remove the protections provided to individuals under this Privacy Policy.
+Lithium Technologies, LLC and its wholly owned subsidiaries have appointed an outside Data Protection Officer:
+
+Lillian Pang
+
+Taceo Limited
+
+Company registration number 11059214
+
+<http://www.taceo.co.uk/>
+
+Telephone:  +44 7474 293 610
+
+Email: [dpo@taceo.co.uk](mailto:dpo@taceo.co.uk)
+
+Lithium International, LLC, a wholly owned subsidiary of Lithium Technologies, LLC, is based in the United Kingdom under the jurisdiction of the UK data protection authority the UK Information Commissioner’s Office (ICO), and controls the export of personal information from the EEA to other Lithium affiliates, including Lithium Technologies, LLC.  
+
+##  Contacting Us
+
+If you have any questions about this privacy statement, the practices of this website, or your dealings with this website, please call us at 1 (415) 757-3100, email us at [privacy@lithium.com](mailto:privacy@lithium.com) or write us at the following address:
+
+Lithium Technologies, LLC  
+Pier 1, Bay 1A  
+San Francisco, CA 94111  
+USA
+
+Disputes
+
+If you have an unresolved privacy or data use concern that we have not addressed satisfactorily, please contact our U.S.-based third party dispute resolution provider (free of charge) at <https://feedback-form.truste.com/watchdog/request>.
