@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sailblogs.com privacy policy that was archived on 2018-10-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181020075615id_/http%3A//www.sailblogs.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sailblogs.com privacy policy that was archived on 2019-03-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190325081256id_/https%3A//www.sailblogs.com/privacy.php) for the most accurate reproduction.*
 
 # SailBlogs | Sailing Blog Hosting, Map Tracking & Social Network
 
