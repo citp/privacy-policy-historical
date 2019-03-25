@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lightscamerabollywood.com privacy policy that was archived on 2018-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181123142017id_/http%3A//www.lightscamerabollywood.com/privacy-policy-www-lightscamerabollywood-com) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lightscamerabollywood.com privacy policy that was archived on 2019-03-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190325192210id_/http%3A//www.lightscamerabollywood.com/privacy-policy-www-lightscamerabollywood-com) for the most accurate reproduction.*
 
 # Privacy Policy – www.lightscamerabollywood.com
 
