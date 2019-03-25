@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the swgoh.gg privacy policy that was archived on 2018-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181125220429id_/https%3A//swgoh.gg/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the swgoh.gg privacy policy that was archived on 2019-03-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190325015545id_/https%3A//swgoh.gg/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy · SWGOH.GG
 
