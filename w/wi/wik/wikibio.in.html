@@ -1,0 +1,571 @@
+<!--The following is the downloaded HTML source of the wikibio.in privacy policy that was archived on 2019-03-25.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20190325074957id_/https%3A//wikibio.in/privacy-policy) for the most accurate reproduction.-->
+
+<!DOCTYPE html><html class="js" lang="en-US"><head itemscope="" itemtype="http://schema.org/WebSite">
+	<meta charset="UTF-8">
+	<!-- Always force latest IE rendering engine (even in intranet) & Chrome Frame -->
+	<!--[if IE ]>
+	<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+	<![endif]-->
+	<link rel="profile" href="https://gmpg.org/xfn/11">
+	
+        
+        
+        
+                    <meta name="viewport" content="width=device-width, initial-scale=1">
+            <meta name="apple-mobile-web-app-capable" content="yes">
+            <meta name="apple-mobile-web-app-status-bar-style" content="black">
+        
+        
+        <meta itemprop="name" content="WikiBio">
+        <meta itemprop="url" content="https://wikibio.in">
+
+                                        	<link rel="pingback" href="https://wikibio.in/xmlrpc.php">
+	<title>Privacy Policy – WikiBio</title>
+<script type="text/javascript">document.documentElement.className = document.documentElement.className.replace( /\bno-js\b/,'js' );</script><link rel="amphtml" href="https://wikibio.in/privacy-policy/amp/"><link rel="dns-prefetch" href="//s.w.org">
+<link rel="alternate" type="application/rss+xml" title="WikiBio » Feed" href="https://wikibio.in/feed/">
+<link rel="alternate" type="application/rss+xml" title="WikiBio » Comments Feed" href="https://wikibio.in/comments/feed/">
+		<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/2.3\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/2.3\/svg\/","svgExt":".svg","source":{"wpemoji":"https:\/\/wikibio.in\/wp-includes\/js\/wp-emoji.js","twemoji":"https:\/\/wikibio.in\/wp-includes\/js\/twemoji.js"}};
+			( function( window, document, settings ) {
+	var src, ready, ii, tests;
+
+	/*
+	 * Create a canvas element for testing native browser support
+	 * of emoji.
+	 */
+	var canvas = document.createElement( 'canvas' );
+	var context = canvas.getContext && canvas.getContext( '2d' );
+
+	/**
+	 * Detect if the browser supports rendering emoji or flag emoji. Flag emoji are a single glyph
+	 * made of two characters, so some browsers (notably, Firefox OS X) don't support them.
+	 *
+	 * @since 4.2.0
+	 *
+	 * @param type {String} Whether to test for support of "flag" or "emoji4" emoji.
+	 * @return {Boolean} True if the browser can render emoji, false if it cannot.
+	 */
+	function browserSupportsEmoji( type ) {
+		var stringFromCharCode = String.fromCharCode,
+			flag, flag2, emoji41, emoji42;
+
+		if ( ! context || ! context.fillText ) {
+			return false;
+		}
+
+		// Cleanup from previous test.
+		context.clearRect( 0, 0, canvas.width, canvas.height );
+
+		/*
+		 * Chrome on OS X added native emoji rendering in M41. Unfortunately,
+		 * it doesn't work when the font is bolder than 500 weight. So, we
+		 * check for bold rendering support to avoid invisible emoji in Chrome.
+		 */
+		context.textBaseline = 'top';
+		context.font = '600 32px Arial';
+
+		switch ( type ) {
+			case 'flag':
+				/*
+				 * Test for UN flag compatibility. This is the least supported of the letter locale flags,
+				 * so gives us an easy test for full support.
+				 *
+				 * To test for support, we try to render it, and compare the rendering to how it would look if
+				 * the browser doesn't render it correctly ([U] + [N]).
+				 */
+				context.fillText( stringFromCharCode( 55356, 56826, 55356, 56819 ), 0, 0 );
+				flag = canvas.toDataURL();
+
+				context.clearRect( 0, 0, canvas.width, canvas.height );
+
+				// Add a zero width space between the characters, to force rendering as characters.
+				context.fillText( stringFromCharCode( 55356, 56826, 8203, 55356, 56819 ), 0, 0 );
+				flag2 = canvas.toDataURL();
+
+				if ( flag === flag2 ) {
+					return false;
+				}
+
+				/*
+				 * Test for English flag compatibility. England is a country in the United Kingdom, it
+				 * does not have a two letter locale code but rather an five letter sub-division code.
+				 *
+				 * To test for support, we try to render it, and compare the rendering to how it would look if
+				 * the browser doesn't render it correctly (black flag emoji + [G] + [B] + [E] + [N] + [G]).
+				 */
+				// Cleanup from previous test.
+				context.clearRect( 0, 0, canvas.width, canvas.height );
+
+				context.fillText( stringFromCharCode( 55356, 57332, 56128, 56423, 56128, 56418, 56128, 56421, 56128, 56430, 56128, 56423, 56128, 56447 ), 0, 0 );
+				flag = canvas.toDataURL();
+
+				context.clearRect( 0, 0, canvas.width, canvas.height );
+
+				context.fillText( stringFromCharCode( 55356, 57332, 8203, 56128, 56423, 8203, 56128, 56418, 8203, 56128, 56421, 8203, 56128, 56430, 8203, 56128, 56423, 8203, 56128, 56447 ), 0, 0 );
+				flag2 = canvas.toDataURL();
+
+				return flag !== flag2;
+			case 'emoji4':
+				/*
+				 * Emoji 5 has faries of all genders.
+				 *
+				 * To test for support, try to render a new emoji (fairy, male), then compares
+				 * it to how it would look if the browser doesn't render it correctly
+				 * (fairy + male sign).
+				 */
+				context.fillText( stringFromCharCode( 55358, 56794, 8205, 9794, 65039 ), 0, 0 );
+				emoji41 = canvas.toDataURL();
+
+				context.clearRect( 0, 0, canvas.width, canvas.height );
+
+				context.fillText( stringFromCharCode( 55358, 56794, 8203, 9794, 65039 ), 0, 0 );
+				emoji42 = canvas.toDataURL();
+
+				return emoji41 !== emoji42;
+		}
+
+		return false;
+	}
+
+	function addScript( src ) {
+		var script = document.createElement( 'script' );
+
+		script.src = src;
+		script.defer = script.type = 'text/javascript';
+		document.getElementsByTagName( 'head' )[0].appendChild( script );
+	}
+
+	tests = Array( 'flag', 'emoji4' );
+
+	settings.supports = {
+		everything: true,
+		everythingExceptFlag: true
+	};
+
+	for( ii = 0; ii < tests.length; ii++ ) {
+		settings.supports[ tests[ ii ] ] = browserSupportsEmoji( tests[ ii ] );
+
+		settings.supports.everything = settings.supports.everything && settings.supports[ tests[ ii ] ];
+
+		if ( 'flag' !== tests[ ii ] ) {
+			settings.supports.everythingExceptFlag = settings.supports.everythingExceptFlag && settings.supports[ tests[ ii ] ];
+		}
+	}
+
+	settings.supports.everythingExceptFlag = settings.supports.everythingExceptFlag && ! settings.supports.flag;
+
+	settings.DOMReady = false;
+	settings.readyCallback = function() {
+		settings.DOMReady = true;
+	};
+
+	if ( ! settings.supports.everything ) {
+		ready = function() {
+			settings.readyCallback();
+		};
+
+		if ( document.addEventListener ) {
+			document.addEventListener( 'DOMContentLoaded', ready, false );
+			window.addEventListener( 'load', ready, false );
+		} else {
+			window.attachEvent( 'onload', ready );
+			document.attachEvent( 'onreadystatechange', function() {
+				if ( 'complete' === document.readyState ) {
+					settings.readyCallback();
+				}
+			} );
+		}
+
+		src = settings.source || {};
+
+		if ( src.concatemoji ) {
+			addScript( src.concatemoji );
+		} else if ( src.wpemoji && src.twemoji ) {
+			addScript( src.twemoji );
+			addScript( src.wpemoji );
+		}
+	}
+
+} )( window, document, window._wpemojiSettings );
+		</script><script src="https://wikibio.in/wp-includes/js/twemoji.js" type="text/javascript" defer=""></script><script src="https://wikibio.in/wp-includes/js/wp-emoji.js" type="text/javascript" defer=""></script>
+		<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+<link rel="stylesheet" id="mci-footnotes-css-public-css" href="https://225508-687545-raikfcquaxqncofqfm.stackpathdns.com/wp-content/plugins/footnotes/class/../css/public.css" type="text/css" media="all">
+<link rel="stylesheet" id="contact-form-7-css" href="https://225508-687545-raikfcquaxqncofqfm.stackpathdns.com/wp-content/plugins/contact-form-7/includes/css/styles.css" type="text/css" media="all">
+<link rel="stylesheet" id="protect-link-css-css" href="https://225508-687545-raikfcquaxqncofqfm.stackpathdns.com/wp-content/plugins/wp-copy-protect-with-color-design/css/protect_style.css" type="text/css" media="all">
+<link rel="stylesheet" id="ez-icomoon-css" href="https://225508-687545-raikfcquaxqncofqfm.stackpathdns.com/wp-content/plugins/easy-table-of-contents/vendor/icomoon/style.css" type="text/css" media="all">
+<link rel="stylesheet" id="ez-toc-css" href="https://225508-687545-raikfcquaxqncofqfm.stackpathdns.com/wp-content/plugins/easy-table-of-contents/assets/css/screen.css" type="text/css" media="all">
+<style id="ez-toc-inline-css" type="text/css">
+div#ez-toc-container p.ez-toc-title {font-size: 120%;}div#ez-toc-container p.ez-toc-title {font-weight: 500;}div#ez-toc-container ul li {font-size: 95%;}div#ez-toc-container {background: #fff;border: 1px solid #33bcf2;}div#ez-toc-container p.ez-toc-title {color: #000000;}div#ez-toc-container ul.ez-toc-list a {color: #428bca;}div#ez-toc-container ul.ez-toc-list a:hover {color: #f47555;}div#ez-toc-container ul.ez-toc-list a:visited {color: #428bca;}
+</style>
+<link rel="stylesheet" id="sociallyviral-stylesheet-css" href="https://225508-687545-raikfcquaxqncofqfm.stackpathdns.com/wp-content/themes/mts_sociallyviral/style.css" type="text/css" media="all">
+<style id="sociallyviral-stylesheet-inline-css" type="text/css">
+
+        body, .sidebar.c-4-12, #header #s {background-color:#f0ede9;background-image:url(https://225508-687545-raikfcquaxqncofqfm.stackpathdns.com/wp-content/themes/mts_sociallyviral/images/nobg.png);}
+
+        #primary-navigation, .navigation ul ul, .pagination a, .pagination .dots, .latestPost-review-wrapper, .single_post .thecategory, .single-prev-next a:hover, .tagcloud a:hover, #commentform input#submit:hover, .contactform #submit:hover, .post-label, .latestPost .review-type-circle.review-total-only, .latestPost .review-type-circle.wp-review-show-total, .bypostauthor .fn:after, #primary-navigation .navigation.mobile-menu-wrapper, #wpmm-megamenu .review-total-only, .owl-controls .owl-dot.active span, .owl-controls .owl-dot:hover span, .owl-prev, .owl-next, .woocommerce a.button, .woocommerce-page a.button, .woocommerce button.button, .woocommerce-page button.button, .woocommerce input.button, .woocommerce-page input.button, .woocommerce #respond input#submit, .woocommerce-page #respond input#submit, .woocommerce #content input.button, .woocommerce-page #content input.button, .woocommerce nav.woocommerce-pagination ul li a, .woocommerce-page nav.woocommerce-pagination ul li a, .woocommerce #content nav.woocommerce-pagination ul li a, .woocommerce-page #content nav.woocommerce-pagination ul li a, .woocommerce .bypostauthor:after, #searchsubmit, .woocommerce nav.woocommerce-pagination ul li span.current, .woocommerce-page nav.woocommerce-pagination ul li span.current, .woocommerce #content nav.woocommerce-pagination ul li span.current, .woocommerce-page #content nav.woocommerce-pagination ul li span.current, .woocommerce nav.woocommerce-pagination ul li a:hover, .woocommerce-page nav.woocommerce-pagination ul li a:hover, .woocommerce #content nav.woocommerce-pagination ul li a:hover, .woocommerce-page #content nav.woocommerce-pagination ul li a:hover, .woocommerce nav.woocommerce-pagination ul li a:focus, .woocommerce-page nav.woocommerce-pagination ul li a:focus, .woocommerce #content nav.woocommerce-pagination ul li a:focus, .woocommerce-page #content nav.woocommerce-pagination ul li a:focus, .woocommerce a.button, .woocommerce-page a.button, .woocommerce button.button, .woocommerce-page button.button, .woocommerce input.button, .woocommerce-page input.button, .woocommerce #respond input#submit, .woocommerce-page #respond input#submit, .woocommerce #content input.button, .woocommerce-page #content input.button { background-color: #33bcf2; color: #fff; }
+
+        #searchform .fa-search, .currenttext, .pagination a:hover, .single .pagination a:hover .currenttext, .page-numbers.current, .pagination .nav-previous a:hover, .pagination .nav-next a:hover, .single-prev-next a, .tagcloud a, #commentform input#submit, .contact-form #mtscontact_submit, .woocommerce-product-search input[type='submit'] { background-color: #f47555; }
+
+        .thecontent a, .post .tags a, #commentform a, .author-posts a:hover, .fn a, a { color: #33bcf2; }
+
+        .latestPost .title:hover, .latestPost .title a:hover, .post-info a:hover, .single_post .post-info a:hover, .copyrights a:hover, .thecontent a:hover, .breadcrumb a:hover, .sidebar.c-4-12 a:hover, .post .tags a:hover, #commentform a:hover, .author-posts a, .reply a:hover, .ajax-search-results li a:hover, .ajax-search-meta .results-link { color: #f47555; }
+
+        .wpmm-megamenu-showing.wpmm-light-scheme { background-color:#33bcf2!important; }
+
+        input#author:hover, input#email:hover, input#url:hover, #comment:hover, .contact-form input:hover, .contact-form textarea:hover, .woocommerce-product-search input[type='submit'] { border-color: #f47555; }
+
+        
+        
+        
+        
+        .logo-wrap, .widget-header { display: none; }
+        .navigation { border-top: 0; }
+        #header { min-height: 47px; }
+        .single-prev-next {
+display:none;
+}
+
+.single article header, .single-title {
+    margin: 0;
+}
+            
+</style>
+<link rel="stylesheet" id="magnificPopup-css" href="https://225508-687545-raikfcquaxqncofqfm.stackpathdns.com/wp-content/themes/mts_sociallyviral/css/magnific-popup.css" type="text/css" media="all">
+<link rel="stylesheet" id="fontawesome-css" href="https://225508-687545-raikfcquaxqncofqfm.stackpathdns.com/wp-content/themes/mts_sociallyviral/css/font-awesome.min.css" type="text/css" media="all">
+<link rel="stylesheet" id="responsive-css" href="https://225508-687545-raikfcquaxqncofqfm.stackpathdns.com/wp-content/themes/mts_sociallyviral/css/responsive.css" type="text/css" media="all">
+<script type="text/javascript" src="https://225508-687545-raikfcquaxqncofqfm.stackpathdns.com/wp-includes/js/jquery/jquery.js"></script>
+<script type="text/javascript" src="https://225508-687545-raikfcquaxqncofqfm.stackpathdns.com/wp-includes/js/jquery/jquery-migrate.js"></script>
+<script type="text/javascript" src="https://225508-687545-raikfcquaxqncofqfm.stackpathdns.com/wp-content/plugins/footnotes/class/../js/jquery.tools.min.js"></script>
+<script type="text/javascript">
+/* <![CDATA[ */
+var mts_customscript = {"responsive":"1","nav_menu":"primary"};
+/* ]]> */
+</script>
+<script type="text/javascript" async="async" src="https://225508-687545-raikfcquaxqncofqfm.stackpathdns.com/wp-content/themes/mts_sociallyviral/js/customscript.js"></script>
+<link rel="https://api.w.org/" href="https://wikibio.in/wp-json/">
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://wikibio.in/xmlrpc.php?rsd">
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="https://225508-687545-raikfcquaxqncofqfm.stackpathdns.com/wp-includes/wlwmanifest.xml"> 
+<meta name="generator" content="WordPress 4.8.9">
+<link rel="canonical" href="https://wikibio.in/privacy-policy/">
+<link rel="shortlink" href="https://wikibio.in/?p=454">
+<link rel="alternate" type="application/json+oembed" href="https://wikibio.in/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwikibio.in%2Fprivacy-policy%2F">
+<link rel="alternate" type="text/xml+oembed" href="https://wikibio.in/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwikibio.in%2Fprivacy-policy%2F&amp;format=xml">
+		
+		<script type="text/javascript">
+			jQuery(function($){
+				$('.protect_contents-overlay').css('background-color', '#000000');
+			});
+		</script>
+
+		
+						<script type="text/javascript">
+				jQuery(function($){
+					$('img').attr('onmousedown', 'return false');
+					$('img').attr('onselectstart','return false');
+				    $(document).on('contextmenu',function(e){
+
+							
+
+				        return false;
+				    });
+				});
+				</script>
+
+				<style>
+				* {
+				   -ms-user-select: none; /* IE 10+ */
+				   -moz-user-select: -moz-none;
+				   -khtml-user-select: none;
+				   -webkit-user-select: none;
+				   -webkit-touch-callout: none;
+				   user-select: none;
+				   }
+
+				   input,textarea,select,option {
+				   -ms-user-select: auto; /* IE 10+ */
+				   -moz-user-select: auto;
+				   -khtml-user-select: auto;
+				   -webkit-user-select: auto;
+				   user-select: auto;
+			       }
+				</style>
+				
+				
+				<link href="//fonts.googleapis.com/css?family=Roboto:500|Roboto:normal&amp;subset=latin" rel="stylesheet" type="text/css">
+<style type="text/css">
+#logo a { font-family: 'Roboto'; font-weight: 500; font-size: 44px; color: #33bcf2; }
+#primary-navigation li, #primary-navigation li a { font-family: 'Roboto'; font-weight: normal; font-size: 18px; color: #ffffff;text-transform: uppercase; }
+.latestPost .title, .latestPost .title a { font-family: 'Roboto'; font-weight: normal; font-size: 24px; color: #555555;line-height: 36px; }
+.single-title { font-family: 'Roboto'; font-weight: normal; font-size: 38px; color: #555555;line-height: 53px; }
+body { font-family: 'Roboto'; font-weight: normal; font-size: 18px; color: #4c4c4c; }
+.widget .widget-title { font-family: 'Roboto'; font-weight: 500; font-size: 18px; color: #555555;text-transform: uppercase; }
+#sidebars .widget { font-family: 'Roboto'; font-weight: normal; font-size: 16px; color: #707070; }
+.footer-widgets { font-family: 'Roboto'; font-weight: normal; font-size: 14px; color: #707070; }
+h1 { font-family: 'Roboto'; font-weight: normal; font-size: 38px; color: #555555; }
+h2 { font-family: 'Roboto'; font-weight: normal; font-size: 34px; color: #555555; }
+h3 { font-family: 'Roboto'; font-weight: normal; font-size: 30px; color: #555555; }
+h4 { font-family: 'Roboto'; font-weight: normal; font-size: 28px; color: #555555; }
+h5 { font-family: 'Roboto'; font-weight: normal; font-size: 24px; color: #555555; }
+h6 { font-family: 'Roboto'; font-weight: normal; font-size: 20px; color: #555555; }
+</style>
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async="" src="https://www.googletagmanager.com/gtag/js?id=UA-49114404-10"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-49114404-10');
+</script>		<style type="text/css" media="screen">
+            .footnote_tooltip { display: none; padding: 12px; font-size: 13px; background-color: #fff7a7; border-width: 1px; border-style: solid; border-color: #cccc99; border-radius: 3px; -webkit-box-shadow: 2px 2px 11px #666666; -moz-box-shadow: 2px 2px 11px #666666; box-shadow: 2px 2px 11px #666666;}        </style>
+		</head>
+<body data-rsssl="1" id="blog" class="page-template-default page page-id-454 main" itemscope="" itemtype="http://schema.org/WebPage">    
+	<div class="main-container">
+		<header id="site-header" role="banner" itemscope="" itemtype="http://schema.org/WPHeader">
+			<div class="container">
+				<div id="header">
+					<div class="logo-wrap">
+																					  <h2 id="logo" class="text-logo" itemprop="headline">
+										<a href="https://wikibio.in">WikiBio</a>
+									</h2><!-- END #logo -->
+																		</div>
+
+					
+					
+					
+
+			        											<div id="catcher" class="clear"></div>
+						<div id="primary-navigation" class="sticky-navigation" role="navigation" itemscope="" itemtype="http://schema.org/SiteNavigationElement">
+											<a href="#" id="pull" class="toggle-mobile-menu">Menu</a>
+													<nav class="navigation clearfix mobile-menu-wrapper">
+																	<ul id="menu-category-menu-top" class="menu clearfix"><li id="menu-item-14415" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-14415"><a href="https://wikibio.in/category/bollywood/">Bollywood</a></li>
+<li id="menu-item-461" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-461"><a href="https://wikibio.in/category/television/">Television</a></li>
+<li id="menu-item-462" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-462"><a href="https://wikibio.in/category/cricket/">Cricket</a></li>
+<li id="menu-item-14416" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-14416"><a href="https://wikibio.in/category/in-news/">In News</a></li>
+<li id="menu-item-14417" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-14417"><a href="https://wikibio.in/category/politics/">Politics</a></li>
+<li id="menu-item-14419" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-14419"><a href="https://wikibio.in/category/sports/">Sports</a></li>
+</ul>															</nav>
+											</div>
+					 
+
+				</div><!--#header-->
+			</div><!--.container-->
+		</header>
+			<div class="breadcrumb" xmlns:v="http://rdf.data-vocabulary.org/#"><div typeof="v:Breadcrumb" class="root"><a rel="v:url" property="v:title" href="https://wikibio.in">Home</a></div><div><i class="fa fa-angle-double-right"></i></div><div><span>Privacy Policy</span></div></div>
+<div id="page" class="single">
+			<article class="article">
+		<div id="content_box">
+							<div id="post-454" class="g post post-454 page type-page status-publish">
+					<div class="single_page">
+						<header>
+							<h1 class="title entry-title">Privacy Policy</h1>
+						</header>
+						<div class="post-single-content box mark-links entry-content">
+														<p>If you require any more information or have any questions about our privacy policy, please feel free to contact us.</p>
+<p>At <a href="https://wikibio.in">Wikibio.in</a>, the privacy of our visitors is of extreme importance to us. This privacy policy document outlines the types of personal information is received and collected by <a href="https://wikibio.in">Wikibio.in</a> and how it is used.</p>
+<p><strong>Log Files</strong><br>
+Like many other websites, <a href="https://wikibio.in">Wikibio.in</a> makes use of log files. The information inside the log files includes internet protocol (IP) addresses, type of browser, Internet Service Provider (ISP), date/time stamp, referring/exit pages, and the number of clicks to analyze trends, administer the site, track user’s movement around the site, and gather demographic information. IP addresses and other such information are not linked to any information that is personally identifiable.</p>
+<p><strong>Cookies and Web Beacons</strong><br>
+<a href="https://wikibio.in">Wikibio.in</a> does use cookies to store information about visitors preferences, record user-specific information on which pages the user access or visit, customize web page content based on visitors browser type or other information that the visitor sends via their browser.</p>
+<p><strong>DoubleClick DART Cookie</strong><br>
+.:: Google, as a third party vendor, uses cookies to serve ads on <a href="https://wikibio.in">Wikibio.in</a><br>
+.:: Google’s use of the DART cookie enables it to serve ads to users based on their visit to <a href="https://wikibio.in">Wikibio.in</a>&nbsp;and other sites on the Internet.<br>
+.:: Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at the following URL – http://www.google.com/privacy_ads.html</p>
+<p><strong>Cookies &amp; 3rd Party Advertisements</strong></p>
+<p>We allow third-party companies to serve ads and/or collect certain anonymous information when you visit our website. These companies may use non-personally identifiable information (e.g., click stream information, browser type, time and date, the subject of advertisements clicked or scrolled over) during your visits to this and other websites in order to provide advertisements about goods and services likely to be of greater interest to you. These companies typically use a cookie or third party web beacon to collect this information.</p>
+<p>Some of our advertising partners may use cookies and web beacons on our site. Our advertising partners include …</p>
+<p>Google Adsense</p>
+<p>These third-party ad servers or ad networks use technology to the advertisements and links that appear on <a href="https://wikibio.in">Wikibio.in</a> send directly to your browsers. They automatically receive your IP address when this occurs. Other technologies (such as cookies, JavaScript, or Web Beacons ) may also be used by the third-party ad networks to measure the effectiveness of their advertisements and/or to personalize the advertising content that you see.</p>
+<p><a href="https://wikibio.in">Wikibio.in</a>&nbsp;has no access to or control over these cookies that are used by third-party advertisers.</p>
+<p>You should consult the respective privacy policies of these third-party ad servers for more detailed information on their practices as well as for instructions about how to opt-out of certain practices. <a href="https://wikibio.in">Wikibio.in</a>’s privacy policy does not apply to, and we cannot control the activities of, such other advertisers or websites.</p>
+<p>If you wish to disable cookies, you may do so through your individual browser options. More detailed information about cookie management with specific web browsers can be found at the browsers’ respective websites.</p>
+<p><strong>Contact Information:</strong></p>
+<p>Concerns or questions about this privacy policy can be directed to the website admin by filling the contact form available at the “Contact Us” page on the website.</p>
+																				</div><!--.post-content box mark-links-->
+					</div>
+				</div>
+				<!-- You can start editing here. -->
+<!-- If comments are closed. -->
+<p class="nocomments"></p>
+
+					</div>
+	</article>
+	<aside id="sidebar" class="sidebar c-4-12" role="complementary" itemscope="" itemtype="http://schema.org/WPSideBar">
+	<div id="search-2" class="widget widget_search"><form method="get" id="searchform" class="search-form" action="https://wikibio.in" _lpchecked="1">
+	<fieldset>
+		<input type="text" name="s" id="s" value="" placeholder="What are you looking for?">
+		<button id="search-image" class="sbutton" type="submit" value="">
+	    		<i class="fa fa-search"></i>
+	    	</button>
+	</fieldset>
+</form>
+</div><div id="mts_related_posts_widget-2" class="widget widget_mts_related_posts_widget horizontal-small"><h3 class="widget-title">Related Posts</h3><ul class="related-posts-widget">			<li class="post-box horizontal-small horizontal-container"><div class="horizontal-container-inner">								<div class="post-img">
+					<a href="https://wikibio.in/navneet-kaur-dhillon/" title="Navneet Kaur Dhillon Wiki, Age, Boyfriend, Family, Biography &amp; More">
+													<img width="65" height="65" src="https://225508-687545-raikfcquaxqncofqfm.stackpathdns.com/wp-content/uploads/2019/02/Navneet-Kaur-Dhillon-pic-65x65.jpg" class="attachment-sociallyviral-widgetthumb size-sociallyviral-widgetthumb wp-post-image" alt="Navneet Kaur Dhillon pic" title="" srcset="https://225508-687545-raikfcquaxqncofqfm.stackpathdns.com/wp-content/uploads/2019/02/Navneet-Kaur-Dhillon-pic-65x65.jpg 65w, https://225508-687545-raikfcquaxqncofqfm.stackpathdns.com/wp-content/uploads/2019/02/Navneet-Kaur-Dhillon-pic-150x150.jpg 150w" sizes="(max-width: 65px) 100vw, 65px">											</a>
+				</div>
+								<div class="post-data">
+					<div class="post-data-container">
+						<div class="post-title">
+							<a href="https://wikibio.in/navneet-kaur-dhillon/" title="Navneet Kaur Dhillon Wiki, Age, Boyfriend, Family, Biography &amp; More">Navneet Kaur Dhillon Wiki, Age, Boyfriend, Family,&nbsp;…</a>
+						</div>
+																	</div>
+				</div>
+			</div></li>					<li class="post-box horizontal-small horizontal-container"><div class="horizontal-container-inner">								<div class="post-img">
+					<a href="https://wikibio.in/ajit-doval/" title="Ajit Doval Wiki, Age, Wife, Children, Biography &amp; More.">
+													<img width="65" height="65" src="https://225508-687545-raikfcquaxqncofqfm.stackpathdns.com/wp-content/uploads/2019/02/Ajit-Doval-wiki-65x65.jpg" class="attachment-sociallyviral-widgetthumb size-sociallyviral-widgetthumb wp-post-image" alt="Ajit Doval wiki" title="" srcset="https://225508-687545-raikfcquaxqncofqfm.stackpathdns.com/wp-content/uploads/2019/02/Ajit-Doval-wiki-65x65.jpg 65w, https://225508-687545-raikfcquaxqncofqfm.stackpathdns.com/wp-content/uploads/2019/02/Ajit-Doval-wiki-150x150.jpg 150w" sizes="(max-width: 65px) 100vw, 65px">											</a>
+				</div>
+								<div class="post-data">
+					<div class="post-data-container">
+						<div class="post-title">
+							<a href="https://wikibio.in/ajit-doval/" title="Ajit Doval Wiki, Age, Wife, Children, Biography &amp; More.">Ajit Doval Wiki, Age, Wife, Children, Biography&nbsp;…</a>
+						</div>
+																	</div>
+				</div>
+			</div></li>					<li class="post-box horizontal-small horizontal-container"><div class="horizontal-container-inner">								<div class="post-img">
+					<a href="https://wikibio.in/navjot-kaur-sidhu/" title="Navjot kaur Sidhu Wiki, Age, Husband, Family, Biography &amp; More">
+													<img width="65" height="65" src="https://225508-687545-raikfcquaxqncofqfm.stackpathdns.com/wp-content/uploads/2019/03/Navjot-Kaur-Sidhu-pic-65x65.jpg" class="attachment-sociallyviral-widgetthumb size-sociallyviral-widgetthumb wp-post-image" alt="Navjot Kaur Sidhu pic" title="" srcset="https://225508-687545-raikfcquaxqncofqfm.stackpathdns.com/wp-content/uploads/2019/03/Navjot-Kaur-Sidhu-pic-65x65.jpg 65w, https://225508-687545-raikfcquaxqncofqfm.stackpathdns.com/wp-content/uploads/2019/03/Navjot-Kaur-Sidhu-pic-150x150.jpg 150w" sizes="(max-width: 65px) 100vw, 65px">											</a>
+				</div>
+								<div class="post-data">
+					<div class="post-data-container">
+						<div class="post-title">
+							<a href="https://wikibio.in/navjot-kaur-sidhu/" title="Navjot kaur Sidhu Wiki, Age, Husband, Family, Biography &amp; More">Navjot kaur Sidhu Wiki, Age, Husband, Family,&nbsp;…</a>
+						</div>
+																	</div>
+				</div>
+			</div></li>					<li class="post-box horizontal-small horizontal-container"><div class="horizontal-container-inner">								<div class="post-img">
+					<a href="https://wikibio.in/keerthy-suresh/" title="Keerthy Suresh Wiki, Age, Boyfriend, Husband, Caste, Biography &amp; More">
+													<img width="65" height="65" src="https://225508-687545-raikfcquaxqncofqfm.stackpathdns.com/wp-content/uploads/2018/05/Keerthy-Suresh.j-65x65.jpg" class="attachment-sociallyviral-widgetthumb size-sociallyviral-widgetthumb wp-post-image" alt="Keerthy Suresh" title="" srcset="https://225508-687545-raikfcquaxqncofqfm.stackpathdns.com/wp-content/uploads/2018/05/Keerthy-Suresh.j-65x65.jpg 65w, https://225508-687545-raikfcquaxqncofqfm.stackpathdns.com/wp-content/uploads/2018/05/Keerthy-Suresh.j-150x150.jpg 150w" sizes="(max-width: 65px) 100vw, 65px">											</a>
+				</div>
+								<div class="post-data">
+					<div class="post-data-container">
+						<div class="post-title">
+							<a href="https://wikibio.in/keerthy-suresh/" title="Keerthy Suresh Wiki, Age, Boyfriend, Husband, Caste, Biography &amp; More">Keerthy Suresh Wiki, Age, Boyfriend, Husband, Caste,&nbsp;…</a>
+						</div>
+																	</div>
+				</div>
+			</div></li>					<li class="post-box horizontal-small horizontal-container"><div class="horizontal-container-inner">								<div class="post-img">
+					<a href="https://wikibio.in/bhaichung-bhutia/" title="Bhaichung Bhutia Wiki, Age, Height, Wife, Biography, Affairs &amp; More">
+													<img width="65" height="65" src="https://225508-687545-raikfcquaxqncofqfm.stackpathdns.com/wp-content/uploads/2018/11/Bhaichung-Bhutia-65x65.jpg" class="attachment-sociallyviral-widgetthumb size-sociallyviral-widgetthumb wp-post-image" alt="Bhaichung Bhutia" title="" srcset="https://225508-687545-raikfcquaxqncofqfm.stackpathdns.com/wp-content/uploads/2018/11/Bhaichung-Bhutia-65x65.jpg 65w, https://225508-687545-raikfcquaxqncofqfm.stackpathdns.com/wp-content/uploads/2018/11/Bhaichung-Bhutia-150x150.jpg 150w" sizes="(max-width: 65px) 100vw, 65px">											</a>
+				</div>
+								<div class="post-data">
+					<div class="post-data-container">
+						<div class="post-title">
+							<a href="https://wikibio.in/bhaichung-bhutia/" title="Bhaichung Bhutia Wiki, Age, Height, Wife, Biography, Affairs &amp; More">Bhaichung Bhutia Wiki, Age, Height, Wife, Biography,&nbsp;…</a>
+						</div>
+																	</div>
+				</div>
+			</div></li>		</ul>
+</div><div id="mts_popular_posts_widget-2" class="widget widget_mts_popular_posts_widget vertical-small"><h3 class="widget-title">Popular Posts</h3><ul class="popular-posts">			<li class="post-box vertical-small">								<div class="post-img">
+					<a href="https://wikibio.in/abhinandan-indian-air-force/" title="Abhinandan Varthaman (IAF) Wiki, Age, Wife, Family, Biography &amp; More">
+													<img width="300" height="200" src="https://225508-687545-raikfcquaxqncofqfm.stackpathdns.com/wp-content/uploads/2019/02/Abhinandan-Varthaman-300x200.jpg" class="attachment-sociallyviral-widgetfull size-sociallyviral-widgetfull wp-post-image" alt="Abhinandan Varthaman" title="">											</a>
+				</div>
+								<div class="post-data">
+					<div class="post-data-container">
+						<div class="post-title">
+							<a href="https://wikibio.in/abhinandan-indian-air-force/" title="Abhinandan Varthaman (IAF) Wiki, Age, Wife, Family, Biography &amp; More">Abhinandan Varthaman (IAF) Wiki, Age, Wife, Family,&nbsp;…</a>
+						</div>
+																	</div>
+				</div>
+			</li>					<li class="post-box vertical-small">								<div class="post-img">
+					<a href="https://wikibio.in/ashwiny-iyer-tiwari/" title="Ashwiny Iyer Tiwari Wiki, Age, Husband, Family, Biography &amp; More">
+													<img width="300" height="200" src="https://225508-687545-raikfcquaxqncofqfm.stackpathdns.com/wp-content/uploads/2019/03/Ashwiny-Iyer-Tiwari-300x200.jpg" class="attachment-sociallyviral-widgetfull size-sociallyviral-widgetfull wp-post-image" alt="Ashwiny Iyer Tiwari" title="">											</a>
+				</div>
+								<div class="post-data">
+					<div class="post-data-container">
+						<div class="post-title">
+							<a href="https://wikibio.in/ashwiny-iyer-tiwari/" title="Ashwiny Iyer Tiwari Wiki, Age, Husband, Family, Biography &amp; More">Ashwiny Iyer Tiwari Wiki, Age, Husband, Family,&nbsp;…</a>
+						</div>
+																	</div>
+				</div>
+			</li>					<li class="post-box vertical-small">								<div class="post-img">
+					<a href="https://wikibio.in/asha-bhat/" title="Asha Bhat Wiki, Age, Boyfriend, Family, Biography &amp; More">
+													<img width="300" height="200" src="https://225508-687545-raikfcquaxqncofqfm.stackpathdns.com/wp-content/uploads/2019/03/Asha-Bhat-300x200.jpg" class="attachment-sociallyviral-widgetfull size-sociallyviral-widgetfull wp-post-image" alt="Asha Bhat" title="">											</a>
+				</div>
+								<div class="post-data">
+					<div class="post-data-container">
+						<div class="post-title">
+							<a href="https://wikibio.in/asha-bhat/" title="Asha Bhat Wiki, Age, Boyfriend, Family, Biography &amp; More">Asha Bhat Wiki, Age, Boyfriend, Family, Biography&nbsp;…</a>
+						</div>
+																	</div>
+				</div>
+			</li>					<li class="post-box vertical-small">								<div class="post-img">
+					<a href="https://wikibio.in/rati-pandey/" title="Rati Pandey Wiki, Age, Boyfriend, Family, Biography &amp; More">
+													<img width="300" height="200" src="https://225508-687545-raikfcquaxqncofqfm.stackpathdns.com/wp-content/uploads/2019/03/Rati-Pandey-Pic-300x200.jpg" class="attachment-sociallyviral-widgetfull size-sociallyviral-widgetfull wp-post-image" alt="Rati Pandey Pic" title="">											</a>
+				</div>
+								<div class="post-data">
+					<div class="post-data-container">
+						<div class="post-title">
+							<a href="https://wikibio.in/rati-pandey/" title="Rati Pandey Wiki, Age, Boyfriend, Family, Biography &amp; More">Rati Pandey Wiki, Age, Boyfriend, Family, Biography&nbsp;…</a>
+						</div>
+																	</div>
+				</div>
+			</li>					<li class="post-box vertical-small">								<div class="post-img">
+					<a href="https://wikibio.in/rasika-sunil/" title="Rasika Sunil Wiki, Age, Boyfriend, Family, Biography &amp; More">
+													<img width="300" height="200" src="https://225508-687545-raikfcquaxqncofqfm.stackpathdns.com/wp-content/uploads/2019/03/Rasika-Sunil-300x200.jpg" class="attachment-sociallyviral-widgetfull size-sociallyviral-widgetfull wp-post-image" alt="Rasika Sunil" title="">											</a>
+				</div>
+								<div class="post-data">
+					<div class="post-data-container">
+						<div class="post-title">
+							<a href="https://wikibio.in/rasika-sunil/" title="Rasika Sunil Wiki, Age, Boyfriend, Family, Biography &amp; More">Rasika Sunil Wiki, Age, Boyfriend, Family, Biography&nbsp;…</a>
+						</div>
+																	</div>
+				</div>
+			</li>		</ul>
+</div></aside><!--#sidebar-->
+</div><!--#page-->
+</div><!--.main-container-->
+<footer id="site-footer" role="contentinfo" itemscope="" itemtype="http://schema.org/WPFooter">
+	<div class="container">
+		         <div class="copyrights">
+			<!--start copyrights-->
+<div class="row" id="copyright-note">
+<div class="copyright"><a href=" https://wikibio.in/" title=" Biography of Trending Personalities">WikiBio</a> Copyright © 2019. </div>
+<a href="#blog" class="toplink"><i class=" fa fa-angle-up"></i></a>
+<div class="top">
+    <div id="footer-navigation" role="navigation" itemscope="" itemtype="http://schema.org/SiteNavigationElement">
+        <nav id="navigation" class="clearfix">
+            <ul id="menu-pages-menu-footer" class="menu clearfix"><li id="menu-item-457" class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-454 current_page_item menu-item-457"><a href="https://wikibio.in/privacy-policy/">Privacy Policy</a></li>
+<li id="menu-item-458" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-458"><a href="https://wikibio.in/about-us/">About Us</a></li>
+<li id="menu-item-459" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-459"><a href="https://wikibio.in/contact-us/">Contact Us</a></li>
+</ul>        </nav>
+    </div>
+</div>
+</div>
+<!--end copyrights-->
+		</div> 
+	</div><!--.container-->
+</footer><!--#site-footer-->
+    <div class="protect_contents-overlay"></div><div class="protect_alert"><span class="protect_alert_word" style="color:black;">Don`t copy text!</span></div><script type="text/javascript">
+/* <![CDATA[ */
+var wpcf7 = {"apiSettings":{"root":"https:\/\/wikibio.in\/wp-json\/contact-form-7\/v1","namespace":"contact-form-7\/v1"},"recaptcha":{"messages":{"empty":"Please verify that you are not a robot."}},"cached":"1"};
+/* ]]> */
+</script>
+<script type="text/javascript" src="https://225508-687545-raikfcquaxqncofqfm.stackpathdns.com/wp-content/plugins/contact-form-7/includes/js/scripts.js"></script>
+<script type="text/javascript" src="https://225508-687545-raikfcquaxqncofqfm.stackpathdns.com/wp-includes/js/wp-embed.js"></script>
+<script type="text/javascript" async="async" src="https://225508-687545-raikfcquaxqncofqfm.stackpathdns.com/wp-content/themes/mts_sociallyviral/js/jquery.magnific-popup.min.js"></script>
+<script type="text/javascript" async="async" src="https://225508-687545-raikfcquaxqncofqfm.stackpathdns.com/wp-content/themes/mts_sociallyviral/js/sticky.js"></script>
+
+
+<!--
+Performance optimized by W3 Total Cache. Learn more: https://www.w3-edge.com/products/
+
+Page Caching using disk: enhanced 
+Content Delivery Network via 225508-687545-raikfcquaxqncofqfm.stackpathdns.com
+Database Caching using memcached
+
+Served from: wikibio.in @ 2019-03-25 13:19:03 by W3 Total Cache
+--></body></html>
