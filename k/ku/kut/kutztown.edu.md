@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kutztown.edu privacy policy that was archived on 2016-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161124225432id_/http%3A//kutztown.edu/privacy-statement.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kutztown.edu privacy policy that was archived on 2019-03-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190325125320id_/https%3A//www.kutztown.edu/privacy-statement.htm) for the most accurate reproduction.*
 
 # Privacy Statement - Kutztown University
 
@@ -9,10 +9,10 @@ Kutztown University has created this privacy statement in order to demonstrate o
  **Information is automatically logged  
 ** The Kutztown University website uses your IP address to determine statistical uses of this web site and its sub websites. The referring URL (the website you left before coming to a Kutztown website, if any) is logged whenever you view a page on the Kutztown website. This allows us to see which areas are used more than others on the site, the paths taken to reach each page, and also allows us to gauge the effectiveness of any marketing program we may be running at the time.
 
-All information is gathered globally, and no information is linked to any identifying information about you.
+Information is generally gathered globally.  In the rare case of individually gathered data, no information is linked to any identifying information about you.
 
  **Cookies**  
-The Kutztown University web site uses cookies (information stored locally on your computer that our website uses in the future) in certain applications. These cookies are used for the benefit of our users to allow them to apply online and use other applications of this type.
+The Kutztown University website uses cookies (information stored locally on your computer that our website uses in the future) in certain applications. These cookies are used for the benefit of our users to allow them to apply online and use other applications of this type.
 
  **Online Forms  
 ** The Kutztown University site uses online forms for students and faculty to request information about our services. We collect contact information (like their email address) and financial information (like their account or credit card numbers).
