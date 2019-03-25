@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dicksmith.com.au privacy policy that was archived on 2018-03-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180313215657id_/https%3A//www.dicksmith.com.au/da/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dicksmith.com.au privacy policy that was archived on 2019-03-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190325060522id_/https%3A//www.dicksmith.com.au/da/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Dick Smith
 
@@ -74,7 +74,7 @@ If you require further information regarding this policy or wish to make a compl
 
 When transmitting personal information from your computer to a Dick Smith Group website, you must keep in mind that the transmission of information over the Internet is not always completely secure or error-free. Other than liability that cannot lawfully be excluded, Dick Smith Group will not be liable in any way in relation to any breach of security or any unintended loss or disclosure of that information.
 
-The Dick Smith Group websites ([www.dicksmith.com.au](https://www.dicksmith.com.au/) and [www.dicksmith.co.nz](https://www.dicksmith.co.nz/)) may use "cookies" to help personalise your online experience and save you time. You have the ability to accept or decline cookies. If you choose to decline cookies, you may not be able to fully experience the interactive features of the Dick Smith Group websites.
+The Dick Smith Group websites ([www.dicksmith.com.au](https://www.dicksmith.com.au/) and [www.dicksmith.co.nz](https://www.dicksmith.co.nz/)) may use "cookies" to help personalise your online experience and save you time across the Kogan Group websites (including, but not limited to [Kogan.com](https://www.kogan.com/au/), [Dicksmith.com.au](https://www.dicksmith.com.au/da/), [Tandy.com.au](https://www.tandy.com.au/ta/), [Koganinternet.com.au](https://www.koganinternet.com.au/), [Koganmobile.com.au](https://www.koganmobile.com.au/), [Koganinsurance.com.au](https://www.koganinsurance.com.au/), [Koganhealth.com.au](https://www.koganhealth.com.au/), [Koganlifeinsurance.com.au](https://www.koganlifeinsurance.com.au/) & [Koganpetinsurance.com.au](https://www.koganpetinsurance.com.au/)). You have the ability to accept or decline cookies. If you choose to decline cookies, you may not be able to fully experience the interactive features of the Dick Smith Group websites.
 
 ## 11\. Miscellaneous
 
