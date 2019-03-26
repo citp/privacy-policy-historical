@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lansweeper.com privacy policy that was archived on 2018-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181204013200id_/https%3A//www.lansweeper.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lansweeper.com privacy policy that was archived on 2019-03-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190326140705id_/https%3A//www.lansweeper.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Lansweeper IT Asset Management
 
@@ -6,9 +6,9 @@ Latest version: September 11th, 2018
 
 The information contained in this website is subject to change without notice.
 
-**EXTERNAL PRIVACY POLICY**
+ **EXTERNAL PRIVACY POLICY**
 
-  1. **We respect your privacy**
+  1.  **We respect your privacy**
 
 
 
@@ -33,7 +33,7 @@ Within the scope of our commitment to protect your privacy and the security of y
 
 This privacy policy is applicable to any " **processing** " (i.e. any kind of use) of your personal data by Lansweeper.
 
-  2. **The controller of your personal data**
+  2.  **The controller of your personal data**
 
 
 
@@ -41,7 +41,7 @@ Lansweeper is the controller of your personal data. This means that it will deci
 
 Lansweeper processes these personal data in its capacity of company which you or your employer has developed a contractual relationship with (for representatives/contacts of our prospects, customers and suppliers who are natural persons) or in its capacity of operator of the website you visit (for visitors of our website).
 
-  3. **Which personal data are collected for the purpose of processing and how are they collected?**
+  3.  **Which personal data are collected for the purpose of processing and how are they collected?**
 
 
 
@@ -61,28 +61,28 @@ The personal data are obtained in various manners:
   * We receive some of it from third parties: If you make a purchase, we obtain limited information about your payment card from our payment processor. Currently, our payment processor is [Cleverbridge](https://www.cleverbridge.com/corporate/privacy-policy/).
 
 
-  4. **What do we process your personal data for?**
+  4.  **What do we process your personal data for?**
 
 
 
 We always process your personal data for the particular purpose of handling your requests or your purchase in general. We only process the data that are necessary for achieving that purpose. More specifically we process personal data for the following purposes:
 
-  * **Complying with law:** Comply with applicable legal requirements, such as tax and other government regulations and industry standards, contracts and law enforcement requests.
-  * **Contests:** When you participate in an action or contest, we will ask your name, address and email address. This way we can execute the contest and contact and announce the laureate(s). This way we also measure the response to our advertising actions.
-  * **Customer service** : You can [call or email](https://www.lansweeper.com/contact/) In order to make sure that we can help you as quickly as possible, we make use of the data you provide us with and we make notes that we save. We send you emails about your transactions and service-related announcements.
-  * **Enforcement:** Enforce our Terms of Use and other legal terms or policies.
-  * **Improvement of our products and services:** We are continuously searching to improve our services. To this effect we may use your personal data to ask you to participate in a customer or market survey. Sometimes third parties carry out those surveys. To this effect we transmit your email address to that third party. The third party obviously is to observe our privacy rules and after termination of the survey for example it shall delete your email address.
-  * **Management and improvement website:** We also use the data of the persons visiting our website to [manage and improve](https://www.lansweeper.com/cookie-declaration/) these website as well as to analyse the use thereof.
-  * **Management of customers, suppliers and partner programmes:** We store the contact details of our business customers and partners to manage the relationship with these customers and partners.
-  * **Marketing:** For more information please read our [Cookie Declaration](https://www.lansweeper.com/cookie-declaration/). We require this information to understand your needs and provide you with better service and internal record keeping.
-  * **Security and fraud:** We use customer data to examine, prevent and fight fraud and protect our and other's interests, rights and property. If required we also communicate customer data to the competent (administrative) authorities, legal institutions or other public bodies.
-  * **Supply our product and services to customers:** To handle your order we need your contact and billing data such as email address, surname, first name, address, company, VAT ID, telephone number, card number and other billing information from licensee and billing contact. This way we can deliver your order, process payments, respond to your inquiries and keep you updated on the status of your order. If necessary for the handling of your order, we will also transmit your data to our subcontractors, for example our [payment processor](https://www.cleverbridge.com/corporate/privacy-policy/).
+  *  **Complying with law:** Comply with applicable legal requirements, such as tax and other government regulations and industry standards, contracts and law enforcement requests.
+  *  **Contests:** When you participate in an action or contest, we will ask your name, address and email address. This way we can execute the contest and contact and announce the laureate(s). This way we also measure the response to our advertising actions.
+  *  **Customer service** : You can [call or email](https://www.lansweeper.com/contact/) In order to make sure that we can help you as quickly as possible, we make use of the data you provide us with and we make notes that we save. We send you emails about your transactions and service-related announcements.
+  *  **Enforcement:** Enforce our Terms of Use and other legal terms or policies.
+  *  **Improvement of our products and services:** We are continuously searching to improve our services. To this effect we may use your personal data to ask you to participate in a customer or market survey. Sometimes third parties carry out those surveys. To this effect we transmit your email address to that third party. The third party obviously is to observe our privacy rules and after termination of the survey for example it shall delete your email address.
+  *  **Management and improvement website:** We also use the data of the persons visiting our website to [manage and improve](https://www.lansweeper.com/cookie-declaration/) these website as well as to analyse the use thereof.
+  *  **Management of customers, suppliers and partner programmes:** We store the contact details of our business customers and partners to manage the relationship with these customers and partners.
+  *  **Marketing:** For more information please read our [Cookie Declaration](https://www.lansweeper.com/cookie-declaration/). We require this information to understand your needs and provide you with better service and internal record keeping.
+  *  **Security and fraud:** We use customer data to examine, prevent and fight fraud and protect our and other's interests, rights and property. If required we also communicate customer data to the competent (administrative) authorities, legal institutions or other public bodies.
+  *  **Supply our product and services to customers:** To handle your order we need your contact and billing data such as email address, surname, first name, address, company, VAT ID, telephone number, card number and other billing information from licensee and billing contact. This way we can deliver your order, process payments, respond to your inquiries and keep you updated on the status of your order. If necessary for the handling of your order, we will also transmit your data to our subcontractors, for example our [payment processor](https://www.cleverbridge.com/corporate/privacy-policy/).
 
 
 
 The list of possible purposes will be supplemented if necessary.
 
-  5. **How do we process your personal data?**
+  5.  **How do we process your personal data?**
 
 
 
@@ -90,15 +90,15 @@ We save your data only as long as is necessary for the purpose for which it is u
 
 We erase your data when it is no longer relevant.
 
-  * **Customer service:** The billing and license information you provide us with is saved in our internal CRM, to make sure we can provide you with excellent customer service, before and after your purchase. Please make sure this data is always up to date via [sales@lansweeper.com](mailto:sales@lansweeper.com).
-  * **Email Subscriptions:** When you subscribe to our marketing emails, your email address will be saved in a database that is used to send the newsletter you have subscribed to. Your email address will be erased when you have cancelled all your subscriptions. If you wish to disconnect, you can deregister from our marketing emails (via the link we provide you in each email) or adapt your browser settings or your preference via [Cookiebot](https://www.lansweeper.com/cookie-declaration/) accordingly so that it refuses these cookies.
-  * **Comments on Our**[ **Forum**](https://www.lansweeper.com/forum/) **and social media:** Lansweeper reserves the right to erase posts, comments, links and publications that we believe to be abusive, insulting, for marketing purposes, to discredit the market, or that entail copyright intrusion, criminal activity or similar. We also reserve the right to block users who repeatedly contravene our rules. Sharing sensitive information about other people is not permitted when publishing questions and comments on our website or social media pages. Sensitive information may include union membership, sexual orientation, religion, etc. We monitor and moderate our social media pages and our website.
+  *  **Customer service:** The billing and license information you provide us with is saved in our internal CRM, to make sure we can provide you with excellent customer service, before and after your purchase. Please make sure this data is always up to date via [sales@lansweeper.com](mailto:sales@lansweeper.com).
+  *  **Email Subscriptions:** When you subscribe to our marketing emails, your email address will be saved in a database that is used to send the newsletter you have subscribed to. Your email address will be erased when you have cancelled all your subscriptions. If you wish to disconnect, you can deregister from our marketing emails (via the link we provide you in each email) or adapt your browser settings or your preference via [Cookiebot](https://www.lansweeper.com/cookie-declaration/) accordingly so that it refuses these cookies.
+  *  **Comments on Our**[ **Forum**](https://www.lansweeper.com/forum/) **and social media:** Lansweeper reserves the right to erase posts, comments, links and publications that we believe to be abusive, insulting, for marketing purposes, to discredit the market, or that entail copyright intrusion, criminal activity or similar. We also reserve the right to block users who repeatedly contravene our rules. Sharing sensitive information about other people is not permitted when publishing questions and comments on our website or social media pages. Sensitive information may include union membership, sexual orientation, religion, etc. We monitor and moderate our social media pages and our website.
 
 
 
 We collect and use the personal data we have received based on your voluntary, explicit and specific consent, except when the processing is required for the execution of an agreement or for the compliance with an obligation that is imposed by law, decree, ordinance; or when the processing of the personal data is necessary for safeguarding our legitimate interest. In that case we will verify whether your interest or your fundamental rights and freedoms do not override the above. Examples of such a legitimate interest are: providing a cost-effective service, offering our products and services to our customers, fraud prevention and the protection of our IT systems and networks, compliance with our corporate and social responsibilities.
 
-  6. **With whom my personal data are shared?**
+  6.  **With whom my personal data are shared?**
 
 
 
@@ -112,13 +112,13 @@ Such recipients may be located in jurisdictions outside the European Economic Ar
 
 If you make a purchase, we obtain limited information about your payment card from our payment processor. Currently, our payment processor is [Cleverbridge](https://www.cleverbridge.com/corporate/privacy-policy/).
 
-  7. **Right to oppose the use of your personal data for marketing purposes**
+  7.  **Right to oppose the use of your personal data for marketing purposes**
 
 
 
 You can oppose the use of your personal data for direct marketing purposes at all times. To this effect you can send an email to [administration@lansweeper.com](mailto:administration@lansweeper.com) or send a letter to - 9200 Dendermonde, Zeelsebaan 83/Z. This right to oppose can also be exercised through every newsletter.
 
-  8. **Your rights**
+  8.  **Your rights**
 
 
 
@@ -132,7 +132,7 @@ If you are not satisfied with the way we process your personal data, you can inf
 
 We will not sell, distribute, or lease your personal information to third parties unless we are required by law to do so. If you believe that any information we are holding about you is incorrect or incomplete, please email us as soon as possible at the above shown address. We will promptly correct any information found to be erroneous.
 
-  9. **Protection of your personal data**
+  9.  **Protection of your personal data**
 
 
 
@@ -140,17 +140,17 @@ We take the necessary administrative, technical and organizational measures to e
 
 These measures take into account the state of technology, the implementation costs, as well as the nature, the size, the context and the processing purposes and also the probability and severity of the various risks for the rights and freedoms of natural persons that are related to the processing.
 
-**Security**
+ **Security**
 
 We are committed to ensuring that your information is secure. In order to prevent unauthorized access or disclosure we have put in place the suitable physical, electronic, and managerial procedures to safeguard and secure the information we collect online.
 
-  10. **Retention of your personal data**
+  10.  **Retention of your personal data**
 
 
 
 Your personal data will be retained as long as necessary for achieving the purpose for which they were collected and in line with the legal, regulatory and internal requirements in this respect. If however you want your personal data to be deleted from our systems, you can request this as long as your request is legally well-founded, permitted by law and doesn't obstruct us from offering an excellent customer service.
 
-  11. **Cookies**
+  11.  **Cookies**
 
 
 
@@ -160,13 +160,13 @@ Cookies are small text files that are stored on the hard disk of the computer an
 
 Some cookies are necessary to make the website operate, other cookies are intended to improve your user experience. More information on the use of cookies on our website, and more in general, by Lansweeper, can be found [here](https://www.lansweeper.com/cookie-declaration/).
 
-  12. **Links to other websites**
+  12.  **Links to other websites**
 
 
 
 The Lansweeper website may contain links to websites that are administered by customer companies outside Lansweeper. Those other websites have their own Privacy Statement which you should carefully read when you visit them. In no case whatsoever we shall be held liable for the content of those websites, nor for any processing of personal data by these third parties.
 
-  13. **Modification of the privacy policy**
+  13.  **Modification of the privacy policy**
 
 
 
@@ -174,7 +174,7 @@ This privacy policy is subject to modifications.
 
 Future modifications or adjustments when processing your personal data as described in this privacy policy, shall be communicated to you in advance through our website(s) (for example by means of pop-up screens) as well as by means of our other commonly used communication channels (for example by email, if we have your email address). When you use our Website(s) again after this modification, you will be notified thereof and your consent will again be asked, if applicable.
 
-  14. **Contact us**
+  14.  **Contact us**
 
 
 
