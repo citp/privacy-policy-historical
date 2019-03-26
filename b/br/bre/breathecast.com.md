@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the breathecast.com privacy policy that was archived on 2018-09-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180927175758id_/http%3A//www.breathecast.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the breathecast.com privacy policy that was archived on 2019-03-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190326152511id_/http%3A//www.breathecast.com/privacy) for the most accurate reproduction.*
 
 # BREATHEcast | Christian Entertainment News, Music, Movies & Interviews | HD
 
