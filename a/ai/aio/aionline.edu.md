@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the aionline.edu privacy policy that was archived on 2018-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181229083920id_/https%3A//www.artinstitutes.edu/privacy-and-cookies-policy-dceh) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aionline.edu privacy policy that was archived on 2019-03-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190326191033id_/https%3A//www.artinstitutes.edu/privacy-and-cookies-policy-dceh) for the most accurate reproduction.*
 
 # Privacy and Cookies Policy | The Art Institutes
 
