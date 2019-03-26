@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the knowlarity.com privacy policy that was archived on 2017-07-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170705071220id_/https%3A//www.knowlarity.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the knowlarity.com privacy policy that was archived on 2019-03-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190326103918id_/https%3A//www.knowlarity.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy policy - Cloud Telephony, IVR services, Call Center, Virtual Number by Knowlarity
 
@@ -56,7 +56,4 @@ Our goal of collecting your information is to provide you with the best customer
 
 **17\. Your Consent** – By using Knowlarity’s website and/or registering for and using the Services, you consent to our privacy policy. In the event that you do not agree with and/or consent to the terms and conditions set out herein, please do not use or access the Website and Services. You hereby acknowledge and agree that by mere use of the Website and Services, you expressly consent Knowlarity’s collection, receipt, storage, processing, disclosure, transfer, dealing with and handling of the Customer Data in accordance with this Privacy Policy. You understand that while your account is active to use the Website and Services, Knowlarity, its subsidiaries, affiliates and third parties engaged by it, may retain your Information and use it in any manner in order to comply with its contractual obligations and other obligations under applicable law. In the event that you wish to withdraw your consent to Knowlarity’s collection, receipt, storage, processing, disclosure, transfer, dealing with and handling of the Information, you may contact Knowlarity at support@knowlarity.com, informing Knowlarity of your withdrawal of consent to its use as aforesaid of your Information. You hereby acknowledge and agree that in case you withdraw your consent to Knowlarity’s use and disclosure of your Information as provided for in this Privacy Policy, Knowlarity hereby expressly reserves the right to discontinue provision of access to the Website and Services at its own sole discretion.
 
-**WE PROMISED YOU A SURPRISE!**
-
-Come and play the ever famous Snakes (web version) to kill some time if you’re  
-bored.
+**WE PROMISED YOU A SURPRISE!** Come and play the ever famous Snakes (web version) to kill some time if you’re bored.
