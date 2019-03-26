@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the freegames66.com privacy policy that was archived on 2018-08-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180815025301id_/https%3A//www.freegames66.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freegames66.com privacy policy that was archived on 2019-03-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190326234959id_/https%3A//www.freegames66.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy - Freegames66
 
 This Privacy Policy governs the manner in which [Freegames66](https://web.archive.org/) collects, uses, maintains and discloses information collected from users (each, a "User") of the Freegames66 website ("Site"). This privacy policy applies to the Site and all products and services offered by Freegames66. 
 
@@ -40,7 +40,7 @@ We use third-party advertising companies to serve ads when you visit our Web sit
 
 ### Google Adsense
 
-Some of the ads may be served by Google. Google's use of the DART cookie enables it to serve ads to Users based on their visit to our Site and other sites on the Internet. DART uses "non personally identifiable information" and does NOT track personal information about you, such as your name, email address, physical address, etc. You may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at http://www.google.com/privacy_ads.html 
+Some of the ads may be served by Google. Google's use of the DART cookie enables it to serve ads to Users based on their visit to our Site and other sites on the Internet. DART uses "non personally identifiable information" and does NOT track personal information about you, such as your name, email address, physical address, etc. You may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at <http://www.google.com/privacy_ads.html>
 
 ### Changes to this privacy policy
 
