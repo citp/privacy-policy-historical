@@ -1,68 +1,150 @@
-> *The following text is extracted and transformed from the pointhacks.com.au privacy policy that was archived on 2018-03-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180321201602id_/https%3A//www.pointhacks.com.au/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pointhacks.com.au privacy policy that was archived on 2019-03-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190326155928id_/https%3A//www.pointhacks.com.au/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - Point Hacks
+# Point Hacks Privacy Policy
 
-Point Hacks Australia PTY LTD, ACN 622 987 160 (“Point Hacks”) realises the importance of protecting your privacy. In this policy, Point Hacks, “us” or “we” refers to the owner of the website pointhacks.com.au (“Website”) and “you” refers to the user or viewer of the Website. This policy sets out how we collect personal information and how we use, maintain and store personal information. By using the Website, you consent to the collection and handling of your personal information in accordance with this policy.
+Point Hacks is committed to protecting and respecting your privacy and takes its obligations under the _Privacy Act 1988_ (Cth) seriously.
 
-### How and why do we collect information?
+As a result, Point Hacks has implemented practices, procedures and systems to:
 
-We collect information from you when you:
-
-  * register as a member of the Point Hacks Community; 
-  * sign up to our newsletter or other notifications; 
-  * respond to a survey or fill out a form; and
-  * communicate with us by phone or email in relation to your access to and use of the Website or the information contained therein. 
+  * protect your privacy;
+  * maintain the confidentiality and security of personal information it collects and holds; and
+  * manage its systems, practices and procedures in an open and transparent way.
 
 
 
-We collect information necessary to operate the Website including for the purpose of providing services to you through our Website. Among other things, we use your information to improve your experience of our Website.
+By “personal information”, we mean information or an opinion about an identified individual or about an individual who is reasonably identifiable from the information.
 
-### What information do we collect?
+This Policy sets out how we handle personal information we collect and hold.
 
-The information collected from you depends on your use of the Website including the activities you participate in and whether you elect to receive certain communications from us. Generally, we will collect your name and email address.
+### 1\. What personal information does Point Hacks collect and hold?
 
-### Who do we disclose information to?
+The kinds of personal information we may collect and hold are:
 
-We provide your information to third parties to enable us to operate the Website, including any third party involved in a survey or promotional activity and third party service providers we engage to perform functions on our behalf such as mailing Point Hacks loyalty scheme rewards, IT services, data analysis, research and advertising.
+  * your name and contact details (usually, an email address);
+  * gender;
+  * age or age-range;
+  * information on the credit cards you may hold or apply for;
+  * personal information in answers to security log-in questions and survey questions;
+  * details of your visits to our site (including traffic and location information, which pages you visit, weblogs and other communication information, the previous page visited and the type of browser you are using).
 
-We may also release your information when we believe release is appropriate to comply with the law, enforce our site policies, or protect ours or others rights, property, or safety.
 
-In addition to the above, non-personally identifiable information may be provided to other parties for marketing, advertising, or other uses.
 
-### Cookies
+Also, when you visit our site, we may collect information about your computer (including your IP address, operating system and browser type) and the date and time of your visit.
 
-Information may be collected through cookies when you visit our Website. A “cookie” is a small file that sends information to your computer while you’re viewing our Website and enables third parties, including Google, to serve advertisements to you based on your visit to our Website and other websites. Cookies also enables us to track Website use and to remember your information for your next visit to the Website. You can opt out of cookies by setting your browser to refuse cookies but this may mean you miss out on some functionality on our Website. You can also customise your Google advertising experience by visiting www.google.com/ads/preferences.
+The information we collect depends on the scope of your relationship with us (including the extent to which you use this website and interact with us), and we do not keep all of the above information for all people who contact us, or with whom we deal. In many cases, we may have only one or two pieces of data relating to any particular person.
 
-### How do we protect your information?
+### 2\. Why does Point Hacks collect and hold personal information?
 
-We implement a variety of security measures to maintain the safety of your personal information, including secure electronic storage and ensuring we’re up to date with our legal obligations relating to collection, use, storage and disclosure of personal information.
+We collect and hold personal information for a variety of purposes – and different kinds of personal information are used for different purposes.
 
-### Third party links
+In each case, however, the personal information we collect and hold is reasonably necessary for our functions and activities, including to provide you with services you would expect from us. These purposes are:
 
-We may include or offer third party products or services on the Website. The collection and handling of your personal information by any third party is subject to their privacy policy and we have no responsibility for the conduct of that third party. Nonetheless, we seek to protect the integrity of our Website and welcome any feedback about these sites and the information handling practices of third parties.
+  * to provide you with news and information, products or services that you request from us or which we believe may interest you;
+  * for purposes necessary or incidental to providing you with products and services that you have ordered or requested from us;
+  * to personalise and customise your experience when using our site (including so that our site is presented in the most effective manner for you and for your computer);
+  * to communicate with you (including by email, mail or telephone, and including in relation to changes to our products and services);
+  * to manage and enhance our products and services;
+  * to facilitate any payment you have agreed to make for our products or services;
+  * for system administration;
+  * for research purposes;
+  * for network analysis and security;
+  * to allow you to participate in interactive features of our site that may be available;
+  * to investigate any complaints about or made by you, or if we have reason to suspect that you are in breach of any of our terms and conditions or that you are, have been or may be engaged in any unlawful activity; and
+  * as required or permitted by any law (including privacy legislation).
 
-### Childrens Online Privacy Protection Act Compliance
 
-We are in compliance with the requirements of COPPA (Childrens Online Privacy Protection Act), we do not collect any information from anyone under 13 years of age. Our Website, products and services are all directed to people who are at least 13 years old or older.
 
-### Access to and correction of your personal information
+Sometimes, when collecting information from you, we may also ask you to “opt-in” to consent to us using or disclosing your personal information other than in accordance with this Privacy Policy or any applicable law. As part of our commitment to protecting your privacy, however, you will also be given the opportunity to “opt out” from receiving communications from us or from third parties that send communications to you in accordance with this Policy or in accordance with any additional consent you give, and we will comply with your decision. (You will be able to “opt out”, for example, by clicking on an “unsubscribe” link at the end of an email, or by contacting our Privacy Officer.)
 
-You can contact us to access or correct your personal information using the contact details set out under the “Contacting Us” section below. If you wish for us to delete your personal information please notify us and we will delete it unless we are required to retain it by law.
+### 3\. How does Point Hacks get the personal information it collects and holds?
 
-### Contacting Us
+Point Hacks only collects personal information by fair and lawful means, including when people:
 
-If there are any questions regarding this privacy policy or if you would like to submit a complaint relating to the way we have handled your personal information, you may contact us using the information below.
+  * register as a member of the Point Hacks community;
+  * volunteer information or apply for a credit card through the site;
+  * purchase or download products or services from us, from our site or from our commercial partners after being referred from Point Hacks;
+  * respond to surveys;
+  * fill in contact, registration and order forms on our site (including for our newsletter or other notifications);
+  * browse our site (we use cookies to ensure you have the best experience when browsing);
+  * post material to our site or to social media that we may from time to time use (such as Facebook and Twitter);
+  * contact us for assistance or with questions, or report problems with our site or with an issue, product or services; and
+  * contact us directly, other than through our site or social media (for example, by post or email).
 
-Point Hacks support: [assist@pointhacks.com.au](mailto:assist@pointhacks.com.au)
 
-If you have a complaint, you also have the right to complain to the Office of the Australian Privacy Commissioner, tel: 1300 363 992 or email: privacy@privacy.gov.au.
 
-### Website terms of use
+We prefer to obtain any personal information we collect directly from you. In some cases, however, it may be unreasonable or impracticable to obtain personal information directly, and we may obtain that information from someone else.
 
-This policy is deemed to incorporate our terms of use at https://www.pointhacks.com.au/terms and by using the Website, including by registering as a member of the Point Hacks Community, you accept our terms of use.
+If you are concerned about what personal information we may hold about you, please see below for information on how you can access and (if necessary) correct that information.
 
-### Changes to our Privacy Policy
+### 4\. Cookies
 
-If we decide to change our policy, we will post those changes on this page and post the date on which those changes take effect below.
+Cookies are small pieces of data that websites store on your computer. These are used by many sites and for a range of purposes. Depending on how you have configured your browser, you probably already have a great many already stored on your hard drive.
 
-#### This policy was last modified on 21 March 2015.
+Cookies are required to be able fully to use this website, as we use a cookie to track whether you are logged in and to store your log-in details. These are then used to enhance your experience of the site.
+
+### 5\. Can I interact with Point Hacks anonymously or under a pseudonym?
+
+When browsing our website, you can do so anonymously by blocking cookies and other tracking software using your browser. However in many cases, you may need to provide your real name when interacting with us.
+
+Wherever lawful and practicable, however, you may use a pseudonym (or simply not identify yourself) when dealing with us. For example, if you have a complaint or concern about our site, or a general question about us, you are welcome to contact us without identifying yourself. In some cases, however, if you do not provide us with information, we may not be able to provide you with services, or respond adequately to you.
+
+For clarification on when you must identify yourself, please contact our Privacy Officer. (You may use a pseudonym – or simply not identify yourself – when making such an enquiry.)
+
+### 6\. Who has access to my personal information?
+
+Generally, only our staff will access your personal information, and then only on a “need to know” basis.
+
+We may, however, also disclose your personal information:
+
+  * to people who work for or with us or for suppliers, who may be engaged in, among other things, processing payments, marketing, research and providing support services;
+  * to enforce or apply our terms of use or where you have otherwise been engaged in (or threatened) any unlawful activity, and we reasonably believe that disclosure is necessary to the police, any relevant authority or enforcement body, your internet service provider, your employer or supervisor or network administrator;
+  * to protect the rights, property, health or safety of Point Hacks or its staff, customers or others (including exchanging information with other companies and organisations to protect against fraud and to reduce credit risk);
+  * to our agents, business affiliates, joint venture entities and other partners;
+  * to anyone else that you specifically authorise us to receive information held by us; and/or
+  * as otherwise required or permitted by law (including under privacy legislation).
+
+
+
+While we try to link only to websites that share our high standards and respect for privacy, we are not responsible for the privacy policy of any other web site to which you provide personal information.
+
+### 7\. How can I access (and, if necessary, correct) personal information that Point Hacks collects and holds about me?
+
+If you want to review (and, if necessary, correct) personal information that Point Hacks may have collected and holds on you, please contact our Privacy Officer.
+
+We will respond to your requests to access and to correct your personal information as soon as possible (but in any case within a reasonable period).
+
+### 8\. How can I complain about Point Hacks if it breaches any applicable privacy principles or any registered code that binds it?
+
+Contact our Privacy Officer if you have any complaints about breaches by Point Hacks of any applicable privacy principles or of any registered code that binds it.
+
+### 9\. How will Point Hacks deal with complaints I might have about breaches of applicable privacy legislation or any relevant registered code?
+
+We will treat any complaint about a breach of privacy legislation or any relevant registered code seriously and will investigate any breach of which we become aware – including how it occurred and how best to prevent such a breach occurring again.
+
+### 10\. What steps does Point Hacks take to secure personal information?
+
+We take all reasonable steps to ensure that your personal information is treated securely and in accordance with this Policy and is not subject to misuse, interference or loss, or unauthorised access, modification or disclosure. For example, apart from using secure servers (with application-level security and restricted logins), we implement firewalls. Where relevant, we also impose limits on who can access personal information.
+
+Please note, however, that the transmission of information (including over the Internet) is never completely secure. Although we will do our best to protect your personal information, we cannot guarantee the security of your information – particularly while it is being transmitted to us – so any transmission is at your own risk and we cannot accept responsibility for misuse or loss of, or unauthorised access to, your personal information where the security of information is not within our control.
+
+If you suspect any misuse or loss of, or unauthorised access to, your personal information, please let us know immediately.
+
+If we have given you (or where you have chosen) a password which enables you to access our services or parts of our site, you are responsible for keeping this password confidential. We ask you not to share your password with anyone.
+
+### 11\. Does Point Hacks disclose personal information to people or organisations outside Australia?
+
+Point Hacks holds personal information securely on servers operated by our suppliers located overseas, including in Singapore and the United States.
+
+### 12\. Does Point Hacks ever change its Privacy Policy?
+
+We review our Privacy Policy from time to time, to ensure it is in line with best practice and up-to-date with any legislative changes. Any changes to our privacy policy will be incorporated into a new version and made available online. Our use of your personal information will be governed by our most recent policy.
+
+Please contact our Privacy Officer if you have any questions, comments or requests in relation to this Privacy Policy.
+
+### 13\. Who do I contact at Point Hacks about privacy issues?
+
+Contact our Privacy Officer at [assist@pointhacks.com.au](mailto:assist@pointhacks.com.au) if you have any concerns about privacy issues, including in relation to how Point Hacks is dealing with your personal information or how it is being held.
+
+Please also contact our Privacy Officer if you want to review and/or correct any personal information we hold about you, or if you receive communications purporting to be connected with Point Hacks or our services that you believe have been sent other than in accordance with this Policy or in breach of any law.
+
+ **Point Hacks, we, us** and **our** means Point Hacks Pty Ltd, ACN 622 987 160 of 120/3 Male Street, Brighton, Victoria 3186 together with its successors and assigns.
