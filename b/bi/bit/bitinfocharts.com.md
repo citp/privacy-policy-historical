@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bitinfocharts.com privacy policy that was archived on 2018-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181224195646id_/https%3A//bitinfocharts.com/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bitinfocharts.com privacy policy that was archived on 2019-03-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190326045456id_/https%3A//bitinfocharts.com/privacypolicy.html) for the most accurate reproduction.*
 
 # Privacy policy
 
