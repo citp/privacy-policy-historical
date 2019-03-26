@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cloudability.com privacy policy that was archived on 2017-07-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170707174150id_/https%3A//www.cloudability.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cloudability.com privacy policy that was archived on 2019-03-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190326053931id_/https%3A//www.cloudability.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Cloudability
 
@@ -20,7 +20,7 @@ In order to access and use our products, services and content, you may be asked 
   * We use personal information to help us create, develop, operate, deliver, and improve our products, services and content as well as for fraud prevention.
   * From time to time we may use your personal information to send you important notices about changes to our terms of service and policies.
   * We may also use personal information for internal purposes such as auditing, data analysis and research to improve our products.
-  * If you enter into any of our promotions or contests we will use personal information to administer those programs.
+  * If you enter into any of our promotions or contests, or attend one of our live events, we will use personal information to administer those programs, and we may send you information about our products and services which you may opt-out of by clicking the “unsubscribe” link.
 
 
 
@@ -32,6 +32,7 @@ We also collect data in a form that, on its own, does not allow us to identify o
   * We may also collect information regarding specific activities you perform on our websites. This information is used to help us improve the content and usability of our websites. This information is aggregated and we consider aggregated information as non-personal for the purposes of this privacy policy.
 
 
+* We may collect your information when you register to attend one of our online or live events, trainings or webinars.
 
 If we do combine non-personal information with personal information the combined information will be treated as personal information for as long as it remains combined.
 
@@ -58,6 +59,8 @@ We use this information to analyze trends, to administer our websites, to learn 
 ## Disclosure to Third Parties
 
 Personal Information will only be shared by Cloudability to provide or improve our products, services, and content. It will not be shared with third parties for their marketing purposes without your permission. _If we ever were to engage in any onward transfers of your data with third parties other than our agents, we would provide you with an opt-out choice to limit the use and disclosure of your personal data._ In cases of onward transfer to third parties of data of EU and Swiss individuals received pursuant to the EU-US and Swiss-US Privacy Shield, Cloudability is potentially liable.
+
+If you register to attend a co-sponsored online or live event, we may share your registration data with the other event sponsors. Each event sponsor will be responsible for their own use of your registration data.
 
 ## Service Providers
 
@@ -116,7 +119,7 @@ Cloudability has further committed to refer unresolved privacy complaints under 
 
 Please note that if your complaint is not resolved through these channels, under limited circumstances, a binding arbitration option may be available before a Privacy Shield Panel.
 
-##  U.S. Federal Trade Commission Enforcement
+## U.S. Federal Trade Commission Enforcement
 
 Our commitments under the Privacy Shield are subject to the investigatory and enforcement powers of the United States Federal Trade Commission.
 
@@ -128,4 +131,4 @@ The Service is not directed to children. We do not knowingly collect personally 
 
 Cloudability may update its Privacy policy from time to time. When we change the policy in a material way, a notice will be posted on our website along with the updated Privacy Policy.
 
-Last Updated: **May 9th, 2017**
+Last Updated: **July 2, 2018**
