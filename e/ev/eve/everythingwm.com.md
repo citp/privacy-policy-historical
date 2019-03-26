@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the everythingwm.com privacy policy that was archived on 2018-04-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180421121447id_/http%3A//www.everythingwm.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the everythingwm.com privacy policy that was archived on 2019-03-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190326175119id_/http%3A//www.everythingwm.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
