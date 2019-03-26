@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the herosports.com privacy policy that was archived on 2018-10-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181009030803id_/https%3A//herosports.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the herosports.com privacy policy that was archived on 2019-03-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190326043045id_/https%3A//herosports.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - HERO Sports
 
