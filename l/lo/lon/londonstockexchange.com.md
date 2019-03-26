@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the londonstockexchange.com privacy policy that was archived on 2018-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181202035514id_/https%3A//www.londonstockexchange.com/global/legal/privacy-policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the londonstockexchange.com privacy policy that was archived on 2019-03-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190326055032id_/https%3A//www.londonstockexchange.com/global/legal/privacy-policy.htm) for the most accurate reproduction.*
 
 # Privacy and Cookies Policy - London Stock Exchange
 
