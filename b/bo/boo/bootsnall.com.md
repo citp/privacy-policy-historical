@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the bootsnall.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606025941id_/http%3A//www.bootsnall.com/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bootsnall.com privacy policy that was archived on 2019-03-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190326152228id_/https%3A//www.bootsnall.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | BootsnAll Travel Blog
+# Privacy Policy – BootsnAll
 
-This is a web site of BootsnAll.com. We can be reached via [our customer support page](http://support.bootsnall.com/).
+This is a web site of BootsnAll.com. We can be reached via [our contact page](https://www.bootsnall.com/contact-us).
 
 For each visitor to our Web page, our Web server automatically recognizes only the consumer’s domain name, but not the e-mail address (where possible).
 
