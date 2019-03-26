@@ -1,100 +1,110 @@
-> *The following text is extracted and transformed from the fivesquid.com privacy policy that was archived on 2011-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111229203604id_/http%3A//www.godaddy.com/agreements/ShowDoc.aspx%3Fpageid%3Dprivacy_parkedpage) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fivesquid.com privacy policy that was archived on 2019-03-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190326122549id_/https%3A//www.fivesquid.com/privacy-policy) for the most accurate reproduction.*
 
-# Legal Agreement
+# Privacy Policy - fivesquid
 
-**Go Daddy Respects Your Privacy**
+**Last updated: May 2018**
 
-**This Privacy Policy explains our privacy and information gathering practices, such as the types of information we collect and under what circumstances that information is shared.**
+It is important that you read and understand this privacy policy so you are aware of how we, Fivesquids Limited (fivesquid), collect, use and store your data. In line with UK data protection laws and EU regulations, specifically the General Data Protection Regulation (GDPR) we have obtained your consent to do this and your continued use of the fivesquid.com platform demonstrates your agreement to this policy and any subsequent changes.
 
-**Please take the time to review the terms of this Policy.   By using this Site, you agree to accept the terms provided.**
+From time to time we may make changes to this policy and we will inform you that changes have been made. fivesquid is compliant with GDPR and believes that the site’s users have the right to know how their data is collected and used by us. This notice outlines our practices when gathering, storing, using and deleting your data.
 
-**Other than as described in this Policy, we will not give any information about you to others without your express permission.**
+## Who is collecting your data?
 
-**Information Collection and Use**
+Your data is being collected by Fivesquids Limited (“fivesquid”), a company registered in England and Wales. fivesquid is committed to protecting you, our users’ (buyers, sellers and the general public visiting our site) personal data and we respect your privacy as outlined in this policy. Should fivesquid be sold, undergo a merger (either fully or partly) or face bankruptcy your data could be included in an asset transfer at which point you will be notified.
 
-Although this Site is primarily for informational purposes, we may ask you to provide us with your name, email address or other information that could be used to identify you personally.  For example, we may collect this information in the event that you register as a member of this Site, post a comment, sign-up to receive email communications, or submit demographic information as part of a survey.
+## Minimum age of our users
 
-We receive and store any information you enter on our Site or give us in any other way, including through email, telephone, or other communications. If you contact us for support, we will keep an internal record of our communication with you.
+All users of fivesquid.com must be over the age of 16. All data and information we have unwittingly obtained from children under the age of 16 will be deleted. Any members who are aware or concerned that a member is a child under the age of 16 and sharing information, should report this to our [customer support team by raising a ticket with the helpdesk.](https://support.fivesquid.com/hc/en-us/requests/new)
 
-We may use your information to contact you regarding the information and services available on our Site, functionality changes to our Site, and special offers we think you'll find valuable. If you would rather not receive this information, please see the "Updating Your Information" section below on how to change your preferences.
+## What information do we collect?
 
-We may also use your information to present a co-branded offer with our partners or affiliates. If we collect information from you in connection with a co-branded offer, it will be clear at the point of collection who is collecting the information and whose privacy statement applies.
+When users register with fivesquid, they give information about themselves in order to open an account - providing additional information including a full name, the services offer, key skills, geographic location and a profile image. Additionally, all registered users have access to the fivesquid on-platform messaging service, to send messages between members of the platform as well as directly to fivesquid.
 
-We use information gathered about you from our Site statistics (for example, your IP address) to help diagnose problems with our server, and to administer our Site. We also gather broad demographic information from this data to help us improve our Site and make your browsing and purchasing experience more enjoyable. This is not linked to any personally identifiable information, except as necessary to prevent fraud or abuse on our system.
+## fivesquid hold the following information on our users:
 
-Our Site uses cookies to enhance your experience with our Site.  Cookies are data files that are placed in your browser to keep track of your personal preferences and to facilitate easy navigation through our Site.  We use cookies to identify you so you don't need to log in each time you visit our Site.  You may opt-out of the use of cookies by altering settings on your browser.  Please note, however, that some areas of the Site will be easier to navigate with the use of cookies..
+  * email address
 
-This Site also contains links to other websites. Unfortunately, we are not responsible for the privacy practices or the content of such sites.
+  * member’s name
 
-**Security**
+  * PayPal email address (applicable for sellers only)
 
-This Site has security measures in place to protect against the loss, misuse or alteration of the information under our control.
+  * fivesquid on-platform messages - members must be aware that these messages are not confidential and the fivesquid compliance team have the right to review these messages for dispute resolution purposes, or concerns over fraudulent or other illegal activity
 
-**Updating Your Information**
+  * When issuing a complaint against a member or raising an issue, any information provided in this instance will be retained
 
-You may alter your account information or opt out of receiving communications from us and our partners at any time. We have the following options for changing and modifying your account information or contact preferences.
+  * Any other correspondence between our users and fivesquid will also be retained
 
-        i.      You may send an email to [support@godaddy.com ](mailto:support@godaddy.com)
+  * fivesquid may also hold some additional data that users provide to improve their freelance profile. Users can view the information they have provided by viewing their profile page when logged in. The information users choose to provide on their profile is in the public domain and is visible to all visitors of the site
 
-       ii.      You may send mail to Go Daddy at the following postal address:   
-               14455 North Hayden Road, Suite 219, Scottsdale, AZ. 85260 USA
+  * orders placed and received by our users
 
-      iii.      You may call us at: (480) 505-8800
+  * users’ PayPal and/or Stripe transactions and/or any other future payment partner(s)
 
-       iv.      You may fax us at: (480) 505-8844
+  * fivesquid from time to time may collect additional information such as physical address and additional authentication information.
 
-**Sending Emails**
 
-We use emails to communicate with you and to send information that you have requested.  We also provide email links to allow you to contact us directly. We strive to promptly reply to your messages.
 
-The information you send to us may be stored and used to improve this Site and our products, or it may be reviewed and discarded.
 
-**Compliance with Laws and Law Enforcement**
+fivesquid does **NOT** hold any payment card or bank account information. Users’ payment card information is never shared with us by our payment processors.
 
-We cooperate with government and law enforcement officials and private parties to enforce and comply with the law. We will disclose any information about you to government or law enforcement officials or private parties as we, in our sole discretion, believe necessary or appropriate to respond to claims and legal process (including without limitation subpoenas), to protect our property and rights or the property and rights of a third party, to protect the safety of the public or any person, or to prevent or stop activity we consider to be illegal or unethical. We will also share your information to the extent necessary to comply with ICANN's rules, regulations and policies.
+Additional information is also gathered when users view and utilise the platform by form of user behaviour analytics - this information includes, but is not limited to:
 
-**Third Party Service Providers**
+  * Geographic location
 
-We may at times provide information about you to third parties to provide various services on our behalf, such as serving advertisements, conducting contests or surveys, performing analyses of our user demographics, shipping of goods or services, and user relationship management. We will only share information about you that is necessary for the third party to provide the requested service. These companies are prohibited from retaining, sharing, storing or using your personally identifiable information for any secondary purposes.
+  * Brower details
 
-In the event that we use third party advertising companies to serve ads on our behalf, these companies may employ cookies and action tags (also known as single pixel gift or web beacons) to measure advertising effectiveness. Any information that these third parties collect via cookies and action tags is completely anonymous. If you would like more information about this practice and your choices, click [here. ](http://www.networkadvertising.org/managing/opt_out.asp)
+  * Device details
 
-**Supplementation of Information**
+  * IP address
 
-In order to provide certain services to you, we may on occasion supplement the personal information you submit to us with information from third party sources ( _e.g.,_ information from our strategic partners, service providers, or the United States Postal Service).  We do this to enhance our ability to serve you, to tailor our products and services to you, and to offer you opportunities to purchase products or services that we believe may be of interest to you.
+  * Impression data
 
-**Contests/Surveys**
+  * Global identifier data from advertisements
 
-From time-to-time, we may provide you with the opportunity to participate in contests or surveys. If you choose to participate, we may request certain personally identifiable information from you. Participation in these contests or surveys is completely voluntary and you therefore have a choice whether or not to disclose the requested information. The requested information typically includes contact information (such as name and address), and demographic information (such as zip code and age level - note that you must be 18 or above to enter). We use this information to notify contest winners and award prizes, to monitor Site traffic, and to personalize our Site.
 
-We may use a third party service provider to conduct these surveys or contests. When we do, that company will be prohibited from using our users' personally identifiable information for any other purpose. We will not share the personally identifiable information you provide through a contest or survey with other third parties unless we give you prior notice and choice.
 
-**Tell-A-Friend**
 
-If a user elects to use our referral service to inform a friend about our Site, we ask the user for the friend's name and email address. Go Daddy will automatically send the friend a one-time email inviting them to visit our Site. Go Daddy stores this information for the sole purpose of sending this one-time email. The friend may contact Go Daddy at [support@godaddy.com ](mailto:support@godaddy.com)to request the removal of this information from our database.
+## Why do we need this information?
 
-**What Happens to my Personal Information if I Opt Out?**
+We need this information to allow us to communicate with our users regarding current orders and provide users with services relating to this. The PayPal or Stripe data allows us to check the details of receipts and payments made by or to our users, and is necessary for us to calculate how much commission we earn and how much money we should pay to our members. We keep your messages because we sometimes need them to help resolve disputes between users and fivesquid, should they arise, in accordance with our ‘service guarantee’. This helps us to ensure the integrity of the platform; prevent fraud and misuse and; provide a secure and easy place for users to trade their skills. All of the above is vital to ensuring we offer a safe and high quality service to our users. Should we need to use your information for reasons other than those set out in this policy, your consent will be obtained beforehand.
 
-If you advise us that you wish to opt out of receiving further communications from us, we will place your personally identifiable information in "deactivated" status on our relevant databases. However, you should know that placement of your information in "deactivated" status does not mean your personally identifiable information has been deleted from our database entirely. We will retain and use your personally identifiable information as necessary in order to comply with our legal obligations, resolve disputes, or enforce our agreements.
+## How long is user data retained for?
 
-**Transfer of Data Abroad**
+fivesquid retains most user information for a minimum of six years as part of its obligation under UK tax and accountancy rules. After six years we will review and delete (anonymise) if appropriate. fivesquid has no legal requirement to retain message records. Records are retained to resolve queries and disputes between users for as long as necessary. Data may also be retained until no longer needed from closed accounts to prevent fraudulent or other illegal activity, resolve any ongoing disputes or collect outstanding fees.
 
-If you are visiting this Site from a country other than the country in which our servers are located, your communications with us may result in the transfer of information across international boundaries.  By visiting this Site and communicating electronically with us, you consent to such transfers.
+## How do we anonymise user data?
 
-**Changes in Our Practices**
+When you as a user asks to have their account deleted, fivesquid will in certain cases choose to anonymise some of your data and delete the rest. For example if you are a buyer and you have left feedback on a seller, this data is important to that seller - it impacts on their earnings and customer experience on the site. In such instances fivesquid will anonymise the feedback so it cannot be linked to or identify you. The data that we will anonymise includes: username, email, full name, IP address. The following data will always be deleted: your description, profession, profile pictures, city, country, favourite services, favourite sellers and any services. 
 
-We reserve the right to modify this Privacy Policy at any time. If we decide to change our Privacy Policy, we will post those changes to this Privacy Policy and any other places we deem appropriate, so that you are aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it.
+## How do we collect user information?
 
-If we make material changes to this Policy, we will notify you here, by email, or by means of a notice on our home page, at least thirty (30) days prior to the implementation of the changes.
+The majority of information is collected directly by our users voluntarily providing the information on the site, through registration forms, posting services / requests, messaging users and providing any ad hoc voluntary information on the site. Behavioural and technical user data is automatically collected through our systems - an example of this is the use of Cookies (please see below).
 
-**Contacting Our Site**
+## Data shared with Third Parties
 
-If you have any questions about our Privacy Policy, the practices of this Site, or your dealings with this Site, please contact us at:
+fivesquid will never sell or lease your personal data to third parties for marketing purposes. Should we ever want to do this we would gather users' explicit consent. Your personal data will only ever be provided to third parties to allow the fivesquid platform to continue operating. Examples of these are our Customer Relationship Management systems, mailing systems, technical support, third party analytics (such as Google) and of course payment processors. fivesquid do NOT hold any payment card or bank account information. This is never shared with or by our payment processors. For details on your privacy please refer to our individual payment processors' privacy policies for details.  To protect the platform and its users from fraudulent and other criminal activity, we are duty bound to share your personal data if requested by a regulatory authority or a court order. Your personal data can be used statistically as a group of users with information from other companies (suppliers) used to develop the platform and inform our marketing activity.
 
-* * *
+## The use of Cookies
 
-Go Daddy   
-ATTN: Web Team   
-14455 North Hayden Rd.   
-Suite 219   
-Scottsdale, AZ, 85260, U.S.A.
+As described, we collect anonymous behavioural and technical data on our users. This data is obtained by the use of ‘cookies’, small computer programs that are temporarily stored in your web browser. Cookies in isolation do not allow us to identify individual users.
+
+We have third party data collectors that use cookies such as Google analytics, facebook pixel and our payment processors (pertaining to details to remember your payment details should you wish to). fivesquid uses cookies which remember your login details (remember your password, should you choose) and also user_Id and time logged in for functionality security purposes. We also, as per EU law, use cookies if you’ve clicked the OK button on the cookie notice.  Should you not want us to use cookies, you can set your browser to block them. Please be aware that some of our services may not work properly when cookies are disabled.
+
+## Links to third party websites
+
+All links to external sites which are run by third parties are outside the control of this privacy policy; as such, we have no responsibility for their privacy policy and general practices.  We recommend that you review their individual privacy policies should you have any concerns.
+
+## Users’ rights to update or delete their data
+
+Most of the user generated content (UGC) on the website can be updated directly by our users once they have logged in. Should users wish to update any other information they should contact the support desk to assist them with this. We may require some personal information to make any changes in terms of verifying your identity as a security measure. Users have the right to delete their account at anytime, and this can be arranged by contacting the support desk who will arrange this for you. Please note as detailed above, your data may be stored for a relevant period of time as required by regulatory bodies in the UK and our own data storage policies and fivesquid may elect to anonymise your data. Additionally, please be aware that once we have deleted your UGC from the site it may still be viewable by some users, if for example it remains cached on their system or they have taken copies e.g.  a 'screen grab'.
+
+## Users’ rights to request access to information we hold
+
+All users have the right to access the information we hold about them. This can be done by requesting this from the support desk who will arrange this for you. Please be advised that this may be subject to a £10 fee to cover the cost of providing this information.
+
+## Breach notification and data security
+
+In the unlikely event of a breach of our security and in line with our obligations under GDPR, we must notify all users who are affected or at risk of being affected by the breach within 72 hours of the time when we were first alerted to the breach.  
+ 
+
+If you have any questions regarding this policy [please contact the service desk.](https://support.fivesquid.com/hc/en-us/requests/new)
