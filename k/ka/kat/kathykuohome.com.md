@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kathykuohome.com privacy policy that was archived on 2017-02-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170228203315id_/https%3A//www.kathykuohome.com/Service/Info/privacynotice) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kathykuohome.com privacy policy that was archived on 2019-03-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190326035313id_/https%3A//www.kathykuohome.com/Service/Info/privacynotice) for the most accurate reproduction.*
 
 # Privacy Notice | Kathy Kuo Home
 
@@ -9,6 +9,8 @@ Contact Us
 Shipping
 
 Returns
+
+Damages
 
 Product Review Policy
 
@@ -54,19 +56,27 @@ Press & Media
 
 | 
 
-**Privacy Notice**
-
 **We commit ourselves to your security and privacy.**
 
 Kathy Kuo Home values our customers and respects your privacy. This privacy policy (“Policy”) describes the personal information we collect, why we collect it, how we use and protect it, and when we share it with third parties. Our Policy also describes the choices you can make about how we collect and use your information. By providing your personal information to Kathy Kuo Home, you consent to the manner in which we collect, use, disclose, protect and otherwise manage that information.
 
 If our information practices change, we will post an updated version of the Policy on the Kathy Kuo Home Website (“Website”). You can tell if the Policy has changed by checking the “Last Updated” date that appears below and that will be the date on which the new Policy becomes effective. You may exercise your choices about how we collect and use your information consistent with this Policy at any time. If you have any questions about our Policy, please contact us as described in the section below entitled, "How do I contact you?"
 
-This Policy Was Last Updated April 21th, 2016.
+This Policy Was Last Updated May 1, 2017.
 
 **What personal information does Kathy Kuo home collect?**
 
-We may collect personal information from you, such as your name, email address, postal address, phone number, or credit card number when you visit our Website, place an order online or by phone, save your information with us online, contact us with a question or concern, or participate in a contest, promotion, or survey. We also maintain a record of your product interests and the purchases you make online or by phone. We may combine all of this information with information about you that we acquire from our joint marketing partners and from unrelated third parties.
+We may collect personal information from you (such as your name, email address, postal address, phone number, or credit card number) when you visit our Website, place an order online or by phone, save your information with us online, contact us with a question or concern, participate in a contest, promotion, or survey, etc. 
+
+When you access or use www.kathykuohome.com, we automatically collect information about you, including:
+
+**Log Information:**  We log information about your use of the Services, including your access times, pages viewed, Internet Protocol (“IP”) address, browser type and language and the website you visited before navigating to our Services. We may also infer your geographic location based on your IP address.
+
+**Device Information:**  We collect information about the computer or mobile device you use to access our Services, including the hardware model, operating system and version, unique device identifiers and mobile network information.
+
+**Information Collected by Cookies and Other Tracking Technologies:**  We use various technologies to collect information, and this may include sending cookies to your computer or mobile device. Cookies are small data files stored on your hard drive or in device memory that help us to, among other things, improve our services and your experience, see which areas and features of our Services are popular and count visits. You may choose to disable your cookies at any time. 
+
+We also maintain a record of your product interests and the purchases you make online or by phone. We may combine all of this information with information about you that we acquire from our joint marketing partners and from unrelated third parties.
 
 **How does Kathy Kuo Home use my information?**
 
@@ -80,7 +90,11 @@ We may use your personal information for one or more of the following reasons:
   * To enhance your shopping experience through our Website;
   * To analyze trends and statistics;
   * To protect the security or integrity of our Website and our business; and/or
-  * To contact you if necessary.
+  * To contact you if necessary.;
+  * To send you technical notices, updates, security alerts and support and administrative messages;
+  * To respond to your comments and questions and provide customer service;
+  * To personalize and improve the Services and provide advertisements, content or features that match your profile and interests;
+  * To carry out any other purpose for which the information was collected.
 
 
 
@@ -99,6 +113,8 @@ We may share your personal information for one or more of the following reasons:
 Kathy Kuo Home wants to communicate with you only if you want to hear from us. If you prefer not to receive promotional information, such as information about special offers and sales events, you can let us know by contacting us as described in the section below entitled, "How do I contact you?"
 
 If you ask us to remove your name and address from all or certain promotional lists, we will maintain your name on a “do not contact” list so that we can honor your request. It may take up to 10 days to process your email request and 6-8 weeks to process your postal mail request, during which period you may continue to receive communications from Kathy Kuo Home. If you change your mind, you can start receiving promotional communications from us again by contacting us.
+
+Please note that we use Google Analytics cross device services and other third party analytics tools to serve you targeted and remarketing advertising.  
 
 Please note that when you make an online purchase from us, we will continue to confirm your order status and shipment by email. We may also need to contact you via telephone, email or postal mail with questions or information regarding your order.
 
@@ -142,12 +158,9 @@ MORE WAYS TO REACH US
 
 Call Us
 
-1-888-908-2925
-
 Hours
 
-9am to 6pm EST   
-Mon. to Fri. 
+9am to 6pm EST Mon. to Fri.
 
 Email
 
