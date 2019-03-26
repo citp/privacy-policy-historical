@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the informationclearinghouse.info privacy policy that was archived on 2018-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181202222100id_/http%3A//www.informationclearinghouse.info/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the informationclearinghouse.info privacy policy that was archived on 2019-03-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190326152408id_/http%3A//www.informationclearinghouse.info/privacy.htm) for the most accurate reproduction.*
 
 # Privacy Statement
 
@@ -16,6 +16,6 @@ For example, if you view a web page created by a third party or use an applicati
 
 Information Clearing House does not sell or rent your personal information to third parties for their marketing purposes.
 
-If you have questions or concerns regarding this policy, you should contact us phone or write to us at Information Clearing House, P.O. Box 365 Imperial Beach. CA 91933. USA.  619-476407-7054.
+If you have questions or concerns regarding this policy, you should contact us phone or write to us at Information Clearing House, P.O. Box 365 Imperial Beach. CA 91933. USA.  619-407-7054.
 
 _ What's your response? -  __** Scroll down to add / read comments  **_
