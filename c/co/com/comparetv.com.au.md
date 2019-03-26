@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the comparetv.com.au privacy policy that was archived on 2018-03-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180321121750id_/https%3A//www.comparetv.com.au/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the comparetv.com.au privacy policy that was archived on 2019-03-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190326022017id_/https%3A//www.comparetv.com.au/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - CompareTV
 
-TWENTY/TWENTY DIGITAL PTY LTD, a company registered in Australia with business number 20 166 855 401 whose registered address is at 296 Plateau Rd, Bilgola, New South Wales 2107.  (“CompareTV”, “We” or “Us”) takes your privacy very seriously. We want to assure you that your information and data is safe with Us. We employ highest standard of physical and electronic measures to protect the safety, security and secrecy of your personal information.
+TWENTY/TWENTY DIGITAL PTY LTD, a company registered in Australia with business number 20 166 855 401 whose registered address is at Suite C, 13/1 Vuko Place, Warriewood NSW 2102.  (“CompareTV”, “We” or “Us”) takes your privacy very seriously. We want to assure you that your information and data is safe with Us. We employ highest standard of physical and electronic measures to protect the safety, security and secrecy of your personal information.
 
 We recommend you read this Privacy Policy (the “Privacy Policy”) carefully as it contains important information about what to expect when CompareTV, acting as data controller, collects personal information about you and how CompareTV will use your personal data.
 
@@ -74,9 +74,9 @@ We may also want to provide You with related information from third parties We t
 
 ## Access to Your information and updating and correcting Your information
 
-You may exercise your rights of access, request of correction, erasure and objection of your personal information or revoke your consent for receipt of commercial communications by sending such request to: [operations@comparetv.com.au](mailto:operations@comparetv.com.au).
+You may exercise your rights of access, request of correction, erasure and objection of your personal information or revoke your consent for receipt of commercial communications by sending such request to: [editor@comparetv.com.au](mailto:operations@comparetv.com.au).
 
-We want to ensure that your personal information is accurate and up to date. If any of the information that you have provided to CompareTV changes, for example if you change your email address or name or if you wish to cancel your  newsletter subscription and delete your personal information from the Website, please let Us know by sending an e-mail to [operations@comparetv.com.au](mailto:operations@comparetv.com.au)  You may ask Us, or We may ask you, to correct information You or We think is inaccurate, and You may also ask Us to remove information which is inaccurate.
+We want to ensure that your personal information is accurate and up to date. If any of the information that you have provided to CompareTV changes, for example if you change your email address or name or if you wish to cancel your  newsletter subscription and delete your personal information from the Website, please let Us know by sending an e-mail to [editor@comparetv.com.au](mailto:operations@comparetv.com.au)  You may ask Us, or We may ask you, to correct information You or We think is inaccurate, and You may also ask Us to remove information which is inaccurate.
 
 ## Overseas transfers
 
@@ -84,7 +84,7 @@ We will not purposely transfer your information overseas but You need to bear in
 
 ## Complaints handling
 
-If You have any complaints regarding this policy or related to privacy, please forward them to [operations@comparetv.com.au](mailto:operations@comparetv.com.au).
+If You have any complaints regarding this policy or related to privacy, please forward them to [editor@comparetv.com.au](mailto:operations@comparetv.com.au).
 
 ## Sale of business
 
@@ -92,8 +92,8 @@ If CompareTV’s business is sold or integrated with another business your detai
 
 ## Changes to this Privacy Policy
 
-We keep the Privacy Policy under regular review. If We change the Privacy Policy We will post the changes on the Website, and place notices on other pages of the Website, so that You may be aware of the information We collect and how We use it at all times. This Privacy Policy was last updated on 2 October,  2014.
+We keep the Privacy Policy under regular review. If We change the Privacy Policy We will post the changes on the Website, and place notices on other pages of the Website, so that You may be aware of the information We collect and how We use it at all times. This Privacy Policy was last updated on 5 July, 2018.
 
 ## How to contact CompareTV
 
-We welcome your views about the Website and the Privacy Policy. If You would like to contact Us with any queries or comments please send an email to: [operations@comparetv.com.au](mailto:operations@comparetv.com.au).
+We welcome your views about the Website and the Privacy Policy. If You would like to contact Us with any queries or comments please send an email to: [editor@comparetv.com.au](mailto:operations@comparetv.com.au).
