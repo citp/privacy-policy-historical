@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the californiapsychics.com privacy policy that was archived on 2018-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181216091328id_/https%3A//www.californiapsychics.com/about/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the californiapsychics.com privacy policy that was archived on 2019-03-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190326045343id_/https%3A//www.californiapsychics.com/about/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | California Psychics
 
