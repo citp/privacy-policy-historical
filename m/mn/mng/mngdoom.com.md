@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mngdoom.com privacy policy that was archived on 2018-10-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181005160617id_/http%3A//www.mngdoom.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mngdoom.com privacy policy that was archived on 2019-03-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190326210841id_/http%3A//www.mngdoom.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy & Policy | MangaDoom - Read Free Manga Online!
 
