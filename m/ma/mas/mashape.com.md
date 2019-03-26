@@ -1,65 +1,120 @@
-> *The following text is extracted and transformed from the mashape.com privacy policy that was archived on 2017-09-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170916034332id_/https%3A//www.mashape.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mashape.com privacy policy that was archived on 2019-03-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190327003200id_/https%3A//konghq.com/privacy) for the most accurate reproduction.*
 
-# Privacy | Mashape - Powering APIs, Microservices and Serverless Software
+# Privacy - KongHQ
 
-We care about your privacy
+* * *
 
-## Overview
+Last Revised: July 12, 2018
 
-Mashape provides this Privacy Policy to inform you of our policies and procedures regarding the collection, use and disclosure of personal information we receive from users of getkong.org (collectively, the "Site") provide marketing and technical information, signup and account management capabilities for the Services as well as contact information for any inquiries related to the above topics, which are intended for current and prospective users of the Services.We know that you care about how information about you is used or shared and we respect and are commited to protecting your privacy. This Privacy Policy ("Policy") explains how we collect, use, protect and disclose Personal and Anonymous Information from the visitors (the "Visitors") of our Site as well as from End Users of thirdy party applications created on our Site.
+Kong Inc. (“Kong Inc.,” “we,” “us” or “our”) provides this Privacy Policy (“Policy”) to inform you of our policies and procedures regarding the collection, use and disclosure of information about you including when you use our websites, including, but not limited to, konghq.com, getkong.org, mashape.com, gelato.io, and getgalileo.io (each, a “Site” and collectively, the “Sites”), and other products and services (collectively, “Services”) as well as when you interact with us.
 
-## Personal Information Collection
+We may change this Policy from time to time.  If we make changes, we will notify you by revising the date at the top of the Policy and, in some cases, we may provide you with additional notice (such as adding a statement to our homepage or sending you a notification).  We encourage you to review the Policy whenever you access the Sites and Services or otherwise interact with us to stay informed about our information practices and the choices available to you.
 
-In the course of using this Site, you may provide us with personally identifiable information. This refers to information about you that can be used to contact or identify you, and information on your use of and activities at our Site that may be connected with you ("Personal Information"). Personal Information that we collect may include, but is not limited to, your name, phone number, credit card or other billing information, email address and home and business postal addresses. Personal Information may also include information you supply to us concerning your preferences and interests expressed in the course of use of our Site.
+###  **Information Collection**
 
-Personal Information is or may be used for the following purposes: (i) to provide and improve our Site and Services (ii) to administer your use of our Site or Services, (iii) to enable you to enjoy and easily navigate the Site, (iv) to better understand your needs and interests, (v) to fulfill requests you may make, (vi) to personalize your experience, (vii) to provide or offer software updates and product announcements, and (viii) to provide you with further information and offers from us or third parties that we believe you may find useful or interesting, including newsletters, marketing or promotional materials and other information on services and products offered by us or third parties. If you decide at any time that you no longer wish to receive any such communications, please follow the "unsubscribe" instructions provided in any of the communications sent to you, or update your account settings information.
+####  **Information You Provide to Us**
 
-## Anonymous Information Collection
+In the course of using our Sites, you may provide us with certain information about you, such as when you create an account, participate in any interactive features of the Sites, fill out a form, subscribe to an email list or newsletter, request customer support, request a whitepaper, or otherwise communicate with us. The types of information that we may collect include, but are not limited to, your name, phone number, credit card or other billing information, email address, and home and business postal addresses. We may also collect information you supply to us concerning your preferences and interests expressed in the course of use of our Sites and Services.
 
-When you visit the Site, our servers automatically record information that your browser sends whenever you visit a website. This information may include, but is not limited to, your computers Internet Protocol address, browser type, the web page you were visiting before you came to our Site and information you search for on our Site.
+####  **Automatically Collected Information**
 
-Like many websites, we may also use "cookies" to collect information. A cookie is a small data file that we transfer to your computers hard disk for record-keeping purposes. We may use "persistent cookies" to save your registration ID and login password for future logins to the Site; and we use "session ID cookies" to enable certain features of the Site, to better understand how you interact with the Site and to monitor aggregate usage and web traffic routing on the Site. You can instruct your browser, by changing its options, to stop accepting cookies or to prompt you before accepting a cookie from the websites you visit. If you do not accept cookies, however, you may not be able to use all portions of the Site or all functionality of our Services.
+When you access or use our Sites and Services, we automatically collect information about you, including:
 
-## Confidentiality
+  * Log Information:  We collect log information about your use of the Sites and Services, including the type of browser you use, access times, pages viewed, browser type, your IP address, and the page you visited before navigating to our Services.
+  * Device Information:  We collect information about the computer or mobile device you use to access our Services, including the hardware model, operating system and version, unique device identifiers, and mobile network information.
+  * Information Collected by Cookies and Other Tracking Technologies:  Like most online services, we may use cookies and other technologies, such as web beacons, web storage, and unique advertising identifiers, to collect information about your activity, browser, and device.  Cookies are small data files stored on your hard drive or in device memory that help us improve our Services and your experience, see which areas and features of our Sites are popular and count visits. Web beacons are electronic images that may be used on our Sites or emails and help deliver cookies, count visits and understand usage and campaign effectiveness.  For more information about cookies and how to disable them, please see our [Cookie Policy](https://konghq.com/cookie-policy/).
 
-We will keep any and all information collected at this Site strictly confidential and will not trade, sell, or otherwise convey collected information regarding its users or viewers to outside parties, except as stated in this Policy.
 
-## Changing or Deleting Your Information
 
-You may review, update, correct or delete the Personal Information provided in your registration or account profile by changing your account settings.
+####  **Information We Collect from Other Sources**
 
-## Information Sharing
+We obtain information from other sources and combine that with information we collect through our Sites and Services. For example, we may collect information about you from third parties, including but not limited to data enrichment service providers and publicly available sources.
 
-We may disclose aggregated information about the use of our Services to business partners, prospective investors, and others in order to demonstrate usage of the Services, spot industry trends, and to generate publicity for the Services. Any aggregated information shared in these contexts cannot be traced back to you personally.
+###  **Use of Information**
 
-Service Providers, Business Partners and Others We may employ third party companies and individuals to facilitate our service, to provide the service on our behalf, to perform Site-related services (including but not limited to data storage, maintenance services, database management, web analytics, payment processing, and improvement of the Sites features) or to assist us in analyzing how our Site and service are used. These third parties have access to your Personal Information only for purposes of performing these tasks on our behalf.
+Information we collect about you is used to provide, maintain, and improve our Sites and Services, such as to administer your use of our Sites and Services and to enable you to enjoy and easily navigate the Sites.
 
-Compliance with Laws and Law Enforcement Mashape cooperates with government and law enforcement officials and private parties to enforce and comply with the law. We will disclose any information about you to government or law enforcement officials or private parties as we, in our sole discretion, believe necessary or appropriate to respond to claims and legal process (including but not limited to subpoenas), to protect the property and rights of Mashape or a third party, to protect the safety of the public or any person, or to prevent or stop any activity we may consider to be, or to pose a risk of being, illegal, unethical, inappropriate or legally actionable.
+We also use the information we collect to:
 
-Business Transfers Mashape may sell, transfer or otherwise share some or all of its assets, including your Personal Information, in connection with a merger, acquisition, reorganization or sale of assets or in the event of bankruptcy.
+  * Send you technical notices, updates, security alerts and support and administrative messages and to respond to your comments, questions and customer service requests;
+  * Communicate with you about products, services, offers, and events offered by us and others, and provide newsletters, marketing or promotional materials, and information we think will be of interest to you;
+  * Monitor and analyze trends, usage and activities in connection with our Services;
+  * Detect, investigate and prevent fraudulent transactions and other illegal activities and protect the rights and property of Kong Inc. and others;
+  * Personalize and improve the Services and provide advertisements, content or features that match user profiles or interests; and
+  * Carry out any other purpose described to you at the time the information was collected.
 
-## Links to Third Party Websites and Services
 
-We may provide links to other websites that are not owned or controlled by Mashape. Often links to other Websites are provided solely as pointers to information on topics that may be useful to the users of our Site or Services. Please be aware that we are not responsible for the privacy practices of such other sites. Your browsing and interaction on any other Website, including those which have a link on our Site or Services, is subject to that Websites own rules and policies. We encourage you to carefully review the privacy practices of any website that collects Personal Information from you.
 
-## Security
+###  **Information Sharing**
 
-Mashape is very concerned with safeguarding your information. We employ reasonable measures designed to protect your information from unauthorized access, modification, destruction, or damage of data. These include internal reviews of our data collection, storage, and processing practices and security measures. Our servers are protected by firewalls and are physically located in secure data facilities to further increase security. Your information, applications and our server data are backed up.
+We share information about you as follows or as otherwise describes in this Policy:
 
-While we have taken efforts to protect and secure your information, no data transmission over the Internet can be guaranteed to be totally secure and therefore we cannot ensure or warrant that your information and data will not be disclosed or accessed by accidental circumstances or by the unauthorized acts of others. In the unlikely event that Personal Information is compromised as a result of a breach of security, Mashape will promptly notify those persons whose Personal Information has been compromised, in accordance with the notification procedures set forth in this Policy, or as otherwise required by applicable law.
+  * With vendors, service providers, business partners, consultants and other service providers who need access to such information to carry out work on our behalf including, among other things, to facilitate operation, access and use of our Sites and Services, provide the Sites and Services on our behalf, perform Site-related services (including, but not limited to, data storage, maintenance services, database management, web analytics, payment processing, and improvement of the Sites’ features) or assist us in analyzing how our Sites and Services are used.
+  * In response to a request for information if we believe disclosure is in accordance with, or required by, any applicable law or legal process, including lawful requests by public authorities to meet national security or law enforcement requirements;
+  * If we believe your actions are inconsistent with our user agreements or policies, or to protect the rights, property and safety of Kong Inc. or others;
+  * In connection with, or during negotiations of, any merger, sale of our assets, financing or acquisition of all or a portion of our business by another company;
+  * Between and among Kong Inc. and our current and future parents, affiliates, subsidiaries and other companies under common control and ownership; and
+  * With your consent or at your direction.
 
-## Children Policy
 
-This Site is not directed to children under 18. We do not knowingly collect personally identifiable information from children under 13. If a parent or guardian becomes aware that his or her child has provided us with Personal Information without their consent, he or she should contact us at [privacy@mashape.com](mailto:privacy@mashape.com). If we become aware that a child under 13 has provided us with Personal Information, we will delete such information from our files.
 
-## Users around the Globe
+We may also share aggregated or de-identified information, which cannot reasonably be used to identify you. For example, we may share a hashed version of your email address to facilitate customized ad campaigns on other platforms. We also disclose aggregated information about the use of our Sites and Services to business partners, prospective investors, and others in order to demonstrate usage of the Sites and Services, spot industry trends, generate publicity for the Services and for other business purposes. Any aggregated information shared in these contexts cannot be traced back to you personally.
 
-Mashape processes and stores Personal Information in the United States of America. If you are outside the United States, information you submit to us will be transferred out of your country and into the United States. When you agree to our Terms of Service, you agree to such transfers, and you warrant and represent that it is lawful for you to transfer the information into the United States.
+###  **Links to Third-Party Websites and Services**
 
-## Changes to this Policy
+We may provide social sharing features and other integrated tools (such as the Facebook “Like” button which let you share actions you take on our Sites with other media, and vice versa) on our Sites or links to other websites that are not owned or controlled by Kong Inc. Often, such links to other websites are provided solely as pointers to information on topics that may be useful to the users of our Sites or Services. Your use of such features may enable the sharing of information with your friends or the public, depending on the settings you establish with the entity that provides the social sharing feature. Please be aware that we are not responsible for the privacy practices of any third parties offering any social sharing features on our Sites or operating any websites linked from our Sites that are owned or controlled by a party other than Kong Inc. Your use of any social sharing features available on our Sites and browsing and interactions on websites operated by third parties, including those which have a link on our Sites or Services, are subject to separate rules and policies. We encourage you to carefully review the privacy practices, rules and policies of all third parties offering such social sharing features and all websites to which you navigate from the Sites or Services.
 
-Please check this Privacy Policy periodically to inform yourself of any changes. Although we reserve the right to modify or supplement this Privacy Policy, we will provide notice to you on this Web site of any major changes for at least 30 days following the change.
+###  **Advertising and Analytics Services Provided by Others**
 
-## Any Questions?
+We may allow others to provide analytics services and serve advertisements on our behalf across the internet and in applications.  These entities may use cookies, web beacons, device identifiers and other technologies to collect information about your use of the Services and other websites and applications, including your IP address, web browser, mobile network information, pages viewed, time spent on pages or in apps, links clicked and conversion information.  This information may be used by Kong Inc. and others to, among other things, analyze and track data, determine the popularity of certain content, deliver advertising and content targeted to your interests on our Services and other websites and better understand your online activity.  For more information about interest-based ads, or to opt out of having your web browsing information used for behavioral advertising purposes, please visit [www.aboutads.info/choices](http://www.aboutads.info/choices) or, for EU users, http://www.youronlinechoices.eu/. Your device may also include a feature (“Limit Ad Tracking” on iOS or “Opt-Out of Interest-Based Ads” or “Opt-Out of Ads Personalization” on Android) that allows you to opt out of having certain information collected through apps used for behavioral advertising purposes.
 
-If you have any questions about this Privacy Policy, please contact us at [privacy@mashape.com](mailto:privacy@mashape.com)
+###  **Data Retention**
+
+We store the information we collect about you for as long as is necessary for the purpose(s) for which we originally collected it.  We may retain certain information for legitimate business purposes or as required by law.
+
+###  **Users Around the Globe**
+
+Kong Inc. is based in the United States of America and also processes and stores information in the U.S. As such, we and our service providers may transfer your information to, or store or access it in, jurisdictions that may not provide equivalent levels of data protection as your home jurisdiction.  We will take steps to ensure that your personal data receives an adequate level of protection in the jurisdictions in which we process it.
+
+###  **Residents of the European Economic Area**
+
+If you are a resident of the European Economic Area (“EEA”), you have certain rights and protections under the law regarding the processing of your personal data.
+
+####  **Legal Basis for Processing**
+
+  * We need to use your personal data to perform our responsibilities under our contract with you such as to process payments for and provide the Services you have requested.
+  * We have a legitimate interest in processing your personal data. For example, we may process your personal data to send you marketing communications, to communicate with you about changes to our Services, and to provide, secure, and improve our Sites and Services.
+
+
+
+####  **Data Subject Requests**
+
+If you are a resident of the EEA, you have the right to access personal data we hold about you and to ask that your personal data be corrected, erased, or transferred.  You may also have the right to object to, or request that we restrict, certain processing.  If you would like to exercise any of these rights, you may contact us as indicated below.
+
+####  **Questions or Complaints**
+
+If you are a resident of the EEA and have a concern about our processing of personal data that we are not able to resolve, you have the right to lodge a complaint with the data privacy authority where you reside.  For contact details of your local Data Protection Authority, please see: [http://ec.europa.eu/justice/data-protection/article-29/structure/data-protection-authorities/index_en.htm](http://ec.europa.eu/justice/data-protection/article-29/structure/data-protection-authorities/index_en.htm).
+
+###  **Your Choices**
+
+####  **Account Information**
+
+You may review, update, correct or delete the information provided in your registration or that you otherwise provided to us contacting us at [support@konghq.com](mailto:support@konghq.com). Please note that we may retain certain information as required by law or for legitimate business purposes. We may also retain cached or archived copies of information about you for a certain period of time
+
+####  **Cookies**
+
+Most web browsers are set to accept cookies by default.  If you prefer, you can usually choose to set your browser to remove or reject browser cookies.  Please note that if you choose to remove or reject cookies, this could affect the availability and functionality of our Services. Please see our [Cookie Policy](https://konghq.com/cookie-policy/) for more information.
+
+####  **Promotional Communications**
+
+You may opt-out of receiving promotional emails from us by following the instructions at the bottom of those emails or by contacting us with your request at legal-privacy@konghq.com.  If you opt-out, we may still send you non-promotional emails, such as those about your account or our ongoing business relations.
+
+###  **Any Questions?**
+
+If you have any questions about this Policy, please contact us at legal-privacy@konghq.com or mail us at:
+
+Kong Inc.
+
+251 Post St, 2nd Floor
+
+San Francisco, CA 94108
