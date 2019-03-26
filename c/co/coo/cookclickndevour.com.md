@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the cookclickndevour.com privacy policy that was archived on 2017-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171202061532id_/http%3A//cookclickndevour.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cookclickndevour.com privacy policy that was archived on 2019-03-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190326075052id_/https%3A//www.cookclickndevour.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy policy | Cook click n devour!!!
+# Privacy policy | Cook Click n Devour
 
 **What information do we collect?**
 
