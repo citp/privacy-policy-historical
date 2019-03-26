@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the earncrypto.com privacy policy that was archived on 2018-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181210035412id_/https%3A//www.earncrypto.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the earncrypto.com privacy policy that was archived on 2019-03-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190326185705id_/https%3A//www.earncrypto.com/privacy.php) for the most accurate reproduction.*
 
 # EarnCrypto.com | Privacy Policy
 
@@ -23,7 +23,7 @@ Please read this privacy policy to learn more about:
 
 ### Information Collected by Earncrypto
 
-To become a member of Earncrypto, you must join and create an account on the Earncrypto website. The only information that Earncrypto collects is the information you provide through the Earncrypto registration process, and the information you provide when you update your payment options. This information includes your first and last name, your email address, your Internet Protocol Address ("IP address"), your SSN (only used if you are from USA and have earned over $600+ in rewards in a given year - for tax purposes), and other contact information. Your IP address is recorded when you register, so that Earncrypto can enforce its one account per person policy and other provisions of our [Terms of Service](https://web.archive.org/web/20181210035412id_/https%3A//www.earncrypto.com/terms.php).
+To become a member of Earncrypto, you must join and create an account on the Earncrypto website. The only information that Earncrypto collects is the information you provide through the Earncrypto registration process, and the information you provide when you update your payment options. This information includes your first and last name, your email address, your Internet Protocol Address ("IP address"), your SSN (only used if you are from USA and have earned over $600+ in rewards in a given year - for tax purposes), and other contact information. Your IP address is recorded when you register, so that Earncrypto can enforce its one account per person policy and other provisions of our [Terms of Service](https://web.archive.org/web/20190326185705id_/https%3A//www.earncrypto.com/terms.php).
 
 Other information, that does not personally identify you as an individual, is collected by Earncrypto from the website (such as, by way of example, patterns of utilization), and it is exclusively owned by Earncrypto. This information can be utilized by Earncrypto in such manner as Earncrypto, in its sole discretion, deems appropriate.
 
@@ -41,7 +41,7 @@ Earncrypto.com ("Earncrypto") deals in large part with the Third-Parties. You ma
 
 ### Legal Disclaimer
 
-It is possible that Earncrypto may need to disclose your personally identifiable information from time to time. Specifically, Earncrypto may disclose any information it has about you to legal authorities, your Internet Service Provider, or other harmed parties without your prior permission, if Earncrypto has a good-faith belief that such disclosure is warranted and/or necessary because: (1) you have violated Earncrypto's [Terms of Service](https://web.archive.org/web/20181210035412id_/https%3A//www.earncrypto.com/terms.php), (2) you have undertaken actions which are illegal, fraudulent, or otherwise harmful to Earncrypto, its users, or the Third-Parties, or such disclosure is necessary (3) to conform to legal requirements or to comply with the legal process, (4) to protect and defend Earncrypto's rights in any legal, judicial or administrative proceeding; or (5) to enforce the Terms of Service.
+It is possible that Earncrypto may need to disclose your personally identifiable information from time to time. Specifically, Earncrypto may disclose any information it has about you to legal authorities, your Internet Service Provider, or other harmed parties without your prior permission, if Earncrypto has a good-faith belief that such disclosure is warranted and/or necessary because: (1) you have violated Earncrypto's [Terms of Service](https://web.archive.org/web/20190326185705id_/https%3A//www.earncrypto.com/terms.php), (2) you have undertaken actions which are illegal, fraudulent, or otherwise harmful to Earncrypto, its users, or the Third-Parties, or such disclosure is necessary (3) to conform to legal requirements or to comply with the legal process, (4) to protect and defend Earncrypto's rights in any legal, judicial or administrative proceeding; or (5) to enforce the Terms of Service.
 
 ### Managing Your Information
 
