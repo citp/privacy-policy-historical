@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the androidcure.com privacy policy that was archived on 2017-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171127215711id_/http%3A//androidcure.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the androidcure.com privacy policy that was archived on 2019-03-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190326182156id_/https%3A//androidcure.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
-At [AndroidCure.com](http://androidcure.com/ "Lets Make Android Better"), the privacy of our visitors is most important to us, and to make it crystal clear, what data and information is received, and how it is used, we have published this Privacy Policy page.
+At [AndroidCure.com](https://androidcure.com/ "Lets Make Android Better"), the privacy of our visitors is most important to us, and to make it crystal clear, what data and information is received, and how it is used, we have published this Privacy Policy page.
 
 ### Log Files
 
@@ -23,3 +23,5 @@ AndroidCure.com have no access or control over these third party ad server, and 
 If visitor have concern about them, then he must own consult to Privacy Policy of these third party vendors for more, and detailed information regarding to their advertisements, and information collected by them, and also for instructions about how to opt-out of certain practices.
 
 If you wish to disable cookies, then you can go through the settings of your Internet browser. More, and detailed information about cookies management can be found on browser’s respective website.
+
+(Visited 433 times, 1 visits today)
