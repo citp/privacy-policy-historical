@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the adcombo.com privacy policy that was archived on 2017-02-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170221161640id_/https%3A//adcombo.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the adcombo.com privacy policy that was archived on 2019-03-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190326100931id_/https%3A//adcombo.com/privacy) for the most accurate reproduction.*
 
 # Privacy policy
 
@@ -14,7 +14,7 @@ Your personal data may be disclosed by us only if required in following cases : 
 
 When a user visits a website a short text called «cookies» is sent to his computer (if the user ‘s browser allows the reception of such files). If the user has already visited this website, the «cookies» file is read from the computer. One of the uses of «cookies» is the collection of visit statistics. This data helps determine what information sent by the customers is of special interest to them. These data are collected in an aggregated form and never match the personal data of users
 
-Third parties, including Google, display our ads on various websites. They use «cookies» to show ads based on previous visits by the user of our website and their interest recorded by the browsers. The users can prohibit the use of «cookies» by Google. To do this, visit a dedicated Google page at: <http://www.google.com/privacy/ads/>
+Third parties, including Google, display our ads on various websites. They use «cookies» to show ads based on previous visits by the user of our website and their interest recorded by the browsers. The users can prohibit the use of «cookies» by Google. To do this, visit a dedicated Google page at: [http://www.google.com/privacy/ads/](https://www.google.com/privacy/ads/)
 
 ## Changes to the privacy statement
 
