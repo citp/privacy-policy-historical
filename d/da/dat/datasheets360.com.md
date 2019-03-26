@@ -1,94 +1,194 @@
-> *The following text is extracted and transformed from the datasheets360.com privacy policy that was archived on 2016-03-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160319111152id_/http%3A//www.datasheets360.com/info/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the datasheets360.com privacy policy that was archived on 2019-03-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190326201924id_/https%3A//www.globalspec.com/help/privacy) for the most accurate reproduction.*
 
-# Privacy Policy - Datasheets360.com
+# Welcome to the IEEE GlobalSpec Privacy Policy
 
 ### Introduction
 
-IHS GlobalSpec Inc., having its principal offices at 30 Tech Valley Drive, Suite 102, East Greenbush, NY 12061, (hereafter referred to as "IHS"), is committed to protecting our users' privacy. This privacy policy (together with our [terms of use](https://web.archive.org/info/terms) and any other documents referred to ("Our Website"), is designed to inform users what personal data we collect from you, or you provide to us and how this will be used by us. 
+Your privacy is important to IEEE GlobalSpec, Inc. ('IEEE GlobalSpec'). We collect information to provide and deliver better service and customized content to our Registered Users. This Privacy Policy is meant to help you understand how we collect and use your information. IEEE GlobalSpec is committed to protecting the privacy of its registered users and other contacts.
 
-Our Website, allows you to enter and view content on our Website without the requirements to register any personal information and in such instances the application of this policy shall be limited to the use of Cookies. However, in the event you decide to register by entering your personal information in order to receive additional content (which cannot be accessed without registration) through our Website, please read the following carefully to understand our views and practices regarding your personal data and how we treat it. 
+### Scope
 
-### This Privacy Policy Does Not Apply to Third Party
+This Privacy Policy applies to all personal data processed by full-time and part-time employees, contractors, and partners doing business on behalf of IEEE GlobalSpec, and business processes conducted by IEEE GlobalSpec.
 
-Our Website may, from time to time contain links to and from Our Website relating to our Content Providers, partner networks, advertisers and affiliates. If you follow a link to any of these websites, please note that these websites will have their own privacy policies and that we do not take responsibility or liability for these website policies. Please check with these policies prior to submission of any personal data. 
+### Definition of Terms
 
-### What Information Do We Collect?
+Specific to this Privacy Policy, we make reference to various business terms to describe our commercial activity. We define such terms as follows:
 
-By using IHS products, you consent to allow IHS to collect and process the following data about you: 
+  * **Affiliate:** An advertising partner of IEEE GlobalSpec.
+  
 
-  * **Profile Information:** A user may be asked to register on Our Website in order to receive access to additional content, website features and programs or to request further services. Our primary goal in collecting profile information (which may include your name and the following business - and not home or personal - information: title, address, phone number, fax number and email address) is to provide you with the most relevant content and services, and to offer you opportunities to obtain other products and services from us and our partners, advertisers and participating suppliers.
-  * Registration information you enter to use certain services (i.e., webcasts and white papers, or through surveys, online events and/or subscription to e-Newsletters or Product alerts.
+  * **Customer:** An organization that interacts with IEEE GlobalSpec's audience. Interaction may take the form of advertising, information from a supplier, or sponsorship.
+  
 
+  * **Registered User:** A user that has registered for IEEE GlobalSpec products or services.
+  
 
-
-### Other Information we collect
-
-  * Details of your visits to our site including, but not limited to, traffic data, location data, weblogs and other communication data, and the resources that you access.
-  * Where required a system test to determine whether you can view a webcast or events from your computer. This information is used to optimize the viewing experience and to troubleshoot event webcast viewing problems. We do not collect or retain personally identifiable information in conducting these tests.
-  * We may collect statistical data about your computer, including where available your IP address, operating system and browser type, for system administration and to report aggregate information to our advertisers.
+  * **Third-Party Content:** White papers, data, and other documents owned by content providers and made available to IEEE GlobalSpec's audience.
 
 
 
-#### Cookies
+### Information We Collect
 
-When you view Our Website, a small file called a cookie is placed on your hard drive. You can set your browser to notify you when you receive a cookie, giving you the chance to decide whether or not to accept it. (However, by not accepting cookies, some of our web pages may not display properly or you may not be permitted to access certain information.) If you register with Our Website, we will use cookies to authenticate your identity when you visit the site. In all cases, Our Website uses cookies to obtain information such as the number of visits to the site that a certain user has made, the movement of the user through the site, and the searches that the user conducts on Our Website. 
+Our services require you to register with IEEE GlobalSpec. This includes general site registration, webinar registration, downloading IEEE GlobalSpec content and Third-Party Content, and participating in our surveys. When you become a Registered User with IEEE GlobalSpec, we collect the following personal data:
 
-You can find out more about "cookies" on our [cookies reference page](http://www.globalspec.com/help/Cookies). 
-
-### How Do We Use The Information We Collect?
-
-We use information held about you in the following ways: 
-
-  * To enable IHS to tailor our content to user interests in an effective manner and to help our advertisers better understand the audience they are reaching.
-  * To provide you with information, products and services that you request from IHS or which we feel may be of interest to you based on your selections to receive certain services.
-  * To carry out our obligations in relation to any services you have registered to attend, via Our Website and to allow both IHS and its third parties to contact you relating to the provision of these services.
-  * We use third party email addresses provided for the "email a friend" feature only for the purpose of sending e-Newsletters, Product Alerts or event invitations to a subscriber-specified third party, and for no other purpose.
-  * To allow you to participate in interactive features of our service, when you choose to do so.
-  * To notify you about any changes in our service.
-  * IHS may use your data to provide you with information on products and services which may be of interest to you based on your registration of certain IHS products and services on our Website.
-
-
-
-In certain circumstances, permit selected third parties to use your data to provide you with information on products and services which may be of interest to you, based on your registration of certain IHS products and services on our Website. 
-
-  * We provide aggregate information about our users in summary reports to our advertisers. The type of information included in a summary report is "3,000 people looked for part number 123 this week, and of those people 60% clicked through to a certain webpage." This aggregated information is anonymous and does not disclose to the content providers, advertisers, prospective advertisers, and partners any profile information about the individual users who saw or clicked on their reports. Employees of IHS use this aggregated information to understand usage behaviors in their efforts to create a better user experience or to optimize page designs.
-  * If you do not want use to use your data in this way, or to pass your details to third parties for marketing purposes, please modify your user information by visiting Our Website and clicking on the Manage My Account link located in the upper-right of each page of the site.
-  * You may have your personal information removed from the system by contacting our user experience team at [webmaster@datasheets360.com](mailto:webmaster@datasheets360.com?subject=Remove%20personal%20information).
+  * Name and contact details
+  * User name
+  * Password
+  * Company name and address
+  * Country
+  * Job function
+  * Industry
+  * Subscription preferences
+  * Information about the device(s) you use
+  * Information about service usage
+  * Authentication data
+  * Location data
+  * Time zone
+  * Other information you provide to us
 
 
 
-### How Can You Opt Out of Use and Disclosure of Your Information?
+### How We Use Information We Collect
 
-Our Website will only use your profile information for the purposes described in this Privacy Policy or subsequently authorized by you. If you do not want your information disclosed in this way, you must not register when prompted. 
+IEEE GlobalSpec uses (and where specified, shares) your personal information for the following purposes:
 
-During the registration process, we may also allow users the option to opt-in and/or opt-out of receiving communication (via email, post or telephone) from any member of our group, which will include but not limited to our subsidiaries, our ultimate holding company and its wholly owned subsidiaries. Users who opt-in may also remove themselves from emailing lists at any time through the edit profile pages or by following the instructions at the end of any email received from the IHS or a group company within IHS. 
+**To provide support or other services**   
+IEEE GlobalSpec may use your personal information to provide you with support that you have requested. IEEE GlobalSpec may also use your personal information to respond directly to your requests for information, including newsletter subscriptions, webinar registrations, to forward your contact information to the appropriate resource for follow-up related to your interests, and other support requests.
 
-Note: If you choose not to provide certain profile information when registering for a site, certain products or services may not be available to you. 
+**To provide information based on your needs and respond to your requests**  
+IEEE GlobalSpec may use your personal information to provide you with new products, notices of new or enhanced products, product updates or releases, website features, or service developments.
 
-#### Access and Updating of Information
+**To provide online forums**  
+Some services available on our websites permit you to participate in interactive discussions, post comments, opportunities, or other content to a bulletin board or exchange, or otherwise engage in networking activities. Some of these services are moderated; all may be accessed for technical reasons (for example, for improvements or fixes). IEEE GlobalSpec does not control the content that users post to these forums or social networks. You should carefully consider whether you wish to submit personal information to these forums or social networks and tailor any content you submit appropriately and in accordance with the relevant terms of use. You should also review any additional terms and conditions that may govern your use of these services, including terms related to sharing your personal information and receiving communications.
 
-The instructions to review, amend, or delete your information may be found in the edit profile area on any of Our Websites. Users may change information at any time and as often as necessary. Users who are experiencing problems with our services or who have questions about how our services work can contact us by sending an email to: [webmaster@datasheets360.com](mailto:webmaster@datasheets360.com?subject=Question%20about%20profile). 
+**To select content, improve quality, and facilitate use of our websites**  
+IEEE GlobalSpec may use your personal information, including the information gathered as a result of site navigation and electronic protocols and cookies (including third-party cookies), to help create and deliver personalized content, improve website quality, track marketing campaign responsiveness, evaluate page response rates, conduct usability testing, and facilitate your use of our websites (for example, to facilitate navigation and the login process, avoid duplicate data entry, enhance security, and preserve information between sessions).
 
-### General 
+**To communicate with you about a webinar**  
+We may communicate with you about a webinar. This may include information about the content, logistics, updates, and additional information related to the webinar.
 
-**Registration Password:** Should you elect to subscribe and register to services, you will be asked to select a unique user name and password to access Our Website. 
+**To engage with third-parties**  
+IEEE GlobalSpec may share your personal data with third-parties in connection with services that these individuals or entities perform for or with IEEE GlobalSpec. These third-parties are restricted from using this data in any way other than to provide services for IEEE GlobalSpec or for the collaboration in which they and IEEE GlobalSpec are contractually engaged (for example, hosting an IEEE GlobalSpec database or engaging in data processing on IEEE GlobalSpec's behalf). These third-parties are carefully selected by IEEE GlobalSpec and obligated to keep your data secure.
 
-We recommend that you do not divulge your password to anyone. IHS never asks for passwords in unsolicited phone calls or unsolicited emails. 
+**To get feedback or input from you**  
+In order to deliver products and services of the most interest to our audience and Customers, from time to time, we may ask existing advertisers and Registered Users to provide us with input and feedback (for example, through surveys, usability studies, and focus groups).
 
-**Business Transfers:** If all or part of IHS Global Spec Inc., is sold, merged or otherwise transferred to another entity, the profile information and activity data that you have provided to us may be transferred as part of that transaction. 
+**To Forward to a Friend**  
+We use third-party email addresses provided for the "email a friend" feature only for the purpose of sending newsletters, Product Alerts or webinar invitations to a subscriber-specified third-party, and for no other purpose.
 
-**Amendments:** IHS may modify or amend this policy from time to time. 
+### Disclosure of Personal Information
 
-### Enforcement
+When you become a Registered User with IEEE GlobalSpec, your contact information and registration details will not be shared with anyone other than IEEE GlobalSpec and its Customers. Information you provide when registering for, or participating in, a webinar or downloading a white paper, may be shared with our Customer, the webinar or white paper sponsor. The sponsor may use this information in a manner that is common within their industry, e.g., contacting you with product information or to assess your interest in their products and services. The treatment of such information is subject to the privacy policies of the sponsor. The sponsor may contact you after the white paper download or webinar regarding updates or regarding related products and services. You should contact the sponsor directly if you have any questions about their use of your information.
 
-If you believe that IHS has not complied with this Privacy Policy, or if you have any other complaint with regard to collection, use or disclosure of personal information by IHS, you may send a written notice of complaint to: 
+### How Can You Control Your Information?
 
-IHS GlobalSpec, Inc.  
-30 Tech Valley Drive  
-Suite 102  
-East Greenbush, NY 12061  
-Attention: User Services 
+IEEE GlobalSpec will only use your profile information for the purposes described in this Privacy Policy or subsequently authorized by you. If you do not want your information disclosed in this way, you must not register to view supplier content.
 
-Email: [privacy@ihs.com](mailto:privacy@ihs.com?subject=Privacy%20Policy%20Complaint)
+Users who prefer not to provide data requested for any of our registration processes do not need to register with us. While you can still view some of the content and use some of the services offered by our site without registering, certain products or services may not be available to you.
 
-We will investigate your complaint and respond to you promptly. 
+During our website and webinar registration process, we provide to users the option to opt-in or opt-out of receiving our email newsletters, Product Alerts, webinar promotional invitations, or emails from third-parties. Users who opt-in may also remove themselves from our email lists at any time through the edit profile pages or by following the instructions at the end of any email received from our IEEE GlobalSpec family of products.
+
+You can control the information we have about you and how we use it in several ways: 
+
+  * **Access and Updating of Information**
+
+The instructions to review, amend, or delete your information may be found in the edit profile area on our site -<https://www.globalspec.com/myglobalspec>.
+
+Registered Users may change information at any time and as often as necessary. Users who are experiencing problems with our services, or who have questions about how our services work, can contact us by sending an email to: [webmaster@ieeeglobalspec.com](mailto:webmaster@ieeeglobalspec.com).
+
+  
+
+  * **Registration Password**
+
+Your profile information is password-protected to control access to this information by third-parties. We recommend that you do not divulge your password to anyone. IEEE GlobalSpec never asks for passwords in unsolicited phone calls or unsolicited emails. Remember to sign out and close your browser window when you have finished using any of our sites. This will prevent others from accessing your profile information, e.g., instances where you may share a computer with someone else or are using a computer in a public place such as a library or internet cafÃ¨.
+
+
+
+
+To contact us regarding a privacy issue, please send an e-mail to [webmaster@ieeeglobalspec.com](mailto:webmaster@ieeeglobalspec.com). Where applicable, please be sure to include the site, newsletter, Product Alert or product so that we may better serve you.
+
+### Technical Information
+
+We collect information about the services you use and how you use them (e.g., viewing a technical video, visiting an advertiser's page on our site, or reading an article in the News & Analysis section). This information includes:
+
+**Device Information**  
+We collect device-specific information (e.g., hardware model, operating system version, unique device identifiers, and mobile network information).
+
+**Logging Practices**  
+IEEE GlobalSpec automatically records the Internet Protocol (IP) addresses of visitors. The IP address is a unique number assigned to every computer on the internet. Generally, an IP address changes each time you connect to the internet (it is a "dynamic" address). Note, however, that if you have a broadband connection, depending on your individual circumstance, the IP address that we collect may contain information that could be deemed identifiable. This is because, with some broadband connections, your IP address doesn't change (it is "static") and could be associated with your personal computer.
+
+We track pages visited on IEEE GlobalSpec's website, the amount of time spent on those pages, and the types of searches done on them. 
+
+IEEE GlobalSpec also captures and stores information that you transmit. This may include:
+
+  * Browser/Device type/version
+  * Operating system used
+  * Media Access Control (MAC) address
+  * Date and time of the server request
+  * Volume of data transferred
+
+
+
+**Unique Application Numbers**  
+Certain services include a unique application number. This number and information about your installation (for example, the operating system type and application version number) may be sent to IEEE GlobalSpec.
+
+**Local Storage**  
+We may collect and store information (including personal information) locally on your device using mechanisms such as browser web storage (including HTML 5) and application data caches.
+
+**Cookies and Web Beacons**  
+Cookies and web beacons are electronic placeholders that are placed on your device by websites to track your individual movements on that website over time. IEEE GlobalSpec uses both session-based cookies (which last only for the duration of the user's session) and persistent cookies (which remain on your device and provides information about the session you are in and waits for the next time you use that site again).
+
+These cookies and web beacons provide useful information to IEEE GlobalSpec, enabling us to recognize repeat users, facilitate the user's access to and use of our sites, allows us to track usage behavior, and to balance the usage of our websites on all IEEE GlobalSpec web servers.
+
+Tracking cookies, third-party cookies, and other technologies such as web beacons may be used to process additional information, enable non-core functionalities on the IEEE GlobalSpec website and enable third-party functions (such as a social media "share" link). We may also include web beacons and other similar technology in promotional email messages to determine whether the messages have been opened.
+
+**Third-Party and Co-branded Web Sites**  
+Some Third-Party Content made available through other organizations is maintained on the website of the content provider, and not on the IEEE GlobalSpec site. This means that when you click through to that Third-Party Content, you will be leaving the IEEE GlobalSpec website. It will be clear to you when this happens, as the look and feel of your web page will change, and the URL will no longer refer to a website owned and operated by IEEE GlobalSpec.
+
+The IEEE GlobalSpec websites may contain links to other websites. IEEE GlobalSpec is not responsible for the privacy practices or the content of such sites. Users should be aware of this when they leave our site and review the privacy statements of each website they visit that collects information. This Privacy Policy applies solely to information collected by IEEE GlobalSpec.
+
+**Disclosure of Anonymous, Aggregated Information**  
+IEEE GlobalSpec provides summary reports to our Affiliates, Customers and other third-party suppliers, advertisers, and service providers, based on our analysis of clickstream data. This aggregated information is anonymous and does not disclose any personal data about individual users.
+
+### Legal and Regulatory Information
+
+**Personal Data about Minors and Children**  
+IEEE GlobalSpec does not knowingly collect data from or about children under sixteen (16) years of age without the permission of parent(s)/guardian(s). If we learn that we have collected personal information from a child under age 16, we will delete that information as quickly as possible. If you believe that we might have any information from or about a child under age 16, please contact us.
+
+**Collaboration with Authorities**  
+IEEE GlobalSpec has appointed and mandated a [privacy officer](mailto:privacy@ieeeglobalspec.com) who represents the regulatory authorities inside the IEEE GlobalSpec organization, and in return represents the IEEE GlobalSpec organization to regulatory authorities.
+
+The IEEE GlobalSpec privacy officer will ensure proper communication with the relevant regulatory authority for privacy. The privacy officer will lead investigative action, complaint handling, and data breach notification. The privacy officer will also monitor regulatory changes and consult the regulatory authority where implementation of a regulatory or technological change leads to doubt.
+
+IEEE GlobalSpec reserves the right to share your information to respond to duly authorized information requests of governmental authorities or where required by law.
+
+**Transfer of Information to Other Countries**  
+As a global organization, IEEE GlobalSpec engages in a number of international activities. In connection with the management of those activities, IEEE GlobalSpec may transfer information to other countries. By submitting your information to IEEE GlobalSpec via our websites, or in connection with your interactions with IEEE GlobalSpec offline, you consent to such transfers and to the processing of this information in other countries.
+
+**Your California Privacy Rights**  
+Under California Civil Code Section 1798.83 (also known as S.B. 27), if you are a California resident and your business relationship with IEEE GlobalSpec is primarily for personal, family, or household purposes, you may request certain data regarding IEEE GlobalSpec's disclosure, if any, of personal information to third parties for the third-parties' direct marketing purposes. To make such a request, please send an email to [privacy@ieeeglobalspec.com](mailto:privacy@ieeeglobalspec.com) with "Request for California Privacy Information" in the subject line. You may make such a request up to once per calendar year. If applicable, we will provide you, by email, a list of the categories of personal information disclosed to third parties for their direct marketing purposes during the immediately preceding calendar year, along with the third parties' names and addresses. Please note that not all personal information sharing is covered by S.B. 27's requirements.
+
+**Your European Union Privacy Rights**  
+Under the General Data Protection Regulation (Regulation EU 2016/679) (also known as GDPR), if you are an individual protected by the GDPR you may have certain rights as a data subject. To request information about or avail yourself of those rights, please send an email to [privacy@ieeeglobalspec.com](mailto:privacy@ieeeglobalspec.com) with "GDPR Request" in the subject line. In the email please describe, with specificity, the GDPR right you are requesting assistance with. Please note additional information may be requested prior to initiation of a request and that IEEE GlobalSpec reserves the right to charge a fee with respect to certain requests. Upon IEEE GlobalSpec's completion of its review, you will be notified if your request has been granted, denied, or exemptions apply.
+
+**Business Transfers**  
+If all or part of IEEE GlobalSpec is sold, merged, or otherwise transferred to another entity, the profile information and activity data that you have provided to us may be transferred as part of that transaction.
+
+### How Will You Know If Our Privacy Policy Has Changed? 
+
+IEEE GlobalSpec, in its sole discretion, reserves the right to update its Privacy Policy from time to time. If we make any material changes we will notify you by email if you have an IEEE GlobalSpec account, or by means of a notice on this website prior to the change becoming effective. We encourage you to periodically review this page for the latest information on our privacy practices.
+
+### Contact:
+
+If you have any questions about the policy, you can write to:
+
+  * IEEE GlobalSpec
+  * 201 Fuller Rd., Suite 202
+  * Albany, NY 12203
+  * Attention: User Services
+  * Email: [webmaster@ieeeglobalspec.com](mailto:webmaster@ieeeglobalspec.com)
+
+
+
+8 May 2018  
+Ver. 2.0
