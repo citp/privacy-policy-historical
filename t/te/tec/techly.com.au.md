@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the techly.com.au privacy policy that was archived on 2018-09-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180927141550id_/https%3A//www.techly.com.au/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the techly.com.au privacy policy that was archived on 2019-03-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190326183401id_/https%3A//www.techly.com.au/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Techly
 
