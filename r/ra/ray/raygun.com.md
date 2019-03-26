@@ -1,59 +1,69 @@
-> *The following text is extracted and transformed from the raygun.com privacy policy that was archived on 2018-01-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180129184337id_/https%3A//raygun.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the raygun.com privacy policy that was archived on 2019-03-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190326222545id_/https%3A//raygun.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Raygun
 
-## Raygun Limited Privacy Policy
+Last updated: December 2018
 
-_Last updated: December 2014_
+Raygun provides error, crash and performance monitoring for software teams. We want you to have a clear understanding of how we collect and use information in order to provide services, while at the same time safeguarding your privacy.
 
-**We want you to have a clear understanding of how we collect and use information in order to provide services, while at the same time safeguarding your privacy.**
+This is the privacy policy of Raygun Limited, New Zealand Company number 1899673, (“Raygun”) including its related parties. This document explains Raygun’s policies for the collection, use and disclosure of personal information. Its scope includes all of Raygun’s services, including the services provided to users of its “Raygun” system.
 
-This is the privacy policy of Raygun Limited, New Zealand Company number 1899673, (“Raygun”). This document explains Raygun’s policies for the collection, use and disclosure of personal information. Its scope includes all of Raygun’s services, including the services provided to users of its “Raygun” system.
-
-### Information Collected
+* * *
 
 Raygun provides tools and services that help software developers make better software. In order to do that, we collect both information that our customers give us directly and information we gather from the way customers use our services.
 
-Raygun collects information from two main groups: our _customers_ , who develop software for end users, and the _end users_ themselves. Our service will automatically collect certain information about end users who access those applications that use our service. Data transmitted will relate to an error or exception and the environment under which it occurred. No personally identifying information is recorded, only information to aid in the diagnosis of errors. Information collected may include your IP address, or that of any end user.
+Raygun collects information from two main groups: our customers, who develop software for end users, and the end users themselves. Our service will automatically collect certain information about end users who access the applications that use our service.
 
-We also collect information from site _visitors_. You may visit our site without identifying yourself or revealing any personal information. Like many online service providers, our site does collect information such as domain names, IP address, browser type, operating system, access times and referring web site addresses. This type of information does not personally identify you.
+Data transmitted will relate to an error or exception and the environment under which it occurred. Information collected may include IP addresses, or that of any end user of your application. IP address collection can be disabled on a per-plan basis via account settings. Information is only used to aid in the diagnosis of errors and performance issues for you as a Raygun customer.
 
-### Use of Information
+We also collect information from site visitors. You may visit our site without identifying yourself or revealing any personal information. Like many online service providers, we use cookies and our site does collect information such as domain names, IP address, browser type, operating system, access times and referring web site addresses. This type of information does not personally identify you. We use this information to personalize your experience and remember your preferences each time you visit our website.
+
+We collect personal information from you when you voluntarily provide it through online forms, email, support requests or other types of communication with us. This allows us to support you and the business services we provide.
+
+* * *
+
+Raygun customers have full control over the data they wish to send to Raygun for processing. You may unintentionally send information from your application to Raygun that includes sensitive data. If you wish to remove specific information from being sent within error and crash reports, we provide the means to do so at a code level in all Raygun providers.
+
+To comply with GDPR legislation we provide functionality that allows Raygun customers to permanently delete Personally Identifiable Information (PII) and known application users that you have chosen to identify in Raygun. View this page for more detailed [GDPR information](https://raygun.com/gdpr).
+
+* * *
 
 We collect information in order to better understand our customers and users, and to provide better services. This includes understanding the operations of our service and user interactions with it, maintaining the quality of the service and analysis of site trends and statistics that help us improve our offer and design new services for the future.
 
 We may use your personal information to deliver additional services, such as direct communications, newsletters, events, training or software that you request or purchase. We may also use any information you have provided as reasonably necessary to provide customer support to you.
 
-### Sharing Information
+* * *
 
 We do not sell, rent, or give your personal information to any third party, except as required to do so by law. Raygun discloses potentially personally-identifying and personally-identifying information to those of its employees, contractors, and affiliated organizations that need to know that information in order to provide services or operate on Raygun’s behalf, only where those individuals and organizations have agreed not to disclose it to others.
 
-### Use of Cookies
+* * *
 
-We may use cookies from time to time. Cookies are small text files a web site can use to recognize a repeat visitor. We may use cookies for various reasons. If you do not want Raygun.io to deploy cookies in your browser, you can set your browser to reject cookies or to notify you when a web site tries to put a cookie in your browser software. If you choose to disable cookies in your browser, you can still access most of this site, however, your ability to use some of the products and/or services at this site may be affected.
+We may use cookies from time to time. Cookies are small text files a web site can use to recognize a repeat visitor. We may use cookies for various reasons. If you do not want Raygun to deploy cookies in your browser, you can set your browser to reject cookies or to notify you when a website tries to put a cookie in your browser software. If you choose to disable cookies in your browser, you can still access most of this site, however, your ability to use some of the products and/or services at this site may be affected.
 
-### Links to Third Party Sites
+* * *
 
 At this site, and in other communications with you, there may be links to companies with whom we have a relationship. Raygun is not responsible for the privacy practices of our business partners. We encourage you to read their privacy statements, as they may differ from ours.
 
-### Security
+* * *
 
-Your information security is important to us. Raygun implements reasonable security measures to protect your information from loss or destruction, misuse, unauthorized access, disclosure and alteration. All communication with the Raygun service uses secure sockets layer technology (SSL).
+Your information security is important to us. Raygun implements reasonable security measures to protect your information from loss or destruction, misuse, unauthorized access, disclosure and alteration. All communication with the Raygun service uses secure sockets layer technology (SSL).
 
-### Changes
+Raygun maintains a data breach policy and has procedures in place should a data breach occur.
+
+* * *
 
 Raygun reserves the right to modify or supplement this Privacy Policy at any time. The most recent version of it will appear on this website with the relevant modification date. Your continuing use of the site or its services will constitute acceptance of the most recently available policy.
 
-### Customer arrangements
+* * *
 
 If you require custom privacy arrangements because of the particular nature of your circumstances, please contact us for a discussion of these needs.
 
-### Your authorization
+* * *
 
 When using any of our services you consent to the collection, transfer, manipulation, storage, disclosure and other uses of your information, and the information of your end users, as described in this Privacy Policy.
 
 In particular, in order to deliver our service to customers, we require that our customers maintain a privacy policy with their clients and end users that is compatible with this Privacy Policy. It should disclose the type of information collected from them, and that it is shared with parties like Raygun.
 
-### Questions
+* * *
 
-If you have any questions relating to Privacy, [please contact us directly](https://raygun.io/about/contact) and we will gladly discuss them.
+If you have any questions relating to Privacy, [please contact us directly](https://raygun.io/about/contact) and we will gladly discuss them.
