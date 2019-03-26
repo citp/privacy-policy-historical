@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the reelgood.com privacy policy that was archived on 2018-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181228144022id_/https%3A//www.iubenda.com/privacy-policy/886836) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the reelgood.com privacy policy that was archived on 2019-03-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190326014939id_/https%3A//www.iubenda.com/privacy-policy/886836) for the most accurate reproduction.*
 
 # Privacy Policy of reelgood
 
@@ -10,39 +10,39 @@
 
       * ### Access to the Facebook account
 
-Permissions: About Me, Access Friend Lists and Contact email
+Permissions: About Me; Access Friend Lists; Contact email
 
     * ### Analytics
 
       * ### Heap Analytics
 
-Personal Data: Cookies and Usage Data
+Personal Data: Cookies; Usage Data
 
       * ### Flurry Analytics
 
-Personal Data: Cookies, Usage Data and various types of Data as specified in the privacy policy of the service
+Personal Data: Cookies; Usage Data; various types of Data as specified in the privacy policy of the service
 
     * ### Contacting the User
 
       * ### Contact form
 
-Personal Data: email address, first name and last name
+Personal Data: email address; first name; last name
 
       * ### Mailing List or Newsletter
 
-Personal Data: country, email address, first name and last name
+Personal Data: country; email address; first name; last name
 
     * ### Content commenting
 
       * ### Comment system managed directly
 
-Personal Data: first name and last name
+Personal Data: first name; last name
 
     * ### Infrastructure monitoring
 
       * ### Crashlytics
 
-Personal Data: geographic position, unique device identifiers for advertising (Google Advertiser ID or IDFA, for example) and various types of Data as specified in the privacy policy of the service
+Personal Data: geographic position; unique device identifiers for advertising (Google Advertiser ID or IDFA, for example); various types of Data as specified in the privacy policy of the service
 
     * ### Location-based interactions
 
@@ -54,7 +54,7 @@ Personal Data: geographic position
 
       * ### Mandrill
 
-Personal Data: email address and Usage Data
+Personal Data: email address; Usage Data
 
       * ### Twilio
 
@@ -74,7 +74,7 @@ Personal Data: Various types of Data
 
       * ### Public profile
 
-Personal Data: first name, last name and picture
+Personal Data: first name; last name; picture
 
 
 
@@ -118,7 +118,7 @@ Reelgood - 291 Alma Street in Palo Alto, California
 
 ## Types of Data collected
 
-Among the types of Personal Data that this Application collects, by itself or through third parties, there are: first name, last name, email address, Cookies, Usage Data, unique device identifiers for advertising (Google Advertiser ID or IDFA, for example), geographic position, country, phone number, Various types of Data and picture. 
+Among the types of Personal Data that this Application collects, by itself or through third parties, there are: first name; last name; email address; Cookies; Usage Data; unique device identifiers for advertising (Google Advertiser ID or IDFA, for example); geographic position; country; phone number; Various types of Data; picture. 
 
 Complete details on each type of Personal Data collected are provided in the dedicated sections of this privacy policy or by specific explanation texts displayed prior to the Data collection.  
 Personal Data may be freely provided by the User, or, in case of Usage Data, collected automatically when using this Application.  
@@ -217,7 +217,7 @@ These services are not activated automatically, but require explicit authorizati
 
 This service allows this Application to connect with the User's account on the Facebook social network, provided by Facebook, Inc.
 
-Permissions asked: About Me, Access Friend Lists and Contact email. 
+Permissions asked: About Me; Access Friend Lists; Contact email. 
 
 Place of processing: US – [Privacy Policy](https://www.facebook.com/policy.php). 
 
@@ -229,7 +229,7 @@ The services contained in this section enable the Owner to monitor and analyze w
 
 Heap Analytics is an analytics service provided by Heap Inc.
 
-Personal Data collected: Cookies and Usage Data. 
+Personal Data collected: Cookies; Usage Data. 
 
 Place of processing: US – [Privacy Policy](https://heapanalytics.com/privacy). 
 
@@ -239,7 +239,7 @@ Flurry Analytics is an analytics service provided by Yahoo! Inc.
 This service is designed for mobile apps analytics and can collect various information about your phone, highlighted in the Flurry Analytics privacy policy.  
 If the User chooses to opt-out, Flurry will stop tracking data for the device identified by the provided MAC address and/or device identifier going forward. The analytics service tracking will stop across all applications within the Flurry network.
 
-Personal Data collected: Cookies, Usage Data and various types of Data as specified in the privacy policy of the service. 
+Personal Data collected: Cookies; Usage Data; various types of Data as specified in the privacy policy of the service. 
 
 Place of processing: US – [Privacy Policy](https://info.yahoo.com/privacy/) – [Opt Out](https://developer.yahoo.com/flurry/end-user-opt-out/). 
 
@@ -249,13 +249,13 @@ Place of processing: US – [Privacy Policy](https://info.yahoo.com/privacy/) �
 
 By filling in the contact form with their Data, the User authorizes this Application to use these details to reply to requests for information, quotes or any other kind of request as indicated by the form’s header.
 
-Personal Data collected: email address, first name and last name. 
+Personal Data collected: email address; first name; last name. 
 
 #### Mailing List or Newsletter (This Application)
 
 By registering on the mailing list or for the newsletter, the User’s email address will be added to the contact list of those who may receive email messages containing information of commercial or promotional nature concerning this Application. Your email address might also be added to this list as a result of signing up to this Application or after making a purchase.
 
-Personal Data collected: country, email address, first name and last name. 
+Personal Data collected: country; email address; first name; last name. 
 
   * ### Content commenting
 
@@ -267,7 +267,7 @@ If a content commenting service provided by third parties is installed, it may s
 
 This Application has its own internal content comment system.
 
-Personal Data collected: first name and last name. 
+Personal Data collected: first name; last name. 
 
   * ### Infrastructure monitoring
 
@@ -278,7 +278,7 @@ Which Personal Data are processed depends on the characteristics and mode of imp
 
 Crashlytics is a monitoring service provided by Google Inc.
 
-Personal Data collected: geographic position, unique device identifiers for advertising (Google Advertiser ID or IDFA, for example) and various types of Data as specified in the privacy policy of the service. 
+Personal Data collected: geographic position; unique device identifiers for advertising (Google Advertiser ID or IDFA, for example); various types of Data as specified in the privacy policy of the service. 
 
 Place of processing: US – [Privacy Policy](https://try.crashlytics.com/terms/privacy-policy.pdf). 
 
@@ -301,7 +301,7 @@ These services may also collect data concerning the date and time when the messa
 
 Mandrill is an email address management and message sending service provided by The Rocket Science Group, LLC.
 
-Personal Data collected: email address and Usage Data. 
+Personal Data collected: email address; Usage Data. 
 
 Place of processing: US – [Privacy Policy](https://mailchimp.com/legal/privacy/). 
 
@@ -338,7 +338,7 @@ Personal Data collected: Various types of Data.
 
 Users may have public profiles that other Users can display. In addition to the Personal Data provided, this profile may contain Users' interactions with this Application.
 
-Personal Data collected: first name, last name and picture. 
+Personal Data collected: first name; last name; picture. 
 
 
 
