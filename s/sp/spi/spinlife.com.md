@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the spinlife.com privacy policy that was archived on 2017-09-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170924000152id_/http%3A//www.spinlife.com/en/privacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the spinlife.com privacy policy that was archived on 2019-03-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190326140717id_/https%3A//www.spinlife.com/en/privacy.cfm) for the most accurate reproduction.*
 
 # SpinLife® Privacy Policy
 
@@ -27,6 +27,8 @@ When you place orders we offer the use of a secure server. The information you p
 **Will SpinLife.com disclose the information it collects to outside parties?**
 
 SpinLife.com does not sell or rent your personal information to others. According to our privacy policy updated on 7/16/2010, SpinLife on occasion will trade customer information with trustworthy third parties. If you would rather not have your information traded, please e-mail us at [CustomerService@SpinLife.com](mailto:CustomerService@Spinlife.com). (If you use more than one e-mail address to shop with us, send this message from each e-mail account you use.) Also, SpinLife.com may provide aggregate statistics about our customers, sales, traffic patterns, and related site information to reputable third-party vendors, but these statistics will include no personally identifying information. SpinLife.com may release account information when we believe, in good faith, that such release is reasonably necessary to (i) comply with law, (ii) enforce or apply the terms of any of our user agreements or (iii) protect the rights, property or safety of SpinLife.com, our users, or others.
+
+If you would prefer not to have your information used please click here to [Opt-Out.](http://dtmc.spinlife.com/adinfo/choice/prod/?type=fpc&cid=62529&cname=Spinlife&cmagic=0189d6&clogo=62529.png&loc=us&lang=en-us "Opt-Out")
 
 **How does SpinLife.com allow customers to update or change the information it collects?**
 
