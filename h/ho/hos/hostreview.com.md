@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hostreview.com privacy policy that was archived on 2018-09-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180924020311id_/https%3A//www.devstart.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hostreview.com privacy policy that was archived on 2019-03-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190326032627id_/https%3A//www.devstart.com/privacy.html) for the most accurate reproduction.*
 
 # DevStart.com - The Web Developers Resource Center | Privacy Policy
 
