@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the wordhippo.com privacy policy that was archived on 2018-11-18.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20181118013332id_/https%3A//www.wordhippo.com/what-is/info/privacy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the wordhippo.com privacy policy that was archived on 2019-03-26.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20190326152540id_/https%3A//www.wordhippo.com/what-is/info/privacy.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html xmlns="https://www.w3.org/1999/xhtml" xml:lang="en" lang="en"><head>
 <meta property="og:site_name" content="WordHippo">
@@ -805,7 +805,7 @@ div#indexform input[type='text'], div#indexform select, div#indexform textarea {
 }
 
 div#indexform textarea#selectword {
-    width:450px;
+    width:470px;
   }
 
 div#indexform input[type='text']:focus { background:#F7F8FA; }
@@ -1795,7 +1795,7 @@ function toggleSearchAgainAutosize() {
     return;
   }
   
-    searchAgainInputElement.style.width = "450px";
+    searchAgainInputElement.style.width = "470px";
   
   var searchAgainWordString = searchAgainInputElement.value;
   if (searchAgainWordString.length >= 1000) {
@@ -2128,7 +2128,7 @@ function checkSuggestionSelect(e) {
         translateInputElement.blur();
         var translateForm = document.getElementById('translateform');
         if (submitMenuForm(translateForm, 'translate', 'Translations')) {
-          translateForm.submit();
+                    setTimeout(function(){ translateForm.submit(); }, 250);
         }
       }
     }
@@ -2145,7 +2145,23 @@ function checkSuggestionSelect(e) {
         searchAgainInputElement.blur();
         var searchAgainForm = document.getElementById('selectwordform');
         if (submitWebSearchForm(searchAgainForm)) {
-          searchAgainForm.submit();
+                    setTimeout(function(){ searchAgainForm.submit(); }, 250);
+        }
+      }
+    }
+  }
+ 
+  searchAgainInputElement = document.getElementById('rightsearchselectword');
+  if (searchAgainInputElement) {
+    var searchAgainWordString = searchAgainInputElement.value.trim();
+    if (searchAgainInputElement == document.activeElement && searchAgainWordString.length <= 30) {
+      // Enter
+      if (e.keyCode == '13') {
+        searchAgainInputElement.scrollTop = 0;
+        searchAgainInputElement.blur();
+        var searchAgainForm = document.getElementById('rightsearchselectwordform');
+        if (submitWebSearchForm(searchAgainForm)) {
+                    setTimeout(function(){ searchAgainForm.submit(); }, 250);
         }
       }
     }
@@ -2155,6 +2171,14 @@ function checkSuggestionSelect(e) {
     var suggestDiv = document.getElementById('suggestdiv');
     var suggestTable = document.getElementById('suggesttable');
     
+    var rightSuggestDiv = document.getElementById('rightsearchformsuggestdiv');
+    var rightSuggestTable = document.getElementById('rightsearchformsuggesttable');
+    
+    if (rightSuggestDiv && rightSuggestDiv && rightSuggestDiv != null && rightSuggestDiv != null && rightSuggestDiv.style.display == 'block' && rightSuggestTable.rows.length > 0) {
+      suggestDiv = rightSuggestDiv;
+      suggestTable = rightSuggestTable;
+    }
+
     if (suggestDiv.style.display == 'block' && suggestTable.rows.length > 0) {
 
       // Down arrow
@@ -2186,6 +2210,17 @@ function checkSuggestionSelect(e) {
       // ESC
       if (e.keyCode == '27') {
         clearSuggestTable();
+        var suggestRow = document.getElementById('rightsearchformsuggestrow');
+        var suggestDiv = document.getElementById('rightsearchformsuggestdiv');
+        if (suggestRow && suggestDiv && suggestRow != null && suggestDiv != null) {
+          var rightSearchSelectWord = document.getElementById("rightsearchselectword");
+          if (rightSearchSelectWord && rightSearchSelectWord != null) {
+            rightSearchSelectWord.blur();
+          }
+          suggestDiv.style.display = 'none';
+          suggestRow.style.display = 'none';
+          deleteAllRightSearchFormSuggestions();
+        }
       }
 
       // Enter
@@ -2467,12 +2502,15 @@ function clearAdvancedGameWord() {
 !function(e,t){if("function"==typeof define&&define.amd)define(["exports","module"],t);else if("undefined"!=typeof exports&&"undefined"!=typeof module)t(exports,module);else{var n={exports:{}};t(n.exports,n),e.autosize=n.exports}}(this,function(e,t){"use strict";function n(e){function t(){var t=window.getComputedStyle(e,null);"vertical"===t.resize?e.style.resize="none":"both"===t.resize&&(e.style.resize="horizontal"),s="content-box"===t.boxSizing?-(parseFloat(t.paddingTop)+parseFloat(t.paddingBottom)):parseFloat(t.borderTopWidth)+parseFloat(t.borderBottomWidth),isNaN(s)&&(s=0),l()}function n(t){var n=e.style.width;e.style.width="0px",e.offsetWidth,e.style.width=n,e.style.overflowY=t}function o(e){for(var t=[];e&&e.parentNode&&e.parentNode instanceof Element;)e.parentNode.scrollTop&&t.push({node:e.parentNode,scrollTop:e.parentNode.scrollTop}),e=e.parentNode;return t}function r(){var t=e.style.height,n=o(e),r=document.documentElement&&document.documentElement.scrollTop;e.style.height="";var i=e.scrollHeight+s;return 0===e.scrollHeight?void(e.style.height=t):(e.style.height=i+"px",u=e.clientWidth,n.forEach(function(e){e.node.scrollTop=e.scrollTop}),void(r&&(document.documentElement.scrollTop=r)))}function l(){r();var t=Math.round(parseFloat(e.style.height)),o=window.getComputedStyle(e,null),i="content-box"===o.boxSizing?Math.round(parseFloat(o.height)):e.offsetHeight;if(i!==t?"hidden"===o.overflowY&&(n("scroll"),r(),i="content-box"===o.boxSizing?Math.round(parseFloat(window.getComputedStyle(e,null).height)):e.offsetHeight):"hidden"!==o.overflowY&&(n("hidden"),r(),i="content-box"===o.boxSizing?Math.round(parseFloat(window.getComputedStyle(e,null).height)):e.offsetHeight),a!==i){a=i;var l=d("autosize:resized");try{e.dispatchEvent(l)}catch(e){}}}if(e&&e.nodeName&&"TEXTAREA"===e.nodeName&&!i.has(e)){var s=null,u=e.clientWidth,a=null,c=function(){e.clientWidth!==u&&l()},p=function(t){window.removeEventListener("resize",c,!1),e.removeEventListener("input",l,!1),e.removeEventListener("keyup",l,!1),e.removeEventListener("autosize:destroy",p,!1),e.removeEventListener("autosize:update",l,!1),Object.keys(t).forEach(function(n){e.style[n]=t[n]}),i.delete(e)}.bind(e,{height:e.style.height,resize:e.style.resize,overflowY:e.style.overflowY,overflowX:e.style.overflowX,wordWrap:e.style.wordWrap});e.addEventListener("autosize:destroy",p,!1),"onpropertychange"in e&&"oninput"in e&&e.addEventListener("keyup",l,!1),window.addEventListener("resize",c,!1),e.addEventListener("input",l,!1),e.addEventListener("autosize:update",l,!1),e.style.overflowX="hidden",e.style.wordWrap="break-word",i.set(e,{destroy:p,update:l}),t()}}function o(e){var t=i.get(e);t&&t.destroy()}function r(e){var t=i.get(e);t&&t.update()}var i="function"==typeof Map?new Map:function(){var e=[],t=[];return{has:function(t){return e.indexOf(t)>-1},get:function(n){return t[e.indexOf(n)]},set:function(n,o){e.indexOf(n)===-1&&(e.push(n),t.push(o))},delete:function(n){var o=e.indexOf(n);o>-1&&(e.splice(o,1),t.splice(o,1))}}}(),d=function(e){return new Event(e,{bubbles:!0})};try{new Event("test")}catch(e){d=function(e){var t=document.createEvent("Event");return t.initEvent(e,!0,!1),t}}var l=null;"undefined"==typeof window||"function"!=typeof window.getComputedStyle?(l=function(e){return e},l.destroy=function(e){return e},l.update=function(e){return e}):(l=function(e,t){return e&&Array.prototype.forEach.call(e.length?e:[e],function(e){return n(e,t)}),e},l.destroy=function(e){return e&&Array.prototype.forEach.call(e.length?e:[e],o),e},l.update=function(e){return e&&Array.prototype.forEach.call(e.length?e:[e],r),e}),t.exports=l});
 </script>
 
+
 <title>WordHippo</title>
 <meta name="robots" content="noindex,follow">
 
 <script type="text/javascript">
 setLastToggled('synonyms');
 </script>
+
+<script src="https://snigelweb-com.videoplayerhub.com/videoloader.js" async=""></script>
 
 </head>
 
@@ -2493,6 +2531,8 @@ setLastToggled('synonyms');
 
 <td width="815">
 <table cellspacing="0" cellpadding="0" border="0" width="815">
+
+
 
 
 
@@ -2520,6 +2560,7 @@ setLastToggled('synonyms');
 </td></tr>
 
 
+
 <tr id="antonymsMenuBar2" style="display:none;"><td colspan="6" align="center" class="menubar" valign="middle">
 <div id="antonymsMenuDiv" style="display:none;">
 <form onsubmit="return submitMenuForm(this, 'oppositeof', 'Antonyms');" action="/what-is/process-form.html" method="post" id="oppositeofform">
@@ -2545,6 +2586,7 @@ setLastToggled('synonyms');
 </td></tr>
 
 
+
 <tr id="meaningMenuBar2" style="display:none;"><td colspan="6" align="center" class="menubar" valign="middle">
 <div id="meaningMenuDiv" style="display:none;">
 <form onsubmit="return submitMenuForm(this, 'definitionword', 'Definitions');" action="/what-is/process-form.html" method="post" id="definitionwordform">
@@ -2568,6 +2610,7 @@ setLastToggled('synonyms');
 </td></tr>
 
 
+
 <tr id="rhymeMenuBar2" style="display:none;"><td colspan="6" align="center" class="menubar" valign="middle">
 <div id="rhymeMenuDiv" style="display:none;">
 <form onsubmit="return submitMenuForm(this, 'rhymeword', 'Rhymes');" action="/what-is/process-form.html" method="post" id="rhymewordform">
@@ -2589,6 +2632,7 @@ setLastToggled('synonyms');
 </form>
 </div>
 </td></tr>
+
 
 
 <tr id="sentenceMenuBar2" style="display:none;"><td colspan="6" align="center" class="menubar" valign="middle">
@@ -2618,6 +2662,7 @@ setLastToggled('synonyms');
 </form>
 </div>
 </td></tr>
+
 <style>
 textarea#translate {
   width:330px;
@@ -2781,6 +2826,7 @@ function collapseTranslateTextarea() {
 </form>
 </div>
 </td></tr>
+
 <tr id="matchMenuBar2" style="display:none;"><td colspan="6" align="center" class="menubar" valign="middle">
 <div id="matchMenuDiv" style="display:none;">
 <form onsubmit="return matchWord(this)">
@@ -2839,6 +2885,7 @@ function collapseTranslateTextarea() {
 </td></tr>
 
 
+
 <tr id="typeMenuBar2" style="display:none;"><td colspan="6" align="center" class="menubar" valign="middle">
 <div id="typeMenuDiv" style="display:none;">
 <form onsubmit="return submitMenuForm(this, 'wordformword', 'Word Forms');" action="/what-is/process-form.html" method="post" id="wordformwordform">
@@ -2873,6 +2920,7 @@ function collapseTranslateTextarea() {
 </form>
 </div>
 </td></tr>
+
 <tr id="pronounceMenuBar2" style="display:none;"><td colspan="6" align="center" class="menubar" valign="middle">
 <div id="pronounceMenuDiv" style="display:none;">
 <form onsubmit="return submitMenuForm(this, 'pronounceword', 'Pronunciations');" action="/what-is/process-form.html" method="post">
@@ -2948,6 +2996,7 @@ function collapseTranslateTextarea() {
 </form>
 </div>
 </td></tr>
+
 <tr id="nameMenuBar2" style="display:none;"><td colspan="6" align="center" class="menubar" valign="middle">
 <div id="nameMenuDiv" style="display:none;">
 <form onsubmit="return findNames(this)">
@@ -3057,16 +3106,13 @@ system temporarily while the session is active.
 </td>
 <td rowspan="1" class="backgroundcolor" style="width:10px"></td>
 <td class="bodybar" width="160" align="right" valign="top" style="padding:0px 0px 10px 0px">
-<script type="text/javascript"><!--
-google_ad_client = "ca-pub-8100122657047353";
-/* WordHippo 160x600 */
-google_ad_slot = "9187250740";
-google_ad_width = 160;
-google_ad_height = 600;
-//-->
+<script async="" src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- WordHippo 160x600 -->
+<ins class="adsbygoogle" style="display:inline-block;width:160px;height:600px" data-ad-client="ca-pub-1151582373407200" data-ad-slot="4496601919"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
 </script>
-<script type="text/javascript" src="https://pagead2.googlesyndication.com/pagead/show_ads.js">
-</script>
+<span class="bt-uid-tg" data-uid="5c17f0ddaa-158" style="display: none !important"></span> 
 </td>
 </tr>
 </tbody></table>
@@ -3207,7 +3253,7 @@ google_ad_height = 600;
 </tr>
 
 <tr><td colspan="10" align="center" class="footertext">Copyright WordHippo
- © 2018</td></tr>
+ © 2019</td></tr>
 
 </tbody></table>
 
@@ -3229,6 +3275,7 @@ google_ad_height = 600;
 <input type="hidden" name="middle" id="gamewordfindermiddle" value="">
 <input type="hidden" name="suffix" id="gamewordfindersuffix" value="">
 <input type="hidden" name="anywhere" id="gamewordfinderanywhere" value="">
+<input type="hidden" name="word_type" id="gamewordfinderwordtype" value="">
 </form>
 
 
