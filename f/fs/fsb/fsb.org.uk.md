@@ -1,118 +1,402 @@
-> *The following text is extracted and transformed from the fsb.org.uk privacy policy that was archived on 2015-09-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150910015519id_/http%3A//www.fsb.org.uk/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fsb.org.uk privacy policy that was archived on 2019-03-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190326024921id_/https%3A//www.fsb.org.uk/about-us/company-information/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Statement
+# Privacy Policy
 
-* * *
+Updated July 2018
+
+ **We, Us, Our, FSB** – refers to The National Federation of Self-Employed & Small Businesses Limited
+
+**Data Protection Legislation** – refers to all applicable privacy and data protection laws including (i) the General Data Protection Regulation ( _(EU) 2016/679_ ), the Data Protection Act 2018 and any further or additional national implementing laws, regulations and secondary legislation in England and Wales relating to the processing of Personal Data and the privacy of electronic communications, as amended, replaced or updated from time to time, including the Privacy and Electronic Communications Directive ( _2002/58/EC_ ) and the Privacy and Electronic Communications (EC Directive) Regulations 2003 ( _SI 2003/2426)._
+
+## Introduction
+
+Welcome to our privacy policy.  
+
+
+We respect your privacy and are committed to protecting your personal data. This privacy policy will inform you as to how we look after your personal data and tell you about your privacy rights and how the law protects you. 
+
+## Purpose of this privacy policy
+
+This privacy policy aims to give you information on how we collect and processes your personal data through your use of this website.
+
+This website is not intended for children and we do not knowingly collect data relating to children.
+
+It is important that you read this privacy policy together with any other privacy policy or fair processing policy we may provide on specific occasions when we are collecting or processing personal data about you so that you are fully aware of how and why we are using your data. This privacy policy supplements other notices and privacy policies and is not intended to override them. 
+
+### Controller
+
+The National Federation of Self Employed and Small Businesses Limited is the controller and responsible for your personal data.
+
+If you have any questions about this privacy policy, including any requests to exercise your legal rights, please contact us using the details set out below. 
+
+### Complaints
+
+You have the right to make a complaint at any time to the Information Commissioner's Office (ICO), the UK supervisory authority for data protection issues (www.ico.org.uk). We would, however, appreciate the chance to deal with your concerns before you approach the ICO so please contact us in the first instance. 
+
+## Changes to this Privacy Notice and your duty to inform us of changes
+
+We keep this privacy policy under regular review. This version was last updated in July 2018.  
+
+
+It is important that the personal data we hold about you is accurate and current. Please keep us informed if your personal data changes during your relationship with us.  
+
+
+## Third-party links
+
+This website may include links to third-party websites, plug-ins and applications. Clicking on those links or enabling those connections may allow third parties to collect or share data about you. We do not control these third-party websites and are not responsible for their privacy statements. When you leave our website, we encourage you to read the privacy policy of every website you visit.  
+
+
+## Personal Data we receive
+
+Personal data, or personal information, means any information about an individual from which that person can be identified. It does not include data where the identity has been removed (anonymous data).  
+
+
+We may collect, use, store and transfer different kinds of personal data about you which we have grouped together as follows:
+
+  * Identity data (including your first name, last name,marital status, title, gender and multi media images);
+  * Contact data (including your billing address, delivery address, email address, telephone contact numbers and social media contact information);
+  * Financial Data (including bank account and payment card details).
+  * Transaction Data (including details about payments to and from you and other details of products and services you have purchased from us).
+  * Technical Data (including internet protocol (IP) address, your login data, browser type and version, time zone setting and location, browser plug-in types and versions, operating system and platform, and other technology on the devices you use to access this website). 
+  * Profile data (includes your username and password, purchase history, preferences, feedback and survey responses);
+  * Usage Data (including information about how you use our website, products and services]. 
+  * Marketing and Communications data (including your preferences in receiving marketing from us and/or third parties and your communications preferences);
+
+
+
+We also collect, use and share Aggregated Data such as statistical or demographic data for any purpose. Aggregated Data could be derived from your personal data but is not considered personal data in law as this data will **not** directly or indirectly reveal your identity. For example, we may aggregate your Usage Data to calculate the percentage of users accessing a specific website feature. However, if we combine or connect Aggregated Data with your personal data so that it can directly or indirectly identify you, we treat the combined data as personal data which will be used in accordance with this privacy policy.  
+
+
+We do not collect any Special Categories of Personal Data about you (this includes details about your race or ethnicity, religious or philosophical beliefs, sex life, sexual orientation, political opinions, trade union membership, information about your health, and genetic and biometric data). Nor do we collect any information about criminal convictions and offences.  
+
+
+## If you fail to provide personal data
+
+Where we need to collect personal data by law, or under the terms of a contract we have with you, and you fail to provide that data when requested, we may not be able to perform the contract we have or are trying to enter into with you (for example, to provide you with goods or services). In this case, we may have to cancel a product or service you have with us but we will notify you if this is the case at the time.                                                                  
+
+## How is your personal data collected?
+
+We use different methods to collect data from and about you including through:  
+
+
+  * **Direct interactions** **.** You may give us your Identity, Contact and Financial Data by filling in forms or by corresponding with us by post, phone (calls may be recorded), email or otherwise. This includes personal data you provide when you apply for membership; 
+    * express an interest in membership;
+    * request information about FSB services;
+    * attend an FSB event;
+    * enter a competition, promotion or survey; or
+    * give us feedback or contact us.
+  * **Automated technologies or interactions.** As you interact with our website, we will automatically collect Technical Data about your equipment, browsing actions and patterns. We collect this personal data by using cookies and other similar technologies. Please see our [cookie policy](https://www.fsb.org.uk/about-us/company-information/cookie-policy) for further details.
+  * **Third parties or publicly available sources.** We will receive personal data about you from various third parties and public sources as set out below: 
+    * Technical Data from the following parties: 
+      * analytics providers, such as Google based outside the EU;
+      * search information providers, such as Google based outside the EU;
+    *  Identity, Contact and Financial Data from FSB Membership Advisors
+    * Contact, Financial and Transaction Data from providers of technical, payment and delivery services.
+    * Identity and Contact Data from data brokers or aggregators such as Market Location, based inside the EU.
+    * Identity and Contact Data from publicly available sources such as Companies House and the Electoral Register based inside the EU.
+    * Profile data from FSB service providers
+
+
+
+## How your personal data will be used?
+
+1\. We will only use your data in circumstances where the data protection legislation allows us to. Most commonly, we will use your personal data in the following circumstances:  
+
+
+  * (a) Where we need to perform a contract we are about to enter into or have entered into with you;
+  * (b) Where it is necessary for our legitimate interests (or those of a third party) and your interests and
+  * fundamental rights do not override those interests;
+  * (c) Where we need to comply with a legal obligation;
+  * (d) Where we have received your informed and specific consent to do so.
+
+
+
+We have set out below, in a table format and within the numbered paragraphs thereafter, a description of all the ways we plan to use your personal data, and which of the legal bases we rely on to do so. We have also identified what our legitimate interests are where appropriate.
+
+Please note that we may process your personal data for more than one lawful ground depending on the specific purpose for which we are using your data. Please contact us if you need details about the specific legal ground we are relying on to process your personal data where more than one ground has been set out in the table below. 
 
   
 
 
-#### About The Federation of Small Businesses
+**Purpose/Activity**
 
-The Federation of Small Businesses is the trading name of the National Federation of Self Employed and Small Businesses Limited. Our registered office is Sir Frank Whittle Way, Blackpool Business Park, Blackpool, Lancashire, FY4 2FE. Our company number is 1263540 and our Data Protection Act registration number is Z7356876. We are a non-profit making organisation and we have registered with the Information Commissioner on a voluntary basis.
+| 
 
-We have two associated companies, FSB (Member Services) Limited (company number 02875304 and Data Protection Act registration number Z7356601) and NFSE Sales Limited (company number 01222258 and Data Protection Act registration number Z7315310).
+**Type of data**
 
+| 
+
+**Lawful basis for processing.**  
+  
+---|---|---  
+  
+To provide you with marketing information regarding our membership and services
+
+| 
+
+(a) Identity data
+
+(b) Contact data
+
+(c) Marketing and Communications data
+
+| 
+
+(a) Necessary for our legitimate interests (to ensure that small businesses are made aware of the support services offered by FSB)
+
+(b) Consent  
+  
+To process and deliver your order including:
+
+(a) Manage payments, fees and charges
+
+(b) Collect and recover money owed to us
+
+| 
+
+(a) Identity 
+
+(b) Contact 
+
+(c) Financial 
+
+(d) Transaction 
+
+(e) Marketing and Communications
+
+| 
+
+(a) Performance of a contract with you 
+
+(b) Necessary for our legitimate interests (to recover debts due to us)  
+  
+To register you as a member
+
+| 
+
+(a) Identity data
+
+(b) Contact data
+
+| 
+
+Performance of a contract with you  
+  
+To manage our relationship with you which will include:
+
+(a) Notifying you about changes to our terms or privacy policy
+
+(b) Asking you to leave a review or take a survey
+
+| 
+
+(a) Identity 
+
+(b) Contact 
+
+(c) Profile 
+
+(d) Marketing and Communications
+
+| 
+
+(a) Performance of a contract with you 
+
+(b) Necessary to comply with a legal obligation
+
+(c) Necessary for our legitimate interests (to keep our records updated and to study how customers use our products/services)  
+  
+To promote the work of FSB and the contribution of small businesses to the UK economy
+
+| 
+
+(a) Identity
+
+| 
+
+(a) Necessary for our legitimate interests (to promote the Small Business community)
+
+(b) Consent  
+  
+To enable you to partake in a prize draw, competition or complete a survey
+
+| 
+
+(a) Identity 
+
+(b) Contact 
+
+(c) Profile 
+
+(d) Usage 
+
+(e) Marketing and Communications
+
+| 
+
+(a) Performance of a contract with you 
+
+(b) Necessary for our legitimate interests (to study how members use our products/services, to develop them and grow our business)  
+  
+To administer and protect our business and this website (including troubleshooting, data analysis, testing, system maintenance, support, reporting and hosting of data) 
+
+| 
+
+(a) Identity
+
+(b) Contact
+
+(c) Technical
+
+| 
+
+(a) Necessary for our legitimate interests (for running our business, provision of administration and IT services, network security, to prevent fraud and in the context of a business reorganisation or group restructuring exercise)
+
+(b) Necessary to comply with a legal obligation  
+  
+To deliver relevant website content and advertisements to you and measure or understand the effectiveness of the advertising we serve to you
+
+| 
+
+(a) Identity 
+
+(b) Contact 
+
+(c) Profile 
+
+(d) Usage 
+
+(e) Marketing and Communications 
+
+(f) Technical 
+
+| 
+
+Necessary for our legitimate interests (to study how customers use our products/services, to develop them, to grow our business and to inform our marketing strategy)  
+  
+To use data analytics to improve our website, products/services, marketing, events, customer relationships and experiences
+
+| 
+
+(a) Technical
+
+| 
+
+Necessary for our legitimate interests (to define types of customers for our products and services, to keep our website updated and relevant, to develop our business and to inform our marketing strategy)  
+  
   
 
 
-#### Contacting the FSB
+2\. If, in the future, we would like to process your personal data for a purpose other than that which it was collected for, we’ll provide you with information about that and request your consent before doing so.
 
-Questions about our Privacy Statement can be addressed to the "Data Protection Controller" at the above address.
+## Marketing 
 
-  
-
-
-#### What we do
-
-The FSB exists to serve the interests of its Members and our core objectives are set out in our Memorandum and Articles of Association.FSB (Member Services) Ltd contracts with Service Providers, FSB Publications produces the FSB's journal, First Voice, and also acts as reseller or selected merchandise and FSB Recruitment provided Recruitment services. NFSE Sales Limited also acts as a reseller of selected merchandise and products.
-
-  
+We strive to provide you with choices regarding certain personal data uses, particularly around marketing and advertising.  
 
 
-#### The Data Protection Act 1998
+### Promotional offers from us
 
-The Data Protection Act 1998 regulates the processing of personal data. Organisations like the FSB process personal data on a daily basis. The Act requires us to give information about our data processing activities and how we deal with the information that we hold.
+We may use your Identity, Contact, Technical, Usage and Profile Data to form a view on what we think you may want or need, or what may be of interest to you. This is how we decide which products, services and offers may be relevant for you (we call this marketing).
 
-Personal data are defined as any information relating to a living individual from which he or she can be identified (such as a person's name, address or date of birth).
-
-The personal data that we collect consists mainly of Members' names, addresses and contact details and any other information necessary for us to be of service to our Members, including the necessary financial information required to maintain subscriptions and provide the facilities that our Members require.
-
-  
+You will receive marketing communications from us if you have requested information from us or have given your specific and informed consent to receiving that marketing.  
 
 
-#### Data processing
+### Opting out                                                                                                             
 
-Personal information is held on our database, in back-up form and in archive form. Hard copies of information on our database are occasionally made where necessary to provide our services. Photocopies may occasionally be made of manual records.
+You can ask us or third parties to stop sending you marketing messages at any time by logging into the website and adjusting your marketing preferences.
 
-Access to our database is restricted through the use of passwords. Records may be retrieved, consulted, adapted, modified, copied or deleted from time to time. We will endeavour to take all reasonable steps to keep all data accurate and up to date but we rely upon our Members to inform us of any material changes
+Where you opt out of receiving these marketing messages, this will not apply to personal data provided to us other than in accordance with this privacy notice.
 
-Membership data is shared between FSB Regions and the subsidiary companies and only with third parties and professional advisers where it is necessary to do so for the purpose of the provision of our services and the good administration of the FSB.
+### Cookies
 
-Information may be disclosed to approved third parties for marketing purposes. If you would prefer not to receive marketing information please contact us.
+You can set your browser to refuse all or some browser cookies, or to alert you when websites set or access cookies. If you disable or refuse cookies, please note that some parts of this website may become inaccessible or not function properly. For more information about the cookies we use, please see our [cookie policy](https://www.fsb.org.uk/about-us/company-information/cookie-policy) ].
 
-We will maintain confidentiality in your information even after your Membership has ceased and aside from the categories already mentioned your information will not be disclosed to anyone else except where we are legally compelled to do so, where there is a duty to the public to disclose, where disclosure is necessary to protect the FSB's interests or where the disclosure is made with your consent or at your request.
+## What we do NOT do with your personal data
 
-Information we may collect from you
+FSB will not provide your personal data, received in accordance with the terms of this privacy notice, to third parties (other than those specified within this privacy notice) without your explicit and informed prior consent.
 
-We may collect and process the following data about you:
+## International Transfers
 
-Information that you provide in order to purchase any other services via this Site Information you provide in order to enter a competition or promotion via this Site, complete a survey, or if you report a problem with this Site.
-
-Details of your visits to this Site (including, but not limited to, traffic data and location data) whether this is required for our own purposes or otherwise, and the resources that you access.
-
-If you contact us, we may keep a record of your email or other correspondence IP addresses
-
-We may collect information about your computer including, where available, your IP address, operating system and browser type, for system administration and to report aggregate information to our advertisers. This is statistical data about our users' browsing actions and patterns, and does not identify any individual.
-
-  
+At this time, none of our external third parties are based outside the EEA. In the event that we engage an external third party which is based outside the EEA, their processing of your personal data would involve a transfer of data outside the EEA and will be dealt with in accordance with the section below.  
 
 
-#### Access Rights
-
-On payment of a statutory fee of 10 pounds, you have the right to be informed of the information that we hold on you within 40 days. You also have the right to request that all inaccuracies be amended. All enquiries should be addressed to the "Data Protection Controller" at our Blackpool address.
-
-  
+Whenever we transfer your personal data out of the EEA, we ensure a similar degree of protection is afforded to it by ensuring at least one of the following safeguards is implemented:  
 
 
-#### Cookies
-
-Cookies are small text files that are placed on your computer by websites that you visit. They are widely used to make websites work, or work more efficiently, as well as to provide information to the owners of the site.
-
-The FSB requires cookies in order to operate fully. We also work with advertisers who place cookies on your computer to serve and target adverts more effectively when you visit the site.
-
-Most web browsers allow some control of cookies through browser settings. To find out more about cookies, including how to see what cookies have been set and how to manage and delete them, visit [www.allaboutcookies.org](http://www.allaboutcookies.org/).
-
-Further information about the cookies used by the FSB is provided below.
-
-Cookies used by the Federation of Small Businesses:
-
-The following cookie categories are based on the classification presented in the International Chambers of Commerce (ICC) Cookie Guide.
-
-Category 1: Strictly necessary cookies. These cookies are essential to allow us to provide services that you have requested.
-
-Category 1 cookies used by the FSB:
-
-  * Login status - To identify you as being logged in to our website.
+  * We will only transfer your personal data to countries or organisations which have been deemed to provide an adequate level of protection for personal data by the European Commission.
+  * Where we use certain service providers, we may use specific contracts approved by the European Commission which give personal data the same protection it has in Europe.
 
 
 
-Category 2: Performance cookies. These cookies collect information about how visitors use our website, for instance which pages visitors go to most often. The information collected by these cookies is aggregated, so these cookies don't collect information that identifies individual visitors. The information collected is anonymous and is only used to improve the way our website works.
-
-Category 2 cookies used by the FSB:
-
-  * Web analytics - Web analytics cookies are used to improve the design and user experience of our website by providing statistics on site usage and pages visited.
-  * Embedded videos - Most videos on the FSB are hosted by YouTube. These sites use cookies to collect video statistics and improve site experience.
+Please contact us if you want further information on the specific mechanism used by us when transferring your personal data out of the EEA.  
 
 
+## Data security
 
-Category 3: Functionality cookies. These cookies allow us to remember choices you make (such as your user name, language or the region you are in) and provide enhanced, more relevant features.
+We have put in place appropriate security measures to prevent your personal data from being accidentally lost, used or accessed in an unauthorised way, altered or disclosed. In addition, we limit access to your personal data to those employees, agents, contractors and other third parties who have a business need to know. They will only process your personal data on our instructions and they are subject to a duty of confidentiality.
 
-Category 3 cookies used by the FSB:
-
-  * Login information - Login cookies may be used to communicate your login details across pages of this website. These data are encrypted and not shared with third parties.
-  * User profile data - Email addresses, address and contact information. These are not shared with third parties.
+We have put in place procedures to deal with any suspected personal data breach and will notify you and any applicable regulator of a breach where we are legally required to do so.  
 
 
+## Data retention
 
-The legislation in place as of 25th of May 2012 makes opt-in for non-essential cookies a requirement but the government has already backed off on issuing fines for now. Join the discussion on the [cookie directive](http://forum.fsb.org.uk/showthread.php?903-Important-EU-Rules-on-COOKIES).
+### How long will we use your personal data for?
+
+We will only retain your personal data for as long as reasonably necessary to fulfil the purposes we collected it for, including for the purposes of satisfying any legal, regulatory, tax, accounting or reporting requirements. We may retain your personal data for a longer period in the event of a complaint or if we reasonably believe there is a prospect of litigation in respect to our relationship with you.
+
+To determine the appropriate retention period for personal data, we consider the amount, nature and sensitivity of the personal data, the potential risk of harm from unauthorised use or disclosure of your personal data, the purposes for which we process your personal data and whether we can achieve those purposes through other means, and the applicable legal, regulatory, tax, accounting or other requirements.  
+
+
+By law we have to keep basic information about our members (including Contact, Identity, Financial and Transaction Data) for six years after they cease being members for tax purposes.  
+
+
+In some circumstances you can ask us to delete your data: see _your legal rights_ below for further information.  
+
+
+In some circumstances we will anonymise your personal data (so that it can no longer be associated with you) for research or statistical purposes, in which case we may use this information indefinitely without further notice to you.  
+
+
+## Your Rights
+
+Under the data protection legislation you have a number of rights with regard to your personal data. You have the right to:
+
+**Request access** to your personal data (commonly known as a "data subject access request"). This enables you to receive a copy of the personal data we hold about you and to check that we are lawfully processing it.  
+
+
+**Request correction** of the personal data that we hold about you. This enables you to have any incomplete or inaccurate data we hold about you corrected, though we may need to verify the accuracy of the new data you provide to us.  
+
+
+**Request erasure** of your personal data. This enables you to ask us to delete or remove personal data where there is no good reason for us continuing to process it. You also have the right to ask us to delete or remove your personal data where you have successfully exercised your right to object to processing (see below), where we may have processed your information unlawfully or where we are required to erase your personal data to comply with local law. Note, however, that we may not always be able to comply with your request of erasure for specific legal reasons which will be notified to you, if applicable, at the time of your request.  
+
+
+**Object to processing** of your personal data where we are relying on a legitimate interest (or those of a third party) and there is something about your particular situation which makes you want to object to processing on this ground as you feel it impacts on your fundamental rights and freedoms. You also have the right to object where we are processing your personal data for direct marketing purposes. In some cases, we may demonstrate that we have compelling legitimate grounds to process your information which override your rights and freedoms.  
+
+
+**Request restriction of processing** of your personal data. This enables you to ask us to suspend the processing of your personal data in the following scenarios:  
+
+
+  * If you want us to establish the data's accuracy.
+  * Where our use of the data is unlawful but you do not want us to erase it.
+  * Where you need us to hold the data even if we no longer require it as you need it to establish, exercise or defend legal claims. 
+  * You have objected to our use of your data but we need to verify whether we have overriding legitimate grounds to use it. 
+
+
+
+**Request the transfer** of your personal data to you or to a third party. We will provide to you, or a third party you have chosen, your personal data in a structured, commonly used, machine-readable format. Note that this right only applies to automated information which you initially provided consent for us to use or where we used the information to perform a contract with you.  
+
+
+**Withdraw consent at any time** where we are relying on consent to process your personal data. However, this will not affect the lawfulness of any processing carried out before you withdraw your consent. If you withdraw your consent, we may not be able to provide certain products or services to you. We will advise you if this is the case at the time you withdraw your consent.  
+
+
+## Identity and contact details of controller and data compliance advisor
+
+The National Federation of Self Employed and Small Businesses Limited is the controller of data for the purposes of the data protection legislation.
+
+If you have any concerns as to how your data is processed, or if you have any questions about this privacy policy or our privacy practices more generally, you can contact our data compliance managers at [data.controller@fsb.org.uk](mailto:data.controller@fsb.org.uk), or you can write to us at:  
+
+
+FAO Data Compliance Manager  
+National Federation of Self Employed and Small Businesses Limited  
+Sir Frank Whittle Way  
+Blackpool FY4 2FE  
+
