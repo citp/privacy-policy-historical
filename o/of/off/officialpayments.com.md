@@ -1,120 +1,167 @@
-> *The following text is extracted and transformed from the officialpayments.com privacy policy that was archived on 2015-09-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150919191252id_/https%3A//www.officialpayments.com/gb_le_priv.jsp%3Bjsessionid%3D8Pg1BdOkQgdovXWCBt4-0JwC.worker05) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the officialpayments.com privacy policy that was archived on 2019-03-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190326091517id_/https%3A//www.officialpayments.com/gb_le_priv.jsp) for the most accurate reproduction.*
 
 # Official Payments - Pay Taxes, Utility Bills, Tuition & More Online
 
-  
+## Official Payments Privacy Statement
+
+**Last Modified: January 15, 2019**
+
+Official Payments ("OPAY," "we," or "us") is committed to protecting your privacy and to gaining and maintaining your trust by following a core set of principles:
+
+  * **Transparency:** We provide clear notice of privacy practices through this Privacy Statement so that you can make informed decisions about data collection and use. 
+  * **Choice:** If you choose to share personal information with us, OPAY will identify the options you have for controlling the use of this information. You are also given the opportunity to opt out of receiving certain communications from or on behalf of us. 
+  * **Access:** OPAY allows you to update or delete personal information that you have provided through our products and services. 
+  * **Security:** We will protect the data you entrust to us through strong security and encryption. 
+  * **Accountability:** OPAY responds to user inquiries, participates in industry programs, and has adopted privacy practices that are consistent with applicable country, state, and local laws and regulations. 
 
 
-Official Payments Corporation is a wholly-owned subsidiary of ACI Worldwide Corp. Please click [click here](http://www.aciworldwide.com/privacy-policy.aspx) to review the Privacy Policy. 
 
-Official Payments has been awarded TRUSTe's Privacy Seal signifying that this privacy policy and practices have been reviewed by TRUSTe for compliance with [TRUSTe's program requirements](http://www.truste.com/privacy-program-requirements/) including transparency, accountability and choice regarding the collection and use of your personal information. TRUSTe's mission, as an independent third party is to accelerate online trust among consumers and organizations globally through its leading privacy trustmark and innovative trust solutions. 
+## Privacy Statement
 
-[](https://privacy.truste.com/privacy-seal/Official-Payments-Corporation/validation?rid=9d073dc4-d1c2-403d-9efd-4d1df817137a "TRUSTe online privacy certification")
+Your privacy is important to us. Please read this Privacy Statement carefully to understand what information OPAY collects from and about you, through our interactions with you and your use of our website, [www.officialpayments.com](http://www.officialpayments.com/) (the "Site"), products, or services, and how we use and disclose that information. It also describes your choices regarding use, access, correction, and deletion of your personal information.
 
-The TRUSTe program covers only information that is collected through this Web site, for [www.officialpayments.com](https://www.officialpayments.com/) and for [www.officialpayments.com/fed](https://www.officialpayments.com/fed) which have been in effect since March 1, 2001 (and which was last updated on October 14, 2014). If you have questions or complaints regarding our privacy policy or practices, please contact us at [mbox-aci-privacy-officer@aciworldwide.com](mailto:mbox-aci-privacy-officer@aciworldwide.com). If you are not satisfied with our response you can contact [TRUSTe here](https://feedback-form.truste.com/watchdog/request). 
+### 1\. User Acceptance of Privacy Statement
 
-**Our Commitment to Privacy**
+By using the Site, you accept and consent to the terms and conditions of this Privacy Statement, as may be updated from time to time, as well as the Terms of Use, which are incorporated herein. If you do not agree to this Privacy Statement, we ask that you do not use the Site.
 
-Your privacy is important to us. To better protect your privacy we provide this notice explaining our online information practices and the choices you can make about the way your information is collected and used. Please read this Privacy Policy carefully to understand what we do and your choices. 
+### 2\. Information Collection
 
-In order to provide the services and to reduce the risk of fraud, Official Payments Corporation ("Official Payments" or "we" or "us") must ask you for information about yourself and any payment you make on this site, http://www.officialpayments.com. This Privacy Policy describes the personal information we collect from you, and how we use that information. Official Payments takes the privacy of your personal information very seriously. We will use your personal information only in accordance with the terms of this Privacy Policy. We will not sell or rent your personally identifiable information or a list of our customers to third parties. However, there are limited circumstances in which some of your information will be shared with third parties under strict restrictions, so it is important for you to review the details of this Privacy Policy. This Privacy Policy applies to all services that are offered through the Official Payments web site and to personal information that we maintain about current and former customers. 
+**Information You Provide:** In general, you can visit the Site without providing personal information. However, OPAY collects the following personal information from you when you choose to provide it. Please note that, if you decline to provide the requested information, you may not be able to take full advantages of the Site and its features, make a payment, or otherwise use OPAY's products and services.
 
-Your access to and use of our web site are subject to this Privacy Policy and any other terms of use or policies posted by us. All references to "Official Payments" throughout this policy statement include, unless otherwise stated, Official Payments Corporation, its successors and assigns. If you have questions or concerns regarding this Privacy Policy, you should contact us at [privacy@OfficialPayments.com](mailto:privacy@officialpayments.com). 
+  * Registration, Account Access, and Payments: When you register, access your account information, or make a payment online, we must collect certain information about you to create the account or to facilitate your transaction. The types of information we may collect from you depend on the product or service you have with us, and may include:
+    * Your name, mailing address, billing address, email address, and phone number
+    * Your bill payment (including payment amount and designated payee)
+    * Your credit or debit card or bank account numbers, expiration date, and cardholder or account holder name 
+    * Social Security Number (SSN) and/or employer identification number (EIN) 
+    * User name, your account number associated with the bill that you are paying, and any applicable credentials 
+Except as otherwise provided below under the "Information Use" section, when you supply information about yourself for a specific purpose, we use that information only for the specified purpose and to fulfill our regulatory or legal obligations or manage the security and internal operations of the Site. 
+  * Online Surveys: At times, we may conduct online surveys to better understand your needs, to provide you with enhanced services, and to help you use the services and Site more effectively. If you participate in a survey, we will request certain information, such as your name, email address, and ZIP code. Participation is completely voluntary. 
+  * Testimonials: We also display testimonials of satisfied customers and other endorsements on our Site. With your consent, we may post your testimonial along with your name. If you wish to update or delete your testimonial, you can contact us at [mbox-aci-privacy-officer@aciworldwide.com](mailto:mbox-aci-privacy-officer@aciworldwide.com). 
+  * Social Media: If you link to your Facebook or other social media account through the Site, we may receive certain information about you based on your registration and privacy settings on those third-party services. This information may include, but may not be limited to, your name, demographic information, updated address or contact information, location, interests, and account and other online activity. 
 
-**What Types of Information Does Official Payments Collect and Use?**
 
-In general, you can visit our website without telling us who you are or revealing any personal information about yourself. However, some portions of our website may be accessible only to users who have registered with us (and who may be asked to provide certain information as part of the registration or login process). When you register or access your account information or make a payment on-line, we must collect information about you in order to facilitate the processing of your payment transaction. Since certain information is required if you choose to register or make a payment transaction using this site you agree to provide accurate and complete information when providing personal information. The types of personal information we collect and share depend on the product or service you have with us. This information may include the following information collected from you and from your transactions with us: 
 
-  * Your name, mailing address, city, state, zip code, email address, phone number,
-  * your bill payment (including payment amount and designated payee),
-  * your credit or debit card or bank account numbers, expiration date and cardholder name,
-  * Social Security Number (SSN), and/or employer identification number.
+**Information Automatically Collected:** When you use and interact with the Site, OPAY uses various technologies to collect information about you automatically. For example, we may automatically collect browser type, device type, operating system, the unique device identifier of any of your computer(s) or device(s) that are used to access the Site, software version, Internet Protocol ("IP") address, geolocation, phone model, phone operating system, and the domain name from which you accessed the Site. We also may collect information about your use of the Site, including the date and time you visit the Site, the areas or pages of the Site that you visit, the amount of time you spend viewing or using the Site, the number of times you return to the Site, other click-stream or site usage data, emails that you open, forward, or click-through to our Site, and other sites that you may visit. 
 
-Personal information does not include aggregate information about our customers in which your identity cannot be determined. 
+We may use the following technologies to collect this information:
 
-At times we may ask you for contact information or conduct on-line surveys in order to better understand your needs, to provide you with enhanced services, and help you use the services more effectively. If we wish to use this information other than as set forth in this Policy, we will let you know at the time of collection. When you access your account information, make a payment on-line, or send us e-mail, we may ask you to provide us with personal information. Except as otherwise provided below under the heading "How do we use your information?", when you supply information about yourself for a specific purpose, we use the information only for that purpose and to manage the internal operations and security of our web site. 
+  * Cookies: OPAY uses cookies and similar technologies for several purposes, depending on the product, including:
+    * Storing Your Preferences and Settings. We use cookies to save preferences, such as language, browser, and multimedia player settings, so you do not have to set them each time you return to the Site. 
+    * Sign-in and Authentication. When you sign into the Site, we store a unique ID number and sign-in time in an encrypted cookie on your device. This cookie allows you to move from page to page within the Site without having to sign in again. 
+    * Security. We use cookies to detect fraud and abuse of our Site and services.
+    * Social Media. The Site may include features provided by social media companies, such as the Facebook "Like" and "Share" buttons. These features may collect your IP address and the page(s) you visit on the Site. In addition, they may set a cookie to enable the features to function properly. 
+    * Analytics. To provide our products and services and to improve your user experience on our Site, we use cookies and other identifiers, including cookies and other identifiers from third-party analytics providers, to gather usage and performance data. For example, we use cookies to count the number of unique visitors to a web page and to develop other statistics about the operations of our products and services. 
+    * Performance. OPAY uses cookies for load balancing to ensure that the Site remains up and running. 
+  * Log Files: We may automatically gather, or engage a third party to gather, certain data about our Site's traffic and store it in log files. For this purpose, we use IP addresses to analyze trends, execute the Site, track our users' activities, and gather broad demographic information for aggregate use. We may combine this automatically collected log information with other information that we collect about you. We do this to improve the services we offer you, marketing, analytics, or Site functionality. 
+  * Local Storage: We use Local Storage, such as HTML5, to store content information and preferences on your device. Third parties with whom we partner to provide certain features on our Site or to display advertising based on your browsing activity also use HTML5 to collect and store information about you. Various browsers may offer their own management tools for removing HTML5. 
 
-**How do we use your information?**
 
-**Internal Uses**
 
-We use the information we collect about you for everyday internal business purposes in order to provide our services, process your transactions, maintain your account(s), and provide customer service. We provide access to personal information about our customers only to those employees who require it as part of their job in order to provide our services, process customer payments and provide customer service. We collect, store and process your personal information on servers located in the United States. 
+**Information Collected from Other Sources:** We may acquire information from other trusted sources to update or supplement the information that you provide or that we collect automatically (such as information to validate or update your address or other demographic and lifestyle information). We may use this information to help us maintain the accuracy of the information that we collect, to target our communications so that we can inform you of products, services, or other offers that may be of interest to you, and for internal business analysis or other business purposes. 
 
-If you have registered with our service and indicated you wish to receive communications from us, we may use your personal information for the purposes of marketing products and services from Official Payments or those of our partners. 
+**Combination of Information:** We may combine the information that we receive from and about you, including information you provide to us and information that we automatically collect through our Site, as well as information collected offline, across other computers or devices that you may use, and from third party sources. 
 
-**Disclosure to Third Parties**
+### 3\. Information Use
 
-Official Payments shares certain personal information of customers to run our everyday business. Official Payments does not sell or rent any of your personal information. Official Payments will not share any of your personally identifiable information with third parties except in the circumstances described below or with your permission. 
+OPAY may use the information collected from and about you in the following ways:
 
-  * We share personal information with certain third parties such as banks, processors, card networks, and other suppliers and vendors in order to provide the services and to help us process the transactions you request.
-  * We disclose personally identifiable information with third parties that we in good faith believe is appropriate to cooperate in investigations of suspected fraud or other illegal activity, situations involving potential threats to the physical safety of any person, or to conduct investigations of violations of Official Payments Terms of Use, or as otherwise required by law.
-  * Certain federal, state and local laws or government regulations may require us to disclose non-public personal information about you to respond to court orders or legal investigations. In these circumstances, we will use reasonable efforts to disclose only the information required by law, subpoena, legal process, or court order to be disclosed.
-  * We disclose information to your agent or legal representative (such as the holder of a power of attorney that you grant, or a guardian appointed for you).
-  * We share aggregated statistical or demographic data with our business partners or for public relations and marketing purposes. For example, we may disclose the percentage of our customers who make payments with a credit card versus a checking account. However, this aggregated information is not tied to any personally identifiable information that can identify you.
-  * As with any other business, it is possible that in the future Official Payments could merge with or be acquired by another company. If such an acquisition occurs, the successor company would have access to personal information maintained by Official Payments, including customer account information, but would continue to be bound by this Privacy Policy unless and until it is amended. You will be notified via email or prominent notice on our Web site for 30 days of any such change in ownership or control of your personal information.
-  * We make disclosures to other nonaffiliated third parties as permitted by federal or state law. Official Payments may also disclose personal information to financial service providers with which it has joint marketing agreements, which are formal agreements between unaffiliated third parties that together market products or services to you.
-  * If you have registered with our service and indicated you wish to receive communications from us, Official Payments may contract with third parties for the purposes of marketing products and services of Official Payments or those of our partners. Official Payments will require such third parties to maintain confidentiality of your personal information.
+  * To process transactions and otherwise provide you with our products and services; 
+  * To maintain your account and allow you to register and create and access that account; 
+  * To enhance your Site experience, including by recognizing you and your Site preferences and settings; 
+  * To provide you with customized Site content, targeted offers, and advertising on the Site or on other sites; 
+  * To contact you with information and other materials from us or on behalf of our partners and affiliates; 
+  * To respond to your inquiries and contact and communicate with you when necessary; 
+  * To review the usage and operations of our Site, develop new products or services, and conduct analysis to enhance or improve our content, product, and services; 
+  * To use your data in an aggregated, non-specific format for analytical and demographic purposes; 
+  * To address problems with the Site or our business and to protect the security or integrity of the Site or our business; and 
+  * As otherwise described to you at the point of collection or with your consent. 
 
-When you provide personal information to us, we may continue to store and maintain that information unless you direct us otherwise. If you wish us to cease storing your personal information, you may request that we do so by contacting customer service at [customerservice@OfficialPayments.com](mailto:customerservice@OfficialPayments.com) or via telephone at 1-888-357-8394. 
 
-**Changes to Personally Identifiable Information**
 
-If your registration information changes, you may make changes to your profile on this web site. If you have submitted incorrect personal information through our Web sites and would like to revise this information, you may make appropriate revisions within the respective My Account sections of our sites (if you previously registered on our sites) or by e-mailing us at [customerservice@OfficialPayments.com](mailto:customerservice@OfficialPayments.com). We will retain your information for as long as your account is active or as needed to provide you services. If you wish to cancel your account or request that we no longer use your information to provide you services contact us at [customerservice@OfficialPayments.com](mailto:customerservice@OfficialPayments.com). We will retain and use your information for as long as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements. 
+### 4\. Information Disclosure
 
-**Cookies**
+OPAY may disclose the information collected from and about you in a number of ways. OPAY does not sell or rent any of your personal information and will not share any of your personal information with third parties except in the circumstances described below, as otherwise described to you at the point of collection, or with your permission.
 
-Our site may make use of cookies (or a similar technology) to better manage our web site and to assist us in providing you with tailored information and services, maintain user preferences, and create a richer user experience. Our site may also make use of cookies (or a similar technology) to display highly relevant messages (such as advertisements displaying an upcoming tax payment due date) to people who've visited our site as they browse Internet Search Engine sites and their affiliate sites that display advertisements. A cookie is a tiny element of data that is sent to your browser when you visit our website. When you visit the web site again, the cookie allows that web site to recognize your browser in order to allow us to better serve you as you navigate through our site or when you return. You may set your browser to notify you or decline the receipt of a cookie; however, certain features of our sites may not function properly or be available if your browser is configured to disable cookies. 
+  * Service Providers: We may share your information with our business partners, service vendors, suppliers, or other authorized third-party contractors who provide services on our behalf. We will only provide these third parties with the minimum amount of information necessary to complete the requested service and will require that these third parties keep your information confidential and use it only for the limited purpose of completing the requested service. 
+  * Legal Matters and Safety: We may disclose your information to cooperate in investigations of suspected fraud or other illegal activity, including situations involving potential threats to the physical safety of any person; to conduct investigations of violations of OPAY's Terms of Use, any other legal document or contract related to our services, or the rights of any third party; when we are obliged or permitted by law to do so, such as in response to a court order, subpoena, judicial process, or government request or investigation; or when we suspect fraudulent or criminal activities. 
+  * Aggregate Non-Personal Information: We share de-identified non-personal, statistical or demographic data with our business partners or for public relations and marketing purposes. For example, we may reveal the percentage of our customers who make payments with a credit card versus a checking account. 
+  * Merger or Acquisition: We reserve the right share your information in the event that OPAY merges with or is acquired by another company. Should such a merger or acquisition occur, we will notify you via a prominent notice on our Site, and use reasonable efforts to try to require that the other company use personal information provided through this Site in a manner that is consistent with this Privacy Statement. 
+  * Select Third Parties: OPAY may disclose personal information to select partners, affiliates, and third parties (e.g., financial service providers) with which it has joint marketing agreements and that we believe may have offers of interest to you. 
 
-**Log Files**
 
-Like many Web sites, we may automatically gather, or engage a third party to gather, certain information about our Site traffic and store it in log files. For this purpose, we use Internet Protocol (IP) addresses to analyze trends, administer the Web sites, track our users' movements and gather broad demographic information for aggregate use. IP addresses are not linked to personally identifiable information. 
 
-**3 rd Party Cookies and Clear Gifs (Web Beacons/Web Bugs)**
+### 5\. Your Choices and Opt Outs
 
-Our partners use session ID cookies to aid in navigation of our website. 
+**Tracking Options and California Do Not Track Disclosures:** You may adjust your browser or operating system settings to limit tracking or to decline cookies, but by doing so, you may not be able to use certain features on the Site or take full advantage of all of our offerings. Check the "Help" menu of your browser or operating system to learn how to change your tracking settings or cookie preferences. On your mobile device, you can adjust your privacy and advertising settings to limit tracking for advertising or control whether you receive more relevant advertising. 
 
-Our third party tracking utility company and service providers employ a software technology called clear gifs (a.k.a. Web Beacons/Web Bugs), that help us better manage content on our site by informing us what content is effective. Clear gifs are tiny graphics with a unique identifier, similar in function to cookies, and are used to track the online movements of Web users. In contrast to cookies, which are stored on a user's computer hard drive, clear gifs are embedded invisibly on Web pages and are about the size of the period at the end of this sentence. We do not tie the information gathered by clear gifs to our customers' personally identifiable information. 
+Please note that our systems may not recognize Do Not Track headers or requests from some or all browsers. To learn more about the use of cookies or other technologies to deliver more relevant advertising and your choices with respect to the collection and use of data by these third-party tools, please click [here](http://www.networkadvertising.org/choices/). 
 
-**Preferences and Opting-Out**
+You can also opt out of data collection or use by some third-party analytics providers by clicking the following links: 
 
-You may inform Official Payments as to some of your preferences concerning the use of your information by "opting-out" of the following practices by emailing [customerservice@OfficialPayments.com](mailto:customerservice@OfficialPayments.com) or calling 1-888-357-8394: 
+  * AppsFlyer: [www.appsflyer.com/optout](http://www.appsflyer.com/optout)
+  * Mixpanel: [mixpanel.com/optout](http://mixpanel.com/optout)
+  * Visible Measures: [www.visiblemeasures.com/viewer-settings-opt-out](http://www.visiblemeasures.com/viewer-settings-opt-out)
+  * WebTrends: [ondemand.webtrends.com/support/optout.asp](http://ondemand.webtrends.com/support/optout.asp)
 
-  * If you permitted Official Payments to contract with third parties for the purpose of marketing products or services to you, and no longer wish to permit Official Payments to do so, you can "opt-out" of our ability to share your information with third parties for marketing purposes.
-  * If you requested that Official Payments inform you of upcoming payment obligations, notify you of a scheduled or successfully completed AutoPayment or inform you of new or additional services offered by us from which you may benefit, but no longer wish to receive this information, you can "opt-out" from receiving this information.
-  * If you received commercial email from Official Payment, and do not wish to receive any unsolicited commercial emails in the future, you can "opt-out" from receiving commercial email from Official Payments.
 
-Official Payments does not disclose private e-mail communications that are transmitted using Official Payments services except as described in this policy and as required to provide requested services or to reply to your e-mail. In the ordinary course of our business, we may use the contact information you provide us to confirm a payment transaction and/or to alert you regarding any difficulty we may experience in attempting to process your payment. With your permission, we may also contact you to remind you of an upcoming payment obligation (e.g., a quarterly tax payment which is due), notify you of a scheduled or successfully completed AutoPayment or to inform you of new or additional services offered by us from which you may benefit. Users who have registered with our service in the My Account section of our Web sites may opt-in to receive information about new or additional services or other notifications or information from Official Payments or our partners. Users may also contact Official Payments as noted above in the "Opt-Out" section if you no longer wish to receive such information or other notifications. 
 
-**Children**
+**Your Rights with Respect to Your Personal Information:** If you'd like, you may: 
 
-Official Payments recognizes the importance of children's safety and privacy on the Internet. For this reason and to comply with certain laws, we do not intentionally collect personal, individually identifiable information from children under the age of 13, nor do we offer content targeted to children under 13. 
+  * Request access to and the correction of personal information collected from and about you on the Site. You may also update the personal information associated with your profile by visiting your account. 
+  * Cancel your account or request that we no longer use your information to provide you with any services. 
+  * Erase or, in some instances, object to the processing of your personal information. 
 
-**Security**
 
-The security of your information is important to us. We take commercially reasonable precautions to protect the personal information submitted to us. However, no method of transmission over the Internet or method of electronic storage is 100% secure. Therefore, while we strive to use commercially reasonable means to protect your personal information, we cannot guarantee its absolute security. When doing business with others, such as advertisers to whom you can link from our site, you should consider the separate security and privacy policies of those other sites. When you enter sensitive information (such as a credit card number), we encrypt the transmission of that information using secure socket layer technology (SSL). 
 
-In the event that your sensitive personal information is accessed by an unauthorized individual and the misuse of your information is reasonably possible, we will notify you of the unauthorized access unless a law enforcement agency believes that such notification may interfere with a criminal investigation. Notification of such an event may be given to you by e-mail, writing, or phone at our sole discretion. 
+To exercise these rights, please contact our Chief Privacy Officer, at [mbox-aci-privacy-officer@aciworldwide.com](mailto:mbox-aci-privacy-officer@aciworldwide.com). Please do not send us your personal information, other than your name and email address, via email. We will respond to your request to access within a reasonable timeframe. 
 
-If you have any questions about security on our website, please contact ACI's Chief Security Office / VP Global Information Security at 6060 Coventry Drive, Elkhorn, NE 68022 or via email at [mbox-aci-security-officer@aciworldwide.com](mailto:mbox-aci-security-officer@aciworldwide.com). 
+We will retain your information for as long as your account is active or as needed to provide you with services. In addition, we will maintain and use your information for as long as necessary to comply with our legal obligations, resolve disputes, and administer our agreements. 
 
-**Social Media Features and Widgets**
+**Opting Out:** We provide consumers with the ability to opt out of receiving certain communications from OPAY: 
 
-Our Web site includes Social Media Features and Widgets ("Features"©), such as the Facebook Like and Share buttons or interactive mini-programs. These Features may collect your IP address and the page(s) you visit on our site, and may set a cookie to enable the Feature to function properly. The Features are either hosted by a third party or hosted directly on our Site. Your interactions with these Features are governed by the privacy policy of the company providing it. 
+  * Marketing Communications: By default, if you are a U.S. resident and provide us with your email address, we will send you emails about new or additional services from which you may benefit. In addition, if available in your area, you may opt in to receive autodialed marketing SMS text messages from OPAY. Message frequency depends on information such as your geographic location, and message and data rates may apply. Receiving autodialed SMS text messages is not a condition of purchasing a product or service. To opt out of marketing communications from OPAY, you may email us at [mbox-aci-privacy-officer@aciworldwide.com](mailto:mbox-aci-privacy-officer@aciworldwide.com). You may also opt out of receiving marketing emails from OPAY by clicking the "Unsubscribe" link found at the bottom of the email. You may also opt out of receiving marketing SMS text messages by replying STOP. We will send you a single message confirming your opt-out. 
+  * Transaction- or Account-Related Communications: As a default, we may contact you via email or SMS text message to confirm or remind you of an upcoming payment (e.g., a quarterly tax payment) or to notify you of a scheduled or successfully completed Auto Payment. To opt out of these communications, you may email us at [mbox-aci-privacy-officer@aciworldwide.com](mailto:mbox-aci-privacy-officer@aciworldwide.com). You may also opt out of receiving these SMS text messages by replying STOP. We will send you a single text message to confirm your cancellation. 
 
-**Links to Other Sites**
 
-For the convenience of our visitors and customers, this website may contain links to other sites. While we generally try to link only to sites that share similar high standards and respect for privacy, we are not responsible for the content, products or services offered or the privacy and security practices employed by these other sites. We encourage you to be aware when you leave our site and to read the privacy statements of each and every website that collects personally identifiable information. In addition, the entities operating these third-party sites may use cookies. However, we have no access to or control over these cookies. This Privacy Policy applies only to information collected by this website. 
 
-**Revisions to Privacy Policy**
+### 6\. Information Sharing with Unaffiliated Third Parties
 
-We reserve the right to change or supplement this Privacy Policy at any time. If we make any substantial changes in this privacy policy (including with respect to how we use customer identifiable information) we will notify you by posting a prominent announcement on our Web site thirty (30) days prior to implementing the change (to the extent commercially possible). 
+If you provided OPAY with permission to share your personal information with unaffiliated third parties for their marketing purposes, you may opt out of such disclosure by contacting us at [mbox-aci-privacy-officer@aciworldwide.com](mailto:mbox-aci-privacy-officer@aciworldwide.com). 
 
-**User Acceptance of Privacy Policy**
+### 7\. Data Storage and Privacy Shield
 
-By using our web site, you accept the terms and conditions of this Privacy Policy, and you agree to review this Privacy Policy from time to time to stay informed of changes that may occur. If you do not agree to this policy, please do not use our sites. Official Payments encourages you to periodically review the Privacy Policy for changes. Your continued use of the Official Payments Web sites following the posting of changes to these terms will mean that you accept those changes. 
+Your personal information will be transferred to, stored and processed on servers in, and subject to the laws of the United States, where data protection and other laws may differ from those of your country of residence. To help ensure we respect your data privacy rights and protect the transfer of your personal information to the United States, where it will be processed and stored, we comply with the EU-U.S. Privacy Shield Framework and Swiss-U.S. Privacy Shield Framework, as set forth by the U.S. Department of Commerce, We also require that our third-party service providers comply with the Privacy Shield or another mechanism permitted under applicable EU and Swiss data protection law(s) for the transfer and processing of personal information. To learn more about the Privacy Shield program, and to view our certification page, please visit [https://www.privacyshield.gov](https://www.privacyshield.gov/). In certain situations, OPAY may be required to disclose your personal information in response to lawful inquiries or requests by public authorities, including to meet national security or law enforcement requirements and to respond to judicial process, in countries in which we operate. 
 
-**Contact Us**
+The U.S. Federal Trade Commission has jurisdiction over OPAY's compliance with the Privacy Shield. If you have any questions or concerns, please contact us at [mbox-aci-privacy-officer@aciworldwide.com](mailto:mbox-aci-privacy-officer@aciworldwide.com). If you have an unresolved concern after contacting us directly, please contact our U.S.-based third-party dispute resolution provider (free of charge) at <https://feedback-form.truste.com/watchdog/request>. Under certain conditions, more fully described here, you may be entitled to invoke binding arbitration when other dispute resolution procedures have been exhausted. 
 
-If you have any questions regarding our privacy policy, contact our customer service department via e-mail at [customerservice@officialpayments.com](mailto:customerservice@OfficialPayments.com) or via telephone at 1-888-357-8394. 
+### 8\. Children
 
-Privacy Policy Dated October 14, 2014 
+OPAY recognizes the importance of children's safety and privacy on the Internet. For this reason, we do not intentionally collect personal information from children under the age of 13, nor do we offer content targeted to children under 13. 
+
+### 9\. Security
+
+The security of your information is very important to us. We take commercially reasonable precautions consistent with applicable regulatory requirements and applicable published security standards, including encryption as outlined in the Payment Card Industry Data Security Standard (PCI DSS), to protect the personal information submitted to us. However, no method of transmission over the Internet or method of electronic storage is 100% secure. As a result, we cannot guarantee absolute security.
+
+### 10\. Links to Other Sites
+
+The Site may contain links to other third-party sites, which may have privacy policies that differ from our own. Please note that we are not responsible for the practices of these third-party sites, and they are not covered by this Privacy Statement. We encourage you to be aware when you leave our Site and to review the privacy policies of these sites. 
+
+### 11\. Revisions to Privacy Statement
+
+We may amend this Privacy Statement from time-to-time, and at any time. If we make updates, we will revise the "Last Modified" date posted at the top of this Privacy Statement. Any updates to the Privacy Statement become effective when we post the updates to our Site. If we make any material changes, we will notify you by email or by a notice on this Site prior to the change becoming effective. OPAY encourages you to periodically review the Privacy Statement for changes. Your continued use of the Site following the posting of changes will mean that you accept those changes. 
+
+### 12\. Other Important Information
+
+**California residents:** In accordance with California law, we will not share information we collect about you with companies outside of OPAY except as required or permitted by law. For example, we may share information to service your accounts, complete requested transactions, or to provide rewards or benefits to which you are entitled. 
+
+**Texas residents:** If you have a complaint, first contact OPAY at 1-800-487-4567 or email at [mbox-aci-privacy-officer@aciworldwide.com](mailto:mbox-aci-privacy-officer@aciworldwide.com). If you still have an unresolved complaint, please direct your complaint to the Texas Department of Banking: 2601 North Lamar Boulevard, Austin, TX 78705-4294; 1-877-276-5554 (toll free); <http://www.dob.texas.gov/>
+
+**Vermont residents:** In accordance with Vermont law, we will not share information we collect about you with companies outside of OPAY except as required or permitted by law. For example, we may share information to service your accounts, complete requested transactions, or to provide rewards or benefits to which you are entitled. 
+
+### 13\. Contact Us
+
+If you have any questions or comments related to this Privacy Statement, please contact our Chief Privacy Officer, via email at [mbox-aci-privacy-officer@aciworldwide.com](mailto:mbox-aci-privacy-officer@aciworldwide.com) or:  
+ACI Worldwide - Official Payments   
+Attention: Chief Privacy Officer, Risk Management   
+3520 Kraft Road, Suite 300   
+Naples, FL 34105
