@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gensler.com privacy policy that was archived on 2018-10-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181019105614id_/https%3A//www.gensler.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gensler.com privacy policy that was archived on 2019-03-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190326224931id_/https%3A//www.gensler.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Gensler
 
@@ -59,7 +59,7 @@ Please note that our Site may contain links to third parties’ websites whose p
 
 **Cookies**
 
-Cookies are small text files that store website data on your computer. They are widely used in order to make websites work more efficiently, as well as to help collect data. A cookie makes your next visit to the website easier if you are using the same PC, laptop, tablet or mobile phone and the same internet browser. To find out more about cookies, including how to see what cookies have been set, visit [www.aboutcookies.org](http://www.aboutcookies.org/) or [www.allaboutcookies.org](https://web.archive.org/web/20181019105614id_/https%3A//www.gensler.com/www.allaboutcookies.org).
+Cookies are small text files that store website data on your computer. They are widely used in order to make websites work more efficiently, as well as to help collect data. A cookie makes your next visit to the website easier if you are using the same PC, laptop, tablet or mobile phone and the same internet browser. To find out more about cookies, including how to see what cookies have been set, visit [www.aboutcookies.org](http://www.aboutcookies.org/) or [www.allaboutcookies.org](https://web.archive.org/web/20190326224931id_/https%3A//www.gensler.com/www.allaboutcookies.org).
 
 The table below explains the cookies we use and why:
 
@@ -114,6 +114,10 @@ We transfer personal data from the European Economic Area (“EEA”) to other c
 
 
 Further, certain countries may grant you specific rights to access, correct, delete, or object to the processing of, or transfer your personal data. To make a specific request, please contact [info@gensler.com](mailto:info@gensler.com). You must be able to provide your name and email address or other information sufficient information to allow us to identify you. Once identified, we will respond to your request as appropriate. We will follow internal procedures when these requests are made to protect the integrity of the data we hold.
+
+**Additional Statement for Wisp Users**
+
+Wisp is owned and operated by Gensler Information Solutions, Inc., a wholly owned subsidiary of Gensler. M. Arthur Gensler Jr. & Associates, Inc. is the group’s parent company, with its head office located at 45 Fremont Street, Suite 1500, San Francisco, CA 94105 USA. Wholly owned subsidiaries, affiliates and branches operate throughout the world including the UK branch offices of Gensler Europe Ltd. (Company Number: 09456712; Address: Building 5 Thomas More Square, London, E1W 1YW). Gensler Europe Ltd. is the designated local representative of Gensler Information Solutions, Inc.
 
 **Changes to this privacy statement**
 
