@@ -1,59 +1,183 @@
-> *The following text is extracted and transformed from the 50gameslike.com privacy policy that was archived on 2017-01-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170121182038id_/https%3A//www.50gameslike.com/privacy-cookies) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 50gameslike.com privacy policy that was archived on 2019-03-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190326153701id_/https%3A//www.50gameslike.com/privacy-cookies) for the most accurate reproduction.*
 
 # Privacy Policy and Cookies | 50 Games Like
 
-This Privacy Policy is designed to tell you about the practices regarding collection, use, and disclosure of information that may be collected by 50 Games Like and the Group Companies (which mean the Joint Users of Personal Information as defined in Section 4(1) and together with 50 Games Like, hereinafter referred to as “50GamesLike”). Please be sure to read this entire Privacy Policy and the Terms and Conditions of Use (the “Terms”), available here, before using or submitting information to the websites owned or operated by 50GamesLike (collectively, the “Sites”)*. 
+Privacy policy
 
-**1\. Consent**  
-By using the Sites, you agree to the Terms of this Privacy Policy. Whenever you submit information via the Sites, you consent to the collection, use, and disclosure of that information in accordance with this Privacy Policy. 
+1.    Introduction
 
-**2\. Information Collected**
+1.1    We are committed to safeguarding the privacy of our website visitors and service users.
 
-Information Collected Automatically  
-50GamesLike also automatically collects your IP address and referring website address, browser type, domain name and website access frequency. This information is intended to help facilitate your online experience on the Sites. 50GamesLike uses cookies to track usage patterns on the Sites and to control the display of ads, as well as to offer other functionalities (such as screening for age and “recognizing” you to speed up your log-in when you visit the Sites). You can turn off cookies, but that will affect your online experience. See below for more detail on cookies.
+1.2    This policy applies where we are acting as a data controller with respect to the personal data of our website visitors and service users; in other words, where we determine the purposes and means of the processing of that personal data.
 
-**3\. Purposes of Use of Collected Information**  
-50GamesLike uses information other than Personal Information you provide for the purpose of fulfillment of your requests and improvement of the Sites and materials contained thereon and for any other purposes which we deem reasonable and necessary. 50GamesLike may, from time to time, produce reports for advertisers, sponsors, Group Companies and vendors containing anonymous, aggregate information about our users and customers, such as demographic, age and online usage information. This information allows 50GamesLike to provide content and offers that are most relevant to our users to work more closely with advertisers. We do not include any Personal Information of our users in these reports.
+1.3    We use cookies on our website. Insofar as those cookies are not strictly necessary for the provision of our website and services, we will ask you to consent to our use of cookies when you first visit our website.
 
-**4\. Sharing of Collected Information**
+1.4    In this policy, "we", "us" and "our" refer to (50GamesLike.com). For more information about us, see Section 13.
 
-Sharing of Information Not Containing Personal Information  
-50GamesLike shares anonymous, aggregate demographic information, and anonymous information obtained from cookies and similar technologies, with each of our distributors, our sponsors, promotional and business partners, and participating vendors. No Personal Information, such as credit card information, is disclosed to any of these third parties in sharing such anonymous information. 
+2.    Credit
 
-**5\. Disclosure to Third Parties**  
-50GamesLike will not disclose your Personal Information to any third parties without your consent; provided, however, that 50GamesLike reserves the right to use or disclose to a third party any information without a customer’s consent in the following circumstances: (i) if it is requested by any laws and regulations; (ii) If 50GamesLike deems it necessary for protection and security of human life, body or assets (including the Sites); (iii) if 50GamesLike deems it particularly necessary for improvement of public health or enrichment of children’s welfare; (iv) if 50GamesLike deems it particularly necessary for cooperation with a governmental body or other public organization or its designee in discharging its duties pursuant to the laws and regulations (including investigating breach of laws), or otherwise deems it particularly necessary for the public interest; (v) if 50GamesLike outsources the handling of personal information to the extent necessary for its business operation.
+2.1    This document was created using a template from Docular ([https://docular.net](https://docular.net/)).
 
-**6\. Cookies**  
-Your web browser offers so-called “cookies” which, if you allow their use, store small amounts of data on your computer when you visit a website. Cookies do not contain any Personal Information about you and therefore cannot be used to identify you personally. However, cookies assist us in tracking which of our features you like best. Therefore, cookies enable us to customize our content according to your preferences. You have the ability to accept or decline cookies by modifying your browser settings. Our Sites are viewable even if you disable the cookie function on your browser. However, if you disable cookies, some advanced and customized features will not be available to you. 
+3.    How we use your personal data
 
-**7\. Web Beacons**  
-Some of our web pages may contain electronic images known as web beacons, which are also called “single-pixel gifs”. These images allow us to count users who have visited those pages and to deliver co-branded services. We may also include web beacons in promotional e-mail messages or newsletters in order to count how many messages have been opened and acted upon. Web beacons are not used to access your Personal Information but they are a technique we use to compile aggregated statistics about usage on the Sites. Web beacons collect only a limited range of information including the time and date of page view, cookie number and description of the page on which the web beacon resides. 
+3.1    In this Section 3 we have set out:
 
-**8\. Security of Personal Information**  
-We use Secure Sockets Layer (SSL) technology to encrypt important information, such as your credit card data, in an effort to prevent unauthorized access during transmission of your orders over the Internet. We implement standard industry practices internally and with our service providers to maintain the security of your Personal Information depending on its sensitivity and to avoid disclosure of such Personal Information unpermitted under this Privacy Policy. 
+(a)    the general categories of personal data that we may process;
 
-Although we have implemented systems and procedures to secure the data maintained by us, security during Internet transmissions can never be assured. 50GamesLike employees are made aware of our privacy practices through periodic communications and training. Our policy is to limit access to Personal Information to those 50GamesLike employees or agents with a specific need to access or retrieve the information. We store data on multiple service systems, in controlled environments. To maintain security, we conduct internal reviews of our security measures on a regular basis. Please note, however, that any Personal Information you post in chat rooms or message boards is available to anyone. WHILE 50GamesLike HAS TAKEN COMMERCIALLY REASONABLE PRECAUTIONS TO SAFEGUARD PERSONAL INFORMATION, 50GamesLike CANNOT AND DOES NOT GUARANTEE COMPLETE SECURITY OF PERSONAL INFORMATION BECAUSE COMPLETE SECURITY DOES NOT PRESENTLY EXIST ON THE INTERNET.
+(b)    in the case of personal data that we did not obtain directly from you, the source and specific categories of that data;
 
-Where we have given you (or where you have chosen) a password which enables you to access certain parts of our site, you are responsible for keeping this password confidential. We ask you not to share a password with anyone.
+(c)    the purposes for which we may process personal data; and
 
-**9\. Transfer of personal Information**  
-The data that we collect from you may be transferred to, and stored at, a destination outside the European Economic Area ("EEA"). It may also be processed by staff operating outside the EEA who work for 50GamesLike or for one of our suppliers. Such staff maybe engaged in, among other things, the fulfilment of your order, the processing of your payment details and the provision of support services. By submitting your personal data, you agree to this transfer, storing or processing. 50GamesLike will take all steps reasonably necessary to ensure that your data is treated securely and in accordance with this privacy policy.
+(d)    the legal bases of the processing.
 
-**10\. Third Party Advertising**  
-Advertisements appearing on our Sites may be delivered to users by us or one of our advertising partners. Our advertising partners may set cookies. These cookies allow the ad server to recognize your computer each time they send you an online advertisement. In this way, ad servers may compile information about where you, or others who are using your computer, saw their advertisements and determine which ads are clicked on. This information allows an ad network to deliver targeted advertisements that they believe will be of most interest to you. This Privacy Policy covers the use of cookies by 50GamesLike only, and does not cover the use of cookies by any advertisers.
+3.2    We may process data about your use of our website and services ("usage data"). The usage data may include your IP address, geographical location, browser type and version, operating system, referral source, length of visit, page views and website navigation paths, as well as information about the timing, frequency and pattern of your service use. The source of the usage data is our analytics tracking system. This usage data may be processed for the purposes of analysing the use of the website and services. The legal basis for this processing is consent or our legitimate interests, namely monitoring and improving our website and services.
 
-**11\. Children**  
-We will not knowingly collect Personal Information via the Sites from visitors younger than thirteen (13) years of age. We encourage parents to talk to their children about their use of the Internet and the information they disclose on websites. 
+3.3    We may process your personal data that is provided in the course of the use of our services ("service data"). The service data may include the timing, frequency and pattern of service use. The source of the service data is you. The service data may be processed for the purposes of operating our website, providing our services, ensuring the security of our website and services, maintaining back-ups of our databases and communicating with you. The legal basis for this processing is our legitimate interests, namely the proper administration of our website and business.
 
-**12\. Changes in Corporate Structure**  
-In developing our business, we may engage in the sale or transfer of certain assets and the company itself, or parts of it, may be sold, merged or otherwise assigned. In such transactions and changes in ownership, user information, whether personally identifiable or otherwise, may constitute one of the transferred assets. If required by law, we will notify affected users of such transfer or assignment in accordance with the procedure for changing this Privacy Policy described below.
+3.4    We may process information that you post for publication on our website or through our services ("publication data"). The publication data may be processed for the purposes of enabling such publication and administering our website and services. The legal basis for this processing is our legitimate interests, namely the proper administration of our website and business.
 
-  
-**13\. Changes to our Privacy Policy**  
-We will occasionally update this Privacy Policy as necessary to protect our users and to accommodate a changing environment. The changes to our Privacy Policy will be deemed to be effective from the date of posting on our Sites unless we specify otherwise. We recommend that you check the Privacy Policy when you visit our Sites to be sure that you are aware of and understand our current policy. If we make material changes to this Privacy Policy, we will make efforts to prominently post such changes prior to implementing the change. We will not make any retroactive material changes in how we handle previously collected Personal Information unless you allow us to do so, or unless we are legally required to do so, and in such a case we will make efforts to inform registered visitors of information on material changes to this Privacy Policy via email. 
+3.5    We may process information that you provide to us for the purpose of subscribing to our email notifications and/or newsletters ("notification data"). The notification data may be processed for the purposes of sending you the relevant notifications and/or newsletters. The legal basis for this processing is the performance of a contract between you and us and/or taking steps, at your request, to enter into such a contract.
 
-Contact Information for Questions or Complaints  
-Please contact us if you have any questions, comments or complaints regarding this Privacy Policy, our privacy practices or our treatment of your Personal Information.   
-Please refer to contact information of 50GamesLike and the respective Group Companies posted on our Sites.
+3.6    We may process information contained in or relating to any communication that you send to us ("correspondence data"). The correspondence data may include the communication content and metadata associated with the communication. Our website will generate the metadata associated with communications made using the website contact forms. The correspondence data may be processed for the purposes of communicating with you and record-keeping. The legal basis for this processing is our legitimate interests, namely the proper administration of our website and business and communications with users.
 
-This Privacy Policy was last updated on 01 January2017.
+3.7    In addition to the specific purposes for which we may process your personal data set out in this Section 3, we may also process any of your personal data where such processing is necessary for compliance with a legal obligation to which we are subject, or in order to protect your vital interests or the vital interests of another natural person.
+
+3.8    Please do not supply any other person's personal data to us, unless we prompt you to do so.
+
+4.    Providing your personal data to others
+
+4.1    We may disclose your personal data to any member of our group of companies (this means our subsidiaries, our ultimate holding company and all its subsidiaries) insofar as reasonably necessary for the purposes, and on the legal bases, set out in this policy.
+
+4.2    We may disclose your personal data to our insurers and/or professional advisers insofar as reasonably necessary for the purposes of obtaining or maintaining insurance coverage, managing risks, obtaining professional advice, or the establishment, exercise or defence of legal claims, whether in court proceedings or in an administrative or out-of-court procedure.
+
+4.3    We may disclose email addresses to our suppliers or subcontractors insofar as reasonably necessary for sending you our email newsletter, if you have requested it (you can inform us at any time if you no longer require the newsletter).
+
+4.4    We may disclose your enquiry data to one or more of those selected third party suppliers of goods and services identified on our website for the purpose of enabling them to contact you so that they can offer, market and sell to you relevant goods and/or services. Each such third party will act as a data controller or data processor in relation to the enquiry data that we supply to it; and upon contacting you, each such third party will supply to you a copy of its own privacy policy, which will govern that third party's use of your personal data.
+
+4.5    In addition to the specific disclosures of personal data set out in this Section 4, we may disclose your personal data where such disclosure is necessary for compliance with a legal obligation to which we are subject, or in order to protect your vital interests or the vital interests of another natural person. We may also disclose your personal data where such disclosure is necessary for the establishment, exercise or defence of legal claims, whether in court proceedings or in an administrative or out-of-court procedure.
+
+5.    International transfers of your personal data
+
+5.1    In this Section 5, we provide information about the circumstances in which your personal data may be transferred to countries outside the European Economic Area (EEA).
+
+5.2    The hosting facilities for our website are situated in US and Europe. The European Commission has made an "adequacy decision" with respect to the data protection laws of each of these countries. Transfers to each of these countries will be protected by appropriate safeguards, namely EU-U.S. Privacy Shield Framework.
+
+5.3    You acknowledge that personal data that you submit for publication through our website or services may be available, via the internet, around the world. We cannot prevent the use (or misuse) of such personal data by others.
+
+6.    Retaining and deleting personal data
+
+6.1    This Section 6 sets out our data retention policies and procedure, which are designed to help ensure that we comply with our legal obligations in relation to the retention and deletion of personal data.
+
+6.2    Personal data that we process for any purpose or purposes shall not be kept for longer than is necessary for that purpose or those purposes.
+
+6.3    We will retain and delete your personal data as follows:
+
+(a)    Cookie data will be retained for no longer than 30 days.
+
+6.4    Notwithstanding the other provisions of this Section 6, we may retain your personal data where such retention is necessary for compliance with a legal obligation to which we are subject, or in order to protect your vital interests or the vital interests of another natural person.
+
+7.    Amendments
+
+7.1    We may update this policy from time to time by publishing a new version on our website.
+
+7.2    You should check this page occasionally to ensure you are happy with any changes to this policy.
+
+7.3    We may notify you of changes to this policy by email or through the private messaging system on our website.
+
+8.    Your rights
+
+8.1    In this Section 8, we have summarised the rights that you have under data protection law. Some of the rights are complex, and not all of the details have been included in our summaries. Accordingly, you should read the relevant laws and guidance from the regulatory authorities for a full explanation of these rights.
+
+8.2    Your principal rights under data protection law are:
+
+(a)    the right to access;
+
+(b)    the right to rectification;
+
+(c)    the right to erasure;
+
+(d)    the right to restrict processing;
+
+(e)    the right to object to processing;
+
+(f)    the right to data portability;
+
+(g)    the right to complain to a supervisory authority; and
+
+(h)    the right to withdraw consent.
+
+8.3    You have the right to confirmation as to whether or not we process your personal data and, where we do, access to the personal data, together with certain additional information. That additional information includes details of the purposes of the processing, the categories of personal data concerned and the recipients of the personal data. Providing the rights and freedoms of others are not affected, we will supply to you a copy of your personal data. The first copy will be provided free of charge, but additional copies may be subject to a reasonable fee. Provision of such information will be subject to: 
+
+(a)    the first copy will be provided free of charge, but additional copies will be subjected to a CAD 15 administration fee; and
+
+(b)    the supply of appropriate evidence of your identity (for this purpose, we will usually accept a photocopy of your passport certified by a solicitor or bank plus an original copy of a utility bill showing your current address).
+
+8.4    You have the right to have any inaccurate personal data about you rectified and, taking into account the purposes of the processing, to have any incomplete personal data about you completed.
+
+8.5    In some circumstances you have the right to the erasure of your personal data without undue delay. Those circumstances include: the personal data are no longer necessary in relation to the purposes for which they were collected or otherwise processed; you withdraw consent to consent-based processing; you object to the processing under certain rules of applicable data protection law; the processing is for direct marketing purposes; and the personal data have been unlawfully processed. However, there are exclusions of the right to erasure. The general exclusions include where processing is necessary: for exercising the right of freedom of expression and information; for compliance with a legal obligation; or for the establishment, exercise or defence of legal claims.
+
+8.6    In some circumstances you have the right to restrict the processing of your personal data. Those circumstances are: you contest the accuracy of the personal data; processing is unlawful but you oppose erasure; we no longer need the personal data for the purposes of our processing, but you require personal data for the establishment, exercise or defence of legal claims; and you have objected to processing, pending the verification of that objection. Where processing has been restricted on this basis, we may continue to store your personal data. However, we will only otherwise process it: with your consent; for the establishment, exercise or defence of legal claims; for the protection of the rights of another natural or legal person; or for reasons of important public interest.
+
+8.7    You have the right to object to our processing of your personal data on grounds relating to your particular situation, but only to the extent that the legal basis for the processing is that the processing is necessary for: the performance of a task carried out in the public interest or in the exercise of any official authority vested in us; or the purposes of the legitimate interests pursued by us or by a third party. If you make such an objection, we will cease to process the personal information unless we can demonstrate compelling legitimate grounds for the processing which override your interests, rights and freedoms, or the processing is for the establishment, exercise or defence of legal claims.
+
+8.8    You have the right to object to our processing of your personal data for direct marketing purposes (including profiling for direct marketing purposes). If you make such an objection, we will cease to process your personal data for this purpose.
+
+8.9    If you consider that our processing of your personal information infringes data protection laws, you have a legal right to lodge a complaint with a supervisory authority responsible for data protection. You may do so in the EU member state of your habitual residence, your place of work or the place of the alleged infringement.
+
+8.10    To the extent that the legal basis for our processing of your personal information is consent, you have the right to withdraw that consent at any time. Withdrawal will not affect the lawfulness of processing before the withdrawal.
+
+8.11    You may exercise any of your rights in relation to your personal data by contacting us using the details outlined in section 13.
+
+9.    About cookies
+
+9.1    A cookie is a file containing an identifier (a string of letters and numbers) that is sent by a web server to a web browser and is stored by the browser. The identifier is then sent back to the server each time the browser requests a page from the server.
+
+9.2    Cookies may be either "persistent" cookies or "session" cookies: a persistent cookie will be stored by a web browser and will remain valid until its set expiry date, unless deleted by the user before the expiry date; a session cookie, on the other hand, will expire at the end of the user session, when the web browser is closed.
+
+9.3    Cookies do not typically contain any information that personally identifies a user, but personal information that we store about you may be linked to the information stored in and obtained from cookies.
+
+10.    Cookies that we use
+
+10.1    We use cookies for the following purposes:
+
+(a)    authentication - we use cookies to identify you when you visit our website and as you navigate our website;
+
+(b)    status - we use cookies to help us to determine if you are logged into our website;
+
+(c)    security - we use cookies as an element of the security measures used to protect user accounts, including preventing fraudulent use of login credentials, and to protect our website and services generally; 
+
+(d)    advertising - we use cookies to help us to display advertisements that will be relevant to you (cookies used for this purpose are: Google AdSense, Google AdExchange, Avocet, PulsePoint, Teads, Skimlinks, Monetizer 101);
+
+(e)    analysis - we use cookies to help us to analyse the use and performance of our website and services (cookies used for this purpose are: Google Analytics, ComScore, Google Tag Manager, Crazy Egg, Facebook Audience, Google Analytics Audience); 
+
+(f)    cookie consent - we use cookies to store your preferences in relation to the use of cookies more generally. 
+
+11.    Cookies used by our service providers
+
+11.1    Our service providers use cookies and those cookies may be stored on your computer when you visit our website.
+
+11.2    We use Google Analytics to analyse the use of our website. Google Analytics gathers information about website use by means of cookies. The information gathered relating to our website is used to create reports about the use of our website. Google's privacy policy is available at: <https://www.google.com/policies/privacy/>. 
+
+11.3 We publish Google AdSense interest-based advertisements on our website. These are tailored by Google to reflect your interests. To determine your interests, Google will track your behaviour on our website and on other websites across the web using cookies. You can view, delete or add interest categories associated with your browser by visiting: [https://adssettings.google.com](https://adssettings.google.com/). You can also opt out of the AdSense partner network cookie using those settings or using the Network Advertising Initiative's multi-cookie opt-out mechanism at: [http://optout.networkadvertising.org](http://optout.networkadvertising.org/). However, these opt-out mechanisms themselves use cookies, and if you clear the cookies from your browser your opt-out will not be maintained. To ensure that an opt-out is maintained in respect of a particular browser, you may wish to consider using the Google browser plug-ins available at: <https://support.google.com/ads/answer/7395996>.
+
+11.4    We use Avocet, OpenX, PulsePoint, Sovrn and Google Audiences to carry out retargeting and Header Bidding. These service uses cookies for retargeting ads and targeting ads based on your interests. You can view the privacy policy of these service providers at [http://avocet.io/privacy-policy](http://avocet.io/privacy-policy), [https://www.openx.com/legal/privacy-policy/](https://www.openx.com/legal/privacy-policy/), [https://www.pulsepoint.com/privacy-policy.html](https://www.pulsepoint.com/privacy-policy.html), [https://www.sovrn.com/privacy-policy/](https://www.sovrn.com/privacy-policy/) and [https://www.google.com/policies/privacy/](https://www.google.com/policies/privacy/)
+
+12.    Managing cookies
+
+12.1 Most browsers allow you to refuse to accept cookies and to delete cookies. The methods for doing so vary from browser to browser, and from version to version. You can however obtain up-to-date information about blocking and deleting cookies via these links:
+
+12.2    Blocking all cookies will have a negative impact upon the usability of many websites.
+
+12.3    If you block cookies, you will not be able to use all the features on our website.
+
+13.    Our details
+
+13.1    This website is owned and operated by 9320-3248 Québec inc.
+
+13.2    We are registered in Canada under registration number 1170846357, and our registered office is at 2259 rue de la visitation, Montréal, Canada.
+
+13.3    Our principal place of business is at 2259 rue de la visitation, Montréal, Canada
+
+13.4    You can contact us:
+
+(a)    by email, using this email address [contact@50gameslike.com](mailto:contact@50gameslike.com)
