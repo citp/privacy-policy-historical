@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the buzzsprout.com privacy policy that was archived on 2018-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180623105649id_/https%3A//www.buzzsprout.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the buzzsprout.com privacy policy that was archived on 2019-03-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190326180854id_/https%3A//www.buzzsprout.com/privacy) for the most accurate reproduction.*
 
 # Buzzsprout Privacy Policy
 
