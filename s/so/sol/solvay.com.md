@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the solvay.com privacy policy that was archived on 2018-08-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180827105339id_/https%3A//www.solvay.com/en/privacy-and-cookie-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the solvay.com privacy policy that was archived on 2019-03-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190326143412id_/https%3A//www.solvay.com/en/privacy-and-cookie-policy) for the most accurate reproduction.*
 
 # Privacy and cookie policy | Solvay
 
@@ -33,25 +33,25 @@ When interacting with our Websites, data is automatically collected and shared w
 
 We use the personal data we collect from you in the following ways:
 
-#### To provide the features of the Websites you request 
+### To provide the features of the Websites you request 
 
 When you use our Websites, we will use your data to provide the product or service you have selected. For example, if you make a query on Solvay.com, we will use the contact information you give us to communicate with you about your query. This processing of your personal data will be based on your consent to receive our communications, or on the basis of it being necessary in order to take steps at your request prior to and when entering into a contract with you, as the case may be. 
 
 In many cases, to use particular features within our Websites, you may need to provide Solvay with additional data or additional consent to use particular data in a certain way. We will be unable to provide these features if you do not allow us to process your personal data.
 
-#### To communicate information about our products, services, events and for other promotional purposes
+### To communicate information about our products, services, events and for other promotional purposes
 
 When you create a Solvay user account, we may use the information you provide as well as information from other Solvay sources, such as your use of Solvay’s Websites, your visits, and your participation in Solvay events (possibly through other Solvay affiliates) to send you personalized communications on products and services that may be interesting for you. This processing of your personal data will be based on your consent to the use of cookies for personalization purposes, and your consent to receiving our communications.
 
-#### To operate, improve and maintain our business, products and services
+### To operate, improve and maintain our business, products and services
 
 We may use the data you provide to us to operate our business. For example, when you renew an order, we may use that information for accounting, auditing and other internal functions. As another example, when you apply for a position at Solvay, we may use data for human resources statistics. This processing of your personal data is performed on the basis of our legitimate interest to operate and improve our business, products and services.
 
-#### For general research and analysis purposes
+### For general research and analysis purposes
 
 We use data about how our visitors use our Websites and Services to understand customer behavior or preferences. For example, we may use information about how visitors to Solvay.com search for and find products to better understand the best ways to organize and present product offerings. This processing of your personal data will be based on your consent to the use of analytics cookies, as well as on our legitimate interest in analyzing the use of our website where non-cookie technology is used.
 
-#### Other purposes
+### Other purposes
 
 We may also use your personal data in other ways and will provide specific notice at the time of collection and obtain your consent where necessary.
 
