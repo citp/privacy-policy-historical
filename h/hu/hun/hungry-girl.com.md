@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hungry-girl.com privacy policy that was archived on 2018-11-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181109114907id_/http%3A//hungry-girl.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hungry-girl.com privacy policy that was archived on 2019-03-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190326224550id_/http%3A//www.hungry-girl.com/privacy-policy) for the most accurate reproduction.*
 
 # Hungry Girl
 
@@ -27,6 +27,9 @@ Hungry Girl may create links allowing you to access third party sites. Hungry Gi
 
 **Security**  
 All information described above is stored on restricted database servers.
+
+**The Hungry Girl Diet App**  
+The Hungry Girl Diet App does not collect or share any user information.
 
 **Modification to this Policy**  
 Hungry Girl may change this policy, but we'll post any changes here. Check back to read them.
