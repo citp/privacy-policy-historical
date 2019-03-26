@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jlmcouture.com privacy policy that was archived on 2018-08-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180817052229id_/https%3A//www.jlmcouture.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jlmcouture.com privacy policy that was archived on 2019-03-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190326203104id_/https%3A//www.jlmcouture.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | JLM Couture
 
