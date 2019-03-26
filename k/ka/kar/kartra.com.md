@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the kartra.com privacy policy that was archived on 2018-09-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180904115734id_/https%3A//app.kartra.com/redirect_to/%3Fasset%3Dpage%26id%3D4tBIE0FV8JYf) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kartra.com privacy policy that was archived on 2019-03-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190326025801id_/https%3A//home.kartra.com/privacypolicy) for the most accurate reproduction.*
 
-# Kartra - Privacy Shield Policy -- Privacy Policy
+# Kartra - Privacy Policy
 
 This Privacy Shield Policy (“Privacy Policy) applies to the websites related to EverWebinar, WebinarJam, and Kartra provided by Genesis Digital, LLC and its affiliated companies (“Genesis Digital” or “We”), including but not limited to the sites at everwebinar.com, webinarjam.com, and kartra.com, as well as to any software, services, and/or products offered on such website (hereafter the “Sites”).
 
-Genesis Digital values privacy – ours and yours. To help maintain your privacy and the security of your personal information, we communicate this and all of our privacy policies to Genesis Digital employees and agents, and we internally enforce privacy safeguards. We are also self-certified as Privacy Shield compliant (as detailed below) – a further indication of our commitment to the privacy for all of our customers around the globe.
+Genesis Digital values privacy – ours and yours. To help maintain your privacy and the security of your personal information, we communicate this and all of our privacy policies to Genesis Digital employees and agents, and we internally enforce privacy safeguards. 
 
 We’ve developed this Privacy Policy to explain how we collect, use, disclose, transfer, and store information received from you in connection with the Sites. Before disclosing information to us, please familiarize yourself with our privacy practices so you can understand how your information may be used by Genesis Digital.
 
@@ -129,9 +129,7 @@ The Sites, software, products, services, and communications may contain links to
 
 ### **International Users: US Safe Harbor**
 
-Information you provide may be transferred or accessed by entities around the world as described in this Privacy Policy. Genesis Digital complies with the US-EU Privacy Shield Framework and Swiss-US Privacy Shield Framework as set forth by the US Department of Commerce regarding the collection, use, retention, and trans-Atlantic transmission of of personal information from customers in the European Union member countries and Switzerland. We are firmly committed to the principles of the Privacy Shield program including Notice, Choice, Accountability, Security, Data Integrity, Access, as well as Recourse, Enforcement, and Liability. All personal data received from the EU or Switzerland will be subject to treatment according to the Privacy Shield principles, which are detailed through this Policy. You can find details and learn more about the Privacy Shield Program at the official website at [https://www.privacyshield.gov/](https://www.privacyshield.gov/)
-
-As part of our compliance with the Privacy Shield program, Genesis Digital has self-certified its compliance and worked to ensure this Policy informs you of the rights you have with respect to your personal information that we have collected.
+Information you provide may be transferred or accessed by entities around the world as described in this Privacy Policy. 
 
 In certain circumstances, you may have recourse if Genesis Digital fails to comply with the requirement or provisions set forth in this policy. Such recourse is available to you at no charge. As a first step we will always sincerely endeavor to thoroughly investigate and expeditiously resolve any concerns or complaints you may have. You can contact our privacy compliance staff at the following addresses (email and regular mail):
 
@@ -142,11 +140,9 @@ c/o Genesis Digital, LLC 
 7660 Fay Ave #H184  
 La Jolla, CA 92037  
 
-Before seeking further recourse regarding any concerns or complaints regarding your collected data, you should try to have us resolve it for you informally. This should be faster and easier for all involved. If you are not satisfied with the resolution we propose informally, you have the right to pursue further recourse via the independent recourse mechanism that we have made available to investigate unresolved complaints in accordance with the Privacy Shield requirements.
+Before seeking further recourse regarding any concerns or complaints regarding your collected data, you should try to have us resolve it for you informally. This should be faster and easier for all involved. If you are not satisfied with the resolution we propose informally, you have the right to pursue further recourse via the independent recourse mechanism that we have made available to investigate unresolved complaints.
 
 Genesis Digital has provided, at no charge to you, the option for you to seek recourse through an independent third party alternative dispute resolution provider, who will arbitrate any unresolved disputes that we cannot work out together. Genesis Digital has named JAMS ADR as its independent recourse mechanism and is committed to submit any remaining unresolved disputes to JAMS ADR for resolution according to their rules. You may learn more about JAMS or ADR at [https://www.jamsadr.com/eu-us-privacy-shield](https://www.jamsadr.com/eu-us-privacy-shield). To file a claim you can use this link: [https://www.jamsadr.com/file-an-eu-us-privacy-shield-or-safe-harbor-claim](https://www.jamsadr.com/file-an-eu-us-privacy-shield-or-safe-harbor-claim).
-
-Note: If you are reading this notice, this information here is still applicable and the recourse described above is still available to you. If at any time we stop participating in the Privacy Shield program we will remove all reference to Privacy Shield.
 
 **Changes to this Privacy Policy and Privacy Questions**
 
@@ -158,7 +154,7 @@ We will also archive prior versions of this Privacy Policy and make those versio
 
 **LAST UPDATED: LAST UPDATED: Rev. 2.3.2**
 
-This Policy was created March 2016 and last updated May 15, 2018. .
+This Policy was created March 2016 and last updated February 19, 2019
 
 ### **Notice of Compliance to California Residents – Your California Privacy Rights Under The California Online Privacy Protection Act and the**
 
