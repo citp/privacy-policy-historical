@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the pythonprogramming.net privacy policy that was archived on 2018-10-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181007154006id_/https%3A//pythonprogramming.net/about/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pythonprogramming.net privacy policy that was archived on 2019-03-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190327005355id_/https%3A//pythonprogramming.net/about/privacy-policy) for the most accurate reproduction.*
 
 # Python Programming Tutorials
 
-Last updated: May 25th 2018
+Last updated: March 1st 2018
 
-### GDPR updates as of May 25th 2018:
+### GDPR
 
 #### Personal data collected, and why!
 
@@ -17,6 +17,8 @@ Last updated: May 25th 2018
 
 
 I also use Google Adsense and Google Analytics, which collects various data on you too. Via Google Analytics, I have opted for the lowest user and event data retention available on their platform, which is 14 months. More info on data retention: https://support.google.com/analytics/answer/7667196?authuser=0.
+
+Also, via google analytics, IPs are anonymized.
 
 #### How long your data is retained:
 
