@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the armystudyguide.com privacy policy that was archived on 2018-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181125062001id_/https%3A//www.armystudyguide.com/content/admin_section/privacy-policy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the armystudyguide.com privacy policy that was archived on 2019-03-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190327001005id_/https%3A//www.armystudyguide.com/content/admin_section/privacy-policy.shtml) for the most accurate reproduction.*
 
 # Privacy Policy - Army Education Benefits Blog
 
