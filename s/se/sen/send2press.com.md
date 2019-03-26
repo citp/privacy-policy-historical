@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the send2press.com privacy policy that was archived on 2018-09-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180908201843id_/https%3A//www.send2press.com/about/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the send2press.com privacy policy that was archived on 2019-03-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190326190838id_/https%3A//www.send2press.com/about/privacy.shtml) for the most accurate reproduction.*
 
 # Privacy Statement for Send2Press Newswire, a service of Neotrope
 
@@ -6,7 +6,7 @@ The following privacy statement applies to all Neotrope® online properties, and
 
 Neotrope® and Send2Press® (Send2Press.com) have created this privacy statement to explain our commitment to your privacy. We seek to protect your private information so that you have an enjoyable shopping and viewing experience on our Web site. We will not sell, rent, trade, or disclose your personally identifiable information to anyone except as explained in this policy. This policy is believed to meet all local, state and Federal privacy laws and guidelines of the U.S.A. currently in place as of its writing, and is believed to meet the minimum requirements for the European Union, and Canada, but may not meet the requirements for other countries. 
 
-You may wish to review this policy annually, as it may be updated each January, or as industry and/or legal standards require it. This page was last updated on: May 06, 2018. 
+You may wish to review this policy annually, as it may be updated each January, or as industry and/or legal standards require it. This page was last updated on: October 14, 2018. 
 
 ## **Personally Identifiable Information**
 
@@ -135,4 +135,4 @@ For our friends from the European Union (EU), please note that we do not have an
 ## **Copyright Notice**
 
 **Important Copyright Notice**  
-This privacy policy is unique to Neotrope/Send2Press and contains original and specific sections, and may not be copied, cloned, used as a basis for another site's privacy policy, or mis-represented as part of Neotrope in any way. Copr. © 1997 - 2018 by Neotrope® — ALL RIGHTS RESERVED. 
+This privacy policy is unique to Neotrope/Send2Press and contains original and specific sections, and may not be copied, cloned, used as a basis for another site's privacy policy, or mis-represented as part of Neotrope in any way. Copr. © 1997 - 2019 by Neotrope® — ALL RIGHTS RESERVED. 
