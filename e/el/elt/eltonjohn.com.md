@@ -1,107 +1,155 @@
-> *The following text is extracted and transformed from the eltonjohn.com privacy policy that was archived on 2017-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170611093035id_/http%3A//www.eltonjohn.com/info/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the eltonjohn.com privacy policy that was archived on 2019-03-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190326193045id_/https%3A//www.eltonjohn.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy :EltonJohn.com
+# Privacy policy - Elton John
 
-At EltonJohn.com, we respect the privacy concerns of the users and other visitors to our website. We understand that we are responsible for Personal Information under our control. By visiting EltonJohn.com, you are accepting the Terms of Use and the practices described in this Privacy Policy (“Privacy Policy”).
+**Key points covered in this Privacy Policy.**
 
-Please review this Privacy Policy periodically. We may update it from time to time and we will notify you of any modifications in this section or in links from this section. Our privacy policy is in accordance with Canada’s Personal Information Protection and Electronic Documents Act (“PIPEDA”).
-
-If you feel that this site is not following its stated information policy, you may [contact us](http://www.eltonjohn.com/info/contact/) (at the addresses or phone number below). “Personal Information” means any information about an identifiable individual but does not include the name, title or business address or telephone number of an employee of an organization.
-
-#### Information We Collect
-
-For each visitor to this website our web server automatically recognizes non-individual data only, but not Personal Information (where possible). We use this information to notify users on updates and optimize the Site for you and to diagnose problems with EltonJohn.com. We collect information volunteered by the consumer, such as survey information, site registrations, and/or orders placed with EltonJohn.com.
-
-#### How We Use This Information
-
-We collect the minimum amount of Personal Information necessary to provide our services. The information we collect is used to:
-
-  * notify users about recent updates on EltonJohn.com
-  * ship products purchased on EltonJohn.com and inform buyers about their orders
-  * offer promotional opportunities from us and our partners to site members
-  * improve the function of this website
+  1. **Introduction.**
+  2. **What Personal Data the Company might collect on you.  **
+  3. **How long might the Company hold on to your Personal Data.**
+  4. **How the Company might collect your Personal Data.**
+  5. **The grounds on which the Company may store and use your Personal Data.**
+  6. **The way(s) in which the Company might use your Personal Data.**
+  7. **The measures the Company has in place to protect your Personal Data.**
+  8. **Your rights.**
+  9. **How the Company will communicate changes to this Privacy Policy.**
+  10. **Cookies.**
+  11. **How you can contact the Company.**
 
 
 
-We do not sell, rent, or lease our site customer information to third parties. In order to provide our services, we occasionally share information to our business partners to help make decisions about the content made available to our customers. We use trusted, third-party companies to assist us in fulfilling orders and processing credit card payments. These companies are only given the necessary amount of Personal Information needed to complete the transaction and payment information is destroyed upon completion of the order. Any transfer of information is subject to the limitations of this privacy statement.
+**1\. Introduction**
 
-#### Consent
+Eltonjohn.com Limited (the “Company”) is a company registered in England and Wales under registered company number 03910174. The Company’s registered office is: 1 Blythe Road, London, W14 0HG.
 
-Personal Information will only be collected, used or disclosed with a site customer’s consent, except where required or permitted by law. Consent can be express or implied. It will never be a requirement to obtain a service or product except where necessary to be able to supply that product or service. Site customers can withdraw their consent at any time, subject to legal or contractual restrictions. If you would like to withdraw your consent please [contact us](mailto:help@EltonJohn.com "Contact Us").
+In compliance with the General Data Protection Regulation (the “GDPR”), in force as of 25 May 2018,  this Privacy Policy (the “Policy”) sets out the obligations of the Company in respect of the collection, retention, safeguarding of and access to your Personal Data (defined below).
 
-#### Cookies
+The GDPR defines “Personal Data” as any information relating to an identifiable person who can be directly or indirectly identified in particular by reference to an identifier. This includes, but is not limited to, name, email address, postal address location data, an online identifier, or one or more factors specific to the physical, physiological, genetic, mental, economic, cultural, or social identity of that natural person.
 
-EltonJohn.com uses cookies to help personalize your online experience, by, among other things, saving your passwords and preferences for you. These cookies are restricted for use only on EltonJohn.com, and do not transfer any Personal Information to any other party. If you choose to disable your cookies setting or refuse to accept a cookie, some parts of EltonJohn.com will not function properly or may be considerably slower.
+The Personal Data that the Company may collect from you is listed in section 2 below.
 
-#### Web Analytics
+The Company is committed to protecting and respecting your privacy, and would welcome any feedback you have to: help@eltonjohn.com.
 
-In order to serve you better, we use web analytics services including Google Analytics to help analyse the use of our websites. These tools use cookies to collect and generate information about your visits to our sites (including your IP address) that is transmitted to their servers in an anonymous form for processing. We study patterns of website activity so we can improve the experience of visitors to our sites.
+**2\. What Personal Data the Company might collect on you.**
 
-The use of these tools does not allow us or our analytics service providers to identify individuals.
+2.1 The Company might collect the following Personal Data from you:  
+ _i) Your name, age/date of birth and gender;  
+_ _ii) Your contact details,_ including: _postal address including billing and delivery addresses, telephone numbers (including mobile numbers) and e-mail address;  
+_ _iii) Details of purchases and/or orders made by you;  
+_ _iv) Details of events attended by you;  
+_ _v) Your communication and marketing preferences;  
+_ _vi) Your interests, preferences, feedback and survey responses;  
+_ _vii) Your correspondence and communications with the Company;  
+_ _viii) Other publicly available Personal Data, including any which you have shared via a public platform (such as a Twitter feed, public Facebook page or a company website)._
 
-We have also implemented some features of Google’s Display Advertising functionality to advertise online. These features include Remarketing, Google Display Network Impression Reporting, the DoubleClick Campaign Manager integration, and Google Analytics Demographics and Interest Reporting. We and third-party vendors, including Google, use both first-party cookies and third-party cookies together to report ad impressions, other uses of ad services, and interactions with these ad impressions and ad services are related to visits to this site.
+2.2 The Company’s website is not intended for children and the Company does not knowingly collect data relating to children.
 
-You can opt-out of analytics activity by setting your browser to notify you when a cookie is sent and block analytics cookies if desired. Please consult your browser’s Help Menu for instructions. Visiting our website with analytics cookies disabled will have no significant impact on your browsing experience.
+2.3 This list is not exhaustive and, in specific instances, the Company may need to collect additional data for the purposes set out in this Policy. The Company may also collect Personal Data from third parties who have your consent to pass your details to the Company, or from publicly available sources.
 
-Google currently offers a free Google Analytics [opt-out tool ](https://tools.google.com/dlpage/gaoptout)for Internet Explorer (versions 7 – 10), Google Chrome (4.x and higher), and Mozilla Firefox (3.5 and higher).
+**3\. How long might the Company hold on to your Personal Data.**
 
-#### External Sites
+The Company will not retain your Personal Data for longer than necessary for the purposes set out in this Policy.
 
-Neither EltonJohn.com nor its partners are responsible for the privacy practices or the content of external websites. When we include links to other internet sites, on this site and in our newsletters and other communications, we do so solely as a convenience to our visitors.
+**4\. How the Company might collect your Personal Data.**
 
-#### Security
+The Company may collect your Personal Data in the following ways:
 
-We work to secure your information during transmission by using Secure Sockets Layer (SSL) software, which encrypts information you input. We have appropriate security measures in place in our physical facilities to protect against the loss, misuse or alteration of information that we have collected from you at our site.
+_i) Via the Company’s website (e.g. when you opt-in to join the Rocket Club);_
 
-#### Control of Your Information
+_ii) Via ticketing agents who sell tickets to Elton John shows, and you opt-in to receive communication_ direct _from the Company;_
 
-EltonJohn.com offers choices to our customers for the collection, use and sharing of Personal Information. If you do not wish to receive email for mailing lists from us you can unsubscribe to the list by using the link at the bottom of every mailing.
+_iii) Via any additional means the Company deems reasonable._
 
-Upon request we provide site visitors with access to unique identifier information (e.g. customer number), transaction information (e.g. dates on which customers made purchases, amounts and types of purchases), communications that have been directed to our site (e.g. emails, customer inquiries), and contact information (e.g. name, address, phone number). Site visitors can access this information through the various account settings features on the website or by writing to us at the [email address](http://www.eltonjohn.com/info/ej_privacy.aspx#contactInfo "Jump To Contact Information") or the [mailing address](http://www.eltonjohn.com/info/ej_privacy.aspx#contactInfo "Jump To Contact Information") below. We keep all Personal Information about our visitors up-to-date and encourage our visitors to update us on any changes to their Personal Information by emailing or writing to us.
+**5\. The grounds on which the Company may store and use your Personal Data.**
 
-#### Privacy Principles for EltonJohn.com
+The Company might store and use your Personal Data on the following legal grounds:
 
-In addition to anything stated in this Privacy Policy, we abide by the following ten principles:
+**5.1 Consent**  
+ _\- for example, if you have opted in to receive marketing communications and/or news from the Company, the Company might store your data and contact you with a roundup of Elton John’s recent news and events._
 
-ACCOUNTABILITY
-    We are responsible for the Personal Information under our control and have designated one or more individuals who will be accountable for the company’s compliance with the procedures and principles set out in this Privacy Policy.
-IDENTIFYING PURPOSE
-    We will identify the purpose for which Personal Information is collected at or before the time the information is collected. The purposes for which information is collected, used or disclosed by us will be reasonable.
-CONSENT
-    The knowledge and consent of the individual are required for the collection, use or disclosure of Personal Information.
-LIMITING COLLECTION
-    We will limit the collection of personal information to what is necessary for the purposes identified.
-LIMITING USE, DISCLOSURE AND RETENTION
-    Personal Information will only be used or disclosed for purposes we set out. Except with the consent of the individual or as may be required by law. Personal Information will be retained only as long as necessary for the fulfillment of the purposes for which it was collected.
-ACCURACY
-    Personal Information will be as accurate, complete and current as is necessary for the purposes for which it is to be used.
-SAFEGUARDS
-    Personal Information will be protected by security safeguards appropriate to the sensitivity of the information and the circumstances.
-OPENNESS
-    We will make readily available to our users, customers and employees specific information about its policies and practices relating to the collection, use or disclosure of Personal Information.
-INDIVIDUAL ACCESS
-    Upon request, you will be informed of the existence, use and disclosure of your Personal Information and will be given access to that information except in those circumstances that we are permitted or required by law not to disclose Personal Information to the individual. Such individuals will be able to challenge the accuracy and completeness of the information we have and have it changed as appropriate.
-CHALLENGING COMPLIANCE
-    An individual will be able to address a challenge concerning compliance with this Privacy Policy.
+**5.2 Fulfilment of a Contractual Obligation**  
+ _\- for example, if you have purchased an item via the website, the Company will store and process your data insofar as it is necessary to fulfil such order._
 
-### Contact Information
+**5.3 Legitimate Interest**  
+ _\- for example, if you have previously provided the Company with your contact details in the course of sale of goods/services (for example a ticket to an Elton John concert), the Company may send you electronic communications relating to similar upcoming event ticket sales. You will always be given the opportunity to opt-out of this form of communication. If relying on legitimate interest as a lawful ground for processing your Personal Data, the Company will always take into account your rights and interests prior to sending any such communications._
 
-If you have questions we are here to help! There are several ways to contact us:
+**6\. The way(s) in which the Company might use your Personal Data.**
 
-Email:
-    [help@EltonJohn.com](mailto:help@EltonJohn.com "Contact Us")
-Phone:
-    +1 (855) 712-7467
+**6.1 General**
 
-Please specify your name, order number, phone number, and your question when leaving a message.
+The Company (and trusted partners acting on our behalf) might use your Personal Data:  
+ _i) to provide goods and services to you;  
+_ _ii) to make a tailored website available to you;  
+_ _iii) to manage any registered account(s) that you hold with us;  
+_ _iv) to verify your identity;  
+_ _v) for crime and fraud prevention, detection and related purposes;  
+_ _vi) to contact you electronically about news/events and/or products which the Company thinks may interest you;  
+_ _vii) for market research purposes - to better understand your needs;  
+_ _viii) where the Company has a legal right or duty to use or disclose your information (for example in relation to an investigation by a public authority or in a legal dispute)._
 
-Post:
-    EltonJohn.com  
-c/o officialCOMMUNITY  
-2238 Dundas Street West  
-P.O. Box 59039  
-Toronto, Ontario  
-M6R 3B5  
-Canada
+**6.2 Communications**  
+The Company might use your Personal Data for electronic marketing purposes (with your consent) and may send you postal mail to update you on the latest events/ work of Elton John.  
+The Company aims to update you about items which are of interest and relevance to you as an individual.  
+You have the right to opt-out of receiving communications at any time, by:  
+i) making use of the simple “unsubscribe” link in emails; or  
+ii) contacting the Company via email to help@eltonjohn.com or via post to the registered office (listed in section 1 above).
 
-__top
+**6.3 Sharing data with third parties**
+
+**_i) Our service providers and suppliers_**  
+ _In order to make certain services available to you, the Company may need to share your Personal Data with some of our service providers/partners.   These could include IT, delivery and marketing service providers.  
+_ _The Company only allows its service providers/partners to handle your Personal Data when the Company has confirmed that they apply appropriate data protection and security controls.   The Company also imposes contractual obligations on service providers/partners relating to data protection and security, which mean they can only use your Personal Data to provide services to the Company and to you, and for no other purposes._
+
+_**ii) Other third parties  
+** Aside from our service providers/partners, the Company will not disclose your Personal Data to any third party, except as set out below.  The Company will never sell or rent your Personal Data to other organisations for marketing purposes.  
+_ _We may share your data with:  
+_ _\- credit reference agencies where necessary for card payments;  
+_ _\- governmental bodies, regulators, law enforcement agencies, courts/tribunals and insurers where the Company is required to do so: -  
+_ _\-- to comply with our legal obligations;  
+_ _\-- to exercise our legal rights (for example in court cases);  
+_ _\-- for the prevention, detection, investigation of crime or prosecution of offenders; and  
+_ _\-- for the protection of our employees and customers._
+
+**7\. The measures the Company has in place to protect your Personal Data.**
+
+The Company strives to maintain the highest standards of data privacy and security to protect your personal details and other information about you.
+
+The Company shall ensure that Personal Data is stored securely using modern software that is kept-up-to-date. 
+
+Access to Personal Data shall be limited to personnel who need access and appropriate security should be in place to avoid unauthorised sharing of information.
+
+When Personal Data is deleted this should be done safely such that the data is irrecoverable.
+
+Appropriate back-up and disaster recovery solutions shall be in place.
+
+The Company regularly reviews our processes and procedures to protect your information from unauthorised access and use, accidental loss and/or destruction. 
+
+**8\. Your rights**
+
+You have the following rights in respect of the Personal Data that the Company holds:
+
+_8.1 the right to ask for a copy of Personal Data that the Company holds about you (the right of access);_
+
+_8.2 the right (in certain circumstances) to request that the Company deletes Personal Data held on you; where the Company no longer has any legal reason to retain it (the right of erasure or to be forgotten);_
+
+_8.3 the right to ask the Company to update and correct any out-of-date or incorrect Personal Data that the Company holds about you (the right of rectification);_
+
+_8.4 the right to opt out of any marketing communications that the Company may send you and to object to the Company using / holding your Personal Data if the Company has no legitimate reasons to do so (the right to object);_
+
+_8.5 the right (in certain circumstances) to ask the Company to ‘restrict processing of data’; which means that the Company would need to secure and retain the data for your benefit but not otherwise use it (the right to restrict processing); and_
+
+_8.6 the right (in certain circumstances) to ask the Company to supply you with some of the Personal Data that the Company holds about you in a structured machine-readable format and/or to provide a copy of the data in such a format to another organisation (the right to data portability)._
+
+**9\. How the Company will communicate changes to this Privacy Policy.**
+
+The Company may update this Policy to reflect changes in how it collects, stores and/or uses your Personal Data. The most recent version of the Policy will always be available via the Company’s website. Where appropriate, the Company will provide you with notice of any significant changes to how it uses your information.    
+
+**10\. Cookies.**
+
+The Company’s website uses cookies to distinguish you from other users of its website. This helps the Company to provide you with a good experience when you browse our website and also allows us to improve our site. If you wish to reject cookies, you may need to change your website browser settings.
+
+**11\. How you can contact the Company.**
+
+If you have any questions on the contents of this Policy please contact help@eltonjohn.com or if you would rather get in touch by post, please write to:
+
+Website Team, Eltonjohn.com Limited, 1 Blythe Road, London, W14 0HG.
