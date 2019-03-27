@@ -1,10 +1,12 @@
-> *The following text is extracted and transformed from the engvid.com privacy policy that was archived on 2017-02-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170215011841id_/https%3A//www.engvid.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the engvid.com privacy policy that was archived on 2019-03-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190327203615id_/https%3A//www.engvid.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy · engVid
 
 If you require any more information or have any questions about our privacy policy, please feel free to contact us by email at langvid AT langvid DOT com.
 
 At www.engvid.com, the privacy of our visitors is of extreme importance to us. This privacy policy document outlines the types of personal information received and collected by www.engvid.com and how it is used.
+
+We enforce the use of https encrypted connections between your browser and our servers, to protect the privacy of all data transferred between you and us.
 
 **Log Files**  
 Like many other Web sites, www.engvid.com makes use of log files. The information inside the log files includes internet protocol (IP) addresses, type of browser, Internet Service Provider (ISP), date/time stamp, referring/exit pages, and number of clicks to analyze trends, administer the site, track users' movement around the site, and gather demographic information. IP addresses, and other such information are not linked to any information that is personally identifiable.
