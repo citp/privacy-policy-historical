@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nootropicsdepot.com privacy policy that was archived on 2018-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181223133649id_/http%3A//nootropicsdepot.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nootropicsdepot.com privacy policy that was archived on 2019-03-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190327065949id_/http%3A//nootropicsdepot.com/privacy-policy) for the most accurate reproduction.*
 
 # Nootropics Depot Privacy Policy
 
@@ -22,6 +22,12 @@ For example, we may request information from you when you:
 
 
 In each of the instances above, we typically ask for your name, e-mail address, phone number, address, the type of business you are in, product preference information, any applicable identification number or password that we may require, as well as other similar personal information that is needed to register, purchase or subscribe you to services or offers. On occasion, we may ask for additional information to enable us to provide you with access to and use of certain information, materials and services. In the case of mailed materials, you will be able to "unsubscribe" to these mailings at any time.
+
+**Advertising**
+
+Nootropics Depot and its affiliated websites may display interest-based ads to you when you are using Facebook or Instagram through a tool offered by Facebook called the Custom Audience Tool. This tool allows us to personalize our ads based on your shopping experience with us.
+
+Nootropics Depot and its affiliated websites may display interest-based ads to you when you are using Google or via the Google Display Network through tools offered by Google AdWords. These tools allows us to personalize our ads based on your shopping experience with us.
 
 **Our Commitment To Data Security**
 
@@ -51,5 +57,5 @@ Be the first to learn about new product releases, exclusive sales and special pr
 
 
   
-All prices are in USD. © 2018 Nootropics Depot   
+All prices are in USD. © 2019 Nootropics Depot   
 
