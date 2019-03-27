@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the writingclasses.com privacy policy that was archived on 2018-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181222111517id_/https%3A//www.writingclasses.com/site/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the writingclasses.com privacy policy that was archived on 2019-03-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190327114204id_/https%3A//www.writingclasses.com/site/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Gotham Writers Workshop
 
@@ -111,4 +111,4 @@ New York, NY 10018
 USA 
 
 [[email protected]  
-](https://web.archive.org/cdn-cgi/l/email-protection#2f4c40415b4e4c5b6f48405b474e42585d465b4a5d5c014c4042)[www.gothamwriters.com](http://www.gothamwriters.com/)
+](https://web.archive.org/cdn-cgi/l/email-protection#1675797862777562567179627e777b61647f627364653875797b)[www.gothamwriters.com](http://www.gothamwriters.com/)
