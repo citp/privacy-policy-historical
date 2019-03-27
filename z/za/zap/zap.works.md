@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the zap.works privacy policy that was archived on 2018-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181225063631id_/https%3A//zap.works/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the zap.works privacy policy that was archived on 2019-03-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190327142906id_/https%3A//zap.works/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -288,7 +288,7 @@ We will continue to be the data controller in respect of Information transferred
 
       3. Your Information will only be accessed by authorised employees. These employees are obliged to preserve the confidentiality of all information that comes to their attention, unless disclosure is compulsory by law or necessary for the fulfilment of their duties.
 
-      4. Your ZapWorks Account is protected by access authentication and we use cookies to verify that the person accessing an account is authorised to do so: see our Cookie Notice for details: [zap.works.com/cookie-policy/](http://www.zap.works.com/cookie-policy/) Passwords are stored using industry-standard bcrypt hashing techniques.
+      4. Your ZapWorks Account is protected by access authentication and we use cookies to verify that the person accessing an account is authorised to do so: see our Cookie Notice for details: [zap.works/cookie-policy/](https://zap.works/cookie-policy/) Passwords are stored using industry-standard bcrypt hashing techniques.
 
     3. Despite these measures, you should be aware that we cannot fully eliminate security risks associated with sharing Personal Data on-line. No method of transmission over the internet, or method of electronic storage, is 100% secure. Therefore, we cannot guarantee its absolute security.
 
@@ -312,7 +312,7 @@ User profiles created by our marketing automation tool (Intercom) are automatica
 
   14. **Cookies and analytics**
 
-Please see our [separate page on cookies](http://www.zappar.com/cookie-policy/) for information on how the Services use cookies, analytics and similar technologies.
+Please see our [separate page on cookies](https://zap.works/cookie-policy/) for information on how the Services use cookies, analytics and similar technologies.
 
 **Use of Intercom Services:** We use third-party analytics services to help understand your usage of our services. In particular, we provide a limited amount of your information (such as your email address and sign-up date) to Intercom, Inc. ( **“Intercom”** ) and utilize Intercom to collect data for analytics purposes when you visit our website(s) or use our product(s). Intercom analyzes your use of our website(s) and/or product(s) and tracks our relationship so that we can improve our service to you. We may also use Intercom as a medium for communications, either through email, or through messages within our product(s).
 
