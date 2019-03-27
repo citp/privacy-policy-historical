@@ -1,7 +1,7 @@
-<!--The following is the downloaded HTML source of the theapollobox.com privacy policy that was archived on 2018-12-31.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20181231180428id_/https%3A//www.theapollobox.com/privacyPolicy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the theapollobox.com privacy policy that was archived on 2019-03-27.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20190327092215id_/https%3A//www.theapollobox.com/privacyPolicy) for the most accurate reproduction.-->
 
-<!DOCTYPE html><html class=" js flexbox flexboxlegacy canvas canvastext webgl no-touch geolocation postmessage websqldatabase indexeddb hashchange history draganddrop websockets rgba hsla multiplebgs backgroundsize borderimage borderradius boxshadow textshadow opacity cssanimations csscolumns cssgradients cssreflections csstransforms csstransforms3d csstransitions fontface generatedcontent video audio localstorage sessionstorage webworkers applicationcache svg inlinesvg smil svgclippaths js flexbox flexboxlegacy canvas canvastext webgl no-touch geolocation postmessage websqldatabase indexeddb hashchange history draganddrop websockets rgba hsla multiplebgs backgroundsize borderimage borderradius boxshadow textshadow opacity cssanimations csscolumns cssgradients cssreflections csstransforms csstransforms3d csstransitions fontface generatedcontent video audio localstorage sessionstorage webworkers applicationcache svg inlinesvg smil svgclippaths" lang="en" style=""><head><style>
+<!DOCTYPE html><html class="no-js" lang="en"><head><style>
 	/* rules for navigation menu */
 	/* ========================================== */
 	
@@ -33,7 +33,7 @@
 		width: 17px;
 		height: 14px;
 	}
-
+	
 	.my_links-group__link .icon-shop-category {
 		width: 16px;
 		height: 16px;
@@ -191,6 +191,17 @@
 	}
 	*/
 
+	
+
+	.nav-sub-btn{
+		position: fixed;
+		/* display:none; */
+		z-index: 100000;
+		width: 100%;
+		background: #fff;
+	}
+	
+
 </style>
 
 
@@ -236,19 +247,22 @@
 
 	<!-- Chrome Android color -->
 	<meta name="theme-color" content="#34e7e4">
+	
+	<!-- Modernizr -->
+	<!-- <script src="/js/modernizr.js"></script> -->
 
 	<!-- Styles -->
-	<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
-	<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
-	<link rel="stylesheet" href="/css/styleNew.css">
-	<link rel="stylesheet" href="/css/jquery.fancybox.css?v=2.1.5" type="text/css" media="screen">
-	<link rel="stylesheet" href="/css/owl.carousel.css">
+	<!-- <link rel="stylesheet" href="/css/style/bootstrap.min.css">
+	<link rel="stylesheet" href="/css/style/font-awesome.min.css">
+	<link rel="stylesheet" href="/css/style/styleNew.css">
+	<link rel="stylesheet" href="/css/style/jquery.fancybox.css?v=2.1.5" type="text/css" media="screen" /> -->
 
-	<!-- Modernizr -->
-	<script async="" src="https://connect.facebook.net/en_US/fbevents.js"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script src="/js/modernizr.js"></script>
+	
+	<link rel="stylesheet" href="https://rs.apolloboxassets.com/hosted/dist/main10.min.css">
+	
 
 	<!--google analytics-->
-	<script>
+	<script async="" src="https://connect.facebook.net/en_US/fbevents.js"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script>
 		(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
 				(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
 				m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
@@ -261,13 +275,18 @@
 				}
 	</script>
 	<!-- end google analytics-->
+	<!-- jquery -->
+	<!-- <script src="https://rs.apolloboxassets.com/hosted/jquery/jquery-1.10.2.min.js"></script> -->
+	<script src="https://rs.apolloboxassets.com/hosted/jquery/jquery-3.0.0.js"></script>
+	<script src="https://rs.apolloboxassets.com/hosted/jquery/jquery-migrate-3.0.1.js"></script>
+	<!-- end jquery -->
 
 <script>
 	function setMouseenter(ele){
-		ele.mouseenter(function(){
+		ele.on('mouseenter',function(){
 			ele.children('ul').addClass('show-menu')
 		})
-		ele.mouseleave(function(){
+		ele.on('mouseleave',function(){
 			ele.children('ul').removeClass('show-menu')
 		})
 		var childrenLi = ele.children('ul').children('li')
@@ -310,7 +329,7 @@
 					}
 				})
 		}
-		$(eleList[eleList.length-1]).keydown(function(e){
+		$(eleList[eleList.length-1]).on('keydown',function(e){
 			this.dataset.islast = 1;
 			$this = $(this);
 			if(e.keyCode==9){
@@ -344,7 +363,7 @@
 				}
 			})	
 			
-			$menu1.keyup(function(e){
+			$menu1.on('keyup',function(e){
 				if(e.keyCode==9){
 					var $firstLevel = $(this.children[1])
 					$firstLevel.addClass('show-menu');
@@ -352,7 +371,7 @@
 					setSubMenu(sub1MenuList);
 				}
 			})
-			$menu2.keyup(function(e){
+			$menu2.on('keyup',function(e){
 				if(e.keyCode==9){
 					var $firstLevel = $(this.children[1]);
 					$firstLevel.addClass('show-menu');
@@ -378,7 +397,7 @@
 				</svg>
 			</button>
 			<a href="/" class="header__logo focus-outline" name="apollo box home page">
-				<img src="/images/logo-apollo 2.svg" alt="Apollo Box Home Page" class="header__img">
+				<img src="https://a05cfa32767d26c92771-5ead5fb90d15bc4c93cd4ce850188249.ssl.cf2.rackcdn.com/images/logo-apollo.svg" alt="Apollo Box Home Page" class="header__img">
 			</a>
 			<form class="search" role="search" action="/search" method="GET">
 				<svg role="img" class="icon icon-search">
@@ -392,14 +411,72 @@
 				</button>
 			</form>
 			<div class="links-group">
+				<style>
+  #header3CountrySelection {
+    display: none;
+    position: relative;
+  }
+  @media (min-width: 1025px) {
+    #header3CountrySelection {
+      display: block;
+    }
+  }
+  .countryOptions {
+    display: none;
+    position: absolute;
+    width:100px;
+    left: -50%;
+    z-index: 999;
+    font-size: 14px;
+  }
+  .countryOptions div{
+    background-color: #fff;
+    height:35px;
+    line-height: 35px;
+    padding-left: 8px;
+  }
+  .countryOptions div:hover{
+    background-color: #f5f5f5;
+    cursor: pointer;
+  }
+
+  #header3CountrySelection:hover .countryOptions {
+    display: block;
+  }
+
+  .country-flag__img {
+    width: 25px;
+    margin: 0 0 0 10px;
+  }
+  .country-flag__img:hover .countryOptions{
+    display: block;
+  }
+  
+  
+  
+
+</style>
+<!-- COUNTRY-SELECTION BEGIN -->
+<div id="header3CountrySelection" class="focus-outline" role="menu" tabindex="0" aria-haspopup="true" aria-label="country selection" data-target="list">
+  <a href="#!" aria-label="country flag" id="nav-current-country-slot"><img class="country-flag__img current-country-flag-US" alt="Current Country Flag US" id="current-country-flag" data-country="US" src="https://rs.apolloboxassets.com/hosted/img/flag_US.png"></a>
+  <div class="countryOptions" id="icon-country-options" role="menu" aria-haspopup="true">
+    <div role="menuitem" class="icon-country-option" data-country="GB" id="icon-country-option-gb">ship to<img class="country-flag__img" data-country="GB" src="https://rs.apolloboxassets.com/hosted/img/flag_GB.png" alt="Great Britain"></div>
+    <div role="menuitem" class="icon-country-option" data-country="PH" id="icon-country-option-ph">ship to<img class="country-flag__img" data-country="PH" src="https://rs.apolloboxassets.com/hosted/img/flag_PH.png" alt="Philippines"></div>
+    <div role="menuitem" class="icon-country-option" data-country="US" id="icon-country-option-us">ship to<img class="country-flag__img" data-country="US" src="https://rs.apolloboxassets.com/hosted/img/flag_US.png" alt="United States"></div>
+  </div>
+</div>
+<!-- COUNTRY-SELECTION END -->
+<script>
+
+</script>
 				
-				<a class="links-group__link d-none d-md-block focus-outline" data-toggle="modal" href="#signupModal">
+				<a id="register-btn" class="links-group__link d-none d-md-block focus-outline" data-toggle="modal" href="#signupModal">
 					Register
 				</a>
-				<button type="button" class="btn btn--sm focus-outline" data-toggle="modal" href="#loginModal" id="headerSignInBtn">Sign
+				<button id="headerSignInBtn" type="button" class="btn btn--sm focus-outline" data-toggle="modal" href="#loginModal">Sign
 					in</button>
 				
-				<a href="/cart" aria-label="cart" class="links-group__link focus-outline">
+				<a id="cart-link" href="/cart" aria-label="cart" class="links-group__link focus-outline">
 					<svg role="img" class="icon icon-cart-new">
 						<use xlink:href="/icons/icons.svg#icon-cart-new"></use>
 					</svg>
@@ -420,6 +497,15 @@
 	<!-- / HEADER -->
 
 	<!-- MENU -->
+	<div class="menu__list nav-sub-btn" style="display:none">
+			<a href="/subscriptionbox" class="nav-surprise" role="button">
+				Surprise Box
+			</a>
+			<a href="/jewelryBox" style="width:100%" class="nav-jewelry" role="button">
+				Jewelry Box
+			</a>
+	</div>
+	
 	<div class="menu">
 		<div class="container">
 			<nav class="menu__list">
@@ -439,6 +525,11 @@
 					</a>
 				</div>
 				<div class="dropdown">
+					<a href="/category/94vuocVx8Y/spring-collection" role="button">
+						Spring
+					</a>
+				</div>
+				<div class="dropdown">
 					<a href="/category/VxaI0oqCYN/winter-collection" role="button">
 						Winter
 					</a>
@@ -449,10 +540,10 @@
 					</a>
 				</div>
 				
-				<div class="dropdown">
-					<a href="/subscriptionbox" role="button">
-						Surprise Box
-					</a>
+				<div class="nav-surprise-parent">
+							<a href="javascript:void(0)" role="button">
+									Surprise Box
+							</a>
 				</div>
 				
 				<div class="dropdown">
@@ -600,11 +691,11 @@
 									<li><a role="menuitemradio" href="/category/2F9oHAFsIm/wall-decor">
 											Wall Decor</a></li>
 									
-									<li><a role="menuitemradio" href="/category/IN3Tx3hxFq/sculptures--ornaments">
-											Sculptures &amp; Ornaments</a></li>
-									
 									<li><a role="menuitemradio" href="/category/b4OX0QTh4R/cards--gift-wraps">
 											Cards &amp; Gift Wraps</a></li>
+									
+									<li><a role="menuitemradio" href="/category/IN3Tx3hxFq/sculptures--ornaments">
+											Sculptures &amp; Ornaments</a></li>
 									
 									<li><a role="menuitemradio" href="/category/LSIQYaIVim/terrariums--gardens">
 											Terrariums &amp; Gardens</a></li>
@@ -715,7 +806,7 @@
 							
 						</ul>
 					</li>
-
+					
 					<!--
 						Shop By Collection Dropdown
 					-->
@@ -732,7 +823,7 @@
 							<li><a href="/category/Z0VeSseXyi/holiday-sale">Sale</a></li>
 							<li><a href="/category/ivEtDFtHHN/group-sale">Group Sale</a></li>
 							<li><a href="/category/VxaI0oqCYN/winter-collection">Winter Collection</a></li>
-							<li><a href="/category/J5D3PBkUtH/Christmas-collection">Christmas Collection</a></li>
+							<li><a href="/category/94vuocVx8Y/spring-collection">Spring Collection</a></li>
 							<li><a href="/category/yCws9zxZ5E/customized-gifts">Customized Gifts</a></li>
 							
 							<li><a href="/subscriptionbox">Surprise Box</a></li>
@@ -776,229 +867,86 @@
 			</div>
 		</div>
 	</div>
+	<script>
+		$(function(){
+			$('.nav-surprise-parent').on('mouseenter',function(){
+				var top = $(this).offset().top
+				var left = $(this).offset().left
+				var height = $(this).height()
+				var width = $(this).width()
+				$('.nav-sub-btn').show();
+				$('.nav-sub-btn').height(height*2);
+				$('.nav-sub-btn').width(width);
+				$('.nav-sub-btn').css({
+					top:top+height,
+					left:left
+				})
+			})
+			$('.nav-surprise-parent').on('mouseleave',function(){
+				$('.nav-sub-btn').hide()
+			})
+			$('.nav-sub-btn').on('mouseenter',function(){
+				$('.nav-sub-btn').show();
+			})
+			$('.nav-sub-btn').on('mouseleave',function(){
+				$('.nav-sub-btn').hide();
+			})
+		})
+	</script>
 	<!-- / MENU -->
 	<!-- SIDENAV -->
 <div class="sidenav">
     <div class="sidenav__header" aria-hidden="true">
         <a href="/" tabindex="-1" class="sidenav__logo">
-            <img tabindex="-1" src="/images/logo-apollo 2.svg" alt="Apollo" class="sidenav__img">
+            <img tabindex="-1" src="https://a05cfa32767d26c92771-5ead5fb90d15bc4c93cd4ce850188249.ssl.cf2.rackcdn.com/images/logo-apollo.svg" alt="Apollo" class="sidenav__img">
         </a>
         <button href="#!" tabindex="-1" class="sidenav__close" aria-label="close-side-navigator" style="background-color: white">
-            <svg role="img" tabindex="-1" class="icon icon-close"><use xlink:href="/icons/	icons.svg#icon-close"></use>
+            <svg role="img" tabindex="-1" class="icon icon-close"><use xlink:href="/icons/icons.svg#icon-close"></use>
             </svg>
         </button>
     </div>
+    <!-- COUNTRY BEGIN-->
+<style>
+    #sidenav-current-country-slot{
+        width:100%;
+        line-height: 21.25px;
+
+    }
+    .sidenav-current-country-flag__img{
+        display: inline-block;
+        width: 25px;
+        margin:0;
+    }
+    .sidenav-current-country-text{
+        margin-left: 20px;
+    }
+</style>
+<ul id="sidenav-countries" class="sidenav__menu">
+    <li class="sidenav__list" id="sidebar-country-selection">
+        <a id="sidenav-current-country" class="collapsed sidenav__drop" data-toggle="collapse" data-target="#sidenav-country-options" aria-expanded="false">
+            <div id="sidenav-current-country-slot"><img class="sidenav-current-country-flag__img" id="sidenav-current-country-US" alt="current country flag US" src="https://rs.apolloboxassets.com/hosted/img/flag_US.png"><span data-country="US" class="sidenav-current-country-text"> Ship To US</span></div>
+            <svg role="img" class="icon icon-angle-down"><use xlink:href="/icons/icons.svg#icon-angle-down"></use></svg>
+        </a>
+        <ul id="sidenav-country-options" class="collapse sidenav__submenu" aria-label="sidebar country selection" data-parent="#sidenav-countries">
+            <li id="sidenav-country-option-gb" class="sidenav-country-option" data-selected="0" data-country="GB"><a href="#"><span>Ship To Great Britain</span></a></li>
+            <li id="sidenav-country-option-ph" style="margin-bottom:2px" class="sidenav-country-option" data-selected="0" data-country="PH"><a href="#"><span>Ship To Philippines</span></a></li>
+            <li id="sidenav-country-option-us" class="sidenav-country-option" data-selected="1" data-country="US"><a href="#"><span>Ship To United States</span></a></li>
+        </ul>
+    </li>
+</ul>
+<!-- COUNTRY END -->
     <div class="sidenav__buttons">
-    
-        <button type="button" tabindex="-1" class="btn btn--sm" data-toggle="modal" href="#loginModal" id="headerSideSignInBtn">Sign in</button>
-        <button type="button" tabindex="-1" class="btn btn--secondary" data-toggle="modal" href="#signupModal">Register</button>
-    
+        
+            <button type="button" tabindex="-1" class="btn btn--sm" data-toggle="modal" href="#loginModal" id="headerSideSignInBtn">Sign in</button>
+            <button type="button" tabindex="-1" class="btn btn--secondary" data-toggle="modal" href="#signupModal">Register</button>
+        
     </div>
-    <div class="sidenav__title">
-        <svg role="img" tabindex="-1" class="icon icon-shop-category"><use xlink:href="/icons/icons.svg#icon-shop-category"></use></svg>
-        <h1>Shop By Category</h1>
-    </div>
-    
-        
-            
-                <ul id="sidenav-categories-0" class="sidenav__menu">
-                    <li class="sidenav__list">
-                        <a class="collapsed sidenav__drop" tabindex="-1" data-toggle="collapse" data-target="#sidenavFeatured0" aria-expanded="false">
-                            <span> Gadgets</span>
-                            <svg role="img" class="icon icon-angle-down"><use xlink:href="/icons/icons.svg#icon-angle-down"></use></svg>
-                        </a>
-                        <ul id="sidenavFeatured0" class="sidenav__submenu collapse" aria-labelledby="headingOne" data-parent="#sidenav-categories-0">
-                            <li><a tabindex="-1" href="/category/8l7ZNCNNBV/gadgets"><span>All in Gadgets</span></a></li>
-                            
-                            <li><a tabindex="-1" href="/category/UVNtNrGUyD/hi-tech"><span>Hi Tech</span></a></li>
-                            
-                            <li><a tabindex="-1" href="/category/9u49AdfAVS/speakers"><span>Speakers</span></a></li>
-                            
-                            <li><a tabindex="-1" href="/category/CNPsz3IKxP/wearables"><span>Wearables</span></a></li>
-                            
-                            <li><a tabindex="-1" href="/category/F8liZb21em/phone-accessories"><span>Phone Accessories</span></a></li>
-                            
-                            <li><a tabindex="-1" href="/category/GPvHafufRM/earphones--headsets"><span>Earphones &amp; Headsets</span></a></li>
-                            
-                            <li><a tabindex="-1" href="/category/Ng0v39bsYf/power-banks"><span>Power Banks</span></a></li>
-                            
-                        </ul>
-                    </li>
-                </ul>
-            
-        
-        
-            
-                <ul id="sidenav-categories-1" class="sidenav__menu">
-                    <li class="sidenav__list">
-                        <a class="collapsed sidenav__drop" tabindex="-1" data-toggle="collapse" data-target="#sidenavFeatured1" aria-expanded="false">
-                            <span> Fashion &amp; Beauty</span>
-                            <svg role="img" class="icon icon-angle-down"><use xlink:href="/icons/icons.svg#icon-angle-down"></use></svg>
-                        </a>
-                        <ul id="sidenavFeatured1" class="sidenav__submenu collapse" aria-labelledby="headingOne" data-parent="#sidenav-categories-1">
-                            <li><a tabindex="-1" href="/category/VcGvheAJlk/fashion--beauty"><span>All in Fashion &amp; Beauty</span></a></li>
-                            
-                            <li><a tabindex="-1" href="/category/iSugaFS6d8/jewelry--accessories"><span>Jewelry &amp; Accessories</span></a></li>
-                            
-                            <li><a tabindex="-1" href="/category/SbwuN2f4qp/beauty--health"><span>Beauty &amp; Health</span></a></li>
-                            
-                            <li><a tabindex="-1" href="/category/e58QHPSq4m/bags--wallets"><span>Bags &amp; Wallets</span></a></li>
-                            
-                        </ul>
-                    </li>
-                </ul>
-            
-        
-        
-            
-        
-        
-            
-                <ul id="sidenav-categories-3" class="sidenav__menu">
-                    <li class="sidenav__list">
-                        <a class="collapsed sidenav__drop" tabindex="-1" data-toggle="collapse" data-target="#sidenavFeatured3" aria-expanded="false">
-                            <span> Outdoor</span>
-                            <svg role="img" class="icon icon-angle-down"><use xlink:href="/icons/icons.svg#icon-angle-down"></use></svg>
-                        </a>
-                        <ul id="sidenavFeatured3" class="sidenav__submenu collapse" aria-labelledby="headingOne" data-parent="#sidenav-categories-3">
-                            <li><a tabindex="-1" href="/category/uP83qDr3ZS/outdoor"><span>All in Outdoor</span></a></li>
-                            
-                        </ul>
-                    </li>
-                </ul>
-            
-        
-        
-            
-                <ul id="sidenav-categories-4" class="sidenav__menu">
-                    <li class="sidenav__list">
-                        <a class="collapsed sidenav__drop" tabindex="-1" data-toggle="collapse" data-target="#sidenavFeatured4" aria-expanded="false">
-                            <span> Home Decor</span>
-                            <svg role="img" class="icon icon-angle-down"><use xlink:href="/icons/icons.svg#icon-angle-down"></use></svg>
-                        </a>
-                        <ul id="sidenavFeatured4" class="sidenav__submenu collapse" aria-labelledby="headingOne" data-parent="#sidenav-categories-4">
-                            <li><a tabindex="-1" href="/category/T1QvG8vUfH/home-decor"><span>All in Home Decor</span></a></li>
-                            
-                            <li><a tabindex="-1" href="/category/0ovFd6dKs8/clocks"><span>Clocks</span></a></li>
-                            
-                            <li><a tabindex="-1" href="/category/2F9oHAFsIm/wall-decor"><span>Wall Decor</span></a></li>
-                            
-                            <li><a tabindex="-1" href="/category/IN3Tx3hxFq/sculptures--ornaments"><span>Sculptures &amp; Ornaments</span></a></li>
-                            
-                            <li><a tabindex="-1" href="/category/b4OX0QTh4R/cards--gift-wraps"><span>Cards &amp; Gift Wraps</span></a></li>
-                            
-                            <li><a tabindex="-1" href="/category/LSIQYaIVim/terrariums--gardens"><span>Terrariums &amp; Gardens</span></a></li>
-                            
-                            <li><a tabindex="-1" href="/category/PmOZKo8aps/planters--vases"><span>Planters &amp; Vases</span></a></li>
-                            
-                            <li><a tabindex="-1" href="/category/dkg3dZZNSp/candles"><span>Candles</span></a></li>
-                            
-                        </ul>
-                    </li>
-                </ul>
-            
-        
-        
-            
-                <ul id="sidenav-categories-5" class="sidenav__menu">
-                    <li class="sidenav__list">
-                        <a class="collapsed sidenav__drop" tabindex="-1" data-toggle="collapse" data-target="#sidenavFeatured5" aria-expanded="false">
-                            <span> Household</span>
-                            <svg role="img" class="icon icon-angle-down"><use xlink:href="/icons/icons.svg#icon-angle-down"></use></svg>
-                        </a>
-                        <ul id="sidenavFeatured5" class="sidenav__submenu collapse" aria-labelledby="headingOne" data-parent="#sidenav-categories-5">
-                            <li><a tabindex="-1" href="/category/jdl7JNaCJ4/household"><span>All in Household</span></a></li>
-                            
-                            <li><a tabindex="-1" href="/category/d9RL8I8OJw/blankets-pillows--rugs"><span>Blankets Pillows &amp; Rugs</span></a></li>
-                            
-                            <li><a tabindex="-1" href="/category/2Lhk2I4T2n/lamps--lighting"><span>Lamps &amp; Lighting</span></a></li>
-                            
-                            <li><a tabindex="-1" href="/category/kG3z9kP8Dg/furniture"><span>Furniture</span></a></li>
-                            
-                            <li><a tabindex="-1" href="/category/AEr8UKL4VC/drinkware"><span>Drinkware</span></a></li>
-                            
-                            <li><a tabindex="-1" href="/category/QUDafxyZs4/kitchen"><span>Kitchen</span></a></li>
-                            
-                            <li><a tabindex="-1" href="/category/iGw42If3qj/bath--spa"><span>Bath &amp; Spa</span></a></li>
-                            
-                            <li><a tabindex="-1" href="/category/DOPGXqEPBf/storage--organizers"><span>Storage &amp; Organizers</span></a></li>
-                            
-                            <li><a tabindex="-1" href="/category/BDCftyyVM8/pet-accessories"><span>Pet Accessories</span></a></li>
-                            
-                        </ul>
-                    </li>
-                </ul>
-            
-        
-        
-            
-                <ul id="sidenav-categories-6" class="sidenav__menu">
-                    <li class="sidenav__list">
-                        <a class="collapsed sidenav__drop" tabindex="-1" data-toggle="collapse" data-target="#sidenavFeatured6" aria-expanded="false">
-                            <span> Apparel &amp; Shoes</span>
-                            <svg role="img" class="icon icon-angle-down"><use xlink:href="/icons/icons.svg#icon-angle-down"></use></svg>
-                        </a>
-                        <ul id="sidenavFeatured6" class="sidenav__submenu collapse" aria-labelledby="headingOne" data-parent="#sidenav-categories-6">
-                            <li><a tabindex="-1" href="/category/PHrmYMIjEP/apparel--shoes"><span>All in Apparel &amp; Shoes</span></a></li>
-                            
-                        </ul>
-                    </li>
-                </ul>
-            
-        
-        
-            
-                <ul id="sidenav-categories-7" class="sidenav__menu">
-                    <li class="sidenav__list">
-                        <a class="collapsed sidenav__drop" tabindex="-1" data-toggle="collapse" data-target="#sidenavFeatured7" aria-expanded="false">
-                            <span> Toys</span>
-                            <svg role="img" class="icon icon-angle-down"><use xlink:href="/icons/icons.svg#icon-angle-down"></use></svg>
-                        </a>
-                        <ul id="sidenavFeatured7" class="sidenav__submenu collapse" aria-labelledby="headingOne" data-parent="#sidenav-categories-7">
-                            <li><a tabindex="-1" href="/category/3YUu4stYDD/toys"><span>All in Toys</span></a></li>
-                            
-                        </ul>
-                    </li>
-                </ul>
-            
-        
-        
-            
-                <ul id="sidenav-categories-8" class="sidenav__menu">
-                    <li class="sidenav__list">
-                        <a class="collapsed sidenav__drop" tabindex="-1" data-toggle="collapse" data-target="#sidenavFeatured8" aria-expanded="false">
-                            <span> Food</span>
-                            <svg role="img" class="icon icon-angle-down"><use xlink:href="/icons/icons.svg#icon-angle-down"></use></svg>
-                        </a>
-                        <ul id="sidenavFeatured8" class="sidenav__submenu collapse" aria-labelledby="headingOne" data-parent="#sidenav-categories-8">
-                            <li><a tabindex="-1" href="/category/h5iavgZSae/food"><span>All in Food</span></a></li>
-                            
-                        </ul>
-                    </li>
-                </ul>
-            
-        
-        
-            
-                <ul id="sidenav-categories-9" class="sidenav__menu">
-                    <li class="sidenav__list">
-                        <a class="collapsed sidenav__drop" tabindex="-1" data-toggle="collapse" data-target="#sidenavFeatured9" aria-expanded="false">
-                            <span> Office</span>
-                            <svg role="img" class="icon icon-angle-down"><use xlink:href="/icons/icons.svg#icon-angle-down"></use></svg>
-                        </a>
-                        <ul id="sidenavFeatured9" class="sidenav__submenu collapse" aria-labelledby="headingOne" data-parent="#sidenav-categories-9">
-                            <li><a tabindex="-1" href="/category/g9u1IJATNL/office"><span>All in Office</span></a></li>
-                            
-                        </ul>
-                    </li>
-                </ul>
-            
-        
+    <!-- Start top hits-->
     <div class="sidenav__title">
         <svg role="img" tabindex="-1" class="icon icon-shop-collection"><use xlink:href="/icons/icons.svg#icon-shop-collection"></use></svg>
-        <h1>Shop by Collection</h1>
+        <h1>Top Hits</h1>
     </div>
-    <ul id="sidenav-collections" class="sidenav__menu">
+    <ul id="sidenav-top" class="sidenav__menu">
         <li class="sidenav__list" id="sidebar-best-sellers">
             <a tabindex="-1" class="collapsed sidenav__drop" href="/category/XpwzP59wA4/best-sellers" aria-expanded="false">
                 <span>Best Sellers</span>
@@ -1011,7 +959,7 @@
         </li>
         <li class="sidenav__list" id="sidebar-sale">
             <a tabindex="-1" class="collapsed sidenav__drop" href="/category/Z0VeSseXyi/holiday-sale" aria-expanded="false">
-                <span>Sale</span>
+                <span>On Sale</span>
             </a>
         </li>
         <li class="sidenav__list" id="sidebar-winter-collection">
@@ -1019,9 +967,9 @@
                 <span>Winter Collection</span>
             </a>
         </li>
-        <li class="sidenav__list" id="sidebar-christmas-collection">
-            <a tabindex="-1" class="collapsed sidenav__drop" href="/category/J5D3PBkUtH/Christmas-collection" aria-expanded="false">
-                <span>Christmas Collection</span>
+        <li class="sidenav__list" id="sidebar-spring-collection">
+            <a tabindex="-1" class="collapsed sidenav__drop" href="/category/94vuocVx8Y/spring-collection" aria-expanded="false">
+                <span>Spring Collection</span>
             </a>
         </li>
         <li class="sidenav__list" id="sidebar-group-sale">
@@ -1046,31 +994,241 @@
                 <span>Customized Gifts</span>
             </a>
         </li>
-        <li class="sidenav__list" id="sidebar-holiday-giveaway">
-            <a tabindex="-1" class="collapsed sidenav__drop" href="/event/ultimate-giveaway" aria-expanded="false">
-                <span>Holiday Giveaway</span>
+        <li class="sidenav__list" id="sidebar-giftguide">
+            <a tabindex="-1" class="collapsed sidenav__drop" href="/giftGuide" aria-expanded="false">
+                <span>Gift Guide</span>
             </a>
         </li>
+    </ul>
+    <!-- End top hits-->
+    <!-- Start Category-->
+    <div class="sidenav__title">
+        <svg role="img" tabindex="-1" class="icon icon-shop-category"><use xlink:href="/icons/icons.svg#icon-shop-category"></use></svg>
+        <h1>Shop By Category</h1>
+    </div>
+    
+        
+        
+            <ul id="sidenav-categories-0" class="sidenav__menu">
+                <li class="sidenav__list">
+                    <a class="collapsed sidenav__drop" tabindex="-1" data-toggle="collapse" data-target="#sidenavFeatured0" aria-expanded="false">
+                        <span> Gadgets</span>
+                        <svg role="img" class="icon icon-angle-down"><use xlink:href="/icons/icons.svg#icon-angle-down"></use></svg>
+                    </a>
+                    <ul id="sidenavFeatured0" class="sidenav__submenu collapse" aria-label="side navigator categories 0" data-parent="#sidenav-categories-0">
+                        <li><a tabindex="-1" href="/category/8l7ZNCNNBV/gadgets"><span>All in Gadgets</span></a></li>
+                        
+                        <li><a tabindex="-1" href="/category/UVNtNrGUyD/hi-tech"><span>Hi Tech</span></a></li>
+                        
+                        <li><a tabindex="-1" href="/category/9u49AdfAVS/speakers"><span>Speakers</span></a></li>
+                        
+                        <li><a tabindex="-1" href="/category/CNPsz3IKxP/wearables"><span>Wearables</span></a></li>
+                        
+                        <li><a tabindex="-1" href="/category/F8liZb21em/phone-accessories"><span>Phone Accessories</span></a></li>
+                        
+                        <li><a tabindex="-1" href="/category/GPvHafufRM/earphones--headsets"><span>Earphones &amp; Headsets</span></a></li>
+                        
+                        <li><a tabindex="-1" href="/category/Ng0v39bsYf/power-banks"><span>Power Banks</span></a></li>
+                        
+                    </ul>
+                </li>
+            </ul>
+        
+    
+        
+        
+            <ul id="sidenav-categories-1" class="sidenav__menu">
+                <li class="sidenav__list">
+                    <a class="collapsed sidenav__drop" tabindex="-1" data-toggle="collapse" data-target="#sidenavFeatured1" aria-expanded="false">
+                        <span> Fashion &amp; Beauty</span>
+                        <svg role="img" class="icon icon-angle-down"><use xlink:href="/icons/icons.svg#icon-angle-down"></use></svg>
+                    </a>
+                    <ul id="sidenavFeatured1" class="sidenav__submenu collapse" aria-label="side navigator categories 1" data-parent="#sidenav-categories-1">
+                        <li><a tabindex="-1" href="/category/VcGvheAJlk/fashion--beauty"><span>All in Fashion &amp; Beauty</span></a></li>
+                        
+                        <li><a tabindex="-1" href="/category/iSugaFS6d8/jewelry--accessories"><span>Jewelry &amp; Accessories</span></a></li>
+                        
+                        <li><a tabindex="-1" href="/category/SbwuN2f4qp/beauty--health"><span>Beauty &amp; Health</span></a></li>
+                        
+                        <li><a tabindex="-1" href="/category/e58QHPSq4m/bags--wallets"><span>Bags &amp; Wallets</span></a></li>
+                        
+                    </ul>
+                </li>
+            </ul>
+        
+    
+        
+        
+    
+        
+        
+            <ul id="sidenav-categories-3" class="sidenav__menu">
+                <li class="sidenav__list">
+                    <a class="collapsed sidenav__drop" tabindex="-1" data-toggle="collapse" data-target="#sidenavFeatured3" aria-expanded="false">
+                        <span> Outdoor</span>
+                        <svg role="img" class="icon icon-angle-down"><use xlink:href="/icons/icons.svg#icon-angle-down"></use></svg>
+                    </a>
+                    <ul id="sidenavFeatured3" class="sidenav__submenu collapse" aria-label="side navigator categories 3" data-parent="#sidenav-categories-3">
+                        <li><a tabindex="-1" href="/category/uP83qDr3ZS/outdoor"><span>All in Outdoor</span></a></li>
+                        
+                    </ul>
+                </li>
+            </ul>
+        
+    
+        
+        
+            <ul id="sidenav-categories-4" class="sidenav__menu">
+                <li class="sidenav__list">
+                    <a class="collapsed sidenav__drop" tabindex="-1" data-toggle="collapse" data-target="#sidenavFeatured4" aria-expanded="false">
+                        <span> Home Decor</span>
+                        <svg role="img" class="icon icon-angle-down"><use xlink:href="/icons/icons.svg#icon-angle-down"></use></svg>
+                    </a>
+                    <ul id="sidenavFeatured4" class="sidenav__submenu collapse" aria-label="side navigator categories 4" data-parent="#sidenav-categories-4">
+                        <li><a tabindex="-1" href="/category/T1QvG8vUfH/home-decor"><span>All in Home Decor</span></a></li>
+                        
+                        <li><a tabindex="-1" href="/category/0ovFd6dKs8/clocks"><span>Clocks</span></a></li>
+                        
+                        <li><a tabindex="-1" href="/category/2F9oHAFsIm/wall-decor"><span>Wall Decor</span></a></li>
+                        
+                        <li><a tabindex="-1" href="/category/b4OX0QTh4R/cards--gift-wraps"><span>Cards &amp; Gift Wraps</span></a></li>
+                        
+                        <li><a tabindex="-1" href="/category/IN3Tx3hxFq/sculptures--ornaments"><span>Sculptures &amp; Ornaments</span></a></li>
+                        
+                        <li><a tabindex="-1" href="/category/LSIQYaIVim/terrariums--gardens"><span>Terrariums &amp; Gardens</span></a></li>
+                        
+                        <li><a tabindex="-1" href="/category/PmOZKo8aps/planters--vases"><span>Planters &amp; Vases</span></a></li>
+                        
+                        <li><a tabindex="-1" href="/category/dkg3dZZNSp/candles"><span>Candles</span></a></li>
+                        
+                    </ul>
+                </li>
+            </ul>
+        
+    
+        
+        
+            <ul id="sidenav-categories-5" class="sidenav__menu">
+                <li class="sidenav__list">
+                    <a class="collapsed sidenav__drop" tabindex="-1" data-toggle="collapse" data-target="#sidenavFeatured5" aria-expanded="false">
+                        <span> Household</span>
+                        <svg role="img" class="icon icon-angle-down"><use xlink:href="/icons/icons.svg#icon-angle-down"></use></svg>
+                    </a>
+                    <ul id="sidenavFeatured5" class="sidenav__submenu collapse" aria-label="side navigator categories 5" data-parent="#sidenav-categories-5">
+                        <li><a tabindex="-1" href="/category/jdl7JNaCJ4/household"><span>All in Household</span></a></li>
+                        
+                        <li><a tabindex="-1" href="/category/d9RL8I8OJw/blankets-pillows--rugs"><span>Blankets Pillows &amp; Rugs</span></a></li>
+                        
+                        <li><a tabindex="-1" href="/category/2Lhk2I4T2n/lamps--lighting"><span>Lamps &amp; Lighting</span></a></li>
+                        
+                        <li><a tabindex="-1" href="/category/kG3z9kP8Dg/furniture"><span>Furniture</span></a></li>
+                        
+                        <li><a tabindex="-1" href="/category/AEr8UKL4VC/drinkware"><span>Drinkware</span></a></li>
+                        
+                        <li><a tabindex="-1" href="/category/QUDafxyZs4/kitchen"><span>Kitchen</span></a></li>
+                        
+                        <li><a tabindex="-1" href="/category/iGw42If3qj/bath--spa"><span>Bath &amp; Spa</span></a></li>
+                        
+                        <li><a tabindex="-1" href="/category/DOPGXqEPBf/storage--organizers"><span>Storage &amp; Organizers</span></a></li>
+                        
+                        <li><a tabindex="-1" href="/category/BDCftyyVM8/pet-accessories"><span>Pet Accessories</span></a></li>
+                        
+                    </ul>
+                </li>
+            </ul>
+        
+    
+        
+        
+            <ul id="sidenav-categories-6" class="sidenav__menu">
+                <li class="sidenav__list">
+                    <a class="collapsed sidenav__drop" tabindex="-1" data-toggle="collapse" data-target="#sidenavFeatured6" aria-expanded="false">
+                        <span> Apparel &amp; Shoes</span>
+                        <svg role="img" class="icon icon-angle-down"><use xlink:href="/icons/icons.svg#icon-angle-down"></use></svg>
+                    </a>
+                    <ul id="sidenavFeatured6" class="sidenav__submenu collapse" aria-label="side navigator categories 6" data-parent="#sidenav-categories-6">
+                        <li><a tabindex="-1" href="/category/PHrmYMIjEP/apparel--shoes"><span>All in Apparel &amp; Shoes</span></a></li>
+                        
+                    </ul>
+                </li>
+            </ul>
+        
+    
+        
+        
+            <ul id="sidenav-categories-7" class="sidenav__menu">
+                <li class="sidenav__list">
+                    <a class="collapsed sidenav__drop" tabindex="-1" data-toggle="collapse" data-target="#sidenavFeatured7" aria-expanded="false">
+                        <span> Toys</span>
+                        <svg role="img" class="icon icon-angle-down"><use xlink:href="/icons/icons.svg#icon-angle-down"></use></svg>
+                    </a>
+                    <ul id="sidenavFeatured7" class="sidenav__submenu collapse" aria-label="side navigator categories 7" data-parent="#sidenav-categories-7">
+                        <li><a tabindex="-1" href="/category/3YUu4stYDD/toys"><span>All in Toys</span></a></li>
+                        
+                    </ul>
+                </li>
+            </ul>
+        
+    
+        
+        
+            <ul id="sidenav-categories-8" class="sidenav__menu">
+                <li class="sidenav__list">
+                    <a class="collapsed sidenav__drop" tabindex="-1" data-toggle="collapse" data-target="#sidenavFeatured8" aria-expanded="false">
+                        <span> Food</span>
+                        <svg role="img" class="icon icon-angle-down"><use xlink:href="/icons/icons.svg#icon-angle-down"></use></svg>
+                    </a>
+                    <ul id="sidenavFeatured8" class="sidenav__submenu collapse" aria-label="side navigator categories 8" data-parent="#sidenav-categories-8">
+                        <li><a tabindex="-1" href="/category/h5iavgZSae/food"><span>All in Food</span></a></li>
+                        
+                    </ul>
+                </li>
+            </ul>
+        
+    
+        
+        
+            <ul id="sidenav-categories-9" class="sidenav__menu">
+                <li class="sidenav__list">
+                    <a class="collapsed sidenav__drop" tabindex="-1" data-toggle="collapse" data-target="#sidenavFeatured9" aria-expanded="false">
+                        <span> Office</span>
+                        <svg role="img" class="icon icon-angle-down"><use xlink:href="/icons/icons.svg#icon-angle-down"></use></svg>
+                    </a>
+                    <ul id="sidenavFeatured9" class="sidenav__submenu collapse" aria-label="side navigator categories 9" data-parent="#sidenav-categories-9">
+                        <li><a tabindex="-1" href="/category/g9u1IJATNL/office"><span>All in Office</span></a></li>
+                        
+                    </ul>
+                </li>
+            </ul>
+        
+    
+    <!-- End Category-->
+    <!-- Start Collecations-->
+    <div class="sidenav__title">
+        <svg role="img" tabindex="-1" class="icon icon-shop-collection"><use xlink:href="/icons/icons.svg#icon-shop-collection"></use></svg>
+        <h1>Shop by Collection</h1>
+    </div>
+    <ul id="sidenav-collections" class="sidenav__menu">
         <li class="sidenav__list" id="sidebar-gifts-for-loved-ones">
             <a class="collapsed sidenav__drop" data-toggle="collapse" data-target="#sidenavCollection7" aria-expanded="false">
-            <span> Gifts for Loved Ones</span>
-            <svg role="img" class="icon icon-angle-down"><use xlink:href="/icons/icons.svg#icon-angle-down"></use></svg>
+                <span> Gifts for Loved Ones</span>
+                <svg role="img" class="icon icon-angle-down"><use xlink:href="/icons/icons.svg#icon-angle-down"></use></svg>
             </a>
-            <ul id="sidenavCollection7" class="collapse sidenav__submenu" aria-labelledby="headingTwo" data-parent="#sidenav-categories">
-            <li><a href="/category/dC4aXpN1Su/for-kids"><span>For Kids</span></a></li>
-            <li><a href="/category/RLA8FIhi9Z/for-moms"><span>For Mom</span></a></li>
-            <li><a href="/category/736MrEDYVj/for-him"><span>For Him</span></a></li>
-            <li><a href="/category/CGenh3tfQp/for-her"><span>For Her</span></a></li>
-            <li><a href="/category/NCPHrz2hWe/for-dads"><span>For Dad</span></a></li>
-            <li><a href="/category/hjuN1BQTCs/for-grandparents"><span>For Grandparents</span></a></li>
+            <ul id="sidenavCollection7" class="collapse sidenav__submenu" aria-label="side bar gifts for loved ones" data-parent="#sidenav-categories">
+                <li><a href="/category/dC4aXpN1Su/for-kids"><span>For Kids</span></a></li>
+                <li><a href="/category/RLA8FIhi9Z/for-moms"><span>For Mom</span></a></li>
+                <li><a href="/category/736MrEDYVj/for-him"><span>For Him</span></a></li>
+                <li><a href="/category/CGenh3tfQp/for-her"><span>For Her</span></a></li>
+                <li><a href="/category/NCPHrz2hWe/for-dads"><span>For Dad</span></a></li>
+                <li><a href="/category/hjuN1BQTCs/for-grandparents"><span>For Grandparents</span></a></li>
             </ul>
         </li>
         <li class="sidenav__list" id="sidebar-gifts-by-interests">
             <a class="collapsed sidenav__drop" data-toggle="collapse" data-target="#sidenavCollection8" aria-expanded="false">
-            <span>Gifts by Interests</span>
-            <svg role="img" class="icon icon-angle-down"><use xlink:href="/icons/icons.svg#icon-angle-down"></use></svg>
+                <span>Gifts by Interests</span>
+                <svg role="img" class="icon icon-angle-down"><use xlink:href="/icons/icons.svg#icon-angle-down"></use></svg>
             </a>
-            <ul id="sidenavCollection8" class="collapse sidenav__submenu" aria-labelledby="headingTwo" data-parent="#sidenav-categories">
+            <ul id="sidenavCollection8" class="collapse sidenav__submenu" aria-label="side bar gifts by interests" data-parent="#sidenav-categories">
                 <li><a href="/category/NSoxfiKxa8/Cute-Gifts">Cute Gifts</a></li>
                 <li><a href="/category/s7uz5yUImd/Geek">Geek Gifts</a></li>
                 <li><a href="/category/DkDQRUv6ZV/diy">DIY Gifts</a></li>
@@ -1082,15 +1240,15 @@
         </li>
         <li class="sidenav__list">
             <a tabindex="-1" class="collapsed sidenav__drop" data-toggle="collapse" data-target="#sidenavCollection9" aria-expanded="false">
-            <span>Gifts by Prices</span>
-            <svg role="img" class="icon icon-angle-down"><use xlink:href="/icons/icons.svg#icon-angle-down"></use></svg>
+                <span>Gifts by Prices</span>
+                <svg role="img" class="icon icon-angle-down"><use xlink:href="/icons/icons.svg#icon-angle-down"></use></svg>
             </a>
-            <ul id="sidenavCollection9" class="collapse sidenav__submenu" aria-labelledby="headingTwo" data-parent="#sidenav-categories">
-            <li><a href="/category/oDjf861NU2/gifts-under-15"><span>Gifts under $15</span></a></li>
-            <li><a href="/category/ooridrnTnC/gifts-15-25"><span>Gifts $15-$25</span></a></li>
-            <li><a href="/category/JzEBShnt1v/gifts-25-50"><span>Gifts $25-$50</span></a></li>
-            <li><a href="/category/xDixU6QyQK/gifts-50-100"><span>Gifts $50-$100</span></a></li>
-            <li><a href="/category/pWUL9FRYX9/gifts-100"><span>Gifts $100+</span></a></li>
+            <ul id="sidenavCollection9" class="collapse sidenav__submenu" aria-label="Gifts by Prices" data-parent="#sidenav-categories">
+                <li><a href="/category/oDjf861NU2/gifts-under-15"><span>Gifts under $15</span></a></li>
+                <li><a href="/category/ooridrnTnC/gifts-15-25"><span>Gifts $15-$25</span></a></li>
+                <li><a href="/category/JzEBShnt1v/gifts-25-50"><span>Gifts $25-$50</span></a></li>
+                <li><a href="/category/xDixU6QyQK/gifts-50-100"><span>Gifts $50-$100</span></a></li>
+                <li><a href="/category/pWUL9FRYX9/gifts-100"><span>Gifts $100+</span></a></li>
             </ul>
         </li>
         <li class="sidenav__list">
@@ -1103,41 +1261,65 @@
                 <span>Gift Card</span>
             </a>        
         </li>
-        <li class="sidenav__list" id="sidebar-last-minute-gifts">
-            <a tabindex="-1" class="collapsed sidenav__drop" href="/category/ivEtDFtHHN/group-sale" aria-expanded="false">
-                <span>Group Sale</span>
+    </ul>
+    <!-- End Collections-->
+    <!-- Start Footer Links-->
+    <div class="sidenav__title">
+        <svg role="img" tabindex="-1" class="icon icon-shop-collection"><use xlink:href="/icons/icons.svg#icon-shop-collection"></use></svg>
+        <h1>Links</h1>
+    </div>
+    <ul id="sidenav-links" class="sidenav__menu">
+        <li class="sidenav__list">
+            <a tabindex="-1" class="collapsed sidenav__drop" data-toggle="collapse" data-target="#sidenavLinks1" aria-expanded="false">
+            <span>About ApolloBox</span>
+            <svg role="img" class="icon icon-angle-down"><use xlink:href="/icons/icons.svg#icon-angle-down"></use></svg>
             </a>
+            <ul id="sidenavLinks1" class="collapse sidenav__submenu" aria-label="side navigator links about ApolloBox" data-parent="#sidenav-links">
+                <li><a href="/contact-us"><span>Contact Us</span></a></li>
+                <li><a href="/customerOrderEntrance"><span>Find My Order</span></a></li>
+                <li><a href="/shipping-return-policy"><span>Shipping &amp; Return</span></a></li>
+                <li><a href="/about"><span>About Us</span></a></li>
+            </ul>
+        </li>
+        <li class="sidenav__list">
+            <a tabindex="-1" class="collapsed sidenav__drop" data-toggle="collapse" data-target="#sidenavLinks2" aria-expanded="false">
+            <span>Community</span>
+            <svg role="img" class="icon icon-angle-down"><use xlink:href="/icons/icons.svg#icon-angle-down"></use></svg>
+            </a>
+            <ul id="sidenavLinks2" class="collapse sidenav__submenu" aria-label="side navigator links about community" data-parent="#sidenav-links">
+                <li><a href="/events"><span>Events</span></a></li>
+                <li><a href="/affiliate"><span>Affiliate Program</span></a></li>
+                <li><a href="/rewards"><span>Rewards</span></a></li>
+                <li><a href="/event/ultimate-giveaway"><span>Giveaway</span></a></li>
+            </ul>
+        </li>
+        <li class="sidenav__list">
+            <a tabindex="-1" class="collapsed sidenav__drop" data-toggle="collapse" data-target="#sidenavLinks3" aria-expanded="false">
+            <span>Discover</span>
+            <svg role="img" class="icon icon-angle-down"><use xlink:href="/icons/icons.svg#icon-angle-down"></use></svg>
+            </a>
+            <ul id="sidenavLinks3" class="collapse sidenav__submenu" aria-label="side navigator links about discover" data-parent="#sidenav-links">
+                <li><a href="http://blog.theapollobox.com/?utm_source=apollobox&amp;utm_medium=referral&amp;utm_campaign=apollobox"><span>Blog</span></a></li>
+                <li><a href="/giftGuide"><span>Gift Guide</span></a></li>
+                <li><a href="/review"><span>Customer Review</span></a></li>
+            </ul>
+        </li>
+        <li class="sidenav__list">
+                <a tabindex="-1" class="collapsed sidenav__drop" data-toggle="collapse" data-target="#sidenavLinks4" aria-expanded="false">
+                <span>Stay Connected</span>
+                <svg role="img" class="icon icon-angle-down"><use xlink:href="/icons/icons.svg#icon-angle-down"></use></svg>
+                </a>
+                <ul id="sidenavLinks4" class="collapse sidenav__submenu" aria-label="side navigator links about staying Connected" data-parent="#sidenav-links">
+                    <li><a href="https://theapollobox.com/mobile-app"><span>Mobile App</span></a></li>
+                    <li><a href="https://www.facebook.com/theapollobox"><span>Facebook</span></a></li>
+                    <li><a href="https://www.instagram.com/theapollobox/"><span>Instagram</span></a></li>
+                    <li><a href="https://twitter.com/theApollobox"><span>Twitter</span></a></li>
+                    <li><a href="https://www.pinterest.com/apollobox/"><span>Pinterest</span></a></li>
+                </ul>
         </li>
     </ul>
-    <!-- <div class="sidenav__title">
-        <h1>Filter by Prices</h1>
-    </div>
-    <div class="sidenav__filters">
-        <div class="checkbox">
-            <input type="checkbox" id="price1" name="price" onchange="window.location.href='../oDjf861NU2/gifts-under-15'">
-            <label class="checkbox__label" for="price1">
-            <p class="checkbox__text">&lt; $15</p>
-            </label>
-        </div>
-        <div class="checkbox">
-            <input type="checkbox" id="price2" name="price" onchange="window.location.href='../ooridrnTnC/gifts-1525'">
-            <label class="checkbox__label" for="price2">
-            <p class="checkbox__text">$15 - $50</p>
-            </label>
-        </div>
-        <div class="checkbox">
-            <input type="checkbox" id="price3" name="price" onchange="window.location.href='../JzEBShnt1v/gifts-2550'">
-            <label class="checkbox__label" for="price3">
-            <p class="checkbox__text">$50 - $100</p>
-            </label>
-        </div>
-        <div class="checkbox">
-            <input type="checkbox" id="price4" name="price" onchange="window.location.href='../xDixU6QyQK/gifts50to100'">
-            <label class="checkbox__label" for="price4">
-            <p class="checkbox__text">&gt; $100</p>
-            </label>
-        </div>
-    </div> -->
+    <!-- End Footer Links-->
+
 </div>
 <!-- / SIDENAV -->
 <style>
@@ -1269,7 +1451,7 @@
   <div class="modal fade" id="signupModal" role="dialog" tabindex="-1" aria-labelledby="footerBeginSignInTitle">
     <div class="modal-dialog">
       <div class="modal-content">
-        <button type="button" class="close focus-outline" data-dismiss="modal" aria-hidden="true">
+        <button type="button" class="close focus-outline" aria-label="close sign up modal" data-dismiss="modal" aria-hidden="true">
           <svg role="img" class="icon icon-x"><use xlink:href="/icons/icons.svg#icon-x"></use></svg>
         </button>
         <div class="modal-body">
@@ -1277,7 +1459,7 @@
           <p id="footerBeginSignUpTitle">Join Apollo Box to get excitement every day.</p>
 
           <a href="/fblogin" class="btn btn--lg btn--full btn--facebook focus-outline">
-            <img src="/icons/FB-f-Logo__white_29.png" alt="">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+            <img src="https://rs.apolloboxassets.com/hosted/icons/FB-f-Logo__white_29.png" alt="">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
              Continue with Facebook
           </a>
 
@@ -1285,15 +1467,15 @@
 
           <form style="text-align:left;">
             <div class="form-group form-group--label">
-                <input type="text" class="form-control" id="signupEmail" name="signupEmail">
+                <input type="text" class="form-control" id="signupEmail" name="signupEmail" autocomplete="username email">
                 <label for="signupEmail">Email</label>
             </div>
             <div class="form-group form-group--label">
-                <input type="password" class="form-control" id="signupPassword" name="signupPassword">
+                <input type="password" class="form-control" id="signupPassword" name="signupPassword" autocomplete="new-password">
                 <label for="signupPassword">Create Password</label>
             </div>
             <div class="form-group form-group--label">
-                <input type="password" class="form-control" id="signupPasswordConfirm" name="signupPasswordConfirm">
+                <input type="password" class="form-control" id="signupPasswordConfirm" name="signupPasswordConfirm" autocomplete="new-password">
                 <label for="signupPasswordConfirm">Confirm Password</label>
             </div>
             <div class="form-group form-group--label">
@@ -1317,14 +1499,14 @@
   <div class="modal fade" id="loginModal" tabindex="-1" role="dialog" aria-labelledby="footerBeginSignInTitle">
     <div class="modal-dialog">
       <div class="modal-content">
-        <button type="button" class="close focus-outline" data-dismiss="modal" aria-hidden="true">
+        <button type="button" class="close focus-outline" aria-label="close sign up modal" data-dismiss="modal" aria-hidden="true">
           <svg role="img" class="icon icon-x"><use xlink:href="/icons/icons.svg#icon-x"></use></svg>
         </button>
         <div class="modal-body">
           <h4 class="modal__title" id="footerBeginSignInTitle">Welcome back!</h4>
 
           <a href="/fblogin" class="btn btn--lg btn--full btn--facebook focus-outline" aria-label="Continue with Facebook">
-            <img src="/icons/FB-f-Logo__white_29.png" alt="Continue with Facebook">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+            <img src="https://rs.apolloboxassets.com/hosted/icons/FB-f-Logo__white_29.png" alt="Continue with Facebook">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
              Continue with Facebook
 					</a>
 					
@@ -1332,10 +1514,10 @@
 
           <form>
             <div class="form-group">
-              <input type="email" class="form-control " aria-label="Input your Email" id="loginEmail" placeholder="Email">
+              <input type="email" class="form-control " aria-label="Input your Email" id="loginEmail" placeholder="Email" autocomplete="username email">
             </div>
             <div class="form-group form-group--link">
-              <input type="password" class="form-control " aria-label="Input Your Password" id="loginPassword" placeholder="Password">
+              <input type="password" class="form-control " aria-label="Input Your Password" id="loginPassword" placeholder="Password" autocomplete="current-password">
               <a href="/forgetpassword" class="link">Forgot?</a>
             </div>
             <div class="g-recaptcha text-center col-sm-12 focus-outline" role="checkbox" aria-label="google bot adjust" style="margin-bottom: 10px; padding:0px;" data-sitekey="6LfYsS4UAAAAAI86-j5ZkodxOAeiB9TZ7Dg-EAXy" id="loginReCaptcha"></div>
@@ -1359,7 +1541,7 @@
       <div class="flipper">
         <!-- SIDE A -->
         <div class="modal-content modal-content--stars front">
-          <button type="button" class="close" data-dismiss="modal" aria-hidden="true">
+          <button type="button" class="close" data-dismiss="modal" aria-label="close login modal" aria-hidden="true">
             <svg role="img" class="icon icon-x"><use xlink:href="/icons/icons.svg#icon-x"></use></svg>
           </button>
           <div class="modal-body">
@@ -1367,7 +1549,7 @@
 						<h4 class="modal__title">Become an Apollo member. <br> Enjoy <span>10% off</span> for your first purchase.*</h4>
 
             <a href="/fblogin" class="btn btn--lg btn--full btn--facebook btn--white">
-              <img src="/icons/FB-f-Logo__blue_29.png" alt="">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+              <img src="https://rs.apolloboxassets.com/hosted/icons/FB-f-Logo__blue_29.png" alt="">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
              Continue with Facebook
             </a>
 						<br>
@@ -1379,14 +1561,14 @@
 
         <!-- SIDE B -->
         <div class="modal-content back">
-          <button type="button" class="close" data-dismiss="modal" aria-hidden="true">
+          <button type="button" class="close" aria-label="close back modal" data-dismiss="modal" aria-hidden="true">
             <svg role="img" class="icon icon-x"><use xlink:href="/icons/icons.svg#icon-x"></use></svg>
           </button>
           <div class="modal-body">
             <h4 class="modal__title">Welcome back!</h4>
 
             <a href="/fblogin" class="btn btn--lg btn--full btn--facebook">
-              <img src="/icons/FB-f-Logo__white_29.png" alt="">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+              <img src="https://rs.apolloboxassets.com/hosted/icons/FB-f-Logo__white_29.png" alt="">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
              Continue with Facebook
             </a>
 
@@ -1394,10 +1576,10 @@
 
             <form action="#">
               <div class="form-group">
-                <input type="email" class="form-control" id="loginRequestEmail" placeholder="Email">
+                <input type="email" class="form-control" id="loginRequestEmail" aria-label="login request email" placeholder="Email" autocomplete="username">
               </div>
               <div class="form-group form-group--link">
-                <input type="password" class="form-control" id="loginRequestPassword" placeholder="Password">
+                <input type="password" class="form-control" id="loginRequestPassword" aria-label="login request password" placeholder="Password" autocomplete="current-password">
                 <a href="/forgetpassword" class="link">Forgot?</a>
 							</div>
               <p id="loginRequestStatusText"></p>
@@ -1468,11 +1650,6 @@
 								</a>
 							</li>
 							<li><a href="/accessibility"><span>Accessibility</span></a></li>
-							<li>
-								<a href="http://ar.theapollobox.com/?utm_source=apollobox&amp;utm_campaign=footer&amp;utm_medium=web">
-									<span>Augmented Reality Shopping</span>
-								</a>
-							</li>
 						</ul>
 					</div>
 				</div>	
@@ -1620,62 +1797,61 @@
 			</div>
 		</div>
 		<p class="footer__copyright">
-			© 2015-2018, ApolloBox Tech LLC.
+			© 2015-2019, ApolloBox Tech LLC.
 		</p>
 </footer>
 <!-- / FOOTER -->
 
 <script src="https://www.google.com/recaptcha/api.js"></script>
 
-<script type="text/javascript" src="/js/lib/modernizr.js"></script>
 
-<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
+<script src="https://rs.apolloboxassets.com/hosted/dist/main10.min.js"></script>
 
-<script type="text/javascript" src="/js/bootbox.min.js"></script>
 
-<script type="text/javascript" src="/js/plugins/owl.carousel.min.js"></script>
-
-<script type="text/javascript" src="/js/jquery.fancybox.pack.js?v=2.1.5"></script>
-<script type="text/javascript" src="/js/jquery.custom-file-input.js"></script>
-
-<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.9/umd/popper.min.js" integrity="sha384-ApNbgh9B+Y1QKtv3Rn7W3mgPxhU9K/ScQsAP7hUibX39j7fakFPskvXusvfa0b4Q" crossorigin="anonymous"></script>
-<script type="text/javascript" src="/js/bootstrap-new.min.js"></script>
-<script src="https://cdnjs.cloudflare.com/ajax/libs/svg4everybody/2.1.9/svg4everybody.min.js"></script>
-
-<!-- Plugins -->
-<script src="https://cdn.jsdelivr.net/npm/slick-carousel@1.8.1/slick/slick.min.js"></script>
-<script src="https://cdnjs.cloudflare.com/ajax/libs/select2/4.0.6-rc.0/js/select2.min.js"></script>
-<script src="/js/init_new.js"></script>
+<!-- define stripe key if in the dev env -->
 
 
 
-<!-- <script async defer src="//assets.pinterest.com/js/pinit.js"></script> -->
-
-<script type="text/javascript" src="/js/waterfall-light.js"></script>
-
-<script type="text/javascript" src="/js/imagesloaded.pkgd.min.js"></script>
 
 
+<!-- 
+	<script type="text/javascript" src="/js/lib/modernizr.js"></script>
+	<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
+	<script type="text/javascript" src="/js/lib/bootbox.min.js"></script>
+	<script type="text/javascript" src="/js/lib/jquery.fancybox.pack.js?v=2.1.5"></script>
+	<script type="text/javascript"  src="/js/lib/jquery.custom-file-input.js"></script>
+	<script src="/js/lib/popper.min.js" integrity="sha384-ApNbgh9B+Y1QKtv3Rn7W3mgPxhU9K/ScQsAP7hUibX39j7fakFPskvXusvfa0b4Q" crossorigin="anonymous"></script>
+	<script type="text/javascript" src="/js/lib/bootstrap-new.min.js"></script>
+	<script src="/js/lib/svg4everybody.min.js"></script> -->
+	<!-- Plugins -->
+	<!-- <script src="/js/lib/slick.min.js"></script>
+	<script src="/js/lib/select2.min.js"></script>
+	<script src="/js/lib/init_new.js"></script>
+	<script src="/js/lib/lazysizes.min.js"></script>
+	<script src="/js/lib/ls.unveilhooks.min.js"></script> 
+	<script async defer src="//assets.pinterest.com/js/pinit.js"></script>
+	<script type="text/javascript" src="/js/lib/waterfall-light.js"></script>
+	<script type="text/javascript" src="/js/lib/imagesloaded.pkgd.min.js"></script>
+	<script type="text/javascript" src="/js/lib/custom3.js"></script> 
+-->
 
-<script type="text/javascript" src="/js/custom-overwrite-prod.js"></script>
 
-<script type="text/javascript" src="/js/custom3.js"></script>
 
 
 <!-- Facebook Pixel Code -->
-  <script>
+<script>
   !function(f,b,e,v,n,t,s){if(f.fbq)return;n=f.fbq=function(){n.callMethod?
-    n.callMethod.apply(n,arguments):n.queue.push(arguments)};if(!f._fbq)f._fbq=n;
-    n.push=n;n.loaded=!0;n.version='2.0';n.queue=[];t=b.createElement(e);t.async=!0;
-    t.src=v;s=b.getElementsByTagName(e)[0];s.parentNode.insertBefore(t,s)}(window,
-    document,'script','https://connect.facebook.net/en_US/fbevents.js');
-    
+	n.callMethod.apply(n,arguments):n.queue.push(arguments)};if(!f._fbq)f._fbq=n;
+	n.push=n;n.loaded=!0;n.version='2.0';n.queue=[];t=b.createElement(e);t.async=!0;
+	t.src=v;s=b.getElementsByTagName(e)[0];s.parentNode.insertBefore(t,s)}(window, 
+	document,'script','https://connect.facebook.net/en_US/fbevents.js');
+
   fbq('init', '763333207082582');
-  fbq('track', "PageView");
-  </script>
-  <noscript><img height="1" width="1" style="display:none"
+  fbq('track', 'PageView');
+</script>
+<noscript><img height="1" width="1" style="display:none"
   src="https://www.facebook.com/tr?id=763333207082582&ev=PageView&noscript=1"
-  /></noscript>
+/></noscript>
 <!-- END Facebook Pixel Code -->
 
 
@@ -1685,10 +1861,10 @@
 	var google_conversion_id = 974567356;
 	var google_custom_params = window.google_tag_params;
 	var google_remarketing_only = true;
-	$('#switchToRegisterForm').blur(function(e){
+	$('#switchToRegisterForm').on('blur',function(e){
 		$('.close').trigger('focus');
 	})
-	$('#lastEleOfSignupModel').blur(function(e){
+	$('#lastEleOfSignupModel').on('blur',function(e){
 		$('.close').trigger('focus');
 	})
 
@@ -1702,38 +1878,117 @@
 	</div>
 	</noscript>
 
-
 	<!-- upsellit -->
 	<script type="text/javascript"> var usi_installed = 0; function USI_installCode() { if (usi_installed == 0) { usi_installed = 1; var USI_headID = document.getElementsByTagName("head")[0]; var USI_installID = document.createElement('script'); USI_installID.type = 'text/javascript'; USI_installID.src = '//www.upsellit.com/active/apollobox.jsp'; USI_headID.appendChild(USI_installID); } } if (window.addEventListener){ window.addEventListener('load', USI_installCode, true); } else if (window.attachEvent) { window.attachEvent('onload', USI_installCode); } else { USI_installCode(); } setTimeout("USI_installCode()", 10000); </script>
 	<!-- end upsellit-->
 
 	
+	
+	<!-- functions about get country flag  -->
+	<script>
+			var getRemoteCountryFlag = function(){
+				return 'US';
+			}  
+			var getRemoteFlagPriority = function(){ 
+				return 8;
+			}
+	</script>
+	<script>
+		$(function(){
+			// to resolve accessibility problem about lossing corresponding label
+			setTimeout(() => {
+				// $('#g-recaptcha-response').before('<label style="display:none" for="g-recaptcha-response">recaptcha</label>');
+				// TODO need to ask recaptcha why
+			}, 2000);
+		})
+	</script>
+	
 
 
-<!-- begin olark code -->
-<script data-cfasync="false" type="text/javascript">/*<![CDATA[*/window.olark||(function(c){var f=window,d=document,l=f.location.protocol=="https:"?"https:":"http:",z=c.name,r="load";var nt=function(){
-f[z]=function(){
-(a.s=a.s||[]).push(arguments)};var a=f[z]._={
-},q=c.methods.length;while(q--){(function(n){f[z][n]=function(){
-f[z]("call",n,arguments)}})(c.methods[q])}a.l=c.loader;a.i=nt;a.p={
-0:+new Date};a.P=function(u){
-a.p[u]=new Date-a.p[0]};function s(){
-a.P(r);f[z](r)}f.addEventListener?f.addEventListener(r,s,false):f.attachEvent("on"+r,s);var ld=function(){function p(hd){
-hd="head";return["<",hd,"></",hd,"><",i,' onl' + 'oad="var d=',g,";d.getElementsByTagName('head')[0].",j,"(d.",h,"('script')).",k,"='",l,"//",a.l,"'",'"',"></",i,">"].join("")}var i="body",m=d[i];if(!m){
-return setTimeout(ld,100)}a.P(1);var j="appendChild",h="createElement",k="src",n=d[h]("div"),v=n[j](d[h](z)),b=d[h]("iframe"),g="document",e="domain",o;n.style.display="none";m.insertBefore(n,m.firstChild).id=z;b.frameBorder="0";b.id=z+"-loader";if(/MSIE[ ]+6/.test(navigator.userAgent)){
-b.src="javascript:false"}b.allowTransparency="true";v[j](b);try{
-b.contentWindow[g].open()}catch(w){
-c[e]=d[e];o="javascript:var d="+g+".open();d.domain='"+d.domain+"';";b[k]=o+"void(0);"}try{
-var t=b.contentWindow[g];t.write(p());t.close()}catch(x){
-b[k]=o+'d.write("'+p().replace(/"/g,String.fromCharCode(92)+'"')+'");d.close();'}a.P(2)};ld()};nt()})({
-loader: "static.olark.com/jsclient/loader0.js",name:"olark",methods:["configure","extend","declare","identify"]});
-/* custom configuration goes here (www.olark.com/documentation) */
-olark.identify('6527-402-10-2596');/*]]>*/</script><noscript><a href="https://www.olark.com/site/6527-402-10-2596/contact" title="Contact us" target="_blank">Questions? Feedback?</a> powered by <a href="http://www.olark.com?welcome" title="Olark live chat software">Olark live chat software</a></noscript>
-<!-- end olark code -->
+  <!-- begin olark code -->
+  <script data-cfasync="false" type="text/javascript">/*<![CDATA[*/window.olark||(function(c){var f=window,d=document,l=f.location.protocol=="https:"?"https:":"http:",z=c.name,r="load";var nt=function(){
+  f[z]=function(){
+  (a.s=a.s||[]).push(arguments)};var a=f[z]._={
+  },q=c.methods.length;while(q--){(function(n){f[z][n]=function(){
+  f[z]("call",n,arguments)}})(c.methods[q])}a.l=c.loader;a.i=nt;a.p={
+  0:+new Date};a.P=function(u){
+  a.p[u]=new Date-a.p[0]};function s(){
+  a.P(r);f[z](r)}f.addEventListener?f.addEventListener(r,s,false):f.attachEvent("on"+r,s);var ld=function(){function p(hd){
+  hd="head";return["<",hd,"></",hd,"><",i,' onl' + 'oad="var d=',g,";d.getElementsByTagName('head')[0].",j,"(d.",h,"('script')).",k,"='",l,"//",a.l,"'",'"',"></",i,">"].join("")}var i="body",m=d[i];if(!m){
+  return setTimeout(ld,100)}a.P(1);var j="appendChild",h="createElement",k="src",n=d[h]("div"),v=n[j](d[h](z)),b=d[h]("iframe"),g="document",e="domain",o;n.style.display="none";m.insertBefore(n,m.firstChild).id=z;b.frameBorder="0";b.id=z+"-loader";if(/MSIE[ ]+6/.test(navigator.userAgent)){
+  b.src="javascript:false"}b.allowTransparency="true";v[j](b);try{
+  b.contentWindow[g].open()}catch(w){
+  c[e]=d[e];o="javascript:var d="+g+".open();d.domain='"+d.domain+"';";b[k]=o+"void(0);"}try{
+  var t=b.contentWindow[g];t.write(p());t.close()}catch(x){
+  b[k]=o+'d.write("'+p().replace(/"/g,String.fromCharCode(92)+'"')+'");d.close();'}a.P(2)};ld()};nt()})({
+  loader: "static.olark.com/jsclient/loader0.js",name:"olark",methods:["configure","extend","declare","identify"]});
+  /* custom configuration goes here (www.olark.com/documentation) */
+  olark.identify('6527-402-10-2596');/*]]>*/</script><noscript><a href="https://www.olark.com/site/6527-402-10-2596/contact" title="Contact us" target="_blank">Questions? Feedback?</a> powered by <a href="http://www.olark.com?welcome" title="Olark live chat software">Olark live chat software</a></noscript>
+  <!-- end olark code -->
+
 
 	<script>
 		ga('send', 'pageview');
 	</script>
 
+<script>
+  console.log('locals.countryFlag is US');
+</script>
+<script>
+  // caculate color's contrast ratio on white(#fff).
+  function caculateLuminanceRatio(r,g,b){
+			var RsRGB = r/255;
+			var GsRGB = g/255;
+			var BsRGB = b/255;
+			var R = (RsRGB <= 0.03928) ? RsRGB/12.92 : Math.pow((RsRGB+0.055)/1.055, 2.4);
+			var G = (GsRGB <= 0.03928) ? GsRGB/12.92 : Math.pow((GsRGB+0.055)/1.055, 2.4);
+			var B = (BsRGB <= 0.03928) ? BsRGB/12.92 : Math.pow((BsRGB+0.055)/1.055, 2.4);
+    	var curColorLuminance = 0.2126 * R + 0.7152 * G + 0.0722 * B;
+			var whiteLuminance = 1;
+			var luminanceRatio = (whiteLuminance+0.05)/(curColorLuminance+0.05)
+			return luminanceRatio;
+	}
+	// caculateLuminanceRatio(20, 127, 148);
+	var adjustIfLowContrast = function(colorStr){
+		// the limite is according to the standard of WCAG2.0
+		var highLimiteRatio= 4.5;
+		var lowLimiteRatio= 1.5;
+		var parts = colorStr.match(/^rgb\((\d+),\s*(\d+),\s*(\d+)\)$/).slice(1,4);
+		parts = parts.map(function(item){
+			return parseInt(item);
+		})
+		var curRatio = caculateLuminanceRatio(parts[0],parts[1],parts[2]);
+		return (highLimiteRatio>curRatio)&&(lowLimiteRatio<curRatio);
+	}
+		
+	$(function(){
+		try{
+			var contrastRate = localStorage.getItem('contrastRate');
+			if(contrastRate=='high'){
+				// Convert low mode to the high mode. 
+				$("*").each(function(){
+					var color = $(this).css('color');
+					var bgColor = $(this).css('background-color');
+					if(color&&color[3]!='a'){
+						if(adjustIfLowContrast(color)){
+							$(this).css({
+								color:'#147F94'
+							})
+						}
+					}
+					if(bgColor&&bgColor[3]!='a'){
+						if(adjustIfLowContrast(bgColor)){
+							$(this).css({
+								'background-color':'#147F94'
+							})
+						}
+					}
+				})
+			}
+		}catch(err){
+			console.log('error with contrast adjustment',err);
+		}
+ 	})
+</script>
 
 </body></html>
