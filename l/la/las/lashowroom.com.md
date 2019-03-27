@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lashowroom.com privacy policy that was archived on 2018-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181222021927id_/https%3A//www.lashowroom.com/company/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lashowroom.com privacy policy that was archived on 2019-03-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190327091949id_/https%3A//www.lashowroom.com/company/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy − LAShowroom.com
 
