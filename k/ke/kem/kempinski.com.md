@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the kempinski.com privacy policy that was archived on 2018-08-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180814174248id_/http%3A//www.kempinski.com/en/hotels/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kempinski.com privacy policy that was archived on 2019-03-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190327175711id_/https%3A//www.kempinski.com/en/hotels/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Kempinski Hotels
 
-This website www.kempinski.com (“Website”) is made available to you by Kempinski Hotels S.A., Boulevard du Pont-d'Arve 28, 1205 Genève, Switzerland hereinafter referred to as “Kempinski”, “we” or “us”. We comply with data protection legislation such as the EU General Data Protection Regulation, which regulates the processing of personal data relating to you and grants you various rights in respect of your personal data. The aim of this Privacy Policy is to inform you about how we will use your personal data you provide to us through this Website, in connection with hotel bookings, your stay at hotels of the Kempinski group as well as personal data provided and/or collected by us through other channels. We also inform you about your rights under applicable data protection law with respect to the handling of your Personal Data by us. Before providing us with Personal Data we recommend that you read this Privacy Policy which also forms part of our Terms and Conditions that govern our hotel services.
+This website www.kempinski.com (“Website”) is made available to you by Kempinski Hotels S.A., Boulevard du Pont-d'Arve 28, 1205 Genève, Switzerland hereinafter referred to as “Kempinski”, “we” or “us”. We comply with data protection legislation such as the EU General Data Protection Regulation and the Personal Data Protection Act 2012 of Singapore, which regulates the processing of personal data relating to you and grants you various rights in respect of your personal data. The aim of this Privacy Policy is to inform you about how we will use your personal data you provide to us through this Website, in connection with hotel bookings, your stay at hotels of the Kempinski group as well as personal data provided and/or collected by us through other channels. We also inform you about your rights under applicable data protection law with respect to the handling of your Personal Data by us. Before providing us with Personal Data we recommend that you read this Privacy Policy which also forms part of our Terms and Conditions that govern our hotel services.
 
 > I. What is Personal Data?
 
@@ -163,7 +163,7 @@ We will not transfer your personal data to third-party recipients unless you con
 
 > IV. Transfer of Personal Data to a third country
 
-Where information is transferred outside the European Economic Area, we will ensure that appropriate safeguards are implemented. If your Personal Data is transferred to a country that is not subject to an adequacy decision by the EU Commission, data is adequately protected by EU Commission approved standard contractual clauses, an appropriate Privacy Shield certification or a third party’s Binding Corporate Rules.
+Where information is transferred outside the European Economic Area or Singapore, we will ensure that appropriate safeguards are implemented. If your Personal Data is transferred to a country that is not subject to an adequacy decision by the EU Commission or the Personal Data Protection Commission of Singapore, data is adequately protected by EU Commission approved standard contractual clauses, an appropriate Privacy Shield certification or a third party’s Binding Corporate Rules.
 
 > V. Social Media Buttons
 
