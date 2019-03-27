@@ -1,167 +1,63 @@
-> *The following text is extracted and transformed from the goldline.com privacy policy that was archived on 2017-01-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170111104822id_/https%3A//www.goldline.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the goldline.com privacy policy that was archived on 2019-03-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190327111301id_/https%3A//www.goldline.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Goldline Buy Gold and Silver at Goldline
 
-**Table of Contents**
+Information Use and Disclosure. 
 
-  * Information Collection and Use
-  * Data Security
-  * Google Analytics Privacy Policy
-  * Opt Out/Corrections
-  * Monitoring/Recording of Telephone Calls
-  * Offline Collection, Use & Disclosure of Information
-  * Updates to this Policy
-  * Your California Privacy Rights
-
-
-
-Thank you for accessing Goldline's Website ("Site") operated by Goldline, LLC We respect your privacy and want to protect your personal information. To learn more, please read this Privacy Policy.
-
-This Privacy Policy explains how we collect, use and (under certain conditions) disclose your personal information. This Privacy Policy also explains the steps we have taken to secure your personal information. Finally, this Privacy Policy explains your options regarding the collection, use and disclosure of your personal information. By visiting the Site directly or through another site, you accept the practices described in this Policy.
-
- **This privacy policy applies to the Site. This privacy policy does not necessarily apply to any offline collection of your personal information. Please see below for details.**
-
- **We are not responsible for the content or privacy practices on any web site not operated by Goldline, LLC to which the Site links or that links to the Site.**
-
-## INFORMATION COLLECTION AND USE
-
-  1.  **Information Collection.**
-
-We collect information from you in several different ways on this Site. One goal in collecting personal information from you is to provide an efficient, meaningful, and customized experience. For example, we can use your personal information to:
-
-    * help us create content that is most relevant to you.
-    * alert you to new information, products, and services that we offer.
-    1. Registration and Ordering. Before subscribing to certain features, you must complete an online registration form. During registration, you will be prompted to provide to us certain personal information including, but not limited to, your name, address, telephone number and email address. If you choose to purchase a product online, we will ask for your name, telephone number, billing address and credit card number and related information. These kinds of personal information are used for billing purposes, to fulfill your orders, to communicate with you about your order and the Sites, and for internal marketing purposes. If we encounter a problem when processing your order, your personal information may be used to contact you. We may also use your personal information to verify the delivery or credit card information or otherwise conduct due diligence to ensure proper processing of your order and to minimize the risk of fraudulent transactions. In conducting due diligence, we may acquire additional personal information from third parties such as Accurint. We also may verify your personal information including addresses and telephone numbers using third party providers.
-    2. Forms and applications. Several forms such as our Account Agreement may be completed and submitted online. These forms generally ask for personal information such as your name, address, telephone number and email address. Depending on the form or application, this information is used to set up an account, complete an order, contact your about your order, provide email newsalerts and other email marketing and for internal marketing purposes. You may also download forms from the Site which are then transmitted to Goldline. These forms ask for personal information which may include your name, address, telephone number, driver's license number, email address, Social Security Number, and date of birth.
-    3. Email Addresses. Several locations of the Site permit you to enter your email address for purposes including but not limited to: registering for information or to access certain information, sign up for email newsalerts and special offers; or to order a product online.
-    4. Log Files. As is true of most web sites, the Site server automatically recognizes the Internet URL from which you access the Site. We may also log your Internet protocol ("IP") address, Internet service provider, and date/time stamp for system administration, order verification, internal marketing, and system troubleshooting purposes. (An IP address may indicate the location of your computer on the Internet.)
-    5. Goldline does not respond to web browser “do not track” signals or other mechanisms that provide consumers the ability to exercise choice regarding the collection of personally identifiable information about an individual consumer’s online activities over time and across third-party Web sites or online service collection.
-    6. Our Company Commitment to Children's Privacy. Protecting children's privacy is especially important to us. It is our policy to comply with the Children's Online Privacy Protection Act of 1998 and all other applicable laws. We therefore do not knowingly or intentionally collect personal information from persons who are under eighteen (18) years of age. If you are under the age of eighteen (18), you are not permitted to access this website and/or to submit any personal information via this website. Due to the age restrictions for use of this website as stated herein, no information obtained by this website falls within the purview of the Children's Online Privacy Protection Act, and information submitted to this site is not monitored for such purposes.
-    7. Social Security Numbers. We collect Social Security Numbers when it is required to perform a service such as purchasing certain precious metals from a customer, providing goods related to a self-directed IRA or as required by applicable law.
-  2. Cookies and Other Technology. Like many sites, the Site employs cookies and web beacons (also known as clear GIF technology or "action tags") to speed your navigation of the Site, recognize you and your access privileges, and track your Site usage.
-    1. Cookies are small pieces of information that are stored as text files by your Internet browser on your computer's hard drive. Most Internet browsers are initially set to accept cookies. You can set your browser to refuse cookies from web sites or to remove cookies from your hard drive, but if you do, you will not be able to access or use portions of the Site. We have to use cookies to enable you to select products, place them in an online shopping cart, and to purchase those products. If you do this, we keep a record of your browsing activity and purchase. THE SITE'S COOKIES DO NOT AND CANNOT INFILTRATE A USER'S HARD DRIVE TO GATHER A USER'S CONFIDENTIAL INFORMATION. Our cookies are not "spyware."
-    2. Web beacons assist in delivering cookies and help us determine whether a web page on the Site has been viewed and, if so, how many times. For example, any electronic image on the Site, such as an ad banner, can function as a web beacon.
-    3. Where cookie technology is unavailable we may use an anonymous identifier to speed your navigation of the Site, recognize you and your access privileges, and track your Site usage.  An anonymous identifier is a random string of characters that is used for the same purposes as a cookie on platforms, including certain mobile devices, where cookie technology is not available.
-    4. We may use third-party advertising companies to help tailor site content to users or to serve ads on our behalf. These companies may employ cookies and web beacons to measure advertising effectiveness (such as which web pages are visited or what products are purchased and in what amount). Any information that these third parties collect via cookies and web beacons is not linked to any personal information collected by us.
-    5. As an example, Facebook collects certain information via cookies and web beacons to determine which web pages are visited or what products are purchased. Please note that any information collected by Facebook via cookies and web beacons is not linked to any customer's personal information collected by us.
-    6. Goldline does not respond to web browser "do not track" signals or other mechanisms that provide consumers the ability to exercise choice regarding the collection of personally identifiable information about an individual consumer’s online activities over time and across third-party Web sites or online service collection.
-  3. Information Use and Disclosure.
-    1. Internal Use. We use your personal information to process your order, provide requested information and provide you with customer service. We may internally use your personal information to improve the Sites' content and layout, to improve outreach and for our own marketing efforts (including marketing our services and products to you), and to determine general marketplace information about visitors to the Site.
-    2. Communications with You. We will use your personal information to communicate with you about the Site and your orders, requests for information and deliveries. Also, we may send you a confirmation email when you register or order with us. We may send you a service-related announcement on the rare occasions when it is necessary (for example, if we must temporarily suspend our service for maintenance.) Also, you may submit your email address for reasons such as sign up for email newsalerts and special offers or to request free information about acquiring precious metals. If you submit your email address, we use it to deliver the information to you. We always permit you to unsubscribe or opt out of future emails (see the opt out section below for more details). Because we have to communicate with you about orders that you choose to place, you cannot opt out of receiving emails related to your orders.
-    3. External Use. We want to provide you with excellent service. We do not sell, rent, trade, license or otherwise disclose your specific personal information or financial information to anyone other than to affiliates under our control, except that:
-      1. As do many retailers, we sometimes use third parties to perform specific functions on our behalf. When we disclose information to these service providers, we disclose information to help them to perform their service. For example, in order to deliver products to you, we must share some information. We work with third parties (such as the U.S. Postal Service, UPS®, and FedEx®) to ship products, to ensure delivery, and so that we can obtain feedback, improve the quality of our service, and measure and improve the quality of the service of the third party. In the example of shippers, we provide them with some personally identifiable information such as your name, shipping address, email, and phone number. We also disclose personally identifiable information to third parties who perform marketing or marketing research on our behalf. We generally require entities with which we share your nonpublic personal information, including companies that process or service transactions for us, to agree to keep your information confidential. We also prohibit them from using or disclosing your information except for the limited purpose and to the persons for whom disclosure was intended, or as otherwise permitted by law.
-      2. Similarly, to help you buy products and provide customer service to you, we must provide your credit card number to financial-services corporations such as credit-card processors.
-      3. We may disclose personal information in response to requests from law enforcement officials conducting investigations; subpoenas; a court order; or if we are otherwise required to disclose such information by law. We also will release personal information where disclosure is necessary to protect our legal rights, enforce our Terms of Use or other agreements, or to protect ourselves or others. For example, we may share information to reduce the risk of fraud or if someone uses or attempts to use the Site for illegal reasons or to commit fraud.
-      4. We will not sell (or trade or rent) personally identifiable information to other companies as part of our regular course of business. However, it's possible that we might acquire or merge with or be acquired by another company or that we might dispose of some or all of our assets. If that happens, your personal information may be disclosed to another company, but that disclosure will be subject to the Privacy Policy in effect.
-      5. We may share non-personal information (such as the number of daily visitors to a particular web page, or the size of an order placed on a certain date) with third parties such as advertising partners. This information does not directly personally identify you or any user.
-      6. We may update and supplement personally identifiable information that we have collected directly from our customers with other information that we obtain from third parties. This may include information regarding demographics, income estimations, households and marital status. In addition, we may obtain personally identifiable information about individuals who are not yet users of our Web sites or customers of Goldline. When we associate information that we obtain from third parties with personally identifiable information that we have collected under this Privacy Policy, we will treat the acquired information like the information that we collected ourselves and, except as permitted by this Privacy Policy, the information will not be shared with third parties. We purchase marketing data from third parties and add it to our existing user database, to better target our advertising and to provide pertinent offers in which we think you would be interested. To enrich our profiles of individual customers, we tie this information to the personally identifiable information they have provided to us.
-      7. Finally, we may take your personally identifiable information and make it non-personally identifiable, either by combining it with information about other individuals (aggregating your information with information about other individuals), or by removing characteristics (such as your name) that make the information personally identifiable to you (de-personalizing your information). Given the nature of this information, there are no restrictions under this Privacy Policy upon the right of Goldline to aggregate or de-personalize your personal information, and Goldline may use and/or share with third parties the resulting non-personally identifiable information in any way.
+  1. Internal Use. We use your personal information to process your order, provide requested information and provide you with customer service. We may internally use your personal information to improve the Sites' content and layout, to improve outreach and for our own marketing efforts (including marketing our services and products to you), and to determine general marketplace information about visitors to the Site.
+  2. Communications with You. We will use your personal information to communicate with you about the Site and your orders, requests for information and deliveries. Also, we may send you a confirmation email when you register or order with us. We may send you a service-related announcement on the rare occasions when it is necessary (for example, if we must temporarily suspend our service for maintenance.) Also, you may submit your email address for reasons such as sign up for email news alerts and special offers or to request free information about acquiring precious metals. If you submit your email address, we use it to deliver the information to you. We always permit you to unsubscribe or opt out of future emails (see the opt out section below for more details). Because we have to communicate with you about orders that you choose to place, you cannot opt out of receiving emails related to your orders.
+  3. External Use. We share the information we collect from and about you within the Company, which includes affiliates of Goldline, including parents, subsidiaries and companies in which we, a parent and/or subsidiary have an ownership interest or other relationship. Additionally, 
+    1. Goldline may contact you at the phone number and email you provide for marketing and other reasons, including possibly using automated technology and text messaging.  You are not required to consent in order to purchase as you can always call us directly.
+    2. As do many retailers, we sometimes use third parties to perform specific functions on our behalf. When we disclose information to these service providers, we disclose information to help them to perform their service. For example, in order to deliver products to you, we must share some information. We work with third parties (such as the U.S. Postal Service, UPS®, and FedEx®) to ship products, to ensure delivery, and so that we can obtain feedback, improve the quality of our service, and measure and improve the quality of the service of the third party. In the example of shippers, we provide them with some personal information such as your name, shipping address, email, and phone number. We also disclose personal information to third parties who perform marketing or marketing research on our behalf. We generally require entities with which we share your nonpublic personal information, including companies that process or service transactions for us, to agree to keep your information confidential. We also generally prohibit them from using or disclosing your information except for the limited purpose and to the persons for whom disclosure was intended, or as otherwise permitted by law.
+    3. Similarly, to help you buy products and provide customer service to you, we must provide your credit card number to financial-services corporations such as credit-card processors.
+    4. We may disclose personal information in response to requests from law enforcement officials conducting investigations; subpoenas; a court order; or if we are otherwise required to disclose such information by law. We also will release personal information where disclosure is necessary to protect our legal rights, enforce our Terms of Use or other agreements, or to protect ourselves or others. For example, we may share information to reduce the risk of fraud or if someone uses or attempts to use the Site for illegal reasons or to commit fraud.
+    5. We may share personal information (names, addresses, emails addresses and telephone numbers) to a limited number of unaffiliated third parties whose products or services may be of interest to you and who have their own privacy policy in place. Additionally, we might acquire or merge with or be acquired by another company or we might dispose of some or all of our assets. If that happens, your personal information may be disclosed or transferred to another company.
+    6. We may share non-personal information (such as the number of daily visitors to a particular web page, or the size of an order placed on a certain date) with third parties such as advertising partners. This information does not directly personally identify you or any user.
+    7. We may update and supplement personal information that we have collected directly from our customers with other information that we obtain from third parties. This may include information regarding demographics, income estimations, households and marital status. In addition, we may obtain personal information about individuals who are not yet users of our Web sites or customers of Goldline. When we associate information that we obtain from third parties with personal information that we have collected under this Privacy Policy, we will treat the acquired information like the information that we collected ourselves and, except as permitted by this Privacy Policy, the information will not be shared with third parties. We purchase marketing data from third parties and add it to our existing user database, to better target our advertising and to provide pertinent offers in which we think you would be interested. To enrich our profiles of individual customers, we tie this information to the personal information they have provided to us.
+    8. Finally, we may take your personal information and make it non-personally identifiable, either by combining it with information about other individuals (aggregating your information with information about other individuals), or by removing characteristics (such as your name) that make the information personally identifiable to you (de-personalizing your information). Given the nature of this information, there are no restrictions under this Privacy Policy upon the right of Goldline to aggregate or de-personalize your personal information, and Goldline may use and/or share with third parties the resulting non-personally identifiable information in any way.
 
 
 
-## DATA SECURITY
+#### DATA SECURITY
 
 The security and confidentiality of your information is important to us. We have implemented certain technical, administrative, and physical security measures designed to help protect customer information from unauthorized access and improper use. This is an ongoing process and, from time to time, we review our security procedures in order to consider appropriate new technology and methods. Please be aware that, despite a company's best efforts, no security measures are perfect or impenetrable.
 
-The Site incorporates physical, electronic, and administrative procedures to safeguard the confidentiality of your personal information, including Secure Sockets Layer ("SSL") for all financial transactions through the Site. We use SSL encryption to protect your personal information online, and we also take several steps to protect your personal information in our facilities. Personal information may be printed or otherwise stored in a non-electronic form. Employees who need access to your personal information to perform a specific job are permitted access to your personal information. Finally, we may rely on third-party service providers for the physical security of some of our computer hardware. We believe that their security procedures are adequate. For example, when you visit the Site, you access servers that are kept in a secure physical environment, behind a locked cage and an electronic firewall.  
-Goldline does not guarantee complete security either online or offline.
+The Site incorporates physical, electronic, and administrative procedures to safeguard the confidentiality of your personal information, including Secure Sockets Layer ("SSL") for all financial transactions through the Site. We use SSL encryption to protect your personal information online, and we also take several steps to protect your personal information in our facilities. Personal information may be printed or otherwise stored in a non-electronic form. Employees who need access to your personal information to perform a specific job are permitted access to your personal information. Finally, we may rely on third-party service providers for the physical security of some of our computer hardware. We believe that their security procedures are adequate. For example, when you visit the Site, you access servers that are kept in a secure physical environment, behind a locked cage and an electronic firewall.
 
-## GOOGLE ANALYTICS PRIVACY POLICY
+**Goldline does not guarantee complete security either online or offline.**
 
-This website uses Google Analytics, a web analytics service provided by Google, LLC ("Google®").  Google Analytics uses cookies (see definition under section2 of INFORMATION COLLECTION AND USE above), to help the website analyze how users use the site. The information generated by the cookie about your use of the website (including your IP address) will be transmitted to and stored by Google on servers in the United States. Where cookie technology is not available, we may use anonymous identified (see definition under section 2 of INFORMATION COLLECTION AND USE above).  Google will use this information for the purpose of evaluating your use of the website, compiling reports on website activity for website operators and providing other services relating to website activity and internet usage. Google may also transfer this information to third parties where required to do so by law, or where such third parties process the information on Google's behalf. Google will not associate your IP address with any other data held by Google. You may refuse the use of cookies by selecting the appropriate settings on your browser, however please note that if you do this you may not be able to use the full functionality of this website. By using this website, you consent to the processing of data about you by Google in the manner and for the purposes set out above.
+#### GOOGLE ANALYTICS PRIVACY POLICY
 
-  1.     * Visitors to this website who have javascript enabled are tracked using Google Analytics. Google Analytics collects the following types of information from users:
-      * Type of user agent (web browser) used, software manufacture and version number.
-      * Type of operating system
-      * Screen colors (color processing ability of the users screen)
-      * Javascript support
-      * Flash version
-      * Screen resolution
-      * Network location and IP address
-        * Can include country, city, state, region, county, or any other geographic data.
-        * Hostname
-        * Bandwidth (internet connection speed)
-      * Time of visit
-      * Pages visited
-      * Time spent on each page of the website
-      * Referring site statistics
-        * The website (URI) the user came through in order to arrive at this website (example: clicking on a hyperlink from Yahoo.com that took the user to this website)
-        * Search engine query used (example: typing in a phrase into a search engine like Google, and clicking on a link from that search engine)
-    * This data is primarily used to optimize our website for our visitors, but we may also use this data for marketing purposes. An example of how this data could be used for marketing purposes would be to tell potential advertisers how many visitors we get to the website, where our visitors come from, and how they arrive at our website.
-    * This data DOES NOT include any personalized identification information such as:
-      * Names
-      * Phone Numbers
-      * Email Addresses
-      * Mailing Addresses
-      * Social Security Numbers
-      * Bank Account Numbers
-      * Credit Card Information
+This website uses Google Analytics, a web analytics service provided by Google, LLC ("Google®") to collect information about use of this site. Google Analytics collects information such as how often users visit this site, what pages they visit when they do so, and what other sites they used prior to coming to this site. We use the information we get from Google Analytics only to improve this site. Google Analytics collects only the IP address assigned to you on the date you visit this site, rather than your name or other identifying information. We do not combine the information collected through the use of Google Analytics with personal information. Although Google Analytics plants a permanent cookie on your web browser to identify you as a unique user the next time you visit this site, the cookie cannot be used by anyone but Google. Google’s ability to use and share information collected by Google Analytics about your visits to this site is restricted by the [Google Analytics Terms of Use](http://www.google.com/analytics/tos.html) and the [Google Privacy Policy](http://www.google.com/privacypolicy.html). You can prevent Google Analytics from recognizing you on return visits to this site by [disabling cookies](http://www.usa.gov/optout_instructions.shtml) on your browser.
 
+#### OPT OUT/CORRECTIONS
 
+Upon your request, we will correct/update your personal contact information; however, certain contact information such as names and addresses cannot be deleted.  Additionally, you can request to unsubscribe to emails by using the resources at customer information section of the Site [/goldline-contact-information](https://web.archive.org/goldline-contact-information), by telephoning Goldline at 800-963-9798, by emailing your request to [info@goldline.com](emailto:info@goldline.com), or by using the “unsubscribe” link found within our marketing emails. Please do not email your credit-card information or any other sensitive information.
 
-Visitors who want the ability to prevent their data from being used by Google Analytics may use the Google Analytics opt-out browser add-on for the Google Analytics JavaScript which may be found here.  https://tools.google.com/dlpage/gaoptout/. 
-
-Visitors can also opt out of interest-based ads by Google through Ads Settings.  When you opt out, you'll still see ads but they many not be related to factors such as your interests, previous visits to other website, or demographic details.  Your opt-outs will apply to interest-based ads in the following places:
-
-  * Google Search and other Google products like Google Maps and Gmail
-  * Sites across the web that are part of the Google **Display Network**
-
-
-
-### How to opt-out
-
-Ads Setting lets your opt out of ads shown to you based on factors such as your interests, previous visits to other websites, and demographic details on your computer's browser.
-
- **Ads on Google**
-
-  1. Go to Ads Settings at www.google.com/settings/ads
-  2. Under "ads on Google" click the "Opt-out" link
-  3. In the dialog that opens, click the **Opt-out** button
-
-
-
- **Google ads across the web**
-
-  1. Go to Ads Settings at www.google.com/settings/ads
-  2. Under "Google Ads Across the Web" click the "Opt-out" link
-  3. In the dialog that opens, click the **Opt-out** button
-
-
-
-To opt out of all of Goolge's interest-based ads on your browser, you'll need to opt out twice: once for Google products (Ads on Google) and once for ads on the Display Network (Google ads across the web).
-
-## OPT OUT/CORRECTIONS
-
-Upon your request, we will correct/update your personal contact information; however, certain contact information such as names and addresses cannot be deleted.  Additionally, you can request to unsubscribe to emails by  using the resources at customer information section of the Site [/goldline-contact-information](https://web.archive.org/goldline-contact-information), by telephoning Goldline at 800-963-9798, by emailing your request to [info@goldline.com](mailto:info@goldline.com), or by using the “unsubscribe” link found within our marketing emails. Please do not email your credit-card information or any other sensitive information.
-
-Goldline does not maintain a process for an individual consumer who uses or visits its commercial Web site or online service to review and request changes to any of his or her personally identifiable information that is collected through the Web site or online service.
+Goldline does not maintain a process for an individual consumer who uses or visits its commercial Website or online service to review and request changes to any of his or her personal information that is collected through the Website or online service.
 
 Please do not email your credit-card number or other sensitive information.
 
-## MONITORING/RECORDING OF TELEPHONE CALLS
+#### MONITORING/RECORDING OF TELEPHONE CALLS
 
 You understand and agree that each and every telephone conversation between you and Goldline - whether you place a call to Goldline or whether any Goldline representative calls you - is subject to monitoring and/or recording. You hereby agree and consent to have your calls with any Goldline representative monitored and/or recorded without further notice or the requirement of additional consent or agreement from you. You consent to monitoring and/or recording of your telephone conversations with any Goldline representative by appropriate Goldline personnel and authorized outside third-party monitors. You acknowledge that you do not have a reasonable expectation of privacy during any of your telephone conversations with any Goldline representative. You further understand and agree, with respect to the potential monitoring and/or recording of all of your telephone calls, that you expressly waive the right to assert at any time that any conversations between you and any Goldline representative are or were confidential or private. Goldline does not guarantee that any recordings of any particular telephone calls will be retained or be capable of being retrieved. Goldline is not obligated to record or monitor telephone conversations with you but can, in its sole discretion, choose to do so and permit appropriate third-party monitors to do so on Goldline's behalf. Goldline monitors and records telephone conversations with its customers for quality control and for Goldline's protection. At the same time, unless otherwise agreed by Goldline's management in writing, Goldline does not consent to the recording of telephone conversations by you or by any other party on your behalf. This Site is intended for individuals 18 years of age and older.
 
-## OFFLINE COLLECTION, USE & DISCLOSURE OF INFORMATION
+#### OFFLINE COLLECTION, USE & DISCLOSURE OF INFORMATION
 
-This Privacy Policy applies only to the online collection of personal information. We also collect information offline where we also try to protect the privacy of your personal information. When someone communicates with Goldline offline, we will ask for the personal information we need in order to place the order, to answer a question, to create a Goldline client account or otherwise respond to an inquiry. When we need to store information (such as order information), we will enter it into our customer database(s). There are other ways we could learn of personal information offline (for example, when we receive wire instructions, checks or correspondence), and this Policy does not discuss or try to predict all of those methods or the use that will be made of such information. Goldline will, as appropriate and practicable, treat offline collection, uses, and disclosures of customer personal information consistently with our relevant online practices.
+Goldline also collects information offline where we also try to protect the privacy of your personal information. When someone communicates with Goldline offline, we will ask for the personal information we need in order to place the order, to answer a question, to create a Goldline client account or otherwise respond to an inquiry. When we need to store information (such as order information), we will enter it into our customer database(s). There are other ways we could learn of personal information offline (for example, when we receive wire instructions, checks or correspondence), and this Policy does not discuss or try to predict all of those methods or the use that will be made of such information. Goldline will, as appropriate and practicable, treat offline collection, uses, and disclosures of customer personal information consistently with our relevant online practices.
 
-You should know that we use personal information collected offline in a similar manner to how we use personal information which is collected online, as outlined above.
+You should know that we generally use personal information collected offline in a similar manner to how we use personal information which is collected online, as outlined above.
 
-## UPDATES TO THIS POLICY
+#### UPDATES TO THIS POLICY
 
-If we change or update this Privacy Policy, we will post changes and updates on the Site so that you will always be aware of what information we collect, use and disclose. We encourage you to review this Privacy Policy from time to time so you will know if the Privacy Policy has been changed or updated. If you have any questions about the Privacy Policy, please contact us at 877-346-2646 or email us at info@goldline.com.
+If we change or update this Privacy Policy, we will post changes and updates on the Site so that you will always be aware of what information we collect, use and disclose. We encourage you to review this Privacy Policy from time to time so you will know if the Privacy Policy has been changed or updated. If you have any questions about the Privacy Policy, please contact us at 877-346-2646 or email us at [info@goldline.com](emailto:info@goldline.com).
 
-## YOUR CALIFORNIA PRIVACY RIGHTS
+#### YOUR CALIFORNIA PRIVACY RIGHTS
 
-California Civil Code Section 1798.83 permits customers of Goldline who are California residents to request certain information regarding its disclosure of personal information to third parties for their direct marketing purposes. To make such a request, please send an e-mail to info@goldline.com or write us:
+California Civil Code Section 1798.83 permits customers of Goldline who are California residents to request certain information regarding its disclosure of personal information to third parties for their direct marketing purposes. To make such a request, please send an e-mail to [info@goldline.com](emailto:info@goldline.com) or write us:
 
-  * WDIG CA Privacy Rights  
-Goldline, LLC  
-11835 W. Olympic Blvd  
-Suite 500  
-Los Angeles, CA 90064
+  * WDIG CA Privacy Rights Goldline, Inc 11835 W. Olympic Blvd Suite 500 Los Angeles, CA 90064
 
 
 
-Last updated: February 6, 2015.
+**Last updated:** January 24, 2019.
