@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the careers24.com privacy policy that was archived on 2018-11-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181128044533id_/http%3A//www.media24.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the careers24.com privacy policy that was archived on 2019-03-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190327193508id_/http%3A//www.media24.com/privacy) for the most accurate reproduction.*
 
 # Privacy - Media24.com
 
