@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the madison-reed.com privacy policy that was archived on 2018-11-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181116015350id_/https%3A//www.madison-reed.com/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the madison-reed.com privacy policy that was archived on 2019-03-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190327203735id_/https%3A//www.madison-reed.com/about/privacy) for the most accurate reproduction.*
 
 # Madison Reed – Privacy Policy
 
