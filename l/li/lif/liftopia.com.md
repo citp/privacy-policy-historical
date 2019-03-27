@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the liftopia.com privacy policy that was archived on 2018-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181226143419id_/https%3A//www.liftopia.com/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the liftopia.com privacy policy that was archived on 2019-03-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190327185317id_/https%3A//www.liftopia.com/privacy-statement) for the most accurate reproduction.*
 
 # Privacy Statement | Liftopia
 
-Last revised on May 16, 2018
+Last revised on January 16, 2019
 
 Your privacy is important to us. Please read below to learn how we at Liftopia, Inc. ("Liftopia") collect, use, and secure your personal information. Our goal is to provide you with the best booking experience possible and we are committed to protecting your privacy and creating a safe and secure online environment for anyone who visits and books on our website, located at [www.liftopia.com](https://www.liftopia.com/) or through our partner websites (each a "Site"). Finally, it describes your choices regarding the use, access and correction of your personal information. By using the Site you agree to the terms of this Privacy Statement and you expressly consent to the collection, use and disclosure of your Personal Data as described herein.
 
@@ -108,7 +108,7 @@ Liftopia participates in and has certified its compliance with the EU-U.S. Priva
 
 Liftopia is responsible for the processing of Personal Data it receives, under the Privacy Shield Framework, and subsequently transfers to a third party acting as an agent on its behalf. We comply with the Privacy Shield Principles for all onward transfers of Personal Data from the EU and Switzerland, including the onward transfer liability provisions.
 
-With respect to Personal Data received or transferred pursuant to the Privacy Shield Framework, we are subject to the regulatory enforcement powers of the U.S. Federal Trade Commission. In certain situations, we may be required to disclose Personal Data in response to lawful requests by public authorities, including to meet national security or law enforcement requirements.
+With respect to Personal Data received or transferred pursuant to the Privacy Shield Framework, we are subject to the regulatory enforcement powers of the U.S. Federal Trade Commission. In certain situations, we may be required to disclose Personal Data in response to lawful requests by public authorities, including to meet national security or law enforcement requirements. Additionally, we agree to comply with the European Data Protection Authorities (EU DPAs) and the Swiss Federal Data Protection and Information Commissioner (Swiss FDPIC) and have a DPA panel serve as our independent recourse mechanism for HR and non-HR data.
 
 Under certain conditions, more fully described on the Privacy Shield website at <https://www.privacyshield.gov/article?id=How-to-Submit-a-Complaint>, you may invoke binding arbitration when other dispute resolution procedures have been exhausted.
 
