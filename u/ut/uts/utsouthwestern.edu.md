@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the utsouthwestern.edu privacy policy that was archived on 2018-11-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181112211334id_/https%3A//www.utsouthwestern.edu/legal/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the utsouthwestern.edu privacy policy that was archived on 2019-03-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190327174049id_/https%3A//www.utsouthwestern.edu/legal/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy: Legal - UT Southwestern, Dallas, TX
 
