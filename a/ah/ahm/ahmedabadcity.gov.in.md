@@ -1,69 +1,41 @@
-> *The following text is extracted and transformed from the ahmedabadcity.gov.in privacy policy that was archived on 2017-10-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171006172509id_/http%3A//ahmedabadcity.gov.in/portal/jsp/Static_pages/privacy_policy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ahmedabadcity.gov.in privacy policy that was archived on 2019-03-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190327064319id_/https%3A//ahmedabadcity.gov.in/portal/jsp/Static_pages/privacy_policy.jsp) for the most accurate reproduction.*
 
 # Privacy Policy :: Ahmedabad Municipal Corporation
 
-Internet is an amazing tool. It has the power to change the way we live, and we're starting to see that potential today. With only a few mouse-clicks, you can follow the news, look up facts, buy goods and services, and communicate with others from around the world. It's important to AMC to help our citizens retain their privacy when they take advantage of all the Internet has to offer.
+Ahmedabad Municipal Corporation (AMC) has built the Ahmedabad AMC app as a personalized app for Ahmedabad citizen. This SERVICE is provided by Ahmedabad Municipal Corporation (AMC) at no cost and is intended for use as is. This page is used to inform application users regarding organizationâ€™s policies with the collection, use, and disclosure of Personal Information if anyone decided to use our Service. If you choose to use our Service, then you agree to the collection and use of information in relation to this policy. The Personal Information that we collect is used for providing and improving the Service. We will not use or share your information with anyone except as described in this Privacy Policy. The terms used in this Privacy Policy have the same meanings as in our Terms and Conditions, which is accessible at Ahmedabad AMC unless otherwise defined in this Privacy Policy. 
 
-We believe your business is no one else's. Your privacy is important to you…and to us. So we'll protect the information you share with us. To protect your privacy, AMC follows different principles in accordance with world-wide practices for customer privacy and data protection.  
+Personal Information:
 
+Camera, Phone Contacts and Device Information use for a better experience, while using our Service, we may require you to provide us with certain personally identifiable information, including but not limited to email account User Data or Device Information. The information that we request is will be retained by us and used as described in this privacy policy. The app does use third party services that may collect information used to identify you. 
 
-  * We won’t sell or give away your name, mail address, phone number, email address, credit card number or any other information to anyone.
-  * We’ll use state-of-the-art security measures to protect your information from unauthorized users.
+Link to privacy policy of third party service providers used by the app 
 
+[Google Play Services]()
 
+We want to inform you that whenever you use our Service, in a case of an error in the app we collect data and information (through third party products) on your phone called Log Data. This Log Data may include information such as your device Internet Protocol (â€œIPâ€) address, device name, operating system version, the configuration of the app when utilizing our Service, the time and date of your use of the Service, and other statistics.
 
-We will ask you when we need information that personally identifies you (personal information) or allows us to contact you. Generally this information is requested when you create a Registration ID / user profile on the site. We use your Personal Information for three primary purposes:
+Cookies
 
-  * To make the site easier for you to use by not having to enter information more than once.
-  * To help you quickly find services or information.
-  * To help us create content most relevant to you. To alert you to product upgrades, special offers, updated information and other new services from AMC
+This Service does not use these â€œcookiesâ€ explicitly. However, the app may use third party code and libraries that use â€œcookiesâ€ to collection information and to improve their services. You have the option to either accept or refuse these cookies and know when a cookie is being sent to your device. If you choose to refuse our cookies, you may not be able to use some portions of this Service.
 
+Security
 
+We value your trust in providing us your Personal Information, thus we are striving to use commercially acceptable means of protecting it. But remember that no method of transmission over the internet, or method of electronic storage is 100% secure and reliable, and we cannot guarantee its absolute security.
 
-If you choose not to register or provide personal information, you can still have access to specific services which do not need you to register. But you will not be able to access areas that require registration. If you decide to register, you will be able to select the kinds of information you want to receive from us by subscribing to various services. 
+Links to Other Sites
 
-ACCESS:
+This Service may contain links to other sites. If you click on a third-party link, you will be directed to that site. Note that these external sites are not operated by us. Therefore, we strongly advise you to review the Privacy Policy of these websites. We have no control over and assume no responsibility for the content, privacy policies, or practices of any third-party sites or services.
 
-We will provide you with the means to ensure that your personal information is correct and current. You may review and update this information at any time at the Manage profile li. There, you can:
+Children Privacy
 
-  * View and edit personal information you have already given us.
-  * Sign up for electronic newsletters about our services and products.
-  * Sign up for electronic newsletters about our services and products.
-  * Register. Once you register, you won't need to do it again. Wherever you go on http://ahmedabadcity.gov.in/, your information stays with you.
+These Services do not address anyone under the age of 13. We do not knowingly collect personally identifiable information from children under 13. In the case we discover that a child under 13 has provided us with personal information, we immediately delete this from our servers. If you are a parent or guardian and you are aware that your child has provided us with personal information, please contact us so that we will be able to do necessary actions. 
 
+Changes to This Privacy Policy
 
+We may update our Privacy Policy from time to time. Thus, you are advised to review this page periodically for any changes. We will notify you of any changes by posting the new Privacy Policy on this page. These changes are effective immediately after they are posted on this page.
 
-SECURITY:
+Contact Us
 
-AMC has taken strong measures to protect the security of your personal information and to ensure that your choices for its intended use are honored. We take strong precautions to protect your data from loss, misuse, unauthorized access or disclosure, alteration, or destruction.
+If for some reason you believe AMC has not adhered to these principles, please notify us by e-mail at info@ahmedabadcity.gov.in, and we will do our best to determine and correct the problem promptly. 
 
-We guarantee your e-commerce transactions to be 100% safe and secure . When you place orders or access your personal account information are encrypted,before it's sent over the Internet.
-
-Your personal information is never shared outside the AMCwithout your permission, except under conditions explained above. Inside AMC, data is stored in password-controlled servers with limited access.
-
-You also have a significant role in protecting your information. No one can see or edit your personal information without knowing your user name and password, so do not share these with others.
-
-ENFORCEMENT:
-
-If for some reason you believe AMC has not adhered to these principles, please notify us by e-mail at info@egovamc.com, and we will do our best to determine and correct the problem promptly. Be certain the words Privacy Policy are in the Subject line. 
-
-CUSTOMER PROFILES:
-
-As mentioned above, every registered customer has a unique personal profile. Each profile is assigned a unique personal identification number, which helps us ensure that only you can access your profile.
-
-When you register, we create your profile, assign a personal identification number, and then send this personal identification number back to your hard drive in the form of a cookie, which is a very small bit of code. This code is uniquely yours. It is your passport to seamless travel across http://ahmedabadcity.gov.in and avail services. Even if you switch computers, you won't have to re-register – just use your Registration ID to identify yourself.
-
-This Privacy Policy applies to all of the products, services and websites offered by AMC. Sometimes, we may post product specific privacy notices or Help Centre materials to explain our products in more detail.
-
-If you have any questions about this Privacy Policy, please feel free to contact us through either of the following ways:  
-
-
-  * Name :
-  * Phone: 
-  * Email: 
-
-
-
-DATA PRIVACY POLICY
-
-Our data privacy policy strictly conforms as per the regulations set down in accordance to the protection of data collected from people visiting our website. AMC treats all personal data obtained via internet and our website carefully and confidentially so that no physical/mental harm is instilled up on the person, with regard to the collected data. Personal data that has possibly been known to us will be kept secret, privacy will be respected and information will be used exclusively for the purpose for which it was made known to us. Without seeking approval of the respective person, this data will neither be made accessible to third parties, nor transferred to them in any form or manner.
+Be certain the words Privacy Policy are in the Subject line. 
