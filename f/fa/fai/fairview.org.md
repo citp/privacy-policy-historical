@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fairview.org privacy policy that was archived on 2018-08-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180815200038id_/https%3A//www.fairview.org/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fairview.org privacy policy that was archived on 2019-03-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190327082337id_/https%3A//www.fairview.org/about/privacy) for the most accurate reproduction.*
 
 # Privacy Statements
 
