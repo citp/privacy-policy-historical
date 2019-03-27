@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sosvox.org privacy policy that was archived on 2018-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181226125229id_/https%3A//www.sosvox.org/en/privacy-policies.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sosvox.org privacy policy that was archived on 2019-03-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190327172014id_/https%3A//www.sosvox.org/en/privacy-policies.html) for the most accurate reproduction.*
 
 # Privacy Policies
 
