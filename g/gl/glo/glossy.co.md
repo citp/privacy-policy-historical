@@ -1,66 +1,67 @@
-> *The following text is extracted and transformed from the glossy.co privacy policy that was archived on 2015-09-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150906232356id_/http%3A//www.neustar.biz/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the glossy.co privacy policy that was archived on 2019-03-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190327172337id_/https%3A//www.glossy.co/privacy-policy) for the most accurate reproduction.*
 
-# Neustar | Privacy
+# Privacy Policy – Glossy
 
-**Highlights of the Neustar Privacy Policy**
+Digiday Media Privacy Policy – Last updated April 19, 2018
 
-_Updated: September 23, 2014_
+**Summary:**
 
-Neustar uses Personal Information to support data-driven decision-making and deliver personalized content _without_ sacrificing personal privacy. These “Highlights” summarize Neustar’s privacy practices. You can learn more by clicking on the links below, and by reviewing the [Neustar Privacy Policy](https://web.archive.org/privacy/privacy_policy) and [Privacy Principles](https://web.archive.org/privacy/privacy_principles).
+We collect your data strictly to provide you with access to our news, events and other programs. We will not share this data with anyone unless you explicitly consent to us doing so. We honor your right to privacy and will comply with your wishes to remove your data from our systems.
 
-### Our Commitment – Privacy by Design
+**Our commitment to privacy**
 
-We follow the [Neustar Privacy Principles](https://web.archive.org/privacy/privacy_principles), including the principle of Privacy by Design _,_ to design, build, and deliver products and services that respect your privacy.
+You deserve to know how we collect and use the data you provide to us, and that’s what we are providing to you on this page. This notice applies to all information collected or submitted on the websites of any Digiday Media property: Digiday, Glossy, Tearsheet or Gather. This notice was updated in April 2018 to reflect GDPR compliance standards.
 
-### Personal Information Collection, Use, and Disclosure
+**How we use your information**
 
-We collect [Personal Information](https://web.archive.org/privacy/privacy_policy#personal-info) from you directly and from businesses that use our products and services. We use registration data, including Personal Information, supplied by our online [Match Partners](https://web.archive.org/privacy/privacy_policy#match-partners) to set [AdAdvisor Cookies](https://web.archive.org/privacy/privacy_policy#cookies), which do not contain or convey Personal Information. Finally, we collect and use Personal Information and other demographic data from a variety of sources such as telephone directories, the US Postal Service, the Census Bureau, and from other third parties. We do not use Sensitive Personal Information without your permission.
+ We use the data you provide to us for the following purposes:
 
-Read our full [Privacy Policy](https://web.archive.org/privacy/privacy_policy) or click on the links below to learn more about the Personal Information we collect and how we use it:
+1\. Provide you with access to the content and events we produce.
 
-  * [Information You Provide on our Web Site](https://web.archive.org/privacy/privacy_policy#info-you-provide)
-  * [Market Segmentation Data](https://web.archive.org/privacy/privacy_policy#market-segmentation-data)
-  * [Online Advertising](https://web.archive.org/privacy/privacy_policy#online-advertising)
-  * [IP Address Information](https://web.archive.org/privacy/privacy_policy#ip-addresses)
-  * [Domain Name Registry Data](https://web.archive.org/privacy/privacy_policy#domain-name-registry)
-  * [Internet and Telecommunications Routing Data](https://web.archive.org/privacy/privacy_policy#internet-comm-routing)
-  * [Other Name and Contact Data](https://web.archive.org/privacy/privacy_policy#other-use)
+2\. Analyze profile or behavioral data to help us improve the products we offer to you.
 
+3\. In specific cases we will be contractually obligated to share your data with one of our third party advertisers or partners (for example, webinars, downloads or special events). In these instances, we will make it clear that the data you share will be transferred to the third party. You will always have the option to not have your data shared by not taking part in that specific program.
 
+We will store this information to keep you informed about other relevant products that may be useful to you.
 
-### Cookies
+We will never use or share the information provided to us online in ways unrelated to the ones described above.
 
-We may use Cookies, Web Beacons, Pixel Tags and similar technologies to enhance and personalize your experience on our web sites and to track, manage, and enable visitor transactions and preferences. In addition, we work with a variety of [Match Partners](https://web.archive.org/privacy/privacy_policy#match-partners) to set [AdAdvisor Cookies](https://web.archive.org/privacy/privacy_policy#cookies). Businesses use the information in AdAdvisor cookies to tailor online advertising based on the likelihood that someone will share certain interests or propensities with members of an aggregated group. to tailor online advertising based on our predictions about the preferences and interests of large groups of similar consumers, and to measure the effectiveness of ad campaigns. We also use Log Data associated with AdAdvisor Cookies for marketing and analytics purposes, and to understand what kind of mobile devices are being used.
+Some information, such as IP and your email address, may be shared with the following third parties who help us run our website and email programs. They will only use this information to serve our needs and are prohibited from using it in any other instance. They are: Bounce Exchange (behavioral marketing and email acquisition), Google (ad serving and website tracking), Campaign Monitor (email), Gravity Forms (email acquisition), Tito (event registration), Open Water (awards programs).
 
-### Advertising IDs
+**Consequences of failure to provide consent**
 
-**Mobile Advertising IDs.** We use Mobile Advertising IDs, also known as IDFA or IFA, in connection with [ElementOneSM](https://web.archive.org/marketing-solutions) and other marketing services. We obtain Mobile Ad IDs from Match Partners who have user consent to share this information. We share Segment Codes associated with Mobile Advertising IDs with our customers who have access to these identifiers with the consent of their users. This enables our clients to provide a more tailored user experience as well as relevant content and offers in the mobile environment. You can find more information about how mobile advertising IDs are used and how to opt out of mobile advertising in our Transparency and Choice section below.
+Consenting to allow us to process and store your data is optional. However, failure to provide that consent will prevent us from delivering the content, events and other experiences to you as mentioned above.
 
-### Transparency and Choice
+**The information we collect**
 
-You can check the [AdAdvisor Profile Manager](http://www.adadvisor.net/profileUpdate.html) to see if we have set an [AdAdvisor Cookie](https://web.archive.org/privacy/privacy_policy#cookies) through your browser. If so, the Profile Manager also displays the de-identified information contained in that cookie. You may opt out of the use of AdAdvisor Cookies for online behavioral advertising using the [AdAdvisor Opt-Out](http://www.adadvisor.net/optout.html). You can also learn more about online advertising in general on the [Network Advertising Initiative](http://www.networkadvertising.org/code-enforcement) web site, which also permits you to opt-out of receiving tailored online advertising from some or all of its members.
+Across our web platform and events, you will be presented with the opportunity to sign up for newsletters, purchase event passes, submit your information to access content such as white papers or webinars, apply for eligibility at certain events and more.
 
-### Mobile Advertising IDs
+The type of information collected on those pages generally includes but is not limited to:
 
-  * Apple’s iOS IDFA can be reset by the user at any time. Users can opt out of all remarketing by enabling a device setting called "Limit Ad Tracking" (LAT), which restricts advertisers from using the IDFA for behavioral advertising. You can learn how to limit ad tracking on your iOS device or to reset your IDFA here: [IDFA Opt-Out](http://support.apple.com/kb/HT4228).
-  * Similar to IDFA for Apple devices, Android devices pass Google Advertising ID, which provides the same type of device-specific, unique, resettable ID for advertising as Apple IDFA or IFA. You can learn more about how identifiers on mobile are used for advertising and receive instruction for how to opt out of mobile advertising on the [Google Privacy & Terms](http://www.google.com/policies/technologies/ads/) webpage.
+Email address
 
+Name
 
+Job title or seniority
 
-### Accountability
+Location
 
-Neustar is a member of the Network Advertising Initiative (NAI) and complies with the NAI Code of Conduct, the Digital Advertising Alliance (DAA) [Self-Regulatory Principles for Online Behavioral Advertising](http://www.aboutads.info/obaprinciples) **and we comply with the DAA’s**[Self-Regulatory Principles for Multi-Site Data](http://www.aboutads.info/msdprinciples).
+Company name
 
-### Safe Harbor
+Company type
 
-Neustar may receive Personal Information about residents of the European Union and Switzerland in the course of providing DNS services (including registry services) and telephone call routing services. Neustar’s handling of such information complies with the [U.S. – EU Safe Harbor](http://export.gov/safeharbor/eu/index.asp) framework and the [U.S. – Swiss Safe Harbor](http://export.gov/safeharbor/swiss/) framework as administered by the U.S. Department of Commerce, and we have certified our adherence to the Safe Harbor principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. Additional information about the Safe Harbor programs is available at: www.export.gov/safeharbor.
+Mailing/billing address
 
-### The Fine Print
+Credit/debit card information (*NOTE: we do not save or store this information, and it will only be shared with our payment processors in order to complete the transaction in which you are engaging.)
 
-[Click here](https://web.archive.org/privacy/privacy_policy) to read our full Privacy Policy and to learn more about our approach to children’s privacy, data security, disclosures required by law or for other purposes, and your privacy rights under California law.
+Based on the information you provide to us, we may create or append other information to your profile in the interest of better serving you (for example, your interests). As is the case with all data we collect, this will be kept private and for our business purposes only.
 
-Our privacy practices and policies may be updated from time to time. We will post a notice regarding material changes on our web site.
+**How to ask us to delete your data**
 
-### Questions? Comments?
+If you would like to unsubscribe from our communications at any time, you may do so in the footer of any of our emails. If you would like us to delete your information entirely, or request the information we store about you, contact Aaron Gottlieb, Digiday Media’s head of audience development, at aaron@digiday.com. Otherwise, by continuing to interact with our emails and programs, you provide us with permission to manage and use your data as described above.
 
-Send us an email at: [privacy@neustar.biz](mailto:privacy@neustar.biz)
+**Our commitment to the security of your data**
+
+To prevent unauthorized parties from accessing your data and maintain the accuracy and cleanliness of our own data while ensuring the correct use of it, we have put in place appropriate physical, electronic and managerial procedures to safeguard and secure the information we collect online.
+
+Questions about our privacy policy or how we use data? Email Aaron Gottlieb, Digiday Media’s head of audience development: [aaron@digiday.com](mailto:aaron@digiday.com).
