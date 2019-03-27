@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ultimateteam.co.uk privacy policy that was archived on 2018-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181226140748id_/https%3A//www.ultimateteam.co.uk/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ultimateteam.co.uk privacy policy that was archived on 2019-03-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190327182650id_/https%3A//www.ultimateteam.co.uk/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - FIFA 19 Ultimate Team, FUT Web App, Beta & Demo
 
