@@ -1,9 +1,14 @@
-> *The following text is extracted and transformed from the whoislookupdb.com privacy policy that was archived on 2017-01-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170123175139id_/https%3A//whoislookupdb.com/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the whoislookupdb.com privacy policy that was archived on 2019-03-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190327174410id_/https%3A//whoislookupdb.com/privacy-policy.php) for the most accurate reproduction.*
 
 # Privacy Policy Whois Domain Lookup Database
 
-**DNS and WHOIS - How it Works**  
-WHOIS databases are usually mainly run by registrars and registries which serve to point to the WHOIS server the responsible sub registry including providing an overview of the contract details of the registry. On the other hand, the DNS registry operators work to maintain another vital system, the authoritative name servers which usually holds the key to where exactly it is that a website is located. It is then after this that one of the name servers is contacted and in turn sends back the IP address for that domain name. In the end, the computer is therefore able to connect and in turn serve up the homepage. Everything taken into consideration, it is very important to understand the fact that WHOIS is specifically designed in more of less the same way, for instance, once at the WHOIS platform, simply follow the references to the downstream WHO IS servers unless the required information is obtained. This process is illustrated for a thick registry and in the event that the registry is thin an additional process query is run at the registrars' database in a bid to obtain the WHOIS data for the domain name. 
+**WHOIS, Domain names and everything related**
+
+**What is a Domain name and how does it work?**
+
+The internet and several other large and private networks make use of the DNS or the Domain Name System to direct the traffic online. The DNS is also popularly called the 'phonebook of the internet'. The internet makes use of DNS as a name resolution service for public websites across the world. It refers to a decentralized naming system that is fit for computer or services that are connected to the internet or even a private network. Overall, it serves as an important component for the smooth functioning of internet. When a user types the name of a site in a browser, the DNS finds the corresponding IP address for it and any other data required to get the desired network connection. So a Domain Name System is actually a friendly way of naming the web servers or the web pages. It defines addresses to them. They work very similar to an international phone number and give servers an easy to remember and easy to spell address. On the other hand, they also hide the IP addresses that are technical and are not very useful to the viewer as well.
+
+Apart from all that is mentioned above, the domain system is also responsible for assigning domain names and mapping those names to the internet resources by providing **name servers** to every particular domain. The internet maintains two different spaces for names; one is for domain name hierarchy while the second one is for IP address. It is also important to know here that the domain name system provides the translation services to and fro on the internet. 
 
   
 
@@ -41,9 +46,7 @@ These third-party ad servers or ad networks use technology in their respective a
 
 http://whoislookupdb.com/ has no access to or control over these cookies that are used by third-party advertisers. 
 
-�
-
- **Third Party Privacy Policies**  
+**Third Party Privacy Policies**  
 You should consult the respective privacy policies of these third-party ad servers for more detailed information on their practices as well as for instructions about how to opt-out of certain practices. http://whoislookupdb.com/'s privacy policy does not apply to, and we cannot control the activities of, such other advertisers or web sites. You may find a comprehensive listing of these privacy policies and their links here: [Privacy Policy Links](http://www.privacypolicyonline.com/privacy-policy-links "Privacy Policy Links").
 
 If you wish to disable cookies, you may do so through your individual browser options. More detailed information about cookie management with specific web browsers can be found at the browsers' respective websites. [What Are Cookies?](http://www.privacypolicyonline.com/what-are-cookies)
@@ -58,5 +61,7 @@ This privacy policy applies only to our online activities and is valid for visit
 By using our website, you hereby consent to our privacy policy and agree to its terms. 
 
 **Update**  
-This Privacy Policy was last updated on: Saturday, September 24th, 2016. [](http://www.privacypolicyonline.com/ "PrivacyPolicyOnline.com Approved Site")  
-_Should we update, amend or make any changes to our privacy policy, those changes will be posted here._
+This Privacy Policy was last updated on: Saturday, September 24th, 2016. [Privacy Policy Online Approved Site  
+ _Should we update, amend or make any changes to our privacy policy, those changes will be posted here._ ](http://www.privacypolicyonline.com/ "PrivacyPolicyOnline.com Approved Site")
+
+[ ](http://www.privacypolicyonline.com/ "PrivacyPolicyOnline.com Approved Site")
