@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the healthcaremagic.com privacy policy that was archived on 2018-02-01.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20180201193010id_/https%3A//www.healthcaremagic.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the healthcaremagic.com privacy policy that was archived on 2019-03-27.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20190327191658id_/https%3A//www.healthcaremagic.com/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
    	<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
@@ -10,15 +10,21 @@
 
 
 
+<link rel="shortcut icon" href="/web/images/favicon.ico">
 
 
 
-<link rel="shortcut icon" href="http://d3kvn6nhl873a4.cloudfront.net/web/images/favicon.ico">
 
 
-	<link href="http://dy109hmwzquzs.cloudfront.net/web/css/u_cdn.css?v=1.64" rel="stylesheet" type="text/css"> 
+	<link href="/web/css/u.css?v=1.73" rel="stylesheet" type="text/css">  
 
 
+
+<link rel="stylesheet" href="/r/css/bootstrap.css" type="text/css">
+<link rel="stylesheet" href="/r/css/custom.css?v=0.16" type="text/css">
+
+<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
+<link href="https://fonts.googleapis.com/css?family=Open+Sans:400,600,700,800" rel="stylesheet">
 
 
 
@@ -77,13 +83,6 @@
 
 
 
-
-
-
-
-
-
-
 	
 
 
@@ -92,105 +91,302 @@
 
 
 
+<section class="topbar">
+	<div class="container">
+		<div class="row">
+			<div class="col-md-12 pr-0">
+                <div class="social">
+                    <ul class="my-account pull-right">
 
 
+                    
+                        <li>
+                            <a href="/web/jsp/doctor/doctorJoin.jsp">Are you a Doctor?</a>&nbsp;&nbsp;
+                        </li>
+                        <li>
+                            
+                            <a rel="nofollow" href="#signinmodal" data-toggle="modal"> Login</a>
+                        </li>
+                        <li>
+                           
+                           <a rel="nofollow" href="#signupmodal" data-toggle="modal"> Register</a>
+                        </li>
+
+                    
 
 
+                    <li class="d-none d-md-block searchform">
+                        <form action="" method="post" name="searchform">
+                            
+                            <div class="input-group">
+                                <input id="homeSearchBox" class="form-control" placeholder="Search" aria-label="" aria-describedby="basic-addon1" s="" name="search_keywords" type="text" onkeyup="return submitSearchForm(event, this.value)" value="">
+                                <div class="input-group-prepend" id="frmSearch">
+                                    <button type="button" class="btn" onclick="submitSearchFormWithoutEvent(ge('homeSearchBox').value)"><i class="fa fa-search"></i></button>
+                                </div>
+                            </div>
+                        </form>
+                    </li>
 
-
-
-
-
-
-
-
-
-<div class="topStrip">
-
-	<div class="FullDiv">
-
-		<div style="width: 240px; float: right;padding-right:15px;">
-            
-			<div style="height: 18px; float: right;margin:2px 0 0 0;cursor: pointer;">
-				<div class="common_searchnew" onclick="submitSearchFormWithoutEvent(ge('homeSearchBox').value)"> </div>
+                    </ul>
+                    <ul class="pull-left d-none d-md-block">
+                        <li> <a target="_blank" href="https://www.facebook.com/DailyHealthTips/"><i class="icon-datafacebook"></i>Facebook</a> </li>
+                        <li> <a target="_blank" href="https://twitter.com/DailyHealthTips"><i class="icon-datatwitter"></i>Twitter</a> </li>
+                    </ul>
+                </div>
 			</div>
-	    
-			<div class="common_topsearch">
-				
-				<div class="FullDiv">
-					<input id="homeSearchBox" watermark="Search your Health..." name="search_keywords" type="text" onkeyup="return submitSearchForm(event, this.value)" value="">
-				</div>
-	    	</div>
-            
 		</div>
-		<div style="float: right; width: 74%;">	
-            
-
-			
-				<div class="rightTopLinks">
-					<a href="/web/jsp/doctor/doctorJoin.jsp">Are you a Doctor?</a>&nbsp;&nbsp;|&nbsp;&nbsp;
-					<a rel="nofollow" href="#" onclick="switchOverlayToLogin()" title="Click to Login"><b>Sign-In</b></a>&nbsp;&nbsp;|&nbsp;&nbsp;
-					<a rel="nofollow" href="#" onclick="switchOverlayToRegister()" title="Click to Register">Sign-up</a> &nbsp;&nbsp;
-				</div>
-			
-		</div>
-        
 	</div>
+</section>
+
+
+<header id="header" data-toggle="sticky-onscroll">
+
+    <!-- navagation start here-->
+    <div class="container">
+        <nav class="navbar navbar-expand-sm">
+            <a class="col-lg-3 navbar-brand" href="/"><img class="img-responsive" alt="Ask a Doctor 24x7 " title="Ask a Doctor 24x7" src="/web/images/aadLogo.png"></a>
+
+
+            
+
+
+            
+
+            
+            <button class="navbar-toggler toggel-btn" type="button" data-toggle="collapse" data-target="#navbarCollapse" aria-controls="navbarCollapse" aria-expanded="false" aria-label="Toggle navigation">
+                <span class="sr-only">Toggle navigation</span> <span class="icon-bar"></span> <span class="icon-bar"></span>
+                <span class="icon-bar"></span> <span class="menu">MENU</span>
+            </button>
+            <div class="col-lg-9 navigation">
+                <div class="collapse navbar-collapse" id="navbarCollapse">
+                    <ul class="navbar-nav">
+                        <li> <a rel="nofollow" href="/UserServlet?page=userProfile" data-hover="dropdown" class="js-activated" id="dropdownMenu3"><i class="about-icon"></i> My Dashboard</a> </li>
+                        <li> <a rel="nofollow" href="/UserServlet?page=userTransactions" data-hover="dropdown" class="js-activated"><i class="transaction-icon"></i> My Transactions</a> </li>
+                        <li> <a href="/products" data-hover="dropdown" class="js-activated"><i class="solution-icon"></i> Services</a> </li>
+                        <li> <a href="/testimonials" data-hover="dropdown" class="js-activated"><i class="testimonial-icon"></i> Testimonials</a> </li>
+                        <li> <a href="/doctorHome" data-hover="dropdown" class="js-activated"><i class="news-icon"></i> Doctors</a> </li>
+                        <li> <a href="/topics" data-hover="dropdown"><i class="faq-icon"></i> Topics</a> </li>
+                        <li> <a href="https://www.askadoctor24x7.com/" target="_blank" data-hover="dropdown" class="js-activated"><i class="award-icon"></i> Blog</a> </li>
+
+                        
+                        <li>
+                            <div class="ask-doctor-btn"> <a href="/ask-doctor-online" rel="nofollow" class="more">Ask a Doctor Now  <i class="fa fa-angle-double-right"></i></a>
+                                <span class="doctor-online mar"><i class="fa fa-circle" aria-hidden="true"></i> 129 Doctors Online</span>
+                            </div>
+                        </li>
+                        
+                    </ul>
+                </div>
+            </div>
+            
+		</nav>
+	</div>
+</header>
+<!-- Phone Search -->
+<div id="searchbox">
+    <div class="container phone-search">
+        <form id="frmSearch1" method="post">
+            <label class="t_search">
+                <input type="text" placeholder="Search Items" class="col-12" id="txtsearchphone">
+            </label>
+            <label class="i_search">
+                <button type="submit" class="btn btn-block" onclick="submitSearchFormWithoutEvent(ge('txtsearchphone').value)">search</button>
+            </label>
+        </form>
+    </div>
+</div>
+<!-- End phone search -->
+
+<div style="float:left;width:100%;">
+	<div id="ajaxMessageDiv" style="float: left; text-align: center; width: 100%;"></div>
 	
-	<div style="float:left; width:100%;">
+	
+</div>
 
-			<div style="width:970px;float:none;margin: 0 auto;">		
-				<div style="width:100%;float:left; border-bottom:1px solid #E5E5E5; height: 60px;">
-								
-							<div style="float:right;width:25%;">
-                                
-									<div style="width: 100%;float: right; curson:pointer;" onclick="window.location='/ask-doctor-online'" title="Ask a doctor now">
-										
-										<div style="width: 100%;float: right;">
-										<div style="margin-top:6px;" class="common_topaadButton"></div>
-										</div>
-										<div style="width: 72%;float: right;margin-bottom:5px;">
-										<div style="top:0px;" class="common_online"></div>
-										<div style="top:0px;" id="docOnlineSpan">165 Doctors Online</div>
-										</div>
-									</div>
-                                
-							</div>
-								
-								
-							<div class="logoImage" style="width:27%;float:left; margin-top: -6px;">
-                                    <a href="/">
-                                        <img src="http://d3aly778jsiinv.cloudfront.net/web/images/aadLogo.png" alt="HealthcareMagic" border="0">
-                                    </a>
+<!-- signup Model start -->
+<div aria-hidden="false" aria-labelledby="myModalLabel" role="dialog" tabindex="-1" id="signupmodal" class="modal modal-signup fade">
+    <div class="modal-dialog modal-dialog-centered">
+        <div class="modal-content">
+            <div class="modal-header">
+                <h5 class="modal-title">Register for a New Account as a</h5>
+                <button type="button" class="close" data-dismiss="modal" aria-label="Close"> <span aria-hidden="true">×</span> </button>
+            </div>
+            <div class="modal-body">
+                <div class="row form-group">
+                    <label class="col-md-4 col-form-label d-none d-md-block"></label>
+                    <div class="col-md-8">
+                        <div class="radiobox radiobox-inline">
+                            <input class="radiocustom" name="User" id="userinput" type="radio" onclick="switchOverlayToRegisterResponsive();" checked="">
+                            <label for="userinput" class="radiocustom-label"><span>User</span></label>
+                        </div>
+                        <div class="radiobox radiobox-inline">
+                            <input class="radiocustom" name="User" onclick="switchOverlayToRegisterAsDoctorResponsive();" id="doctorinput" type="radio">
+                            <label for="doctorinput" class="radiocustom-label"><span>Doctor</span></label>
+                        </div>
+                    </div>
+                </div>
+                <div id="u_RegMessage" style="font-weight: bold; color: red;"></div>
+                <form id="userSignInForm">
+                    <div class="row form-group">
+                        <label class="col-md-4 col-form-label" for="inputname">Your Name :</label>
+                        <div class="col-md-8">
+                            <input type="email" name="u_RegName" id="inputname" class="form-control">
+                        </div>
+                    </div>
+                    <div class="row form-group">
+                        <label class="col-md-4 col-form-label" for="inputEmail">Your e-mail :</label>
+                        <div class="col-md-8">
+                            <input type="email" name="u_RegEmail" id="inputEmail" class="form-control">
+                        </div>
+                    </div>
+                    <div class="row form-group">
+                        <label class="col-md-4 col-form-label" for="password">Password :</label>
+                        <div class="col-md-8">
+                            <input type="password" name="u_RegPass" id="password" class="form-control">
+                        </div>
+                    </div>
+                    <div class="row form-group">
+                        <label class="col-md-4 col-form-label" for="confirmpassword">Confirm Password :</label>
+                        <div class="col-md-8">
+                            <input type="password" name="u_RegConfirm" id="confirmpassword" class="form-control" onkeypress="submitOnEnter(event,userSignIn)">
+                        </div>
+                    </div>
+                    <div class="row form-group">
+                        <label class="col-md-4 col-form-label d-none d-md-block"></label>
+                        <div class="col-md-8">
+                            <label class="checkboxcustom-label"> Your information is secure <i class="fas fa-lock text-success"></i></label>
+                            <div class="checkbox">
+                                <input class="checkboxcustom" name="u_registerTerms" id="regTermsConditions" type="checkbox" checked="checked">
+                                <label for="regTermsConditions" class="checkboxcustom-label"><span>I Agree to <a href="https://www.healthcaremagic.com//web/jsp/staticpages/disc.jsp" target="_blank" class="text-primary">Terms &amp; Conditions</a></span></label>
+                            </div>
+                            <div class="checkbox">
+                                <input class="checkboxcustom" name="rememberMe" id="rememberMeSignup" checked="checked" value="true" type="checkbox">
+                                <label for="rememberMeSignup" class="checkboxcustom-label"><span>Remember me</span></label>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="row form-group">
+                        <label class="col-md-4 col-form-label d-none d-md-block"></label>
+                        <div id="u_RegisterButton" class="col-md-8"> <a class="btn btn-warning" data-target="#" href="javascript:userSignIn();">Register <i class="fa fa-angle-double-right"></i></a> <a class="text-primary float-right mt-2" onclick="$('#signupmodal').modal('hide')" data-target="#signinmodal" data-toggle="modal" href="#">Already registered? Login <i class="fa fa-angle-double-right"></i></a> </div>
+                    </div>
+                </form>
+                <div>
+                    <form id="userSignInFormForDoctor" style="display: none;" action="/DoctorServlet?page=createDoctor" method="POST">
+                        <div class="row form-group">
+                            <label class="col-md-4 col-form-label" for="inputname">Your Name :</label>
+                            <div class="col-md-8">
+                                <input type="email" name="u_RegName" id="yname" class="form-control">
+                            </div>
+                        </div>
+                        <div class="row form-group">
+                            <label class="col-md-4 col-form-label" for="yemail">Your e-mail :</label>
+                            <div class="col-md-8">
+                                <input type="email" name="u_RegEmail" onkeypress="submitOnEnter(event,userSignInForDoctor)" id="yemail" class="form-control">
+                            </div>
+                        </div>
+                        <div class="row form-group">
+                            <label class="col-md-4 col-form-label d-none d-md-block" for="yemail"></label>
+                            <div class="col-md-8"> <a class="btn btn-warning" href="javascript:userSignInForDoctor();">Continue <i class="fa fa-angle-double-right"></i></a> <a class="text-primary float-right  mt-2" onclick="$('#signupmodal').modal('hide')" data-target="#signinmodal" data-toggle="modal" href="#">Already registered? Login <i class="fa fa-angle-double-right"></i></a> </div>
+                        </div>
+                    </form>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+<!--signup Model end -->
 
-							</div>
-							
-								
-								
-							<div style="float:left; width: 44%;margin-top: 14px;">
-								
-								 	<div class="newNavigation"> 
-										<ul id="nav-v-primary-tabs">
-											<li><a rel="nofollow" href="/UserServlet?page=userProfile" class="">My Dashboard</a></li>
-											<li><a rel="nofollow" href="/UserServlet?page=userTransactions" class="">My Transactions</a></li>
-											<li><a href="/products" class="">Services</a></li>
-											<li><a href="/doctorHome" class="">Doctors</a></li>
-											<li><a href="/topics" class="">Topics</a></li>											
-										</ul>
-									</div>
-								
-							</div> 		
-						</div>
-					</div>
-				</div>
-			</div>		
+<!-- signin Model start -->
+<div aria-hidden="false" aria-labelledby="myModalLabel" role="dialog" tabindex="-1" id="signinmodal" class="modal modal-Signin fade">
+    <div class="modal-dialog modal-dialog-centered">
+        <div class="modal-content">
+            <div class="modal-header">
+                <h5 class="modal-title">Sign-in to HealthcareMagic</h5>
+                <button type="button" class="close" data-dismiss="modal" aria-label="Close"> <span aria-hidden="true">×</span> </button>
+            </div>
+            <div class="modal-body clearfix">
+                <form id="loginajaxform" onsubmit="return false;" method="post">
+                    <div id="u_errorDisplayMessage" class="" style="font-weight: bold; color: red;"></div>
+                    <div class="row form-group">
+                        <label class="col-md-3 col-form-label" style="padding-left: 10px;" for="u_email">Your e-mail : </label>
+                        <div class="col-md-9">
+                            <input type="email" id="u_email" name="email" size="18" class="form-control">
+                        </div>
+                    </div>
+                    <div class="row form-group">
+                        <label class="col-md-3 col-form-label" for="u_password">Password : </label>
+                        <div class="col-md-9">
+                            <input type="password" name="password" id="u_password" onkeypress="submitOnEnter(event,validatelogin)" size="18" class="form-control">
+                        </div>
+                    </div>
+                    <div class="row form-group">
+                        <label class="col-md-3 col-form-label d-none d-md-block"></label>
+                        <div class="col-md-9">
+                            <div class="checkbox checkbox-inline">
+                                <input class="checkboxcustom" name="rememberMe" id="rememberMe" checked="checked" value="true" type="checkbox">
+                                <label for="rememberMe" class="checkboxcustom-label"><span>Remember me</span></label>
+                            </div>
+                            <a id="u_forgotPasswordBtn" href="javascript:forgotPasswordUser();" class="text-primary float-right">Forgot password?</a> </div>
+                    </div>
+                    <div class="row form-group">
+                        <label class="col-md-3 col-form-label d-none d-md-block"></label>
+                        <div class="col-md-9"> By proceeding further you accept the <a target="_blank" href="/web/jsp/staticpages/disc.jsp">Terms and Conditions</a> </div>
+                    </div>
+                    <div class="row form-group">
+                        <label class="col-md-3 col-form-label d-none d-md-block"></label>
+                        <div class="col-md-9">
+                            <button id="u_loginButton" class="btn btn-warning" type="submit" onclick="validatelogin()">Login <i class="fa fa-angle-double-right"></i></button>
+                        </div>
+                    </div>
+                </form>
+                <div class="row">
+                    <div class="col-sm-12 or"> <span>OR </span> </div>
+                </div>
+                <div class="row orlogin">
+                    <div class="col-sm-6">
+                        <div class="box" onclick="window.open('/openid?op=Google','Login_Using_Google','width=600,height=450');"><img src="/r/images/google-logo-icon.png" alt="google" class="img-fluid"> Sign in with Google</div>
+                    </div>
+                    
+                    
+                    
+                    
+                    
+                    
+                    <div class="col-sm-6 ">
+                        <div class="dontaccount" style="
+    padding-top: 10px;"> <a class="register text-left pull-left" onclick="$('#signinmodal').modal('hide')" data-target="#signupmodal" data-toggle="modal" href="#"> Don't have account? Register</a> </div>
+                    </div>
+                </div>
+                <div style="float: left;" id="f_errorDisplayMessage" class="loginSorryDisplayMessage"></div>
+            </div>
+        </div>
+    </div>
+</div>
+<!-- signin Model end -->
 
-		<div style="float:left;width:100%;">
-			<div id="ajaxMessageDiv" style="float: left; text-align: center; width: 100%;"></div>
-			
-			
-		</div>
+<script type="text/javascript">
+    function switchOverlayToRegisterResponsive(){
+       /* ge('registerOverlayDiv').style.display='block';
+        ge('loginOverlayDiv').style.display='none';*/
+        ge('userSignInForm').style.display='block';
+        ge('userSignInFormForDoctor').style.display='none';
 
+
+//            $('#userSignInFormForDoctor').animate({display:'none'},800, function(){ Dialog.i('signinPopin').css( {width : '400px', height : '400px'} ).show();  });
+
+    }
+
+    function switchOverlayToRegisterAsDoctorResponsive(){
+       /* ge('registerOverlayDiv').style.display='block';
+        ge('loginOverlayDiv').style.display='none';*/
+        ge('userSignInForm').style.display='none';
+//            $('#userSignInFormForDoctor').animate({display:'block'},800, function(){ Dialog.i('signinPopin').css( {width : '400px', height : '270px'} ).show();  });
+        ge('userSignInFormForDoctor').style.display='block';
+
+    }
+
+
+</script>
 
 
 	
@@ -204,29 +400,96 @@
 			<div style="width:98%;padding-left:10px;" align="center">
 				<div class="innerBorderBodyDiv" style="float:left; padding-bottom: 50px; line-height: 18px; text-align: left;">
 					<div style="float: left;width:100%; padding: 10px 0px;">
-						<h1 class="OrangeH1">Privacy Policy</h1>
+						<p style="text-align: center;"><strong><span>NOTICE OF PROCESSING OF PERSONAL DATA</span></strong></p>
+<p><strong>&nbsp;</strong></p>
+<br>
+<p><span><strong>WHO IS USING YOUR PERSONAL DATA</strong></span></p>
+<br>
+<p><strong><u>HealthcareMagic</u></strong>, ('<strong><u>HealthcareMagic</u></strong>', '<strong>we</strong>', '<strong>us</strong>', '<strong>our</strong>') is one of the leading health portals allowing interaction between Doctors and Users ("<strong>User</strong>") over Internet and phone.</p>
+<p>In providing this service we will act as a 'processor' in relation to your personal data.</p>
+<br>
+<p><span><strong>SCOPE OF THIS NOTICE</strong></span></p>
+<br>
+<p>Please read this notice carefully. It applies to the treatment of any information that could be used to identify you as an individual and which is collected through your use or interaction with our website and services ("<strong>personal data</strong>"). The protection of your personal data is very important to us, and we understand our responsibilities to handle your personal data with care, to keep it secure and to comply with legal requirements.</p>
+<br>
+<p>This notice is not intended to override the terms of any contract that you or any relevant User may have with us, or that you may have with any relevant User, or any rights you might have available under applicable data protection laws.</p>
+<br>
+<p>We may make changes to this notice from time to time, for example to keep it up to date or to comply with legal requirements or changes in the way we operate our business.</p>
+<p>We encourage you to regularly check back and review this policy so that you will always know what information we collect, how we use it, and who we share it with.</p>
+<br>
+<p>Do not disclose any personally identifiable information including, but not limited to, your name, email address, phone number, and date of birth in any section of the website, irrespective of whether you have paid for the service or not. The information you submit to HealthcareMagic may be used to help other users who are searching for information about similar health conditions. Any information that you submit to HealthcareMagic is searchable by search engines.</p>
+<br>
+<p><span><strong>WHAT PERSONAL DATA DO WE COLLECT?</strong></span></p>
+<br>
+<p>We will process the personal data that you provide to us and/or the User, or any person acting on behalf of a User and/or which you record when using our software products and services, in particular your&nbsp;<span><strong><em>contact details</em></strong></span>, including your full name, job title, employment details including your employer, your business email address, and telephone number, your health problems, and records uploaded by you. In limited circumstances when you contact us for support, this might also include the limited details that you make available in relation to the issue.</p>
+<br>
+<p>We comply with the data minimization principles of data protection laws and we will not collect any personal data from you we do not need, in order to provide and oversee our services. In particular, we do not collect any special categories of data, in the general course of providing services in connection with our products or through making the Website available, unless required and only when we have an appropriate legal basis to do so.&nbsp;<strong>&nbsp;</strong></p>
+<br>
+<p><span><strong>WHEN DO WE COLLECT YOUR PERSONAL DATA?</strong></span></p>
+<br>
+<p>We will collect information from you&nbsp;<em>directly</em>&nbsp;when you use the Website. To the extent permitted by law, we may also monitor and record telephone calls for training and quality assurance purposes when you call the help desk&nbsp;<em>directly</em>&nbsp;for user support. Information about you may also be provided to us&nbsp;<em>indirectly</em>&nbsp;by a User.</p>
+<br>
+<p><span><strong>WHAT PURPOSE DO WE USE YOUR DATA FOR?</strong></span></p>
+<br>
+<p>We need to process your&nbsp;<span><strong><em>contact details&nbsp;</em></strong></span>in order to operate our services. We would like to use this information to inform you of anything that may impact your ability to make use of the services. If you do not provide this information, it may result in us being unable to provide our contractual services.</p>
+<br>
+<p>We will collect your&nbsp;<span><strong><em>device data</em></strong></span>&nbsp;to provide and operate our software products and the Website; to further develop, customize, and improve our software products and the Website based on visitors' and users' common or personal preferences, experiences, and difficulties; to provide ongoing customer assistance and technical support; to enhance our data security and fraud prevention capabilities and to comply with any applicable laws and regulations.</p>
 <p>&nbsp;</p>
-<p>Your privacy is important to us and, to better protect it, we have we provided you with an explanation of our Privacy Policy below. If you do not agree to the terms of this Policy, we kindly ask you to leave the site.</p>
-            <br>
-            <p>
-</p><ol class="normalul">
-              <li>Do not disclose any personally identifiable information including, but not limited to, your name, email  address, phone number, and date of birth in any section of the website, irrespective of whether you have paid for the service or not. The information you submit to HealthcareMagic may be used to help other users who are searching for information about similar health conditions. Any information that you submit to HealthcareMagic is searchable by search engines.</li>
-              <li>The information you submit to HealthcareMagic may be seen by service providers, such as doctors, or by operations and maintenance teams repairing and maintaining our technical systems. HealthcareMagic does not have Non-Disclosure Agreements with these parties, who may be able to access your information.</li>
-              <li>HealthcareMagic may use the information you submit to HealthcareMagic to study results and produce reports. Such information may be shared with HealthcareMagic partners and advertisers under the sole discretion of HealthcareMagic.</li>
-              <li>In the case of danger to self or others, and in the case of any legal investigation, HealthcareMagic has the right to share your information with the law enforcement authorities.</li>
-              <li>HealthcareMagic's websites contain links to other sites. Please note that we are not responsible for the privacy practices of other sites. We encourage our users to be aware when they leave our site and to read the privacy statements of each and every website collecting personal information.</li>
-              <li>We will send emails to the email address you provide, and we will call the phone numbers you provide, if required. In case you have given a wrong email address or phone number for correspondence, HealthcareMagic is not responsible for any loss of information or privacy. </li>
-              <li>HealthcareMagic uses Remarketing with Google Analytics to advertise online. </li>
-			  <li>Third-party vendors, including Google, show HealthcareMagic's ads on sites across the Internet. </li>
-			  <li>HealthcareMagic and third-party vendors, including Google, use first-party cookies (such as the Google Analytics cookie) and third-party cookies (such as the DoubleClick cookie) together to inform, optimize, and deliver ads based on someone's past visits to our website. </li>
-              
-            </ol>
+<p>We have to establish a legal ground to use your personal data, so we will make sure that we only use your personal data for the purposes set out above where we are satisfied that:</p>
 
-<p>&nbsp;</p>
-              
-						  <p><strong>Your use of the site, the services and the content is subject to the above Terms and Conditions, Privacy Policy, Fair Usage Policy and Disclaimer. If you find these Conditions unacceptable, we request that you do not use this portal.</strong></p>
-						<br>
-						<p><strong>Last updated: August 17, 2012</strong></p>
+<ol class="normalul">
+    <li>our use of your personal data is necessary to support 'Legitimate Interests' that we have as a business (namely, to improve our products or services, to provide help or support in connection with our products and the website, to ensure that our products and the website operate efficiently and securely, and to carry out analytics across our datasets), provided it is always carried out in a way that is proportionate, and that respects your privacy rights; and/or</li>
+    <li>our use of your personal data is necessary to comply with a relevant legal or regulatory obligation that we are subject to (e.g. to comply with FCA or ICO requirements).</li>
+</ol>
+<br>
+<p>Before collecting and/or using any special categories of data we will establish an additional lawful ground to those set out above which will allow us to use that information. This additional exemption will typically be:</p>
+<ol class="normalul">
+    <li>your explicit consent;</li>
+    <li>the establishment, exercise or defence by us or third parties of legal claims; or</li>
+    <li>a specific exemption provided under local laws of EU Member States and other countries implementing the GDPR.</li>
+</ol>
+<br>
+<p><strong>PLEASE NOTE</strong>. If you provide your explicit consent to allow us to process your special categories of data, you may withdraw your consent to such processing at any time. However, you should be aware that if you choose to do so we may be unable to continue to provide certain services to you. If you choose to withdraw your consent we will tell you more about the possible consequences.</p>
+<br>
+<p>We will send emails to the email address you provide, and we will call the phone numbers you provide, if required. In case you have given a wrong email address or phone number for correspondence, HealthcareMagic is not responsible for any loss of information or privacy.</p>
+<br>
+<p>The information you submit to HealthcareMagic may be seen by service providers, such as doctors, or by operations and maintenance teams repairing and maintaining our technical systems. HealthcareMagic does not have Non-Disclosure Agreements with these parties, who may be able to access your information.</p>
+<br>
+<p>HealthcareMagic may use the information you submit to HealthcareMagic to study results and produce reports. Such information may be shared with HealthcareMagic partners and advertisers under the sole discretion of HealthcareMagic.</p>
+<br>
+<p>All details shared with us are only used to communicate with them or for addressing their specific queries and is never shared with any third party for the purposes of business promotion or marketing.</p>
+<br>
+<p><span><strong>WHERE IS YOUR PERSONAL DATA STORED?</strong></span></p>
+<br>
+<p>All the personal data we process is processed by our staff. For the purposes of IT hosting and maintenance of our website, this information is located on various servers hosted by our data center providers across different locations. We will not share your personal data outside the European Union unless it is a transfer to a country which is recognized as providing an adequate level of legal protection or by ensuring that transfers are protected by contractual commitments for additional security - for example, the EU - U.S. Privacy Shield for the protection of personal data transferred to the US. In those cases you will have the right to ask us for more information about the safeguards we have put in place as mentioned above (e.g. to request a copy where the safeguard is documented, which may be redacted to ensure confidentiality).</p>
+<br>
+<p>No third parties, other than those that you chose to transact with over our products and services, have access to your personal data unless authorised by law, for example a regulatory body. We take all reasonable steps to ensure that your personal data is processed securely.</p>
+<br>
+<p><span><strong>HOW LONG DO WE KEEP IT?</strong></span></p>
+<br>
+<p>In relation to your&nbsp;<span><strong><em>contact details</em></strong></span>,we will retain your data for so long as is instructed by the relevant controller. In some circumstances we may retain your personal data for longer periods of time, for example where we are required to do so to meet legal, regulatory, tax, or accounting requirements, in particular where it forms part of an audit trail created to record your use of our website.</p>
+<br>
+<p>For the&nbsp;<span><strong><em>device data</em></strong></span>&nbsp;we will retain your personal data for as long as is reasonably necessary for the purposes listed in this notice, and in line with our cookie settings for example.</p>
+<br>
+<p>In specific circumstances we may also retain your personal data for longer periods of time so that we have an accurate record of your dealings with us in the event of any complaints or challenges, or if we reasonably believe there is a possibility of legal action relating to your personal data or dealings.</p>
+<br>
+<p>HealthcareMagic uses Remarketing with Google Analytics to advertise online.</p>
+<br>
+<p>Third-party vendors, including Google, show HealthcareMagic's ads on sites across the Internet. HealthcareMagic and third-party vendors, including Google, use first-party cookies (such as the Google Analytics cookie) and third-party cookies (such as the DoubleClick cookie) together to inform, optimize, and deliver ads based on someone's past visits to our website.</p>
+<br>
+<p>HealthcareMagic's websites contain links to other sites. Please note that we are not responsible for the privacy practices of other sites. We encourage our users to be aware when they leave our site and to read the privacy statements of each and every website collecting personal information.</p>
+<br>
+<br>
+<p><span><strong>WHAT ARE YOUR RIGHTS?</strong></span></p>
+<br>
+<p>You have a number of rights in relation to your personal data which should be exercised by contacting the&nbsp;<strong>HealthcareMagic</strong>&nbsp;who is the 'controller' of this data. In summary, you may request us to ensure you can access your data, request the rectification of any mistakes relating to your data, request the erasure of records which are no longer required, request the restriction on the processing of your data, object to the processing of your data, or request to exercise your right of data portability. You also have various rights in relation to any automated decision making and profiling, however we do not carry out these activities in connection with our products or services.</p>
+<br>
+<p><span><strong>CONTACT AND COMPLAINTS</strong></span></p>
+<br>
+<p>You can contact us with any queries or concerns at the following email&nbsp;address <a href="mailto:GDPR.adam@ebix.com">GDPR.adam@ebix.com</a></p>
+<br>
+<p>If you have a complaint or concern about how we use your personal data, please contact us in the first instance and we will attempt to resolve the issue as soon as possible. You also have a right to lodge a complaint with your national data protection supervisory authority at any time. In the UK, the supervisory authority for data protection is the ICO (<a href="https://ico.org.uk/)">https://ico.org.uk/)</a>. We do ask that you please attempt to resolve any issues with us first, although you have a right to contact your supervisory authority at any time.</p><br>
+						 
 						<br>
 		             </div>			
 				</div>
@@ -267,132 +530,100 @@
 
 
 <div id="wholeFootDiv">
-		<div class="bd">	
-			<div class="footerMenu">
 
-                
-                <div style="width:100%;float:left;margin-top:5px;padding-bottom: 15px; border-bottom: 1px solid #efefef;margin-bottom: 10px;">
-                    <center>
-                        <script async="" src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-                        <!-- Site-wide Footer Banner Ad -->
-                        <ins class="adsbygoogle" style="display:inline-block;width:728px;height:90px" data-ad-client="ca-pub-6900058909681937" data-ad-slot="1234523042"></ins>
-                        <script>
-                            (adsbygoogle = window.adsbygoogle || []).push({});
-                        </script>
-                    </center>
-                </div>
-                
-
+	
+	
+		
+			
+			
+			
+				 
+				 
+				 
+			
 				
-				
+			
+		
+	
+	
+
+
+
+		
+		
+		
+		
+
+	
 
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-<div>
-    <div style="width: 98%; float: left;text-align:left;padding-bottom:5px;">
-        <div style="width:100%; float:left;padding-bottom:10px;">
-            <div style="width:20%; float:left;">
-                <div class="articleListTitle" style="width:100%; padding-bottom:5px;color:#2B496A;">Explore HealthcareMagic</div>
-                <ul class="bottomul">
-                    <li><a href="/ask-doctor-online">Ask a Doctor Online</a></li>
-                    <li><a href="/specialists">Ask a Specialist</a></li>
-                    <li><a href="/community">Health Questions and Answers</a></li>
-                    <li><a href="/healthResource">Health Resources</a></li>
-                    <li><a href="/search/index">Browse Health Indexes</a></li>
-                    <li><a href="/community/recent-updates">Recently Updated Questions</a></li>
-                    <li><a href="/sitemap">Sitemap</a></li>
-                </ul>
-            </div>
-            <div style="width:15%; float:left;">
-                <div class="articleListTitle" style="width:100%;padding-bottom:5px;color:#2B496A;">&nbsp;</div>
-                <ul class="bottomul">
-                    <li><a href="/about">About us</a></li>
-                    <li><a href="/contact">Contact us </a></li>
-                    <li><a href="/press">In the News</a></li>
-                    <li><a href="/advertise">Advertise with us </a></li>
-                    <li><a href="/faq">FAQs </a></li>
-                    <li><a href="javascript:" onclick="showGiveFeedbackForm('');">Feedback</a></li>
-                    <li><a href="/privacy"> Privacy Policy</a></li>
-                </ul>
-            </div>
-            <div style="width:65%; float:left;">
-                <div style="width: 100%; float:left; margin-top: 5px; text-align: left;">
-                    <span style="float: left; padding: 10px 0px;"><img src="http://dy109hmwzquzs.cloudfront.net/web/images/ebix/ebix_adam_logo.jpg"></span>
-                    <span style="float: left; margin-left: 10px; cursor:pointer; padding-left: 10px; border-left: 1px solid #ddd;" onclick="window.open('https://sealinfo.verisign.com/splash?form_file=fdf/splash.fdf&amp;dn=www.healthcaremagic.com&amp;lang=en')"><span class="common_verisignlogo"> </span></span>
-                </div>
-
-                <div style="text-align:left;font-size:10px;color:#999;margin: 5px 0px;">
-                    <span style="font-size: 14px;">© <script type="text/javascript"> document.write(new Date().getFullYear()); </script>2020 Ebix, Inc. All Rights Reserved.</span><br>
-                    All the information, content and live chat provided on the site is intended to be for informational purposes only, and not a substitute for professional or medical advice. You should always speak with your doctor before you follow anything that you read on this website. Any health question asked on this site will be visible to the people who browse this site. Hence, the user assumes the responsibility not to divulge any personally identifiable information in the question. Use of this site is subject to our
-                    <a style="color:#2B496A;" href="/tc"> Terms &amp; Conditions</a>
-                </div>
-
-            </div>
+<!-- footer-bottom start here-->
+<footer class="footer-bottom">
+    <div class="container">
+        <div class="row">
+            <div class="col-md-12"> <a class="ebixLogo img-fluid" target="_blank" href="http://www.ebix.com/"><img alt="Ebix" src="/r/images/ebix-adam_logo.png" class="img-fluid"></a> </div>
         </div>
-        <div style="float:left;width:100%;margin-left:30%;">
-            <div style="float: left; width: 100%;">
-                <div style="padding-top: 10px; float: left; padding-left: 20px; ">
-                    <div id="ratingMsg">Already Rated.</div>
-                    <div style="float:left;margin-top:6px;">Your rating:</div>
-                    <ul class="bigstarRating" style="float: left; margin-left: 5px; margin-top: 1px;">
-                        <li style="width: 0%;" class="current-rating" id="ratingId">
-                        </li><li><a onclick="setAnswerRating(1);return false;" rel="nofollow" class="star-rating one-star" title="Poor" href="javascript:">1</a></li>
-                        <li><a onclick="setAnswerRating(2); return false;" rel="nofollow" class="star-rating two-stars" title="Average" href="javascript:">2</a></li>
-                        <li><a onclick="setAnswerRating(3); return false;" rel="nofollow" class="star-rating three-stars" title="Good" href="javascript:">3</a></li>
-                        <li><a onclick="setAnswerRating(4); return false;" rel="nofollow" class="star-rating four-stars" title="Very Good" href="javascript:">4</a></li>
-                        <li><a onclick="setAnswerRating(5); return false;" rel="nofollow" class="star-rating five-stars" title="Excellent" href="javascript:">5</a></li>
-                        
+        <div class="testimonial">
+            <div class="row">
+                <div class="col-md-7 col-sm-12">
+                    <p>All the information, content and live chat provided on the site is intended to be for informational purposes only, and not a substitute for professional or medical advice. You should always speak with your doctor before you follow anything that you read on this website. Any health question asked on this site will be visible to the people who browse this site. Hence, the user assumes the responsibility not to divulge any personally identifiable information in the question. Use of this site is subject to our <a href="/tc"> Terms &amp; Conditions</a></p>
+                </div>
+                <div class="col-md-3 col-sm-6">
+                    <ul class="contact-info">
+                        <li class="label-title"><a title="Ask a Doctor Online" target="_blank" href="/ask-doctor-online">Ask a Doctor Online</a></li>
+                        <li class="label-title"><a title="Ask a Specialist" target="_blank" href="/specialists">Ask a Specialist</a></li>
+                        <li class="label-title"><a title="Health Questions and Answers" target="_blank" href="/community">Health Questions and Answers</a></li>
+                        <li class="label-title"><a title="Health Resources" target="_blank" href="/healthResource">Health Resources</a></li>
+                        <li class="label-title"><a title="Browse Health Indexes" target="_blank" href="/search/index">Browse Health Indexes</a></li>
+                        <li class="label-title"><a title="Recently Updated Questions" target="_blank" href="/community/recent-updates/">Recently Updated Questions</a></li>
                     </ul>
                 </div>
-
-                <div id="ratingResult" style="float: left; padding-left: 10px; display: none; font-size: 12px; padding-top: 14px; font-weight: bolder;">
-
-                </div>
-                
-                
-                <div style="float: left;padding: 10px;margin-left: 10px;">
-                    
-
-                    <div itemscope="" itemtype="http://schema.org/Product">
-                        <h2 itemprop="name">Ask a Doctor</h2>
+                <div class="col-md-2 col-sm-6">
+                    <ul class="contact-info">
+                        <li class="label-title"><a title="Contact us" target="_blank" href="/contact">Contact us</a></li>
+                        <li class="label-title"><a title="FAQs" target="_blank" href="#">FAQs</a></li>
                         
-                            
-                                
-                                
-                            
-                        
-                    </div>
-
+                        <li class="label-title"><a title="In the News" target="_blank" href="/press">In the News</a></li>
+                        <li class="label-title"><a title="Advertise with us" target="_blank" href="/advertise">Advertise with us</a></li>
+                        <li class="label-title"><a target="_blank" title="Privacy Policy" href="/privacy">Privacy Policy</a></li>
+                        <li class="label-title"><a title="Sitemap" target="_blank" href="/sitemap">Sitemap</a></li>
+                    </ul>
                 </div>
-                
             </div>
         </div>
-
-        
-        <script type="text/javascript">
-            var google_ad_client = "pub-7787998773868810";
-        </script>
         
     </div>
-</div>
+
+    
+    <script type="text/javascript">
+        var google_ad_client = "pub-7787998773868810";
+    </script>
+    
+</footer> <!-- footer-bottom end here-->
 
 
 
-<script language="javascript" src="http://d3kvn6nhl873a4.cloudfront.net/web/js/jquery/1.7/jQueryCombined.js" type="text/javascript"></script>
-<script language="javascript" src="http://d3aly778jsiinv.cloudfront.net/web/js/new/u.js?v=2.99" type="text/javascript"></script>
+
+
+
+
+<script language="javascript" src="/web/js/jquery/2.1/jquery-2.1.4.min.js?v=1.01" type="text/javascript"></script>
+<script language="javascript" src="/web/js/jquery/2.1/jQueryCombined.js?v=0.01" type="text/javascript"></script>
+
+<script language="javascript" src="/web/js/new/u.js?v=2.106" type="text/javascript"></script>
+
+
+
+
+
+
+<script src="/r/js/popper.min.js"></script>
+<script src="/r/js/bootstrap.min.js"></script>
+<script src="/r/js/sticky.js"></script>
+<script src="/r/js/custom.js"></script>
+
 
 
 
@@ -456,7 +687,7 @@
             ge('loginOverlayDiv').style.display='none';
             ge('userSignInForm').style.display='block';
             ge('userSignInFormForDoctor').style.display='none';
-            Dialog.i('signinPopin').css( {width : '400px', height : '420px'} ).show();
+            Dialog.i('signinPopin').css( {width : '400px', height : 'max-content'} ).show();
 
 //            $('#userSignInFormForDoctor').animate({display:'none'},800, function(){ Dialog.i('signinPopin').css( {width : '400px', height : '400px'} ).show();  });
 
@@ -571,58 +802,7 @@
         
 </script>
 
-					
-					
-						
 
-
-
-
-
-
-
-
- 
-<div style="padding-top:10px;">
-	<div class="footCloud">
-		 <div style="font-weight:bold;padding-bottom:5px;width:100%;float:left;">What people are searching on HealthcareMagic</div>
-		 <div class="dynamicFooter">
-		 
-	 		 
-	 		
-
-			
-					<a href="/search/precaution-to-be-taken-in-sugar-disease">precaution to be taken in sugar disease</a>
-				
-					<a href="/search/precautions-of-spinal-problems">precautions of spinal problems</a>
-				
-					<a href="/search/precautions-to-take-while-undergoing-external-radiation-therapy">precautions to take while undergoing external radiation therapy</a>
-				
-					<a href="/search/precuation-after-dilivery-of-baby">precuation after dilivery of baby</a>
-				
-					<a href="/search/pregnancy-blood-sugar-count">pregnancy blood sugar count</a>
-				
-					<a href="/search/pregnancy-stop-tablets-names">pregnancy stop tablets names</a>
-				
-					<a href="/search/pregnancy-stringy-white-stool">pregnancy stringy white stool</a>
-				
-					<a href="/search/pregnancy-tiffy-scanning">pregnancy tiffy scanning</a>
-				
-					<a href="/search/pregnancy-urine-test-rbc-0-1">pregnancy urine test rbc 0 1</a>
-				
-					<a href="/search/pregnant-with-an-intact-hymen">pregnant with an intact hymen</a>
-				
-		</div> 
-	 </div>
-</div>
-
-
-					
-				
-
-			</div>
-			
-		</div>
 </div>
  
 
