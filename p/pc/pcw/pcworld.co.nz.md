@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pcworld.co.nz privacy policy that was archived on 2018-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180527073708id_/https%3A//www.pcworld.co.nz/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pcworld.co.nz privacy policy that was archived on 2019-03-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190327072133id_/https%3A//www.pcworld.co.nz/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - PC World New Zealand
 
