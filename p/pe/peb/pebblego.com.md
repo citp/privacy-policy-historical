@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pebblego.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606211313id_/https%3A//www.pebblego.com/info/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pebblego.com privacy policy that was archived on 2019-03-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190327221134id_/https%3A//www.pebblego.com/info/privacypolicy.html) for the most accurate reproduction.*
 
 # 
 
@@ -8,7 +8,7 @@
 **User Supplied Information** The only information PebbleGo collects is building address, district name, and administrative contact email address(es) and phone number(s). We do not collect or store any student information from the district or building.   
 PebbleGo may disclose user information in special cases when we have reason to believe that disclosing this information is necessary to identify, contact or bring legal action against someone who may be causing injury to or interference with (either intentionally or unintentionally) PebbleGo rights or property or other users of the Web site, or anyone else that could be harmed by such activities. PebbleGo may use or disclose user information to address violations or possible violations of the 
 
-_[Terms of Use](https://www.pebblego.com/info/termsofuse.html)_ of the Web site. PebbleGo may disclose user information when we believe in good faith that the law requires the disclosure.   
+_[Terms of Use](https://pebblego.com/info/termsofuse.html)_ of the Web site. PebbleGo may disclose user information when we believe in good faith that the law requires the disclosure.   
 PebbleGo may share aggregate information about our system usage with business partners and other third parties. For example, we may disclose that the Web site audience comes x percent from east of the Mississippi River and y percent from west of the Mississippi River. 
 
 **Children's Information**   
