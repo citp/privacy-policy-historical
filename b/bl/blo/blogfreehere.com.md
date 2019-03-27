@@ -1,33 +1,49 @@
-> *The following text is extracted and transformed from the blogfreehere.com privacy policy that was archived on 2009-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090617200621id_/http%3A//blogfreehere.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the blogfreehere.com privacy policy that was archived on 2019-03-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190328005553id_/https%3A//www.blogfreehere.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - Blogfreehere.com
+# Privacy Policy | Blog Free Here
 
-At Blogfreehere your privacy as a user is of extreme importance to us. The information you supply is solely for the use of services we supply. You will have the option to reveal or conceal part or all of the information you provide in the ‘profile’ section, or reveal part or all to selected members. The information you share with us is treated with the utmost confidentiality. We do not share or sell or pass on your information to any other member, supplier, company or person, except as and when it is appropriate and explicitly stated that it is our intention to do as part of the normal course of the services. Your private information is not sold shared or passed to any other third party without your prior express permission. The only reason your information will be shared is if required in response to all court orders and lawful requests from governmental authorities.
+* * *
 
-We would only ask for your information to help us improve our products and services that we offer to you our users and partners. Blogfreehere.com is a place where you can publish your own free blog using a powerful, friendly and easy-to-use interface. One can create a personal online journal, share knowledge and skills with like minded community.
+**SECTION 1 – WHAT DO WE DO WITH YOUR INFORMATION?**
 
-In order to access and use certain parts of our website, Blogfreehere will request information from you, such as your name, e-mail address and Phone number. Blogfreehere uses this information to customise your experience on our website and provide you with a password to use certain areas of the website, or for the purposes stated at the time of collection, such as participation in a promotion or research surveys run by us. Data stored by Blogfreehere will NOT be passed to any third party. As you have showed an interest in our products and services we may from time to time contact you with information on new products and services that we feel may be of benefit to you or your company.
+When you purchase something from our store, as part of the buying and selling process, we collect the personal information you give us such as your name, address and email address. When you browse our store, we also automatically receive your computer’s internet protocol (IP) address in order to provide us with information that helps us learn about your browser and operating system. Email marketing (if applicable): With your permission, we may send you emails about our store, new products and other updates.
 
-**Additional stored data**
+**SECTION 2 – CONSENT**
 
-If you contact us we may keep a record of that correspondence and incorporate the information it contains into our user database. By storing this data it will help us better serve you in the future if you contact us again. 
+_How do you get my consent?  
+_When you provide us with personal information to complete a transaction, verify your credit card, place an order, or arrange for a delivery, we imply that you consent to our collecting it and using it for that specific reason only. If we ask for your personal information for a secondary reason, like marketing, we will either ask you directly for your expressed consent, or provide you with an opportunity to say no.
 
-**Other web sites links**
+_How do I withdraw my consent?_  
+If after you opt-in, you change your mind, you may withdraw your consent for us to contact you, for the collection, use or disclosure of your information, at anytime, by contacting us at [support@blogfreehere.com](mailto:support@blogfreehere.com).
 
-From time to time this site may contain links to other websites. Blogfreehere is not responsible for the privacy policies or the content of such sites. Whilst using the Blogfreehere website and services listed on Blogfreehere, you could be directed to a partner or third party site. When you link to these sites, you should review their privacy policy, as it may be different from ours. Partner or third party sites may send their own cookies to users and otherwise collect data or solicit personal information. Blogfreehere is not responsible, and shall not be liable, for the privacy practices of these sites that may make use of any information collected from you. 
+**SECTION 3 – DISCLOSURE**
 
-**Use of Cookies**
+We may disclose your personal information if we are required by law to do so or if you violate our [Terms of Service](https://web.archive.org/terms-of-service).
 
-Some pages on this site use "cookies," which are small files that the site places on your hard drive for identification purposes. These files are used for site registration and customisation the next time you visit our web site. You should note that cookies cannot read data off of your hard drive. Your web browser may allow you to be notified when you are receiving a cookie, giving you the choice to accept it or not. By not accepting cookies, some pages may not fully function and you may not be able to access certain information on this site. 
+**SECTION 4 – THIRD-PARTY SERVICES**
 
-**Your rights**
+In general, the third-party providers used by us will only collect, use and disclose your information to the extent necessary to allow them to perform the services they provide to us. However, certain third-party service providers, such as payment gateways and other payment transaction processors, have their own privacy policies in respect to the information we are required to provide to them for your purchase-related transactions. For these providers, we recommend that you read their privacy policies so you can understand the manner in which your personal information will be handled by these providers. In particular, remember that certain providers may be located in or have facilities that are located a different jurisdiction than either you or us. So if you elect to proceed with a transaction that involves the services of a third-party service provider, then your information may become subject to the laws of the jurisdiction(s) in which that service provider or its facilities are located. As an example, if you are located in Canada and your transaction is processed by a payment gateway located in the United States, then your personal information used in completing that transaction may be subject to disclosure under United States legislation, including the Patriot Act. Once you leave our store’s website or are redirected to a third-party website or application, you are no longer governed by this Privacy Policy or our website’s [Terms of Service](https://web.archive.org/terms-of-service).
 
-You have a legal right to a copy of all the personal information about you held by Blogfreehere. You also have a right to correct any errors in that information. 
+**SECTION 5 – LINKS**
 
-Please keep in mind that whenever you voluntarily disclose personal information online in non-protected environments that information can be collected and used by others e.g. if you post or transmit personal information online that is accessible to the public, you may receive unsolicited messages from other parties in return. 
+When you click on links on our store, they may direct you away from our site. We are not responsible for the privacy practices of other sites and encourage you to read their privacy statements.
 
-If you chose to participate in certain promotions, you may automatically receive occasional promotion related email such as updates on scores or prize drawings), unless you explicitly choose otherwise on the promotion entry instructions. Occasionally these promotion-related email messages might include targeted advertisements. We cannot ensure or warrant the security of any information you transmit to us or to our partners from our online products or services, and you do so at your own risk. Once we receive your transmission, we make our best effort to ensure its security on our systems. 
+**SECTION 5 – SECURITY**
 
-Blogfreehere reserves the right to change, modify or update this statement at any time without notice, we recommend you read this page each time you visit this web site 
+To protect your personal information, we take reasonable precautions and follow industry best practices to make sure it is not inappropriately lost, misused, accessed, disclosed, altered or destroyed. If you provide us with your credit card information, the information is encrypted using secure socket layer technology (SSL) and stored with a AES-256 encryption. Although no method of transmission over the Internet or electronic storage is 100% secure, we follow all PCI-DSS requirements and implement additional generally accepted industry standards.
 
-You must be over 18 to use this service.
+**SECTION 7 – COOKIES**
+
+Here is a list of cookies that we use. We’ve listed them here so you that you can choose if you want to opt-out of cookies or not. _session_id, unique token, sessional, Allows us to store information about your session (referrer, landing page, etc).
+
+**SECTION 8 – AGE OF CONSENT**
+
+By using this site, you represent that you are at least the age of majority in your state or province of residence, or that you are the age of majority in your state or province of residence and you have given us your consent to allow any of your minor dependents to use this site.
+
+**SECTION 9 – CHANGES TO THIS PRIVACY POLICY**
+
+We reserve the right to modify this privacy policy at any time, so please review it frequently. Changes and clarifications will take effect immediately upon their posting on the website. If we make material changes to this policy, we will notify you here that it has been updated, so that you are aware of what information we collect, how we use it, and under what circumstances, if any, we use and/or disclose it. If our store is acquired or merged with another company, your information may be transferred to the new owners so that we may continue to sell products to you.
+
+**QUESTIONS AND CONTACT INFORMATION**
+
+If you would like to: access, correct, amend or delete any personal information we have about you, register a complaint, or simply want more information contact our Privacy Compliance Officer at [support@blogfreehere.com](mailto:support@blogfreehere.com).
