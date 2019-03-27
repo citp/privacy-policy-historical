@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hayhouse.com privacy policy that was archived on 2018-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181224194201id_/https%3A//www.hayhouse.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hayhouse.com privacy policy that was archived on 2019-03-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190327151614id_/https%3A//www.hayhouse.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -74,12 +74,12 @@ If you sign up for a membership, payment plan or purchase any of our paid subscr
 Article 6 of the General Data Protection Regulation (2016/679) states that:
 
   1. “Processing shall be lawful only if and to the extent that at least one of the following applies:
-    * a. the data subject has given consent to the processing of his or her personal data for one or more specific purposes;
-    * b. processing is necessary for the performance of a contract to which the data subject is party or in order to take steps at the request of the data subject prior to entering into a contract;
-    * c. processing is necessary for compliance with a legal obligation to which the controller is subject;
-    * d. processing is necessary in order to protect the vital interests of the data subject or of another natural person;
-    * e. processing is necessary for the performance of a task carried out in the public interest or in the exercise of official authority vested in the controller;
-    * f. processing is necessary for the purposes of the legitimate interests pursued by the controller or by a third party, except where such interests are overridden by the interests or fundamental rights and freedoms of the data subject which require protection of personal data, in particular where the data subject is a child.
+    1. the data subject has given consent to the processing of his or her personal data for one or more specific purposes;
+    2. processing is necessary for the performance of a contract to which the data subject is party or in order to take steps at the request of the data subject prior to entering into a contract;
+    3. processing is necessary for compliance with a legal obligation to which the controller is subject;
+    4. processing is necessary in order to protect the vital interests of the data subject or of another natural person;
+    5. processing is necessary for the performance of a task carried out in the public interest or in the exercise of official authority vested in the controller;
+    6. processing is necessary for the purposes of the legitimate interests pursued by the controller or by a third party, except where such interests are overridden by the interests or fundamental rights and freedoms of the data subject which require protection of personal data, in particular where the data subject is a child.
 
 
 
@@ -95,7 +95,7 @@ Our data retention for physical product orders will not extend beyond 10 years, 
 
 If you purchase a digital product, you will be asked to create a username and password to log into your customer account portal in order to access the product(s) purchased. Digital product purchases grant lifetime ownership and data will be retained in order to carry out our lifetime guarantee. If your digital product is not accessed within a 6-year period at any point in time, your account will be deemed inactive All inactive data will not be retained beyond 10 years at which time the data will be marked for permanent deletion.
 
-When you register to receive emails from Hay House, your personal data is stored so that we can continue to send you relevant emails. You may request removal at any time at <https://www.hayhouse.com/newsletter/manage/> or by [contacting us](https://www.hayhouse.com/contact).
+When you register to receive emails from Hay House, your personal data is stored so that we can continue to send you relevant emails. You may request removal at any time at [https://www.hayhouse.com/newsletter/manage/](https://web.archive.org/newsletter/manage/) or by [contacting us](https://www.hayhouse.com/contact).
 
 Hay House retains non-personally identified data, including encrypted, anonymized and pseudonymized data for 10 years.
 
@@ -129,7 +129,7 @@ Please contact Customer Service to request the removal of your PII from our data
 
 
 
-To exercise all relevant rights and for queries of complaints please contact us at <https://www.hayhouse.com/contact/email/> and select “Request My Data Removal.”
+To exercise all relevant rights and for queries of complaints please contact us at [https://www.hayhouse.com/contact/email/](https://web.archive.org/contact/email/) and select “Request My Data Removal.”
 
 You can contact the Information Commissioners Office on 0303 123 1113 or via email https://ico.org.uk/global/contact-us/email/ or at the Information Commissioner's Office, Wycliffe House, Water Lane, Wilmslow, Cheshire. SK9 5AF.
 
