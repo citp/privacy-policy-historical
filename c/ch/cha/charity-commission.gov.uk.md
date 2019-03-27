@@ -1,8 +1,10 @@
-> *The following text is extracted and transformed from the charity-commission.gov.uk privacy policy that was archived on 2018-08-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180809142150id_/http%3A//www.gov.uk/government/publications/charity-commission-freedom-of-informationenvironmental-information-regulations-request-privacy-notice) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the charity-commission.gov.uk privacy policy that was archived on 2019-03-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190327051940id_/http%3A//www.gov.uk/government/publications/charity-commission-freedom-of-informationenvironmental-information-regulations-request-privacy-notice) for the most accurate reproduction.*
 
 # Charity Commission Freedom of Information/Environmental Information Regulations request privacy notice - GOV.UK
 
   1. [Home](https://web.archive.org/)
+  2. [Society and culture](https://web.archive.org/society-and-culture)
+  3. [Community and society](https://web.archive.org/society-and-culture/community-and-society)
 
 
 
@@ -13,7 +15,7 @@ Privacy policy about how we process your data when you submit a Freedom of Infor
 Published 9 August 2018 
 
 From: 
-    [The Charity Commission](https://web.archive.org/government/organisations/charity-commission)
+     [The Charity Commission](https://web.archive.org/government/organisations/charity-commission)
 
 ## Documents
 
@@ -40,6 +42,12 @@ If you use assistive technology (such as a screen reader) and need a version of 
 This privacy notice explains how the Charity Commission processes your personal data when you submit a request under the Freedom of Information Act 2000/Environmental Information Regulations 2004.
 
 Published 9 August 2018 
+
+## Explore the topic
+
+  * [Community and society](https://web.archive.org/society-and-culture/community-and-society)
+
+
 
 ## Is this page useful?
 
