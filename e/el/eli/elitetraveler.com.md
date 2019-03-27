@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the elitetraveler.com privacy policy that was archived on 2018-09-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180916124618id_/https%3A//www.elitetraveler.com/elite-traveler-magazine-internet-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the elitetraveler.com privacy policy that was archived on 2019-03-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190327195558id_/https%3A//www.elitetraveler.com/elite-traveler-magazine-internet-privacy-policy) for the most accurate reproduction.*
 
 # ELITE TRAVELER MAGAZINE INTERNET PRIVACY POLICY | Elite Traveler
 
@@ -6,17 +6,17 @@ This Privacy Policy sets out how Elite Traveler Luxury Publishing Inc collects a
 
 ### What Information Do We Collect?
 
-### We may collect the following information: 
+### We may collect the following information:
 
 (a) personal information from Users in a variety of ways, including, but not limited to, when Users visit our Website, register on the Website, place an order, subscribe to the newsletter, respond to a survey, fill out a form, and in connection with other activities, services, features or resources we make available on our Website. Users may be asked for, as appropriate, name, email address, mailing address, phone number, credit card information. Users may, however, visit our Website anonymously. We will collect personal identification information from Users only if they voluntarily submit such information to us. Users can always refuse to supply personally identification information, except that it may prevent them from engaging in certain Website related activities.
 
 (b) non-personal information about Users whenever they interact with our Website. Non-personal identification information may include the browser name, the type of computer and technical information about Users means of connection to our Website, such as the operating system and the Internet Service Provider’s utilised and other similar information.
 
-(c) cookies and log files may be used on our Website to enhance User experience. A cookie is a small text file written to an individuals hard drive that contains the user ID. User’s web browser places cookies on their hard drive for record-keeping purposes and sometimes to track information about them. User may choose to set their web browser to refuse cookies, or to alert you when cookies at being sent. If they do so, note that some parts of the Website may not function properly. You can find out more about the use of cookies and how you can remove them by going to [http://allaboutcookies.org](http://allaboutcookies.org/) or [http://www.cookiecentral.com](http://www.cookiecentral.com/). 
+(c) cookies and log files may be used on our Website to enhance User experience. A cookie is a small text file written to an individuals hard drive that contains the user ID. User’s web browser places cookies on their hard drive for record-keeping purposes and sometimes to track information about them. User may choose to set their web browser to refuse cookies, or to alert you when cookies at being sent. If they do so, note that some parts of the Website may not function properly. You can find out more about the use of cookies and how you can remove them by going to [http://allaboutcookies.org](http://allaboutcookies.org/) or [http://www.cookiecentral.com](http://www.cookiecentral.com/).
 
 ### How we use collected information
 
-Any personal data that you give us will be treated with the utmost care and security. The personal data we collect is used to provide you with the service that you have requested or to respond to an enquiry that you have made. 
+Any personal data that you give us will be treated with the utmost care and security. The personal data we collect is used to provide you with the service that you have requested or to respond to an enquiry that you have made.
 
 Elite Traveler Luxury Publishing Inc uses User personal information we have collected for the following purposes:
 
@@ -37,7 +37,7 @@ If User decides to opt-in to our mailing list, they will receive emails that may
 
 ### User’ right to Opt-out
 
-If you do not want to continue to receive e-mail communications from us please let us know by sending an e-mail to [unsubscribe@elitetraveler.com](https://web.archive.org/web/20180916124618id_/https%3A//www.elitetraveler.com/unsubscribe@elitetraveler.com). Should you request that we amend or suppress records containing your personal data we will endeavour to do so as promptly as practical; however you may receive communications for a transitional period whilst we process your records.
+If you do not want to continue to receive e-mail communications from us please let us know by sending an e-mail to [unsubscribe@elitetraveler.com](https://web.archive.org/web/20190327195558id_/https%3A//www.elitetraveler.com/unsubscribe@elitetraveler.com). Should you request that we amend or suppress records containing your personal data we will endeavour to do so as promptly as practical; however you may receive communications for a transitional period whilst we process your records.
 
 ### How we protect your information
 
