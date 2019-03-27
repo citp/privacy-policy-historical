@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the circuits4you.com privacy policy that was archived on 2017-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170527125835id_/http%3A//circuits4you.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the circuits4you.com privacy policy that was archived on 2019-03-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190327123514id_/https%3A//circuits4you.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Circuits4you.com
 
@@ -64,25 +64,13 @@ You may choose to restrict the collection or use of your personal information in
 
 
 
-You may request details of personal information which we hold about you under the Data Protection Act 1998. A small fee will be payable. If you would like a copy of the information held on you please write to  **circuits4you.com, Plot No. 19, Vijayant Nagar, Gut No. 137, Deolai Road, Satara Parisar, Aurangabad -431005**
+You may request details of personal information which we hold about you under the Data Protection Act 1998. A small fee will be payable
 
 If you believe that any information we are holding on you is incorrect or incomplete, please write to or email us as soon as possible, at the above address. We will promptly correct any information found to be incorrect.
 
 #### **Contacting Us**
 
 If there are any questions regarding this privacy policy you may contact us using the information below:
-
-**Manoj R. Thakur**
-
-**circuits4you.com**
-
-**Plot No. 19, Vijayant Nagar,**
-
-**Gut No. 137, Deolai Road,**
-
-**Satara Parisar,**
-
-**Aurangabad -431010**
 
 **Cont No. : + 91 9890  443 101**
 
