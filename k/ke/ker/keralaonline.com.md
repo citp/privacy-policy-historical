@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the keralaonline.com privacy policy that was archived on 2018-07-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180725042507id_/https%3A//www.asianet.in/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the keralaonline.com privacy policy that was archived on 2019-03-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190327201100id_/https%3A//www.asianet.in/privacy) for the most accurate reproduction.*
 
-# Kerala Latest News | Kerala Breaking News | Kerala Latest Headlines | Latest Kerala News | Health | Women | Business | NRI | IT | Sports | News Breaks | News |
+# Asianet-Breaking News |Kerala Local News |Kerala Latest News | Kerala Breaking News|News
 
 ACV operates the http://www.asianet.in/ website, which provides the SERVICE.
 
