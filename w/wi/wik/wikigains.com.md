@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the wikigains.com privacy policy that was archived on 2016-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161201205633id_/http%3A//www.wikigains.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wikigains.com privacy policy that was archived on 2019-03-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190327043828id_/https%3A//www.wikigains.com/pages/privacy) for the most accurate reproduction.*
 
-# WikiGains
+# Privacy
 
 ### Privacy
 
@@ -56,7 +56,7 @@ Contributors wishing to call it a day and resign can do so at any time by sendin
 
  **Terms and Conditions**
 
-These are the rules and guidelines that Users need to stick to when using the Website. Since using the Website is in essence accepting these guidelines as well as the Website’s Privacy Policy, it is recommended that Users read the [Terms and Conditions](https://web.archive.org/conditions-of-use/) carefully before using the Website.
+These are the rules and guidelines that Users need to stick to when using the Website. Since using the Website is in essence accepting these guidelines as well as the Website’s Privacy Policy, it is recommended that Users read the [Terms and Conditions](https://web.archive.org/pages/conditions-of-use/) carefully before using the Website.
 
  **Privacy Policy Updates**
 
