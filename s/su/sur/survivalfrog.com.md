@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the survivalfrog.com privacy policy that was archived on 2018-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181226125853id_/https%3A//www.survivalfrog.com/pages/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the survivalfrog.com privacy policy that was archived on 2019-03-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190327172513id_/https%3A//www.survivalfrog.com/pages/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Survival Frog
 
