@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bitbond.com privacy policy that was archived on 2018-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181226134648id_/https%3A//www.bitbond.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bitbond.com privacy policy that was archived on 2019-03-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190327180836id_/https%3A//www.bitbond.com/privacy) for the most accurate reproduction.*
 
 # Bitbond
 
