@@ -1,14 +1,14 @@
-> *The following text is extracted and transformed from the foreseeresults.com privacy policy that was archived on 2018-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181220175442id_/https%3A//www.foresee.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the foreseeresults.com privacy policy that was archived on 2019-03-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190327172509id_/https%3A//www.foresee.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | ForeSee
+# Verint ForeSee » Privacy Policy
 
-## **ForeSee Results, Inc. Privacy Statement Effective date: August 12, 2016**
+## **ForeSee Privacy Statement Effective date: August 12, 2016**
 
 If you have taken a ForeSee® survey, we thank you. If not, we hope you will do so in the future. ForeSee’s clients use the data we collect to improve your experience as a customer or web browser, and we want your voice to be heard.
 
 In many cases, our surveys are anonymous; however, some of our clients may ask you for some basic contact information. Whether you provide that type of personal information is entirely optional. But in all cases, the information you provide belongs to our client, and we will not sell or otherwise use your information for any other purpose. That promise is simple, but the details are complex—please review our full Privacy Statement below for those details.
 
-This Privacy Statement describes how ForeSee Results, Inc. (“ForeSee”) collects, uses, and discloses certain personally identifiable information (“Personal Data”) that it receives about the following types of individuals through certain websites, mobile websites, and mobile applications as outlined herein: (i) ForeSee’s own website visitors, (ii) ForeSee’s clients (“Clients”), and (iii) ForeSee’s Clients’ customers and website visitors.  ForeSee’s practices with respect to each of these categories of individuals is explained below.
+This Privacy Statement describes how ForeSee collects, uses, and discloses certain personally identifiable information (“Personal Data”) that it receives about the following types of individuals through certain websites, mobile websites, and mobile applications as outlined herein: (i) ForeSee’s own website visitors, (ii) ForeSee’s clients (“Clients”), and (iii) ForeSee’s Clients’ customers and website visitors.  ForeSee’s practices with respect to each of these categories of individuals is explained below.
 
 ForeSee recognizes that the European Union (“EU”) has established strict protections regarding the handling of Personal Data, and ForeSee therefore has elected to adhere to the EU-U.S. Privacy Shield Framework (the “Privacy Shield”) with respect to such Personal Data that it receives in the United States about individuals located in the EU. ForeSee also engages with its Clients in the EU Model Clauses for data processing.
 
@@ -136,7 +136,7 @@ If we decide to change our privacy practices, we will post those changes to this
 
 If you have any questions about this Privacy Statement or our privacy or security practices, or if you would like to request access to Personal Data that we may maintain about you, please contact us as follows:
 
-ForeSee Results, Inc.  
+ForeSee  
 Attention: Chief Privacy Officer  
 2500 Green Road, Suite 400  
 Ann Arbor, MI 48105  
