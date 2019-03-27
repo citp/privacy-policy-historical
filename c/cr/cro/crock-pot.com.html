@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the crock-pot.com privacy policy that was archived on 2018-04-11.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20180411195659id_/http%3A//www.crock-pot.com/privacy-policy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the crock-pot.com privacy policy that was archived on 2019-03-27.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20190327164335id_/https%3A//www.crock-pot.com/privacy-policy.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en"><!--<![endif]--><head>
 <meta charset="UTF-8">
@@ -11,16 +11,16 @@
 <meta property="og:title" content="Privacy Policy at Crock-Pot.com.">
 <meta property="og:description" content="Find out more about Crock-Pot's Privacy Policy. Click here to visit our Privacy Policy page.">
 <meta property="og:type" content="article">
-<meta property="og:image" content="http://www.crock-pot.com/on/demandware.static/Sites-crock-pot-Site/-/default/dw3722a4b2/images/logo.png">
+<meta property="og:image" content="https://www.crock-pot.com/on/demandware.static/Sites-crock-pot-Site/-/default/dw3722a4b2/images/logo.png">
 
-<script>
+<script id="ltkSDK" src="https://s1.listrakbi.com/scripts/script.js?m=jAuw9KKicTJX&amp;v=1"></script><script>
 	var app={};
 </script>
 <!--[if lt IE 9]>
-<script src="/on/demandware.static/Sites-crock-pot-Site/-/default/v1523445112603/js/lib/html5.js"></script>
+<script src="/on/demandware.static/Sites-crock-pot-Site/-/default/v1553684940503/js/lib/html5.js"></script>
 <![endif]-->
 <link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/font-awesome/4.1.0/css/font-awesome.min.css">
-<link rel="stylesheet" href="/on/demandware.static/Sites-crock-pot-Site/-/default/v1523445112603/css/recipes.min.css">
+<link rel="stylesheet" href="/on/demandware.static/Sites-crock-pot-Site/-/default/v1553684940503/css/recipes.min.css">
 <script type="text/javascript">//<!--
 /* <![CDATA[ (head-active_data.js) */
 var dw = (window.dw || {});
@@ -35,7 +35,13 @@ dw.ac = {
         }
         dw.ac._events.push(configs);
     },
-    capture: function() { dw.ac._capture(arguments); },
+	capture: function() { 
+		dw.ac._capture(arguments);
+		// send to CQ as well:
+		if (window.CQuotient) {
+			window.CQuotient.trackEventsFromAC(arguments);
+		}
+	},
     EV_PRD_SEARCHHIT: "searchhit",
     EV_PRD_DETAIL: "detail",
     EV_PRD_RECOMMENDATION: "recommendation",
@@ -81,13 +87,40 @@ CQuotient.getCQUserId = function () {
 		window.CQuotient.initFromCookies();
 	return window.CQuotient.cquid;
 };
+CQuotient.trackEventsFromAC = function (/* Object or Array */ events) {
+try {
+	if (Object.prototype.toString.call(events) === "[object Array]") {
+		events.forEach(_trackASingleCQEvent);
+	} else {
+		CQuotient._trackASingleCQEvent(events);
+	}
+} catch(err) {}
+};
+CQuotient._trackASingleCQEvent = function ( /* Object */ event) {
+	if (event && event.id) {
+		if (event.type === dw.ac.EV_PRD_DETAIL) {
+			CQuotient.trackViewProduct( {id:'', alt_id: event.id, type: 'raw_sku'} );
+		} // not handling the other dw.ac.* events currently
+	}
+};
+CQuotient.trackViewProduct = function(/* Object */ productData){
+	var cq_params = {};
+	cq_params.cookieId = CQuotient.getCQCookieId();
+	cq_params.userId = CQuotient.getCQUserId();
+	cq_params.product = productData;
+	if(CQuotient.sendActivity) {
+		CQuotient.sendActivity(CQuotient.clientId, 'viewProduct', cq_params);
+	} else {
+		CQuotient.activities.push({activityType: 'viewProduct', parameters: cq_params});
+	}
+};
 /* ]]> */
 // -->
 </script>
 
 <style type="text/css">ISAPPLEPAY{display:inline;}.dw-apple-pay-button,.dw-apple-pay-button:hover,.dw-apple-pay-button:active{background-color:black;background-image:-webkit-named-image(apple-pay-logo-white);background-position:50% 50%;background-repeat:no-repeat;background-size:75% 60%;border-radius:5px;border:1px solid black;box-sizing:border-box;margin:5px auto;min-height:30px;min-width:100px;padding:0;}
 .dw-apple-pay-button:after{content:'Apple Pay';visibility:hidden;}.dw-apple-pay-button.dw-apple-pay-logo-white{background-color:white;border-color:white;background-image:-webkit-named-image(apple-pay-logo-black);color:black;}.dw-apple-pay-button.dw-apple-pay-logo-white.dw-apple-pay-border{border-color:black;}</style>
-<link rel="stylesheet" href="/on/demandware.static/Sites-crock-pot-Site/-/default/v1523445112603/css/style.min.css">
+<link rel="stylesheet" href="/on/demandware.static/Sites-crock-pot-Site/-/default/v1553684940503/css/style.min.css">
 <style>
 
 
@@ -230,13 +263,13 @@ CQuotient.getCQUserId = function () {
 	
 
 </style>
-<script src="/on/demandware.static/Sites-crock-pot-Site/-/default/v1523445112603/lib/jquery/jquery-1.8.3.min.js" type="text/javascript"></script>
+<script src="/on/demandware.static/Sites-crock-pot-Site/-/default/v1553684940503/lib/jquery/jquery-1.8.3.min.js" type="text/javascript"></script>
 <script>
     // Picture element HTML5 shiv
     document.createElement("picture");
 </script>
-<script src="/on/demandware.static/Sites-crock-pot-Site/-/default/v1523445112603/lib/picturefill.min.js" async=""></script>
-<script src="/on/demandware.static/Sites-crock-pot-Site/-/default/v1523445112603/lib/lazysizes.min.js" async=""></script>
+<script src="/on/demandware.static/Sites-crock-pot-Site/-/default/v1553684940503/lib/picturefill.min.js" async=""></script>
+<script src="/on/demandware.static/Sites-crock-pot-Site/-/default/v1553684940503/lib/lazysizes.min.js" async=""></script>
 <meta name="google-site-verification" content="Ugvq7pcTYM56V2IYos_w635bZKeFBEkRX6SWZs31f0I">
 <meta name="msvalidate.01" content="2575497248F038ACE0CA857C45EBF91E">
 <link href="//fonts.googleapis.com/css?family=Roboto+Slab|Hind|Oswald:400,300|Cambay:400,700|Oxygen:300,400,700|Montserrat:400,700" rel="stylesheet" type="text/css">
@@ -249,24 +282,23 @@ CQuotient.getCQUserId = function () {
   </style>
 <![endif]-->
 <!--[if lt IE 9]>
-		<link rel="stylesheet" href="/on/demandware.static/Sites-crock-pot-Site/-/default/v1523445112603/css/old-ie.css" />
+		<link rel="stylesheet" href="/on/demandware.static/Sites-crock-pot-Site/-/default/v1553684940503/css/old-ie.css" />
 	<![endif]-->
 </head>
 <body>
 <div id="wrapper" class="pt_content">
-
 <div id="header" role="banner" class="clearfix">
 <div class="header-inner">
 <header>
 <h1 class="primary-logo">
 
-<a href="http://www.crock-pot.com/" class="primary-logo" title="Crock-Pot">
+<a href="https://www.crock-pot.com/" class="primary-logo" title="Crock-Pot">
 <img src="/on/demandware.static/Sites-crock-pot-Site/-/default/dw3722a4b2/images/logo.png" alt="Crock-Pot">
 </a>
 </h1>
 <div class="header-banner">
 <div class="content-asset">
-<img src="http://www.crock-pot.com/on/demandware.static/-/Sites-crock-pot-Library/default/dwd7ab97e9/images/header-banners/crock-pot tagline.png" alt="If It Doesn't Say Crock-Pot, It's Not the Original">
+<img src="https://www.crock-pot.com/on/demandware.static/-/Sites-crock-pot-Library/default/dwd7ab97e9/images/header-banners/crock-pot tagline.png" alt="If It Doesn't Say Crock-Pot, It's Not the Original">
 </div> 
 </div>
 <a href="#main" class="visually-hidden">Skip to content</a>
@@ -335,35 +367,13 @@ My Account
 
 <ul class="menu-category level-1 clearfix">
 <li class="first">
-<a aria-haspopup="true" href="http://www.crock-pot.com/new/" class="level-1" data-item="New!" data-topcat="true">
-<span>New!</span>
+<a href="https://www.crock-pot.com/pressure-cookers/" class="level-1" data-item="Pressure Cookers" data-topcat="true">
+<span>Pressure Cookers</span>
 </a>
 <div id="trigger_0" class="accordion_trigger" data-nav-btn="true"><span>+</span></div>
-<div class="level-2 ">
-<div class="menu-wrapper">
-<ul class="level-2">
-<li class="first">
-<a href="http://www.crock-pot.com/new/thermoshield/" class="level-2">
-ThermoShield
-</a>
 </li>
 <li>
-<a href="http://www.crock-pot.com/new/express-crock/" class="level-2">
-Express Crock
-</a>
-</li>
-<li class="last">
-<a href="http://www.crock-pot.com/new/black-stainless/" class="level-2">
-Black Stainless
-</a>
-</li>
-</ul>
-</div>
-</div>
-
-</li>
-<li>
-<a aria-haspopup="true" href="http://www.crock-pot.com/slow-cookers/" class="level-1" data-item="Slow Cookers" data-topcat="true">
+<a aria-haspopup="true" href="https://www.crock-pot.com/slow-cookers/" class="level-1" data-item="Slow Cookers" data-topcat="true">
 <span>Slow Cookers</span>
 </a>
 <div id="trigger_1" class="accordion_trigger" data-nav-btn="true"><span>+</span></div>
@@ -371,33 +381,23 @@ Black Stainless
 <div class="menu-wrapper">
 <ul class="level-2">
 <li class="first">
-<a href="http://www.crock-pot.com/slow-cookers/best-sellers/" class="level-2">
-Best Sellers
+<a href="https://www.crock-pot.com/slow-cookers/3qt-and-under/" class="level-2">
+3QT &amp; Under
 </a>
 </li>
 <li>
-<a href="http://www.crock-pot.com/slow-cookers/programmable/" class="level-2">
-Programmable
+<a href="https://www.crock-pot.com/slow-cookers/4qt-to-5qt/" class="level-2">
+4QT to 5QT
 </a>
 </li>
 <li>
-<a href="http://www.crock-pot.com/slow-cookers/manual/" class="level-2">
-Manual
-</a>
-</li>
-<li>
-<a href="http://www.crock-pot.com/slow-cookers/small---3qt-and-less/" class="level-2">
-Small - 3QT &amp; Less
-</a>
-</li>
-<li>
-<a href="http://www.crock-pot.com/slow-cookers/medium---4qt-to-5qt/" class="level-2">
-Medium - 4QT to 5QT
+<a href="https://www.crock-pot.com/slow-cookers/6qt/" class="level-2">
+6QT
 </a>
 </li>
 <li class="last">
-<a href="http://www.crock-pot.com/slow-cookers/large---6qt-and-more/" class="level-2">
-Large - 6QT &amp; More
+<a href="https://www.crock-pot.com/slow-cookers/7qt-and-up/" class="level-2">
+7QT and Up
 </a>
 </li>
 </ul>
@@ -406,30 +406,13 @@ Large - 6QT &amp; More
 
 </li>
 <li>
-<a aria-haspopup="true" href="http://www.crock-pot.com/multi-cookers/" class="level-1" data-item="Multi-Cookers" data-topcat="true">
+<a href="https://www.crock-pot.com/multi-cookers/" class="level-1" data-item="Multi-Cookers" data-topcat="true">
 <span>Multi-Cookers</span>
 </a>
 <div id="trigger_2" class="accordion_trigger" data-nav-btn="true"><span>+</span></div>
-<div class="level-2 ">
-<div class="menu-wrapper">
-<ul class="level-2">
-<li class="first">
-<a href="http://www.crock-pot.com/multi-cookers/express-crock/" class="level-2">
-Express Crock
-</a>
-</li>
-<li class="last">
-<a href="http://www.crock-pot.com/multi-cookers/5-in-1-multi-cooker/" class="level-2">
-5-in-1 Multi-Cooker
-</a>
-</li>
-</ul>
-</div>
-</div>
-
 </li>
 <li>
-<a aria-haspopup="true" href="http://www.crock-pot.com/collections/" class="level-1" data-item="Collections" data-topcat="true">
+<a aria-haspopup="true" href="https://www.crock-pot.com/collections/" class="level-1" data-item="Collections" data-topcat="true">
 <span>Collections</span>
 </a>
 <div id="trigger_3" class="accordion_trigger" data-nav-btn="true"><span>+</span></div>
@@ -437,63 +420,43 @@ Express Crock
 <div class="menu-wrapper">
 <ul class="level-2">
 <li class="first">
-<a href="http://www.crock-pot.com/collections/cook-and-carry/" class="level-2">
-Cook &amp; Carry™
+<a href="https://www.crock-pot.com/collections/express-crock/" class="level-2">
+Express Crock
 </a>
 </li>
 <li>
-<a href="http://www.crock-pot.com/collections/lift-and-serve/" class="level-2">
-Lift &amp; Serve
-</a>
-</li>
-<li>
-<a href="http://www.crock-pot.com/collections/casserole-crock/" class="level-2">
-Casserole Crock™
-</a>
-</li>
-<li>
-<a href="http://www.crock-pot.com/collections/smart-pot/" class="level-2">
+<a href="https://www.crock-pot.com/collections/smart-pot/" class="level-2">
 Smart-Pot®
 </a>
 </li>
 <li>
-<a href="http://www.crock-pot.com/collections/lunch-crock/" class="level-2">
+<a href="https://www.crock-pot.com/collections/cook-and-carry/" class="level-2">
+Cook &amp; Carry™
+</a>
+</li>
+<li>
+<a href="https://www.crock-pot.com/collections/lift-and-serve/" class="level-2">
+Lift &amp; Serve
+</a>
+</li>
+<li>
+<a href="https://www.crock-pot.com/collections/casserole-crock/" class="level-2">
+Casserole Crock™
+</a>
+</li>
+<li>
+<a href="https://www.crock-pot.com/collections/lunch-crock/" class="level-2">
 Lunch Crock®
 </a>
 </li>
 <li>
-<a href="http://www.crock-pot.com/collections/istir/" class="level-2">
-iStir™
-</a>
-</li>
-<li>
-<a href="http://www.crock-pot.com/collections/nfl-slow-cookers/" class="level-2">
-NFL Slow Cookers
-</a>
-</li>
-<li>
-<a href="http://www.crock-pot.com/collections/ncaa-slow-cookers/" class="level-2">
-NCAA Slow Cookers
-</a>
-</li>
-<li>
-<a href="http://www.crock-pot.com/collections/smart-home-wemo/" class="level-2">
-Smart Home WeMo®
-</a>
-</li>
-<li>
-<a href="http://www.crock-pot.com/collections/entertaining/" class="level-2">
+<a href="https://www.crock-pot.com/collections/entertaining/" class="level-2">
 Entertaining
 </a>
 </li>
-<li>
-<a href="http://www.crock-pot.com/collections/food-warmers/" class="level-2">
-Food Warmers
-</a>
-</li>
 <li class="last">
-<a href="http://www.crock-pot.com/collections/black-stainless/" class="level-2">
-Black Stainless
+<a href="https://www.crock-pot.com/collections/food-warmers/" class="level-2">
+Food Warmers
 </a>
 </li>
 </ul>
@@ -502,7 +465,7 @@ Black Stainless
 
 </li>
 <li>
-<a aria-haspopup="true" href="http://www.crock-pot.com/parts-and-accessories/" class="level-1" data-item="Parts &amp; Accessories" data-topcat="true">
+<a aria-haspopup="true" href="https://www.crock-pot.com/parts-and-accessories/" class="level-1" data-item="Parts &amp; Accessories" data-topcat="true">
 <span>Parts &amp; Accessories</span>
 </a>
 <div id="trigger_4" class="accordion_trigger" data-nav-btn="true"><span>+</span></div>
@@ -510,48 +473,23 @@ Black Stainless
 <div class="menu-wrapper">
 <ul class="level-2">
 <li class="first">
-<a href="http://www.crock-pot.com/parts-and-accessories/express-crock/" class="level-2">
-Express Crock
+<a href="https://www.crock-pot.com/parts-and-accessories/pressure-cookers/" class="level-2">
+Pressure Cookers
 </a>
 </li>
 <li>
-<a href="http://www.crock-pot.com/parts-and-accessories/stoneware/" class="level-2">
-Stoneware
+<a href="https://www.crock-pot.com/parts-and-accessories/slow-cookers/" class="level-2">
+Slow Cookers
 </a>
 </li>
 <li>
-<a href="http://www.crock-pot.com/parts-and-accessories/lids/" class="level-2">
-Lids
-</a>
-</li>
-<li>
-<a href="http://www.crock-pot.com/parts-and-accessories/feet/" class="level-2">
-Feet
-</a>
-</li>
-<li>
-<a href="http://www.crock-pot.com/parts-and-accessories/knobs/" class="level-2">
-Knobs
-</a>
-</li>
-<li>
-<a href="http://www.crock-pot.com/parts-and-accessories/lunch-crock/" class="level-2">
-Lunch Crock®
-</a>
-</li>
-<li>
-<a href="http://www.crock-pot.com/parts-and-accessories/liner-bags/" class="level-2">
-Liner Bags
-</a>
-</li>
-<li>
-<a href="http://www.crock-pot.com/parts-and-accessories/cookbooks/" class="level-2">
-Cookbooks
+<a href="https://www.crock-pot.com/parts-and-accessories/multi-cookers/" class="level-2">
+Multi Cookers
 </a>
 </li>
 <li class="last">
-<a href="http://www.crock-pot.com/parts-and-accessories/travel/" class="level-2">
-Travel
+<a href="https://www.crock-pot.com/parts-and-accessories/other/" class="level-2">
+Other
 </a>
 </li>
 </ul>
@@ -560,67 +498,32 @@ Travel
 
 </li>
 <li>
-<a aria-haspopup="true" href="http://www.crock-pot.com/omaha-steaks-meals-1/" class="level-1" data-item="Omaha Steaks® Meals" data-topcat="true">
-<span>Omaha Steaks® Meals</span>
+<a href="https://www.crock-pot.com/sale/" class="level-1" data-item="Sale" data-topcat="true">
+<span>Sale</span>
 </a>
 <div id="trigger_5" class="accordion_trigger" data-nav-btn="true"><span>+</span></div>
-<div class="level-2 ">
-<div class="menu-wrapper">
-<ul class="level-2">
-<li class="first">
-<a href="http://www.crock-pot.com/omaha-steaks-meals/omaha-steaks-crock-pot-meals/" class="level-2">
-Omaha Steaks® Crock-Pot® Meals
-</a>
 </li>
 <li class="last">
-<a href="http://www.crock-pot.com/omaha-steaks-meals/delicious-dinners/" class="level-2">
-Delicious Dinners
-</a>
-</li>
-</ul>
-</div>
-</div>
-
-</li>
-<li>
-<a aria-haspopup="true" href="http://www.crock-pot.com/deals/" class="level-1" data-item="Deals" data-topcat="true">
-<span>Deals</span>
+<a aria-haspopup="true" href="https://www.crock-pot.com/recipes.html" class="level-1">
+<span>Recipes &amp; Inspiration</span>
 </a>
 <div id="trigger_6" class="accordion_trigger" data-nav-btn="true"><span>+</span></div>
 <div class="level-2 ">
 <div class="menu-wrapper">
 <ul class="level-2">
 <li class="first">
-<a href="http://www.crock-pot.com/deals/bundles/" class="level-2">
-Bundles
+<a href="https://www.crock-pot.com/blog/" class="level-2">
+Blog
+</a>
+</li>
+<li>
+<a href="https://www.crock-pot.com/cookbook.html" class="level-2">
+Cook Book
 </a>
 </li>
 <li class="last">
-<a href="http://www.crock-pot.com/deals/clearance/" class="level-2">
-Clearance
-</a>
-</li>
-</ul>
-</div>
-</div>
-
-</li>
-<li class="last">
-<a aria-haspopup="true" href="http://www.crock-pot.com/recipes.html" class="level-1">
-<span>Recipes</span>
-</a>
-<div id="trigger_7" class="accordion_trigger" data-nav-btn="true"><span>+</span></div>
-<div class="level-2 ">
-<div class="menu-wrapper">
-<ul class="level-2">
-<li class="first">
-<a href="http://www.crock-pot.com/recipes/express-crock-recipes/express-crock-recipes.html" class="level-2">
+<a href="https://www.crock-pot.com/recipes-and-inspiration/express-crock-recipes/express-crock-recipes.html" class="level-2">
 Express Crock Recipes
-</a>
-</li>
-<li class="last">
-<a href="http://www.crock-pot.com/recipes/mothers-day-recipes/mothers-day-recipes.html" class="level-2">
-Mother's Day Recipes
 </a>
 </li>
 </ul>
@@ -653,7 +556,7 @@ Mother's Day Recipes
 </div>
 <ol class="breadcrumb">
 <li>
-<a href="http://www.crock-pot.com/" class="home" title="Home">Home</a>
+<a href="https://www.crock-pot.com/" class="home" title="Home">Home</a>
 </li>
 <span class="breadcrumbdivider">:</span>
 <li><span class="breadcrumb-last">Recipes</span></li>
@@ -720,8 +623,8 @@ Atlanta, Georgia 30328<br>
 <div class="content-asset">
 <div class="footer-veggies"></div>
 <div itemscope="" itemtype="http://schema.org/Organization">
-<link itemprop="url" href="http://www.crock-pot.com/">
-<link itemprop="logo" href="http://www.crock-pot.com/on/demandware.static/-/Sites-crock-pot-Library/default/dw3722a4b2/images/logo.png">
+<link itemprop="url" href="https://www.crock-pot.com/">
+<link itemprop="logo" href="https://www.crock-pot.com/on/demandware.static/-/Sites-crock-pot-Library/default/dw3722a4b2/images/logo.png">
 <link itemprop="sameAs" href="https://www.facebook.com/CrockPot">
 <link itemprop="sameAs" href="https://www.pinterest.com/crockpot/">
 <link itemprop="sameAs" href="https://www.facebook.com/CrockPot">
@@ -739,11 +642,11 @@ Atlanta, Georgia 30328<br>
 <div class="footer-nav-col">
 <div class="foot-nav-header">Shop Crock-Pot® Brand</div>
 <ul>
-<li><a href="http://www.crock-pot.com/top-sellers/">Top Sellers</a></li>
-<li><a href="http://www.crock-pot.com/slow-cookers/">Slow Cookers</a></li>
-<li><a href="http://www.crock-pot.com/specialty/">Specialty</a></li>
-<li><a href="http://www.crock-pot.com/accessories/">Accessories</a></li>
-<li><a href="http://www.crock-pot.com/parts/">Parts</a></li>
+<li><a href="https://www.crock-pot.com/top-sellers/">Top Sellers</a></li>
+<li><a href="https://www.crock-pot.com/slow-cookers/">Slow Cookers</a></li>
+<li><a href="https://www.crock-pot.com/specialty/">Specialty</a></li>
+<li><a href="https://www.crock-pot.com/accessories/">Accessories</a></li>
+<li><a href="https://www.crock-pot.com/parts/">Parts</a></li>
 </ul>
 </div>
 <div class="footer-nav-col">
@@ -760,22 +663,22 @@ Atlanta, Georgia 30328<br>
 <div class="footer-nav-col">
 <div class="foot-nav-header">Service &amp; Support</div>
 <ul>
-<li><a href="http://www.crock-pot.com/service-and-support/product-registration/product-registration.html">Product Registration</a></li>
-<li><a href="http://www.crock-pot.com/account?cid=where-is-my-order">Where's My Order?</a></li>
-<li><a href="http://www.crock-pot.com/service-and-support/product-support/product-faqs/product-faqs.html">Product Support</a></li>
-<li><a href="http://www.crock-pot.com/service-and-support/order-support/order-faqs/order-processing/order-processing.html">Order Support</a></li>
-<li><a href="http://www.crock-pot.com/service-and-support/product-support/instruction-manuals/instruction-manuals.html">Instruction Manuals</a></li>
-<li><a href="http://www.crock-pot.com/service-and-support/order-support/order-faqs/returns/returns.html">Return Policy</a></li>
+<li><a href="https://www.crock-pot.com/productregistration?cid=product-registration">Product Registration</a></li>
+<li><a href="https://www.crock-pot.com/account?cid=where-is-my-order">Where's My Order?</a></li>
+<li><a href="https://www.crock-pot.com/service-and-support/product-support/product-faqs/product-faqs.html">Product Support</a></li>
+<li><a href="https://www.crock-pot.com/service-and-support/order-support/order-faqs/order-processing/order-processing.html">Order Support</a></li>
+<li><a href="https://www.crock-pot.com/service-and-support/product-support/instruction-manuals/instruction-manuals.html">Instruction Manuals</a></li>
+<li><a href="https://www.crock-pot.com/service-and-support/order-support/order-faqs/returns/returns.html">Return Policy</a></li>
 </ul>
 </div>
 <div class="footer-nav-col">
 <div class="foot-nav-header">The Crock-Pot® Brand</div>
 <ul>
-<li><a href="http://www.crock-pot.com/blog/">Blog</a></li>
-<li><a href="http://www.crock-pot.com/about-us/about-us.html">About Us</a></li>
-<li><a href="http://www.crock-pot.com/stories?cgid=recipes">Recipes</a></li>
-<li><a href="http://www.crock-pot.com/affiliates.html">Affiliates</a></li>
-<li><a href="http://www.jardencs.com/california-transparency-act.html" target="_blank">CA Transparency Act</a></li>
+<li><a href="https://www.crock-pot.com/blog/">Blog</a></li>
+<li><a href="https://www.crock-pot.com/about-us/about-us.html">About Us</a></li>
+<li><a href="https://www.crock-pot.com/stories?cgid=recipes">Recipes</a></li>
+<li><a href="https://www.crock-pot.com/affiliates.html">Affiliates</a></li>
+<li><a href="https://www.jardencs.com/california-transparency-act.html" target="_blank">CA Transparency Act</a></li>
 </ul>
 </div>
 </div>
@@ -783,10 +686,10 @@ Atlanta, Georgia 30328<br>
 <div class="footer-nav-right clearfix">
 <div class="clearfix mc_email">
 <form id="email-alert-signup" method="post" class="suppress">
-<input name="mc_IntegrationPoint" type="hidden" value="Footer">
+<input name="ltkSubscriptionCode" type="hidden" value="nb_crockpot_us_footer">
 <div class="email-alert-label">Sign up for special offers, tips, and more</div>
 <div class="inputwrapper">
-<input class="input-text" id="email-alert-address" maxlength="75" name="email" placeholder="Enter Your Email Address" type="email" required="" data-required-text="Please enter your email address.">
+<input class="input-text" id="email-alert-address" maxlength="75" name="email-alert-address" placeholder="Enter Your Email Address" type="email" required="" data-required-text="Please enter your email address.">
 <input type="submit" value="Signup"></div>
 </form>
 </div>
@@ -803,13 +706,13 @@ Atlanta, Georgia 30328<br>
 </div>
 <div class="copyright-wrapper">
 <div class="footer-copyright clearfix">
-<div class="footer-disclaimer"><span style="font-size: larger;">*For full shipping terms and restrictions, please </span><a href="http://www.crock-pot.com/service-and-support/order-support/order-faqs/payment-and-promotions/payment-and-promotions.html?faq=free-shipping-promo"><span style="font-size: larger;">click here.</span></a></div>
+<div class="footer-disclaimer"><span style="font-size: larger;">*For full shipping terms and restrictions, please </span><a href="https://www.crock-pot.com/service-and-support/order-support/order-faqs/payment-and-promotions/payment-and-promotions.html?faq=free-shipping-promo"><span style="font-size: larger;">click here.</span></a></div>
 ©<script>document.write(new Date().getFullYear())</script>2020 Sunbeam Products, Inc. All Rights Reserved.
 <ul>
-<li><a href="http://www.crock-pot.com/privacy-policy.html">Privacy Policy</a></li>
-<li><a href="http://www.crock-pot.com/terms-of-use.html">Terms of Use</a></li>
-<li><a href="http://www.crock-pot.com/terms-of-sale.html">Terms of Sale</a></li>
-<li><a href="http://www.crock-pot.com/sitemap">Site Map</a></li>
+<li><a href="https://www.crock-pot.com/privacy-policy.html">Privacy Policy</a></li>
+<li><a href="https://www.crock-pot.com/terms-of-use.html">Terms of Use</a></li>
+<li><a href="https://www.crock-pot.com/terms-of-sale.html">Terms of Sale</a></li>
+<li><a href="https://www.crock-pot.com/sitemap">Site Map</a></li>
 </ul>
 </div>
 </div>
@@ -827,86 +730,113 @@ Atlanta, Georgia 30328<br>
 </footer>
 </div>
 <script src="/on/demandware.store/Sites-crock-pot-Site/default/Resources-Load?t=appresources&amp;cid=privacy-policy"></script>
-<script src="/on/demandware.static/Sites-crock-pot-Site/-/default/v1523445112603/js/scripts.min.js" type="text/javascript"></script>
-<script src="/on/demandware.static/Sites-crock-pot-Site/-/default/v1523445112603/js/paypal.js" type="text/javascript"></script>
+<script src="/on/demandware.static/Sites-crock-pot-Site/-/default/v1553684940503/js/scripts.min.js" type="text/javascript"></script>
+<script src="/on/demandware.static/Sites-crock-pot-Site/-/default/v1553684940503/js/paypal.js" type="text/javascript"></script>
 <script type="text/javascript" src="//content.webcollage.net/api/v2/product-content"></script>
+
+<script type="text/javascript">
+        var biJsHost = (("https:" == document.location.protocol) ? "https://" : "http://");
+        (function (d, s, id, tid, vid) {
+            var js, ljs = d.getElementsByTagName(s)[0];
+            if (d.getElementById(id)) return; js = d.createElement(s); js.id = id;
+            js.src = biJsHost + "s1.listrakbi.com/scripts/script.js?m=" + tid + "&v=" + vid;
+            ljs.parentNode.insertBefore(js, ljs);
+        })(document, 'script', 'ltkSDK', 'jAuw9KKicTJX', '1');
+	</script>
+
+<script src="/on/demandware.static/Sites-crock-pot-Site/-/default/v1553684940503/js/signup.js"></script>
+<link rel="stylesheet" type="text/css" href="/on/demandware.static/Sites-crock-pot-Site/-/default/v1553684940503/css/lstrak.css">
+<script>
+		$(function() { app.lstrak.init(); });
+	</script>
+<script type="text/javascript">
+	jQuery.ajax({
+		  url: '/on/demandware.store/Sites-crock-pot-Site/default/ltkClickTracking-Start' + '?' + document.location.search,
+		  context: document,
+		  success: function(trkt){
+			  var start = trkt.indexOf('[');
+			  var end = trkt.indexOf(']');
+			  var token = trkt.substring(start+1, end); 
+			  setCookie("_trkt", token, 365, null, '/'); 
+			  }
+		});
+	
+	function setCookie(c_name,value,exdays, domain, path, secure)
+	{
+		if (value != '' && value != undefined)
+		{
+	        var exd = new Date();
+	        exd.setDate(exd.getDate() + exdays);
+	        document.cookie =
+	        	c_name + "=" + encodeURIComponent(value) +
+		        ((exdays == null) ? "" : "; expires=" + exd.toGMTString()) +
+		        ((domain == null && domain != "") ? "" : "; domain=" + domain) +
+		        ((path == null) ? "" : "; path=" + path) +
+		        ((secure) ? "; secure" : "");			
+		}
+	}	
+</script>
+<script type="text/javascript">
+	var _ltkwmt = 'Enter Your Email Address';
+	function isWatermark(wmt) {
+	    if(!_ltkwmt || _ltkwmt.length == 0) {
+	        return false;
+	    }
+	    if(_ltkwmt.indexOf(wmt) >= 0) { 
+	        return true; 
+	    }
+	    else { return false; }
+	}
+		
+	function ltkCaptureEmail(id) {
+	    try {
+	        var _stsi1 = setInterval(function () {
+	            if (!window.jQuery) { return; }
+	            clearInterval(_stsi1);
+	            if (typeof id == "undefined" || id == "") { return; }
+	            if (typeof _ltk == "undefined") { return; }
+	            var _sl = jQuery("[id='" + id + "']");
+	            if (_sl.length == 0) { _sl = jQuery("input[name='" + id + "']"); }
+	            if (_sl.length) {
+	                _sl.change(function () { 
+			                if (jQuery(_sl).val().length > 0 && !isWatermark(jQuery(_sl).val()))
+			                {
+			                	jQuery.ajax({
+			              		  url: '/on/demandware.store/Sites-crock-pot-Site/default/ltkEmailCapture-Start' + '?email=' + jQuery(this).val(),
+			              		  context: document,
+			              		  success: function(success){ return; }
+			              		});
+			                }
+						});
+	                if (jQuery(_sl).val().length > 0 && !isWatermark(jQuery(_sl).val())) { _ltk.SCA.Update("email", jQuery(_sl).val()); }
+	            }
+	        }, 100);
+	    }
+	    catch (ex) {
+	        _ltk.Exception.Submit(ex, 'CaptureEmail');
+	    }
+	}
+	
+		ltkCaptureEmail("social-email-address");
+	
+		ltkCaptureEmail("email-alert-address");
+	
+		ltkCaptureEmail("dwfrm_profile_customer_email");
+	
+		ltkCaptureEmail("dwfrm_billing_billingAddress_email_emailAddress");
+	
+	
+	jQuery(document).bind("ltkmodal.show", function() {
+		ltkCaptureEmail("ltkmodal-email");
+	});
+	
+	</script>
 <script src="//s7.addthis.com/js/250/addthis_widget.js#async=1" type="text/javascript"></script>
 <script type="text/javascript">
 	var addthis_config = {pubid: 'jcswebteam'};
 	addthis.init();
 </script>
-<script src="/on/demandware.static/Sites-crock-pot-Site/-/default/v1523445112603/js/marketingcloud.js" defer=""></script>
-<script>
-var exclusions = JSON.parse('["/account","/addresslist","/billing","/cart","/confirm","/customer","/editprofile","/paymentsettings","/replenishmaintain","/sforderhistory","/shipping","/submit","/wishlist"]');
-var siteExclude = JSON.parse('["/recipes,none","/Crocktober.html,none"]');
-var timeout = '10000'
-if (typeof siteExclude != "undefined"){
-var allExclusions = exclusions.concat(siteExclude);
-} else if (typeof exclusions !== 'undefined'){
-var allExclusions = exclusions;
-}
-if (typeof timeout == "undefined"){
-var timeout = 20000
-}
-var checkString = location.search.toLowerCase(),
-fromEmail = 'false',
-showSignupModal = true,
-customPop = "";
-fromEmail = sessionStorage.getItem('setEmail');
-if (fromEmail == 'false' || fromEmail == null){
-if (checkString.indexOf("email") >= 0) {
-sessionStorage.setItem('setEmail', 'true');
-fromEmail = sessionStorage.getItem('setEmail');
-} else {
-sessionStorage.setItem('setEmail', 'false');
-fromEmail = sessionStorage.getItem('setEmail');
-}
-}
-if (typeof allExclusions !== "undefined") {
-$.each(allExclusions, function(key, value) {
-var data = value.split(',');
-var checkpage = data[0];
-var showpage = data[1];
-if (showpage == null){
-showpage = 'none';
-}
-if (window.location.pathname.match(checkpage)) {
-if (showpage == 'none'){
-//don't show the popup on this page
-showSignupModal = false;
-}else{
-//set the custompop CID to the selected CID
-customPop = showpage;
-}
-return false;
-}
-});
-}
-if (fromEmail == 'false'){
-var start_time = new Date().getTime();
-var orig_start = sessionStorage.getItem('initialload');
-if (!orig_start){
-sessionStorage.setItem('initialload', start_time);
-var orig_start = sessionStorage.getItem('initialload');
-}
-var timer_test = setInterval(function(){
-var curr_time = new Date().getTime();
-var diff = Math.abs((orig_start-curr_time));
-if (diff > timeout){
-app.marketingCloud.init(showSignupModal, customPop);
-clearInterval(timer_test);
-timer_test=0;
-}
-}, 1000);
-}
-</script>
-<script>
-$(function(){
-app.marketingCloud.cookies = Cookies.noConflict();
-app.marketingCloud.initForms();
-app.marketingCloud.postForms();
-});
-</script>
+<script src="/on/demandware.static/Sites-crock-pot-Site/-/default/v1553684940503/js/marketingcloud.js" defer=""></script>
 <script>
 var document_width_pi, document_width_upsells;
 $(function() {
@@ -965,7 +895,7 @@ app.marketingCloud.initHomepageContent();
   "user_anonymous": "true",
   "user_authenticated": "false",
   "user_registered": "false",
-  "customer_id": "bdAagIk77xbeAyMWMrbRG4smcQ",
+  "customer_id": "adTv09Q4ha5mV9bfXvzHX7yO9E",
   "page_name": "empty search results"
 };
 </script>
@@ -990,6 +920,7 @@ app.marketingCloud.initHomepageContent();
 	$(document).ready(function(){
 		injectBVInlineRatings("#primary", "BVRRInlineRating");
 		injectBVInlineRatings("#cross-sell-recomendations", "RecommendationBVRRInlineRating");
+		injectBVInlineRatings("#product-horizontal-carousel", "BVRRInlineRating");
 	});
 	
 	//Handles inline ratings when items are sorted or when number of items on page changed.
@@ -1012,18 +943,18 @@ app.marketingCloud.initHomepageContent();
 		    app.urls.recipeCreate = "https://www.crock-pot.com/create-recipe";
 		}(window.app = window.app || {}));
 	</script>
-<script src="/on/demandware.static/Sites-crock-pot-Site/-/default/v1523445112603/js/bootstrap.min.js"></script>
-<script src="/on/demandware.static/Sites-crock-pot-Site/-/default/v1523445112603/lib/jquery/ui/jquery-ui-1.9.2.js" type="text/javascript"></script>
-<script src="/on/demandware.static/Sites-crock-pot-Site/-/default/v1523445112603/js/main.js"></script>
-<script src="/on/demandware.static/Sites-crock-pot-Site/-/default/v1523445112603/js/jquery.raty.js"></script>
-<script src="/on/demandware.static/Sites-crock-pot-Site/-/default/v1523445112603/js/respond.min.js"></script>
+<script src="/on/demandware.static/Sites-crock-pot-Site/-/default/v1553684940503/js/bootstrap.min.js"></script>
+<script src="/on/demandware.static/Sites-crock-pot-Site/-/default/v1553684940503/lib/jquery/ui/jquery-ui-1.9.2.js" type="text/javascript"></script>
+<script src="/on/demandware.static/Sites-crock-pot-Site/-/default/v1553684940503/js/main.js"></script>
+<script src="/on/demandware.static/Sites-crock-pot-Site/-/default/v1553684940503/js/jquery.raty.js"></script>
+<script src="/on/demandware.static/Sites-crock-pot-Site/-/default/v1553684940503/js/respond.min.js"></script>
 </div>
 
 <script type="text/javascript">//<!--
 /* <![CDATA[ */
 function trackPage() {
     try{
-        var trackingUrl = "http://www.crock-pot.com/on/demandware.store/Sites-crock-pot-Site/default/__Analytics-Start";
+        var trackingUrl = "https://www.crock-pot.com/on/demandware.store/Sites-crock-pot-Site/default/__Analytics-Start";
         var dwAnalytics = dw.__dwAnalytics.getTracker(trackingUrl);
         if (typeof dw.ac == "undefined") {
             dwAnalytics.trackPageView();
@@ -1035,9 +966,9 @@ function trackPage() {
 /* ]]> */
 // -->
 </script>
-<script type="text/javascript" src="/on/demandware.static/Sites-crock-pot-Site/-/default/v1523445112603/internal/jscript/dwanalytics-18.3.js" async="async" onload="trackPage()"></script>
+<script type="text/javascript" src="/on/demandware.static/Sites-crock-pot-Site/-/default/v1553684940503/internal/jscript/dwanalytics-18.3.js" async="async" onload="trackPage()"></script>
 
-<script src="/on/demandware.static/Sites-crock-pot-Site/-/default/v1523445112603/internal/jscript/dwac-16.9.js" type="text/javascript" async="async"></script>
+<script src="/on/demandware.static/Sites-crock-pot-Site/-/default/v1553684940503/internal/jscript/dwac-18.10.4.js" type="text/javascript" async="async"></script>
 <script src="https://cdn.cquotient.com/js/v2/gretel.min.js" type="text/javascript" async="async"></script>
 
 <script type="text/javascript">//<!--
@@ -1047,6 +978,6 @@ dw.applepay = {"action":{"cancel":"https:\/\/www.crock-pot.com\/on\/demandware.s
 /* ]]> */
 // -->
 </script>
-<script type="text/javascript" src="/on/demandware.static/Sites-crock-pot-Site/-/default/v1523445112603/internal/jscript/applepay.js" async="true"></script>
+<script type="text/javascript" src="/on/demandware.static/Sites-crock-pot-Site/-/default/v1553684940503/internal/jscript/applepay.js" async="true"></script>
 
 </body></html>
