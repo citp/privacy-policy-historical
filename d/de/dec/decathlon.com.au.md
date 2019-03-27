@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the decathlon.com.au privacy policy that was archived on 2018-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180510000010id_/https%3A//www.decathlon.com.au/c/45-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the decathlon.com.au privacy policy that was archived on 2019-03-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190327093543id_/https%3A//www.decathlon.com.au/c/45-privacy-policy) for the most accurate reproduction.*
 
 # Privacy policy - Decathlon
 
@@ -163,11 +163,11 @@ If you have any concerns or complaints about the handling or treatment of your p
 
 Please submit any questions you have about the terms and conditions set out in this privacy policy.
 
- You can write to us using the following mailing address and/or email address:
+You can write to us using the following mailing address and/or email address:
 
  **Mail** :
 
-4/37 Union street, Pyrmont, Nsw 2009, Australia
+Decathlon Tempe, 634-726 Princes highway, Tempe, NSW 2044
 
  **Email** :
 
