@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the idahopower.com privacy policy that was archived on 2018-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181125123347id_/https%3A//www.idahopower.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the idahopower.com privacy policy that was archived on 2019-03-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190327081429id_/https%3A//www.idahopower.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Idaho Power
 
@@ -10,7 +10,7 @@ This website is the responsibility of Idaho Power Company (“Idaho Power,” �
 P.O. Box 70  
 Boise, ID 83707  
 [208-388-2200](tel://208-388-2200 "Call Me")  
-[iwebster@idahopower.com](mailto:iwebster@idahopower.com)
+[Contact Us](https://my.idahopower.com/aboutus/companyinformation/contactus.cfm)
 
 The Web servers on which this website is stored are owned and maintained by Idaho Power. This Privacy Policy applies to [www.IdahoPower.com](https://www.idahopower.com/) and all other websites owned and operated by Idaho Power, including mobile websites.
 
