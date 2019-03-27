@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the imack.co privacy policy that was archived on 2018-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181226124622id_/https%3A//imack.co/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the imack.co privacy policy that was archived on 2019-03-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190327171502id_/https%3A//imack.co/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | iMack
 
