@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the truvisionhealth.com privacy policy that was archived on 2018-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181212232210id_/https%3A//www.truvisionhealth.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the truvisionhealth.com privacy policy that was archived on 2019-03-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190327193448id_/https%3A//www.truvisionhealth.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Official Website
+# Privacy Policy | TruVision Health
 
 TruVision Health, LLC (“TruVision” or “we”) respects your individual privacy. This Privacy Policy documents our adherence to the highest industry standards for the protection of your personal information. By visiting TruVision web sites (“Site”) or using any of the services offered on the TruVision web sites, you acknowledge that you accept the practices and policies outlined in this Privacy Policy. This Privacy Policy is effective as of Mach 8, 2014 applies to information collected through the Site and covers the following areas:
 
