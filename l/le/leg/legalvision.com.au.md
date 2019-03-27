@@ -1,118 +1,145 @@
-> *The following text is extracted and transformed from the legalvision.com.au privacy policy that was archived on 2016-02-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160227223149id_/https%3A//legalvision.com.au/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the legalvision.com.au privacy policy that was archived on 2019-03-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190327031556id_/https%3A//legalvision.com.au/privacy-policy) for the most accurate reproduction.*
 
 # LegalVision Privacy Policy - legalvision.com.au
 
-This Privacy Policy sets out how LV Australia Pty Ltd (ABN 55 159 908 620), our parent company, Legal Vision Pty Ltd (ABN 83 155 748 628) and our sister company, LegalVision ILP Pty Ltd (ABN 50 167 804 088) (together  **the LegalVision Group**  or  **we** ) protect the privacy of personal information that is collected through the website available at [legalvision.com.au](https://legalvision.com.au/) ( **Site** ), or directly from you.  We are committed to ensuring that your privacy is protected. Please read this Privacy Policy carefully.
+### What is this policy?
 
-Should we ask you to provide any information by which you can be identified when using this Site, we assure you that it will only be used in accordance with this Privacy Policy and the Australian Privacy Principles.
+We collect and store information about you. Let us explain how and why we do this.
 
-You are not required to provide any personal information to us.  If you do not do so, but it may affect your use of this Site or the products and services offered on the Site.
+When you use our services or contact us (online or in “the real world”), you trust us with your personal information. We collect and store this information about you to help us deliver the best possible legal service.
 
-This Privacy Policy may be amended from time to time with changes, additions and deletions, at our sole discretion. You should check this page regularly to ensure that you are aware of any changes. Your continued use of the Site following any amendments indicates that you accept the amendments.
+Here we will explain **what** information we collect, **how** we collect it and **what** we actually do with it.
 
-**Collection of personal information**
+By giving us your information you are agreeing for us to process it in the ways described here.
 
-The information that we collect may include:
+### Who are we?
 
-  * names;
-  * dates of birth;
-  * job titles;
-  * contact information, including email address;
-  * demographic information such as postcodes;
-  * other information relevant to the customisation of a document on the Site;
-  * information about your business or personal affairs;
-  * information about your legal needs;
-  * other information relevant to client surveys and/or promotions; and
-  * any other information requested on this Site or otherwise required by us or provided by you.
+LegalVision is a law firm.
 
+LegalVision is a technology-powered law firm. To look us up, search for LegalVision ILP Pty Ltd, ABN 50 167 804 088.
 
+### What information do we collect?
 
-As with most online businesses, we may log information about your access and use of our Site, including through the use of Internet cookies, your communications with our Site, the type of browser you are using, the type of operating system you are using and the domain name of your Internet service provider.
+We collect a range of data about you, including your contact details, legal issues and data on how you use our website.
 
-We may contact you to voluntarily respond to questionnaires, surveys or market research to seek your opinion and feedback.  Providing this information is optional to you.
+We collect personal information that helps us contact you, solve your legal problem and personalise our content for you. We will only ask for, use or share sensitive information with your consent and only for the reason we collected it (unless we need to by law).
 
-We may receive personal information from third parties. If we do, we will protect it as set out in this Privacy Policy.
+We collect contact details like your **name, phone number, email** and **address**. The information we collect to personalise content for you includes **job titles, images, opinions** and **how you use our site**. We also ask about your **work, business situation** and **credit card details**. If we don’t need your information anymore, we will anonymise or delete it.
 
-**Use of personal information**
+If you are giving us others’ personal information, please do so only if they agree to this policy. 
 
-We collect and use personal information for the following purposes:
+When you access any website including ours, you may be providing it with information about your **location, Internet provider, computer hardware, browser type** and **operating system.**
 
-  * to provide information, products and services to you;
-  * to respond to your queries for legal documents, advice and services;
-  * to provide information to our network of solicitors, barristers and other specialists (each a **LegalVision Consultant** ) for the purposes of assisting you and managing your matter;
-  * to better understand your needs, enabling us to improve our products and services;
-  * for internal record keeping;
-  * to circulate promotional emails about new products and services, special offers or other information which we think you may find interesting;
-  * to contact you for market research purposes;
-  * direct marketing;
-  * to customise the Site according to your interests; and
-  * to customise documents according to your business needs.
+### This includes:
+
+  * Communicating with you
+  * Improving our website, social media pages and connected applications
+  * Giving you information
+  * Internal administrative record keeping
+  * Product improvement and Business Development
+  * Marketing, including sending you information about our products, our competitions and other parties
 
 
 
-We may contact you by a variety of measures including by telephone, email, sms or mail.
+For example your political & philosophical opinions, religion, race, professional memberships, sex life, criminal records and health and biometric information.
 
-**Disclosure of personal information**
+### How do we collect information?
 
-We may disclose personal information:
+We collect information over the phone, by email and through our website.
 
-  * for the purpose of providing information, products and services to clients;
-  * to credit reporting agencies and courts, tribunals, regulatory authorities where clients fail to pay for goods or services provided by us to them;
-  * to courts, tribunals, regulatory authorities, and law enforcement officers as required by law, in connection with any actual or prospective legal proceedings, or in order to establish, exercise or defend our legal rights;
-  * to one or more LegalVision Consultants, for the purpose of providing information and services to you;
-  * to the relevant third party or parties, with our client’s consent, if the matter involves third parties; and
-  * to third parties, including agents, referral partners, contractors and sub-contractors for the purposes of providing information, products and services to you.  This may include parties located, or that store data, outside of Australia.
+When you reach out to us through the **phone** , use our **website** or open **our emails** , you are telling us about yourself.
+
+This can be through online **enquiry forms** or **questionnaires** when you download our free resources.
+
+We also use software like cookies to tell us how you use our website and how we can help you. As well as being delicious sweets, cookies are tiny digital identifiers that are automatically stored on your computer. These help us personalise our service to you, and can be turned off or deleted at any time through your browser settings.
+
+One way cookies help us personalise content for you is by causing Google or Facebook to make our advertisements appear on your social media feeds.
+
+We also use web beacons (or ‘Clear GIFs’) on our site. These are small pieces of code that collect information about how a person uses our website. For example, this software can help us count the number of visitors to our site.
+
+### What do we do with this information?
+
+We store your information safely and use it to give you better legal services. A lot of this involves researching for you, communicating with you and marketing to you.
+
+Sometimes we share your data with our partners like Facebook and Google. They’ll often store your data overseas, outside the scope of Aussie privacy laws.
+
+#### Using your information:
+
+We use all personal information legally, fairly and transparently and on this page we explain everything that we do with it. We will only use your information to give you the best **legal service** , which comes down to **researching** your case, **communicating** with you and **marketing** our services to you. This includes:
+
+  * Giving you legal advice,
+  * Asking you for feedback, and
+  * Marketing
 
 
 
-By providing us with personal information, you consent to this disclosure.  Where we disclose your personal information to third parties, we will request or otherwise seek to get comfortable that the third party follows the Australian Privacy Principles regarding handling your personal information.
+We do these through:
 
-If there is a change of control of our business or a sale or transfer of business assets, we reserve the right to transfer to the extent permissible at law our user databases, together with any personal information and non-personal information contained in those databases.  This information may be disclosed to a potential purchaser.  We would seek to only disclose information in good faith and where we have sought to maintain confidentiality.
+  * Government database searches,
+  * Phone calls,
+  * Emails, and
+  * Snail mail (occasionally)
 
-**Security**
 
-We are committed to ensuring that the information you provide to us is secure. In order to prevent unauthorised access or disclosure, we have put in place suitable physical, electronic and managerial procedures to safeguard and secure that information and protect it from misuse, interference, loss and unauthorised access, modification and disclosure.
 
-No information transmitted over the Internet can be guaranteed to be secure.  We cannot guarantee the security of any information that you transmit to us, or receive from us.  The transmission and exchange of information is carried out at your own risk. Although we take measures to safeguard against unauthorised disclosures of information, we cannot assure you that personal information that we collect will not be disclosed in a manner that is inconsistent with this Privacy Policy.
+#### Storing your information:
 
-**How we use cookies**
+We store your information securely in our Sydney office, and only our staff and businesses we work with can access it. We use physical, electronic and management processes to keep your information safe. For example:
 
-We may use cookies on our Site from time to time. A cookie is a small file which asks permission to be placed on your computer’s hard drive. Once you agree, the file is added and the cookie helps analyse web traffic or lets you know when you visit a particular site. Cookies allow web applications to respond to you as an individual. The web application can tailor its operations to your needs and preferences by collecting and remembering information about you.
+  * Access to your information is protected by strict user logins
+  * Our servers are locked away with multiple physical safeguards
+  * All our staff are trained in information security, and
+  * We limit access to your information according to the strict client confidentiality laws that apply to law firms
 
-We use traffic log cookies to identify which pages are being used. This helps us analyse information about web page traffic and improve our Site by tailoring it to your needs. We use this information for statistical analysis purposes only, following which the data is removed from the system.
 
-Overall, cookies help us provide you with a better Site, by enabling us to monitor which pages you find useful and which you do not. A cookie does not give us access to your computer or any information about you, other than the data you provide to us.
 
-You can choose to accept or decline cookies. Most web browsers automatically accept cookies but you can usually modify your browser settings to decline cookies if you prefer. This may, however, prevent you from taking full advantage of the Site.
+#### Sharing your information:
 
-We may also use web beacons on this Site from time to time. Web beacons or clear .gifs are small pieces of code placed on a web page to monitor the behaviour and collect data about the visitors viewing a web page. For example, web beacons can be used to count the users who visit a web page or to deliver a cookie to the browser of a visitor viewing that page.
+We regularly share your information with a core few organisations that we work with to collect, process and use your information. These include:
 
-**Links to other websites**
+  * Data analysis (Google Analytics & Mouseflow)
+  * Targeted Ads (Facebook & LinkedIn)
+  * Marketing content (Marketo)
+  * Payment services (SecurePay)
 
-Our Site may contain links to other websites of interest. Please note that we do not have any control over those websites. We are not responsible for the protection and privacy of any information which you provide whilst visiting such websites and such websites are not governed by this privacy policy. You should exercise caution when accessing such websites and look at the privacy policy applicable to the website in question.
 
-**Controlling your personal information**
 
-Choice and Consent: Providing us with your personal information is optional to you. You can choose not to provide personal information. When you provide us with your personal information, you consent to the terms in this Privacy Policy, and to us disclosing or receiving your personal information for these purposes. We will not sell, distribute or lease your personal information to third parties unless we have your permission or are legally required to do so.
+Aside from these, we might also occasionally share your information with other contractors and groups like marketers, advisors, data storage and payment service providers, and only on a need-to-know basis. To find out how other groups use your information from our website, see their privacy policies (Google’s is [here](https://policies.google.com/technologies/partner-sites)).
 
-Restrict: You may choose to restrict the collection or use of your personal information. If you have previously agreed to us using your personal information for direct marketing purposes, you may change your mind at any time by contacting us, details below.
+It’s possible that these groups store some of your information overseas (including the US) under different information privacy laws and disclosure obligations to Australia. If these groups ever breach Australian privacy laws, they won’t be accountable in Australia, and you won’t have any remedy available under Australian laws like the Privacy Act.
 
-Access: You may request details of personal information that we hold about you in accordance with the provisions of the Privacy Act 1988 (Cth). A small administrative fee may be payable for the provision of information.  If you would like a copy of the information which we hold about you, please email us. We reserve the right to refuse to provide you with information that we hold about you, in certain circumstances set out in the Privacy Act.
+We will never sell your information (or give it away for free). However the government might ask for your information - for example through certain laws or a court order. This might include the police investigating a crime, or a court hearing for failure to pay. If this happens, we’ll comply. If LV is ever sold, your personal information will also be shared with the new owner.
 
-Correction: If you believe that any information we hold on you is inaccurate, out of date, incomplete, irrelevant or misleading, please contact us, details below. We rely in part upon clients advising us when their personal information changes.  We will respond to any request within a reasonable time and will endeavour to promptly correct any information found to be incorrect so that the information is accurate, up to date, complete, relevant and not misleading.
+Remember, when reaching out to us online, we can’t guarantee that your information hasn’t been intercepted by someone else before reaching us. That’s your responsibility!
 
-Unsubscribe: To unsubscribe from our e-mail database, or opt out of communications, please contact us at the details below.
+This includes providers of IT, data storage, web-hosting, servers, debt collection, maintenance, marketing, advertising, professional advisory, credit reporting and payment systems services.
 
-**Complaints**
+### What if you have a special relationship with us?
 
-If you believe that we have breached the Australian Privacy Principles and wish to make a complaint about that breach then please email us setting out details of the breach. We will promptly investigate your complaint and will endeavour to respond to you in writing within 28 days setting out the outcome of our investigation, what steps we propose to take to remedy the breach and any other action we will take to deal with your complaint.
+Working together differently means using data differently. Young ones, get your parents’ permission!
 
-**To contact our Privacy Officer, please contact us at:**
+Some relationships are ‘special’ because of the different data requirements they have. We’ve outlined some examples here.
 
-LV Australia Pty Ltd/ LegalVision Pty Ltd/ LegalVision ILP Pty Ltd
+When we **become your lawyer** , we might ask you for important documents like contracts and may legally need to keep your data for a certain length of time.
 
-67 Fitzroy Street, Surry Hills NSW 2010
+When you **apply for a job with us** , we might ask for personal data like your work history.
 
-[info@legalvision.com.au](mailto:info@legalvision.com.au)
+If you are **under 16** , we can only let you use our site and submit your data to us if you have your parents’ or guardians’ permission.
 
-**Last update: 28th October  2014**
+### How to contact us?
+
+You can always see what data you’ve stored with us. Questions, comments or complaints? Reach out!
+
+We will do our best to keep your data up to date. You can view - and ask us to correct - any data we have about you. You can also ask us at any time to stop communicating with you.
+
+If you’re unhappy with something we’ve done or you think we’re not following privacy laws, let us know and we’ll get back to you promptly to try and fix that. Just reach out at [info@legalvision.com.au](mailto:info@legalvision.com.au).
+
+You can also make a complaint to the [Office of the Australian Information Commissioner.](https://www.oaic.gov.au/individuals/privacy-complaint-checker/)
+
+If this policy ever changes, we’ll update it here.
+
+### LV Australia Pty Ltd / LegalVision Pty Ltd / LegalVision ILP Pty Ltd
+
+### 100 Harris Street, Pyrmont, NSW 2009
+
+Last updated May 2018
