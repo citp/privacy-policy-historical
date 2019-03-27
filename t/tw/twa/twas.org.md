@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the twas.org privacy policy that was archived on 2018-08-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180829023839id_/https%3A//twas.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the twas.org privacy policy that was archived on 2019-03-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190327143524id_/https%3A//twas.org/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | TWAS
 
