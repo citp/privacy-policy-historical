@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the chalkstreet.com privacy policy that was archived on 2017-06-15.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20170615014917id_/https%3A//www.chalkstreet.com/info/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the chalkstreet.com privacy policy that was archived on 2019-03-28.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20190328005156id_/https%3A//www.chalkstreet.com/info/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en"><head>
     <meta charset="utf-8">
@@ -14,7 +14,35 @@
     <link rel="stylesheet" type="text/css" href="https://www.chalkstreet.com/static/css/common.css">
     <link rel="stylesheet" type="text/css" href="https://www.chalkstreet.com/static/css/home.css">
     <link rel="icon" type="image/x-icon" href="https://www.chalkstreet.com/static/imgs/favicon.ico">
-    <script src="https://script.crazyegg.com/pages/scripts/0040/5572.js?439025" async="" type="text/javascript"></script><script async="" src="https://connect.facebook.net/en_US/fbevents.js"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script>
+    <link rel="stylesheet" type="text/css" href="https://fonts.googleapis.com/css?family=Muli">
+    <style>
+    .members-nav,.visitors-nav{
+        color: #0bb76C;
+        cursor: pointer;
+
+    }
+    li,p{
+        font-size: 16px !important;
+    }
+    .panel-title{
+        font-size: 22px !important;
+    }
+    .panel-title-head{
+        font-size: 18px !important;
+    }
+    .panel-heading{
+        padding: 10px 15px;
+        padding-bottom: 0px;
+    }
+    .panel-vody{
+        font-size: 22px !important;
+    }
+    .panel-body {
+        padding: 15px;
+        padding-top: 0px;
+    }
+    </style>
+    <script src="https://script.crazyegg.com/pages/scripts/0040/5572.js?439001" async="" type="text/javascript"></script><script async="" src="https://connect.facebook.net/en_US/fbevents.js"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script>
 
   (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
   (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
@@ -35,7 +63,9 @@ n.callMethod.apply(n,arguments):n.queue.push(arguments)};if(!f._fbq)f._fbq=n;
 n.push=n;n.loaded=!0;n.version='2.0';n.queue=[];t=b.createElement(e);t.async=!0;
 t.src=v;s=b.getElementsByTagName(e)[0];s.parentNode.insertBefore(t,s)}(window,
 document,'script','https://connect.facebook.net/en_US/fbevents.js');
-fbq('init', '267472537021652');
+fbq('init', '267472537021652', {
+em: 'insert_email_variable,'
+});
 fbq('track', 'PageView');
 </script>
 <noscript><img height="1" width="1" style="display:none"
@@ -64,19 +94,44 @@ a.async=true;a.type="text/javascript";b.parentNode.insertBefore(a,b)}, 1);
 </script>
 
 
-
-<!--sentry-->
-<script src="https://cdn.ravenjs.com/3.1.0/raven.min.js"></script>
-<script>
-  Raven.config('https://467abaf3a7914cbdb2d58f3b97535eff@app.getsentry.com/83620');
-  Raven.debug = false;
-  Raven.install();
-</script>
-<!--sentry end-->
-
   </head>
-  <body class="privacy">
-  		<div class="modal" id="login_modal" role="dialog">
+  <body class="privacy" style="font-family:Muli !important;">
+  	        <!--cropping modal-->
+        <!--image cropping-->
+    	<div class="modal fade" id="edit_image" data-backdrop="static" tabindex="-1" role="dialog" aria-labelledby="picture_label" aria-hidden="true">
+    		<div class="modal-dialog">
+    			<div class="modal-content">
+    				<div class="modal-header">
+    					<button type="button" class="close" data-dismiss="modal" aria-label="Close" title="Close">
+    	            <i class="glyphicon glyphicon-remove" aria-hidden="true"></i>
+    	        </button>
+    	        <h4 class="modal-title text-center">
+    	    				Update Profile Image
+        			</h4>
+    				</div>
+    				<div class="modal-body">
+    					<!--upload/remove-->
+    					<div class="step-1">
+    						<div class="col-sm-12 col-xs-12" style="padding-bottom: 21px;font-size: 1.1em;">Adding a Profile Image will help you get noticed faster and will also get you more views for your contributions on ChalkStreet!</div>
+    						<div class="col-sm-6 col-xs-6">
+    							<button class="btn btn-coloured btn-info btn-flat bc9 edit_button" onclick="upload_image()">Upload</button>
+    						</div>
+    						<div class="col-sm-6 col-xs-6">
+    							<button class="btn btn-coloured btn-info btn-flat bc9 edit_button" onclick="remove_image()">Remove</button>
+    						</div>
+    					</div>
+    					<!--cropping-->
+    					<div class="step-2 hidden">
+    						<input id="upload_picture" value="Upload" type="file">
+    						<div id="cropping_area"></div>
+    						<button class="upload-result btn btn-coloured btn-info btn-flat bc9 hidden">Submit</button>
+    					</div>
+    				</div>
+    			</div>
+    		</div>
+    	</div><!--image cropping end-->
+
+        	<div class="modal" id="login_modal" role="dialog">
 		<div class="modal-dialog login_dialog" role="document">
 			<div class="modal-content">
 				<div class="modal-header login_modal_header">
@@ -88,7 +143,7 @@ a.async=true;a.type="text/javascript";b.parentNode.insertBefore(a,b)}, 1);
 					<div class="login_home clearfix">
 						<div class="text-center"><h4>Join 150,000+ learners now with</h4></div><br>
 						<div class="col-sm-12">
-								<a class="fb_url btn btn-block btn-social btn-facebook" href="https://www.facebook.com/dialog/oauth?%20client_id=900560363336941&amp;scope=email,user_friends&amp;auth_type=rerequest&amp;redirect_uri=https://www.chalkstreet.com/users/accounts/login_backend.php&amp;state=aHR0cHMlM0ElMkYlMkZ3d3cuY2hhbGtzdHJlZXQuY29tJTJGaW5mbyUyRnByaXZhY3ktcG9saWN5JTJGJTNGbHNwJTNEMCUyNmNpJTNEMA==" data-href="https://www.facebook.com/dialog/oauth?%20client_id=900560363336941&amp;scope=email,user_friends&amp;auth_type=rerequest&amp;redirect_uri=https://www.chalkstreet.com/users/accounts/login_backend.php&amp;state=aHR0cHMlM0ElMkYlMkZ3d3cuY2hhbGtzdHJlZXQuY29tJTJGaW5mbyUyRnByaXZhY3ktcG9saWN5JTJGJTNGbHNwJTNEMCUyNmNpJTNEMA==" onclick="common_ga('login','fb_login')"><i class="fa fa-facebook text-center"></i><span class="social-text">Facebook</span></a>
+								<a class="fb_url btn btn-block btn-social btn-facebook" href="https://www.facebook.com/dialog/oauth?%20client_id=900560363336941&amp;scope=email,user_friends,user_likes,user_birthday&amp;auth_type=rerequest&amp;redirect_uri=https://www.chalkstreet.com/users/accounts/login_backend.php&amp;state=aHR0cHMlM0ElMkYlMkZ3d3cuY2hhbGtzdHJlZXQuY29tJTJGaW5mbyUyRnByaXZhY3ktcG9saWN5JTJGJTNGbHNwJTNEMCUyNmNpJTNEMA==" data-href="https://www.facebook.com/dialog/oauth?%20client_id=900560363336941&amp;scope=email,user_friends,user_likes,user_birthday&amp;auth_type=rerequest&amp;redirect_uri=https://www.chalkstreet.com/users/accounts/login_backend.php&amp;state=aHR0cHMlM0ElMkYlMkZ3d3cuY2hhbGtzdHJlZXQuY29tJTJGaW5mbyUyRnByaXZhY3ktcG9saWN5JTJGJTNGbHNwJTNEMCUyNmNpJTNEMA==" onclick="common_ga('login','fb_login')"><i class="fa fa-facebook text-center"></i><span class="social-text">Facebook</span></a>
 								<a class="gp_url btn btn-block btn-social btn-google" href="https://accounts.google.com/o/oauth2/auth?scope=https://www.googleapis.com/auth/plus.me+https://www.googleapis.com/auth/userinfo.profile+https://www.googleapis.com/auth/userinfo.email+https://www.googleapis.com/auth/plus.login&amp;response_type=code&amp;access_type=offline&amp;redirect_uri=https://www.chalkstreet.com/users/accounts/login_backend.php&amp;client_id=132214080453-m1gqtp8i3ncgar3ihe27rn03a06aoq2f.apps.googleusercontent.com&amp;hl=en&amp;from_login=1&amp;as=-6136765567898e9e&amp;authuser=0&amp;state=aHR0cHMlM0ElMkYlMkZ3d3cuY2hhbGtzdHJlZXQuY29tJTJGaW5mbyUyRnByaXZhY3ktcG9saWN5JTJGJTNGbHNwJTNEMCUyNmNpJTNEMA==" data-href="https://accounts.google.com/o/oauth2/auth?scope=https://www.googleapis.com/auth/plus.me+https://www.googleapis.com/auth/userinfo.profile+https://www.googleapis.com/auth/userinfo.email+https://www.googleapis.com/auth/plus.login&amp;response_type=code&amp;access_type=offline&amp;redirect_uri=https://www.chalkstreet.com/users/accounts/login_backend.php&amp;client_id=132214080453-m1gqtp8i3ncgar3ihe27rn03a06aoq2f.apps.googleusercontent.com&amp;hl=en&amp;from_login=1&amp;as=-6136765567898e9e&amp;authuser=0&amp;state=aHR0cHMlM0ElMkYlMkZ3d3cuY2hhbGtzdHJlZXQuY29tJTJGaW5mbyUyRnByaXZhY3ktcG9saWN5JTJGJTNGbHNwJTNEMCUyNmNpJTNEMA==" onclick="common_ga('login','gplus_login')"><i class="fa fa-google text-center"></i><span class="social-text">Google</span></a>
 								<center><h5 class="fc8" style="margin-bottom: 2em;margin-top: 2em;">OR</h5></center>
 								<a class="btn-1" href="javascript:void(0)" onclick="login_signup(1);">Use Email ID</a><br>
@@ -154,7 +209,7 @@ a.async=true;a.type="text/javascript";b.parentNode.insertBefore(a,b)}, 1);
 	</div>	<!-- login modal -->
 		<!--Nav bar begin -->
 		<!-- Main header nav bar -->
-	<nav class="main-chalk-banner navbar navbar-chalk  navbar-fixed-top" data-uid="" v-uid="  ">
+	<nav class="main-chalk-banner navbar navbar-chalk    navbar-fixed-top" data-uid="" v-uid="  " style="font-family:Muli !important;">
 			
 			<div class="">
 
@@ -172,7 +227,174 @@ a.async=true;a.type="text/javascript";b.parentNode.insertBefore(a,b)}, 1);
         			<span class="icon-bar not_first"></span>
         			<span class="icon-bar not_first"></span>
       			</button>
-      			    			<!--logo-->
+      				<div class="chalkst-side-menu bc4">
+		<div class="title fc11 ff2">Our popular collections</div>
+		
+				<div class="channel_wrapper channel_side-menu-item  technology">
+				<div class="col-sm-1 channel_color_bar " style="visibility:hidden;background:#293990">
+					<a href="https://www.chalkstreet.com/technology/"></a>
+				</div>
+				<div class="col-sm-11 channel_content ">
+					<a class="channel col-sm-12 fc7" href="https://www.chalkstreet.com/technology/">
+						Technology				    	<div class="clearfix"></div>
+				    	<span class="channel_learners fc8">
+				    		26,000+ learners				    	</span>
+				   	</a>
+				</div>
+				<div class="topics_wrapper">
+												<a class="topic fc7" href="https://www.chalkstreet.com/software-testing/">Software Testing</a>
+											<a class="topic fc7" href="https://www.chalkstreet.com/big-data-and-analytics/">Big Data &amp; Analytics</a>
+											<a class="topic fc7" href="https://www.chalkstreet.com/cloud-computing/">Cloud Computing</a>
+											<a class="topic fc7" href="https://www.chalkstreet.com/programming/">Programming</a>
+											<a class="topic fc7" href="https://www.chalkstreet.com/web-development/">Web Development</a>
+											<a class="topic fc7" href="https://www.chalkstreet.com/machine-learning/">Machine Learning</a>
+											<a class="topic fc7" href="https://www.chalkstreet.com/futuristic-tech/">Futuristic Tech</a>
+											<a class="topic fc7" href="https://www.chalkstreet.com/computer-science-basics/">Computer Science Basics</a>
+											<a class="topic fc7" href="https://www.chalkstreet.com/networks-and-security/">Networks &amp; Security</a>
+											<a class="topic fc7" href="https://www.chalkstreet.com/engineering-basics/">Engineering Basics</a>
+											<a class="topic fc7" href="https://www.chalkstreet.com/project-management/">Project Management</a>
+											<a class="topic fc7" href="https://www.chalkstreet.com/mobile-apps/">Mobile Apps</a>
+											<a class="topic fc7" href="https://www.chalkstreet.com/electronics/">Electronics</a>
+								</div>
+			</div>
+		
+				<div class="channel_wrapper channel_side-menu-item  business">
+				<div class="col-sm-1 channel_color_bar " style="visibility:hidden;background:#F8981D">
+					<a href="https://www.chalkstreet.com/business/"></a>
+				</div>
+				<div class="col-sm-11 channel_content ">
+					<a class="channel col-sm-12 fc7" href="https://www.chalkstreet.com/business/">
+						Business				    	<div class="clearfix"></div>
+				    	<span class="channel_learners fc8">
+				    		22,000+ learners				    	</span>
+				   	</a>
+				</div>
+				<div class="topics_wrapper">
+												<a class="topic fc7" href="https://www.chalkstreet.com/marketing-and-sales/">Marketing &amp; Sales</a>
+											<a class="topic fc7" href="https://www.chalkstreet.com/finance-and-accounting/">Finance &amp; Accounting</a>
+											<a class="topic fc7" href="https://www.chalkstreet.com/operations-management/">Operations Management</a>
+											<a class="topic fc7" href="https://www.chalkstreet.com/entrepreneurship/">Entrepreneurship</a>
+											<a class="topic fc7" href="https://www.chalkstreet.com/ms-office/">MS Office</a>
+											<a class="topic fc7" href="https://www.chalkstreet.com/crm/">CRM</a>
+											<a class="topic fc7" href="https://www.chalkstreet.com/erp/">ERP</a>
+											<a class="topic fc7" href="https://www.chalkstreet.com/human-resources/">Human Resources</a>
+								</div>
+			</div>
+		
+				<div class="channel_wrapper channel_side-menu-item  hobbies">
+				<div class="col-sm-1 channel_color_bar " style="visibility:hidden;background:#AD1F59">
+					<a href="https://www.chalkstreet.com/hobbies/"></a>
+				</div>
+				<div class="col-sm-11 channel_content ">
+					<a class="channel col-sm-12 fc7" href="https://www.chalkstreet.com/hobbies/">
+						Hobbies				    	<div class="clearfix"></div>
+				    	<span class="channel_learners fc8">
+				    		9,000+ learners				    	</span>
+				   	</a>
+				</div>
+				<div class="topics_wrapper">
+												<a class="topic fc7" href="https://www.chalkstreet.com/photography/">Photography</a>
+											<a class="topic fc7" href="https://www.chalkstreet.com/painting-and-sketching/">Painting &amp; Sketching</a>
+											<a class="topic fc7" href="https://www.chalkstreet.com/music/">Music</a>
+											<a class="topic fc7" href="https://www.chalkstreet.com/dance/">Dance</a>
+											<a class="topic fc7" href="https://www.chalkstreet.com/games/">Games</a>
+											<a class="topic fc7" href="https://www.chalkstreet.com/crafts/">Crafts</a>
+								</div>
+			</div>
+		
+				<div class="channel_wrapper channel_side-menu-item  personal-development">
+				<div class="col-sm-1 channel_color_bar " style="visibility:hidden;background:#26C281">
+					<a href="https://www.chalkstreet.com/personal-development/"></a>
+				</div>
+				<div class="col-sm-11 channel_content ">
+					<a class="channel col-sm-12 fc7" href="https://www.chalkstreet.com/personal-development/">
+						Personal Development				    	<div class="clearfix"></div>
+				    	<span class="channel_learners fc8">
+				    		15,000+ learners				    	</span>
+				   	</a>
+				</div>
+				<div class="topics_wrapper">
+												<a class="topic fc7" href="https://www.chalkstreet.com/productivity/">Productivity</a>
+											<a class="topic fc7" href="https://www.chalkstreet.com/online-teaching/">Online Teaching</a>
+											<a class="topic fc7" href="https://www.chalkstreet.com/self-improvement/">Self Improvement</a>
+											<a class="topic fc7" href="https://www.chalkstreet.com/languages/">Languages</a>
+											<a class="topic fc7" href="https://www.chalkstreet.com/career-development/">Career Development</a>
+											<a class="topic fc7" href="https://www.chalkstreet.com/personal-finance/">Personal Finance</a>
+								</div>
+			</div>
+		
+				<div class="channel_wrapper channel_side-menu-item  lifestyle">
+				<div class="col-sm-1 channel_color_bar " style="visibility:hidden;background:#692C90">
+					<a href="https://www.chalkstreet.com/lifestyle/"></a>
+				</div>
+				<div class="col-sm-11 channel_content ">
+					<a class="channel col-sm-12 fc7" href="https://www.chalkstreet.com/lifestyle/">
+						Lifestyle				    	<div class="clearfix"></div>
+				    	<span class="channel_learners fc8">
+				    		4,000+ learners				    	</span>
+				   	</a>
+				</div>
+				<div class="topics_wrapper">
+												<a class="topic fc7" href="https://www.chalkstreet.com/fitness-and-sports/">Fitness &amp; Sports</a>
+											<a class="topic fc7" href="https://www.chalkstreet.com/health-and-nutrition/">Health &amp; Nutrition</a>
+											<a class="topic fc7" href="https://www.chalkstreet.com/beauty/">Beauty</a>
+											<a class="topic fc7" href="https://www.chalkstreet.com/cooking/">Cooking</a>
+								</div>
+			</div>
+		
+				<div class="channel_wrapper channel_side-menu-item  design">
+				<div class="col-sm-1 channel_color_bar " style="visibility:hidden;background:#0077BD">
+					<a href="https://www.chalkstreet.com/design/"></a>
+				</div>
+				<div class="col-sm-11 channel_content ">
+					<a class="channel col-sm-12 fc7" href="https://www.chalkstreet.com/design/">
+						Design				    	<div class="clearfix"></div>
+				    	<span class="channel_learners fc8">
+				    		8,000+ learners				    	</span>
+				   	</a>
+				</div>
+				<div class="topics_wrapper">
+												<a class="topic fc7" href="https://www.chalkstreet.com/ui-ux/">UI UX</a>
+											<a class="topic fc7" href="https://www.chalkstreet.com/web-design/">Web Design</a>
+											<a class="topic fc7" href="https://www.chalkstreet.com/graphic-design/">Graphic Design</a>
+											<a class="topic fc7" href="https://www.chalkstreet.com/3d-and-animation/">3D &amp; Animation</a>
+											<a class="topic fc7" href="https://www.chalkstreet.com/game-design/">Game Design</a>
+											<a class="topic fc7" href="https://www.chalkstreet.com/cad-software/">CAD Software</a>
+								</div>
+			</div>
+		
+				<div class="channel_wrapper channel_side-menu-item  test-prep">
+				<div class="col-sm-1 channel_color_bar " style="visibility:hidden;background:#E54D4E">
+					<a href="https://www.chalkstreet.com/test-prep/"></a>
+				</div>
+				<div class="col-sm-11 channel_content ">
+					<a class="channel col-sm-12 fc7" href="https://www.chalkstreet.com/test-prep/">
+						Test Prep				    	<div class="clearfix"></div>
+				    	<span class="channel_learners fc8">
+				    		40,000+ learners				    	</span>
+				   	</a>
+				</div>
+				<div class="topics_wrapper">
+												<a class="topic fc7" href="https://www.chalkstreet.com/placement-prep/">Placement Prep</a>
+											<a class="topic fc7" href="https://www.chalkstreet.com/mba-prep/">MBA Prep</a>
+											<a class="topic fc7" href="https://www.chalkstreet.com/bank-exams-prep/">Bank Exams Prep</a>
+											<a class="topic fc7" href="https://www.chalkstreet.com/international-exams/">International Exams</a>
+											<a class="topic fc7" href="https://www.chalkstreet.com/upsc-and-govt-jobs/">UPSC &amp; Govt Jobs</a>
+											<a class="topic fc7" href="https://www.chalkstreet.com/gate-prep/">GATE Prep</a>
+											<a class="topic fc7" href="https://www.chalkstreet.com/school-exams/">School Exams</a>
+											<a class="topic fc7" href="https://www.chalkstreet.com/general-aptitude/">General Aptitude</a>
+								</div>
+			</div>
+				<div class="title fc11 ff2  ">Explore</div>
+	    			<div class="sidemenu-additional-wraper">
+	    		<a href="https://www.chalkstreet.com/offers/new-and-fresh" class="additional new fc7">New &amp; Fresh									</a>
+	    	</div>
+					<div class="sidemenu-additional-wraper">
+	    		<a href="https://www.chalkstreet.com/offers/best-sellers" class="additional new fc7">Best Sellers									</a>
+	    	</div>
+				
+	</div>
+    			<!--logo-->
     			<a class="logo logo_white" href="https://www.chalkstreet.com/"></a>
 
 					<div class="playstore_mobile_link hidden ">
@@ -201,15 +423,34 @@ a.async=true;a.type="text/javascript";b.parentNode.insertBefore(a,b)}, 1);
 
 				<div class="btn-group xs-hidden">
 					<input type="hidden" name="search_type" value="all">
-				  <button class="btn btn-default dropdown-toggle search_select" type="button" id="dropdownMenu1" data-toggle="dropdown">
-				    <span class="" style="display: inline">Explore by <br><b>Category</b></span>
-				    <span class="caret"></span>
+				  <button class="btn btn-default dropdown-toggle search_select" type="button" id="dropdownMenu1" data-toggle="dropdown" style="display:inline-flex;">
+                      <div class="" style="margin-top: 2px;    margin-right: 10px;">
+                          <svg width="16" height="16" viewBox="0 0 16 16" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+                          <title>tiles-view2</title>
+                          <desc>Created using Figma</desc>
+                          <g id="Canvas2" transform="translate(-11218 -9127)">
+                          <g id="tiles-view2" opacity="0.7">
+                          <use xlink:href="#path1_fill" fill="url(#pattern1)" transform="matrix(-1 0 0 1 11234 9127)"></use>
+                          </g>
+                          </g>
+                          <defs>
+                          <pattern id="pattern1" patternUnits="objectBoundingBox" patternContentUnits="objectBoundingBox" width="1" height="1">
+                          <use xlink:href="#image1" transform="matrix(0.00390625 0 0 0.00390625 0 0)"></use>
+                          </pattern>
+                          <path id="path1_fill" d="M 0 0L 16 0L 16 16L 0 16L 0 0Z"></path>
+                          <image id="image1" width="256" height="256" preserveAspectRatio="none" xlink:href="data:image/png;base64,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"></image>
+                          </defs>
+                          </svg>
+
+                    </div>
+                    <span class="" style="display: inline;color:#333333;opacity:0.7;">Category</span>
+                    <span class="caret hidden"></span>
 				  </button>
 								  <ul class="dropdown-menu" aria-labelledby="dropdownMenu1">
 				    <li class="hidden"><a value="courses " style="position: relative;">Articles</a></li>
 				    
-				    <li class="dropdown-submenu "><a tabindex="-1" href="javascript:void(0)" style="cursor: default;"> Technology</a>
-				    	<ul class="drop-menu-hide dropdown-menu dropdown-menu-second technology-top-container ">
+				    <li class="dropdown-submenu "><a tabindex="-1" href="https://www.chalkstreet.com/technology" style="cursor: pointer;"> Technology</a>
+				    	<ul class="drop-menu-hide dropdown-menu dropdown-menu-second  ">
 				    						        <li><a class="category_submenu_text" href="https://www.chalkstreet.com/electronics"><span style="">Electronics</span></a></li>
 					    					        <li><a class="category_submenu_text" href="https://www.chalkstreet.com/mobile-apps"><span style="">Mobile Apps</span></a></li>
 					    					        <li><a class="category_submenu_text" href="https://www.chalkstreet.com/project-management"><span style="">Project Management</span></a></li>
@@ -238,8 +479,8 @@ a.async=true;a.type="text/javascript";b.parentNode.insertBefore(a,b)}, 1);
 				      	</ul>
 				    </li>
 				    
-				    <li class="dropdown-submenu "><a tabindex="-1" href="javascript:void(0)" style="cursor: default;"> Business</a>
-				    	<ul class="drop-menu-hide dropdown-menu dropdown-menu-second business-top-container ">
+				    <li class="dropdown-submenu "><a tabindex="-1" href="https://www.chalkstreet.com/business" style="cursor: pointer;"> Business</a>
+				    	<ul class="drop-menu-hide dropdown-menu dropdown-menu-second  ">
 				    						        <li><a class="category_submenu_text" href="https://www.chalkstreet.com/human-resources"><span style="">Human Resources</span></a></li>
 					    					        <li><a class="category_submenu_text" href="https://www.chalkstreet.com/erp"><span style="">ERP</span></a></li>
 					    					        <li><a class="category_submenu_text" href="https://www.chalkstreet.com/crm"><span style="">CRM</span></a></li>
@@ -263,8 +504,8 @@ a.async=true;a.type="text/javascript";b.parentNode.insertBefore(a,b)}, 1);
 				      	</ul>
 				    </li>
 				    
-				    <li class="dropdown-submenu "><a tabindex="-1" href="javascript:void(0)" style="cursor: default;"> Hobbies</a>
-				    	<ul class="drop-menu-hide dropdown-menu dropdown-menu-second hobbies-top-container ">
+				    <li class="dropdown-submenu "><a tabindex="-1" href="https://www.chalkstreet.com/hobbies" style="cursor: pointer;"> Hobbies</a>
+				    	<ul class="drop-menu-hide dropdown-menu dropdown-menu-second  ">
 				    						        <li><a class="category_submenu_text" href="https://www.chalkstreet.com/crafts"><span style="">Crafts</span></a></li>
 					    					        <li><a class="category_submenu_text" href="https://www.chalkstreet.com/games"><span style="">Games</span></a></li>
 					    					        <li><a class="category_submenu_text" href="https://www.chalkstreet.com/dance"><span style="">Dance</span></a></li>
@@ -286,8 +527,8 @@ a.async=true;a.type="text/javascript";b.parentNode.insertBefore(a,b)}, 1);
 				      	</ul>
 				    </li>
 				    
-				    <li class="dropdown-submenu "><a tabindex="-1" href="javascript:void(0)" style="cursor: default;"> Personal Development</a>
-				    	<ul class="drop-menu-hide dropdown-menu dropdown-menu-second personal-development-top-container ">
+				    <li class="dropdown-submenu "><a tabindex="-1" href="https://www.chalkstreet.com/personal-development" style="cursor: pointer;"> Personal Development</a>
+				    	<ul class="drop-menu-hide dropdown-menu dropdown-menu-second  ">
 				    						        <li><a class="category_submenu_text" href="https://www.chalkstreet.com/personal-finance"><span style="">Personal Finance</span></a></li>
 					    					        <li><a class="category_submenu_text" href="https://www.chalkstreet.com/career-development"><span style="">Career Development</span></a></li>
 					    					        <li><a class="category_submenu_text" href="https://www.chalkstreet.com/languages"><span style="">Languages</span></a></li>
@@ -309,8 +550,8 @@ a.async=true;a.type="text/javascript";b.parentNode.insertBefore(a,b)}, 1);
 				      	</ul>
 				    </li>
 				    
-				    <li class="dropdown-submenu "><a tabindex="-1" href="javascript:void(0)" style="cursor: default;"> Lifestyle</a>
-				    	<ul class="drop-menu-hide dropdown-menu dropdown-menu-second lifestyle-top-container ">
+				    <li class="dropdown-submenu "><a tabindex="-1" href="https://www.chalkstreet.com/lifestyle" style="cursor: pointer;"> Lifestyle</a>
+				    	<ul class="drop-menu-hide dropdown-menu dropdown-menu-second  ">
 				    						        <li><a class="category_submenu_text" href="https://www.chalkstreet.com/cooking"><span style="">Cooking</span></a></li>
 					    					        <li><a class="category_submenu_text" href="https://www.chalkstreet.com/beauty"><span style="">Beauty</span></a></li>
 					    					        <li><a class="category_submenu_text" href="https://www.chalkstreet.com/health-and-nutrition"><span style="">Health &amp; Nutrition</span></a></li>
@@ -330,8 +571,8 @@ a.async=true;a.type="text/javascript";b.parentNode.insertBefore(a,b)}, 1);
 				      	</ul>
 				    </li>
 				    
-				    <li class="dropdown-submenu "><a tabindex="-1" href="javascript:void(0)" style="cursor: default;"> Design</a>
-				    	<ul class="drop-menu-hide dropdown-menu dropdown-menu-second design-top-container ">
+				    <li class="dropdown-submenu "><a tabindex="-1" href="https://www.chalkstreet.com/design" style="cursor: pointer;"> Design</a>
+				    	<ul class="drop-menu-hide dropdown-menu dropdown-menu-second  ">
 				    						        <li><a class="category_submenu_text" href="https://www.chalkstreet.com/cad-software"><span style="">CAD Software</span></a></li>
 					    					        <li><a class="category_submenu_text" href="https://www.chalkstreet.com/game-design"><span style="">Game Design</span></a></li>
 					    					        <li><a class="category_submenu_text" href="https://www.chalkstreet.com/3d-and-animation"><span style="">3D &amp; Animation</span></a></li>
@@ -353,8 +594,8 @@ a.async=true;a.type="text/javascript";b.parentNode.insertBefore(a,b)}, 1);
 				      	</ul>
 				    </li>
 				    
-				    <li class="dropdown-submenu "><a tabindex="-1" href="javascript:void(0)" style="cursor: default;"> Test Prep</a>
-				    	<ul class="drop-menu-hide dropdown-menu dropdown-menu-second test-prep-top-container ">
+				    <li class="dropdown-submenu "><a tabindex="-1" href="https://www.chalkstreet.com/test-prep" style="cursor: pointer;"> Test Prep</a>
+				    	<ul class="drop-menu-hide dropdown-menu dropdown-menu-second  ">
 				    						        <li><a class="category_submenu_text" href="https://www.chalkstreet.com/general-aptitude"><span style="">General Aptitude</span></a></li>
 					    					        <li><a class="category_submenu_text" href="https://www.chalkstreet.com/school-exams"><span style="">School Exams</span></a></li>
 					    					        <li><a class="category_submenu_text" href="https://www.chalkstreet.com/gate-prep"><span style="">GATE Prep</span></a></li>
@@ -486,16 +727,20 @@ a.async=true;a.type="text/javascript";b.parentNode.insertBefore(a,b)}, 1);
 	      			</li-->
 	      				      					<!--li class="navbar_top_adjust"><a href="https://www.chalkstreet.com/teach/">Become an Instructor</a></li-->
 	      				        		
-						<li>
+						<li style="
+                                margin-top: 0.5em;">
 						<a href="javascript:void(0)" onclick="login_signup(0);" style="
-						    display: inline-block;
+						    display: inline-block;color:#000000 !important;border:none!important;
+                            padding:5px 10px !important;
 						">Login</a>
 						</li>
 						<li class="sign-up-button" style="
 								margin-left: 1em;
+                                margin-top: 0.5em;
 						"><a href="javascript:void(0)" onclick="login_signup(0);" style="
 								display: inline-block;
-								border-right: 1px solid #15AD6A;
+								border:none !important;
+                                color:var(--accent-theme) !important;
 						">Signup</a>
 						</li>
 					            	</ul>
@@ -528,6 +773,7 @@ a.async=true;a.type="text/javascript";b.parentNode.insertBefore(a,b)}, 1);
   		</div>
 
 	</nav>
+
 	<!--transparent layer-->
     		<div class="chalkst_custom_hide hidden"></div>
 		<!-- Side nav bar for mobile -->
@@ -545,19 +791,19 @@ a.async=true;a.type="text/javascript";b.parentNode.insertBefore(a,b)}, 1);
 							<span class="hidden channel_cheveron fc7 pull-right glyphicon glyphicon-menu-down"></span>
 							<div class="hidden clearfix"></div>
 							<div class="topics_wrapper ">
-																<a class="topic fc7" href="https://www.chalkstreet.com/electronics">ELECTRONICS</a>
-																<a class="topic fc7" href="https://www.chalkstreet.com/mobile-apps">MOBILE APPS</a>
-																<a class="topic fc7" href="https://www.chalkstreet.com/project-management">PROJECT MANAGEMENT</a>
-																<a class="topic fc7" href="https://www.chalkstreet.com/engineering-basics">ENGINEERING BASICS</a>
-																<a class="topic fc7" href="https://www.chalkstreet.com/networks-and-security">NETWORKS &amp; SECURITY</a>
-																<a class="topic fc7" href="https://www.chalkstreet.com/computer-science-basics">COMPUTER SCIENCE BASICS</a>
-																<a class="topic fc7" href="https://www.chalkstreet.com/futuristic-tech">FUTURISTIC TECH</a>
-																<a class="topic fc7" href="https://www.chalkstreet.com/machine-learning">MACHINE LEARNING</a>
-																<a class="topic fc7" href="https://www.chalkstreet.com/web-development">WEB DEVELOPMENT</a>
-																<a class="topic fc7" href="https://www.chalkstreet.com/programming">PROGRAMMING</a>
-																<a class="topic fc7" href="https://www.chalkstreet.com/cloud-computing">CLOUD COMPUTING</a>
-																<a class="topic fc7" href="https://www.chalkstreet.com/big-data-and-analytics">BIG DATA &amp; ANALYTICS</a>
 																<a class="topic fc7" href="https://www.chalkstreet.com/software-testing">SOFTWARE TESTING</a>
+																<a class="topic fc7" href="https://www.chalkstreet.com/big-data-and-analytics">BIG DATA &amp; ANALYTICS</a>
+																<a class="topic fc7" href="https://www.chalkstreet.com/cloud-computing">CLOUD COMPUTING</a>
+																<a class="topic fc7" href="https://www.chalkstreet.com/programming">PROGRAMMING</a>
+																<a class="topic fc7" href="https://www.chalkstreet.com/web-development">WEB DEVELOPMENT</a>
+																<a class="topic fc7" href="https://www.chalkstreet.com/machine-learning">MACHINE LEARNING</a>
+																<a class="topic fc7" href="https://www.chalkstreet.com/futuristic-tech">FUTURISTIC TECH</a>
+																<a class="topic fc7" href="https://www.chalkstreet.com/computer-science-basics">COMPUTER SCIENCE BASICS</a>
+																<a class="topic fc7" href="https://www.chalkstreet.com/networks-and-security">NETWORKS &amp; SECURITY</a>
+																<a class="topic fc7" href="https://www.chalkstreet.com/engineering-basics">ENGINEERING BASICS</a>
+																<a class="topic fc7" href="https://www.chalkstreet.com/project-management">PROJECT MANAGEMENT</a>
+																<a class="topic fc7" href="https://www.chalkstreet.com/mobile-apps">MOBILE APPS</a>
+																<a class="topic fc7" href="https://www.chalkstreet.com/electronics">ELECTRONICS</a>
 														</div>
 						</li>
 										<li class="channels_wrapper" style="">
@@ -565,14 +811,14 @@ a.async=true;a.type="text/javascript";b.parentNode.insertBefore(a,b)}, 1);
 							<span class="hidden channel_cheveron fc7 pull-right glyphicon glyphicon-menu-down"></span>
 							<div class="hidden clearfix"></div>
 							<div class="topics_wrapper ">
-																<a class="topic fc7" href="https://www.chalkstreet.com/human-resources">HUMAN RESOURCES</a>
-																<a class="topic fc7" href="https://www.chalkstreet.com/erp">ERP</a>
-																<a class="topic fc7" href="https://www.chalkstreet.com/crm">CRM</a>
-																<a class="topic fc7" href="https://www.chalkstreet.com/ms-office">MS OFFICE</a>
-																<a class="topic fc7" href="https://www.chalkstreet.com/entrepreneurship">ENTREPRENEURSHIP</a>
-																<a class="topic fc7" href="https://www.chalkstreet.com/operations-management">OPERATIONS MANAGEMENT</a>
-																<a class="topic fc7" href="https://www.chalkstreet.com/finance-and-accounting">FINANCE &amp; ACCOUNTING</a>
 																<a class="topic fc7" href="https://www.chalkstreet.com/marketing-and-sales">MARKETING &amp; SALES</a>
+																<a class="topic fc7" href="https://www.chalkstreet.com/finance-and-accounting">FINANCE &amp; ACCOUNTING</a>
+																<a class="topic fc7" href="https://www.chalkstreet.com/operations-management">OPERATIONS MANAGEMENT</a>
+																<a class="topic fc7" href="https://www.chalkstreet.com/entrepreneurship">ENTREPRENEURSHIP</a>
+																<a class="topic fc7" href="https://www.chalkstreet.com/ms-office">MS OFFICE</a>
+																<a class="topic fc7" href="https://www.chalkstreet.com/crm">CRM</a>
+																<a class="topic fc7" href="https://www.chalkstreet.com/erp">ERP</a>
+																<a class="topic fc7" href="https://www.chalkstreet.com/human-resources">HUMAN RESOURCES</a>
 														</div>
 						</li>
 										<li class="channels_wrapper" style="">
@@ -580,12 +826,12 @@ a.async=true;a.type="text/javascript";b.parentNode.insertBefore(a,b)}, 1);
 							<span class="hidden channel_cheveron fc7 pull-right glyphicon glyphicon-menu-down"></span>
 							<div class="hidden clearfix"></div>
 							<div class="topics_wrapper ">
-																<a class="topic fc7" href="https://www.chalkstreet.com/crafts">CRAFTS</a>
-																<a class="topic fc7" href="https://www.chalkstreet.com/games">GAMES</a>
-																<a class="topic fc7" href="https://www.chalkstreet.com/dance">DANCE</a>
-																<a class="topic fc7" href="https://www.chalkstreet.com/music">MUSIC</a>
-																<a class="topic fc7" href="https://www.chalkstreet.com/painting-and-sketching">PAINTING &amp; SKETCHING</a>
 																<a class="topic fc7" href="https://www.chalkstreet.com/photography">PHOTOGRAPHY</a>
+																<a class="topic fc7" href="https://www.chalkstreet.com/painting-and-sketching">PAINTING &amp; SKETCHING</a>
+																<a class="topic fc7" href="https://www.chalkstreet.com/music">MUSIC</a>
+																<a class="topic fc7" href="https://www.chalkstreet.com/dance">DANCE</a>
+																<a class="topic fc7" href="https://www.chalkstreet.com/games">GAMES</a>
+																<a class="topic fc7" href="https://www.chalkstreet.com/crafts">CRAFTS</a>
 														</div>
 						</li>
 										<li class="channels_wrapper" style="">
@@ -593,12 +839,12 @@ a.async=true;a.type="text/javascript";b.parentNode.insertBefore(a,b)}, 1);
 							<span class="hidden channel_cheveron fc7 pull-right glyphicon glyphicon-menu-down"></span>
 							<div class="hidden clearfix"></div>
 							<div class="topics_wrapper ">
-																<a class="topic fc7" href="https://www.chalkstreet.com/personal-finance">PERSONAL FINANCE</a>
-																<a class="topic fc7" href="https://www.chalkstreet.com/career-development">CAREER DEVELOPMENT</a>
-																<a class="topic fc7" href="https://www.chalkstreet.com/languages">LANGUAGES</a>
-																<a class="topic fc7" href="https://www.chalkstreet.com/self-improvement">SELF IMPROVEMENT</a>
-																<a class="topic fc7" href="https://www.chalkstreet.com/online-teaching">ONLINE TEACHING</a>
 																<a class="topic fc7" href="https://www.chalkstreet.com/productivity">PRODUCTIVITY</a>
+																<a class="topic fc7" href="https://www.chalkstreet.com/online-teaching">ONLINE TEACHING</a>
+																<a class="topic fc7" href="https://www.chalkstreet.com/self-improvement">SELF IMPROVEMENT</a>
+																<a class="topic fc7" href="https://www.chalkstreet.com/languages">LANGUAGES</a>
+																<a class="topic fc7" href="https://www.chalkstreet.com/career-development">CAREER DEVELOPMENT</a>
+																<a class="topic fc7" href="https://www.chalkstreet.com/personal-finance">PERSONAL FINANCE</a>
 														</div>
 						</li>
 										<li class="channels_wrapper" style="">
@@ -606,10 +852,10 @@ a.async=true;a.type="text/javascript";b.parentNode.insertBefore(a,b)}, 1);
 							<span class="hidden channel_cheveron fc7 pull-right glyphicon glyphicon-menu-down"></span>
 							<div class="hidden clearfix"></div>
 							<div class="topics_wrapper ">
-																<a class="topic fc7" href="https://www.chalkstreet.com/cooking">COOKING</a>
-																<a class="topic fc7" href="https://www.chalkstreet.com/beauty">BEAUTY</a>
-																<a class="topic fc7" href="https://www.chalkstreet.com/health-and-nutrition">HEALTH &amp; NUTRITION</a>
 																<a class="topic fc7" href="https://www.chalkstreet.com/fitness-and-sports">FITNESS &amp; SPORTS</a>
+																<a class="topic fc7" href="https://www.chalkstreet.com/health-and-nutrition">HEALTH &amp; NUTRITION</a>
+																<a class="topic fc7" href="https://www.chalkstreet.com/beauty">BEAUTY</a>
+																<a class="topic fc7" href="https://www.chalkstreet.com/cooking">COOKING</a>
 														</div>
 						</li>
 										<li class="channels_wrapper" style="">
@@ -617,12 +863,12 @@ a.async=true;a.type="text/javascript";b.parentNode.insertBefore(a,b)}, 1);
 							<span class="hidden channel_cheveron fc7 pull-right glyphicon glyphicon-menu-down"></span>
 							<div class="hidden clearfix"></div>
 							<div class="topics_wrapper ">
-																<a class="topic fc7" href="https://www.chalkstreet.com/cad-software">CAD SOFTWARE</a>
-																<a class="topic fc7" href="https://www.chalkstreet.com/game-design">GAME DESIGN</a>
-																<a class="topic fc7" href="https://www.chalkstreet.com/3d-and-animation">3D &amp; ANIMATION</a>
-																<a class="topic fc7" href="https://www.chalkstreet.com/graphic-design">GRAPHIC DESIGN</a>
+																<a class="topic fc7" href="https://www.chalkstreet.com/ui-ux">UI UX</a>
 																<a class="topic fc7" href="https://www.chalkstreet.com/web-design">WEB DESIGN</a>
-																<a class="topic fc7" href="https://www.chalkstreet.com/ui-ux">UI/UX</a>
+																<a class="topic fc7" href="https://www.chalkstreet.com/graphic-design">GRAPHIC DESIGN</a>
+																<a class="topic fc7" href="https://www.chalkstreet.com/3d-and-animation">3D &amp; ANIMATION</a>
+																<a class="topic fc7" href="https://www.chalkstreet.com/game-design">GAME DESIGN</a>
+																<a class="topic fc7" href="https://www.chalkstreet.com/cad-software">CAD SOFTWARE</a>
 														</div>
 						</li>
 										<li class="channels_wrapper" style="border-bottom:solid 1px #000;">
@@ -630,14 +876,14 @@ a.async=true;a.type="text/javascript";b.parentNode.insertBefore(a,b)}, 1);
 							<span class="hidden channel_cheveron fc7 pull-right glyphicon glyphicon-menu-down"></span>
 							<div class="hidden clearfix"></div>
 							<div class="topics_wrapper ">
-																<a class="topic fc7" href="https://www.chalkstreet.com/general-aptitude">GENERAL APTITUDE</a>
-																<a class="topic fc7" href="https://www.chalkstreet.com/school-exams">SCHOOL EXAMS</a>
-																<a class="topic fc7" href="https://www.chalkstreet.com/gate-prep">GATE PREP</a>
-																<a class="topic fc7" href="https://www.chalkstreet.com/upsc-and-govt-jobs">UPSC &amp; GOVT JOBS</a>
-																<a class="topic fc7" href="https://www.chalkstreet.com/international-exams">INTERNATIONAL EXAMS</a>
-																<a class="topic fc7" href="https://www.chalkstreet.com/bank-exams-prep">BANK EXAMS PREP</a>
-																<a class="topic fc7" href="https://www.chalkstreet.com/mba-prep">MBA PREP</a>
 																<a class="topic fc7" href="https://www.chalkstreet.com/placement-prep">PLACEMENT PREP</a>
+																<a class="topic fc7" href="https://www.chalkstreet.com/mba-prep">MBA PREP</a>
+																<a class="topic fc7" href="https://www.chalkstreet.com/bank-exams-prep">BANK EXAMS PREP</a>
+																<a class="topic fc7" href="https://www.chalkstreet.com/international-exams">INTERNATIONAL EXAMS</a>
+																<a class="topic fc7" href="https://www.chalkstreet.com/upsc-and-govt-jobs">UPSC &amp; GOVT JOBS</a>
+																<a class="topic fc7" href="https://www.chalkstreet.com/gate-prep">GATE PREP</a>
+																<a class="topic fc7" href="https://www.chalkstreet.com/school-exams">SCHOOL EXAMS</a>
+																<a class="topic fc7" href="https://www.chalkstreet.com/general-aptitude">GENERAL APTITUDE</a>
 														</div>
 						</li>
 							</ul>
@@ -646,7 +892,7 @@ a.async=true;a.type="text/javascript";b.parentNode.insertBefore(a,b)}, 1);
 	</div><!-- Side nav bar for mobile end-->
 
 	<!-- top banner -->
-	<div class="bc4 alert-verification-top-padding" style="padding-top:61px;"></div>
+	<div class="bc4 alert-verification-top-padding " style="margin-top: 50px;"></div>
 	<!--clones-->
 	<div id="common_clones" class="hidden">
 
@@ -679,13 +925,16 @@ a.async=true;a.type="text/javascript";b.parentNode.insertBefore(a,b)}, 1);
         <div class="col-md-1">
         </div>
         <div class="col-md-9">
-          <h2 class="page-heading ff2">Privacy Policy</h2><hr>
+          <h2 class="page-heading ff2" style="text-align:center;">Privacy Policy</h2>
+          <!-- <hr> -->
           <div class="panel panel-coloured">
             <div class="panel-body">
-              <p>This Privacy Policy was last updated on May 6, 2015.<br> We value the trust you place in us. That's why we insist upon the highest standards for secure transactions and customer information privacy. Please read the following statement to learn about our information gathering and dissemination practices.</p>
+              <p>Effective May 23, 2018<br><br>
+                  ChalkStreet takes data privacy seriously. This privacy policy explains who we are, how we collect, share and use Personal Information, and how you can exercise your privacy rights.
+                  We recommend that you read this privacy policy in full to ensure you are fully informed. However, to make it easier for you to review the parts of this privacy policy that apply to you, we have divided up the document into sections that are specifically applicable to <span class="members-nav">Members</span> (Section 2), and <span class="visitors-nav">Visitors</span> (Section 3). If you have any questions or concerns about our use of your Personal Information, then please contact us using the contact details provided at the end of Section 3</p>
             </div>
           </div>
-          <div class="panel panel-coloured">
+          <div class="panel hidden panel-coloured">
             <div class="panel-heading">
               <h3 class="panel-title">Note</h3>
             </div>
@@ -697,47 +946,169 @@ a.async=true;a.type="text/javascript";b.parentNode.insertBefore(a,b)}, 1);
               </ul>
             </div>
           </div>
-          <div class="panel panel-coloured">
+          <div class="panel hidden panel-coloured">
             <div class="panel-body">
               <p>The primary purpose of our Site and the Services is to allow  you to enroll in and take onlinecourses on a variety of topics (“Courses”). For the purpose of this Privacy Policy, information that you provide through the Site can be in one of two categories: information relating to your use  of  the  Site  or  the  Services,  including,  without  limitation,  enrollment  information  for Courses,is  referred  to  as  “Site  Information,”  while  information  relating  to  taking  the  Courses, including,  without  limitation,  interchanges  with  the  Course  Authors  (“Course  Authors”),  other students (“Users”), answers, essays and other items submitted to satisfy Course requirements, is referred to as “Course Information.”</p>
             </div>
           </div>
           <div class="panel panel-coloured">
             <div class="panel-heading">
-              <h3 class="panel-title">1. Personally identifiable information We collect and how We use it.</h3>
+              <h3 class="panel-title">1. The Basics</h3>
             </div>
             <div class="panel-body">
-              <p>You can generally visit the Site without revealing any personally identifiable information about yourself. We  do  not  collect  personal  information  from  our Site  visitors  without  the Site  visitor providing  us with  this  information  as  set  forth  in this Privacy Policy.  If  you request  to receive company  or  product  information,  or  request  information  about  specific  Services,  or  provide comments  about  Services,  you  will  be  asked  to  provide  contact  information  so  that  we  can complete your request. We use this Site Information to fulfill your request. We may also use this Site Information to send you additional information about our Services or Courses on the Site that you may be interested in.</p>
-              <p>Some of the Services require that you become a registered user and create a user account. This  will require  that  you  provide  certain  personally  identifiable  information,  that  may  include (but not be limited to) your company’s name, e­mail address, as well as telephone and address information.</p>
-              <p>You  allow  us  to  use  this  personally  identifiable  Site  Information  to  register  you  to  use  the Services, enroll in Courses, and otherwise provide you with the Services; verify your authority to enter the Site and access the Courses and Services; notify you of updates; improve the content and general administration of the Site and the Services; provide you with notices regarding the Services and other services that you have purchased or may wish to purchase in the future.</p>
-              <p>Course Authors  may  collect  non­personally  identifiable  Course  Information  in  connection with your participation in Courses.</p>
-              <p>In  exceptional  cases,  Your  personally  identifiable  information  may  be  provided  to  Course Authors as part of the Course Information when you enroll in a Course. Course Authors will use this Course Information to provide the Course to you. Course Authors may have other users for Course Information.</p>
+                <br><p><span class="panel-title-head"><b>A. About Us</b></span><br>
+                    ChalkStreet is an online marketplace for courses.
+                <br>
+                    <br><span class="panel-title-head"><b>B. Key Terms</b></span><br>
+                    In this privacy policy, these terms have the following meanings:
+                    "<b>Member</b>" means any person or entity that is registered with us to use the Services.
+                    "<b>Personal Information</b>" means any information that identifies or can be used to identify a Member, or a Visitor, directly or indirectly. Examples of Personal Information include, but are not limited to, first and last name, date of birth, email address, gender, occupation, or other demographic information.
+                    "<b>Website(s)</b>" means any website(s) we own and operate (such as www.chalkstreet.com) or any web pages, interactive features, applications, widgets, blogs, social networks, tabs, or other online or mobile offerings that post a link to this privacy policy.
+                    "<b>Visitor</b>" means any person who visits any of our Websites.
+                    "<b>you</b>" and "<b>your</b>" means, depending on the context, either a Member or a Visitor.
+
+                </p>
+
             </div>
           </div>
           <div class="panel panel-coloured">
             <div class="panel-heading">
-              <h3 class="panel-title">2. Other information We collect and how We use it.</h3>
+              <h3 class="panel-title" id="members">2. Privacy for Members</h3>
             </div>
             <div class="panel-body">
-              <p>ChalkStreet may also automatically collect and analyze Site Information about your general usage of the Site, Services and Courses. We might track your usage patterns such as (included but not limited to) Site traffic volume, frequency of visits, type and time of transactions, type of browser,  browser  language,  IP  address  and  operating  system,  and  statistical  information  to analyse how you use the Services and Courses.</p>
-              <p>We only collect, track and analyze such Site Information in an aggregate manner that does not personally identify you. This aggregate data may be used to assist us in operating the Site and the Services and provided to other third parties to enable them to better understand the operation  of  the Services,  and improve their Course offerings,  but  such information will be in aggregate form only and it will not contain personally identifiable data.</p>
-              <p>ChalkStreet uses data collection techniques such as "cookies" on certain pages of the Website to help analyse it’s web page flow, measure promotional effectiveness, and promote trust and safety. "Cookies" are small files placed on your hard drive that assist ChalkStreet in providing services. We offer certain features that are only available through the use of a "cookie". We also use cookies to allow you to enter your password less frequently during a session. Cookies can also  help  us  provide  information  that  is  targeted  to  your  interests.  Most  cookies  are "session cookies,"  meaning  that  they  are  automatically  deleted  from  your  hard  drive  at  the  end  of  a session. You are always free to decline our  cookies if  your browser permits, although in that case you may not be able to use certain features on the Website and you may be required to re-enter your password more frequently during a session.</p>
-              <p>Additionally,  you  may  encounter  "cookies"  or  other  similar  devices  on  certain  pages  of  the Website that are placed by third parties. We do not control the use of cookies by third parties.</p>
-              <p>If you transact with us, we collect some additional information, such as a billing address, a credit / debit card number and a credit / debit card expiration date and/ or other payment instrument details and tracking information from cheques or money orders.</p>
-              <p>If  you  send  us  personal  correspondence,  such  as  emails  or  letters,  or  if  other  users  or  third parties  send  us  correspondence  about  your  activities  or  postings  on  the  Website,  we  may collect such information to improve Our Services for You.</p>
-              <p>We  identify  and  use  your  IP  address  to  help  diagnose  problems  with  our  server,  and  to administer our Website. Your IP address may also be used to help identify you and to gather broad demographic information.</p>
-              <p>We will occasionally ask you to complete optional online surveys. These surveys may ask you for contact information and demographic information (like zip code, age, or income level). We use this data to tailor your experience at our Website, providing You with content that we think. You might be interested in and to display content according to Your preferences.</p>
+              <p>
+                  This section applies to the Personal Information we collect and process from a Member or potential Member through the provision of the Services. If you are not a Member, the visitors section of this policy may be more applicable to you and your data.<b> In this section, "you" and "your" refer to Members and potential Members</b>.
+              </p>
+            </div>
+            <div class="panel-body">
+                <p><span class="panel-title-head"><b>A. Information We Collect</b></span><br>
+                    The Personal Information that we may collect broadly falls into the following categories:
+                <br>
+                (i) <b>Information you provide to us</b>: In the course of engaging with our Services, you may provide Personal Information about you and your Contacts. Personal Information is often, but not exclusively, provided to us when you sign up for and use the Services, consult with our customer service team, send us an email, or communicate with us in any other way.
+                    We will let you know prior to collection whether the provision of Personal Information we are collecting is compulsory or if it may be provided on a voluntary basis and the consequences, if any, of not providing the information. By giving us this information, you agree to this information being collected, used and disclosed as described in our Terms of Use and in this privacy policy.<br>
+                    This information may include:<br>
+                    Registration information: You need a ChalkStreet account to use the Services as a Member. When you register for an account, you will be asked to provide certain basic information, such as your name, email address, username, password, and location.<br>
+                    Billing and communications information: If you purchase our Services, you may also need to provide us with payment and billing information, such as your credit card details and billing address. ChalkStreet will also maintain a record of your billing transactions and purchases, and any communications and responses.<br>
+                    (ii)<b> Information we collect automatically</b>: When you use the Services, we may automatically collect certain information about your device and usage of the Services. We use cookies and other tracking technologies to collect some of this information.<br>
+                    This information may include:<br>
+                    <b>Device information</b>: We collect information about the device and applications you use to access the Services, such as your IP address, your operating system, your browser ID, and other information about your system and connection.<br>
+                    <b>Log data</b>: Our web servers keep log files that record data each time a device accesses those servers and those log files contain data about the nature of each access, including originating IP addresses. We may also access metadata and other information associated with files that you upload into our Services.<br>
+                    <b>Product usage data</b>: We collect usage data about you whenever you interact with our Services, which may include the dates and times you access the Services and your browsing activities (such as what portions of the Services are used). We also collect information regarding the performance of the Services, including metrics related to the deliverability of courses. This information allows us to improve the content and operation of the Services, and facilitate research and analysis of the Services.<br>
+                    (iii)<b> Information we collect from other sources</b>: From time to time, we may obtain information about you from third-party sources, such as public databases, social media platforms, third-party data providers. We take steps to ensure that such third parties are legally or contractually permitted to disclose such information to us.<br>
+                    Examples of the information we receive from other sources include demographic information (such as age and gender), device information (such as IP addresses), location (such as city and state), and online behavioral data (such as information about use of social media websites, page view information and search results and links). We use this information, alone or in combination with other information (including Personal Information) we collect, to enhance our ability to provide relevant marketing and content to you and to develop and provide you with more relevant products, features, and services.<br>
+                    (iv)<b> Information from the use of our mobile apps</b>: When you use our mobile apps, we may collect certain device and usage-related information in addition to information described elsewhere in this privacy policy.<br>
+                    Device information: We may collect information about the type of device and operating system you use. We do not ask for, access, or track any location-based information from your mobile device at any time while downloading or using our mobile apps or Services.<br>
+                    We may collect information about how often you use the application and other performance data.
+                </p>
+                <p><span class="panel-title-head"><b>B. Use of Personal Information</b></span><br>
+                    We may use the Personal Information we collect through the Services or other sources for a range of reasons, including:
+                    <br>
+                    </p><ul>
+                        <li><b>To bill and collect money owed to us by you.</b><br>
+                            This includes sending you emails, invoices, receipts, and alerting you if we need a different credit card number. We use third parties for secure credit card transaction processing, and those third parties collect billing information to process your orders and credit card payments.
+                        </li>
+                        <li><b>To send you system alert messages.</b><br>
+                            For example, we may inform you about temporary or permanent changes to our Services, such as planned outages, or send you account, security or compliance notifications, such as new features, version updates, releases, abuse warnings, and changes to this privacy policy.
+                        </li>
+                        <li><b>To communicate with you about your account and provide customer support.</b><br>
+                            For example, if you use our mobile apps, we may ask you if you want to receive push notifications about activity in your account. If you have opted in to these push notifications and no longer want to receive them, you may turn them off through your operating system.
+                        </li>
+                        <li><b>To enforce compliance with our Terms of Use and applicable law, and to protect the rights and safety of our Members and third parties, as well as our own. </b><br>
+                            This may include developing tools and algorithms that help us prevent violations.
+                        </li>
+                        <li><b>For our data analytics projects.</b><br>
+                            Our data analytics projects use data from ChalkStreet accounts, including Personal Information, to provide and improve the Services. We use information like your usage habits and purchase history, so we can make more informed predictions, decisions, and products for our Members.
+                        </li>
+                        <li><b>Combined information.</b><br>
+                            We may combine Personal Information with other information we collect or obtain about you (such as information we source from our third-party partners) to serve you specifically, such as to deliver a product or service according to your preferences or restrictions, or for advertising or targeting purposes in accordance with this privacy policy. When we combine Personal Information with other information in this way, we treat it as, and apply all of the safeguards in this privacy policy applicable to, Personal Information.
+                        </li>
+                        <li><b>Other purposes.</b><br>
+                            To carry out other legitimate business purposes, as well as other lawful purposes about which we will notify you.
+                        </li>
+                    </ul>
+                <p></p>
+                <p><span class="panel-title-head"><b>C. Other Data Protection Rights</b></span><br>
+                    You may have the following data protection rights:<br>
+                    </p><ul>
+                        <li>
+                            <b>To access, correct, update or request deletion</b> of Personal Information. ChalkStreet takes reasonable steps to ensure that the data we collect is reliable for its intended use, accurate, complete and up to date. As a Member, you can manage many of your individual account and profile settings provided through the Chalkstreet platform.<br>
+                        </li>
+                        <li>
+                            In addition, individuals who are residents of the EEA can <b>object to processing</b> of their Personal Information, ask to <b>restrict processing</b> of their Personal Information or <b>request portability</b> of their Personal Information. You can exercise these rights by contacting us using the contact details provided below.<br>
+                        </li>
+                        <li>
+                            Similarly, if Personal Information is collected or processed on the basis of consent, the data subject can <b>withdraw their consent</b> at any time. Withdrawing your consent will not affect the lawfulness of any processing we conducted prior to your withdrawal, nor will it affect processing of your Personal Information conducted in reliance on lawful processing grounds other than consent. <br>
+                        </li>
+                        <li>
+                            The <b>right to complain to a data protection authority</b> about the collection and use of Personal Information. For more information, please contact your local data protection authority.<br>
+                        </li>
+                        <li>
+                            We respond to all requests we receive from individuals wishing to exercise their data protection rights in accordance with applicable data protection law. We may ask you to verify your identity in order to help us respond efficiently to your request.<br>
+                        </li>
+                    </ul>
+
+                <p></p>
             </div>
           </div>
           <div class="panel panel-coloured">
             <div class="panel-heading">
-              <h3 class="panel-title">3. Children.</h3>
+              <h3 class="panel-title" id="visitors">3. Privacy for Visitors</h3>
             </div>
             <div class="panel-body">
-              <p>We recognize the privacy interests of children and we encourage parents and guardians to take an active role in their children’s online activities and interests. This Site is not intended for people under the age of 18 and we endeavor not to collect any personally identifiable information from people under the age of 18. ChalkStreet targets its Services and this Site to people above the age of 17.</p>
+              <p>This section applies to Personal Information that we collect and process through our Websites and in the usual course of our business, such as in connection with our recruitment, events, sales and marketing activities.<b> In this section "you" and "your" refers to Visitors.</b><br>
+                  <br><span class="panel-title-head"><b>A. Information We Collect</b></span><br>
+                  (i) <b>Information you provide to us on the Websites or otherwise</b>: Certain parts of our Websites may ask you to provide Personal Information voluntarily. For example, we may ask you to provide certain Personal Information (such as your name, contact details, profile information) in order to sign up for ChalkStreet account, apply for a role with ChalkStreet, or otherwise submit inquiries to us. We may also collect Personal Information, such as your contact and job details and feedback, when you attend our events, take part in surveys, or through other business or marketing interactions we may have with you. You may choose to provide additional information when you communicate with us or otherwise interact with us, and we will keep copies of any such communications for our records.<br>
+                  The Personal Information that you are asked to provide, and the reasons why you are asked to provide it, will be made clear to you at the point we ask you to provide your Personal Information. We will also let you know prior to collection whether the provision of the Personal Information we are collecting is compulsory or may be provided on a voluntary basis and the consequences, if any, of not providing the information.<br>
+                  (ii) <b>Information we collect automatically through the Websites</b>: When you visit our Websites, we may also collect certain information automatically from your device. In some countries, including countries in the European Economic Area, this information may be considered Personal Information under applicable data protection laws.<br>
+                  Specifically, the information we collect automatically may include your IP address, your operating system, your browser ID, your browsing activity, and other information about your system and connection and how you interact with our Websites. We may collect this information as a part of log files as well as through the use of cookies or other tracking technologies.
+                  <br><br><span class="panel-title-head"><b>B. Use of Personal Information</b></span><br>
+                  We may use the information we collect through our Websites for a range of reasons, including<br>
+              </p><ul>
+                      <li>To provide, operate, optimize, and maintain our Websites.</li>
+                      <li>To send you information for marketing purposes, in accordance with your marketing preferences.
+</li>
+                      <li>For recruitment purposes if you have applied for a role with ChalkStreet.
+</li>
+                      <li>To respond to your online inquiries and requests, and to provide you with information and access to resources or services that you have requested from us.
+</li>
+                      <li>To manage our Websites and system administration and security.
+</li>
+                      <li>To improve the navigation and content of our Websites.
+</li>
+                      <li>To identify any server problems or other IT or network issues.
+</li>
+                      <li>To process transactions and to set up online accounts.
+</li>
+                      <li>To compile aggregated statistics about site usage and to better understand the preferences of our Visitors.
+</li>
+                      <li>To carry out research and development to improve our products and services.
+</li>
+                        <li>To customize content and layout of the Websites.</li>
+                        <li>To carry out other legitimate business purposes, as well as other lawful purposes.
+</li>
+
+                  </ul>
+              <p>
+                  In addition, we may combine Personal Information with other information we collect or obtain about you (such as information we source from our third-party partners) to serve you specifically, such as to deliver a product or service according to your preferences or restrictions, or for advertising or targeting purposes in accordance with this privacy policy. When we combine Personal Information with other information in this way, we treat it as, and apply all of the safeguards in this privacy policy applicable to, Personal Information.<br>
+                  <br><b><span class="panel-title-head">C. Other Data Protection Rights</span></b><br>
+                  You have the following data protection rights: <br>
+              </p><ul>
+                      <li>To <b>access, correct, update, or request deletion</b> of your Personal Information. ChalkStreet takes reasonable steps to ensure that the data we collect is reliable for its intended use, accurate, complete, and up to date. You may contact us directly at any time about accessing, correcting, updating, or deleting your Personal Information, or altering your data or marketing preferences by emailing us at support@chalkstreet.com. We will consider your request in accordance with applicable laws.</li>
+                      <li>In addition, if you are a resident of the EEA, you can <b>object to processing</b> of your Personal Information, ask us to <b>restrict processing</b> of your Personal Information or <b>request portability</b> of your Personal Information. Again, you can exercise these rights by emailing us at support@chalkstreet.com.
+</li>
+                      <li>Similarly, if we have collected and processed your Personal Information with your consent, then you can <b>withdraw your consent</b> at any time. Withdrawing your consent will not affect the lawfulness of any processing we conducted prior to your withdrawal, nor will it affect processing of your Personal Information conducted in reliance on lawful processing grounds other than consent.
+</li>
+                      <li>You have the <b>right to complain to a data protection authority</b> about our collection and use of your Personal Information.</li>
+                  </ul>
+                  <p>
+                  We respond to all requests we receive from individuals wishing to exercise their data protection rights in accordance with applicable data protection laws. We may ask you to verify your identity in order to help us respond efficiently to your request.<br>
+                  If you have any queries, write to us at support@chalkstreet.com.
+
+
+              </p>
             </div>
           </div>
-          <div class="panel panel-coloured">
+          <div class="panel hidden panel-coloured">
             <div class="panel-heading">
               <h3 class="panel-title">4. Disclosure of Information.</h3>
             </div>
@@ -753,7 +1124,7 @@ a.async=true;a.type="text/javascript";b.parentNode.insertBefore(a,b)}, 1);
               <p>In addition, we may transfer your personally identifiable information to a successor entity upon a merger, consolidation or other corporate reorganization.</p>
             </div>
           </div>
-          <div class="panel panel-coloured">
+          <div class="panel hidden panel-coloured">
             <div class="panel-heading">
               <h3 class="panel-title">5. Data Retention.</h3>
             </div>
@@ -761,7 +1132,7 @@ a.async=true;a.type="text/javascript";b.parentNode.insertBefore(a,b)}, 1);
               <p>We retain Site Information and the personal data we process on behalf of Users for as long as needed  to  provide  the  Services.  We  will  retain  and  use  this  personal  Site  Information  as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements with Users, and/or the period required by laws in applicable jurisdictions.</p>
             </div>
           </div>
-          <div class="panel panel-coloured">
+          <div class="panel hidden panel-coloured">
             <div class="panel-heading">
               <h3 class="panel-title">6. Updating, Correcting and Deleting Your Information;Opt­out.</h3>
             </div>
@@ -778,7 +1149,7 @@ a.async=true;a.type="text/javascript";b.parentNode.insertBefore(a,b)}, 1);
               <p>From time to time, we may send you emails about Course or new or modified Services that we believe might interest you. If you wish to opt­out of receiving these materials, you may follow the unsubscribe procedure provided in the email.</p>
             </div>
           </div>
-          <div class="panel panel-coloured">
+          <div class="panel hidden panel-coloured">
             <div class="panel-heading">
               <h3 class="panel-title">7. Security.</h3>
             </div>
@@ -786,7 +1157,7 @@ a.async=true;a.type="text/javascript";b.parentNode.insertBefore(a,b)}, 1);
               <p>The security of your personal information is important to us. ChalkStreet employs procedural and technological measures to protect your personally identifiable information. These measures are  reasonably  designed  to  help  protect  your  personally  identifiable  information  from  loss, unauthorized access, disclosure, alteration or destruction. We may use software, secure socket layer technology (SSL) encryption, password protection, firewalls, internal restrictions and other security  measures  to  help  prevent  unauthorized  access  to  your  personally  identifiable information. However, ChalkStreet  cannot guarantee that unauthorized third parties will never be able to defeat these measures or use  your personally identifiable information for improper purposes.  ChalkStreet  is  not responsible  for  the  unauthorized  use  of  information  you  post  or otherwise make available publicly, by third parties.</p>
             </div>
           </div>
-          <div class="panel panel-coloured">
+          <div class="panel hidden panel-coloured">
             <div class="panel-heading">
               <h3 class="panel-title">8. Links to Other Websites.</h3>
             </div>
@@ -794,7 +1165,7 @@ a.async=true;a.type="text/javascript";b.parentNode.insertBefore(a,b)}, 1);
               <p>The Site, Services and in particular the Courses, may provide links to third party web sites or resources not associated with us and over which we do not have control (“External Web Sites”). Such  links  do  not  constitute  an  endorsement  by  ChalkStreet  of  the  External  Web  Sites,  the content displayed therein, or the persons or entities associated therewith. You acknowledge that ChalkStreet is only providing these links as a convenience, and cannot be responsible for the content of such External Web Sites.</p>
             </div>
           </div>
-          <div class="panel panel-coloured">
+          <div class="panel hidden panel-coloured">
             <div class="panel-heading">
               <h3 class="panel-title">9. Material Changes.</h3>
             </div>
@@ -802,7 +1173,7 @@ a.async=true;a.type="text/javascript";b.parentNode.insertBefore(a,b)}, 1);
               <p>ChalkStreet reserves the right to change this Privacy Policy from time to time. We will post the revised Privacy Policy on this Site located at www.chalkstreet.com/terms/privacy. If there are material changes we will either send a notice to the e­mail address that you specified in your registration and/or post notice of the change so it is visible when users log­on for the first time prior to said changes taking effect so that you are always aware of what personal information we may collect and how we may use this information. We encourage you to review this Privacy Policy regularly for any changes. Your continued use of the Site and/or Services will be subject to the then­current Privacy Policy.</p>
             </div>
           </div>
-          <div class="panel panel-coloured">
+          <div class="panel hidden panel-coloured">
             <div class="panel-heading">
               <h3 class="panel-title">10.Your Consent.</h3>
             </div>
@@ -810,7 +1181,7 @@ a.async=true;a.type="text/javascript";b.parentNode.insertBefore(a,b)}, 1);
               <p>By using the Website and/ or by providing your information, you consent to the collection and use  of  the  information  you  disclose  on  the  Website  in  accordance  with  this  Privacy  Policy, including but not limited to Your consent for sharing your information as per this privacy policy.</p>
             </div>
           </div>
-          <div class="panel panel-coloured">
+          <div class="panel hidden panel-coloured">
             <div class="panel-heading">
               <h3 class="panel-title">11. Grievance Officer.</h3>
             </div>
@@ -829,7 +1200,7 @@ a.async=true;a.type="text/javascript";b.parentNode.insertBefore(a,b)}, 1);
               </address>
             </div>
           </div>
-          <div class="panel panel-coloured">
+          <div class="panel hidden panel-coloured">
             <div class="panel-heading">
               <h3 class="panel-title">12. Questions?</h3>
             </div>
@@ -856,6 +1227,18 @@ a.async=true;a.type="text/javascript";b.parentNode.insertBefore(a,b)}, 1);
     <!-- Include all compiled plugins (below), or include individual files as needed -->
     <script src="https://www.chalkstreet.com/static/libs/bootstrap/js/bootstrap.min.js"></script>
     <script src="https://www.chalkstreet.com/static/js/common/common.js"></script>
+    <script>
+        $(function(){
+            $('.members-nav').click(function(){
+                $('html, body').animate({ scrollTop: $('#members').offset().top-100 }, 'slow');
+            });
+        })
+        $(function(){
+            $('.visitors-nav').click(function(){
+                $('html, body').animate({ scrollTop: $('#visitors').offset().top-100 }, 'slow');
+            });
+        })
+    </script>
   
 
 </body></html>
