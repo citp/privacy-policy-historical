@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the meetanshi.com privacy policy that was archived on 2018-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181226133214id_/https%3A//meetanshi.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the meetanshi.com privacy policy that was archived on 2019-03-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190327175453id_/https%3A//meetanshi.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Meetanshi
 
@@ -16,12 +16,15 @@ We collect information from you when you register on our site, place an order, s
 
 ### How do we use your information?
 
-Our prime objective to collect your information is to provide a smooth, relevant and secure browsing experience at our site. We may use the information we collect from you when you register, make a purchase, sign up for our newsletter, respond to a survey or marketing communication, surf the website, or use certain other site features in the following ways:  
-             **•**  To personalize your experience and to allow us to deliver the type of content and product offerings in which you are most interested.  
-             **•**  To allow us to better service you in responding to your customer service requests.  
-             **•**  To quickly process your transactions.  
-             **•**  To ask for ratings and reviews of services or products  
-             **•**  To follow up with them after correspondence (live chat, email or phone inquiries)
+Our prime objective to collect your information is to provide a smooth, relevant and secure browsing experience at our site. We may use the information we collect from you when you register, make a purchase, sign up for our newsletter, respond to a survey or marketing communication, surf the website, or use certain other site features in the following ways:
+
+  1. To personalize your experience and to allow us to deliver the type of content and product offerings in which you are most interested.
+  2. To allow us to better service you in responding to your customer service requests.
+  3. To quickly process your transactions.
+  4. To ask for ratings and reviews of services or products
+  5. To follow up with them after correspondence (live chat, email or phone inquiries)
+
+
 
 ### How do we protect your information?
 
@@ -51,9 +54,12 @@ Yes. Cookies are small files that a site or its service provider transfers to yo
 
 ### We use cookies to:
 
-             **•**  Help remember and process the items in the shopping cart.  
-             **•**  Understand and save user's preferences for future visits.  
-             **•**  Compile aggregate data about site traffic and site interactions in order to offer better site experiences and tools in the future. We may also use trusted third-party services that track this information on our behalf.  
+  1. Help remember and process the items in the shopping cart.
+  2. Understand and save user's preferences for future visits.
+  3. Compile aggregate data about site traffic and site interactions in order to offer better site experiences and tools in the future. We may also use trusted third-party services that track this information on our behalf.
+
+
+
 You can choose to have your computer warn you each time a cookie is being sent, or you can choose to turn off all cookies. You do this through your browser settings. Since browser is a little different, look at your browser's Help Menu to learn the correct way to modify your cookies. If you turn cookies off, some of the features that make your site experience more efficient may not function properly.
 
 ### Third-party disclosure
@@ -67,13 +73,18 @@ Occasionally, at our discretion, we may include or offer third-party products or
 
 ### Google
 
-Google's advertising requirements can be summed up by Google's Advertising Principles. They are put in place to provide a positive experience for users. <https://support.google.com/adwordspolicy/answer/1316548?hl=en>
+Google's advertising requirements can be summed up by Google's Advertising Principles. They are put in place to provide a positive experience for users.   
+https://support.google.com/adspolicy/answer/6008942
 
-**We have implemented the following:**  
-             **•**  Demographics and Interests Reporting  
+We have implemented the following:
+
+  1. Demographics and Interests Reporting
+
+
+
 We, along with third-party vendors such as Google use first-party cookies (such as the Google Analytics cookies) and third-party cookies (such as the DoubleClick cookie) or other third-party identifiers together to compile data regarding user interactions with ad impressions and other ad service functions as they relate to our website.
 
-**Opting out:**
+Opting out:
 
 Users can set preferences for how Google advertises to you using the Google Ad Settings page. Alternatively, you can opt out by visiting the Network Advertising Initiative Opt Out page or by using the Google Analytics Opt Out Browser add on.
 
@@ -92,17 +103,18 @@ We do not specifically market to children under the age of 18 years old. Accordi
 ### Fair Information Practices
 
 In order to be in line with Fair Information Practices we will take the following responsive action, should a data breach occur:  
-We will notify you via email  
-             **•**  Within 7 business days  
-We will notify the users via in-site notification  
-             **•**  Within 7 business days
+We will notify you via email
+
+\- Within 7 business days
+
+We will notify the users via in-site notification
 
 ### CAN-SPAM Act
 
 The CAN-SPAM Act is a law that sets the rules for commercial email, establishes requirements for commercial messages, gives recipients the right to have emails stopped from being sent to them, and spells out tough penalties for violations.  
 To be in accordance with CAN-SPAM, we agree to the following:
 
-**If at any time, you would like to unsubscribe from receiving future emails, you can email us at help@meetanshi.com** and we will promptly remove you from **ALL**  correspondence.
+**If at any time, you would like to unsubscribe from receiving future emails, you can email us at help[at]meetanshi.com** and we will promptly remove you from **ALL**  correspondence.
 
 ### Changes to our Privacy Policy
 
@@ -110,7 +122,7 @@ Please note that we reserve the right to make changes to this privacy policy at 
 
 ### Contact Us
 
-If there are any questions regarding this privacy policy, you may contact us by e-mail at **help@meetanshi.com** or mail us at:
+If there are any questions regarding this privacy policy, you may contact us by e-mail at **help[at]meetanshi.com** or mail us at:
 
 Meetanshi,  
 #305, Eva Complex,  
