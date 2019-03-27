@@ -1,123 +1,120 @@
-> *The following text is extracted and transformed from the chalkstreet.com privacy policy that was archived on 2017-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170615014917id_/https%3A//www.chalkstreet.com/info/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the chalkstreet.com privacy policy that was archived on 2019-03-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190328005156id_/https%3A//www.chalkstreet.com/info/privacy-policy) for the most accurate reproduction.*
 
 # ChalkStreet-Privacy Policy
 
-* * *
+Effective May 23, 2018
 
-This Privacy Policy was last updated on May 6, 2015.  
-We value the trust you place in us. That's why we insist upon the highest standards for secure transactions and customer information privacy. Please read the following statement to learn about our information gathering and dissemination practices.
+ChalkStreet takes data privacy seriously. This privacy policy explains who we are, how we collect, share and use Personal Information, and how you can exercise your privacy rights. We recommend that you read this privacy policy in full to ensure you are fully informed. However, to make it easier for you to review the parts of this privacy policy that apply to you, we have divided up the document into sections that are specifically applicable to Members (Section 2), and Visitors (Section 3). If you have any questions or concerns about our use of your Personal Information, then please contact us using the contact details provided at the end of Section 3
 
-### Note
+### 1\. The Basics
 
-  * Our privacy policy is subject to change at any time without notice. To make sure you are aware of any changes, please review this policy periodically.
-  * By visiting this Website you agree to be bound by the terms and conditions of this Privacy Policy. If you do not agree please do not use or access our Website.
-  * By mere use of the Website, you expressly consent to our use and disclosure of your personal information in accordance with this Privacy Policy. This Privacy Policy is incorporated into and subject to the Terms of Use.
+  
 
 
+**A. About Us**  
+ChalkStreet is an online marketplace for courses. 
 
-The primary purpose of our Site and the Services is to allow you to enroll in and take onlinecourses on a variety of topics (“Courses”). For the purpose of this Privacy Policy, information that you provide through the Site can be in one of two categories: information relating to your use of the Site or the Services, including, without limitation, enrollment information for Courses,is referred to as “Site Information,” while information relating to taking the Courses, including, without limitation, interchanges with the Course Authors (“Course Authors”), other students (“Users”), answers, essays and other items submitted to satisfy Course requirements, is referred to as “Course Information.”
+**B. Key Terms**  
+In this privacy policy, these terms have the following meanings: " **Member** " means any person or entity that is registered with us to use the Services. " **Personal Information** " means any information that identifies or can be used to identify a Member, or a Visitor, directly or indirectly. Examples of Personal Information include, but are not limited to, first and last name, date of birth, email address, gender, occupation, or other demographic information. " **Website(s)** " means any website(s) we own and operate (such as www.chalkstreet.com) or any web pages, interactive features, applications, widgets, blogs, social networks, tabs, or other online or mobile offerings that post a link to this privacy policy. " **Visitor** " means any person who visits any of our Websites. " **you** " and " **your** " means, depending on the context, either a Member or a Visitor. 
 
-### 1\. Personally identifiable information We collect and how We use it.
+### 2\. Privacy for Members
 
-You can generally visit the Site without revealing any personally identifiable information about yourself. We do not collect personal information from our Site visitors without the Site visitor providing us with this information as set forth in this Privacy Policy. If you request to receive company or product information, or request information about specific Services, or provide comments about Services, you will be asked to provide contact information so that we can complete your request. We use this Site Information to fulfill your request. We may also use this Site Information to send you additional information about our Services or Courses on the Site that you may be interested in.
+This section applies to the Personal Information we collect and process from a Member or potential Member through the provision of the Services. If you are not a Member, the visitors section of this policy may be more applicable to you and your data. **In this section, "you" and "your" refer to Members and potential Members**. 
 
-Some of the Services require that you become a registered user and create a user account. This will require that you provide certain personally identifiable information, that may include (but not be limited to) your company’s name, e­mail address, as well as telephone and address information.
+**A. Information We Collect**  
+The Personal Information that we may collect broadly falls into the following categories:   
+(i) **Information you provide to us** : In the course of engaging with our Services, you may provide Personal Information about you and your Contacts. Personal Information is often, but not exclusively, provided to us when you sign up for and use the Services, consult with our customer service team, send us an email, or communicate with us in any other way. We will let you know prior to collection whether the provision of Personal Information we are collecting is compulsory or if it may be provided on a voluntary basis and the consequences, if any, of not providing the information. By giving us this information, you agree to this information being collected, used and disclosed as described in our Terms of Use and in this privacy policy.  
+This information may include:  
+Registration information: You need a ChalkStreet account to use the Services as a Member. When you register for an account, you will be asked to provide certain basic information, such as your name, email address, username, password, and location.  
+Billing and communications information: If you purchase our Services, you may also need to provide us with payment and billing information, such as your credit card details and billing address. ChalkStreet will also maintain a record of your billing transactions and purchases, and any communications and responses.  
+(ii) **Information we collect automatically** : When you use the Services, we may automatically collect certain information about your device and usage of the Services. We use cookies and other tracking technologies to collect some of this information.  
+This information may include:  
+**Device information** : We collect information about the device and applications you use to access the Services, such as your IP address, your operating system, your browser ID, and other information about your system and connection.  
+**Log data** : Our web servers keep log files that record data each time a device accesses those servers and those log files contain data about the nature of each access, including originating IP addresses. We may also access metadata and other information associated with files that you upload into our Services.  
+**Product usage data** : We collect usage data about you whenever you interact with our Services, which may include the dates and times you access the Services and your browsing activities (such as what portions of the Services are used). We also collect information regarding the performance of the Services, including metrics related to the deliverability of courses. This information allows us to improve the content and operation of the Services, and facilitate research and analysis of the Services.  
+(iii) **Information we collect from other sources** : From time to time, we may obtain information about you from third-party sources, such as public databases, social media platforms, third-party data providers. We take steps to ensure that such third parties are legally or contractually permitted to disclose such information to us.  
+Examples of the information we receive from other sources include demographic information (such as age and gender), device information (such as IP addresses), location (such as city and state), and online behavioral data (such as information about use of social media websites, page view information and search results and links). We use this information, alone or in combination with other information (including Personal Information) we collect, to enhance our ability to provide relevant marketing and content to you and to develop and provide you with more relevant products, features, and services.  
+(iv) **Information from the use of our mobile apps** : When you use our mobile apps, we may collect certain device and usage-related information in addition to information described elsewhere in this privacy policy.  
+Device information: We may collect information about the type of device and operating system you use. We do not ask for, access, or track any location-based information from your mobile device at any time while downloading or using our mobile apps or Services.  
+We may collect information about how often you use the application and other performance data. 
 
-You allow us to use this personally identifiable Site Information to register you to use the Services, enroll in Courses, and otherwise provide you with the Services; verify your authority to enter the Site and access the Courses and Services; notify you of updates; improve the content and general administration of the Site and the Services; provide you with notices regarding the Services and other services that you have purchased or may wish to purchase in the future.
+**B. Use of Personal Information**  
+We may use the Personal Information we collect through the Services or other sources for a range of reasons, including:   
 
-Course Authors may collect non­personally identifiable Course Information in connection with your participation in Courses.
 
-In exceptional cases, Your personally identifiable information may be provided to Course Authors as part of the Course Information when you enroll in a Course. Course Authors will use this Course Information to provide the Course to you. Course Authors may have other users for Course Information.
-
-### 2\. Other information We collect and how We use it.
-
-ChalkStreet may also automatically collect and analyze Site Information about your general usage of the Site, Services and Courses. We might track your usage patterns such as (included but not limited to) Site traffic volume, frequency of visits, type and time of transactions, type of browser, browser language, IP address and operating system, and statistical information to analyse how you use the Services and Courses.
-
-We only collect, track and analyze such Site Information in an aggregate manner that does not personally identify you. This aggregate data may be used to assist us in operating the Site and the Services and provided to other third parties to enable them to better understand the operation of the Services, and improve their Course offerings, but such information will be in aggregate form only and it will not contain personally identifiable data.
-
-ChalkStreet uses data collection techniques such as "cookies" on certain pages of the Website to help analyse it’s web page flow, measure promotional effectiveness, and promote trust and safety. "Cookies" are small files placed on your hard drive that assist ChalkStreet in providing services. We offer certain features that are only available through the use of a "cookie". We also use cookies to allow you to enter your password less frequently during a session. Cookies can also help us provide information that is targeted to your interests. Most cookies are "session cookies," meaning that they are automatically deleted from your hard drive at the end of a session. You are always free to decline our cookies if your browser permits, although in that case you may not be able to use certain features on the Website and you may be required to re-enter your password more frequently during a session.
-
-Additionally, you may encounter "cookies" or other similar devices on certain pages of the Website that are placed by third parties. We do not control the use of cookies by third parties.
-
-If you transact with us, we collect some additional information, such as a billing address, a credit / debit card number and a credit / debit card expiration date and/ or other payment instrument details and tracking information from cheques or money orders.
-
-If you send us personal correspondence, such as emails or letters, or if other users or third parties send us correspondence about your activities or postings on the Website, we may collect such information to improve Our Services for You.
-
-We identify and use your IP address to help diagnose problems with our server, and to administer our Website. Your IP address may also be used to help identify you and to gather broad demographic information.
-
-We will occasionally ask you to complete optional online surveys. These surveys may ask you for contact information and demographic information (like zip code, age, or income level). We use this data to tailor your experience at our Website, providing You with content that we think. You might be interested in and to display content according to Your preferences.
-
-### 3\. Children.
-
-We recognize the privacy interests of children and we encourage parents and guardians to take an active role in their children’s online activities and interests. This Site is not intended for people under the age of 18 and we endeavor not to collect any personally identifiable information from people under the age of 18. ChalkStreet targets its Services and this Site to people above the age of 17.
-
-### 4\. Disclosure of Information.
-
-We will share your personally identifiable Site Information with third parties only in the ways that are described in this privacy policy. We do not sell your personal information to third parties.
-
-We may also disclose your personally identifiable information: 
-
-  1. if we are required to do so by law, regulation or other government authority or otherwise in cooperation with an investigation of a governmental authority,
-  2. to enforce these Terms of Use, or,
-  3. to protect the safety of Users of our Site and our Services and Courses.
+  * **To bill and collect money owed to us by you.**  
+This includes sending you emails, invoices, receipts, and alerting you if we need a different credit card number. We use third parties for secure credit card transaction processing, and those third parties collect billing information to process your orders and credit card payments. 
+  * **To send you system alert messages.**  
+For example, we may inform you about temporary or permanent changes to our Services, such as planned outages, or send you account, security or compliance notifications, such as new features, version updates, releases, abuse warnings, and changes to this privacy policy. 
+  * **To communicate with you about your account and provide customer support.**  
+For example, if you use our mobile apps, we may ask you if you want to receive push notifications about activity in your account. If you have opted in to these push notifications and no longer want to receive them, you may turn them off through your operating system. 
+  * **To enforce compliance with our Terms of Use and applicable law, and to protect the rights and safety of our Members and third parties, as well as our own.**  
+This may include developing tools and algorithms that help us prevent violations. 
+  * **For our data analytics projects.**  
+Our data analytics projects use data from ChalkStreet accounts, including Personal Information, to provide and improve the Services. We use information like your usage habits and purchase history, so we can make more informed predictions, decisions, and products for our Members. 
+  * **Combined information.**  
+We may combine Personal Information with other information we collect or obtain about you (such as information we source from our third-party partners) to serve you specifically, such as to deliver a product or service according to your preferences or restrictions, or for advertising or targeting purposes in accordance with this privacy policy. When we combine Personal Information with other information in this way, we treat it as, and apply all of the safeguards in this privacy policy applicable to, Personal Information. 
+  * **Other purposes.**  
+To carry out other legitimate business purposes, as well as other lawful purposes about which we will notify you. 
 
 
 
-In addition, we may transfer your personally identifiable information to a successor entity upon a merger, consolidation or other corporate reorganization.
+**C. Other Data Protection Rights**  
+You may have the following data protection rights:  
 
-### 5\. Data Retention.
 
-We retain Site Information and the personal data we process on behalf of Users for as long as needed to provide the Services. We will retain and use this personal Site Information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements with Users, and/or the period required by laws in applicable jurisdictions.
+  * **To access, correct, update or request deletion** of Personal Information. ChalkStreet takes reasonable steps to ensure that the data we collect is reliable for its intended use, accurate, complete and up to date. As a Member, you can manage many of your individual account and profile settings provided through the Chalkstreet platform.  
 
-### 6\. Updating, Correcting and Deleting Your Information;Opt­out.
+  * In addition, individuals who are residents of the EEA can **object to processing** of their Personal Information, ask to **restrict processing** of their Personal Information or **request portability** of their Personal Information. You can exercise these rights by contacting us using the contact details provided below.  
 
-If you believe that ChalkStreet has incorrect Site Information or Course Information that was provided as part of the Services, you may use the Services to correct, amend, or delete that information. You may also contact us by e­mailing our customer support [contact@chalkstreet.com.](mailto:contact@chalkstreet.com?Subject=Information%20Update) Alternatively, you may send a letter with your requests:
+  * Similarly, if Personal Information is collected or processed on the basis of consent, the data subject can **withdraw their consent** at any time. Withdrawing your consent will not affect the lawfulness of any processing we conducted prior to your withdrawal, nor will it affect processing of your Personal Information conducted in reliance on lawful processing grounds other than consent.   
 
-By mail: 
+  * The **right to complain to a data protection authority** about the collection and use of Personal Information. For more information, please contact your local data protection authority.  
 
-**ChalkStreet**  
-Attn: Privacy Policy  
-No 1564, 3rd Floor, Revanna Building,  
-27th Main, 2nd Sector, HSR Layout  
-Bangalore ­ 560102 
+  * We respond to all requests we receive from individuals wishing to exercise their data protection rights in accordance with applicable data protection law. We may ask you to verify your identity in order to help us respond efficiently to your request.  
 
-From time to time, we may send you emails about Course or new or modified Services that we believe might interest you. If you wish to opt­out of receiving these materials, you may follow the unsubscribe procedure provided in the email.
 
-### 7\. Security.
 
-The security of your personal information is important to us. ChalkStreet employs procedural and technological measures to protect your personally identifiable information. These measures are reasonably designed to help protect your personally identifiable information from loss, unauthorized access, disclosure, alteration or destruction. We may use software, secure socket layer technology (SSL) encryption, password protection, firewalls, internal restrictions and other security measures to help prevent unauthorized access to your personally identifiable information. However, ChalkStreet cannot guarantee that unauthorized third parties will never be able to defeat these measures or use your personally identifiable information for improper purposes. ChalkStreet is not responsible for the unauthorized use of information you post or otherwise make available publicly, by third parties.
 
-### 8\. Links to Other Websites.
+### 3\. Privacy for Visitors
 
-The Site, Services and in particular the Courses, may provide links to third party web sites or resources not associated with us and over which we do not have control (“External Web Sites”). Such links do not constitute an endorsement by ChalkStreet of the External Web Sites, the content displayed therein, or the persons or entities associated therewith. You acknowledge that ChalkStreet is only providing these links as a convenience, and cannot be responsible for the content of such External Web Sites.
+This section applies to Personal Information that we collect and process through our Websites and in the usual course of our business, such as in connection with our recruitment, events, sales and marketing activities. **In this section "you" and "your" refers to Visitors.**
 
-### 9\. Material Changes.
+**A. Information We Collect**  
+(i) **Information you provide to us on the Websites or otherwise** : Certain parts of our Websites may ask you to provide Personal Information voluntarily. For example, we may ask you to provide certain Personal Information (such as your name, contact details, profile information) in order to sign up for ChalkStreet account, apply for a role with ChalkStreet, or otherwise submit inquiries to us. We may also collect Personal Information, such as your contact and job details and feedback, when you attend our events, take part in surveys, or through other business or marketing interactions we may have with you. You may choose to provide additional information when you communicate with us or otherwise interact with us, and we will keep copies of any such communications for our records.  
+The Personal Information that you are asked to provide, and the reasons why you are asked to provide it, will be made clear to you at the point we ask you to provide your Personal Information. We will also let you know prior to collection whether the provision of the Personal Information we are collecting is compulsory or may be provided on a voluntary basis and the consequences, if any, of not providing the information.  
+(ii) **Information we collect automatically through the Websites** : When you visit our Websites, we may also collect certain information automatically from your device. In some countries, including countries in the European Economic Area, this information may be considered Personal Information under applicable data protection laws.  
+Specifically, the information we collect automatically may include your IP address, your operating system, your browser ID, your browsing activity, and other information about your system and connection and how you interact with our Websites. We may collect this information as a part of log files as well as through the use of cookies or other tracking technologies. 
 
-ChalkStreet reserves the right to change this Privacy Policy from time to time. We will post the revised Privacy Policy on this Site located at www.chalkstreet.com/terms/privacy. If there are material changes we will either send a notice to the e­mail address that you specified in your registration and/or post notice of the change so it is visible when users log­on for the first time prior to said changes taking effect so that you are always aware of what personal information we may collect and how we may use this information. We encourage you to review this Privacy Policy regularly for any changes. Your continued use of the Site and/or Services will be subject to the then­current Privacy Policy.
+**B. Use of Personal Information**  
+We may use the information we collect through our Websites for a range of reasons, including
 
-### 10.Your Consent.
+  * To provide, operate, optimize, and maintain our Websites.
+  * To send you information for marketing purposes, in accordance with your marketing preferences. 
+  * For recruitment purposes if you have applied for a role with ChalkStreet. 
+  * To respond to your online inquiries and requests, and to provide you with information and access to resources or services that you have requested from us. 
+  * To manage our Websites and system administration and security. 
+  * To improve the navigation and content of our Websites. 
+  * To identify any server problems or other IT or network issues. 
+  * To process transactions and to set up online accounts. 
+  * To compile aggregated statistics about site usage and to better understand the preferences of our Visitors. 
+  * To carry out research and development to improve our products and services. 
+  * To customize content and layout of the Websites.
+  * To carry out other legitimate business purposes, as well as other lawful purposes. 
 
-By using the Website and/ or by providing your information, you consent to the collection and use of the information you disclose on the Website in accordance with this Privacy Policy, including but not limited to Your consent for sharing your information as per this privacy policy.
 
-### 11\. Grievance Officer.
 
-In accordance with Information Technology Act 2000 and rules made there under, the name and contact details of the Grievance Officer are provided below:
+In addition, we may combine Personal Information with other information we collect or obtain about you (such as information we source from our third-party partners) to serve you specifically, such as to deliver a product or service according to your preferences or restrictions, or for advertising or targeting purposes in accordance with this privacy policy. When we combine Personal Information with other information in this way, we treat it as, and apply all of the safeguards in this privacy policy applicable to, Personal Information.
 
-Mr Tyagarajan Sundaresan  
-**ChalkStreet**  
-Attn: Privacy Policy  
-No 1564, 3rd Floor, Revanna Building,  
-27th Main, 2nd Sector, HSR Layout  
-Bangalore ­ 560102 Phone: +91­ 9481741727  
-Email: [contact@chalkstreet.com.](mailto:contact@chalkstreet.com?Subject=Information%20Update)  
-Time: Mon – Sat (9:00 – 18:00) 
+**C. Other Data Protection Rights**  
+You have the following data protection rights: 
 
-### 12\. Questions?
+  * To **access, correct, update, or request deletion** of your Personal Information. ChalkStreet takes reasonable steps to ensure that the data we collect is reliable for its intended use, accurate, complete, and up to date. You may contact us directly at any time about accessing, correcting, updating, or deleting your Personal Information, or altering your data or marketing preferences by emailing us at support@chalkstreet.com. We will consider your request in accordance with applicable laws.
+  * In addition, if you are a resident of the EEA, you can **object to processing** of your Personal Information, ask us to **restrict processing** of your Personal Information or **request portability** of your Personal Information. Again, you can exercise these rights by emailing us at support@chalkstreet.com. 
+  * Similarly, if we have collected and processed your Personal Information with your consent, then you can **withdraw your consent** at any time. Withdrawing your consent will not affect the lawfulness of any processing we conducted prior to your withdrawal, nor will it affect processing of your Personal Information conducted in reliance on lawful processing grounds other than consent. 
+  * You have the **right to complain to a data protection authority** about our collection and use of your Personal Information.
 
-We welcome your comments or questions concerning our Privacy Policy. If you would like to contact ChalkStreet regarding this Privacy Policy, please contact us by emailing us at [contact@chalkstreet.com.](mailto:contact@chalkstreet.com?Subject=Information%20Update), or at:
 
-**ChalkStreet**  
-Attn: Privacy Policy  
-No 1564, 3rd Floor, Revanna Building,  
-27th Main, 2nd Sector, HSR Layout  
-Bangalore ­ 560102 
+
+We respond to all requests we receive from individuals wishing to exercise their data protection rights in accordance with applicable data protection laws. We may ask you to verify your identity in order to help us respond efficiently to your request.  
+If you have any queries, write to us at support@chalkstreet.com. 
