@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the energyeducation.ca privacy policy that was archived on 2018-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180606024623id_/http%3A//energyeducation.ca/encyclopedia/Project%3APrivacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the energyeducation.ca privacy policy that was archived on 2019-03-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190327212110id_/https%3A//energyeducation.ca/encyclopedia/Project%3APrivacy_policy) for the most accurate reproduction.*
 
 # Energy Education:Privacy policy - Energy Education
 
@@ -7,7 +7,7 @@
   * Will be used to provide information on our products and services,
   * May be used to notify you for marketing purposes,
   * Will not be sold or rented to others,
-  * And will not be shared with other organizations without your specific consent. 
+  * And will not be shared with other organizations without your specific consent.
 
 
 
