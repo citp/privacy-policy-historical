@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the soundtrack.net privacy policy that was archived on 2018-01-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180121133539id_/https%3A//www.soundtrack.net/about/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the soundtrack.net privacy policy that was archived on 2019-03-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190327010026id_/https%3A//www.soundtrack.net/about/privacy.php) for the most accurate reproduction.*
 
 # Soundtraack.net Privacy Policy
 
