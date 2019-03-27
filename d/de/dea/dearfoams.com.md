@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the dearfoams.com privacy policy that was archived on 2017-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171205090109id_/http%3A//www.dearfoams.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dearfoams.com privacy policy that was archived on 2019-03-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190328002826id_/https%3A//www.dearfoams.com/privacy-policy.html) for the most accurate reproduction.*
 
-# Privacy Policy | dearfoams
+# privacy policy | Dearfoams®
 
 Dearfoams.com. is owned by the R.G. Barry Corporation. For a list of all of R.G. Barry Corporation brands, please visit [www.rgbarry.com](http://www.rgbarry.com/).
 
