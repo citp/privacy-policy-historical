@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ivipid.com privacy policy that was archived on 2018-02-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180217221200id_/https%3A//ivipid.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ivipid.com privacy policy that was archived on 2019-03-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190327061917id_/https%3A//ivipid.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
