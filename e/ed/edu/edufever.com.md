@@ -1,114 +1,57 @@
-> *The following text is extracted and transformed from the edufever.com privacy policy that was archived on 2018-01-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180129015827id_/https%3A//www.edufever.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the edufever.com privacy policy that was archived on 2019-03-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190327115251id_/https%3A//www.edufever.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy of Edufever.com
 
-This privacy policy has been compiled to better serve those who are concerned with how their ‘Personally Identifiable Information’ (PII) is being used online. PII, as described in US privacy law and information security, is information that can be used on its own or with other information to identify, contact, or locate a single person, or to identify an individual in context. Please read our privacy policy carefully to get a clear understanding of how we collect, use, protect or otherwise handle your Personally Identifiable Information in accordance with our website.
+This page is used to inform **Edufever website visitors** regarding our policies with the collection, use, and disclosure of Personal Information if anyone decided to use our Service, the [**company website.**](https://www.edufever.com/)
 
- **What personal information do we collect from the people that visit our blog, website or app?**  
+If you choose to use our Service, then you agree to the collection and use of information in relation with this policy. The Personal Information that we collect are used for providing and improving the Service. We will not use or share your information with anyone except as described in this Privacy Policy.
 
+The terms used in this **Privacy Policy** have the same meanings as in our Terms and Conditions, which is accessible at [**Website URL**](https://www.edufever.com/), unless otherwise defined in this Privacy Policy.
 
-When ordering or registering on our site, as appropriate, you may be asked to enter your name, email address, phone number or other details to help you with your experience.
+### Information Collection and Use
 
- **When do we collect information?**
+For a better experience while using our Service, we may require you to provide us with certain personally identifiable information, including but not limited to your name, phone number, and postal address. The information that we collect will be used to contact or identify you.
 
-We collect information from you when you respond to a survey or enter information on our site.
+### Log Data
 
- **How do we use your information?**
+We want to inform you that whenever you visit our Service, we collect information that your browser sends to us that is called Log Data. This Log Data may include information such as your computer’s Internet Protocol (“IP”) address, browser version, pages of our Service that you visit, the time and date of your visit, the time spent on those pages, and other statistics.
 
-We may use the information we collect from you when you register, make a purchase, sign up for our newsletter, respond to a survey or marketing communication, surf the website, or use certain other site features in the following ways:
+### Cookies
 
- **•**  To personalize your experience and to allow us to deliver the type of content and product offerings in which you are most interested.
+Cookies are files with small amount of data that is commonly used an anonymous unique identifier. These are sent to your browser from the website that you visit and are stored on your computer’s hard drive.
 
- **•**  To improve our website in order to better serve you.
+Our website uses these “cookies” to collection information and to improve our Service. You have the option to either accept or refuse these cookies, and know when a cookie is being sent to your computer. If you choose to refuse our cookies, you may not be able to use some portions of our Service.
 
- **How do we protect your information?**  
+### Service Providers
 
+We may employ third-party companies and individuals due to the following reasons:
 
-We do not use vulnerability scanning and/or scanning to PCI standards.
-
-We only provide articles and information. We never ask for credit card numbers.
-
-We use regular Malware Scanning.
-
-We do not use an SSL certificate
-
- **•**  We only provide articles and information. We never ask for personal or private information like names, email addresses, or credit card numbers.
-
- **Do we use ‘cookies’?**  
+  * To facilitate our Service;
+  * To provide the Service on our behalf;
+  * To perform Service-related services; or
+  * To assist us in analyzing how our Service is used.
 
 
-Yes. Cookies are small files that a site or its service provider transfers to your computer’s hard drive through your Web browser (if you allow) that enables the site’s or service provider’s systems to recognize your browser and capture and remember certain information. For instance, we use cookies to help us remember and process the items in your shopping cart. They are also used to help us understand your preferences based on previous or current site activity, which enables us to provide you with improved services. We also use cookies to help us compile aggregate data about site traffic and site interaction so that we can offer better site experiences and tools in the future.
 
- **We use cookies to:**
+We want to inform our Service users that these third parties have access to your Personal Information. The reason is to perform the tasks assigned to them on our behalf. However, they are obligated not to disclose or use the information for any other purpose.
 
- **•**  Understand and save user’s preferences for future visits.
+### Security
 
- **•**  Keep track of advertisements.
+We value your trust in providing us your Personal Information, thus we are striving to use commercially acceptable means of protecting it. But remember that no method of transmission over the internet, or method of electronic storage is 100% secure and reliable, and we cannot guarantee its absolute security.
 
-You can choose to have your computer warn you each time a cookie is being sent, or you can choose to turn off all cookies. You do this through your browser settings. Since the browser is a little different, look at your browser’s Help Menu to learn the correct way to modify your cookies.
+### Links to Other Sites
 
-If you turn cookies off, Some of the features that make your site experience more efficient may not function properly.It won’t affect the user’s experience that makes your site experience more efficient and may not function properly.
+Our Service may contain links to other sites. If you click on a third-party link, you will be directed to that site. Note that these external sites are not operated by us. Therefore, we strongly advise you to review the Privacy Policy of these websites. We have no control over, and assume no responsibility for the content, privacy policies, or practices of any third-party sites or services.
 
- **Third-party disclosure**
+### Changes to This Privacy Policy
 
-We do not sell, trade, or otherwise transfer to outside parties your Personally Identifiable Information unless we provide users with advance notice. This does not include website hosting partners and other parties who assist us in operating our website, conducting our business, or serving our users, so long as those parties agree to keep this information confidential. We may also release information when it’s release is appropriate to comply with the law, enforce our site policies, or protect ours or others’ rights, property or safety.
+We may update our Privacy Policy from time to time. Thus, we advise you to review this page periodically for any changes. We will notify you of any changes by posting the new Privacy Policy on this page. These changes are effective immediately, after they are posted on this page.
 
-However, non-personally identifiable visitor information may be provided to other parties for marketing, advertising, or other uses.
+### Contact Us
 
- **Third-party links**  
+If you have any questions or suggestions about our Privacy Policy, do not hesitate to contact us.
 
+**Email: mail@edufever.com  **
 
-Occasionally, at our discretion, we may include or offer third-party products or services on our website. These third-party sites have separate and independent privacy policies. We, therefore, have no responsibility or liability for the content and activities of these linked sites. Nonetheless, we seek to protect the integrity of our site and welcome any feedback about these sites.
-
- **Google**  
-
-
-Google’s advertising requirements can be summed up by Google’s Advertising Principles. They are put in place to provide a positive experience for users. https://support.google.com/adwordspolicy/answer/1316548?hl=en
-
-We use Google AdSense Advertising on our website.
-
-Google, as a third-party vendor, uses cookies to serve ads on our site. Google’s use of the DART cookie enables it to serve ads to our users based on previous visits to our site and other sites on the Internet. Users may opt-out of the use of the DART cookie by visiting the Google Ad and Content Network privacy policy.
-
- **We have implemented the following:**
-
- **•**  Google Display Network Impression Reporting
-
-We, along with third-party vendors such as Google use first-party cookies (such as the Google Analytics cookies) and third-party cookies (such as the DoubleClick cookie) or other third-party identifiers together to compile data regarding user interactions with ad impressions and other ad service functions as they relate to our website.
-
- **Opting out:**  
-Users can set preferences for how Google advertises to you using the Google Ad Settings page. Alternatively, you can opt out by visiting the Network Advertising Initiative Opt-Out page or by using the Google Analytics Opt-Out Browser Add-on.
-
- **COPPA (Children Online Privacy Protection Act)**  
-
-
-When it comes to the collection of personal information from children under the age of 13 years old, the Children’s Online Privacy Protection Act (COPPA) puts parents in control. The Federal Trade Commission, United States’ consumer protection agency, enforces the COPPA Rule, which spells out what operators of websites and online services must do to protect children’s privacy and safety online.
-
-We do not specifically market to children under the age of 13 years old.
-
-Do we let third-parties, including ad networks or plug-ins, collect PII from children under 13?
-
- **CAN-SPAM Act**  
-
-
-The CAN-SPAM Act is a law that sets the rules for commercial email, establishes requirements for commercial messages, gives recipients the right to have emails stopped from being sent to them, and spells out tough penalties for violations.
-
- **We collect your email address in order to:**
-
- **•**  Send information, respond to inquiries, and/or other requests or questions
-
- **To be in accordance with CAN-SPAM, we agree to the following:**
-
- **•**  Not use false or misleading subjects or email addresses.
-
- **•**  Identify the message as an advertisement in some reasonable way.
-
- **•**  Include the physical address of our business or site headquarters.
-
- **•**  Monitor third-party email marketing services for compliance, if one is used.
-
- **•**  Honor opt-out/unsubscribe requests quickly.
-
- **•**  Allow users to unsubscribe by using the link at the bottom of each email.
-
- **  
-If at any time you would like to unsubscribe from receiving future emails, you can email us at [mail@edufever.com]**
+Regards  
+Team Edufever..!!
