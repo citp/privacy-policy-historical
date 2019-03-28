@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the amerimark.com privacy policy that was archived on 2018-10-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181013033045id_/https%3A//www.amerimark.com/am_privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the amerimark.com privacy policy that was archived on 2019-03-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190328122930id_/https%3A//www.amerimark.com/am_privacy.html) for the most accurate reproduction.*
 
-# Privacy Policy - AmeriMark - Online Catalog Shopping for Womens Apparel | Beauty Products | Jewelry | Womens Shoes | Health | Wellness
+# Privacy Policy | AmeriMark
 
 Welcome to our website, operated by AmeriMark Direct LLC ("AmeriMark," "we," or "our") and located at [www.amerimark.com](https://web.archive.org/). 
 
@@ -40,9 +40,13 @@ The Site may also contain links to third party websites. The Site may contain li
 
 We use third party service providers to serve ads on our behalf across the Internet and sometimes on this site. These companies may use information (not including your name, address, email address or telephone number) about your visits to this Site and other websites in order to provide advertisements on our Site, other websites and other forms of media about goods and services of interest to you. This anonymous information is collected through the use of pixel tags or similar technologies which are industry standard technologies used by most major web sites. You can also read more about online marketing practices and the technologies that support them by visiting the [Network Advertising Initiative's website](http://www.networkadvertising.org/). If you would like to know your choices about not having this information used by these companies, check out [Network Advertising.org](http://www.networkadvertising.org/choices/). 
 
-In addition, we may from time to time contract with third party vendors to serve ads to our customers on our behalf across the Internet or to send our catalogs to customers whom we think may be interested in our products or services. To do this, the vendors will collect anonymous information about your visits to our Web site and your interaction with our products and services. This anonymous information is collected through the use of a cookie or pixel tag - industry standard technology used by most major Web sites. No personally identifiable information is collected in this process. They may also pool the anonymous information that they collect with other sources of information not collected during your visit to our website, which may include your name and mailing address, for purposes of determining whether you might be interested in receiving a catalog.
+In addition, we may from time to time contract with third party vendors to serve ads to our customers on our behalf across the Internet or to send our catalogs to customers whom we think may be interested in our products or services. To do this, the vendors will collect anonymous information about your visits to our Web site and your interaction with our products and services. This anonymous information is collected through the use of a cookie or pixel tag - industry standard technology used by most major Web sites. No personally identifiable information is collected in this process. They may also pool the anonymous information that they collect with other sources of information not collected during your visit to our website, which may include your name and mailing address, for purposes of determining whether you might be interested in receiving a catalog. 
 
-If you do not wish for cookies or pixel tags to be placed on your computer, most commercially available web browsers permit you to prevent that from taking place. To opt-out of receiving our catalogs, you may send us an email at [custserv@amerimark.com](mailto:custserv@amerimark.com) or call us at 1-866-345-1388. 
+If you do not wish for cookies or pixel tags to be placed on your computer, most commercially available web browsers permit you to prevent that from taking place. To opt-out of receiving our catalogs, you may send us an email at [custserv@amerimark.com](mailto:custserv@amerimark.com) or call us at 1-877-268-9594. 
+
+We, or a data provider we have engaged, may place or recognize a unique cookie on your browser to enable you to receive customized ads, content or services. No personally identifiable information is placed into these cookies. The cookies may reflect de-identified demographic or other data linked to data you voluntarily have submitted to us, e.g., your email address, in hashed, non-human readable form. To opt-out of these cookies or learn more please go to <http://www.networkadvertising.org/managing/opt_out.asp>. 
+
+Additionally, emails we send may contain a bit of code known as a "web beacon." This code allows us to understand the time and date of when a user has opened an email and when he/she has utilized a link within the email to visit a website. Our web beacons do not collect personally identifiable information. Users wishing to disable our web beacons should do so by turning images "off" in their email client (e.g., Outlook, Outlook Express). Please see your email client for more information. 
 
 **Children's Information**
 
@@ -62,7 +66,7 @@ California Civil Code Section 1798.83 (also known as the "Shine The Light" law) 
 
 AmeriMark - California Privacy Rights  
 Attn: E-Commerce Department  
-6864 Engle Rd  
-Cleveland, OH 44130 
+PO box 7824  
+Edison, NJ 08818 
 
-Revised 08/18/2016 
+Revised 03/28/2019 
