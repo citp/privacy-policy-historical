@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the columbia.com privacy policy that was archived on 2018-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181227182020id_/https%3A//www.columbia.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the columbia.com privacy policy that was archived on 2019-03-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190328185016id_/https%3A//www.columbia.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Columbia Sportswear Privacy Policy | Columbia Sportswear
 
-Last Updated: November 7, 2018
+Last Updated: March 13, 2019
 
 This privacy policy ("Policy") explains how your information is collected, used, and disclosed by Columbia Sportswear Company and its subsidiaries and affiliated companies, including Mountain Hardwear and Sorel ("Columbia" or "We"). Unless we otherwise indicate, this Policy applies to all information collected by Columbia from any source, including information collected through our online services and activities, including this Website and our mobile applications (collectively, "Sites"), and at retail locations. This Policy will not apply where we display or link to a different privacy policy.
 
@@ -16,10 +16,10 @@ We collect information you directly provide to us through our Sites, in our stor
 
 The information we collect from you generally falls into the following categories:
 
-  * **Contact Details:** We collect your contact information, such as name, postal address, email address, telephone or mobile number, fax number, or other similar identifiers. 
+  * **Contact Details:** We collect your contact information, such as name, postal address, email address, telephone or mobile number, fax number, or other similar identifiers.
   * **Financial Data:** If you make a purchase from us, we collect a credit/debit card number and related financial information (such as CVV, expiration date, and billing address), depending on the form of payment you choose.
   * **Transaction Details:** We may collect details about your purchases or other transactions with us, including, but not limited to, your transaction or purchase history, transaction channel, or the general location of the store you visit.
-  * **Account Information:** You may choose to register for an account to make a purchase or use certain services. We collect information from you regarding your account registration, such as an email and password. 
+  * **Account Information:** You may choose to register for an account to make a purchase or use certain services. We collect information from you regarding your account registration, such as an email and password.
   * **Marketing and Communications Data:** We collect data concerning your preferences in receiving marketing, other targeted information from us, and your contact preferences.
   * **Other Data about You:** We may collect other information about you based on your interactions with us or that you choose to provide to us. For example, if you submit a product review you have the option to provide photographs or other information about yourself. You also have the option of providing your gender and birth month and date when enrolling in our Greater Rewards program.
 
@@ -34,19 +34,19 @@ When you visit or interact with our Sites, we may use a variety of technologies 
 
 
 
-For information about your advertising choices and how to opt-out of location information collection, please see the “Your Information Choices and Opt-Outs” section below. 
+For information about your advertising choices and how to opt-out of location information collection, please see the “Your Information Choices and Opt-Outs” section below.
 
 ### C. Information Collected by Third Parties
 
 Third parties may also collect information about you on our Sites through the use of technology. For example, third party analytics services may use cookies and web beacons to help us compile statistics about our Sites and visitors to our Sites. We receive assurances from those third party analytics services that they will not collect or access any information that directly identifies you on our Sites. Other third parties may also collect information about your online activities over time and across different websites when you visit our Site, for example, to display Columbia ads to you on third party websites and to deliver third party ads to our Sites and others as described below. We also may use third party service providers to support our Sites.
 
-This Policy does not apply to, and we are not responsible for, cookies or clear gifs in third party ads, and we encourage you to check the privacy policies of advertisers and/or ad services to learn about their use of cookies and other technology. 
+This Policy does not apply to, and we are not responsible for, cookies or clear gifs in third party ads, and we encourage you to check the privacy policies of advertisers and/or ad services to learn about their use of cookies and other technology.
 
 ### D. Information Collected From Other Sources
 
-We may obtain information from other sources as follows: 
+We may obtain information from other sources as follows:
 
-  * From other trusted third-party sources to update or supplement the information that you provide or that we collect automatically. This includes, for example, information from public databases or data aggregators (which may include your demographic information, previous purchases, shopping habits, lifestyle preferences, or other information to validate or supplement the information we collect from or about you). 
+  * From other trusted third-party sources to update or supplement the information that you provide or that we collect automatically. This includes, for example, information from public databases or data aggregators (which may include your demographic information, previous purchases, shopping habits, lifestyle preferences, or other information to validate or supplement the information we collect from or about you).
   * From our partners and service providers (including, for example, business partners, analytics vendors, advertising networks and search information providers).
 
 
@@ -80,13 +80,13 @@ We use information we collect for purposes described in this Policy or as disclo
 
 ### B. How We Use Your Information for Interest-Based Advertising 
 
-We and others may use information collected using third-party cookies, clear gifs, web beacons, or other technologies on our Sites and in our emails to deliver Columbia-branded advertising displayed to you on the Sites, on other third-party websites, mobile apps, social media, or other online services and across the computers or devices you use. We and others also may use cookie information to know when you return to our website after visiting these third-party websites. We and others use this and other information about you to try to understand your interests and show you relevant advertising about products and services that may interest you. 
+We and others may use information collected using third-party cookies, clear gifs, web beacons, or other technologies on our Sites and in our emails to deliver Columbia-branded advertising displayed to you on the Sites, on other third-party websites, mobile apps, social media, or other online services and across the computers or devices you use. We and others also may use cookie information to know when you return to our website after visiting these third-party websites. We and others use this and other information about you to try to understand your interests and show you relevant advertising about products and services that may interest you.
 
 We also may display interest-based ads through digital advertising partners, like Facebook, Google, or other social media platforms or websites. For example, we may use these digital advertising partners to personalize ads you see on other websites or apps based on your shopping experience with us. We do this only by sharing hashed information (which converts your email or phone number to a unique string of numbers and letters) that the social media platform then matches data against its own data for the limited purpose of serving advertisements (either directly to you or to other lookalike audiences). The matched and unmatched hashes are then deleted, and are not used for any other purpose.
 
 We also may use information we collect to deliver advertising that is targeted to individuals with similar interests. These tools allow us to create groups based on actual or assumed shared interests and/or factual characteristics based on anonymous and/or de-identified information to help us figure out what advertising may be most relevant. We also do this without having to share personal information with these third-party partners.
 
-For more information about this practice and your choices with respect to interest-based ads, see the “Your Information Choices” section below. 
+For more information about this practice and your choices with respect to interest-based ads, see the “Your Information Choices” section below.
 
 ### 3\. SHARING OF INFORMATION
 
@@ -112,24 +112,24 @@ Columbia takes reasonable measures to protect your personal information in an ef
 
 Certain parts of our Sites require cookies. You may adjust your device or Internet browser settings to limit certain tracking or to decline cookies, but by doing so, you may not be able to use certain features of the Service or take full advantage of all of our offerings. Please refer to your device’s settings or your Internet browser’s “Help” section for more information on how to delete and/or disable your device or browser from receiving cookies or controlling your tracking preferences.
 
-While we and others give you choices described in this Policy, there are many ways Web browser signals and other similar mechanisms can indicate your choice to disable tracking. Our system may not recognize Do Not Track requests or headers from some or all browsers. We may use cookies or other technologies to deliver more relevant advertising and to link data collected across other computers or devices that you may use. 
+While we and others give you choices described in this Policy, there are many ways Web browser signals and other similar mechanisms can indicate your choice to disable tracking. Our system may not recognize Do Not Track requests or headers from some or all browsers. We may use cookies or other technologies to deliver more relevant advertising and to link data collected across other computers or devices that you may use.
 
 ### B. Interest-Based Advertising Choices
 
 To understand your choices for receiving more relevant advertising provided on the Sites or across other websites and online services, please review the information below:
 
   * To learn more about such interest-based advertising, and to opt out of such collection and use for interest-based advertising by the Digital Advertising Alliance (DAA) participating companies, please visit <http://www.aboutads.info/choices/>.
-  * To opt out from the use of information about your online activities for interest-based advertising by Network Advertising Initiative (NAI) member companies, please visit <http://www.networkadvertising.org/choices/>. 
+  * To opt out from the use of information about your online activities for interest-based advertising by Network Advertising Initiative (NAI) member companies, please visit <http://www.networkadvertising.org/choices/>.
   * To opt-out of the use of your mobile device ID for targeted advertising, please see <http://www.aboutads.info/appchoices>.
   * On your mobile device, you may also adjust your privacy and advertising settings to control whether you want to receive more relevant advertising.
 
 
 
-Adobe Marketing Cloud: We participate in the Adobe Marketing Cloud Device Cooperative to better understand how you use certain websites and apps of ours across the various devices you use, and to deliver tailored advertisements to you across those devices. To learn more information about this cross-device tracking or to unlink your device, visit: [https://cross-device-privacy.adobe.com](https://cross-device-privacy.adobe.com/).
+**Adobe Marketing Cloud** : We participate in the Adobe Marketing Cloud Device Cooperative to better understand how you use certain websites and apps of ours across the various devices you use, and to deliver tailored advertisements to you across those devices. To learn more information about this cross-device tracking or to unlink your device, visit: [https://cross-device-privacy.adobe.com](https://cross-device-privacy.adobe.com/).
 
 ### C. Unsubscribing from our Marketing Communications
 
-You may opt out of receiving promotional emails from Columbia by following the instructions in those emails. If you choose to opt out of promotional emails, we may still send you non-promotional emails, such as emails about your accounts or our ongoing business relations.
+You may opt out of receiving promotional emails from Columbia by clicking on the unsubscribe link at the bottom of those emails, or clicking the following link <https://www.columbia.com/on/demandware.store/Sites-Columbia_US-Site/en_US/Email-Unsubscribe> and entering the email address you wish to unsubscribe. If you choose to opt out of promotional emails, we may still send you non-promotional emails, such as emails about your accounts or our ongoing business relations.
 
 You may also send requests about your contact preferences or changes to your information by writing us at:
 
