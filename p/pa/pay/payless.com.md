@@ -1,6 +1,12 @@
-> *The following text is extracted and transformed from the payless.com privacy policy that was archived on 2018-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181227011246id_/https%3A//www.payless.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the payless.com privacy policy that was archived on 2019-03-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190328040847id_/https%3A//www.payless.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Payless ShoeSource Privacy Policy
+
+We would like to express our deep gratitude for your loyalty and your business over the past 62 years. Despite our best efforts to address the rapidly changing retail environment, we have made the difficult decision to close our stores in the U.S. and Puerto Rico and have wound down our e-commerce site. 
+
+We invite you to visit your local stores that are conducting liquidation sales that will continue until at least March. Again, our sincere gratitude goes out to our customers for their support over the years.
+
+Visit [https://www.payless.com/restructure](https://www.payless.com/payless-restructure.html) for more information.
 
 As described in this Privacy Policy, Payless values our customers and respects their privacy. In this policy we use 'we' to mean Payless, Inc. We are part of Payless, Inc., details of the other members of the group can be found [here.](http://www.paylesscorporate.com/)
 
