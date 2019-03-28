@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the elementor.com privacy policy that was archived on 2018-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181227161810id_/https%3A//elementor.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the elementor.com privacy policy that was archived on 2019-03-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190328165852id_/https%3A//elementor.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Elementor
+
+_**Last Updated on January 2019**_
 
 Elementor values your privacy, and therefore has set up this extensive privacy policy to inform you of your rights. It is important to read this policy to understand the uses of your data.
 
