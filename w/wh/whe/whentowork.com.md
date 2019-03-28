@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the whentowork.com privacy policy that was archived on 2018-08-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180818144540id_/https%3A//whentowork.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the whentowork.com privacy policy that was archived on 2019-03-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190328233126id_/https%3A//whentowork.com/privacy.htm) for the most accurate reproduction.*
 
-# WhenToWork Privacy Policy
+# Privacy Policy | WhenToWork
 
 WhenToWork, Inc. takes your privacy seriously.  
 Please read the following to learn more about our privacy policy.
