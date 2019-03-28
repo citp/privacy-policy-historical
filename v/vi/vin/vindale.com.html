@@ -1,27 +1,27 @@
-<!--The following is the downloaded HTML source of the vindale.com privacy policy that was archived on 2017-12-10.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20171210123040id_/https%3A//www.vindale.com/v/privacy.jsp) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the vindale.com privacy policy that was archived on 2019-03-29.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20190329000252id_/https%3A//www.vindale.com/v/privacy.jsp) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en" class=" fonts-loaded"><head>
     <meta http-equiv="X-UA-Compatible" content="IE=9; IE=8; IE=7; IE=EDGE">
     <script async="" src="https://www.google-analytics.com/analytics.js"></script><script type="text/javascript">var _sf_startpt=(new Date()).getTime()</script>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-    <meta name="viewport" content="width=device-width">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
     <link href="https://plus.google.com/+Vindale" rel="publisher">
     <title>
         Privacy Policy - Vindale Research
         - Vindale Research</title>
     <script>window.console = window.console || {log:function () {}};</script>
     <link href="https://plus.google.com/+Vindale" rel="publisher">
-    <link rel="Shortcut Icon" type="image/x-icon" href="/v/favicon.ico?v=60">
-<link rel="stylesheet" type="text/css" href="/v/stylesheets/guest.css?v=60">
-    <link rel="stylesheet" type="text/css" href="/v/libs/bootstrap-3.2/dist/css/bootstrap.min.css?v=60">
-    <link rel="stylesheet" type="text/css" href="/v/stylesheets/bootstrap3-overrides.css?v=60">
-    <link rel="stylesheet" type="text/css" href="/v/stylesheets/global.css?v=60">
-<link id="responsiveStyleSheet-responsive" rel="stylesheet" type="text/css" href="/v/stylesheets/responsive.css?v=60">
+    <link rel="Shortcut Icon" type="image/x-icon" href="/v/favicon.ico?v=1351">
+<link rel="stylesheet" type="text/css" href="/v/stylesheets/guest.css?v=1351">
+    <link rel="stylesheet" type="text/css" href="/v/libs/bootstrap-3.2/dist/css/bootstrap.min.css?v=1351">
+    <link rel="stylesheet" type="text/css" href="/v/stylesheets/bootstrap3-overrides.css?v=1351">
+    <link rel="stylesheet" type="text/css" href="/v/stylesheets/global.css?v=1351">
+<link id="responsiveStyleSheet-responsive" rel="stylesheet" type="text/css" href="/v/stylesheets/responsive.css?v=1351">
     <!--[if lt IE 9]>
-        <link rel="stylesheet" type="text/css" href="/v/stylesheets/ie8-fixed.css?v=60"/>
+        <link rel="stylesheet" type="text/css" href="/v/stylesheets/ie8-fixed.css?v=1351"/>
     <![endif]-->
-    <link rel="stylesheet" type="text/css" href="/v/stylesheets/fonts/proxima.css?v=60">
+    <link rel="stylesheet" type="text/css" href="/v/stylesheets/fonts/proxima.css?v=1351">
     <script type="text/javascript">
         try {
             if (localStorage.fontsLoaded) {
@@ -33,13 +33,18 @@
             console.log('Error: ' + e, e);
         }
     </script>
-    <script type="text/javascript" src="/v/libs/jquery/jquery.min.js?v=60"></script>
+    <script type="text/javascript" src="/v/libs/jquery/jquery.min.js?v=1351"></script>
     <script type="text/javascript">
         $.noConflict();
     </script>
 
-    <script type="text/javascript" src="/v/libs/vindale/detect.js?_=0.44726616772857275"></script>
-    <script type="text/javascript" src="/v/libs/fp/fp12.min.js?_=0.6656606619180372"></script>
+    <script src="/v/libs/mustache/mustache.js"></script>
+
+        <script type="text/javascript" src="/v/libs/vindale/detect.js?_=0.3859311809147249"></script>
+    <script type="text/javascript" src="/v/libs/fp/fp12.min.js?_=0.303144100305758"></script>
+    <!-- TrustBox script -->
+    <script type="text/javascript" src="//widget.trustpilot.com/bootstrap/v5/tp.widget.bootstrap.min.js" async=""></script>
+    <!-- End Trustbox script -->
     <script type="text/javascript">
         var memberAccessCode = null;
         
@@ -67,6 +72,16 @@
         }
         .mobileFooter{
             margin: 0;
+        }
+        /* For trustpilot */
+        .trustpilot-footer{
+            padding: 13px 0 0;
+            background: #202d3a;
+        }
+        /* For holiday sweeps */
+        .banner-holiday{
+            background: url('/v/images/global/holiday-sweeps-banner-bg.jpg') #000 no-repeat center;
+            background-size: cover;
         }
         /*Extension CSS*/
         /*.extension-banner{
@@ -131,57 +146,98 @@
         .splash {
             background: #3498db;
         }
-        #content {
-            padding: 0;
-        }
         .page-title{
             color:#fff;
+        }
+        .list-unstyled{
+            padding-left: 20px;
+        }
+        .back-link{
+            position: fixed;
+            z-index: 999;
+            width: 30px;
+            text-align: center;
+            bottom: 20px;
+            right: 20px;
+            margin: auto;
+            background: #fff;
+            border: 1px solid #eee;
+            border-radius: 100%;
+            padding: 10px 10px 5px 12px;
+            font-size: 24px;
         }
     </style><script type="text/javascript" src="/v/libs/jquery/jquery.min.js"></script></head>
 <body onload="" onunload="">
 
 <div id="wrapperResponsive">
-    <div id="header">
-    <div class="container">
-        <div id="navigation">
-        <div style="margin-right:0;" class="horizontal-nav pull-right hidden-xs hidden-sm">
-            <a id="guest-navigation-signin-button" class="button button-blue-invert button-nav" style="margin-right:0; margin-top:10px;" href="/v/sign-in.jsp">Sign in</a>
-                <a id="guest-navigation-signup-button" class="button button-light-blue button-nav" style="margin-right:0; margin-top:10px;" href="/v/join.jsp">Sign up</a>
+    <div class="navi section-white shadow">
+    <a id="navigation-logo-link" class="logo-container" href="/v/index.jsp">
+        <img class="logo" src="/v/images/global/logo-standard-nav.png" alt="Vindale Research logo" title="Vindale Research">
+        <img class="mobile-logo" src="/v/images/global/logo-standard-small-nav.png" alt="Vindale Research logo" title="Vindale Research">
+    </a>
+    <ul class="navi-pages">
+        <li><a id="guest-subnav-waysto-link" href="/v/ways-to-earn.jsp">Ways to earn</a></li>
+            <li><a id="guest-subnav-examples-link" href="/v/surveys.jsp">Survey examples</a></li>
+            <li><a id="guest-subnav-reviews-link" href="/v/reviews.jsp">Reviews</a></li>
+        </ul>
+
+    <button id="dropDownNav" type="button" class="navbar-toggle">
+        <span class="sr-only">Toggle navigation</span>
+        <span class="icon-bar top-bar"></span>
+        <span class="icon-bar middle-bar"></span>
+        <span class="icon-bar bottom-bar last-icon-bar"></span>
+        <span class="close-menu">Close Menu</span>
+    </button>
+
+    <div id="fullScreenNav" class="dropdown-menu full-screen-menu" role="menu" aria-labelledby="dropDownNav" style="">
+        <div class="row">
+            <div class="col-sm-5" style="margin-right:40px;">
+                <img class="logo" src="/v/images/global/logo-standard.png" alt="Vindale Research logo" title="Vindale Research">
+                    <h2>Welcome!</h2>
+                    <p style="line-height:1.5;">Vindale is the secure, reliable and free survey site for anyone who wants to earn money online.</p>
+                    <a class="button button-green navi-button" href="/v/join.jsp">Sign up</a>&nbsp;&nbsp;&nbsp;
+                    <a class="button button-blue-invert navi-button" href="/v/signIn.jsp">Sign in</a>
+                <hr class="visible-xs">
             </div>
-            <div id="guestMobileNav" class="dropdown visible-xs-inline  visible-sm-inline pull-right">
-                <a id="guest-mobile-navigation-signup-link" class="signInLink" href="/v/join.jsp">Sign up</a>
-                <button type="button" class="navbar-toggle" style="margin-top:0;" data-toggle="dropdown" data-target="#guestMobileNav">
-                    <span class="sr-only">Toggle navigation</span>
-                    <span class="icon-bar"></span>
-                    <span class="icon-bar"></span>
-                    <span class="icon-bar last-icon-bar"></span>
-                </button>
-                <ul class="dropdown-menu dropdown-menu-right" role="menu" aria-labelledby="guestMobileNav">
-                    <li><a id="guest-dropdown-waysto-link" href="/v/ways-to-earn.jsp">Ways to earn</a></li>
-                    <li><a id="guest-dropdown-reviews-link" href="/v/reviews.jsp">Reviews</a></li>
-                    <li><a id="guest-dropdown-examples-link" href="/v/surveys.jsp">Survey Examples</a></li>
-                    <li class="divider"></li>
-                    <li><a id="guest-dropdown-signin-link" href="/v/sign-in.jsp">Sign in</a></li>
-                    <li><a id="guest-dropdown-signup-link" href="/v/join.jsp">Sign up</a></li>
+            <div class="col-sm-3">
+                <h4>Get Started</h4>
+                <ul class="list-unstyled">
+                    <li><a id="guest-fullscreen-nav-signup-link" href="/v/join.jsp">Sign Up</a></li>
+                    <li><a id="guest-fullscreen-nav-waysto-link" href="/v/ways-to-earn.jsp">Ways To Earn</a></li>
+                    <li><a id="guest-fullscreen-nav-examples-link" href="/v/surveys.jsp">Real Survey Examples</a></li>
+                    <li><a id="guest-fullscreen-nav-reviews-link" href="/v/reviews.jsp">Reviews</a></li>
                 </ul>
-            </div>
+                <h4>Learn More</h4>
+                <ul class="list-unstyled">
+                    <li><a id="guest-fullscreen-nav-about-link" href="/v/about-us.jsp">About Us</a></li>
+                    <li><a id="guest-fullscreen-nav-fraud-link" href="/v/fraudAwareness.jsp">Fraud Awareness</a></li>
+                    <li><a id="guest-fullscreen-nav-guide-link" href="/v/online-paid-surveys.jsp">Paid Surveys Guide</a></li>
+                    <li><a id="guest-fullscreen-nav-blog-link" href="https://blog.vindale.com/">Read Blog</a></li>
+                </ul>
+                </div>
+            <div class="col-sm-3">
+                <h4>Members</h4>
+                <ul class="list-unstyled">
+                    <li><a id="guest-fullscreen-nav-signin-link" href="/v/sign-in.jsp">Sign In</a></li>
+                    <li><a id="guest-fullscreen-nav-forgot-link" href="/v/retrievePassword.jsp">Forgot Password</a></li>
+                    <li><a id="guest-fullscreen-nav-preferences-link" href="/v/members/preferences.jsp">Email Preferences</a></li>
+                    <li><a id="guest-fullscreen-nav-cancel-link" href="/v/cancel.jsp">Cancel Membership</a></li>
+                </ul>
+                <h4>Support</h4>
+                <ul class="list-unstyled">
+                    <li><a id="guest-fullscreen-nav-help-home-link" href="https://vindale.zendesk.com/hc/en-us">Help Center</a></li>
+                    <li><a id="guest-fullscreen-nav-abuse-link" href="/v/abuse.jsp">Report Abuse</a></li>
+                    <li><a id="guest-fullscreen-nav-contact-link" href="/v/contact.jsp">Contact Us</a></li>
+                    <li><a id="guest-fullscreen-nav-faq-link" href="/v/faq.jsp">FAQ</a></li>
+                </ul>
+                </div>
+        </div>
     </div>
 
-        <a id="navigation-logo-link" href="/v/index.jsp">
-            <img class="global-logo" src="/v/images/global/logo-standard.png" width="280" height="53" alt="Vindale Research logo" title="Vindale Research">
-        </a>
-        </div>
-</div>
-<div id="subnav" class="hidden-xs">
-        <div class="container">
-            <ul class="list-unstyled">
-                <li class="pull-left"><a id="guest-subnav-waysto-link" href="/v/ways-to-earn.jsp">Ways to earn</a></li>
-                <li class="pull-left"><a id="guest-subnav-examples-link" href="/v/surveys.jsp">Survey examples</a></li>
-                <li class="pull-left"><a id="guest-subnav-reviews-link" href="/v/reviews.jsp">Reviews</a></li>
-            </ul>
-        </div>
+    <a id="guest-navigation-signup-button" class="button button-green navi-button sign-up-button" href="/v/join.jsp">Sign up</a>
+        <a id="guest-navigation-signin-button" class="button button-blue-invert navi-button sign-in-button" href="/v/signIn.jsp">Sign in</a>
     </div>
-    <div id="content">
+<div id="content">
     <script type="text/javascript">
     
     (function($) {
@@ -245,88 +301,211 @@
 </div>
 <div id="mainwide">
     <div class="section splash-standard">
+        <div class="container text-center">
+            <h1 class="page-title">iGain LLC Privacy Policy</h1>
+            <p>Last updated on: <b>June 25, 2018</b></p>
+        </div>
+    </div>
+    <div class="section section-dark-grey">
         <div class="container">
-            <h1 class="text-center page-title">Privacy Policy</h1>
+            <h5 class="caps">Privacy Statement</h5>
+            <div class="v-form">
+            <div style="float:right; padding:  0 2em 2em 3em; margin-right: 1em;">
+                	<a href="https://privacy.truste.com/privacy-seal/validation?rid=0f3337cc-aeb8-4271-a726-bb52f7628ffe" target="_blank"><img style="border: none" src="https://privacy-policy.truste.com/privacy-seal/seal?rid=0f3337cc-aeb8-4271-a726-bb52f7628ffe" alt="TRUSTe"></a>
+            	</div>
+            <p>iGain, LLC (together with its affiliates, the "Company") owns and operates a number of different websites, mobile apps, and interactive services, including without limitation EarningStation.com, iGain.com, Vindale.com, and others (collectively, the "iGain Sites"). This privacy policy ("Privacy Policy") applies to the iGain Sites and to all of the features, mobile applications, emails, online services and other functionalities (collectively, the "Features") available via or related to the iGain Sites, whether accessed via a computer, mobile device, or otherwise (collectively, the "iGain Sites and Features") and the services available on or through the iGain Sites and Features (the "Services"). Our affiliate company, Critical Mix Inc., can rely on the Privacy Policy.  This Privacy Policy only covers information collected by the Company through the iGain Sites and Features and our Services and does not cover any information received or collected offline by the Company (unless specifically stated) or collected by any unrelated websites or companies to which we may provide links.</p>
+                <p>We are concerned about your privacy and want you to be familiar with how we collect, use and share your information. This Privacy Policy outlines the type of information that we collect and receive from you while you are using our Services. Additionally, this Privacy Policy identifies the ways in which we process, and sometimes share, such information and what control and choices you have with regard to the collection and use of your personal information. Please review this Privacy Policy carefully, especially before providing any personal information through the iGain Sites and Features. Our iGain Sites and Features are operated in and controlled from the United States of America unless otherwise stated. If you do not wish to have us collect, use and share information as described in this Privacy Policy, please do not use the iGain Sites and Features or our Services.</p>
+                <p>By using any of the iGain Sites and Features or our Services, and/or clicking to "Accept" or otherwise acknowledging or consenting to this Privacy Policy where that option is made available to you, you agree to collection and use of your information and to be bound by this Privacy Policy, as well as our URL. Please take a moment to review the terms of our Privacy Policy and complete a consent form for the applicable site you registered with, igain.com, earningstation.com, or vindale.com. Because your consent serves as our legal basis for processing your information, if you have not completed a consent form or otherwise provided consent, please do not use the Site or participate in our Services.  If you revoke consent to any one of the ways we collect or process your information, we will no longer offer you the ability to take advantage of our Services.  Once you have revoked your consent, we will not collect any more information from you, but we will continue to process information about you we have already collected.</p>
+                <p>iGain LLC complies with the EU-US Privacy Shield Framework as set forth by the US Department of Commerce regarding the collection, use, and retention of personal information from European Union member countries. iGain  has certified that it adheres to the Privacy Shield Principles of Notice, Choice, Accountability for Onward Transfer, Security, Data Integrity and Purpose Limitation, Access, and Recourse, Enforcement and Liability. If there is any conflict between the policies in this privacy policy and the Privacy Shield Principles, the Privacy Shield Principles shall govern. To learn more about the Privacy Shield program, and to view our certification page, please visit <a href="https://www.privacyshield.gov/" target="_blank">https://www.privacyshield.gov/</a>.</p>
+                <p>In compliance with the Privacy Shield Principles, iGain LLC commits to resolve complaints about your privacy and our collection or use of your personal information. European Union individuals with inquiries or complaints regarding this privacy policy should first contact iGain LLC at:</p>
+                <br>
+                <ul class="list-unstyled">
+                    <li>iGain LLC</li>
+                    <li>Attn: Jonathan A. Flatow, Data Protection Officer</li>
+                    <li><a href="mailto:privacy@igain.com" target="_blank">privacy@igain.com</a></li>
+                    <li>53 Riverside Avenue</li>
+                    <li>Westport, CT 06880</li>
+                    <li>Phone: <a href="tel:1-888-511-4259">1-888-511-4259</a></li>
+                </ul>
+                <br>
+                <p>iGain LLC has further committed to refer unresolved privacy complaints under the Privacy Shield Principles to an independent dispute resolution mechanism, the BBB EU PRIVACY SHIELD, operated by the Council of Better Business Bureaus. If you do not receive timely acknowledgment of your complaint, or if your complaint is not satisfactorily addressed, please visit <a href="https://www.bbb.org/EU-privacy-shield/for-eu-consumers" target="_blank">www.bbb.org/EU-privacy-shield/for-eu-consumers</a> for more information and to file a complaint.</p>
+                <p>The Federal Trade Commission has jurisdiction over iGain LLC's compliance with the Privacy Shield. Please don't hesitate to contact us with any questions regarding our Privacy Policy as provided in the "Contact Us" section below.</p>
+            </div>
+            <br><br>
+            <h5 class="caps">Privacy Policy</h5>
+            <div class="v-form">
+                <div id="privacyContainer">
+                    <h3 id="tableOfContents"><span>Table of Contents</span></h3><br>
+                    <ol class="lead" type="1">
+                        <li><a data-scroll="" href="#personalInfo">Personal Information We Collect</a></li>
+                        <li><a data-scroll="" href="#otherUser">Other User Information We Collect</a></li>
+                        <li><a data-scroll="" href="#informationWe">Information We Receive from Third Parties</a></li>
+                        <li><a data-scroll="" href="#friendReferrals">Friend Referrals</a></li>
+                        <li><a data-scroll="" href="#communityFeatures">Community Features and User Content</a></li>
+                        <li><a data-scroll="" href="#thirdParty">Third-Party Links</a></li>
+                        <li><a data-scroll="" href="#advertisingNetworks">Advertising Networks and Analytics Companies</a></li>
+                        <li><a data-scroll="" href="#cookiesAnd">Cookies and Similar Technologies</a></li>
+                        <li><a data-scroll="" href="#socialFeatures">Social Features</a></li>
+                        <li><a data-scroll="" href="#sharing">Sharing</a></li>
+                        <li><a data-scroll="" href="#businessTransitions">Business Transitions</a></li>
+                        <li><a data-scroll="" href="#digitalFingerprinting">Digital Fingerprinting</a></li>
+                        <li><a data-scroll="" href="#updatingYour">Updating Your Information; Choice/Opt-out</a></li>
+                        <li><a data-scroll="" href="#notificationOf">Notification of Changes</a></li>
+                        <li><a data-scroll="" href="#childrensPrivacy">Children's Privacy</a></li>
+                        <li><a data-scroll="" href="#automatedDecision">Automated Processing</a></li>
+                        <li><a data-scroll="" href="#security">Security</a></li>
+                        <li><a data-scroll="" href="#locationOf">Location of Processing and Applicable Law</a></li>
+                        <li><a data-scroll="" href="#contactUsPrivacy">Contact Us</a></li>
+                    </ol>
+                    <hr><br>
+                    <h3 id="personalInfo">1. <span>Personal Information We Collect</span></h3>
+                    <p>When you visit or use any of the iGain Sites and Features or our Services, you may be required to share information that identifies you personally. "Personal Information" refers to any information that can reasonably be used to identify, contact or locate you. Examples of Personal Information may include, without limitation, your name, your location, your credit card number, your email address, your mailing address, and your phone number.  We also collect profile data (like occupation, shopping habits, hobbies, interests, product ownership and other areas of interest) as certain elements of our Services may be directed to those participants who meet a particular profile.</p>
+                    <p>Generally, we collect Personal Information when you provide it to us by visiting the iGain Sites and Features or using our Services. This may include registering for any account with us, filling out surveys, joining a mailing list, corresponding with us, entering one of our sweepstakes or contests, choosing to submit testimonials, stories, photos or the like, or otherwise volunteering or providing information about yourself.</p>
+                    <p>We may use your Personal Information and other information we collect about you in order to provide you with our Services, to improve the iGain Sites and Features, to provide advertising, content, surveys, offers, promotions, and rewards, and for other marketing, administrative and general business purposes as described in this Privacy Policy.</p>
+                    <p>If you don't provide us with your Personal Information, we will generally be unable to provide you with our Services and you will be unable to use the iGain Sites and Features.</p>
+                    <p>You have the right to access your personal data to correct or delete it at any time.  All personal data can be found under the "account" section of the applicable website you are a member of, or you can make a request directly via <a href="mailto:privacy@igain.com" target="_blank">privacy@igain.com</a>, at which time you may request a copy or deletion of your personal data.</p>
+                    <br>
+                    <h3 id="otherUser">2. <span>Other User Information We Collect</span></h3>
+                    <p>We may collect certain other information each time you visit iGain Sites and Features or use our Services so we can improve the overall quality of your online experience. This kind of information is not ordinarily considered personally identifying information. For example, we collect or may collect your IP address, device ID, referrer data, and browser and platform type. You do not have to register on any of the iGain Sites and Features or provide any Personal Information to us before we can collect this information. We may assign an ID number to your registration and link additional data to that ID number, such as the date and time you visited, the information you provide, and the links you choose to click. Like most standard website servers, we use log files to collect and store this user information. We may analyze and use this information for a variety of purposes, including operating and improving the iGain Sites and Features or our Services, collecting further information about and learning from user behavior and trends, and gathering demographic information. Furthermore, we may combine or link information we collect from or about you offline with information we collect from or about you online through the iGain Sites and Features or your use of our Services.</p>
+                    <p>We may also use GPS or similar geo-location technology to determine the city and/or geo-coordinates of where you are located, including when you are using a mobile device. As noted in the section on "Sharing" below, we may use and share your location information with our advertisers, merchant and survey partners, or others in order to provide you with advertising, content, surveys, offers, promotions, and rewards, or for other marketing, administrative and general business purposes, based on your location.</p>
+                    <p>In addition, our mobile applications may collect, among other things, certain information automatically, including, but not limited to the type of mobile device you use, your mobile device's unique device identifier (UDID), the IP address of your mobile device, your mobile operating system, the type of mobile Internet browsers you use, and information about the way you use the mobile application.</p>
+                    <br>
+                    <h3 id="informationWe">3. <span>Information We Receive from Third Parties</span></h3>
+                    <p>We may also receive and supplement the information we directly collect from or about you with information from third parties. If you are on a third-party website or service and you opt-in to receive information from us, the third party may forward to us your e-mail address and other information about you so that we may contact you as requested. In addition, we may receive information from advertisers, merchant or survey partners, and others to ensure that you properly receive any earned rewards or for other marketing, administrative or general business purposes. We may also supplement and combine the information we collect about you with outside records from third parties in order to enhance our ability to provide you with advertising, content, surveys, offers, promotions and rewards, and for other business purposes.</p>
+                    <br>
+                    <h3 id="friendReferrals">4. <span>Friend Referrals</span></h3>
+                    <p>We may provide you with an opportunity to invite your friends, family and acquaintances ("Friends") to use various iGain Sites and Features. If you elect to use our referral service for informing a Friend about any of the iGain Sites and Features, you will provide us with your Friend's name and email address. Using our referral service permits us to automatically send the Friend one or more emails or other communications, on your behalf, inviting them to visit or register for the iGain Sites and Features (which invite may include additional subsequent reminders and communications). You warrant and represent that you have your Friend's consent to provide us with his or her information for this purpose, and that you will not give us referral information for any person not permitted to use the iGain Sites and Features, including, without limitation a child under the age of 13, a person whose account has previously been suspended or deactivated, or a person residing or located in a territory where use of the iGain Sites and Features is not authorized.</p>
+                    <br>
+                    <h3 id="communityFeatures">5. <span>Community Features and User Content</span></h3>
+                    <p>The iGain Sites and Features may provide you the opportunity to participate in and post text (including questions, comments, and suggestions), images, audio, videos, or other content (collectively, "User Content") publicly through our blogs, chat rooms, forums, interactive features, third-party social networking services or other communication functionality ("Community Features"). Please note that certain information, such as your username and profile picture, may be publicly displayed on the iGain Sites and Features along with your User Content. Your User Content may also contain metadata, which may contain information about or relating to you, that we may also collect, share and use.</p>
+                    <p>Note that anything you post through Community Features is public — others will have access to that User Content and may use it or share it with third parties. If you choose to voluntarily disclose Personal Information in the User Content, that information will be considered public information and the protections of this Privacy Policy will no longer apply to that information. In addition, by posting through our Community Features, you are agreeing that we may use your User Content and excerpts from your User Content in connection with our advertising, marketing, and promotional activities.</p>
+                    <br>
+                    <h3 id="thirdParty">6. <span>Third-Party Links</span></h3>
+                    <p>The iGain Sites and Features contain links to other websites that we do not own. In addition, because aspects of the iGain Sites and Features include third-party offers for goods, services and the like, third parties may collect your information based on your interaction with those offers. Third-party privacy practices are not covered by this Privacy Policy, and we are not responsible for the privacy practices of such third parties. We encourage our users to be aware of and to read the privacy statements and similar disclosures of any third-party website that collects personally identifiable information before using or disclosing any personally identifiable information to such website.</p>
+                    <br>
+                    <h3 id="advertisingNetworks">7. <span>Advertising Networks and Analytics Companies</span></h3>
+                    <p>We may allow other companies, commonly called third-party ad servers or advertising networks (collectively, "ad networks"), to display advertisements on the iGain Sites and Features. These advertisements may be based on your interests as reflected in your use of the iGain Sites and Features or our Services, as well as your use of other websites and services. Some of these ad networks may place a persistent cookie or other similar technology on your computer, allowing them to recognize your computer each time they send you an online advertisement. In this way, ad networks may compile information about where you see their advertisements online and determine which ads you click on, so that they may provide you with advertising, content, surveys, offers, promotions, and rewards that they believe will be of most interest to you. We do not have access to or control over the cookies or other similar technologies that may be placed by these parties on your computer, nor do we have responsibility for these parties' privacy policies or information collection practices. Likewise, we may also work with consumer data resellers that buy and/or sell information to other companies for multiple purposes including offering products and services that may interest you, and we use certain third-party analytics providers to help us understand how you use the iGain Sites and Features or our Services, and these companies may set their own cookies and similar technologies on your computer or mobile device. These and other third parties may collect information about you, including but not limited to your online activities over time and across different websites and services, when you use the iGain Sites and Features or our Services, or other online websites and services. Third parties also  collect information in emails/communications. Each of these third parties has its own privacy policy that may differ from this Privacy Policy.</p>
+                    <p>We may share your Personal Information and other information with our advertisers, merchant and survey partners, and others for the purpose of making it easier for you to sign up for their surveys, promotions and offers, validating your communications or transactions with them, authenticating and/or validating your identification, crediting you with any earned rewards, and other business purposes. Additionally, we may share information with our service providers and other third parties to assist us in delivering content, advertising, surveys, offers, promotions and rewards to you, both on the iGain Sites and Features and elsewhere online, and for other marketing, administrative and general business purposes.</p>
+                    <br>
+                    <h3 id="cookiesAnd">8. <span>Cookies and Similar Technologies</span></h3>
+                    <p>In addition to the ad networks, we may set (or allow third parties to set) and access cookies and other similar technologies, such as web beacons and embedded scripts, on your computer. A cookie is a small data file that a website may send to your browser and which may then be stored on your system. We use both session cookies and persistent cookies. For the session cookie, once you close the browser, the cookie terminates. A persistent cookie is a small text file stored on your hard drive for an extended period of time. Persistent cookies can be removed or disabled by following the web browser help-file directions for your particular browser. We also use Flash cookies, which are data files placed on a computer or mobile device via the Adobe Flash plug-in (or other compatible Flash plugin) that may be built-in to or downloaded by you. Flash cookies may be used for various purposes, including, without limitation, enabling a Flash feature and remembering your preferences. For more information about Flash and the privacy choices Adobe offers, visit <a href="http://www.macromedia.com/support/documentation/en/flashplayer/help/settings_manager.html" target="_blank">http://www.macromedia.com/support/documentation/en/flashplayer/help/settings_manager.html</a>. Web beacons and embedded script are invisible images or other programming code, which may be used on the iGain Sites and Features for a variety of analytical purposes and to help us provide a better and more customized user experience, including, without limitation, providing personalized features and preferences to you within the iGain Sites and Features; in doing so, we may link the information we collect from cookies and other similar technologies with your Personal Information and may track your browsing activity on our merchant partners' websites in order to provide you with advertising, content, surveys, offers, promotions and rewards, and for other marketing, administrative and general business purposes.</p>
+                    <p>Most web browsers automatically accept cookies, but you can usually configure your browser to prevent this. To opt-out of certain cookies and for more information, please visit <a href="http://www.aboutads.info/choices" target="_blank">http://www.aboutads.info/choices</a> and/or <a href="http://www.networkadvertising.org/managing/opt_out.asp" target="_blank">http://www.networkadvertising.org/managing/opt_out.asp</a>. Not accepting or opting out of our cookies may make certain features of the iGain Sites and Features and our Services unavailable to you.</p>
+                    <p>Note that your browser settings may allow you to automatically transmit a "Do Not Track" signal to websites and online services you visit. At present, we do not believe that there is a consensus among industry participants as to what "Do Not Track" means in this context. Like many websites and online services, we currently do not alter our practices when we receive a "Do Not Track" signal from a user's browser. To find out more about "Do Not Track," you may wish to visit <a href="http://www.allaboutdnt.com" target="_blank">http://www.allaboutdnt.com</a>.</p>
+                    <p>We may allow other companies, commonly called third-party ad servers or advertising networks (collectively, "ad advertisingNetworks"), to display advertisements on the iGain Sites and Features. These advertisements may be based on your interests as reflected in your use of the iGain Sites and Features or our Services, as well as your use of other websites and services. Some of these ad networks may place a persistent cookie or other similar technology on your computer, device, or directly in our emails/communications, allowing them to recognize your computer each time they send you an online advertisement.</p>
+                    <p>We have partnered with Survey Sampling International, LLC ("SSI") to provide you with additional survey opportunities for you to earn our rewards. In connection with this partnership, we will pass certain personal data and social/demographic information to SSI for use in connection with the purposes set forth in its privacy policy <a href="https://www.rnssiprivacy.com/" target="_blank">available here.</a></p>
+                    <br>
+                    <h3 id="socialFeatures">9. <span>Social Features</span></h3>
+                    <p>Certain functionality on the iGain Sites and Features may permit interactions that you initiate between the iGain Sites and Features and a third-party website or service, such as Facebook and Twitter ("Social Features"). Examples of Social Features include enabling you to "like" or "share" content from the iGain Sites and Features with other websites or services; to log-in to the iGain Sites and Features using your username and password for a third-party website or service; to transmit content to the iGain Sites and Features from your account on a third-party website or service; and to otherwise connect the iGain Sites and Features to a third-party website or service.</p>
+                    <p>If you choose to use Social Features, information you post or provide access to will be shared with that third-party website or service and others and may be publicly displayed on the iGain Sites and Features or by the provider of the Social Feature that you use. Similarly, if you post information on a third-party platform that references any of the iGain Sites and Features (e.g., by using a hashtag associated with any of the iGain Sites and Features in a tweet or status update), your post may be published on the iGain Sites and Features in accordance with the terms of the third-party website or service. Also, both we and the third party may have access to certain information about you and your use of the iGain Sites and Features and the third-party website or service. In addition, we may receive information about you if other users of a third-party website give us access to their profiles and you are one of their "connections," or information about you is otherwise accessible through your connections' web pages, profile pages, or similar pages on a social networking or other third-party website or service.</p>
+                    <p>The information we collect in connection with Social Features is subject to this Privacy Policy. The information collected and stored by the third-party website or service via Social Features remains subject to the third party's privacy practices, including whether the third party continues to share information with us, the types of information shared, and your choices with regard to what is visible to others on that third-party website or service.</p>
+                    <br>
+                    <h3 id="sharing">10. <span>Sharing</span></h3>
+                    <p>In addition to the types of sharing described throughout this Privacy Policy, we may disclose your Personal Information and other information as described in this section.</p>
+                    <p>We may disclose your Personal Information when required by law, or where we have a good-faith belief that such action is necessary to comply with a judicial or administrative proceeding, a criminal investigation, a court order, or legal process served on us. We may also share your Personal Information at the request of governmental authorities conducting an investigation, or if we believe it is necessary in order to investigate, prevent, or take action regarding illegal activities, suspected fraud, situations involving potential threats to the physical safety of any person, or violations of the Terms of Use or Privacy Policy for any of the iGain Sites and Features or our Services. We may also use IP addresses or other device identifiers to identify users, and we may do so in cooperation with copyright owners, Internet service providers, wireless service providers, or law enforcement agencies in our discretion. These transfers and disclosures may occur without notice to you.</p>
+                    <p>We may also share your Personal Information with our affiliates for administrative, marketing and other business purposes, and with third-party service providers in connection with the service providers' performance of services to, or on behalf of, the iGain Sites and Features or our Services. Such services include, for example, customer support, collecting and analyzing information about usage of the iGain Sites and Features or our Services, delivering advertising, content, surveys, offers, promotions and rewards to you on the iGain Sites and Features or elsewhere online, processing payments, and performing other administrative, marketing and other business services.</p>
+                    <p>In addition, if you use our mobile applications, we may share your current location with our partners so that we or our partners may provide you with advertising, content, surveys, offers, promotions, and rewards, and for other business purposes, based on your location. Please see the section on "Updating Your Information; Choice/Opt-Out" below for information about how you can opt out of such sharing.</p>
+                    <p>We may share aggregate or individualized information that may include your use of the iGain Sites and Features or our Services and our merchant partners' websites, with our advertisers, merchant and survey partners, and others for the purpose of providing you with advertising, content, surveys, offers, promotions, and rewards, and for other marketing, administrative and general business purposes, and we may also receive from ad networks information about third-party websites that you have visited.</p>
+                    <p>The information about you that we share with or receive from third parties may generally be used for marketing, administrative and other business purposes.</p>
+                    <br>
+                    <h3 id="businessTransitions">11. <span>Business Transitions</span></h3>
+                    <p>In the event the Company (or any of its affiliates) goes through a business transition, such as a merger, consolidation, restructuring, acquisition by another company, sale or assignment of rights or assets or a portion thereof, or other company change, we may transfer users' information, including Personal Information, and other business data in connection with that business transition (e.g., to a subsequent owner, co-owner, or operator of any of the iGain Sites and Features, or any affiliates and trusted agents, service providers, or partners of the foregoing), including during the course of any due diligence process.</p>
+                    <br>
+                    <h3 id="digitalFingerprinting">12. <span>Digital Fingerprinting</span></h3>
+                    <p>We may use digital fingerprinting technologies to assign a unique identifier or "Machine-ID" to a user's computer to identify and track the computer. iGain works principally with a third-party provider to deploy this technology (the "Technology") and does not use it to collect personally identifiable information, or track the online activities, of the user of a computer; and will not disrupt or interfere with the use or control of a computer or alter, modify or change the settings or functionality of a computer. We use the unique identifier to assist our clients in ensuring the integrity of survey results. The third-party provider analyzes publicly available information and data obtained from the computer's web browser and from other publicly available data points, including without limitation the technical settings of the computer, the characteristics of the computer, and the computer's IP Address, to create a unique identifier assigned to the computer. The unique identifier is an alpha-numeric id. After creating the unique identifier, we do not retain the information analyzed by the Technology to create the unique identifier. Additionally, to assist our clients in protecting and ensuring the integrity of survey results, we (a) may link or associate your unique identifier to you and any of your personally identifiable information; (b) may share your unique identifier with our clients and with other sample or panel providers; and (c) may receive or obtain a unique identifier linked to you from a third party, including without limitation a sample or panel provider or a client of iGain. Any unique identifier(s) received or obtained by iGain and linked to a specific individual will be protected in accordance with this Privacy Policy.</p>
+                    <br>
+                    <h3 id="updatingYour">13. <span>Updating Your Information; Choice/Opt-out</span></h3>
+                    <p>You are responsible for maintaining the accuracy of any information you submit to us, such as your contact information.</p>
+                    <p>Members can unsubscribe from our Services at any time, no questions asked, and you can withdraw any previously supplied consent.  Every survey invitation we send is coded with a special footer that allows you to cancel your membership in iGain automatically by clicking a link provided in the message. In addition, you can discontinue your iGain membership by visiting the Member Section found at the applicable site you registered with, igain.com, earningstation.com, or vindale.com and following any instructions. You have the right to access, modify, restrict the processing of, object to the processing of, or have your personal information transmitted to another data controller, and to have your personal information deleted from our site. To exercise these rights, please visit the Member Section found at the applicable site you registered with, igain.com, earningstation.com, or vindale.com and follow any instructions.  You may also exercise these rights by contacting our Data Protection Officer at the address or email listed in this Notice. We will respond to your request within 30 days. Upon unsubscribing from our Service, or if you revoke any previously given consent, we will deactivate your membership account and you will not receive any further survey invitations; although you may continue to receive some previously prepared survey invitations for a few days following the termination of your membership. After unsubscribing or revoking your consent, we will retain your personal information for a period of [180 days]; however, we will continue to protect such personal information in accordance with this Privacy Policy during that time. Please note we will not be able to delete data that has been technologically archived in our backup systems, but we can delete current live information in our database.</p>
+                    <p>You may opt out of receiving marketing e-mails by following the opt-out instructions provided to you in those e-mails, by visiting "My Settings", "Settings" or similar link on the relevant iGain Site, or by contacting us as provided in the "Contact Us" section below. Please note that as long as you remain registered with or a user of any of the iGain Sites and Features or our Services, even if you opt-out of marketing emails, you may still receive administrative emails, such as notices about service and status changes and changes to our Terms of Use or Privacy Policy.</p>
+                    <p>Certain advertising networks and exchanges may participate in the Digital Advertising Alliance ("DAA") AdChoices Program and may display an Advertising Option Icon for interest-based ads. You can learn more about the DAA AdChoices Program here: <a href="http://www.youradchoices.com" target="_blank">http://www.youradchoices.com</a>. In addition, certain advertising networks and exchanges may participate in the Network Advertising Initiative (NAI). The NAI has developed a tool that allows consumers to opt out of targeted advertising delivered by NAI members' ad networks. To learn more about opting out of targeted advertising or to use the tool, click here: <a href="http://www.networkadvertising.org/choices" target="_blank">http://www.networkadvertising.org/choices</a>.</p>
+                    <p>You may opt-out of providing your location information to us when you are using mobile devices. If you do not want us to use your location information as described in this Privacy Policy, you should turn off the location services for the mobile application located in your account settings (if available) or in your mobile device settings.</p>
+                    <p>If you do not want our mobile applications to collect any information from you, you should uninstall the application using the standard uninstall procedures that may be available as part of your mobile device or via the mobile application marketplace or network where you obtained the mobile application.</p>
+                    <br>
+                    <h3 id="notificationOf">14. <span>Notification of Changes</span></h3>
+                    <p>We reserve the right to make changes to this Privacy Policy from time to time. If we decide to change this Privacy Policy, we will provide notice of such changes by sending you an administrative email and/or posting those changes in places on the iGain Sites and Features deemed appropriate by us so our users are always aware of what information we collect, how we use it, and under what circumstances it may be shared with others. Your continued use of any of the iGain Sites and Features or our Services after delivery of the administrative email to you or after the changes are posted constitutes your agreement to the changes. If you do not agree to the changes, please discontinue your use of such iGain Sites and Features and our Services. To the extent that an arbitrator or court of applicable jurisdiction determines that applying any changes to this Privacy Policy to any prior events or circumstances would render this an illusory or unenforceable contract, such changes shall be applicable on a prospective basis only, with respect to events or circumstances occurring after the date of such changes, to the extent necessary to avoid this Privacy Policy being deemed illusory or unenforceable. In any event, if any Personal Information was previously submitted to or collected by us pursuant to an earlier version of this Privacy Policy that required a certain notice period prior to any changes being effective, any changes under this Privacy Policy will not be effective as to you or such previously-collected Personal Information until the previously-specified notice period has passed after the date of this Privacy Policy.</p>
+                    <br>
+                    <h3 id="childrensPrivacy">15. <span>Children's Privacy</span></h3>
+                    <p>The iGain Sites and Features and our Services are general audience websites and services and we do not knowingly collect any Personal Information from children younger than the age of 13. If you are under 18, you should use the iGain Sites and Features and our Services only with involvement of a parent or guardian. If you are under 13, you should not submit any Personal Information to us. If we learn that we have inadvertently collected Personal Information from a child younger than 13, we will take commercially reasonable efforts to delete such Personal Information from our databases.</p>
+                    <br>
+                    <h3 id="automatedDecision">16. <span>Automated Decision Making / Profiling</span></h3>
+                    <p>We use a combination of automated business rules and statistical algorithms to review your personal information in order to present you with offers, surveys and other features within the iGain sites and our Services for which you are most likely to qualify and most likely to enjoy.</p>
+                    <br>
+                    <h3 id="security">17. <span>Security</span></h3>
+                    <p>We maintain security measures in place in order to attempt to protect against the loss, misuse and alteration of the Personal Information under our control. Please be advised, however, that the Internet and other various networking communication media are not entirely secure, and your information may therefore be subject to interception or loss which is beyond our reasonable control. While we strive to protect your Personal Information, we cannot ensure or warrant the security of any Personal Information you transmit to us, and any transmission is done at your own risk. Accordingly, we assume no responsibility or liability for disclosure of your Personal Information or other information due to errors in transmission, unauthorized third-party access or other causes beyond our reasonable control.</p>
+                    <br>
+                    <h3 id="locationOf">18. <span>Location of Processing and Applicable Law</span></h3>
+                    <p>Although we generally maintain our user data in the United States, it is possible that some of the data processing may occur outside of the United States, carried out by companies or individuals under contract with us. While the data protection laws of these countries may vary, we will make every reasonable effort to protect your Personal Information under this Privacy Policy. By using the iGain Sites and Features and our Services, you consent to this transfer of your personal data to any server used by the Company or its service providers from time to time.</p>
+                    <p>If you are not a resident of the United States, please be aware that data protection laws in the United States and other countries (as well as the legal procedures for courts, governmental authorities, and parties in civil litigation to obtain access to our user data) may differ substantially from the laws and procedures in your country of residence. If you are located in a country outside the United States and submit Personal Information to us, you are consenting to the transfer, processing, storage and use of that information in the United States as provided in this Privacy Policy.</p>
+                    <p>The interpretation and application of this Privacy Policy shall be governed by the laws of the United States and the State of Massachusetts without regard to its conflict of law provisions. Your use of the iGain Sites and Features or our Services are not intended to subject us to the laws or jurisdiction of any state, country or territory other than that of the United States.</p>
+                    <br>
+                    <h3 id="contactUsPrivacy">19. <span>Contact Us</span></h3>
+                    <p>If you have any questions or concerns regarding this Privacy Policy or your use of any iGain Sites and Features or our Services, please contact us by using the "Contact Us", "Contact Member Services" or similar contact link in the footer of any of the iGain Sites, or by mail to: iGain, LLC, 400 Trade Center, Suite 4960, Woburn, MA 01801; Attention: Customer Service or at:</p>
+                    <br>
+                    <ul class="list-unstyled">
+                        <li>Critical Mix/iGain</li>
+                        <li>Attn: Jonathan A. Flatow, Data Protection Officer</li>
+                        <li><a href="mailto:privacy@igain.com" target="_blank">privacy@igain.com</a></li>
+                        <li>53 Riverside Avenue</li>
+                        <li>Westport, CT 06880</li>
+                        <li>Phone: <a href="tel:1-888-511-4259">1-888-511-4259</a></li>
+                    </ul>
+                </div>
+            </div>
         </div>
     </div>
-    <div class="section">
-        <div class="container" style="max-width: 560px;">
-        <div style="float:right; padding:  0 2em 2em 3em; margin-right: 1em;">
-            	<a href="https://privacy.truste.com/privacy-seal/validation?rid=0f3337cc-aeb8-4271-a726-bb52f7628ffe" target="_blank"><img style="border: none" src="https://privacy-policy.truste.com/privacy-seal/seal?rid=0f3337cc-aeb8-4271-a726-bb52f7628ffe" alt="TRUSTe"></a>
-        	</div>
-        <p>This privacy policy applies to http://www.vindale.com owned and operated by Vindale Media, LLC ("Vindale Research", "we", "us", "our"). This privacy policy describes how Vindale Research collects and uses the personal information you provide on our web site: http://www.vindale.com. It also describes the choices available to you regarding our use of your personal information and how you can access and update this information</p>
-            <p>If you have an unresolved privacy or data use concern that we have not addressed satisfactorily, please contact our U.S.-based third party dispute resolution provider (free of charge) at <a href="https://feedback-form.truste.com/watchdog/request" target="_blank">https://feedback-form.truste.com/watchdog/request</a>.</p>
-            <p><b>Information collected and used by Vindale Research</b><br>
-            Vindale Research collects user-submitted information including name, email address, phone number and date of birth to verify new accounts and send notifications regarding Vindale Research's services. Vindale Research collects additional optional data that is included in member profiles. This data includes but is not limited to: occupation, interests, school affiliations, gender, and address.</p>
-            <p>We collect your location-based information using your IP address for the purpose of locating survey and advertising opportunities available in your area. We will only share this information with our mapping provider for the sole purpose of providing you this service.</p>
-            <p>You may opt-out of location based services at any time by editing the setting at the device level or by emailing us at <a href="mailto:privacy@vindale.com">privacy@vindale.com</a></p>
-            <p><b>Use of information members submit to Vindale Research</b></p>
-            <p>Email addresses are used to send notifications related to the service(s) the user has signed up for, as a confirmation when a Vindale Research member has requested to add another member as a friend, and to invite new friends to join Vindale Research. A user may choose to stop receiving email notifications from Vindale Research at any time by clicking the unsubscribe link at the bottom of the email. When the user sends email or other communication to Vindale Research, Vindale Research may retain those communications in order to process the user's inquiries, respond to the user's requests and improve Vindale Research's services.</p>
-            <p>Vindale Research provides members with the opportunity to upload a self-portrait and/or a testimonial of our service. We will not sell, share or publish your personal information, but reserve the right to use your first name, last initial, city and state for our testimonials. If you would like your self-portrait and/or testimonial to remain confidential, please express your intention clearly when you submit your self-portrait and/or testimonial. The specific use of your personal information will be defined at the point of collection. Should Vindale Research wish to change anything regarding the use of your personal information, a prominent notice will be displayed on this website. If you want your testimonial removed please contact us at <a href="mailto:privacy@vindale.com">privacy@vindale.com</a></p>
-            <p>Vindale Research offers publicly accessible blogs or community forums. You should be aware that these are public forums and any information you provide may be read, collected, and used by anyone, including non-members and third-party hosting services. Commenters may register anonymously. However, be aware that if a commenter posts something in violation of our terms, we may remove the comment, and if the comment violates US law, we may be required to disclose the commenter's contact information. You should be aware that any information you provide in these areas may be read, collected, and used by others who access them. To request removal of your personal information from our blog or community forum, contact us at <a href="mailto:privacy@vindale.com">privacy@vindale.com</a>. In some cases, we may not be able to remove your personal information, in which case we will let you know if we are unable to do so and why.</p>
-            <p><b>Frames</b></p>
-            <p>Some of our pages utilize framing techniques to serve content to/from our partners while preserving the look and feel of our website. Please be aware that you are providing your personal information to these third parties and not to www.vindale.com.</p>
-            <p><b>Social Media (Features) and Widgets</b></p>
-            <p>Our Web site includes Social Media Features, such as the Facebook Like button and Widgets, such as the Share this button or interactive mini-programs that run on our site. These Features may collect your IP address, which page you are visiting on our site, and may set a cookie to enable the Feature to function properly. Social Media Features and Widgets are either hosted by a third party or hosted directly on our Site. Your interactions with these Features are governed by the privacy policy of the company providing it.</p>
-            <p><b>Use of non-personal information</b></p>
-            <p>As is true of most websites, we gather certain information automatically and store it in log files. This information may include Internet protocol (IP) addresses, browser type, internet service provider (ISP), referring/exit pages, operating system, date/time stamp, and/or clickstream data.</p>
-            <p>We may combine this automatically collected log information with other information we collect about you. We do this [to improve services we offer you, to improve marketing, analytics, or site functionality.</p>
-            <p>Demographic information you provide such as age, postal code, gender and country of residence may be used to target surveys, advertisements and special offers. In cases where advertisements are being displayed by a third-party, non-personal information may be passed to the third-party to allow for targeting.</p>
-            <p><b>Sharing of collected information with third parties</b></p>
-            <p>Except in the cases outlined hereunder or where members have granted permission via an opt-in process, Vindale Research does not sell, rent, share, trade or give away any of your personal information to third parties. Vindale Research does share (i) personal information and (ii) non-personally-identifiable information with third parties for the purpose of delivering targeted advertising, surveys, products and services to members. These third parties are authorized to use your personal information only as necessary to provide these services to us. Vindale Research reserves the right to share personal and non-personal information with (i) a parent or subsidiary, (ii) an acquirer of assets, or (iii) a successor by merger.</p>
-            <p>If Vindale Research is involved in a merger, acquisition, or sale of all or a portion of its assets, you will be notified via email and/or a prominent notice on our Web site of any change in ownership or uses of your personal information, as well as any choices you may have regarding your personal information.</p>
-            <p><b>Communications to Non-members</b></p>
-            <p>When members choose to use Vindale Research's Invite-a-Friend service, the member is prompted to input their friend's email address. Vindale Research will automatically send an email to that address with a message inviting the recipient to join the Vindale Research community. Vindale Research stores these email addresses for the purpose of automatically adding the invitee to the member's friend list upon signing up. Vindale Research will not send more than one follow up email to an invitee for any given peer referral. Should the invitee explicitly decline to join Vindale Research and opt out of receiving any future emails, Vindale Research will cease to send the receiver any future emails, even if additional peer referrals are given.</p>
-            <p><b>Use of Cookies and Other Tracking Technologies</b></p>
-            <p>We, Vindale Research, and our marketing and research partners, affiliates, or analytics or service providers (customer support, social media, web security), use technologies such as cookies, beacons, tags, and scripts, to analyze trends, administer the website, tracking users’ movements around the website, and to gather demographic information about our user base as a whole. We may receive reports based on the use of these technologies by these companies on an individual and aggregated basis.</p>
-            <p>Vindale Research uses cookies to manage sessions on the site, remember user preferences, and to ensure members do not continually see the same advertisements. Cookies must be enabled in order for members to use Vindale Research services. Information stored in cookies will never contain any personal information. We do link the information we store in cookies to any personal information you submit while on our site. Third parties also place scripts and cookies on our site such as analytics providers. This data is only collected in the aggregate.</p>
-            <p>We use Local Storage, such as HTML5, to store content information and preferences. Third parties with whom we partner to provide certain features on our website or to display advertising based upon your web browsing activity also use HTML5 to collect and store information. Various browsers may offer their own management tools for removing HTML5.</p>
-            <p><b>Links</b></p>
-            <p>Vindale Research contains links to other websites. Vindale Research is in no way responsible for the privacy practices employed by other sites. Such websites may independently collect data, solicit personal information, or send their own cookies to your computer. Vindale Research is not responsible for any use of the information, including click-stream data, and you may create and disclose when visiting such third party sites. This privacy policy applies solely to information collected by Vindale Research. We encourage you to carefully read the privacy policy of any website you visit.</p>
-            <p><b>Single Sign On</b></p>
-            <p>You can log in to our site using sign-in services such as Facebook Connect or an Open ID provider. These services will authenticate your identity and provide you the option to share certain personal information with us such as your name and email address to pre-populate our sign up form. Services like Facebook Connect give you the option to post information about your activities on this Web site to your profile page to share with others within your network.</p>
-            <p><b>Correcting/updating information</b></p>
-            <p>Upon request Vindale Research will provide you with information about whether we hold any of your personal information. If your personal information changes or if you wish to cancel your account or request that we no longer use your information to provide you services, you may update or remove your personal information by logging in to Vindale Research and editing your account profile or by contacting us at <a href="mailto:privacy@vindale.com">support@vindale.com</a>. We will respond to your request within a reasonable timeframe.</p>
-            <p>The user may also request a copy of the personal information Vindale Research has on record for their account by sending a self-addressed., stamped envelope to the following address:</p>
-            <p><i>Vindale Research<br>
-            Attn: User Privacy<br>
-            243 Fifth Avenue, Suite 541<br>
-            New York, NY 10016</i></p>
-            <p>We will retain your information for as long as your account is active or as needed to provide you services. We will retain and use your information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements.</p>
-            <p><b>Legal Disclosure</b></p>
-            <p>In certain situations, Vindale Research may be required to disclose personal data in response to lawful requests by public authorities, including to meet national security or law enforcement requirements. We reserve the right to disclose your personal information as required by law, such as to comply with a subpoena, judicial proceedings, or similar legal process and when we believe that disclosure is necessary to protect our rights, protect your safety or the safety of others, investigate fraud or respond to a government request.</p>
-            <p><b>Security</b></p>
-            <p>All Vindale Research member accounts are password-protected. Vindale Research goes to great lengths to protect the information our members have provided us. Our entire site is protected using information using secure socket layer technology (SSL). Access to this information is limited to only the employees who need it in order to perform their job function (e.g. Customer Service Representatives). Please note that while Vindale Research employs the best commercially reasonable measures of security, we do not guarantee account security. Hardware/software failure, unauthorized access, and other factors may lead to a breach in Vindale Research security. Should you have any questions regarding this, please contact us.</p>
-            <p>We follow generally accepted industry standards to protect the personal information submitted to us, both during transmission and once we receive it. No method of transmission over the Internet, or method of electronic storage, is 100% secure, however.</p>
-            <p><b>Email choice/opt-out</b></p>
-            <p>Should a member of Vindale Research wish to stop receiving notification emails from the site, or cancel their membership to the site altogether, they can log on and make the required changes to their account profile, under "email preferences". There are also instructions on how to opt out of receiving future emails included at the bottom of every email sent from Vindale Research. Vindale Research will honor all requests for cancellation, and you will not receive any more emails within 10 business days of your request.</p>
-            <p>Requests for opting out of receiving emails or account cancellation may also be sent by mail or over the phone. Vindale Research will honor these requests within 10 business days. All such requests are considered final and the user will not receive any further emails from Vindale Research unless explicit permission is granted at a later date.</p>
-            <p><b>Third party advertising</b></p>
-            <p>A portion of the advertisements seen on Vindale Research are delivered to users by third-party advertising partners. These partners may use technologies such as cookies when showing ads to users. These cookies may be used to determine which site the advertiser's advertisement was displayed on and whether or not the user interacted with the advertisement. This information helps advertising partners deliver targeted advertisements that will be most relevant to you. These cookies are not linked to personal information. Vindale Research does not have access to the cookies placed by third parties. Vindale Research privacy policy applies only to Vindale Research and does not apply to use of cookies by any third parties. If you wish to not have this information used for the purpose of serving you targeted ads, you may opt-out by clicking <a href="http://www.networkadvertising.org/managing/opt_out.asp" target="_blank">here</a>. Please note this does not opt you out of being served advertising. You will continue to receive generic ads.</p>
-            <p><b>Changes in our privacy policy</b></p>
-            <p>If we decide to change our privacy policy, we will post those changes to this privacy policy, the home page, and other places we deem appropriate so that you are aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it.</p>
-            <p>We reserve the right to modify this privacy policy at any time, so please review it frequently. If we make material changes to this policy, we will notify you here, by email (sent to the e-mail address specified in your account), or by means of a notice on our home page prior to the changes taking effect.</p>
-            <p><b>California Online Privacy Protection Act</b></p>
-            <p>Under California law, individual customers who reside in California and have provided personal information to Vindale Research may request information about our disclosing of certain categories of personal information to third parties for direct marketing purposes. These requests must be submitted to privacy@vindale.com. Within 45 days of receiving such a request, Vindale Research will provide a list of the types of information disclosed to third parties for direct marketing purposes during the immediately preceding calendar year and the names and addresses of those parties.</p>
-            <p>Individual customers who reside in California may also choose to opt out of providing information to third parties for direct marketing purposes by canceling their account at any time.</p>
-            <p>If you have any questions or comments about Vindale Research's Privacy Policy, please contact us using one of the methods below:</p>
-            <p><i>Vindale Research<br>
-                Attn: User Privacy<br>
-                243 Fifth Avenue, Suite 541<br>
-                New York, NY 10016<br><br>
-                Telephone: 1-855-846-3253<br>
-                Facsimile: 1-866-841-3898<br>
-                Email: <a href="mailto:privacy@vindale.com">privacy@vindale.com</a><br>
-                </i>
-            </p>
-            <br>
-            <p>EFFECTIVE AS OF <b>09/08/2016</b></p>
-        </div>
-    </div>
-</div></div>
 </div>
+<a class="back-link caps shadow invisible" data-scroll="" href="#tableOfContents"><span class="glyphicon glyphicon-chevron-up"></span></a>
+<script type="text/javascript" src="/v/scripts/smooth-scroll.min.js"></script>
+<script>
+    var scroll = new SmoothScroll('a[href*="#"]', {
+	       offset: 100
+    });
+    (function ($) {
+        $(function () {
+            // Check for partial visibility
+            $.fn.visible = function(partial) {
+            var $t            = $(this),
+                  $w            = $(window),
+                  viewTop       = $w.scrollTop(),
+                  viewBottom    = viewTop + $w.height(),
+                  _top          = $t.offset().top,
+                  _bottom       = _top + $t.height(),
+                  compareTop    = partial === true ? _bottom : _top,
+                  compareBottom = partial === true ? _top : _bottom;
+
+            return ((compareBottom <= viewBottom) && (compareTop >= viewTop));
+            };
+            // Show if visible
+            $(window).scroll(function(event) {
+                // var el = $('#privacyTrigger');
+                if ($('#privacyContainer').visible(true)) {
+                  $(".back-link").addClass("visible");
+                } else {
+                  $(".back-link").removeClass("visible");
+                }
+             });
+        });
+    })(jQuery);
+</script></div>
+</div>
+<div class="trustpilot-footer">
+    <!-- TrustBox widget - Horizontal -->
+    <div class="trustpilot-widget" data-locale="en-US" data-template-id="5406e65db0d04a09e042d5fc" data-businessunit-id="568e93180000ff0005875082" data-style-height="36px" data-style-width="100%" data-theme="dark">
+    <a href="https://www.trustpilot.com/review/vindale.com" target="_blank">Trustpilot</a>
+    </div>
+    <!-- End TrustBox widget -->
+</div>
+
     <div class="footer">
         <div class="container">
+            <script async="" src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+            <!-- Vindale Footer Banner -->
+            <ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-1345360910672015" data-ad-slot="1551062031" data-ad-format="auto" data-full-width-responsive="true"></ins>
+            <script>
+            (adsbygoogle = window.adsbygoogle || []).push({});
+            </script>
+
+            <br><br><br>
             <div class="footer-links">
                 <div class="col-md-3">
                     <h4><a class="collapsed" role="button" data-toggle="collapse" href="#col1" aria-expanded="true" aria-controls="col1">Get Started <img alt="Angle up" src="/v/images/global/angle-up.png"></a></h4>
@@ -358,7 +537,7 @@
                 <div class="col-md-3">
                     <h4><a class="collapsed" role="button" data-toggle="collapse" href="#col4" aria-expanded="true" aria-controls="col4">Support <img alt="Angle up" src="/v/images/global/angle-up.png"></a></h4>
                     <ul id="col4" class="list-unstyled collapse">
-                        <li><a id="guest-footer-help-home-link" href="/v/members/getHelp.jsp">Help Center</a></li>
+                        <li><a id="guest-footer-help-home-link" href="https://vindale.zendesk.com/hc/en-us">Help Center</a></li>
                         <li><a id="guest-footer-abuse-link" href="/v/abuse.jsp">Report Abuse</a></li>
                         <li><a id="guest-footer-contact-link" href="/v/contact.jsp">Contact Us</a></li>
                         <li><a id="guest-footer-faq-link" href="/v/faq.jsp">FAQ</a></li>
@@ -385,7 +564,7 @@
         <div class="clearfix"></div>
         <div class="copyright">
             <div class="container text-center">
-                    <p>© 2004-2017&nbsp;&nbsp;<a id="subfooter-about-link" href="http://www.vindale.com/v/about/" style="text-decoration:none;">Vindale Media, LLC</a>. <br class="visible-xs">All rights reserved. <br class="visible-xs"><br class="visible-xs">
+                    <p>© 2004-2019&nbsp;&nbsp;<a id="subfooter-about-link" href="http://www.vindale.com/v/about/" style="text-decoration:none;">iGain LLC</a>. <br class="visible-xs">All rights reserved. <br class="visible-xs"><br class="visible-xs">
                         <strong><a id="subfooter-terms-link" href="/v/terms.jsp">Terms</a></strong> |
                         <strong><a id="subfooter-privacy-link" href="/v/privacy.jsp">Privacy</a></strong> |
                         <strong><a id="subfooter-sitemap-link" href="/v/siteMap.jsp">Site Map</a></strong> &nbsp;&nbsp;
@@ -404,218 +583,15 @@
                 <a id="subfooter-truste-link" href="https://privacy.truste.com/privacy-seal/validation?rid=0f3337cc-aeb8-4271-a726-bb52f7628ffe" target="_blank"><img style="border: none;width:37%;" src="https://privacy-policy.truste.com/privacy-seal/seal?rid=0f3337cc-aeb8-4271-a726-bb52f7628ffe" alt="TRUSTe"></a>
             </div>
         </div>
-        <div id="fb-root"></div>
-<script type="text/javascript">
-
-    (function($) {
-
-        window.console = window.console || {log:function () {}};
-
-        var pane, isSignIn = false, contextPath = location.pathname.split("/")[1];
-
-//                fbImg = '<button class="button button-medium button-block button-facebook"><i class="icon-facebook"></i>Connect with facebook</button><br><br>',
-//                fbImg = '<img src="/' + contextPath + '/images/facebookConnect/connect.gif" style="padding:2px"/>',
-
-        var loadingImg = '<im' + 'g sr' + 'c="/' + contextPath + '/images/vindaleLoading.gif"/>';
-        var loadingFBStatus = $('<span style="text-align: center"><h2>Loading...</h2>' + loadingImg + '</span>');
-
-
-        var fbService = function(payload, cb) {
-            var o = $.extend({ref: '', pcid: ''}, payload);
-            $.ajax({type: 'POST', url: '/v/fb/service.jsp', data: {data: JSON.stringify(o)}, success: cb, contentType: 'application/x-www-form-urlencoded', dataType: 'json'});
-        };
-
-        var handleFBResult = function (result, contextPath, pane) {
-            var r = result.name;
-            var errorMessage;
-            if (r === 'validated') {
-                if (!pane.hasClass('nolabel')) {
-                    pane.html('Logging you in ...<br/><br/>' + loadingImg);
-                }
-
-                
-                window.location = '/' + contextPath + '/members/index.jsp';
-                
-            } else if (r === 'registered') {
-                if (!pane.hasClass('nolabel')) {
-                    pane.html('Finalizing your membership ...<br/><br/>' + loadingImg);
-                }
-
-                window.location = '/' + contextPath + '/doJoinFB.jsp?flr=' + encodeURIComponent(r) + '&url=' + encodeURIComponent('');
-            } else if (r === 'not_valid') {
-                errorMessage = "There was an issue connecting with Facebook. Please sign up below using your email address. After you sign up, we'll try again to connect your Facebook account to your Vindale account.";
-                window.location = '/' + contextPath + '/join.jsp?fb=0&message=' + encodeURIComponent(errorMessage);
-            } else if (r === 'missing_info') {
-                errorMessage = "There was an issue connecting with Facebook. Please sign in below using your email address and password. After you sign in, we'll try again to connect your Facebook account to your Vindale account.";
-                if (!pane.hasClass('nolabel')) {
-                    pane.html(errorMessage);
-                }
-                else {
-                    window.location = '/' + contextPath + '/sign-in.jsp?message=' + encodeURIComponent(errorMessage) + '&url=' + encodeURIComponent('');
-                }
-            } else if (r === 'link_login') {
-                errorMessage = "You've connected using Facebook. However, we need to make sure it's really you. Please sign in below using your email address and password. After you sign in, you'll be able to use Facebook to access Vindale.";
-                window.location = '/' + contextPath + '/sign-in.jsp?fb=0&message=' + encodeURIComponent(errorMessage) + '&url=' + encodeURIComponent('');
-            } else if (r === 'link_register') {
-                errorMessage = "You've connected using Facebook. However, we can't find your Vindale account. Please create a new Vindale account below. After you sign up, you'll be able to use Facebook to access Vindale.";
-                window.location = '/' + contextPath + '/join.jsp?fb=0&message=' + encodeURIComponent(errorMessage);
-            } else {
-                errorMessage = 'We could not sign you ' + (isSignIn ? 'in' : 'up') + ' with your Facebook account. Please try signing ' + (isSignIn ? 'in' : 'up') + ' using your email address and password.';
-                if (!pane.hasClass('nolabel')) {
-                    pane.html(errorMessage);
-                }
-                else {
-                    window.location = '/' + contextPath + '/error.jsp?message=' + encodeURIComponent(errorMessage);
-                }
-            }
-        };
-
-        var callback = function (response) {
-            ga('send', 'event', 'facebookAPI', 'response', response.status);
-            var connected = response.status == 'connected';
-            var label = '<h2>Or, sign-' + (isSignIn ? 'in' : 'up') + ' with facebook</h2>';
-            if (pane.hasClass('nolabel')) {
-                label = '';
-            }
-            var signinForm = $('<div id="fbSignIn">' + label + '<div><div id="fbButton"><a href="javascript:void(0);" id="fbSignInAnchor">' + '<button class="button button-fb button-block button-large fb-button btn-fb-init btn-large" type="button"><div class="fb-logo"></div>Facebook Connect</button>' + '</a>' +
-                    (!connected ?
-                            '<br><div id="terms"><small>By clicking Connect, you confirm you read and agree to the <a href="#terms" onclick="window.open(\'/v/terms.jsp\',\'terms\',\'menubar=yes,scrollbars=yes,resizable=no,width=600,height=400\'); return false;">Terms</a> and <a href="#privacy" onclick="window.open(\'/v/privacy.jsp\',\'privacy\',\'menubar=yes,scrollbars=yes,resizable=no,width=600,height=400\'); return false;">Privacy policy</a></small></div>' :
-                            ''
-                            ) + '</div></div></div>');
-            var existing = $('.fb-button');
-            var clicker = '#fbSignInAnchor';
-            if (existing.length) {
-                if ( !pane.hasClass('noButton') )
-                {
-                    pane.html(existing.html()).show();
-                }
-                clicker = '.fb-button';
-            } else {
-                if ( !pane.hasClass('noButton') )
-                {
-                    pane.html(signinForm).show();
-                }
-            }
-
-            $(document).on('click', clicker, function () {
-                var fbAction = isSignIn ? 'login' : 'register';
-                ga('send', 'event', 'facebookAPI', fbAction, 'click');
-
-                var pane = $('#facebookPane');
-                pane.css('text-align', 'center');
-                if ( !pane.hasClass('noLoading') )
-                {
-                    if (!pane.hasClass('nolabel')) {
-                        pane.html('Please wait while we' + (isSignIn ? ' sign you in ' : ' set up your account ') + '...<br/>' + loadingImg);
-                    } else {
-                        pane.html(loadingImg);
-                    }
-                }
-
-                if (connected) {
-                    fbService({action: isSignIn ? 'login' : 'register', res: isSignIn ? response : response.authResponse}, function (result) {
-                        handleFBResult(result, contextPath, pane);
-                    });
-                } else {
-                    FB.login(function (loginResponse) {
-                        if (loginResponse.status == 'connected') {
-                            if (isSignIn) {
-                                fbService({action: 'login', res: loginResponse}, function (result) {
-                                    handleFBResult(result, contextPath, pane);
-                                });
-                            } else {
-                                fbService({action:'register', res:loginResponse.authResponse}, function (result) {
-                                    handleFBResult(result, contextPath, pane);
-                                });
-                            }
-                        } else {
-                            if ( !pane.hasClass('noButton') )
-                            {
-                                pane.empty().append(signinForm);
-                            }
-                            if ( !pane.hasClass('noAlert') )
-                            {
-                                alert('We could not sign you ' + (isSignIn ? 'in' : 'up') + ' with your Facebook account. Please try again or use your email address.');
-                            }
-                        }
-                    }, {
-                        scope:'email,user_birthday,user_location',
-                        return_scopes: true
-                    });
-                }
-            });
-        };
-
-        $(function () {
-            pane = $('#facebookPane');
-            isSignIn = pane.hasClass("loginFB") || pane.hasClass("signInFB");
-
-            if (!pane.hasClass('nolabel')) {
-                pane.append(loadingFBStatus);
-            }
-
-            var initInvoked = false;
-            var failoverInvoked = false;
-            var myFbAsyncInit = window.fbAsyncInit = function() {
-
-                if ( !initInvoked && !failoverInvoked && typeof FB !== 'undefined' )
-                {
-                    initInvoked = true;
-                    FB.init({
-                        appId:'159149670794215',
-                        channelUrl: window.location.protocol + '//www.vindale.com/v/fb/channel.html',
-                        cookie:true,
-                        xfbml:true,
-                        version:'v2.3'
-                    });
-
-                    if ( failoverInvoked )
-                    {
-                        // reset pane?
-                    }
-
-                    FB.getLoginStatus(callback);
-                }
-            };
-
-            setTimeout(function(){
-                if (!initInvoked && !failoverInvoked) {
-                    console.log('FB undefined?', typeof FB === 'undefined');
-                    failoverInvoked = true;
-                    // fb couldn't load?
-                    if (!pane.hasClass('nolabel')) {
-                        pane.empty().append('Could not connect to Facebook. Please sign ' + (isSignIn ? 'in' : 'up') + ' using your email address.');
-                    }
-                }
-            }, 5000);
-
-            (function(d, s, id){
-
-                var js, fjs = d.getElementsByTagName(s)[0];
-                if (d.getElementById(id)) {console.log('FB SDK already loaded'); return;}
-                js = d.createElement(s); js.id = id;
-                js.addEventListener("load", function(){
-                    console.log('FB SDK loaded');
-                }, false);
-                js.src = window.location.protocol + "//connect.facebook.net/en_US/sdk.js";
-//                js.src = window.location.protocol + "//connect.facebook.net/en_US/sdk.js#version=v2.3&appId=159149670794215&xfbml=1";
-                fjs.parentNode.insertBefore(js, fjs);
-
-            }(document, 'script', 'facebook-jssdk'));
-        });
-
-
-    }(jQuery));
-</script>
-</div>
-    <script type="text/javascript" src="/v/scripts/global.js?v=60"></script>
-        <script type="text/javascript" src="/v/scripts/main.js?v=60"></script>
-        <script type="text/javascript" src="/v/scripts/placeholders.min.js?v=60"></script>
-        <script type="text/javascript" src="/v/libs/bootstrap-3.2/dist/js/bootstrap.min.js?v=60"></script>
-        <script type="text/javascript" src="/v/libs/jquery/plugin/cookie/jquery.cookie.js?v=60"></script>
-        <script type="text/javascript" src="/v/scripts/cssfx.js?v=60"></script>
-        <script type="text/javascript" src="/v/libs/jstorage/0.4.12/jstorage.min.js?v=60"></script>
-    <script type="text/javascript" src="/v/scripts/fontfaceobserver.js?v=60"></script>
+    </div>
+    <script type="text/javascript" src="/v/scripts/global.js?v=1351"></script>
+        <script type="text/javascript" src="/v/scripts/main.js?v=1351"></script>
+        <script type="text/javascript" src="/v/scripts/placeholders.min.js?v=1351"></script>
+        <script type="text/javascript" src="/v/libs/bootstrap-3.2/dist/js/bootstrap.min.js?v=1351"></script>
+        <script type="text/javascript" src="/v/libs/jquery/plugin/cookie/jquery.cookie.js?v=1351"></script>
+        <script type="text/javascript" src="/v/scripts/cssfx.js?v=1351"></script>
+        <script type="text/javascript" src="/v/libs/jstorage/0.4.12/jstorage.min.js?v=1351"></script>
+    <script type="text/javascript" src="/v/scripts/fontfaceobserver.js?v=1351"></script>
     <script type="text/javascript">
         try {
             if (!localStorage.fontsLoaded){
@@ -750,7 +726,7 @@
     ga('set', 'forceSSL', true);
 	ga('set', 'hostname', 'w2.vindale.com');
 
-	ga('set', 'dimension1', '60');
+	ga('set', 'dimension1', '1351');
 	ga('send', 'pageview');
 
     ga(function(tracker) {
@@ -872,32 +848,269 @@ var _sf_async_config={uid:20747,domain:"vindale.com",path: window.location.pathn
         }
 
     }(document));
-</script><iframe style="visibility: hidden;" src="/v/component/init.jsp?t=1512909040759" width="1" height="1"></iframe>
+</script><iframe style="visibility: hidden;" src="/v/component/init.jsp;jsessionid=B99986C4D82E5BE893B108DB6C93A5C0-n2.w2?t=1553817772366" width="1" height="1"></iframe>
 <p style="text-align: center;font-size: 1em;color: #34495e;line-height: 0;margin-top:10px;">
-    w2.vindale.com<br>60<br>Fri Nov 03 16:34:13 EDT 2017</p>
-
-   <script type="text/javascript">
+    w2.vindale.com<br>1351<br>Thu Mar 28 13:37:05 EDT 2019</p>
+<script type="text/javascript">
     (function($){
         $(function(){
-            var pathname = (window.location.pathname.match(/[^\/]+$/)[0]);
-
-            $('#subnav > .container > ul > li > a').each(function() {
-                if ($(this).attr('href') == "/v/" + pathname) {
-                    $(this).addClass('current');
-                }
-            });
+            $('[data-toggle="tooltip"]').tooltip();
             
             function KeyPress(e) {
                 var evtobj = window.event? event : e
                 if (evtobj.keyCode == 86 && evtobj.shiftKey && evtobj.ctrlKey){
-                $('body').append('<div id="buildModal" class="modal fade" tabindex="-1" role="dialog"> <div class="modal-dialog" role="document"> <div class="modal-content"> <div class="modal-header"> <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button> <h4 class="modal-title text-grey">Build information</h4> </div><div class="modal-body"><table class="table"><tbody> <tr> <td>Hostname</td> <td><b>w2.vindale.com</b></td></tr> <tr> <td>Build number</td> <td><b>60</b></td> </tr> <tr> <td>Date and time</td> <td><b>Fri Nov 03 16:34:13 EDT 2017</b></td> </tr> </tbody> </table></div></div></div></div>');
+                $('body').append('<div id="buildModal" class="modal fade" tabindex="-1" role="dialog"> <div class="modal-dialog" role="document"> <div class="modal-content"> <div class="modal-header"> <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button> <h4 class="modal-title text-grey">Build information</h4> </div><div class="modal-body"><table class="table"><tbody> <tr> <td>Hostname</td> <td><b>w2.vindale.com</b></td></tr> <tr> <td>Build number</td> <td><b>1351</b></td> </tr> <tr> <td>Date and time</td> <td><b>Thu Mar 28 13:37:05 EDT 2019</b></td> </tr> </tbody> </table></div></div></div></div>');
                 $('#buildModal').modal('show');
                 }
             }
+            $('#dropDownNav').on('click', function (event) {
+                $('#dropDownNav').parent().toggleClass('open');
+                $('#fullScreenNav').scrollTop(0);
+                $('body').toggleClass('no-scroll');
+            });
             document.onkeydown = KeyPress;
+            $(window).scroll(function() {
+               $(".navi").addClass("shrink");
+               var scroll = $(window).scrollTop();
+               if (scroll <= 75) {
+                  $(".navi").removeClass("shrink");
+               }
+               
+               $(".banner").addClass("shrink");
+               var scroll = $(window).scrollTop();
+               if (scroll <= 1) {
+                  $(".banner").removeClass("shrink");
+               }
 
+            });
+            var pathname = (window.location.href.match(/[^\/]+$/)[0]);
+
+            $('.navi-pages > li > a').each(function() {
+                if ($(this).attr('href') == "/v/" + pathname) {
+                    $(this).addClass('active-page text-dark').wrap('<b></b>').append('<div class="active-indicator"></div>');
+                }
+            });
+            // Adding cookie notification here
+            
+                if (! localStorage.cookieAccepted){
+                    var cookieMessage = '<div class="cookie-notif cookie-notif-hidden button-purple-light"><div class="container"><p class="text-white">This site uses cookies. By continuing to browse the site you are agreeing to our <b><a href="/v/privacy.jsp#cookiesAnd">Cookies Policy</a></b>.</p><span aria-label="Close" class="glyphicon glyphicon-remove text-white"></span></div></div>';
+                    $('body').append(cookieMessage);
+                    window.setTimeout(function(){
+                        $('.cookie-notif').removeClass('cookie-notif-hidden');
+                    }, 1000);
+                    $('.cookie-notif span.glyphicon').on("click touchstart", function(){
+                        $('.cookie-notif').addClass('cookie-notif-hidden');
+                        localStorage.setItem('cookieAccepted', 'true');
+                    });
+                }
+            
         });
     })(jQuery);
+</script>
+<div id="fb-root"></div>
+<script type="text/javascript">
+
+    (function($) {
+
+        window.console = window.console || {log:function () {}};
+
+        var pane, isSignIn = false, contextPath = location.pathname.split("/")[1];
+
+//                fbImg = '<button class="button button-medium button-block button-facebook"><i class="icon-facebook"></i>Connect with facebook</button><br><br>',
+//                fbImg = '<img src="/' + contextPath + '/images/facebookConnect/connect.gif" style="padding:2px"/>',
+
+        var loadingImg = '<im' + 'g sr' + 'c="/' + contextPath + '/images/vindaleLoading.gif"/>';
+        var loadingFBStatus = $('<span style="text-align: center"><h2>Loading...</h2>' + loadingImg + '</span>');
+
+
+        var fbService = function(payload, cb) {
+            var o = $.extend({ref: '', pcid: ''}, payload);
+            $.ajax({type: 'POST', url: '/v/fb/service.jsp;jsessionid=B99986C4D82E5BE893B108DB6C93A5C0-n2.w2', data: {data: JSON.stringify(o)}, success: cb, contentType: 'application/x-www-form-urlencoded', dataType: 'json'});
+        };
+
+        var handleFBResult = function (result, contextPath, pane) {
+            var r = result.name;
+            var errorMessage;
+            if (r === 'validated') {
+                if (!pane.hasClass('nolabel')) {
+                    pane.html('Logging you in ...<br/><br/>' + loadingImg);
+                }
+
+                
+                window.location = '/' + contextPath + '/members/index.jsp';
+                
+            } else if (r === 'registered') {
+                if (!pane.hasClass('nolabel')) {
+                    pane.html('Finalizing your membership ...<br/><br/>' + loadingImg);
+                }
+
+                window.location = '/' + contextPath + '/doJoinFB.jsp?flr=' + encodeURIComponent(r) + '&url=' + encodeURIComponent('');
+            } else if (r === 'not_valid') {
+                errorMessage = "There was an issue connecting with Facebook. Please sign up below using your email address. After you sign up, we'll try again to connect your Facebook account to your Vindale account.";
+                window.location = '/' + contextPath + '/join.jsp?fb=0&message=' + encodeURIComponent(errorMessage);
+            } else if (r === 'missing_info') {
+                errorMessage = "There was an issue connecting with Facebook. Please sign in below using your email address and password. After you sign in, we'll try again to connect your Facebook account to your Vindale account.";
+                if (!pane.hasClass('nolabel')) {
+                    pane.html(errorMessage);
+                }
+                else {
+                    window.location = '/' + contextPath + '/sign-in.jsp?message=' + encodeURIComponent(errorMessage) + '&url=' + encodeURIComponent('');
+                }
+            } else if (r === 'link_login') {
+                errorMessage = "You've connected using Facebook. However, we need to make sure it's really you. Please sign in below using your email address and password. After you sign in, you'll be able to use Facebook to access Vindale.";
+                window.location = '/' + contextPath + '/sign-in.jsp?fb=0&message=' + encodeURIComponent(errorMessage) + '&url=' + encodeURIComponent('');
+            } else if (r === 'link_register') {
+                errorMessage = "You've connected using Facebook. However, we can't find your Vindale account. Please create a new Vindale account below. After you sign up, you'll be able to use Facebook to access Vindale.";
+                window.location = '/' + contextPath + '/join.jsp?fb=0&message=' + encodeURIComponent(errorMessage);
+            } else {
+                errorMessage = 'We could not sign you ' + (isSignIn ? 'in' : 'up') + ' with your Facebook account. Please try signing ' + (isSignIn ? 'in' : 'up') + ' using your email address and password.';
+                if (!pane.hasClass('nolabel')) {
+                    pane.html(errorMessage);
+                }
+                else {
+                    window.location = '/' + contextPath + '/error.jsp?message=' + encodeURIComponent(errorMessage);
+                }
+            }
+        };
+
+        var callback = function (response) {
+            ga('send', 'event', 'facebookAPI', 'response', response.status, { nonInteraction: true });
+            var connected = response.status == 'connected';
+            var label = '<h2>Or, sign-' + (isSignIn ? 'in' : 'up') + ' with facebook</h2>';
+            if (pane.hasClass('nolabel')) {
+                label = '';
+            }
+            var signinForm = $('<div id="fbSignIn">' + label + '<div><div id="fbButton"><a href="javascript:void(0);" id="fbSignInAnchor">' + '<button class="button button-fb button-block button-large fb-button btn-fb-init btn-large" type="button"><div class="fb-logo"></div>Facebook Connect</button>' + '</a>' +
+                    (!connected ?
+                            '<br><div id="terms"><small>By clicking Connect, you confirm you read and agree to the <a href="#terms" onclick="window.open(\'/v/terms.jsp\',\'terms\',\'menubar=yes,scrollbars=yes,resizable=no,width=600,height=400\'); return false;">Terms</a> and <a href="#privacy" onclick="window.open(\'/v/privacy.jsp\',\'privacy\',\'menubar=yes,scrollbars=yes,resizable=no,width=600,height=400\'); return false;">Privacy policy</a></small></div>' :
+                            ''
+                            ) + '</div></div></div>');
+            var existing = $('.fb-button');
+            var clicker = '#fbSignInAnchor';
+            if (existing.length) {
+                if ( !pane.hasClass('noButton') )
+                {
+                    pane.html(existing.html()).show();
+                }
+                clicker = '.fb-button';
+            } else {
+                if ( !pane.hasClass('noButton') )
+                {
+                    pane.html(signinForm).show();
+                }
+            }
+
+            $(document).trigger("fb_drawn");
+
+            $(document).on('click', clicker, function () {
+                var fbAction = isSignIn ? 'login' : 'register';
+                ga('send', 'event', 'facebookAPI', fbAction, 'click');
+
+                var pane = $('#facebookPane');
+                pane.css('text-align', 'center');
+                if ( !pane.hasClass('noLoading') )
+                {
+                    if (!pane.hasClass('nolabel')) {
+                        pane.html('Please wait while we' + (isSignIn ? ' sign you in ' : ' set up your account ') + '...<br/>' + loadingImg);
+                    } else {
+                        pane.html(loadingImg);
+                    }
+                }
+
+                if (connected) {
+                    fbService({action: isSignIn ? 'login' : 'register', res: isSignIn ? response : response.authResponse}, function (result) {
+                        handleFBResult(result, contextPath, pane);
+                    });
+                } else {
+                    FB.login(function (loginResponse) {
+                        if (loginResponse.status == 'connected') {
+                            if (isSignIn) {
+                                fbService({action: 'login', res: loginResponse}, function (result) {
+                                    handleFBResult(result, contextPath, pane);
+                                });
+                            } else {
+                                fbService({action:'register', res:loginResponse.authResponse}, function (result) {
+                                    handleFBResult(result, contextPath, pane);
+                                });
+                            }
+                        } else {
+                            if ( !pane.hasClass('noButton') )
+                            {
+                                pane.empty().append(signinForm);
+                            }
+                            if ( !pane.hasClass('noAlert') )
+                            {
+                                alert('We could not sign you ' + (isSignIn ? 'in' : 'up') + ' with your Facebook account. Please try again or use your email address.');
+                            }
+                        }
+                    }, {
+                        scope:'email,user_birthday,user_location',
+                        return_scopes: true
+                    });
+                }
+            });
+        };
+
+        $(function () {
+            pane = $('#facebookPane');
+            isSignIn = pane.hasClass("loginFB") || pane.hasClass("signInFB");
+
+            if (!pane.hasClass('nolabel')) {
+                pane.append(loadingFBStatus);
+            }
+
+            var initInvoked = false;
+            var failoverInvoked = false;
+            var myFbAsyncInit = window.fbAsyncInit = function() {
+
+                if ( !initInvoked && !failoverInvoked && typeof FB !== 'undefined' )
+                {
+                    initInvoked = true;
+                    FB.init({
+                        appId:'159149670794215',
+                        channelUrl: window.location.protocol + '//www.vindale.com/v/fb/channel.html',
+                        cookie:true,
+                        xfbml:true,
+                        version:'v2.3'
+                    });
+
+                    if ( failoverInvoked )
+                    {
+                        // reset pane?
+                    }
+
+                    FB.getLoginStatus(callback);
+                }
+            };
+
+            setTimeout(function(){
+                if (!initInvoked && !failoverInvoked) {
+                    console.log('FB undefined?', typeof FB === 'undefined');
+                    failoverInvoked = true;
+                    // fb couldn't load?
+                    if (!pane.hasClass('nolabel')) {
+                        pane.empty().append('Could not connect to Facebook. Please sign ' + (isSignIn ? 'in' : 'up') + ' using your email address.');
+                    }
+                }
+            }, 5000);
+
+            (function(d, s, id){
+
+                var js, fjs = d.getElementsByTagName(s)[0];
+                if (d.getElementById(id)) {console.log('FB SDK already loaded'); return;}
+                js = d.createElement(s); js.id = id;
+                js.addEventListener("load", function(){
+                    console.log('FB SDK loaded');
+                }, false);
+                js.src = window.location.protocol + "//connect.facebook.net/en_US/sdk.js";
+//                js.src = window.location.protocol + "//connect.facebook.net/en_US/sdk.js#version=v2.3&appId=159149670794215&xfbml=1";
+                fjs.parentNode.insertBefore(js, fjs);
+
+            }(document, 'script', 'facebook-jssdk'));
+        });
+
+
+    }(jQuery));
 </script>
 
 
