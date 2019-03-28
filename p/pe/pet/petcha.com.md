@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the petcha.com privacy policy that was archived on 2018-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181120055903id_/https%3A//www.petcha.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the petcha.com privacy policy that was archived on 2019-03-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190328104945id_/http%3A//petcha.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Petcha
 
