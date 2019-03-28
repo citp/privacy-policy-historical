@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the apexminecrafthosting.com privacy policy that was archived on 2017-01-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170128054337id_/https%3A//apexminecrafthosting.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the apexminecrafthosting.com privacy policy that was archived on 2019-03-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190328094056id_/https%3A//apexminecrafthosting.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Apex Minecraft Hosting
+# Our Privacy Policy - Apex Minecraft Hosting
 
-Apex Hosting considers user privacy paramount, and Apex Hosting utilizes great care in keeping the information of the customer and/or user (“Customer”) private and secure. To demonstrate our firm commitment to privacy, the following agreement has been created to explain our policies and procedures in relation to all data collected
+Apex Hosting considers user privacy paramount, and Apex Hosting utilizes great care in keeping the information of the customer and/or user (“Customer”) private and secure. To demonstrate our firm commitment to privacy, the following agreement has been created to explain our policies and procedures in relation to all data collected.
 
 #### Types of Data Collected
 
@@ -17,9 +17,11 @@ Apex Hosting considers user privacy paramount, and Apex Hosting utilizes great c
 
 Depending upon the method of collection and use, the data collected may include information about the user from forms, registrations and transactions (such as name, address, company and e-mail address), information about use of Apex Hosting web sites (such as electronic communications protocols, web pages visited, and cookies) and user preferences and privileges.
 
+We store the data on our billing server, control panel server and game servers.
+
 #### Electronic Communications Protocols and Cookies
 
-Apex Hosting may receive data from you as part of the communication connection itself through the standard electronic greeting between your computer and our servers. This information often consists of network routing (where you came from), equipment information (browser type), internet protocol address, date and time. At this time our server will also query your computer to see if there are “cookies” previously set by apexminecrafthosting.com to facilitate log in or other site navigation procedures. A “cookie” is a small piece of information sent by a web server to store in a web browser so it can later be read back from that browser.
+Apex Hosting may receive data from you as part of the communication connection itself through the standard electronic greeting between your computer and our servers. This information often consists of network routing (where you came from), equipment information (browser type), internet protocol address, date and time. At this time our server will also query your computer to see if there are “cookies” previously set by apexminecrafthosting.com to facilitate log in or other site navigation procedures. A “cookie” is a small piece of information sent by a web server to store in a web browser so it can later be read back from that browser. We store logs of all communications and administration actions for your account management and security.
 
 Cookies: Some parts of the Apex Hosting site use cookies (including signup forms) to collect information about visitors’ use of the web site and to facilitate return visits. The information collected from cookies is tracked to enhance security and/or to improve the functionality of the web site by avoiding duplicate data entry, facilitating navigation, and increasing the relevance of content.
 
@@ -31,7 +33,9 @@ While we do not offer an opt-out on the site for cookies, browsers provide you w
 
 **Apex Hosting collects data from users for the following purposes:**
 
-  * To engage in transactions for service. Name, address, email, and purchase details. We do not store credit card/payment information which are part of the transaction history. The majority of the data collected under this category is contact information. Apex Hosting may need to share some of this data (address, payment) with credit card clearing houses, banking institutions, and other similarly situated Agents, who may require the information in order to complete the transaction (as used here, “Agents” are persons or companies who act on behalf of or under the direction of Apex Hosting).
+  * To engage in transactions for service. We collect your name, address, phone number, username, company name, email, and purchase details. We do not store credit card/payment information which are part of the transaction history. The majority of the data collected under this category is contact information. Apex Hosting may need to share some of this data (address, name, payment) with credit card clearing houses, banking institutions, and other similarly situated Agents, who may require the information in order to complete the transaction (as used here, “Agents” are persons or companies who act on behalf of or under the direction of Apex Hosting).
+  * To contact you with news, updates and special offers if you choose to opt-in to our marketing newsletter.
+  * To provide appropriate permissions for control panel account and game server daemons.
   * As you browse apexminecrafthosting.com and other websites, online ad networks we work with may place anonymous cookies on your computer, and use similar technologies, in order to understand your interests based on your (anonymous) online activities, and thus to tailor more relevant ads to you. If you do not wish to receive such tailored advertising, you can visit this page to opt out of most companies that engage in such advertising. (This will not prevent you from seeing ads; the ads simply will not be delivered through these targeting methods.)
   *  To provide future service and support. Information collected for this purpose is both contact data and information related to products and service/support requested. This information is also used to provide service, product update, and similar notices.
   * To select content. Data may be collected to help create web site content and navigation that is most relevant and user friendly. This includes data collected as a result of site navigation, as well as data provided in forms.
