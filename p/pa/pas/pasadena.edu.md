@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pasadena.edu privacy policy that was archived on 2017-08-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170810215713id_/https%3A//pasadena.edu/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pasadena.edu privacy policy that was archived on 2019-03-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190328164410id_/https%3A//pasadena.edu/privacy.php) for the most accurate reproduction.*
 
 # Privacy - Pasadena City College - Pasadena City College
 
