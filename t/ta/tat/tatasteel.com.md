@@ -1,13 +1,17 @@
-> *The following text is extracted and transformed from the tatasteel.com privacy policy that was archived on 2018-09-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180917214604id_/https%3A//www.tatasteel.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tatasteel.com privacy policy that was archived on 2019-03-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190328100730id_/https%3A//www.tatasteel.com/privacy-policy) for the most accurate reproduction.*
 
 # Tata Steel Privacy Policy
 
-Thank you for visiting the Tata Steel website. The Company is sensitive to privacy issues on the internet. Visitors are guaranteed privacy and any information collected is kept private and never shared with other organisations. It is used only by the Company to administer your request, if any. At times when we need information from you, we will try (but are not obligated) to let you know how this information is going to be used.
+#### Objective
 
-Your IP (Internet Protocol) address may be used to gather broad demographic information to measure the number of visits, average time spent on the site, pages viewed, etc. This helps us maintain and administer the website better and also to improve the content of the website to address the more relevant stakeholder issues.
+The purpose of this policy is to maintain the privacy of and protect the personal information of employees, contractors, vendors, interns, associates, customers and business partners of Tata Steel Limited and ensure compliance with laws and regulations applicable (refer annexure A ‘Data Privacy Annexures’ document) to Tata Steel Limited (hereafter referred to as “TSL” or “the organization”).
 
-All rights are reserved by Tata Steel Ltd. The content, code and applications contained on this website, under the domain www.tatasteel.com are copyright protected. Site visitors may not reproduce, copy, or redistribute content or code in any form without written permission from the Company. 
+#### Scope
 
-This site contains links to sites outside www.tatasteel.com. Tata Steel is not responsible for the privacy practices, or the content, of such other websites.
+This policy is applicable to all TSL employees, contractors, vendors, interns, associates, customers and business partners who may receive personal information, have access to personal information collected or processed, or who provide information to the organization.
 
-This site has security measures in place to protect the loss, misuse and alteration of the information under our control. Unauthorised attempts to upload or change information (or otherwise cause damage to this website) are strictly prohibited.
+This Policy applies to all TSL employees, contractors, vendors, interns, associates, customers and business partners who receive personal information from TSL, who have access to personal information collected or processed by TSL, or who provide information to TSL, regardless of geographic location. All employees of TSL are expected to support the privacy policy and principles when they collect and / or handle personal information, or are involved in the process of maintaining or disposing of personal information. This policy provides the information to successfully meet the organization’s commitment towards data privacy.
+
+All partner firms and any Third-Party working with or for TSL, and who have or may have access to personal information, will be expected to have read, understand and comply with this policy. No Third Party may access personal information held by the organization without having first entered into a confidentiality agreement.
+
+[Click here to know more](https://web.archive.org/media/7814/tsl_data_privacy_policy.pdf)
