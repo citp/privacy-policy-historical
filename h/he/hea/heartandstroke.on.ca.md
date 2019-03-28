@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the heartandstroke.on.ca privacy policy that was archived on 2018-11-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181114191806id_/http%3A//www.heartandstroke.ca/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the heartandstroke.on.ca privacy policy that was archived on 2019-03-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190328073357id_/https%3A//www.heartandstroke.ca/privacy-policy) for the most accurate reproduction.*
 
 # Privacy policy | Heart and Stroke Foundation
 
@@ -10,7 +10,7 @@ The Heart and Stroke Foundation of Canada, its affiliates, including Heart and S
 
 Protecting your privacy is important to HSF. This Privacy Policy explains how HSF collects, uses, and discloses your personal information when you use this site (the “ **Site** ”), our products and our services, including but not limited to, any tools, eTools, apps, forums, event and course registration pages, electronic publications, newsletters, announcements, contest entries, lottery ticket purchases and/or donations online or by mail (collectively, the Site and services being, the “ **Services** ”). 
 
-This Privacy Policy forms part of our [Terms of Use](http://www.heartandstroke.ca/terms-of-use), which outline the terms and conditions you agree to when using our Services.  We will only collect, use and disclose your personal information in accordance with this Privacy Policy.  By using the Services, you acknowledge that you have read and understood this Privacy Policy, and you agree and consent to the collection, use, and disclosure of your personal information in accordance with this Privacy Policy. If you do not agree with this Privacy Policy, please do not use the Services or supply your personal information to us.
+This Privacy Policy forms part of our [Terms of Use](https://www.heartandstroke.ca/terms-of-use), which outline the terms and conditions you agree to when using our Services.  We will only collect, use and disclose your personal information in accordance with this Privacy Policy.  By using the Services, you acknowledge that you have read and understood this Privacy Policy, and you agree and consent to the collection, use, and disclosure of your personal information in accordance with this Privacy Policy. If you do not agree with this Privacy Policy, please do not use the Services or supply your personal information to us.
 
 **1\. What Personal Information Do We Collect?**
 
@@ -158,7 +158,7 @@ We will ensure that each e-mail includes an opt-out feature and instructions on 
 
     11. **User Content in Comments, Chat Rooms and Message Boards**
 
-If you post comments on the Site (such as commenting on a recipe or blog) or if you use chat rooms and message boards that may be available on our Site from time to time, you should know that when you voluntarily disclose your personal information on our message boards, chat rooms, comment boxes or other interactive areas where personal information can be posted, the information can be collected and used by other internet users. This may result in unsolicited messages from other posters or parties. We undertake no obligations as to the security of information you voluntarily post in our chat rooms, on our message boards, in comment sections of our Site or in other interactive features of our Site.  Please refer to our [Terms of Use](http://www.heartandstroke.ca/terms-of-use) to understand your obligations when providing your own content (referred to as “User Content” in our Terms of Use) 
+If you post comments on the Site (such as commenting on a recipe or blog) or if you use chat rooms and message boards that may be available on our Site from time to time, you should know that when you voluntarily disclose your personal information on our message boards, chat rooms, comment boxes or other interactive areas where personal information can be posted, the information can be collected and used by other internet users. This may result in unsolicited messages from other posters or parties. We undertake no obligations as to the security of information you voluntarily post in our chat rooms, on our message boards, in comment sections of our Site or in other interactive features of our Site.  Please refer to our [Terms of Use](https://www.heartandstroke.ca/terms-of-use) to understand your obligations when providing your own content (referred to as “User Content” in our Terms of Use) 
 
     12. **Changes to this Privacy Policy**
 
