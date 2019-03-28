@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nationalfuelgas.com privacy policy that was archived on 2018-09-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180917170520id_/https%3A//www.nationalfuelgas.com/privacy_policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nationalfuelgas.com privacy policy that was archived on 2019-03-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190328010555id_/https%3A//www.nationalfuelgas.com/privacy_policy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -71,7 +71,7 @@ Our website is not directed to children under the age of thirteen and National F
 
 ## Access, Correct and Update Personal Information
 
-You may obtain a copy of the personal information that you have provided to National Fuel through your use of our website and you may correct, change or remove any personal information by contacting us via the following link [https://www.nationalfuelgas.com/email.aspx](https://web.archive.org/web/20180917170520id_/https%3A//www.nationalfuelgas.com/email.aspx).
+You may obtain a copy of the personal information that you have provided to National Fuel through your use of our website and you may correct, change or remove any personal information by contacting us via the following link [https://www.nationalfuelgas.com/email.aspx](https://web.archive.org/web/20190328010555id_/https%3A//www.nationalfuelgas.com/email.aspx).
 
 If you request that the personal information that you provided to National Fuel be removed from National Fuel's records, please be aware that you may not be able to continue to use National Fuel's online services, which may require the collection of such information.
 
@@ -87,4 +87,4 @@ By using our website, you signify your acceptance of this Policy. If you do not 
 
 ## Additional Questions
 
-Please [click here](https://web.archive.org/web/20180917170520id_/https%3A//www.nationalfuelgas.com/email.aspx) to contact us if you have any additional questions or comments regarding this Privacy Policy.
+Please [click here](https://web.archive.org/web/20190328010555id_/https%3A//www.nationalfuelgas.com/email.aspx) to contact us if you have any additional questions or comments regarding this Privacy Policy.
