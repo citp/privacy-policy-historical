@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wirerealm.com privacy policy that was archived on 2017-10-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171020113145id_/http%3A//www.wirerealm.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wirerealm.com privacy policy that was archived on 2019-03-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190328060331id_/https%3A//www.wirerealm.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - The Wire Realm
 
@@ -66,7 +66,7 @@ If we decide to change our privacy policy, we will post those changes on this pa
 
 If there are any questions regarding this privacy policy you may contact us using the information below.
 
-http://www.wirerealm.com  
+https://www.wirerealm.com  
 LA, California  
 United States  
 info@wirerealm.com
