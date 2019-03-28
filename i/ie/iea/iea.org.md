@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the iea.org privacy policy that was archived on 2018-10-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181024114708id_/https%3A//www.iea.org/t%26c/privacyprotection) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the iea.org privacy policy that was archived on 2019-03-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190328171521id_/https%3A//www.iea.org/t_c/privacyprotection) for the most accurate reproduction.*
 
 # Privacy protection
 
