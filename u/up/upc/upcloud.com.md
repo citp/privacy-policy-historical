@@ -1,100 +1,215 @@
-> *The following text is extracted and transformed from the upcloud.com privacy policy that was archived on 2011-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110627154744id_/http%3A//www.godaddy.com/agreements/ShowDoc.aspx%3Fpageid%3Dprivacy_parkedpage) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the upcloud.com privacy policy that was archived on 2019-03-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190328175053id_/https%3A//upcloud.com/%3Fpage_id%3D509) for the most accurate reproduction.*
 
-# Legal Agreement
+# Privacy policy - UpCloud
 
-**Go Daddy Respects Your Privacy**
+This policy applies to all our all existing users as of 2018-05-17, and any new users as of 2018-04-17.
 
-**This Privacy Policy explains our privacy and information gathering practices, such as the types of information we collect and under what circumstances that information is shared.**
+**Please note!** Not everybody has a law degree or speak English natively, so we have added helpful **tl;dr** (“too long; didn’t read”) in plain English that summarize each term. These are only meant to help you understand the general meaning and are not legally binding terms of service!
 
-**Please take the time to review the terms of this Policy.   By using this Site, you agree to accept the terms provided.**
+UpCloud Ltd (“UpCloud”, “we”) might collect and process personal data of users of UpCloud’s website and online services. This Privacy Policy applies to personal data we obtain from our customers and their representatives (“Users”) through our websites when the relevant User registers to UpCloud’s cloud-based infrastructure and software services (collectively, the “Services”). In addition, some of our services might be subject to a separate privacy policy. If a separate privacy policy applies to a particular service, we will post it on the relevant website or otherwise in connection with the service in question.
 
-**Other than as described in this Policy, we will not give any information about you to others without your express permission.**
+**tl;dr** This privacy policy applies to the personal data of our users and visitors. 
 
-**Information Collection and Use**
+Our Privacy Policy explains what data we process, how we do that and how the data subjects, i.e. Users, may use their rights (e.g. right to object, right of access).
 
-Although this Site is primarily for informational purposes, we may ask you to provide us with your name, email address or other information that could be used to identify you personally.  For example, we may collect this information in the event that you register as a member of this Site, post a comment, sign-up to receive email communications, or submit demographic information as part of a survey.
+This Privacy Policy constitutes a description of the data file as set out in the Finnish Personal Data Act (Sections 10 and 24).
 
-We receive and store any information you enter on our Site or give us in any other way, including through email, telephone, or other communications. If you contact us for support, we will keep an internal record of our communication with you.
+This Privacy Policy may be updated if required in order to reflect the changes in data processing practices or otherwise. The current version can be found on our website www.upcloud.com. We will not make substantial changes to this Privacy Policy or reduce the rights of Users under this Privacy Policy without providing a notice thereof.
 
-We may use your information to contact you regarding the information and services available on our Site, functionality changes to our Site, and special offers we think you'll find valuable. If you would rather not receive this information, please see the "Updating Your Information" section below on how to change your preferences.
+**tl;dr** This policy might receive small updates, and if so, we’ll let you know.
 
-We may also use your information to present a co-branded offer with our partners or affiliates. If we collect information from you in connection with a co-branded offer, it will be clear at the point of collection who is collecting the information and whose privacy statement applies.
+This Privacy Policy only covers data processing carried out by UpCloud. The Privacy Policy does not address, and we are not responsible for, the privacy practices of any third parties. UpCloud disclaims all responsibility for the processing carried out by third parties, also in cases where Services include hyperlinks to third parties’ websites.
 
-We use information gathered about you from our Site statistics (for example, your IP address) to help diagnose problems with our server, and to administer our Site. We also gather broad demographic information from this data to help us improve our Site and make your browsing and purchasing experience more enjoyable. This is not linked to any personally identifiable information, except as necessary to prevent fraud or abuse on our system.
+**tl;dr** We take care of our users privacy but cannot be responsible for the privacy practices of any third parties.
 
-Our Site uses cookies to enhance your experience with our Site.  Cookies are data files that are placed in your browser to keep track of your personal preferences and to facilitate easy navigation through our Site.  We use cookies to identify you so you don't need to log in each time you visit our Site.  You may opt-out of the use of cookies by altering settings on your browser.  Please note, however, that some areas of the Site will be easier to navigate with the use of cookies..
+Please note that this Privacy Policy applies to processing of personal data carried out by UpCloud as a data controller. As regards the data UpCloud’s customers or Users insert into Services while using the Services, UpCloud registers this personal data as a data processor and the relevant customer shall be considered to be the data controller with regard to this personal data.
 
-This Site also contains links to other websites. Unfortunately, we are not responsible for the privacy practices or the content of such sites.
+**tl;dr** We only control personal data of our users. If a user uploads personal data onto our services, they are the data controller and we only the data processor.
 
-**Security**
+Privacy, security and online safety are important for us, and we process all personal data with due care and in accordance with applicable laws and regulations.
 
-This Site has security measures in place to protect against the loss, misuse or alteration of the information under our control.
+### Controller’s contact details.
 
-**Updating Your Information**
+**UpCloud Ltd.**  
+Company ID: 2431560-5  
+E-mail address: [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#731b161f1f1c330603101f1c06175d101c1e)   
+Phone: +358-9-3158 4810   
+www.upcloud.com  
 
-You may alter your account information or opt out of receiving communications from us and our partners at any time. We have the following options for changing and modifying your account information or contact preferences.
 
-        i.      You may send an email to [support@godaddy.com ](mailto:support@godaddy.com)
+### Personal data processed and sources of data.
 
-       ii.      You may send mail to Go Daddy at the following postal address:   
-               14455 North Hayden Road, Suite 219, Scottsdale, AZ. 85260 USA
+We collect two types of information from the Users: (i) User Data; and (ii) Technical Data. Although we do not normally use Technical Data to identify individuals, sometimes individuals can be recognized from it, either alone or when combined or linked with User Data. In such situations, Technical Data can also be considered to be personal data under applicable laws and we will treat the combined data as personal data.
 
-      iii.      You may call us at: (480) 505-8800
+**tl;dr** We collect user data and technical data, both of which are considered users’ personal data and treated as such.
 
-       iv.      You may fax us at: (480) 505-8844
+UpCloud may collect and process for example the following User Data from Users: (i) name and contact details; (ii) e-mail address; (iii) phone number; (iv) invoicing and billing information; (v) other personal data Users provide themselves.
 
-**Sending Emails**
+The specific kind of User Data collected will depend on the Services used by the User. Most of the User Data is received directly from Users at the point of registration or otherwise at beginning of and during the customer relationship.
 
-We use emails to communicate with you and to send information that you have requested.  We also provide email links to allow you to contact us directly. We strive to promptly reply to your messages.
+Technical Data we gather in connection with the use of our Services includes for example the following data: (i) User’s IP address; (ii) browser type and version; (iii) preferred language; (iv) geographic location using IP address or the GPS, wireless, or Bluetooth technology on your device; (v) operating system and computer platform; (vi) the full Uniform Resource Locator (URL) clickstream to, through, and from our Services, including date and time; (vii) products or services User viewed or searched for while using our Services; and (viii) areas of our Services User has visited.
 
-The information you send to us may be stored and used to improve this Site and our products, or it may be reviewed and discarded.
+##### Cookies.
 
-**Compliance with Laws and Law Enforcement**
+We use various technologies to collect and store Technical Data and other information when Users visit our Services, including cookies. Cookies allow us to calculate the aggregate number of people visiting our Services and monitor the use of the Services. This helps us to improve our Services and better serve our Users. We may also use cookies that make the use of the Services easier, for example by remembering usernames, passwords and preferences. We may use tracking and analytics cookies to see how well our Services are being received by our Users.
 
-We cooperate with government and law enforcement officials and private parties to enforce and comply with the law. We will disclose any information about you to government or law enforcement officials or private parties as we, in our sole discretion, believe necessary or appropriate to respond to claims and legal process (including without limitation subpoenas), to protect our property and rights or the property and rights of a third party, to protect the safety of the public or any person, or to prevent or stop activity we consider to be illegal or unethical. We will also share your information to the extent necessary to comply with ICANN's rules, regulations and policies.
+**tl;dr** We use web browser cookies to maintain, improve, and make the use of our services easier.
 
-**Third Party Service Providers**
+Users may choose to set their web browser to refuse cookies, or to alert when cookies are being sent. This can usually be done through Internet browser’s settings. Information about how to manage cookies can be found online.
 
-We may at times provide information about you to third parties to provide various services on our behalf, such as serving advertisements, conducting contests or surveys, performing analyses of our user demographics, shipping of goods or services, and user relationship management. We will only share information about you that is necessary for the third party to provide the requested service. These companies are prohibited from retaining, sharing, storing or using your personally identifiable information for any secondary purposes.
+For example, the following links provide information on how to adjust the cookie settings on some popular browsers:
 
-In the event that we use third party advertising companies to serve ads on our behalf, these companies may employ cookies and action tags (also known as single pixel gift or web beacons) to measure advertising effectiveness. Any information that these third parties collect via cookies and action tags is completely anonymous. If you would like more information about this practice and your choices, click [here. ](http://www.networkadvertising.org/managing/opt_out.asp)
+  * [Google Chrome](https://support.google.com/chrome/answer/95647?co=GENIE.Platform%3DDesktop&hl=en)
+  * [Internet Explorer](https://support.microsoft.com/en-us/help/17442/windows-internet-explorer-delete-manage-cookies)
+  * [Mozilla Firefox](https://support.mozilla.org/en-US/kb/enable-and-disable-cookies-website-preferences)
+  * [Safari](https://support.apple.com/kb/ph21411)
 
-**Supplementation of Information**
 
-In order to provide certain services to you, we may on occasion supplement the personal information you submit to us with information from third party sources ( _e.g.,_ information from our strategic partners, service providers, or the United States Postal Service).  We do this to enhance our ability to serve you, to tailor our products and services to you, and to offer you opportunities to purchase products or services that we believe may be of interest to you.
 
-**Contests/Surveys**
+Please note that some parts of our Services may not function properly if use of cookies is refused.
 
-From time-to-time, we may provide you with the opportunity to participate in contests or surveys. If you choose to participate, we may request certain personally identifiable information from you. Participation in these contests or surveys is completely voluntary and you therefore have a choice whether or not to disclose the requested information. The requested information typically includes contact information (such as name and address), and demographic information (such as zip code and age level - note that you must be 18 or above to enter). We use this information to notify contest winners and award prizes, to monitor Site traffic, and to personalize our Site.
+**tl;dr** You may decline cookies but our services might not work correctly without them.
 
-We may use a third party service provider to conduct these surveys or contests. When we do, that company will be prohibited from using our users' personally identifiable information for any other purpose. We will not share the personally identifiable information you provide through a contest or survey with other third parties unless we give you prior notice and choice.
+##### Web analytics services.
 
-**Tell-A-Friend**
+Our Services use several web analytics services to compile Technical Data and reports on visitor usage and to help us improve our Services.
 
-If a user elects to use our referral service to inform a friend about our Site, we ask the user for the friend's name and email address. Go Daddy will automatically send the friend a one-time email inviting them to visit our Site. Go Daddy stores this information for the sole purpose of sending this one-time email. The friend may contact Go Daddy at [support@godaddy.com ](mailto:support@godaddy.com)to request the removal of this information from our database.
+### Purposes and legitimate grounds for processing of personal data.
 
-**What Happens to my Personal Information if I Opt Out?**
+#### Purposes
 
-If you advise us that you wish to opt out of receiving further communications from us, we will place your personally identifiable information in "deactivated" status on our relevant databases. However, you should know that placement of your information in "deactivated" status does not mean your personally identifiable information has been deleted from our database entirely. We will retain and use your personally identifiable information if necessary in order to comply with our legal obligations, resolve disputes, or enforce our agreements.
+There are several purposes for the processing of personal data by UpCloud. Personal data is processed by UpCloud for managing the relationships with customers, facilitating transactions and payments, and for managing, developing and analysing our customer service. Personal data is also used to direct marketing at special customer groups, and other business activities related to any of these activities.
 
-**Transfer of Data Abroad**
+**tl;dr** We process personal data to provide you with our services.
 
-If you are visiting this Site from a country other than the country in which our servers are located, your communications with us may result in the transfer of information across international boundaries.  By visiting this Site and communicating electronically with us, you consent to such transfers.
+Personal data is also processed by UpCloud for the following purposes:
 
-**Changes in Our Practices**
+##### To provide our Services and carry out our contractual obligations.
 
-We reserve the right to modify this Privacy Policy at any time. If we decide to change our Privacy Policy, we will post those changes to this Privacy Policy and any other places we deem appropriate, so that you are aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it.
+We process personal data in the first place to be able to offer the Services to our customers and Users and to run, maintain and develop our business. In some cases, personal data may be processed in order to carry out our contractual obligations towards the User. We may use the data for example to offer essential functionalities of the Services and to provide access to the Services. If User contacts our customer service, we will use the provided information for answering questions and solving possible issues.
 
-If we make material changes to this Policy, we will notify you here, by email, or by means of a notice on our home page, at least thirty (30) days prior to the implementation of the changes.
+##### For customer communication.
 
-**Contacting Our Site**
+We may process personal data for the purpose of contacting Users regarding our Services and to inform Users of changes in our Services. Data may also be used for research and analysis purposes in order to improve our Services.
 
-If you have any questions about our Privacy Policy, the practices of this Site, or your dealings with this Site, please contact us at:
+##### For quality improvement and trend analysis.
 
-* * *
+We may process information regarding the use of the Services to improve the quality of our Services e.g. by analysing any trends in the use of our Services. When possible, we will do this using only aggregated, non- personally identifiable data.
 
-Go Daddy   
-ATTN: Web Team   
-14455 North Hayden Rd.   
-Suite 219   
-Scottsdale, AZ, 85260, U.S.A.
+### Legitimate grounds for processing.
+
+We process personal data to perform our contractual obligations towards Users and to comply with legal obligations. Furthermore, we process personal data to pursue our legitimate interest to run, maintain and develop our business.
+
+In some parts of the Services, Users may be requested to grant their consent for the processing of personal data. In this event, Users may withdraw their consent at any time.
+
+#### Transfer to countries outside of Europe.
+
+We store the Users’ personal data primarily within the European Economic Area. However, we have service providers in several geographical locations. As such, we and our service providers may transfer personal data to, or access it in, jurisdictions outside the European Economic Area or the User’s domicile.
+
+We will take steps to ensure that the Users’ personal data receives an adequate level of protection in the jurisdictions in which it is processed. We provide adequate protection for the transfers of personal data to countries outside of the European Economic Area through a series of agreements with our service providers based on the Standard Contractual Clauses or other similar arrangements.
+
+More information regarding the transfers of personal data may be obtained by contacting us on addresses mentioned in this Privacy Policy.
+
+**tl;dr** We usually keep your personal data within the EEA but might need to transfer or access it elsewhere, if so we’ll make sure your data is kept safe.
+
+### Recipients.
+
+We only share personal data within the organisation of UpCloud if and as far as reasonably necessary to perform and develop our Services. We do not share personal data with third parties outside of UpCloud’s organization unless one of the following circumstances applies:
+
+##### It is necessary for the purposes set out in this Privacy Policy
+
+To the extent that third parties need access to personal data to perform the Services, UpCloud has taken appropriate contractual and organisational measures to ensure that personal data are processed exclusively for the purposes specified in this Privacy Policy and in accordance with all applicable laws and regulations.
+
+##### For legal reasons
+
+We may share personal data with third parties outside UpCloud’s organization if we have a good-faith belief that access to and use of the personal data is reasonably necessary to: (i) meet any applicable law, regulation, and/or court order; (ii) detect, prevent, or otherwise address fraud, security or technical issues; and/or (iii) protect the interests, properties or safety of UpCloud, our Users or the public in accordance with the law. When possible, we will inform Users about such transfer and processing.
+
+##### To authorized service providers
+
+We may share personal data to authorized service providers who perform services for us (including data storage, sales, marketing and customer support services). Our agreements with our service providers include commitments that the service providers agree to limit their use of personal data and to comply with privacy and security standards at least as stringent as the terms of this Privacy Policy. Please bear in mind that if you provide personal data directly to a third party, such as through a link on our website, the processing is typically based on their policies and standards.
+
+##### For other legitimate reasons
+
+If UpCloud is involved in a merger, acquisition or asset sale, we may transfer personal data to the third party involved. However, we will continue to ensure the confidentiality of all personal data. We will give notice to all Users concerned when the personal data are transferred or become subject to a different privacy policy as soon as reasonably possible.
+
+##### With explicit consent
+
+We may share personal data with third parties outside UpCloud’s organization for other reasons than the ones mentioned before, when we have the User’s explicit consent to do so. The User has the right to withdraw this consent at all times.
+
+**tl;dr** We do not share your personal data with third-parties unless necessary to provide you with our services or for legal reasons.
+
+### Storage period.
+
+UpCloud does not store personal data longer than is legally permitted and necessary for the purposes of providing the Services or the relevant parts thereof. The storage period depends on the nature of the information and the purposes of processing. The maximum period may therefore vary per use.
+
+Typically, we will store User’s personal data for as long as the User or the relevant customer User represents is a registered subscriber or a registered user of our Services or for as long as we have another purpose to do so and, thereafter, for no longer than is required or permitted by law or reasonably necessary for internal reporting and reconciliation purposes.
+
+In general, personal data of Users are deleted within reasonable time after the User no longer uses any part of the Services or when the User makes a request regarding deletion of User’s personal data.
+
+**tl;dr** We only store your personal data for while you are using our services. The data will be deleted within reasonable time after you’ve stopped using our services or request your personal data to be deleted.
+
+### Users’ rights.
+
+##### Right to access
+
+UpCloud offers access for the Users to the personal data processed by UpCloud. This means that Users may contact us and we will inform what personal data we have collected and processed regarding the said User and the purposes such data are used for.
+
+### Right to withdraw consent.
+
+In case the processing is based on a consent granted by User, User may withdraw the consent at any time. Withdrawing a consent may lead to fewer possibilities to use our Services.
+
+### Right to correct.
+
+Users have the right to have incorrect, imprecise, incomplete, outdated, or unnecessary personal data we have stored about the User corrected or completed.
+
+### Right to deletion.
+
+Users may also ask us to delete the User’s personal data from our systems. We will comply with such request unless we have a legitimate ground to not delete the data. We may not immediately be able to delete all residual copies from our servers and backup systems after the active data have been deleted. Such copies shall be deleted as soon as reasonably possible.
+
+### Right to object.
+
+Users may object to certain use of personal data if such data are processed for other purposes than purposes necessary for the performance of our Services to the User or for compliance with a legal obligation.
+
+Users may also object any further processing of personal data after prior given consent. If User objects the further processing of personal data, this may lead to fewer possibilities to use our Services.
+
+In the event and at the sole discretion of UpCloud, if it is determined that the Service can no longer be provided without customer acceptance of modified terms, a pro-rated refund of service will be paid back to the User.
+
+### Right to restriction of processing.
+
+Users may request us to restrict certain processing of personal data, this may however lead to fewer possibilities to use our Services.
+
+### Right to data portability.
+
+Users have the right to receive their personal data from us in a structured and commonly used format and to independently transmit those data to a third party.
+
+### How to use the rights.
+
+The above mentioned rights may be used by sending a letter or an e-mail to us on the addresses set out above, including the following information: the full name, company name (if applicable), address, e-mail address and a phone number. We may request the provision of additional information necessary to confirm the identity of the User. We may reject requests that are unreasonably repetitive, excessive or manifestly unfounded.
+
+**tl;dr** As a user you have the right to access, correct, and delete your personal data. Contact us for any requests to exercise your rights.
+
+### Direct marketing.
+
+Notwithstanding any consent granted beforehand for the purposes of direct marketing, User has the right to prohibit us from using User’s personal data for direct marketing purposes, market research and profiling by contacting us on the addresses indicated above or by using the functionalities of the Services or the unsubscribe possibility offered in connection with any direct marketing messages.
+
+You have the right to opt out of receiving electronic direct marketing communications from us, and choosing not to receive marketing communications from us in the future. UpCloud uses the Users’ e-mail addresses on record to communicate of updates and important information regarding the UpCloud infrastructure in the form of occasional newsletters. Users have the possibility to opt out of these e-mails by unsubscribing through the e-mail itself.
+
+You also have the right to prohibit us from using your personal data for direct marketing purposes, market research and profiling by contacting us on the addresses indicated above. In case your personal data are processed based on your consent, you have the right to withdraw your consent for such processing.
+
+**tl;dr** You have the right to prohibit us from using your personal data for direct marketing and unsubscribe from any e-mail campaigns.
+
+### Lodging a complaint.
+
+In case User considers our processing of personal data to be inconsistent with the applicable data protection laws, a complaint may be lodged with the local supervisory authority for data protection.
+
+### Information security.
+
+We will take all reasonable and appropriate security measures to protect the personal data we store and process from unauthorised access or unauthorised alteration, disclosure or destruction. Measures include for example, where appropriate, encryption, firewalls, secure facilities and access right systems.
+
+We maintain all personal data collected through industry standard safe mechanisms including, but necessarily limited to encryption of password data as well as API keys, SSL-encryption, passing of credit card information directly to our PCI compliant Merchant Processor and encryption of any collected credit card information.
+
+We use administrative, organizational, technical, and physical safeguards to protect the personal data we collect and process. Our security controls are designed to maintain an appropriate level of data confidentiality, integrity, and availability. We regularly test our websites, data centres, systems, and other assets for security vulnerabilities.
+
+Should despite of the security measures, a security breach occur that is likely to have negative effects to the privacy of Users, we will inform the relevant Users and other affected parties, as well as relevant authorities when required by applicable data protection laws, about the breach as soon as reasonably possible.
+
+**tl;dr** We use appropriate security measures to keep your personal data safe. If a breach that might affect your privacy should occur, we’ll inform the relevant authorities and let you know.
