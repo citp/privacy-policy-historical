@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the horrorfreaknews.com privacy policy that was archived on 2018-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181230121433id_/https%3A//horrorfreaknews.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the horrorfreaknews.com privacy policy that was archived on 2019-03-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190328125542id_/https%3A//horrorfreaknews.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Horror Freak News
 
