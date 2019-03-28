@@ -1,12 +1,10 @@
-> *The following text is extracted and transformed from the creditloan.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606171050id_/https%3A//www.creditloan.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the creditloan.com privacy policy that was archived on 2019-03-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190328081408id_/https%3A//www.creditloan.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - CreditLoan.com®
 
-**Protecting Your Privacy:** We will **never** call or email you asking for money. There is no fee to apply. Close
-
 We are committed to protecting your privacy and securing your information. Please read our full privacy policy below.
 
-This privacy statement applies to www.creditloan.com owned and operated by Credit Loan, LLC ("Credit Loan", "we", "us", "our"). This privacy statement describes how Credit Loan, LLC collects and uses the personal information you provide on our web site:  www.creditloan.com. It also describes the choices available to you regarding our use of your personal information and how you can access and update this information. 
+This privacy statement applies to www.creditloan.com owned and operated by Credit Loan, LLC ("Credit Loan", "we", "us", "our"). This privacy statement describes how Credit Loan, LLC collects and uses the personal information you provide on our web site: www.creditloan.com. It also describes the choices available to you regarding our use of your personal information and how you can access and update this information.
 
 If you have an unresolved privacy or data use concern that we have not addressed satisfactorily, please contact our U.S.-based third party dispute resolution provider (free of charge) at <https://feedback-form.truste.com/watchdog/request>.
 
@@ -18,7 +16,7 @@ This notice applies to all information collected or submitted on the creditloan.
 
 By submitting your personal information, you understand and agree such personal information (including the Sensitive Information) may be shared with third-parties, including without limitation, Loan Providers in order to complete your request for Loan Products and/or other marketing purposes. We reserve the right to share, rent, sell or otherwise disclose your information with/to third parties in accordance with applicable laws and as described herein. These third party businesses may include, but are not limited to: consumer reporting agencies, consumer credit bureaus, financial service providers, Loan Providers, providers of direct marketing services and applications, including lookup and reference, data enhancement, suppression and validation; e-mail marketers; wireless services providers and telemarketers. Furthermore, you authorize us to use any information collected from you to obtain other information about you from third-parties, such as your social security number, where such information was incompletely or improperly filled out on our registration form. Third–parties may also use your personal information for any lawful purposes, subject to any restrictions contained herein. Any information that you supply to any third-party or Loan Provider shall be governed by the applicable third party’s or Loan Providers' Privacy Policies. Any and all information that we collect from you and from any third-party may be used to determine your eligibility for any product, service or offer.
 
-**Please be advised that CreditLoan™ does not itself provide Loan Products, Services, Brokering or Customer Service related to any application submitted by you, or any other related products and/or services. The ultimate terms and conditions of any Loan Products and Information provided by any Loan Providers will be determined by those Loan Providers.**
+ **Please be advised that CreditLoan™ does not itself provide Loan Products, Services, Brokering or Customer Service related to any application submitted by you, or any other related products and/or services. The ultimate terms and conditions of any Loan Products and Information provided by any Loan Providers will be determined by those Loan Providers.**
 
 Please note: by submitting your personal information, your information is being provided by you freely. You further agree to receive marketing offers from us or third-party marketers, that we or they may believe may be of interest to you, and you expressly consent and agree to be contacted through but not limited to the following methods: (a) direct mail marketing; (b) e-mail marketing; (c) telemarketing calls (where permitted by applicable law); (d) SMS text-based messages (where permitted by applicable law); and (e) any other manner contemplated herein. By using this Website, you agree that you may be contacted in any manner contemplated in this section, even if your number is found on a do-not-call registry or similar registry.
 
@@ -28,7 +26,7 @@ We specifically reserve the right to release current or past user information, a
 
 By registering, you agree that such act constitutes an inquiry and/or application for purposes of the Amended Telemarketing Sales Rule (16 CFR Â§310 et seq.), as amended from time to time (the "Rule") and applicable state do-not-call regulations. As such, notwithstanding that your telephone number may be listed on the Federal Trade Commission’s Do-Not-Call List, and/or on applicable federal or state do-not-call lists, we retain the right to contact you via telemarketing in accordance with the Rule and applicable state do-not-call regulations.
 
-In addition, by submitting your personal information, you agree to receive mobile marketing including, but not limited to, text-message based marketing, from us and our third party advertisers and marketers (where, and to the extent that, such marketing is permitted by applicable law). You further agree that based on your individual carrier and plan, you may incur charges associated with such SMS Messages and that you agree to be solely responsible for such charges. You represent that you are at least 18 years of age and the owner or authorized user of the wireless device on which messages will be received, and that you are authorized to approve the applicable charges. Should you hereafter choose to opt-out of receiving SMS Messages from the individual sender, you may opt-out by texting "STOP" or "OPT-OUT" as specifically set forth in the communication. Notwithstanding that your mobile telephone number may be listed on state and/or federal do-not-call registries, we retain the right to contact you via SMS Messages. In addition, by registering and/or using the Website, you agree that such act constitutes an inquiry and/or application for purposes of the Amended Telemarketing Sales Rule (16 CFR 310 et seq.), as amended from time to time. As such, notwithstanding that your mobile telephone number may be listed on state and/or federal Do-Not-Call registries, we retain the right to contact you via text-message based marketing in accordance with applicable state and federal law. Further, you agree that we reserve the right to share, sell, rent, lease and/or otherwise distribute your mobile telephone and other mobile data with/to any third-party for any and all non-marketing uses permitted by this Privacy Statement and applicable law.
+In addition, by submitting your personal information, you agree to receive mobile marketing including, but not limited to, text-message based marketing, from us and our third party advertisers and marketers (where, and to the extent that, such marketing is permitted by applicable law). You further agree that based on your individual carrier and plan, you may incur charges associated with such SMS Messages and that you agree to be solely responsible for such charges. You represent that you are at least 18 years of age and the owner or authorized user of the wireless device on which messages will be received, and that you are authorized to approve the applicable charges. Should you hereafter choose to opt-out of receiving SMS Messages from the individual sender, you may opt-out by texting "STOP" or "OPT-OUT" as specifically set forth in the communication. Notwithstanding that your mobile telephone number may be listed on state and/or federal do-not-call registries, we retain the right to contact you via SMS Messages. In addition, by registering and/or using the Website, you agree that such act constitutes an inquiry and/or application for purposes of the Amended Telemarketing Sales Rule (16 CFR 310 et seq.), as amended from time to time. As such, notwithstanding that your mobile telephone number may be listed on state and/or federal Do-Not-Call registries, we retain the right to contact you via text-message based marketing in accordance with applicable state and federal law.
 
 Without limiting the generality of the foregoing, we reserve the right to share, sell, rent, lease and/or otherwise distribute any and all personal information (other than the Sensitive Information) with/to any third party for any and all uses permitted by this Privacy Statement and applicable law.
 
@@ -46,9 +44,24 @@ Phone: 813-527-0728
 
 Mailing Address:
 
-CreditLoan, LLC  
-235 Apollo Beach Blvd, STE 218  
-Apollo Beach, FL 33572 
+Credit Loan, LLC  
+Corporate Center One @ International Plaza  
+2202 N. West Shore Blvd., Suite 200  
+Tampa, Florida 33607
+
+## Electronic Disclosure
+
+By submitting your information via the Internet, you agree to receive certain notifications, disclosures and/or documents electronically. This Consent to Electronic Disclosures applies to the information you are providing on this Site and any other communications we or any third party lender may provide to you. By submitting your information you agree to receive all such notifications, disclosures and/or documents from us or any third party lender in electronic form or online in accordance with this document. You may withdraw your consent prior to submitting your information by exiting the website or by closing your browser. However, you will not be able to submit your information if you withdraw your consent by exiting the website or closing your browser. Following the submission of your information, you may be able to withdraw your consent to future electronic disclosures from a third party lender by contacting the lender directly, but due to rules regarding the timing of delivery of disclosures that need to be made to you, you acknowledge that an opt-out notice may not be received and acted upon by such third party lender prior to such disclosures being delivered to you electronically. We do not process opt-out communications for third party lenders, and each third party lender establishes its own rules regarding opting out of future electronic communications and disclosures.
+
+All notifications, disclosures and/or documents that we or any third party lender provide to you in electronic format will be provided either (i) via e-mail; (ii) by access to a secure customer service website which will be provided to you in an e-mail notice sent to you when the documents are available; (iii) by posting on this Site or the lender’s site; or (iv) by posting on a website designated for that purpose. All notifications, disclosures and/or documents provided in electronic or paper format from us or any third party lender to you will be considered “in writing,” and you should print a copy for your records. You may obtain any notifications, disclosures and/or documents in paper form without charge from us by printing them yourself from our website or the appropriate third party lender’s website when available. To access, view and retain the notifications, disclosures, and/or documents available to you in electronic form, you must have Internet access, sufficient electronic storage capacity, an e-mail account with an Internet service provider e-mail software.
+
+You agree and intend the federal Electronic Signatures in Global and National Commerce Act to apply to (i) your consent to receive notifications, disclosures and/or documents in electronic form; (ii) the information you provide, and (iii) our and/or any third party lenders’ ability to conduct business with you by electronic means.
+
+By completing and submitting your information, you (i) agree to provide us with an accurate and complete e-mail address and other required information requested on this Site; (ii) confirm your consent to receive notifications, disclosures and/or documents from us and any third party lender in electronic format; (iii) affirmatively demonstrate your ability to access the notifications, disclosures and/or documents in electronic form; (iv) confirm that you have provided a current e-mail address at which electronic notifications, documents and/or disclosures can be sent to you; (v) acknowledge that you have read and reviewed the terms contained in this Electronic Disclosure section; and (vi) agree to the terms contained in this Electronic Disclosure section.
+
+We and any third party lender, reserve the right, in our sole discretion, to discontinue electronic provision of notifications and/or documents. You will be provided with notice of any such termination or change as required by law.
+
+To facilitate electronic commerce, to reduce the expense of records storage, and to obtain the benefits of faster access to records, you acknowledge and agree that all records may be stored electronically; and that neither we nor any third party lender will retain and have no obligation to retain any original or electronic documents for any period of time beyond the regulatory requirements. This applies to all notifications, disclosures and/or documentation. You further acknowledge and understand that all original and electronic notification, disclosures and/or documentation will be routinely destroyed, but not before the period of time designated by regulatory requirements. Records may be stored electronically via imaging, scanning, filming or other technology used for the storage of documentation via internal processes or third-party processors that we or any third party lender approve for these services. You agree that such storage shall be secure, and further agree that such records shall for all purposes be recognized and admissible in evidence or otherwise to prove the agreements, rights and obligations of the parties pursuant to any such records. We will retain your information for as long as needed to provide you services. If you wish to request that we no longer use your information to provide you services please contact us at [support@creditloan.com](mailto:support@creditloan.com). We will retain and use your information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements.
 
 ## Our Commitment to Children's Privacy
 
@@ -68,6 +81,21 @@ We do not store e-mail addresses from correspondence sent to us. If you contact 
 
 You may opt-out of receiving communications from us and or our third-party associates by not submitting your information. When you enter your personal information at the Web site, you have opted-in to request that we share your personal information with third parties to receive marketing communications. When contacted by any of these third-party marketers, you should notify them directly of your choices regarding their use and sharing of your information and may opt-out of receiving additional offers from them or any third-parties with whom they have shared your information. If you no longer wish to receive our newsletter and/or promotional communications from us, you may opt-out of receiving them by following the instructions included in each newsletter or communication or by emailing us at [support@creditloan.com](mailto:support@creditloan.com). We also offer an opportunity to opt-out of certain communications utilizing the online contact us link, or via telephone at 813-527-0728.
 
+## Text Message Policy
+
+By providing your cell phone number, you have provided Credit Loan, LLC, Finance Matrix, LLC, and Marketing Labs, LLC with consent to send you recurring text messages in conjunction with the services you have requested.
+
+  * You may opt-out at any time by texting the word STOP to 26435. An opt-out confirmation message will be sent back to you.
+  * For help, text the word HELP to 26435.
+  * Message frequency varies. Message and data rates may apply.
+  * To request support, Text HELP to 26435 or email us at [support@creditloan.com](mailto:support@creditloan.com)
+
+
+
+MMS - If your phone doesn't support MMS, You'll receive SMS instead.
+
+This program is supported by all U.S. carriers. Credit Loan, LLC, Finance Matrix, LLC, and Marketing Labs, LLC, carriers (including but not limited to T-Mobile) and any service provider used by Credit Loan, LLC, Finance Matrix, LLC, and Marketing Labs, LLC to send messages are not liable for delayed or undeliverable messages.
+
 ## Co-Branded Disclosure and External Web Sites
 
 Please note that Creditloan.com contains links, co-branded links, and forms that direct to other web sites. Please be aware that we are not responsible for the privacy practices of these other web sites. In any case that you fill out an application that looks like it is located on www.creditloan.com , it will not be collected by our web site, but by the affiliate or Loan Provider website. We encourage you to be aware while using our site, when you leave our site, and to read the terms and conditions and/or privacy statements of each and every site seeking your personal information.
@@ -86,7 +114,7 @@ We partner with a third party to either display advertising on our Web site or t
 
 ## Blog
 
-Our Web site offers publicly accessible blogs or community forums. You should be aware that any information you provide in these areas may be read, collected, and used by others who access them. To request removal of your personal information from our blog or community forum, contact us at support@creditloan.com. In some cases, we may not be able to remove your personal information, in which case we will let you know if we are unable to do so and why.
+Our Web site offers publicly accessible blogs or community forums. You should be aware that any information you provide in these areas may be read, collected, and used by others who access them. To request removal of your personal information from our blog or community forum, contact us at [support@creditloan.com](mailto:support@creditloan.com) In some cases, we may not be able to remove your personal information, in which case we will let you know if we are unable to do so and why.
 
 Our blog is managed by a third party application that may require you to register to post a comment. We do not have access or control of the information posted to the blog. You will need to contact or login into the third party application if you want the personal information that was posted to the comments section removed. To learn how the third party application uses your information, please review their privacy policy.
 
@@ -116,6 +144,10 @@ Creditloan.com is an online directory and resource for credit, loans, bad credit
 
 We offer tips from consumers and opinionated advice and we are not responsible for any actions or decisions made by any Loan Provider, Lenders, and/or Banks. Furthermore, changing financial markets along with the steadily changing lender rules and guidelines, the information about lenders and loan processes may not always be updated timely on our site. Actual lenders will be able to give you complete and accurate information regarding their services and terms once you get to their respective websites. We are not responsible for lender decisions. We are simply an informational resource and are not involved in the lending process.
 
+## CreditLoan Alerts SMS Opt-In
+
+By checking the SMS opt-in box, you are providing your electronic signature expressly authorizing and consenting to receive educational and marketing related text messages (using an automated dialing system or containing pre-recorded messaging) at the number provided, from or on behalf of CreditLoan®, even if this number is listed on any federal or state do not call registry. By opting-in to receive SMS text messages, you are only providing your consent to the party(ies) listed in the opt-in. Your consent to receive SMS text messages that will not be shared, sold, rented or leased to any other party. CreditLoan® is not a lender, does not broker loans to lenders and does not make/fund any product offerings, loans, or credit decisions. This website does not constitute an offer or solicitation to lend. This Website will securely submit the information you provide to a lender. Providing your information on this Website does not guarantee approval for a product offering. No more than fifteen (15) financial advice and marketing messages will be sent per month. You understand that you are not required to provide your consent as a condition of purchasing any products or services will be sent from 26435. You can contact customer care at (855) 846-9666. To opt-out at any time reply STOP, HELP for info. Message and data rates may apply. Carriers are not liable for delayed or undelivered messages. No sale or dissemination to 3rd parties. See [terms and conditions](https://www.creditloan.com/terms-of-use/).
+
 ## Copyright Notice
 
 All materials contained in this website are protected by federal copyright laws, and may not be reproduced, republished, distributed, displayed, or otherwise exploited in any manner without the express prior written permission of Creditloan.com. Our official copyright statement can be viewed here: [Copyright Statement](https://www.creditloan.com/copyright-statement/).
@@ -126,9 +158,10 @@ We routinely check for copyright violations and content duplication. Federal leg
 
 If you have questions or comments, email us at [support@creditloan.com](mailto:support@creditloan.com), or mail us via postal mail at:
 
-CreditLoan, LLC  
-235 Apollo Beach Blvd, STE 218  
-Apollo Beach, FL 33572 
+Credit Loan, LLC  
+Corporate Center One @ International Plaza  
+2202 N. West Shore Blvd., Suite 200  
+Tampa, Florida 33607
 
 ## Changes to Privacy Statement
 
@@ -136,4 +169,4 @@ We reserve the right, in our sole discretion, to change, modify, add and/or remo
 
 If we decide to change our privacy policy, we will post those changes to this privacy statement, the homepage, and other places we deem appropriate so that you are aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it. We reserve the right to modify this privacy statement at any time, so please review it frequently. If we make material changes to this policy, we will notify you here, by email, or by means of a notice on our homepage prior to the change becoming effective.
 
-_Updated March 22, 2017_
+ _Updated February 11, 2019_
