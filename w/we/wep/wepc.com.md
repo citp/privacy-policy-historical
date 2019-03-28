@@ -1,26 +1,15 @@
-> *The following text is extracted and transformed from the wepc.com privacy policy that was archived on 2011-07-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110708150320id_/http%3A//wepc.com/General.aspx%3Fpageid%3D148) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wepc.com privacy policy that was archived on 2019-03-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190328161630id_/https%3A//www.wepc.com/privacy-cookie-policy) for the most accurate reproduction.*
 
-# WePC
+# Privacy & Cookie Policy - WePC.com
 
-The web site WePC.com ("Site") is a joint website of Intel Corporation ("Intel") and ASUSTek Computer Incorporated ("ASUS"), who are committed to protecting the privacy of information you provide to this site. This Statement of Privacy applies to the Site and governs collection and usage of personal data through this Site. This Statement of Privacy does not apply to other ASUS or Intel sites, products, or services. 
+WePC.com takes your privacy seriously. This privacy policy describes what personal information we collect and how we use it. See this [privacy policy primer](http://cybec.com/what-is-a-privacy-policy/) to learn more about privacy policies in general.
 
-By using this Site, you consent to the collection and use of the information and data as described here. If we decide to change this privacy policy, we will post the changes on this page so that you will always know what information we collect, and how we use it. 
+This Site is affiliated with AdThrive, LLC (“AdThrive”) for the purposes of placing advertising on the Site.  AdThrive uses standard and widely-available tools for the placement and serving of ads, including those provided by Google, Inc. and its affiliates. We publish interest-based advertisements on the Site; that is, ads that are tailored to reflect your interests. To help understand your interests, AdThrive, Google and our other advertising partners will track your behaviour on our website and on other websites across the Internet using cookies.
 
-**Collection and Use of Personal Data:** On the Site, we only store personal information relating to you with your permission. You may choose to reveal information to us if, for example, you register for a service, enter a contest or complete a survey. If you choose to register for an activity on the Site, you may be asked for your formal consent regarding collection and usage of your personally identifiable information. Unless otherwise stated when you register, the personal information collected on this Site will be used to operate the Site and to provide the service(s) or carry out the transaction(s) you have requested or authorized. 
+A cookie is a file containing an identifier (a string of letters and numbers) that is sent by a web server to a web browser and is stored by the browser. The identifier is then sent back to the server each time the browser requests a page from the server. Cookies may be either "persistent" cookies or "session" cookies: a persistent cookie will be stored by a web browser and will remain valid until its set expiry date, unless deleted by the user before the expiry date; a session cookie, on the other hand, will expire at the end of the user session, when the web browser is closed.  Cookies do not typically contain any information that personally identifies a user, but personal information that we store about you may be linked to the information stored in and obtained from cookies.
 
-ASUS and Intel will share personal information with one another once collected from you through the Site. Once shared, ASUS and Intel will only use your personal information in accordance with the respective Privacy Policies of each company. 
+By using this Site, you consent to the use of such cookies and the sharing of data captured by such cookies with AdThrive, Google, and our other third party partners. You can view, delete or add interest categories associated with your browser by visiting: [https://adssettings.google.com](https://adssettings.google.com/). You can also opt out of the network cookie using those settings or using the Network Advertising Initiative's multi-cookie opt-out mechanism at: [http://optout.networkadvertising.org](http://optout.networkadvertising.org/). However, these opt-out mechanisms themselves use cookies, and if you clear the cookies from your browser your opt-out will not be maintained.
 
-You may view Intel's Privacy Policy here:   
-[http://www.intel.com/sites/corporate/privacy.htm?iid=HMPAGE+Footer_privacy](http://www.intel.com/sites/corporate/privacy.htm)  
+For European Economic Area Residents
 
-You may view ASUS' Privacy Policy here: [http://usa.asus.com/privacy.aspx](http://usa.asus.com/privacy.aspx)  
-
-Third parties such as Communications Blueprint (ComBlu) who assist ASUS and Intel in the management of the Site may access and collect information on behalf of ASUS or Intel through the Site, but they are not allowed to use this data for their own business purposes separate from their relationship with ASUS or Intel. We will only share your personal data with these third parties according to applicable data protection laws or with your express permission. This data is used by these third parties solely for the purposes described under this Privacy Statement. 
-
-ASUS and Intel will disclose your personal information, without notice, only if required to do so or in line with applicable laws. 
-
-**Access to Your Personal Information:** You can review and edit the personal information you provided at this Site by logging in and changing your information. 
-
-**Links to Other Sites:** This site contains links to other sites. ASUS and Intel are not responsible for the privacy practices or the content of third party Web sites you may access through the Site. 
-
-**Inquiries:** If you have any questions about this privacy statement -- if, for example, you wish to inspect or update the information we hold about you -- please _Contact Us_.
+If you reside in a country in the European Economic Area (EEA), then under the GDPR and applicable data protection laws you have the rights, among other things, to access your personal data, have us erase it, and/or restrict its further processing.  If you wish to access or delete your personal data (if any) maintained by us or AdThrive related to advertising on the Site, you can contact us at ben@wepc.com ** ** and contact AdThrive at [info@adthrive.com](mailto:info@adthrive.com). If you wish to see a list of the advertising partners we work with or change which of those partners track your behavior using cookies, click the ad preferences link at the bottom of the site. (Available in the EU.)
