@@ -1,94 +1,75 @@
-> *The following text is extracted and transformed from the dolphinmusic.co.uk privacy policy that was archived on 2018-03-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180322125555id_/https%3A//www.pmtonline.co.uk/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dolphinmusic.co.uk privacy policy that was archived on 2019-03-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190328202700id_/https%3A//www.pmtonline.co.uk/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy PMT Online
 
-This privacy policy sets out how PMT Online uses and protects any information that you give PMT Online when you use this website. PMT Online is committed to ensuring that your privacy is protected. Should we ask you to provide certain information by which you can be identified when using this website, then you can be assured that it will only be used in accordance with this privacy statement. PMT Online may change this policy from time to time by updating this page. You should check this page from time to time to ensure that you are happy with any changes.
+**PMT Online Privacy Policy**
 
-## What we collect
+S & T Audio Ltd (“PMT Online”) respects your privacy and provides this Privacy Policy to identify the types of information we collect, how it is used, your rights with respect to that data, and how you may contact us regarding your data.
 
-We may collect the following information:
+PMT Online may modify this policy at any time either by providing your email notification and/or via a notification on our home page. For your information, this policy was last updated on May 23rd, 2018.
 
-  * name
-  * contact information including email address
-  * demographic information such as postcode, preferences and interests
-  * other information relevant to customer surveys and/or offers
+**Information We Collect and How We Use It**
 
+When using our web site, you may be asked to enter your name, email address, phone number or other details to help you with your experience.
 
+We may use the information we collect from you when you register, make a purchase, sign up for our newsletter, respond to a survey or marketing communication, surf the web site, or use certain other web site features in the following ways:
 
-For the exhaustive list of cookies we collect see the List of cookies we collect section.
+• To personalise your experience and to allow us to deliver the type of content and product offerings in which you are most interested.  
+• To allow us to better service you in responding to your customer service requests.  
+• To send periodic emails regarding your basket, your order or other products and services.
 
-## What we do with the information we gather
+When you open an account or sign up for email communications to our web site, you will receive an email from us asking you to confirm your email address - this gives us confirmation that you want to receive emails from us.
 
-We require this information to understand your needs and provide you with a better service, and in particular for the following reasons:
+If you add a product to your basket on our web site, we may send you an abandoned basket email. By adding a product to your basket shows intent to purchase and allows us to send you this email.
 
-  * Internal record keeping.
-  * We may use the information to improve our products and services.
-  * We may periodically send promotional emails about new products, special offers or other information which we think you may find interesting using the email address which you have provided.
-  * From time to time, we may also use your information to contact you for market research purposes. We may contact you by email, phone, fax or mail. We may use the information to customise the website according to your interests.
+**Retail Stores**
 
+Currently, we have multiple retail stores across the UK. When you make a purchase from one of our stores you’ll be asked if you want to join our mailing list. Your order data and contact details are stored in our centralised database. This same database contains all of our customer information irrespective of where our customers have purchased from. The same security is given to your data regardless of where you’ve purchased from.
 
+**Information Collected by Automated Means**
 
-## Security
+Information is collected through cookies, log files, link tracking, and/or third parties. Some of the collected information is tied to your personally identifiable information to provide offers and improve the content of the web site for you.
 
-We are committed to ensuring that your information is secure. In order to prevent unauthorised access or disclosure, we have put in place suitable physical, electronic and managerial procedures to safeguard and secure the information we collect online.
+**Cookies**
 
-## How we use cookies
+ ****Cookies are small files that a web site or its service provider transfers to your computer’s hard drive through your web browser (if you allow) that enables the web site systems to recognise your web browser and capture and remember certain information. For instance, we use cookies to help us maintain sessions when logged into the PMT Online web site. They are also used to help us understand your preferences based on previous or current web site activity. This enables us to provide you with an improved service. We also use cookies to help us compile aggregate data about web site traffic and web site interaction so that we can offer better web site experiences and tools in the future.
 
-A cookie is a small file which asks permission to be placed on your computer's hard drive. Once you agree, the file is added and the cookie helps analyse web traffic or lets you know when you visit a particular site. Cookies allow web applications to respond to you as an individual. The web application can tailor its operations to your needs, likes and dislikes by gathering and remembering information about your preferences.
+You can choose to have your computer warn you each time a cookie is being sent, or you can choose to turn off all cookies. You do this through your web browser (such as IE, Chrome, Safari or Firefox) settings. Each web browser is a little different, so look at your web browser’s “Help” menu to learn the correct way to modify your cookies.
 
-We use traffic log cookies to identify which pages are being used. This helps us analyse data about web page traffic and improve our website in order to tailor it to customer needs. We only use this information for statistical analysis purposes and then the data is removed from the system.
+If you disable cookies, some features will be disabled. It is not recommended to disable cookies as it will impact your ability to use the PMT Online web site.
 
-Overall, cookies help us provide you with a better website, by enabling us to monitor which pages you find useful and which you do not. A cookie in no way gives us access to your computer or any information about you, other than the data you choose to share with us. You can choose to accept or decline cookies. Most web browsers automatically accept cookies, but you can usually modify your browser setting to decline cookies if you prefer. This may prevent you from taking full advantage of the website.
+**Log Files**
 
-## Links to other websites
+Web site log files are used to store information such as: internet protocol (IP) addresses, browser type, internet service provider (ISP), referring/exit pages, platform type, date/time stamp, and number of clicks. This information is used to analyse trends, administer the web site, track your movement within the web site and gather broad demographic information for aggregate use.
 
-Our website may contain links to other websites of interest. However, once you have used these links to leave our site, you should note that we do not have any control over that other website. Therefore, we cannot be responsible for the protection and privacy of any information which you provide whilst visiting such sites and such sites are not governed by this privacy statement. You should exercise caution and look at the privacy statement applicable to the website in question.
+**Information Retention**
 
-## Controlling your personal information
+ ****PMT Online will retain personal information, customer and business information for as long as it is needed to provide services and/or products that you have requested; to communicate with you about a request you have made; to comply with our legal and regulatory obligations, to demonstrate compliance, and to enforce PMT Online rights and agreements.
 
-You may choose to restrict the collection or use of your personal information in the following ways:
+**How We Share Your Personal Information**
 
-  * whenever you are asked to fill in a form on the website, look for the box that you can click to indicate that you do not want the information to be used by anybody for direct marketing purposes
-  * if you have previously agreed to us using your personal information for direct marketing purposes, you may change your mind at any time by writing to or emailing us at sales@pmtonline.co.uk
+ ****PMT Online may share your information with companies that provide services to help us with our business activities (and who are obligated to maintain the confidentiality of the information); in response to lawful requests from public authorities; with a related business entity in connection with a merger or corporate reorganisation or as may be necessary to comply with the law, enforce our web site policies or protect third parties’ or PMT Online rights, property and safety.  
+**  
+Data Security**
 
+ ****Safeguarding the information that you give us or we receive about you is a priority for PMT Online. We take appropriate security measures to protect against loss, misuse and unauthorised access, alteration, disclosure, or destruction of your information and have security awareness and training for the relevant members of our staff, including management.
 
+**Correcting/Updating/Deleting/Deactivating Personal Information**
 
-We will not sell, distribute or lease your personal information to third parties unless we have your permission or are required by law to do so. We may use your personal information to send you promotional information about third parties which we think you may find interesting if you tell us that you wish this to happen.
+ ****If you would like to view, update, or remove the personal information we have relating to you, please email us your request at mydata@pmtonline.co.uk
 
-You may request details of personal information which we hold about you under the Data Protection Act 1998. A small fee will be payable. If you would like a copy of the information held on you please write to 48-50 Queens Road  
+If at any time you would like to unsubscribe from receiving future emails, you can email us at unsubscribe@pmtonline.co.uk and our systems will promptly remove you from ALL correspondence.
+
+**Contact Information**
+
+ ****If there are any questions regarding this privacy policy, you may contact us using the information below.
+
+**PMT Online**  
+48-50 Queens Road  
 Southend On Sea  
 SS1 1NL.
 
-If you believe that any information we are holding on you is incorrect or incomplete, please write to or email us as soon as possible, at the above address. We will promptly correct any information found to be incorrect.
+Email: [mydata@pmtonline.co.uk](mailto:mydata@pmtonline.co.uk)  
+Telephone: 0151 448 2089
 
-## List of cookies we collect
-
-The table below lists the cookies we collect and what information they store.
-
-COOKIE name | COOKIE Description  
----|---  
-CART | The association with your shopping cart.  
-CATEGORY_INFO | Stores the category info on the page, that allows to display pages more quickly.  
-COMPARE | The items that you have in the Compare Products list.  
-CURRENCY | Your preferred currency  
-CUSTOMER | An encrypted version of your customer id with the store.  
-CUSTOMER_AUTH | An indicator if you are currently logged into the store.  
-CUSTOMER_INFO | An encrypted version of the customer group you belong to.  
-CUSTOMER_SEGMENT_IDS | Stores the Customer Segment ID  
-EXTERNAL_NO_CACHE | A flag, which indicates whether caching is disabled or not.  
-FRONTEND | You sesssion ID on the server.  
-GUEST-VIEW | Allows guests to edit their orders.  
-LAST_CATEGORY | The last category you visited.  
-LAST_PRODUCT | The most recent product you have viewed.  
-NEWMESSAGE | Indicates whether a new message has been received.  
-NO_CACHE | Indicates whether it is allowed to use cache.  
-PERSISTENT_SHOPPING_CART | A link to information about your cart and viewing history if you have asked the site.  
-POLL | The ID of any polls you have recently voted in.  
-POLLN | Information on what polls you have voted on.  
-RECENTLYCOMPARED | The items that you have recently compared.  
-STF | Information on products you have emailed to friends.  
-STORE | The store view or language you have selected.  
-USER_ALLOWED_SAVE_COOKIE | Indicates whether a customer allowed to use cookies.  
-VIEWED_PRODUCT_IDS | The products that you have recently viewed.  
-WISHLIST | An encrypted list of products added to your Wishlist.  
-WISHLIST_CNT | The number of items in your Wishlist.
+This privacy policy relates solely to this web site and our retail stores.
