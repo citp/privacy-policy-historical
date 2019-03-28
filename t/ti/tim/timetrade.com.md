@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the timetrade.com privacy policy that was archived on 2018-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181227021006id_/https%3A//www.timetrade.com/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the timetrade.com privacy policy that was archived on 2019-03-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190328050219id_/https%3A//www.timetrade.com/privacy-statement) for the most accurate reproduction.*
 
 # Privacy Statement | TimeTrade
 
@@ -72,7 +72,7 @@ When any web browser connects to a TimeTrade provided website or service, the we
 TimeTrade’s websites and services have reasonable administrative, technical, and physical safeguards in place designed to protect your personal information from loss, misuse, and unauthorized access, disclosure, alternation, or destruction. TimeTrade utilizes industry adopted server and database security measures, including encryption of personal data over public networks. TimeTrade also limits its employee’s access to personal information. Despite these protections, no information system is 100% secure, so we cannot guarantee the absolute security of your information at all times.
 
  **13\. Privacy Shield, Rights of EU Data Subjects & International Data Transfers from the European Economic Area (EEA)**   
-TimeTrade Systems Inc. complies with the EU-U.S. Privacy Shield Framework and Swiss-U.S. Privacy Shield Framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal information transferred from the European Union and Switzerland to the United States. TimeTrade Systems Inc. has certified to the Department of Commerce that it adheres to the Privacy Shield Principles. If there is any conflict between the terms in this privacy statement and the Privacy Shield Principles, the Privacy Shield Principles shall govern. To learn more about the Privacy Shield program, and to view our certification, please visit [https://www.privacyshield.gov](https://www.privacyshield.gov/)
+TimeTrade Systems Inc. complies with the EU-U.S. Privacy Shield Framework and the Swiss-U.S. Privacy Shield Framework(s) (Privacy Shield) as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal information transferred from the European Union and the United Kingdom and/or Switzerland to the United States in reliance on Privacy Shield. TimeTrade Systems Inc. has certified to the Department of Commerce that it adheres to the Privacy Shield Principles with respect to such information. If there is any conflict between the terms in this privacy policy and the Privacy Shield Principles, the Privacy Shield Principles shall govern. To learn more about the Privacy Shield program, and to view our certification, please visit [https://www.privacyshield.gov](https://www.privacyshield.gov/)
 
 TimeTrade respects an EEA individual’s rights to access personal information about them, and to limit use and disclosure of their personal information. TimeTrade has limited ability to access information our customers submit to our services, however, if you wish to request access, to limit use, or to limit disclosure, please provide the name of the TimeTrade customer who submitted your personal information to our services. We will refer your request to that customer and will support them as needed in responding to your request.
 
@@ -96,4 +96,4 @@ As noted above, TimeTrade considers all User information collected by TimeTrade 
  **16\. Contacting Us**   
 Please direct any questions regarding our Privacy Statement to our privacy coordinator at [privacy@timetrade.com](mailto:privacy@timetrade.com).
 
- _This document was last updated on 11/14/2018._
+ _This document was last updated on 02/13/2019._
