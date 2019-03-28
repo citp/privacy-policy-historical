@@ -1,8 +1,9 @@
-> *The following text is extracted and transformed from the fishisfast.com privacy policy that was archived on 2018-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180627004754id_/https%3A//www.fishisfast.com/en/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fishisfast.com privacy policy that was archived on 2019-03-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190328101545id_/https%3A//www.fishisfast.com/en/privacy) for the most accurate reproduction.*
 
 # Fishisfast US Parcel Forwarding
 
-####  __Privacy Policy
+  
+
 
 ##### What information do we collect?
 
