@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the gamebillet.com privacy policy that was archived on 2018-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181227145210id_/https%3A//www.gamebillet.com/privacy-notice) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gamebillet.com privacy policy that was archived on 2019-03-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190328151619id_/https%3A//www.gamebillet.com/privacy-notice) for the most accurate reproduction.*
 
 # Privacy Policy
 
 **Controllers of Personal Information**
 
-Any personal information provided to or gathered by GameBillet.com is controlled by Gamebillet, Inc.  (2035 Sunset Lake Road Suite B-2  Newark, DE) and GB Digital Distribution OÜ (Sepapaja 6, Tallinn 15551, Estonia, VAT number: EE101997300). 
+Any personal information provided to or gathered by GameBillet.com is controlled by Gamebillet, Inc.  (2093 PHILADELPHIA PIKE #2732 CLAYMONT , DE 19703) and GB Digital Distribution OÜ (Sepapaja 6, Tallinn 15551, Estonia, VAT number: EE101997300). 
 
 **What Personal Information About Customers Does GameBillet.com Gather?**
 
