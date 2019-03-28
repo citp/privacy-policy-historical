@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the kenresearch.com privacy policy that was archived on 2018-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181205195511id_/https%3A//www.kenresearch.com/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kenresearch.com privacy policy that was archived on 2019-03-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190328215136id_/https%3A//www.kenresearch.com/privacy-policy.php) for the most accurate reproduction.*
 
-# Privacy Policy: Kenresearch.com
+# Privacy Policy: Ken Research
 
 This Privacy Policy covers the information Ken Research ("Platform" and/or "We") collects from the user(s) ("User(s)" and/or "You") of www.kenresearch.com ("Website") Personal Information of a User(s) is collected if the User(s) registers with the Website, accesses the Website or take any action on the Website. Here are our privacy principles: Providing information to us is your choice. You can choose to have the Personal Information provided by You deleted. You always have the ability to opt-out of receiving communications from us. 
 
