@@ -1,95 +1,73 @@
-> *The following text is extracted and transformed from the fantasysp.com privacy policy that was archived on 2017-09-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170912132751id_/https%3A//www.fantasysp.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fantasysp.com privacy policy that was archived on 2019-03-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190328012820id_/https%3A//www.fantasysp.com/privacy) for the most accurate reproduction.*
 
-# FantasySP / Privacy Policy
+# FantasySP Privacy Policy
 
-**What information do we collect?**
+FantasySP Privacy Policy
 
-We collect information from you when you register on our site. 
+This Privacy Policy describes how your personal information is collected, used, and shared when you visit or make a purchase from https://www.fantasysp.com (the “Site”).
 
-Google, as a third party vendor, uses cookies to serve ads on your site. Google's use of the DART cookie enables it to serve ads to your users based on their visit to your sites and other sites on the Internet. Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy..
+PERSONAL INFORMATION WE COLLECT
 
- **What do we use your information for?**
+When you visit the Site, we automatically collect certain information about your device, including information about your web browser, IP address, time zone, and some of the cookies that are installed on your device. Additionally, as you browse the Site, we collect information about the individual web pages or products that you view, what websites or search terms referred you to the Site, and information about how you interact with the Site. We refer to this automatically-collected information as “Device Information.”
 
-Any of the information we collect from you may be used in one of the following ways: 
+We collect Device Information using the following technologies:
 
-• To personalize your experience  
-(your information helps us to better respond to your individual needs)
+  * “Cookies” are data files that are placed on your device or computer and often include an anonymous unique identifier. For more information about cookies, and how to disable cookies, visit http://www.allaboutcookies.org.
+  * “Log files” track actions occurring on the Site, and collect data including your IP address, browser type, Internet service provider, referring/exit pages, and date/time stamps.
+  * “Web beacons,” “tags,” and “pixels” are electronic files used to record information about how you browse the Site.
 
-• To improve our website  
-(we continually strive to improve our website offerings based on the information and feedback we receive from you)
 
-• To improve customer service  
-(your information helps us to more effectively respond to your customer service requests and support needs)
 
-• To process transactions
+Additionally when you make a purchase or attempt to make a purchase through the Site, we collect certain information from you, including your name, billing address, shipping address, payment information (including credit card numbers, email address, and name. We refer to this information as “Order Information.”
 
-> Your information, whether public or private, will not be sold, exchanged, transferred, or given to any other company for any reason whatsoever, without your consent, other than for the express purpose of delivering the purchased product or service requested.
+When we talk about “Personal Information” in this Privacy Policy, we are talking both about Device Information and Order Information.
 
-• To administer a contest, promotion, survey or other site feature
+HOW DO WE USE YOUR PERSONAL INFORMATION?
 
-• To send periodic emails
+We use the Order Information that we collect generally to fulfill any orders placed through the Site (including processing your payment information, and providing you with invoices and/or order confirmations). 
 
-> The email address you provide for order processing, will only be used to send you information and updates pertaining to your order.
+Additionally, we use this Order Information to: Communicate with you; Screen our orders for potential risk or fraud; and When in line with the preferences you have shared with us, provide you with information or advertising relating to our products or services.
 
-If you decide to opt-in to our mailing list, you will receive emails that may include company news, updates, related product or service information, etc.
+We use the Device Information that we collect to help us screen for potential risk and fraud (in particular, your IP address), and more generally to improve and optimize our Site (for example, by generating analytics about how our customers browse and interact with the Site, and to assess the success of our marketing and advertising campaigns).
 
-Note: If at any time you would like to unsubscribe from receiving future emails, we include detailed unsubscribe instructions at the bottom of each email.
+SHARING YOUR PERSONAL INFORMATION
 
- **How do we protect your information?**
+We **DO NOT** sell information provided to us, such as fantasy league information and email addresses to anyone.
 
-We implement a variety of security measures to maintain the safety of your personal information when you place an order or access your personal information. 
+We share your Personal Information with third parties to help us use your Personal Information, as described above for analytical purposes. We use Google Analytics to help us understand how our customers use the Site--you can read more about how Google uses your Personal Information here: https://www.google.com/intl/en/policies/privacy/. You can also opt-out of Google Analytics here: https://tools.google.com/dlpage/gaoptout.
 
-We offer the use of a secure server. All supplied sensitive/credit information is transmitted via Secure Socket Layer (SSL) technology and then encrypted into our Payment gateway providers database only to be accessible by those authorized with special access rights to such systems, and are required toï¿½keep the information confidential.
+Finally, we may also share your Personal Information to comply with applicable laws and regulations, to respond to a subpoena, search warrant or other lawful request for information we receive, or to otherwise protect our rights.
 
-After a transaction, your private information (credit cards, social security numbers, financials, etc.) will not be stored on our servers.
+We may use and track your browsing behavior for marketing purposes via services such as Intercom. 
 
- **Do we use cookies?**
+BEHAVIOURAL ADVERTISING
 
-Yes (Cookies are small files that a site or its service provider transfers to your computers hard drive through your Web browser (if you allow) that enables the sites or service providers systems to recognize your browser and capture and remember certain information
+As described above, we use your Personal Information to provide you with targeted advertisements or marketing communications we believe may be of interest to you. For more information about how targeted advertising works, you can visit the Network Advertising Initiative’s (“NAI”) educational page at http://www.networkadvertising.org/understanding-online-advertising/how-does-it-work.
 
-We use cookies to understand and save your preferences for future visits, keep track of advertisements and compile aggregate data about site traffic and site interaction so that we can offer better site experiences and tools in the future.
+You can opt out of targeted advertising by: GOOGLE - https://www.google.com/settings/ads/anonymous
 
- **Do we disclose any information to outside parties?**
+Additionally, you can opt out of some of these services by visiting the Digital Advertising Alliance’s opt-out portal at: http://optout.aboutads.info/.
 
-We do not sell, trade, or otherwise transfer to outside parties your personally identifiable information. This does not include trusted third parties who assist us in operating our website, conducting our business, or servicing you, so long as those parties agree to keep this information confidential. We may also release your information when we believe release is appropriate to comply with the law, enforce our site policies, or protect ours or others rights, property, or safety. However, non-personally identifiable visitor information may be provided to other parties for marketing, advertising, or other uses.
+DO NOT TRACK
 
- **Third party links**
+Please note that we do not alter our Site’s data collection and use practices when we see a Do Not Track signal from your browser.
 
-Occasionally, at our discretion, we may include or offer third party products or services on our website. These third party sites have separate and independent privacy policies. We therefore have no responsibility or liability for the content and activities of these linked sites. Nonetheless, we seek to protect the integrity of our site and welcome any feedback about these sites.
+YOUR RIGHTS
 
-We use third-party advertising companies to serve ads when you visit our Web site. These companies may use aggregated information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, [click here](http://www.networkadvertising.org/managing/opt_out.asp).
+If you are a European resident, you have the right to access personal information we hold about you and to ask that your personal information be corrected, updated, or deleted. If you would like to exercise this right, please contact us through the contact information below.
 
- **California Online Privacy Protection Act Compliance**
+Additionally, if you are a European resident we note that we are processing your information in order to fulfill contracts we might have with you (for example if you make an order through the Site), or otherwise to pursue our legitimate business interests listed above. Additionally, please note that your information will be transferred outside of Europe, including to Canada and the United States.
 
-Because we value your privacy we have taken the necessary precautions to be in compliance with the California Online Privacy Protection Act. We therefore will not distribute your personal information to outside parties without your consent.
+DATA RETENTION
 
-As part of the California Online Privacy Protection Act, all users of our site may make any changes to their information at anytime by logging into their control panel and going to the 'Edit Settings' tab.
+When you place an order through the Site, we will maintain your Order Information for our records unless and until you ask us to delete this information.
 
- **Childrens Online Privacy Protection Act Compliance**
+CHANGES
 
-We are in compliance with the requirements of COPPA (Childrens Online Privacy Protection Act), we do not collect any information from anyone under 13 years of age. Our website, products and services are all directed to people who are at least 13 years old or older.
+We may update this privacy policy from time to time in order to reflect, for example, changes to our practices or for other operational, legal or regulatory reasons.
 
- **Online Privacy Policy Only**
+CONTACT US
 
-This online privacy policy applies only to information collected through our website and not to information collected offline.
+For more information about our privacy practices, if you have questions, or if you would like to make a complaint, please contact us by e-mail at brant@fantasysp.com or by mail using the details provided below:
 
- **Terms and Conditions**
-
-Please also visit our Terms and Conditions section establishing the use, disclaimers, and limitations of liability governing the use of our website at [http://hailmary.fantasysp.com](http://hailmary.fantasysp.com/)
-
- **Your Consent**
-
-By using our site, you consent to our websites privacy policy.
-
- **Changes to our Privacy Policy**
-
-If we decide to change our privacy policy, we will post those changes on this page, and/or update the Privacy Policy modification date below. 
-
-This policy was last modified on 8.3.2010
-
- **Contacting Us**
-
-If there are any questions regarding this privacy policy you may contact us using the information below. 
-
-http://hailmary.fantasysp.com   
-info@fantasysp.com
+2755 Blake Street, Denver, CO, 80216, United States
