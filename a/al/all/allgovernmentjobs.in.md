@@ -1,116 +1,86 @@
-> *The following text is extracted and transformed from the allgovernmentjobs.in privacy policy that was archived on 2018-10-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181018225038id_/http%3A//allgovernmentjobs.in/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the allgovernmentjobs.in privacy policy that was archived on 2019-03-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190328192503id_/https%3A//allgovernmentjobs.in/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | All Government jobs
+# AllgovernmentJobs
 
-This privacy policy has been compiled to better serve those who are concerned with how their ‘Personally identifiable information’ (PII) is being used online. PII, as used in US privacy law and information security, is information that can be used on its own or with other information to identify, contact, or locate a single person, or to identify an individual in context. Please read our privacy policy carefully to get a clear understanding of how we collect, use, protect or otherwise handle your Personally Identifiable Information in accordance with our website.
+## Introduction
 
-What personal information do we collect from the people that visit our blog, website or app?
+We, at Allgovernmentjobs, are committed to provide the assurance about the protection of user / users personal information and personalize related data. We have listed below all criteria for the same. By entering into our website, you agree the terms written in the privacy policy.
 
-When ordering or registering on our site, as appropriate, you may be asked to enter your name, email address, mailing address, phone number or other details to help you with your experience.
+## Information Collection
 
-When do we collect information?
+At Allgovernmentjobs.in, we will collect some information of logged on users/visitors like IP address, browser type, location and profile information.
 
-We collect information from you when you register on our site, subscribe to a newsletter, fill out a form or enter information on our site.  
-How do we use your information?
+In case of registration on our website by visitors, we need to collect some mandatory data such as Name, Age, Gender, Contact detail and e-mail address.
 
-We may use the information we collect from you when you register, make a purchase, sign up for our newsletter, respond to a survey or marketing communication, surf the website, or use certain other site features in the following ways:
+We send the notification on users e-mail address or send the SMS on the contact number about any deviation in the privacy policy, newly entered information related to the user/users and queries regarding our services.
 
-• To personalize user’s experience and to allow us to deliver the type of content and product offerings in which you are most interested.  
-• To improve our website in order to better serve you.  
-• To allow us to better service you in responding to your customer service requests.  
-• To administer a contest, promotion, survey or other site feature.  
-• To quickly process your transactions.  
-• To send periodic emails regarding your order or other products and services.
+User may choose “not to send me the notification” or “not to send me the SMS” by changing the notification setting on his e-mail account.
 
-How do we protect visitor information?
+We assure you that we will not misuse or sell this data. We use this information to:
 
-Our website is scanned on a regular basis for security holes and known vulnerabilities in order to make your visit to our site as safe as possible.
+  1. Improve our website for providing you the safe & secure knowledge bank.
+  2. Manage our website at global level.
+  3. Security track assessments.
+  4. Sending you the information via mail or SMS.
+  5. Improve our services.
+  6. Use of Cookies/ Tracking Technologies
 
-We use regular Malware Scanning.
 
-We do not use an SSL certificate  
-• We only provide articles and information, we never ask for personal or private information like email addresses, or credit card numbers.
 
-Third Party Disclosure
+We, at Allgovernmentjobs.in, are utilizing the cookies and other tracking technologies to manage the session on our website and recognize the user’s or visitor’s account information and other activities. Let to inform the users that “Cookies” are the small text file. Cookies / tracking technologies allows to save the personal information like your name, your account (not password), your feedback, your data what you have submitted on our website and your IP address.
 
-Do we disclose the information we collect to Third Parties?  
-We sell,trade, or otherwise transfer to outside parties your name personally identifiable information.  
-Third party links
+We just temporarily hold the details of your activities on our website Allgovernmentjobs.in for session management. Neither we have cookies to save your password nor provide this information to any third party.
 
-Occasionally, at our discretion, we may include or offer third party products or services on our website. These third party sites have separate and independent privacy policies. We therefore have no responsibility or liability for the content and activities of these linked sites. Nonetheless, we seek to protect the integrity of our site and welcome any feedback about these sites.
+If you click on to the advertisement which has been displayed on our website or page, our privacy policy does not cover any cookies activities on that conditions. We are not hosting the advertisements and we are not responsible for any declaration about cookies or any tracking technology used by the advertisement body.
 
-Google
+You can configure your browser to reject or accept these cookies. If you configure and apply any of your choice, you can still use our website
 
-Google’s advertising requirements can be summed up by Google’s Advertising Principles. They are put in place to provide a positive experience for users. https://support.google.com/adwordspolicy/answer/1316548?hl=en
+## Use of Information by Allgovernmentjobs.in
 
-We use Google AdSense Advertising on our website.
+Our aim is to provide the satisfaction, reliability and services to you as a Allgovernmentjobs.in reader. If needed, we may use the information collected by us like your account details, IP address, e-mail, your queries and other login activities on our website to facilitating you only.
 
-Google, as a third party vendor, uses cookies to serve ads on our site. Google’s use of the DART cookie enables it to serve ads to our users based on their visit to our site and other sites on the Internet. Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy.
+By this information we get to know the reader’s needs and we can provide him or them the best website design, navigation, services or alerts by mail or SMS or through the newsletter periodically. User/users may choose to accept or reject the alert / mail services directly to configure their account setting “not to send me the notification” or “not to send me the SMS” by changing the notification setting on his e-mail account.
 
-We have implemented the following:  
-• Remarketing with Google AdSense  
-• Google Display Network Impression Reporting  
-• Demographics and Interests Reporting  
-• DoubleClick Platform Integration
+## Updating your information
 
-We along with third-party vendors, such as Google use first-party cookies (such as the Google Analytics cookies) and third-party cookies (such as the DoubleClick cookie) or other third-party identifiers together to compile data regarding user interactions with ad impressions, and other ad service functions as they relate to our website.
+We provide you the full authority and mechanism to access and modify/update your account, password, personal details and information anytime and from anywhere. No one can change, erase or update your personal account setting. It would be done only by you. If you wish to close your account, we will keep retain your personal account detail and remove it from view.
 
-Opting out:  
-Users can set preferences for how Google advertises to you using the Google Ad Settings page. Alternatively, you can opt out by visiting the Network Advertising initiative opt out page or permanently using the Google Analytics Opt Out Browser add on.
+## Links
 
-California Online Privacy Protection Act
+We, at Allgovernmentjobs.in contain or may contain the links to other websites. We, at Allgovernmentjobs.in, are not responsible for the privacy policies or practices of other website(s) or advertisement(s). We encourage the user(s) and visitors to carefully read the privacy policies of other owner’s website(s) before using such another website(s). Our privacy policy applies only on our website and the activities done by the user(s) on our website. It does not apply on advertisement or other(s) website(s).
 
-CalOPPA is the first state law in the nation to require commercial websites and online services to post a privacy policy. The law’s reach stretches well beyond California to require a person or company in the United States (and conceivably the world) that operates websites collecting personally identifiable information from California consumers to post a conspicuous privacy policy on its website stating exactly the information being collected and those individuals with whom it is being shared, and to comply with this policy.
+## Newsletter
 
-According to CalOPPA we agree to the following:  
-Users can visit our site anonymously  
-Once this privacy policy is created, we will add a link to it on our home page, or as a minimum on the first significant page after entering our website.  
-Our Privacy Policy link includes the word ‘Privacy’, and can be easily be found on the page specified above.
+A newsletter will be marked to the user(s) or registered account periodically through the e-mail. If we make any changes in our policy and our services or our providing facilities through the website or in the website, we mail our user(s) periodically. We may collect your personal information as e-mail ID, IP address, browser type and submitted information for facilitating you. User(s) may choose to accept/subscribe or reject/unsubscribe the newsletter(s) by the setting option of his/her account.
 
-Users will be notified of any privacy policy changes:  
-• On our Privacy Policy Page  
-Users are able to change their personal information:  
-• By emailing us
+## Advertising
 
-How does our site handle do not track signals?  
-We honor do not track signals and do not track, plant cookies, or use advertising when a Do Not Track (DNT) browser mechanism is in place.
+Advertise on our website Allgovernmentjobs.in may be delivered to the users by Allgovernmentjobs.in or advertising partners. Cookies may be set by the advertisement partners to recognize your account when they send you advertise.
 
-Does our site allow third party behavioral tracking?  
-It’s also important to note that we allow third party behavioral tracking
+The cookies set by the advertising owner or partner(s) will allow the server to recognize the personal and browser information submitted by you to recognize the click on information, your computer uses for this particular and your area of interest. Allgovernmentjobs.in will not responsible the use of cookies by other advertiser(s).
 
-COPPA (Children Online Privacy Protection Act)
+## Security
 
-When it comes to the collection of personal information from children under 13, the Children’s Online Privacy Protection Act (COPPA) puts parents in control. The Federal Trade Commission, the nation’s consumer protection agency, enforces the COPPA Rule, which spells out what operators of websites and online services must do to protect children’s privacy and safety online.
+The security of personal data of member(s) account is very important to us. We strive hard to protect your account details by the unauthorized access and unlawfully access. We restrict the access of other job functions and technical staff to the member’s account. We use the mechanism to protect the information of user that is store in our database.
 
-We do not specifically market to children under 13.
+There is no mechanism to provide the 100% security assurance on internet or in electronic storage. While, we provide the maximum input for information protection but we are not sure that of tress usage / misusage of your account information or personal details.
 
-Fair Information Practices
+It is a hardware and software technology and we do not make the guarantee that your personal details will remain personal. For any assistance please mail us on contact@Allgovernmentjobs.in
 
-The Fair Information Practices Principles form the backbone of privacy law in the United States and the concepts they include have played a significant role in the development of data protection laws around the globe. Understanding the Fair Information Practice Principles and how they should be implemented is critical to comply with the various privacy laws that protect personal information.
+## Changes to this Privacy Policy
 
-In order to be in line with Fair Information Practices we will take the following responsive action, should a data breach occur:  
-We will notify the users via email  
-• Other  
-30
+We, at Allgovernmentjobs.in reserved all rights to update, change, modify & amend the privacy policy without mark any prior notification. If we need to do so we can do it anytime with full authority. All updates regarding any deviation in privacy policy can be viewed on this page.
 
-We also agree to the individual redress principle, which requires that individuals have a right to pursue legally enforceable rights against data collectors and processors who fail to adhere to the law. This principle requires not only that individuals have enforceable rights against data users, but also that individuals have recourse to courts or a government agency to investigate and/or prosecute non-compliance by data processors.
+Our viewer(s) and user(s) need to view this policy frequently any time. All changes will automatically come in effect from the date of modification.
 
-CAN SPAM Act
+We are visioning to provide the better service day by day and for this we need to make some new initiatives for your better end. Every single update will send to the user(s) by notification.
 
-The CAN-SPAM Act is a law that sets the rules for commercial email, establishes requirements for commercial messages, gives recipients the right to have emails stopped from being sent to them, and spells out tough penalties for violations.
+## Disclaimer
 
-We collect your email address in order to:
+We, at Allgovernmentjobs.in shall not be liable for any damage(s) or loss(s) by reason of any disclosure (inadvertent or otherwise) of member’s account/information or other personal related details/data.
 
-To be in accordance with CANSPAM we agree to the following:
+In case of using credit card/debit card, we do not store the personal data for further usage. While transaction is over once, we move all data to the off-line so that no one can use this data and your precious information does not fall in wrong hands.We assure the maximum security but not the 100%
 
-If at any time you would like to unsubscribe from receiving future emails, you can email us at  
-and we will promptly remove you from ALL correspondence.  
-Contacting Us
+## Contact Information
 
-If there are any questions regarding this privacy policy you may contact us using the information below.
-
-> [Contact us](http://allgovernmentjobs.in/contact-us/)
-
-  
-Hyderabad, Telangana 500082  
-India
+We welcome your suggestion and queries any time regarding our services and this privacy policy. You feel free to e-mail us on Allgovernmentjobs.in/contact-us any time.
