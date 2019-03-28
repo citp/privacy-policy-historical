@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the thestudio.com privacy policy that was archived on 2017-04-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170423123638id_/https%3A//www.thestudio.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thestudio.com privacy policy that was archived on 2019-03-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190328085422id_/https%3A//www.thestudio.com/privacy) for the most accurate reproduction.*
 
-# Privacy - The/Studio
+# Privacy | The/Studio
 
 ## Privacy Policy
 
