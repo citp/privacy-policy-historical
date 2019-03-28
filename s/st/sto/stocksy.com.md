@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the stocksy.com privacy policy that was archived on 2018-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181227071450id_/https%3A//www.stocksy.com/legal/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the stocksy.com privacy policy that was archived on 2019-03-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190328092145id_/https%3A//www.stocksy.com/legal/privacy) for the most accurate reproduction.*
 
 # Terms of Service and Licensing Agreements – Stocksy United Legal – Legal
 
