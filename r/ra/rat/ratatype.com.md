@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ratatype.com privacy policy that was archived on 2018-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181219053227id_/https%3A//www.ratatype.com/privacy-terms) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ratatype.com privacy policy that was archived on 2019-03-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190328191720id_/https%3A//www.ratatype.com/privacy-terms) for the most accurate reproduction.*
 
 # Privacy & Terms — Ratatype
 
@@ -56,7 +56,7 @@ We are in compliance with the requirements of COPPA (Childrens Online Privacy Pr
 
 ## Terms and Conditions
 
-Please also visit our Terms and Conditions section establishing the use, disclaimers, and limitations of liability governing the use of our website at <https://www.ratatype.com/privacy-terms/#term>.
+Please also visit our Terms and Conditions section establishing the use, disclaimers, and limitations of liability governing the use of our website at [https://www.ratatype.com/privacy-terms/#term](https://web.archive.org/privacy-terms/#term).
 
 ## Your Consent
 
@@ -66,13 +66,13 @@ By using our site, you consent to our websites privacy policy.
 
 If we decide to change our privacy policy, we will post those changes on this page, and/or update the Privacy Policy modification date below.
 
-This policy was last modified on 16.01.2013
+This policy was last modified on 13.02.2019
 
 ## Contacting Us
 
 If there are any questions regarding this privacy policy you may contact us using the information below.
 
-[www.ratatype.com](https://www.ratatype.com/)  
+[www.ratatype.com](https://web.archive.org/)  
 [mail@ratatype.com](mailto:mail@ratatype.com)
 
 The following document outlines the terms of use of the www.ratatype.com website. By using and accessing this website (collectively referred to as the "Site" or "Ratatype" in these Terms of Use), you ("you", "user" or, "end user") agree to these Terms of Use (collectively, the "Terms of Service" or "Agreement").
@@ -102,6 +102,26 @@ Certain jurisdictions prohibit the exclusion or limitation of liability for cons
 
 Any disputes arising out of or related to these Terms of Use and/or any use by you of the Site shall be governed by the laws, without regard to the conflicts of laws provisions therein.
 
+We collect data as you use Ratatype services. What we collect, why we collect it, and how you can manage your information are described in our [Privacy Policy](https://web.archive.org/privacy-terms/#policy).
+
+Some data you can delete whenever you like, some data is deleted automatically, and some data we retain for longer periods of time when necessary. When you delete data, we follow a deletion policy to make sure that your data is safely and completely removed from our servers or retained only in anonymized form.
+
+## Information retained until you remove it
+
+We offer a range of services that allow you to correct or delete data stored in your Google Account. For example, you can:
+
+  * Edit your personal info
+  * Delete photo
+  * Delete your Ratatype Account entirely
+
+
+
+We’ll keep this data in your Ratatype Account until you choose to remove it.
+
+## Data that expires after a specific period of time
+
+In some cases, rather than provide a way to delete data, we store it for a predetermined period of time. For each type of data, we set retention timeframes based on the reason for its collection. We also take steps to anonymize certain data within set time periods.
+
 ## Date of Last Update
 
-This agreement was last updated on January 16, 2013.
+This agreement was last updated on February 13, 2019.
