@@ -1,6 +1,22 @@
-> *The following text is extracted and transformed from the ibatrademart.com privacy policy that was archived on 2018-01-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180101172008id_/http%3A//ibatrademart.com/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ibatrademart.com privacy policy that was archived on 2019-03-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190328224715id_/http%3A//www.ibatrademart.com/privacy-policy.php) for the most accurate reproduction.*
 
-# IBA Trademart
+# Indian Brokers Association
+
+Indian Brokers Association
+
+IBA covers the Agro commodities, Non agro commodities, Animal & Poultry feed, Metal, Energy, Chemical, FMCG etc. in our industry structure.
+
+### Exhibitions & Conferences
+
+### Advertise Here
+
+
+
+
+
+[Home](http://www.ibatrademart.com/) >> Privacy Policy
+
+Privacy Policy
 
 IBA Trade Mart committed to you to maintain your privacy and security is our prior responsibility. We are making a numerous of efforts in order to improve our security and privacy policies as well and adopt various measures and techniques to provide you a secure and protective journey on our website. Please read the following Privacy policy in order to better understand how we are using your data and personal stuff as well. If you are using or access to this website than you are bound to follow these policies and if you do not want to agree these privacy policy than you are advised not to use this site. 
 
