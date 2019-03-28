@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fasttrack.co.uk privacy policy that was archived on 2018-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181202145828id_/http%3A//www.fasttrack.co.uk/privacy-cookies-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fasttrack.co.uk privacy policy that was archived on 2019-03-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190328154711id_/https%3A//www.fasttrack.co.uk/privacy-cookies-policy) for the most accurate reproduction.*
 
 # Privacy & cookies policy - Fast Track
 
@@ -55,7 +55,7 @@ Certain personal data that we collect may be obtained directly through telephone
 Additionally, we may also collect and process information when you visit our website, including the Internet Protocol (IP) address used to connect your computer to the Internet, your login information, browser type and version, time zone setting, geographical location, browser plug-in types and versions, operating system and platform.
 
 **Legal basis for processing your information  
-**We have a “legitimate interest” in collecting and storing your personal data for the purposes of compiling our league tables, organising company research visits and our networking dinners, and meeting our contractual obligations to our commercial sponsors (a list can be found on the front page of our website, [www.fasttrack.co.uk](http://www.fasttrack.co.uk/)).
+**We have a “legitimate interest” in collecting and storing your personal data for the purposes of compiling our league tables, organising company research visits and our networking dinners, and meeting our contractual obligations to our commercial sponsors (a list can be found on the front page of our website, [www.fasttrack.co.uk](https://www.fasttrack.co.uk/)).
 
 We will not collect any personal data from you that we do not need in order to provide these services.
 
