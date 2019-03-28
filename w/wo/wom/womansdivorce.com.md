@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the womansdivorce.com privacy policy that was archived on 2018-10-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181002034116id_/https%3A//www.womansdivorce.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the womansdivorce.com privacy policy that was archived on 2019-03-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190328031923id_/https%3A//www.womansdivorce.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy | WomansDivorce.com
 
