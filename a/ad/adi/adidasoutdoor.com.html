@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the adidasoutdoor.com privacy policy that was archived on 2018-03-29.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20180329124832id_/http%3A//www.adidasoutdoor.com/about--privacy-policy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the adidasoutdoor.com privacy policy that was archived on 2019-03-28.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20190328040415id_/https%3A//www.adidasoutdoor.com/about--privacy-policy.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en"><!--<![endif]--><head>
 
@@ -43,22 +43,74 @@
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 <meta charset="UTF-8">
+
 <meta http-equiv="x-ua-compatible" content="ie=edge">
+
 <meta name="viewport" content="width=device-width, initial-scale=1">
+
 
 <title>Adidas Five Ten | Privacy Policy</title>
 
+
 <link href="/on/demandware.static/Sites-AO-Site/-/default/dw4706dcf4/images/favicon.ico" rel="shortcut icon">
+
+
+
 <meta name="description" content=" Our privacy policy is simple: Except as disclosed below, we don't sell, trade, give away, or rent your personal information to any company outside of the adidas Group. Adidas Five Ten">
 <meta name="keywords" content="  Adidas Five Ten">
 
-<link href="/on/demandware.static/Sites-AO-Site/-/default/v1522277391639/lib/jquery/ui/jquery-ui.min.css" type="text/css" rel="stylesheet">
-<link href="/on/demandware.static/Sites-AO-Site/-/default/v1522277391639/lib/jquery/selectric/selectric.css" type="text/css" rel="stylesheet">
+
+
+
+
+
+
+<link href="/on/demandware.static/Sites-AO-Site/-/default/v1553722065068/lib/jquery/ui/jquery-ui.min.css" type="text/css" rel="stylesheet">
+<link href="/on/demandware.static/Sites-AO-Site/-/default/v1553722065068/lib/jquery/selectric/selectric.css" type="text/css" rel="stylesheet">
 <link href="//maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css" rel="stylesheet">
 <!--[if lt IE 9]>
-<script src="/on/demandware.static/Sites-AO-Site/-/default/v1522277391639/js/lib/html5.js"></script>
+<script src="/on/demandware.static/Sites-AO-Site/-/default/v1553722065068/js/lib/html5.js"></script>
 <![endif]-->
+
 <script type="text/javascript" async="" src="https://cdn.avmws.com/1013298/"></script><script async="" src="https://www.googletagmanager.com/gtm.js?id=GTM-WCR3M9"></script><script type="text/javascript">//<!--
 /* <![CDATA[ (head-active_data.js) */
 var dw = (window.dw || {});
@@ -73,7 +125,13 @@ dw.ac = {
         }
         dw.ac._events.push(configs);
     },
-    capture: function() { dw.ac._capture(arguments); },
+	capture: function() { 
+		dw.ac._capture(arguments);
+		// send to CQ as well:
+		if (window.CQuotient) {
+			window.CQuotient.trackEventsFromAC(arguments);
+		}
+	},
     EV_PRD_SEARCHHIT: "searchhit",
     EV_PRD_DETAIL: "detail",
     EV_PRD_RECOMMENDATION: "recommendation",
@@ -92,7 +150,7 @@ dw.ac = {
 </script><script type="text/javascript">//<!--
 /* <![CDATA[ (head-cquotient.js) */
 var CQuotient = window.CQuotient = {};
-CQuotient.clientId = 'aavd-AO';
+CQuotient.clientId = 'aavd-adidasoutdoor';
 CQuotient.activities = [];
 CQuotient.cqcid='';
 CQuotient.cquid='';
@@ -119,9 +177,37 @@ CQuotient.getCQUserId = function () {
 		window.CQuotient.initFromCookies();
 	return window.CQuotient.cquid;
 };
+CQuotient.trackEventsFromAC = function (/* Object or Array */ events) {
+try {
+	if (Object.prototype.toString.call(events) === "[object Array]") {
+		events.forEach(_trackASingleCQEvent);
+	} else {
+		CQuotient._trackASingleCQEvent(events);
+	}
+} catch(err) {}
+};
+CQuotient._trackASingleCQEvent = function ( /* Object */ event) {
+	if (event && event.id) {
+		if (event.type === dw.ac.EV_PRD_DETAIL) {
+			CQuotient.trackViewProduct( {id:'', alt_id: event.id, type: 'raw_sku'} );
+		} // not handling the other dw.ac.* events currently
+	}
+};
+CQuotient.trackViewProduct = function(/* Object */ productData){
+	var cq_params = {};
+	cq_params.cookieId = CQuotient.getCQCookieId();
+	cq_params.userId = CQuotient.getCQUserId();
+	cq_params.product = productData;
+	if(CQuotient.sendActivity) {
+		CQuotient.sendActivity(CQuotient.clientId, 'viewProduct', cq_params);
+	} else {
+		CQuotient.activities.push({activityType: 'viewProduct', parameters: cq_params});
+	}
+};
 /* ]]> */
 // -->
 </script>
+
 
 
 
@@ -139,13 +225,17 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 
 
 <!-- UI -->
-<link rel="stylesheet" href="/on/demandware.static/Sites-AO-Site/-/default/v1522277391639/css/slick.css">
-<link rel="stylesheet" href="/on/demandware.static/Sites-AO-Site/-/default/v1522277391639/css/slick-theme.css">
-<link rel="stylesheet" href="/on/demandware.static/Sites-AO-Site/-/default/v1522277391639/css/style.css">
+<link rel="stylesheet" href="/on/demandware.static/Sites-AO-Site/-/default/v1553722065068/css/slick.css">
+<link rel="stylesheet" href="/on/demandware.static/Sites-AO-Site/-/default/v1553722065068/css/slick-theme.css">
+<link rel="stylesheet" href="/on/demandware.static/Sites-AO-Site/-/default/v1553722065068/css/style.css">
 <!--[if lte IE 8]>
 <script src="//cdnjs.cloudflare.com/ajax/libs/respond.js/1.4.2/respond.js" type="text/javascript"></script>
 <script src="https://cdn.rawgit.com/chuckcarpenter/REM-unit-polyfill/master/js/rem.min.js" type="text/javascript"></script>
 <![endif]-->
+
+
+
+
 
 
 
@@ -179,6 +269,8 @@ window.location.reload();
 
 
 
+
+
 </head>
 <body>
 <!-- Google Tag Manager (noscript) -->
@@ -186,6 +278,7 @@ window.location.reload();
 height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 <!-- End Google Tag Manager (noscript) -->
 <div id="wrapper" class="pt_content">
+
 
 <div id="header">
 <div id="header-wrapper" role="banner">
@@ -306,14 +399,53 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 <ul class="menu-category level-1">
+
 
 <li>
 
 
 
 
-<a class="has-sub-menu" href="http://www.adidasoutdoor.com/men">
+<a class="has-sub-menu" href="https://www.adidasoutdoor.com/men">
 Men
 </a>
 
@@ -329,12 +461,12 @@ Men
 
 
 <li>
-<a class="link-primary top-cat-link headline has-level-3" href="http://www.adidasoutdoor.com/men-featured">
+<a class="link-primary top-cat-link headline has-level-3" href="https://www.adidasoutdoor.com/men-featured">
 Featured
 </a>
 
-<a class="subcat-img-link" href="http://www.adidasoutdoor.com/men-featured">
-<img class="subcat-thumb" src="/on/demandware.static/-/Sites-adidasOutdoor2018/default/dw8517c7af/menu images/ss18 Mens Featured.jpg">
+<a class="subcat-img-link" href="https://www.adidasoutdoor.com/men-featured">
+<img class="subcat-thumb" src="/on/demandware.static/-/Sites-adidasOutdoor2018/default/dwa398fecb/menu images/dropdown_men_featured.jpg">
 </a>
 
 
@@ -342,26 +474,19 @@ Featured
 
 
 <li>
-<a class="link-primary link-list" href="http://www.adidasoutdoor.com/men-new-arrivals">
-New Arrivals
-</a>
-</li>
-
-
-
-<li>
-<a class="link-primary link-list" href="http://www.adidasoutdoor.com/men-best-sellers">
-Best Sellers
+<a class="link-primary link-list" href="https://www.adidasoutdoor.com/men-sustainable">
+Parley
 </a>
 </li>
 
 
 <li>
-<a class="link-primary link-list view-all" href="http://www.adidasoutdoor.com/men-featured">
+<a class="link-primary link-list view-all" href="https://www.adidasoutdoor.com/men-featured">
 View All
 </a>
 </li>
 </ul>
+
 
 
 <div class="content-slot-links">
@@ -374,8 +499,8 @@ View All
 <div class="html-slot-container">
 
 
-<a style="font-weight:bold" href="http://www.adidasoutdoor.com/terrex-brand">Terrex</a>
-<a style="font-weight:bold" href="http://www.adidasoutdoor.com/fiveten-brand">Five Ten</a>
+<a style="font-weight:bold" href="https://www.adidasoutdoor.com/terrex-brand">Terrex</a>
+<a style="font-weight:bold" href="https://www.adidasoutdoor.com/fiveten-brand">Five Ten</a>
 
 
 </div> 
@@ -392,12 +517,12 @@ View All
 
 
 <li>
-<a class="link-primary top-cat-link headline has-level-3" href="http://www.adidasoutdoor.com/men-shoes">
+<a class="link-primary top-cat-link headline has-level-3" href="https://www.adidasoutdoor.com/men-shoes">
 Shoes
 </a>
 
-<a class="subcat-img-link" href="http://www.adidasoutdoor.com/men-shoes">
-<img class="subcat-thumb" src="/on/demandware.static/-/Sites-adidasOutdoor2018/default/dwee66ec18/menu images/ss18 mens Shoes.jpg">
+<a class="subcat-img-link" href="https://www.adidasoutdoor.com/men-shoes">
+<img class="subcat-thumb" src="/on/demandware.static/-/Sites-adidasOutdoor2018/default/dw627f7b22/menu images/dropdown_men_shoes.jpg">
 </a>
 
 
@@ -405,7 +530,7 @@ Shoes
 
 
 <li>
-<a class="link-primary link-list" href="http://www.adidasoutdoor.com/men-hiking-shoes">
+<a class="link-primary link-list" href="https://www.adidasoutdoor.com/men-hiking-shoes">
 Hiking
 </a>
 </li>
@@ -413,7 +538,7 @@ Hiking
 
 
 <li>
-<a class="link-primary link-list" href="http://www.adidasoutdoor.com/men-trail-running-shoes">
+<a class="link-primary link-list" href="https://www.adidasoutdoor.com/men-trail-running-shoes">
 Trail Running
 </a>
 </li>
@@ -421,15 +546,15 @@ Trail Running
 
 
 <li>
-<a class="link-primary link-list" href="http://www.adidasoutdoor.com/men-bike-shoes">
-Bike - Five Ten
+<a class="link-primary link-list" href="https://www.adidasoutdoor.com/men-bike-shoes">
+Mountain Bike - Five Ten
 </a>
 </li>
 
 
 
 <li>
-<a class="link-primary link-list" href="http://www.adidasoutdoor.com/men-climb-shoes">
+<a class="link-primary link-list" href="https://www.adidasoutdoor.com/men-climb-shoes">
 Climb - Five Ten
 </a>
 </li>
@@ -437,26 +562,27 @@ Climb - Five Ten
 
 
 <li>
-<a class="link-primary link-list" href="http://www.adidasoutdoor.com/men-water-sports-shoes">
+<a class="link-primary link-list" href="https://www.adidasoutdoor.com/on/demandware.store/Sites-AO-Site/default/Search-Show?cgid=men-approach-shoes">
+Approach - Five Ten
+</a>
+</li>
+
+
+
+<li>
+<a class="link-primary link-list" href="https://www.adidasoutdoor.com/men-water-sports-shoes">
 Water Sports
 </a>
 </li>
 
 
-
 <li>
-<a class="link-primary link-list" href="http://www.adidasoutdoor.com/men-winter-sports-shoes">
-Winter Sports
-</a>
-</li>
-
-
-<li>
-<a class="link-primary link-list view-all" href="http://www.adidasoutdoor.com/men-shoes">
+<a class="link-primary link-list view-all" href="https://www.adidasoutdoor.com/men-shoes">
 View All
 </a>
 </li>
 </ul>
+
 
 
 </li>
@@ -469,12 +595,12 @@ View All
 
 
 <li>
-<a class="link-primary top-cat-link headline has-level-3" href="http://www.adidasoutdoor.com/men-apparel">
+<a class="link-primary top-cat-link headline has-level-3" href="https://www.adidasoutdoor.com/men-apparel">
 Apparel
 </a>
 
-<a class="subcat-img-link" href="http://www.adidasoutdoor.com/men-apparel">
-<img class="subcat-thumb" src="/on/demandware.static/-/Sites-adidasOutdoor2018/default/dwcdf32624/menu images/ss18 Mens Apparel.jpg">
+<a class="subcat-img-link" href="https://www.adidasoutdoor.com/men-apparel">
+<img class="subcat-thumb" src="/on/demandware.static/-/Sites-adidasOutdoor2018/default/dw4d89f91c/menu images/dropdown_men_apparel.jpg">
 </a>
 
 
@@ -482,7 +608,7 @@ Apparel
 
 
 <li>
-<a class="link-primary link-list" href="http://www.adidasoutdoor.com/men-rain-wind-jacket-apparel">
+<a class="link-primary link-list" href="https://www.adidasoutdoor.com/men-rain-wind-jacket-apparel">
 Rain/Wind Jackets
 </a>
 </li>
@@ -490,15 +616,7 @@ Rain/Wind Jackets
 
 
 <li>
-<a class="link-primary link-list" href="http://www.adidasoutdoor.com/men-insulation-apparel">
-Insulation
-</a>
-</li>
-
-
-
-<li>
-<a class="link-primary link-list" href="http://www.adidasoutdoor.com/men-fleece-apparel">
+<a class="link-primary link-list" href="https://www.adidasoutdoor.com/men-fleece-apparel">
 Fleece
 </a>
 </li>
@@ -506,7 +624,7 @@ Fleece
 
 
 <li>
-<a class="link-primary link-list" href="http://www.adidasoutdoor.com/men-tops-apparel">
+<a class="link-primary link-list" href="https://www.adidasoutdoor.com/men-tops-apparel">
 Tops
 </a>
 </li>
@@ -514,7 +632,7 @@ Tops
 
 
 <li>
-<a class="link-primary link-list" href="http://www.adidasoutdoor.com/men-pants-shorts-apparel">
+<a class="link-primary link-list" href="https://www.adidasoutdoor.com/men-pants-shorts-apparel">
 Pants/Shorts
 </a>
 </li>
@@ -522,26 +640,19 @@ Pants/Shorts
 
 
 <li>
-<a class="link-primary link-list" href="http://www.adidasoutdoor.com/men-trail-running-apparel">
+<a class="link-primary link-list" href="https://www.adidasoutdoor.com/men-trail-running-apparel">
 Trail Running
 </a>
 </li>
 
 
-
 <li>
-<a class="link-primary link-list" href="http://www.adidasoutdoor.com/men-training-apparel">
-Training
-</a>
-</li>
-
-
-<li>
-<a class="link-primary link-list view-all" href="http://www.adidasoutdoor.com/men-apparel">
+<a class="link-primary link-list view-all" href="https://www.adidasoutdoor.com/men-apparel">
 View All
 </a>
 </li>
 </ul>
+
 
 
 </li>
@@ -554,12 +665,12 @@ View All
 
 
 <li>
-<a class="link-primary top-cat-link headline has-level-3" href="http://www.adidasoutdoor.com/men-accessories">
+<a class="link-primary top-cat-link headline has-level-3" href="https://www.adidasoutdoor.com/men-accessories">
 Accessories
 </a>
 
-<a class="subcat-img-link" href="http://www.adidasoutdoor.com/men-accessories">
-<img class="subcat-thumb" src="/on/demandware.static/-/Sites-adidasOutdoor2018/default/dw643f0391/menu images/Acc_Mens.jpg">
+<a class="subcat-img-link" href="https://www.adidasoutdoor.com/men-accessories">
+<img class="subcat-thumb" src="/on/demandware.static/-/Sites-adidasOutdoor2018/default/dw9d56281b/menu images/dropdown_men_accessories.jpg">
 </a>
 
 
@@ -567,15 +678,7 @@ Accessories
 
 
 <li>
-<a class="link-primary link-list" href="http://www.adidasoutdoor.com/men-backpack-accessories">
-Backpacks
-</a>
-</li>
-
-
-
-<li>
-<a class="link-primary link-list" href="http://www.adidasoutdoor.com/men-bag-accessories">
+<a class="link-primary link-list" href="https://www.adidasoutdoor.com/men-bag-accessories">
 Bags
 </a>
 </li>
@@ -583,7 +686,7 @@ Bags
 
 
 <li>
-<a class="link-primary link-list" href="http://www.adidasoutdoor.com/men-sock-accessories">
+<a class="link-primary link-list" href="https://www.adidasoutdoor.com/men-sock-accessories">
 Socks
 </a>
 </li>
@@ -591,7 +694,7 @@ Socks
 
 
 <li>
-<a class="link-primary link-list" href="http://www.adidasoutdoor.com/men-headwear-accessories">
+<a class="link-primary link-list" href="https://www.adidasoutdoor.com/men-headwear-accessories">
 Headwear
 </a>
 </li>
@@ -599,18 +702,19 @@ Headwear
 
 
 <li>
-<a class="link-primary link-list" href="http://www.adidasoutdoor.com/men-underwear-accessories">
+<a class="link-primary link-list" href="https://www.adidasoutdoor.com/men-underwear-accessories">
 Underwear
 </a>
 </li>
 
 
 <li>
-<a class="link-primary link-list view-all" href="http://www.adidasoutdoor.com/men-accessories">
+<a class="link-primary link-list view-all" href="https://www.adidasoutdoor.com/men-accessories">
 View All
 </a>
 </li>
 </ul>
+
 
 
 </li>
@@ -623,9 +727,14 @@ View All
 
 
 <li>
-<a class="link-primary top-cat-link headline " href="http://www.adidasoutdoor.com/sale_men">
-Sale
+<a class="link-primary top-cat-link headline " href="https://www.adidasoutdoor.com/sale_men">
+Men
 </a>
+
+<a class="subcat-img-link" href="https://www.adidasoutdoor.com/sale_men">
+<img class="subcat-thumb" src="/on/demandware.static/-/Sites-adidasOutdoor2018/default/dwdde83493/menu images/dropdown_men_sale.jpg">
+</a>
+
 
 
 
@@ -647,7 +756,7 @@ Sale
 
 
 
-<a class="has-sub-menu" href="http://www.adidasoutdoor.com/women">
+<a class="has-sub-menu" href="https://www.adidasoutdoor.com/women">
 Women
 </a>
 
@@ -663,12 +772,12 @@ Women
 
 
 <li>
-<a class="link-primary top-cat-link headline has-level-3" href="http://www.adidasoutdoor.com/women-featured">
+<a class="link-primary top-cat-link headline has-level-3" href="https://www.adidasoutdoor.com/women-featured">
 Featured
 </a>
 
-<a class="subcat-img-link" href="http://www.adidasoutdoor.com/women-featured">
-<img class="subcat-thumb" src="/on/demandware.static/-/Sites-adidasOutdoor2018/default/dwdc66f2d2/menu images/FT_Womens.jpg">
+<a class="subcat-img-link" href="https://www.adidasoutdoor.com/women-featured">
+<img class="subcat-thumb" src="/on/demandware.static/-/Sites-adidasOutdoor2018/default/dw1016adda/menu images/dropdown_women_featured.jpg">
 </a>
 
 
@@ -676,26 +785,19 @@ Featured
 
 
 <li>
-<a class="link-primary link-list" href="http://www.adidasoutdoor.com/women-new-arrivals">
-New Arrivals
-</a>
-</li>
-
-
-
-<li>
-<a class="link-primary link-list" href="http://www.adidasoutdoor.com/women-best-sellers">
-Best Sellers
+<a class="link-primary link-list" href="https://www.adidasoutdoor.com/women-sustainable">
+Parley
 </a>
 </li>
 
 
 <li>
-<a class="link-primary link-list view-all" href="http://www.adidasoutdoor.com/women-featured">
+<a class="link-primary link-list view-all" href="https://www.adidasoutdoor.com/women-featured">
 View All
 </a>
 </li>
 </ul>
+
 
 
 <div class="content-slot-links">
@@ -708,8 +810,8 @@ View All
 <div class="html-slot-container">
 
 
-<a style="font-weight:bold" href="http://www.adidasoutdoor.com/terrex-brand">Terrex</a>
-<a style="font-weight:bold" href="http://www.adidasoutdoor.com/fiveten-brand">Five Ten</a>
+<a style="font-weight:bold" href="https://www.adidasoutdoor.com/terrex-brand">Terrex</a>
+<a style="font-weight:bold" href="https://www.adidasoutdoor.com/fiveten-brand">Five Ten</a>
 
 
 </div> 
@@ -726,12 +828,12 @@ View All
 
 
 <li>
-<a class="link-primary top-cat-link headline has-level-3" href="http://www.adidasoutdoor.com/women-shoes">
+<a class="link-primary top-cat-link headline has-level-3" href="https://www.adidasoutdoor.com/women-shoes">
 Shoes
 </a>
 
-<a class="subcat-img-link" href="http://www.adidasoutdoor.com/women-shoes">
-<img class="subcat-thumb" src="/on/demandware.static/-/Sites-adidasOutdoor2018/default/dw6824a9d0/menu images/S_Womens.jpg">
+<a class="subcat-img-link" href="https://www.adidasoutdoor.com/women-shoes">
+<img class="subcat-thumb" src="/on/demandware.static/-/Sites-adidasOutdoor2018/default/dwdfc59faf/menu images/dropdown_women_shoes.jpg">
 </a>
 
 
@@ -739,7 +841,7 @@ Shoes
 
 
 <li>
-<a class="link-primary link-list" href="http://www.adidasoutdoor.com/women-hiking-shoes">
+<a class="link-primary link-list" href="https://www.adidasoutdoor.com/women-hiking-shoes">
 Hiking
 </a>
 </li>
@@ -747,7 +849,7 @@ Hiking
 
 
 <li>
-<a class="link-primary link-list" href="http://www.adidasoutdoor.com/women-trail-running-shoes">
+<a class="link-primary link-list" href="https://www.adidasoutdoor.com/women-trail-running-shoes">
 Trail Running
 </a>
 </li>
@@ -755,15 +857,15 @@ Trail Running
 
 
 <li>
-<a class="link-primary link-list" href="http://www.adidasoutdoor.com/women-bike-shoes">
-Bike - Five Ten
+<a class="link-primary link-list" href="https://www.adidasoutdoor.com/women-bike-shoes">
+Mountain Bike - Five Ten
 </a>
 </li>
 
 
 
 <li>
-<a class="link-primary link-list" href="http://www.adidasoutdoor.com/women-climb-shoes">
+<a class="link-primary link-list" href="https://www.adidasoutdoor.com/women-climb-shoes">
 Climb - Five Ten
 </a>
 </li>
@@ -771,26 +873,27 @@ Climb - Five Ten
 
 
 <li>
-<a class="link-primary link-list" href="http://www.adidasoutdoor.com/women-water-sports-shoes">
+<a class="link-primary link-list" href="https://www.adidasoutdoor.com/on/demandware.store/Sites-AO-Site/default/Search-Show?cgid=women-approach-shoes">
+Approach - Five Ten
+</a>
+</li>
+
+
+
+<li>
+<a class="link-primary link-list" href="https://www.adidasoutdoor.com/women-water-sports-shoes">
 Water Sports
 </a>
 </li>
 
 
-
 <li>
-<a class="link-primary link-list" href="http://www.adidasoutdoor.com/women-winter-sports-shoes">
-Winter Sports
-</a>
-</li>
-
-
-<li>
-<a class="link-primary link-list view-all" href="http://www.adidasoutdoor.com/women-shoes">
+<a class="link-primary link-list view-all" href="https://www.adidasoutdoor.com/women-shoes">
 View All
 </a>
 </li>
 </ul>
+
 
 
 </li>
@@ -803,12 +906,12 @@ View All
 
 
 <li>
-<a class="link-primary top-cat-link headline has-level-3" href="http://www.adidasoutdoor.com/women-apparel">
+<a class="link-primary top-cat-link headline has-level-3" href="https://www.adidasoutdoor.com/women-apparel">
 Apparel
 </a>
 
-<a class="subcat-img-link" href="http://www.adidasoutdoor.com/women-apparel">
-<img class="subcat-thumb" src="/on/demandware.static/-/Sites-adidasOutdoor2018/default/dwf8da1f11/menu images/A_Womens.jpg">
+<a class="subcat-img-link" href="https://www.adidasoutdoor.com/women-apparel">
+<img class="subcat-thumb" src="/on/demandware.static/-/Sites-adidasOutdoor2018/default/dw93a930ee/menu images/dropdown_women_apparel.jpg">
 </a>
 
 
@@ -816,7 +919,7 @@ Apparel
 
 
 <li>
-<a class="link-primary link-list" href="http://www.adidasoutdoor.com/women-rain-wind-jacket-apparel">
+<a class="link-primary link-list" href="https://www.adidasoutdoor.com/women-rain-wind-jacket-apparel">
 Rain/Wind Jackets
 </a>
 </li>
@@ -824,15 +927,7 @@ Rain/Wind Jackets
 
 
 <li>
-<a class="link-primary link-list" href="http://www.adidasoutdoor.com/women-insulation-apparel">
-Insulation
-</a>
-</li>
-
-
-
-<li>
-<a class="link-primary link-list" href="http://www.adidasoutdoor.com/women-fleece-apparel">
+<a class="link-primary link-list" href="https://www.adidasoutdoor.com/women-fleece-apparel">
 Fleece
 </a>
 </li>
@@ -840,7 +935,7 @@ Fleece
 
 
 <li>
-<a class="link-primary link-list" href="http://www.adidasoutdoor.com/women-tops-apparel">
+<a class="link-primary link-list" href="https://www.adidasoutdoor.com/women-tops-apparel">
 Tops
 </a>
 </li>
@@ -848,7 +943,7 @@ Tops
 
 
 <li>
-<a class="link-primary link-list" href="http://www.adidasoutdoor.com/women-pants-shorts-apparel">
+<a class="link-primary link-list" href="https://www.adidasoutdoor.com/women-pants-shorts-apparel">
 Pants/Shorts
 </a>
 </li>
@@ -856,26 +951,19 @@ Pants/Shorts
 
 
 <li>
-<a class="link-primary link-list" href="http://www.adidasoutdoor.com/women-trail-running-apparel">
+<a class="link-primary link-list" href="https://www.adidasoutdoor.com/women-trail-running-apparel">
 Trail Running
 </a>
 </li>
 
 
-
 <li>
-<a class="link-primary link-list" href="http://www.adidasoutdoor.com/women-training-apparel">
-Training
-</a>
-</li>
-
-
-<li>
-<a class="link-primary link-list view-all" href="http://www.adidasoutdoor.com/women-apparel">
+<a class="link-primary link-list view-all" href="https://www.adidasoutdoor.com/women-apparel">
 View All
 </a>
 </li>
 </ul>
+
 
 
 </li>
@@ -888,12 +976,12 @@ View All
 
 
 <li>
-<a class="link-primary top-cat-link headline has-level-3" href="http://www.adidasoutdoor.com/women-accessories">
+<a class="link-primary top-cat-link headline has-level-3" href="https://www.adidasoutdoor.com/women-accessories">
 Accessories
 </a>
 
-<a class="subcat-img-link" href="http://www.adidasoutdoor.com/women-accessories">
-<img class="subcat-thumb" src="/on/demandware.static/-/Sites-adidasOutdoor2018/default/dw0269f02e/menu images/Acc_Womens.jpg">
+<a class="subcat-img-link" href="https://www.adidasoutdoor.com/women-accessories">
+<img class="subcat-thumb" src="/on/demandware.static/-/Sites-adidasOutdoor2018/default/dw8e4da6e0/menu images/dropdown_women_accessories.jpg">
 </a>
 
 
@@ -901,15 +989,7 @@ Accessories
 
 
 <li>
-<a class="link-primary link-list" href="http://www.adidasoutdoor.com/women-backpack-accessories">
-Backpacks
-</a>
-</li>
-
-
-
-<li>
-<a class="link-primary link-list" href="http://www.adidasoutdoor.com/women-bag-accessories">
+<a class="link-primary link-list" href="https://www.adidasoutdoor.com/women-bag-accessories">
 Bags
 </a>
 </li>
@@ -917,7 +997,7 @@ Bags
 
 
 <li>
-<a class="link-primary link-list" href="http://www.adidasoutdoor.com/women-sock-accessories">
+<a class="link-primary link-list" href="https://www.adidasoutdoor.com/women-sock-accessories">
 Socks
 </a>
 </li>
@@ -925,18 +1005,19 @@ Socks
 
 
 <li>
-<a class="link-primary link-list" href="http://www.adidasoutdoor.com/women-headwear-accessories">
+<a class="link-primary link-list" href="https://www.adidasoutdoor.com/women-headwear-accessories">
 Headwear
 </a>
 </li>
 
 
 <li>
-<a class="link-primary link-list view-all" href="http://www.adidasoutdoor.com/women-accessories">
+<a class="link-primary link-list view-all" href="https://www.adidasoutdoor.com/women-accessories">
 View All
 </a>
 </li>
 </ul>
+
 
 
 </li>
@@ -949,9 +1030,14 @@ View All
 
 
 <li>
-<a class="link-primary top-cat-link headline " href="http://www.adidasoutdoor.com/sale-women">
-Sale
+<a class="link-primary top-cat-link headline " href="https://www.adidasoutdoor.com/sale_women">
+Women
 </a>
+
+<a class="subcat-img-link" href="https://www.adidasoutdoor.com/sale_women">
+<img class="subcat-thumb" src="/on/demandware.static/-/Sites-adidasOutdoor2018/default/dwa4413cd2/menu images/dropdown_women_sale.jpg">
+</a>
+
 
 
 
@@ -973,7 +1059,7 @@ Sale
 
 
 
-<a class="has-sub-menu" href="http://www.adidasoutdoor.com/kids">
+<a class="has-sub-menu" href="https://www.adidasoutdoor.com/kids">
 Kids
 </a>
 
@@ -989,12 +1075,12 @@ Kids
 
 
 <li>
-<a class="link-primary top-cat-link headline has-level-3" href="http://www.adidasoutdoor.com/kids-shoes">
+<a class="link-primary top-cat-link headline has-level-3" href="https://www.adidasoutdoor.com/kids-shoes">
 Shoes
 </a>
 
-<a class="subcat-img-link" href="http://www.adidasoutdoor.com/kids-shoes">
-<img class="subcat-thumb" src="/on/demandware.static/-/Sites-adidasOutdoor2018/default/dw48dd0e3e/menu images/menu-item-Kids.jpg">
+<a class="subcat-img-link" href="https://www.adidasoutdoor.com/kids-shoes">
+<img class="subcat-thumb" src="/on/demandware.static/-/Sites-adidasOutdoor2018/default/dw48dd0e3e/menu images/dropdown_kids_shoes.jpg">
 </a>
 
 
@@ -1002,7 +1088,7 @@ Shoes
 
 
 <li>
-<a class="link-primary link-list" href="http://www.adidasoutdoor.com/kids-hiking-shoes">
+<a class="link-primary link-list" href="https://www.adidasoutdoor.com/kids-hiking-shoes">
 Hiking
 </a>
 </li>
@@ -1010,34 +1096,35 @@ Hiking
 
 
 <li>
-<a class="link-primary link-list" href="http://www.adidasoutdoor.com/kids-trail-running-shoes">
-Trail Running
+<a class="link-primary link-list" href="https://www.adidasoutdoor.com/kids-bike-shoes">
+Mountain Bike - Five Ten
 </a>
 </li>
 
 
 
 <li>
-<a class="link-primary link-list" href="http://www.adidasoutdoor.com/kids-water-sports-shoes">
+<a class="link-primary link-list" href="https://www.adidasoutdoor.com/kids-climb-shoes">
+Climbing - Five Ten
+</a>
+</li>
+
+
+
+<li>
+<a class="link-primary link-list" href="https://www.adidasoutdoor.com/kids-water-sports-shoes">
 Water Sports
 </a>
 </li>
 
 
-
 <li>
-<a class="link-primary link-list" href="http://www.adidasoutdoor.com/kids-winter-sports-shoes">
-Winter Sports
-</a>
-</li>
-
-
-<li>
-<a class="link-primary link-list view-all" href="http://www.adidasoutdoor.com/kids-shoes">
+<a class="link-primary link-list view-all" href="https://www.adidasoutdoor.com/kids-shoes">
 View All
 </a>
 </li>
 </ul>
+
 
 
 <div class="content-slot-links">
@@ -1050,8 +1137,8 @@ View All
 <div class="html-slot-container">
 
 
-<a style="font-weight:bold" href="http://www.adidasoutdoor.com/terrex-brand">Terrex</a>
-<a style="font-weight:bold" href="http://www.adidasoutdoor.com/fiveten-brand">Five Ten</a>
+<a style="font-weight:bold" href="https://www.adidasoutdoor.com/terrex-brand">Terrex</a>
+<a style="font-weight:bold" href="https://www.adidasoutdoor.com/fiveten-brand">Five Ten</a>
 
 
 </div> 
@@ -1068,31 +1155,15 @@ View All
 
 
 <li>
-<a class="link-primary top-cat-link headline has-level-3" href="http://www.adidasoutdoor.com/kids-apparel">
-Apparel
+<a class="link-primary top-cat-link headline " href="https://www.adidasoutdoor.com/sale_kids">
+Kids
 </a>
 
-<a class="subcat-img-link" href="http://www.adidasoutdoor.com/kids-apparel">
-<img class="subcat-thumb" src="/on/demandware.static/-/Sites-adidasOutdoor2018/default/dwae995a5c/menu images/menu-item-kids-apparel.jpg">
+<a class="subcat-img-link" href="https://www.adidasoutdoor.com/sale_kids">
+<img class="subcat-thumb" src="/on/demandware.static/-/Sites-adidasOutdoor2018/default/dw1fa48330/menu images/dropdown_kids_sale.jpg">
 </a>
 
 
-<ul class="level-3">
-
-
-<li>
-<a class="link-primary link-list" href="http://www.adidasoutdoor.com/kids-training-apparel">
-Training
-</a>
-</li>
-
-
-<li>
-<a class="link-primary link-list view-all" href="http://www.adidasoutdoor.com/kids-apparel">
-View All
-</a>
-</li>
-</ul>
 
 
 </li>
@@ -1115,7 +1186,7 @@ View All
 
 
 
-<a class="has-sub-menu" href="http://www.adidasoutdoor.com/fiveten">
+<a class="has-sub-menu" href="https://www.adidasoutdoor.com/fiveten">
 Five Ten
 </a>
 
@@ -1131,12 +1202,12 @@ Five Ten
 
 
 <li>
-<a class="link-primary top-cat-link headline has-level-3" href="http://www.adidasoutdoor.com/fiveten-men">
-Men
+<a class="link-primary top-cat-link headline has-level-3" href="https://www.adidasoutdoor.com/fiveten-featured">
+Featured
 </a>
 
-<a class="subcat-img-link" href="http://www.adidasoutdoor.com/fiveten-men">
-<img class="subcat-thumb" src="/on/demandware.static/-/Sites-adidasOutdoor2018/default/dwa763b8dc/menu images/menu-item-510 Mens.jpg">
+<a class="subcat-img-link" href="https://www.adidasoutdoor.com/fiveten-featured">
+<img class="subcat-thumb" src="/on/demandware.static/-/Sites-adidasOutdoor2018/default/dw6c6f8323/menu images/dropdown_fiveten_featured.jpg">
 </a>
 
 
@@ -1144,34 +1215,19 @@ Men
 
 
 <li>
-<a class="link-primary link-list" href="http://www.adidasoutdoor.com/fiveten-men-bike-shoes">
-Mountain Bike Shoes
-</a>
-</li>
-
-
-
-<li>
-<a class="link-primary link-list" href="http://www.adidasoutdoor.com/fiveten-men-climb-shoes">
-Climbing Shoes
-</a>
-</li>
-
-
-
-<li>
-<a class="link-primary link-list" href="http://www.adidasoutdoor.com/fiveten-men-approach-shoes">
-Approach Shoes
+<a class="link-primary link-list" href="https://www.adidasoutdoor.com/fiveten-featured-best-sellers">
+Best Sellers
 </a>
 </li>
 
 
 <li>
-<a class="link-primary link-list view-all" href="http://www.adidasoutdoor.com/fiveten-men">
+<a class="link-primary link-list view-all" href="https://www.adidasoutdoor.com/fiveten-featured">
 View All
 </a>
 </li>
 </ul>
+
 
 
 <div class="content-slot-links">
@@ -1191,12 +1247,12 @@ View All
 
 
 <li>
-<a class="link-primary top-cat-link headline has-level-3" href="http://www.adidasoutdoor.com/fiveten-women">
-Women
+<a class="link-primary top-cat-link headline has-level-3" href="https://www.adidasoutdoor.com/fiveten-men">
+Men
 </a>
 
-<a class="subcat-img-link" href="http://www.adidasoutdoor.com/fiveten-women">
-<img class="subcat-thumb" src="/on/demandware.static/-/Sites-adidasOutdoor2018/default/dwb8a3e69c/menu images/menu-item-510 Womens.jpg">
+<a class="subcat-img-link" href="https://www.adidasoutdoor.com/fiveten-men">
+<img class="subcat-thumb" src="/on/demandware.static/-/Sites-adidasOutdoor2018/default/dw3cdf518d/menu images/dropdown_fiveten_men.jpg">
 </a>
 
 
@@ -1204,7 +1260,7 @@ Women
 
 
 <li>
-<a class="link-primary link-list" href="http://www.adidasoutdoor.com/fiveten-women-bike-shoes">
+<a class="link-primary link-list" href="https://www.adidasoutdoor.com/fiveten-men-bike-shoes">
 Mountain Bike Shoes
 </a>
 </li>
@@ -1212,7 +1268,7 @@ Mountain Bike Shoes
 
 
 <li>
-<a class="link-primary link-list" href="http://www.adidasoutdoor.com/fiveten-women-climb-shoes">
+<a class="link-primary link-list" href="https://www.adidasoutdoor.com/fiveten-men-climb-shoes">
 Climbing Shoes
 </a>
 </li>
@@ -1220,18 +1276,140 @@ Climbing Shoes
 
 
 <li>
-<a class="link-primary link-list" href="http://www.adidasoutdoor.com/fiveten-women-approach-shoes">
+<a class="link-primary link-list" href="https://www.adidasoutdoor.com/fiveten-men-approach-shoes">
 Approach Shoes
 </a>
 </li>
 
 
 <li>
-<a class="link-primary link-list view-all" href="http://www.adidasoutdoor.com/fiveten-women">
+<a class="link-primary link-list view-all" href="https://www.adidasoutdoor.com/fiveten-men">
 View All
 </a>
 </li>
 </ul>
+
+
+
+</li>
+
+</ul>
+</div>
+
+<div class="subcat-col">
+<ul class="menu-vertical">
+
+
+<li>
+<a class="link-primary top-cat-link headline has-level-3" href="https://www.adidasoutdoor.com/fiveten-women">
+Women
+</a>
+
+<a class="subcat-img-link" href="https://www.adidasoutdoor.com/fiveten-women">
+<img class="subcat-thumb" src="/on/demandware.static/-/Sites-adidasOutdoor2018/default/dw6bfd81dc/menu images/dropdown_fiveten_women.jpg">
+</a>
+
+
+<ul class="level-3">
+
+
+<li>
+<a class="link-primary link-list" href="https://www.adidasoutdoor.com/fiveten-women-bike-shoes">
+Mountain Bike Shoes
+</a>
+</li>
+
+
+
+<li>
+<a class="link-primary link-list" href="https://www.adidasoutdoor.com/fiveten-women-climb-shoes">
+Climbing Shoes
+</a>
+</li>
+
+
+
+<li>
+<a class="link-primary link-list" href="https://www.adidasoutdoor.com/fiveten-women-approach-shoes">
+Approach Shoes
+</a>
+</li>
+
+
+<li>
+<a class="link-primary link-list view-all" href="https://www.adidasoutdoor.com/fiveten-women">
+View All
+</a>
+</li>
+</ul>
+
+
+
+</li>
+
+</ul>
+</div>
+
+<div class="subcat-col">
+<ul class="menu-vertical">
+
+
+<li>
+<a class="link-primary top-cat-link headline has-level-3" href="https://www.adidasoutdoor.com/fiveten-kids">
+Kids
+</a>
+
+<a class="subcat-img-link" href="https://www.adidasoutdoor.com/fiveten-kids">
+<img class="subcat-thumb" src="/on/demandware.static/-/Sites-adidasOutdoor2018/default/dw35b63d04/menu images/dropdown_fiveten_kids.jpg">
+</a>
+
+
+<ul class="level-3">
+
+
+<li>
+<a class="link-primary link-list" href="https://www.adidasoutdoor.com/fiveten-kids-bike-shoes">
+Mountain Bike Shoes
+</a>
+</li>
+
+
+
+<li>
+<a class="link-primary link-list" href="https://www.adidasoutdoor.com/fiveten-kids-climb-shoes">
+Climbing Shoes
+</a>
+</li>
+
+
+<li>
+<a class="link-primary link-list view-all" href="https://www.adidasoutdoor.com/fiveten-kids">
+View All
+</a>
+</li>
+</ul>
+
+
+
+</li>
+
+</ul>
+</div>
+
+<div class="subcat-col">
+<ul class="menu-vertical">
+
+
+<li>
+<a class="link-primary top-cat-link headline " href="https://www.adidasoutdoor.com/on/demandware.store/Sites-AO-Site/default/Search-Show?cgid=five-ten-sale">
+Five Ten
+</a>
+
+<a class="subcat-img-link" href="https://www.adidasoutdoor.com/on/demandware.store/Sites-AO-Site/default/Search-Show?cgid=five-ten-sale">
+<img class="subcat-thumb" src="/on/demandware.static/-/Sites-adidasOutdoor2018/default/dwecc90ecf/menu images/dropdown_fiveten_sale.jpg">
+</a>
+
+
 
 
 </li>
@@ -1252,7 +1430,7 @@ View All
 
 
 
-<a class="has-sub-menu" href="http://www.adidasoutdoor.com/sports">
+<a class="has-sub-menu" href="https://www.adidasoutdoor.com/sports">
 Sports
 </a>
 
@@ -1268,12 +1446,12 @@ Sports
 
 
 <li>
-<a class="link-primary top-cat-link headline has-level-3" href="http://www.adidasoutdoor.com/sports-hiking">
+<a class="link-primary top-cat-link headline has-level-3" href="https://www.adidasoutdoor.com/sports-hiking">
 Hiking
 </a>
 
-<a class="subcat-img-link" href="http://www.adidasoutdoor.com/sports-hiking">
-<img class="subcat-thumb" src="/on/demandware.static/-/Sites-adidasOutdoor2018/default/dwd150df69/menu images/menu-item-Sports-Hike.jpg">
+<a class="subcat-img-link" href="https://www.adidasoutdoor.com/sports-hiking">
+<img class="subcat-thumb" src="/on/demandware.static/-/Sites-adidasOutdoor2018/default/dwdd8a301a/menu images/dropdown_sports_hike.jpg">
 </a>
 
 
@@ -1281,7 +1459,7 @@ Hiking
 
 
 <li>
-<a class="link-primary link-list" href="http://www.adidasoutdoor.com/sports-approach">
+<a class="link-primary link-list" href="https://www.adidasoutdoor.com/sports-approach">
 Approach
 </a>
 </li>
@@ -1289,7 +1467,7 @@ Approach
 
 
 <li>
-<a class="link-primary link-list" href="http://www.adidasoutdoor.com/sports-day">
+<a class="link-primary link-list" href="https://www.adidasoutdoor.com/sports-day">
 Day
 </a>
 </li>
@@ -1297,18 +1475,19 @@ Day
 
 
 <li>
-<a class="link-primary link-list" href="http://www.adidasoutdoor.com/sports-multiday">
+<a class="link-primary link-list" href="https://www.adidasoutdoor.com/sports-multiday">
 Multiday
 </a>
 </li>
 
 
 <li>
-<a class="link-primary link-list view-all" href="http://www.adidasoutdoor.com/sports-hiking">
+<a class="link-primary link-list view-all" href="https://www.adidasoutdoor.com/sports-hiking">
 View All
 </a>
 </li>
 </ul>
+
 
 
 <div class="content-slot-links">
@@ -1328,12 +1507,12 @@ View All
 
 
 <li>
-<a class="link-primary top-cat-link headline has-level-3" href="http://www.adidasoutdoor.com/sports-trail-running">
+<a class="link-primary top-cat-link headline has-level-3" href="https://www.adidasoutdoor.com/sports-trail-running">
 Trail Running
 </a>
 
-<a class="subcat-img-link" href="http://www.adidasoutdoor.com/sports-trail-running">
-<img class="subcat-thumb" src="/on/demandware.static/-/Sites-adidasOutdoor2018/default/dw55157ef5/menu images/menu-item-Sports Trail Running.jpg">
+<a class="subcat-img-link" href="https://www.adidasoutdoor.com/sports-trail-running">
+<img class="subcat-thumb" src="/on/demandware.static/-/Sites-adidasOutdoor2018/default/dwa9459b75/menu images/dropdown_sports_run.jpg">
 </a>
 
 
@@ -1341,7 +1520,7 @@ Trail Running
 
 
 <li>
-<a class="link-primary link-list" href="http://www.adidasoutdoor.com/sports-short%20distance">
+<a class="link-primary link-list" href="https://www.adidasoutdoor.com/sports-short-distance">
 Short Distance
 </a>
 </li>
@@ -1349,18 +1528,27 @@ Short Distance
 
 
 <li>
-<a class="link-primary link-list" href="http://www.adidasoutdoor.com/sports-ultras">
+<a class="link-primary link-list" href="https://www.adidasoutdoor.com/sports-medium-distance">
+Medium Distance
+</a>
+</li>
+
+
+
+<li>
+<a class="link-primary link-list" href="https://www.adidasoutdoor.com/sports-ultras">
 Ultras
 </a>
 </li>
 
 
 <li>
-<a class="link-primary link-list view-all" href="http://www.adidasoutdoor.com/sports-trail-running">
+<a class="link-primary link-list view-all" href="https://www.adidasoutdoor.com/sports-trail-running">
 View All
 </a>
 </li>
 </ul>
+
 
 
 </li>
@@ -1373,12 +1561,12 @@ View All
 
 
 <li>
-<a class="link-primary top-cat-link headline has-level-3" href="http://www.adidasoutdoor.com/sports-bike">
+<a class="link-primary top-cat-link headline has-level-3" href="https://www.adidasoutdoor.com/sports-bike">
 Bike
 </a>
 
-<a class="subcat-img-link" href="http://www.adidasoutdoor.com/sports-bike">
-<img class="subcat-thumb" src="/on/demandware.static/-/Sites-adidasOutdoor2018/default/dwfb780ec5/menu images/menu-item-Sports Bike.jpg">
+<a class="subcat-img-link" href="https://www.adidasoutdoor.com/sports-bike">
+<img class="subcat-thumb" src="/on/demandware.static/-/Sites-adidasOutdoor2018/default/dw74eb220f/menu images/dropdown_sports_bike.jpg">
 </a>
 
 
@@ -1386,7 +1574,7 @@ Bike
 
 
 <li>
-<a class="link-primary link-list" href="http://www.adidasoutdoor.com/sports-all_mountain">
+<a class="link-primary link-list" href="https://www.adidasoutdoor.com/sports-all_mountain">
 All Mountain
 </a>
 </li>
@@ -1394,7 +1582,7 @@ All Mountain
 
 
 <li>
-<a class="link-primary link-list" href="http://www.adidasoutdoor.com/sports-gravity">
+<a class="link-primary link-list" href="https://www.adidasoutdoor.com/sports-gravity">
 Gravity
 </a>
 </li>
@@ -1402,18 +1590,19 @@ Gravity
 
 
 <li>
-<a class="link-primary link-list" href="http://www.adidasoutdoor.com/sports-casual">
+<a class="link-primary link-list" href="https://www.adidasoutdoor.com/sports-casual">
 Casual
 </a>
 </li>
 
 
 <li>
-<a class="link-primary link-list view-all" href="http://www.adidasoutdoor.com/sports-bike">
+<a class="link-primary link-list view-all" href="https://www.adidasoutdoor.com/sports-bike">
 View All
 </a>
 </li>
 </ul>
+
 
 
 </li>
@@ -1426,12 +1615,12 @@ View All
 
 
 <li>
-<a class="link-primary top-cat-link headline has-level-3" href="http://www.adidasoutdoor.com/sports-climb">
+<a class="link-primary top-cat-link headline has-level-3" href="https://www.adidasoutdoor.com/sports-climb">
 Climb
 </a>
 
-<a class="subcat-img-link" href="http://www.adidasoutdoor.com/sports-climb">
-<img class="subcat-thumb" src="/on/demandware.static/-/Sites-adidasOutdoor2018/default/dw7c733351/menu images/menu-item-Sports Climb.jpg">
+<a class="subcat-img-link" href="https://www.adidasoutdoor.com/sports-climb">
+<img class="subcat-thumb" src="/on/demandware.static/-/Sites-adidasOutdoor2018/default/dwb2e6a9ef/menu images/dropdown_sports_climb.jpg">
 </a>
 
 
@@ -1439,7 +1628,7 @@ Climb
 
 
 <li>
-<a class="link-primary link-list" href="http://www.adidasoutdoor.com/sports-neutral">
+<a class="link-primary link-list" href="https://www.adidasoutdoor.com/sports-neutral">
 Neutral
 </a>
 </li>
@@ -1447,7 +1636,7 @@ Neutral
 
 
 <li>
-<a class="link-primary link-list" href="http://www.adidasoutdoor.com/sports-moderate">
+<a class="link-primary link-list" href="https://www.adidasoutdoor.com/sports-moderate">
 Moderate
 </a>
 </li>
@@ -1455,18 +1644,19 @@ Moderate
 
 
 <li>
-<a class="link-primary link-list" href="http://www.adidasoutdoor.com/sports-aggressive">
+<a class="link-primary link-list" href="https://www.adidasoutdoor.com/sports-aggressive">
 Aggressive
 </a>
 </li>
 
 
 <li>
-<a class="link-primary link-list view-all" href="http://www.adidasoutdoor.com/sports-climb">
+<a class="link-primary link-list view-all" href="https://www.adidasoutdoor.com/sports-climb">
 View All
 </a>
 </li>
 </ul>
+
 
 
 </li>
@@ -1496,13 +1686,18 @@ Explore
 
 
 
+
+
+
+
+
 <div class="content-asset"><!-- dwMarker="content" dwContentID="15e3a345408c5ea0731fffd3c8" -->
 <div class="subcat-col">
 <ul class="menu-vertical">
-  <li><a class="link-primary top-cat-link headline has-level-3" href="http://www.adidasoutdoor.com/on/demandware.store/Sites-AO-Site/default/Life-Adventure">Media</a>
+  <li><a class="link-primary top-cat-link headline has-level-3" href="https://www.adidasoutdoor.com/on/demandware.store/Sites-AO-Site/default/Life-Adventure">Media</a>
   <ul class="level-3">
-    <li><a class="link-primary link-list" href="http://www.adidasoutdoor.com/on/demandware.store/Sites-AO-Site/default/Life-Adventure">Adidas Outdoor</a></li>
-    <li><a class="link-primary link-list" href="http://www.adidasoutdoor.com/on/demandware.store/Sites-AO-Site/default/Life-Adventure?fid=fivetennews">Five Ten</a></li>
+    <li><a class="link-primary link-list" href="https://www.adidasoutdoor.com/on/demandware.store/Sites-AO-Site/default/Life-Adventure">Adidas Outdoor</a></li>
+    <li><a class="link-primary link-list" href="https://www.adidasoutdoor.com/on/demandware.store/Sites-AO-Site/default/Life-Adventure?fid=fivetennews">Five Ten</a></li>
   </ul>
   </li>
 </ul>
@@ -1510,11 +1705,11 @@ Explore
 
 <div class="subcat-col">
 <ul class="menu-vertical">
-  <li><a class="link-primary top-cat-link headline has-level-3" href="http://www.adidasoutdoor.com/on/demandware.store/Sites-AO-Site/default/Life-Athletes">Athletes</a>
+  <li><a class="link-primary top-cat-link headline has-level-3" href="https://www.adidasoutdoor.com/on/demandware.store/Sites-AO-Site/default/Life-Athletes">Athletes</a>
 
   <ul class="level-3">
-    <li><a class="link-primary link-list" href="http://www.adidasoutdoor.com/on/demandware.store/Sites-AO-Site/default/Life-Athletes">Adidas Outdoor</a></li>
-    <li><a class="link-primary link-list" href="http://www.adidasoutdoor.com/on/demandware.store/Sites-AO-Site/default/Life-Athletes?fid=fivetenathletes">Five Ten</a></li>
+    <li><a class="link-primary link-list" href="https://www.adidasoutdoor.com/on/demandware.store/Sites-AO-Site/default/Life-Athletes">Adidas Outdoor</a></li>
+    <li><a class="link-primary link-list" href="https://www.adidasoutdoor.com/on/demandware.store/Sites-AO-Site/default/Life-Athletes?fid=fivetenathletes">Five Ten</a></li>
   </ul>
   </li>
 </ul>
@@ -1522,12 +1717,12 @@ Explore
 
 <div class="subcat-col">
 <ul class="menu-vertical">
-  <li><a class="link-primary top-cat-link headline has-level-3" href="http://www.adidasoutdoor.com/on/demandware.store/Sites-AO-Site/default/Search-Show?cid=Sustainability">Learn More</a>
+  <li><a class="link-primary top-cat-link headline has-level-3" href="https://www.adidasoutdoor.com/on/demandware.store/Sites-AO-Site/default/Search-Show?cid=Sustainability">Learn More</a>
 
   <ul class="level-3">
-    <li><a class="link-primary link-list" href="http://www.adidasoutdoor.com/Sustainability.html">Adidas-Group Sustainability</a></li>
-    <li><a class="link-primary link-list" href="http://www.adidasoutdoor.com/on/demandware.store/Sites-AO-Site/default/Life-Technology">Technology - adidas</a></li>
-    <li><a class="link-primary link-list" href="http://www.adidasoutdoor.com/on/demandware.store/Sites-AO-Site/default/Life-Adventure?cid=fiveten-technology">Technology - Five Ten</a></li>
+    <li><a class="link-primary link-list" href="https://www.adidasoutdoor.com/Sustainability.html">Adidas-Group Sustainability</a></li>
+    <li><a class="link-primary link-list" href="https://www.adidasoutdoor.com/on/demandware.store/Sites-AO-Site/default/Life-Technology">Technology - adidas</a></li>
+    <li><a class="link-primary link-list" href="https://www.adidasoutdoor.com/on/demandware.store/Sites-AO-Site/default/Life-Adventure?cid=fiveten-technology">Technology - Five Ten</a></li>
   </ul>
   </li>
 </ul>
@@ -1574,7 +1769,66 @@ Explore
 </form>
 
 </div>
+
 <div id="mini-cart">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -1625,6 +1879,7 @@ Explore
 
 
 
+
 <div class="mini-cart-total">
 
 <a class="mini-cart-link mini-cart-empty" href="https://www.adidasoutdoor.com/cart" title="View Bag">
@@ -1632,6 +1887,10 @@ Explore
 </a>
 
 </div>
+
+
+
+
 
 
 
@@ -1660,6 +1919,7 @@ null
 
 </div>
 
+
 <div class="header-banner">
 
 	 
@@ -1667,10 +1927,11 @@ null
 
 	
 
+
 <div class="header-promotion">
 
 
-<span class="header-promotion__msg">Free Shipping (see details)</span>
+<span class="header-promotion__msg"><a href="http://www.adidasoutdoor.com/service--shipping-policy.html">Register for Free Shipping(SEE DETAILS)</a></span>
 
 
 </div> 
@@ -1679,6 +1940,8 @@ null
 </div>
 
 <div id="main" role="main" class="full-width clearfix">
+
+
 
 <div id="browser-check">
 <noscript>
@@ -1692,6 +1955,7 @@ null
 
 <div class="breadcrumb">
 
+
 <a class="breadcrumb-element" href="/about--privacy-policy.html" title="Go to Privacy Policy">Privacy Policy</a>
 
 </div><!-- END: breadcrumb -->
@@ -1704,64 +1968,113 @@ null
 
 
 
+
+
+
+
+
+
+
 <div class="content-asset"><!-- dwMarker="content" dwContentID="7bf0c6b2dfa856ed180ee7c7f6" -->
-<h1>Protecting your Privacy</h1>
+<p><span style="font-size:16px;"><strong>adidas Outdoor Privacy Policy</strong></span></p>
 
-<p>agron, inc., Official Licencee for adidas, is the exclusive distributor for adidas outdoor in the United States of America. ("adidasoutdoor.com")
-adidasoutdoor.com. ("adidas outdoor" "adidas" or "we", "us", or "our") is strongly committed to protecting the privacy of your personal information collected at or in connection with the adidasourdoor.com website. This Online Privacy Policy (the "Policy") applies also to those adidas websites that display or link to this Policy (including adidas.com/us, miadidas.com/us, and adidas.com and referred to in this Policy as the "Website"). This Policy applies to data collected by adidas through its Websites and services that display these terms. It does not apply to those adidas sites, services and products that do not display or link to this Policy or that have their own privacy policies. This Policy describes the information we collect and how we use it. By visiting our Website, you are accepting the practices described in this Policy. If you do not agree to the terms of this Policy, please do not use the Website.</p>
+<p>agron, inc., is the exclusive distributor for adidas outdoor and Five Ten in the United States of America. Furthermore, agron inc. <u>is the operator of adidasoutdoor.com and fiveten.com Website in the United States.</u>&nbsp; adidasoutdoor.com, fiveten.com, (also referred as "adidas Outdoor," “Five Ten,” "adidas" or "we," "us," or "our") is strongly committed to protecting the privacy of your personal information collected at or in connection with the adidas Outdoor website. This Online Privacy Policy (the “Policy”) applies to those adidas Outdoor websites that display or link to this Policy (including adidasoutdoor.com and fiveten.com/us referred to in this Policy as the "Website"). This Policy applies to data collected by adidas Outdoor through its Websites and services that display these terms. It does not apply to those adidas Outdoor sites, services and products that do not display or link to this Policy or that have their privacy policies. This Policy describes the information we collect and how we use it. By visiting our Website, you are accepting the practices described in this Policy. If you do not agree to the terms of this Policy, please do not use the Website.</p>
 
-<h3>Consent to Collection and Processing</h3>
-<p>This Website may not be operated, in whole or in part, from a country other than the United States.</p>
+<p><strong>Consent to Collection and Processing</strong></p>
 
-<h3>What Information about me does adidasoutdoor.com collect and store?</h3>
-<p>Our privacy policy is simple: Except as disclosed below, we don't sell, trade, give away, or rent your personal information to any company outside of the adidas Group. One of the basic principles we've tried to follow in designing this Website is that we ask for only the information we need to provide the service you've requested. As a result, what information we collect and store depends almost entirely on how you choose to make use of our Website and our services. Personal Information We collect and store information that you provide to our Website or our Customer Service Department. For example, when you open an account or place an order, we collect and store some or all of the following information that you provide: name, billing address, shipping address, email address, telephone number, and credit card number and expiration date. We collect your e-mail addresses and zip code if you subscribe to our newsletter. You may unsubscribe at any time by following the instructions located within each newsletter. Registration may be required and personal information collected in certain areas of the Website in which you specifically and knowingly provide such information, e.g. community postings (i.e., chat or bulletin boards), suggestions, or customer service requests. When we run a contest or sweepstakes relating to our Website, it will be accompanied by a set of rules. The rules for each contest/sweepstakes will specify how the information gathered from you for entry will be used and disclosed, if it is different than as described in this Policy. Personal information will be collected only if you voluntarily submit it to our sponsors or us. Anonymous Information Through your use of our Website, we may also gather certain information that does not identify you individually ("Anonymous Information"). Generally, this information is collected through "traffic data". We collect and store certain other information automatically whenever you interact with our Website. For example, we collect your IP address, browser information and reference site domain name every time you visit our Website. We also collect information regarding customer traffic patterns and site usage. This information is used to analyze and improve our Website and to provide our customers with a fulfilling shopping experience.</p>
+<p>This Website may be operated, in whole or in part, from a country other than the United States. By using our Website, you consent to have your personal information transferred to and processed in a jurisdiction outside of the United States.</p>
 
-<h3>How does adidasoutdoor.com use cookies and spyware?</h3>
-<p>We never use or install spyware on your computer, nor do we use spyware to retrieve information from your computer. Like many websites, we use "cookies", files stored on your computer's hard drive by your browser to identify account holders and to optimize their shopping experience. Cookies also allow us to hold selections in a shopping cart when a user leaves this Website without checking out and send you reminder e-mail about your shopping orders and other shopping opportunities. Most browsers accept cookies automatically but allow you to disable them. We recommend that you leave cookies "turned on" so that we can offer you a better shopping experience. You may occasionally get cookies from companies advertising on our behalf to tailor advertisements shown to you for goods and services. We do not control these cookies, and these cookies are not subject to our Website. Our systems do not recognize browser "Do Not Track" signals, but several of our service providers who utilize these cookies and other tracking technologies on our Website enable you to opt out of this type of advertising. For more information about third party cookies, including information about how to opt out of these technologies, visit <a href="http://www.networkadvertising.org/managing/opt_out.asp" target="_blank">http://www.networkadvertising.org/managing/opt_out.asp</a>.</p>
+<p><strong>What information do we share?</strong></p>
 
-<h3>Is Information collected from children?</h3>
+<p>Our privacy policy is simple: Except as disclosed below, we don't sell, trade, give away, or rent your personal information to any company outside of agron, inc and the adidas Group. One of the basic principles we've tried to follow in designing this Website is to limit the information we collect from and share about you. For further information about the companies within the adidas Group, please visit <a href="http://www.adidas-group.com/">http://www.adidas-group.com</a>.</p>
+
+<p><strong>Personal Information</strong></p>
+
+<p>We collect and store information that you provide to our Website or our Customer Service Department or that we receive from third parties (such as companies providing commercially available databases). For example, when you place an order, we collect and store some or all of the following information that you provide: name, billing address, shipping address, email address, telephone number, and credit card number and expiration date adidas Outdoor. We will also collect the following additional information if you choose to provide it when you sign-up for an account: telephone number, gender, personal preferences, social identifier if you choose to log in to your account via social media and age. We collect your e-mail addresses and zip code if you subscribe to our newsletter and we collect your mobile number if you opt in to receive text messages. You may unsubscribe at any time by following the instructions located within each newsletter or linked to each text message. We also collect and store your geolocation information. Registration may be required and personal information collected in certain areas of the Website in which you specifically and knowingly provide such information, e.g., community postings (i.e., chat or bulletin boards), suggestions, or customer service requests. When we run a contest or sweepstakes relating to our Website, it will be accompanied by a set of rules. The rules for each contest/sweepstakes will specify how the information gathered from you for entry will be used and disclosed, if it is different than as described in this Policy. Personal information will be collected only if you voluntarily submit it to our sponsors or us.</p>
+
+<p><strong>Usage Information</strong></p>
+
+<p>Through your use of our Website, we may also gather certain information about your use of our Website ("Usage Information"). Generally, this information is collected through "traffic data." We collect and store certain other information automatically whenever you interact with our Website. For example, we collect your IP address, browser information, and reference site domain name every time you visit our Website. We also collect information regarding customer traffic patterns and site usage. This information is used to analyze and improve our Website, to provide our customers with a fulfilling shopping experience, and to personalize the Website, our communications with you, and your shopping experience.</p>
+
+<p><strong>How does adidasoutdoor.com use cookies, advertising, and online tracking?</strong></p>
+
+<p>Like many websites, we use "cookies," files stored on your computer's hard drive by your browser to identify account holders and to optimize their shopping experience. Cookies also allow us to hold selections in a shopping cart when a user leaves this Website without checking out and send you reminder e-mail about your shopping orders and other shopping opportunities. Most browsers accept cookies automatically but allow you to disable them. We recommend that you leave cookies "turned on" so that we can offer you better shopping experience. You may occasionally get cookies from companies advertising on our behalf to tailor advertisements shown to you for goods and services. We do not control these cookies, and these cookies are not subject to our Website. Our systems do not recognize browser “Do Not Track” signals, but several of our service providers who utilize these cookies and other tracking technologies on our Website enable you to opt out of this type of advertising. For more information about third party cookies, including information about how to opt out of these technologies, visit http://www.networkadvertising.org/managing/opt_out.asp or <a href="http://www.aboutads.info/choices/">www.aboutads.info/choices/</a>.</p>
+
+<p>We use Google Analytics and Google AdWords on the Website to collect Usage Information, to analyze how users use the Website and to provide advertisements to you on other websites.&nbsp; For more information about how to opt out of having your information used by Google Analytics, visit <a href="https://tools.google.com/dlpage/gaoptout/">https://tools.google.com/dlpage/gaoptout/</a>.&nbsp; You can learn more about advertising and online tracking and how to opt out of such practices in the paragraph above.</p>
+
+<p><strong>Interest Based Advertising</strong></p>
+
+<p>We also use third party companies, including Google Analytics and Google Adwords, to measure and target ads on our behalf about products and services tailored to your interests. We allow these third-party companies to use cookies, web beacons, pixel tags and similar technologies to collect or receive information about your interaction with us on our Website and elsewhere on the internet (“Tracking Data”) and use such Tracking Data to display ads for adidas Outdoor and other companies when you visit this or other websites. These third-party companies may not recognize browser “Do Not Track” signals. If you would like to opt out of the collection and use of Tracking Data for ad targeting, please visit www.aboutads.info/choices/.&nbsp;&nbsp; For more information about how to opt out of having your information used by Google Analytics, visit https://tools.google.com/dlpage/gaoptout/.</p>
+
+<p><strong>Is Information collected from children?</strong></p>
+
 <p>We do not knowingly collect or solicit personal information from children under 13.</p>
 
-<h3>How does adidasoutdoor.com use your personal information?</h3>
-<p>We may use your personal information to provide the products and services that you have ordered or requested, to process and ship orders, and to provide customer service. Your information also may be used to contact you about sales, new products, special offers, and new site features, unless you have opted to not receive promotional communications. The information we collect may be combined with information obtained from companies within the adidas Group and from other companies. Aggregating data allows adidas to update and correct the information contained in our database and to provide you with product recommendations and special offers.</p>
+<p><strong>How does adidasoutdoor.com use your personal information?</strong></p>
 
-<h3>How does adidasoutdoor.com share your personal Information?</h3>
-<p>Except as described in this Policy, we will not disclose your personal information outside of adidas and the adidas Group without your consent. For further information about the companies within the adidas Group, please visit http://www.adidas-group.com. adidas Partners - Some adidas Websites allow you to choose to share your personal information with select adidas partners so that they can contact you about their products, services or offers. Other sites do not share your contact information with third parties, but give you a choice as to whether you wish to receive communications from adidas on behalf of a business partners about its specific offer (without transferring your personal information to the third party). Co-Branded Sites - Some adidas services are co-branded by adidas and another company, with the privacy policy of both adidas and the other company displayed at the website. The information you provide, such as on registration forms, is collected by both adidas and the other company. Third-party Service Providers - We may hire other companies to provide services on our behalf, such as marketing, analytics, credit card processing, shipping, stocking orders, providing customer service, and fraud protection.&lt; These service providers have access only to such personal information needed to perform their functions and are contractually obligated to maintain the confidentiality and security of your information. They are restricted from using, selling, distributing or altering this data in any way other than to provide the requested services. Legal and Safety Disclosures - We may access or disclose information about you, including the content of your communications, in order to: (a) comply with the law or respond to lawful requests or legal process; (b) protect the rights or property of adidas or our customers, including the enforcement of our agreements or policies governing your use of our Websites and services; or (c) act on a good faith belief that such access or disclosure is necessary to protect the personal safety of adidas employees, customers or the public. Corporate Transactions - We may disclose personal information as part of a corporate transaction such as a merger or sale of assets.</p>
+<p>We may use your personal information to provide the products and services that you have ordered or requested, to process and ship orders, to provide customer service, to provide other services to you, and to personalize the Website, our communications with you, and your shopping experience. For example, when you create an adidas Outdoor account, you can use your account details to log in from any location and on any device. The global single sign-on for your account will allow adidas Outdoor systems to identify you wherever you are, so you will not need to register with us again if you sign in from a different country. Your information also may be used to contact you about sales, new products, new site features, special offers, and personalized offers based on your location, unless you have opted not to receive promotional communications. The information we collect may be combined with information obtained from companies within the adidas Group and other companies. We may also combine this information with other information we collect as you interact with our brand across apps, social media and marketing messages we send you. Aggregating data allows adidas Outdoor to update and correct the information contained in our database and to provide you with product recommendations and special offers.</p>
 
-<h3>How does adidasoudoor.com use anonymous information?</h3>
-<p>We use Anonymous Information to help us determine how people use parts of the Website and who our readers are. This allows us to improve our Website and ensure that it is as appealing as we can make it for as many people as possible. We also use Anonymous Information to provide statistical "ratings" information in aggregated form to our partners and other third parties about how our users collectively use the Website.</p>
+<p><strong>Third-party Service Providers</strong></p>
 
-<h3>What steps are taken to help secure personal information?</h3>
-<p>An athlete can't play without confidence, and you shouldn't order from a company that doesn't follow secure data practices. Our goal is to deliver performance to you in every way. That includes security. Personal information collected at our Website is stored in secure operating environments that are not available to the public. Only those employees and service providers who need access to personal information in order to do their jobs are allowed access, each having confidentiality obligations. To protect the security of your information during transmission, we use Secure Sockets Layer (SSL) software, which encrypts information you input. For example, when using a credit card to make an on-line purchase, your personal information is encrypted before you conduct your transaction. Most browsers will give a visual indication of when your connection is secure. For example, Internet Explorer will show a padlock icon in the lower right of the browser window. If you place an order through our Website, you will be asked to set up an account and provide an e-mail address and password. In order to help protect your personal information, you should be careful about providing your password to others. If you wish to cancel your account, or if you become aware of any loss, theft or unauthorized use of your password, please contact Customer Service. Please refer to the last section of this Policy (How to Contact Us) for more information. While we try our best to safeguard your personal information once we receive it, no transmission of data over the Internet or any other public network can be guaranteed to be 100% secure.</p>
+<p>We may hire other companies to provide services on our behalf, such as marketing, analytics, credit card processing, shipping, stocking orders, providing customer service, and fraud protection. These service providers have access only to such personal information needed to perform their functions and are contractually obligated to maintain the confidentiality and security of your information. They are restricted from using, selling, distributing or altering this data in any way other than to provide the requested services. For example, we will share some of your account details (such as your name, email address, password and date of birth) with our cloud service providers for identification and authentication, so you can quickly and efficiently sign-on to your adidas Outdoor account from anywhere in the world.</p>
 
-<h3>What happens when I link to or from another website?</h3>
-<p>Our Website may contain links to other websites. Our Policy does not apply to the practices of other websites and adidasoutodoor is not responsible for the actions and privacy policies of third parties. We encourage you to be aware of when you leave our Website and to read the privacy policies of each website that you visit.</p>
+<p><strong>Legal and Safety Disclosures</strong></p>
 
-<h3>Can adidasoutdoor.com use information I share in public areas, chat rooms and newsgroups?</h3>
+<p>We may access or disclose information about you, including the content of your communications, in order to: (a) comply with the law or respond to lawful requests or legal process; (b) protect the rights or property of adidas Outdoor or our customers, including the enforcement of our agreements or policies governing your use of our Websites and services; or (c) act on a good faith belief that such access or disclosure is necessary to protect the personal safety of adidas Outdoor employees, customers or the public.</p>
+
+<p><strong>Corporate Transactions</strong></p>
+
+<p>We may disclose personal information as part of a corporate transaction such as a merger or sale of assets.</p>
+
+<p><strong>How does adidasoutdoor.com use usage information?</strong></p>
+
+<p>We use Usage Information to help us determine how people use parts of the Website and who our readers are. This allows us to improve our Website and ensure that it is as appealing as we can make it for as many people as possible. We also use Usage Information to provide statistical "ratings" information in aggregated form to our partners and other third parties about how our users collectively use the Website.&nbsp; We may combine Usage Information about you with other information, including Personal Information, about you to personalize the Website and our communications with you and to provide you with information likely to be of interest to you.</p>
+
+<p><strong>What steps are taken to help secure personal information?</strong></p>
+
+<p>An athlete can't play without confidence, and you shouldn't order from a company that doesn't follow secure data practices. Our goal is to deliver performance to you in every way. That includes security. Personal information collected at our Website is stored in secure operating environments that are not available to the public. Only those employees and service providers who need access to personal information to do their jobs are allowed access, each having confidentiality obligations. To protect the security of your information during transmission, we use Secure Sockets Layer (SSL) software, which encrypts information you input. For example, when using a credit card to make an on-line purchase, your personal information is encrypted before you conduct your transaction. Most browsers will give a visual indication of when your connection is secure. For example, Internet Explorer will show a padlock icon in the lower right of the browser window. If you place an order through our Website, you will be asked to set up an account and provide an e-mail address and password. To help protect your personal information, you should be careful about providing your password to others. If you wish to cancel your account, or if you become aware of any loss, theft or unauthorized use of your password, please contact Customer Service. Please refer to the last section of this Policy (How to Contact Us) for more information. While we try our best to safeguard your personal information once we receive it, no transmission of data over the Internet or any other public network can be guaranteed to be 100% secure.</p>
+
+<p><strong>What happens when I link to or from another website?</strong></p>
+
+<p>Our Website may contain links to other websites. Our Policy does not apply to the practices of other websites, and adidas Outdoor is not responsible for the actions and privacy policies of third parties. We encourage you to be aware of when you leave our Website and to read the privacy policies of each website that you visit.</p>
+
+<p><strong>Can adidasoutdoor.com use information I share in public areas, chat rooms and newsgroups?</strong></p>
+
 <p>Please remember that any information you share in public areas, such as message boards or feedback sections, becomes public. Our Policy does not apply to any information you choose to make public. Please be careful about what you disclose and do not post any personal information that you expect to keep private.</p>
 
-<h3>How do I opt-out of receiving promotions?</h3>
-<p>We provide you with an opportunity to opt-out of receiving our promotional communications and newsletters at the time we request information from you and by following the "unsubscribe" instructions contained in our promotional communications.</p>
+<p><strong>How do I opt-out of receiving promotions?</strong></p>
 
-<h3>How do I contact you about privacy-related questions?</h3>
-<p>If you have questions or comments about our privacy practices, please contact us by e-mail <a href="{mailto:privacy.policy@adidasoutdoorusa.com}">privacy.policy@adidasoutdoorusa.com</a> or by mail at the following address:<br>
-adidas outdoor<br>
-Attn: Legal Privacy Policy<br>
-2440 S. Sepulveda Blvd. #201<br>
-Los Angeles, CA 90064</p>
+<p>We provide you with several opportunities to opt-out of receiving our promotional communications and newsletters, including when you set up an account; By clicking on "Manage Your Account" on the Website, and by following the "unsubscribe" opt-out instructions contained in our promotional communications.</p>
 
-<p>If you have a question regarding a product or service, please contact Customer Service by e-mail customerservice@adidasoutdoorusa.com. The adidas Group is a global player which is represented in markets all over the world. To find out more about our major locations, see <a href="http://www.adidas-group.com/en/ourgroup/locations/default" target_blank="">http://www.adidas-group.com/en/ourgroup/locations/default</a>.</p>
+<p><strong>How do I contact you about privacy-related questions?</strong></p>
 
-<h3>What is the Secure Shopping Guarantee?</h3>
-<p>We use the industry standard encryption protocol known as Secure Socket Layer (SSL) to keep your order information secure. We've established a Secure Shopping Guarantee for every transaction that you make with www.adidas.com. Should any unauthorized charges appear on your credit card as a result of shopping with www.adidas.com, you must notify your credit card provider in accordance with its reporting rules and procedures. If you have more questions regarding our policy, you can call one of our Customer Service representatives at 1-866.639.7916. Or send us an e-mail at: <a href="{mailto:customerservice@adidasoutdoor.com}">customerservice@adidasoutdoor.com</a>.</p>
+<p>If you have questions or comments about our privacy practices, please contact us by e-mail customerservice@adidasoutdoor.com or by mail at the following address:</p>
 
-<h3>Applicable Law and Jurisdiction</h3>
-<p>California state law governs the interpretation of this Policy and applies to claims for breach of them regardless of conflict of laws principles. Both parties consent to exclusive jurisdiction and venue in courts sitting in Los Angeles, California. Both parties waive all defenses of lack of personal jurisdiction and forum non conveniens.</p>
+<p style="margin-left:.5in;">adidas Outdoor</p>
 
-<h3>Changes to This Online Privacy Policy</h3>
-<p>We will update this Policy as needed to reflect changes in our services and customer feedback. When we post changes to this Policy, we will revise the "last updated" date at the bottom. If there are material changes to this Policy or in how adidas outdoor will use your personal information, we will notify you by prominently posting a notice of such changes prior to implementing the change. We encourage you to periodically review this Policy to remain informed of how adidas outdoor is protecting your information.</p>
+<p style="margin-left:.5in;">Attn: Web Administrator</p>
 
-<p><strong>Last Updated: December 1, 2014</strong></p>
+<p style="margin-left:.5in;">2440 S. Sepulveda Blvd. #201</p>
+
+<p style="margin-left:.5in;">Los Angeles, CA 90064</p>
+
+<p>If you have a question regarding a product or service, please contact Customer Service by e-mail <a href="mailto:customerservice@adidasoutdoor.com">customerservice@adidasoutdoor.com</a>.&nbsp;</p>
+
+<p><strong>What is the Secure Shopping Guarantee?</strong></p>
+
+<p>We use the industry standard encryption protocol known as Secure Socket Layer (SSL) to keep your order information secure. We've established a Secure Shopping Guarantee for every transaction that you make with www.adidasoutdoor.com. Should any unauthorized charges appear on your credit card as a result of shopping with www.adidasoutdoor.com, you must notify your credit card provider by its reporting rules and procedures. If you have more questions regarding our policy, you can call one of our Customer Service representatives at 1-800-982-9337 or e-mail us at <a href="mailto:customerservice@adidasoutdoor.com">customerservice@adidasoutdoor.com</a>.</p>
+
+<p><strong>Applicable Law and Jurisdiction</strong></p>
+
+<p>California state law governs the interpretation of this Policy and applies to claims for breach of them regardless of conflict of laws principles. Both parties consent to exclusive jurisdiction and venue in courts sitting in Portland, Oregon. Both parties waive all defenses of lack of personal jurisdiction and forum non conveniens.</p>
+
+<p><strong>Changes to This Online Privacy Policy</strong></p>
+
+<p>We will update this Policy as needed to reflect changes in our services and customer feedback. When we post changes to this Policy, we will revise the "last updated" date at the bottom. If there are material changes to this Policy or in how adidas Outdoor will use your personal information, we will notify you by prominently posting a notice of such changes before implementing the change. We encourage you to periodically review this Policy to remain informed of how adidas Outdoor is protecting your information.</p>
+
+<p><strong>Last Updated: May 29, 2018</strong></p>
+
+<p>&nbsp;</p>
 </div> <!-- End content-asset -->
 
 
@@ -1769,6 +2082,44 @@ Los Angeles, CA 90064</p>
 
 </div>
 </div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -1823,16 +2174,20 @@ Los Angeles, CA 90064</p>
 <span>Your Bag (0)</span>
 </a>
 </div>
-<div id="email-signup">
+<div class="email-signup">
 <div class="container">
 <div class="label">Join Us &amp; Get A Special Welcome Gift</div>
+<form action="https://www.adidasoutdoor.com/on/demandware.store/Sites-AO-Site/default/ltkSignupEmail-Signup" method="post" id="email-signup-footer" novalidate="novalidate" class="email-signup">
 <div class="input-ctnr">
-<input type="text" placeholder="your email address">
-<a class="button cta-primary-blue button-primary">
+<label for="email-address"><span class="visually-hidden">Enter Your Email</span></label>
+<input type="text" name="email_footer" id="email-address" placeholder="your email address" value="" class="email">
+<input type="hidden" name="ltkSubscriptionCode" value="footersignup">
+<button type="submit" class="button cta-primary-blue button-primary">
 <span>Sign Up</span>
 <i class="icon chevron-thin"></i>
-</a>
+</button>
 </div>
+</form>
 </div>
 </div>
 <div class="footer-container">
@@ -1843,13 +2198,18 @@ Los Angeles, CA 90064</p>
 
 
 
+
+
+
+
+
 <div class="content-asset"><!-- dwMarker="content" dwContentID="ae9d33461da912ca47d74899c6" -->
 <h3>Shop</h3>
 <ul>
-	<li><a class="link-primary link-list" href="http://www.adidasoutdoor.com/men">Men</a></li>
-	<li><a class="link-primary link-list" href="http://www.adidasoutdoor.com/women">Women</a></li>
-	<li><a class="link-primary link-list" href="http://www.adidasoutdoor.com/kids">Kids</a></li>
-	<li><a class="link-primary link-list" href="http://www.adidasoutdoor.com/fiveten">Five Ten</a></li>
+	<li><a class="link-primary link-list" href="https://www.adidasoutdoor.com/men">Men</a></li>
+	<li><a class="link-primary link-list" href="https://www.adidasoutdoor.com/women">Women</a></li>
+	<li><a class="link-primary link-list" href="https://www.adidasoutdoor.com/kids">Kids</a></li>
+	<li><a class="link-primary link-list" href="https://www.adidasoutdoor.com/fiveten">Five Ten</a></li>
 </ul>
 </div> <!-- End content-asset -->
 
@@ -1859,6 +2219,11 @@ Los Angeles, CA 90064</p>
 
 </div>
 <div class="footer-item">
+
+
+
+
+
 
 
 
@@ -1868,10 +2233,10 @@ Los Angeles, CA 90064</p>
 <div class="content-asset"><!-- dwMarker="content" dwContentID="220b5fc7ac859d3d220c89e9a5" -->
 <h3>Sports</h3>
 <ul>
-	<li><a class="link-primary link-list" href="http://www.adidasoutdoor.com/sports-hiking">Hiking</a></li>
-	<li><a class="link-primary link-list" href="http://www.adidasoutdoor.com/sports-trail-running">Trail Running</a></li>
-	<li><a class="link-primary link-list" href="http://www.adidasoutdoor.com/sports-climb">Climbing</a></li>
-	<li><a class="link-primary link-list" href="http://www.adidasoutdoor.com/sports-bike">Bike</a></li>
+	<li><a class="link-primary link-list" href="https://www.adidasoutdoor.com/sports-hiking">Hiking</a></li>
+	<li><a class="link-primary link-list" href="https://www.adidasoutdoor.com/sports-trail-running">Trail Running</a></li>
+	<li><a class="link-primary link-list" href="https://www.adidasoutdoor.com/sports-climb">Climbing</a></li>
+	<li><a class="link-primary link-list" href="https://www.adidasoutdoor.com/sports-bike">Bike</a></li>
 </ul>
 </div> <!-- End content-asset -->
 
@@ -1881,6 +2246,11 @@ Los Angeles, CA 90064</p>
 
 </div>
 <div class="footer-item">
+
+
+
+
+
 
 
 
@@ -1890,8 +2260,8 @@ Los Angeles, CA 90064</p>
 <div class="content-asset"><!-- dwMarker="content" dwContentID="d1f9002c3f8f33f510f4ed4a0b" -->
 <h3>Collections</h3>
 <ul>
-	<li><a class="link-primary link-list" href="http://www.adidasoutdoor.com/terrex-brand">Terrex</a></li>
-	<li><a class="link-primary link-list" href="http://www.adidasoutdoor.com/fiveten-brand">Five Ten</a></li>
+	<li><a class="link-primary link-list" href="https://www.adidasoutdoor.com/terrex-brand">Terrex</a></li>
+	<li><a class="link-primary link-list" href="https://www.adidasoutdoor.com/fiveten-brand">Five Ten</a></li>
 </ul>
 </div> <!-- End content-asset -->
 
@@ -1901,6 +2271,11 @@ Los Angeles, CA 90064</p>
 
 </div>
 <div class="footer-item">
+
+
+
+
+
 
 
 
@@ -1910,12 +2285,12 @@ Los Angeles, CA 90064</p>
 <div class="content-asset"><!-- dwMarker="content" dwContentID="d6879b1797ccd60a34dedb75ee" -->
 <h3>Company Info</h3>
 <ul>
-	<li><a class="link-primary link-list" href="http://www.adidasoutdoor.com/about--company-info.html">Frequently Asked Questions</a></li>
-	<li><a class="link-primary link-list" href="http://www.adidasoutdoor.com/about--affiliates.html">Affiliates</a></li>
-	<li><a class="link-primary link-list" href="http://www.adidasoutdoor.com/about--privacy-policy.html">Privacy Policy</a></li>
-        <li><a class="link-primary link-list" href="http://www.adidasoutdoor.com/about--human-trafficking-policy.html">Human Trafficking Policy</a></li>
-	<li><a class="link-primary link-list" href="http://www.adidasoutdoor.com/on/demandware.store/Sites-AO-Site/default/Life-Adventure">Media</a></li>
-        <li><a class="link-primary link-list" href="http://www.adidasoutdoor.com/on/demandware.store/Sites-AO-Site/default/Life-Athletes">Athletes</a></li>
+	<li><a class="link-primary link-list" href="https://www.adidasoutdoor.com/about--company-info.html">Frequently Asked Questions</a></li>
+	<li><a class="link-primary link-list" href="https://www.adidasoutdoor.com/about--affiliates.html">Affiliates</a></li>
+	<li><a class="link-primary link-list" href="https://www.adidasoutdoor.com/about--privacy-policy.html">Privacy Policy</a></li>
+        <li><a class="link-primary link-list" href="https://www.adidasoutdoor.com/about--human-trafficking-policy.html">Human Trafficking Policy</a></li>
+	<li><a class="link-primary link-list" href="https://www.adidasoutdoor.com/on/demandware.store/Sites-AO-Site/default/Life-Adventure">Media</a></li>
+        <li><a class="link-primary link-list" href="https://www.adidasoutdoor.com/on/demandware.store/Sites-AO-Site/default/Life-Athletes">Athletes</a></li>
 </ul>
 </div> <!-- End content-asset -->
 
@@ -1925,6 +2300,11 @@ Los Angeles, CA 90064</p>
 
 </div>
 <div class="footer-item">
+
+
+
+
+
 
 
 
@@ -1935,9 +2315,9 @@ Los Angeles, CA 90064</p>
 <h3>Support</h3>
 <ul>
 	<li class="nav-trigger"><span>Shop</span><i class="fa fa-bars"></i></li>
-	<li><a class="link-primary link-list" href="http://www.adidasoutdoor.com/service--customer-service.html">Contact Us</a></li>
-	<li><a class="link-primary link-list" href="http://www.adidasoutdoor.com/service--shipping-policy.html">Shipping Policy</a></li>
-	<li><a class="link-primary link-list" href="http://www.adidasoutdoor.com/service--returns-and-exchanges.html">Returns &amp; Refunds</a></li>
+	<li><a class="link-primary link-list" href="https://www.adidasoutdoor.com/service--customer-service.html">Contact Us</a></li>
+	<li><a class="link-primary link-list" href="https://www.adidasoutdoor.com/service--shipping-policy.html">Shipping Policy</a></li>
+	<li><a class="link-primary link-list" href="https://www.adidasoutdoor.com/service--returns-and-exchanges.html">Returns &amp; Refunds</a></li>
 </ul>
 </div> <!-- End content-asset -->
 
@@ -1955,11 +2335,16 @@ Los Angeles, CA 90064</p>
 
 
 
+
+
+
+
+
 <div class="content-asset"><!-- dwMarker="content" dwContentID="c6178e10dcff2cc4100c903b57" -->
 <div>
-	<span><a href="http://www.adidasoutdoor.com/about--privacy-policy.html">Privacy Policy</a></span>
+	<span><a href="https://www.adidasoutdoor.com/about--privacy-policy.html">Privacy Policy</a></span>
 	<span class="delimiter">|</span>
-	<span><a href="http://www.adidasoutdoor.com/about--terms-and-conditions.html">Terms and Conditions</a></span>
+	<span><a href="https://www.adidasoutdoor.com/about--terms-and-conditions.html">Terms and Conditions</a></span>
 </div>
 <div>
 	<span>©2018 adidas outdoor</span>
@@ -1974,11 +2359,13 @@ Los Angeles, CA 90064</p>
 
 
 
+
+
 <!--[if gte IE 9 | !IE]><!-->
-<script src="/on/demandware.static/Sites-AO-Site/-/default/v1522277391639/lib/jquery/jquery-2.1.1.min.js" type="text/javascript"></script>
+<script src="/on/demandware.static/Sites-AO-Site/-/default/v1553722065068/lib/jquery/jquery-2.1.1.min.js" type="text/javascript"></script>
 <!--<![endif]-->
 <!--[if lte IE 8]>
-<script src="/on/demandware.static/Sites-AO-Site/-/default/v1522277391639/lib/jquery/jquery-1.11.1.min.js" type="text/javascript"></script>
+<script src="/on/demandware.static/Sites-AO-Site/-/default/v1553722065068/lib/jquery/jquery-1.11.1.min.js" type="text/javascript"></script>
 <script src="//cdn.rawgit.com/weblinc/media-match/master/media.match.min.js" type="text/javascript"></script>
 <script src="//cdnjs.cloudflare.com/ajax/libs/es5-shim/3.4.0/es5-shim.min.js"></script>
 <![endif]-->
@@ -1986,26 +2373,30 @@ Los Angeles, CA 90064</p>
 <script src="//cdn.rawgit.com/paulirish/matchMedia.js/master/matchMedia.js" type="text/javascript"></script>
 <script src="//cdn.rawgit.com/paulirish/matchMedia.js/master/matchMedia.addListener.js" type="text/javascript"></script>
 <![endif]-->
-<script src="/on/demandware.static/Sites-AO-Site/-/default/v1522277391639/lib/jquery/ui/jquery-ui.min.js" type="text/javascript"></script>
-<script src="/on/demandware.static/Sites-AO-Site/-/default/v1522277391639/lib/jquery/ui-touch-punch/jquery.ui.touch-punch.min.js" type="text/javascript"></script>
+<script src="/on/demandware.static/Sites-AO-Site/-/default/v1553722065068/lib/jquery/ui/jquery-ui.min.js" type="text/javascript"></script>
+<script src="/on/demandware.static/Sites-AO-Site/-/default/v1553722065068/lib/jquery/ui-touch-punch/jquery.ui.touch-punch.min.js" type="text/javascript"></script>
+
+
+
 
 <div class="site-ga-data" style="display: none;">
-{}
+{"currency":"USD"}
 </div>
 
-<script src="/on/demandware.static/Sites-AO-Site/-/default/v1522277391639/js/sfcc-ga.min.js"></script>
+<script src="/on/demandware.static/Sites-AO-Site/-/default/v1553722065068/js/sfcc-ga.min.js"></script>
 
 
-<script src="/on/demandware.static/Sites-AO-Site/-/default/v1522277391639/lib/slick.min.js" type="text/javascript"></script>
-<script src="/on/demandware.static/Sites-AO-Site/-/default/v1522277391639/lib/jquery/jquery.validate.min.js" type="text/javascript"></script>
-<script src="/on/demandware.static/Sites-AO-Site/-/default/v1522277391639/lib/jquery/jquery.zoom.min.js"></script>
-<script src="/on/demandware.static/Sites-AO-Site/-/default/v1522277391639/lib/jquery/selectric/jquery.selectric.min.js"></script>
+
+<script src="/on/demandware.static/Sites-AO-Site/-/default/v1553722065068/lib/slick.min.js" type="text/javascript"></script>
+<script src="/on/demandware.static/Sites-AO-Site/-/default/v1553722065068/lib/jquery/jquery.validate.min.js" type="text/javascript"></script>
+<script src="/on/demandware.static/Sites-AO-Site/-/default/v1553722065068/lib/jquery/jquery.zoom.min.js"></script>
+<script src="/on/demandware.static/Sites-AO-Site/-/default/v1553722065068/lib/jquery/selectric/jquery.selectric.min.js"></script>
 <script type="text/javascript">
 
 (function(){
 window.Constants = {"AVAIL_STATUS_IN_STOCK":"IN_STOCK","AVAIL_STATUS_PREORDER":"PREORDER","AVAIL_STATUS_BACKORDER":"BACKORDER","AVAIL_STATUS_NOT_AVAILABLE":"NOT_AVAILABLE"};
-window.Resources = {"I_AGREE":"I Agree","CLOSE":"Close","NO_THANKS":"No, thanks","OK":"OK","ARE_YOU_HUMAN":"Are you a Human Being?","SHIP_QualifiesFor":"This shipment qualifies for","CC_LOAD_ERROR":"Couldn't load credit card!","COULD_NOT_SAVE_ADDRESS":"Could not save address. Please check your entries and try again.","REG_ADDR_ERROR":"Could Not Load Address","ADDED_TO_BAG":"Successfully added to bag","CONTINUE_SHOPPING":"Continue Shopping","BONUS_PRODUCT":"Bonus Product","BONUS_PRODUCTS":"Bonus Products","SELECT_BONUS_PRODUCTS":"Select Bonus Products","SELECT_BONUS_PRODUCT":"product.selectbonusproduct","BONUS_PRODUCT_MAX":"The maximum number of bonus products has been selected. Please remove one in order to add additional bonus products.","BONUS_PRODUCT_TOOMANY":"You have selected too many bonus products. Please change the quantity.","SIMPLE_SEARCH":"search","SUBSCRIBE_EMAIL_DEFAULT":"Email Address","CURRENCY_SYMBOL":"$","MISSINGVAL":"Please enter {0}","SERVER_ERROR":"Server connection failed!","MISSING_LIB":"jQuery is undefined.","BAD_RESPONSE":"Bad response - parser error!","INVALID_PHONE":"Please specify a valid phone number.","REMOVE":"Remove","QTY":"Qty","EMPTY_IMG_ALT":"Remove","COMPARE_BUTTON_LABEL":"Compare Items","COMPARE_CONFIRMATION":"This will remove the first product added for comparison. Is that OK?","COMPARE_REMOVE_FAIL":"Unable to remove item from list","COMPARE_ADD_FAIL":"Unable to add item to list","ADD_TO_CART_FAIL":"Unable to add item '{0}' to cart","REGISTRY_SEARCH_ADVANCED_CLOSE":"Close Advanced Search","GIFT_CERT_INVALID":"Invalid gift certificate code.","GIFT_CERT_BALANCE":"Your current gift certificate balance is","GIFT_CERT_AMOUNT_INVALID":"Gift Certificate can only be purchased with a minimum of 5 and maximum of 5000","GIFT_CERT_MISSING":"Please enter a gift certificate code.","INVALID_OWNER":"This appears to be a credit card number. Please enter the name of the card holder.","COUPON_CODE_MISSING":"Please enter a Promo code.","COOKIES_DISABLED":"Your browser is currently not set to accept cookies. Please turn this functionality on or check if you have another program set to block cookies.","BML_AGREE_TO_TERMS":"You must agree to the terms and conditions","CHAR_LIMIT_MSG":"You have {0} characters left out of {1}","CONFIRM_DELETE":"Do you want to remove this {0}?","TITLE_GIFTREGISTRY":"gift registry","TITLE_ADDRESS":"address","TITLE_CREDITCARD":"credit card","SERVER_CONNECTION_ERROR":"Server connection failed!","IN_STOCK_DATE":"The expected in-stock date is {0}.","ITEM_STATUS_NOTAVAILABLE":"This item is currently not available.","INIFINITESCROLL":"Show All","STORE_NEAR_YOU":"What's available at a store near you","SELECT_STORE":"Select Store","SELECTED_STORE":"Selected Store","PREFERRED_STORE":"Preferred Store","SET_PREFERRED_STORE":"Set Preferred Store","ENTER_ZIP":"Enter ZIP Code","INVALID_ZIP":"Please enter a valid ZIP Code","SEARCH":"Search","CHANGE_LOCATION":"Change Location","CONTINUE_WITH_STORE":"Continue with preferred store","CONTINUE":"Continue","SEE_MORE":"See More Stores","SEE_LESS":"See Fewer Stores","QUICK_VIEW":"Quick View","QUICK_VIEW_POPUP":"Product Quick View","TLS_WARNING":"We value your security!<br/>We detected that you are using an outdated browser.<br/>Update you browser to continue a secure shopping experience.","VALIDATE_REQUIRED":"This field is required.","VALIDATE_REMOTE":"Please fix this field.","VALIDATE_EMAIL":"Please enter a valid email address.","VALIDATE_URL":"Please enter a valid URL.","VALIDATE_DATE":"Please enter a valid date.","VALIDATE_DATEISO":"Please enter a valid date ( ISO ).","VALIDATE_NUMBER":"Please enter a valid number.","VALIDATE_DIGITS":"Please enter only digits.","VALIDATE_CREDITCARD":"Please enter a valid credit card number.","VALIDATE_EQUALTO":"Please enter the same value again.","VALIDATE_MAXLENGTH":"Please enter no more than {0} characters.","VALIDATE_MINLENGTH":"Please enter at least {0} characters.","VALIDATE_RANGELENGTH":"Please enter a value between {0} and {1} characters long.","VALIDATE_RANGE":"Please enter a value between {0} and {1}.","VALIDATE_MAX":"Please enter a value less than or equal to {0}.","VALIDATE_MIN":"Please enter a value greater than or equal to {0}.","IN_STOCK":"In Stock","QTY_IN_STOCK":"{0} Item(s) in Stock","PREORDER":"Pre-Order","QTY_PREORDER":"{0} item(s) are available for pre-order.","REMAIN_PREORDER":"The remaining items are available for pre-order.","BACKORDER":"Back Order","QTY_BACKORDER":"Back order {0} item(s)","REMAIN_BACKORDER":"The remaining items are available on back order.","NOT_AVAILABLE":"This item is currently not available.","REMAIN_NOT_AVAILABLE":"The remaining items are currently not available. Please adjust the quantity."};
-window.Urls = {"appResources":"/on/demandware.store/Sites-AO-Site/default/Resources-Load","pageInclude":"/on/demandware.store/Sites-AO-Site/default/Page-Include","continueUrl":"http://www.adidasoutdoor.com/on/demandware.store/Sites-AO-Site/default/Page-Show","staticPath":"/on/demandware.static/Sites-AO-Site/-/default/v1522277391639/","addGiftCert":"/on/demandware.store/Sites-AO-Site/default/GiftCert-Purchase","minicartGC":"/on/demandware.store/Sites-AO-Site/default/GiftCert-ShowMiniCart","addProduct":"/on/demandware.store/Sites-AO-Site/default/Cart-AddProduct","minicart":"/on/demandware.store/Sites-AO-Site/default/Cart-MiniAddProduct","cartShow":"/cart","giftRegAdd":"https://www.adidasoutdoor.com/on/demandware.store/Sites-AO-Site/default/Address-GetAddressDetails?addressID=","paymentsList":"https://www.adidasoutdoor.com/on/demandware.store/Sites-AO-Site/default/PaymentInstruments-List","addressesList":"https://www.adidasoutdoor.com/on/demandware.store/Sites-AO-Site/default/Address-List","wishlistAddress":"https://www.adidasoutdoor.com/on/demandware.store/Sites-AO-Site/default/Wishlist-SetShippingAddress","deleteAddress":"/on/demandware.store/Sites-AO-Site/default/Address-Delete","getProductUrl":"/on/demandware.store/Sites-AO-Site/default/Product-Show","getBonusProducts":"/on/demandware.store/Sites-AO-Site/default/Product-GetBonusProducts","addBonusProduct":"/on/demandware.store/Sites-AO-Site/default/Cart-AddBonusProduct","getSetItem":"/on/demandware.store/Sites-AO-Site/default/Product-GetSetItem","productDetail":"/on/demandware.store/Sites-AO-Site/default/Product-Detail","getAvailability":"/on/demandware.store/Sites-AO-Site/default/Product-GetAvailability","removeImg":"/on/demandware.static/Sites-AO-Site/-/default/dwc8e53f09/images/icon_remove.gif","searchsuggest":"/on/demandware.store/Sites-AO-Site/default/Search-GetSuggestions","productNav":"/on/demandware.store/Sites-AO-Site/default/Product-Productnav","summaryRefreshURL":"/on/demandware.store/Sites-AO-Site/default/COBilling-UpdateSummary","billingSelectCC":"https://www.adidasoutdoor.com/on/demandware.store/Sites-AO-Site/default/COBilling-SelectCreditCard","updateAddressDetails":"https://www.adidasoutdoor.com/on/demandware.store/Sites-AO-Site/default/COShipping-UpdateAddressDetails","updateAddressDetailsBilling":"https://www.adidasoutdoor.com/on/demandware.store/Sites-AO-Site/default/COBilling-UpdateAddressDetails","shippingMethodsJSON":"https://www.adidasoutdoor.com/on/demandware.store/Sites-AO-Site/default/COShipping-GetApplicableShippingMethodsJSON","shippingMethodsList":"https://www.adidasoutdoor.com/on/demandware.store/Sites-AO-Site/default/COShipping-UpdateShippingMethodList","selectShippingMethodsList":"https://www.adidasoutdoor.com/on/demandware.store/Sites-AO-Site/default/COShipping-SelectShippingMethod","resetPaymentForms":"/on/demandware.store/Sites-AO-Site/default/COBilling-ResetPaymentForms","compareShow":"/on/demandware.store/Sites-AO-Site/default/Compare-Show","compareAdd":"/on/demandware.store/Sites-AO-Site/default/Compare-AddProduct","compareRemove":"/on/demandware.store/Sites-AO-Site/default/Compare-RemoveProduct","compareEmptyImage":"/on/demandware.static/Sites-AO-Site/-/default/dw4f8f8347/images/comparewidgetempty.png","giftCardCheckBalance":"https://www.adidasoutdoor.com/on/demandware.store/Sites-AO-Site/default/COBilling-GetGiftCertificateBalance","redeemGiftCert":"https://www.adidasoutdoor.com/on/demandware.store/Sites-AO-Site/default/COBilling-RedeemGiftCertificateJson","addCoupon":"https://www.adidasoutdoor.com/on/demandware.store/Sites-AO-Site/default/Cart-AddCouponJson","storesInventory":"/on/demandware.store/Sites-AO-Site/default/StoreInventory-Inventory","setPreferredStore":"/on/demandware.store/Sites-AO-Site/default/StoreInventory-SetPreferredStore","getPreferredStore":"/on/demandware.store/Sites-AO-Site/default/StoreInventory-GetPreferredStore","setStorePickup":"/on/demandware.store/Sites-AO-Site/default/StoreInventory-SetStore","setZipCode":"/on/demandware.store/Sites-AO-Site/default/StoreInventory-SetZipCode","getZipCode":"/on/demandware.store/Sites-AO-Site/default/StoreInventory-GetZipCode","billing":"/on/demandware.store/Sites-AO-Site/default/COBilling-Start","setSessionCurrency":"/on/demandware.store/Sites-AO-Site/default/Currency-SetSessionCurrency","addEditAddress":"/on/demandware.store/Sites-AO-Site/default/COShippingMultiple-AddEditAddressJSON","cookieHint":"/cookie_hint.html","rateLimiterReset":"/on/demandware.store/Sites-AO-Site/default/RateLimiter-HideCaptcha","csrffailed":"/on/demandware.store/Sites-AO-Site/default/CSRF-Failed","requestPasswordReset":"/on/demandware.store/Sites-AO-Site/default/Account-PasswordResetDialog?format=ajax","analyticsLogger":"/on/demandware.store/Sites-AO-Site/default/AnalyticsLogger-Log"};
+window.Resources = {"I_AGREE":"I Agree","CLOSE":"Close","NO_THANKS":"No, thanks","OK":"OK","ARE_YOU_HUMAN":"Are you a Human Being?","SHIP_QualifiesFor":"This shipment qualifies for","CC_LOAD_ERROR":"Couldn't load credit card!","COULD_NOT_SAVE_ADDRESS":"Could not save address. Please check your entries and try again.","REG_ADDR_ERROR":"Could Not Load Address","ADDED_TO_BAG":"Successfully added to bag","CONTINUE_SHOPPING":"Continue Shopping","BONUS_PRODUCT":"Bonus Product","BONUS_PRODUCTS":"Bonus Products","SELECT_BONUS_PRODUCTS":"Select Bonus Products","SELECT_BONUS_PRODUCT":"product.selectbonusproduct","BONUS_PRODUCT_MAX":"The maximum number of bonus products has been selected. Please remove one in order to add additional bonus products.","BONUS_PRODUCT_TOOMANY":"You have selected too many bonus products. Please change the quantity.","SIMPLE_SEARCH":"search","SUBSCRIBE_EMAIL_DEFAULT":"Email Address","CURRENCY_SYMBOL":"$","MISSINGVAL":"Please enter {0}","SERVER_ERROR":"Server connection failed!","MISSING_LIB":"jQuery is undefined.","BAD_RESPONSE":"Bad response - parser error!","INVALID_PHONE":"Please specify a valid phone number.","INVALID_EMAIL":"The email address is invalid.","REMOVE":"Remove","QTY":"Qty","EMPTY_IMG_ALT":"Remove","COMPARE_BUTTON_LABEL":"Compare Items","COMPARE_CONFIRMATION":"This will remove the first product added for comparison. Is that OK?","COMPARE_REMOVE_FAIL":"Unable to remove item from list","COMPARE_ADD_FAIL":"Unable to add item to list","ADD_TO_CART_FAIL":"Unable to add item '{0}' to cart","REGISTRY_SEARCH_ADVANCED_CLOSE":"Close Advanced Search","GIFT_CERT_INVALID":"Invalid gift certificate code.","GIFT_CERT_BALANCE":"Your current gift certificate balance is","GIFT_CERT_AMOUNT_INVALID":"Gift Certificate can only be purchased with a minimum of 5 and maximum of 5000","GIFT_CERT_MISSING":"Please enter a gift certificate code.","INVALID_OWNER":"This appears to be a credit card number. Please enter the name of the card holder.","COUPON_CODE_MISSING":"Please enter a Promo code.","COOKIES_DISABLED":"Your browser is currently not set to accept cookies. Please turn this functionality on or check if you have another program set to block cookies.","BML_AGREE_TO_TERMS":"You must agree to the terms and conditions","CHAR_LIMIT_MSG":"You have {0} characters left out of {1}","CONFIRM_DELETE":"Do you want to remove this {0}?","TITLE_GIFTREGISTRY":"gift registry","TITLE_ADDRESS":"address","TITLE_CREDITCARD":"credit card","SERVER_CONNECTION_ERROR":"Server connection failed!","IN_STOCK_DATE":"The expected in-stock date is {0}.","ITEM_STATUS_NOTAVAILABLE":"This item is currently not available.","INIFINITESCROLL":"Show All","STORE_NEAR_YOU":"What's available at a store near you","SELECT_STORE":"Select Store","SELECTED_STORE":"Selected Store","PREFERRED_STORE":"Preferred Store","SET_PREFERRED_STORE":"Set Preferred Store","ENTER_ZIP":"Enter ZIP Code","INVALID_ZIP":"Please enter a valid ZIP Code","SEARCH":"Search","CHANGE_LOCATION":"Change Location","CONTINUE_WITH_STORE":"Continue with preferred store","CONTINUE":"Continue","SEE_MORE":"See More Stores","SEE_LESS":"See Fewer Stores","QUICK_VIEW":"Quick View","QUICK_VIEW_POPUP":"Product Quick View","TLS_WARNING":"We value your security!<br/>We detected that you are using an outdated browser.<br/>Update you browser to continue a secure shopping experience.","VALIDATE_REQUIRED":"This field is required.","VALIDATE_REMOTE":"Please fix this field.","VALIDATE_EMAIL":"Please enter a valid email address.","VALIDATE_URL":"Please enter a valid URL.","VALIDATE_DATE":"Please enter a valid date.","VALIDATE_DATEISO":"Please enter a valid date ( ISO ).","VALIDATE_NUMBER":"Please enter a valid number.","VALIDATE_DIGITS":"Please enter only digits.","VALIDATE_CREDITCARD":"Please enter a valid credit card number.","VALIDATE_EQUALTO":"Please enter the same value again.","VALIDATE_MAXLENGTH":"Please enter no more than {0} characters.","VALIDATE_MINLENGTH":"Please enter at least {0} characters.","VALIDATE_RANGELENGTH":"Please enter a value between {0} and {1} characters long.","VALIDATE_RANGE":"Please enter a value between {0} and {1}.","VALIDATE_MAX":"Please enter a value less than or equal to {0}.","VALIDATE_MIN":"Please enter a value greater than or equal to {0}.","IN_STOCK":"In Stock","QTY_IN_STOCK":"{0} Item(s) in Stock","PREORDER":"Pre-Order","QTY_PREORDER":"{0} item(s) are available for pre-order.","REMAIN_PREORDER":"The remaining items are available for pre-order.","BACKORDER":"Back Order","QTY_BACKORDER":"Back order {0} item(s)","REMAIN_BACKORDER":"The remaining items are available on back order.","NOT_AVAILABLE":"This item is currently not available.","REMAIN_NOT_AVAILABLE":"The remaining items are currently not available. Please adjust the quantity."};
+window.Urls = {"appResources":"/on/demandware.store/Sites-AO-Site/default/Resources-Load","pageInclude":"/on/demandware.store/Sites-AO-Site/default/Page-Include","continueUrl":"https://www.adidasoutdoor.com/on/demandware.store/Sites-AO-Site/default/Page-Show","staticPath":"/on/demandware.static/Sites-AO-Site/-/default/v1553722065068/","addGiftCert":"/on/demandware.store/Sites-AO-Site/default/GiftCert-Purchase","minicartGC":"/on/demandware.store/Sites-AO-Site/default/GiftCert-ShowMiniCart","addProduct":"/on/demandware.store/Sites-AO-Site/default/Cart-AddProduct","minicart":"/on/demandware.store/Sites-AO-Site/default/Cart-MiniAddProduct","cartShow":"/cart","giftRegAdd":"https://www.adidasoutdoor.com/on/demandware.store/Sites-AO-Site/default/Address-GetAddressDetails?addressID=","paymentsList":"https://www.adidasoutdoor.com/on/demandware.store/Sites-AO-Site/default/PaymentInstruments-List","addressesList":"https://www.adidasoutdoor.com/on/demandware.store/Sites-AO-Site/default/Address-List","wishlistAddress":"https://www.adidasoutdoor.com/on/demandware.store/Sites-AO-Site/default/Wishlist-SetShippingAddress","deleteAddress":"/on/demandware.store/Sites-AO-Site/default/Address-Delete","getProductUrl":"/on/demandware.store/Sites-AO-Site/default/Product-Show","getBonusProducts":"/on/demandware.store/Sites-AO-Site/default/Product-GetBonusProducts","addBonusProduct":"/on/demandware.store/Sites-AO-Site/default/Cart-AddBonusProduct","getSetItem":"/on/demandware.store/Sites-AO-Site/default/Product-GetSetItem","productDetail":"/on/demandware.store/Sites-AO-Site/default/Product-Detail","getAvailability":"/on/demandware.store/Sites-AO-Site/default/Product-GetAvailability","removeImg":"/on/demandware.static/Sites-AO-Site/-/default/dwc8e53f09/images/icon_remove.gif","searchsuggest":"/on/demandware.store/Sites-AO-Site/default/Search-GetSuggestions","productNav":"/on/demandware.store/Sites-AO-Site/default/Product-Productnav","summaryRefreshURL":"/on/demandware.store/Sites-AO-Site/default/COBilling-UpdateSummary","billingSelectCC":"https://www.adidasoutdoor.com/on/demandware.store/Sites-AO-Site/default/COBilling-SelectCreditCard","updateAddressDetails":"https://www.adidasoutdoor.com/on/demandware.store/Sites-AO-Site/default/COShipping-UpdateAddressDetails","updateAddressDetailsBilling":"https://www.adidasoutdoor.com/on/demandware.store/Sites-AO-Site/default/COBilling-UpdateAddressDetails","shippingMethodsJSON":"https://www.adidasoutdoor.com/on/demandware.store/Sites-AO-Site/default/COShipping-GetApplicableShippingMethodsJSON","shippingMethodsList":"https://www.adidasoutdoor.com/on/demandware.store/Sites-AO-Site/default/COShipping-UpdateShippingMethodList","selectShippingMethodsList":"https://www.adidasoutdoor.com/on/demandware.store/Sites-AO-Site/default/COShipping-SelectShippingMethod","resetPaymentForms":"/on/demandware.store/Sites-AO-Site/default/COBilling-ResetPaymentForms","compareShow":"/on/demandware.store/Sites-AO-Site/default/Compare-Show","compareAdd":"/on/demandware.store/Sites-AO-Site/default/Compare-AddProduct","compareRemove":"/on/demandware.store/Sites-AO-Site/default/Compare-RemoveProduct","compareEmptyImage":"/on/demandware.static/Sites-AO-Site/-/default/dw4f8f8347/images/comparewidgetempty.png","giftCardCheckBalance":"https://www.adidasoutdoor.com/on/demandware.store/Sites-AO-Site/default/COBilling-GetGiftCertificateBalance","redeemGiftCert":"https://www.adidasoutdoor.com/on/demandware.store/Sites-AO-Site/default/COBilling-RedeemGiftCertificateJson","addCoupon":"https://www.adidasoutdoor.com/on/demandware.store/Sites-AO-Site/default/Cart-AddCouponJson","storesInventory":"/on/demandware.store/Sites-AO-Site/default/StoreInventory-Inventory","setPreferredStore":"/on/demandware.store/Sites-AO-Site/default/StoreInventory-SetPreferredStore","getPreferredStore":"/on/demandware.store/Sites-AO-Site/default/StoreInventory-GetPreferredStore","setStorePickup":"/on/demandware.store/Sites-AO-Site/default/StoreInventory-SetStore","setZipCode":"/on/demandware.store/Sites-AO-Site/default/StoreInventory-SetZipCode","getZipCode":"/on/demandware.store/Sites-AO-Site/default/StoreInventory-GetZipCode","billing":"/on/demandware.store/Sites-AO-Site/default/COBilling-Start","setSessionCurrency":"/on/demandware.store/Sites-AO-Site/default/Currency-SetSessionCurrency","addEditAddress":"/on/demandware.store/Sites-AO-Site/default/COShippingMultiple-AddEditAddressJSON","cookieHint":"/cookie_hint.html","rateLimiterReset":"/on/demandware.store/Sites-AO-Site/default/RateLimiter-HideCaptcha","csrffailed":"/on/demandware.store/Sites-AO-Site/default/CSRF-Failed","requestPasswordReset":"/on/demandware.store/Sites-AO-Site/default/Account-PasswordResetDialog?format=ajax","analyticsLogger":"/on/demandware.store/Sites-AO-Site/default/AnalyticsLogger-Log"};
 window.SitePreferences = {"LISTING_INFINITE_SCROLL":true,"LISTING_REFINE_SORT":true,"STORE_PICKUP":false,"COOKIE_HINT":false,"CHECK_TLS":null};
 }());
 </script>
@@ -2016,7 +2407,7 @@ window.SessionAttributes = {"SHOW_CAPTCHA":null};
 window.User = {"zip":null,"storeId":null};
 }());
 </script>
-<script src="/on/demandware.static/Sites-AO-Site/-/default/v1522277391639/js/app.js"></script>
+<script src="/on/demandware.static/Sites-AO-Site/-/default/v1553722065068/js/app.js"></script>
 
 
 
@@ -2165,13 +2556,14 @@ var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(av
 
 
 
+
 </div><script src="https://cdn.listrakbi.com/scripts/script.js?m=lUyTqhNcSHhP&amp;v=1"></script>
 <!-- Demandware Analytics code 1.0 (body_end-analytics-tracking-asynch.js) -->
 <script type="text/javascript">//<!--
 /* <![CDATA[ */
 function trackPage() {
     try{
-        var trackingUrl = "http://www.adidasoutdoor.com/on/demandware.store/Sites-AO-Site/default/__Analytics-Start";
+        var trackingUrl = "https://www.adidasoutdoor.com/on/demandware.store/Sites-AO-Site/default/__Analytics-Start";
         var dwAnalytics = dw.__dwAnalytics.getTracker(trackingUrl);
         if (typeof dw.ac == "undefined") {
             dwAnalytics.trackPageView();
@@ -2183,9 +2575,9 @@ function trackPage() {
 /* ]]> */
 // -->
 </script>
-<script type="text/javascript" src="/on/demandware.static/Sites-AO-Site/-/default/v1522277391639/internal/jscript/dwanalytics-18.3.js" async="async" onload="trackPage()"></script>
+<script type="text/javascript" src="/on/demandware.static/Sites-AO-Site/-/default/v1553722065068/internal/jscript/dwanalytics-18.3.js" async="async" onload="trackPage()"></script>
 <!-- Demandware Active Data (body_end-active_data.js) -->
-<script src="/on/demandware.static/Sites-AO-Site/-/default/v1522277391639/internal/jscript/dwac-16.9.js" type="text/javascript" async="async"></script><!-- CQuotient Activity Tracking (body_end-cquotient.js) -->
+<script src="/on/demandware.static/Sites-AO-Site/-/default/v1553722065068/internal/jscript/dwac-18.10.4.js" type="text/javascript" async="async"></script><!-- CQuotient Activity Tracking (body_end-cquotient.js) -->
 <script src="https://cdn.cquotient.com/js/v2/gretel.min.js" type="text/javascript" async="async"></script>
 
 
