@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the appdynamics.com privacy policy that was archived on 2018-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181230090103id_/https%3A//www.appdynamics.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the appdynamics.com privacy policy that was archived on 2019-03-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190328112854id_/https%3A//www.appdynamics.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | AppDynamics
 
@@ -209,3 +209,5 @@ Our website may, from time to time, contain links to and from the websites of ou
 ### 20\. Public Forums
 
 Our website offers publicly accessible blogs or community forums. You should be aware that any information you provide in these areas may be read, collected and used by others who access them. To request removal of your personal information from our blog or community forum, contact us at privacy@appdynamics.com. In some cases, we may not be able to remove your personal information, in which case we will let you know if we are unable to do so and why.
+
+If you require language assistance to review this policy, please contact privacy@appdynamics.com.
