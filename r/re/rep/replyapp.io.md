@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the replyapp.io privacy policy that was archived on 2018-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180626210849id_/https%3A//reply.io/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the replyapp.io privacy policy that was archived on 2019-03-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190328072551id_/https%3A//reply.io/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Reply
 
@@ -6,7 +6,7 @@
 
 ### 1.1. General terms
 
-At Reply.io (“Reply,” “we,” “us” or “our”), putting our users (“you” or “your”) first means exceeding global privacy and data protection standards in order to keep important contacts and sensitive data and communications private, safe and secure.
+At Reply App Inc. (“Reply,” “we,” “us” or “our”), putting our users (“you” or “your”) first means exceeding global privacy and data protection standards in order to keep important contacts and sensitive data and communications private, safe and secure.
 
 We set up our infrastructure, applications and tools in a way that enables you to strengthen and leverage your important relationships when they matter the most, without having to worry about data security or privacy concerns.
 
@@ -36,7 +36,7 @@ Reply complies with the EU-U.S. Privacy Shield Framework and the Swiss-U.S. Priv
 
 ### 1.2. Revision of the Privacy Policy
 
-Reply reserves the right to revise, modify or update this Policy at any time. Your continued use of the Services after any such revisions, modifications or updates constitutes your acceptance of any such change. 
+Reply reserves the right to revise, modify or update this Policy at any time. Your continued use of the Services after any such revisions, modifications or updates constitutes your acceptance of any such change.
 
 If we make any material changes we will notify you by posting the revised Privacy Policy on our Website or conspicuously in the Services and, if you subscribe to our Subscription Service, providing notice through the in-app Notifications.
 
@@ -49,18 +49,18 @@ Reply does not control the content of campaigns (text, email or other communicat
 That information belongs to you and is used, disclosed and protected by them according to their privacy policies and is not subject to this Privacy Policy.
 
 Reply processes our customers’ information as they direct and in accordance with our agreements with our customers, and we store it on our service providers’ servers, but we do not have control over its collection or management.  
-Our agreements with you customers prohibit us from using that information, except as necessary to provide and improve the Services, as permitted by this Privacy Policy, and as required by law. 
+Our agreements with you customers prohibit us from using that information, except as necessary to provide and improve the Services, as permitted by this Privacy Policy, and as required by law.
 
-We have no direct relationship with individuals who provide Personal Information to our customers. 
+We have no direct relationship with individuals who provide Personal Information to our customers.
 
 Reply acknowledges that you have the right to access your Personal Information.  
 You control and are responsible for correcting, deleting or updating information they have collected from you using the Services.  
 If requested to remove data we will respond within a reasonable timeframe.  
 We may work with you to help them provide notice to their visitors about their data collection, processing and usage.  
-Our agreements with you customers prohibit usage of the Services to collect, manage, or process Sensitive Information. 
+Our agreements with you customers prohibit usage of the Services to collect, manage, or process Sensitive Information.
 
 We are not responsible for your customers’ use of information on the Services.  
-Reply collects information under the direction of its customers, and has no direct relationship with the individuals whose Personal Information it processes. 
+Reply collects information under the direction of its customers, and has no direct relationship with the individuals whose Personal Information it processes.
 
 If you are a customer of one of our customers and would no longer like to be contacted by one of our customers that use our Services, please contact the customer that you interact with directly or leave a request on our [Trust page](https://web.archive.org/trust-page).  
 We may transfer Personal Information to companies that help us provide our Services. Transfers to subsequent third parties are covered by the processing agreements with our customers.
@@ -81,13 +81,13 @@ You are free to explore our Website without providing any Personal Information a
 
 ### 3.2. “Personal Information”
 
-This refers to any information that you voluntarily submit to us and that identifies you personally, including contact information, such as your name, e-mail address, company name, address, phone number, and other information about yourself or your business. 
+This refers to any information that you voluntarily submit to us and that identifies you personally, including contact information, such as your name, e-mail address, company name, address, phone number, and other information about yourself or your business.
 
 Personal Information can also include information about any transactions, both free and paid, that you enter into on the Websites, and information about you that is available on the internet, such as from Facebook, LinkedIn, Twitter and Google, or publicly available information that we acquire from service providers.
 
 ### 3.3. “Navigational Information”
 
-This refers to information about your computer and your visits to and use of the Services such as your IP address, geographical location, browser type, referral source, length of visit and pages viewed. 
+This refers to information about your computer and your visits to and use of the Services such as your IP address, geographical location, browser type, referral source, length of visit and pages viewed.
 
 We use this information for the above purposes and to monitor and analyze use of the Services, for the Services’ technical administration, to increase our Services’ functionality and user-friendliness, to verify users have the authorization needed for the Services to process their requests, and for advertising purposes.  
 For more details please see the “Navigation Information” section below.
@@ -114,7 +114,7 @@ Also, we may store your authentication token and account email address. This dat
 
 ### 3.8 Web beacons
 
-We may also collect information using web beacons (also known as “tracking pixels”). 
+We may also collect information using web beacons (also known as “tracking pixels”).
 
 ## 4\. Use of Information We Collect
 
@@ -140,7 +140,7 @@ In addition to the uses identified elsewhere in this Privacy Policy, we may use 
 (a) improve your browsing experience by personalizing and improving the Services;  
 (b) send information to you which we think may be of interest to you by post, email, or other means;  
 (c) send you marketing communications relating to our business or the businesses of carefully-selected third parties which we think may be of interest to you, and  
-(d) provide other companies with aggregated and Non-Personal Information about our users — but this information will not be used to identify any individual user, 
+(d) provide other companies with aggregated and Non-Personal Information about our users — but this information will not be used to identify any individual user,
 
 We may, from time to time, contact you on behalf of external business partners about a particular offering that may be of interest to you. In those cases, we do not transfer your unique Personal Information to the third party.
 
@@ -167,10 +167,10 @@ We employ other companies and people to provide services to the visitors and use
 
 We use a variety of security technologies and procedures to help protect your Personal Information from unauthorized access, use or disclosure. We secure the Personal Information you provide on computer servers in a controlled, secure environment, protected from unauthorized access, use or disclosure.
 
-All the Personal Information we have where Reply acts as a processor for a customers data (e.g., use of the Reply Services) is encrypted via database encryption. All connections to our Website or Services are protected via the use of encrypted connections, such as the Secure Socket Layer (SSL) protocol. 
+All the Personal Information we have where Reply acts as a processor for a customers data (e.g., use of the Reply Services) is encrypted via database encryption. All connections to our Website or Services are protected via the use of encrypted connections, such as the Secure Socket Layer (SSL) protocol.
 
 Also we do store all email accounts or email accounts passwords we use to provide our services via your emails servers encrypted.  
-Do not forget that your account in Reply service is protected by your account password and we urge you to take steps to keep your personal information safe by not disclosing your password and keep it long and complicated enough and by logging out of your account after each use. 
+Do not forget that your account in Reply service is protected by your account password and we urge you to take steps to keep your personal information safe by not disclosing your password and keep it long and complicated enough and by logging out of your account after each use.
 
 If you have any questions about the security of your Personal Information, you can contact us at [dpo@reply.io](mailto:dpo@reply.io).
 
@@ -184,9 +184,9 @@ Our Websites provide links to other websites. We do not control, and are not res
 
 ### 4.12. Retention of Personal Information
 
-We retain Personal Information that you provide us as long as we consider it potentially useful in contacting you about the Service or our other services, or as needed to comply with our legal obligations, resolve disputes and enforce our agreements, and then we securely delete the information. 
+We retain Personal Information that you provide us as long as we consider it potentially useful in contacting you about the Service or our other services, or as needed to comply with our legal obligations, resolve disputes and enforce our agreements, and then we securely delete the information.
 
-We will delete this information from the servers at an earlier date if you so request, as described in “Opting Out and Unsubscribing” below. 
+We will delete this information from the servers at an earlier date if you so request, as described in “Opting Out and Unsubscribing” below.
 
 If you provide information to our customers as part of their use of the Reply Service, our customers decide how long to retain the personal information they collect from you. If a customer terminates its use of the Service, then we will provide customer with access to all information stored for the customer by the Service, including any Personal Information provided by you, for export by the customer according to our agreement with our customer. After termination, we may, unless legally prohibited, delete all customer information, including your Personal Information, from the Reply Service.
 
@@ -196,13 +196,13 @@ If you are located outside the United States, the information that we collect fr
 
 All our employees and contractors related to working with personal data as part of their duties are signed agreements that covers Reply and their responsibility regarding transfer of data to remote working locations other than United States.
 
-This Privacy Policy shall apply even if we transfer Personal Information to other countries. To get more details about transfer from EU or Switzerland to US please see section ‘EU-U.S. Privacy Shield and Swiss-U.S. Privacy Shield’.
+This Privacy Policy shall apply even if we transfer Personal Information to other countries. This Privacy Policy shall apply even if we transfer Personal Information to other countries. To get more details about transfer from EU or Switzerland to US please see section EU-U.S. Privacy Shield and Swiss-U.S. Privacy Shield.
 
 ### 4.14. Sharing with Third party applications
 
-Certain aspects of the Reply Service allow or require you to connect with third party applications or services. In connection with your use of any such third party applications or services, such third parties may receive information about you including your username and any Content you choose to use in connection with those applications and services, and such third parties may contact you directly as necessary. 
+Certain aspects of the Reply Service allow or require you to connect with third party applications or services. In connection with your use of any such third party applications or services, such third parties may receive information about you including your username and any Content you choose to use in connection with those applications and services, and such third parties may contact you directly as necessary.
 
-The Reply Service may automatically collect and upload certain data from such applications via direct integrations or proxy services. 
+The Reply Service may automatically collect and upload certain data from such applications via direct integrations or proxy services.
 
 This Privacy Policy does not apply to your use of such third party applications and services, and we are not responsible for how those third parties collect, use and disclose your information and Content. We encourage you to review the privacy policies of those third parties before connecting to or using their applications or services to learn more about their information and privacy practices.
 
@@ -213,23 +213,34 @@ Reply reserve the right to use or disclose your Personal Information if required
 ### 4.16. Data retention
 
 After Reply account cancellation all the data within this account are due to be deleted in 60 days period time.  
-At the same time personal data of customers could be retained longer as it needed for providing legal and financial trace of past operations up to the time required by US law. 
+At the same time personal data of customers could be retained longer as it needed for providing legal and financial trace of past operations up to the time required by US law.
 
 ## 5\. EU-U.S. Privacy Shield and Swiss-U.S. Privacy Shield
 
-### 5.1. Commitment to EU-U.S Privacy shield
+### 5.1. Commitment to Privacy Shield Frameworks
 
-Reply complies with the EU-U.S. Privacy Shield Framework and the Swiss-U.S. Privacy Shield Framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal information transferred from the European Union and Switzerland to the United States. We have certified to the Department of Commerce that we adhere to the Privacy Shield Principles of Notice, Choice, Accountability for Onward Transfer, Security, Data Integrity and Purpose Limitation, Access, and Resource, Enforcement and Liability. If there is any conflict between the policies in this privacy policy and the Privacy Shield Principles, the Privacy Shield Principles shall govern. To learn more about the Privacy Shield program, and to view our certification page, please visit [https://www.privacyshield.gov](https://www.privacyshield.gov/)
+Reply complies with the EU-US Privacy Shield Framework and the Swiss-US Privacy Shield Framework as set forth by the US Department of Commerce regarding the collection, use, and retention of personal information from European Union member countries and Switzerland transferred to the United States pursuant to Privacy Shield. Reply has certified that it adheres to the Privacy Shield Principles with respect to such data. If there is any conflict between the policies in this privacy policy and data subject rights under the Privacy Shield Principles, the Privacy Shield Principles shall govern. To learn more about the Privacy Shield program, and to view our certification page, please visit [https://www.privacyshield.gov](https://www.privacyshield.gov/)
 
-Our participation in the Privacy Shield applies to all personal data that is subject to the this Privacy Policy and which is received from the European Union, European Economic Area, and Switzerland. We will comply with the Privacy Shield Principles in respect of such personal data.
+Our participation in the Privacy Shield applies to all personal data that is subject to this Privacy Policy and which is received from the European Union, European Economic Area, and Switzerland. We will comply with the Privacy Shield Principles in respect of such personal data.  
+Reply is subject to the investigatory and enforcement powers of the Federal Trade Commission (FTC).  
+Reply acknowledges that EU and Swiss individuals have the right to access the personal information that we maintain about them. An EU or Swiss individual who seeks to access, or who seeks to correct, amend, or delete inaccurate data, should direct their query to [dpo@reply.io](mailto:dpo@reply.io). If requested to remove data, we will respond within a reasonable timeframe.  
+We will provide an individual opt-out choice, or opt-in for sensitive data, before we share your data with third parties other than our agents, or before we use it for a purpose other than which it was originally collected or subsequently authorized. To limit the use and disclosure of your personal information, please submit a written request to [dpo@reply.io](mailto:dpo@reply.io).
 
-Our accountability for personal data that we receive under the Privacy Shield and subsequently transfer to a third party is described in the Privacy Shield Principles. In particular, we remain responsible and liable under the Privacy Shield Principles if third-party agents that we engage to process the personal data on our behalf do so in a manner inconsistent with the Principles, unless we prove that we are not responsible for the event giving rise to the damage.
+Our accountability for personal data that we receive under the Privacy Shield and subsequently transfer to a third party is described in the Privacy Shield Principles.  
+In particular, we remain responsible and liable under the Privacy Shield Principles if third-party agents that we engage to process the personal data on our behalf do so in a manner inconsistent with the Principles, unless we prove that we are not responsible for the event giving rise to the damage.
 
+We also may be required to disclose an individual’s personal information in response to a lawful request by public authorities, including to meet national security or law enforcement requirements.  
 We encourage European individuals (including Swiss individuals) to contact us should you have a Privacy Shield-related (or general privacy-related) complaint at [dpo@reply.io](mailto:dpo@reply.io). Or via our [Trust page](https://web.archive.org/trust-page).
 
-### 5.2 Independent recourse mechanism
+### Independent recourse mechanism
 
-We have further committed to refer unresolved privacy complaints under the EU-U.S. Privacy Shield Principles or the Swiss-U.S. Privacy Shield Principles to BBB EU PRIVACY SHIELD, a non-profit alternative dispute resolution provider located in the United States and operated by the Council of Better Business Bureaus. If you do not receive timely acknowledgment of your complaint, or if your complaint is not satisfactorily addressed, please visit [www.bbb.org/EU-privacy-shield/for-eu-consumers](http://www.bbb.org/EU-privacy-shield/for-eu-consumers) for more information and to file a complaint. As further explained in the Privacy Shield Principles, a binding arbitration option will also be made available to you in order to address residual complaints not resolved by any other means. Reply.io is subject to the investigatory and enforcement powers of the U.S. Federal Trade Commission (FTC).
+In compliance with the Privacy Shield Principles, Reply commits to resolve complaints about your privacy and our collection or use of your personal information transferred to the United States pursuant to Privacy Shield. European Union and Swiss individuals with Privacy Shield inquiries or complaints should first contact Reply at:
+
+[dpo@reply.io](mailto:dpo@reply.io)
+
+Reply has further committed to refer unresolved privacy complaints under the Privacy Shield Principles to an independent dispute resolution mechanism, the BBB EU PRIVACY SHIELD, operated by the Council of Better Business Bureaus. If you do not receive timely acknowledgment of your complaint, or if your complaint is not satisfactorily addressed, please visit [www.bbb.org/EU-privacy-shield/for-eu-consumers](https://web.archive.org/web/20190328072551id_/https://reply.io/privacy-policy/www.bbb.org/EU-privacy-shield/for-eu-consumers) for more information and to file a complaint. This service is provided free of charge to you.
+
+If your Privacy Shield complaint cannot be resolved through the above channels, under certain conditions, you may invoke binding arbitration for some residual claims not resolved by other redress mechanisms. See Privacy Shield Annex 1 at <https://www.privacyshield.gov/article?id=ANNEX-I-introduction>
 
 ## 6\. Opting Out and Unsubscribing
 
@@ -243,15 +254,15 @@ Upon request Reply will provide you with information about whether we hold any o
   * To request that your user information be removed from any solicitation list that we use
   * To request that your user information be deleted from our records
   * To opt out of being solicited by Reply or third parties
-  * To exercise any of these rights, please contact us at [dpo@reply.io](mailto:dpo@reply.io). Or via our Trust page. We will respond to your request to change, correct, or delete your information within a reasonable timeframe and notify you of the action we have taken.
+  * To exercise any of these rights, please contact us at [dpo@reply.io](mailto:dpo@reply.io). Or via our [Trust page](https://web.archive.org/trust-page). We will respond to your request to change, correct, or delete your information within a reasonable timeframe and notify you of the action we have taken.
 
 
 
 ### 6.2. Anti-Spam Policy
 
-We at Reply committed to provide customers with tools and expertise to curate highly targeted and relevant communications via our platform. We monitor and prohibits use of the Reply Service to send unsolicited commercial email in violation of applicable laws as stated in our Terms of service, and requires the inclusion in every email sent using the Service of an “opt-out” mechanism and other required information. 
+We at Reply committed to provide customers with tools and expertise to curate highly targeted and relevant communications via our platform. We monitor and prohibits use of the Reply Service to send unsolicited commercial email in violation of applicable laws as stated in our Terms of service, and requires the inclusion in every email sent using the Service of an “opt-out” mechanism and other required information.
 
-We require all of our customers to agree to adhere to the Terms of Service Policy at all times, and any violations of the Terms of Service Policy by a customer can result in suspension or termination of the Reply Service. 
+We require all of our customers to agree to adhere to the Terms of Service Policy at all times, and any violations of the Terms of Service Policy by a customer can result in suspension or termination of the Reply Service.
 
 We also provide customers with the tools to manage their sending reputation and customer success team work closely to monitor all customer metrics and best-practices to ensure high quality and targeted campaigns.
 
@@ -259,7 +270,7 @@ We also provide customers with the tools to manage their sending reputation and 
 
 You may unsubscribe from our marketing communications by clicking on the “unsubscribe” link located on the bottom of our e-mails, or by sending us email us at [dpo@reply.io](mailto:dpo@reply.io). Customers cannot opt out of receiving transactional emails or notifications related to their account with us or the Reply Service.
 
-### 6.4. To Unsubscribe from Our Customers’ Communications
+### 5.4. To Unsubscribe from Our Customers’ Communications
 
 Our customers are solely responsible for their own sales or marketing emails and other communications;  
 We make sure that all emails sent using Reply service has proper unsubscribe mechanics (links or text + AI sorting + Auto opt out).  
