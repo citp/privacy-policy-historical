@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sharesight.com privacy policy that was archived on 2018-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180530152634id_/https%3A//www.sharesight.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sharesight.com privacy policy that was archived on 2019-03-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190328071316id_/https%3A//www.sharesight.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Sharesight
 
@@ -96,3 +96,7 @@ To make an access request, please contact our Privacy Officer by:
 
 
  _Last updated 24th May 2018_
+
+##### Try Sharesight today
+
+Track **10 holdings** for free. [ Sign up for Free ](https://portfolio.sharesight.com/signup "Sign up for Sharesight")
