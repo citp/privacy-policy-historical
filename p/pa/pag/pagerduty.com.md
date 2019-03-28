@@ -1,34 +1,22 @@
-> *The following text is extracted and transformed from the pagerduty.com privacy policy that was archived on 2018-10-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181009040040id_/https%3A//www.pagerduty.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pagerduty.com privacy policy that was archived on 2019-03-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190328043718id_/https%3A//www.pagerduty.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | PagerDuty
 
 [ ](https://web.archive.org/)
 
-  * [Product](https://web.archive.org/features)
+  * [Platform](https://web.archive.org/platform)
 
-#### [Overview](https://web.archive.org/features)
+#### [Overview](https://web.archive.org/platform)
 
-Turn any signal into insight and action. See how PagerDuty Digital Operations Management Platform integrates machine data and human intelligence to improve visibility and agility across organizations. 
+Turn any signal into insight and action. See how PagerDuty's Platform for Real-Time Operations integrates machine data & human intelligence to improve visibility & agility across organizations. 
 
-[Learn more __](https://web.archive.org/features)
-
-#### [Visibility](https://web.archive.org/features/visibility/)
-
-Connect insights to real-time action by aligning teams through the shared language of business impact.
-
-[Learn more __](https://web.archive.org/features/visibility/)
+[Learn more __](https://web.archive.org/platform)
 
 #### [What's New](https://web.archive.org/whats-new)
 
-Check out the latest products we’ve been working on—including event intelligence, machine learning, response automation, on-call, analytics, operations health management, integrations, and more. 
+Check out the latest capabilities we released. 
 
 [See what's new __](https://web.archive.org/whats-new)
-
-#### [Digital Operations Management](https://web.archive.org/digital-operations-management/)
-
-Digital Operations Management arms organizations with the insights needed to turn data into opportunity across every operational use case, from DevOps, ITOps, Security, Support, and beyond. 
-
-[Learn more __](https://web.archive.org/digital-operations-management)
 
   * [Customers](https://web.archive.org/customers)
 
@@ -51,13 +39,13 @@ See how PagerDuty works with our live product demo — twice a week, every week.
 
 [Sign up __](https://web.archive.org/weekly-demo)
 
-#### [Featured Webinars](https://web.archive.org/resources/#webinars)
+#### [Real-Time Ops Maturity](https://web.archive.org/ops-maturity-model/)
 
-[ ](https://web.archive.org/resources/#webinars)
+[ ](https://web.archive.org/ops-maturity-model/)
 
-Join live and on-demand webinars for product deep dives, industry trends, configuration training, and use case-specific best practices. 
+We've created a maturity model to assist on the journey to digital operations excellence. Take our short assessment to find out where your team falls! 
 
-[Watch webinars __](https://web.archive.org/resources)
+[Take Assessment __](https://web.archive.org/ops-maturity-model/)
 
 #### [Documentation](https://v2.developer.pagerduty.com/)
 
@@ -71,7 +59,7 @@ Interactive, simple-to-use API and technical documentation enables users to easi
 
 #### [Community Forum](https://community.pagerduty.com/)
 
-Engage with users and PagerDuty experts from our global community of 200k+ users. Become a member, connect, and share insights for success. 
+Engage with users and PagerDuty experts from our global community. Become a member, connect, and share insights for success. 
 
 [Read more __](https://community.pagerduty.com/)
 
@@ -103,7 +91,7 @@ We are risk-taking innovators dedicated to delivering amazing products and delig
 
 [See all positions __](https://web.archive.org/careers/#pd-positions)
 
-  * [Sign Up](https://web.archive.org/sign-up)
+  * [TRY NOW](https://web.archive.org/sign-up)
 
 
   * 
