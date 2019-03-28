@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the techreviewpro.com privacy policy that was archived on 2018-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181227062902id_/https%3A//techreviewpro.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the techreviewpro.com privacy policy that was archived on 2019-03-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190328084353id_/https%3A//techreviewpro.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - TechReviewPro
 
@@ -48,11 +48,15 @@ If you have an account on this site or have left comments, you can request to re
 
 ## Where we send your data?
 
-Visitor comments may be checked through an automated spam detection service.
+Visitor comments may be checked through an automated spam detection service. We use Akismet as this spam detection service.
+
+Akismet collects information about visitors who comment on any of the Sites that use their Akismet anti-spam service. The information they collect depends on how the User sets up Akismet for the Site, but typically includes the commenter’s IP address, user agent, referrer, and Site URL (along with other information directly provided by the commenter such as their name, username, email address, and the comment itself).
 
  **Personal identification information**
 
-We may collect personal identification information from Users in a variety of ways, including, but not limited to, when Users visit our site, subscribe to the newsletter, and in connection with other activities, services, features or resources we make available on our Site. Users may be asked for, as appropriate, name, email address. Users may, however, visit our Site anonymously. We will collect personal identification information from Users only if they voluntarily submit such information to us. Users can always refuse to supply personally identification information, except that it may prevent them from engaging in certain Site related activities.
+We may collect personal identification information from Users in a variety of ways, including, but not limited to, when Users visit our site, subscribe to the newsletter, and in connection with other activities, services, features or resources we make available on our Site. Users may be asked for, as appropriate, name, email address. Users may, however, visit our Site anonymously.
+
+We will collect personal identification information from Users only if they voluntarily submit such information to us. Users can always refuse to supply personally identification information, except that it may prevent them from engaging in certain Site related activities.
 
  **Non-personal identification information**
 
@@ -81,19 +85,27 @@ We adopt appropriate data collection, storage and processing practices and secur
 
  **Sharing your personal information**
 
-We do not sell, trade, or rent Users personal identification information to others. We may share generic aggregated demographic information not linked to any personal identification information regarding visitors and users with our business partners, trusted affiliates and advertisers for the purposes outlined above. We may use third-party service providers to help us operate our business and the Site or administer activities on our behalfs, such as sending out newsletters or surveys. We may share your information with these third parties for those limited purposes provided that you have given us your permission.
+We do not sell, trade, or rent Users personal identification information to others. We may share generic aggregated demographic information not linked to any personal identification information regarding visitors and users with our business partners, trusted affiliates and advertisers for the purposes outlined above.
+
+We may use third-party service providers to help us operate our business and the Site or administer activities on our behalfs, such as sending out newsletters or surveys. We may share your information with these third parties for those limited purposes provided that you have given us your permission.
 
  **Third party websites**
 
-Users may find advertising or other content on our Site that link to the sites and services of our partners, suppliers, advertisers, sponsors, licensors and other third parties. We do not control the content or links that appear on these sites and are not responsible for the practices employed by websites linked to or from our Site. In addition, these sites or services, including their content and links, may be constantly changing. These sites and services may have their own privacy policies and customer service policies. Browsing and interaction on any other website, including websites which have a link to our Site, is subject to that website’s own terms and policies.
+Users may find advertising or other content on our Site that link to the sites and services of our partners, suppliers, advertisers, sponsors, licensors and other third parties. We do not control the content or links that appear on these sites and are not responsible for the practices employed by websites linked to or from our Site.
+
+In addition, these sites or services, including their content and links, may be constantly changing. These sites and services may have their own privacy policies and customer service policies. Browsing and interaction on any other website, including websites which have a link to our Site, is subject to that website’s own terms and policies.
 
  **Advertising**
 
-Ads appearing on our site may be delivered to Users by advertising partners, who may set cookies. These cookies allow the ad server to recognize your computer each time they send you an online advertisement to compile non-personal identification information about you or others who use your computer. This information allows ad networks to, among other things, deliver targeted advertisements that they believe will be of most interest to you. This privacy policy does not cover the use of cookies by any advertisers.
+Ads appearing on our site may be delivered to Users by advertising partners, who may set cookies. These cookies allow the ad server to recognize your computer each time they send you an online advertisement to compile non-personal identification information about you or others who use your computer.
+
+This information allows ad networks to, among other things, deliver targeted advertisements that they believe will be of most interest to you. This privacy policy does not cover the use of cookies by any advertisers.
 
  **Google Adsense**
 
-Some of the ads may be served by Google. Google’s use of the DART cookie enables it to serve ads to Users based on their visit to our Site and other sites on the Internet. DART uses “non personally identifiable information” and does NOT track personal information about you, such as your name, email address, physical address, etc. You may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at <http://www.google.com/privacy_ads.html>
+Some of the ads may be served by Google. Google’s use of the DART cookie enables it to serve ads to Users based on their visit to our Site and other sites on the Internet. DART uses “non personally identifiable information” and does NOT track personal information about you, such as your name, email address, physical address, etc.
+
+You may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at <http://www.google.com/privacy_ads.html>
 
 **Changes to this privacy policy**
 
@@ -101,7 +113,9 @@ TechReviewPro has the discretion to update this privacy policy at any time. When
 
 ##  **GDPR Compliance**
 
-Apart from collecting your email address, IP address, and browser user string when you leave a comment, we do not collect/store users other data directly. So, to follow the GDPR law, we make sure that the 3rd party services that we use to collect certain personal information (IP address, Country, Device) are strictly GDPR compliant.
+Apart from collecting your email address, IP address, and browser user string when you leave a comment, we do not collect/store users other data directly.
+
+So, to follow the GDPR law, we make sure that the 3rd party services that we use to collect certain personal information (IP address, Country, Device) are strictly GDPR compliant.
 
 Here’s a list of services and links to their official website explaining how they protect your data they collect to let us analyze our readers:
 
@@ -120,9 +134,4 @@ If you have any questions about this Privacy Policy, the practices of this site,
 [TechReviewPro](https://techreviewpro.com/)  
 [https://techreviewpro.com](https://techreviewpro.com/)
 
-Rahul Dubey
-
-Editor & Founder of TechReviewPro.com  
-Rahul@techreviewpro.com
-
-This document was last updated on **May 23, 2018** , in compliance with Europe’s new General Data Protection Regulation (GDPR) and EU Users Consent Policy.
+Rahul DubeyEditor & Founder of TechReviewPro.com Rahul@techreviewpro.comThis document was last updated on **March 23, 2019** , in compliance with Europe’s new General Data Protection Regulation (GDPR) and EU Users Consent Policy.
