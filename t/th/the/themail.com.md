@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the themail.com privacy policy that was archived on 2018-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181126213623id_/http%3A//www.themail.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the themail.com privacy policy that was archived on 2019-03-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190328015827id_/http%3A//www.themail.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | The Mail Online- Daily News, Affiliate Marketing News, Advice and Tutorials
 
