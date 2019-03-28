@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the altcointrader.co.za privacy policy that was archived on 2016-11-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161116090428id_/https%3A//www.altcointrader.co.za/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the altcointrader.co.za privacy policy that was archived on 2019-03-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190329002721id_/https%3A//www.altcointrader.co.za/privacy_policy) for the most accurate reproduction.*
 
 # AltCoinTrader trading Privacy policy
 
@@ -6,7 +6,7 @@
 
 At AltCoinTrader we are committed to protecting and respecting your privacy.We take this very seriously so that you may feel safe when trusting us with your confidentialy.
 
-This policy (together with our [terms and conditions](https://web.archive.org/web/20161116090428id_/https%3A//www.altcointrader.co.za/terms_and_conditions) and any other documents referred to in it) sets out the basis on which any personal data we collect from you, or that you provide to us, will be processed by us. Please read the following carefully to understand our views and practices regarding your personal data and how we will treat it.
+This policy (together with our [terms and conditions](https://web.archive.org/web/20190329002721id_/https%3A//www.altcointrader.co.za/terms_and_conditions) and any other documents referred to in it) sets out the basis on which any personal data we collect from you, or that you provide to us, will be processed by us. Please read the following carefully to understand our views and practices regarding your personal data and how we will treat it.
 
 We keep certain basic information when you visit our website and recognise the importance of keeping that information secure and letting you know what we will do with it.
 
