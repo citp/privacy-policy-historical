@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the franchisehelp.com privacy policy that was archived on 2017-10-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171019170942id_/https%3A//www.franchisehelp.com/terms-privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the franchisehelp.com privacy policy that was archived on 2019-03-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190328171109id_/https%3A//www.franchisehelp.com/terms-privacy) for the most accurate reproduction.*
 
 # Terms of Service & Privacy Policy
 
@@ -134,8 +134,8 @@ We may update this privacy policy to reflect changes to our information practice
 ##### 7\. Contact Us
 
   * FranchiseHelp Holdings LLC 
-  * 159 Bleecker St. #2C 
-  * New York, NY 10012 
+  * 394 Broadway 
+  * New York, NY 10013 
   * Phone: 646-419-4365 
 
 
