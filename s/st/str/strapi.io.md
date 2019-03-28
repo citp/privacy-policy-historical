@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the strapi.io privacy policy that was archived on 2018-10-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181004060831id_/https%3A//strapi.io/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the strapi.io privacy policy that was archived on 2019-03-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190328065139id_/https%3A//strapi.io/privacy) for the most accurate reproduction.*
 
-# Privacy Policy - Strapi
+# Strapi open source Node.js Headless CMS Privacy Policy
 
 The protection of your personal data is important for Strapi and we carry out our processing activities in accordance with your rights, as provided for under the European Regulation 2016/679 of April 27th, 2016 (the “GDPR”) and the French law n°78-17 of January 6th, 1978 as last modified by the French law n°2018-493 of June 20th, 2018 on data protection (together referred to as the “Legal framework”). This is the reason we explain, in details, in this document (our “Privacy policy”), the types of Personal information we collect and what may happen to that Personal information when using our Websites and related applications and resources (collectively, the "Services"). 
 
