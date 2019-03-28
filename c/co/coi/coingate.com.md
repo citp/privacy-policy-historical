@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the coingate.com privacy policy that was archived on 2018-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180626212848id_/https%3A//coingate.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the coingate.com privacy policy that was archived on 2019-03-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190328074138id_/https%3A//coingate.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - CoinGate
 
@@ -99,7 +99,7 @@ We share the information about you with the following entities only where needed
   * Zendesk, Inc. (USA) ([Privacy shield](https://www.privacyshield.gov/participant?id=a2zt0000000TOjeAAG)) 
   * AgileBits, Inc. (Canada, which is [considered by European Commission](https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32002D0002&from=en) as safe in terms of data protection) 
   * ShapeShift AG (Switzerland, which is [considered by European Commission](https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32000D0518&from=EN) as safe in terms of data protection) 
-  * SimplexCC Ltd. (Israel, which is [considered by European Commission](http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2011:027:0039:0042:EN:PDF) as safe in terms of data protection) 
+  * SimplexCC Ltd. (Israel, which is [considered by European Commission](https://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2011:027:0039:0042:EN:PDF) as safe in terms of data protection) 
 
 
 * **How long you will keep information about me?**
@@ -123,9 +123,13 @@ If you wish to do any of the following, please contact our Data Protection Offic
 
 To file an inquiry or a complaint, please contact our Data Protection Officer as described in Part 12. Please note that these rights are subject to conditions and exemptions established by law as well as the procedure we will be following in order to assist you. 
 
-* **How can your Data Protection Officer can help me?**
+* **How can your Data Protection Officer help me?**
 
-If you have any questions, comments or complaints regarding how we collect, use and store information about you, CoinGate has Data Protection Officer to help you. If you need his / her help, please send an e-mail to **dpo@coingate.com**. 
+If you have any questions, comments or complaints regarding how we collect, use and store information about you, CoinGate has Data Protection Officer to help you. If you have any questions about this policy or how we handle your personal information, please contact our Data Protection Officer: 
+
+[dpo@coingate.com](mailto:dpo@coingate.com)  
+UAB „Dataprotection.lt“,  
+www.dataprotection.lt
 
 Why you collect information about me? | Which information you collect about me? | Why you are legally allowed to collect my information? Which provisions of GDPR and other laws apply? | How long do you keep information about me?  
 Virtual currency purchasing and payment processing collection platform administration | E-mail, password, country, name and surname, address, telephone number, cryptocurrency address, bank account number, account number of money withdrawal platform, PayPal address, transaction amount, transaction currency, transaction time, address of the sender of the transaction, address of the payee of the transaction, ID number, ID copy, photo of you, data provided in business registration certificate, data provided in the document of business address proof | Contract (Art. 6 (1) (b) of the GDPR) | 10 years after termination of your account  
