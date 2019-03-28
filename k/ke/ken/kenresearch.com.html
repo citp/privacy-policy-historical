@@ -1,10 +1,10 @@
-<!--The following is the downloaded HTML source of the kenresearch.com privacy policy that was archived on 2018-12-05.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20181205195511id_/https%3A//www.kenresearch.com/privacy-policy.php) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the kenresearch.com privacy policy that was archived on 2019-03-28.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20190328215136id_/https%3A//www.kenresearch.com/privacy-policy.php) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en"><head>
 <meta name="viewport" content="width=device-width, maximum-scale=1.0, initial-scale=1.0, user-scalable=no, minimum-scale=1.0">
 <link rel="icon" href="images/favicon.ico">
-<title>Privacy Policy: Kenresearch.com</title>
+<title>Privacy Policy: Ken Research</title>
 
 <link rel="canonical" href="https://www.kenresearch.com">
  
@@ -18,12 +18,14 @@
    
     <!-----Navigation end---->
 <!--<script src="js/jquery1.7.2.min.js"></script>-->
-<script async="" charset="utf-8" src="//cdn.zopim.com/?1MuxIGMO18zrT96OqbSiwOi5iuvo1IqF" type="text/javascript"></script><script async="" src="https://www.google-analytics.com/analytics.js"></script><script type="text/javascript" async="" src="https://snap.licdn.com/li.lms-analytics/insight.min.js"></script><script src="https://www.kenresearch.com/js/libs-1.11.1-jquery.min.js"></script>
+<script async="" charset="utf-8" src="//cdn.zopim.com/?1MuxIGMO18zrT96OqbSiwOi5iuvo1IqF" type="text/javascript"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script type="text/javascript" async="" src="https://snap.licdn.com/li.lms-analytics/insight.min.js"></script><script src="https://www.kenresearch.com/js/libs-1.11.1-jquery.min.js"></script>
 <script src="https://www.kenresearch.com/js/jquery-ui.js"></script>
 <script src="https://www.kenresearch.com/js/3.1.1bootstrap-menu.min.js"></script>
 <script src="https://www.kenresearch.com/js/jquery.menu-aim.js"></script>
 <script src="https://www.kenresearch.com/js/waypoints.min.js"></script>
 <script src="https://www.kenresearch.com/js/jquery.counterup.min.js"></script>
+<link href="https://www.kenresearch.com/css/customcss.css" type="text/css" rel="stylesheet">
+<link rel="stylesheet" type="text/css" href="//fonts.googleapis.com/css?family=Open+Sans:400,600,700">
  <!-----------------------------Script end------------------------------------> 
 
 
@@ -103,21 +105,18 @@ s.parentNode.insertBefore(b, s);})();
         enable: false // Set to false to hide /
       }
     }]);
-  </script><script>
-  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
-  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
-  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
-  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
-
-  ga('create', 'UA-80329604-1', 'auto');
-  ga('send', 'pageview');
-
-</script>
+  </script>
 </head>
 
 <body>
 
 <!-----------------------main herader one start------------------------->
+
+
+
+
+
+
 
 
 <script type="text/javascript">
@@ -304,6 +303,20 @@ $(document).ready(function(){
 	 });
  });
 });
+
+$(function() {
+     $('#Country').change(function(){
+        if($('#Country').val() == 'India') {
+            $('.for_international').hide();
+			$('.for_india').show(); 
+			
+        } else {
+            $('.for_international').show(); 
+			$('.for_india').hide(); 
+        } 
+    });
+
+});
 </script>
 <script>
 function switchVisible() {
@@ -329,6 +342,8 @@ function switchVisible() {
     $("form[name='form1']").submit(); }
     });
   });
+  
+  
   </script>
 
 
@@ -1110,7 +1125,7 @@ $(document).ready(function(){
       <!--Logo--> 
       <!--search area start-->
       <div class="search-area ui-widget">
-        <form name="form1" method="get" action="https://www.kenresearch.com/productsearch.html">
+        <form name="form1" method="get" action="https://www.kenresearch.com/productsearch.php">
           <!--search-->
           <div class="search-feild ui-widget">
             <input class="inputsearch" type="text" name="searchKey" id="skill" placeholder="Search here">
@@ -1230,7 +1245,7 @@ $(document).ready(function(){
                       <div class="logfild">
                         <div id="progressLoading">
                           <p>@@ Please be patient!! Your registration is in progress.<br>
-                            it will take few moment. </p>
+it will take few moment. </p>
                         </div>
                         <form method="post" enctype="multipart/form-data" name="registration" onsubmit="return validateregistrationform();">
                         <table class="register_table_main">
@@ -1238,221 +1253,64 @@ $(document).ready(function(){
                         <td>
                         
                           <table class="register_table_form">
-                            <tbody><tr>
-                              <td class="form-text">Name<span>*</span></td>
-                              <td class="form-text">:</td>
-                              <td><input id="CustName" class="field" type="text" placeholder="User Name" name="CustName"></td>
-                            </tr>
-                            
-                            
-                            <tr>
-                              <td class="form-text">Password<span>*</span></td>
-                              <td class="form-text">:</td>
-                              <td><input id="CustPass" class="field" type="password" placeholder="Password" name="CustPass"></td>
-                            </tr>
-                            <tr>
-                              <td class="form-text">Confirm Password<span>*</span></td>
-                              <td class="form-text">:</td>
-                              <td><input id="CustConPass" class="field" type="password" placeholder="Confirm Password" name="CustConPass"></td>
-                            </tr>
-                            <tr>
-                              <td class="form-text">Phone No.<span>*</span></td>
-                              <td class="form-text">:</td>
-                              <td><input id="Custphone" class="field" type="text" placeholder="Phone No." name="Custphone"></td>
-                            </tr>
-                            
-                            <tr>
-                              <td class="form-text">Email Id<span>*</span></td>
-                              <td class="form-text">:</td>
-                              <td><input id="CustEmailId" class="field CheckEmailHead" type="email" placeholder="Email Id" name="CustEmailId">&nbsp; <img src="https://www.kenresearch.com/images/info-xxl.png" alt="info-icon" class="msg-display"> <p class="imp-msg">Provide corporate/ academic email id only. In case of personal email id, provide Linkedin profile link in the company address </p></td>
-                            </tr>
-                            
-                            <tr>
-                              <td class="form-text">Company Name</td>
-                              <td class="form-text">:</td>
-                              <td><textarea name="CustCompanyName" class="field CheckEmailHead" id="CustCompanyName" placeholder="Company Name"></textarea> 		&nbsp; <img src="https://www.kenresearch.com/images/info-xxl.png" alt="info-icon" class="msg-display"> <p class="imp-msg">Company Name and Address is required for invoicing process. </p></td>
-                            </tr>
-                            
-                                                  </tbody></table>
-                          
-                          </td>
-                          
-                          <td>
-                          <table class="register_table_form1">
-                            
-                            <tbody><tr>
-                              <td class="form-text">Company Address<span>*</span></td>
-                              <td class="form-text">:</td>
-                              <td><textarea name="CustCompanyAdd" class="field" id="CustCompanyAdd" placeholder="Company Address"></textarea> &nbsp; <img src="https://www.kenresearch.com/images/info-xxl.png" alt="info-icon" class="msg-display"> <p class="imp-msg">Company Name and Address is required for invoicing process. </p></td>
-                            </tr>
-                            
-                                                          <tr>
-                              <td class="form-text">State<span>*</span></td>
-                              <td class="form-text">:</td>
-                              <td><input id="State" class="field" type="text" placeholder="State" name="State"> </td>
-                            </tr>
-                                                        <tr>
-                              <td class="form-text">Country<span>*</span></td>
-                              <td class="form-text">:</td>
-                              <td><select id="Country" class="field" name="Country">
-                              <option selected="" value="">Select</option>
-                                        <option value="Afghanistan">Afghanistan</option>
-                                        <option value="Algeria">Algeria</option>
-                                        <option value="Argentina">Argentina</option>
-                                        <option value="Australia">Australia</option>
-                                        <option value="Austria">Austria</option>
-                                        <option value="Bahamas">Bahamas</option>
-                                        <option value="Bangladesh">Bangladesh</option>
-                                        <option value="Barbados">Barbados</option>
-                                        <option value="Belgium">Belgium</option>
-                                        <option value="Belize">Belize</option>
-                                        <option value="Bermuda">Bermuda</option>
-                                        <option value="Bolivia">Bolivia</option>
-                                        <option value="Brazil">Brazil</option>
-                                        <option value="Brunei Darussalam">Brunei Darussalam </option>
-                                        <option value="Bulgaria">Bulgaria</option>
-                                        <option value="Canada">Canada</option>
-                                        <option value="Czech Republic">Czech Republic</option>
-                                        <option value="Chile">Chile </option>
-                                        <option value="China">China </option>
-                                        <option value="Colombia">Colombia</option>
-                                        <option value="Costa Rica">Costa Rica</option>
-                                        <option value="Croatia">Croatia</option>
-                                        <option value="Denmark">Denmark</option>
-                                        <option value="Dominican Republic">Dominican Republic</option>
-                                        <option value="Ecuador">Ecuador</option>
-                                        <option value="Egypt">Egypt</option>
-                                        <option value="Estonia">Estonia</option>
-                                        <option value="England">England</option>
-                                        <option value="Finland">Finland</option>
-                                        <option value="France">France</option>
-                                        <option value="Germany">Germany</option>
-                                        <option value="Guatemala">Guatemala</option>
-                                        <option value="Greece">Greece</option>
-                                        <option value="Honduras">Honduras</option>
-                                        <option value="Hong Kong">Hong Kong</option>
-                                        <option value="Hungary">Hungary</option>
-                                        <option value="Iceland">Iceland</option>
-                                        <option value="Ireland">Ireland</option>
-                                        <option value="India">India</option>
-                                        <option value="Indonesia">Indonesia</option>
-                                        <option value="Ireland">Iran</option>
-                                        <option value="Ireland">Ireland</option>
-                                        <option value="Israel">Israel</option>
-                                        <option value="Italy">Italy</option>
-                                        <option value="Jamaica">Jamaica</option>
-                                        <option value="Japan">Japan</option>
-                                        <option value="Jordan">Jordan</option>
-                                        <option value="Kenya">Kenya</option>
-                                        <option value="Kuwait">Kuwait</option>
-                                        <option value="Latvia">Latvia</option>
-                                        <option value="Lebanon">Lebanon</option>
-                                        <option value="Liechtenstein">Liechtenstein</option>
-                                        <option value="Lithuania">Lithuania</option>
-                                        <option value="Luxembourg">Luxembourg</option>
-                                        <option value="Malaysia">Malaysia</option>
-                                        <option value="Maldives">Maldives</option>
-                                        <option value="Malta">Malta</option>
-                                        <option value="Mexico">Mexico</option>
-                                        <option value="Monaco">Monaco</option>
-                                        <option value="Morocco">Morocco</option>
-                                        <option value="Nepal">Nepal</option>
-                                        <option value="Netherlands">Netherlands</option>
-                                        <option value="New Zealand">New Zealand</option>
-                                        <option value="Norway">Norway </option>
-                                        <option value="Pakistan">Pakistan</option>
-                                        <option value="Panama">Panama</option>
-                                        <option value="Paraguay">Paraguay</option>
-                                        <option value="Peru">Peru</option>
-                                        <option value="Philippines">Philippines</option>
-                                        <option value="Poland">Poland</option>
-                                        <option value="Portugal">Portugal</option>
-                                        <option value="Puerto Rico">Puerto Rico</option>
-                                        <option value="Qatar">Qatar</option>
-                                        <option value="Romania">Romania</option>
-                                        <option value="Russia">Russia</option>
-                                        <option value="Saudi Arabia">Saudi Arabia</option>
-                                        <option value="Scotland">Scotland</option>
-                                        <option value="Singapore">Singapore</option>
-                                        <option value="Slovenia">Slovenia</option>
-                                        <option value="South Africa">South Africa</option>
-                                        <option value="South Korea">South Korea</option>
-                                        <option value="Spain">Spain</option>
-                                        <option value="Sri Lanka">Sri Lanka</option>
-                                        <option value="Sweden">Sweden</option>
-                                        <option value="Switzerland">Switzerland</option>
-                                        <option value="Taiwan">Taiwan</option>
-                                        <option value="Thailand">Thailand</option>
-                                        <option value="Turkey">Turkey</option>
-                                        <option value="Uganda">Uganda</option>
-                                        <option value="Ukraine">Ukraine</option>
-                                        <option value="United Arab Emirates">United Arab Emirates</option>
-                                        <option value="United Kingdom">United Kingdom</option>
-                                        <option value="United States">United States</option>
-                                        <option value="Venezuela">Venezuela</option>
-                                        <option value="Vietnam">Vietnam</option>
-                                        <option value="Yugoslavia">Yugoslavia</option>
-                                        <option value="Wales">Wales</option>
-                                       <option value="Others">Others</option>
-                              
-                              </select></td>
-                            </tr>
-                            
-                            
-                            <!--<tr>
-                              <td height="58" align="left" valign="middle" class="form-text">City</td>
-                              <td align="left" valign="middle" class="form-text">:</td>
-                              <td align="left" valign="middle"><input id="City" class="field" type="text" placeholder="City" name="City"    />&nbsp; <img src="https://www.kenresearch.com/images/info-xxl.png" alt="info-icon" class="msg-display" > <p class="imp-msg">Company Name and Address is required for invoicing process. </p></td>
-                            </tr>-->
-                            
-                            <tr>
-                              <td class="form-text">Pin Code</td>
-                              <td class="form-text">:</td>
-                              <td><input id="PinCode" class="field" type="text" placeholder="Pin Code" name="PinCode"></td>
-                            </tr>
-                            
-                            
-                            
-                            
-                            
-                          <!--  <tr>
-                              <td height="40" align="left" valign="middle" class="form-text">Designation</td>
-                              <td align="left" valign="middle" class="form-text">:</td>
-                              <td align="left" valign="middle"><input id="CustDegi" class="field" type="text" placeholder="Designation" name="CustDegi" /></td>
-                            </tr>-->
-                            <tr>
-                              <td class="form-text">Validation:<span>*</span></td>
-                              <td class="form-text"></td>
-                              <td><input class="publish-deco01" type="text" name="captcha" id="captcha" maxlength="6" size="6">
-                                <img src="https://www.kenresearch.com/phpcaptcha/captcha.php" alt="captcha">&nbsp; <img src="https://www.kenresearch.com/images/info-xxl.png" alt="info-icon" class="msg-display"> <p class="imp-msg1">If validation code does not match, please refresh the page.</p></td>
-                            </tr>
-                            <tr>
-                              <td colspan="3" class="form-text checkbox_register"><input type="checkbox" name="neweSub" id="neweSub" checked="checked">
-                                Subscribe for the Newsletter</td>
-                            </tr>
-                            <tr>
-                              <td>&nbsp;</td>
-                              <td>&nbsp;</td>
-                              <td><input type="button" class="logbtn1" name="submit" id="ajaxcall" value="submit">
-                                <label>
-                                  <input type="reset" class="logbtn1" name="button2" value="Reset">
-                                </label></td>
-                            </tr>
-                          </tbody></table>
-                          
-                          </td>
-                          
-                          </tr></tbody></table>
-                        </form>
-                      </div></td>
-                  </tr>
-                </tbody></table>
-              </div>
-            </div>
-          </div>
-        </div>
-      </div>
-    </div>
+<tbody><tr>
+  <td class="form-text">Name<span>*</span></td>
+  <td class="form-text">:</td>
+  <td><input id="CustName" class="field" type="text" placeholder="User Name" name="CustName"></td>
+</tr>
+
+
+<tr>
+  <td class="form-text">Password<span>*</span></td>
+  <td class="form-text">:</td>
+  <td><input id="CustPass" class="field" type="password" placeholder="Password" name="CustPass"></td>
+</tr>
+<tr>
+  <td class="form-text">Confirm Password<span>*</span></td>
+  <td class="form-text">:</td>
+  <td><input id="CustConPass" class="field" type="password" placeholder="Confirm Password" name="CustConPass"></td>
+</tr>
+<tr>
+  <td class="form-text">Phone No.<span>*</span></td>
+  <td class="form-text">:</td>
+  <td><input id="Custphone" class="field" type="text" placeholder="Phone No." name="Custphone"></td>
+</tr>
+
+<tr>
+  <td class="form-text">Email Id<span>*</span></td>
+  <td class="form-text">:</td>
+  <td><input id="CustEmailId" class="field CheckEmailHead" type="email" placeholder="Email Id" name="CustEmailId">&nbsp; <img src="https://www.kenresearch.com/images/info-xxl.png" alt="info-icon" class="msg-display"> <p class="imp-msg">Provide corporate/ academic email id only. In case of personal email id, provide Linkedin profile link in the company address </p></td>
+</tr>
+
+<tr>
+  <td class="form-text">Company Name</td>
+  <td class="form-text">:</td>
+  <td><textarea name="CustCompanyName" class="field CheckEmailHead" id="CustCompanyName" placeholder="Company Name"></textarea> 		&nbsp; <img src="https://www.kenresearch.com/images/info-xxl.png" alt="info-icon" class="msg-display"> <p class="imp-msg">Company Name and Address is required for invoicing process. </p></td>
+</tr>
+<tr><td class="form-text">Company Address<span>*</span></td><td class="form-text">:</td><td><textarea name="CustCompanyAdd" class="field" id="CustCompanyAdd" placeholder="Company Address"></textarea> &nbsp; <img src="https://www.kenresearch.com/images/info-xxl.png" alt="info-icon" class="msg-display"> <p class="imp-msg">Company Name and Address is required for invoicing process. </p></td></tr>
+
+                         
+
+
+
+
+</tbody></table></td>
+<td><table class="register_table_form1">
+<tbody><tr><td class="form-text">Country<span>*</span></td><td class="form-text">:</td><td><select id="Country" class="field" name="Country"><option selected="" value="">Select</option><option value="Afghanistan">Afghanistan</option><option value="Algeria">Algeria</option><option value="Argentina">Argentina</option><option value="Australia">Australia</option><option value="Austria">Austria</option><option value="Bahamas">Bahamas</option><option value="Bangladesh">Bangladesh</option><option value="Barbados">Barbados</option><option value="Belgium">Belgium</option><option value="Belize">Belize</option><option value="Bermuda">Bermuda</option><option value="Bolivia">Bolivia</option><option value="Brazil">Brazil</option><option value="Brunei Darussalam">Brunei Darussalam </option><option value="Bulgaria">Bulgaria</option><option value="Canada">Canada</option><option value="Czech Republic">Czech Republic</option><option value="Chile">Chile </option><option value="China">China </option><option value="Colombia">Colombia</option><option value="Costa Rica">Costa Rica</option><option value="Croatia">Croatia</option><option value="Denmark">Denmark</option><option value="Dominican Republic">Dominican Republic</option><option value="Ecuador">Ecuador</option><option value="Egypt">Egypt</option><option value="Estonia">Estonia</option><option value="England">England</option><option value="Finland">Finland</option><option value="France">France</option><option value="Germany">Germany</option><option value="Guatemala">Guatemala</option><option value="Greece">Greece</option><option value="Honduras">Honduras</option><option value="Hong Kong">Hong Kong</option><option value="Hungary">Hungary</option><option value="Iceland">Iceland</option><option value="Ireland">Ireland</option><option value="India">India</option><option value="Indonesia">Indonesia</option><option value="Ireland">Iran</option><option value="Ireland">Ireland</option><option value="Israel">Israel</option><option value="Italy">Italy</option><option value="Jamaica">Jamaica</option><option value="Japan">Japan</option><option value="Jordan">Jordan</option><option value="Kenya">Kenya</option><option value="Kuwait">Kuwait</option><option value="Latvia">Latvia</option><option value="Lebanon">Lebanon</option><option value="Liechtenstein">Liechtenstein</option><option value="Lithuania">Lithuania</option><option value="Luxembourg">Luxembourg</option><option value="Malaysia">Malaysia</option><option value="Maldives">Maldives</option><option value="Malta">Malta</option><option value="Mexico">Mexico</option><option value="Monaco">Monaco</option><option value="Morocco">Morocco</option><option value="Nepal">Nepal</option><option value="Netherlands">Netherlands</option><option value="New Zealand">New Zealand</option><option value="Norway">Norway </option><option value="Pakistan">Pakistan</option><option value="Panama">Panama</option><option value="Paraguay">Paraguay</option><option value="Peru">Peru</option><option value="Philippines">Philippines</option><option value="Poland">Poland</option><option value="Portugal">Portugal</option><option value="Puerto Rico">Puerto Rico</option><option value="Qatar">Qatar</option><option value="Romania">Romania</option><option value="Russia">Russia</option><option value="Saudi Arabia">Saudi Arabia</option><option value="Scotland">Scotland</option><option value="Singapore">Singapore</option><option value="Slovenia">Slovenia</option><option value="South Africa">South Africa</option><option value="South Korea">South Korea</option><option value="Spain">Spain</option><option value="Sri Lanka">Sri Lanka</option><option value="Sweden">Sweden</option><option value="Switzerland">Switzerland</option><option value="Taiwan">Taiwan</option><option value="Thailand">Thailand</option><option value="Turkey">Turkey</option><option value="Uganda">Uganda</option><option value="Ukraine">Ukraine</option><option value="United Arab Emirates">United Arab Emirates</option><option value="United Kingdom">United Kingdom</option><option value="United States">United States</option><option value="Venezuela">Venezuela</option><option value="Vietnam">Vietnam</option><option value="Yugoslavia">Yugoslavia</option><option value="Wales">Wales</option><option value="Others">Others</option>  </select></td> </tr>
+<tr class="for_international"><td class="form-text">State<span>*</span></td><td class="form-text">:</td><td><input id="State" class="field" type="text" placeholder="State" name="State"> </td></tr>
+<tr class="for_india">
+  <td class="form-text">State Code</td>
+  <td class="form-text">:</td>
+  <td><select id="StateCodee" class="field" name="StateCodee"><option selected="" value="">Select State </option><option value="28-Andhra Pradesh">Andhra Pradesh(AP)</option><option value="35-Andaman and Nicobar Islands">Andaman and Nicobar Islands(AN)</option><option value="12-Arunachal Pradesh">Arunachal Pradesh(AR)</option><option value="18-Assam">Assam(AS)</option><option value="10-Bihar">Bihar(BR)</option><option value="04-Chandigarh">Chandigarh(CH)</option><option value="22-Chhattisgarh">Chhattisgarh(CG)</option><option value="26-Dadar and Nagar Haveli">Dadar and Nagar Haveli(DH)</option><option value="25-Daman and Diu">Daman and Diu(DD)</option><option value="07-Delhi">Delhi(DL)</option><option value="30-Goa">Goa(GA)</option><option value="24-Gujarat">Gujarat(GJ)</option><option value="06-Haryana">Haryana(HR)</option><option value="02-Himachal Pradesh">Himachal Pradesh	(HP)</option><option value="01-Jammu and Kashmir">Jammu and Kashmir(JK)</option><option value="20-Jharkhand">Jharkhand(JH)</option>
+<option value="29-Karnataka">Karnataka(KA)</option><option value="32-Kerala">Kerala(KL)</option><option value="31-Lakshadweep">Lakshadweep(LD)</option> <option value="23-Madhya Pradesh">Madhya Pradesh(MP)</option><option value="27-Maharashtra">Maharashtra(MH)</option><option value="14-Manipur">Manipur(MN)</option><option value="17-Meghalaya">Meghalaya(ML)</option><option value="15-Mizoram">Mizoram(MZ)</option><option value="13-Nagaland">Nagaland(NL)</option><option value="21-Odisha">Odisha(OR)</option><option value="34-Pondicherry">Pondicherry(PY)</option><option value="03-Punjab">Punjab(PB)</option><option value="08-Rajasthan">Rajasthan(RJ)</option><option value="11-Sikkim">Sikkim(SK)</option><option value="33-Tamil Nadu">Tamil Nadu(TN)</option><option value="36-Telangana">Telangana(TN)</option><option value="16-Tripura">Tripura(TR)</option><option value="09-Uttar Pradesh">Uttar Pradesh(UP)</option><option value="05-Uttarakhand">Uttarakhand(UK)</option><option value="19-West Bangal">West Bangal(WB)	</option></select></td>
+</tr><tr class="for_india"><td class="form-text">Place of Supply<span>*</span></td><td class="form-text">:</td> <td><input id="PlaceOfSupply" class="field" type="text" placeholder="Place of Supply" name="PlaceOfSupply"></td></tr> <tr class="for_india"><td class="form-text">GSTIN/Unique ID</td><td class="form-text">:</td><td><input id="GSTUniqueId" class="field" type="text" maxlength="15" placeholder="GSTIN/Unique ID" name="GSTUniqueId"></td></tr>
+
+ <tr><td class="form-text">Pin Code</td><td class="form-text">:</td><td><input id="PinCode" class="field" type="text" placeholder="Pin Code" name="PinCode"></td></tr>
+<tr><td class="form-text">Validation:<span>*</span></td><td class="form-text"></td><td><input class="publish-deco01" type="text" name="captcha" id="captcha" maxlength="6" size="6"><img src="https://www.kenresearch.com/phpcaptcha/captcha.php" alt="captcha">&nbsp; <img src="https://www.kenresearch.com/images/info-xxl.png" alt="info-icon" class="msg-display"> <p class="imp-msg1">If validation code does not match, please refresh the page.</p></td></tr>
+ <tr><td colspan="3" class="form-text checkbox_register"><input type="checkbox" name="neweSub" id="neweSub" checked="checked">Subscribe for the Newsletter</td></tr>
+<tr><td>&nbsp;</td><td>&nbsp;</td><td><input type="button" class="logbtn1 register_submit" name="submit" id="ajaxcall" value="submit"> <input type="reset" class="logbtn1" name="button2" value="Reset"></td>
+</tr></tbody></table></td></tr></tbody></table></form></div></td></tr></tbody></table>
+</div></div></div></div></div></div>
     <div class="modal fade" id="forgetPassword" tabindex="-1" role="dialog" aria-hidden="true">
       <div class="modal-dialog dialog">
         <div class="dialog">
@@ -1622,12 +1480,12 @@ $(document).ready(function(){
 
 <script type="application/ld+json">
 {
-   "@context": "http://schema.org",
+   "@context": "https://schema.org",
    "@type": "WebSite",
    "url": "https://www.kenresearch.com/",
    "potentialAction": {
      "@type": "SearchAction",
-     "target": "https://kenresearch.com/productsearch.html?q={search_term_string}",
+     "target": "https://kenresearch.com/productsearch.php?q={search_term_string}",
      "query-input": "required name=search_term_string"
    }
 }
@@ -1780,82 +1638,102 @@ $(document).ready(function(){
 <!------------------------company-profile-area start------------------------>
 
 <div class="company-profile-parallax">
-  <div class="container">
-<!--company start-->
-      <div class="company-main">
-       <span class="glyphicon glyphicon-user comp-icon" aria-hidden="true"></span> 
-        <div class="company-heading">Company</div>
- <div class="hr"></div>
-<ul>
-            <li><a href="https://www.kenresearch.com/index.php" target="_parent">Home</a></li>
-            <li><a href="https://www.kenresearch.com/about-us.php" target="_parent">About Us</a></li>
-            <li><a href="https://www.kenresearch.com/services.php" target="_parent">Services</a></li>
-            <li><a href="https://www.kenresearch.com/categories.php" target="_parent">Categories</a></li>
-            <li><a href="https://www.kenresearch.com/press-release.php" target="_parent">News</a></li>
-            <li><a href="https://www.kenresearch.com/contact-us.php" target="_parent">Contact Us</a></li>
-            <li><a href="https://www.kenresearch.com/careers.php" target="_parent">Careers</a></li>
-            <li><a href="https://www.kenresearch.com/rss-feed.php" target="_parent">RSS Feeds</a></li>
+  <div class="container"> 
+    <!--company start-->
+    <div class="company-main"> <span class="glyphicon glyphicon-user comp-icon" aria-hidden="true"></span>
+      <div class="company-heading">Company</div>
+      <div class="hr"></div>
+      <ul>
+        <li><a href="https://www.kenresearch.com/index.php" target="_parent">Home</a></li>
+        <li><a href="https://www.kenresearch.com/about-us.php" target="_parent">About Us</a></li>
+        <li><a href="https://www.kenresearch.com/services.php" target="_parent">Services</a></li>
+        <li><a href="https://www.kenresearch.com/categories.php" target="_parent">Categories</a></li>
+        <li><a href="https://www.kenresearch.com/press-release.php" target="_parent">News</a></li>
+        <li><a href="https://www.kenresearch.com/contact-us.php" target="_parent">Contact Us</a></li>
+        <li><a href="https://www.kenresearch.com/careers.php" target="_parent">Careers</a></li>
+        <li><a href="https://www.kenresearch.com/rss-feed.php" target="_parent">RSS Feeds</a></li>
+      </ul>
+    </div>
+    <!--company end--> 
+    <!--Quick link start-->
+    <div class="company-main"> <span class="glyphicon glyphicon-ok quick-icon" aria-hidden="true"></span>
+      <div class="company-heading">Quick links</div>
+      <div class="hr"></div>
+      <ul>
+        <li><a href="https://www.kenresearch.com/blog/" target="_blank">Blog</a></li>
+        <li><a href="https://www.kenresearch.com/product-type/market-research-report/1/All.html" target="_parent">Industry Reports</a></li>
+        <li><a href="https://www.kenresearch.com/product-type/equity-report/3/All.html" target="_parent">Equity Research Reports</a></li>
+        <li><a href="https://www.kenresearch.com/country-reports.php" target="_parent">Country Research Reports</a></li>
+        <li><a href="https://www.kenresearch.com/product-type/deal-directory/4/All.html" target="_parent">Deal Directory</a></li>
+        <li><a href="https://www.kenresearch.com/publishers.php" target="_parent">Publishers</a></li>
+        <li><a href="https://www.kenresearch.com/upcoming-publication.php" target="_parent">Upcoming Publication </a></li>
+        <li><a href="https://www.kenresearch.com/latest-publications.php" target="_parent">Latest Publications</a></li>
+      </ul>
+    </div>
+    <!--Quick link end--> 
+    <!--other link start-->
+    <div class="company-main"> <span class="glyphicon glyphicon-indent-left other-icon" aria-hidden="true"></span>
+      <div class="company-heading">Other Links</div>
+      <div class="hr"></div>
+      <ul>
+        <li><a href="https://www.kenresearch.com/discounted-reports.php" target="_parent">Discounted Reports</a></li>
+        <li><a href="https://www.kenresearch.com/discount.php" target="_parent">Discount Coupons</a></li>
+        <li><a href="https://www.kenresearch.com/media-releases.php" target="_parent">Media Releases</a></li>
+        <li><a href="https://www.kenresearch.com/testimonial.php" target="_parent">Testimonial</a></li>
+        <li><a href="https://www.kenresearch.com/terms&amp;conditions.php" target="_parent">Terms &amp; Conditions</a></li>
+        <li><a href="https://www.kenresearch.com/privacy-policy.php" target="_parent">Privacy Policy</a></li>
+        <li><a href="https://www.kenresearch.com/disclaimer.php" target="_parent">Disclaimer</a></li>
+        <li><a href="https://www.kenresearch.com/faqs.php" target="_parent">FAQ's</a></li>
+        <li><a href="https://www.kenresearch.com/site-map.php" target="_parent">SITE MAP</a></li>
+      </ul>
+    </div>
+    <!--other link end--> 
+    <!--Contact us start-->
+    <div class="contact-main"> <a href="https://www.kenresearch.com/contact-us.php" target="_parent"><span class="glyphicon glyphicon-envelope contact-icon2" aria-hidden="true"></span></a>
+      <div class="company-heading"><a href="https://www.kenresearch.com/contact-us.php" target="_parent">Contact Us</a></div>
+      <div class="hr"></div>
+      <a href="https://www.kenresearch.com/contact-us.php" target="_parent"><span class="glyphicon glyphicon-map-marker address-icon"></span></a>
+      <div class="add-text">Ken Research Private Limited, Unit 14, Tower B3, Spaze I Tech Business Park, Sohna Road, sector 49 <br>
+        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Gurgaon, Haryana  - 122001, India <br>
+      </div>
+      <!--<span class="glyphicon glyphicon-phone-alt ph-icon "></span><strong class="add-text">+91 1244230204</strong>--> 
+      <!-- <a href="https://www.kenresearch.com/contact-us.html" target="_parent"> <span class="glyphicon glyphicon-phone-alt ph-icon"></span></a>--> 
+      <!-- <div class="add-text"><a href="https://www.kenresearch.com/contact-us.html" target="_parent"></a></div>-->
+      <div class="hr"></div>
+      <span class="glyphicon glyphicon-comment follow-icon"></span>
+      <div class="follow-heading">Follow us</div>
+      <div class="hr follow-us-hr"></div>
+      <div class="socialIcon">
+        <ul>
+          <li class="likdin"><a href="https://www.linkedin.com/company/ken-research" target="_blank" title="linkedin"></a></li>
+          <li class="facebook"><a href="https://www.facebook.com/kenresearch" target="_blank" title="facebook"></a></li>
+          <li class="twitter"><a href="https://twitter.com/kenresearch" target="_blank" title="twitter"></a></li>
+          <li class="googleplus"><a href="https://plus.google.com/+KenResearch1/posts" target="_blank" title="google+"></a></li>
+          <li class="youtube"><a href="https://www.youtube.com/user/KenResearch11" target="_blank" title="youtube"></a></li>
+          <li class="printer"><a href="https://in.pinterest.com/KenResearch/" target="_blank" title="pintrest"></a></li>
         </ul>
       </div>
-     <!--company end-->
- <!--Quick link start-->
-     <div class="company-main">
- <span class="glyphicon glyphicon-ok quick-icon" aria-hidden="true"></span> 
- <div class="company-heading">Quick links</div>
- <div class="hr"></div>
-          <ul> 
-            <li><a href="https://www.kenresearch.com/blog/" target="_blank">Blog</a></li>
-            <li><a href="https://www.kenresearch.com/product-type/market-research-report/1/All.html" target="_parent">Industry Reports</a></li>
-            <li><a href="https://www.kenresearch.com/product-type/equity-report/3/All.html" target="_parent">Equity Research Reports</a></li>
-            <li><a href="https://www.kenresearch.com/country-reports.php" target="_parent">Country Research Reports</a></li>
-            <li><a href="https://www.kenresearch.com/product-type/deal-directory/4/All.html" target="_parent">Deal Directory</a></li>
-            <li><a href="https://www.kenresearch.com/publishers.php" target="_parent">Publishers</a></li>
-            <li><a href="https://www.kenresearch.com/upcoming-publication.php" target="_parent">Upcoming Publication </a></li>
-            <li><a href="https://www.kenresearch.com/latest-publications.php" target="_parent">Latest Publications</a></li>
-         </ul>
-      </div>
-     <!--Quick link end-->
-  <!--other link start-->
-     <div class="company-main">
-      <span class="glyphicon glyphicon-indent-left other-icon" aria-hidden="true"></span> 
-        <div class="company-heading">Other Links</div>
- <div class="hr"></div>
-  <ul>
- <li><a href="https://www.kenresearch.com/discounted-reports.php" target="_parent">Discounted Reports</a></li>
-  <li><a href="https://www.kenresearch.com/discount.php" target="_parent">Discount Coupons</a></li>
-			   <li><a href="https://www.kenresearch.com/media-releases.php" target="_parent">Media Releases</a></li>
-            <li><a href="https://www.kenresearch.com/testimonial.php" target="_parent">Testimonial</a></li>
-            <li><a href="https://www.kenresearch.com/terms&amp;conditions.php" target="_parent">Terms &amp; Conditions</a></li>
-            <li><a href="https://www.kenresearch.com/privacy-policy.php" target="_parent">Privacy Policy</a></li>
-            <li><a href="https://www.kenresearch.com/disclaimer.php" target="_parent">Disclaimer</a></li>
-            <li><a href="https://www.kenresearch.com/faqs.php" target="_parent">FAQ's</a></li>
-            <li><a href="https://www.kenresearch.com/site-map.php" target="_parent">SITE MAP</a></li>
-         </ul>
-      </div>
-     <!--other link end-->
-<!--Contact us start-->
- <div class="contact-main">
- <a href="https://www.kenresearch.com/contact-us.php" target="_parent"><span class="glyphicon glyphicon-envelope contact-icon2" aria-hidden="true"></span></a>
- <div class="company-heading"><a href="https://www.kenresearch.com/contact-us.php" target="_parent">Contact Us</a></div>
- <div class="hr"></div>
- <a href="https://www.kenresearch.com/contact-us.php" target="_parent"><span class="glyphicon glyphicon-map-marker address-icon"></span></a>
- <div class="add-text">Ken Research Private Limited, Unit 14, Tower B3, Spaze I Tech Business Park, Sohna Road, sector 49 <br>
-	 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Gurgaon, Haryana  - 122001, India <br> 
-	</div> <!--<span class="glyphicon glyphicon-phone-alt ph-icon "></span><strong class="add-text">+91 1244230204</strong>-->
-	 <!-- <a href="https://www.kenresearch.com/contact-us.html" target="_parent"> <span class="glyphicon glyphicon-phone-alt ph-icon"></span></a>-->
-     <!-- <div class="add-text"><a href="https://www.kenresearch.com/contact-us.html" target="_parent"></a></div>-->
-      <div class="hr"></div>
-     <span class="glyphicon glyphicon-comment follow-icon"></span><div class="follow-heading">Follow us</div><div class="hr follow-us-hr"></div><div class="socialIcon">
-<ul><li class="likdin"><a href="https://www.linkedin.com/company/ken-research" target="_blank" title="linkedin"></a></li><li class="facebook"><a href="https://www.facebook.com/kenresearch" target="_blank" title="facebook"></a></li><li class="twitter"><a href="https://twitter.com/kenresearch" target="_blank" title="twitter"></a></li><li class="googleplus"><a href="https://plus.google.com/+KenResearch1/posts" target="_blank" title="google+"></a></li><li class="youtube"><a href="https://www.youtube.com/user/KenResearch11" target="_blank" title="youtube"></a></li><li class="printer"><a href="https://in.pinterest.com/KenResearch/" target="_blank" title="pintrest"></a></li></ul>
-         </div>
-      </div>
-     <!--Contact us end-->
-   </div>
-   </div>
+    </div>
+    <!--Contact us end--> 
+  </div>
+</div>
+<!--GOOGLE ANALYTICS START-->
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+  ga('create', 'UA-80329604-1', 'auto');
+  ga('send', 'pageview');
+</script>
+
+<!--GOOGLE ANALYTICS END-->
+
 <!------------------------company-profile-area End------------------------> 
 
 <!---Download three icons area start-->
 
+<script src="https://www.google.com/recaptcha/api.js"></script>
 <!--Download three icons area start-->
 <div class="download-parallax">
 <div class="container">
@@ -2073,7 +1951,10 @@ $(document).ready(function(){
             <td class="form-text">Validation:</td>
           </tr>
           <tr>
-            <td> <input class="publish-deco01" type="text" name="captcha" id="captcha" maxlength="6" size="6"><img src="https://www.kenresearch.com/phpcaptcha/captcha.php" alt="captcha"> &nbsp; <img src="https://www.kenresearch.com/images/info-xxl.png" alt="info-icon" class="msg-display"> <p class="imp-msg1">If validation code does not match, please refresh the page.</p></td>
+            <td>  <div class="g-recaptcha" data-sitekey="6LelFJAUAAAAAP7fP6bIwqgiEImv5oOrwt6P0sE0"></div>
+            <!--<input class="publish-deco01" type="text" name="captcha" id="captcha" maxlength="6" size="6"/><img src="https://www.kenresearch.com/phpcaptcha/captcha.php" alt="captcha"/> &nbsp; <img src="https://www.kenresearch.com/images/info-xxl.png" alt="info-icon" class="msg-display" > <p class="imp-msg1">If validation code does not match, please refresh the page.</p>--></td>
+            
+           
           </tr>
         </tbody></table></td>
       </tr>
@@ -2463,6 +2344,7 @@ return false;
 function ApplyJob() {
 var form = document.applyjob;
 var dataString = $(form).serialize();
+//alert(dataString);
 $.ajax({
 	type:'POST',
     url:'https://www.kenresearch.com/carrier_ajax.php',
