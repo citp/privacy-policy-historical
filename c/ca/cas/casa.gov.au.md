@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the casa.gov.au privacy policy that was archived on 2018-09-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180925044035id_/https%3A//www.casa.gov.au/about-us/standard-page/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the casa.gov.au privacy policy that was archived on 2019-03-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190328081538id_/https%3A//www.casa.gov.au/about-us/standard-page/privacy-statement) for the most accurate reproduction.*
 
 # Privacy statement | Civil Aviation Safety Authority
 
@@ -23,6 +23,15 @@ This following list explains what sort of information we collect when you go to 
 
 
 By using our website, you consent to us using your information in accordance with this document.
+
+### Disclosing personal information
+
+Before CASA discloses personal information to a person, CASA will take reasonable steps to verify that persons identity.
+
+  1. If communicating with an authorisation holder, whether by telephone or email, a CASA officer will verify the person’s identity by obtaining their ARN number, current address and date of birth if personal information about the person is proposed to be disclosed – upon provision of this information, CASA will cross reference it against information held by CASA in its licensing database.
+  2. If communicating with a member of the public, whether by telephone or email, CASA will verify their identity in some way (for example, if their only contact with CASA was by email, it could be to ask for the email address).
+
+
 
 Each time you visit CASA’s website, our web server collects the following information:
 
@@ -86,6 +95,16 @@ The type of information we collect from you will depend on what online services 
 When responding to items displayed in our website we may request (for example, in an order form), and you may provide personal information such as your name and address, email address and contact phone numbers. In the forms we will usually tell you how we use the personal information we collect, who we give access to that information and how you can access it, if we have retained it.
 
 We will only record your e-mail address if you send us a message or enter it into a form on our site. It will only be used for the purpose for which you have provided it and we will not disclose it without your consent.
+
+### Publication of authorisation holder details
+
+CASA may publish details about authorisation holders. This may include publishing:
+
+  1. the name of the holder
+  2. the address of the holder
+  3. the type of authorisation held by the holder including a copy of the authorisation, or a summary of it.
+
+
 
 ### Login Accounts
 
