@@ -1,92 +1,72 @@
-> *The following text is extracted and transformed from the harrietcarter.com privacy policy that was archived on 2018-03-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180323182237id_/http%3A//www.harrietcarter.com/pages/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the harrietcarter.com privacy policy that was archived on 2019-03-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190328122718id_/https%3A//www.harrietcarter.com/am_privacy.html) for the most accurate reproduction.*
 
-# Privacy Statement - Information - Harriet Carter
+# Privacy Policy | Harriet Carter
 
-HarrietCarter.com has created this privacy statement because we believe you have a right to a safe, secure online shopping experience. We are committed both to protecting your privacy and informing you how information from you will be used. If you still have concerns or questions after reading this policy, please let us know. We'll do all we can to make you feel comfortable at HarrietCarter.com.
+Welcome to the Harriet Carter website, operated by AmeriMark Direct LLC ("Harriet Carter," "we," or "our") and located at [www.harrietcarter.com](https://web.archive.org/). 
 
-**When I visit HarrietCarter.com, what information is gathered about me and why?**
+At Harriet Carter, we value our customers and are committed to protecting their privacy and informing them as to how their personal information will be used. We collect customer information in an effort to improve your shopping experience and to communicate with you about our products, services, contests and promotions. We recognize that we must maintain and use customer information responsibly. Harriet Carter has created this Privacy Policy to address Harriet Carter's practices regarding information collected from visitors to the Site. 
 
-Harriet Carter does collect certain customer information. We use this information to process orders, enhance your shopping experience and communicate with our customers.
+This Privacy Policy only addresses information collected directly through or from the Site - it does not address or govern any information-gathering, use, or dissemination practices related to information collected from you (sometimes referred to as a "visitor," "user," "you," or "your") other than directly through or from the Site, such as from telephone, facsimile, postal mail, personal delivery, or other or additional offline means or media. 
 
-We use order forms that allow you to buy our products. We collect your name, e-mail address, postal address, and credit card information. This information is used to process and send orders. We also use this information to contact you in case there is a question or problem with an order.
+This Privacy Policy is incorporated into Harriet Carter's [ Terms of Use](https://web.archive.org/terms-of-use.html), which must be reviewed and accepted by you as a condition of use of the Site. The Site is not intended for children under the age of 18. It does not knowingly collect personal information online from visitors in this age group, and will delete information from a person in that age group as quickly as possible upon receipt of notice that such information has been collected. 
 
-When you enter a contest or other promotional feature, we may collect your name, e-mail address, and other demographic information, such as zip code, age, or income level. We use this contact information to send you information about our company and to contact you, if you indicate an interest.
+If you have any questions concerning this Privacy Policy, please contact Harriet Carter through the [Contact Customer Service](https://web.archive.org/am_feedback.html) form or by telephone at 1-877-268-9594. 
 
-We also use data collected when you register, enter a contest, and make purchases to enhance and personalize your shopping experience. If you give us permission or place an order on HarrietCarter.com, we will send you email about our latest updates, product offerings and sales events. You can opt-out of these emails anytime by clicking on the ["unsubscribe" link](https://web.archive.org/subscription_frequency) at the bottom of every promotional email, or send an empty email to [customerservice@harrietcarter.com](mailto:customerservice@harrietcarter.com) with "unsubscribe" in the subject line.
+**Collection of Information**
 
-We use your IP address to help diagnose problems with our server and to administer this website. We log IP addresses for the purposes of system administration, to track a user's specific client, or to investigate cases of fraud or other security violations on our site. Any personally identifiable information contained in our IP address logs will be treated with the same respect for your privacy that order and registration information is treated.
+We only collect personal information that is relevant to the purpose of the Site. This information allows us to provide you with a customized and efficient experience. We receive and store any information you submit to us through our Site or provide to us in any other way. You can choose not to provide us with certain information (as addressed below), but then you may not be able to take advantage of many of our special features. For example, if you make a purchase using a credit card, we will need to collect information such as your credit card number and billing address to complete that transaction. 
 
-**What Are Cookies and Should I Worry About Them?**
+We receive and store certain types of information whenever you interact with us. Harriet Carter and its authorized agents automatically receive and record certain "traffic data" on their server logs from your browser including your IP address, cookie information, and the page you requested. Harriet Carter uses this information to help diagnose problems with its servers, analyze trends and administer the Site. Harriet Carter may also collect and display the total counts that page has been viewed. Many companies offer programs that help you to visit websites anonymously. While Harriet Carter will not be able to provide you with a personalized experience if we cannot recognize you, we want you to be aware that these programs are available. 
 
-Cookies are small pieces of information that many web sites use to make online navigation easier. This data is contained on your hard drive in a file, which your web browser provides for the purpose. A cookie can contain information such as a user ID. Our site can't read other data on your hard drive or read cookies created by other sites. You do not need to have cookies turned on to view our site, but you will need to accept cookies to register or place an order.
+Cookies are alphanumeric identifiers that we transfer to your computer's hard drive through your web browser to enable our systems to recognize your browser and tell us how and when pages of the Site are visited and by how many people. Our cookies do not collect personally identifiable information. The "help" portion of the toolbar on the majority of browsers will direct you on how to prevent your browser from accepting new cookies, how to command the browser to tell you when you receive a new cookie, or how to fully disable cookies. Harriet Carter does not override these settings or options, including any "Do Not Track" settings. However, if you utilize the aforementioned privacy features, you may be unable to obtain certain content, features, services, products, or benefits on the Site. 
 
-Our site does use cookies to keep track of your shopping cart. We also use cookies to help make your shopping experience more enjoyable and if you choose to register with us or request to receive email, we will use cookies to deliver content specific to your interests.
+**Use of Information Collected**
 
-If you do not wish for cookies or pixel tags to be placed on your computer, most commercially available web browsers permit you to prevent that from taking place.
+Personal information collected by Harriet Carter may be used by Harriet Carter for limited purposes, including recordkeeping, editorial and feedback purposes, content improvement, or to customize the content and layout of the Site. Personally identifying information, such as names, postal and e-mail addresses, phone numbers, and other personal information voluntarily provided to Harriet Carter may be added to Harriet Carter's databases and used for future contact regarding updates to the Site or new services provided by Harriet Carter. From time to time, Harriet Carter may need to contact you concerning information you submitted to Harriet Carter. You agree that Harriet Carter may use your personal information for such contact with you. Harriet Carter may also send out e-mails with news, products, offers, surveys or promotions that Harriet Carter believes may be of interest to you. 
 
-**Who Else Has Access to the Information I Provide to HarrietCarter.com?**
+Except as specifically set forth herein, any personally-identifying information that you provide to Harriet Carter through the Site will not be disclosed to other third party entities not affiliated with Harriet Carter.Harriet Carter personnel and authorized consultants and/or contractors may have access to user information if necessary in the normal course of Harriet Carter's business. In some cases, we may choose to buy or sell assets. In these types of transactions, user information is typically one of the business assets that is transferred. Moreover, if Harriet Carter, or substantially all of its its assets, were acquired, user information would be one of the assets transferred. Your personal information and data, whether personally identifying or not, may also be provided to third parties that contract with us to provide products, information or other services that we believe that visitors to the Site may be interested in obtaining. We may also release personal information when we believe in good faith that release is necessary to comply with a law; to enforce or apply our [ Terms of Use](https://web.archive.org/terms-of-use.html) and other policies; or to protect the rights, property, or safety of Harriet Carter, our employees, our users, or others. This includes exchanging information with other companies and organizations for fraud protection and credit risk reduction. 
 
- _Mailings_
+**Access and Opt-Out Rights**
 
-Once you make a purchase from HarrietCarter.com your name becomes a part of our customer file. As a valued Harriet Carter customer you may want to receive catalog mailings from us in the future. If you do not wish to receive such mailings, please send an email to our Customer Service Department or send the mailing label from the back of your catalog and attach it to a piece of paper with your request. Mail this information to Mail Preference Service, Harriet Carter Gifts, Inc., 425 Stump Road, North Wales, PA 19454.
+Upon your request, Harriet Carter will provide you with a summary of any personal information retained by Harriet Carter that has been voluntarily provided by you to Harriet Carter through email, contact forms, or other online avenues. 
 
-You may also receive mailings from other carefully screened companies with whom we sometimes share our valued customer list. If you would prefer not to receive these mailings, please send an email to our Customer Service Department, or write us at: Mail Preference Service, Harriet Carter Gifts, Inc., 425 Stump Road, North Wales, PA 19454.
+Except as necessary to obtain the services or information requested, you may opt out of having your personal information prospectively retained by Harriet Carter or used by Harriet Carter for secondary purposes, by contacting Harriet Carter through one of the contact methods set forth above. Moreover, you may modify, correct, change, update, and, if you are under the age of 18 and accessed this Site in violation of the Harriet Carter[ Terms of Use](https://web.archive.org/terms-of-use.html), delete your personal information retained by Harriet Carter by contacting Harriet Carter through the [Contact Customer Service](https://web.archive.org/am_feedback.html) form or by telephone at 1-877-268-9594. Please note, however, that in order to access certain content, features, services, products or benefits on the Site, you may be required to provide Harriet Carter with certain information, including some types of personally identifiable information. If you do not wish to provide such information or if you opt to utilize the aforementioned privacy features, you may be unable to obtain certain content, features, services, products, or benefits on the Site. This provision does not apply to collection of the type of web browser used to visit the Site or to information provided or collected that does not meet the description hereunder. 
 
-_Email_
+**Third Party Websites**
 
-Harriet Carter **does not sell or rent your email address**.
+The Site may also contain links to third party websites. The Site may contain links to other websites for the convenience of users in locating information, products, or services that may be of interest. If you access a third party website from a link on this Site, any information you disclose on that website is not subject to this Privacy Policy. It is possible that these links may be used by third parties or others to collect personal or other information about you. Harriet Carter is not responsible for the privacy practices of such websites, advertisers, or third parties or the content of such websites and it is your sole obligation to review and understand the privacy practices and policies of these other websites. Harriet Carter does not control these third parties' use of cookies, collection of information, or how they manage such information. It is solely your obligation to review and understand the privacy practices and policies of these other websites, advertisers and any third parties. 
 
- _Third Party_
+**Third Party Ads**
 
-Another form of third party information that may be used is personally identifiable information submitted for another person by you. For instance, if you want to buy a gift for a friend and have it shipped to them. Other than that, HarrietCarter.com does not sell, rent, or give away your personal information to anyone. Also, we may release account information when we believe, in good faith, that such release is reasonably necessary to: 
+We use third party service providers to serve ads on our behalf across the Internet and sometimes on this site. These companies may use information (not including your name, address, email address or telephone number) about your visits to this Site and other websites in order to provide advertisements on our Site, other websites and other forms of media about goods and services of interest to you. This anonymous information is collected through the use of pixel tags or similar technologies which are industry standard technologies used by most major web sites. You can also read more about online marketing practices and the technologies that support them by visiting the [Network Advertising Initiative's website](http://www.networkadvertising.org/). If you would like to know your choices about not having this information used by these companies, check out [Network Advertising.org](http://www.networkadvertising.org/choices/). 
 
-1\. Comply with the law,   
-2\. Enforce or apply the terms of any of our user agreements or   
-3\. Protect the rights, property, or safety of HarrietCarter.com and our users, or others.
+In addition, we may from time to time contract with third party vendors to serve ads to our customers on our behalf across the Internet or to send our catalogs to customers whom we think may be interested in our products or services. To do this, the vendors will collect anonymous information about your visits to our Web site and your interaction with our products and services. This anonymous information is collected through the use of a cookie or pixel tag - industry standard technology used by most major Web sites. No personally identifiable information is collected in this process. They may also pool the anonymous information that they collect with other sources of information not collected during your visit to our website, which may include your name and mailing address, for purposes of determining whether you might be interested in receiving a catalog. 
 
-We may from time to time contract with third party vendors to serve ads to our customers on our behalf across the Internet or to send our catalogs to customers whom we think may be interested in our products or services. To do this, the vendors will collect anonymous information about your visits to our Web site and your interaction with our products and services. This anonymous information is collected through the use of a cookie or pixel tag – industry standard technology used by most major Web sites. No personally identifiable information is collected in this process. They may also pool the anonymous information that they collect with other sources of information not collected during your visit to our website, which may include your name and mailing address.
+If you do not wish for cookies or pixel tags to be placed on your computer, most commercially available web browsers permit you to prevent that from taking place. To opt-out of receiving our catalogs, you may send us an email at [custserv@amerimark.com](mailto:custserv@amerimark.com) or call us at 1-800-377-7878. 
 
-By signing up for the Harriet Carter Advantage third party program offered on our Web site, you will be providing your information to the host of that program for the fulfillment and processing of that program's benefits and services.
+We, or a data provider we have engaged, may place or recognize a unique cookie on your browser to enable you to receive customized ads, content or services. No personally identifiable information is placed into these cookies. The cookies may reflect de-identified demographic or other data linked to data you voluntarily have submitted to us, e.g., your email address, in hashed, non-human readable form. To opt-out of these cookies or learn more please go to <http://www.networkadvertising.org/managing/opt_out.asp>. 
 
-_When you complete the mailing address section on "My Account"…_   
-If you elect to have HarrietCarter.com retain frequent mailing addresses in our database, these individual(s) are not considered Harriet Carter customers, and they will not be added to our catalog mailing list.
+Additionally, emails we send may contain a bit of code known as a "web beacon." This code allows us to understand the time and date of when a user has opened an email and when he/she has utilized a link within the email to visit a website. Our web beacons do not collect personally identifiable information. Users wishing to disable our web beacons should do so by turning images "off" in their email client (e.g., Outlook, Outlook Express). Please see your email client for more information. 
 
-_When you use the "Email-A-Friend" option..._   
-This unique feature allows you to share information about a particular item or wish list that you think may be interesting to another individual. We do not retain your friend's name or email address, share their information with outside parties, nor does Harriet Carter contact them. However, if this individual purchases any of the items from HarrietCarter.com, whether these items appear on your wish list or not, this individual becomes a customer of Harriet Carter and we will include their name on the mailing list of customers for our catalog.
+**Children's Information**
 
-**How Do I Manage How Much Information I Share or if I Share Any At All?**
+We are committed to protecting the privacy of children. The Site is not designed or intended to attract children under the age of 18. We do not collect personally identifiable information from any person we actually know is under the age of 18. 
 
-You can opt out of receiving e-mail and other communications from us. Here's how: 
+**Changes to this Privacy Policy**
 
-You can send an email to: [customerservice@harrietcarter.com](mailto:customerservice@harrietcarter.com)   
-You can mail your request to the following postal address:   
-Harriet Carter Gifts, Inc.   
-425 Stump Rd   
-North Wales, PA. 19454 
+We may change this Privacy Policy at any time by posting revisions to this Site. Your continued use of this Site after any changes have been posted indicates your agreement to the revised terms. Accordingly, we urge you to review this Privacy Policy at the start of each use of this Site. We will also list the date of the last revision at the bottom of the Privacy Policy. 
 
-When you create a "My Account" on HarrietCarter.com, the mailing information you provide is intended to make your checkout process easier. If you have a change of address, simply log on to your account on the website, and update your personal information. In order to change the address a catalog is mailed to, simply:
+**Confidentiality and Security**
 
-Email: [customerservice@harrietcarter.com](mailto:customerservice@harrietcarter.com)   
-Mail: Harriet Carter Gifts, Inc., 425 Stump Rd, North Wales, PA. 19454 
+We use modern technology to protect the information you submit. All personally identifiable user information is stored on secured servers and behind a firewall. However, no security system is completely impenetrable, so we cannot guarantee the absolute security of our database, nor can we guarantee that information you supply won't be intercepted while being transmitted to us over the Internet. Harriet Carter is not responsible for the security of information transmitted via the Internet. 
 
-Please provide your old mailing address as well as your new mailing address. 
+**Your California Privacy Rights**
 
-Placing an order does not create an account. Creating an account does not automatically add your email address, unless you specifically request it, to the promotional email list. HarrietCarter.com adopts an "opt-in" mentality to all promotional information. When you place an order on HarrietCarter.com, your email address is added to our customer list, therefore you will receive promotional emails and future catalog mailings. Otherwise, you must specifically request promotional emails through the email sign-up box located on every page at HarrietCarter.com.
+California Civil Code Section 1798.83 (also known as the "Shine The Light" law) permits users who are California residents to request and obtain from us once a year, free of charge, information about the personal information (if any) we disclosed to third parties for direct marketing purposes in the preceding calendar year. If applicable, this information would include a list of the categories of personal information that was shared and the names and addresses of all third-parties with which we shared information in the immediately preceding calendar year. If you are a California resident and would like to make such a request, please submit your request to: 
 
-**What is HarrietCarter.com Doing to Protect My Privacy?**
+Harriet Carter - California Privacy Rights  
+Attn: E-Commerce Department  
+PO box 7824  
+Edison, NJ 08818 
 
-This site has security measures in place to protect from the loss, misuse, and alteration of information under our control. Our servers use encrypted methods for those pages that contain personally identifiable data, including your credit card and address. We routinely and zealously monitor and upgrade our security systems to ensure that we use the best security technology available.
-
-We at HarrietCarter.com are sincerely committed to a safe and secure web experience for our visitors.
-
-There are certain steps within a normal purchase routine that require the web servers to send an automated email to confirm that a process you requested has been completed. This includes, but is not limited to:
-
-Emailing your password after you have registered for an account   
-Emailing a confirmation of your order after your have clicked "Place Order"   
-Emailing information regarding status of a pending order.
-
-These emails are not promotional in nature, they are necessary communications to assure you, our customer, that your order has been received and processed. If you prefer that these required emails are sent to a specific address (for example, you would prefer not to receive these at your place of business) use a personal email address when the forms on the site require one. This includes, but is not limited to:
-
-Username and password on "My Account" ( **we do not retain credit card information** on "My Account")   
-Return Email address on Customer Service Form   
-Requested email address on the checkout pages
+Revised 03/28/2019 
