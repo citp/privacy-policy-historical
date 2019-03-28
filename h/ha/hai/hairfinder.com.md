@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hairfinder.com privacy policy that was archived on 2018-03-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180328181952id_/https%3A//www.hairfinder.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hairfinder.com privacy policy that was archived on 2019-03-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190328183007id_/https%3A//www.hairfinder.com/privacy.htm) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -15,6 +15,8 @@ A cookie is a piece of data stored on the users computer tied to information a
 #### Advertisers
 
 We use outside ad companies to display ads on our site. These ads may contain cookies and/or web beacons and are collected by the ad companies, and we do not have access to this information. We work with the ad companies: Google Adsense, etc. Please check their websites for respective privacy policies.Third party advertising companies may also collect information about other sites you have visited in order to display appropriate advertisements on this site.
+
+Exponential Interactive, Inc, as our partner, have a legitimate interest to collect and profile personal data in the form of IP address and cookie ID from users on our website in order to provide targeted online advertising and ad measurement. For more details including opt-out requests, access requests or complaints, please review their [privacy policy](http://exponential.com/privacy/) or contact their data protection officer via [privacy@exponential.com](mailto:privacy@exponential.com). Exponential Interactive cookie details: Cookie Name = ANON_ID, Sort by (Domain)= tribalfusion.com, Function = The anonymous hashed id in the cookie links the web user's browser to a profile which contains the behaviors the user has displayed, Party = Third, Class = tracking, Type = Persistent, Expiry = 3 months. 
 
 #### Contact
 
