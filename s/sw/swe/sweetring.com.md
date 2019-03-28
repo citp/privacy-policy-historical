@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sweetring.com privacy policy that was archived on 2018-10-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181031031454id_/https%3A//www.sweetring.com/rules/rules_privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sweetring.com privacy policy that was archived on 2019-03-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190328113033id_/https%3A//www.sweetring.com/rules/rules_privacy_policy.php) for the most accurate reproduction.*
 
 # SweetRing｜Joining SweetRing and find your ideal match nearby.
 
