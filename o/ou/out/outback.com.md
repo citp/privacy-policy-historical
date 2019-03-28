@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the outback.com privacy policy that was archived on 2018-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181215154317id_/https%3A//www.outback.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the outback.com privacy policy that was archived on 2019-03-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190328021309id_/https%3A//www.outback.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Outback Steakhouse
 
