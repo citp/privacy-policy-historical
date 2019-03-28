@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the sleepopolis.com privacy policy that was archived on 2018-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181227102448id_/https%3A//sleepopolis.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sleepopolis.com privacy policy that was archived on 2019-03-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190328115920id_/https%3A//sleepopolis.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Sleepopolis
 
-Effective May 26th, 2018  
+Effective March 7th, 2019  
 PRIVACY POLICY
 
 ## 1\. Introduction
@@ -252,7 +252,7 @@ This Site is intended for use by adults. We do not target, or knowingly collect 
 
 ## 9.ACCOUNTABILITY
 
-We are committed to adhering to our privacy policy and applicable laws and to making your online experience secure and valuable. If you have a question, request, complaint, dispute or concern related to this privacy policy, you may send a message by email to [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection) or in writing to Sleepopolis LLC, Attn: Privacy, 55 Washington Street #322, Brooklyn, NY, 11201. We will work with you to obtain a prompt resolution of any issues you may have.
+We are committed to adhering to our privacy policy and applicable laws and to making your online experience secure and valuable. If you have a question, request, complaint, dispute or concern related to this privacy policy, you may send a message by email to [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection) or in writing to Attn: Sleepopolis, 55 Washington Street #322, Brooklyn, NY, 11201. We will work with you to obtain a prompt resolution of any issues you may have.
 
 If you have any questions about this Privacy Policy, please contact us.
 
