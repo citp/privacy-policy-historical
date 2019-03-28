@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mixthatdrink.com privacy policy that was archived on 2018-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181227023133id_/https%3A//mixthatdrink.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mixthatdrink.com privacy policy that was archived on 2019-03-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190328051958id_/https%3A//mixthatdrink.com/privacy) for the most accurate reproduction.*
 
 # Privacy | Mix That Drink
 
@@ -60,6 +60,18 @@ www.target.com
  **External Links**
 
 MixThatDrink contains links to other sites. MixThatDrink is not responsible for the privacy practices or the content of such Web sites.
+
+ **Social Sharing**
+
+MixThatDrink embeds a Facebook widget to allow you to “like” our webpages. This widget may collect your IP address, your web browser User Agent, store and retrieve cookies on your browser, embed additional tracking, and monitor your interaction with the widget, including correlating your Facebook account with whatever action you take within the widget (such as “liking/sharing/recommending” our webpage), if you are logged in to Facebook. For more information about how this data may be used, please see Facebook’s data privacy policy: https://www.facebook.com/about/privacy/update
+
+MixThatDrink uses a Twitter Tweet widget. As a result, our website makes requests to Twitter’s servers for you to be able to tweet our webpages using your Twitter account. These requests make your IP address visible to Twitter, who may use it in accordance with their data privacy policy: https://twitter.com/en/privacy#update
+
+MixThatDrink uses the Pinterest Save widget at our website to allow you to pin images to Pinterest from our webpages. These requests may track your IP address in accordance with their data privacy policy: https://policy.pinterest.com/en/privacy-policy
+
+MixThatDrink uses the Reddit Badge widget at our website which may log information when you interact with the widget. This may include your IP address, user-agent string, browser type, operating system, referral URLs, device information (e.g., device IDs), pages visited, links clicked, user interactions (e.g., voting data), the requested URL and hardware settings, in accordance with their privacy policy: https://www.redditinc.com/policies/privacy-policy
+
+MixThatDrink uses theStumbleUpon Badge widget at our website which may log information when you interact with the widget. Log Data is a form of Non-Identifying Information, in accordance with their privacy policy: https://mix.com/privacy
 
  **Security**  
 MixThatDrink has security measures in place to protect the loss, misuse, and alteration of the information under our control.
