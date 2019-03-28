@@ -1,27 +1,84 @@
-> *The following text is extracted and transformed from the churchtrac.com privacy policy that was archived on 2011-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111205000925id_/http%3A//www.churchtrac.com/privacy_policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the churchtrac.com privacy policy that was archived on 2019-03-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190328181037id_/https%3A//www.churchtrac.com/privacy_policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy | ChurchTrac - Church Management Software - ChMS
 
-We are very concerned about your privacy. This privacy statement has been created in order to demonstrate our commitment to your privacy. The following discloses our information gathering and dissemination practices for this website.
+ChurchTrac Software, Inc. ("ChurchTrac") is concerned about your privacy and the security of your data. This privacy statement has been created in order to demonstrate our commitment to you and your data. This document discloses our policies and practices regarding the handling of your data and other information. This policy covers, without limitation, all software, applications, products, and technical support from the ChurchTrac family of websites, which include but may not be limited to: churchtraconline.com, churchtrac.com, and worshiptrac.com. By using our websites, products, or services ("Website"), you are agreeing to be bound by the following privacy policy. We reserve the right to change these policies without notice. If you do not agree to these policies, your only recourse is to not use the Website. 
 
-We gather basic information about you, such as name, church name, email address, mailing address, and telephone when you request information, download software, or request that software be mailed to you. _The contact information you submit is never shared with a third party under any circumstances_. The company that hosts our website may also record your IP address in order to provide us with site statistic information (i.e., the number of people who visit each page of our site).
+The phrase "Your Church" refers jointly to you (an individual) and the organization you represent, together with any and all users, members, representatives, employees or agents of the organization who access the Website. Your Church may be referred to generically as "you" or "your" or "your church". Your access to the Website is provided through your account ("Account") with us. We collect basic information ("Personal Information") about you for the purpose of providing our products and technical support. This information includes but may not be limited to the following: your name, church name, email address, IP address and phone number. We collect this information whenever your create a paid or trial account with us, or when you request support from us. This information is never shared with or transmitted to a third party. We may use your information for the purpose of responding to your inquiries, for follow up, for sending of payment notices, or for sending other notices regarding product features, service notices, special pricing or promotions that you may be eligible to receive.
 
-We use the information you provide to us to send you information about our products and services. From time to time we will use the information we collected from you to supply you with information about program updates, enhancements, new product offerings, or special pricing or promotions. If at any time you wish to be removed from our mailing list, please let us know.
+We use third-parties to assist us providing you with a variety of services while using the Website. When you subscribe to receive any of these services, we will share your Personal Information only as necessary with the third-party solely for the purpose of providing that service. These third parties have been strictly audited to verify that their security and practices meet the requirements of ChurchTrac.
 
-When you purchase a product from our website, we refer you to the Authorize.net site in order to collect payment. Authorize.net does not reveal your credit card information to us, and we never have access to this information. After you have completed the checkout process at the Authorize.net site, Authorize.net sends a receipt of the transaction to you and to us, and we are never privy to the information you provide to them.
+We use "cookies" on this Website. A cookie is a piece of data stored on your device to help us improve your access to our site and identify repeat visitors to our site. For instance, when we use a cookie to identify you, you would not need to input a password more than once, thereby saving time while using the Website. Cookies can also enable us to track and target the interests of our users to enhance the experience on our site. Usage of a cookie is in no way linked to any personally identifiable information on our site.
 
-From time to time we may ask website or ChurchTrac users to respond voluntarily to a survey in order to help us improve our products and services. Any information collected will be kept confidential and not shared with any third parties. This information is used internally for the sole purpose of providing better products and services to our customers.
+We may use both session cookies (which expire once you close your web browser) and persistent cookies (which stay on your computer until you delete them) and other technologies to help us collect information such as IP address, browser type, operating system, access times, referring/exit web site addresses, and other data ("Other Information") to enhance your experience using the Sites.  We may use cookies for various purposes, including:
 
-Unless you request otherwise within your communication with us, we may extract brief excerpts from complimentary emails that you send for use on our website testimonials on in advertising. Your name may be used in connection with your quote to ensure the testimony's validity. In order to guarantee the authenticity and sincerity of such quotes, we do not compensate anyone for providing testimonies. You may ask us to remove a quote that is attributed to you from our web site or from our advertising at any time, and we will comply with your request voluntarily and remove it as soon as possible.
+  * To help you navigate the Website.
+  * To facilitate the sign up and login process for our service.
+  * To personalize your experience.
+  * To analyze which pages are visited most frequently.
+  * To provide features such as social sharing widgets and videos.
+  * To measure advertising and promotional effectiveness.
 
-In general, we do not send email to anyone who has not purchased, downloaded, or requested a CD from us. We currently host our email list through Vertical Response, and they ensure we only send emails to customers who have opted to receive emails from ChurchTrac. To ensure your receipt of emails from us, you should add churchtrac.com to your address book or spam filter white list.
 
-If you provide a phone number, we use this information to contact you only when you require assistance that cannot be provided through email, when you request we contact you by phone, or when we are unable to respond to your support requests via email. We will not call you for any other purpose, including sales calls. We will never share your phone number with third parties.
 
-On rare occasions, you may encounter problems with your ChurchTrac data file that requires you to email your data file to technical support for repair. After your file has been fixed, it will be sent back to you, and any copies or emails containing your data file will be destroyed. The software that we provide may contact our web servers periodically, with your permission, in order to check for program updates. No personally identifiable information is transmitted during this process. If you encounter an error and choose to report this error to us, the your basic contact information is transmitted to us, along with a description of the error. This information is used to contact you to provide support for the error you encountered.
+ChurchTrac requires the use of cookies for the Website to properly work. Disabling cookies will cause a user-experience that is either limited or unusable.
 
-Your purchase information and customer data is not accessible via the internet. Access to your customer information (including contact information) is password protected and only accessible by a small number of senior staff at ChurchTrac. Procedures are in place to limit access to and safeguard your information.
+During the trial period, we periodically send emails to the email address listed as the primary contact(s) for the account. For paying customers, we send payment notices to the primary contact(s) on the account, plus any user accounts that are designated as Administrators. Any user can opt out of receiving these emails at any time using the Unsubscribe button on the footer of our email message. In any case, we only attempt to communicate with individuals who are listed as the contact person(s) for your account or those for whom you have designated as Administrator-level users.
 
-If you subscribe to the ChurchTrac data sharing service, you will have a secure account set up on our server to assist the software in sharing data between all your computers. Access to the server is extremely limited and safeguarded.
+You may opt out of any future contacts from us at any time. You can do the following at any time by contacting us via the email address or phone number given on our Website:
 
-If you wish to stop receiving information from us, [contact us](https://web.archive.org/web/20111205000925id_/http%3A//www.churchtrac.com/support.htm), or reply to an email from our domain with the subject "Remove". If you have any questions regarding this privacy policy or our use of your information, please contact us.
+  * See what data we have about you.
+  * Change/correct any data we have about you.
+  * Have us delete any data we have about you.
+  * Express any concern you have about our use of your data.
+
+
+
+In order to ensure delivery of important account notices, we recommend that you add churchtrac.com to your address book or email whitelist. We also recommend that you have two or more contact persons listed on your account to ensure payment and other notices are received. You can add or remove designated contact persons on your account by creating a support ticket.
+
+Additionally, it is your responsibility to notify us of any personnel changes, particularly in regard to individuals who should no longer be allowed to access your account or receive support for your account. We will typically provide support to any individual listed as a contact person or user for your account. User accounts with Administrator permission also have the ability to grant or remove privileges from other user accounts, or to add and remove user accounts.
+
+We will strive to prevent unauthorized access to your personal information and data, however, no data transmission over the Internet is guaranteed to be 100% secure. We strongly recommend that you do not disclose your password to anyone. If you forget your password, we will send a new, temporary password to the email address you have provided for your user account.
+
+We use third-party service providers ("Payment Processors") to manage credit card processing. Under our agreement with service providers, they are not permitted to store, retain, or use your Personal Information or your billing information except for the sole purpose of credit card processing on our behalf. In certain cases, we may have access to the last four digits of your credit card number, its expiration date, and the billing address, which we will use solely to assist us in providing the product or service you purchased. In addition, we and our service providers may use any information processed pursuant to this section at an aggregate level for internal business analyses and fraud prevention.
+
+From time to time we may ask customers to respond voluntarily to a survey in order to help us improve our products and services. Any information collected will be kept confidential between you and ChurchTrac and will not be shared with a third party.
+
+With your permission we may also use testimonials provided by you in our marketing or advertising materials. Your name, position, and organization name may be used in connection with your quote.
+
+You retain ownership of the data entered or provided by you. ChurchTrac has limited access to this data as outlined in our Terms of Service when granted by you for the purpose of support. Under no circumstance will we ever sale, share or transfer your data to a third party.
+
+In the event that your account is closed or terminated for non-payment or any other reason, we will remove your account data from our server(s). For a limited period after this, we may also retain an encrypted backup of your data on our servers for the sole purpose of account restoration, if requested.
+
+We collect some data regarding how you utilize your account. For example, we may store how often your account is accessed, or when your account was last accessed. We may also store how often you access certain features of the application in order to provide you with better service or for internal planning.
+
+In order to provide you with certain services, we may store third-party credentials on your behalf. For example, we may store data relating to your third-party email server, enabling you to send email from inside the application.
+
+We maintain a record of actions taken by your users. Your Administrator users have the ability to view these records (audit trail) from the User Accounts section of your account. The data contained in the audit trail will display when each user has logged in, plus any changes, additions, or deletions made to the data in your account. This information is collected and retained solely for your benefit and is not used by ChurchTrac.
+
+You may opt out of any future contacts from us at any time. You can do the following at any time by contacting us via the email address or phone number given on our Website:
+
+  * See what data we have about you.
+  * Change/correct any data we have about you.
+  * Have us delete any data we have about you.
+  * Express any concern you have about our use of your data.
+
+
+
+This Website contains links to other sites. Please be aware that we are not responsible for the content or privacy practices of such other sites. We encourage our users to be aware when they leave the Website and to read the privacy statements of any other site that collects personally identifiable information.
+
+From time-to-time our site requests information via surveys or contests. Participation in these surveys or contests is completely voluntary and you may choose whether or not to participate and therefore disclose this information. Information requested may include contact information (such as name and shipping address), and demographic information (such as zip code, age level). Contact information will be used to notify the winners and award prizes. Survey information will be used for purposes of monitoring or improving the use and satisfaction of this site.
+
+For our EU customers, a 'controller' means the natural or legal person, public authority, agency or other body which, alone or jointly with others, determines the purposes and means of the processing of personal data; where the purposes and means of such processing are determined by Union or Member State law, the controller or the specific criteria for its nomination may be provided for by Union or Member State law.
+
+A 'processor' means a natural or legal person, public authority, agency or other body which processes personal data on behalf of the controller.
+
+With the exception of basic information gathered during the signup process or email forms, ChurchTrac, Inc. is classified as a data processor. Churches using services by ChurchTrac are acting as the data controller. A data subject who wishes to revoke consent for his or her personal data therefore will contact the data controller (you or your church) to initiate the request, even if such data lives on the servers belonging to the data processor (ChurchTrac). 
+
+European citizens may submit requests relating to their own information collected by ChurchTrac by emailing support@churchtrac.com. You can expect a reply within 24 business hours.
+
+There is no fee to submit this request, but ChurchTrac does reserve the right to charge a fee for requests that are unjustified, excessive, or recurring.
+
+After receiving your request, we may contact you to request additional supporting information and/or proof of your identity. This helps us to guard your privacy and personal data.  Once we have all the information necessary to process your request and have satisfactorily validated your identity, we will respond within one month and will aim to provide all required information to you within the same period. If we require more information from you, or if your request is unusually complicated, we may require more time and will inform you accordingly.
+
+If you have any questions about this policy or if you feel that we are not abiding by this privacy policy, you should contact us immediately via email at support@churchtrac.com.
