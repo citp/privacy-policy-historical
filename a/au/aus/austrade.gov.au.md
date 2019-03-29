@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the austrade.gov.au privacy policy that was archived on 2018-09-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180903164535id_/https%3A//www.austrade.gov.au/Site-information/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the austrade.gov.au privacy policy that was archived on 2019-03-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190329132244id_/https%3A//www.austrade.gov.au/Site-information/privacy-policy) for the most accurate reproduction.*
 
 # Austrade’s Privacy Policy - Austrade
 
@@ -33,6 +33,31 @@
   11. Austrade may use or disclose personal information for another purpose with your consent or where otherwise permitted by law.
   12. Given the nature of Austrade's functions and activities, we may also disclose your personal information to recipients overseas such as when performing consular functions or arranging a trade event outside Australia. Those recipients could be in any of around 100 countries in which Austrade either has a presence or undertakes its functions and activities. 
   13. Before Austrade discloses your personal information to an overseas recipient, we will take such steps as are reasonable in the circumstances to ensure that the overseas recipient does not breach the APPs or is subject to requirements similar to the APPs (such as under laws similar to the Privacy Act or by way of a binding contractual requirement). Alternatively, your personal information will only be disclosed to an overseas recipient where permitted by law which includes where reasonably necessary for consular functions.
+
+#### The data we collect - browsing (clickstream data)
+
+When you look at this web site, our server makes a record of your visit and logs the following information:
+
+    1. the user's server address;
+    2. the user's top level domain name (for example .com, .gov, .au, .uk etc.);
+    3. the date and time of visit to the site;
+    4. the pages accessed and documents viewed;
+    5. the previous site visited; and
+    6. the type of browser used.
+
+The data listed above is collected for the following purposes: 
+
+    1. web site and system administration, including monitoring to prevent security breaches;
+    2. enhancement of the web site to the user's needs; and
+    3. research and development.
+
+No attempt will be made to identify users or their browsing activities, except in the unlikely event that a law enforcement (or other government) agency exercises a legal authority to inspect ISP logs (e.g., by warrant, subpoena, or notice to produce).
+
+#### Cookies
+
+A cookie is a small amount of information stored on your computer by our web site server. It is information that your web browser sends back to our web site server whenever you visit it again. We use cookies to 'remember' your browser between page visits. In this situation, the cookie identifies your browser, not you personally. No personal information is stored within the Australian Trade and Investment Commission’s cookies.
+
+Any comments or queries about your privacy or this website should be sent to: [webteam@austrade.gov.au](mailto:webteam@austrade.gov.au?subject=Privacy%20policy%20enquiry)
 
 ### How does Austrade protect your personal information?
 
