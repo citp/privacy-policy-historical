@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the evansville.edu privacy policy that was archived on 2018-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181220120140id_/https%3A//www.evansville.edu/sitemap/privacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the evansville.edu privacy policy that was archived on 2019-03-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190329225149id_/https%3A//www.evansville.edu/sitemap/privacy.cfm) for the most accurate reproduction.*
 
 # University of Evansville Privacy Statement - University of Evansville
 
@@ -28,7 +28,7 @@ This site is not directed to children under 13 years of age, and does not sell p
 
 ## Other websites:
 
-The UE website contains links to many third-party sites which are beyond are control. UE is not responsible for the privacy practices or consent of third party sites.
+The UE website contains links to many third-party sites which are beyond our control. UE is not responsible for the privacy practices or consent of third party sites.
 
 ## Security:
 
