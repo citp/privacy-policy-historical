@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the challengeme.gg privacy policy that was archived on 2018-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181229024807id_/https%3A//www.challengeme.gg/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the challengeme.gg privacy policy that was archived on 2019-03-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190330002725id_/https%3A//www.challengeme.gg/privacy-policy) for the most accurate reproduction.*
 
 # Privacy policy | ChallengeMe.GG
 
@@ -155,12 +155,11 @@ If you choose to delete your account, we may retain certain data contributed by 
 If you are an E.U. resident and you have a dispute about how we are handling your personal information, you have the right to complain to a supervisory authority to enforce your rights. You can contact CMES’s lead supervisory at: 
 
 Berliner Beauftragte für Datenschutz und Informationsfreiheit  
-
-
 Maja Smoltczyk  
 An der Urania 4-10  
 10787 Berlin  
-GERMANY
+GERMANY  
+
 
 We understand that the security of your personal information is important. We have reasonable and appropriate administrative, technical, and physical security measures in place to protect against the loss, misuse or alteration of information that we have collected from you at our site. 
 
@@ -179,14 +178,16 @@ If you have any queries regarding your personal data or comments on this Privacy
 
 
 
-Data Protection Officer
+Data Protection Officer:
 
-Sven Patrick Jacobshagen  
-Reinberg Meyer von Beust LLP  
-Friedrichstr. 55a  
-10117 Berlin  
-+4989044550   
-dataprotection@challengeme.gg 
+Kirsty Knight  
+Unikrn Limited  
+First Floor Millennium House  
+Victoria Road  
+Douglas   
+Isle of Man  
+IM2 4RW  
+[dataprotection@challengeme.gg](mailto:dataprotection@challengeme.gg)
 
 ### Use Of Services By Minors 
 
