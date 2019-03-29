@@ -1,160 +1,189 @@
-> *The following text is extracted and transformed from the 16-25railcard.co.uk privacy policy that was archived on 2018-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180525204002id_/https%3A//www.16-25railcard.co.uk/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 16-25railcard.co.uk privacy policy that was archived on 2019-03-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190329143226id_/http%3A//www.16-25railcard.co.uk/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - 16-25 Railcard
+# Privacy Policy - Railcard
 
-When you purchase a Railcard from Train Companies or Licensed Third Party Retailers (“us”), you will provide us with personal data. We recognize the need to treat your data in an appropriate and lawful manner, in accordance with the Data Protection Act 1998. The purpose of this notice is to make you aware of how we will handle your personal data.
+The purpose of this policy is to make you aware of how we will manage your personal data.
 
-## Why do we need your personal data?
+You can use the short cut links below to go directly to specific sections.
 
-When you buy a Railcard, from a Railcard.co.uk website, transactions are managed by Journeycall Limited, and as such, Journeycall Limited is responsible for the processing and distribution of Railcard products. During your purchase, we will ask you to provide us with personal information, such as name, address, email address and date of birth, and we will use this to process your purchase and send you the Railcard. We may also ask for further sensitive information, such as driving licence or passport number, disabilities and medical information, for the purposes of proof of eligibility for some Railcard types.
-
-## What data do we hold and for how long will we keep it?
-
-We will keep your data securely while the Railcard is valid. This will allow us to: remind you when your Railcard is due to expire to enable you to renew easily; send you information about any changes to your Railcard’s terms and conditions; and, if you have so chosen, to receive marketing communications from us, including offers and information on similar products and services you may be interested in.
-
-When your Railcard has expired, we will keep your data for a further 180 days, during which time you may still receive communications. After this point and for a further 4 years, we will keep your data in a dormant state, just in case you decide to renew or buy a new Railcard, so that we can match your Railcard history.
-
-If you wish to know what personal data we hold about you, you must make the request in writing, with an accompanying fee of £10, payable to ATOC Ltd. All such written requests should be sent to the Data Protection Officer at Rail Delivery Group, 200 Aldersgate Street, London EC1A 4HD.
-
-## How accurate is the personal data that we keep?
-
-The information we hold is supplied by you. If your details change, please update them by logging in to www.railcard.co.uk and follow the link to your account. If you do not have an online account, please call 0345 3000 250 or write to us at National Railcards, PO Box 6616, Arbroath DD11 9AR, stating your Name, Address and Railcard number, and we will amend your details.
-
-## With whom do we share your data?
-
-To fulfil your request for a Railcard, we work with a number of suppliers. These suppliers include:
-
-  * Journeycall Ltd
-  * Ndata
-  * Indicia
-
-
-
-We ensure that our suppliers process your data in an appropriate and lawful manner, and within the EU only.
-
-If you have opted in to receive marketing information and offers from Train Companies, we will share your data with the companies that operate in your area, based on the Post Code you have supplied.
-
-If you have opted in to receive marketing information and offers by email from trusted third parties, we may share your personal data with those organisations. Your personal information, such as email address, will then be shared with our third-party email provider, MediaLab Group Limited. Your personal information will never be passed on to advertised organisation directly.
-
-If you have opted in to receive direct marketing information and offers by post from trusted third parties, we may share your personal data with those organisations. Your Name, Address and Post Code will then be shared with the advertised organisation directly.
-
-If you have opted in as above, you can expect to receive information regarding the following types of organisations:
-
-### Sector
-
-| 
-
-### Description  
-  
+Who we are | Your Rights  
 ---|---  
-**Retail** | 
-
-  * Online retail
-  * General stores
-  * Automotive (including dealerships and accessories)
-  * Property
-  * Home furnishings
-  * Home improvement
-  * Fashion and clothing
-  * Telecoms and utilities
-
+Our lawful basis for collecting your data | Subject Access Request  
+What data we collect | Deletion of personal information  
+Sharing information with other data processors | Restrict processing of personal information  
+Keeping your data safe | Right to rectification  
+What we do with your data | How to contact us  
+How long we keep your data | Complaints  
   
-**Finance** | 
+### Who we are
 
-  * Pensions
-  * Loans, credit cards and mortgages
-  * Investments & savings
+ATOC Ltd manages Railcards on behalf of [Britain's train companies](https://railcard.co.uk/traincompanies). ATOC Ltd is the data controller for all the personal data that you provide in order to purchase a Railcard.  ATOC Ltd's address is 200 Aldersgate Street, London EC1A 4HD.
 
-  
-**Insurance** | 
+Railcard and National Rail are trade marks of ATOC Ltd. ATOC Ltd also trades under the name Rail Delivery Group.
 
-  * Home
-  * Car
-  * Travel
-  * Pet
-  * Personal
+### **Our lawful basis for collecting your data**
 
-  
-**Travel** | 
+When you buy a Railcard, you enter into a contract with ATOC Ltd for the provision of the Railcard on behalf of train companies. Therefore, collecting your data is necessary for us to perform the contract with you. 
 
-  * Home
-  * Car
-  * Travel
-  * Pet
-  * Personal
+We will treat your data in an appropriate and lawful manner, in accordance with data protection laws.  
 
-  
-**Charities** | 
+### **What data we collect**
 
-  * Aged
-  * Children’s
-  * Animals
-  * Military/ex-services
-  * Medical and Health
-  * Overseas Aid
-  * Rescue services
-  * Environmental & Cultural
+For all Railcard applications we collect your name, address, date of birth, email address and contact number.
 
-  
-**Lifestyle** | 
+We collect additional information depending on what Railcard you are purchasing:
 
-  * Health & Well-being
-  * Fitness
-  * Media & publishing companies
-  * Leisure
-  * Gaming
-  * Legal Services
-  * Educational institutions
+  * **16-25 Railcard** : we require your gender and your photograph. For mature students, we also require confirmation of your attendance at a university/college
+  * **26-30 Railcard** : we require your gender
+  * **Disabled Persons Railcard** : we require evidence of your eligibility which may include evidence of receiving a government benefit, allowance or medical information
+  * **Family & Friends Railcard**: if you decide to have a second cardholder named on the card, we will need their name.
+  * **Senior Railcard** : we require your gender
+  * **Two Together Railcard** : we require the name of the second cardholder and photographs of both you and the second named cardholder
 
-  
-  
-To change your marketing preferences, please log in to www.railcard.co.uk and follow the link to your account. If you do not have an online account, please call 0345 3000 250 or write to us at National Railcards, PO Box 6616, Arbroath DD11 9AR, stating your Name, Address and Railcard number, and we will amend your preferences.
 
-Like most websites, we use cookies and similar tools across our website to improve your experience and our website's performance. This page explains how we do that.
 
-## What are cookies?
+If you choose to have your Railcard delivered to your mobile device, we will require your photograph regardless of the Railcard you are buying. 
 
-Cookies are small text files which a website may put on your computer or mobile device when you first visit a site or page. The cookie will help the website to recognise your device the next time you visit.
+If you are buying a Railcard on behalf of another person, we will need their personal details. In this case, we will deem that you have the other person's permission to provide their personal details.
 
-Cookies do many things. For example, they can help us to analyse how well our website is performing, or even allow us to recommend content we believe will be most relevant to you.
+If you choose to enter a voluntary prize draw for either market research or competitions, we will collect your personal email address, your name and postcode and Railcard number.
 
-Certain cookies contain personal information. For example, if you click to "remember me" when logging in, a cookie will store your username. Most cookies won't collect information that identifies you. Instead, cookies will collect more general information such as how users arrive at and use our website, or a user's general location.
+We use cookies and similar tools across our website to improve your experience and our website's performance. To find out more about cookies, read our [Cookie Policy.](https://www.railcard.co.uk/cookie-policy/)
 
-## What cookies do we use?
+### Sharing information with other data processors
 
-We use five types of cookie and similar tools across our website to improve its performance and enhance your user experience.
+To fulfil your request for a Railcard, we use a number of suppliers to produce, deliver and administer your Railcard. 
 
-1\. First party cookies
+These suppliers are: 
 
-We set these cookies and they can only be read by us.
+  * Fast Rail Ticketing Ltd (who retail and fulfil the Network Railcard)
+  * ESP Group (who retail, fulfil and provide customer support for the 16-25, 26-30, Family & Friends, Two Together, Senior and Disabled Persons Railcard) 
+  * Ndata (who capture details from paper application forms)
+  * Indicia (who provide our customer database)
+  * Intelenet (who provide customer support for Network Railcard)
+  * Salesforce (who sends our emails)
+  * Rival (who sends renewal reminders by post)
+  * Quiet Storm (who provide some of our website pages, including competition and contact forms)
 
-2\. Persistent cookies
 
-We use persistent cookies which will be saved on your computer for a fixed period. They won't be deleted when the browser is closed. We use persistent cookies to recognise your device for more than one browsing session.
 
-3\. Session cookies
+If you participate in a survey with us your survey responses will be processed by our survey supplier (Survey Monkey).
 
-We use session cookies which are only stored temporarily during a browsing session and will be deleted from your device when the browser is closed.
+Your personal information may be disclosed to the train companies who run services in your region in order for them to administer and support your use of the Railcard. We also share information with law enforcement agencies on request.
 
-4\. Third party cookies
+We will not share your details with any other third parties unless you provide us with your consent. If you consent to marketing, you can find out more about the communications you’ll receive in our [Marketing & Contact Policy.](https://www.railcard.co.uk/contact-policy/)
 
-We may use third party suppliers who may also set cookies on our website in order to deliver the services that they are providing. These cookies are known as third party cookies.
+If you enter one of our prize draws for market research or competitions, your entry will be held by our suppliers (Survey Monkey for research and Quiet Storm for competitions). Winners of competitions will be notified using the contact details provided in their entry. Where a prize is being offered by one of our partners, your contact details may be provided to them in order for them to fulfil the prize.
 
-5\. Google Analytics
+### Keeping your data safe
 
-We use Google Analytics cookies in order to evaluate your use of the website and compile reports for us on activity on the website.
+We protect your privacy by ensuring we have the appropriate security measures in place. We ensure that our suppliers process your data in an appropriate, lawful and safe manner, and within the EU only.
 
-You can learn about Google Analytics cookies by visiting this site:  
-[www.google.com/intl/en/privacypolicy.html](http://www.google.com/intl/en/privacypolicy.html)
+If you participate in a survey with us your data will be held with our supplier (Survey Monkey) in the United States under an EU approved data protection framework. It will be anonymised for reporting purposes and then deleted after 30 days.
 
-## Can you block our cookies?
+### What we do with your data
 
-Cookies help you to get the most from our website, so please remember that if you do choose to disable cookies, you may find that certain sections of our website do not work properly.
+We use your data to provide you with the Railcard, and:
 
-## How do I disable cookies?
+  * To provide you with customer support services, for example if you lose your Railcard
+  * To send you information about any changes to your Railcard’s terms and conditions
+  * To alert you to any changes to this privacy policy
+  * To remind you when your Railcard is due to expire.
 
-All recent versions of popular browsers give you a level of control over cookies. You can find out how to control cookies in your browser by visiting this site: [www.aboutcookies.org/how-to-control-cookies/](http://www.aboutcookies.org/how-to-control-cookies/)
 
-## More information
 
-If you'd like to know more about how businesses use cookies visit: [www.allaboutcookies.org](http://www.allaboutcookies.org/)
+We do some analysis on our customer data for sales analysis and marketing research.  
+
+We do not use your data for automated decision making. However we do demographic, geographic and attitude analysis to understand who our customers are in groups rather than as individuals. 
+
+If you enter one of our prize draws for market research or competitions, the data we collect will be kept securely whilst the survey and/or competition is live. The prize draw winner(s) details (first name and county) will be made available after the closing date for 30 days to those sending an email to [marketing@raildeliverygroup.com](mailto:marketing@raildeliverygroup.com) with the subject line of the survey title. Personal details will only be used for the purpose of the prize draw and will be deleted once the winner has been confirmed.
+
+### How long do we keep your data?
+
+We keep your data while your Railcard is valid, and for two years thereafter to enable you to renew easily within that period. During this time you may receive other communications from us if you have consented.  
+
+If you have started but not completed a Railcard application, the data you have entered will be held for 30 days to allow you to return to complete your application.  After that time it will be deleted.
+
+If you participate in a prize draw for market research or competitions, your entry will be held for 30 days and then deleted.
+
+### Your rights
+
+#### Subject access request
+
+You have the right to request that we give you a copy of the data we hold about you. This is called a ‘Subject Access Request’.
+
+#### Deletion of personal information
+
+You have the right to request that we delete any data that we hold on you after your Railcard has expired. 
+
+#### Restrict processing of personal information
+
+You have the right to request that we restrict processing of your information:
+
+  * if you believe the information that we hold is incorrect, or
+  * if you can show that our processing is unlawful, or
+  * if you want us to stop processing your data but you do not want us to erase it (for example, you may wish us to hold it for legal reasons, to defend a legal claim).
+
+
+
+#### **Right to rectification**
+
+If your details are incorrect, incomplete or have changed, you can contact us at any time to change these.   
+
+If you brought your Railcard online, you can update your details by logging onto your online account on the relevant Railcard website and updating them. 
+
+All customers can request changes by contacting us:
+
+  * **16-25, 26-30, Family & Friends, Two Together and Senior Railcards**:
+
+
+
+Use the [Contact Us](https://www.railcard.co.uk/contact-us) form on our website
+
+Email: railcardhelp@railcards-online.co.uk
+
+Tel: 0345 3000 250 
+
+Write to: National Railcards, PO Box 6616, Arbroath, DD11 9AR
+
+  * **Disabled Persons  Railcard**:
+
+
+
+Use the [Contact Us](https://www.disabledpersons-railcard.co.uk/contact-us/) form on our website
+
+Email: disability@raildeliverygroup.com
+
+Tel: 0345 6010 132
+
+Write to: Disabled Persons Railcard, PO Box 6613, Arbroath, DD11 9AN 
+
+  * **Network Railcard** :
+
+
+
+Use the [Contact Us](https://www.network-railcard.co.uk/contact-us/) form on our website
+
+Tel: 0345 301 1655
+
+Write to: Rail Delivery Group, 200 Aldersgate Street, London EC1A 4HD
+
+#### How to contact us
+
+To exercise any of your rights, please contact:
+
+The Data Protection Lead
+
+ATOC Ltd, 200 Aldersgate Street, London EC1 4HD.
+
+Email: [RailcardPrivacy@raildeliverygroup.com](http://mailto:RailcardPrivacy@raildeliverygroup.com/)
+
+Tel: 0207 841 8000.
+
+Please include your name, address and Railcard number, so that we can deal with your request.
+
+#### Complaints
+
+You have the right to complain about our processing to the Information Commissioner if you believe we are not processing your data in a proper manner - see <https://ico.org.uk/concerns/handling/> for more information.
+
+Last updated 20 May 2018.
