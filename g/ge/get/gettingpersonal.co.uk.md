@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gettingpersonal.co.uk privacy policy that was archived on 2018-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181228173121id_/https%3A//www.gettingpersonal.co.uk/privacypolicy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gettingpersonal.co.uk privacy policy that was archived on 2019-03-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190329155954id_/https%3A//www.gettingpersonal.co.uk/privacypolicy.htm) for the most accurate reproduction.*
 
 # Privacy Policy | GettingPersonal.co.uk
 
@@ -98,7 +98,7 @@ Your use of the Website is also governed by the Website's general terms and cond
 
 (b) phoning our Customer Services team on 0330 333 4220; or
 
-(c) emailing us at datateam@cardfactory.co.uk
+(c) emailing us at datateam@gettingpersonal.co.uk
 
  **5 Cookies**
 
