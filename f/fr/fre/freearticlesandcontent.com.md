@@ -1,39 +1,55 @@
-> *The following text is extracted and transformed from the freearticlesandcontent.com privacy policy that was archived on 2012-04-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120416015632id_/http%3A//www.freearticlesandcontent.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freearticlesandcontent.com privacy policy that was archived on 2019-03-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190329184941id_/http%3A//www.freearticlesandcontent.com/privacy-policy) for the most accurate reproduction.*
 
-# Free Articles – Free Articles And Content » Privacy Policy
+# Privacy Policy | Free Stuff for Your Brain
 
-FreeArticlesandContent.com strives to offer its visitors the many advantages of Internet technology and to provide an interactive and personalized experience. We may use Personally Identifiable Information (your name, e-mail address, street address, telephone number) subject to the terms of this privacy policy. We will never sell, barter, or rent your email address to any unauthorized third party. Period.
+**Collection of Non-Personally Identifiable Information**
 
-**How we gather information from users**
+Like most websites, Our Website collects non-personally identifiable information from visitors of the sort that web browsers and servers typically make available. Visitors to Our Website website who have javascript enabled are tracked using Google Analytics. Google Analytics collects the following non-personally identifiable types of information from users:
 
-How we collect and store information depends on the page you are visiting, the activities in which you elect to participate and the services provided. For example, you may be asked to provide information when you register for access to certain portions of our site or request certain features, such as newsletters or when you make a purchase. You may provide information when you participate in sweepstakes and contests, message boards and chat rooms, and other interactive areas of our site. Like most Web sites, FreeArticlesandContent.com also collects information automatically and through the use of electronic tools that may be transparent to our visitors. For example, we may log the name of your Internet Service Provider or use cookie technology to recognize you and hold information from your visit. Among other things, the cookie may store your user name and password, sparing you from having to re-enter that information each time you visit, or may control the number of times you encounter a particular advertisement while visiting our site. As we adopt additional technology, we may also gather information through other means. In certain cases, you can choose not to provide us with information, for example by setting your browser to refuse to accept cookies, but if you do you may be unable to access certain portions of the site or may be asked to re-enter your user name and password, and we may not be able to customize the site’s features according to your preferences.
+  * Type of user agent (web browser) used, software manufacture and version number
+  * Type of operating system
+  * Screen colors (color processing ability of the users screen)
+  * Javascript support
+  * Flash version
+  * Screen resolution
+  * Time of visit
+  * Pages visited
+  * Time spent on each page of the website
+  * Referring site statistics 
+    * The website (URI) the user came through in order to arrive at this website (example: clicking on a hyperlink from Yahoo.com that took the user to this website)
+    * Search engine query used (example: typing in a phrase into a search engine like Google, and clicking on a link from that search engine)
 
-**What we do with the information we collect**
 
-Like other Web publishers, we collect information to enhance your visit and deliver more individualized content and advertising. We respect your privacy and do not share your information with anyone.
 
-Aggregated Information (information that does not personally identify you) may be used in many ways. For example, we may combine information about your usage patterns with similar information obtained from other users to help enhance our site and services (e.g., to learn which pages are visited most or what features are most attractive). Aggregated Information may occasionally be shared with our advertisers and business partners. Again, this information does not include any Personally Identifiable Information about you or allow anyone to identify you individually.
+This data is primarily used by Our Website for internal use in order to optimize Our Website website for visitors, however Our Website will use this data for marketing purposes. An example of how this data could be used for marketing purposes would be to tell potential advertisers how many visitors we get to Our Website website, where our visitors come from, and how they arrive at our website.
 
-We may use Personally Identifiable Information collected on www.FreeArticlesandContent.com to communicate with you about your registration and customization preferences; our Terms of Service and privacy policy; services and products offered by www.FreeArticlesandContent.com and other topics we think you might find of interest.
+As previously mentioned, Our Website, via Google Analytics, also collects potentially personally identifiable information like Internet Protocol (IP) addresses. Our Website does not use such information to identify its visitors, however, and does not disclose such information, other than under the same circumstances that it uses and discloses personally identifiable information, as described below.
 
-Personally Identifiable Information collected by FreeArticlesandContent.com may also be used for other purposes, including but not limited to site administration, troubleshooting, processing of e-commerce transactions, administration of sweepstakes and contests, and other communications with you. Certain third parties who provide technical support for the operation of our site (our Web hosting service for example) may access such information. We will use your information only as permitted by law. In addition, from time to time as we continue to develop our business, we may sell, buy, merge or partner with other companies or businesses. In such transactions, user information may be among the transferred assets. We may also disclose your information in response to a court order, at other times when we believe we are reasonably required to do so by law, in connection with the collection of amounts you may owe to us, and/or to law enforcement authorities whenever we deem it appropriate or necessary. Please note we may not provide you with notice prior to disclosure in such cases.
+**Collection of Personally Identifiable Information**
 
-**Affiliated sites, linked sites and advertisements**
+Certain visitors to Our Website website choose to interact with Our Website in ways that require Our Website to gather personally-identifying information. The amount and type of information that Our Website gathers depends on the nature of the interaction. These interactions include but are not limited to the collection of:
 
-FreeArticlesandContent.com expects its partners, advertisers and affiliates to respect the privacy of our users. Be aware, however, that third parties, including our partners, advertisers, affiliates and other content providers accessible through our site, may have their own privacy and data collection policies and practices. For example, during your visit to our site you may link to, or view as part of a frame on a www.FreeArticlesandContent.com page, certain content that is actually created or hosted by a third party. Also, through FreeArticlesandContent.com you may be introduced to, or be able to access, information, Web sites, features, contests or sweepstakes offered by other parties. FreeArticlesandContent.com is not responsible for the actions or policies of such third parties. You should check the applicable privacy policies of those third parties when providing information on a feature or page operated by a third party.
+  * Names and email addresses for visitors who leave comments via the comment system
+  * Email addresses for visitors who opt to receive email notification when posts and comments are published
 
-While on our site, our advertisers, promotional partners or other third parties may use cookies or other technology to attempt to identify some of your preferences or retrieve information about you. For example, some of our advertising is served by third parties and may include cookies that enable the advertiser to determine whether you have seen a particular advertisement before. Other features available on our site may offer services operated by third parties and may use cookies or other technology to gather information. FreeArticlesandContent.com does not control the use of this technology by third parties or the resulting information, and is not responsible for any actions or policies of such third parties.
 
-You should also be aware that if you voluntarily disclose Personally Identifiable Information on message boards or in chat areas, that information can be viewed publicly and can be collected and used by third parties without our knowledge and may result in unsolicited messages from other individuals or third parties. Such activities are beyond the control of FreeArticlesandContent.com and this policy.
 
-**Children**
+In each case, Our Website collects such information only insofar as is necessary or appropriate to fulfill the purpose of the visitor’s interaction with Our Website. Our Website does not disclose personally identifiable information other than as described below. Visitors can always refuse to supply personally identifiable information, with the caveat that it may prevent them from engaging in certain website-related activities.
 
-FreeArticlesandContent.com does not knowingly collect or solicit Personally Identifiable Information from or about children under 13 except as permitted by law. If we discover we have received any information from a child under 13 in violation of this policy, we will delete that information immediately. If you believe FreeArticlesandContent.com has any information from or about anyone under 13, please contact us at the address listed below.
+**Protection of Certain Personally Identifiable Information**
 
-**Changes to this Policy**
+Our Website discloses potentially personally identifiable and personally identifiable information only to those of its employees, contractors, and affiliated organizations that (i) need to know that information in order to process it on Our Website’s behalf or to provide services available at Our Website’s websites, and (ii) that have agreed not to disclose it to others. Some of those employees, contractors and affiliated organizations may be located outside of your home country; by using Our Website’s website, you consent to the transfer of such information to them.
 
-FreeArticlesandContent.com reserves the right to change this policy at any time. Please check this page periodically for changes. Your continued use of our site following the posting of changes to these terms will mean you accept those changes. Information collected prior to the time any change is posted will be used according to the rules and laws that applied at the time the information was collected.
+Our Website will not rent or sell potentially personally identifiable and personally identifiable information to anyone. Other than to its employees, contractors, and affiliated organizations, as described above, Our Website discloses potentially personally identifiable and personally identifiable information only when required to do so by law, or when Our Website believes in good faith that disclosure is reasonably necessary to protect the property or rights of Our Website, third parties, or the public at large.
 
-* * *
+**Third Party Advertising**
 
-Rating: 0.0/ **10** (0 votes cast)
+Our Website uses third-party advertising companies to serve ads when you visit Our Website website. These companies, including Google, may use information (not including your name, address, email address, or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you. Google uses what is called a [DoubleClick DART cookie](http://www.doubleclick.com/privacy/faq.aspx) for this purpose. If you would like to opt out of Google’s DART program, [click here](http://www.google.com/privacy_ads.html).
+
+**Cookies**
+
+A cookie is a string of information that a website stores on a visitor’s computer, and that the visitor’s browser provides to the website each time the visitor returns. Our Website uses cookies to help identify and track visitors, their usage of Our Website website, and their website access preferences. Our Website visitors who do not wish to have cookies placed on their computers should set their browsers to refuse cookies before using Our Website’s website, with the drawback that certain features of Our Website’s websites may not function properly without the aid of cookies.
+
+**Privacy Policy Changes**
+
+Our Website may change its Privacy Policy from time to time, and in Our Website’s sole discretion. Our Website encourages visitors to frequently check this page for any changes to its Privacy Policy. Your continued use of this site after any change in this Privacy Policy will constitute your acceptance of such change.
