@@ -1,71 +1,42 @@
-> *The following text is extracted and transformed from the sudaneseonline.org privacy policy that was archived on 2017-09-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170914095911id_/http%3A//www.sudaneseonline.org/Privacy.HTML) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sudaneseonline.org privacy policy that was archived on 2019-03-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190329235700id_/https%3A//area51services.com/Privacy-Policy) for the most accurate reproduction.*
 
-# Sudanese Online Terms of service & privacy policy
+# Area51.mn: Rochester Minnesota Location
 
-**This Privacy Policy governs the manner in which Sudanese Online collects, uses, maintains and discloses information collected from users (each, a "User") of the[http://www.sudaneseonline.org](http://www.sudaneseonline.org/) website ("Site"). This privacy policy applies to the Site and all products and services offered by Sudanese Online.
+Your personal privacy is very important to the Area51.mn team. The following statements provide details on how information may be collected and used on our websites.
 
-**Personal identification information**
+**Data Collection**
 
-We may collect personal identification information from Users in a variety of ways, including, but not limited to, when Users visit our site, register on the site, place an order, subscribe to the newsletter, and in connection with other activities, services, features or resources we make available on our Site. Users may be asked for, as appropriate, name, email address, phone number. Users may, however, visit our Site anonymously. We will collect personal identification information from Users only if they voluntarily submit such information to us. Users can always refuse to supply personally identification information, except that it may prevent them from engaging in certain Site related activities.
+In general most data collection is done anonymously for estimating trends in site usage, what potential clients have an interest in for future content and marketing methods and so we may better adjust our business practices to potential client interests. An example of this would be as follows, visitor 1 visited page "web design" and stayed for 3 minutes then went to the "Design Portfolio" page and stayed another 1 minute before filling out a "consultation request".
 
-**Non-personal identification information**
+You may at times be given the option to provide more data, "signing up for a newsletter" or making a "consultation request", "submitting a resume" or "making a payment online". If you change your mind and do not want us to use this information any longer simply let us know and we will respect your request. When submitting a data that contains information from a third party we will assume you have permission to use this information, for example a resume reference.
 
-We may collect non-personal identification information about Users whenever they interact with our Site. Non-personal identification information may include the browser name, the type of computer and technical information about Users means of connection to our Site, such as the operating system and the Internet service providers utilized and other similar information.
+**Use of Data**
 
-**Web browser cookies**
+> _Third Party_
+> 
+> In some instances we use this data in conjunction with third parties, for example processing a payment requires that we provide your information the merchant processor for verification and to complete the transaction. 
+> 
+> _Marketing_
+> 
+> In some instances we may use information you provide us such as name, website and the services we provided you with for marketing our services to other potential clients, such as our portfolio or if you provide us with a recommendation or success story. 
+> 
+> _Resellers / Business partners_
+> 
+> At times end users of our resellers and business partners may have an issue and contact us rather than the reseller or business partner directly. In these instances we may need to data we have on file with the reseller or business partner in order to resolve the problem. Any direct contract with a reseller or business partner will supersede this policy.
+> 
+> _Affiliates_
+> 
+> Data is collected via affiliate tracking codes when a registered affiliate provides a pass-through link to one of our sites in order to credit that affiliate for the referral. 
+> 
+> _Control Panels_
+> 
+> As part of our services offerings we provide control panel access to many of our services such as hosting, email, marketing management, logs, usage statistics and more where user data is collected for auditing and security measures. Per request in some instances your personal account information may be stored and accessed via encrypted connection, username and hashed password authentication. We make every effort to keep you data secure and encrypted at all times. If is your responsibility to make sure the terminal you access these control panels from is secure and free of malicious software.
 
-Our Site may use "cookies" to enhance User experience. User's web browser places cookies on their hard drive for record-keeping purposes and sometimes to track information about them. User may choose to set their web browser to refuse cookies, or to alert you when cookies are being sent. If they do so, note that some parts of the Site may not function properly.
+For more information please give us a call **507 536-9556**.
 
-**How we use collected information**
+Please rotate your screen to the portrait postion.
 
-Sudanese Online may collect and use Users personal information for the following purposes:
+This site was not designed to support landscape browsing on your device:   
+_mozilla/5.0 (compatible; archive.org_bot +http://www.archive.org/details/archive.org_bot)_
 
-**
-
- **
-  * _\- To improve customer service_  
-Information you provide helps us respond to your customer service requests and support needs more efficiently.
-  * _\- To personalize user experience_  
-We may use information in the aggregate to understand how our Users as a group use the services and resources provided on our Site.
-  * _\- To improve our Site_  
-We may use feedback you provide to improve our products and services.
-  * _\- To process payments_  
-We may use the information Users provide about themselves when placing an order only to provide service to that order. We do not share this information with outside parties except to the extent necessary to provide the service.
-  * _\- To send periodic emails_  
-We may use the email address to send User information and updates pertaining to their order. It may also be used to respond to their inquiries, questions, and/or other requests. If User decides to opt-in to our mailing list, they will receive emails that may include company news, updates, related product or service information, etc. If at any time the User would like to unsubscribe from receiving future emails, we include detailed unsubscribe instructions at the bottom of each email or User may contact us via our Site.
-**
-****How we protect your information**
-
-We adopt appropriate data collection, storage and processing practices and security measures to protect against unauthorized access, alteration, disclosure or destruction of your personal information, username, password, transaction information and data stored on our Site.
-
-Sensitive and private data exchange between the Site and its Users happens over a SSL secured communication channel and is encrypted and protected with digital signatures.
-
-**Sharing your personal information**
-
-We do not sell, trade, or rent Users personal identification information to others. We may share generic aggregated demographic information not linked to any personal identification information regarding visitors and users with our business partners, trusted affiliates and advertisers for the purposes outlined above.We may use third party service providers to help us operate our business and the Site or administer activities on our behalf, such as sending out newsletters or surveys. We may share your information with these third parties for those limited purposes provided that you have given us your permission.
-
-**Third party websites**
-
-Users may find advertising or other content on our Site that link to the sites and services of our partners, suppliers, advertisers, sponsors, licensors and other third parties. We do not control the content or links that appear on these sites and are not responsible for the practices employed by websites linked to or from our Site. In addition, these sites or services, including their content and links, may be constantly changing. These sites and services may have their own privacy policies and customer service policies. Browsing and interaction on any other website, including websites which have a link to our Site, is subject to that website's own terms and policies.
-
-**Google Adsense**
-
-Some of the ads may be served by Google. Google's use of the DART cookie enables it to serve ads to Users based on their visit to our Site and other sites on the Internet. DART uses "non personally identifiable information" and does NOT track personal information about you, such as your name, email address, physical address, etc. You may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at <http://www.google.com/privacy_ads.html>
-
-**Changes to this privacy policy**
-
-Sudanese Online has the discretion to update this privacy policy at any time. When we do, we will post a notification on the main page of our Site and send you an email. We encourage Users to frequently check this page for any changes to stay informed about how we are helping to protect the personal information we collect. You acknowledge and agree that it is your responsibility to review this privacy policy periodically and become aware of modifications.
-
-**Your acceptance of these terms**
-
-By using this Site, you signify your acceptance of this policy and [terms of service](http://www.sudaneseonline.org/Terms.HTML). If you do not agree to this policy, please do not use our Site. Your continued use of the Site following the posting of changes to this policy will be deemed your acceptance of those changes.
-
-**Contacting us**
-
-If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this site, please [contact us ](http://www.sudaneseonline.org/contact.aspx).
-
-[Sudanese Online](http://www.sudaneseonline.org/)  
-admin@sudaneseonline.org  
-  
-Exit    
-**
+Thank you!
