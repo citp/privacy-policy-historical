@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the documentary.org privacy policy that was archived on 2018-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181229004753id_/https%3A//www.documentary.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the documentary.org privacy policy that was archived on 2019-03-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190329180358id_/https%3A//www.documentary.org/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | International Documentary Association
 
@@ -167,7 +167,7 @@ We will store your Personal Data, in a form which permits us to identify you, fo
 
 **How long we retain your personal data  **
 
-We will retain your information for as long as your account is active or as needed to provide you with our Site. If you wish to cancel your account or request that we no longer use your information to provide you service, contact us at [link]. We will retain and use your information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements. 
+We will retain your information for as long as your account is active or as needed to provide you with our Site. If you wish to cancel your account or request that we no longer use your information to provide you service, contact us at [website@documentary.org](mailto:website@documentary.org). We will retain and use your information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements. 
 
 **Third Party Disclosure**
 
@@ -232,7 +232,7 @@ We do not knowingly collect Personal Data from children under the age of 13. If 
 
 The Fair Information Practices Principles form the backbone of privacy law in the United States and the concepts they include have played a significant role in the development of data protection laws around the globe. Understanding the Fair Information Practice Principles and how they should be implemented is critical to comply with the various privacy laws that protect personal information.
 
-**In order to be in line with Fair Information Practices we will take the following responsive action, should a data breach occur:**
+ **In order to be in line with Fair Information Practices we will take the following responsive action, should a data breach occur:**
 
 We will notify the users via email within 7 business days.
 
@@ -246,7 +246,7 @@ We also agree to the individual redress principle, which requires that individua
 
 The CAN-SPAM Act is a law that sets the rules for commercial email, establishes requirements for commercial messages, gives recipients the right to have emails stopped from being sent to them, and spells out tough penalties for violations.
 
-**We collect your email address in order to:**
+ **We collect your email address in order to:**
 
   * Send information, respond to inquiries, and/or other requests or questions.
 
