@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the adwerx.com privacy policy that was archived on 2018-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181230134625id_/https%3A//www.adwerx.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the adwerx.com privacy policy that was archived on 2019-03-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190329093618id_/https%3A//www.adwerx.com/privacy) for the most accurate reproduction.*
 
 # Adwerx
 
