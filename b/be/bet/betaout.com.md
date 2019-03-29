@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the betaout.com privacy policy that was archived on 2016-10-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161004104227id_/http%3A//www.betaout.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the betaout.com privacy policy that was archived on 2019-03-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190329165450id_/http%3A//www.betaout.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Betaout
 
@@ -13,6 +13,8 @@ Information submitted by you within our website, will be used only by us in orde
 If you purchase a product or service from us, our credit card processing vendor will request certain personally identifiable information from you on our order form. You must provide contact information (such as name, email, and physical address) and financial information (such as credit card number, expiration date) in the following URL: http://www.paypal.com/. They utilize SSL encryption to transmit sensitive information. The information provided to them, will be only kept by them. Betaout will not have access to it. 
 
 We use this information to send updates about our company and will contact you if requested or necessary. We use your IP address to help diagnose problems with our server and to administer our website. We also track browser types to help us understand our visitors' needs related to our website design. IP addresses are not linked to personally identifiable information. When you enter a contest or other promotional features, such as the Betaout's free trial, we ask for information such as your name, mailing address, daytime phone number and email address, so we can administer the contest and contact you to receive feedback regarding our product. 
+
+We may also use your registered phone number occasionally to market and advertise our products and services that may be of interest to you including promotions, advertisements, competitions or commercial communications by text message via SMS. For details of how to opt out of marketing communications, please drop an email to [contact@betaout.com.](mailto:contact@betaout.com)" 
 
 ### Choice/Opt-out: 
 
