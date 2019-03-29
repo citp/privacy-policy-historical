@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the arcticmonkeys.com privacy policy that was archived on 2018-08-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180803032725id_/https%3A//www.arcticmonkeys.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the arcticmonkeys.com privacy policy that was archived on 2019-03-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190329205508id_/https%3A//www.arcticmonkeys.com/privacy) for the most accurate reproduction.*
 
 # Arctic Monkeys
 
