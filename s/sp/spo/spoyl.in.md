@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the spoyl.in privacy policy that was archived on 2018-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181221042743id_/http%3A//www.spoyl.in/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the spoyl.in privacy policy that was archived on 2019-03-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190329201202id_/http%3A//www.spoyl.in/privacy) for the most accurate reproduction.*
 
 # Spoyl | Fashion Influencer-led Online Shopping for Men & Women in India
 
