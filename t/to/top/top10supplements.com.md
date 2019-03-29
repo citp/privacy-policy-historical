@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the top10supplements.com privacy policy that was archived on 2018-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181228192342id_/https%3A//top10supplements.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the top10supplements.com privacy policy that was archived on 2019-03-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190329174620id_/https%3A//top10supplements.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Top10Supps
 
@@ -215,6 +215,6 @@ Go to: [Disclosure Page](https://top10supplements.com/disclosure/)
 
 If you have any questions about this Privacy Policy, please contact us:
 
-  * By email: top10supps@gmail.com
+  * Get in touch by using our [Contact Form](https://top10supplements.com/contact-us/)
 
 
