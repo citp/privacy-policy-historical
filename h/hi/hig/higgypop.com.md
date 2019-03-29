@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the higgypop.com privacy policy that was archived on 2018-11-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181111203533id_/https%3A//www.higgypop.com/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the higgypop.com privacy policy that was archived on 2019-03-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190329021453id_/https%3A//www.higgypop.com/about/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Higgypop
-
-MAY 21, 2018 2:00 AM
 
 Higgypop is committed to protecting the rights and respecting the privacy of our users in accordance with the Data Protection Act 1998 and other privacy legislation.
 
@@ -70,5 +68,3 @@ You have the right to see what information we hold about you. You may ask us to 
 
 To allow us to improve our services and to comply with changes to the law, we may occasionally need to make changes to our Privacy Policy. It is recommend that you check this policy occasionally so that you are aware of changes. The date of the last revision is visible at the top of this page.  
 
-
-### You May Also Like
