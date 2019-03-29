@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the readymaderesources.com privacy policy that was archived on 2018-07-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180727042835id_/https%3A//www.readymaderesources.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the readymaderesources.com privacy policy that was archived on 2019-03-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190329060643id_/https%3A//www.readymaderesources.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
