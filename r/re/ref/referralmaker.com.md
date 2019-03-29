@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the referralmaker.com privacy policy that was archived on 2018-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181228154435id_/https%3A//www.referralmaker.com/Privacy-Policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the referralmaker.com privacy policy that was archived on 2019-03-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190329142032id_/https%3A//www.referralmaker.com/Privacy-Policy.htm) for the most accurate reproduction.*
 
 # Privacy Policy | Referral Maker CRM
 
