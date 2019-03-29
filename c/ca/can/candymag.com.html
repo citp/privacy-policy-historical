@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the candymag.com privacy policy that was archived on 2018-12-28.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20181228074014id_/https%3A//www.candymag.com/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the candymag.com privacy policy that was archived on 2019-03-29.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20190329070430id_/https%3A//www.candymag.com/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html class="no-js" lang="en"><head>
     <title>Privacy Policy | Candy Magazine</title>
@@ -45,12 +45,12 @@ dataLayer.push({
 <link rel="dns-prefetch" href="//b.scorecardresearch.com">
 
 
-		
-		<!--Meta Property Tags start -->
-        
-        <!--Meta Property Tags start -->
-         
-        <!-- Meta Property Tags end -->
+	
+	<!--Meta Property Tags start -->
+    
+    <!--Meta Property Tags start -->
+     
+    <!-- Meta Property Tags end -->
 
     
     <link rel="shortcut icon" href="https://www.candymag.com/favicon.ico">
@@ -89,10 +89,10 @@ dataLayer.push({
 	<style></style>
 
 <!-- javascript file includes required to be placed before the closing head tag -->
- <link media="all" type="text/css" rel="stylesheet" href="https://www.candymag.com/css/standardsns.css">
-<script src="https://www.candymag.com/js/lib/jquery.min.js" crossorigin="anonymous"></script>
-<script src="https://www.candymag.com/js/app/main.js" async="" crossorigin="anonymous"></script>
-<script src="https://www.candymag.com/js/vendor/jquery.lazyload.min.js" crossorigin="anonymous"></script>
+ <link media="all" type="text/css" rel="stylesheet" href="/css/standardsns.css">
+<script src="/js/lib/jquery.min.js" crossorigin="anonymous"></script>
+<script src="/js/app/main.js" async="" crossorigin="anonymous"></script>
+<script src="/js/vendor/jquery.lazyload.min.js" crossorigin="anonymous"></script>
 
 <script type="text/javascript">
     $(function(){$('img.lazy').lazyload({threshold:300, effect:'fadeIn'}).removeClass('lazy').css('display', 'block');});
@@ -106,6 +106,7 @@ dataLayer.push({
     var CHANNEL = 'privacy-policy';
     var AD_SECTION = 'others';
     var SLUG = '';
+    var API_URL = 'https://json.summitmedia-digital.com/candy/v1/';
 
     /* asynchronous loading of css */
     function loadCss(url) {
@@ -156,27 +157,30 @@ dataLayer.push({
         s.parentNode.insertBefore(x, s);
     }
 
-         var googletag = googletag || {};
-     googletag.cmd = googletag.cmd || [];
-     (function() {
-       var gads = document.createElement('script');
-       gads.async = true;
-       gads.type = 'text/javascript';
-       var useSSL = 'https:' == document.location.protocol;
-       gads.src = (useSSL ? 'https:' : 'http:') +
-         '//www.googletagservices.com/tag/js/gpt.js';
-       var node = document.getElementsByTagName('script')[0];
-       node.parentNode.insertBefore(gads, node);
-     })();
-    </script>
-
-
-
-<script>
+        var googletag = googletag || {};
+    googletag.cmd = googletag.cmd || [];
+    (function() {
+        var gads = document.createElement('script');
+        gads.async = true;
+        gads.type = 'text/javascript';
+        var useSSL = 'https:' == document.location.protocol;
+        gads.src = (useSSL ? 'https:' : 'http:') +
+        '//www.googletagservices.com/tag/js/gpt.js';
+        var node = document.getElementsByTagName('script')[0];
+        node.parentNode.insertBefore(gads, node);
+    })();
+    
     /* google ads call functions */
     var gptAdSlots = [];
     var adsNum = 41;
+
             googletag.cmd.push(function(){
+            
+                gptAdSlots = [
+    [
+
+    ]
+];
             
             
 
@@ -210,87 +214,101 @@ dataLayer.push({
             googletag.pubads().enableSingleRequest();
             googletag.pubads().disableInitialLoad();
             googletag.pubads().collapseEmptyDivs();
-            googletag.pubads().enableAsyncRendering();
             googletag.pubads().set('document_language', 'en');
             googletag.enableServices();
+            /**
+             * batch 1 refresh on load
+             */
+            reLoadAd(gptAdSlots[0]);
         });
 
-        setTimeout(function(){
-        googletag.pubads().refresh([gptAdSlots['sbanner'], gptAdSlots['scatfish']]);
-    }, 1000);
-    /* cxense library */
-
-</script>
-<script type="text/javascript">
-    function elementScrolled(elem){
+    
+    var reLoadAd = function(adArray){
+        googletag.cmd.push(function() { googletag.pubads().refresh(adArray); });
+    }
+    function elementScrolled(elem) {
         var docViewTop = $(window).scrollTop();
         var docViewBottom = docViewTop + $(window).height();
         var elemTop = $(elem).offset().top;
         return ((elemTop <= docViewBottom) && (elemTop >= docViewTop));
     }
 
-    var removed = '';
-
-    var is_fired_b2 = false, is_fired_b3 = false, is_fired_b4 = false;
-
     $(window).bind('scroll', function() {
-        if (!is_fired_b2 && $('.batchSRA2').length > 0) {
-            if (elementScrolled('.batchSRA2')) {
-                googletag.cmd.push(function() {
-                    googletag.pubads().refresh([gptAdSlots['shalfpage'], gptAdSlots['mrec02']]);
-                });
-                console.log('batch 2 fired');
-                is_fired_b2 = true;
-            }
-        } else if (!is_fired_b3 && $('.batchSRA3').length > 0) {
-            if (elementScrolled('.batchSRA3'))
+
+        if(Object.keys(gptAdSlots).length > 0)
+        {
+            for (var i in gptAdSlots)
             {
-                googletag.cmd.push(function() {
-                    googletag.pubads().refresh([gptAdSlots['mrec03']]);
-                });
-                console.log('batch 3 fired');
-                is_fired_b3 = true;
-            }
-        } else if (!is_fired_b4 && $('.batchSRA4').length > 0) {
-                        if (elementScrolled('.batchSRA4')) {
-                googletag.cmd.push(function() {
-                    googletag.pubads().refresh([gptAdSlots['sfooter']]);
-                });
-                console.log('batch 4 fired');
-                is_fired_b4 = true;
-            }
+                if(i==0 || !gptAdSlots[i].length)continue;
+                var batch = (parseInt(i)+1);
+                var target = '.SRA-batch'+batch;
+
+                if ($(target).length > 0 && !$(target).data('fired')) {
+                    if (elementScrolled(target)) {
+                        googletag.cmd.push(function() {
+                            reLoadAd(gptAdSlots[i]);
+                        });
+                        console.log('batch ' + batch + ' fired');
+                        $(target).data('fired', true);
                     }
+                }
+            }
+        }
     });
 </script>
-	
-	
 
-        <script type="text/javascript">
-        window._taboola = window._taboola || [];
-        _taboola.push({article:'auto',tracking:'REF=taboola_related'});
-        !function (e, f, u, i) {
-        if (!document.getElementById(i)){
-        e.async = 1;
-        e.src = u;
-        e.id = i;
-        f.parentNode.insertBefore(e, f);
-        }
-        }(document.createElement('script'),
-        document.getElementsByTagName('script')[0],
-        '//cdn.taboola.com/libtrc/summitmedia-candy/loader.js',
-        'tb_loader_script');
-        if(window.performance && typeof window.performance.mark == 'function')
-        {window.performance.mark('tbl_ic');}
-        </script>
 
-	
 
-        <script type="application/ld+json">
-    {"@context":"http://www.schema.org","@type":"Webpage","name":"Privacy Policy | Candy Magazine","description":"Candy Magazine is the website of the Philippines Number One Teen Magazine. It is every high school Filipina teen's best friend online.","url":"https://www.candymag.com/privacy-policy"}    </script>
-    
-    <!-- MOAT -->
-        <!-- MOAT -->
 
+    <script type="text/javascript">
+    window._taboola = window._taboola || [];
+    _taboola.push({article:'auto',tracking:'REF=taboola_related'});
+    !function (e, f, u, i) {
+    if (!document.getElementById(i)){
+    e.async = 1;
+    e.src = u;
+    e.id = i;
+    f.parentNode.insertBefore(e, f);
+    }
+    }(document.createElement('script'),
+    document.getElementsByTagName('script')[0],
+    '//cdn.taboola.com/libtrc/summitmedia-candy/loader.js',
+    'tb_loader_script');
+    if(window.performance && typeof window.performance.mark == 'function')
+    {window.performance.mark('tbl_ic');}
+    </script>
+
+
+
+<script type="application/ld+json">
+    @switch($schema) {
+        @case'article'
+            {"@context":"http://www.schema.org","@type":"Webpage","name":"Privacy Policy | Candy Magazine","description":"Candy Magazine is the website of the Philippines Number One Teen Magazine. It is every high school Filipina teen's best friend online.","url":"https://www.candymag.com/privacy-policy"}
+        break;
+
+        @case'homepage'
+           {"@context":"http://www.schema.org","@type":"Organization","name":"Candy","url":"https://www.candymag.com","logo":"https://images.summitmedia-digital.com/candy/images/candy-logo.png","email":"","sameAs":["https://www.facebook.com/CandyMag","https://twitter.com/candymagdotcom","https://www.instagram.com/candymagdotcom","https://www.pinterest.com/candymag","https://www.youtube.com/user/candymagazine"],"address":{"@type":"PostalAddress","addressLocality":"Mandaluyong, Philippines","postalCode":"1550","streetAddress":"Robinsons Pioneer Complex Pioneer St."},"contactPoint":{"@type":"ContactPoint","telephone":"+(632) 451-8888","contactType":"Customer Service","areaServed":"PH"}}
+        break;
+
+        @case'contact'
+            {"@context":"http://www.schema.org","@type":"Organization","name":"Candy","url":"https://www.candymag.com","address":{"@type":"PostalAddress","addressLocality":"Mandaluyong, Philippines","postalCode":"1550","streetAddress":"Robinsons Pioneer Complex Pioneer St."},"contactPoint":{"@type":"ContactPoint","telephone":"+(632) 451-8888","contactType":"Customer Service","areaServed":"PH"}}
+        break;
+
+        @case'author'
+            {"@context":"http://www.schema.org","@type":"Webpage","name":"Privacy Policy | Candy Magazine","description":"Candy Magazine is the website of the Philippines Number One Teen Magazine. It is every high school Filipina teen's best friend online.","url":"https://www.candymag.com/privacy-policy"}
+        break;
+
+        @case'cutiepedia'
+            {"@context":"http://www.schema.org","@type":"Webpage","name":"Privacy Policy | Candy Magazine","description":"Candy Magazine is the website of the Philippines Number One Teen Magazine. It is every high school Filipina teen's best friend online.","url":"https://www.candymag.com/privacy-policy"}
+        break;
+
+        @default
+            {"@context":"http://www.schema.org","@type":"Webpage","name":"Privacy Policy | Candy Magazine","description":"Candy Magazine is the website of the Philippines Number One Teen Magazine. It is every high school Filipina teen's best friend online.","url":"https://www.candymag.com/privacy-policy"}
+    @endswitch
+</script>
+
+<!-- MOAT -->
+<!-- MOAT -->
   </head>
   <body>
     
@@ -766,7 +784,7 @@ c-0.1,0-0.2,0-0.3,0c0,0,0,0,0,0C25.2,25,25.3,25,25.4,25z"></path>
 	.privacypolicy-content p, .privacypolicy-content li { margin-top: 15px !important; margin-bottom: 15px !important; }
 	.privacypolicy-content ol, .privacypolicy-content ul { margin-left: 30px !important; }
 	.privacypolicy-content strong { font-weight: 700 !important; }
-</style> 
+</style>
 <main class="body static">
     <div class="default-width">
 		<div class="align-left privacy-policy">
@@ -819,7 +837,7 @@ c-0.1,0-0.2,0-0.3,0c0,0,0,0,0,0C25.2,25,25.3,25,25.4,25z"></path>
         <strong>IP Address.</strong> Your Internet Protocol (“IP”) address is usually associated with the place from which you enter the Internet, like your Internet Service Provider, your company or your university. Our server may also record the referring page that linked you to us (e.g. another website or search engine); the pages you visit on the Summit Sites, the web sites you visit after this website; the ads you see; the ads you click on; other information about the type of web browser, computer operating system, device, platform, related software and settings you are using; any search terms you have entered on this web site or a referral site; and other web usage activity and data logged by our web servers. We may use your IP address to help diagnose problems with our servers, gather broad demographic information, analyze trends among our Users to help us improve and administer the Summit Sites. We may also link this information with your Personally Identifiable Information when we feel that it is necessary to enforce compliance with our rules and policies or terms of service or to protect our Summit Sites, customers or others.
       </li>
       <li>
-        <strong>Third Party Tracking Tools. </strong> We also use third party tracking tools to improve the performance and features of the Summit Sites. These third party tracking tools are designed to collect only Non-Personal Information about your use of the Summit Sites. However, you understand that such tools are created and managed by parties outside our control. As such, we are not responsible for what information is actually captured by such third parties or how such third parties use and protect that information. 
+        <strong>Third Party Tracking Tools. </strong> We also use third party tracking tools to improve the performance and features of the Summit Sites. These third party tracking tools are designed to collect only Non-Personal Information about your use of the Summit Sites. However, you understand that such tools are created and managed by parties outside our control. As such, we are not responsible for what information is actually captured by such third parties or how such third parties use and protect that information.
       </li>
     </ul>
 
@@ -862,7 +880,7 @@ c-0.1,0-0.2,0-0.3,0c0,0,0,0,0,0C25.2,25,25.3,25,25.4,25z"></path>
 
     <ol style="list-style-type: lower-alpha !important;">
       <li><strong>Email Policy.</strong> We and our affiliates and partners fully comply with national laws regarding SPAM. If you wish to opt out our email services, you may do so by following the unsubscribe instructions in the email you received. We agree that we will not sell, rent, or trade your email address to any unaffiliated third-party partners without your permission. </li>
-      <li><strong>User Registration.</strong> You may elect to change the details of your user registration at any time by logging in and editing your User Profile. If you wish to cancel or delete your User Registration, you may contact us at feedback@summitmedia.com.ph. Please take note that when we delete any information, it will be deleted from the active database, but may retain in our archives. We may retain your information for fraud or similar purposes. </li>
+      <li><strong>User Registration.</strong> You may elect to change the details of your user registration at any time by logging in and editing your User Profile. If you wish to cancel or delete your User Registration, you may contact us at smg-privacy@summitmedia.ph. Please take note that when we delete any information, it will be deleted from the active database, but may retain in our archives. We may retain your information for fraud or similar purposes. </li>
       <li><strong>Exceptions.</strong> If you have opted-out as described above, and thereafter you elect to use a service or promotion that requires us to contact you or share your information with a third party (e.g., you enter a promo or a contest), then your previous opt-out preferences will not apply to such service. Despite your indicated preferences, we may send you service related communications, including notices about your subscription, and we may continue disclosing your information to third parties under the Service Provide Exception, Legal Exception, and Acquisition Exception described above. </li>
     </ol>
 
@@ -872,7 +890,7 @@ c-0.1,0-0.2,0-0.3,0c0,0,0,0,0,0C25.2,25,25.3,25,25.4,25z"></path>
 
     <p><strong>Child and Parents</strong></p>
 
-    <p>The Summit Sites are not designed for use by anyone under age 13(“Child”). If you’re a Child, please seek the permission of your Parent or Guardian before using our website. If you are a Parent or Guardian and believe that your Child is using our website, please contact us at <a href="mailto:feedback@summitmedia.com.ph">feedback@summitmedia.com.ph</a> to request deletion of any information provided by your Child and indicate in the subject line “Deletion Request for Minor”. We reserve the right to ask you for verification of your relationship to the Child before we honor such a request. If we discover that a Child has created an account on our website, we will immediately delete the account as soon as possible. We will not use the information for any purpose, and we will not disclose the information to third parties. However, as a Parent or Guardian of such a Child, you understand that you are legally liable for any transactions created by the Child. There are commercially available tools to help you limit your Child’s exposure to materials online.  If your Child posted comments on a Summit Site, you may also request for us to delete this comments, by providing us with the website live URL address where the content resides, a copy of the content (cut and pasted into your email), and the date of publication and, if applicable, the user name associated with it. We will act as promptly as possible to remove any information (except in certain circumstances mandated by law). Note that our deletion does not ensure complete or comprehensive removal of your content from the internet and comments that may have been posted by others about you and your Child or your posting will remain accessible online. </p>
+    <p>The Summit Sites are not designed for use by anyone under age 13(“Child”). If you’re a Child, please seek the permission of your Parent or Guardian before using our website. If you are a Parent or Guardian and believe that your Child is using our website, please contact us at <a href="mailto:smg-privacy@summitmedia.ph">smg-privacy@summitmedia.ph</a> to request deletion of any information provided by your Child and indicate in the subject line “Deletion Request for Minor”. We reserve the right to ask you for verification of your relationship to the Child before we honor such a request. If we discover that a Child has created an account on our website, we will immediately delete the account as soon as possible. We will not use the information for any purpose, and we will not disclose the information to third parties. However, as a Parent or Guardian of such a Child, you understand that you are legally liable for any transactions created by the Child. There are commercially available tools to help you limit your Child’s exposure to materials online.  If your Child posted comments on a Summit Site, you may also request for us to delete this comments, by providing us with the website live URL address where the content resides, a copy of the content (cut and pasted into your email), and the date of publication and, if applicable, the user name associated with it. We will act as promptly as possible to remove any information (except in certain circumstances mandated by law). Note that our deletion does not ensure complete or comprehensive removal of your content from the internet and comments that may have been posted by others about you and your Child or your posting will remain accessible online. </p>
 
     <p><strong>Non-Philippine Residents</strong></p>
 
@@ -892,7 +910,7 @@ c-0.1,0-0.2,0-0.3,0c0,0,0,0,0,0C25.2,25,25.3,25,25.4,25z"></path>
 
     <p>Mandaluyong City 1550 Philippines</p>
 
-    <a href="mailto:feedback@summitmedia.com.ph">feedback@summitmedia.com.ph</a>
+    <a href="mailto:smg-privacy@summitmedia.ph">smg-privacy@summitmedia.ph</a>
 		    </div>
 		</div>
 
@@ -1449,9 +1467,7 @@ c-0.1,0-0.2,0-0.3,0c0,0,0,0,0,0C25.2,25,25.3,25,25.4,25z"></path>
 	<!-- javascript file includes required to be placed before the closing body tag -->
 
     <script src="https://www.candymag.com/js/dfpNew.min.js" crossorigin="anonymous"></script>
-    <script src="https://www.candymag.com/js/dfp_async.js"></script>
-
-
+    <script src="https://www.candymag.com/js/dfp_async.js" crossorigin="anonymous"></script>
     <script src="https://www.candymag.com/js/standardsns.js?v=3" crossorigin="anonymous"></script>
 
     <script type="text/javascript">
