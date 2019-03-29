@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the blackmilkclothing.com privacy policy that was archived on 2018-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180624224320id_/https%3A//blackmilkclothing.com/pages/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the blackmilkclothing.com privacy policy that was archived on 2019-03-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190329054018id_/https%3A//blackmilkclothing.com/pages/privacy-policy) for the most accurate reproduction.*
 
 # Privacy policy
 
@@ -43,7 +43,7 @@ We may also use Personal Information for other purposes that you would reasonabl
 
 We will not disclose information that personally identifies you to any third party, other than as set out in this Privacy Policy. 
 
-We may disclose your Personal Information to third party service providers that we engage in order to deliver the services that we provide to you, to assist with delivery, security, banking, payment processing or technology services, but only in relation to providing our services to you. We take reasonable steps to ensure that these organisations are bound by privacy obligations in relation to the protection of your Personal Information - these parties are required safeguard your Personal Information and only use it for the purposes it was supplied. 
+We may disclose your Personal Information to third party service providers that we engage in order to deliver the services that we provide to you, to assist with delivery, security, banking, payment processing or technology services, but only in relation to providing our services to you. We may also provide personal information to third parties to assist us with customer analytics. We take reasonable steps to ensure that these organisations are bound by privacy obligations in relation to the protection of your Personal Information - these parties are required safeguard your Personal Information and only use it for the purposes it was supplied. 
 
 In the event of a security incident involving unauthorised access, use or disclosure of Personal Information where a third party with whom we share Personal Information is involved, we will seek to work cooperatively with them to protect the Personal Information we have shared with them.
 
@@ -56,6 +56,8 @@ We use personal information about you for the primary purpose of providing you w
 If you subscribe to our e-communications (e.g. newsletters, event updates etc.), we may send you direct updates about our products and services, event invitations and for our marketing purposes (including advising you of other products, services, promotional events, programs and special offers which may be of interest to you). These updates may take the form of emails, SMS, mail or other forms of communication, in accordance with the  _Spam Act 2003_  (Cth) and the Privacy Laws. 
 
 You can unsubscribe from our electronic marketing and other communications at any time by clicking the ‘unsubscribe’ button in our electronic communications or by contacting our Privacy Officer at privacy@blackmilkclothing.com. You acknowledge that it may take several business days for us to remove you from our electronic distribution lists after you opt-out of receiving electronic communications.
+
+From time to time we may use social media tools to target advertisements.
 
 Facebook - we integrate with a Facebook pixel which collects data about products viewed and purchased, to provide measurement services and target advertisements. To opt out: [Adjust your Facebook ad settings](https://www.facebook.com/settings/?tab=ads).
 
