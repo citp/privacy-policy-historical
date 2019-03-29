@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the burningshed.com privacy policy that was archived on 2018-11-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181116061330id_/https%3A//burningshed.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the burningshed.com privacy policy that was archived on 2019-03-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190329173543id_/https%3A//burningshed.com/privacy_policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
