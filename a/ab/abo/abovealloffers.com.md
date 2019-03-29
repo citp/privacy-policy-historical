@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the abovealloffers.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606172619id_/https%3A//www.abovealloffers.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the abovealloffers.com privacy policy that was archived on 2019-03-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190329015126id_/https%3A//www.abovealloffers.com/privacy.html) for the most accurate reproduction.*
 
 # 
 
