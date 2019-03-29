@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the shortcutsaver.com privacy policy that was archived on 2018-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181228183647id_/https%3A//everydayshortcuts.com/disclaimer) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shortcutsaver.com privacy policy that was archived on 2019-03-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190329170059id_/https%3A//everydayshortcuts.com/disclaimer) for the most accurate reproduction.*
 
 # Privacy Policy - Everyday Shortcuts
 
