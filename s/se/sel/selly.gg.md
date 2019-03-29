@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the selly.gg privacy policy that was archived on 2018-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181219202912id_/https%3A//selly.gg/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the selly.gg privacy policy that was archived on 2019-03-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190329085425id_/https%3A//selly.gg/privacy) for the most accurate reproduction.*
 
 # Selly - Privacy Policy
 
@@ -14,7 +14,7 @@ This privacy policy has been compiled to better serve those who are concerned wi
 
 ### Applicability of the Privacy Policy
 
-This Privacy Policy applies to all websites that we own and operate, including the websites located at [selly.gg](https://selly.gg/) and all related websites, our applications and/or APIs, and online services (our “Site”), as well as our other services, offerings, and other interactions (e.g., customer service inquiries) you may have with us (together with our Site, collectively referred to as our “Services”). If you do not agree with the data practices described in this Privacy Policy, you should not use our Services. This Privacy Policy does not apply to any third party applications or software that integrate with the Services through our Site (“Third Party Services”), or any other third party products, services or businesses 
+This Privacy Policy applies to all websites that we own and operate, including the websites located at [selly.gg](https://selly.gg/) and all related websites, our applications and/or APIs, and online services (our “Site”), as well as our other services, offerings, and other interactions (e.g., customer service inquiries) you may have with us (together with our Site, collectively referred to as our “Services”). If you do not agree with the data practices described in this Privacy Policy, you should not use our Services. This Privacy Policy does not apply to any third party applications or software that integrate with the Services through our Site (“Third Party Services”), or any other third party products, services or businesses
 
 ### Definitions
 
@@ -50,7 +50,7 @@ is a User that purchases or receives Goods, communicates with a Merchant, or eng
 
 **(a) Information you voluntarily provide to us:**
 
-When you sign up for and use our Services, consult with our support team, send us an email, complete a form (for example the checkout form), integrate the Services with another website or service (for example, when you connect third party accounts with Selly), or communicate with us, you are voluntarilly giving us information we collect. This information may including your email address, IP address, physical address, payment gateway information (for example, PayPal email, last 4 digits of your credit/debit card). By giving Selly this information, you consent to this information being collected and used by Selly.
+When you sign up for and use our Services, consult with our support team, send us an email, complete a form (for example the checkout form), integrate the Services with another website or service (for example, when you connect third party accounts with Selly), or communicate with us, you are voluntarily giving us information we collect. This information may include your email address, IP address, physical address, payment gateway information (for example, PayPal email, last 4 digits of your credit/debit card). By giving Selly this information, you consent to this information being collected and used by Selly.
 
 **(b) Information we collect automatically:**
 
@@ -88,39 +88,39 @@ As part of our Services, we may use and incorporate into features, information y
 
 If you are a Customer and no longer want the Merchant to have access to the Personal information you previously gave consent for, contact us and we may be able to remove or update your information within a reasonable time after providing notice to the Merchant of your request.
 
-We will retain Personal Information we process on behalf of our Members for as long as needed to provide our Services or to comply with our legal obligations, resolve disputes, prevent abuse, and enforce our Terms of Service and Privacy Policy. 
+We will retain Personal Information we process on behalf of our Members for as long as needed to provide our Services or to comply with our legal obligations, resolve disputes, prevent abuse, and enforce our Terms of Service and Privacy Policy.
 
 **Your Rights**
 
-European data protection laws give you certain rights regarding your personal information. You may ask us to take the following actions in relation to your personal information that we hold: 
+European data protection laws give you certain rights regarding your personal information. You may ask us to take the following actions in relation to your personal information that we hold:
 
-  * **Opt-out.** Stop sending you direct marketing communications. You may continue to receive service-related and other non-marketing emails. 
-  * **Access.** Provide you with information about our processing of your personal information and give you access to your personal information. 
+  * **Opt-out.** Stop sending you direct marketing communications. You may continue to receive service-related and other non-marketing emails.
+  * **Access.** Provide you with information about our processing of your personal information and give you access to your personal information.
   * **Correct.** Update or correct inaccuracies in your personal information.
   * **Delete.** Delete your personal information.
-  * **Transfer.** Transfer a machine-readable copy of your personal information to you or a third party of your choice. 
+  * **Transfer.** Transfer a machine-readable copy of your personal information to you or a third party of your choice.
   * **Restrict.** Restrict the processing of your personal information.
-  * **Object.** Object to our reliance on our legitimate interests as the basis of our processing of your personal information that impacts your rights. 
+  * **Object.** Object to our reliance on our legitimate interests as the basis of our processing of your personal information that impacts your rights.
 
 
 
-You can submit these requests by email to at [contact@selly.gg](mailto:contact@selly.gg). We may request specific information from you to help us confirm your identity and process your request. Applicable law may require or permit us to decline your request. If we decline your request, we will tell you why, subject to legal restrictions. If you would like to submit a complaint about our use of your personal information or response to your requests regarding your personal information, you may contact us at [contact@selly.gg](mailto:contact@selly.gg) or submit a complaint to the data protection regulator in your jurisdiction.
+You can submit these requests by email to at [legal@selly.gg](mailto:legal@selly.gg). We may request specific information from you to help us confirm your identity and process your request. Applicable law may require or permit us to decline your request. If we decline your request, we will tell you why, subject to legal restrictions. If you would like to submit a complaint about our use of your personal information or response to your requests regarding your personal information, you may contact us at [legal@selly.gg](mailto:legal@selly.gg) or submit a complaint to the data protection regulator in your jurisdiction.
 
 ### Selly as a Data Processor
 
-We may collect, use and disclose certain Personal Data about Customers when acting as the User’s service provider. Our Users are responsible for making sure that the Customer’s privacy rights are respected, including ensuring appropriate disclosures about third party data collection and use. To the extent that we are acting as a User’s data processor, we will process Personal Data in accordance with the terms of our agreement with the User and the User’s lawful instructions. 
+We may collect, use and disclose certain Personal Data about Customers when acting as the User’s service provider. Our Users are responsible for making sure that the Customer’s privacy rights are respected, including ensuring appropriate disclosures about third party data collection and use. To the extent that we are acting as a User’s data processor, we will process Personal Data in accordance with the terms of our agreement with the User and the User’s lawful instructions.
 
 ### How do we protect visitor information?
 
 Selly's systems are scanned daily for any possible security holes to ensure your visit is safe as possible. Our backups are encrypted and stored in a secure isolated, offline manner. Your personal information is contained behind secured networks and is only accessible by a limited number of persons who have special access rights to such systems, and are required to keep the information confidential as well as the seller you purchased from or contacted. In addition, all requests to and from Selly are encrypted via Secure Socket Layer (SSL) technology.
 
-We acknowledge that the information you provide may be confidential and will maintain the confidentiality of and protect your information in accordance with our normal procedures and all applicable laws. We employ appropriate technical and organisational security measures to help protect your personal data against loss and to guard against access by unauthorised persons. We have put in place procedures to deal with any suspected data security breach and will notify you and any applicable regulator of a suspected breach where we are legally required to do so. 
+We acknowledge that the information you provide may be confidential and will maintain the confidentiality of and protect your information in accordance with our normal procedures and all applicable laws. We employ appropriate technical and organisational security measures to help protect your personal data against loss and to guard against access by unauthorised persons. We have put in place procedures to deal with any suspected data security breach and will notify you and any applicable regulator of a suspected breach where we are legally required to do so.
 
-In addition, those employees, agents, contractors and other third parties who process your personal data will only do so on our instructions and they will be subject to a duty of confidentiality. 
+In addition, those employees, agents, contractors and other third parties who process your personal data will only do so on our instructions and they will be subject to a duty of confidentiality.
 
 ### How can you access and control the information we collect?
 
-If you're already a Selly User, you may access, update and alter your basic user information in your [settings](https://web.archive.org/settings)
+If you're already a Selly User, you may access, update and alter your basic user information in your [settings](https://web.archive.org/dashboard/settings)
 
 Selly will retain User Personal Information for as long as needed to provide you and any relevant Users with services.
 
@@ -143,7 +143,7 @@ Google, as a third party vendor, uses cookies to serve ads on our site. Google's
 
 We along with third-party vendors, such as Google use first-party cookies (such as the Google Analytics cookies) compile data regarding user interactions with ad impressions, and other ad service functions as they relate to our website.
 
-Opting out: Users can set preferences for how Google advertises to you using the Google Ad Settings page. Alternatively, you can opt out by visiting the Network Advertising initiative opt out page or permanently using the Google Analytics Opt Out Browser add on. 
+Opting out: Users can set preferences for how Google advertises to you using the Google Ad Settings page. Alternatively, you can opt out by visiting the Network Advertising initiative opt out page or permanently using the Google Analytics Opt Out Browser add on.
 
 ### Changes to our Privacy Notice
 
