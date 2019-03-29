@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the scooptimes.com privacy policy that was archived on 2018-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181205200422id_/https%3A//www.scooptimes.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the scooptimes.com privacy policy that was archived on 2019-03-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190329024208id_/https%3A//www.scooptimes.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Scooptimes.com
 
