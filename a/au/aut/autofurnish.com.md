@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the autofurnish.com privacy policy that was archived on 2017-10-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171016143300id_/http%3A//www.autofurnish.com/privacy-notice) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the autofurnish.com privacy policy that was archived on 2019-03-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190329211111id_/https%3A//www.autofurnish.com/privacy-notice) for the most accurate reproduction.*
 
-# Privacy Policy | Buy online auto accessories | Buy car bike genuine accessories India - Autofurnish
+# Privacy Policy
 
 ### **Privacy Policy**
 
