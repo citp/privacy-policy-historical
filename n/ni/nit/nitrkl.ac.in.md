@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nitrkl.ac.in privacy policy that was archived on 2018-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181124004339id_/http%3A//www.nitrkl.ac.in/Policies/PrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nitrkl.ac.in privacy policy that was archived on 2019-03-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190329190047id_/http%3A//nitrkl.ac.in/Policies/PrivacyPolicy.aspx) for the most accurate reproduction.*
 
 # NIT Rourkela
 
