@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 800link.com privacy policy that was archived on 2018-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180625122307id_/http%3A//www.800link.com/Company/Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 800link.com privacy policy that was archived on 2019-03-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190329104028id_/https%3A//www.800link.com/Company/Privacy) for the most accurate reproduction.*
 
 # 800LiNK - Privacy Policy
 
