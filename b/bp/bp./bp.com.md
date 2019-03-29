@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the bp.com privacy policy that was archived on 2018-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181228212812id_/https%3A//www.bp.com/en/global/corporate/privacy-statement.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bp.com privacy policy that was archived on 2019-03-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190329193230id_/https%3A//www.bp.com/en/global/corporate/privacy-statement.html) for the most accurate reproduction.*
 
-# Privacy statement | Home | BP
+# Privacy statement | Home
 
 BP and its affiliated companies welcome your interest in this website ([bp.com](https://www.bp.com/)). The BP company responsible for it is:
 
@@ -43,7 +43,7 @@ To delete or stop cookies being placed on your computer, please check the help m
 
 ## Who do we share your personal data with and where does it go?
 
-Any transfer of personal data to this site will be secured by encryption. We may store or transfer your personal data to our other BP companies around the world. We do this under our group-wide [Binding Corporate Rules](https://web.archive.org/content/dam/bp/business-sites/en/global/corporate/pdfs/legal-and-privacy/appendix2-part-a-bp-data-privacy-rules-public-document-13-jan-17.pdf "Binding Corporate Rules"), which guarantee an adequate level of data protection wherever your data is physically kept.
+Any transfer of personal data to this site will be secured by encryption. We may store or transfer your personal data to our other BP companies around the world. We do this under our group-wide [binding corporate rules](https://web.archive.org/content/dam/bp/business-sites/en/global/corporate/pdfs/legal-and-privacy/bp-data-privacy-rules-public-document-14-december-2018.pdf), which guarantee an adequate level of data protection wherever your data is physically kept.
 
 We also use the services of third-party service providers to host our webcasts and offer technical support. Any third-party provider we appoint must act in accordance with our written instructions when processing your personal data and must protect your personal data in line with the contractually required security measures. Where we store or transfer your personal data to a third-party provider based outside the European Economic Area, we take steps to ensure your personal data is adequately protected.
 
