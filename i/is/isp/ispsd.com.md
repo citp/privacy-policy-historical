@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the ispsd.com privacy policy that was archived on 2018-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181127050446id_/https%3A//www.ispsd.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ispsd.com privacy policy that was archived on 2019-03-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190329193919id_/https%3A//www.ispsd.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy – ISPSD.COM
 
 At IsPsd.Com, the privacy of our visitors is of extreme importance to us. This privacy policy document outlines the type of personal information which is received and collected by the website and how it is used.  
 Any personal information you provide to us including and similar to your name, address, telephone number and e-mail address will not be released, sold, or rented to any entities or individuals outside of IsPsd.Com.  
