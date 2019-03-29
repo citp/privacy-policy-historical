@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the taskarmy.com privacy policy that was archived on 2016-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160605030108id_/http%3A//taskarmy.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the taskarmy.com privacy policy that was archived on 2019-03-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190329200406id_/https%3A//taskarmy.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - TaskArmy
 
