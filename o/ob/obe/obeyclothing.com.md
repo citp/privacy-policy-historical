@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the obeyclothing.com privacy policy that was archived on 2017-02-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170220233059id_/http%3A//obeyclothing.com/pages/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the obeyclothing.com privacy policy that was archived on 2019-03-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190329103113id_/https%3A//obeyclothing.com/pages/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -20,10 +20,10 @@ If we ask for your personal information for a secondary reason, like marketing, 
 
 How do I withdraw my consent?
 
-If after you opt-in, you change your mind, you may withdraw your consent for us to contact you, for the continued collection, use or disclosure of your information, at anytime, by contacting us at kyle.durand@shopify.com or mailing us at:
+If after you opt-in, you change your mind, you may withdraw your consent for us to contact you, for the continued collection, use or disclosure of your information, at anytime, by contacting us at service@obeyclothing.com or mailing us at:
 
 obeyclothing  
-418-205 Bolton St Ottawa Ontario CA K1N 1K7
+17462 Von Karman Ave Irvine, CA 92614
 
 ## Section 3 - Disclosure
 
