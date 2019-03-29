@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gpsreview.net privacy policy that was archived on 2017-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170611100909id_/http%3A//www.gpsreview.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gpsreview.net privacy policy that was archived on 2019-03-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190329120418id_/http%3A//www.gpsreview.net/privacy-policy) for the most accurate reproduction.*
 
 # Privacy and Cookies Policy GPS Review
 
