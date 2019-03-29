@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the ftnnews.com privacy policy that was archived on 2017-08-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170812212418id_/https%3A//ftnnews.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ftnnews.com privacy policy that was archived on 2019-03-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190329231130id_/https%3A//ftnnews.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# FTNnews Privacy Policy
 
 This privacy policy has been compiled to better serve those who are concerned with how their 'Personally identifiable information' (PII) is being used online. PII, as used in US privacy law and information security, is information that can be used on its own or with other information to identify, contact, or locate a single person, or to identify an individual in context. Please read our privacy policy carefully to get a clear understanding of how we collect, use, protect or otherwise handle your Personally Identifiable Information in accordance with our website.
 
@@ -47,9 +47,11 @@ We do not sell, trade, or otherwise transfer to outside parties your personally 
 
 However, non-personally identifiable visitor information may be provided to other parties for marketing, advertising, or other uses.
 
-**Third party links**
+**Affiliate Links**
 
-We do not include or offer third party products or services on our website.
+ftnNEWS is a participant in the Amazon Services LLC Associates Program, an affiliate advertising program designed to provide a means for sites to earn advertising fees by advertising and linking to Amazon.com 
+
+ftnNEWS is a global partner of Booking.com. Our articles may contain affiliate links, which means we may receive a small commission, at no cost to you, if you make a purchase through a link.
 
 **Google**
 
@@ -76,7 +78,7 @@ You can opt out by visiting the Network Advertising initiative opt out page or p
 
 **California Online Privacy Protection Act**
 
-CalOPPA is the first state law in the nation to require commercial websites and online services to post a privacy policy. The law's reach stretches well beyond California to require a person or company in the United States (and conceivably the world) that operates websites collecting personally identifiable information from California consumers to post a conspicuous privacy policy on its website stating exactly the information being collected and those individuals with whom it is being shared, and to comply with this policy. - See more at: <http://consumercal.org/california-online-privacy-protection-act-caloppa/#sthash.0FdRbT51.dpuf>
+CalOPPA is the first state law in the nation to require commercial websites and online services to post a privacy policy. The law's reach stretches well beyond California to require a person or company in the United States (and conceivably the world) that operates websites collecting personally identifiable information from California consumers to post a conspicuous privacy policy on its website stating exactly the information being collected and those individuals with whom it is being shared, and to comply with this policy. - See more at: <https://consumercal.org/california-online-privacy-protection-act-caloppa/#sthash.0FdRbT51.dpuf>
 
 According to CalOPPA we agree to the following:
 
@@ -136,4 +138,4 @@ If at any time you would like to unsubscribe from receiving future emails, you c
 
 and we will promptly remove you from our newsletter list.
 
-If there are any questions regarding this privacy policy you may contact us by visiting [Contact us page](http://ftnnews.com/contact-us.html).
+If there are any questions regarding this privacy policy you may contact us by visiting [Contact us page](https://ftnnews.com/contact-us).
