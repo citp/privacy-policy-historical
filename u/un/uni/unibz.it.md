@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the unibz.it privacy policy that was archived on 2018-08-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180830092608id_/https%3A//www.unibz.it/en/legal/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the unibz.it privacy policy that was archived on 2019-03-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190329082613id_/https%3A//www.unibz.it/en/legal/privacy) for the most accurate reproduction.*
 
 # Privacy and Cookie Policy / Free University of Bozen-Bolzano
 
@@ -13,7 +13,7 @@ Specific information notices regarding certain services or data processing may b
 #### 1\. Rights owner of the processed data
 
 The party responsible for data processing (“Titolare del trattamento”) is the Free University of Bolzano, located at Piazza Università 1, 39100 Bolzano (Italy) in the person of its President and legal representative pro tempore.  
-You can contact the DPO (data protection officer) by sending an e-mail to: [privacy@unibz.it](mailto:privacy@unibz.it).
+You can contact the DPO (data protection officer) by sending an e-mail to: [[email protected]](https://www.unibz.it/cdn-cgi/l/email-protection#3646445f4057554f7643585f544c185f42).
 
 #### 2\. Type of data processed
 
@@ -93,7 +93,7 @@ WordPress is a system that unibz makes available to some of its members to auton
 By its very nature, a website based on WordPress can also be used as a "blog", which is defined as a set of articles, possibly written by different users, ordered chronologically and/or according to arbitrary categories. Articles provide for the possibility of being commented by visitors, as well as by the users themselves; comments, in turn, may include the response of other visitors and this can lead to interesting discussions about the article's content.  
 The data that users are required to submit when registering are limited to the email address and are mandatory in order to obtain a valid account. When a comment is published, however, in addition to the email address, a visitor is also required to enter his or her name and surname.  
 Opinions and comments published by users and visitors and the information contained therein will not be used for any other purpose than being published. In particular, this data will not be aggregated or selected by any other kind of database except WordPress itself. Any statistical processing that the user may intend to carry out in the future will be performed exclusively on an anonymous basis.  
-The dissemination of personal data of users and visitors is directly attributable to the initiative of the individual user/visitor, we guarantee that no further communictaion or dissemination of the data is intended. In any case, the user or the visitor may at any time exercise the rights guaranteed by Articles. 15 ff. GDPR and send an email to [privacy@unibz.it](mailto:privacy@unibz.it).  
+The dissemination of personal data of users and visitors is directly attributable to the initiative of the individual user/visitor, we guarantee that no further communication or dissemination of the data is intended. In any case, the user or the visitor may at any time exercise the rights guaranteed by Articles. 15 ff. GDPR and send an email to [[email protected]](https://www.unibz.it/cdn-cgi/l/email-protection#e393918a9582809aa3968d8a8199cd8a97).  
 If users use WordPress to collect any other kind of data subject to EU Regulation n.2016/679, the user will be held personally responsible for the collection and processing of the same, and has to inform visitors and collect their consent in accordance with all applicable laws, and ensure them any right expressly provided by the current legislation.
 
 #### 8\. Retention Period
@@ -107,12 +107,12 @@ No decision-making takes place based solely on the automated processing of perso
 #### 10\. Rights of the data subject
 
 The data subject has the right to access their personal data, to have that data corrected or deleted, the right to limit its processing, the right of objection, the right to data transmission, to complain to the responsible national regulatory authority ( Garante della Privacy: [www.garanteprivacy.it](http://www.garanteprivacy.it/web/guest/home_en)), provided that an infringement in the processing of personal data is suspected, plus all other rights recognised by the prevailing statutes (Articles 15 et seq GDPR). If approval has been granted for the processing of personal data, then the data subject has the right to withdraw this approval.  
-The aforementioned rights may be exercised by contacting [privacy@unibz.it](mailto:privacy@unibz.it).
+The aforementioned rights may be exercised by contacting [[email protected]](https://www.unibz.it/cdn-cgi/l/email-protection#e191938897808298a1948f88839bcf8895).
 
 #### 11\. Links to other websites
 
 The website of the Free University of Bolzano may contain links to other websites that are not administered by the University and with which the University has no joint proprietorship of personal data. The University shall not be liable for the content and security measures used by these websites, and expressly rejects any liability.
 
-Art. 37, paragraph 2 of the Regulation (EU) 2016/679 of the European Parlament and of the Council of 27 April 2016 provides the obligation for public authorities or public bodies to designate a Data Protection Officer. The Data Protection Officer can be contacted at the following e-mail address: [privacy@unibz.it](mailto:privacy@unibz.it).
+Art. 37, paragraph 2 of the Regulation (EU) 2016/679 of the European Parlament and of the Council of 27 April 2016 provides the obligation for public authorities or public bodies to designate a Data Protection Officer. The Data Protection Officer can be contacted at the following e-mail address: [[email protected]](https://www.unibz.it/cdn-cgi/l/email-protection#d2a2a0bba4b3b1ab92a7bcbbb0a8fcbba6).
 
 Latest revision dated 25.05.2018
