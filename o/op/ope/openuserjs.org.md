@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the openuserjs.org privacy policy that was archived on 2018-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181212111933id_/https%3A//openuserjs.org/about/Privacy-Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the openuserjs.org privacy policy that was archived on 2019-03-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190329203825id_/https%3A//openuserjs.org/about/Privacy-Policy) for the most accurate reproduction.*
 
 # Privacy Policy | About | OpenUserJS
 
