@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the publicschoolreview.com privacy policy that was archived on 2018-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181125082531id_/https%3A//www.publicschoolreview.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the publicschoolreview.com privacy policy that was archived on 2019-03-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190329011657id_/https%3A//www.publicschoolreview.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | PublicSchoolReview.com
 
