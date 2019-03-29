@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the moneysmartguides.com privacy policy that was archived on 2018-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181228051403id_/https%3A//www.moneysmartguides.com/about/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the moneysmartguides.com privacy policy that was archived on 2019-03-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190329044758id_/https%3A//www.moneysmartguides.com/about/privacy-policy) for the most accurate reproduction.*
 
 # Disclaimer And Privacy Policy - MoneySmartGuides.com
 
