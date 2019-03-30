@@ -1,138 +1,155 @@
-> *The following text is extracted and transformed from the shopandmall.co.za privacy policy that was archived on 2017-05-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170506013100id_/http%3A//www.shopandmall.co.za/main-privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shopandmall.co.za privacy policy that was archived on 2019-03-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190330100944id_/https%3A//www.shopandmall.co.za/privacy-policy) for the most accurate reproduction.*
 
-# Privacy | shopandmall.co.za
+# Privacy Policy - Shopandmall South africa
 
-###  **Introduction**
+## Who we are
 
-Our privacy policy shows our commitment and dedication to protect your privacy. The statements describes the ways in which we collect, store, use and protect your personal information and it is important for you to review this privacy policy. By "personal information" we mean information that can be associated with a specific person and can be used to identify that person. We do not consider anonymous information to constitute personal information as it cannot be used to identify a specific person. Mybidmonster.com and its affiliates.
+Our website address is: https://www.shopandmall.co.za.
 
-By providing Mybidmonster.com and its affiliates with your personal information you expressly consent to us processing your personal information in accordance with the terms of our privacy policy. We may amend our privacy policy at any time by posting a revised version on Mybidmonster.com and its affiliates sites. The revised version will be effective at the time we post it and, following such posting, your continued use of Mybidmonster.com , your customer account (Customer Account) and the related tools and services on our sites shall constitute your express consent to us continuing to process your personal information in accordance with the terms of our revised privacy policy.
+## What personal data we collect and why we collect it
 
-We would encourage you to check Mybidmonster regularly for the most up-to-date version of our privacy policy. If we are going to use your personal information in any way other than the way set out in our privacy policy, we will notify you via email and you will have the choice of whether or not to allow us to use your personal information in such a way.
+### Comments
 
-###    
-Our collection and management of your personal information
+When visitors leave comments on the site we collect the data shown in the comments form, and also the visitor’s IP address and browser user agent string to help spam detection.
 
-In order to register/join and start using the Mybidmonster.com, you will be asked to provide us with certain personal information, such as your name, your date of birth, address, email address and telephone number and other identifying information which we may combine with your personal information. Additionally, in order for us to verify your identity we may request from you valid proof of identification in the form of a copy of your passport, certificate of registration, your resident's visa/permit, your national ID card and/or your driver's license.
+An anonymized string created from your email address (also called a hash) may be provided to the Gravatar service to see if you are using it. The Gravatar service privacy policy is available here: https://automattic.com/privacy/. After approval of your comment, your profile picture is visible to the public in the context of your comment.
 
-You should ensure that the email address you have registered with us is always up-to-date so that we can always contact you with important information regarding your use of our site and services. We may also need to collect selected financial information from you, such as your credit card and/or bank account details.
+### Children
 
-Your Internet protocol (or IP) address (which is a unique number assigned to your computer server or your Internet service provider (or ISP), information about your computer (for example, browser type) and navigation information (for example, the pages you visit on Mybidmonster.com and its affiliates) along with the times you access **our sites** may also be tracked against your personal information for the purposes of preventing fraud, to improve our services to you and, more generally, better manage our users' use of Mybidmonster.com and its affiliated sites. Finally, we may collect additional information from or about you in other ways not specifically described here. For example, we may collect information related to your contact with our customer support team or store the results when you respond to a survey.
+We do not knowingly collect information of persons who are under the minimum required ages specified herein. Residents of the European Union must be at least 16. Persons outside of the EU must be at least 13. Persons who are under 18 must obtain parental consent to use our services.
 
-###    
-**How we use your personal information.**
+### Media
 
-We use your personal information to provide and improve our services to you. We may also use your personal information to prevent illegal activities and implement our User Agreement with you. For example, we may share some of the personal information you give us with banks (for example, to comply with our anti-money laundering obligations), to credit card authorization, processing and verification services or for fraud screening purposes.
+If you upload images to the website, you should avoid uploading images with embedded location data (EXIF GPS) included. Visitors to the website can download and extract any location data from images on the website.
 
-###  Children's Privacy
+### Contact forms
 
-This Web site is designed for an adult audience only, and children should not use this Web site. We will not intentionally collect online any personal information (such as a child's name or e-mail address) from children under the age of 18. If you think that we have collected personal information from a child under the age of 18, please contact us and we will address the issue.We may need, in such circumstances, to request proof of identification from you (e.g. in the form of a copy of your passport or national ID). These entities may not use your personal information for any other secondary purposes beyond the purpose for which your personal information was provided to them by us, unless they are required to do so by law.
+We are committed to protecting your privacy. We will only use the information that we collect about you lawfully (in accordance with the Data Protection Act 1998 and GDPR).
 
-Mybidmonster.com and its affiliates may offer a service called "Tell a Friend" that allows you to notify friends about open auctions and our services. If you choose to use our referral service to tell a friend about our site, we will ask you for your friend's name and email address. We will automatically send your friend a one-time email inviting him or her to visit the site. We do not save or share such information and email address, they are only used for this one time mailing. Please note, however, that Mybidmonster.com and its affiliates oppose the practice of sending unsolicited commercial emails, also known as "spam". Therefore, we request that you send "Tell A Friend" emails only to people known by you who may be interested in the auction. If someone asks you not to send these emails to him or her, please comply.
+We may collect information about you for 2 reasons: firstly, to process your order and second, to response to any queries which you may have.
 
-Though we make every effort to preserve your privacy, we may need to disclose your personal information to law enforcement agencies, government agencies or other third parties where we are compelled to by court order or similar legal procedure; where we are required so to do to comply with law; where we are cooperating with an ongoing law enforcement investigation; or where we have a good faith belief that such action is necessary to prevent physical harm or financial loss, to report suspected illegal activity or to investigate a possible violation of our User Agreement. In the event of the sale of Mybidmonster.com its affiliates, subsidiaries or any assets of the business, your personal information may be disclosed to a potential purchaser for the purposes of the continued provision of the service to you. Otherwise, we will only disclose your personal information to a third party with your permission. We do not sell or rent any of your personal information to third parties in the normal course of doing business and will only share your personal information with third parties in accordance with this privacy policy.
+We will not e-mail you in the future unless you have given us your consent.
 
-###  How to Access, review and amend your personal information
+We will give you the chance to refuse any marketing email from us in the future.
 
-You can access and review your information under "Profile/MYCP" and preference when you log into your Customer Account on Mybidmonster.com and its affiliates. If your personal information changes in any way, if it is incorrectly presented in your Customer Account or if you wish to amend it for any other reason, you should promptly update, amend or correct your personal information (as applicable) by logging into the Mybidmonster.com and its affiliates websites. Additionally, in order to deactivate your Customer Account you will need to contact our customer support team via Mybidmonster.com and its affiliates. Following the deactivation of your Customer Account we may need to retain your personal information to comply with law, for technical troubleshooting requirements, to prevent fraud, assist in any legal investigations and take any other actions otherwise permitted by law.  
- 
+The type of information we may collect about you includes but isn’t limited to the following:
 
-###  How we communicate with you.
+  * Full names
+  * Dates of birth
+  * Physical addresses
+  * IP addresses (if tracked)
+  * Telephone number
+  * Screen names or handles
+  * Email address
 
-Upon registering your Customer Account you will receive an email requesting that you confirm your registration and confirming your successful registration. Once registered, you may occasionally receive information on products, services and special deals from us. We offer you the option of either receiving or not receiving such information when you register. Should you wish to change the option you chose on registration you can do so at any time in your Customer Account Profile/MyCP or through the preference tab.
 
-Third party website links. Mybidmonster.com and its affiliates may contain links to other websites. Mybidmonster.com has no control over the practices of these other websites and is not responsible for the privacy practices of such other websites. We encourage you, when you leave Mybidmonster.com and its affiliates, to read the privacy statements of each and every website you visit if you intend to provide personal information to such website.
 
-###    
-About Cookies.
+We will never collect information about you without your explicit consent.
 
-"Cookies" are pieces of information that are passed to your browser and stored on your computer's hard drive. Mybidmonster.com uses cookies to recognize repeat visitors, to automatically enter your login ID in our bid form, and to provide additional features to make bidding & buying at our sites easier and more efficient. If you do not wish to receive cookies, you can turn them off using your browser's settings. We do not link the information we store in cookies to any personally identifiable information you submit while on our site. The cookies we use do not reveal any personal information about you. Cookies help us improve your experience of MyBidmonster.com and also help us understand which parts of sites are the most popular.
+The information we hold will be accurate and up to date. You can check the information that we hold about you by emailing us. If you find any inaccuracies we will delete or correct it promptly.
 
-###  Our Competition Offerings
+The personal information which we hold will be held securely in accordance with our internal security policy and the law.
 
-Competitions may be made available on MyBidmonster.com from time to time. You do not have to participate in these, however, if you choose to, you may be asked to disclose some personal information. This privacy policy will apply to any personal information disclosed by you in relation to any such competition on MyBidmonster.com. At the time of entering the competition, it will be made clear to you who will have access to your personal information and the reasons for such access. You are, of course, not obliged to continue with your competition entry if you do not wish to disclose the requested personal information.
+We may use technology to track the patterns of behaviour of visitors to our site. This can include using a “cookie” which would be stored on your browser. You can usually modify your browser to prevent this happening. The information collected in this way can be used to identify you unless you modify your browser settings.
 
-###    
-**How we protect your personal information**
+If you have any questions/comments about privacy, you should [contact us](https://www.shopandmall.co.za/contact/).
 
-We hold your personal information on servers. If you choose to provide us with personal information, you consent to the transfer of your personal information to, and the storage of that personal information on our servers. We take reasonable measures to safeguard all your personal information from unauthorized access, use or disclosure, including the use of Secure Socket Layer (SSL) technology with high security Supports 128- and 256-bit encryption, certified by **DigiCert**. Never share your username and password or any details about your Customer Account with anyone. If you are concerned that your username, password or Customer Account has been compromised, please contact our customer support team immediately. In particular, if you are concerned that your password has been compromised, please ensure you change your password immediately by logging onto MyBidmonster.com. ****
+### Cookies
 
-###    
-**Protecting your login ID and password  **                                                                                                     
+If you leave a comment on our site you may opt-in to saving your name, email address and website in cookies. These are for your convenience so that you do not have to fill in your details again when you leave another comment. These cookies will last for one year.
 
-Always keep your Mybidmonster.com account username and password secret. They are your only identification for bidding purposes. If you receive information about a bid you did not place, or questionable communications regarding your account, please contact MybidMonster.com Customer Support immediately by email. One potential way for someone to steal your login ID and password is if you bookmark any area on MYCP or a bid submission page. ****
+If you have an account and you log in to this site, we will set a temporary cookie to determine if your browser accepts cookies. This cookie contains no personal data and is discarded when you close your browser.
 
-###    
-About SSL, security, and firewall problems                                                                                                 
+When you log in, we will also set up several cookies to save your login information and your screen display choices. Login cookies last for two days, and screen options cookies last for a year. If you select “Remember Me”, your login will persist for two weeks. If you log out of your account, the login cookies will be removed.
 
-Some older browsers (such as IE 3.0.2) have known SSL bugs. These can result in the browser crashing on SSL pages, compromise on security or giving error messages. We recommend that you upgrade to the latest version of whatever browser you prefer. For users behind corporate firewalls, you need to configure your web browser security settings. This includes setting https or secure proxy settings. To determine if you have such a security problem, you can edit a secure URL, replacing 'https' (secure) with 'http' (insecure). If the page works with http:// but not https://, then you have a problem with your security settings. You should contact your system administrator for assistance. ****
+If you edit or publish an article, an additional cookie will be saved in your browser. This cookie includes no personal data and simply indicates the post ID of the article you just edited. It expires after 1 day.
 
-###    
-How your information is encrypted                                                                                                               
+Cookies Policy
 
-There are certain areas on the site where you may enter and submit additional information. Certain of these areas are encrypted using SSL encrypted transmissions between your Web browser and our Web server. This is designed to reduce the chance that someone (e.g. on your network at work or at your Internet service provider) may try to compromise your private information as it travels from your Web browser to our secure server. You'll know when transmitted data is encrypted by a security notice when you enter an encrypted page, and by the presence of an icon on your browser, either a key for Netscape or a lock for Microsoft Internet Explorer. The pages where you submit your account information, place a bid, and receive confirmation of a successful bid are all encrypted. In addition, your credit card information is encrypted within the Mybidmonster.com database and access to such information is restricted. This system is unique and designed to provide you with additional security when purchasing items on MyBidmonster.com. ****
+Last updated: January 17, 2019
 
-###    
-How you can contact us about privacy questions
+Shopandmall (“us”, “we”, or “our”) uses cookies on the https://www.shopandmall.co.za website (the “Service”). By using the Service, you consent to the use of cookies.
 
-We reserve the right to repeat comments about our products made in communications with us for marketing purposes.
+Our Cookies Policy explains what cookies are, how we use cookies, how third-parties we may partner with may use cookies on the Service, your choices regarding cookies and further information about cookies.
 
-###    
-Prohibited items
+## What are cookies
 
-Below is a list of prohibited items that cannot be listed on MyBidMonster  
-Alcohol  
-Animals and wildlife products – examples include live animals, mounted specimens, and ivory  
-Artifacts, grave-related items, and Native American arts and crafts  
-Catalytic converters and test pipes  
-Charity or fundraising listings  
-Contracts  
-Counterfeit currency and stamps  
-Credit cards  
-Currency selling  
-Drugs and drug paraphernalia  
-Drugs, describing drugs or drug-like substances  
-Event tickets  
-Firearms, weapons, and knives – examples include pepper spray, replicas, and stun guns (see also military items)  
-Food and healthcare items  
-Gift cards  
-Government documents, IDs, and licenses  
-Hazardous materials – examples include batteries, fireworks, and Freon  
-Human parts and remains  
-Items encouraging illegal activity – examples include an eBook describing how to create methamphetamine  
-Lottery tickets  
-Mailing lists and personal information  
-Manufacturers' coupons  
-Medical devices – examples include contact lenses, pacemakers, and surgical instruments  
-Military related items including firearms, weapons, and knives                           
-Multi-level marketing, pyramid, and matrix programs  
-Offensive material – examples include ethnically or racially offensive material and Nazi memorabilia  
-Pesticides  
-Pirated materials like CDs and DVDs  
-Pirated software  
-Plants and seeds                            
-Police-related items  
-Political memorabilia (reproduction)  
-Postage meters  
-Prescription drugs  
-Prohibited services  
-Recalled items  
-Slot machines  
-Stolen property and property with removed serial numbers  
-Surveillance equipment  
-Travel  
-Weeds (see plants and seeds)  
-We reserve the right to add to this list at anytime.
+Cookies are small pieces of text sent by your web browser by a website you visit. A cookie file is stored in your web browser and allows the Service or a third-party to recognize you and make your next visit easier and the Service more useful to you.
 
-###    
-How you can contact us
+Cookies can be “persistent” or “session” cookies. Persistent cookies remain on your personal computer or mobile device when you go offline, while session cookies are deleted as soon as you close your web browser.
 
-If you have any questions about our privacy policy please or write to:
+## How Shopandmall uses cookies
 
-**South Africa: MyBidMonster**  
-Regus Building, Perfect Transcriber Offices  
-23 Wellington Road,  
-Parktown,  
-South Africa.
+When you use and access the Service, we may place a number of cookies files in your web browser.
 
-####  To make enquiries about our services, seek assistance, give feedback and more information please [Contact](http://www.mybidmonster.co.za/main-contact) us
+We use cookies for the following purposes:
+
+To enable certain functions of the Service
+
+We use both session and persistent cookies on the Service and we use different types of cookies to run the Service:
+
+Essential cookies. We may use essential cookies to authenticate users and prevent fraudulent use of user accounts.
+
+## What are your choices regarding cookies
+
+If you’d like to delete cookies or instruct your web browser to delete or refuse cookies, please visit the help pages of your web browser. As an European citizen, under GDPR, you have certain individual rights. You can learn more about these rights in the [GDPR Guide](https://termsfeed.com/blog/gdpr/#Individual_Rights_Under_the_GDPR).
+
+Please note, however, that if you delete cookies or refuse to accept them, you might not be able to use all of the features we offer, you may not be able to store your preferences, and some of our pages might not display properly.
+
+For the Chrome web browser, please visit this page from Google: <https://support.google.com/accounts/answer/32050>
+
+For the Internet Explorer web browser, please visit this page from Microsoft: <http://support.microsoft.com/kb/278835>
+
+For the Firefox web browser, please visit this page from Mozilla: <https://support.mozilla.org/en-US/kb/delete-cookies-remove-info-websites-stored>
+
+For the Safari web browser, please visit this page from Apple: <https://support.apple.com/kb/PH21411?locale=en_US>
+
+For any other web browser, please visit your web browser’s official web pages.
+
+## Where can you find more information about cookies
+
+You can learn more about cookies and the following third-party websites:
+
+AllAboutCookies: <http://www.allaboutcookies.org/>
+
+Network Advertising Initiative: <http://www.networkadvertising.org/>
+
+### Embedded content from other websites
+
+Articles on this site may include embedded content (e.g. videos, images, articles, etc.). Embedded content from other websites behaves in the exact same way as if the visitor has visited the other website.
+
+These websites may collect data about you, use cookies, embed additional third-party tracking, and monitor your interaction with that embedded content, including tracking your interaction with the embedded content if you have an account and are logged in to that website.
+
+### Analytics
+
+We use Google Analytics to monitor traffic to this site, and to monitor traffic from subscription emails sent via MailChimp. Google Analytics collects information that includes your IP address, browser type and pages visited on this site, by placing a tracking cookie in your web browser. It does not collect names, emails or any physical addresses. This data is used solely for the purposes of monitoring traffic to our site. All data is kept for 26 months before being automatically deleted. If you wish to opt out of Google Analytics at any time, you can install this opt-out extension to your web browser: [tools.google.com/dlpage/gaoptout](https://tools.google.com/dlpage/gaoptout). For the Google Analytics Privacy Policy, see [here](https://support.google.com/analytics/answer/6004245?hl=en).
+
+## Who we share your data with
+
+Shopandmall may share your personal data with third-parties for other purposes but only in the following contexts:
+
+Other than the Google Analytics properties mentioned above, we do not share your data with any third parties, including social media platforms such as Facebook, Twitter, Google+ and Instagram.
+
+## How long we retain your data
+
+If you leave a comment, the comment and its metadata are retained indefinitely. This is so we can recognize and approve any follow-up comments automatically instead of holding them in a moderation queue.
+
+For users that register on our website (if any), we also store the personal information they provide in their user profile. All users can see, edit, or delete their personal information at any time (except they cannot change their username). Website administrators can also see and edit that information.
+
+We retain your data for as long as you have an account. When you close an account, we will delete its content, including its videos. We may retain logs of automatically collected information (for internal analytics); your email address; your tax information; communications with you; and your transactional information (for auditing, tax, and financial purposes). When we no longer have a business reason for retaining data, we will delete or anonymize it.
+
+If we receive legal process pertaining to your account, we will retain your data for as long as we in good faith believe is necessary to comply with the legal process. Similarly, if we believe that your account has been involved in wrongdoing, we may preserve your data to defend or assert our rights.
+
+## What rights you have over your data
+
+If you have an account on this site, or have left comments, you can request to receive an exported file of the personal data we hold about you, including any data you have provided to us. You can also request that we erase any personal data we hold about you. This does not include any data we are obliged to keep for administrative, legal, or security purposes.
+
+## Where we send your data
+
+Visitor comments may be checked through an automated spam detection service.
+
+## Changes in Privacy Policy
+
+By using our website, you agree to the collection and use of this information by Shopandmall. In the event of we are deciding to change our privacy policy, we will post those changes on this page so that you are always aware of what information we collect, how we use it, and under what circumstances we disclose it.
+
+If you require any more information or have any questions about our privacy policy, please feel free to contact us.
