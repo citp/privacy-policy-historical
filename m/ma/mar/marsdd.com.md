@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the marsdd.com privacy policy that was archived on 2018-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181229230612id_/https%3A//www.marsdd.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the marsdd.com privacy policy that was archived on 2019-03-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190330195522id_/https%3A//www.marsdd.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy - MaRS
+# Privacy Policy - MaRS Discovery District
 
 **Modified:** June 16, 2016
 
@@ -143,7 +143,7 @@ Cookies used by MaRS do not give us access to anything on your hard drive and ca
 ## **Remarketing / Targeted Advertising**
 
 In addition to the cookie uses described above, MaRS may also use cookies to serve our remarketing campaigns so that third-party vendors, including Google, Twitter and Facebook, show our ads on sites across the Internet. MaRS may also use targeted advertising services to tailor MaRS advertisements (both on the Site and on other sites) to your interests. You can opt out of these remarketing campaigns by turning off cookies in your browser, as described above.  
-MaRS may also disclose some of your personal information (such as your gender, age, location and interests) to the providers of targeted advertising services to help adjust the advertisements to your preferences; however, in that case, MaRS will contractually obligate the service providers to maintain the security of your information and only use it for the purpose of targeting MaRS’s ads to you. You can opt out of participating in these targeted ad programs by contacting our Privacy Officer as set out below. 
+MaRS may also disclose some of your personal information (such as your gender, age, location and interests) to the providers of targeted advertising services to help adjust the advertisements to your preferences; however, in that case, MaRS will contractually obligate the service providers to maintain the security of your information and only use it for the purpose of targeting MaRS’s ads to you. You can opt out of participating in these targeted ad programs by contacting our Privacy Officer as set out below.
 
 ## **Who do I contact with questions or concerns with this privacy policy?**
 
