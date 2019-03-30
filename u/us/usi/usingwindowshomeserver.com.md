@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the usingwindowshomeserver.com privacy policy that was archived on 2018-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181101122939id_/https%3A//moviesgamesandtech.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the usingwindowshomeserver.com privacy policy that was archived on 2019-03-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190331003639id_/https%3A//moviesgamesandtech.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Movies Games and Tech
 
