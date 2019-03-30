@@ -1,43 +1,7 @@
-<!--The following is the downloaded HTML source of the vagex.com privacy policy that was archived on 2018-10-24.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20181024113212id_/http%3A//vagex.com/privacy.php) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the vagex.com privacy policy that was archived on 2019-03-30.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20190330171033id_/http%3A//vagex.com/privacy.php) for the most accurate reproduction.-->
 
-<html lang="en"><head><script language="javascript" type="text/javascript">
-function show(id){
-if(id == 'link1'){
- document.getElementById('bg_mask').style.visibility='visible';
-  document.getElementById('frontlayer').style.visibility='visible';
-}
-if(id == 'link2'){
- document.getElementById('bg_mask2').style.visibility='visible';
-  document.getElementById('frontlayer2').style.visibility='visible';
-}
-if(id == 'link3'){
- document.getElementById('bg_mask3').style.visibility='visible';
-  document.getElementById('frontlayer3').style.visibility='visible';
-}
-}
-
-function showFrontLayer() {
-  document.getElementById('bg_mask').style.visibility='visible';
-  document.getElementById('frontlayer').style.visibility='visible';
-}
-function hideFrontLayer() {
-  document.getElementById('bg_mask').style.visibility='hidden';
-  document.getElementById('frontlayer').style.visibility='hidden';
- document.getElementById('bg_mask2').style.visibility='hidden';
-  document.getElementById('frontlayer2').style.visibility='hidden';
- document.getElementById('bg_mask3').style.visibility='hidden';
-  document.getElementById('frontlayer3').style.visibility='hidden';
-}
-
-function loginfocus() {
-		document.getElementById("email").focus();
-}
-</script>
-
-
-
-
+<html lang="en"><head>
 <title>Vagex</title>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 <meta name="referrer" content="no-referrer">
@@ -121,6 +85,7 @@ h1 {
 .thinbord {
 	border: 1px dotted #000000;
 }
+
 #bg_mask {
   position: absolute;
   top: 0;
@@ -128,26 +93,16 @@ h1 {
   left: 0;
   margin: auto;
   margin-top: 0px;
-  width: 981px;
+  width: 681px;//981
   height: 610px;
   background : url("images/pixel.png") center;
   z-index: 5;
   visibility: hidden;
 } 
-
 #frontlayer {
   position: absolute;
-  top: 0;
-  right: 0;
-  bottom: 0;
-  left: 0;
-  margin: 82px 10px 5px 85px;
-  padding : 30px;
-  width: 715px;
-  height: 370px;
   background-color: white;
   visibility: hidden;
-  border: 15px solid black;
   z-index: 6;
 } 
 #bg_mask2 {
@@ -166,17 +121,9 @@ h1 {
 
 #frontlayer2 {
   position: absolute;
-  top: 0;
-  right: 0;
-  bottom: 0;
-  left: 0;
-  margin: 82px 10px 5px 85px;
-  padding : 30px;
-  width: 715px;
-  height: 715px;
   background-color: white;
   visibility: hidden;
-  border: 15px solid black;
+
   z-index: 6;
 } #bg_mask3 {
   position: absolute;
@@ -194,55 +141,273 @@ h1 {
 
 #frontlayer3 {
   position: absolute;
-  top: 0;
-  right: 0;
-  bottom: 0;
-  left: 0;
-  margin: 82px 10px 5px 85px;
-  padding : 30px;
-  width: 715px;
-  height: 370px;
-  background-color: white;
   visibility: hidden;
-  border: 15px solid black;
-  z-index: 1;
-} //onLoad="MM_preloadImages('images/layoutx_08.gif','images/layoutx_09.gif','images/layoutx_10.gif','images/layoutx_11.gif','images/layoutx_12.gif','images/layoutx_14.gif','images/layoutx_15.gif','images/layoutx_13.gif')"
--->
+  z-index: 6;
+
+}
+#topbar{
+  position: relative;
+  z-index: 6;
+
+  right: 0;  bottom: 0;
+  left: 0;
+
+}
 </style>
 </head>
-<body bgcolor="#FFFFFF" leftmargin="0" topmargin="0" marginwidth="0" marginheight="0">
+
+<body bgcolor="white" leftmargin="0" topmargin="0" marginwidth="0" marginheight="0">
+
+<script language="javascript" type="text/javascript">
+
+var scpage=0;
+var scpos=0;
+var scpos2=0;
+function scroll(){
+	setTimeout(function() {
+		try {
+			if(scpage==0){
+			window.scrollTo(0,0);
+			document.getElementById('topbar').style.position='Fixed';
+			scpage=1;
+			}
+			if(scpage==1 && (document.documentElement.scrollTop==scpos || scpos2==scpos)){
+				if(document.documentElement.scrollTop!=scpos){
+			//window.scrollTo(0,scpos2);
+cspos2=0;
+return;
+				} else if(document.documentElement.scrollTop==scpos){//scrollTop's current position working in i.e.
+			window.scrollBy(0,0.25);
+			//window.scrollTo(0,scpos2);
+
+			scpos2=scpos2+0.25;
+			scpos=document.documentElement.scrollTop;
+				}
+			}
+		} catch (ex) {
+		}
+	scroll();
+	}, 25);
+}
+
+
+function scrollimg(scswitch){
+
+	if(scswitch==1){
+	document.getElementById('scrollkimg').setAttribute('src','//vagex.com/members/images/s0.png'); 
+	document.cookie = "autoscroll=0;path=/;";
+	document.getElementById('scrollk').setAttribute('href','javascript:scrollimg(0)'); 
+			window.scrollTo(0,1);
+	} else {	
+
+	document.getElementById('scrollkimg').setAttribute('src','//vagex.com/members/images/s1.png'); 
+	document.cookie = "autoscroll=1;path=/;";
+	document.getElementById('scrollk').setAttribute('href','javascript:scrollimg(1)'); 
+	scroll();
+
+	}
+
+}
+
+var scookie=0;
+if(scookie==1){
+scroll();
+}
+
+function show(id){
+//hideFrontLayer();
+if(id == 'link1'){
+//hideFrontLayer();
+// document.getElementById('bg_mask').style.visibility='visible';
+document.getElementById('frontlayer').style.visibility='visible';
+document.getElementById('frontlayer').style.position='relative';
+
+document.getElementById('frontlayer2').style.visibility='hidden';
+document.getElementById('frontlayer2').style.position='absolute'; 
+document.getElementById('frontlayer3').style.visibility='hidden'; 
+document.getElementById('frontlayer3').style.position='absolute';
+
+document.getElementById('main').style.display='none';
+document.getElementById('dbody').style.display='block';
+document.getElementById('fbar').setAttribute('background','//vagex.com/images/bar.jpg');
+document.getElementById('fbar').setAttribute('height','60');
+
+//document.getElementById('main').style.visibility='hidden';
+//document.getElementById('main').innerHTML='';
+//document.getElementById('main').innerHTML=document.getElementById('frontlayer').innerHTML;
+//document.getElementById('main').style.zIndex='6';
+
+		document.getElementById("email").focus();
+}
+if(id == 'link2'){
+//hideFrontLayer();
+ //document.getElementById('bg_mask2').style.visibility='visible';
+document.getElementById('frontlayer2').style.visibility='visible';
+document.getElementById('frontlayer2').style.position='relative';
+
+document.getElementById('frontlayer').style.visibility='hidden'; 
+document.getElementById('frontlayer').style.position='absolute';
+document.getElementById('frontlayer3').style.visibility='hidden'; 
+document.getElementById('frontlayer3').style.position='absolute';
+
+document.getElementById('main').style.display='none';
+document.getElementById('dbody').style.display='block';
+document.getElementById('fbar').setAttribute('background','//vagex.com/images/bar.jpg');
+document.getElementById('fbar').setAttribute('height','60');
+
+//document.getElementById('main').style.visibility='hidden';
+//document.getElementById('main').innerHTML='';
+
+//document.getElementById('main').innerHTML=document.getElementById('frontlayer2').innerHTML;
+//document.getElementById('main').style.zIndex='6';
+}
+if(id == 'link3'){
+//hideFrontLayer();
+
+document.getElementById('frontlayer3').style.visibility='visible';
+document.getElementById('frontlayer3').style.position='relative';
+
+document.getElementById('frontlayer').style.visibility='hidden'; 
+document.getElementById('frontlayer').style.position='absolute';
+document.getElementById('frontlayer2').style.visibility='hidden'; 
+document.getElementById('frontlayer2').style.position='absolute';
+
+
+document.getElementById('main').style.display='none';
+document.getElementById('dbody').style.display='none';
+document.getElementById('fbar').setAttribute('background','');
+document.getElementById('fbar').setAttribute('height','0');
+
+//document.getElementById('main').style.visibility='hidden';
+//document.getElementById('main').innerHTML='';
+
+
+//document.getElementById('main').style.visibility='visible';
+//document.getElementById('main').innerHTML=document.getElementById('frontlayer3').innerHTML;
+}
+}
+
+function showFrontLayer() {
+  document.getElementById('bg_mask').style.visibility='visible';
+  document.getElementById('frontlayer').style.visibility='visible';
+}
+function hideFrontLayer() {
+document.getElementById('main').style.visibility='visible ';
+  document.getElementById('bg_mask').style.visibility='hidden';
+  document.getElementById('frontlayer').style.visibility='hidden';
+ document.getElementById('bg_mask2').style.visibility='hidden';
+  document.getElementById('frontlayer2').style.visibility='hidden';
+ document.getElementById('bg_mask3').style.visibility='hidden';
+  document.getElementById('frontlayer3').style.visibility='hidden';
+document.getElementById('frontlayer').style.position='absolute';
+document.getElementById('frontlayer2').style.position='absolute';
+document.getElementById('frontlayer3').style.position='absolute';
+
+}
+
+function loginfocus() {
+		document.getElementById("email").focus();
+}
+</script>
+
 <table align="center" width="100%" border="0"><tbody><tr><td width="77"></td><td>
-<div id="bg_mask">
+<table id="top" width="831" border="0" align="center" cellpadding="0" cellspacing="0">
+  <tbody><tr valign="top">
+    
+    <td width="780">
+
+
+<table width="780" height="50%" border="0" align="center" cellpadding="3" cellspacing="0" bgcolor="#FFFFFF">
+   <tbody><tr height="50%">
+    <td class="" width="60%" height="50%" rowspan="2" valign="top" align="left"><a href="//vagex.com/"><img border="0" src="//vagex.com/images/yt.jpg" width="200" height="77"></a>
+<a href="//vagex.com/"><img border="0" src="//vagex.com/images/slogo.jpg" width="200" height="77"></a></td>
+
+
+
+     <td class="" width="30%" colspan="2" rowspan="1" valign="top" align="right">
+<a href="javascript:show('link2')" id="link2" onmouseover="javascript:show('link2')" "="">Sign Up</a> | 	<a href="javascript:show('link1');loginfocus();" id="link1" onmouseover="javascript:show('link1')">Login</a>
+	 | <a href="javascript:show('link3')" id="link3" onmouseover="javascript:show('link3')">Video Tutorial</a>              
+             | <a href="javascript:scroll()">AutoScroll</a> <a href="javascript:scrollimg(0)" id="scrollk"><img id="scrollkimg" width="30" height="" src="//vagex.com/members/images/s0.png" value="0"></a>
+
+
+
+</td>
+      </tr>        
+</tbody></table>
+
+
+          <div id="frontlayer3">
+            <table cellpadding="5" width="100%"><tbody><tr><td style="margin:5px;padding:9px;border:solid 1px #4d4d4d;border-radius:9px;" bgcolor="black" align="center" valign="middle"><link href="player/mediaplayer.css" rel="stylesheet" type="text/css">
+	<script type="text/javascript" src="player/mediaplayer.js"></script>
+	
+	<script type="text/javascript">
+		_V_.options.flash.swf = "player/mediaplayer.swf";
+	</script>
+	
+<div align="center">
+	<div id="video_containter" class="video-js vjs-default-skin vjs-paused" width="700" height="368" style="width: 700px; height: 368px;"><video id="video_containter_html5_api" class="vjs-tech" preload="none" data-setup="{}" src="v.mp4">
+		
+		<!--
+		<track kind="captions" src="" srclang="en_US" label="English (U.S.)" />
+		-->
+	</video><img class="vjs-poster" src="" tabindex="-1" style="display: none;"><div class="vjs-text-track-display"></div><div class="vjs-loading-spinner"><div class="ball1"></div><div class="ball2"></div><div class="ball3"></div><div class="ball4"></div><div class="ball5"></div><div class="ball6"></div><div class="ball7"></div><div class="ball8"></div></div><div class="vjs-big-play-button" tabindex="0"><span></span></div><div class="vjs-controls"><div class="vjs-play-control vjs-control " tabindex="0"><div><span class="vjs-control-text">Play</span></div></div><div class="vjs-fullscreen-control vjs-control " tabindex="0"><div><span class="vjs-control-text">Fullscreen</span></div></div><div class="vjs-current-time vjs-time-controls vjs-control"><div class="vjs-current-time-display">0:00</div></div><div class="vjs-time-divider"><div><span>/</span></div></div><div class="vjs-duration vjs-time-controls vjs-control"><div class="vjs-duration-display">0:00</div></div><div class="vjs-remaining-time vjs-time-controls vjs-control"><div class="vjs-remaining-time-display">-0:00</div></div><div class="vjs-progress-control vjs-control"><div aria-valuenow="0" aria-valuemin="0" aria-valuemax="100" tabindex="0" class="vjs-progress-holder"><div class="vjs-load-progress"><span class="vjs-control-text">Loaded: 0%</span></div><div class="vjs-play-progress" style="width: 1.32%;"><span class="vjs-control-text">Progress: 0%</span></div><div class="vjs-seek-handle" style="left: 0%;"><span class="vjs-control-text">00:00</span></div></div></div><div class="vjs-volume-control vjs-control"><div aria-valuenow="0" aria-valuemin="0" aria-valuemax="100" tabindex="0" class="vjs-volume-bar"><div class="vjs-volume-level" style="width: 100%;"><span class="vjs-control-text"></span></div><div class="vjs-volume-handle" style="left: 100%;"><span class="vjs-control-text"></span></div></div></div><div class="vjs-mute-control vjs-control" tabindex="0"><div><span class="vjs-control-text">Mute</span></div></div><div class="vjs-subtitles-button vjs-menu-button vjs-control " tabindex="0" style="display: none;"><div><span class="vjs-control-text">Subtitles</span></div><ul class="vjs-menu"><li class="vjs-menu-title">Subtitles</li><li class="vjs-menu-item" tabindex="0">Off</li></ul></div><div class="vjs-captions-button vjs-menu-button vjs-control " tabindex="0" style="display: none;"><div><span class="vjs-control-text">Captions</span></div><ul class="vjs-menu"><li class="vjs-menu-title">Captions</li><li class="vjs-menu-item" tabindex="0">Off</li></ul></div><div class="vjs-chapters-button vjs-menu-button vjs-control " tabindex="0" style="display: none;"><div><span class="vjs-control-text">Chapters</span></div><ul class="vjs-menu"><li class="vjs-menu-title">Chapters</li></ul></div></div></div>
+</div>
+</td></tr></tbody></table>
+          </div>
+        
+<div id="dbody">
+<table height="100%" width="831" border="0" align="center" cellpadding="0" cellspacing="0">
+  <tbody><tr valign="top">
+    <td height="100%">
+	<table height="100%" border="0" align="right" cellpadding="0" cellspacing="0" bgcolor="#ffffff">
+	<tbody><tr>
+        <td height="25" colspan="2" background="//vagex.com/images/sideimgl.gif" align="right" valign="top">&nbsp;</td>
+        </tr>
+	<tr>
+        <td height="100%" width="15" background="//vagex.com/images/sideimg.gif" align="left" valign="top">&nbsp;</td>
+	<td width="10"></td>        </tr>
+	</tbody></table>
+	</td>
+    <td width="780">
+
+	<table width="780" border="0" align="center" cellpadding="0" cellspacing="0" bgcolor="#ffffff">
+	<tbody><tr>
+        <td height="15" background="//vagex.com/images/sideimg.gif" valign="top">&nbsp;</td>
+        </tr>
+        <tr>
+        <td height="300" align="center" valign="top">
+		<table width="760" border="0" cellspacing="0" cellpadding="0">
+        <tbody><tr>
+        <td>
+
+
+
+<!--<div id="bg_mask">-->
           <div id="frontlayer">
- <input type="button" value="X" onclick="hideFrontLayer();">
+ <!--<input type="button" value="X" onclick="hideFrontLayer();"/>-->
             <table height="174" width="177" border="0" align="center" cellpadding="0" cellspacing="0">
   <tbody><tr align="center" bgcolor="#ffffff"> 
     <td><table width="100%" height="100%" border="0" cellspacing="0" cellpadding="4"><tbody><tr> 
             <td colspan="2" height="9" align="center">
  <font color="red">
             </font>
-        <form action="/members/index.php" method="post">
-                            </form></td>
+        <form action="/members/index.php?v=" method="post">
+                    </form></td>
           </tr>
           
           <tr> 
-            <td height="55" colspan="2" align="left" valign="bottom" class="boxtext" style="font-size:24px">UserID or Email</td>
-          </tr>
-          <tr> 
-            <td height="50px" width="100%" colspan="2" align="center" class="boxtext"><input style="height:50px;width:250px;font-size:24px" type="text" id="email" name="email" size="20" maxlength="100"></td>
+            <td height="50px" width="100%" colspan="2" align="center" class="boxtext" style="margin:3px;padding:6px;border:solid 1px #4d4d4d;border-radius:9px;">
+<input style="border-width:0;border:0;text-align:center;height:50px;width:250px;font-size:24px" type="text" id="email" name="email" size="20" maxlength="100" placeholder="UserID or Email"></td>
           </tr>
           
-             
-          <tr> 
-            <td height="17" align="left" class="boxtext" style="font-size:24px">Password</td>
-          </tr>
-          <tr> 
-            <td height="50px" colspan="2" align="center" class="boxtext">
-    <input style="height:50px;width:250px;font-size:24px" type="password" name="passwd" size="20" maxlength="20"></td>
+                     <tr> 
+            <td height="50px" colspan="2" align="center" class="boxtext" style="margin:3px;padding:6px;border:solid 1px #4d4d4d;border-radius:9px;">
+    <input style="border-width:0;border:0;text-align:center;height:50px;width:250px;font-size:24px" type="password" name="passwd" size="20" maxlength="20" placeholder="Password"></td>
                     
           </tr><tr height="20"> 
-           <td width="50%" align="right">Save<input style="height:15px;width:15px" size="10" type="checkbox" name="save" checked=""></td> <td width="50%" align="left" class="boxtext"><input type="hidden" name="lform" value="sent"> 
-              <input style="height:40px;width:65px;font-size:18px" size="10" name="submit" type="submit" value="Login"></td>
+           <td width="90%" align="right">Save<input style="height:15px;width:15px" size="10" type="checkbox" name="save" checked=""></td>
+ <td align="left" class="boxtext" style="border-width:0;border:0;text-align:center;margin:3px;padding:6px;border:solid 1px #4d4d4d;border-radius:9px;"><input type="hidden" name="lform" value="sent"> 
+              <input style="background-color:ffffff;border-width:0;border:0;text-align:center;height:40px;width:65px;font-size:18px" size="10" name="submit" type="submit" value="Login"></td>
           </tr>
 
         
@@ -256,133 +421,47 @@ h1 {
 </tbody></table>
 <p>&nbsp;</p>
           </div>
-        </div>
+  <!--      </div>-->
 
-<div id="bg_mask2">
+
+
+<!--<div id="bg_mask2">-->
           <div id="frontlayer2">
- <input type="button" value="X" onclick="hideFrontLayer();">
-            <table align="center" border="0" cellpadding="5" cellspacing="0" width="100%"><form action="signup.php" method="post" name="nu"></form><input type="hidden" name="form" value="sent">
-<input type="hidden" name="ref" value=""><tbody><tr><td colspan="1" class="boxtext" width="50%" align="center" valign="top" style="font-size:24px">Username: (Visible)</td></tr><tr><td class="boxtext" width="50%" align="center" valign="top"><input style="height:30px;width:250px;font-size:24px" value="" type="text" name="name" size="20" maxlength="100"></td></tr>
-<tr><td colspan="1" class="boxtext" align="center" valign="top"><font size="4" style="font-size:24px">Your E-mail address:</font></td></tr><tr><td class="boxtext" align="center" valign="top"><input style="height:30px;width:250px;font-size:24px" value="" type="text" name="email1" size="20" maxlength="100"></td></tr>
-<tr><td colspan="1" class="boxtext" align="center" valign="top"><font size="4" style="font-size:24px">Confirm E-mail address:</font></td></tr><tr><td class="boxtext" align="center" valign="top"><input style="height:30px;width:250px;font-size:24px" value="" type="text" name="email2" size="20" maxlength="100"></td></tr>
-<tr><td colspan="1" class="boxtext" align="center" valign="top"><font size="4" style="font-size:24px">Password:</font></td></tr><tr><td class="boxtext" align="center" valign="top"><input style="height:30px;width:250px;font-size:24px" value="" type="password" name="passwd" size="20" maxlength="20"></td></tr>
+ <!--<input type="button" value="X" onclick="hideFrontLayer();"/>-->
+            <table><tbody><tr><td><table align="center" border="0" cellpadding="0" cellspacing="0" width="350"><form action="signup.php" method="post" name="nu"></form><input type="hidden" name="form" value="sent">
+<input type="hidden" name="ref" value="">
+<tbody><tr><td class="boxtext" width="50%" align="center" valign="top">
+<input style="text-align:center;margin:3px;padding:6px;border:solid 1px #4d4d4d;border-radius:9px;height:50px;width:350px;font-size:24px" value="" type="text" name="name" size="20" maxlength="100" placeholder="Username (Visible)"></td></tr>
 
- <tr><td colspan="2" align="center" class="boxtext">
+<tr><td class="boxtext" align="center" valign="top">
+<input style="text-align:center;margin:3px;padding:6px;border:solid 1px #4d4d4d;border-radius:9px;height:50px;width:350px;font-size:24px" value="" type="text" name="email1" size="20" maxlength="100" placeholder="Your E-mail address"></td></tr>
+
+<tr><td class="boxtext" align="center" valign="top"><input style="text-align:center;margin:3px;padding:6px;border:solid 1px #4d4d4d;border-radius:9px;height:50px;width:350px;font-size:24px" value="" type="text" name="email2" size="20" maxlength="100" placeholder="Confirm E-mail address"></td></tr>
+
+<tr><td class="boxtext" align="center" valign="top"><input style="text-align:center;margin:3px;padding:6px;border:solid 1px #4d4d4d;border-radius:9px;height:50px;width:350px;font-size:24px" value="" type="password" name="passwd" size="20" maxlength="20" placeholder="Password"></td></tr>
+<tr><td class="boxtext" align="center" valign="top" colspan="2"><input style="height:15px;width:15px" type="checkbox" name="termscheck" value="1"><font> I agree with <a href="terms.php" target="_blank"><b><font>terms and conditions</font></b></a><font><br> <b><font size="1">The materials on vagex.com's web site are provided 'as is'. vagex.com makes no warranties, expressed or implied, and hereby disclaims and negates all other warranties, including without limitation, implied warranties or conditions of merchantability, fitness for a particular purpose, or non-infringement of intellectual property or other violation of rights. Further, vagex.com does not warrant or make any representations concerning the accuracy, likely results, or reliability of the use of the materials on its Internet web site or otherwise relating to such materials or on any sites linked to this site. </font><br><font size="1" color="#ADA205">There is no guarantee that every view, like, subscription or comment provided by this service will show up or remain on YouTube.</font></b></font></font></td></tr>
+</tbody></table></td><td><table><tbody><tr><td> </td></tr><tr><td colspan="2" align="center" class="boxtext" style="margin:3px;padding:6px;border:solid 1px #4d4d4d;border-radius:9px;">
             <img width="215" height="80" id="captcha" src="securimage/securimage_show.php" alt="CAPTCHA Image">
             </td></tr>
             
             <tr><td colspan="2" align="center" class="boxtext">
-            <input style="height:30px;width:120px;font-size:24px" type="text" name="captcha_code" size="10" maxlength="6">
+            <input style="text-align:center;margin:3px;padding:6px;border:solid 1px #4d4d4d;border-radius:9px;height:50px;width:120px;font-size:24px" type="text" name="captcha_code" size="10" maxlength="6">
 <a href="#" onclick="document.getElementById('captcha').src = '/securimage/securimage_show.php?' + Math.random(); return false">[ Different Image ]</a>
             </td></tr>   
 
 <tr><td colspan="2" align="center" class="boxtext"> 
 
 </td></tr> 
-<tr><td class="boxtext" align="center" valign="top" colspan="2"><input style="height:15px;width:15px" type="checkbox" name="termscheck" value="1"><font> I agree with <a href="terms.php" target="_blank"><b><font>terms and conditions</font></b></a><font><br> <b><font size="1">The materials on vagex.com's web site are provided 'as is'. vagex.com makes no warranties, expressed or implied, and hereby disclaims and negates all other warranties, including without limitation, implied warranties or conditions of merchantability, fitness for a particular purpose, or non-infringement of intellectual property or other violation of rights. Further, vagex.com does not warrant or make any representations concerning the accuracy, likely results, or reliability of the use of the materials on its Internet web site or otherwise relating to such materials or on any sites linked to this site. </font><br><font size="1" color="#ADA205">There is no guarantee that every view, like, subscription or comment provided by this service will show up or remain on YouTube.</font></b></font></font></td></tr>
 <tr><td class="boxtext" align="center" valign="top" colspan="2"><input style="height:15px;width:15px" type="checkbox" name="emailcheck" value="1"><font> I agree to Sign Up and receive email from time to time. <b><font size="1">You may unsubscribe at any time by clicking the <i>Unsubscribe</i> link in any email.</font></b><br></font></td></tr>
-<tr><td class="boxtext" align="center" valign="top" colspan="2"><input style="height:40px;width:100px;font-size:18px" type="submit" value="Register!"></td></tr>
-</tbody></table>
+<tr><td class="boxtext" align="center" valign="top" colspan="2"><input style="background-color:ffffff;margin:3px;padding:6px;border:solid 1px #4d4d4d;border-radius:9px;height:40px;width:100px;font-size:18px" type="submit" value="Sign Up!"></td></tr>
+</tbody></table></td></tr></tbody></table>
           </div>
-        </div>
-
-<div id="bg_mask3">
-          <div id="frontlayer3">
- <input type="button" value="X" onclick="hideFrontLayer();">
-            
-
-
-    <title>Untitled</title>
-    <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
-	<meta http-equiv="imagetoolbar" content="no">
-    <meta name="generator" content="ActivePresenter">
-    <meta name="author" content="joshe">
-    <meta name="copyright" content=" ()">
-    <meta name="description" content="">
-
-	<link href="player/mediaplayer.css" rel="stylesheet" type="text/css">
-	<script type="text/javascript" src="player/mediaplayer.js"></script>
-	
-	<script type="text/javascript">
-		_V_.options.flash.swf = "player/mediaplayer.swf";
-	</script>
-	
 
 
 
 
-<div align="center">
-	<div id="video_containter" class="video-js vjs-default-skin vjs-paused" width="700" height="368" style="width: 700px; height: 368px;"><video id="video_containter_html5_api" class="vjs-tech" preload="none" data-setup="{}" src="v.mp4">
-		
-		<!--
-		<track kind="captions" src="" srclang="en_US" label="English (U.S.)" />
-		-->
-	</video><img class="vjs-poster" src="" tabindex="-1" style="display: none;"><div class="vjs-text-track-display"></div><div class="vjs-loading-spinner"><div class="ball1"></div><div class="ball2"></div><div class="ball3"></div><div class="ball4"></div><div class="ball5"></div><div class="ball6"></div><div class="ball7"></div><div class="ball8"></div></div><div class="vjs-big-play-button" tabindex="0"><span></span></div><div class="vjs-controls"><div class="vjs-play-control vjs-control " tabindex="0"><div><span class="vjs-control-text">Play</span></div></div><div class="vjs-fullscreen-control vjs-control " tabindex="0"><div><span class="vjs-control-text">Fullscreen</span></div></div><div class="vjs-current-time vjs-time-controls vjs-control"><div class="vjs-current-time-display">0:00</div></div><div class="vjs-time-divider"><div><span>/</span></div></div><div class="vjs-duration vjs-time-controls vjs-control"><div class="vjs-duration-display">0:00</div></div><div class="vjs-remaining-time vjs-time-controls vjs-control"><div class="vjs-remaining-time-display">-0:00</div></div><div class="vjs-progress-control vjs-control"><div aria-valuenow="0" aria-valuemin="0" aria-valuemax="100" tabindex="0" class="vjs-progress-holder"><div class="vjs-load-progress"><span class="vjs-control-text">Loaded: 0%</span></div><div class="vjs-play-progress" style="width: 1.32%;"><span class="vjs-control-text">Progress: 0%</span></div><div class="vjs-seek-handle" style="left: 0%;"><span class="vjs-control-text">00:00</span></div></div></div><div class="vjs-volume-control vjs-control"><div aria-valuenow="0" aria-valuemin="0" aria-valuemax="100" tabindex="0" class="vjs-volume-bar"><div class="vjs-volume-level" style="width: 100%;"><span class="vjs-control-text"></span></div><div class="vjs-volume-handle" style="left: 100%;"><span class="vjs-control-text"></span></div></div></div><div class="vjs-mute-control vjs-control" tabindex="0"><div><span class="vjs-control-text">Mute</span></div></div><div class="vjs-subtitles-button vjs-menu-button vjs-control " tabindex="0" style="display: none;"><div><span class="vjs-control-text">Subtitles</span></div><ul class="vjs-menu"><li class="vjs-menu-title">Subtitles</li><li class="vjs-menu-item" tabindex="0">Off</li></ul></div><div class="vjs-captions-button vjs-menu-button vjs-control " tabindex="0" style="display: none;"><div><span class="vjs-control-text">Captions</span></div><ul class="vjs-menu"><li class="vjs-menu-title">Captions</li><li class="vjs-menu-item" tabindex="0">Off</li></ul></div><div class="vjs-chapters-button vjs-menu-button vjs-control " tabindex="0" style="display: none;"><div><span class="vjs-control-text">Chapters</span></div><ul class="vjs-menu"><li class="vjs-menu-title">Chapters</li></ul></div></div></div>
-	
-	<!--
-<div id="video_alt">You need <a href="http://get.adobe.com/flashplayer">Flash Player</a> to view this video.</div>
--->
-	
-</div>
 
-<!--
-<script type="text/javascript">
-	//remove alternative content when player ready
-	_V_("video_containter").ready(function(){
-		var element = document.getElementById("video_alt");
-		element.parentNode.removeChild(element);
-	});
-</script>
--->
-
-
-
-          </div>
-        </div>
-
-<table width="831" border="0" align="center" cellpadding="0" cellspacing="0">
-  <tbody><tr valign="top">
-    
-    <td width="780">
-
-
-<table width="780" height="50%" border="0" align="center" cellpadding="3" cellspacing="0" bgcolor="#FFFFFF">
-   <tbody><tr height="50%">
-    <td class="" width="30%" height="50%" rowspan="2" valign="top" align="left"><a href="http://vagex.com"><img border="0" src="http://vagex.com/images/yt.jpg" width="200" height="77"></a></td>
-
-
-
-     <td class="" width="30%" colspan="2" rowspan="1" valign="top" align="right">
-<a href="javascript:show('link2')" id="link2" "="">Sign Up</a> | 	<a href="javascript:show('link1');loginfocus();" id="link1">Login</a>
-	 | <a href="javascript:show('link3')" id="link3">Video Tutorial</a> </td>
-      </tr>        
-</tbody></table>
-        
-
-<table height="100%" width="831" border="0" align="center" cellpadding="0" cellspacing="0">
-  <tbody><tr valign="top">
-    <td height="100%">
-	<table height="100%" border="0" align="right" cellpadding="0" cellspacing="0" bgcolor="#ffffff">
-	<tbody><tr>
-        <td height="25" colspan="2" background="http://vagex.com/images/sideimgl.gif" align="right" valign="top">&nbsp;</td>
-        </tr>
-	<tr>
-        <td height="100%" width="15" background="http://vagex.com/images/sideimg.gif" align="left" valign="top">&nbsp;</td>
-	<td width="10"></td>        </tr>
-	</tbody></table>
-	</td>
-    <td width="780">
-
-	<table width="780" border="0" align="center" cellpadding="0" cellspacing="0" bgcolor="#ffffff">
-	<tbody><tr>
-        <td height="15" background="http://vagex.com/images/sideimg.gif" valign="top">&nbsp;</td>
-        </tr>
-        <tr>
-        <td height="300" align="center" valign="top">
-		<table width="760" border="0" cellspacing="0" cellpadding="0">
-        <tbody><tr>
-        <td>
-
+<div id="main">
 <h2 align="center">Privacy Policy</h2>
 <p><strong>What do we use your information for?</strong></p>
 <p>Any of the information we collect from you may be used in one of the following ways:</p>
@@ -423,6 +502,8 @@ h1 {
 <p>support@vagex.com</p>
 
 
+
+</div>
 </td>
               </tr>
             </tbody></table></td>
@@ -435,10 +516,10 @@ h1 {
 
 <table height="100%" border="0" align="left" cellpadding="0" cellspacing="0" bgcolor="#ffffff">
 	<tbody><tr>
-        <td height="25" colspan="2" background="http://vagex.com/images/sideimgr.gif" align="left" valign="top">&nbsp;</td>
+        <td height="25" colspan="2" background="//vagex.com/images/sideimgr.gif" align="left" valign="top">&nbsp;</td>
         </tr>
 	<tr>
-	<td width="10"></td>        <td height="100%" align="right" width="15" background="http://vagex.com/images/sideimg.gif" valign="top">&nbsp;</td>
+	<td width="10"></td>        <td height="100%" align="right" width="15" background="//vagex.com/images/sideimg.gif" valign="top">&nbsp;</td>
 
         </tr>
 	</tbody></table>
@@ -451,33 +532,37 @@ h1 {
   
 </tbody></table>
 
+</div>
+      
 
-          
           <table align="center" style="background-color:ffffff;" width="830" border="0" cellspacing="0" cellpadding="0">
-              <tbody><tr><td height="60" background="http://vagex.com/images/bar.jpg" valign="top" align="right"></td></tr>
-
+              <tbody><tr><td colspan="2" height="60" background="//vagex.com/images/bar.jpg" valign="top" id="fbar" align="right"></td></tr>
               
+
+      
+
               <tr align="center">
-                <td height="50" colspan="2"><a href="/index.php">Home</a> |
+                <td width="100%" valign="top" height="50" colspan="2"><a href="/index.php">Home</a> |
                   <a href="javascript:show('link1')" id="link1">Login</a> | <a href="javascript:show('link2')" id="link2">Sign Up</a> |
                   <a href="/faq.php">FAQ</a> | <a href="/terms.php">Terms</a>
                   | <a href="/privacy.php">Privacy</a>
  | <a href="/contact.php">Contact</a>
- | <a href="/killtime.php?h=kt">KT Broadcaster</a>  </td>
-                  
-              </tr>
-              
-                           
-              
-              <tr valign="bottom">
-                <td width="50%" align="center" class="footer">No Affiliation with YouTube LLC. All Rights Reserved.
-                  <a href="http://Vagex.com">Vagex.com</a> © 2018</td>
-              </tr>
+ | <a href="/killtime.php?h=kt">Free Broadcaster</a><br>
+No Affiliation with YouTube LLC. All Rights Reserved.
+                  <a href="http://Vagex.com">Vagex.com</a> © 2019  </td>
+                
+  
+
+            </tr>
+            
+<tr><td align="center">
+<select id="tta_srcsl" style="border-width=0;margin:3px;padding:6px;border:solid 1px #4d4d4d;border-radius:9px;background-color:#ffffff;height:40px;font-size:18px;" aria-label="Input Language Selection Dropdown"><option value="en" selected="selected">English</option><option value="af">Afrikaans</option><option value="ar">Arabic</option><option value="bn-BD">Bangla</option><option value="bs-Latn">Bosnian (Latin)</option><option value="bg">Bulgarian</option><option value="yue">Cantonese (Traditional)</option><option value="ca">Catalan</option><option value="zh-Hans">Chinese Simplified</option><option value="zh-Hant">Chinese Traditional</option><option value="hr">Croatian</option><option value="cs">Czech</option><option value="da">Danish</option><option value="nl">Dutch</option><option value="en">English</option><option value="et">Estonian</option><option value="fj">Fijian</option><option value="fil">Filipino</option><option value="fi">Finnish</option><option value="fr">French</option><option value="de">German</option><option value="el">Greek</option><option value="ht">Haitian Creole</option><option value="he">Hebrew</option><option value="hi">Hindi</option><option value="mww">Hmong Daw</option><option value="hu">Hungarian</option><option value="is">Icelandic</option><option value="id">Indonesian</option><option value="it">Italian</option><option value="ja">Japanese</option><option value="sw">Kiswahili</option><option value="tlh">Klingon</option><option value="ko">Korean</option><option value="lv">Latvian</option><option value="lt">Lithuanian</option><option value="mg">Malagasy</option><option value="ms">Malay (Latin)</option><option value="mt">Maltese</option><option value="no">Norwegian Bokm�l</option><option value="fa">Persian</option><option value="pl">Polish</option><option value="pt">Portuguese</option><option value="otq">Quer�taro Otomi</option><option value="ro">Romanian</option><option value="ru">Russian</option><option value="sm">Samoan</option><option value="sr-Cyrl">Serbian (Cyrillic)</option><option value="sr-Latn">Serbian (Latin)</option><option value="sk">Slovak</option><option value="sl">Slovenian</option><option value="es">Spanish</option><option value="sv">Swedish</option><option value="ty">Tahitian</option><option value="ta">Tamil</option><option value="te">Telugu</option><option value="th">Thai</option><option value="to">Tongan</option><option value="tr">Turkish</option><option value="uk">Ukrainian</option><option value="ur">Urdu</option><option value="vi">Vietnamese</option><option value="cy">Welsh</option><option value="yua">Yucatec Maya</option></select> - (Coming Soon)
+</td></tr>
+  
+<tr><td align="center"><div id="topbar"><a href="#top">Top</a></div></td></tr>
 
             </tbody></table>
 
-</td><td valign="bottom">
-<img src="http://vagex.com/images/cat.jpg">
 </td></tr></tbody></table>
 
 </td></tr></tbody></table></body></html>
