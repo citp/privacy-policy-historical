@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the icij.org privacy policy that was archived on 2018-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180625080330id_/https%3A//www.icij.org/about/corporate/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the icij.org privacy policy that was archived on 2019-03-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190330144207id_/https%3A//www.icij.org/about/corporate/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - ICIJ
 
@@ -128,8 +128,9 @@ If you would like to review, correct, update, suppress, restrict, or delete Pers
 
 > The Online Editor  
 >  The International Consortium of Investigative Journalists  
->  910 17th Street NW, Suite 410  
->  Washington, D.C. 20006
+>  1710 Rhode Island Ave NW,  
+>  11th floor,  
+>  Washington, D.C. 20036
 
 In your request, please make clear what Personal Information you would like to have changed, whether you would like to have your Personal Information suppressed from our database, or otherwise let us know what limitations you would like to put on our use of your Personal Information. For your protection, we may only implement requests with respect to the Personal Information associated with the particular email address that you use to send us your request, and we may need to verify your identity before implementing your request. We will try to comply with your request as soon as reasonably practicable.
 
