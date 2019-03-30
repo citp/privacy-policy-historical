@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the groww.in privacy policy that was archived on 2016-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161101022952id_/http%3A//groww.in/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the groww.in privacy policy that was archived on 2019-03-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190330124050id_/https%3A//groww.in/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - Groww
+# Privacy Policy - Groww - Invest In Mutual Funds
 
-This privacy policy sets out how Groww.in and NextBillion Technology Pvt. Ltd. uses and protects any information that you share when you use this website. We value the trust you place in us. That’s why we insist upon the highest standards for secure transactions and customer information privacy. Please read the following statement to learn about our information gathering and dissemination practices.
+This privacy policy sets out how Groww.in and NextBillion Technology Pvt. Ltd. (“Groww”) uses and protects any information that you share when you use this website and app. We value the trust you place in us. That’s why we insist upon the highest standards for secure transactions and customer information privacy. Please read the following statement to learn about our information gathering and dissemination practices.
 
 Note:  
 Our privacy policy is subject to change at any time without notice. To make sure you are aware of any changes, please review this policy periodically. This policy is effective from May 04, 2016.
