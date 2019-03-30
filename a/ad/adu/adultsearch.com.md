@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the adultsearch.com privacy policy that was archived on 2017-09-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170923140249id_/http%3A//adultsearch.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the adultsearch.com privacy policy that was archived on 2019-03-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190330171704id_/https%3A//adultsearch.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -79,3 +79,7 @@
 ### IX. Where to Direct Questions About Our Privacy Policy
 
 > If you have any questions about this Privacy Policy or the practices described hereunder, you may contact us from our [contact form](https://web.archive.org/contact?where=/pp). You may also contact us by email at [support@adultsearch.com](mailto:support@adultsearch.com).
+
+### X. Disclaimer
+
+> If we deem your account as spam not a legitimate Escort or Escort agency your account will be banned & any monies will not be returned.
