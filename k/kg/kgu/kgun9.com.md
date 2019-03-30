@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kgun9.com privacy policy that was archived on 2018-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181227105329id_/https%3A//www.kgun9.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kgun9.com privacy policy that was archived on 2019-03-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190330140751id_/https%3A//www.kgun9.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
