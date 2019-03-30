@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the petatv.com privacy policy that was archived on 2018-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181226144338id_/https%3A//www.peta.org/about-peta/learn-about-peta/website-policies/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the petatv.com privacy policy that was archived on 2019-03-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190330084345id_/https%3A//www.peta.org/about-peta/learn-about-peta/website-policies/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | PETA
 
@@ -12,7 +12,7 @@ These policies do not extend to external sites linked to our Shopping Mall or ot
 
 In order to participate in some activities, you might be asked to provide some personal information. This could be in connection with any one or combination of the following:
 
-  * Shipping items purchased from the PETA Catalog
+  * Shipping items purchased from the PETA Shop
   * Making or renewing a donation online
   * Sending personalized faxes or e-mail messages when participating in action alerts
   * Registering for PETA’s activist networks
