@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the gulfbusiness.com privacy policy that was archived on 2018-11-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181128224233id_/http%3A//gulfbusiness.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gulfbusiness.com privacy policy that was archived on 2019-03-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190330080320id_/https%3A//gulfbusiness.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Gulf Business
 
-This Privacy Policy governs the manner in which Motivate Publishing collects, uses, maintains and discloses information collected from users (each, a “User”) of the Gulfbusiness.com website (“Site”). This privacy policy applies to the Site and all products and services offered by Motivate Publishing.
+This Privacy Policy governs the manner in which Motivate Media Group collects, uses, maintains and discloses information collected from users (each, a “User”) of the Gulfbusiness.com website (“Site”). This privacy policy applies to the Site and all products and services offered by Motivate Media Group.
 
 ### Personal identification information
 
@@ -52,10 +52,8 @@ By using this Site, you signify your acceptance of this policy. If you do not ag
 ### Contacting us
 
 If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this site, please contact us at:  
-Motivate Publishing  
+Motivate Media Group  
 Gulfbusiness.com  
-Motivate Publishing Al Wahaibi Building Al Garhoud Bridge Road Deira PO Box 2331 Dubai UAE  
-+971 4 282 4060  
+Motivate Head Office 34th Floor, Media One Tower Dubai Media City PO Box 2331 Dubai, UAE  
++971 4 427 3000  
 digital@motivate.ae
-
-This document was last updated on July 18, 2012
