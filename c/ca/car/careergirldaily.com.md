@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the careergirldaily.com privacy policy that was archived on 2018-11-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181129132802id_/https%3A//www.careergirldaily.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the careergirldaily.com privacy policy that was archived on 2019-03-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190330221034id_/https%3A//www.careergirldaily.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Career Girl Daily
+# Privacy Policy - Career Girl Daily
 
 **CAREERGIRLDAILY.COM PRIVACY AND COOKIES POLICY**
 
