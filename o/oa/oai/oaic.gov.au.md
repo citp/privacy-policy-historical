@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the oaic.gov.au privacy policy that was archived on 2018-10-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181012065622id_/https%3A//www.oaic.gov.au/about-us/corporate-information/key-documents/privacy-policy-summary) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the oaic.gov.au privacy policy that was archived on 2019-03-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190330110418id_/https%3A//www.oaic.gov.au/about-us/corporate-information/key-documents/privacy-policy-summary) for the most accurate reproduction.*
 
 # Privacy policy summary| Office of the Australian Information Commissioner - OAIC
 
