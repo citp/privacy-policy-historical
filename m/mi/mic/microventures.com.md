@@ -1,16 +1,14 @@
-> *The following text is extracted and transformed from the microventures.com privacy policy that was archived on 2018-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181221160344id_/https%3A//microventures.com/about/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the microventures.com privacy policy that was archived on 2019-03-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190331000048id_/https%3A//microventures.com/about/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Microventures
 
 ## Privacy Policy
 
-#### _Effective May 24, 2018_
+#### _Effective February 5, 2019_
 
-MicroVentures, Inc. owns and hosts a full service online platform at microventures.com (“Platform” or “the Platform”) through which MicroVenture Marketplace, Inc. and First Democracy VC, each a subsidiary of MicroVentures, Inc., offer various investment opportunities.
+MicroVentures, Inc. owns and hosts a full service online platform at https://microventures.com (“Platform” or “the Platform”) through which MicroVenture Marketplace, Inc., a subsidiary of MicroVentures, Inc., offers various investment opportunities.
 
-MicroVenture Marketplace is a registered broker/dealer and a member of the Financial Industry Regulatory Authority (“FINRA”) and Securities Investor Protection Corporation (“SIPC”).  MicroVenture Marketplace offers the sale of private placements in early and late stage companies in various industries on a “best-efforts” basis and also facilitates secondary transactions in private companies acting as a broker between buyers and sellers.
-
-First Democracy is a registered funding portal with FINRA pursuant to Title III of the JOBS Act and SEC Regulation CF. First Democracy serves as a crowdfunding intermediary that connects individual investors with private companies offering investment opportunities in accordance with Regulation CF.
+MicroVenture Marketplace is a registered broker/dealer and a member of the Financial Industry Regulatory Authority (“FINRA”) and Securities Investor Protection Corporation (“SIPC”).  MicroVenture Marketplace offers the sale of private placements in early and late stage companies in various industries on a “best-efforts” basis, facilitates secondary transactions in private companies acting as a broker between buyers and sellers, and serves as a crowdfunding intermediary in accordance with Regulation CF.
 
 As you (or the organization for which you are acting) access the Platform and its associated and/or affiliated services (collectively, “MicroVentures Services” or “Services”), we collect certain personal information. We understand that the confidentiality and security of this information is important, and we are committed to protecting the privacy of your personal information. This Privacy Policy is intended to summarize our data protection practices and to advise our registered users, investors, issuers, employees, website visitors, and other third parties about our privacy policies that may be applicable to them. It is specifically addressed to those who provide personal information to MicroVentures, Inc. and its associated and/or affiliated Services, or who visit or use our website, Platform, and social media sites.
 
@@ -133,7 +131,7 @@ Your choices will apply to everyone on your account.
 
 ### Definitions
 
-_Affiliates_ : Companies related by common ownership or control. They can be  financial and non-financial companies. Affiliates of MicroVentures, Inc. include financial companies such as MicroVentures Marketplace, Inc., First Democracy VC, MicroAngel Partners, LLC, and MV Investor Services.
+_Affiliates_ : Companies related by common ownership or control. They can be  financial and non-financial companies. Affiliates of MicroVentures, Inc. include financial companies such as MicroVenture Marketplace, Inc., MicroAngel Partners, LLC, and MV Investor Services.
 
 _Non-affiliates_ : Companies not related by common ownership or control. They can be  financial and non-financial companies. Nonaffiliates we share with can include participating issuers, service providers (data processors), and governmental or regulatory agencies as required by law.
 
