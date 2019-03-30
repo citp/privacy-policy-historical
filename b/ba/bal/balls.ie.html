@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the balls.ie privacy policy that was archived on 2018-08-19.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20180819225931id_/https%3A//www.balls.ie/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the balls.ie privacy policy that was archived on 2019-03-30.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20190330085737id_/https%3A//www.balls.ie/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en" class="noscroll"><head>
         <meta charset="utf-8">
@@ -8,7 +8,7 @@
         <meta name="description" content="Privacy Policy for www.balls.ie
 If you require any more information or have any questions about our privacy policy, please feel free to contact us by email at thegaffe...">
         <meta name="viewport" content="width=device-width, initial-scale=1, minimum-scale=1, maximum-scale=1, user-scalable=no">
-        <link media="all" type="text/css" rel="stylesheet" href="https://www.balls.ie/assets/css/main.min-2fc5a954.css">
+        <link media="all" type="text/css" rel="stylesheet" href="https://www.balls.ie/assets/css/main.min-00241149.css">
 
         <link rel="icon" type="image/png" href="https://www.balls.ie/assets/i/android-chrome-192x192.png?v=2" sizes="192x192">
         <link rel="apple-touch-icon" href="https://www.balls.ie/assets/i/apple-touch-icon-128x128.png?v=2">
@@ -18,7 +18,9 @@ If you require any more information or have any questions about our privacy poli
         <link rel="canonical" href="https://www.balls.ie/privacy-policy">
         <link rel="alternate" type="application/rss+xml" title="Balls.ie RSS Feed" href="https://www.balls.ie/uncategorized/feed">
         <meta property="fb:pages" content="396192711041">
-        <script async="" src="//cdn.socialhoney.co/widget/sh.js"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script async="" type="text/javascript" src="https://www.googletagservices.com/tag/js/gpt.js"></script><script async="" src="https://summerobject.com/v2/0/jpyNE30N8Cc-KtFsxEXoVJFeztULqJJpppbwHxneeawENzPxs9wYz0CIRtVIe7esaFM"></script><script>
+
+        <meta name="sensitive" content="false">
+        <script async="" src="//cdn.socialhoney.co/widget/sh.js"></script><script async="" src="https://connect.facebook.net/en_US/fbevents.js"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script async="" type="text/javascript" src="https://www.googletagservices.com/tag/js/gpt.js"></script><script async="" src="https://summerobject.com/v2/0/jpyNE30N8Cc-KtFsxEXoVJFeztULqJJpppbwHxneeawENzPxs9wYz0CIRtVIe7esaFM"></script><script>
 var consentManager = {
     publisherCookieName: 'consents',
     setCookie: function(name, value, expiry_days) {
@@ -89,6 +91,13 @@ var consentManager = {
     var refsource = '';
     var _isArticle = true;
 
+    var getSizeMapping = function (adSlot) {
+        if (document.querySelector('meta[name="sensitive"]').content == 'true') {
+            return [];
+        }
+        return dfp_mappings[adSlot];
+    }
+
         if (document.referrer.match(/^https?:\/\/([^\/]+\.)?t\.co(\/|$)/i)) {
         refsource = 'twitter';
     } else if (document.referrer.match(/^((https?)|(android-app?)):\/\/([^\/]+\.)?facebook\.com(\/|$)/i)) {
@@ -150,7 +159,10 @@ var consentManager = {
 
         dfp_mappings.mapRiverMpuFirst = googletag.sizeMapping()
             .addSize([100, 100], [[320, 50], [300, 100], [300, 250], [300, 600], 'fluid'])
-            .addSize([758, 200], [[300, 250], 'fluid'])
+            .build();
+
+        dfp_mappings.mapRiverMpuFirstMobile = googletag.sizeMapping()
+            .addSize([100, 100], [[300, 250], 'fluid'])
             .build();
 
         dfp_mappings.mapArticleMpu = googletag.sizeMapping()
@@ -159,11 +171,14 @@ var consentManager = {
             .build();
 
         dfp_placements.background_skin = googletag.defineSlot('/9044862/balls_background_skin', [1, 1], 'div-gpt-background-skin')
-            .defineSizeMapping(dfp_mappings.mapBackgroundSkin)
+            .defineSizeMapping(getSizeMapping('mapBackgroundSkin'))
             .addService(googletag.pubads());
-        dfp_placements.top_page = googletag.defineSlot('/9044862/balls_page_top', [1,1], 'div-gpt-top')
-            .defineSizeMapping(dfp_mappings.mapTopBanner)
-            .addService(googletag.pubads());
+
+
+            dfp_placements.top_page = googletag.defineSlot('/9044862/balls_page_top', [1,1], 'div-gpt-top')
+                .defineSizeMapping(getSizeMapping('mapTopBanner'))
+                .addService(googletag.pubads());
+
         // Top sidebar only fired on initial load for desktop
         if (window.matchMedia("only screen and (min-width: 768px)").matches) {
                         dfp_placements.just_premium = googletag.defineSlot('/9044862/balls_justpremium', [1, 1], 'div-gpt-justpremium')
@@ -173,14 +188,14 @@ var consentManager = {
         // Top sidebar only fired on initial load for desktop
         if (window.matchMedia("only screen and (min-width: 992px)").matches) {
             dfp_placements.just_premium = googletag.defineSlot('/9044862/balls_sidebar_top', [1, 1], 'div-gpt-sidebar-top')
-                .defineSizeMapping(dfp_mappings.mapTallSky)
+                .defineSizeMapping(getSizeMapping('mapTallSky'))
                 .addService(googletag.pubads());
         }
 
         // Rivers top  ad won't be lazy loaded on mobile
         if (!_isArticle && window.matchMedia("only screen and (max-width: 778px)").matches) {
             dfp_placements.top_ad = googletag.defineSlot('/9044862/balls_river_mpu_first', [1, 1], 'div-gpt-balls_river_mpu_first_top_ad')
-                .defineSizeMapping(dfp_mappings.mapRiverMpuFirst)
+                .defineSizeMapping(getSizeMapping('mapRiverMpuFirst'))
                 .addService(googletag.pubads());
         }
 
@@ -190,6 +205,8 @@ var consentManager = {
             googletag.defineSlot('/9044862/balls_article_inline_video', [1, 1], 'div-gpt-article-video')
         .addService(googletag.pubads());
     googletag.defineSlot('/9044862/balls_impression_tracker', [1, 1], 'div-gpt-impression-tracker')
+        .addService(googletag.pubads());
+    googletag.defineSlot('/9044862/balls_mid_article_outstream_unit', [1, 1], 'div-gpt-mid-article-outstream-unit')
         .addService(googletag.pubads());
 
                                                         dfp_targets.section = 'uncategorized';
@@ -313,6 +330,18 @@ var consentManager = {
     ga('send', 'pageview');
 
     </script>
+<!-- Facebook Pixel Code -->
+    <script>!function(f,b,e,v,n,t,s){if(f.fbq)return;n=f.fbq=function(){
+        n.callMethod?n.callMethod.apply(n,arguments):n.queue.push(arguments)};
+        if(!f._fbq)f._fbq=n;n.push=n;n.loaded=!0;n.version='2.0';n.queue=[];
+        t=b.createElement(e);t.async=!0;t.src=v;s=b.getElementsByTagName(e)[0];
+        s.parentNode.insertBefore(t,s)}(window,document,'script','https://connect.facebook.net/en_US/fbevents.js');
+        fbq('init', '1553389154877210');
+        fbq('track', 'PageView');
+    </script>
+    <noscript>
+        <img height="1" width="1" src="https://www.facebook.com/tr?id=1553389154877210&ev=PageView&noscript=1"/>
+    </noscript><!-- End Facebook Pixel Code -->
 
                     </head>
     <body>
@@ -380,16 +409,17 @@ var consentManager = {
                             <ul class="nav navbar-nav">
 
                                                                                                 
-                                                                                                            <li class="visible-xs "><a href="https://www.balls.ie/football">Football</a></li>
+                                                                                                            <li class="visible-xs "><a href="https://www.balls.ie/gaa">GAA</a></li>
+                                                                                                                                                <li class="visible-xs "><a href="https://www.balls.ie/football">Football</a></li>
+                                                                                                                                                <li class="visible-xs "><a href="https://www.balls.ie/football/tag/premier-league">Premier League</a></li>
                                                                                                                                                 <li class="visible-xs ">
-    <a href="https://www.balls.ie/football/tag/premier-league">
-                                    <img class="cadbury-logo" src="/assets/i/cadburry_logo.png" alt="Premier League">
-                            <span>Premier League</span>
+    <a href="https://www.balls.ie/tag/club-hub">
+                                    <img class="sd-logo" src="/assets/i/SD-logo.svg" alt="Club Hub">
+                            <span>CLUB HUB</span>
     </a>
-</li>                                                                                                                                                <li class="visible-xs "><a href="https://www.balls.ie/gaa">GAA</a></li>
-                                                                                                                                                <li class="visible-xs "><a href="https://www.balls.ie/rugby">Rugby</a></li>
-                                                                                                                                                <li class="visible-xs "><a href="https://www.balls.ie/golf">Golf</a></li>
+</li>                                                                                                                                                <li class="visible-xs "><a href="https://www.balls.ie/rugby">Rugby</a></li>
                                                                                                                                                 <li class="visible-xs "><a href="https://www.balls.ie/mma">MMA</a></li>
+                                                                                                                                                <li class="visible-xs "><a href="https://www.balls.ie/tag/fifa-19">Fifa 19</a></li>
                                                                                                                                                                         <li class="visible-xs"><a href="https://www.balls.ie/american-sports">American Sports</a></li>
                                                                     <li class="visible-xs"><a href="https://www.balls.ie/american-sports/tag/wrestling">Wrestling</a></li>
                                                                     <li class="visible-xs"><a href="https://www.balls.ie/boxing">Boxing</a></li>
@@ -399,17 +429,18 @@ var consentManager = {
                                                                     <li class="visible-xs"><a href="https://www.balls.ie/tag/balls-remembers">Balls Remembers</a></li>
                                                                     <li class="visible-xs"><a href="https://www.balls.ie/tag/editors-picks">Editor's Picks</a></li>
                                 
-                                                                                                            <li class="hidden-xs "><a href="https://www.balls.ie/football">Football</a></li>
+                                                                                                            <li class="hidden-xs "><a href="https://www.balls.ie/gaa">GAA</a></li>
+                                                                                                                                                <li class="hidden-xs "><a href="https://www.balls.ie/football">Football</a></li>
+                                                                                                                                                <li class="hidden-xs "><a href="https://www.balls.ie/football/tag/premier-league">Premier League</a></li>
                                                                                                                                                 <li class="hidden-xs ">
-    <a href="https://www.balls.ie/football/tag/premier-league">
-                                    <img class="cadbury-logo" src="/assets/i/cadburry_logo.png" alt="Premier League">
-                            <span>Premier League</span>
+    <a href="https://www.balls.ie/tag/club-hub">
+                                    <img class="sd-logo" src="/assets/i/SD-logo.svg" alt="Club Hub">
+                            <span>CLUB HUB</span>
     </a>
-</li>                                                                                                                                                <li class="hidden-xs "><a href="https://www.balls.ie/gaa">GAA</a></li>
-                                                                                                                                                <li class="hidden-xs "><a href="https://www.balls.ie/rugby">Rugby</a></li>
-                                                                                                                                                <li class="hidden-xs "><a href="https://www.balls.ie/golf">Golf</a></li>
+</li>                                                                                                                                                <li class="hidden-xs "><a href="https://www.balls.ie/rugby">Rugby</a></li>
                                                                     
                                                                                                              <li class="hidden-sm hidden-xs "><a href="https://www.balls.ie/mma">MMA</a></li>
+                                                                                                                                                 <li class="hidden-sm hidden-xs "><a href="https://www.balls.ie/tag/fifa-19">Fifa 19</a></li>
                                                                     
                             </ul>
                         </div><!--/.nav-collapse -->
@@ -554,6 +585,7 @@ sh('create', 'SH-94607383-9');
                 <script type="text/javascript">
                     googletag.cmd.push(function () {
                         googletag.display('div-gpt-impression-tracker');
+                        googletag.display("div-gpt-mid-article-outstream-unit");
                     });
                 </script>
             </div>
@@ -579,8 +611,7 @@ sh('create', 'SH-94607383-9');
     <div class="clearfix"></div>
 </section>
 <!-- Author End -->
-                <div id="div-gpt-article-video"></div>
-    </div>
+            </div>
                 <div class="articles-river-container">
     <div></div>
 </div>
@@ -603,15 +634,15 @@ sh('create', 'SH-94607383-9');
     <span class="mini-river-panel-header text-uppercase">Popular on Balls</span>
 
     <div class="article secondary-article">
-    <a href="/football/rio-ferdinand-gives-superb-insight-david-moyes-wrong-man-utd-395095">
+    <a href="/football/weekend-sport-tv-2-408150">
         <figure class="image-container">
             <picture>
                 <!--[if IE 9]><video style="display: none;"><![endif]-->
-                <source srcset="https://img.balls.ie/balls_ie/eyJkYXRhIjoie1widXJsXCI6XCJodHRwOlxcXC9cXFwvczMtZXUtd2VzdC0xLmFtYXpvbmF3cy5jb21cXFwvc3RvcmFnZS5wdWJsaXNoZXJwbHVzLmllXFxcL21lZGlhLmJhbGxzLmllXFxcL3VwbG9hZHNcXFwvMjAxOFxcXC8wOFxcXC8xOTEyMjkwNFxcXC9mZXJkaW5hbmRmZWF0LmpwZ1wiLFwid2lkdGhcIjozMDMsXCJoZWlnaHRcIjoxNzAsXCJkZWZhdWx0XCI6XCJodHRwczpcXFwvXFxcL3d3dy5iYWxscy5pZVxcXC9hc3NldHNcXFwvaVxcXC9uby1pbWFnZS5wbmc_dj00XCJ9IiwiaGFzaCI6IjZiZTFmMGZkZDZhMTg4NjdkNzNhMmU1MDY2ZjUwZjg5NmQzOWE0OGEifQ==/rio-ferdinand-gives-superb-insight-into-what-david-moyes-did-wrong-at-man-utd.jpg" media="(min-width: 992px)">
-                <source srcset="https://img.balls.ie/balls_ie/eyJkYXRhIjoie1widXJsXCI6XCJodHRwOlxcXC9cXFwvczMtZXUtd2VzdC0xLmFtYXpvbmF3cy5jb21cXFwvc3RvcmFnZS5wdWJsaXNoZXJwbHVzLmllXFxcL21lZGlhLmJhbGxzLmllXFxcL3VwbG9hZHNcXFwvMjAxOFxcXC8wOFxcXC8xOTEyMjkwNFxcXC9mZXJkaW5hbmRmZWF0LmpwZ1wiLFwid2lkdGhcIjo3MDUsXCJoZWlnaHRcIjo0MTIsXCJkZWZhdWx0XCI6XCJodHRwczpcXFwvXFxcL3d3dy5iYWxscy5pZVxcXC9hc3NldHNcXFwvaVxcXC9uby1pbWFnZS5wbmc_dj00XCJ9IiwiaGFzaCI6IjEwMGZlMDZkMjBiOTYwYjdmYTM0NTAxNDUyMDRjOTU2NzYyZTQ5NzUifQ==/rio-ferdinand-gives-superb-insight-into-what-david-moyes-did-wrong-at-man-utd.jpg" media="(min-width: 769px)">
-                <source srcset="https://img.balls.ie/balls_ie/eyJkYXRhIjoie1widXJsXCI6XCJodHRwOlxcXC9cXFwvczMtZXUtd2VzdC0xLmFtYXpvbmF3cy5jb21cXFwvc3RvcmFnZS5wdWJsaXNoZXJwbHVzLmllXFxcL21lZGlhLmJhbGxzLmllXFxcL3VwbG9hZHNcXFwvMjAxOFxcXC8wOFxcXC8xOTEyMjkwNFxcXC9mZXJkaW5hbmRmZWF0LmpwZ1wiLFwid2lkdGhcIjo3MzcsXCJoZWlnaHRcIjo0MzAsXCJkZWZhdWx0XCI6XCJodHRwczpcXFwvXFxcL3d3dy5iYWxscy5pZVxcXC9hc3NldHNcXFwvaVxcXC9uby1pbWFnZS5wbmc_dj00XCJ9IiwiaGFzaCI6ImI0YWRhYWI1NDFjNGIzOGMxNjQ3NTgyYzBmNzQxNDBmZDU4NjY5OGMifQ==/rio-ferdinand-gives-superb-insight-into-what-david-moyes-did-wrong-at-man-utd.jpg" media="(max-width: 768px)">
+                <source srcset="https://img.balls.ie/balls_ie/eyJkYXRhIjoie1widXJsXCI6XCJodHRwczpcXFwvXFxcL3MzLWV1LXdlc3QtMS5hbWF6b25hd3MuY29tXFxcL3N0b3JhZ2UucHVibGlzaGVycGx1cy5pZVxcXC9tZWRpYS5iYWxscy5pZVxcXC91cGxvYWRzXFxcLzIwMTlcXFwvMDNcXFwvMjkxMTAxNTZcXFwvcGppbWFnZS00MDIuanBnXCIsXCJ3aWR0aFwiOjMwMyxcImhlaWdodFwiOjE3MCxcImRlZmF1bHRcIjpcImh0dHBzOlxcXC9cXFwvd3d3LmJhbGxzLmllXFxcL2Fzc2V0c1xcXC9pXFxcL25vLWltYWdlLnBuZz92PTRcIn0iLCJoYXNoIjoiOWQ0MTUyZjY5Yjk5NTgxMDEyNGEyYjk0ZDQ2NDk3NGE4YzM3YWE0OSJ9/your-essential-guide-to-an-absolutely-incredible-sporting-weekend-on-tv.jpg" media="(min-width: 992px)">
+                <source srcset="https://img.balls.ie/balls_ie/eyJkYXRhIjoie1widXJsXCI6XCJodHRwczpcXFwvXFxcL3MzLWV1LXdlc3QtMS5hbWF6b25hd3MuY29tXFxcL3N0b3JhZ2UucHVibGlzaGVycGx1cy5pZVxcXC9tZWRpYS5iYWxscy5pZVxcXC91cGxvYWRzXFxcLzIwMTlcXFwvMDNcXFwvMjkxMTAxNTZcXFwvcGppbWFnZS00MDIuanBnXCIsXCJ3aWR0aFwiOjcwNSxcImhlaWdodFwiOjQxMixcImRlZmF1bHRcIjpcImh0dHBzOlxcXC9cXFwvd3d3LmJhbGxzLmllXFxcL2Fzc2V0c1xcXC9pXFxcL25vLWltYWdlLnBuZz92PTRcIn0iLCJoYXNoIjoiOWEwMDM1ZmM3NTg2N2M5ZTE0YTI0NjQ3ZjcxMTIyNTkzNzBhYjc3ZSJ9/your-essential-guide-to-an-absolutely-incredible-sporting-weekend-on-tv.jpg" media="(min-width: 769px)">
+                <source srcset="https://img.balls.ie/balls_ie/eyJkYXRhIjoie1widXJsXCI6XCJodHRwczpcXFwvXFxcL3MzLWV1LXdlc3QtMS5hbWF6b25hd3MuY29tXFxcL3N0b3JhZ2UucHVibGlzaGVycGx1cy5pZVxcXC9tZWRpYS5iYWxscy5pZVxcXC91cGxvYWRzXFxcLzIwMTlcXFwvMDNcXFwvMjkxMTAxNTZcXFwvcGppbWFnZS00MDIuanBnXCIsXCJ3aWR0aFwiOjczNyxcImhlaWdodFwiOjQzMCxcImRlZmF1bHRcIjpcImh0dHBzOlxcXC9cXFwvd3d3LmJhbGxzLmllXFxcL2Fzc2V0c1xcXC9pXFxcL25vLWltYWdlLnBuZz92PTRcIn0iLCJoYXNoIjoiMDVmNTY0MDZmMWQwOGMwZDE3YzNiZGQ3NDcyZWZjMDFmMjJmNzI5ZiJ9/your-essential-guide-to-an-absolutely-incredible-sporting-weekend-on-tv.jpg" media="(max-width: 768px)">
                 <!--[if IE 9]></video><![endif]-->
-                <img srcset="https://img.balls.ie/balls_ie/eyJkYXRhIjoie1widXJsXCI6XCJodHRwOlxcXC9cXFwvczMtZXUtd2VzdC0xLmFtYXpvbmF3cy5jb21cXFwvc3RvcmFnZS5wdWJsaXNoZXJwbHVzLmllXFxcL21lZGlhLmJhbGxzLmllXFxcL3VwbG9hZHNcXFwvMjAxOFxcXC8wOFxcXC8xOTEyMjkwNFxcXC9mZXJkaW5hbmRmZWF0LmpwZ1wiLFwid2lkdGhcIjo3MzAsXCJoZWlnaHRcIjo0MzAsXCJkZWZhdWx0XCI6XCJodHRwczpcXFwvXFxcL3d3dy5iYWxscy5pZVxcXC9hc3NldHNcXFwvaVxcXC9uby1pbWFnZS5wbmc_dj00XCJ9IiwiaGFzaCI6IjQ4MDJmYzQ0NjNiODdmMjdhMDU3NDkxNmZiMDFjNWM3ZTAwOTZlZjEifQ==/rio-ferdinand-gives-superb-insight-into-what-david-moyes-did-wrong-at-man-utd.jpg" alt="Rio Ferdinand Gives Superb Insight Into What David Moyes Did Wrong At Man Utd">
+                <img srcset="https://img.balls.ie/balls_ie/eyJkYXRhIjoie1widXJsXCI6XCJodHRwczpcXFwvXFxcL3MzLWV1LXdlc3QtMS5hbWF6b25hd3MuY29tXFxcL3N0b3JhZ2UucHVibGlzaGVycGx1cy5pZVxcXC9tZWRpYS5iYWxscy5pZVxcXC91cGxvYWRzXFxcLzIwMTlcXFwvMDNcXFwvMjkxMTAxNTZcXFwvcGppbWFnZS00MDIuanBnXCIsXCJ3aWR0aFwiOjczMCxcImhlaWdodFwiOjQzMCxcImRlZmF1bHRcIjpcImh0dHBzOlxcXC9cXFwvd3d3LmJhbGxzLmllXFxcL2Fzc2V0c1xcXC9pXFxcL25vLWltYWdlLnBuZz92PTRcIn0iLCJoYXNoIjoiOTgyYzFlMjM5MDYxOGEyMjU4ZjBjYWExY2M4YTk5NDJhMWFhZWM4MCJ9/your-essential-guide-to-an-absolutely-incredible-sporting-weekend-on-tv.jpg" alt="Your Essential Guide To An Absolutely Incredible Sporting Weekend On TV">
             </picture>
         </figure>
     </a>
@@ -619,12 +650,12 @@ sh('create', 'SH-94607383-9');
                     <a href="https://www.balls.ie/football" class="category-link category-link-football text-uppercase">Football</a>
                 
         <div class="byline ">
-            11 hours ago
+            21 hours ago
             <br>
-            By <a href="https://www.balls.ie/author/pj/44">PJ Browne</a>
+            By <a href="https://www.balls.ie/author/maurice-brosnan/274">Maurice Brosnan</a>
         </div>
         <div class="title">
-            <a href="/football/rio-ferdinand-gives-superb-insight-david-moyes-wrong-man-utd-395095">Rio Ferdinand Gives Superb Insight Into What David Moyes Did Wrong At Man Utd</a>
+            <a href="/football/weekend-sport-tv-2-408150">Your Essential Guide To An Absolutely Incredible Sporting Weekend On TV</a>
         </div>
     </div>
 </div>
@@ -633,30 +664,103 @@ sh('create', 'SH-94607383-9');
                           <div class="article default-holder  ">
     <div class="default-unit">
         <div class="image-container">
-            <a href="/gaa/rte-all-ireland-final-promo-395089">
+            <a href="/rugby/leinster-team-ulster-408164">
                 <picture>
                     <!--[if IE 9]><video style="display: none;"><![endif]-->
-                    <source data-srcset="https://img.balls.ie/balls_ie/eyJkYXRhIjoie1widXJsXCI6XCJodHRwOlxcXC9cXFwvczMtZXUtd2VzdC0xLmFtYXpvbmF3cy5jb21cXFwvc3RvcmFnZS5wdWJsaXNoZXJwbHVzLmllXFxcL21lZGlhLmJhbGxzLmllXFxcL3VwbG9hZHNcXFwvMjAxOFxcXC8wOFxcXC8xOTA5NTEwM1xcXC9odXJsaWduLmpwZ1wiLFwid2lkdGhcIjoyMTIsXCJoZWlnaHRcIjoxMzUsXCJkZWZhdWx0XCI6XCJodHRwczpcXFwvXFxcL3d3dy5iYWxscy5pZVxcXC9hc3NldHNcXFwvaVxcXC9uby1pbWFnZS5wbmc_dj00XCJ9IiwiaGFzaCI6IjhlOWVkMWFiMmU5OTMxM2ZmOThjMjdmOGM5MDFlMmUxZjEyYWM0NjIifQ==/rte-s-exquisite-hurling-final-promo-video.jpg" media="(min-width: 992px)">
-                    <source data-srcset="https://img.balls.ie/balls_ie/eyJkYXRhIjoie1widXJsXCI6XCJodHRwOlxcXC9cXFwvczMtZXUtd2VzdC0xLmFtYXpvbmF3cy5jb21cXFwvc3RvcmFnZS5wdWJsaXNoZXJwbHVzLmllXFxcL21lZGlhLmJhbGxzLmllXFxcL3VwbG9hZHNcXFwvMjAxOFxcXC8wOFxcXC8xOTA5NTEwM1xcXC9odXJsaWduLmpwZ1wiLFwid2lkdGhcIjoyMzUsXCJoZWlnaHRcIjoxNDIsXCJkZWZhdWx0XCI6XCJodHRwczpcXFwvXFxcL3d3dy5iYWxscy5pZVxcXC9hc3NldHNcXFwvaVxcXC9uby1pbWFnZS5wbmc_dj00XCJ9IiwiaGFzaCI6ImJjZDg4NjVhYTM4YTYwMDg0YThiOWM0MWM1MzEyOTI3NzZlZWI0ODkifQ==/rte-s-exquisite-hurling-final-promo-video.jpg" media="(min-width: 769px)">
-                    <source data-srcset="https://img.balls.ie/balls_ie/eyJkYXRhIjoie1widXJsXCI6XCJodHRwOlxcXC9cXFwvczMtZXUtd2VzdC0xLmFtYXpvbmF3cy5jb21cXFwvc3RvcmFnZS5wdWJsaXNoZXJwbHVzLmllXFxcL21lZGlhLmJhbGxzLmllXFxcL3VwbG9hZHNcXFwvMjAxOFxcXC8wOFxcXC8xOTA5NTEwM1xcXC9odXJsaWduLmpwZ1wiLFwid2lkdGhcIjo3MjAsXCJoZWlnaHRcIjo0MTAsXCJkZWZhdWx0XCI6XCJodHRwczpcXFwvXFxcL3d3dy5iYWxscy5pZVxcXC9hc3NldHNcXFwvaVxcXC9uby1pbWFnZS5wbmc_dj00XCJ9IiwiaGFzaCI6IjJlOTBhMjQyNjg3Y2RmM2ZmZWQ5YmFiNDZiM2E5MDc4NGQyYTI4ZTIifQ==/rte-s-exquisite-hurling-final-promo-video.jpg" media="(max-width: 768px)">
+                    <source data-srcset="https://img.balls.ie/balls_ie/eyJkYXRhIjoie1widXJsXCI6XCJodHRwczpcXFwvXFxcL3MzLWV1LXdlc3QtMS5hbWF6b25hd3MuY29tXFxcL3N0b3JhZ2UucHVibGlzaGVycGx1cy5pZVxcXC9tZWRpYS5iYWxscy5pZVxcXC91cGxvYWRzXFxcLzIwMTlcXFwvMDNcXFwvMjkxMjEyMTBcXFwvMTYzMjg0Mi5qcGdcIixcIndpZHRoXCI6MjEyLFwiaGVpZ2h0XCI6MTM1LFwiZGVmYXVsdFwiOlwiaHR0cHM6XFxcL1xcXC93d3cuYmFsbHMuaWVcXFwvYXNzZXRzXFxcL2lcXFwvbm8taW1hZ2UucG5nP3Y9NFwifSIsImhhc2giOiIyYTI2OWY3MTVlOWM3ZjYyYjRjNTQ5MmJjZTYwYThiOTE4YjMxYTE1In0=/rob-kearney-dropped-as-leinster-name-team-for-ulster-quarter-final-clash.jpg" media="(min-width: 992px)">
+                    <source data-srcset="https://img.balls.ie/balls_ie/eyJkYXRhIjoie1widXJsXCI6XCJodHRwczpcXFwvXFxcL3MzLWV1LXdlc3QtMS5hbWF6b25hd3MuY29tXFxcL3N0b3JhZ2UucHVibGlzaGVycGx1cy5pZVxcXC9tZWRpYS5iYWxscy5pZVxcXC91cGxvYWRzXFxcLzIwMTlcXFwvMDNcXFwvMjkxMjEyMTBcXFwvMTYzMjg0Mi5qcGdcIixcIndpZHRoXCI6MjM1LFwiaGVpZ2h0XCI6MTQyLFwiZGVmYXVsdFwiOlwiaHR0cHM6XFxcL1xcXC93d3cuYmFsbHMuaWVcXFwvYXNzZXRzXFxcL2lcXFwvbm8taW1hZ2UucG5nP3Y9NFwifSIsImhhc2giOiJiYzI3YjdjMjczMTM2YWI3MzhiZTJhOTAyYjIwNjNhZTRkOWVmMTI0In0=/rob-kearney-dropped-as-leinster-name-team-for-ulster-quarter-final-clash.jpg" media="(min-width: 769px)">
+                    <source data-srcset="https://img.balls.ie/balls_ie/eyJkYXRhIjoie1widXJsXCI6XCJodHRwczpcXFwvXFxcL3MzLWV1LXdlc3QtMS5hbWF6b25hd3MuY29tXFxcL3N0b3JhZ2UucHVibGlzaGVycGx1cy5pZVxcXC9tZWRpYS5iYWxscy5pZVxcXC91cGxvYWRzXFxcLzIwMTlcXFwvMDNcXFwvMjkxMjEyMTBcXFwvMTYzMjg0Mi5qcGdcIixcIndpZHRoXCI6NzIwLFwiaGVpZ2h0XCI6NDEwLFwiZGVmYXVsdFwiOlwiaHR0cHM6XFxcL1xcXC93d3cuYmFsbHMuaWVcXFwvYXNzZXRzXFxcL2lcXFwvbm8taW1hZ2UucG5nP3Y9NFwifSIsImhhc2giOiJjYmJiNGE0NDNiMWYzYTk3YmYwMjQ1MzBjYWQxMDJjOWJjYjZhZWE3In0=/rob-kearney-dropped-as-leinster-name-team-for-ulster-quarter-final-clash.jpg" media="(max-width: 768px)">
                     <!--[if IE 9]></video><![endif]-->
-                    <img src="https://img.balls.ie/balls_ie/eyJkYXRhIjoie1widXJsXCI6XCJodHRwczpcXFwvXFxcL3d3dy5iYWxscy5pZVxcXC9hc3NldHNcXFwvaVxcXC9uby1pbWFnZS5wbmc_dj00XCIsXCJ3aWR0aFwiOjc3MixcImhlaWdodFwiOjQzNixcImRlZmF1bHRcIjpcImh0dHBzOlxcXC9cXFwvd3d3LmJhbGxzLmllXFxcL2Fzc2V0c1xcXC9pXFxcL25vLWltYWdlLnBuZz92PTRcIn0iLCJoYXNoIjoiODk5MzYzZGE4MzNlMDk4MGJlYmQ5YWRiOGJmOWQwMTI2MDQ0NWU1MCJ9/no-image.png?v=4" data-srcset="https://img.balls.ie/balls_ie/eyJkYXRhIjoie1widXJsXCI6XCJodHRwOlxcXC9cXFwvczMtZXUtd2VzdC0xLmFtYXpvbmF3cy5jb21cXFwvc3RvcmFnZS5wdWJsaXNoZXJwbHVzLmllXFxcL21lZGlhLmJhbGxzLmllXFxcL3VwbG9hZHNcXFwvMjAxOFxcXC8wOFxcXC8xOTA5NTEwM1xcXC9odXJsaWduLmpwZ1wiLFwid2lkdGhcIjo3MjAsXCJoZWlnaHRcIjo0MTAsXCJkZWZhdWx0XCI6XCJodHRwczpcXFwvXFxcL3d3dy5iYWxscy5pZVxcXC9hc3NldHNcXFwvaVxcXC9uby1pbWFnZS5wbmc_dj00XCJ9IiwiaGFzaCI6IjJlOTBhMjQyNjg3Y2RmM2ZmZWQ5YmFiNDZiM2E5MDc4NGQyYTI4ZTIifQ==/rte-s-exquisite-hurling-final-promo-video.jpg" alt="RTÉ's Exquisite Hurling Final Promo Video" class="river-img lazyload">
+                    <img src="https://img.balls.ie/balls_ie/eyJkYXRhIjoie1widXJsXCI6XCJodHRwczpcXFwvXFxcL3d3dy5iYWxscy5pZVxcXC9hc3NldHNcXFwvaVxcXC9uby1pbWFnZS5wbmc_dj00XCIsXCJ3aWR0aFwiOjc3MixcImhlaWdodFwiOjQzNixcImRlZmF1bHRcIjpcImh0dHBzOlxcXC9cXFwvd3d3LmJhbGxzLmllXFxcL2Fzc2V0c1xcXC9pXFxcL25vLWltYWdlLnBuZz92PTRcIn0iLCJoYXNoIjoiODk5MzYzZGE4MzNlMDk4MGJlYmQ5YWRiOGJmOWQwMTI2MDQ0NWU1MCJ9/no-image.png?v=4" data-srcset="https://img.balls.ie/balls_ie/eyJkYXRhIjoie1widXJsXCI6XCJodHRwczpcXFwvXFxcL3MzLWV1LXdlc3QtMS5hbWF6b25hd3MuY29tXFxcL3N0b3JhZ2UucHVibGlzaGVycGx1cy5pZVxcXC9tZWRpYS5iYWxscy5pZVxcXC91cGxvYWRzXFxcLzIwMTlcXFwvMDNcXFwvMjkxMjEyMTBcXFwvMTYzMjg0Mi5qcGdcIixcIndpZHRoXCI6NzIwLFwiaGVpZ2h0XCI6NDEwLFwiZGVmYXVsdFwiOlwiaHR0cHM6XFxcL1xcXC93d3cuYmFsbHMuaWVcXFwvYXNzZXRzXFxcL2lcXFwvbm8taW1hZ2UucG5nP3Y9NFwifSIsImhhc2giOiJjYmJiNGE0NDNiMWYzYTk3YmYwMjQ1MzBjYWQxMDJjOWJjYjZhZWE3In0=/rob-kearney-dropped-as-leinster-name-team-for-ulster-quarter-final-clash.jpg" alt="Rob Kearney Dropped As Leinster Name Team For Ulster Quarter-Final Clash" class="river-img lazyload">
                 </picture>
             </a>
         </div>
         <div class="article-detail">
             
+                            <div class="share-notice">
+                    12 <img height="12" src="https://www.balls.ie/assets/i/share-white.png?v=2" alt="12 shares">
+                </div>
+            
+
+                            <a href="https://www.balls.ie/rugby" class="category-link category-link-rugby text-uppercase">Rugby</a>
+            
+            <div class="byline ">
+                20 hours ago
+                <br>
+                By <a href="https://www.balls.ie/author/maurice-brosnan/274">Maurice Brosnan</a>
+            </div>
+            <div class="title">
+                <a href="/rugby/leinster-team-ulster-408164">Rob Kearney Dropped As Leinster Name Team For Ulster Quarter-Final Clash</a>
+            </div>
+        </div>
+        <div class="clearfix"></div>
+    </div>
+</div>
+                      <div class="article default-holder  ">
+    <div class="default-unit">
+        <div class="image-container">
+            <a href="/gaa/leitrim-fans-going-beyond-get-croke-park-league-final-408160">
+                <picture>
+                    <!--[if IE 9]><video style="display: none;"><![endif]-->
+                    <source data-srcset="https://img.balls.ie/balls_ie/eyJkYXRhIjoie1widXJsXCI6XCJodHRwczpcXFwvXFxcL3MzLWV1LXdlc3QtMS5hbWF6b25hd3MuY29tXFxcL3N0b3JhZ2UucHVibGlzaGVycGx1cy5pZVxcXC9tZWRpYS5iYWxscy5pZVxcXC91cGxvYWRzXFxcLzIwMTlcXFwvMDNcXFwvMjkxMTU3NDJcXFwvMTY2MDI0MS5qcGdcIixcIndpZHRoXCI6MjEyLFwiaGVpZ2h0XCI6MTM1LFwiZGVmYXVsdFwiOlwiaHR0cHM6XFxcL1xcXC93d3cuYmFsbHMuaWVcXFwvYXNzZXRzXFxcL2lcXFwvbm8taW1hZ2UucG5nP3Y9NFwifSIsImhhc2giOiJiOTFhMGVmMGJiMDIwOTQ4ZTM5MThhMDI0MzQzOWZmZTEzNmE2YWJkIn0=/leitrim-fans-going-above-and-beyond-to-get-to-croke-park-for-league-final.jpg" media="(min-width: 992px)">
+                    <source data-srcset="https://img.balls.ie/balls_ie/eyJkYXRhIjoie1widXJsXCI6XCJodHRwczpcXFwvXFxcL3MzLWV1LXdlc3QtMS5hbWF6b25hd3MuY29tXFxcL3N0b3JhZ2UucHVibGlzaGVycGx1cy5pZVxcXC9tZWRpYS5iYWxscy5pZVxcXC91cGxvYWRzXFxcLzIwMTlcXFwvMDNcXFwvMjkxMTU3NDJcXFwvMTY2MDI0MS5qcGdcIixcIndpZHRoXCI6MjM1LFwiaGVpZ2h0XCI6MTQyLFwiZGVmYXVsdFwiOlwiaHR0cHM6XFxcL1xcXC93d3cuYmFsbHMuaWVcXFwvYXNzZXRzXFxcL2lcXFwvbm8taW1hZ2UucG5nP3Y9NFwifSIsImhhc2giOiI3Y2QzMGJjYmJjNmMzYjQ0OGM4ZTZiODEwMzcwZWNjZmFlMmJhZGYyIn0=/leitrim-fans-going-above-and-beyond-to-get-to-croke-park-for-league-final.jpg" media="(min-width: 769px)">
+                    <source data-srcset="https://img.balls.ie/balls_ie/eyJkYXRhIjoie1widXJsXCI6XCJodHRwczpcXFwvXFxcL3MzLWV1LXdlc3QtMS5hbWF6b25hd3MuY29tXFxcL3N0b3JhZ2UucHVibGlzaGVycGx1cy5pZVxcXC9tZWRpYS5iYWxscy5pZVxcXC91cGxvYWRzXFxcLzIwMTlcXFwvMDNcXFwvMjkxMTU3NDJcXFwvMTY2MDI0MS5qcGdcIixcIndpZHRoXCI6NzIwLFwiaGVpZ2h0XCI6NDEwLFwiZGVmYXVsdFwiOlwiaHR0cHM6XFxcL1xcXC93d3cuYmFsbHMuaWVcXFwvYXNzZXRzXFxcL2lcXFwvbm8taW1hZ2UucG5nP3Y9NFwifSIsImhhc2giOiJhNmQ0NDdhMDI5NWFhNWUzNmU2NjQxODkwNGE1OWM1ZGNiNmE5MTU5In0=/leitrim-fans-going-above-and-beyond-to-get-to-croke-park-for-league-final.jpg" media="(max-width: 768px)">
+                    <!--[if IE 9]></video><![endif]-->
+                    <img src="https://img.balls.ie/balls_ie/eyJkYXRhIjoie1widXJsXCI6XCJodHRwczpcXFwvXFxcL3d3dy5iYWxscy5pZVxcXC9hc3NldHNcXFwvaVxcXC9uby1pbWFnZS5wbmc_dj00XCIsXCJ3aWR0aFwiOjc3MixcImhlaWdodFwiOjQzNixcImRlZmF1bHRcIjpcImh0dHBzOlxcXC9cXFwvd3d3LmJhbGxzLmllXFxcL2Fzc2V0c1xcXC9pXFxcL25vLWltYWdlLnBuZz92PTRcIn0iLCJoYXNoIjoiODk5MzYzZGE4MzNlMDk4MGJlYmQ5YWRiOGJmOWQwMTI2MDQ0NWU1MCJ9/no-image.png?v=4" data-srcset="https://img.balls.ie/balls_ie/eyJkYXRhIjoie1widXJsXCI6XCJodHRwczpcXFwvXFxcL3MzLWV1LXdlc3QtMS5hbWF6b25hd3MuY29tXFxcL3N0b3JhZ2UucHVibGlzaGVycGx1cy5pZVxcXC9tZWRpYS5iYWxscy5pZVxcXC91cGxvYWRzXFxcLzIwMTlcXFwvMDNcXFwvMjkxMTU3NDJcXFwvMTY2MDI0MS5qcGdcIixcIndpZHRoXCI6NzIwLFwiaGVpZ2h0XCI6NDEwLFwiZGVmYXVsdFwiOlwiaHR0cHM6XFxcL1xcXC93d3cuYmFsbHMuaWVcXFwvYXNzZXRzXFxcL2lcXFwvbm8taW1hZ2UucG5nP3Y9NFwifSIsImhhc2giOiJhNmQ0NDdhMDI5NWFhNWUzNmU2NjQxODkwNGE1OWM1ZGNiNmE5MTU5In0=/leitrim-fans-going-above-and-beyond-to-get-to-croke-park-for-league-final.jpg" alt="Leitrim Fans Going Above And Beyond To Get To Croke Park For League Final" class="river-img lazyload">
+                </picture>
+            </a>
+        </div>
+        <div class="article-detail">
+            
+                            <div class="share-notice">
+                    275 <img height="12" src="https://www.balls.ie/assets/i/share-white.png?v=2" alt="275 shares">
+                </div>
             
 
                             <a href="https://www.balls.ie/gaa" class="category-link category-link-gaa text-uppercase">GAA</a>
             
             <div class="byline ">
-                14 hours ago
+                20 hours ago
+                <br>
+                By <a href="https://www.balls.ie/author/maurice-brosnan/274">Maurice Brosnan</a>
+            </div>
+            <div class="title">
+                <a href="/gaa/leitrim-fans-going-beyond-get-croke-park-league-final-408160">Leitrim Fans Going Above And Beyond To Get To Croke Park For League Final</a>
+            </div>
+        </div>
+        <div class="clearfix"></div>
+    </div>
+</div>
+                      <div class="article default-holder  ">
+    <div class="default-unit">
+        <div class="image-container">
+            <a href="/gaa/club-gaa-players-need-to-be-paying-attention-408167">
+                <picture>
+                    <!--[if IE 9]><video style="display: none;"><![endif]-->
+                    <source data-srcset="https://img.balls.ie/balls_ie/eyJkYXRhIjoie1widXJsXCI6XCJodHRwczpcXFwvXFxcL3MzLWV1LXdlc3QtMS5hbWF6b25hd3MuY29tXFxcL3N0b3JhZ2UucHVibGlzaGVycGx1cy5pZVxcXC9tZWRpYS5iYWxscy5pZVxcXC91cGxvYWRzXFxcLzIwMTlcXFwvMDNcXFwvMjkxNTM3NTFcXFwvMTQ5NTczOC5qcGdcIixcIndpZHRoXCI6MjEyLFwiaGVpZ2h0XCI6MTM1LFwiZGVmYXVsdFwiOlwiaHR0cHM6XFxcL1xcXC93d3cuYmFsbHMuaWVcXFwvYXNzZXRzXFxcL2lcXFwvbm8taW1hZ2UucG5nP3Y9NFwifSIsImhhc2giOiJmOGYzOTA4MzE0ZmVmY2NiOTlmNmIyYzIwMWE4ZjFjNDdiZjM1ZjE4In0=/club-gaa-players-need-to-be-paying-attention-to-what-the-eu-just-voted-on.jpg" media="(min-width: 992px)">
+                    <source data-srcset="https://img.balls.ie/balls_ie/eyJkYXRhIjoie1widXJsXCI6XCJodHRwczpcXFwvXFxcL3MzLWV1LXdlc3QtMS5hbWF6b25hd3MuY29tXFxcL3N0b3JhZ2UucHVibGlzaGVycGx1cy5pZVxcXC9tZWRpYS5iYWxscy5pZVxcXC91cGxvYWRzXFxcLzIwMTlcXFwvMDNcXFwvMjkxNTM3NTFcXFwvMTQ5NTczOC5qcGdcIixcIndpZHRoXCI6MjM1LFwiaGVpZ2h0XCI6MTQyLFwiZGVmYXVsdFwiOlwiaHR0cHM6XFxcL1xcXC93d3cuYmFsbHMuaWVcXFwvYXNzZXRzXFxcL2lcXFwvbm8taW1hZ2UucG5nP3Y9NFwifSIsImhhc2giOiI2NGU1NDJhYjBiZDgzZmEzOWFkMGIxZjllNzdhNmYwMWFlYjVlZjdhIn0=/club-gaa-players-need-to-be-paying-attention-to-what-the-eu-just-voted-on.jpg" media="(min-width: 769px)">
+                    <source data-srcset="https://img.balls.ie/balls_ie/eyJkYXRhIjoie1widXJsXCI6XCJodHRwczpcXFwvXFxcL3MzLWV1LXdlc3QtMS5hbWF6b25hd3MuY29tXFxcL3N0b3JhZ2UucHVibGlzaGVycGx1cy5pZVxcXC9tZWRpYS5iYWxscy5pZVxcXC91cGxvYWRzXFxcLzIwMTlcXFwvMDNcXFwvMjkxNTM3NTFcXFwvMTQ5NTczOC5qcGdcIixcIndpZHRoXCI6NzIwLFwiaGVpZ2h0XCI6NDEwLFwiZGVmYXVsdFwiOlwiaHR0cHM6XFxcL1xcXC93d3cuYmFsbHMuaWVcXFwvYXNzZXRzXFxcL2lcXFwvbm8taW1hZ2UucG5nP3Y9NFwifSIsImhhc2giOiJkNTcwNmI0OGJmMzI2ZTJlZWVkYmEwNTAwOTIyNDkzYWQzZWI0MjliIn0=/club-gaa-players-need-to-be-paying-attention-to-what-the-eu-just-voted-on.jpg" media="(max-width: 768px)">
+                    <!--[if IE 9]></video><![endif]-->
+                    <img src="https://img.balls.ie/balls_ie/eyJkYXRhIjoie1widXJsXCI6XCJodHRwczpcXFwvXFxcL3d3dy5iYWxscy5pZVxcXC9hc3NldHNcXFwvaVxcXC9uby1pbWFnZS5wbmc_dj00XCIsXCJ3aWR0aFwiOjc3MixcImhlaWdodFwiOjQzNixcImRlZmF1bHRcIjpcImh0dHBzOlxcXC9cXFwvd3d3LmJhbGxzLmllXFxcL2Fzc2V0c1xcXC9pXFxcL25vLWltYWdlLnBuZz92PTRcIn0iLCJoYXNoIjoiODk5MzYzZGE4MzNlMDk4MGJlYmQ5YWRiOGJmOWQwMTI2MDQ0NWU1MCJ9/no-image.png?v=4" data-srcset="https://img.balls.ie/balls_ie/eyJkYXRhIjoie1widXJsXCI6XCJodHRwczpcXFwvXFxcL3MzLWV1LXdlc3QtMS5hbWF6b25hd3MuY29tXFxcL3N0b3JhZ2UucHVibGlzaGVycGx1cy5pZVxcXC9tZWRpYS5iYWxscy5pZVxcXC91cGxvYWRzXFxcLzIwMTlcXFwvMDNcXFwvMjkxNTM3NTFcXFwvMTQ5NTczOC5qcGdcIixcIndpZHRoXCI6NzIwLFwiaGVpZ2h0XCI6NDEwLFwiZGVmYXVsdFwiOlwiaHR0cHM6XFxcL1xcXC93d3cuYmFsbHMuaWVcXFwvYXNzZXRzXFxcL2lcXFwvbm8taW1hZ2UucG5nP3Y9NFwifSIsImhhc2giOiJkNTcwNmI0OGJmMzI2ZTJlZWVkYmEwNTAwOTIyNDkzYWQzZWI0MjliIn0=/club-gaa-players-need-to-be-paying-attention-to-what-the-eu-just-voted-on.jpg" alt="Club GAA Players Need To Be Paying Attention To What The EU Just Voted On" class="river-img lazyload">
+                </picture>
+            </a>
+        </div>
+        <div class="article-detail">
+            
+                            <div class="share-notice">
+                    14 <img height="12" src="https://www.balls.ie/assets/i/share-white.png?v=2" alt="14 shares">
+                </div>
+            
+
+                            <a href="https://www.balls.ie/gaa" class="category-link category-link-gaa text-uppercase">GAA</a>
+            
+            <div class="byline ">
+                16 hours ago
                 <br>
                 By <a href="https://www.balls.ie/author/markfarrelly/39">Mark Farrelly</a>
             </div>
             <div class="title">
-                <a href="/gaa/rte-all-ireland-final-promo-395089">RTÉ's Exquisite Hurling Final Promo Video</a>
+                <a href="/gaa/club-gaa-players-need-to-be-paying-attention-408167">Club GAA Players Need To Be Paying Attention To What The EU Just Voted On</a>
             </div>
         </div>
         <div class="clearfix"></div>
@@ -738,7 +842,7 @@ sh('create', 'SH-94607383-9');
             </script>
         </div>
 
-        <script async="async" src="https://www.balls.ie/assets/js/app-5047634e.js"></script>
+        <script async="async" src="https://www.balls.ie/assets/js/app-1a105c00.js"></script>
 
     
 
