@@ -1,9 +1,7 @@
-<!--The following is the downloaded HTML source of the perfectlyposh.com privacy policy that was archived on 2018-08-28.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20180828122124id_/https%3A//www.perfectlyposh.com/privacy-policy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the perfectlyposh.com privacy policy that was archived on 2019-03-30.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20190330164809id_/https%3A//www.perfectlyposh.com/privacy-policy.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en"><head>
-
-
 
 
 
@@ -128,8 +126,6 @@
 <meta http-equiv="x-ua-compatible" content="ie=edge">
 
 <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=0, minimum-scale=1.0, maximum-scale=1.0">
-<link href="https://fonts.googleapis.com/css?family=Montserrat:300,400,400i,500,600,900,900i|Lato:300,400,700,900.900i" rel="stylesheet">
-<link rel="stylesheet" type="text/css" href="https://cloud.typography.com/6547056/6542192/css/fonts.css">
 
 
 
@@ -143,7 +139,7 @@ Perfectly Posh Privacy Policy
 
 
 
-    <link rel="canonical" href="http://www.perfectlyposh.com/privacy-policy.html">
+    <link rel="canonical" href="https://www.perfectlyposh.com/privacy-policy.html">
 
 
 
@@ -165,7 +161,7 @@ Perfectly Posh Privacy Policy
     
     
         
-        <meta property="og:image" content="http://www.perfectlyposh.com/on/demandware.static/Sites-perfectlyPosh-Site/-/default/dw7171d70f/images/logoPP.png">
+        <meta property="og:image" content="https://www.perfectlyposh.com/on/demandware.static/Sites-perfectlyPosh-Site/-/default/dw7171d70f/images/logoPP.png">
     
         
         <meta property="og:type" content="article">
@@ -180,7 +176,7 @@ Perfectly Posh Privacy Policy
         <meta property="og:locale" content="en_US">
     
         
-        <meta property="og:url" content="http://www.perfectlyposh.com/privacy-policy.html">
+        <meta property="og:url" content="https://www.perfectlyposh.com/privacy-policy.html">
     
         
         <meta property="og:description" content="Perfectly Posh Privacy Policy">
@@ -191,7 +187,7 @@ Perfectly Posh Privacy Policy
 
     
     
-        <link rel="image_src" href="http://www.perfectlyposh.com/on/demandware.static/Sites-perfectlyPosh-Site/-/default/dw7171d70f/images/logoPP.png">
+        <link rel="image_src" href="https://www.perfectlyposh.com/on/demandware.static/Sites-perfectlyPosh-Site/-/default/dw7171d70f/images/logoPP.png">
     
 
 
@@ -223,10 +219,10 @@ fbq('track', 'PageView');
 
 
 
-<link href="/on/demandware.static/Sites-perfectlyPosh-Site/-/en_US/v1535434299831/lib/jquery/ui/jquery-ui.min.css" type="text/css" rel="stylesheet">
+<link href="/on/demandware.static/Sites-perfectlyPosh-Site/-/en_US/v1553923881493/lib/jquery/ui/jquery-ui.min.css" type="text/css" rel="stylesheet">
 <link href="//maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css" rel="stylesheet">
 <!--[if lt IE 9]>
-<script src="/on/demandware.static/Sites-perfectlyPosh-Site/-/en_US/v1535434299831/js/lib/html5.js"></script>
+<script src="/on/demandware.static/Sites-perfectlyPosh-Site/-/en_US/v1553923881493/js/lib/html5.js"></script>
 <![endif]-->
 
 <script type="text/javascript">//<!--
@@ -243,7 +239,13 @@ dw.ac = {
         }
         dw.ac._events.push(configs);
     },
-    capture: function() { dw.ac._capture(arguments); },
+	capture: function() { 
+		dw.ac._capture(arguments);
+		// send to CQ as well:
+		if (window.CQuotient) {
+			window.CQuotient.trackEventsFromAC(arguments);
+		}
+	},
     EV_PRD_SEARCHHIT: "searchhit",
     EV_PRD_DETAIL: "detail",
     EV_PRD_RECOMMENDATION: "recommendation",
@@ -289,6 +291,33 @@ CQuotient.getCQUserId = function () {
 		window.CQuotient.initFromCookies();
 	return window.CQuotient.cquid;
 };
+CQuotient.trackEventsFromAC = function (/* Object or Array */ events) {
+try {
+	if (Object.prototype.toString.call(events) === "[object Array]") {
+		events.forEach(_trackASingleCQEvent);
+	} else {
+		CQuotient._trackASingleCQEvent(events);
+	}
+} catch(err) {}
+};
+CQuotient._trackASingleCQEvent = function ( /* Object */ event) {
+	if (event && event.id) {
+		if (event.type === dw.ac.EV_PRD_DETAIL) {
+			CQuotient.trackViewProduct( {id:'', alt_id: event.id, type: 'raw_sku'} );
+		} // not handling the other dw.ac.* events currently
+	}
+};
+CQuotient.trackViewProduct = function(/* Object */ productData){
+	var cq_params = {};
+	cq_params.cookieId = CQuotient.getCQCookieId();
+	cq_params.userId = CQuotient.getCQUserId();
+	cq_params.product = productData;
+	if(CQuotient.sendActivity) {
+		CQuotient.sendActivity(CQuotient.clientId, 'viewProduct', cq_params);
+	} else {
+		CQuotient.activities.push({activityType: 'viewProduct', parameters: cq_params});
+	}
+};
 /* ]]> */
 // -->
 </script>
@@ -299,10 +328,13 @@ CQuotient.getCQUserId = function () {
 
 
 
-<link rel="stylesheet" href="/on/demandware.static/Sites-perfectlyPosh-Site/-/en_US/v1535434299831/css/style.css">
+<link rel="stylesheet" href="https://use.typekit.net/gjj0yxf.css">
+<link href="https://fonts.googleapis.com/css?family=Montserrat:300,400,400i,500,600,900,900i|Lato:300,400,700,900.900i" rel="stylesheet">
+<link rel="stylesheet" type="text/css" href="https://cloud.typography.com/6547056/6542192/css/fonts.css">
+<link rel="stylesheet" href="/on/demandware.static/Sites-perfectlyPosh-Site/-/en_US/v1553923881493/css/style.css">
 
 
-<link href="/on/demandware.static/Sites-perfectlyPosh-Site/-/en_US/v1535434299831/css/print.css" type="text/css" rel="stylesheet" media="print">
+<link href="/on/demandware.static/Sites-perfectlyPosh-Site/-/en_US/v1553923881493/css/print.css" type="text/css" rel="stylesheet" media="print">
 <!--[if lte IE 8]>
 <script src="//cdnjs.cloudflare.com/ajax/libs/respond.js/1.4.2/respond.js" type="text/javascript"></script>
 <script src="https://cdn.rawgit.com/chuckcarpenter/REM-unit-polyfill/master/js/rem.min.js" type="text/javascript"></script>
@@ -353,6 +385,7 @@ window.location.reload();
 
 
 
+
 <div class="header">
 <div id="js-header_overlay" class="js-header_overlay header-overlay"></div>
 <div class="js-sticky-element js-sticky_header header-sticky js-header_wrp header-sticky-normal">
@@ -382,7 +415,31 @@ window.location.reload();
 
 </div>
 
-<div class="header-top-right-section is-mobile first">
+<div class="header-top-right-section menu-static-links is-mobile first">
+
+
+	 
+
+
+	
+
+
+
+
+
+
+
+
+<a href="https://www.perfectlyposh.com/consultant-join/">Join</a>
+<a href="https://www.perfectlyposh.com/perks-page.html">Perks</a>
+<a href="https://www.perfectlyposh.com/host.html">Host</a>
+
+
+
+ 
+	
+</div>
+<div class="header-top-right-section is-mobile">
 
 
 
@@ -408,10 +465,9 @@ window.location.reload();
 </div>
 
 </div>
+
 <div class="header-top-right-section header-top-right-mini-cart">
 <div id="mini-cart" class="mini-cart">
-
-
 
 
 
@@ -564,7 +620,7 @@ window.location.reload();
 <a class="mini-cart-link mini-cart-empty" href="https://www.perfectlyposh.com/shopping-cart/" title="View Cart">
 <span class="i-shopping_cart mini-cart-icon"></span>
 <span class="mini-cart-qty">
-<span class="mini-cart-quantity">(0)</span>
+<span class="mini-cart-quantity">0</span>
 </span>
 </a>
 
@@ -575,7 +631,7 @@ window.location.reload();
 </div>
 </div>
 <div class="header-top-right-section last is-mobile ">
-<span class="js-search_toggle search-icon i-search js-use_overlay"></span>
+<a href="#" class="js-search_toggle search-icon i-search js-use_overlay"></a>
 </div>
 <span class="menu-toggle menu-close-icon i-remove is-desktop is-tablet"></span>
 </div>
@@ -603,7 +659,7 @@ window.location.reload();
 
 <div class="js-sticky-element header-sticky header-nav js-sticked_wrapper header-sticky-stuck">
 <div class="header-sticky-wrap">
-<div class="header-sticky-container content-width">
+<div class="header-sticky-container content-width header-main-nav">
 
 <div class="header-logo is-mobile">
 
@@ -749,8 +805,6 @@ window.location.reload();
 
 
 
-
-
 <ul class="menu-category level-1 is-mobile">
 
 
@@ -759,479 +813,13 @@ window.location.reload();
 
 <li class="js-header_category level-1-item" data-show-in-sticky="false">
 
-<a class=" level-1-link" href="http://www.perfectlyposh.com/products">
-Products
-</a>
-
-
-<span class="menu-item-icon i-caret_down"></span>
-
-
-
-
-
-
-<div class="level-2">
-<ul class="menu-vertical dropdown-level js-dropdown_level">
-
-
-
-
-<li class="level-2-item">
-
-
-<a class="level-2-link" href="http://www.perfectlyposh.com/products/bathshower">
-Bath/Shower
-</a>
-
-
-</li>
-
-
-
-
-
-<li class="level-2-item">
-
-
-<a class="level-2-link" href="http://www.perfectlyposh.com/products/body">
-Body
-</a>
-
-
-</li>
-
-
-
-
-
-<li class="level-2-item">
-
-
-<a class="level-2-link" href="http://www.perfectlyposh.com/products/face-lips">
-Face + Lips
-</a>
-
-
-</li>
-
-
-
-
-
-<li class="level-2-item">
-
-
-<a class="level-2-link" href="http://www.perfectlyposh.com/products/hair">
-Hair
-</a>
-
-
-</li>
-
-
-
-
-
-<li class="level-2-item">
-
-
-<a class="level-2-link" href="http://www.perfectlyposh.com/products/hands-feet">
-Hands + Feet
-</a>
-
-
-</li>
-
-
-
-	 
-
-	
-</ul>
-</div>
-
-
-</li>
-
-
-
-
-
-<li class="js-header_category level-1-item" data-show-in-sticky="false">
-
-<a class=" level-1-link" href="http://www.perfectlyposh.com/collections">
-Collections
-</a>
-
-
-<span class="menu-item-icon i-caret_down"></span>
-
-
-
-
-
-
-<div class="level-2">
-<ul class="menu-vertical dropdown-level js-dropdown_level">
-
-
-
-
-<li class="level-2-item">
-
-
-<a class="level-2-link" href="http://www.perfectlyposh.com/collections/defiant">
-Defiant
-</a>
-
-
-</li>
-
-
-
-
-
-<li class="level-2-item">
-
-
-<a class="level-2-link" href="http://www.perfectlyposh.com/collections/seasonal">
-Seasonal
-</a>
-
-
-</li>
-
-
-
-
-
-<li class="level-2-item">
-
-
-<a class="level-2-link" href="http://www.perfectlyposh.com/collections/new-products">
-New Products
-</a>
-
-
-</li>
-
-
-
-
-
-<li class="level-2-item">
-
-
-<a class="level-2-link" href="http://www.perfectlyposh.com/collections/all-mixd-up">
-All Mixd Up
-</a>
-
-
-</li>
-
-
-
-
-
-<li class="level-2-item">
-
-
-<a class="level-2-link" href="http://www.perfectlyposh.com/collections/body-mudmask">
-Body Mud/Mask
-</a>
-
-
-</li>
-
-
-
-
-
-<li class="level-2-item">
-
-
-<a class="level-2-link" href="http://www.perfectlyposh.com/collections/chunks">
-Chunks
-</a>
-
-
-</li>
-
-
-
-
-
-<li class="level-2-item">
-
-
-<a class="level-2-link" href="http://www.perfectlyposh.com/collections/face-masks">
-Face Masks
-</a>
-
-
-</li>
-
-
-
-
-
-<li class="level-2-item">
-
-
-<a class="level-2-link" href="http://www.perfectlyposh.com/collections/hair-care">
-Hair Care
-</a>
-
-
-</li>
-
-
-
-
-
-<li class="level-2-item">
-
-
-<a class="level-2-link" href="http://www.perfectlyposh.com/collections/hands">
-Hands
-</a>
-
-
-</li>
-
-
-
-
-
-<li class="level-2-item">
-
-
-<a class="level-2-link" href="http://www.perfectlyposh.com/collections/lips">
-Lips
-</a>
-
-
-</li>
-
-
-
-
-
-<li class="level-2-item">
-
-
-<a class="level-2-link" href="http://www.perfectlyposh.com/collections/look-natural">
-Look Natural
-</a>
-
-
-</li>
-
-
-
-
-
-<li class="level-2-item">
-
-
-<a class="level-2-link" href="http://www.perfectlyposh.com/collections/play-footsie">
-Play Footsie
-</a>
-
-
-</li>
-
-
-
-
-
-<li class="level-2-item">
-
-
-<a class="level-2-link" href="http://www.perfectlyposh.com/collections/posh-body">
-Posh Body
-</a>
-
-
-</li>
-
-
-
-
-
-<li class="level-2-item">
-
-
-<a class="level-2-link" href="http://www.perfectlyposh.com/collections/posh-kit">
-Posh Kit
-</a>
-
-
-</li>
-
-
-
-
-
-<li class="level-2-item">
-
-
-<a class="level-2-link" href="http://www.perfectlyposh.com/collections/retired">
-Retired
-</a>
-
-
-</li>
-
-
-
-
-
-<li class="level-2-item">
-
-
-<a class="level-2-link" href="http://www.perfectlyposh.com/collections/scrubby">
-Scrubby
-</a>
-
-
-</li>
-
-
-
-
-
-<li class="level-2-item">
-
-
-<a class="level-2-link" href="http://www.perfectlyposh.com/collections/simple-skin">
-Simple Skin
-</a>
-
-
-</li>
-
-
-
-
-
-<li class="level-2-item">
-
-
-<a class="level-2-link" href="http://www.perfectlyposh.com/collections/skin-sticks">
-Skin Sticks
-</a>
-
-
-</li>
-
-
-
-
-
-<li class="level-2-item">
-
-
-<a class="level-2-link" href="http://www.perfectlyposh.com/collections/specialty-face">
-Specialty Face
-</a>
-
-
-</li>
-
-
-
-
-
-<li class="level-2-item">
-
-
-<a class="level-2-link" href="http://www.perfectlyposh.com/collections/vial">
-Vial
-</a>
-
-
-</li>
-
-
-
-	 
-
-	
-</ul>
-</div>
-
-
-</li>
-
-
-
-
-
-<li class="js-header_category level-1-item" data-show-in-sticky="false">
-
-<a class=" level-1-link" href="http://www.perfectlyposh.com/consultant-join/">
-Join
-</a>
-
-
-
-
-
-
-
-</li>
-
-
-
-
-
-<li class="js-header_category level-1-item" data-show-in-sticky="false">
-
-<a class=" level-1-link" href="http://www.perfectlyposh.com/perks-page.html">
-Perks
-</a>
-
-
-
-
-
-
-
-</li>
-
-
-
-
-
-<li class="js-header_category level-1-item" data-show-in-sticky="false">
-
-<a class=" level-1-link" href="http://www.perfectlyposh.com/host">
-Host
-</a>
-
-
-
-
-
-
-
-</li>
-
-
-
-
-
-<li class="js-header_category level-1-item" data-show-in-sticky="false">
-
-<a class=" level-1-link" href="http://www.perfectlyposh.com/company-about.html">
+<a class=" level-1-link category-About" href="https://www.perfectlyposh.com/company-about.html">
 About
-</a>
 
 
 <span class="menu-item-icon i-caret_down"></span>
 
+</a>
 
 
 
@@ -1257,17 +845,297 @@ About
 
 
 
-<li class="level-2-item"><a class="level-2-link" href="http://www.perfectlyposh.com/company-about.html" title="Company">Company</a></li>
+<li class="level-2-item"><a class="level-2-link" href="https://www.perfectlyposh.com/company-about.html" title="Company">Company</a></li>
 <li class="level-2-item"><a class="level-2-link" href="http://blog.perfectlyposh.com" title="Company">Blog</a></li>
-	<li class="level-2-item"><a class="level-2-link" href="http://www.perfectlyposh.com/meettheteam.html" title="Posh Team">Posh Team</a></li>
-	<!--<li class="level-2-item"><a class="level-2-link" href="http://www.perfectlyposh.com/ingredients.html" title="Ingredients">Ingredients</a></li>-->
+<li class="level-2-item"><a class="level-2-link" href="https://www.perfectlyposh.com/meettheteam.html" title="Posh Team">Posh Team</a></li>
 
 
 
  
 	
 </ul>
+
 </div>
+
+
+</li>
+
+
+
+
+
+<li class="js-header_category level-1-item" data-show-in-sticky="false">
+
+<a class=" level-1-link category-Shop" href="/shop">
+Shop
+
+
+<span class="menu-item-icon i-caret_down"></span>
+
+</a>
+
+
+
+
+
+<div class="level-2">
+<ul class="menu-vertical dropdown-level js-dropdown_level">
+
+
+
+
+<li class="level-2-item">
+
+
+<a class="level-2-link" href="https://www.perfectlyposh.com/shop/category">
+Category
+</a>
+
+
+<ul class="level-3">
+
+
+<li class="level-3-item">
+<a class="level-3-link" href="https://www.perfectlyposh.com/shop/category/7-for-70.00">
+7 for $70.00
+</a>
+</li>
+
+
+
+<li class="level-3-item">
+<a class="level-3-link" href="https://www.perfectlyposh.com/shop/category/new-arrivals">
+New Arrivals
+</a>
+</li>
+
+
+
+<li class="level-3-item">
+<a class="level-3-link" href="https://www.perfectlyposh.com/shop/category/beauty">
+Beauty
+</a>
+</li>
+
+
+
+<li class="level-3-item">
+<a class="level-3-link" href="https://www.perfectlyposh.com/shop/category/body">
+Body
+</a>
+</li>
+
+
+
+<li class="level-3-item">
+<a class="level-3-link" href="https://www.perfectlyposh.com/shop/category/bundles">
+Bundles
+</a>
+</li>
+
+
+
+<li class="level-3-item">
+<a class="level-3-link" href="https://www.perfectlyposh.com/shop/category/face">
+Face
+</a>
+</li>
+
+
+
+<li class="level-3-item">
+<a class="level-3-link" href="https://www.perfectlyposh.com/shop/category/feet">
+Feet
+</a>
+</li>
+
+
+
+<li class="level-3-item">
+<a class="level-3-link" href="https://www.perfectlyposh.com/shop/category/hands">
+Hands
+</a>
+</li>
+
+
+
+<li class="level-3-item">
+<a class="level-3-link" href="https://www.perfectlyposh.com/shop/category/lips">
+Lips
+</a>
+</li>
+
+
+
+<li class="level-3-item">
+<a class="level-3-link" href="https://www.perfectlyposh.com/shop/category/skin-sticks">
+Skin Sticks
+</a>
+</li>
+
+
+
+<li class="level-3-item">
+<a class="level-3-link" href="https://www.perfectlyposh.com/shop/category/retired">
+Retired
+</a>
+</li>
+
+
+</ul>
+
+</li>
+
+
+
+
+
+<li class="level-2-item">
+
+
+<a class="level-2-link" href="https://www.perfectlyposh.com/shop/solutions">
+Solutions
+</a>
+
+
+<ul class="level-3">
+
+
+<li class="level-3-item">
+<a class="level-3-link" href="https://www.perfectlyposh.com/shop/solutions/anti-aging">
+Anti-Aging
+</a>
+</li>
+
+
+
+<li class="level-3-item">
+<a class="level-3-link" href="https://www.perfectlyposh.com/shop/solutions/brightening">
+Brightening
+</a>
+</li>
+
+
+
+<li class="level-3-item">
+<a class="level-3-link" href="https://www.perfectlyposh.com/shop/solutions/clean-beauty">
+Clean Beauty
+</a>
+</li>
+
+
+
+<li class="level-3-item">
+<a class="level-3-link" href="https://www.perfectlyposh.com/shop/solutions/detoxifying">
+Detoxifying
+</a>
+</li>
+
+
+
+<li class="level-3-item">
+<a class="level-3-link" href="https://www.perfectlyposh.com/shop/solutions/his-posh">
+His Posh
+</a>
+</li>
+
+
+
+<li class="level-3-item">
+<a class="level-3-link" href="https://www.perfectlyposh.com/shop/solutions/pore-reducing">
+Pore Reducing
+</a>
+</li>
+
+
+
+<li class="level-3-item">
+<a class="level-3-link" href="https://www.perfectlyposh.com/shop/solutions/pretty-simple">
+Pretty Simple
+</a>
+</li>
+
+
+
+<li class="level-3-item">
+<a class="level-3-link" href="https://www.perfectlyposh.com/shop/solutions/soothing">
+Soothing
+</a>
+</li>
+
+
+
+<li class="level-3-item">
+<a class="level-3-link" href="https://www.perfectlyposh.com/shop/solutions/tired-skin">
+Tired Skin
+</a>
+</li>
+
+
+
+<li class="level-3-item">
+<a class="level-3-link" href="https://www.perfectlyposh.com/shop/solutions/well-balanced">
+Well Balanced
+</a>
+</li>
+
+
+</ul>
+
+</li>
+
+
+
+	 
+
+
+	
+
+
+
+
+
+
+
+
+<span class="global-flyout-asset">
+<a href="https://www.perfectlyposh.com/gender-bender/HH4031-1.html" "=""><img alt="Shop Category Ad" src="https://www.perfectlyposh.com/on/demandware.static/-/Library-Sites-perfectlyPosh/default/dw9b0c1963/images/flyouts/gender-bender.jpg"></a>
+</span>
+
+
+
+ 
+	
+</ul>
+
+
+	 
+
+	
+
+	 
+
+	
+
+</div>
+
+
+</li>
+
+
+
+
+
+<li class="js-header_category level-1-item" data-show-in-sticky="false">
+
+<a class=" level-1-link category-Best Sellers" href="https://www.perfectlyposh.com/best-sellers">
+Best Sellers
+
+</a>
+
+
+
+
 
 
 </li>
@@ -1282,13 +1150,13 @@ About
 
 <li class="js-header_category level-1-item" data-show-in-sticky="false">
 
-<a class=" level-1-link" href="http://catalog.po.sh" target="_blank">
+<a class=" level-1-link category-Catalog" href="http://catalog.po.sh" target="_blank">
 Catalog
-</a>
 
 
 <span class="menu-item-icon i-caret_down"></span>
 
+</a>
 
 
 
@@ -1312,25 +1180,39 @@ Core Catalog
 
 
 
+	 
+
+	
+</ul>
 
 
-<li class="level-2-item">
+	 
 
+	
 
-<a class="level-2-link" href="http://seasonal.po.sh" target="_blank">
-Seasonal Catalog
-</a>
+	 
+
+	
+
+</div>
 
 
 </li>
 
 
 
-	 
 
-	
-</ul>
-</div>
+
+<li class="js-header_category level-1-item" data-show-in-sticky="false">
+
+<a class=" level-1-link category-Posh Cares" href="https://www.perfectlyposh.com/posh-cares">
+Posh Cares
+
+</a>
+
+
+
+
 
 
 </li>
@@ -1360,368 +1242,7 @@ Seasonal Catalog
 <div class="js-accordion_wrapper menu-accordion-item">
 <h2 class="js-accordion_title menu-accordion-title">
 <span class="menu-accordion-title-span">
-<a class="has-sub-menu level-1-link" href="http://www.perfectlyposh.com/products">
-Products
-</a>
-</span>
-
-<span class="menu-mobile-icon-right i-angle_right"></span>
-<span class="menu-mobile-icon-bottom i-angle_down"></span>
-
-</h2>
-<ul class="js-accordion_container menu-accordion-list" style="display: none">
-
-
-
-<li class="level-2-item">
-<a class="level-2-link" href="http://www.perfectlyposh.com/products/bathshower">
-Bath/Shower
-</a>
-
-</li>
-
-
-
-
-<li class="level-2-item">
-<a class="level-2-link" href="http://www.perfectlyposh.com/products/body">
-Body
-</a>
-
-</li>
-
-
-
-
-<li class="level-2-item">
-<a class="level-2-link" href="http://www.perfectlyposh.com/products/face-lips">
-Face + Lips
-</a>
-
-</li>
-
-
-
-
-<li class="level-2-item">
-<a class="level-2-link" href="http://www.perfectlyposh.com/products/hair">
-Hair
-</a>
-
-</li>
-
-
-
-
-<li class="level-2-item">
-<a class="level-2-link" href="http://www.perfectlyposh.com/products/hands-feet">
-Hands + Feet
-</a>
-
-</li>
-
-
-
-	 
-
-	
-</ul>
-</div>
-
-
-
-
-<div class="js-accordion_wrapper menu-accordion-item">
-<h2 class="js-accordion_title menu-accordion-title">
-<span class="menu-accordion-title-span">
-<a class="has-sub-menu level-1-link" href="http://www.perfectlyposh.com/collections">
-Collections
-</a>
-</span>
-
-<span class="menu-mobile-icon-right i-angle_right"></span>
-<span class="menu-mobile-icon-bottom i-angle_down"></span>
-
-</h2>
-<ul class="js-accordion_container menu-accordion-list" style="display: none">
-
-
-
-<li class="level-2-item">
-<a class="level-2-link" href="http://www.perfectlyposh.com/collections/defiant">
-Defiant
-</a>
-
-</li>
-
-
-
-
-<li class="level-2-item">
-<a class="level-2-link" href="http://www.perfectlyposh.com/collections/seasonal">
-Seasonal
-</a>
-
-</li>
-
-
-
-
-<li class="level-2-item">
-<a class="level-2-link" href="http://www.perfectlyposh.com/collections/new-products">
-New Products
-</a>
-
-</li>
-
-
-
-
-<li class="level-2-item">
-<a class="level-2-link" href="http://www.perfectlyposh.com/collections/all-mixd-up">
-All Mixd Up
-</a>
-
-</li>
-
-
-
-
-<li class="level-2-item">
-<a class="level-2-link" href="http://www.perfectlyposh.com/collections/body-mudmask">
-Body Mud/Mask
-</a>
-
-</li>
-
-
-
-
-<li class="level-2-item">
-<a class="level-2-link" href="http://www.perfectlyposh.com/collections/chunks">
-Chunks
-</a>
-
-</li>
-
-
-
-
-<li class="level-2-item">
-<a class="level-2-link" href="http://www.perfectlyposh.com/collections/face-masks">
-Face Masks
-</a>
-
-</li>
-
-
-
-
-<li class="level-2-item">
-<a class="level-2-link" href="http://www.perfectlyposh.com/collections/hair-care">
-Hair Care
-</a>
-
-</li>
-
-
-
-
-<li class="level-2-item">
-<a class="level-2-link" href="http://www.perfectlyposh.com/collections/hands">
-Hands
-</a>
-
-</li>
-
-
-
-
-<li class="level-2-item">
-<a class="level-2-link" href="http://www.perfectlyposh.com/collections/lips">
-Lips
-</a>
-
-</li>
-
-
-
-
-<li class="level-2-item">
-<a class="level-2-link" href="http://www.perfectlyposh.com/collections/look-natural">
-Look Natural
-</a>
-
-</li>
-
-
-
-
-<li class="level-2-item">
-<a class="level-2-link" href="http://www.perfectlyposh.com/collections/play-footsie">
-Play Footsie
-</a>
-
-</li>
-
-
-
-
-<li class="level-2-item">
-<a class="level-2-link" href="http://www.perfectlyposh.com/collections/posh-body">
-Posh Body
-</a>
-
-</li>
-
-
-
-
-<li class="level-2-item">
-<a class="level-2-link" href="http://www.perfectlyposh.com/collections/posh-kit">
-Posh Kit
-</a>
-
-</li>
-
-
-
-
-<li class="level-2-item">
-<a class="level-2-link" href="http://www.perfectlyposh.com/collections/retired">
-Retired
-</a>
-
-</li>
-
-
-
-
-<li class="level-2-item">
-<a class="level-2-link" href="http://www.perfectlyposh.com/collections/scrubby">
-Scrubby
-</a>
-
-</li>
-
-
-
-
-<li class="level-2-item">
-<a class="level-2-link" href="http://www.perfectlyposh.com/collections/simple-skin">
-Simple Skin
-</a>
-
-</li>
-
-
-
-
-<li class="level-2-item">
-<a class="level-2-link" href="http://www.perfectlyposh.com/collections/skin-sticks">
-Skin Sticks
-</a>
-
-</li>
-
-
-
-
-<li class="level-2-item">
-<a class="level-2-link" href="http://www.perfectlyposh.com/collections/specialty-face">
-Specialty Face
-</a>
-
-</li>
-
-
-
-
-<li class="level-2-item">
-<a class="level-2-link" href="http://www.perfectlyposh.com/collections/vial">
-Vial
-</a>
-
-</li>
-
-
-
-	 
-
-	
-</ul>
-</div>
-
-
-
-
-<div class="js-accordion_wrapper menu-accordion-item">
-<h2 class="js-accordion_title menu-accordion-title">
-<span class="menu-accordion-title-span">
-<a class="has-sub-menu level-1-link" href="http://www.perfectlyposh.com/consultant-join/">
-Join
-</a>
-</span>
-
-</h2>
-<ul class="js-accordion_container menu-accordion-list" style="display: none">
-
-
-	 
-
-	
-</ul>
-</div>
-
-
-
-
-<div class="js-accordion_wrapper menu-accordion-item">
-<h2 class="js-accordion_title menu-accordion-title">
-<span class="menu-accordion-title-span">
-<a class="has-sub-menu level-1-link" href="http://www.perfectlyposh.com/perks-page.html">
-Perks
-</a>
-</span>
-
-</h2>
-<ul class="js-accordion_container menu-accordion-list" style="display: none">
-
-
-	 
-
-	
-</ul>
-</div>
-
-
-
-
-<div class="js-accordion_wrapper menu-accordion-item">
-<h2 class="js-accordion_title menu-accordion-title">
-<span class="menu-accordion-title-span">
-<a class="has-sub-menu level-1-link" href="http://www.perfectlyposh.com/host">
-Host
-</a>
-</span>
-
-</h2>
-<ul class="js-accordion_container menu-accordion-list" style="display: none">
-
-
-	 
-
-	
-</ul>
-</div>
-
-
-
-
-<div class="js-accordion_wrapper menu-accordion-item">
-<h2 class="js-accordion_title menu-accordion-title">
-<span class="menu-accordion-title-span">
-<a class="has-sub-menu level-1-link" href="http://www.perfectlyposh.com/company-about.html">
+<a class=" level-1-link" href="https://www.perfectlyposh.com/company-about.html">
 About
 </a>
 </span>
@@ -1730,7 +1251,7 @@ About
 <span class="menu-mobile-icon-bottom i-angle_down"></span>
 
 </h2>
-<ul class="js-accordion_container menu-accordion-list" style="display: none">
+<ul class="js-accordion_container menu-accordion-list" style="display: none;">
 
 
 
@@ -1748,14 +1269,283 @@ About
 
 
 
-<li class="level-2-item"><a class="level-2-link" href="http://www.perfectlyposh.com/company-about.html" title="Company">Company</a></li>
+<li class="level-2-item"><a class="level-2-link" href="https://www.perfectlyposh.com/company-about.html" title="Company">Company</a></li>
 <li class="level-2-item"><a class="level-2-link" href="http://blog.perfectlyposh.com" title="Company">Blog</a></li>
-	<li class="level-2-item"><a class="level-2-link" href="http://www.perfectlyposh.com/meettheteam.html" title="Posh Team">Posh Team</a></li>
-	<!--<li class="level-2-item"><a class="level-2-link" href="http://www.perfectlyposh.com/ingredients.html" title="Ingredients">Ingredients</a></li>-->
+<li class="level-2-item"><a class="level-2-link" href="https://www.perfectlyposh.com/meettheteam.html" title="Posh Team">Posh Team</a></li>
 
 
 
  
+	
+
+	 
+
+	
+</ul>
+</div>
+
+
+
+
+<div class="js-accordion_wrapper menu-accordion-item">
+<h2 class="js-accordion_title menu-accordion-title">
+<span class="menu-accordion-title-span">
+<a class=" level-1-link" href="/shop">
+Shop
+</a>
+</span>
+
+<span class="menu-mobile-icon-right i-angle_right"></span>
+<span class="menu-mobile-icon-bottom i-angle_down"></span>
+
+</h2>
+<ul class="js-accordion_container menu-accordion-list" style="display: none;">
+
+
+
+<li class="level-2-item">
+<a class="level-2-link" href="https://www.perfectlyposh.com/shop/category">
+Category
+</a>
+
+<ul class="level-3">
+
+
+<li class="level-3-item">
+<a class="level-3-link" href="https://www.perfectlyposh.com/shop/category/7-for-70.00">
+7 for $70.00
+</a>
+</li>
+
+
+
+<li class="level-3-item">
+<a class="level-3-link" href="https://www.perfectlyposh.com/shop/category/new-arrivals">
+New Arrivals
+</a>
+</li>
+
+
+
+<li class="level-3-item">
+<a class="level-3-link" href="https://www.perfectlyposh.com/shop/category/beauty">
+Beauty
+</a>
+</li>
+
+
+
+<li class="level-3-item">
+<a class="level-3-link" href="https://www.perfectlyposh.com/shop/category/body">
+Body
+</a>
+</li>
+
+
+
+<li class="level-3-item">
+<a class="level-3-link" href="https://www.perfectlyposh.com/shop/category/bundles">
+Bundles
+</a>
+</li>
+
+
+
+<li class="level-3-item">
+<a class="level-3-link" href="https://www.perfectlyposh.com/shop/category/face">
+Face
+</a>
+</li>
+
+
+
+<li class="level-3-item">
+<a class="level-3-link" href="https://www.perfectlyposh.com/shop/category/feet">
+Feet
+</a>
+</li>
+
+
+
+<li class="level-3-item">
+<a class="level-3-link" href="https://www.perfectlyposh.com/shop/category/hands">
+Hands
+</a>
+</li>
+
+
+
+<li class="level-3-item">
+<a class="level-3-link" href="https://www.perfectlyposh.com/shop/category/lips">
+Lips
+</a>
+</li>
+
+
+
+<li class="level-3-item">
+<a class="level-3-link" href="https://www.perfectlyposh.com/shop/category/skin-sticks">
+Skin Sticks
+</a>
+</li>
+
+
+
+<li class="level-3-item">
+<a class="level-3-link" href="https://www.perfectlyposh.com/shop/category/retired">
+Retired
+</a>
+</li>
+
+
+</ul>
+
+</li>
+
+
+
+
+<li class="level-2-item">
+<a class="level-2-link" href="https://www.perfectlyposh.com/shop/solutions">
+Solutions
+</a>
+
+<ul class="level-3">
+
+
+<li class="level-3-item">
+<a class="level-3-link" href="https://www.perfectlyposh.com/shop/solutions/anti-aging">
+Anti-Aging
+</a>
+</li>
+
+
+
+<li class="level-3-item">
+<a class="level-3-link" href="https://www.perfectlyposh.com/shop/solutions/brightening">
+Brightening
+</a>
+</li>
+
+
+
+<li class="level-3-item">
+<a class="level-3-link" href="https://www.perfectlyposh.com/shop/solutions/clean-beauty">
+Clean Beauty
+</a>
+</li>
+
+
+
+<li class="level-3-item">
+<a class="level-3-link" href="https://www.perfectlyposh.com/shop/solutions/detoxifying">
+Detoxifying
+</a>
+</li>
+
+
+
+<li class="level-3-item">
+<a class="level-3-link" href="https://www.perfectlyposh.com/shop/solutions/his-posh">
+His Posh
+</a>
+</li>
+
+
+
+<li class="level-3-item">
+<a class="level-3-link" href="https://www.perfectlyposh.com/shop/solutions/pore-reducing">
+Pore Reducing
+</a>
+</li>
+
+
+
+<li class="level-3-item">
+<a class="level-3-link" href="https://www.perfectlyposh.com/shop/solutions/pretty-simple">
+Pretty Simple
+</a>
+</li>
+
+
+
+<li class="level-3-item">
+<a class="level-3-link" href="https://www.perfectlyposh.com/shop/solutions/soothing">
+Soothing
+</a>
+</li>
+
+
+
+<li class="level-3-item">
+<a class="level-3-link" href="https://www.perfectlyposh.com/shop/solutions/tired-skin">
+Tired Skin
+</a>
+</li>
+
+
+
+<li class="level-3-item">
+<a class="level-3-link" href="https://www.perfectlyposh.com/shop/solutions/well-balanced">
+Well Balanced
+</a>
+</li>
+
+
+</ul>
+
+</li>
+
+
+
+	 
+
+
+	
+
+
+
+
+
+
+
+
+<span class="global-flyout-asset">
+<a href="https://www.perfectlyposh.com/gender-bender/HH4031-1.html" "=""><img alt="Shop Category Ad" src="https://www.perfectlyposh.com/on/demandware.static/-/Library-Sites-perfectlyPosh/default/dw9b0c1963/images/flyouts/gender-bender.jpg"></a>
+</span>
+
+
+
+ 
+	
+
+	 
+
+	
+</ul>
+</div>
+
+
+
+
+<div class="js-accordion_wrapper menu-accordion-item">
+<h2 class="js-accordion_title menu-accordion-title">
+<span class="menu-accordion-title-span">
+<a class=" level-1-link" href="https://www.perfectlyposh.com/best-sellers">
+Best Sellers
+</a>
+</span>
+
+</h2>
+<ul class="js-accordion_container menu-accordion-list" style="display: none;">
+
+
+	 
+
+	
+
+	 
+
 	
 </ul>
 </div>
@@ -1769,7 +1559,7 @@ About
 <div class="js-accordion_wrapper menu-accordion-item">
 <h2 class="js-accordion_title menu-accordion-title">
 <span class="menu-accordion-title-span">
-<a class="has-sub-menu level-1-link" href="http://catalog.po.sh" target="_blank">
+<a class=" level-1-link" href="http://catalog.po.sh" target="_blank">
 Catalog
 </a>
 </span>
@@ -1778,7 +1568,7 @@ Catalog
 <span class="menu-mobile-icon-bottom i-angle_down"></span>
 
 </h2>
-<ul class="js-accordion_container menu-accordion-list" style="display: none">
+<ul class="js-accordion_container menu-accordion-list" style="display: none;">
 
 
 
@@ -1791,15 +1581,9 @@ Core Catalog
 
 
 
+	 
 
-<li class="level-2-item">
-<a class="level-2-link" href="http://seasonal.po.sh" target="_blank">
-Seasonal Catalog
-</a>
-
-</li>
-
-
+	
 
 	 
 
@@ -1809,6 +1593,55 @@ Seasonal Catalog
 
 
 
+
+<div class="js-accordion_wrapper menu-accordion-item">
+<h2 class="js-accordion_title menu-accordion-title">
+<span class="menu-accordion-title-span">
+<a class=" level-1-link" href="https://www.perfectlyposh.com/posh-cares">
+Posh Cares
+</a>
+</span>
+
+</h2>
+<ul class="js-accordion_container menu-accordion-list" style="display: none;">
+
+
+	 
+
+	
+
+	 
+
+	
+</ul>
+</div>
+
+
+
+<div class="mobile-menu-static-links first">
+
+
+	 
+
+
+	
+
+
+
+
+
+
+
+
+<a href="https://www.perfectlyposh.com/consultant-join/">Join</a>
+<a href="https://www.perfectlyposh.com/perks-page.html">Perks</a>
+<a href="https://www.perfectlyposh.com/host.html">Host</a>
+
+
+
+ 
+	
+</div>
 </div>
 <div class="header-mobile-user-info non-consultant is-authenticated">
 
@@ -1851,6 +1684,165 @@ Seasonal Catalog
 </div>
 </div>
 </div>
+</div>
+<div class="header-ad-slot">
+
+	 
+
+
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="homepage-slider hero-wrap">
+<div class="homepage-slides">
+
+<div class="js-carousel" data-slick="null">
+
+
+
+
+<div class="slide">Get 7 Pampering Products and Save!  <a href="/shop/category/7-for-70.00">Shop Now</a></div>
+
+
+
+
+
+
+<div class="slide">Click here to add the B5G1 discount to your cart! <a href="#redeemurl=true&amp;couponcode=b5g1&amp;message=Coupon added to cart, buy 5 qualifying items, get 1 free!">Add Coupon</a></div>
+
+
+
+
+
+
+<div class="slide">Free Shipping on Starter Kits for the Rest of March!</div>
+
+
+
+</div>
+</div>
+</div>
+
+ 
+	
 </div>
 </div>
 
@@ -2219,46 +2211,35 @@ United States<br>
 
 
 
+<div class="footer-email">
+<div class="footer-container content-width">
+<div class="form-container ctct-embed-signup" data-cmp="signupWrapper">
+    <div class="visually-hidden" data-cmp="block" data-id="signupConfirmation">
+        <div class="footer-subscribed-success">
+            <span class="success-alert success-alert-small">Congratulations! You are currently subscribed for exclusive offers.</span>
+        </div>
+    </div>
+    <form data-cmp="signupForm" data-id="signupForm">
+        <h3 class="footer-menu-title">Get special offers</h3>
+        <div class="footer-subscribe-holder">
+            <div class="field-wrapper">
+                <div class="form-row">
+                    <div class="field-container">
+                        <input class="input-text email required js-signup-email" type="text" name="email" maxlength="50" value="" placeholder="Enter your email address">
+                    </div>
+                </div>
+            </div>
+            <input class="btn-secondary-slim-2 btn-footer-subscribe js-submit-signup" type="submit" value="Subscribe" name="dwfrm_emailsubscription_subscribe">
+        </div>
+        <!--<div class="footer-contact-us">Contact us 1-801-441-1744</div>-->
+    </form>
+</div>
 
-
+</div>
+</div>
 <footer class="footer-main">
 <div class="footer-container content-width">
-<div class="footer-item footer-ad-slot">
-
-	 
-
-	
-</div>
-<div class="footer-item social-footer">
-
-	 
-
-
-	
-
-
-
-
-
-
-
-
-<ul class="social-footer-list">
-    <li class="social-footer-list-item"><a class="i-facebook i-font" title="Go to Facebook" href="https://www.facebook.com/ohmyposh" target="_blank"></a></li>
-    <li class="social-footer-list-item"><a class="i-twitter i-font" title="Go to Twitter" href="https://twitter.com/poshusa" target="_blank"></a></li>
-    <li class="social-footer-list-item"><a class="i-instagram i-font" title="Go to Instagram" href="https://www.instagram.com/perfectly_posh/" target="_blank"></a></li>
-    <li class="social-footer-list-item"><a class="i-pinterest2 i-font" title="Go to Pinterest" href="https://www.pinterest.com/perfectlyposh/" target="_blank"></a></li>
-    <li class="social-footer-list-item"><a class="i-youtube i-font" title="Go to YouTube" href="https://www.youtube.com/user/OfficiallyPosh" target="_blank"></a></li>
-</ul>
-
-
-
- 
-	
-</div>
 <div class="footer-item footer-menu-row">
-
-
 
 
 
@@ -2394,16 +2375,17 @@ United States<br>
 
 
 <div class="footer-menu-items footer-block-first">
-    <h3 class="footer-menu-title">Shop</h3>
+    <h3 class="footer-menu-title"><a href="https://www.perfectlyposh.com/search/?cgid=shop%27" title="Shop Now">Shop Now</a></h3>
            <ul class="footer-menu-list">
                 <li class="footer-menu-item"><a href="https://www.perfectlyposh.com/consultant-find/" title="Find a Consultant">Find a Consultant</a></li>
-                <li class="footer-menu-item"><a href="https://www.perfectlyposh.com/products" title="Products">Products</a></li>
-                <li class="footer-menu-item"><a href="https://www.perfectlyposh.com/products/body" title="Featured">Featured</a></li>
+                <li class="footer-menu-item"><a href="https://www.perfectlyposh.com/shop" title="Products">Products</a></li>
+                <li class="footer-menu-item"><a href="https://www.perfectlyposh.com/shop/category/new-arrivals" title="Featured">Featured</a></li>
+                <li class="footer-menu-item"><a href="http://catalog.po.sh" target="_blank" title="Catalog">Catalog</a></li>
        </ul>
 </div>
 
 <div class="footer-menu-items footer-block-second">
-    <h3 class="footer-menu-title">Join</h3>
+    <h3 class="footer-menu-title"><a href="https://www.perfectlyposh.com/consultant-join/" title="Join Posh Now">Join Posh Now</a></h3>
            <ul class="footer-menu-list">
                <li class="footer-menu-item"><a href="https://www.perfectlyposh.com/consultant-join/" title="Become a Consultant">Become a Consultant</a></li>
                <li class="footer-menu-item"><a href="https://www.perfectlyposh.com/account/" title="Sign up for Perks">Sign up for Perks</a></li>
@@ -2412,12 +2394,21 @@ United States<br>
 </div>
 
 <div class="footer-menu-items footer-block-third">
-    <h3 class="footer-menu-title">About</h3>
+    <h3 class="footer-menu-title"><a href="https://www.perfectlyposh.com/company-about.html" title="About Posh">About Posh</a></h3>
         <ul class="footer-menu-list">
-        <li class="footer-menu-item"><a href="http://catalog.po.sh" target="_blank" title="Catalog">Catalog</a></li>
-                <li class="footer-menu-item"><a href="http://www.perfectlyposh.com/company-about.html" title="Company">Company</a></li>
-                <!--<li class="footer-menu-item"><a href="http://www.perfectlyposh.com/ingredients.html" title="Ingredients">Ingredients</a></li>-->
-                <li class="footer-menu-item"><a href="http://www.perfectlyposh.com/meettheteam.html" title="Posh Team">Posh Team</a></li>
+                <li class="footer-menu-item"><a href="https://www.perfectlyposh.com/company-about.html" title="Company">Company</a></li>
+                <li class="footer-menu-item"><a href="http://blog.perfectlyposh.com" target="_blank" title="Blog">Blog</a></li>
+                <li class="footer-menu-item"><a href="https://www.perfectlyposh.com/meettheteam.html" title="Posh Team">Posh Team</a></li>
+       </ul>
+</div>
+
+<div class="footer-menu-items footer-block-fourth">
+    <h3 class="footer-menu-title"><a href="/" title="Perfectly Posh">Perfectly Posh</a></h3>
+        <ul class="footer-menu-list">
+                <li class="footer-menu-item"><a href="https://www.perfectlyposh.com/terms-conditions.html" title="Terms and Conditions">Terms &amp; Conditions</a></li>
+                <li class="footer-menu-item"><a href="https://www.perfectlyposh.com/return-policy.html" title="Privacy Policy">Return &amp; Replacement Policy</a></li>
+                <li class="footer-menu-item"><a href="https://www.perfectlyposh.com/privacy-policy.html" title="Privacy Policy">Privacy Policy</a></li>
+                <li class="footer-menu-item"><a href="tel:18014411744">Customer Support</a></li>
        </ul>
 </div>
 
@@ -2426,28 +2417,6 @@ United States<br>
  
 	
 
-
-<div class="form-container footer-menu-items footer-block-fourth ctct-embed-signup" data-cmp="signupWrapper">
-    <div class="visually-hidden" data-cmp="block" data-id="signupConfirmation">
-        <div class="footer-subscribed-success">
-            <span class="success-alert success-alert-small">Congratulations! You are currently subscribed for exclusive offers.</span>
-        </div>
-    </div>
-    <form data-cmp="signupForm" data-id="signupForm">
-        <h3 class="footer-menu-title">Get special offers</h3>
-        <div class="footer-subscribe-holder">
-            <div class="field-wrapper">
-                <div class="form-row">
-                    <div class="field-container">
-                        <input class="input-text email required js-signup-email" type="text" name="email" maxlength="50" value="" placeholder="Enter your email address">
-                    </div>
-                </div>
-            </div>
-            <input class="btn-secondary-slim-2 btn-footer-subscribe js-submit-signup" type="submit" value="Subscribe" name="dwfrm_emailsubscription_subscribe">
-        </div>
-        <div class="footer-contact-us">Contact us 1-801-441-1744</div>
-    </form>
-</div>
 
 </div>
 <div class="footer-item footer-copy-row">
@@ -2464,31 +2433,21 @@ United States<br>
 
 
 
-<div class="copyright-links">
+<div class="copyright-links posh-mobile-only" style="margin-bottom: 1rem;">
     <ul class="footer-sub-menu">
-           <li class="footer-sub-item"><a class="footer-item-link" href="http://www.perfectlyposh.com/terms-conditions.html" title="Go to Terms &amp; Conditions">Terms &amp; Conditions</a></li>
-           <li class="footer-sub-item"><a class="footer-item-link" href="http://www.perfectlyposh.com/privacy-policy.html" title="Go to Privacy Policy">Privacy Policy</a></li>
-           <li class="footer-sub-item"><a class="footer-item-link is-mobile" href="http://www.perfectlyposh.com/account/" title="Go to My Account">My Account</a> <a class="is-desktop is-tablet footer-item-link" href="http://www.perfectlyposh.com/account/" title="Careers">Careers</a></li>
-           <li class="footer-sub-item"><a class="footer-item-link" href="http://www.perfectlyposh.com/refund-policy.html" title="Go to Customer Support">Customer Support</a></li>
+           <li class="footer-sub-item"><a class="footer-item-link" href="https://www.perfectlyposh.com/terms-conditions.html" title="Go to Terms &amp; Conditions" style="color: #000;">Terms &amp; Conditions</a></li>
+           <li class="footer-sub-item"><a class="footer-item-link" href="https://www.perfectlyposh.com/privacy-policy.html" title="Go to Privacy Policy" style="color: #000;">Privacy Policy</a></li>
+           <li class="footer-sub-item"><a class="footer-item-link" href="tel:18014411744" "="" title="Customer Support" style="color: #000;">Customer Support</a></li>
+           <li class="footer-sub-item"><a class="footer-item-link" href="https://www.perfectlyposh.com/return-policy.html" title="Go to Return Policy" style="color: #000;">Return Policy</a></li>
+           <li class="footer-sub-item"><a class="footer-item-link is-mobile" href="https://www.perfectlyposh.com/account/" title="Go to My Account" style="color: #000;">My Account</a></li>
     </ul>
  </div>
-<div class="footer-copyright">Copyright © 2017 Perfectly Posh, LLC</div>
+<div class="footer-copyright">©  Copyright 2019 • Perfectly Posh, LLC</div>
 
 <style type="text/css">
 .bundle-wrapper .bundle-count {
   display: none;
   color:#fff;
-}
-.home-bottom-slots .homepage-slides .slick-slide img {
-  margin: 0 auto;
-  position: relative;
-  top: 50%;
-  transform: perspective(1px) translateY(-50%);
-}
-.home-bottom-slots .homepage-slides .posh-desktop-only,
-.home-bottom-slots .homepage-slides .posh-mobile-only {
-    height: 100%;
-    position: relative;
 }
 </style>
 
@@ -2509,10 +2468,10 @@ United States<br>
 
 
 <!--[if gte IE 9 | !IE]><!-->
-<script src="/on/demandware.static/Sites-perfectlyPosh-Site/-/en_US/v1535434299831/lib/jquery/jquery-2.1.1.min.js" type="text/javascript"></script>
+<script src="/on/demandware.static/Sites-perfectlyPosh-Site/-/en_US/v1553923881493/lib/jquery/jquery-2.1.1.min.js" type="text/javascript"></script>
 <!--<![endif]-->
 <!--[if lte IE 8]>
-<script src="/on/demandware.static/Sites-perfectlyPosh-Site/-/en_US/v1535434299831/lib/jquery/jquery-1.11.1.min.js" type="text/javascript"></script>
+<script src="/on/demandware.static/Sites-perfectlyPosh-Site/-/en_US/v1553923881493/lib/jquery/jquery-1.11.1.min.js" type="text/javascript"></script>
 <script src="//cdn.rawgit.com/weblinc/media-match/master/media.match.min.js" type="text/javascript"></script>
 <script src="//cdnjs.cloudflare.com/ajax/libs/es5-shim/3.4.0/es5-shim.min.js"></script>
 <![endif]-->
@@ -2520,29 +2479,29 @@ United States<br>
 <script src="//cdn.rawgit.com/paulirish/matchMedia.js/master/matchMedia.js" type="text/javascript"></script>
 <script src="//cdn.rawgit.com/paulirish/matchMedia.js/master/matchMedia.addListener.js" type="text/javascript"></script>
 <![endif]-->
-<script src="/on/demandware.static/Sites-perfectlyPosh-Site/-/en_US/v1535434299831/lib/jquery/ui/jquery-ui.min.js" type="text/javascript"></script>
+<script src="/on/demandware.static/Sites-perfectlyPosh-Site/-/en_US/v1553923881493/lib/jquery/ui/jquery-ui.min.js" type="text/javascript"></script>
 
-<script src="/on/demandware.static/Sites-perfectlyPosh-Site/-/en_US/v1535434299831/lib/jquery/jquery.jcarousel.min.js" type="text/javascript"></script>
-<script src="/on/demandware.static/Sites-perfectlyPosh-Site/-/en_US/v1535434299831/lib/jquery/jquery.validate.min.js" type="text/javascript"></script>
-<script src="/on/demandware.static/Sites-perfectlyPosh-Site/-/en_US/v1535434299831/lib/jquery/jquery.zoom.min.js"></script>
-<script src="/on/demandware.static/Sites-perfectlyPosh-Site/-/en_US/v1535434299831/lib/jquery/jquery.sticky-kit.min.js" type="text/javascript"></script>
-<script src="/on/demandware.static/Sites-perfectlyPosh-Site/-/en_US/v1535434299831/lib/jquery/jquery.ellipsis.min.js" type="text/javascript"></script>
-<script src="/on/demandware.static/Sites-perfectlyPosh-Site/-/en_US/v1535434299831/lib/jquery/jquery.responsiveTabs.min.js" type="text/javascript"></script>
-<script src="/on/demandware.static/Sites-perfectlyPosh-Site/-/en_US/v1535434299831/lib/jquery/jquery.cookie.min.js" type="text/javascript"></script>
-<script src="/on/demandware.static/Sites-perfectlyPosh-Site/-/en_US/v1535434299831/lib/mustache/mustache.min.js" type="text/javascript"></script>
-<script src="/on/demandware.static/Sites-perfectlyPosh-Site/-/en_US/v1535434299831/lib/client/client.min.js" type="text/javascript"></script>
+<script src="/on/demandware.static/Sites-perfectlyPosh-Site/-/en_US/v1553923881493/lib/jquery/jquery.jcarousel.min.js" type="text/javascript"></script>
+<script src="/on/demandware.static/Sites-perfectlyPosh-Site/-/en_US/v1553923881493/lib/jquery/jquery.validate.min.js" type="text/javascript"></script>
+<script src="/on/demandware.static/Sites-perfectlyPosh-Site/-/en_US/v1553923881493/lib/jquery/jquery.zoom.min.js"></script>
+<script src="/on/demandware.static/Sites-perfectlyPosh-Site/-/en_US/v1553923881493/lib/jquery/jquery.sticky-kit.min.js" type="text/javascript"></script>
+<script src="/on/demandware.static/Sites-perfectlyPosh-Site/-/en_US/v1553923881493/lib/jquery/jquery.ellipsis.min.js" type="text/javascript"></script>
+<script src="/on/demandware.static/Sites-perfectlyPosh-Site/-/en_US/v1553923881493/lib/jquery/jquery.responsiveTabs.min.js" type="text/javascript"></script>
+<script src="/on/demandware.static/Sites-perfectlyPosh-Site/-/en_US/v1553923881493/lib/jquery/jquery.cookie.min.js" type="text/javascript"></script>
+<script src="/on/demandware.static/Sites-perfectlyPosh-Site/-/en_US/v1553923881493/lib/mustache/mustache.min.js" type="text/javascript"></script>
+<script src="/on/demandware.static/Sites-perfectlyPosh-Site/-/en_US/v1553923881493/lib/client/client.min.js" type="text/javascript"></script>
 <script type="text/javascript">
 
 (function(){
 window.Constants = {"AVAIL_STATUS_IN_STOCK":"IN_STOCK","AVAIL_STATUS_PREORDER":"PREORDER","AVAIL_STATUS_BACKORDER":"BACKORDER","AVAIL_STATUS_NOT_AVAILABLE":"NOT_AVAILABLE"};
 window.Resources = {"I_AGREE":"I Agree","CLOSE":"close","NO_THANKS":"No, thanks","OK":"OK","ARE_YOU_HUMAN":"Are you a Human Being?","SHIP_QualifiesFor":"This shipment qualifies for","CC_LOAD_ERROR":"Couldn't load credit card!","COULD_NOT_SAVE_ADDRESS":"Could not save address. Please check your entries and try again.","REG_ADDR_ERROR":"Could Not Load Address","BONUS_PRODUCT":"Bonus Product","BONUS_PRODUCTS":"Bonus Products","SELECT_BONUS_PRODUCTS":"Select Bonus Products","SELECT_BONUS_PRODUCT":"product.selectbonusproduct","BONUS_PRODUCT_MAX":"The maximum number of bonus products has been selected. Please remove one in order to add additional bonus products.","BONUS_PRODUCT_TOOMANY":"You have selected too many bonus products. Please change the quantity.","SIMPLE_SEARCH":"Search the site","SUBSCRIBE_EMAIL_DEFAULT":"Email Address","CURRENCY_SYMBOL":"$","MISSINGVAL":"Please enter {0}","SERVER_ERROR":"Server connection failed!","MISSING_LIB":"jQuery is undefined.","BAD_RESPONSE":"Bad response - parser error!","INVALID_PHONE":"Please specify a valid phone number.","REMOVE":"Remove","QTY":"Qty","EMPTY_IMG_ALT":"Remove","COMPARE_BUTTON_LABEL":"Compare Items","COMPARE_CONFIRMATION":"This will remove the first product added for comparison. Is that OK?","COMPARE_REMOVE_FAIL":"Unable to remove item from list","COMPARE_ADD_FAIL":"Unable to add item to list","ADD_TO_CART_FAIL":"Unable to add item '{0}' to cart","REGISTRY_SEARCH_ADVANCED_CLOSE":"Close Advanced Search","GIFT_CERT_INVALID":"Invalid gift certificate code.","GIFT_CERT_BALANCE":"Your current gift certificate balance is","GIFT_CERT_AMOUNT_INVALID":"Gift Certificate can only be purchased with a minimum of 5 and maximum of 5000","GIFT_CERT_MISSING":"Please enter a gift certificate code.","INVALID_OWNER":"This appears to be a credit card number. Please enter the name of the card holder.","COUPON_CODE_MISSING":"Please enter a promo code","COOKIES_DISABLED":"Your browser is currently not set to accept cookies. Please turn this functionality on or check if you have another program set to block cookies.","BML_AGREE_TO_TERMS":"You must agree to the terms and conditions","CHAR_LIMIT_MSG":"You have {0} characters left out of {1}","CONFIRM_DELETE":"Are you sure you want to delete this {0}?","TITLE_GIFTREGISTRY":"gift registry","TITLE_ADDRESS":"address","TITLE_CREDITCARD":"credit card","SERVER_CONNECTION_ERROR":"Server connection failed!","IN_STOCK_DATE":"The expected in-stock date is {0}.","ITEM_STATUS_NOTAVAILABLE":"This item is currently not available.","INIFINITESCROLL":"Show All","STORE_NEAR_YOU":"What's available at a store near you","SELECT_STORE":"Select Store","SELECTED_STORE":"Selected Store","PREFERRED_STORE":"Preferred Store","SET_PREFERRED_STORE":"Set Preferred Store","ENTER_ZIP":"Enter ZIP Code","INVALID_ZIP":"Please enter a valid ZIP Code","SEARCH":"Search","CHANGE_LOCATION":"Change Location","CONTINUE_WITH_STORE":"Continue with preferred store","CONTINUE":"Continue","SEE_MORE":"See More Stores","SEE_LESS":"See Fewer Stores","QUICK_VIEW":"Quick View","QUICK_VIEW_POPUP":"Product Quick View","TLS_WARNING":"We value your security!<br/>We detected that you are using an outdated browser.<br/>Update you browser to continue a secure shopping experience.","VALIDATE_REQUIRED":"This field is required.","VALIDATE_REMOTE":"Please fix this field.","VALIDATE_EMAIL":"Please enter a valid email address.","VALIDATE_URL":"Please enter a valid URL.","VALIDATE_DATE":"Please enter a valid date.","VALIDATE_DATEISO":"Please enter a valid date ( ISO ).","VALIDATE_NUMBER":"Please enter a valid number.","VALIDATE_DIGITS":"Please enter only digits.","VALIDATE_CREDITCARD":"Please enter a valid credit card number.","VALIDATE_EQUALTO":"Please enter the same value again.","VALIDATE_MAXLENGTH":"Please enter no more than {0} characters.","VALIDATE_MINLENGTH":"Please enter at least {0} characters.","VALIDATE_RANGELENGTH":"Please enter a value between {0} and {1} characters long.","VALIDATE_RANGE":"Please enter a value between {0} and {1}.","VALIDATE_MAX":"Please enter a value less than or equal to {0}.","VALIDATE_MIN":"Please enter a value greater than or equal to {0}.","IN_STOCK":"In Stock","QTY_IN_STOCK":"{0} Item(s) in Stock","PREORDER":"Pre-Order","QTY_PREORDER":"{0} item(s) are available for pre-order.","REMAIN_PREORDER":"The remaining items are available for pre-order.","BACKORDER":"Back Order","QTY_BACKORDER":"Back order {0} item(s)","REMAIN_BACKORDER":"The remaining items are available on back order.","NOT_AVAILABLE":"This item is currently not available.","REMAIN_NOT_AVAILABLE":"The remaining items are currently not available. Please adjust the quantity.","REGEXP_EMAIL":"^[\\w.%+-]+@[\\w.-]+\\.[\\w]{2,6}$","REGEXP_PHONE":"^[+][1][(][0-9]{1,3}[)]([0-9]{3}[-][0-9]{4})$","REGEXP_CUSTOM_PHONE":"^[0-9+()-\\s\\+]+$","REGEXP_WEBSITE":"^[a-z0-9]*$","MINICART_SLIDE_DELAY":"300","MINICART_SHOWING_DELAY":"6000","SESSION_PING":"1500000","VALIDATE_PHONE":"Please specify a valid phone number.","SUCCESS":"Success!","CONTACT_SEARCH_ERROR":"Nothing to found. Please, enter a valid data and try again","MAX_AVAILABLE_QUANTITY_COUNT":"999","MIN_AVAILABLE_QUANTITY_COUNT":"1","CONTACT_FILE_NAME":"contacts","EMPTY_ERROR":"Can't be empty","MUST_BE_INTEGER":"Must be integer","MUST_BE_POSITIVE":"Must be positive","ADDRESS_EXIST":"This address is already exist in your address book.","CONSULTANT_COOKIE_EXPIRES_TIME":"60","US_POSTAL_CODE_REG_EXP":"^d{5}([-]?d{4})?$","VALIDATE_POSTALCODE":"Please enter valid postcode","SECURITY_NUMBER_REG_EXP":"^d{9}$","VALIDATE_SECURITY_NUMBER":"Security number is invalid! Please, fill the correct value","TERMS_AND_CONDITIONS_CID":"consultant-registration-terms-and-conditions","UPDATE_CONSULTANT_LABEL":"Update consultant","PLACE_STARTER_KIT":"Starter Kit Products must be purchased alone. Removing the Starter Kit from Shopping Cart will cancel the Consultant sign up process.","VALIDATE_CONSULTANT_LASTNAME":"Please enter valid lastname. Should be letter symbol only","VALIDATE_XSS":"Please enter valid value","REGEXP_CONSULTANT_LASTNAME":"^[A-Za-z][A-Za-z0-9 \\-'`]*$","REGEXP_XSS":"^(?:(?!(.*[<>].*)|((<|/)script(>)))).*$","VALIDATE_REQUIRED_OPTION":"This option is required.","VALIDATE_WEBSITE":"Special characters and capital letters are not allowed","VALIDATE_AGREED_CONSULTANT":"This field is required","ADD_SINGLE_CONTACT":"Add single","REWARD_ALREADY_USED":"This reward was already used.","REWARD_ALREADY_EXPIRED":"Current reward is already expired.","REWARD_SENTTO_LABEL":"Sent to","CREDITCARD_EXPIRED_MSG":"This Credit Card is expired","PARTY_BANNER_PARTY_NAME_LIMIT":"15","PARTY_BANNER_CONS_NAME_LIMIT":"10","NOT_ABLE_TO_ADD_TRANSITION_KIT":"product.transitionkit.notabletoaddtransitionkit","NOT_ABLE_TO_ADD_NON_TRANSITION_KIT":"product.transitionkit.notabletoaddnontransitionkit"};
-window.Urls = {"appResources":"/on/demandware.store/Sites-perfectlyPosh-Site/en_US/Resources-LoadTransient","pageInclude":"/on/demandware.store/Sites-perfectlyPosh-Site/en_US/Page-Include","continueUrl":"http://www.perfectlyposh.com/on/demandware.store/Sites-perfectlyPosh-Site/en_US/Page-Show","staticPath":"/on/demandware.static/Sites-perfectlyPosh-Site/-/en_US/v1535434299831/","addGiftCert":"/on/demandware.store/Sites-perfectlyPosh-Site/en_US/GiftCert-Purchase","minicartGC":"/on/demandware.store/Sites-perfectlyPosh-Site/en_US/GiftCert-ShowMiniCart","addProduct":"/on/demandware.store/Sites-perfectlyPosh-Site/en_US/Cart-AddProduct","minicart":"/on/demandware.store/Sites-perfectlyPosh-Site/en_US/Cart-MiniCart","cartShow":"/shopping-cart/","giftRegAdd":"https://www.perfectlyposh.com/on/demandware.store/Sites-perfectlyPosh-Site/en_US/Address-GetAddressDetails?addressID=","paymentsList":"https://www.perfectlyposh.com/account/payment-list/","addressesList":"https://www.perfectlyposh.com/account/address-list/","wishlistAddress":"https://www.perfectlyposh.com/on/demandware.store/Sites-perfectlyPosh-Site/en_US/Wishlist-SetShippingAddress","deleteAddress":"/on/demandware.store/Sites-perfectlyPosh-Site/en_US/Address-Delete","getProductUrl":"/on/demandware.store/Sites-perfectlyPosh-Site/en_US/Product-Show","getBonusProducts":"/on/demandware.store/Sites-perfectlyPosh-Site/en_US/Product-GetBonusProducts","addBonusProduct":"/on/demandware.store/Sites-perfectlyPosh-Site/en_US/Cart-AddBonusProduct","getSetItem":"/on/demandware.store/Sites-perfectlyPosh-Site/en_US/Product-GetSetItem","productDetail":"/on/demandware.store/Sites-perfectlyPosh-Site/en_US/Product-Detail","getAvailability":"/on/demandware.store/Sites-perfectlyPosh-Site/en_US/Product-GetAvailability","removeImg":"/on/demandware.static/Sites-perfectlyPosh-Site/-/default/dwc8e53f09/images/icon_remove.gif","searchsuggest":"/on/demandware.store/Sites-perfectlyPosh-Site/en_US/Search-GetSuggestions","productNav":"/on/demandware.store/Sites-perfectlyPosh-Site/en_US/Product-Productnav","summaryRefreshURL":"/on/demandware.store/Sites-perfectlyPosh-Site/en_US/COBilling-UpdateSummary","billingSelectCC":"https://www.perfectlyposh.com/on/demandware.store/Sites-perfectlyPosh-Site/en_US/COBilling-SelectCreditCard","updateAddressDetails":"https://www.perfectlyposh.com/on/demandware.store/Sites-perfectlyPosh-Site/en_US/COShipping-UpdateAddressDetails","updateAddressDetailsBilling":"https://www.perfectlyposh.com/on/demandware.store/Sites-perfectlyPosh-Site/en_US/COBilling-UpdateAddressDetails","shippingMethodsJSON":"https://www.perfectlyposh.com/on/demandware.store/Sites-perfectlyPosh-Site/en_US/COShipping-GetApplicableShippingMethodsJSON","shippingMethodsList":"https://www.perfectlyposh.com/on/demandware.store/Sites-perfectlyPosh-Site/en_US/COShipping-UpdateShippingMethodList","selectShippingMethodsList":"https://www.perfectlyposh.com/on/demandware.store/Sites-perfectlyPosh-Site/en_US/COShipping-SelectShippingMethod","resetPaymentForms":"/on/demandware.store/Sites-perfectlyPosh-Site/en_US/COBilling-ResetPaymentForms","compareShow":"/on/demandware.store/Sites-perfectlyPosh-Site/en_US/Compare-Show","compareAdd":"/on/demandware.store/Sites-perfectlyPosh-Site/en_US/Compare-AddProduct","compareRemove":"/on/demandware.store/Sites-perfectlyPosh-Site/en_US/Compare-RemoveProduct","compareEmptyImage":"/on/demandware.static/Sites-perfectlyPosh-Site/-/default/dw4f8f8347/images/comparewidgetempty.png","giftCardCheckBalance":"https://www.perfectlyposh.com/on/demandware.store/Sites-perfectlyPosh-Site/en_US/COBilling-GetGiftCertificateBalance","redeemGiftCert":"https://www.perfectlyposh.com/on/demandware.store/Sites-perfectlyPosh-Site/en_US/COBilling-RedeemGiftCertificateJson","addCoupon":"https://www.perfectlyposh.com/on/demandware.store/Sites-perfectlyPosh-Site/en_US/Cart-AddCouponJson","storesInventory":"/on/demandware.store/Sites-perfectlyPosh-Site/en_US/StoreInventory-Inventory","setPreferredStore":"/on/demandware.store/Sites-perfectlyPosh-Site/en_US/StoreInventory-SetPreferredStore","getPreferredStore":"/on/demandware.store/Sites-perfectlyPosh-Site/en_US/StoreInventory-GetPreferredStore","setStorePickup":"/on/demandware.store/Sites-perfectlyPosh-Site/en_US/StoreInventory-SetStore","setZipCode":"/on/demandware.store/Sites-perfectlyPosh-Site/en_US/StoreInventory-SetZipCode","getZipCode":"/on/demandware.store/Sites-perfectlyPosh-Site/en_US/StoreInventory-GetZipCode","billing":"/checkout/billing/","setSessionCurrency":"/on/demandware.store/Sites-perfectlyPosh-Site/en_US/Currency-SetSessionCurrency","addEditAddress":"/on/demandware.store/Sites-perfectlyPosh-Site/en_US/COShippingMultiple-AddEditAddressJSON","rateLimiterReset":"/on/demandware.store/Sites-perfectlyPosh-Site/en_US/RateLimiter-HideCaptcha","csrffailed":"/on/demandware.store/Sites-perfectlyPosh-Site/en_US/CSRF-Failed","staticBasePathToJWplayerLib":"/on/demandware.static/Sites-perfectlyPosh-Site/-/en_US/v1535434299831/lib/jwplayer/jwplayer.js","staticBasePathToEllipsisLib":"/on/demandware.static/Sites-perfectlyPosh-Site/-/en_US/v1535434299831/lib/jquery/jquery.ellipsis.min.js","staticBasePathToResponsiveTabsLib":"/on/demandware.static/Sites-perfectlyPosh-Site/-/en_US/v1535434299831/lib/jquery/jquery.responsiveTabs.min.js","staticBasePathToClientLib":"/on/demandware.static/Sites-perfectlyPosh-Site/-/en_US/v1535434299831/lib/client/client.min.js","editMiniCart":"/on/demandware.store/Sites-perfectlyPosh-Site/en_US/Cart-EditMiniCart","toggleB5G1Promo":"/on/demandware.store/Sites-perfectlyPosh-Site/en_US/Cart-ToggleB5G1Promo","staticBasePath":"/on/demandware.static/Sites-perfectlyPosh-Site/-/en_US/v1535434299831","contactRemoveConfirmation":"/on/demandware.store/Sites-perfectlyPosh-Site/en_US/Consultant-ContactDeleteConfirmation","contactCreateForm":"/on/demandware.store/Sites-perfectlyPosh-Site/en_US/Consultant-ContactAdd","contactMoreInfo":"/on/demandware.store/Sites-perfectlyPosh-Site/en_US/Consultant-GetMoreInfoBlock","searchConsultantContact":"/on/demandware.store/Sites-perfectlyPosh-Site/en_US/Consultant-ContactSearch","singleShipping":"/on/demandware.store/Sites-perfectlyPosh-Site/en_US/COShipping-SingleShipping","validateShippingAddress":"/on/demandware.store/Sites-perfectlyPosh-Site/en_US/COShipping-ValidateShippingAddress","updateShippingAddress":"/on/demandware.store/Sites-perfectlyPosh-Site/en_US/COShipping-UpdateShippingAddress","uploadContactsBlock":"/on/demandware.store/Sites-perfectlyPosh-Site/en_US/Consultant-GetImportContactsBlock","importContacts":"/on/demandware.store/Sites-perfectlyPosh-Site/en_US/Consultant-ContactImport","contactList":"/account/contact-list/","setInformation":"/on/demandware.store/Sites-perfectlyPosh-Site/en_US/Consultant-SetInformation","consultantInclude":"/on/demandware.store/Sites-perfectlyPosh-Site/en_US/Consultant-ConsultantItem","consultantRegistration":"/consultant-registration/","getHostessOptions":"/on/demandware.store/Sites-perfectlyPosh-Site/en_US/Party-GetHostessOptions","setPartyType":"/on/demandware.store/Sites-perfectlyPosh-Site/en_US/Party-SetPartyType","loggoutErrorPage":"/on/demandware.store/Sites-perfectlyPosh-Site/en_US/Error-LoggoutErrorPage","cartSubmitForm":"/on/demandware.store/Sites-perfectlyPosh-Site/en_US/Cart-SubmitForm","removeCoupon":"https://www.perfectlyposh.com/on/demandware.store/Sites-perfectlyPosh-Site/en_US/Cart-RemoveCouponJson","homeShow":"/","logIn":"https://www.perfectlyposh.com/account/login/","logOut":"https://www.perfectlyposh.com/logout/","gigyaLogIn":"https://www.perfectlyposh.com/on/demandware.store/Sites-perfectlyPosh-Site/en_US/Gigya-Login","gigyaUpdateProfile":"https://www.perfectlyposh.com/on/demandware.store/Sites-perfectlyPosh-Site/en_US/Gigya-UpdateProfile","createPoshpayPayment":"/on/demandware.store/Sites-perfectlyPosh-Site/en_US/COBilling-PoshpayPayment","updateSummary":"/on/demandware.store/Sites-perfectlyPosh-Site/en_US/COBilling-UpdateSummary","getEditCreditCardForm":"/on/demandware.store/Sites-perfectlyPosh-Site/en_US/PaymentInstruments-Edit","getAddCreditCardForm":"/on/demandware.store/Sites-perfectlyPosh-Site/en_US/PaymentInstruments-Add","paymentInstrumentList":"/account/payment-list/","creditCardHandlerForm":"/on/demandware.store/Sites-perfectlyPosh-Site/en_US/PaymentInstruments-HandlePaymentForm","getMailForm":"/on/demandware.store/Sites-perfectlyPosh-Site/en_US/Consultant-ContactMail","getConsultantMailForm":"/on/demandware.store/Sites-perfectlyPosh-Site/en_US/Consultant-ConsultantMail","sendMail":"/on/demandware.store/Sites-perfectlyPosh-Site/en_US/Consultant-MailForm","deleteContact":"/on/demandware.store/Sites-perfectlyPosh-Site/en_US/Consultant-ContactRemove","findConsultant":"/on/demandware.store/Sites-perfectlyPosh-Site/en_US/Consultant-FindConsultants","selectedParty":"/on/demandware.store/Sites-perfectlyPosh-Site/en_US/Party-GetSelectedParty","submitStore":"/on/demandware.store/Sites-perfectlyPosh-Site/en_US/Consultant-SubmitStore","findConsultantForm":"/on/demandware.store/Sites-perfectlyPosh-Site/en_US/Consultant-GetConsultantFindForm","submitPoshPay":"/on/demandware.store/Sites-perfectlyPosh-Site/en_US/Consultant-SubmitPoshPay","selectedConsultant":"/on/demandware.store/Sites-perfectlyPosh-Site/en_US/Consultant-UpdateBanner","enableOrderForGuest":"/on/demandware.store/Sites-perfectlyPosh-Site/en_US/COShipping-EnableOrderForGuest","getConsultantContact":"/on/demandware.store/Sites-perfectlyPosh-Site/en_US/COShipping-GetConsultantContactAddress","pageShow":"/on/demandware.store/Sites-perfectlyPosh-Site/en_US/Page-Show","assignParty":"/on/demandware.store/Sites-perfectlyPosh-Site/en_US/Party-AssignParty","homeLeftMenu":"/on/demandware.store/Sites-perfectlyPosh-Site/en_US/Home-IncludeHeaderMenuLeft","notValidConsultantLogin":"/on/demandware.store/Sites-perfectlyPosh-Site/en_US/Consultant-NotValidLoginNotification","dialogConfirm":"/on/demandware.store/Sites-perfectlyPosh-Site/en_US/Dialog-Confirmation","dialogAlert":"/on/demandware.store/Sites-perfectlyPosh-Site/en_US/Dialog-Alert","dialogTemplate":"/on/demandware.store/Sites-perfectlyPosh-Site/en_US/Dialog-Template","sessionStatus":"/on/demandware.store/Sites-perfectlyPosh-Site/en_US/Session-Status","addRedeem":"/on/demandware.store/Sites-perfectlyPosh-Site/en_US/Redeem-Add","addContact":"/on/demandware.store/Sites-perfectlyPosh-Site/en_US/Consultant-AddContactJSON","showBenefits":"/on/demandware.store/Sites-perfectlyPosh-Site/en_US/Party-ShowBenefits","updateProduct":"/on/demandware.store/Sites-perfectlyPosh-Site/en_US/Cart-UpdateProduct","addOrderPaymentCard":"/on/demandware.store/Sites-perfectlyPosh-Site/en_US/PaymentInstruments-AddOrderPaymentCard","getOrderPaymentCards":"/on/demandware.store/Sites-perfectlyPosh-Site/en_US/PaymentInstruments-GetOrderPaymentCards","removeOrderPaymentCard":"/on/demandware.store/Sites-perfectlyPosh-Site/en_US/PaymentInstruments-RemoveOrderPaymentCard","removePaymentInstruments":"/on/demandware.store/Sites-perfectlyPosh-Site/en_US/Cart-RemovePaymentInstruments","footerSubscribeCustomer":"/on/demandware.store/Sites-perfectlyPosh-Site/en_US/COCustomer-FooterSubscribe"};
+window.Urls = {"appResources":"/on/demandware.store/Sites-perfectlyPosh-Site/en_US/Resources-LoadTransient","pageInclude":"/on/demandware.store/Sites-perfectlyPosh-Site/en_US/Page-Include","continueUrl":"https://www.perfectlyposh.com/on/demandware.store/Sites-perfectlyPosh-Site/en_US/Page-Show","staticPath":"/on/demandware.static/Sites-perfectlyPosh-Site/-/en_US/v1553923881493/","addGiftCert":"/on/demandware.store/Sites-perfectlyPosh-Site/en_US/GiftCert-Purchase","minicartGC":"/on/demandware.store/Sites-perfectlyPosh-Site/en_US/GiftCert-ShowMiniCart","addProduct":"/on/demandware.store/Sites-perfectlyPosh-Site/en_US/Cart-AddProduct","minicart":"/on/demandware.store/Sites-perfectlyPosh-Site/en_US/Cart-MiniCart","cartShow":"/shopping-cart/","giftRegAdd":"https://www.perfectlyposh.com/on/demandware.store/Sites-perfectlyPosh-Site/en_US/Address-GetAddressDetails?addressID=","paymentsList":"https://www.perfectlyposh.com/account/payment-list/","addressesList":"https://www.perfectlyposh.com/account/address-list/","wishlistAddress":"https://www.perfectlyposh.com/on/demandware.store/Sites-perfectlyPosh-Site/en_US/Wishlist-SetShippingAddress","deleteAddress":"/on/demandware.store/Sites-perfectlyPosh-Site/en_US/Address-Delete","getProductUrl":"/on/demandware.store/Sites-perfectlyPosh-Site/en_US/Product-Show","getBonusProducts":"/on/demandware.store/Sites-perfectlyPosh-Site/en_US/Product-GetBonusProducts","addBonusProduct":"/on/demandware.store/Sites-perfectlyPosh-Site/en_US/Cart-AddBonusProduct","getSetItem":"/on/demandware.store/Sites-perfectlyPosh-Site/en_US/Product-GetSetItem","productDetail":"/on/demandware.store/Sites-perfectlyPosh-Site/en_US/Product-Detail","getAvailability":"/on/demandware.store/Sites-perfectlyPosh-Site/en_US/Product-GetAvailability","removeImg":"/on/demandware.static/Sites-perfectlyPosh-Site/-/default/dwc8e53f09/images/icon_remove.gif","searchsuggest":"/on/demandware.store/Sites-perfectlyPosh-Site/en_US/Search-GetSuggestions","productNav":"/on/demandware.store/Sites-perfectlyPosh-Site/en_US/Product-Productnav","summaryRefreshURL":"/on/demandware.store/Sites-perfectlyPosh-Site/en_US/COBilling-UpdateSummary","billingSelectCC":"https://www.perfectlyposh.com/on/demandware.store/Sites-perfectlyPosh-Site/en_US/COBilling-SelectCreditCard","updateAddressDetails":"https://www.perfectlyposh.com/on/demandware.store/Sites-perfectlyPosh-Site/en_US/COShipping-UpdateAddressDetails","updateAddressDetailsBilling":"https://www.perfectlyposh.com/on/demandware.store/Sites-perfectlyPosh-Site/en_US/COBilling-UpdateAddressDetails","shippingMethodsJSON":"https://www.perfectlyposh.com/on/demandware.store/Sites-perfectlyPosh-Site/en_US/COShipping-GetApplicableShippingMethodsJSON","shippingMethodsList":"https://www.perfectlyposh.com/on/demandware.store/Sites-perfectlyPosh-Site/en_US/COShipping-UpdateShippingMethodList","selectShippingMethodsList":"https://www.perfectlyposh.com/on/demandware.store/Sites-perfectlyPosh-Site/en_US/COShipping-SelectShippingMethod","resetPaymentForms":"/on/demandware.store/Sites-perfectlyPosh-Site/en_US/COBilling-ResetPaymentForms","compareShow":"/on/demandware.store/Sites-perfectlyPosh-Site/en_US/Compare-Show","compareAdd":"/on/demandware.store/Sites-perfectlyPosh-Site/en_US/Compare-AddProduct","compareRemove":"/on/demandware.store/Sites-perfectlyPosh-Site/en_US/Compare-RemoveProduct","compareEmptyImage":"/on/demandware.static/Sites-perfectlyPosh-Site/-/default/dw4f8f8347/images/comparewidgetempty.png","giftCardCheckBalance":"https://www.perfectlyposh.com/on/demandware.store/Sites-perfectlyPosh-Site/en_US/COBilling-GetGiftCertificateBalance","redeemGiftCert":"https://www.perfectlyposh.com/on/demandware.store/Sites-perfectlyPosh-Site/en_US/COBilling-RedeemGiftCertificateJson","addCoupon":"https://www.perfectlyposh.com/on/demandware.store/Sites-perfectlyPosh-Site/en_US/Cart-AddCouponJson","storesInventory":"/on/demandware.store/Sites-perfectlyPosh-Site/en_US/StoreInventory-Inventory","setPreferredStore":"/on/demandware.store/Sites-perfectlyPosh-Site/en_US/StoreInventory-SetPreferredStore","getPreferredStore":"/on/demandware.store/Sites-perfectlyPosh-Site/en_US/StoreInventory-GetPreferredStore","setStorePickup":"/on/demandware.store/Sites-perfectlyPosh-Site/en_US/StoreInventory-SetStore","setZipCode":"/on/demandware.store/Sites-perfectlyPosh-Site/en_US/StoreInventory-SetZipCode","getZipCode":"/on/demandware.store/Sites-perfectlyPosh-Site/en_US/StoreInventory-GetZipCode","billing":"/checkout/billing/","setSessionCurrency":"/on/demandware.store/Sites-perfectlyPosh-Site/en_US/Currency-SetSessionCurrency","addEditAddress":"/on/demandware.store/Sites-perfectlyPosh-Site/en_US/COShippingMultiple-AddEditAddressJSON","rateLimiterReset":"/on/demandware.store/Sites-perfectlyPosh-Site/en_US/RateLimiter-HideCaptcha","csrffailed":"/on/demandware.store/Sites-perfectlyPosh-Site/en_US/CSRF-Failed","staticBasePathToJWplayerLib":"/on/demandware.static/Sites-perfectlyPosh-Site/-/en_US/v1553923881493/lib/jwplayer/jwplayer.js","staticBasePathToEllipsisLib":"/on/demandware.static/Sites-perfectlyPosh-Site/-/en_US/v1553923881493/lib/jquery/jquery.ellipsis.min.js","staticBasePathToResponsiveTabsLib":"/on/demandware.static/Sites-perfectlyPosh-Site/-/en_US/v1553923881493/lib/jquery/jquery.responsiveTabs.min.js","staticBasePathToClientLib":"/on/demandware.static/Sites-perfectlyPosh-Site/-/en_US/v1553923881493/lib/client/client.min.js","editMiniCart":"/on/demandware.store/Sites-perfectlyPosh-Site/en_US/Cart-EditMiniCart","toggleBXGYPromo":"/on/demandware.store/Sites-perfectlyPosh-Site/en_US/Cart-ToggleBXGYPromo","staticBasePath":"/on/demandware.static/Sites-perfectlyPosh-Site/-/en_US/v1553923881493","contactRemoveConfirmation":"/on/demandware.store/Sites-perfectlyPosh-Site/en_US/Consultant-ContactDeleteConfirmation","contactCreateForm":"/on/demandware.store/Sites-perfectlyPosh-Site/en_US/Consultant-ContactAdd","contactMoreInfo":"/on/demandware.store/Sites-perfectlyPosh-Site/en_US/Consultant-GetMoreInfoBlock","searchConsultantContact":"/on/demandware.store/Sites-perfectlyPosh-Site/en_US/Consultant-ContactSearch","singleShipping":"/on/demandware.store/Sites-perfectlyPosh-Site/en_US/COShipping-SingleShipping","validateShippingAddress":"/on/demandware.store/Sites-perfectlyPosh-Site/en_US/COShipping-ValidateShippingAddress","updateShippingAddress":"/on/demandware.store/Sites-perfectlyPosh-Site/en_US/COShipping-UpdateShippingAddress","uploadContactsBlock":"/on/demandware.store/Sites-perfectlyPosh-Site/en_US/Consultant-GetImportContactsBlock","importContacts":"/on/demandware.store/Sites-perfectlyPosh-Site/en_US/Consultant-ContactImport","contactList":"/account/contact-list/","setInformation":"/on/demandware.store/Sites-perfectlyPosh-Site/en_US/Consultant-SetInformation","consultantInclude":"/on/demandware.store/Sites-perfectlyPosh-Site/en_US/Consultant-ConsultantItem","consultantRegistration":"/consultant-registration/","getHostessOptions":"/on/demandware.store/Sites-perfectlyPosh-Site/en_US/Party-GetHostessOptions","setPartyType":"/on/demandware.store/Sites-perfectlyPosh-Site/en_US/Party-SetPartyType","loggoutErrorPage":"/on/demandware.store/Sites-perfectlyPosh-Site/en_US/Error-LoggoutErrorPage","cartSubmitForm":"/on/demandware.store/Sites-perfectlyPosh-Site/en_US/Cart-SubmitForm","removeCoupon":"https://www.perfectlyposh.com/on/demandware.store/Sites-perfectlyPosh-Site/en_US/Cart-RemoveCouponJson","homeShow":"/","logIn":"https://www.perfectlyposh.com/account/login/","logOut":"https://www.perfectlyposh.com/logout/","gigyaLogIn":"https://www.perfectlyposh.com/on/demandware.store/Sites-perfectlyPosh-Site/en_US/Gigya-Login","gigyaUpdateProfile":"https://www.perfectlyposh.com/on/demandware.store/Sites-perfectlyPosh-Site/en_US/Gigya-UpdateProfile","createPoshpayPayment":"/on/demandware.store/Sites-perfectlyPosh-Site/en_US/COBilling-PoshpayPayment","updateSummary":"/on/demandware.store/Sites-perfectlyPosh-Site/en_US/COBilling-UpdateSummary","getEditCreditCardForm":"/on/demandware.store/Sites-perfectlyPosh-Site/en_US/PaymentInstruments-Edit","getAddCreditCardForm":"/on/demandware.store/Sites-perfectlyPosh-Site/en_US/PaymentInstruments-Add","paymentInstrumentList":"/account/payment-list/","creditCardHandlerForm":"/on/demandware.store/Sites-perfectlyPosh-Site/en_US/PaymentInstruments-HandlePaymentForm","getMailForm":"/on/demandware.store/Sites-perfectlyPosh-Site/en_US/Consultant-ContactMail","getConsultantMailForm":"/on/demandware.store/Sites-perfectlyPosh-Site/en_US/Consultant-ConsultantMail","sendMail":"/on/demandware.store/Sites-perfectlyPosh-Site/en_US/Consultant-MailForm","deleteContact":"/on/demandware.store/Sites-perfectlyPosh-Site/en_US/Consultant-ContactRemove","findConsultant":"/on/demandware.store/Sites-perfectlyPosh-Site/en_US/Consultant-FindConsultants","selectedParty":"/on/demandware.store/Sites-perfectlyPosh-Site/en_US/Party-GetSelectedParty","submitStore":"/on/demandware.store/Sites-perfectlyPosh-Site/en_US/Consultant-SubmitStore","findConsultantForm":"/on/demandware.store/Sites-perfectlyPosh-Site/en_US/Consultant-GetConsultantFindForm","submitPoshPay":"/on/demandware.store/Sites-perfectlyPosh-Site/en_US/Consultant-SubmitPoshPay","selectedConsultant":"/on/demandware.store/Sites-perfectlyPosh-Site/en_US/Consultant-UpdateBanner","enableOrderForGuest":"/on/demandware.store/Sites-perfectlyPosh-Site/en_US/COShipping-EnableOrderForGuest","getConsultantContact":"/on/demandware.store/Sites-perfectlyPosh-Site/en_US/COShipping-GetConsultantContactAddress","pageShow":"/on/demandware.store/Sites-perfectlyPosh-Site/en_US/Page-Show","assignParty":"/on/demandware.store/Sites-perfectlyPosh-Site/en_US/Party-AssignParty","homeLeftMenu":"/on/demandware.store/Sites-perfectlyPosh-Site/en_US/Home-IncludeHeaderMenuLeft","notValidConsultantLogin":"/on/demandware.store/Sites-perfectlyPosh-Site/en_US/Consultant-NotValidLoginNotification","dialogConfirm":"/on/demandware.store/Sites-perfectlyPosh-Site/en_US/Dialog-Confirmation","dialogAlert":"/on/demandware.store/Sites-perfectlyPosh-Site/en_US/Dialog-Alert","dialogTemplate":"/on/demandware.store/Sites-perfectlyPosh-Site/en_US/Dialog-Template","sessionStatus":"/on/demandware.store/Sites-perfectlyPosh-Site/en_US/Session-Status","addRedeem":"/on/demandware.store/Sites-perfectlyPosh-Site/en_US/Redeem-Add","addContact":"/on/demandware.store/Sites-perfectlyPosh-Site/en_US/Consultant-AddContactJSON","showBenefits":"/on/demandware.store/Sites-perfectlyPosh-Site/en_US/Party-ShowBenefits","updateProduct":"/on/demandware.store/Sites-perfectlyPosh-Site/en_US/Cart-UpdateProduct","addOrderPaymentCard":"/on/demandware.store/Sites-perfectlyPosh-Site/en_US/PaymentInstruments-AddOrderPaymentCard","getOrderPaymentCards":"/on/demandware.store/Sites-perfectlyPosh-Site/en_US/PaymentInstruments-GetOrderPaymentCards","removeOrderPaymentCard":"/on/demandware.store/Sites-perfectlyPosh-Site/en_US/PaymentInstruments-RemoveOrderPaymentCard","removePaymentInstruments":"/on/demandware.store/Sites-perfectlyPosh-Site/en_US/Cart-RemovePaymentInstruments","footerSubscribeCustomer":"/on/demandware.store/Sites-perfectlyPosh-Site/en_US/COCustomer-FooterSubscribe","getConsultantParties":"https://www.perfectlyposh.com/on/demandware.store/Sites-perfectlyPosh-Site/en_US/Consultant-GetOpenParties"};
 window.SitePreferences = {"LISTING_INFINITE_SCROLL":false,"LISTING_REFINE_SORT":true,"STORE_PICKUP":false,"CHECK_TLS":false,"HEADER_TOP_BANNER_COOKIES_EXPIRES_TIME":1,"JWPLAYER_LICENSE_KEY":"yzaAGGvp+QlTzbs5AO7873hL4tgwimgDiqyQ3Q==","JWPLAYER_USE_LIBRARY_FROM_URL":false,"JWPLAYER_LIBRARY_URL":"https://content.jwplatform.com/libraries/ohwEK3WI.js","JWPLAYER_SETUP_OPTIONS":"{\n                \"mobile\": {\n                    \"height\": 280,\n                    \"width\": 700,\n                    \"autostart\": true,\n                    \"controls\": true,\n                    \"controlbar\": \"over\",\n                    \"displaydescription\": false,\n                    \"displaytitle\": false,\n                    \"mute\": false,\n                    \"repeat\": false\n                },\n                \"tablet\": {\n                    \"height\": 400,\n                    \"width\": 800,\n                    \"autostart\": true,\n                    \"controls\": true,\n                    \"controlbar\": \"over\",\n                    \"displaydescription\": false,\n                    \"displaytitle\": false,\n                    \"mute\": false,\n                    \"repeat\": false\n                },\n            \"desktop\": {\n                    \"height\": 400,\n                    \"width\": 800,\n                    \"autostart\": true,\n                    \"controls\": true,\n                    \"controlbar\": \"over\",\n                    \"displaydescription\": false,\n                    \"displaytitle\": false,\n                    \"mute\": false,\n                    \"repeat\": false\n                }\n            }","JWPLAYER_DISABLE_AUTOSTART":true,"JWPLAYER_SPECIFIC_VIDEO_RESOURCES":"youtube.com, youtu.be","SESSION_TIMEOUT":1800000,"GA_ENABLED":true,"GA_BRAND":"perfectlyposh","GA_ACCOUNT_ID":"UA-25292979-1","GIGYA_ENABLED":true,"GIGYA_APIKEY":"3_AMe2UBF-FAzAfhbGGP9-BtBVmuDD5W95nA3heynf6HeDGJwishU-4gGjjVCYG6uc","CLOUDINARY_CLOUD_NAME":"perfectlyposh","CLOUDINARY_UPLOAD_PRESET":"dnyjfp9r","CLOUDINARY_WIDGET_URL":"//widget.cloudinary.com/global/all.js","CLOUDINARY_ADDITIONAL_OPTIONS":"{\n    \"cropping\": \"server\",\n    \"sources\": [\"local\"],\n    \"client_allowed_formats\": [\"png\", \"gif\", \"bmp\", \"jpg\", \"jpeg\"],\n    \"max_file_size\": 20000000,\n    \"max_image_width\": 960,\n    \"max_image_height\": 960,\n    \"min_image_width\": 300,\n    \"min_image_height\": 300\n}","ENABLE_MINICART_FUNCTIONALITY":false,"SHOW_MINICART_AFTER_ADDING_ITEM":false,"GOOGLE_RECAPTCHA_SITE_KEY":"6LcjLC4UAAAAAPcW8YvoJ1X3Y88NnjRo9mb-SuHK","GOOGLE_RECAPTCHA_ENABLED":true,"GTM_ENABLED":true,"GTM_ACCOUNT_ID":"GTM-KS8NQ4B","POSHPAY_PROVIDER":"HYPERWALLET"};
 }());</script>
 <script type="text/javascript">
 
 (function(){
-window.SessionAttributes = {"SHOW_CAPTCHA":false};
+window.SessionAttributes = {"SHOW_CAPTCHA":null};
 window.User = {"zip":null,"storeId":null,"AUTHENTICATED":false,"hasStarterKit":false,"CONSULTANT":false};
 }());</script>
 
@@ -2551,7 +2510,7 @@ window.User = {"zip":null,"storeId":null,"AUTHENTICATED":false,"hasStarterKit":f
 var meta = "Perfectly Posh Privacy Policy";
 var keywords = "";
 </script>
-<script src="/on/demandware.static/Sites-perfectlyPosh-Site/-/en_US/v1535434299831/js/app.js"></script>
+<script src="/on/demandware.static/Sites-perfectlyPosh-Site/-/en_US/v1553923881493/js/app.js"></script>
 
 
 
@@ -2573,10 +2532,10 @@ var keywords = "";
 <div id="bronto-cart-recovery-shadow" style="display: none;">
 	
 	
-		<div id="bronto-cart-recovery-cart-url">http://www.perfectlyposh.com/shopping-cart/</div>
+		<div id="bronto-cart-recovery-cart-url">https://www.perfectlyposh.com/shopping-cart/</div>
 	
 	
-		<div id="bronto-cart-recovery-cart-id">2c32b889bae667cf83e3b66f65</div>
+		<div id="bronto-cart-recovery-cart-id">9c0af2fc6a147ffa8829ffd0e4</div>
 	
 	<div id="bronto-cart-recovery-line-items">
 		
@@ -2628,7 +2587,7 @@ var keywords = "";
 /* <![CDATA[ */
 function trackPage() {
     try{
-        var trackingUrl = "http://www.perfectlyposh.com/on/demandware.store/Sites-perfectlyPosh-Site/en_US/__Analytics-Start";
+        var trackingUrl = "https://www.perfectlyposh.com/on/demandware.store/Sites-perfectlyPosh-Site/en_US/__Analytics-Start";
         var dwAnalytics = dw.__dwAnalytics.getTracker(trackingUrl);
         if (typeof dw.ac == "undefined") {
             dwAnalytics.trackPageView();
@@ -2640,9 +2599,9 @@ function trackPage() {
 /* ]]> */
 // -->
 </script>
-<script type="text/javascript" src="/on/demandware.static/Sites-perfectlyPosh-Site/-/en_US/v1535434299831/internal/jscript/dwanalytics-18.3.js" async="async" onload="trackPage()"></script>
+<script type="text/javascript" src="/on/demandware.static/Sites-perfectlyPosh-Site/-/en_US/v1553923881493/internal/jscript/dwanalytics-18.3.js" async="async" onload="trackPage()"></script>
 <!-- Demandware Active Data (body_end-active_data.js) -->
-<script src="/on/demandware.static/Sites-perfectlyPosh-Site/-/en_US/v1535434299831/internal/jscript/dwac-16.9.js" type="text/javascript" async="async"></script><!-- CQuotient Activity Tracking (body_end-cquotient.js) -->
+<script src="/on/demandware.static/Sites-perfectlyPosh-Site/-/en_US/v1553923881493/internal/jscript/dwac-18.10.4.js" type="text/javascript" async="async"></script><!-- CQuotient Activity Tracking (body_end-cquotient.js) -->
 <script src="https://cdn.cquotient.com/js/v2/gretel.min.js" type="text/javascript" async="async"></script>
 
 
