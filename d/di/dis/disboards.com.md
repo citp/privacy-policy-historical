@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the disboards.com privacy policy that was archived on 2018-10-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181027133905id_/http%3A//www.wdwinfo.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the disboards.com privacy policy that was archived on 2019-03-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190330100554id_/http%3A//www.wdwinfo.com/privacy.htm) for the most accurate reproduction.*
 
 # DIS - Privacy Policy
 
@@ -37,7 +37,7 @@ The information is not shared with any other entity under any circumstance unles
 
 **
 
-The only areas that require entry of any personal data are listed above.  You have the right not to participate in these forums if you do not wish to include your personal information.  You have the right not to not fill out any form on our website if you do not wish to to include personal information.  At any time, you can request that your information be removed by submitting a request to webmaster@wdwinfo.com **
+The only areas that require entry of any personal data are listed above.  You have the right not to participate in these forums if you do not wish to include your personal information.  You have the right not to not fill out any form on our website if you do not wish to to include personal information.  At any time, you can request that your information be removed by submitting a request to [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection) **
 
 6.   Important Exceptions:
 
@@ -47,7 +47,7 @@ When you register to post on our discussion forums, you are given the option to 
 
 Also, when you sign up for a particular advertisers services (via the site), that advertiser may use your email address to provide you with information on their services. 
 
-Participants should be aware that when you are on any web site, you could be directed to other sites when you click on an advertising banner. Clicking on an ad banner may take you off our site. The DIS wants you to be aware that other sites may send their own [cookies](https://web.archive.org/web/20181027133905id_/http%3A//www.wdwinfo.com/cookies.htm) to participants, collect data or solicit personal information over which we have no control. **
+Participants should be aware that when you are on any web site, you could be directed to other sites when you click on an advertising banner. Clicking on an ad banner may take you off our site. The DIS wants you to be aware that other sites may send their own [cookies](https://web.archive.org/web/20190330100554id_/http%3A//www.wdwinfo.com/cookies.htm) to participants, collect data or solicit personal information over which we have no control. **
 
 7\. COPA Compliance:
 
@@ -68,7 +68,7 @@ We do not require any participant, regardless of age, to provide more informatio
 
 Parents have the right, under law, to request to view all personal information collected on their children and to request that it be deleted  from our records.  Parents also retain the right to refuse to allow further collection or use of the child's information. 
 
-Any parent wishing to review this information, or requesting a deletion of that information should contact the webmaster of this site via email at webmaster@wdwinfo.com 
+Any parent wishing to review this information, or requesting a deletion of that information should contact the webmaster of this site via email at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection)
 
 **8\. Contact Us**.
 
