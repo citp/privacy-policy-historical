@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mappingmegan.com privacy policy that was archived on 2018-11-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181129082558id_/https%3A//www.mappingmegan.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mappingmegan.com privacy policy that was archived on 2019-03-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190330165053id_/https%3A//www.mappingmegan.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Mapping Megan
 
@@ -114,162 +114,168 @@ At any time, please contact us at megan@mappingmegan.com for questions related t
 
 Last updated: May 11, 2018.
 
-## [Seychelles on a Budget: How to Visit Without Breaking The Bank](https://www.mappingmegan.com/seychelles-on-a-budget-travel-guide/)
+## [Important Things to Know about Backpacking in Nepal](https://www.mappingmegan.com/backpacking-guide-nepal/)
 
-Posted by on 1:56 pm in [Blog](https://www.mappingmegan.com/category/blog/), [Budget Travel](https://www.mappingmegan.com/category/interests/budget-travel/), [Seychelles PAGE NEEDED](https://www.mappingmegan.com/category/world/seychelles-page-needed/), [World](https://www.mappingmegan.com/category/world/), [Writers](https://www.mappingmegan.com/category/guest-blogs/) | [2 comments](https://www.mappingmegan.com/seychelles-on-a-budget-travel-guide/#comments)
+Posted by on 6:27 pm in [Adventure Travel](https://www.mappingmegan.com/category/interests/adventure-travel/), [Blog](https://www.mappingmegan.com/category/blog/), [Budget Travel](https://www.mappingmegan.com/category/interests/budget-travel/), [Nepal](https://www.mappingmegan.com/category/world/nepal/) | [2 comments](https://www.mappingmegan.com/backpacking-guide-nepal/#comments)
 
-[](https://www.mappingmegan.com/seychelles-on-a-budget-travel-guide/)
+[](https://www.mappingmegan.com/backpacking-guide-nepal/)
 
-The Seychelles is one of the most popular honeymoon destinations in Africa, which is why it is often perceived as an expensive vacation.
+Backpacking in Nepal is an incredible adventure. From intensely chaotic cities, to medieval architecture, and Himalayan trekking, Nepal might be hard to get to, but you’ll probably find that it’s even harder to leave.
 
-While this isn’t an incorrect observation, it’s not exactly the entire truth either.
+Nepal is well set up for independent travel, and has become a mecca among the backpacking scene. It is a culturally rich country that will absolutely enchant you, though it’s definitely a destination that requires prior planning to ensure your safety and comfort.
 
-The most expensive thing about Seychelles will be your flights and your accommodation. However, with a little planning and research, you can easily visit Seychelles on a more frugal budget as well.
+The following is a backpacking guide to Nepal, with all of the essential info you need to know when planning your trip.
 
-Having recently visited the Seychelles for a solo trip, I was easily able to manage 2 weeks here for 730 USD. Here are a few tips that can help you manage a budget-friendly trip in this exotic location too.
+[read more](https://www.mappingmegan.com/backpacking-guide-nepal/)
 
-[read more](https://www.mappingmegan.com/seychelles-on-a-budget-travel-guide/)
+## [The Best Destinations for Whale Watching Around the World](https://www.mappingmegan.com/best-destinations-for-whale-watching-around-the-world/)
 
-## [How to Make and Edit Awesome Travel Videos on Your iPhone](https://www.mappingmegan.com/make-and-edit-awesome-travel-videos-on-your-iphone/)
+Posted by [Meg Jerrard](https://www.mappingmegan.com/author/megan_claire/ "Posts by Meg Jerrard") on 12:04 pm in [Blog](https://www.mappingmegan.com/category/blog/), [Eco Tourism](https://www.mappingmegan.com/category/interests/environment/) | [6 comments](https://www.mappingmegan.com/best-destinations-for-whale-watching-around-the-world/#comments)
 
-Posted by [Meg Jerrard](https://www.mappingmegan.com/author/megan_claire/ "Posts by Meg Jerrard") on 7:34 pm in [Blog](https://www.mappingmegan.com/category/blog/), [Photography](https://www.mappingmegan.com/category/photography/) | [0 comments](https://www.mappingmegan.com/make-and-edit-awesome-travel-videos-on-your-iphone/#respond)
+[](https://www.mappingmegan.com/best-destinations-for-whale-watching-around-the-world/)
 
-[](https://www.mappingmegan.com/make-and-edit-awesome-travel-videos-on-your-iphone/)
+Whale watching became a trend in the 1980’s, as a way to try and influence the debate over whaling. Back then the concept of whale watching was written off as a ‘stupid idea’, but nowadays it’s anything but.
 
-Whether you’re capturing holiday memories of your trip, or you secretly want to launch a career as a travel videographer, simply tapping the record button on your iPhone isn’t going to guarentee a high quality video.
+In trying to change the social acceptance of whale hunts, a group of fairly savvy conservationists realized that there is nothing more remarkable than seeing a whale in the wild, and saw a world where whales would be more valuable to an economy alive, than hunted.
 
-For budding phone videographers, there are two main factors that are going to dictate how good your videos are. The first is the quality of footage.
+Ever since then, whale watching has grown into a 2.1 billion dollar industry, and almost every country with a coastline has jumped in on the action.
 
-The newest technology will always be the best way to guarentee you’re shooting the highest quality footage, but anything that is capable of shooting in 4K, 120fps/240fps high speed or slo-mo videos will work well.
+While it was conservationists who pioneered the whale watching tourism trend, researcher Roger Payne credits only one group for the development of whale watching: the whales themselves.
 
-The second is the quality of editing that goes into your video after it’s been shot. With these two points in mind, we’ve put together the following tips for making and editing awesome travel videos on your iPhone.
+Described as nature’s best self‐publicists, whale watching is now taken seriously as an economic activity globally. So, do take a look at this list before booking your whale watching holidays.
 
-[read more](https://www.mappingmegan.com/make-and-edit-awesome-travel-videos-on-your-iphone/)
+[read more](https://www.mappingmegan.com/best-destinations-for-whale-watching-around-the-world/)
 
-## [Why Private Tours in Paris are the Best Way to Explore … Led by Localers of Course!](https://www.mappingmegan.com/private-tours-in-paris-led-by-locals/)
+## [Book List: Inspiring Travel Reads From Kick Ass Female Authors in 2019](https://www.mappingmegan.com/book-list-inspiring-travel-reads-from-female-authors/)
 
-Posted by [Meg Jerrard](https://www.mappingmegan.com/author/megan_claire/ "Posts by Meg Jerrard") on 11:13 pm in [Blog](https://www.mappingmegan.com/category/blog/), [France](https://www.mappingmegan.com/category/world/france/) | [1 comment](https://www.mappingmegan.com/private-tours-in-paris-led-by-locals/#comments)
+Posted by [Meg Jerrard](https://www.mappingmegan.com/author/megan_claire/ "Posts by Meg Jerrard") on 6:41 pm in [Blog](https://www.mappingmegan.com/category/blog/), [Book & Film Reviews](https://www.mappingmegan.com/category/reviews/book-reviews/) | [2 comments](https://www.mappingmegan.com/book-list-inspiring-travel-reads-from-female-authors/#comments)
 
-[](https://www.mappingmegan.com/private-tours-in-paris-led-by-locals/)
+[](https://www.mappingmegan.com/book-list-inspiring-travel-reads-from-female-authors/)
 
-2018 has seen a shift in the way people travel. Movements towards responsible and ethical travel experiences are revolutionizing the travel industry, and right there with it is a trend to seek out more meaningful experiences, and focus on local travel.
+We’ve well and truly entered an age of female empowerment, and as far as 2019 is concerned, I’m dubbing this the year of the wander woman.
 
-And by local travel I don’t mean exploring your own backyard (though there’s a case to be made for that too!), I mean delving deeper into a country or city, and escaping the typical tourist circuit and main landmarks.
+Over the past few years women have tipped the scales to become the majority of travelers over men. We’re taking more active adventures, and saying no to sipping cocktails on the beach. And we’re not letting age be a limiting factor (the world is now being taken OVER by amazing traveling grandmas).
 
-Really being able to experience a city … and here’s the buzz word … like a local!
+Some women are doing it solo, some are traveling with their families, and some are dragging along their husbands (lucky guys!). Some have quit their jobs and sold everything, while others travel while holding down a job and a mortgage.
 
-We’re not all fortunate enough to have friends based in every city, but in terms of having access to someone who can show you the real side of their city, there’s definitely something to be said for paying a local to show you around.
+Women these days who want to travel aren’t letting anyone tell them how it should be done, they’re making their journey their own. But even better, they’re writing about it to inspire the rest of us.
 
-This is especially true for a well trodden destination like Paris; private tours in Paris, led by locals, are a great way to experience a city from a more authentic point of view.
+If you’re looking for a great travel memoir to add to your summer reading list, make sure you pick up one of these; brand new titles from kick ass women who haven’t been afraid to follow their dreams.
 
-[read more](https://www.mappingmegan.com/private-tours-in-paris-led-by-locals/)
+I’ve been absolutely captivated by their stories!
 
-## [International Travel with Kids: Top Tips and How to Survive](https://www.mappingmegan.com/international-travel-with-kids-top-tips-and-how-to-survive/)
+[read more](https://www.mappingmegan.com/book-list-inspiring-travel-reads-from-female-authors/)
 
-Posted by [Meg Jerrard](https://www.mappingmegan.com/author/megan_claire/ "Posts by Meg Jerrard") on 5:44 pm in [Blog](https://www.mappingmegan.com/category/blog/), [Family Travel](https://www.mappingmegan.com/category/interests/world-family/), [Travel Tips](https://www.mappingmegan.com/category/travel-tips/) | [2 comments](https://www.mappingmegan.com/international-travel-with-kids-top-tips-and-how-to-survive/#comments)
+## [5 Reasons to Visit Komodo National Park (Indonesia)](https://www.mappingmegan.com/reasons-to-visit-komodo-national-park-indonesia/)
 
-[](https://www.mappingmegan.com/international-travel-with-kids-top-tips-and-how-to-survive/)
+Posted by [Meg Jerrard](https://www.mappingmegan.com/author/megan_claire/ "Posts by Meg Jerrard") on 4:58 pm in [Adventure Travel](https://www.mappingmegan.com/category/interests/adventure-travel/), [Blog](https://www.mappingmegan.com/category/blog/), [Indonesia](https://www.mappingmegan.com/category/world/indonesia/) | [4 comments](https://www.mappingmegan.com/reasons-to-visit-komodo-national-park-indonesia/#comments)
 
-Taking a trip by yourself or with your partner can be stressful enough, but when you add children into the mix, travel can become a whole new monster.
+[](https://www.mappingmegan.com/reasons-to-visit-komodo-national-park-indonesia/)
 
-But don’t let the thought of potential chaos stop you from booking an enjoyable family holiday. With a little careful planning, vacations with your kids can be some of the most memorable moments you share with them.
+In the Indonesian archipelago, between the islands of Sumbawa and Flores, lies Komodo National Park. It’s the only place on Earth you can have a close encounter with a Komodo dragon, a unique lizard species often referred to as the last living dinosaur.
 
-Travelling internationally usually involves flights and unlike a simple road trip, you can’t simply threaten to turn the plane back around if your kids aren’t behaving.
+In an effort to conserve this rare creature and its natural habitat, the Komodo National Park is listed as a UNESCO World Heritage Site. The park consists of three major islands (Komodo, Rinca and Padar) that are home to over 2500 of these impressive and fearsome creatures.
 
-If you’re pondering a family getaway, here are some top tips for making your holiday as stress-free as possible. Follow these helpful suggestions to give you and your family the best chance to survive your next holiday together.
+Though Komodo is much more than it’s famous wildlife; the islands also boast some of the world’s best diving and snorkelling spots, and landscapes so dramatic the island was recently named one of the world’s “7 New Wonders of Nature.”
 
-[read more](https://www.mappingmegan.com/international-travel-with-kids-top-tips-and-how-to-survive/)
+With a new airport in Labuan Bajo, on the neighbouring island of Flores, access to Komodo is now just a boat ride away. Here are just five of the many reasons you’ll want to discover the magic this Indonesian gem has to offer.
 
-## [The Top 3 Casino Hotels in Las Vegas](https://www.mappingmegan.com/top-casino-hotels-las-vegas/)
+[read more](https://www.mappingmegan.com/reasons-to-visit-komodo-national-park-indonesia/)
 
-Posted by [Meg Jerrard](https://www.mappingmegan.com/author/megan_claire/ "Posts by Meg Jerrard") on 5:04 pm in [Accommodation](https://www.mappingmegan.com/category/interests/accommodation/), [Blog](https://www.mappingmegan.com/category/blog/), [Luxury Lifestyle](https://www.mappingmegan.com/category/interests/luxury-travel/), [United States](https://www.mappingmegan.com/category/world/united-states/) | [2 comments](https://www.mappingmegan.com/top-casino-hotels-las-vegas/#comments)
+## [Your Privacy is at Risk When You Travel: Here’s Why You NEED a VPN](https://www.mappingmegan.com/protect-privacy-when-travel-why-you-need-a-vpn/)
 
-[](https://www.mappingmegan.com/top-casino-hotels-las-vegas/)
+Posted by [Meg Jerrard](https://www.mappingmegan.com/author/megan_claire/ "Posts by Meg Jerrard") on 1:15 pm in [Blog](https://www.mappingmegan.com/category/blog/), [Travel Tips](https://www.mappingmegan.com/category/travel-tips/) | [0 comments](https://www.mappingmegan.com/protect-privacy-when-travel-why-you-need-a-vpn/#respond)
 
-Whether you’ve recently been on a lucky streak or just turned 21, you may be looking to hit the Vegas Strip to see how far your luck can take you.
+[](https://www.mappingmegan.com/protect-privacy-when-travel-why-you-need-a-vpn/)
 
-While most of Vegas’ grandest hotels and resorts are located along the Vegas strip, it can definitely be hard to know which casino hotels are worth your time.
+When you travel to another country, it’s good practice to be vigilant and aware of your surroundings to keep yourself safe from possible threats. But what about online threats?
 
-Any trip to Vegas requires a bit of a game plan. From finding that perfect lavish hotel room at a great rate to knowing what casinos and bets give you the best odds of walking away a winner, it pays to do a bit of research before you take on Sin City.
+Did you know that when you travel to other countries, in many cases, you are more vulnerable to online threats than you are at home?
 
-So if you’re ready to test out your blackjack skills or simply want to strengthen your biceps by pulling some slot handles, here are three incredible casino hotels you can throw your dollars at.
+For many of us, when we connect to the Internet, we don’t think at all about how we’re connecting. We just do. The devices we use even connect themselves to the Internet sometimes, for all kinds of things like backups and automatic updates.
 
-[read more](https://www.mappingmegan.com/top-casino-hotels-las-vegas/)
+While that’s just the nature of the way we live now, it doesn’t mean you don’t need to be careful to protect yourself and your information. Because most internet connections we used by travelers are open public networks, this puts our personal data at risk.
 
-## [[Sale Ended] Hotels.com Offers 50% off Hotels in 2018 #BlackFridaySale](https://www.mappingmegan.com/massive-black-friday-hotel-sale-get-50-percent-off/)
+Abstinence has never been a practical solution, so the one way to solve this is by using one of the best free VPNs. Here’s why you need to be traveling with a Virtual Private Network (VPN) for the sake of your data.
 
-Posted by [Meg Jerrard](https://www.mappingmegan.com/author/megan_claire/ "Posts by Meg Jerrard") on 6:59 pm in [Blog](https://www.mappingmegan.com/category/blog/) | [1 comment](https://www.mappingmegan.com/massive-black-friday-hotel-sale-get-50-percent-off/#comments)
+[read more](https://www.mappingmegan.com/protect-privacy-when-travel-why-you-need-a-vpn/)
 
-[](https://www.mappingmegan.com/massive-black-friday-hotel-sale-get-50-percent-off/)
+## [How to Get Around Censorship of the Internet: Travel With a VPN](https://www.mappingmegan.com/get-around-censorship-of-the-internet-travel-with-a-vpn/)
 
-From my seat here in Australia, Black Friday sales have not typically mattered to me.
+Posted by [Meg Jerrard](https://www.mappingmegan.com/author/megan_claire/ "Posts by Meg Jerrard") on 8:44 pm in [Blog](https://www.mappingmegan.com/category/blog/), [Travel Tips](https://www.mappingmegan.com/category/travel-tips/) | [0 comments](https://www.mappingmegan.com/get-around-censorship-of-the-internet-travel-with-a-vpn/#respond)
 
-As my friend Vanessa Chaisson wrote: “I reject the manipulation of capitalism and societal pressure which leads to environmental destruction, communities ravaged by debt, and non-ironic acid washed jeans.
+[](https://www.mappingmegan.com/get-around-censorship-of-the-internet-travel-with-a-vpn/)
 
-I am a minimalist committed to supporting local businesses and the betterment of my community. I have been blessed with abundance this year and I need nothing more.”
+The Internet and its uses are wondrous. And you may think that no matter where you are in the world, you can access whatever you want as long as you there is an available internet connection, right?
 
-But when I heard about Hotels.com offering 50% off hotels for Black Friday this was also me:
+Unfortunately, that’s wrong.
 
-“Holy s&%t. Black Friday sales also apply to TRAVEL?????!!!”
+While the internet might hold the answer to everything, there are actually a lot of restrictions and legalities involved with what kinds of content you’ll be able to access in specific parts of the world.
 
-[read more](https://www.mappingmegan.com/massive-black-friday-hotel-sale-get-50-percent-off/)
+Not every country believes in providing free and open internet to their citizens, and you might find when traveling that your internet access is limited, and the government has blocked certain websites.
 
-## [Epic Adventures You Can Have in Morocco](https://www.mappingmegan.com/bucketlist-adventures-things-to-do-in-morocco/)
+This means that if you’re traveling internationally, you might want to do a little research and prepare yourself for the browsing and streaming complications that might arise while you’re on your trip.
 
-Posted by [Meg Jerrard](https://www.mappingmegan.com/author/megan_claire/ "Posts by Meg Jerrard") on 10:58 pm in [Adventure Travel](https://www.mappingmegan.com/category/interests/adventure-travel/), [Blog](https://www.mappingmegan.com/category/blog/), [Morocco](https://www.mappingmegan.com/category/world/morocco/) | [1 comment](https://www.mappingmegan.com/bucketlist-adventures-things-to-do-in-morocco/#comments)
+[read more](https://www.mappingmegan.com/get-around-censorship-of-the-internet-travel-with-a-vpn/)
 
-[](https://www.mappingmegan.com/bucketlist-adventures-things-to-do-in-morocco/)
+## [Ways to Stay Entertained on a Long Distance Bus Ride](https://www.mappingmegan.com/ways-to-stay-entertained-on-a-long-distance-bus-ride/)
 
-From ancient cities to Saharan dunes, Morocco is one of those destinations that truly captures your imagination; a dizzying diversity awaits travelers whether you’re interested in trekking in the desert, shopping in the maze of medinas, or simply people watching.
+Posted by [Meg Jerrard](https://www.mappingmegan.com/author/megan_claire/ "Posts by Meg Jerrard") on 4:01 pm in [Blog](https://www.mappingmegan.com/category/blog/), [Road Trips](https://www.mappingmegan.com/category/interests/road-trips/), [Travel Tips](https://www.mappingmegan.com/category/travel-tips/) | [0 comments](https://www.mappingmegan.com/ways-to-stay-entertained-on-a-long-distance-bus-ride/#respond)
 
-With vivid images of lyrical landscapes, richly colored souks, exotic culture and a diverse geography, this is a bucket-list destination if there ever was one, and there is so much to see and do.
+[](https://www.mappingmegan.com/ways-to-stay-entertained-on-a-long-distance-bus-ride/)
 
-Morocco is captivating, dazzling, and seductive. It is a country that will fascinate, bewitch and beguile you. It is exotic in the true sense of the word, and has hundreds of faces, sounds, smells, and stories just waiting to be uncovered.
+Let’s be honest – no-one particularly enjoys a long bus ride. It can be crowded, too hot, and most all, incredibly boring.
 
-Whether you’re browsing Morocco vacation packages, or organizing the trip yourself, the following are epic things to do in Morocco before you die.
+Though despite being confined to one seat for hours at a time, there are definitely ways to distract yourself so that the time flies by.
 
-[read more](https://www.mappingmegan.com/bucketlist-adventures-things-to-do-in-morocco/)
+Dreading an upcoming long distance journey? These activities will keep you entertained throughout the long-distance bus ride.
 
-## [Why Eco-Friendly Fabrics Make For Better Travel Clothing](https://www.mappingmegan.com/why-eco-friendly-fabrics-make-for-better-travel-clothing/)
+[read more](https://www.mappingmegan.com/ways-to-stay-entertained-on-a-long-distance-bus-ride/)
 
-Posted by [Meg Jerrard](https://www.mappingmegan.com/author/megan_claire/ "Posts by Meg Jerrard") on 12:45 pm in [Blog](https://www.mappingmegan.com/category/blog/), [Eco Tourism](https://www.mappingmegan.com/category/interests/environment/), [Equipment Reviews](https://www.mappingmegan.com/category/reviews/equipment/), [Fashion](https://www.mappingmegan.com/category/interests/fashion/) | [1 comment](https://www.mappingmegan.com/why-eco-friendly-fabrics-make-for-better-travel-clothing/#comments)
+## [7 Ways Travel Can Improve Your Mental Health](https://www.mappingmegan.com/travel-can-improve-your-mental-health/)
 
-[](https://www.mappingmegan.com/why-eco-friendly-fabrics-make-for-better-travel-clothing/)
+Posted by [Meg Jerrard](https://www.mappingmegan.com/author/megan_claire/ "Posts by Meg Jerrard") on 7:13 am in [Blog](https://www.mappingmegan.com/category/blog/), [Healthy Travel](https://www.mappingmegan.com/category/interests/health/) | [5 comments](https://www.mappingmegan.com/travel-can-improve-your-mental-health/#comments)
 
-In today’s age of social awareness, travelers are increasingly aware of the environmental impact in tourism.
+[](https://www.mappingmegan.com/travel-can-improve-your-mental-health/)
 
-A recent revolution which prioritizes responsible travel has swept up the travel industry, and it is becoming more and more difficult to ignore that irresponsible travel choices have a long-lasting effect on our planet.
+The stresses of everyday life can be overwhelming. From family and work issues to commuting, daily chores, illnesses, home maintenance and plenty of other concerns, the grind of day-to-day life can pick away at your mental well-being.
 
-But ecotourism goes beyond taking steps to reduce our carbon footprint, and if you’re truly committed to reducing your environmental impact, this should reflect in more basic choices too; like the fabrics you choose when purchasing travel clothing.
+If you ever feel stuck in life, or tired of your current situation, it is sometimes best to get away. A vacation may sound at first like you are running from your problems, but the truth is quite the opposite.
 
-[read more](https://www.mappingmegan.com/why-eco-friendly-fabrics-make-for-better-travel-clothing/)
+For the reasons listed below, you may be surprised at the wonders a good holiday can do for your mental health.
 
-## [Your Guide to a Suite Stay in Canberra: Review of Pacific Suites](https://www.mappingmegan.com/guide-suite-stay-canberra-hotel-review-pacific-suites/)
+[read more](https://www.mappingmegan.com/travel-can-improve-your-mental-health/)
 
-Posted by [Meg Jerrard](https://www.mappingmegan.com/author/megan_claire/ "Posts by Meg Jerrard") on 3:49 pm in [Accommodation](https://www.mappingmegan.com/category/interests/accommodation/), [Australia](https://www.mappingmegan.com/category/world/australia/), [Blog](https://www.mappingmegan.com/category/blog/), [Luxury Lifestyle](https://www.mappingmegan.com/category/interests/luxury-travel/) | [1 comment](https://www.mappingmegan.com/guide-suite-stay-canberra-hotel-review-pacific-suites/#comments)
+## [Reasons to Rent a Car in Los Angeles](https://www.mappingmegan.com/rent-a-car-in-los-angeles/)
 
-[](https://www.mappingmegan.com/guide-suite-stay-canberra-hotel-review-pacific-suites/)
+Posted by [Meg Jerrard](https://www.mappingmegan.com/author/megan_claire/ "Posts by Meg Jerrard") on 8:27 am in [Blog](https://www.mappingmegan.com/category/blog/), [Road Trips](https://www.mappingmegan.com/category/interests/road-trips/), [United States](https://www.mappingmegan.com/category/world/united-states/) | [4 comments](https://www.mappingmegan.com/rent-a-car-in-los-angeles/#comments)
 
-Having recently been named one of Lonely Planet’s Top 10 cities for 2018, Canberra has been receiving a lot of hype and attention.
+[](https://www.mappingmegan.com/rent-a-car-in-los-angeles/)
 
-Rare among Australia’s large cities in that it isn’t situated along the coast, Canberra is instead flanked by wild nature reserves where iconic wildlife roams, surrounded by wine country, and picturesquely nestled alongside Australia’s highest alpine peaks.
+LA is one of those iconic destinations that every traveler should experience at least once in their lifetime; a sprawling urban metropolis that is deeply creative, and bursting at the seams with culture, personality, and access to Mother nature.
 
-The well thought out and completely planned city may be nearly a 2 hour’s drive from the closest beach, but we found Canberra to offer more than enough excitement within the city to keep us entertained and not needing sand beneath our feet.
+Whatever draws you to LA, whether it be laying underneath palm trees on a golden coast, the glitz of Hollywood, upmarket bars and boutiques, or lacing up your hiking boots for treks across the rugged mountains, LA truly has something for everyone.
 
-With a perfectly positioned base for exploring Australia’s bush capital in Pacific Suites Canberra, go behind the political scenes and discover a beautiful city surrounded by the calls of bushland wildlife that easily drowns out the shouting of MPs!
+But with such a huge range of experiences, in a city more than ten times the size of Paris, the most difficult part of planning isn’t going to be figuring out what to include on your itinerary; it’s going to be how to maximize your time.
 
-[read more](https://www.mappingmegan.com/guide-suite-stay-canberra-hotel-review-pacific-suites/)
+For that reason alone we highly recommend renting a car.
 
-## [5 Things They Don’t Tell You About Your First African Safari](https://www.mappingmegan.com/things-they-dont-tell-you-about-your-first-african-safari/)
+[read more](https://www.mappingmegan.com/rent-a-car-in-los-angeles/)
 
-Posted by [Meg Jerrard](https://www.mappingmegan.com/author/megan_claire/ "Posts by Meg Jerrard") on 12:06 pm in [Blog](https://www.mappingmegan.com/category/blog/), [Botswana PAGE NEEDED](https://www.mappingmegan.com/category/world/botswana-page-needed/), [Kenya](https://www.mappingmegan.com/category/world/kenya/), [Namibia](https://www.mappingmegan.com/category/world/namibia/), [Rwanda PAGE NEEDED](https://www.mappingmegan.com/category/world/rwanda-page-needed/), [South Africa](https://www.mappingmegan.com/category/world/south-africa/), [Tanzania](https://www.mappingmegan.com/category/world/tanzania/), [Zambia](https://www.mappingmegan.com/category/world/zambia/) | [1 comment](https://www.mappingmegan.com/things-they-dont-tell-you-about-your-first-african-safari/#comments)
+## [Reasons You Shouldn’t Visit Tokyo Without a Trip to Tokyo DisneySea](https://www.mappingmegan.com/reasons-you-should-visit-tokyo-disneysea/)
 
-[](https://www.mappingmegan.com/things-they-dont-tell-you-about-your-first-african-safari/)
+Posted by [Meg Jerrard](https://www.mappingmegan.com/author/megan_claire/ "Posts by Meg Jerrard") on 7:11 am in [Blog](https://www.mappingmegan.com/category/blog/), [Family Travel](https://www.mappingmegan.com/category/interests/world-family/), [Japan](https://www.mappingmegan.com/category/world/japan/) | [8 comments](https://www.mappingmegan.com/reasons-you-should-visit-tokyo-disneysea/#comments)
 
-Heading out on an African safari is an incredible experience, and especially for the wildlife enthusiast, getting up close and personal with some of the most majestic creatures on this planet is unlike anything else.
+[](https://www.mappingmegan.com/reasons-you-should-visit-tokyo-disneysea/)
 
-If you haven’t already added a safari trip to your bucket list, now is the time to do so! However, there are a few things you should know before you set off.
+My first ever trip overseas was to Japan when I was 15. It was a language immersion trip with my High School, and my name was pulled out of a hat for one of the coveted places.
 
-Here are five things they don’t tell you about your first safari.
+And while this introduction to travel involved many cultural highlights like attendance at a local school, a homestay with a Japanese student, and traveling to Hiroshima to place 1,000 cranes, the one day I was most looking forward to was Tokyo Disneyland.
 
-[read more](https://www.mappingmegan.com/things-they-dont-tell-you-about-your-first-african-safari/)
+Fastforward 15 years, and I would find myself traveling back to Tokyo, with the sole purpose of visiting Tokyo DisneySea®. And, in a country where embracing worlds of fantasy is part of the cultural fabric, I discovered the same sense of pure joy and wonder as I had felt at age 15.
+
+Tokyo DisneySea is an incredible theme park inspired by the myths and legends of the sea. And in the lead up to my trip, fellow adults would lose their composure and absolutely gush about how incredible their time at the park had been.
+
+In the fierce debate about the best Disney park in the world, I feel confident awarding the title to Tokyo DisneySea. Here’s why.
+
+[read more](https://www.mappingmegan.com/reasons-you-should-visit-tokyo-disneysea/)
