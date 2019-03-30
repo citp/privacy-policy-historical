@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the babynamespedia.com privacy policy that was archived on 2017-08-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170818131349id_/http%3A//www.babynamespedia.com/general%3Fd%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the babynamespedia.com privacy policy that was archived on 2019-03-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190331004056id_/https%3A//www.babynamespedia.com/general%3Fd%3Dprivacy) for the most accurate reproduction.*
 
 # Privacy Policy at Baby Names Pedia
 
