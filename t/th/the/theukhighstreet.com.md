@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the theukhighstreet.com privacy policy that was archived on 2018-09-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180901143243id_/https%3A//www.theukhighstreet.com/p/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the theukhighstreet.com privacy policy that was archived on 2019-03-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190330211018id_/https%3A//www.theukhighstreet.com/p/privacy) for the most accurate reproduction.*
 
 # The UK High Street: Privacy Policy and Cookies Statement
 
