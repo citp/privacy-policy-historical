@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the cinemablend.com privacy policy that was archived on 2018-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181229181342id_/https%3A//www.cinemablend.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cinemablend.com privacy policy that was archived on 2019-03-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190330093154id_/https%3A//www.gatewayblend.com/privacy.html) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy - gatewayblend.com
 
 Last updated: October 26, 2018
 
-This is the privacy policy (“Privacy Policy”) that governs how Gateway Blend, LLC, a Missouri limited liability company (“Gateway Blend”, “we”, “our” or “us”), uses Personal Data (defined below) that we collect, receive and store about individuals in connection with the use of our website: [https://www.cinemablend.com](https://www.cinemablend.com/) (together with its sub-domains, content and services, a “Site”).
+This is the privacy policy (“Privacy Policy”) that governs how Gateway Blend, LLC, a Missouri limited liability company (“Gateway Blend”, “we”, “our” or “us”), uses Personal Data (defined below) that we collect, receive and store about individuals in connection with the use of our website: [https://www.gatewayblend.com](https://www.gatewayblend.com/) (together with its sub-domains, content and services, a “Site”).
 
 You may choose whether or not to provide or disclose Personal Data in connection with your use of our Site. If you choose not to provide the Personal Data we request, you may still visit and use parts of our Site, but may be unable to access or use certain features, options, programs, and services. Our Site may contain links to third-party websites and services that are not owned or controlled by Gateway Blend. We are not responsible for the privacy practices or the content of third party websites, services and advertisements, and you visit them at your own risk.
 
@@ -20,30 +20,21 @@ We reserve the right, at our discretion, to change the terms of this Privacy Pol
 
 We may receive and/or collect Personal Data in the following ways:
 
-3.1. _Personal Data You Provide To Us On Our Site._ If you send us a “Contact Us” request or feedback, or in connection with creating a job profile on our Site, or when you download any of our content, you may be required to provide us with certain information that may constitute Personal Data, such as: 
-
-* Your name;
-* Email address;
-* Phone Number;
-* Address;
-* Profile photo; and
-* Communications you send to us.
+3.1. _Personal Data You Provide To Us On Our Site._ If you send us a “Contact Us” request or feedback, or in connection with creating a job profile on our Site, or when you download any of our content, you may be required to provide us with certain information that may constitute Personal Data, such as:   
+Your name;   
+Email address;   
+Phone Number;   
+Address;   
+Profile photo; and   
+Communications you send to us.
 
 3.2. _Personal Data You Provide To Third Parties On Our Site._ Please note that we use certain third party service providers on our Site to enhance your experience or deliver certain services. These providers may collect Personal Data in performing their services and/or functions on our Site. For example, we use the following third party service providers for the services identified:
 
-* Google Analytics to track user behavior and content consumption on the Site. To learn more about the privacy practices of Google Analytics, please review <https://www.google.com/policies/technologies/product-privacy/>
-* comScore to understand our audience demographics and interests. To learn more about the privacy practices of comScore, please review <https://www.comscore.com/About-comScore/Privacy-Policy>
-* Addthis to allow for social sharing features on the Site. To learn more about the privacy practices of Addthis, please review <http://www.addthis.com/privacy>
-* Zergnet to provide relevant content recommendations from around the web to users. To learn more about the privacy practices of Zergnet, please review <https://zergnet.com/privacy>
-* Chartbeat to adapt and optimize your experience through content intelligence on the Site. To learn more about the privacy practices of Chartbeat, please review <https://chartbeat.com/privacy/>
-* Disqus to allow for commenting features on the Site. To learn more about the privacy practices of Disqus, please review <https://help.disqus.com/customer/portal/articles/466259-privacy-policy>
-* Followistic to enable readers to subscribe to custom email alerts for topics, authors and categories. To learn more about the privacy practices of Followistic, please review <https://followistic.com/legal>
-* PostUp to deliver email newsletter solutions on the Site. To learn more about the privacy practices of PostUp, please review <https://www.postup.com/privacy-policy/>
-* BambooHR to allow for job postings and employment-related content on the Site. To learn more about the privacy practices of BambooHR, please review <https://www.bamboohr.com/privacy.php>
-* Playwire to provide video streaming features on the Site. To learn more about the privacy practices of Playwire, please review <https://www.playwire.com/privacy-policy/>
-* JW Player to provide video streaming features on the Site. To learn more about the privacy practices of JW Player, please review <https://www.jwplayer.com/privacy-old/>
-* OneSignal to allow push notifications to users on the Site. To learn more about the privacy practices of OneSignal, please review <https://onesignal.com/privacy_policy>
-* Facebook Business Tools, including pixels which use cookies, web beacons, and other storage technologies to collect or receive information from our websites and elsewhere on the internet, and use that information to provide measurement services and target ads. To learn more about the privacy practices of Facebook, please review <https://www.facebook.com/privacy/explanation>
+*AAIM Employers’ Association to collect Personal Data relating to open positions posted on our Site. To learn about the privacy practices of AAIM, please review <https://aaimea.org/privacy-policy/>
+
+*BambooHR to allow for job postings and employment-related content. To learn more about the privacy practices of BambooHR, please review <https://www.bamboohr.com/privacy.php>
+
+*Facebook Business Tools, including pixels which use cookies, web beacons, and other storage technologies to collect or receive information from our websites and elsewhere on the internet, and use that information to provide measurement services and target ads. To learn more about the privacy practices of Facebook, please review <https://www.facebook.com/privacy/explanation>
 
 3.3. _Information Collected Automatically._ Certain information on our Site is collected automatically by means of various software tools. We have a legitimate interest in using such information to assist in log-in, systems administration purposes, information security and abuse prevention, to track user trends, and to analyze the effectiveness of our Site. Alone or in combination with other information, such automatically collected information may constitute Personal Data. Some of our service providers (described in Section 5, below) may use cookies or other methods to gather information regarding your use of our Site. Such third parties may use these cookies or other tracking methods for their own purposes by relating information about your use of our Site with any of your Personal Data that they may have. The use of such information by a third party depends on the privacy policy of that third party.
 
@@ -116,7 +107,6 @@ Visit| Select
 [National Advertising Initiative](http://optout.networkadvertising.org/?c=1#!/) | AOL Advertising, AppNexus, Google Inc, Index Exchange, Netseer, Playwire Media, Rubicon Project, or Yieldmo  
 [Google](http://www.google.com/ads/preferences/plugin/) | Install your browser plugin  
 [TripleLift](https://triplelift.com/consumer-opt-out) | Opt-out of tailored advertising from Triplelift  
-[SpotX](https://www.spotx.tv/privacy-policy/) | Opt-out of tailored advertising from SpotX  
   
 **4\. The Purposes For Which We Use Personal Data.**
 
