@@ -1,14 +1,14 @@
-> *The following text is extracted and transformed from the educationpost.org privacy policy that was archived on 2018-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181120183322id_/http%3A//educationpost.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the educationpost.org privacy policy that was archived on 2019-03-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190330130916id_/https%3A//educationpost.org/privacy-policy) for the most accurate reproduction.*
 
 # Terms of Use and Privacy Policy - Education Post
 
 #### Privacy and Terms of Use
 
-Education Post values the privacy of individuals who visit our web site. This statement sets forth the important information which you need to know about how we collect and use personal information from web site visitors.
+Education Post values the privacy of individuals who visit our website. This statement sets forth the important information which you need to know about how we collect and use personal information from web site visitors.
 
 #### Collection of Information
 
-The type and amount of information we receive about you depends entirely on how you use our site. For instance, you may read and download information provided on the site without providing any personal information at all. Our web server will collect your domain name (for example, [www.aol.com](http://www.aol.com/)) and means of entry to our web site (for example, via a particular search engine), the date, time and duration of each visit and the site pages visited. This information is collected and used for informational purposes only. We use this information to measure site usage and to make the site more beneficial to our visitors.
+The type and amount of information we receive about you depends entirely on how you use our site. For instance, you may read and download information provided on the site without providing any personal information at all. Our web server will collect your domain name (for example, www.aol.com) and means of entry to our web site (for example, via a particular search engine), the date, time and duration of each visit and the site pages visited. This information is collected and used for informational purposes only. We use this information to measure site usage and to make the site more beneficial to our visitors.
 
 Personal information including name, location, e-mail address, company affiliation, telephone number, etc. is provided on a voluntary basis only. We use this information to respond to inquiries and requests for further information. We will not share or sell the personal information you provide us to a third party at any time. Education Post takes reasonable precautions to keep all information obtained from our online visitors secure against unauthorized access.
 
