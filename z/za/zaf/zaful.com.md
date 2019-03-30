@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the zaful.com privacy policy that was archived on 2018-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181215215332id_/https%3A//www.zaful.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the zaful.com privacy policy that was archived on 2019-03-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190330194051id_/https%3A//www.zaful.com/privacy-policy) for the most accurate reproduction.*
 
 # ZAFUL: Privacy Policy
 
