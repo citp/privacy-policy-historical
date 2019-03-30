@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the govplanet.com privacy policy that was archived on 2018-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181205215937id_/https%3A//www.govplanet.com/pop/terms_page.jsp%3Fid%3D4%26noh1%3Dyes) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the govplanet.com privacy policy that was archived on 2019-03-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190330125014id_/https%3A//www.govplanet.com/pop/terms_page.jsp%3Fid%3D4%26noh1%3Dyes) for the most accurate reproduction.*
 
 # GovPlanet - Terms and Conditions
 
@@ -74,7 +74,7 @@ Canada or any other region not otherwise specified in this section  |  Ritchie B
 Burnaby, BC V5J 0C6  |  Office of the Privacy Commissioner of Canada   
 United States  |  Ritchie Bros. Auctioneers (America) Inc.  |  4000 Pine Lake Road,  
 Lincoln, NE USA 68516  |     
-Mexico  |  Ritchie Bros. Auctioneers de Mexico S. de R.L. de C.V.  |  Carr. Polotitlán, La Estación # 6 Col Centro. Polotitlán, Estado de México, CP 54200  |  Instituto Nacional de Transparencia, Acceso a la Información y Protección de Datos Personales, INAI   
+Mexico  |  Ritchie Bros. Auctioneers de Mexico S. de R.L. de C.V.  |  Carr. Polotitl?n, La Estaci?n # 6 Col Centro. Polotitl?n, Estado de M?xico, CP 54200  |  Instituto Nacional de Transparencia, Acceso a la Informaci?n y Protecci?n de Datos Personales, INAI   
 United Kingdom  |  Ritchie Bros. Auctioneers (UK) Limited  |  Concordiastraat 20  
 4811 NB Breda, The Netherlands  |  Information Commissioner's Office   
 The Netherlands  |  Ritchie Bros. Auctioneers B.V.  |  Concordiastraat 20  
