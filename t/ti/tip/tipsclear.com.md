@@ -1,34 +1,304 @@
-> *The following text is extracted and transformed from the tipsclear.com privacy policy that was archived on 2015-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151215012923id_/http%3A//www.tipsclear.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tipsclear.com privacy policy that was archived on 2019-03-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190330090008id_/https%3A//www.tipsclear.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy - Tips Clear Beauty Business Health Tech Travel and General
 
-**Privacy Policy for www.tipsclear.com**
+## Who we are
 
-If you require any more information or have any questions about our privacy policy, please feel free to contact us by email at tipscleardirectory@gmail.com.
+Our website address is: https://www.tipsclear.com.
 
-At www.tipsclear.com, the privacy of our visitors is of extreme importance to us. This privacy policy document outlines the types of personal information is received and collected by www.tipsclear.com and how it is used.
+## What personal data we collect and why we collect it
 
-**Log Files**  
-Like many other Web sites, www.tipsclear.com makes use of log files. The information inside the log files includes internet protocol ( IP ) addresses, type of browser, Internet Service Provider ( ISP ), date/time stamp, referring/exit pages, and number of clicks to analyze trends, administer the site, track user’s movement around the site, and gather demographic information. IP addresses, and other such information are not linked to any information that is personally identifiable.
+### 
 
-**Cookies and Web Beacons**  
-www.tipsclear.com does use cookies to store information about visitors preferences, record user-specific information on which pages the user access or visit, customize Web page content based on visitors browser type or other information that the visitor sends via their browser.
+When visitors leave comments on the site we collect the data shown in the comments form, and also the visitor’s IP address and browser user agent string to help spam detection.
 
-**DoubleClick DART Cookie**  
-.:: Google, as a third party vendor, uses cookies to serve ads on www.tipsclear.com.  
-.:: Google’s use of the DART cookie enables it to serve ads to users based on their visit to www.tipsclear.com and other sites on the Internet.  
-.:: Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at the following URL – http://www.google.com/privacy_ads.html
+An anonymized string created from your email address (also called a hash) may be provided to the Gravatar service to see if you are using it. The Gravatar service privacy policy is available here: https://automattic.com/privacy/. After approval of your comment, your profile picture is visible to the public in the context of your comment.
 
-Some of our advertising partners may use cookies and web beacons on our site. Our advertising partners include ….  
-Google Adsense  
-Commission Junction  
-Clickbank  
-Amazon
+### Media
 
-These third-party ad servers or ad networks use technology to the advertisements and links that appear on www.tipsclear.com send directly to your browsers. They automatically receive your IP address when this occurs. Other technologies ( such as cookies, JavaScript, or Web Beacons ) may also be used by the third-party ad networks to measure the effectiveness of their advertisements and / or to personalize the advertising content that you see.
+If you upload images to the website, you should avoid uploading images with embedded location data (EXIF GPS) included. Visitors to the website can download and extract any location data from images on the website.
 
-www.tipsclear.com has no access to or control over these cookies that are used by third-party advertisers.
+### Contact forms
 
-You should consult the respective privacy policies of these third-party ad servers for more detailed information on their practices as well as for instructions about how to opt-out of certain practices. www.tipsclear.com’s privacy policy does not apply to, and we cannot control the activities of, such other advertisers or web sites.
+### Cookies
 
-If you wish to disable cookies, you may do so through your individual browser options. More detailed information about cookie management with specific web browsers can be found at the browsers’ respective websites.
+If you leave a comment on our site you may opt-in to saving your name, email address and website in cookies. These are for your convenience so that you do not have to fill in your details again when you leave another comment. These cookies will last for one year.
+
+If you have an account and you log in to this site, we will set a temporary cookie to determine if your browser accepts cookies. This cookie contains no personal data and is discarded when you close your browser.
+
+When you log in, we will also set up several cookies to save your login information and your screen display choices. Login cookies last for two days, and screen options cookies last for a year. If you select “Remember Me”, your login will persist for two weeks. If you log out of your account, the login cookies will be removed.
+
+If you edit or publish an article, an additional cookie will be saved in your browser. This cookie includes no personal data and simply indicates the post ID of the article you just edited. It expires after 1 day.
+
+### Embedded content from other websites
+
+Articles on this site may include embedded content (e.g. videos, images, articles, etc.). Embedded content from other websites behaves in the exact same way as if the visitor has visited the other website.
+
+These websites may collect data about you, use cookies, embed additional third-party tracking, and monitor your interaction with that embedded content, including tracking your interaction with the embedded content if you have an account and are logged in to that website.
+
+### Analytics
+
+## 
+
+## How long we retain your data
+
+If you leave a comment, the comment and its metadata are retained indefinitely. This is so we can recognize and approve any follow-up comments automatically instead of holding them in a moderation queue.
+
+For users that register on our website (if any), we also store the personal information they provide in their user profile. All users can see, edit, or delete their personal information at any time (except they cannot change their username). Website administrators can also see and edit that information.
+
+## What rights you have over your data
+
+If you have an account on this site, or have left comments, you can request to receive an exported file of the personal data we hold about you, including any data you have provided to us. You can also request that we erase any personal data we hold about you. This does not include any data we are obliged to keep for administrative, legal, or security purposes.
+
+## Where we send your data
+
+Visitor comments may be checked through an automated spam detection service.
+
+## Activity
+
+This feature only records activities of a site’s registered users, and the retention duration of activity data will depend on the site’s plan and activity type.
+
+Data Used: To deliver this functionality and record activities around site management, the following information is captured: user email address, user role, user login, user display name, WordPress.com and local user IDs, the activity to be recorded, the WordPress.com-connected site ID of the site on which the activity takes place, the site’s Jetpack version, and the timestamp of the activity. Some activities may also include the actor’s IP address (login attempts, for example) and user agent.
+
+Activity Tracked: Login attempts/actions, post and page update and publish actions, comment/pingback submission and management actions, plugin and theme management actions, widget updates, user management actions, and the modification of other various site settings and options. Retention duration of activity data depends on the site’s plan and activity type. See the complete list of currently-recorded activities (along with retention information).
+
+Data Synced (?): Successful and failed login attempts, which will include the actor’s IP address and user agent.
+
+## Ads
+
+Data Used: The following information (made available from the visitor’s browser) is collected and sent to Automattic’s Demand Partners: IP address, geographical data (derived from the IP address), user agent, operating system, device type, unique user ID (randomly generated identifier), current URL, and IAB (Interactive Advertising Bureau) interest category. Log data (IP address, geographical data, user agent, operating system, device type) is stored for 30 days. The unique user ID is stored in cookies and is retained for 1 year.
+
+Activity Tracked: Ad impressions, video-related events (i.e. pause, mute, 100% plays, etc.) or errors, and ad click events. Various cookies are used for the following purposes: delivering targeted advertisements to specific visitors, storing user identifiers, and collecting anonymous ad platform stats.
+
+## Carousel
+
+Image views are only recorded if the site owner, has explicitly enabled image view stats tracking for this feature via the jetpack_enable_carousel_stats filter.
+
+Data Used: If image view tracking is enabled, the following information is used: IP address, WordPress.com user ID (if logged in), WordPress.com username (if logged in), user agent, visiting URL, referring URL, the timestamp of the event, browser language, country code.
+
+## Activity Tracker: Image views.
+
+## 
+
+## This feature is only accessible to users logged in to WordPress.com.
+
+Data Used: In order to process a comment like, the following information is used: WordPress.com user ID/username (you must be logged in to use this feature), the local site-specific user ID (if the user is signed in to the site on which the like occurred), and a true/false data point that tells us if the user liked a specific comment. If you perform a like action from one of our mobile apps, some additional information is used to track the activity: IP address, user agent, timestamp of event, blog ID, browser language, country code, and device info.
+
+## 
+
+## Contact Form
+
+Data Used: If Akismet is enabled on the site, the contact form submission data — IP address, user agent, name, email address, website, and message — is submitted to the Akismet service (also owned by Automattic) for the sole purpose of spam checking. The actual submission data is stored in the database of the site on which it was submitted and is emailed directly to the owner of the form (i.e. the site author who published the page on which the contact form resides). This email will include the submitter’s IP address, timestamp, name, email address, website, and message.
+
+Data Synced (?): Post and post meta data associated with a user’s contact form submission. If Akismet is enabled on the site, the IP address and user agent originally submitted with the comment are synced, as well, as they are stored in post meta.
+
+## Google Analytics
+
+Data Used: Please refer to the appropriate Google Analytics documentation for the specific type of data it collects. For sites running WooCommerce (also owned by Automattic) and this feature simultaneously and having all purchase tracking explicitly enabled, purchase events will send Google Analytics the following information: order number, product id and name, product category, total cost, and quantity of items purchased. Google Analytics does offer IP anonymization, which can be enabled by the site owner.
+
+Activity Tracked: This feature sends page view events (and potentially video play events) over to Google Analytics for consumption. For sites running WooCommerce-powered stores, some additional events are also sent to Google Analytics: shopping cart additions and removals, product listing views and clicks, product detail views, and purchases. Tracking for each specific WooCommerce event needs to be enabled by the site owner.
+
+## Gravatar Hovercards
+
+Data Used: This feature will send a hash of the user’s email address (if logged in to the site or WordPress.com — or if they submitted a comment on the site using their email address that is attached to an active Gravatar profile) to the Gravatar service (also owned by Automattic) in order to retrieve their profile image.
+
+### Infinite Scroll
+
+Data Used: In order to record page views via WordPress.com Stats (which must be enabled for page view tracking here to work) with additional loads, the following information is used: IP address, WordPress.com user ID (if logged in), WordPress.com username (if logged in), user agent, visiting URL, referring URL, timestamp of event, browser language, country code.
+
+Activity Tracked: Page views will be tracked with each additional load (i.e. when you scroll down to the bottom of the page and a new set of posts loads automatically). If the site owner has enabled Google Analytics to work with this feature, a page view event will also be sent to the appropriate Google Analytics account with each additional load.
+
+## 
+
+Data Used: Commenter’s name, email address, and site URL (if provided via the comment form), timestamp, and IP address. Additionally, a jetpack.wordpress.com IFrame receives the following data: WordPress.com blog ID attached to the site, ID of the post on which the comment is being submitted, commenter’s local user ID (if available), commenter’s local username (if available), commenter’s site URL (if available), MD5 hash of the commenter’s email address (if available), and the comment content. If Akismet (also owned by Automattic) is enabled on the site, the following information is sent to the service for the sole purpose of spam checking: commenter’s name, email address, site URL, IP address, and user agent.
+
+Activity Tracked: The comment author’s name, email address, and site URL (if provided during the comment submission) are stored in cookies. Learn more about these cookies.
+
+Data Synced (?): All data and metadata (see above) associated with comments. This includes the status of the comment and, if Akismet is enabled on the site, whether or not it was classified as spam by Akismet.
+
+## Likes
+
+This feature is only accessible to users logged in to WordPress.com.
+
+Data Used: In order to process a post like action, the following information is used: IP address, WordPress.com user ID, WordPress.com username, WordPress.com-connected site ID (on which the post was liked), post ID (of the post that was liked), user agent, timestamp of event, browser language, country code.
+
+## Activity Tracked: Post likes.
+
+## Mobile Theme
+
+## Data Used: A visitor’s preference on viewing the mobile version of a site.
+
+Activity Tracked: A cookie (akm_mobile) is stored for 3.5 days to remember whether or not a visitor of the site wishes to view its mobile version. Learn more about this cookie.
+
+## Notifications
+
+This feature is only accessible to registered users of the site who are logged in to WordPress.com.
+
+Data Used: IP address, WordPress.com user ID, WordPress.com username, WordPress.com-connected site ID and URL, Jetpack version, user agent, visiting URL, referring URL, timestamp of event, browser language, country code. Some visitor-related information or activity may be sent to the site owner via this feature. This may include: email address, WordPress.com username, site URL, email address, comment content, follow actions, etc.
+
+Activity Tracked: Sending notifications (i.e. when we send a notification to a particular user), opening notifications (i.e. when a user opens a notification that they receive), performing an action from within the notification panel (e.g. liking a comment or marking a comment as spam), and clicking on any link from within the notification panel/interface.
+
+## Protect
+
+Data Used: In order to check login activity and potentially block fraudulent attempts, the following information is used: attempting user’s IP address, attempting user’s email address/username (i.e. according to the value they were attempting to use during the login process), and all IP-related HTTP headers attached to the attempting user.
+
+Activity Tracked: Failed login attempts (these include IP address and user agent). We also set a cookie (jpp_math_pass) for 1 day to remember if/when a user has successfully completed a math captcha to prove that they’re a real human. Learn more about this cookie.
+
+Data Synced (?): Failed login attempts, which contain the user’s IP address, attempted username or email address, and user agent information.
+
+## Search
+
+This feature is only available to sites on the Professional plan.
+
+Data Used: Any of the visitor-chosen search filters and query data in order to process a search request on the WordPress.com servers.
+
+## Sharing
+
+Data Used: When sharing content via email (this option is only available if Akismet is active on the site), the following information is used: sharing party’s name and email address (if the user is logged in, this information will be pulled directly from their account), IP address (for spam checking), user agent (for spam checking), and email body/content. This content will be sent to Akismet (also owned by Automattic) so that a spam check can be performed. Additionally, if reCAPTCHA (by Google) is enabled by the site owner, the sharing party’s IP address will be shared with that service. You can find Google’s privacy policy here.
+
+## Simple Payments
+
+This feature is only available to sites on the Premium and Professional plans, and the actual payment processing is handled by PayPal.
+
+Data Used: Transaction amount, transaction currency code, product title, product price, product ID, order quantity, PayPal payer ID, and PayPal transaction ID.
+
+Activity Tracked: The PayPal payer ID, transaction ID, and HTTP referrer are sent with a payment completion tracking event that is attached to the site owner.
+
+Data Synced (?): PayPal transaction ID, PayPal transaction status, PayPal product ID, quantity, price, customer email address, currency, and payment button CTA text.
+
+Because payments are processed by PayPal, we recommend reviewing its privacy policy.
+
+## Subscriptions
+
+Data Used: To initiate and process subscriptions, the following information is used: subscriber’s email address and the ID of the post or comment (depending on the specific subscription being processed). In the event of a new subscription being initiated, we also collect some basic server data, including all of the subscribing user’s HTTP request headers, the IP address from which the subscribing user is viewing the page, and the URI which was given in order to access the page (REQUEST_URI and DOCUMENT_URI). This server data used for the exclusive purpose of monitoring and preventing abuse and spam.
+
+Activity Tracked: Functionality cookies are set for a duration of 347 days to remember a visitor’s blog and post subscription choices if, in fact, they have an active subscription.
+
+## Video Hosting
+
+This feature is only available to sites on the Premium and Professional plans.
+
+Data Used: For video play tracking via WordPress.com Stats, the following information is used: viewer’s IP address, WordPress.com user ID (if logged in), WordPress.com username (if logged in), user agent, visiting URL, referring URL, timestamp of event, browser language, country code. If Google Analytics is enabled, video play events will be sent there, as well.
+
+## Activity Tracked: Video plays.
+
+## WooCommerce Services
+
+Data Used: For payments with PayPal or Stripe: purchase total, currency, billing information. For taxes: the value of goods in the cart, value of shipping, destination address. For checkout rates: destination address, purchased product IDs, dimensions, weight, and quantities. For shipping labels: customer’s name, address as well as the dimensions, weight, and quantities of purchased products.
+
+Data Synced (?): For payments, we send the purchase total, currency and customer’s billing information to the respective payment processor. Please see the respective third party’s privacy policy (Stripe’s Privacy Policy and PayPal’s Privacy Policy) for more details. For automated taxes we send the value of goods in the cart, the value of shipping, and the destination address to TaxJar. Please see TaxJar’s Privacy Policy for details about how they handle this information. For checkout rates we send the destination ZIP/postal code and purchased product dimensions, weight and quantities to USPS or Canada Post, depending on the service used. For shipping labels we send the customer’s name, address as well as the dimensions, weight, and quantities of purchased products to EasyPost. We also store the purchased shipping labels on our server to make it easy to reprint them and handle support requests.
+
+Last updated: March 3, 2019 Tips Clear Beauty Business Health Tech Travel and General (“us”, “we”, or “our”) operates the Tips Clear Beauty Business Health Tech Travel and General website (the “Service”).
+
+This page informs you of our policies regarding the collection, use and disclosure of Personal Information when you use our Service.
+
+We will not use or share your information with anyone except as described in this Privacy Policy.
+
+We use your Personal Information for providing and improving the Service. By using the Service, you agree to the collection and use of information in accordance with this policy. Unless otherwise defined in this Privacy Policy, terms used in this Privacy Policy have the same meanings as in our Terms and Conditions, accessible at https://www.tipsclear.com
+
+## Information Collection And Use
+
+While using our Service, we may ask you to provide us with certain personally identifiable information that can be used to contact or identify you. Personally identifiable information (“Personal Information”) may include, but is not limited to:
+
+  * Name
+  * Email address
+
+
+
+## Log Data
+
+We collect information that your browser sends whenever you visit our Service (“Log Data”). This Log Data may include information such as your computer’s Internet Protocol (“IP”) address, browser type, browser version, the pages of our Service that you visit, the time and date of your visit, the time spent on those pages and other statistics.
+
+## Google AdSense & DoubleClick Cookie
+
+Google, as a third party vendor, uses cookies to serve ads on our Service.
+
+## Cookies
+
+Cookies are files with small amount of data, which may include an anonymous unique identifier. Cookies are sent to your browser from a web site and stored on your computer’s hard drive.
+
+We use “cookies” to collect information. You can instruct your browser to refuse all cookies or to indicate when a cookie is being sent. However, if you do not accept cookies, you may not be able to use some portions of our Service.
+
+## Service Providers
+
+We may employ third party companies and individuals to facilitate our Service, to provide the Service on our behalf, to perform Service-related services or to assist us in analyzing how our Service is used.
+
+These third parties have access to your Personal Information only to perform these tasks on our behalf and are obligated not to disclose or use it for any other purpose.
+
+## Security
+
+The security of your Personal Information is important to us, but remember that no method of transmission over the Internet, or method of electronic storage is 100% secure. While we strive to use commercially acceptable means to protect your Personal Information, we cannot guarantee its absolute security.
+
+## Links To Other Sites
+
+Our Service may contain links to other sites that are not operated by us. If you click on a third party link, you will be directed to that third party’s site. We strongly advise you to review the Privacy Policy of every site you visit.
+
+We have no control over, and assume no responsibility for the content, privacy policies or practices of any third party sites or services.
+
+## Children’s Privacy
+
+Our Service does not address anyone under the age of 18 (“Children”).
+
+We do not knowingly collect personally identifiable information from children under 18. If you are a parent or guardian and you are aware that your child has provided us with Personal Information, please contact us. If we discover that a child under 18 has provided us with Personal Information, we will delete such information from our servers immediately.
+
+## Compliance With Laws
+
+We will disclose your Personal Information where required to do so by law or subpoena.
+
+## Changes To This Privacy Policy
+
+We may update our Privacy Policy from time to time. We will notify you of any changes by posting the new Privacy Policy on this page.
+
+You are advised to review this Privacy Policy periodically for any changes. Changes to this Privacy Policy are effective when they are posted on this page.
+
+## Contact Us
+
+If you have any questions about this Privacy Policy, please contact us.
+
+Last updated: March 3, 2019
+
+Please read these Terms of Use (“Terms”, “Terms of Use”) carefully before using the https://www.tipsclear.com website (the “Service”) operated by Tips Clear Beauty Business Health Tech Travel and General (“us”, “we”, or “our”).
+
+Your access to and use of the Service is conditioned on your acceptance of and compliance with these Terms. These Terms apply to all visitors, users and others who access or use the Service.
+
+By accessing or using the Service you agree to be bound by these Terms. If you disagree with any part of the terms then you may not access the Service.
+
+## Intellectual Property
+
+The Service and its original content, features and functionality are and will remain the exclusive property of Tips Clear Beauty Business Health Tech Travel and General and its licensors.
+
+## Links To Other Web Sites
+
+Our Service may contain links to third-party web sites or services that are not owned or controlled by Tips Clear Beauty Business Health Tech Travel and General.
+
+Tips Clear Beauty Business Health Tech Travel and General has no control over, and assumes no responsibility for, the content, privacy policies, or practices of any third party web sites or services. You further acknowledge and agree that Tips Clear Beauty Business Health Tech Travel and General shall not be responsible or liable, directly or indirectly, for any damage or loss caused or alleged to be caused by or in connection with use of or reliance on any such content, goods or services available on or through any such web sites or services.
+
+We strongly advise you to read the terms and conditions and privacy policies of any third-party web sites or services that you visit.
+
+## Termination
+
+We may terminate or suspend access to our Service immediately, without prior notice or liability, for any reason whatsoever, including without limitation if you breach the Terms.
+
+All provisions of the Terms which by their nature should survive termination shall survive termination, including, without limitation, ownership provisions, warranty disclaimers, indemnity and limitations of liability.
+
+## Disclaimer
+
+Your use of the Service is at your sole risk. The Service is provided on an “AS IS” and “AS AVAILABLE” basis. The Service is provided without warranties of any kind, whether express or implied, including, but not limited to, implied warranties of merchantability, fitness for a particular purpose, non-infringement or course of performance.
+
+## Governing Law
+
+These Terms shall be governed and construed in accordance with the laws of India without regard to its conflict of law provisions.
+
+Our failure to enforce any right or provision of these Terms will not be considered a waiver of those rights. If any provision of these Terms is held to be invalid or unenforceable by a court, the remaining provisions of these Terms will remain in effect. These Terms constitute the entire agreement between us regarding our Service, and supersede and replace any prior agreements we might have between us regarding the Service.
+
+## Changes
+
+We reserve the right, at our sole discretion, to modify or replace these Terms at any time. If a revision is material we will try to provide at least 30 days notice prior to any new terms taking effect. What constitutes a material change will be determined at our sole discretion.
+
+By continuing to access or use our Service after those revisions become effective, you agree to be bound by the revised terms. If you do not agree to the new terms, please stop using the Service.
+
+## Contact Us
+
+If you have any questions about these Terms, please contact us.
+
+[ ](https://www.dmca.com/Protection/Status.aspx?ID=83f1217c-87b8-49d2-956c-a4d813b94df4 "DMCA.com Protection Status")
