@@ -1,29 +1,26 @@
-> *The following text is extracted and transformed from the goodrx.com privacy policy that was archived on 2018-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180513134432id_/https%3A//www.goodrx.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the goodrx.com privacy policy that was archived on 2019-03-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190330141601id_/https%3A//www.goodrx.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy – Support
 
-Last modified: April 25, 2018
+Last modified: March 27, 2019
 
 Hello from GoodRx. This privacy policy covers the GoodRx website (goodrx.com) and the GoodRx mobile apps (collectively, the “Site”).
 
 First of all, thank you for placing your trust in us. We understand that your personal medical information is sensitive, and also that privacy policies and legalese can be scary, so we want to thank you for (1) trusting GoodRx with the limited personal medical information that we receive from you (more on that below) and (2) taking the time to read this privacy policy. We’ll try to keep it simple!
 
-If you are still confused by the privacy policy after reading this, please reach out to our co-CEO, Doug Hirsch (you might have seen him in our commercials!) and he will make me (the lawyer) re-write these privacy policies. Please visit [https://support.goodrx.com](https://support.goodrx.com/) to leave us a note.
+If you are still confused by the privacy policy after reading this, please reach out to our co-CEO, Doug Hirsch (you might have seen him in our commercials!) and he will make me (the lawyer) re-write these privacy policies. Please email us at [help@goodrx.com](mailto:help@goodrx.com).
 
 For those of you who don’t like to read long privacy policies, here’s a quick summary:
 
-  1. **GoodRx does not sell your personal medical data.**
+1. **  GoodRx does not sell your personal medical data.**
 
-  2. No, really. GoodRx does not sell your personal medical data. In other words, GoodRx does not sell information regarding your drug prescriptions and medical conditions that are linked to your name, contact information and other personal data you provide us.
+2\. No, really. GoodRx does not sell your personal medical data. In other words, GoodRx does not sell information regarding your drug prescriptions and medical conditions that are linked to your name, contact information and other personal data you provide us.
 
-  3. In limited cases, GoodRx uses personal medical data that is linked to your name and contact information. We use this data to fulfill services that you request from us (such as sending you a discount card, etc), and to reach out to you about prescription savings opportunities.
+3\. In limited cases, GoodRx uses personal medical data that is linked to your name and contact information. We use this data to fulfill services that you request from us (such as sending you a discount card, etc), and to reach out to you about prescription savings opportunities.
 
-  4. When we talk about medical data, what we typically mean is the name, dosage, form, and quantity of a prescription you’ve filled through us. We don’t have access to the rest of your medical history unless you provide it to us.
+4\. When we talk about medical data, what we typically mean is the name, dosage, form, and quantity of a prescription you’ve filled through us. We don’t have access to the rest of your medical history unless you provide it to us.
 
-
-
-
-#### **Information Collected by GoodRx (and How We Use It)**
+## **Information Collected by GoodRx (and How We Use It)**
 
 Most of the medical data that GoodRx collects from you is  **not**  linked to your name or contact information.
 
@@ -37,21 +34,13 @@ If you tell us which Medicare plan you are on, that information can be linked to
 
 Generally, GoodRx does not collect the name and contact information of visitors to the Site. However, if you register to receive certain services, you will need to provide us with some personal information so that we can provide these services. By providing your personal information, you agree to let us use such personal information in order to fulfill your requested service and to reach out to you about prescription savings opportunities. Here are some examples where you might provide us with your personal information that could be linked to your medical information: 
 
-    * In order to register for an account where you can keep track of your prescriptions,  **such as with a MyRx or a GoodRx Gold account** , you will need to provide us with  **some personal information**.
-
-
-    * In order to receive price alerts on a set of prescription drugs, sign up to receive a coupon, and/or e-mail or text a coupon to yourself, you will need to provide us your email address or phone number where we can text you. We will use the provided information to reach out to you about prescription savings opportunities.
-
-
-    * When you participate in GoodRx's Instant Savings program, we collect your personal and prescription information and use it in order to complete the requested transfer and/or application of the GoodRx coupon and to solicit your feedback on the program.
-
-
-    * If you request a discount card, you must give us your name and mailing address. We will use your provided information to send a discount card and reach out to you about prescription savings opportunities.
-
-
+  * In order to register for an account where you can keep track of your prescriptions, such as with a MyRx or a GoodRx Gold account, you will need to provide us with some personal information.
+  * In order to receive price alerts on a set of prescription drugs, sign up to receive a coupon, and/or e-mail or text a coupon to yourself, you will need to provide us your email address or phone number where we can text you. We will use the provided information to reach out to you about prescription savings opportunities.
+  * When you participate in GoodRx's Instant Savings program, we collect your personal and prescription information and use it in order to complete the requested transfer and/or application of the GoodRx coupon and to solicit your feedback on the program.
+  * If you request a discount card, you must give us your name and mailing address. We will use your provided information to send a discount card and reach out to you about prescription savings opportunities.
   * **Information You Provide to Marketing Partners**
 
-Sometimes, GoodRx works with third parties that conduct marketing campaigns where you can opt into receiving materials and where you agree to provide us with your name, contact information and, in cases where you choose to provide it, your medical information. We use this information to fulfill your request for GoodRx materials and as specified by these marketing campaigns. If you receive materials you don’t want from us, please reach out at [https://support.goodrx.com](https://support.goodrx.com/) and we’ll remove your contact info from our marketing lists.
+Sometimes, GoodRx works with third parties that conduct marketing campaigns where you can opt into receiving materials and where you agree to provide us with your name, contact information and, in cases where you choose to provide it, your medical information. We use this information to fulfill your request for GoodRx materials and as specified by these marketing campaigns. If you receive materials you don’t want from us, please email help@goodrx.com and we’ll remove your contact info from our marketing lists.
 
   * **Information You Provide to Your Health Care Professionals**
 
@@ -84,11 +73,11 @@ We use cookies to collect, store and sometimes track information for statistical
 
   * **Remarketing**
 
-We use remarketing with Google and other remarketing providers to advertise online. We may place cookies, tags, pixels, SDKs and other tracking technology on your computer or other devices, or otherwise collect your personal information to assist Google, Facebook, other third parties, or GoodRx to feed advertisements or to send direct mail campaigns to you based on your past visits to GoodRx and other websites; and we may also allow other third parties, including Google, to do so as well. However, we never provide advertisers or any other third parties any information that reveals a personal health condition or personal health information.
+We use remarketing with Google and Facebook, and other remarketing providers to advertise online and offline. We may place cookies, tags, pixels, SDKs and other tracking technology on your computer or other devices, or otherwise collect and provide your personal information to assist Google, Facebook, other third parties, or GoodRx to feed advertisements or to send direct mail campaigns to you based on your past visits to GoodRx and other websites; and we may also allow other third parties, including Google, to do so as well. 
 
   * **Advertising on GoodRx**
 
-We use third-party advertising companies to serve ads when you visit our GoodRx. These companies may use information (not including your name, address email address or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, click [here](http://www.networkadvertising.org/).
+We use third-party advertising companies to serve ads when you visit GoodRx. These companies may use information (not including your name, address email address or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you. GoodRx adheres to Digital Advertising Alliance principles. If you would like more information about this practice and to know your choices about not having this information used by these companies, click [here](http://www.networkadvertising.org/).
 
   * **Demographics and Interest Information**
 
@@ -97,13 +86,13 @@ The GoodRx website has implemented Google Analytics Demographics and Interest re
 
 
 
-#### **Information Received From Pharmacy Benefit Managers**  
+## **Information Received From Pharmacy Benefit Managers**  
 
 Most prescriptions purchased in the United States, including prescriptions filled through the use of discount coupons, loyalty cards or insurance co-pays, result in the pharmacy reporting patient data back to the company that provides the benefit. When you use a coupon provided by GoodRx, we receive information about the transaction from the corresponding Pharmacy Benefit Manager.
 
 The data GoodRx uses for our ordinary business operations is de-identified. In other words, information such as your name, address, and date of birth are not viewable in these files. GoodRx may use data received from Pharmacy Benefit Managers to improve services and business operations, including for analysis (for instance, to make sure the pricing displayed on the Site matches the price users get at the pharmacy). GoodRx may share (but not sell) such aggregated, de-identified data with partners in a variety of ways, for instance by providing reports breaking down usage by geography. When we provide this information, we take legal and technical measures to ensure that the data does not identify you and cannot be associated back to you.
 
-#### **When do we share information from a third party that can identify you?**
+## **When do we share information from a third party that can identify you?**
 
 GoodRx rarely shares information with a third party that associates you personally with your specific medical information. When we do disclose your personal information in conjunction with your specific medical information, GoodRx ensures that these third parties are bound to comply with federal standards as to how to treat medical data that is linked with your name, contact information and other personal identifiers. Here are some examples of when we do share your personal contact information.
 
@@ -113,22 +102,18 @@ GoodRx rarely shares information with a third party that associates you personal
 
 We will share the personal information you give us when you participate in GoodRx's Instant Savings program in order to complete the requested transfer and/or application of the GoodRx program.
 
-  * We may share your name and contact information, and other information you provide us about your coupon use and pharmacy experience, to help fulfill a customer service request that you send us. For instance, in some cases, we might need to use your personal information in reaching out to a pharmacy to figure out why a coupon was not accepted.
-
-  * We may share your name and contact information, and other information you provide us about your coupon use and pharmacy experience, to help fulfill a customer service request that you send us. For instance, in some cases, we might need to use your personal information in reaching out to a pharmacy to figure out why a coupon was not accepted.
-
+  * We may share your name and contact information, and other information you provide us about your coupon use and pharmacy experience, to help fulfill a customer service request that you send us. For instance, in some cases, we might need to use your personal information in reaching out to a pharmacy to figure out why a coupon was not accepted. 
   * We may disclose information you provide if required to do so by law or if we have a good faith belief that disclosure is necessary to (1) comply with the law or with legal process served on us; (2) protect and defend our rights or property; or (3) act in an emergency to protect someone's safety. GoodRx may transfer its user database, including personal information contained therein, to a third party who acquires all or substantially all of the assets or stock of GoodRx whether by merger, acquisition, reorganization or otherwise.
-
 
 
 
 GoodRx may transfer its user database, including personal information contained therein, to a third party who acquires all or substantially all of the assets or stock of GoodRx whether by merger, acquisition, reorganization or otherwise.
 
-#### **What are your options to control the use of your personal information?**  
+## **What are your options to control the use of your personal information?**  
 
-If you would like more details on how to delete the personal information you provided us or to limit the use of the personal information you provided us, please visit us at [https://support.goodrx.com](https://support.goodrx.com/) to learn more. Keep in mind that there are cases where we are required by law to keep a copy of the data, such as to comply with CAN-SPAM (if you request that we do not email you, we need to keep a copy of your email in our blacklist so that we can keep honoring your request).
+If you would like more details on how to delete the personal information you provided us or to limit the use of the personal information you provided us, please visit us [here](https://support.goodrx.com/hc/en-us/articles/115004998126-I-want-to-limit-the-use-of-my-personal-information) to learn more. Keep in mind that there are cases where we are required by law to keep a copy of the data, such as to comply with CAN-SPAM (if you request that we do not email you, we need to keep a copy of your email in our blacklist so that we can keep honoring your request).
 
-**What about kids’ personally identifiable information?**
+## **What about kids’ personally identifiable information?**
 
 Our Site is not directed to children under the age of 13. We assume our website is used by adults or minors supervised by a parent or guardian. We respect the privacy of parents and children and are committed to complying with the Children's Online Privacy Protection Act ("COPPA"). On those areas of our Site that ask for age, we do not collect personal information from individuals who identify themselves as under the age of 13 except in those limited circumstances where we believe that such collection is permitted under COPPA.
 
@@ -138,7 +123,7 @@ If a parent believes that his or her child has provided us with personal informa
 
 We believe that parents should supervise their children's online activities and consider using parental control tools available from online services and software manufacturers that help provide a kid-friendly online environment. These tools can also prevent children from otherwise disclosing online their name, address and other personal information without parental permission.
 
-#### **What else should you know about your privacy?**  
+## **What else should you know about your privacy?**  
 
   * **Security**
 
@@ -158,18 +143,18 @@ At this time we do not respond to browser "Do Not Track" signals.
 
 The GoodRx Services are intended for use only by residents of the United States. As of May 25, 2018, GoodRx redirects website visitors from the European Union to a message notifying such visitors that they cannot use GoodRx, and does not permit them to register or to use our services. We do not collect any personally identifying information from such visitors to our Site, although we do archive their IP addresses.
 
-#### **Changes to this Privacy Policy**
+## **Changes to this Privacy Policy**
 
 We may make changes to our privacy policy from time to time. When we do so, we will post the revised privacy policy on our Site. Please check the revision date at the top of this page to determine if the policy has been modified since you last reviewed it.
 
-#### **Contacting GoodRx**
+## **Contacting GoodRx**
 
-We would like to receive your comments and questions about this Privacy Policy and any other matter you have regarding our Site. Please address comments or questions to us via [https://support.goodrx.com](https://support.goodrx.com/).
+We would like to receive your comments and questions about this Privacy Policy and any other matter you have regarding our Site. Please address comments or questions to us via phone by calling 855-268-2822. We are available Monday to Sunday 8am to 7pm CST. 
 
-#### **Acceptance of Privacy Policy**
+## **Acceptance of Privacy Policy**
 
 Your use of our Site, including any dispute concerning privacy, is subject to this Privacy Policy and the Terms of Use posted on our Site. BY USING OUR SITE, YOU ARE ACCEPTING THE PRACTICES SET OUT IN THIS PRIVACY POLICY AND TERMS OF USE.
 
-#### **To Opt-Out Of Future Communications**
+## **To Opt-Out Of Future Communications**
 
-If you do not want to receive further communication from GoodRx, please visit [https://support.goodrx.com](https://support.goodrx.com/).
+If you do not want to receive further communication from GoodRx, please email help@goodrx.com.
