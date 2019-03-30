@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the kvoa.com privacy policy that was archived on 2018-09-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180919045813id_/https%3A//kvoa.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kvoa.com privacy policy that was archived on 2019-03-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190330121254id_/https%3A//kvoa.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - KVOA.com
+# Privacy Policy | KVOA.com
 
 Welcome to the website for KVOA.com (the “Site”). This Site is owned by Cordillera Communications (“Cordillera Communications” or “us”) and powered by Synapse Multimedia. We at Cordillera Communications recognize that many visitors to our website are concerned about the information that they provide to us or that may be collected, and how we treat that information. In order to address those concerns we have developed this Website Privacy Statement.
 
