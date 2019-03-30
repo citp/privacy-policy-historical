@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kypost.com privacy policy that was archived on 2018-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181212201839id_/http%3A//www.wcpo.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kypost.com privacy policy that was archived on 2019-03-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190330133435id_/https%3A//www.wcpo.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
