@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the limaohio.com privacy policy that was archived on 2018-04-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180428235811id_/http%3A//www.limaohio.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the limaohio.com privacy policy that was archived on 2019-03-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190330163429id_/https%3A//www.limaohio.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - The Lima News
 
