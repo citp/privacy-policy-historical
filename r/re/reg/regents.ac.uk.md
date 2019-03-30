@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the regents.ac.uk privacy policy that was archived on 2018-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181218033133id_/https%3A//www.regents.ac.uk/privacy-and-cookies) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the regents.ac.uk privacy policy that was archived on 2019-03-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190330210251id_/https%3A//www.regents.ac.uk/privacy-and-cookies) for the most accurate reproduction.*
 
-# Privacy and cookies
+# Privacy and cookies | Regent's University London
 
 Regent's University London is committed to protecting and respecting your privacy.
 
@@ -12,13 +12,17 @@ Regent’s University London is the 'data controller' as defined by the Data Pro
 
 This Policy is subject to change to meet new legislative requirements, so please check this page occasionally to ensure that you’re happy with any changes.
 
-Any questions regarding this Policy and our privacy practices should be sent by email to [privacy@regents.ac.uk](mailto:privacy@regents.ac.uk) or in writing to Governance Office, Regent's University London, Inner Circle, Regent's Park, London, NW1 4NS.
+Any questions regarding this Policy and our privacy practices should be sent by email to [privacy@regents.ac.uk](mailto:privacy@regents.ac.uk) or in writing to Governance Office, Regent's University London, Inner Circle, Regent's Park, London, NW1 4NS.
 
-[Student Collection Notice](https://web.archive.org/privacy-and-cookies/student-collection-notice "Student Collection Notice")
+## Student Collection Notice
+
+Each year we are required to send some of the information we hold about you to HESA (the Higher Education Statistics Agency). HESA uses this information to publish statistics about students in higher education and to provide services and information to other organisations, and to conduct surveys such as the National Student Survey (NSS) and the Graduate Outcomes Survey (GOS). All uses of your HESA information must comply with the General Data Protection Regulation 2016/679 (GDPR) and the Data Protection Act 2018.
+
+  To find out more about HESA, how and why they process your data, the legal basis for this processing, and your rights under data protection legislation, you can access HESA’s Student Collection Notice via the following link: [www.hesa.ac.uk/fpn](https://www.hesa.ac.uk/fpn)
 
 ## Who we are?
 
-Regent's University London is a private non-profit university located in London, United Kingdom. The university has an international student body with students coming from 140 countries overall. The university has its campus in Regent's Park, Central London.
+Regent's University London is a private non-profit university located in London, United Kingdom. The university has an international student body with students coming from 140 countries overall. The University has its campus in Regent's Park, Central London.
 
 ## Our commitment to securing your personal data
 
@@ -56,9 +60,9 @@ The elements of your information that we collect may include:
 
 We also collect information about you and your visit to our website automatically using Cookies.
 
-Please see [Appendix 1](https://web.archive.org/privacy-and-cookies/appendix-1-use-of-cookies "Appendix 1 Use of Cookies") for further details of our website usage information that is collected using cookies.
+Please see [Appendix 1](https://web.archive.org/privacy-and-cookies/appendix-1-use-of-cookies "Appendix 1 Use of Cookies") for further details of our website usage information that is collected using cookies.
 
-Full details of all the personal information we collect, the purpose for collecting along with the lawful basis for processing can be found in our Record of Processing. Any questions regarding the personal information we collect and the reasons we collect it should be sent by email to [privacy@regents.ac.uk](mailto:privacy@regents.ac.uk) or in writing to Governance Office, Regent's University London, Inner Circle, Regent's Park, London, NW1 4NS.
+Full details of all the personal information we collect, the purpose for collecting along with the lawful basis for processing can be found in our Record of Processing. Any questions regarding the personal information we collect and the reasons we collect it should be sent by email to [privacy@regents.ac.uk](mailto:privacy@regents.ac.uk) or in writing to Governance Office, Regent's University London, Inner Circle, Regent's Park, London, NW1 4NS.
 
 ## How is your information used?
 
@@ -103,7 +107,7 @@ We use technology on the registration, application and enquiry pages of our webs
 
 ## Marketing
 
-We would like to send you information about products and services of ours which may be of interest to you. If you have consented to receive marketing, you may opt out at a later date. You have a right at any time to stop us from contacting you for marketing purposes. If you no longer wish to be contacted for marketing purposes, please contact us by email to privacy@regents.ac.uk or in writing to Governance Office, Regent's University London, Inner Circle, Regent's Park, London, NW1 4NS.
+We would like to send you information about products and services of ours which may be of interest to you. If you have consented to receive marketing, you may opt out at a later date. You have a right at any time to stop us from contacting you for marketing purposes. If you no longer wish to be contacted for marketing purposes, please contact us by email to [privacy@regents.ac.uk](mailto:privacy@regents.ac.uk) or in writing to Governance Office, Regent's University London, Inner Circle, Regent's Park, London, NW1 4NS.
 
 ## Alumni and Fundraising
 
@@ -112,7 +116,7 @@ We have a separate privacy policy for alumni and fundraising activities, availab
 ## How long will we keep your information for?
 
 We will hold your personal information on our systems for as long as is necessary for the relevant activity, or as long as is set out in any relevant contract you hold with us. We regularly review the retention periods for personal information and we will securely destroy the out of retention information line with our retention and destruction policy.  
-Our approved retention schedule is available from [privacy@regents.ac.uk](mailto:privacy@regents.ac.uk).
+Our approved retention schedule is available from [privacy@regents.ac.uk](mailto:privacy@regents.ac.uk).
 
 Key personal information retention periods are:
 
@@ -140,7 +144,7 @@ We may also transfer your personal information to a third party if we are under 
 
 Disclosures will also be made by Regent’s University London as outlined below:
 
-a)To sponsors, government agencies and present or potential employers. One such body is the Home Office (for international students) and the Higher Education Statistics Agency (HESA); further information about the uses for which HESA processes personal data can be found on the HESA website at http://www.hesa.ac.uk/collection-notices/;
+a)To sponsors, government agencies and present or potential employers. One such body is the Home Office (for international students) and the Higher Education Statistics Agency (HESA); further information about the uses for which HESA processes personal data can be found on the HESA website at <http://www.hesa.ac.uk/collection-notices/>;
 
 b) Your contact details may also be passed to statutory reporting bodies and sector agencies such as the Higher Education Funding Council (HEFCE) (or successor bodies such as the Office for Students) for the purpose of administering the national student survey;
 
@@ -174,7 +178,7 @@ All the personal data we process is processed by our staff in the UK however for
 
 We have contractual relationships with selected third party providers to deliver services, and therefore process your personal information on our behalf.
 
-If you have any questions about our third party and the personal information they collect and the reasons they collect it should be sent by email to [privacy@regents.ac.uk](mailto:privacy@regents.ac.uk) or in writing to Governance Office, Regent's University London, Inner Circle, Regent's Park, London, NW1 4NS.
+If you have any questions about our third party and the personal information they collect and the reasons they collect it should be sent by email to [privacy@regents.ac.uk](mailto:privacy@regents.ac.uk) or in writing to Governance Office, Regent's University London, Inner Circle, Regent's Park, London, NW1 4NS.
 
 No third parties have access to your personal data unless we have a contractual relationship with them to deliver services on our behalf, or the law allows them to do so. We will not sell or rent your information to third parties. We will not share your information with third parties for marketing purposes.
 
@@ -192,17 +196,17 @@ Once your identity has been verified then you will be provided with the informat
 
 ## How you can access and update your information?
 
-The accuracy of your information is important to us. We’re working on ways to make it easier for you to review and correct the information that we hold about you. In the meantime, if you change email address, or any of the other information we hold is inaccurate or out of date, please email to [privacy@regents.ac.uk](mailto:privacy@regents.ac.uk) or in writing to Governance Office, Regent's University London, Inner Circle, Regent's Park, London, NW1 4NS.
+The accuracy of your information is important to us. We’re working on ways to make it easier for you to review and correct the information that we hold about you. In the meantime, if you change email address, or any of the other information we hold is inaccurate or out of date, please email to [privacy@regents.ac.uk](mailto:privacy@regents.ac.uk) or in writing to Governance Office, Regent's University London, Inner Circle, Regent's Park, London, NW1 4NS.
 
 ## What can I do if I believe the information you have about me is inaccurate?
 
-If at any point you believe the information we process on you is incorrect you can request to see this information and have it corrected or deleted. If you wish to raise a complaint on how we handled your personal data, you can contact us to have the matter investigated. please email to [privacy@regents.ac.uk](mailto:privacy@regents.ac.uk) or in writing to Governance Office, Regent's University London, Inner Circle, Regent's Park, London, NW1 4NS.
+If at any point you believe the information we process on you is incorrect you can request to see this information and have it corrected or deleted. If you wish to raise a complaint on how we handled your personal data, you can contact us to have the matter investigated. please email to [privacy@regents.ac.uk](mailto:privacy@regents.ac.uk) or in writing to Governance Office, Regent's University London, Inner Circle, Regent's Park, London, NW1 4NS.
 
-If you are not satisfied with our response or believe we are processing your personal data not in accordance with the law you can complain to the Information Commissioner’s Office [https://ico.org.uk](https://ico.org.uk/)
+If you are not satisfied with our response or believe we are processing your personal data not in accordance with the law you can complain to the Information Commissioner’s Office [https://ico.org.uk](https://ico.org.uk/)
 
 ## What can I do if I no longer wish the University to process my data?
 
-If you decide that you no longer wish to attend the University before enrolment/employment has taken place, then you have the right to withdraw your consent for data processing to take place and if request it that your data to be erased. If you wish to exercise this right then please email to [privacy@regents.ac.uk](mailto:privacy@regents.ac.uk) or in writing to Governance Office, Regent's University London, Inner Circle, Regent's Park, London, NW1 4NS.
+If you decide that you no longer wish to attend the University before enrolment/employment has taken place, then you have the right to withdraw your consent for data processing to take place and if request it that your data to be erased. If you wish to exercise this right then please email to [privacy@regents.ac.uk](mailto:privacy@regents.ac.uk) or in writing to Governance Office, Regent's University London, Inner Circle, Regent's Park, London, NW1 4NS.
 
 ## 16 or Under
 
@@ -220,7 +224,10 @@ We keep our privacy policy under regular review and we will place any updates on
 
 Please contact us if you have any question s about our privacy policy or information we hold about you:
 
-  * by email at: [privacy@regents.ac.uk](mailto:privacy@regents.ac.uk); or
-  * in writing to: Governance Office, Regent's University London, Inner Circle, Regent's Park, London, NW1 4NS.
+  * by email at: [privacy@regents.ac.uk](mailto:privacy@regents.ac.uk); or
+  * in writing to: Governance Office, Regent's University London, Inner Circle, Regent's Park, London, NW1 4NS.  
+ 
 
 
+
+[Further information on the cookies used on this site](https://web.archive.org/cookies "Cookies")
