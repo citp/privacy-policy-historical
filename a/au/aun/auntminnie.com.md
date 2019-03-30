@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the auntminnie.com privacy policy that was archived on 2018-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181228115756id_/http%3A//privacy.auntminnie.com/%3Fwf%3D7008) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the auntminnie.com privacy policy that was archived on 2019-03-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190330224529id_/http%3A//privacy.auntminnie.com/%3Fwf%3D7008) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy policy
 
 BioInformatics Inc., doing business as AuntMinnie ("AuntMinnie", "we", "us" or "our") grant you permission as a user ("User", "you" or "your") to access and use our sites, software, applications, content, products and services ("Services"), which are owned or licensed by us on the sites [www.auntminnie.com](http://www.auntminnie.com/) and [www.auntminnieeurope.com](http://www.auntminnieeurope.com/) and [www.auntminniecme.com](http://www.auntminniecme.com/) (collectively, the "Sites"). This Privacy Policy governs your use of the Sites and our provision of the Services on which this policy is posted. PLEASE READ THIS PRIVACY POLICY CAREFULLY BEFORE USING ANY OF OUR SERVICES. 
 
