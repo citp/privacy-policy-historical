@@ -1,41 +1,45 @@
-> *The following text is extracted and transformed from the zeppfeed.com privacy policy that was archived on 2017-11-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171112052627id_/http%3A//www.zeppfeed.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the zeppfeed.com privacy policy that was archived on 2019-03-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190330095447id_/https%3A//www.zeppfeed.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy | Zeppfeed
+# PRIVACY - Zeppfeed.com
 
-## Privacy Policy
+We value your readership and respect your privacy.  
+We never sell your personal information to third parties. This policy may be revised or updated at any time, so please check back often to find the latest version.
 
-**Privacy Policy for www.zeppfeed.com**
+If you require any more information or have any questions about our privacy policy, please feel free to contact us by email at zeppfeed@gmail.com
 
-If you require any more information or have any questions about our privacy policy, please feel free to contact us by email at **support@zeppfeed.com.**
+**Log Files**  
+Like many other Web sites, www.zeppfeed.com makes use of log files. The information inside the log files includes internet protocol ( IP ) addresses, type of browser, Internet Service Provider ( ISP ), date/time stamp, referring/exit pages, and number of clicks to analyse trends, administer the site, track user’s movement around the site, and gather demographic information. IP addresses, and other such information are not linked to any information that is personally identifiable.
 
-At www.zeppfeed.com, the privacy of our visitors is of extreme importance to us. This privacy policy document outlines the types of personal information is received and collected by www.zeppfeed.com and how it is used.
-
-**Log Files**
-
-Like many other Web sites, www.zeppfeed.com makes use of log files. The information inside the log files includes internet protocol ( IP ) addresses, type of browser, Internet Service Provider ( ISP ), date/time stamp, referring/exit pages, and number of clicks to analyze trends, administer the site, track user's movement around the site, and gather demographic information. IP addresses, and other such information are not linked to any information that is personally identifiable. 
-
-**Cookies and Web Beacons**
-
+**Cookies and Web Beacons**  
 www.zeppfeed.com does use cookies to store information about visitors preferences, record user-specific information on which pages the user access or visit, customize Web page content based on visitors browser type or other information that the visitor sends via their browser.
 
-**DoubleClick DART Cookie**
+You may disallow it by your browser setting.
 
-Google, as a third party vendor, uses cookies to serve ads on www.zeppfeed.com.
+**Google Analytics and AdSense cookies**
 
-Google's use of the DART cookie enables it to serve ads to users based on their visit to www.zeppfeed.com and other sites on the Internet.
+www.zeppfeed.com uses Google Analytics and AdSense programs, please go through Google’s privacy practices and Google uses data on partner sites for more information about their privacy policies.
 
-Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at the following URL - http://www.google.com/privacy_ads.html
+**DoubleClick DART Cookie**  
+.:: Google, as a third party vendor, uses cookies to serve ads on www.zeppfeed.com.  
+.:: Google’s use of the DART cookie enables it to serve ads to users based on their visit to www.zeppfeed.com and other sites on the Internet.  
+.:: Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at the following URL – http://www.google.com/privacy_ads.html
 
-Some of our advertising partners may use cookies and web beacons on our site. Our advertising partners include....
+Some of our advertising partners may use cookies and web beacons on our site. Our advertising partners include..  
+Google Adsense  
+Taboola
 
-**Google Adsense**
+**Web Counters and Web Analytics**  
+We use Google Analytics and Statcounter, which may collect and use the data contained in log files. which include IP (internet protocol) address, ISP (internet service provider), the browser you used to visit our site (such as Internet Explorer or Firefox), the time you visited our site and which pages you visited throughout our site. We use Google analytics and Statcounter. Both are safe to use, please visit below urls for their privacy policies.  
+**Statcounter Privacy Policy and Google Analytics Privacy Policy**
 
-**Amazon.in**
-
-These third-party ad servers or ad networks use technology to the advertisements and links that appear on www.zeppfeed.com send directly to your browsers. They automatically receive your IP address when this occurs. Other technologies (such as cookies, JavaScript, or Web Beacons) may also be used by the third-party ad networks to measure the effectiveness of their advertisements and / or to personalize the advertising content that you see.
+These third-party ad servers or ad networks use technology to the advertisements and links that appear on www.zeppfeed.com send directly to your web browsers. They automatically receive your IP address when this occurs. Other technologies ( such as cookies, JavaScript, or Web Beacons ) may also be used by the third-party ad networks to measure the effectiveness of their advertisements and / or to personalize the advertising content that you see.
 
 www.zeppfeed.com has no access to or control over these cookies that are used by third-party advertisers.
 
-You should consult the respective privacy policies of these third-party ad servers for more detailed information on their practices as well as for instructions about how to opt-out of certain practices. www.zeppfeed.com's privacy policy does not apply to, and we cannot control the activities of, such other advertisers or web sites.
+You should consult the respective privacy policies of these third-party ad servers for more detailed information on their practices as well as for instructions about how to opt-out of certain practices. www.zeppfeed.com’s privacy policy does not apply to, and we cannot control the activities of, such other advertisers or web sites.
 
-If you wish to disable cookies, you may do so through your individual browser options. More detailed information about cookie management with specific web browsers can be found at the browsers' respective websites.
+If you wish to disable cookies, you may do so through your individual browser options. More detailed information about cookie management with specific web browsers can be found at the browsers’ respective websites.
+
+In case you want to claim any business or update or remove business information, remove image/ video or any content from zeppfeed’s pages, please email us at zeppfeed@gmail.com
+
+If you have any obligation with our content, you can request us to remove from our website, for that please email us at zeppfeed@gmail.com
