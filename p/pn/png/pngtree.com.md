@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pngtree.com privacy policy that was archived on 2018-10-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181013010336id_/https%3A//pngtree.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pngtree.com privacy policy that was archived on 2019-03-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190330095311id_/https%3A//pngtree.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy of Pngtree
 
