@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the militarybenefits.info privacy policy that was archived on 2017-08-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170806081136id_/https%3A//militarybenefits.info/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the militarybenefits.info privacy policy that was archived on 2019-03-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190330104447id_/https%3A//militarybenefits.info/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Military Benefits
+# Privacy Policy
 
 **  Privacy Policy – MilitaryBenefits.info**
 
-Effective November 14th, 2014
+Updated: August 14, 2017
 
 BY ACCESSING THIS WEBSITE MilitaryBenefits.info.  YOU AGREE TO BE BOUND BY THE TERMS AND CONDITIONS OF THIS PRIVACY POLICY.
 
@@ -68,14 +68,23 @@ Company reserves the right to update this Privacy Policy at any time. It is your
 
 **Limitation of Liability**
 
-By utilizing this website you UNDERSTAND and AGREE that ANY dispute as to the terms or application of this PRIVACY POLICY is subject to the terms and conditions associated with this website and the PRIVACY POLICY herein. This includes all limitations on damages and arbitration of disputes. You also agree that COMPANY’S liability for any breach of this privacy policy shall be limited to the value of the transactions or services provided to you through the use of this website to the extent that such claim in not otherwise barred through the sites TERMS AND CONDITIONS.
+By utilizing this website you UNDERSTAND and AGREE that ANY dispute as to the terms or application of this PRIVACY POLICY is subject to the Terms of Use associated with this website and the PRIVACY POLICY herein. This includes all limitations on damages and arbitration of disputes. You also agree that COMPANY’S liability for any breach of this privacy policy shall be limited to the value of the transactions or services provided to you through the use of this website to the extent that such claim in not otherwise barred through the sites TERMS AND CONDITIONS.
+
+**Disclaimer**
+
+This is a private website that is NOT affiliated with the U.S. government, U.S. Armed Forces or Department of Veteran Affairs. U.S. government agencies have not reviewed this information. This site contains information about GI Bill benefits, VA loans, news and services for military veterans and is not connected with any government agency. If you would like to find more information about benefits offered by Veteran Affairs, visit the official site for veterans benefits at [Veterans Affairs](http://www.va.gov/ "Veteran Affairs Official Site").
+
+GI Bill® is a registered trademark of the U.S. Department of Veterans Affairs (VA). More information about education benefits offered by VA is available at the official U.S. government Web site at http://www.benefits.va.gov/gibill.
+
+The appearance of U.S. Department of Defense (DoD) visual information does not imply or constitute DoD endorsement.
 
 **Contact Information**
 
 We can be contacted by emailing us at info at MilitaryBenefits.info or by mail at:
 
 MilitaryBenefits.info  
-2312 Park Ave #127  
-Tustin, CA 92782
+17853 Santiago Blvd  
+#107-261  
+Villa Park, CA 92861
 
 PLEASE NOTE: PERIODIC CHANGES ARE MADE TO OUR PRIVACY POLICY. PLEASE CHECK REGULARLY FOR UPDATES
