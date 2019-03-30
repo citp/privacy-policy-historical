@@ -1,100 +1,99 @@
-> *The following text is extracted and transformed from the promo.com privacy policy that was archived on 2018-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181226224103id_/http%3A//www.godaddy.com/agreements/ShowDoc.aspx%3Fpageid%3Dprivacy_parkedpage) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the promo.com privacy policy that was archived on 2019-03-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190330200440id_/https%3A//promo.com/privacy-policy%3Futm_content%3Dheader) for the most accurate reproduction.*
 
-# Legal Agreements - GoDaddy Respects Your Privacy
+# Privacy Policy | Promo.com | Visual Content Creation Platform
 
-**GoDaddy Respects Your Privacy**
+_Your privacy is important to us_. We highly value and respect the privacy of the personal information we obtain from you by using our Site, App and/or Services (collectively, the "Service") and we have created this privacy policy (the " _Privacy Policy_ ") to inform you about how we collect, use and share your personal information, and our privacy practices in general.
 
-**This Privacy Policy explains our privacy and information gathering practices, such as the types of information we collect and under what circumstances that information is shared.**
+By accessing and using the Services, you agree to be bound by this Privacy Policy. If you do not agree to any of the provisions as set hereunder in this Privacy Policy, you have no right to use the Services. This Privacy Policy should be read together with the Terms of Service and together they constitute the entire agreement between you and us.
 
-**Please take the time to review the terms of this Policy.   By using this Site, you agree to accept the terms provided.**
+This Privacy Policy applies to any and all Personal Information we may collect online including without limitations through our emails and/or by using any of our Services.
 
-**Other than as described in this Policy, we will not give any information about you to others without your express permission.**
+This Privacy Policy may be updated from time to time and therefore we ask you to check back periodically to read the most updated Privacy Policy. Your continued use of the Services shall be deemed to be your continued acceptance of the terms of this Privacy Policy, as amended.
 
-**Information Collection and Use**
+## Information That We Collect
 
-Although this Site is primarily for informational purposes, we may ask you to provide us with your name, email address or other information that could be used to identify you personally.  For example, we may collect this information in the event that you register as a member of this Site, post a comment, sign-up to receive email communications, or submit demographic information as part of a survey.
+The Personal Information we collect from customers helps provide you with our Services. Here are the types of information we gather:
 
-We receive and store any information you enter on our Site or give us in any other way, including through email, telephone, or other communications. If you contact us for support, we will keep an internal record of our communication with you.
+_Information Provided by You_. During your use of the Services, we may collect certain Personal Information delivered by you to us either as part of your registration to the Services or in any other way. This personal information may be updated by you from time to time. As a result of your use of the Services, you may supply us with such personal information as your name, e-mail address, uploaded content and metadata such as the source of that content (collectively, "Personal Information").
 
-We may use your information to contact you regarding the information and services available on our Site, functionality changes to our Site, and special offers we think you'll find valuable. If you would rather not receive this information, please see the "Updating Your Information" section below on how to change your preferences.
+_Automatic Information_. When using our Services, we may also collect certain analytical information that may identify you personally, including information that your browser or device generates, such as your IP address, your browser information (including browser type, capabilities and language), your operating system, the date and time you accessed the website, and the Service from which you linked to our Service ("Analytical Information", and together with the Personal Information, the "Information"). In addition, we may collect other information from you (such as location-based data) that have been stripped of your Information. We may group some or all this Information into aggregate data in order to describe the use of the Services to our existing or potential business partners, sponsors, advertisers or other third parties, or in response to a government request. We may also group demographic information that we collect from our users into aggregate data for the same purposes. We reserve the right to use and share any aggregate and anonymized Information with third parties for any lawful purpose. We may associate your Information with non-Personal Information within our database and we treat all the associated information as your protected Information under this Privacy Policy. However, except as noted below, we do not share this associated your Information with third parties.
 
-We may also use your information to present a co-branded offer with our partners or affiliates. If we collect information from you in connection with a co-branded offer, it will be clear at the point of collection who is collecting the information and whose privacy statement applies.
+## Use of Information Collected
 
-We use information gathered about you from our Site statistics (for example, your IP address) to help diagnose problems with our server, and to administer our Site. We also gather broad demographic information from this data to help us improve our Site and make your browsing and purchasing experience more enjoyable. This is not linked to any personally identifiable information, except as necessary to prevent fraud or abuse on our system.
+_Internal Use_. We use Personal Information for internal purposes only, to improve our Service and to better tailor the Service to meet your needs. In addition, we use the Personal Information collected to analyze Service usage and to deliver information to you about certain promotions, services or items that might interest you. We may use your e-mail address to contact you regarding Service notices from time to time.
 
-Our Site uses cookies to enhance your experience with our Site.  Cookies are data files that are placed in your browser to keep track of your personal preferences and to facilitate easy navigation through our Site.  We use cookies to identify you so you don't need to log in each time you visit our Site.  You may opt-out of the use of cookies by altering settings on your browser.  Please note, however, that some areas of the Site will be easier to navigate with the use of cookies..
+_Editing Information_. You may review and edit any of your Information by using your e-mail address and password. If you cancel your account, your Personal Information shall be deleted from our database except for residual information within our databases, aggregate information access logs, backup logs and other records, which may or may not contain personally identifiable information.
 
-This Site also contains links to other websites. Unfortunately, we are not responsible for the privacy practices or the content of such sites.
+_Resolving Problems_. We may use your Personal Information and other data obtained from your current and past activities, to resolve disputes and troubleshoot problems.
 
-**Security**
+We will not sell, trade or rent your Personal Information to others unless you explicitly provide us with permission to do so.
 
-This Site has security measures in place to protect against the loss, misuse or alteration of the information under our control.  We follow generally accepted standards to protect the personal information submitted to us, both during transmission and once we receive it.  No method of transmission over the Internet, or method of electronic storage, is 100% secure, however.  Therefore, we cannot guarantee its absolute security.
+## Disclosure of Personal Information
 
-**Updating Your Information**
+_At Your Request_. We will not disclose, sell or transfer any of your Information to any third parties, except if you request us to do so as part of the Services.
 
-You may alter your account information or opt out of receiving communications from us and our partners at any time. We have the following options for changing and modifying your account information or contact preferences.
+_Legal Disclosures_. In the event we are required to disclose Information and other related information pursuant to lawful requests, such as subpoenas or court orders, or in compliance with applicable laws, we will make such disclosure.
 
-        i.      You may send an email to [support@godaddy.com ](mailto:support@godaddy.com)
+_Sale of Business_. In the event the ownership of all or a part of our business were to change, your Information and other related information pertinent to the business' operations would likely be transferred to, or licensed for use by, the new owner.
 
-       ii.      You may send mail to GoDaddy at the following postal address:   
-               14455 North Hayden Road, Suite 219, Scottsdale, AZ. 85260 USA
+_To Protect the Services_. We may disclose your Personal Information and other related information in the event we reasonably believe such disclosure is necessary to protect the Services, our rights or property, or the rights of any third party.
 
-      iii.      You may call us at: (480) 505-8800
+_Third Party Service Providers_. We use third-party service providers to perform certain services on our behalf. We may provide your Information to these third-party service providers when the information is necessary for them to perform their duties. These third-party service providers are contractually restricted from using your Information for any other purpose and required to comply with all applicable laws with respect to your Information and other related information they receive.
 
-       iv.      You may fax us at: (480) 505-8844
+_Special Cases_. We may disclose your Information and other related information, in special cases when we have reason to believe that disclosing such information is necessary to identify, contact or bring legal action against someone who may be violating this Privacy Policy or may be causing injury to or interference with (either intentionally or unintentionally), our rights or property, other users, or anyone else that could be harmed by such activities. You thus authorize us to disclose any information about you to law enforcement or other government officials if we, in our sole and absolute discretion, believe that such disclosure is necessary or appropriate.
 
-**Sending Emails**
+## Sharing of Information
 
-We use emails to communicate with you and to send information that you have requested.  We also provide email links to allow you to contact us directly. We strive to promptly reply to your messages.
+Our Privacy Policy only addresses the use and disclosure of your Information we collect from you. To the extent that you disclose information to other parties by using the Services, different rules may apply to the use or disclosure of the Personal Information, which you disclose to them. We do not control the privacy policies of third parties and users will be subject to the privacy customs and policies of such third parties.
 
-The information you send to us may be stored and used to improve this Site and our products, or it may be reviewed and discarded.
+## Protection of Information
 
-**Compliance with Laws and Law Enforcement**
+Information collected about you is protected in several ways. If you create an account, access by you to your Information is available through a password and unique user ID selected by you. Your password is encrypted. We recommend that you do not divulge your password to anyone. In addition, your personal information resides on proprietary secured servers that only selected personnel and contracts have access to via password.
 
-We cooperate with government and law enforcement officials and private parties to enforce and comply with the law. We will disclose any information about you to government or law enforcement officials or private parties as we, in our sole discretion, believe necessary or appropriate to respond to claims and legal process (including without limitation subpoenas), to protect our property and rights or the property and rights of a third party, to protect the safety of the public or any person, or to prevent or stop activity we consider to be illegal or unethical. We will also share your information to the extent necessary to comply with ICANN's rules, regulations and policies.
+We use industry standard security measures to protect your Personal Information so that it is not made available to unauthorized parties. However, we cannot guarantee that the Personal Information submitted to, maintained on, or transmitted from our systems will be completely secure. If you have any questions regarding which measures and techniques we use, feel free to contact us at [support@promo.com](mailto:support@promo.com)
 
-**Third Party Service Providers**
+## Cookies
 
-We may at times provide information about you to third parties to provide various services on our behalf, such as serving advertisements, conducting contests or surveys, performing analyses of our user demographics, shipping of goods or services, and user relationship management. We will only share information about you that is necessary for the third party to provide the requested service. These companies are prohibited from retaining, sharing, storing or using your personally identifiable information for any secondary purposes.
+The Site uses various types of cookies which help us administer and operate it, as further described in our [Cookies Policy](https://promo.com/cookies-policy)
 
-In the event that we use third party advertising companies to serve ads on our behalf, these companies may employ cookies and action tags (also known as single pixel GIF or web beacons) to measure advertising effectiveness. Any information that these third parties collect via cookies and action tags is completely anonymous. If you would like more information about this practice and your choices, click [here. ](http://www.networkadvertising.org/managing/opt_out.asp)
+## Other Websites, Services and Communities
 
-**Supplementation of Information**
+Please be aware that when you are using the Services or our Site, you could be directed via hyperlinks or other means to third-party websites, services and online communities that are not affiliated with us. These websites, services and online communities may send their own cookies to visitors to collect data or solicit your Personal Information. The privacy policies of these websites, services and online communities may be very different from this Privacy Policy. We are not responsible for the privacy practices of these other websites, services and online communities and cannot guarantee the security of any of your Personal Information collected, used or shared there.
 
-In order to provide certain services to you, we may on occasion supplement the personal information you submit to us with information from third party sources ( _e.g.,_ information from our strategic partners, service providers, or the United States Postal Service).  We do this to enhance our ability to serve you, to tailor our products and services to you, and to offer you opportunities to purchase products or services that we believe may be of interest to you.
+## Policy Regarding Children
 
-**Contests/Surveys**
+You must be 13 years old or older to use the Site and the Services; we do not knowingly collect information from children under the age of 13. If we become aware that we have collected Personal Information from a child under the age of 13 years old, we will use commercially reasonable efforts to delete such information from our database. If you are between 13 and 17 years old, you agree that you received your parent or legal guardian's consent to use and access the Site and the Services.
 
-From time-to-time, we may provide you with the opportunity to participate in contests or surveys. If you choose to participate, we may request certain personally identifiable information from you. Participation in these contests or surveys is completely voluntary and you therefore have a choice whether or not to disclose the requested information. The requested information typically includes contact information (such as name and address), and demographic information (such as zip code and age level - note that you must be 18 or above to enter). We use this information to notify contest winners and award prizes, to monitor Site traffic, and to personalize our Site.
+## European Citizens
 
-We may use a third party service provider to conduct these surveys or contests. When we do, that company will be prohibited from using our users' personally identifiable information for any other purpose. We will not share the personally identifiable information you provide through a contest or survey with other third parties unless we give you prior notice and choice.
+If you are a European resident, the following discolsures are made pursuant to the EU General Data Protection Regulations:
 
-**Tell-A-Friend**
+### Data Controller
 
-If a user elects to use our referral service to inform a friend about our Site, we ask the user for the friend's name and email address. GoDaddy will automatically send the friend a one-time email inviting them to visit our Site. GoDaddy stores this information for the sole purpose of sending this one-time email. The friend may contact GoDaddy at [support@godaddy.com ](mailto:support@godaddy.com)to request the removal of this information from our database.
+We are the data controller of the personal data we collect via the Service. Easy Hi Ltd. is the data controller of the personal data we collect via the Services and use and share as further described above. We are located at Hauteville Trust (BVI) Limited, P.O. Box 3483, Road Town, Tortola, British Virgin Islands.
 
-**What Happens to my Personal Information if I Opt Out?**
+### Representative In The EU
 
-If you advise us that you wish to opt out of receiving further communications from us, we will place your personally identifiable information in "deactivated" status on our relevant databases. However, you should know that placement of your information in "deactivated" status does not mean your personally identifiable information has been deleted from our database entirely. We will retain and use your personally identifiable information as necessary in order to comply with our legal obligations, resolve disputes, or enforce our agreements.
+The European representative of Easy Hi Ltd., for purposes of this Privacy Policy is Slidely Spolka z ograniczona odpowiedzialnoscia (Slidely Z.O.O), If you are within the European Economic Area, you may contact our European representative the at the following address: 7C Bitwy Warszawskiej 1920r. Street, 02-366 Warsaw, Poland.
 
-**Transfer of Data Abroad**
+### Your EU Rights
 
-If you are visiting this Site from a country other than the country in which our servers are located, your communications with us may result in the transfer of information across international boundaries.  By visiting this Site and communicating electronically with us, you consent to such transfers.
+You have the right to access the personal information about you that we store on our systems, and have us update, correct or delete it. In addition, you may at any time withdraw your consent to any activity which you provided us your consent. You are also entitled to obtain from us your Information (excluding data we obtained from other sources) in a structured, commonly used and machine-readable format, and have the right to transmit those data to another data controller. If you wish to exercise any of these rights, contact us at: [support@promo.com](mailto:support@promo.com)
 
-**Changes in Our Practices**
+You can also have the right to lodge a complaint to the supervisory authority under the General data Protection Regulations ("GDPR"), in particular in the Member State of your residence, place of work or where the alleged infringement of the GDPR occured. For a list of supervisory authorities in the EU, click [here](http://ec.europa.eu/newsroom/article29/document.cfm?action=display&doc_id=50061).
 
-We reserve the right to modify this Privacy Policy at any time. If we decide to change our Privacy Policy, we will post those changes to this Privacy Policy and any other places we deem appropriate, so that you are aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it.
+### Data Retention
 
-If we make material changes to this Policy, we will notify you here, by email, or by means of a notice on our home page, at least thirty (30) days prior to the implementation of the changes.
+We retain personal data as long as we need it for the purposes for which it was obtained or until you ask to delete it. If you ask us to delete the Information, we may still have to retain it to comply with our legal obligations, resolve disputes and enforce our agreements
 
-**Contacting Our Site**
+### Legal Basis For Processing Personal Data:
 
-If you have any questions about our Privacy Policy, the practices of this Site, or your dealings with this Site, please contact us at:
+Information Type | Purpose | Legal Basis  
+---|---|---  
+Processing Personal Information | Online marketing and provision of the services | The legal basis under EU law for processing and collecting your Personal Information is our legitimate interests in operating our Services.  
+Processing Personal Information | Profiled advertising | The legal basis under EU law for collecting and processing your Personal Information for profiled advertising purposes is your explicit consent  
+Processing Analytical Information | Operation and enhancement | The legal basis under EU law for processing and collecting Analytical Data is our legitimate interests in operating our Apps, ongoing management of our business and business development  
+  
+## Questions
 
-* * *
-
-GoDaddy   
-ATTN: Web Team   
-14455 North Hayden Rd.   
-Suite 219   
-Scottsdale, AZ, 85260, U.S.A.
+You may direct questions concerning this Privacy Policy by email to [support@promo.com](mailto:support@promo.com) by adding the word 'privacy' in the subject line.
