@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the listorious.com privacy policy that was archived on 2018-11-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181106155659id_/https%3A//muckrack.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the listorious.com privacy policy that was archived on 2019-03-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190330200247id_/https%3A//muckrack.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
