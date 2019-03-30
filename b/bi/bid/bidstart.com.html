@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the bidstart.com privacy policy that was archived on 2018-09-10.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20180910144951id_/https%3A//www.hipstamp.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the bidstart.com privacy policy that was archived on 2019-03-30.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20190330233222id_/https%3A//www.hipstamp.com/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html dir="ltr" lang="en"><!--
         -///:///.                -///:///.
@@ -37,7 +37,7 @@
     <script async="" src="https://www.googletagmanager.com/gtm.js?id=GTM-WZPTJX"></script><script>
    window.dataLayer = window.dataLayer || [];
    window.dataLayerPushes = window.dataLayerPushes || [];
-   dataLayer.push({"clientId":"15365909915b96848fdb1458.83351013"});
+   dataLayer.push({"clientId":"15539870665c9ff5faf17e38.23385516"});
 </script>
     <!--[if lt IE 9]> <script type="text/javascript" src="/js/html5shiv.min.js"></script><![endif]-->
 <link href="/css/custom-theme/jquery-ui-1.10.0.custom.css" media="screen" rel="stylesheet" type="text/css">
@@ -45,7 +45,6 @@
 <link href="/js/colorbox/colorbox.css" media="screen" rel="stylesheet" type="text/css">
 <link href="/css/style.css" rel="stylesheet" type="text/css">
 <!--[if lt IE 9]><link href="/css/style.ie.css" media="all" rel="stylesheet" type="text/css"><![endif]-->
-<link href="/css/mods.css" rel="stylesheet" type="text/css">
 <link href="/img/favicon.ico" rel="shortcut icon" type="image/vnd.microsoft.icon">
 <!-- Google Tag Manager -->
 <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
@@ -65,11 +64,11 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 
     <link href="https://fonts.googleapis.com/css?family=Mukta+Vaani:300,400,500,600,700|Shadows+Into+Light" rel="stylesheet">
 
-    <link href="/themes/boutique/css/style-local.css?version=2018.09.09" media="all" rel="stylesheet" type="text/css">
+    <link href="/themes/boutique/css/style-local.css?version=2019.03.19" media="all" rel="stylesheet" type="text/css">
 </head>
 <body>
 
-<div class="wrapper vertical-stamps">
+<div class="wrapper vertical-stamps initializing">
 
     <!-- Header -->
     <div class="header">
@@ -162,9 +161,9 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 
                     <!-- Mini cart -->
                                             <div class="mini-cart">
-                        <a href="https://www.hipstamp.com/cart" title="Go to cart →"><span>0</span>
-                        </a>
-                    </div>                                        <!-- End class="mini-cart" -->
+                    <a href="https://www.hipstamp.com/cart" title="Go to cart →"><span>0</span>
+                    </a>
+                </div>                                        <!-- End class="mini-cart" -->
 
                 </div>
             </div>
@@ -644,8 +643,8 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
         <div class="container">
             <div class="row">
                 <div class="col-sm-8">
-                    <p>© 2018 Hip eCommerce, Inc.</p>
-                </div>
+                    <p>© 2019 Hip eCommerce, Inc.</p>
+                    <p style="display:none;">Page Created in: 0.457 seconds                </p></div>
                 <div class="col-sm-4 text-right">
                                     </div>
             </div>
@@ -717,7 +716,12 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                           database = firebase.database();
                       }
                       database.ref("HipStamp" + element.data("realtime")).on("value", function(snapshot) {
-                          if (snapshot.val() !== null && snapshot.val().toString() !== element.text()) element.text(snapshot.val()).effect("pulsate", { times:3 }, 2500);
+                        if (snapshot.val() !== null) {
+                            var tempElement = $("<div>" + snapshot.val().toString() + "</div>");
+                                if (tempElement.text() !== element.text()) {
+                                    element.html(snapshot.val()).effect("pulsate", { times:3 }, 2500);
+                                }
+                            }
                       });
                   });
                 }
@@ -754,7 +758,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 <script src="/themes/boutique/js/slick.min.js"></script>
 <script src="/themes/boutique/js/jquery.sharrre-1.3.5.js"></script>
 <!--<script src="--><!--js/jquery.cookie.js"></script>-->
-<script src="/themes/boutique/js/la_boutique.js?version=2018.05.01"></script>
+<script src="/themes/boutique/js/la_boutique.js?version=2019.03.18"></script>
 <script src="/themes/boutique/js/tfingi-megamenu/tfingi-megamenu-frontend.js"></script>
 <script src="/themes/boutique/js/ouibounce.min.js?pull=96"></script>
 <script src="/themes/boutique/js/sortable.min.js"></script>
@@ -776,7 +780,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 </div>
 
 <div class="text-center">
-    <a href="/giveaways/win/great-britain-1-penny-black-nb-vf-4-margins/76">
+    <a href="/giveaways/win/great-britain-penny-black-cd-fine-used-with-4-margins/107">
         <img src="/themes/boutique/img/ouibounce/penny-black.jpg">
     </a>
 </div>                <div class="modal-footer">
@@ -788,7 +792,6 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
         </div>
     </div>
 <!-- END Exit Intent -->
-
 
 
 
