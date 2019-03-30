@@ -1,27 +1,31 @@
-> *The following text is extracted and transformed from the foxsportsasia.com privacy policy that was archived on 2018-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181206030958id_/https%3A//www.foxsportsasia.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the foxsportsasia.com privacy policy that was archived on 2019-03-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190330175133id_/https%3A//www.foxsportsasia.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | FOX Sports Asia
 
-**Table of Contents:**  
+**PRIVACY POLICY**
+
+The Walt Disney Company has acquired certain 21st Century Fox businesses, including those providing the services described below. This policy has been updated to reflect that transaction.
+
+Date: March 2019
+
+**Table of Contents:**
+
+  1. [INTRODUCTION](http://www.natgeotv.com.au/about/privacy.aspx#1)
+  2. [COLLECTION OF INFORMATION](http://www.natgeotv.com.au/about/privacy.aspx#2)
+  3. [USE AND DISCLOSURE](http://www.natgeotv.com.au/about/privacy.aspx#3)
+  4. [SECURITY](http://www.natgeotv.com.au/about/privacy.aspx#4)
+  5. [USER ACCESS AND CONTROL](http://www.natgeotv.com.au/about/privacy.aspx#5)
+  6. [OTHER IMPORTANT INFORMATION](http://www.natgeotv.com.au/about/privacy.aspx#6)
+  7. [CONTACT DETAILS AND COMPLAINTS HANDLING](http://www.natgeotv.com.au/about/privacy.aspx#7)  
 
 
-  1. INTRODUCTION
-  2. COLLECTION OF INFORMATION
-  3. USE AND DISCLOSURE
-  4. SECURITY
-  5. USER ACCESS AND CONTROL
-  6. OTHER IMPORTANT INFORMATION
-  7. CONTACT DETAILS AND COMPLAINTS HANDLING
-  8. **INTRODUCTION**
 
 
-
-FOX Networks Group Singapore Pte. Ltd. (“ **we** ” or “ **FNG** “) is committed to responsible privacy practices and to complying with the privacy principles contained in the Personal Data Protection Act 2012 (No. 26 of 2012) (“ **PDPA** “) and wants you to be familiar with how we collect, use and disclose information from and about you. This Privacy Policy describes our practices in connection with information collected through services such as websites, mobile sites, applications (“ **apps** “), and widgets (collectively, the “ **FNG Services** “). By using FNG Services, you agree to the terms and conditions of this Privacy Policy. As described more fully below, we share certain information with our affiliated companies (“ **Company Affiliates** “). A list of our Company Affiliates is available at [www.21cf.com](http://www.21cf.com/).  
-
+FOX Networks Group Singapore Pte. Ltd. (“ **we** ” or “ **FNG** “) is committed to responsible privacy practices and to complying with the privacy principles contained in the Personal Data Protection Act 2012 (No. 26 of 2012) (“ **PDPA** “) and wants you to be familiar with how we collect, use and disclose information from and about you. This Privacy Policy describes our practices in connection with information collected through services such as websites, mobile sites, applications (“ **apps** “), and widgets (collectively, the “ **FNG Services** “). By using FNG Services, you agree to the terms and conditions of this Privacy Policy. As described more fully below, we share certain information with our company affiliates.  Our company affiliates include members of [The Walt Disney Family of Companies](https://privacy.thewaltdisneycompany.com/en/definitions) (https://privacy.thewaltdisneycompany.com/en/definitions) (“ **Company Affiliates** ”). For further information on Company Affiliates please contact [privacycontact@disney.com](mailto:privacycontact@disney.com). 
 
 This Privacy Policy applies to all users, including both those who use the FNG Services without being registered with or subscribing to a FNG Service and those who have registered with or subscribed to a FNG Service. This Privacy Policy applies to FNG’s collection and use of your personal information.
 
-  1. **COLLECTION OF INFORMATION**
+  1. ﻿ **COLLECTION OF INFORMATION**
 
 
 
@@ -127,6 +131,6 @@ Remember that even after you cancel your account, copies of some information fro
 
 If you have questions, comments or complaints about our collection, use or disclosure of personal information, or if you believe that we have not complied with this Privacy Policy or the PDPA, please contact us via:
 
-> [Contact Us](https://www.foxsportsasia.com/contact-us/)
+http://foxsportsasia.com/contact-us/ 
 
 Mail: Business and Legal Affairs Department, FOX Networks Group Singapore Pte. Ltd., 1 Fusionopolis Link, #03-01 Nexus @ One-North, Singapore 138542. FNG will take any privacy complaint seriously and any complaint will be assessed by an appropriate person with the aim of resolving any issue in a timely and efficient manner. We request that you cooperate with us during this process and provide us with any relevant information that we may need.
