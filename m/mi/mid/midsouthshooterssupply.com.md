@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the midsouthshooterssupply.com privacy policy that was archived on 2017-09-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170930214824id_/https%3A//www.midsouthshooterssupply.com/PrivacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the midsouthshooterssupply.com privacy policy that was archived on 2019-03-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190330114504id_/https%3A//www.midsouthshooterssupply.com/privacypolicy) for the most accurate reproduction.*
 
 # Privacy Policy | Shooting Supplies | MidsouthShootersSupply.com
 
@@ -6,29 +6,48 @@
 
 * * *
 
-Midsouth Shooters Supply takes your privacy very important. We do not sell, trade, rent or share your information. Below are our policy specifics if you care to read. 
+At Midsouth Shooters Supply, we take personal privacy very seriously. You're here because you are concerned about your privacy and want to know how we collect, use, share, and protect your information. We appreciate your trust will use it respectfully. 
+
+By interacting with Midsouth Shooters Supply, you consent to the use of information that is collected or submitted as described in this privacy policy. We may change or add to this privacy policy, so we encourage you to review it regularly. 
 
 ### What We Collect:
 
-Our server in its logs records each visit. This can include but not limited to IP addresses, length of visit, referring ip and number of clicks. When placing an order you must log in, this is where we record the information you provided when you first registered e.g. name, address, phone numbers and email addresses. This is to protect what we sell and to whom we sell it to. When using our website your email address is used and the main communication is done through email as well as our promotional / marketing messages. You may opt out of the later at any time by sending email to no_email@midsouthshooterssupply.com. 
+When registering for an account with Midsouth Shooters Supply, you will be required to provide information necessary for an online purchase. If you opt out of providing some information you may not be able to purchase certain restricted products. Below is an example of this information: 
 
-### Cookies: Which Ones and Why
+  * Name
+  * E-mail address
+  * Shipping Information
+  * Billing Information
+  * Phone (or mobile) number
+  * Date of birth (When required for purchasing restricted items)
+
+
+
+Our server logs each visit. This can include but not limited to IP addresses, length of visit, referring ip and number of clicks. 
+
+### Email Communication:
+
+When using our website your email address is used as the main communication for purchases as well as our promotional / marketing messages. You may opt out of the later at any time by sending us a message using our [Contact Form](https://web.archive.org/contactus). 
+
+### Cookies:
 
 We set cookies that are necessary to operate certain features such as but not limited to user login, shopping carts, and wish lists. Without the use of cookies we could not offer you these time saving features. 
 
 ### Sharing Information:
 
-Only under legal reason or subpoena will we release your information to anyone not employed by Midsouth. 
+Only under legal reason or subpoena will we release your information to anyone not employed by Midsouth. We do not sell, trade, rent or share your information. 
 
 ### Security:
 
-We use the Secure Socket Layer (SSL) protocol to transmit the data from your secure browsers to us. This is the industry standard and is noted by the lock, and different color bar or many other ways. One way to ensure you are in a secure area is to look at the address line and it should begin with https:// . We use Network Solution s SiteSafe to make each visit as secure as possible. 
+We constantly maintain safeguards to protect your personal information. We use industry standard methods to protect your information anytime it is collected or transmitted. However, no e-commerce solution, website, mobile application, database or system is completely secure. You are also responsible for taking reasonable steps to protect your personal information against unauthorized disclosure or misuse. 
 
-All images and content on this website are intended for use by Midsouth Shooters Supply. Any usage or reproduction of content or images from this website is prohibited!
+### POLICY CHANGES
 
-©2016 Midsouth Shooters Supply Company. All rights Reserved.
+If you have any questions about this Policy, or the practices of or your dealings with the Site, please Contact Us, call toll free [1-800-272-3000](tel:18002723000) , send us a message using our [Contact Form](https://web.archive.org/contactus) , or contact us at the following address:
 
-### Reloading Supplies, Shooting Supplies, Reloading Tools.
+  * Midsouth Shooters Supply
+  * Attention: Customer Service
+  * 770 Economy Dr
+  * Clarksville, TN 37043
 
-  
 
