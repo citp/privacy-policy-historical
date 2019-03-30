@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the serialpodcast.org privacy policy that was archived on 2018-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181231194641id_/https%3A//www.thisamericanlife.org/page/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the serialpodcast.org privacy policy that was archived on 2019-03-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190330232841id_/https%3A//www.thisamericanlife.org/page/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - This American Life
 
