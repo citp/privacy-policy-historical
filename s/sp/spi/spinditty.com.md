@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the spinditty.com privacy policy that was archived on 2018-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181229044115id_/https%3A//spinditty.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the spinditty.com privacy policy that was archived on 2019-03-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190330022157id_/https%3A//spinditty.com/privacy-policy) for the most accurate reproduction.*
 
 # HubPages Network Privacy Policy | Spinditty
 
