@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the acop.com privacy policy that was archived on 2018-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181229163729id_/https%3A//www.acop.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the acop.com privacy policy that was archived on 2019-03-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190330134111id_/https%3A//www.acop.com/privacy) for the most accurate reproduction.*
 
 # Get Paid To Answer Online Surveys | American Consumer Opinion Panel
 
