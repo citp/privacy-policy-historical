@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the viewranger.com privacy policy that was archived on 2018-07-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180706111629id_/https%3A//www.viewranger.com/help/legal/%3Ftype%3Dprivacy%26lang%3Den) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the viewranger.com privacy policy that was archived on 2019-03-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190331002329id_/https%3A//www.viewranger.com/help/legal/%3Ftype%3Dprivacy%26lang%3Den) for the most accurate reproduction.*
 
-# ViewRanger Privacy Notice
+# None
 
-### Effective 25th May 2018
+### Effective 5th March 2019
 
-[Previous Privacy Policy](https://web.archive.org/web/20180706111629id_/https%3A//www.viewranger.com/help/legal/privacy_en_preMay18.htm)
+[Previous Privacy Policy](https://web.archive.org/web/20190331002329id_/https%3A//www.viewranger.com/help/legal/privacy_en_preJul18.htm)
 
 ViewRanger takes your privacy seriously and we handle your information with care.
 
@@ -94,7 +94,9 @@ We record analytics both within ViewRanger and using third party services, such 
 
 We may share anonymised network signal data with a partner, for the purpose of cell network improvement.
 
-You can tell the application not to send these analytics using the application's menu, Settings, Privacy; or on older versions of the application under menu, Help and Feedback, Product Improvement
+You can tell the application not to send these analytics using the application's menu, Settings, Privacy; or on older versions of the application under menu, Help and Feedback, Product Improvement.
+
+To help us improve ViewRanger, the application may ask for your permission to record how you use the application. If you agree, ViewRanger will occasionally record your use of the application. You can stop this at any time by switching off the Product Improvement setting.
 
 ##### Cookie Data
 
@@ -113,6 +115,12 @@ Your use of those third party services is is covered by the privacy policies of 
 ##### Apple Health
 
 You can choose to share your activity with Apple Health. Settings to control this are in the Health app.
+
+To display your heart rate against fitness training zones in graphs, ViewRanger needs access to Date of Birth and Sex to make the training zone calculation.
+
+ViewRanger uses your Sex to draw a gender-specific avatar showing route progress and completion in the Watch app.
+
+ViewRanger uses your Heart Rate and Step Data to record your heart rate and step count in tracks, and to display the current heart rate and step count during the recording.
 
 ##### Operating System
 
@@ -257,6 +265,14 @@ The personal data we collect is stored and processed within the European Economi
 ViewRanger may update this policy from time to time. Regulations and standards change over time, or we may make improvements to the Service or changes to our business, which necessitate change. We will post changes to this page. If we make changes that materially alter your rights, we will provide an additional prominent notice.
 
 If you disagree with changes to this privacy policy, contact ViewRanger support to have your account and data deleted.
+
+## Revision History
+
+5th March 2019: Added detail of how data from Apple Health is used.
+
+9th July 2018: Added an additional type of analytics recording, where consent to collect is explicitly requested.
+
+25th May 2018: GPDR compliant version of this policy.
 
 ## Data Protection Officer
 
