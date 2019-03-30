@@ -1,25 +1,25 @@
-> *The following text is extracted and transformed from the businessofsoftware.org privacy policy that was archived on 2018-03-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180322073335id_/http%3A//thebln.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the businessofsoftware.org privacy policy that was archived on 2019-03-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190330133449id_/https%3A//businessofsoftware.org/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | The BLN
+# Privacy Policy - Business of Software USA
 
 **Company details**
 
-Violarth Ltd, trading as the Business Leaders Network  
-Company Registration number: 638 0 684  
+Violarth Ltd, trading as Business of Software  
+Company Registration number: 0638 0684  
 VAT Registration: GB 923 8313 29  
-Address: Newnham House, Cambridge Business Park, Cambridge, CB4 0WZ
+Address: The Bradfield Centre, Cambridge Science Park, CB4 0GA
 
-The BLN Privacy Policy is published by The BLN (henceforth ‘The BLN’). This Privacy Policy outlines our practices regarding collection and use of information relating to your use of the The BLN Web site (collectively, including all content available through the www.TheBLN.com domain and sub-domains, “the Site”)
+The Business of Software Privacy Policy is published by Business of Software. This Privacy Policy outlines our practices regarding the collection and use of information relating to your use of the Business of Software Web site (collectively, including all content available through the www.businessofsoftware.org domain and sub-domains, “the Site”)
 
-The BLN is registered with the UK’s Information Commission as a Data Controller (registration no. Z1667728) in accordance with the Data Protection Act of 1998.
+Business of Software is registered with the UK’s Information Commission as a Data Controller (registration no. A8436632) in accordance with the Data Protection Act of 1998.
 
-We take the privacy of Users of the Site seriously and we are committed to safeguarding the privacy of these Users while providing a personalised and valuable service. This privacy policy sets out our information-gathering and dissemination practices for the Site. If you have any requests concerning your personal information or any queries with regard to these practices please contact us by e-mail at [privacy@thebln.com](mailto:privacy@thebln.com)
+We take the privacy of Users of the Site seriously and we are committed to safeguarding the privacy of these Users while providing a personalised and valuable service. This privacy policy sets out our information-gathering and dissemination practices for the Site. If you have any requests concerning your personal information or any queries with regard to these practices please contact us by e-mail at [privacy@businessofsoftware.org](mailto:privacy@businessofsoftware.org)
 
 The Site collects information from Users during the registration process and, occasionally, at other times. We try and make the process as rapid and straightforward as possible and we are grateful for the information our Users provide. The more accurate the information we receive from each User, the more specific we can be in our ongoing contact with them.
 
 **Data protection**
 
-The Site will comply with the relevant UK Data Protection laws, so normally any personal details to be provided to us will not be disclosed to third parties outside The BLN’s Customers without the User’s consent (please see also the Site’s Terms and Conditions regarding Data Protection).
+The Site will comply with the relevant UK Data Protection laws, so normally any personal details to be provided to us will not be disclosed to third parties outside Business of Software’s Customers without the User’s consent (please see also the Site’s Terms and Conditions regarding Data Protection).
 
 Users must be aware and accept that, if we are requested by authorised third parties or regulatory or governmental agencies investigating illegal activities to provide information concerning Users’ activities whilst using the Site, we shall do so.
 
@@ -39,9 +39,9 @@ Registration information we receive from Users is used by us as follows:
 
 
 
-When you register, you can choose not to be contacted by us. Any of our Users can also contact us at any time to ask to be removed from our Subscriber list. If you wish to remove your details, you should contact us by email: [privacy@thebln.com](mailto:privacy@thebln.com)
+When you register, you can choose not to be contacted by us. Any of our Users can also contact us at any time to ask to be removed from our Subscriber list. If you wish to remove your details, you should contact us by email: [privacy@businessofsoftware.org](mailto:privacy@businessofsoftware.org).
 
-On registration, you will be provided with an opportunity to opt out of being automatically registered for other The BLN services, or from receiving information from The BLN or any advertiser or sponsor of the Site.
+On registration, you will be provided with an opportunity to opt out of being automatically registered for other Business of Software services, or from receiving information from Business of Software or any advertiser or sponsor of the Site.
 
 **Security**
 
@@ -49,14 +49,17 @@ We operate secure data networks protected by industry standard security systems.
 
 **Transfer of data**
 
-The Internet is a global environment. Using the Internet to collect and process personal data necessarily involves the transmission of data on an international basis. Therefore, by browsing the Site and communicating electronically with us you acknowledge and agree to our processing of personal data in this way. By agreeing to our transfer of your data to third party organisations for them to send you details of products and services offered (as referenced above) you are deemed to provide your consent to any transfer of your data to organisations based either inside or outside the European Economic Area. For more information on the Data Protection Act, go to: [www.dataprotection.gov.uk](http://thebln.com/privacy/www.dataprotection.gov.uk)
+The Internet is a global environment. Using the Internet to collect and process personal data necessarily involves the transmission of data on an international basis. Therefore, by browsing the Site and communicating electronically with us you acknowledge and agree to our processing of personal data in this way. By agreeing to our transfer of your data to third party organisations for them to send you details of products and services offered (as referenced above) you are deemed to provide your consent to any transfer of your data to organisations based either inside or outside the European Economic Area. For more information on the General Data Protection Regulation, go to: <https://eugdpr.org/>.
 
 **User access and control of your data**
 
-If you wish to amend any of the data which we hold about you, or update your marketing preferences, please contact [privacy@thebln.com](mailto:privacy@thebln.com)  In accordance with the Data Protection Act 1998, you may request a copy of the personal information we hold about you by contacting the information manager by email at [privacy@thebln.com](mailto:privacy@thebln.com) or writing to:
+If you wish to amend any of the data which we hold about you, or update your marketing preferences, please contact [privacy@businessofsoftware.org](mailto:privacy@businessofsoftware.org). In accordance with the General Data Protection Regulation 2018, you may request a copy of the personal information we hold about you by contacting the Data Protection Officer by email at [privacy@businessofsoftware.org](mailto:privacy@businessofsoftware.org) or writing to:
 
 Data Protection Officer  
-The BLN, Newnham House, Cambridge Business Park, Cambridge, CB4 0WZ
+Business of Software  
+Bradfield Centre  
+Cambridge Science Park  
+CB4 0GA
 
 We may charge the statutory allowable fee for provision of this information.
 
@@ -70,4 +73,4 @@ This policy is effective from 3 Feb 2009. From time to time we may make changes 
 
 **Contact**
 
-If you require more information on any of the above please contact us at: [privacy@thebln.com](mailto:privacy@thebln.com)
+If you require more information on any of the above please contact us at: [privacy@businessofsoftware.org](mailto:privacy@businessofsoftware.org)
