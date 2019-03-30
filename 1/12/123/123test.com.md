@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 123test.com privacy policy that was archived on 2017-03-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170322141825id_/https%3A//www.123test.com/about_123test) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 123test.com privacy policy that was archived on 2019-03-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190331000820id_/https%3A//www.123test.com/about_123test) for the most accurate reproduction.*
 
 # About 123test
 
@@ -15,9 +15,11 @@
 
 As a highly experienced test publisher that specializes in online testing, 123test® is committed to safeguarding your privacy and we regard the protection of personal data as being fundamentally important to the operation of our business. We will never ask you to provide information that may identify you as a specific individual. An email address may be required when you choose to receive test results or a newsletter by email. Such email addresses are never used for any other purpose. Additional research questions concerning your educational level, age, and sex are not obligatory and may be skipped if you choose to do so. When you do provide such information, it is used solely for statistical purposes to improve our tests and services. **We do not sell or share any of the information about you that is collected via our website**.
 
+You can also read our full [privacy statement](https://web.archive.org/privacy/ "Privacy statement 123test.com").
+
 ## How 123test ® makes money
 
-123test® makes money through the advertisements we display on our website. We may also offer more extensive reports which you can purchase if you choose to do so. Your visit to our website and any test result you receive is always guaranteed to be completely free of charge. No strings attached. If you enjoy using 123test.com, we only ask that you help us grow by sending links to a test to your friends, family, and colleagues. That's the best "thank you", you can give us and we appreciate it greatly!
+123test® makes money through the advertisements we display on our website. We may also offer more extensive reports which you can purchase if you choose to do so.Your visit to our website and all test results you receive freely are guaranteed to remain free of charge in the future. No strings attached. If you enjoy using 123test.com, we only ask that you help us grow by sending links to a test to your friends, family, and colleagues. That's the best "thank you", you can give us and we appreciate it greatly!
 
 ## Tests are based on cognitive science
 
