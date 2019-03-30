@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the movie-rater.com privacy policy that was archived on 2018-09-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180928023333id_/http%3A//movie-rater.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the movie-rater.com privacy policy that was archived on 2019-03-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190330133358id_/https%3A//movie-rater.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Movie Rater
 
@@ -99,7 +99,7 @@ If at any time you would like to unsubscribe from receiving future emails, you c
 and we will promptly remove you from **ALL** correspondence.  
 
 
-**Contacting Us**
+ **Contacting Us**
 
 If there are any questions regarding this privacy policy, you may contact us using the information below.
 
