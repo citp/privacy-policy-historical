@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the inwin-style.com privacy policy that was archived on 2018-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181204064018id_/https%3A//www.in-win.com/en/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the inwin-style.com privacy policy that was archived on 2019-03-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190330114803id_/https%3A//www.inwin-style.com/en/privacy-policy) for the most accurate reproduction.*
 
 # InWin Privacy Policy
 
