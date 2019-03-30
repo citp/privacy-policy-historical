@@ -1,11 +1,8 @@
-> *The following text is extracted and transformed from the livelaw.in privacy policy that was archived on 2018-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181230202809id_/https%3A//www.livelaw.in/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the livelaw.in privacy policy that was archived on 2019-03-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190330114712id_/https%3A//www.livelaw.in/privacy-statement) for the most accurate reproduction.*
 
 # Privacy Statement
 
 **_Live Law_** is committed to protect the privacy of all its users. In terms of our Privacy Statement:
-
-  
-
 
   *  Once registered on **_  Live Law_**, your username and location which you provide will be visible to other users of ** _  Live Law_**.
   *  Any comments posted on **_Live Law_** or posts made via the forums of **_Live Law_** are readable by the public.
