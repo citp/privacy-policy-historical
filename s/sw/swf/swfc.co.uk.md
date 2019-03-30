@@ -1,211 +1,254 @@
-> *The following text is extracted and transformed from the swfc.co.uk privacy policy that was archived on 2018-01-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180130152059id_/https%3A//www.swfc.co.uk/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the swfc.co.uk privacy policy that was archived on 2019-03-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190330160128id_/https%3A//www.swfc.co.uk/fans/swfc-privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - Sheffield Wednesday
+# SWFC Privacy Policy - Sheffield Wednesday
 
-## Introduction
+## Privacy Policy
 
-This privacy policy (“ **Policy** ”) describes the types of personal data you provide and/or EFL Digital Limited or the Club collect via your use of the official Club website and official mobile application, together with all services accessed through them (“ **Online Facilities** ”), what we may do with that personal data and your rights.
+1\. Introduction
 
-EFL Digital and the Club are joint Data Controllers of personal data collected by, or which you provide through, the Online Facilities, for the purpose of the Data Protection Act 1998 (“ **Data Protection Law** ”). [Find out company information about the Club and EFL Digital.](https://web.archive.org/company-details/)
+As one of our customers or someone else with whom we do business, you understand and agree that we collect, use and disclose your personal information in accordance with this Privacy Policy (this “Policy”).  
+We use your personal information in order to fulfil our commitment to providing sport products to you and with added services to improve our products and services which you experience in connection with all of your interactions with Sheffield Wednesday (the “Purpose”). As part of that undertaking, we are committed to safeguarding the privacy of the personal information that we gather.
 
-References to “ **we** ”, “ **us** ” and “ **our”** in this policy are all references to EFL Digital and the Club.
+2.    APPLICATION OF THIS POLICY
 
-‘Personal data’ is defined in the Data Protection Law and is essentially information from which an individual person can be identified. By submitting information and/or continuing to use the Online Facilities, you signify your consent to us using your personal data in accordance with the below.
+This Policy applies to personal information regarding fans and other individuals with whom we do business or who buy tickets, products, or services from us and to the use of that personal information in any form – whether oral, electronic or written.
 
-We may need to change the terms of this Policy from time to time and changes will be posted on this page (and/or where appropriate, otherwise notified to you). Your continued use of the Online Facilities will be deemed to be acceptance of amendments we make. This Policy was last updated on 4 April  2017.
+This Policy gives our commitment to protect your personal information and has been adopted by all of the separate and distinct legal entities that manage, operate, franchise, license, own and/or provide services to Sheffield Wednesday Football Club Limited. Those entities include the separate and distinct legal entities which provide services to you under the Sheffield Wednesday brand. References to “Sheffield Wednesday Football Club Limited.”, “we” and “our” throughout this Policy, depending upon the context, collectively refer to those separate and distinct legal entities.
 
-## How we use your personal data
+While this Policy is intended to describe the broadest range of our personal information processing activities globally, those processing activities may be more limited in some jurisdictions based on the restrictions of their laws. For example, the laws of a particular country may limit the types of personal information we can collect or the manner in which we process that personal information. In those instances, we adjust our internal policies and/or practices to reflect the requirements of local law.
 
-Use of services accessed through the Online Facilities may require you to provide specific types of information. 
+3.    DEFINITIONS
 
-We request that the information you provide is as accurate as possible as this allows us to secure your privacy in relation to registered services by differentiating you from others, and creating a “profile” for you so that we can provide a personalised service when you visit the relevant parts of the Online Facilities and/or we send you emails. Periodically we may send you an email asking you to “Update your Details”.
+Personal Data
 
-We use information about you for five primary purposes:
+Personal Data means data about a living individual who can be identified from those data (or from those and other information either in our possession or likely to come into our possession).
 
-  1. To perform the services you have requested, such as sending you our newsletters and other information about us, the EFL and its competitions. The type of information we may require and use might include, for example, your name, address, email address, gender, date of birth, telephone number and card or other payment details in relation to goods, services or content access you purchase from us through the Online Facilities or otherwise. We will NEVER share your financial information with other third parties for any reason other than processing transactions, fraud and credit risk protection, unless we have your consent.
-  2. To enable you to participate in chat rooms, forums, message boards, and/or news groups (if any, as we may make available for that purpose from time to time) on the Online Facilities on which you can post information and, where we deem necessary, to respond to any such posts you make. Information you post in these areas may become public information and must always comply with our [Terms of Use](https://web.archive.org/terms-of-use/) (in relation to the official Club website) and EULA (in relation to the official Club app).
-  3. To alert you to other information, including offers and promotions, relating to us, the EFL and/or commercial partners (where you have agreed to this). See below heading ‘ _Marketing Information_ ’ for more information about this. For example, such information may include newsletters, offers, promotions, occasional surveys and other communications of potential interest from us, or EFL official partners and/or The Football League Trust (company number 06466997) (“ **EFL** **Trust** ”) being a charity registered at the same address as the EFL and EFL Digital.
-  4. To carry out market research so that we can improve the products and services we offer. Your feedback is valued and helps to shape the products, services and content access we offer or make available. You will have the right to opt-out of receiving or participating in our surveys at any time.
-  5. To manage and improve the Online Facilities and allow you to use the features offered by the Online Facilities. Information we use for this purpose may include (for example) that about your computer and, where available, your IP address, operating system and browser type.
+Usage Data
 
+Usage Data is data collected automatically either generated by the use of the Service or from the Service infrastructure itself (for example, the duration of a page visit).
 
+Cookies
 
-We may also supplement the information that you provide with other information that we obtain from our dealings with you or which we receive from other organisations such as our commercial partners, and group companies (including EFL and the Trust).
+Cookies are small pieces of data stored on a user’s device.
 
-In addition, we reserve the right to perform statistical analysis of user behaviour and characteristics to measure interest in and use of the various areas of the Online Facilities and to ascertain the number of users that have visited particular web pages. We also keep track of what you do with our newsletters when you receive them for trends and statistics and to evaluate the efficiency of our newsletter and information service. For example, whether you open, delete, or access links contained in the newsletter. We may provide aggregated and anonymised data (not identifying any individual) only from these analyses to third parties.
+Data Controller
 
-### Marketing Information
+Data Controller means a person who (either alone or jointly or in common with other persons) determines the purposes for which and the manner in which any personal data are, or are to be, processed.
 
-We do not sell, rent, or otherwise provide personally identifiable information to third-parties without your consent, except only as set out in the ‘ _Disclosing (Sharing) Your Information_ ’ section below.
+For the purpose of this Privacy Policy, we are a Data Controller of your data.
 
-From time to time we, the EFL group companies, and/or commercial partners (if you have agreed to receive their information when you provided your personal information) would like to contact you to tell you more about the offers, services, products and other initiatives available to you.
+Data Processor (or Service Providers)
 
-We, EFL, and/or our commercial partners will only contact you if you have consented to this. However, if you are an existing customer (and have opted to receive communications) we may contact you about services, products and initiatives similar to those you have previously received or enquired about (unless you have chosen not to receive such communications).
+Data Processor (or Service Provider) means any person (other than an employee of the Data Controller) who processes the data on behalf of the Data Controller.
 
-If, at any time after registering, you would like to change your preference and opt-in or opt-out from receiving communications from us or third-parties you can do this at any time by changing your preferences on your personal profile page, which is accessible from all of our emails.
+We may use the services of various Service Providers in order to process your data more effectively.
 
-### Cookies 
+Data Subject
 
-The Online Facilities use cookies. A cookie is a small file containing an identity code. With your consent, your computer accepts the cookie and stores it. When you next visit the relevant Online Facilities, the code is retrieved, allowing an individual visitor or computer to be recognised. Full information on which cookies we deploy is available in our Cookies Policy.
+Data Subject is any living individual who is the subject of Personal Data.
 
-### Links to third party websites & services
+User
 
-We are not responsible or liable for the content, privacy policies or services offered by websites or apps other than the Online Facilities, including those which link from any of the Online Facilities (with the exception of (i) the Club’s official ticketing and merchandise service for which the Club (but not EFL Digital) is responsible for and (ii) the official EFL website which EFL Digital controls). We encourage you to read and familiarise yourself with the privacy policies, terms and conditions and/or other notices on other websites you visit. 
+The User is the individual using our Service. The User corresponds to the Data Subject, who is the subject of Personal Data.
 
-## Children and Young People
+4.    TYPES OF PERSONAL INFORMATION WE COLLECT
 
-We realise and understand that children and young people, including those under 18 years of age (“ **minors** ”) may visit the Online Facilities, or otherwise interact with us and our commercial partners.
+The term “personal information” in this Policy refers to information that does or is capable of identifying you as an individual. The types of personal information that we process (which may vary by jurisdiction based on applicable law) include:
 
-It is our policy:
+•    your name, gender, personal and work contact details, date and place of birth, image/photos, nationality;  
+•    your credit card details, and your account details such as customer reference number or customer ID and credentials;   
+•    information, feedback or content you provide regarding your marketing preferences, in surveys, sweepstakes, contests, or promotional offers, or to our websites or apps and those of third parties; or;  
+•    information collected whilst you access a PML app or website (we describe this in more detail in Sections 8 and 9 below).
 
-  1. to encourage all minors to consult with their parents or legal guardian before submitting or requesting any content or information to/from us, our commercial partners or other third parties. Users of the Online Facilities, or certain services on them, who indicate they are a minor may be asked to provide a valid email address for their parent or guardian so that we may (providing they have their parent or guardian’s permission) verify parental consent, where required;
-  2. not to make a minor's participation in our activity contingent on the child disclosing any more personal information than is reasonably necessary in order to do so. Anyone known to be a minor may be allowed to participate in certain competitions and promotions, but notification of a win or prize may be sent directly to the parent or legal guardian identified in the initial registration process. Publication of a winning minor’s personal details will require parental or legal guardian consent;
-  3. not to actively market to minors; and
-  4. not use (or pass to any third party) personal information on persons known to be minors for any commercial purposes.
+Much of the personal information we process is information that you or someone acting on your behalf knowingly provides to us. However, in other instances, we process personal information that we are able to infer about you based on other information you provide to us or during our interactions with you, or personal information about you that we receive from a third party. This Policy also applies to the personal information about you that we receive from a third party, unless specifically covered by such third party’s privacy policy.
 
+There may be instances in which the personal information that you provide to us or that we collect is considered Sensitive Personal Information under the privacy laws of some countries. Those laws define “Sensitive Personal Information” to mean personal information from which we can determine or infer an individual’s racial or ethnic origin, political opinions, religious beliefs or other beliefs of a similar nature, membership in a trade union or professional association, physical or mental health or condition, medical treatment, genetic data, sexual life or judicial data (including information concerning the commission or alleged commission of a criminal offence). In some very rare instances, financial records may form part of Sensitive Personal Information where you are located. We only process Sensitive Personal Information in your jurisdiction if and to the extent permitted or required by applicable law.
 
+When you agree to this Policy you are, to the extent required under your local law, granting your express and written consent to the processing of any personal information that you provide to Sheffield Wednesday Football Club Limited that is considered to be Sensitive Personal Information or financial information. Save to the extent required by law, you are not obliged to provide Sheffield Wednesday with any of your Sensitive Personal Information, and should you chose not to, this will not prevent you from purchasing any products or services from Sheffield Wednesday Football Club Limited.
 
-Some of the facilities or functions accessible through the Online Facilities (including betting facilities advertised or accessed through it) are not intended to be accessible by, nor are they actively advertised to, minors.
+5.    HOW WE USE PERSONAL INFORMATION
 
-Parents or legal guardians should supervise minors when online and we recommend parental control tools be put in place. Any minor using the Online Facilities and services offered is confirming that they have received the consent of their parent or a guardian to do so.
+Subject to applicable laws, we may collect, use and disclose relevant portions of your personal information in order to:
 
-## Storing and retaining your personal data
+•    provide and charge for products and related services;  
+•    provide you with a better or more personalised level of product, service, and/or experience including information and services from a third party (such as other products, or offers related to your preference for a given product);  
+•    respond to requests for information and services, including services from a third party (such as companies who make and transport products, provide services, and research product buyers);  
+•    administer the Sheffield Wednesday newsletter and updates product;  
+•    fulfil contractual obligations to you, anyone involved in the process of making your access to products the best possible;  
+•    conduct market research, customer satisfaction and quality assurance surveys, and direct marketing and sales promotions;  
+•    provide for the safety and security of staff, or other buyers;  
+•    administer general record keeping;  
+•    meet legal and regulatory requirements; or;  
+•    test and evaluate new products and services;
 
-We are committed to protecting the security of your personal data, which is held in secure data centres in the European Union in accordance with current legislative requirements, industry standards and technology. We will keep the personal data you have provided for as long as we have a relationship with you. Once that relationship has ended we will retain it in accordance with this Policy only for as long as we reasonably require and it will then be deleted and destroyed.
+Sheffield Wednesday Football Club Limited. uses and retains your personal information for as long as is necessary to fulfil the Purpose.  There is a retention schedule in place and you can request to see this.
 
-Some of the organisations to which we may disclose your personal information (including, but not limited to, our technical partners used in delivery of the Online Facilities) may be situated outside of the European Economic Area, in countries which may not have laws that protect privacy rights in the same manner as in the United Kingdom. We will however take reasonable steps to ensure that your information is still properly protected.
+6.    DISCLOSURES OF YOUR PERSONAL INFORMATION
 
-## Security
+From time to time, we may disclose your personal information. We would always make that disclosure in agreement with applicable law. In some jurisdictions, data privacy laws may require us to obtain your consent before we transfer your information from your originating country to other countries. When you agree to this Policy, you are, to the extent required and permitted under your local law, granting your consent to the transfer of your personal information to such other countries for the Purpose and to the extent stated in this section and as described in Section 4 above.  
+Circumstances where we might make such disclosure (in addition to those described in Section 5 above) include:  
+Our Agents, Service Providers and Suppliers
 
-Once it is received we store your personal data as set out in this Policy. Financial information you provide through the Club iFollow service is also encrypted for additional security.
+Like most clubs, we may outsource the processing of certain functions and/or information to third parties. We may also engage market research firms to assist us in contacting fans for the purpose of market research and quality assurance. When we do outsource the processing of your personal information to third parties or provide your personal information to third-party service providers, we oblige those third parties to protect your personal information in accordance with the terms and conditions of this Policy, with appropriate security measures.
 
-We cannot guarantee the complete security of our databases, nor that information you supply may not be intercepted while being transmitted to us over the internet.
+Consumer Insights
 
-If we have given you a password to access certain parts of the Online Facilities, you are solely responsible for keeping the password safe and make sure you use a secure browser.
+Where we hold personal information about you, we may disclose this personal information to other companies that also hold information about you. These companies may combine the information in order to better understand your preferences and interests, thereby enabling them and us to serve you better. If your personal information is used for direct marketing purposes, you have the right to object to that by contacting us using the contact information provided under Section 12 below.
 
-## Disclosure (sharing) of your information
+Business Transfers
 
-We have already described in the ‘ _Marketing Information_ ’ section of this Policy under what circumstances your personal information may be shared with our commercial and official partners, if you have agreed.
+As we continue to develop our business, we may sell Sheffield Wednesday assets, or cease being the manager or franchisor of product that is currently part of our portfolio. In those circumstances, we may include the personal information collected about you, or control of that personal information, as a business asset in any such transfer. Also, in the unlikely event that we, or substantially all of our assets, are acquired, personal information collected about you, or control of such information, may be one of the transferred assets.
 
-In addition, there are some other reasons why we may disclose your personal information to third parties and these are as follows:
+Legal Requirements
 
-  * to other companies within our corporate group including (in the case of EFL Digital, EFL and/or the EFL Trust);
-  * to appoint other organisations to carry out some data processing activities on our behalf. For example, mailing services, payment processing, hosting service providers, other relevant partners used to help us deliver the Online Facilities to you and to check your details against the Telephone Preference Service;
-  * If we or substantially all of our assets are acquired by a third party, in which case personal data held by us about customers will be one of the transferred assets;
-  * If we are under a duty to disclose or share your personal data to comply with any legal obligation, or to enforce or apply any of our other applicable terms and conditions for products, services, content or access provided by us (for example our ground regulations) and other agreements; and/or
-  * to protect the rights, property, or safety of us, our commercial partners, our customers, or others. This includes exchanging information with other companies and organisations for the purposes of fraud protection and credit risk reduction.
+We reserve the right to disclose any personal information we have concerning you if we are compelled to do so by a court of law or lawfully requested to do so by a governmental entity or if we determine it is necessary or desirable to comply with the law or to protect or defend our rights or property in accordance with applicable laws. We also reserve the right to retain personal information collected and to process such personal information to comply with accounting and tax rules and regulations and any specific record retention laws.
 
+7.    CENTRALISED DATA PROCESSING ACTIVITIES
 
+Like most international businesses, we have centralised certain aspects of our data processing activities in accordance with applicable laws, which, in many instances, will result in the transfer of your personal information from one country to another. For example, if you purchase a product while located outside of the UK, the personal information gathered in that process might be transferred to and processed to a company outside of the UK so as to deliver the product to you, in accordance with Sheffield Wednesday Football Club Limited’s binding corporate rules (where they apply to you). The jurisdictions where that information will be processed may or may not have laws that seek to preserve the privacy of personal information. Nevertheless, whenever your personal information is transferred within Sheffield Wednesday Football Club Limited and subcontracted companies, your personal information will be processed in accordance with the terms and conditions of this Policy and applicable laws.
 
-Where we share your personal information with third parties we will take reasonable steps to ensure that it is properly protected and processed in accordance with this Policy.
+8.    INFORMATION WE COLLECT WHEN YOU VISIT US ONLINE
 
-## Your rights to:
-
-All requests set out in this section or other queries relating to this Policy should be addressed to Data Protection Compliance Officer at EFL Digital Limited, EFL House, 10-12 West Cliff, Preston, Lancashire PR1 8HU or [privacy@efl.com](mailto:privacy@efl.com). Please include your name, address, and/or email address when you contact us.
-
-### Access Your Personal Information:
-
-You have the right to see a copy of the information that we hold about you. We may charge a small fee towards the cost of administering any request you make which is manifestly unfounded, excessive or repetitive. The current fee is £10.00.
-
-### Update and Amend Your Personal Information:
-
-You have the right to ask that the information we hold about you is corrected by updating/changing your profile preferences or by contacting us as above. We encourage you to update your personal information promptly if it changes.
-
-### Opt-out of Being Contacted:
-
-You have the right to ask that we, the EFL group companies and/or commercial partners stop contacting you by clicking the relevant boxes on the screen upon which you provide information or by contacting us.
-
-### Close Your Account/Delete Your Personal Information:
-
-You (and any parent/guardian of a minor) have the right to request that we close your account and/or delete your personal information from our database. We will make all reasonable efforts to comply with this request. However, it may not be possible to delete an entry without some delay and without retaining some residual personal information necessary for our legitimate interests, such as backups and records of deletions (including to ensure we no-longer communicate with you) or because we are required or permitted to retain personal information for other lawful requirements.
-
-If you are dissatisfied with our response to any of your data privacy concerns you have the right to raise this with the Office of the Information Commissioner at Wycliffe House, Water Lane, Wilmslow, Cheshire, SK9 5AF ([https://ico.org.uk](https://ico.org.uk/)).
-
-## Cookies Policy
-
-This Cookies Policy applies to the official Club website and official mobile application (operated by EFL Digital on behalf of the Club) (“ **Online Facilities** ”) and should be read alongside our Privacy Policy which explains who we are, the type of information we may hold about you and how we use it.
-
-The Online Facilities use cookies. A cookie is a small file containing an identity code. With your consent, your device accepts the cookie and stores it. When you next visit the Online Facility, the code is retrieved, allowing an individual visitor or device to be recognised. 
-
-Cookies are used for a variety of purposes, including providing personalised web pages and recognising your choice of language. Cookies do not cause harm to your device, but, if you wish to stop your computer accepting cookies, go to the help section of your internet browser (for example, Internet Explorer or Firefox) where you will find information on how to do this. 
-
-### Site Cookies
-
-In the context of the Site, the following cookies are deployed:
-
-Cookie | Name | Description | Duration  
----|---|---|---  
-ASP.NET_SessionId | ASP.NET_SessionId | Session cookie sent to the web browser. Used when you open the browser and then go to a website that implements ASP.NET session state. This cookie is deleted when you close your browser. | Session  
-Session ID | JSESSIONID | Cookie used by web server to maintain HTTP session state. | Session  
-EPiServerLogin | EPiServerLogin | This cookie is associated with the EpiServer content management system. It is set when a visitor logs in to a protected area of a site. | Session  
-ARRAffinity | ARRAffinity | This cookie is set by websites run on the Windows Azure cloud platform. It is used for load balancing to make sure the visitor page requests are routed to the same server in any browsing session. | Session  
-__RequestVerificationToken | __RequestVerificationToken | This is an anti-forgery cookie set by web applications built using ASP.NET MVC technologies. It is designed to stop unauthorised posting of content to a website, known as Cross-Site Request Forgery. It holds no information about the user and is destroyed on closing the browser. | Session  
-__atuvc | __atuvc | This cookie is associated with the AddThis social sharing widget which is commonly embedded in websites to enable visitors to share content with a range of networking and sharing platforms. | 2 years  
-__atuvs | __atuvs | This cookie is associated with the AddThis social sharing widget which is commonly embedded in websites to enable visitors to share content with a range of networking and sharing platforms. | 1 month  
-__epiXSRF | __epiXSRF | Protects against Cross-site Request Forgery (XSRF) | Session  
-OPTAW_gaCookie | OPTAW_gaCookie | This cookie is associated with the Opta performance widgets. It is used by Opta to determine which webpages the widgets are being loaded from. | 2 years  
-UserID | UserID | Randomly generated user id cookie for ADITION Ad Serving | 180 Days  
-Username | UserName | When user checks “Keep Me Signed In”, this cookie stores the username value. If user is signed out, we use this cookie to prepopulate the username field for subsequent authentication | 90 days  
-Iv_CampaignID | Iv_ | Campaign ID of the served ad for postracking campaigns for ADITION Ad Serving | 180 Days  
-fc | fc | Contains information for frequency capping contains for ADITION Ad Serving | 180 Days  
-__cfduid | __cfduid | Cloudflare CDN security cookie | 1 year  
-videoaccesslevel | videoaccesslevel | Used to track video access level for front-end display purposes only | Session  
-videologgedin | videologgedin | Used to track if user is logged in for front-end display purposes only | Session  
-videosession | videosession | A unique ID for video analytics to identify the user | Session  
-videotoken | videotoken | a cookie to store the user’s OAUTH video access token before being put in local storage ( | Briefly after log in  
-videorefreshtoken | videorefreshtoken | a cookie to store the user’s OAUTH refresh access token before being put in local storage | Briefly after log in  
-_ga | _ga | This cookie is used to distinguish unique users by assigning a randomly generated number as a client identifier. It is included in each page request in a site and used to calculate visitor, session and campaign data for the sites analytics reports. | 2 years  
-cookieconsent_status |   | Created by the Cookie Consent widget and enables you to accept our cookie statement once every year. | 1 year  
-Link Token | nllinktoken | When user checks “Keep Me Signed In”, this cookie stores the user authentication token used for automatic sign in across browser sessions. | 90 Days  
-Referral | refer | Used for referral tracking and conversion. Inbound referral URL clickthroughs will result in this cookie being generate. Any conversions will be attributed to the referrer of the referral URL | 2 Days  
-_gat | _gat | Used by Google Analytics to throttle request rate. | 10 minutes  
-_dc_gtm | _dc_gtm | Used by Google Tag Manager to distinguish users and events on the website and analyse how users interact with the website. | End of session  
-OPTAW_gaCookie | OPTAW_gaCookie | This cookie is associated with the Opta performance widgets. It is used by Opta to determine which webpages the widgets are being loaded from. | 2 years  
-OPTAW_gaCookie_gid | OPTAW_gaCookie_gid | This cookie is used by Opta to distinguish visitors viewing webpages the widgets are being loaded from. | 24 hours  
-_gid | _gid | Used by Google Analytics to distinguish site users. | 24 hours  
-_gat  
-_gat_UA-nnnnnnn-nn | _gat  
-_gat_UA-nnnnnnn-nn | Used by Google Analytics to monitor request rates toward their servers. | 10 mins  
-SnapABugRef | SnapABugRef | Used by SnapEngage Chat for tracking of origin and site entry. | 2 hours  
-SnapABugChatSession | SnapABugChatSession | Used by Snap Engage Chat for tracking of chat in progress. |    
-SnapABugNoProactiveChat | SnapABugNoProactiveChat | Used by Snap Engage Chat - flag to avoid proactively prompting visitors again. | 30 mins  
-SnapABugChatPoll | SnapABugChatPoll | Used by Snap Engage Chat for tracking of the chat in progress transcript position. | 16 mins  
-SnapABugChatMessage | SnapABugChatMessage | Used by Snap Engage Chat for message type by visitor persistence across pages. | 16 mins  
-SnapABugChatView | SnapABugChatView | Used by Snap Engage Chat for checking logic handling. | 16 mins  
-SnapABugHistory | SnapABugHistory | Used by Snap Engage Chat to keep track of the visitor visits and last chats to present history to agent. | 1 year  
-SnapABugVisit | SnapABugVisit | Used by Snap Engage Chat for chat detection. | Session only  
-SnapABugUserEmail | SnapABugUserEmail | Used by Snap Engage Chat for visitor email address used to prepopulate the pre-chat window. | 1 year  
-SnapABugBanned | SnapABugBanned | Used by Snap Engage Chat for tracking of visitor banned for chatting (banned by agent ban command). | 30 days  
-videocheckloggedin | videocheckloggedin | A cookie to help with login after package purchase | Session or shorter  
-videocheckingloggedin | videocheckingloggedin | A cookie to help with login after package purchase | 1 minute  
-  
-###   
+If you access any Sheffield Wednesday Football Club Limited. website, you may wish to know the following:
+
+•    You can browse without revealing who you are.  
+•    You can always visit our websites without logging in or otherwise revealing who you are.
+
+Usage Information
+
+When you visit our websites, we collect information about how you use those websites. Examples of such information include the Internet Protocol address automatically assigned to your computer each time you browse the Internet, the date and time of your visit, the pages you access and the amount of time you spend on each page, the type of Internet browser you use, your device’s operating system and the URL of any websites that you visited before and after visiting our website. That information is not linked to you as an individual unless you create a user profile, but we may keep records of the device being used.
+
+Tracking and Cookies Data
+
+We use cookie technology on our websites to allow us to evaluate and improve the functionality of our websites. Cookies by themselves cannot be used to reveal your identity. They identify your browser, but not you, to our servers when you visit our websites.
+
+Cookies are files with small amount of data which may include an anonymous unique identifier. Cookies are sent to your browser from a website and stored on your device. Tracking technologies also used are beacons, tags, and scripts to collect and track information and to improve and analyse our Service.
+
+If you do not want to accept cookies, you can block them by adjusting the settings on your Internet browser. However, if you block them, you will not be able to use all of the features of our websites, including the customisation features associated with creating a user profile.  
+Further information about cookies and other similar technology and how they work is available at allaboutcookies.org.
+
+Examples of Cookies we use:
+
+•    Session Cookies. We use Session Cookies to operate our Service.  
+•    Preference Cookies. We use Preference Cookies to remember your preferences and various settings.  
+•    Security Cookies. We use Security Cookies for security purposes.
+
+Social Media
+
+Our websites may also contain plug-ins and other features that integrate third party social media platforms into our websites. You will be able to activate them manually. If you do so, the third parties who operate these platforms may be able to identify you, they may be able to determine how you use this website and they may link and store this information with your social media profile. Please consult the data protection policies of these social media platforms to understand what they will be doing with your personal data. If you activate these plug-ins and other features, you will be doing so at your own risk.
+
+Creating a User Profile
+
+You can create a user profile on Sheffield Wednesday Football Club Limited website to, amongst other things, facilitate your online transactions and to tailor your experience on our websites to your interests. This allows us to make more appropriate recommendations to you. We may use the information you provide in your user profile to populate other databases maintained by us and our service providers, as applicable. By creating a user profile, you are agreeing that we may use the personal information you provide for these purposes.
+
+You can view, update or remove any personal information that you have provided to us for inclusion in your user profile by amending your user profile online or emailing privacy@swfc.co.uk. If you subsequently elect to remove your user profile, we reserve the right to use any personal information previously provided by you for inclusion in your user profile for record keeping and quality assurance purposes (unless we are required by law to delete or cease to process or use your personal information). Even if you choose not to create a user profile, you can still use our websites to search for and purchase services.
+
+Security
+
+Because the security of your personal information is important to us, we use Secured Socket Layer (“SSL”) software in order to encrypt the personal information that you provide to us. If your browser is SSL enabled (which most are), your transmission of personal information to us online will be encrypted. You can verify whether your personal information is transmitted using SSL encryption by confirming the symbol of a closed lock or solid key on the bottom bar of your browser window. You can also verify that your personal information will be encrypted using SSL encryption by making sure that the prefix for the web address listed for that page has changed from “http” to “https”. If you do not see the appropriate symbol and the “https” prefix, you should not assume that the personal information that you are being asked to provide will be encrypted prior to transmission.
+
+The personal information we collect from you online is stored by us and/or our service providers on databases protected through a combination of physical and electronic access controls, firewall technology and other reasonable security measures. Nevertheless, such security measures cannot prevent all loss, misuse or alteration of personal information and we are not responsible for any damages or liabilities relating to any such incidents to the fullest extent permitted by law. Where required under law, we will notify you of any such loss, misuse or alteration of personal information that may affect you so that you can take the appropriate actions for the due protection of your rights.
+
+Minor Children
+
+Our websites do not sell products or services for purchase by children and we do not knowingly solicit or collect personal information from children. If you are under the age of 18 (or a minor in the jurisdiction in which you are accessing our websites), you may only use our websites with the involvement of a parent or guardian.
+
+Targeted Advertising
+
+This may include advertisements displayed on our own websites or apps, or advertisements from us displayed on other companies' websites. The advertisements you see may be based on information collected by us or third parties and/or may be based on your activities on our websites or third-party websites.
+
 Google Analytics
 
-Google Analytics uses traffic log cookies to gain information about the use that is made of pages on the applicable Online Facilities. We use the information from these cookies to generate reports on the usage of the applicable Online Facilities which are used for evaluation and analysis. The purpose is to improve the Online Facilities by tailoring them to the needs of users.
+Google Analytics is a web analytics service offered by Google that tracks and reports website traffic. Google uses the data collected to track and monitor the use of our Service. This data is shared with other Google services. Google may use the collected data to contextualise and personalise the ads of its own advertising network.
 
-In such cases, no data which is itself specific to any identifiable user is retained.
+You can opt-out of having made your activity on the Service available to Google Analytics by installing the Google Analytics opt-out browser add-on. The add-on prevents the Google Analytics JavaScript (ga.js, analytics.js, and dc.js) from sharing information with Google Analytics about visits activity.
 
-In addition to standard analytics parameters, we receive data via Google Analytics Advertising Features including information about 'Demographics and Interest Reporting' which gives us greater insight into the  _types_  of visitors we receive.
+For more information on the privacy practices of Google, please visit the Google Privacy & Terms web page: http://www.google.com/intl/en/policies/privacy/
 
-As a user you can opt out of this process of collecting traffic log data. To do so please visit the  following site which provides a browser add-on that enables a user to opt out -
+Behavioral Remarketing
 
-[**http://tools.google.com/dlpage/gaoptout**](http://tools.google.com/dlpage/gaoptout)
+Sheffield Wednesday Community Programme uses remarketing services to advertise on third party websites to you after you visited our Service. We and our third-party vendors use cookies to inform, optimise and serve ads based on your past visits to our Service.
 
-### Miscellaneous
+Google AdWords
 
-All modern browsers allow you to change your cookie settings. These settings will typically be found in the 'options' or 'preferences' menu of your browser. To understand these settings, the following links may be helpful, otherwise you should use the 'Help' option in your browser for more details.
+Google AdWords remarketing service is provided by Google Inc.
 
-[Cookie settings in Internet Explorer](https://support.microsoft.com/en-gb/help/17442/windows-internet-explorer-delete-manage-cookies)
+You can opt-out of Google Analytics for Display Advertising and customise the Google Display Network ads by visiting the Google Ads Settings page: http://www.google.com/settings/ads
 
-[Cookie settings in Firefox](https://support.mozilla.org/en-US/kb/enable-and-disable-cookies-website-preferences)
+Google also recommends installing the Google Analytics Opt-out Browser Add-on – https://tools.google.com/dlpage/gaoptout – for your web browser. Google Analytics Opt-out Browser Add-on provides visitors with the ability to prevent their data from being collected and used by Google Analytics.
 
-[Cookie settings in Chrome](https://support.google.com/chrome/answer/95647?co=GENIE.Platform%3DDesktop&hl=en)
+For more information on the privacy practices of Google, please visit the Google Privacy & Terms web page: http://www.google.com/intl/en/policies/privacy/
 
-[Cookie settings in Safari](https://support.apple.com/kb/ph21411?locale=en_US)
+Twitter
 
-[Cookie settings in Edge](https://support.microsoft.com/en-gb/help/17442/windows-internet-explorer-delete-manage-cookies)
+Twitter remarketing service is provided by Twitter Inc.
 
-We do not recommend turning cookies off when using the Online Facilities, as this will prevent you from using many of the services on the relevant Online Facility to which the cookies apply.
+You can opt-out from Twitter’s interest-based ads by following their instructions: https://support.twitter.com/articles/20170405  
+You can learn more about the privacy practices and policies of Twitter by visiting their Privacy Policy page: https://twitter.com/privacy
 
-For further information about cookies and how to control their use, please visit the following third party educational resources: [www.allaboutcookies.org](http://www.allaboutcookies.org/)  and [www.youronlinechoices.eu](http://www.youronlinechoices.eu/)
+Facebook
+
+Facebook remarketing service is provided by Facebook Inc.
+
+You can learn more about interest-based advertising from Facebook by visiting this page: https://www.facebook.com/help/164968693837950  
+To opt-out from Facebook’s interest-based ads follow these instructions from Facebook: https://www.facebook.com/help/568137493302217  
+Facebook adheres to the Self-Regulatory Principles for Online Behavioural Advertising established by the Digital Advertising Alliance. You can also opt-out from Facebook and other participating companies through the Digital Advertising Alliance in the USA http://www.aboutads.info/choices/, the Digital Advertising Alliance of Canada in Canada http://youradchoices.ca/ or the European Interactive Digital Advertising Alliance in Europe http://www.youronlinechoices.eu/, or opt-out using your mobile device settings.
+
+For more information on the privacy practices of Facebook, please visit Facebook’s Data Policy: https://www.facebook.com/privacy/explanation
+
+9.    APPS
+
+When you download or register to use one of our apps or digital products, you may submit personal information to us such as your name, address, email address, phone number, date of birth, username, password and other registration information, financial and credit card information, personal description and/or image.
+
+Further, when you use our apps, we may collect certain information automatically, including technical information related to your mobile device, your device’s unique identifier, your mobile network information, the type of mobile browser you use and information about the way you use the app.
+
+Depending on the particular app you use and only after you have agreed to such collection, we may also collect information stored on your device, including contact information, friends lists, login information (where necessary to allow us to communicate with other apps at your request), photos, videos, location information or other digital content. Further details of the kinds of information we collect is set out in the privacy notice for each individual app.
+
+10.    CHOICE
+
+You may always choose what personal information (if any) you wish to provide to us. However, if you choose not to provide certain details, some of your experiences with us may be affected (for example, we cannot deliver a product without an address).
+
+If you provide us with your contact details (e.g. postal address, email address, telephone number or fax number), we may contact you to let you know about the products, services, promotions and events offered that we think you may be interested in. We may also share your personal information with carefully-selected third parties, who may communicate directly with you. In some jurisdictions, data privacy laws may require us to obtain a separate consent before we do so. You can always choose whether or not to receive any or all of these communications by contacting us as described in Section 12 below or following the “unsubscribe” instructions contained in the communications.
+
+If you have an account with Sheffield Wednesday Football Club Limited, we ask you to indicate your communication preferences at the time you apply for membership or when you create your user profile. We may also ask you to indicate how you would like to receive any offers, marketing and promotional information (e.g. via email or regular mail) and whether you would be willing to participate in surveys. Once you have indicated your preferences, you can always change them.
+
+In some jurisdictions, in addition to you agreeing to this Policy, data privacy laws may require us to obtain a separate consent before we send you information that you have not specifically requested. In certain circumstances, your consent may be implied (e.g. where communications are required in order to fulfil your requests and/or where you have volunteered information for use by us). In other cases, we may seek your consent expressly in accordance with applicable laws (e.g. where the information collected is regarded to be Sensitive Personal Information under local regulations).
+
+We will abide by any request from you not to send you direct marketing materials. When such a request is received, your contact details will be “suppressed” rather than deleted. This will ensure that your request is recorded and retained unless you provide a later consent that overrides it.
+
+11.    UPDATING OR ACCESSING YOUR PERSONAL INFORMATION   
+With some limited exceptions, you have rights to access and update personal information held about you. If you want to inquire about any personal information we may have about you, you can do so by sending us a written request by letter or email to the addresses set out in Section
+
+12 below. Please be sure to include your full name, address, and/or email address and phone number so we can ascertain your identity and whether we have any personal information regarding you, or in case we need to contact you to obtain any additional information we may require to make that determination.
+
+You may request that we correct, cancel, and/or stop processing or using personal information that we hold about you. If we agree that the personal information is incorrect, or that the processing should be stopped, we will delete or correct the personal information. If we do not agree that the personal information is incorrect we will tell you that we do not agree, explain our refusal to you and record the fact that you consider that personal information to be incorrect in the relevant file(s).
+
+12.    CHANGES TO THIS POLICY
+
+Just as our business changes constantly, this Policy may also change. To assist you, this Policy has an effective date set out at the end of this document. Any substantial changes to this policy will be communicated via email.
+
+13.    REQUEST FOR ACCESS TO PERSONAL INFORMATION / QUESTIONS OR COMPLAINTS
+
+According to applicable law, you have a right of access to a copy of the information comprised in your personal data; a right to object to processing that is likely to cause or is causing damage or distress; a right to prevent processing for direct marketing; a right to object to decisions being taken by automated means; a right in certain circumstances to have inaccurate personal data rectified, blocked, erased or destroyed; and a right to claim compensation for damages caused by a breach of the Data Protection Act.
+
+If you have any questions about this Policy, about the processing of your data described, or any concerns or complaints with regard to the administration of the Policy, or if you would like to submit a request (in the manner described in Section 10 above) for access to or deletion of the personal information that we maintain about you, please contact us by any of the following means:
+
+•    by calling one of the following toll-free reservation numbers located at the Customer Service page on swfc.co.uk   
+•    by mail at Sheffield Wednesday Football Club Limited, Hillsborough Stadium, Sheffield, S6 1SW   
+•    by contacting the front desk at Sheffield Wednesday Football Club Limited on 03700 20 1867 (Option 7)
+
+If you are not satisfied with the response that you receive, you can escalate your concern to the Data Protection Officer by sending an email to privacy@swfc.co.uk.
+
+Please note that if requests are found to be unfounded or excessive, we reserve the right to charge a fee, if permitted under applicable law, or refuse to respond. Where we refuse to respond to a request, we will explain why to you, informing you of your right to complain to the supervisory authority and to a judicial remedy without undue delay and at the latest within one month.
+
+The purpose of the fee is to cover administrative costs. Where you make more than one request in quick succession, we may respond to your subsequent request by referring to our earlier response and only identifying any items that have changed materially.
+
+You may request that we correct, cancel, and/or stop processing or using personal information that we hold about you. If we agree that the personal information is incorrect, or that the processing should be stopped, we will delete or correct the personal information. If we do not agree that the personal information is incorrect we will tell you that we do not agree, explain our refusal to you and record the fact that you consider that personal information to be incorrect in the relevant file(s).
+
+All requests for access to your personal information must be submitted in writing by letter to Data Protection Officer, Sheffield Wednesday Football Club, Hillsborough Stadium, Sheffield, S6 1SW or email privacy@swfc.co.uk. We may respond to your request by letter, email, telephone or any other suitable method.
+
+If you wish to access your personal data (make a Subject Access Request), please [CLICK HERE](https://web.archive.org/siteassets/pdf-links/sar-form.docx) and complete the attached form.  This form will be used by the Data Protection Officer at Sheffield Wednesday Football Club to consider your request.  In order for any request to be processed, a copy of your identification will need to be provided.  In the event you are acting on behalf of someone else, you will need to provide a copy of their ID and a letter of consent giving you permission to act on their behalf.
+
+Effective Date: May 1, 2018
+
+In the event of any inconsistencies between the English version of this Policy and any version of this Policy in any other language, the English version shall prevail (to the fullest extent permitted under applicable law).
