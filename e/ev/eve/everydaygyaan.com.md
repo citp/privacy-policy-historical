@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the everydaygyaan.com privacy policy that was archived on 2018-08-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180829090447id_/https%3A//everydaygyaan.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the everydaygyaan.com privacy policy that was archived on 2019-03-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190330212909id_/https%3A//everydaygyaan.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Everyday Gyaan
 
@@ -212,8 +212,10 @@ These websites may collect data about you, use cookies, embed additional third-p
 
 We reserve the right to make changes to this Privacy Policy. Kindly check this page often, referring to the date of the last modification listed here. For changes that affect data processing based on user-consent, fresh consent will be collected where required.
 
-Updated on 6 July 2018
+Updated on 12 February 2019
+
+[](https://shareasale.com/r.cfm?b=1276284&u=667621&m=46133&urllink=&afftrack=)
 
 [](https://shareasale.com/r.cfm?b=864276&u=667621&m=26748&urllink=&afftrack=)
 
-[](https://click.linksynergy.com/fs-bin/click?id=E9t7jLrVZhQ&offerid=358574.1703&subid=0&type=4)
+[](https://shareasale.com/r.cfm?b=1140622&u=667621&m=28169&urllink=&afftrack=)
