@@ -1,0 +1,31 @@
+> *The following text is extracted and transformed from the bitcoinexchangeguide.com privacy policy that was archived on 2019-03-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190330113634id_/https%3A//bitcoinexchangeguide.com/disclaimer-privacy-policy) for the most accurate reproduction.*
+
+# Disclaimer and Privacy Policy
+
+Please note that Bitcoin Exchange Guide, hereinafter referred to as the website, our site, Bitcoin Exchange Guide, or [BitcoinExchangeGuide.com](https://bitcoinexchangeguide.com/), may have financial relationships with some of the merchants mentioned on this blog. Our site may be compensated if users click on links located throughout the content on our website. If users decide to purchase a product or service after clicking on a link, then we may receive compensation from that merchant. Bitcoin Exchange Guide is compensated for certain paid links and advertisements on our blog. You are not obligated to click on any links on our website, nor are you obligated to buy any products that are advertised, featured, or otherwise listed on our site.
+
+Per FTC guidelines, Bitcoin Exchange Guide may be compensated by companies mentioned through advertising, affiliate programs, content, social media posts, or otherwise. Any references to third party products, prices, rates, or websites are subject to change without notice. We advise our users to complete appropriate research before participating in any third party offers.
+
+Bitcoin Exchange Guide may participate in the Amazon Services LLC Associates Program, an affiliate advertising program that allows sites to earn advertising fees in exchange for advertising certain products and services listed on Amazon and linking to Amazon.com. Wherever possible, we strive to conduct original, high-quality research prior to featuring any product or service on our website. We also strive to maintain an unbiased, neutral point of view with all products and services mentioned on our site.
+
+## Disclosure
+
+Information presented on BitcoinExchangeGuide.com is intended for informational and entertainment purpose only. We do not present this information to users to be construed as financial advice, investment advice, or any other type of financial information. The views expressed on our site are personal opinions only and should not be taken as facts, financial advice, or investment analysis for your given situation. Wherever possible, we recommend consulting with a qualified financial advisor who can give you personalized advice based on your unique needs. We make all attempts to present accurate information. However, this information may not be appropriate for your unique financial circumstances. Bitcoin Exchange Guide and its editorial team are not finance experts, and the information presented on our website should not be interpreted as financial advice. We recommend completing your own due diligence and seeking advice from a trusted financial professional before making any financial decisions of your own.
+
+Neither BitcoinExchangeGuide.com nor its members make any representations regarding the validity, accuracy, completeness, or suitability of claims made on our site. Our editorial team strives to offer accurate, complete, and suitable information to users whenever possible. However, we are not financial experts and we do not take liability for any financial results experienced after utilizing information on our website. Neither BitcoinExchangeGuide nor any of its members assume any liability regarding your financial results based on interpreting our information. Advertisers, commenters, and linked sites are solely responsible for their views and content, and these views and content may not represent the views of Bitcoin Exchange Guide or its members. We strive to feature blogs that maintain similar standards of quality, fairness, and completeness to ourselves, although we cannot guarantee this in all situations.
+
+## Privacy Policy
+
+Bitcoin Exchange Guide takes your privacy seriously. In the following privacy policy, we will explain how we handle user information, including the type of personal information we collect, what we do with that information, and with whom we share that information – if anybody.
+
+### Routine Information Collection
+
+All website servers collect basic information from website visitors, including but not limited to IP addresses, browser information, timestamps, geographic location, referring pages, and more. None of this information can be used to personally identify specific visitors to this site. Bitcoin Exchange Guide tracks this information for routine administrative and maintenance purposes.
+
+### Cookies and Web Beacons
+
+Bitcoin Exchange Guide uses cookies when necessary to store certain information about a visitor’s preferences in history. We collect this information in order to better serve the visitor and/or present the visitor with customized content. Advertising partners and other third parties may also use cookies, scripts, and/or web beacons to track visitors to our site in order to display advertisements and other useful information. Such tracking is done directly by the third parties through their own servers and is subject to their own privacy policies. Bitcoin Exchange Guide strives to store the minimum amount of information possible while still providing users with a customized and personalized experience based on their unique settings, if requested.
+
+### Controlling Your Privacy and Information
+
+Users are not required to enable cookies in order to access our website. Users can freely disable cookies using their browser. Disabling cookies for all sites is not recommended, as it may interfere with your use of certain websites. The best option is to enable or disable cookies on a per-site basis. If you disable cookies on all sites, then you may face problems logging into certain sites with the same login information. We recommend consulting your browser’s documentation or an online tutorial to determine how to exclude, enable, or disable cookies and other tracking mechanisms. Typically, this information is found under the settings menu of your browser and can easily be activated or deactivated as needed.
