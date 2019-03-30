@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the craneandcanopy.com privacy policy that was archived on 2018-10-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181011213320id_/https%3A//www.craneandcanopy.com/pages/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the craneandcanopy.com privacy policy that was archived on 2019-03-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190330031702id_/https%3A//www.craneandcanopy.com/pages/privacy) for the most accurate reproduction.*
 
 # Privacy | Crane & Canopy
 
@@ -30,6 +30,8 @@ Whether or not to provide such information is completely your own choice. If you
 
 You can generally visit many of our web pages without telling us who you are or revealing any contact information about yourself. We may track the Internet domain address from which people visit us, other electronic markers and identifiers and other information about our site. We may analyze this data for preferences, trends, site usage statistics and to recognize you. We may also receive usage data from your mobile phone or other device you use to access our website, including location data, which we may also combine with other information.
 
+We may collect your email address via cookies and pixels on the Website through the use of trusted third party partners.  These partners may also combine your email information with other information they have access to such as mailing address so that we may serve relevant marketing offers to you via email and direct mail.   If you do not want us to collect information about you, please remove yourself from our direct marketing efforts here: [UNSUBSCRIBE](https://web.archive.org/pages/privacy-settings)
+
 If you access any of our websites or mobile applications with your log-in credentials from a social networking site or if you otherwise agree to associate your account with us with a social networking site, we may receive personal information about you from such social networking site, in accordance with the terms of use and privacy policy of the social networking site. We may add this information to the information we have already collected from you via our stores, websites and mobile applications.
 
 USING INFORMATION
@@ -58,6 +60,8 @@ In certain instances, we may disclose your contact information when we have reas
 Opting Out Of Marketing; Updating Information
 
 We want to communicate with you only if you want to hear from us. If you prefer not to receive direct marketing from us or from our Select and/or Service partners, or if you would like to opt out of our rental or exchange of your information with other marketers, please let us know. You can easily remove yourself from our direct marketing efforts [HERE](https://web.archive.org/pages/privacy-settings).  You can call us at 888.686.8586 or send us an email at [customerservice@craneandcanopy.com](mailto:customerservice@craneandcanopy.com). Please be sure to include your full name, email address, mailing address and specifically what information you do not want to receive. You may also click the designated unsubscribe link at the bottom of all emails from us to be removed from future emails. Please note that any requests to remove or update your contact information may take up to five days for your email request and 6–8 weeks to process your postal mail request.
+
+To Opt out of online advertising programs, go [HERE](http://www.aboutads.info/choices)
 
 Using Cookies
 
