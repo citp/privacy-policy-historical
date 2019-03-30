@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gaytimes.co.uk privacy policy that was archived on 2018-10-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181023145134id_/https%3A//www.gaytimes.co.uk/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gaytimes.co.uk privacy policy that was archived on 2019-03-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190330092846id_/https%3A//www.gaytimes.co.uk/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Gay Times
 
