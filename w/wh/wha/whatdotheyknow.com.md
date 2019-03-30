@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the whatdotheyknow.com privacy policy that was archived on 2018-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181228043604id_/https%3A//www.whatdotheyknow.com/help/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the whatdotheyknow.com privacy policy that was archived on 2019-03-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190330154123id_/https%3A//www.whatdotheyknow.com/help/privacy) for the most accurate reproduction.*
 
 # Your privacy - WhatDoTheyKnow
 
