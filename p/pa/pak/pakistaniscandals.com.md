@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pakistaniscandals.com privacy policy that was archived on 2018-11-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181129095853id_/http%3A//www.pakistaniscandals.com/page.php%3Fid%3D4) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pakistaniscandals.com privacy policy that was archived on 2019-03-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190330103804id_/http%3A//www.pakistaniscandals.com/page.php%3Fid%3D4) for the most accurate reproduction.*
 
 # 
 
