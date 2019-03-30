@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the thehightechsociety.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606172114id_/http%3A//thehightechsociety.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thehightechsociety.com privacy policy that was archived on 2019-03-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190330214903id_/https%3A//thehightechsociety.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy – The High Tech Society
+# Privacy Policy - The High Tech Society
 
 **Privacy Policy**
 
@@ -30,9 +30,51 @@ The law states that we can store cookies on your device if they are strictly nec
 
 This site uses different types of cookies. Some cookies are placed by third party services that appear on our pages.
 
- **DoubleClick Dart Cookie:**  Google’s DoubleClick Dart Cookie enables Google ads (of which The High Tech Society has very few) to enable ads based on your previous website visits. These cookies are not associated with The High Tech Society, but you may opt out by visiting <http://www.google.com/privacy_ads.html>.
+ **DoubleClick Dart Cookie:**  Google’s DoubleClick Dart Cookie enables Google ads (of which The High Tech Society has very few) to enable ads based on your previous website visits. These cookies are not associated with The High Tech Society, but you may opt out by visiting [http://www.google.com/privacy_ads.html](https://www.google.com/privacy_ads.html).
 
 Other Cookies that may be present on The High Tech Society include Java, Web Beacons, and any cookies from social sites or plugins that you use in your browser. None of these are related to The High Tech Society, but data collected may relate to your use of our website.
+
+ **Social Media Privacy Policy:**
+
+ **Facebook Comments**
+
+ _We embed Facebook Comments plugin to allow you to leave comment at our website using your Facebook account. This plugin may collect your IP address, your web browser User Agent, store and retrieve cookies on your browser, embed additional tracking, and monitor your interaction with the commenting interface, including correlating your Facebook account with whatever action you take within the interface (such as “liking” someone’s comment, replying to other comments), if you are logged into Facebook. For more information about how this data may be used, please see Facebook’s data privacy policy: https://www.facebook.com/about/privacy/update_
+
+ **GooglePlus Comments**
+
+ _We use GooglePlus Comments widget at our website for you to be able to comment at our webpages using your GooglePlus account. From this interaction Google automatically collects and store certain information in server logs like IP address, device event information such as crashes, system activity, hardware settings, browser type, browser language, the date and time of your request, in accordance with their data privacy policy: https://policies.google.com/privacy_
+
+ **Disqus Comments**
+
+ _We use Disqus Comments widget at our website for you to be able to comment at our webpages using Disqus commenting system. Disqus may collect information about you when you register for and use the Service. Such information may include “Personally Identifiable Information” which means information that identifies you as an individual, such information may include, but is not limited to, your name, email address, telephone number, username or account ID, and “Non-Personally Identifiable Information” which means information that does not identify you as an individual. Non-Personally Identifiable Information may include, but is not limited to, information about your browser, your IP address, device ID, what pages you visit on our Partner Sites, which website you came from, what advertisements you clicked on, whether on our Partner Websites, the Service or other third party websites, and other information about your online activity that does not identify you as an individual, in accordance with their data privacy policy:  https://help.disqus.com/terms-and-policies/disqus-privacy-policy_
+
+ **Facebook Comments Moderation**
+
+ _We collect the data related to the Facebook Comment you post, only from   your consent that you grant before posting Facebook Comment at our website. This data includes your Facebook account name, unique Facebook account identifier, unique identifier associated to the posted Facebook comment, unique open graph object identifier of the webpage at which you posted the comment, unique identifier associated to the parent comment if you reply to an existing comment. This data is used to show recent Facebook Comments made all over our website and/or to show the old comments made at non-SSL webpages before we moved our website to SSL. You can revoke this consent at any time by sending us an email._
+
+ **Facebook Comments Notifier**
+
+ _We send the Facebook Comment you post, to page/post author and/or website administrator via automated email, only from your consent that you grant before posting Facebook Comment at our website. This data includes just the   Facebook comment posted by you._
+
+ **Social Analytics for Sharing  **
+
+ _We use Google Analytics to track social shares made at our website. Google automatically collect and store certain information in their server logs which includes device event information such as crashes, system activity, hardware settings, browser type, browser language, the date and time of your request and referral URL, cookies that may uniquely identify your browser or your Google Account, in accordance with their data privacy policy: https://policies.google.com/privacy_
+
+ **Facebook Like,  Facebook Recommend, Facebook Share official buttons**
+
+ _We embed a Facebook widget to allow you to see number of likes/shares/recommends and “like/share/recommend” our webpages. This widget may collect your IP address, your web browser User Agent, store and retrieve cookies on your browser, embed additional tracking, and monitor your interaction with the widget, including correlating your Facebook account with whatever action you take within the widget (such as “liking/sharing/recommending” our webpage), if you are logged in to Facebook. For more information about how this data may be used, please see Facebook’s data privacy policy: https://www.facebook.com/about/privacy/update_
+
+ **Twitter Tweet official button**
+
+ _We use a Twitter Tweet widget at our website. As a result, our website makes requests to Twitter’s servers for you to be able to tweet our webpages using your Twitter account. These requests make your IP address visible to Twitter, who may use it in accordance with their data privacy policy: https://twitter.com/en/privacy#update_
+
+ _We use a GooglePlus widget at our website. As a result, our website makes requests to Google’s servers for you to be able to share our webpages using your GooglePlus account. These requests make your IP address visible to Google, who may use it in accordance with their data privacy policy: https://policies.google.com/privacy_
+
+ _We use a Linkedin Share widget at our website to allow you to share our webpages on  Linkedin. These requests may track your IP address in accordance with their data privacy policy: https://www.linkedin.com/legal/privacy-policy_
+
+ **Pinterest Save official button**
+
+ _We use Pinterest Save widget at our website to allow you to pin images to Pinterest from our webpages. These requests may track your IP address in accordance with their data privacy policy:  https://policy.pinterest.com/en/privacy-policy_
 
  **  Consent **
 
