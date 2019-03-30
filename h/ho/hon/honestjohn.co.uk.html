@@ -1,24 +1,20 @@
-<!--The following is the downloaded HTML source of the honestjohn.co.uk privacy policy that was archived on 2018-11-22.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20181122235614id_/https%3A//www.honestjohn.co.uk/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the honestjohn.co.uk privacy policy that was archived on 2019-03-30.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20190330175936id_/https%3A//www.honestjohn.co.uk/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
    <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
    <!-- </head> -->
    <title>
-
-            
-
    Privacy Policy | Honest John
 </title>
-
 
     <meta name="viewport" content="width=1002">
 
     
-    <link rel="Stylesheet" type="text/css" href="//static.honestjohn.co.uk/less.axd?css/less/common_desktop_www&amp;z=257">
+    <link rel="Stylesheet" type="text/css" href="//static.honestjohn.co.uk/less.axd?css/less/common_desktop_www&amp;z=266">
     
 
-    <link rel="stylesheet" type="text/css" href="//static.honestjohn.co.uk/public/stylesheet-legacy-www.minified.css?z=260">
+    <link rel="stylesheet" type="text/css" href="//static.honestjohn.co.uk/public/stylesheet-legacy-www.minified.css?z=266">
     
    <link href="https://fonts.googleapis.com/css?family=Shadows+Into+Light+Two" rel="stylesheet" type="text/css">
 
@@ -42,7 +38,7 @@
 <script src="https://quantcast.mgr.consensu.org/cmp.js" async="" type="text/javascript"></script><script async="" src="//c.amazon-adsystem.com/aax2/apstag.js"></script><script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.0/jquery.min.js"></script>
 <script src="//code.jquery.com/jquery-migrate-1.3.0.min.js" type="text/javascript"></script>
 
-<script type="text/javascript" src="//static.honestjohn.co.uk/scripts/common.js?z=253"></script>
+<script type="text/javascript" src="//static.honestjohn.co.uk/scripts/common.js?z=256"></script>
 
 <script>
     var hj = window.hj || {};
@@ -61,7 +57,7 @@
             var keywords = {
 'site':['cars'],
 'section':['home'],
-'percent':['80']
+'percent':['65']
 }
 ;
             if (typeof hj.prebid !== 'undefined') {
@@ -100,9 +96,9 @@
     hj.prebid.adUnits = [
         
 {
-    code: 'div-gpt-ad-Leaderboard',
-    sizes: [[970,250],[728,90],[970,90]],
-    bids: [{"bidder":"criteo","params":{"zoneId":"960241"}},{"bidder":"aol","params":{"placement":"5719234","network":"1645.1","region":"eu"}},{"bidder":"sovrn","params":{"tagid":"504833"}},{"bidder":"nanointeractive","params":{"sec":"039024e60b267883aea28e705b5b5eca","dpid":"59a55f4feb0a194203173dd2","pid":"5b3ca6f90ae899061f0f0192","category":"Automotive","name":"q"}}]
+    code: 'div-gpt-ad-Skin',
+    sizes: [[1,1]],
+    bids: [{"bidder":"justpremium","params":{"zone":"45336"}},{"bidder":"inskin","params":{"networkId":"9874","siteId":"1058436","properties":{"screenWidth":window.top.screen.width,"screenHeight":window.top.screen.height,"target":1262}}}]
 },
 {
     code: 'div-gpt-ad-MPU',
@@ -110,9 +106,9 @@
     bids: [{"bidder":"criteo","params":{"zoneId":"960240"}},{"bidder":"aol","params":{"placement":"5719233","network":"1645.1","region":"eu"}},{"bidder":"aol","params":{"placement":"6010184","network":"1645.1","region":"eu"}},{"bidder":"sovrn","params":{"tagid":"504834"}},{"bidder":"nanointeractive","params":{"sec":"039024e60b267883aea28e705b5b5eca","dpid":"59a55f4feb0a194203173dd2","pid":"5b3ca6f90ae899061f0f0192","category":"Automotive","name":"q"}},{"bidder":"adyoulike","params":{"placement":"fba2a5e48600586458959f1bf5a024d4"}}]
 },
 {
-    code: 'div-gpt-ad-Skin',
-    sizes: [[1,1]],
-    bids: [{"bidder":"justpremium","params":{"zone":"45336"}}]
+    code: 'div-gpt-ad-Leaderboard',
+    sizes: [[970,250],[728,90],[970,90]],
+    bids: [{"bidder":"criteo","params":{"zoneId":"960241"}},{"bidder":"aol","params":{"placement":"5719234","network":"1645.1","region":"eu"}},{"bidder":"sovrn","params":{"tagid":"504833"}},{"bidder":"nanointeractive","params":{"sec":"039024e60b267883aea28e705b5b5eca","dpid":"59a55f4feb0a194203173dd2","pid":"5b3ca6f90ae899061f0f0192","category":"Automotive","name":"q"}}]
 }
     ];
 
@@ -138,31 +134,31 @@
     var pbjs = pbjs || {};
     pbjs.que = pbjs.que || [];
 
+    hj.prebid.convertUSD = function (bidCpm) {
+        return bidCpm / 1.304402;
+    }
+    hj.prebid.convertEUR = function (bidCpm) {
+        return bidCpm / 1.161375;
+    }
+
     pbjs.bidderSettings = {
         sovrn: {
-            bidCpmAdjustment: function (bidCpm) {
-                return bidCpm / 1.287503;
-            }
+            bidCpmAdjustment: hj.prebid.convertUSD
         },
         aol: {
-            bidCpmAdjustment: function (bidCpm) {
-                return bidCpm / 1.287503;
-            }
+            bidCpmAdjustment: hj.prebid.convertUSD
         },
         justpremium: {
-            bidCpmAdjustment: function (bidCpm) {
-                return bidCpm / 1.12901;
-            }
+            bidCpmAdjustment: hj.prebid.convertEUR
         },
         nanointeractive: {
-            bidCpmAdjustment: function (bidCpm) {
-                return bidCpm / 1.12901;
-            }
+            bidCpmAdjustment: hj.prebid.convertEUR
         },
         unruly: {
-            bidCpmAdjustment: function (bidCpm) {
-                return bidCpm / 1.287503;
-            }
+            bidCpmAdjustment: hj.prebid.convertUSD
+        },
+        inskin: {
+            bidCpmAdjustment: hj.prebid.convertUSD
         }
     };
 </script>
@@ -234,10 +230,12 @@ hj.aps.slots = [
             }
             pbjs.addAdUnits(hj.prebid.adUnits);
             pbjs.setConfig({
+                bidderTimeout: 1000,
+                maxRequestsPerOrigin: 1,
                 enableSendAllBids: false,
                 consentManagement: {
                     cmpApi: 'iab',
-                    timeout: 1000,
+                    timeout: 100,
                     allowAuctionWithoutConsent: true
                 }
             });
@@ -260,9 +258,9 @@ hj.aps.slots = [
         if (typeof hj.prebid === 'undefined')
         {
             hj.dfp.first = true;
-            hj.dfp.loadStage1 = function() {                
+            hj.dfp.loadStage1 = function() {
                 googletag.cmd.push(function() {
-                    googletag.pubads().refresh([hj.dfp.adUnits['/9259737/Leaderboard']]);
+                    googletag.pubads().refresh([hj.dfp.adUnits['/9259737/Skin_Premium'],hj.dfp.adUnits['/9259737/Leaderboard']]);
                 });
             }
 
@@ -273,14 +271,15 @@ hj.aps.slots = [
             }
         } else {
             hj.dfp.first = false;
-            hj.dfp.loadStage1 = function() {                
-                googletag.cmd.push(function() {
-                    googletag.pubads().refresh();
+            hj.dfp.loadStage1 = function() {
+              googletag.cmd.push(function() {
+                  googletag.pubads().refresh([hj.dfp.adUnits['/9259737/Skin_Premium'],hj.dfp.adUnits['/9259737/Leaderboard'],hj.dfp.adUnits['/9259737/MPU'],hj.dfp.adUnits['/9259737/Box'],hj.dfp.adUnits['/9259737/Box2'],hj.dfp.adUnits['/9259737/Box3'],hj.dfp.adUnits['/9259737/Box4'],hj.dfp.adUnits['/9259737/Box5'],hj.dfp.adUnits['/9259737/Box6']]);
                 });
             }
         }
 
         googletag.cmd.push(function() {
+                    hj.dfp.createAdUnit('Skin_Premium', [1,1]);
                     hj.dfp.createAdUnit('Leaderboard', [[970,250],[728,90],[970,90]]);
                     hj.dfp.createAdUnit('MPU', [[300,600],[300,250]]);
                     hj.dfp.createAdUnit('Skin', [1,1]);
@@ -298,17 +297,14 @@ hj.aps.slots = [
                         hj.dfp.first = false;
                         hj.dfp.loadStage2();
                     }
-                });            
+                });
             }
 
             hj.dfp.setSizes = function() {
-                var leaderDepth = $('#ad_leaderboard_90').height();
-                $('#page_nav').css('margin-bottom', (leaderDepth + 30) + 'px');
-                $('.banner_ad').css('top', (-leaderDepth-15) + 'px');
                 if ($('#mpu-placeholder').length > 0) {
                     var mpuHeight = $('#div-gpt-ad-MPU').height();
                     if (hj.stickyMpu && mpuHeight > 0 && ! /(msie |trident\/7\.0)/i.test( navigator.userAgent )) {
-                        mpuHeight += 400;
+                        mpuHeight = 1000;
                         $('#ad_MPU_250_1').css('height', (mpuHeight-5) + 'px');
                         $('#ad_MPU_250_1').addClass('sticky');
                     }
@@ -320,14 +316,34 @@ hj.aps.slots = [
             }
             $(window).load(hj.dfp.setSizes);
 
+            hj.servedSkin = false;
+
             googletag.pubads().addEventListener('slotRenderEnded', function(event) {
-                /*console.log( (Date.now() - window.performance.timing.responseStart) + ": " + event.slot.getAdUnitPath());*/
+                if ( event.slot.getAdUnitPath() == '/9259737/Skin_Premium' && ! event.isEmpty) {
+                    hj.servedSkin = true;
+                    var s = hj.dfp.adUnits['/9259737/Skin'];
+                    if (s) {
+                        googletag.destroySlots([s]);
+                    }
+                }
+
+                if ( event.slot.getAdUnitPath() == '/9259737/Leaderboard' ) {
+                    var s = hj.dfp.adUnits['/9259737/Skin'];
+                    if ( ! hj.dfp.first && s && !hj.servedSkin &&
+                            ((! event.isBackfill) || ( event.size && event.size[1] != 250 ))
+                       ) {
+                        googletag.pubads().refresh([s], {changeCorrelator: false});                                            
+                    } else if ( hj.dfp.first && s ((! event.isBackfill) || ( event.size && event.size[1] != 250 ))) {
+                        googletag.destroySlots([s]);
+                    }
+                }
 
                 $(document.getElementById(event.slot.getSlotElementId())).find('iframe').css('background-color','transparent');
                 var p = event.slot.getAdUnitPath();
                 if ( p.substr(0,12) == '/9259737/Box'
                 || p.substr(0,18) == '/9259737/Text_Link'
                 || p == '/9259737/Skin'
+                || p == '/9259737/Skin_Premium'
                 || p == '/9259737/Article_TextLink' ) {
                     var frame = $(document.getElementById(event.slot.getSlotElementId())).find('iframe').eq(0);
                     var innerDoc = frame.get(0).contentDocument;
@@ -352,6 +368,10 @@ hj.aps.slots = [
                         hj.dfp.setSizes();
                     });
                     hj.dfp.setSizes();
+
+                    if ( p =='/9259737/MPU' && window.collapseRightColumn) {
+                        window.setTimeout(window.collapseRightColumn, 200);
+                    }
                 }
             });
         });
@@ -553,7 +573,6 @@ hj.aps.slots = [
                 new Image().src = '//pixel.honestjohn.co.uk/c.gif?e=qi&l=' + window.hj.cmpTest + '&m=False&t=' + Math.random();
             };    
 </script>
-<link rel="stylesheet" href="//static.honestjohn.co.uk/public/stylesheet-cmp.minified.css?z=6">
 <!-- End Quantcast Choice. Consent Manager Tag -->
 
 
@@ -565,19 +584,17 @@ hj.aps.slots = [
         });
     </script>
 
+
    
 <link href="https://fonts.googleapis.com/css?family=Lato:400,700|Montserrat:400,700" rel="stylesheet">
 
     
 
-
-
-
        
 
 </head>
 
-<body class="desktop noSky   logged-out">
+<body class="desktop   logged-out">
     <div class="wrapper">
         <nav class="top-nav">
             <ul>
@@ -639,7 +656,9 @@ hj.aps.slots = [
 </ul>
                                             </div>
                                                     <div class="bottom-features bottom-features-ask">
-            <div class="wide-button expanded ask">
+            
+
+<div class="wide-button expanded ask">
     <h3>Ask Honest John</h3>
     <div class="expand">
         <form method="post" action="/faq/" data-register-source="ask-menu" data-category="Menu">
@@ -672,7 +691,7 @@ hj.aps.slots = [
                                                 <div class="right-features right-features-ask">
             <h2>Recently Asked Questions</h2>
             <ul class="bullet-list">
-                    <li><a href="/askhj/answer/113810/a-random-car-has-been-parked-on-my-driveway-and-the-owner-refuses-to-move-it---can-i-get-it-removed-">A random car has been parked on my driveway and the owner refuses to move it - can I get it removed?</a></li>                     <li><a href="/askhj/answer/113545/need-an-electric-car-to-cope-with-an-800-mile-journey---do-they-exist-">Need an electric car to cope with an 800-mile journey - do they exist? </a></li>                     <li><a href="/askhj/answer/113629/should-i-swap-my-euro5-diesel-for-a-hybrid-">Should I swap my Euro5 diesel for a hybrid?</a></li>                     <li><a href="/askhj/answer/113633/what-s-the-best-small-car-for-an-80-year-old-driver-">What's the best small car for an 80-year-old driver?</a></li>                     <li><a href="/askhj/answer/113665/what-s-the-best-small-4x4-with-the-lowest-fuel-costs-">What's the best small 4x4 with the lowest fuel costs? </a></li>             </ul>
+                    <li><a href="/askhj/answer/121671/will-the-long-term-maintenance-on-hybrid-and-or-electric-cars-have-a-higher-repair-cost-compared-to-current-petrol-or-diesel-cars-">Will the long term maintenance on hybrid and/or electric cars have a higher repair cost compared to current petrol or diesel cars?</a></li>                     <li><a href="/askhj/answer/121623/are-there-dash-cams-available-that-don-t-need-wires-to-connect-them-to-the-car-">Are there dash cams available that don't need wires to connect them to the car?</a></li>                     <li><a href="/askhj/answer/121643/when-can-i-register-my-march-1978-car-as-historic-">When can I register my March 1978 car as historic?</a></li>                     <li><a href="/askhj/answer/121645/how-do-i-keep-a-petrol-particulate-filter-in-good-condition-">How do I keep a petrol particulate filter in good condition?</a></li>                     <li><a href="/askhj/answer/121654/what-s-the-best-car-for-5000-">What's the best car for £5000?</a></li>             </ul>
         </div>
 
                                     </div>
@@ -701,7 +720,7 @@ hj.aps.slots = [
 </ul>
                                             </div>
                                                 <div class="bottom-features bottom-features-news">
-        <form class="search-form" action="//honestjohn.createsend.com/t/r/s/xckjd/" method="post" id="menuSubForm">
+        <form class="search-form" action="https://honestjohncoukltd1.createsend.com/t/r/s/xckjd/" method="post" id="menuSubForm">
             <h2>Sign up to the HonestJohn.co.uk newsletter for regular updates</h2>
             <input class="email-address" type="text" name="cm-xckjd-xckjd" id="xckjd-xckjd" placeholder="Enter your email address">
             <input class="button" type="submit" value="Subscribe">
@@ -714,13 +733,13 @@ hj.aps.slots = [
         <h2>Latest News Headlines</h2>
 
             <div class="news-box cf">
-                <a href="/news/new-cars/2018-11/ford-focus-active-priced-from-gbp21900/"><img src="//images.honestjohn.co.uk/imagecache/file/crop/90x60/media/14412821/03_focus_active.jpg"></a>
-                <a class="headline" href="/news/new-cars/2018-11/ford-focus-active-priced-from-gbp21900/">Ford Focus Active priced from £21,900</a>
-                <div class="abstract">The new Ford Focus Active features a Slippery drive mode which helps you remain in control when driving over wet leaves or along snowy roads.</div>
+                <a href="/news/honest-johns-motoring-agony-column/2019-03/honest-johns-motoring-agony-column-30-03-2019-part-1/"><img src="//images.honestjohn.co.uk/imagecache/file/crop/90x60/media/14961011/hj-driving-mai-in-jazz.jpg"></a>
+                <a class="headline" href="/news/honest-johns-motoring-agony-column/2019-03/honest-johns-motoring-agony-column-30-03-2019-part-1/">Honest John's Motoring Agony Column 30-03-2019 Part 1</a>
+                <div class="abstract">This week’s motoriety covers the wheel thing, simple cars, standing room only and in part 2 confusion, a high fashion VW, getting back to basics and 2,750 more words of wisdom and controversy.</div>
             </div>            <div class="news-box cf">
-                <a href="/news/new-cars/2018-11/land-rover-previews-all-new-evoque-hybrid/"><img src="//images.honestjohn.co.uk/imagecache/file/crop/90x60/media/14412798/1.jpg"></a>
-                <a class="headline" href="/news/new-cars/2018-11/land-rover-previews-all-new-evoque-hybrid/">Land Rover previews all-new Evoque hybrid </a>
-                <div class="abstract">The Range Rover Evoque is getting a major revamp for 2019, with new tech, more cabin space and a range of mild hybrid engines.</div>
+                <a href="/news/honest-johns-motoring-agony-column/2019-03/honest-johns-motoring-agony-column-30-03-2019-part-2/"><img src="//images.honestjohn.co.uk/imagecache/file/crop/90x60/media/14961030/thailand-confusing-road-sign.jpg"></a>
+                <a class="headline" href="/news/honest-johns-motoring-agony-column/2019-03/honest-johns-motoring-agony-column-30-03-2019-part-2/">Honest John’s Motoring Agony Column 30-03-2019 Part 2</a>
+                <div class="abstract">Honest John’s Motoring Agony Column 30-03-2019 Part 2</div>
             </div>    </div>
 
                                     </div>
@@ -797,20 +816,23 @@ hj.aps.slots = [
                                         </div>
                                                 <div class="right-features right-features-reviews">
             <h2>Latest Reviews</h2>
-                    <div class="review-box">
-                        <a href="/road-tests/audi/audi-a1-30-tfsi-2019-road-test/">
-                            <img src="//images.honestjohn.co.uk/imagecache/file/crop/180x120/media/14395576/1.jpg">
-                        </a>
-                        <a href="/road-tests/audi/audi-a1-30-tfsi-2019-road-test/" class="name">
-                            Audi A1 30 TFSI 2019 Road Test
-                        </a>
+            <div class="review-box">
+                <a href="/carbycar/volvo/v60-2018/">
+                    <img src="//images.honestjohn.co.uk/imagecache/file/crop/180x120/media/14850540/01_Volvo_V60.jpg">
+                </a>
+                    <div class="reviewRating rating5">
+                        5
                     </div>
+                <a href="/carbycar/volvo/v60-2018/" class="name">
+                    Volvo V60 (2018&nbsp;-&nbsp;)
+                </a>
+            </div>
                     <div class="review-box">
-                        <a href="/road-tests/honda/honda-cr-v-hybrid-2019-road-test/">
-                            <img src="//images.honestjohn.co.uk/imagecache/file/crop/180x120/media/14395543/honda-cr-v-hybrid-2019-f34-2-country-best.jpg">
+                        <a href="/road-tests/bmw/bmw-320d-xdrive-m-sport-2019-road-test/">
+                            <img src="//images.honestjohn.co.uk/imagecache/file/crop/180x120/media/14877604/01_bmw_3_series.jpg">
                         </a>
-                        <a href="/road-tests/honda/honda-cr-v-hybrid-2019-road-test/" class="name">
-                            Honda CR-V Hybrid 2019 Road Test
+                        <a href="/road-tests/bmw/bmw-320d-xdrive-m-sport-2019-road-test/" class="name">
+                            BMW 320d xDrive M Sport 2019 Road Test
                         </a>
                     </div>
         </div>
@@ -890,8 +912,9 @@ hj.aps.slots = [
 </ul>
 <ul>
 <li class=" "><strong>Personal Leasing</strong></li>
+<li><a href="/cheap-pcp-deals/">PCP Deals &amp; Offers</a></li>
+<li><a href="/cars-for-sale/?type=Personal+Contract+Purchase#leasingSearch">Search PCPs</a></li>
 <li><a href="/cars-for-sale/#leasingSearch">Personal Contract Hire</a></li>
-<li><a href="/cars-for-sale/?type=Personal+Contract+Purchase#leasingSearch">PCP Deals</a></li>
 </ul>
 <ul>
 <li class=" "><strong>Business Leasing</strong></li>
@@ -998,6 +1021,9 @@ hj.aps.slots = [
 <li class=" "><a href="/is-an-electric-car-right-for-me/">Is An Electric Car Right For Me?&nbsp;</a><a href="/cheap-car-finance-advice/">Bank loans, HP &amp; PCP: Car Finance Explained</a></li>
 <li><strong>Choosing A Company Car</strong></li>
 <li class=" "><a href="/company-car-tax/">Company Car Tax Advice &amp; Calculator</a></li>
+<li><strong>Running Your Car</strong></li>
+<li class=" "><a href="/wheels-and-tyres/tyre-buying-guide/">Choosing The Best Car Tyres</a></li>
+<li class=" "><a href="/wheels-and-tyres/winter-tyres/">Winter Tyres Explained</a></li>
 </ul>
 <ul>
 <li><strong>Covering Your Car For Less</strong></li>
@@ -1072,14 +1098,14 @@ hj.aps.slots = [
                                             <div class="right-features right-features-realmpg">
         <h2>Latest Submissions</h2>
             <div class="realmpg-box">
-                <a href="/realmpg/ford/c-max-2003"><img src="//images.honestjohn.co.uk/imagecache/file/crop/175x95/media/3170629/090375200_1228820655.jpg"></a>
-                <a class="name" href="/realmpg/ford/c-max-2003">Ford C-MAX (2003 - 2010)</a>
-                <div class="score">88%</div>
+                <a href="/realmpg/porsche/boxster-987-2005"><img src="//images.honestjohn.co.uk/imagecache/file/crop/175x95/media/3415081/Porsche~Boxster~(8).jpg"></a>
+                <a class="name" href="/realmpg/porsche/boxster-987-2005">Porsche Boxster (2005 - 2012)</a>
+                <div class="score">94%</div>
             </div>
             <div class="realmpg-box">
-                <a href="/realmpg/vauxhall/agila-b-2008"><img src="//images.honestjohn.co.uk/imagecache/file/crop/175x95/media/3430197/Vauxhall~Agila~(1).jpg"></a>
-                <a class="name" href="/realmpg/vauxhall/agila-b-2008">Vauxhall Agila (2008 - 2014)</a>
-                <div class="score">91%</div>
+                <a href="/realmpg/audi/a4-b8-2008"><img src="//images.honestjohn.co.uk/imagecache/file/crop/175x95/media/4691431/Audi~A4~2012~(2).jpg"></a>
+                <a class="name" href="/realmpg/audi/a4-b8-2008">Audi A4 B8 (2008 - 2015)</a>
+                <div class="score">77%</div>
             </div>
     </div>
 
@@ -1130,53 +1156,49 @@ hj.aps.slots = [
 
 
 
+                        
             
-            <div class="leader collapsed">
-                
+                <div class="leader collapsed">
+                    
 <div id="div-gpt-ad-Leaderboard">
 <script type="text/javascript">
 googletag.cmd.push(function() { googletag.display('div-gpt-ad-Leaderboard'); });
 </script>
 </div>
-            </div>
-
+                </div>
+        
             <div class="breadcrumb">
-                <h1>
+                <h3>
                 <!-- title start -->
                 
-
                     
-    
     
 
                 <!-- title end -->
-                </h1>
+                </h3>
                 
-                <a href="/">Honest John</a> »
+                <a href="/">Honest John</a>
                 
-
-
-
+                
 
     <b>Privacy</b>
 
             </div>
-
             
                 <div class="article" id="surveyBox" style="font-family:Arial">
                         <div style="padding:10px; text-align:center; background-color:#ffff66; border:1px solid #D6D6D6; font-weight:bold; margin-bottom:10px;">
-                            Daily savings:  <a href="https://kit.honestjohn.co.uk/deals-discount-codes-voucher-codes/deals-discount-codes-voucher-codes/" target="_self" onclick="hideSurvey();$.trackEvent('Survey opened', 'Kit Deals 21 Nov 2018', '')">FREE Green &amp; Blacks Advent Calendar and Driving Experiences for under £50</a>&nbsp;|&nbsp;<a href="#" onclick="hideSurvey(); return false;">No thanks</a>
+                            Is your car your pride and joy, or are you ready for a change?  <a href="https://www.honestjohn.co.uk/the-honest-john-satisfaction-index/the-honest-john-satisfaction-index-cars-1/" target="_blank" onclick="hideSurvey();$.trackEvent('Survey opened', 'The Honest John Satisfaction Index - Cars 2019', '')">Let us know and you could win a £300 John Lewis voucher</a>&nbsp;|&nbsp;<a href="#" onclick="hideSurvey(); return false;">No thanks</a>
                         </div>
                         </div>
             
                         <script>
                             function hideSurvey() {
                                 $('#surveyBox').slideUp();
-                                document.cookie="survey=167771=2018-11-22T23:56:02;path=/;domain=honestjohn.co.uk;expires=" + new Date(new Date().getTime() + 1000*60*60*24*90).toUTCString();
+                                document.cookie="survey=166925=2019-03-30T17:59:35;path=/;domain=honestjohn.co.uk;expires=" + new Date(new Date().getTime() + 1000*60*60*24*90).toUTCString();
                             }
                         </script>
             
-
+            
 
             <div class="col first w640 ">
             
@@ -1193,9 +1215,7 @@ googletag.cmd.push(function() { googletag.display('div-gpt-ad-MPU'); });
                 <div class="article" id="mainContent">
 
                     
-
-
-
+                    
 
 
 
@@ -1380,22 +1400,13 @@ googletag.cmd.push(function() { googletag.display('div-gpt-ad-MPU'); });
             <div class="col w300 noskimwords" id="rightContent">
             
             
-
-                    
-
+            
 
             
             <div id="mpu-placeholder" style="height:250px;">
                 &nbsp;
             </div>            
-                    <div class="square-buttons logged-out">
-        <div class="square-button register"><a href="/Login/Register/?redirect=/privacy/" onclick="$.trackEvent('Right column buttons','Sign up',location.href)">Sign up</a></div>
-        <div class="square-button login"><a class="ajax-overlay" href="/Login/?redirect=/privacy/" onclick="$.trackEvent('Right column buttons','Log in',location.href)">Log in</a></div>
-    </div>
-    <div class="square-buttons logged-in">
-        <div class="square-button register"><a href="/User/">Profile</a></div>
-        <div class="square-button login"><a class="ajax-logout" href="/Login/Logout/?redirect=/privacy/">Log out</a></div>
-    </div>
+            
 
 
 <div class="wide-button expanded ask">
@@ -1447,110 +1458,112 @@ googletag.cmd.push(function() { googletag.display('div-gpt-ad-MPU'); });
 </div>
 
             
-
             
-
 
             
 <div class="related-box list" id="cfs-widget">
-    <div class="header">New Cars for Sale</div>
+    <div class="header">Car Leasing</div>
     <ul>
         <li class="cf">
             <div class="left">
-                    <span class="price">£13,798</span>
-                        <br><span class="saving">save 32%</span>
+                    <span class="saving">From</span><br>
+                    <span class="price">£105.49</span><br>
+                    <span class="saving">per month</span>
             </div>
             <div class="right">
-                <a target="_blank" href="http://honestjohn.cars-2buy.co.uk/clicks_cache.php?url=http%3A%2F%2Fwww.new-car-discount.com%2Fcar%2Fnissan%2Fjuke-hatchback%2Fhatchback%2Fpetrol%2Fmanual%2F1.2-dig-t-tekna-5dr-bose%2F18%2F&amp;broker=129&amp;veh_id=24987384&amp;make=Nissan&amp;model=Juke&amp;der=1.2 DiG-T Tekna 5dr [Bose]&amp;acc=Account&amp;cpclick=0.42&amp;dsubid=0&amp;tt=1&amp;ctype=CASH" rel="nofollow" onclick="$.trackEvent(&quot;Cars For Sale - Widget Click&quot;, &quot;cars2Buy&quot;, &quot;Buying New - Nissan Juke 1.2 DiG-T Tekna 5dr [Bose]&quot;, 13798);">
-                    <b>Nissan Juke</b><br>1.2 DiG-T Tekna 5dr [Bose]
+                <a target="_blank" href="https://www.bluechillicars.com/car-leasing/fiat/500-hatch/3dr-hat-12-69hp-pop" rel="nofollow" onclick="$.trackEvent(&quot;Cars For Sale - Widget Click&quot;, &quot;blueChilliCars&quot;, &quot;Leasing - Fiat 500 Hatch 3 Door Hatch 1.2 69hp Pop&quot;, 105);">
+                    <b>Fiat 500 Hatch</b><br>3 Door Hatch 1.2 69hp Pop
                 </a>
             </div>
             <div class="left">
-                    <a class="details-button" target="_blank" href="http://honestjohn.cars-2buy.co.uk/clicks_cache.php?url=http%3A%2F%2Fwww.new-car-discount.com%2Fcar%2Fnissan%2Fjuke-hatchback%2Fhatchback%2Fpetrol%2Fmanual%2F1.2-dig-t-tekna-5dr-bose%2F18%2F&amp;broker=129&amp;veh_id=24987384&amp;make=Nissan&amp;model=Juke&amp;der=1.2 DiG-T Tekna 5dr [Bose]&amp;acc=Account&amp;cpclick=0.42&amp;dsubid=0&amp;tt=1&amp;ctype=CASH" rel="nofollow" onclick="$.trackEvent(&quot;Cars For Sale - Widget Click&quot;, &quot;cars2Buy&quot;, &quot;Buying New - Nissan Juke 1.2 DiG-T Tekna 5dr [Bose]&quot;, 13798);">
+                    <a class="details-button" target="_blank" href="https://www.bluechillicars.com/car-leasing/fiat/500-hatch/3dr-hat-12-69hp-pop" rel="nofollow" onclick="$.trackEvent(&quot;Cars For Sale - Widget Click&quot;, &quot;blueChilliCars&quot;, &quot;Leasing - Fiat 500 Hatch 3 Door Hatch 1.2 69hp Pop&quot;, 105);">
                         Details
                     </a>
             </div>
             <div class="right">
                     <div>
-                    <span style="line-height: 1.68">new-car-discount.com</span>
+                    <span style="line-height: 1.68">Blue Chilli Cars</span>
                     </div>
             </div>
             
         </li>
         <li class="cf">
             <div class="left">
-                    <span class="price">£16,995</span>
-                        <br><span class="saving">save 32%</span>
+                    <span class="saving">From</span><br>
+                    <span class="price">£115.09</span><br>
+                    <span class="saving">per month</span>
             </div>
             <div class="right">
-                <a target="_blank" href="http://honestjohn.cars-2buy.co.uk/clicks_cache.php?url=http%3A%2F%2Fwww.new-car-discount.com%2Fcar%2Fnissan%2Fqashqai-hatchback%2Fhatchback%2Fpetrol%2Fmanual%2F1.3-dig-t-n-connecta-glass-roof-pack-5dr%2F18%2F&amp;broker=129&amp;veh_id=24987401&amp;make=Nissan&amp;model=Qashqai&amp;der=1.3 DiG-T N-Connecta [Glass Roof Pack] 5dr&amp;acc=Account&amp;cpclick=0.42&amp;dsubid=0&amp;tt=1&amp;ctype=CASH" rel="nofollow" onclick="$.trackEvent(&quot;Cars For Sale - Widget Click&quot;, &quot;cars2Buy&quot;, &quot;Buying New - Nissan Qashqai 1.3 DiG-T N-Connecta [Glass Roof Pa&quot;, 16995);">
-                    <b>Nissan Qashqai</b><br>1.3 DiG-T N-Connecta [Glass Roof Pa
+                <a target="_blank" href="https://www.selectcarleasing.co.uk/car-leasing/hyundai/i10/hatchback/10_s_5dr/77982.html" rel="nofollow" onclick="$.trackEvent(&quot;Cars For Sale - Widget Click&quot;, &quot;selectCarLeasing&quot;, &quot;Leasing - HYUNDAI I10 1.0 S 5dr&quot;, 115);">
+                    <b>HYUNDAI I10</b><br>1.0 S 5dr
                 </a>
             </div>
             <div class="left">
-                    <a class="details-button" target="_blank" href="http://honestjohn.cars-2buy.co.uk/clicks_cache.php?url=http%3A%2F%2Fwww.new-car-discount.com%2Fcar%2Fnissan%2Fqashqai-hatchback%2Fhatchback%2Fpetrol%2Fmanual%2F1.3-dig-t-n-connecta-glass-roof-pack-5dr%2F18%2F&amp;broker=129&amp;veh_id=24987401&amp;make=Nissan&amp;model=Qashqai&amp;der=1.3 DiG-T N-Connecta [Glass Roof Pack] 5dr&amp;acc=Account&amp;cpclick=0.42&amp;dsubid=0&amp;tt=1&amp;ctype=CASH" rel="nofollow" onclick="$.trackEvent(&quot;Cars For Sale - Widget Click&quot;, &quot;cars2Buy&quot;, &quot;Buying New - Nissan Qashqai 1.3 DiG-T N-Connecta [Glass Roof Pa&quot;, 16995);">
+                    <a class="details-button" target="_blank" href="https://www.selectcarleasing.co.uk/car-leasing/hyundai/i10/hatchback/10_s_5dr/77982.html" rel="nofollow" onclick="$.trackEvent(&quot;Cars For Sale - Widget Click&quot;, &quot;selectCarLeasing&quot;, &quot;Leasing - HYUNDAI I10 1.0 S 5dr&quot;, 115);">
                         Details
                     </a>
             </div>
             <div class="right">
                     <div>
-                    <span style="line-height: 1.68">new-car-discount.com</span>
+                    <span style="line-height: 1.68">Select Car Leasing</span>
                     </div>
             </div>
             
         </li>
         <li class="cf">
             <div class="left">
-                    <span class="price">£26,361</span>
-                        <br><span class="saving">save 20%</span>
+                    <span class="saving">From</span><br>
+                    <span class="price">£119.22</span><br>
+                    <span class="saving">per month</span>
             </div>
             <div class="right">
-                <a target="_blank" href="http://honestjohn.cars-2buy.co.uk/clicks_cache.php?url=http%3A%2F%2Fwww.discounted-new-cars.com%2Foutright-purchase-cars%2Fnissan%2Fleaf-hatchback%2Fleaf-hatch-elec-40kwh-150-tekna-5dr-auto-167956&amp;broker=151&amp;veh_id=24998252&amp;make=Nissan&amp;model=Leaf&amp;der=110kW Tekna 40kWh 5dr Auto&amp;acc=Account&amp;cpclick=0.42&amp;dsubid=142&amp;tt=1&amp;ctype=CASH" rel="nofollow" onclick="$.trackEvent(&quot;Cars For Sale - Widget Click&quot;, &quot;cars2Buy&quot;, &quot;Buying New - Nissan Leaf 110kW Tekna 40kWh 5dr Auto&quot;, 26361);">
-                    <b>Nissan Leaf</b><br>110kW Tekna 40kWh 5dr Auto
+                <a target="_blank" href="https://www.selectcarleasing.co.uk/car-leasing/kia/picanto/hatchback/10_1_5dr/79297.html" rel="nofollow" onclick="$.trackEvent(&quot;Cars For Sale - Widget Click&quot;, &quot;selectCarLeasing&quot;, &quot;Leasing - KIA PICANTO 1.0 1 5dr&quot;, 119);">
+                    <b>KIA PICANTO</b><br>1.0 1 5dr
                 </a>
             </div>
             <div class="left">
-                    <a class="details-button" target="_blank" href="http://honestjohn.cars-2buy.co.uk/clicks_cache.php?url=http%3A%2F%2Fwww.discounted-new-cars.com%2Foutright-purchase-cars%2Fnissan%2Fleaf-hatchback%2Fleaf-hatch-elec-40kwh-150-tekna-5dr-auto-167956&amp;broker=151&amp;veh_id=24998252&amp;make=Nissan&amp;model=Leaf&amp;der=110kW Tekna 40kWh 5dr Auto&amp;acc=Account&amp;cpclick=0.42&amp;dsubid=142&amp;tt=1&amp;ctype=CASH" rel="nofollow" onclick="$.trackEvent(&quot;Cars For Sale - Widget Click&quot;, &quot;cars2Buy&quot;, &quot;Buying New - Nissan Leaf 110kW Tekna 40kWh 5dr Auto&quot;, 26361);">
+                    <a class="details-button" target="_blank" href="https://www.selectcarleasing.co.uk/car-leasing/kia/picanto/hatchback/10_1_5dr/79297.html" rel="nofollow" onclick="$.trackEvent(&quot;Cars For Sale - Widget Click&quot;, &quot;selectCarLeasing&quot;, &quot;Leasing - KIA PICANTO 1.0 1 5dr&quot;, 119);">
                         Details
                     </a>
             </div>
             <div class="right">
                     <div>
-                    <span style="line-height: 1.68">discounted-new-cars.com</span>
+                    <span style="line-height: 1.68">Select Car Leasing</span>
                     </div>
             </div>
             
         </li>
         <li class="cf">
             <div class="left">
-                    <span class="price">£33,930</span>
-                        <br><span class="saving">save 18%</span>
+                    <span class="saving">From</span><br>
+                    <span class="price">£121.40</span><br>
+                    <span class="saving">per month</span>
             </div>
             <div class="right">
-                <a target="_blank" href="https://www.drivethedeal.com/buy-a-new-car/MERCEDES-BENZ/GLC_ESTATE/GLC_250_4Matic_AMG_Line_5dr_9G-Tronic_82464.html" rel="nofollow" onclick="$.trackEvent(&quot;Cars For Sale - Widget Click&quot;, &quot;drivethedeal&quot;, &quot;Buying New - MERCEDES-BENZ GLC ESTATE GLC 250 4Matic AMG Line 5dr 9G-Tronic&quot;, 33930);">
-                    <b>MERCEDES-BENZ GLC ESTATE</b><br>GLC 250 4Matic AMG Line 5dr 9G-Tronic
+                <a target="_blank" href="https://www.selectcarleasing.co.uk/car-leasing/dacia/sandero/hatchback/10_sce_access_5dr/77389.html" rel="nofollow" onclick="$.trackEvent(&quot;Cars For Sale - Widget Click&quot;, &quot;selectCarLeasing&quot;, &quot;Leasing - DACIA SANDERO 1.0 SCe Access 5dr&quot;, 121);">
+                    <b>DACIA SANDERO</b><br>1.0 SCe Access 5dr
                 </a>
             </div>
             <div class="left">
-                    <a class="details-button" target="_blank" href="https://www.drivethedeal.com/buy-a-new-car/MERCEDES-BENZ/GLC_ESTATE/GLC_250_4Matic_AMG_Line_5dr_9G-Tronic_82464.html" rel="nofollow" onclick="$.trackEvent(&quot;Cars For Sale - Widget Click&quot;, &quot;drivethedeal&quot;, &quot;Buying New - MERCEDES-BENZ GLC ESTATE GLC 250 4Matic AMG Line 5dr 9G-Tronic&quot;, 33930);">
+                    <a class="details-button" target="_blank" href="https://www.selectcarleasing.co.uk/car-leasing/dacia/sandero/hatchback/10_sce_access_5dr/77389.html" rel="nofollow" onclick="$.trackEvent(&quot;Cars For Sale - Widget Click&quot;, &quot;selectCarLeasing&quot;, &quot;Leasing - DACIA SANDERO 1.0 SCe Access 5dr&quot;, 121);">
                         Details
                     </a>
             </div>
             <div class="right">
                     <div>
-                    <span style="line-height: 1.68">Drive The Deal</span>
+                    <span style="line-height: 1.68">Select Car Leasing</span>
                     </div>
             </div>
             
         </li>
     </ul>
 
-    <a class="button" href="/cars-for-sale/search/New/" onclick="return $.trackEventLink(this, 'Cars For Sale - Widget link', '-', location.href);">
+    <a class="button" href="/cars-for-sale/search/Leasing/" onclick="return $.trackEventLink(this, 'Cars For Sale - Widget link', '-', location.href);">
         Find more deals like this        
     </a>
 
         <script>
-        new Image().src = '//pixel.honestjohn.co.uk/cfs.gif?type=widget&cars2Buy=3&amp;drivethedeal=1&t=' + Math.random();
+        new Image().src = '//pixel.honestjohn.co.uk/cfs.gif?type=widget&blueChilliCars=1&amp;selectCarLeasing=3&t=' + Math.random();
     </script>
 
 
@@ -1560,10 +1573,10 @@ googletag.cmd.push(function() { googletag.display('div-gpt-ad-MPU'); });
 
 
 <div class="related-box image">
-    <a href="https://kit.honestjohn.co.uk/kitmas-gift-guides-2018/christmas-gift-guide-2018/" onclick="return $.trackEventLink(this,'Marketing Widget', 'Christmas Gift Guide', location.href);"></a>
-    <div class="header">Could you save with the Honest John Christmas Gift Guide?</div>
-    <img src="//images.honestjohn.co.uk/imagecache/file/width/260/media/14395583/gift-guide-2018-header.jpg">
-    <div class="footer">See which products make the list <span class="icon next"></span></div>
+    <a href="https://www.honestjohn.co.uk/the-honest-john-satisfaction-index/the-honest-john-satisfaction-index-cars/" onclick="return $.trackEventLink(this,'Marketing Widget', 'The Honest John Satisfaction Index - Cars 2019', location.href);"></a>
+    <div class="header">Satisfaction Index 2019 </div>
+    <img src="//images.honestjohn.co.uk/imagecache/file/width/260/media/14370976/satsur_widget_300x400-2019.png">
+    <div class="footer">Let us know what life is like with your car <span class="icon next"></span></div>
 </div>
 
 
@@ -1642,9 +1655,9 @@ googletag.cmd.push(function() { googletag.display('div-gpt-ad-Box6'); });
 <option value="30">30 months</option>
 <option value="36">36 months</option>
 <option value="42">42 months</option>
-<option value="48">48 months</option>
+<option selected="selected" value="48">48 months</option>
 <option value="54">54 months</option>
-<option selected="selected" value="60">60 months</option>
+<option value="60">60 months</option>
 </select> <br>
         </div>
 
@@ -1670,12 +1683,12 @@ googletag.cmd.push(function() { googletag.display('div-gpt-ad-Box6'); });
     <div class="defaultQuote">
         <div class="quoteExample">
     <p>Best available rate <span class="right">9.20%</span> <br></p>
-    <p>Total repayment <span class="right">£9,304.93</span> <br></p>
-    <p class="last">Total cost of credit <span class="right">£1,804.93</span> <br></p>
+    <p>Total repayment <span class="right">£8,930.17</span> <br></p>
+    <p class="last">Total cost of credit <span class="right">£1,430.17</span> <br></p>
 </div>
 
 <div class="applyNow">
-        <div class="right">£155.08</div><p>60 monthly payments <br></p>
+        <div class="right">£186.05</div><p>48 monthly payments <br></p>
     
             <a href="https://honestjohn.carfinance247.co.uk/?utm_content=home&amp;Amount=7500&amp;utm_medium=affiliate&amp;utm_source=hj&amp;utm_campaign=RightHandColumn" onclick="$.trackEvent('Car Finance 247', 'Apply now', 'home')" target="_blank" rel="nofollow">Apply now</a>
 
@@ -1684,9 +1697,9 @@ googletag.cmd.push(function() { googletag.display('div-gpt-ad-Box6'); });
 
 <div class="aprExample">
     <p><b style="font-size:13px">Representative example</b></p>
-            <p>The Representative APR is 13.2% (fixed) so if you borrow £7,500 over 4 years at a rate of 13.2% p.a (fixed) you will repay £199.21 per month and repay £9562.20 in total.</p>
-
+    <p>Borrowing £7,500 over 4 years with a representative APR of 25.4%, an annual interest rate of 25.4% (Fixed) and a deposit of £0.00, the amount payable would be £239.77 per month, with a total cost of credit of £4,008.96 and a total amount payable of £11,508.96.</p>
     <p><b style="font-size:13px">CarFinance 247 Limited is acting as an independent credit broker</b></p>
+    <p>Universal Square, Devonshire Street North, Manchester, M12 6JH</p>
 </div>
 
 
@@ -1697,10 +1710,21 @@ googletag.cmd.push(function() { googletag.display('div-gpt-ad-Box6'); });
 </div> 
 
 
-
 <div class="related-box list" id="elsewhere-on-hj">    
     <div class="header"><b>Elsewhere on <img src="//static.honestjohn.co.uk/images/logo_small.png" style="padding-left:5px; padding-bottom:2px; vertical-align:text-bottom;"></b></div>
     <ul>        
+            <li class="cf">
+                <div class="left">
+                    <a href="/sponsored-content/sponsored-content-tyreman/" onclick="return $.trackEventLink(this, 'Elsewhere on HJ - Sponsored', '/sponsored-content/sponsored-content-tyreman/', location.href);">
+                        <img src="//images.honestjohn.co.uk/imagecache/file/crop/90x60/media/14608419/tyremen-logo.jpg">
+                    </a>
+                </div>
+                <div class="right">
+                    <a href="/sponsored-content/sponsored-content-tyreman/" onclick="return $.trackEventLink(this, 'Elsewhere on HJ - Sponsored', '/sponsored-content/sponsored-content-tyreman/', location.href);">
+                        Sponsored Content: Tyremen Launch Their New K.O.M Aluminium Space Saver Wheel And Tyre Kit <span class="icon next"></span>
+                    </a>
+                </div>
+            </li>
             <li class="cf">
                 <div class="left">
                     <a href="https://www.honestjohn.co.uk/car-of-the-year-competition/sponsored-video-car-of-the-year-competition-sponsored-by-ala-gap-insurance/" onclick="return $.trackEventLink(this, 'Elsewhere on HJ - Sponsored', 'https://www.honestjohn.co.uk/car-of-the-year-competition/sponsored-video-car-of-the-year-competition-sponsored-by-ala-gap-insurance/', location.href);">
@@ -1737,69 +1761,56 @@ googletag.cmd.push(function() { googletag.display('div-gpt-ad-Box6'); });
                     </a>
                 </div>
             </li>
-            <li class="cf">
-                <div class="left">
-                    <a href="https://www.honestjohn.co.uk/reader-offers-and-prizes/reader-offers/reader-offer-12-off-ala-gap-insurance/" onclick="return $.trackEventLink(this, 'Elsewhere on HJ - Sponsored', 'https://www.honestjohn.co.uk/reader-offers-and-prizes/reader-offers/reader-offer-12-off-ala-gap-insurance/', location.href);">
-                        <img src="//images.honestjohn.co.uk/imagecache/file/crop/90x60/media/12797231/ala-final.jpg">
-                    </a>
-                </div>
-                <div class="right">
-                    <a href="https://www.honestjohn.co.uk/reader-offers-and-prizes/reader-offers/reader-offer-12-off-ala-gap-insurance/" onclick="return $.trackEventLink(this, 'Elsewhere on HJ - Sponsored', 'https://www.honestjohn.co.uk/reader-offers-and-prizes/reader-offers/reader-offer-12-off-ala-gap-insurance/', location.href);">
-                        Reader Offer: 12% Off Gap Insurance For Honest John Readers! <span class="icon next"></span>
-                    </a>
-                </div>
-            </li>
                         <li class="cf">
             <div class="left">
-                <a href="/news/honest-johns-motoring-agony-column/2018-11/honest-johns-motoring-agony-column-17-11-2018-part-1/" onclick="return $.trackEventLink(this, 'Elsewhere on HJ', '/news/honest-johns-motoring-agony-column/2018-11/honest-johns-motoring-agony-column-17-11-2018-part-1/', location.href);">
-                    <img src="//images.honestjohn.co.uk/imagecache/file/crop/90x60/media/14395509/hj-driving-ford-fiesta-st-bends.jpg">
+                <a href="/news/honest-johns-motoring-agony-column/2019-03/honest-johns-motoring-agony-column-30-03-2019-part-1/" onclick="return $.trackEventLink(this, 'Elsewhere on HJ', '/news/honest-johns-motoring-agony-column/2019-03/honest-johns-motoring-agony-column-30-03-2019-part-1/', location.href);">
+                    <img src="//images.honestjohn.co.uk/imagecache/file/crop/90x60/media/14961011/hj-driving-mai-in-jazz.jpg">
                 </a>
             </div>
             <div class="right">
-                <a href="/news/honest-johns-motoring-agony-column/2018-11/honest-johns-motoring-agony-column-17-11-2018-part-1/" onclick="return $.trackEventLink(this, 'Elsewhere on HJ', '/news/honest-johns-motoring-agony-column/2018-11/honest-johns-motoring-agony-column-17-11-2018-part-1/', location.href);">
-                    Honest John's Motoring Agony Column 17-11-2018 Part 1 <span class="icon next"></span>
+                <a href="/news/honest-johns-motoring-agony-column/2019-03/honest-johns-motoring-agony-column-30-03-2019-part-1/" onclick="return $.trackEventLink(this, 'Elsewhere on HJ', '/news/honest-johns-motoring-agony-column/2019-03/honest-johns-motoring-agony-column-30-03-2019-part-1/', location.href);">
+                    Honest John's Motoring Agony Column 30-03-2019 Part 1 <span class="icon next"></span>
                 </a>
             </div>
         </li>
         <li class="cf">
             <div class="left">
-                <a href="/news/honest-johns-motoring-agony-column/2018-11/honest-johns-motoring-agony-column-17-11-2018-part-2/" onclick="return $.trackEventLink(this, 'Elsewhere on HJ', '/news/honest-johns-motoring-agony-column/2018-11/honest-johns-motoring-agony-column-17-11-2018-part-2/', location.href);">
-                    <img src="//images.honestjohn.co.uk/imagecache/file/crop/90x60/media/14395524/reliant-rialto-f34-bw-stock-pic.jpg">
+                <a href="/news/honest-johns-motoring-agony-column/2019-03/honest-johns-motoring-agony-column-23-03-2019-part-2/" onclick="return $.trackEventLink(this, 'Elsewhere on HJ', '/news/honest-johns-motoring-agony-column/2019-03/honest-johns-motoring-agony-column-23-03-2019-part-2/', location.href);">
+                    <img src="//images.honestjohn.co.uk/imagecache/file/crop/90x60/media/14941124/peug-207thp150-front-700.jpg">
                 </a>
             </div>
             <div class="right">
-                <a href="/news/honest-johns-motoring-agony-column/2018-11/honest-johns-motoring-agony-column-17-11-2018-part-2/" onclick="return $.trackEventLink(this, 'Elsewhere on HJ', '/news/honest-johns-motoring-agony-column/2018-11/honest-johns-motoring-agony-column-17-11-2018-part-2/', location.href);">
-                    Honest John’s Motoring Agony Column 17-11-2018 Part 2 <span class="icon next"></span>
+                <a href="/news/honest-johns-motoring-agony-column/2019-03/honest-johns-motoring-agony-column-23-03-2019-part-2/" onclick="return $.trackEventLink(this, 'Elsewhere on HJ', '/news/honest-johns-motoring-agony-column/2019-03/honest-johns-motoring-agony-column-23-03-2019-part-2/', location.href);">
+                    Honest John’s Motoring Agony Column 23-03-2019 Part 2 <span class="icon next"></span>
                 </a>
             </div>
         </li>
         <li class="cf">
             <div class="left">
-                <a href="/news/driving-1/2018-11/swansea-named-as-uk-s-road-rage-capital/" onclick="return $.trackEventLink(this, 'Elsewhere on HJ', '/news/driving-1/2018-11/swansea-named-as-uk-s-road-rage-capital/', location.href);">
-                    <img src="//images.honestjohn.co.uk/imagecache/file/crop/90x60/media/14395536/untitled.png">
+                <a href="/news/videos/video-volkswagen-touareg-review/" onclick="return $.trackEventLink(this, 'Elsewhere on HJ', '/news/videos/video-volkswagen-touareg-review/', location.href);">
+                    <img src="//images.honestjohn.co.uk/imagecache/file/crop/90x60/media/14945797/touaregthum.jpg">
                 </a>
             </div>
             <div class="right">
-                <a href="/news/driving-1/2018-11/swansea-named-as-uk-s-road-rage-capital/" onclick="return $.trackEventLink(this, 'Elsewhere on HJ', '/news/driving-1/2018-11/swansea-named-as-uk-s-road-rage-capital/', location.href);">
-                    Swansea named as UK’s road rage capital  <span class="icon next"></span>
+                <a href="/news/videos/video-volkswagen-touareg-review/" onclick="return $.trackEventLink(this, 'Elsewhere on HJ', '/news/videos/video-volkswagen-touareg-review/', location.href);">
+                    VIDEO: Volkswagen Touareg review - budget Bentayga or extortionate Tiguan?  <span class="icon next"></span>
                 </a>
             </div>
         </li>
         <li class="cf">
             <div class="left">
-                <a href="/news/running-costs-1/2018-11/supermarkets-cut-fuel-prices-again-but-some-say-its-not-enough/" onclick="return $.trackEventLink(this, 'Elsewhere on HJ', '/news/running-costs-1/2018-11/supermarkets-cut-fuel-prices-again-but-some-say-its-not-enough/', location.href);">
-                    <img src="//images.honestjohn.co.uk/imagecache/file/crop/90x60/media/14395533/fuel-pump-petrol.jpg">
+                <a href="/news/owning-1/2019-01/volkswagen-acknowledges-problem-with-15-tsi-evo-engine/" onclick="return $.trackEventLink(this, 'Elsewhere on HJ', '/news/owning-1/2019-01/volkswagen-acknowledges-problem-with-15-tsi-evo-engine/', location.href);">
+                    <img src="//images.honestjohn.co.uk/imagecache/file/crop/90x60/media/14635741/volkswagen_t-roc_r-line.jpg">
                 </a>
             </div>
             <div class="right">
-                <a href="/news/running-costs-1/2018-11/supermarkets-cut-fuel-prices-again-but-some-say-its-not-enough/" onclick="return $.trackEventLink(this, 'Elsewhere on HJ', '/news/running-costs-1/2018-11/supermarkets-cut-fuel-prices-again-but-some-say-its-not-enough/', location.href);">
-                    Supermarkets cut fuel prices again - but RAC says it's not enough <span class="icon next"></span>
+                <a href="/news/owning-1/2019-01/volkswagen-acknowledges-problem-with-15-tsi-evo-engine/" onclick="return $.trackEventLink(this, 'Elsewhere on HJ', '/news/owning-1/2019-01/volkswagen-acknowledges-problem-with-15-tsi-evo-engine/', location.href);">
+                    Volkswagen acknowledges problem with 1.5 TSI Evo engine <span class="icon next"></span>
                 </a>
             </div>
         </li>
     </ul>       
 </div>
-
 
 
              
@@ -1819,7 +1830,9 @@ googletag.cmd.push(function() { googletag.display('div-gpt-ad-Box6'); });
                 <li><a href="/cookies/">Cookies</a></li>
                 <li><a href="/contact/#advertising">Advertise on this site</a></li>
                 <li><a href="/contact/">Contact</a></li>
+             
                 <li><a href='javascript:setMode("m")'>Mobile</a></li>
+                             
             </ul>
             <span>
                 <img src="//static.honestjohn.co.uk/images/newspress_15.png">
@@ -1828,7 +1841,10 @@ googletag.cmd.push(function() { googletag.display('div-gpt-ad-Box6'); });
         </footer>
         <div class="clear"></div>            
 
+        
+
     </div>
+
     <span style="position:absolute; right:0; bottom:0; width:0; height:0; overflow:hidden;">
 
 
@@ -1836,9 +1852,22 @@ googletag.cmd.push(function() { googletag.display('div-gpt-ad-Box6'); });
 <script type="text/javascript">
 googletag.cmd.push(function() { googletag.display('div-gpt-ad-Skin'); });
 </script>
+</div>
+<div id="div-gpt-ad-Skin_Premium">
+<script type="text/javascript">
+googletag.cmd.push(function() { googletag.display('div-gpt-ad-Skin_Premium'); });
+</script>
 </div>            <script type="text/javascript" src="https://cdn.connectignite.com/srv/inimage/15668/add.js" id="cibn-ads"></script>
             <div id="ci_footer"></div>
             <script type="text/javascript" src="https://cdn.connectignite.com/srv/footer/15668/add.js" id="cibn-footer"></script>
+            <style>
+                footer {
+                    padding-bottom:110px;
+                }
+                main > .col.fixed-footer {
+                    margin-bottom:240px;
+                }
+            </style>
 
 
 
@@ -1872,7 +1901,7 @@ googletag.cmd.push(function() { googletag.display('div-gpt-ad-Skin'); });
             $.trackEvent('Toolbox Click', title, '-');
         });
 
-        $('#page_nav .sub a, #main-nav .sub a').click(
+        $('#page_nav .sub a, #main-nav .sub a:not([data-featherlight])').click(
         function (event) {
             var url = $(this).attr('href').replace(/https?:\/\//, '');
             event.preventDefault();
@@ -1955,5 +1984,7 @@ googletag.cmd.push(function() { googletag.display('div-gpt-ad-Skin'); });
 </span>
 
 <span id="ci-you-may-also-like"></span>
+
+
 
 </body></html>
