@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the stretchingabuckblog.com privacy policy that was archived on 2018-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181231094246id_/http%3A//www.stretchingabuckblog.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the stretchingabuckblog.com privacy policy that was archived on 2019-03-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190330195437id_/https%3A//www.stretchingabuckblog.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Stretching a Buck | Stretching a Buck
 
@@ -6,7 +6,7 @@ Your privacy is very important to me. Accordingly, I have developed this policy 
 
 ## Stretching a Buck Media, LLC Privacy Policy
 
-This Privacy Policy describes how your personal information is collected, used, and shared when you visit or make a purchase from [http://www.stretchingabuckblog.com](http://www.stretchingabuckblog.com/) (the “Site”).
+This Privacy Policy describes how your personal information is collected, used, and shared when you visit or make a purchase from [https://www.stretchingabuckblog.com](https://www.stretchingabuckblog.com/) (the “Site”).
 
 **PERSONAL INFORMATION WE COLLECT**
 
