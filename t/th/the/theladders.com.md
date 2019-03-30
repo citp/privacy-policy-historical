@@ -1,12 +1,10 @@
-> *The following text is extracted and transformed from the theladders.com privacy policy that was archived on 2018-08-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180819064259id_/https%3A//www.theladders.com/corporate/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the theladders.com privacy policy that was archived on 2019-03-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190330091625id_/https%3A//www.theladders.com/corporate/privacy) for the most accurate reproduction.*
 
-# Privacy Policy | Ladders | Business News & Career Advice
-
-Updated August 26, 2017
+# Ladders $100K Job Search, News & Career Advice
 
 This Privacy Policy describes the how Ladders, Inc. (“Ladders,” “we” or “us”) collects, uses and discloses the information we collect about our users (“you”), when you use our website, including [www.theladders.com](http://www.theladders.com/), recruit.theladders.com and related pages (the “Site”) and the services available through the Site (the Site and our services, together are the “Services”).
 
-This policy applies to personal information about individuals and does not apply to the information collected, used or disclosed with respect to corporate or commercial entities.  By using the Site or the Services, you consent to the information collection and use practices described in this Privacy Policy. Your use of our Site or Services, and any dispute over privacy, is subject to this Privacy Policy and our [Terms of Use](https://blue.theladders.com/corporate/terms), including its applicable limitations on damages and the resolution of disputes. Please read this Privacy Policy to learn more about the ways in which we collect, use and share the information we collect about you.
+This policy applies to personal information about individuals and does not apply to the information collected, used or disclosed with respect to corporate or commercial entities.  By using the Site or the Services, you consent to the information collection and use practices described in this Privacy Policy. Your use of our Site or Services, and any dispute over privacy, is subject to this Privacy Policy and our [Terms of Use](https://www.theladders.com/corporate/terms), including its applicable limitations on damages and the resolution of disputes. Please read this Privacy Policy to learn more about the ways in which we collect, use and share the information we collect about you.
 
   * Information We Collect
   * How We Use The Information We Collect
@@ -150,10 +148,10 @@ This Privacy Policy is current as of the Updated Date set forth above. We may ch
 
 If you have questions or concerns regarding this Privacy Policy, you should contact our privacy officer at [help@theladders.com](mailto:help@theladders.com) (jobseekers), [rrsupport@theladders.com](mailto:rrsupport@theladders.com) (recruiters) or at 55 Water Street, 51st Floor, New York, NY 10041, ATTN: Legal.
 
-* * *
+Published by Ladders, Inc.
 
-#### Published by Ladders, Inc.
+55 Water Street
 
-55 Water Street  
-New York, NY 10041  
-Phone: (866) 800-4640 
+New York, NY 10041
+
+Phone: (866) 800-4640
