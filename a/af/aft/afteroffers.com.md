@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the afteroffers.com privacy policy that was archived on 2018-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181229085103id_/https%3A//www.afteroffers.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the afteroffers.com privacy policy that was archived on 2019-03-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190330062259id_/https%3A//www.afteroffers.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -14,9 +14,9 @@ By checking the box next to the company “offer”, you agree that your persona
 – Country (as a function of your IP address)  
 – Date and time stamp when you chose offers
 
-are all transmitted to that company so that they may provide you with the content offered and deliver future email newsletters, browser notifications, social media messages, text messages and marketing material including promotional emails, text messages and browsers notifications.
+are all transmitted to that company so that they may provide you with the content offered and deliver future email newsletters, browser notifications, social media messages, text messages and other forms of marketing or promotional content.
 
-Your information, while stored by After Offers, is never transmitted to any company from which you have not expressly requested information by checking the box next to their specific offer and clicking the submit button.
+Your information, while stored by After Offers, is never transmitted to any advertising company from which you have not expressly requested information by checking the box next to their specific offer and clicking the submit button.
 
 You have the right to be informed: You can ask us about your personal data, how it is used, and why it is being used at any time  
 You have right of access: You can request a copy of your personal information at any time  
@@ -25,6 +25,8 @@ You have right of erasure: You may request that After Offers erase your personal
 You have the right to unsubscribe: You may unsubscribe from After Offers emails at any time. 
 
 While After Offers encourages all advertisers to have their own privacy policy, you are advised to read and understand the individual privacy policy of the company for the offers you have checked and chosen. After Offers is not responsible for the handling of your information after it has been transmitted to the advertiser. Every advertiser we work with agrees to have an unsubscribe link in every email they send to you, but you must make a request to them directly to unsubscribe from their emails.
+
+We engage other companies, individuals and service providers to perform certain functions and/or services for us and our customers. Examples may include email validation, statistics reporting, fraud prevention, bot detection, and duplicate prevention for our or our advertiser’s lists. Your email address and IP address may either be collected by or shared with such third parties as necessary to fulfill these functions and services, and in some cases, your information may be retained or used by such third parties to fulfill these functions and services. When you visit our pages, those service providers may collect information on our behalf about you in order to provide us with accurate data about our customers and to assist us in conducting our business and delivering relevant services to our customers.
 
 A cookie or tracking pixel is a string of information that a website stores on a user’s computer, and that the user’s browser provides to the website each time the user submits a query to the site. We use cookies and tracking pixels to track the pages that users visit during each Site session, both to help us improve users’ experiences and to help us understand how the Site is being used. As with other non-Personal Information gathered from users of the Site, we analyze and disclose in aggregated form information gathered using Web Cookies, so as to help us, our partners and others better understand how the Site is being used and to offer advertisements that are in line with the users interests and demographic data. We do not attempt to link information gathered using cookies or tracking pixels to personal information. Users who do not wish to have web cookies or tracking pixels placed on their computers should set their browsers to refuse cookies or tracking pixels before accessing any page on the After Offers domain.
 
@@ -45,4 +47,4 @@ Laguna Niguel, CA 92677
 
 After Offers does not send any marketing emails directly, so you will need to also unsubscribe from the advertisers you selected through the After Offers platform via their own unsubscribe links in their emails or contacting them directly.
 
-Updated: May 18, 2018
+Updated: February 20, 2019
