@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cornwalllive.com privacy policy that was archived on 2018-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181214035650id_/https%3A//www.cornwalllive.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cornwalllive.com privacy policy that was archived on 2019-03-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190330113451id_/https%3A//www.cornwalllive.com/privacy-policy) for the most accurate reproduction.*
 
 # Cornwall Live privacy policy
 
