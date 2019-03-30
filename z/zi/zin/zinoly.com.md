@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the zinoly.com privacy policy that was archived on 2018-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181101223824id_/http%3A//zinoly.com/pp%3Fid%3D10) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the zinoly.com privacy policy that was archived on 2019-03-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190330154919id_/https%3A//zinoly.com/pp%3Fid%3D10) for the most accurate reproduction.*
 
 # Privacy Policy
 
