@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kprofiles.com privacy policy that was archived on 2018-07-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180704062207id_/https%3A//kprofiles.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kprofiles.com privacy policy that was archived on 2019-03-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190330143001id_/https%3A//kprofiles.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy (GDPR Compliant) - Kpop Profiles
 
