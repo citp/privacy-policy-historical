@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the taxscan.in privacy policy that was archived on 2018-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181119042335id_/http%3A//www.taxscan.in/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the taxscan.in privacy policy that was archived on 2019-03-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190330093224id_/https%3A//www.taxscan.in/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Taxscan
 
-[ ](http://www.taxscan.in/privacy-policy/ "Privacy Policy")
+[ ](https://www.taxscan.in/privacy-policy/ "Privacy Policy")
 
 Tax Scan is a one stop for all the Taxation Law resources. We respects your privacy and is obliged to protect and manage any personal information you share with us through our website www.taxscan.in. We are also committed to take all reasonable care and security precautions to safeguard your personal data and prevent its loss and misuse. You may be required to provide Personally Information at several different points on the Site. By accepting the policy at the time of registration, you expressly approve and consent to the collection, storage, use and disclosure of your Personal Information by us subject to this Privacy statement and terms and conditions.
 
