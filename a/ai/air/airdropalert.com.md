@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the airdropalert.com privacy policy that was archived on 2018-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180622171632id_/https%3A//airdropalert.com/PrivacyStatement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the airdropalert.com privacy policy that was archived on 2019-03-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190330170805id_/https%3A//airdropalert.com/privacy-statement) for the most accurate reproduction.*
 
-# 
+# Privacy Statement | AirdropAlert
 
 Version control last updated version 18 February, 2018
 
@@ -28,15 +28,15 @@ You will be provided with the possibility to unsubscribe from our newsletter by 
 
 ### 4 The personal data we may collect and process
 
-We may collect and process the following personal data in order to inform you about cryptocurrency airdrops 
+We may collect and process the following personal data in order to inform you about cryptocurrency airdrops
 
-  * Email address
-  * Name
-  * IP address
-  * Phone number
-  * Wallet address (in case an Ethereum address is considered as personal date in accordance with the applicable date protection law)
-  * Social media
-  * KYC information
+  1. Email address 
+  2. Name 
+  3. IP address 
+  4. Phone number
+  5. Wallet address (in case an Ethereum address is considered as personal date in accordance with the applicable date protection law)
+  6. Social media
+  7. KYC information
 
 
 
@@ -50,19 +50,19 @@ Data may be shared with third parties.
 
 On the basis of the applicable data protection law you have several rights with regard to your personal data. The rights with regard to your personal data are explicitly defined in the applicable data protection law and are as follows:
 
-  * You have the right to access your personal data;
-  * You have the right to object to the processing of your personal data;
-  * You have the right to withdraw your consent for the processing of your personal data;
-  * You have the right of rectification or erasure of your personal data;
-  * You have the right of restriction of the processing of your personal data(in some cases);
-  * You have the right to lodge a complaint with a Data Protection Authority;
-  * You have the right to data portability.
+  1. You have the right to access your personal data;
+  2. You have the right to object to the processing of your personal data;
+  3. You have the right to withdraw your consent for the processing of your personal data;
+  4. You have the right of rectification or erasure of your personal data;
+  5. You have the right of restriction of the processing of your personal data(in some cases); 
+  6. You have the right to lodge a complaint with a Data Protection Authority;
+  7. You have the right to data portability.
 
 
 
 The right to data portability is your right to receive your personal data that you provided to us in a structured and commonly used format and the right to transmit such data to another "controller". The definition of "controller" is set forth in applicable data protection law. We will not hinder you if you want to transmit your personal data. If it is technically possible we will transmit your personal data directly to another controller at your request.
 
-If you wish to exercise your rights with regard to your personal data please let us know. We can be reached by email: [support@airdropalert.com](mailto:support@airdropalert.com).
+If you wish to exercise your rights with regard to your personal data please let us know. We can be reached by email: [support@airdropalert.com](mailto:support@airdropalert.com). 
 
 ### 6 Is the provision of your personal data obligatory or optional?
 
@@ -78,11 +78,11 @@ Your personal data is collected and processed by airdropalert.com.
 Website: <https://airdropalert.com/>  
 Mail: [support@airdropalert.com](mailto:support@airdropalert.com)  
 Natural person: M.Christensen  
-Entity: AirdropAlert, Postbus 25024, 3001 HA, Rotterdam, The Netherlands
+Entity: AirdropAlert BV, Schiedamse Vest 154, 3011 BH, Rotterdam, The Netherlands
 
 ### 9 Security measures
 
-AirdropAert.com is aware of the importance of the protection of personal data and the applicable data protection law and regulation and will exert its best efforts to take reasonable steps to ensure an appropriate level of protection of your personal data. AirdropAert.com makes use of Hypertext Transfer Protocol Secure to ensure a secure communication and ensure that no unauthorized third parties are able to access the communication between you and the website. It is important to point out that the security of the transmission of personal data over the internet or the storage of personal data will never be fully guaranteed. We cannot guarantee that the personal data your transmit via our website is fully secure.
+AirdropAlert.com is aware of the importance of the protection of personal data and the applicable data protection law and regulation and will exert its best efforts to take reasonable steps to ensure an appropriate level of protection of your personal data. AirdropAlert.com makes use of Hypertext Transfer Protocol Secure to ensure a secure communication and ensure that no unauthorized third parties are able to access the communication between you and the website. It is important to point out that the security of the transmission of personal data over the internet or the storage of personal data will never be fully guaranteed. We cannot guarantee that the personal data your transmit via our website is fully secure.
 
 ### 10 Questions
 
