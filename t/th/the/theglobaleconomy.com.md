@@ -1,27 +1,35 @@
-> *The following text is extracted and transformed from the theglobaleconomy.com privacy policy that was archived on 2013-04-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130429062026id_/http%3A//www.theglobaleconomy.com/texts_new.php%3Fpage%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the theglobaleconomy.com privacy policy that was archived on 2019-03-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190330174339id_/https%3A//www.theglobaleconomy.com/texts_new.php%3Fpage%3Dprivacy) for the most accurate reproduction.*
 
 # Privacy
 
-We recognize that privacy of your personal information is important. Here is information on what types of personal information we receive and collect when you use and visit our site, and how we safeguard your information. We never sell your personal information to third parties. 
+We take very seriously your privacy and the security of your private information. This page describes our procedures in that area with respect to our websites www.theglobaleconomy.com, www.globalpetrolprices.com, and www.globalenergyprices.com. Please feel free to contact us with any questions. 
 
-Log Files 
+**SSL technology**
 
-As with most other websites, we collect and use the data contained in log files. The information in the log files include your IP (internet protocol) address, your ISP (internet service provider, such as AOL or Shaw Cable), the browser you used to visit our site (such as Internet Explorer or Firefox), the time you visited our site and which pages you visited throughout our site. 
+Our websites use Secure Socket Layer (SSL) encryption technology in order to protect the information that you submit. This type of technology protects you from having your information intercepted by anyone other than us while it is being transmitted to us. We work hard to ensure that our sites are secure and that they meet industry standards. 
 
-Email Address 
+**What private information do we collect and why**
 
-This is a free content site. We do not require any information from you (not even a user name or password). We do not sell any information from our site to any outside party. The only e-mail sent from our websites is in response to an inquiry that you may send us or as a result of joining our opt-in e-mail list. If anything comes to your attention which could potentially be a violation of this policy, please let us know immediately so that we can investigate it and try to correct it. 
+We ask for user ID’s, e-mail addresses, and passwords when users of our websites open accounts to download data or subscribe to receive our newsletters. All of the information is obtained with explicit consent and is provided by users who actively engage with the websites. Our databases keep that information until the moment when a user unsubscribes from the newsletter or closes her/his account with us. 
 
-Cookies and Web Beacons 
+**Information related to payments**
 
-We do use cookies to store information, such as your personal preferences when you visit our site. This could include only showing you a popup once in your visit, or the ability to login to some of our features, such as forums. 
+We do not see, have access to, collect, or store payments information as all payments on our websites use these third party platforms: Stripe ([privacy policy](https://stripe.com/us/privacy)) and Paypal ([privacy policy](https://www.paypal.com/bg/webapps/mpp/ua/privacy-prev)). 
 
-We also use third party advertisements to support our site. Some of these advertisers may use technology such as cookies and web beacons when they advertise on our site, which will also send these advertisers (such as Google through the Google AdSense program) information including your IP address, your ISP , the browser you used to visit our site, and in some cases, whether you have Flash installed. This is generally used for geotargeting purposes (showing New York real estate ads to someone in New York, for example) or showing certain ads based on specific sites visited (such as showing cooking ads to someone who frequents cooking sites). 
+**Sharing of your personal information with third parties**
 
-You can choose to disable or selectively turn off our cookies or third-party cookies in your browser settings, or by managing preferences in programs such as Norton Internet Security. However, this can affect how you are able to interact with our site as well as other websites. This could include the inability to login to services or programs, such as logging into forums or accounts. 
+We do not share your information with third parties except when required by law. 
 
-We use third-party advertising companies to serve ads when you visit our website. These companies may use information (not including your name, address, email address, or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you. This Website uses Google for advertisements. 
+**Cookies**
 
-About Google and the DoubleClick DART cookie: 
+Each of our websites has Google Analytics and Google Adsense codes that collect user information through cookies in order to analyze user behavior. Cookies are small files containing information the website uses to track the behavior of visitors. The objective is to allow Google Analytics to collect and provide us with information about the use of our sites in order to improve them, as well as to provide targeted ads through the Google Adsense platforms. You can learn about Google's privacy policies [here](https://policies.google.com/technologies/partner-sites) and more specifically about the Google Analytics privacy policy [here](https://developers.google.com/analytics/devguides/collection/analyticsjs/cookie-usage). 
 
-Google, as a third party vendor, uses cookies to serve ads on your site. Google’s use of the DART cookie enables it to serve ads to your users based on their visit to your sites and other sites on the Internet. Users may opt out of the use of the DART cookie by visiting the [Google ad and content network privacy policy](http://www.google.com/privacy_ads.html). For more information on [cookies visit here](http://www.google.com/intl/en/policies/privacy/). 
+Also, when you share an article using the social networks buttons (for example, Facebook) on our websites, the social network that created this button will save this action. 
+
+Also, we use so-called sessions to store some parameters of your interaction with the websites to improve your experience. For example, if you select to see data in gallons as opposed to litres, this information will be stored while you use the websites so you don’t have to select gallons multiple times. 
+
+If you are concerned about the use of cookies, you can easily disable them. All browsers allow you to manage your cookies preferences, including to turn them off completely. That can be done in the “settings” or “options” sections of each browser. 
+
+**Control over your information**
+
+Please contact us by telephone or e-mail if you would like to change or delete your information on our websites. We assure you that you have complete control over your data on our websites and servers. 
