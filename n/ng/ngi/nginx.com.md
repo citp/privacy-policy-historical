@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nginx.com privacy policy that was archived on 2018-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181226014606id_/https%3A//www.nginx.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nginx.com privacy policy that was archived on 2019-03-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190330200056id_/https%3A//www.nginx.com/privacy-policy) for the most accurate reproduction.*
 
 # NGINX Inc. Privacy Policy - How Information is Used
 
@@ -8,7 +8,7 @@ Last revised: June 2018
 
 Please note that this Nginx Privacy Policy applies to personal data that is collected and processed by Nginx Software, Inc. or, as relevant, the particular company named in your contract, such as our EU affiliate, Nginx International Limited (references to **NGINX, us, we** or **our** in this Privacy Policy refer to Nginx Software, Inc. and affiliates).
 
-NGINX understands the importance of protecting your information. We recognize that when you choose to provide us with information about yourself, you trust us to use it in a responsible manner. This Privacy Policy applies to any information provided or collected through our website <http://www.nginx.com/> (the **Website** ) and outlines how NGINX as a data controller collects, processes, uses and discloses the information you provide by using the Website.
+NGINX understands the importance of protecting your information. We recognize that when you choose to provide us with information about yourself, you trust us to use it in a responsible manner. This Privacy Policy applies to any information provided or collected through our website [http://www.nginx.com/](https://www.nginx.com/) (the **Website** ) and outlines how NGINX as a data controller collects, processes, uses and discloses the information you provide by using the Website.
 
 NGINX, as a data controller, collects and processes personal data relating to interactions with our Website and you can contact us at: [privacy@nginx.com](mailto:privacy@nginx.com)
 
@@ -138,7 +138,7 @@ We store your personal data during the time that you are a customer or end user 
 
 ### 8\. Where We Store Your Personal Data
 
-The personal data that we collect from you may be transferred to, and stored at, a destination outside the European Economic Area (EEA), for the purposes described above, including to countries such as the United States of America or Russia, which may not provide an adequate level of protection in relation to processing your data. We will take all steps reasonably necessary to ensure that your personal data is treated securely and in accordance with this Privacy and Cookies Policy and the Data Protection Legislation. To the limited extent that it is necessary to transfer your personal data outside of the EEA, we will ensure appropriate safeguards are in place to protect the privacy and integrity of such personal data, including European Union Model Clauses under Article 46.2. Please contact us if you wish to obtain information concerning such safeguards (see Contact Us below).
+The personal data that we collect from you may be transferred to, and stored at, a destination outside the European Economic Area (EEA), for the purposes described above, including to countries such as the United States of America or Russia, which may not provide an adequate level of protection in relation to processing your data. We will take all steps reasonably necessary to ensure that your personal data is treated securely and in accordance with this Privacy and Cookies Policy and the Data Protection Legislation. To the limited extent that it is necessary to transfer your personal data outside of the EEA, we will ensure appropriate safeguards are in place to protect the privacy and integrity of such personal data, including European Union Model Clauses under Article 46.2. Please contact us if you wish to obtain information concerning such safeguards (see [Contact Us](https://web.archive.org/contact-sales) below).
 
 ### 9\. Your Rights
 
@@ -213,8 +213,8 @@ NGINX uses cookies to gather information on Website usage. This information is g
 
 **Categories of Use** | **Description**  
 ---|---  
-Preferences, Features, and Services | Cookies can tell us which language you prefer and what your communication preferences are. They can help you fill out forms on [NGINX.com](http://nginx.com/) more easily. They also provide you with features, insights, and personalized content based on other content you’ve engaged with on the Website.  
-Advertising | We use cookies to show you advertising both on and off the NGINX Website. Similarly, we may work with advertising platforms who use a cookie to show you an ad off [NGINX.com](http://nginx.com/), and to determine how the ad performed, or provide us with information about how you interact with ads.  
+Preferences, Features, and Services | Cookies can tell us which language you prefer and what your communication preferences are. They can help you fill out forms on [NGINX.com](https://nginx.com/) more easily. They also provide you with features, insights, and personalized content based on other content you’ve engaged with on the Website.  
+Advertising | We use cookies to show you advertising both on and off the NGINX Website. Similarly, we may work with advertising platforms who use a cookie to show you an ad off [NGINX.com](https://nginx.com/), and to determine how the ad performed, or provide us with information about how you interact with ads.  
 Performance, Analytics, and Research | Cookies help us learn how well our Website performs in different locations, on different devices, and at different times of day.  
   
 **WEBSITE COOKIES**  
@@ -250,7 +250,7 @@ We belong to ad networks that may use your browsing history across participating
   * [European Interactive Digital Advertising Alliance (EU)](http://www.youronlinechoices.eu/)
   * [Internet Advertising Bureau (US)](https://www.iab.com/)
   * [Internet Advertising Bureau (EU)](https://www.iabeurope.eu/)
-  * [Network Advertising Initiative](http://www.networkadvertising.org/)
+  * [Network Advertising Initiative](https://www.networkadvertising.org/)
 
 
 
@@ -260,7 +260,7 @@ We reserve the right to change this Privacy and Cookies Policy from time to time
 
 ### 13\. Contact Us
 
-If you have any questions, comments, requests and complaints regarding this Privacy and Cookies Policy and the information we hold, please contact us at [privacy@nginx.com](mailto:privacy@nginx.com), call us at 800‑915‑9122, or use our online [contact form](https://web.archive.org/#contact-us) to send us a message (“Questions about NGINX?”). Our US postal mail address is:
+If you have any questions, comments, requests and complaints regarding this Privacy and Cookies Policy and the information we hold, please contact us at [privacy@nginx.com](mailto:privacy@nginx.com), call us at 800‑915‑9122, or use our online [contact form](https://web.archive.org/contact-sales) to send us a message (“Questions about NGINX?”). Our US postal mail address is:
 
 Nginx, Inc.  
 85 Federal St.  
