@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lifehopeandtruth.com privacy policy that was archived on 2018-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181220225932id_/https%3A//lifehopeandtruth.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lifehopeandtruth.com privacy policy that was archived on 2019-03-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190330033853id_/https%3A//lifehopeandtruth.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Life, Hope & Truth
 
@@ -47,7 +47,7 @@ Email communication that you send to COGWA may be routed to the person who is mo
 
 ### 7\. Complaint process
 
-If you believe your privacy rights have been violated or if you have another complaint or problem, you may email us by clicking the “Contact” link at the bottom of any page. We will endeavor to respond to you in an attempt to resolve the problem.” You may also call 1-972-521-7777 or U.S. toll-free 888-926-4929. You may contact our Media Operation Manager at 1301 Central Expressway South, Suite 120, Allen, Texas, USA 75013.
+If you believe your privacy rights have been violated or if you have another complaint or problem, you may email us by clicking the “Contact” link at the bottom of any page. We will endeavor to respond to you in an attempt to resolve the problem.” You may also call 1-972-521-7777 or U.S. toll-free 888-926-4929. You may contact our Media Operation Manager at 3701 Medical Center Dr, McKinney, TX 75069.
 
 ### 8\. How we Protect Personal Information
 
