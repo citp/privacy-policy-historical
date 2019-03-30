@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the freepressjournal.in privacy policy that was archived on 2018-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181126175422id_/http%3A//www.freepressjournal.in/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freepressjournal.in privacy policy that was archived on 2019-03-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190330225839id_/https%3A//www.freepressjournal.in/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Free Press Journal | Latest India News, Live Updates, Breaking news from Mumbai
-
-July 14, 2015 02:29 PMJuly 14, 2015 02:31 PM
+# Privacy Policy
 
 Free Press Journal respects the privacy of everyone who visits the website of Free Press Journal Group. We would like to inform you regarding the way we would use your personal data. Free Press Journal recommends you to read this privacy policy so that you understand our approach towards the use of your personal data. By submitting your personal data to us, you will be treated as having given your permission – where necessary and appropriate – for disclosures referred to in this policy. Free Press Journal uses your Personal Information only for providing and improving the Site.
 
