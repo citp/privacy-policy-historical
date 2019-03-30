@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 3dprint.com privacy policy that was archived on 2018-09-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180902204121id_/https%3A//3dprint.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 3dprint.com privacy policy that was archived on 2019-03-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190330154446id_/https%3A//3dprint.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | 3DPrint.com | The Voice of 3D Printing / Additive Manufacturing
 
