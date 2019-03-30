@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wordart.com privacy policy that was archived on 2018-09-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180921104645id_/https%3A//wordart.com/terms/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wordart.com privacy policy that was archived on 2019-03-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190330181935id_/https%3A//wordart.com/terms/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - WordArt.com
 
