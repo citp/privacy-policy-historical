@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the meetcircle.com privacy policy that was archived on 2018-09-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180908165822id_/https%3A//meetcircle.com/legal/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the meetcircle.com privacy policy that was archived on 2019-03-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190330152951id_/http%3A//meetcircle.com/legal/privacy) for the most accurate reproduction.*
 
 # Privacy Issues and Policies - Circle
 
@@ -6,7 +6,7 @@
 
 _Effective date: May 25, 2018_
 
-Circle Media Labs Inc. with its corporate office located 1201 NE Lloyd Blvd Ste 100, OR 97232, Portland, United States of America and our affiliated businesses (collectively, "Circle" or "us") are committed to being responsible custodians of the information you provide us and the information we collect in the course of operating our business. 
+Circle Media Labs Inc. with its corporate office located 1104 NW 15th Ave Suite 400, OR 97209, Portland, United States of America and our affiliated businesses (collectively, "Circle" or "us") are committed to being responsible custodians of the information you provide us and the information we collect in the course of operating our business. 
 
 Circle takes your personal privacy seriously. This Privacy Statement describes how Circle, as a data controller, collects, uses and shares information, particularly in association with the operation of our website [https://meetcircle.com](https://web.archive.org/) and our other websites, and the provision of our products and services including the Circle app. This Privacy Statement applies to all personal data collected by Circle from individuals including those in the European Union. 
 
