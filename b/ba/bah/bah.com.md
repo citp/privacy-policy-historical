@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bah.com privacy policy that was archived on 2018-10-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181009075321id_/https%3A//www.boozallen.com/tools/footer-navigation/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bah.com privacy policy that was archived on 2019-03-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190330130234id_/https%3A//www.boozallen.com/tools/footer-navigation/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -144,8 +144,8 @@ Find more information on how we use **Cookies and other technology  **[here](ht
 
 Your Personal Information may be disclosed:
 
-  * To our _[affiliates](http://investors.boozallen.com/secfiling.cfm?filingID=1443646-17-50&CIK=1443646#BAH-20170331X10K_HTM_S560C2B9764C757BCB968A4C3CED3155D)_ for the purposes described in this Privacy Policy. 
-    * You can consult the list and location of our affiliates [here](http://investors.boozallen.com/secfiling.cfm?filingID=1443646-17-50&CIK=1443646#BAH-20170331X10K_HTM_S560C2B9764C757BCB968A4C3CED3155D);
+  * To our _[affiliates](https://www.sec.gov/Archives/edgar/data/1443646/000144364618000100/bah-20180331xex21.htm)_ for the purposes described in this Privacy Policy. 
+    * You can consult the list and location of our affiliates [here](https://www.sec.gov/Archives/edgar/data/1443646/000144364618000100/bah-20180331xex21.htm);
   * To our third party service providers, to facilitate services they provide to us, including website hosting, data analysis, information technology, payment processing, order fulfillment, customer service, email delivery, auditing, and other services;
   * To identify you to anyone to whom you send messages through the Sites. ****
 
