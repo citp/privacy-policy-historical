@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mypolice.qld.gov.au privacy policy that was archived on 2018-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181227050145id_/https%3A//www.police.qld.gov.au/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mypolice.qld.gov.au privacy policy that was archived on 2019-03-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190330111607id_/https%3A//www.police.qld.gov.au/privacy.htm) for the most accurate reproduction.*
 
 # Privacy Statement
 
@@ -88,11 +88,11 @@ Use of the Policelink Mobile App is voluntary. You can decide to download the mo
 
 Personal information collected through the Policelink Application may include details required to submit a traffic crash report, or eye witness image/video. Details submitted as part of the ‘My Crash’ function will be used for the generation of a police report, and will be stored in the ‘View Saved Crashes’ function if saved in this way.​
 
-### Complaints 
+### Making a Privacy Complaint
 
 If you believe we have handled your personal information in a way that is not consistent with the privacy principles, you can make a complaint. This will help us resolve your complaint and understand where we can improve our management of your personal information.
 
 Please note your complaint may involve aspects of misconduct or breach of discipline. While we will look at privacy, we may also need to investigate these other aspects, which can result in disciplinary or criminal processes. The QPS takes your complaint seriously so please be patient with us while we investigate all aspects of it.
 
-If you wish to make a complaint please complete the online form on the [Compliments and Complaints](https://www.police.qld.gov.au/online/ComplimentsandComplaints.htm) page.  
+If you wish to make a complaint please complete the online form on the [Compliments and Complaints](https://www.police.qld.gov.au/online/ComplimentsandComplaints.htm) page. We ask that you include details of the information that is the subject of the complaint, why you feel it is a privacy breach, and which [Information Privacy Principles](https://www.oic.qld.gov.au/guidelines/for-community-members/Information-sheets-privacy-principles) you consider have been breached. If you have any supporting material please also provide that with your complaint. Providing this detail will assist in the timely review of any complaint.  
 
