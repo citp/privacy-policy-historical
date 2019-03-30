@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the ipswitchft.com privacy policy that was archived on 2018-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181213115418id_/https%3A//www.ipswitch.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ipswitchft.com privacy policy that was archived on 2019-03-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190330110316id_/https%3A//www.ipswitch.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Ipswitch
 
 Last updated September 5, 2018
 
-Ipswitch respects the privacy of visitors to [www.ipswitch.com](http://www.ipswitch.com/), other Ipswitch Web sites and their related Web pages, product pages, URLs, blogs and communities (each a “Website” and collectively the “Websites”).  This Privacy Policy outlines the information We will collect and how We will use that information. Please read this web page carefully. If You are not comfortable with the policies and practices it describes, You should not use the Websites.  As noted below, We may change this privacy policy at any time in Our sole discretion.
+Ipswitch respects the privacy of visitors to [www.ipswitch.com](https://web.archive.org/), other Ipswitch Web sites and their related Web pages, product pages, URLs, blogs and communities (each a “Website” and collectively the “Websites”).  This Privacy Policy outlines the information We will collect and how We will use that information. Please read this web page carefully. If You are not comfortable with the policies and practices it describes, You should not use the Websites.  As noted below, We may change this privacy policy at any time in Our sole discretion.
 
 As used herein, the words “User,” “You” and “Your” mean Users of the Website and the words “We,” “Our,” “Us” and “Ipswitch” mean Ipswitch, Inc., the owner and operator of the Website.
 
