@@ -1,119 +1,124 @@
-> *The following text is extracted and transformed from the xtensio.com privacy policy that was archived on 2017-02-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170226014747id_/https%3A//xtensio.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the xtensio.com privacy policy that was archived on 2019-03-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190330230323id_/https%3A//xtensio.com/privacy) for the most accurate reproduction.*
 
-# Xtensio | Privacy Policy
+# Privacy Policy - Agreement | Xtensio
 
-_Last Updated: September 30th, 2016_
+Xtensio is a collaboration hub for [living documents](https://xtensio.com/tour). Build any business collateral from strategy docs to presentations, pitches, agendas, reports and more. [Sign up for free >](https://app.xtensio.com/account/signup)
 
-The Xtensio website (the “ **Site** ”) is operated by Xtensio, Inc. Xtensio is committed to respecting and protecting your privacy. To that end, we have prepared this privacy policy (the “ **Privacy Policy** ”) to describe our information gathering, dissemination, and protection practices for the Site and any related applications whether existing now or in the future (collectively, the “ **Properties** “). The terms “ **Xtensio** ,” “ **we** ,” “ **us** ,” and “ **our** ” refer to Xtensio, Inc. and its subsidiaries and affiliates. The terms “ **you** ,” “ **your** ,” and “ **yours** ” refer to the user/customer utilizing the Properties. This Privacy Policy is governed by our Terms of Service.
+ _Last Updated: May 25th, 2018_
 
-**COLLECTION OF INFORMATION**
+The Xtensio website (the “ **Site** ”) is operated by Xtensio, Inc. Xtensio is committed to respecting and protecting your privacy. To that end, we have prepared this privacy policy (the “ **Privacy Policy** ”) to describe our information gathering, dissemination, and protection practices for the Site. The terms “ **Xtensio** ,” “ **we** ,” “ **us** ,” and “ **our** ” refer to Xtensio, Inc. and its subsidiaries and affiliates. The terms “ **you** ,” “ **your** ,” and “ **yours** ” refer to the user/customer utilizing the Site. “ **Service** ” refers to Xtensio’s service which can be accessed via the Site. This Privacy Policy is governed by our [Terms of Use](https://xtensio.com/terms/).
 
-“ **Personally Identifiable Information** ” means any information which can be used to identify an individual, and may include, but is not limited to, name, email address, postal or other physical address, title, or occupation. We collect the following Personally Identifiable Information from you when you register for the Properties: name and email address. To participate in certain activities and to obtain certain services or documents offered on the Properties, you may be asked to provide additional Personally Identifiable Information including, but not limited to, billing address and credit card information. We endeavor to limit our requests for Personally Identifiable Information to information we believe is reasonably necessary to achieve our purposes. Any Personally Identifiable Information received in communication or in material you transmit to the Properties by electronic mail or otherwise are and will be treated in accordance with this Privacy Policy.
+###  **CONSENT**
 
-In addition, when you visit the Properties, we may automatically collect and store information about your activities and your computer or mobile device. This information may include, but is not limited to:
+By accessing our Service, you accept our Privacy Policy and Terms of Use, and you consent to our collection, storage, use and disclosure of your personal information as described in this Privacy Policy. In addition, by using our Service you are accepting the policies and practices described in this Privacy Policy. Each time you visit our Site, or use the Service, and any time you voluntarily provide us with information, you agree that you are consenting to our collection, use and disclosure of the information that you provide, and you are consenting to receive emails or otherwise be contacted, as described in this Privacy Policy. Whether or not you register or create any kind of account with us, this Privacy Policy applies to all users of the Site and the Service.
 
-  * Your IP address;
+###  **COLLECTION OF INFORMATION**
+
+We may collect both “Personally Identifiable Information” and “Non-Personally Identifiable Information” about you.
+
+#### “ **Personally Identifiable Information** ”
+
+This means any information which can be used to identify you. We may collect the following Personally Identifiable Information from you when you visit the Site, register an account, and/or use the Service: name, email address, location, IP address, phone number, billing address, and payment information. We endeavor to limit our requests for Personally Identifiable Information to information we believe is reasonably necessary to achieve our purposes as described in the “Information Use” section below. Any Personally Identifiable Information received in communication or in the material you transmit to the Site by electronic mail or otherwise are and will be treated in accordance with this Privacy Policy.
+
+####  **“Non-Personally Identifiable Information”  **
+
+This includes information that cannot be used to personally identify you, including, but not limited to:
+
   * Technical information about your computer or mobile device (such as type of device, web browser or operating system);
   * Your preferences and settings (time zone, language etc.);
-  * Your mobile device’s unique ID number;
-  * Your geographic location;
-  * The URL of the last web page you visited before coming to our Properties;
-  * The search terms you have looked up and results you selected;
-  * Communications between you and other users through our Properties; and
-  * How long you visited our Properties and which services and features you used.
+  * The URL of the last web page you visited before coming to our Site;
+  * The search terms you have looked up and results you selected; 
+  * Communications between you and other users through our Site; and
+  * How long you visited our Site and which services and features you used.
 
 
 
-We may also collect Personally Identifiable Information and aggregated public information from you using third party services in order to improve the quality of the products and services we provide you. 
+###  **INFORMATION USE**
 
-**INFORMATION USE**
+Xtensio uses your Personally Identifiable Information for several general purposes. These include, but are not limited to:
 
-Xtensio uses all types of information we collect, including, but not limited to, your Personally Identifiable Information, for several general purposes. These include, but are not limited to:  
-
-
-  * Providing you with service information and news;
-  * Supporting and improving the products and services offered on the Properties;
-  * Contacting you for feedback about our services;
-  * Conducting research about Xtensio’s customer base or services;
+  * Providing you with information and news about the Service;
+  * Supporting the Service offered on the Site;
+  * Contacting you for feedback about the Services;
+  * Conducting research about Xtensio’s customer base or the Service;
   * Processing your payments including credit checks and collection;
   * Notifying you of technical updates or changes in policy; or
-  * Contacting you for our own marketing and promotional purposes.  
+  * Contacting you for our own marketing and promotional purposes.
 
 
 
+We may use non-Personally Identifiable Information such as demographic data to further improve the Site and the Service, and to track trends and analyze use patterns of the Service. This Privacy Policy does not limit in any way our use or disclosure of Non-Personal Information and we reserve the right to use and disclose such Non-Personal Information to our partners, advertisers and other third parties at our sole discretion.
 
-We may use non-Personally Identifiable Information such as demographic data to analyze and develop our marketing strategy and further improve the Properties and our services.
+###  **INFORMATION SHARING AND DISCLOSURE**
 
-**INFORMATION SHARING AND DISCLOSURE**
+We may disclose your Personally Identifiable Information to other companies or people for various reasons, including:
 
-We may disclose all types of information we collect, including, but not limited to, your Personally Identifiable Information, to other companies or people for various reasons, including:  
-
-
-  * If sharing the information is reasonably necessary to provide our service.
-  * With vendors that provide a service, including, but not limited to, payment processing and collection.
-  * With analytics companies (such as Google Analytics and Intercom) which use tracking technologies to collect information about our users’ computer or mobile devices and their online activities in order to help us better understand how our Properties are being used.
+  * If sharing the information is reasonably necessary to provide the Service.
+  * With vendors that provide a service, including, but not limited to, payment processing and collection (such as Stripe), email communication (such as Mailgun), and communication tools (such as HelpCrunch). 
+  * With analytics companies (such as Google Analytics) which use tracking technologies to collect information about our users’ computer or mobile devices and their online activities in order to help us better understand how our Site is being used. 
   * To keep you up to date on the latest product announcements, software updates, special offers, or other information we think you would like to hear about either from us or from our business partners (unless you have opted out of these types of communications).
-  * If we believe in good faith that we are required to do so by law, in connection with litigation, to prevent a crime, or to protect personal safety, the public, or the Properties.
+  * If we believe in good faith that we are required to do so by law, in connection with litigation, to prevent a crime, or to protect personal safety, the public, or the Site.
   * In connection with a sale or merger with another entity or if Xtensio should ever file for bankruptcy or have its assets sold to another entity.
-  * When we otherwise have your consent to share the information.  
-
+  * When we otherwise have your consent to share the information.
 
 
 
 Xtensio may also share non-Personally Identifiable Information with third parties (e.g. aggregate or demographic data).
 
-**COOKIES**
+###  **COOKIES**
 
-When you visit our Properties we may place “cookies” on your computer to recognize you.  We do this to enhance your experience on the Properties (such as storing your preferences), collect statistical data, and track how you use our Properties.
+When you visit our Site we may place “cookies” on your computer to recognize you.  We do this to enhance your experience on the Site (such as storing your preferences), collect statistical data, and track how you use our Site. For further information on how we use cookies and your rights related to them, please read our [Cookies Policy.](https://xtensio.com/cookies/)
 
-Cookies are widely used, and most web browsers are configured to accept them automatically. If you prefer not to accept cookies, please configure your browser settings accordingly, but note that in doing so you may be unable to experience certain features of the Properties.
+###  **DO NOT TRACK**
 
-Additionally, we may embed pixel tags on web pages, ads and emails in order to access cookies and track user activities (such as how many times a page was viewed). We may use pixel tags to measure the popularity of our features and services.
+Some browsers offer a “Do Not Track” feature, which notifies websites, web applications and services that you do not wish to have your online activities tracked. If you enable this setting in your browser, the functionality and experience of some features of the Site and the Service will be limited. For example, you may encounter problems saving the work you create on the Site.
 
-**MOBILE DEVICE ID**
+###  **YOUR RIGHTS REGARDING THE USE OF YOUR PERSONALLY IDENTIFIABLE INFORMATION**
 
-If you’re using our mobile or other software applications (“ **Applications** ”), we may use mobile device IDs (the unique identifier assigned to a device by the manufacturer), instead of cookies, to recognize you. We may do this to store your preferences and track your use of the Applications. Unlike cookies, device IDs cannot be deleted. Advertisers on our Properties may use device IDs to track your use of the Applications, track the number of ads displayed, measure ad performance and display ads that are more relevant to you. Analytics providers also may use device IDs to track information about usage of the Applications.
+At any time, you can correct, amend, delete or withdraw your consent for the continued collection, use or disclosure of your Personally Identifiable Information. You can do so in your account settings or by contacting us at this email address: [help@xtensio.com](mailto:help@xtensio.com). You may also ask us for a copy of the Personally Identifiable Information that we have collected from you. You have the right at any time to prevent us from contacting you for marketing purposes. When we send a newsletter or promotional communication to you, you can opt out of further communications by following the unsubscribe instructions provided in each e-mail.  Please note that notwithstanding the promotional preferences you indicate by either unsubscribing or opting out in the Settings section of the Site, we may continue to send you administrative emails including, for example, periodic updates to our Privacy Policy.
 
-**NEWSLETTERS**
+###  **DATA RETENTION**
 
-If you no longer wish to receive newsletters from us, you can click or tap the “unsubscribe” link in the newsletter to be removed from our subscription list.
+We will retain your Personally Identifiable Information and non-Personally Identifiable Information for as long as you retain an active account on our Site. In the event that you close your account, your Personally Identifiable Information and non-Personally Identifiable Information will be deleted from our records. Likewise, if your account is inactive for more than one year, we will automatically close your account and delete all Personally Identifiable Information and non-Personally Identifiable Information associated with it.
 
-**ACCESS**
+###  **CHOICE**
 
-You may correct, amend, or delete your Personally Identifiable Information by editing your profile on the Properties or emailing us at [help@xtensio.com](mailto:help@xtensio.com). 
+We will request your consent before you provide us with your Personally Identifiable Information, which includes the opportunity to “opt in” to receiving direct marketing or market research information.
 
-**SECURITY**
+###  **SECURITY**
 
-We are committed to protecting Personally Identifiable Information from loss, misuse, disclosure, alteration, unauthorized access, and destruction. Xtensio takes reasonable precautions to safeguard the confidentiality of Personally Identifiable Information. We protect the security of your Personally Identifiable Information during transmission to us by using Secure Sockets Layer (SSL) software, which encrypts the information you input.
+We implement reasonable precautions and follow industry best practices in order to protect your Personally Identifiable Information and ensure that such Personally Identifiable Information is not accessed, disclosed, altered or destroyed.  However, these measures do not guarantee that such information will not be accessed, disclosed, altered or destroyed by breach of such precautions. By using our Service, you acknowledge that you understand and agree to assume these risks.
 
-**THIRD PARTY SITES**
+###  **THIRD PARTY SITES**
 
-The Properties may contain links to other sites. Xtensio is not responsible for the privacy practices of such other sites. We encourage our users to be aware when leaving the Properties to read the privacy statements of each site that collects Personally Identifiable Information.
+The Site may contain links to other sites. Xtensio is not responsible for the privacy practices of such other sites. We encourage our users to be aware when leaving the Site to read the privacy statements of each site that collects Personally Identifiable Information.
 
-**THIRD PARTY RIGHTS**
+###  **THIRD PARTY RIGHTS**
 
-This Privacy Policy does not create rights enforceable by third parties or require disclosure of any personal information relating to users of our Properties.
+This Privacy Policy does not create rights enforceable by third parties or require disclosure of any personal information relating to users of our Site.
 
-**CHILDREN**
+###  **CHILDREN**
 
-Our Properties are not intended for use by children under the age of eighteen (18). We do not knowingly allow children under the age of eighteen (18) to register for any service, and we do not knowingly collect any Personally Identifiable Information from children under the age of eighteen (18).
+Our Site is not intended for use by children under the age of eighteen (18). We do not knowingly allow children under the age of eighteen (18) to register for any service, and we do not knowingly collect any Personally Identifiable Information from children under the age of eighteen (18).
 
-**INFORMATION COLLECTED FROM USERS OUTSIDE OF THE UNITED STATES**
+###  **INFORMATION COLLECTED FROM USERS OUTSIDE OF THE UNITED STATES**
 
-Our Properties are intended only for residents of the United States. If you’re outside the United States and visit our Properties, please be aware that your information will be sent to and stored on servers operated by United States-based companies. By using our Properties, you agree to the information collection, use, and sharing practices described in this Privacy Policy.
+Our Site is intended only for residents of the United States. If you’re outside the United States and visit our Site, please be aware that your information will be sent to and stored in the United States, where our servers are located. By using our Site, you agree to the information collection, use, and sharing practices described in this Privacy Policy.
 
-**YOUR CONSENT TO THIS PRIVACY POLICY**
+###  **YOUR CONSENT TO THIS PRIVACY POLICY**
 
-By using these Properties, you agree to this Privacy Policy. We may occasionally update this Privacy Policy. The date of the most recent update of this document will always be displayed at the beginning of this page. If we change our Privacy Policy, we will post those changes on [www.xtensio.com](http://www.classtivity.com/). If we decide to use Personally Identifiable Information in a manner different from that stated at the time it was collected, we will notify users via email (if an email address has been provided) or display a notice on [www.xtensio.com](http://www.classtivity.com/). We encourage you to periodically review this Privacy Policy to stay informed about how we are protecting the Personally Identifiable Information we collect. Your continued use of this Properties constitutes your agreement to this Privacy Policy and any updates that may follow.
+Xtensio reserves the right to change this Privacy Policy and our Terms of Use at any time. If we decide to change this Privacy Policy, we will post these changes on this page so that you are always aware of what information we collect, how we use it, and under what circumstances we disclose it. Any such modifications become effective upon your continued access to and/or use of the Service five (5) days after we first post the changes on the website or otherwise provide you with notice of such modifications. It is your sole responsibility to check this website from time to time to view any such changes to the terms of this Privacy Policy. If you do not agree to any changes, if and when such changes may be made to this Privacy Policy, you must cease access to this website. If you have provided your email address to us, you give us permission to email you for the purpose of notification as described in this Privacy Policy.
 
-**YOUR CALIFORNIA PRIVACY RIGHTS**
+###  **YOUR CALIFORNIA PRIVACY RIGHTS**
 
-If you are a resident of California, you have the right to request information from us once every calendar year regarding the manner in which we share certain categories of personal information with third parties for their direct marketing purposes. You may request a copy of the information disclosed by sending an email to:  [help@xtensio.com](mailto:help@xtensio.com). 
+If you are a resident of California, you have the right to request information from us once every calendar year regarding the manner in which we share certain categories of personal information with third parties for their direct marketing purposes. You may request a copy of the information disclosed by sending an email to help@xtensio.com
 
-**CONTACT**
+###  **CONTACT**
 
-If you have any questions, comments, or concerns about this Privacy Policy, please contact us at:
+If you have any questions regarding this Privacy Policy or the practices of this Site, please contact us here:
 
-2420 Laurel Pass  
-Los Angeles, CA 90046  
-[help@xtensio.com](mailto:help@xtensio.com)
+Xtensio Inc.  
+PO Box 93455  
+Los Angeles, CA 90093
+
+Email: help@xtensio.com
