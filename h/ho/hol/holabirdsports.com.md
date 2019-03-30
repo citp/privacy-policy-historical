@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the holabirdsports.com privacy policy that was archived on 2018-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180621132120id_/http%3A//www.holabirdsports.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the holabirdsports.com privacy policy that was archived on 2019-03-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190330195527id_/https%3A//www.holabirdsports.com/pages/privacy) for the most accurate reproduction.*
 
-# Privacy Policy | Holabird Sports
+# Privacy – Holabird Sports
 
 We care about your privacy and security and are 100% committed to protecting your personal information.
 
-This privacy policy applies to all visitors to our site, and any users/customers accessing our site within the U.S. and its territories. If our privacy practices change we will update this page. Please visit this page whenever you wish to see if the policy has been updated. 
+This privacy policy applies to all visitors to our site, and any users/customers accessing our site within the U.S. and its territories. If our privacy practices change we will update this page. Please visit this page whenever you wish to see if the policy has been updated.
 
 We always welcome your questions and feedback. For privacy-related questions, please call (866) 860-1416 or email [info@holabirdsports.com](mailto:info@holabirdsports.com).
 
@@ -43,7 +43,7 @@ We collect visitor information including the visitor’s domain name as well as 
 
 ### Third Party Providers
 
-We use third-party service providers to serve ads on our behalf across the Internet. We also use third-party service providers who utilize remarketing technology for advertising purposes. They may collect anonymous information about your visits to our website, and your interaction with our products and services. They may also use information about your visits to this and other web sites to target advertisements for goods and services. This anonymous information is collected through the use of pixel tags or cookies, which are industry standard technologies and used by most major web sites. No personally identifiable information is collected or used in this process.
+We use third-party service providers to serve ads on our behalf across the Internet. We also use third-party service providers who utilize re-marketing technology for advertising purposes. They may collect anonymous information about your visits to our website, and your interaction with our products and services. They may also use information about your visits to this and other web sites to target advertisements for goods and services. This anonymous information is collected through the use of pixel tags or cookies, which are industry standard technologies and used by most major web sites. No personally identifiable information is collected or used in this process.
 
 ### Aggregate Information
 
