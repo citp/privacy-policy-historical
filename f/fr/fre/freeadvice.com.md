@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the freeadvice.com privacy policy that was archived on 2018-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181224221345id_/https%3A//www.freeadvice.com/company/privacypolicy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freeadvice.com privacy policy that was archived on 2019-03-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190330211051id_/https%3A//www.freeadvice.com/company/privacypolicy.htm) for the most accurate reproduction.*
 
 # FreeAdvice.com's Privacy Policy
 
