@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the starmotorcycles.com privacy policy that was archived on 2018-08-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180817102229id_/https%3A//www.yamahamotorsports.com/motorsports/pages/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the starmotorcycles.com privacy policy that was archived on 2019-03-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190330182202id_/https%3A//www.yamahamotorsports.com/motorsports/pages/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
