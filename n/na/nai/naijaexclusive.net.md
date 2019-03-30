@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the naijaexclusive.net privacy policy that was archived on 2017-10-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171002054544id_/https%3A//naijaexclusive.net/privacy-policy-2) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the naijaexclusive.net privacy policy that was archived on 2019-03-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190330071320id_/https%3A//naijaexclusive.net/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
+
+[](https://newoctads.com/ynwwsfn0p7?key=44c6062874bed6c9f4dbc48008291687)
 
 ## Your Privacy Is Important to NaijaExclusive.
 
@@ -21,3 +23,5 @@ We will protect personal information by reasonable security safeguards against l
 We will make readily available to customers information about our policies and practices relating to the management of personal information.
 
 We are committed to conducting our business in accordance with these principles in order to ensure that the confidentiality of personal information is protected and maintained.
+
+[](https://newoctads.com/ynwwsfn0p7?key=44c6062874bed6c9f4dbc48008291687)
