@@ -1,81 +1,79 @@
-> *The following text is extracted and transformed from the autocarindia.com privacy policy that was archived on 2018-08-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180806121608id_/https%3A//www.autocarindia.com/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the autocarindia.com privacy policy that was archived on 2019-03-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190330121048id_/https%3A//www.autocarindia.com/Privacy.aspx) for the most accurate reproduction.*
 
 # 
 
-Thank you for visiting this site, a HSAC site. Your privacy is important to us. To better protect your privacy, we provide this notice explaining our information practices and the choices you can make about the way your information is collected and used by HSAC.
+This privacy policy has been compiled to serve users / subscribers who access or view the website at the domain name, [www.autocarindia.com](https://www.autocarindia.com/) (Website) that is owned and operated by Haymarket SAC Publishing (India) Private Limited (Haymarket). In this policy, use of the terms "we", "us" and "our" refers to Haymarket.
 
-The Information We Collect Through HSAC publications, websites, and other media, you can order products, enter contests, vote in polls or otherwise express an opinion, subscribe to one of our services such as our online newsletters, or participate in one of our online forums or communities. You are able to visit much of this website and enjoy many HSAC publications and promotions without providing any personally identifiable information. Sometimes, however, we do need your personally identifiable information to provide you with the products and services that you request. The types of personally identifiable information that may be collected at these pages and elsewhere include, but are not limited to: name, address, e-mail address, telephone number, fax number, credit card information, and information about your interests in and use of various products, programs, and services.
+We respect your privacy and we are committed to protecting your Personal Information. We maintain consistently high levels of best practice in our processing of your Information and comply with all applicable laws.
 
-At some HSAC sites and through certain promotions, you can submit information about other people. For example, you might submit a person's name and e-mail address to send an electronic greeting card and, if you order a gift online or offline and want it sent directly to the recipient, you might submit the recipient's name and address. The types of personally identifiable information that may be collected about other people at these pages include: recipient's name, address, e-mail address, and telephone number.
+This privacy policy governs the access, collection, usage, handling, storage and disclosure of your personal information during the course of your usage of the Website. It also describes the choices available to you regarding our use of your personal information and how you can access and update this information. This Policy is intended to assist you in making informed decisions about your Personal Information when using our website or the services provided by us or our group companies. Please take a few moments to read and understand the Policy.
 
-For certain promotions, only persons who provide us with the requested personally identifiable information will be able to order products, programs, and services or otherwise participate in the promotion's activities and offerings.
+Personal Information means any information that relates to a natural person, which, either directly or indirectly, in combination with other information available or likely to be available with a body corporate, is capable of identifying such person. This means that Personal Information can be used on its own or with other information to identify, contact, or locate a single person, or to identify an individual.
 
-We also may collect certain non-personally identifiable information when you visit many of our web pages such as the type of browser you are using, the type of operating system you are using, and the domain name of your Internet service provider.
+By accessing and using the Website and services, you accept the terms of, and be bound by this privacy policy; and consent to our collection, use, handling, storage and disclosure of your Personal Information as described in this privacy policy. This privacy policy may be updated from time to time and we will notify you of any changes to our privacy policy by posting the new privacy policy here. You are advised to consult this privacy policy regularly for any changes, as your continued access and use of the Website shall be deemed to be your approval and acceptance of all changes to this privacy policy.
 
-#### How We Use the Information
+In addition to this privacy policy, each service offered by us or our group companies may have additional privacy provisions that are specific to that particular service. These supplemental disclosures are made adjacent to the particular service at the time your Personal Information is collected. A list of our group companies can be seen at the end of this document.
 
-We may use the information you provide about yourself to fulfill your requests for our products, programs, and services, to respond to your inquiries about offerings, and to offer you other products, programs or services that we believe may be of interest to you.
+**What personal information do we collect and how we use it?**
 
-We sometimes use this information to communicate with you, such as to notify you when you have won one of our contests or when we make changes to subscriber agreements, to fulfill a request by you for an online newsletter, or to contact you about your account with us.
+  * Subscriber provided information - We collect and maintain the Personal Information that you voluntarily enter through the online form published on our Website, when you accept the terms of use of the Website, subscribe to a newsletter, magazine, enter a competition, participate in social networking activities, participate in surveys, contact us for help, or otherwise enter information on the Website before or during its use. When entering information on the Website, as appropriate, you may be asked to enter your name, demographic information, email address, mailing address, phone number, age, username, profile information on a social network (if you have signed up via a social network), or other details, for us to help you with your experience, to improve the Website, to contact you and respond to your information requests. We use this as appropriate for our business purposes, including administering your account (if any), registering and providing you access to the Website, responding to your queries, fulfilling your relevant requests, share relevant advertisements, to run competitions, contact you for future editions of conferences and symposiums, deliver services and other related and ancillary purposes. If you would like us to amend, delete this Personal Information provided by you or want us to provide you a copy of your Personal Information available with us, you may write to us at [hsac.cpo@haymarketsac.in](mailto:hsac.cpo@haymarketsac.in). You may also choose not to provide us with your Personal Information.
+  * Other Information – We may also collect certain other information, such as device ID, device make/model, IP address, geographical location (when enabled), browser type, operating system, page views, website navigation, timing and frequency of use of the Website, marketing preferences, name of your wireless carrier, other data relating to malfunctions when you use the Website. We use this information purely for analytics and research purposes and to ensure the security of our website.
+  * Cookies - Cookies are small files transferred to the hard drive of your device (if you allow) that enable us to recognize your browser and capture and remember certain information. They are also used to help us understand your preferences based on previous or current activity on the Website, which allows us to improve the Content on the Website. We also use cookies to help us compile aggregate and anonymized data about the traffic on the Website so that we can offer better experiences and tools in the future. We may also use trusted third-party services that track this information on our behalf. Advertisers or other third parties using our website may also use cookies and other technologies for understanding user preferences. We do not control these advertisers or other parties' use of cookies or other technologies or what they do with the Personal Information they collect. You can limit the way that we tailor advertising based on your Personal Information by objecting to the cookies that we or third parties wish to place on your browser or deleting the cookies that we or third parties have placed on your browser.
+  * Information received from third parties - We may also combine online and/or offline information received from third parties (including other members of our group of companies) with your Personal Information. Such Personal Information received from third parties is used for a variety of purposes including to verify other Personal Information about you (e.g., verify your mailing address to send you requested products or services) and to enhance the content and relevance of the advertising we provide to you.
 
-We use the information that you provide about others to enable us to send them your gifts or cards. From time to time, we also may use this information to offer our products, programs, or services to them.
 
-If you choose to submit content for publication (e.g., a "letter to our editors"), we may publish your name, screen name, and other information you have provided to us.
 
-The information we collect in connection with our online forums and communities is used to provide an interactive experience. We use this information to facilitate participation in these online forums and communities and, from time to time, to offer you products, programs, or services.
+**Marketing and Promotions**
 
-We sometimes use the non-personally identifiable information that we collect to improve the design and content of our publications and websites and to enable us to personalize your Internet experience. We also may use this information in the aggregate to analyze site usage, as well as to offer you products, programs, or services.
+  * We may send you marketing and promotional materials and information about our other products or services offered by Haymarket SAC Publishing (India) Private Limited and our group companies, where you have provided us with the appropriate consents.
+  * Some or all of the Personal Information collected during a promotion, contest or poll may be disclosed publicly. It may also be shared with other third parties as disclosed and consented to by you at the time of collection or in the rules of such promotions, polls or contests. These third parties may include providers of prizes in order to update you of your status of your prize or other fulfilment needs or a co-sponsor who may use your Information to administer the promotional activity or for their marketing purposes, but only in conformance with your consent, or with the terms published at the time your personal data is collected. We are not responsible for the privacy policy or practices of third parties.
 
-We will disclose information we maintain when required to do so by law, for example, in response to a court order or a subpoena. We also may disclose such information in response to a law enforcement agency's request.
 
-Agents and contractors of HSAC who have access to personally identifiable information are required to protect this information in a manner that is consistent with this Privacy Notice by, for example, not using the information for any purpose other than to carry out the services they are performing for HSAC
 
-We may transfer your personally identifiable information to other HSAC offices for internal management and administrative purposes. Your personal data will be transferred to other HSAC offices where necessary for the performance or conclusion of our contractual obligations to you or for your benefit. Transfers of personally identifiable information may also be made where necessary for the establishment, exercise, or defense of legal claims.
+**Children**
 
-Although we take appropriate measures to safeguard against unauthorized disclosures of information, we cannot assure you that personally identifiable information that we collect will never be disclosed in a manner that is inconsistent with this Privacy Notice. Inadvertent disclosures may result, for example, when third parties misrepresent their identities in asking the site for access to personally identifiable information about themselves for purposes of correcting possible factual errors in the data.
+Children under 16 - The Website is not designed for children; and we do not knowingly market to children. Parents and guardians are advised to supervise children while they are online. A parent or guardian may submit a request to [hsac.cpo@haymarketsac.in](mailto:hsac.cpo@haymarketsac.in) to stop any further use of the Personal Information received from a child or to request that we suppress such Personal Information, to the best of our ability. Before disclosing Personal Information about a child, we may request that the parent or guardian provide reasonable Information for identification purposes.
 
-#### Privacy Options
+**Retention of your Personal Information**
 
-If a HSAC site discloses personally identifiable information to companies not owned by HSAC who want to market products or services to you, it will provide you with an opportunity to opt out or block such uses.
+  * Your personal information shall not be retained for longer than is necessary for the purposes for which we collect them, unless otherwise required for the purposes of fulfilling any legal obligation. During this period, as a user, you may also request us to delete this personal information. If you do not wish to share you personal information, please do not access or view our Website, as some of the personal information is collected automatically upon your visit to the Website.
+  * You may instruct us not to process your Personal Information for marketing or other purposes and delete your information, if required. You may do so by writing to us at [hsac.cpo@haymarketsac.in](mailto:hsac.cpo@haymarketsac.in). 
+  * You also have right to request us to update, amend, correct, complete or delete your Personal Information retained by us through email.
 
-HSAC may on occasion combine information we receive online with outside records to enhance our ability to market to you those products or services that may be of interest to you.
 
-HSAC sites will not use or transfer personally identifiable information provided to us in ways unrelated to the ones described above without also providing you with an opportunity to opt out of these unrelated uses.
 
-#### Collection of Information by Third-Party Sites and Sponsors
+**How do we protect your information**
 
-Some of our sites contain links to other sites whose information practices may be different than ours. You should consult the other sites' privacy notices, as we have no control over information that is submitted to, or collected by, these third parties.
+  * We take the safety of your Personal Information and its confidentiality very seriously and we provide reasonable security safeguards commensurate to the sensitivity of the personal information being handled and have implemented security practices including but not limited to physical, electronic, and procedural safeguards to protect your information. We implement a variety of security measures when a user enters, submits, or accesses their information to maintain the safety of your Personal Information.
+  * The Website is scanned on a regular basis for any known vulnerabilities in order to make your use as safe as possible.
+  * Your Personal Information is contained behind secured networks and is only accessible by a limited number of persons who have special access rights to such systems, and are required to keep the information confidential.
+  * Please be aware that, although we endeavor to provide reasonable security for your Personal Information, no security system can prevent all potential security breaches.
+  * We endeavor to ensure to the best of our ability that all third party service providers whose services which we may use, maintain security standards that are equivalent to our security standards and commensurate with market practices, in the context of the sensitivity of your sensitive personal data or information being stored or handled.
 
-HSAC sites sometimes may offer contests, sweepstakes, promotions, editorial features, or other activities or offerings that are sponsored or co-sponsored by or presented with identified third parties. By virtue of your participation in such activities or offerings, the personally identifiable information that you voluntarily submit may be provided to both the HSAC site and the third parties. HSAC has no control over the third parties' use of this information.
 
-HSAC sites may use reputable third parties to present or serve the advertisements that you may see at its web pages and to conduct research about the advertisements. This privacy notice does not cover any use of information that such third parties may have collected from you or the methods used by the third-parties to collect that information (e.g., cookies, web beacons and clear gifs).
 
-#### Cookies
+**Disclosures to third parties**
 
-To enhance your online experience we use "cookies." Cookies are text files we place in your computer's browser to store your preferences. Cookies, by themselves, do not tell us your e-mail address or other personally identifiable information unless you choose to provide this information to us by, for example, registering at one of our sites. However, once you choose to furnish the site with personally identifiable information, this information may be linked to the data stored in the cookie.
+  * We do not sell, trade, publish or otherwise transfer your Personal Information to outside parties, unless we provide you with advance notice and obtain your prior consent to do so.
+  * This does not include our trusted service providers or group companies, including without limitation, our hosting partners, third party vendors (payment wallets, web designers etc.) and other parties who assist us in operating the Website, conducting our business, or serving our users so long as they agree to keep this information confidential, do not have any independent use of the information we disclose to them, and remain responsible for the protection of your Personal Information. You hereby give us your consent to transfer your Personal Information to such third parties as listed here.
+  * Your Personal Information collected by us may be transferred to, stored and processed outside India; and may be accessed and processed by our group companies. By submitting Information to us, you agree to this transfer, storing or processing. We will take all reasonable steps necessary to ensure that your Personal Information is treated securely in accordance with this privacy policy.
+  * In addition, where you have provided us with the appropriate consents, we may also disclose your Personal Information for marketing purposes or host messages on behalf of one or more of our group companies or other selected trusted third parties in the following sectors where the Personal Information they provide will be relevant or of interest to you: Professional Associations, Automotive, Charity, Education and Training, Recruitment, Business and Leisure Travel, Events, Conferences and Exhibitions, Financial Services, Surveys and Research, Media, Broadcast and Marketing, Publishing and Subscriptions, Business and Information Services, Electronics, computers, Software and AV, Sports and Sportswear, Gaming, Betting, Telecoms and Retail and Partners and Sponsors of Promotions, Events and Competitions.
+  * We may also release certain limited information when its release is required to comply with the law, enforce our policies, or protect ours or others' rights, property or safety, investigate fraud or respond to a government request.
+  * We may, however, disclose aggregated user statistics or other information that is incapable of identifying any individual subscriber in order to describe, market or advertise our Website and Content to current and prospective business partners and to other third parties for other lawful purposes.
 
-We use cookies to understand Internet usage and to improve our content, offerings, and advertisements. For example, we may use cookies to personalize your experience at our web pages (e.g. to recognize you by name when you return to our site), save your password in password-protected areas, and enable you to use shopping carts on our sites. We also may use cookies to offer you products, programs, or services. Similarly, as part of an arrangement with our business partners (including, those who present or serve the advertisements that you see on our web pages) we may also access cookies placed by others and allow others to access certain cookies placed by us.
 
-We may also use small pieces of code called "web beacons" or "clear gifs" to collect anonymous and aggregate advertising metrics, such as counting page views, promotion views, or advertising responses. These "web beacons" may be used to deliver cookies that conform to our cookie policy.
 
-#### Our Commitment to Security
+**Links to other websites**
 
-We have put in place appropriate physical, electronic, and managerial procedures to safeguard and help prevent unauthorized access, maintain data security, and correctly use the information we collect.
+The Website may include links to other websites whose privacy practices may differ from ours. If you submit your personal information to any of those sites, your information will be governed by their privacy statements. We encourage you to read the privacy statement of any website you visit as we do not monitor, control, or endorse the privacy practices of any third parties.
 
-To protect your privacy and security, we will take reasonable steps to help verify your identity before granting access or making corrections.
+**Who is the Grievance Officer?**
 
-#### Changes to this Notice
+If you wish to report a security breach, have a problem that you are unable to resolve or otherwise require any other assistance in respect of the Website and this privacy policy, you may contact our Grievance Officer whose details are provided below:
 
-This Notice may be changed by HSAC. The revised Notice will be posted to this page so that you are aware of the information we collect, how we use it, and under what circumstances we may disclose it.
+**Name** : Hital Vyas  
+**E-mail** : [hsac.cpo@haymarketsac.in](mailto:hsac.cpo@haymarketsac.in)  
+**Address** : Unit No. 401, 502 & 503, 4th/5th Floor, Raheja Xion, Opp. Nirmal Park, Dr. B. Ambedkar Marg, Byculla (E), Mumbai - 400027.  
+**Telephone** : 022-23787511 
 
-#### How to Contact Us
-
-If you have any questions or concerns about the HSAC Privacy Notice or its implementation please contact us via email or at the following address:
-
-**Mumbai**  
-Haymarket SAC Publishing (India) Pvt Ltd  
-Ground floor, Podar Centre, 85, Parel Post Office Lane,  
-Off Dr. Ambedkar Marg,  
-Parel (East), Mumbai 400 012.  
-Tel: 022-4302 1000  
-Fax: 022-4302 1050 
+Haymarket is committed to the privacy, safety and security of our customers. If you discover a potential security vulnerability, we would appreciate it if you could report it to us in a responsible manner. We will respond to you as soon as possible. Publicly disclosing a potential vulnerability could put the wider community at risk, and therefore we encourage you to come to us first. We'll keep you informed as we move forward with our investigations.
