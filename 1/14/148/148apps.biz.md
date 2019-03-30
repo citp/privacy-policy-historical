@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 148apps.biz privacy policy that was archived on 2018-09-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180924224044id_/https%3A//www.pocketgamer.biz/pages/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 148apps.biz privacy policy that was archived on 2019-03-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190330214552id_/https%3A//www.pocketgamer.biz/pages/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Pocket Gamer.biz | PGbiz
 
