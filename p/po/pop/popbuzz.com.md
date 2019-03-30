@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the popbuzz.com privacy policy that was archived on 2018-11-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181116032542id_/https%3A//www.popbuzz.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the popbuzz.com privacy policy that was archived on 2019-03-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190330134809id_/https%3A//www.popbuzz.com/privacy-policy) for the most accurate reproduction.*
 
 # Global Privacy Statement - PopBuzz
 
@@ -51,8 +51,6 @@ We use your personal information:
 
 
 If you would like more information regarding OBA and how to opt out, please visit <http://www.youronlinechoices.com/uk/>
-
-By opting out of personalised advertising, you will still see adverts, but they will not be tailored to your interests. You can change your preferences by clicking here.
 
 We will use your data either because you have consented for us to do so or because we have a legitimate interest in processing your information, as follows:
 
