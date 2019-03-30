@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sonlet.com privacy policy that was archived on 2018-08-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180817213649id_/https%3A//sonlet.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sonlet.com privacy policy that was archived on 2019-03-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190331002150id_/https%3A//sonlet.com/privacy) for the most accurate reproduction.*
 
 # Sonlet | Privacy
 
