@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sojo.net privacy policy that was archived on 2018-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181205205931id_/https%3A//sojo.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sojo.net privacy policy that was archived on 2019-03-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190330154125id_/https%3A//sojo.net/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Sojourners
 
