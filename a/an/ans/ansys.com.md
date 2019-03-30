@@ -1,205 +1,178 @@
-> *The following text is extracted and transformed from the ansys.com privacy policy that was archived on 2018-01-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180114134237id_/https%3A//www.ansys.com/footer/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ansys.com privacy policy that was archived on 2019-03-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190330234747id_/https%3A//www.ansys.com/footer/privacy-notice) for the most accurate reproduction.*
 
 # Privacy Policy | ANSYS
 
-This Privacy Policy covers the following:
+**Last updated 30 April 2018**
 
-Who are we?  
-What information do we collect?  
-How do we use your information?  
-Who may use your information?  
-Third party links and services  
-How do we protect your information?  
-Where is your information processed?  
-What are cookies, web beacons and clear GIFs and why do we use them?  
-Marketing communications  
-Applying for a job online  
-How long do we keep your information?  
-Access to your information and updating and correcting your information  
-How do you contact us?
+ANSYS takes protection of your Personal Data seriously. This Privacy Notice applies to all Personal Data we collect about you, including information collected on www.ansys.com and any other websites (including mobile access) and information you provide us through your purchase, download, or use of ANSYS applications, services, or products, or when you request information related to ANSYS services and products, all of which are referred to collectively as the "Services." This Privacy Notice explains how we collect, use, and share your Personal Data and what rights you can exercise related to the data we process as part of the Services. To the extent that specific sites, applications, products or services outline additional terms related to data collected by that site, application, product or service (such as recruitment sites where you choose to submit an application for employment with ANSYS), those additional terms shall govern collection and use of your Personal Data for the purposes outlined therein.
 
-This Privacy Policy applies to all of the personal data we collect about you, including information collected on www.ansys.com and any other websites (including mobile access) where this policy is linked to, all of which are referred to as the “Site” in this policy.
+By using the Services, you accept the practices described in this Privacy Notice. This Privacy Notice was last updated on the date listed at the top of the page and applies from that date.
 
-By providing information to us, you expressly agree to this Privacy Policy. This Privacy Policy was last updated on 31st July 2015 and applies from that date.
-
-We may occasionally amend this Privacy Policy. Any new policy will automatically be effective when it is published on the website. You should therefore return here regularly to view our most up to date Privacy Policy. You should also print a copy for your records.
+We may occasionally amend this Privacy Notice and any changes will automatically be effective when published on www.ansys.com. It is your responsibility to periodically review this Privacy Notice to ensure you understand these terms. You may retain a copy of this Privacy Notice for your records and any questions or concerns should be addressed as outlined below.
 
 We do not knowingly collect or process data from anyone under the age of thirteen (13) years old.
 
-Top 
+**Who are we?**
 
-## Who are we?
+ANSYS, Inc. ("ANSYS") is incorporated in Delaware, USA. We refer to ANSYS, Inc., together with its group companies, as "we," "us," or "our" in this Privacy Notice.
 
-The Site is owned and operated by ANSYS, Inc. ANSYS, Inc. is incorporated in Delaware, USA. We refer to ANSYS, Inc., together with its group companies, as “we”, “us” or “our” in this Privacy Policy.
+You can find details about each of our group companies by visiting [Contacts and Locations.](http://www.ansys.com/contacts)
 
-You can find details of all of our group companies by visiting [Contacts and Locations](https://web.archive.org/en-in/about-ansys/contacts-and-locations).
+**What information do we collect?**
 
-Top
+For the purposes of this Privacy Notice, "Personal Data" means information that, either separately or together with other identifying information, can identify you. To the extent that applicable data protection laws require special treatment of specific types of personally identifiable information, ANSYS shall take such measures as are necessary for compliance with these laws.
 
-## What information do we collect?
+Most of the information we collect is information provided directly by you when you register for or use the Services. This information may include:
 
-Most of the information we collect is information provided directly by you. This may include:
+  * contact information – full name, job title or function, company name, department, email address, physical mailing address and country, telephone number, user name
+  * professional information – job description and related information, such as job function or the position to which a job function reports within the company; company details, like size or number of employees; professional or trade publications to which you subscribe and related trainings attended
+  * account registration data- to register for an ANSYS User Account, which is required of certain products and services, we will collect your contact information (including a unique username), certain professional information, and a unique password, which may be paired with an activation code specific to the license(s) you've purchased
+  * transaction information – your contact information; the types of products that interest you; your purchasing requirements; billing information associated with a purchase (excluding any payment card data)
+  * license fulfillment and verification information – for certain products and services, we may collect and pair a device ID together with your ANSYS User Account or registered email address in order to manage active licenses assigned to your account; license verification may require us to compare this device ID and account data against active licenses using an internet connection to your device, both at activation and as part of a regular refresh function for subscription-based licenses (more details can be found in the license terms and product descriptions for individual products and services)
+  * information related to providing support for our products- when you contact us for support related to the Services, you may provide us your contact information, device or product IDs, and logs of your use of the licensed product (which may include IP address and/or other device identifiers, location data, and usage data pertaining to when and how you use the product)
+  * data analytics – when you use our products, certain deidentified analytics data, such as feature usage, license usage information, and error information, may be communicated back to us for product improvement purposes; for some products, you will need to expressly opt-in to collection of analytics data in order to receive additional offerings, such as insights into your usage of licensed products and to assist with troubleshooting for customer support
+  * responses to surveys – information you provide in responding to a survey on the website, via an app or email, on the telephone or otherwise; testimonials or other feedback related to the Services, which may be paired with your name, title, and company name where you provide express consent; comments or posts you publish on ANSYS forums or linked to your ANSYS User Account
 
-  * contact information – information such as name, job title, company name, department, email address, physical mailing address, telephone number, nationality, visa information, gender, date of birth and passport data;
-  * professional information – such as your employment background, job description and related information;
-  * transaction information – your contact information, the products you are interested in, your purchasing requirements, your financial information including credit card or other payment information;
-  * license verification information – when you use our products, we may verify that both the product and your use of it are appropriately licensed, using third party providers and tools. We may share your data with our third party providers to support that.  Data regarding unlicensed use and users may be collected and processed by us. If we believe that use of our software is unlicensed we may also share that data with other software companies, organizations set up to counter software theft and law enforcement;
-  * data analytics – when you use our products, you may be invited to activate data analytics which will send usage data back to us, including feature usage, license usage information and error information;
-  * responses to surveys – information you provide in responding to a survey on the website, via an app or email, on the telephone or otherwise.
 
 
+We may also collect and use information obtained through your use of the Services or from the device you use to access the Services, including:
 
-We may also collect and process information obtained through the Site or the device you are using, including:
+  * location information- GPS signals sent by a mobile device (where enabled); location information gathered from social media networks, sensor or IP address data from your device; country from which a request is received
+  * information from cookies, web beacons or from the internet, including your IP address, browser type, operating system, domain name, access times, which pages you visit within our websites and referring website addresses, how you use our websites (including the types of products and events that interest you and articles you download); you can find out more about how we use cookies by consulting our full [Cookies Policy](https://web.archive.org/footer/cookie-policy).
+  * device identifiers, such as IP address, that, when linked to your username or registered email address, will enable us to ensure compliance with the licenses purchased under a subscription model for certain ANSYS products
+  * if you ask us to connect with other sites (such as social media sites, like Facebook, WeChat, or Twitter) we may receive information about you that way too, as determined by the settings and data sharing policies of those sites
+  * recordings of any telephone calls for quality assurance and training purposes
+  * data regarding any unlicensed use of our software and services
+  * use of third-party marketing services to send and track receipt of communications to our customers generally, and to analyze the pattern of those communications for trust and security purposes, as well as to gather data, such as inquiry data, to assist us in better understanding our customers' interests
 
-  * location information (including GPS signals sent by a mobile device, location information gathered from social media networks or sensor or IP address data from your device);
-  * information from cookies, web beacons or from the internet, including your IP address, browser type, operating system, domain name, access times, which pages you visit within our website and referring website addresses. You can find out more about how we do that in the relevant section of this policy below and in our Cookies Policy;
-  * if you ask us to connect with other sites (for example if you ask us to connect with your Facebook account) we may get information that way too;
-  * we may record any telephone calls for quality assurance and training purposes;
-  * using third party e-mail servers to send and track receipt of communications, and analyze the pattern of those communications for trust and security purposes as well as to gather data, such as enquiry data, to assist us in better understanding our business.
 
 
+Finally, we may use publicly accessible information to verify any information you provide or which we otherwise collect, as outlined in this Privacy Notice, in order to manage and expand our business. 
 
-Finally, we may use publicly accessible information to verify information we are provided with and to manage and expand our business.
+**How do we use your information?**
 
-Top
+Our primary purpose in the collection and use of your Personal Data is to provide you with the Services you request and for those purposes which we believe will help you optimize your use of the Services. In most cases, the lawful grounds for use of your Personal Data by ANSYS will be that use: (i) is necessary for our legitimate interests in carrying out our business, including to grow and improve our Services, provided those interests are not outweighed by your rights and interests (''Legitimate Interests''), (ii) is necessary to perform a contract with you ("Contract"), or (iii) is based on your consent ("Consent"). In specific instances, we may also have a legal obligation to use your Personal Data ("Legal Obligation"). Where use of your Personal Data is based on your Consent, we will identify the purposes of processing such data and provide you with relevant information to make the processing fair and transparent. 
 
-## How do we use your information?
+Uses of Personal Data, as outlined in this Privacy Notice, are as outlined below and can be attributed to the following lawful grounds for processing by ANSYS:
 
-We use information collected about you as outlined in this Privacy Policy.
+_In order to carry out Legitimate Interests of the business_
 
-Our primary purpose in collecting your personal data is to provide you with the services you requested and those which we believe will optimize your use of the Site. We may use your personal data for the following purposes:
+  * to identify you for the purposes of ensuring compliance with the terms of our license agreements for products and services you purchase from us
+  * to send messages that are related or useful to the Services we provide you
+  * to provide personalized, targeted, or location-based content, services, and advertising from us and third parties, subject to any opt-in consents that are provided to you pursuant to applicable law
+  * to promote our Services, or the services of our partners, including through the use of email and social media platforms
+  * to compare your information for accuracy, and verify it with third parties as needed (such as for export compliance purposes)
+  * to enforce our Privacy Notice, policies, terms of use, license agreements and other provisions related to the Services
+  * to carry out research, including market research, statistical research on site traffic, and sales and other commercial information to assist us in improving the Services we provide you and to tailor our sites
 
-  * to provide the information, services or support you request and related after-sales services;
-  * to identify you, and to contact you from time to time with product or service updates;
-  * to send other messages that are useful to the service we provide;
-  * to manage our relationship with you and to carry out any related administration;
-  * to provide personalized, targeted, or location-based content, services, and advertising from us and third parties;
-  * to promote our services, or the services of our partners, including via email and social media platforms;
-  * to compare information for accuracy, and verify it with third parties;
-  * to detect, investigate and prevent activity we think may be potentially illegal, unlawful or harmful and to enforce our Privacy Policy and/or our Terms or any other purpose referenced herein or therein.
-  * to carry out research, including market research, statistical research on site traffic, sales and other commercial information to assist us in improving the services we provide to you and tailor the Site.
-  * to evaluate your application to work with us.
 
 
+_In order to perform a Contract_
 
-Top
+  * to provide the information, Services or support you request and related after-sales services
+  * to identify you and to contact you with product or service updates or training or support options related to products and services you've purchased
+  * to manage our relationship with you and to carry out any related administration
 
-## Who may use your information?
 
-We may disclose your personal data to enforce our policies, to comply with our legal obligations or in the interests of security, public interest or law enforcement in any country where we have entities or affiliates. For example, we may respond to a request by a law enforcement agency or regulatory or governmental authority. We may also disclose data in connection with actual or proposed litigation, or to protect our property, security, people and other rights or interests.
 
-We share your information with third parties who help deliver our products and services to you. Examples include hosting our web servers, analyzing data, providing marketing assistance, and providing customer service. These companies will have access to your personal information as necessary to perform their functions, but they may not use that data for any other purpose.
+_To fulfill a Legal Obligation_
 
-We may also share your personal data:
+  * to identify you for the purposes of ensuring export compliance
+  * to detect, investigate and prevent activity we think may be potentially illegal, unlawful or harmful
+  * to identify you and verify that both the product and your use of it are appropriately licensed; if we believe that use of our software is unlicensed, we may also share that data with other software companies and organizations set up to counter software theft, as well as with law enforcement
 
-  * with companies in our group and/or our affiliates; or
-  * with resellers, distributors and/or channel partners; or
-  * with any third party you have asked us to share your personal data with – such as Facebook or any other social media site if you have asked us to connect with your account.
 
 
+**With whom do we share your information and for what purposes?**
 
-You may have accessed our website through a hyperlink from the website of one of our trading partners. If so, you consent to your personal details and purchase information, including behavioral patterns, being shared with that trading partner in accordance with our contractual relationship with them.
+_Legal Obligation:_
 
-If we or any part of our group is sold, or some of its assets transferred to a third party, your personal information, as a valuable asset, may also be transferred to the acquirer, even if they are not in the same line of business as us. Our customer database could be sold separately from the rest of the business, in whole or in a number of parts. Potential purchasers and their advisors may have limited access to data as part of the sale process. However, use of your personal information will remain subject to this Privacy Policy.
+We may disclose your Personal Data to enforce our policies, to comply with our legal obligations or in the interests of security, public interest or in response to requests by law enforcement, regulatory or government authorities in any country where we have entities or affiliates. We may also disclose certain Personal Data in connection with actual or proposed litigation, or to protect our property, security, people and other legitimate rights or interests as allowed by law.
 
-Similarly, your personal information may be passed on to a successor in interest in the unlikely event of a liquidation, bankruptcy or administration.
+_Delivery of the Services:_
 
-Please remember that when you share information publicly on the Site, for example a comment on a blog post, it may be indexable by search engines, including Google, which may mean that the information is made public.
+We share your information, which may include Personal Data, with third parties who help deliver our products and services to you. Examples of third-party services we use include hosting of our web servers, data analysis about how our products are used, delivery and monitoring of marketing initiatives, and providing customer support services. In some instances, you may provide Personal Data directly to a third party that provides a service on behalf of ANSYS, such as where you provide payment card information to our e-Commerce service provider to purchase ANSYS products online. Where you provide Personal Data directly to one of our third-party service providers, the privacy policy and terms of use for that provider will be made available to you and will apply to the transaction. All ANSYS third-party service providers will only collect or have access to your Personal Data as needed to perform the service and may not use your data for any other purpose.
 
-Top
+_For use by partners:_
 
-## Third party links and services
+We may share your Personal Data:
 
-The Site may contain links to third parties’ websites. We are not responsible for the privacy practices or the content of those websites. Therefore, please read carefully any privacy policies on those links or websites before either agreeing to their terms or using those websites.
+  * with companies in our group and/or our affiliates;
+  * with resellers, distributors and/or channel partners for our products; or
+  * with a third-party at your request– such as when you ask that we connect your ANSYS User Account with Facebook or other social media sites.
 
-We may also use Google Analytics to gather statistics on site usage. This may involve the use of cookies. There are more details in our Cookies Policy and in Google’s own privacy policy. Google may aggregate data they collect from their various services including Google Analytics, Google Translate, Google Maps and YouTube. You acknowledge and accept that we have no control over Google’s data collection. You should look at Google’s privacy policy for details of their data collection practices.
 
-If you have asked us to share data with third party sites (such as social media sites), their servers may not be secure.  
-Note that, despite the measures taken by us and the third parties we engage, the internet is not secure. As a result others may nevertheless unlawfully intercept or access private transmissions or data.
 
-Top
+You may access an ANSYS site or portal through a hyperlink from the website or advertisement of one of our trading partners. If so, certain Personal Data, such as general purchase information and details about how you use our site, may be shared with this trading partner to analyze and improve delivery of services and marketing initiatives.
 
-## How do we protect your information?
+We may use Google Analytics on our sites to gather statistics on site usage. This may involve the use of cookies, as outlined further by our Cookies Policy and Google's privacy policy. Google may aggregate data it collects from these services together with data collected across other sites and services, including Google Analytics, Google Translate, Google Maps and YouTube. Please read Google's privacy policy and account settings with respect to data collected and used by Google across its services.
 
-We take what we consider to be appropriate technical and organizational measures to guard against unauthorized or unlawful processing of your personal data and against accidental loss or destruction of, or damage to, your personal data. While no system is completely secure, we believe the measures implemented by the Site reduce our vulnerability to security problems to a level appropriate to the type of data involved. We have security measures in place to protect our user database and access to this database is restricted internally. However, it remains your responsibility:
+_During an acquisition:_
 
-  * where you have a user account for the Site: 
-    * to log off or exit from Site when not using it;
-    * to ensure no-one else uses the Site while your device is logged on to the Site (including by logging on to your device through a mobile, Wi-Fi or shared access connection you are using);
-    * to keep your password or other access information secret. Your password and log in details are personal to you and should not be given to anyone else or used to provide shared access for example over a network. You should use a password which is unique to your use of the Site – do not use the same password as you use for another site or email account; and
-  * to maintain good internet security. For example if your email account or Facebook account is compromised this could allow access to your account with us if you have given us those details and/or permitted access through those accounts. If your email account is compromised it could be used to ask us to reset a password and gain access to your account with us. You should keep all of your account details secure. If you think that any of your accounts has been compromised you should change your account credentials with us, and in particular make sure any compromised account does not allow access to your account with us. You should also tell us as soon as you can so that we can try to help you keep your account secure and if necessary warn anyone else who could be affected.
+If we or any part of our group is sold, or some of our assets transferred to a third party, your Personal Data, as a valuable asset, may also be transferred to such third party. Our customer database could be sold separately from the rest of the business, in whole or in part. Potential purchasers and their advisors may have limited access to ANSYS company data that includes Personal Data as part of the sale process. However, use of your Personal Data will remain subject to this Privacy Notice. Similarly, your Personal Data may be shared with a successor in interest in the unlikely event of a liquidation or bankruptcy proceedings.
 
+**Third-party links**
 
+ANSYS sites may contain links or references to third parties' websites. We are not responsible for the privacy practices or content of third-party sites and services, even where we provide links or references for your convenience. Please read the policies and terms of use for any third party before using the site or services.
 
-Top
+The servers used by third-party sites, including social media sites, may not be secure. Despite reasonable security measures taken by ANSYS and its partners and third-party service providers, use of the internet is not secure and unlawful or unauthorized access to private transmissions or data is possible.
 
-## Where is your information processed?
+**How do we protect your information?**
 
-Your data may be processed and stored on our or third party providers’ computers in the United States or other countries where we or our services providers have a presence.
+In considering the types of data we collect and the data activities we undertake in delivering products and services, we have implemented reasonable and appropriate technical and organizational measures to guard against unauthorized or unlawful access to your Personal Data. While no system is completely secure, we believe the measures implemented by ANSYS in delivery of the Services reduce our potential vulnerability to a level appropriate to the types of data processed.
 
-ANSYS complies with the U.S.-EU Safe Harbor Framework and the U.S.-Swiss Safe Harbor Framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal information from European Union member countries and Switzerland. ANSYS has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. To learn more about the Safe Harbor program, and to view ANSYS’ certification, please visit: <http://export.gov/safeharbor/>.
+In addition to the security measures we have put in place to protect our user database, it remains your responsibility to protect your Personal Data by taking the following steps:
 
-Your information may also be processed in other countries which may not have similar data protection laws to those that apply in your country. However, if we transfer your personal data outside your country we will take steps to ensure that your privacy rights continue to be protected in compliance with applicable data protection law and this Privacy Policy.
+  * where you have established an ANSYS User Account, protect your unique password and username and do not use the same access credentials for other sites and services;
+  * ensure that you log out of your ANSYS User Account when not using it;
+  * do not use unknown or unsecured Wi-Fi or shared access connections to enter or transmit Personal Data, including passwords and other access credentials; 
+  * maintain good internet security, such as by promptly notifying us if you believe your ANSYS User Account or any accounts you've linked to your ANSYS User Account have been compromised; and
+  * as with most information shared on the internet, please remember that information you share on the Site, such as by commenting on a blog post, may be indexable by search engines, including Google, which may mean that the information is made public. Do not post confidential or sensitive data while using ANSYS sites or any of our Services.
 
-Top
 
-## What are cookies, web beacons and clear GIFs and why do we use them?
 
-A "cookie" is a small file placed on your hard drive by some of our web pages. We or third parties under contract with us may use cookies to help us analyze our web page flow, customize our services, content and advertising, measure promotional effectiveness and promote trust and safety. Cookies are commonly used at most major transactional websites in much the same way we use them here at our Site. 
+**Where is your information processed?**
 
-Even if you are only browsing the Site certain information (including computer and connection information, browser type and version, operating system and platform details and the time of accessing the Site) is automatically collected about you. This information will be collected every time you access the Site and it will be used for the purposes outlined in this Privacy Policy.
+Your Personal Data may be processed and stored on our servers or on the servers of our third-party service providers, in the United States or other countries where we or our service providers do business. This means that when we collect your Personal Data, we may transfer and process this data in any of these countries, including countries other than the country in which you reside. While your Personal Data may be transferred to countries with data protection laws that differ from those that apply in your country, and in some cases may be less protective, we will take steps to ensure that your Personal Data is protected in compliance with applicable data protection law and this Privacy Notice. We have implemented appropriate safeguards, including contractual obligations as required by law, with our third-party service providers and partners with whom we share Personal Data.
 
-You may delete and block all cookies from this site, but parts of the site may not work as expected.
+**What are cookies, web beacons and clear GIFs and why do we use them?**
 
-You can reduce the information cookies collect from your device. An easy way of doing this is often to change the settings in your browser. Our cookies policy tells you how to do that. If you do that you should know that (a) your use of the Site may be adversely affected (and possibly entirely prevented), (b) your experience of this and other sites that use cookies to enhance or personalize your experience may be adversely affected, and (c) you may not be presented with advertising that reflects the way that you use our, and other, sites. You can find out how to make these changes to your browser at this site: [www.allaboutcookies.org/manage-cookies/](http://www.allaboutcookies.org/manage-cookies/).
+We use cookies and similar tracking technology (collectively, "Cookies") to collect and use information about you to personalize your experience using the Site, for various business analytics to improve our services, and to deliver interest-based advertising. For further information about the types of Cookies we use, why, and how you can control use of Cookies on our Site, please see our [Cookies Policy](https://web.archive.org/footer/cookie-policy).
 
-We gather and share information concerning the usage of the Site for the purpose of reporting statistics. Sometimes this is done using electronic images placed in the web page code, called pixel tags (also called a "clear GIFs" or "web beacons") that can serve many of the same purposes as cookies.
+Cookie Settings
 
-Web beacons may be used to track the traffic patterns of users from one page to another in order to maximize web traffic flow. Our third-party advertising service providers may also use Web Beacons to recognize you when you visit the Site and to help determine how you found the Site. If you would like more information about this practice and to know your choices about not having this information used by these companies, click here: [http://networkadvertising.org/consumer/opt_out.asp](http://www.networkadvertising.org/managing/opt_out.asp).
+**Do-Not-Track**
 
-We may also use similar technology in emails that we send you.
+The Site and Services do not use technologies that respond to 'Do-Not-Track' signals communicated by your internet browser.
 
-Top
+**Marketing communications**
 
-## Marketing communications
+As outlined above, we (or, in some cases, a third-party service provider or partner on our behalf) may use your Personal Data to send you marketing information in accordance with the marketing preferences you select when providing your information. You may opt-out of receiving electronic marketing communications at any time by the following means:
 
-As outlined above, we (or in some cases third parties) may use your information to send you marketing information in accordance with any marketing preferences you have selected when providing your information.
+  1. click the "unsubscribe" link located in each electronic communication; or
+  2. contact us at [opt-out@ansys.com](mailto:opt-out@ansys.com?subject=Unsubscribe) with "Unsubscribe" in the subject line.
 
-You may opt-out of receiving marketing communications at any time by the following means:
 
-  1. contact us at opt-out@ansys.com with “remove” in the subject line; or
-  2. follow the instructions included in each communication or newsletter.
 
+Please remember that if you change your marketing preferences, it may take a short time for those preferences to become effective. By opting out of marketing communications, you will still continue to receive communications (including emails) related to your User Account and the Services, including product updates, trainings, and communications related to billing, maintenance, and support.
 
+**How long do we keep your information?**
 
-Please remember that if you change your preferences, it may take a short time for those preferences to become effective.
+Notwithstanding any Data Subject Rights outlined below, we retain your Personal Data only as long as is necessary for the purposes set out in this Privacy Notice, or as permitted or required by applicable law. At the end of the applicable retention period, we will either securely delete or deidentify your Personal Data, or, if deletion or deidentification is not possible (for example, because your Personal Data has been stored in back-up archives), we will securely store your Personal Data separate from any further processing until deletion is possible.
 
-Top
+**Data Subject Rights**
 
-## Applying for a job online
+You have the following data protection rights, as may be amended from time to time by applicable law:
 
-If you use the Site to apply to work with us, we will use the information you supply to process your application and to monitor recruitment statistics. As a global business we may transfer your details outside of your home country and to other companies in the ANSYS group. Where we want to disclose information to a third party, for example where we want to take up a reference, we will not do so without informing you first unless the disclosure is required by law. Personal information about unsuccessful candidates will be held for up to 12 months after the recruitment exercise has been completed, it will then be destroyed or deleted except for recruitment exercises for US-based offices for which applicable local legislation may require to hold such information for a longer period of time. We retain de-personalized statistical information about applicants to help inform our recruitment activities, but individuals should not be identifiable from that data. Once a person has taken up employment with us, we will compile a file relating to their employment. At that stage we will give more details about how we hold employee data.
+  * If you wish to access, correct, update or request deletion of the Personal Data we retain about you, you can do so at any time by contacting us at [privacy@ansys.com.](mailto:privacy@ansys.com)
+  * If you are a resident of the European Union, you can object to processing of your Personal Data, request that we restrict processing of your Personal Data, or request portability of your Personal Data, as outlined by the EU General Data Protection Regulation 2016/679. You may make any request under this section by contacting us at [privacy@ansys.com.](mailto:privacy@ansys.com)
+  * If we have collected and process your Personal Data based on your consent, you may withdraw your consent at any time. Withdrawing your consent will not affect the lawfulness of any processing we conducted prior to your withdrawal, nor will it affect processing of your Personal Data conducted in reliance upon lawful processing grounds other than consent (such as processing based on Legitimate Interests).
+  * You have the right to complain to a data protection authority about our collection and use of your Personal Data. For more information, please contact your local data protection authority. 
 
-Top
 
-## How long do we keep your information?
 
-We will retain your personal data only as long as is necessary for the purposes set out in this Privacy Policy, or as is required by applicable law, and then we will delete it.
+We respond to all requests we receive from individuals wishing to exercise their data protection rights in accordance with applicable data protection laws.
 
-Top
+**How do you contact us?**
 
-## Access to your information and updating and correcting your information
-
-In some countries you may have the right to see the information we hold on you. If you wish to inquire about this service then please direct your queries to [privacy@ansys.com](mailto:privacy@ansys.com). We may charge a small fee for this service.
-
-In some countries you may have a right to change or request the deletion of information we hold about you. This could include changing your contact details or your payment details or cancelling your account. If you wish to do this, please send the details of your request to [privacy@ansys.com](mailto:privacy@ansys.com).
-
-Top 
-
-## How do you contact us?
-
-If you have any questions about this Privacy Policy, the practices of this Site, or your dealings with this Site, we encourage you to contact us at privacy@ansys.com.
-
-In the unlikely event you still have an unresolved complaint, and if your data was transferred to the US from the EU or Switzerland under Safe Harbor, you can also contact our dispute resolution service operated by an independent arbitration service based in the EU. This arbitration service is currently operated by JAMS: <http://www.jamsadr.com/safeharbor/>. Our Privacy Officer can give you the details for this service if you email them at [privacy@ansys.com](mailto:privacy@ansys.com), or you can find them on our Safe Harbor filings here: <http://export.gov/safeharbor/>.
-
-Top
+If you have any questions or concerns about this Privacy Notice or ANSYS privacy practices related to the Services, we encourage you to contact us directly at [privacy@ansys.com.](mailto:privacy@ansys.com)
