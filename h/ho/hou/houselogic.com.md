@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the houselogic.com privacy policy that was archived on 2018-08-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180825231933id_/http%3A//www.houselogic.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the houselogic.com privacy policy that was archived on 2019-03-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190330092328id_/https%3A//www.houselogic.com/privacy) for the most accurate reproduction.*
 
 # .com Privacy | Online Privacy Policy
 
 **PRIVACY POLICY FOR** HOUSELOGIC
 
- **Last updated:  May 2016**
+**Last updated:  May 2016**
 
 The NATIONAL ASSOCIATION OF REALTORS® (NAR) recognizes the importance of protecting the personal information you provide to websites owned and/or controlled by NAR. HouseLogic (referred to as HouseLogic we, us and our), one of the NAR sites, (Site) has its own privacy policy, which is below (Privacy Policy). 
 
@@ -12,17 +12,17 @@ This Privacy Policy explains the collection and use of Personal Identifiable inf
 
 For a further understanding of the rules governing the HouseLogic Site, you should also review the “[Terms of Use](https://www.houselogic.com/terms_of_use/ "Terms of Use")”.
 
- **1.    Information We Collect**  
+**1.    Information We Collect**  
 
 When you access and use the Site, it may use technology to automatically collect certain information about you, including your activities over time and across third-party websites, apps or other online services. This is called “behavioral tracking.” 
 
- **California Do Not Track Disclosure: NAR does not respond to “do not track” signals at this time.  **
+**California Do Not Track Disclosure: NAR does not respond to “do not track” signals at this time.  **
 
 Generally, two types of information are collected from Site visitors, Personal Identifiable Information and Non-identifiable Information. Personally Identifiable Information is information provided by the user, including but not limited to: your name and email address.          
 
 Non-identifiable Information is tracking or browser information that may be automatically gathered when you visit the Site or open an email from HouseLogic, via cookies or otherwise, for example, IP address, browser type and the pages you visit.
 
- **2.    How We Collect Information**
+**2.    How We Collect Information**
 
 A.    By the User Affirmatively providing it to us: If you decide to subscribe to receive emails from us, you must provide us with your name and email address.   
 
@@ -46,7 +46,7 @@ D.    Contests and Sweepstakes: Participation in contests and sweepstakes is v
 
 E.    Mobile Device Identifiers : Certain mobile service providers identify mobile devices in a unique manner. If you access the Site through a mobile device or a mobile phone number is required for a feature on our Site, we may associate the mobile phone number to mobile device identification information.
 
- **3.    How We Use the Information Collected**
+**3.    How We Use the Information Collected**
 
 We use the information we collect to better serve you and to improve your experience on the Site and to improve the Site and to enable us to continue to deliver customized content on the Site. We may also use the information to bring to your attention content we believe might be of interest to you and to contact you for promotional or other purposes.
 
@@ -54,25 +54,25 @@ HouseLogic takes your privacy and your communications preference very seriously.
 
 If necessary, we will release Personal Information if it is appropriate to a) comply with the legal process; b) identify, contact or bring legal action against a party(ies), who cause (or we have a good-faith belief will cause) injury to  HouseLogic, its employees, Site users or others; or c) otherwise protect the rights, property or personal safety of HouseLogic, its employees, Site users or others.
 
- **4.    How We Secure the Information Collected**
+**4.    How We Secure the Information Collected**
 
 We are concerned about the confidentiality of your Personal Identifiable information and maintain security procedures and standards, which we believe are as safe as today’s technology reasonably permits, including the storage of your personally identifiable information on a secured server behind a firewall. We test these procedures and modify them as new technologies become feasible. 
 
 Unfortunately, no data transmission on the internet is 100% secure and HouseLogic cannot warrant the security of information received from our Site or information you transmit to the Site.
 
- **5.    Other Sites, Links and Advertising Banners**
+**5.    Other Sites, Links and Advertising Banners**
 
 The  HouseLogic Site may contain links to other sites and advertising banners, including advertiser sites, news sites, or sites by other third parties. Note that a third party’s site will likely have its own policies and rules governing its site that may be different than those outlined in this Privacy Policy for this Site. Please be aware that this Privacy Policy only applies to this Site and we are not responsible for policies and rules for any other sites.
 
- **6.    To Opt-In to Receive Information from Us**
+**6.    To Opt-In to Receive Information from Us**
 
 We utilize a strict Opt-In policy for receipt of  HouseLogic newsletters or other online messages regarding products, services and programs. If you later choose to opt-out, you can change your contact preferences by going to the [Manage Email page](https://www.houselogic.com/emailupdates "Manage Email"). Enter your email address and update your email contact preferences.
 
- **7.    Effective Date and Updates**
+**7.    Effective Date and Updates**
 
 This Privacy Policy is effective as of the date above and may be updated from time to time by us at our sole discretion. Accordingly, we encourage you to periodically review this Privacy Policy.
 
- **8.    Inquiries**
+**8.    Inquiries**
 
 If you have questions regarding this Privacy Policy, contact us at:
 
@@ -85,7 +85,7 @@ Legal Department
 430 N. Michigan Ave.   
 Chicago, Illinois 60611
 
- **For California Residents**
+**For California Residents**
 
 Individuals residing in California who have registered to use the  HouseLogic Site may request information regarding HouseLogic’s disclosure of certain personal information to third parties for direct marketing purposes.  
 
