@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the lushusa.com privacy policy that was archived on 2017-10-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171014194856id_/https%3A//www.lushusa.com/CustomerService-Page%3Fcid%3Dprivacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lushusa.com privacy policy that was archived on 2019-03-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190330200447id_/https%3A//www.lushusa.com/customer-care%3Fcid%3Dprivacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy | Lush Fresh Handmade Cosmetics US
 
-[Policies](http://www.lushusa.com/CustomerService-Page?cid=policies)
+[Policies](https://www.lushusa.com/customer-care?cid=policies)
 
 Effective Date: This Privacy Policy was last revised on August 29, 2014
 
@@ -250,10 +250,10 @@ The following third parties that collect information from you on or in connectio
 ---|---|---|---|---  
 Google | Google Analytics for Display Advertisers, Ads Preferences Manager, and Google Analytics Opt-out Browser Add-on | [https://support.google.com/analytics/...](https://support.google.com/analytics/answer/6004245)  
 <https://www.google.com/settings/u/0/ads/authenticated?hl=en> | Yes | <https://tools.google.com/dlpage/gaoptout/>  
-Crazy Egg | Analytics | [http://support.crazyegg.com](http://support.crazyegg.com/) | Yes | <http://www.crazyegg.com/privacy>  
+Crazy Egg | Analytics | [https://crazyegg.com](https://crazyegg.com/) | Yes | <http://www.crazyegg.com/privacy>  
 Demandware | Analytics | [http://www.demandware.com](http://www.demandware.com/) | Yes | <http://www.demandware.com/legal/privacy-policy/>  
 Gigya | Social Integration | <http://www.gigya.com/> | Yes | <http://www.gigya.com/privacy-policy/>  
-Listrak | Email Services | [www.listrak.com](http://www.listrak.com/) | Yes | <http://www.listrak.com/privacy.aspx>  
+Listrak | Email Services | [www.listrak.com](http://www.listrak.com/) | Yes | <https://www.listrak.com/privacy-and-terms/privacy>  
 Zendesk | Help Desk | [www.zendesk.com](http://www.zendesk.com/) | Yes | <https://www.zendesk.com/company/privacy>  
 Tradable Bits | Social Integration / Competitions | [www.tradablebits.com](https://tradablebits.com/) | Yes | <https://tradablebits.com/privacy>  
 Ordergroove | Replenishment Program | [www.ordergroove.com](http://www.ordergroove.com/) | Yes | <http://www.ordergroove.com/privacy-policy>  
