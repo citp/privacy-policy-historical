@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tezaktrafficpower.com privacy policy that was archived on 2018-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181223025235id_/http%3A//tezzers.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tezaktrafficpower.com privacy policy that was archived on 2019-03-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190330140831id_/http%3A//www.tezzers.com/privacy.php) for the most accurate reproduction.*
 
 # Tezzers
 
@@ -94,4 +94,4 @@ Help Desk: [Contact Us](http://akhmediagroup.com/supportdesk/home/70/Tezzers%20T
 
 By Email: krmhelp@gmail.com 
 
-Please also refer to our [Terms of Service](https://web.archive.org/web/20181223025235id_/http%3A//tezzers.com/terms.php) again if needed.
+Please also refer to our [Terms of Service](https://web.archive.org/web/20190330140831id_/http%3A//www.tezzers.com/terms.php) again if needed.
