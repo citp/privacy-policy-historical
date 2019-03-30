@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the nationaleatingdisorders.org privacy policy that was archived on 2018-01-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180121195315id_/https%3A//www.nationaleatingdisorders.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nationaleatingdisorders.org privacy policy that was archived on 2019-03-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190330075705id_/https%3A//www.nationaleatingdisorders.org/privacy-policy) for the most accurate reproduction.*
 
 # NEDA Privacy Policy | National Eating Disorders Association
 
-Last updated:  February 17, 2016
+Last updated:  May 1, 2018
 
 The National Eating Disorders Association (referred to herein as "NEDA", "we", "us", and "our"), a 501(c)3 non-profit organization, respects the privacy of individuals ("you", "your", and "users") who use our websites and services, and is committed to protecting it through adherence to this privacy statement.  The Policy applies to NationalEatingDisorders.org and NEDA-operated microsites (collectively the “Websites”), and describes the personal information that NEDA collects from the Websites and the ways in which NEDA uses the information.  It also informs you about our practices with respect to information that might be collected through NEDA's service partners and other online/offline channels.
 
@@ -53,7 +53,7 @@ From time to time, NEDA may decide, or be required by law to make changes to thi
 If you have any questions, comments, or concerns about the Websites or the Privacy Policy, please email  **[info@nationaleatingdisorders.org](mailto:info@nationaleatingdisorders.org) **or contact us at:
 
 National Eating Disorders Association  
-200 West 41st Street, #1203  
+1500 Broadway, Ste 1101  
 New York, NY 10036
 
 (212) 575-6200
@@ -61,3 +61,15 @@ New York, NY 10036
 **U.S. Governing Law**
 
 The Websites are designed and targeted to users who reside in the United States and is governed by and operated in accordance with the laws of the United States.  We make no representation that the Websites are operated in accordance with the laws or regulations of, or governed by other nations.  By accessing and/or providing personal information through the Websites, you certify that you meet the legal requirements for disclosure of personal information in your jurisdiction.  If you do not meet the legal requirements, please contact us and request that we delete your personal information, and discontinue disclosing personal information through the Websites.  Continued use of the Websites and/or disclosure of personally identifiable information indicates that you are agreeing to the collection, use, disclosure, management, and storage of your personal and non-personal information as described in this Privacy Policy.
+
+**For a resident of European Economic Area (EEA)**
+
+We do not knowingly collect personal information from EEA residents, but if you are a resident of EEA and have provided any personal information to us, you have the following rights under the General Data Protection Regulation (GDPR):
+
+\- If you wish to access, correct, update, or request deletion of your personal information, you can do so by emailing us at any time.  
+\- You can object to processing, or ask us to restrict our processing personal information provided by you.  
+\- You have the right to opt-out of email communications by clicking on the 'unsubscribe' link in the email footer.  
+\- If you have previously consented to our data collection practice, you can withdraw your consent at any time.  
+\- You have the right to complain about our use of your personal information to your local authority.
+
+If you wish to exercise your rights under GDPR, please email us at any time.
