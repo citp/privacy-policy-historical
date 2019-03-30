@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bikeindex.org privacy policy that was archived on 2018-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181226223345id_/https%3A//bikeindex.org/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bikeindex.org privacy policy that was archived on 2019-03-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190330171313id_/https%3A//bikeindex.org/privacy) for the most accurate reproduction.*
 
 # Privacy
 
