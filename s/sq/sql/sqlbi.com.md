@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sqlbi.com privacy policy that was archived on 2018-09-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180916194441id_/https%3A//www.sqlbi.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sqlbi.com privacy policy that was archived on 2019-03-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190330141503id_/https%3A//www.sqlbi.com/privacy) for the most accurate reproduction.*
 
 # Privacy - SQLBI
 
@@ -12,13 +12,14 @@ This document governs the privacy notice of the following websites:
   * www.sqlbi.com
   * www.daxpatterns.com
   * www.daxformatter.com
+  * dax.guide
   * okviz.com
   * synoptic.design
   * sql.bi
 
 
 
-Last update: _May 25, 2018_
+Last update: _Dec 19, 2018_
 
 ## Definitions
 
@@ -286,6 +287,7 @@ Your consent applies to the following domains:
   * www.sqlbi.com
   * www.daxpatterns.com
   * www.daxformatter.com
+  * dax.guide
   * okviz.com
   * synoptic.design
   * sql.bi
@@ -304,6 +306,7 @@ Name| Provider| Purpose
 _sqlbi_consent| First-party| Store cookie consent  
 _sqlbi_t_lu| First-party| Store newsletter registration preference  
 daxformatter-*| First-party| Store user preferences on DAX Formatter  
+daxguide-*| First-party| Store user preferences on DAX Guide  
 PHPSESSID, wordpress_*, wp-settings-*| First-party| Track user session  
 _sqlbi_bypass_unsupported| First-party| Allow browsing website from unsupported browser  
 woocommerce_*, wp_woocommerce_*| First-party| Cart and checkout  
@@ -317,7 +320,6 @@ Functional cookies enable a website to remember information that changes the way
 Name| Provider| Purpose  
 ---|---|---  
 _sqlbi_iso| First-party| Store user country  
-__cfduid| freegeoip.net| Store user country  
 __qca, __ssid, _albexps, _uetsid, mp_*, vuid, vimeo, player, continous_play_v3, has_loggend_in, has_uploaded, is_logged_in, optimizely*| vimeo.com| Vimeo video player  
 disqus_auth, disqusauths, csrftoken, session_id| disqus.com| DISQUS commenting widget  
   
