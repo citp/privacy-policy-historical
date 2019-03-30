@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the getholistichealth.com privacy policy that was archived on 2018-07-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180727111316id_/https%3A//www.getholistichealth.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the getholistichealth.com privacy policy that was archived on 2019-03-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190330090208id_/https%3A//www.getholistichealth.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Get Holistic Health
 
@@ -156,10 +156,9 @@ We reserve the right to amend this privacy policy at any time with or without no
 
 We are committed to conducting our business in accordance with these principles in order to ensure that the confidentiality of personal information is protected and maintained.
 
- **** Click “ **Accept** ” if you agree to our **Privacy Policy** **  
-**
+ **Request My Data**
 
-**Request My Data**
+Contact us about if we are using your data.
 
  **Contact**
 
