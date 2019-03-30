@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the bmwblog.com privacy policy that was archived on 2018-05-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180521205131id_/http%3A//bmwblog.com/about/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bmwblog.com privacy policy that was archived on 2019-03-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190330214849id_/https%3A//www.bmwblog.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
 **BMWBLOG** takes your privacy seriously. This privacy policy describes what personal information we collect and how we use it.
 
-This privacy policy has been compiled to better serve those who are concerned with how their ‘Personally identifiable information’ (PII) is being used online. PII is information that can be used on its own or with other information to identify, contact, or locate a single person, or to identify an individual in context. Please read our privacy policy carefully to get a clear understanding of how we collect, use, protect or otherwise handle your Personally Identifiable Information on our website [www.bmwblog.com](http://www.bmwblog.com/).
+This privacy policy has been compiled to better serve those who are concerned with how their ‘Personally identifiable information’ (PII) is being used online. PII is information that can be used on its own or with other information to identify, contact, or locate a single person, or to identify an individual in context. Please read our privacy policy carefully to get a clear understanding of how we collect, use, protect or otherwise handle your Personally Identifiable Information on our website [www.bmwblog.com](https://www.bmwblog.com/).
 
 ### What personal information do we collect from the people that visit our website?
 
@@ -46,8 +46,8 @@ We use cookies from the following third parties:
 
   * **Google Analytics** We use [Google Analytics](http://www.google.com/analytics/) to collect statistical information regarding how the website is used. This information is not personally identifiable. Google Analytics is a web analytics service offered by Google that tracks and reports website traffic. Google uses the data collected to track and monitor the use of our website. This data is shared with other Google services. Google may use the collected data to contextualize and personalize the ads of its own advertising network.
   * **Google AdSense** We use [Google AdSense](https://www.google.com/adsense/) to display ads on some of our pages. Google AdSense may use user data. You can review Google’s privacy policy regarding advertising [here](http://www.google.com/policies/privacy/ads/). That page also provides information on how to manage what information is collected and how to opt out of collection.
-  * **The DoubleClick Cookie** The [DoubleClick cookie](https://support.google.com/adsense/answer/2839090) is used by Google in the ads served on the websites of its partners, such as websites displaying AdSense ads or participating in Google certified ad networks. When users visit a partner’s website and either view or click on an ad, a cookie may be dropped on that end user’s browser.
-  * **Disqus** We use [Disqus](http://www.disqus.com/) to let the users comment on our site’s materials and thus improve their user experience. Disqus may collect user data. You can review Disqus’ privacy policy here. That page also contains information on how to opt out of data collection.
+  * [**The DoubleClick Cookie**](https://support.google.com/adsense/answer/2839090) is used by Google in the ads served on the websites of its partners, such as websites displaying AdSense ads or participating in Google certified ad networks. When users visit a partner’s website and either view or click on an ad, a cookie may be dropped on that end user’s browser.
+  * **Disqus** We use [Disqus](http://www.disqus.com/) to let the users comment on our site’s materials and thus improve their user experience. Disqus may collect user data. You can review Disqus’ privacy policy [here](https://help.disqus.com/terms-and-policies/disqus-privacy-policy). That page also contains information on how to opt out of data collection.
 
 
 
@@ -63,11 +63,45 @@ Google’s use of advertising cookies enables it and its partners to serve ads t
 Users may opt out of personalized advertising by visiting [Ads Settings](https://adssettings.google.com/authenticated). (Alternatively, you can direct users to opt out of a third-party vendor’s use of cookies for personalized advertising by visiting www.aboutads.info.)
 
 To understand how Google uses your information, please visit:  
-https://www.google.com/policies/privacy/partners/
+[https://www.google.com/policies/privacy/partners/](https://www.google.com/policies/privacy/partners) and <https://policies.google.com/technologies/partner-sites>
 
 ### Special Note About Google Advertising
 
 Any advertisements served by Google, Inc., and affiliated companies may be controlled using cookies. These cookies allow Google to display ads based on your visits to this site and other sites that use Google advertising services. Learn how to [opt out of Google’s cookie usage](http://www.google.com/privacy_ads.html). As mentioned above, any tracking done by Google through cookies and other mechanisms is subject to Google’s own privacy policies.
+
+### Cookies and social-media tools
+
+If you ‘share’ BMWBLOG content with friends through social networks – such as Facebook, Pinterest and Twitter – you may be sent cookies from these websites. BMWBLOG doesn’t control the settings of these cookies and is not responsible for how these cookies work.
+
+### Flash cookies
+
+BMWBLOG may display video content using Adobe Flash Player, delivered by Vimeo. Adobe uses Flash cookies (also known as Local Shared Objects) to help improve your experience as a user. Flash cookies are stored on your device in much the same way as other cookies but they’re managed differently by your browser.
+
+If you wish to disable or delete a Flash cookie, go to: [https://www.adobe.com/privacy/opt-out.html](https://www.adobe.com/uk/privacy/opt-out.html)
+
+Please note that BMWBLOG is not responsible for the content of external websites. If you do disable Flash cookies, you will be unable to access certain content (such as videos) on the website.
+
+### GumGum Ads
+
+**Types of Data We Collect and Purpose** – Personal information (or personal data) means any information about an individual from which that person can be identified. It does not include personal information where the identity has been removed (anonymous personal information).  The following provides some examples of the types of personal information that we may collect, use, store and transfer about you:
+
+Context | Types of Data and Purpose for Collection  
+---|---  
+Account Registration | We may collect your name and contact information when you create an account (user ID, password, access level, etc.) or sign-up for our services.  
+Employment | If you apply for a job posting, or become an employee, we may collect personal information necessary to process your application. This may include, your name, email, postal address, phone number, your tax identification number.  
+Feedback/Support | If you provide us feedback, require technical support, or if contact us for other assistance, we will collect your name and e-mail address and possibly other personal information, as well as any other content you send to us in order to reply.  
+Financial Data | To fulfill our obligations pursuant to our contract with you/your business, we may collect your bank account/payment detail in satisfaction of payment.  
+Mailing List | When you sign up for one of our mailing lists we may collect your email address or postal address.  
+Marketing & Communications Data | Includes information about how you use our website, products and services], along with your preferences in receiving marketing from us and our third-parties and your communication preferences.  
+Mobile Devices | We may collect information from your mobile device such as unique identifying information broadcast from your device or hardware and software specifications. We may also ask you if you would like to share your location information from your mobile device.  
+Technical User Data | IP address, IP browser user agent, and other browser information such as browser location data received from GPS coordinates, browser fingerprints, etc., to deliver relevant website content and advertisements to you and measure or understand the effectiveness of the advertising we serve to you.  
+Third Party Tracking | We participate in behavior-based advertising. This means that a third party may use technology (e.g., a cookie) to collect information about your use of our website so that they can provide advertising about products and services tailored to your interests. That advertising may appear either on our websites, or on other websites (e.g., social media platforms, search engines, etc.). You can opt-out of receiving advertising based upon your browsing behavior from some network advertising companies by going to the Network Advertising Initiative and the Digital Advertising Alliance websites.  
+  
+GumGum also collects, uses and shares **Aggregated Data** such as statistical or demographic data for any purpose. Aggregated Data may be derived from your personal information but is not considered personal information in law as this information does not directly or indirectly reveal your identity. For example, we may aggregate your Usage Data to calculate the percentage of users accessing a specific website feature. However, if we combine or connect Aggregated Data with your personal information so that it can directly or indirectly identify you, we treat the combined data as personal information which will be used in accordance with this Privacy Policy.
+
+For more details, see the [GumGum privacy policy.](https://gumgum.com/privacy-policy)
+
+GumGum Opt-Out policy can be found [here](https://gumgum.com/opt-out).
 
 ### Routine Information Collection
 
@@ -92,6 +126,61 @@ If you are concerned about cookies tracking your movements on the Internet then 
 You call also disable Google Analytics on all websites by downloading the [Google Analytics Opt-out Browser Add-on](https://tools.google.com/dlpage/gaoptout). The add-on prevents the Google Analytics JavaScript (ga.js, analytics.js, and dc.js) from sharing information with Google Analytics about visits activity.
 
 For more information on the privacy practices of Google, please visit the Google Privacy & Terms web page: <http://www.google.com/intl/en/policies/privacy/>
+
+### Managing cookies
+
+Most web browsers have cookies enabled; should you need to turn them on, see managing cookies below for help.
+
+If you’d prefer to restrict, block or delete cookies from BMWBLOG, or any other website, you can use your browser to do this. Each browser is different, so check the Help menu of your particular browser (or your mobile phone’s handset manual) to learn how to change your cookie preferences.
+
+Managing your settings will differ depending on the type and version of web browser you use. The instructions below apply to Microsoft Windows, with the exception of Safari, which is only for Mac, and may vary in different devices.
+
+BROWSER NAME| INSTRUCTIONS  
+---|---  
+**Google Chrome**|  Click the three horizontal bars in the top right of your browser window  
+Click to open the Settings tab  
+Click Show advanced settings to view the Privacy section, then click on Content settings  
+In the Cookies section, you can choose from the following settings:  
+Allow cookies by default   
+Keep cookies only until you close your browsing session   
+Block cookies by default  
+Make exceptions for cookies from specific websites or domains  
+Manage and delete existing cookies  
+**Microsoft Internet Explorer 9.0, 10, 11**|  Click the cog icon in the top right of your browser window   
+Click Internet Options  
+Click on the Privacy tab   
+You can set the slider to Medium, High or above to restrict the setting of cookies  
+  
+**Mozilla Firefox**|  Click the three horizontal bars in the top right of your browser window  
+Select Options, then click on the Privacy tab  
+In the History drop-down box, select: Firefox will use custom settings for history  
+You can choose from the following settings:   
+Accept cookies from sites   
+Accept third-party cookies (Always, From visited or Never)  
+Click Show Cookies to manage and delete existing cookies   
+**Safari**|  Click Settings in the Safari menu in the top left of your browser window   
+Type ‘cookies’ into the search box   
+In the Cookies section, you can choose from the following settings:  
+Allow cookies by default  
+Keep cookies only until you close your browsing session  
+Block cookies by default  
+Block third-party cookies and site data  
+Click Manage exceptions or All cookies and site data to manage and delete existing cookies  
+**All other browsers**|  Please consult your documentation or online help files.  
+**iPhone device, Safari browser**|  Open Settings App  
+Select Safari In Privacy & Security sub-menu, you can block all cookies   
+**Android device, Chrome browser**|  Open Chrome Go to More menu > Settings > Site settings > Cookies to disable them   
+**Android device, Chrome browser**|  Open Chrome Go to More menu > Settings > Site settings > Cookies to disable them   
+**BMWBLOG iPhone App – clearing app cookies**|  Uninstall the App from the phone  
+Reinstall it  
+  
+  
+**Your California Privacy Rights**
+
+If you are a resident of California, you may submit a written request to BMWBLOG to learn how BMWLOG has shared your information with third parties for their direct marketing purposes. In response to your written request, BMWBLOG may provide you with a notice describing the cost-free means you may use to opt-out of BMWBLOG sharing your information with third parties if the third party will use your information for their direct marketing purposes. If you would like to exercise your rights under California law, please send your written request to the email address or mailing address listed below. Your written request must include your mailing address so that BMWBLOG may provide you with BMWBLOG’ notice and third-party direct marketing opt-out form. BMWBLOG will provide you with this form within thirty (30) days of receiving your written request.
+
+E-mail at info@bmwblog.com  
+Address: iMedia Network, Inc. 2532 W Irving Park Rd, Chicago IL 60618
 
 ### **GENERAL OPT OUT**
 
