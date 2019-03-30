@@ -1,22 +1,19 @@
-> *The following text is extracted and transformed from the trumphotelcollection.com privacy policy that was archived on 2018-08-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180821170402id_/https%3A//www.trumphotels.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the trumphotelcollection.com privacy policy that was archived on 2019-03-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190330182719id_/https%3A//www.trumphotels.com/privacy-policy) for the most accurate reproduction.*
 
 # Luxury 5 Star Hotels | Trump Hotels - Privacy Policy | Luxury Spa Hotels
 
 Skip to Content
 
-  * [Offers](https://web.archive.org/special-offer-overview)
-  * [Meetings & Events](https://web.archive.org/meetings-weddings)
-  * [Trump Programs](https://web.archive.org/luxury-hotel-programs)
-  * Languages
+ _Select a_ Check In _&_ Check Out _date_
 
-
-
-###  _Select a_ Check In _&_ Check Out _date_
+NOTE: Must be 21 years or older to reserve and check-in at our hotels in the U.S., 19 in Canada, and 18 in Europe.
 
   * Privacy & Cookie Policy
   * [Terms of Service](https://web.archive.org/terms-of-service)
 
 
+
+Navigation
 
 **This Privacy & Cookie Policy is effective as of May 25, 2018.**
 
@@ -277,31 +274,29 @@ The information we obtain from our use of cookies may contain your personal data
 
 Copyright © 2018 DTTM Operations LLC
 
-Trump Doonbeg Video
+Trump® Kids
 
-Watch our Video of Doonbeg 
-
-Best of Doral Offer
-
-Discover all there is to do at Doral. Save on luxurious accommodations and more.
-
-Forbes Celebration
-
-In honor of being named as the first and only Forbes Travel Guide hotel on Oahu for the third year in a row, enjoy up to 35% off.
+Traveling with the family? Let us know so we can be sure to include Trump Kids amenities for our younger jet-setters.
 
 Vegas Retreat
 
 Save up to 25% on your Vegas Retreat!
 
-Summer BreakMaster the art of relaxation this summer.
+Trump® Wellness
 
-Treat yourself to a long weekend getaway and receive 20% off.
+Trump Hotels™ understands the importance of maintaining a healthy lifestyle while traveling.
 
-Book now through September 3, 2018.
+Turnberry Events
 
-[Learn More](https://www.trumphotels.com/seasonal_promotion)
+View our resort and local event calendar.
 
 ### #trumphotelsConnect _with_ Trump
 
 Come and get social with Trump Hotels. Stay connected with us on  
 Twitter, Instagram, Facebook and all your favorite social networking sites.
+
+Black Friday Deal30% off suites
+
+Book by November 27, 2018
+
+[Book Now](https://www.trumphotels.com/suitestdeal)
