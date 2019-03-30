@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the abilogic.com privacy policy that was archived on 2018-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181219134416id_/https%3A//www.abilogic.com/policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the abilogic.com privacy policy that was archived on 2019-03-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190330075207id_/https%3A//www.abilogic.com/policy) for the most accurate reproduction.*
 
 # Privacy Policy - AbiLogic
 
