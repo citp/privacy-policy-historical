@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the shadowandact.com privacy policy that was archived on 2018-12-13.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20181213061433id_/https%3A//shadowandact.com/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the shadowandact.com privacy policy that was archived on 2019-03-30.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20190330084010id_/https%3A//shadowandact.com/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html class="no-js" lang="en"><head><style type="text/css">@charset "UTF-8";[ng\:cloak],[ng-cloak],[data-ng-cloak],[x-ng-cloak],.ng-cloak,.x-ng-cloak,.ng-hide:not(.ng-hide-animate){display:none !important;}ng\:form{display:block;}.ng-animate-shim{visibility:hidden;}.ng-anchor{position:absolute;}</style>
     
@@ -31,7 +31,7 @@
     <!--/ for twitter shares-->
     <meta http-equiv="Expires" content="1">
     <link href="https://fonts.googleapis.com/css?family=Mukta+Vaani|Slabo+27px|Sorts+Mill+Goudy" rel="stylesheet">
-    <script src="https://secure.quantserve.com/quant.js" async="" type="text/javascript"></script><script async="" src="https://sb.scorecardresearch.com/beacon.js"></script><script async="" src="https://www.google-analytics.com/analytics.js"></script><script src="//load.sumome.com/" data-sumo-site-id="647119b84ee190a7146ab71bf0c79bacc3f29cbc1b8bfcd2a48e2a8c5b82d5bb" async="async"></script>
+    <script async="" type="text/javascript" src="//prod.adspsp.com/adb.2716080.min.js"></script><script async="" type="text/javascript" src="https://www.googletagservices.com/tag/js/gpt.js"></script><script src="https://secure.quantserve.com/quant.js" async="" type="text/javascript"></script><script async="" src="https://sb.scorecardresearch.com/beacon.js"></script><script async="" src="https://www.google-analytics.com/analytics.js"></script><script src="//load.sumome.com/" data-sumo-site-id="647119b84ee190a7146ab71bf0c79bacc3f29cbc1b8bfcd2a48e2a8c5b82d5bb" async="async"></script>
     <link href="/src/style.css" rel="stylesheet" type="text/css">
     <link href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet" type="text/css">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/select2/4.0.3/css/select2.min.css">
@@ -100,11 +100,84 @@ qacct:"p-CQLVSwcVaN3t5"
 
     <!-- sonobi -->
     <script type="text/javascript" src="//mtrx.go.sonobi.com/morpheus.blavity.1695.js"></script>
-    <!-- Start GPT Async Tag -->
-<script async="async" src="https://www.googletagservices.com/tag/js/gpt.js"></script>
+    <script type="text/javascript">
+  var gptadslots = [];
+  var googletag = googletag || {};
+  googletag.cmd = googletag.cmd || [];
+  (function () {
+    var gads = document.createElement('script');
+    gads.async = true;
+    gads.type = 'text/javascript';
+    var useSSL = 'https:' == document.location.protocol;
+    gads.src = (useSSL ? 'https:' : 'http:') + '//www.googletagservices.com/tag/js/gpt.js';
+    var node = document.getElementsByTagName('script')[0];
+    node.parentNode.insertBefore(gads, node);
+  })();
+</script>
+<script type="text/javascript">
+  var AdBridg = AdBridg || {};
+  AdBridg.cmd = AdBridg.cmd || [];
+  (function() {
+    var adb = document.createElement("script");
+    adb.async = true;
+    adb.type = "text/javascript";
+    adb.src = '//prod.adspsp.com/adb.2716080.min.js';
+    var node = document.getElementsByTagName('script')[0];
+    node.parentNode.insertBefore(adb, node);
+
+    // Return control to GPT if the AdBridg library fails to load.
+    adb.onerror = function() {
+      if (AdBridg.exists) { return; }
+      document.createElement('IMG').src = 'http://adspsp.com/pt/8100717/3/1/?e=0';
+      var dq = [], es;
+      dq.process = function() { while(dq.length) { googletag.display(dq.shift()); }}
+      AdBridg.defineSlot = function(p, s, d) { return googletag.defineSlot(p, s, d).addService(googletag.pubads()); }
+      AdBridg.defineOutOfPageSlot = function(p, d) { return googletag.defineOutOfPageSlot(p, d).addService(googletag.pubads()); }
+      AdBridg.destroySlots = function(s) { return googletag.destroySlots(s); }
+      AdBridg.display = function(d) { dq.push(d); if (es) { dq.process(); }}
+      AdBridg.refresh = function(s, o) { googletag.pubads().refresh(s, o); }
+      AdBridg.render = function() { }
+      AdBridg.serve = function() { googletag.enableServices(); es=1; dq.process(); }
+      AdBridg.sizeMapping = function() { return googletag.sizeMapping(); }
+      AdBridg.useSizeMapping = function() { }
+      AdBridg.lock = function(s) {if(ls[s]){ls[s]=null;return;}l.push(s);pl()}
+      AdBridg.unlock = function(s) {var f=0; for(var i=0;i<l.length;++i){if(l[i]==s){l.splice(i,1);f=1}}; if(!f){ls[s]=1} pl()}
+      AdBridg.cmd.push = function(f) {
+        if (typeof(f)=='object') {
+          var api_fallback = function(o) {
+            googletag.cmd.push(function() {
+              var u=AdBridg.defineSlot(o.gpt_path,o.size||[],o.dom_id);
+              if(o.size_map) {
+                var m = googletag.sizeMapping();
+                for(var oi=0;oi<o.size_map.length;oi++){m=m.addSize(o.size_map[oi].viewport, o.size_map[oi].sizes);}
+                u.defineSizeMapping(m.build());
+              }
+              if(o.events) {
+                if(o.events["gpt.defined"]){o.events["gpt.defined"](u);}
+                var fl = function(a,b){if(o.events[a]){googletag.pubads().addEventListener(b,function(e){if(e.slot===u){o.events[a](u,e)}})}}
+                fl("gpt.rendered",'slotRenderEnded');
+                fl("gpt.viewed",'impressionViewable');
+                fl("gpt.visibilityChanged",'slotVisibilityChanged');
+              }
+            });
+          }
+          if(f.length){for(var i=0;i<f.length;++i){api_fallback(f[i]);}}else{api_fallback(f);}
+          f=function(){AdBridg.serve()}
+        }
+        return googletag.cmd.push(f);
+      }
+      while (AdBridg.cmd.length) { AdBridg.cmd.push(AdBridg.cmd.shift()); }
+    }
+  })();
+</script>
+<!-- Addition of 1x1 ad unit to current ad tag -->
 <script>
-var gptadslots = [];
-var googletag = googletag || {cmd:[]};
+  AdBridg.cmd.push(function() {
+    AdBridg.defineSlot('/11462305847/shadow', [[1, 1]], 'div-gpt-ad-1538162545316-0')
+           .addService(googletag.pubads());
+    AdBridg.defineOutOfPageSlot('/11462305847/shadow', 'div-gpt-ad-1538162606584-0')
+           .addService(googletag.pubads());
+  });
 </script>
 <!-- <script src="//biddr.brealtime.com/30502114-1067.js" type="text/javascript"></script> -->
 <script>
@@ -112,77 +185,69 @@ var googletag = googletag || {cmd:[]};
 var block_ads = false;
 if(!block_ads){
 
-  googletag.cmd.push(function() {
+  AdBridg.cmd.push(function() {
 
-    var mapping1 = googletag.sizeMapping().
+    var mapping1 = AdBridg.sizeMapping().
       addSize([1024, 0], [[970,250], [970,90], [728, 90]]).
-      addSize([980, 0], [[970,250], [970,90], [728, 90]]).
       addSize([640, 0], [728, 90]).
       addSize([0, 0], [[300,90],[320,50]]).
       build();
 
-    var mapping2 = googletag.sizeMapping().
-      addSize([1024, 0], [[300,600], [320, 480], [300, 250]]).
-      addSize([640, 0], [[300,600], [320, 480], [300, 250]]).
-      addSize([0, 0], [[300,600], [320, 480], [300, 250]]).
-      build();
-
-    var mapping3 = googletag.sizeMapping().
+    var mapping2 = AdBridg.sizeMapping().
       addSize([1024, 0], [728, 90]).
-      addSize([980, 0], [728, 90]).
-      addSize([640, 0], [728, 90]).
       addSize([0, 0], [[300,90],[320,50]]).
       build();
 
     //Adslot 1 declaration
-    gptadslots[0] = googletag.defineSlot('/11462305847/shadow', [[970,250], [970,90], [728, 90]], 'high-impact-banner')
-                             .setTargeting('pos', ['970x250_ATF']).defineSizeMapping(mapping1)
-                             .addService(googletag.pubads()).setCollapseEmptyDiv(true, true);
-    //Adslot 2 declaration
-    gptadslots[1] = googletag.defineSlot('/11462305847/shadow', [[970,90],[728,90],[320,50]], 'header-banner')
-                             .setTargeting('pos', ['728x90_Top-Leaderboard_101']).defineSizeMapping(mapping1)
-                             .addService(googletag.pubads()).setCollapseEmptyDiv(true, true);
-    //Adslot 3 declaration
-    gptadslots[2] = googletag.defineSlot('/11462305847/shadow', [[300,600],[320, 480],[300,250]], 'sidebar-top')
-                             .setTargeting('pos', ['300x250_MedRecATF_102']).defineSizeMapping(mapping2)
-                             .addService(googletag.pubads()).setCollapseEmptyDiv(true, true);
-    //Adslot 4 declaration
-    gptadslots[3] = googletag.defineSlot('/11462305847/shadow', [[300,600],[320, 480],[300,250]], 'sidebar-bottom')
-                             .setTargeting('pos', ['sticky']).defineSizeMapping(mapping2)
-                             .addService(googletag.pubads()).setCollapseEmptyDiv(true, true);
-    //Adslot 5 declaration
-    gptadslots[4] = googletag.defineSlot('/11462305847/shadow', [[728,90],[320,50]], 'content-banner-1')
-                             .setTargeting('pos', ['728x90_Top-Leaderboard_101']).defineSizeMapping(mapping3)
-                             .addService(googletag.pubads()).setCollapseEmptyDiv(true, true);
+    gptadslots[0] = AdBridg.defineSlot('/11462305847/shadow', [[970,250], [970,90], [728, 90]], 'high-impact-banner')
+                           .setTargeting('pos', ['970x250_ATF']).defineSizeMapping(mapping1)
+                           .addService(googletag.pubads()).setCollapseEmptyDiv(true, true);
 
-    googletag.pubads().setCentering(true);
-    googletag.pubads().disableInitialLoad();
-    googletag.pubads().enableSingleRequest();
-    googletag.pubads().setForceSafeFrame(false);
+    AdBridg.useSizeMapping(gptadslots[0], mapping1);
+    //Adslot 2 declaration
+    gptadslots[1] = AdBridg.defineSlot('/11462305847/shadow', [[970,90],[728,90]], 'header-banner')
+                           .setTargeting('pos', ['728x90_Top-Leaderboard_101']).defineSizeMapping(mapping1)
+                           .addService(googletag.pubads()).setCollapseEmptyDiv(true, true);
+    AdBridg.useSizeMapping(gptadslots[1], mapping1);
+    //Adslot 3 declaration
+    gptadslots[2] = AdBridg.defineSlot('/11462305847/shadow', [[300,600],[320, 480],[300,250]], 'sidebar-top')
+                           .setTargeting('pos', ['300x250_MedRecATF_102'])
+                           .addService(googletag.pubads()).setCollapseEmptyDiv(true, true);
+    //Adslot 4 declaration
+    gptadslots[3] = AdBridg.defineSlot('/11462305847/shadow', [[300,600],[320, 480],[300,250]], 'sidebar-bottom')
+                           .setTargeting('pos', ['sticky'])
+                           .addService(googletag.pubads()).setCollapseEmptyDiv(true, true);
+    //Adslot 5 declaration
+    gptadslots[4] = AdBridg.defineSlot('/11462305847/shadow', [[728,90],[320,50]], 'content-banner-1')
+                           .setTargeting('pos', ['728x90_Top-Leaderboard_101']).defineSizeMapping(mapping2)
+                           .addService(googletag.pubads()).setCollapseEmptyDiv(true, true);
+    AdBridg.useSizeMapping(gptadslots[4], mapping2);
 
     var pathname = window.location.pathname.trim();
     if(pathname == '/' || pathname == ''){
       googletag.pubads().setTargeting('page', 'home');
     }
 
-    googletag.enableServices();
+    googletag.pubads().setCentering(true);
+    AdBridg.serve();
 
     function doneResizing() {
       googletag.pubads().refresh([gptadslots[0], gptadslots[1], gptadslots[4]]);
     }
 
-  });
-
-  var timrid;
-  jQuery(window).resize(function () {
-      clearTimeout(timrid);
-      timrid = setTimeout(doneResizing, 500);
-
+    var timrid;
+    jQuery(window).resize(function () {
+      if (!timrid) {
+        timrid = setTimeout(function() {
+          doneResizing();
+          timrid = null;
+        }, 1000);
+      }
+    });
   });
 }
 
 </script>
-<!-- End GPT Async Tag -->
 
 </head>
 
@@ -190,6 +255,11 @@ if(!block_ads){
 
 <body ng-app="shadowandact">
 
+<div id="div-gpt-ad-1538162606584-0" style="height: 0;">
+  <script>
+    AdBridg.cmd.push(function() { AdBridg.display('div-gpt-ad-1538162606584-0'); });
+  </script>
+</div>
 <div class="header-sticky" ng-controller="HeaderCtrl">
     <section class="col-12 py1 gray-bg-7 white h6" ng-if="isLogin">
       <div class="container mx-auto clearfix">
@@ -281,15 +351,14 @@ if(!block_ads){
         </div>
     </div>
 </div>
+
 <div class="single-image-post">
     <div class="center mt3">
     <!-- Async AdSlot 1 for Ad unit 'shadow' ### Size: [[728,90],[320,50]] -->
-<!-- Adslot's refresh function: googletag.pubads().refresh([gptadslots[0]]) -->
 <div id="header-banner">
   <script>
-    googletag.cmd.push(function() {
-      googletag.display('header-banner');
-      googletag.pubads().refresh([gptadslots[1]]);
+    AdBridg.cmd.push(function() {
+      AdBridg.display('header-banner');
     });
   </script>
 </div>
@@ -313,12 +382,10 @@ if(!block_ads){
             <aside class="md-width-300 sm-col-12 md-col">
     <div class="mb3 center">
         <!-- Async AdSlot 2 for Ad unit 'shadow' ### Size: [[300,250]] -->
-<!-- Adslot's refresh function: googletag.pubads().refresh([gptadslots[1]]) -->
 <div id="sidebar-top">
   <script>
-    googletag.cmd.push(function() {
-      googletag.display('sidebar-top');
-      googletag.pubads().refresh([gptadslots[2]]);
+    AdBridg.cmd.push(function() {
+      AdBridg.display('sidebar-top');
     });
   </script>
 </div>
@@ -338,12 +405,10 @@ if(!block_ads){
     <div class="center stickyad-start">
       <div stickyad="">
         <!-- Async AdSlot 3 for Ad unit 'shadow' ### Size: [[300,250],[300,600]] -->
-<!-- Adslot's refresh function: googletag.pubads().refresh([gptadslots[2]]) -->
 <div id="sidebar-bottom">
   <script>
-    googletag.cmd.push(function() {
-      googletag.display('sidebar-bottom');
-      googletag.pubads().refresh([gptadslots[3]]);
+    AdBridg.cmd.push(function() {
+      AdBridg.display('sidebar-bottom');
     });
   </script>
 </div>
