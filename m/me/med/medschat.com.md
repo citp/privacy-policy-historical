@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the medschat.com privacy policy that was archived on 2018-09-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180904022437id_/https%3A//www.medschat.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the medschat.com privacy policy that was archived on 2019-03-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190330145120id_/https%3A//www.medschat.com/privacy.asp) for the most accurate reproduction.*
 
 # Privacy Policy - MedsChat
 
-Last Updated: July 5, 2018
+Last Updated: December 20, 2018
 
 Thank you for using MedsChat.com. This page explains what, how, and why we collect information when you use our services. Please know that we are committed to safeguarding your privacy. Therefore, this policy details how we treat your Personal Information as well as the choices available to you regarding the use of, your access to, and how to update and correct such information.
 
@@ -21,7 +21,7 @@ We may update this Privacy Policy to reflect changes to our information practice
 
 ## EU-U.S. Privacy Shield
 
-MedsChat.com complies with the EU-U.S. Privacy Shield Framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal information transferred from the European Union to the United States. MedsChat.com has certified to the Department of Commerce that it adheres to the Privacy Shield Principles. If there is any conflict between the terms in this privacy policy and the Privacy Shield Principles, the Privacy Shield Principles shall govern. To learn more about the Privacy Shield program, and to view our certification, please visit [https://www.privacyshield.gov](https://www.privacyshield.gov/participant?id=a2zt00000008SpiAAE).
+MedsChat.com complies with the EU-U.S. Privacy Shield Framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal information transferred from the European Union and the United Kingdom to the United States. MedsChat.com has certified to the Department of Commerce that it adheres to the Privacy Shield Principles. If there is any conflict between the terms in this privacy policy and the Privacy Shield Principles, the Privacy Shield Principles shall govern. To learn more about the Privacy Shield program, and to view our certification, please visit [https://www.privacyshield.gov](https://www.privacyshield.gov/participant?id=a2zt00000008SpiAAE).
 
 MedsChat.com is responsible for the processing of personal data that it receives, under the Privacy Shield Framework, and subsequently transfers to third party Service Providers (as outlined in this privacy statement) acting on its behalf. MedsChat.com complies with the Privacy Shield Principles for all onward transfers of personal data from the EU, including the onward transfer liability provisions.
 
@@ -38,15 +38,12 @@ Under certain conditions, more fully described on the Privacy Shield website at 
 If you have any questions or comments, or if you have a concern about the way in which we have handled any privacy matter please use our [contact form](https://web.archive.org/contact.asp) to get in touch. You may also reach us via postal mail at:
 
 MedsChat.com  
-Suite 1100  
-501 S. Cherry Street  
-Denver, CO 80246  
+9888 W Belleview Ave #5000  
+Denver, CO 80123  
 USA
 
-Google+: [https://gp.medschat.com](https://gp.medschat.com/)  
 Facebook: [https://fb.medschat.com](https://fb.medschat.com/)  
-Twitter: [https://tw.medschat.com](https://tw.medschat.com/)  
-LinkedIn: [https://in.medschat.com](https://in.medschat.com/)
+Twitter: [https://tw.medschat.com](https://tw.medschat.com/)
 
 ## Data Collection
 
@@ -101,7 +98,7 @@ We offer a branded Prescription Discount Card / Rx Savings Voucher to patients l
 
 MedsChat.com and its partners use cookies or similar technologies to analyze trends, administer the website, track users' movements around the website, and to gather demographic information about our user base as a whole. You can control the use of cookies at the individual browser level, but if you choose to disable cookies, it may limit your use of certain features or functions on our website or service.
 
-By using any of our online forms to participate in Discussion Threads, Send us a Message via our Contact form, email yourself a Prescription Savings Card, Subscribe to our Health Newsletter, or Share a page from our site via the "Email a Friend" form, your Email Address (plus your Name if it is collected) is stored in a cookie so that you do not need to reenter it the next time you visit our site. Please note that this cookie is not shared with any outside parties and is valid for a period of 90 days from when you last complete one of the actions above. If you select the option "I'm on a public or shared computer" before submitting the form, we will not store this information inside a cookie. If you wish to clear this previously stored information [click here](https://web.archive.org/privacy.asp?action=clear-email-cookie).
+By using any of our online forms to participate in Discussion Threads, Send us a Message via our Contact form, email yourself a Prescription Savings Card, Subscribe to our Health Newsletter, or Share a page from our site via the "Email a Friend" form, your Email Address (plus your Name if it is collected) is stored in a cookie so that you do not need to reenter it the next time you visit our site. Please note that this cookie is not shared with any outside parties and is valid for a period of 90 days from when you last complete one of the actions above. If you select the option "I'm on a public or shared computer" before submitting the form, we will not store this information inside a cookie. If you wish to clear this previously stored information [click here](https://web.archive.org/privacy.asp?action=clear-email-cookie) or visit our [Cookie Manager](https://web.archive.org/modules/cookies.asp).
 
 ## Advertising
 
@@ -112,11 +109,15 @@ _Google's DoubleClick Cookie:_ The DoubleClick cookie is used by Google in the a
 
 Service Providers
 
+We share your information with the following third parties who provide services on our behalf to help with business activities as described below. These companies are authorized to use your personal information only as necessary to provide these services to us.
+
 We use MailGun as an outside service (processor) to transmit email messages on our behalf. Because of this, we must share your Email Address with them at the time of email transmission. MailGun maintains a Data Processing Agreement with their customers and they only store personal data on a temporary (as needed) basis to provide their service. For more details, please see <https://www.mailgun.com/gdpr> and <https://www.mailgun.com/privacy-policy>.
 
-Incoming email archives for our service are stored in the Google Cloud Platform. You can read more about their Data Protection Commitments at <https://cloud.google.com/security/gdpr/>.
+Incoming email archives for our service (such as when you send us a message directly through email) are stored in the Google Cloud Platform. You can read more about their Data Protection Commitments at <https://cloud.google.com/security/gdpr/>.
 
-Our service is hosted through the Rackspace Cloud. We have engaged in a Data Protection Agreement with them as a processor of our service. More details are available at <https://www.rackspace.com/en-us/gdpr>
+Our web service is hosted through the Rackspace Cloud. We have engaged in a Data Protection Agreement with them as a processor of our service. More details are available at <https://www.rackspace.com/en-us/gdpr>
+
+We use CloudFlare as our DNS & HTTP proxy. This helps to protect our servers from denial of service attacks and unauthorized access attempts. Please note that our use of CloudFlare results in a cookie being assigned to each individual called "__cfuid". As explained on their page [What does the Cloudflare cfduid cookie do?](https://support.cloudflare.com/hc/en-us/articles/200170156-What-does-the-Cloudflare-cfduid-cookie-do-), "The __cfduid cookie is used to identify individual clients behind a shared IP address and apply security settings on a per-client basis... This cookie is absolutely necessary for supporting Cloudflare's security features and cannot be turned off." Subsequently, we have engaged in a separate Data Processing Addendum with them per the instructions outlined at <https://www.cloudflare.com/media/pdf/cloudflare-customer-dpa-20180612.pdf> (PDF).
 
 _You have the right to request the correction or deletion of any personal data which is held about you. Please see the **Data Requests** heading below for more details._
 
@@ -124,13 +125,9 @@ _You have the right to request the correction or deletion of any personal data w
 
 We will retain and use your information as necessary for our security, to comply with our legal obligations, resolve disputes, and enforce our agreements.
 
-### Temporarily Stored
-
 _Automatically Collected Data_ as outlined above is stored on our internal servers and corresponding backup devices for a period of 120 days before being deleted. User data tracked through Google Analytics is valid for a period of [26 months](https://support.google.com/analytics/answer/7667196?hl=en) from the time of your last visit to our website (this applies to a unique cookie ID and does not include your Email or IP address). Outgoing email records sent through MailGun are stored for a period of [30 days](https://www.mailgun.com/gdpr).
 
-### Permanently Stored
-
-We maintain a permanent record of user data (including your IP address and Email if provided) if you: Choose to receive notifications from one or more Discussion Threads; Subscribe to our Health Newsletter; Email yourself a Prescription Discount Card; Report a Post in our discussion threads to us; Vote for the helpfulness of a reply inside our discussion threads; Share a page from our site via the "Email a Friend" form; Send us a message via our Contact form or directly through your email account. As mentioned before, this information is collected on a voluntary basis and is not required for you to view pages on our site. However, we maintain a record of this data even if you unsubscribe from our email messages.
+In addition, we maintain a record of user data (including your IP address and Email if provided) if you: Choose to receive notifications from one or more Discussion Threads; Subscribe to our Health Newsletter; Email yourself a Prescription Discount Card; Report a Post in our discussion threads to us; Vote for the helpfulness of a reply inside our discussion threads; Share a page from our site via the "Email a Friend" form; Send us a message via our Contact form or directly through your email account. As mentioned before, this information is collected on a voluntary basis and is not required for you to view pages on our site.
 
 _You have the right to request the correction or deletion of any personal data which is held about you. Please see the **Data Requests** heading below for more details._
 
