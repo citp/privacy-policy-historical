@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the vapewild.com privacy policy that was archived on 2018-11-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181105203749id_/https%3A//www.vapewild.com/payment-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vapewild.com privacy policy that was archived on 2019-03-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190330212153id_/https%3A//www.vapewild.com/payment-privacy-policy) for the most accurate reproduction.*
 
 # VapeWild's Payment and Privacy Policies
 
 **Payments**
 
-VapeWild.com accepts Visa, MasterCard, Discover, and American Express. We do not accept Paypal or ApplePay at this time. If you would like to pay with PayPal or ApplePay, please contact them to voice your opinion about how you would like to spend your money.
+VapeWild.com accepts Visa, MasterCard, Discover, and American Express. We do not accept Paypal or ApplePay at this time. If you would like to pay with PayPal or ApplePay, please contact them to voice your opinion about how you would like to spend your money. VapeWild reserves the right to cancel orders for any reason, resulting in the refund or void of associated payment transaction. VapeWild is not responsible for funds returned to a Gift Card that is no longer in the cardholder's possession. If using a Gift Card, we encourage you to maintain possession of that card until your order is received. 
 
 An Order Status of "Awaiting Payment" or "Manual Verification Required" means that your order will be individually reviewed by our payment processing department. A few common scenarios that cause an order to require review are: the billing address does not match what your bank has on file, the billing address and shipping address are in different countries, or the billing address was entered incorrectly multiple times. 
 
