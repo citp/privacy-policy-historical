@@ -1,20 +1,16 @@
-> *The following text is extracted and transformed from the gla.ac.uk privacy policy that was archived on 2017-11-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171104041717id_/http%3A//www.gla.ac.uk/legal/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gla.ac.uk privacy policy that was archived on 2019-03-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190330214657id_/https%3A//www.gla.ac.uk/legal/privacy) for the most accurate reproduction.*
 
 # University of Glasgow - Legal statements - Privacy
 
 This statement outlines the information gathered during your visit to the University of Glasgow's central web servers and explains how this information is treated. If you choose to request information from this site you will need to pass personal data to the University through this site. Where you actively provide personal data to the University [for example, by completing a web form] this data will be used only for the service you have requested unless you consent otherwise at the time of submitting the data.
 
-### Data Protection Act
+### Data protection
 
-The gathering, storage, use, release and disposal of personal information is regulated by the Data Protection Act 1998. The University's policy and guidelines with respect to the Act, are published by the [Data Protection and Freedom of Information Office](https://web.archive.org/myglasgow/dpfoioffice/).
-
-### Surveillance and monitoring
-
-Staff, students and visitors should be aware that the University operates CCTV and similar equipment to monitor safety and security and to aid the prevention and detection of crime. In addition, the University may monitor postal, telecommunications, data communications, and other communications as permitted by the relevant legislation and University Regulations. Pleas see: [Monitoring & Surveillance (CCTV/WebCam)](https://web.archive.org/myglasgow/dpfoioffice/a-ztopics/monitoringsurveillancecctvwebcam/).
+The gathering, storage, use, release and disposal of personal information is regulated by the General Data Protection Regulation. The University's policy and guidelines with respect to the regulations, are published by the Data Protection and Freedom of Information Office.
 
 ### Freedom of Information (Scotland) Act
 
-The records of the University of Glasgow are subject to the terms of the Freedom of Information (Scotland) 2002 Act. The Act gives individuals a general right of access to all types of recorded information, of any age, held by the University. The University's policy and guidelines with respect to the Freedom of Information Act (Scotland) 2002 are published by the [Data Protection and Freedom of Information Office](https://web.archive.org/myglasgow/dpfoioffice/).
+The records of the University of Glasgow are subject to the terms of the Freedom of Information (Scotland) 2002 Act. The Act gives individuals a general right of access to all types of recorded information, of any age, held by the University. The University's policy and guidelines with respect to the Freedom of Information Act (Scotland) 2002 are published by the Data Protection and Freedom of Information Office.
 
 ## The information collected
 
@@ -22,34 +18,256 @@ The records of the University of Glasgow are subject to the terms of the Freedom
 
 The University's website does not automatically capture or store personal data from visitors to the site, other than to log your IP address and session information. Session information includes the time and duration of your visit to the site, the files requested, and the browser used. This information will only be accessed by authorised persons of the University of Glasgow or its agents. The information will be retained by the University and will only be used for the purpose of (a) managing the site system, (b)  the identification of broken links, and (c) for statistical and audit purposes.
 
-### Web Forms
+### Web forms
 
-You may occasionally be asked to provide personal information to gain access to specific services. By supplying such information the client consents to the University storing the information for the stated purpose. The information is held by the University in accordance with the provisions of the Data Protection Act 1998.
+You may occasionally be asked to provide personal information to gain access to specific services. The processing and retention of this information will be explained at the point of collection.
 
 This privacy policy does not cover the links within this site to other non-University sites nor the content of external internet sites.
 
-Cookies are small text files passed to your computer by the web server via your browser, and may be used to collect information to help identify you and prepare customised pages for you. Cookies may remain on your computer either for the duration of the session or indefinitely. You can configure most standard web browsers to refuse cookies.
+### Cookies
 
-The University and our authorised agents make use of Google Analytics to produce anonymised statistics on website usage: to help us to improve our site and the experience of our users. Google Analytics uses cookies in this process. 
+Cookies are small text files placed on your device by the web server via your browser, and may be used to collect information to help identify you and prepare customised pages for you. Cookies may remain on your computer either for the duration of the session or indefinitely. You can configure most standard web browsers to refuse cookies.
 
 Occasionally, we give users the opportunity to save settings for viewing pages. This involves the setting of a cookie. We do not track such cookies. 
 
 Information on cookies can be obtained from [www.allaboutcookies.org](http://www.allaboutcookies.org/).
 
-### Google Analytics
+#### Google Analytics
 
-This website uses Google Analytics, a web analytics service provided by Google, Inc. ("Google").  Google Analytics uses "cookies", which are text files placed on your computer, to help the website analyze how users use the site. The information generated by the cookie about your use of the website (including your IP address) will be transmitted to and stored by Google on servers in the United States. Google will use this information for the purpose of evaluating your use of the website, compiling reports on website activity for website operators and providing other services relating to website activity and internet usage. Google may also transfer this information to third parties where required to do so by law, or where such third parties process the information on Google's behalf. Google will not associate your IP address with any other data held by Google. You may refuse the use of cookies by selecting the appropriate settings on your browser, however please note that if you do this you may not be able to use the full functionality of this website. By using this website, you consent to the processing of data about you by Google in the manner and for the purposes set out above.
+The University and our authorised agents make use of Google Analytics to produce anonymised statistics on website usage: to help us to improve our site and the experience of our users. Google Analytics uses cookies in this process. The information generated by the cookie about your use of the website will be transmitted to and stored by Google on servers in the United States. Google will use this information for the purpose of evaluating your use of the website, compiling reports on website activity for website operators and providing other services relating to website activity and internet usage. Google may also transfer this information to third parties where required to do so by law, or where such third parties process the information on Google's behalf. All data collected is anonymised. 
 
-### Advertising Cookies
+#### Hotjar
 
-We also set cookies for advertising or remarketing purposes: enabling us to serve more tailored advertising as well as helping improve our site for users.
+Hotjar helps us improve the navigation and features on our website, to enhance the user experience.
 
-Google uses cookies like NID and SID to help customize advertising on Google properties, like Google Search. Such cookies remember your most recent searches, your previous interactions with our website, search results, and engagement with our advertising. This helps us to show you customized advertising on Google.
+**Cookie Name** | **Expiration Time** | **Details**  
+---|---|---  
+_hjClosedSurveyInvites | 365 days | This cookie is set once a visitor interacts with a Survey invitation modal popup. It is used to ensure that the same invite does not re-appear if it has already been shown.  
+_hjDonePolls | 365 days | This cookie is set once a visitor completes a poll using the Feedback Poll widget. It is used to ensure that the same poll does not re-appear if it has already been filled in.  
+_hjMinimizedPolls | 365 days | This cookie is set once a visitor minimizes a Feedback Poll widget. It is used to ensure that the widget stays minimizes when the visitor navigates through your site.  
+_hjDoneTestersWidgets | 365 days | This cookie is set once a visitor submits their information in the Recruit User Testers widget. It is used to ensure that the same form does not re-appear if it has already been filled in.  
+_hjMinimizedTestersWidgets | 365 days | This cookie is set once a visitor minimizes a Recruit User Testers widget. It is used to ensure that the widget stays minimizes when the visitor navigates through your site.  
+_hjDoneSurveys | 365 days | This cookie is set once a visitor completes a survey. It is used to only load the survey content if the visitor hasn't completed the survey yet.  
+_hjIncludedInSample | 365 days | This session cookie is set to let Hotjar know whether that visitor is included in the sample which is used to generate funnels.  
+_hjShownFeedbackMessage | 365 days | This cookie is set when a visitor minimizes or completes Incoming Feedback. This is done so that the Incoming Feedback will load as minimized immediately if they navigate to another page where it is set to show.  
+  
+#### Marketing cookies
 
-We also use cookies for advertising we serve across the web. The main advertising cookie on non-Google sites is called ‘id’ and it is stored in browsers under the domain doubleclick.net. With the DoubleClick product, a cookie called ‘__gadvertising’ may be set on the domain of the site you are visiting. Unlike cookies that are set on Google's own domains, this cookie can't be read by Google when you're on other sites. It serves purposes such as measuring interactions with the advertising on that domain and preventing the same advertising from being shown to you too many times.
-
-Some of our other cookies may be used to measure conversion events as well. For example, DoubleClick and Google Analytics cookies may also be used for this purpose.
-
-We also use the MediaMath provider to deliver advertising on behalf of the University. Details of their policies and opt-out mechanisms can be found at [www.mediamath.com/privacy-policy](http://www.mediamath.com/privacy-policy/)
+Marketing cookies are used to ensure our marketing content is relevant, timely and interest based.  They allow our approved partner to measure effectiveness and serve appropriate and personalised marketing messages on other websites based on your activity on our site. 
 
 More information on cookies can be obtained from [www.allaboutcookies.org](http://www.allaboutcookies.org/).
+
+## Marketing cookies in detail
+
+Cookie Name | Domain | Expiry Details * | Detailed Description  
+---|---|---|---  
+datr | .facebook.com | Session - 2 years | Created when a web browser accesses facebook.com it helps Facebook identify suspicious login activity  
+fr | .facebook.com | 3 months | Allows control over the "Follow us on Facebook" and "Like" buttons  
+sb | .facebook.com | 3 months | Allows control over the "Follow us on Facebook" and "Like" buttons, collect the language settings and allow you to share the page  
+   
+PREF | .youtube.com | 8 months | Registers a unique ID that is used by Google to keep statistics of how the visitor uses YouTube videos across different websites.  
+VISITOR_INFO1_LIVE | .youtube.com | 8 months | Tries to estimate the users' bandwidth on pages with integrated YouTube videos.  
+YSC | .youtube.com | Session | Registers a unique ID to keep statistics of what videos from YouTube the user has seen.  
+remote_sid | .youtube.com | Session | This cookie is set by the YouTube video service on pages with embedded YouTube video.  
+   
+IDE | .doubleclick.net | 1 year | These cookies are set by Google, and are used to tailor advertising to a user and help match activity of users across devices.  
+DSID | .doubleclick.net | 1 month | These cookies are set by Google, and are used to tailor advertising to a user and help match activity of users across devices.  
+guest_id | .twitter.com | 2 years | Collects anonymous data related to the user's visits to the website, such as the number of visits, average time spent on the website and which pages have been loaded, with the purpose of personalising and improving the Twitter service.  
+personalization_id | .twitter.com | 2 years | This cookie is set due to Twitter integration and sharing capabilities for the social media.  
+   
+lang | .ads.linkedin.com | Session | Remembers the user's selected language version of a website  
+BizoID | .ads.linkedin.com | Session - 6 months | Used for user identification for remarketing purposes.  
+UserMatchHistory | .ads.linkedin.com | Session - 6 months | Provides information about users based on their linkedIn profile data  
+lidc | linkedin.com | Session | Used by the social networking service, LinkedIn, for tracking the use of embedded services.  
+bcookie | linkedin.com | Session - 2 years | Used by the social networking service, LinkedIn, for tracking the use of embedded services.  
+   
+1P_JAR | .google.co.uk | Session - 6 months | This suite of cookies is used by Google to keep a track of user conversions, store preferences and use those preferences to serve (or not serve) advertising around the web, based on user interests and engagement.  
+CONSENT | .google.co.uk | 21 Years  
+APISID | .google.com | Session - 2 years  
+DV | www.google.co.uk | Session - 6 months | Google ad personalisation  
+OGPC | .google.co.uk | Session - 6 months | This cookie is used by Google to provide services and obtain anonymous information on browsing activity.  
+NID | .google.co.uk | Session - 6 months | Google ad personalisation  
+NID | .google.com | Session - 6 months | Google ad personalisation  
+SAPISID | .google.co.uk | Session | Used by Google to store user preferences and information of Google maps  
+APISID | .google.co.uk | Session - 2 years | Used by Google to store user preferences and information of Google maps  
+SSID | .google.co.uk | Session | This suite of cookies are used by Google to keep a track of user conversions, store preferences and use those preferences to serve (or not serve) advertising around the web, based on user interests and engagement.  
+NID | .google.com | 6 months | This cookie is set by Google tracks your preferences, such as preferred language and location.  
+NID | .gstatic.com | 6 months | This cookie is set by Google tracks your preferences, such as preferred language and location.  
+SID | .google.co.uk | Session - 2 Years | Google uses this cookie to keep track of Google user activity on individual websites to assist with security monitoring of logged in Google Account users. This cookie is also used for content and advertising personalisation.  
+HSID | .google.co.uk | Session - 2 Years | Google uses this cookie to keep track of Google user activity on individual websites to assist with security monitoring of logged in Google Account users. This cookie is also used for content and advertising personalisation.  
+   
+au | .rubiconproject.com | 1 year | Rubicon Project cookies gather information with the goal of optimising the effectiveness of advertisements  
+cd | .rubiconproject.com | 1 year | Rubicon Project cookies gather information with the goal of optimising the effectiveness of advertisements  
+khaos | .rubiconproject.com | 1 year | Registers anonymised user data, such as IP address, geographical location, visited websites, and what ads the user has clicked, with the purpose of optimising ad display based on the user's movement on websites that use the same ad network.  
+put_1185 | .rubiconproject.com | 1 year | Registers anonymised user data, such as IP address, geographical location, visited websites, and what ads the user has clicked, with the purpose of optimising ad display based on the user's movement on websites that use the same ad network.  
+rpb | .rubiconproject.com | 1 month | Registers anonymised user data, such as IP address, geographical location, visited websites, and what ads the user has clicked, with the purpose of optimising ad display based on the user's movement on websites that use the same ad network.  
+rpx | .pixel.rubiconproject.com | 1 month | Rubicon Project cookies gather information with the goal of optimising the effectiveness of advertisements  
+ruid | .rubiconproject.com | 3 months | Rubicon Project cookies gather information with the goal of optimising the effectiveness of advertisements  
+   
+TDCPM | .adsrvr.org | 1 year | Registers a unique ID that identifies a returning user's device. The ID is used for targeted ads.  
+TDID | .adsrvr.org | 1 year | Registers a unique ID that identifies a returning user's device. The ID is used for targeted ads.  
+   
+HRL8 | .mathtag.com | 4 weeks | Programmatic pixels - Used for campaign tracking, optimisation and retargeting.  
+bs_mop_u3s | u3s.mathtag.com | Session | Used for advertisers that intend to buy ads on certain supply sources. They contain an Advertiser ID and timeout information.  
+mt_misc | .mathtag.com | 1 month | Used to hold attributes about the browser for fraud prevention and other technical optimizations.  
+mt_mop | .mathtag.com | 1 month | Used to synchronize the visitor ID with a limited number of trusted exchanges and data partners  
+uuid | .mathtag.com | 1 year | Used to identify a unique visitor. It contains a unique, pseudonymous browser identifier. It does not contain information that is reasonably linkable to an identifiable person.  
+uuidc | .mathtag.com | 1 year  
+   
+anj | .adnxs.com | 3 months | Programmatic advertising - used for campaign tracking, optimisation and retargeting - The anj cookie contains data denoting whether a cookie ID is synced with our partners. ID syncing enables our partners to use their data from outside the Platform on the Platform.  
+icu | .adnxs.com | 3 months | The icu cookie is used to select ads and limit the number of times a user sees a particular ad. It contains information such as the number of times an ad has been shown, how recently an ad has been shown, or how many total ads have been shown.  
+sess | .adnxs.com | 1 Day | The sess cookie contains a single non-unique value: “1”. It is used by the Platform to test whether a browser is configured to accept cookies from AppNexus.  
+uuid2 | .adnxs.com | 3 months | This cookie contains a unique randomly-generated value that enables the Platform to distinguish browsers and devices. It is matched against information – such as advertising interest segments and histories of ads shown in the browser or device – provided by clients or other third parties and stored on the Platform. This information is used by clients to select advertisements for delivery by the Platform, and to measure the performance of, and attribute payment for, those advertisements. In addition, to enable clients to use non-PII they collect outside the Platform or acquire from other third parties, this cookie is sometimes matched to clients’ or other third parties’ cookies that contain such non-PII.  
+uid2 | .adnxs.com | 3 months  
+   
+TapAd_DID | tapad.com | 2 months | Used to determine what type of devices (smartphones, tablets, computers, TVs etc.) is used by a user.   
+TapAd_TTD_SYNC | tapad.com | 2 months | Used to determine what type of devices (smartphones, tablets, computers, TVs etc.) is used by a user.   
+TapAd_TS | tapad.com | 2 months | Used to determine what type of devices (smartphones, tablets, computers, TVs etc.) is used by a user.   
+   
+id | .mookie1.com | 1 Year | Used to build a profile of your interests and show you relevant adverts on other sites. This is based on uniquely identifying your browser and internet device.   
+mdata | .mookie1.com | 1 Year | Registers a unique ID that identifies a returning user's device. The ID is used for targeted ads.  
+syncdata_DBC | .mookie1.com | 9 Days | Used to build a profile of your interests and show you relevant adverts on other sites. This is based on uniquely identifying your browser and internet device.   
+syncdata_TAP | .mookie1.com | 9 Days | Used to build a profile of your interests and show you relevant adverts on other sites. This is based on uniquely identifying your browser and internet device.   
+syncdata_TTD | .mookie1.com | 9 Days | Used to build a profile of your interests and show you relevant adverts on other sites. This is based on uniquely identifying your browser and internet device.   
+   
+UIDR | .scorecardresearch.com | 1 month | AddThis also makes use of Scorecard Research tracking which sets the UID and UIDR 3rd party cookies for browser behaviour research.  
+UID | .scorecardresearch.com | 1 month | AddThis also makes use of Scorecard Research tracking which sets the UID and UIDR 3rd party cookies for browser behaviour research.  
+   
+stx_user_id | .sharethrough.com | 1 month | Analytics, multivariate testing, and site optimisation.  
+   
+  |   | * Timings may vary |    
+  
+
+
+This privacy notice explains how the University of Glasgow’s Development & Alumni Office (DAO) collects, manages, uses and protects your data. It outlines the types of data we hold and how we use that data to provide services to our alumni and supporters, and manage their interaction with the University.
+
+The DAO is part of the University of Glasgow, and the University is the data controller. You can find out more about the University’s data protection policies at [gla.ac.uk/myglasgow/dpfoioffice](https://www.gla.ac.uk/myglasgow/dpfoioffice/)
+
+## Our legal basis for processing your data
+
+The DAO processes and stores personal information relating to alumni, students and staff, as well as current and potential supporters and friends of the University including those who attend University events. Alumni include graduates, former students receiving non-graduating qualifications and former exchange students.
+
+All graduates of the University of Glasgow are members of the General Council, the graduate and academic body of the University. As part of our public task the University has a statutory obligation to retain a list of General Council members, to conduct General Council elections and to inform members about General Council activities. You can find out more about the General Council at [gla.ac.uk/explore/generalcouncil](https://www.gla.ac.uk/explore/generalcouncil/).
+
+For purposes other than General Council membership, the DAO processes the information outlined in this notice in pursuit of our legitimate interests in: 
+
+  * communicating with alumni, students, staff, events attendees, and current and potential supporters
+  * providing benefits and services to alumni, students, staff, friends and supporters
+  * furthering the University’s educational charitable mission (including fundraising and securing the support of volunteers)
+  * enabling the University to achieve its strategic and operational goals.
+
+
+
+We may contact you by post, email, phone, text and/or social media. Where appropriate, the DAO will sometimes process your data on an alternative legal basis – for example, where you have given your consent for us to do so.
+
+## Where your data comes from
+
+Most of the data held by the DAO is obtained directly from our alumni, donors and friends. Core alumni information is carried over from their student record. We may receive data from the colleges, schools or units within the University. Data is also collected directly from alumni such as when they update their details online, return an alumni questionnaire or donation form, meet with one of our team or attend an event.
+
+Some information may also come from reliable, public sources. For example, the Electoral Register or the National Change of Address Register.
+
+## The data we hold
+
+We hold the following types of information about our alumni, supporters and friends.
+
+  * Your name, title, gender, and date of birth if we have it.
+  * Your preferred postal address and any known previous address, as well as email addresses and telephone numbers.
+  * If you are an alumnus/a, your University qualification(s) or those gained from predecessor institutions. For some alumni, we may hold course information and details of your membership of clubs, societies and alumni groups as well as any scholarships or awards held as a student.
+  * A log of our interactions with you, including agreed notes from any meetings with you, communications we have sent or if we have received communication from you, if we asked for your support, or invited you to an event and any event attendance.
+  * Communication preferences, such as whether you receive Avenue by post or email, or if you have told us you do not want any contact from us.
+
+
+
+We may also hold some of the following, based on the information you provide to us or, in some cases, from trustworthy public sources.
+
+  * Donation information, including gift aid status (as required by HMRC).
+  * Event-related information such as dietary or access requirements or car registration.
+  * Your membership of the Network and your volunteering at the University.
+  * Business details, such as job title, employer/ company name and contact information.
+  * Your career highlights or other achievements, including media articles.
+  * Links to social media accounts such as Linkedin.
+  * The name of your partner/spouse and other family relationships, or connections you may have with other alumni and supporters of the University.
+  * Information about your areas of interest, including your volunteering or philanthropic giving to other organisations.
+  * Information about your ability to support the University, such as your income if you have told us, as well as information on publicly quoted remuneration.
+
+
+
+## How we use your data
+
+We will use your details to manage your interaction with the University and to contact you by post, email, phone, text and/or social media, complying with any preferences you have expressed: see **Your rights and preferences** below. We contact you to
+
+  * keep you informed of University news, and the achievements and advances being made by the University, its students and staff, and our alumni
+  * tell you about the benefits of being an alumnus/a of the University, including discounts and services
+  * invite you to events hosted by the University, partner organisations or your fellow alumni (for example reunions)
+  * offer opportunities for you to engage with the University as an ambassador, volunteer, friend and supporter. This may include asking you for your financial support through making a gift to one of the projects which help to deliver the University’s mission of creating and sharing knowledge, or asking you to give your time to help students.
+
+
+
+To use University resources efficiently and effectively we may use the data we hold to determine the support opportunities and communications most relevant to you. As part of that, we may consider your ability to give support (including financial ability) and may record this on our database. To support this activity, we may use automated or manual processes such as wealth screening to analyse and segment our data. On occasion, we may use trusted third parties to carry out this analysis. The DAO and these third parties may augment any analysis conducted using information from trustworthy public sources such as Companies House, news sources such as Nexis and specialist subscription services for both individual and company information, such as FAME. You will always have the opportunity to opt out of any of this processing: see **Your rights and preferences** below.
+
+We may also use publicly available sources to carry out due diligence on financial supporters in line with our Gift Acceptance Policy and to meet money laundering and other regulations.
+
+If you provide contact information, and unless you specify otherwise, we will assume this includes consent for us to use that data for the purposes listed above. For example, if you provide us with a telephone number registered with the Telephone Preference Service, we will assume you are happy for us to use this number for the purposes stated above. If we lose touch with you, we may use publicly available contact details to re-establish our connection and seek your permission to update your contact details. You can manage your communications preferences at any time.
+
+The University has a legal obligation to supply information about our graduates for certain statutory surveys. For example, we provide contact information to the Higher Education Statistics Authority for the purposes of the Graduate Outcomes survey. This is regulated by the UK Statistics Authority.
+
+## Protecting your data
+
+The personal information we obtain is processed in accordance with all relevant data protection legislation. When this legislation is amended or replaced, we review and update our data processing practices accordingly.
+
+Your data is always securely processed and transmitted, protecting against unauthorised or unlawful processing, accidental loss, destruction or damage. Your data will not be disclosed to any external organisations except for those acting as agents for the University under defined written agreements. Data is never “sold” to third parties. Limited data may be shared with affiliates of the University such as senior volunteers serving on our boards. This information is shared only for University purposes and is not retained by the affiliate for longer than necessary.
+
+Some of your data may be anonymised and shared with a third party to help with the preparation and management of our fundraising. None of your data is retained by the third party once the process is complete or used by them for any other purpose.
+
+If you engage with the University through a third party (for example, supporting the University via JustGiving or through a gift to a partner such as American Alumni of Glasgow University in the USA) then we may obtain information about you from that third party. Data obtained in this way is bound by the terms of this privacy notice.
+
+While we are happy to facilitate communication between individual alumni, we will never pass on your details without prior permission.
+
+From time to time it may be necessary to share some of your information to trusted third parties outside the EEA. For example, event venues may require details of attendees for safety and security purposes. We will seek your consent to use data for these purposes and ensure these third parties provide an adequate level of protection in accordance with UK data protection law.
+
+## Your rights and preferences
+
+The DAO considers its relationship with alumni and supporters to be lifelong. We will always try to ensure that the data we hold for you is up to date, reasonable and not excessive. You always have the right to:
+
+  * be informed as to how we use your data (via this privacy notice)
+  * access or request a copy of the data we hold about you (see below)
+  * update your information and/or manage your communications preferences at any time
+  * opt out of specific types of processing
+  * ask us to remove your data from our records (see below)
+  * withdraw consent, where it is used as a legal basis for processing.
+
+
+
+At any time, you can
+
+  * update your details at [gla.ac.uk/alumni/reconnect/updateyourdetails](https://web.archive.org/alumni/reconnect/updateyourdetails/)
+  * specify your communication preferences at [gla.ac.uk/alumni/communicationpreferences](https://web.archive.org/alumni/communicationpreferences/)
+  * contact us at [alumni@glasgow.ac.uk](mailto:alumni@glasgow.ac.uk) to tell us about your preferences.
+
+
+
+If you are an alumnus/a and exercise your right to be removed from our database, we will maintain some core data (name, qualification information, General Council number, date of birth) for archive purposes and to ensure we do not contact you inadvertently in future. If you are a donor, we may also need to retain some financial records for the period of time required for statutory purposes (for example Gift Aid, anti-fraud and accounting matters).
+
+## Contact Us
+
+If you have any questions about this privacy notice please contact us at
+
+**Development & Alumni Office**University of Glasgow2-3 The SquareGlasgowG12 8QQT: +44 (0)141 330 4951E: [alumni@glasgow.ac.uk](mailto:alumni@glasgow.ac.uk)
+
+For wider enquiries about how the University manages information please contact
+
+**Data Protection & Freedom of Information Office**Tay HouseUniversity of GlasgowGlasgowG12 8QQ
+
+## Future changes
+
+From time to time we may use your data for new purposes not currently described in this privacy notice. If our data practices change at some time in the future we will always post the policy changes on this page.
+
+## Note regarding addresses in China
+
+If the address we hold for you is in China we will use your data in accordance with Chinese laws and regulations on fundraising.
+
+Updated April 2018
+
+### Surveillance and monitoring
+
+Staff, students and visitors should be aware that the University operates CCTV and similar equipment to monitor safety and security and to aid the prevention and detection of crime. In addition, the University may monitor postal, telecommunications, data communications, and other communications as permitted by the relevant legislation and University Regulations. Please see: Monitoring & Surveillance (CCTV/WebCam).
