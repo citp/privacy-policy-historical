@@ -1,25 +1,25 @@
-> *The following text is extracted and transformed from the gosunoob.com privacy policy that was archived on 2018-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181231070637id_/http%3A//www.gosunoob.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gosunoob.com privacy policy that was archived on 2019-03-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190330124608id_/https%3A//www.gosunoob.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - GosuNoob.com Video Game News & Guides
 
 ### 1\. Who we are
 
-The GosuNoob.com website is maintained by the [GosuNoob staff](http://www.gosunoob.com/us/), and protecting the privacy of our visitors is important to us. This policy describes the collection, use, disclosure, retention and protection of your personal information. This notice applies to any website or service which references this Privacy Policy. Where you provide us with your personal information in any of the ways described in section 2 below, you agree that we may collect, store and use it (a) in order to perform our contractual obligations to you, (b) based on our legitimate interest for processing (i.e. for internal administrative purposes or for the detection or prevention of crime) or (c) based on your consent, which you may withdraw at any time, as described in this Privacy Notice. These policy practices may be different than the practices of companies that GosuNoob.com does not own or control, or of people that GosuNoob.com does not manage or employ. Please read the following policy to understand how your personal information will be treated as you use our website. 
+The GosuNoob.com website is maintained by the [GosuNoob staff](https://www.gosunoob.com/us/), and protecting the privacy of our visitors is important to us. This policy describes the collection, use, disclosure, retention and protection of your personal information. This notice applies to any website or service which references this Privacy Policy. Where you provide us with your personal information in any of the ways described in section 2 below, you agree that we may collect, store and use it (a) in order to perform our contractual obligations to you, (b) based on our legitimate interest for processing (i.e. for internal administrative purposes or for the detection or prevention of crime) or (c) based on your consent, which you may withdraw at any time, as described in this Privacy Notice. These policy practices may be different than the practices of companies that GosuNoob.com does not own or control, or of people that GosuNoob.com does not manage or employ. Please read the following policy to understand how your personal information will be treated as you use our website. 
 
 This policy may change from time to time, so please check back periodically. 
 
 ## 2\. What personal data we collect and why we collect it
 
-To the extent permissible under applicable law, we collect information about you and any other party whose details you provide to us when you: 
+To the extent permissible under applicable law, we collect information about you and any other party whose details you provide to us when you:
 
   * complete online forms (such as post comments or register as a site contributor), enter any competitions or prize draws or participate in any other interactive areas that appear on our website;
   * interact with us using social media;
-  * provide your contact details to us when accessing any websites or services we make available or when you update those details; 
+  * provide your contact details to us when accessing any websites or services we make available or when you update those details;
   * contact us offline, for example by telephone, email or post.
 
 
 
-We also collect information from your devices (including mobile devices) and browsers you use to access and use any of our websites or services (for example, we may collect the device identification number and type, location information and connection information such as statistics on your page views, traffic to and from the sites, referral URL, ad data, and your IP address). We may do this using cookies or similar technologies. This is done for our own internal administrative purposes and detection or prevention of malicious behavior or crime. 
+We also collect information from your devices (including mobile devices) and browsers you use to access and use any of our websites or services (for example, we may collect the device identification number and type, location information and connection information such as statistics on your page views, traffic to and from the sites, referral URL, ad data, and your IP address). We may do this using cookies or similar technologies. This is done for our own internal administrative purposes and detection or prevention of malicious behavior or crime.
 
 If you intend giving us personal information about someone else, you are responsible for ensuring that you comply with any obligation and consent obligations under applicable data protections laws. In so far as required by applicable data protection laws, you must ensure that beforehand you have their explicit consent to do so and that you explain to them how we collect, use, disclose and retain their personal information or direct them to read our Privacy Notice
 
@@ -45,7 +45,7 @@ There are cookies that are stored for the purpose of Analytics. More detailed ex
 
 We keep a record of traffic data which is logged automatically by our servers (both our web site servers and our ad serving technologies), such as your Internet Protocol (IP) address, device information, the website that you visited before ours and the website you visit after leaving our site. We also collect some site and service statistics such as access rates and page views. We are not able to identify any individual from traffic data or site statistics.
 
-You may be able to configure your browser or our website or the websites of our partners to restrict cookies or block all cookies if you wish, however if you disable cookies you may find this affects your ability to use certain parts of our website, or services. For more information about cookies and instructions on how to adjust your browser settings to accept, delete or reject cookies, see the [www.youronlinechoices.co.uk](http://www.youronlinechoices.co.uk/) website. 
+You may be able to configure your browser or our website or the websites of our partners to restrict cookies or block all cookies if you wish, however if you disable cookies you may find this affects your ability to use certain parts of our website, or services. For more information about cookies and instructions on how to adjust your browser settings to accept, delete or reject cookies, see the [www.youronlinechoices.co.uk](http://www.youronlinechoices.co.uk/) website.
 
 ## 3\. Analytics
 
@@ -59,7 +59,7 @@ These websites may collect data about you, use cookies, embed additional third-p
 
 ## 5\. Sharing your information
 
-We may share your information with: 
+We may share your information with:
 
   * third parties which process information on our behalf (e.g. internet service and platform providers, advertising agencies, agency trading desks, supply side platforms and data management platforms) so that they may help us to provide you with the products, services and information you have requested or which we believe is of interest to you;
   * partners, including website and mobile app publishers, resellers and developers that may help us to provide you with the products, services and information you have requested or which we believe is of interest to you;
@@ -73,11 +73,11 @@ We may share your information with:
 
 
 
-We may share non-personally identifiable information about the use of our website, applications, products or services publicly or with third parties but this will not include information that can be used to identify you. 
+We may share non-personally identifiable information about the use of our website, applications, products or services publicly or with third parties but this will not include information that can be used to identify you.
 
 ## 6\. Your information and your rights
 
-If you are based within the EEA or within another jurisdiction having similar data protection laws, in certain circumstances you have the following rights: 
+If you are based within the EEA or within another jurisdiction having similar data protection laws, in certain circumstances you have the following rights:
 
   * the right to be told how we use your information and obtain access to your information;
   * the right to have your information rectified or erased or place restrictions on processing your information;
@@ -99,7 +99,7 @@ We will retain your personal information for the duration of our business relati
 
 We will keep your information secure by taking appropriate technical and organisational measures against its unauthorised or unlawful processing and against its accidental loss, destruction or damage. We will do our best to protect your personal information but we cannot guarantee the security of your information which is transmitted to our website or services or to other website, applications and services via an internet or similar connection. If we have given you (or you have chosen) a password to access certain areas of our websites or services please keep this password safe – we will not share this password with anyone. 
 
-If you believe your account has been compromised, please contact us at privacy@gosunoob.com. 
+If you believe your account has been compromised, please contact us at privacy@gosunoob.com.
 
 ## 8\. Transfers outside of the European Economic Area
 
@@ -111,8 +111,8 @@ We may use service providers based outside of the EEA to help us provide our web
 
 We take steps to ensure that where your information is transferred outside of the EEA by our service providers and hosting providers, appropriate measures and controls are in place to protect that information in accordance with applicable data protection laws and regulations. In each case, such transfers are made in accordance with the requirements of Regulations (EU) 2016/679 (the General Data Protection Regulations or “GDPR”) and may be based on the use of the European Commission’s Standard Model Clauses for transfers of personal data outside the EEA. 
 
-By using our website, products or services or by interacting with us in the ways described in this Privacy Notice, you consent to the transfer of your information outside the EEA in the circumstances set out in this Privacy Notice. If you do not want your information to be transferred outside the EEA you should not use our website, applications or services. 
+By using our website, products or services or by interacting with us in the ways described in this Privacy Notice, you consent to the transfer of your information outside the EEA in the circumstances set out in this Privacy Notice. If you do not want your information to be transferred outside the EEA you should not use our website, applications or services.
 
 ## 9\. Further information
 
-If you have any queries about how we treat your information, the contents of this notice, your rights under local law, how to update your records or how to obtain a copy of the information that we hold about you, please write to our Data Protection Officer at MMORPG Life, Ljube Didica 1, 11000 Belgrade, Serbia or send an email to privacy@gosunoob.com 
+If you have any queries about how we treat your information, the contents of this notice, your rights under local law, how to update your records or how to obtain a copy of the information that we hold about you, please write to our Data Protection Officer at MMORPG Life, Ljube Didica 1, 11000 Belgrade, Serbia or send an email to privacy@gosunoob.com
