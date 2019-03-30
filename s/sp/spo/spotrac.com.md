@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the spotrac.com privacy policy that was archived on 2018-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181125122344id_/https%3A//www.spotrac.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the spotrac.com privacy policy that was archived on 2019-03-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190331004206id_/https%3A//www.spotrac.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Spotrac.com
 
