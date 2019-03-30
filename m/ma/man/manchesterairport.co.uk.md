@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the manchesterairport.co.uk privacy policy that was archived on 2018-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180623102510id_/http%3A//www.manchesterairport.co.uk/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the manchesterairport.co.uk privacy policy that was archived on 2019-03-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190330170904id_/https%3A//www.manchesterairport.co.uk/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Manchester Airport
 
@@ -67,6 +67,8 @@ We also use CCTV at our airports for security reasons and to manage our airports
 
   * The free WiFi service in our airport is provided by Virgin Media. When you sign up to use the WiFi in our airports, your personal information is collected by Manchester Airport. We will use your personal information to market our relevant products and services to you.
 
+  * We collect your biometric data at Manchester Airport Terminal 3. The images are retained for a period of 24 hours and only shared with the police or immigration for national security purposes.
+
 
 
 
@@ -96,7 +98,7 @@ We may disclose your personal information to any member of our group, which mean
 
 We will always make it clear if your personal information is going to be shared with a third party for marketing.
 
-We may share your personal information if we are under a duty to disclose or share your personal information to comply with any legal obligation, court or police request, or to enforce or apply our [terms of use](https://www.magairports.com/site-tools/terms-conditions/) or [terms and conditions of sale](http://www.manchesterairport.co.uk/terms-and-conditions/) and other agreements; or to protect the rights, property, or safety of Manchester Airport Limited and the Manchester Airport Group PLC, our customers, or others.
+We may share your personal information if we are under a duty to disclose or share your personal information to comply with any legal obligation, court or police request, or to enforce or apply our [terms of use](https://www.magairports.com/site-tools/terms-conditions/) or [terms and conditions of sale](https://www.manchesterairport.co.uk/terms-and-conditions/) and other agreements; or to protect the rights, property, or safety of Manchester Airport Limited and the Manchester Airport Group PLC, our customers, or others.
 
 
 
@@ -107,7 +109,7 @@ Some of our services are provided by third parties on our behalf. In these insta
 
 Our website may contain links to other websites of interest. We do not have any control over other websites and we are not responsible for the protection and privacy of any information which you provide whilst visiting such sites and such sites are not covered by this privacy notice. You should exercise caution and look at the privacy policy applicable to the website in question.
 
-  * We use several third parties to provide the goods and services that you require. For a list of our third parties, please click [here](http://www.manchesterairport.co.uk/help/third-party-contacts/).
+  * We use several third parties to provide the goods and services that you require. For a list of our third parties, please click [here](https://www.manchesterairport.co.uk/help/third-party-contacts/).
 
 Dixons – When you reserve a technology item on our website, we share your personal information with Dixons. This will help them to easily identify your reservation, reserve it and hand it over to you when you arrive at their store in the duty-free area of the airport. If you would like to know how Dixons treats your personal data, please click [here](http://www.dixonsretail.com/site-services/privacy/).
 
@@ -139,7 +141,7 @@ PayPal – Handles payment transactions. You can view their privacy notice [here
 
 We also share anonymised data with Facebook and Google. The data shared cannot be viewed by a natural person. They are encrypted data which Facebook and Google may use to provide tailored services to you whilst you use their websites. For a view of how Facebook and Google use your personal data to match you with the right products and services, please check out their websites.
 
-Please click [here](http://www.manchesterairport.co.uk/help/third-party-contacts/) to get a list of our third parties and affiliates.
+Please click [here](https://www.manchesterairport.co.uk/help/third-party-contacts/) to get a list of our third parties and affiliates.
 
 
 
@@ -148,7 +150,7 @@ Please click [here](http://www.manchesterairport.co.uk/help/third-party-contacts
 
 The General Data Protection Regulation gives you certain rights relating to the personal data that is processed by Manchester Airport. Find below the list of rights and what they mean. If you wish to exercise any of these rights, please contact our Data Protection Officer at our address below, or alternatively you can send an email to [DPO@magairports.com](mailto:DPO@magairports.com). You will receive an acknowledgement within three working days of sending your request and a full response within twenty-eight days of receiving all the relevant information required to handle your request.
 
-  * Right of Access – You have the right to access all the personal information and supplementary information that we hold about you. This will allow you to be aware of and verify the lawfulness of us processing your information. We would respond to your subject access request within twenty-eight days. Please use this form [here](http://mag-umbraco-media-live.s3.amazonaws.com/1001/subject-access-request.docx) or contact our Data Protection Officer at the address at the end of this notice, if you wish to make a subject access request.
+  * Right of Access – You have the right to access all the personal information and supplementary information that we hold about you. This will allow you to be aware of and verify the lawfulness of us processing your information. We would respond to your subject access request within twenty-eight days. Please use this form [here](https://live-webadmin-media.s3.amazonaws.com/media/4165/subject-access-request.docx) or contact our Data Protection Officer at the address at the end of this notice, if you wish to make a subject access request.
 
   * Right to Rectify – You have the right to request for your inaccurate personal information to be rectified or completed if it is incomplete.
 
@@ -171,14 +173,14 @@ The General Data Protection Regulation gives you certain rights relating to the 
 
 All the personal information we collect about you is stored by us or our service providers on our behalf. We transfer your personal information outside the EEA only when necessary. We take steps to ensure your personal information is treated securely and in accordance with this privacy policy. Where we have given you (or where you have chosen) a password which enables you to access certain parts of our websites, you are responsible for keeping this password confidential. We ask you not to share a password with anyone.
 
-To provide you with the products and services and our website, we may need to store or transfer your personal information to countries outside the European Economic Area. Our list of third parties who may receive your personal information can be found [here](http://www.manchesterairport.co.uk/help/third-party-contacts/).
+To provide you with the products and services and our website, we may need to store or transfer your personal information to countries outside the European Economic Area. Our list of third parties who may receive your personal information can be found [here](https://www.manchesterairport.co.uk/help/third-party-contacts/).
 
 
 
 
 ##  Cookies 
 
-We use cookies to help us better understand user behaviour, tell us which parts of our websites people have visited, and facilitate and measure the effectiveness of advertisements and web searches. For more information about our cookies policy, please click [here](http://www.manchesterairport.co.uk/cookie-policy/).
+We use cookies to help us better understand user behaviour, tell us which parts of our websites people have visited, and facilitate and measure the effectiveness of advertisements and web searches. For more information about our cookies policy, please click [here](https://www.manchesterairport.co.uk/cookie-policy/).
 
 
 
