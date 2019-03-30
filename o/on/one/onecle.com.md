@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the onecle.com privacy policy that was archived on 2018-10-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181012173044id_/https%3A//www.onecle.com/info/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the onecle.com privacy policy that was archived on 2019-03-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190330150618id_/https%3A//www.onecle.com/info/privacy.shtml) for the most accurate reproduction.*
 
 # Privacy Policy
 
