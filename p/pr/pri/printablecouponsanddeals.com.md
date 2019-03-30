@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the printablecouponsanddeals.com privacy policy that was archived on 2016-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161118110801id_/http%3A//printablecouponsanddeals.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the printablecouponsanddeals.com privacy policy that was archived on 2019-03-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190330101032id_/https%3A//printablecouponsanddeals.com/privacy-policy) for the most accurate reproduction.*
 
-# Printable Coupons and Deals – Privacy & Disclosure Policy
+# Privacy & Disclosure Policy - Printable Coupons and Deals
 
 **Our Privacy Policy**
 
@@ -28,7 +28,7 @@ Protecting the privacy of the very young is especially important. For that reaso
 
 AdSense and General Privacy Policy Provided by JenSense
 
-**Our Disclosure Policy**
+ **Our Disclosure Policy**
 
 This blog is a sponsored blog created or supported by the company that owns it. For questions about this blog, please contact PrintableCouponsAndDeals.com.
 
