@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the jameslist.com privacy policy that was archived on 2018-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181229094853id_/https%3A//www.jamesedition.com/about/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jameslist.com privacy policy that was archived on 2019-03-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190330071440id_/https%3A//www.jamesedition.com/about/privacy-policy) for the most accurate reproduction.*
 
-# JamesEdition.com - The World's Largest Luxury Marketplace
+# Privacy policy | JamesEdition
 
 This privacy policy (the **“Privacy Policy”** ) tells you about how JamesEdition B.V. and/or its subsidiaries (as applicable)( **“JamesEdition”** , **“we”** or **“us”** ) use and protect your personal data. This policy applies where we are acting as a data controller with respect to your personal data. Unless otherwise defined herein, capitalized terms shall have the meaning ascribed to them in the User Agreement. 
 
@@ -26,7 +26,7 @@ We may collect and store any personal data that can be used to directly or indir
 
 
 
-You are not required to provide us the personal data that we request and can, in certain circumstances, stop us from collecting it by submitting a request through the ["contact us"](https://web.archive.org/about/contact) form on our Site. However, if you choose not to provide us the requested personal data, we may not be able to provide you with our services or with a high quality of service, or respond to your communication. 
+You are not required to provide us the personal data that we request and can, in certain circumstances, stop us from collecting it by submitting a request through the "contact us" form on our Site. However, if you choose not to provide us the requested personal data, we may not be able to provide you with our services or with a high quality of service, or respond to your communication. 
 
 ## 3\. Marketing
 
@@ -113,7 +113,7 @@ Please note that third parties (including, for example, advertising networks and
 
 ## 9\. No Spam, Spyware or Spoofing
 
-We and our users do not tolerate spam. Make sure to set your JamesEdition notification preferences so we communicate to you as you prefer. You are not licensed to add other JamesEdition users, even a user who has purchased an item from you, to your mailing list (email or physical mail) without their express consent. To report JamesEdition-related spam or spoof emails to JamesEdition, please [contact us](https://web.archive.org/about/contact). You may not use our communication tools to send spam or otherwise send content that would violate our User Agreement. We automatically scan and may manually filter messages to check for spam, viruses, phishing attacks and other malicious activity or illegal or prohibited content, but we do not permanently store messages sent through these tools.
+We and our users do not tolerate spam. Make sure to set your JamesEdition notification preferences so we communicate to you as you prefer. You are not licensed to add other JamesEdition users, even a user who has purchased an item from you, to your mailing list (email or physical mail) without their express consent. To report JamesEdition-related spam or spoof emails to JamesEdition, please contact us. You may not use our communication tools to send spam or otherwise send content that would violate our User Agreement. We automatically scan and may manually filter messages to check for spam, viruses, phishing attacks and other malicious activity or illegal or prohibited content, but we do not permanently store messages sent through these tools.
 
 ## 10\. Account Protection
 
@@ -139,7 +139,7 @@ You have certain rights listed below over how the data is processed and can exer
 
 
 
-You can exercise your rights by submitting a request through the ["contact us"](https://web.archive.org/about/contact) form on our Site. 
+You can exercise your rights by submitting a request through the "contact us" form on our Site. 
 
 Upon your request, we will close your account and remove your personal data from view as soon as reasonably possible, based on your account activity and in accordance with applicable law. We may retain personal data from closed accounts to comply with law, prevent fraud, collect any fees owed, resolve disputes, assist with any investigations, enforce our User Agreement, and take other actions otherwise permitted by law.
 
@@ -153,4 +153,4 @@ Except as otherwise expressly included in this Privacy Policy, this document add
 
 ## 14\. General
 
-We may amend this Privacy Policy at any time by posting the amended terms on the Site. All amended terms automatically take effect on the day they are posted on the Site. If your questions are not answered online, you may [contact us](https://web.archive.org/about/contact)
+We may amend this Privacy Policy at any time by posting the amended terms on the Site. All amended terms automatically take effect on the day they are posted on the Site. If your questions are not answered online, you may contact us
