@@ -1,9 +1,9 @@
-> *The following text is extracted and transformed from the virink.com privacy policy that was archived on 2018-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180627113850id_/https%3A//virink.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the virink.com privacy policy that was archived on 2019-03-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190330135156id_/https%3A//virink.com/privacy) for the most accurate reproduction.*
 
 # Privacy
 
   * [VIRINK](https://web.archive.org/)
-[__  Log in with Facebook](https://www.facebook.com/v2.8/dialog/oauth?client_id=1197591183656103&state=15406f1e6bd0ca3751b74e4c762ac026&response_type=code&sdk=php-sdk-5.0.0&redirect_uri=https%3A%2F%2Fvirink.com%2Fauth%2Ffacebook&scope=email) 
+[__  Log in with Facebook](https://www.facebook.com/v2.8/dialog/oauth?client_id=1197591183656103&state=56fd5e1b2ed05b80b21a087cbecafb4f&response_type=code&sdk=php-sdk-5.0.0&redirect_uri=https%3A%2F%2Fvirink.com%2Fauth%2Ffacebook&scope=email) 
 
 
 **Effective date: December 1, 2016**
