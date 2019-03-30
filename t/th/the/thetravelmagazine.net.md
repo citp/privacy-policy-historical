@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thetravelmagazine.net privacy policy that was archived on 2018-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181206172316id_/http%3A//www.thetravelmagazine.net/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thetravelmagazine.net privacy policy that was archived on 2019-03-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190330233536id_/https%3A//www.thetravelmagazine.net/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - The Travel Magazine
 
