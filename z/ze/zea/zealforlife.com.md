@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the zealforlife.com privacy policy that was archived on 2018-08-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180818054846id_/https%3A//portalvhdsvxvs8608mhw0h.blob.core.windows.net/webfiles/ZURVITA_PRIVACY_POLICY_ENG_10106.pdf) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the zealforlife.com privacy policy that was archived on 2019-03-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190330124309id_/https%3A//portalvhdsvxvs8608mhw0h.blob.core.windows.net/webfiles/ZURVITA_PRIVACY_POLICY_ENG_10106.pdf) for the most accurate reproduction.*
 
 # Website Terms of Use
 
