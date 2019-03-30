@@ -1,14 +1,14 @@
-> *The following text is extracted and transformed from the snaptubeapp.com privacy policy that was archived on 2016-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161210083031id_/http%3A//www.snaptubeapp.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the snaptubeapp.com privacy policy that was archived on 2019-03-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190330093701id_/https%3A//www.snaptubeapp.com/privacy) for the most accurate reproduction.*
 
 # Privacy
 
 ## SNAPTUBE PRIVACY POLICY
 
-Here at Wandou Technology (HK) Limited, doing business as SnapTube (“Company,” “we,” “us,” “our”), we know that our users care about how your personal information is used and shared. We take your privacy seriously. Please read the following to learn more about our Privacy Policy.
+Here at Shenzhen DYWX Tech Co., Ltd, doing business as Snaptube (“Company,” “we,” “us,” “our”), we know that our users care about how your personal information is used and shared. We take your privacy seriously. Please read the following to learn more about our Privacy Policy.
 
 By visiting or using the Services in any manner, you acknowledge that you accept the practices and policies outlined in this Privacy Policy, and you hereby consent that we will collect, use, process and share your information as described herein.
 
-Any capitalized terms used herein without definition shall have the meaning given to them in the End User License Agreement: www.snaptubeapp.com/terms.
+Any capitalized terms used herein without definition shall have the meaning given to them in the End User License Agreement: [www.snaptubeapp.com/terms](https://www.snaptubeapp.com/terms).
 
 ### I. PRIVACY PRINCIPLES
 
@@ -24,15 +24,15 @@ This Privacy Policy reflects the following three principles that we strive to up
 
 This Privacy Policy covers our treatment of information that we gather when you are accessing or using our Services. This policy does not apply to the practices of companies that we do not own or control (including, without limitation, the third party content providers from whom you may receive content through the Services), or to individuals that we do not employ or manage.
 
-Company does not knowingly collect or solicit Personal Information from anyone under the age of 13 or knowingly allow such persons to register. If you are under 13, please do not attempt to register for the Website or send any information about yourself to us, including your name, address, telephone number, or email address. No one under age 13 may provide any personal information to Company or on the Website. In the event that we learn that we have collected personal information from a child under age 13 without verification of parental consent, we will delete that information as quickly as possible. If you believe that we might have any information from or about a child under 13, please contact us at [hello@snaptubevideo.com](mailto:hello@snaptubeapp.com).
+Company does not knowingly collect or solicit Personal Information from anyone under the age of 13 or knowingly allow such persons to register. If you are under 13, please do not attempt to register for the Website or send any information about yourself to us, including your name, address, telephone number, or email address. No one under age 13 may provide any personal information to Company or on the Website. In the event that we learn that we have collected personal information from a child under age 13 without verification of parental consent, we will delete that information as quickly as possible. If you believe that we might have any information from or about a child under 13, please contact us at [hello@snaptubevideo.com](mailto:hello@snaptubeapp.com).
 
 ### III. WHAT INFORMATION DOES SNAPTUBE COLLECT?
 
 The information we collect can be generally placed in two categories: 1) data on how the user uses our Services; 2) aggregate data on content the user engages with. We may use this information to personalize and improve our services, to fulfill your requests for certain products and services, and to analyze how you use the Services. We may provide this information to our partners, so that they, too, can provide you with an optimal experience, but we never disclose information to a partner in a manner that would identify you personally. Here are a few examples of data we collect when you use our Services:
 
   * Whenever you interact with our website, we automatically receive and record information on our server logs from your browser including your IP address, “cookie” information, and the page you requested. “Cookies” are identifiers we transfer to your computer or mobile device that allow us to recognize your computer or device and tell us how and when the Services are visited and by how many people. You may be able to change the preferences on your browser or device to prevent or limit your computer or device’s acceptance of cookies, but this may prevent you from taking advantage of some of our features. We may use Google Analytics to gather non-Personal Information. In such cases, you may have the option to disable certain features as described below.
-  * Google Analytics is a web analytics service provided by Google, Inc. ("Google"). Google Analytics uses cookies to help the website analyze how individuals use the Website and Apps. The non-Personal Information generated by the cookie about your use of the site will be transmitted to and stored by Google on servers in the United States of America (“USA”). Google will use this information for the purpose of evaluating your use of the site, compiling reports on site activity for our purpose, evaluation and providing other services relating to the site activity and Internet usage. Google will not associate your IP address with any other data held by Google. You may disable cookies within your browser, however please note that if you do this you may not be able to use the full functionality of the site. By using this site, you consent to the processing of data about you by Google in the manner and for the purposes set out above. For certain browsers, you can also prevent Google from collecting information (including your IP address) via cookies and processing this information by downloading this browser plugin and installing it: http://tools.google.com/dlpage/gaoptout.
-  * Whenever you interact with SnapTube, we automatically receive and record information on our server logs, for example:
+  * Google Analytics is a web analytics service provided by Google, Inc. ("Google"). Google Analytics uses cookies to help the website analyze how individuals use the Website and Apps. The non-Personal Information generated by the cookie about your use of the site will be transmitted to and stored by Google on servers in the United States of America (“USA”). Google will use this information for the purpose of evaluating your use of the site, compiling reports on site activity for our purpose, evaluation and providing other services relating to the site activity and Internet usage. Google will not associate your IP address with any other data held by Google. You may disable cookies within your browser, however please note that if you do this you may not be able to use the full functionality of the site. By using this site, you consent to the processing of data about you by Google in the manner and for the purposes set out above. For certain browsers, you can also prevent Google from collecting information (including your IP address) via cookies and processing this information by downloading this browser plugin and installing it: <https://tools.google.com/dlpage/gaoptout>.
+  * Whenever you interact with Snaptube, we automatically receive and record information on our server logs, for example:
     1. Services usage data. For example, this may include information regarding the version of our software you are using, the location from where you downloaded our software, how often you launch our software, which features you use, and the number of videos you have downloaded. We use this to improve our promotion and help more users discover Company.
     2. Data on the quality of our Services. For example, this may include information regarding crashes and your connection between your phone and your computer. This data allows us to make our software more stable and faster.
     3. Data on user downloads. For example, this may include information regarding which videos you download and your average download speed. This allows us to choose our content partners, and alerts us if downloads become slow or unreliable.
@@ -80,7 +80,7 @@ We may amend this Privacy Policy from time to time. Use of information we collec
 
 ### VIII. HOW CAN YOU OPT-OUT, REMOVE OR MODIFY INFORMATION YOU HAVE PROVIDED TO US?
 
-To modify your email subscriptions, please let us know by modifying your preferences in your account or by sending us an email at the address below. Please note that due to email production schedules you may receive any emails already in production. To delete all of your online account information from our database please contact us directly by email at hello@snaptubeapp.com. Subject to applicable laws, please note that we may maintain information about an individual sales transaction in order to service that transaction and for record keeping.
+To modify your email subscriptions, please let us know by modifying your preferences in your account or by sending us an email at the address below. Please note that due to email production schedules you may receive any emails already in production. To delete all of your online account information from our database please contact us directly by email at [hello@snaptubeapp.com](mailto:hello@snaptubeapp.com). Subject to applicable laws, please note that we may maintain information about an individual sales transaction in order to service that transaction and for record keeping.
 
 ### IX. CONSENT TO ELECTRONIC NOTICE IF THERE IS A SECURITY BREACH
 
@@ -88,11 +88,11 @@ If we are required to provide notice of unauthorized access or other invasion of
 
 ### X. QUESTIONS OR CONCERNS
 
-If you have any questions or concerns regarding our privacy policies, please send us a detailed message to hello@snaptubevideo.com, or contacting us via mail at Room C, 21/F., CMA Building, No.64 Connaught Road, Central, Hong Kong. We will make every effort to resolve your concerns.
+If you have any questions or concerns regarding our privacy policies, please send us a detailed message to [hello@snaptubeapp.com](mailto:hello@snaptubeapp.com), or contacting us via mail at 2301-B, Bike Building, No. 9, Keyan Road, Nanshan Dist, Shenzhen, P.R.China, 518057. We will make every effort to resolve your concerns.
 
- _Effective Date: November 17, 2014_
+ _Effective Date: 2017_
 
 * * *
 
 E-mail us at [hello@snaptubeapp.com](mailto:hello@snaptubeapp.com)  
-Write us: Room C, 21/F., CMA Building, No.64 Connaught Road, Central, Hong Kong
+Write us: 2301-B, Bike Building, No. 9, Keyan Road, Nanshan Dist, Shenzhen, P.R.China, 518057
