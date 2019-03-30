@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the amsa.gov.au privacy policy that was archived on 2018-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180905032036id_/https%3A//www.amsa.gov.au/about-us/who-we-are/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the amsa.gov.au privacy policy that was archived on 2019-03-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190331005805id_/https%3A//www.amsa.gov.au/about/who-we-are/privacy) for the most accurate reproduction.*
 
 # Privacy
 
-This is a summarised version of our privacy policy which tells you how we collect and use information. You can read the [complete privacy policy](https://web.archive.org/about-us/who-we-are/guide-our-privacy-policy) here.
+This is a summarised version of our privacy policy which tells you how we collect and use information. You can read the [complete privacy policy](https://web.archive.org/about/who-we-are/guide-our-privacy-policy) here.
 
 ## Scope
 
@@ -24,7 +24,7 @@ We sometimes collect personal information from a third party or from a publicly 
 
 
 
-We only collect personal information for purposes which are related to our functions or activities under [legislation related to and enabling AMSA's operations](https://web.archive.org/about-us/who-we-are/enabling-legislation "Links to the Australian Maritime Safety Authority legislation related to and enabling our operations"), and only when it is necessary for or directly related to such purposes. We only collect information by lawful and fair means.
+We only collect personal information for purposes which are related to our functions or activities under [legislation related to and enabling AMSA's operations](https://web.archive.org/about/who-we-are/enabling-legislation "Links to the Australian Maritime Safety Authority legislation related to and enabling our operations"), and only when it is necessary for or directly related to such purposes. We only collect information by lawful and fair means.
 
 ### Use of personal information collected
 
@@ -100,7 +100,7 @@ This site contains links to external websites and this privacy statement does no
 
 ### Your choices
 
-You can access the personal information that we hold about you, and you can ask us to correct the personal information we hold about you. For more information, see our [complete privacy policy](https://web.archive.org/about-us/who-we-are/guide-our-privacy-policy "Links to the Australian Maritime Safety Authprity complete Privacy Policy") – ‘access and correction’.
+You can access the personal information that we hold about you, and you can ask us to correct the personal information we hold about you. For more information, see our [complete privacy policy](https://web.archive.org/about/who-we-are/guide-our-privacy-policy "Links to the Australian Maritime Safety Authprity complete Privacy Policy") – ‘access and correction’.
 
 If you are listed on one or more of our stakeholder email lists you can opt out at any time. You can unsubscribe by using the ‘unsubscribe’ options noted in our emails.
 
@@ -110,7 +110,7 @@ You may interact with us anonymously or by using a pseudonym, unless we are requ
 
 We are bound by the [Australian Privacy Principles](http://www.oaic.gov.au/privacy/privacy-resources/privacy-fact-sheets/other/privacy-fact-sheet-17-australian-privacy-principles) in the Privacy Act.
 
-Our information management tool for general stakeholders is called the AMSA Community Directory. Please read the [AMSA community directory policy](https://web.archive.org/about-us/who-we-are/guide-our-privacy-policy "ACD policy pdf").
+Our information management tool for general stakeholders is called the AMSA Community Directory. Please read the [AMSA community directory policy](https://web.archive.org/about/who-we-are/guide-our-privacy-policy "ACD policy pdf").
 
 ## How to contact us or the Privacy Commissioner
 
