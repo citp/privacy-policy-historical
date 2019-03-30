@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the dailytrendingfeed.com privacy policy that was archived on 2018-11-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181114121928id_/http%3A//www.dailytrendingfeed.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dailytrendingfeed.com privacy policy that was archived on 2019-03-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190330121451id_/https%3A//www.dailytrendingfeed.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy -
+# Privacy Policy – Daily Trending
 
-At Daily Trending Feed, accessible from http://www.dailytrendingfeed.com, one of our main priorities is the privacy of our visitors. This Privacy Policy document contains types of information that is collected and recorded by Daily Trending Feed and how we use it.
+At Daily Trending Feed, accessible from https://www.dailytrendingfeed.com, one of our main priorities is the privacy of our visitors. This Privacy Policy document contains types of information that is collected and recorded by Daily Trending Feed and how we use it.
 
-If you have additional questions or require more information about our Privacy Policy, do not hesitate to contact us through email at dailytrendingfeed@gmail.com
+If you have additional questions or require more information about our Privacy Policy, do not hesitate to contact us through email at **[[email protected]](https://web.archive.org/cdn-cgi/l/email-protection)**
 
 ## Log Files
 
@@ -18,10 +18,7 @@ Google is one of a third-party vendor on our site. It also uses cookies, known a
 
 Some of advertisers on our site may use cookies and web beacons. Our advertising partners are listed below. Each of our advertising partners has their own Privacy Policy for their policies on user data. For easier access, we hyperlinked to their Privacy Policies below.
 
-  * Google 
-
-<https://policies.google.com/technologies/ads>
-
+  * Google<https://policies.google.com/technologies/ads>
 
 
 
