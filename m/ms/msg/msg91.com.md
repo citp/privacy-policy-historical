@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the msg91.com privacy policy that was archived on 2018-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181223200157id_/https%3A//msg91.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the msg91.com privacy policy that was archived on 2019-03-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190330112317id_/https%3A//msg91.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy of Msg91.com
 
 ## Your information. Our responsibility.
 
-### Your privacy. On priority.
+### At MSG91,  Your privacy. On priority.
 
 This application (hereinafter “Application”) collects some Personal Data from its Users. The Data are collected and processed for the purposes set out below.
 
@@ -123,5 +123,39 @@ The natural person, legal person, public administration or any other organizatio
 ### Data Controller
 
 The natural person, legal person, public administration or any other body, association or organization with the right, also jointly with another Data Controller, to make decisions regarding the purposes, and the methods of processing of Personal Data and the means used, including the security measures concerning the operation and use of this Site.
+
+### **Phone91**
+
+By accepting the Phone91 Application Privacy Policy and/or using the Services You consent to the collection, use, sharing and processing of information as described in this policy. You reserve the right to opt-out at any time to prevent further use of the information shared via the Services.
+
+### 1\. Use Of Personal Information
+
+#### 1.1 Information We May Need
+
+Phone91 Application may use the information collected to provide, maintain, improve, analyze and personalize the Services to its Users, partners and third-party providers. More specifically, Phone91 Application may use permissions that will ask for user’s approval on runtime for specific actions such as:
+
+  1. Provide a popup caller ID, that allows for the population of contact information that may or may not be stored in our database or any third party database. 
+  2. Interact with the Phone91 Google Chrome extension for the purpose of making direct cellular phone calls and SMS to other Phone91 Application users. 
+  3. otherwise improve our Services, business, and operations.
+
+
+
+#### 1.2 Other Information You May Provide
+
+You may provide us with various permission in connection with Your interaction with our Services. For example, you may grant access to record phone calls of any nature by capturing audio from a device microphone, save the audio, and play it back. 
+
+#### 1.3 Statistical Data From The Service
+
+We use aggregated or anonymised personal information for statistical and analytical purposes.
+
+### 2\. Sharing And Disclosure Of Personal Information
+
+We may disclose personal information if we believe such action is necessary to:
+
+  1. comply with the law, or legal process served on us;
+  2. protect and defend our rights and the enforcement of our agreements; or
+  3. protect the security and safety of Users or members of the public or other aspects of public importance, provided, of course, that such disclosure is lawful.
+
+
 
 **This privacy policy is exclusive to this application.**
