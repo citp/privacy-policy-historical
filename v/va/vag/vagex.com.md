@@ -1,7 +1,18 @@
-> *The following text is extracted and transformed from the vagex.com privacy policy that was archived on 2018-10-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181024113212id_/http%3A//vagex.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vagex.com privacy policy that was archived on 2019-03-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190330171033id_/http%3A//vagex.com/privacy.php) for the most accurate reproduction.*
 
 # Vagex
 
+|  |   
+---  
+I agree with [**terms and conditions**](https://web.archive.org/web/20190330171033id_/http%3A//vagex.com/terms.php)  
+**The materials on vagex.com's web site are provided 'as is'. vagex.com makes no warranties, expressed or implied, and hereby disclaims and negates all other warranties, including without limitation, implied warranties or conditions of merchantability, fitness for a particular purpose, or non-infringement of intellectual property or other violation of rights. Further, vagex.com does not warrant or make any representations concerning the accuracy, likely results, or reliability of the use of the materials on its Internet web site or otherwise relating to such materials or on any sites linked to this site.  
+There is no guarantee that every view, like, subscription or comment provided by this service will show up or remain on YouTube.**  
+|   
+---  
+[ Different Image ]  
+I agree to Sign Up and receive email from time to time. **You may unsubscribe at any time by clicking the _Unsubscribe_ link in any email.**  
+  
+  
 ## Privacy Policy
 
 **What do we use your information for?**
