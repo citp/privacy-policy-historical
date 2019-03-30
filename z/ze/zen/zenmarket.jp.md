@@ -1,55 +1,315 @@
-> *The following text is extracted and transformed from the zenmarket.jp privacy policy that was archived on 2017-01-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170118124635id_/https%3A//zenmarket.jp/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the zenmarket.jp privacy policy that was archived on 2019-03-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190330200414id_/https%3A//zenmarket.jp/privacy.aspx) for the most accurate reproduction.*
 
-# Privacy Policy - ZenMarket.jp - Japan Shopping & Proxy Service
+# Privacy & Cookies Policy - ZenMarket.jp - Japan Shopping & Proxy Service
 
-### What information do we collect?
+Effective date: May 24, 2018
 
-We collect information from you when you register on our site, place an order, subscribe to our newsletter, respond to a survey or fill out a form.  
-When ordering or registering on our site, you may be asked to enter your: name, e-mail address, mailing address or phone number. You may, however, visit our site anonymously. 
+ZenMarket INC ("us", "we", or "our") operates the [ http://zenmarket.jp](http://zenmarket.jp/) website (the "Services").
 
-### What do we use your information for?
+In this privacy & cookies policy (“Policy”), we describe the information that we collect about you, that you provide to us, is provided to us by third parties, and will be processed by us, as you use this website (our “Website”) and the Services available through this Website (collectively, our “Services”).
 
-Any of the information we collect from you may be used in one of the following ways:  
-\- To personalize your experience;  
-(your information helps us better respond to your individual needs)  
-\- To improve our website;  
-(we continually strive to improve our website offerings based on the information and feedback we receive from you)  
-\- To improve customer service;  
-(your information helps us respond more effectively to your customer service requests and support needs)  
-\- To process transactions;  
+We collect and use data to provide and improve our Services. By using the Services, you agree to the collection and use of information in accordance with this policy.
+
+## Definitions
+
+  * **Services**
 
 
-> Your information, whether public or private, will not be sold, exchanged, transferred, or given to any other company for any reason whatsoever without your consent, other than for the express purpose of delivering the purchased product or service requested.
 
-\- To administer a contest, promotion, survey or other site feature;  
-\- To send periodic emails;
+Services is the [ http://zenmarket.jp](http://zenmarket.jp/) website and Services it provides, operated by ZenMarket INC
 
-> The email address you provide for order processing, may be used to send you information and updates pertained to your order, in addition to receiving occasional company news, updates, related product or service information, etc.
+  * **Personal Data**
 
-Note: If at any time you would like to unsubscribe from receiving future emails, please contact us. 
 
-### How do we protect your information?
 
-We offer the use of a secure server. All supplied sensitive/credit information is transmitted via Secure Socket Layer (SSL) technology and then encrypted into our payment gateway provider's database only to be accessible by those authorized with special access rights to such systems, and who are required to keep the information confidential.  
-After a transaction, your private information (credit cards, social security numbers, financials, etc.) will not be stored on our servers. 
+Personal Data means data about a living individual who can be identified from those data (or from those and other information either in our possession or likely to come into our possession).
 
-### Do we use cookies?
+  * **Usage Data**
 
-Yes (Cookies are small files that a site or its service provider transfers to your computer's hard drive through your web browser (if you allow) that enables the site's or service provider's systems to recognize your browser and capture and remember certain information).  
-We use cookies to help us remember and process the items in your shopping cart and to understand your preferences for future visits. 
 
-### Do we disclose any information to outside parties?
 
-We do not sell, trade, or otherwise transfer to outside parties your personally identifiable information. This does not include trusted third parties who assist us in operating our website, conducting our business, or servicing you, so long as those parties agree to keep this information confidential. We may also release your information when we believe releasing it is appropriate to comply with the law, enforce our site policies, or protect our or others' rights, property, or safety. However, non-personally identifiable visitor information may be provided to other parties for marketing, advertising, or other uses.
+Usage Data is data collected automatically either generated by the use of the Services or from the Services infrastructure itself (for example, the duration of a page visit).
 
-### Third party links
+  * **Cookies**
 
-Occasionally, at our discretion, we may include or offer third party products or services on our website. These third party sites have separate and independent privacy policies. We therefore have no responsibility or liability for the content and activities of these linked sites. Nonetheless, we seek to protect the integrity of our site and welcome any feedback about these sites.
 
-### Online Privacy Policy Only
 
-This online privacy policy applies only to information collected through our website and not to the information collected offline.
+Cookies are small pieces of data stored on your device (computer or mobile device).
 
-### Your Consent
+  * **Data Controller**
 
-By using our site, you consent to our privacy policy.
+
+
+Data Controller means the natural or legal person who (either alone or jointly or in common with other persons) determines the purposes for which and the manner in which any personal information are, or are to be, processed.
+
+For the purpose of this Privacy Policy, we are a Data Controller of your Personal Data.
+
+  * **Data Processors (or Service Providers)**
+
+
+
+Data Processor (or Service Provider) means any natural or legal person who processes the data on behalf of the Data Controller.
+
+We may use the Services of various Service Providers in order to process your data more effectively.
+
+  * **Data Subject (or User)**
+
+
+
+Data Subject is any living individual who is using our Service and is the subject of Personal Data.
+
+## What data we collect:
+
+We collect several different types of information for various purposes to provide and improve our Services to you.
+
+### Types of Data Collected
+
+### Personal Data
+
+While using our Service, we may ask you to provide us with certain personally identifiable information that can be used to contact or identify you ("Personal Data"). Personally identifiable information may include, but is not limited to:
+
+  * Email address 
+  * First name and last name 
+  * Phone number 
+  * Actual Address, State, Province, ZIP/Postal code, City 
+  * Billing Address, State, Province, ZIP/Postal code, City 
+  * Cookies and Usage Data 
+  * Your IP addresses 
+  * IP Address geolocation
+
+
+
+Social Logins: ZenMarket also allows Users to login using social accounts like Facebook and Google. If you choose to login using your social media profile, some of your Personal Data from that profile will be shared with us. This includes but is not limited to your name, email address, social profile URL's and associated profile photos.
+
+### Usage Data
+
+We may also collect information how the Service is accessed and used ("Usage Data"). This Usage Data may include information such as your computer's Internet Protocol address (e.g. IP address), browser type, browser version, the pages of our Services that you visit, the time and date of your visit, the time spent on those pages, unique device identifiers and other diagnostic data.
+
+### Tracking & Cookies Data
+
+We use cookies and similar tracking technologies to track the activity on our Services and hold certain information.
+
+Cookies are files with small amount of data which may include an anonymous unique identifier. Cookies are sent to your browser from a website and stored on your device. Tracking technologies also used are beacons, tags, and scripts to collect and track information and to improve and analyze our Services.
+
+You can instruct your browser to refuse all cookies or to indicate when a cookie is being sent. However, if you do not accept cookies, you may not be able to use some portions of our Services.
+
+Examples of Cookies we use:
+
+  *  **Session Cookies.** We use Session Cookies to operate our Services. 
+  * **Preference Cookies.** We use Preference Cookies to remember your preferences and various settings. 
+  * **Security Cookies.** We use Security Cookies for security purposes, including your login information protection and fraud prevention. 
+
+
+
+### How we use your Data
+
+ZenMarket INC uses the collected data for various purposes:
+
+  * To validate your identity. 
+  * To provide and maintain our Services. 
+  * To notify you about changes to our Services. 
+  * To allow you to participate in interactive features of our Services when you choose to do so 
+  * To provide customer support 
+  * To gather analysis or valuable information so that we can improve our Services. 
+  * To monitor the usage of our Services. 
+  * To detect, prevent and address technical issues 
+  * To detect, prevent and address fraudulent activities 
+  * To provide you with news, special offers and general information about other goods, services and events which we offer that are similar to those that you have already purchased or enquired about unless you have opted not to receive such information 
+  * We may use your Personal Data to contact you with newsletters, marketing or promotional materials and other information that may be of interest to you. You may opt out of receiving any, or all, of these communications from us by following the unsubscribe link or instructions provided in any email we send or by contacting us. 
+
+
+
+## Legal Basis for Processing Personal Data Under General Data Protection Regulation (GDPR)
+
+If you are from the European Economic Area (EEA), ZenMarket INC legal basis for collecting and using the personal information described in this Privacy Policy depends on the Personal Data we collect and the specific context in which we collect it.
+
+ZenMarket INC may process your Personal Data because:
+
+  * We need to perform a contract with you 
+  * We need to deliver you the Services and goods you ordered 
+  * You have given us permission to do so 
+  * The processing is in our legitimate interests and it's not overridden by your rights 
+  * For payment processing purposes 
+  * To comply with the law of Japan and International Law
+
+
+
+## Retention of Data
+
+ZenMarket INC will retain your Personal Data only for as long as is necessary for the purposes set out in this Privacy Policy. We will retain and use your Personal Data to the extent necessary to comply with our legal obligations (for example, Tax Code of Japan), resolve disputes, and enforce our legal agreements and policies.
+
+ZenMarket INC will also retain Usage Data for internal analysis purposes. Usage Data is generally retained for a shorter period of time, except when this data is used to strengthen the security or to improve the functionality of our Services, or we are legally obligated to retain this data for longer time periods.
+
+## Transfer of Data
+
+Your information, including Personal Data, may be transferred to — and maintained on — computers located outside of your state, province, country or other governmental jurisdiction where the data protection laws may differ than those from your jurisdiction.
+
+If you are located outside Japan and choose to provide information to us, please note that we transfer the data, including Personal Data, to Japan and process it there.
+
+Your consent to this Privacy Policy followed by your submission of such information represents your agreement to that transfer.
+
+ZenMarket INC will take all steps reasonably necessary to ensure that your data is treated securely and in accordance with this Privacy Policy and no transfer of your Personal Data will take place to an organization or a country unless there are adequate controls in place including the security of your data and other personal information.
+
+## Disclosure of Data
+
+### Disclosure for Law Enforcement
+
+Under certain circumstances, ZenMarket INC may be required to disclose your Personal Data if required to do so by law or in response to valid requests by public authorities (e.g. a court or a government agency).
+
+### Legal Requirements
+
+ZenMarket INC may disclose your Personal Data in the good faith belief that such action is necessary to:
+
+  * To comply with a legal obligation 
+  * To protect and defend the rights or property of ZenMarket INC 
+  * To prevent or investigate possible wrongdoing of fraudulent activity in connection with the Services. 
+  * To protect the personal safety of users or the public 
+  * To protect against legal liability
+
+
+
+## Security of Data
+
+We use appropriate technical and organizational security measures to protect any personal information we process about visitors to our Website against unauthorized access, disclosure, alteration, and destruction, but remember that no method of transmission over the Internet, or method of electronic storage is 100% secure. While we strive to use commercially acceptable means to protect your Personal Data, we cannot guarantee its absolute security. We encourage you to take care when disclosing personal information online and to use Internet firewalls, secure e-mail and other technologies to protect yourself online.
+
+Sensitive and private data exchange between the ZenMarket and its Users happens over a SSL secured communication channel and is encrypted and protected with digital signatures.
+
+In case of an unauthorized security intrusion that materially affects you ZenMarket will notify you as soon as possible and will within reasonable time report the action we took in response. 
+
+## "Do Not Track" Signals
+
+We do not support Do Not Track ("DNT"). Do Not Track is a preference you can set in your web browser to inform websites that you do not want to be tracked.
+
+You can enable or disable Do Not Track by visiting the Preferences or Settings page of your web browser.
+
+## Your Data Protection Rights Under General Data Protection Regulation (GDPR)
+
+If you are a resident of the European Economic Area (EEA), you have certain data protection rights. ZenMarket INC aims to take reasonable steps to allow you to correct, amend, delete, or limit the use of your Personal Data.
+
+If you wish to be informed what Personal Data we hold about you and if you want it to be removed from our systems, please contact us.
+
+In certain circumstances, you have the following data protection rights:
+
+  * **The right to access, update or to delete the information we have on you.** Whenever made possible, you can access, update or request deletion of your Personal Data directly within your account settings section. If you are unable to perform these actions yourself, please contact us to assist you. 
+  * **The right of rectification.** You have the right to have your information rectified if that information is inaccurate or incomplete. 
+  * **The right to object.** You have the right to object to our processing of your Personal Data. 
+  * **The right of restriction.** You have the right to request that we restrict the processing of your personal information. 
+  * **The right to data portability.** You have the right to be provided with a copy of the information we have on you in a structured, machine-readable and commonly used format. 
+  * **The right to withdraw consent.** You also have the right to withdraw your consent at any time where ZenMarket INC relied on your consent to process your personal information.
+
+
+
+Please note that we may ask you to verify your identity before responding to such requests.
+
+You have the right to complain to a Data Protection Authority about our collection and use of your Personal Data. For more information, please contact your local data protection authority in the European Economic Area (EEA).
+
+## Service Providers
+
+We may employ third party companies and individuals to facilitate our Services ("Service Providers"), to provide the Services on our behalf or to assist us in analyzing how our Services are used.
+
+These third parties have access to your Personal Data only to perform these tasks on our behalf and are obligated not to disclose or use it for any other purpose.
+
+### Analytics
+
+We may use third-party Service Providers to monitor and analyze the use of our Services.
+
+  * **Google Analytics**
+
+
+
+Google Analytics is a web analytics service offered by Google that tracks and reports website traffic. Google uses the data collected to track and monitor the use of our Services. This data is shared with other Google services. Google may use the collected data to contextualize and personalize the ads of its own advertising network.
+
+You can opt-out of having made your activity available to Google Analytics by installing the Google Analytics opt-out browser add-on. The add-on prevents the Google Analytics JavaScript (ga.js, analytics.js, and dc.js) from sharing information with Google Analytics about visits activity.
+
+For more information on the privacy practices of Google, please visit the Google Privacy & Terms web page: [http://www.google.com/intl/en/policies/privacy/](http://www.google.com/intl/en/policies/privacy)
+
+### Behavioral Remarketing
+
+ZenMarket INC uses remarketing services to advertise on third party websites to you after you visited our Web site. We and our third-party vendors use cookies to inform, optimize and serve ads based on your past visits to our Web site.
+
+  * **Google AdWords**
+
+
+
+Google AdWords remarketing service is provided by Google Inc.
+
+You can opt-out of Google Analytics for Display Advertising and customize the Google Display Network ads by visiting the Google Ads Settings page: <http://www.google.com/settings/ads>
+
+Google also recommends installing the Google Analytics Opt-out Browser Add-on - <https://tools.google.com/dlpage/gaoptout> \- for your web browser. Google Analytics Opt-out Browser Add-on provides visitors with the ability to prevent their data from being collected and used by Google Analytics. 
+
+For more information on the privacy practices of Google, please visit the Google Privacy & Terms web page: <http://www.google.com/intl/en/policies/privacy/>
+
+  * **Facebook**
+
+
+
+Facebook remarketing service is provided by Facebook Inc. 
+
+You can learn more about interest-based advertising from Facebook by visiting this page: <https://www.facebook.com/help/164968693837950>
+
+To opt-out from Facebook's interest-based ads follow these instructions from Facebook: <https://www.facebook.com/help/568137493302217>
+
+Facebook adheres to the Self-Regulatory Principles for Online Behavioral Advertising established by the Digital Advertising Alliance. You can also opt-out from Facebook and other participating companies through the Digital Advertising Alliance in the USA <http://www.aboutads.info/choices/>, the Digital Advertising Alliance of Canada in Canada <http://youradchoices.ca/> or the European Interactive Digital Advertising Alliance in Europe <http://www.youronlinechoices.eu/>, or opt-out using your mobile device settings. 
+
+For more information on the privacy practices of Facebook, please visit Facebook's Data Policy: <https://www.facebook.com/privacy/explanation>
+
+### Payments
+
+We provide paid products and/or services and we use third-party payment collecting services for payment processing (e.g. payment processors). 
+
+We will not store or collect your payment card details. That information is provided directly to our third-party payment processors whose use of your personal information is governed by their Privacy Policy. These payment processors adhere to the standards set by PCI-DSS as managed by the PCI Security Standards Council, which is a joint effort of brands like Visa, Mastercard, American Express and Discover. PCI-DSS requirements help ensure the secure handling of payment information. When you purchase our Services, we will also collect transaction information, which may include billing and mailing address, and other payment-related information. 
+
+The payment processors we work with are: 
+
+  * **Stripe**
+
+
+
+Their Privacy Policy can be viewed at <https://stripe.com/us/privacy>
+
+  * **PayPal or Braintree**
+
+
+
+Their Privacy Policy can be viewed at <https://www.paypal.com/webapps/mpp/ua/privacy-full>
+
+  * **Nihaopay**
+
+
+
+We use Nihaopay payment processing service for customers from China. You can contact them regarding Privacy Policy at <https://nihaopay.com/contactUS>
+
+### Storage
+
+We use third-party web hosting and storage services to securely store our website and databases, including your Personal Data. 
+
+The service we use for data storage is Microsoft Azure. You can review Microsoft Azure privacy policy here: <https://www.microsoft.com/en-us/TrustCenter/Privacy/default.aspx>
+
+## Links to Other Sites
+
+Our Services may contain links to other sites that are not operated by us. If you click on a third-party link, you will be directed to that third party's site. We strongly advise you to review the Privacy Policy of every site you visit. 
+
+We have no control over and assume no responsibility for the content, privacy policies or practices of any third-party sites or services. 
+
+## Children's Privacy
+
+Our Services does not address anyone under the age of 18 ("Children").
+
+We do not intentionally collect personally identifiable information from anyone under the age of 18. If you are a parent or guardian and you are aware that your Children has provided us with Personal Data, please contact us. If we become aware that we have collected Personal Data from children without verification of parental consent, we take steps to remove that information from our servers. 
+
+## Changes to This Privacy Policy
+
+We may update our Privacy Policy from time to time. We will notify you of any changes by posting the new Privacy Policy on this page. 
+
+We will let you know via email and/or a prominent notice on our Web site prior to the change becoming effective and update the "effective date" at the top of this Privacy Policy. 
+
+You are advised to review this Privacy Policy periodically for any changes. Changes to this Privacy Policy are effective when they are posted on this page. 
+
+## Contact Us
+
+If you have any questions about this Privacy Policy, please contact us: 
+
+  * By visiting this page on our website: <https://zenmarket.jp/help.aspx#feedback>
+  * By mail: Japan, Osaka pref., Osaka-shi, Nishi-ku, Itachibori 1-3-11, Daitai bld. 2F
+
+
