@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hindawi.com privacy policy that was archived on 2018-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181227083033id_/https%3A//www.hindawi.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hindawi.com privacy policy that was archived on 2019-03-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190330104045id_/https%3A//www.hindawi.com/privacy) for the most accurate reproduction.*
 
 # Hindawi
 
@@ -42,7 +42,7 @@ You can contact us either via the “Contact Us” tab on the Site, or as follow
 FAO:| Director of Product and Technology  
 ---|---  
 Address:| Hindawi Limited, Adam House, 3rd Floor, 1 Fitzroy Square, London, England, W1T 5HF  
-Email:| [hindawi@hindawi.com](mailto:hindawi@hindawi.com)  
+Email:| [info@hindawi.com](mailto:info@hindawi.com)  
   
 #### Information We May Collect about You
 
@@ -171,9 +171,9 @@ In connection with the purposes and on the lawful grounds described above and in
     1. (a) website development and hosting services based in the USA, UK, Egypt, Romania and India;
     2. (b) editorial, production, IT, system administration and security (including verification and fraud detection) and quality assurance services: Hindawi Publishing Corporation (based in Egypt);
     3. (c) production and typesetting services: TNQ Books & Journals Private Limited (based in India) and SPi Technologies, Inc. (based in the Philippines); 
-    4. (d) marketing and advertising services (including ActiveCampaign and Hubspot), analytics providers (including Hotjar and Google Analytics) based in the USA; 
+    4. (d) marketing and advertising services (including Outbrain and Hubspot), analytics providers (including Hotjar and Google Analytics) based in the USA;
     5. (e) relationship management and tracking for customer service (based in the USA);
-    6. (f) communication services (including Google, Slack, and Microsoft), based in the USA;
+    6. (f) communication services (including Google, Slack, Oath and Microsoft), based in the USA;
     7. (g) printing services Lightning Source and Printforce, based in the USA and the Netherlands;
     8. (h) maps services (including Google Maps API), based in the USA;
     9. (i) social media plugin services including Facebook, Twitter, Linkedin, Youtube, and Medium, based in the USA; 
@@ -181,7 +181,7 @@ In connection with the purposes and on the lawful grounds described above and in
     11. (k) editorial and quality assurance services: Scientific Publishing Services (P) Ltd. (based in India); 
     12. (l) plagiarism checking services, iThenticate and CrossRef Similarity Check (Crossref), based in the USA;
     13. (m) banking services, HSBC based in the UK; 
-    14. (n) legal, accountancy, auditing and insurance services and other professional advisers based in the UK
+    14. (n) legal, accountancy, auditing and insurance services and other professional advisers based in the UK;
     15. (o) recruitment service providers based in the UK.
   * Other publishers: we may also share information with other publishers for the purposes of academic misconduct investigations. These other publishers may be located outside of the EU;
   * Marketing parties: any selected third party that you consent to our sharing your information with for marketing purposes; 
@@ -218,6 +218,7 @@ _dc_gtm_UA-8578054-24| analytics and tracking| Google Tag Manager| 1 minute
 cookieconsent_dismissed| display| Hindawi| 1 year  
 hindawiAccount| authentication| Hindawi| session  
 ReturnUrl| navigation| Hindawi| session  
+user_ga| analytics| Hindawi| session  
 __hstc| analytics| Hotjar| 2 years  
 hubspotutk| tracking| Hotjar| 10 years  
 mp_6d7c50ad560e01715a871a117a2fbd90_mixpanel| analytics| Hotjar| 6 months  
