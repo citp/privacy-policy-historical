@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the visualcv.com privacy policy that was archived on 2018-09-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180926065810id_/https%3A//www.visualcv.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the visualcv.com privacy policy that was archived on 2019-03-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190331003427id_/https%3A//www.visualcv.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Notice
 
@@ -141,6 +141,6 @@ Vancouver, BC V6V 2N9 Canada Email: team+privacy@workstory.com
 
 ###  Make your next career move with confidence. 
 
-Join more than 2.9 million members managing their professional profile with VisualCV. 
+Join more than 3.1 million members managing their professional profile with VisualCV. 
 
-[ Get my VisualCV ](https://web.archive.org/app/#/welcome/signup)
+[ Get my VisualCV ](https://web.archive.org/app/#/signup)
