@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the houseofaceonline.com privacy policy that was archived on 2018-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181226231907id_/https%3A//houseofaceonline.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the houseofaceonline.com privacy policy that was archived on 2019-03-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190330213242id_/https%3A//houseofaceonline.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
