@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the barenecessities.com privacy policy that was archived on 2018-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181229113914id_/https%3A//www.barenecessities.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the barenecessities.com privacy policy that was archived on 2019-03-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190330085231id_/https%3A//www.barenecessities.com/privacy.aspx) for the most accurate reproduction.*
 
-# Privacy Policy Statement at Bare Necessities
+# Bare Necessities Privacy Policy & Statement | Bare Necessities
 
 Effective Date: May 10, 2018
 
