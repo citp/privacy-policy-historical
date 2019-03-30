@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the addingsocial.com privacy policy that was archived on 2016-04-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160420195413id_/http%3A//www.addingsocial.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the addingsocial.com privacy policy that was archived on 2019-03-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190330095000id_/https%3A//www.addingsocial.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - Adding Social, LLC
+# Privacy Policy – Adding Social, LLC
 
 ## Privacy Policy
 
