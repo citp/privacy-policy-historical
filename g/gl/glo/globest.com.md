@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the globest.com privacy policy that was archived on 2018-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181223063856id_/https%3A//www.alm.com/privacy-policy-new) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the globest.com privacy policy that was archived on 2019-03-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190330120438id_/https%3A//www.alm.com/privacy-policy-new) for the most accurate reproduction.*
 
 # Privacy Policy - ALM
 
