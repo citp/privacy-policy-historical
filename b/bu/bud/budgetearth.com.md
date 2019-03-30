@@ -1,77 +1,115 @@
-> *The following text is extracted and transformed from the budgetearth.com privacy policy that was archived on 2017-08-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170831145026id_/http%3A//www.budgetearth.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the budgetearth.com privacy policy that was archived on 2019-03-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190330154346id_/https%3A//www.budgetearth.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy |
+# Privacy Policy
 
-This privacy policy sets out how Budget Earth  uses and protects any information that you give while using www.budgetearth.com
+**Privacy Policy**
 
-Should we ask you to provide certain information by which you can be identified when using this website, then you can be assured that it will only be used in accordance with this privacy statement.
+Protecting your private information is our priority. This Statement of Privacy applies to https://www.budgetearth.com and Budgetearth.com and governs data collection and usage. For the purposes of this Privacy Policy, unless otherwise noted, all references to Budgetearth.com include https://www.budgetearth.com and Budget Earth. The Budget Earth website is a information website with product reviews, pets, tech, and general health information for pets & people (though it does not qualify as any form of doctor’s advice nor shall we be held responsible as giving medical or legal advice) site. By using the Budget Earth website, you consent to the data practices described in this statement.
 
-Budget Earth may change this policy from time to time by updating this page. You should check this page from time to time to ensure that you are happy with any changes. This policy is effective from 8/3/2015.
+**Collection of your Personal Information**
 
-**What we collect**
+In order to better provide you with products and services offered on our Site, Budget Earth may collect personally identifiable information, such as your:
 
-We may collect the following information:
+–          First and Last Name
 
-  * contact information including email address
-  * demographic information such as postcode, preferences and interests
-  * other information relevant to customer surveys and/or offers
+–          E-mail Address
 
+–          Personal information only to send prizes for winners of giveaways in the US or Canada. This information is given to companies to send prizes and for no other purpose. Budget Earth & writers do not collect or keep personal information once a prize has been received by winner.
 
+Budget Earth may also collect anonymous demographic information, which is not unique to you, such as your:
 
-**What we do with the information we gather**
+–          Age
 
-We require this information to understand your needs and provide you with a better service, and in particular for the following reasons:
+–          Gender
 
-  * We may use the information to improve our site and services that could be offered by Budget Earth.
-  * We may periodically send promotional emails about new products, special offers or other information which we think you may find interesting using the email address which you have provided.
-  * From time to time, we may also use your information to contact you for market research purposes. We may contact you by email. We may use the information to customize the website according to your interests.
+–          Household Income
 
+Please keep in mind that if you directly disclose personally identifiable information or personally sensitive data through Budget Earth’s public message boards, this information may be collected and used by others.
 
+We do not collect any personal information about you unless you voluntarily provide it to us. However, you may be required to provide certain personal information to us when you elect to use certain products or services available on the Site. These may include: (a) registering for an account on our Site; (b) entering a sweepstakes or contest sponsored by us or one of our partners; (c) signing up for special offers from selected third parties; (d) sending us an email message; (e) submitting your credit card or other payment information when ordering and purchasing products and services on our Site. To wit, we will use your information for, but not limited to, communicating with you in relation to services and/or products you have requested from us. We also may gather additional personal or non-personal information in the future.
 
-**Security**
+**Use of your Personal Information**
 
-We are committed to ensuring that your information is secure. In order to prevent unauthorized access or disclosure, we have put in place suitable physical, electronic and managerial procedures to safeguard and secure the information we collect online.
+Budget Earth collects and uses your personal information to operate its website(s) and deliver the services you have requested.
 
-**How we use cookies**
+Budget Earth may also use your personally identifiable information to inform you of other products or services available from Budget Earth and its affiliates.
 
-A cookie is a small file which asks permission to be placed on your computer’s hard drive. Once you agree, the file is added and the cookie helps analyze web traffic or lets you know when you visit a particular site. Cookies allow web applications to respond to you as an individual. The web application can tailor its operations to your needs, likes and dislikes by gathering and remembering information about your preferences.
+**Sharing Information with Third Parties**
 
-Our advertisers may use traffic log cookies to identify which pages are being used. This helps us analyze data about web page traffic and improve our website in order to tailor it to customer needs. We only use this information for statistical analysis purposes and then the data is removed from the system.
+Budget Earth does not sell, rent or lease its customer lists to third parties.
 
-Overall, cookies help us provide you with a better website, by enabling us to monitor which pages you find useful and which you do not. A cookie in no way gives us access to your computer or any information about you, other than the data you choose to share with us.
+Budget Earth may, from time to time, contact you on behalf of external business partners about a particular offering that may be of interest to you. In those cases, your unique personally identifiable information (e-mail, name, address, telephone number) is not transferred to the third party. Budget Earth may share data with trusted partners to help perform statistical analysis, send you email or postal mail, provide customer support, or arrange for deliveries. All such third parties are prohibited from using your personal information except to provide these services to Budget Earth, and they are required to maintain the confidentiality of your information.
 
-You can choose to accept or decline cookies. Most web browsers automatically accept cookies, but you can usually modify your browser setting to decline cookies if you prefer. This may prevent you from taking full advantage of the website.
+Budget Earth may disclose your personal information, without notice, if required to do so by law or in the good faith belief that such action is necessary to: (a) conform to the edicts of the law or comply with legal process served on Budget Earth or the site; (b) protect and defend the rights or property of Budget Earth; and/or (c) act under exigent circumstances to protect the personal safety of users of Budget Earth, or the public.
 
-**Advertising**
+An anonymized string created from your email address (also called a hash) may be provided to the Gravatar service to see if you are using it. The Gravatar service privacy policy is available here: https://automattic.com/privacy/. After approval of your comment, your profile picture is visible to the public in the context of your comment.
 
-Some of our advertisers occasionally serve you cookies as well. We do not have control over cookies placed by advertisers. We may use advertising service vendors to help present advertisements on the website, including but not limited to ad networks, affiliate networks, paid ad placements, sponsored posts, and social media ad placements.
+Articles on this site may include embedded content (e.g. videos, images, articles, etc.). Embedded content from other websites behaves in the exact same way as if the visitor has visited the other website. These websites may collect data about you, use cookies, embed additional third-party tracking, and monitor your interaction with that embedded content, including tracing your interaction with the embedded content if you have an account and are logged in to that website.
 
-These vendors may use cookies, web beacons, or similar technologies to serve you advertisements tailored to interests you have shown by browsing on this and other sites you have visited, to determine whether you have seen a particular advertisement before and to avoid sending you duplicate advertisements. In doing so, these vendors may collect non-personal data such as your browser type, your operating system, Web pages visited, time of visits, content viewed, ads viewed, and other clickstream data. The use of cookies, web beacons, or similar technologies by these advertising service vendors is subject to their own privacy policies, not ours, and Service Provider disclaims all liability in connection therewith.
+**Automatically Collected Information**
 
-**Links to other websites**
+Information about your computer hardware and software may be automatically collected by Budget Earth. This information can include: your IP address, browser type, domain names, access times and referring website addresses. This information is used for the operation of the service, to maintain quality of the service, and to provide general statistics regarding use of the Budget Earth website.
 
-Our website may contain links to other websites of interest. However, once you have used these links to leave our site, you should note that we do not have any control over that other website. Therefore, we cannot be responsible for the protection and privacy of any information which you provide whilst visiting such sites and such sites are not governed by this privacy statement. You should exercise caution and look at the privacy statement applicable to the website in question.
+**Links**
 
-**Controlling your personal information**
+This website contains links to other sites. Please be aware that we are not responsible for the content or privacy practices of such other sites. We encourage our users to be aware when they leave our site and to read the privacy statements of any other site that collects personally identifiable information.
 
-You may choose to restrict the collection or use of your personal information in the following ways:
+**Affiliate Links**
 
-  * whenever you are asked to fill in a form on the website, look for the box that you can click to indicate that you do not want the information to be used by anybody for direct marketing purposes
-  * if you have previously agreed to us using your personal information for direct marketing purposes, you may change your mind at any time by contacting us.
+This website may contain affiliate links – links that will take you to a third party page to buy said products or services. By clicking on these links and purchasing, Budget Earth may receive a payment or commission for said purchase. These sites may also collect information from said purchase, which Budget Earth has no access to in any form. Affiliate are in the form of Amazon.com, Kuranda Beds, Awin, Etsy, Night Owl Paper Goods, Commission Junction, Share-A-Sale, and possible other sites. Every page that has affiliate links will disclosure this information clearly per FTC regulations. Disclosure can always be found at the top of posts.
 
+**Security of your Personal Information**
 
+Budget Earth secures your personal information from unauthorized access, use, or disclosure. Budget Earth uses the following methods for this purpose:
 
-We will not sell, distribute or lease your personal information to third parties unless we have your permission or are required by law to do so. We may use your personal information to send you promotional information about third parties which we think you may find interesting if you tell us that you wish this to happen.
+–          SSL Protocol
 
-**Opt Out**
+When personal information (such as a credit card number) is transmitted to other websites, it is protected through the use of encryption, such as the Secure Sockets Layer (SSL) protocol.
 
-For information about opting out of Gourmet Ads and ad serving partners please visit <http://www.gourmetads.com/about/privacy-policy>
+We strive to take appropriate security measures to protect against unauthorized access to or alteration of your personal information. Unfortunately, no data transmission over the Internet or any wireless network can be guaranteed to be 100% secure. As a result, while we strive to protect your personal information, you acknowledge that: (a) there are security and privacy limitations inherent to the Internet which are beyond our control; and (b) security, integrity, and privacy of any and all information and data exchanged between you and us through this Site cannot be guaranteed.
 
-If you believe that any information we are holding on you is incorrect or incomplete, please contact us.
+**Children Under Thirteen**
 
-**Comment Policy**
+Budget Earth does not knowingly collect personally identifiable information from children under the age of thirteen. If you are under the age of thirteen, you must ask your parent or guardian for permission to use this website.
 
-Budget Earth allows our readers to make comments about posts.  All comments are the property of Budget Earth and it is at our sole discretion to approve or not approve comments.  Comments that are vulgar, rude, use discriminatory language, or are obviously spam will be removed by an Administrator or Moderator without notice to you.
+**How long we retain your data  
+**
+
+If you leave a comment, the comment and its metadata are retained indefinitely. Barring legal requirements, comments may be removed by email request to a site administrator (susan.bewley@budgetearth.com).
+
+For users that register on our website, we also store the personal information they provide in their user profile (writers at Budget Earth only). Website administrators can also see and edit that information.
+
+**Where We Send Your Data**
+
+The Budget Earth website and any owned or offered services are all hosted within the United States, and therefore any data retained is kept in the United States.
+
+**E-mail Communications**
+
+From time to time, Budget Earth may contact you via email for the purpose of providing announcements, promotional offers, alerts, confirmations, surveys, and/or other general communication. In order to improve our Services, we may receive a notification when you open an email from Budget Earth or click on a link therein.
+
+If you would like to stop receiving marketing or promotional communications via email from Budget Earth, you may opt out of such communications by By clicking the unsubscribe button included on each email..
+
+**Changes to this Statement**
+
+Budget Earth reserves the right to change this Privacy Policy from time to time. We will notify you about significant changes in the way we treat personal information by sending a notice to the primary email address specified in your account, by placing a prominent notice on our site, and/or by updating any privacy information on this page. Your continued use of the Site and/or Services available through this Site after such modifications will constitute your: (a) acknowledgment of the modified Privacy Policy; and (b) agreement to abide and be bound by that Policy.
+
+**Contact Information**
+
+Budget Earth welcomes your questions or comments regarding this Statement of Privacy. If you believe that Budget Earth has not adhered to this Statement, please contact Budget Earth at:
+
+Budgetearth.com
+
+Owned by Susan Bewley
+
+**Email Address:**
+
+susan.bewley@budgetearth.com
+
+**Telephone number:**
+
+859-907-3820
+
+Effective as of May 17, 2018
 
 #### About 
 
