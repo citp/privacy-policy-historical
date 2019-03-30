@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nottinghampost.com privacy policy that was archived on 2018-10-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181015234930id_/https%3A//www.nottinghampost.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nottinghampost.com privacy policy that was archived on 2019-03-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190330112124id_/https%3A//www.nottinghampost.com/privacy-policy) for the most accurate reproduction.*
 
 # Nottinghamshire Live privacy policy
 
