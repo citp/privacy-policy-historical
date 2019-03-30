@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the furnitureinfashion.net privacy policy that was archived on 2018-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180905043313id_/https%3A//www.furnitureinfashion.net/links/privacy-cookie-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the furnitureinfashion.net privacy policy that was archived on 2019-03-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190330085348id_/https%3A//www.furnitureinfashion.net/links/privacy-cookie-policy) for the most accurate reproduction.*
 
 # Information - Privacy & Cookie Policy - Furniture in Fashion
 
@@ -103,6 +103,48 @@ You have the right to ask for a copy of any of your personal data held by us (wh
     7. **1.7** In addition to the controls that we provide, you can choose to enable or disable Cookies in your internet browser. Most internet browsers also enable you to choose whether you wish to disable all cookies or only third party cookies. By default, most internet browsers accept Cookies but this can be changed. For further details, please consult the help menu in your internet browser or the documentation that came with your device.
     8. **1.8** You can choose to delete Cookies on your computer or device at any time, however you may lose any information that enables you to access our Site more quickly and efficiently including, but not limited to, login and personalisation settings.
     9. **1.9** It is recommended that you keep your internet browser and operating system up-to-date and that you consult the help and guidance provided by the developer of your internet browser and manufacturer of your computer or device if you are unsure about adjusting your privacy settings.
+    10. **1.10 Third-party cookies:**
+
+Third-party cookies originate from a domain that’s different to the website being visited. For example, when you visit our website, we may link to another company's website – like our Facebook or Twitter account. We don't control how they use their cookies, so we suggest you check their website to see how they're using them and how you can manage them.
+
+We also deal with different affiliate providers, so that may put cookies on our website. We are currently reviewing our lists and will update them from time to time.
+
+  
+Company | What it's called | Type | More Information  
+---|---|---|---  
+**“Veinteractive”** | __ssid   
+ouuid   
+ouuid_last_update | 4 | For more information, please see https://www.ve.com/cookies-policy   
+For more information about opting out, please see https://www.ve.com/privacy-policy#opting-out  
+**“Google Analytics”** | __utma   
+__utmc   
+__utmz   
+__utmt   
+__utmb   
+G_ENABLED_IDPS   
+disqus_unique   
+__jid | 2 | For more information, please see https://policies.google.com/technologies/managing  
+**“Google”** | GAPS   
+LSID   
+APISID   
+SSID   
+NID   
+SID   
+SAPISID   
+HSID   
+VISITOR_INFO1_LIVE   
+PREF   
+YSC   
+IDE   
+_uetsid   
+CONSENT   
+1_JAR   
+UULE   
+OTZ   
+SIDCC   
+AID | 2 | See this link for more information https://support.google.com/analytics/answer/6004245   
+This is the link to the Google Opt-Out tool:   
+https://tools.google.com/dlpage/gaoptout/  
   13. **13\. Contacting Us**  
 If you have any questions about Our Site or this Privacy Policy, please contact Us by email at [[email protected]](https://www.furnitureinfashion.net/cdn-cgi/l/email-protection) by telephone on 01204 792700, or by post at 14 Stonehill Road, Farnworth Bolton, BL4 9TP. Please ensure that your query is clear, particularly if it is a request for information about the data we hold about you. 
   14. **14\. Changes to Our Privacy Policy**  
