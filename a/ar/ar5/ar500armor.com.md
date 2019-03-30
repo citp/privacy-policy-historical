@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ar500armor.com privacy policy that was archived on 2017-07-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170729150435id_/https%3A//www.ar500armor.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ar500armor.com privacy policy that was archived on 2019-03-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190330145816id_/https%3A//www.ar500armor.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -119,41 +119,41 @@ An encrypted version of your customer id with the store.
 
 An indicator if you are currently logged into the store.  
   
-**CUSTOMER_INFO  **
+**CUSTOMER_INFO**
 
 | 
 
- An encrypted version of the customer group you belong to.  
+An encrypted version of the customer group you belong to.  
   
-**CUSTOMER_SEGMENT_IDS  **
+**CUSTOMER_SEGMENT_IDS**
 
 | 
 
- Stores the Customer Segment ID  
+Stores the Customer Segment ID  
   
-**EXTERNAL_NO_CACHE  **
+**EXTERNAL_NO_CACHE**
 
 | 
 
- A flag, which indicates whether caching is disabled or not.  
+A flag, which indicates whether caching is disabled or not.  
   
-**FRONTEND  **
+**FRONTEND**
 
 | 
 
- You sesssion ID on the server.  
+You sesssion ID on the server.  
   
-**GUEST-VIEW  **
+**GUEST-VIEW**
 
 | 
 
- Allows guests to edit their orders.  
+Allows guests to edit their orders.  
   
-**LAST_CATEGORY  **
+**LAST_CATEGORY**
 
 | 
 
- The last category you visited.  
+The last category you visited.  
   
 **LAST_PRODUCT**
 
