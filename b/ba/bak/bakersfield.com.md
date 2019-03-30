@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bakersfield.com privacy policy that was archived on 2018-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181221031702id_/https%3A//www.bakersfield.com/site/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bakersfield.com privacy policy that was archived on 2019-03-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190330090238id_/https%3A//www.bakersfield.com/site/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy | Site | bakersfield.com
 
