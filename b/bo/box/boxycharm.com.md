@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the boxycharm.com privacy policy that was archived on 2017-08-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170831024359id_/https%3A//boxycharm.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the boxycharm.com privacy policy that was archived on 2019-03-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190330083324id_/https%3A//www.boxycharm.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - BOXYCHARM: The Best Beauty Subscription Boxes
+# Privacy Policy - BOXYCHARM: The Best Monthly Beauty and Makeup Box Subscription
 
 Last Modified: November  9th, 2015 
 
@@ -82,7 +82,7 @@ You are responsible for any content, including Personal Information, that you co
 
 Although We take security seriously, please be aware that no security measures are perfect or impenetrable. Additionally, We cannot control the actions of other users of the Website with whom you may choose to share your User Content. Therefore, We cannot and do not guarantee that your User Content will not be viewed by unauthorized persons. We are not responsible for circumvention of any privacy settings or security measures contained on the Website.
 
- You understand and acknowledge that, even after removal, copies of your User Content may remain viewable in cached and archived pages, or might have been copied or stored by other Website users. Proper access and use of information provided on the Website, including User Content is governed by our  Terms and Conditions  and known or suspected violations should be reported via email at:  info@boxycharm.com .
+ You understand and acknowledge that, even after removal, copies of your User Content may remain viewable in cached and archived pages, or might have been copied or stored by other Website users. Proper access and use of information provided on the Website, including User Content is governed by our  Terms and Conditions  and known or suspected violations should be reported via email at:  [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection) .
 
 ## User Forums. 
 
@@ -134,12 +134,13 @@ We may also disclose your personal information to third parties to: Comply with 
 We strive to provide you with choices regarding the personal information you provide to Us. We have created mechanisms to provide you with the following control over your information:
 
   * Cookies.   You may refuse to accept cookies by activating the appropriate setting on your browser at any time. However, if you select this setting you may be unable to access certain parts and functions of our Website. Unless you have adjusted your browser setting so that it will refuse cookies, our Website will issue cookies when you direct your browser to our Website.
-  * Promotional Offers from Third Parties.  If you do not wish Us to share your personal information with unaffiliated or non-agent third parties for promotional purposes, you can opt-out by adjusting your user preferences in your account profile by checking or unchecking the relevant boxes or by sending Us an e-mail stating your request to  info@boxycharm.com  . 
-  * Promotional Offers from the Company.  If you do not wish to have your e-mail address used for promotional purposes by the Company, you can opt-out by emailing your request to  info@boxycharm.com   with the subject line “OPT OUT.” You can also always opt-out of receiving e-mail information from Us other than the e-mail informing you of the completion of user registration, correction of user data, or change of password by logging into the Website and adjusting your user preferences in your account profile by checking or unchecking the relevant boxes or by sending Us an e-mail stating your request to  info@boxycharm.com .   If We have sent you a promotional e-mail, you may send Us a return e-mail asking to be omitted from future e-mail distributions. This opt out does not apply to information provided to the Company as a result of the purchase of a product or service, warranty registration, product service experience or other transactions. 
+  * Promotional Offers from Third Parties.  If you do not wish Us to share your personal information with unaffiliated or non-agent third parties for promotional purposes, you can opt-out by adjusting your user preferences in your account profile by checking or unchecking the relevant boxes or by sending Us an e-mail stating your request to  [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection)  . 
+  * Promotional Offers from the Company.  If you do not wish to have your e-mail address used for promotional purposes by the Company, you can opt-out by emailing your request to  [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection)   with the subject line “OPT OUT.” You can also always opt-out of receiving e-mail information from Us other than the e-mail informing you of the completion of user registration, correction of user data, or change of password by logging into the Website and adjusting your user preferences in your account profile by checking or unchecking the relevant boxes or by sending Us an e-mail stating your request to  [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection) .   If We have sent you a promotional e-mail, you may send Us a return e-mail asking to be omitted from future e-mail distributions. This opt out does not apply to information provided to the Company as a result of the purchase of a product or service, warranty registration, product service experience or other transactions. 
   * If you provide your email address for the purposes of any promotion, We will use your email address to send you announcements, special offers from Us and our promotional partners, only. Each such email will include instructions on how to unsubscribe from our mailing list.
   * If you refer a friend to our Website or for any product or service We provide, We will ask you for that friend’s name and email address. We will automatically send that friend a one-time email inviting them to visit the Website. That email will also provide your friend with the ability to ask Us to remove his or her information from Our database. Unless removal is requested, We will store that information provided by you for internal tracking purposes. 
-  * Personalized Advertising.  If you do not want Us to use Personal Information that we gather to allow third parties to personalize advertisements We display to you, you can opt-out by adjusting your user advertising preferences accordingly in your account profile by checking or unchecking the relevant boxes or by sending Us an e-mail stating your request to  info@boxycharm.com . If We update this Policy, your continued use of the Website (following the posting of the revised Policy) means that you consent and agree to the terms of the revised Privacy Policy.
+  * Personalized Advertising.  If you do not want Us to use Personal Information that we gather to allow third parties to personalize advertisements We display to you, you can opt-out by adjusting your user advertising preferences accordingly in your account profile by checking or unchecking the relevant boxes or by sending Us an e-mail stating your request to  [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection) . If We update this Policy, your continued use of the Website (following the posting of the revised Policy) means that you consent and agree to the terms of the revised Privacy Policy.
   * Links to Third Parties.  The Website may include  links to third-party web sites. The policies and procedures we described here may not apply to third-party sites. Any links from the Website do not imply that the Company endorses or has reviewed the third-party sites. We suggest contacting those sites directly for information on their privacy policies.
+  * We may from time to time contract with third party vendors to provide ads to our customers on our behalf via the Internet or to send direct mail to customers whom we think may be interested in our products or services. In order to do so, such vendor may collect anonymous information about your visits to our website using a “cookie”. A cookie is a small piece of data that is sent to your browser or mobile device by websites, mobile apps, and advertisements that you access or use. This data is stored on your browser or mobile device and helps websites and mobile apps to remember things about you to improve your experience with the website. Third-party vendors may then pool the anonymous information that they collect from our website with other sources of information, which may include your name and mailing address, for purposes of determining whether you might be interested in receiving direct mail. If you do not wish for cookies to be placed on your computer, most web browsers permit you to prevent that from taking place. However, please keep in mind that these technologies are an important part of how the website works; removing, rejecting or limiting the use of cookies or other similar technologies might affect the availability and functionality of the website. To opt-out of receiving our direct mail, you may send us an email at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection)
 
 
 
@@ -147,11 +148,11 @@ We strive to provide you with choices regarding the personal information you pro
 
 You can review and update your Personal Information by logging into the Website and visiting your account profile page and making and saving changes. If you have forgotten your password, you can click on the “Forgot your password?” link on the Website to reach a page on which you can submit your e-mail address. Your user name and password then will be e-mailed to you.
 
-You may also send Us an e-mail at  info@boxycharm.com  to request access to, correct or delete any personal information that you have provided to us. We cannot delete your personal information except by also deleting your user account.
+You may also send Us an e-mail at  [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection)  to request access to, correct or delete any personal information that you have provided to us. We cannot delete your personal information except by also deleting your user account.
 
 ## Your California Privacy Rights
 
-California Civil Code Section § 1798.83 permits users of our Website that are California residents to request certain information regarding our disclosure of personal information to third parties for their direct marketing purposes. To make such a request, please send an e-mail to  info@boxycharm.com . 
+California Civil Code Section § 1798.83 permits users of our Website that are California residents to request certain information regarding our disclosure of personal information to third parties for their direct marketing purposes. To make such a request, please send an e-mail to  [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection) . 
 
 ## Data Security
 
@@ -167,7 +168,7 @@ IF YOU DO NOT AGREE TO THIS WAIVER OF RIGHT TO PURSUE AN AWARD OF DAMAGES AGAINS
 
 ## Children Under the Age of 13
 
-Our Website is not intended for persons under 13 years of age.  If you are under the age of 13 you are not authorized to use the Website. No person under age 13 may provide any Personal Information to or on the Website. We do not knowingly collect Personal Information from persons under 13. If you are under 13, please do not register on the Website, make any purchases through the Website or send any information about yourself to Us, including your name, address, telephone number or e-mail address. In the event that We learn that We have collected Personal Information from a person under age 13 without verification of parental consent, We will use all reasonable efforts to remove Personal Information related to persons under 13 from our database. If you believe that We might have any information from or about a child under 13, please contact Us at  info@boxycharm.com.
+Our Website is not intended for persons under 13 years of age.  If you are under the age of 13 you are not authorized to use the Website. No person under age 13 may provide any Personal Information to or on the Website. We do not knowingly collect Personal Information from persons under 13. If you are under 13, please do not register on the Website, make any purchases through the Website or send any information about yourself to Us, including your name, address, telephone number or e-mail address. In the event that We learn that We have collected Personal Information from a person under age 13 without verification of parental consent, We will use all reasonable efforts to remove Personal Information related to persons under 13 from our database. If you believe that We might have any information from or about a child under 13, please contact Us at  [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection)
 
 This Website and the Company’s offers, products and services are only available to persons over the age of 18. If you are under 18, you may use the Website, and the Company’s offers, products and services only with the involvement and consent of a parent or guardian. 
 
@@ -182,10 +183,10 @@ This Policy may change from time to time, and your continued use of the Website 
 If you have questions regarding this Policy, please contact Us at:
 
 Boxy Charm, Inc.,  
-2000 NW 87th Ave Suite 201  
-Doral, FL 33172  
+880 SW 145th AVE  
+Pembroke Pines, FL, 33027  
 305-705-3752  
-info@boxycharm.com
+[[email protected]](https://web.archive.org/cdn-cgi/l/email-protection)
 
 The date the Policy was last revised is identified at the top of the page.
 
