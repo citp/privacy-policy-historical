@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the northstandchat.com privacy policy that was archived on 2018-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181208050702id_/http%3A//www.northstandchat.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the northstandchat.com privacy policy that was archived on 2019-03-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190330090739id_/https%3A//www.northstandchat.com/privacy.php) for the most accurate reproduction.*
 
 # North Stand Chat - Privacy Policy
 
