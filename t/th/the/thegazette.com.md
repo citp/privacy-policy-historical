@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thegazette.com privacy policy that was archived on 2018-09-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180927130653id_/https%3A//www.thegazette.com/policies) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thegazette.com privacy policy that was archived on 2019-03-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190330201016id_/https%3A//www.thegazette.com/policies) for the most accurate reproduction.*
 
 # Policies | The Gazette
 
@@ -67,3 +67,11 @@ If you would like to opt out of Google Analytics tracking, you may visit this li
 If you have any questions about this privacy statement, the practices of these sites, or your dealings with Gazette Company news web sites you can contact us at news_online@thegazette.com
 
 This Web site uses services provided by News Registry. News Registry collects content usage information and may use cookies in conjunction with this activity. Your continued readership of the Site means you accept the privacy policy of News Registry. Please refer to the News Registry privacy policy at http://www.Newsregistry.Com/Privacycenter/Servicepolicy.Aspx for further information.
+
+### Give us feedback
+
+#### We value your trust and work hard to provide fair, accurate coverage. If you have found an error or omission in our reporting, tell us [here.](https://web.archive.org/corrections-form/)
+
+#### Or if you have a story idea we should look into? Tell us [here.](https://docs.google.com/forms/d/14OzHH_RisjqjTBDUyF_iFPofJ_tYicU8bb9q78pZ3FI/viewform)
+
+### TOP STORIES FROM THE GAZETTE
