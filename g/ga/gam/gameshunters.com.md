@@ -1,41 +1,229 @@
-> *The following text is extracted and transformed from the gameshunters.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606015427id_/http%3A//gameshunters.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gameshunters.com privacy policy that was archived on 2019-03-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190330144911id_/https%3A//gameshunters.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | GamesHunters.com
+# Privacy Policy and Cookies | GamesHunters.com
 
-## Privacy Policy:
+_Last updated: **February 28, 2019**_
 
-GamesHunters.com (" **GamesHunters** ") operates GamesHunters.com and may operate other websites. It is GamesHunters policy to respect your privacy regarding any information we may collect while operating our websites.
+GamesHunters (“us”, “we”, or “our”) operates the GamesHunters.com website (the “Service”).
 
-### Website Visitors
+This page informs you of our policies regarding the collection, use and disclosure of Personal Information when you use our Service.
 
-Like most website operators, GamesHunters collects non-personally-identifying information of the sort that web browsers and servers typically make available, such as the browser type, language preference, referring site, and the date and time of each visitor request. GamesHunters purpose in collecting non-personally identifying information is to better understand how GamesHunters visitors use its website. From time to time, GamesHunters may release non-personally-identifying information in the aggregate, e.g., by publishing a report on trends in the usage of its website.
+We will not use or share your information with anyone except as described in this Privacy Policy.
 
-GamesHunters also collects potentially personally-identifying information like Internet Protocol (IP) addresses for logged in users and for users leaving comments on GamesHunters.com blogs/sites. GamesHunters only discloses logged in user and commenter IP addresses under the same circumstances that it uses and discloses personally-identifying information as described below, except that commenter IP addresses and email addresses are visible and disclosed to the administrators of the blog/site where the comment was left.
+We use your Personal Information for providing and improving the Service. By using the Service, you agree to the collection and use of information in accordance with this policy. Unless otherwise defined in this Privacy Policy, terms used in this Privacy Policy have the same meanings as in our Terms and Conditions, accessible at <https://gameshunters.com/tos/>
 
-### Gathering of Personally-Identifying Information
+## What personal data we collect and why we collect it:
 
-Certain visitors to GamesHunters websites choose to interact with GamesHunters in ways that require GamesHunters to gather personally-identifying information. The amount and type of information that GamesHunters gathers depends on the nature of the interaction. For example, we ask visitors who sign up at [GamesHunters.com](http://gameshunters.com/) to provide a username and email address. Those who engage in transactions with GamesHunters are asked to provide additional information, including as necessary the personal and financial information required to process those transactions. In each case, GamesHunters collects such information only insofar as is necessary or appropriate to fulfill the purpose of the visitor's interaction with GamesHunters. GamesHunters does not disclose personally-identifying information other than as described below. And visitors can always refuse to supply personally-identifying information, with the caveat that it may prevent them from engaging in certain website-related activities.
+  * **Comments**
 
-### Aggregated Statistics
 
-GamesHunters may collect statistics about the behavior of visitors to its websites. GamesHunters may display this information publicly or provide it to others. However, GamesHunters does not disclose personally-identifying information other than as described below.
 
-### Protection of Certain Personally-Identifying Information
+When visitors leave comments on the site we collect the data shown in the comments form, and also the visitor’s IP address and browser user agent string to help spam detection.
 
-GamesHunters discloses potentially personally-identifying and personally-identifying information only to those of its employees, contractors and affiliated organizations that (i) need to know that information in order to process it on GamesHunters behalf or to provide services available at GamesHunters websites, and (ii) that have agreed not to disclose it to others. Some of those employees, contractors and affiliated organizations may be located outside of your home country; by using GamesHunters websites, you consent to the transfer of such information to them. GamesHunters will not rent or sell potentially personally-identifying and personally-identifying information to anyone. Other than to its employees, contractors and affiliated organizations, as described above, GamesHunters discloses potentially personally-identifying and personally-identifying information only in response to a subpoena, court order or other governmental request, or when GamesHunters believes in good faith that disclosure is reasonably necessary to protect the property or rights of GamesHunters, third parties or the public at large. If you are a registered user of an GamesHunters website and have supplied your email address, GamesHunters may occasionally send you an email to tell you about new features, solicit your feedback, or just keep you up to date with what's going on with GamesHunters and our products. If you send us a request (for example via email or via one of our feedback mechanisms), we reserve the right to publish it in order to help us clarify or respond to your request or to help us support other users. GamesHunters takes all measures reasonably necessary to protect against the unauthorized access, use, alteration or destruction of potentially personally-identifying and personally-identifying information.
+Akismets privacy policy – <https://akismet.com/privacy/>
 
-### Cookies
+An anonymized string created from your email address (also called a hash) may be provided to the Gravatar service to see if you are using it.
 
-A cookie is a string of information that a website stores on a visitor's computer, and that the visitor's browser provides to the website each time the visitor returns. GamesHunters uses cookies to help GamesHunters identify and track visitors, their usage of GamesHunters website, and their website access preferences. GamesHunters visitors who do not wish to have cookies placed on their computers should set their browsers to refuse cookies before using GamesHunters websites, with the drawback that certain features of GamesHunters websites may not function properly without the aid of cookies.
+The Gravatar service privacy policy is available here: <https://automattic.com/privacy/>.
 
-### Business Transfers
+After approval of your comment, your profile picture is visible to the public in the context of your comment.
 
-If GamesHunters, or substantially all of its assets, were acquired, or in the unlikely event that GamesHunters goes out of business or enters bankruptcy, user information would be one of the assets that is transferred or acquired by a third party. You acknowledge that such transfers may occur, and that any acquirer of GamesHunters may continue to use your personal information as set forth in this policy.
+  * **Media**
 
-### Ads
 
-Ads appearing on any of our websites may be delivered to users by advertising partners, who may set cookies. These cookies allow the ad server to recognize your computer each time they send you an online advertisement to compile information about you or others who use your computer. This information allows ad networks to, among other things, deliver targeted advertisements that they believe will be of most interest to you. This Privacy Policy covers the use of cookies by GamesHunters and does not cover the use of cookies by any advertisers.
 
-### Privacy Policy Changes
+If you upload images to the website, you should avoid uploading images with embedded location data (EXIF GPS) included. Visitors to the website can download and extract any location data from images on the website.
 
-Although most changes are likely to be minor, GamesHunters may change its Privacy Policy from time to time, and in GamesHunters sole discretion. GamesHunters encourages visitors to frequently check this page for any changes to its Privacy Policy. If you have a GamesHunters.com account, you might also receive an alert informing you of these changes. Your continued use of this site after any change in this Privacy Policy will constitute your acceptance of such change.
+  * **Cookies**
+
+
+
+Cookies are files with small amount of data, which may include an anonymous unique identifier. Cookies are sent to your browser from a web site and stored on your computer’s hard drive.
+
+We use “cookies” to collect information. You can instruct your browser to refuse all cookies or to indicate when a cookie is being sent. However, if you do not accept cookies, you may not be able to use some portions of our Service.
+
+If you leave a comment on our site you may opt-in to saving your name, email address and website in cookies. These are for your convenience so that you do not have to fill in your details again when you leave another comment. These cookies will last for one year.
+
+If you have an account and you log in to this site, we will set a temporary cookie to determine if your browser accepts cookies. This cookie contains no personal data and is discarded when you close your browser.
+
+When you log in, we will also set up several cookies to save your login information and your screen display choices. Login cookies last for two days, and screen options cookies last for a year. If you select “Remember Me”, your login will persist for two weeks. If you log out of your account, the login cookies will be removed.
+
+If you edit or publish an article, an additional cookie will be saved in your browser. This cookie includes no personal data and simply indicates the post ID of the article you just edited. It expires after 1 day.
+
+  * **Embedded content from other websites**
+
+
+
+Articles on this site may include embedded content (e.g. videos, images, articles, etc.). Embedded content from other websites behaves in the exact same way as if the visitor has visited the other website.
+
+These websites may collect data about you, use cookies, embed additional third-party tracking, and monitor your interaction with that embedded content, including tracing your interaction with the embedded content if you have an account and are logged in to that website.
+
+Youtube Privacy Policy – <https://www.youtube.com/yt/about/policies/#community-guidelines>
+
+  * **Links To Other Sites**
+
+
+
+Our Service may contain links to other sites that are not operated by us. If you click on a third party link, you will be directed to that third party’s site. We strongly advise you to review the Privacy Policy of every site you visit. Some of them are listed below:
+
+[Bluestacks Privacy Policy and TOS](https://www.bluestacks.com/terms-and-privacy.html)
+
+[Andy OS Privacy Policy](https://www.andyroid.net/privacy-policy)
+
+[Nox Privacy Policy](https://www.bignox.com/privacy)
+
+[Memu Privacy Policy](https://www.memuplay.com/privacy.html)
+
+[Google Privacy Policy](https://policies.google.com/privacy?hl=en)
+
+[Apple’s Privacy Policy](https://www.apple.com/legal/privacy/en-ww/)
+
+[Amazon Privacy Notice](https://www.amazon.com/gp/help/customer/display.html?nodeId=468496)
+
+We have no control over, and assume no responsibility for the content, privacy policies or practices of any third party sites or services.
+
+  * **Automatically-Collected   Log Information (Analytics)  
+**
+
+
+
+We automatically collect certain information about you and the device with which you access the Website. For example, when you use the Website, we will log your IP address, operating system type, browser type, referring website, pages you viewed, and the dates/times when you accessed the Website. We may also collect information about actions you take when using the Website, such as links clicked.
+
+Cloudflare Privacy Policy can be found here – <https://www.cloudflare.com/privacypolicy/>
+
+Google Analytics Privacy can be found here – <https://policies.google.com/privacy?hl=en>
+
+If you’d like to opt out of tracking by Google Analytics, visit the [Google Analytics opt-out page](https://tools.google.com/dlpage/gaoptout).
+
+[Or use our opt-in/opt-out consent pop-up for EU users.](https://gameshunters.com/gdpr/)
+
+## How long we retain your data
+
+If you leave a comment, the comment and its metadata are retained indefinitely. This is so we can recognize and approve any follow-up comments automatically instead of holding them in a moderation queue.
+
+For users that register on our website (if any), we also store the personal information they provide in their user profile. All users can see, edit, or delete their personal information at any time (except they cannot change their username). Website administrators can also see and edit that information.
+
+## What rights you have over your data
+
+If you have an account on this site, or have left comments, you can request to receive an exported file of the personal data we hold about you, including any data you have provided to us. You can also request that we erase any personal data we hold about you. Please contact us from the [contact form](https://gameshunters.com/contact-us/) or use Data Access Request section in the bottom of this page. This does not include any data we are obliged to keep for administrative, legal, or security purposes.
+
+## Why we use your Personal Data
+
+We use your Personal Data in order to:
+
+  * collect personal information from you such as your name and email address. For example, you may voluntarily submit information to the Website by leaving a comment or using the contact us page.
+  * enhance user experience;
+  * To respond to your comments or inquiries;
+  * To provide you with user support;
+  * To track and measure advertising on the Website;
+  * To protect, investigate, and deter against unauthorized or illegal activity.
+
+
+
+## How we use your data and data security **  
+**
+
+We do our best to keep your Personal Data safe.  We use safe protocols for communication and transferring data (such as HTTPS). We use anonymizing where suitable.
+
+From time to time, we may use anonymous data, which does not identify you alone, or when combined with data from other parties. This type of anonymous data may be provided to other parties for marketing, advertising, or other uses. Examples of this anonymous data may include analytics or information collected from cookies.
+
+The security of your Personal Information is important to us, but remember that no method of transmission over the Internet, or method of electronic storage is 100% secure. While we strive to use commercially acceptable means to protect your Personal Information, we cannot guarantee its absolute security.
+
+## Children’s Privacy
+
+Our Service does not address anyone under the age of 16 (“Children”).
+
+We do not knowingly collect personally identifiable information from children under 16. If a parent or guardian believes that the Website has personally identifiable information of a child under the age of 16 in its database, please [contact us](https://gameshunters.com/contact-us/) immediately at and we will use our best efforts to promptly remove such information from our records. You can also use Data Access Request section in the bottom of this page.
+
+## Sensitive Personal Information
+
+At no time should you submit sensitive personal information via comments or email to the Website, including your social security number, PAN/Aadhar card number, information regarding race or ethnic origin, political opinions, religious beliefs, health information, criminal background, or trade union memberships. If you elect to submit such information to us, it will be subject to this Privacy Policy.
+
+## Cookies and other technologies we use
+
+[**Change Your Cookie Settings Here**](https://gameshunters.com/gdpr/)
+
+The website uses cookies and/or similar technologies to analyze customer behavior, administer, track users’ movements, and to collect information about users. This is done in order to personalize and enhance your experience with us.
+
+A cookie is a tiny text file stored on your computer. Cookies store information that is used to help make sites work. Only we can access the cookies created by our website. You can control your cookies at the browser level and with the optin/optout pop-up for EU users. Choosing to disable cookies may hinder your use of certain functions.
+
+**We use cookies for the following purposes:**
+
+  * **Essential cookies** – these cookies are required for you to be able to use some important features on our website, such as logging in. These cookies don’t collect any personal information.
+  * **Functionality cookies** – these cookies provide functionality that makes using our service more convenient and makes providing more personalized features possible. For example, they might remember your name and e-mail in comment forms so you don’t have to re-enter this information next time when commenting.
+  * **Analytics cookies** – these cookies are used to track the use and performance of our website and services
+  * **Advertising cookies** – these cookies are used to deliver advertisements that are relevant to you and to your interests. Example – third party vendors, including Google, Doubleclick and others. In addition, they are used to limit the number of times you see an advertisement. They are usually placed to the website by advertising networks with the website operator’s permission. These cookies remember that you have visited a website and this information is shared with other organizations such as advertisers. Often targeting or advertising cookies will be linked to site functionality provided by the other organization.
+
+
+
+**Google AdSense & DoubleClick Cookie – **Google, as a third party vendor, uses cookies to serve ads on our website.
+
+  * Third party vendors, including Google, use cookies to serve ads based on a user’s prior visits to your website or other websites.
+  * Google’s use of advertising cookies enables it and its partners to serve ads to your users based on their visit to your sites and/or other sites on the Internet.
+  * Users may opt out of personalized advertising by visiting [Ads Settings](http://optout.aboutads.info/?c=2&lang=EN).
+
+
+
+[**For our site’s pages, there is a an opt-in and opt-out consent pop-up for EU users.**](https://gameshunters.com/gdpr/)
+
+### Manage cookies on your browser
+
+You also can remove cookies stored in your computer via your browser settings. Alternatively, you can control some 3rd party cookies by using a privacy enhancement platform such as [optout.aboutads.info](http://optout.aboutads.info/?c=2&lang=EN#!%2F) or [youronlinechoices.com](http://www.youronlinechoices.com/). For more information about cookies, visit [allaboutcookies.org](http://www.allaboutcookies.org/).
+
+For the management of cookies and your choices, the configuration of each browser is different. It is described in the help menu of your browser, which will allow you to know how to change your selection for cookies:
+
+  * **Google Chrome**
+
+
+
+[https://support.google.com/chrome/bin/answer.py?hl=en&hlrm=en&answer=95647](https://support.google.com/chrome/answer/95647?hl=en&hlrm=en)
+
+  * **Microsoft Internet Explorer**
+
+
+
+<https://support.microsoft.com/en-us/help/17442/windows-internet-explorer-delete-manage-cookies>
+
+  * **Microsoft Edge**
+
+
+
+<https://privacy.microsoft.com/en-us/windows-10-microsoft-edge-and-privacy>
+
+  * **Apple Safari**
+
+
+
+<https://support.apple.com/guide/safari/manage-cookies-and-website-data-sfri11471/mac>
+
+  * **Mozilla Firefox**
+
+
+
+<https://support.mozilla.org/en-US/kb/enable-and-disable-cookies-website-preferences>
+
+  * **Opera**
+
+
+
+<https://help.opera.com/en/latest/web-preferences/>
+
+### Cookies Found in GamesHunters
+
+## Changes To This Privacy Policy
+
+We reserve the right to make change to this Privacy Policy.
+
+We may update our Privacy Policy from time to time. We will notify you of any changes by posting the new Privacy Policy on this page.
+
+You are advised to review this Privacy Policy periodically for any changes. Changes to this Privacy Policy are effective when they are posted on this page.
+
+_Last updated: **February 28, 2019**_
+
+## Contact Us
+
+If you have any questions about this Privacy Policy, please [contact us](https://gameshunters.com/contact-us/).
+
+## GDPR Data Access/Removal Request
+
+If you want to access/remove your personal data or unsubscribe from this website(eg comments, contact forms), you can request it below(or contact us).
