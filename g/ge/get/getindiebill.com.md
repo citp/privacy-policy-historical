@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the getindiebill.com privacy policy that was archived on 2018-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181225231845id_/https%3A//www.getindiebill.com/legal/policy/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the getindiebill.com privacy policy that was archived on 2019-03-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190330142353id_/https%3A//www.getindiebill.com/legal/policy/privacy) for the most accurate reproduction.*
 
 # Legal
 
