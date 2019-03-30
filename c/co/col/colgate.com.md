@@ -1,28 +1,64 @@
-> *The following text is extracted and transformed from the colgate.com privacy policy that was archived on 2018-08-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180826031649id_/https%3A//www.colgatepalmolive.com/en-us/legal-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the colgate.com privacy policy that was archived on 2019-03-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190330223823id_/https%3A//www.colgatepalmolive.com/en-us/legal-privacy-policy) for the most accurate reproduction.*
 
 # Legal Privacy Policy
 
-05/2018
+03/2019
 
-Colgate-Palmolive, including Hill's Pet Nutrition respects your privacy and values the relationship we have with you. Therefore, we handle your personal data responsibly, and we want you to be familiar with how we collect, use, and disclose your data. This Privacy Policy describes our practices in connection with your data (as defined below) that we collect in the following ways:
+Colgate-Palmolive Company respects your privacy and values the relationship we have with you.  Therefore, we handle your personal data responsibly, and we want you to be familiar with how we collect, use, and disclose your data.  This Privacy Policy describes our practices in connection with your data (as defined below) that we collect in the following ways:
 
-● On Websites operated by us, from which you are accessing this Privacy Policy (our “ **Websites** ”),
+•        On Websites operated by us, from which you are accessing this Privacy Policy (our “ **Websites** ”),
 
-● Through software applications made available by us for use on or through computers and mobile devices (our “ **Apps** ”),
+•        Through software applications made available by us for use on or through computers and mobile devices (our “ **Apps** ”),
 
-● On Social Media Pages and apps that link to this Privacy Policy (collectively, our “ **Social Media Pages** ”),
+•        On Social Media Pages and apps that link to this Privacy Policy (collectively, our “ **Social Media Pages** ”),
 
-● From HTML-formatted email messages that we send to you that link to this Privacy Policy, and
+•        From HTML-formatted email messages that we send to you that link to this Privacy Policy, and
 
-● In offline interactions you have with us.
+•        In offline interactions you have with us.
 
 This Privacy Policy also describes our practices in connection with data that we collect about professionals such as dental and veterinary professionals, and students and health care experts (“ **Professionals** ”), in order to provide them with professionally-oriented services (“ **Professional Services** ”).
 
 In this Privacy Policy, we refer to our Websites, our Apps, our Social Media Pages, our email messages, our offline activities and our Professional Services collectively as the “ **Services** ”.
 
-For information regarding our Connected Toothbrush, please see our [Connected Toothbrush Privacy Policy](https://shop.colgate.com/pages/privacy) _._
+For information regarding our Connected Toothbrush, please see our [Connected Toothbrush Privacy Policy](https://shop.colgate.com/pages/privacy)
 
-__________________________________________________
+**[PERSONAL DATA](https://web.archive.org/en-us/legal-privacy-policy#personaldata)**
+
+**[COLLECTION OF PERSONAL DATA](https://web.archive.org/en-us/legal-privacy-policy#collection)**
+
+**[USE OF PERSONAL DATA](https://web.archive.org/en-us/legal-privacy-policy#use)**
+
+**[INTERACTING WITH PROFESSIONALS](https://web.archive.org/en-us/legal-privacy-policy#interacting)**
+
+**[DISCLOSURE OF PERSONAL DATA](https://web.archive.org/en-us/legal-privacy-policy#disclosure)**
+
+**[OTHER DATA](https://web.archive.org/en-us/legal-privacy-policy#other)**
+
+**[SECURITY](https://web.archive.org/en-us/legal-privacy-policy#security)**
+
+**[CHOICES AND ACCESS](https://web.archive.org/en-us/legal-privacy-policy#choices)**
+
+**[RETENTION PERIOD](https://web.archive.org/en-us/legal-privacy-policy#retention)**
+
+**[THIRD PARTY SERVICES](https://web.archive.org/en-us/legal-privacy-policy#third)**
+
+**[OUR ADVERTISING](https://web.archive.org/en-us/legal-privacy-policy#our)**
+
+**[MINORS](https://web.archive.org/en-us/legal-privacy-policy#minors)**
+
+**[JURISDICTION AND CROSS-BORDER TRANSFERS](https://web.archive.org/en-us/legal-privacy-policy#jurisdiction)**
+
+**[SENSITIVE PERSONAL DATA](https://web.archive.org/en-us/legal-privacy-policy#sensitive)**
+
+**[THIRD-PARTY PAYMENT SERVICE](https://web.archive.org/en-us/legal-privacy-policy#party)**
+
+**[UPDATES TO THIS PRIVACY POLICY](https://web.archive.org/en-us/legal-privacy-policy#updates)**
+
+**[CONTACTING US](https://web.archive.org/en-us/legal-privacy-policy#contacting)**
+
+**[ADDITIONAL INFORMATION FOR INDIVIDUALS IN THE EUROPEAN ECONOMIC AREA (“EEA”)](https://web.archive.org/en-us/legal-privacy-policy#additional)**
+
+**____________________________________________________________**
 
 **PERSONAL DATA**
 
@@ -30,63 +66,63 @@ __________________________________________________
 
 Personal data includes:
 
-● Name
+•        Name
 
-● Postal address (including billing and shipping addresses)
+•        Postal address (including billing and shipping addresses)
 
-● Telephone number
+•        Telephone number
 
-● Email address
+•        Email address
 
-● Credit and debit card number
+•        Credit and debit card number
 
-● Profile picture or other photographs of you
+•        Profile picture or other photographs of you
 
-● Social media account ID
+•        Social media account ID
 
-● Adverse Event information about you
+•        Adverse Event information about you
 
-● Other information such as age, country, or the names of your pets when it is linked to you
+•        Other information such as age, country, or the names of your pets when it is linked to you
 
-● Your Interests (such as topics about which you request data or otherwise indicate interest)
+•        Your Interests (such as topics about which you request data or otherwise indicate interest)
 
 **Collection of Personal Data**
 
-We and our service providers collect Personal Data in a variety of ways, including:
+We and our service providers collect Personal Data in a variety of ways, including: 
 
-● **Through the Services**
+•        **Through the Services**  
 
-− We collect Personal Data through the Services, for example, when you sign up for a newsletter, register an account, create a profile, or make a purchase.
+-         We collect Personal Data through the Services, for example, when you sign up for a newsletter, register an account, create a profile, or make a purchase.
 
-● **Offline**
+•        **Offline**  
 
-− We collect Personal Data from you offline, for example:
+-         We collect Personal Data from you offline, for example:
 
-o When you place an order over the phone, contact Consumer Affairs or reach out to us with any other inquiry;
+o    When you place an order over the phone, contact Consumer Affairs or reach out to us with any other inquiry;
 
-o When you visit our booth at a tradeshow or visit our facilities;
+o    When you visit our booth at a tradeshow or visit our facilities;
 
-o When you participate in our programs or activities or provide data at industry events;
+o    When you participate in our programs or activities or provide data at industry events;
 
-o When you participate in an offline sweepstakes or promotion;
+o    When you participate in an offline sweepstakes or promotion;
 
-o When you or someone on your behalf reports an adverse event with respect to one of our products.
+o    When you or someone on your behalf reports an adverse event with respect to one of our products.
 
-● **From Other Sources**
+•        **From Other Sources**  
 
-− We receive your Personal Data from other sources, for example:
+-         We receive your Personal Data from other sources, for example:
 
-o Publicly available databases and sources;
+o    Publicly available databases and sources;
 
-o Data companies;
+o    Data companies;
 
-o Joint marketing partners;
+o    Joint marketing partners;
 
-o Third parties who report adverse events regarding a product to us.
+o    Third parties who report adverse events regarding a product to us.
 
-− If you connect your social media account to any account offered by us, you will share certain Personal Data from your social media account with us, such as your name, email address, photos, list of social media contacts, and any other data that may be (or that you make) accessible to us when you connect your social media account to any account offered by us.
+-         If you connect your social media account to any account offered by us, you will share certain Personal Data from your social media account with us, such as your name, email address, photos, list of social media contacts, and any other data that may be (or that you make) accessible to us when you connect your social media account to any account offered by us. 
 
-In many instances, we need to collect Personal Data in order to provide the requested Services to you. If you do not provide the Personal Data requested, we may not be able to provide the Services. If you disclose any Personal Data relating to other people to us or to our service providers in connection with the Services, you represent that you have the authority to do so and to permit us to use the Personal Data in accordance with this Privacy Policy.
+In many instances, we need to collect Personal Data in order to provide the requested Services to you.  If you do not provide the Personal Data requested, we may not be able to provide the Services.  If you disclose any Personal Data relating to other people to us or to our service providers in connection with the Services, you represent that you have the authority to do so and to permit us to use the Personal Data in accordance with this Privacy Policy.
 
 **Use of Personal Data**
 
@@ -96,127 +132,140 @@ We and our service providers use Personal Data for legitimate business purposes 
 
 We use Personal Data when interacting with Consumers and the Public for the following purposes including:
 
-● **Providing the Services and fulfilling your requests.**
+•        **Providing the Services and fulfilling your requests.   
+**
 
-− To provide the Services to you, such as arranging access to an account you set up with us.
+-         To provide the Services to you, such as arranging access to an account you set up with us.
 
-− To respond to your inquiries and fulfill your requests, when you contact us via one of our online contact forms, by telephone or otherwise, for example, when you send us questions, suggestions, compliments, or complaints.
+-         To respond to your inquiries and fulfill your requests, when you contact us via one of our online contact forms, by telephone or otherwise, for example, when you send us questions, suggestions, compliments, or complaints.
 
-o To the extent you elect to share personal information, for instance about your skin or oral health, we will use that information consistent with the notice we provide to you at that time and with your consent.
+o    To the extent you elect to share personal information, for instance about your skin or oral health, we will use that information consistent with the notice we provide to you at that time and with your consent.
 
-− To send administrative information to you, such as changes to our terms, conditions, and policies.
+-         To send administrative information to you, such as changes to our terms, conditions, and policies.
 
-− To allow you to send messages to another person, through referrals or “send to a friend” features.
+-         To allow you to send messages to another person, through referrals or “send to a friend” features.
 
-− To facilitate social sharing functionality, if you choose to use such functionality.
+-         To facilitate social sharing functionality, if you choose to use such functionality.
 
-− To provide you with customer service.
+-         To provide you with customer service.
 
-● **Providing you with information about our products and/or other marketing materials.**
+•        **Providing you with information about our products and/or other marketing materials.**    
 
-− To send you marketing related emails, with information about our services, products, and other news about us.
 
-● **Analysis of Personal Data for business reporting and providing personalized services.**
+-         To send you marketing related emails, with information about our services, products, and other news about us.
 
-− To analyze or predict your preferences in order to prepare aggregated trend reports on how our digital content is used.
+•        **Analysis of Personal Data for business reporting and providing personalized services.   
+**
 
-− To better understand you, so that we can personalize our interactions with you and provide you with information and/or offers tailored to your interests.
+-         To analyze or predict your preferences in order to prepare aggregated trend reports on how our digital content is used.
 
-− To better understand your preferences so that we can deliver content via our Services that we believe will be relevant and interesting to you.
+-         To better understand you, so that we can personalize our interactions with you and provide you with information and/or offers tailored to your interests.
 
-● **Allowing you to participate in sweepstakes, contests, or other promotions.**
+-         To better understand your preferences so that we can deliver content via our Services that we believe will be relevant and interesting to you.
 
-− We may offer you the opportunity to participate in a sweepstakes, contest, or other promotion.
+•        **Allowing you to participate in sweepstakes, contests, or other promotions.   
+**
 
-− Some of these promotions have additional rules containing information about how we will use and disclose your Personal Data.
+-         We may offer you the opportunity to participate in a sweepstakes, contest, or other promotion. 
 
-● **Allowing you to participate in the Colgate Bright Smiles, Bright Futures® program.**
+-         Some of these promotions have additional rules containing information about how we will use and disclose your Personal Data.
 
-− To administer the program.
+•        **Allowing you to participate in the Colgate Bright Smiles, Bright Futures® program.   
+**
 
-− To ensure that the samples are being used appropriately.
+-         To administer the program.
 
-● **Aggregating and/or anonymizing Personal Data.**
+-         To ensure that the samples are being used appropriately.
 
-− We may aggregate and/or anonymize Personal Data so that it will no longer be considered Personal Data. We do so to generate other data for our use, which we may use and disclose for any purpose.
+•        **Aggregating and/or anonymizing Personal Data.**    
 
-● **Accomplishing our business purposes.**
 
-− For audits, to verify that our internal processes function as intended and are compliant with legal, regulatory, or contractual requirements.
+-         We may aggregate and/or anonymize Personal Data so that it will no longer be considered Personal Data.  We do so to generate other data for our use, which we may use and disclose for any purpose.
 
-− For fraud and security monitoring purposes, for example, to detect and prevent cyberattacks or attempts to commit identity theft.
+•        **Accomplishing our business purposes.   
+**
 
-− For developing new products and services.
+-         For audits, to verify that our internal processes function as intended and are compliant with legal, regulatory, or contractual requirements.
 
-− For enhancing, improving, or modifying our current products and services.
+-         For fraud and security monitoring purposes, for example, to detect and prevent cyberattacks or attempts to commit identity theft.
 
-− To manage and report adverse event reporting relating to our products.
+-         For developing new products and services.
 
-− For identifying usage trends, for example, understanding which parts of our Services are of most interest to users.
+-         For enhancing, improving, or modifying our current products and services.
 
-− For determining the effectiveness of our promotional campaigns, so that we can adapt our campaigns to the needs and interests of our users.
+-         To manage and report adverse event reporting relating to our products.
 
-− For operating and expanding our business activities.
+-         For identifying usage trends, for example, understanding which parts of our Services are of most interest to users.
+
+-         For determining the effectiveness of our promotional campaigns, so that we can adapt our campaigns to the needs and interests of our users. 
+
+-         For operating and expanding our business activities.
 
 We engage in these activities to manage our relationship with you, to comply with a legal obligation, in some circumstances when we have your consent and/or because we have a legitimate business interest.
 
 **Interacting with Professionals**
 
-In addition, we and our service providers collect and use information regarding Professionals.
+In addition, we and our service providers collect and use information regarding Professionals.   
+
 
 Such information includes:
 
-● Your Preferred language
+•        Your Preferred language
 
-● Professional biography and education
+•        Professional biography and education
 
-● Webstore account number and ID
+•        Webstore account number and ID
 
-● Data related to your licensures, specialties, affiliations, publications, credentials, and other achievements
+•        Data related to your licensures, specialties, affiliations, publications, credentials, and other achievements
 
-● Data related to your use and purchase of our products, your interactions with us, and services for those to whom you provide care
+•        Data related to your use and purchase of our products, your interactions with us, and services for those to whom you provide care
 
 We use Personal Data about Professionals for the following purposes (in addition to the purposes listed under Consumers and the Public), including:
 
-● **Fulfilling requests related to our Professional Services.**
+•           **Fulfilling requests related to our Professional Services.**    
 
-− To pay for services or reimburse expenses.
 
-− To assist in planning trips related to our business or conferences.
+-         To pay for services or reimburse expenses.
 
-− To provide you with the products and samples you have requested.
+-         To assist in planning trips related to our business or conferences.
 
-− To identify and engage with Professionals as scientific experts or professional leaders.
+-         To provide you with the products and samples you have requested.
 
-− To enforce the contractual terms and conditions governing our relationship with Professionals.
+-         To identify and engage with Professionals as scientific experts or professional leaders.
 
-● **Engaging with Professionals**
+-         To enforce the contractual terms and conditions governing our relationship with Professionals.
 
-− To interact with you based on your professional expertise and opinion by digital or other means.
+•           **Engaging with Professionals   
+**
 
-− To involve you in programs/panels of professionals.
+-         To interact with you based on your professional expertise and opinion by digital or other means.
 
-− To reach out to you for your professional expertise, for example, in the context of surveys relating to products or services offered by us or an affiliate.
+-         To involve you in programs/panels of professionals.
 
-− To collaborate with you on events, publications, or advisory meetings.
+-         To reach out to you for your professional expertise, for example, in the context of surveys relating to products or services offered by us or an affiliate.
 
-− To seek your views on products and services promoted by us, an affiliate, or business partner for development and improvement purposes.
+-         To collaborate with you on events, publications, or advisory meetings.
 
-● **Allowing Professionals to participate in special programs, events or promotions.**
+-         To seek your views on products and services promoted by us, an affiliate, or business partner for development and improvement purposes.                
 
-− In these cases, we may use Professionals’ Personal Data in additional ways as disclosed as part of these special programs, activities, events, or promotions.
+•          **Allowing Professionals to participate in special programs, events or promotions.   
+**
 
-● **Allowing Professionals to create a webstore.**
+-         In these cases, we may use Professionals’ Personal Data in additional ways as disclosed as part of these special programs, activities, events, or promotions. 
 
-− We give Professionals the opportunity to create a webstore to help them provide optimal patient services and convenient access to our products.
+•        **Allowing Professionals to create a webstore.   
+**
 
-● **Accomplishing our business purposes.**
+-         We give Professionals the opportunity to create a webstore to help them provide optimal patient services and convenient access to our products. 
 
-− To comply with anti-corruption and transparency obligations.
+•        **Accomplishing our business purposes.   
+**
 
-− To track and respond to concerns and meet our regulatory monitoring and reporting obligations, including those related to product complaints, product/patient safety, and background checks.
+-         To comply with anti-corruption and transparency obligations.
 
-− To better understand how our products and services affect Professionals and their patients.
+-         To track and respond to concerns and meet our regulatory monitoring and reporting obligations, including those related to product complaints, product/patient safety, and background checks.
+
+-         To better understand how our products and services affect Professionals and their patients.
 
 We engage in these activities to manage our relationship with you, to comply with a legal obligation, in some circumstances when we have your consent, for scientific purposes and/or because we have a legitimate business interest.
 
@@ -224,177 +273,177 @@ We engage in these activities to manage our relationship with you, to comply wit
 
 We use Personal Data about Customers for the following purposes (in addition to the purposes listed under Consumers and the Public), including:
 
-● **Providing the Services and fulfilling your requests.**
+•        **Providing the Services and fulfilling your requests.**
 
-− To complete your transactions with us.
+-         To complete your transactions with us.
 
-● **Accomplishing our business purposes.**
+•        **Accomplishing our business purposes.**
 
-− To comply with anti-corruption and transparency obligations.
+-         To comply with anti-corruption and transparency obligations.
 
-− To track and respond to concerns and meet our regulatory monitoring and reporting obligations, including those related to product complaints, product/patient safety, and background checks.
+-         To track and respond to concerns and meet our regulatory monitoring and reporting obligations, including those related to product complaints, product/patient safety, and background checks.
 
-− To better understand how our products and services affect Professionals and those for whom they care.
+-         To better understand how our products and services affect Professionals and those for whom they care.
 
-● **Accomplishing our business purposes.**
+•        **Accomplishing our business purposes.**
 
-− To comply with anti-corruption and transparency obligations.
+-         To comply with anti-corruption and transparency obligations.
 
-− To track and respond to concerns and meet our regulatory monitoring and reporting obligations, including those related to product complaints, product/patient safety, and background checks.
+-         To track and respond to concerns and meet our regulatory monitoring and reporting obligations, including those related to product complaints, product/patient safety, and background checks.
 
-− To better understand how our products and services affect Professionals and those for whom they care.
+-         To better understand how our products and services affect Professionals and those for whom they care.
 
 We engage in these activities to manage our relationship with you, to comply with a legal obligation, in some circumstances when we have your consent and/or because we have a legitimate business interest.
 
-**Disclosure of Personal Data**
+**Disclosure of Personal Data  **
 
-We disclose Personal Data:
+We disclose Personal Data: 
 
-● **To our subsidiaries and affiliates for the purposes described in this Privacy Policy.**
+•        **To our subsidiaries and affiliates for the purposes described in this Privacy Policy.**
 
-− You can consult the list and location of our subsidiaries or affiliates [here](https://www.sec.gov/Archives/edgar/data/21665/000002166518000006/exhibit2112312017.htm)
+-        You can consult the list and location of our subsidiaries or affiliates _[here](https://www.colgatepalmolive.com/en-us/legal-privacy-policy/data-controllers)_
 
-− The Colgate-Palmolive subsidiary or affiliate that has collected your Personal Data will be responsible for Personal Data about you that is transferred and used.
+-         The Colgate-Palmolive subsidiary or affiliate that has collected your Personal Data will be responsible for Personal Data about you that is transferred and used.
 
-● **To our third party service providers, to facilitate services they provide to us.**
+•        **To our third party service providers, to facilitate services they provide to us.**
 
-− These can include providers of services such as website hosting, data analysis, payment processing, order fulfillment, information technology and related infrastructure provision, customer service, email delivery, auditing, and other services.
+-         These can include providers of services such as website hosting, data analysis, payment processing, order fulfillment, information technology and related infrastructure provision, customer service, email delivery, auditing, and other services.
 
-● **To third parties, to permit them to send you marketing communications, consistent with your choices.**
+•        **To third parties, to permit them to send you marketing communications, consistent with your choices.**
 
-● **To third-party sponsors of sweepstakes, contests, and similar promotions, consistent with your choices.**
+•        **To third-party sponsors of sweepstakes, contests, and similar promotions, consistent with your choices.**
 
-● **In connection with providing our Professional Services, to other companies with which we collaborate regarding particular products or services.**
+•        **In connection with providing our Professional Services, to other companies with which we collaborate regarding particular products or services.**
 
-− These can include our co-promotion partners for products that we jointly develop and/or market.
+-         These can include our co-promotion partners for products that we jointly develop and/or market.
 
 By using the Services, you may also elect to disclose Personal Data.
 
-− You may disclose Personal Data on message boards, chat, profile pages, blogs, and other services to which you are able to post data and content (including, without limitation, our Social Media Pages). Please note that any Personal Data you post or disclose through these services will become public and may be available to other users and the general public.
+-         You may disclose Personal Data on message boards, chat, profile pages, blogs, and other services to which you are able to post data and content (including, without limitation, our Social Media Pages).  Please note that any Personal Data you post or disclose through these services will become public and may be available to other users and the general public.
 
-− You may also disclose Personal Data through your social sharing activity. When you connect your Services account with your social media account, you may share data with your friends associated with your social media account, with other users, and with your social media account provider. By doing so, you authorize us to facilitate this sharing of data, and you understand that the use of shared data will be governed by the social media provider’s privacy policy.
+-         You may also disclose Personal Data through your social sharing activity.  When you connect your Services account with your social media account, you may share data with your friends associated with your social media account, with other users, and with your social media account provider.  By doing so, you authorize us to facilitate this sharing of data, and you understand that the use of shared data will be governed by the social media provider’s privacy policy.
 
 **Other Uses and Disclosures**
 
 We also use and disclose your Personal Data as necessary or appropriate:
 
-● **To comply with applicable law and regulations.**
+•        **To comply with applicable law and regulations.**
 
-● **To cooperate with public and government authorities.**
+•        **To cooperate with public and government authorities.**
 
-● **To cooperate with law enforcement.**
+•        **To cooperate with law enforcement.**
 
-● **In connection with a sale, reorganization, joint venture or other business transaction** , **where we have a legitimate interest in disclosing or transferring your Personal Data to a third party.**
+•        **In connection with a sale, reorganization, joint venture or other business transaction** , **where we have a legitimate interest in disclosing or transferring your Personal Data to a third party.**
 
-● **For other legal reasons, such as enforcing our terms and conditions or protecting our rights, privacy, safety, or property, and/or that of our subsidiaries or affiliates, you, or others.**
+•        **For other legal reasons, such as enforcing our terms and conditions or protecting our rights, privacy, safety, or property, and/or that of our subsidiaries or affiliates, you, or others.**
 
 These uses and disclosures of your personal data can occur outside your country of residence.
 
 **OTHER DATA**
 
-****“ **Other Data** ” is any data that does not reveal your specific identity or does not directly relate to an identifiable individual:
+** ** “ **Other Data** ” is any data that does not reveal your specific identity or does not directly relate to an identifiable individual:
 
-● Browser and device data
+•        Browser and device data
 
-● App usage data
+•        App usage data
 
-● Data collected through cookies, pixel tags, and other technologies
+•        Data collected through cookies, pixel tags, and other technologies
 
-● Demographic and other data provided by you that does not reveal your specific identity
+•        Demographic and other data provided by you that does not reveal your specific identity
 
-● Data that has been aggregated in a manner such that it no longer reveals your specific identity
+•        Data that has been aggregated in a manner such that it no longer reveals your specific identity
 
 Some Other Data will be considered Personal Data in some countries. If we are required to treat Other Data as Personal Data under applicable law, then we will use and disclose it for the purposes for which we use and disclose Personal Data, as detailed in this Privacy Policy.
 
 **Collection of Other Data**
 
-We and our service providers may collect Other Data in a variety of ways, including:
+We and our service providers may collect Other Data in a variety of ways, including: 
 
-● **Through your browser or device**
+•        **Through your browser or device**
 
-● Certain data is collected by most browsers or automatically through your device, such as your Media Access Control (MAC) address, computer type (Windows or Mac), screen resolution, operating system name and version, device manufacturer and model, language, Internet browser type and version, and the name and version of the Services (such as the App) you are using.
+•        Certain data is collected by most browsers or automatically through your device, such as your Media Access Control (MAC) address, computer type (Windows or Mac), screen resolution, operating system name and version, device manufacturer and model, language, Internet browser type and version, and the name and version of the Services (such as the App) you are using. 
 
-● **Through your use of an App**
+•        **Through your use of an App**
 
-● When you download and use an App, we and our service providers may track and collect App usage data, such as the date and time the App on your device accesses our servers and what data and files have been downloaded to the App based on your device number.
+•        When you download and use an App, we and our service providers may track and collect App usage data, such as the date and time the App on your device accesses our servers and what data and files have been downloaded to the App based on your device number.
 
-● **Using cookies**
+•        **Using cookies**
 
-● Cookies are pieces of data stored directly on the computer that you are using. Cookies allow us to collect data such as browser type, time spent on the Services, pages visited, referring websites, and other traffic data. For more information about cookies, please see our [Cookies Policy](https://www.colgatepalmolive.com/en-us/legal-privacy-policy/cookies).
+•        Cookies are pieces of data stored directly on the computer that you are using.  Cookies allow us to collect data such as browser type, time spent on the Services, pages visited, referring websites, and other traffic data.  For more information about cookies, please see our [Cookies Policy](https://web.archive.org/en-us/legal-privacy-policy/cookies)
 
-We do not currently respond to browser do-not-track signals. **** If you do not want data collected through the use of cookies, most browsers allow you to automatically decline cookies or be given the choice of declining or accepting a particular cookie (or cookies) from a particular website. You may also wish to refer to [http://www.allaboutcookies.org](http://www.allaboutcookies.org/). If, however, you do not accept cookies, you may experience some inconvenience in your use of the Services. You also may not receive advertising or other offers from us that are relevant to your interests and needs.
+We do not currently respond to browser do-not-track signals. ****  If you do not want data collected through the use of cookies, most browsers allow you to automatically decline cookies or be given the choice of declining or accepting a particular cookie (or cookies) from a particular website.  You may also wish to refer to _[http://www.allaboutcookies.org](http://www.allaboutcookies.org/)_.  If, however, you do not accept cookies, you may experience some inconvenience in your use of the Services.  You also may not receive advertising or other offers from us that are relevant to your interests and needs.
 
-● **Using pixel tags, and** **other similar technologies**
+•        **Using pixel tags, and other similar technologies**
 
-● Pixel tags (also known as web beacons and clear GIFs) may be used to, among other things, track the actions of users of the Services (including email recipients), measure the performance of our marketing campaigns, and compile statistics about usage of the Services and response rates.
+•        Pixel tags (also known as web beacons and clear GIFs) may be used to, among other things, track the actions of users of the Services (including email recipients), measure the performance of our marketing campaigns, and compile statistics about usage of the Services and response rates. 
 
-● **Analytics**
+•        **Analytics**  
 
-● We use Google Analytics which uses cookies and similar technologies to collect and analyze data about use of the Services and report on activities and trends. This service may also collect data regarding the use of other websites, apps, and online resources. You can learn about Google’s practices by going to [www.google.com/policies/privacy/‌partners/](http://www.google.com/policies/privacy/partners/), and opt out of them by downloading the Google Analytics opt-out browser add-on, available at <https://tools.google.com/dlpage/gaoptout>. ****
+•        We use Google Analytics which uses cookies and similar technologies to collect and analyze data about use of the Services and report on activities and trends.  This service may also collect data regarding the use of other websites, apps, and online resources.  You can learn about Google’s practices by going to [www.google.com/policies/privacy/?partners/](http://www.google.com/policies/privacy/partners/), and opt out of them by downloading the Google Analytics opt-out browser add-on, available at <https://tools.google.com/dlpage/gaoptout>. ****
 
-● **Using Adobe Flash technology (including Flash Local Shared Objects (“Flash LSOs”)) and other similar technologies**
+•        **Using Adobe Flash technology (including Flash Local Shared Objects (“Flash LSOs”)) and other similar technologies**
 
-● We may use Flash LSOs and other technologies to, among other things, collect and store data about your use of the Services. If you do not want Flash LSOs stored on your computer, you can adjust the settings of your Flash player to block Flash LSO storage using the tools contained in the [Website Storage Settings Panel](http://www.macromedia.com/support/documentation/en/flashplayer/help/settings_manager07.html). You can also go to the [Global Storage Settings Panel](http://www.macromedia.com/support/documentation/en/flashplayer/help/settings_manager03.html) and follow the instructions. Please note that setting the Flash Player to restrict or limit acceptance of Flash LSOs may reduce or impede the functionality of some Flash applications.
+•        We may use Flash LSOs and other technologies to, among other things, collect and store data about your use of the Services.  If you do not want Flash LSOs stored on your computer, you can adjust the settings of your Flash player to block Flash LSO storage using the tools contained in the [Website Storage Settings Panel](http://www.macromedia.com/support/documentation/en/flashplayer/help/settings_manager07.html).  You can also go to the [Global Storage Settings Panel](http://www.macromedia.com/support/documentation/en/flashplayer/help/settings_manager03.html) and follow the instructions.  Please note that setting the Flash Player to restrict or limit acceptance of Flash LSOs may reduce or impede the functionality of some Flash applications.
 
-● **IP Address**
+•       **IP Address**  
 
-● Your IP address is automatically assigned to your computer by your Internet Service Provider. An IP address may be identified and logged automatically in our server log files whenever a user accesses the Services, along with the time of the visit and the page(s) visited. Collecting IP addresses is standard practice and is done automatically by many websites, applications, and other services. We use IP addresses for purposes such as calculating usage levels, diagnosing server problems, and administering the Services. We may also derive your approximate location from your IP address.
+•       Your IP address is automatically assigned to your computer by your Internet Service Provider.  An IP address may be identified and logged automatically in our server log files whenever a user accesses the Services, along with the time of the visit and the page(s) visited.  Collecting IP addresses is standard practice and is done automatically by many websites, applications, and other services.  We use IP addresses for purposes such as calculating usage levels, diagnosing server problems, and administering the Services.  We may also derive your approximate location from your IP address.
 
-● **Physical Location**
+•        **Physical Location**
 
-● We may collect the physical location of your device by, for example, using satellite, cell phone tower, or Wi-Fi signals. We may use your device’s physical location to provide you with personalized location-based services and content. In some instances, you may be permitted to allow or deny such uses of your device’s location, but, if you do, we may not be able to provide you with the applicable personalized services and content.
+•        We may collect the physical location of your device by, for example, using satellite, cell phone tower, or Wi-Fi signals.  We may use your device’s physical location to provide you with personalized location-based services and content.  In some instances, you may be permitted to allow or deny such uses of your device’s location, but, if you do, we may not be able to provide you with the applicable personalized services and content.
 
 **Uses and Disclosures of Other Data**
 
-We may use and disclose Other Data for any purpose, except where we are required to do otherwise under applicable law. In some instances, we may combine Other Data with Personal Data. If we do, we will treat the combined data as Personal Data as long as it is combined.
+We may use and disclose Other Data for any purpose, except where we are required to do otherwise under applicable law.  In some instances, we may combine Other Data with Personal Data.  If we do, we will treat the combined data as Personal Data as long as it is combined.
 
 **SECURITY**
 
-We seek to use reasonable organizational, technical, and administrative measures to protect Personal Data within our organization. Unfortunately, no data transmission or storage system can be guaranteed to be 100% secure. If you have reason to believe that your interaction with us is no longer secure, please immediately notify us by contacting ****[Consumer Affairs](http://www.colgatepalmolive.com/en-us/contact-us).
+We seek to use reasonable organizational, technical, and administrative measures to protect Personal Data within our organization.  Unfortunately, no data transmission or storage system can be guaranteed to be 100% secure.  If you have reason to believe that your interaction with us is no longer secure, please immediately notify us by contacting [Consumer Affairs](https://www.colgatepalmolive.com/en-us/contact-us).
 
 **CHOICES AND ACCESS**
 
 **Your choices regarding our use and disclosure of your Personal Data**
 
-We give you choices regarding our use and disclosure of your Personal Data for marketing purposes.
+We give you choices regarding our use and disclosure of your Personal Data for marketing purposes. 
 
-You may opt-out from:
+You may opt-out from: 
 
-● **Receiving electronic communications from us** : If you no longer want to receive marketing-related emails, texts or SMS messages from us, you may opt-out by following the instructions contained in each such message or by contacting [Consumer Affairs](http://www.colgatepalmolive.com/en-us/contact-us)
+•        **Receiving electronic communications from us** :  If you no longer want to receive marketing-related emails, texts or SMS messages from us, you may opt-out by following the instructions contained in each such message or by contacting [Consumer Affairs](https://web.archive.org/en-us/contact-us)
 
-● **Receiving marketing communications related to our Professional Services:** If you use our Professional Services and no longer want to receive marketing communications from us, you may opt-out by contacting [Consumer Affairs](http://www.colgatepalmolive.com/en-us/contact-us). In your request, please provide your name and address where you no longer wish to be contacted.
+•        **Receiving marketing communications related to our Professional Services:**   If you use our Professional Services and no longer want to receive marketing communications from us, you may opt-out by contacting  [Consumer Affairs](https://web.archive.org/en-us/contact-us). In your request, please provide your name and address where you no longer wish to be contacted.
 
-● **Our sharing of your Personal Data with subsidiaries or affiliates for their direct marketing purposes** : If you would prefer that we discontinue sharing your Personal Data on a going-forward basis with our subsidiaries or affiliates for their direct marketing purposes, you may opt-out of this sharing by contacting [Consumer Affairs](http://www.colgatepalmolive.com/en-us/contact-us).
+•        **Our sharing of your Personal Data with subsidiaries or affiliates for their direct marketing purposes** :  If you would prefer that we discontinue sharing your Personal Data on a going-forward basis with our subsidiaries or affiliates for their direct marketing purposes, you may opt-out of this sharing by contacting [Consumer Affairs](https://web.archive.org/en-us/contact-us).
 
-● **Our sharing of your Personal Data with unaffiliated third parties for their direct marketing purposes** : If you would prefer that we discontinue sharing your Personal Data on a going-forward basis with unaffiliated third parties for their direct marketing purposes, you may opt-out of this sharing by contacting [Consumer Affairs](http://www.colgatepalmolive.com/en-us/contact-us)..
+•        **Our sharing of your Personal Data with unaffiliated third parties for their direct marketing purposes** :  If you would prefer that we discontinue sharing your Personal Data on a going-forward basis with unaffiliated third parties for their direct marketing purposes, you may opt-out of this sharing by contacting [Consumer Affairs](https://web.archive.org/en-us/contact-us).
 
-We will try to comply with your request(s) as soon as reasonably practicable. Please note that if you opt-out of receiving marketing-related communications from us, we may still send you important administrative messages, from which you cannot opt-out.
+We will try to comply with your request(s) as soon as reasonably practicable.  Please note that if you opt-out of receiving marketing-related communications from us, we may still send you important administrative messages, from which you cannot opt-out.
 
-**How you can access, change, or delete your Personal Data**
+**How you can access, change, or delete your Personal Data **
 
-If you would like to review, correct, update, suppress, restrict, or delete Personal Data that you have previously provided to us, object to the processing of your data, or if you would like to request to receive an electronic copy of your Personal Data for purposes of transmitting it to another company (to the extent this right to data portability is provided to you by applicable law), you may contact us sharing by contacting [Consumer Affairs](http://www.colgatepalmolive.com/en-us/contact-us). We will respond to your request consistent with applicable law.
+If you would like to review, correct, update, suppress, restrict, or delete Personal Data that you have previously provided to us, object to the processing of your data, or if you would like to request to receive an electronic copy of your Personal Data for purposes of transmitting it to another company (to the extent this right to data portability is provided to you by applicable law), you may contact us sharing by contacting [Consumer Affairs](https://web.archive.org/en-us/contact-us). We will respond to your request consistent with applicable law.
 
-For your protection, we may only implement requests with respect to the Personal Data associated with the particular email address that you use to send us your request, and we may need to verify your identity before implementing your request. We will try to comply with your request as soon as reasonably practicable.
+For your protection, we may only implement requests with respect to the Personal Data associated with the particular email address that you use to send us your request, and we may need to verify your identity before implementing your request.  We will try to comply with your request as soon as reasonably practicable. 
 
 Please note that we may need to retain certain data for recordkeeping purposes and/or to complete any transactions that you began prior to requesting a change or deletion (e.g., when you make a purchase or enter a promotion, you may not be able to change or delete the Personal Data provided until after the completion of such purchase or promotion), or to be able to honor opt-out requests.
 
 **RETENTION PERIOD**
 
-We retain Personal Data for as long as needed or permitted in light of the purpose(s) for which it was obtained and consistent with applicable law and Company policy.
+We retain Personal Data for as long as needed or permitted in light of the purpose(s) for which it was obtained and consistent with applicable law and Company policy. 
 
-The criteria used to determine our retention periods include:
+The criteria used to determine our retention periods include: 
 
-● The length of time we provide the Services to you (for example, for as long as you have an account with us or keep using the Services);
+•        The length of time we provide the Services to you (for example, for as long as you have an account with us or keep using the Services);
 
-● The length of time we have an ongoing relationship with you;
+•        The length of time we have an ongoing relationship with you;
 
-● Whether there is a legal obligation to which we are subject (for example, certain laws require us to keep records of your transactions for a certain period of time before we can delete them); and
+•        Whether there is a legal obligation to which we are subject (for example, certain laws require us to keep records of your transactions for a certain period of time before we can delete them); and 
 
-● Whether retention is advisable in light of our legal position (such as in regard to applicable statutes of limitations, litigation, government investigations or regulatory considerations).
+•        Whether retention is advisable in light of our legal position (such as in regard to applicable statutes of limitations, litigation, government investigations or regulatory considerations). 
 
 **THIRD PARTY SERVICES**
 
-This Privacy Policy does not address, and we are not responsible for, the privacy, data, or other practices of any third parties, including any third party operating any website or service to which the Services link. The inclusion of a link on the Services does not imply endorsement of the linked site or service by us or by our subsidiaries or affiliates.
+This Privacy Policy does not address, and we are not responsible for, the privacy, data, or other practices of any third parties, including any third party operating any website or service to which the Services link.  The inclusion of a link on the Services does not imply endorsement of the linked site or service by us or by our subsidiaries or affiliates.
 
 In addition, we are not responsible for the data collection, use, disclosure, or security policies or practices of other organizations or any other app developer, app provider, social media platform provider, operating system provider, wireless service provider, or device manufacturer, including with respect to any Personal Data you disclose to other organizations through or in connection with the Apps or our Social Media Pages.
 
@@ -402,17 +451,17 @@ In addition, we are not responsible for the data collection, use, disclosure, or
 
 We use third-party advertising companies to serve advertisements regarding goods and services that may be of interest to you when you access and use the Services and other websites or online services.
 
-Such advertisements are served based on your access to and use of our Services and other websites or online services on any of your devices, as well as on data received from third parties. Third-party advertising companies make this possible by placing or recognizing a unique cookie on your browser (including through the use of pixel tags). They also use these technologies, along with data they collect about your online use, to recognize you across the devices you use, such as a mobile phone and a laptop. If you would like more information about this practice, and to learn how to opt out of it in desktop and mobile browsers on the particular device on which you are accessing this Privacy Policy, please visit [http://optout.aboutads.info/#/](http://optout.aboutads.info/) and [http://optout.networkadvertising.org/#/](http://optout.networkadvertising.org/).
+Such advertisements are served based on your access to and use of our Services and other websites or online services on any of your devices, as well as on data received from third parties. Third-party advertising companies make this possible by placing or recognizing a unique cookie on your browser (including through the use of pixel tags).  They also use these technologies, along with data they collect about your online use, to recognize you across the devices you use, such as a mobile phone and a laptop.  If you would like more information about this practice, and to learn how to opt out of it in desktop and mobile browsers on the particular device on which you are accessing this Privacy Policy, please visit [http://optout.aboutads.info/#/](http://optout.aboutads.info/) and [http://optout.networkadvertising.org/#/](http://optout.networkadvertising.org/).
 
 **MINORS**
 
-Unless otherwise indicated, the Services are not directed to minors as defined by applicable law. For example, in the US, minors are individuals under the age of 13, and in the EEA, we honor Member State laws, and we do not knowingly collect Personal Data from minors. If you provide us with Personal Data of minors, you represent that you have the appropriate authority to do so and that you can demonstrate such authority to us upon request.
+Unless otherwise indicated, the Services are not directed to minors as defined by applicable law.  For example, in the US, minors are individuals under the age of 13, and in the EEA, we honor Member State laws, and we do not knowingly collect Personal Data from minors.  If you provide us with Personal Data of minors, you represent that you have the appropriate authority to do so and that you can demonstrate such authority to us upon request.
 
 **JURISDICTION AND CROSS-BORDER TRANSFER**
 
-Your Personal Data may be stored and processed in any country where we have facilities or in which we engage service providers, and, by using the Services, you understand that your Personal Data will be transferred to countries outside of your country of residence, to business which may have data protection rules that are different from those of your country. In certain circumstances, courts, law enforcement agencies, regulatory agencies, or security authorities in those other countries may be entitled to access your Personal Data.
+Your Personal Data may be stored and processed in any country where we have facilities or in which we engage service providers, and, by using the Services, you understand that your Personal Data will be transferred to countries outside of your country of residence, to business which may have data protection rules that are different from those of your country.  In certain circumstances, courts, law enforcement agencies, regulatory agencies, or security authorities in those other countries may be entitled to access your Personal Data.
 
-Some of the non-EEA countries are recognized by the European Commission as providing an adequate level of data protection according to EEA standards (the full list of these countries is available [here](https://ec.europa.eu/info/law/law-topic/data-protection/data-transfers-outside-eu/adequacy-protection-personal-data-non-eu-countries_en). For transfers from the EEA to countries not considered adequate by the European Commission, we have put in place adequate measures, such as standard contractual clauses adopted by the European Commission, to protect your Personal Data. You may obtain a copy of these measures by clicking [here](https://ec.europa.eu/info/law/law-topic/data-protection/data-transfers-outside-eu/model-contracts-transfer-personal-data-third-countries_en) _._
+Some of the non-EEA countries are recognized by the European Commission as providing an adequate level of data protection according to EEA standards (the full list of these countries is available _[here](https://ec.europa.eu/info/law/law-topic/data-protection/data-transfers-outside-eu/adequacy-protection-personal-data-non-eu-countries_en)_.  For transfers from the EEA to countries not considered adequate by the European Commission, we have put in place adequate measures, such as standard contractual clauses adopted by the European Commission, to protect your Personal Data.  You may obtain a copy of these measures by clicking _[here](https://ec.europa.eu/info/law/law-topic/data-protection/data-transfers-outside-eu/model-contracts-transfer-personal-data-third-countries_en)._
 
 **SENSITIVE PERSONAL DATA**
 
@@ -420,17 +469,17 @@ Unless we specifically request it, we ask that you not send us, and you not disc
 
 **THIRD-PARTY PAYMENT SERVICE**
 
-We may use a third-party payment service to process payments made through the Services. If you wish to make a payment through the Services, your Personal Data will be collected by such third party and not by us, and will be subject to the third party’s privacy policy, rather than this Privacy Policy. We have no control over, and are not responsible for, this third party’s collection, use and disclosure of your Personal Data.
+We may use a third-party payment service to process payments made through the Services.  If you wish to make a payment through the Services, your Personal Data will be collected by such third party and not by us, and will be subject to the third party’s privacy policy, rather than this Privacy Policy.  We have no control over, and are not responsible for, this third party’s collection, use and disclosure of your Personal Data.
 
 **UPDATES TO THIS PRIVACY POLICY**
 
-The “ _LAST UPDATED_ ” legend at the top of this Privacy Policy indicates when this Privacy Policy was last revised. Any changes will become effective when we post the revised Privacy Policy on the Services. Your use of the Services following these changes means that you accept the revised Privacy Policy.
+The “ _LAST UPDATED_ ” legend at the top of this Privacy Policy indicates when this Privacy Policy was last revised.  Any changes will become effective when we post the revised Privacy Policy on the Services.  Your use of the Services following these changes means that you accept the revised Privacy Policy. 
 
 **CONTACTING US**
 
-Click [here](https://www.sec.gov/Archives/edgar/data/21665/000002166518000006/exhibit2112312017.htm) to identify the controller responsible for collection, use, and disclosure of your Personal Data under this Privacy Policy.
+Click _[here](https://www.colgatepalmolive.com/en-us/legal-privacy-policy/data-controllers)_ to identify the controller responsible for collection, use, and disclosure of your Personal Data under this Privacy Policy. 
 
-If you have any questions about this Privacy Policy, please contact [Consumer Affairs](http://www.colgatepalmolive.com/en-us/contact-us) or:
+If you have any questions about this Privacy Policy, please contact [Consumer Affairs](https://web.archive.org/en-us/contact-us) or:
 
 Colgate-Palmolive Company
 
@@ -442,84 +491,4 @@ United States of America
 
 **ADDITIONAL INFORMATION FOR THE EEA**
 
-You may lodge a complaint with a data protection authority for your country or region or where an alleged infringement of applicable data protection law has occurred. A list of data protection authorities is available at [http://ec.europa.eu/newsroom/article29/item-detail.cfm?item_id=612080](https://protect-us.mimecast.com/s/GVKtCmZM8ki2Bq0BH312ig).
-
-**What is a cookie?**  
-Cookies are small files that are downloaded to your computer or mobile device when you visit a website. Generally, cookies are then sent back to the originating website on each subsequent visit, or to another website that recognizes that cookie. Cookies are useful because they allow a website to recognize a user's device. A cookie assigns a unique numerical identifier to your web browser, and may enable us to recognize you as the same user who was  at  our website in the  past,  and relate your use of the website to other information about you.
-
-Cookies perform many different functions, like letting you navigate between pages efficiently, remembering your preferences, and generally improving the user experience. They can also help to ensure that advertisements you see online are more relevant to you and your interests.
-
-**How does Colgate-Palmolive use cookies?**  
-Our websites use several types of cookies, including 'essential website cookies', 'functionality cookies', 'analytics cookies' and 'advertising cookies':
-
-  * Essential website cookies (from Colgate-Palmolive): These cookies are essential to enable you to move around our websites and use their features. These cookies don't gather information about you that could be used for marketing or remembering where you have been on our site. These cookies are often session-specific, expiring after your visit to the website (session) has ended.
-  * Functionality cookies (including from Colgate-Palmolive and YouTube): These cookies allow our websites to remember choices you make (such as your user name, language or region you are in) and provide enhanced, more personal features.
-  * Analytics cookies (including from Omniture, Google Analytics, and Quantcast): These cookies are used to collect information about how visitors use our sites, including the number of visitors, the websites that referred them to our websites and the pages that they visited on our websites. We use this information to compile reports and to help us improve our websites, for example, to understand how visitors use our site and by ensuring that users find what they are looking for easily.
-  * Advertising cookies (including from AddThis, AppNexus, Doubleclick, Facebook, Media6Degrees, Mediamind, Twitter, Yahoo, and YouTube): These cookies are used to collect data about the websites and individual pages that users visit both on and off our websites (which might indicate, for example, your interests and other attributes). They are typically used to deliver advertisements that are more relevant to you and your  interests,  and to help measure the effectiveness of an advertising campaign. This information is shared with other organizations such as advertisers and our partners, who might use it with information about how you use other websites, including to identify shared interests and behaviors across groups of users who visit our (and other) websites.
-
-
-
-**Managing and Deleting Cookies**  
-Colgate-Palmolive respects our consumers and understands that you may want to control which cookies are set as part of your visit to our sites.
-
-If you choose to delete or refuse cookies, please bear in mind that you may not be able to use the full functionality of our websites and any communications you receive from us may be less relevant to you than they might otherwise have been. To learn more about the use of cookies, including how to manage or delete them, [click here.](https://web.archive.org/en-us/legal-privacy-policy/cookies)
-
-For more information about third-party advertisers and how to prevent them from using your information, visit the National Advertising Initiative’s consumer Web site at [www.networkadvertising.org/choices/](http://www.networkadvertising.org/choices/#completed) or Aboutads.info at [www.aboutads.info/choices/.](http://www.aboutads.info/choices/)
-
-We may modify this policy at any time, in our sole discretion and all modifications will be effective immediately upon our posting of the modifications on this site. Unless we specifically provide otherwise, this policy only applies to this site and our online  activities,  and does not apply to any of our offline activities.
-
-For additional information about our  on-line  privacy practices, please contact Colgate-Palmolive Company, 300 Park Avenue, New York, New York 10022, (212) 310-2000[ EMAIL COLGATE-PALMOLIVE](https://web.archive.org/en-us/contact-us).
-
-**CAREERS PRIVACY STATEMENT**
-
-Colgate-Palmolive and its world-wide subsidiaries are committed to respecting the privacy of our online visitors. This privacy statement describes what information we collect when you create a Job Profile in the Careers section of our  web site , how we use that information, and your choices with respect to our use of such information about.
-
-**The Personal Information We Collect and How We Use It**  
-By 'personal information' we mean names, addresses, email addresses, job experience and history and any other personal information you voluntarily provide  about  you and your skills and interests that will then be matched against our current job opportunities and requirements. This information will be used to evaluate your qualifications for the desired position and possibly to contact you for further information. Also, at a later time, you may be asked for certain identifying information, which will be used solely for federal and state diversity reporting purposes.
-
-By creating a Job Profile, you acknowledge and agree that the information you submit is complete and correct to the best of your knowledge. Providing false information in the creation of your Job Profile or during the application process will lead to your rejection or termination.
-
-**Authorization**  
-By applying for a job with us via the Careers section of our  web site , you authorize us and/or our authorized agents to undertake a background investigation including, but not limited to, a criminal background check, a job reference check, and verification of any information you have provided, and you authorize all corporations, companies, educational institutions, persons, law enforcement agencies, criminal, civil and federal courts, and former employers to release information they may have about you.
-
-**Disclosure of Personal Information**  
-We may share your personal information with vendors or service providers such as companies who help us with database administration. We may also share your personal information with other Colgate-Palmolive companies in other countries where data privacy laws may not be equivalent to those in force in the United States.
-
-In all these cases, however, we will take reasonable steps to help safeguard your personal information. We will only share your information under terms and conditions that obligate recipients to protect the privacy and security of your personal information.
-
-Except as described in this Privacy Statement or as required by law, we will not share your personal information with a third party.
-
-**Sale of Our Brands or Business**  
-In connection with the sale of one or more of our brands or a part of our business to a different company, we reserve the right to transfer your personal information to a new owner that agrees to offer equivalent safeguards for the use and disclosure of your personal information.
-
-**You May Access and Update Personal Information**  
-At any time you will have the right log  in to  the system to modify, correct or erase the personal information that you provided to use in your Job Profile or your resume. In the event that you erase your Job Profile or your resume, we will make your Job Profile or resume inactive. However, you understand that we will retain your Job Profile indefinitely for its own record-keeping purposes.
-
-[For more detailed information regarding our online privacy practices, please see our Legal Statement and Privacy Policy](https://web.archive.org/en-us/legal-privacy-policy/privacy-policy). If you have any questions regarding our use of your personal information, you may do so by [sending an email to  Colgate-Palmolive. ](https://web.archive.org/en-us/contact-us) . 
-
-**CHILDREN'S PRIVACY POLICY, AND NOTE TO PARENTS AND CAREGIVERS**
-
-We care about the privacy of children. We recognize that children's use of the Internet and E-mail raise special concerns regarding privacy and security of information.
-
-It is our intention to adhere to the Children's Online Privacy Protection Act and its rules on collecting personal information from minors. We remind and encourage all parents to check and monitor their children's online activities. Help us protect the privacy of your children by ensuring that they never send E-mail or submit personal information on this site or any other without your permission.
-
-We do not condition a child's participation in an activity on the child's disclosing more personal information than is reasonably necessary to participate in that activity. We do not share your children's personal information with third parties.
-
-Parents have the right to review and have deleted any personally identifiable information we have collected from their children, and refuse to permit further collection of that information. To start this process, please send an email to [Consumer Affairs](https://web.archive.org/en-us/contact-us).
-
-Your children can enjoy most of the content and activities in our children's areas without supplying any personal information to us at all. For example, the Kids World site at [kids-world.colgatepalmolive.com](http://kids-world.colgatepalmolive.com/) offers interesting facts,  games  and stories aimed at raising children's awareness of oral health. In addition, [www.colgatebsbf.com](http://www.colgatebsbf.com/) provides oral educational materials designed for teachers,  parents  and kids, and has fun activities for kids. Only a few features collect your child's E-mail address, and then only for the purpose of responding to your child's request or answering your child's question. Once we have responded, we delete your child's E-mail address from our system. For example, our Tooth Fairy asks for your child's E-mail address to send children a special message when they've lost a tooth. This information is used only to respond to the child's request, and no further information is required. The information is captured and stored for twenty-four hours only. Once the Tooth Fairy responds to the child, the information is discarded and cannot be retrieved.
-
-We sometimes solicit or accept submissions from children, some of which may be posted on our sites. Such submissions may only be made offline. If a child or parent wants us to post a photograph or any other personally identifiable information, we require a signed parental permission and release form. When children make submissions to us offline, such as by regular mail, we may choose to retain all of the information they submit to us. Unless we received a signed parental permission form, we screen all offline submissions before they are posted, and strip out any personal information they may contain.
-
-As more fully described above, we use "cookie" technology, where our servers deposit special codes on a visitor's computer. This information is used to enhance your  on-line  visits. Under no circumstances do we use this information to personally identify visitors or cross-reference the information with any type of personal information that is voluntarily offered on or through the site.
-
-For your children's enjoyment, we also link to other sites. We are not responsible for those other sites, and we advise you to check their privacy policies as well.
-
-**Contact Information**  
-For additional information about our online privacy practices, please contact:  
-Colgate-Palmolive Company  
-300 Park Avenue  
-New York, NY 10022  
-United States of America   
-(212) 310-2000  
-[EMAIL COLGATE-PALMOLIVE CONSUMER AFFAIRS](https://web.archive.org/en-us/contact-us)
+You may lodge a complaint with a data protection authority for your country or region or where an alleged infringement of applicable data protection law has occurred.  A list of data protection authorities is available at [http://ec.europa.eu/newsroom/article29/item-detail.cfm?item_id=612080](https://protect-us.mimecast.com/s/GVKtCmZM8ki2Bq0BH312ig).
