@@ -1,174 +1,605 @@
-> *The following text is extracted and transformed from the domainehome.com privacy policy that was archived on 2018-10-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181009004431id_/https%3A//www.mydomainehome.com.au/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the domainehome.com privacy policy that was archived on 2019-03-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190330082353id_/https%3A//www.mydomaine.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | MyDomaine
+# Chic, Everyday Lifestyle Inspiration and Advice | MyDomaine
 
-### Privacy policy
+Privacy Policy
 
-In this policy, 'us', 'we' or 'our' means Allure Media Pty Ltd (ABN 48 122 263 352) and its related bodies corporate.
+Updated May 26, 2018
 
-This policy sets out:
+At MyDomaine, we take online privacy seriously and we respect the concerns of our community of users. In this policy (the “Privacy Policy”) we describe our privacy practices with regard to information we collect through TheSpruce.com and its affiliated sites, TheSpruceEats.com, TheSprucePets.com, TheSpruceCrafts.com (collectively, the “Site”), to help you make informed decisions about how you share information when you visit or use the site.
 
-  * what kind of information we collect;
-  * how we collect it;
-  * why we collect it;
-  * how we use it;
-  * how we disclose it;
-  * opting in and out;
-  * management and security;
-  * how to seek access to and update your personal information; and
-  * how to contact us.
+Understanding How Information Is Collected on MyDomaine:
 
+Information You May Choose to Provide to Us
 
+We may collect information, including personal data, directly from you if you choose to provide that information. For example, you may provide us with your name and contact information (such as an email address), date of birth, or other details of that nature, when you sign up for our newsletters or participate in promotions or surveys on the Site.
 
-We are bound by the National Privacy Principles contained in the Privacy Act 1988 (Cwth) (subject to exemptions that apply to us under that Act).
+You also may choose to provide personally data about yourself when you participate in forums or discussions on the Site. Please be aware that information you post may be viewed or captured by anyone who visits the Site, therefore you should avoid posting sensitive or personal data that you would not want to be available to the public.
 
-We may, from time to time, review and update this policy, including to take account of new or amended laws, new technology and/or changes to our operations. All personal information held by us will be governed by the most recently updated policy.
+Information That Is Automatically Collected When You Visit MyDomaine
 
-This policy was last updated in September 2013.
+When you access the Site, we and our third-party partners may automatically collect certain information about your visit using tools such as cookies, web beacons, and other similar technologies. The information collected automatically when you visit the Site may include your IP address, characteristics of your operating system, information about your browser and system settings, data about the computer or mobile device you use to access the Site, unique device identifiers, clickstream data (which shows the page-by-page path you take as you browse the Site). We or our third-party partners may combine information that each of us collects automatically with other information about you, including information you choose to provide.
 
-**What information we collect**
+Cookies are small files that websites and other online services use to store information about users on the users’ own computers. This Site may use cookies (such as HTTP and HTML5 cookies and Flash cookies), as well as other types of local storage. For more information about cookies, you may visit [http://www.allaboutcookies.org ](http://www.allaboutcookies.org/). See the section below regarding [Your choices](https://www.thespruce.com/legal#your-choices) to learn more about how you may limit or disable cookies on your computer. If you choose to disable cookies, that could affect certain features of the Site that use cookies to enhance their functionality.
 
-In general, the personal information we collect about you includes (but is not limited to) your name, contact details (including phone numbers and addresses) and possibly financial information, including your credit card information.
+To manage our automatic data collection, we may place tags (often referred to as “web beacons”) on pages on the Site or in emails we send to you. Web beacons are small files that link web pages to particular web servers and their cookies, and they may be used for a variety of purposes, such as counting the number of visitors to the Site, analyzing how users navigate around the Site, assessing how many emails that we send are actually opened and which articles or links are viewed by visitors.
 
-We also collect information about you that is not personal information. For example, we may collect data relating to your activity on our websites (including IP addresses) via tracking technologies such as cookies, or we may collect information from you in response to a survey. We generally use this information to report statistics, analyse trends, administer our services, diagnose problems and target and improve the quality of our products and services. To the extent this information does not constitute personal information, the National Privacy Principles do not apply and we may use this information for any purpose and by any means whatsoever.
+We also use third-party web analytics services, such as Google Analytics, on the Site, to provide us with statistics and other information about visitors to the Site.
 
-We generally advise that you do not publish or communicate personal information, or at least limit the personal information that you publish or communicate, to the public via our services, such as in our classifieds, forums or blogs (Non-Confidential Information). You acknowledge that we cannot control any third party collection or use of your Non-Confidential Information. You agree that we may use and disclose Non-Confidential Information for any purpose and by any means whatsoever.
+“Do Not Track” Signals. Your browser settings may allow you to automatically transmit a “do not track” signal to websites and online services you visit. At this time there is no consensus among industry participants as to the meaning of “do not track” in this context. Like many other websites, TheSpruce.com is not configured to respond to “do not track” signals from browsers. [Click here to learn more about "do not track" signals.](https://allaboutdnt.com/)
 
-**How we collect it**
+Finally, companies that provide certain third-party apps, tools, widgets, and plug-ins that may appear on the Site (for example, Facebook “Like” buttons), also may use automated means to collect information regarding your interactions with these features. This information collection is subject to the privacy policies or notices of those providers.
 
-We may collect your personal information from a variety of sources, including from you, advertisers, mailing lists, recruitment agencies, contractors and business partners.
+Further information regarding our use of cookies and other tracking technologies is described in our [Cookie Disclosure.](https://www.thespruce.com/legal#cookies)
 
-We may collect your personal information when you request or acquire a product or service from us, register with us as a member, provide a product or service to us, complete a survey or questionnaire, enter a competition or event, contribute in a fundraising event, participate in our services (including our radio programs, blogs and forums) or when you communicate with us by e-mail, telephone or in writing (for example if you contact customer service to make a complaint or provide feedback).
+How We May Use Information We Collect
 
-If, at any time, you provide personal or other information about someone other than yourself, you warrant that you have that person's consent to provide such information for the purpose specified.
+We may use the information gathered on MyDomaine for various purposes, including the purposes listed below. For example, if you were to contact us with a question and provide your email address, we would use the email address you provided to respond to your inquiry. In addition, we use information we collect from you and through the Site to:
 
-**Why we collect it**
+  * Provide products and services you request (such as when you sign up to receive our email newsletters);
+  * Respond to requests, questions, and comments, and provide other types of user support;
+  * Offer you products and services via marketing communications, or direct you to portions of this Site or other websites, that we believe may interest you;
+  * To serve advertising, content and offers to you based on your interests and online activities, from us or third parties;
+  * Communicate about, and administer your participation in, events, programs, contests, and other offers or promotions;
+  * Carry out, evaluate, and improve our business (which may include developing new features for the Site; analyzing and enhancing the user experience on the Site; assessing the effectiveness of our marketing and advertising; and managing our communications);
+  * Perform data analytics regarding usage of the Site (including market and customer research, trend analysis, financial analysis, and anonymization of personal data);
+  * Guard against, identify, and prevent fraud and other criminal activity, claims, and other liabilities; and
+  * Comply with applicable legal requirements, law enforcement requests, and our company policies.
 
-The primary purpose for which we collect information about you is to provide you with products and services you have requested. We also collect information about you for the purposes outlined below.
 
-We may state a more specific purpose at the point we collect your information.
 
-If you do not provide us with the information that we request, we may not be able to provide you with our products or services. For example, if you do not register as a member of a website, you will not be able to access features or services that are reserved for members only.
+How We May Share Information
 
-**How we use it**
+Our agents, vendors, consultants, and other service providers may have access to information we collect through the Site to carry out work on our behalf. Those parties are subject to confidentiality obligations and are restricted from using personal data collected through the Site for purposes other than to provide the requested assistance. In addition, we may share information:
 
-In addition to the primary purpose outlined above, we may use the personal information we collect, and you consent to us using your personal information:
+  * With our affiliates for internal business purposes;
+  * If we are required to do so by law, regulation, or legal process (such as a court order or subpoena);
+  * In response to requests from government agencies, such as law enforcement authorities;
+  * If we believe disclosure is necessary or appropriate to prevent physical harm or financial loss, or in connection with an investigation of suspected or actual illegal activity;
+  * With respect to analytics and statistical information, to inform advertisers about the nature of our user base;
+  * In the event we sell or transfer all or a portion of our business or assets (including a reorganization, dissolution, or liquidation); and
+  * With your consent or at your discretion.
 
-  * to provide you with news and information about our products and services;
-  * to send marketing and promotional material that we believe you may be interested in. This material may relate to any of our businesses or a third party business which we believe may be of interest to you;
-  * for purposes necessary or incidental to the provision of goods and services to you;
-  * to personalise and customise your experiences;
-  * to manage and enhance our products and services;
-  * to communicate with you, including by email, mail or telephone;
-  * to conduct competitions or promotions on behalf of us and selected third parties;
-  * to verify your identity;
-  * to investigate any complaints about or made by you, or if we have reason to suspect that you are in breach of any of our terms and conditions or that you are or have been otherwise engaged in any unlawful activity; and/or
-  * as required or permitted by any law (including the Privacy Act).
 
 
+Your Choices
 
-**How we disclose it**
+Unsubscribe from emails. To unsubscribe from a particular newsletter, click the "unsubscribe" link at the bottom of that email newsletter. If you would like to globally opt-out from ALL MyDomaine email campaigns, please send an email to [optout@TheSpruce.com](mailto:optout@thespruce.com) with "Unsubscribe" in the subject line. When we send newsletters to subscribers we may allow advertisers or partners to include messages in those newsletters, or we may send dedicated newsletters on behalf of those advertisers or partners. We may disclose your opt-out choices to third parties so that they can honor your preferences in accordance with applicable laws.
 
-We may also disclose personal information, and you consent to us disclosing your personal information, to third parties:
+Blocking cookies. Certain browsers may be configured to notify you when you receive cookies, or allow you to restrict or disable certain cookies. If you choose to disable cookies, however, that could affect certain features of the Site that use cookies to enhance their functionality.
 
-  * engaged by us to perform functions or provide products and services on our behalf, such as processing credit card information, mailouts, debt collection, marketing, research and advertising;
-  * that are our agents, business partners or joint venture entities or partners;
-  * that sponsor or promote any competition that we conduct or promote via our services;
-  * authorised by you to receive information held by us;
-  * as part of any investigation into you or your activity, for example, if we have reason to suspect that you have committed a breach of any of our terms and conditions, or have otherwise been engaged in any unlawful activity, and we reasonably believe that disclosure is necessary to the Police, any relevant authority or enforcement body, or your Internet Service Provider or network administrator;
-  * as part of a sale (or proposed sale) of all or part of our business; and/or
-  * as required or permitted by any law (including the Privacy Act).
+Disabling local shared objects (“Flash cookies”). We may use other kinds of local storage that function similarly, but are stored in different parts of your computer from ordinary browser cookies. Your browser may allow you to disable its HTML5 local storage or delete information contained in its HTML5 local storage. [Click here](http://helpx.adobe.com/flash-player/kb/disable-local-shared-objects-flash.html) for details about deleting information contained in "local shared objects" or adjusting related preferences.
 
+Options concerning third-party ad networks. For more information about third-party ad networks and services that use these technologies, you can visit [www.aboutads.info](http://www.aboutads.info/) and [click here](http://aboutads.info/choices) to opt out or to learn more about your options. You also may visit the [NAI's site for additional options ](http://www.networkadvertising.org/choices)on how to opt out of interest-based advertising.
 
+How We Protect Personal Data.
 
-**Opting in or out**
+We maintain appropriate administrative, technical, and physical safeguards designed to protect the personal data you provide against accidental, unlawful, or unauthorized destruction, loss, alteration, access, disclosure, or use. That said, it is not possible to guarantee the security of information transmitted online, and you assume some risk with regard to the security of information you provide through any website, including this Site. If you have a data security inquiry, you may contact us by emailing [security@thespruce.com](mailto:security@thespruce.com). To request an invite to our bug bounty program to submit reports on vulnerabilities found on TheSpruce.com, you may contact us by emailing [bugbounty@thespruce.com](mailto:bugbounty@thespruce.com).
 
-At the point we collect information from you, you may be asked to 'opt in' to consent to us using or disclosing your personal information other than in accordance with this policy or any applicable law. For example, you may be asked to opt-in to receive further information or communications from our advertisers and supporters which do not fall into one of the categories described above.
+Links From MyDomaine to Other Websites
 
-You will generally be given the opportunity to 'opt out' from receiving communications from us or from third parties that send communications to you in accordance with this policy. For example, you will be given the option to unsubscribe from e-newsletters and other marketing or promotional material sent by us. You may 'opt out' from receiving these communications by either clicking on an unsubscribe link at the end of an email or by updating your personal details on your membership page.
+On this Site, we may provide links to other websites that are controlled by third parties. Linked websites may have their own privacy notices or policies, which we strongly suggest you review. We are not responsible for the content, usage terms, privacy policies, or any other aspects of websites that we do not own or control.
 
-If you receive communications purporting to be connected with us or our services that you believe have been sent to you other than in accordance with this policy, or in breach of any law, please contact us.
+Surveys and Quizzes
 
-**Management and security**
+While you are visiting MyDomaine, you may have the opportunity to participate in surveys, quizzes, or other interactive features that request information about you and your opinions and preferences. Your participation in these features is entirely voluntary. If you do choose to participate, please be aware that these features may be operated by a third party that is not controlled by MyDomaine, and therefore the information you provide may be collected by the third party and subject to its privacy policy.
 
-We have appointed a Privacy Officer to oversee the management of personal information in accordance with this policy and the Privacy Act.
+Children’s Privacy
 
-Other than in relation to Non-Confidential Information, we will take all reasonable steps to protect the personal information that we hold from misuse, loss, or unauthorised access, including by means of firewalls, pass word access, secure servers and encryption of credit card transactions.
+This Site is not designed or intended for use by children, and we do not knowingly collect personal data from children under the age of 16. If we become aware that we have collected personal data from a child under the age of 16, we will delete any such information.
 
-However, you acknowledge that the security of online transactions and the security of communications sent by electronic means or by post cannot be guaranteed. You provide information to us via the internet or by post at your own risk. We cannot accept responsibility for misuse or loss of, or unauthorised access to, your personal information where the security of information is not within our control.
+Information for Users Outside the United States
 
-You acknowledge that we are not responsible for the privacy or security practices of any third party (including third parties that we are permitted to disclose your personal information to in accordance with this policy or any applicable laws). The collection and use of your information by such third party/ies may be subject to separate privacy and security policies.
+Your personal data may be stored, transferred and process in and to the United States and in other countries by our affiliates and/or service providers. The data protection laws in these countries may provide a lower standard of protection for your personal data than your country of residence. We take great care in protecting your personal data and have put in place adequate mechanisms to protect it when it is transferred internationally. We will transfer your personal data in compliance with applicable data protection laws and will implement suitable safeguards to ensure that your personal data is adequately secured by any third party that will access your information (for instance, by using the Model Clauses as approved by the European Commission).
 
-If you suspect any misuse or loss of, or unauthorised access to, your personal information, please let us know immediately.
+By using our Site and providing personal data to us, you consent to the terms of this Privacy Policy and the collection, use, maintenance, transfer to and processing of your personal data in the United States or other countries or territories, and, unless otherwise stated in this Privacy Policy, we use this consent as the legal basis for that data transfer.
 
-**Accessing and updating your information and how to contact us**
+If you have questions or wish to obtain more information about the international transfer of your personal data or the implemented safeguards, please send us an email to [privacy@MyDomaine.com](mailto:privacy@mydomaine.com)
 
-Subject to some exceptions in the Privacy Act, you have the right to seek access to and update the personal information we hold about you. If you make an access request, we will ask you to verify your identity. We may charge a fee to cover the costs of meeting your request.
+How We’ll Inform You About Changes to This Privacy Policy
 
-Members of our websites will generally be able to access and update their membership details online.
+We may update this online privacy policy periodically to reflect changes to our privacy practices, such as how we collect or use personal data. We will post a prominent notice on the TheSpruce.com home page to notify you of significant changes to this policy, and we indicate at the top of the policy the date when it was most recently updated.
 
-We request that you keep your information as current as possible so that we may continue to improve our service to you.
+How to Contact Us
 
-If you would like to seek access to personal information we hold about you, or if you have any questions or complaints about how we collect, use, disclose, manage or store your personal information, you can contact the department that collected your personal information in the first instance, or write to:
+If you have questions about this policy or about our privacy practices, you may contact us by emailing [privacy@MyDomaine.com](mailto:privacy@mydomaine.com).
 
-Privacy Officer  
-Allure Media  
-AMP Centre  
-Level 1, Suite 2  
-50 Bridge St  
-SYDNEY NSW 2000
+If you are a California resident inquiring about your California privacy rights, please include “California privacy rights request” in the subject line of your email. If you are a resident of the European Economic Area inquiring about your rights under the General Data Protection Regulation (“GDPR”), please include “GDPR privacy rights request” in the subject line of your email.
 
-### Tracking and Targeting Policy
+You may also write to:
 
-Allure Media (we, us or our) collects data about your browsing activity on our network. We may also use non-personal information that we collect about you on our network to identify you on third party websites where we have an arrangement in place to serve ads on those third party websites. We may also collect anonymous internet usage data from third parties.
+MyDomaine Privacy   
+1500 Broadway, 6th Floor   
+New York, NY 10036
 
-One of the reasons we collect usage data is to display targeted advertisements or content on our network and also on third party websites. For that purpose, usage data may be collected and assigned to one or more pre-defined categories (for example 'holiday seekers'). If this infers a particular interest, a cookie is placed in your web browser which may determine the type of targeted advertising or content that you receive. We target advertisements and content in order to improve your user experience - so that you are served advertisements and content that we believe may be more relevant or useful to you.
+JURISDICTION SPECIFIC PROVISIONS  
+Our Notice to California Residents
 
-To create consumer profiles we also collate anonymous data from other sources across our network, including memberships, surveys or competitions. However, we will not combine usage data with your personal information (as defined in the Privacy Act 1988 (Cwth)), or share your personal information with any third party, except in accordance with the Privacy Act 1988 (Cwth) and our Privacy Policy.
+Subject to certain limits, under California law California residents may ask us to provide them with a list of the categories of personal data that we have disclosed to third parties for those third parties’ direct marketing purposes during the preceding calendar year, as well as the identity of those third parties. California residents may contact us as specified in the [How to Contact Us section](https://www.thespruce.com/legal#contact) above to make a request for this information.
 
-Advertisements or content may also be 'targeted' to users based on:
+If you are located in the European Economic Area (EEA):
 
-  * the type of content displayed on a given web page;
-  * the geographical location of a user (ie. identified by an IP address); or
-  * specific searches undertaken by a user.
+  1. Controller of your Personal Data
 
 
 
-Other reasons we may collect anonymous usage data include:
+The controller of your personal data under this Privacy Policy is About, Inc., with an address of 1500 Broadway, 6th Floor, New York, NY 10036. Our local representative with respect to the GDPR can be contacted at [Privacy@ask.co.uk](mailto:Privacy@ask.co.uk).
 
-  * to limit the number of times users are served certain ads;
-  * to monitor the performance of advertising campaigns;
-  * to audit, research, and analyse usage in order to maintain and improve our services, and to develop new services; and
-  * to ensure that our ad-serving technologies function properly.
+  2. Legal Bases for Using Personal Data
 
 
 
-We will not collect usage data or target advertisements based on the following market segments:
+We process your personal data only if we have a legal basis to do so, including:
 
-  * racial or ethnic origin; or
-  * political opinions; or
-  * membership of a political association; or
-  * religious beliefs or affiliations; or
-  * philosophical beliefs; or
-  * membership of a professional or trade association; or
-  * membership of a trade union; or
-  * sexual preferences or practices; or
-  * criminal record; or
-  * health information; or
-  * genetic information that is not otherwise health information.
+  1. to comply with our legal and regulatory obligations;
+  2. for the performance of our contract with you or to take steps at your request before entering into a contract;
+  3. for our legitimate interests or those of a third party;
+  4. where you have given consent to our specific use.
 
 
 
-If we ever seek to target advertisements based on the above market segments, we will first obtain your express consent.
+The purpose for which we use and process your information and the legal basis on which we carry out each type of processing is further explained below.
 
-We will not create categories designed to target children under the age of 13 years (however, this does not prevent us from marketing children's products to an adult audience).
+Purposes for which we will process the information
 
-Third party advertisers purchase advertising products from us that enable them to target particular types of users of our network, for advertisements served both on our network and also on third party websites.
+| 
 
-We also permit advertisers to embed their own cookies in advertisements. Generally, advertisers will embed cookies in advertisements to monitor the performance of their advertising campaign, but they may also collect anonymous usage data relating to browsing activity on our network. We do not, however, permit advertisers to use any usage data obtained from our network to target advertisements or content to users off our network. We encourage advertisers to have a privacy policy that outlines their data collection activities and usage. Please refer to such third party privacy policies for more information.
+Legal Basis for the processing  
+  
+---|---  
+  
+To provide products and services you request.
 
-Some of these advertisers are members of the Network Advertising Initiative (NAI), which offers a single location to opt out of their cookies. Please visit the Network Advertising Initiative's website at <http://www.networkadvertising.org/choices/> for more information.
+| 
 
-We will not provide any personal information to an advertiser or any other third party without your express consent or in accordance with our Privacy Policy. However, to the extent that anonymous user data does not constitute personal information, we are entitled to deal with that information in any manner we see fit.
+It is necessary for us to process your personal data in order to deliver the services and process transactions according to the applicable contract between us.  
+  
+To respond to requests, questions, and comments, and provide other types of user support.
 
-For more information regarding how we treat personal information and, in some cases, non-personal information, please refer to our [Privacy Policy](http://www.alluremedia.com.au/terms-privacy-policy#privacy).
+| 
+
+It is necessary for us to respond to requests, questions, and comments, and provide other types of user support in order to take steps at your request or according to the applicable contract between us.  
+  
+To offer you products and services in marketing communications, or direct you to portions of this Site or other websites, that we believe may interest you.
+
+| 
+
+We may send electronic marketing communications to you if you have consented to these communications. It is in our legitimate interest to market out products and services to you by other means and to direct you to portions of this Site or other websites that we believe may interest you. We consider this use to be proportionate and will not be prejudicial or detrimental to you.  
+  
+To communicate about, and administer your participation in, events, programs, contests, and other offers or promotions
+
+| 
+
+We will send electronic communications to you if you have consented to these communications. With respect to other communications, it is in our legitimate interest to communicate to you and administer your participation in, our events, programs, contests, and other offers or promotions. We consider this use to be proportionate and will not be prejudicial or detrimental to you.  
+  
+To carry out, evaluate, and improve our business (which may include developing new features for the Site; analyzing and enhancing the user experience on the Site; assessing the effectiveness of our marketing and advertising; and managing our communications.
+
+| 
+
+It is in our legitimate interests to process your personal data to carry out these activities. We consider this use to be proportionate and will not be prejudicial or detrimental to you.  
+  
+To perform data analytics regarding usage of the Site (including market and customer research, trend analysis, financial analysis, and anonymization of personal data).
+
+| 
+
+It is in our legitimate interests to process your personal data to carry out these activities. We consider this use to be proportionate and will not be prejudicial or detrimental to you.  
+  
+To serve advertising, content and offers to you based on your interests and online activities, from us or third parties.
+
+| 
+
+We will serve you advertising, content and offers to you based on your interests and online activities if you have consented to this processing.  
+  
+To enable our affiliates or service providers to perform certain activities on our behalf;
+
+| 
+
+It is necessary for us to process your personal data in this manner in order to deliver the services and process transactions according to the applicable contract between us. It is also in our legitimate interest to enable our service providers and affiliates to perform certain activities on our behalf. We consider this use to be proportionate and will not be prejudicial or detrimental to you.  
+  
+To notify you of any changes to the Website that may affect you.
+
+| 
+
+It is necessary for us to process your personal data in order to deliver the services and process transactions according to the applicable contract between us.  
+  
+  * If we are required to do so by law, regulation, or legal process (such as a court order or subpoena);
+  * In response to requests from government agencies, such as law enforcement authorities;
+  * If we believe disclosure is necessary or appropriate to prevent physical harm or financial loss, or in connection with an investigation of suspected or actual illegal activity; and
+  * In the event we sell or transfer all or a portion of our business or assets (including a reorganization, dissolution, or liquidation)
+
+| 
+
+We conduct this processing to comply with our legal obligations and to protect the public interest.  
+  
+  * Guard against, identify, and prevent fraud and other criminal activity, claims, and other liabilities; and
+  * Comply with applicable legal requirements, law enforcement requests, and our company policies.
+
+| 
+
+We conduct this processing to comply with our legal obligations and to protect the public interest.  
+  
+  1. International Transfers
+
+
+
+Some of our processing of your data will involve transferring your data outside the European Economic Area ("EEA"). Some of our external third-party service providers are also based outside of the EEA, and their processing of your personal data will involve a transfer of data outside the EEA. This includes the United States. Where personal data is transferred to and stored in a country not determined by the European Commission as providing adequate levels of protection for personal data, we take steps to provide appropriate safeguards to protect your personal data, including when appropriate entering into standard contractual clauses approved by the European Commission, obliging recipients to protect your personal data.
+
+  2. Retention of Personal Data
+
+
+
+We will retain your personal data only for as long as necessary for the purposes it was retained, such as to enable you to use the Website and your products or to provide services to you. In some instances, we may retain data for longer periods in order to comply with applicable laws (including those regarding document retention), resolve disputes with any parties, and otherwise as necessary to allow us to conduct our business. All personal data we retain will be subject to this Privacy Policy and our internal retention guidelines.
+
+  3. Data Subject Access Rights
+
+
+
+You have the following rights:
+
+  * Right of access to your personal data: You have the right to ask us for confirmation on whether we are processing your personal data, and access to the personal data and related information.
+  * Right to correction: You have the right to have your personal data corrected, as permitted by law.
+  * Right to erasure: You have the right to ask us to delete your personal data, as permitted by law.
+  * Right to withdraw consent: You have the right to withdraw consent that you have provided.
+  * Right to lodge a complaint with a supervisory authority: You have the right to lodge a complaint with a supervisory authority in the member state of your habitual residence.
+  * Right to restriction of processing: You have the right to request the limiting of our processing under limited circumstances.
+  * Right to data portability: You have the right to receive the personal data that you have provided to us, in a structured, commonly used and machine-readable format, and you have the right to transmit that information to another controller, including to have it transmitted directly, where technically feasible.
+  * Right to object: You have the right to object to our processing of your personal data, as permitted by law, under limited circumstances.
+
+
+
+In order to exercise any of these rights, please contact us according to the [“How to Contact Us” section](https://www.thespruce.com/legal#contact) herein. Please note that the above rights are not absolute and we may be entitled to refuse requests, wholly or partly, where exceptions under the applicable law apply.
+
+MyDomaine Cookie Disclosure
+
+**Provider** |  **Name of cookie** |  **Purpose** |  **Type** |  **Duration**  
+---|---|---|---|---  
+  
+Google Analytics
+
+| 
+
+_ga
+
+| 
+
+Used to distinguish users.
+
+| 
+
+Persistent
+
+| 
+
+2 Years  
+  
+Google Analytics
+
+| 
+
+_gid
+
+| 
+
+Used to distinguish users.
+
+| 
+
+Persistent
+
+| 
+
+24 Hours  
+  
+Google Analytics
+
+| 
+
+_gat_<property-id>
+
+| 
+
+Used to throttle request rate.
+
+| 
+
+Persistent
+
+| 
+
+1 Minute  
+  
+Dotdash
+
+| 
+
+TMog
+
+| 
+
+Dotdash client id - Used to identify unique browsers
+
+| 
+
+Persistent
+
+| 
+
+68 Years  
+  
+Dotdash
+
+| 
+
+Mint
+
+| 
+
+Dotdash session id - Used to identify all activity within a session
+
+| 
+
+Persistent
+
+| 
+
+30 Minutes  
+  
+Dotdash
+
+| 
+
+pc
+
+| 
+
+pagecount
+
+| 
+
+Persistent
+
+| 
+
+30 Minutes  
+  
+Dotdash
+
+| 
+
+ds_ab
+
+| 
+
+AB Testing segmentation information
+
+| 
+
+Session  
+  
+Google (GTM/GA)
+
+| 
+
+_dc_gtm_<property-id>
+
+| 
+
+Used to throttle request rate.
+
+| 
+
+Persistent
+
+| 
+
+1 Minute  
+  
+SailThru
+
+| 
+
+sailthru_pageviews
+
+| 
+
+Page view count by user on site
+
+| 
+
+Persistent
+
+| 
+
+30 Minutes  
+  
+SailThru
+
+| 
+
+sailthru_content
+
+| 
+
+Tracks recent pageviews for visitor
+
+| 
+
+Persistent
+
+| 
+
+1 Hour  
+  
+SailThru
+
+| 
+
+sailthru_visitor
+
+| 
+
+Client Id
+
+| 
+
+Persistent
+
+| 
+
+1 Hour  
+  
+Google DFP
+
+| 
+
+__gads
+
+| 
+
+Ad targeting
+
+| 
+
+Persistent
+
+| 
+
+2 Years  
+  
+Google
+
+| 
+
+gsScrollPos-<num>
+
+| 
+
+Scroll position tracking
+
+| 
+
+Session  
+  
+Bounce Exchange
+
+| 
+
+bounceClientVisit<num>v
+
+| 
+
+Client tracking information
+
+| 
+
+Persistent
+
+| 
+
+30 Minutes  
+  
+Google
+
+| 
+
+AMP_TOKEN
+
+| 
+
+Contains a token that can be used to retrieve a Client ID from AMP Client ID service. Other possible values indicate opt-out, inflight request or an error retrieving a Client ID from AMP Client ID service.
+
+| 
+
+Persistent
+
+| 
+
+1 Hour  
+  
+Quantcast
+
+| 
+
+__qca
+
+| 
+
+Collects anonymous data on the user's visits to the website, such as the number of visits, average time spent on the website and what pages have been loaded with the purpose of generating reports for optimising the website content.
+
+| 
+
+Persistent
+
+| 
+
+13 Months  
+  
+Advertising Policy
+
+To help us maintain the resources needed to create the quality content you deserve, we accept advertisements on our Site. We greatly value transparency and hope that this policy leaves you feeling even more confident about the content and service we provide.
+
+MyDomaine maintains a distinct separation between advertising and editorial content.
+
+  * All advertising or sponsored content on MyDomaine is clearly and unambiguously distinguished from editorial content through borders or other distinguishing elements and/or identified as an "Ad," "Advertisement," "Sponsored" or a similar designation indicating that the content is being provided by or on behalf of an advertiser or sponsor.
+  * All "native" ads or paid content are identified as an "Ad," "Advertisement," "Sponsored" or a similar designation indicating that the content is being provided by or on behalf of an advertiser or sponsor.
+  * Editorial content on MyDomaine is not influenced by advertisements unless the content is sponsored content, in which case, the content will be clearly demarcated and/or identified with the title "Ad," "Advertisement," or "Sponsored", or a similar designation, indicating that the content is being provided by or on behalf of an advertiser or sponsor.
+  * All advertisements and sponsored content appearing on MyDomaine are subject to the Guidelines found [here ](https://www.thespruce.com/legal#advertising-guidelines).
+
+
+
+Ecommerce and Affiliate Links Disclosure.
+
+Contributors and/or MyDomaine may receive compensation for participation in third-party affiliate marketing programs, including purchases made through links to MyDomaine’s e-commerce partners, if any. Pages on the Site containing affiliate marketing links, including product reviews, will be demarcated and/or identified with a disclaimer.
+
+Advertising Guidelines
+
+These advertising guidelines (“Guidelines”) set forth standards that govern the placement and display of advertisements and sponsored content (collectively, “Ads”) by any advertiser, agency, or advertising technology platform (collectively, “Advertisers”). Advertisers must adhere to these Guidelines when placing Ads, including Ads purchased under the AAAA/IAB Standard Terms and Conditions, on websites or mobile properties owned or controlled by About, Inc., including MyDomaine.com (collectively, “MyDomaine”).
+
+These Guidelines are intended to provide general parameters for Advertisers in connection with Ad creative and content served on MyDomaine. They are not exhaustive and do not address every situation or issue that may arise in the course of business. Accordingly, these Guidelines are subject to change from time to time in MyDomaine’s sole and absolute discretion.
+
+Advertisers are responsible for understanding and complying with all applicable laws and regulations, including FTC guidelines regarding advertising, native advertising disclosures, endorsements, privacy, and data security. All Ad’s must be fair, truthful, and clearly distinguishable from editorial content. Advertisers are responsible for ensuring all Ads and related claims are adequately substantiated. Further, Advertisers must adhere to MyDomaine’s Prohibited Content Guidelines and Additional Standards set forth below, which are incorporated into and made a part of these Guidelines.
+
+Ads served through networks or exchanges are reviewed on a regular basis and, in addition to any other remedies MyDomaine may have, MyDomaine reserves the right to remove, without notice, any Ads that do not meet these Guidelines, regardless of whether the Ad was previously accepted by MyDomaine.
+
+PROHIBITED CONTENT
+
+Ads may not contain or promote the following:
+
+  * Drugs/Alcohol/Tobacco. Ads may not promote illegal drugs, illegal substances, abuse of prescription drugs, use of Alcohol (except for beer and wine), or tobacco products, or any related paraphernalia thereto. Lawful products and services which promote quitting tobacco related products are permitted.
+  * Weapons/Violence. Ads may not promote the use, distribution, or making of firearms, ammunition, explosives, pyrotechnics or other weapons. Ads may not promote violence, cruelty, or physical or emotional harm to any person or animal.
+  * Illegal Activities/Gambling. Ads may not promote any illegal or other questionable activities which may be illegal in one or more jurisdictions, including without limitation hacking, counterfeiting, or other activities that may violate the intellectual property, privacy, publicity, or contractual rights of others. Ads may not contain or promote content related to scams, financial schemes, pyramid schemes or other fraudulent or illegal financial or investment opportunities. Ads may not promote casinos, gambling, betting, numbers games, sports or financial betting. Ads promoting state lotteries arepermitted.
+  * Hate/Intolerance/Discrimination. Ads may not contain or promote hate speech, personal attacks, or discrimination toward any individual, group, country or organization.
+  * Obscenity/Indecency/Profanity. Ads may not contain or promote any obscene, indecent, profane or offensive words, images, sounds, videos or other content.
+  * Political/Religious. Ads may not contain hostile, offensive, inflammatory or hateful speech related to political or religious topics or groups. Ads may not exploit controversial political, social, or religious issues for commercial purposes.
+  * Sexual/Adult Content. Ads may not include full or partial nudity, depictions of people in explicit positions, or activities that are overly suggestive or sexually provocative. Ads will not contain text or images exposing anyone or anything involved in explicit sexual acts or lewd and lascivious behavior. Ads may not promote escort, dating, erotic massage, pornography, or other sexual products or services.
+  * Disparagement/Defamation. Ads may not contain disparaging or defamatory information or content which tends to harm the reputation of MyDomaine or any other individual, group, or organization.
+  * Gross Depictions. Ads may not contain or promote content that is crude, vulgar, degrading or likely to shock or disgust.
+  * Militant/Extremism. Ads may not contain or promote extremely aggressive and combative behaviors or unlawful political measures, including individuals or groups advocating violence as a means to achieve their goals.
+  * Sensitive Content. Ads may not target sensitive categories such as financial status, medical conditions, mental health, criminal record, political affiliation, age, racial or ethnic origin, religious or philosophical affiliation or beliefs, sexual behavior or orientation, or trade union membership.
+  * Free Goods/Services. Ads may not distribute or promise to distribute any free goods and services.
+  * Targeted at Children. Ads may not specifically target children, including through cartoons or other similar content.
+  * Unverifiable Claims. Ad’s may not make confusing claims that reasonable consumers cannot readily understand and evaluate.
+  * Before/After Images. Ad may not depict “before and after” images or images that contain unexpected or unlikely results.
+  * Health/Safety Claims. Ads may not promote actions likely to harm one’s health, such as bulimia, anorexia, binge drinking, or drug use. Ads may not make health claims that are not clearly substantiated. Advertisers may be required to submit supporting documentation to substantiate their products’ claims.
+  * Misleading/False/Deceptive: Ads may not contain any information or content that is potentially misleading, false, or deceptive, including content which is meant to deceptively generate clicks such as fake “close” buttons.
+  * Competitive to MyDomaine /Affiliates. Ads may not promote direct competitors of MyDomaine or any of its parent, affiliate, subsidiary or other related entity.
+
+
+
+ADDITIONAL STANDARDS
+
+Advertisers and Ads must adhere to the following:
+
+  * Audio/Animation. Ads may not include overly disruptive audio or animation that plays automatically.
+  * Popups/Downloads. Ads may not include lead ads, floating layers, pop-ups, surveys, or any digital downloads.
+  * Malicious Software. Ads may not contain malicious code, software or viruses, including malware, spyware, adware, stealware, or Trojan horses.
+  * Separation. Ads must contain clear boarders and be displayed so they are unmistakably not part of MyDomaine’s editorial site content.
+  * Phishing. Ads may not trap or trick a user into providing money or any account, personal or other sensitive information.
+  * Compatibility. Ads must function uniformly on both Apple and PC formats, as well as all major Internet browsers.
+  * Independence. Ads may not appear to compromise or influence MyDomaine’s editorial independence from Advertisers.
+  * Endorsements. Ads may not create or imply the existence of any endorsement by MyDomaine of any product, service or organization.
+  * Landing Pages. Landing pages associated with Ads must correspond to the Ad's "call to action" and not engage in “bait and switch”.
+  * Proprietary Rights. Ads may not violate any copyright, trademark, trade-secret, patent, publicity, privacy, or other proprietary rights of MyDomaine or any third party. Advertisers may not alter or interfere with the readability or display of any MyDomaine trademarks, service marks, logos, designs or slogans.
+  * Data Collection/Use. Ads may not include open-box forms to register users or collect any data. Ads may not collect and sell or license any data or mailing lists regarding MyDomaine users without MyDomaine's express permission. Advertisers may not collect any personally identifiable information from MyDomaine users or place any cookies, applets or other similar files, if those files transmit any personally identifiable information to Advertisers, on desktop computers or mobile devices of MyDomaine users. Advertisers must handle data with appropriate care, not misuse any data which they are permitted to collect, nor collect any data for unclear purposes or without appropriate security measures.
+
+
