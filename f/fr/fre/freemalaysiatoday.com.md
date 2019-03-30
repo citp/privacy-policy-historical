@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the freemalaysiatoday.com privacy policy that was archived on 2018-10-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181002083229id_/https%3A//www.freemalaysiatoday.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freemalaysiatoday.com privacy policy that was archived on 2019-03-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190330125935id_/https%3A//www.freemalaysiatoday.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy & Policy | Free Malaysia Today
 
