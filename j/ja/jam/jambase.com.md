@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jambase.com privacy policy that was archived on 2018-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181227082518id_/https%3A//www.jambase.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jambase.com privacy policy that was archived on 2019-03-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190330140637id_/https%3A//www.jambase.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - JamBase
 
