@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ozy.com privacy policy that was archived on 2018-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181102093427id_/https%3A//www.ozy.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ozy.com privacy policy that was archived on 2019-03-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190330111529id_/https%3A//www.ozy.com/privacy-policy) for the most accurate reproduction.*
 
 # OZY Media Privacy Policy | Housekeeping | OZY
 
