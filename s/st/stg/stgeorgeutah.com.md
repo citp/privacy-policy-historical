@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the stgeorgeutah.com privacy policy that was archived on 2018-10-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181030083513id_/http%3A//www.stgeorgeutah.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the stgeorgeutah.com privacy policy that was archived on 2019-03-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190330194425id_/https%3A//www.stgeorgeutah.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy – St George News
 
