@@ -1,486 +1,79 @@
-<!--The following is the downloaded HTML source of the fantasycruncher.com privacy policy that was archived on 2017-04-20.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20170420183930id_/https%3A//www.fantasycruncher.com/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the fantasycruncher.com privacy policy that was archived on 2019-03-30.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20190330163900id_/https%3A//www.fantasycruncher.com/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html style="" class=" js flexbox flexboxlegacy canvas canvastext webgl no-touch geolocation postmessage websqldatabase indexeddb hashchange history draganddrop websockets rgba hsla multiplebgs backgroundsize borderimage borderradius boxshadow textshadow opacity cssanimations csscolumns cssgradients cssreflections csstransforms csstransforms3d csstransitions fontface generatedcontent video audio localstorage sessionstorage webworkers applicationcache svg inlinesvg smil svgclippaths"><head>
-        <meta charset="utf-8">
-        <meta name="description" content="Fantasy Cruncher is a daily fantasy sports lineup optimizer for NFL, NBA, MLB, NHL and PGA. Generate lineups for FanDuel, DraftKings, Yahoo, Fantasyaces, and more!">
-        <meta name="viewport" content="width=device-width, height=device-height, initial-scale=1, maximum-scale=1, user-scalable=0">
+        <meta charset="UTF-8">
+        <meta name="google" content="notranslate">
+        <meta http-equiv="Content-Language" content="en">
+        <meta name="description" content="Fantasy Cruncher can be used to create Optimal Daily Fantasy Lineups for NFL, NBA, MLB, NHL, PGA, Euro Golf, NASCAR, CFL, WNBA and MMA. Quickly generate and export optimal lineups for FanDuel, DraftKings, Yahoo and FantasyDraft ">
+        <meta name="viewport" content="width=device-width, height=device-height, initial-scale= 1.0, maximum-scale= 1.0, user-scalable=no">
 
         <meta name="mobile-web-app-capable" content="yes">
         <meta content="yes" name="apple-mobile-web-app-capable">
         <meta content="black" name="apple-mobile-web-app-status-bar-style">
-        <link rel="shortcut icon" sizes="196x196" href="/img/icon-196x196.png">
-        <link rel="apple-touch-icon" href="/img/icon-196x196.png">
-
-        <title>NBA Lineup Optimizer | Daily Fantasy Sports Lineup Tool</title>
-        <link rel="shortcut icon" href="/favicon.ico">
 
 
-        <link rel="stylesheet" href="/css/vendor-combined.css?v=4.74">
-        <link rel="stylesheet" href="/style.php?p=style.scss&amp;v=4.74">
-        <link rel="stylesheet" href="/css/style.css?v=4.74">
-        <link rel="stylesheet" href="/css/sweetalert.css">
+                        <link rel="shortcut icon" sizes="196x196" href="/img/icon-196x196.png">
+                <link rel="apple-touch-icon" href="/img/icon-196x196.png">
+                <link rel="shortcut icon" href="/favicon.ico">
+
+        
+        
+        <title>DFS Lineup Optimizer for NFL, NBA, MLB, NHL, PGA, EURO Golf, NASCAR, CFL, WNBA and MMA | Daily Fantasy Sports Lineup Tool</title>
+        <link rel="stylesheet" href="/css/vendor-combined.css?v=7.87">
+        <link rel="stylesheet" href="/style.php?p=style.scss&amp;v=7.87">
+        <link rel="stylesheet" href="/css/style.css?v=7.87">
+        <link href="https://fonts.googleapis.com/css?family=Montserrat|Noto+Sans:400,700|Nunito+Sans:400,400i,600,600i,800,800i,900,900i|Open+Sans:300|Oswald:400,700|Source+Sans+Pro:200,300" rel="stylesheet">
+        <link rel="stylesheet" href="/css/sweetalert2.css">
         <link rel="stylesheet" href="/js/chosen_v1.6.2/chosen.css">
 
         
         
+        <script src="//dmc1acwvwny3.cloudfront.net/atatus.js"></script>
+        <script type="text/javascript">atatus.config('b450e793e5bb454db30e22bb29075b6b').install();</script>
+
         <script src="/js/vendor/modernizr.js"></script>
         <script src="//ajax.googleapis.com/ajax/libs/jquery/2.2.4/jquery.min.js"></script>
         <script src="//ajax.googleapis.com/ajax/libs/jqueryui/1.11.1/jquery-ui.min.js"></script>
         <script src="/js/jquery.ui.touch-punch.min.js"></script>
         <script src="/js/jquery.cookie.js"></script>
+        <script src="/js/vendor-combined.js?v=7.87"></script>
+
+        <!-- <link href="/js/Clusterize.js-master/clusterize.css" rel="stylesheet">
+        <script src="/js/Clusterize.js-master/clusterize.min.js"></script> -->
+
         <script>
 
-        	jQuery(function(){
-        		jQuery(document).foundation();
-        	});
 
-				  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
-				  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
-				  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
-				  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+            $(document).ready(function() {
+                $(document).foundation();
+            });
 
-				  ga('create', 'UA-55385128-1', 'auto');
-				  ga('send', 'pageview');
+            (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+            (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+            m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+            })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
 
-				  var site = "fanduel";
-				  var league = "NBA";
-                  var period = "2017-04-20";
-				  var period2 = "";
-				  var userid = "";
-				  var min_Proj = "3"
+            ga('create', 'UA-55385128-1', 'auto');
+            ga('send', 'pageview');
 
-                  var user_settings = {}
+            var initialIframeHeight = window.innerHeight;
+
+            var site = "";
+            var league = "";
+            var period = "";
+            var period2 = "";
+            var userid = "";
+            var min_Proj = "0"
+
+            var user_settings = {}
         </script>
+        <script src="/ajax/getSiteConfigs.php?period="></script>
 
     </head>
         <body>
-    
-        <div class="small-screen-nav-container show-for-small-only clearfix">
-    			
-    			<div class="off-canvas-wrap" data-offcanvas="">
-    			  <div class="inner-wrap">
 
-    			  	<nav class="tab-bar">
-    				    <section class="left tab-bar-section">
-    				      <a class="left-off-canvas-toggle menu-icon" onclick="return true;"><span>menu</span></a>
-    				    </section>
-    				    <a href="/" class="logo logo-header">
-			    			<img src="/img/logo_white.svg" alt="FantasyCruncher">
-		    			</a>
-    				  </nav>
-
-    			    <!-- Off Canvas Menu -->
-					<nav class="left-off-canvas-menu">
-						<ul class="off-canvas-list">
-							<li><label class="first">Tools</label></li>
-							<li><a class="off-canvas-submenu-call"><i class="fa fa-gear"></i>Lineup Cruncher</a></li>
-									<ul class="off-canvas-submenu">
-									<li><a class="off-canvas-submenu-call"><div class="site-icon draftkings"></div>Draftkings</a></li>
-										<ul class="off-canvas-submenu">
-											<li><a href="/lineup-cruncher/draftkings/NFL/2016-week-21"><i class="icon-football home-sport-icon"></i>NFL</a></li>
-											<li><a href="/lineup-cruncher/draftkings/MLB/2017-04-20"><i class="icon-baseball home-sport-icon"></i>MLB</a></li>
-											<li><a href="/lineup-cruncher/draftkings/NBA/2017-04-20"><i class="icon-basketball home-sport-icon"></i>NBA</a></li>
-											<li><a href="/lineup-cruncher/draftkings/NHL/2017-04-20"><i class="icon-hockey home-sport-icon"></i>NHL</a></li>
-											<li><a href="/lineup-cruncher/draftkings/MMA/2017-04-22"><i class="fa fa-hand-rock-o"></i>MMA</a></li>
-											<li><a href="/lineup-cruncher/draftkings/PGA/2017-04-20"><i class="icon-golf home-sport-icon"></i>PGA</a></li>
-											<li><a href="/lineup-cruncher/draftkings/EURO/2017-04-19"><i class="icon-golf home-sport-icon"></i>EURO</a></li>
-											<li><a href="/lineup-cruncher/draftkings/NAS/2017-04-23"><i class="icon-racing home-sport-icon"></i>NAS</a></li>
-											<li><a href="/lineup-cruncher/draftkings/CFL/2016-week-20"><i class="icon-football home-sport-icon"></i>CFL</a></li>
-										</ul>
-
-									<li><a class="off-canvas-submenu-call"><div class="site-icon fanduel"></div>Fanduel</a></li>
-										<ul class="off-canvas-submenu">
-											<li><a href="/lineup-cruncher/fanduel/NFL/2016-week-21"><i class="icon-football home-sport-icon"></i>NFL</a></li>
-											<li><a href="/lineup-cruncher/fanduel/MLB/2017-04-20"><i class="icon-baseball home-sport-icon"></i>MLB</a></li>
-											<li><a href="/lineup-cruncher/fanduel/NBA/2017-04-20"><i class="icon-basketball home-sport-icon"></i>NBA</a></li>
-											<li><a href="/lineup-cruncher/fanduel/NHL/2017-04-20"><i class="icon-hockey home-sport-icon"></i>NHL</a></li>
-											<li><a href="/lineup-cruncher/fanduel/PGA/2017-04-20"><i class="icon-golf home-sport-icon"></i>PGA</a></li>
-										</ul>
-
-									<li><a class="off-canvas-submenu-call"><div class="site-icon fantasydraft"></div>FantasyDraft</a></li>
-										<ul class="off-canvas-submenu">
-											<li><a href="/lineup-cruncher/fantasydraft/NFL/2016-week-21"><i class="icon-football home-sport-icon"></i>NFL</a></li>
-											<li><a href="/lineup-cruncher/fantasydraft/MLB/2017-04-20"><i class="icon-baseball home-sport-icon"></i>MLB</a></li>
-											<li><a href="/lineup-cruncher/fantasydraft/NBA/2017-04-20"><i class="icon-basketball home-sport-icon"></i>NBA</a></li>
-											<li><a href="/lineup-cruncher/fantasydraft/PGA/2017-04-20"><i class="icon-golf home-sport-icon"></i>PGA</a></li>
-										</ul>
-
-									<li><a class="off-canvas-submenu-call"><div class="site-icon yahoo"></div>Yahoo</a></li>
-										<ul class="off-canvas-submenu">
-											<li><a href="/lineup-cruncher/yahoo/NFL/2016-week-21"><i class="icon-football home-sport-icon"></i>NFL</a></li>
-											<li><a href="/lineup-cruncher/yahoo/MLB/2017-04-20"><i class="icon-baseball home-sport-icon"></i>MLB</a></li>
-											<li><a href="/lineup-cruncher/yahoo/NBA/2017-04-20"><i class="icon-basketball home-sport-icon"></i>NBA</a></li>
-											<li><a href="/lineup-cruncher/yahoo/NHL/2017-04-20"><i class="icon-hockey home-sport-icon"></i>NHL</a></li>
-										</ul>
-
-									</ul>								
-
-							<!-- <li><a href="/my-lineups/NBA/2017-04-20"><i class="fa fa-list"></i>My Lineups</a></li> -->
-							<li><a class="off-canvas-submenu-call"><i class="fa fa-backward"></i>Lineup Rewind</a></li>
-								<ul class="off-canvas-submenu">
-									<li><a class="off-canvas-submenu-call"><div class="site-icon draftkings"></div>Draftkings</a></li>
-										<ul class="off-canvas-submenu">
-											<li><a href="/lineup-rewind/draftkings/NFL/2016-week-21"><i class="icon-football home-sport-icon"></i>NFL</a></li>
-											<li><a href="/lineup-rewind/draftkings/MLB/2017-04-20"><i class="icon-baseball home-sport-icon"></i>MLB</a></li>
-											<li><a href="/lineup-rewind/draftkings/NBA/2017-04-20"><i class="icon-basketball home-sport-icon"></i>NBA</a></li>
-											<li><a href="/lineup-rewind/draftkings/NHL/2017-04-20"><i class="icon-hockey home-sport-icon"></i>NHL</a></li>
-											<li><a href="/lineup-rewind/draftkings/MMA/2017-04-22"><i class="fa fa-hand-rock-o"></i>MMA</a></li>
-											<li><a href="/lineup-rewind/draftkings/PGA/2017-04-20"><i class="icon-golf home-sport-icon"></i>PGA</a></li>
-											<li><a href="/lineup-rewind/draftkings/EURO/2017-04-19"><i class="icon-golf home-sport-icon"></i>EURO</a></li>
-											<li><a href="/lineup-rewind/draftkings/NAS/2017-04-23"><i class="icon-racing home-sport-icon"></i>NAS</a></li>
-											<li><a href="/lineup-rewind/draftkings/CFL/2016-week-20"><i class="icon-football home-sport-icon"></i>CFL</a></li>
-										</ul>
-
-									<li><a class="off-canvas-submenu-call"><div class="site-icon fanduel"></div>Fanduel</a></li>
-										<ul class="off-canvas-submenu">
-											<li><a href="/lineup-rewind/fanduel/NFL/2016-week-21"><i class="icon-football home-sport-icon"></i>NFL</a></li>
-											<li><a href="/lineup-rewind/fanduel/MLB/2017-04-20"><i class="icon-baseball home-sport-icon"></i>MLB</a></li>
-											<li><a href="/lineup-rewind/fanduel/NBA/2017-04-20"><i class="icon-basketball home-sport-icon"></i>NBA</a></li>
-											<li><a href="/lineup-rewind/fanduel/NHL/2017-04-20"><i class="icon-hockey home-sport-icon"></i>NHL</a></li>
-											<li><a href="/lineup-rewind/fanduel/PGA/2017-04-20"><i class="icon-golf home-sport-icon"></i>PGA</a></li>
-										</ul>
-
-									<li><a class="off-canvas-submenu-call"><div class="site-icon fantasydraft"></div>FantasyDraft</a></li>
-										<ul class="off-canvas-submenu">
-											<li><a href="/lineup-rewind/fantasydraft/NFL/2016-week-21"><i class="icon-football home-sport-icon"></i>NFL</a></li>
-											<li><a href="/lineup-rewind/fantasydraft/NBA/2017-04-20"><i class="icon-basketball home-sport-icon"></i>NBA</a></li>
-											<li><a href="/lineup-rewind/fantasydraft/PGA/2017-04-20"><i class="icon-golf home-sport-icon"></i>PGA</a></li>
-										</ul>
-
-									<li><a class="off-canvas-submenu-call"><div class="site-icon yahoo"></div>Yahoo</a></li>
-										<ul class="off-canvas-submenu">
-											<li><a href="/lineup-rewind/yahoo/NFL/2016-week-21"><i class="icon-football home-sport-icon"></i>NFL</a></li>
-											<li><a href="/lineup-rewind/yahoo/MLB/2017-04-20"><i class="icon-baseball home-sport-icon"></i>MLB</a></li>
-											<li><a href="/lineup-rewind/yahoo/NBA/2017-04-20"><i class="icon-basketball home-sport-icon"></i>NBA</a></li>
-											<li><a href="/lineup-rewind/yahoo/NHL/2017-04-20"><i class="icon-hockey home-sport-icon"></i>NHL</a></li>
-										</ul>
-
-									</ul>
-
-							<li><label class="first">Insights</label></li>
-								<li><a href="/articles/home/"><i class="fa fa-home" aria-hidden="true"></i>Insights Home</a></li>
-								<li><a class="off-canvas-submenu-call"><i class="fa fa-dot-circle-o" aria-hidden="true"></i>Specific Sport</a></li>
-									<ul class="off-canvas-submenu">
-										<li><a href="/articles/category/dfs-football-nfl/"><i class="icon-football home-sport-icon"></i>NFL</a></li>
-		    							<li><a href="/articles/category/dfs-basketball-nba/"><i class="icon-basketball home-sport-icon"></i>NBA</a></li>
-		    							<li><a href="/articles/category/dfs-hockey-nhl/"><i class="icon-hockey home-sport-icon"></i>NHL</a></li>
-		    							<li><a href="/articles/category/dfs-golf-pga/"><i class="icon-golf home-sport-icon"></i>PGA</a></li>
-		    							<li><a href="/articles/category/draftkings-cfl/"><i class="icon-football home-sport-icon"></i>CFL</a></li>
-		    							<li><a href="/articles/category/dfs-baseball-mlb/"><i class="icon-baseball home-sport-icon"></i>MLB</a></li>
-		    							<!-- <li><a href="/articles/category/"><i class="fa fa-hand-rock-o"></i>MMA</a></li> -->
-		    							<!-- <li><a href="/articles/category/"><i class="icon-racing home-sport-icon"></i>NAS</a></li> -->
-									</ul>
-								
-
-							<li><label class="first">Connect</label></li>
-							<li><a href="/forum/"><i class="fa fa-comments"></i>Forums</a></li>
-
-							<!-- If not logged in display these links -->
-							<li><label class="first">Help</label></li>
-							<li><a href="/help/faqs"><i class="fa fa-question"></i>FAQ's</a></li>
-							<li><a href="/help/tutorials"><i class="fa fa-book"></i>Tutorials</a></li>
-							<li><a href="/help/about"><i class="fa fa-users"></i>About</a></li>
-							<li><a href="/help/contact"><i class="fa fa-comment-o"></i>Contact Us</a></li>
-							<li><label class="first">Account</label></li>
-							<!-- If not premium display -->
-														<li><a href="/upgrade"><i class="fa fa-trophy"></i>Premium</a></li>
-							
-														<li><a href="/register"><i class="fa fa-pencil"></i>Register</a></li>
-							<li><a href="/login"><i class="fa fa-user"></i>Login</a></li>
-														<!-- If logged in display these links -->
-													</ul>
-					</nav>
-
-    			   
-    			  <a class="exit-off-canvas"></a>
-
-    			  </div>
-    			</div>
-    			
-    		</div>
-
-
-    		<!-- medium screen and up nav -->
-    		<div class="row navigation-container show-for-medium-up clearfix">
-    			<header class="main-header">
-		    		<a href="/" class="logo logo-header">
-			    		<img src="/img/logo_white.svg" alt="FantasyCruncher">
-		    		</a>
-			    		<ul class="main-nav-links">
-			    			<li onclick="return true;"><a><i class="fa fa-wrench"></i>Tools</a>
-			    				<ul id="tools-submenu">
-			    					<li><a onclick="return true;"><i class="fa fa-gear"></i>Lineup Cruncher</a>
-			    						<div class="mega-submenu shadow1">
-			    							<div class="site-col">
-			    								<span class="site-col-title"><div class="site-icon draftkings"></div>Draftkings</span>
-			    								<div class="site-col-list">
-			    									<div class="mega-menu-link"><a href="/lineup-cruncher/draftkings/NFL/"><i class="icon-football home-sport-icon"></i>NFL</a></div>
-			    									<div class="mega-menu-link"><a href="/lineup-cruncher/draftkings/NBA/"><i class="icon-basketball home-sport-icon"></i>NBA</a></div>
-			    									<div class="mega-menu-link"><a href="/lineup-cruncher/draftkings/MLB/"><i class="icon-baseball home-sport-icon"></i>MLB</a></div>
-			    									<div class="mega-menu-link"><a href="/lineup-cruncher/draftkings/NHL/"><i class="icon-hockey home-sport-icon"></i>NHL</a></div>
-			    									<div class="mega-menu-link"><a href="/lineup-cruncher/draftkings/PGA/"><i class="icon-golf home-sport-icon"></i>PGA</a></div>
-			    									<div class="mega-menu-link"><a href="/lineup-cruncher/draftkings/EURO/"><i class="icon-golf home-sport-icon"></i>EURO</a></div>
-			    									<div class="mega-menu-link"><a href="/lineup-cruncher/draftkings/NAS/"><i class="icon-racing home-sport-icon"></i>NASCAR</a></div>
-			    									<div class="mega-menu-link"><a href="/lineup-cruncher/draftkings/MMA/"><i class="fa fa-hand-rock-o"></i>MMA</a></div>
-			    								</div>
-			    							</div>
-
-			    							<div class="site-col">
-			    								<span class="site-col-title"><div class="site-icon fanduel"></div>Fanduel</span>
-			    								<div class="site-col-list">
-			    									<div class="mega-menu-link"><a href="/lineup-cruncher/fanduel/NFL/"><i class="icon-football home-sport-icon"></i>NFL</a></div>
-			    									<div class="mega-menu-link"><a href="/lineup-cruncher/fanduel/NBA/"><i class="icon-basketball home-sport-icon"></i>NBA</a></div>
-			    									<div class="mega-menu-link"><a href="/lineup-cruncher/fanduel/MLB/"><i class="icon-baseball home-sport-icon"></i>MLB</a></div>
-			    									<div class="mega-menu-link"><a href="/lineup-cruncher/fanduel/NHL/"><i class="icon-hockey home-sport-icon"></i>NHL</a></div>
-			    									<div class="mega-menu-link"><a href="/lineup-cruncher/fanduel/PGA/"><i class="icon-golf home-sport-icon"></i>PGA</a></div>
-			    								</div>
-			    							</div>
-
-			    							<div class="site-col">
-			    								<span class="site-col-title"><div class="site-icon fantasydraft"></div>FantasyDraft</span>
-			    								<div class="site-col-list">
-			    									<div class="mega-menu-link"><a href="/lineup-cruncher/fantasydraft/NFL/"><i class="icon-football home-sport-icon"></i>NFL</a></div>
-			    									<div class="mega-menu-link"><a href="/lineup-cruncher/fantasydraft/NBA/"><i class="icon-basketball home-sport-icon"></i>NBA</a></div>
-			    									<div class="mega-menu-link"><a href="/lineup-cruncher/fantasydraft/MLB/"><i class="icon-baseball home-sport-icon"></i>MLB</a></div>
-			    									<!-- <div class="mega-menu-link"><a href="/lineup-cruncher/fantasydraft/NHL/"><i class="icon-hockey home-sport-icon"></i>NHL</a></div> -->
-			    									<div class="mega-menu-link"><a href="/lineup-cruncher/fantasydraft/PGA/"><i class="icon-golf home-sport-icon"></i>PGA</a></div>
-			    								</div>
-			    							</div>
-
-			    							<div class="site-col">
-			    								<span class="site-col-title"><div class="site-icon yahoo"></div>Yahoo</span>
-			    								<div class="site-col-list">
-			    									<div class="mega-menu-link"><a href="/lineup-cruncher/yahoo/NFL/"><i class="icon-football home-sport-icon"></i>NFL</a></div>
-			    									<div class="mega-menu-link"><a href="/lineup-cruncher/yahoo/NBA/"><i class="icon-basketball home-sport-icon"></i>NBA</a></div>
-			    									<div class="mega-menu-link"><a href="/lineup-cruncher/yahoo/MLB/"><i class="icon-baseball home-sport-icon"></i>MLB</a></div>
-			    									<div class="mega-menu-link"><a href="/lineup-cruncher/yahoo/NHL/"><i class="icon-hockey home-sport-icon"></i>NHL</a></div>
-			    								</div>
-			    							</div>
-
-			    						</div>
-			    					</li>
-			    					<!-- <li><a href="/my-lineups/NBA/2017-04-20"><i class="fa fa-list"></i>My Lineups</a></li> -->
-                    				<li><a onclick="return true;"><i class="fa fa-backward"></i>Lineup Rewind</a>
-                    					<div class="mega-submenu shadow1">
-			    							<div class="site-col">
-			    								<span class="site-col-title"><div class="site-icon draftkings"></div>Draftkings</span>
-			    								<div class="site-col-list">
-			    									<div class="mega-menu-link"><a href="/lineup-rewind/draftkings/NFL/"><i class="icon-football home-sport-icon"></i>NFL</a></div>
-			    									<div class="mega-menu-link"><a href="/lineup-rewind/draftkings/NBA/"><i class="icon-basketball home-sport-icon"></i>NBA</a></div>
-			    									<div class="mega-menu-link"><a href="/lineup-rewind/draftkings/MLB/"><i class="icon-baseball home-sport-icon"></i>MLB</a></div>
-			    									<div class="mega-menu-link"><a href="/lineup-rewind/draftkings/NHL/"><i class="icon-hockey home-sport-icon"></i>NHL</a></div>
-			    									<div class="mega-menu-link"><a href="/lineup-rewind/draftkings/PGA/"><i class="icon-golf home-sport-icon"></i>PGA</a></div>
-			    									<div class="mega-menu-link"><a href="/lineup-rewind/draftkings/EURO/"><i class="icon-golf home-sport-icon"></i>EURO</a></div>
-			    									<div class="mega-menu-link"><a href="/lineup-rewind/draftkings/NAS/"><i class="icon-racing home-sport-icon"></i>NASCAR</a></div>
-			    									<div class="mega-menu-link"><a href="/lineup-rewind/draftkings/MMA/"><i class="fa fa-hand-rock-o"></i>MMA</a></div>
-			    								</div>
-			    							</div>
-
-			    							<div class="site-col">
-			    								<span class="site-col-title"><div class="site-icon fanduel"></div>Fanduel</span>
-			    								<div class="site-col-list">
-			    									<div class="mega-menu-link"><a href="/lineup-rewind/fanduel/NFL/"><i class="icon-football home-sport-icon"></i>NFL</a></div>
-			    									<div class="mega-menu-link"><a href="/lineup-rewind/fanduel/NBA/"><i class="icon-basketball home-sport-icon"></i>NBA</a></div>
-			    									<div class="mega-menu-link"><a href="/lineup-rewind/fanduel/MLB/"><i class="icon-baseball home-sport-icon"></i>MLB</a></div>
-			    									<div class="mega-menu-link"><a href="/lineup-rewind/fanduel/NHL/"><i class="icon-hockey home-sport-icon"></i>NHL</a></div>
-			    									<div class="mega-menu-link"><a href="/lineup-rewind/fanduel/PGA/"><i class="icon-golf home-sport-icon"></i>PGA</a></div>
-			    									
-			    								</div>
-			    							</div>
-
-			    							<div class="site-col">
-			    								<span class="site-col-title"><div class="site-icon fantasydraft"></div>FantasyDraft</span>
-			    								<div class="site-col-list">
-			    									<div class="mega-menu-link"><a href="/lineup-rewind/fantasydraft/NFL/"><i class="icon-football home-sport-icon"></i>NFL</a></div>
-			    									<div class="mega-menu-link"><a href="/lineup-rewind/fantasydraft/NBA/"><i class="icon-basketball home-sport-icon"></i>NBA</a></div>
-			    									<div class="mega-menu-link"><a href="/lineup-rewind/fantasydraft/MLB/"><i class="icon-baseball home-sport-icon"></i>MLB</a></div>
-			    									<!-- <div class="mega-menu-link"><a href="/lineup-rewind/fantasydraft/NHL/"><i class="icon-hockey home-sport-icon"></i>NHL</a></div> -->
-			    									<div class="mega-menu-link"><a href="/lineup-rewind/fantasydraft/PGA/"><i class="icon-golf home-sport-icon"></i>PGA</a></div>
-			    								</div>
-			    							</div>
-
-			    							<div class="site-col">
-			    								<span class="site-col-title"><div class="site-icon yahoo"></div>Yahoo</span>
-			    								<div class="site-col-list">
-			    									<div class="mega-menu-link"><a href="/lineup-rewind/yahoo/NFL/"><i class="icon-football home-sport-icon"></i>NFL</a></div>
-			    									<div class="mega-menu-link"><a href="/lineup-rewind/yahoo/NBA/"><i class="icon-basketball home-sport-icon"></i>NBA</a></div>
-			    									<div class="mega-menu-link"><a href="/lineup-rewind/yahoo/MLB/"><i class="icon-baseball home-sport-icon"></i>MLB</a></div>
-			    									<div class="mega-menu-link"><a href="/lineup-rewind/yahoo/NHL/"><i class="icon-hockey home-sport-icon"></i>NHL</a></div>
-			    								</div>
-			    							</div>
-			    							
-			    						</div>
-                    				</li>
-			    				</ul>
-			    			</li>
-
-			    			<li onclick="return true;"><a><i class="fa fa-lightbulb-o" aria-hidden="true"></i>Insights</a>
-			    				<ul>
-			    					<li><a href="/articles/home/"><i class="fa fa-home" aria-hidden="true"></i>Insights Home</a></li>
-			    					
-			    					<li><a onclick="return true;"><i class="fa fa-dot-circle-o" aria-hidden="true"></i>Specific Sport</a>
-			    						<ul>
-			    							<li><a href="/articles/category/dfs-football-nfl/"><i class="icon-football home-sport-icon"></i>NFL</a></li>
-			    							<li><a href="/articles/category/dfs-basketball-nba/"><i class="icon-basketball home-sport-icon"></i>NBA</a></li>
-			    							<li><a href="/articles/category/dfs-hockey-nhl/"><i class="icon-hockey home-sport-icon"></i>NHL</a></li>
-			    							<li><a href="/articles/category/dfs-golf-pga/"><i class="icon-golf home-sport-icon"></i>PGA</a></li>
-			    							<li><a href="/articles/category/draftkings-cfl/"><i class="icon-football home-sport-icon"></i>CFL</a></li>
-			    							<li><a href="/articles/category/dfs-baseball-mlb/"><i class="icon-baseball home-sport-icon"></i>MLB</a></li>
-			    							<!-- <li><a href="/articles/category/"><i class="fa fa-hand-rock-o"></i>MMA</a></li> -->
-			    							<!-- <li><a href="/articles/category/"><i class="icon-racing home-sport-icon"></i>NAS</a></li> -->
-			    						</ul>
-			    					</li>
-
-			    				</ul>
-			    			</li>
-
-			    			<!-- If not premium display -->
-			    						    			<li><a href="/upgrade"><i class="fa fa-trophy"></i>Premium</a></li>
-			    			
-			    			<!-- If not logged in display these links -->
-			    						    			<li><a href="/register"><i class="fa fa-pencil"></i>Register</a></li>
-			    			<li><a href="/login"><i class="fa fa-user"></i>Login</a></li>
-			    			
-			    			<!-- If logged in display these links -->
-			    			
-			    			<li><a href="/forum/"><i class="fa fa-comments"></i>Forums</a></li>
-
-
-			    			<li onclick="return true;"><a><i class="fa fa-question-circle"></i>Help</a>
-			    				<ul>
-			    					<li><a href="/help/faqs"><i class="fa fa-question"></i>FAQ's</a></li>
-			    					<li><a href="/help/tutorials"><i class="fa fa-book"></i>Tutorials</a></li>
-			    					<li><a href="/help/about"><i class="fa fa-users"></i>About</a></li>
-			    					<li><a href="/help/contact"><i class="fa fa-comment-o"></i>Contact Us</a></li>
-			    				</ul>
-			    			</li>
-
-
-			    			<!-- If an admin display admin link -->
-			    					 
-
-			    		</ul>
-		    	</header>
-    		</div>
-    		    		<div class="wrapper clearfix">
-
-
-
-<div id="create-account-modal" class="reveal-modal" data-reveal="">
-    <a class="close-reveal-modal">×</a>
-
-
-    <div class="row narrow" id="create-account-container">
-        <div class="large-12 columns">
-            <form>
-                <h3>Create User Account</h3>
-                <fieldset id="inputs">
-                    <div><i class="fa fa-envelope"></i></div><input class="input-field" id="user_email" name="user_email" type="text" placeholder="Email address" required="" autofocus="">  
-                    <div><i class="fa fa-user"></i></div><input class="input-field" id="user_username" name="user_username" type="text" placeholder="Choose username" required="">
-                    <div><i class="fa fa-key"></i></div><input class="input-field" id="user_password" name="user_password" type="password" placeholder="Choose Password" required="">
-                    <div class="errorMsg"></div>
-                    <a class="button expand" id="submit-modal-signup">Create Account</a>
-                    <span>An email will be sent to you for verification before account will be active.</span>
-                </fieldset>
-            </form>
-        </div>
-    </div>
-
-    <div class="row narrow" id="verification-code-container">
-        <div class="large-12 columns">
-            <h3>Enter Verification Code</h3>
-            <span class="passcode-details">A 4 digit verification code has been emailed to you.  Please enter the code here.</span>
-            <input type="text" id="verification-code" name="verification-code">
-            <div class="verificationErrorMsg"></div>
-            <input class="button expand" type="submit" onclick="return false;" id="submit-verification-code" value="Verify">
-            <p class="verify-info">
-            	If you have not received your verification code, please check your spam folder, or <a class="resend-verification">click here to resend the code.</a>
-            </p>
-            <p class="resent-success" style="display:none">A verification email has been re-sent.</p>
-        </div>
-    </div>
-
-</div>
-
-<script type="text/javascript">
-	function openCreateUserModal(){
-		$('#create-account-modal').foundation('reveal', 'open');
-	}
-
-	$('#submit-modal-signup:not(.disabled)').click(function(){
-		
-		$(this).html('<span><div class="loader"></div>Creating Account...</span>');
-		$(this).addClass('disabled');
-
-		var user_email = $('#user_email').val();
-		var user_username = $('#user_username').val();
-		var user_password = $('#user_password').val();
-
-		$('.errorMsg').text(''); //reset error message
-
-		$.post('/login-funcs/modal-signup.php', {user_email:user_email, user_username:user_username, user_password:user_password}, function(data){
-			if(data.status == 'error'){
-				$('.errorMsg').text(data.msg);
-				$('#inputs').effect( "shake" );
-			}
-			if(data.status == 'success'){
-				$('#submit-modal-signup').attr('value','Success').addClass('success');
-				setTimeout(function(){
-					$('#create-account-container').hide()
-					$('#verification-code-container').show()
-				}, 300);					
-			}
-
-		});
-
-		$(this).attr('value','Create Account');
-		$(this).removeClass('disabled');
-
-	})
-
-
-	$('#submit-verification-code:not(.disabled)').click(function(){
-
-		$(this).addClass('disabled');
-		$(this).html('<span><div class="loader"></div>Verifying Account...</span>');
-
-		var user_email = $('#user_email').val();
-		var user_password = $('#user_password').val();
-		var code = $('#verification-code').val();
-
-		$.post('/login-funcs/verify2.php', {email:user_email, code:code}, function(data){
-			if(data.status == 'error'){
-				$('.verificationErrorMsg').text(data.msg);
-			}
-			if(data.status == 'success'){
-				$('#submit-verification-code').attr('value','Verified... Logging in...').addClass('success');
-
-				//log user in:
-				$.post('/login', {user_email:user_email, user_password:user_password, referer:window.location.pathname}, function(data){
-					location.reload();
-				})
-			}
-
-		});
-
-		$(this).removeClass('disabled');
-
-	})
-
-	$('.resend-verification').click(function(){
-		$.get('/login-funcs/resend-verification-email.php', function(data) {
-			$('.resent-success').show();
-			setTimeout(function() {
-				$('.resent-success').fadeOut();
-			}, 5000)
-		});
-	})
-
-</script>
-
-
-<script type="text/javascript">
+        <script type="text/javascript">
 	jQuery(function(){
 		jQuery(".off-canvas-submenu").hide();
 		jQuery(".off-canvas-submenu-call").click(function() {
@@ -490,8 +83,1037 @@
 		});
 	})
 </script>
-    		
-	    	<div class="row content-padding" style="max-width:1000px">
+
+<div class="small-screen-nav-container show-for-small-only clearfix">
+	<div class="off-canvas-wrap" data-offcanvas="">
+		<div class="inner-wrap">
+			<nav class="tab-bar">
+				<section class="left tab-bar-section">
+					<a class="left-off-canvas-toggle menu-icon" onclick="return true;"><span>menu</span></a>
+				</section>
+				<a href="/" class="logo logo-header">
+				<img src="/img/logo_white.svg" alt="FantasyCruncher">
+				</a>
+			</nav>
+			<!-- Off Canvas Menu -->
+			<nav class="left-off-canvas-menu">
+				<ul class="off-canvas-list">
+					<li><label class="first">Sports</label></li>
+										<li><a class="off-canvas-submenu-call">NFL</a></li>
+					<ul class="off-canvas-submenu">
+
+						<li><a class="off-canvas-submenu-call">Lineup Cruncher Optimizer</a></li>
+						<ul class="off-canvas-submenu">
+														<li><a href="/lineup-cruncher/draftkings/NFL/2018-week-22"><div class="site-icon draftkings"></div>Draftkings</a></li>
+														<li><a href="/lineup-cruncher/draftkings_pickem/NFL/2018-week-22"><div class="site-icon draftkings_pickem"></div>Draftkings Tiers</a></li>
+														<li><a href="/lineup-cruncher/draftkings_showdown/NFL/2018-week-22"><div class="site-icon draftkings_showdown"></div>Draftkings Showdown</a></li>
+														<li><a href="/lineup-cruncher/fanduel/NFL/2018-week-22"><div class="site-icon fanduel"></div>Fanduel</a></li>
+														<li><a href="/lineup-cruncher/fanduel_single/NFL/2018-week-22"><div class="site-icon fanduel_single"></div>Fanduel Single Game</a></li>
+														<li><a href="/lineup-cruncher/fanduel_super/NFL/2018-week-22"><div class="site-icon fanduel_super"></div>Fanduel Super Flex</a></li>
+														<li><a href="/lineup-cruncher/fantasydraft/NFL/2018-week-22"><div class="site-icon fantasydraft"></div>FantasyDraft</a></li>
+														<li><a href="/lineup-cruncher/yahoo/NFL/2018-week-22"><div class="site-icon yahoo"></div>Yahoo</a></li>
+															
+						</ul>
+
+						<li><a class="off-canvas-submenu-call">Lineup Rewind - FREE</a></li>
+						<ul class="off-canvas-submenu">
+														<li><a href="/lineup-rewind/draftkings/NFL/2018-week-22"><div class="site-icon draftkings"></div>Draftkings</a></li>
+														<li><a href="/lineup-rewind/draftkings_pickem/NFL/2018-week-22"><div class="site-icon draftkings_pickem"></div>Draftkings Tiers</a></li>
+														<li><a href="/lineup-rewind/draftkings_showdown/NFL/2018-week-22"><div class="site-icon draftkings_showdown"></div>Draftkings Showdown</a></li>
+														<li><a href="/lineup-rewind/fanduel/NFL/2018-week-22"><div class="site-icon fanduel"></div>Fanduel</a></li>
+														<li><a href="/lineup-rewind/fanduel_single/NFL/2018-week-22"><div class="site-icon fanduel_single"></div>Fanduel Single Game</a></li>
+														<li><a href="/lineup-rewind/fanduel_super/NFL/2018-week-22"><div class="site-icon fanduel_super"></div>Fanduel Super Flex</a></li>
+														<li><a href="/lineup-rewind/fantasydraft/NFL/2018-week-22"><div class="site-icon fantasydraft"></div>FantasyDraft</a></li>
+														<li><a href="/lineup-rewind/yahoo/NFL/2018-week-22"><div class="site-icon yahoo"></div>Yahoo</a></li>
+															 
+						</ul>
+
+												<li><a href="/articles/category/nfl/">FC Insights NFL Content</a></li>
+						
+
+					</ul>
+										<li><a class="off-canvas-submenu-call">NBA</a></li>
+					<ul class="off-canvas-submenu">
+
+						<li><a class="off-canvas-submenu-call">Lineup Cruncher Optimizer</a></li>
+						<ul class="off-canvas-submenu">
+														<li><a href="/lineup-cruncher/draftkings/NBA/2019-03-30"><div class="site-icon draftkings"></div>Draftkings</a></li>
+														<li><a href="/lineup-cruncher/draftkings_pickem/NBA/2019-03-30"><div class="site-icon draftkings_pickem"></div>Draftkings Tiers</a></li>
+														<li><a href="/lineup-cruncher/draftkings_showdown/NBA/2019-03-30"><div class="site-icon draftkings_showdown"></div>Draftkings Showdown</a></li>
+														<li><a href="/lineup-cruncher/fanduel/NBA/2019-03-30"><div class="site-icon fanduel"></div>Fanduel</a></li>
+														<li><a href="/lineup-cruncher/fanduel_single/NBA/2019-03-30"><div class="site-icon fanduel_single"></div>Fanduel Single Game</a></li>
+														<li><a href="/lineup-cruncher/fantasydraft/NBA/2019-03-30"><div class="site-icon fantasydraft"></div>FantasyDraft</a></li>
+														<li><a href="/lineup-cruncher/yahoo/NBA/2019-03-30"><div class="site-icon yahoo"></div>Yahoo</a></li>
+															
+						</ul>
+
+						<li><a class="off-canvas-submenu-call">Lineup Rewind - FREE</a></li>
+						<ul class="off-canvas-submenu">
+														<li><a href="/lineup-rewind/draftkings/NBA/2019-03-29"><div class="site-icon draftkings"></div>Draftkings</a></li>
+														<li><a href="/lineup-rewind/draftkings_pickem/NBA/2019-03-29"><div class="site-icon draftkings_pickem"></div>Draftkings Tiers</a></li>
+														<li><a href="/lineup-rewind/draftkings_showdown/NBA/2019-03-29"><div class="site-icon draftkings_showdown"></div>Draftkings Showdown</a></li>
+														<li><a href="/lineup-rewind/fanduel/NBA/2019-03-29"><div class="site-icon fanduel"></div>Fanduel</a></li>
+														<li><a href="/lineup-rewind/fanduel_single/NBA/2019-03-29"><div class="site-icon fanduel_single"></div>Fanduel Single Game</a></li>
+														<li><a href="/lineup-rewind/fantasydraft/NBA/2019-03-29"><div class="site-icon fantasydraft"></div>FantasyDraft</a></li>
+														<li><a href="/lineup-rewind/yahoo/NBA/2019-03-29"><div class="site-icon yahoo"></div>Yahoo</a></li>
+															 
+						</ul>
+
+												<li><a href="/articles/category/nba/">FC Insights NBA Content</a></li>
+						
+
+					</ul>
+										<li><a class="off-canvas-submenu-call">MLB</a></li>
+					<ul class="off-canvas-submenu">
+
+						<li><a class="off-canvas-submenu-call">Lineup Cruncher Optimizer</a></li>
+						<ul class="off-canvas-submenu">
+														<li><a href="/lineup-cruncher/draftkings/MLB/2019-03-30"><div class="site-icon draftkings"></div>Draftkings</a></li>
+														<li><a href="/lineup-cruncher/draftkings_pickem/MLB/2019-03-30"><div class="site-icon draftkings_pickem"></div>Draftkings Tiers</a></li>
+														<li><a href="/lineup-cruncher/draftkings_showdown/MLB/2019-03-30"><div class="site-icon draftkings_showdown"></div>Draftkings Showdown</a></li>
+														<li><a href="/lineup-cruncher/fanduel/MLB/2019-03-30"><div class="site-icon fanduel"></div>Fanduel</a></li>
+														<li><a href="/lineup-cruncher/fanduel_single/MLB/2019-03-30"><div class="site-icon fanduel_single"></div>Fanduel Single Game</a></li>
+														<li><a href="/lineup-cruncher/fantasydraft/MLB/2019-03-30"><div class="site-icon fantasydraft"></div>FantasyDraft</a></li>
+														<li><a href="/lineup-cruncher/yahoo/MLB/2019-03-30"><div class="site-icon yahoo"></div>Yahoo</a></li>
+															
+						</ul>
+
+						<li><a class="off-canvas-submenu-call">Lineup Rewind - FREE</a></li>
+						<ul class="off-canvas-submenu">
+														<li><a href="/lineup-rewind/draftkings/MLB/2019-03-29"><div class="site-icon draftkings"></div>Draftkings</a></li>
+														<li><a href="/lineup-rewind/draftkings_pickem/MLB/2019-03-29"><div class="site-icon draftkings_pickem"></div>Draftkings Tiers</a></li>
+														<li><a href="/lineup-rewind/draftkings_showdown/MLB/2019-03-29"><div class="site-icon draftkings_showdown"></div>Draftkings Showdown</a></li>
+														<li><a href="/lineup-rewind/fanduel/MLB/2019-03-29"><div class="site-icon fanduel"></div>Fanduel</a></li>
+														<li><a href="/lineup-rewind/fanduel_single/MLB/2019-03-29"><div class="site-icon fanduel_single"></div>Fanduel Single Game</a></li>
+														<li><a href="/lineup-rewind/fantasydraft/MLB/2019-03-29"><div class="site-icon fantasydraft"></div>FantasyDraft</a></li>
+														<li><a href="/lineup-rewind/yahoo/MLB/2019-03-29"><div class="site-icon yahoo"></div>Yahoo</a></li>
+															 
+						</ul>
+
+												<li><a href="/articles/category/mlb/">FC Insights MLB Content</a></li>
+						
+
+					</ul>
+										<li><a class="off-canvas-submenu-call">NHL</a></li>
+					<ul class="off-canvas-submenu">
+
+						<li><a class="off-canvas-submenu-call">Lineup Cruncher Optimizer</a></li>
+						<ul class="off-canvas-submenu">
+														<li><a href="/lineup-cruncher/draftkings/NHL/2019-03-30"><div class="site-icon draftkings"></div>Draftkings</a></li>
+														<li><a href="/lineup-cruncher/draftkings_pickem/NHL/2019-03-30"><div class="site-icon draftkings_pickem"></div>Draftkings Tiers</a></li>
+														<li><a href="/lineup-cruncher/draftkings_showdown/NHL/2019-03-30"><div class="site-icon draftkings_showdown"></div>Draftkings Showdown</a></li>
+														<li><a href="/lineup-cruncher/fanduel/NHL/2019-03-30"><div class="site-icon fanduel"></div>Fanduel</a></li>
+														<li><a href="/lineup-cruncher/fanduel_single/NHL/2019-03-30"><div class="site-icon fanduel_single"></div>Fanduel Single Game</a></li>
+														<li><a href="/lineup-cruncher/yahoo/NHL/2019-03-30"><div class="site-icon yahoo"></div>Yahoo</a></li>
+															
+						</ul>
+
+						<li><a class="off-canvas-submenu-call">Lineup Rewind - FREE</a></li>
+						<ul class="off-canvas-submenu">
+														<li><a href="/lineup-rewind/draftkings/NHL/2019-03-29"><div class="site-icon draftkings"></div>Draftkings</a></li>
+														<li><a href="/lineup-rewind/draftkings_pickem/NHL/2019-03-29"><div class="site-icon draftkings_pickem"></div>Draftkings Tiers</a></li>
+														<li><a href="/lineup-rewind/draftkings_showdown/NHL/2019-03-29"><div class="site-icon draftkings_showdown"></div>Draftkings Showdown</a></li>
+														<li><a href="/lineup-rewind/fanduel/NHL/2019-03-29"><div class="site-icon fanduel"></div>Fanduel</a></li>
+														<li><a href="/lineup-rewind/fanduel_single/NHL/2019-03-29"><div class="site-icon fanduel_single"></div>Fanduel Single Game</a></li>
+														<li><a href="/lineup-rewind/yahoo/NHL/2019-03-29"><div class="site-icon yahoo"></div>Yahoo</a></li>
+															 
+						</ul>
+
+												<li><a href="/articles/category/nhl/">FC Insights NHL Content</a></li>
+						
+
+					</ul>
+										<li><a class="off-canvas-submenu-call">CFB</a></li>
+					<ul class="off-canvas-submenu">
+
+						<li><a class="off-canvas-submenu-call">Lineup Cruncher Optimizer</a></li>
+						<ul class="off-canvas-submenu">
+														<li><a href="/lineup-cruncher/draftkings/CFB/2018-week-19"><div class="site-icon draftkings"></div>Draftkings</a></li>
+														<li><a href="/lineup-cruncher/draftkings_showdown/CFB/2018-week-19"><div class="site-icon draftkings_showdown"></div>Draftkings Showdown</a></li>
+														<li><a href="/lineup-cruncher/fanduel/CFB/2018-week-19"><div class="site-icon fanduel"></div>Fanduel</a></li>
+														<li><a href="/lineup-cruncher/fanduel_single/CFB/2018-week-19"><div class="site-icon fanduel_single"></div>Fanduel Single Game</a></li>
+															
+						</ul>
+
+						<li><a class="off-canvas-submenu-call">Lineup Rewind - FREE</a></li>
+						<ul class="off-canvas-submenu">
+														<li><a href="/lineup-rewind/draftkings/CFB/2018-week-18"><div class="site-icon draftkings"></div>Draftkings</a></li>
+														<li><a href="/lineup-rewind/draftkings_showdown/CFB/2018-week-18"><div class="site-icon draftkings_showdown"></div>Draftkings Showdown</a></li>
+														<li><a href="/lineup-rewind/fanduel/CFB/2018-week-18"><div class="site-icon fanduel"></div>Fanduel</a></li>
+														<li><a href="/lineup-rewind/fanduel_single/CFB/2018-week-18"><div class="site-icon fanduel_single"></div>Fanduel Single Game</a></li>
+															 
+						</ul>
+
+						
+
+					</ul>
+										<li><a class="off-canvas-submenu-call">GOLF</a></li>
+					<ul class="off-canvas-submenu">
+
+						<li><a class="off-canvas-submenu-call">Lineup Cruncher Optimizer</a></li>
+						<ul class="off-canvas-submenu">
+														<li><a href="/lineup-cruncher/draftkings/PGA/2019-03-30"><div class="site-icon draftkings"></div>Draftkings PGA</a></li>
+														<li><a href="/lineup-cruncher/fanduel/PGA/2019-03-30"><div class="site-icon fanduel"></div>Fanduel PGA</a></li>
+														<li><a href="/lineup-cruncher/fanduel_qp/PGA/2019-03-30"><div class="site-icon fanduel_qp"></div>Fanduel QuickPick PGA</a></li>
+														<li><a href="/lineup-cruncher/fantasydraft/PGA/2019-03-30"><div class="site-icon fantasydraft"></div>FantasyDraft PGA</a></li>
+														<li><a href="/lineup-cruncher/yahoo/PGA/2019-03-30"><div class="site-icon yahoo"></div>Yahoo PGA</a></li>
+																						<li><a href="/lineup-cruncher/draftkings/EURO/2019-03-27"><div class="site-icon draftkings"></div>Draftkings EURO</a></li>
+								
+						</ul>
+
+						<li><a class="off-canvas-submenu-call">Lineup Rewind - FREE</a></li>
+						<ul class="off-canvas-submenu">
+														<li><a href="/lineup-rewind/draftkings/PGA/2019-03-29"><div class="site-icon draftkings"></div>Draftkings PGA</a></li>
+														<li><a href="/lineup-rewind/fanduel/PGA/2019-03-29"><div class="site-icon fanduel"></div>Fanduel PGA</a></li>
+														<li><a href="/lineup-rewind/fanduel_qp/PGA/2019-03-29"><div class="site-icon fanduel_qp"></div>Fanduel QuickPick PGA</a></li>
+														<li><a href="/lineup-rewind/fantasydraft/PGA/2019-03-29"><div class="site-icon fantasydraft"></div>FantasyDraft PGA</a></li>
+														<li><a href="/lineup-rewind/yahoo/PGA/2019-03-29"><div class="site-icon yahoo"></div>Yahoo PGA</a></li>
+																						<li><a href="/lineup-rewind/draftkings/EURO/2019-03-20"><div class="site-icon draftkings"></div>Draftkings EURO</a></li>
+								 
+						</ul>
+
+												<li><a href="/articles/category/golf/">FC Insights GOLF Content</a></li>
+						
+
+					</ul>
+										<li><a class="off-canvas-submenu-call">MMA</a></li>
+					<ul class="off-canvas-submenu">
+
+						<li><a class="off-canvas-submenu-call">Lineup Cruncher Optimizer</a></li>
+						<ul class="off-canvas-submenu">
+														<li><a href="/lineup-cruncher/draftkings/MMA/2019-03-30"><div class="site-icon draftkings"></div>Draftkings</a></li>
+															
+						</ul>
+
+						<li><a class="off-canvas-submenu-call">Lineup Rewind - FREE</a></li>
+						<ul class="off-canvas-submenu">
+														<li><a href="/lineup-rewind/draftkings/MMA/2019-03-23"><div class="site-icon draftkings"></div>Draftkings</a></li>
+															 
+						</ul>
+
+												<li><a href="/articles/category/mma/">FC Insights MMA Content</a></li>
+						
+
+					</ul>
+										<li><a class="off-canvas-submenu-call">CFL</a></li>
+					<ul class="off-canvas-submenu">
+
+						<li><a class="off-canvas-submenu-call">Lineup Cruncher Optimizer</a></li>
+						<ul class="off-canvas-submenu">
+														<li><a href="/lineup-cruncher/draftkings/CFL/2018-week-23"><div class="site-icon draftkings"></div>Draftkings</a></li>
+														<li><a href="/lineup-cruncher/draftkings_showdown/CFL/2018-week-23"><div class="site-icon draftkings_showdown"></div>Draftkings Showdown</a></li>
+															
+						</ul>
+
+						<li><a class="off-canvas-submenu-call">Lineup Rewind - FREE</a></li>
+						<ul class="off-canvas-submenu">
+														<li><a href="/lineup-rewind/draftkings/CFL/2018-week-22"><div class="site-icon draftkings"></div>Draftkings</a></li>
+														<li><a href="/lineup-rewind/draftkings_showdown/CFL/2018-week-22"><div class="site-icon draftkings_showdown"></div>Draftkings Showdown</a></li>
+															 
+						</ul>
+
+												<li><a href="/articles/category/cfl/">FC Insights CFL Content</a></li>
+						
+
+					</ul>
+										<li><a class="off-canvas-submenu-call">NAS</a></li>
+					<ul class="off-canvas-submenu">
+
+						<li><a class="off-canvas-submenu-call">Lineup Cruncher Optimizer</a></li>
+						<ul class="off-canvas-submenu">
+														<li><a href="/lineup-cruncher/draftkings/NAS/2019-03-29"><div class="site-icon draftkings"></div>Draftkings</a></li>
+														<li><a href="/lineup-cruncher/fanduel/NAS/2019-03-29"><div class="site-icon fanduel"></div>Fanduel</a></li>
+															
+						</ul>
+
+						<li><a class="off-canvas-submenu-call">Lineup Rewind - FREE</a></li>
+						<ul class="off-canvas-submenu">
+														<li><a href="/lineup-rewind/draftkings/NAS/2019-03-24"><div class="site-icon draftkings"></div>Draftkings</a></li>
+														<li><a href="/lineup-rewind/fanduel/NAS/2019-03-24"><div class="site-icon fanduel"></div>Fanduel</a></li>
+															 
+						</ul>
+
+												<li><a href="/articles/category/nas/">FC Insights NAS Content</a></li>
+						
+
+					</ul>
+										<li><a class="off-canvas-submenu-call">WNBA</a></li>
+					<ul class="off-canvas-submenu">
+
+						<li><a class="off-canvas-submenu-call">Lineup Cruncher Optimizer</a></li>
+						<ul class="off-canvas-submenu">
+														<li><a href="/lineup-cruncher/draftkings/WNBA/2018-09-16"><div class="site-icon draftkings"></div>Draftkings</a></li>
+														<li><a href="/lineup-cruncher/draftkings_showdown/WNBA/2018-09-16"><div class="site-icon draftkings_showdown"></div>Draftkings Showdown</a></li>
+														<li><a href="/lineup-cruncher/fanduel/WNBA/2018-09-16"><div class="site-icon fanduel"></div>Fanduel</a></li>
+														<li><a href="/lineup-cruncher/fanduel_single/WNBA/2018-09-16"><div class="site-icon fanduel_single"></div>Fanduel Single Game</a></li>
+															
+						</ul>
+
+						<li><a class="off-canvas-submenu-call">Lineup Rewind - FREE</a></li>
+						<ul class="off-canvas-submenu">
+														<li><a href="/lineup-rewind/draftkings/WNBA/2018-09-14"><div class="site-icon draftkings"></div>Draftkings</a></li>
+														<li><a href="/lineup-rewind/draftkings_showdown/WNBA/2018-09-14"><div class="site-icon draftkings_showdown"></div>Draftkings Showdown</a></li>
+														<li><a href="/lineup-rewind/fanduel/WNBA/2018-09-14"><div class="site-icon fanduel"></div>Fanduel</a></li>
+														<li><a href="/lineup-rewind/fanduel_single/WNBA/2018-09-14"><div class="site-icon fanduel_single"></div>Fanduel Single Game</a></li>
+															 
+						</ul>
+
+												<li><a href="/articles/category/wnba/">FC Insights WNBA Content</a></li>
+						
+
+					</ul>
+										
+					<li><label class="first">Other Links</label></li>
+					<li><a href="/articles/home/"><i class="fa fa-lightbulb-o" aria-hidden="true"></i> FC Insights Home</a></li>
+					<li><a href="/forum/"><i class="fa fa-comments" aria-hidden="true"></i> Forums</a></li>
+					<li><a href="/premium-signup"><i class="fa fa-trophy" aria-hidden="true"></i> Premium Access</a></li>
+
+							
+
+					<li><label class="first">Account</label></li>
+					<li><a href="/my-profile"><i class="fa fa-user" aria-hidden="true"></i> My Profile</a></li>
+					<li><a href="/logout"><i class="fa fa-sign-out" aria-hidden="true"></i> Log Out</a></li>
+
+					<li><label class="first">Help</label></li>
+					<li><a href="/help/faqs">FAQs</a></li>
+					<li><a href="/help/tutorials">Tutorials</a></li>
+					<li><a href="/help/about">About</a></li>
+					<li><a href="/help/contact">Contact Us</a></li>
+
+
+
+				</ul> <!-- class="off-canvas-list" -->
+			</nav>
+			<a class="exit-off-canvas"></a>
+		</div> <!-- class="inner-wrap" -->
+	</div> <!-- class="off-canvas-wrap" data-offcanvas -->
+</div> <!-- small-screen-nav-container show-for-small-only clearfix -->
+
+<div class="row navigation-container show-for-medium-up clearfix">
+	<header class="main-header">
+		<a href="/" class="logo logo-header">
+ 		<img src="/img/logo_white.svg" alt="FantasyCruncher">
+		</a>
+ 		<ul class="main-nav-links">
+
+					
+ 			<li onclick="return true;">
+ 				<a class="top-nav-link">NFL</a>
+ 				<div class="nav-mega-menu">
+
+ 					<div class="mega-menu-col">
+	 					<div class="mega-menu-section">
+	 						<span class="mega-menu-section-title">Lineup Cruncher Optimizer</span>
+	 						<div class="mega-menu-section-list">
+	 								 							<a href="/lineup-cruncher/draftkings/NFL/2018-week-22"><div class="site-icon draftkings"></div>Draftkings	 									 							</a>
+	 								 							<a href="/lineup-cruncher/draftkings_pickem/NFL/2018-week-22"><div class="site-icon draftkings_pickem"></div>Draftkings Tiers	 									 							</a>
+	 								 							<a href="/lineup-cruncher/draftkings_showdown/NFL/2018-week-22"><div class="site-icon draftkings_showdown"></div>Draftkings Showdown	 									 							</a>
+	 								 							<a href="/lineup-cruncher/fanduel/NFL/2018-week-22"><div class="site-icon fanduel"></div>Fanduel	 									 							</a>
+	 								 							<a href="/lineup-cruncher/fanduel_single/NFL/2018-week-22"><div class="site-icon fanduel_single"></div>Fanduel Single Game	 									 							</a>
+	 								 							<a href="/lineup-cruncher/fanduel_super/NFL/2018-week-22"><div class="site-icon fanduel_super"></div>Fanduel Super Flex	 									 							</a>
+	 								 							<a href="/lineup-cruncher/fantasydraft/NFL/2018-week-22"><div class="site-icon fantasydraft"></div>FantasyDraft	 									 							</a>
+	 								 							<a href="/lineup-cruncher/yahoo/NFL/2018-week-22"><div class="site-icon yahoo"></div>Yahoo	 									 							</a>
+	 							
+	 								 							
+	 						</div>
+	 					</div>
+	 					<div class="mega-menu-section">
+	 						<span class="mega-menu-section-title">Lineup Rewind - FREE</span>
+	 						<div class="mega-menu-section-list">
+	 								 							<a href="/lineup-rewind/draftkings/NFL/2018-week-22"><div class="site-icon draftkings"></div>Draftkings	 									 							</a>
+	 								 							<a href="/lineup-rewind/draftkings_pickem/NFL/2018-week-22"><div class="site-icon draftkings_pickem"></div>Draftkings Tiers	 									 							</a>
+	 								 							<a href="/lineup-rewind/draftkings_showdown/NFL/2018-week-22"><div class="site-icon draftkings_showdown"></div>Draftkings Showdown	 									 							</a>
+	 								 							<a href="/lineup-rewind/fanduel/NFL/2018-week-22"><div class="site-icon fanduel"></div>Fanduel	 									 							</a>
+	 								 							<a href="/lineup-rewind/fanduel_single/NFL/2018-week-22"><div class="site-icon fanduel_single"></div>Fanduel Single Game	 									 							</a>
+	 								 							<a href="/lineup-rewind/fanduel_super/NFL/2018-week-22"><div class="site-icon fanduel_super"></div>Fanduel Super Flex	 									 							</a>
+	 								 							<a href="/lineup-rewind/fantasydraft/NFL/2018-week-22"><div class="site-icon fantasydraft"></div>FantasyDraft	 									 							</a>
+	 								 							<a href="/lineup-rewind/yahoo/NFL/2018-week-22"><div class="site-icon yahoo"></div>Yahoo	 									 							</a>
+	 							
+	 								 
+	 						</div>
+	 					</div>
+ 					</div>
+
+ 					<!-- <div class="mega-menu-col">
+ 						<div class="mega-menu-section">
+	 						<span class="mega-menu-section-title">Other Tools</span>
+	 						<div class="mega-menu-section-list">
+		 						<a href=""><div class="site-icon draftkings"></div>Draftkings Contest Data</a>
+		 						<a href=""><div class="site-icon fanduel"></div>Fanduel Contest Data</a>
+	 						</div>
+ 						</div>
+ 					</div> -->
+
+ 					 					<div class="mega-menu-insights-container">
+ 						<span class="mega-menu-section-title">FC Insights Recent NFL Articles</span>
+ 						<div class="insights-image-links clearfix">
+	 														<a class="mega-menu-insights-article-link" href="/articles/2019/01/10/fanduel-nfl-dfs-cheat-sheet-for-divisional-round-2018-19/">
+									<img src="https://www.fantasycruncher.com/image.php?image=/articles/wp-content/uploads/2017/09/NFL-CHEATSHEET-FANDUEL.jpg&amp;width=245">
+									<span class="mega-menu-insights-article-date">Jan 10th</span>
+								</a>
+	 														<a class="mega-menu-insights-article-link" href="/articles/2019/01/10/draftkings-nfl-dfs-cheat-sheet-for-divisional-round-2018-19/">
+									<img src="https://www.fantasycruncher.com/image.php?image=/articles/wp-content/uploads/2017/10/NFL-CHEATSHEET-DRAFTKINGS-1-1-1-1-1-1.jpg&amp;width=245">
+									<span class="mega-menu-insights-article-date">Jan 10th</span>
+								</a>
+	 														<a class="mega-menu-insights-article-link" href="/articles/2019/01/05/fanduel-nfl-dfs-cheat-sheet-for-wildcard-round-2018-19/">
+									<img src="https://www.fantasycruncher.com/image.php?image=/articles/wp-content/uploads/2017/09/NFL-CHEATSHEET-FANDUEL.jpg&amp;width=245">
+									<span class="mega-menu-insights-article-date">Jan 5th</span>
+								</a>
+	 														<a class="mega-menu-insights-article-link" href="/articles/2019/01/04/draftkings-nfl-dfs-cheat-sheet-for-wildcard-round-2018/">
+									<img src="https://www.fantasycruncher.com/image.php?image=/articles/wp-content/uploads/2017/10/NFL-CHEATSHEET-DRAFTKINGS-1-1-1-1-1-1.jpg&amp;width=245">
+									<span class="mega-menu-insights-article-date">Jan 4th</span>
+								</a>
+	 							 					</div>
+						<span><a class="mega-menu-category-link" href="/articles/category/nfl/">All NFL Content</a></span>
+ 					</div>
+ 					
+ 				</div>
+ 			</li>
+
+					
+ 			<li onclick="return true;">
+ 				<a class="top-nav-link">NBA</a>
+ 				<div class="nav-mega-menu">
+
+ 					<div class="mega-menu-col">
+	 					<div class="mega-menu-section">
+	 						<span class="mega-menu-section-title">Lineup Cruncher Optimizer</span>
+	 						<div class="mega-menu-section-list">
+	 								 							<a href="/lineup-cruncher/draftkings/NBA/2019-03-30"><div class="site-icon draftkings"></div>Draftkings	 									 							</a>
+	 								 							<a href="/lineup-cruncher/draftkings_pickem/NBA/2019-03-30"><div class="site-icon draftkings_pickem"></div>Draftkings Tiers	 									 							</a>
+	 								 							<a href="/lineup-cruncher/draftkings_showdown/NBA/2019-03-30"><div class="site-icon draftkings_showdown"></div>Draftkings Showdown	 									 							</a>
+	 								 							<a href="/lineup-cruncher/fanduel/NBA/2019-03-30"><div class="site-icon fanduel"></div>Fanduel	 									 							</a>
+	 								 							<a href="/lineup-cruncher/fanduel_single/NBA/2019-03-30"><div class="site-icon fanduel_single"></div>Fanduel Single Game	 									 							</a>
+	 								 							<a href="/lineup-cruncher/fantasydraft/NBA/2019-03-30"><div class="site-icon fantasydraft"></div>FantasyDraft	 									 							</a>
+	 								 							<a href="/lineup-cruncher/yahoo/NBA/2019-03-30"><div class="site-icon yahoo"></div>Yahoo	 									 							</a>
+	 							
+	 								 							
+	 						</div>
+	 					</div>
+	 					<div class="mega-menu-section">
+	 						<span class="mega-menu-section-title">Lineup Rewind - FREE</span>
+	 						<div class="mega-menu-section-list">
+	 								 							<a href="/lineup-rewind/draftkings/NBA/2019-03-29"><div class="site-icon draftkings"></div>Draftkings	 									 							</a>
+	 								 							<a href="/lineup-rewind/draftkings_pickem/NBA/2019-03-29"><div class="site-icon draftkings_pickem"></div>Draftkings Tiers	 									 							</a>
+	 								 							<a href="/lineup-rewind/draftkings_showdown/NBA/2019-03-29"><div class="site-icon draftkings_showdown"></div>Draftkings Showdown	 									 							</a>
+	 								 							<a href="/lineup-rewind/fanduel/NBA/2019-03-29"><div class="site-icon fanduel"></div>Fanduel	 									 							</a>
+	 								 							<a href="/lineup-rewind/fanduel_single/NBA/2019-03-29"><div class="site-icon fanduel_single"></div>Fanduel Single Game	 									 							</a>
+	 								 							<a href="/lineup-rewind/fantasydraft/NBA/2019-03-29"><div class="site-icon fantasydraft"></div>FantasyDraft	 									 							</a>
+	 								 							<a href="/lineup-rewind/yahoo/NBA/2019-03-29"><div class="site-icon yahoo"></div>Yahoo	 									 							</a>
+	 							
+	 								 
+	 						</div>
+	 					</div>
+ 					</div>
+
+ 					<!-- <div class="mega-menu-col">
+ 						<div class="mega-menu-section">
+	 						<span class="mega-menu-section-title">Other Tools</span>
+	 						<div class="mega-menu-section-list">
+		 						<a href=""><div class="site-icon draftkings"></div>Draftkings Contest Data</a>
+		 						<a href=""><div class="site-icon fanduel"></div>Fanduel Contest Data</a>
+	 						</div>
+ 						</div>
+ 					</div> -->
+
+ 					 					<div class="mega-menu-insights-container">
+ 						<span class="mega-menu-section-title">FC Insights Recent NBA Articles</span>
+ 						<div class="insights-image-links clearfix">
+	 														<a class="mega-menu-insights-article-link" href="/articles/2019/03/30/the-primer-nba-dfs-expert-analysis-march-30-2019/">
+									<img src="https://www.fantasycruncher.com/image.php?image=/articles/wp-content/uploads/2018/10/The-Primer-NBA-DFS-Fantasy-Cruncher.jpg&amp;width=245">
+									<span class="mega-menu-insights-article-date">Mar 30th</span>
+								</a>
+	 														<a class="mega-menu-insights-article-link" href="/articles/2019/03/30/the-fc-3-daily-nba-dfs-free-picks-march-30-2019/">
+									<img src="https://www.fantasycruncher.com/image.php?image=/articles/wp-content/uploads/2018/10/The-FC-3-NBA-DFS-Fantasy-Cruncher.jpg&amp;width=245">
+									<span class="mega-menu-insights-article-date">Mar 30th</span>
+								</a>
+	 														<a class="mega-menu-insights-article-link" href="/articles/2019/03/30/the-value-aisle-nba-dfs-value-plays-for-yahoo-march-30-2019/">
+									<img src="https://www.fantasycruncher.com/image.php?image=/articles/wp-content/uploads/2018/10/The-FC-Value-Aisle-NBA-DFS-Fantasy-Cruncher.jpg&amp;width=245">
+									<span class="mega-menu-insights-article-date">Mar 30th</span>
+								</a>
+	 														<a class="mega-menu-insights-article-link" href="/articles/2019/03/30/fanduel-nba-dfs-daily-cheat-sheet-march-30-2019/">
+									<img src="https://www.fantasycruncher.com/image.php?image=/articles/wp-content/uploads/2018/10/FC-NBA-DFS-FanDuel-Cheat-Sheet-Fantasy-Cruncher.jpg&amp;width=245">
+									<span class="mega-menu-insights-article-date">Mar 30th</span>
+								</a>
+	 							 					</div>
+						<span><a class="mega-menu-category-link" href="/articles/category/nba/">All NBA Content</a></span>
+ 					</div>
+ 					
+ 				</div>
+ 			</li>
+
+					
+ 			<li onclick="return true;">
+ 				<a class="top-nav-link">MLB</a>
+ 				<div class="nav-mega-menu">
+
+ 					<div class="mega-menu-col">
+	 					<div class="mega-menu-section">
+	 						<span class="mega-menu-section-title">Lineup Cruncher Optimizer</span>
+	 						<div class="mega-menu-section-list">
+	 								 							<a href="/lineup-cruncher/draftkings/MLB/2019-03-30"><div class="site-icon draftkings"></div>Draftkings	 									 							</a>
+	 								 							<a href="/lineup-cruncher/draftkings_pickem/MLB/2019-03-30"><div class="site-icon draftkings_pickem"></div>Draftkings Tiers	 									 							</a>
+	 								 							<a href="/lineup-cruncher/draftkings_showdown/MLB/2019-03-30"><div class="site-icon draftkings_showdown"></div>Draftkings Showdown	 									 							</a>
+	 								 							<a href="/lineup-cruncher/fanduel/MLB/2019-03-30"><div class="site-icon fanduel"></div>Fanduel	 									 							</a>
+	 								 							<a href="/lineup-cruncher/fanduel_single/MLB/2019-03-30"><div class="site-icon fanduel_single"></div>Fanduel Single Game	 									 							</a>
+	 								 							<a href="/lineup-cruncher/fantasydraft/MLB/2019-03-30"><div class="site-icon fantasydraft"></div>FantasyDraft	 									 							</a>
+	 								 							<a href="/lineup-cruncher/yahoo/MLB/2019-03-30"><div class="site-icon yahoo"></div>Yahoo	 									 							</a>
+	 							
+	 								 							
+	 						</div>
+	 					</div>
+	 					<div class="mega-menu-section">
+	 						<span class="mega-menu-section-title">Lineup Rewind - FREE</span>
+	 						<div class="mega-menu-section-list">
+	 								 							<a href="/lineup-rewind/draftkings/MLB/2019-03-29"><div class="site-icon draftkings"></div>Draftkings	 									 							</a>
+	 								 							<a href="/lineup-rewind/draftkings_pickem/MLB/2019-03-29"><div class="site-icon draftkings_pickem"></div>Draftkings Tiers	 									 							</a>
+	 								 							<a href="/lineup-rewind/draftkings_showdown/MLB/2019-03-29"><div class="site-icon draftkings_showdown"></div>Draftkings Showdown	 									 							</a>
+	 								 							<a href="/lineup-rewind/fanduel/MLB/2019-03-29"><div class="site-icon fanduel"></div>Fanduel	 									 							</a>
+	 								 							<a href="/lineup-rewind/fanduel_single/MLB/2019-03-29"><div class="site-icon fanduel_single"></div>Fanduel Single Game	 									 							</a>
+	 								 							<a href="/lineup-rewind/fantasydraft/MLB/2019-03-29"><div class="site-icon fantasydraft"></div>FantasyDraft	 									 							</a>
+	 								 							<a href="/lineup-rewind/yahoo/MLB/2019-03-29"><div class="site-icon yahoo"></div>Yahoo	 									 							</a>
+	 							
+	 								 
+	 						</div>
+	 					</div>
+ 					</div>
+
+ 					<!-- <div class="mega-menu-col">
+ 						<div class="mega-menu-section">
+	 						<span class="mega-menu-section-title">Other Tools</span>
+	 						<div class="mega-menu-section-list">
+		 						<a href=""><div class="site-icon draftkings"></div>Draftkings Contest Data</a>
+		 						<a href=""><div class="site-icon fanduel"></div>Fanduel Contest Data</a>
+	 						</div>
+ 						</div>
+ 					</div> -->
+
+ 					 					<div class="mega-menu-insights-container">
+ 						<span class="mega-menu-section-title">FC Insights Recent MLB Articles</span>
+ 						<div class="insights-image-links clearfix">
+	 														<a class="mega-menu-insights-article-link" href="/articles/2019/03/30/march-30-2019-the-daily-mlb-dfs-pitching-rundown/">
+									<img src="https://www.fantasycruncher.com/image.php?image=/articles/wp-content/uploads/2017/04/MLB-DFS-Pitching-Rundown-Fantasy-Cruncher-FanDuel-DraftKings.jpg&amp;width=245">
+									<span class="mega-menu-insights-article-date">Mar 30th</span>
+								</a>
+	 														<a class="mega-menu-insights-article-link" href="/articles/2019/03/30/value-targets-mlb-dfs-for-march-30-2019/">
+									<img src="https://www.fantasycruncher.com/image.php?image=/articles/wp-content/uploads/2019/03/MLB-DFS-Value-Targets-2019-FC.jpg&amp;width=245">
+									<span class="mega-menu-insights-article-date">Mar 30th</span>
+								</a>
+	 														<a class="mega-menu-insights-article-link" href="/articles/2019/03/30/the-daily-three-pack-yahoo-mlb-dfs-picks-march-30-2019/">
+									<img src="https://www.fantasycruncher.com/image.php?image=/articles/wp-content/uploads/2019/03/FC-Daily-3-Pack-Yahoo-MLB-DFS.jpg&amp;width=245">
+									<span class="mega-menu-insights-article-date">Mar 30th</span>
+								</a>
+	 														<a class="mega-menu-insights-article-link" href="/articles/2019/03/30/the-daily-three-pack-fanduel-mlb-dfs-picks-march-30-2019/">
+									<img src="https://www.fantasycruncher.com/image.php?image=/articles/wp-content/uploads/2019/03/FC-Daily-3-Pack-FanDuel-MLB-DFS.jpg&amp;width=245">
+									<span class="mega-menu-insights-article-date">Mar 30th</span>
+								</a>
+	 							 					</div>
+						<span><a class="mega-menu-category-link" href="/articles/category/mlb/">All MLB Content</a></span>
+ 					</div>
+ 					
+ 				</div>
+ 			</li>
+
+					
+ 			<li onclick="return true;">
+ 				<a class="top-nav-link">NHL</a>
+ 				<div class="nav-mega-menu">
+
+ 					<div class="mega-menu-col">
+	 					<div class="mega-menu-section">
+	 						<span class="mega-menu-section-title">Lineup Cruncher Optimizer</span>
+	 						<div class="mega-menu-section-list">
+	 								 							<a href="/lineup-cruncher/draftkings/NHL/2019-03-30"><div class="site-icon draftkings"></div>Draftkings	 									 							</a>
+	 								 							<a href="/lineup-cruncher/draftkings_pickem/NHL/2019-03-30"><div class="site-icon draftkings_pickem"></div>Draftkings Tiers	 									 							</a>
+	 								 							<a href="/lineup-cruncher/draftkings_showdown/NHL/2019-03-30"><div class="site-icon draftkings_showdown"></div>Draftkings Showdown	 									 							</a>
+	 								 							<a href="/lineup-cruncher/fanduel/NHL/2019-03-30"><div class="site-icon fanduel"></div>Fanduel	 									 							</a>
+	 								 							<a href="/lineup-cruncher/fanduel_single/NHL/2019-03-30"><div class="site-icon fanduel_single"></div>Fanduel Single Game	 									 							</a>
+	 								 							<a href="/lineup-cruncher/yahoo/NHL/2019-03-30"><div class="site-icon yahoo"></div>Yahoo	 									 							</a>
+	 							
+	 								 							
+	 						</div>
+	 					</div>
+	 					<div class="mega-menu-section">
+	 						<span class="mega-menu-section-title">Lineup Rewind - FREE</span>
+	 						<div class="mega-menu-section-list">
+	 								 							<a href="/lineup-rewind/draftkings/NHL/2019-03-29"><div class="site-icon draftkings"></div>Draftkings	 									 							</a>
+	 								 							<a href="/lineup-rewind/draftkings_pickem/NHL/2019-03-29"><div class="site-icon draftkings_pickem"></div>Draftkings Tiers	 									 							</a>
+	 								 							<a href="/lineup-rewind/draftkings_showdown/NHL/2019-03-29"><div class="site-icon draftkings_showdown"></div>Draftkings Showdown	 									 							</a>
+	 								 							<a href="/lineup-rewind/fanduel/NHL/2019-03-29"><div class="site-icon fanduel"></div>Fanduel	 									 							</a>
+	 								 							<a href="/lineup-rewind/fanduel_single/NHL/2019-03-29"><div class="site-icon fanduel_single"></div>Fanduel Single Game	 									 							</a>
+	 								 							<a href="/lineup-rewind/yahoo/NHL/2019-03-29"><div class="site-icon yahoo"></div>Yahoo	 									 							</a>
+	 							
+	 								 
+	 						</div>
+	 					</div>
+ 					</div>
+
+ 					<!-- <div class="mega-menu-col">
+ 						<div class="mega-menu-section">
+	 						<span class="mega-menu-section-title">Other Tools</span>
+	 						<div class="mega-menu-section-list">
+		 						<a href=""><div class="site-icon draftkings"></div>Draftkings Contest Data</a>
+		 						<a href=""><div class="site-icon fanduel"></div>Fanduel Contest Data</a>
+	 						</div>
+ 						</div>
+ 					</div> -->
+
+ 					 					<div class="mega-menu-insights-container">
+ 						<span class="mega-menu-section-title">FC Insights Recent NHL Articles</span>
+ 						<div class="insights-image-links clearfix">
+	 														<a class="mega-menu-insights-article-link" href="/articles/2019/03/29/nhl-dfs-draftkings-cheat-sheet-friday-march-29-2019/">
+									<img src="https://www.fantasycruncher.com/image.php?image=/articles/wp-content/uploads/2018/03/NHL-CheatSheet-Draftkings-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-2-1-1-3-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1.jpg&amp;width=245">
+									<span class="mega-menu-insights-article-date">Mar 29th</span>
+								</a>
+	 														<a class="mega-menu-insights-article-link" href="/articles/2019/03/28/nhl-dfs-draftkings-cheat-sheet-thursday-march-28-2019/">
+									<img src="https://www.fantasycruncher.com/image.php?image=/articles/wp-content/uploads/2018/03/NHL-CheatSheet-Draftkings-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-2-1-1-3-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1.jpg&amp;width=245">
+									<span class="mega-menu-insights-article-date">Mar 28th</span>
+								</a>
+	 														<a class="mega-menu-insights-article-link" href="/articles/2019/03/27/nhl-dfs-draftkings-cheat-sheet-wednesday-march-27-2019/">
+									<img src="https://www.fantasycruncher.com/image.php?image=/articles/wp-content/uploads/2018/03/NHL-CheatSheet-Draftkings-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-2-1-1-3-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1.jpg&amp;width=245">
+									<span class="mega-menu-insights-article-date">Mar 27th</span>
+								</a>
+	 														<a class="mega-menu-insights-article-link" href="/articles/2019/03/26/nhl-dfs-draftkings-cheat-sheet-tuesday-march-26-2019/">
+									<img src="https://www.fantasycruncher.com/image.php?image=/articles/wp-content/uploads/2018/03/NHL-CheatSheet-Draftkings-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-2-1-1-3-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1.jpg&amp;width=245">
+									<span class="mega-menu-insights-article-date">Mar 26th</span>
+								</a>
+	 							 					</div>
+						<span><a class="mega-menu-category-link" href="/articles/category/nhl/">All NHL Content</a></span>
+ 					</div>
+ 					
+ 				</div>
+ 			</li>
+
+					
+ 			<li onclick="return true;">
+ 				<a class="top-nav-link">CFB<span class="new-tag">beta</span></a>
+ 				<div class="nav-mega-menu">
+
+ 					<div class="mega-menu-col">
+	 					<div class="mega-menu-section">
+	 						<span class="mega-menu-section-title">Lineup Cruncher Optimizer</span>
+	 						<div class="mega-menu-section-list">
+	 								 							<a href="/lineup-cruncher/draftkings/CFB/2018-week-19"><div class="site-icon draftkings"></div>Draftkings	 									 							</a>
+	 								 							<a href="/lineup-cruncher/draftkings_showdown/CFB/2018-week-19"><div class="site-icon draftkings_showdown"></div>Draftkings Showdown	 									 							</a>
+	 								 							<a href="/lineup-cruncher/fanduel/CFB/2018-week-19"><div class="site-icon fanduel"></div>Fanduel	 									 							</a>
+	 								 							<a href="/lineup-cruncher/fanduel_single/CFB/2018-week-19"><div class="site-icon fanduel_single"></div>Fanduel Single Game	 									 							</a>
+	 							
+	 								 							
+	 						</div>
+	 					</div>
+	 					<div class="mega-menu-section">
+	 						<span class="mega-menu-section-title">Lineup Rewind - FREE</span>
+	 						<div class="mega-menu-section-list">
+	 								 							<a href="/lineup-rewind/draftkings/CFB/2018-week-18"><div class="site-icon draftkings"></div>Draftkings	 									 							</a>
+	 								 							<a href="/lineup-rewind/draftkings_showdown/CFB/2018-week-18"><div class="site-icon draftkings_showdown"></div>Draftkings Showdown	 									 							</a>
+	 								 							<a href="/lineup-rewind/fanduel/CFB/2018-week-18"><div class="site-icon fanduel"></div>Fanduel	 									 							</a>
+	 								 							<a href="/lineup-rewind/fanduel_single/CFB/2018-week-18"><div class="site-icon fanduel_single"></div>Fanduel Single Game	 									 							</a>
+	 							
+	 								 
+	 						</div>
+	 					</div>
+ 					</div>
+
+ 					<!-- <div class="mega-menu-col">
+ 						<div class="mega-menu-section">
+	 						<span class="mega-menu-section-title">Other Tools</span>
+	 						<div class="mega-menu-section-list">
+		 						<a href=""><div class="site-icon draftkings"></div>Draftkings Contest Data</a>
+		 						<a href=""><div class="site-icon fanduel"></div>Fanduel Contest Data</a>
+	 						</div>
+ 						</div>
+ 					</div> -->
+
+ 					
+ 				</div>
+ 			</li>
+
+					
+ 			<li onclick="return true;">
+ 				<a class="top-nav-link">GOLF</a>
+ 				<div class="nav-mega-menu">
+
+ 					<div class="mega-menu-col">
+	 					<div class="mega-menu-section">
+	 						<span class="mega-menu-section-title">Lineup Cruncher Optimizer</span>
+	 						<div class="mega-menu-section-list">
+	 								 							<a href="/lineup-cruncher/draftkings/PGA/2019-03-30"><div class="site-icon draftkings"></div>Draftkings PGA	 									 							</a>
+	 								 							<a href="/lineup-cruncher/fanduel/PGA/2019-03-30"><div class="site-icon fanduel"></div>Fanduel PGA	 									 							</a>
+	 								 							<a href="/lineup-cruncher/fanduel_qp/PGA/2019-03-30"><div class="site-icon fanduel_qp"></div>Fanduel QuickPick PGA	 								<span class="new-tag">new</span>	 							</a>
+	 								 							<a href="/lineup-cruncher/fantasydraft/PGA/2019-03-30"><div class="site-icon fantasydraft"></div>FantasyDraft PGA	 									 							</a>
+	 								 							<a href="/lineup-cruncher/yahoo/PGA/2019-03-30"><div class="site-icon yahoo"></div>Yahoo PGA	 								<span class="new-tag">new</span>	 							</a>
+	 							
+	 								 								<a href="/lineup-cruncher/draftkings/EURO/2019-03-27"><div class="site-icon draftkings"></div>Draftkings EURO</a>
+	 								 							
+	 						</div>
+	 					</div>
+	 					<div class="mega-menu-section">
+	 						<span class="mega-menu-section-title">Lineup Rewind - FREE</span>
+	 						<div class="mega-menu-section-list">
+	 								 							<a href="/lineup-rewind/draftkings/PGA/2019-03-29"><div class="site-icon draftkings"></div>Draftkings PGA	 									 							</a>
+	 								 							<a href="/lineup-rewind/fanduel/PGA/2019-03-29"><div class="site-icon fanduel"></div>Fanduel PGA	 									 							</a>
+	 								 							<a href="/lineup-rewind/fanduel_qp/PGA/2019-03-29"><div class="site-icon fanduel_qp"></div>Fanduel QuickPick PGA	 								<span class="new-tag">new</span>	 							</a>
+	 								 							<a href="/lineup-rewind/fantasydraft/PGA/2019-03-29"><div class="site-icon fantasydraft"></div>FantasyDraft PGA	 									 							</a>
+	 								 							<a href="/lineup-rewind/yahoo/PGA/2019-03-29"><div class="site-icon yahoo"></div>Yahoo PGA	 								<span class="new-tag">new</span>	 							</a>
+	 							
+	 								 								<a href="/lineup-rewind/draftkings/EURO/2019-03-20"><div class="site-icon draftkings"></div>Draftkings EURO</a>
+	 								 
+	 						</div>
+	 					</div>
+ 					</div>
+
+ 					<!-- <div class="mega-menu-col">
+ 						<div class="mega-menu-section">
+	 						<span class="mega-menu-section-title">Other Tools</span>
+	 						<div class="mega-menu-section-list">
+		 						<a href=""><div class="site-icon draftkings"></div>Draftkings Contest Data</a>
+		 						<a href=""><div class="site-icon fanduel"></div>Fanduel Contest Data</a>
+	 						</div>
+ 						</div>
+ 					</div> -->
+
+ 					 					<div class="mega-menu-insights-container">
+ 						<span class="mega-menu-section-title">FC Insights Recent GOLF Articles</span>
+ 						<div class="insights-image-links clearfix">
+	 														<a class="mega-menu-insights-article-link" href="/articles/2019/03/26/wgc-dell-match-play-championship-the-primer-pga-dfs-analysis/">
+									<img src="https://www.fantasycruncher.com/image.php?image=/articles/wp-content/uploads/2019/03/PGA-DFS-The-Primer-Golf-FC-1-1.jpg&amp;width=245">
+									<span class="mega-menu-insights-article-date">Mar 26th</span>
+								</a>
+	 														<a class="mega-menu-insights-article-link" href="/articles/2019/03/26/wgc-world-match-play-championship-draftkings-pga-dfs-daily-cheat-sheet/">
+									<img src="https://www.fantasycruncher.com/image.php?image=/articles/wp-content/uploads/2018/08/PGA-DFS-Cheat-Sheet-Golf-FC.jpg&amp;width=245">
+									<span class="mega-menu-insights-article-date">Mar 26th</span>
+								</a>
+	 														<a class="mega-menu-insights-article-link" href="/articles/2019/03/20/valspar-championship-draftkings-pga-dfs-daily-cheat-sheet/">
+									<img src="https://www.fantasycruncher.com/image.php?image=/articles/wp-content/uploads/2018/08/PGA-DFS-Cheat-Sheet-Golf-FC.jpg&amp;width=245">
+									<span class="mega-menu-insights-article-date">Mar 20th</span>
+								</a>
+	 														<a class="mega-menu-insights-article-link" href="/articles/2019/03/13/the-players-draftkings-pga-dfs-daily-cheat-sheet/">
+									<img src="https://www.fantasycruncher.com/image.php?image=/articles/wp-content/uploads/2018/08/PGA-DFS-Cheat-Sheet-Golf-FC.jpg&amp;width=245">
+									<span class="mega-menu-insights-article-date">Mar 13th</span>
+								</a>
+	 							 					</div>
+						<span><a class="mega-menu-category-link" href="/articles/category/golf/">All GOLF Content</a></span>
+ 					</div>
+ 					
+ 				</div>
+ 			</li>
+
+					
+ 			<li onclick="return true;">
+ 				<a class="top-nav-link">MMA</a>
+ 				<div class="nav-mega-menu">
+
+ 					<div class="mega-menu-col">
+	 					<div class="mega-menu-section">
+	 						<span class="mega-menu-section-title">Lineup Cruncher Optimizer</span>
+	 						<div class="mega-menu-section-list">
+	 								 							<a href="/lineup-cruncher/draftkings/MMA/2019-03-30"><div class="site-icon draftkings"></div>Draftkings	 									 							</a>
+	 							
+	 								 							
+	 						</div>
+	 					</div>
+	 					<div class="mega-menu-section">
+	 						<span class="mega-menu-section-title">Lineup Rewind - FREE</span>
+	 						<div class="mega-menu-section-list">
+	 								 							<a href="/lineup-rewind/draftkings/MMA/2019-03-23"><div class="site-icon draftkings"></div>Draftkings	 									 							</a>
+	 							
+	 								 
+	 						</div>
+	 					</div>
+ 					</div>
+
+ 					<!-- <div class="mega-menu-col">
+ 						<div class="mega-menu-section">
+	 						<span class="mega-menu-section-title">Other Tools</span>
+	 						<div class="mega-menu-section-list">
+		 						<a href=""><div class="site-icon draftkings"></div>Draftkings Contest Data</a>
+		 						<a href=""><div class="site-icon fanduel"></div>Fanduel Contest Data</a>
+	 						</div>
+ 						</div>
+ 					</div> -->
+
+ 					 					<div class="mega-menu-insights-container">
+ 						<span class="mega-menu-section-title">FC Insights Recent MMA Articles</span>
+ 						<div class="insights-image-links clearfix">
+	 														<a class="mega-menu-insights-article-link" href="/articles/2019/03/30/ufc-on-espn-2-march-30-2019/">
+									<img src="https://www.fantasycruncher.com/image.php?image=/articles/wp-content/uploads/2018/11/MMA-FC-DraftKings-DFS.jpg&amp;width=245">
+									<span class="mega-menu-insights-article-date">Mar 30th</span>
+								</a>
+	 														<a class="mega-menu-insights-article-link" href="/articles/2019/03/22/ufc-fight-night-148-march-23-2019/">
+									<img src="https://www.fantasycruncher.com/image.php?image=/articles/wp-content/uploads/2018/11/MMA-FC-DraftKings-DFS.jpg&amp;width=245">
+									<span class="mega-menu-insights-article-date">Mar 22nd</span>
+								</a>
+	 														<a class="mega-menu-insights-article-link" href="/articles/2019/03/15/ufc-fight-night-147-march-16-2019/">
+									<img src="https://www.fantasycruncher.com/image.php?image=/articles/wp-content/uploads/2018/11/MMA-FC-DraftKings-DFS.jpg&amp;width=245">
+									<span class="mega-menu-insights-article-date">Mar 15th</span>
+								</a>
+	 														<a class="mega-menu-insights-article-link" href="/articles/2019/03/08/ufc-fight-night-146-march-9-2019/">
+									<img src="https://www.fantasycruncher.com/image.php?image=/articles/wp-content/uploads/2018/11/MMA-FC-DraftKings-DFS.jpg&amp;width=245">
+									<span class="mega-menu-insights-article-date">Mar 8th</span>
+								</a>
+	 							 					</div>
+						<span><a class="mega-menu-category-link" href="/articles/category/mma/">All MMA Content</a></span>
+ 					</div>
+ 					
+ 				</div>
+ 			</li>
+
+					
+ 			<li onclick="return true;">
+ 				<a class="top-nav-link">CFL</a>
+ 				<div class="nav-mega-menu">
+
+ 					<div class="mega-menu-col">
+	 					<div class="mega-menu-section">
+	 						<span class="mega-menu-section-title">Lineup Cruncher Optimizer</span>
+	 						<div class="mega-menu-section-list">
+	 								 							<a href="/lineup-cruncher/draftkings/CFL/2018-week-23"><div class="site-icon draftkings"></div>Draftkings	 									 							</a>
+	 								 							<a href="/lineup-cruncher/draftkings_showdown/CFL/2018-week-23"><div class="site-icon draftkings_showdown"></div>Draftkings Showdown	 									 							</a>
+	 							
+	 								 							
+	 						</div>
+	 					</div>
+	 					<div class="mega-menu-section">
+	 						<span class="mega-menu-section-title">Lineup Rewind - FREE</span>
+	 						<div class="mega-menu-section-list">
+	 								 							<a href="/lineup-rewind/draftkings/CFL/2018-week-22"><div class="site-icon draftkings"></div>Draftkings	 									 							</a>
+	 								 							<a href="/lineup-rewind/draftkings_showdown/CFL/2018-week-22"><div class="site-icon draftkings_showdown"></div>Draftkings Showdown	 									 							</a>
+	 							
+	 								 
+	 						</div>
+	 					</div>
+ 					</div>
+
+ 					<!-- <div class="mega-menu-col">
+ 						<div class="mega-menu-section">
+	 						<span class="mega-menu-section-title">Other Tools</span>
+	 						<div class="mega-menu-section-list">
+		 						<a href=""><div class="site-icon draftkings"></div>Draftkings Contest Data</a>
+		 						<a href=""><div class="site-icon fanduel"></div>Fanduel Contest Data</a>
+	 						</div>
+ 						</div>
+ 					</div> -->
+
+ 					 					<div class="mega-menu-insights-container">
+ 						<span class="mega-menu-section-title">FC Insights Recent CFL Articles</span>
+ 						<div class="insights-image-links clearfix">
+	 														<a class="mega-menu-insights-article-link" href="/articles/2018/11/02/cfl-cheat-sheet-cfl-dfs-plays-lineup-picks-for-draftkings-week-21-2018/">
+									<img src="https://www.fantasycruncher.com/image.php?image=/articles/wp-content/uploads/2018/11/fc-insight-cheatsheet-cfl-images-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1.jpg&amp;width=245">
+									<span class="mega-menu-insights-article-date">Nov 2nd</span>
+								</a>
+	 														<a class="mega-menu-insights-article-link" href="/articles/2018/11/02/cfl-cheat-sheet-cfl-dfs-plays-lineup-picks-for-draftkings-week-21-2018/">
+									<img src="https://www.fantasycruncher.com/image.php?image=/articles/wp-content/uploads/2018/11/fc-insight-cheatsheet-cfl-images-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1.jpg&amp;width=245">
+									<span class="mega-menu-insights-article-date">Nov 2nd</span>
+								</a>
+	 														<a class="mega-menu-insights-article-link" href="/articles/2018/10/26/cfl-cheat-sheet-cfl-dfs-plays-lineup-picks-for-draftkings-week-20-2018/">
+									<img src="https://www.fantasycruncher.com/image.php?image=/articles/wp-content/uploads/2018/10/fc-insight-cheatsheet-cfl-images-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1.jpg&amp;width=245">
+									<span class="mega-menu-insights-article-date">Oct 26th</span>
+								</a>
+	 														<a class="mega-menu-insights-article-link" href="/articles/2018/10/26/cfl-cheat-sheet-cfl-dfs-plays-lineup-picks-for-draftkings-week-20-2018/">
+									<img src="https://www.fantasycruncher.com/image.php?image=/articles/wp-content/uploads/2018/10/fc-insight-cheatsheet-cfl-images-1-1-1-1-1-1-1-1-1-1-1-1-1-1-1.jpg&amp;width=245">
+									<span class="mega-menu-insights-article-date">Oct 26th</span>
+								</a>
+	 							 					</div>
+						<span><a class="mega-menu-category-link" href="/articles/category/cfl/">All CFL Content</a></span>
+ 					</div>
+ 					
+ 				</div>
+ 			</li>
+
+					
+ 			<li onclick="return true;">
+ 				<a class="top-nav-link">NAS</a>
+ 				<div class="nav-mega-menu">
+
+ 					<div class="mega-menu-col">
+	 					<div class="mega-menu-section">
+	 						<span class="mega-menu-section-title">Lineup Cruncher Optimizer</span>
+	 						<div class="mega-menu-section-list">
+	 								 							<a href="/lineup-cruncher/draftkings/NAS/2019-03-29"><div class="site-icon draftkings"></div>Draftkings	 									 							</a>
+	 								 							<a href="/lineup-cruncher/fanduel/NAS/2019-03-29"><div class="site-icon fanduel"></div>Fanduel	 									 							</a>
+	 							
+	 								 							
+	 						</div>
+	 					</div>
+	 					<div class="mega-menu-section">
+	 						<span class="mega-menu-section-title">Lineup Rewind - FREE</span>
+	 						<div class="mega-menu-section-list">
+	 								 							<a href="/lineup-rewind/draftkings/NAS/2019-03-24"><div class="site-icon draftkings"></div>Draftkings	 									 							</a>
+	 								 							<a href="/lineup-rewind/fanduel/NAS/2019-03-24"><div class="site-icon fanduel"></div>Fanduel	 									 							</a>
+	 							
+	 								 
+	 						</div>
+	 					</div>
+ 					</div>
+
+ 					<!-- <div class="mega-menu-col">
+ 						<div class="mega-menu-section">
+	 						<span class="mega-menu-section-title">Other Tools</span>
+	 						<div class="mega-menu-section-list">
+		 						<a href=""><div class="site-icon draftkings"></div>Draftkings Contest Data</a>
+		 						<a href=""><div class="site-icon fanduel"></div>Fanduel Contest Data</a>
+	 						</div>
+ 						</div>
+ 					</div> -->
+
+ 					 					<div class="mega-menu-insights-container">
+ 						<span class="mega-menu-section-title">FC Insights Recent NAS Articles</span>
+ 						<div class="insights-image-links clearfix">
+	 														<a class="mega-menu-insights-article-link" href="/articles/2019/03/24/stp-500-march-24-2019/">
+									<img src="https://www.fantasycruncher.com/image.php?image=/articles/wp-content/uploads/2019/02/FC-NASCAR-DFS.jpg&amp;width=245">
+									<span class="mega-menu-insights-article-date">Mar 24th</span>
+								</a>
+	 														<a class="mega-menu-insights-article-link" href="/articles/2019/03/16/auto-club-400-march-17-2019/">
+									<img src="https://www.fantasycruncher.com/image.php?image=/articles/wp-content/uploads/2019/02/FC-NASCAR-DFS.jpg&amp;width=245">
+									<span class="mega-menu-insights-article-date">Mar 16th</span>
+								</a>
+	 														<a class="mega-menu-insights-article-link" href="/articles/2019/03/09/nascar-at-phoenix-raceway-march-10-2019/">
+									<img src="https://www.fantasycruncher.com/image.php?image=/articles/wp-content/uploads/2019/02/FC-NASCAR-DFS.jpg&amp;width=245">
+									<span class="mega-menu-insights-article-date">Mar 9th</span>
+								</a>
+	 														<a class="mega-menu-insights-article-link" href="/articles/2019/03/02/pennzoil-400-march-3-2019/">
+									<img src="https://www.fantasycruncher.com/image.php?image=/articles/wp-content/uploads/2019/02/FC-NASCAR-DFS.jpg&amp;width=245">
+									<span class="mega-menu-insights-article-date">Mar 2nd</span>
+								</a>
+	 							 					</div>
+						<span><a class="mega-menu-category-link" href="/articles/category/nas/">All NAS Content</a></span>
+ 					</div>
+ 					
+ 				</div>
+ 			</li>
+
+					
+ 			<li onclick="return true;">
+ 				<a class="top-nav-link">WNBA</a>
+ 				<div class="nav-mega-menu">
+
+ 					<div class="mega-menu-col">
+	 					<div class="mega-menu-section">
+	 						<span class="mega-menu-section-title">Lineup Cruncher Optimizer</span>
+	 						<div class="mega-menu-section-list">
+	 								 							<a href="/lineup-cruncher/draftkings/WNBA/2018-09-16"><div class="site-icon draftkings"></div>Draftkings	 									 							</a>
+	 								 							<a href="/lineup-cruncher/draftkings_showdown/WNBA/2018-09-16"><div class="site-icon draftkings_showdown"></div>Draftkings Showdown	 									 							</a>
+	 								 							<a href="/lineup-cruncher/fanduel/WNBA/2018-09-16"><div class="site-icon fanduel"></div>Fanduel	 									 							</a>
+	 								 							<a href="/lineup-cruncher/fanduel_single/WNBA/2018-09-16"><div class="site-icon fanduel_single"></div>Fanduel Single Game	 									 							</a>
+	 							
+	 								 							
+	 						</div>
+	 					</div>
+	 					<div class="mega-menu-section">
+	 						<span class="mega-menu-section-title">Lineup Rewind - FREE</span>
+	 						<div class="mega-menu-section-list">
+	 								 							<a href="/lineup-rewind/draftkings/WNBA/2018-09-14"><div class="site-icon draftkings"></div>Draftkings	 									 							</a>
+	 								 							<a href="/lineup-rewind/draftkings_showdown/WNBA/2018-09-14"><div class="site-icon draftkings_showdown"></div>Draftkings Showdown	 									 							</a>
+	 								 							<a href="/lineup-rewind/fanduel/WNBA/2018-09-14"><div class="site-icon fanduel"></div>Fanduel	 									 							</a>
+	 								 							<a href="/lineup-rewind/fanduel_single/WNBA/2018-09-14"><div class="site-icon fanduel_single"></div>Fanduel Single Game	 									 							</a>
+	 							
+	 								 
+	 						</div>
+	 					</div>
+ 					</div>
+
+ 					<!-- <div class="mega-menu-col">
+ 						<div class="mega-menu-section">
+	 						<span class="mega-menu-section-title">Other Tools</span>
+	 						<div class="mega-menu-section-list">
+		 						<a href=""><div class="site-icon draftkings"></div>Draftkings Contest Data</a>
+		 						<a href=""><div class="site-icon fanduel"></div>Fanduel Contest Data</a>
+	 						</div>
+ 						</div>
+ 					</div> -->
+
+ 					 					<div class="mega-menu-insights-container">
+ 						<span class="mega-menu-section-title">FC Insights Recent WNBA Articles</span>
+ 						<div class="insights-image-links clearfix">
+	 														<a class="mega-menu-insights-article-link" href="/articles/2018/09/04/fanduel-draftkings-wnba-dfs-daily-cheat-sheet-august-31-2018-2/">
+									<img src="https://www.fantasycruncher.com/image.php?image=/articles/wp-content/uploads/2018/05/WNBA-DFS-Cheat-Sheet-2018-FanDuel.jpg&amp;width=245">
+									<span class="mega-menu-insights-article-date">Sep 4th</span>
+								</a>
+	 														<a class="mega-menu-insights-article-link" href="/articles/2018/08/31/fanduel-draftkings-wnba-dfs-daily-cheat-sheet-august-31-2018/">
+									<img src="https://www.fantasycruncher.com/image.php?image=/articles/wp-content/uploads/2018/05/WNBA-DFS-Cheat-Sheet-2018-FanDuel.jpg&amp;width=245">
+									<span class="mega-menu-insights-article-date">Aug 31st</span>
+								</a>
+	 														<a class="mega-menu-insights-article-link" href="/articles/2018/08/28/fanduel-draftkings-wnba-dfs-daily-cheat-sheet-august-28-2018/">
+									<img src="https://www.fantasycruncher.com/image.php?image=/articles/wp-content/uploads/2018/05/WNBA-DFS-Cheat-Sheet-2018-FanDuel.jpg&amp;width=245">
+									<span class="mega-menu-insights-article-date">Aug 28th</span>
+								</a>
+	 														<a class="mega-menu-insights-article-link" href="/articles/2018/08/26/fanduel-draftkings-wnba-dfs-daily-cheat-sheet-august-26-2018/">
+									<img src="https://www.fantasycruncher.com/image.php?image=/articles/wp-content/uploads/2018/05/WNBA-DFS-Cheat-Sheet-2018-FanDuel.jpg&amp;width=245">
+									<span class="mega-menu-insights-article-date">Aug 26th</span>
+								</a>
+	 							 					</div>
+						<span><a class="mega-menu-category-link" href="/articles/category/wnba/">All WNBA Content</a></span>
+ 					</div>
+ 					
+ 				</div>
+ 			</li>
+
+		
+			<li onclick="return true;">
+				<a class="top-nav-link"><i class="fa fa-bars" aria-hidden="true"></i></a>
+				<div class="nav-mega-menu">
+
+
+					<div class="mega-menu-col">
+ 						<div class="mega-menu-section">
+	 						<span class="mega-menu-section-title">Other Links</span>
+	 						<div class="mega-menu-section-list">
+		 						<a href="/articles/home/"><i class="fa fa-lightbulb-o" aria-hidden="true"></i> FC Insights Home</a>
+		 						<a href="/forum/"><i class="fa fa-comments" aria-hidden="true"></i> Forums</a>
+		 						<a href="/premium-signup"><i class="fa fa-trophy" aria-hidden="true"></i> Premium Access</a>
+	 						</div>
+ 						</div>
+
+ 						<!-- If an admin display admin link -->
+ 								
+
+ 					</div>
+
+					<div class="mega-menu-col">
+ 						<div class="mega-menu-section">
+	 						<span class="mega-menu-section-title">Account</span>
+	 						<div class="mega-menu-section-list">
+		 						<a href="/my-profile"><i class="fa fa-user" aria-hidden="true"></i> My Profile</a>
+		 						<a href="/logout"><i class="fa fa-sign-out" aria-hidden="true"></i> Log Out</a>
+	 						</div>
+ 						</div>
+ 						<div class="mega-menu-section">
+	 						<span class="mega-menu-section-title">Help</span>
+	 						<div class="mega-menu-section-list">
+		 						<a href="/help/faqs">FAQs</a>
+		 						<a href="/help/tutorials">Tutorials</a>
+		 						<a href="/help/about">About</a>
+		 						<a href="/help/contact">Contact Us</a>
+	 						</div>
+ 						</div>
+ 					</div> 					
+
+				</div>
+			</li>
+
+ 		</ul>
+	</header>
+</div>
+
+<div class="wrapper clearfix">
+
+<script type="text/javascript">
+	jQuery(function(){
+
+		jQuery('.main-nav-links li').mouseenter(function(){
+			var mm = jQuery(this).find('.nav-mega-menu');
+			var maxLeft = jQuery(this).offset().left;
+			var ww = jQuery(window).width();
+
+			mm.css({'left':'0'});			
+			var mmWidth = mm.width();
+			left = (ww-mmWidth < maxLeft) ? ww-mm.width() : maxLeft;
+			mm.css({'left':'calc('+left+'px - 2vw)'});			
+			
+		})
+
+	})
+</script><div class="row content-padding" style="max-width:1000px">
 <a name="top"></a>
 <article class="privacy-policy">
 
@@ -632,34 +1254,7 @@
 
 
 </article>
-</div>    		
-    		</div>
-
-<!-- <footer id="site-footer-container" role="contentinfo" itemscope>
-      <div class="row" id="site-footer">
-      	<div class="medium-8 columns">
-      		<h4>ABOUT</h4>
-      		<p>FantasyCruncher is a tool designed to help you create your optimal lineup. It will save you the time and hassle of hunting down the information you need to make critical decisions during crunch time. Whether you play on Fanduel, Draftkings, Yahoo or Fantasyaces we have you covered.</p>
-      	</div>
-      	<div class="medium-4 columns">
-      		<h4>CONNECT</h4>
-                  <a href="https://twitter.com/fantasycruncher" target="_blank"><i class="fa fa-twitter-square"></i></a>
-                  <a href="https://www.facebook.com/fantasycruncher" target="_blank"><i class="fa fa-facebook-square"></i></a>
-      		<p>Email:<a href="mailto:support@fantasycruncher.com"> support@fantasycruncher.com</a></p>
-      	</div>
-      	<div class="clear footbottom"></div>
-
-      	<div class="medium-4 columns">
-      		<p>&copy; 2014 - 2017 Fantasy Cruncher Inc</p>
-      	</div>
-      	<div class="medium-4 columns">
-      		<p><a href="/tos">Terms of Service</a> | <a href="/privacy-policy">Privacy Policy</a></p>
-      	</div>
-      	<div class="medium-4 columns">
-      		<a href="http://www.sportradar.us/" target="_blank"><img src="/img/logo_sportradar.png"></a>
-      	</div>
-      </div>
-</footer> --><!--#site-footer-->
+</div></div>
 
 <footer id="footer-container" role="contentinfo" itemscope="">
       <div class="footer-content">
@@ -672,39 +1267,77 @@
                               <p>We support optimizing liuneups for NFL, NBA, MLB, NHL, Nascar, MMA, PGA and the Euro Tour.</p>
                         </div>
                         
-                        <div class="medium-6 columns">
-                              <p>© 2014 - 2017 Fantasy Cruncher Inc</p>
-                        </div>
-                        <div class="medium-6 columns">
-                              <p><a href="/tos">Terms of Service</a> | <a href="/privacy-policy">Privacy Policy</a></p>
-                        </div>
 
                   </div>
+                   <div class="attributed-container medium-4 columns">
+                        <h4 class="partners-title">Our Partners</h4>
 
-
-                  <div class="medium-4 columns">
-                        <h4>CONNECT</h4>
+                        <a href="https://lineupstudy.com/" target="_blank"><img src="/img/lineup-study-logo.png"></a>
+                        <a href="https://www.awesemo.com/" target="_blank" style="padding:0;"><img src="/img/awesemo-logo.png"></a>
+                        <a href="https://www.fantasyguruelite.com/" target="_blank"><img src="/img/guruelite-logo.png"></a>
+                        <a href="https://www.wunderground.com/" target="_blank"><img src="/img/wundergroundLogo_4c_rev_horz.png"></a>
+                  </div>
+                  <div style="text-align: center" class="medium-12 columns">
                         <a href="https://twitter.com/fantasycruncher" target="_blank"><i class="fa fa-twitter-square"></i></a>
                         <a href="https://www.facebook.com/fantasycruncher" target="_blank"><i class="fa fa-facebook-square"></i></a>
-                        <p style="margin-top: 20px">Email:<a href="mailto:support@fantasycruncher.com"> support@fantasycruncher.com</a></p>
-                        <hr style="border-color: rgba(255, 255, 255, 0.3);">
-                        <div class="attributed-container">
-                              <a href="http://www.sportradar.us/" target="_blank"><img src="/img/powered-by-sportradar-reversed-300w.png"></a>
-                              <a href="https://www.wunderground.com/" target="_blank"><img src="/img/wundergroundLogo_4c_rev_horz.png"></a>
-                        </div>
-                  </div>
+                        <a href="https://www.youtube.com/channel/UCkLshlynPgwGU6bOdjG6Ccw" target="_blank"><i class="fa fa-youtube"></i></a>
+                        <a href="mailto:support@fantasycruncher.com"><i class="fa fa-envelope-o" aria-hidden="true"></i></a>
+                        <p style="margin-top:30px">© 2014 - 2019 Fantasy Cruncher Inc | <a href="/tos">Terms of Service</a> | <a href="/privacy-policy">Privacy Policy</a></p>
+                       
+                  </div>     
             </div>
-
       </div>
-
 </footer>
 
+<!-- global templates -->
+<div id="global_templates" style="display: none;">
+
+<div class="player-stats-modal">
+      <div class="player-stat-table" style="max-width: 98%;">
+         <div class="close-popup"><i class="fa fa-close fa-lg"></i></div>
+         <div class="player-name">
+            <div class="stats-player-data">
+                  <span class="primary-player-data"><a class="rotoworld-player-link"></a></span>
+                  <!-- <span class="secondary-player-data">
+                        <span class="stats-battingOrder">3<i class="fa fa-circle confirmed" title="Confirmed Batting Order"></i></span>
+                        <span class="stats-salary">$4500</span>
+                        <span class="stats-injury-status"><span class="injury_details" title=""></span></span>
+                  </span> -->
+            </div>
+         </div>
+         <div>
+            <div class="player-news-container" style="display:none;">
+               <div class="player-news">
+                  
+               </div>
+               <div class="news-source">News Source <a class="rw-news-refresh" data-playerid="945201"><i class="fa fa-refresh"></i></a><a target="_blank" href="http://www.rotoworld.com/player/mlb/5400/anthony-rizzo"><img class="roto-logo" src="/img/rotoworld-logo.png"></a></div>
+            </div>
+            <div class="stat-table-container">
+               <table class="fanduel MLB">
+                  <thead></thead>
+                  <tbody class="hover"></tbody>
+               </table>
+            </div>
+         </div>
+      </div>
+</div>
+
+</div>
+
 <style type="text/css">
+      
+      .partners-title{
+
+      }
+
       .attributed-container{
             text-align: center;
       }
-      .attributed-container a{
-            display: block;
+      
+      .attributed-container a {
+          display: block;
+          padding: 20px 0;
+          border-bottom: 1px solid #ffffff2b;
       }
 
       #footer-container{
@@ -717,15 +1350,22 @@
             padding-bottom: 80px;
       }
 
-      .footer-content h4 {font-weight: bold; color:#ffffff;}
-      .footer-content .fa-facebook-square{color:#3B5998}
-      .footer-content .fa-twitter-square{color:#00a0d2;}
-      .footer-content .fa{font-size:3em; margin:0 10px; cursor:pointer;}
+      .footer-content h4 {color:#ffffff;}
+      /*.footer-content .fa-facebook-square{color:#3B5998}
+      .footer-content .fa-twitter-square{color:#00a0d2;}*/
+      .footer-content .fa{font-size:2em; margin:0 10px; cursor:pointer; color:#ffffff;}
       .footer-content .fa:hover{color:rgba(255,255,255,.5)}
-      .footer-content .fa-facebook-square:hover {color:#496ebb}
-      .footer-content .fa-twitter-square:hover {color:#03bbf5}
+      /*.footer-content .fa-facebook-square:hover {color:#496ebb}
+      .footer-content .fa-twitter-square:hover {color:#03bbf5}*/
 
-</style>	    	
+      @media only screen and (max-width: 641px) {
+         .attributed-container{
+             margin-bottom:30px;
+         }
+      }
+
+</style>
+            
                         
 
             <script src="/js/html2canvas.js?v=.5"></script>
@@ -733,16 +1373,41 @@
             <script src="/js/datatables.1.10.12.min.js"></script>         
             <script src="/js/datatables.customSorting.js"></script>
             <script src="/js/chosen_v1.6.2/chosen.jquery.min.js"></script>
-	    	
-                           <script src="/js/main.min.js?v=4.74"></script>
-                <script src="/js/worker.min.js?v=4.74"></script>
+            <script src="/js/jquery.handsontable.full.js"></script>
+            <link rel="stylesheet" media="screen" href="/css/jquery.handsontable.full.css">
+
+            <script src="/js/ag-grid/ag-grid-enterprise.min.noStyle.js"></script>
+            <link rel="stylesheet" href="/js/ag-grid/ag-grid.css">
+            <link rel="stylesheet" href="/js/ag-grid/ag-theme-balham.css">
+
+            <script src="https://cdnjs.cloudflare.com/ajax/libs/select2/4.0.6-rc.0/js/select2.min.js"></script>
+            <link href="https://cdnjs.cloudflare.com/ajax/libs/select2/4.0.6-rc.0/css/select2.min.css" rel="stylesheet">
+
+                            <script src="/js/main.min.js?v=7.87"></script>
+                <script src="/js/general.min.js?v=7.87"></script>
+                <script src="/js/worker.min.js?v=7.87"></script>
             
+                        
+            <script src="/js/papaparse.min.js"></script>
+            
+            <script src="https://apis.google.com/js/platform.js" async="" defer=""></script>
 
-	    	
-            <script src="/js/vendor-combined.js"></script>
-            <script src="/js/o.min.js"></script>
+            <!-- april fools joke  -->
+            <!-- <link rel="stylesheet" type="text/css" href="/js/clippy.js-master/build/clippy.css" media="all">
+            <script src="/js/clippy.js-master/build/clippy.min.js"></script>
+            <script type="text/javascript">
 
-
+                crunchy = null
+                clippy.load('Clippy', function(agent){
+                    agent.show();
+                    crunchy = agent;
+                    setTimeout(function() {
+                        agent.play('GetAttention');
+                        agent.speak('Remember Clippy? Well, Im your new Fantasy Cruncher Assistant, CRUNCHY!');
+                    }, 3000);
+                });
+            </script> -->
+            
             <ul class="team-card-select-custom-menu">
               <li data-action="above">Select lineups above</li>
               <li data-action="below">Select lineups below</li>
@@ -753,4 +1418,4 @@
     
 
 
-</body></html>
+    </body></html>
