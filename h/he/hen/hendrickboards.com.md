@@ -1,13 +1,8 @@
-> *The following text is extracted and transformed from the hendrickboards.com privacy policy that was archived on 2018-02-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180201194612id_/https%3A//hendrickboards.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hendrickboards.com privacy policy that was archived on 2019-03-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190330190336id_/https%3A//hendrickboards.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
 [ ](https://hendrickboards.com/)
-
-  * Your shopping cart is empty!
-
-
-
 
   * [Home](https://hendrickboards.com/)
   * [Privacy Policy](https://hendrickboards.com/privacy-policy)
@@ -92,3 +87,7 @@ Anaheim, CA 92801
 ## Terms & Conditions
 
 Please also visit our Terms of Use that explains other terms and conditions governing your use of this Website.
+
+__
+
+Your shopping cart is empty!
