@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the dailypost.co.uk privacy policy that was archived on 2018-09-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180924115522id_/https%3A//www.dailypost.co.uk/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dailypost.co.uk privacy policy that was archived on 2019-03-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190330124424id_/https%3A//www.dailypost.co.uk/privacy-policy) for the most accurate reproduction.*
 
-# Daily Post: Latest North Wales news, sport, what's on and business
+# Privacy Policy - North Wales Live
 
 **WHO WE ARE**
 
