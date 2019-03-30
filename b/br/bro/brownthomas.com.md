@@ -1,41 +1,137 @@
-> *The following text is extracted and transformed from the brownthomas.com privacy policy that was archived on 2018-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180627035726id_/http%3A//www.brownthomas.com/about-brown-thomas/privacy-cookie-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the brownthomas.com privacy policy that was archived on 2019-03-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190331005035id_/https%3A//www.brownthomas.com/about-brown-thomas/privacy-cookie-policy.html) for the most accurate reproduction.*
 
 # Privacy & Cookie Policy
 
-For the full Brown Thomas website experience, to be able to purchase online and to make full use of personalised features, your computer or mobile phone will need to accept cookies. We use the information from cookies to improve your customer experience and offer you products we think you will like.
+We collect and use information about people in various ways. The information we collect and use depends on the type of relationship we have with you as a person. This information is processed either with your consent, or on the basis that it is necessary to conclude a contract you’ve entered into with us (for example, to deliver a product to you if you’ve ordered online or it is a large item), or on the basis that it is in our legitimate interests to process this information (for example, it is in our legitimate interests to operate CCTV and to conduct postal marketing). We are also required to keep certain information by law (e.g. Accident reports).   
+****
 
-Our cookies don’t store sensitive information such as your name, address or payment details but they allow us to access this information once you have signed in to your account. If you’d prefer to restrict or delete cookies from Brown Thomas website, you can use your browser to do this. Simply check the ‘Help’ menu of your particular browser to learn how to change your cookie preferences.
+#### **Customers**
 
-We offer an extensive range of beauty, accessories and fashion brands to buy online. We use the information that you provide to:
+We collect and use information about customers for a number of high level purposes. We collect this information from you when you interact with us either online through our websites or our apps, by phone, or in-store.
 
-  1. Administer our website services including reporting; 
-  2. Offer you a more personalised online experience;
-  3. Inform you of products and services relevant to your needs;
-  4. Let you track items that you purchase online using our secure order tracking service;
-  5. Credit, debit or other payment card verification and screening;
-  6. Safety, security, health, training, administrative and legal purposes; 
-  7. Data matching and dedupe, statistical and market analysis, and marketing information; 
-  8. Advertising and marketing for us, our Group and third parties;
-  9. Studies, research and development; 
-  10. Customer surveys; 
-  11. Customer care;
-  12. Where required by law or in connection with legal proceeding or disputes; 
-  13. Any other uses set out in the terms and conditions for use of our services. For these purposes we may disclose your information to one or more of the other organisations listed in the section called “who we will share your personal information with”.
+**
+
+#### Customer Enquiries
+
+**
+
+If you make an enquiry about a product or service in one of our stores we need to have certain information about you to follow up on your enquiry and resolve it including, customer name, customer address, contact phone number, email address, details of the customer query.
+
+**
+
+#### Customer Sales and Orders
+
+**
+
+If you buy something from us, either online, by phone, or in person we need to process information about you including, customer name, customer address, contact phone number, email address, details of the items purchased, details of payment method, loyalty card reference and package tracking reference.
+
+In particular, if we are delivering goods to you, we need to have an address to send them to and we may need further information to schedule delivery for larger items.
+
+If you swipe your loyalty card when making a purchase or have it linked to your on-line account, your purchases will be used to award you loyalty points and to help us better understand your needs as a customer.
+
+(Payment details are processed at the point of sale but no identified details of payment cards are stored by Brown Thomas/Arnotts.)
+
+**
+
+#### Customer Service
+
+**
+
+If you contact our customer service department, or leave items in for repair with our customer service teams, we will process information about you including customer name, customer address, contact phone number, email address, details of customer query or repair to ensure we manage your query or repair as efficiently as possible.
+
+**
+
+#### Credit Finance
+
+**
+
+If you contact our customer service department, or leave items in for repair with our customer service teams, we will process information about you including customer name, customer address, contact phone number, email address, details of customer query or repair to ensure we manage your query or repair as efficiently as possible.
+
+**
+
+#### Customer Loyalty Cards
+
+**
+
+If you register for a loyalty card will process your information including customer name, email address, postal address, contact telephone number, date of birth (optional – for triple loyalty point awards when shopping on your birthday), customer contact preferences (how you want to be contacted). We do this in order to:
+
+  1. Send you emails or other communications about products or events in our stores which may be of interest to you
+  2. Record information about your purchases so we can better identify products or services you might be interested in in the future
+  3. Provide rewards to customers based on your purchase patterns and value
 
 
 
-**Registration:** This allows you to become a member of the Brown Thomas Loyalty scheme. Points earned under the scheme may be redeemed against purchases anytime. As a member, you will be the first to hear about our in-store promotions. The information that you provide will allow Brown Thomas to tailor personal invitations to events, previews and fashion shows. 
+**
 
-Our website offers the facility for you to express your preferences about how you like to reconceive marketing communications from us. You can specify the kind of content that you prefer and how often you would like to receive that content. Brown Thomas will make every effort to fulfil your preferences. However, there may be occasions when we may deem it necessary to send you communications that we feel may be of interest to you but which fall outside your indicated preferences or frequency of contact. You agree that you do not object to us contacting you for purposes other than those indicated in your expressed preferences and at a frequency that may differ from your expressed preference. 
+#### Credit Finance
 
-**Tracking:** We collect, and use third parties to collect and share with us, information from lots of visitors to our website. We analyse this non personal information to build up a picture of how people use our website. This helps us improve the services we offer. We may also give anonymous statistics about visitors to other, reputable organisations, but the information we provide will not include details that would allow these organisations to identify you. 
+**
 
-**Advert targeting:** We may use the information you give us about yourself and the information we collect via cookies when you use our online services to build up a picture of your interests. We may then use this information to try to make sure that when we send you marketing communications and when you visit our websites or use our online services, you don't miss offers and information that might interest you. This information may also be used by our third party advertising agencies and networks, to advertise our products and services to you when you visit third party websites and online services. This is called advert targeting or interest-based advertising. For more information on how to reject targeted advertising or interest-based advertising cookies please read our cookie policy. 
+In some departments of our stores customers can apply for credit finance for purchases. This service is provided by a third party finance company. Brown Thomas and Arnotts act as Data Processors on behalf of the finance company to capture customer details including, customer Name, customer Address, contact telephone number, date of birth, employment status and employer Income details, but your relationship will be directly with the finance company.
 
-**Social networks:** If you follow us or interact with us on any of our pages on third party social media platforms, such as Instagram, Facebook, Twitter, Pinterest or Google+, the information that you provide will be subject to the third party’s privacy policy, as well as this privacy policy.
+**
 
-**Competitions:** When entering any of our contests or prize draws, you provide your name, email address and mailing address. If you win, we will send the prize to the address entered and notify you by email or a phone call. When you enter a contest or prize draw, you have an option to sign up to our newsletter list to receive notice of promotions, specials and new additions to the Website. The winner of the competition consents to the use of their first name and region for publication by Brown Thomas and its related companies, for an unlimited time. Publications include any medium ( internet, print, social media, websites hosted by Brown Thomas and its related companies ). In entering a competition, all entrants consent to same.
+#### CUSTOMER SURVEYS
 
-**Customer surveys:** Every now and again, we may ask you for your opinion on our services and the products you have purchased through our services. When we do research or surveys, we may use cookies and may combine the information collected by those cookies with your answers. To thank you for sharing your experiences of shopping with us, we may hold a competition draw for small token. If you win, we will send the prize to your registered address entered and notify you by mail. The winner of the competition consents to the use of their first name and region for publication by Brown Thomas and its related companies, for an unlimited time. Publications include any medium (internet, print, social media, websites hosted by Brown Thomas and its related companies). In entering a competition or a survey, all entrants consent to same.
+**
 
-You agree that you do not object to us contacting you for any of the above purposes whether by telephone, e-mail or in writing and you confirm that you do not and will not consider any of the above as being a breach of any of your rights under the Privacy and Electronic Communications (EC Directive) Regulations 2003.
+From time to time we send out surveys to you to help us better understand your needs and interests and we capture customer details such as customer name, customer address, email address. Information relating to the specific survey will vary.
+
+**
+
+#### CUSTOMER COMPETITIONS
+
+**
+
+We process customer information including customer name, customer address and email address to run customer competitions. These competitions may be linked to customer surveys. Competitions will be subject to the specific terms and conditions of each competition but these terms will include a right to publish the winner’s name and region.
+
+**
+
+#### CUSTOMER APPOINTMENTS
+
+**
+
+To enhance our customer services, appointments are created by customers and fulfilled in our store. This appointment booking system is provided by a third-party company.
+
+  * Customer name
+  * Customer email
+  * Customer telephone number
+  * Medical or health-related conditions including allergies
+  * Employee name
+  * Employee telephone number
+  * Employee email
+  * Employee number
+
+
+
+**
+
+#### ADVERTISING AND PROMOTIONS FOR OURSELVES, THE GROUP OR THIRD PARTIES
+
+**
+
+Subject to your communications preferences, we will contact you from time to time with promotions and advertising for products, services or events. You can opt-out of receiving communications or change your preferences via your Brown Thomas Online Account or your Arnotts Online account. Opting out means you may miss out on promotions or discounts that will be of interest to you. We track the open rates and responsiveness rates on our email campaigns. When you visit our websites we write a variety of cookies relating to the functions of the site and also to track how you interact with the site so we can identify opportunities to improve its usefulness to you. For more information on Cookies we use, see the ‘Privacy and Cookies Policy’ section.
+
+**
+
+#### HEALTH AND SAFETY AND SECURITY
+
+**
+
+Information about customers will be processed when necessary for the purposes of complying with Health and Safety legislation or for the purposes of protecting the safety and security of our stores, our staff and other customers and store visitors. This will include, but is not limited to, payment card verification processes and the use of CCTV, customer name, customer contact information (email, postal address or telephone), details of incidents in store, point of sale transaction information and other information as needed for the purpose of Health and Safety and security functions or investigations.
+
+**
+
+#### LIVE Chat
+
+**
+
+To enhance our customer services you have the option to connect with a Team Member via Live Chat or Messaging. This software is provided by Salesfloor a third-party company and collects the information below.
+
+  * Customer name
+  * Customer email
+  * Details of your query as you input in the ‘What can I help you with?’ text field.
+
+
+
+When submitting this information you are giving consent for a Team Member to use this detail to contact you to follow up on your query.
