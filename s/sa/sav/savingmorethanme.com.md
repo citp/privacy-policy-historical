@@ -1,88 +1,94 @@
-> *The following text is extracted and transformed from the savingmorethanme.com privacy policy that was archived on 2018-04-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180430225158id_/https%3A//winterandsparrow.com/disclosure-and-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the savingmorethanme.com privacy policy that was archived on 2019-03-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190330190623id_/https%3A//winterandsparrow.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy & Disclosure Policy - Saving More Than Me
+# Privacy Policy » Winter and Sparrow
 
-## Disclosure Policy
+(updated May 4, 2018)
 
-_This disclosure policy is valid from May 23rd,  2011, to present day. _
+Protecting your private information is our priority. This Statement of Privacy applies to winterandsparrow.com and governs data collection and usage. For the purposes of this Privacy Policy, unless otherwise noted, all references to Winter and Sparrow include winterandsparrow.com. The Winter and Sparrow website is a Home and Lifestyle site. By using the Winter and Sparrow website, you consent to the data practices described in this statement.
 
-_This blog is a collaborative blog written by a group of individuals.  For questions about this blog, please contact the owner and editor: _
+**Collection of your Personal Information**
 
-_Kimberly Dickerson — winterandsparrow(at)outlook(dot)com_
+In order to better provide you with products and services offered on our Site, Winter and Sparrow may collect personally identifiable information such as:
 
-_This blog accepts forms of cash advertising, sponsorship, paid insertions or other forms of compensation._
-
-_This blog abides by word of mouth marketing standards. We believe in honesty of relationship, opinion_ , _and identity. The compensation received may influence the advertising content, topics or posts made in this blog. That content, advertising space or post will be clearly identified as paid or sponsored content._
-
-_The owner(s) of this blog is compensated to provide opinion on products, services, websites and various other topics. Even though the owner(s) of this blog receives compensation for our posts or advertisements, we always give our honest opinions, findings, beliefs, or experiences on those topics or products. The views and opinions expressed on this blog are purely the bloggers’ own. Any product claim, statistic, quote or other representation about a product or service should be verified with the manufacturer, provider or party in question._
-
-_This blog does not contain any content which might present a conflict of interest._
-
- ———————————————————————————————————————————————————
-
-## Privacy Policy
-
-_This privacy policy sets out how **Winter and Sparrow** uses and protects any information that you give while using [winterandsparrow.com](https://winterandsparrow.com/)._
-
-_Should we ask you to provide certain information by which you can be identified when using this website, you can be assured that it will only be used in accordance with this privacy statement._
-
-_**Winter and Sparrow** may change this policy from time to time by updating this page. You should check this page from time to time to ensure that you are happy with any changes. This policy is effective from May 23, 2011._
-
-**_What we collect_**
-
-_We may collect the following information:_
-
-  * _contact information including email address_
-  * _demographic information such as zip code, preferences and interests_
-  * _other information relevant to customer surveys and/or offers_
+  * First and Last Name
+  * E-mail Address
 
 
 
-_**What we do with the information we gather**_
+Winter and Sparrow may also collect anonymous demographic information, which is not unique to you, such as your:
 
-_We require this information to understand your needs and provide you with a better service, and in particular for the following reasons:_
-
-  * _We may use the information to improve our products and services._
-  * _We may periodically send promotional emails about new products, special offers or other information which we think you may find interesting using the email address which you have provided._
-  * _From time to time, we may also use your information to contact you for market research purposes. We may contact you by email, phone, fax or mail. We may use the information to customize the website according to your interests._
+  * Age Range
+  * Gender
+  * Geographic Location
 
 
 
-_**Security**_
+Please keep in mind that if you directly disclose personally identifiable information or personally sensitive data through Winter and Sparrow’s public message boards, this information may be collected and used by others. We do not collect any personal information about you unless you voluntarily provide it to us. However, you may be required to provide certain personal information to us when you elect to use certain products or services available on the Site. These may include: (a) registering for an account on our Site; (b) entering a sweepstakes or contest sponsored by us or one of our partners; (c) signing up for special offers from selected third parties; (d) sending us an email message; (e) submitting your credit card or other payment information when ordering and purchasing products and services on our Site. To wit, we will use your information for, but not limited to, communicating with you in relation to services and/or products you have requested from us. We also may gather additional personal or non-personal information in the future.
 
-_We are committed to ensuring that your information is secure. In order to prevent unauthorized access or disclosure, we have put in place suitable physical, electronic and managerial procedures to safeguard and secure the information we collect online._
+**Use of your Personal Information**
 
-_**How we use cookies**_
+Winter and Sparrow collects and uses your personal information to operate its website(s) and deliver the services you have requested. Winter and Sparrow may also use your personally identifiable information to inform you of other products or services available from Winter and Sparrow and its affiliates.
 
-_A cookie is a small file which asks permission to be placed on your computer’s hard drive. Once you agree, the file is added and the cookie helps analyze web traffic or lets you know when you visit a particular site. Cookies allow web applications to respond to you as an individual. The web application can tailor its operations to your needs, likes, and dislikes by gathering and remembering information about your preferences._
+**Sharing Information with Third Parties**
 
-_We use traffic log cookies to identify which pages are being used. This helps us analyze data about_ web page _traffic and improve our website in order to tailor it to customer needs. We only use this information for statistical analysis purposes and then the data is removed from the system._
+Winter and Sparrow does not sell, rent or lease its customer lists to third parties. Winter and Sparrow may, from time to time, contact you on behalf of external business partners about a particular offering that may be of interest to you. In those cases, your unique personally identifiable information (e-mail, name, address, telephone number) is not transferred to the third party. Winter and Sparrow may share data with trusted partners to help perform statistical analysis, send you email or postal mail, provide customer support, or arrange for deliveries. All such third parties are prohibited from using your personal information except to provide these services to Winter and Sparrow, and they are required to maintain the confidentiality of your information.
 
-_Overall, cookies help us provide you with a better website, by enabling us to monitor which pages you find useful and which you do not. A cookie in no way gives us access to your computer or any information about you, other than the data you choose to share with us._
+Winter and Sparrow may disclose your personal information, without notice, if required to do so by law or in the good faith belief that such action is necessary to: (a) conform to the edicts of the law or comply with legal process served on Winter and Sparrow or the site; (b) protect and defend the rights or property of Winter and Sparrow; and/or (c) act under exigent circumstances to protect the personal safety of users of Winter and Sparrow, or the public.
 
-_You can choose to accept or decline cookies. Most web browsers automatically accept cookies, but you can usually modify your browser setting to decline cookies if you prefer. This may prevent you from taking full advantage of the website._
+**Tracking User Behavior**
 
-_**Advertising**_
+Winter and Sparrow may keep track of the websites and pages our users visit within Winter and Sparrow, in order to determine what Winter and Sparrow services are the most popular. This data is used to deliver customized content and advertising within Winter and Sparrow to customers whose behavior indicates that they are interested in a particular subject area.
 
-_Some of our advertisers occasionally serve you cookies as well. We do not have control over cookies placed by advertisers. We may use advertising service vendors to help present advertisements on the website, one of which is  [Media.net](http://www.media.net/en/adchoices). These vendors may use cookies, web beacons, or similar technologies to serve you advertisements tailored to interests you have shown by browsing on this and other sites you have visited, to determine whether you have seen a particular advertisement before and to avoid sending you duplicate advertisements. In doing so, these vendors may collect non-personal data such as your browser type, your operating system, Web pages visited, time of visits, content viewed, ads viewed, and other clickstream data. The use of cookies, web beacons or similar technologies by these advertising service vendors is subject to their own privacy policies, not ours, and Service Provider disclaims all liability in connection therewith._
+**Automatically Collected Information**
 
-_**Links to other websites**_
+Information about your computer hardware and software may be automatically collected by Winter and Sparrow. This information can include your IP address, browser type, domain names, access times and referring website addresses. This information is used for the operation of the service, to maintain the quality of the service, and to provide general statistics regarding use of the Winter and Sparrow website.
 
-_Our website may contain links to other websites of interest. However, once you have used these links to leave our site, you should note that we do not have any control over that other website. Therefore, we cannot be responsible for the protection and privacy of any information which you provide whilst visiting such sites and such sites are not governed by this privacy statement. You should exercise caution and look at the privacy statement applicable to the website in question._
+**Use of Cookies**
 
-_**Controlling your personal information**_
+The Winter and Sparrow website may use “cookies” to help you personalize your online experience. A cookie is a text file that is placed on your hard disk by a web page server. Cookies cannot be used to run programs or deliver viruses to your computer. Cookies are uniquely assigned to you, and can only be read by a web server in the domain that issued the cookie to you. One of the primary purposes of cookies is to provide a convenience feature to save you time. The purpose of a cookie is to tell the Web server that you have returned to a specific page. For example, if you personalize Winter and Sparrow pages, or register with Winter and Sparrow site or services, a cookie helps Winter and Sparrow to recall your specific information on subsequent visits. This simplifies the process of recording your personal information, such as billing addresses, shipping addresses, and so on.
 
-_You may choose to restrict the collection or use of your personal information in the following ways:_
+When you return to the same Winter and Sparrow website, the information you previously provided can be retrieved, so you can easily use the Winter and Sparrow features that you customized. You have the ability to accept or decline cookies. Most Web browsers automatically accept cookies, but you can usually modify your browser setting to decline cookies if you prefer. If you choose to decline cookies, you may not be able to fully experience the interactive features of the Winter and Sparrow services or websites you visit.
 
-  * _whenever you are asked to fill in a form on the website, look for the box that you can click to indicate that you do not want the information to be used by anybody for direct marketing purposes_
-  * _if you have previously agreed to us using your personal information for direct marketing purposes, you may change your mind at any time by contacting us._
+You can learn more about cookies at [All About Cookies](http://www.allaboutcookies.org/).
+
+**Advertising**
+
+Some of our advertisers occasionally serve you cookies as well. We do not have control over cookies placed by advertisers. We may use advertising service vendors to help present advertisements on the website, one of which is [Mediavine.com](https://www.mediavine.com/). These vendors may use cookies, web beacons, or similar technologies to serve you advertisements tailored to interests you have shown by browsing on this and other sites you have visited, to determine whether you have seen a particular advertisement before and to avoid sending you duplicate advertisements. In doing so, these vendors may collect non-personal data such as your browser type, your operating system, web pages visited, time of visits, content viewed, ads viewed, and other clickstream data. The use of cookies, web beacons or similar technologies by these advertising service vendors is subject to their own privacy policies, not ours, and Service Provider disclaims all liability in connection therewith.
+
+You can opt out of network-based advertising at the [Network Advertising Initiative](http://optout.networkadvertising.org/?c=1#!/).
+
+**Links**
+
+This website contains links to other sites. Please be aware that we are not responsible for the content or privacy practices of such other sites. We encourage our users to be aware when they leave our site and to read the privacy statements of any other site that collects personally identifiable information.
+
+Winter and Sparrows is a participant in the Amazon Services LLC Associates Program, an affiliate advertising program designed to provide a means for sites to earn advertising fees by advertising and links to Amazon.com.  As part of this Amazon Associates program, the Website will post customized links, provided by Amazon, to track the referrals to their website. This program utilizes cookies to track visits for the purposes of assigning commission on these sales.
+
+**Security of your Personal Information**
+
+Winter and Sparrow secures your personal information from unauthorized access, use, or disclosure. Winter and Sparrow uses the following methods for this purpose:
+
+  * Secure Sockets Layer (SSL) protocol
 
 
 
-_We will not sell, distribute or lease your personal information to third parties unless we have your permission or are required by law to do so. We may use your personal information to send you promotional information about third parties which we think you may find interesting if you tell us that you wish this to happen._
+When personal information (such as a credit card number) is transmitted to other websites, it is protected through the use of encryption, such as the Secure Sockets Layer (SSL) protocol. We strive to take appropriate security measures to protect against unauthorized access to or alteration of your personal information. Unfortunately, no data transmission over the Internet or any wireless network can be guaranteed to be 100% secure. As a result, while we strive to protect your personal information, you acknowledge that: (a) there are security and privacy limitations inherent to the Internet which are beyond our control; and (b) security, integrity, and privacy of any and all information and data exchanged between you and us through this Site cannot be guaranteed.
 
-_**Opt Out**_
+**Children Under Thirteen**
 
-_For information about opting out of Media.Net and ad serving partners please visit  <http://www.media.net/en/privacy-policy>_
+Winter and Sparrow does not knowingly collect personally identifiable information from children under the age of thirteen. If you are under the age of thirteen, you must ask your parent or guardian for permission to use this website.
 
-_If you believe that any information we are holding on you is incorrect or incomplete, please contact us._
+**E-mail Communications**
+
+From time to time, Winter and Sparrow may contact you via email for the purpose of providing announcements, promotional offers, alerts, confirmations, surveys, and/or other general communication. In order to improve our Services, we may receive a notification when you open an email from Winter and Sparrow or click on a link therein. If you would like to stop receiving marketing or promotional communications via email from Winter and Sparrow, you may opt-out of such communications by clicking on the UNSUBSCRIBE button.
+
+**External Data Storage Sites**
+
+We may store your data on servers provided by third party hosting vendors with whom we have contracted.
+
+**Changes to this Statement**
+
+Winter and Sparrow reserves the right to change this Privacy Policy from time to time. We will notify you about significant changes in the way we treat personal information by sending a notice to the primary email address specified in your account, by placing a prominent notice on our site, and/or by updating any privacy information on this page. Your continued use of the Site and/or Services available through this Site after such modifications will constitute your: (a) acknowledgment of the modified Privacy Policy; and (b) agreement to abide and be bound by that Policy.
+
+**Contact Information**
+
+Winter and Sparrow welcomes your questions or comments regarding this Statement of Privacy. We can be reached at pr(at)winterandsparrow(dot)com.
