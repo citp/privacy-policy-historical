@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mjsbigblog.com privacy policy that was archived on 2018-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181221130817id_/https%3A//www.mjsbigblog.com/privacy-policy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mjsbigblog.com privacy policy that was archived on 2019-03-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190330213337id_/https%3A//www.mjsbigblog.com/privacy-policy-statement) for the most accurate reproduction.*
 
 # Privacy Policy Statement • mjsbigblog
 
