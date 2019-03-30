@@ -1,229 +1,177 @@
-> *The following text is extracted and transformed from the ascap.com privacy policy that was archived on 2016-10-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161006211118id_/http%3A//www.ascap.com/about/legal-terms/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ascap.com privacy policy that was archived on 2019-03-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190330144338id_/https%3A//www.ascap.com/help/legal/privacy-policy) for the most accurate reproduction.*
 
 # ASCAP Privacy Policy
 
-Last Updated July 12th, 2016
+Last Updated May 25, 2018
 
 **TABLE OF CONTENTS**
 
-  1. **Introduction**
-
-  2. **General Applicability of This Privacy Policy**
-
-  3. **Information We Collect**
-
-  4. **Third Party Advertising Service Providers**
-
-  5. **How We May use and Disclose Your Information**
-
-  6. **User Choice and Access**
-
-  7. **Opting-Out of Use of Certain Information That May Be Collected by Tracking Technologies**
-
-  8. **Data Collection From Children**
-
-  9. **Security**
-
-  10. **Data Retention**
-
-  11. **Your California Privacy Rights**
-
-  12. **Linked Services**
-
-  13. **Changes to our Privacy Policy**
-
-  14. **International Visitors**
-
-  15. **Contact Us**
-
-
-
-
 ## 1\. INTRODUCTION
 
-The American Society of Composers, Authors and Publishers (“ _ASCAP_ ,” “ _we_ ,” “ _us_ ” or “ _our_ ”) wants you to be familiar with how we collect, use and disclose information from and about you. This is the Privacy Policy for (a) www.ascap.com and all corresponding domains, subdomains, web pages and websites associated therewith (the “ _Site_ ”) and (b) any other content, applications, features, functionality, information and services offered by us though the Site, including, without limitation, Member Access, Title Registration, the ACE Database, ASCAP OnStage and My ASCAP License (the foregoing _subsections_ (a) and (b) are collectively referred to herein as the “ _Services_ ”), and it applies to all Users of the Services, whether you are accessing and/or using the Services as a registered User or otherwise. Please review our [**Terms of Use Agreement**](https://web.archive.org/about/legal-terms/terms-of-use.aspx), which governs your use of the Services. Any capitalized terms that are not defined in this Privacy Policy shall have the meaning given in the [**Terms of Use Agreement**](https://web.archive.org/about/legal-terms/terms-of-use.aspx). By accessing or using the Services, you affirmatively consent to this Privacy Policy (and the practices described herein), which will remain in full force and effect, even if your use of the Services or any particular feature or activity offered in connection therewith terminates, expires or is deactivated for any reason. If you do not agree with this Privacy Policy, please do not access and/or use the Services or any features, activities, products or services offered through or in connection therewith.
+The American Society of Composers, Authors and Publishers (“ASCAP,” “we,” “us” or “our”) wants you to be familiar with how we “process” ( _i.e._ , collect, store, use and disclose) information from and about you. This is the Privacy Policy for (a) your interaction with our products and services, including your membership in ASCAP, (b) www.ascap.com and all corresponding domains, subdomains, web pages and websites associated therewith (the “Sites”) and (c) any other content, applications, features, functionality, information and services offered by us though the Sites, including, without limitation, Member Access, ASCAP Clearance Express (“ACE Database”), ASCAP OnStage, My ASCAP License and the ASCAP License Portal (the foregoing subsections (a) through (c) are individually and collectively referred to herein as the “Services”), and it applies to all individuals, including ASCAP members, who use our products and services (whether offline or online), whether you are accessing and/or using the Services as a registered User, member of ASCAP or otherwise. This Privacy Policy applies regardless of the Device you use to access the Services. You should also review our [Terms of Use Agreement](https://web.archive.org/help/legal/terms-of-use), which governs your use of the Services. Any capitalized terms that are not defined in this Privacy Policy shall have the meaning given in the [Terms of Use Agreement](https://web.archive.org/help/legal/terms-of-use). This Privacy Policy will remain in full force and effect, even if your use of the Services or any particular feature or activity offered in connection therewith terminates, expires or is deactivated or suspended for any reason. We will either rely on our legitimate interest or our need to perform under a contract to process your information or you will be asked to affirmatively consent to our processing of your information, all in accordance with the terms and conditions of this Privacy Policy. If you do not agree with this Privacy Policy, please do not access and/or use the Services or any features, activities, products or services offered through or in connection therewith. 
 
 ## 2\. GENERAL APPLICABILITY OF THIS PRIVACY POLICY 
 
-This Privacy Policy governs only the information we collect (a) from you and (b) from Third Party Services ( _e.g_., Facebook, _etc_.) and Operators about you, in each instance, on or in connection with your use of the Services, and does not cover any other information collected in any other manner or collected by any other entity, unless specifically stated. Where you have provided your information to third parties such as affiliated companies, marketing companies, platform operators and/or technology providers, including, without limitation, our advertisers, sponsors and/or other promotional partners, including, without limitation, Third Party Services, and have agreed to share that information with us, we may obtain such information and combine it with the information we collect, and, if we do so, our use of the resulting combined information will be subject to this Privacy Policy.
+This Privacy Policy governs only the information we collect about you (a) from you and (b) from Third Party Services ( _e.g._ , Facebook, Twitter, Instagram) and Operators, in each instance, on or in connection with your use of the Services, and does not cover any other information processed in any other manner or processed by any other entity, unless specifically stated. Where you have provided your information to third parties such as our affiliated companies, marketing companies, platform operators and/or technology providers, including, without limitation, our advertisers, sponsors and/or other promotional partners, including, without limitation, Third Party Services, and have agreed to share that information with us, we may obtain such information and combine it with the information we collect, and, if we do so, our use of the resulting combined information will be subject to this Privacy Policy.
 
 ## 3\. INFORMATION WE COLLECT
 
-We generally collect two types of information from and about you: 
+We collect personal information (i.e., information that identifies an individual or may be combined with other information to identify an individual) or other information about you when you visit our Sites or use our Services. The information and data we may process depends on your interaction with us. The key types of information that we may process include the following: 
 
-  * **Personal Information** : Personally identifiable information that we collect on or in connection with the Services that would allow someone to identify or contact you, such as your full name, address, e-mail address or telephone number (" _Personal Information_ "). 
+  * Registration Information: In order to access and use certain features, content or functions of the Services ( _e.g._ , Member Enrollment or Member Access), you may need to register for a User Account.  When you create a User Account, we will collect personal information as necessary to offer and fulfill the Services you request. Depending on the Services you elect to use, we may ask you to provide your name, email address, gender, zip code, legal address, date of birth, residency information, performing rights organization affiliation, tax id number, bank account information, stage name and/or band affiliation. If you choose not to provide some of this information, you may not be able to use all of the features of the Services or become a member of ASCAP.
 
-  * **Non-Personal Information:** All other information that we collect on or in connection with the Services other than Personal Information, which does not personally identify you (" _Non-Personal Information_ " and together with Personal Information, collectively referred to herein as " _Information_ ").
+  * Musical Work Information: You may submit information when accessing or using certain Services regarding musical compositions that you author, publish or administer, including, work title, authorship, ownership, share or administration information. If you submit such musical work information ( _e.g._ , directly to ASCAP via Works Registration in Member Access or by other means) such information may become available to the public. 
 
+  * Fee-Based Services Information: If you engage in any Fee-Based Services or other transaction offered on or in connection with the Services, we and/or our third party payment processors may require certain payment information ( _e.g._ , credit or debit card number, card type, expiration date and address associated with such credit or debit card) and additional information ( _e.g._ your full name, physical address, telephone number(s)) to fulfill the applicable services or deliver the applicable products.
 
+  * Information Collected Through Additional Features and Functions of the Services: The Services may provide you with access to additional features and functionality, such as interactive and community features, message and comment functionality, posting and other functionality, which may, in certain instances, be subject to Additional Terms and requirements which will determine who can publicly or privately view such information. To participate in these features and functionalities, you may be asked to provide certain information about yourself and/or provide consent in order to personalize and/or permit your use of these features and functions. We will make clear what information we may process as a result of your engagement with the additional features and functions of the Services.
 
+  * Communications Information: The Services may present you with the opportunity to sign up to receive newsletters, email correspondence, news alerts about laws that may affect music rightsholders and/or other communications from us in order for us to provide up-to-date information about ASCAP, the Services or the music industry, and to publicize and promote certain content, products and services offered by us, our business partners and/or other third parties. When there is a separate sign-up for communications, we may ask for your contact information such as name and email address, and, sometimes, demographic and profile information. We will make clear what information we may process as a result of you signing up for these services or communications and may ask you to confirm your consent where necessary.
 
-And we collect such Information in multiple ways, as follows:
+  * Technical, Operational and Customer Support Information and Feedback: When you use our customer support system, contact us for technical, operational or other support or otherwise provide any comments or feedback to us, you may be required to provide certain information relevant to your applicable issue or we may need to contact you to resolve the issue. Unless you provide us with an additional consent, we will only process this information to provide you with technical and support services.
 
-  * **When you provide it to us or when you give us permission to obtain it,** which may include, without limitation, the following types of Information: 
-
-    * _Registration Information_ : Information you submit to register for the Services, including, without limitation, in order to create your User Account. Such Information may include, without limitation, name, email address, gender, zip code, legal address, date of birth, _etc_. 
-
-    * _Work-Based Information_ : Information you submit when accessing or using certain Services regarding musical works you author, publish or administer, including, without limitation, work title, authorship, ownership, share or administration information.
-
-    * _Fee-Based Services Information_ : If you engage in any Fee-Based Services or other transaction offered on or in connection with the Services, we may require certain Information, for example, your full name, physical address, telephone number(s), applicable payment data ( _e.g_., credit card number, expiration date, _etc_.), your date of birth and address. 
-
-    * _Information Collected Through Features and Functions of the Services_ : The Services may provide you with access to certain features and functionality, such as interactive and community features, message and comment functionality, posting and other functionality, which may, in certain instances, be subject to Additional Terms and requirements which will determine who can see such Information. To participate in these features and functionalities, you may be asked to provide certain Information about yourself and provide additional consent in order to personalize and/or permit your use these features and functions, such as when you share information about your use of the Services to other Users. 
-
-    * _Communications Information_ : The Services may present you with the opportunity to sign up to receive newsletters, email correspondence and/or other communications from us in order for us to provide up-to-date information about the Services, and to publicize and promote certain content, products and services offered by us, our business partners and/or other third parties. When there is a separate sign-up for communications, we may ask for your contact information such as name and email address, and, sometimes, demographic and profile information. We will ask you to confirm your consent to any such uses at the time you sign up for these services or communications.
-
-    * _Technical, Operational and Customer Support Information and Feedback_ : When you use our customer support system, contact us for technical, operational or other support or otherwise provide any comments or feedback to us, you may be required to provide certain Information relevant to your applicable issue or to contact you with respect to resolving the issue. 
-
-    * _Information Related to Promotions, Contests and Sweepstakes_ : To participate in certain Promotions, including contests, sweepstakes and surveys, there may be a separate registration or sign up process, which may require the submission of Information ( _e.g_., your full name, email address, mailing address, telephone number, demographic and/or profile information, _etc_.). 
-
-  * **If you log in to the Services using account information from a Third Party Service ( _e.g_., Facebook, _etc_.), connect a Third Party Service to the Services or enable functionality from a Third Party Service as part of your use of the Services,** we may receive information from the applicable provider of the Third Party Service that you have consented be shared pursuant to its terms and conditions, whether made available via an application programming interface (“API”) or otherwise. Such information may include, for example, your first and last name, gender, your physical location and that of your Devices, your date of birth, certain profile information, your public ID on or associated with the Third Party Service, profile page URL and e-mail address. We will, as reasonably practicable ( _e.g_., by implementing a compatible disclosure feature offered by the Third Party Service, _etc_.), disclose what information we collect from the Third Party Service when you connect the Services to the Third Party Service. In addition, if you connect a Third Party Service to the Services or enable functionality from the Services as part of your use of a Third Party Service, we may receive information from the provider of that Third Party Service about you or your use of the Services within that Third Party Service; such functionality may also perform actions on your behalf on the Third Party Service that are known to the Third Party Service or others. Even if you delete your account on a Third Party Service, we will retain any Information provided by that Third Party Service. Similarly, if you delete or deactivate your account on the Services, any Information that we have shared with a Third Party Service (in accordance with this Privacy Policy) may be retained by such Third Party Service.
-
-  * **By using certain automatic data collection technologies when you visit, access and/or interact with the Services, we may automatically collect certain Information about your equipment, browsing actions and other patterns, including:**
-
-    * _Log Files_ : When you use the Services, our servers automatically collect certain Information including Information that your browser and/or Device sends whenever you visit a website and/or use the applicable Device. Such Information may include your IP address, browser type and settings and other usage data.
-
-    * _Information about Your Device_ : We may also collect Information about the Device through which you access and/or use the Services, including, but not limited to, what type of Device it is, unique Device identifiers and other data provided by your applicable third party service provider and/or Device manufacturer. You should read the polices of such third parties in order to learn more about what Information your Device makes available.
-
-    * _Other Non-Personal Information_ : Other Non-Personal Information related to your use of the Services, including usage, traffic data and other communication data and resources that you access when you interact with the Services. 
-
-The Information we collect automatically is Non-Personal Information. It helps us to improve our Services and deliver a better and more personalized user experience by enabling us, among other things, to store information about your preferences, customize our Services according to your individual interests, speed up your searches and recognize you when you return to the Services (e.g., storing your login details so that you don't have to re-enter such information each time you access the Services).
-
-The technologies we use for this automatic data collection may include:
-
-    * _Cookies (or browser cookies)_ : A cookie is a small file placed on the hard drive of your computer. You may refuse to accept browser cookies by activating the appropriate setting on your browser. However, if you select this setting you may be unable to access certain parts of the Services. Unless you have adjusted your browser setting so that it will refuse cookies, our system will issue cookies when you direct your browser to the Services.
-
-    * _Flash Cookies_ : Certain features of the Services may use local stored objects (or Flash cookies) to collect and store Information about your preferences and navigation to, from and on the Services. Flash cookies are not managed by the same browser settings as are used for browser cookies. 
-
-    * _Web Beacons_ : Pages of the Services may contain small electronic files known as web beacons (also referred to as clear gifs, pixel tags and single-pixel gifs) that permit ASCAP, for example, to count Users who have visited those pages and/or for other related statistics ( _e.g_., recording the popularity of certain content and verifying system and server integrity, _etc_.).
-
-    * _Local Storage_ : Local storage is an industry standard method we may use to store and retrieve Information on a User’s computer and/or Device ( _e.g_., caching, HTML5, _etc_.) in a web browser. Your web browser may offer settings for you to control local storage options. Please see Section 6 below for more details. 
-
-We do not collect Personal Information automatically; however, we may associate the Information obtained through these technologies with your Personal Information so we can, among other things, better customize your experience using the Services and/or the advertisements and promotions you see. By visiting the Services, whether as a registered user or otherwise, via a Third Party Service or otherwise, you acknowledge, understand and hereby agree that you are giving us your consent to store your activities and your use of the Services as described in this Privacy Policy. Please see Section 7 below for more information on how to opt-out of the collection and use of Information collected via certain automatic collection technologies.
-
-  * **Information from Other Sources.** We may supplement the Information we collect with information from other sources, such as publicly available information from commercially available sources and information from our affiliates or business partners.
+  * Information Related to Promotions, Contests and Sweepstakes: To participate in certain promotions, including contests, sweepstakes and surveys, there may be a separate registration or sign up process, which may require the submission of information ( _e.g.,_ your full name, email address, mailing address, telephone number, demographic and/or profile information). Unless you provide us with an additional consent, we will only process this information to evaluate your submission or process your application or survey results.
 
 
 
 
-## 4\. THIRD PARTY ADVERTISING SERVICE PROVIDERS
+**Other Information We May Collect and Information from Other Sources.** We may also collect other information when users visit our Sites or use our Services, which may include domain name, IP address, type of browser, type of device and type of operating system used. We may also supplement the information listed above that we collect with information from other sources, such as publicly available information from commercially available sources, information contained in the ACE Database and information from our affiliates or business partners. 
 
-The Services may also use a variety of third party advertising networks, data exchanges, traffic measurement service providers, marketing analytics service providers and other third parties (collectively, " _Third Party Advertising Service Providers_ ") to, for example, serve advertisements on the Services, facilitate targeting of advertisements and/or measure and analyze advertising effectiveness and/or traffic on the Services. These Third Party Advertising Service Providers do not have access to any tracking technologies set by the Services except to the extent necessary to provide services to us in connection with the Services; _however_ , these Third Party Advertising Service Providers may use their own tracking technologies (as described above) to collect similar Information. ASCAP does not control these Third Party Advertising Service Providers and/or their use of tracking technologies, which is instead governed by the privacy policies of any such Third Party Advertising Service Provider. Please see _Section 7_ below for more information on how to opt-out of the collection and use of Information collected via certain automatic collection technologies.
+## 4\. HOW AND WHY WE MAY USE YOUR INFORMATION
 
-## 5\. HOW WE MAY USE AND DISCLOSE YOUR INFORMATION
+We may process your personal information (depending on your interaction with us) for a variety of reasons that are permitted under data protection laws and in accordance with this Privacy Policy, which may include the purposes described below. If we use your information for other purposes than those mentioned below, we will notify you of these purposes before using your information and obtain your consent where necessary. The legal bases outlined below are the legal bases upon which we will rely to process the personal data of end users located in the European Union (“EU”).
 
-We use the Information we collect to provide the Services (and all features of the Services) to you, including, without limitation, to (a) measure and improve the Services, (b) improve your experience with both online and off-line Services by delivering content that you will find relevant and interesting, including, without limitation, advertising and marketing messages, (c) allow you to comment on content, and (d) provide you with customer support and to respond to inquiries. Additionally, we may also use the Information we collect from and about you as follows:
+  * **To fulfill our contractual obligations under an existing agreement with you or in anticipation of entering into an agreement with you** , including:
+    * To review and process your application to become a member of ASCAP;
+    * To negotiate, enter into, manage and administer licenses with third parties for the licensing of the ASCAP repertory;
+    * To process, calculate and distribute royalty payments that result from the licensing of your musical compositions;
+    * To communicate and resolve issues with licensees, other collective rights management organizations, independent management entities, administrators and other service providers about the performance of your musical compositions, your ownership interests therein and royalties accrued in connection with the same;
+    * To fulfill orders and provide you with products and services you have requested and/or paid for; and
+    * To enforce your legal rights under an agreement.
+  * **To meet and fulfill our legitimate business interests** , including:
+    * To communicate with you about your account, your ASCAP membership, the Sites, the Services and ASCAP;
+    * To update the ACE Database;
+    * To manage our business needs, such as monitoring, analyzing, modifying and improving the Services’ and Sites’ functionality and performance;
+    * To prevent fraud and abuse on and unauthorized access to the Services and Sites;
+    * To provide you with information about products and services you have purchased or indicated your interest in;
+    * To determine which features and functionality of the Services users like best to help us operate, enhance and improve the Services;
+    * To expand ASCAP membership and the ASCAP repertory;
+    * To get to know our potential and existing members, rightsholders, clients and users; and
+    * To identify relevant content shared with potential and current members.
+  * **To comply with our regulatory and legal obligations or to enforce our legal rights** , including:
+    * To meet reporting requirements (e.g., filing tax forms);
+    * To protect, enforce, or defend the legal rights, privacy, safety, or property of ASCAP and our affiliates and their respective employees, agents and contractors (including enforcement of our agreements and our Terms of Use Agreement);
+    * To protect the safety, privacy and security of Users of the Services, members of ASCAP or the public;
+    * To comply with the law or legal process, and/or respond to requests from public and government authorities;
+    * To enforce your rights as a copyright holder; and
+    * To report data breaches or unauthorized access to the Services.
+  * **With your consent*:**
+    * To contact you about making donations to the ASCAP Foundation; 
+    * To provide you with mailings, newsletters and notices that you have asked to receive;
+    * To market to you by delivering marketing materials about the products and services of unaffiliated businesses; and
+    * To provide personalized services offered by us on third-party websites and online services.
 
-  * **To allow service providers, contractors and other third parties to assist us in providing and managing the Services:** ASCAP may make your Information available to certain third party service providers, such as contractors, agents or sponsors, who help us manage or provide the Services. 
-
-  * **To provide co-branded services and features:** We may offer co-branded services or features, such promotions, together with a third party (“ _Co-Branded Services_ ”). These Co-Branded Services may be hosted on the Services or the third party’s service. By virtue of these relationships, we may share the Information you submit in connection with the Co-Branded Service with the third party. The third party’s use of your Information will be governed by the third party’s privacy policy. 
-
-  * **To deliver relevant advertisements:** ASCAP and our service providers may use the Information we collect from and about you to deliver relevant advertisements to you when you use the Services or another service. 
-
-  * **To contact you:** ASCAP may periodically send promotional materials or notifications related to the Services and/or your User Account. 
-
-  * **To share with our affiliates:** ASCAP may share your Information with affiliates of ASCAP for the purposes described in this Privacy Policy. 
-
-  * **To share with business partners:** ASCAP may share your Information with business partners to permit them to send you marketing communications consistent with your choices and preferences. 
-
-  * **To disclose certain Information in User Content intended for disclosure:** The Services may provide you and other Users with an opportunity to participate in viewing communities and other message, comment and communication features on the Services, including, without limitation, in connection with Third Party Services, and may provide you with the opportunity to submit, post, publish and otherwise make available User Content to other Users of the Services or to the public. Certain Personal Information associated with the User Content, for example, your name or photograph, may be intended for disclosure. We will disclose any such Personal Information in connection with the display of, and other services relating to, such User Content. By submitting User Content on the Services, you affirmatively consent to the distribution of your Personal Information in the context of that User Content and have no expectation of privacy or confidentiality in connection therewith. You acknowledge that once submitted, posted, published and/or otherwise made available, User Content may be distributed outside the Services by users with access to such User Content and information, and that the Services do not completely control who views or distributes same. You may not be able to “undo” or “delete” any User Content. Accordingly, you should not submit, post, publish or otherwise make available any User Content you wish to remain private or confidential or which may contain any sensitive information. Please see the [**Terms of Use Agreement**](https://web.archive.org/about/legal-terms/terms-of-use.aspx) for more information regarding User Content and the terms and conditions associated therewith.
-
-  * **To provide certain information via the ACE Database:** When Users access and search the ACE Database, ASCAP may share and disclose certain Information you submit and we collect from you regarding musical works you author, publish or administer, including, without limitation, title, authorship, ownership, share and/or administration information.
-
-  * **To protect the rights of ASCAP and others:** ASCAP may disclose your Information where ASCAP has a good faith belief that such disclosure is necessary in order to: (i) protect, enforce, or defend the legal rights, privacy, safety, or property of ASCAP and our affiliates and their respective employees, agents and contractors (including enforcement of our agreements and our Terms of Use Agreement), (ii) protect the safety, privacy and security of Users of the Services or members of the public, (iii) protect against fraud or for risk management purposes, (iv) comply with the law or legal process, and/or (v) respond to requests from public and government authorities. 
-
-  * **To complete a merger or sale of assets:** If ASCAP sells all or part of its business or makes a sale or transfer of its assets or is otherwise involved in a merger or transfer of all or a material part of its business, ASCAP may transfer your Information to the party or parties involved in the transaction as part of that transaction.
-
-  * **In any other way we may describe when you provide the Information and/or receive your consent.**
 
 
+***You can withdraw your consent at any time by following the steps in Sections 6 and 7 in this Privacy Policy.**
+
+## 5\. HOW WE MAY SHARE YOUR INFORMATION
+
+We will not share your personal information with others except in the following circumstances: 
+
+  * Our Affiliated and Related Entities: We may disclose your personal information to our affiliated companies, including ASCAP Enterprises LLC ([www.songwize.com](http://www.songwize.com/)), as well as our related entities The ASCAP Foundation ([www.ascapfoundation.org](http://www.ascapfoundation.org/)) and The ASCAP Legislative Fund for the Arts, in each case, in connection with your membership and in order to provide you with tailored membership offerings, products, services and communications or in accordance with our internal policies or administrative or business practices.
+  * Collective Rights Management Organizations, Administrators, Licensees and Business Partners: We may disclose your personal information to third party collective rights management organizations, independent management entities, licensees, administrators, ASCAP Legislative Fund for the Arts and related business partners who assist us in enforcing and protecting your interests as a copyright holder, the licensing of your musical compositions and/or the collection of royalties as a result of such licensing activities.
+  * Publicly via the ACE Database: ASCAP will share and disclose certain information regarding the musical compositions you author, publish or administer in the ACE Database. Some of this information will be made public upon your disclosure or uploading of such information.
+  * Third Party Service Providers: We may share information with other carefully selected third party operators, developers, merchants, website hosts, service providers and participants to your transactions and the licensing of your musical compositions for the purpose of (a) assisting with facilitating transactions and licenses on or through the Services, (b) sending you information about our products, offerings and services, (c) providing information technology and member service assistance, and (d) providing, offering, supporting, administering, maintaining and enabling the Services (including providing a full range of content, activities, services, widgets, features and functions offered on or in connection with or to enable the Services). They will only be given limited access to your personal data as is reasonably necessary to deliver the services they are engaged to provide. These third party service providers are also contractually obligated to collect and use any personal information collected from you on our behalf in a manner that is consistent with this Privacy Policy. We request that service providers maintain commercially reasonable standards of security and confidentiality and must agree to keep such information secure and confidential in line with this Privacy Policy. In addition to the foregoing, please note that the third parties mentioned above will in many cases have their own statement regarding the processing of your personal information. We strongly advise you to carefully review these statements. We are not responsible for the actions of service providers or other third parties, nor are we responsible for any additional information you provide directly to any third parties. Some information that we provide to third party service providers may be in an aggregated and anonymized form and will not personally identify you.
+  * Corporate Transactions or Events: We may disclose your personal information in connection with a merger, sale of substantially all of our assets, transfer, corporate reorganization or other disposition of our business.
+  * Pursuant to Law, Rule or Regulation: We may share or disclose your information with other parties as we deem necessary or appropriate under applicable law, rule or regulation. Examples of these purposes include: to respond to requests from public, governmental and regulatory authorities, to comply with court orders, to obtain legal remedies or limit our damages, to enforce this Privacy Policy or the Terms of Use Agreement, and to protect the rights, safety and/or property of you, ASCAP members, our employees or others.
+  * To Fulfill Your Requests: If you elect to use certain features or functions including sharing, messaging, posting, responding to surveys, making donations, and applying for contests and sweepstakes available on the Sites or via the Services, we may use your personal information to fulfill your request to participate in such activities and/or to share content on Third Party Social Media Services.  
+  * With Your Consent: If we do not process your personal information in accordance with our legitimate interest or based on a contractual obligation we have with you, we may share or disclose your personal information if you provide us with your affirmative consent.
 
 
-Notwithstanding the foregoing, we may use any and all Non-Personal Information collected from or about you for any reasonable purpose that is necessary to provide the Services or other related product and/or service requested. You can choose to opt-out of certain such uses as described in _Section 6_ and _Section 7_ below.
 
 ## 6\. USER CHOICE AND ACCESS
 
-We strive to provide you with as many choices as possible to access, review, correct, update, suppress or otherwise limit our use of the Information you have previously provided directly to us, including:
+We strive to provide you with as many choices as possible to access, review, correct, update, suppress or otherwise limit our use of the information you have provided or asked a third party to us, including:
 
-  * **User Account Settings** : If you have registered for a User Account, you may have the ability to access and use certain features and functionality that provide you with the ability to set certain privacy, permission and User Account options on the Services that, among other things: (a) allow you to control the visibility of your User profile and User Content with the public and/or other Users of the Services, (b) limit the provision of certain Information to us, (c) limit our ability to take certain actions that may disclose your Information, and/or (d) update and revise certain Information you have previously provided. Please be aware that that if you limit the collection of certain Information, you may not be able to use all of the features and functionality of the Services.
-
-  * **Email:** You may also contact us by email at [**WebSupport@ascap.com**](mailto:WebSupport@ascap.com). In your request, please include your email address, name, address and telephone number and specify clearly what information you would like to access, change, update or suppress. 
-
-  * **Contact Us Page:** You may also contact us via our online contact and support page located at [**www.ascap.com/contact**](https://web.archive.org/contact.aspx) **.**
-
+  * **User Account Settings** : If you have registered for a User Account, you may have the ability to access and use certain features and functionality that provide you with the ability to set certain privacy, permission and User Account options on the Services that, among other things: (a) allow you to control the visibility of or modify access controls to your User profile and User Content with the public and/or other Users of the Services; (b) limit the amount of information you share with us; (c) limit our ability to take certain actions that may disclose your information; and/or (d) update and revise certain information you have previously provided. Please be aware that that if you limit the collection of certain information, you may not be able to use all of the features and functionality of the Services.
+  * **Contact Us Page** : You may also contact us via our online contact and support page located at [www.ascap.com/contact-us/public-wit](http://www.ascap.com/contact-us/public-wit).
 
 
 
 Additionally, you may opt-out of:
 
-  * **Receiving electronic communications from us** : If you no longer want to receive marketing-related emails from us on a going-forward basis, you may opt-out of receiving these marketing-related emails by (a) changing or editing your preferences of your User Account using the User Account settings (as described above), (b) contacting us via the procedures set forth above, and/or (c) using the opt-out mechanism that is contained in each such email. Please note that there are certain service notification emails that you may not opt-out of, such as notifications of changes to the Services or policies.
+  * **Receiving electronic communications from us:** If you no longer want to receive marketing-related emails from us on a going-forward basis, you may opt-out of receiving these marketing-related emails by (a) changing or editing your preferences of your User Account using the User Account settings (as described above), (b) contacting us via the procedures set forth above, and/or (c) using the opt-out mechanism that is contained in each such email. Please note that there are certain service notification emails that you may not opt-out of, such as notifications of changes to the Services or policies.
 
-  * **Our sharing of your Personal Information with third parties for their marketing purposes** : You may request that we do not share your Personal Information on a going-forward basis with third parties for their direct marketing purposes by contacting us via the procedures set forth above.
-
-
-
-
-We will try to comply with your request(s) as soon as reasonably practicable. 
-
-## 7\. OPTING-OUT OF USE OF CERTAIN INFORMATION THAT MAY BE COLLECTED BY TRACKING TECHNOLOGIES
-
-  * **Tracking Technologies Set by Third Party Advertising Service Providers and Similar Third Parties:** For more information about Third Party Advertising Service Providers and similar entities that use tracking technologies, see [**www.aboutads.info/consumers**](http://www.aboutads.info/consumers), and to opt-out of such Third Party Advertising Service Providers’ advertising practices, go to [**www.aboutads.info/choices**](http://www.aboutads.info/choices).
-
-  * **Tracking Technologies That We Use and Set on the Services:** Most browsers are initially set to accept cookies (other than Flash cookies) and allow local storage, but you should be able to change your settings to notify you when a cookie is being set or updated, local storage is being used and/or to block cookies and/or the use of local storage altogether. Please consult the "Help" section of your browser for more information.
-
-  * **Flash Cookies:** Users can manage the use of Flash technologies, with the Flash management tools available at Adobe's website, see [**http://www.adobe.com/products/flashplayer/security/privacy_policy/faq.html**](http://www.adobe.com/products/flashplayer/security/privacy_policy/faq.html).
-
-  * **Do-Not-Track Signals:** Certain browsers transmit "do-not-track signals” to the websites in which such browsers communicate with; _however_ , this feature, and how it is used and activated, varies from browser to browser. Therefore, it is not clear whether the signals are intentionally transmitted by a User or whether a User is even aware of this. Despite current efforts, there is still disagreement amongst leading Internet standards organizations, industry groups, technology companies and regulators, concerning what, if anything, websites should do when they receive such signals and no standard has been adopted to date. ASCAP takes privacy and security very seriously. With respect to “do not track signals,” we currently do not take action in response to these signals, but, if a standard is established and accepted, we may reassess how to respond to these signals.
+  * **Our sharing of your personal information with third parties for their marketing purposes:** When we have previously requested your consent, you may request to withdraw your consent and ask that we no longer share your personal information with third parties for their direct marketing purposes by contacting us via the procedures set forth above. 
 
 
 
 
-Please note that by blocking any or all cookies you may not have access to certain features, content and/or other personalization available through the Services.
+**We will try to comply with your request(s) as soon as reasonably practicable, but no later than within the timeframe required under applicable law.**
+
+**If you are an EU citizen or reside in the EU, you may have certain rights with respect to the personal information you provided to us. To the extent permitted by applicable data protection laws, you may:**
+
+  * Access or modify your personal information;
+  * Object, on grounds relating to your particular situation, at any time to the processing of your personal information if the legal ground we are relying on is our legitimate interest or in the public interest;
+  * Request that your personal information be corrected if such personal information proves inaccurate or incomplete, be erased if it is no longer necessary for the purposes for which it was processed, you have withdrawn consent to, or object to, the processing of such personal information and we meet no other legitimate basis for such processing or it has been unlawfully processed;
+  * Restrict the processing of your personal information if you contest its accuracy or the lawfulness of our processing, we no longer need it but you need it for a legal claim or you have objected to its processing and await verification of our legitimate grounds for processing it;
+  * Ask to stop receiving our marketing communications. If you opt out of marketing emails, you will continue to receive messages from us about your relationship with us where permitted by law;
+  * Under certain circumstances, have your personal information transferred to another company;
+  * Withdraw any consents that you have previously provided to allow us to process your personal information; or
+  * Lodge a complaint to the relevant data protection authority.
+
+
+
+If you wish to exercise any of these rights please submit a data subject request message [here](http://www.ascap.com/contact-us/public-wit). Please note that some requests may require you to verify your identity.
+
+## 7\. HOW DO WE USE TRACKING TECHNOLOGIES
+
+When you visit our Sites, use our Services, or visit a third-party website for which we provide online services, we and our business partners and vendors may use cookies and other tracking technologies (collectively, “Tracking Technologies”) to recognize you as a repeat visitor and to customize your online experiences, the Services you use, and other online content and advertising, measure the effectiveness of promotions and perform analytics, and to mitigate risk, prevent potential fraud, and promote trust and safety across the Sites and the Services. Certain aspects and features of our Services and Sites are only available through the use of Tracking Technologies, so if you choose to disable or decline Tracking Technologies, your use of the Sites and Services may be limited or not possible. To learn more about how we use and how you may adjust and disable Tracking Technologies please submit a request at [www.ascap.com/contact-us/public-wit](http://www.ascap.com/contact-us/public-wit). 
 
 ## 8\. DATA COLLECTION FROM CHILDREN
 
-We do not knowingly collect personal information from children under the age of 13. For information from the U.S. Federal Trade Commission about protecting children's privacy online, please visit [**http://www.onguardonline.gov/articles/0031-protecting-your-childs-privacy-online**](http://www.onguardonline.gov/articles/0031-protecting-your-childs-privacy-online).
+Our Sites and Services are not directed to children under the age of 13 (if you are located in the United States) and under the age of 16 (if you are located outside the United States). We do not knowingly collect information, including personal information from children or other individuals who are not legally able to use our Sites and/or Services. If we obtain actual knowledge that we have collected personal information from someone under the applicable age listed above, we will promptly delete it, unless we are legally obligated to retain such data. If you believe that we have mistakenly or unintentionally collected information from someone under the applicable age listed above, please submit a request at [www.ascap.com/contact-us/public-wit](http://www.ascap.com/contact-us/public-wit). For users in the United States, please also visit <https://www.consumer.ftc.gov/articles/0031-protecting-your-childs-privacy-online> for information from the Federal Trade Commission about protecting children’s privacy online.
 
 ## 9\. SECURITY
 
-While no data transmission over the Internet is 100% secure from intrusion, we maintain commercially reasonable physical, electronic and procedural safeguards to protect your Information. However, regardless of our efforts and the Device you use to access the Services, it is possible that third parties may unlawfully intercept or access transmissions or private communications over an unsecured transmission. We also limit access to the Services by our own employees, contractors, service providers and those individuals who are authorized for the proper handling of such information. We request that our third party contractors and service providers follow similar standards of security and confidentiality. However, regardless of our efforts, no one can guarantee the complete safety of your Information. 
+While no data transmission over the Internet is 100% secure from intrusion, we maintain and have implemented physical, electronic, technical and procedural security policies and measures to protect the personal information that we collect, use and/or store, which are consistent with applicable privacy and security laws. These policies and measures are designed to prevent against loss, misuse, unauthorized access, modification and disclosure and unlawful destruction of your personal information. However, regardless of our efforts and the Device you use to access the Services, it is possible that third parties may unlawfully intercept or access transmissions or private communications. We also limit access to the Services by our own employees, contractors, service providers and those individuals who are authorized for the proper handling of such information. We request that our third party contractors and service providers follow similar standards of security and confidentiality. However, regardless of our efforts, no one can guarantee the complete safety of your information.
+
+While we are dedicated to securing your personal information and our systems and Services, you are responsible for securing and maintaining the privacy of your credentials ( _e.g._ , user name, password or account information) and verifying that personal information we maintain about you is accurate and current. We are not responsible for protecting any personal information that we share with a third-party based on an account connection that you have authorized.
 
 ## 10\. DATA RETENTION
 
-We will retain your Information for the period necessary to fulfill the purposes outlined in this Privacy Policy unless a longer retention period is required or allowed by law. Please be aware that even after you cancel your User Account, copies of certain Information from your User Account may remain viewable under certain circumstances. Because of the nature of caching technology, your User Account may not be instantly inaccessible to others. For fraud detection or to comply with applicable law or our internal security policies, we may also retain backup information related to your User Account on our servers for some time after cancelation. Further, you acknowledge that it is not always possible to completely remove or delete all of your Information due to technical constraints, contractual, financial or legal requirements. 
+We access, retain, store and use personal information for the least amount of time necessary pursuant to our relationship with you ( _e.g._ , to provide you with or access to our products and services), in accordance with our data retention policies and applicable law. We do not collect more personal information than is necessary to fulfill our obligations to you or at law or for purposes stated in this Privacy Policy. Please be aware that even after you cancel your User Account, copies of certain information from your User Account may remain viewable under certain circumstances. For fraud detection or to comply with applicable law or our internal security policies, we may also retain backup information related to your User Account on our servers for some time after cancelation. Further, you acknowledge that it is not always possible to completely remove or delete all of your information due to technical constraints, contractual, financial or legal requirements. 
 
 ## 11\. YOUR CALIFORNIA PRIVACY RIGHTS
 
-If you are a resident of the State of California, we provide you with information above on how to exercise your choice options such as your right to opt-out or opt-in for use of your Personal Information by third parties for marketing purposes. Therefore, pursuant to the California Civil Code, we are not required to maintain or disclose a list of the third parties that received your Personal Information for marketing purposes during the preceding year. If you are a California resident and wish to request information about how to exercise your third party disclosure choices or other rights afforded under the law of the State of California, please send a request by email to our Privacy Administrator at [**WebSupport@ascap.com**](mailto:WebSupport@ascap.com), contact us via our online contact and support page located at [**www.ascap.com/contact**](https://web.archive.org/contact.aspx), or reach out to us by postal mail to the address set forth in _Section 15_ below. All requests must be labeled “Your California Privacy Rights” in the email subject line or on the envelope or post card. For all requests, please clearly state that the request is related to “Your California Privacy Rights,” include your name, street address, city, state, zip code and e-mail address (your street address is optional if you wish to receive a response to your request via email) and indicate your preference on how our response to your request should be sent (email or postal mail). We will not accept requests via the telephone or by fax. We are not responsible for notices that are not labeled or sent properly or that do not have complete information.
+If you are a resident of the State of California, we provide you with information above on how to exercise your choice options such as your right to opt-out or opt-in for use of your personal information by third parties for marketing purposes. Therefore, pursuant to the California Civil Code, we are not required to maintain or disclose a list of the third parties that received your personal information for marketing purposes during the preceding year. If you are a California resident and wish to request information about how to exercise your third party disclosure choices or other rights afforded under the law of the State of California, please contact us via our online contact and support page located at [www.ascap.com/contact-us/public-wit](http://www.ascap.com/contact-us/public-wit), or reach out to us by postal mail to the address set forth in Section 15 below. All requests must be labeled “Your California Privacy Rights” in the topic line or on the envelope or post card. For all requests, please clearly state that the request is related to “Your California Privacy Rights,” include your name, street address, city, state, zip code and e-mail address (your street address is optional if you wish to receive a response to your request via email) and indicate your preference on how our response to your request should be sent (email or postal mail). We will not accept requests via the telephone or by fax. We are not responsible for notices that are not labeled or sent properly or that do not have complete information.
 
 ## 12\. LINKED SERVICES
 
-The Services may be linked to other sites and platforms operated by other companies, including, without limitation, Third Party Services. The Services may also feature advertisements from other third parties. ASCAP is not responsible for the privacy practices of such other sites and platforms or other services operated by third parties that are linked to or integrated with the Services or for the privacy practices of Third Party Advertising Service Providers. Once you leave the Services via such a link, access a third party application or click on an advertisement, you should check the applicable privacy policy of the third party to determine, among other things, how it will handle any personally identifiable or other information that it may collect from you.
+The Services may be linked to other sites, widgets and platforms or embedded within the Services that are operated by other companies, including, without limitation, Third Party Services. ASCAP is not responsible for the privacy practices of such other sites, widgets and platforms or other services operated by third parties that are linked to, embedded within or integrated with the Services or for the privacy practices of third party service providers. Once you leave the Services via such a link, access a third party application, widget or platform, you should check the applicable privacy policy of the third party to determine, among other things, how it will handle any personally identifiable or other information that it may collect from you.
 
 ## 13\. CHANGES TO OUR PRIVACY POLICY
 
-ASCAP may modify this Privacy Policy from time to time to reflect industry initiatives, changes in the law or technology, or changes in our practices regarding information collection and use. Please look at the Effective Date at the top of this Privacy Policy to see when this Privacy Policy was last revised. Any changes to this Privacy Policy will become effective when we post the revised Privacy Policy on the Services. If we make material changes to this Privacy Policy that expand our rights to use the Personal Information we have already collected from you, we will notify you and provide you with a choice about our future use of such Personal Information.
+From time to time, we may modify this Privacy Policy to reflect industry initiatives, third party requirements or changes in the law, technology, our information collection and use practices or the features and functionality of the Services, and such modifications shall be effective upon posting. When we change this Privacy Policy in a material way, a notice will be posted on our website along with the updated Privacy Policy. Your continued use of the Services after we post a revised Privacy Policy (and, where appropriate, notify you of same) signifies your acceptance of the revised Privacy Policy. It is therefore important that you review this Privacy Policy regularly to ensure you are updated as to any changes. We may continue to process your information based on our legitimate interests or in order to fulfill our obligations under a contract and/or may also seek your affirmative consent to the terms of the updated Privacy Policy.  For example, we may ask for your consent before implementing new uses of the personal information that we’ve already collected from you based on such consent, if such new use was not addressed by the privacy policy under which such information was collected or if our legal basis for processing such information changes.
 
-## 14\. **International Visitors**
+## 14\. INTERNATIONAL VISITORS
 
- **
+Our operations are supported by a network of computers, cloud-based servers, and other infrastructure and information technology, including, but not limited to, third-party service providers. We and some of our affiliates, servers, vendors and service providers may not be located in your jurisdiction and may also be located outside of the European Economic Area and Switzerland. Further, the Services are hosted in and managed from the United States of America (“U.S.”). If you visit the Services from a location outside the U.S., please be advised that any information you provide may be processed in and/or transferred to or from the U.S. or other jurisdictions, where privacy protections may not be as comprehensive as those in your jurisdiction. If you are an EU citizen or resident in the EU, we will transfer your personal information to the U.S. in accordance with EU data protection law requirements by using standard contractual clauses that have been approved by the European Commission or other appropriate means. 
 
-The Services are hosted in and managed from the United States of America (“ _U.S._ ”). If you visit the Services from a location outside the U.S., please be advised that any Information you provide may be processed in and/or transferred to or from the U.S. or other jurisdictions, where privacy protections may not be as comprehensive as those in your jurisdiction. We will only process your Information in accordance with this Privacy Policy. By using the Services, you affirmatively consent to this transfer and to the use of your Information as described herein. 
+Please note that such transfers may also be necessary in order to perform our obligations under a contract with you, to fulfill a request made by you, to meet a legal or regulatory obligation and/or through obtaining you express consent. If you make transactions with parties outside the European Economic Area or Switzerland or connect our Service with platforms, such as Facebook, outside the European Economic Area or Switzerland, we are required to transfer your Personal information with those parties in order to provide the requested Service to you. If you wish to gain more information about such transfers, please submit a request at [www.ascap.com/contact-us/public-wit](http://www.ascap.com/contact-us/public-wit).
 
-**
+## 15\. CONTACT US 
 
-## **15.** **CONTACT US**
+Although we urge you to contact us to find a solution for every concern you may have, you always have the right to lodge a complaint with your competent data protection authority.  If you have questions about this Privacy Policy, please contact us as follows:
 
-If you have questions about this Privacy Policy, please contact us at:
-
-**Email:** [**WebSupport@ascap.com**](mailto:WebSupport@ascap.com)
+**Submit a Request:** [www.ascap.com/contact-us/public-wit](http://www.ascap.com/contact-us/public-wit)
 
 **Mail:**
 
 ASCAP  
 Attention: Privacy Administrator  
-1900 Broadway  
-New York, New York 10023
-
-**Contact Us Page** : [**www.ascap.com/contact**](https://web.archive.org/contact.aspx)
+250 West 57th Street  
+New York, NY 10107
 
 This Privacy Policy was last modified on the date indicated above and is effective immediately.
