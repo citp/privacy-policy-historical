@@ -1,176 +1,102 @@
-> *The following text is extracted and transformed from the bna.com privacy policy that was archived on 2017-01-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170126062631id_/https%3A//www.bna.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bna.com privacy policy that was archived on 2019-03-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190330155518id_/https%3A//www.bna.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Bloomberg BNA
 
-[ ](https://web.archive.org/)
+**Privacy Policy**
 
-[](https://web.archive.org/)
+Last Updated:  May 25, 2018
 
-SIGN IN TO YOUR SUBSCRIPTIONS/ACCOUNT
+The Bureau of National Affairs, Inc. (“BNA”) and certain of its affiliates and subsidiaries, including BLAW LLC, BGOV LLC, Tax Management Inc., and Kennedy Information LLC (together, “Bloomberg BNA”) respect the privacy rights of our users and are strongly committed to protecting your privacy. This Privacy Policy applies to personal information collected through this web site (“this Site”) and other Bloomberg BNA web sites and products or services provided by Bloomberg BNA, including by providing a link to this Privacy Policy or otherwise displaying these terms.  Some of these sites include Bloomberg Law, Bloomberg Tax, Bloomberg Environment, Bloomberg Government, Bloomberg Tax Technology, Big Law Business, and Green Markets.
 
-Updated December 14, 2016
+## Personal Information We Collect
 
-1. **  Introduction**. Bloomberg BNA publishes its information services in print and various electronic media, including web-based formats. We are continually adapting to changes in technology to bring you the information you rely on faster and more efficiently than ever before.
+Bloomberg BNA, or where relevant a designated service provider, collects personal information through this Site, such as during registration, when you request certain services or products, or submit information to enter a sweepstakes, contest, or other promotion, or complete a survey or poll, which may include your name, phone number, email address, etc. If you do not provide certain personal information, not all functionality on this Site will be available.
 
-Bloomberg BNA publishes this Privacy Policy to reaffirm our commitment to maintaining the privacy of our customers in the electronic environment and inform you of our practices concerning the collection and use of information you provide us.
+Do not provide information about others unless you are authorized to do so and consent to have all information used, disclosed, and transferred in accordance with this Privacy Policy. By submitting the information about others, you represent and warrant that you are authorized to do so and that you have received authorization from the person about whom you are providing the information and that person has consented to have all information used, disclosed, and transferred in accordance with this Privacy Policy. 
 
-In this Privacy Policy you will find a description of the policies and procedures that make this Privacy Policy work for them. We have included in this Privacy Policy an explanation of our information practices, such as:
+Bloomberg BNA or a designated service provider may use “cookies,” web server logs, web beacons, or other electronic tools to collect information about you, such as your IP address, browser type, language, operating system, computer platform, and the state or country from which you accessed this Site. Bloomberg BNA or a designated service provider may also use cookies, web server logs, web beacons, or other electronic tools to collect and compile statistical and other information about your use of this Site and other websites and the services provided on this Site, such as the web pages visited, the date and the time of your visit, the web sites you visited immediately before and after visiting this Site, the number of links you click within this Site, the functions you use on this Site, the databases you view and the searches you request on this Site, the data you save on or download from this Site, etc.
 
-  * What information we collect
-  * How we collect the information
-  * How we use the information
-  * How we provide choice to Users about how we use the information we collect
-  * Whether we disclose the information we collect to third parties
-  * Whether third parties collect information through our Products
+A cookie is a small text file placed on your computer. Most browsers are set to accept cookies by default. If you prefer, you can usually set your browser to disable cookies, or to alert you when cookies are being sent. The help function on most browsers contains instructions on how to set your browser to notify you before accepting cookies or to disable cookies entirely. However, note that this Site will not function properly if you disable cookies.
 
+## How We Use and Disclose Your Personal Information
 
+Bloomberg BNA uses this information for carefully considered business purposes which also benefit our customers and which include some or all of the following:
 
-Bloomberg BNA reserves the right to make changes to any part of this Privacy Policy in its sole discretion, at any time and without prior notice. Continued use of any Product following any such change will constitute acceptance of those changes. If we decide to revise this Privacy Policy, we will post changes in the Products so Users are aware of our information practices. To continue to stay informed about this important issue, please check this Privacy Policy frequently.
-
-This Privacy Policy applies to all Customers and Users (collectively referred to as “Users”). In addition, this Privacy Policy applies to all Products, with the exception of Bloomberg Law®, which is governed by the [Bloomberg Law Online Privacy Policy](http://www2.bloomberglaw.com/public/desktop/document/Privacy_Policy).
-
-To make this Privacy Policy as easy to read as possible, Bloomberg BNA has simplified certain sentences by substituting defined terms for certain concepts. Accordingly, the capitalized terms used throughout this Privacy Policy shall have the meanings assigned to such terms in Section 9 (“Definitions”) of this Privacy Policy.
-
-2.  **Bloomberg BNA's Privacy Pledge**. Bloomberg BNA makes the following pledge to you:
-
-  * Bloomberg BNA is committed to protecting the privacy of Users at all times.
-  * Bloomberg BNA only shares Customer Information and other Personally Identifiable Information with third parties as described in Sections 5 and 7 in this Privacy Policy.
-  * Bloomberg BNA maintains security standards and procedures designed to protect Customer Information and other Personally Identifiable Information. We will continue to test and update our technology to improve our ability to protect Customer Information and other Personally Identifiable Information.
+  * to provide our products and services
+  * to communicate with you
+  * to help Bloomberg BNA improve our products and services and develop new products and services
+  * to provide support for our products and services, and for Bloomberg BNA internal quality control purposes
+  * to provide you with offers and promotions about services and products of Bloomberg BNA or of other parties that may be of interest to you
+  * to enhance your experience with this Site, including to save your preferences and login information
+  * to analyze web site usage and analyze use of the Site
+  * to protect the interests, rights, safety, or property of Bloomberg BNA or others and to monitor compliance with and enforce any terms of any agreement with Bloomberg BNA
+  * to operate our services, products and systems properly.
 
 
 
-3.  **Consent To Use Information**. By using any Product and/or by affirmatively accepting the License Agreement or this Privacy Policy, each User consents to the collection and use of all information that the User provides to Bloomberg BNA, all information that is provided to Bloomberg BNA on behalf of that User, and all information that Bloomberg BNA collects based on that User's use of the Products, including, without limitation, all Customer Information and other Personally Identifiable Information.
+Some of our Sites have portions dedicated to a shared work space into which you may input your work product. Bloomberg BNA does not use or disclose any contents of the work product that you input into the shared work space on this Site except to third parties enabled by you and Bloomberg BNA on your behalf or to the third party that authorized you to use this Site.
 
-You may instruct Bloomberg BNA at any time not to use your personal information collected in order to provide you with special offers or promotions by contacting   [bloombergbnaprivacy@bna.com](mailto:bloombergbnaprivacy@bna.com). You can also update your settings for receiving offers and promotions via e-mail by clicking  [here](http://about.bna.com/Preferences).
+You may instruct Bloomberg BNA at any time not to provide you with offers and promotions using your personal information collected in connection with the product you requested by [clicking here](https://go.bloombergbna.com/Preferences). You can also update your settings for receiving offers and promotions from Bloomberg BNA’s affiliates, including Bloomberg L.P. and Bloomberg Finance L.P., by [clicking here](http://www.bloomberg.com/email-settings/).  Please also note that these processes may take some time to complete, consistent with applicable law. Please note that if you exercise choice in this manner, you will continue to receive communications concerning your account and products and services you requested, and in response to any requests for information by you. 
 
-4.  **Our Policies Regarding the Collection of Information**. At Bloomberg BNA, our goal is to provide Users with quality information, products, and services. We are also committed to providing Users with responsive, personalized service, and keeping Users informed about new information, products, and services that may be of immediate interest to Users or that can help Users derive the greatest value from the Products.
+To assist us with the uses described in this privacy policy, information we or our designated service providers have collected about you through this Site, including your use of this Site, may be aggregated, analyzed or enhanced with personal or other information about you that we have from other sources.
 
-Customer Information is at the heart of our ability to provide superior service to Users. We describe in this Privacy Policy the types of Customer Information and other Personally Identifiable Information that we collect, and how and why we may share that Customer Information and other Personally Identifiable Information with others.
+Bloomberg BNA may disclose your personal information to our affiliates (including affiliated websites and other products under common ownership or control) and our service providers, including for the purposes set out in this Privacy Policy, and to the party who authorized your use of this Site, such as your employer. Bloomberg BNA may disclose to other third parties, including other users of this Site, information about your use of this Site and on this Site or other websites, but only in an aggregated and unattributed manner. Bloomberg BNA may also share your personal information collected in connection with the product you requested with a sponsor or other third party (“Third-Party Providers”) that provides you with offers or promotions that may be of interest to you. You may instruct Bloomberg BNA at any time not to share your personal information collected in connection with the product you requested with such Third Party Providers by [clicking here](https://go.bloombergbna.com/Preferences).  Please note that (i) this process may take some time to complete, consistent with applicable law; and (ii) even after such process is completed, your personal information may continue to be shared with our affiliates (including affiliated websites and other products under common ownership or control) and designated service providers. 
 
-A visitor who browses the Bloomberg BNA Site is not required to reveal any Personally Identifiable Information, such as name, address, or telephone number, unless subscribing to a Product. Nor is such information collected passively by electronic means. Bloomberg BNA Web servers collect other information such as the make of a visitor's browser software and the Internet domain name of the location from which the visitor enters. This information helps us diagnose technical problems and manage our Sites by tracking user interests.
+Bloomberg BNA may also disclose your personal information to unaffiliated third parties if we believe in good faith that such disclosure is necessary to: (a) comply with any applicable law, rule or regulation or in response to a subpoena, court order, or other legal process; (b) protect the interests, rights, safety, or property of Bloomberg BNA or others; (c) monitor compliance with and enforce any terms of service on this Site; (d) provide our services and products (including allowing a purchaser of Bloomberg BNA to continue to serve you); (e) perform other activities related to such services and products, including billing and collection; (f) provide you with offers or promotions from Bloomberg BNA; or (g) operate the systems that provide our services and products properly. In such an event, Bloomberg BNA will use reasonable efforts to do the following:
 
-The primary reason that we collect and maintain Customer Information and other Personally Identifiable Information is to serve Users and administer our customer relationships.
-
-Bloomberg BNA may collect Customer Information and other Personally Identifiable Information from a variety of sources, such as the following:
-
-  * Information Users provide to us, such as information Users provide to us in the registration process.
-  * Information we receive from a Customer that purchases Subscriptions for Users, such as registration information.
-  * Information about transactions by Users as part of the Products or other User experiences with Bloomberg BNA, such as the information we receive when a User submits a question through a search box in a Product.
+  * Give the User reasonably prompt written notice of such requirement so that the User has an opportunity to comment thereon or object thereto and to preserve the confidential nature of the Customer Information and Personally Identifiable Information that Bloomberg BNA is required to disclose.
+  * At the User's expense, use commercially reasonable efforts to cooperate with any of the User's efforts to preserve the confidential nature of the Customer Information and Personally Identifiable Information that Bloomberg BNA is required to disclose.
 
 
 
-We collect Customer Information and other Personally Identifiable Information in a number of ways, such as the following:
+Please note, use and disclosure of personal information about former customers is governed by this Privacy Policy in the same manner as current customers. However, after the relationship ends, we may use such customer personal information less and less over time. Any personal information contained in Dockets will be treated consistent with the terms of this Privacy Policy.  
 
-  * Registration Process: 
-    * In order to use our Products, each User may be asked to complete a registration process, which requires providing certain registration information to Bloomberg BNA.
-  * Credit Cards: 
-    * We collect credit card information for billing purposes. For convenience of our customers, we do not store, use, or share credit card information for any other purpose
-  * Log Files: 
-    * We track information about each User's usage of the Products in log files. We use this information as follows: 
-      * To analyze trends
-      * To administer the Products
-      * To track statistical information about how Users use the Products
-      * To gather broad demographic information for aggregate use
-    * Bloomberg BNA does link information regarding a User's usage of the Products to the User's Personally Identifiable Information.
-  * Cookies: 
-    * Use of Cookies Generally: 
-      * A cookie is a piece of data stored by each User's browser that contains information about the user of a computer. Cookies help websites recognize return visitors. When you return to a website you visited before and that website uses cookies, your browser gives this data back to the website’s server.
-      * Contrary to reports about cookies and online privacy, cookies do not contain viruses and most cannot reveal any Personally Identifiable Information about you unless you willingly provide it as a user on a website.
-      * You will find that cookies are an industry standard and are used at most major websites in much the same way we use them here at Bloomberg BNA. You can learn most everything there is to know about cookies at [www.cookiecentral.com](http://www.cookiecentral.com/ "Cookie Central"). We also encourage you to read the privacy policies of all websites you visit before you accept cookies from these websites.
-    * Your Consent: 
-      * By continuing to use the Site, you are agreeing to our placing cookies on your computer for the purposes set forth here.
-      * If you do not wish to accept cookies in connection with your use of the Site, you must stop using the Site.
-      * If you wish to withdraw your consent at any time, you will need to delete your cookies using your Internet browser settings and stop using the Site.
-    * Bloomberg BNA's Use of Cookies and Other Electronic Tools:
-      * Bloomberg BNA and the parties with whom we work (e.g., service providers, business partners and marketing services) may place, view, and/or use “cookies”, Web server logs, Web beacons, or other electronic tools to collect statistical and other information about your use of this Site and other Sites.
-      * This information may include information about the IP address of your computer, browser type, language, operating system, your mobile device, geo-location data, the state or country from which you accessed this Site, the Web pages visited, the date and the time of a visit, the Sites you visited immediately before and after visiting this Site, the number of links you click within this Site, the functions you use on this Site, the databases you view and the searches you request on this Site, the data you save on or download from this Site and the Products you interact with via this Site.
-      * Bloomberg BNA and the parties with whom we work may use the information collected for various reasons on behalf of Bloomberg BNA, including for research, analysis, to better serve visitors to this Site (such as by enabling log-in, providing access to certain sections of this Site, providing customized or personalized content, enhancing your experience with our Products, or presenting online marketing on this Site, other Sites tailored to your interests, or via e-mail or social media), and to compile aggregate and anonymous information about usage of this Site and other Sites, other statistics, etc. However, if you have deleted and disabled cookies, these uses will not be possible to the extent they are based on cookie information.
-      * To assist us with the uses described in this Privacy Policy, information collected about your use of this Site or other sites may be combined with personal or other information about you from other online or offline sources. If you prefer that we not combine non-personal information that has been collected, through cookies, about your use of this Site or other sites with personal or other information about you, then please delete and disable cookies for each browser, on each computer you use to surf the Web.
-    * Disabling Cookies: 
-      * You can set your browser to reject or to accept cookies. You have the option to reject cookies when you are just browsing the Web and accept cookies when you want to use the Products.
-      * Most browsers are set to accept cookies by default. If you prefer, you can usually set your browser to disable cookies, or to alert you when cookies are being sent.
-      * Likewise, most mobile devices allow you to disable the ability for geo-location information to be collected from your mobile device. The help function on most browsers and mobile devices contains instructions on how to set your browser to notify you before accepting cookies, disable cookies entirely, or disable the collection of geo-location data.
-      * You need to set each browser, on each device you use to surf the Web. Thus, if you use multiple browsers (e.g., Chrome, Safari, Internet Explorer, Firefox, etc.), you should repeat this procedure with each one.
-      * Similarly, if you connect to the Web from multiple devices (e.g., work and home), you need to set each browser on each device.
-      * However, if you disable cookies or refuse to accept a request to place a cookie, it is possible that some parts of this Site, such as product features, personalized content and certain areas of the Site for which you need to log in, will not function properly. For example, if a User rejects any cookie offered by a Product, that User may not use the features of the Product.
-  * Advertisements: 
-    * Bloomberg BNA, its service providers, or third-party advertisers or their advertising servers (who may have their own privacy policies) may also place or recognize unique cookies on your computer or use web beacons or other electronic tools in order to help display advertisements that you see on this Site or on other sites.
-    * Information about your visits to, and activity on, this Site and other sites, an IP address, the number of times you have viewed an advertisement, and other such usage information is used, alone or in combination with other information, to display on your device screen advertisements that may be of particular interest to you.
-  * Surveys and Promotional Activities: 
-    * From time to time Bloomberg BNA may request information from Users via voluntary participation in promotional or market research activities.
-    * The information that we request may include contact information (such as name and business address), and demographic information (such as zip code and age level).
+The collection, further use, and/or disclosure of your information by Third-party Providers or by other third parties is not the responsibility of Bloomberg BNA.  Rather, such collection, use, and/or disclosure is governed by the third parties’ privacy policies.
 
+## Accuracy, Security, and Retention of Your Personal Information
 
+Any of your personal information collected by Bloomberg BNA through this Site is kept on secure servers. Bloomberg BNA uses security measures appropriate to the provision of the relevant product or service, such as reasonable administrative, technical, personnel, and physical measures to protect your personal information on such servers. To help us protect your privacy, you should maintain the secrecy of your username and password you set up in connection with your participation in this Site’s service, if any. Personal information is retained for as long as is necessary for the purpose for which it is collected, including legitimate business reasons, and/or legal and regulatory requirements.
 
-5.  **Our Policies Regarding the Use and Disclosure of Information.**
+## Public Records 
 
-a)  **Information Use and Sharing.**  We may use and share the Customer Information and other Personally Identifiable Information that we collect among various departments within Bloomberg BNA and its subsidiaries that perform functions such as servicing User accounts, preparing reports regarding Product use, market research, and promotional activities.
+Certain databases available to registered users of this Site may contain personal information received from third party data suppliers. This personal information is contained in public records, publicly available information, and non-public information (collectively, “public records information”). Your use of this information is restricted to specific, legitimate purposes, and such information may not be used to violate any applicable laws, rules, or regulations.
 
-The reasons that we share this Customer Information and other Personally Identifiable Information include the following:
+## Rights with respect to Your Personal Information
 
-  * To protect Users. 
-    * We use the Customer Information and other Personally Identifiable Information we maintain about Users and their use of the Products, including registration information, as follows:
-      * To help us identify Users.
-      * To help us prevent unauthorized persons from accessing Customer Information and other Personally Identifiable Information and the Product features that we make available to specific Users for their use.
-  * To provide superior service. 
-    * We use Customer Information and other Personally Identifiable Information to respond quickly and efficiently to User needs.
-  * To tell you about new or enhanced services and/or products.
-  * By understanding more about Users and their use of the Products, we can better meet User needs and determine how other Product features could be of value to Users.
-  * Email Updates: 
-    * Once a User completes the registration process, Bloomberg BNA may keep the User updated by email on important news and events concerning Bloomberg BNA, Product features, and other information that Bloomberg BNA deems relevant.
-    * By accepting the License Agreement and this Privacy Policy and by using any Product, each User agrees that Bloomberg BNA may contact the User by email with respect to Bloomberg BNA and any aspect of the Products whatsoever.
-  * To improve and develop our information, Products and services.
-    * Every Product feature that we offer is designed to reflect the ways Users actually use the Products.
-    * We collect and analyze information about Product use so that we can tailor new types of information, products and services to meet User needs.
+Depending on the jurisdiction, you may have the right to access, correct, delete, or restrict use of certain personal information covered by this Privacy Policy. Depending on the jurisdiction, you may also have the right to request that we refrain from processing personal information. Please bear in mind that if you object this may affect our ability to provide our products and services. For inquiries about your personal information, please contact us by [clicking here](https://www.bna.com/datafeedback/). While Bloomberg BNA will make reasonable efforts to accommodate your request, we also reserve the right to impose certain restrictions and requirements on such requests, if allowed or required by applicable laws. Please note that it may take some time to process your request, consistent with applicable law.
 
+If you wish to access, correct, delete, or restrict use of your personal information contained in public records information, you will need to contact the third-party supplier of the information directly. If you have any questions regarding public records information on this Site, please contact us at privacy@bloomberglaw.com and include the name of the relevant website or product in the Subject line of your inquiry. 
 
+## Transfer of Your Personal Information To Other Countries
 
-When it comes to sharing Customer Information and other Personally Identifiable Information outside Bloomberg BNA, we do so only for specific purposes. We share Customer Information and other Personally Identifiable Information with third parties as follows:
+Some of the uses and disclosures mentioned in this privacy policy may involve the transfer and processing of your personal information to and in various countries that may have different levels of privacy protection than your country. By using our products and services, you consent to such transfers and processing, including to and in the United States. Bloomberg BNA’s Intra-Group Personal Data Protection Statement provides additional information about the transfer of personal information from the EU, EEA, and Switzerland to the United States and is available below.
 
-  * General 
-    * We reserve the right to share with Bloomberg BNA subsidiaries and/or other reputable organizations the following information, for purposes of permitting those organizations to sell their products and services to our Customers: 
-      * With respect to each Customer, the following current information: company name, industry, business mailing address, and primary contact information (name, e-mail address, street address, mailing address, and telephone number).
-      * With respect to each User, the following current information: name, industry, job title, business e-mail address, office name (branch and main office), and mailing address.
-    * We reserve the right to share Customer Information and other Personally Identifiable Information with third parties that provide hot links to the Bloomberg BNA Web page at [http://www.bna.com](http://www.bna.com/) to promote the Products, such as web portals, or otherwise sell Subscriptions on our behalf through their own marketing channels. In certain instances, these parties will co-own certain Customer Information and other Personally Identifiable Information about Product revenue generating activity that originates from that third party. Such Customer Information and other Personally Identifiable Information may include, without limitation, the following information: company name, street address, e-mail address, contact name, lead date, first sale date, and services accessed.
-    * We reserve the right to share Customer Information and other Personally Identifiable Information with other third parties that perform services on our behalf, such as companies that help us market Products, renew subscriptions, or assist new customers.
-    * We reserve the right to share all Customer Information and Personally Identifiable Information with third parties who act as independent contractors to help us administer the Products, such as data centers that host our servers and technical system consultants who program our hardware and Software.
-    * We reserve the right to share Customer Information and Non-Identifying Information in the form of aggregated demographic information that is not linked to Personally Identifiable Information with our subsidiaries, advertisers, and other third parties.
-    * We reserve the right to disclose certain Customer Information and Personally Identifiable Information to government agencies and consumer reporting agencies as permitted or required by applicable law. Bloomberg BNA may make these disclosures for specific, limited purposes, such as verifying individuals' identities (reducing fraud and identity theft).
-    * Bloomberg BNA will also disclose a User's Customer Information and Personally Identifiable Information when and to the extent we believe, in good faith, that we are legally compelled to do so pursuant to an order of a court of competent jurisdiction or other governmental body (including, without limitation, such disclosures required by applicable securities laws as are necessary to comply therewith or with the rules and regulations of any applicable stock exchange). In such an event, Bloomberg BNA will use reasonable efforts to do the following:
-    * Give the User reasonably prompt written notice of such requirement so that the User has an opportunity to comment thereon or object thereto and to preserve the confidential nature of the Customer Information and Personally Identifiable Information that Bloomberg BNA is required to disclose.
-    * At the User's expense, use commercially reasonable efforts to cooperate with any of the User's efforts to preserve the confidential nature of the Customer Information and Personally Identifiable Information that Bloomberg BNA is required to disclose.
-  * User Information 
-    * We reserve the right to share a User's Customer Information and Personally Identifiable Information with the Customer who purchased the User's Subscription.
-    * We also reserve the right to share a User's Customer Information and other Personally Identifiable Information in the manner described in Section 6 of this Privacy Policy.
-  * Customer Information 
-    * We also reserve the right to share the aggregate Customer Information and other Personally Identifiable Information for any Customer with respect to all Users for which that Customer purchased a Subscription in the manner described in Section 6 of this Privacy Policy.
+## Links to Third-Party Web Sites
 
+Bloomberg BNA may provide links to third-party web sites. Since we do not control third-party sites and are not responsible for any information you may provide while on such sites, we encourage you to read the privacy policies on those web sites before providing any of your information on such sites.
 
+## Questions Regarding This Privacy Policy
 
-b)  **Our Policies Regarding the Use and Disclosure of Information About Former Customers.**  For a period of time after a Customer relationship ends, our policies and practices regarding the use and disclosure of Customer Information about former Customers are the same as those regarding the collection and disclosure of Customer Information and other Personally Identifiable Information about existing Customers. See the information under the heading in Section 6 of this Privacy Policy. However, after the relationship ends, we may use such Customer Information and other Personally Identifiable Information about former Customers less and less over time. We reserve the right to eventually remove such Customer Information and other Personally Identifiable Information about former Customers from our records.
+If you have questions regarding this privacy policy, please contact us at privacy@bloomberglaw.com and include the name of the relevant web site or product in the Subject line of your inquiry.  If you have complaints about Bloomberg BNA’s processing of your personal information, you may have the right to contact the applicable supervisory authority.
 
-c)  **Links to Third Party Websites**. The Bloomberg BNA Privacy Policy applies solely to the Products. The Products may contain links to websites owned and operated by third parties. Any User's use of third party websites is at their own risk and subject to any terms and conditions of use, policies regarding the collection of information, privacy policies, and other practices and procedures for such websites. Bloomberg BNA is not responsible for any such terms and conditions of use, policies regarding the collection of information, privacy policies, or other practices and procedures of the third party websites that a User may access through hot links in the Products. We cannot guarantee how these third parties use cookies or whether they place cookies on your computer that may include Customer Information and other Personally Identifiable Information. We encourage Users to be aware when they leave the Products and to read any terms and conditions of use, policies regarding the collection of information, privacy policies, and other practices and procedures of each Third Party website before Users provide them with any Customer Information and other Personally Identifiable Information.
+## Modifications to This Privacy Policy
 
-6.  **Information Confidentiality and Security**. Bloomberg BNA is committed to prevent any unauthorized access to each User's Customer Information and other Personally Identifiable Information. We maintain procedures and technology designed to prevent such unauthorized access.
+Bloomberg BNA reserves the right to change this privacy policy at any time by posting revisions on this web page.
 
-a)  **Security Programs.**  No one can guarantee that data transmission over the Internet will be 100% secure. Nevertheless, Bloomberg BNA has taken technical, administrative, and physical steps to protect against unauthorized access to Customer Information and other Personally Identifiable Information used to administer its customer accounts. All such information is handled securely within Bloomberg BNA and is not disclosed to unauthorized third parties.
+ Such changes will be effective upon posting.
 
-b)  **User IDs and Passwords**. Each User is responsible for maintaining the confidentiality of his or her User ID and password, and are responsible for all Product activities that occur under his or her User ID and password, including, without limitation, all related Customer Information and other Personally Identifiable Information. Each User agrees to immediately notify Bloomberg BNA of any unauthorized use of his or her User ID or password or of his or her Customer Information and other Personally Identifiable Information or any other breach of security regarding the Products or his or her Customer Information and other Personally Identifiable Information. Bloomberg BNA will not be liable for any Loss whatsoever arising from a User's failure to comply with these security requirements and each User agrees to hold Bloomberg BNA harmless from any and all Losses that arise from that failure to so comply.
+\---------------------------------------------------------------------------------------------------------------------------------
 
-7.  **Tips To Help You Protect Customer Information**. If any User suspects that someone has had unauthorized access to his or her Bloomberg BNA account, or access to his or her Customer Information and other Personally Identifiable Information, such as his or her User ID or password, the User should contact Bloomberg BNA so we can take appropriate action to protect the User and his or her Customer Information and other Personally Identifiable Information. Please contact the Bloomberg BNA Customer Contact Center: 1-800-372-1033 (U.S. and Canada), 703-341-3500 (International callers), Monday - Friday, 8:00 a.m. to 8:00 p.m. ET, or submit an on-line support form at  [www.bna.com/contact](http://www.bna.com/contact).
+## Intra-Group Personal Data Protection Statement
 
-In addition, Users may want to consider if it is important to report the crime to local law enforcement agencies and to the Federal Trade Commission (FTC). To speak with a trained FTC telephone counselor, call toll-free 1-877-IDTheft (1-877-438-4338). Or, to enter information about any complaint into a secure FTC online database, sign onto [www.consumer.gov/idtheft](http://www.consumer.gov/idtheft). The site also provides links to numerous consumer education materials.
+The Bureau of National Affairs, Inc. and its affiliates (“Bloomberg BNA”) are committed to compliance with their privacy obligations in the United States and throughout the world. This Intra-Group Personal Data Protection Statement (“Statement”) sets out the privacy principles Bloomberg BNA follows with respect to personal information that it transfers from the European Union, European Economic Area, and Switzerland (collectively, “EU”) to the United States (“U.S.”).
 
-If you have any questions or concerns regarding Bloomberg BNA’s data protection practices, please send an e-mail message to Bloomberg BNA's website administrator at  _bloombergbnaprivacy@bna.com_.
+The relevant Bloomberg BNA group companies have entered into an Intra-Group Personal Data Protection Agreement (“IGA”) in order to ensure that responsibility for personal information transferred from the EU to the U.S. is clearly identified. The parties to the IGA are considered as data controllers, or data controller and data processor under applicable law.
 
-8.  **Definitions**. For all purposes of this Privacy Policy, the terms used throughout this Privacy Policy shall have the meanings set forth below:
+As relevant Bloomberg BNA companies are located in the U.S., the group companies involved in the processing shall be known as a Data Exporter and a Data Importer respectively, although there may be more than one company involved in the processing of personal information.
 
-  * **_“Customer Information”_**  means any information about a Customer, its employees, contractors, suppliers, licensors, agents, distributors, and others who have any business or personal relationship with such Customer, that (i) Bloomberg BNA has an obligation to keep confidential or use for limited purposes or (ii) Bloomberg BNA has any legal obligation to keep confidential or use for limited purposes, including under the Gramm-Leach-Bliley Act, the Health Insurance Portability and Accountability Act, any laws regarding invasion of privacy, or other privacy laws. “Customer Information” does not include publicly available information.
-  * **_“Bloomberg BNA Customer Agreement”_**  means the Bloomberg BNA Customer Agreement, as it may be amended from time, which can be found at <http://www.bna.com/corp/license.htm>. For all purposes, all references to the Bloomberg BNA Customer Agreement include this Privacy Policy, the Copyright Guidelines, the Product’s Terms of Service and any applicable Order Form.
-  * **_“Non-Identifying Information”_**  means information that, taken alone, cannot be used to identify or locate a Person, including, without limitation, age or date of birth, gender, occupation, education, ZIP code with no address, interests, hobbies, types of hardware or Software used by a Person, income. “Non-Identifying Information” refers to this type of information, regardless of whether such information is collected along with, or is linked to, Personally Identifiable Information.
-  * **_“Personally Identifiable Information”_**  means information that can be used to identify or locate a Person, including, but not limited to, e-mail address, name, street address, phone number, fax number, credit card number, Social Security number, and tax identification number.
-  * **_“Privacy Policy”_**  means this “Privacy Policy” as it may be amended from time to time, which can be found at <http://www.bna.com/privacy-policy/>.
-  * The terms  ** _“we,” “us,”_**  and other similar terms shall be deemed to refer to Bloomberg BNA, as appropriate.
-  * The terms  ** _“you,” “your,”_**  and other similar terms shall be deemed to refer to Customer and all individual Users, as appropriate.
+The IGA incorporates unchanged EU Commission Standard Contractual Clauses for controller to controller, and controller to processor transfers, and the relevant Data Exporter and Data Importer will abide by these EU Commission Standard Contractual Clauses where personal information is transferred to or accessed from Bloomberg group companies in the U.S.
 
+## Contact Information
 
+Questions or comments regarding this Statement should be submitted to privacy@bloomberglaw.com.
