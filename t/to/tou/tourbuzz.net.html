@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the tourbuzz.net privacy policy that was archived on 2018-11-19.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20181119110831id_/http%3A//www.tourbuzz.net/public/pages/privacy_policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the tourbuzz.net privacy policy that was archived on 2019-03-30.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20190330233229id_/http%3A//www.tourbuzz.net/public/pages/privacy_policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en-US"><head>
 <link id="yuiload">
@@ -93,8 +93,8 @@
     var mouseflowPath = '/public/pages/privacy_policy';
 </script>
 
-<script type="text/javascript" src="/apps/react/vendor.min.js?v=0af7c5d8f9ff669901ffb780b6596bf7"></script>
-<script type="text/javascript" src="/apps/react/global.min.js?v=96da6cdb6d9c8d7c77f8cf6f1f449427"></script>
+<script type="text/javascript" src="/apps/react/vendor.min.js?v=69a8009b02983067764c31e5da55f2ef"></script>
+<script type="text/javascript" src="/apps/react/global.min.js?v=4f86dd72e5579e549e9d004b29a21bcd"></script>
 <script type="text/javascript">
 if(window.jQuery){
     jQuery(document).ready(function(){
@@ -155,8 +155,8 @@ e=(!e||e.length===0?"$default_instance":e).toLowerCase()
       track:function(name, data, interaction){
         var data = data || {};
         data.url = window.location.pathname;
-        data.vendorHash = "0af7c5d8f9ff669901ffb780b6596bf7";
-        data.globalHash = "96da6cdb6d9c8d7c77f8cf6f1f449427";
+        data.vendorHash = "69a8009b02983067764c31e5da55f2ef";
+        data.globalHash = "4f86dd72e5579e549e9d004b29a21bcd";
 
         amplitude.getInstance().logEvent(name, data);
 
@@ -490,13 +490,7 @@ jQuery('#account-nav-select').bind('change', function(e) {
         <div class="row footer-row">
                       <div class="threecol footer-column sitemap">
               <h2><a href="/" title="Tourbuzz Home">Tourbuzz</a></h2>
-              <p><a href="http://about.tourbuzz.net" title="About Tourbuzz">About Us</a></p>
-              <hr>
-              <p><a href="http://about.tourbuzz.net/careers/" title="Jobs at Tourbuzz">Jobs</a></p>
-              <hr>
               <p><a href="/public/pages/privacy_policy" title="Privacy Policy">Privacy Policy</a></p>
-              <hr>
-              <p><a href="/public/pages/providers" title="Real Estate Photographer Directory">Real Estate Photographers</a></p>
               <hr>
               <p><a href="/public/pages/case_studies" title="Case Studies: Grow your business with Tourbuzz">Case Studies</a></p>
             </div>
@@ -514,11 +508,11 @@ jQuery('#account-nav-select').bind('change', function(e) {
 
             <div class="threecol footer-column support">
               <h2>Support</h2>
-              <p><a target="_blank" href="https://support.tourbuzz.net">Support Site</a></p>
+              <p><a target="_blank" href="https://help.urbanimmersive.com">Support Site</a></p>
               <hr>
-              <p><a href="https://support.tourbuzz.net/hc/en-us/categories/360000058163-FAQ" target="_blank">Frequently Asked Questions</a></p>
+              <p><a href="https://help.urbanimmersive.com/category/269-faq" target="_blank">Frequently Asked Questions</a></p>
               <hr>
-              <p><a href="http://support.tourbuzz.net/hc/en-us/articles/207740026-Tourbuzz-Tutorial-Videos">Tutorial Videos</a></p>
+              <p><a href="https://help.urbanimmersive.com/category/271-tutorial-videos">Tutorial Videos</a></p>
               <hr>
               <p><a target="_blank" href="http://status.tourbuzz.net">System Status</a></p>
               <hr>
@@ -540,7 +534,7 @@ jQuery('#account-nav-select').bind('change', function(e) {
 
                   <div class="copyright-row">
             <div class="twelvecol">
-              Copyright (c) 2006-2018 Tourbuzz&amp;trade;, LLC. All Rights Reserved.
+              Copyright (c) 2006-2019 Tourbuzz&amp;trade;, LLC. All Rights Reserved.
             </div>
           </div>
         
@@ -651,14 +645,7 @@ jQuery($document).ready(function() {
     jQuery('.account-nav, .main-nav').hide();
   });
 });
-
-// Headway config
-var HW_config = {
-  selector: ".headwayapp", // CSS selector where to inject the badge
-  account: "7K006J" // your account ID
-};
 </script>
-<script async="" src="//cdn.headwayapp.co/widget.js"></script>
 
 
 <!-- analytics tracking -->
@@ -673,25 +660,27 @@ var HW_config = {
     <!-- MouseFlow -->
     
  <!-- Zendesk -->
-    
-    <script type="text/javascript">
-        window._mfq = window._mfq || [];
+<!-- HelpScout Beacon -->
+    <!-- HelpScout beacon disabled for anon users -->
 
-        if (window.mouseflowPath && window.PHOCOA && PHOCOA.widgets && PHOCOA.widgets.tabView) {
-            var yui = PHOCOA.widgets.tabView.yuiDelegate;
-            var existing = yui.widgetDidLoad;
+<script type="text/javascript">
+    window._mfq = window._mfq || [];
 
-            yui.widgetDidLoad = function (widget) {
-                if (existing) {
-                    existing(widget);
-                }
+    if (window.mouseflowPath && window.PHOCOA && PHOCOA.widgets && PHOCOA.widgets.tabView) {
+        var yui = PHOCOA.widgets.tabView.yuiDelegate;
+        var existing = yui.widgetDidLoad;
 
-                widget.addListener('activeTabChange', function (evt) {
-                    window._mfq.push(["newPageView", mouseflowPath + "/" + evt.newValue.getAttributeConfig('label').value.replace(/[^A-z0-9]+/g, '')]);
-                });
-            };
-        }
-    </script>
+        yui.widgetDidLoad = function (widget) {
+            if (existing) {
+                existing(widget);
+            }
+
+            widget.addListener('activeTabChange', function (evt) {
+                window._mfq.push(["newPageView", mouseflowPath + "/" + evt.newValue.getAttributeConfig('label').value.replace(/[^A-z0-9]+/g, '')]);
+            });
+        };
+    }
+</script>
 
 
 
