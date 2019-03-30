@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the beatport.com privacy policy that was archived on 2018-09-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180929154234id_/https%3A//support.beatport.com/hc/articles/200353215) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the beatport.com privacy policy that was archived on 2019-03-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190330084609id_/https%3A//support.beatport.com/hc/articles/200353215) for the most accurate reproduction.*
 
 # Privacy and Cookie Policy – Beatport Customer Care
 
