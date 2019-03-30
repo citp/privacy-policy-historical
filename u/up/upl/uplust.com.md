@@ -1,54 +1,233 @@
-> *The following text is extracted and transformed from the uplust.com privacy policy that was archived on 2018-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181229062402id_/http%3A//uplust.com/support/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the uplust.com privacy policy that was archived on 2019-03-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190330040742id_/http%3A//uplust.com/support/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy – Uplust Help Center
 
-This document details important information regarding the use and disclosure of User Data collected on Uplust.com
+_Last Modified: March 5th, 2019_
 
-The security of your Data is very important to Uplust.com and as such we take all appropriate steps to limit the risk that it may be lost, damaged or misused.
+**INTRODUCTION**
 
-This site expressly and strictly limits its membership and/or viewing privileges to adults 18 years of age and over or having attained the age of majority in their community. All persons who do not meet its criteria are strictly forbidden from accessing or viewing the contents of this Site. We do not knowingly seek or collect any personal information or data from persons who have not attained the age of majority.
+(hereinafter “we”, “us” or “our”) operates the website <https://www.uplust.com/> (hereinafter “Uplust” or the “Website”) and is the controller of the information collected or provided via this Website.
 
-**DATA COLLECTED**
+Please read this privacy policy carefully, as your access to and use of our Website signifies that you have read, understand and agree to all terms within this privacy policy. If you do not agree with any part of this privacy policy or our terms, please do not access or continue to use our Website or otherwise submit your personal data. We respect your privacy and are committed to protecting your personal data.
 
-  * Personal Information: 
-    * Non-Registered users can see pictures without registering and without any information being collected and processed. However the visitor’s IP address will be recorded in the event that there is any misappropriation of information and/or content.
-    * Registered Members: Registration is required for uploading pictures, and accessing a number of other features. The following personal information is requested at the time of registration: username (required), and email address (required). Additional personal information, such as year of birth, gender, biography, website, relationship status and sexual orientation may be added on a voluntary basis after registration, for members interested in identifying and potentially contacting other members meeting specific criteria. All this data with the exception of the email address and IP address becomes publicly accessible information.
-  * Content Uploaded to the site: Any personal information or picture content that you voluntarily disclose online becomes publicly available and can be collected and used by others.
-  * Cookies: When you visit Uplust.com, we may send one or more cookies to your computer that uniquely identifies your browser session. Uplust.com uses both session cookies and persistent cookies. If you remove your persistent cookie, some of the site’s features may not function properly.
-  * Log File Information: When you visit Uplust.com, our servers automatically record certain information that your web browser sends such as your web request, IP address, browser type, browser language, referring URL, platform type, domain names and the date and time of your request.
-  * Emails: If you contact us, we may keep a record of that correspondence.
+If you have any questions about our privacy practices, please see “Contact Information” below for information on how to contact us.
 
+We collect, process and retain personal data to the extent it is necessary to provide users with our service. This privacy policy applies to information we collect:
 
-
-**USES**
-
-  * Your Personally identifiable information submitted to Uplust.com is used to provide to the user the website’s features and special personalized features.
-  * Your chosen username (not your email address) is displayed to other Users alongside the content you upload, including pictures, comments, etc.
-  * If your account is public, any pictures that you submit to Uplust.com may be redistributed through the internet and other media channels, and may be viewed by the general public. If your account is private, any pictures that you submit to Uplust.com is protected and private. Only users you have authorized beforehand can view your media content. However, your profile picture, your description and your website link are always visible, even if an user is not authorized to follow you.
-  * We do not use your email address or other personally identifiable information to send commercial or marketing messages without your consent.
-  * We may use your email address without further consent for non-marketing or administrative purposes (such as notifying you of key website changes or for customer service purposes).
-  * OPT-IN AND USER COMMUNICATION – Subscriber’s expressly and specifically acknowledges and agrees that his email address or other means of communicating with subscriber may be used to send him offers, information or any other commercially oriented emails or other means of communications. More specifically, some offers may be presented to the subscriber via email campaigns or other means of communications with the option to express the subscriber’s preference by either clicking or entering “accept” (alternatively “yes”) or “decline” (alternatively “no”). By selecting or clicking the “accept” or “yes”, the subscriber indicates that the subscriber “OPTS-IN” to that offer and thereby agrees and assents that the subscriber’s personal information, including its email address and data may be used for that matter or disclosed to third-parties.”
-  * OPT-OUT AND USER COMMUNICATION – Subscriber’s expressly and specifically acknowledges and agrees that his email address or other means of communicating with subscriber may be used to send him offers, information or any other commercially oriented emails or other means of communications. More specifically, other offers may be presented to the subscriber via email campaigns or other means of communications with a pre-selected preference or choice. If the subscriber does not deselect the pre-selected preference of choice (i.e. “OPT-OUT” of the offer) then the site may transfer the subscriber’s personal profile information to the third-party service or content provider making the offer. If the subscriber deselects the pre-selected preference then no personal information about the subscriber may be disclosed to any third-party service or content provider.
-  * We analyze aggregated user traffic information to help streamline our marketing and hosting operations and to improve the quality of the Uplust.com user-experience.
+  * on this Website,
+  * in e-mail, text and other communications between you and this Website,
+  * through mobile applications you download from this Website, which provide dedicated non-browser-based interaction between you and this Website, or
+  * when you interact with our advertising and applications on third-party websites and services, if those applications or advertising include links to this privacy policy.
 
 
 
-**DISCLOSURE OF INFORMATION**
+It does not apply to information collected by:
 
-  * if under duty to do so Uplust.com may release data to comply with any legal obligation, or in order to enforce our Terms Of Service and other agreements; or to protect the rights, property or safety of Uplust.com or our subscribers or others. This includes exchanging information with other companies and organizations including the police and governmental authorities for the purposes of protection against fraud or any other kind of illegal activity whether or not identified in the Terms Of Service. It is Uplust.com’s policy, whenever possible and legally permissible, to promptly notify you upon an obligation to supply data to any third party.
-  * Should you deliberately upload any illegal material Uplust.com shall forward all available information to all relevant authorities and this without notice. 
-
-– We do not share your personally identifiable information (such as name or email address) with other, third-party companies for their commercial or marketing use without your consent or except as part of a specific program or feature for which you will have the ability to opt-in or opt-out.
+  * us offline or through any other means, including on any other website operated by us or any third party (including our affiliates and subsidiaries); or
+  * any third party (including our affiliates and subsidiaries), including through any application or content (including advertising) that may link to or be accessible from or on the Website. Clicking on those links or enabling those connections may allow third parties to collect or share data about you. We do not control these third-party websites and are not responsible for their privacy statements.
 
 
 
+**THE DATA WE COLLECT ABOUT YOU**
 
-**SECURITY**
+Personal data, or personal information, means any information about an individual from which that person can be identified by (“Personal Information”). It does not include data that has been anonymized or pseudonymized.
 
-Where we have given you (or where you have chosen a password) which enables you to access certain parts of our Site, you are responsible for keeping this password confidential. We ask you not to share your password with anyone.
+We may collect, use, store and transfer different kinds of personal data about you, which we have grouped together as follows:
 
-Unfortunately, the transmission of information via the Internet is not completely secure. Uplust.com uses commercially reasonable physical, managerial and technical safeguards to preserve the integrity and security of your personal information. We cannot, however, ensure or warrant the security of any information you transmit to Uplust.com and you do so at your own risk.
+Persons who visit the Website without logging in or registering “unregistered users”
 
-**YOUR RIGHTS**
+  * Technical Data includes internet protocol (IP) address, which we pseudonymize (a technique that replaces or removes information in the dataset that identifies an individual), browser type and version, time zone setting and location, operating system and platform and other technology on the devices you use to access this Website.
+  * User Submitted Data includes data collected at your direction for a specific function, for example a contest or survey.
+  * Usage Data includes aggregated information about how you use our Website, products and services.
 
-You are entitled to access and correct your Data by doing so directly on the website or by requesting us to do so via the Contact us section. If you have additional questions then please write to us at info@uplust.com.
+
+
+Persons who choose to create an account “registered users”
+
+  * Identity Data includes, username or similar identifier, date of birth and gender.
+  * Contact Data includes email address.
+  * Financial Data in case of purchases includes payment card details.
+  * Transaction Data in case of purchases, it may include details about payments to and from you and other details of products and services you have purchased or received from us.
+  * Technical Data includes pseudonymized internet protocol (IP) address, your login data, browser type and version, time zone setting and location, operating system and platform and other technology on the devices you use to access this Website.
+  * User Submitted Data includes data collected at your direction for a specific function, for example your username and password, purchases or orders made by you, your interests, preferences, feedback and survey responses.
+  * Usage Data includes information about how you use our Website, products and services.
+  * Marketing and Communications Data includes your preferences in receiving marketing from us and our third parties and your communication preferences.
+
+
+
+We may also collect, use and share your data to produce and share aggregated insights that do not identify you. Aggregated data may be derived from your personal data but is not considered personal data as this data does not directly or indirectly reveal your identity. For example, we may aggregate your usage data to calculate the percentage of users accessing a specific Website feature, to generate statistics about our users, to calculate the percentage of users accessing a specific Website feature, to calculate ad impressions served or clicked on, or to publish visitor demographics.
+
+We do not collect special categories of Personal Information about you (this includes details about your race or ethnicity, religious or philosophical beliefs, political opinions, trade union membership, information about your health and genetic and biometric data). However, particular preferences and sexual orientation depend on how you use our Website and services. The processing of such Sensitive Personal Information may be necessary to provide some of our service to you.
+
+**HOW IS YOUR PERSONAL INFORMATION COLLECTED?**
+
+We use different methods to collect data from and about you including through:
+
+  * Direct interactions. Information that you provide when carrying out search queries on our Website or by filling in forms on our Website, in particular at the time of registering to use our Website, subscribing to our service, posting material, taking part in surveys, entering a contest or promotion sponsored by us, when reporting a problem with our Website, or requesting further services.
+  * Automated technologies or interactions. See “Third-party Use of Cookies and Other Tracking Technologies” for details of how we may automatically collect your personal data.
+
+
+
+**USER CONTRIBUTIONS**
+
+We may provide areas on our Website where you can post information about yourself and others and communicate with others, upload content (e.g., pictures, videos, GIFs, etc.), and post comments or reviews of content found on the Website. Such postings are governed by our terms of use found at <https://uplust.com/support/terms-and-conditions/>. You should be aware that any Personal Information you submit, display, or publish in public areas of our website is considered publicly available and can be read, collected, used, and disclosed by others. We cannot control who reads your posting or what other users may do with the information you voluntarily post, so we encourage you to exercise discretion and caution with respect to your Personal Information. To request removal of your personal information from our website, please refer to the section “your rights related to your personal information” in this policy.
+
+**INFORMATION COLLECTED THROUGH AUTOMATIC DATA COLLECTION TECHNOLOGIES**
+
+As you navigate through and interact with our Website, we use automatic data collection technologies to collect certain information about your equipment, browsing actions and patterns, including information such as your IP address, browser type, operating system, the referring web page, pages visited, location, your mobile carrier, device information, search terms, and cookie information.
+
+The technologies we use for this automatic data collection may include:
+
+  * Cookies (or browser cookies). Cookies are small text files that are stored in your web browser or downloaded to your device when you visit a website. Cookies are then sent back to the originating website on each subsequent visit, or to another website that recognizes that cookie, and allow a website to recognize a user’s device.
+
+
+
+We currently use the following types of cookies:
+
+  * Cookies that are strictly necessary: These are cookies that are required for the operation of our Website. These include, for example, cookies that enable a user to log in to our Website and to check if a user is allowed access to a particular service or content.
+  * Analytical cookies: These cookies allow us to recognize and count the number of users and to see how users use and explore our Website. These cookies help us to improve our Website, for example by ensuring that all users are able to find what they are looking for easily.
+  * Functionality cookies: These cookies are not essential, but help us to personalize and enhance your online experience on our Website. This type of cookies allows us to recognize you when you return to our Website and to remember, for example, your choice of language.
+  * Targeting cookies: These cookies record the visit of a user on our Website, the pages a user has visited and the links a user has followed in order to enable us to make our Website more relevant to the users’ interests.
+  * We do not require that you accept cookies and you may withdraw your consent to our use of cookies at any time by adjusting your browser’s privacy settings. However, if you decline to accept cookies, some functionality on our Website may be disabled and you may be unable to access certain parts of our Website. Unless you have adjusted your browser setting so that it will refuse cookies, our system will issue cookies when you direct your browser to our Website. Cookies can be either session cookies or persistent cookies. A session cookie expires automatically when you close your browser. A persistent cookie will remain until it expires or you delete your cookies. Expiration dates are set in the cookies themselves; some may expire after a few minutes while others may expire after multiple year
+  * Web Beacons. Pages of our Website and our e-mails may contain small electronic files known as web beacons (also known as clear gifs, pixel tags, single-pixel gifs and web bugs) that are tiny graphics with a unique identifier, similar in function to cookies, and are used to track the online movements of web users or to access cookies.
+  * We use third party analytics and advertising tools and technologies, in particular Google Analytics provided by Google, Inc., USA (“Google”). These tools and technologies collect and analyze certain types of information, including IP addresses, device and software identifiers, referring and exit URLs, onsite behavior and usage information, feature use metrics and statistics, usage and purchase history, media access control address (MAC Address), mobile unique device identifiers, and other similar information via the use of cookies. The information generated by Google Analytics about your use of the Website (including your IP address) may be transmitted to and stored by Google on servers in the United States. Because we activated IP anonymization for Google Analytics and Double Click, Google will anonymize the last octet of a particular IP address. Only in exceptional cases, the full IP address is sent to and shortened by Google servers in the USA. Google will use this information for the purpose of evaluating your use of the Website, compiling reports on Website activity and managing advertising content. To learn how you can opt out from this information collection by Google see “Choices About How We Collect, Use and Disclose Your Personal Information” below.
+
+
+
+**THIRD-PARTY USE OF COOKIES AND OTHER TRACKING TECHNOLOGIES**
+
+Some content or applications, including advertisements, on the Website are served by third parties, including advertisers, ad networks and servers, content providers and application providers. These third parties may use cookies alone or in conjunction with web beacons or other tracking technologies to collect information about you when you use our Website. Unless expressly stated otherwise, our website does not provide any Personal Information to these third parties, however they may collect information, including Personal Information, such as internet protocol (IP) address, browser type and version, time zone setting and location, operating system and platform and other technology on the devices you use to access this Website. They may use this information to provide you with interest-based advertising or other targeted content.
+
+We do not control these third parties’ tracking technologies or how they may be used. If you have any questions about an advertisement or other targeted content, you should contact the responsible provider directly. For information about how you can opt out of receiving targeted advertising from many providers, see “Choices About How We Collect, Use and Disclose Your Personal Information”.
+
+**HOW WE USE YOUR PERSONAL DATA**
+
+We will only use your personal data when the applicable local law allows us to. Most commonly, we will use your personal data in the following circumstances:
+
+  * For purposes of providing the services, customer management and functionality and security as is necessary to perform the services provided to you under our term and conditions and any other contract that you have with us.
+  * Where it is necessary for our legitimate interests (or those of a third party) and your interests and fundamental rights do not override those interests.
+  * Where we need to comply with a legal or regulatory obligation.
+  * Where you declare your valid consent to use it.
+
+
+
+Note that we may process your personal data for more than one lawful ground depending on the specific purpose for which we are using your data.
+
+**PURPOSES FOR WHICH WE USE YOUR PERSONAL INFORMATION**
+
+In general, we use information that we collect about you or that you provide to us, including Personal Information and Sensitive Personal Information, for following purposes:
+
+  * Provision of services (Registered Members Only): to present our Website and its contents to you, including any interactive features on our Website, and to provide you with information, products or services that you request from us; we also collect and use Personal Information to verify your eligibility and deliver prizes in connection with contests;
+  * Customer management (Registered Members Only): to manage a registered users’ account, to provide customer support and notices to the registered user about his account or subscription, including expiration and renewal notices, and notices about changes to our Website or any products or services we offer or provide through it;
+  * Customization of content (Registered Members Only): to perform research and analysis about your use of, or interest in, our Website content, products, or services, in order to develop and display content and advertising tailored to your interests on our Website and other sites;
+  * Analytics: to determine whether users of the Website are unique, or whether the same user is using the Website on multiple occasions, and to monitor aggregate metrics such as total number of visitors, pages viewed, demographic patterns;
+  * Functionality and security: to diagnose or fix technology problems, and to detect, prevent, and respond to actual or potential fraud, illegal activities, or intellectual property infringement;
+  * Compliance: to enforce our terms and conditions and to comply with our legal obligations;
+  * in any other way we may describe when you provide the information; or for any other purpose with your consent provided separately from this privacy policy.
+
+
+
+**DISCLOSURE OF YOUR PERSONAL INFORMATION**
+
+We do not disclose your Personal Information except in the limited circumstances described here.
+
+  * We may disclose your Personal Information to members of our corporate group (that is, entities that control, are controlled by, or are under common control with us) to the extent this is necessary for the purposes of provision of services, customer management, customization of content, advertising, analytics, verifications, functionality and security, and compliance.
+  * Service providers. To our authorized service providers that perform certain services on our behalf. These services may include fulfilling orders, processing credit card payments, risk and fraud detection and mitigation, providing customer service, performing business and sales analysis, customization of content, analytics, security, supporting our Website functionality, surveys and other features offered through our Website. These service providers may have access to Personal Information needed to perform their functions but are not permitted to share or use such information for any other purposes.
+  * Legal successors. To a buyer or other successor in the event of a merger, divestiture, restructuring, reorganization, dissolution or other sale or transfer of some or all of our assets, whether as a going concern or as part of bankruptcy, liquidation or similar proceeding, in which personal information held by us about our Website users is among the assets transferred. Should such a sale or transfer occur, we will use reasonable efforts to try to ensure that the entity to which we transfer your personal information uses it in a manner that is consistent with this privacy policy.
+
+
+
+We access, preserve and share your Personal Information with regulators, law enforcement or others where we reasonably believe such disclosure is needed to (a) satisfy any applicable law, regulation, legal process, or governmental request, (b) enforce applicable terms of use, including investigation of potential violations thereof, (c) detect, prevent, or otherwise address illegal or suspected illegal activities, security or technical issues, (d) protect against harm to the rights, property or safety of our company, our users, our employees, or others; or (e) to maintain and protect the security and integrity of our Website or infrastructure. In such cases, we may raise or waive any legal objection or right available to us, in our sole discretion.
+
+We may disclose aggregated information about our users, and information that does not identify any individual, without restriction. We also may share aggregated information with third parties for conducting general business analysis. This information does not contain any Personal Information and may be used to develop content and services that we hope you and other users will find of interest.
+
+**FINANCIAL INFORMATION**
+
+Financial information (including Personal Information) that you have provided to us will only be shared with our third party processors in order to initiate and complete any orders placed on your account. All credit card transactions and such are processed with industry standard encryption through third party processors who only use your financial information and Personal Information for that purpose. All financial data and related Personal Information will not be shared by us with third parties except with your authorization or when necessary to carry out all and any transactions requested by you with the understanding that such transactions may be subject to rules, terms, conditions and policies of a third party. All such information provided to a third party is subject to their terms and conditions.
+
+**TRANSFERS OF YOUR PERSONAL INFORMATION TO OTHER COUNTRIES**
+
+Whenever in the course of sharing information we transfer Personal Information to countries outside of the European Economic Area and other regions with comprehensive data protection laws, we will ensure that the information is transferred in accordance with this privacy policy and as permitted by the applicable laws on data protection.
+
+By using the Website you consent to the transfer of information that we collect about you, including personal information, to any country in which we, members of our corporate group (that is, entities that control, are controlled by, or are under common control with us) or our service providers are located.
+
+**RETENTION OF PERSONAL INFORMATION**
+
+We will only retain your Personal Data for as long as necessary to fulfil the purposes we collected it for, including for the purposes of satisfying any legal, accounting, or reporting requirements.
+
+To determine the appropriate retention period for personal data, we consider the amount, nature, and sensitivity of the personal data, the potential risk of harm from unauthorized use or disclosure of your personal data, the purposes for which we process your personal data and whether we can achieve those purposes through other means, and the applicable legal requirements.
+
+Where we no longer need to process your Personal Data for the purposes set out in this Privacy Policy, we will delete your Personal Data from our systems.
+
+Where permissible, we will also delete your Personal Data upon your request. Information on how to make a deletion request can be found under “Your Rights Related to Your Personal Information”.
+
+If you have questions about our data retention practices, please send us an e-mail at [support@uplust.com](mailto:support@uplust.com).
+
+The period for which we keep your Personal Information that is necessary for compliance and legal enforcement purposes varies and depend on the nature of our legal obligations and claims in the individual case.
+
+**HOW WE PROTECT THE SECURITY OF YOUR PERSONAL INFORMATION**
+
+We take appropriate security measures (including physical, electronic and procedural measures) to safeguard your Personal Information from unauthorized access and disclosure. For example, only authorized employees are permitted to access Personal Information, and they may do so only for permitted business functions. In addition, we use encryption in the transmission of your Personal Information between your system and ours, and we use firewalls to help prevent unauthorized persons from gaining access to your Personal Information. Please be advised, however, that we cannot fully eliminate security risks associated with the storage and transmission of Personal Data.
+
+You are responsible for maintaining the secrecy of your unique password and account information at all times. We are not responsible for circumventions of any privacy settings or security measures contained on the Website.
+
+**CHOICES ABOUT HOW WE COLLECT, USE AND DISCLOSE YOUR PERSONAL INFORMATION**
+
+We strive to provide you with choices regarding the Personal Information you provide to us.
+
+  * You can choose not to provide us with certain Personal Information, but that may result in you being unable to use certain features of our Website because such information may be required in order for you to register as a member; purchase products or services; participate in a contest, promotion, survey; ask a question; or initiate other transactions on our Website.
+  * You can set your browser to refuse all or some browser cookies, or to alert you when cookies are being sent. If you disable or refuse cookies, please note that some parts of the Website may then be inaccessible or not function properly.
+  * You may opt out of Google Analytics by visiting the Google advertising opt-out page or by downloading and installing the browser plug-in available at Google Analytics opt-out page.
+  * When you register on our Website. If you no longer want to receive commercial or promotional emails or newsletters from us, you will need to avail yourself of the unsubscribe mechanism set out in the applicable communication. It may take up to seven days for us to process an opt-out request. We may send you other types of transactional and relationship e-mail communications, such as service announcements, administrative notices, and surveys, without offering you the opportunity to opt out of receiving them. Please note that opting out of receipt of promotional email communications will only affect future activities or communications from us. If we have already provided your information to a third party before you have changed your preferences or updated your information, you may have to change you preferences directly with that third party.
+  * If you submit Personal Information, you may delete your account with us at any time. If you delete the information of your account, your Personal Information and any and all other account related information including, but not limited to, user profile data, sharing data and any other data, or content specifically associated with your account will no longer be accessible by you. After deleting your account, if you choose to have an account with us in the future, you will have to sign up for a new account as none of the information you previously provided or saved within your account will have been saved.
+
+
+
+**YOUR RIGHTS RELATED TO YOUR PERSONAL INFORMATION**
+
+Subject to local law, you have certain rights regarding the Personal Information we collect, use or disclose and that is related to you, including the right:
+
+  * to receive information on the Personal Information concerning we hold about you and how such Personal Information is used (right to access);
+  * to rectify inaccurate Personal Information concerning you (right to data rectification);
+  * to delete/erase your Personal Information (right to erasure/deletion, “right to be forgotten”);
+  * to receive the Personal Information provided by you in a structured, commonly used and machine-readable format and to transmit those Personal Information to another data controller (right to data portability)
+  * to object to the use of your Personal Information where such use is based on our legitimate interests or on public interests (right to object); and
+  * in some cases, to restrict our use of your Personal Information (right to restriction of processing).
+
+
+
+If we ask for your consent to use your Personal Information, you can withdraw your consent at any time. Note that in case of a withdrawal of your consent you may no longer able to use several functionalities of our Website and our services.
+
+You may, at any time, send us an e-mail at [support@uplust.com](mailto:support@uplust.com) to exercise your above rights in accordance with the applicable legal requirements and limitations. If you are located in the European Economic Area, you have a right to lodge a complaint with your local data protection authority.
+
+Note that some requests to delete certain Personal Information will require the deletion of your user account as the provision of user accounts are inextricable linked to the use of certain Personal Information (e.g., your e-mail address). Also note that it is possible that we require additional information from you in order to verify your authorization to make the request and to honor your request.
+
+**CHANGES TO OUR PRIVACY POLICY**
+
+We may modify or revise our privacy policy from time to time. Although we may attempt to notify you when major changes are made to this privacy policy, you are expected to periodically review the most up-to-date version found at <https://uplust.com/support/privacy-policy/> so you are aware of any changes, as they are binding on you.
+
+If we change anything in our privacy policy, the date of change will be reflected in the “last modified date”. You agree that you will periodically review this privacy policy and refresh the page when doing so. You agree to note the date of the last revision to our privacy policy. If the “last modified” date is unchanged from the last time you reviewed our privacy policy, then it is unchanged. On the other hand, if the date has changed, then there have been changes, and you agree to re-review our privacy policy, and you agree to the new ones. By continuing to use the Website subsequent to us making available an amended version of our privacy policy in a way that you can easily take notice of it, you thereby consent to such amendment.
+
+**ENFORCEMENT; COOPERATION**
+
+We regularly review our compliance with this privacy policy. Please feel free to direct any questions or concerns regarding this privacy policy or our treatment of Personal Information by contacting us through this Website at [support@uplust.com](mailto:support@uplust.com). When we receive a formal written complaint, it is our policy to contact the complaining party regarding his or her concerns. We will cooperate with the appropriate regulatory authorities, including local data protection authorities, to resolve any complaints regarding the collection, use and disclosure of Personal Information that cannot be resolved by an individual and us.
+
+**NO RIGHTS OF THIRD PARTIES**
+
+This privacy policy does not create rights enforceable by third parties or require disclosure of any Personal Information relating to users of the Website.
+
+**OUR POLICY TOWARDS MINORS**
+
+Our Website is not directed to persons under the age of 18 or the applicable age of majority in the jurisdiction from which the Website is accessed and we do not knowingly collect Personal Information from minors. If you become aware that your child has provided us with Personal Information, please contact us at [support@uplust.com](mailto:support@uplust.com). If we become aware that a minor has provided us with Personal Information, we take steps to remove such information and terminate that person’s account.
+
+**NO ERROR FREE PERFORMANCE**
+
+We do not guarantee error-free performance under this privacy policy. We will use reasonable efforts to comply with this privacy policy and will take prompt corrective action when we learn of any failure to comply with our privacy policy. We shall not be liable for any incidental, consequential or punitive damages relating to this privacy policy.
+
+**CONTACT INFORMATION**
+
+If you have any questions about this privacy policy or our information-handling practices, please contact us at [support@uplust.com](mailto:support@uplust.com).
+
+**GDPR (GENERAL DATA PROTECTON REGULATION)**
+
+In accordance with the General Data Protection Regulation law in the European Union effective May 25, 2018, Uplust users can request a copy of their personal data as well as get Uplust to delete their personal data.
