@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 40aprons.com privacy policy that was archived on 2018-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180608224019id_/http%3A//40aprons.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 40aprons.com privacy policy that was archived on 2019-03-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190330203441id_/https%3A//40aprons.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - 40 Aprons
 
@@ -38,7 +38,7 @@ Most browsers allow you to refuse to accept cookies and to delete cookies. The m
 
 (d) <https://support.microsoft.com/en-gb/help/17442/windows-internet-explorer-delete-manage-cookies> (Internet Explorer);
 
-(e) <https://support.apple.com/kb/PH21411> (Safari); and
+(e) https://support.apple.com/kb/PH21411 (Safari); and
 
 (f) <https://privacy.microsoft.com/en-us/windows-10-microsoft-edge-and-privacy> (Edge).
 
@@ -101,5 +101,3 @@ If you have any questions about this Privacy Policy, or the practices of this Si
 Or write to us at:
 
 **Cheryl Malik, 648 Riverside Drive #316, Memphis TN 38103**
-
-[](https://www.pinterest.com/pin/create/button/)
