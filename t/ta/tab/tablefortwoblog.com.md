@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tablefortwoblog.com privacy policy that was archived on 2018-10-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181031101244id_/https%3A//www.tablefortwoblog.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tablefortwoblog.com privacy policy that was archived on 2019-03-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190330122001id_/https%3A//www.tablefortwoblog.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Table for Two® by Julie Wampler
 
@@ -131,7 +131,7 @@ Please note that we may need to retain certain information for our recordkeeping
 If there are any questions regarding this privacy policy, you may contact us using the information below.
 
  **Table for Two, LLC**  
-P.O. Box 27170  
-Washington, DC 20038-7170  
+P.O. Box 112  
+Vienna, VA 22183-0112  
 United States  
 julie [at] tablefortwoblog.com
