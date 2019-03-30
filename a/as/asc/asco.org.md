@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the asco.org privacy policy that was archived on 2018-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181227014316id_/https%3A//www.asco.org/about-asco/legal/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the asco.org privacy policy that was archived on 2019-03-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190330211612id_/https%3A//www.asco.org/about-asco/legal/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | ASCO
 
@@ -12,7 +12,7 @@ We've broken this policy down into the following sections, so you can find the d
 
   1. How to use this Privacy Policy
   2. Who we are
-  3. How this policy applies
+  3. How this Policy applies
   4. Who collects information
   5. How we collect your information
   6. What we collect
@@ -60,7 +60,7 @@ This Privacy Policy applies to information you provide to us or that we collect 
 This Privacy Policy does not apply to information:
 
   * We collect through any other means not referred to above; or
-  * Collected through our mobile applications, which provide dedicated non-browser-based interaction between you and ASCO. Our mobile applications are governed by a separate Mobile Application Privacy Policy, available when you download each application, e.g., iPlanner.
+  * Collected through our mobile applications, which provide dedicated non-browser-based interaction between you and ASCO. Our mobile applications are governed by a separate [Mobile Application Privacy Policy](https://web.archive.org/about-asco/legal/mobile-app-privacy-policy), available when you download each application, e.g., iPlanner.
 
 
 
@@ -117,7 +117,7 @@ The types of information we may have depend on the ways in which you engage with
 
 
 
-**7\. How we use your Information**
+**7\. How we use your information**
 
 We use the information you provide to us and the information we collect automatically to improve our products, services, and your experience with the Website. Our use of your information and any communications from you to us will be consistent with the [Terms of Use](https://www.asco.org/about-asco/legal/terms-use) and this Privacy Policy. The information we collect about you and how we collect it varies depending on many factors, including: the products and services that you use and subscribe to, how you have used the products and services, your browser settings, and what we have obtained from a third-party with permission to share it with us. ASCO may process your personal data based on:
 
@@ -131,7 +131,7 @@ We use the information you provide to us and the information we collect automati
 
 
 
-**B. ASCO’s Legitimate Business Interests** , for example, fraud prevention, maintaining the security of our network and services, direct marketing, and improvement of our Website, products and services. This also includes use of your Non-Personal Information **(“NPI”) (see also, Section 13, Glossary).** The NPI we automatically collect from you is generally used to render, administer, and improve the Website, our services, and our business. It helps us to improve our Website and to deliver a better and more personalized service. Purposes for which we may use such information include, but are not limited to, the following: 
+**B. ASCO’s Legitimate Business Interests** , for example, fraud prevention, maintaining the security of our network and services, direct marketing, and improvement of our Website, products and services. This also includes use of your Non-Personal Information **(“NPI”) (see also,Section 13, Glossary). **The NPI we automatically collect from you is generally used to render, administer, and improve the Website, our services, and our business. It helps us to improve our Website and to deliver a better and more personalized service. Purposes for which we may use such information include, but are not limited to, the following: 
 
   * Presenting our Website and its contents to you.
   * Helping dynamically generate content on web pages or in newsletters.
@@ -165,7 +165,7 @@ Whenever we rely on this lawful basis to process your data, we assess our busine
 
 **C. Compliance with a mandatory legal obligation** , including for example accounting and tax requirements, which are subject to strict internal policies (such as retention periods), procedures, and your right to restrict usage of your data, which control the scope of legal assistance to be provided.
 
-**D. Consent**. When you give your consent for the processing of your personal information, you will be given details on how to change your mind at any time. Consent may be withdrawn or modified **at any time**. Visit the “Your rights” section of this policy for more information.
+**D. Consent**. When you give your consent for the processing of your personal information, you will be given details on how to change your mind at any time. Consent may be withdrawn or modified **at any time**. Visit the “Your rights and User Restrictions” section of this policy for more information.
 
 **E. Other potential uses for your personal information**
 
@@ -177,7 +177,7 @@ The Website makes use of automatic data collection technologies including first 
 
 The third parties who provide us with third-party Cookies, may use these technologies to collect information about you when you use the Website to provide you with advertising based on your visit to the Website or to collect impressions data regarding the efficacy of advertising placed with us. Third parties may have the ability to link the information they collect about you when you use the Website with other information they collect about you elsewhere on the Internet or information about the device you are using. Third parties may also collect information about your online activities over time and across different websites and other online services or mobile devices and may use this information to provide you with Online Behavioral Advertising or other targeted content. 
 
-We encourage you to research and learn about Cookies and other technical means through which information about you may be collected through the websites you visit. See also, Section 7.E and Section 10 of this Privacy Policy to learn how you can act to control the use of Cookies on your browser or device.
+We encourage you to research and learn about Cookies and other technical means through which information about you may be collected through the websites you visit. See also, Section 10 of this Privacy Policy to learn how you can act to control the use of Cookies on your browser or device.
 
 _Disclosure of Information to Third-Party Vendors and Service Providers_
 
@@ -218,7 +218,7 @@ Where applicable, we share information about you with:
 
 _Promotional Offers from ASCO and Third Parties_
 
-When you register, you may be asked whether you want to receive special announcements and future communications by email. If you check “yes” but change your mind at any time in the future and no longer wish to receive correspondence by email, you will be able to opt-out of these services. See Section 10, “Your rights and user restrictions”, below.
+When you register, you may be asked whether you want to receive special announcements and future communications by email. If you check “yes” but change your mind at any time in the future and no longer wish to receive correspondence by email, you will be able to opt-out of these services. See Section 10, “Your rights and User Restrictions”, below.
 
 _Cookies_
 
@@ -329,7 +329,7 @@ Please recognize that Third-Party Managed Pages (and their products and services
 
 _How to Lodge a Complaint_
 
-If you want to contact us about any of your rights or complain about how we use your information, contact our Customer Services team or email us at [customerservice@asco.org](mailto:customerservice@asco.org). We’ll do our best to help but if you’re still unhappy, you can contact the Information Commissioner’s Office. Their website [www.ico.org.uk](http://www.ico.org.uk/) has details on how to [contact](https://ico.org.uk/global/contact-us/) them.
+If you want to contact us about any of your rights or complain about how we use your information, contact our Customer Services team or email us at [customerservice@asco.org](mailto:customerservice@asco.org). We’ll do our best to help but if you’re still unhappy, you can contact the Information Commissioner’s Office. Their website [www.ico.org.uk](https://ico.org.uk/) has details on how to [contact](https://ico.org.uk/make-a-complaint/) them.
 
 _Right to restrict use of your data_  
 If you feel data we hold on you is inaccurate, or you believe we shouldn’t be processing your data, please contact our Customer Services team to discuss your rights. In certain circumstances, you will have the right to ask us to restrict processing.
