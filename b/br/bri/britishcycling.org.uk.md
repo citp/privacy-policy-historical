@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the britishcycling.org.uk privacy policy that was archived on 2018-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180905185011id_/https%3A//www.britishcycling.org.uk/privacynotice) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the britishcycling.org.uk privacy policy that was archived on 2019-03-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190330125457id_/https%3A//www.britishcycling.org.uk/privacynotice) for the most accurate reproduction.*
 
 # Data Privacy Notice (updated 18/05/2018)
 
@@ -168,6 +168,6 @@ Any changes we may make to our Privacy Notice in the future will be posted on th
 
 #### How to contact us
 
-If you wish to contact us about your personal data or exercise any of the rights described above please contact:[ compliance@britishcycling.org.uk](mailto:compliance@britishcycling.org.uk)
+If you wish to contact us about your personal data or exercise any of the rights described above please contact:[ dataprotection@britishcycling.org.uk](mailto:dataprotection@britishcycling.org.uk)
 
-Legal and Compliance, British Cycling Federation, Stuart Street, Manchester, Lancashire M11 4DQ
+The Data Protection Officer, British Cycling Federation, Stuart Street, Manchester, Lancashire M11 4DQ
