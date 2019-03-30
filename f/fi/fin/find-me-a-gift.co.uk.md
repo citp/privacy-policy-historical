@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the find-me-a-gift.co.uk privacy policy that was archived on 2018-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181229102153id_/https%3A//www.findmeagift.co.uk/privacy-policy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the find-me-a-gift.co.uk privacy policy that was archived on 2019-03-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190330074343id_/https%3A//www.findmeagift.co.uk/privacy-policy.asp) for the most accurate reproduction.*
 
 # Privacy Policy | Find Me A Gift
 
@@ -31,7 +31,7 @@ We have appointed a data protection champion who is responsible for questions in
 
 ### Contact details
 
-Full name of legal entity: Find Me A Gift Limited, a limited company with registered number 4017992. Find Me A Gift is registered, and operates, in the United Kingdom.
+Full name of legal entity: Gift Inspiration Limited, a limited company with registered number 11867951. Gift Inspiration Limited is registered, and operates, in the United Kingdom. Find Me A Gift is the trading name of Gift Inspiration Limited.
 
 Postal address: Find Me A Gift, Northfield Road, Kineton Rd Industrial Estate, Southam, Warwickshire, CV47 0FG
 
@@ -357,7 +357,6 @@ Performance | Google Analytics,
 Google Optimize | Google Analytics use cookies (or, if applicable, anonymous identifiers) to collect data that helps us understand how people are using the site. We use this information to identify how and where we can improve the customer experience, and to help us determine where our ads will be most effective online. The data collected through these cookies is anonymous, does not collect specific customer data and is never shared with other third parties.  
 Performance | Attraqt | Attraqt uses cookies to track the activity of customers on the site in order to help us provide the most relevant product recommendations to you based on the products you have previously viewed or purchased and the categories in which you have previously expressed an interest.  
 Performance | Competera | Competera uses cookies to track the activity of customers on the site in order to help us provide the most relevant product recommendations to you based on the products you have previously viewed or purchased and the categories in which you have previously expressed an interest.  
-Performance | Bronto | Bronto manage our transactional & marketing emails, also tracking customers on the site to help us determine what products to highlight and give you an effective online experience.   
 Performance | Hotjar | Hotjar allows us to track customer activity, allowing us to identify where we can improve the customer experience.  
 Experience | YouTube | We embed videos from our official YouTube channel using YouTube’s privacy-enhanced mode. This mode may set cookies on your computer once you click on the YouTube video player.  
 Experience | Social Media Plugins | Sites like Facebook, Pinterest, Twitter, serve cookies in order to be able to share & discuss FMAG’s products on social sites.  
