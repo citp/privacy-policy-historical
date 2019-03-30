@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the easydns.com privacy policy that was archived on 2018-08-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180812040028id_/https%3A//easydns.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the easydns.com privacy policy that was archived on 2019-03-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190330014821id_/https%3A//easydns.com/privacy-policy) for the most accurate reproduction.*
 
-# easyDNS Technologies Inc. DOMAINS - Register, Transfer Domains
-
-###### Privacy Policy
+# Privacy Policy
 
 easyDNS™ does not in any way share the personal information that you have included in the personal information section of your easyDNS™ member pages. Your information is neither sold nor rented to any third party or information collection organization and is used solely for the administration of your easyDNS™ account.
 
@@ -20,7 +18,7 @@ All registered domain names are required by ICANN to contain accurate, publicly 
 
 easyDNS members may choose to use their personal information as the public whois information for domain names registered with easyDNS™. However, whois information is not private information and cannot be protected by easyDNS under this privacy policy.
 
-For an example of what Whois information looks like please visit [easyWhois™](http://www.easywhois.com/) and perform a Whois lookup on “easyDNS.com”.
+For an example of what Whois information looks like please visit [easyWhois™](http://www.easywhois.com/) and perform a Whois lookup on “easyDNS.com”.
 
 If you have any questions or concerns please contact privacy@easydns.com
 
@@ -28,7 +26,7 @@ If you have any questions or concerns please contact privacy@easydns.com
 
 We do not collect personal information without your knowledge and permission, nor do we resell or distribute any site visitor data, including information that may be collected as a natural by-product of your visit.
 
-For general information on what cookies are and what they can and can’t do for you, take a quick look at our [Cookie FAQ](https://web.easydns.com/privacy.php#cookiefaq) below.
+For general information on what cookies are and what they can and can’t do for you, take a quick look at our [Cookie FAQ](https://web.easydns.com/privacy.php#cookiefaq) below.
 
 The widespread concern about cookies has very little to do with the technology and very much to do with the fear that unscrupulous site operators might use cookies for unacceptable practices.
 
@@ -59,4 +57,4 @@ No. Here are a list of things that a cookie can’t do:
 
 ## Where can I find more information on cookies?
 
-A search for “internet cookies” or “persistent cookies” on any search engine should provide a wealth of links to more information. [dmoz](http://dmoz.org/) has a fairly comprehensive list of some of the best resources.
+A search for “internet cookies” or “persistent cookies” on any search engine should provide a wealth of links to more information. [dmoz](http://dmoz.org/) has a fairly comprehensive list of some of the best resources.
