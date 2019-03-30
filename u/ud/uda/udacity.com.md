@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the udacity.com privacy policy that was archived on 2018-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181227135203id_/https%3A//www.udacity.com/legal/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the udacity.com privacy policy that was archived on 2019-03-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190330205447id_/https%3A//www.udacity.com/legal/privacy) for the most accurate reproduction.*
 
 # Udacity Privacy Policy | Udacity
-
-_Effective: May 25, 2018_
 
 At Udacity (“Udacity”, “we”, “us”, “our”) we respect your privacy rights. We have created this privacy policy (“Privacy Policy”) to explain how we treat the information collected and received from your use of our Services (as defined in our Terms of Use or “TOU”) provided through the website, [http://www.udacity.com](http://www.udacity.com/) and any other websites or applications we own, operate, or control (the “Website(s)”). This Privacy Policy applies only to the Services, and we are not responsible for the practices of persons, companies, institutions or websites that Udacity does not control, manage, or employ. Capitalized terms not defined herein have the meanings set forth in the TOU.
 
@@ -153,9 +151,24 @@ To the extent that you make such a request, we require certain information to he
 
 Depending on the circumstances and the information you request, we may require additional methods of verification in our discretion.
 
-#### Marketing Communications
+#### Communications & Notification Preferences and Opting Out
 
-You may instruct us not to use your contact information to contact you by email, postal mail, or phone regarding products, services, promotions and special events that might appeal to your interests by contacting us using the information below. In commercial email messages, you can also opt out by following the instructions located at the bottom of such emails. Please note that, regardless of your request, we may still use and share certain information as permitted by this Privacy Policy or as required by applicable law. For example, you may not opt out of certain operational emails, such as those reflecting our relationship or transactions with you.
+We provide our Users with the opportunity to update their information or to opt out of having their contact information used for purposes not directly related to payment or servicing of your account.
+
+If you are a Student and wish to opt out of any of the communications offered by Udacity, you may do so at any time. Log into your account, select the Settings page, and navigate to 'Notification Preferences.' From there, you can manage Udacity communication subscriptions, including text message study reminders, mentor communications, Career Services support (if applicable), community notifications, and marketing and promotional communications by selecting or de-selecting any of the the methods from which you wish to opt out or opt in.
+
+If you are not a Student, or wish to opt out through alternative means, you may opt out as follows:
+
+  * Contact us by email at [support@udacity.com](mailto:support@udacity.com)
+  * Contact us via postal mail to Udacity, 2440 El Camino Real, Floor 6, Mountain View, CA 94040; Attn: Udacity Support
+
+
+
+Please identify the communication methods (e.g., phone, email, or SMS text message) by which you desire to stop receiving messages.
+
+You may unsubscribe from our commercial or marketing email communications at any time by following the unsubscribe instructions located at the bottom of such emails. If you have opted in to receive marketing text message communications from Udacity, you can opt out of those messages by following the instructions in those messages or by contacting us at the information provided above.
+
+Please note that, regardless of your request, we may still use and share certain information as permitted by this Privacy Policy or as required by applicable law. For example, you may not opt out of certain operational emails, such as those reflecting our relationship or transactions with you.
 
 ## Retention of Your Information
 
