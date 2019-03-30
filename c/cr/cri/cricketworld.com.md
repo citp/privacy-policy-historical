@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cricketworld.com privacy policy that was archived on 2018-11-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181117183448id_/https%3A//www.cricketworld.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cricketworld.com privacy policy that was archived on 2019-03-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190330102617id_/https%3A//www.cricketworld.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Cricket World
 
