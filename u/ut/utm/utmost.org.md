@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the utmost.org privacy policy that was archived on 2018-09-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180916100509id_/https%3A//ourdailybread.org/policy/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the utmost.org privacy policy that was archived on 2019-03-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190330163254id_/https%3A//ourdailybread.org/policy/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Our Daily Bread Ministries
 
@@ -85,6 +85,7 @@ To allow us to provide the features and functionalities necessary to run our web
   * **WooCommerce:** Another tool we use to deliver our website experience when you make a financial transaction, for example a donation, on some of our websites.
   * **CrazyEgg:** General usage statistics used to help identify areas of the site that are most used, not used, and how to make our websites easier to use to spend time in God’s Word.
   * **Unbounce:** A website testing tool that allows us to test multiple ideas at the same time to select number of visitors. For example, we may want to test a different button color to a small group of visitors and see how it performs before having all visitors use it.
+  * **State and Federal Agencies:  **We may also need to furnish donor information to state or federal agencies in accordance with applicable statutes.
 
 
 
