@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the opindia.com privacy policy that was archived on 2018-09-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180910234948id_/http%3A//www.opindia.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the opindia.com privacy policy that was archived on 2019-03-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190330082240id_/https%3A//www.opindia.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | OpIndia.com
+# Privacy Policy – OpIndia News
 
 ## Who we are
 
-OpIndia.com is a news and opinions website from India. More [about us can be read here](http://www.opindia.com/about/).
+OpIndia.com is a news and opinions website from India. More [about us can be read here](https://www.opindia.com/about/).
 
 ## What personal data we collect and why we collect it
 
@@ -50,4 +50,4 @@ Visitor comments may be checked through an automated spam detection service.
 
 ## Contact information
 
-For further details, [please get in touch with us](http://www.opindia.com/contact/).
+For further details, [please get in touch with us](https://www.opindia.com/contact/).
