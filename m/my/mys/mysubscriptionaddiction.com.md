@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the mysubscriptionaddiction.com privacy policy that was archived on 2018-09-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180928102711id_/https%3A//www.mysubscriptionaddiction.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mysubscriptionaddiction.com privacy policy that was archived on 2019-03-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190330163443id_/https%3A//www.mysubscriptionaddiction.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | MSA
+
+* * *
 
 This post may contain referral/affiliate links. If you buy something, MSA may earn a commission. Read the full [disclosure](https://www.mysubscriptionaddiction.com/disclaimer). 
 
