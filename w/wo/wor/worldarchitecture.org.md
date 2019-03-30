@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the worldarchitecture.org privacy policy that was archived on 2018-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181119173456id_/https%3A//static.worldarchitecture.org/svs/html/WA_Privacy_Policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the worldarchitecture.org privacy policy that was archived on 2019-03-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190330111545id_/https%3A//static.worldarchitecture.org/svs/html/WA_Privacy_Policy.htm) for the most accurate reproduction.*
 
 # World Architecture Community - Privacy Policy
 
@@ -12,7 +12,7 @@ This Privacy Policy will apply whether you are a "Visitor" (which means that you
 As such, we are implementing new options whereby we are introducing the following features on WA:
 
     1. **Consent.** In our new Privacy Policy, we outline how we use your personal data, who we expose your data to and how long we keep it. In order to use our services, we ask you to specifically consent to it. At any given time, you may verify if and when you have accepted our Privacy Policy or revoke your consent.
-    2. **Data Protection Officer (DPO).** If you have a special request concerning your personal data, you are able to [contact our Data Protection Officer](https://web.archive.org/web/20181119173456id_/https%3A//static.worldarchitecture.org/svs/html/dpo@worldarchitecture.org) directly.
+    2. **Data Protection Officer (DPO).** If you have a special request concerning your personal data, you are able to [contact our Data Protection Officer](https://web.archive.org/web/20190330111545id_/https%3A//static.worldarchitecture.org/svs/html/dpo@worldarchitecture.org) directly.
     3. **Privacy Settings.** We provide you full control of third parties we share your data with.
     4. **Request Archive.** You may perform a Subject Access Request. When you do so, we will send you a copy of all the personal data we currently possess on you.
     5. **Unsubscribe.** You have an option to start or stop receiving all marketing e-mails from us.
