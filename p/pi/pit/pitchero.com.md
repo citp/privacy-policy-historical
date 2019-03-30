@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pitchero.com privacy policy that was archived on 2018-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181231031928id_/https%3A//www.pitchero.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pitchero.com privacy policy that was archived on 2019-03-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190330172314id_/https%3A//www.pitchero.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Pitchero
 
@@ -48,7 +48,7 @@
 3.2.1
     **IP Address** \- We may collect information about your device, including where available your Internet Protocol address, for reasons of fraud protection. We may also collect information about your device’s operating system and browser type, for system administration and to report aggregate information to our advertisers. This is statistical data about our users' browsing actions and patterns, and does not identify any individual.
 3.2.2
-    **Cookies** \- Our Site uses cookies to distinguish you from other users of our Site. This helps us to provide you with a good experience when you browse our Site and also allows us to improve our Site. For detailed information on the cookies we use and the purposes for which we use them see our [Cookie Policy.](http://www.pitchero.com/cookie-policy)
+    **Cookies** \- Our Site uses cookies to distinguish you from other users of our Site. This helps us to provide you with a good experience when you browse our Site and also allows us to improve our Site. For detailed information on the cookies we use and the purposes for which we use them see our [Cookie Policy.](https://www.pitchero.com/cookie-policy)
 
 4
     
@@ -130,7 +130,7 @@
      **Your right to opt-out** \- You have a right to opt-out of receiving any marketing information (from ourselves and/or a third party) at any time. To opt-out of receiving such information you can: 
 
 9.6.1
-    amend your preferences accordingly in your [on-line account](https://secure.pitchero.com/account/settings/details); or
+    amend your preferences accordingly in your [on-line account](https://www.pitchero.com/account/settings/details); or
 9.6.2
     use the facility contained in any marketing communication you receive; or
 9.6.3
@@ -163,15 +163,17 @@
 10.1.8
     Third parties who we may choose to sell, transfer or merge parts of our business or assets. Alternatively, we may seek to acquire other businesses, then the new owners may use your personal data in the same way as set out in this privacy policy;
 10.1.9
-    to the police, regulatory bodies or legal advisers in connection with any alleged criminal offence or suspected breach of the [Terms of Service](http://www.pitchero.com/terms-of-service) or where We are under a duty to disclose or share Your Data in order to comply with any legal obligation;
+    to the police, regulatory bodies or legal advisers in connection with any alleged criminal offence or suspected breach of the [Terms of Service](https://www.pitchero.com/terms-of-service) or where We are under a duty to disclose or share Your Data in order to comply with any legal obligation;
 10.1.10
-    to governing and representative bodies of sport and recreation including local and county league’s to improve the management and co-ordination of sport within their territory, undertake marketing and survey participation (where we have your consent);
+    to governing and representative bodies of sport and recreation including local and county league’s to improve the management and co-ordination of sport within their territory, and, where we have your consent, undertake marketing and survey participation;
 10.1.11
     social media organisations for their own promotion and marketing purposes (this relates to video footage only and such data will only be shared with your prior consent);
 10.1.12
     to software suppliers when you use the chat forums with our applications. The software analyses user generated content to identify any anomalies which may indicate behaviour that poses a threat to children. Where such a threat is identified further to analysis of the individual’s behaviour, we may take action we consider appropriate including but not limited to removing you as a registered user and/or the notification of law enforcement organisations; and
 10.1.13
     to Minute Media who work with various third parties to identify audience segments to advertise to. Software is used to track website use and helps build a profile resulting in adverts being sent to you which match your profile. As a consequence, you will see third party advertisements relevant to your interests and lifestyle when you visit our website. Please note that the only information we share with Minute Media is your sex (M/F) and whether you are a youth player (where you have disclosed this information to us). You cannot be identified from this information. Minute Media is required to adhere to strict guidelines when advertising to our users and we prohibit the use of advertisements containing adult or salacious content. You can find out more about how Minute Media will treat this data by viewing [Minute Media’s privacy policy](https://www.minutemedia.com/privacy-policy). You may also go to [www.youronlinechoices.eu](https://www.youronlinechoices.eu/) if you are in Europe, or to [www.aboutads.info](http://www.aboutads.info/choices) if you are anywhere else for instructions on how to disable cookies which may be used by advertisers to target You.
+10.1.14
+    to LiveRamp Inc and its group companies (“LiveRamp“), where we have your consent, a hashed representation of your email address, IP address or information about your browser or operating system, who may drop a cookie on your browser and match your shared information to their on-and-offline marketing databases and those of its advertising partners to create a link between your browser and information in those other databases. This link may be shared by LiveRamp’s partners globally for the purpose of enabling interest-based content or advertising throughout your online experience (cross-device, web, email and in-app) by third parties unaffiliated with our website. These third parties may, in turn, link further demographic or interest-based information to your browser. You can easily opt-out at any time and prevent the setting of this cookie via the [LiveRamp opt-out page](https://liveramp.uk/opt_out/)
 
 11
     
@@ -222,7 +224,7 @@
 ### Access to, updating, deleting and restricting use of your data
 
 15.1
-     It is important that the personal data we hold about you is accurate and current. Please keep us informed if the personal data we hold about you changes. Where you are a registered user of PITCHERO.COM you may update your data contained in your [on-line account](https://secure.pitchero.com/account) at any time). 
+     It is important that the personal data we hold about you is accurate and current. Please keep us informed if the personal data we hold about you changes. Where you are a registered user of PITCHERO.COM you may update your data contained in your [on-line account](https://www.pitchero.com/account) at any time). 
 15.2
      Data protection legislation gives you the right to object to the processing of your personal data in certain circumstances or withdraw your consent to the processing of your personal data where this has been provided. You also have the right to access information held about you and for this to be provided in an intelligible form. If you would like a copy of some or all of your personal data, please send an email to [support@pitchero.com](mailto:support@pitchero.com). In certain circumstances we reserve the right to charge a reasonable fee to comply with your request. 
 15.3
@@ -265,4 +267,4 @@
 18.1
      If You have any questions, comments or requests regarding this policy or how We use Your Data please contact our Data Protection Lead at [support@pitchero.com](mailto:support@pitchero.com). This is in addition to your right to contact the Information Commissioners Office if you are unsatisfied with our response to any issues you raise at [https://ico.org.uk/global/contact-us](https://ico.org.uk/global/contact-us/). 
 
-Privacy Policy last updated: October 2018
+Privacy Policy last updated: March 2019
