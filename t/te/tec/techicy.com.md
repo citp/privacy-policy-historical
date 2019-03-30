@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the techicy.com privacy policy that was archived on 2017-11-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171111161314id_/http%3A//www.techicy.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the techicy.com privacy policy that was archived on 2019-03-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190330162958id_/https%3A//www.techicy.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy policy - Techicy
 
@@ -55,13 +55,13 @@ We do not include or offer third party products or services on our website.
 
 Â  **Google**
 
-Google’s advertising requirements can be summed up by Google’s Advertising Principles. They are put in place to provide a positive experience for users. https://support.google.com/adwordspolicy/answer/1316548?hl=en
+Google’s advertising requirements can be summed up by Google’s Advertising Principles. They are put in place to provide a positive experience for users. <https://support.google.com/adwordspolicy/answer/1316548?hl=en>
 
 We have not enabled Google AdSense on our site but we may do so in the future.
 
 **California Online Privacy Protection Act**
 
-CalOPPA is the first state law in the nation to require commercial websites and online services to post a privacy policy. The law’s reach stretches well beyond California to require a person or company in the United States (and conceivably the world) that operates websites collecting personally identifiable information from California consumers to post a conspicuous privacy policy on its website stating exactly the information being collected and those individuals with whom it is being shared, and to comply with this policy. – See more at: http://consumercal.org/california-online-privacy-protection-act-caloppa/#sthash.0FdRbT51.dpuf
+CalOPPA is the first state law in the nation to require commercial websites and online services to post a privacy policy. The law’s reach stretches well beyond California to require a person or company in the United States (and conceivably the world) that operates websites collecting personally identifiable information from California consumers to post a conspicuous privacy policy on its website stating exactly the information being collected and those individuals with whom it is being shared, and to comply with this policy. – See more at: <http://consumercal.org/california-online-privacy-protection-act-caloppa/#sthash.0FdRbT51.dpuf>
 
 **According to CalOPPA we agree to the following:**
 
@@ -132,6 +132,6 @@ Mumbai, Maharashtra 400072
 
 India
 
-contact@techicy.com
+drupnar@gmail.com
 
-Last Edited on 2015-05-08
+Last Edited on 2018-05-08
