@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the paulmccartney.com privacy policy that was archived on 2018-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180619000823id_/https%3A//www.paulmccartney.com/terms-and-conditions) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the paulmccartney.com privacy policy that was archived on 2019-03-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190330085426id_/https%3A//www.paulmccartney.com/privacy-policy) for the most accurate reproduction.*
 
-# Terms and Conditions | PaulMcCartney.com
+# Privacy Policy | PaulMcCartney.com
 
 This privacy policy explains how we process your personal data when you use our website, PaulMcCartney.com (Website). If you have any questions or comments about this privacy policy, please let us know by email to [webmaster@paulmccartney.com](mailto:webmaster@paulmccartney.com)
 
