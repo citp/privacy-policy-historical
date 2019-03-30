@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the themalaysianinsight.com privacy policy that was archived on 2018-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181227105006id_/https%3A//www.themalaysianinsight.com/i/596) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the themalaysianinsight.com privacy policy that was archived on 2019-03-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190330092919id_/https%3A//www.themalaysianinsight.com/i/596) for the most accurate reproduction.*
 
 # Privacy Policy | The Malaysian Insight
 
