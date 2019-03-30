@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sweepsadvantage.com privacy policy that was archived on 2017-01-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170130170057id_/https%3A//www.sweepsadvantage.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sweepsadvantage.com privacy policy that was archived on 2019-03-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190330075553id_/https%3A//www.sweepsadvantage.com/privacy.htm) for the most accurate reproduction.*
 
 # Sweepstakes Advantage is committed to respecting and protecting your personal privacy
 
@@ -6,8 +6,12 @@ Sweepstakes Advantage is committed to respecting and protecting your personal pr
 
 ## What Does the Sweepstakes Advantage Privacy Policy Cover?
 
-  * This Privacy Policy applies to sites that have URLs (for example, www. _____.com) ending in SweepsAdvantage.com or sweeps.ws. 
-  * Inclusion of the Sweepstakes Advantage logo at the top of a web page does not necessarily mean that this Privacy Policy applies. Be sure to check the URL that you link to from Sweepstakes Advantage web pages to determine whether this Privacy Policy applies. If you have any questions about this, contact us at [info@sweepsadvantage.com](mailto:info@sweepsadvantage.com). 
+  
+We use Ezoic to provide personalization and analytic services on this website, as such Ezoic's privacy policy is in effect and can be reviewed [here](https://g.ezoic.net/privacy/sweepsadvantage.com).  
+
+
+  * This Privacy Policy applies to sites that have URLs (for example, www. _____.com) ending in SweepsAdvantage.com or SweepstakesPlus.com. 
+  * Inclusion of the Sweepstakes Advantage logo at the top of a web page does not necessarily mean that this Privacy Policy applies. Be sure to check the URL that you link to from Sweepstakes Advantage web pages to determine whether this Privacy Policy applies. If you have any questions about this, contact us at [[email protected]](https://www.sweepsadvantage.com/cdn-cgi/l/email-protection#6b02050d042b181c0e0e1b180a0f1d0a051f0a0c0e45080406). 
 
 
 
@@ -32,7 +36,7 @@ Sweepstakes Advantage is committed to respecting and protecting your personal pr
 
 ## What Choices Do You Have?
 
-  * You may edit or delete your Sweepstakes Advantage Member Registration information and account preferences, including whether you want us to contact you about special offers and products, at the Sweepstakes Advantage Subscriptions page at any time. Even so, certain information might remain in our records for a short time after your account is deleted. 
+  * You may edit your Sweepstakes Advantage Member Registration information and account preferences, including whether you want us to contact you about special offers and products, at the Sweepstakes Advantage Subscriptions page at any time. You can request your account to be deleted by using the "contact us" link located at the bottom of each page. 
 
 
 
@@ -43,14 +47,28 @@ Sweepstakes Advantage is committed to respecting and protecting your personal pr
 
 
 
+## Data Retention Policy
+
+  * When you register for a free account on Sweepstakes Advantage or Sweepstakes Plus your data is kept as log as we detect login activity. If no login activity is detected for greater than a year. We reserve the right to delete the account. You can also request to have your account deleted at any time by contacting us, using the Contact us link at the bottom of this page. 
+  * When signing up for the Sweepstakes Advantage newsletter your email remains on the active subscriber list until you unsubscribe or until we perform our yearly review and automaticly remove inactive email addresses. Newsletter subscribers can unsubscribe at any time by clicking the unsubscribe link at the botton of each newsletter. They can also request removal by contacting us, using the Contact Us link at the bottom of this page. 
+
+
+
+## How is Privacy handled for the Sweepstakes Advantage Newsletter?
+
+  * Sweepstakes Advantage never sells or shares it's newsletter email list with any other parties.
+  * The email address is collected for the sole pupose of receiving the newsletter from Sweepstakes Advantage.
+
+
+
 ## How Will You Be Notified if Sweepstakes Advantage Changes This Privacy Policy?
 
 Sweepstakes Advantage updates this policy from time to time so please review it periodically. Bear in mind that the only way to ensure your personal privacy whenever you are on the Internet is to make sure your browser is configured so that you are alerted to the placement of all cookies. 
 
 ## Your Questions or Suggestions Regarding This Privacy Policy
 
-  * If you have any questions or concerns about this privacy policy or the practices of this site, please email us at [info@sweepsadvantage.com](mailto:webmaster@sweepsadvantage.com)
+  * If you have any questions or concerns about this privacy policy or the practices of this site, please email us at [[email protected]](https://www.sweepsadvantage.com/cdn-cgi/l/email-protection#4b3c2e29262a383f2e390b383c2e2e3b382a2f3d2a253f2a2c2e65282426)
 
 
 
-Last updated April 14, 2015
+Last updated May 21, 2018
