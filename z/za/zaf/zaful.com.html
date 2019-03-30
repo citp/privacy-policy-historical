@@ -1,7 +1,235 @@
-<!--The following is the downloaded HTML source of the zaful.com privacy policy that was archived on 2018-12-15.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20181215215332id_/https%3A//www.zaful.com/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the zaful.com privacy policy that was archived on 2019-03-30.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20190330194051id_/https%3A//www.zaful.com/privacy-policy) for the most accurate reproduction.-->
 
-<!DOCTYPE html><html lang="en"><head> <meta charset="UTF-8"><meta name="viewport" content="width=1300"><link rel="manifest" href="/manifest.json"><link rel="dns-prefetch" href="//review.zafcdn.com"><link rel="dns-prefetch" href="//ar.zaful.com"><link rel="dns-prefetch" href="//cart.zaful.com"><link rel="dns-prefetch" href="//css.zafcdn.com"><link rel="dns-prefetch" href="//csslb.zaful.com"><link rel="dns-prefetch" href="//icss1.zaful.com"><link rel="dns-prefetch" href="//es.zaful.com"><link rel="dns-prefetch" href="//ion.zaful.com"><link rel="dns-prefetch" href="//fr.zaful.com"><link rel="dns-prefetch" href="//www.zaful.com"><link rel="dns-prefetch" href="//user.zaful.com"><link rel="dns-prefetch" href="//uidesign.zafcdn.com"><link rel="dns-prefetch" href="//checkout.zaful.com"><link rel="preload" as="font" crossorigin="" type="font/woff2" href="https://css.zafcdn.com/imagecache/ZF_EN/fonts/OpenSans-Regular.woff2"><link rel="preload" as="font" crossorigin="" type="font/woff2" href="https://css.zafcdn.com/imagecache/ZF_EN/fonts/OpenSans-Bold.woff2"><link rel="preload" as="font" crossorigin="" type="font/woff2" href="https://css.zafcdn.com/imagecache/ZF_EN/fonts/OpenSans-Semibold.woff2"><meta name="google-translate-customization" content="6758c669d9405f9b-6a38166c265937be-gc21ba12419144a76-15"> <title>ZAFUL: Privacy Policy</title><link rel="shortcut icon" href="/favicon.ico?20180901"><link rel="apple-touch-icon" href="https://css.zafcdn.com/imagecache/ZF_EN/images/keep-icon-120.png?201601061400"> <meta name="keywords" content=""> <meta name="description" content=""><meta name="p:domain_verify" content="3185cc9cfc0a622270f5fa86f438a202"><meta name="msvalidate.01" content="7E0C795DAA080F9D7668B92F2537FC84"> <meta name="GLOBEL:ubci" content="ZA_SESSIONID" attr-id="article">  <meta name="GLOBEL:ubcd" content="10013">  <meta name="GLOBEL:dc" content="1301">            <!--[if lte IE 8]><script>
+<!DOCTYPE html><html lang="en"><head> <meta charset="UTF-8"><meta name="viewport" content="width=1300">  <script type="text/javascript" async="" src="//analytics.logsss.com/logsss20.min.js"></script><script async="" src="https://www.googletagmanager.com/gtm.js?id=GTM-555KK4J"></script><script>
+    
+    window.sessionStorage = sessionStorage || {
+        setItem: function () {},
+        getItem: function () {},
+        removeItem: function () {}
+    };
+    window.g_BTSABTEST_OBJ = (function() {
+        window.CONTROLLER = 'article';
+        var currentPage = 'article',
+            isCheckoutPage = "0",
+            planMap = {};
+        function getCookie(name){
+            var arr,reg=new RegExp("(^| )"+name+"=([^;]*)(;|$)");
+            if(arr=document.cookie.match(reg))
+                return unescape(arr[2]);
+            else
+                return null;
+        }
+        function setCookie(cname, cvalue, exdays) {
+            var d = new Date();
+            d.setTime(d.getTime() + (exdays*24*60*60*1000));
+            var expires = "expires="+d.toUTCString();
+            document.cookie = cname + "=" + cvalue + ";" + expires + ";path=/;domain=.zaful.com";
+        }
+        
+        var COOKIENAME = 'bts_abtest_data',
+            TIMEOUT = 3e3,
+            COOKIEEXPIRETIME = 1/24; //1h
+        // \u8f6c\u4e3a\u5bf9\u8c61\u540e\u683c\u5f0f\u4e3a[{policy: 'A', planid: '', versionid: ''}]
+        //\u8bf7\u6c42bts\u63a5\u53e3
+        var requestTestInfo = function (key, useOnlineUrl, callback) {
+            var aburl = 'https://api-bts.logsss.com/gateway/shunt';
+            if ('0'=='1' && !useOnlineUrl){
+                aburl='http://35.175.15.99:9086/gateway/shunt';
+            }
+            var xhr = new XMLHttpRequest();
+            xhr.open('POST', aburl, true);
+            xhr.timeout = TIMEOUT;
+            xhr.setRequestHeader("Content-Type", 'application/json');
+            xhr.onreadystatechange = function () {
+                if(xhr.status == 200 && xhr.readyState == 4) {
+                    var res = xhr.response,
+                        result = {};  
+                    if(typeof res == 'string') {
+                        try {
+                            res = JSON.parse(res);
+                        }catch(e) {}
+                    }
+                    if(res.code == '200' && res.result) {
+                        if(Object.assign) {
+                            Object.assign(result, res.result);
+                        }else {
+                            Object.keys(res.result).forEach(function (key) {
+                                result[key] = res.result[key];
+                            });
+                        }
+                        callback && callback(result);
+                    }else {
+                        //\u63a5\u53e3\u8bf7\u6c42\u5b8c\u6210\u540e\uff0c\u5982\u679c\u6ca1\u83b7\u53d6\u5230\u5206\u6d41\u7248\u672c\uff0c\u4e5f\u8bb0\u5f55\u5f53\u524d\u6570\u636e
+                        callback && callback({plancode: key, noData: true});
+                    }
+                }
+            };
+            xhr.ontimeout = function () {
+                callback && callback({plancode: key, noData: true});
+            };
+            xhr.send(JSON.stringify({
+                appkey: 'ZF',
+                cookie: getCookie('AKAM_CLIENTID') || 'new',
+                plancode: key
+            }));
+        };
+        //\u83b7\u53d6\u6240\u6709\u7f13\u5b58\u5b9e\u9a8c\u6570\u636e
+        var getAllSavedData = function () {
+            var cookie = getCookie(COOKIENAME);
+            var uniqueArr = function (arr) {
+                var result = arr.slice();
+                for(var i = 0, len = arr.length; i < len; i++) {
+                    for(var j = i + 1; j < len; j++) {
+                        if(arr[j].planid === arr[i].planid) {
+                            result.splice(j, 1);
+                        }
+                    }
+                }
+                return result;
+            };
+            if(!cookie) {
+                return null;
+            }
+            try {
+                var data = JSON.parse(cookie);
+                data = uniqueArr(data);
+                for(var i = data.length -1; i >= 0; i--) {
+                    if(data[i].noData || !data[i].versionid) {
+                        data.splice(i, 1);
+                    }
+                }
+                return data;
+            }catch(e) {
+
+            }
+        };
+        //\u6839\u636e\u5b9e\u9a8c\u7f16\u7801\u83b7\u53d6\u672c\u5730\u7f13\u5b58\u6570\u636e
+        var getSavedData = function (key) {
+            var cookie = getCookie(COOKIENAME);
+            if(!cookie) {
+                return null;
+            }
+            try {
+                var data = JSON.parse(cookie);
+                for(var i = 0; i < data.length; i++) {
+                    if(key === data[i].plancode) {
+                        return data[i];
+                    }
+                }
+            }catch(e) {
+
+            }
+        };
+        //\u7f13\u5b58\u5b9e\u9a8c\u6570\u636e
+        var setSavedData = function (data) {
+            //\u5220\u9664\u5df2\u5b58\u5728\u7684\u6570\u636e\u6216\u5df2\u505c\u6b62\u7684\u5b9e\u9a8c
+            var delSameData = function (arr, key, planid) {
+                for(var i = arr.length -1; i >= 0; i--) {
+                    if(arr[i].plancode === key || (planid && arr[i].planid === planid)) {
+                        arr.splice(i, 1);
+                    }
+                }
+            }
+            if(!data) {
+                return;
+            }
+            var cookie = getCookie(COOKIENAME);
+            try {
+                var plans = cookie && JSON.parse(cookie) || [];
+                delSameData(plans, data.plancode, data.planid);
+                plans.push(data);
+                setCookie(COOKIENAME, JSON.stringify(plans), COOKIEEXPIRETIME);
+            }catch(e) {
+            }
+        };
+
+        var toggleCategoryTest = function (data) {
+            var testData = data || getSavedData('categorypc') || {},
+                sortOrder = /odr=([^?&]+)/.exec(location.search);
+
+            sortOrder = sortOrder && sortOrder[1];
+            if(sortOrder && sortOrder !== 'recommend') {
+                //\u53ea\u6709\u63a8\u8350\u6392\u5e8f\u624d\u8fdb\u884c\u5b9e\u9a8c
+                return;
+            };
+            if(testData.policy && location.search.indexOf('policy_key') === -1) {
+                sessionStorage.setItem('prevUrl_btstest', getCookie('previous-url') || document.referrer || '');
+                if (window.location.search) {
+                    window.location.replace(window.location.href.replace(window.location.search, window.location.search + '&policy_key=' + testData.policy));
+                }else {
+                    window.location.replace(window.location.protocol + '//' + window.location.host + window.location.pathname + '?policy_key=' + testData.policy + window.location.hash);
+                }
+            }
+        };
+      
+        var toggleSearchTest = function (data) {
+            var testData = data || getSavedData('keywordpc') || {},
+                sortOrder = /odr=([^?&]+)/.exec(location.search);
+
+            sortOrder = sortOrder && sortOrder[1];
+            if(sortOrder && sortOrder !== 'recommend') {
+                //\u53ea\u6709\u63a8\u8350\u6392\u5e8f\u624d\u8fdb\u884c\u5b9e\u9a8c
+                return;
+            };
+            if(testData.policy && location.search.indexOf('policy_key') === -1) {
+                if (window.location.search) {
+                    window.location.replace(window.location.href.replace(window.location.search, window.location.search + '&policy_key=' + testData.policy));
+                }else {
+                    window.location.replace(window.location.protocol + '//' + window.location.host + window.location.pathname + '?policy_key=' + testData.policy + window.location.hash);
+                }
+            }
+        };
+
+        var startPlans = function () {
+            //\u5168\u94fe\u8def\u5b9e\u9a8c\uff0c\u5206\u7c7b\u5546\u8be6\u9875
+            planMap.categorypc = true;
+            if(['category', 'goods'].indexOf(CONTROLLER) > -1) {
+                var allinTest = getSavedData('categorypc'),
+                    isCategory = 'category' === CONTROLLER;
+                
+                if(!allinTest) {
+                    requestTestInfo('categorypc', true, function (data) {
+                        setSavedData(data);
+                        isCategory && toggleCategoryTest(data);
+                    });
+                }else {
+                    isCategory && toggleCategoryTest(allinTest);
+                }
+            };
+
+            //\u641c\u7d22\u5b9e\u9a8c
+            if(['search'].indexOf(CONTROLLER) > -1) {
+                planMap.keywordpc = true;
+                var ctrPlan = getSavedData('keywordpc');
+                if(!ctrPlan) {
+                    requestTestInfo('keywordpc', true, function (data) {
+                        setSavedData(data);
+                        toggleSearchTest(data);
+                    });
+                }else {
+                    toggleSearchTest(ctrPlan);
+                }
+            }
+        };
+        
+        startPlans();
+        return {
+            getSavedData: getSavedData,
+            setSavedData: setSavedData,
+            getAllSavedData: getAllSavedData,
+            timeout: TIMEOUT,
+            cookieName: COOKIENAME,
+            startPlans: startPlans,
+            page: {
+                currentPage: currentPage,
+                isCheckoutPage: isCheckoutPage
+            },
+            planMap: planMap
+        };
+    })();
+    
+</script><link rel="manifest" href="/manifest.json"><link rel="dns-prefetch" href="https://www.zaful.com/"><link rel="dns-prefetch" href="//css.zafcdn.com"><link rel="dns-prefetch" href="//uidesign.zafcdn.com"><link rel="dns-prefetch" href="//gloimg.zafcdn.com"><link rel="dns-prefetch" href="//cart.zaful.com"><link rel="dns-prefetch" href="//www.gstatic.com"><link rel="dns-prefetch" href="//user.zaful.com"><link rel="dns-prefetch" href="//review.zafcdn.com"><link rel="dns-prefetch" href="//csslb.zaful.com"><link rel="dns-prefetch" href="//icss1.zaful.com"><link rel="dns-prefetch" href="//ion.zaful.com"><link rel="dns-prefetch" href="//checkout.zaful.com"><link rel="preload" as="font" crossorigin="" type="font/woff2" href="https://css.zafcdn.com/imagecache/ZF_EN/fonts/OpenSans-Regular.woff2"><link rel="preload" as="font" crossorigin="" type="font/woff2" href="https://css.zafcdn.com/imagecache/ZF_EN/fonts/OpenSans-Bold.woff2"><meta name="google-translate-customization" content="6758c669d9405f9b-6a38166c265937be-gc21ba12419144a76-15"> <title>ZAFUL: Privacy Policy</title><link rel="shortcut icon" href="/favicon.ico?20180901"><link rel="apple-touch-icon" href="https://css.zafcdn.com/imagecache/ZF_EN/images/keep-icon-120.png?201601061400"> <meta name="keywords" content=""> <meta name="description" content=""><meta name="p:domain_verify" content="3185cc9cfc0a622270f5fa86f438a202"><meta name="msvalidate.01" content="7E0C795DAA080F9D7668B92F2537FC84">  <meta name="GLOBEL:ubci" content="ZA_SESSIONID" attr-id="article">  <meta name="GLOBEL:ubcd" content="10013"><meta name="GLOBEL:dc" content="ZF"> <meta name="GLOBEL:pipe_code" content="ZF">          <!--[if lte IE 8]><script>
 (function(){for(var len = arguments.length,i=0;i<len;i++){ document.createElement(arguments[i])}})("address","article","aside","audio","canvas","details","figcaption","figure","header","footer","hgroup","menu","nav","section","summary","time","video");
 </script><![endif]-->  <style>
 
@@ -103,11 +331,11 @@
     font-style: normal;
 }
 
-</style><link rel="stylesheet" href="https://css.zafcdn.com/imagecache/ZF_EN/mincss/common_min.css?v=20181214111246">   <script type="text/javascript" async="" src="//analytics.logsss.com/logsss20.min.js"></script><script async="" src="https://www.googletagmanager.com/gtm.js?id=GTM-555KK4J"></script><script type="text/javascript">
+</style><link rel="stylesheet" href="https://css.zafcdn.com/imagecache/ZF_EN/mincss/common_min.css?v=20190330093459">   <script type="text/javascript">
 var JS_IMG_URL = "https://css.zafcdn.com/imagecache/ZF_EN/";
 var JS_LANG= "";
 var JS_LANG_CODE = "";
-var PIPELINE_MAP = {"zf":{"m_domain":"m.zaful.com","code":"zf","currency":"USD"},"zfes":{"m_domain":"es-m.zaful.com","code":"zfes","currency":"EUR"},"zffr":{"m_domain":"fr-m.zaful.com","code":"zffr","currency":"EUR"},"zfde":{"m_domain":"de-m.zaful.com","code":"zfde","currency":"EUR"},"zfar":{"m_domain":"ar-m.zaful.com","code":"zfar","currency":"SAR"},"zfpt":{"m_domain":"","code":"zfpt","currency":"EUR"},"zfit":{"m_domain":"","code":"zfit","currency":"EUR"},"zfid":{"m_domain":"","code":"zfid","currency":"USD"},"zfie":{"m_domain":"ie-m.zaful.com","code":"zfie","currency":"EUR"}};
+var PIPELINE_MAP = {"zf":{"m_domain":"m.zaful.com","code":"zf","currency":"USD"},"zfes":{"m_domain":"es-m.zaful.com","code":"zfes","currency":"EUR"},"zffr":{"m_domain":"fr-m.zaful.com","code":"zffr","currency":"EUR"},"zfde":{"m_domain":"de-m.zaful.com","code":"zfde","currency":"EUR"},"zfar":{"m_domain":"ar-m.zaful.com","code":"zfar","currency":"SAR"},"zfpt":{"m_domain":"","code":"zfpt","currency":"EUR"},"zfit":{"m_domain":"it-m.zaful.com","code":"zfit","currency":"EUR"},"zfid":{"m_domain":"","code":"zfid","currency":"IDR"},"zfie":{"m_domain":"eur-m.zaful.com","code":"zfie","currency":"EUR"},"zfca":{"m_domain":"ca-m.zaful.com","code":"zfca","currency":"CAD"},"zfgb":{"m_domain":"uk-m.zaful.com","code":"zfgb","currency":"GBP"},"zfau":{"m_domain":"au-m.zaful.com","code":"zfau","currency":"AUD"},"zfnz":{"m_domain":"nz-m.zaful.com","code":"zfnz","currency":"NZD"},"zfch":{"m_domain":"ch-m.zaful.com","code":"zfch","currency":"EUR"},"zfbe":{"m_domain":"be-m.zaful.com","code":"zfbe","currency":"EUR"},"zfph":{"m_domain":"ph-m.zaful.com","code":"zfph","currency":"PHP"},"zfsg":{"m_domain":"sg-m.zaful.com","code":"zfsg","currency":"SGD"},"zfmy":{"m_domain":"my-m.zaful.com","code":"zfmy","currency":"MYR"},"zfin":{"m_domain":"in-m.zaful.com","code":"zfin","currency":"INR"},"zfat":{"m_domain":"at-m.zaful.com","code":"zfat","currency":"EUR"},"zfza":{"m_domain":"za-m.zaful.com","code":"zfza","currency":"ZAR"},"zfbr":{"m_domain":"br-m.zaful.com","code":"zfbr","currency":"BRL"},"zfmx":{"m_domain":"latam-m.zaful.com","code":"zfmx","currency":"USD"},"zfth":{"m_domain":"th-m.zaful.com","code":"zfth","currency":"THB"},"zftw":{"m_domain":"tw-m.zaful.com","code":"zftw","currency":"TWD"},"zfru":{"m_domain":"ru-m.zaful.com","code":"zfru","currency":"RUB"},"zftr":{"m_domain":"tr-m.zaful.com","code":"zftr","currency":"USD"},"zfil":{"m_domain":"il-m.zaful.com","code":"zfil","currency":"ILS"}};
 var COOKIESDIAMON = ".zaful.com";
 var DOMAIN_IMG = 'https://review.zafcdn.com/';
 var DOMAIN_USER = 'https://user.zaful.com/';
@@ -147,50 +375,21 @@ new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
 j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
 })(window,document,'script','dataLayer','GTM-555KK4J');</script>   <script>
-                                                </script><link rel="stylesheet" href="https://css.zafcdn.com/imagecache/ZF_EN/mincss/swiper.min.css"><link rel="stylesheet" href="https://css.zafcdn.com/imagecache/ZF_EN/mincss/other_min.css?v=20181214111246"><script>bazadebezolkohpepadr="1774287382"</script><script type="text/javascript" src="https://www.zaful.com/akam/10/69c17ab0" defer=""></script></head><body> <script>
+                                                </script><link rel="stylesheet" href="https://css.zafcdn.com/imagecache/ZF_EN/mincss/swiper.min.css"><link rel="stylesheet" href="https://css.zafcdn.com/imagecache/ZF_EN/mincss/other_min.css?v=20190330093459">
+                    <script async="" src="https://ds-aksb-a.akamaihd.net/aksb.min.js"></script><script>var w=window;if(w.performance||w.mozPerformance||w.msPerformance||w.webkitPerformance){var d=document;AKSB=w.AKSB||{},AKSB.q=AKSB.q||[],AKSB.mark=AKSB.mark||function(e,_){AKSB.q.push(["mark",e,_||(new Date).getTime()])},AKSB.measure=AKSB.measure||function(e,_,t){AKSB.q.push(["measure",e,_,t||(new Date).getTime()])},AKSB.done=AKSB.done||function(e){AKSB.q.push(["done",e])},AKSB.mark("firstbyte",(new Date).getTime()),AKSB.prof={custid:"474369",ustr:"cookiepresent",originlat:"0",clientrtt:"3",ghostip:"165.254.96.5",ipv6:false,pct:"10",clientip:"207.241.229.227",requestid:"6c4026b",region:"19610",protocol:"",blver:14,akM:"a",akN:"ae",akTT:"O",akTX:"1",akTI:"6c4026b",ai:"209780",ra:"false",pmgn:"",pmgi:"",pmp:"",qc:""},function(e){var _=d.createElement("script");_.async="async",_.src=e;var t=d.getElementsByTagName("script"),t=t[t.length-1];t.parentNode.insertBefore(_,t)}(("https:"===d.location.protocol?"https:":"http:")+"//ds-aksb-a.akamaihd.net/aksb.min.js")}</script>
+                    <script type="text/javascript" async="" src="//container.pepperjam.com/800966210.js"></script></head><body> <script>
 		(function () {
 			var useragent = window.navigator.userAgent.toLocaleLowerCase();
 			if(/iphone | android | mobile/.test(useragent) && location.pathname === '/contact-us'){
 				window.location.replace('https://m.zaful.com/' + location.pathname + location.search);
 			}
 		})();
-	</script> <header> <style type="text/css">
-.public-top .header-notices {background: url(https://uidesign.zafcdn.com/ZF/image/banner/20181206_6443/1920x45.jpg) center top no-repeat;
-}
-
-.custom_top_text_1 {
-    font-size: 24px !important;
-    color: #105c42 !important;
-}
-
-.custom_top_text_2 {
-    line-height: 45px !important;
-    font-family: OpenSans-Bold;
-    font-size: 25px;
-    color: #dc152f !important;
-    margin-left: 32px;
-}
-
-.custom_top_text_3 {
-    font-size: 18px !important;
-    color: #105c42 !important;
-    margin-left: 28px;
-}
-
-.custom_top_text_4 {
-    line-height: 26px !important;
-    font-size: 15px !important;
-    color: #d32524 !important;
-    background: #fff;
-    padding: 0px 12px;
-    margin-top: 10px;
-    margin-right: 32px;
-    margin-left: 32px;
-}
-</style> <div class="site-header site-header-after-higher js-bannerCssHook"><div date-site="1" id="top" class="public-top js-headerFixed js-RebatesHook"> <div class="header-notices custom_top_box"> <a href="https://www.zaful.com/promotion/christmas-sale.html?innerid=3435" class="custom_top_a logsss_event" data-logsss-event-value="{'pm':'md','x':'A_0','ubcta':{'mdlc':'A_0','mdID':''}}"> <span class="custom_top_text_1">MERRY CHRISTMAS</span>   <span class="custom_top_text_2">FREE SHIPPING COUPONS  + DOWN TO $9.99</span>   <span class="custom_top_text_3">Dec. 10 - Dec. 26</span>   <span class="custom_top_text_4">SHOP NOW &gt;</span>  </a></div>  <div class="header-notices girl-header js-girlWrapHook none"><div class="girl-wrap"> <span class="text-f">MEGA SPRING SALE</span> <span class="line">|</span> <span class="text-s">FREE SHIPPING WORLDWIDE</span> <span class="line">|</span><div class="time-box" id="js-girlCountDown"> <span class="num">00</span> H <span class="num">00</span> M <span class="num">00</span> S</div> <span class="count-text">left</span></div></div> <div class="header-main"><div class="header-main-head"><div class="con clearfix"><div class="header-translate js_show_translate"> <a class="has_arrow">Language</a><div class="box"><div id="google_translate_element"></div></div></div><div id="js-changeMoney" class="header-currency header-block"> <a class="has_arrow" href="javascript:;" id="js-currencySign" rel="nofollow"><span>$</span><span>USD</span></a><ul id="js-currencyList" class="header-hidden-block header-currency-list"><li><ul><li><a href="javascript:;" data-bizhong="USD" data-icon="$"><label>$</label>USD</a></li><li><a href="javascript:;" data-bizhong="EUR" data-icon="€"><label>€</label>EUR</a></li><li><a href="javascript:;" data-bizhong="GBP" data-icon="£"><label>£</label>GBP</a></li><li><a href="javascript:;" data-bizhong="CAD" data-icon="CA$"><label>CA$</label>CAD</a></li><li><a href="javascript:;" data-bizhong="AUD" data-icon="AU$"><label>AU$</label>AUD</a></li><li><a href="javascript:;" data-bizhong="NZD" data-icon="NZ$"><label>NZ$</label>NZD</a></li><li><a href="javascript:;" data-bizhong="BRL" data-icon="R$"><label>R$</label>BRL</a></li><li><a href="javascript:;" data-bizhong="IDR" data-icon="Rp"><label>&nbsp;Rp</label>IDR</a></li><li><a href="javascript:;" data-bizhong="TWD" data-icon="NT$"><label>&nbsp;NT$</label>TWD</a></li><li><a href="javascript:;" data-bizhong="ARS" data-icon="AR$"><label>&nbsp;AR$</label>ARS</a></li><li><a href="javascript:;" data-bizhong="ZAR" data-icon="ZAR"><label>&nbsp;ZAR</label>ZAR</a></li><li><a href="javascript:;" data-bizhong="SEK" data-icon="SEKr."><label>&nbsp;SEKr.</label>SEK</a></li></ul></li><li><ul><li><a href="javascript:;" data-bizhong="RUB" data-icon="руб."><label>руб.</label>RUB</a></li><li><a href="javascript:;" data-bizhong="AED" data-icon="د.إ"><label>&nbsp;د.إ</label>AED</a></li><li><a href="javascript:;" data-bizhong="SAR" data-icon="ر.س"><label>&nbsp;ر.س</label>SAR</a></li><li><a href="javascript:;" data-bizhong="KWD" data-icon="د.ك"><label>&nbsp;د.ك</label>KWD</a></li><li><a href="javascript:;" data-bizhong="OMR" data-icon="ر.ع"><label>&nbsp;ر.ع</label>OMR</a></li><li><a href="javascript:;" data-bizhong="QAR" data-icon="ر.ق"><label>&nbsp;ر.ق</label>QAR</a></li><li><a href="javascript:;" data-bizhong="TRY" data-icon="TL"><label>&nbsp;TL</label>TRY</a></li><li><a href="javascript:;" data-bizhong="INR" data-icon="Rs"><label>&nbsp;Rs</label>INR</a></li><li><a href="javascript:;" data-bizhong="CLP" data-icon="CL$"><label>&nbsp;CL$</label>CLP</a></li><li><a href="javascript:;" data-bizhong="COP" data-icon="COL$"><label>&nbsp;COL$</label>COP</a></li><li><a href="javascript:;" data-bizhong="CZK" data-icon="Kč"><label>&nbsp;Kč</label>CZK</a></li></ul></li><li><ul><li><a href="javascript:;" data-bizhong="MXN" data-icon="MXN$">$MXN</a></li><li><a href="javascript:;" data-bizhong="JOD" data-icon="JD"><label>&nbsp;JD</label>JOD</a></li><li><a href="javascript:;" data-bizhong="BHD" data-icon="د.ب"><label>&nbsp;د.ب</label>BHD</a></li><li><a href="javascript:;" data-bizhong="PLN" data-icon="zł"><label>&nbsp;zł</label>PLN</a></li><li><a href="javascript:;" data-bizhong="SGD" data-icon="S$"><label>&nbsp;S$</label>SGD</a></li><li><a href="javascript:;" data-bizhong="MYR" data-icon="RM"><label>&nbsp;RM</label>MYR</a></li><li><a href="javascript:;" data-bizhong="THB" data-icon="฿"><label>&nbsp;฿</label>THB</a></li><li><a href="javascript:;" data-bizhong="PHP" data-icon="PHP"><label>&nbsp;PHP</label>PHP</a></li><li><a href="javascript:;" data-bizhong="DKK" data-icon="DKKr."><label>&nbsp;DKKr.</label>DKK</a></li><li><a href="javascript:;" data-bizhong="ILS" data-icon="₪"><label>&nbsp;₪</label>ILS</a></li><li><a href="javascript:;" data-bizhong="NOK" data-icon="Kr."><label>&nbsp;Kr.</label>NOK</a></li></ul></li></ul></div><div id="js-changeLang" class="header-language header-block"> <a class="has_arrow" href="javascript:;">Country Website</a><ul class="header-hidden-block header-language-list"> <li><a href="//www.zaful.com" data-index="1" rel="nofollow">English</a></li> <li><a href="//es.zaful.com" data-index="2" rel="nofollow">España</a></li> <li><a href="//fr.zaful.com" data-index="3" rel="nofollow">Français</a></li> <li><a href="//de.zaful.com" data-index="5" rel="nofollow">Germany</a></li> <li><a href="//ar.zaful.com" data-index="6" rel="nofollow">العربية</a></li> <li><a href="//pt.zaful.com" data-index="7" rel="nofollow">Portugal</a></li> <li><a href="//it.zaful.com" data-index="10" rel="nofollow">Italy</a></li> </ul></div><div class="header-services header-block"> <a href="https://support.zaful.com/ticket/ticket/cat" rel="nofollow" target="_blank"><img src="https://css.zafcdn.com/imagecache/ZF_EN/images/service_2.gif"> Customer Care</a><div class="header-hidden-block header-service-block" style="display:none;"><p class="header-service-link"><a id="js-liveChat" href="javascript:;"><i class="header-service-chat"></i> Chat with Us 24 X 7</a></p><p class="header-service-link"><a href="https://www.messenger.com/t/Zaful" target="_blank"><i class="header-service-message"></i> Message Us</a></p><p class="header-service-link"><a href="https://support.zaful.com/ticket/ticket/index" target="_blank"><i class="header-service-email"></i> Write to Us</a></p><p class="header-service-link"><a href="https://www.zaful.com/contact-us/"><i class="header-service-contact"></i> Contact Us</a></p><div class="header-service-time"><p> 16:30 - 00:00 PTx7<br>(For US &amp; CA)<br>+(1)-888-830-0888</p><p> 07:30 - 18:00 GMT +8<br>(For International)<br>+(001)-888-830-0888</p></div><p class="header-service-goto"> <a href="https://www.zaful.com/contact-us/">GO TO "CONTACT US" PAGE</a></p></div></div></div></div><div class="header-main-body" id="js-innerWrap"><div class="sign_in_link"><a href="https://www.zaful.com/daily-check-in-reward-points.html"></a></div> <div class="header-logo header-block">   <a class="elf-mood-header-logo-link has-elf-mood" href="https://www.zaful.com/"><img src="https://uidesign.zafcdn.com/ZF/image/banner/20181128_6328/pc.gif" alt="Zaful" title="Zaful"></a> </div> <div class="header-bag header-block"><a href="https://cart.zaful.com/shopping-cart.html" rel="nofollow" id="js_topCart"><i></i><span id="js-topCartNum"></span></a><div class="header-mini-cart" id="mini_cart" data-free-shipping-all="0" data-free-shipping-amount="49" data-free-shipping-all-tips="<span class='fb cor-org'>Free shipping</span> worldwide"><div class="inner"></div></div></div><a href="https://user.zaful.com/m-users-a-collection_list.htm" class="header-favorite header-block"><i></i><span id="js_top-favorites"></span></a> <a id="js-topLogin" class="header-signin header-block" href="https://user.zaful.com/sign-up.html" rel="nofollow">Sign in / Join</a><div class="js-topDropdown header-account header-block" id="js-topAccount"> <a href="https://user.zaful.com/m-users.htm" rel="nofollow">My Account<i class="read-tips js-readTips" style="display: none;"></i></a><ul class="header-hidden-block header-account-list"><li><a href="https://user.zaful.com/m-users-a-profile.htm" rel="nofollow">Profile</a></li><li><a href="https://user.zaful.com/m-users-a-order_list.htm" rel="nofollow">My Orders</a></li> <li><a href="https://user.zaful.com/m-users-a-get_free_explain.htm?type=2" rel="nofollow" id="js_myShare">My Share<span class="dot"></span></a></li> <li><a href="https://support.zaful.com/index/index/ticketlist" rel="nofollow" class="js_ticketLink">My Tickets<i class="circle-tag js_ticketNum js_ticketMsg" style="display:none;">0</i></a></li><li><a href="https://user.zaful.com/m-users-a-logout.htm" rel="nofollow">SIGN OUT</a></li></ul></div><div class="header-search widget-search header-block" id="js-searchWrap"> <a class="show_quick" href="javascript:;" id="js_showHeaderQuickSearch"></a><a class="show_form" href="javascript:;" id="js_showHeaderSearchForm"><i class="header-search-icon"></i> <span>Search</span></a><div class="header-search-form" id="js-topSearchBox"><div class="header-search-input"><p class="header-search-icon-box"><a id="js_searchBtn" href="javascript:;"><i class="header-search-icon"></i></a></p><p class="header-search-input-box"><input type="text" class="input" placeholder="Search zaful.com" id="js-search-input-box" data-default_word=""></p><p class="header-close-icon-box"><a href="javascript:;" class="js_closeHeaderSearchForm"><i class="header-close-icon"></i></a></p> <a id="js_cleanSearchWord" class="header-clean" href="javascript:;">Clean</a></div><div class="header-search-list" id="js-topSearchDropdown"><ul class="header-search-popular" id="js_searchPopular"><li class="header-search-title">Popular Searches:</li>  <li><a href="javascript:;" data-index="0" data-url="https://www.zaful.com/s/fluffy-hoodie/" data-type="1">1.<span>Fluffy Hoodies</span></a></li> <li><a href="javascript:;" data-index="1" data-url="https://www.zaful.com/s/christmas-pajamas/" data-type="1">2.<span>Christmas Pajamas </span></a></li> <li><a href="javascript:;" data-index="2" data-url="https://www.zaful.com/w/teddy/e_8/?sadasd&amp;odr=hot" data-type="1">3.<span>Teddy Jackets</span></a></li> <li><a href="javascript:;" data-index="3" data-url="https://www.zaful.com/s/cocktail-dresses/?odr=new-arrivals" data-type="1">4.<span>Cocktail Dresses</span></a></li> <li><a href="javascript:;" data-index="4" data-url="https://www.zaful.com/s/turtleneck-sweaters/?odr=hot" data-type="1">5.<span>Turtleneck Sweaters</span></a></li> <li><a href="javascript:;" data-index="5" data-url="https://www.zaful.com/s/block/?odr=hot" data-type="1">6.<span>Color Block</span></a></li>  </ul></div></div></div> <div class="header-quick-search js-hot-word"><div class="close_btn"><i class="header-close-icon"></i></div>                     <div class="header-quick-search-block">                          
+	</script> <header> <div class="site-header site-header-after-lower js-bannerCssHook"><div date-site="1" id="top" class="public-top js-headerFixed js-RebatesHook">    <div class="header-notices girl-header js-girlWrapHook none"><div class="girl-wrap"> <span class="text-f">MEGA SPRING SALE</span> <span class="line">|</span> <span class="text-s">FREE SHIPPING WORLDWIDE</span> <span class="line">|</span><div class="time-box" id="js-girlCountDown"> <span class="num">00</span> H <span class="num">00</span> M <span class="num">00</span> S</div> <span class="count-text">left</span></div></div> <div class="header-main"><div class="header-main-head"><div class="con clearfix"><div class="header-logistics_tips-box"><div class="header-logistics_tips"></div></div><div id="js-webHelp" class="header-help header-block"> <a href="javascript:;" rel="nofollow" class="has_arrow">Help</a><ul class="header-hidden-block header-help-list"><li><a href="https://support.zaful.com/ticket/ticket/cat" rel="nofollow" target="_blank">Customer Care</a></li><li><a href="https://www.zaful.com/faq/" rel="nofollow" target="_blank">Shopping FAQ</a></li><li><a href="https://www.zaful.com/returns/" rel="nofollow" target="_blank">Return Warranty</a></li></ul></div><div id="js-changeMoney" class="header-currency header-block"> <a class="has_arrow" href="javascript:;" id="js-currencySign" rel="nofollow"><span>$</span><span>USD</span></a><div class="header-hidden-block header-currency-shadow"></div><div class="header-currency-triangle"></div><ul id="js-currencyList" class="header-hidden-block header-currency-list header-good-list"><li><a href="javascript:;" data-bizhong="USD" data-icon="$"><label>$</label>USD</a></li><li><a href="javascript:;" data-bizhong="EUR" data-icon="€"><label>€</label>EUR</a></li><li><a href="javascript:;" data-bizhong="GBP" data-icon="£"><label>£</label>GBP</a></li><li><a href="javascript:;" data-bizhong="CAD" data-icon="CA$"><label>CA$</label>CAD</a></li><li><a href="javascript:;" data-bizhong="AUD" data-icon="AU$"><label>AU$</label>AUD</a></li><li><a href="javascript:;" data-bizhong="NZD" data-icon="NZ$"><label>NZ$</label>NZD</a></li><li><a href="javascript:;" data-bizhong="BRL" data-icon="R$"><label>R$</label>BRL</a></li><li><a href="javascript:;" data-bizhong="IDR" data-icon="Rp"><label>&nbsp;Rp</label>IDR</a></li><li><a href="javascript:;" data-bizhong="TWD" data-icon="NT$"><label>&nbsp;NT$</label>TWD</a></li><li><a href="javascript:;" data-bizhong="ARS" data-icon="AR$"><label>&nbsp;AR$</label>ARS</a></li><li><a href="javascript:;" data-bizhong="ZAR" data-icon="ZAR"><label>&nbsp;ZAR</label>ZAR</a></li><li><a href="javascript:;" data-bizhong="SEK" data-icon="SEKr."><label>&nbsp;SEKr.</label>SEK</a></li><li><a href="javascript:;" data-bizhong="RUB" data-icon="руб."><label>руб.</label>RUB</a></li><li><a href="javascript:;" data-bizhong="AED" data-icon="د.إ"><label>&nbsp;د.إ</label>AED</a></li><li><a href="javascript:;" data-bizhong="SAR" data-icon="ر.س"><label>&nbsp;ر.س</label>SAR</a></li><li><a href="javascript:;" data-bizhong="KWD" data-icon="د.ك"><label>&nbsp;د.ك</label>KWD</a></li><li><a href="javascript:;" data-bizhong="OMR" data-icon="ر.ع"><label>&nbsp;ر.ع</label>OMR</a></li><li><a href="javascript:;" data-bizhong="QAR" data-icon="ر.ق"><label>&nbsp;ر.ق</label>QAR</a></li><li><a href="javascript:;" data-bizhong="TRY" data-icon="TL"><label>&nbsp;TL</label>TRY</a></li><li><a href="javascript:;" data-bizhong="INR" data-icon="Rs"><label>&nbsp;Rs</label>INR</a></li><li><a href="javascript:;" data-bizhong="CLP" data-icon="CL$"><label>&nbsp;CL$</label>CLP</a></li><li><a href="javascript:;" data-bizhong="COP" data-icon="COL$"><label>&nbsp;COL$</label>COP</a></li><li><a href="javascript:;" data-bizhong="CZK" data-icon="Kč"><label>&nbsp;Kč</label>CZK</a></li><li><a href="javascript:;" data-bizhong="MXN" data-icon="MXN$"><label>&nbsp;$</label>MXN</a></li><li><a href="javascript:;" data-bizhong="JOD" data-icon="JD"><label>&nbsp;JD</label>JOD</a></li><li><a href="javascript:;" data-bizhong="BHD" data-icon="د.ب"><label>&nbsp;د.ب</label>BHD</a></li><li><a href="javascript:;" data-bizhong="PLN" data-icon="zł"><label>&nbsp;zł</label>PLN</a></li><li><a href="javascript:;" data-bizhong="SGD" data-icon="S$"><label>&nbsp;S$</label>SGD</a></li><li><a href="javascript:;" data-bizhong="MYR" data-icon="RM"><label>&nbsp;RM</label>MYR</a></li><li><a href="javascript:;" data-bizhong="THB" data-icon="฿"><label>&nbsp;฿</label>THB</a></li><li><a href="javascript:;" data-bizhong="PHP" data-icon="PHP"><label>&nbsp;PHP</label>PHP</a></li><li><a href="javascript:;" data-bizhong="DKK" data-icon="DKKr."><label>&nbsp;DKKr.</label>DKK</a></li><li><a href="javascript:;" data-bizhong="ILS" data-icon="₪"><label>&nbsp;₪</label>ILS</a></li><li><a href="javascript:;" data-bizhong="NOK" data-icon="Kr."><label>&nbsp;Kr.</label>NOK</a></li><li><a href="javascript:;" data-bizhong="CHF" data-icon="CHF"><label>&nbsp;CHF</label>CHF</a></li></ul></div>  <div id="js-changeLang" class="header-language header-block"> <a class="has_arrow" href="javascript:;">Country Website</a><ul class="header-hidden-block header-language-list"> <li><a href="//www.zaful.com" data-index="1" data-lang="en" rel="nofollow">English</a></li> <li><a href="//es.zaful.com" data-index="2" data-lang="es" rel="nofollow">España</a></li> <li><a href="//fr.zaful.com" data-index="3" data-lang="fr" rel="nofollow">Français</a></li> <li><a href="//de.zaful.com" data-index="5" data-lang="de" rel="nofollow">Deutsch</a></li> <li><a href="//ar.zaful.com" data-index="6" data-lang="ar" rel="nofollow">العربية</a></li> <li><a href="//it.zaful.com" data-index="10" data-lang="it" rel="nofollow">Italy</a></li> </ul></div> </div></div><div class="header-main-body" id="js-innerWrap"><div class="sign_in_link"><a href="https://www.zaful.com/daily-check-in-reward-points.html"></a></div> <div class="header-logo header-block">   <a href="https://www.zaful.com/"><img class="elf-mood-header-logo-static" src="https://css.zafcdn.com/imagecache/ZF_EN/images/domeimg/logo181222.png" alt="Zaful" title="Zaful" width="150" height="30"></a> </div> <div class="header-bag header-block"><a href="https://cart.zaful.com/shopping-cart.html" rel="nofollow" id="js_topCart"><i></i><span id="js-topCartNum"></span></a><div class="header-mini-cart" id="mini_cart" data-free-shipping-all="0" data-free-shipping-amount="49" data-free-shipping-all-tips="<span class='fb cor-org'>Free shipping</span> worldwide"><div class="inner"><p></p></div></div></div><a href="https://user.zaful.com/m-users-a-collection_list.htm" class="header-favorite header-block"><i></i><span id="js_top-favorites"></span></a><div id="js-topLogin" class="header-signin header-block" href="https://user.zaful.com/sign-up.html" rel="nofollow"><i></i><ul class="header-hidden-block header-login-list"><li class="border_login"><a href="https://user.zaful.com/sign-up.html" rel="nofollow">SIGN IN</a></li><li class="border_account"><a href="https://user.zaful.com/sign-up.html" rel="nofollow">CREATE ACCOUNT</a></li></ul></div><div class="js-topDropdown header-account header-block" id="js-topAccount"><a href="https://user.zaful.com/m-users.htm" rel="nofollow" class="account-user-icon"><i class="read-tips js-readTips" style="display: none;"></i></a><ul class="header-hidden-block header-account-list"><li><a href="https://user.zaful.com/m-users.htm" rel="nofollow">MY ACCOUNT</a></li><li><a href="https://user.zaful.com/m-users-a-order_list.htm" rel="nofollow">MY ORDERS</a></li><li><a href="https://support.zaful.com/index/index/ticketlist" rel="nofollow" class="js_ticketLink">MY TICKETS<i class="circle-tag js_ticketNum js_ticketMsg" style="display:none;">0</i></a></li><li><a href="https://user.zaful.com/m-users-a-coupon_points.htm" rel="nofollow">MY COUPONS</a></li><li><a href="https://user.zaful.com/m-users-a-coupon_points.htm" rel="nofollow">MY POINTS</a></li> <li><a href="https://user.zaful.com/m-users-a-get_free_explain.htm?type=2" rel="nofollow" id="js_myShare">MY SHARE<span class="dot"></span></a></li> <li class="border_label"><a href="https://user.zaful.com/m-users-a-logout.htm" rel="nofollow">SIGN OUT</a></li></ul></div><div class="header-search widget-search header-block" id="js-searchWrap"> <a class="show_quick" href="javascript:;" id="js_showHeaderQuickSearch"></a><a class="show_form" href="javascript:;" id="js_showHeaderSearchForm"><i class="header-search-icon"></i> <span>Search</span></a><div class="header-search-form" id="js-topSearchBox"><div class="header-search-input"><p class="header-search-icon-box"><a id="js_searchBtn" href="javascript:;"><i class="header-search-icon"></i></a></p><p class="header-search-input-box"><input type="text" class="input" placeholder="Search zaful.com" id="js-search-input-box" data-default_word=""></p><p class="header-close-icon-box"><a href="javascript:;" class="js_closeHeaderSearchForm"><i class="header-close-icon"></i></a></p> <a id="js_cleanSearchWord" class="header-clean" href="javascript:;">Clean</a></div><div class="header-search-list" id="js-topSearchDropdown"><ul class="header-search-popular" id="js_searchPopular"><li class="header-search-title">Popular Searches:</li>  <li><a href="javascript:;" data-index="0" data-url="https://www.zaful.com/s/neon/?odr=trending" data-type="1">1.<span>Neon Color</span></a></li> <li><a href="javascript:;" data-index="1" data-url="https://www.zaful.com/w/snakeskin-bikini/e_67/" data-type="1">2.<span>Snakeskin Bikinis</span></a></li> <li><a href="javascript:;" data-index="2" data-url="https://www.zaful.com/s/ruffle-dresses/" data-type="1">3.<span>Ruffle Dresses</span></a></li> <li><a href="javascript:;" data-index="3" data-url="https://www.zaful.com/w/crop/e_6/?odr=trending" data-type="1">4.<span>Crop Tops</span></a></li> <li><a href="javascript:;" data-index="4" data-url="https://www.zaful.com/s/high-waisted-swimwear/?odr=trending" data-type="1">5.<span>High Waisted Swimwear</span></a></li> <li><a href="javascript:;" data-index="5" data-url="https://www.zaful.com/s/casual-t-shirt/" data-type="1">6.<span>Casual T-shirts</span></a></li>  </ul></div></div></div> <div class="header-quick-search js-hot-word"><div class="close_btn"><i class="header-close-icon"></i></div>                     <div class="header-quick-search-block">                          
 						<h3>HOT</h3>
 						<p>
+<a href="https://www.zaful.com/bikinis-e_67/">bikinis</a>
 <a href="https://www.zaful.com/s/high-waisted-swimwear/">high waisted swimwear</a>
+<a href="https://www.zaful.com/s/balconette-bikini/">balconette bikini</a>
 <a href="https://www.zaful.com/s/two-piece-swimsuits/">two piece swimsuits</a>
 <a href="https://www.zaful.com/s/white-bikini/">white bikini</a>
 <a href="https://www.zaful.com/s/red-bikini-swimsuit/">red bikini swimsuit</a>
@@ -203,30 +402,32 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 <a href="https://www.zaful.com/s/red-bikini/">red bikini</a>
 <a href="https://www.zaful.com/s/high-cut-bikini/">high cut bikini</a>
 <a href="https://www.zaful.com/s/crochet-bikinis/">crochet bikinis</a>
-<a href="https://www.zaful.com/s/red-one-piece-swimsuit/">red one piece swimsuit</a>
+<a href="https://www.zaful.com/s/trim-bikini/">trim bikini</a>
 <a href="https://www.zaful.com/s/green-bikini/">green bikini</a>
 <a href="https://www.zaful.com/s/padded-bikini/">padded bikini</a>
 <a href="https://www.zaful.com/s/orange-bikini/">orange bikini</a>
 <a href="https://www.zaful.com/s/pink-bikini/">pink bikini</a>
-<a href="https://www.zaful.com/s/off-the-shoulder-bikini/">off the shoulder bikini</a>
+<a href="https://www.zaful.com/s/cute-bikini/">cute bikini</a>
 <a href="https://www.zaful.com/s/american-flag-bikini/">american flag bikini</a>
 <a href="https://www.zaful.com/s/wrap-bikini/">wrap bikini</a>
-<a href="https://www.zaful.com/s/high-cut-one-piece-swimsuit/">high cut one piece swimsuit</a>
+<a href="https://www.zaful.com/s/sexy-bikini/">sexy bikini</a>
 <a href="https://www.zaful.com/s/polka-dot-bikini/">polka dot bikini</a>
-<a href="https://www.zaful.com/s/yellow-one-piece-swimsuit/">yellow one piece swimsuit</a>
+<a href="https://www.zaful.com/s/beach-bikini/">beach bikini</a>
 <a href="https://www.zaful.com/s/floral-bikini/">floral bikini</a>
 <a href="https://www.zaful.com/s/velvet-bikini/">velvet bikini</a>
 <a href="https://www.zaful.com/s/pineapple-swimsuit/">pineapple swimsuit</a>
 <a href="https://www.zaful.com/s/yellow-swimsuit/">yellow swimsuit</a>
 <a href="https://www.zaful.com/s/leopard-bikini/">leopard bikini</a>
-<a href="https://www.zaful.com/s/bikini-set/">bikini set</a>
-<a href="https://www.zaful.com/s/brazilian-cut-bikinis/">brazilian cut bikinis</a>
+<a href="https://www.zaful.com/s/high-waisted-bikni/">high waisted bikni</a>
+<a href="https://www.zaful.com/s/brazilian-bikini/">brazilian bikini</a>
 <a href="https://www.zaful.com/s/thong-swimsuit/">thong swimsuit</a>
 <a href="https://www.zaful.com/s/purple-bikini/">purple bikini</a>
 <a href="https://www.zaful.com/s/off-the-shoulder-swimsuits/">off the shoulder swimsuits</a>
 <a href="https://www.zaful.com/s/tube-bikini/">tube bikini</a>
 <a href="https://www.zaful.com/s/tie-dye-bikini/">tie dye bikini</a>
-<a href="https://www.zaful.com/promotion/christmas-sale.html">christmas day sale</a>
+<a href="https:/www.zaful.com/s/babes-bikini/">babes bikini</a>
+<a href="https://www.zaful.com/s/halter-bikini/">halter bikinis</a>
+<a href="https://www.zaful.com/s/coffee-bikini/">coffee bikini</a>
 						</p>
 					</div></div> </div></div>  <div style="display: none;">custom_nav_home</div> <style>
 .elf-nav-zaful-wrapper {
@@ -239,9 +440,10 @@ text-align: center;
 border-bottom: 1px solid #ddd;
 background-color: #fff;
 }
+
 .elf-nav-zaful {
 width: 1240px;
-height: 42px;    
+height: 42px;
 margin-left: auto;
 margin-right: auto;
 background-color: #fff;
@@ -250,6 +452,7 @@ background-color: #fff;
 .elf-nav-zaful .elf-nav-list {
 display: inline-block;
 }
+
 .elf-nav-zaful .elf-nav-list li.nav-item {
 float: left;
 text-align: center;
@@ -265,25 +468,28 @@ padding-left: 0;
 padding-right: 0;
 }
 
-.elf-nav-zaful .elf-nav-list li .nav-title .text{
-display: inline-block;
-height: 42px;
-line-height: 42px;
+.elf-nav-zaful .elf-nav-list li .nav-title{
+line-height: 40px;
 border-bottom: 2px solid transparent;
+}
+.elf-nav-zaful .elf-nav-list li:hover .nav-title {
+border-color: #333;
+}
+
+.elf-nav-zaful .elf-nav-list li .nav-title .text {
+line-height: 42px;
 }
 
 .elf-nav-zaful .elf-nav-text .text {
-font: 14px/150% OpenSans-Regular,Airal,sans-serif;
+display: inline-block;
+font: 14px/150% OpenSans-Regular, Airal, sans-serif;
 color: #666;
 }
 
-.elf-nav-zaful .elf-nav-text .elf-b {
-font: 14px OpenSans-Bold, Airal,sans-serif;
+.elf-nav-zaful .elf-b {
+font: 14px OpenSans-Bold, Airal, sans-serif;
 color: #333;
-}
-
-.elf-nav-zaful .elf-nav-list li:hover .nav-title .text {
-border-color:  #333;
+font-weight: bold !important;
 }
 
 .elf-nav-zaful .elf-nav-list li .menu-wrap {
@@ -292,7 +498,7 @@ width: 100%;
 position: absolute;
 left: 0;
 top: 43px;
-z-index: 2000;
+z-index: 6;
 padding: 16px 0;
 text-align: center;
 background: #fff;
@@ -310,20 +516,32 @@ line-height: 42px;
 font-size: 14px;
 box-sizing: border-box;
 color: #333;
-font: 14px/150% OpenSans-Regular,Airal,sans-serif;
+font: 14px/150% OpenSans-Regular, Airal, sans-serif;
 }
 
-.elf-nav-zaful .elf-nav-list li .nav-title img{
+.elf-nav-zaful .elf-nav-list li .nav-title img {
 vertical-align: middle;
 }
 
-.elf-nav-zaful .menu-item　.img-text {
+.elf-nav-zaful .menu-item .img-text {
 line-height: 30px;
 font-size: 14px;
 text-align: center;
 white-space: nowrap;
 overflow: hidden;
 text-overflow: ellipsis;
+}
+
+.elf-nav-zaful .menu-item .nav-widget {
+display: inline-block;
+font: 14px/150% OpenSans-Regular, Airal, sans-serif;
+color: #666;
+}
+
+.elf-nav-zaful .menu-item .elf-nav-classify a{
+display: inline-block;
+font: 14px/150% OpenSans-Regular, Airal, sans-serif;
+color: #666;
 }
 
 .elf-nav-zaful .elf-nav-list li .menu-wrap .list-row {
@@ -338,12 +556,13 @@ text-align: left;
 .elf-nav-zaful .elf-nav-list li .menu-wrap .menu-item {
 position: relative;
 width: 200px;
-height: 300px;
+min-height: 300px;
 background-color: #fff;
 display: table-cell;
 vertical-align: top;
 font-size: 12px;
 }
+
 /*zaful阿语*/
 .elf-nav-zfarabic {
 height: 43px;
@@ -438,7 +657,7 @@ var eventType = e.type;
 if (eventType === 'mouseenter') {
 $('.elf-nav-zaful').find('.menu-wrap').hide();
 $self.find('.menu-wrap').show();
-var imgs = $self.find('.menu-wrap .poster-inner img');
+var imgs = $self.find('.menu-wrap img');
 imgs.each(function(index) {
 $(this).attr('src',$(this).attr('data-src'));
 })
@@ -450,32 +669,7 @@ $('.elf-nav-zaful').find('.menu-wrap').hide();
 <nav class="elf-nav-zaful-wrapper">
 <div class="elf-nav-zaful">
 <ul class="elf-nav-list" id="nav-list">
-<li class="nav-item">    <a href="https://www.zaful.com/new-arrivals/" class="nav-title" title=""><span class="text">NEW</span></a>    <div class="menu-wrap">        <div class="list-row">        <div class="menu-item" style="width: 211px;"><div class="elf-nav-text" style="font-weight: 700;"><a class="text elf-b" href="https://www.zaful.com/new-arrivals/clothes-e_1/">WOMEN NEW</a></div><div class="elf-nav-text" style=""><a class="text" href="https://www.zaful.com/new-arrivals/tops-e_6/">Tops New </a></div><div class="elf-nav-text" style=""><a class="text" href="https://www.zaful.com/new-arrivals/dresses-e_5/">Dresses New  </a></div><div class="elf-nav-text" style=""><a class="text" href="https://www.zaful.com/new-arrivals/bottoms-e_88/">Bottoms New</a></div><div class="elf-nav-text" style="font-weight: 700;"><a class="text elf-b" href="https://www.zaful.com/new-arrivals/swimwear-e_14/">SWIMWEAR NEW</a></div><div class="elf-nav-text" style=""><a class="text" href="https://www.zaful.com/new-arrivals/bikinis-e_67/">Bikinis New</a></div><div class="elf-nav-text" style="font-weight: 700;"><a class="text elf-b" href="https://www.zaful.com/new-arrivals/men-e_118/">MEN NEW</a></div><div class="elf-nav-text" style="font-weight: 700;"><a class="text elf-b" href="https://www.zaful.com/new-arrivals/activewear-e_78/">ACTIVEWEAR NEW  </a></div><div class="elf-nav-text" style="font-weight: 700;"><a class="text elf-b" href="https://www.zaful.com/new-arrivals/accessories-e_4/">ACCESSORIES NEW </a></div>
-
-
-
-
-
-
-
-
-
-</div><div class="menu-item" style="width: 266px;"><div class="elf-nav-text" style="font-weight: 700;"><a class="text elf-b">Shop by</a></div><div class="elf-nav-text" style=""><a class="text" href="https://www.zaful.com/w/winter-coat/e_1/?odr=new-arrivals">New in Winter Coats</a></div><div class="elf-nav-text" style=""><a class="text" href="https://www.zaful.com/s/cropped-sweatshirt/?odr=new-arrivals">Hot Selections:Cropped Sweatshirts</a></div><div class="elf-nav-text" style=""><a class="text" href="https://www.zaful.com/s/denim-jacket/?odr=new-arrivals">Denim Jacket</a></div><div class="elf-nav-text" style=""><a class="text" href="https://www.zaful.com/s/loose-sweaters/?odr=new-arrivals">Loose Sweaters New</a></div><div class="elf-nav-text" style=""><a class="text" href="https://www.zaful.com/boutique/">Zaful Boutique</a></div><div class="elf-nav-text" style=""><a class="text" href="https://www.zaful.com/the-best-of-new-in/">Top Rated</a></div><div class="elf-nav-text" style=""><a class="text" href="https://www.zaful.com/premium-collection/">Premium Collection</a></div><div class="elf-nav-text" style=""><a class="text" href="https://www.zaful.com/budget/">Top Recommendations</a></div>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-</div><div class="menu-item" style="width: 244px;"><div class="elf-nav-text" style="font-weight: 700;"><a class="text elf-b">TRENDING</a></div><div class="elf-nav-text" style=""><a class="text" href="https://www.zaful.com/s/ruffle-dress/?odr=new-arrivals">Ruffle Dresses</a></div><div class="elf-nav-text" style=""><a class="text" href="https://www.zaful.com/s/high-cut-bikini/">High Cut Bikinis</a></div><div class="elf-nav-text" style=""><a class="text" href="https://www.zaful.com/jackets-coats-e_8/?odr=new-arrivals">Selected Jackets</a></div><div class="elf-nav-text" style=""><a class="text" href="https://www.zaful.com/s/graphic-sweatshirt/?odr=new-arrivals&amp;innerid=1148">Graphic Sweatshirt</a></div><div class="elf-nav-text" style=""><a class="text" href="https://www.zaful.com/b/blazers-e_9/?odr=new-arrivals">New Blazers</a></div><div class="elf-nav-text" style=""><a class="text" href="https://www.zaful.com/s/crop-hoodie/?odr=new-arrivals">Crop  Hoodies</a></div><div class="elf-nav-text" style=""><a class="text" href="https://www.zaful.com/sale/">Just Arrived: Up to 50% Off</a></div><div class="elf-nav-text" style=""><a class="text" href="https://user.zaful.com/m-users-a-student_edit.html?innerid=1562">Student Discount: Extra 6% Off</a></div>
+<li class="nav-item">    <a href="https://www.zaful.com/new-arrivals/" class="nav-title" title=""><span class="text">NEW</span></a>    <div class="menu-wrap">        <div class="list-row">        <div class="menu-item" style="width: 211px;"><div class="elf-nav-text" style="font-weight: 700;"><a class="text elf-b" href="https://www.zaful.com/new-arrivals/clothes-e_1/?innerid=6075">WOMEN NEW</a></div><div class="elf-nav-text" style=""><a class="text" href="https://www.zaful.com/new-arrivals/tops-e_6/?innerid=6074">Tops New </a></div><div class="elf-nav-text" style=""><a class="text" href="https://www.zaful.com/new-arrivals/dresses-e_5/?innerid=6076">Dresses New  </a></div><div class="elf-nav-text" style=""><a class="text" href="https://www.zaful.com/new-arrivals/bottoms-e_88/?innerid=6077">Bottoms New</a></div><div class="elf-nav-text" style="font-weight: 700;"><a class="text elf-b" href="https://www.zaful.com/new-arrivals/swimwear-e_14/?innerid=5963">SWIMWEAR NEW</a></div><div class="elf-nav-text" style=""><a class="text" href="https://www.zaful.com/new-arrivals/bikinis-e_67/?innerid=5964">Bikinis New</a></div><div class="elf-nav-text" style="font-weight: 700;"><a class="text elf-b" href="https://www.zaful.com/new-arrivals/men-e_118/?innerid=8479">MEN NEW</a></div><div class="elf-nav-text" style="font-weight: 700;"><a class="text elf-b" href="https://www.zaful.com/new-arrivals/activewear-e_78/?innerid=8480">ACTIVEWEAR NEW  </a></div><div class="elf-nav-text" style="font-weight: 700;"><a class="text elf-b" href="https://www.zaful.com/new-arrivals/accessories-e_4/?innerid=8481">ACCESSORIES NEW </a></div>
 
 
 
@@ -491,7 +685,179 @@ $('.elf-nav-zaful').find('.menu-wrap').hide();
 
 
 
-</div><div class="menu-item" style="width: 210px;"><div class="elf-nav-poster"><a class="poster-inner" data-href="https://www.zaful.com/promotion-your-weekly-wardrobe-suggestions-special-2024.html?innerid=1825" href="https://www.zaful.com/promotion-your-weekly-wardrobe-suggestions-special-2024.html?innerid=1825"> <img class="poster-img" alt="This Weeks Highlights" src="https://css.rglcdn.com/imagecache/RG/images/styleimg/loading_big.gif" data-href="https://www.zaful.com/promotion-your-weekly-wardrobe-suggestions-special-2024.html?innerid=1825" name="" data-src="https://uidesign.zafcdn.com/ZF/image/banner/20181204_6396/new_TWH.jpg">  </a></div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</div><div class="menu-item" style="width: 266px;"><div class="elf-nav-text" style="font-weight: 700;"><a class="text elf-b">Shop by</a></div><div class="elf-nav-text" style=""><a class="text" href="https://www.zaful.com/s/spring/?odr=new-arrivals&amp;innerid=6078">Spring 2019</a></div><div class="elf-nav-text" style=""><a class="text" href="https://www.zaful.com/w/crisscross/e_68/?odr=new-arrivals&amp;innerid=6094">Crisscross One-Pieces</a></div><div class="elf-nav-text" style=""><a class="text" href="https://www.zaful.com/two-piece-outfits-e_59/?innerid=6079">Hot Selections:Two-piece Outfits</a></div><div class="elf-nav-text">
+<a class="text" href="https://www.zaful.com/w/beach/e_5/?odr=new-arrivals&amp;innerid=8508">Beach Dresses</a>
+</div><div class="elf-nav-text" style=""></div><div class="elf-nav-text">
+<a class="text" href="https://www.zaful.com/the-best-of-new-in/?innerid=6081">Top Rated</a>
+</div><div class="elf-nav-text" style=""><a class="text" href="https://www.zaful.com/boutique/?innerid=6082">ZAFUL Exclusive</a></div><div class="elf-nav-text" style=""></div><div class="elf-nav-text" style=""><a class="text" href="https://www.zaful.com/premium-collection/?innerid=6083">Premium Collection</a></div><div class="elf-nav-text" style=""><a class="text" href="https://www.zaful.com/budget/?innerid=6084">Top Recommendations</a></div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</div><div class="menu-item" style="width: 244px;"><div class="elf-nav-text" style="font-weight: 700;"><a class="text elf-b">TRENDING</a></div><div class="elf-nav-text">
+<a class="text" href="https://www.zaful.com/s/neon/?odr=trending&amp;innerid=7028">Neon Trend</a>
+</div><div class="elf-nav-text">
+<a class="text" href="https://www.zaful.com/s/backless/?odr=new-arrivals&amp;innerid=8507">Backless Charm</a>
+</div><div class="elf-nav-text">
+
+</div><div class="elf-nav-text">
+<a class="text" href="https://www.zaful.com/s/crop/?odr=new-arrivals&amp;innerid=6085">Crop Tops</a>
+</div><div class="elf-nav-text" style=""><a class="text" href="https://www.zaful.com/s/leopard-bikini/?odr=new-arrivals&amp;innerid=6096">Leopard Bikinis</a></div><div class="elf-nav-text">
+</div><div class="elf-nav-text" style=""></div><div class="elf-nav-text">
+<a class="text" href="https://www.zaful.com/s/graphic/?odr=new-arrivals&amp;innerid=6086">Graphic Element</a>
+</div><div class="elf-nav-text">
+<a class="text" href="https://www.zaful.com/s/floral/?odr=hot&amp;innerid=6087">Floral Picks</a>
+</div><div class="elf-nav-text">
+</div><div class="elf-nav-text" style=""></div><div class="elf-nav-text" style=""></div><div class="elf-nav-text">
+
+</div><div class="elf-nav-text">
+
+</div><div class="elf-nav-text" style=""></div><div class="elf-nav-text" style=""></div><div class="elf-nav-text" style=""><a class="text" href="https://www.zaful.com/sale/?innerid=6088">Just Arrived: Up to 50% Off</a></div><div class="elf-nav-text" style=""><a class="text" href="https://www.zaful.com/m-users-a-student_edit.html?innerid=1562">Student Discount: Extra 8% Off</a></div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</div><div class="menu-item" style="width: 210px;"><div class="elf-nav-poster"><a class="poster-inner" data-href="https://www.zaful.com/promotion/your-weekly-wardrobe-suggestions-special-2024.html?innerid=4507" href="https://www.zaful.com/promotion/your-weekly-wardrobe-suggestions-special-2024.html?innerid=4507"> <img class="poster-img" alt="This Weeks Highlights" src="https://css.rglcdn.com/imagecache/RG/images/styleimg/loading_big.gif" data-href="https://www.zaful.com/promotion/your-weekly-wardrobe-suggestions-special-2024.html?innerid=4507" name="" data-src="https://uidesign.zafcdn.com/ZF/image/banner/20190308_8371/highlights.jpg">  </a></div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -513,7 +879,6 @@ $('.elf-nav-zaful').find('.menu-wrap').hide();
 
 
 
-</div><div class="menu-item" style="width: 210px;"><div class="elf-nav-poster"><a class="poster-inner" data-href="https://www.zaful.com/m-promotion-active-121.html/?innerid=441" href="https://www.zaful.com/m-promotion-active-121.html/?innerid=441"> <img class="poster-img" alt="24 Hours Flash Sale" src="https://css.rglcdn.com/imagecache/RG/images/styleimg/loading_big.gif" data-href="https://www.zaful.com/m-promotion-active-121.html/?innerid=441" name="" data-src="https://uidesign.zafcdn.com/ZF/image/banner/20181204_6396/200x310_New_24H_.gif">  </a></div>
 
 
 
@@ -523,27 +888,7 @@ $('.elf-nav-zaful').find('.menu-wrap').hide();
 
 
 
-</div></div>    </div>  </li><li class="nav-item">    <a href="https://www.zaful.com/clothes-e_1/" class="nav-title" title=""><span class="text">Women</span></a>    <div class="menu-wrap">        <div class="list-row">        <div class="menu-item" style="width: 249px;"><div class="elf-nav-text" style="font-weight: 700;"><a class="text elf-b" href="https://www.zaful.com/tops-e_6/">Tops</a></div><div class="elf-nav-text" style=""><a class="text" href="https://www.zaful.com/sweaters-e_7/">Sweaters</a></div><div class="elf-nav-text" style=""><a class="text" href="https://www.zaful.com/sweatshirts-e_20/">Sweatshirts</a></div><div class="elf-nav-text" style=""><a class="text" href="https://www.zaful.com/jackets-coats-e_8/">Jackets &amp; Coats</a></div><div class="elf-nav-text" style=""><a class="text" href="https://www.zaful.com/two-piece-outfits-e_59/">Two-Piece Outfits</a></div><div class="elf-nav-text" style=""><a class="text" href="https://www.zaful.com/tees-e_17/">Tees</a></div><div class="elf-nav-text" style=""><a class="text" href="https://www.zaful.com/blouses-e_19/">Blouses</a></div><div class="elf-nav-text" style=""><a class="text" href="https://www.zaful.com/tanks-e_18/">Tank Tops</a></div><div class="elf-nav-text" style=""><a class="text" href="https://www.zaful.com/bodysuits-e_89/">Bodysuits</a></div><div class="elf-nav-text" style=""><a class="text" href="https://www.zaful.com/blazers-e_9/">Blazers</a></div><div class="elf-nav-text" style=""><a class="text" href="https://www.zaful.com/waistcoat-e_40/">Waistcoat</a></div><div class="elf-nav-text" style=""></div>
-
-
-
-
-
-
-</div><div class="menu-item" style="width: 225px;"><div class="elf-nav-text" style="font-weight: 700;"><a class="text elf-b" href="https://www.zaful.com/dresses-e_5/">Dresses</a></div><div class="elf-nav-text" style=""><a class="text" href="https://www.zaful.com/sweater-dresses-e_48/">Sweater Dresses</a></div><div class="elf-nav-text" style=""><a class="text" href="https://www.zaful.com/long-sleeve-dresses-e_51/">Long Sleeve Dresses</a></div><div class="elf-nav-text" style=""><a class="text" href="https://www.zaful.com/casual-dresses-e_50/">Casual Dresses</a></div><div class="elf-nav-text" style=""><a class="text" href="https://www.zaful.com/midi-dresses-e_298/">Midi Dresses</a></div><div class="elf-nav-text" style=""><a class="text" href="https://www.zaful.com/mini-dresses-e_42/">Mini Dresses</a></div><div class="elf-nav-text" style=""><a class="text" href="https://www.zaful.com/maxi-dresses-e_41/">Maxi Dresses</a></div><div class="elf-nav-text" style=""><a class="text" href="https://www.zaful.com/bodycon-dresses-e_46/">Bodycon Dresses</a></div><div class="elf-nav-text" style=""><a class="text" href="https://www.zaful.com/print-dresses-e_43/">Print Dresses</a></div><div class="elf-nav-text" style=""><a class="text" href="https://www.zaful.com/summer-dress-e_57/">Summer Dresses</a></div><div class="elf-nav-text" style=""><a class="text" href="https://www.zaful.com/bohemian-dresses-e_47/">Bohemian Dresses</a></div>
-
-
-
-
-
-
-
-
-
-
-
-
-</div><div class="menu-item" style="width: 274px;"><div class="elf-nav-text" style="font-weight: 700;"><a class="text elf-b" href="https://www.zaful.com/bottoms-e_88/">Bottoms</a></div><div class="elf-nav-text" style=""><a class="text" href="https://www.zaful.com/pants-e_13/">Pants</a></div><div class="elf-nav-text" style=""><a class="text" href="https://www.zaful.com/skirts-e_12/">Skirts</a></div><div class="elf-nav-text" style=""><a class="text" href="https://www.zaful.com/jumpsuits-e_10/">Jumpsuits &amp; Rompers</a></div><div class="elf-nav-text" style=""><a class="text" href="https://www.zaful.com/denim-e_11/">Jeans</a></div><div class="elf-nav-text" style=""><a class="text" href="https://www.zaful.com/leggings-e_16/">Leggings</a></div><div class="elf-nav-text" style=""><a class="text" href="https://www.zaful.com/shorts-e_39/">Shorts</a></div><div class="elf-nav-text" style="font-weight: 700;"><a class="text elf-b" href="https://www.zaful.com/plus-size-e_96/">Plus Size</a></div><div class="elf-nav-text" style=""><a class="text" href="https://www.zaful.com/plus-size-sweatshirts-hoodies-e_107/">Plus Size Sweatshirts &amp; Hoodies</a></div><div class="elf-nav-text" style=""><a class="text" href="https://www.zaful.com/plus-size-dresses-e_104/">Plus Size Dresses</a></div><div class="elf-nav-text" style=""><a class="text" href="https://www.zaful.com/plus-size-e_96/">View More &gt;&gt; </a></div><div class="elf-nav-text" style="font-weight: 700;"><a class="text elf-b" href="https://www.zaful.com/intimates-e_90/">Intimates</a></div>
+</div><div class="menu-item" style="width: 210px;"><div class="elf-nav-poster"><a class="poster-inner" data-href="https://www.zaful.com/m-promotion-active-121.html/?innerid=441" href="https://www.zaful.com/m-promotion-active-121.html/?innerid=441"> <img class="poster-img" alt="24 Hours Flash Sale" src="https://css.rglcdn.com/imagecache/RG/images/styleimg/loading_big.gif" data-href="https://www.zaful.com/m-promotion-active-121.html/?innerid=441" name="" data-src="https://uidesign.zafcdn.com/ZF/image/banner/20190308_8371/24h.gif">  </a></div>
 
 
 
@@ -555,7 +900,191 @@ $('.elf-nav-zaful').find('.menu-wrap').hide();
 
 
 
-</div><div class="menu-item" style="width: 210px;"><div class="elf-nav-poster"><a class="poster-inner" data-href="https://www.zaful.com/w/christmas/e_1/?odr=hot" href="https://www.zaful.com/w/christmas/e_1/?odr=hot"> <img class="poster-img" alt="" src="https://css.rglcdn.com/imagecache/RG/images/styleimg/loading_big.gif" data-href="https://www.zaful.com/w/christmas/e_1/?odr=hot" name="" data-src="https://uidesign.zafcdn.com/ZF/image/banner/20181204_6396/women_CS.jpg">  </a></div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</div></div>    </div>  </li><li class="nav-item">    <a href="https://www.zaful.com/clothes-e_1/?innerid=6150" class="nav-title" title=""><span class="text">Women</span></a>    <div class="menu-wrap">        <div class="list-row">        <div class="menu-item" style="width: 249px;"><div class="elf-nav-text" style="font-weight: 700;"><a class="text elf-b" href="https://www.zaful.com/tops-e_6/?innerid=6028">Tops</a></div><div class="elf-nav-text" style=""><a class="text" href="https://www.zaful.com/two-piece-outfits-e_59/?innerid=6014" style="color: rgb(245, 16, 16);">Two-Piece Outfits</a></div><div class="elf-nav-text" style=""><a class="text" href="https://www.zaful.com/tees-e_17/?innerid=6030" style="color: rgb(245, 16, 16);">Tees</a></div><div class="elf-nav-text" style=""><a class="text" href="https://www.zaful.com/tanks-e_18/?innerid=6031">Tank Tops</a></div><div class="elf-nav-text" style=""><a class="text" href="https://www.zaful.com/blouses-e_19/?innerid=6032">Blouses</a></div><div class="elf-nav-text" style=""><a class="text" href="https://www.zaful.com/sweaters-e_7/?innerid=6034">Sweaters</a></div><div class="elf-nav-text" style=""><a class="text" href="https://www.zaful.com/sweatshirts-e_20/?innerid=6037">Sweatshirts</a></div><div class="elf-nav-text" style=""><a class="text" href="https://www.zaful.com/jackets-coats-e_8/?innerid=6038">Jackets &amp; Coats</a></div><div class="elf-nav-text" style=""><a class="text" href="https://www.zaful.com/bodysuits-e_89/?innerid=6040">Bodysuits</a></div><div class="elf-nav-text" style=""><a class="text" href="https://www.zaful.com/blazers-e_9/?innerid=6042">Blazers</a></div><div class="elf-nav-text" style=""><a class="text" href="https://www.zaful.com/waistcoat-e_40/?innerid=6043">Waistcoat</a></div><div class="elf-nav-text" style=""></div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</div><div class="menu-item" style="width: 225px;"><div class="elf-nav-text" style="font-weight: 700;"><a class="text elf-b" href="https://www.zaful.com/dresses-e_5//?innerid=6002">Dresses</a></div><div class="elf-nav-text" style=""><a class="text" href="https://www.zaful.com/mini-dresses-e_42/?innerid=6003">Mini Dresses</a></div><div class="elf-nav-text" style=""><a class="text" href="https://www.zaful.com/casual-dresses-e_50/?innerid=6005">Casual Dresses</a></div><div class="elf-nav-text" style=""><a class="text" href="https://www.zaful.com/print-dresses-e_43/?innerid=6007">Print Dresses</a></div><div class="elf-nav-text" style=""><a class="text" href="https://www.zaful.com/midi-dresses-e_298/?innerid=6008">Midi Dresses</a></div><div class="elf-nav-text" style=""><a class="text" href="https://www.zaful.com/maxi-dresses-e_41/?innerid=6009">Maxi Dresses</a></div><div class="elf-nav-text" style=""><a class="text" href="https://www.zaful.com/bodycon-dresses-e_46/?innerid=6012">Bodycon Dresses</a></div><div class="elf-nav-text" style=""><a class="text" href="https://www.zaful.com/summer-dress-e_57/?innerid=6021">Summer Dresses</a></div><div class="elf-nav-text" style=""><a class="text" href="https://www.zaful.com/bohemian-dresses-e_47/?innerid=6017">Bohemian Dresses</a></div><div class="elf-nav-text" style=""><a class="text" href="https://www.zaful.com/sweater-dresses-e_48/?innerid=6061">Sweater Dresses</a></div><div class="elf-nav-text" style=""><a class="text" href="https://www.zaful.com/long-sleeve-dresses-e_51/?innerid=6019">Long Sleeve Dresses</a></div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</div><div class="menu-item" style="width: 274px;"><div class="elf-nav-text" style="font-weight: 700;"><a class="text elf-b" href="https://www.zaful.com/bottoms-e_88/?innerid=6045">Bottoms</a></div><div class="elf-nav-text" style=""><a class="text" href="https://www.zaful.com/jumpsuits-e_10/?innerid=6047" style="color: rgb(245, 16, 16); font-style: normal; text-decoration: none;">Jumpsuits &amp; Rompers</a></div><div class="elf-nav-text" style=""><a class="text" href="https://www.zaful.com/pants-e_13/?innerid=6046">Pants</a></div><div class="elf-nav-text" style=""><a class="text" href="https://www.zaful.com/skirts-e_12/?innerid=6048">Skirts</a></div><div class="elf-nav-text" style=""><a class="text" href="https://www.zaful.com/shorts-e_39/?innerid=6053">Shorts</a></div><div class="elf-nav-text" style=""><a class="text" href="https://www.zaful.com/denim-e_11/?innerid=6049">Jeans</a></div><div class="elf-nav-text" style=""><a class="text" href="https://www.zaful.com/leggings-e_16/?innerid=6051">Leggings</a></div><div class="elf-nav-text" style="font-weight: 700;"><a class="text elf-b" href="https://www.zaful.com/plus-size-e_96/?innerid=6055">Plus Size</a></div><div class="elf-nav-text" style=""><a class="text" href="https://www.zaful.com/plus-size-swimwear-e_97/?innerid=6095">Plus Size Swimwear</a></div><div class="elf-nav-text" style=""><a class="text" href="https://www.zaful.com/plus-size-dresses-e_104/?innerid=6147">Plus Size Dresses</a></div><div class="elf-nav-text" style=""><a class="text" href="https://www.zaful.com/plus-size-e_96/">View More &gt;&gt; </a></div><div class="elf-nav-text" style="font-weight: 700;"><a class="text elf-b" href="https://www.zaful.com/intimates-e_90/?innerid=6060">Intimates</a></div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</div><div class="menu-item" style="width: 210px;"><div class="elf-nav-poster"><a class="poster-inner" data-href="https://www.zaful.com/promotion/neon-color-trend-2701.html?innerid=6742" href="https://www.zaful.com/promotion/neon-color-trend-2701.html?innerid=6742"> <img class="poster-img" alt="" src="https://css.rglcdn.com/imagecache/RG/images/styleimg/loading_big.gif" data-href="https://www.zaful.com/promotion/neon-color-trend-2701.html?innerid=6742" name="" data-src="https://uidesign.zafcdn.com/ZF/image/banner/20190308_8383/Neon.jpg">  </a></div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -570,16 +1099,6 @@ $('.elf-nav-zaful').find('.menu-wrap').hide();
 
 
 
-</div><div class="menu-item" style="width: 210px;"><div class="elf-nav-poster"><a class="poster-inner" data-href="https://www.zaful.com/w/teddy-hoodie/e_6/?odr=hot" href="https://www.zaful.com/w/teddy-hoodie/e_6/?odr=hot"> <img class="poster-img" alt="" src="https://css.rglcdn.com/imagecache/RG/images/styleimg/loading_big.gif" data-href="https://www.zaful.com/w/teddy-hoodie/e_6/?odr=hot" name="" data-src="https://uidesign.zafcdn.com/ZF/image/banner/20181204_6396/women_TH_.jpg">  </a></div>
-
-
-
-
-
-
-
-
-</div></div>    </div>  </li><li class="nav-item">    <a href="https://www.zaful.com/tops-e_6/" class="nav-title" title=""><span class="text">Tops</span></a>    <div class="menu-wrap">        <div class="list-row">        <div class="menu-item" style="width: 252px;"><div class="elf-nav-text" style="font-weight: 700;"><a class="text elf-b" href="https://www.zaful.com/sweaters-e_7/">Sweaters</a></div><div class="elf-nav-text" style="font-weight: 700;"><a class="text elf-b" href="https://www.zaful.com/sweatshirts-e_20/">Sweatshirts</a></div><div class="elf-nav-text" style="font-weight: 700;"><a class="text elf-b" href="https://www.zaful.com/jackets-coats-e_8/">Jackets &amp; Coats</a></div><div class="elf-nav-text" style="font-weight: 700;"><a class="text elf-b" href="https://www.zaful.com/two-piece-outfits-e_59/">Two-Piece Outfits</a></div><div class="elf-nav-text" style="font-weight: 700;"><a class="text elf-b" href="https://www.zaful.com/tees-e_17/">Tees</a></div><div class="elf-nav-text" style="font-weight: 700;"><a class="text elf-b" href="https://www.zaful.com/blouses-e_19/">Blouses</a></div><div class="elf-nav-text" style="font-weight: 700;"><a class="text elf-b" href="https://www.zaful.com/tanks-e_18/">Tank Tops</a></div><div class="elf-nav-text" style="font-weight: 700;"><a class="text elf-b" href="https://www.zaful.com/bodysuits-e_89/">Bodysuits</a></div><div class="elf-nav-text" style="font-weight: 700;"><a class="text elf-b" href="https://www.zaful.com/blazers-e_9/">Blazers</a></div><div class="elf-nav-text" style="font-weight: 700;"></div><div class="elf-nav-text" style="font-weight: 700;"></div>
 
 
 
@@ -591,9 +1110,7 @@ $('.elf-nav-zaful').find('.menu-wrap').hide();
 
 
 
-
-
-</div><div class="menu-item" style="width: 268px;"><div class="elf-nav-text" style="font-weight: 700;"><a class="text elf-b">TRENDING</a></div><div class="elf-nav-text" style=""><a class="text" href="https://www.zaful.com/w/winter-coat/e_1/">Winter Coats</a></div><div class="elf-nav-text" style=""><a class="text" href="https://www.zaful.com/w/denim-jacket/e_1/?odr=hot">Denim Jackets</a></div><div class="elf-nav-text" style=""><a class="text" href="https://www.zaful.com/s/fluffy-hoodie/">Teddy Hoodies</a></div><div class="elf-nav-text" style=""><a class="text" href="https://www.zaful.com/s/v-neck-sweater/">V Neck Sweater</a></div><div class="elf-nav-text" style=""><a class="text" href="https://www.zaful.com/w/corduroy-jacket/e_1/">Corduroy Jacket</a></div><div class="elf-nav-text" style=""><a class="text" href="https://www.zaful.com/s/block-sweatshirt/">Block Sweatshirt</a></div><div class="elf-nav-text" style=""><a class="text" href="https://www.zaful.com/s/christmas/?odr=new-arrivals&amp;innerid=2478">Christmas</a></div><div class="elf-nav-text" style=""><a class="text" href="https://www.zaful.com/w/solid/e_6/?odr=hot">Solid Color Tops</a></div><div class="elf-nav-text" style=""><a class="text" href="https://www.zaful.com/s/button-up-cardigans/?odr=hot">Button Up Cardigans </a></div><div class="elf-nav-text" style=""><a class="text" href="https://www.zaful.com/sale/?innerid=1148">Latest Fashion Trends: Up to 50% Off</a></div>
+</div><div class="menu-item" style="width: 210px;"><div class="elf-nav-poster"><a class="poster-inner" data-href="https://www.zaful.com/two-piece-outfits-e_59/?odr=hot&amp;innerid=7590" href="https://www.zaful.com/two-piece-outfits-e_59/?odr=hot&amp;innerid=7590"> <img class="poster-img" alt="" src="https://css.rglcdn.com/imagecache/RG/images/styleimg/loading_big.gif" data-href="https://www.zaful.com/two-piece-outfits-e_59/?odr=hot&amp;innerid=7590" name="" data-src="https://uidesign.zafcdn.com/ZF/image/banner/20190308_8371/hottest.jpg">  </a></div>
 
 
 
@@ -611,7 +1128,6 @@ $('.elf-nav-zaful').find('.menu-wrap').hide();
 
 
 
-</div><div class="menu-item" style="width: 210px;"><div class="elf-nav-poster"><a class="poster-inner" data-href="https://www.zaful.com/s/loose-sweaters/?odr=hot" href="https://www.zaful.com/s/loose-sweaters/?odr=hot"> <img class="poster-img" alt="" src="https://css.rglcdn.com/imagecache/RG/images/styleimg/loading_big.gif" data-href="https://www.zaful.com/s/loose-sweaters/?odr=hot" name="" data-src="https://uidesign.zafcdn.com/ZF/image/banner/20181204_6396/TOP_CLS.jpg">  </a></div>
 
 
 
@@ -627,7 +1143,181 @@ $('.elf-nav-zaful').find('.menu-wrap').hide();
 
 
 
-</div><div class="menu-item" style="width: 209px;"><div class="elf-nav-poster"><a class="poster-inner" data-href="https://www.zaful.com/w/denim-jacket/e_1/?odr=hot" href="https://www.zaful.com/w/denim-jacket/e_1/?odr=hot"> <img class="poster-img" alt="" src="https://css.rglcdn.com/imagecache/RG/images/styleimg/loading_big.gif" data-href="https://www.zaful.com/w/denim-jacket/e_1/?odr=hot" name="" data-src="https://uidesign.zafcdn.com/ZF/image/banner/20181204_6396/TOP_VD.jpg">  </a></div>
+</div></div>    </div>  </li><li class="nav-item">    <a href="https://www.zaful.com/tops-e_6/?innerid=6151" class="nav-title" title=""><span class="text">Tops</span></a>    <div class="menu-wrap">        <div class="list-row">        <div class="menu-item" style="width: 252px;"><div class="elf-nav-text" style="font-weight: 700;"><a class="text elf-b" href="https://www.zaful.com/two-piece-outfits-e_59/?innerid=6014">Two-Piece Outfits</a></div><div class="elf-nav-text" style="font-weight: 700;"><a class="text elf-b" href="https://www.zaful.com/tees-e_17/?innerid=6030">Tees</a></div><div class="elf-nav-text" style="font-weight: 700;"><a class="text elf-b" href="https://www.zaful.com/tanks-e_18/?innerid=6031">Tank Tops</a></div><div class="elf-nav-text" style="font-weight: 700;"><a class="text elf-b" href="https://www.zaful.com/blouses-e_19/?innerid=6032">Blouses</a></div><div class="elf-nav-text" style="font-weight: 700;"><a class="text elf-b" href="https://www.zaful.com/sweaters-e_7/?innerid=6034">Sweaters</a></div><div class="elf-nav-text" style="font-weight: 700;"><a class="text elf-b" href="https://www.zaful.com/sweatshirts-e_20/?innerid=6037">Sweatshirts</a></div><div class="elf-nav-text" style="font-weight: 700;"><a class="text elf-b" href="https://www.zaful.com/jackets-coats-e_8/?innerid=6038">Jackets &amp; Coats</a></div><div class="elf-nav-text" style="font-weight: 700;"><a class="text elf-b" href="https://www.zaful.com/bodysuits-e_89/?innerid=6040">Bodysuits</a></div><div class="elf-nav-text" style="font-weight: 700;"><a class="text elf-b" href="https://www.zaful.com/blazers-e_9/?innerid=6042">Blazers</a></div><div class="elf-nav-text" style="font-weight: 700;"></div><div class="elf-nav-text" style="font-weight: 700;"></div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</div><div class="menu-item" style="width: 268px;"><div class="elf-nav-text" style="font-weight: 700;"><a class="text elf-b">TRENDING</a></div><div class="elf-nav-text" style=""></div><div class="elf-nav-text">
+
+</div><div class="elf-nav-text">
+<a class="text" href="https://www.zaful.com/clothes-e_1/?odr=new-arrivals&amp;innerid=8042" style="color: rgb(245, 16, 16);">New Women Fashion</a>
+</div><div class="elf-nav-text">
+<a class="text" href="https://www.zaful.com/w/cami/e_6/?odr=hot&amp;innerid=8692">Cami Tops</a>
+</div><div class="elf-nav-text">
+<a class="text" href="https://www.zaful.com/w/ruffle/e_19/?odr=hot&amp;innerid=8695">Ruffle Blouses</a>
+</div><div class="elf-nav-text">
+<a class="text" href="https://www.zaful.com/blouses-e_19/?sm=color04_white&amp;odr=hot&amp;innerid=8696">White Blouse</a>
+</div><div class="elf-nav-text">
+
+</div><div class="elf-nav-text">
+
+</div><div class="elf-nav-text">
+<a class="text" href="https://www.zaful.com/w/off-shoulder/e_6/?innerid=6063">Off Shoulder Tops</a>
+</div><div class="elf-nav-text">
+<a class="text" href="https://www.zaful.com/w/floral/e_1/?odr=hot&amp;innerid=7538">Floral Series</a>
+</div><div class="elf-nav-text">
+
+</div><div class="elf-nav-text">
+<a class="text" title="Basic" href="https://www.zaful.com/promotion/women-basics.html?innerid=5832">The Basics</a>
+</div><div class="elf-nav-text">
+<a class="text" href="https://www.zaful.com/w/halter/e_6/?odr=hot&amp;innerid=8694">Halter Tops</a>
+</div><div class="elf-nav-text">
+
+</div><div class="elf-nav-text">
+</div><div class="elf-nav-text">
+
+</div><div class="elf-nav-text" style=""></div><div class="elf-nav-text" style=""></div><div class="elf-nav-text">
+
+</div><div class="elf-nav-text" style=""></div><div class="elf-nav-text">
+
+</div><div class="elf-nav-text" style=""></div><div class="elf-nav-text" style=""></div><div class="elf-nav-text">
+</div><div class="elf-nav-text" style=""></div><div class="elf-nav-text" style=""></div><div class="elf-nav-text" style=""></div><div class="elf-nav-text">
+<a class="text" href="https://www.zaful.com/clothes-e_1/?price=8.99~20&amp;odr=price-low-to-high&amp;innerid=7945">Last Call : Down to $8.99</a>
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</div><div class="menu-item" style="width: 210px;"><div class="elf-nav-poster"><a class="poster-inner" data-href="https://www.zaful.com/w/floral/e_1/?odr=new-arrivals&amp;innerid=7591" href="https://www.zaful.com/w/floral/e_1/?odr=new-arrivals&amp;innerid=7591"> <img class="poster-img" alt="" src="https://css.rglcdn.com/imagecache/RG/images/styleimg/loading_big.gif" data-href="https://www.zaful.com/w/floral/e_1/?odr=new-arrivals&amp;innerid=7591" name="" data-src="https://uidesign.zafcdn.com/ZF/image/banner/20190308_8372/sweet.jpg">  </a></div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -646,22 +1336,18 @@ $('.elf-nav-zaful').find('.menu-wrap').hide();
 </div><div class="menu-item" style="width: 210px;">
 <div class="elf-nav-poster">
 
-<a class="poster-inner" data-href="https://www.zaful.com/w/block/e_6/?odr=hot" href="https://www.zaful.com/w/block/e_6/?odr=hot">
-<img class="poster-img" alt="" src="https://css.rglcdn.com/imagecache/RG/images/styleimg/loading_big.gif" data-href="https://www.zaful.com/w/block/e_6/?odr=hot" name="A week" data-src="https://uidesign.zafcdn.com/ZF/image/banner/20181204_6396/TOP_TB.jpg">
+<a class="poster-inner" data-href="https://www.zaful.com/promotion/mega-tops-sale.html?innerid=6092" href="https://www.zaful.com/promotion/mega-tops-sale.html?innerid=6092">
+<img class="poster-img" alt="" src="https://css.rglcdn.com/imagecache/RG/images/styleimg/loading_big.gif" data-href="https://www.zaful.com/promotion/mega-tops-sale.html?innerid=6092" name="A week" data-src="https://uidesign.zafcdn.com/ZF/image/banner/20190308_8372/mega.jpg">
 </a>
 </div>
 
 
 
 
-</div></div>    </div>  </li><li class="nav-item">    <a href="https://www.zaful.com/dresses-e_5/" class="nav-title" title=""><span class="text">Dresses</span></a>    <div class="menu-wrap">        <div class="list-row">        <div class="menu-item" style="width: 249px;"><div class="elf-nav-text" style="font-weight: 700;"><a class="text elf-b" href="https://www.zaful.com/sweater-dresses-e_48/">Sweater Dresses</a></div><div class="elf-nav-text" style="font-weight: 700;"><a class="text elf-b" href="https://www.zaful.com/long-sleeve-dresses-e_51/">Long Sleeve Dresses</a></div><div class="elf-nav-text" style="font-weight: 700;"><a class="text elf-b" href="https://www.zaful.com/mini-dresses-e_42/">Mini Dresses</a></div><div class="elf-nav-text" style="font-weight: 700;"><a class="text elf-b" href="https://www.zaful.com/bodycon-dresses-e_46/">Bodycon Dresses</a></div><div class="elf-nav-text" style="font-weight: 700;"><a class="text elf-b" href="https://www.zaful.com/casual-dresses-e_50/">Casual Dresses</a></div><div class="elf-nav-text" style="font-weight: 700;"><a class="text elf-b" href="https://www.zaful.com/midi-dresses-e_298/">Midi Dresses</a></div><div class="elf-nav-text" style="font-weight: 700;"><a class="text elf-b" href="https://www.zaful.com/maxi-dresses-e_41/">Maxi Dresses</a></div><div class="elf-nav-text" style="font-weight: 700;"><a class="text elf-b" href="https://www.zaful.com/print-dresses-e_43/">Print Dresses</a></div><div class="elf-nav-text" style="font-weight: 700;"><a class="text elf-b" href="https://www.zaful.com/summer-dress-e_57/">Summer Dresses</a></div><div class="elf-nav-text" style="font-weight: 700;"><a class="text elf-b" href="https://www.zaful.com/bohemian-dresses-e_47/">Bohemian Dresses</a></div>
 
 
 
 
-</div><div class="menu-item" style="width: 271px;"><div class="elf-nav-text" style="font-weight: 700;"><a class="text elf-b">TRENDING</a></div><div class="elf-nav-text">
-<a class="text" href="https://www.zaful.com/s/pinafore-dresses/?odr=trending">Pinafore Dresses</a>
-</div><div class="elf-nav-text" style=""><a class="text" href="https://www.zaful.com/s/bow-tie-dress/?innerid=1148">Bow Tie Dresses</a></div><div class="elf-nav-text" style=""><a class="text" href="https://www.zaful.com/w/christmas/e_5/?odr=hot">Christmas Dresses</a></div><div class="elf-nav-text" style=""><a class="text" href="https://www.zaful.com/s/button-up-dresses/?odr=new-arrivals">Button Up Dresses</a></div><div class="elf-nav-text" style=""><a class="text" href="https://www.zaful.com/s/ruffle-dress/?odr=new-arrivals">Ruffle Dresses</a></div><div class="elf-nav-text" style=""><a class="text" href="https://www.zaful.com/s/black-dresses/">Black Dresses</a></div><div class="elf-nav-text" style=""><a class="text" href="https://www.zaful.com/s/shirt-dress/?odr=new-arrivals">Shirt Dresses</a></div><div class="elf-nav-text" style=""><a class="text" href="https://www.zaful.com/s/fall-dress/?innerid=1148&amp;odr=hot">Fall Dresses</a></div><div class="elf-nav-text" style=""><a class="text" href="https://www.zaful.com/new-faves/dresses-e_5/">DRESSES - BUY 1 GET 1 30% OFF</a></div>
 
 
 
@@ -673,7 +1359,6 @@ $('.elf-nav-zaful').find('.menu-wrap').hide();
 
 
 
-</div><div class="menu-item" style="width: 210px;"><div class="elf-nav-poster"><a class="poster-inner" data-href="https://www.zaful.com/s/shirt-dress/?odr=trending" href="https://www.zaful.com/s/shirt-dress/?odr=trending"> <img class="poster-img" alt="" src="https://css.rglcdn.com/imagecache/RG/images/styleimg/loading_big.gif" data-href="https://www.zaful.com/s/shirt-dress/?odr=trending" name="" data-src="https://uidesign.zafcdn.com/ZF/image/banner/20181204_6396/DRESSES_SD.jpg">  </a></div>
 
 
 
@@ -684,7 +1369,6 @@ $('.elf-nav-zaful').find('.menu-wrap').hide();
 
 
 
-</div><div class="menu-item" style="width: 210px;"><div class="elf-nav-poster"><a class="poster-inner" data-href="https://www.zaful.com/s/party-dresses/?odr=new-arrivals" href="https://www.zaful.com/s/party-dresses/?odr=new-arrivals"> <img class="poster-img" alt="" src="https://css.rglcdn.com/imagecache/RG/images/styleimg/loading_big.gif" data-href="https://www.zaful.com/s/party-dresses/?odr=new-arrivals" name="" data-src="https://uidesign.zafcdn.com/ZF/image/banner/20181204_6396/DRESSES_NPD.jpg">  </a></div>
 
 
 
@@ -693,9 +1377,9 @@ $('.elf-nav-zaful').find('.menu-wrap').hide();
 
 
 
+</div><div class="menu-item" style="width: 209px;"><div class="elf-nav-poster"><a class="poster-inner" data-href="https://www.zaful.com/w/graphic/e_17/?odr=new-arrivals&amp;innerid=7596" href="https://www.zaful.com/w/graphic/e_17/?odr=new-arrivals&amp;innerid=7596"> <img class="poster-img" alt="" src="https://css.rglcdn.com/imagecache/RG/images/styleimg/loading_big.gif" data-href="https://www.zaful.com/w/graphic/e_17/?odr=new-arrivals&amp;innerid=7596" name="" data-src="https://uidesign.zafcdn.com/ZF/image/banner/20190308_8372/new.jpg">  </a></div>
 
 
-</div><div class="menu-item" style="width: 210px;"><div class="elf-nav-poster"><a class="poster-inner" data-href="https://www.zaful.com/s/black-dresses/?odr=trending" href="https://www.zaful.com/s/black-dresses/?odr=trending"> <img class="poster-img" alt="" src="https://css.rglcdn.com/imagecache/RG/images/styleimg/loading_big.gif" data-href="https://www.zaful.com/s/black-dresses/?odr=trending" name="" data-src="https://uidesign.zafcdn.com/ZF/image/banner/20181204_6396/DRESSES_BD.jpg">  </a></div>
 
 
 
@@ -704,11 +1388,9 @@ $('.elf-nav-zaful').find('.menu-wrap').hide();
 
 
 
-</div></div>    </div>  </li><li class="nav-item">    <a href="https://www.zaful.com/swimwear-e_14/" class="nav-title" title=""><span class="text">Swimwear</span></a>    <div class="menu-wrap">        <div class="list-row">        <div class="menu-item" style="width: 213px;"><div class="elf-nav-text" style="font-weight: 700;"><a class="text elf-b" href="https://www.zaful.com/bikinis-e_67/">Bikinis</a></div><div class="elf-nav-text" style="font-weight: 700;"><a class="text elf-b" href="https://www.zaful.com/one-pieces-e_68/">One-Pieces</a></div><div class="elf-nav-text" style="font-weight: 700;"><a class="text elf-b" href="https://www.zaful.com/cover-ups-e_70/">Cover Ups</a></div><div class="elf-nav-text" style=""><a class="text" href="https://www.zaful.com/beach-dresses-e_114/">Beach Dresses</a></div><div class="elf-nav-text" style=""><a class="text" href="https://www.zaful.com/beach-tops-e_115/">Beach Tops</a></div><div class="elf-nav-text" style=""><a class="text" href="https://www.zaful.com/beach-bottoms-e_116/">Beach Bottoms</a></div><div class="elf-nav-text" style=""><a class="text" href="https://www.zaful.com/beach-accessories-e_117/">Beach Accessories</a></div><div class="elf-nav-text" style="font-weight: 700;"><a class="text elf-b" href="https://www.zaful.com/kids-swimwear-e_119/">Kids Swimwear</a></div>
 
 
 
-</div><div class="menu-item" style="width: 307px;"><div class="elf-nav-text" style="font-weight: 700;"><a class="text elf-b">TRENDING</a></div><div class="elf-nav-text" style=""><a class="text" href="https://www.zaful.com/s/bandeau-bikinis/">Bandeau Bikinis</a></div><div class="elf-nav-text" style=""><a class="text" href="https://www.zaful.com/s/tie-dye-bikinis/">Tie Dye Bikinis</a></div><div class="elf-nav-text" style=""><a class="text" href="https://www.zaful.com/s/high-cut-bikinis/?odr=hot">High Cut Bikinis</a></div><div class="elf-nav-text" style=""><a class="text" href="https://www.zaful.com/s/thong-bikinis/">Thong Bikinis</a></div><div class="elf-nav-text" style=""><a class="text" href="https://www.zaful.com/s/underwire-bikini/">Underwire Bikinis</a></div><div class="elf-nav-text" style=""><a class="text" href="https://www.zaful.com/s/smocked-bikinis/">Smocked Bikinis</a></div><div class="elf-nav-text" style=""><a class="text" href="https://www.zaful.com/s/printed-bikinis/?odr=new-arrivals">Printed Bikinis</a></div><div class="elf-nav-text" style=""><a class="text" href="https://www.zaful.com/swimwear-e_14/?innerid=474&amp;odr=new-arrivals">New Bikinis Trend</a></div><div class="elf-nav-text" style=""><a class="text" href="https://www.zaful.com/promotion-new-swim-styles-special-2182.html">NEW SWIM STYLES: DOWN TO $12.99</a></div>
 
 
 
@@ -717,7 +1399,6 @@ $('.elf-nav-zaful').find('.menu-wrap').hide();
 
 
 
-</div><div class="menu-item" style="width: 210px;"><div class="elf-nav-poster"><a class="poster-inner" data-href="https://www.zaful.com/promotion/mega-swimwear-sale-1460.html?innerid=3126" href="https://www.zaful.com/promotion/mega-swimwear-sale-1460.html?innerid=3126"> <img class="poster-img" alt="" src="https://css.rglcdn.com/imagecache/RG/images/styleimg/loading_big.gif" data-href="https://www.zaful.com/promotion/mega-swimwear-sale-1460.html?innerid=3126" name="" data-src="https://uidesign.zafcdn.com/ZF/image/banner/20181204_6396/SWIMWEAR_-2.jpg">  </a></div>
 
 
 
@@ -729,7 +1410,6 @@ $('.elf-nav-zaful').find('.menu-wrap').hide();
 
 
 
-</div><div class="menu-item" style="width: 210px;"><div class="elf-nav-poster"><a class="poster-inner" data-href="https://www.zaful.com/s/high-cut-one-pieces/?odr=hot" href="https://www.zaful.com/s/high-cut-one-pieces/?odr=hot"> <img class="poster-img" alt="" src="https://css.rglcdn.com/imagecache/RG/images/styleimg/loading_big.gif" data-href="https://www.zaful.com/s/high-cut-one-pieces/?odr=hot" name="" data-src="https://uidesign.zafcdn.com/ZF/image/banner/20181204_6396/SWIMWEAR_-1.jpg">  </a></div>
 
 
 
@@ -739,16 +1419,21 @@ $('.elf-nav-zaful').find('.menu-wrap').hide();
 
 
 
-</div><div class="menu-item" style="width: 210px;"><div class="elf-nav-poster"><a class="poster-inner" data-href="https://www.zaful.com/promotion/super-swimwear-sale-740.html?innerid=2506" href="https://www.zaful.com/promotion/super-swimwear-sale-740.html?innerid=2506"> <img class="poster-img" alt="" src="https://css.rglcdn.com/imagecache/RG/images/styleimg/loading_big.gif" data-href="https://www.zaful.com/promotion/super-swimwear-sale-740.html?innerid=2506" name="" data-src="https://uidesign.zafcdn.com/ZF/image/banner/20181204_6396/SWIMWEAR_.jpg">  </a></div>
 
 
 
 
 
+</div></div>    </div>  </li><li class="nav-item">    <a href="https://www.zaful.com/dresses-e_5/?innerid=6002" class="nav-title" title=""><span class="text">Dresses</span></a>    <div class="menu-wrap">        <div class="list-row">        <div class="menu-item" style="width: 221px;"><div class="elf-nav-text">
+<a class="text elf-b">SHOP BY STYLE</a>
+</div><div class="elf-nav-text" style="font-weight: 700;"><a class="text" href="https://www.zaful.com/mini-dresses-e_42/?innerid=6003">Mini Dresses</a></div><div class="elf-nav-text" style="font-weight: 700;"><a class="text" href="https://www.zaful.com/casual-dresses-e_50/?innerid=6005">Casual Dresses</a></div><div class="elf-nav-text" style="font-weight: 700;"><a class="text" href="https://www.zaful.com/print-dresses-e_43/?innerid=6007">Print Dresses</a></div><div class="elf-nav-text" style="font-weight: 700;"><a class="text" href="https://www.zaful.com/midi-dresses-e_298/?innerid=6008">Midi Dresses</a></div><div class="elf-nav-text" style="font-weight: 700;"><a class="text" href="https://www.zaful.com/maxi-dresses-e_41/?innerid=6009">Maxi Dresses</a></div><div class="elf-nav-text" style="font-weight: 700;"><a class="text" href="https://www.zaful.com/bodycon-dresses-e_46/?innerid=6012">Bodycon Dresses</a></div><div class="elf-nav-text">
+<a class="text" href="https://www.zaful.com/s/wrap-dress/?odr=hot&amp;innerid=6015">Wrap Dresses</a>
+</div><div class="elf-nav-text" style="font-weight: 700;"><a class="text" href="https://www.zaful.com/s/off-the-shoulder-dresses/?odr=new-arrivals&amp;innerid=6016">Off The Shoulder Dresses</a></div><div class="elf-nav-text" style="font-weight: 700;"><a class="text" href="https://www.zaful.com/bohemian-dresses-e_47/?innerid=6017">Bohemian Dresses</a></div><div class="elf-nav-text" style="font-weight: 700;"></div><div class="elf-nav-text" style="font-weight: 700;"></div><div class="elf-nav-text">
+</div><div class="elf-nav-text">
+</div>
 
 
 
-</div></div>    </div>  </li><li class="nav-item">    <a href="https://www.zaful.com/men-e_118/" class="nav-title" title="" style="color: rgb(39, 38, 38);"><i class="icon-box"></i><span class="text">Men</span></a>    <div class="menu-wrap">        <div class="list-row">        <div class="menu-item" style="width: 235px;"><div class="elf-nav-text" style="font-weight: 700;"><a class="text elf-b" href="https://www.zaful.com/men-tops-e_132/">Tops</a></div><div class="elf-nav-text" style=""><a class="text" href="https://www.zaful.com/men-hoodies-sweatshirts-e_139/">Hoodies &amp; Sweatshirts</a></div><div class="elf-nav-text" style=""><a class="text" href="https://www.zaful.com/men-sweaters-cardigans-e_140/">Sweaters &amp; Cardigans</a></div><div class="elf-nav-text" style=""><a class="text" href="https://www.zaful.com/men-jackets-coats-e_141/">Jackets &amp; Coats</a></div><div class="elf-nav-text" style=""><a class="text" href="https://www.zaful.com/men-tees-tanks-e_137/">Tees &amp; Tanks</a></div><div class="elf-nav-text" style=""><a class="text" href="https://www.zaful.com/men-shirts-e_138/">Shirts</a></div><div class="elf-nav-text" style="font-weight: 700;"><a class="text elf-b" href="https://www.zaful.com/men-bottoms-e_133/">Bottoms</a></div><div class="elf-nav-text" style=""><a class="text" href="https://www.zaful.com/men-pants-e_143/">Pants</a></div><div class="elf-nav-text" style=""><a class="text" href="https://www.zaful.com/men-jeans-e_144/">Jeans</a></div><div class="elf-nav-text" style=""><a class="text" href="https://www.zaful.com/men-shorts-e_142/">Shorts</a></div><div class="elf-nav-text" style="font-weight: 700;"><a class="text elf-b" href="https://www.zaful.com/men-swimwear-e_145/">Swimwear</a></div>
 
 
 
@@ -758,7 +1443,6 @@ $('.elf-nav-zaful').find('.menu-wrap').hide();
 
 
 
-</div><div class="menu-item" style="width: 228px;"><div class="elf-nav-text" style="font-weight: 700;"><a class="text elf-b" href="https://www.zaful.com/men-underwear-e_174/">Underwear</a></div><div class="elf-nav-text" style="font-weight: 700;"><a class="text elf-b" href="https://www.zaful.com/men-accessories-e_194/">Accessories</a></div>
 
 
 
@@ -770,10 +1454,8 @@ $('.elf-nav-zaful').find('.menu-wrap').hide();
 
 
 
-</div><div class="menu-item" style="width: 269px;"><div class="elf-nav-text" style="font-weight: 700;"><a class="text elf-b">TRENDING</a></div><div class="elf-nav-text" style=""><a class="text" href="https://www.zaful.com/w/winter/e_118/">Winter Tops</a></div><div class="elf-nav-text">
-<a class="text" href="https://www.zaful.com/w/army-green-jacket/e_141/?odr=trending">Army Green Jackets</a>
-</div><div class="elf-nav-text" style=""><a class="text" href="https://www.zaful.com/w/color-block-tops/e_118/">Color Block Tops</a></div><div class="elf-nav-text" style=""><a class="text" href="https://www.zaful.com/w/graphic-sweatshirt/e_118/?odr=new-arrivals">Graphic Sweatshirt</a></div><div class="elf-nav-text" style=""><a class="text" href="https://www.zaful.com/w/denim-jacket/e_118/?odr=hot">Denim Jackets</a></div><div class="elf-nav-text" style=""><a class="text" href="https://www.zaful.com/w/casual-hoodies/e_118/">Casual Hoodies</a></div><div class="elf-nav-text" style=""><a class="text" href="https://www.zaful.com/w/chinese/e_118/">Chinese Character Print</a></div><div class="elf-nav-text" style=""><a class="text" href="https://www.zaful.com/w/jogger-pants/e_118/">Jogger Pants</a></div><div class="elf-nav-text" style=""><a class="text" href="https://www.zaful.com/w/fluffy/e_139/">Fluffy </a></div><div class="elf-nav-text" style=""><a class="text" href="https://www.zaful.com/w/ripped-jeans/e_118/">Ripped Jeans</a></div><div class="elf-nav-text" style=""></div>
 
+</div><div class="menu-item" style="width: 11px;">
 
 
 
@@ -781,15 +1463,32 @@ $('.elf-nav-zaful').find('.menu-wrap').hide();
 
 
 
+</div><div class="menu-item" style="width: 221px;"><div class="elf-nav-text">
+<a class="text" href="https://www.zaful.com/s/shirt-dresses/?odr=hot&amp;innerid=6018">Shirt Dresses</a>
+</div><div class="elf-nav-text">
+<a class="text" href="https://www.zaful.com/long-sleeve-dresses-e_51/?innerid=6019">Long Sleeve Dresses</a>
+</div><div class="elf-nav-text">
+<a class="text" href="https://www.zaful.com/summer-dress-e_57/?innerid=6019">Summer Dresses</a>
+</div><div class="elf-nav-text">
 
+</div><div class="elf-nav-text">
+<a class="text elf-b">SHOP BY OCCASION</a>
+</div><div class="elf-nav-text">
+<a class="text" href="https://www.zaful.com/s/vacation-dresses/?innerid=6024">Vacation Dresses</a>
+</div><div class="elf-nav-text">
+<a class="text" href="https://www.zaful.com/s/party-dresses/?odr=new-arrivals&amp;innerid=6026">Party&amp;Cocktail Dresses</a>
+</div><div class="elf-nav-text">
+<a class="text" href="https://www.zaful.com/s/work-dresses/?odr=new-arrivals&amp;innerid=6027">Work Dresses</a>
+</div><div class="elf-nav-text">
+</div><div class="elf-nav-text" style=""></div><div class="elf-nav-text">
 
+</div><div class="elf-nav-text" style=""></div><div class="elf-nav-text" style=""></div>
 
 
 
 
 
 
-</div><div class="menu-item" style="width: 210px;"><div class="elf-nav-poster"><a class="poster-inner" data-href="https://www.zaful.com/w/color-block-sweatshirts/e_118/?odr=hot" href="https://www.zaful.com/w/color-block-sweatshirts/e_118/?odr=hot"> <img class="poster-img" alt="" src="https://css.rglcdn.com/imagecache/RG/images/styleimg/loading_big.gif" data-href="https://www.zaful.com/w/color-block-sweatshirts/e_118/?odr=hot" name="" data-src="https://uidesign.zafcdn.com/ZF/image/banner/20181204_6396/Men_CBS.jpg">  </a></div>
 
 
 
@@ -805,7 +1504,6 @@ $('.elf-nav-zaful').find('.menu-wrap').hide();
 
 
 
-</div><div class="menu-item" style="width: 210px;"><div class="elf-nav-poster"><a class="poster-inner" data-href="https://www.zaful.com/w/casual/e_141/?odr=new-arrivals" href="https://www.zaful.com/w/casual/e_141/?odr=new-arrivals"> <img class="poster-img" alt="" src="https://css.rglcdn.com/imagecache/RG/images/styleimg/loading_big.gif" data-href="https://www.zaful.com/w/casual/e_141/?odr=new-arrivals" name="" data-src="https://uidesign.zafcdn.com/ZF/image/banner/20181204_6396/Men_NCJ.jpg">  </a></div>
 
 
 
@@ -815,7 +1513,6 @@ $('.elf-nav-zaful').find('.menu-wrap').hide();
 
 
 
-</div></div>    </div>  </li><li class="nav-item">    <a href="https://www.zaful.com/activewear-e_78/" class="nav-title" title=""><span class="text">Activewear</span></a>    <div class="menu-wrap">        <div class="list-row">        <div class="menu-item" style="width: 234px;"><div class="elf-nav-text" style="font-weight: 700;"><a class="text elf-b" href="https://www.zaful.com/sport-tops-e_92/">Tops</a></div><div class="elf-nav-text" style=""><a class="text" href="https://www.zaful.com/sport-outerwear-e_122/">Hoodies &amp; Jackets</a></div><div class="elf-nav-text" style=""><a class="text" href="https://www.zaful.com/sports-bras-e_80/">Sports Bras</a></div><div class="elf-nav-text" style=""><a class="text" href="https://www.zaful.com/gym-tops-e_81/">Tees &amp; Tanks</a></div><div class="elf-nav-text" style="font-weight: 700;"><a class="text elf-b" href="https://www.zaful.com/active-bottoms-e_82/">Bottoms</a></div><div class="elf-nav-text" style=""><a class="text" href="https://www.zaful.com/sport-pants-e_127/">Pants</a></div><div class="elf-nav-text" style=""><a class="text" href="https://www.zaful.com/sports-leggings-e_94/">Leggings</a></div><div class="elf-nav-text" style=""><a class="text" href="https://www.zaful.com/gym-sets-e_83/">Gym Sets</a></div><div class="elf-nav-text" style=""><a class="text" href="https://www.zaful.com/sports-shorts-e_95/">Shorts</a></div><div class="elf-nav-text" style="font-weight: 700;"><a class="text elf-b" href="https://www.zaful.com/sport-accessories-e_93/">Accessories</a></div>
 
 
 
@@ -825,11 +1522,6 @@ $('.elf-nav-zaful').find('.menu-wrap').hide();
 
 
 
-</div><div class="menu-item" style="width: 286px;"><div class="elf-nav-text" style="font-weight: 700;"><a class="text elf-b">TRENDING</a></div><div class="elf-nav-text" style=""><a class="text" href="https://www.zaful.com/s/jogger-pants/?odr=hot">Gym Jogger Pants</a></div><div class="elf-nav-text">
-<a class="text" href="https://www.zaful.com/w/teddy-hoodies/e_78/?odr=hot">Teddy Hoodies</a>
-</div><div class="elf-nav-text" style=""><a class="text" href="https://www.zaful.com/w/mesh-bottoms/e_78/?odr=hot">Mesh Bottoms</a></div><div class="elf-nav-text" style=""><a class="text" href="https://www.zaful.com/w/crop-hoodies/e_78/?odr=hot"> Crop Hoodies</a></div><div class="elf-nav-text" style=""><a class="text" href="https://www.zaful.com/w/striped/e_82/?odr=hot">Striped Bottoms</a></div><div class="elf-nav-text" style=""><a class="text" href="https://www.zaful.com/w/color-block/e_78/?odr=hot">Color Block Sports</a></div><div class="elf-nav-text" style=""><a class="text" href="https://www.zaful.com/w/drop-shoulder-sweatshirt/e_78/?odr=hot">Drop Shoulder Sweatshirt</a></div><div class="elf-nav-text" style=""><a class="text" href="https://www.zaful.com/s/padded-sport-bras/?odr=new-arrivals">Padded Sport Bras</a></div><div class="elf-nav-text">
-<a class="text" href="https://www.zaful.com/s/velvet-activewear/?odr=new-arrivals">Velvet Activewear</a>
-</div><div class="elf-nav-text" style=""><a class="text" href="https://www.zaful.com/w/yoga/e_78/?odr=hot">Gym Yoga</a></div>
 
 
 
@@ -837,6 +1529,7 @@ $('.elf-nav-zaful').find('.menu-wrap').hide();
 
 
 
+</div><div class="menu-item" style="width: 11px;">
 
 
 
@@ -848,7 +1541,7 @@ $('.elf-nav-zaful').find('.menu-wrap').hide();
 
 
 
-</div><div class="menu-item" style="width: 210px;"><div class="elf-nav-poster"><a class="poster-inner" data-href="https://www.zaful.com/promotion/activewear-sale-1489.html?innerid=3080" href="https://www.zaful.com/promotion/activewear-sale-1489.html?innerid=3080"> <img class="poster-img" alt="" src="https://css.rglcdn.com/imagecache/RG/images/styleimg/loading_big.gif" data-href="https://www.zaful.com/promotion/activewear-sale-1489.html?innerid=3080" name="" data-src="https://uidesign.zafcdn.com/ZF/image/banner/20181207_6457/Activewear_.jpg">  </a></div>
+</div><div class="menu-item" style="width: 221px;">
 
 
 
@@ -866,14 +1559,29 @@ $('.elf-nav-zaful').find('.menu-wrap').hide();
 
 
 
+<div class="elf-nav-text" style="font-weight: 700;"><a class="text elf-b">SHOP BY TREND</a></div>
+<div class="elf-nav-text" style=""></div><div class="elf-nav-text" style=""><a class="text" href="https://www.zaful.com/s/beach-dresses/?odr=hot&amp;innerid=8567" style="color: rgb(255, 14, 14);">Beach Dresses</a></div><div class="elf-nav-text" style=""><a class="text" href="https://www.zaful.com/s/bow-tie-dress/?odr=hot&amp;innerid=6029">Bow Tie Dresses</a></div><div class="elf-nav-text">
 
+</div><div class="elf-nav-text">
+<a class="text" href="https://www.zaful.com/s/slip-dress/?odr=hot&amp;innerid=6033">Slip Dresses</a>
+</div><div class="elf-nav-text" style=""><a class="text" href="https://www.zaful.com/s/v-neck-dress/?odr=trending&amp;innerid=6035">V Neck Dresses</a></div><div class="elf-nav-text">
 
+</div>
 
+<div class="elf-nav-text">
+<a class="text" href="https://www.zaful.com/s/cut-out-dress/?odr=new-arrivals&amp;innerid=6039">Cut Out Dresses</a>
+</div>
 
+<div class="elf-nav-text" style=""><a class="text" href="https://www.zaful.com/s/velvet-dress/?odr=hot&amp;innerid=6044">Velvet Dresses</a></div><div class="elf-nav-text">
+<a class="text" href="https://www.zaful.com/s/striped-dress/?odr=hot&amp;innerid=6041">Striped Dresses</a>
+</div><div class="elf-nav-text">
+<a class="text" href="https://www.zaful.com/s/pinafore-dresses/?odr=trending&amp;innerid=6054">Pinafore Dresses</a>
+</div><div class="elf-nav-text">
+<a class="text" href="https://www.zaful.com/s/solid-dress/?odr=trending&amp;innerid=6057">Solid Dresses</a>
+</div>
 
 
 
-</div><div class="menu-item" style="width: 210px;"><div class="elf-nav-poster"><a class="poster-inner" data-href="https://www.zaful.com/promotion/where-fitness-meets-fashion-291.html?innerid=2122" href="https://www.zaful.com/promotion/where-fitness-meets-fashion-291.html?innerid=2122"> <img class="poster-img" alt="" src="https://css.rglcdn.com/imagecache/RG/images/styleimg/loading_big.gif" data-href="https://www.zaful.com/promotion/where-fitness-meets-fashion-291.html?innerid=2122" name="" data-src="https://uidesign.zafcdn.com/ZF/image/banner/20181204_6396/Activewear__.jpg">  </a></div>
 
 
 
@@ -895,12 +1603,589 @@ $('.elf-nav-zaful').find('.menu-wrap').hide();
 
 
 
+</div><div class="menu-item" style="width: 11px;">
 
 
 
 
 
-</div><div class="menu-item" style="width: 210px;"><div class="elf-nav-poster"><a class="poster-inner" data-href="https://www.zaful.com/promotion/athleisure-street-culture-1245.html?innerid=3439" href="https://www.zaful.com/promotion/athleisure-street-culture-1245.html?innerid=3439"> <img class="poster-img" alt="Athleisure Looks" src="https://css.rglcdn.com/imagecache/RG/images/styleimg/loading_big.gif" data-href="https://www.zaful.com/promotion/athleisure-street-culture-1245.html?innerid=3439" name="" data-src="https://uidesign.zafcdn.com/ZF/image/banner/20181130_6359/athlelsure.jpg">  </a></div>
+
+
+
+
+
+</div><div class="menu-item" style="width: 210px;"><div class="elf-nav-poster"><a class="poster-inner" data-href="https://www.zaful.com/s/vacation-dresses/?innerid=6024" href="https://www.zaful.com/s/vacation-dresses/?innerid=6024"> <img class="poster-img" alt="" src="https://css.rglcdn.com/imagecache/RG/images/styleimg/loading_big.gif" data-href="https://www.zaful.com/s/vacation-dresses/?innerid=6024" name="" data-src="https://uidesign.zafcdn.com/ZF/image/banner/20190308_8371/floral.jpg">  </a></div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</div><div class="menu-item" style="width: 210px;"><div class="elf-nav-poster"><a class="poster-inner" data-href="https://www.zaful.com/s/striped-dress/?odr=new-arrivals&amp;innerid=6041" href="https://www.zaful.com/s/striped-dress/?odr=new-arrivals&amp;innerid=6041"> <img class="poster-img" alt="" src="https://css.rglcdn.com/imagecache/RG/images/styleimg/loading_big.gif" data-href="https://www.zaful.com/s/striped-dress/?odr=new-arrivals&amp;innerid=6041" name="" data-src="https://uidesign.zafcdn.com/ZF/image/banner/20190308_8372/striped.jpg">  </a></div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</div></div>    </div>  </li><li class="nav-item">    <a href="https://www.zaful.com/swimwear-e_14/?innerid=5963" class="nav-title" title=""><span class="text">Swimwear</span></a>    <div class="menu-wrap">        <div class="list-row">        <div class="menu-item" style="width: 213px;"><div class="elf-nav-text" style="font-weight: 700;"><a class="text elf-b" href="https://www.zaful.com/bikinis-e_67/?innerid=5964">Bikinis</a></div><div class="elf-nav-text" style="font-weight: 700;"><a class="text elf-b" href="https://www.zaful.com/one-pieces-e_68/?innerid=6070" title="">One-Pieces</a></div><div class="elf-nav-text" style="font-weight: 700;"><a class="text elf-b" href="https://www.zaful.com/cover-ups-e_70/?innerid=5969">Cover Ups</a></div><div class="elf-nav-text" style=""><a class="text" href="https://www.zaful.com/beach-dresses-e_114/?innerid=5973">Beach Dresses</a></div><div class="elf-nav-text" style=""><a class="text" href="https://www.zaful.com/beach-tops-e_115/?innerid=5975">Beach Tops</a></div><div class="elf-nav-text" style=""><a class="text" href="https://www.zaful.com/beach-bottoms-e_116/?innerid=5977">Beach Bottoms</a></div><div class="elf-nav-text" style=""><a class="text" href="https://www.zaful.com/beach-accessories-e_117/?innerid=5979">Beach Accessories</a></div><div class="elf-nav-text" style="font-weight: 700;"><a class="text elf-b" href="https://www.zaful.com/kids-swimwear-e_119/?innerid=5981">Kids Swimwear</a></div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</div><div class="menu-item" style="width: 307px;"><div class="elf-nav-text" style="font-weight: 700;"><a class="text elf-b">TRENDING</a></div><div class="elf-nav-text" style=""><a class="text" href="https://www.zaful.com/new-faves/swimwear-e_14/?odr=hot&amp;innerid=8489" style="color: rgb(247, 8, 60);">Our Fave Swim Trends</a></div><div class="elf-nav-text" style=""><a class="text" href="https://www.zaful.com/s/high-cut-bikinis/?odr=hot&amp;innerid=5984">High Cut Bikinis</a></div><div class="elf-nav-text">
+<a class="text" href="https://www.zaful.com/w/colorful-striped/e_14/?odr=recommend&amp;innerid=8569">Colorful Striped Swimsuits</a>
+</div><div class="elf-nav-text" style=""><a class="text" href="https://www.zaful.com/s/underwire-bikini/?innerid=5997">Underwire Bikinis</a></div><div class="elf-nav-text">
+<a class="text" href="https://www.zaful.com/s/cut-out-one-piece/?odr=hot&amp;innerid=7398">Cut Out One-pieces</a>
+</div><div class="elf-nav-text" style=""><a class="text" href="https://www.zaful.com/s/smocked-bikinis/?innerid=5993">Smocked Bikinis</a></div><div class="elf-nav-text" style=""><a class="text" href="https://www.zaful.com/s/thong-bikinis/?innerid=5995">Thong Bikinis</a></div><div class="elf-nav-text" style=""><a class="text" href="https://www.zaful.com/s/bandeau-bikinis/?innerid=5986">Bandeau Bikinis</a></div><div class="elf-nav-text" style=""><a class="text" href="https://www.zaful.com/s/beach-dresses/?odr=trending&amp;innerid=8567">Beach Dresses</a></div><div class="elf-nav-text" style=""></div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</div><div class="menu-item" style="width: 210px;"><div class="elf-nav-poster"><a class="poster-inner" data-href="https://www.zaful.com/w/backless/e_68/?odr=new-arrivals&amp;innerid=6129" href="https://www.zaful.com/w/backless/e_68/?odr=new-arrivals&amp;innerid=6129"> <img class="poster-img" alt="" src="https://css.rglcdn.com/imagecache/RG/images/styleimg/loading_big.gif" data-href="https://www.zaful.com/w/backless/e_68/?odr=new-arrivals&amp;innerid=6129" name="" data-src="https://uidesign.zafcdn.com/ZF/image/banner/20190308_8371/backless.jpg">  </a></div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</div><div class="menu-item" style="width: 210px;"><div class="elf-nav-poster"><a class="poster-inner" data-href="https://www.zaful.com/promotion/super-swimwear-sale-740.html?innerid=5841" href="https://www.zaful.com/promotion/super-swimwear-sale-740.html?innerid=5841"> <img class="poster-img" alt="" src="https://css.rglcdn.com/imagecache/RG/images/styleimg/loading_big.gif" data-href="https://www.zaful.com/promotion/super-swimwear-sale-740.html?innerid=5841" name="" data-src="https://uidesign.zafcdn.com/ZF/image/z_promo/20190314_8564/370_ver2.jpg">  </a></div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</div><div class="menu-item" style="width: 210px;"><div class="elf-nav-poster"><a class="poster-inner" data-href="https://www.zaful.com/s/velvet-bikinis/?odr=trending&amp;innerid=7589" href="https://www.zaful.com/s/velvet-bikinis/?odr=trending&amp;innerid=7589"> <img class="poster-img" alt="" src="https://css.rglcdn.com/imagecache/RG/images/styleimg/loading_big.gif" data-href="https://www.zaful.com/s/velvet-bikinis/?odr=trending&amp;innerid=7589" name="" data-src="https://uidesign.zafcdn.com/ZF/image/banner/20190308_8372/velvet.jpg">  </a></div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</div></div>    </div>  </li><li class="nav-item">    <a href="https://www.zaful.com/men-e_118/?innerid=6097" class="nav-title" title="" style="color: rgb(39, 38, 38);"><span class="text">Men</span></a>    <div class="menu-wrap">        <div class="list-row">        <div class="menu-item" style="width: 240px;"><div class="elf-nav-text" style="font-weight: 700;"><a class="text elf-b" href="https://www.zaful.com/men-tops-e_132/?innerid=6098">Tops</a></div><div class="elf-nav-text" style=""><a class="text" href="https://www.zaful.com/men-tees-tanks-e_137/?innerid=6099">Tees &amp; Tanks</a></div><div class="elf-nav-text" style=""><a class="text" href="https://www.zaful.com/men-shirts-e_138/?innerid=6103" style="color: rgb(251, 13, 13);">Shirts</a></div><div class="elf-nav-text" style=""><a class="text" href="https://www.zaful.com/men-hoodies-sweatshirts-e_139/?innerid=6100">Hoodies &amp; Sweatshirts</a></div><div class="elf-nav-text" style=""><a class="text" href="https://www.zaful.com/men-jackets-coats-e_141/?innerid=6101">Jackets &amp; Coats</a></div><div class="elf-nav-text" style=""><a class="text" href="https://www.zaful.com/men-sweaters-cardigans-e_140/?innerid=6102">Sweaters &amp; Cardigans</a></div><div class="elf-nav-text" style="font-weight: 700;"><a class="text elf-b" href="https://www.zaful.com/men-bottoms-e_133/?innerid=6104">Bottoms</a></div><div class="elf-nav-text" style=""><a class="text" href="https://www.zaful.com/men-pants-e_143/?innerid=6105">Pants</a></div><div class="elf-nav-text" style=""><a class="text" href="https://www.zaful.com/men-jeans-e_144/?innerid=6106">Jeans</a></div><div class="elf-nav-text" style=""><a class="text" href="https://www.zaful.com/men-shorts-e_142/?innerid=6107">Shorts</a></div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</div><div class="menu-item" style="width: 240px;"><div class="elf-nav-text" style="font-weight: 700;"><a class="text elf-b" href="https://www.zaful.com/men-swimwear-e_145/?innerid=6108">Swimwear</a></div><div class="elf-nav-text" style="font-weight: 700;"><a class="text elf-b" href="https://www.zaful.com/men-underwear-e_174/?innerid=6109">Underwear</a></div><div class="elf-nav-text" style="font-weight: 700;"><a class="text elf-b" href="https://www.zaful.com/men-accessories-e_194/?innerid=6110">Accessories</a></div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</div><div class="menu-item" style="width: 240px;"><div class="elf-nav-text" style="font-weight: 700;"><a class="text elf-b">TRENDING</a></div><div class="elf-nav-text" style=""><a class="text" href="https://www.zaful.com/s/graphic-tee-men/?odr=hot&amp;innerid=6111">Print Graphic Tees</a></div><div class="elf-nav-text" style=""><a class="text" href="https://www.zaful.com/men-shirts-e_138/?odr=hot&amp;innerid=6120">Popular Shirts</a></div><div class="elf-nav-text">
+<a class="text" href="https://www.zaful.com/s/kimono-cardigan/?odr=hot&amp;innerid=6117">Kimono Cardigans</a>
+</div><div class="elf-nav-text">
+<a class="text" href="https://www.zaful.com/w/stripe/e_132/?odr=new-arrivals&amp;innerid=6114">Striped Tops</a>
+</div><div class="elf-nav-text" style=""><a class="text" href="https://www.zaful.com/w/chinese/e_118/?odr=trending&amp;innerid=6113">Chinese Character Print</a></div><div class="elf-nav-text" style=""><a class="text" href="https://www.zaful.com/s/color-block-men/?innerid=6115">Color Block Tops</a></div><div class="elf-nav-text" style=""><a class="text" href="https://www.zaful.com/w/ripped-jeans/e_118/?odr=trending&amp;innerid=6119">Ripped Jeans</a></div><div class="elf-nav-text" style=""><a class="text" href="https://www.zaful.com/w/letter-pockets-tops/e_118/?odr=hot&amp;innerid=6116">Letter Pockets Tops</a></div><div class="elf-nav-text">
+
+</div><div class="elf-nav-text" style=""><a class="text" href="https://www.zaful.com/w/jogger-pants/e_118/?odr=trending&amp;innerid=6118">Jogger Pants</a></div><div class="elf-nav-text" style=""></div><div class="elf-nav-text" style=""></div><div class="elf-nav-text" style=""></div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</div><div class="menu-item" style="width: 210px;">
+<div class="elf-nav-poster">
+
+<a class="poster-inner" data-href="https://www.zaful.com/w/t-shirts/e_132/?odr=hot&amp;innerid=7286" href="https://www.zaful.com/w/t-shirts/e_132/?odr=hot&amp;innerid=7286">
+<img class="poster-img" alt="" src="https://css.rglcdn.com/imagecache/RG/images/styleimg/loading_big.gif" data-href="https://www.zaful.com/w/t-shirts/e_132/?odr=hot&amp;innerid=7286" data-src="https://uidesign.zafcdn.com/ZF/image/banner/20190305_8142/casual.jpg?impolicy=high">
+</a>
+</div>
+
+
+
+
+
+
+
+
+</div><div class="menu-item" style="width: 210px;"><div class="elf-nav-poster"><a class="poster-inner" data-href="https://www.zaful.com/promotion/men-fashion-collection.html?innerid=8537" href="https://www.zaful.com/promotion/men-fashion-collection.html?innerid=8537"> <img class="poster-img" alt="" src="https://css.rglcdn.com/imagecache/RG/images/styleimg/loading_big.gif" data-href="https://www.zaful.com/promotion/men-fashion-collection.html?innerid=8537" name="" data-src="https://uidesign.zafcdn.com/ZF/image/banner/20190301_8051/men_8my.jpg?impolicy=high">  </a></div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</div></div>    </div>  </li><li class="nav-item">    <a href="https://www.zaful.com/activewear-e_78/?innerid=6121" class="nav-title" title=""><span class="text">Activewear</span></a>    <div class="menu-wrap">        <div class="list-row">        <div class="menu-item" style="width: 240px;"><div class="elf-nav-text" style="font-weight: 700;"><a class="text elf-b" href="https://www.zaful.com/sport-tops-e_92/?innerid=6122">Tops</a></div><div class="elf-nav-text" style=""><a class="text" href="https://www.zaful.com/gym-tops-e_81/?innerid=6123">Tees &amp; Tanks</a></div><div class="elf-nav-text" style=""><a class="text" href="https://www.zaful.com/sport-outerwear-e_122/?innerid=6124">Hoodies &amp; Jackets</a></div><div class="elf-nav-text" style=""><a class="text" href="https://www.zaful.com/sports-bras-e_80/?innerid=6125">Sports Bras</a></div><div class="elf-nav-text" style="font-weight: 700;"><a class="text elf-b" href="https://www.zaful.com/active-bottoms-e_82/?innerid=6126">Bottoms</a></div><div class="elf-nav-text" style=""><a class="text" href="https://www.zaful.com/sports-leggings-e_94/?innerid=6127">Leggings</a></div><div class="elf-nav-text" style=""><a class="text" href="https://www.zaful.com/sport-pants-e_127/?innerid=6128">Pants</a></div><div class="elf-nav-text" style=""><a class="text" href="https://www.zaful.com/gym-sets-e_83/?innerid=6130">Gym Sets</a></div><div class="elf-nav-text" style=""><a class="text" href="https://www.zaful.com/sports-shorts-e_95/?innerid=6131">Shorts</a></div><div class="elf-nav-text" style="font-weight: 700;"><a class="text elf-b" href="https://www.zaful.com/sport-accessories-e_93/?innerid=6132">Accessories</a></div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</div><div class="menu-item" style="width: 240px;"><div class="elf-nav-text" style="font-weight: 700;"><a class="text elf-b">TRENDING</a></div><div class="elf-nav-text" style=""><a class="text" href="https://www.zaful.com/w/color-block/e_78/?odr=hot&amp;innerid=6134">Color Block Sports</a></div><div class="elf-nav-text">
+
+</div><div class="elf-nav-text" style=""><a class="text" href="https://www.zaful.com/w/waistband/e_78/?odr=hot&amp;innerid=6135">Waistband Bottoms</a></div><div class="elf-nav-text" style=""><a class="text" href="https://www.zaful.com/gym-sets-e_83/?odr=trending&amp;innerid=6133">Popular Gym Sets</a></div><div class="elf-nav-text">
+<a class="text" href="https://www.zaful.com/w/pocket/e_78/?odr=new-arrivals&amp;innerid=6136">Pocket Activewear</a>
+</div><div class="elf-nav-text" style=""></div><div class="elf-nav-text" style=""><a class="text" href="https://www.zaful.com/w/seamless/e_78/?odr=hot&amp;innerid=6139">Seamless Activewear</a></div><div class="elf-nav-text" style=""><a class="text" href="https://www.zaful.com/w/zip/e_92/?odr=hot&amp;innerid=6137">Zip Up Sweatshirts</a></div><div class="elf-nav-text" style=""><a class="text" href="https://www.zaful.com/w/solid/e_82/?odr=hot&amp;innerid=6140">Solid Bottoms</a></div><div class="elf-nav-text">
+<a class="text" href="https://www.zaful.com/w/padded-sport-bras/e_78/?odr=hot&amp;innerid=6141">Padded Sport Bras</a>
+</div><div class="elf-nav-text" style=""></div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</div><div class="menu-item" style="width: 210px;"><div class="elf-nav-poster"><a class="poster-inner" data-href="https://www.zaful.com/promotion/where-fitness-meets-fashion-291.html?innerid=2122" href="https://www.zaful.com/promotion/where-fitness-meets-fashion-291.html?innerid=2122"> <img class="poster-img" alt="" src="https://css.rglcdn.com/imagecache/RG/images/styleimg/loading_big.gif" data-href="https://www.zaful.com/promotion/where-fitness-meets-fashion-291.html?innerid=2122" name="" data-src="https://uidesign.zafcdn.com/ZF/image/z_promo/20190330_8926/Activewear01_200x310.jpg">  </a></div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</div><div class="menu-item" style="width: 210px;"><div class="elf-nav-poster"><a class="poster-inner" data-href="https://www.zaful.com/promotion-athleisure-look-228.html?innerid=3441" href="https://www.zaful.com/promotion-athleisure-look-228.html?innerid=3441"> <img class="poster-img" alt="" src="https://css.rglcdn.com/imagecache/RG/images/styleimg/loading_big.gif" data-href="https://www.zaful.com/promotion-athleisure-look-228.html?innerid=3441" name="" data-src="https://uidesign.zafcdn.com/ZF/image/z_promo/20190330_8926/Activewear_02.jpg">  </a></div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</div><div class="menu-item" style="width: 210px;"><div class="elf-nav-poster"><a class="poster-inner" data-href="https://www.zaful.com/gym-sets-e_83/?odr=new-arrivals&amp;innerid=8896" href="https://www.zaful.com/gym-sets-e_83/?odr=new-arrivals&amp;innerid=8896"> <img class="poster-img" alt="" src="https://css.rglcdn.com/imagecache/RG/images/styleimg/loading_big.gif" data-href="https://www.zaful.com/gym-sets-e_83/?odr=new-arrivals&amp;innerid=8896" name="" data-src="https://uidesign.zafcdn.com/ZF/image/z_promo/20190330_8926/Activewear04_200x310.jpg">  </a></div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -926,7 +2211,28 @@ $('.elf-nav-zaful').find('.menu-wrap').hide();
 
 
 
+
+
+
+
+
+
+
+
+
 </div><div class="menu-item" style="width: 230px;"><div class="elf-nav-text" style=""><a class="text" href="https://www.zaful.com/backpacks-e_146/">Backpacks</a></div><div class="elf-nav-text" style=""><a class="text" href="https://www.zaful.com/clutches-e_149/">Clutches</a></div><div class="elf-nav-text" style="font-weight: 700;"><a class="text elf-b" href="https://www.zaful.com/shoes-e_2/">Shoes</a></div><div class="elf-nav-text" style=""><a class="text" href="https://www.zaful.com/sandals-e_26/">Sandals</a></div><div class="elf-nav-text" style=""><a class="text" href="https://www.zaful.com/sneakers-e_24/">Sneakers</a></div><div class="elf-nav-text" style=""><a class="text" href="https://www.zaful.com/boots-e_21/">Boots</a></div><div class="elf-nav-text" style=""><a class="text" href="https://www.zaful.com/flats-e_25/">Flats</a></div><div class="elf-nav-text" style=""><a class="text" href="https://www.zaful.com/pumps-e_22/">Pumps</a></div><div class="elf-nav-text" style=""><a class="text" href="https://www.zaful.com/platforms-e_23/">Wedges</a></div><div class="elf-nav-text" style="font-weight: 700;"><a class="text elf-b" href="https://www.zaful.com/beauty-e_86/">Beauty</a></div>
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -939,9 +2245,6 @@ $('.elf-nav-zaful').find('.menu-wrap').hide();
 
 
 
-</div><div class="menu-item" style="width: 258px;"><div class="elf-nav-text" style="font-weight: 700;"><a class="text elf-b">TRENDING</a></div><div class="elf-nav-text" style=""><a class="text" href="https://www.zaful.com/s/winter-scarf/">Winter Scarves</a></div><div class="elf-nav-text" style=""><a class="text" href="https://www.zaful.com/s/beanie-hat/">Beanie Hats</a></div><div class="elf-nav-text">
-<a class="text" href="https://www.zaful.com/s/christmas-socks/">Christmas Socks</a>
-</div><div class="elf-nav-text" style=""><a class="text" href="https://www.zaful.com/s/choker-necklace/">Choker Necklace</a></div><div class="elf-nav-text" style=""><a class="text" href="https://www.zaful.com/s/black-sunglasses/">Black Sunglasses</a></div><div class="elf-nav-text" style=""><a class="text" href="https://www.zaful.com/s/body-chain/">Body Chain</a></div><div class="elf-nav-text" style=""><a class="text" href="https://www.zaful.com/s/cat-eye-sunglasses/">Cat Eye Sunglasses</a></div><div class="elf-nav-text" style=""></div><div class="elf-nav-text" style=""><a class="text" href="https://www.zaful.com/s/tote-bag/">Tote Bags</a></div><div class="elf-nav-text" style=""><a class="text" href="https://www.zaful.com/s/stud-earrings/">Stud Earrings</a></div><div class="elf-nav-text" style=""><a class="text" href="https://www.zaful.com/s/makeup-brushes/">Makeup Brushes</a></div>
 
 
 
@@ -952,7 +2255,76 @@ $('.elf-nav-zaful').find('.menu-wrap').hide();
 
 
 
-</div><div class="menu-item" style="width: 210px;"><div class="elf-nav-poster"><a class="poster-inner" data-href="https://www.zaful.com/w/christmas/e_4/?odr=recommend" href="https://www.zaful.com/w/christmas/e_4/?odr=recommend"> <img class="poster-img" alt="" src="https://css.rglcdn.com/imagecache/RG/images/styleimg/loading_big.gif" data-href="https://www.zaful.com/w/christmas/e_4/?odr=recommend" name="" data-src="https://uidesign.zafcdn.com/ZF/image/banner/20181204_6396/Accessories_.jpg">  </a></div>
+
+
+
+
+
+
+
+
+
+
+</div><div class="menu-item" style="width: 258px;"><div class="elf-nav-text" style="font-weight: 700;"><a class="text elf-b">TRENDING</a></div><div class="elf-nav-text" style=""><a class="text" href="https://www.zaful.com/w/rings-set/e_3/?odr=trending">Rings Set</a></div><div class="elf-nav-text" style=""><a class="text" href="https://www.zaful.com/s/gold-earrings/">Gold Earrings</a></div><div class="elf-nav-text" style=""><a class="text" href="https://www.zaful.com/s/tote-bag/">Tote Bags</a></div><div class="elf-nav-text" style=""><a class="text" href="https://www.zaful.com/s/black-sunglasses/">Black Sunglasses</a></div><div class="elf-nav-text" style=""><a class="text" href="https://www.zaful.com/s/choker-necklace/">Choker Necklaces</a></div><div class="elf-nav-text">
+
+</div><div class="elf-nav-text" style=""><a class="text" href="https://www.zaful.com/s/body-chain/">Body Chain</a></div><div class="elf-nav-text" style=""><a class="text" href="https://www.zaful.com/s/cat-eye-sunglasses/">Cat Eye Sunglasses</a></div><div class="elf-nav-text" style=""></div><div class="elf-nav-text" style=""><a class="text" href="https://www.zaful.com/s/stud-earrings/">Stud Earrings</a></div><div class="elf-nav-text" style=""><a class="text" href="https://www.zaful.com/s/makeup-brushes/">Makeup Brushes</a></div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</div><div class="menu-item" style="width: 210px;">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="elf-nav-poster">
+
+<a class="poster-inner" data-href="https://www.zaful.com/sunglasses-e_58/?odr=trending&amp;innerid=8897" href="https://www.zaful.com/sunglasses-e_58/?odr=trending&amp;innerid=8897">
+<img class="poster-img" alt="" src="https://css.rglcdn.com/imagecache/RG/images/styleimg/loading_big.gif" data-href="https://www.zaful.com/sunglasses-e_58/?odr=trending&amp;innerid=8897" data-src="https://uidesign.zafcdn.com/ZF/image/z_promo/20190330_8926/Accessories01_200x310.jpg">
+</a>
+</div>
 
 
 
@@ -970,7 +2342,28 @@ $('.elf-nav-zaful').find('.menu-wrap').hide();
 
 
 
+
+
+
+
+
+
+
+
+
+
 </div><div class="menu-item" style="width: 227px;"><div class="elf-nav-text" style=""><a class="text" href="https://www.zaful.com/sale/men-tops-e_132/">Tops Sale</a></div><div class="elf-nav-text" style=""><a class="text" href="https://www.zaful.com/sale/men-bottoms-e_133/">Bottoms Sale</a></div><div class="elf-nav-text" style=""><a class="text" href="https://www.zaful.com/sale/men-underwear-e_174/">Underwear Sale</a></div><div class="elf-nav-text" style=""><a class="text" href="https://www.zaful.com/sale/men-accessories-e_194/">Accessories Sale</a></div><div class="elf-nav-text" style="font-weight: 700;"><a class="text elf-b" href="https://www.zaful.com/sale/activewear-e_78/">ACTIVEWEAR</a></div>
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -993,7 +2386,6 @@ $('.elf-nav-zaful').find('.menu-wrap').hide();
 
 
 
-</div><div class="menu-item" style="width: 210px;"><div class="elf-nav-poster"><a class="poster-inner" data-href="https://www.zaful.com/promotion/in-vogue-sale.html?innerid=2624" href="https://www.zaful.com/promotion/in-vogue-sale.html?innerid=2624"> <img class="poster-img" alt="AUTUMN/WINTER FASHION TREND" src="https://css.rglcdn.com/imagecache/RG/images/styleimg/loading_big.gif" data-href="https://www.zaful.com/promotion/in-vogue-sale.html?innerid=2624" name="" data-src="https://uidesign.zafcdn.com/ZF/image/banner/20181204_6396/Sale.gif">  </a></div>
 
 
 
@@ -1008,7 +2400,12 @@ $('.elf-nav-zaful').find('.menu-wrap').hide();
 
 
 
-</div><div class="menu-item" style="width: 210px;"><div class="elf-nav-poster"><a class="poster-inner" data-href="https://www.zaful.com/promotion/swimwear-bundle-up-sale.html?innerid=3708" href="https://www.zaful.com/promotion/swimwear-bundle-up-sale.html?innerid=3708"> <img class="poster-img" alt="swimwear" src="https://css.rglcdn.com/imagecache/RG/images/styleimg/loading_big.gif" data-href="https://www.zaful.com/promotion/swimwear-bundle-up-sale.html?innerid=3708" name="" data-src="https://uidesign.zafcdn.com/ZF/image/banner/20181207_6455/200x370.jpg?impolicy=high">  </a></div>
+
+
+
+
+
+</div><div class="menu-item" style="width: 210px;"><div class="elf-nav-poster"><a class="poster-inner" data-href="https://www.zaful.com/promotion/one-last-clearance-2561.html?innerid=5774" href="https://www.zaful.com/promotion/one-last-clearance-2561.html?innerid=5774"> <img class="poster-img" alt="" src="https://css.rglcdn.com/imagecache/RG/images/styleimg/loading_big.gif" data-href="https://www.zaful.com/promotion/one-last-clearance-2561.html?innerid=5774" name="" data-src="https://uidesign.zafcdn.com/Z/APP/image/en/190316/ONE_210x300.jpg">  </a></div>
 
 
 
@@ -1018,6 +2415,63 @@ $('.elf-nav-zaful').find('.menu-wrap').hide();
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</div><div class="menu-item" style="width: 210px;">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="elf-nav-poster"><a class="poster-inner" data-href="https://www.zaful.com/promotion/in-vogue-sale.html?innerid=2624" href="https://www.zaful.com/promotion/in-vogue-sale.html?innerid=2624"> <img class="poster-img" alt="" src="https://css.rglcdn.com/imagecache/RG/images/styleimg/loading_big.gif" data-href="https://www.zaful.com/promotion/in-vogue-sale.html?innerid=2624" name="" data-src="https://uidesign.zafcdn.com/ZF/image/z_promo/20190329_8876/sale2.gif">  </a></div>
 
 
 
@@ -1107,11 +2561,53 @@ $('.elf-nav-zaful').find('.menu-wrap').hide();
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 </div><div class="menu-item" style="width: 284px;">
 <div class="elf-nav-text">
 </div><div class="elf-nav-text">
 <a class="text elf-b" style="font-weight: 700;">TRENDING</a>
 </div><div class="elf-nav-text">
+<a class="text" href="https://blog.zaful.com/floralize-me-zaful-floral-bikinis-lookbook/">Floralize Me – ZAFUL Bikinis </a>
+</div><div class="elf-nav-text">
+<a class="text" href="https://blog.zaful.com/obey-your-activewear-zaful-street-athleisure-lookbook/">Obey Your Activewear</a>
+</div><div class="elf-nav-text">
+
+</div><div class="elf-nav-text">
+<a class="text" href="https://blog.zaful.com/polka-dot-fashion-trend-2019/">Polka Dot Fashion Trend 2019</a>
+</div><div class="elf-nav-text">
 </div><div class="elf-nav-text">
 
 </div><div class="elf-nav-text">
@@ -1188,27 +2684,29 @@ $('.elf-nav-zaful').find('.menu-wrap').hide();
 <div class="elf-nav-text">
 
 </div><div class="elf-nav-text">
-<a class="text" href="https://blog.zaful.com/how-much-did-i-spend-on-zaful-talia-maizels.html">How Much Did I Spend On ZAFUL?</a>
+
 </div><div class="elf-nav-text">
-<a class="text" href="https://blog.zaful.com/winter-crush-fur-leather-zaful-fur-leather-wardrobe.html">Winter Crushes: Fur &amp; Leather</a>
+<a class="text" href="https://blog.zaful.com/how-to-slay-instagram-photos-zaful-x-arielle-berze/">How to slay Instagram photos?</a>
 </div><div class="elf-nav-text">
-<a class="text" href="https://blog.zaful.com/style-the-winter-cardigan-zaful.html">Style The Winter Cardigan</a>
+<a class="text" href="https://blog.zaful.com/what-to-wear-over-your-swimsuits/">What To Wear Over Your Swimsuits?</a>
 </div><div class="elf-nav-text">
-<a class="text" href="https://blog.zaful.com/steal-the-spotlight-zaful-urban-outfits-lookbook.html">Steal The Spotlight</a>
-</div><div class="elf-nav-text">
-<a class="text" href="https://blog.zaful.com/how-to-make-your-home-chrismassy.html"> How to Make Your Home Chrismassy</a>
-</div><div class="elf-nav-text">
-<a class="text" href="https://blog.zaful.com/instagram-baddie-ootw-zaful-x-ioanna-vlachou.html">#OOTW Instagram Baddie</a>
-</div><div class="elf-nav-text">
-<a class="text" href="https://blog.zaful.com/baby-its-cold-outside-zaful-winter-outfits-lookbook.html">Baby, It’s Cold Outside</a>
-</div><div class="elf-nav-text">
-<a class="text" href="https://blog.zaful.com/teddy-bear-is-coming-at-you-zaful-teddy-coat-reviews.html">“Teddy Bear ” is coming at you!</a>
+<a class="text" href="https://blog.zaful.com/10-cover-ups-to-nail-beach-dressing-in-the-coming-summer/">10 Cover-Ups To Nail Beach Dressing </a>
 </div><div class="elf-nav-text">
 
 </div><div class="elf-nav-text">
 
 </div><div class="elf-nav-text">
-<a class="text" href="https://blog.zaful.com/how-we-style-zaful-teddy-coat.html">How We Style ZAFUL Teddy Coat?</a>
+<a class="text" href="https://blog.zaful.com/mint-green-the-next-trend-for-ss2019/">Mint Green: The Next Trend</a>
+</div><div class="elf-nav-text">
+<a class="text" href="https://blog.zaful.com/spring-awakening-zaful-street-style-lookbook/">Spring Awakening – ZAFUL Street Style </a>
+</div><div class="elf-nav-text">
+<a class="text" href="https://blog.zaful.com/animal-print-zakini-best-reviews-week-01/">Animal Print!</a>
+</div><div class="elf-nav-text">
+
+</div><div class="elf-nav-text">
+
+</div><div class="elf-nav-text">
+
 </div><div class="elf-nav-text">
 
 </div><div class="elf-nav-text">
@@ -1224,6 +2722,47 @@ $('.elf-nav-zaful').find('.menu-wrap').hide();
 </div><div class="elf-nav-text">
 
 </div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -1248,31 +2787,76 @@ $('.elf-nav-zaful').find('.menu-wrap').hide();
 </div><div class="menu-item">
 <div class="elf-nav-poster">
 
-<a class="poster-inner" data-href="https://blog.zaful.com/9-ways-to-style-winter-accessories-zaful-blogger-carla-vadan.html" href="https://blog.zaful.com/9-ways-to-style-winter-accessories-zaful-blogger-carla-vadan.html">
-<img class="poster-img" alt="" src="https://css.rglcdn.com/imagecache/RG/images/styleimg/loading_big.gif" data-href="https://blog.zaful.com/9-ways-to-style-winter-accessories-zaful-blogger-carla-vadan.html" name="9 Ways to Style Winter Accessories" data-src="https://review.zaful.com/nav/images/20181212/43535.jpg">
+<a class="poster-inner" data-href="https://blog.zaful.com/blazing-beach-dream-zaful-swimsuit-lookbook/" href="https://blog.zaful.com/blazing-beach-dream-zaful-swimsuit-lookbook/">
+<img class="poster-img" alt="" src="https://css.rglcdn.com/imagecache/RG/images/styleimg/loading_big.gif" data-href="https://blog.zaful.com/blazing-beach-dream-zaful-swimsuit-lookbook/" name="10 ideas for beach dressing" data-src="https://review.zaful.com/nav/images/20190328/57874.jpg">
 </a>
 </div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 </div><div class="menu-item">
 <div class="elf-nav-poster">
 
-<a class="poster-inner" data-href="https://blog.zaful.com/all-i-want-for-christmas-is-zaful-christmas-outfit-lookbook.html" href="https://blog.zaful.com/all-i-want-for-christmas-is-zaful-christmas-outfit-lookbook.html">
-<img class="poster-img" alt="" src="https://css.rglcdn.com/imagecache/RG/images/styleimg/loading_big.gif" data-href="https://blog.zaful.com/all-i-want-for-christmas-is-zaful-christmas-outfit-lookbook.html" name="christmas" data-src="https://review.zaful.com/nav/images/20181212/christmas-7819.jpg">
+<a class="poster-inner" data-href="https://blog.zaful.com/spring-colors-for-2019/" href="https://blog.zaful.com/spring-colors-for-2019/">
+<img class="poster-img" alt="" src="https://css.rglcdn.com/imagecache/RG/images/styleimg/loading_big.gif" data-href="https://blog.zaful.com/spring-colors-for-2019/" name="Swimwear Trends S/S 2019" data-src="https://review.zaful.com/nav/images/20190328/75242.jpg">
 </a>
 </div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 </div><div class="menu-item">
 <div class="elf-nav-poster">
 
-<a class="poster-inner" data-href="https://blog.zaful.com/the-cold-wont-stop-us-zaful-athleisure-outfits-lookbook.html" href="https://blog.zaful.com/the-cold-wont-stop-us-zaful-athleisure-outfits-lookbook.html">
-<img class="poster-img" alt="" src="https://css.rglcdn.com/imagecache/RG/images/styleimg/loading_big.gif" data-href="https://blog.zaful.com/the-cold-wont-stop-us-zaful-athleisure-outfits-lookbook.html" name="The Cold Won`t Stop Us" data-src="https://review.zaful.com/nav/images/20181212/47823.jpg">
+<a class="poster-inner" data-href="https://blog.zaful.com/swimwear-trends-s-s-2019/" href="https://blog.zaful.com/swimwear-trends-s-s-2019/">
+<img class="poster-img" alt="" src="https://css.rglcdn.com/imagecache/RG/images/styleimg/loading_big.gif" data-href="https://blog.zaful.com/swimwear-trends-s-s-2019/" name="Jungle Soul " data-src="https://review.zaful.com/nav/images/20190328/86062.jpg">
 </a>
 </div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 </div>
 </div>
 </div>
 </li></ul>
 </div>
-</nav>   </div></div></header><div id="mainWrap" class="w"><div class="articleWrap clearfix"><aside class="article_L" id="js_saderBar"><h4>Help and Info</h4><div class="navList"><dl><dt>About ZAFUL</dt><dd><a href="https://www.zaful.com/about-us/" rel="nofollow">About us</a></dd><dd><a href="https://www.zaful.com/contact-us/" rel="nofollow" target="_blank">Contact us</a></dd><dd class="on"><a href="https://www.zaful.com/privacy-policy/" rel="nofollow">Privacy Policy</a></dd><dd><a href="https://www.zaful.com/terms-of-use/" rel="nofollow">Terms and Conditions</a></dd><dd><a href="https://www.zaful.com/intellectual-property-policy/" rel="nofollow">Intellectual Property Policy</a></dd><dd><a href="https://www.zaful.com/report-security-issues" rel="nofollow">Report Security Issues</a></dd></dl><dl><dt>Customer Care</dt><dd><a href="https://www.zaful.com/returns/" rel="nofollow">Returns</a></dd><dd><a href="https://www.zaful.com/sizechart/" rel="nofollow">Size and Fit Guides</a></dd><dd><a href="https://www.zaful.com/payments/" rel="nofollow">Payments</a></dd><dd><a href="https://www.zaful.com/shipping-info/" rel="nofollow">Shipping Info</a></dd><dd><a href="https://www.zaful.com/intellectual-property-policy/" rel="nofollow">Intellectual Property Policy</a></dd></dl><dl><dt>More about ZAFUL</dt><dd><a href="https://www.zaful.com/affiliate-program/" rel="nofollow">Affiliate Program</a></dd><dd><a href="https://www.zaful.com/faq/" rel="nofollow">FAQ</a></dd></dl></div></aside><section class="article_R"><h1 class="title">Privacy Policy</h1><div class="articleText"> <div style="font-size: 13px;color: #333;line-height: 20px;">
+</nav>   </div></div></header><div id="mainWrap" class="w"><div class="articleWrap clearfix"><aside class="article_L" id="js_saderBar"><h4>Help and Info</h4><div class="navList"><dl><dt>About ZAFUL</dt><dd><a href="https://www.zaful.com/about-us/" rel="nofollow">About us</a></dd><dd><a href="https://www.zaful.com/contact-us/" rel="nofollow" target="_blank">Contact us</a></dd><dd class="on"><a href="https://www.zaful.com/privacy-policy/" rel="nofollow">Privacy Policy</a></dd><dd><a href="https://www.zaful.com/terms-of-use/" rel="nofollow">Terms and Conditions</a></dd><dd><a href="https://www.zaful.com/intellectual-property-policy/" rel="nofollow">Intellectual Property Policy</a></dd><dd><a href="https://www.zaful.com/report-security-issues" rel="nofollow">Report Security Issues</a></dd></dl><dl><dt>Customer Care</dt><dd><a href="https://www.zaful.com/returns/" rel="nofollow">Returns</a></dd><dd><a href="https://www.zaful.com/sizechart/" rel="nofollow">Size and Fit Guides</a></dd><dd><a href="https://www.zaful.com/payments/" rel="nofollow">Payments</a></dd><dd><a href="https://www.zaful.com/shipping-info/" rel="nofollow">Shipping Info</a></dd><dd><a href="https://www.zaful.com/intellectual-property-policy/" rel="nofollow">Intellectual Property Policy</a></dd></dl><dl><dt>More about ZAFUL</dt><dd><a href="https://www.zaful.com/affiliate-program/" rel="nofollow">Affiliate Program</a></dd><dd><a href="https://www.zaful.com/faq/" rel="nofollow">FAQ</a></dd></dl></div></aside><section class="article_R"><a class="survey" href="https://www.surveymonkey.com/r/NMVD2MW" target="_blank"><p class="txt">Satisfaction Survey</p></a><h1 class="title">Privacy Policy</h1><div class="articleText"> <div style="font-size: 13px;color: #333;line-height: 20px;">
 						<h2 style="font-size: 16px;font-family:OpenSans-Semibold;line-height: 60px;">
 							Privacy Policy
 						</h2>
@@ -1379,9 +2963,9 @@ $('.elf-nav-zaful').find('.menu-wrap').hide();
 						<p>
 							If you would like to exercise one of your rights as set out above, or if you have a question or a complaint about this policy, the way your personal information is processed, please contact us via e-mail: <a style="-moz-user-select: none; -webkit-user-select: none; -ms-user-select: none; -khtml-user-select: none; user-select: none;text-decoration:none; ">Support@zaful.com</a>.
 						</p>
-					</div></div></section></div></div><footer id="pageFooter"> <div class="site-footer"><div class="footer-top"><div class="footer-main"><nav class="footer-nav"><ul><li class="footer-nav-title">About ZAFUL</li><li class="footer-nav-link"><a href="https://www.zaful.com/about-us/" rel="nofollow">About us</a></li><li class="footer-nav-link"><a href="https://www.zaful.com/contact-us/" rel="nofollow" target="_blank">Contact us</a></li><li class="footer-nav-link on"><a href="https://www.zaful.com/privacy-policy/" rel="nofollow">Privacy Policy</a></li><li class="footer-nav-link"><a href="https://www.zaful.com/terms-of-use/" rel="nofollow">Terms and Conditions</a></li><li class="footer-nav-link"><a href="https://www.zaful.com/intellectual-property-policy/" rel="nofollow">Intellectual Property Policy</a></li><li class="footer-nav-link"><a href="https://www.zaful.com/report-security-issues">Report Security Issues</a></li></ul><ul><li class="footer-nav-title">CUSTOMER SUPPORT</li> <li class="footer-nav-link"><a href="https://www.zaful.com/top-topic/">Top Topic</a></li> <li class="footer-nav-link"><a href="https://www.zaful.com/faq/" rel="nofollow">Shopping FAQ</a></li><li class="footer-nav-link"><a href="https://www.zaful.com/sizechart/" rel="nofollow">Size and Fit Guides</a></li><li class="footer-nav-link"><a href="https://www.zaful.com/payments/" rel="nofollow">Payments</a></li><li class="footer-nav-link"><a href="https://www.zaful.com/shipping-info/" rel="nofollow">Shipping Info</a></li><li class="footer-nav-link"><a href="https://www.zaful.com/returns/" rel="nofollow">Returns</a></li></ul><ul><li class="footer-nav-title">More about ZAFUL</li> <li class="footer-nav-link"><a href="https://www.zaful.com/top-searches/">Top Searches</a></li><li class="footer-nav-link"><a href="https://www.zaful.com/me/explore/" class="js-show-pager js-use-href">Explore</a></li> <li class="footer-nav-link"><a href="https://www.zaful.com/affiliate-program/" rel="nofollow">Affiliate Program</a></li><li class="footer-nav-link"><a href="https://www.zaful.com/me/" rel="nofollow">Join Our Community</a></li><li class="footer-nav-link"><a href="https://blog.zaful.com/" rel="nofollow">Follow Our Blog</a></li><li class="footer-nav-link"><a href="https://www.zaful.com/m-users-a-student_edit.html" rel="nofollow">Student Discount</a></li><li class="footer-nav-apps"> <a href="https://www.zaful.com/m-promotion-active-95.html" target="_blank" class="footer-app-store" rel="nofollow"><span>Download our FREE App &amp; Register, GET $100 coupons.</span></a> <a href="https://www.zaful.com/m-promotion-active-95.html" target="_blank" class="footer-google-play" rel="nofollow"><span>Download our FREE App &amp; Register, GET $100 coupons.</span></a> <a href="https://www.zaful.com/m-promotion-active-95.html" target="_blank" class="footer-download" rel="nofollow"><span>Download our FREE App &amp; Register, GET $100 coupons.</span></a></li></ul></nav><div class="footer-subscribe-social pr"><h3 class="footer-sub-title">SUBSCRIBE NOW AND GET 15% OFF </h3><form method="post" name="pinglunform" action="/m-cemails.html" id="js_subscriptEmail" class="footer-subscribe"> <input id="act" value="add" type="hidden" name="act"> <input type="hidden" value="2" name="action"> <input type="hidden" id="platform" name="platform" value="1"> <input type="hidden" id="type" name="type" value="2"> <input id="textDingyueType" value="2" type="hidden" name="textDingyueType"> <input type="text" class="footer-input" autocomplete="off" id="txtEMail" name="txtEMail" maxlength="90" placeholder="Enter your email"> <span class="privacy-policy-tip js_eu_privacy_policy_tip">I agree to receive marketing information about Zaful products and services and to the processing of my personal data for such purposes as described in the Zaful <a target="_blank" href="https://www.zaful.com/privacy-policy/">Privacy Policy</a> . I can withdraw my consent at any time.</span> <button type="submit" class="footer-submit js-footer-emails submit-btn">Subscribe</button></form><div class="footer-email-tip js-footer-tip"></div><h3 class="footer-sub-title">FOLLOW US ON SOCIAL MEDIA</h3><div class="footer-socials"><a href="https://www.facebook.com/Zaful" class="footer-share footer-share-facebook" target="_blank" rel="nofollow"></a><a href="https://www.instagram.com/zaful/" class="footer-share footer-share-instagram" target="_blank" rel="nofollow"></a><a href="https://twitter.com/zaful_official" class="footer-share footer-share-twitter" target="_blank" rel="nofollow"></a><a href="https://zafulfashion.tumblr.com" class="footer-share footer-share-tumblr" target="_blank" rel="nofollow"></a><a href="https://pinterest.com/zaful" class="footer-share footer-share-pinterest" target="_blank" rel="nofollow"></a><a href="https://plus.google.com/116714201074656583369/posts" class="footer-share footer-share-google" target="_blank" rel="nofollow"></a><a href="https://www.youtube.com/c/Zaful-live" class="footer-share footer-share-youtube" target="_blank" rel="nofollow"></a><a href="https://www.zaful.com/blog" class="footer-share footer-share-blog" target="_blank" rel="nofollow"></a><a href="https://www.snapchat.com/add/zafulfashion" class="footer-share-snapchat" target="_blank" rel="nofollow"></a></div></div></div></div><div class="footer-bottom"><div class="footer-main"><div class="footer-payments"><i class="payment-paypal"></i><i class="payment-visa"></i><i class="payment-western-union"></i><i class="payment-sofort"></i><i class="payment-master-card"></i><i class="payment-maestro"></i><i class="payment-american-express"></i><i class="payment-discover-club"></i><i class="payment-deal"></i> <a target="_blank" href="https://www.mcafeesecure.com/verify?host=zaful.com" rel="nofollow"><i class="payment-mcafee"></i></a> <a href="http://www.dmca.com/Protection/Status.aspx?ID=012daeb8-2017-4fab-a39e-750112c6b46e&amp;refurl=https://web.archive.org/web/20181215215332id_/https://www.zaful.com/privacy-policy/" id="dmca-badge"><i class="payment-dmca"></i></a><script type="text/javascript">
+					</div></div></section></div></div><footer id="pageFooter"> <div class="site-footer"><div class="footer-top"><div class="footer-main"><nav class="footer-nav"><ul><li class="footer-nav-title">About ZAFUL</li><li class="footer-nav-link"><a href="https://www.zaful.com/about-us/" rel="nofollow">About us</a></li><li class="footer-nav-link"><a href="https://www.zaful.com/contact-us/" rel="nofollow" target="_blank">Contact us</a></li><li class="footer-nav-link on"><a href="https://www.zaful.com/privacy-policy/" rel="nofollow">Privacy Policy</a></li><li class="footer-nav-link"><a href="https://www.zaful.com/terms-of-use/" rel="nofollow">Terms and Conditions</a></li><li class="footer-nav-link"><a href="https://www.zaful.com/intellectual-property-policy/" rel="nofollow">Intellectual Property Policy</a></li><li class="footer-nav-link"><a href="https://www.zaful.com/report-security-issues">Report Security Issues</a></li></ul><ul><li class="footer-nav-title">CUSTOMER SUPPORT</li> <li class="footer-nav-link"><a href="https://www.zaful.com/top-topic/">Top Topic</a></li> <li class="footer-nav-link"><a href="https://www.zaful.com/faq/" rel="nofollow">Shopping FAQ</a></li><li class="footer-nav-link"><a href="https://www.zaful.com/sizechart/" rel="nofollow">Size and Fit Guides</a></li><li class="footer-nav-link"><a href="https://www.zaful.com/payments/" rel="nofollow">Payments</a></li><li class="footer-nav-link"><a href="https://www.zaful.com/shipping-info/" rel="nofollow">Shipping Info</a></li><li class="footer-nav-link"><a href="https://www.zaful.com/returns/" rel="nofollow">Returns</a></li><li class="footer-nav-link"><a href="https://www.surveymonkey.com/r/NMVD2MW" rel="nofollow">Satisfaction Survey</a></li></ul><ul><li class="footer-nav-title">More about ZAFUL</li> <li class="footer-nav-link"><a href="https://www.zaful.com/top-searches/">Top Searches</a></li> <li class="footer-nav-link"><a href="https://www.zaful.com/affiliate-program/" rel="nofollow">Affiliate Program</a></li> <li class="footer-nav-link"><a href="https://www.zaful.com/me/" rel="nofollow">Join Our Community</a></li> <li class="footer-nav-link"><a href="https://blog.zaful.com/" rel="nofollow">Follow Our Blog</a></li><li class="footer-nav-link"><a href="https://www.zaful.com/m-users-a-student_edit.html" rel="nofollow">Student Discount</a></li><li class="footer-nav-apps"> <a href="https://www.zaful.com/m-promotion-active-95.html" target="_blank" class="footer-app-store" rel="nofollow"><span>DOWNLOAD ZAFUL APP GET CRAZY LOW PRICES：DOWN TO $0.99</span></a> <a href="https://www.zaful.com/m-promotion-active-95.html" target="_blank" class="footer-google-play" rel="nofollow"><span>DOWNLOAD ZAFUL APP GET CRAZY LOW PRICES：DOWN TO $0.99</span></a> <a href="https://www.zaful.com/m-promotion-active-95.html" target="_blank" class="footer-download" rel="nofollow"><span>DOWNLOAD ZAFUL APP GET CRAZY LOW PRICES：DOWN TO $0.99</span></a></li></ul></nav><div class="footer-subscribe-social pr"><h3 class="footer-sub-title">SUBSCRIBE NOW AND GET 15% OFF </h3><form method="post" name="pinglunform" action="/m-cemails.html" id="js_subscriptEmail" class="footer-subscribe"> <input id="act" value="add" type="hidden" name="act"> <input type="hidden" value="2" name="action"> <input type="hidden" id="platform" name="platform" value="1"> <input type="hidden" id="type" name="type" value="2"> <input id="textDingyueType" value="2" type="hidden" name="textDingyueType"> <input type="text" class="footer-input" autocomplete="off" id="txtEMail" name="txtEMail" maxlength="90" placeholder="Enter your email"> <span class="privacy-policy-tip js_eu_privacy_policy_tip">I agree to receive marketing information about Zaful products and services and to the processing of my personal data for such purposes as described in the Zaful <a target="_blank" href="https://www.zaful.com/privacy-policy/">Privacy Policy</a> . I can withdraw my consent at any time.</span> <button type="submit" class="footer-submit js-footer-emails submit-btn">Subscribe</button></form><div class="footer-email-tip js-footer-tip"></div><h3 class="footer-sub-title">FOLLOW US ON SOCIAL MEDIA</h3><div class="footer-socials"><a href="https://www.facebook.com/Zaful" class="footer-share footer-share-facebook" target="_blank" rel="nofollow"></a><a href="https://www.instagram.com/zaful/" class="footer-share footer-share-instagram" target="_blank" rel="nofollow"></a><a href="https://twitter.com/zaful_official" class="footer-share footer-share-twitter" target="_blank" rel="nofollow"></a><a href="https://zafulfashion.tumblr.com" class="footer-share footer-share-tumblr" target="_blank" rel="nofollow"></a><a href="https://pinterest.com/zaful" class="footer-share footer-share-pinterest" target="_blank" rel="nofollow"></a><a href="https://plus.google.com/116714201074656583369/posts" class="footer-share footer-share-google" target="_blank" rel="nofollow"></a><a href="https://www.youtube.com/c/Zaful-live" class="footer-share footer-share-youtube" target="_blank" rel="nofollow"></a><a href="https://www.zaful.com/blog" class="footer-share footer-share-blog" target="_blank" rel="nofollow"></a><a href="https://www.snapchat.com/add/zafulfashion" class="footer-share-snapchat" target="_blank" rel="nofollow"></a></div></div></div></div><div class="footer-bottom"><div class="footer-main"><div class="footer-payments"><i class="payment-paypal"></i><i class="payment-visa"></i><i class="payment-western-union"></i><i class="payment-sofort"></i><i class="payment-master-card"></i><i class="payment-maestro"></i><i class="payment-american-express"></i><i class="payment-discover-club"></i><i class="payment-deal"></i> <a target="_blank" href="https://www.mcafeesecure.com/verify?host=zaful.com" rel="nofollow"><i class="payment-mcafee"></i></a> <a href="http://www.dmca.com/Protection/Status.aspx?ID=012daeb8-2017-4fab-a39e-750112c6b46e&amp;refurl=https://web.archive.org/web/20190330194051id_/https://www.zaful.com/privacy-policy/" id="dmca-badge"><i class="payment-dmca"></i></a><script type="text/javascript">
 					document.getElementById("dmca-badge").href += '&refurl=' + document.location;
-				</script> <div class="resellerratings"><script type="text/javascript" src="https://widget.resellerratings.com/widget/javascript/rating/zaful.js"></script></div></div><p class="footer-copyright">Copyright Notice © 2013-2018 ZAFUL.com ALL Rights Reserved</p></div></div></div> <div class="site-notices elf-mood-site-notices  has-elf-mood "> <a class="js_days_30" href="https://user.zaful.com/returns/" data-logsss-event-value="{'pm':'md','x':'A_2','ubcta':{'mdlc':'A_2','mdID':''}}">30 Days Return Warranty</a>  <a class="elf-mood-site-notice-ship" href="https://user.zaful.com/shipping-info/" data-logsss-event-value="{'pm':'md','x':'A_2','ubcta':{'mdlc':'A_2','mdID':''}}">Free Shipping on orders over $49</a> <a href="https://user.zaful.com/sign-up.html" data-logsss-event-value="{'pm':'md','x':'A_2','ubcta':{'mdlc':'A_2','mdID':''}}">Join and Get <em>15% Off</em></a> <a href="https://www.zaful.com/m-users-a-student_edit.html"><em>Extra 8% OFF</em> Student Discount</a></div> <div class="float-widget"><div class="otherbox">      </div><div class="back-to-top" id="js-backToTop"></div></div>           <div class="cookie-tip-wrap js-cookie-tip-wrap"> We use cookies to improve your online experience. By continuing browsing this website, we assume you agree our use of cookies and <a href="javascript:;" class="js-cookie-policy">Cookie Policy</a>.<p class="cookie-tip-close-wrap"> <span class="cookie-tip-close-btn js-cookie-tip-close">Agree</span></p></div><div class="cookie-tip-con js-cookie-tip-con"><p class="cookie-tip-top-title">Cookie Policy</p><div class="cookie-tip-article-html">  <div style="font-size: 14px;line-height: 22px;">
+				</script> <div class="resellerratings"><script type="text/javascript" src="https://widget.resellerratings.com/widget/javascript/rating/zaful.js"></script></div></div><p class="footer-copyright">Copyright Notice © 2013-2019 ZAFUL.com ALL Rights Reserved</p></div></div></div> <div class="" id="js_allFixedCtn"> <div class="site-notices elf-mood-site-notices "> <a class="js_days_30" href="https://user.zaful.com/returns/" data-logsss-event-value="{'pm':'md','x':'A_2','ubcta':{'mdlc':'A_2','mdID':''}}">30 Days Return Warranty</a>  <a class="elf-mood-site-notice-ship" href="https://user.zaful.com/shipping-info/" data-logsss-event-value="{'pm':'md','x':'A_2','ubcta':{'mdlc':'A_2','mdID':''}}">Free Shipping on orders over $49</a> <a href="https://user.zaful.com/sign-up.html" data-logsss-event-value="{'pm':'md','x':'A_2','ubcta':{'mdlc':'A_2','mdID':''}}">Join and Get <em>15% Off</em></a> <a href="https://www.zaful.com/m-users-a-student_edit.html"><em>Extra 8% OFF</em> Student Discount</a></div>   <div class="float-widget"><div class="otherbox none js_float_widget_otherbox">      </div><div class="back-to-top" id="js-backToTop"></div></div>            </div> <div class="cookie-tip-wrap js-cookie-tip-wrap"> We use cookies to improve your online experience. By continuing browsing this website, we assume you agree our use of cookies and <a href="javascript:;" class="js-cookie-policy">Cookie Policy</a>.<p class="cookie-tip-close-wrap"> <span class="cookie-tip-close-btn js-cookie-tip-close">Agree</span></p></div><div class="cookie-tip-con js-cookie-tip-con"><p class="cookie-tip-top-title">Cookie Policy</p><div class="cookie-tip-article-html">  <div style="font-size: 14px;line-height: 22px;">
 	       <p style="font-family:OpenSans-Bold;margin-top: 25px;">Cookies</p>
 	       <p>To make this site work properly, we sometimes place small data files called cookies on your device. Most big websites do this too.</p>
 	       <p style="font-family:OpenSans-Bold;margin-top: 25px;">What are cookies?</p>
@@ -1398,15 +2982,28 @@ $('.elf-nav-zaful').find('.menu-wrap').hide();
 	       </p>
 	       <p style="font-family:OpenSans-Bold;margin-top: 25px;">How to control cookies</p>
 	       <p>You can control and/or delete cookies as you wish – for details, see <a href="https://www.aboutcookies.org/" style="text-decoration: underline;">aboutcookies.org</a>. You can delete all cookies that are already on your computer and you can set most browsers to prevent them from being placed. If you do this, however, you may have to manually adjust some preferences every time you visit a site and some services and functionalities may not work.</p>
-	       </div> </div> <span class="confirm-btn js-cookie-confirm-close">confirm</span> <span class="confirm-close js-cookie-confirm-close">×</span></div><div class="cookie-tip-con-mask js-cookie-tip-con-mask"></div> <script src="https://css.zafcdn.com/imagecache/ZF_EN/minjs/language/en/languages.min.js?v=20181214111246"></script> <script src="https://www.zaful.com/sitemap/currency_huilv.js?2017051002"></script><script src="https://css.zafcdn.com/imagecache/ZF_EN/minjs/jquery.common_plug.min.js"></script><script type="text/javascript" src="https://css.zafcdn.com/imagecache/ZF_EN/minjs/jquery.countdown.min.js"></script><script src="https://css.zafcdn.com/imagecache/ZF_EN/minjs/common.min.js?v=20181214111246"></script> 
+	       </div> </div> <span class="confirm-btn js-cookie-confirm-close">confirm</span> <span class="confirm-close js-cookie-confirm-close">×</span></div><div class="cookie-tip-con-mask js-cookie-tip-con-mask"></div> <script src="https://css.zafcdn.com/imagecache/ZF_EN/minjs/language/en/languages.min.js?v=20190330093459"></script> <script src="https://www.zaful.com/sitemap/currency_huilv.js?v=20190330141733"></script><script src="https://css.zafcdn.com/imagecache/ZF_EN/minjs/jquery.common_plug.min.js"></script><script type="text/javascript" src="https://css.zafcdn.com/imagecache/ZF_EN/minjs/jquery.countdown.min.js"></script><script src="https://css.zafcdn.com/imagecache/ZF_EN/minjs/common.min.js?v=20190330152324"></script> 
 <!-- geshop javascript start  -->
  
 <!-- geshop javascript end  -->
-<script src="https://www.gstatic.com/firebasejs/5.5.1/firebase-app.js"></script><script src="https://www.gstatic.com/firebasejs/5.5.1/firebase-messaging.js"></script><script src="/firebase-init.js"></script><script type="text/javascript">
+<script>
+    $LAB.script('https://www.gstatic.com/firebasejs/5.5.1/firebase-app.js')
+        .wait()
+        .script('https://www.gstatic.com/firebasejs/5.5.1/firebase-messaging.js')
+        .wait()
+        .script("https://css.zafcdn.com/imagecache/ZF_EN/minjs/firebase-init.min.js?v=20190330093459");
+</script><script type="text/javascript">
 	function googleTranslateElementInit() {
 		new google.translate.TranslateElement({pageLanguage: 'en', layout: google.translate.TranslateElement.InlineLayout.SIMPLE}, 'google_translate_element');
 	}
-</script><script type="text/javascript" src="//translate.google.com/translate_a/element.js?cb=googleTranslateElementInit"></script>    <script type="text/javascript">
+</script><script type="text/javascript" src="//translate.google.com/translate_a/element.js?cb=googleTranslateElementInit" async=""></script>  <script>
+    (function () {
+        var kol = _GET('kol');
+        if(kol) {
+            $.cookie('KOL', kol, {expires:30,path:'/',domain:COOKIESDIAMON});
+        }
+    })();
+</script>    <script type="text/javascript">
     (function(){
         Array.prototype.remove = function(){};
         window.xtalkPlugin_Cfg_page ={
@@ -1491,7 +3088,69 @@ $('.elf-nav-zaful').find('.menu-wrap').hide();
         ga.src = path + (IS_LOCAL == 1 ? '/logsss20.dev.js':'/logsss20.min.js');
         var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
     })();
-</script>    <script type="text/javascript" src="https://css.zafcdn.com/imagecache/ZF_EN/minjs/logsss_common.min.js?v=20181214111246"></script>                </footer> <div class="es_pp_wrap pr" style="height:600px;"><div class="es_pp_jx" style="width:1200px;height:600px;background-color: #fff;overflow:hidden;"><ul class="swiper-wrapper clearfix"><li class="swiper-slide" style="float:left;"><div class="left-cate" style="display:inline-block;width:300px;margin-left:45px;margin-top:55px;"><p style="color:#ccc;font-size:28px;padding-bottom:20px;margin-bottom:23px;border-bottom:1px solid #f1f1f1;"><span style="color:#ffa800;font-size:46px;">1</span>/6</p><p style="color:#000;font-size:14px;line-height:22px;margin-bottom:20px;width: 282px;">Haz click aquí para cambiar el idioma y elegir el país, de esta manera podrás ver la página en español. Si tienes una cuenta de Paypal puedes entrar directamente y hacer tus compras. Si no tienes una cuenta de Paypal, nosotros te enseñaremos el proceso para configurar tu cuenta.</p><p style="color:#000;font-size:14px;line-height:22px;word-break: break-word;width: 306px;"><a href="https://www.paypal.com/hk/webapps/mpp/home" target="_blank" style="color:#ffa802;">https://www.paypal.com/hk/webapps/mpp/home</a><br>(Haz click aquí para entrar a la interfaz de Paypal en inglés, luego puedes seleccionar el idioma en la parte inferior de la página, en el rectangulo amarillo.)</p></div> <img src="https://css.zafcdn.com/imagecache/ZF_EN/images/domeimg/loadingbg.gif" data-src="https://css.zafcdn.com/imagecache/ZF_EN/images/domeimg/pp_jx/jx_01.jpg" class="swiper-lazy" alt="" style="float: right;margin-top: 99px;margin-right: 30px;"></li><li class="swiper-slide" style="float:left;"><div class="left-cate" style="display:inline-block;width:300px;margin-left:45px;margin-top:55px;"><p style="color:#ccc;font-size:28px;padding-bottom:20px;margin-bottom:23px;border-bottom:1px solid #f1f1f1;"><span style="color:#ffa800;font-size:46px;">2</span>/6</p><p style="color:#000;font-size:14px;line-height:22px;word-break: break-word;width: 282px;"><a href="https://www.paypal.com/es/webapps/mpp/home" target="_blank" style="color:#ffa802;">https://www.paypal.com/es/webapps/mpp/home</a><br>Aquí encontrarás la interfaz de Paypal en español.</p><p style="color:#000;font-size:14px;line-height:22px;margin-top:20px;width: 282px;">Luego puedes crear tu cuenta de paypal en el rectangulo amarillo.</p></div> <img src="https://css.zafcdn.com/imagecache/ZF_EN/images/domeimg/loadingbg.gif" data-src="https://css.zafcdn.com/imagecache/ZF_EN/images/domeimg/pp_jx/jx_02.jpg" class="swiper-lazy" alt="" style="float: right;margin-top: 99px;margin-right: 30px;"></li><li class="swiper-slide" style="float:left;"><div class="left-cate" style="display:inline-block;width:300px;margin-left:45px;margin-top:55px;"><p style="color:#ccc;font-size:28px;padding-bottom:20px;margin-bottom:23px;border-bottom:1px solid #f1f1f1;"><span style="color:#ffa800;font-size:46px;">3</span>/6</p><p style="color:#000;font-size:14px;line-height:22px;width: 282px;">Puedes elegir registrarte como una cuenta personal o de negocios.</p></div> <img src="https://css.zafcdn.com/imagecache/ZF_EN/images/domeimg/loadingbg.gif" data-src="https://css.zafcdn.com/imagecache/ZF_EN/images/domeimg/pp_jx/jx_03.jpg" class="swiper-lazy" alt="" style="float: right;margin-top: 99px;margin-right: 30px;"></li><li class="swiper-slide" style="float:left;"><div class="left-cate" style="display:inline-block;width:300px;margin-left:45px;margin-top:55px;"><p style="color:#ccc;font-size:28px;padding-bottom:20px;margin-bottom:23px;border-bottom:1px solid #f1f1f1;"><span style="color:#ffa800;font-size:46px;">4</span>/6</p><p style="color:#000;font-size:14px;line-height:22px;margin-bottom:20px;width: 282px;">Llena la información de cada casilla para crear tu cuenta.</p></div> <img src="https://css.zafcdn.com/imagecache/ZF_EN/images/domeimg/loadingbg.gif" data-src="https://css.zafcdn.com/imagecache/ZF_EN/images/domeimg/pp_jx/jx_04.jpg" class="swiper-lazy" alt="" style="float: right;margin-top: 99px;margin-right: 30px;"></li><li class="swiper-slide" style="float:left;"><div class="left-cate" style="display:inline-block;width:300px;margin-left:45px;margin-top:55px;"><p style="color:#ccc;font-size:28px;padding-bottom:20px;margin-bottom:23px;border-bottom:1px solid #f1f1f1;"><span style="color:#ffa800;font-size:46px;">5</span>/6</p><p style="color:#000;font-size:14px;line-height:22px;margin-bottom:20px;width: 282px;">Llena la información de cada casilla para continuar configurando tu cuenta.</p></div> <img src="https://css.zafcdn.com/imagecache/ZF_EN/images/domeimg/loadingbg.gif" data-src="https://css.zafcdn.com/imagecache/ZF_EN/images/domeimg/pp_jx/jx_05.jpg" class="swiper-lazy" alt="" style="float: right;margin-top: 99px;margin-right: 30px;"></li><li class="swiper-slide" style="float:left;"><div class="left-cate" style="display:inline-block;width:300px;margin-left:45px;margin-top:55px;"><p style="color:#ccc;font-size:28px;padding-bottom:20px;margin-bottom:23px;border-bottom:1px solid #f1f1f1;"><span style="color:#ffa800;font-size:46px;">6</span>/6</p><p style="color:#000;font-size:14px;line-height:22px;margin-bottom:20px;width: 282px;">Haz click en el botón izquierdo para regresar a la página 1 o en el botón derecho para regresar a la página 2.</p></div> <img src="https://css.zafcdn.com/imagecache/ZF_EN/images/domeimg/loadingbg.gif" data-src="https://css.zafcdn.com/imagecache/ZF_EN/images/domeimg/pp_jx/jx_06.jpg" class="swiper-lazy" alt="" style="float: right;margin-top: 99px;margin-right: 30px;"></li><li class="swiper-slide" style="float:left;"> <img src="https://css.zafcdn.com/imagecache/ZF_EN/images/domeimg/loadingbg.gif" data-src="https://css.zafcdn.com/imagecache/ZF_EN/images/domeimg/pp_jx/jx_07.jpg" class="swiper-lazy" alt="" style="float: right;margin-top: 99px;margin-right: 30px;"></li></ul></div><div class="swiper-button-prev swiper-button-white"></div><div class="swiper-button-next swiper-button-white"></div></div> <script type="text/javascript">	
+</script>    <script type="text/javascript" src="https://css.zafcdn.com/imagecache/ZF_EN/minjs/logsss_common.min.js?v=20190330093459"></script>         <noscript><iframe src="//nojscontainer.pepperjam.com/800966210.html" width="1" height="1" frameborder="0"></iframe></noscript><script>
+
+(function(){ var a=document.createElement("script"); a.type="text/javascript", a.async=!0, a.src="//container.pepperjam.com/800966210.js"; var b=document.getElementsByTagName("head")[0]; if(b) b.appendChild(a,b); else { var b=document.getElementsByTagName("script")[0];b.parentNode.insertBefore(a,b) } })();
+
+</script> <script>
+    (function (window) {
+        if ('serviceWorker' in navigator && 'fetch' in window) {
+            window.addEventListener('load', () => {
+                fetch("/fun/ajax/index.php?module=Pwa&act=getConfig&v=" + new Date().getTime(), { method: 'POST', credentials: "include" }).then(e => e.json()).then(json => {
+                    const version = json.version;
+                    const debug = location.search.match(/swdebug=true/);
+
+                    if (!debug && json.downgrade) {
+                        navigator.serviceWorker.getRegistrations().then(registrations => {
+                            for (let registration of registrations) {
+                                registration.unregister().then(() => {
+                                    console.log('Service Worker unregistered!');
+                                });
+                            }
+                        });
+                    } else {
+                        navigator.serviceWorker.register(`/sw.js?v=${version}`).then(registration => {
+                            swRegistrations = registration;
+                            dataLayer.push({'event': 'registerSW'}); // \u6ce8\u518c\u7edf\u8ba1
+                            if (version !== localStorage.getItem('sw_version')) {
+                                registration.update().then(() => {
+                                    localStorage.setItem('sw_version', version);
+                                    console.log('Service Worker version updated!');
+                                });
+                            }
+                            console.log(`Service Worker registered! Scope: ${registration.scope}!`);
+                        }).catch(registrationError => {
+                            console.log(`Service Worker registration failed: ${registrationError}!`);
+                        });
+                    }
+                });
+            });
+
+            function offlineStatus(status) {
+                var style = status ? 'grayscale(1)' : 'grayscale(0)';
+                document.body.style.filter = style;
+                document.body.style.webkitFilter = style;
+            }
+
+            window.addEventListener('offline', () => {
+                offlineStatus(true);
+                layer && layer.msg('Please check your internet connection.',2);
+            });
+
+            window.addEventListener('online', () => {
+                offlineStatus(false);
+            });
+
+            window.addEventListener('beforeinstallprompt', function(e) {
+                e.userChoice.then(function(choiceResult) {
+                    // \u7528\u6237\u5b89\u88c5\u9009\u62e9\u7edf\u8ba1
+                    dataLayer.push({ 'event': 'A2HS', 'eventAction': choiceResult.outcome });
+                });
+            });
+
+        }
+    })(window);
+</script>         </footer> <div class="es_pp_wrap pr" style="height:600px;"><div class="es_pp_jx" style="width:1200px;height:600px;background-color: #fff;overflow:hidden;"><ul class="swiper-wrapper clearfix"><li class="swiper-slide" style="float:left;"><div class="left-cate" style="display:inline-block;width:300px;margin-left:45px;margin-top:55px;"><p style="color:#ccc;font-size:28px;padding-bottom:20px;margin-bottom:23px;border-bottom:1px solid #f1f1f1;"><span style="color:#ffa800;font-size:46px;">1</span>/6</p><p style="color:#000;font-size:14px;line-height:22px;margin-bottom:20px;width: 282px;">Haz click aquí para cambiar el idioma y elegir el país, de esta manera podrás ver la página en español. Si tienes una cuenta de Paypal puedes entrar directamente y hacer tus compras. Si no tienes una cuenta de Paypal, nosotros te enseñaremos el proceso para configurar tu cuenta.</p><p style="color:#000;font-size:14px;line-height:22px;word-break: break-word;width: 306px;"><a href="https://www.paypal.com/hk/webapps/mpp/home" target="_blank" style="color:#ffa802;">https://www.paypal.com/hk/webapps/mpp/home</a><br>(Haz click aquí para entrar a la interfaz de Paypal en inglés, luego puedes seleccionar el idioma en la parte inferior de la página, en el rectangulo amarillo.)</p></div> <img src="https://css.zafcdn.com/imagecache/ZF_EN/images/domeimg/loadingbg.gif" data-src="https://css.zafcdn.com/imagecache/ZF_EN/images/domeimg/pp_jx/jx_01.jpg" class="swiper-lazy" alt="" style="float: right;margin-top: 99px;margin-right: 30px;"></li><li class="swiper-slide" style="float:left;"><div class="left-cate" style="display:inline-block;width:300px;margin-left:45px;margin-top:55px;"><p style="color:#ccc;font-size:28px;padding-bottom:20px;margin-bottom:23px;border-bottom:1px solid #f1f1f1;"><span style="color:#ffa800;font-size:46px;">2</span>/6</p><p style="color:#000;font-size:14px;line-height:22px;word-break: break-word;width: 282px;"><a href="https://www.paypal.com/es/webapps/mpp/home" target="_blank" style="color:#ffa802;">https://www.paypal.com/es/webapps/mpp/home</a><br>Aquí encontrarás la interfaz de Paypal en español.</p><p style="color:#000;font-size:14px;line-height:22px;margin-top:20px;width: 282px;">Luego puedes crear tu cuenta de paypal en el rectangulo amarillo.</p></div> <img src="https://css.zafcdn.com/imagecache/ZF_EN/images/domeimg/loadingbg.gif" data-src="https://css.zafcdn.com/imagecache/ZF_EN/images/domeimg/pp_jx/jx_02.jpg" class="swiper-lazy" alt="" style="float: right;margin-top: 99px;margin-right: 30px;"></li><li class="swiper-slide" style="float:left;"><div class="left-cate" style="display:inline-block;width:300px;margin-left:45px;margin-top:55px;"><p style="color:#ccc;font-size:28px;padding-bottom:20px;margin-bottom:23px;border-bottom:1px solid #f1f1f1;"><span style="color:#ffa800;font-size:46px;">3</span>/6</p><p style="color:#000;font-size:14px;line-height:22px;width: 282px;">Puedes elegir registrarte como una cuenta personal o de negocios.</p></div> <img src="https://css.zafcdn.com/imagecache/ZF_EN/images/domeimg/loadingbg.gif" data-src="https://css.zafcdn.com/imagecache/ZF_EN/images/domeimg/pp_jx/jx_03.jpg" class="swiper-lazy" alt="" style="float: right;margin-top: 99px;margin-right: 30px;"></li><li class="swiper-slide" style="float:left;"><div class="left-cate" style="display:inline-block;width:300px;margin-left:45px;margin-top:55px;"><p style="color:#ccc;font-size:28px;padding-bottom:20px;margin-bottom:23px;border-bottom:1px solid #f1f1f1;"><span style="color:#ffa800;font-size:46px;">4</span>/6</p><p style="color:#000;font-size:14px;line-height:22px;margin-bottom:20px;width: 282px;">Llena la información de cada casilla para crear tu cuenta.</p></div> <img src="https://css.zafcdn.com/imagecache/ZF_EN/images/domeimg/loadingbg.gif" data-src="https://css.zafcdn.com/imagecache/ZF_EN/images/domeimg/pp_jx/jx_04.jpg" class="swiper-lazy" alt="" style="float: right;margin-top: 99px;margin-right: 30px;"></li><li class="swiper-slide" style="float:left;"><div class="left-cate" style="display:inline-block;width:300px;margin-left:45px;margin-top:55px;"><p style="color:#ccc;font-size:28px;padding-bottom:20px;margin-bottom:23px;border-bottom:1px solid #f1f1f1;"><span style="color:#ffa800;font-size:46px;">5</span>/6</p><p style="color:#000;font-size:14px;line-height:22px;margin-bottom:20px;width: 282px;">Llena la información de cada casilla para continuar configurando tu cuenta.</p></div> <img src="https://css.zafcdn.com/imagecache/ZF_EN/images/domeimg/loadingbg.gif" data-src="https://css.zafcdn.com/imagecache/ZF_EN/images/domeimg/pp_jx/jx_05.jpg" class="swiper-lazy" alt="" style="float: right;margin-top: 99px;margin-right: 30px;"></li><li class="swiper-slide" style="float:left;"><div class="left-cate" style="display:inline-block;width:300px;margin-left:45px;margin-top:55px;"><p style="color:#ccc;font-size:28px;padding-bottom:20px;margin-bottom:23px;border-bottom:1px solid #f1f1f1;"><span style="color:#ffa800;font-size:46px;">6</span>/6</p><p style="color:#000;font-size:14px;line-height:22px;margin-bottom:20px;width: 282px;">Haz click en el botón izquierdo para regresar a la página 1 o en el botón derecho para regresar a la página 2.</p></div> <img src="https://css.zafcdn.com/imagecache/ZF_EN/images/domeimg/loadingbg.gif" data-src="https://css.zafcdn.com/imagecache/ZF_EN/images/domeimg/pp_jx/jx_06.jpg" class="swiper-lazy" alt="" style="float: right;margin-top: 99px;margin-right: 30px;"></li><li class="swiper-slide" style="float:left;"> <img src="https://css.zafcdn.com/imagecache/ZF_EN/images/domeimg/loadingbg.gif" data-src="https://css.zafcdn.com/imagecache/ZF_EN/images/domeimg/pp_jx/jx_07.jpg" class="swiper-lazy" alt="" style="float: right;margin-top: 99px;margin-right: 30px;"></li></ul></div><div class="swiper-button-prev swiper-button-white"></div><div class="swiper-button-next swiper-button-white"></div></div> <script type="text/javascript">	
 	$LAB.script('jquery.nail.min.js')
 		.script("swiper.min.js")
 		.wait(function(){
@@ -1517,5 +3176,40 @@ $('.elf-nav-zaful').find('.menu-wrap').hide();
 					lazyLoading:true
 				})
 			});
+			
+			if($('#js_affiliate')){
+				// \u65b0\u6539\u7248\u7684affiliate
+				var chooseFav = $('#js_chooseFav'),
+					successful = $('#js_successful'),
+					commission = $('#js_commission'),
+					promote = $('#js_promote'),
+					chooseFavScrollTop = chooseFav.offset().top,
+					successfulScrollTop = successful.offset().top,
+					commissionScrollTop = commission.offset().top,
+					promoteScrollTop = promote.offset().top;
+
+				$(document).on('scroll', function(){
+					addRemoveClass(chooseFav, chooseFavScrollTop, 'move', 250, 1);
+					addRemoveClass(successful, successfulScrollTop, 'move', 300, 1);
+					addRemoveClass(commission, commissionScrollTop, 'move', 250, 1);
+					addRemoveClass(promote, promoteScrollTop, 'move', 200, 1);
+				})
+
+				function addRemoveClass(dom, domOffset, _class, num, bool){
+					var documentScroll = $(document).scrollTop(), 
+						_domOfset = domOffset - $(window).height(),
+						changeScrollTop = 0;
+					if(bool){
+						changeScrollTop = _domOfset + num;
+					}else{
+						changeScrollTop = _domOfset - num;
+					}
+					if(documentScroll > changeScrollTop){
+						dom.addClass(_class);
+					}else{
+						dom.removeClass(_class);
+					}
+				};
+			};
 		}) 
-	</script> <noscript><img src="https://www.zaful.com/akam/10/pixel_69c17ab0?a=dD05ZGVmMjRjMDUxNGYyMWU5NDM4ZTdkMDJiMDYyMDcyNDM1NDMwZDMwJmpzPW9mZg==" style="visibility: hidden; position: absolute; left: -999px; top: -999px;" /></noscript></body></html>
+	</script> </body></html>
