@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the holden.com.au privacy policy that was archived on 2018-10-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181005130318id_/https%3A//www.holden.com.au/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the holden.com.au privacy policy that was archived on 2019-03-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190330110545id_/https%3A//www.holden.com.au/privacypolicy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -12,7 +12,7 @@ This Privacy Policy generally does not apply in relation to current or former Ho
 
 Holden dealers are independent of Holden and have privacy policies which differ from ours. Holden dealers are responsible for their own privacy policies and privacy practices. Please contact your Holden dealer directly for further information.
 
-Holden may amend this Privacy Policy at any time. The updated version will be available by following the "Privacy Policy" link on Holden's website homepage, at [www.holden.com.au](http://www.holden.com.au/). Holden may highlight changes to this Privacy Policy on its homepage, but you should check the Privacy Policy regularly for changes.
+Holden may amend this Privacy Policy at any time. The updated version will be available by following the "Privacy Policy" link on Holden's website homepage, at [www.holden.com.au](https://www.holden.com.au/). Holden may highlight changes to this Privacy Policy on its homepage, but you should check the Privacy Policy regularly for changes.
 
 **Collecting personal information**
 
