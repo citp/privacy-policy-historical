@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the newsx.com privacy policy that was archived on 2018-09-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180928133106id_/https%3A//www.newsx.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the newsx.com privacy policy that was archived on 2019-03-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190330140619id_/https%3A//www.newsx.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - NewsX
 
@@ -61,6 +61,8 @@ nothing therein is false.
 6\. A statement, under penalty of perjury, that the information in the notice  
 is accurate, and that the information in the complaint is yours.  
 7\. You may also contact us in case you have any questions/ suggestions about
+
+We use third-party advertising companies to serve the ads displayed on our website. These companies may use aggregated information (not including your name, address, email or phone number) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, please see [http://optout.networkadvertising.org](http://optout.networkadvertising.org/).
 
 the Privacy Policy using the contact information mentioned above.
 
