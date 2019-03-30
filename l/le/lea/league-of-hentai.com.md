@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the league-of-hentai.com privacy policy that was archived on 2018-07-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180705062600id_/https%3A//league-of-hentai.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the league-of-hentai.com privacy policy that was archived on 2019-03-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190330130814id_/https%3A//league-of-hentai.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | League of Hentai
 
 ## Who we are
 
-Our website address is: http://league-of-hentai.com.
+Our website address is: https://league-of-hentai.com.
 
 ## What personal data we collect and why we collect it
 
@@ -56,4 +56,4 @@ Visitor comments may be checked through an automated spam detection service.
 
 ## Your contact information
 
-You may contact us for privacy-specific concerns using the following [email](https://web.archive.org/cdn-cgi/l/email-protection#f080829986919389b09c9591978595dd9f96dd98959e849199de939f9d)
+You may contact us for privacy-specific concerns using the following [email](https://web.archive.org/cdn-cgi/l/email-protection#0b7b79627d6a68724b676e6a6c7e6e26646d26636e657f6a6225686466)
