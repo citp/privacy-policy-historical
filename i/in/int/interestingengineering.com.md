@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the interestingengineering.com privacy policy that was archived on 2018-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181226124254id_/https%3A//interestingengineering.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the interestingengineering.com privacy policy that was archived on 2019-03-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190330124916id_/https%3A//interestingengineering.com/privacy-policy) for the most accurate reproduction.*
 
 # Interesting Engineering
 
-Thank you for visiting Interesting Engineering. Please read this Privacy Policy and our [TOS](https://web.archive.org/web/20181226124254id_/terms-of-service) carefully, as you must agree to both documents in order to use our Service. The following Privacy Policy apply to all Services provided by Interesting Engineering (“Interesting Engineering,” “we,” “us,” or “our”) to you.
+Thank you for visiting Interesting Engineering. Please read this Privacy Policy and our [TOS](https://web.archive.org/web/20190330124916id_/terms-of-service) carefully, as you must agree to both documents in order to use our Service. The following Privacy Policy apply to all Services provided by Interesting Engineering (“Interesting Engineering,” “we,” “us,” or “our”) to you.
 
   1. **APPLICATION OF TERMS**
     1. This Privacy Policy applies to all Services provided by Interesting Engineering to all Users and represents the entire agreement and understanding between Interesting Engineering and the User, and supersedes any other written or oral agreement. 
