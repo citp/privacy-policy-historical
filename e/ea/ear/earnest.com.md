@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the earnest.com privacy policy that was archived on 2018-10-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181003132310id_/https%3A//www.earnest.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the earnest.com privacy policy that was archived on 2019-03-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190330190509id_/https%3A//www.earnest.com/privacy) for the most accurate reproduction.*
 
 # Privacy & Security | Earnest
 
@@ -15,6 +15,8 @@ All data entered into the Site is encrypted using industry-standard SSL technolo
 We do not sell your information. We may need to share information provided by you with our partners so that they can perform requested services – but your information is never sold by us.
 
 ### Privacy & Security Policy
+
+We respect your privacy and safeguard your information with industry-standard technology. Our core values include trust and transparency, and this Privacy Policy describes how we live up to those values for you.
 
 We believe that you deserve the utmost respect when it comes to the privacy of your personal information. As you use our services, we want to be clear on how we are using information and the ways in which you can protect your privacy. The terms “we,” “us,” and “our,” refer to Earnest LLC, Earnest Operations LLC, Earnest Home LLC, Navient Corporation and/or Navient Solutions, LLC and their respective subsidiaries, affiliates agents, successors, and assignees. The “Site” refers to Earnest’s World Wide Web site located at www.earnest.com, as well as to associated Earnest website content linked to this World Wide Web site and to Earnest’s mobile device-enabled website content and mobile application content.
 
