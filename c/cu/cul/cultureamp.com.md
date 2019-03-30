@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cultureamp.com privacy policy that was archived on 2018-10-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181012090739id_/https%3A//www.cultureamp.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cultureamp.com privacy policy that was archived on 2019-03-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190330201259id_/https%3A//www.cultureamp.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy - Culture Amp
 
@@ -18,7 +18,7 @@ In this Privacy Policy, a reference to:
 
   * Confidentiality Notice means the notice given to Respondents at the time of answering a survey conducted by a Customer, including the degree of confidentiality and/or anonymity that the Respondent will have when answering survey;
 
-  * Culture Amp, Culture Amp Group, we, us or our means Culture Amp Pty Ltd (ACN 138 600 987) of Level 10, 31 Queen Street, Melbourne VIC 3000, Australia, and any of its related bodies corporate;
+  * Culture Amp, Culture Amp Group, we, us or our means Culture Amp Pty Ltd (ACN 138 600 987) of Level 2, 29 Stewart St, Richmond, Vic, 3121, Australia, and any of its related bodies corporate;
 
   * Customer means, in relation to you, the person or entity that has contracted with Culture Amp to allow you to use Culture Amp’s Services (for example, your employer);
 
@@ -391,4 +391,6 @@ Our Websites offer publicly accessible blogs or community forums. You should be 
 
 Culture Amp   
 Email: [privacy@cultureamp.com](mailto:privacy@cultureamp.com)   
-Level 10, 31 Queen Street, Melbourne VIC 3000, Australia
+Level 2, 29 Stewart St  
+Richmond, Vic, 3121  
+Australia
