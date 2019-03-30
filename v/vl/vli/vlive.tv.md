@@ -1,15 +1,14 @@
-> *The following text is extracted and transformed from the vlive.tv privacy policy that was archived on 2018-11-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181116091626id_/https%3A//www.vlive.tv/policies/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vlive.tv privacy policy that was archived on 2019-03-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190330075129id_/https%3A//www.vlive.tv/policies/privacy) for the most accurate reproduction.*
 
 # V LIVE - Privacy
 
 ### Items of personal information to be collected
 
-When becoming a member by logging in using other social media sites, respective member's nickname, ID, and profile image will be collected from the corresponding social media site.   
-For profile management, name, date of birth, gender, email address and mobile phone number may be entered in the profile. Login is possible with email address instead of social media login, for which password will be collected. 
+When becoming a member by logging in using other social media sites, respective member's nickname, ID, and profile image will be collected from the corresponding social media site. Login is possible with email address instead of logging in with social media and email address and password will be collected. 
 
-When personal verification is done using payment, name, date of birth, gender, duplicate information (DI), encoded connecting information (CI), mobile phone number and wireless network provider (upon mobile phone verification), and Korean/foreigner registration information are collected. 
+While using the service, name, date of birth, gender, email address and mobile phone number will be collected by receiving the user's consent. When personal verification is made, name, date of birth, gender, duplicate information (DI), encoded connecting information (CI), mobile phone number and wireless network provider (upon mobile phone verification), and Korean/foreigner registration information are collected. 
 
-In the course of using services, IP addresses, payment history, service use records, records of poor use, device information, etc. may be automatically generated and collected. 
+In addition, in the course of using services, IP addresses, payment history, service use records, records of poor use, device information, etc. may be automatically generated and collected. 
 
 ### Personal information collection methods
 
@@ -28,9 +27,7 @@ The company uses the collected information for the following purposes:
 • For a lottery and prizes shipment of campaigns and events  
 • To identify users and respond to an inquiry when there is one from a user  
 • To notify depending on needs, including important notices, etc.  
-• To deliver information (including advertisement) and customized services provided by the Company, including V LIVE services  
-• For personal verification during the process of providing a paid service  
-• For age verification when using the content 
+• To deliver information (including advertisement) and customized services provided by the Company, including V LIVE services 
 
 ### Sharing and supply of personal information
 
@@ -96,7 +93,7 @@ Personal information printed on paper shall be destroyed in a shredder, and pers
 
 ### Where to Contact for privacy policy inquiries
 
-If you have any questions/complaints/consultations regarding the Privacy Policy, please contact Privacy&Security (privacy@naver.com). 
+If you have any questions/complaints/consultations regarding the Privacy Policy, please contact Privacy&Security ([Contact us](https://help.naver.com/support/mail/popup/mailInquiry.help?serviceNo=1074&categoryNo=15743)). 
 
 ### Coverage
 
@@ -106,8 +103,8 @@ With regard to the collection of personal information by other business operator
 
 If there is any addition, deletion or modification to the current Privacy Policy, users will be notified through the “Bulletin board” beginning 7 days prior to the revision at the latest. However, if there is a significant modification to the user’s rights such as collecting and use, or the supply of personal information to a third party, etc., users will be notified at least 30 days before it goes into effect. 
 
-Privacy Policy announced on April 17, 2018
+Privacy Policy announced on March 12, 2019
 
-Privacy Policy enforced on April 27, 2018
+Privacy Policy enforced on March 18, 2019
 
-[See previous version of Privacy Policy (ver1.1)](https://web.archive.org/policies/privacy/ver1.1)
+[See previous version of Privacy Policy (ver1.2)](https://web.archive.org/policies/privacy/ver1.2)
