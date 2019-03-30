@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the infoq.com privacy policy that was archived on 2018-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181229083019id_/https%3A//www.infoq.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the infoq.com privacy policy that was archived on 2019-03-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190330095248id_/https%3A//www.infoq.com/privacypolicy) for the most accurate reproduction.*
 
 # InfoQ - Facilitating the spread of knowledge and innovation in enterprise software development
 
@@ -24,11 +24,13 @@ We request personally identifiable information for the following purposes:
   * To send e-mail newsletters and/or third party announcements.
   * To customize your experience on InfoQ.
   * To provide you with recommendations from [our list of conferences.](https://qconferences.com/)
-  * To allow you access to 3rd-party content (e.g. vendor white papers).
+  * To allow you access to 3rd-party content (e.g. vendor white papers) - for this we must receive your consent.
 
 
 
 In the later case these vendors can choose to contact you to offer deals relevant to the asset you downloaded.
+
+You may Opt-out of the above data collection at any time.
 
 ## Identifying The Data Controller And Processor
 
