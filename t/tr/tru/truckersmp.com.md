@@ -1,10 +1,6 @@
-> *The following text is extracted and transformed from the truckersmp.com privacy policy that was archived on 2018-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181227235454id_/https%3A//truckersmp.com/policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the truckersmp.com privacy policy that was archived on 2019-03-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190330210155id_/https%3A//truckersmp.com/policy) for the most accurate reproduction.*
 
 # Privacy Policy — TruckersMP
-
-#### TruckersMP holidays
-
-Many members of our team are currently unavailable and waiting times can be longer. Check the details [here](https://truckersmp.com/blog/135)
 
 This policy explains what, how and why we collect certain information when accessing and using services provided by TruckersMP. It also explains how we use and disclose information. We do not sell or otherwise share email addresses with third parties unless otherwise specified.
 
