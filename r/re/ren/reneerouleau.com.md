@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the reneerouleau.com privacy policy that was archived on 2018-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181229234522id_/https%3A//www.reneerouleau.com/pages/company-privacy-terms) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the reneerouleau.com privacy policy that was archived on 2019-03-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190330202945id_/https%3A//www.reneerouleau.com/pages/company-privacy-terms) for the most accurate reproduction.*
 
 # Privacy & Terms – Renée Rouleau Skin Care
 
@@ -6,7 +6,7 @@ We recognize that every visitor to RenéeRouleau.com (the "Site") is concerned a
 
 PERSONAL INFORMATION
 
-Personal information includes your name, address, email address, demographic information, hobbies and activities, product preferences, and the like, which you voluntarily submit to us. The Site uses this information to respond to specific inquiries and requests that you make to our Customer Service Department, provide you with service and support, and maintain the security and integrity of our systems. If you agree, we may use this information to send you product samples, sale coupons, product literature, or new product information. We also collect and store access information related to your account, including email address and password. When you make purchases from our Site, we may collect purchasing information such as product orders, shipping address(es), and credit card information. We use this information to open, maintain, administer, and service your account or membership, as well as to process, service, or enforce transactions you make through our Site.
+Personal information includes your name, address, email address, demographic information, hobbies and activities, product preferences, and the like, which you voluntarily submit to us. The Site uses this information to respond to specific inquiries and requests that you make to our Customer Care Department, provide you with service and support, and maintain the security and integrity of our systems. If you agree, we may use this information to send you product samples, sale coupons, product literature, or new product information. We also collect and store access information related to your account, including email address and password. When you make purchases from our Site, we may collect purchasing information such as product orders, shipping address(es), and credit card information. We use this information to open, maintain, administer, and service your account or membership, as well as to process, service, or enforce transactions you make through our Site.
 
 STATISTICAL USE
 
