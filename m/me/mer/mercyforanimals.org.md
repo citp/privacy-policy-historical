@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mercyforanimals.org privacy policy that was archived on 2018-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180626195747id_/http%3A//www.mercyforanimals.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mercyforanimals.org privacy policy that was archived on 2019-03-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190330101257id_/https%3A//mercyforanimals.org/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Mercy For Animals
 
@@ -32,13 +32,13 @@ In addition to information that you submit, like most websites, MFA uses “cook
 
 ##### Pixels
 
-MFA works with third-party partners such as Facebook and Google to tailor our content to your preferences when you visit our websites through links in advertisements on our third-party partners’ websites. This information, which may include language and location information, allows us to work to customize our content and also helps guide our decisions regarding the effectiveness of certain content so that we can display content that you are interested in receiving. MFA also relies on information obtained from pixels to perform ongoing analysis and improve our website and tailor our content to your interests.
+MFA works with third-party partners such as Facebook, Salesforce, Shopify and Google to tailor our content to your preferences when you visit our websites through links in advertisements on our third-party partners’ websites. This information, which may include language and location information, allows us to work to customize our content and also helps guide our decisions regarding the effectiveness of certain content so that we can display content that you are interested in receiving. MFA also relies on information obtained from pixels to perform ongoing analysis and improve our website and tailor our content to your interests.
 
 ##### How is this information used?
 
-Information supplied in contact forms is used to send you updates and information about MFA and our campaigns and programs, including events, activities, appeals, donation opportunities, vegetarian eating tips, and news.
+Information supplied in contact forms is used to send you updates and information about MFA and our campaigns and programs, including events, activities, appeals, donation opportunities, vegetarian eating tips, and news. For your convenience and security, information supplied via donation forms is also shared with MFA’s third-party partner Engaging Networks, a leading provider of online fundraising and advocacy tools for nonprofits.
 
-We also use information to improve our websites and campaigns. By collecting visitor behavior statistics, we are able to measure interest in our various campaigns and programs and use this information to better serve you and make our advocacy efforts more effective. 
+We also use information to improve our websites and campaigns. By collecting visitor behavior statistics, we are able to measure interest in our various campaigns and programs and use this information to better serve you and make our advocacy efforts more effective.
 
 ##### How can I stop providing this information?
 
@@ -48,7 +48,7 @@ If you do not want information collected through the use of cookies, there is a 
 
 ##### How can I request, correct, or delete my personal information?
 
-MFA will respond to all requests to provide records of available information, correct erroneous information, or delete personal information, which can be submitted by sending an email with the request to our optimization team at [dataprivacy@mercyforanimals.org](mailto:dataprivacy@mercyforanimals.org). We will respond to all requests within the legally mandated timeframe.
+MFA will respond to all requests to provide records of available information, correct erroneous information, or delete personal information, which can be submitted by sending an email with the request to our technology team at [dataprivacy@mercyforanimals.org](mailto:dataprivacy@mercyforanimals.org). We will respond to all requests within the legally mandated timeframe.
 
 ##### How is my information protected?
 
