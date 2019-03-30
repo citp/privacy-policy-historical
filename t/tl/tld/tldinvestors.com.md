@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the tldinvestors.com privacy policy that was archived on 2018-10-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181005175843id_/http%3A//tldinvestors.com/disclosures) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tldinvestors.com privacy policy that was archived on 2019-03-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190330174504id_/https%3A//tldinvestors.com/disclosures) for the most accurate reproduction.*
 
-# Privacy Policy/Disclosures – TLD Investors
+# Privacy Policy/Disclosures - TLD Investors
 
 **Privacy Policy for TLDInvestors.com**
 
@@ -35,7 +35,7 @@ The owner(s) of this blog is compensated to provide opinion on products, service
 
 This blog does contain content which might present a conflict of interest. This content will always be identified.
 
-We do not accept paid posts by any form of payment.
+Unless explicitly stated, TLDinvestors.com does not endorse any advertiser on this website.
 
 New gTLD disclosures, no one affiliated with TLDInvestors.com owns any stock in any public company that is running a new gtld registry. This is subject to change and when it does it will be noted here and in any specific post where such investment is discussed.
 
