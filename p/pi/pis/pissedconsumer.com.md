@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pissedconsumer.com privacy policy that was archived on 2018-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181222071359id_/https%3A//www.pissedconsumer.com/static/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pissedconsumer.com privacy policy that was archived on 2019-03-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190330215202id_/https%3A//www.pissedconsumer.com/static/privacy-policy.html) for the most accurate reproduction.*
 
 # Pissed Consumer Privacy Policy @ Pissed Consumer
 
@@ -24,9 +24,7 @@ As We continue offering Our visitors new and different types of content and serv
 
 ## The Information We Collect
 
-At PissedConsumer.com We only collect Personal Information during registration and post complaint processes. Visitors are required to be 14 years or older to create a complaint. During the registration We collect Your full names and Your valid e-mail address. When a new complaint is created, We may collect additional information, including, but not limited to
-
-Your full name, e-mail address, mailing address, telephone number, gender, date of birth, and certain computer information (see below). We may also ask additional questions regarding Your experience with the company You complain about and regarding Your personal preferences on a number of topics. For certain advanced services, We may also collect billing information provided by PayPal. Additionally, when You come to our Site, We automatically collect some non-personally identifiable computer information (“Computer Information”), such as information about Your computer operating system (e.g., Windows XP, Mac OS), Your IP address, information about Your web browser (e.g., Internet Explorer, Google Chrome) being used, information collected through the use of cookies (see below) and information regarding Your Internet service provider. This non-personally identifiable information may be shared with third parties to provide more relevant services and/or advertisements. Users’ IP addresses are recorded for security and monitoring purposes.
+At PissedConsumer.com We only collect Personal Information during registration and post complaint processes. Visitors are required to be 14 years or older to create a complaint. During the registration We collect Your full names and Your valid e-mail address. When a new complaint is created, We may collect additional information, including, but not limited to Your full name, e-mail address, mailing address, telephone number, gender, date of birth, and certain computer information (see below). We may also ask additional questions regarding Your experience with the company You complain about and regarding Your personal preferences on a number of topics. For certain advanced services, We may also collect billing information provided by PayPal. Additionally, when You come to our Site, We automatically collect some non-personally identifiable computer information (“Computer Information”), such as information about Your computer operating system (e.g., Windows XP, Mac OS), Your IP address, information about Your web browser (e.g., Internet Explorer, Google Chrome) being used, information collected through the use of cookies (see below) and information regarding Your Internet service provider. This non-personally identifiable information may be shared with third parties to provide more relevant services and/or advertisements. Users’ IP addresses are recorded for security and monitoring purposes.
 
 ## How We Use the Information
 
@@ -48,7 +46,7 @@ We also use visitors' Computer Information to track usage, improve the design of
 
 ## Contests and Sweepstakes
 
-PissedConsumer.com may occasionally offer contests and sweepstakes, which may be entered online. All the information collected by PissedConsumer.com is securely maintained and used only for the purpose of conducting and fulfillment of the contest or sweepstakes. Once the contest or sweepstakes are finished, We reserve the right to remove any Personal Information collected. The information collected through PissedConsumer.com sweepstakes may be passed to a fulfillment house which may use the information to help run the contest or sweepstakes. Any such fulfillment house may not use the information for any other purposes and must agree to maintain the confidentiality of the information.
+PissedConsumer.com may occasionally offer contests and sweepstakes, which may be entered online. All the information collected by PissedConsumer.com is securely maintained and used only for the purpose of conducting and fulfilment of the contest or sweepstakes. Once the contest or sweepstakes are finished, We reserve the right to remove any Personal Information collected. The information collected through PissedConsumer.com sweepstakes may be passed to a fulfilment house which may use the information to help run the contest or sweepstakes. Any such fulfilment house may not use the information for any other purposes and must agree to maintain the confidentiality of the information.
 
 ## Communications from the Site
 
@@ -86,7 +84,7 @@ In addition to cookies, We also utilize MD5 hashing algorithms at the stages of 
 
 ## Session Video Recording
 
-PissedConsumer.com uses a software technology called Webvisor to make video recordings of some visitor sessions. Webvisor is a Yandex.Metrica tool, and We use it in a strict compliance with [Yandex.Metrica Terms of Use](https://yandex.com/legal/metrica_termsofuse/) and [Yandex.Metrica Privacy Policy](https://yandex.com/legal/confidential/). Webvisor provided Us with a piece of Javascript code to copy paste in the Site. After installation, We can monitor Our Site’s visitors in real time.
+PissedConsumer.com uses a software technology called Webvisor to make video recordings of some visitor sessions. Webvisor is a Yandex.Metrica tool, and We use it in strict compliance with [Yandex.Metrica Terms of Use](https://yandex.com/legal/metrica_termsofuse/) and [Yandex.Metrica Privacy Policy](https://yandex.com/legal/confidential/). Webvisor provided Us with a piece of Javascript code to copy paste in the Site. After installation, We can monitor Our Site’s visitors in real time.
 
 PissedConsumer.com may install this code to record visitor activities on any of the Site pages at its own discretion. Webvisor’s screen capture is a component of the code that works by recording all the events that take place in web browser such as keystrokes, mouse movements, scrolling, and clicking. As PissedConsumer.com only collects Personal Information during the registration and review submission process, same information may be collected during session video recording process.
 
@@ -96,7 +94,7 @@ PissedConsumer.com does not store any video recordings on its servers; all of th
 
 PissedConsumer.com offers You a possibility to make a call to a representative of a company of your choice, provided that such a company is present on the Site and that We have a corresponding telephone number to make such a call. To operate this functionality, We use a cloud communications platform called Twilio.
 
-It is a third-party tool, and We use it in a strict compliance with [Twilio Terms of Service](https://www.twilio.com/legal/tos) and [Twilio Privacy Policy](https://www.twilio.com/legal/privacy). To use this functionality, you need to have an account on the Site, so that information about Your calls could be stored in Your user profile for Your convenience and possible further use.
+It is a third-party tool, and We use it in strict compliance with [Twilio Terms of Service](https://www.twilio.com/legal/tos) and [Twilio Privacy Policy](https://www.twilio.com/legal/privacy). To use this functionality, you need to have an account on the Site, so that information about Your calls could be stored in Your user profile for Your convenience and possible further use.
 
 ## Security
 
