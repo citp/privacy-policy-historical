@@ -1,10 +1,6 @@
-> *The following text is extracted and transformed from the forgottenbooks.org privacy policy that was archived on 2016-04-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160421193955id_/http%3A//www.forgottenbooks.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the forgottenbooks.org privacy policy that was archived on 2019-03-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190330202723id_/https%3A//www.forgottenbooks.com/en/privacy) for the most accurate reproduction.*
 
-# Forgotten Books' Privacy Policy
-
-[Home](https://web.archive.org/) > Privacy Policy
-
-* * *
+# Privacy Policy
 
 **What information do we collect?**
 
@@ -58,7 +54,7 @@ By using our site, you consent to our privacy policy.
 
 If we decide to change our privacy policy, we will post those changes on this page. 
 
-This policy was last modified on 22/11/2013.
+This policy was last modified on 10th May 2016.
 
  **Contacting Us**
 
@@ -67,4 +63,4 @@ If there are any questions regarding this privacy policy you may contact us [her
 FB &c Ltd  
 Dalton House  
 60 Windsor Avenue  
-London 
+London
