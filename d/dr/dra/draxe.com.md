@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the draxe.com privacy policy that was archived on 2018-10-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181015225856id_/https%3A//draxe.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the draxe.com privacy policy that was archived on 2019-03-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190330103613id_/https%3A//draxe.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Dr. Axe
 
 **Privacy Policy for** draxe.com
 
-_Effective as of May 25, 2018_
+_Effective Date: May 25, 2018_
 
 We value our relationship with you and take your privacy seriously. The purpose of this Privacy Notice is to identify how we may process, collect, store, disclose, share and use (collectively, “use”) your personal information that we collect from you or from others in connection with your use of our websites (including ancientnutrition.com and store.draxe.com) or purchase of products, webinars, content or other services from us (collectively, our “Services”). This Privacy Notice also identifies your rights with respect to your personal information, all as described in more detail below.
 
