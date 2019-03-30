@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the strath.ac.uk privacy policy that was archived on 2018-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181120134117id_/https%3A//www.strath.ac.uk/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the strath.ac.uk privacy policy that was archived on 2019-03-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190330205216id_/https%3A//www.strath.ac.uk/privacypolicy) for the most accurate reproduction.*
 
 # Privacy policy | University of Strathclyde
 
@@ -19,7 +19,10 @@ Each form will have its own privacy information depending on the specific requir
   * address
   * telephone number
 
-If you email us directly we will process your request in line with your request. Information supplied will include: 
+
+
+If you email us directly we will process your request in line with your request. Information supplied will include:
+
   * email address
   * name
   * any other detail which you include in your email
@@ -28,7 +31,7 @@ If you email us directly we will process your request in line with your request.
 
 We use anonymous tools like Google Analytics, Crazy Egg and MOZ to monitor general interactions on the University’s digital presence.
 
-The information they provide is used to give us a better picture of how visitors use the website. For example, they help us improve your experience of the website, advise us of the most visited pages and demonstrate how easily visitors can navigate the site.﻿
+The information they provide is used to give us a better picture of how visitors use the website. For example, they help us improve your experience of the website, advise us of the most visited pages and demonstrate how easily visitors can navigate the site.
 
 As a result of using the tools, we can look at trends and improve elements like the navigation of the site to make it easier to find the right content and improve page speed so that you receive it quicker.
 
@@ -42,7 +45,7 @@ We collect
   * how far down a page is scrolled
   * referring page (where the client came from), as supplied by the client browser
   * computer and connection information such as browser type and version, operating system, and platform
-  * how a visitor arrives on our website, e.g. via search engines, social media, another website etc.﻿
+  * how a visitor arrives on our website, e.g. via search engines, social media, another website etc.
 
 
 
@@ -50,9 +53,9 @@ These products **do NOT** collect any personal information about you.
 
 ## Funnelback
 
-Our site search is provided using a product called Funnelback. This tool allows us to provide search results that most accurately answer the search question asked. This information is also anonymous and may be things like most searched for items. The company which provides our website search <https://www.squiz.net/> have access to this system in order to provide support and are fully GDPR compliant.﻿
+Our site search is provided using a product called Funnelback. This tool allows us to provide search results that most accurately answer the search question asked. This information is also anonymous and may be things like most searched for items. The company which provides our website search <https://www.squiz.net/> have access to this system in order to provide support and are fully GDPR compliant.
 
-It **does NOT** collect personal information.﻿”
+It **does NOT** collect personal information.”
 
 ## TeminalFour
 
@@ -81,7 +84,7 @@ This will be things like:
 
 
 
-## Who has access to your information?﻿
+## Who has access to your information?
 
 The department or faculty in the University who you have given specific consent to will be able to access your information. We never give your personal details to third parties or use your information for anything other than what you have specifically given consent for.
 
@@ -127,12 +130,14 @@ Modern web browsers allow control of most cookies through the browser settings. 
 
 ## What cookies do we use?
 
-Cookie Name| Product| Expiration time﻿| Cookie type| Details﻿  
+Cookie Name| Product| Expiration time| Cookie type| Details  
 ---|---|---|---|---  
 _ga | Google Analytics | 2 years | local | Used to collect information about how visitors use our website. The cookies collects information in an anonymous form, including the number of visitors to our website.  
-_gid﻿ | Google Analytics﻿ | 24 hours | local﻿ | Used to collect information about how visitors use our website. The cookies collect information in an anonymous form, including the number of visitors to our website.  
-_gat﻿ | Google Analytics﻿ | 1 minutes | local﻿ | This cookie does not store any user information; it is used to limit the number of requests that have to be made to doubleclick.net. Doubleclick is a business owned by Google that makes it money from online advertisers and publishers.  
-_gat_gtag_UA_[id] | Google Analytics﻿﻿ | 24 hours﻿ | local﻿ | Used to track user behavior in videos.  
-_ceg.u﻿ | Crazy Egg | 3 months﻿ | local﻿ | Tracks visitors on our site.  
-_ceg.s﻿ | Crazy Egg﻿ | Session (expires when the browser is shut down)﻿ | local﻿ | Tracks visitor activity; recording session unique ID, tracking host and start time﻿  
-__cfduid﻿ | Max Mind | 1 year﻿ |  local | Identifies the country/city of the visitor.
+_gid | Google Analytics | 24 hours | local | Used to collect information about how visitors use our website. The cookies collect information in an anonymous form, including the number of visitors to our website.  
+_gat | Google Analytics | 1 minutes | local | This cookie does not store any user information; it is used to limit the number of requests that have to be made to doubleclick.net. Doubleclick is a business owned by Google that makes it money from online advertisers and publishers.  
+_gat_gtag_UA_[id] | Google Analytics | 24 hours | local | Used to track user behavior in videos.  
+_ceg.u | Crazy Egg | 3 months | local | Tracks visitors on our site.  
+_ceg.s | Crazy Egg | Session (expires when the browser is shut down) | local | Tracks visitor activity; recording session unique ID, tracking host and start time  
+__cfduid | Max Mind | 1 year |  local | Identifies the country/city of the visitor.  
+  
+Cookie Settings
