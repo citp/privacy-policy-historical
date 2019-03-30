@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the qctimes.com privacy policy that was archived on 2018-10-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181004080835id_/http%3A//qctimes.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the qctimes.com privacy policy that was archived on 2019-03-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190330182102id_/http%3A//qctimes.com/privacy) for the most accurate reproduction.*
 
 # Privacy | qctimes.com
 
