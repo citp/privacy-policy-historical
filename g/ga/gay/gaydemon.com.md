@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the gaydemon.com privacy policy that was archived on 2017-07-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170720182254id_/https%3A//www.gaydemon.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gaydemon.com privacy policy that was archived on 2019-03-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190330092647id_/https%3A//www.gaydemon.com/privacy) for the most accurate reproduction.*
 
-# GayDemon's Privacy Policy
+# Privacy Policy - GayDemon
+
+## GayDemon's Privacy Policy
 
 This Privacy Policy describes how we use information collected from you.
 
@@ -18,23 +20,23 @@ GayDemon reserve the right to revise or modify this policy at any time and in an
 
 Visitors to GayDemon can interact with us in several ways. Depending on the level of interaction, we will collect different type of information about you. Information collected is as follows:
 
-\- Members: Members are those users who interact with GayDemon in a way which requires registration, such as submitting stories or uploading content to the site. Members will be asked to provide a valid e-mail address during the process of registering a username.
+\- Members: Members are those users who interact with GayDemon in a way which requires registration, such as submitting stories, bookmarking or uploading content to the site. Members will be asked to provide a valid e-mail address during the process of registering a username.
 
 \- Browsers: Browsers are visitors to the GayDemon who do not use any active data collection pages. Browsers may view content uploaded by registered members. Any information gathered from browsers is also gathered from registered members. This information is restricted to cookies, IP Addresses and Referral URLs, and other passive information gathering (see below).
 
 ### 4\. How we collect information
 
-\- Passive Collection: We use cookies to collect information about you in order to enhance your experience on GayDemon. The information collected in cookies includes, but is not limited to, your IP address, session data and geographic location.
+\- Passive Collection: We use cookies to collect information about you in order to provide essential functionality and to enhance your experience on GayDemon. The information collected in cookies includes, but is not limited to, your IP address, session data and geographic location. Please review our [cookie page](https://web.archive.org/cookies/) for more details. We also record certain requests in log files together with IP addresses. This log data is used for troubleshooting, statistics, analytics, quality assurance and to monitor system security. No personally identifiable information about you other than IP address can be derived from log files. Log files are stored for 90 days after this period all records are erased.
 
-\- Active Collection: We collect information from you, such as your e-mail address when you complete registration forms to sign up for membership on our site. Locations for this collection are on registration or personal profile pages.
+\- Active Collection: We collect information from you, such as your e-mail address when you complete registration forms to sign up for membership on our site. Locations for this collection are on registration, submission forms, bookmarks or personal profile pages.
 
-### 5\. HOW WE USE YOUR INFORMATION
+### 5\. How we use your information
 
 The primary use for information collected from you is to provide you with services you have requested. Your information is also used to deliver customized services to you. We are not responsible for how any third parties use your information, and you need to familiarize yourself with third partiy privacy policies prior to requesting their services.
 
 We generally use your information for the purposes you specifically provide it for, such as submitting stories, adding links or uploading content.
 
-Passive information is used for market research purposes in order to increase your and other users experience, to analyse site usage and for other marketing purposes.
+Passive information is used for troubleshooting, security, purposes in order to increase your and other users experience and to analyse site usage.
 
 Your information is also used for providing your user profile or publishing other content such as stories (if applicable) to all other members and browsers. You need to consider that the information you enter on any content published on this site can be viewed by everyone, unless otherwise stated. Be careful when providing information about yourself as you may be identified through information you have provided. Accordingly, you are fully responsible for any consequences arising out of the information that you choose to publish on this site.
 
@@ -48,7 +50,7 @@ It is GayDemon's policy not to use or share the personal information about our v
 
 ### 7\. Communication from us
 
-We may periodically send you announcements including details about existing services or new features. You may opt out of these announcements by replying to any such emails. If you choose to opt out of these emails, you may still receive system notices and other information related to your account.
+We do not send out any announcements or newsletters of any type. You will only recieve emails from GayDemon related to registration and site requests initiated by you such as password reminders and content submission.
 
 ### 8\. Public pages
 
