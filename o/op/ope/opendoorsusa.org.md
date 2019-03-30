@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the opendoorsusa.org privacy policy that was archived on 2018-08-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180826043635id_/https%3A//www.opendoorsusa.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the opendoorsusa.org privacy policy that was archived on 2019-03-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190330194759id_/https%3A//www.opendoorsusa.org/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Open Doors USA
 
@@ -71,21 +71,17 @@ We do not sell or otherwise disclose personal information about you, except as d
 
 We offer you certain choices about what information we collect from you, how we use and disclose the information, and how we communicate with you. You may withdraw any consent you previously provided to us or object at any time on legitimate grounds to the processing of your personal information. We will apply your preferences going forward. In some circumstances, withdrawing your consent to ODUSA’s use or disclosure of your personal information will mean that you cannot take advantage of certain ODUSA offerings or site features. **Here are the choices that ODUSA offers:**
 
-> **Sharing Information with Business Partners**
-
-> You may direct ODUSA not to share your personal information with our business partners for those partners’ own purposes. To do so, please email us atprivacy@odusa.org. If you opt out, we will continue sharing your information as otherwise described in the “Information We Share” section of this Privacy Policy, including with our service providers, to fulfill your requests and to comply with legal requirements.
-
 > **Marketing Emails**
 
 > You may choose not to receive marketing email communications from us by clicking on the unsubscribe link in the marketing emails or by adjusting your email preferences using the online account you may establish on our sites. To adjust your current settings, please email us at usa@opendoors.org
 
 > **Web Analytics**
 
-> You may opt out of the aggregation and analysis of data collected about you on our sites by our web analytics vendor by clicking here and/or here.
+> You may opt out of the aggregation and analysis of data collected about you on our sites by our web analytics vendor by clicking [here](https://www.blog.google/technology/safety-security/making-it-easier-control-your-data-directly-google-products/).
 
 > **Advertising Networks**
 
-> You may opt out of the use of us targeting advertisements to you from 3rd party advertising networks (see “Online Advertising” section for more information), you may do so by clicking here.
+> You may opt out of the use of us targeting advertisements to you from 3rd party advertising networks (see “Online Advertising” section for more information), you may do so by clicking [here](https://www.blog.google/technology/safety-security/making-it-easier-control-your-data-directly-google-products/).
 
 > **Geo-Location Information**
 
