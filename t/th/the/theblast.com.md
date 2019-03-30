@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the theblast.com privacy policy that was archived on 2018-01-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180131070736id_/https%3A//theblast.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the theblast.com privacy policy that was archived on 2019-03-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190330105645id_/https%3A//theblast.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - The Blast
 
