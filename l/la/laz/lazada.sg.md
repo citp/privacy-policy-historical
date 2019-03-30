@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lazada.sg privacy policy that was archived on 2018-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181222231525id_/https%3A//www.lazada.sg/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lazada.sg privacy policy that was archived on 2019-03-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190330234436id_/https%3A//www.lazada.sg/privacy-policy) for the most accurate reproduction.*
 
 # Legal_Privacy Policy
 
