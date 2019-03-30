@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the flexyjam.net privacy policy that was archived on 2018-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181228223041id_/https%3A//flexyjam.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the flexyjam.net privacy policy that was archived on 2019-03-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190330125248id_/https%3A//flexyjam.net/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | FlexyJam.com
 
@@ -6,7 +6,7 @@ If you require any more information or have any questions about our privacy poli
 
 At https://flexyjam.net we consider the privacy of our visitors to be extremely important. This privacy policy document describes in detail the types of personal information is collected and recorded by https://flexyjam.net and how we use it.
 
-**Log Files**  
+ **Log Files**  
 Like many other Web sites, https://flexyjam.net makes use of log files. These files merely logs visitors to the site – usually a standard procedure for hosting companies and a part of hosting services’s analytics. The information inside the log files includes internet protocol (IP) addresses, browser type, Internet Service Provider (ISP), date/time stamp, referring/exit pages, and possibly the number of clicks. This information is used to analyze trends, administer the site, track user’s movement around the site, and gather demographic information. IP addresses, and other such information are not linked to any information that is personally identifiable.
 
  **Cookies and Web Beacons**  
