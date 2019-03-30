@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the marketinginsidergroup.com privacy policy that was archived on 2018-09-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180913061411id_/https%3A//marketinginsidergroup.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the marketinginsidergroup.com privacy policy that was archived on 2019-03-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190330200957id_/https%3A//marketinginsidergroup.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Marketing Insider Group
 
