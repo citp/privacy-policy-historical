@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gatestoneinstitute.org privacy policy that was archived on 2018-07-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180711204331id_/https%3A//www.gatestoneinstitute.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gatestoneinstitute.org privacy policy that was archived on 2019-03-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190330082540id_/https%3A//www.gatestoneinstitute.org/privacy-policy) for the most accurate reproduction.*
 
 # Privacy and Cookies Policy :: Gatestone Institute
 
@@ -86,7 +86,7 @@ We use the following types of cookies:
 
   * **Targeting** cookies **.** These cookies record your visit to our website, the pages you have visited and the links you have followed. We will use this information subject to your choices and preferences to make our website/App and the advertising displayed on it more relevant to your interests. **We may also share this information with third parties for this purpose.**
 
-We may also work with advertising networks that gather information about the content on our website you visit and on information on other websites and services you visit. This may result in you seeing advertisements on our site or our advertisements when you visit other websites and services of third parties. For more information about how to turn this feature off see below or visit [http://www.youronlinechoices.co.uk](http://www.youronlinechoices.co.uk/).
+We may also work with advertising networks that gather information about the content on our website you visit and on information on other websites and services you visit. This may result in you seeing advertisements on our site or our advertisements when you visit other websites and services of third parties. For more information about how to turn this feature off see below or visit [http://www.youronlinechoices.com](http://www.youronlinechoices.com/).
 
 
 
