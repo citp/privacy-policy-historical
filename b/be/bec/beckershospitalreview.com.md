@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the beckershospitalreview.com privacy policy that was archived on 2018-08-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180825231459id_/https%3A//www.beckershospitalreview.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the beckershospitalreview.com privacy policy that was archived on 2019-03-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190330212010id_/https%3A//www.beckershospitalreview.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
-May 30, 2018 |  [ Print ](https://www.beckershospitalreview.com/privacy-policy.html?tmpl=component&print=1&layout=default "Print article < Privacy Policy >") | [Email](https://www.beckershospitalreview.com/component/mailto/?tmpl=component&template=beckers&link=https://www.beckershospitalreview.com/privacy-policy.html)
+\- Wednesday, May 30th, 2018[ Print ](https://www.beckershospitalreview.com/privacy-policy.html?tmpl=component&print=1&layout=default "Print article < Privacy Policy >") | [Email](https://www.beckershospitalreview.com/component/mailto/?tmpl=component&template=beckers&aid=128766&link=https://www.beckershospitalreview.com/privacy-policy.html)
 
 This privacy notice discloses the privacy practices for Becker's Hospital Review. This privacy notice applies solely to information collected by this website. It will notify you of the following:
 
@@ -36,6 +36,6 @@ While we use encryption to protect sensitive information transmitted online, we 
 
 If you feel that we are not abiding by this privacy policy, you should contact us immediately via telephone at 1.800.417.2035 or via email at [becker@beckershealthcare.com](mailto:becker@beckershealthcare.com).
 
-_© Copyright ASC COMMUNICATIONS 2018. Interested in LINKING to or REPRINTING this content? View our policies by[clicking here](https://www.beckershospitalreview.com/linking-and-reprinting-policy.html)._
+_© Copyright ASC COMMUNICATIONS 2019. Interested in LINKING to or REPRINTING this content? View our policies by[clicking here](https://www.beckershospitalreview.com/linking-and-reprinting-policy.html)._
 
 **To receive the latest hospital and health system business and legal news and analysis from _Becker's Hospital Review_ , sign-up for the free _Becker's Hospital Review E-weekly_ by [clicking here](https://www.beckershospitalreview.com/sign-up-for-our-free-e-weeklies.html).**
