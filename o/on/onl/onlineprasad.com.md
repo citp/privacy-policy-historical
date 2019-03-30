@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the onlineprasad.com privacy policy that was archived on 2017-02-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170202155233id_/https%3A//onlineprasad.com/pages/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the onlineprasad.com privacy policy that was archived on 2019-03-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190330210002id_/https%3A//onlineprasad.com/pages/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy – OnlinePrasad.com
 
