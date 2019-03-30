@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the kitchenstewardship.com privacy policy that was archived on 2018-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181224175938id_/http%3A//www.kitchenstewardship.com/about-2/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kitchenstewardship.com privacy policy that was archived on 2019-03-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190330192613id_/http%3A//www.kitchenstewardship.com/about-2/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
-This Privacy Policy governs the manner in which Kitchen Stewardship, LLC collects, uses, maintains and discloses information collected from users (each, a “User”) of the [http://www.kitchenstewardship.com](https://web.archive.org/web/20181224175938id_/) website (“Site”). This privacy policy applies to the Site and all products and services offered by Kitchen Stewardship, LLC.
+This Privacy Policy governs the manner in which Kitchen Stewardship, LLC collects, uses, maintains and discloses information collected from users (each, a “User”) of the [http://www.kitchenstewardship.com](https://web.archive.org/web/20190330192613id_/) website (“Site”). This privacy policy applies to the Site and all products and services offered by Kitchen Stewardship, LLC.
 
  **By accessing this web site, you are agreeing to be bound by these web site Terms and Conditions of Use, all applicable laws and regulations, and agree that you are responsible for compliance with any applicable local laws. If you do not agree with any of these terms, you are prohibited from using or accessing this site. The materials contained in this web site are protected by applicable copyright and trade mark law.**
 
@@ -129,8 +129,8 @@ Should we sell this site or our business, your personal information will be an a
  **Contacting us**
 
 If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this site, please contact us at:  
-[Kitchen Stewardship, LLC](https://web.archive.org/web/20181224175938id_/)  
-[http://www.kitchenstewardship.com](https://web.archive.org/web/20181224175938id_/)  
+[Kitchen Stewardship, LLC](https://web.archive.org/web/20190330192613id_/)  
+[http://www.kitchenstewardship.com](https://web.archive.org/web/20190330192613id_/)  
 Katie Kimball Kitchen Stewardship, LLC  
 8566 Woodruff Dr. SW  
 Byron Center, MI 49315  
