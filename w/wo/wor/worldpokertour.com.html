@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the worldpokertour.com privacy policy that was archived on 2018-12-21.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20181221045119id_/http%3A//www.worldpokertour.com/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the worldpokertour.com privacy policy that was archived on 2019-03-30.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20190330185233id_/https%3A//www.worldpokertour.com/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en-US" class=" async-hide"><head><meta charset="utf-8">
 <title>Privacy Policy | World Poker Tour</title>
@@ -13,7 +13,7 @@
 /* <![CDATA[ */
 $(function() {
 var input = document.createElement("input");
-if(('placeholder' in input)==false) { 
+if(('placeholder' in input)==false) {
 $('[placeholder]').focus(function() {
 var i = $(this);
 if(i.val() == i.attr('placeholder')) {
@@ -21,10 +21,10 @@ i.val('').removeClass('placeholder');
 if(i.hasClass('password')) {
 i.removeClass('password');
 this.type='password';
-}			
+}
 }
 }).blur(function() {
-var i = $(this);	
+var i = $(this);
 if(i.val() == '' || i.val() == i.attr('placeholder')) {
 if(this.type=='password'   ) {
 i.addClass('password');
@@ -47,7 +47,7 @@ i.val('');
 /* ]]> */
 </script>
 <!--[if lt IE 9]>
-<script type="text/javascript" src="https://www.worldpokertour.com/wp-content/themes/worldpokertour/js/html5.js"></script>   
+<script type="text/javascript" src="https://www.worldpokertour.com/wp-content/themes/worldpokertour/js/html5.js"></script>
 <![endif]-->
 <!--[if IE 7]>
 <link rel="stylesheet" href="https://www.worldpokertour.com/wp-content/themes/worldpokertour/css/font-awesome-ie7.css" />
@@ -101,10 +101,10 @@ img.emoji {
 	padding: 0 !important;
 }
 </style>
-<link rel="stylesheet" id="fixable-video-css" href="https://www.worldpokertour.com/wp-content/plugins/fixable-video/assets/css/fixable-video.css" type="text/css" media="all">
-<link rel="stylesheet" id="woldpokertour-style-css" href="https://www.worldpokertour.com/wp-content/themes/worldpokertour/style.css?ver=1.3.3-cache-buster" type="text/css" media="all">
+<link rel="stylesheet" id="fixable-video-css" href="https://www.worldpokertour.com/wp-content/plugins/fixable-video/assets/css/fixable-video.css?ver=0.0.4" type="text/css" media="all">
+<link rel="stylesheet" id="woldpokertour-style-css" href="https://www.worldpokertour.com/wp-content/themes/worldpokertour/style.css?ver=1.3.4-cache-buster" type="text/css" media="all">
 <script type="text/javascript" src="//player.twitch.tv/js/embed/v1.js?ver=4.6.1"></script>
-<script type="text/javascript" src="https://www.worldpokertour.com/wp-content/plugins/fixable-video/assets/js/fixable-video.js"></script>
+<script type="text/javascript" src="https://www.worldpokertour.com/wp-content/plugins/fixable-video/assets/js/fixable-video.js?ver=0.0.4"></script>
 <script type="text/javascript" src="https://www.worldpokertour.com/wp-includes/js/jquery/jquery.js?ver=1.12.4"></script>
 <script type="text/javascript" src="https://www.worldpokertour.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.4.1"></script>
 <script type="text/javascript" src="https://www.worldpokertour.com/wp-content/plugins/validated-field-for-acf/js/jquery.maskedinput.min.js?ver=1.7.7"></script>
@@ -231,21 +231,21 @@ ga('send', 'pageview');
 		.addSize([480, 0], [468, 60])					// Tablet (Narrow)
 		.addSize([320, 0], [[320, 100], [320, 50]])		// Mobile
 		.build();
-	
+
 	var leaderboard_responsive_alt = googletag.sizeMapping()
 		.addSize([1260, 0], [840, 70])					// Desktop (Wider)
 		.addSize([1070, 0], [620, 70])					// Desktop
 		.addSize([0, 0], [710, 70])						// Mobile
 		.build();
-	
+
 	var skyscraper_responsive = googletag.sizeMapping()
 		.addSize([1070, 0], [[300, 600], [300, 250]])	// Desktop
 		.build();
-	
+
 	gptAdSlots['lbd_top'] = googletag.defineSlot('/'+dfp_account_id+'/GPT_Top_Leaderboard', [[1280, 100], [1060, 100], [920, 100], [790, 90], [468, 60], [320, 100], [320, 50]], 'div-gpt-ad-top_leaderboard')
 		.defineSizeMapping(leaderboard_responsive)
 		.addService(googletag.pubads());
-	
+
 	gptAdSlots['lbd_bot'] = googletag.defineSlot('/'+dfp_account_id+'/GPT_Bottom_Leaderboard', [[790, 90], [468, 60], [320, 100], [320, 50]], 'div-gpt-ad-bottom_leaderboard')
 		.defineSizeMapping(leaderboard_responsive_bot)
 		.addService(googletag.pubads());
@@ -262,7 +262,7 @@ ga('send', 'pageview');
 		.defineSizeMapping(leaderboard_responsive_alt)
 				.setTargeting("wpt_section", "Rankings Leaderboards")
 				.addService(googletag.pubads());
-	
+
 	gptAdSlots['sb_rect'] = googletag.defineSlot('/'+dfp_account_id+'/GPT_Sidebar', [[300, 600], [300, 250]], 'div-gpt-ad-sidebar_rectangle')
 		.defineSizeMapping(skyscraper_responsive)
 		.addService(googletag.pubads());
@@ -305,12 +305,13 @@ ga('send', 'pageview');
   }
 
 </script>
+
 </head>
 
 <body>
 
 <div id="wrapper">
-	
+
 <header class="header_shadow">
 <section class="top_links">
 <div class="mainCntr">
@@ -322,12 +323,11 @@ ga('send', 'pageview');
     <li><a href="http://www.worldpokertourcruise.com/?ref=WorldPokerTour.com" target="_blank">WPT Cruise</a></li>
     <li><a href="https://www.worldpokertour.com/wpt-corporate-events/?ref=WPT_UniNavBar" target="_blank">WPT Corp Events</a></li>
     <li><a href="http://www.wptfoundation.org/?utm_source=wpt&amp;utm_medium=universal_navbar" target="_blank">WPT Foundation </a></li>
-    <li><a href="https://www.wpttravel.com/?ref=WorldPokerTour.com" target="_blank">WPT Travel</a></li>
     <li><a href="https://www.shopwpt.com/?ref=wpt.com" target="_blank">Shop WPT</a></li>
   </ul>
 </div>
 </section>
-<div class="clear"></div> 
+<div class="clear"></div>
 
 
 <div id="headdemo" class="top_nav">
@@ -627,7 +627,7 @@ Irvine, CA 92614</p>
 <li class="entry ytb"><a href="https://www.youtube.com/user/TheWPT/" target="_blank" rel="noopener">Youtube</a></li>
 <li class="entry ins"><a href="https://www.instagram.com/worldpokertour/" target="_blank" rel="noopener">Instagram</a></li>
 </ul>
-<p>Copyright © 2018 WPT Enterprises, Inc</p>
+<p>Copyright © 2019 WPT Enterprises, Inc</p>
 
 </div>
 
@@ -662,6 +662,7 @@ $(document).ready(function() {
 });
 
 </script>
+
 <script type="text/javascript">
 $(document).ready(function(){
 
