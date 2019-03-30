@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the vocal.media privacy policy that was archived on 2018-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181210232243id_/https%3A//vocal.media/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vocal.media privacy policy that was archived on 2019-03-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190330212257id_/https%3A//vocal.media/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - Vocal
+# Vocal Privacy Policy
 
 Welcome to the privacy policy for the vocal.media platform. This policy guides how we use and do not use information received when you use any of our Services, which includes our sites (such as beat.media) and related services, features, content, applications and functionality.    
 
@@ -18,7 +18,7 @@ For those of you familiar with what is known as “GDPR” in most of Europe (th
 
 
 
-If you are from or in the European Economic Area then you need to click here for more information.
+If you are from or in the European Economic Area then you need to [click here](https://www.iubenda.com/privacy-policy/14961855/legal) for more information.
 
 FOR USERS FROM THE EEA. You have to read and consent to the GDPR privacy policies (users from other regions do not need to do so).
 
@@ -70,7 +70,7 @@ As noted elsewhere in this Privacy Policy, we will remove such Content in respon
 
 
 
-When you visit any Site or use any Services you are consenting to the receipt and use of your information as described in this Privacy Policy if you are not a user in or from the EEA. For EEA users, you can only choose to consent at [Vocal GDPR Privacy Terms](https://www.iubenda.com/privacy-policy/14961855).  
+When you visit any Site or use any Services you are consenting to the receipt and use of your information as described in this Privacy Policy if you are not a user in or from the EEA. For EEA users, you can only choose to consent at [Vocal GDPR Privacy Terms](https://www.iubenda.com/privacy-policy/14961855/legal).  
 
 
 We may make changes to this Privacy Policy from time to time. When we do, we will provide a prominent notice. Your use after you have seen the notice will be consent of the changes, unless you are a user in the EEA, in which case you will click on the link to consent to it that will be provided to you.  
