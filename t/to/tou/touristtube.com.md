@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the touristtube.com privacy policy that was archived on 2018-08-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180826004452id_/https%3A//www.touristtube.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the touristtube.com privacy policy that was archived on 2019-03-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190330131640id_/https%3A//www.touristtube.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy Tourist Tube
 
@@ -174,6 +174,6 @@ Floor 1; DIC Building 12; 35, DIC Street; city Dubai; UAE
 
 [support@touristtube.com](mailto:support@touristtube.com "support@touristtube.com")
 
-2018 © Tourist Tube FZ-LLC
+2019 © Tourist Tube FZ-LLC
 
-Date of Last Revision: November 21, 2018
+Date of Last Revision: November 21, 2019
