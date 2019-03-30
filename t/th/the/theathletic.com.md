@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the theathletic.com privacy policy that was archived on 2018-03-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180312000934id_/https%3A//theathletic.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the theathletic.com privacy policy that was archived on 2019-03-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190330082856id_/https%3A//theathletic.com/privacy) for the most accurate reproduction.*
 
 # Privacy – The Athletic
 
@@ -149,9 +149,9 @@ If there are any questions regarding this privacy policy you may contact us usin
 
 The Athletic Media Company
 
-2329 Divisadero St #1
+332 Pine St., Floor 9
 
-San Francisco, CA 94115 
+San Francisco, CA 94104 
 
 United States
 
