@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the landofbasketball.com privacy policy that was archived on 2018-09-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180915102038id_/http%3A//landofbasketball.com/privacypolicy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the landofbasketball.com privacy policy that was archived on 2019-03-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190330191722id_/https%3A//www.landofbasketball.com/privacypolicy.htm) for the most accurate reproduction.*
 
 # LandOfBasketball.com Privacy Policy
 
@@ -18,7 +18,7 @@ By using this website you are consenting to our use of the cookies outlined here
 
 ### **Statistical Service**
 
-The statistical service we use, [Google Analytics](http://www.google.com/analytics/index.html), uses cookies to collect anonymous traffic data to provide us information such as visited pages, referring URLs, browser used and other publicly available data. This data does not contain information that allows us to personally identify you in any way. You can read more about how this statistical service works at [Google's own privacy policy](https://policies.google.com/privacy).
+The statistical service we use, [Google Analytics](https://www.google.com/analytics/index.html), uses cookies to collect anonymous traffic data to provide us information such as visited pages, referring URLs, browser used and other publicly available data. This data does not contain information that allows us to personally identify you in any way. You can read more about how this statistical service works at [Google's own privacy policy](https://policies.google.com/privacy).
 
 ### **Third Party Advertising, Cookies and Web Beacons**
 
@@ -28,9 +28,9 @@ To support **LandOfBasketball.com** we use third-party advertising companies suc
 
 In this website, visitors from countries in which the EU ePrivacy Directive's cookie provisions apply and also those who have disabled personalized Adsense ads are only served with "non-personalized" Adsense ads, which use only contextual information (like the content of the loaded web page) and targeting is not based on the profile or past behavior of the visitor. Please note that the non-personalized ads still require cookies to operate.
 
-This website, **LandOfBasketball.com** , also sometimes uses the services of **other well known and established advertising companies and affiliate programs** for the serving of ads, like CJ Affiliate, Amazon, eBay Partner Network, AllPosters, ShareASale, AvantLink, Affiliate Future, Rakuten, PepperJam and FlexOffers among others. Some of these advertisers may use technology such as cookies and web beacons (1-pixel transparent images used for tracking) when they advertise on our site, which will also send these advertisers non-personally identifying information. This is generally used for geotargeting purposes or showing certain ads based on specific sites visited. All this companies **have their own privacy policies** , if you want to review them you can follow these links: [CJ Affiliate](https://www.conversantmedia.com/legal/privacy), [Amazon](https://www.amazon.com/gp/help/customer/display.html/ref=hp_left_v4_sib?ie=UTF8&nodeId=201909010), [eBay Partner Network](https://partnernetwork.ebay.com/legal/), [AllPosters](https://www.allposters.com/help/guarantee.html#privacy), [ShareASale](https://www.shareasale.com/PrivacyPolicy.pdf), [AvantLink](https://www.avantlink.com/privacy), [Affiliate Future](http://www.affiliatefuture.com/Legal/privacy), [Rakuten](https://www.rakuten.com/legal), [PepperJam](https://www.pepperjam.com/legal), [FlexOffers](https://www.flexoffers.com/).
+This website, **LandOfBasketball.com** , also sometimes uses the services of **other well known and established advertising companies and affiliate programs** for the serving of ads, like CJ Affiliate, Amazon, eBay Partner Network, AllPosters, ShareASale, AvantLink, Affiliate Future, Rakuten, PepperJam and FlexOffers among others. Some of these advertisers may use technology such as cookies and web beacons (1-pixel transparent images used for tracking) when they advertise on our site, which will also send these advertisers non-personally identifying information. This is generally used for geotargeting purposes or showing certain ads based on specific sites visited. All this companies **have their own privacy policies** , if you want to review them you can follow these links: [CJ Affiliate](https://www.conversantmedia.com/legal/privacy), [Amazon](https://www.amazon.com/gp/help/customer/display.html/ref=hp_left_v4_sib?ie=UTF8&nodeId=201909010), [eBay Partner Network](https://partnernetwork.ebay.com/legal/), [AllPosters](https://www.allposters.com/help/guarantee.html#privacy), [ShareASale](https://www.shareasale.com/PrivacyPolicy.pdf), [AvantLink](https://www.avantlink.com/privacy), [Affiliate Future](https://www.affiliatefuture.com/Legal/privacy), [Rakuten](https://www.rakuten.com/legal), [PepperJam](https://www.pepperjam.com/legal), [FlexOffers](https://www.flexoffers.com/).
 
-Another service that uses cookies and web beacons to help us give you a better website experience is AddThis, which provide us with the social media functions: [AddThis Privacy Policy](http://www.addthis.com/privacy/privacy-policy/).
+Another service that uses cookies and web beacons to help us give you a better website experience is AddThis, which provide us with the social media functions: [AddThis Privacy Policy](https://www.addthis.com/privacy/privacy-policy/).
 
 **You can chose to disable or selectively turn off cookies** in your browser settings. However, be careful with this because it could affect how you are able to interact with some Internet websites (that's not the case with our website). This could include the inability to login to services or programs, such as logging into forums or accounts. To learn more about cookies and how to control and disable them you can go to [Cookies and You](https://cookiesandyou.com/).
 
@@ -46,4 +46,4 @@ League and team logos and names and all other logos and trademarks belong to the
 
 ### **Contact**
 
-If you have any comments or questions you can [contact us](https://web.archive.org/web/20180915102038id_/http%3A//landofbasketball.com/contact_us.htm)
+If you have any comments or questions you can [contact us](https://web.archive.org/web/20190330191722id_/https%3A//www.landofbasketball.com/contact_us.htm)
