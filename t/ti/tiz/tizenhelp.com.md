@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tizenhelp.com privacy policy that was archived on 2018-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180530195718id_/http%3A//www.tizenhelp.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tizenhelp.com privacy policy that was archived on 2019-03-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190331003206id_/https%3A//www.tizenhelp.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Tizen Help
 
@@ -41,5 +41,3 @@ You should consult the respective privacy policies of these third-party ad serve
 If you wish to disable cookies, you may do so through your individual browser options. More detailed information about cookie management with specific web browsers can be found at the browsers’ respective websites
 
 If you require any more information or have any questions about our privacy policy, please feel free to contact us by email at [tizenhelper@gmail.com](http://mailto:tizenhelper@gmail.com/). We are here to help you if you have any kind of problem or you want help from us, then feel free to contact us our whole team is ready to help you.
-
-This website uses cookies to improve your experience. You can opt-out if you wish.Accept [Read More](http://www.tizenhelp.com/privacy-policy/)
