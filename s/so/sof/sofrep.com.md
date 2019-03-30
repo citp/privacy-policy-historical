@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sofrep.com privacy policy that was archived on 2018-08-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180819153320id_/https%3A//sofrep.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sofrep.com privacy policy that was archived on 2019-03-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190331003258id_/https%3A//thenewsrep.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | NEWSREP
 
@@ -17,7 +17,7 @@ Guaynabo 00968
 Puerto Rico  
 USA  
 Toll-free: (877) 477-0623 (U.S. Only)  
-[[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#e5969095958a9791a5918d808b809296978095cb868a88)
+[[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#5f2c2a2f2f302d2b1f2b373a313a282c2d3a2f713c3032)
 
 * * *
 
@@ -135,7 +135,7 @@ In addition to using cookies and related technologies as described above, we als
 
 We do not knowingly seek or collect Personal Information from users under the age of 13, except to the extent that Hurricane may collect limited personal information from students (but not their email addresses), **but only where that student’s school, district, and/or teacher has contracted with Hurricane to collect the personal information from students for the use and benefit of the learning environment.** Children under 13 years old are not allowed to create an account without a parent’s or guardian’s express consent. We recommend that minors over the age of 13 ask their parents for permission before sending any information about themselves to anyone over the Internet.
 
-We require schools, districts, and/or teachers to obtain parental or guardian consent from a students’ parent or guardian before collecting any such student Personal Information. If you are a student, please do not send any Personal Information about yourself to us, other than what we request from you when you sign up for any of our Sites and/or Services. In the event that we learn that we have collected personal information from a student without parental consent being obtained by his or her school, district, and/or teacher, or if we learn a student has provided us Personal Information beyond what we request when he or she signs up for any of our Sites and/or Services, we will delete that information as quickly as possible. If you believe that a student may have provided us Personal Information beyond what is requested when signing up for any of our Sites and/or Services, or that a student’s school, district, or teacher has not obtained parental consent, please contact us at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#42313732322d303602362a272c2735313027326c212d2f).
+We require schools, districts, and/or teachers to obtain parental or guardian consent from a students’ parent or guardian before collecting any such student Personal Information. If you are a student, please do not send any Personal Information about yourself to us, other than what we request from you when you sign up for any of our Sites and/or Services. In the event that we learn that we have collected personal information from a student without parental consent being obtained by his or her school, district, and/or teacher, or if we learn a student has provided us Personal Information beyond what we request when he or she signs up for any of our Sites and/or Services, we will delete that information as quickly as possible. If you believe that a student may have provided us Personal Information beyond what is requested when signing up for any of our Sites and/or Services, or that a student’s school, district, or teacher has not obtained parental consent, please contact us at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#5e2d2b2e2e312c2a1e2a363b303b292d2c3b2e703d3133).
 
 Notwithstanding anything to the contrary contained in this Policy, if you are a student as described above, and your parent or guardian signed up for our Sites and/or Service with a password or access ID provided by your teacher, you understand that your parent or guardian may be able to view all information within or associated with your account, including, without limitation, messages between you and your teacher and grades you received on your assignment.
 
@@ -197,7 +197,7 @@ We encourage you to review this Policy periodically to stay informed about our c
 
 Hurricane Sites and/or Services may be hosted in the United States. If you utilize our Sites and/or Services from the European Union or Switzerland, or any other region with laws governing data collection and use that may differ from U.S. law, please note that you are transferring your personal data outside of those jurisdictions to the United States. The United States does not have the same data protection laws as the European Union, Switzerland and other regions. By providing Personal Information under this Policy, you consent to the use of your Personal Information in accordance with this Policy and the transfer of your Personal Information to the United States.
 
-The Personal Information practices set out in this Privacy Policy apply to all Hurricane Sites and/or Services, and customers worldwide. You have a right of access and to correct such data and/or Personal Information. To exercise these rights, or for other data privacy questions, please contact/send an email to [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#e1929491918e9395a19589848f849692938491cf828e8c).
+The Personal Information practices set out in this Privacy Policy apply to all Hurricane Sites and/or Services, and customers worldwide. You have a right of access and to correct such data and/or Personal Information. To exercise these rights, or for other data privacy questions, please contact/send an email to [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#deadabaeaeb1acaa9eaab6bbb0bba9adacbbaef0bdb1b3).
 
 ## 15\. Enforcement
 
