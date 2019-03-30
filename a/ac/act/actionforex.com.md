@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the actionforex.com privacy policy that was archived on 2018-07-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180721015223id_/https%3A//www.actionforex.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the actionforex.com privacy policy that was archived on 2019-03-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190330231522id_/https%3A//www.actionforex.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Action Forex
 
