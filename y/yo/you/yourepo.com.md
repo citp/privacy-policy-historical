@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the yourepo.com privacy policy that was archived on 2017-05-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170521160121id_/http%3A//www.yourepo.com/user/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the yourepo.com privacy policy that was archived on 2019-03-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190330115657id_/https%3A//www.yourepo.com/user/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - YouRepo
 
-##  Privacy Policy Last Edited on 16-10-2014
+## __Privacy Policy Last Edited on 16/10/2014
 
   1. [Home](https://web.archive.org/)
   2. Privacy Policy
