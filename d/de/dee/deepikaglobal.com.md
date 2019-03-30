@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the deepikaglobal.com privacy policy that was archived on 2018-11-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181115071731id_/http%3A//www.deepika.com/includes/PrivacyPolicies.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the deepikaglobal.com privacy policy that was archived on 2019-03-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190331005644id_/http%3A//www.deepika.com/includes/PrivacyPolicies.aspx) for the most accurate reproduction.*
 
 # deepika.com :: Privacy Policy
 
