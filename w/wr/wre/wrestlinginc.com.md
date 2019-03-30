@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wrestlinginc.com privacy policy that was archived on 2018-09-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180927091557id_/https%3A//wrestlinginc.com/pages/privacy-policy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wrestlinginc.com privacy policy that was archived on 2019-03-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190330113423id_/https%3A//www.wrestlinginc.com/pages/privacy-policy.shtml) for the most accurate reproduction.*
 
 # WWE Wrestling News, PPV Results, Videos - Wrestling Inc.
 
@@ -239,7 +239,7 @@ You are advised to review this Privacy Policy periodically for any changes. Chan
 If you have any questions about this Privacy Policy, please contact us:
 
   * By email: [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection)
-  * By visiting [this page](https://web.archive.org/wi/pages/contact-us.shtml) on our website
+  * By visiting [this page](https://web.archive.org/pages/contact-us.shtml) on our website
   * By mail: PO Box 281084  
 Lakewood, CO 80228
 
