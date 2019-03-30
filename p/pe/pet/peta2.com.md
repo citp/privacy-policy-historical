@@ -1,63 +1,75 @@
-> *The following text is extracted and transformed from the peta2.com privacy policy that was archived on 2018-08-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180825213715id_/https%3A//www.peta2.com/about-peta2/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the peta2.com privacy policy that was archived on 2019-03-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190330084345id_/https%3A//www.peta.org/about-peta/learn-about-peta/website-policies/privacy) for the most accurate reproduction.*
 
-# peta2 Privacy Policy | peta2
+# Privacy Policy | PETA
 
-We at peta2 strongly believe in protecting the privacy of any personal information gathered from our peta2 members and visitors to peta2.com. Since the protection of your privacy is important to us, we have created this privacy policy to let you know our practices regarding the collection and dissemination of personal information that can be linked to an individual, such as a name, address, phone number, e-mail address, or any other information provided to us by our members and Web site visitors.
+**Your Privacy**
 
-**_Note:_  If you’re under 18, please make sure that your parent or guardian has read and agreed to these terms before you use this site. ‘Cause we don’t want to get yelled at. That would suck.**
+People for the Ethical Treatment of Animals (PETA) strongly believes in protecting the integrity and privacy of personal information gathered from our members and from visitors to our websites. Because protecting your privacy is of great importance to us, we have created this privacy policy to communicate our practices regarding the collection and dissemination of personal information that can be linked to a specific individual, such as a name, address, phone number, e-mail address, or any other information provided to us by our members and by visitors to our websites.
 
-**Why does peta2 ask for my information?**
+These policies do not extend to external sites linked to our Shopping Mall or other non-PETA.org website content. Please check with these companies and sites for their policies regarding data privacy, including the use of “cookies.”
 
-In order to participate in some activities, you might be asked to provide some personal information. This could be in connection to any one of the following:
+ **Why does PETA ask for my information?**
 
-  * Sending personalized e-mail messages when participating in action alerts
-  * Registering for peta2
-  * Signing up for the peta2 message boards
-  * Participating in contests, surveys, petitions, information-pack requests, and giveaways
-  * Subscribing to  _peta2 E-News_
+In order to participate in some activities, you might be asked to provide some personal information. This could be in connection with any one or combination of the following:
+
+  * Shipping items purchased from the PETA Shop
+  * Making or renewing a donation online
+  * Sending personalized faxes or e-mail messages when participating in action alerts
+  * Registering for PETA’s activist networks
+  * Participating in contests, surveys, petitions, and giveaways
+  * Requesting information packs
+  * Subscribing to PETA e-news lists
 
 
 
-**What information does peta2 collect?**
+ **What information does PETA collect?**
 
-We do not collect personal information from our visitors other than what is supplied to us on a voluntary basis.
+We do not collect personal information from our visitors other than that which is supplied to us on a voluntary basis.
 
-**How does peta2 use the information gathered from the above sources?**
+ **How does PETA use the information gathered from the above sources?**
 
-We use your information to send you details about our campaigns, events, activities, missions, and alerts.
+We use your information to send you details about our campaigns, events, and activities; local volunteer opportunities and alerts; and membership and renewal appeals.
 
-We also use the information gathered via our Web site to improve your peta2 Web experience. We perform statistical analyses of aggregate user behavior and characteristics in order to measure interest in and use of various areas on our Web sites and to use such information to improve our Web sites’ ability to serve you better.
+PETA also uses information gathered via our websites to improve our Web-based campaigns. PETA performs statistical analyses of aggregate user behavior and characteristics in order to measure interest in and use of various areas on our websites and to use such information to improve our websites’ ability to serve you.
 
-**Does PETA use “cookies” on its websites?**
+ **Does PETA use “cookies” on its websites?**
 
-PETA uses “cookies” and pixels on some webpages. A cookie is a small piece of data that is stored on a visitor’s hard drive but does not contain any personal information itself. Cookies enhance a visitor’s experience by preventing the visitor from having to log in or provide information each time he or she revisits a PETA webpage and by customizing content based on a visitor’s interests. Pixels, often used in connection with cookies, are small blocks of code on webpages that perform functions such as allowing another server to measure viewing statistics for a webpage. Visitors can configure their browsers to refuse cookies or to be alerted when a site is attempting to send a cookie, although some PETA e-commerce pages will not function properly without accepting cookies. PETA and third-party vendors, including Google and Facebook, use cookies and pixels to show website visitors ads based on a visitor’s prior visits to the website as well as first-party cookies (such as the Google Analytics cookies) and third-party cookies (such as the DoubleClick cookie) together to report how ad impressions, other uses of ad services and interactions with them correspond to visits to our web site. Visitors who want to opt out of Google’s use of cookies in these ways can do so by visiting the [Google advertising opt-out page](https://www.google.com/privacy_ads.html). Other options for managing the use of third-party cookies and pixels are available at [www.aboutads.info/choices](http://www.aboutads.info/choices). PETA also uses cookies to administer its websites, track visitor movement, and gather broad demographic information for aggregate use.
+PETA uses “cookies” and pixels on some webpages. A cookie is a small piece of data that is stored on a visitor’s hard drive but does not contain any personal information itself. Cookies enhance a visitor’s experience by preventing the visitor from having to log in or provide information each time he or she revisits a PETA webpage and by customizing content based on a visitor’s interests. Pixels, often used in connection with cookies, are small blocks of code on webpages that perform functions such as allowing another server to measure viewing statistics for a webpage. Visitors can configure their browsers to refuse cookies or to be alerted when a site is attempting to send a cookie, although some PETA e-commerce pages will not function properly without accepting cookies. PETA and third-party vendors, including Google and Facebook, use cookies and pixels to show website visitors ads based on a visitor’s prior visits to the website as well as first-party cookies (such as the Google Analytics cookies) and third-party cookies (such as the DoubleClick cookie) together to report how ad impressions, other uses of ad services and interactions with them correspond to visits to our web site. PETA also makes use of demographic information gathered via Google Analytics Demographics & Interests reports to gain a deeper understanding of the visitors to our website so that we can cater content to them accordingly while also tracking our success at reaching new populations of people. Visitors who want to opt out of Google’s use of cookies in these ways can do so by visiting the [Google advertising opt-out page](https://www.google.com/privacy_ads.html). Other options for managing the use of third-party cookies and pixels are available at [www.aboutads.info/choices](http://optout.aboutads.info/?c=2&lang=EN) and [Network Advertising Initiative](http://optout.networkadvertising.org/?c=1). PETA also uses cookies to administer its websites, track visitor movement, and gather broad demographic information for aggregate use.
 
-**How does PETA use Google Analytics?**
+ **How is information used in PETA **e-mails**?**
 
-PETA uses Google Analytics to analyze traffic to this site. By making use of information gathered via Google Analytics Demographics and Interests reports, we gain a deeper understanding of the preferences of our visitors so that we can tailor content to them accordingly while also tracking our success at reaching new populations. PETA also uses Google AMP Client ID API in connection with Google Analytics, which allows us to identify and analyze the unique behavior of users across the site’s Accelerated Mobile Pages (AMP) and non-AMP content.
+If you provide PETA with your e-mail address, you will be signed up to start receiving e-mails from PETA. You can unsubscribe from any or all PETA e-mail lists at any time by following the instructions included in each e-mail or by e-mailing [Info@peta.org.](mailto:Info@peta.org.) The information that we gather from subscribers, including their e-mail addresses, is not shared with non-PETA–affiliated organizations or companies. From time to time, we may send out e-mail messages that might include information about these like-minded organizations and companies, but we do not provide them with access to any personal information that you have provided. If you live outside the U.S. and provide us with your contact details, we may share these with PETA’s international affiliates in order to keep you apprised of developments in your part of the world. If you don’t want your information to be given to PETA’s international affiliates, please e-mail [Info@peta.org](mailto:Info@peta.org).
 
-Visitors who want to opt out of Google Analytics tracking can do so by visiting the Google Analytics [opt-out page](https://tools.google.com/dlpage/gaoptout).
+In order to provide you with better and more relevant information, we compile information about e-mail response and website usage. This information helps us to understand site usage patterns as well as find what types of content and information may help improve your user experience on PETA’s websites.
 
-[**How is information used in peta2   _E-News_?**](https://www.google.com/privacy_ads.html)
+All e-mail messages sent to e-mail newsletter subscribers contain a link that allows you to unsubscribe or to modify your profile. You may subscribe or unsubscribe to any e-news or e-mail communication from PETA at any time.
 
-If you provide peta2 with your e-mail address, you will be signed up to start receiving the bi-weekly peta2 E-News, and you may receive other e-mails regarding PETA events, campaigns and other news. You can unsubscribe from any or all PETA e-mail lists at any time by following the instructions included in each e-mail, or by e-mailing [peta2@peta2.com](mailto:peta2@peta2.com). The information that we gather from subscribers to our e-news lists (including e-mail addresses) is not shared with other non-PETA-affiliated organizations or companies. From time to time, we may send out e-mail messages that include information about these like-minded organizations and companies, but we do not provide them with access to any personal information that you have provided. If you live outside the United States and provide us with your contact information, we may share it with PETA’s international affiliates in order to keep you aware of developments in animal protection activities in your part of the world. If you don’t want your information to be given to PETA’s international affiliates, please e-mail [peta2@peta2.com](mailto:peta2@peta2.com).
+If you have any questions about PETA e-news, please e-mail [Info@peta.org](mailto:info@peta.org).
 
-In order to provide you with better and more relevant information, we compile information about e-mail response and Web site usage. This information helps us better understand site usage patterns as well as what types of content and information may help improve your user experience on peta2′s Web site.
+ **How does PETA protect my information?**
 
-All e-mail messages sent to e-mail newsletter subscribers contain a link to unsubscribe or modify your profile. You may subscribe or unsubscribe to any e-news or e-mail communication from peta2 at any time.
+PETA is extremely protective of the information gathered through its membership and websites. Our websites have security measures in place to protect against the loss, misuse, or alteration of the information under our control. Our Web server is located in a locked, secure environment.
 
-If you have any questions about peta2 e-news, please e-mail [peta2@peta2.com](mailto:peta2@peta2.com).
+When you contribute to PETA online or make a purchase through the PETA Catalog, we use a secure server and encryption to protect your financial and other personal information during transmission.
 
-**How does peta2 protect your information?**
+ **Does PETA rent, sell, or trade my information?**
 
-We at peta2 are extremely protective of the information gathered through our peta2 membership and Web site. Our Web site has security measures in place to protect against the loss, misuse, or alteration of the information under our control. Our Web server is located in a locked, secure environment.
+PETA occasionally makes the names and postal addresses of donors available to reputable advocacy and nonprofit organizations and commercial companies.
 
-When you contribute to peta2 online or make a purchase through the PETA catalog, we use a secure server and encryption to protect your financial and other personal information during transmission.
+If you are a PETA donor and you don’t want to have your information exchanged with other organizations and companies, please e-mail us at [Donations@peta.org](mailto:Donations@peta.org) or call us at 757-622-7382 to speak to one of our membership service representatives. Nondonors can e-mail [Info@peta.org](mailto:Info@peta.org) to manage their e-mail preferences.
 
-**What is Slaask?**
+The easiest way to correct or change other information regarding your membership is to visit the [members’ section](https://www.peta.org/donate/membership-services/information/) of our website. You can also contact our membership services at [Donations@peta.org](mailto:Donations@peta.org) or 757-622-7382.
 
-Slaask is third party software that you can use to have a quick chat with us. By chatting with us using Slaask, you’re agreeing to Slaask’s collection, storage, and sharing of the information you send to us using Slaask in accordance with the Slaask privacy policy, and are also acknowledging that you’ve read and agree to the Slaask [Terms of Service](https://get.slaask.com/wp-content/uploads/2016/07/Slaask-SAAS-services-agreement.pdf) and [Privacy Policy](https://get.slaask.com/privacy-policy/).
+If you are not a PETA member and you have provided personal contact information on one of our websites through the methods listed above, your information will not be exchanged with organizations that are not affiliated with PETA. If you live outside the U.S., we may share your contact details with PETA’s international affiliates as described above. Please e-mail [Info@peta.org](mailto:info@peta.org) if you don’t want your information to be shared in this manner.
 
-**Additional questions?**
+Please be aware that your personal information may be transferred to U.S.-based third party service providers that we engage to support our activities. We take reasonable measures to ensure that any personal information collected, used, disclosed, or otherwise processed by us or by these service providers on our behalf is protected and not used or disclosed for purposes other than as directed by us, subject to applicable federal legal requirements, such as, for example, lawful requirements to disclose personal information to government authorities.
 
-If you have any questions about our privacy policy, the information that we have collected from you online, the practices of this site, or your interaction with this Web site, e-mail [peta2@peta2.com](mailto:peta2@peta2.com).
+ **Additional questions?**
+
+If you have any questions about our privacy policy, the information that we have collected from you online, the practices of this site, or your interaction with this website, please e-mail [Info@peta.org](mailto:Info@peta.org).
+
+You can also reach us via postal mail at:
+
+ **PETA** **  
+** 501 Front St.  
+Norfolk, VA 23510 ****
