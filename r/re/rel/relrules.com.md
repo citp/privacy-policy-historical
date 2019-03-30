@@ -1,10 +1,8 @@
-> *The following text is extracted and transformed from the relrules.com privacy policy that was archived on 2017-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171222053223id_/http%3A//www.relrules.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the relrules.com privacy policy that was archived on 2019-03-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190330093308id_/https%3A//www.relrules.com/privacy-policy) for the most accurate reproduction.*
 
-# Stories
+# Privacy Policy
 
-## Privacy Policy
-
-This Privacy Policy governs the manner in which Relationship Rules collects, uses, maintains and discloses information collected from users (each, a "User") of the http://www.relrules.com website ("Site").
+This Privacy Policy governs the manner in which Relationship Rules collects, uses, maintains and discloses information collected from users (each, a “User”) of the https://www.relrules.com website (“Site”).
 
 Personal identification information
 
@@ -14,21 +12,19 @@ We may collect non-personal identification information about Users whenever they
 
 Web browser cookies
 
-Our Site may use "cookies" to enhance User experience. User's web browser places cookies on their hard drive for record-keeping purposes and sometimes to track information about them. User may choose to set their web browser to refuse cookies, or to alert you when cookies are being sent. If they do so, note that some parts of the Site may not function properly.
+Our Site may use “cookies” to enhance User experience. User’s web browser places cookies on their hard drive for record-keeping purposes and sometimes to track information about them. User may choose to set their web browser to refuse cookies, or to alert you when cookies are being sent. If they do so, note that some parts of the Site may not function properly.
 
 How we use collected information
 
 Relationship Rules may collect and use Users personal information for the following purposes:
 
-  * To run and operate our Site  
-
+  * To run and operate our Site
 
 
 
 We may need your information display content on the Site correctly.
 
-  * To send periodic emails  
-
+  * To send periodic emails
 
 
 
@@ -44,7 +40,7 @@ We may share or sell information with third parties for marketing or other purpo
 
 Sharing your personal information
 
-This Privacy Policy governs the manner in which Relationship Rules collects, uses, maintains and discloses information collected from users (each, a "User") of the http://www.relrules.com website ("Site").
+This Privacy Policy governs the manner in which Relationship Rules collects, uses, maintains and discloses information collected from users (each, a “User”) of the https://www.relrules.com website (“Site”).
 
 Personal identification information
 
@@ -56,21 +52,19 @@ We may collect non-personal identification information about Users whenever they
 
 Web browser cookies
 
-Our Site may use "cookies" to enhance User experience. User's web browser places cookies on their hard drive for record-keeping purposes and sometimes to track information about them. User may choose to set their web browser to refuse cookies, or to alert you when cookies are being sent. If they do so, note that some parts of the Site may not function properly.
+Our Site may use “cookies” to enhance User experience. User’s web browser places cookies on their hard drive for record-keeping purposes and sometimes to track information about them. User may choose to set their web browser to refuse cookies, or to alert you when cookies are being sent. If they do so, note that some parts of the Site may not function properly.
 
 How we use collected information
 
 Relationship Rules may collect and use Users personal information for the following purposes:
 
-  * To run and operate our Site  
-
+  * To run and operate our Site
 
 
 
 We may need your information display content on the Site correctly.
 
-  * To send periodic emails  
-
+  * To send periodic emails
 
 
 
@@ -90,7 +84,7 @@ If User decides to opt-in to our mailing list, they will receive emails that may
 
 Third party websites
 
-Users may find advertising or other content on our Site that link to the sites and services of our partners, suppliers, advertisers, sponsors, licensors and other third parties. We do not control the content or links that appear on these sites and are not responsible for the practices employed by websites linked to or from our Site. In addition, these sites or services, including their content and links, may be constantly changing. These sites and services may have their own privacy policies and customer service policies. Browsing and interaction on any other website, including websites which have a link to our Site, is subject to that website's own terms and policies.
+Users may find advertising or other content on our Site that link to the sites and services of our partners, suppliers, advertisers, sponsors, licensors and other third parties. We do not control the content or links that appear on these sites and are not responsible for the practices employed by websites linked to or from our Site. In addition, these sites or services, including their content and links, may be constantly changing. These sites and services may have their own privacy policies and customer service policies. Browsing and interaction on any other website, including websites which have a link to our Site, is subject to that website’s own terms and policies.
 
 Advertising
 
@@ -98,7 +92,7 @@ Ads appearing on our site may be delivered to Users by advertising partners, who
 
 Google Adsense
 
-Some of the ads may be served by Google. Google's use of the DART cookie enables it to serve ads to Users based on their visit to our Site and other sites on the Internet. DART uses "non personally identifiable information" and does NOT track personal information about you, such as your name, email address, physical address, etc. You may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at http://www.google.com/privacy_ads.html
+Some of the ads may be served by Google. Google’s use of the DART cookie enables it to serve ads to Users based on their visit to our Site and other sites on the Internet. DART uses “non personally identifiable information” and does NOT track personal information about you, such as your name, email address, physical address, etc. You may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at http://www.google.com/privacy_ads.html
 
 Changes to this privacy policy
 
