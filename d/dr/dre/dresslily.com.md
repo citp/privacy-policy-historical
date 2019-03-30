@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dresslily.com privacy policy that was archived on 2018-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181230055800id_/https%3A//www.dresslily.com/m-article-id-27.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dresslily.com privacy policy that was archived on 2019-03-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190330092758id_/https%3A//www.dresslily.com/m-article-id-27.htm) for the most accurate reproduction.*
 
 # Privacy Policy - DressLily.com
 
