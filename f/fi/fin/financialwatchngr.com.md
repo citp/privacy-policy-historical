@@ -1,35 +1,69 @@
-> *The following text is extracted and transformed from the financialwatchngr.com privacy policy that was archived on 2018-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180514235838id_/https%3A//www.financialwatchngr.com/privacy-policy-2) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the financialwatchngr.com privacy policy that was archived on 2019-03-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190330104356id_/https%3A//www.financialwatchngr.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Financial Watch
+# Privacy Policy » Financial Watch
 
-We take your privacy seriously. This privacy policy describes what personal information we collect and how we use it on **FINANCIAL WATCH** [financialwatchngr.com]
+## Who we are
 
-## Routine Information Collection
+Our website address is: https://www.financialwatchngr.com.
 
-All web servers track basic information about their visitors. This information includes, but is not limited to, IP addresses, browser details, timestamps and referring pages. None of this information can personally identify specific visitors to this site. The information is tracked for routine administration and maintenance purposes, and lets me know what pages and information are useful and helpful to visitors.
+## What personal data we collect and why we collect it
 
-## Cookies and Web Beacons
+### Comments
 
-Where necessary, this site uses cookies to store information about a visitor’s preferences and history in order to better serve the visitor and/or present the visitor with customized content. Advertising partners and other third parties may also use cookies, scripts and/or web beacons to track visitors to our site in order to display advertisements and other useful information. Such tracking is done directly by the third parties through their own servers and is subject to their own privacy policies.
+When visitors leave comments on the site we collect the data shown in the comments form, and also the visitor’s IP address and browser user agent string to help spam detection.
 
-## Controlling Your Privacy
+An anonymized string created from your email address (also called a hash) may be provided to the Gravatar service to see if you are using it. The Gravatar service privacy policy is available here: https://automattic.com/privacy/. After approval of your comment, your profile picture is visible to the public in the context of your comment.
 
-Note that you can change your browser settings to disable cookies if you have privacy concerns. Disabling cookies for all sites is not recommended as it may interfere with your use of some sites. The best option is to disable or enable cookies on a per-site basis. Consult your browser documentation for instructions on how to block cookies and other tracking mechanisms.
+### Media
 
-## Special Note About Google Advertising
+If you upload images to the website, you should avoid uploading images with embedded location data (EXIF GPS) included. Visitors to the website can download and extract any location data from images on the website.
 
-Any advertisements served by Google, Inc., and affiliated companies may be controlled using cookies. These cookies allow Google to display ads based on your visits to this site and other sites that use Google advertising services. Learn how to opt out of Google’s cookie usage. As mentioned above, any tracking done by Google through cookies and other mechanisms is subject to Google’s own privacy policies.
+### Contact forms
 
-About Google advertising: What is the Double Click DART cookie? The Double Click DART cookie is used by Google in the ads served on publisher websites displaying AdSense for content ads. When users visit an AdSense publisher’s website and either view or click on an ad, a cookie may be dropped on that end user’s browser. The data gathered from these cookies will be used to help AdSense publishers better serve and manage the ads on their site(s) and across the web. Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy.
+### Cookies
 
-## Contact Information
+If you leave a comment on our site you may opt-in to saving your name, email address and website in cookies. These are for your convenience so that you do not have to fill in your details again when you leave another comment. These cookies will last for one year.
 
-Concerns or questions about this privacy policy can be directed to admin financialwatchngr.com for further clarification.
+If you have an account and you log in to this site, we will set a temporary cookie to determine if your browser accepts cookies. This cookie contains no personal data and is discarded when you close your browser.
 
-1) A word filter has been put in place to prevent forum members from using sexually explicit words in their posts.
+When you log in, we will also set up several cookies to save your login information and your screen display choices. Login cookies last for two days, and screen options cookies last for a year. If you select “Remember Me”, your login will persist for two weeks. If you log out of your account, the login cookies will be removed.
 
-2) Our Members have been informed that they need to keep their words clean if the Website is to survive.
+If you edit or publish an article, an additional cookie will be saved in your browser. This cookie includes no personal data and simply indicates the post ID of the article you just edited. It expires after 1 day.
 
-3) A privacy policy has been drafted for **FINANCIAL WATCH**. See [http://www. financialwatchngr.com /privacy-policy-2/](http://www.financialwatchngr.com/privacy-policy-2/)
+### Embedded content from other websites
 
-We are ready to do whatever may be additionally required to make my site fully complaint with your policies.
+Articles on this site may include embedded content (e.g. videos, images, articles, etc.). Embedded content from other websites behaves in the exact same way as if the visitor has visited the other website.
+
+These websites may collect data about you, use cookies, embed additional third-party tracking, and monitor your interaction with that embedded content, including tracing your interaction with the embedded content if you have an account and are logged in to that website.
+
+### Analytics
+
+## Who we share your data with
+
+## How long we retain your data
+
+If you leave a comment, the comment and its metadata are retained indefinitely. This is so we can recognize and approve any follow-up comments automatically instead of holding them in a moderation queue.
+
+For users that register on our website (if any), we also store the personal information they provide in their user profile. All users can see, edit, or delete their personal information at any time (except they cannot change their username). Website administrators can also see and edit that information.
+
+## What rights you have over your data
+
+If you have an account on this site, or have left comments, you can request to receive an exported file of the personal data we hold about you, including any data you have provided to us. You can also request that we erase any personal data we hold about you. This does not include any data we are obliged to keep for administrative, legal, or security purposes.
+
+## Where we send your data
+
+Visitor comments may be checked through an automated spam detection service.
+
+## Your contact information
+
+## Additional information
+
+### How we protect your data
+
+### What data breach procedures we have in place
+
+### What third parties we receive data from
+
+### What automated decision making and/or profiling we do with user data
+
+### Industry regulatory disclosure requirements
