@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the earnthenecklace.com privacy policy that was archived on 2018-09-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180924102852id_/https%3A//www.earnthenecklace.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the earnthenecklace.com privacy policy that was archived on 2019-03-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190330095422id_/https%3A//www.earnthenecklace.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
