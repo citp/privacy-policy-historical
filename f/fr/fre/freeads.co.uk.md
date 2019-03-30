@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the freeads.co.uk privacy policy that was archived on 2018-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181230215850id_/https%3A//freeads.zendesk.com/hc/en-us/articles/203180471-Privacy-Policy-Cookie-Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freeads.co.uk privacy policy that was archived on 2019-03-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190330091725id_/https%3A//freeads.zendesk.com/hc/en-us/articles/203180471-Privacy-Policy-Cookie-Policy) for the most accurate reproduction.*
 
 # Privacy, Cookie & Data Policy – Freeads Help Center
 
