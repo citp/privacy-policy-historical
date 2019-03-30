@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the titleist.com privacy policy that was archived on 2017-11-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171107234321id_/http%3A//www.titleist.com/company/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the titleist.com privacy policy that was archived on 2019-03-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190330202705id_/https%3A//www.titleist.com/company/privacy-policy) for the most accurate reproduction.*
 
 # Acushnet Company Privacy Policy | Titleist
 
-Effective Date: 2007 Last Update: 03/01/2017
+Effective Date: 2007 Last Update:07/06/2018
 
 ### This platform Privacy Policy applies to the platforms and apps where it appears.
 
@@ -24,7 +24,7 @@ This platform Policy describes how we treat personal information on the platform
 
 **We collect information directly from you.** For example, if you sign up for our emails or make a purchase. We also collect information if you contact us.
 
-**We collect information from you passively.** We use tracking tools like browser cookies and web beacons to collect information from you. We collect information about users over time when you use this platform. We may have third parties collect personal information this way. We also collect information from our mobile apps. Learn more about these tools and how you can control them, [here](https://web.archive.org/company/cookie-policy).
+**We collect information from you passively.** We use tracking tools like browser cookies and web beacons to collect information from you. We collect information about users over time when you use this platform. We may allow third parties to collect personal information this way. These third parties may collect information about your online activities over time and across different websites when you use our platforms. We also collect information from our mobile apps. Learn more about these tools and how you can control them, [here](https://web.archive.org/company/cookie-policy).
 
 **We collect information from your friends.** We may collect information if someone uses the Tell-a-Friend feature. This may include your name and email address.
 
@@ -64,11 +64,12 @@ This platform Policy describes how we treat personal information on the platform
 
 If you object to our use of your information for direct marketing purposes, please email us at privacypolicy@acushnetgolf.com.
 
-**You can control certain cookies and tracking tools.** To learn how to manage how we – and our vendors – use cookies and other tracking tools, and to read our Do Not Track policy, please [click here](https://web.archive.org/company/cookie-policy).
+**You can control certain cookies and tracking tools.** To learn how to manage how we – and our vendors – use cookies and other tracking tools, and to read our Ad and Cookie Policy, please [click here](https://web.archive.org/company/cookie-policy). Our Do Not Track Policy: Some websites have "do not track" features that allow you to tell a website not to track you. These features are not all uniform. We do not currently respond to those signals. If you block cookies, certain features on our sites may not work. If you block or reject cookies, not all of the tracking described here will stop. Options you select are browser and device specific.  
+
 
 ### These platforms are not intended for children.
 
-Our platforms are meant for adults. We do not knowingly collect personally identifiable information from children under the age of 13 without permission from a parent or guardian. If you are a parent or legal guardian and think your child under 13 has given us information, you can email us at privacypolicy@acushnetgolf.com. You can also write to us at the address listed at the end of this policy. Please mark your inquiries "COPPA Information Request." Parents, to learn more about how to protect your children online, go [here](https://www.consumer.ftc.gov/articles/0031-protecting-your-childs-privacy-online).
+Our platforms are meant for adults. We do not knowingly collect personally identifiable information from children under the age of 13 without permission from a parent or guardian. If you are a parent or legal guardian and think your child under 13 has given us information, you can email us at privacypolicy@acushnetgolf.com. You can also write to us at the address listed at the end of this policy. Please mark your inquiries "COPPA Information Request." Parents, to learn more about how to protect your children online, go here.
 
 ### We use standard security measures.
 
@@ -85,6 +86,10 @@ We keep personal information as long as it is necessary or relevant for the prac
 ### We may link to third party platforms or services we don't control.
 
 This platform may contain links to other platforms. We are not responsible for the privacy practices of other platforms. We encourage our users to be aware when they leave our platform. Read the privacy statements of other platforms carefully. This privacy statement applies solely to information collected by this platform.
+
+### Your California Privacy Rights
+
+California residents are permitted by California law to request information about the manner in which we share certain categories of information with others for their marketing purposes. We may share your personal information with third parties for their direct marketing purposes and as described in this Privacy Policy. Please email us at privacypolicy@acushnetgolf.com to request this disclosure.
 
 ### Feel free to contact us if you have more questions.
 
