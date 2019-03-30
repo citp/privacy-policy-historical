@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the tfrrs.org privacy policy that was archived on 2017-09-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170910074654id_/https%3A//xc.tfrrs.org/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tfrrs.org privacy policy that was archived on 2019-03-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190330225638id_/https%3A//www.tfrrs.org/privacy.html) for the most accurate reproduction.*
 
 # TFRRS | Track & Field Results Reporting System
+
+[ ](https://www.tfrrs.org/)
 
   
 We are committed to safeguarding the online privacy of our users, and recognize the importance of protecting the privacy of personal information collected. This policy may change from time to time, so please check back periodically. 
