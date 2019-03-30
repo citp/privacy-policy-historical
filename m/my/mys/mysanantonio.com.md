@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the mysanantonio.com privacy policy that was archived on 2018-09-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180916181338id_/https%3A//www.mysanantonio.com/about_us/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mysanantonio.com privacy policy that was archived on 2019-03-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190330104048id_/https%3A//www.mysanantonio.com/about_us/privacy_policy) for the most accurate reproduction.*
 
 # Privacy Policy | mySanAntonio.com | SA Express-News - San Antonio Express-News
 
 **Last Updated: May 24, 2018**
 
-When you use or interact with a U.S. website, mobile app or other digital service (each a “Digital Service”) operated or owned by MySA, a publication of Hearst Newspapers, LLC, we and third parties may obtain certain information about you. In this Highlights section, we provide an overview of our privacy practices related to the Digital Services. Please review our full [Privacy Notice](https://web.archive.org/web/20180916181338id_/https://www.mysanantonio.com/about_us/about_us/privacy_policy/) below for a detailed explanation of our practices.
+When you use or interact with a U.S. website, mobile app or other digital service (each a “Digital Service”) operated or owned by MySA, a publication of Hearst Newspapers, LLC, we and third parties may obtain certain information about you. In this Highlights section, we provide an overview of our privacy practices related to the Digital Services. Please review our full [Privacy Notice](https://web.archive.org/web/20190330104048id_/https://www.mysanantonio.com/about_us/about_us/privacy_policy/) below for a detailed explanation of our practices.
 
 ### What Information We Obtain
 
