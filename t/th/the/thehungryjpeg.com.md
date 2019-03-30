@@ -1,119 +1,126 @@
-> *The following text is extracted and transformed from the thehungryjpeg.com privacy policy that was archived on 2017-09-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170929151703id_/https%3A//thehungryjpeg.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thehungryjpeg.com privacy policy that was archived on 2019-03-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190330155640id_/https%3A//thehungryjpeg.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | TheHungryJPEG.com
 
-This Privacy Policy was last modified on 1st September 2017 and first published and made effective as at 1st September 2017.
+## PRIVACY POLICY – USERS AND VISITORS
 
-123RF Europe B.V. (“ **We** ” or “ **Us** ”) are committed to protecting and respecting your privacy.
+We hereby inform you on Our current policies and practices applicable to the processing of your personal data (“Personal Data”) collected by Inmagine Group through the website <https://thehungryjpeg.com/> (the “ **Website** ”). 
 
-This policy (together with our terms of use and any other documents referred to on it) sets out the basis on which any personal data we collect from you, or that you provide to us, will be processed by us. Please read the following carefully to understand our views and practices regarding your personal data and how we will treat it.
+**Essential Information**
 
-For the purpose of the Data Protection Act 1998 (the “ **Act** ”), the data controller is 123RF Europe B.V., Westerdok 146, 1013BH, Amsterdam, Netherlands
+TheHungryJPEG.com is one of the websites being operated by the relevant entity within Inmagine Group which comprises of various legal entities throughout the world. 
 
-Information we may collect from you
+Designs.net Pte. Ltd. entity acting as data controller for the processing of your Personal Data will depend on how you interact with the Website where you are located and on the entity that have a relationship with you, as the case may be. The relevant Inmagine Group entities are referred to as “ **Inmagine Group** ”, “ **Our** ”, “ **We** ” or “ **Us** ” in this privacy policy.
 
-We may collect and process the following data about you:
+For any general queries you may contact Us at: [hello@thehungryjpeg.com](mailto:hello@thehungryjpeg.com).
 
-\- Information that you provide by filling in forms on our site thehungryjpeg.com, our email newsletter and any purchases made through our website. We do not hold any payment information. 
+**What does this Privacy Policy covers?**
 
-This includes information provided at the time of registering to use our site, subscribing to our service, posting material or requesting further services. We may also ask you for information when you report a problem with our site. 
+This privacy policy generally describes, _inter alia_ , the Personal Data We may collect from you, the processing of such Personal Data and your rights in relation thereto. 
 
-\- If you contact us, we may keep a record of that correspondence. 
+**Information We may collect from you**
 
-\- We may also ask you to complete surveys that we use for research purposes, although you do not have to respond to them. 
+The term Personal Data refers to the data you provide to Us through the Website and may vary depending on the type of relationship you have with Us. Personal Data include:
 
-\- Details of transactions you carry out through our site and of the fulfilment of your orders. 
+_Browsing data_
 
-\- Details of your visits to our site including, but not limited to, traffic data, location data, weblogs and other communication data, whether this is required for our own billing purposes or otherwise and the resources that you access.
+The information systems and software procedures used to operate this Website acquire personal data as part of their standard functioning. The transmission of such data is an inherent feature of Internet communication protocols. This data category includes, among other things, the IP addresses and/or the domain names of the computers and terminal equipment used by any user, the location of the devices, the URI/URL ( _Uniform Resource Identifier/Locator_ ) addresses of the requested resources, the time of such requests, the method used for submitting a given request to the server, returned file size, a numerical code relating to server response status (successfully performed, error, etc.) and other parameters related to the users’ operating system and computer environment.
 
-IP addresses and cookies
+_Registration profile_
 
-We may collect information about your computer, including where available your IP address, operating system and browser type, for system administration and to report aggregate information to our advertisers. This is statistical data about our users’ browsing actions and patterns, and does not identify any individual.
+If you decide to create an account on the Website, you may be required to provide Us your Personal Data such as name, username, e-mail address and billing address with the submission of the registration form. You may also include additional Personal Data such as surname, address, telephone number and date of birth.
 
-For the same reason, we may obtain information about your general internet usage by using a cookie file which is stored on the hard drive of your computer. Cookies contain information that is transferred to your computer’s hard drive. They help us to improve our site and to deliver a better and more personalised service. They enable us:
+If you decide to create an account through your existing profile in a social network (e.g., Facebook), you may be required to share Personal Data such as information of your public profile, (including name, surname and image) and e-mail address.
 
-\- To estimate our audience size and usage pattern. 
+_Financial information and billing details_
 
-\- To store information about your preferences, and so allow us to customise our site according to your individual interests. 
+If you purchase or subscribe any of Our products and/or services, you will also be required to provide Us Personal Data related to payments and billing, including name, surname, address, zip code, telephone number, e-mail address, billing address, as well as credit card details, or Paypal account or bank details. We do not store credit card details or PayPal account or bank details. Upon the completion of the purchase or subscribe of Our products and/or services, We collect transaction details from the payment gateway provider only. 
 
-\- To speed up your searches. 
+_Details under the “Contact Us” section_
 
-\- To recognise you when you return to our site.
+When you contact Us through the Website, you may be required to provide Us your Personal Data such as name, e-mail address and, at your own discretion, other information you decide to share with Us, that We may collect from you.
 
-You may refuse to accept cookies by activating the setting on your browser which allows you to refuse the setting of cookies. However, if you select this setting you may be unable to access certain parts of our site. Unless you have adjusted your browser setting so that it will refuse cookies, our system will issue cookies when you log on to our site.
+_Recruitment_
 
-\- We do not store personal or financial information in the processes of payment, nor did we share this information with 3rd parties.
+If you submit information about you via the career section of Our Website or apply for a position, We will collect and process the information which you have submitted for considering your application and all other recruitment purposes. 
 
-Third Party Services
+_Cookies_
 
-TheHungryJPEG uses third party analytical services including Google Analytics to help understand customer behaviour, to enhance user experience on our website. These services collect the information sent by your browser as part of a web page request, including cookies and your IP address. Their use of this information is governed by their own Privacy Policy.
+We use cookies and similar technologies or tools to collect information about your activities on Our Website, including to use social media features or services on Our Website which may enable you to connect with Our social media page or share any promotional activities with your friends and social networks. Detailed information on the cookies We use and the purpose for which We use them are set out in Our [Cookie Policy](http://thehungryjpeg.com/cookie-policy).
 
-Where we store your personal data
+**How do We use your information and why?**
 
-All information you provide to us is stored on our secure servers. Where we have given you (or where you have chosen) a password which enables you to access certain parts of our site, you are responsible for keeping this password confidential. We ask you not to share a password with anyone. This password is fully encrypted on our database, and cannot be viewed by any member of TheHungryJPEG.com team.
+Your Personal Data will be collected and processed for the following purposes: 
 
-Unfortunately, the transmission of information via the internet is not completely secure. Although we will do our best to protect your personal data, we cannot guarantee the security of your data transmitted to our site; any transmission is at your own risk. Once we have received your information, we will use strict procedures and security features to try to prevent unauthorised access.
+_Categories of data:_ | _Purposes of processing_ | _Legal basis:_  
+---|---|---  
+Browsing data |  To extract statistical information on service usage (most visited pages, visitors by time/date, geographical areas of origin, etc.) and to check the functioning of the services.  |  Legitimate interest of the data controller to analyse and improve the performance of its services and to prevent crimes and frauds   
+Registration/creation of the profile  |  To process the creation of your account and profile on the Website and to provide or allow you the access certain areas, functions (e.g., processing the contents submitted by you and displaying your contents on Our Website) and features of Our Website.  |  Consent   
+Biographical data, financial information and billing details  | To provide you with the products and/or services you purchased or subscribed to, as well as processing transactions and payments in connection therewith. | Execution of the agreement  
+For administrative purposes connected with the performance of the commercial relationship with you or the fulfillment of legal requirements (e.g., accounting or tax requirements) or for complying with any requests from the competent authorities.  |  Compliance with a legal obligation to which We are subject or, in the event there is no such legal obligation, Our legitimate interest to keep adequate records in connection with the execution of the commercial relationship   
+To share the Personal Data with the other Inmagine Group’s companies within the European Economic Area (EEA) for internal administrative and accounting purposes. | Legitimate interest for transmitting Personal Data within the group of undertakings for internal administrative purposes, including the processing of customers’ Personal Data  
+Biographical data and contact details  |  To contact you with information about current or new products, commercial opportunities, promotions and services or events sponsored by us that may deem of interest to you, as well as to verify customer satisfaction and to carry out market researches, analyses and surveys, and also to allow you to participate to prize contests, rewards, trips and/or receive gifts.  |  Consent   
+To respond to your queries and questions and to provide any information you require (e.g., information and suggestion about products) in the section “Contact Us”  |  Consent   
+  
+The submission of your Personal Data is not mandatory. Any refusal to provide the consent will not have any effect other than Our inability to provide you the products and/or services. In such situation, We shall not be liable for any losses, liabilities and damages whatsoever and howsoever arising thereof. 
 
-Uses made of the information
+At any time, you have the right to withdraw your consent.
 
-We use information held about you in the following ways: \- To ensure that content from our site is presented in the most effective manner for you and for your computer. 
+**Information We may share and data recipients**
 
-\- To provide you with information, products or services that you request from us or which we feel may interest you, where you have consented to be contacted for such purposes. 
+Your Personal Data are processed by Our personnel and, if necessary or functional to fulfilling the purposes indicated above, your Personal Data may be processed by third parties that may be appointed by Us as data processors. 
 
-\- To carry out our obligations arising from any contracts entered into between you and us. 
+The categories of recipients to whom your Personal Data may be disclosed are the following: 
 
-\- To allow you to participate in interactive features of our service, when you choose to do so. 
+  * a. third parties such as (i) IT providers; (ii) financial institutions or payment gateway providers in connection with the processing of financial and payment information; (iii) marketing agencies to carry out marketing campaigns, surveys and promotions; (iv) legal, accounting, tax, labour consultants and other professionals; (v) other Inmagine Group companies within the European Economic Area (EEA), and
+  * b. public entities and authorities, exclusively for the purpose of fulfilling legal and regulatory obligation.
 
-\- To notify you about changes to our service.
 
-If you are an existing customer, or have joined our mailer list we will only contact you by electronic means (e-mail or SMS) with information about goods and services similar to those, which were the subject of a previous sale to you.
 
-If you do not want us to use your data in this way, or to pass your details on to third parties for marketing purposes, please email hello@thehungryjpeg.com and your entry will be removed.
+Under certain circumstances, your Personal Data may be transferred outside the European Economic Area (EEA) to other Inmagine Group companies or to third parties data processors. In such cases, We ensure that We have adopted appropriate safeguards, including binding corporate rules or standard data protection clauses adopted by the European Commission, in order to guarantee the data subjects with an adequate level of protection. 
 
-Disclosure of your information
+**Retention of your Personal Data**
 
-We will share your Personal Information to third parties only in the ways that are described in this Privacy Policy.
+Data are retained as long as necessary for the performance of the services provided by the Website and to comply with legal obligations (including, auditing or taxation purposes), to meet regulatory requirements, resolve disputes, maintain security, and/or to prevent frauds and abuse.
 
-We may disclose your personal information to third parties:
+In relation to Personal Data of your profile, We will retain the same as long as your account with Us is still active. If you choose to close the account or if your account is closed, We will delete your Personal Data and information within 30 days. This is without prejudice to Our right to retain the information (such as username and transaction details) to comply with legal obligations, prevent frauds and protect its legal interest.
 
-\- In the event that we sell or buy any business or assets, in which case we may disclose your personal data to the prospective seller or buyer of such business or assets.
+In case you have given your consent for marketing activities, your Personal Data will be retained for a reasonable period or not more than 2 years after each collection.
 
-\- If 123RF Europe B.V. or substantially all of its assets are acquired by a third party, in which case personal data held by it about its customers will be one of the transferred assets.
+**Security**
 
-\- If we are under a duty to disclose or share your personal data in order to comply with any legal obligation, or in order to enforce or apply our terms of use or terms and conditions of supply and other agreements; or to protect the rights, property, or safety of 123RF Europe B.V., our customers, or others. This includes exchanging information with other companies and organisations for the purposes of fraud protection and credit risk reduction.
+We treat the security for all information submitted or provided by you to Us seriously and is of importance to Us. We will take reasonable steps to protect or secure this data, including Personal Data. Accordingly, We may require Our employees or third-party service providers to assist Us in implementing or applying appropriate securities measures (such as firewalls, penetration testing and etc). You are also advised not to disclose and secure your own user name and password. 
 
-Your rights
+**Your Rights**
 
-You have the right to ask us not to process your personal data for marketing purposes. We will usually inform you (before collecting your data) if we intend to use your data for such purposes. You can exercise your right to prevent such processing by contacting us at hello@thehungryjpeg.com
+You have the right to obtain from Us confirmation whether your Personal Data are being processed by Us, and, in said circumstances, you have the right to request access to and rectification or erasure of the same or restriction of processing, and to object to the processing at any time, as well as under certain circumstances the right to data portability. With respect to the data portability, you have the right to receive your Personal Data in a structured, commonly used and machine-readable format and to request the transmission of said data.
 
-Our site may, from time to time, contain links to and from the websites of our partner networks, advertisers and affiliates. If you follow a link to any of these websites, please note that these websites have their own privacy policies and that we do not accept any responsibility or liability for these policies. Please check these policies before you submit any personal data to these websites.
+If you have subscribed to or opted-in to receive Our marketing communications you can opt-out at any time, free of charge, requesting that your Personal Data not be used for marketing purposes.
 
-Compromise of Information
+You may exercise any of the above rights by contacting Us at [hello@thehungryjpeg.com](mailto:hello@thehungryjpeg.com).
 
-In the event that personal information is compromised as a result of a breach of security, we will promptly notify those persons whose personal information has been compromised.
+In the event of a breach of applicable EEA data protection laws you have also the right to file a complaint with the competent data protection authority.
 
-Underage Privacy Policy
+**Links to Third Party Website(s)**
 
-Protecting the privacy of young children is extremely important. Because of this, we do not knowingly collect or solicit personal information from anyone under the age of 13. Neither do we knowingly allow such persons to register as Members. 
+Our Website or any products/services being rendered to you may contain links to other websites that are not operated by Us and whose privacy practices may differ from Us. If you click on a third-party link, you may be directed to the third-party website. Any submission of your Personal Data to any of those third-party websites will be governed by the relevant third-parties’ privacy policies. We have no control and shall not assume any responsibilities howsoever arising thereof and We strongly advise you to carefully read the privacy policies prior to the disclosing of any information. 
 
-If you are under the age of 13, we ask for you not to send in any information about yourself to any member of our team. This includes your name, address, telephone number or email address. 
+_Advertising_
 
-In the event of this information being received or published on our website, without verification or parental consent, we will delete that information as quickly as possible. Should you believe we may have information on a child under the age of 13, please do contact us on hello@thehungryjpeg.com
+We may, from time to time, partner with a third party to display Our’s or third party’s advertisement(s) on Our Website or engaging third party to manage Our advertising on Our Website. For more detailed information, please refer to Our [Cookie Policy](http://thehungryjpeg.com/cookie-policy).
 
-Access to information
+**Mobile Applications or Mobile Website**
 
-You have the right to access your Personal Information and amend your Personal Information at any time. This may be carried out by logging into your account at <https://thehungryjpeg.com/index.php>
+We may provide Our products or services to you via our mobile applications or mobile website that is designed to be used on mobile computing devices (the “ **Applications** ”). You may be required to log in to Our mobile applications or mobile website with your user name and password in order to allow you to associate with the user account you have created on Our Website. The processing of Personal Data information therein will also be governed in accordance with this Privacy Policy and Our Cookie Policy. 
 
-Changes to our privacy policy
+**Contact Us**
 
-Any changes we may make to our privacy policy in the future will be posted on this page and, where appropriate, notified to you by e-mail.
+If you: (i) have any questions, queries, inquiries or comments on Our Privacy Policy; (ii) have any concerns about how We process your Personal Data; (iii) would like to opt out of direct marketing activities; (iv) would like Us to update information or preferences you have provided to Us; or (v) have any other issues relating to this privacy policy, you may get in touch with us at [hello@thehungryjpeg.com](mailto:hello@thehungryjpeg.com).
 
-Contact
+In the event you have any complaints you may also contact Us at [privacy@123rf.com](mailto:privacy@123rf.com).
 
-Questions, comments and requests regarding this privacy policy are welcomed and should be addressed to [hello@thehungryjpeg.com](mailto:hello@thehungryjpeg.com)
+**Changes to this Privacy Policy**
 
-123RF Europe B.V.  
-Westerdok 146,  
-1013BH  
-Amsterdam  
-Netherlands
+We will keep this Privacy Policy under regular review and We may update this Privacy Policy from time to time. The updated version shall apply and supersede all previous versions. Hence, it is advisable that you check this Privacy Policy on a regular basis.
+
+_Last updated: 08 March 2019_
