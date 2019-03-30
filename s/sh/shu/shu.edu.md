@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the shu.edu privacy policy that was archived on 2018-10-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181015195325id_/http%3A//www.shu.edu/web/privacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shu.edu privacy policy that was archived on 2019-03-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190330115512id_/https%3A//www.shu.edu/web/privacy.cfm) for the most accurate reproduction.*
 
 # Privacy Statements - Seton Hall University
 
@@ -47,7 +47,7 @@ Seton Hall processes your personal information for the following purposes:
   * Communicate and provide additional information that may be of interest to users through email or other means, such as announcements and marketing materials;
   * Conduct online research surveys regarding the Site and/or Services;
   * Combine datasets to create aggregated data for internal evaluation and analysis;
-  * Share anonymised or personalised tokens across Seton Hall data platforms in order to provide Services;
+  * Share anonymised or personalized tokens across Seton Hall data platforms in order to provide Services;
   * Send you reminders, technical notices, updates, security alerts and support and administrative messages, Services bulletins, or marketing;
   * Provide advertisements to you through email messages; and
   * Manage our everyday business needs such as Site and/or Services administration, forum management, fulfillment, analytics, fraud prevention, enforcement of our reporting obligations, Terms of Use and any other contractual agreement relating to our Services or to comply with the law.
@@ -128,13 +128,11 @@ However, we have taken appropriate safeguards to ensure that your personal infor
 
 ## EU – US Privacy Shield Framework and Swiss—US Privacy Shield Framework
 
-Seton Hall complies with the EU-US Privacy Shield Framework and the Swiss-US Privacy Shield Framework as set forth by the US Department of Commerce regarding the collection, use, and retention of personal information from European Union member countries and Switzerland transferred to the United States pursuant to Privacy Shield. Seton Hall has certified that it adheres to the Privacy Shield Principles with respect to such data. If there is any conflict between the policies in this privacy policy and data subject rights under the Privacy Shield Principles, the Privacy Shield Principles shall govern. To learn more about the Privacy Shield program, and to view our certification page, please visit <https://www.privacyshield.gov/>.
-
-With respect to personal data received or transferred pursuant to the Privacy Shield Frameworks, Seton Hall is subject to the investigatory and enforcement authority of the U.S. Federal Trade Commission.
+Seton Hall strives to follow Privacy Shield Principles with respect to the collection, use, and retention of personal information from European Union member countries and Switzerland. If there is any conflict between the policies in this privacy policy and data subject rights under the Privacy Shield Principles, the Privacy Shield Principles shall govern Seton Hall's response to queries. To learn more about the Privacy Shield program, please visit <https://www.privacyshield.gov/>. With respect to personal data received or transferred pursuant to the Privacy Shield Frameworks, Seton Hall is subject to the investigatory and enforcement authority of the U.S. Federal Trade Commission.
 
 ## Contacting Us, Complaints and Dispute Resolution
 
-In compliance with the Privacy Shield Principles, Seton Hall University commits to resolve complaints about your privacy and our collection or use of your personal information transferred to the United States pursuant to Privacy Shield. European Union and Swiss individuals with Privacy Shield inquiries or complaints should first contact us under the "How to Contact Us" heading below. We will work to resolve your issue and will respond within 45 days of receipt.
+Seton Hall University commits to resolve complaints about your privacy and our collection or use of your personal information transferred to the United States pursuant to Privacy Shield. European Union and Swiss individuals with Privacy Shield inquiries or complaints should first contact us under the "How to Contact Us" heading below. We will work to resolve your issue and will respond within 45 days of receipt.
 
 If your Privacy Shield complaint cannot be resolved through the above channels, under certain conditions, you may invoke binding arbitration for some residual claims not resolved by other redress mechanisms. See Privacy Shield Annex 1 at <https://www.privacyshield.gov/article?id=ANNEX-I-introduction>.
 
