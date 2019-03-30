@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the britishmuseum.org privacy policy that was archived on 2018-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181231052045id_/http%3A//www.britishmuseum.org/about_this_site/footer_components/privacy_policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the britishmuseum.org privacy policy that was archived on 2019-03-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190330100906id_/https%3A//britishmuseum.org/about_this_site/footer_components/privacy_policy.aspx) for the most accurate reproduction.*
 
 # British Museum - Privacy policy
 
