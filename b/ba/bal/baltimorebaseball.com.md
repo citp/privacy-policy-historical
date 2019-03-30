@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the baltimorebaseball.com privacy policy that was archived on 2018-10-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181028042640id_/https%3A//www.baltimorebaseball.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the baltimorebaseball.com privacy policy that was archived on 2019-03-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190330164541id_/https%3A//www.baltimorebaseball.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - BaltimoreBaseball.com
 
@@ -67,5 +67,3 @@ By using this Site, you signify your acceptance of this policy and terms of serv
 **Contacting us**
 
 If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this site, please contact us at: contact@baltimorebaseball.com
-
-#### [ SUBSCRIBE TO OUR PODCASTS HERE: [iTunes](http://apple.co/1UjJarP) / [Google Play ]](https://goo.gl/app/playmusic?ibi=com.google.PlayMusic&isi=691797987&ius=googleplaymusic&link=https://play.google.com/music/m/Ik7po5cqy6cz7uhkx5ff5pblfgy?t%3DBaltimore_Orioles_Baseball_Podcasts_from_BaltimoreBaseball.com%26pcampaignid%3DMKT-na-all-co-pr-mu-pod-16)
