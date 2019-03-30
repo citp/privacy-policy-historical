@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the deliciousbrains.com privacy policy that was archived on 2018-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181228171133id_/https%3A//deliciousbrains.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the deliciousbrains.com privacy policy that was archived on 2019-03-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190330195144id_/https%3A//deliciousbrains.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -92,7 +92,7 @@ The following are specific reasons why we may share your information.
 
 **To Protect Our Company:**  We may use your information to protect our company, including to investigate and remedy any violations of our rights or policies. We may also disclose your information as reasonably necessary to acquire and maintain insurance coverage, manage risks, obtain financial or legal advice, or to exercise or defend against legal claims.
 
-**Advertisers** :  We may use third-party advertising companies to run and manage our ads, such as **Facebook and Instagram,** to produce ads that appear when you visit our Website or mobile app. These companies may use information about your visit to our website and other websites that are contained in web cookies (as described below) to offer you personalized advertisements about goods and services that might interest you. We cannot control the activities of, such other advertisers or websites. You should consult the respective Privacy Policies of these third-party advertisers for more detailed information on their practices as well as for instructions about how to opt-out of certain practices.
+**Advertisers** :  We may use third-party advertising companies to run and manage our ads (such as Facebook, Twitter, and Instagram) to produce ads that appear when you visit our Website or mobile app. These companies may use information about your visit to our website and other websites that are contained in web cookies (as described below) to offer you personalized advertisements about goods and services that might interest you. We cannot control the activities of, such other advertisers or websites. You should consult the respective Privacy Policies of these third-party advertisers for more detailed information on their practices as well as for instructions about how to opt-out of certain practices.
 
 **Other Third Parties:**  We may share information with advertisers, our investors, or other third parties for the purpose of conducting general business analysis. If we do so, we will make reasonable efforts to inform You if required by law.
 
