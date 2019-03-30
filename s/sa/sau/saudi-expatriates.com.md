@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the saudi-expatriates.com privacy policy that was archived on 2018-08-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180825064240id_/http%3A//www.saudi-expatriates.com/p/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the saudi-expatriates.com privacy policy that was archived on 2019-03-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190330201054id_/http%3A//www.saudi-expatriates.com/p/privacy-policy.html) for the most accurate reproduction.*
 
 # None
 
