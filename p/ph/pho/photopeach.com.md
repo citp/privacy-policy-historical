@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the photopeach.com privacy policy that was archived on 2016-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161125164008id_/http%3A//photopeach.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the photopeach.com privacy policy that was archived on 2019-03-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190330212541id_/https%3A//photopeach.com/privacy) for the most accurate reproduction.*
 
 # PhotoPeach - Privacy Policy
 
@@ -112,7 +112,7 @@ Nota, Inc. may revise, modify or update this Policy. We will notify you about si
 
 #### Personal Information Storage and Security
 
-We take reasonable precaution to protect the Personal Information we collect from customers, prospective customers, and visitors.  When users submit Personal Information via the Website, the information is housed in a secure in-house database in one or more of our offices.  The location of our offices may change from time to time and we may acquire offices in other countries at any time.  You acknowledge and agree that we may transfer your personally identifiable information to or through any country which may not have privacy (data protection) legislation and regulation comparable to the law of the country in which you reside. 
+We take reasonable precaution to protect the Personal Information we collect from customers, prospective customers, and visitors.  When users submit Personal Information via the Website, the information is housed in a secure in-house database in one or more of our offices.  The location of our offices may change from time to time and we may acquire offices in other countries at any time. You acknowledge and agree that we may transfer your personally identifiable information to or through any country which may not have privacy (data protection) legislation and regulation comparable to the law of the country in which you reside. 
 
 While we strive to protect your Personal Information, you should know that information sent over the Internet, whether by e-mail or by using one of our on-line forms, is not necessarily secure against interception.  No data transmissions over the Internet can be guaranteed to be 100% secure. Consequently, we cannot ensure or warrant the security of any information you transmit to us and you do so at your own risk. 
 
@@ -161,4 +161,4 @@ If you object to any sharing of your Personal Information that may be permitted 
 
 Effective Date: Jan 1, 2009
 
-Copyright © 2016 Nota, Inc.  All rights reserved.
+Copyright © 2019 Nota, Inc.  All rights reserved.
