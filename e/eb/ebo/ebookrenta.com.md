@@ -1,57 +1,106 @@
-> *The following text is extracted and transformed from the ebookrenta.com privacy policy that was archived on 2017-10-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171020042611id_/http%3A//www.ebookrenta.com/renta/sc/frm/page/help/security_1.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ebookrenta.com privacy policy that was archived on 2019-03-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190330131146id_/https%3A//www.ebookrenta.com/renta/sc/frm/page/help/privacy_policy.htm) for the most accurate reproduction.*
 
-# Renta! - Protection of Personal Information and Security Measures
+# Renta! - Privacy Policy Measures
 
-Protection of Personal Information and Security Measures 
+Last Updated: 11/24/2017
 
-* * *
+Papyless Global, Inc. (collectively, "Renta!", “we”, “us” or “our”) is the operator of the ebookrenta.com website and mobile applications (collectively, the “Services”). This privacy policy explains how we collect, use, and disclose information about you when you visit and/or use the Services, or when you otherwise interact with us.
 
-PAPYLESS Co., Ltd. recognizes the importance of protecting the privacy of our customers, has organized its management structure according to the Act on the Protection of Personal Information, and is handling personal information and information systems in a secure manner.
+We may change this Privacy Policy from time to time. If we make changes, we will notify you by revising the date at the top of the policy and, in some cases, we may provide you with additional notice (such as adding a statement to our homepage or sending you a notification). We encourage you to review the Privacy Policy whenever you access the Services or otherwise interact with us to stay informed about our information practices and the ways you can help protect your privacy.
 
-1\. Scope of personal information  
-In accordance with our privacy policy, we provide proper protection for information that can identify or has the possibility of identifying a specific individual, as well as accessible information, sales records and communication records relating to personal information.
+## Collection of Information
 
-2\. Collection of personal information  
-Members are required to enter personal information to use our services, such as during member registration. We may also conduct surveys for marketing purposes and improving the quality and convenience of the services, and collect information to the extent that is necessary after providing notification or announcing on our website the purpose of use.
+### Information You Provide to Us
 
-3\. Security  
-We take great care to prevent the loss, destruction, falsification or divulgation of personal information.  
-When information that has the possibility of identifying a specific individual is entered or submitted, the information is encrypted with SSL technology, and the personal information we collect is properly managed so that it is inaccessible by outside parties.
+We collect information you provide directly to us. For example, we collect information when you create an account, participate in any interactive features of the Services, fill out a form, participate in a contest or promotion, make a purchase, request customer support or otherwise communicate with us.
 
-4\. Disclosure to third parties  
-Unless we have the consent of the customer or unless it is permitted by law, we will not provide or disclose personal data to third parties excluding our consigned partners.  
-We require by contract that our consigned partners must not divulge or reoffer the personal information of our customers and must properly manage the personal information.
+The types of information we may collect include:
 
-[[External consignment of credit card settlement service]]  
-We consign our credit card settlement service to SBI VeriTrans Co., Ltd.  
-Details regarding the personal information provided to our consigner partner:  
-The following personal information required for credit card settlement  
-The customer's full name, e-mail address, monetary amount, credit card number and credit card expiration date  
-The purpose of use of the personal information:  
-The personal information is used to perform the services required for settlement, and we strictly prohibit the use for any other purposes.  
-Disclosing personal information to the settlement service provider:  
-Upon request of the settlement service provider, we may disclose or provide the following personal information through our consigned partner, within the extent necessary to perform the services required for settlement.  
-[The customer's full name, e-mail address and the details of the ordered product]
-
-5\. Handling of statistical information  
-We may use the personal information collected as statistical information, in such a manner that specific individuals cannot be identified.
-
-6\. E-mail service  
-We may send e-mails to the customer's e-mail address to provide information such as notices regarding products and services, or to reply to customer inquiries.
-
-7\. Cookies  
-We may use cookies in this website to identify our customers' computers.  
-The cookies used in this website do not retain data related to personal information. We provide pertinent protection for data that combine information collected with cookies and personal information, in accordance with our personal information protection policy.  
-Customers can disable cookies on their computers, but they may not be able to use all or parts of the services provided in this website.
-
-We use cookies on this site for the following purposes:  
-\- For providing a customized service for each individual when logged in by referencing the information registered.  
-\- For serving the most relevant advertising banners to you on other sites based on your preferences and how you use our site.  
-\- For tracking the number of users and traffic to our site.  
-\- For improving our service.  
-Furthermore, there are times when cookies belonging to our site are saved through third party sites that are consigned to serve our advertising banners. 
-
-  
+  * Account information, such as your name, email address, username, password, postal address, date of birth, phone number, demographic information, and any other information you choose to provide.
+  * Transaction information, such as information about the content you purchase, download, and view. We may also collect and store limited payment information from you, such as payment card type, expiration date and the last four digits of your payment card number.
+  * Information About Others, such as the names and email addresses of gift recipients when you purchase and send gift cards through the Services.
+  * Other Information You Choose to Provide, such as when you participate in a survey, contest, promotion or interactive area of the Services or when you request technical or customer support.
 
 
-* * *
+
+### Information We Collect Automatically When You Use the Services
+
+When you access or use our Services, we automatically collect information about you, including:
+
+  * Log Information: We collect log information about your use of the Services, including the type of browser you use, access times, pages viewed, user-agent string, links clicked, your IP address and the page you visited before navigating to our Services.
+  * Device Information: We collect information about the computer or mobile device you use to access our Services, including the hardware model, operating system and version, unique device identifiers and mobile network information.
+  * Information Collected by Cookies and Other Tracking Technologies: We use various technologies to collect information, including cookies and web beacons. Cookies are small data files stored on your hard drive or in device memory that help us improve our Services and your experience, see which areas and features of our Services are popular and count visits. Web beacons are electronic images that may be used in our Services or emails and help deliver cookies, count visits and understand usage and campaign effectiveness. For more information about cookies, and how to disable them, please see "Your Choices" below.
+
+
+
+### Information We Collect From Other Sources
+
+We may also obtain information from other sources and combine that with information we collect through our Services. For example, if you create or log into your account through a social media site, we will have access to certain information from that site, such as your name, account information and friends lists, in accordance with the authorization procedures determined by such social media site.
+
+## Use of Information
+
+We may use information about you for various purposes, including to:
+
+  * Provide, maintain and improve our Services;
+  * Provide and deliver the products and services you request, process transactions and send you related information, including confirmations and invoices;
+  * Send you technical notices, updates, security alerts and support and administrative messages;
+  * Respond to your comments, questions and requests and provide customer service;
+  * Communicate with you about products, services, offers, promotions, rewards, and events offered by Renta! and others, and provide news and information we think will be of interest to you;
+  * Monitor and analyze trends, usage and activities in connection with our Services;
+  * Detect, investigate and prevent fraudulent transactions and other illegal activities and protect the rights and property of Renta! and others;
+  * Personalize and improve the Services and provide advertisements, content or features that match user profiles or interests;
+  * Facilitate contests, sweepstakes and promotions and process and deliver entries and rewards;
+  * Link or combine with information we get from others to help understand your needs and provide you with better service; and 
+  * Carry out any other purpose described to you at the time the information was collected.
+
+
+
+## Sharing of Information
+
+We may share information about you as follows or as otherwise described in this Privacy Policy:
+
+  * With vendors, consultants and other service providers who need access to such information to carry out work on our behalf;
+  * When you sign up for and participate in the interactive areas of our Services, certain information about you may be displayed publicly on our Services and on third-party sites, such as your reviews and other information you choose to provide;
+  * In response to a request for information if we believe disclosure is in accordance with, or required by, any applicable law, regulation or legal process;
+  * If we believe your actions are inconsistent with our user agreements or policies, or to protect the rights, property and safety of Renta! or others;
+  * In connection with, or during negotiations of, any merger, sale of company assets, financing or acquisition of all or a portion of our business by another company;
+  * Between and among Renta! and our current and future parents, affiliates, subsidiaries and other companies under common control and ownership; and
+  * With your consent or at your direction.
+
+
+
+We may also share aggregated or de-identified information, which cannot reasonably be used to identify you.
+
+## Social Sharing Features
+
+The Services may offer social sharing features and other integrated tools (such as the Facebook "Like" button), which let you share actions you take on our Services with other media, and vice versa. Your use of such features enables the sharing of information with your friends or the public, depending on the settings you establish with the entity that provides the social sharing feature. For more information about the purpose and scope of data collection and processing in connection with social sharing features, please visit the privacy policies of the entities that provide these features.
+
+## Advertising and Analytics Services Provided by Others
+
+We may allow others to provide analytics services and serve advertisements on our behalf across the Internet and in applications. These entities may use cookies, web beacons, device identifiers and other technologies to collect information about your use of the Services and other websites and applications, including your IP address, web browser, mobile network information, pages viewed, time spent on pages or in apps, links clicked and conversion information. This information may be used by Renta! and others to, among other things, analyze and track data, determine the popularity of certain content, deliver advertising and content targeted to your interests on our Services and other websites and better understand your online activity. For more information about interest-based ads, or to opt out of having your web browsing information used for behavioral advertising purposes, please visit [www.aboutads.info/choices](http://www.aboutads.info/choices). Your device may also include a feature (“Limit Ad Tracking” on iOS or “Opt Out of Interest-Based Ads” on Android) that allows you to opt out of having certain information collected through apps used for behavioral advertising purposes.
+
+## Security
+
+Renta! takes reasonable measures to help protect information about you from loss, theft, misuse and unauthorized access, disclosure, alteration and destruction.
+
+## Your Choices
+
+### Account Information
+
+You may update, correct or delete information about you at any time by logging into your online account. If you wish to delete your account, you are free to do so, but note that we may retain certain information as required by law or for legitimate business purposes. We may also retain cached or archived copies of information about you for a certain period of time.
+
+### Cookies
+
+Most web browsers are set to accept cookies by default. If you prefer, you can usually choose to set your browser to remove or reject browser cookies. Please note that if you choose to remove or reject cookies, this could affect the availability and functionality of our Services.
+
+### Promotional Communications
+
+You may opt out of receiving promotional emails from Renta! by following the instructions in those emails. If you opt out, we may still send you non-promotional emails, such as those about your account or our ongoing business relations.
+
+### Mobile Push Notifications/Alerts
+
+With your consent, we may send promotional and non-promotional push notifications or alerts to your mobile device. You can deactivate these messages at any time by changing the notification settings on your mobile device.
+
+## Contact Us
+
+If you have any questions about this Privacy Policy, please contact us at: [support@papy.co.jp](mailto:support@papy.co.jp).
