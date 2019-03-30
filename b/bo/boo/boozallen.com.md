@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the boozallen.com privacy policy that was archived on 2018-10-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181009075321id_/https%3A//www.boozallen.com/tools/footer-navigation/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the boozallen.com privacy policy that was archived on 2019-03-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190330130234id_/https%3A//www.boozallen.com/tools/footer-navigation/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -9,7 +9,7 @@ Booz Allen Hamilton Inc website privacy policy. We collect your personal informa
   * We use your personal information for [legitimate business interests](https://www.boozallen.com/tools/footer-navigation/privacy-policy.html#business);
   * We only [disclose](https://www.boozallen.com/tools/footer-navigation/privacy-policy.html#disclosure) it when necessary;
   * We only [collect](https://www.boozallen.com/tools/footer-navigation/privacy-policy.html#collection) what we need, we [delete](https://www.boozallen.com/tools/footer-navigation/privacy-policy.html#retain) it when we no longer need it, and we use reasonable measures to keep it [secure](https://www.boozallen.com/tools/footer-navigation/privacy-policy.html#security);
-  * For [contact](https://www.boozallen.com/tools/footer-navigation/privacy-policy.html#contact), access or to remove consent please contact us at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#700715121d1103041502301211185e131f1d).
+  * For [contact](https://www.boozallen.com/tools/footer-navigation/privacy-policy.html#contact), access or to remove consent please contact us at [webmaster@bah.com](mailto:webmaster@bah.com).
 
 
 
@@ -144,8 +144,8 @@ Find more information on how we use **Cookies and other technology  **[here](ht
 
 Your Personal Information may be disclosed:
 
-  * To our _[affiliates](http://investors.boozallen.com/secfiling.cfm?filingID=1443646-17-50&CIK=1443646#BAH-20170331X10K_HTM_S560C2B9764C757BCB968A4C3CED3155D)_ for the purposes described in this Privacy Policy. 
-    * You can consult the list and location of our affiliates [here](http://investors.boozallen.com/secfiling.cfm?filingID=1443646-17-50&CIK=1443646#BAH-20170331X10K_HTM_S560C2B9764C757BCB968A4C3CED3155D);
+  * To our _[affiliates](https://www.sec.gov/Archives/edgar/data/1443646/000144364618000100/bah-20180331xex21.htm)_ for the purposes described in this Privacy Policy. 
+    * You can consult the list and location of our affiliates [here](https://www.sec.gov/Archives/edgar/data/1443646/000144364618000100/bah-20180331xex21.htm);
   * To our third party service providers, to facilitate services they provide to us, including website hosting, data analysis, information technology, payment processing, order fulfillment, customer service, email delivery, auditing, and other services;
   * To identify you to anyone to whom you send messages through the Sites. ****
 
@@ -176,7 +176,7 @@ If you no longer want to receive marketing-related emails from us on a going-for
 
 **How you can access, change or suppress your Personal Information  **
 
-If you would like to review, correct, update, suppress, restrict or delete Personal Information that you have previously provided to us, or if you would like to request to receive an electronic copy of your Personal Information for purposes of transmitting it to another company (to the extent this right to data portability is provided to you by applicable law), you may contact us at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#0e796b6c636f7d7a6b7c4e6c6f66206d6163). We will respond to your request consistent with applicable law. 
+If you would like to review, correct, update, suppress, restrict or delete Personal Information that you have previously provided to us, or if you would like to request to receive an electronic copy of your Personal Information for purposes of transmitting it to another company (to the extent this right to data portability is provided to you by applicable law), you may contact us at [webmaster@bah.com](mailto:webmaster@bah.com). We will respond to your request consistent with applicable law. 
 
 In your request, please make clear what Personal Information you would like to have changed, whether you would like to have your Personal Information suppressed from our database or otherwise let us know what limitations you would like to put on our use of your Personal Information. For your protection, we may only implement requests with respect to the Personal Information associated with the email address that you use to send us your request, and we may need to verify your identity before implementing your request. We will try to comply with your request as soon as reasonably practicable.
 
@@ -206,7 +206,7 @@ We ask that you not send us, and you not disclose, any sensitive Personal Inform
 
 The Sites are controlled and operated by us from the United States and are not intended to subject us to the laws or jurisdiction of any state, country, or territory other than that of the United States. Your Personal Information may be stored and processed in any country where we have facilities or in which we engage service providers, and by using the Sites you understand that your information will be transferred to countries outside of your country of residence, including the United States, which may have data protection rules that are different from those of your country. In certain circumstances, courts, law enforcement agencies, regulatory agencies or security authorities in those other countries may be entitled to access your Personal Information.
 
-If you are located in the EEA: Some of the non-EEA countries are recognized by the European Commission as providing an adequate level of data protection according to EEA standards (the full list of these countries is available here [https://ec.europa.eu/info/law/law-topic/data-protection/data-transfers-outside-eu/adequacy-protection-personal-data-non-eu-countries_en](https://protect-us.mimecast.com/s/oCgSCkROBgiN8vL8H84n-A). For transfers from the EEA to countries not considered adequate by the European Commission, we have put in place adequate measures, such as standard contractual clauses adopted by the European Commission and **** binding corporate rules to protect your Personal Information. You may obtain a copy of these measures by contacting [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#7b0c1e19161a080f1e093b191a1355181416) or by following this link: <https://ec.europa.eu/info/law/law-topic/data-protection/data-transfers-outside-eu/model-contracts-transfer-personal-data-third-countries_en>.
+If you are located in the EEA: Some of the non-EEA countries are recognized by the European Commission as providing an adequate level of data protection according to EEA standards (the full list of these countries is available here [https://ec.europa.eu/info/law/law-topic/data-protection/data-transfers-outside-eu/adequacy-protection-personal-data-non-eu-countries_en](https://protect-us.mimecast.com/s/oCgSCkROBgiN8vL8H84n-A). For transfers from the EEA to countries not considered adequate by the European Commission, we have put in place adequate measures, such as standard contractual clauses adopted by the European Commission and **** binding corporate rules to protect your Personal Information. You may obtain a copy of these measures by contacting [webmaster@bah.com](mailto:webmaster@bah.com) or by following this link: <https://ec.europa.eu/info/law/law-topic/data-protection/data-transfers-outside-eu/model-contracts-transfer-personal-data-third-countries_en>.
 
 ###  Third Party Payment Processing 
 
@@ -218,7 +218,7 @@ We may change this Privacy Policy. The “ _Last Updated_ ” legend at the top 
 
 Booz Allen Hamilton Inc., located at 8283 Greensboro Drive, McLean Virginia, 22102, is the company responsible for the collection, use and disclosure of your Personal Information under this Privacy Policy.
 
-If you have any questions about this Privacy Policy, please contact us at **[[email  protected]](https://web.archive.org/cdn-cgi/l/email-protection#f99c8d91909a8ab99b9891d79a9694).** Because email communications are not always secure, please do not include sensitive information in your emails to us. 
+If you have any questions about this Privacy Policy, please contact us at **[legal@bah.com](mailto:ethics@bah.com).** Because email communications are not always secure, please do not include sensitive information in your emails to us. 
 
 ###  Additional Information for Individuals in the EEA 
 
