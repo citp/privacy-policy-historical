@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 9soundclouddownloader.com privacy policy that was archived on 2018-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181102174933id_/https%3A//9soundclouddownloader.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 9soundclouddownloader.com privacy policy that was archived on 2019-03-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190330051658id_/https%3A//9soundclouddownloader.com/privacy-policy) for the most accurate reproduction.*
 
 # SoundCloud Downloader - Download SoundCloud to MP3
 
