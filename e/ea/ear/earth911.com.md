@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the earth911.com privacy policy that was archived on 2018-11-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181117081833id_/https%3A//earth911.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the earth911.com privacy policy that was archived on 2019-03-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190330081446id_/https%3A//earth911.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Earth911.com
 
