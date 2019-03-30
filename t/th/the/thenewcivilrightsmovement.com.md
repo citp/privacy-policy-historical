@@ -1,43 +1,46 @@
-> *The following text is extracted and transformed from the thenewcivilrightsmovement.com privacy policy that was archived on 2018-03-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180302174827id_/http%3A//www.thenewcivilrightsmovement.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thenewcivilrightsmovement.com privacy policy that was archived on 2019-03-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190330100053id_/https%3A//www.thenewcivilrightsmovement.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | The New Civil Rights Movement
+# Privacy Policy
 
-**Updated April 10, 2014**
+The New Civil Rights Movement (“NCRM”) and our parent organization, AlterNet Media, respect your privacy and are committed to protecting it through our compliance with this policy. This policy describes the types of information we may collect from you or that you may provide when you visit our website, and our practices for collecting, using, maintaining, protecting, and disclosing that information.
 
-****_The New Civil Rights Movement_ understands your privacy is important to you, and it’s important to us also, which is why we provide this statement about the personal information we collect, how we use that information and with whom it may be shared. You should not, and are not required to, disclose any information that you do not want made public.
+**Traffic Data**
 
-When accessing our Website, _The New Civil Rights Movement_ will learn certain information about you during your visit. How we will handle information we learn about you depends upon what you do when visiting our site.
+When you visit NCRM, our systems collect basic information about your computer, including: IP address (your computer’s unique signature), operating system, browser software (e.g. Chrome, Firefox, Safari), and internet service provider (e.g., Comcast, AT&T, etc.). We also collect information about what you view on the site to help us optimize content.
 
-If you visit our site to read or download information on our pages, we may collect and store the following information about you, possibly via third party software services, for example, SiteMeter, StatCounter, Google Analytics:
+**Advertising**
 
-1\. The name and/or address of the domain from which you access the Internet  
-2\. The date and time you access our site  
-3\. The Internet address of the website you used to link directly to our site.  
-4\. browser  
-5\. visit patterns  
-6\. entry page  
-7\. exit page  
-8\. country  
-9\. state  
-10\. city  
-11\. repeat visits  
-12\. cookies  
-13\. I.P. address
+We use third-party advertising companies to serve ads when you visit our website. These companies may use aggregated information (not including your name, address, email address or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, click here: [www.networkadvertising.org/managing/opt_out.asp](http://www.networkadvertising.org/managing/opt_out.asp).
 
-If you identify yourself by giving us your email address or by sending us an e-mail containing personal information, then the information collected will be used to respond to your message. Additionally, we may store and use any contact information, and send you information in the future.
+**Use of Cookies**
 
-All communications and conversations, electronic or otherwise, made to  _The New Civil Rights Movement_ , or its contributors, editors, writers, interns, or owner, are subject to publication, **regardless of the method of delivery, format, etc.**. That is, if you send us an email, physical letter, or call us **we reserve the right to publish the contents of that conversation, including your name and email address** , regardless of **whether or not you give permission in advance** , and **whether or not you state otherwise**. This includes but is not exclusive to “letters to the editor” and other emails.
+NCRM employs cookies—small text files placed on your computer’s hard drive—to track the type of content and sites to which our users link, the length of time they spend at any particular site and the NCRM services they use. Cookies also help us diagnose problems with our server.
 
-The information collected is for statistical purposes. _The New Civil Rights Movement_ may use software programs to create summary statistics, which are used for such purposes as assessing the number of visitors to the different sections of our site, what information is of most and least interest, determining technical design specifications, and identifying system performance or problem areas.
+For more on cookies, please [click here](https://en.wikipedia.org/wiki/HTTP_cookie).
 
-For site security purposes and to ensure that this service remains available to all users, _The New Civil Rights Movement_ may use software programs to monitor network traffic to identify unauthorized attempts to upload or change information, or otherwise cause damage.
+**Email Newsletters  **
 
-_The New Civil Rights Movement_ will not obtain personally-identifying information about you when you visit our site, unless you choose to provide such information to us, nor will such information be sold or otherwise transferred to unaffiliated third parties without the approval of the user at the time of collection. Personally-identifying information you have provided to us, such as but not limited to email addresses, may be used by us in conjunction with third-party providers to send you information.
+After signing up online, users will receive email newsletters and other occasional announcements from NCRM. In order to distribute our email, we collect subscribers’ email addresses. We do not share addresses with other companies or partners, unless as specifically described below. Users can unsubscribe from email newsletters at any time.
 
-_Generated by:[General Counsel, PC](http://www.generalcounsellaw.com/ "Northern Virginia Business Attorneys and Lawyers") and [Legal River](http://www.legalriver.com/ "Small Business Attorneys and Lawyers")‘s [Privacy Policy Generator](http://privacy-policy-generator.legalriver.com/ "Privacy Policy Generator")_
+**Linking to Other Sites**
 
-**Friends:**
+NCRM contains links to other sites. We are not responsible for the privacy practices or the content of such websites.
 
-**We invite you to[ sign up for our new mailing list](http://visitor.r20.constantcontact.com/manage/optin?v=001whLQo73KzGhEjdskYG07rHNy_XoDDkSBBO4INZHx6oD9kfp2yeeQAJeMQUu9oTviZa0VEl5k0rNiLifxlZsOFScMz8rVGmIaN-FFOO3GTKc%3D), and [subscribe to The New Civil Rights Movement via email](http://feedburner.google.com/fb/a/mailverify?uri=TheNewCivilRightsMovement&amp;loc=en_US) or [RSS](http://feeds2.feedburner.com/thenewcivilrightsmovement).**
+**Unsubscribe, Data Removal and Data Modification Policies**
 
-**Also, please  [like us on Facebook](https://www.facebook.com/pages/The-New-Civil-Rights-Movement/358168880614), and [follow us on Twitter](https://twitter.com/#!/gaycivilrights)!**
+NCRM allows users to opt out of receiving communications from us and to modify or remove their information from our system. The following options are available to do so:
+
+  * Send email to [support@alternet.org](mailto:support@alternet.org)
+
+  * Send mail to: NCRM c/o AlterNet Media, PO Box 21040, Washington, D.C. 20009
+
+
+
+
+**Disclosure of Personal Information   **
+
+NCRM will not use or disclose your personal information, except (i) as described in this privacy policy, (ii) as required by law, court order or as requested by other government or law enforcement authority, or (iii) to a buyer or other successor in the event of a merger, divestiture, restructuring, reorganization, or other sale or transfer of some or all of AlterNet Media’s assets, whether as a going concern or as part of bankruptcy, dissolution, liquidation, or similar proceeding, in which personal information held by AlterNet Media about our website users is among the assets transferred. In case of disclosure of personal information in the event of a sale or transfer of some or all of AlterNet Media’s assets, you may direct us not to transfer your personal information at any time by contacting us at the address below or by sending an email to [info@alternet.org](mailto:info@alternet.org). This policy does not protect information you post to any online bulletin board or other public forum within our website.
+
+**Contacting AlterNet**
+
+If you have any questions about this privacy statement, the practices of this site or your dealings with this website, you can contact: AlterNet Media, PO Box 21040, Washington, DC 20009 and [info@alternet.org](mailto:info@alternet.org). NCRM and Alternet Media reserve the right to amend this Privacy Statement at any time without notice, and only the current Privacy Statement may be deemed effective.
