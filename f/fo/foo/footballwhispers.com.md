@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the footballwhispers.com privacy policy that was archived on 2018-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181222045850id_/https%3A//www.footballwhispers.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the footballwhispers.com privacy policy that was archived on 2019-03-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190330152351id_/https%3A//www.footballwhispers.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Football Whispers
 
