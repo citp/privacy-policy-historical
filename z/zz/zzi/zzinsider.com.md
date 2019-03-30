@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the zzinsider.com privacy policy that was archived on 2018-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181227234238id_/https%3A//www.trendzz.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the zzinsider.com privacy policy that was archived on 2019-03-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190330220632id_/https%3A//www.trendzz.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Trendzz
 
