@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the rnli.org privacy policy that was archived on 2018-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180629183704id_/https%3A//rnli.org/footer/privacy-and-security) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rnli.org privacy policy that was archived on 2019-03-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190331004808id_/https%3A//rnli.org/footer/privacy-and-security) for the most accurate reproduction.*
 
-# RNLI privacy policy
+# RNLI Privacy and Security - Your Personal Data
 
 **This policy has been designed to meet the requirements of the Data Protection Act (DPA), the General Data Protection Regulation (GDPR) and successive legislation. It applies to all the websites We operate, Our use of emails and text messages for marketing purposes, and any other methods We use for collecting information. It covers what We collect and why, what We do with the information, what We won’t do with the information, and what rights you have.**
 
@@ -74,7 +74,7 @@ Since January 2017, only those people who opted in have been receiving these com
 
 If We contact you by email, We will include a link to opt out of receiving future messages if you change your mind. If We contact you by other means and you want to change how, or if, you receive Our communications, please call Supporter Care on weekdays, 8am–6pm on 0300 300 9918 (UK) or +44(0)1202 663234 (non-UK).
 
-Our opt in statement outlines that We will send news, activities and appeals within Our marketing activities. These are defined as follows:
+Our opt in statement outlines that We will send news, activities and appeals within Our marketing activities. These are defined as follows
 
 **Item** | **Definition**  
 ---|---  
@@ -103,12 +103,12 @@ We will only share your information if:
 
   * We believe it is necessary to protect or defend Our rights, property or the personal safety of Our people or visitors to Our premises or websites
 
-  * We are working with carefully selected partners that are carrying out work on our behalf, such as mailing houses, marketing agencies, IT specialists and research firms. The kind of work We may ask them to do includes processing, packaging, mailing and delivering purchases, answering questions about products or services, sending postal mail, emails and text messages, carrying out research or analysis and processing card payments. We only choose partners We can trust. We will only pass personal data to them if they have signed a contract or agreed to terms of service that require them to:  
-- abide by the requirements of the Data Protection Act, General Data Protection Regulation and successive legislation   
-\- treat your information as carefully as We would  
-\- only use the information for the purposes for which it was supplied (and not for their own purposes or the purposes of any other organisation)   
-\- allow Us to carry out checks to ensure they are doing all these things.
+  * We are working with carefully selected partners that are carrying out work on our behalf, such as mailing houses, marketing agencies, IT specialists and research firms. The kind of work We may ask them to do includes processing, packaging, mailing and delivering purchases, answering questions about products or services, sending postal mail, emails and text messages, carrying out research or analysis and processing card payments. We only choose partners We can trust. We will only pass personal data to them if they have signed a contract or agreed to terms of service that require them to:
 
+    * abide by the requirements of the Data Protection Act, General Data Protection Regulation and successive legislation 
+    * treat your information as carefully as We would
+    * only use the information for the purposes for which it was supplied (and not for their own purposes or the purposes of any other organisation) 
+    * allow Us to carry out checks to ensure they are doing all these things.
 
 
 
@@ -118,7 +118,7 @@ Information is stored by Us on computers located in the UK and Republic of Irela
 
 We place great importance on the security of all personal information associated with Our supporters, customers and users. We have security measures in place to attempt to protect against the loss, misuse and alteration of personal data under Our control. For example, only authorised personnel are able to access supporter information, and the financial and personal information you enter on Our website is encrypted before it is sent to Us.
 
-Unfortunately, the transmission of data across the internet is not completely secure. While We do Our best to try to protect the security of your information 
+Unfortunately, the transmission of data across the internet is not completely secure. While We do Our best to try to protect the security of your information.
 
 We cannot ensure or guarantee that loss, misuse or alteration of data will not occur while data is being transferred.
 
