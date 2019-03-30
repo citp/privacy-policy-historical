@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the planetrock.com privacy policy that was archived on 2018-10-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181005025613id_/https%3A//www.planetrock.com/general/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the planetrock.com privacy policy that was archived on 2019-03-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190330135348id_/https%3A//www.planetrock.com/general/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy 2018-07-03 — Bauer Media Group: Legal
 
