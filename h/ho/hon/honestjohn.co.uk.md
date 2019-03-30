@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the honestjohn.co.uk privacy policy that was archived on 2018-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181122235614id_/https%3A//www.honestjohn.co.uk/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the honestjohn.co.uk privacy policy that was archived on 2019-03-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190330175936id_/https%3A//www.honestjohn.co.uk/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Honest John
 
