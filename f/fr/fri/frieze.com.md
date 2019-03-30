@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the frieze.com privacy policy that was archived on 2018-08-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180819073716id_/https%3A//frieze.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the frieze.com privacy policy that was archived on 2019-03-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190330123516id_/https%3A//frieze.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Frieze
 
@@ -10,7 +10,7 @@ For more information about the Frieze Cookie Policy [click here ](https://frie
 
 For more information about the Frieze Terms of Use [click here ](https://frieze.com/legals)
 
-**This Privacy Notice last changed on 5 June 2018.**
+**This Privacy Notice last changed on 7 February 2019.**
 
 **Who we are**
 
@@ -20,7 +20,7 @@ _We take our obligations under applicable law seriously. We respect your privacy
 
 Your personal information is collected by  _“Frieze”   and its affiliates ("we"/"us"/"our"/”Frieze Group”). _
 
-_Frieze Publishing Ltd.,  _contact details are as follows: 1 Montclare Street, London, E2 7EU, United Kingdom. T: +44 20 3372 6111
+_Frieze Publishing Ltd.,  _contact details are as follows: 1 Surrey Street, London, WC2R 2ND, United Kingdom. T: +44 20 3372 6111
 
 If you have questions, please contact the Privacy Counsel, EMEA at:
 
@@ -28,13 +28,9 @@ E-mail: dataprivacy@img.com
 
 This privacy notice also covers our group of companies. Each group company is a data controller and we've listed them below:
 
-Frieze Publishing Ltd., 1 Montclare Street, London, E2 7EU, United Kingdom. Registered in England and Wales. Registration no. 02609458
+Frieze Publishing Ltd., 1 Surrey Street, London, WC2R 2ND, United Kingdom. Registered in England and Wales. Registration no. 02609458
 
-Frieze Events Ltd., 1 Montclare Street, London, E2 7EU, United Kingdom. Registered in England and Wales. Registration no. 04429032
-
-Frieze Public Programmes Ltd., 1 Montclare Street, London, E2 7EU, United Kingdom. Registered in England and Wales. Registration no. 09266632
-
-Frieze Events Inc., 247 Centre Street, 5th Floor, New York, NY 10013, United States. Incorporated in Delaware, United States of America with file number 4966861
+Frieze Events Ltd., 1 Surrey Street, London, WC2R 2ND, United Kingdom. Registered in England and Wales. Registration no. 04429032 Frieze Public Programmes Ltd., 1 Surrey Street, London, WE2R 2ND, United Kingdom. Registered in England and Wales. Registration no. 09366632 Frieze Events Inc., 247 Centre Street, 5th Floor, New York, NY 10013, United States. Incorporated in Delaware, United States of America with file number 4966861 
 
 Frieze Art Inc., 247 Centre Street, 5th Floor, New York, NY 10013, United States. Incorporated in Delaware, United States of America with file number 4966861
 
@@ -622,7 +618,7 @@ Some information is processed because you've given your consent to that (where c
 
 Your personal information is either (a) provided by you (e.g. via our website / platform / App /social media pages); (b) obtained from third parties (such as other entities in our group; (c) obtained from publicly available sources (e.g. the Internet, Companies House).
 
-In particular, data may be obtained from the following third parties: galleries, institutions, museums, partners, exhibitors, clients, consultants, social networks, payment processing companies, ticketing companies, Google Adwords, Linkedin, Google Analytics, Adobe Analytics, display partners, social networks, Shopify (ecommerce platform), third-party ecommerce plug-ins, Facebook Ads Manager, Royal Mail and other postal agencies, BACS (for processing Direct Debits), your bank (in relation to transaction information).
+In particular, data may be obtained from the following third parties: galleries, institutions, museums, partners, exhibitors, clients, consultants, social networks, payment processing companies, ticketing companies, Google Adwords, Linkedin, Google Analytics, Google Firebase, Adobe Analytics, display partners, social networks, Shopify (ecommerce platform), third-party ecommerce plug-ins, Facebook Ads Manager, Royal Mail and other postal agencies, BACS (for processing Direct Debits), your bank (in relation to transaction information).
 
 **Automated Decision Making**
 
@@ -759,7 +755,7 @@ We use third party tools to personalise the advertising displayed to you on our 
 
 We use third party tools, to make the advertising we show you on our website, Apps and / or our partner websites more relevant and interesting to you, including:
 
-·       Google Analytics
+·       Google Analytics and Google Firebase
 
 ·       MailChimp
 
@@ -773,7 +769,7 @@ We use third party tools, to make the advertising we show you on our website, Ap
 
 Please see our [Cookies Policy](https://frieze.com/cookie-policy) for further information.
 
-For further information about the use of data by [Google Analytics](https://policies.google.com/privacy), [MailChimp](https://mailchimp.com/legal/privacy/), [HotJar](https://www.hotjar.com/legal/policies/privacy), [Core Drupal Plugins](https://www.drupal.org/privacy), [Facebook Pixel](https://www.facebook.com/full_data_use_policy), [Google DoubleClick for Publishers](https://policies.google.com/privacy) please click on the relavant links.
+For further information about the use of data by [Google Analytics](https://policies.google.com/privacy), [Google Firebase](https://firebase.google.com/), [MailChimp](https://mailchimp.com/legal/privacy/), [HotJar](https://www.hotjar.com/legal/policies/privacy), [Core Drupal Plugins](https://www.drupal.org/privacy), [Facebook Pixel](https://www.facebook.com/full_data_use_policy), [Google DoubleClick for Publishers](https://policies.google.com/privacy) please click on the relevant links.
 
 We also use third party tools to provide advertising to you on third party non-partner websites (including social media websites such as Facebook), including:
 
@@ -865,4 +861,4 @@ Any changes we may make to our Privacy Policy in the future will be posted on th
 
   
 **Contact**  
-Questions, comments and requests regarding this Privacy Policy are welcomed and should be addressed to Head of Communications, Frieze Publishing Limited of 1 Montclare Street, London, E2 7EU
+Questions, comments and requests regarding this Privacy Policy are welcomed and should be addressed to Head of Communications, Frieze Events Ltd, 1 Surrey Street, London, WC2R 2ND, United Kingdom
