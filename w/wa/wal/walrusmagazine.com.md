@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the walrusmagazine.com privacy policy that was archived on 2018-10-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181030083741id_/https%3A//thewalrus.ca/about/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the walrusmagazine.com privacy policy that was archived on 2019-03-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190330123129id_/https%3A//thewalrus.ca/about/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy · The Walrus
+# Privacy Policy | The Walrus
 
 The Walrus occasionally makes its subscriber list available to carefully screened organizations and companies whose services or products are likely to be of interest to our readers. These are mostly other magazines, book clubs, registered charities, and non-profit organizations. _The Walrus_ itself was launched using such lists. If you prefer to have your contact information removed from the list so that you won’t receive such mailings, send an email to [_subs@thewalrus.ca_](mailto:subs@thewalrus.ca) or write to us at:
 
