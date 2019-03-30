@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the winemag.com privacy policy that was archived on 2018-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181223194059id_/https%3A//www.winemag.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the winemag.com privacy policy that was archived on 2019-03-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190330151202id_/https%3A//www.winemag.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Wine Enthusiast Magazine
 
