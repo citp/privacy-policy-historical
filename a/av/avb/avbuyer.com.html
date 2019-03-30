@@ -1,9 +1,11 @@
-<!--The following is the downloaded HTML source of the avbuyer.com privacy policy that was archived on 2018-08-25.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20180825150437id_/https%3A//www.avbuyer.com/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the avbuyer.com privacy policy that was archived on 2019-03-30.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20190330195835id_/https%3A//www.avbuyer.com/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en-GB"><head>
     <link rel="dns-prefetch" href="https://cdn.avbuyer.com">
-        <meta name="viewport" content="width=device-width; initial-scale=1.0; minimum-scale=1.0; maximum-scale=1.0; user-scalable=no;target-densityDpi=medium-dpi">
+
+    
+        <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0, maximum-scale=1.0, user-scalable=no">
     <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
         <meta name="author" content="AvBuyer">
             <meta name="description" content="        AvBuyer.com's Privacy Policy encompassing GDPR.     ">
@@ -22,8 +24,8 @@
         <link rel="stylesheet" type="text/css" media="screen" href="https://static.avbuyer.com/sfJqueryReloadedPlugin/css/ui-lightness/jquery-ui.min.css">
 <link rel="stylesheet" type="text/css" media="screen" href="https://static.avbuyer.com/sfJqueryReloadedPlugin/css/ui-lightness/ui.all.css">
 
-                    <link rel="stylesheet" type="text/css" media="all" href="https://static.avbuyer.com/css/styles.css?v=2018082515">
-            <link rel="stylesheet" type="text/css" media="screen" href="https://static.avbuyer.com/css/responsive.min.css?v=2018082515">
+                    <link rel="stylesheet" type="text/css" media="all" href="https://static.avbuyer.com/css/styles.css?v=2019033019">
+            <link rel="stylesheet" type="text/css" media="screen" href="https://static.avbuyer.com/css/responsive.min.css?v=2019033019">
         
     
     <script async="" src="https://www.googletagmanager.com/gtm.js?id=GTM-K4DTS58"></script><script async="" src="https://www.google-analytics.com/analytics.js"></script><script type="text/javascript">
@@ -78,13 +80,17 @@ var src = (useSSL ? 'https:' : 'http:') +
 '//www.googletagservices.com/tag/js/gpt.js';
 document.write('<scr' + 'ipt src="' + src + '"></scr' + 'ipt>');
 })();
+
+var googletag = googletag || {};
+googletag.cmd = googletag.cmd || [];
+
 </script><script src="https://www.googletagservices.com/tag/js/gpt.js"></script>
 
 <script>
   googletag.cmd.push(function() {
     var leaderboard_mapping = googletag.sizeMapping().
       addSize([992, 0], [[728, 90]]).
-      addSize([768, 0], [[728, 90]]).
+      addSize([980, 0], [320, 100]).
       addSize([320, 0], [[320, 100]]).
       build();
 
@@ -92,7 +98,8 @@ document.write('<scr' + 'ipt src="' + src + '"></scr' + 'ipt>');
       googletag.enableServices();
   });
 </script>
-        </head>
+            <script src="https://www.google.com/recaptcha/api.js?onload=demoCallback&amp;render=explicit" async="" defer=""> </script>
+</head>
 <body>
     <div class="cookies_content clearfix cookie_tab hide" id="cookie_tab">
         <div class="container">
@@ -181,14 +188,31 @@ document.write('<scr' + 'ipt src="' + src + '"></scr' + 'ipt>');
             <div class="form_error">
                           </div>
             <div class="mt5 clearfix">
-              <div class="form_name">
-                &nbsp;
-                                </div>
-              <div class="form_input mt5">
+              <div class="form_name">&nbsp;</div>
+              <div class="form_input">
                                 <input type="submit" value="Login" name="save">
                 &nbsp;<a class="bold mid_align" href="https://www.avbuyer.com/forgot-password" target="_blank">Forgot password?</a>
               </div>
             </div>
+
+                                <div class="mt5 clearfix">
+                      <div class="form_name">&nbsp;</div>
+                      <div class="form_input social_connect fb_conct">
+                                                    <div>
+    <a class="fb_btn" href="https://www.facebook.com/dialog/oauth?client_id=298048127700437&amp;redirect_uri=https%3A%2F%2Fwww.avbuyer.com%2FfacebookRedirect&amp;state=a46505af77d1bda0efb1b9b65db17b5b&amp;scope=email">Login with Facebook</a>
+</div>                      </div>
+                  </div>
+                                              <div class="mt5 clearfix">
+                      <div class="form_name">&nbsp;</div>
+                      <div class="form_input social_connect in_conct">
+                          <a href="/linidinRedirect">Login with LinkedIn</a>                      </div>
+                  </div>
+                                              <div class="mt5 clearfix">
+                      <div class="form_name">&nbsp;</div>
+                      <div class="form_input social_connect twit_conct">
+                          <a href="/twitterRedirect">Login with Twitter</a>                      </div>
+                  </div>
+              
           </div>
         </form>
       </div>
@@ -222,11 +246,28 @@ document.write('<scr' + 'ipt src="' + src + '"></scr' + 'ipt>');
           doLogin('https://www.avbuyer.com/mlogin');
           return false;
       });
-
   });
+
+
+$('.social_connect').click(function() {
+    tinyMCE.triggerSave();
+    createCookie("register_with_adposting","");
+    var formData = $('#post_form').serialize();
+    $.ajax({
+        type: "POST",
+        async: true,
+        url: "https://www.avbuyer.com/update/current_ad_data_to_session",
+        data: formData,
+        success: function(msg){
+        }
+    });
+});
 
   function hideLoginForm()
   {
+    document.cookie = 'redirecttoNextStep=;expires=Thu, 01 Jan 1970 00:00:01 GMT'+ "; path=/;";
+    document.cookie = 'redirectTo=;expires=Thu, 01 Jan 1970 00:00:01 GMT'+ "; path=/;";
+
     $("#bid_with_login").val('')
     $('#divLoginForm').dialog('close');
     return false;
@@ -275,6 +316,13 @@ document.write('<scr' + 'ipt src="' + src + '"></scr' + 'ipt>');
       }
     }, 'json');
   }
+
+function createCookie(name, value) {
+    var date = new Date();
+    date.setTime(date.getTime()+(30*30*1000));
+    var expires = "; expires="+date.toGMTString();
+    document.cookie = name+"="+value+expires+"; path=/";
+}
 //]]>
 </script>
 
@@ -540,7 +588,6 @@ document.write('<scr' + 'ipt src="' + src + '"></scr' + 'ipt>');
         <a href="/signup/alerts">Sign up</a> for free aircraft sales alerts and digital aviation magazines now        <div class="footer_social">
             <a href="https://www.facebook.com/avbuyer" target="_blank" rel="noopener" class="fb_icon">Facebook</a>
             <a href="https://twitter.com/avbuyer" target="_blank" rel="noopener" class="twitter_icon">Twitter</a>
-            <a href="https://plus.google.com/+avbuyer/posts" target="_blank" rel="noopener" class="g_plus_icon">Google plus</a>
             <a href="https://www.youtube.com/user/AvBuyer" target="_blank" rel="noopener" class="utube_icon">YouTube</a>
         </div>
       </li>
@@ -613,7 +660,7 @@ document.write('<scr' + 'ipt src="' + src + '"></scr' + 'ipt>');
 <div class="copyright">
   <div class="container">
     <div class="fl">
-      © 2002-2018 AvBuyer Ltd Reserved. All Rights Reserved.      |<a href="/terms-and-conditions"> Terms &amp; Conditions</a>
+      © 2002-2019 AvBuyer Ltd Reserved. All Rights Reserved.      |<a href="/terms-and-conditions"> Terms &amp; Conditions</a>
       |<a href="/privacy-policy"> Privacy &amp; Cookies</a>
       |<a href="#"> Sitemap</a>
     </div>
@@ -673,6 +720,22 @@ document.write('<scr' + 'ipt src="' + src + '"></scr' + 'ipt>');
     function refreshParallax()
     {
         $(window).trigger('resize').trigger('scroll');
+    }
+
+    function getCookieValue(cname) {
+        var name = cname + "=";
+        var decodedCookie = decodeURIComponent(document.cookie);
+        var ca = decodedCookie.split(';');
+        for(var i = 0; i <ca.length; i++) {
+            var c = ca[i];
+            while (c.charAt(0) == ' ') {
+                c = c.substring(1);
+            }
+            if (c.indexOf(name) == 0) {
+                return c.substring(name.length, c.length);
+            }
+        }
+        return "";
     }
 
         $(document).ready(function() {
@@ -761,7 +824,7 @@ document.write('<scr' + 'ipt src="' + src + '"></scr' + 'ipt>');
       },
       {
           "@type":"WPFooter",
-		  "copyrightYear": "2018",
+		  "copyrightYear": "2019",
           "copyrightHolder": {
 			"@type": "Organization",
 			"name": "AvBuyer"
