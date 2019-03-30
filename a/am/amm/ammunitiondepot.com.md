@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ammunitiondepot.com privacy policy that was archived on 2018-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181229223728id_/https%3A//www.ammunitiondepot.com/content/8-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ammunitiondepot.com privacy policy that was archived on 2019-03-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190330192954id_/https%3A//www.ammunitiondepot.com/content/8-privacy-policy) for the most accurate reproduction.*
 
 # Privacy and Cookie Policy
 
@@ -44,7 +44,7 @@ This online privacy policy applies only to information collected through our web
 
  **Terms and Conditions**
 
-Please also visit our [Terms and Conditions](https://web.archive.org/web/20181229223728id_/https%3A//www.ammunitiondepot.com/content/terms.asp) section establishing the use, disclaimers, and limitations of liability governing the use of our website.
+Please also visit our [Terms and Conditions](https://web.archive.org/web/20190330192954id_/https%3A//www.ammunitiondepot.com/content/terms.asp) section establishing the use, disclaimers, and limitations of liability governing the use of our website.
 
  **Your consent**
 
