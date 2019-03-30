@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the watch4beauty.com privacy policy that was archived on 2018-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181130003636id_/http%3A//www.watch4beauty.com/legal.html%23privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the watch4beauty.com privacy policy that was archived on 2019-03-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190331005648id_/http%3A//www.watch4beauty.com/legal.html%23privacy) for the most accurate reproduction.*
 
 # Legal - WATCH4BEAUTY | Nude Art Magazine
 
