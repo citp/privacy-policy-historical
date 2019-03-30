@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the asahq.org privacy policy that was archived on 2018-10-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181022032711id_/http%3A//asahq.org/about-asa/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the asahq.org privacy policy that was archived on 2019-03-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190330085421id_/https%3A//www.asahq.org/about-asa/privacy-statement) for the most accurate reproduction.*
 
-# Privacy Statement - American Society of Anesthesiologists (ASA)
+# Privacy Statement | American Society of Anesthesiologists (ASA)
 
 This privacy notice discloses the privacy practices for the American Society of Anesthesiologists (ASA). Any questions regarding this policy and our privacy practices should be sent to [privacy@asahq.org](mailto:privacy@asahq.org).
 
@@ -20,7 +20,8 @@ We make sure that our use of your personal information falls under one or more l
 
 We collect information when you are: 
 
-**Creating an account or updating your online profile on the ASA website**  
+**Creating an account or updating your online profile on the ASA website**
+
 We ask that you register on the ASA website: 
 
   * As the first step in our ordering process, we require your contact information to fulfill our obligations in the performance of the order contract. 
@@ -31,7 +32,8 @@ We ask that you register on the ASA website: 
 
 ASA websites and third-party websites used by ASA make use of use Single Sign On (SSO) wherever possible.  SSO allows you to have only one login to access many ASA services. Your username and password are stored in one system with a hashed and salted one-way encryption algorithm and are not shared with any third party, even in the execution of SSO. After login to a third-party website, your contact information may be shared with the third-party system so that we don’t ask you to re-enter information that you have provided already. 
 
-**Becoming a member of ASA**    
+**Becoming a member of ASA**
+
 We collect information from you necessary to: 
 
   * Validate your qualifications for membership and specific membership categories 
@@ -45,41 +47,52 @@ We may ask for sensitive personal information such as gender, race or ethnicity.
 
 We also collect membership and payment information on behalf of your selected state component society. We will share that information, along with your contact information, with your selected state component society so that they can provide the goods and services included with your membership in that society. 
 
-**Registering for or attending an ASA event**    
+**Registering for or attending an ASA event**
+
 We will collect information such as who to contact during an emergency while you are on site at the event, or how to accommodate dietary restrictions and other information regarding your housing and other travel logistics to help us plan and execute our event.   We will also ask whether you require assistance with auditory, visual or mobility needs in compliance with the Americans with Disabilities Act. 
 
 We may ask for information about your professional affiliation, fields of study and/or practice and your place of work. This information, in the aggregate, helps us to plan future events and help us demonstrate value to exhibitors. 
 
 We may also provide technology for your use to help us understand traffic patterns at the event to help us plan future events, to help us ensure that there is appropriate seating and overflow accommodations at the event and to make it easier for you to claim credits for any qualifying educational sessions you may have attended. We may share anonymized data from these technologies to exhibitors to help them understand traffic patterns and aggregate demographic data about attendees who came to their exhibit booth.  
 
-**Obtaining online education from ASA**    
+**Obtaining online education from ASA**
+
 We may ask you for information regarding your membership in other organizations providing certification to enable you to claim credit with the certifying body, e.g. the American Board of Anesthesiology.   We may also share that information as well as information about the course(s) completed with the certifying organization to help you receive credit for your education activities. 
 
-**Ordering or purchasing products or services from ASA**    
+**Ordering or purchasing products or services from ASA**
+
 We will collect contact payment information necessary to process the order.  Credit card information is encrypted as it passes from you, through our systems and to the payment processor.  You can verify this by looking for a lock icon in the address bar and looking for "https" at the beginning of the address of the Web page.   Credit card information is not stored in our systems at any time.
 
-**Contact and notification forms**    
+**Contact and notification forms**
+
 When using a form to contact ASA or requesting to be notified by ASA when certain conditions have been met, e.g. when the registration for the ASA annual meeting is open to the public, we will ask for your name and email so that we can respond to you regarding the reason you contacted us.
 
-**Notifying ASA of potential conflicts of interest**    
+**Notifying ASA of potential conflicts of interest**
+
 When participating in ASA activities covered under ASA’s [Statement on Conflict of Interest](https://www.asahq.org/member-center/my-account/statement-on-coi), we will ask you to disclose information of certain activities or financial interests that you or a family member have in and outside of ASA. This information is necessary to ensure that members serving in these capacities can meet their obligations to avoid conflicts, or apparent conflicts between their duties to the Society and personal interests or duties with other organizations.  
 
-**Volunteering to participate in the ASA governance process and/or** **committee program initiatives**    
+**Volunteering to participate in the ASA governance process and/or** **committee program initiatives**
+
 When you are nominated, or when self nominating to serve as a volunteer on an ASA committee or other ASA governance body or a committee program initiative, we will ask you for information about your professional and leadership experience.  This information will be shared with appropriate ASA member leaders and ASA staff to facilitate the selection process.  We may also ask for sensitive personal information such as gender, race or ethnicity.  This will always be optional data and you will not be required to provide this information to become a member of ASA, or to serve on an ASA committee or otherwise participate in any ASA governance activity.  
 
-**Submitting content for an ASA publication or event**    
+**Submitting content for an ASA publication or event**
+
 When submitting a proposal to present at a live ASA meeting, we may ask for your level of training, considerations we should be aware of that could impact scheduling along with general demographic information.   This information may be shared with appropriate ASA member leaders and ASA staff to facilitate the selection process. 
 
-**When submitting content for publication in an Anesthesiology**    
+**When submitting content for publication in an Anesthesiology**
+
 Anesthesiology collects personal information including your contact information and academic resume submitted by yourself or those with whom you may have co-authored a paper. This information is used during the peer review process from initial submission to final publication. This information may be shared with journal editors and reviewers during the peer review process.  
 
-**Making a donation to ASAPAC**    
+**Making a donation to ASAPAC**
+
 We will ask for information about your citizenship status, your employer and your occupation. This information is required to meet reporting requirements of the Federal Election Commission (FEC).   
 
-**Applying to become a Fellow of the ASA (FASA)**    
+**Applying to become a Fellow of the ASA (FASA)**
+
 We will ask for information required to establish that you meet the eligibility criteria. This includes, but is not limited to place of employment, NPI number, medical licenses, board certifications, education, professional work history and professional leadership experience. This information will be shared with other ASA members and ASA staff in order to evaluate your qualifications. 
 
-**Using ASA websites, mobile apps and other digital platforms**    
+**Using ASA websites, mobile apps and other digital platforms**
+
 In addition to activities listed elsewhere in this policy, we may collect information about how you are using ASA websites, mobile apps and other digital platforms.  This may include, but is not limited to: 
 
   * Your IP address and the region of the country and world you live in
@@ -126,13 +139,12 @@ This website contains links to other sites. Please be aware that we are not resp
 **Updating your Information**    
 The accuracy of your information is very important to us. You can review and change your information online by logging on to our website and going to the [My Account](https://www.asahq.org/member-center/my-account) page.   
 
-You may contact us via the email address or phone number given on the [Contact Us](https://www.asahq.org/about-asa/contact-us) page of our website to inquire about what data we have about you, if any, or to change any data we have about you. 
+You may contact us via the email address or phone number given on the [Contact Us](https://web.archive.org/about-asa/contact-asa) page of our website to inquire about what data we have about you, if any, or to change any data we have about you. 
 
-#### Your Choices
-
+#### Your Choices  
 If you do not wish to receive direct marketing communications from us, you can let us know at any time by unsubscribing via the unsubscribe link at the bottom of our marketing email communications and email newsletters. 
 
-You may also contact us via the email address or phone number given on the [Contact Us](https://www.asahq.org/about-asa/contact-us) page of our website to change your marketing preferences. 
+You may also contact us via the email address or phone number given on the [Contact Us](https://web.archive.org/about-asa/contact-asa) page of our website to change your marketing preferences. 
 
 **Right to Be Forgotten**    
 For residents of the European Union, under the GDPR regulations, you can request to be forgotten. Due to the complex nature of the many systems that can hold your personal data, we may choose to accomplish this by anonymizing some of your personal information such as name, address and email, but retain the records of your activity. As the Data Controller, we will also pass this request along to the third parties with which we have a Data Processing Agreement and request that they honor your right to be forgotten. We have no control over their performance of the request.   
