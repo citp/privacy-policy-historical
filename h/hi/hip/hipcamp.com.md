@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hipcamp.com privacy policy that was archived on 2018-10-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181004173825id_/https%3A//www.hipcamp.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hipcamp.com privacy policy that was archived on 2019-03-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190330202515id_/https%3A//www.hipcamp.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Hipcamp
 
@@ -18,7 +18,7 @@ Hipcamp, Inc.
 
 Attn: Alex Johnson
 
-2 Mint Plaza, Suite 1001
+965 Mission Street, Suite 480
 
 San Francisco, California 94103
 
