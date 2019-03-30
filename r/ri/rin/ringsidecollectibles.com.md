@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ringsidecollectibles.com privacy policy that was archived on 2018-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181227210950id_/https%3A//www.ringsidecollectibles.com/PRPO.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ringsidecollectibles.com privacy policy that was archived on 2019-03-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190330080202id_/https%3A//www.ringsidecollectibles.com/PRPO.html) for the most accurate reproduction.*
 
 # Privacy Policy | Ringside Collectibles
 
