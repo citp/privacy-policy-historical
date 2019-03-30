@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the fantasycruncher.com privacy policy that was archived on 2017-04-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170420183930id_/https%3A//www.fantasycruncher.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fantasycruncher.com privacy policy that was archived on 2019-03-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190330163900id_/https%3A//www.fantasycruncher.com/privacy-policy) for the most accurate reproduction.*
 
-# NBA Lineup Optimizer | Daily Fantasy Sports Lineup Tool
+# DFS Lineup Optimizer for NFL, NBA, MLB, NHL, PGA, EURO Golf, NASCAR, CFL, WNBA and MMA | Daily Fantasy Sports Lineup Tool
 
 This Privacy Policy explains our policy regarding the collection, use, disclosure and transfer of certain information, including your personal information, by Fantasy Cruncher.
 
