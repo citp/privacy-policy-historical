@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the fairfieldcurrent.com privacy policy that was archived on 2018-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180602090358id_/http%3A//www.fairfieldcurrent.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fairfieldcurrent.com privacy policy that was archived on 2019-03-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190330124230id_/https%3A//www.fairfieldcurrent.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Fairfield Current
+# Privacy Policy - Fairfield Current
 
 We will ask you when we need information that personally identifies you (Personal Information) or allows us to contact you. Generally, this information is requested when you are asked to comment on the article, entering a contest, or ordering e-mail newsletters.
 
