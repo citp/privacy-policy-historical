@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the crowdfunder.co.uk privacy policy that was archived on 2018-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181230093722id_/https%3A//www.crowdfunder.co.uk/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the crowdfunder.co.uk privacy policy that was archived on 2019-03-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190330111456id_/https%3A//www.crowdfunder.co.uk/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Crowdfunder.co.uk
 
-Date of posting: **24/05/18**
+Date of posting: **13/02/19**
 
 This Privacy Policy contains 11 sections.
 
@@ -77,7 +77,9 @@ Other members | Members of the Site may share personal information about you wit
 Our funding partners | We may receive your personal information from our funding partners if you have indicated to them that you would like us to contact you about funding opportunities.  
 Social media networks (publically available source) | We may view your social media profile registration data where you choose to register with our Site using your existing social media profile and log-in details   
   
-Please note we do not knowingly collect personal information about children or personal data that is ‘sensitive data’ from a legal perspective or that relates to criminal convictions or offences.  Please do not provide this information to us whether directly or by posting it to the Site.  If we receive this type of information, we will promptly delete it.
+**Anonymous data**
+
+Please note we do not knowingly collect personal information about children or personal data that is ‘sensitive data’ from a legal perspective or that relates to criminal convictions or offences.  We may invite you to complete an optional survey in which we collect age, ethnicity and disability information at the time you create a project. However, we collect and process this information in such a way that it cannot be linked to you and which we therefore receive as anonymous data (and not personal information).  This anonymous data may be shared with our funding partners who will not link or attempt to link the data to you.  Except in relation to those surveys, please do not provide any sensitive data or information about children to us whether directly or by posting it to the Site.  If we receive this type of information in a way that is not anonymous, we will promptly delete it. To find out more about sensitive data please see the [ICO website](https://ico.org.uk/for-organisations/guide-to-data-protection/guide-to-the-general-data-protection-regulation-gdpr/lawful-basis-for-processing/special-category-data/).
 
 #### 3\. Categories of personal information we use about you
 
@@ -214,7 +216,7 @@ Tax administration (HMRC) | Government (Tax Administration)
 Health and safety claims administrators and consultants | Health & Safety (Claims)  
 Insurers and insurance brokers | Insurance (Underwriting & Broking)  
 Market and customer research providers | Media (Market Resarch)  
-Online survey platforms and services (Survey Monkey, Typeform, Nesta, TSIP) | IT (Survey)  
+Online survey platforms and services (Survey Monkey, Typeform, Nesta, TSIP, TrustPilot) | IT (Survey)  
 Social media platforms (Facebook, Twitter and LinkedIn) | Media (Social Media)  
 Team and remote collaboration tools and services (Trello, Basecamp, Asana, YouTrack, Slack, Google Docs)  | IT (Collaboration)  
 Website and data analytics platform providers, and website performance tools (Google Analytics, Hotjar, Ask Nicely, Unbounce)  | IT (Data Analytics)  
