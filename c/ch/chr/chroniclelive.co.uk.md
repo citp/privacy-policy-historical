@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the chroniclelive.co.uk privacy policy that was archived on 2018-09-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180909135413id_/https%3A//www.chroniclelive.co.uk/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the chroniclelive.co.uk privacy policy that was archived on 2019-03-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190330075946id_/https%3A//www.chroniclelive.co.uk/privacy-policy) for the most accurate reproduction.*
 
 # Chronicle Live: Number one for news, opinion, sport & celebrity gossip
 
