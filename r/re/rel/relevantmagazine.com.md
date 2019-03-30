@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the relevantmagazine.com privacy policy that was archived on 2018-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180515231239id_/https%3A//relevantmagazine.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the relevantmagazine.com privacy policy that was archived on 2019-03-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190330183554id_/https%3A//relevantmagazine.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - RELEVANT Magazine
+
+## Privacy Policy
 
 RELEVANT Media Group, Inc. (“RELEVANT,” “we” or “our”) respects the privacy concerns of the visitors to RELEVANTmagazine.com (the “Website”). As a general policy, no personal information is automatically collected from users of the site. In the event that we do collect any personally identifiable data about visitors to this site, that information is only collected on a voluntary basis, and it is only known to RELEVANT.
 
@@ -12,13 +14,21 @@ I. THE TYPE OF INFORMATION THE WEBSITE COLLECTS
 
 The Website may collect personal information with your knowledge and consent. For instance, when you enter a sweepstakes or contest, complete a survey, make a purchase, subscribe to our magazine or newsletter(s), or register for any portion of our services, you may be asked to provide information such as your e-mail address, name, address or phone number. Additional information such as your age or gender may also be requested.
 
+RELEVANT does not store payment information such as Credit Card Information and Billing Address.  Requested information is stored, processed and protected by our third party partner, Recurly, meeting the latests PCI DSS SAQA compliance requirements until your subscription is expired and your account is closed.
+
 Certain non-personal information of visitors is recorded by the standard operation of RELEVANT’s Internet servers, including without limitation the type of browser software you use, the operating system you are running, the website that referred you, and the domain name of the visitor’s Internet service provider. We also use Demographics and Interest Reporting, which records age and sex data. If you want to opt out of sharing this information, visit your Google ad settings [here](https://www.google.com/settings/ads).
 
 II. HOW THE WEBSITE USES INFORMATION PROVIDED BY YOU
 
 RELEVANT uses this information to provide you with the service you have requested. For instance, if you subscribe to any of our publications we may use your e-mail address to send you a confirmation notice and your mailing address to send you the publication. In the same way, if you enter an online sweepstakes, we will use this information to notify you if you are a winner. We may also use the information to communicate with you about new features, products or services, partner highlights, and/or to improve the services that we offer by tailoring them to your needs.
 
+When opted-in, your email address is collected and/or stored using the following services: Wisepops, SumoMe, and Bloom for building forms to collect your email address.  Your email is stored and managed with Mailchimp.
+
 If you do not wish to receive further commercial communications from us by e-mail, simply follow the unsubscribe instructions contained within the e-mail. If you’ve registered on any part of the Website, please use the mechanism on the Website that allows you to change or update your member preferences or information, if available, to keep all such data accurate and up-to-date.
+
+If you would like to access, download, or completely remove your data from this website, you can contact our Support Team at support(at)relevantmediagroup.com.
+
+In the event of a data breach that compromises your e-mail address, name, address or phone number stored in our website; we will notify you by email with clear steps you can follow as well as the actions we are taking to fix it.
 
 III. COOKIES
 
