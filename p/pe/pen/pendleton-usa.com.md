@@ -1,56 +1,43 @@
-> *The following text is extracted and transformed from the pendleton-usa.com privacy policy that was archived on 2017-09-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170930022641id_/https%3A//www.pendleton-usa.com/custserv/custserv.jsp%3FpageName%3DPrivacy%26parentName%3DCustomerService) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pendleton-usa.com privacy policy that was archived on 2019-03-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190330010349id_/https%3A//www.pendleton-usa.com/privacy-security.html) for the most accurate reproduction.*
 
-# Privacy & Security
+# Privacy & Security | Pendleton
 
-####  Whether you're purchasing online or just browsing, your privacy is important to us. Please take the time to review Pendleton's policy for handling your customer information. By visiting the Pendleton website, you are accepting the practices described in this Privacy Policy. Pendleton's Privacy Policy may change from time to time, so please revisit this page and review the Policy regularly. If you have any questions regarding our Privacy Policy, please contact us via e-mail at [_pendletoncatalog@penwool.com_](mailto:pendletoncatalog@penwool.com?subject=Privacy%20Policy). We appreciate your comments and suggestions. 
+  
 
-Pendleton may share the information it collects with third parties, as detailed below. We may use the information to improve the content of our website, to make our future marketing efforts more efficient, to notify you about current Pendleton products, special offers, services and events, and for other purposes. The information we collect may be combined with other personally identifiable information available from our records and other sources, such as purchase history and demographic information.
 
-Your trust and privacy are very important to us! Therefore, we ask only for the information we need to process your requests:
+#### This Policy was last updated on: March 18, 2019  
+Your privacy and security are important to us, and we appreciate the trust you place in us when you shop with us. This Privacy & Security Policy (“Policy”) describes how we handle your information. By using our website, you agree to the collection and use of information in accordance with this Policy. This Policy may change from time to time, so please review this page and the Policy regularly.
 
-**Postal Address**  
-If you purchase from us or request a Pendleton catalog by mail, we will need a postal address, and we will add your name to our mailing list. Occasionally, we may also share your name with select companies whose services or products are similar to Pendleton's. If you do not want to receive our catalog by mail or do not want your name shared with other companies, just let us know by calling 1-800-649-1512 or faxing us at 503-535-5502, or 
+**Information We Collect**  
+We collect the following categories of information about you: Postal Address If you purchase from us or request a Pendleton catalog by mail, we will need a postal address, and we will add your name to our mailing list. Occasionally, we may also share your name with select companies whose services or products may interest you. If you do not want to receive our catalog by mail or do not want your name shared with other companies, just let us know by calling 800-649-1512 or email us at 
 
-[_send us an e-mail_](mailto:pendletoncatalog@penwool.com?subject=Do%20Not%20Share). 
+[_pendletoncatalog@penwool.com_](mailto:pendletoncatalog@penwool.com?subject=Privacy%20Policy). You may also write to us at Pendleton Woolen Mills Customer Service, PO Box 3030, Portland, OR 97208.
 
-**Phone Number**  
-We ask for your phone number on the order form in the event we need to contact you regarding your order. We will not otherwise call you, and we will not share your phone number with any other companies. 
+Phone Number  
+We ask for your phone number in case we need to contact you regarding your order. We will not otherwise call you, and we will not share your phone number with any other companies.
 
-**Credit Card Information**  
-To purchase from the Pendleton website, you will need to give us a credit card number. This information is kept encrypted during your order to ensure secure purchases. 
+Payment Information  
+To purchase from the Pendleton website, you will need to provide a credit card, debit card, gift card number, or other payment form when available. All payment information is encrypted and securely transmitted to our payment processor. Payment information is never stored within any Pendleton system.
 
-**E-Mail Address**  
-If you would like to receive e-mail on what's new at the Pendleton site, fill out our e-mail registration page, or give us your e-mail address at checkout, and we will add you to our mailing list. If you subscribe to Pendleton's e-mail list, we will send you periodic updates and news about our website. We will also use the e-mail address you provide on your order to send you website updates. Please be assured that the e-mail address you provide to Pendleton is for internal use only.
+Email Address  
+If you would like to receive emails from us, fill out our registration page or give us your email address at checkout and check the opt-in box, and we will add you to our email list. If you opt in, we do not allow third parties to send you emails. If you decide you would like to be removed from this service, you may follow the instructions on the messages you are sent, call us at 800-649-1512 or email us at 
 
-If you decide you would like to be removed from this service, you may follow the instructions on the messages you are sent, call us at 1-800-649-1512, send a fax to 503-535-5502, or 
+[_pendletoncatalog@penwool.com_](mailto:pendletoncatalog@penwool.com?subject=Privacy%20Policy). 
 
-[_send us an e-mail_](mailto:pendletoncatalog@penwool.com?subject=Do%20Not%20E-mail). 
+Cookies  
+Pendleton may also use “cookies” or other means to passively collect information about your use of our website. A cookie is a piece of data stored on your computer that lets your web browser talk with Pendleton's web server. For example, cookies save you from retyping your user name and password every time you use our secure checkout. If you are shopping on the Pendleton site and are having difficulty completing your order, please check the privacy settings in your browser. If you have your settings set to not accept cookies, you will not be able to purchase from the Pendleton site. Pendleton may also use “cookies” provided by an agent, third party agency, or other provider or other means to passively collect information about your use of our website. 
 
-**Gift Messages:**  
-You may choose to include a gift message with your online purchase. We will include the note when we deliver the gift to the recipient address you provide. We will not otherwise disclose the note to anyone.
+**Do Not Track**  
+Pendleton honors the do-not-track settings of their customers.
 
-**Questions and Comments:**  
-We want to hear from you -- your comments, suggestions, questions. Every message is read and a response sent as quickly as possible if requested. The information you send us is used to respond to your questions and comments only. You may send your comments, suggestions or questions to Pendleton Woolen Mills Customer Service Dept., P.O. Box 3030, Portland, OR 97208, or 
+How We Share Information:  
+We use your information to provide you with the best possible service experience related to your order, including order fulfillment. Your information may also be used for data analytics, research, and marketing.
 
-[_send an e-mail to our Customer Service Department_](mailto:pendletoncatalog@penwool.com?subject=Questions%20and%20Comments).
+**Third Party Vendors**  
+We may also from time to time contract with third-party vendors to serve ads to our customers on our behalf across the Internet or to send mailings to customers whom we think may be interested in our products or services. To do this, the vendors will collect anonymous information about your visits to our website and your interaction with our products and services. This anonymous information is collected through the use of a cookie or pixel tag—industry standard technology used by most major websites. No personally identifiable information is collected in this process. Our vendors may also pool the anonymous information that they collect with other sources of information not collected during your visit to our website, which may include your name and mailing address, for purposes of determining whether you might be interested in receiving a catalog. If you do not wish for cookies or pixel tags to be placed on your computer, most commercially available web browsers permit you to prevent that from taking place.
 
-**Cookies:**  
-Pendleton may also use "cookies" or other means to passively collect information about your use of our website. A cookie is a piece of data stored on your computer that lets your web browser talk with Pendleton's web server. For example, cookies save you from retyping your user name and password every time you use our secure checkout. If you are shopping on the Pendleton site and are having difficulty completing your order, please check the privacy settings in your browser. If you have your settings set to not accept cookies, you will not be able to purchase from the Pendleton site. Pendleton may also use "cookies" provided by our (agent, third party agency, provider) or other means to passively collect information about your use of our website. 
+**Children**  
+The Pendleton website is intended only for those aged 18 and older. If you are under 18, you may not register or submit personally identifiable information on, to or through the site. Pendleton does not collect personally identifiable information from any person Pendleton knows to be under 18.
 
-**Third Party Vendors:**  
-We may also from time to time contract with third party vendors to serve ads to our customers on our behalf across the Internet or to send our catalogs to customers whom we think may be interested in our products or services. To do this, the vendors will collect anonymous information about your visits to our Web site and your interaction with our products and services. This anonymous information is collected through the use of a cookie or pixel tag – industry standard technology used by most major Web sites. No personally identifiable information is collected in this process. Our vendors may also pool the anonymous information that they collect with other sources of information not collected during your visit to our website, which may include your name and mailing address, for purposes of determining whether you might be interested in receiving a catalog. If you do not wish for cookies or pixel tags to be placed on your computer, most commercially available web browsers permit you to prevent that from taking place. 
-
-**Children:**  
-The Pendleton website is intended only for those aged 13 and older. If you are under 13, you may not register or submit personally identifiable information on, to or through the site. Pendleton does not collect personally identifiable information from any person Pendleton knows to be under 13.
-
-**Opting Out:**  
-If you do not wish to receive our printed catalog, if you do not wish to receive promotional e-mail from Pendleton, or if you do not wish your name to be shared with third parties for marketing purposes, please contact us via e-mail at 
-
-[_pendletoncatalog@penwool.com_](mailto:pendletoncatalog@penwool.com?subject=Opt%20Out).
-
-**Security:**  
-Pendleton takes care to protect the security of your personal information, including your credit card information, from loss, misuse, unauthorized access or disclosure. However, transmissions to the website may be intercepted and read by others and Pendleton cannot be responsible for any such interception.
-
-We use Secure Sockets Layer (SSL) technology to protect the security of your personal on-line order information. To check the security of your connection to our website, look in the lower right-hand corner of your browser window after entering our checkout section. If you see an unbroken key or a closed lock (depending on your browser), then SSL is active. You can also double-check you are in a secure shopping environment by looking at the URL line of your browser. When you are using a secure server, the first characters of the site address will change from "http" to "https." If you cannot access the secure server for any reason, please call and place your order by phone at 1-800-649-1512. 
-
-Effective May __ 2016
+**Security**  
+If you cannot access the secure server for any reason, please call and place your order by phone at 800-649-1512. To protect the security of your information during all communications with our website, we use HTTPS (secure/encrypted HTTP using Transport Layer Security (TLS)) protocols and software, which encrypts information you input and that we return to you. The presence of a “closed lock” icon in your browser indicates encryption is being used on the webpage you are viewing. In addition, an internet address that begins with “https://...” indicates the page you are viewing uses encryption. The “s” stands for “secured.”
