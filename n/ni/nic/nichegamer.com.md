@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nichegamer.com privacy policy that was archived on 2018-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181209220414id_/https%3A//nichegamer.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nichegamer.com privacy policy that was archived on 2019-03-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190330154656id_/https%3A//nichegamer.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Niche Gamer
 
@@ -25,7 +25,7 @@ We may process information that you post for publication on our website or throu
 
 We may process your information included in your personal profile on our website (“ **profile data** “). The profile data may include your name, email address, profile pictures, date of birth, interests and hobbies. The profile data may be processed for the purposes of enabling and monitoring your use of our website and services. The legal basis for this processing is our legitimate interests, namely the proper administration of our website and business.
 
-**What is your information used for?**
+ **What is your information used for?**
 
 Any information collected or submitted by you may be used in one or more of the following ways:
 
@@ -33,11 +33,11 @@ The processing of contest prizes and other giveaways, providing a personalized b
 
 Your information, whether it’s public or kept private, will never be sold, exchanged, transferred, or handed over to any other company, without your consent. Niche Gamer is not held responsible for any personal information submitted to our partners.
 
-**How do we protect your information?**
+ **How do we protect your information?**
 
 We use quite a few security measures to protect your personal information once it’s submitted. Rest assured, it’s our business to keep your personal information safe.
 
-**International transfers of your personal data**
+ **International transfers of your personal data**
 
 In this section, we provide information about the circumstances in which your personal data may be transferred to countries outside the European Economic Area (EEA).
 
@@ -47,7 +47,7 @@ Mailing databases are situated in US and Australia. The European Commission has 
 
 You acknowledge that personal data that you submit for publication through our website or services may be available, via the internet, around the world. We cannot prevent the use (or misuse) of such personal data by others.
 
-**Retaining and deleting personal data**
+ **Retaining and deleting personal data**
 
 This section sets out our data retention policies and procedure, which are designed to help ensure that we comply with our legal obligations in relation to the retention and deletion of personal data.
 
@@ -62,7 +62,7 @@ We will retain and delete your personal data as follows:
 
 Notwithstanding the other provisions of this section, we may retain your personal data where such retention is necessary for compliance with a legal obligation to which we are subject, or in order to protect your vital interests or the vital interests of another natural person.
 
-**Your rights**
+ **Your rights**
 
 In this section, we have summarized the rights that you have under data protection law. Some of the rights are complex, and not all of the details have been included in our summaries. Accordingly, you should read the relevant laws and guidance from the regulatory authorities for a full explanation of these rights.
 
@@ -106,13 +106,13 @@ To the extent that the legal basis for our processing of your personal informati
 
 You may exercise any of your rights in relation to your personal data by contacting us using the details outlined in section 13.
 
-**Cookie use**
+ **Cookie use**
 
 We use cookies on our website to save your submitted information, your preferences, and to gather data about our site traffic, so that we know how to better your experience at Niche Gamer.
 
 The advertisements you see on our website are from third parties, which use information from your browsing history, and how you reached Niche Gamer, in order to serve ads that correlate to your interests. If you would like to learn more about how these ads work, and to know your options of not having your information used by these third parties, go [here](http://www.networkadvertising.org/choices/).
 
-**Cookies that we use**
+ **Cookies that we use**
 
 We use cookies for the following purposes:
 
@@ -134,7 +134,7 @@ We publish Google AdSense interest-based advertisements on our website. These ar
 
 We use Avocet, OpenX, PulsePoint, Sovrn and Google Audiences to carry out retargeting and Header Bidding. These service uses cookies for retargeting ads and targeting ads based on your interests. You can view the privacy policy of these service providers at [http://avocet.io/privacy-policy](http://avocet.io/privacy-policy), [https://www.openx.com/legal/privacy-policy/](https://www.openx.com/legal/privacy-policy/), [https://www.pulsepoint.com/privacy-policy.html](https://www.pulsepoint.com/privacy-policy.html), [https://www.sovrn.com/privacy-policy/](https://www.sovrn.com/privacy-policy/) and [https://www.google.com/policies/privacy/](https://www.google.com/policies/privacy/)
 
-**Cookie management**
+ **Cookie management**
 
 Most browsers allow you to refuse to accept cookies and to delete cookies. The methods for doing so vary from browser to browser, and from version to version. You can however obtain up-to-date information about blocking and deleting cookies via these links:
 
@@ -149,18 +149,18 @@ Most browsers allow you to refuse to accept cookies and to delete cookies. The m
 
 Blocking all cookies will have a negative impact upon the usability of many websites. If you block cookies, you will not be able to use all the features on our website.
 
-**Do we submit any of your information to outside parties?**
+ **Do we submit any of your information to outside parties?**
 
 We do not sell, trade, or transfer any of your personal information to outside parties. The only exception to this rule is if said information is required to enforce applicable laws, site policies, or to protect the rights, property, or safety of Niche Gamer and its staff.
 
-**Links to Third Party Websites**
+ **Links to Third Party Websites**
 
 The websites that we link to have their own privacy policies and terms of service agreements. Therefore, we have no responsibility or liability regarding links to external third parties and their content.
 
-**Amendments**
+ **Amendments**
 
 We may update this policy from time to time by publishing a new version on our website. You should check this page occasionally to ensure you are happy with any changes to this policy. We may notify you of changes to this policy by email or through the private messaging system on our website.
 
 By using our website, you are consenting to our privacy policy. This policy only applies to the information collected from our website. Any changes made to this policy will be shown here, and made note of by the last modified date, seen below.
 
-_This policy was last modified on May 25th, 2018._
+ _This policy was last modified on May 25th, 2018._
