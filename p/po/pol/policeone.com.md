@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the policeone.com privacy policy that was archived on 2018-11-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181116010445id_/https%3A//www.policeone.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the policeone.com privacy policy that was archived on 2019-03-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190330180749id_/https%3A//www.policeone.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -6,10 +6,10 @@
 
 This Web site is owned and operated by:
 
-Praetorian Digital   
-200 Green St., Suite 200   
-San Francisco, CA 94111   
-Toll Free: 866/402-4371 
+Praetorian Digital  
+200 Green St., Suite 200  
+San Francisco, CA 94111  
+Toll Free: 866/402-4371
 
 We are committed to maintaining your confidence and trust with respect to the information we collect from you. This privacy policy applies to [www.PoliceOne.com](http://www.policeone.com/) (“PoliceOne”) sets forth what information we collect about you, how we use your information, and the choices you have about how we use your information.
 
@@ -148,6 +148,10 @@ We periodically post member testimonials on PoliceOne which may contain personal
 ### Social Media Widgets
 
 Our Web site includes Social Media Features, such as the Facebook Like button and Widgets, such as the Share this button or interactive mini-programs that run on our site. These Features may collect your IP address, which page you are visiting on our site, and may set a cookie to enable the Feature to function properly. Social Media Features and Widgets are either hosted by a third party or hosted directly on our Site. Your interactions with these Features are governed by the privacy policy of the company providing it.
+
+**3RD PARTY ADS**
+
+Our web site use third-party advertising companies to serve ads when you visit our site. These companies may use information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, [Click here](http://www.networkadvertising.org/managing/opt_out.asp\))
 
 ### Changes in this Privacy Statement
 
