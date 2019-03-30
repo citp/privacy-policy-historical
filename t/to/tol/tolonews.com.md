@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tolonews.com privacy policy that was archived on 2018-02-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180202064639id_/https%3A//www.tolonews.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tolonews.com privacy policy that was archived on 2019-03-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190330092656id_/https%3A//www.tolonews.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | TOLOnews
 
@@ -95,3 +95,15 @@ PO Box 478802
 Office 408, 4th Floor, Bldg. 3
 
 Studio City, Dubai, UAE
+
+**CONFIDENTIALITY**
+
+This Policy is confidential and proprietary to Moby and, accordingly, are not to be distributed outside of Moby without written approval of Moby Legal and Compliance.
+
+**DEVIATIONS**
+
+Any deviations from this policy must be reviewed and approved in accordance with the appropriate policy and signed off by all relevant stakeholders.
+
+**POLICY REVISIONS**
+
+This policy will be reviewed annually and, if necessary, revised. Any revisions of this policy must be reviewed and approved in accordance with the appropriate policies and signed off by all relevant stakeholders.
