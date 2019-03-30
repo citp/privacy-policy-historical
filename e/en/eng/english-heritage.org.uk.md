@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the english-heritage.org.uk privacy policy that was archived on 2018-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181223175016id_/https%3A//www.english-heritage.org.uk/about-us/our-people/our-policies) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the english-heritage.org.uk privacy policy that was archived on 2019-03-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190330195832id_/https%3A//www.english-heritage.org.uk/about-us/our-people/our-policies) for the most accurate reproduction.*
 
 # Policies | English Heritage
 
@@ -8,7 +8,7 @@ We are committed to protecting the privacy of our supporters. We take your priva
 
 We value and respect all the people whose support helps us to care for over 400 historic sites across the country and to keep the story of England alive for future generations.
 
-Our Privacy Policy explains how we collect, store and use the personal information you give to us. If you have any questions concerning your personal data and how we look after it then please contact us at [customers@english-heritage.org.uk](mailto:customers@english-heritage.org.uk). Alternatively if you would like to update how you would like to hear from us please use our [Subject Access Request Form](https://web.archive.org/siteassets/home/about-us/our-people/freedom-of-information/sar-form-1.doc).
+Our Privacy Policy explains how we collect, store and use the personal information you give to us. If you have any questions concerning your personal data and how we look after it then please contact us at [customers@english-heritage.org.uk](mailto:customers@english-heritage.org.uk). Alternatively if you would like to update how you would like to hear from us please use our [Update Preferences form](https://web.archive.org/forms/update-preferences-form/ "Update Preferences form").
 
 We are recorded on the ICO Data Protection Register under registration number ZA111846. 
 
