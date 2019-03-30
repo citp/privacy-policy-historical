@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the acer.edu.au privacy policy that was archived on 2018-08-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180826172825id_/https%3A//www.acer.org/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the acer.edu.au privacy policy that was archived on 2019-03-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190330132004id_/https%3A//www.acer.org/privacy) for the most accurate reproduction.*
 
 # ACER and your personal information - ACER
 
@@ -83,7 +83,7 @@ You may elect not to identify yourself or you may use a pseudonym in your dealin
 
 **How can you request not to receive direct marketing?**
 
-You may ask us at any time to stop sending you direct marketing information or to stop being contacted by or on our behalf, in a particular way or at all.  You can do this by calling us on  +61 3 9277 5555 or [by contacting us via our website](https://web.archive.org/about-us/contact-us).
+You may ask us at any time to stop sending you direct marketing information or to stop being contacted by or on our behalf, in a particular way or at all.  You can do this by calling us on  +61 3 9277 5555 or [by contacting us via our website](https://web.archive.org/about-us/locations).
 
 **Who do we disclose your personal information to?**
 
