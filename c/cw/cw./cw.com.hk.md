@@ -1,63 +1,103 @@
-> *The following text is extracted and transformed from the cw.com.hk privacy policy that was archived on 2018-01-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180121111059id_/https%3A//www.questex.asia/privacy-policy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cw.com.hk privacy policy that was archived on 2019-03-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190330103127id_/https%3A//www.questex.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy Statement | Questex | Digital Media | Events | Business Information | Content Marketing & Media
+# Privacy Policy | Questex
 
-We take individual privacy seriously. This privacy policy tells you how we use personal information collected at our websites. Please read this privacy policy before using the site or submitting any personal information. By using Questex websites, you are accepting the practices described in this privacy policy. This Statement explains our policies and practices.
+### Privacy Policy
 
-  * to implement computer, physical and procedural safeguards to protect the security and confidentiality of the personal data we collect
-  * to limit the personal data collected to the minimum required to provide a better service
-  * to permit only properly trained, authorized employees to access personal data
+This site is part of the network of websites, including [http://www.questex.com](http://www.questex.com/), (collectively referred to as the "Site") created and operated by Questex Media Group LLC, which includes Questex, LLC (collectively referred to as "Questex" or "we"). This privacy policy explains how we use any personal information we collect about you when you use this Site.  
+_Topics:_
+
+  * **What information we collect about you**
+  * **Why your information is processed and how it will be used**
+  * **Data Integrity and Purpose Limitation**
+  * **Your Choices**
+  * **Special circumstances where we may disclose your information**
+  * **Accountability for onward transfer of personal data**
+  * **How we protect your information**
+  * **Hyperlinks and other websites**
+  * **What do we do with your information when you terminate your relationship with us?**
+  * **Your rights**
+  * **Questions or feedback**
 
 
 
-These practices may be changed, but any changes will be posted and changes will only apply to activities and information on a going forward, not retroactive basis. You are encouraged to review the privacy policy whenever you visit Questex websites to make sure that you understand how any personal information you provide will be used.
+We keep our privacy policy under regular review and we will place any updates on this webpage. If we make material changes to this Privacy Policy, we will give you notice of such changes by posting the revised policy on this Site, and where appropriate, by other means. This Privacy Policy was last updated on May 18, 2018. By providing your written consent and continuing to use the Site, you are accepting and consenting to the use of your information as described in this Privacy Policy.
 
-## Information Collection
+**What information we collect about you**  
+The information we collect on our Site generally falls into the following two categories: "personal information" and "non-personally identifiable information." Personal information refers to information that lets us know the specifics of who you are (for example, your name, job title, company, physical mailing address, e-mail address, telephone and fax numbers and, if applicable, financial information such as your credit card information). Non-personally identifiable information refers to information that does not by itself identify a specific individual. If we do combine non-personally identifiable information with personal information, the combined information will be treated as personal information for as long as it remains combined.
 
-In order to provide a better service to you, we may collect information when you register with us, use our services, attend our functions, or communicate with us.
+In general, we collect your personal information when you voluntarily provide it to us, such as when you register with us or place an order for products or services. We also collect information when you voluntarily complete customer surveys, provide feedback and participate in competitions. In addition, our Site may use "cookies" to gather non-personally identifiable information.
 
-We collect information and maintain a database about Hong Kong and overseas companies. In the process, we also collect personal information about individual contact persons of the companies or their employees (referrals). The types of data we may collect include but are not limited to name, employer, job title, phone number, email address and mailing address.
+_Cookies_  
+Cookies are text files placed on your computer to collect standard internet log information and visitor behavior information. This information is used to track visitor use of the website and to compile statistical reports on website activity. For further information visit [www.aboutcookies.org](http://www.aboutcookies.org/) or [www.allaboutcookies.org](http://www.allaboutcookies.org/). You can set your browser not to accept cookies and the above websites tell you how to remove cookies from your browser. However in a few cases some of our Site features may not function as a result.
 
-If specific information is requested but not supplied, we may be unable to provide the requested service. We only retain personal data for so long as it is necessary.
+**Why your information is processed and how it will be used**  
+Personal information you provide to us is used to process your order, manage your account, deliver the services you request (including communicating with you about your subscription to our publications and your registration for a trade show, conference or event), and to respond to your inquiries and contact you about the Site and/or our services on the basis of your consent and may be used in a number of ways, for example:
 
-Questex websites sometimes may offer content (e.g., whitepapers, promotions) that are sponsored by or cobranded with identified third parties. By virtue of these relationships, the third parties may obtain personally identifiable information that you voluntarily submit to participate in the site activity. QUESTEX has no control over these third parties' use of this information.
+  * registration for attendance at certain Questex trade shows, conferences and events;
+  * subscriptions to Questex publications, including e-newsletters; and
+  * to access certain features or functions of our Site.
 
-## Use of your Personal Information
 
-We give you choices and control over the collection and use of your Personal Information. You can update your Personal Information or remove your email address from our email list.
 
-There are known methods that spammers can use to hide their identity by using other people's email address to send out emails. If you have any question about the genuineness of an email you receive that appears to be from QUESTEX, contact us at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#85e6f0f6f1eae8e0f7daf6e0f7f3ece6e0c5f4f0e0f6f1e0fde4f6ece4abe6eae8) and do not furnish personal information in response to that email.
+In processing your order, we may send your details to, and also use financial information you submit or information from credit reference agencies and fraud prevention agencies to verify your credit and collect payments for your purchases, orders, and registrations.
 
-We may conduct direct marketing via email, direct mail, telephone and other means of communication, or send e-newsletters to you. You may choose not to receive promotional materials, by simply telling us, and we will cease to do so, without charge.
+We would like to send you information about products and services of ours and other companies in our group which may be of interest to you. If you have consented to receive marketing, you may opt out at a later date. You have a right at any time to stop us from contacting you for marketing purposes or providing your information to others.
 
-## Cookie Technology
+If you no longer wish to be contacted for marketing purposes, please email us at [privacy@questex.com](mailto:privacy@questex.com).
 
-Cookies are commonly used to facilitate transmission and to provide more useful features. It is a piece of data stored in your computer. We use these devices to find out more about the use of our websites and user preferences, in order to improve our services. We may share summarized traffic data with advertisers. We note traffic, pages visited and time spent. You are not identified. If you agree by registering with us, we may link the information to you, you will receive information more suited to your interests.
+**Data Integrity and Purpose Limitation**  
+Questex takes reasonable steps to ensure that the personal data that it processes is: (i) relevant for the purposes for which it is to be used, (ii) reliable for its intended use, and (iii) accurate, complete and current.
 
-You may set your browser to reject cookies, or tell you when a cookie is being sent.
+**Your choices**  
+Questex offers you the opportunity to choose or opt out of disclosure of your personal data to certain third parties or use your personal data for a purpose that is incompatible with the purpose for which the information was originally collected or subsequently authorized by you. You may contact Questex as indicated below regarding the company's use or disclosure of your personal data.
 
-Cookies are necessary for some features of the website to work, e.g., to maintain continuity during a session. If they are not accepted, those features may not work properly.
+Questex's online Privacy Policy sets forth the circumstances in which Questex may disclose personal data without offering you an opportunity to opt out, including:
 
-## Disclosure
+  * to its subsidiary companies as necessary to perform services on its behalf;
+  * to service providers, affiliates, agents and/or business partners Questex has retained to perform services on its behalf;
+  * when Questex believes disclosure is necessary to prevent physical harm or financial loss, or in connection with an investigation of suspected or actual illegal activity; or
+  * in the event it sells or transfers all or a portion of its business or assets (including in the event of a divestiture, merger, consolidation, liquidation or bankruptcy). Should such a sale or transfer occur, Questex will use reasonable efforts to direct the transferee to use the personal data in a manner that is consistent with this Privacy Policy.
 
-We will keep the personal data we hold confidential but may provide information to personnel, agents, advisers, auditors, contractors, financial institutions, and service providers in connection with our operations or services ; our overseas offices, affiliates, business partners and counterparts ; persons under a duty of confidentiality to us ; persons to whom we are required to make disclosure under applicable laws in or outside Hong Kong; actual or proposed transferees or participants of our services.
 
-## Commitment to Data Security
 
-Your personally identifiable information is kept secure. We have put in place appropriate physical, electronic, and managerial procedures to safeguard and help prevent unauthorized access, maintain data security, and correctly use the information we collect online. All emails and newsletters from this site allow you to opt out of further mailings.
+**Special circumstances where we may disclose your information**  
+Other than as set forth above, we may use and/or disclose your information, including your Personally Identifiable Information, in the following circumstances:
 
-## Copyright notice, disclaimer
+  * To enforce, and/or investigate violations of, our site Terms of Use and/or this Policy.
+  * Although unlikely, your personal information may be disclosed to the governments, courts, law enforcement or regulatory agencies under a lawful order in a jurisdiction where you are located and/or where your personal information is stored and/or processed. You cannot opt out of disclosure of your personal information if required by lawful order.
 
-Questex Asia Ltd. (Questex websites) is an Information Technology-related service which has been created to be easily accessible to all users, but it has limitations and risks which must be made known to the users before participating. By using the Service Users are consenting and agreeing to abide by these terms. QUESTEX will not be held liable for any losses, damages, costs or expenses arising from user's reliance on the accuracy of the content supplied /provided on Questex websites. QUESTEX reserves the right to change, cancel or introduce new terms and conditions in the Agreement in its discretion at any time, and without prior notice.
 
-## Privacy Contact Information
 
-If you have any questions, concerns, or comments about our privacy policy you may contact us using the information below:
+**Accountability for onward transfer of personal data**  
+Questex may share your personal data with third parties as indicated above and consistent with its online Privacy Policy. Except as permitted or required by applicable law, Questex requires third parties controllers to whom it discloses your personal data to either (i) subscribe to the relevant Privacy Principles or (ii) contractually agree that data will only be processed for limited and specified purposes consistent with the consent given by the individual, that the recipient will provide the same level of protection and that the recipient will notify Questex if it makes a determination that it can no longer meet those obligations.
 
-Questex Asia Ltd.
+**How we protect your information**  
+We use reasonable technological and physical safeguards to protect your personal information from loss, misuse and unauthorized access, disclosure, alteration and destruction. We follow generally accepted industry standards to protect the information submitted to us, both during transmission and once we receive it.
 
-13/ F., 88 Hing Fat Street, Causeway Bay, Hong Kong
+**Hyperlinks and other websites**  
+Our Site may contains links to websites operated by others. This Privacy Policy only applies to this Site. Privacy policies for these third party sites and services may be different from our Privacy Policy. You access these third party sites and services at your own risk so when you link to other websites, you should read their privacy policies.
 
-Customer service telephone number: +852 2589 1313
+**What do we do with your information when you terminate your relationship with us?**  
+In general, we will only retain your information for the time necessary to realize our legitimate business purposes and to comply with the law. However, we may continue to store anonymous or anonymized information, such as website visits, without identifiers, in order to improve our services.
 
-[[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#89eafcfafde6e4ecfbd6faecfbffe0eaecc9f8fcecfafdecf1e8fae0e8a7eae6e4)
+**Your rights**  
+You have the right to:
+
+  * Withdraw your consent to the processing of your personal information at any time without penalty;
+  * Access your personal information and have it corrected, amended or deleted;
+  * Receive a copy of your personal data and transit such to others;
+  * At any time, to object to our processing of your personal information which we will comply with unless we demonstrate a compelling legitimate grounds for processing such that overrides your rights; and
+  * If you believe your personal information is inaccurate, unlawful, no longer necessary for our business purposes, or if you object to our processing of your personal information, you also have the right to instruct us to restrict the processing of your data pending our investigation and/or verification of your claim.
+
+
+
+If you wish to raise a complaint and initiate and investigation on how we have handled your personal data, or request a copy of your personal information, please email us at [privacy@questex.com](mailto:privacy@questex.com). We may make a small charge for this service.
+
+**Questions or feedback**  
+If you have any questions or comments regarding our privacy policy and practice, please email us at [privacy@questex.com](mailto:privacy@questex.com) or by using the contact details below:
+
+Privacy Officer  
+Questex, LLC  
+1900 L Street Suite 400  
+Washington, DC 20036
