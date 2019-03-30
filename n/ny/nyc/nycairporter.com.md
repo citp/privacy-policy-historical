@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nycairporter.com privacy policy that was archived on 2018-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181122145800id_/https%3A//www.nycairporter.com/Company/PrivacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nycairporter.com privacy policy that was archived on 2019-03-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190330085957id_/https%3A//www.nycairporter.com/Company/PrivacyPolicy) for the most accurate reproduction.*
 
 # NYC Airporter Privacy Policy - We are Committed to Protecting Your Privacy
 
