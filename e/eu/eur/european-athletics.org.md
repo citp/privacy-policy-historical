@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the european-athletics.org privacy policy that was archived on 2018-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180606065526id_/http%3A//www.european-athletics.org/european-athletics/privacy-policy/index.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the european-athletics.org privacy policy that was archived on 2019-03-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190330095421id_/https%3A//www.european-athletics.org/european-athletics/privacy-policy/index.html) for the most accurate reproduction.*
 
 # European Athletics
 
