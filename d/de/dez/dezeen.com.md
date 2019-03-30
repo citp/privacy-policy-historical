@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dezeen.com privacy policy that was archived on 2018-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181230052426id_/https%3A//www.dezeen.com/privacy-notice) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dezeen.com privacy policy that was archived on 2019-03-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190330083727id_/https%3A//www.dezeen.com/privacy-notice) for the most accurate reproduction.*
 
 # Privacy notice | Dezeen
 
@@ -45,18 +45,17 @@ Personal data, or personal information, means any information about an individua
 
 We may collect, use, store and transfer different kinds of personal data about you which we have grouped together follows:
 
-  * **Identity Data** includes first name, maiden name, last name, username or similar identifier, marital status, title, date of birth and gender.
-  * **Contact Data** includes billing address, delivery address, email address and telephone numbers.
-  * **Financial Data** includes bank account and payment card details.
-  * **Transaction Data** includes details about payments to and from you and other details of products and services you have purchased from us.
-  * **Technical Data** includes internet protocol (IP) address, your login data, browser type and version, time zone setting and location, browser plug-in types and versions, operating system and platform and other technology on the devices you use to access our website.
-  * **Profile Data** includes your username and password, purchases or orders made by you, your interests, preferences, feedback and survey responses.
-  * **Usage Data** includes information about how you use our website, products and services.
-  * **Marketing and Communications Data** includes your preferences in receiving marketing from us and our third parties and your communication preferences.
+  * **Identity data** includes first name, maiden name, last name, username or similar identifier, marital status, title, date of birth and gender.
+  * **Contact data** includes billing address, delivery address, email address and telephone numbers.
+  * **Transaction data** includes details about payments to and from you and other details of products and services you have purchased from us. In relation to transactions which are processed by PayPal, we do not store credit/debit card information nor do we share customers' details with any third parties.
+  * **Technical data** includes internet protocol (IP) address, your login data, browser type and version, time zone setting and location, browser plug-in types and versions, operating system and platform and other technology on the devices you use to access our website.
+  * **Profile data** includes your username and password, purchases or orders made by you, your interests, preferences, feedback and survey responses.
+  * **Usage data** includes information about how you use our website, products and services.
+  * **Marketing and communications data** includes your preferences in receiving marketing from us and our third parties and your communication preferences.
 
 
 
-We also collect, use and share **Aggregated Data** such as statistical or demographic data for any purpose. Aggregated Data may be derived from your personal data but is not considered personal data in law as this data does not directly or indirectly reveal your identity. For example, we may aggregate your Usage Data to calculate the percentage of users accessing a specific website feature.
+We also collect, use and share **Aggregated data** such as statistical or demographic data for any purpose. Aggregated Data may be derived from your personal data but is not considered personal data in law as this data does not directly or indirectly reveal your identity. For example, we may aggregate your Usage Data to calculate the percentage of users accessing a specific website feature.
 
 However, if we combine or connect Aggregated Data with your personal data so that it can directly or indirectly identify you, we treat the combined data as personal data which will be used in accordance with this privacy notice.
 
