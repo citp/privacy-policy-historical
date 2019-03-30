@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the menafn.com privacy policy that was archived on 2018-07-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180709105446id_/https%3A//www.menafn.com/mf_privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the menafn.com privacy policy that was archived on 2019-03-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190330160446id_/https%3A//menafn.com/mf_privacy.aspx) for the most accurate reproduction.*
 
-# Business & Financial - International News, Currencies & Economic Indicators | MENAFN.COM
+# Privacy | MENAFN.COM
 
 [](https://web.archive.org/index.aspx)
 
-Monday,  09 July 2018 01:54 GMT
+Sunday,  31 March 2019 12:04 GMT
 
 [](https://web.archive.org/index.aspx)
 
@@ -144,7 +144,7 @@ The following is our policy regarding privacy of information gathered on this Si
 >> 
 
 
-> > In the event that you should forget your password, please contact one of MENAFN's representatives on support@menafn.com
+> > In the event that you should forget your password, please contact one of MENAFN's representatives on [Click here](https://menafn.com/mf_contact.aspx?src=Contact_Support)
 >> 
 >> For added security, it is recommended that you always log off after you have finished using your MENAFN account. This ensures that no one else accesses your account if you leave your computer unattended and your session has not "timed out" or automatically shut down.  
   
@@ -168,15 +168,4 @@ The following is our policy regarding privacy of information gathered on this Si
 >> 
 >> **Links**
 >> 
->> When we include links to services or products on other web pages we may embed a code that allows us to know whether you clicked on that link. We do this so that we can personalize your experience, such as recognizing you when you reach the web page you clicked to, or by displaying information and content we believe will be relevant to you. We also do this to measure the effectiveness and usefulness of our advertisements and the messages we send, and we use this information to continually improve the way we communicate.  
-  
-## Newsletter
-
-Daily English 
-
-Daily Arabic 
-
-All 
-
-  
-
+>> When we include links to services or products on other web pages we may embed a code that allows us to know whether you clicked on that link. We do this so that we can personalize your experience, such as recognizing you when you reach the web page you clicked to, or by displaying information and content we believe will be relevant to you. We also do this to measure the effectiveness and usefulness of our advertisements and the messages we send, and we use this information to continually improve the way we communicate.
