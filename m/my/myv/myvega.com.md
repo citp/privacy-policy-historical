@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the myvega.com privacy policy that was archived on 2015-09-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150930060433id_/http%3A//myvega.com/about/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the myvega.com privacy policy that was archived on 2019-03-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190330104329id_/https%3A//myvega.com/pages/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - Vega
+# Privacy Policy | Vega (US)
 
 ### MyVega & VegaSport Privacy Policy
 
