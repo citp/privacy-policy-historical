@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nutritionsecrets.com privacy policy that was archived on 2018-02-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180224154757id_/https%3A//legionathletics.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nutritionsecrets.com privacy policy that was archived on 2019-03-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190330205138id_/https%3A//legionathletics.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Legion Athletics
 
@@ -93,3 +93,15 @@ If there are any questions regarding this privacy policy you may contact us usin
 Clearwater, FL 33755  
 US  
 contact@legionsupplements.com
+
+## FREE WORLDWIDE SHIPPING
+
+Many companies use shipping and handling fees to increase their profit margins, but here at Legion Athletics, we hate profit so our shipping is 100% free!
+
+Okay, we don't exactly hate profit, but we do offer **100% free shipping to everywhere in the world** because it makes people you like happy, and that makes us happy.
+
+So, if you live in the United States, **your order ships free regardless of order size** , and if you live anywhere else, **your order ships free when it’s over $99**.
+
+Why the restriction on international orders?
+
+Unfortunately shipping outside of the US is very expensive and if we didn't require a minimum order size, we'd lose a lot of money. That said, most customers spend about $100 with us each time they shop, so this setup is a win-win.
