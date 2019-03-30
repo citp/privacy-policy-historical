@@ -1,0 +1,1778 @@
+<!--The following is the downloaded HTML source of the vizzlo.com privacy policy that was archived on 2019-03-30.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20190330223638id_/https%3A//vizzlo.com/privacy) for the most accurate reproduction.-->
+
+<!DOCTYPE html><html lang="en"><head>
+	<meta charset="utf-8">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+	<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
+	<meta name="p:domain_verify" content="666add26d1fc9dda2454e38b4d120d7a">
+
+	
+	<script type="text/javascript" async="" src="https://cdn.firstpromoter.com/fprom.js"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script type="text/javascript" async="" src="//cdn.mxpnl.com/libs/mixpanel-2-latest.min.js"></script><script crossorigin="" src="https://cdnjs.cloudflare.com/ajax/libs/rollbar.js/2.3.1/rollbar.min.js" async=""></script><script>
+		try{
+		var _rollbarConfig = {
+			accessToken: "4add23f292db4db1a9ed3b9d84abc9ea",
+			captureUncaught: true,
+			payload: {
+				environment: "prod",
+				client: {
+					javascript: {
+						code_version: "85b350a8f913671ed69512c4125a06a08e9a3b11"
+					},
+					code_version: "85b350a8f913671ed69512c4125a06a08e9a3b11"
+				}
+			}
+		};
+		!function(r){function o(n){if(e[n])return e[n].exports;var t=e[n]={exports:{},id:n,loaded:!1};return r[n].call(t.exports,t,t.exports,o),t.loaded=!0,t.exports}var e={};return o.m=r,o.c=e,o.p="",o(0)}([function(r,o,e){"use strict";var n=e(1),t=e(4);_rollbarConfig=_rollbarConfig||{},_rollbarConfig.rollbarJsUrl=_rollbarConfig.rollbarJsUrl||"https://cdnjs.cloudflare.com/ajax/libs/rollbar.js/2.3.1/rollbar.min.js",_rollbarConfig.async=void 0===_rollbarConfig.async||_rollbarConfig.async;var a=n.setupShim(window,_rollbarConfig),l=t(_rollbarConfig);window.rollbar=n.Rollbar,a.loadFull(window,document,!_rollbarConfig.async,_rollbarConfig,l)},function(r,o,e){"use strict";function n(r){return function(){try{return r.apply(this,arguments)}catch(r){try{console.error("[Rollbar]: Internal error",r)}catch(r){}}}}function t(r,o){this.options=r,this._rollbarOldOnError=null;var e=s++;this.shimId=function(){return e},window&&window._rollbarShims&&(window._rollbarShims[e]={handler:o,messages:[]})}function a(r,o){var e=o.globalAlias||"Rollbar";if("object"==typeof r[e])return r[e];r._rollbarShims={},r._rollbarWrappedError=null;var t=new p(o);return n(function(){o.captureUncaught&&(t._rollbarOldOnError=r.onerror,i.captureUncaughtExceptions(r,t,!0),i.wrapGlobals(r,t,!0)),o.captureUnhandledRejections&&i.captureUnhandledRejections(r,t,!0);var n=o.autoInstrument;return(void 0===n||n===!0||"object"==typeof n&&n.network)&&r.addEventListener&&(r.addEventListener("load",t.captureLoad.bind(t)),r.addEventListener("DOMContentLoaded",t.captureDomContentLoaded.bind(t))),r[e]=t,t})()}function l(r){return n(function(){var o=this,e=Array.prototype.slice.call(arguments,0),n={shim:o,method:r,args:e,ts:new Date};window._rollbarShims[this.shimId()].messages.push(n)})}var i=e(2),s=0,d=e(3),c=function(r,o){return new t(r,o)},p=d.bind(null,c);t.prototype.loadFull=function(r,o,e,t,a){var l=function(){var o;if(void 0===r._rollbarDidLoad){o=new Error("rollbar.js did not load");for(var e,n,t,l,i=0;e=r._rollbarShims[i++];)for(e=e.messages||[];n=e.shift();)for(t=n.args||[],i=0;i<t.length;++i)if(l=t[i],"function"==typeof l){l(o);break}}"function"==typeof a&&a(o)},i=!1,s=o.createElement("script"),d=o.getElementsByTagName("script")[0],c=d.parentNode;s.crossOrigin="",s.src=t.rollbarJsUrl,e||(s.async=!0),s.onload=s.onreadystatechange=n(function(){if(!(i||this.readyState&&"loaded"!==this.readyState&&"complete"!==this.readyState)){s.onload=s.onreadystatechange=null;try{c.removeChild(s)}catch(r){}i=!0,l()}}),c.insertBefore(s,d)},t.prototype.wrap=function(r,o,e){try{var n;if(n="function"==typeof o?o:function(){return o||{}},"function"!=typeof r)return r;if(r._isWrap)return r;if(!r._rollbar_wrapped&&(r._rollbar_wrapped=function(){e&&"function"==typeof e&&e.apply(this,arguments);try{return r.apply(this,arguments)}catch(e){var o=e;throw"string"==typeof o&&(o=new String(o)),o._rollbarContext=n()||{},o._rollbarContext._wrappedSource=r.toString(),window._rollbarWrappedError=o,o}},r._rollbar_wrapped._isWrap=!0,r.hasOwnProperty))for(var t in r)r.hasOwnProperty(t)&&(r._rollbar_wrapped[t]=r[t]);return r._rollbar_wrapped}catch(o){return r}};for(var u="log,debug,info,warn,warning,error,critical,global,configure,handleUncaughtException,handleUnhandledRejection,captureDomContentLoaded,captureLoad".split(","),f=0;f<u.length;++f)t.prototype[u[f]]=l(u[f]);r.exports={setupShim:a,Rollbar:p}},function(r,o){"use strict";function e(r,o,e){if(r){var t;"function"==typeof o._rollbarOldOnError?t=o._rollbarOldOnError:r.onerror&&!r.onerror.belongsToShim&&(t=r.onerror,o._rollbarOldOnError=t);var a=function(){var e=Array.prototype.slice.call(arguments,0);n(r,o,t,e)};a.belongsToShim=e,r.onerror=a}}function n(r,o,e,n){r._rollbarWrappedError&&(n[4]||(n[4]=r._rollbarWrappedError),n[5]||(n[5]=r._rollbarWrappedError._rollbarContext),r._rollbarWrappedError=null),o.handleUncaughtException.apply(o,n),e&&e.apply(r,n)}function t(r,o,e){if(r){"function"==typeof r._rollbarURH&&r._rollbarURH.belongsToShim&&r.removeEventListener("unhandledrejection",r._rollbarURH);var n=function(r){var e=r.reason,n=r.promise,t=r.detail;!e&&t&&(e=t.reason,n=t.promise),o&&o.handleUnhandledRejection&&o.handleUnhandledRejection(e,n)};n.belongsToShim=e,r._rollbarURH=n,r.addEventListener("unhandledrejection",n)}}function a(r,o,e){if(r){var n,t,a="EventTarget,Window,Node,ApplicationCache,AudioTrackList,ChannelMergerNode,CryptoOperation,EventSource,FileReader,HTMLUnknownElement,IDBDatabase,IDBRequest,IDBTransaction,KeyOperation,MediaController,MessagePort,ModalWindow,Notification,SVGElementInstance,Screen,TextTrack,TextTrackCue,TextTrackList,WebSocket,WebSocketWorker,Worker,XMLHttpRequest,XMLHttpRequestEventTarget,XMLHttpRequestUpload".split(",");for(n=0;n<a.length;++n)t=a[n],r[t]&&r[t].prototype&&l(o,r[t].prototype,e)}}function l(r,o,e){if(o.hasOwnProperty&&o.hasOwnProperty("addEventListener")){for(var n=o.addEventListener;n._rollbarOldAdd&&n.belongsToShim;)n=n._rollbarOldAdd;var t=function(o,e,t){n.call(this,o,r.wrap(e),t)};t._rollbarOldAdd=n,t.belongsToShim=e,o.addEventListener=t;for(var a=o.removeEventListener;a._rollbarOldRemove&&a.belongsToShim;)a=a._rollbarOldRemove;var l=function(r,o,e){a.call(this,r,o&&o._rollbar_wrapped||o,e)};l._rollbarOldRemove=a,l.belongsToShim=e,o.removeEventListener=l}}r.exports={captureUncaughtExceptions:e,captureUnhandledRejections:t,wrapGlobals:a}},function(r,o){"use strict";function e(r,o){this.impl=r(o,this),this.options=o,n(e.prototype)}function n(r){for(var o=function(r){return function(){var o=Array.prototype.slice.call(arguments,0);if(this.impl[r])return this.impl[r].apply(this.impl,o)}},e="log,debug,info,warn,warning,error,critical,global,configure,handleUncaughtException,handleUnhandledRejection,_createItem,wrap,loadFull,shimId,captureDomContentLoaded,captureLoad".split(","),n=0;n<e.length;n++)r[e[n]]=o(e[n])}e.prototype._swapAndProcessMessages=function(r,o){this.impl=r(this.options);for(var e,n,t;e=o.shift();)n=e.method,t=e.args,this[n]&&"function"==typeof this[n]&&("captureDomContentLoaded"===n||"captureLoad"===n?this[n].apply(this,[t[0],e.ts]):this[n].apply(this,t));return this},r.exports=e},function(r,o){"use strict";r.exports=function(r){return function(o){if(!o&&!window._rollbarInitialized){r=r||{};for(var e,n,t=r.globalAlias||"Rollbar",a=window.rollbar,l=function(r){return new a(r)},i=0;e=window._rollbarShims[i++];)n||(n=e.handler),e.handler._swapAndProcessMessages(l,e.messages);window[t]=n,window._rollbarInitialized=!0}}}}]);
+	} catch (e) {
+	console.log(e);
+	throw e;
+}
+		</script>
+	
+	
+
+	<link rel="apple-touch-icon" sizes="180x180" href="/img/apple-touch-icon.png?20589bce74912b7f306185225f74faf3">
+
+	
+	<meta name="keywords" content="chart, graphics, infographics, diagrams, business graphics, presentations, chart designer, chart maker, online chart maker, presentation tool, chart tool">
+	<meta property="og:title" content="Create engaging charts and business graphics with Vizzlo.">
+	<meta property="og:description" content="Create high-quality charts and business graphics for free in just seconds.">
+	<meta property="og:url" content="https://vizzlo.com/">
+	<meta property="og:image" content="https://vizzlo.com/img/logo200.png">
+	<meta property="twitter:site" content="@vizzlo">
+	<meta property="twitter:card" content="summary">
+	
+	
+
+	
+	<title>Privacy Policy — Vizzlo</title>
+	
+    <link rel="preload" as="style" href="/css/global.css?6f7c243fe72626e73869438aecbaf4fa">
+    <link rel="preload" as="style" href="/css/vendor.css?2ee9e19400f9eb54ef8d5076be5f876d">
+	  <link rel="stylesheet" type="text/css" href="/css/vendor.css?2ee9e19400f9eb54ef8d5076be5f876d">
+    <link rel="stylesheet" type="text/css" href="/css/global.css?6f7c243fe72626e73869438aecbaf4fa">
+	
+	
+	
+
+	<script type="text/javascript">try{
+		(function(e,a){if(!a.__SV){var b=window;try{var c,l,i,j=b.location,g=j.hash;c=function(a,b){return(l=a.match(RegExp(b+"=([^&]*)")))?l[1]:null};g&&c(g,"state")&&(i=JSON.parse(decodeURIComponent(c(g,"state"))),"mpeditor"===i.action&&(b.sessionStorage.setItem("_mpcehash",g),history.replaceState(i.desiredHash||"",e.title,j.pathname+j.search)))}catch(m){}var k,h;window.mixpanel=a;a._i=[];a.init=function(b,c,f){function e(b,a){var c=a.split(".");2==c.length&&(b=b[c[0]],a=c[1]);b[a]=function(){b.push([a].concat(Array.prototype.slice.call(arguments,
+0)))}}var d=a;"undefined"!==typeof f?d=a[f]=[]:f="mixpanel";d.people=d.people||[];d.toString=function(b){var a="mixpanel";"mixpanel"!==f&&(a+="."+f);b||(a+=" (stub)");return a};d.people.toString=function(){return d.toString(1)+".people (stub)"};k="disable time_event track track_pageview track_links track_forms register register_once alias unregister identify name_tag set_config reset people.set people.set_once people.increment people.append people.union people.track_charge people.clear_charges people.delete_user".split(" ");
+for(h=0;h<k.length;h++)e(d,k[h]);a._i.push([b,c,f])};a.__SV=1.2;b=e.createElement("script");b.type="text/javascript";b.async=!0;b.src="undefined"!==typeof MIXPANEL_CUSTOM_LIB_URL?MIXPANEL_CUSTOM_LIB_URL:"file:"===e.location.protocol&&"//cdn.mxpnl.com/libs/mixpanel-2-latest.min.js".match(/^\/\//)?"https://cdn.mxpnl.com/libs/mixpanel-2-latest.min.js":"//cdn.mxpnl.com/libs/mixpanel-2-latest.min.js";c=e.getElementsByTagName("script")[0];c.parentNode.insertBefore(b,c)}})(document,window.mixpanel||[]);
+	mixpanel.init("58be0fe7b5495349ae3b3fbaf24d2254");
+	
+	
+	
+	mixpanel.track("Page view", {"path": window.location.pathname});
+	
+	
+
+	
+	
+	(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+	(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+	m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+	})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+	ga('create', "UA-59254746-1", 'auto');
+	
+  	ga('send', 'pageview');
+    window.onerror = function (msg, source, lineNo, columnNo, error) {
+ 		mixpanel.track("Exception Occured", {
+	        "message": msg,
+	        "source": source,
+	        "line": lineNo,
+	        "column": columnNo
+    	});
+        ga('send', 'exception', {
+            'exDescription': msg  + " in " + source + "@" + [lineNo, columnNo].join(":"),
+            'exFatal': false
+        });
+    };
+	
+} catch (e) {
+	console.log(e);
+	throw e;
+}
+	</script>
+	<script type="text/javascript">
+	try{
+	(function(){var t=document.createElement("script");t.type="text/javascript",t.async=!0,t.src='https://cdn.firstpromoter.com/fprom.js',t.onload=t.onreadystatechange=function(){var t=this.readyState;if(!t||"complete"==t||"loaded"==t)try{$FPROM.init("uye389we",".vizzlo.com")}catch(t){}};var e=document.getElementsByTagName("script")[0];e.parentNode.insertBefore(t,e)})();
+} catch (e) {
+	console.log(e);
+	throw e;
+}
+	</script>
+
+    <link rel="preload" href="/fonts/roboto/Roboto-Light.woff2" type="font/woff2" crossorigin="anonymous" as="font">
+    <link rel="preload" href="/fonts/roboto/Roboto-Regular.woff2" type="font/woff2" crossorigin="anonymous" as="font">
+    <link rel="preload" href="/fonts/roboto/Roboto-Medium.woff2" type="font/woff2" crossorigin="anonymous" as="font">
+    <link rel="preload" href="/fonts/euclid-flex/EuclidFlex-Bold-WebXL.woff2" type="font/woff2" crossorigin="anonymous" as="font">
+    <link rel="preload" href="/ext/font-awesome/fonts/fontawesome-webfont.woff2" type="font/woff2" crossorigin="anonymous" as="font">
+
+    <script>
+        window.vzlFontsLoaded = false;
+
+        if ("FontFace" in window) {
+            var robotoLight = new FontFace("Roboto", "url(/fonts/roboto/Roboto-Light.woff2)", {
+                style: 'normal', weight: '300'
+            });
+
+            var robotoRegular = new FontFace("Roboto", "url(/fonts/roboto/Roboto-Regular.woff2)", {
+                style: 'normal', weight: '400'
+            });
+
+            var robotoMedium = new FontFace("Roboto", "url(/fonts/roboto/Roboto-Medium.woff2)", {
+                style: 'normal', weight: '500'
+            });
+
+            var euclid = new FontFace("Euclid", "url(/fonts/euclid-flex/EuclidFlex-Bold-WebXL.woff2)", {
+                style: 'normal', weight: 'normal'
+            });
+
+            var fontAwesome = new FontFace("FontAwesome", "url(/ext/font-awesome/fonts/fontawesome-webfont.woff2)", {
+                style: 'normal', weight: 'normal'
+            });
+
+            
+            Promise.all([robotoLight.load(), robotoMedium.load(), robotoRegular.load(), euclid.load(), fontAwesome.load()]).then(function() {
+                
+                
+                document.fonts.add(robotoLight);
+                document.fonts.add(robotoMedium);
+                document.fonts.add(robotoRegular);
+                document.fonts.add(euclid);
+                document.fonts.add(fontAwesome);
+
+                window.vzlFontsLoaded = true;
+            });
+        }
+    </script>
+</head>
+
+<body class=""><svg style="position: absolute; width: 0; height: 0; overflow: hidden;" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" aria-hidden="true">
+    <defs>
+        <symbol id="linkedin" viewBox="0 0 24 24">
+            <title>linkedin</title>
+            <path d="M4.98 3.5c0 1.381-1.11 2.5-2.48 2.5s-2.48-1.119-2.48-2.5c0-1.38 1.11-2.5 2.48-2.5s2.48 1.12 2.48 2.5zm.02 4.5h-5v16h5v-16zm7.982 0h-4.968v16h4.969v-8.399c0-4.67 6.029-5.052 6.029 0v8.399h4.988v-10.131c0-7.88-8.922-7.593-11.018-3.714v-2.155z"></path>
+        </symbol>
+
+        <symbol id="linkedin-rounded" viewBox="0 0 24 24">
+            <title>linkedin-rounded</title>
+            <path d="M12 0c-6.627 0-12 5.373-12 12s5.373 12 12 12 12-5.373 12-12-5.373-12-12-12zm-2 16h-2v-6h2v6zm-1-6.891c-.607 0-1.1-.496-1.1-1.109 0-.612.492-1.109 1.1-1.109s1.1.497 1.1 1.109c0 .613-.493 1.109-1.1 1.109zm8 6.891h-1.998v-2.861c0-1.881-2.002-1.722-2.002 0v2.861h-2v-6h2v1.093c.872-1.616 4-1.736 4 1.548v3.359z"></path>
+        </symbol>
+
+        <symbol id="facebook" viewBox="0 0 24 24">
+            <title>facebook</title>
+            <path d="M9 8h-3v4h3v12h5v-12h3.642l.358-4h-4v-1.667c0-.955.192-1.333 1.115-1.333h2.885v-5h-3.808c-3.596 0-5.192 1.583-5.192 4.615v3.385z"></path>
+        </symbol>
+
+        <symbol id="facebook-rounded" viewBox="0 0 24 24">
+            <title>facebook-rounded</title>
+            <path d="M12 0c-6.627 0-12 5.373-12 12s5.373 12 12 12 12-5.373 12-12-5.373-12-12-12zm3 8h-1.35c-.538 0-.65.221-.65.778v1.222h2l-.209 2h-1.791v7h-3v-7h-2v-2h2v-2.308c0-1.769.931-2.692 3.029-2.692h1.971v3z"></path>
+        </symbol>
+
+        <symbol id="twitter-rounded" viewBox="0 0 24 24">
+            <title>twitter-rounded</title>
+            <path d="M12 0c-6.627 0-12 5.373-12 12s5.373 12 12 12 12-5.373 12-12-5.373-12-12-12zm6.066 9.645c.183 4.04-2.83 8.544-8.164 8.544-1.622 0-3.131-.476-4.402-1.291 1.524.18 3.045-.244 4.252-1.189-1.256-.023-2.317-.854-2.684-1.995.451.086.895.061 1.298-.049-1.381-.278-2.335-1.522-2.304-2.853.388.215.83.344 1.301.359-1.279-.855-1.641-2.544-.889-3.835 1.416 1.738 3.533 2.881 5.92 3.001-.419-1.796.944-3.527 2.799-3.527.825 0 1.572.349 2.096.907.654-.128 1.27-.368 1.824-.697-.215.671-.67 1.233-1.263 1.589.581-.07 1.135-.224 1.649-.453-.384.578-.87 1.084-1.433 1.489z"></path>
+        </symbol>
+
+        <symbol id="pinterest-rounded" viewBox="0 0 24 24">
+            <title>pinterest-rounded</title>
+            <path d="M12 0c-6.627 0-12 5.372-12 12 0 5.084 3.163 9.426 7.627 11.174-.105-.949-.2-2.405.042-3.441.218-.937 1.407-5.965 1.407-5.965s-.359-.719-.359-1.782c0-1.668.967-2.914 2.171-2.914 1.023 0 1.518.769 1.518 1.69 0 1.029-.655 2.568-.994 3.995-.283 1.194.599 2.169 1.777 2.169 2.133 0 3.772-2.249 3.772-5.495 0-2.873-2.064-4.882-5.012-4.882-3.414 0-5.418 2.561-5.418 5.207 0 1.031.397 2.138.893 2.738.098.119.112.224.083.345l-.333 1.36c-.053.22-.174.267-.402.161-1.499-.698-2.436-2.889-2.436-4.649 0-3.785 2.75-7.262 7.929-7.262 4.163 0 7.398 2.967 7.398 6.931 0 4.136-2.607 7.464-6.227 7.464-1.216 0-2.359-.631-2.75-1.378l-.748 2.853c-.271 1.043-1.002 2.35-1.492 3.146 1.124.347 2.317.535 3.554.535 6.627 0 12-5.373 12-12 0-6.628-5.373-12-12-12z" fill-rule="evenodd" clip-rule="evenodd"></path>
+        </symbol>
+
+        <symbol id="youtube-rounded" viewBox="0 0 24 24">
+            <title>youtube-rounded</title>
+            <path d="M10.918 13.933h.706v3.795h-.706v-.419c-.13.154-.266.272-.405.353-.381.218-.902.213-.902-.557v-3.172h.705v2.909c0 .153.037.256.188.256.138 0 .329-.176.415-.284v-2.881zm.642-4.181c.2 0 .311-.16.311-.377v-1.854c0-.223-.098-.38-.324-.38-.208 0-.309.161-.309.38v1.854c-.001.21.117.377.322.377zm-1.941 2.831h-2.439v.747h.823v4.398h.795v-4.398h.821v-.747zm4.721 2.253v2.105c0 .47-.176.834-.645.834-.259 0-.474-.094-.671-.34v.292h-.712v-5.145h.712v1.656c.16-.194.375-.354.628-.354.517.001.688.437.688.952zm-.727.043c0-.128-.024-.225-.075-.292-.086-.113-.244-.125-.367-.062l-.146.116v2.365l.167.134c.115.058.283.062.361-.039.04-.054.061-.141.061-.262v-1.96zm10.387-2.879c0 6.627-5.373 12-12 12s-12-5.373-12-12 5.373-12 12-12 12 5.373 12 12zm-10.746-2.251c0 .394.12.712.519.712.224 0 .534-.117.855-.498v.44h.741v-3.986h-.741v3.025c-.09.113-.291.299-.436.299-.159 0-.197-.108-.197-.269v-3.055h-.741v3.332zm-2.779-2.294v1.954c0 .703.367 1.068 1.085 1.068.597 0 1.065-.399 1.065-1.068v-1.954c0-.624-.465-1.071-1.065-1.071-.652 0-1.085.432-1.085 1.071zm-2.761-2.455l.993 3.211v2.191h.835v-2.191l.971-3.211h-.848l-.535 2.16-.575-2.16h-.841zm10.119 10.208c-.013-2.605-.204-3.602-1.848-3.714-1.518-.104-6.455-.103-7.971 0-1.642.112-1.835 1.104-1.848 3.714.013 2.606.204 3.602 1.848 3.715 1.516.103 6.453.103 7.971 0 1.643-.113 1.835-1.104 1.848-3.715zm-.885-.255v.966h-1.35v.716c0 .285.024.531.308.531.298 0 .315-.2.315-.531v-.264h.727v.285c0 .731-.313 1.174-1.057 1.174-.676 0-1.019-.491-1.019-1.174v-1.704c0-.659.435-1.116 1.071-1.116.678.001 1.005.431 1.005 1.117zm-.726-.007c0-.256-.054-.445-.309-.445-.261 0-.314.184-.314.445v.385h.623v-.385z"></path>
+        </symbol>
+
+        <symbol id="youtube2" viewBox="0 0 24 24">
+            <title>youtube2</title>
+            <path d="M19.615 3.184c-3.604-.246-11.631-.245-15.23 0-3.897.266-4.356 2.62-4.385 8.816.029 6.185.484 8.549 4.385 8.816 3.6.245 11.626.246 15.23 0 3.897-.266 4.356-2.62 4.385-8.816-.029-6.185-.484-8.549-4.385-8.816zm-10.615 12.816v-8l8 3.993-8 4.007z"></path>
+        </symbol>
+
+        <symbol id="github-rounded" viewBox="0 0 24 24">
+            <title>github-rounded</title>
+            <path d="M12 0c-6.626 0-12 5.373-12 12 0 5.302 3.438 9.8 8.207 11.387.599.111.793-.261.793-.577v-2.234c-3.338.726-4.033-1.416-4.033-1.416-.546-1.387-1.333-1.756-1.333-1.756-1.089-.745.083-.729.083-.729 1.205.084 1.839 1.237 1.839 1.237 1.07 1.834 2.807 1.304 3.492.997.107-.775.418-1.305.762-1.604-2.665-.305-5.467-1.334-5.467-5.931 0-1.311.469-2.381 1.236-3.221-.124-.303-.535-1.524.117-3.176 0 0 1.008-.322 3.301 1.23.957-.266 1.983-.399 3.003-.404 1.02.005 2.047.138 3.006.404 2.291-1.552 3.297-1.23 3.297-1.23.653 1.653.242 2.874.118 3.176.77.84 1.235 1.911 1.235 3.221 0 4.609-2.807 5.624-5.479 5.921.43.372.823 1.102.823 2.222v3.293c0 .319.192.694.801.576 4.765-1.589 8.199-6.086 8.199-11.386 0-6.627-5.373-12-12-12z"></path>
+        </symbol>
+
+        <symbol id="settings" viewBox="0 0 24 24">
+            <title>settings</title>
+            <path fill="none" d="M0 0h20v20H0V0z"></path>
+            <path d="M15.95 10.78c.03-.25.05-.51.05-.78s-.02-.53-.06-.78l1.69-1.32c.15-.12.19-.34.1-.51l-1.6-2.77c-.1-.18-.31-.24-.49-.18l-1.99.8c-.42-.32-.86-.58-1.35-.78L12 2.34c-.03-.2-.2-.34-.4-.34H8.4c-.2 0-.36.14-.39.34l-.3 2.12c-.49.2-.94.47-1.35.78l-1.99-.8c-.18-.07-.39 0-.49.18l-1.6 2.77c-.1.18-.06.39.1.51l1.69 1.32c-.04.25-.07.52-.07.78s.02.53.06.78L2.37 12.1c-.15.12-.19.34-.1.51l1.6 2.77c.1.18.31.24.49.18l1.99-.8c.42.32.86.58 1.35.78l.3 2.12c.04.2.2.34.4.34h3.2c.2 0 .37-.14.39-.34l.3-2.12c.49-.2.94-.47 1.35-.78l1.99.8c.18.07.39 0 .49-.18l1.6-2.77c.1-.18.06-.39-.1-.51l-1.67-1.32zM10 13c-1.65 0-3-1.35-3-3s1.35-3 3-3 3 1.35 3 3-1.35 3-3 3z"></path>
+        </symbol>
+
+        <symbol id="wrench" viewBox="0 0 24 24">
+            <title>wrench</title>
+            <path d="M5.496 1.261l3.77 3.771c.409 1.889-2.33 4.66-4.242 4.242l-3.77-3.771c-.172.585-.254 1.189-.254 1.793 0 1.602.603 3.202 1.826 4.426 1.351 1.351 3.164 1.957 4.931 1.821.933-.072 1.852.269 2.514.931l7.621 7.611c.577.578 1.337.915 2.096.915 1.661 0 3.047-1.411 3.012-3.077-.016-.737-.352-1.47-.914-2.033l-7.621-7.612c-.662-.661-1.002-1.581-.931-2.514.137-1.767-.471-3.58-1.82-4.93-1.225-1.224-2.825-1.834-4.427-1.834-.603 0-1.207.09-1.791.261zm15.459 18.692c0 .553-.447 1-1 1-.553 0-1-.448-1-1s.447-1 1-1 1 .447 1 1z"></path>
+        </symbol>
+
+        <symbol id="log-in" viewBox="0 0 24 24">
+            <title>log-in</title>
+            <path d="M8 9v-4l8 7-8 7v-4h-8v-6h8zm2-7v2h12v16h-12v2h14v-20h-14z"></path>
+        </symbol>
+
+        <symbol id="log-out" viewBox="0 0 24 24">
+            <title>log-out</title>
+            <path d="M16 9v-4l8 7-8 7v-4h-8v-6h8zm-16-7v20h14v-2h-12v-16h12v-2h-14z"></path>
+        </symbol>
+
+        <symbol id="close" viewBox="0 0 24 24">
+            <title>close</title>
+            <path d="M19 6.41L17.59 5 12 10.59 6.41 5 5 6.41 10.59 12 5 17.59 6.41 19 12 13.41 17.59 19 19 17.59 13.41 12z"></path>
+            <path d="M0 0h24v24H0z" fill="none"></path>
+        </symbol>
+
+        <symbol id="menu" viewBox="0 0 24 24">
+            <title>menu</title>
+            <path d="M0 0h24v24H0z" fill="none"></path>
+            <path d="M3 18h18v-2H3v2zm0-5h18v-2H3v2zm0-7v2h18V6H3z"></path>
+        </symbol>
+
+        <symbol id="copy" viewBox="0 0 24 24">
+            <title>copy</title>
+            <path d="M10 19h10v1h-10v-1zm14-13v18h-18v-6h-6v-18h18v6h6zm-18 0h10v-4h-14v14h4v-10zm16 2h-1.93c-.669 0-1.293.334-1.664.891l-1.406 2.109h-3.93l-1.406-2.109c-.371-.557-.995-.891-1.664-.891h-2v14h14v-14zm-12 6h10v-1h-10v1zm0 3h10v-1h-10v1z"></path>
+        </symbol>
+
+        <symbol id="heart" viewBox="0 0 24 24">
+            <title>heart</title>
+            <path d="M12 4.248c-3.148-5.402-12-3.825-12 2.944 0 4.661 5.571 9.427 12 15.808 6.43-6.381 12-11.147 12-15.808 0-6.792-8.875-8.306-12-2.944z"></path>
+        </symbol>
+
+        <symbol id="lock" viewBox="0 0 24 26.5">
+            <title>lock</title>
+            <path d="M17.7,9h-1.3V6.5c0-3.4-2.7-6.2-6.1-6.3c0,0-0.1,0-0.1,0C6.8,0.3,4,3.1,4,6.5c0,0,0,0,0,0.1V9H2.7
+	c-1.4,0-2.5,1.1-2.5,2.5V24c0,1.4,1.1,2.5,2.5,2.5h15c1.4,0,2.5-1.1,2.5-2.5V11.5C20.2,10.2,19.1,9,17.7,9z M11.6,18.7v1
+	c0,0.8-0.7,1.5-1.5,1.5s-1.5-0.7-1.5-1.5v-1c-0.6-0.5-1-1.2-1-2c0-1.4,1.1-2.5,2.5-2.5s2.5,1.1,2.5,2.5
+	C12.7,17.5,12.3,18.3,11.6,18.7z M14.1,9H6.3V6.5c-0.1-2.1,1.5-4,3.7-4.1c2.1-0.1,4,1.5,4.1,3.7c0,0.1,0,0.3,0,0.4L14.1,9z"></path>
+        </symbol>
+
+        <symbol id="chevron-left" viewBox="0 0 24 24">
+            <title>Left</title>
+            <path d="M15.41 7.41L14 6l-6 6 6 6 1.41-1.41L10.83 12z"></path>
+            <path d="M0 0h24v24H0z" fill="none"></path>
+        </symbol>
+
+        <symbol id="chevron-right" viewBox="0 0 24 24">
+            <title>Right</title>
+            <path d="M10 6L8.59 7.41 13.17 12l-4.58 4.59L10 18l6-6z"></path>
+            <path d="M0 0h24v24H0z" fill="none"></path>
+        </symbol>
+
+        <symbol id="expand-less" viewBox="0 0 24 24">
+            <title>Expand less</title>
+            <path d="M12 8l-6 6 1.41 1.41L12 10.83l4.59 4.58L18 14z"></path>
+            <path d="M0 0h24v24H0z" fill="none"></path>
+        </symbol>
+
+        <symbol id="expand-more" viewBox="0 0 24 24">
+            <title>Expand more</title>
+            <path d="M16.59 8.59L12 13.17 7.41 8.59 6 10l6 6 6-6z"></path>
+            <path d="M0 0h24v24H0z" fill="none"></path>
+        </symbol>
+
+        <symbol id="create-new-folder" viewBox="0 0 24 24">
+            <title>Create new folder</title>
+            <path fill="none" d="M0 0h24v24H0V0z"></path>
+            <path d="M20 6h-8l-2-2H4c-1.11 0-1.99.89-1.99 2L2 18c0 1.11.89 2 2 2h16c1.11 0 2-.89 2-2V8c0-1.11-.89-2-2-2zm-1 8h-3v3h-2v-3h-3v-2h3V9h2v3h3v2z"></path>
+        </symbol>
+
+        <symbol id="image" viewBox="0 0 24 24">
+            <title>Image</title>
+            <path d="M0 0h24v24H0z" fill="none"></path>
+            <path d="M21 19V5c0-1.1-.9-2-2-2H5c-1.1 0-2 .9-2 2v14c0 1.1.9 2 2 2h14c1.1 0 2-.9 2-2zM8.5 13.5l2.5 3.01L14.5 12l4.5 6H5l3.5-4.5z"></path>
+        </symbol>
+
+        <symbol id="share" viewBox="0 0 24 24">
+            <title>Share</title>
+            <path d="M0 0h24v24H0z" fill="none"></path>
+            <path d="M18 16.08c-.76 0-1.44.3-1.96.77L8.91 12.7c.05-.23.09-.46.09-.7s-.04-.47-.09-.7l7.05-4.11c.54.5 1.25.81 2.04.81 1.66 0 3-1.34 3-3s-1.34-3-3-3-3 1.34-3 3c0 .24.04.47.09.7L8.04 9.81C7.5 9.31 6.79 9 6 9c-1.66 0-3 1.34-3 3s1.34 3 3 3c.79 0 1.5-.31 2.04-.81l7.12 4.16c-.05.21-.08.43-.08.65 0 1.61 1.31 2.92 2.92 2.92 1.61 0 2.92-1.31 2.92-2.92s-1.31-2.92-2.92-2.92z"></path>
+        </symbol>
+
+        <symbol id="list" viewBox="0 0 24 24">
+            <title>List</title>
+            <path d="M3 13h2v-2H3v2zm0 4h2v-2H3v2zm0-8h2V7H3v2zm4 4h14v-2H7v2zm0 4h14v-2H7v2zM7 7v2h14V7H7z"></path>
+            <path d="M0 0h24v24H0z" fill="none"></path>
+        </symbol>
+
+        <symbol id="grid" viewBox="0 0 24 24">
+          <title>Grid</title>
+          <path d="M3,11H11V3H3M3,21H11V13H3M13,21H21V13H13M13,3V11H21V3"></path>
+        </symbol>
+
+        <symbol id="sort" viewBox="0 0 24 24">
+          <title>Sort</title>
+          <path d="M3 18h6v-2H3v2zM3 6v2h18V6H3zm0 7h12v-2H3v2z"></path>
+          <path d="M0 0h24v24H0z" fill="none"></path>
+        </symbol>
+
+        <symbol id="sort-by-alpha" viewBox="0 0 24 24">
+          <title>Sort</title>
+            <path fill="none" d="M0 0h24v24H0V0zm0 0h24v24H0V0zm.75.75h22.5v22.5H.75z"></path>
+            <path d="M14.94 4.66h-4.72l2.36-2.36zm-4.69 14.71h4.66l-2.33 2.33zM6.1 6.27L1.6 17.73h1.84l.92-2.45h5.11l.92 2.45h1.84L7.74 6.27H6.1zm-1.13 7.37l1.94-5.18 1.94 5.18H4.97zm10.76 2.5h6.12v1.59h-8.53v-1.29l5.92-8.56h-5.88v-1.6h8.3v1.26l-5.93 8.6z"></path>
+        </symbol>
+
+        <symbol id="settings" viewBox="0 0 24 24">
+          <title>Settings</title>
+            <path fill="none" d="M0 0h20v20H0V0z"></path>
+            <path d="M15.95 10.78c.03-.25.05-.51.05-.78s-.02-.53-.06-.78l1.69-1.32c.15-.12.19-.34.1-.51l-1.6-2.77c-.1-.18-.31-.24-.49-.18l-1.99.8c-.42-.32-.86-.58-1.35-.78L12 2.34c-.03-.2-.2-.34-.4-.34H8.4c-.2 0-.36.14-.39.34l-.3 2.12c-.49.2-.94.47-1.35.78l-1.99-.8c-.18-.07-.39 0-.49.18l-1.6 2.77c-.1.18-.06.39.1.51l1.69 1.32c-.04.25-.07.52-.07.78s.02.53.06.78L2.37 12.1c-.15.12-.19.34-.1.51l1.6 2.77c.1.18.31.24.49.18l1.99-.8c.42.32.86.58 1.35.78l.3 2.12c.04.2.2.34.4.34h3.2c.2 0 .37-.14.39-.34l.3-2.12c.49-.2.94-.47 1.35-.78l1.99.8c.18.07.39 0 .49-.18l1.6-2.77c.1-.18.06-.39-.1-.51l-1.67-1.32zM10 13c-1.65 0-3-1.35-3-3s1.35-3 3-3 3 1.35 3 3-1.35 3-3 3z"></path>
+        </symbol>
+
+        <symbol id="public" viewBox="0 0 24 24">
+          <title>Public</title>
+            <path d="M0 0h24v24H0z" fill="none"></path>
+            <path d="M12 2C6.48 2 2 6.48 2 12s4.48 10 10 10 10-4.48 10-10S17.52 2 12 2zm-1 17.93c-3.95-.49-7-3.85-7-7.93 0-.62.08-1.21.21-1.79L9 15v1c0 1.1.9 2 2 2v1.93zm6.9-2.54c-.26-.81-1-1.39-1.9-1.39h-1v-3c0-.55-.45-1-1-1H8v-2h2c.55 0 1-.45 1-1V7h2c1.1 0 2-.9 2-2v-.41c2.93 1.19 5 4.06 5 7.41 0 2.08-.8 3.97-2.1 5.39z"></path>
+        </symbol>
+
+        <symbol id="play-arrow" viewBox="0 0 24 24">
+            <title>Play Video</title>
+            <path d="M8 5v14l11-7z"></path>
+            <path d="M0 0h24v24H0z" fill="none"></path>
+        </symbol>
+
+        <symbol id="search" viewBox="0 0 24 24">
+            <title>Search</title>
+            <path d="M15.5 14h-.79l-.28-.27C15.41 12.59 16 11.11 16 9.5 16 5.91 13.09 3 9.5 3S3 5.91 3 9.5 5.91 16 9.5 16c1.61 0 3.09-.59 4.23-1.57l.27.28v.79l5 4.99L20.49 19l-4.99-5zm-6 0C7.01 14 5 11.99 5 9.5S7.01 5 9.5 5 14 7.01 14 9.5 11.99 14 9.5 14z"></path>
+            <path d="M0 0h24v24H0z" fill="none"></path>
+        </symbol>
+
+        <symbol id="building" viewBox="0 0 24 24">
+            <title>Building</title>
+            <path d="M21 22h2v2h-22v-2h2v-22h18v22zm-10-3h-2v4h2v-4zm4 0h-2v4h2v-4zm4-17h-14v20h2v-5h10v5h2v-20zm-12 11h2v2h-2v-2zm4 0h2v2h-2v-2zm4 0h2v2h-2v-2zm-8-3h2v2h-2v-2zm4 0h2v2h-2v-2zm4 0h2v2h-2v-2zm-8-3h2v2h-2v-2zm4 0h2v2h-2v-2zm4 0h2v2h-2v-2zm-8-3h2v2h-2v-2zm4 0h2v2h-2v-2zm4 0h2v2h-2v-2z"></path>
+        </symbol>
+
+        <symbol id="cloud" viewBox="0 0 24 24">
+            <title>cloud</title>
+            <path d="M0 0h24v24H0z" fill="none"></path>
+            <path d="M19.35 10.04C18.67 6.59 15.64 4 12 4 9.11 4 6.6 5.64 5.35 8.04 2.34 8.36 0 10.91 0 14c0 3.31 2.69 6 6 6h13c2.76 0 5-2.24 5-5 0-2.64-2.05-4.78-4.65-4.96z"></path>
+        </symbol>
+
+        <symbol id="cloud-offline" viewBox="0 0 24 24">
+            <path fill="none" d="M0 0h24v24H0V0z"></path>
+            <path d="M24 15c0-2.64-2.05-4.78-4.65-4.96C18.67 6.59 15.64 4 12 4c-1.33 0-2.57.36-3.65.97l1.49 1.49C10.51 6.17 11.23 6 12 6c3.04 0 5.5 2.46 5.5 5.5v.5H19c1.66 0 3 1.34 3 3 0 .99-.48 1.85-1.21 2.4l1.41 1.41c1.09-.92 1.8-2.27 1.8-3.81zM4.41 3.86L3 5.27l2.77 2.77h-.42C2.34 8.36 0 10.91 0 14c0 3.31 2.69 6 6 6h11.73l2 2 1.41-1.41L4.41 3.86zM6 18c-2.21 0-4-1.79-4-4s1.79-4 4-4h1.73l8 8H6z"></path>
+        </symbol>
+
+        <symbol id="cloud-queue" viewBox="0 0 24 24">
+            <title>cloud-queue</title>
+            <path d="M0 0h24v24H0z" fill="none"></path>
+            <path d="M19.35 10.04C18.67 6.59 15.64 4 12 4 9.11 4 6.6 5.64 5.35 8.04 2.34 8.36 0 10.91 0 14c0 3.31 2.69 6 6 6h13c2.76 0 5-2.24 5-5 0-2.64-2.05-4.78-4.65-4.96zM19 18H6c-2.21 0-4-1.79-4-4s1.79-4 4-4h.71C7.37 7.69 9.48 6 12 6c3.04 0 5.5 2.46 5.5 5.5v.5H19c1.66 0 3 1.34 3 3s-1.34 3-3 3z"></path>
+        </symbol>
+
+        <symbol id="dropbox" viewBox="0 0 24 24">
+            <path d="M12,14.56L16.35,18.16L18.2,16.95V18.3L12,22L5.82,18.3V16.95L7.68,18.16L12,14.56M7.68,2.5L12,6.09L16.32,2.5L22.5,6.5L18.23,9.94L22.5,13.36L16.32,17.39L12,13.78L7.68,17.39L1.5,13.36L5.77,9.94L1.5,6.5L7.68,2.5M12,13.68L18.13,9.94L12,6.19L5.87,9.94L12,13.68Z"></path>
+        </symbol>
+
+        <symbol id="googledrive" viewBox="0 0 24 24">
+            <path d="M7.71,3.5L1.15,15L4.58,21L11.13,9.5M9.73,15L6.3,21H19.42L22.85,15M22.28,14L15.42,2H8.58L8.57,2L15.43,14H22.28Z"></path>
+        </symbol>
+
+        <symbol id="verified-user" viewBox="0 0 24 24">
+            <title>User</title>
+            <path d="M0 0h24v24H0z" fill="none"></path><path d="M12 1L3 5v6c0 5.55 3.84 10.74 9 12 5.16-1.26 9-6.45 9-12V5l-9-4zm-2 16l-4-4 1.41-1.41L10 14.17l6.59-6.59L18 9l-8 8z"></path>
+        </symbol>
+
+        <symbol id="check" viewBox="0 0 24 24">
+            <title>Check</title>
+            <path d="M0 0h24v24H0z" fill="none"></path>
+            <path d="M9 16.17L4.83 12l-1.42 1.41L9 19 21 7l-1.41-1.41z"></path>
+        </symbol>
+
+        <symbol id="loyalty" viewBox="0 0 24 24">
+            <title>Loyalty</title>
+            <path d="M0 0h24v24H0z" fill="none"></path>
+            <path d="M21.41 11.58l-9-9C12.05 2.22 11.55 2 11 2H4c-1.1 0-2 .9-2 2v7c0 .55.22 1.05.59 1.42l9 9c.36.36.86.58 1.41.58.55 0 1.05-.22 1.41-.59l7-7c.37-.36.59-.86.59-1.41 0-.55-.23-1.06-.59-1.42zM5.5 7C4.67 7 4 6.33 4 5.5S4.67 4 5.5 4 7 4.67 7 5.5 6.33 7 5.5 7zm11.77 8.27L13 19.54l-4.27-4.27C8.28 14.81 8 14.19 8 13.5c0-1.38 1.12-2.5 2.5-2.5.69 0 1.32.28 1.77.74l.73.72.73-.73c.45-.45 1.08-.73 1.77-.73 1.38 0 2.5 1.12 2.5 2.5 0 .69-.28 1.32-.73 1.77z"></path>
+        </symbol>
+
+        <symbol id="star" viewBox="0 0 24 24">
+            <title>Star</title>
+            <path d="M0 0h24v24H0z" fill="none"></path>
+            <path d="M12 17.27L18.18 21l-1.64-7.03L22 9.24l-7.19-.61L12 2 9.19 8.63 2 9.24l5.46 4.73L5.82 21z"></path>
+            <path d="M0 0h24v24H0z" fill="none"></path>
+        </symbol>
+
+        <symbol id="star-border" viewBox="0 0 24 24">
+            <title>Star</title>
+            <path d="M22 9.24l-7.19-.62L12 2 9.19 8.63 2 9.24l5.46 4.73L5.82 21 12 17.27 18.18 21l-1.63-7.03L22 9.24zM12 15.4l-3.76 2.27 1-4.28-3.32-2.88 4.38-.38L12 6.1l1.71 4.04 4.38.38-3.32 2.88 1 4.28L12 15.4z"></path>
+            <path d="M0 0h24v24H0z" fill="none"></path>
+        </symbol>
+
+        <symbol id="onedrive" viewBox="0 0 24 24">
+            <path d="M20.08,13.64C21.17,13.81 22,14.75 22,15.89C22,16.78 21.5,17.55 20.75,17.92L20.58,18H9.18L9.16,18V18C7.71,18 6.54,16.81 6.54,15.36C6.54,13.9 7.72,12.72 9.18,12.72L9.4,12.73L9.39,12.53A3.3,3.3 0 0,1 12.69,9.23C13.97,9.23 15.08,9.96 15.63,11C16.08,10.73 16.62,10.55 17.21,10.55A2.88,2.88 0 0,1 20.09,13.43L20.08,13.64M8.82,12.16C7.21,12.34 5.96,13.7 5.96,15.36C5.96,16.04 6.17,16.66 6.5,17.18H4.73A2.73,2.73 0 0,1 2,14.45C2,13 3.12,11.83 4.53,11.73L4.46,11.06C4.46,9.36 5.84,8 7.54,8C8.17,8 8.77,8.18 9.26,8.5C9.95,7.11 11.4,6.15 13.07,6.15C15.27,6.15 17.08,7.83 17.3,9.97H17.21C16.73,9.97 16.27,10.07 15.84,10.25C15.12,9.25 13.96,8.64 12.69,8.64C10.67,8.64 9,10.19 8.82,12.16Z"></path>
+        </symbol>
+
+        <symbol id="box" viewBox="0 0 41 22">
+            <path d="M39.7 19.2c.5.7.4 1.6-.2 2.1-.7.5-1.7.4-2.2-.2l-3.5-4.5-3.4 4.4c-.5.7-1.5.7-2.2.2-.7-.5-.8-1.4-.3-2.1l4-5.2-4-5.2c-.5-.7-.3-1.7.3-2.2.7-.5 1.7-.3 2.2.3l3.4 4.5L37.3 7c.5-.7 1.4-.8 2.2-.3.7.5.7 1.5.2 2.2L35.8 14l3.9 5.2zm-18.2-.6c-2.6 0-4.7-2-4.7-4.6 0-2.5 2.1-4.6 4.7-4.6s4.7 2.1 4.7 4.6c-.1 2.6-2.2 4.6-4.7 4.6zm-13.8 0c-2.6 0-4.7-2-4.7-4.6 0-2.5 2.1-4.6 4.7-4.6s4.7 2.1 4.7 4.6c0 2.6-2.1 4.6-4.7 4.6zM21.5 6.4c-2.9 0-5.5 1.6-6.8 4-1.3-2.4-3.9-4-6.9-4-1.8 0-3.4.6-4.7 1.5V1.5C3.1.7 2.4 0 1.6 0 .7 0 0 .7 0 1.5v12.6c.1 4.2 3.5 7.5 7.7 7.5 3 0 5.6-1.7 6.9-4.1 1.3 2.4 3.9 4.1 6.8 4.1 4.3 0 7.8-3.4 7.8-7.7.1-4.1-3.4-7.5-7.7-7.5z"></path>
+        </symbol>
+
+        <symbol id="people" viewBox="0 0 24 24">
+            <path d="M0 0h24v24H0z" fill="none"></path>
+            <path d="M16 11c1.66 0 2.99-1.34 2.99-3S17.66 5 16 5c-1.66 0-3 1.34-3 3s1.34 3 3 3zm-8 0c1.66 0 2.99-1.34 2.99-3S9.66 5 8 5C6.34 5 5 6.34 5 8s1.34 3 3 3zm0 2c-2.33 0-7 1.17-7 3.5V19h14v-2.5c0-2.33-4.67-3.5-7-3.5zm8 0c-.29 0-.62.02-.97.05 1.16.84 1.97 1.97 1.97 3.45V19h6v-2.5c0-2.33-4.67-3.5-7-3.5z"></path>
+        </symbol>
+
+        <symbol id="arrow-drop-down" viewBox="0 0 24 24">
+            <path d="M7 10l5 5 5-5z"></path>
+            <path d="M0 0h24v24H0z" fill="none"></path>
+        </symbol>
+
+        <symbol id="arrow-drop-up" viewBox="0 0 24 24">
+            <path d="M7 14l5-5 5 5z"></path>
+            <path d="M0 0h24v24H0z" fill="none"></path>
+        </symbol>
+
+        <symbol id="add" viewBox="0 0 24 24">
+            <path d="M19 13h-6v6h-2v-6H5v-2h6V5h2v6h6v2z"></path>
+            <path d="M0 0h24v24H0z" fill="none"></path>
+        </symbol>
+    </defs>
+</svg>
+<script>
+    if(window.top !== window || window.location.search.indexOf('mode=office') > -1) {
+        document.body.classList.add('office');
+    }
+</script>
+
+
+
+
+
+<div class="position-relative d-block w-100  ">
+    
+        
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<nav id="navbar" class="main-navbar main-navbar--public fn-scroll-toggle navbar navbar-expand-md fixed-top navbar-dark pt-2 pb-0 py-md-0">
+    <div id="navbarOverlay" class="navbar-overlay"></div>
+
+    <div class="main-navbar__container container">
+        <div>
+            <button class="navbar-toggler pl-0 pr-3" id="mobile-menu-button" type="button" aria-controls="navbarSupportedContent" aria-label="Toggle navigation">
+
+                <i class="svg-icon navbar-toggler__menu">
+                    <svg><use xlink:href="/img/icons.svg?89ff90c9d5b3c3ce0b8faed433052f08#menu"></use></svg>
+                </i>
+            </button>
+
+            <a class="navbar-brand navbar-brand__main" href="/" id="vizzloLogo">
+                <div class="navbar-brand__img--small d-inline-block d-lg-none">
+                    <img src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" data-src="/img/logo80.png" class="img-fluid lazy" alt="Vizzlo">
+                </div>
+
+                <div class="d-none d-lg-inline-block">
+                    <img src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" data-src="/img/vizzlo_brand.svg" class="navbar-brand__img mt-2 lazy" alt="Vizzlo">
+
+                    <div class="navbar-brand__patch position-relative mr-2">
+                        <img src="/img/patch_white.svg" data-src="/img/patch_white.svg" class="" alt="Vizzlo">
+                    </div>
+                </div>
+            </a>
+        </div>
+
+        <div class="collapse navbar-collapse offcanvas-collapse" id="navbarSupportedContent">
+            <ul class="main-navbar__menu navbar-nav mr-auto" id="navbarMenu">
+
+                
+                <li class="nav-item d-block d-md-none ">
+                    <a class="nav-link" href="/">Home</a>
+                </li>
+
+                <li class="nav-item ">
+                    <a id="marketLink" class="nav-link" href="/vizzards">Portfolio</a>
+                </li>
+
+                <li class="nav-item ">
+                    <a id="galleryLink" class="nav-link" href="/gallery">Gallery</a>
+                </li>
+
+                <li class="nav-item ">
+                    <a class="nav-link" href="/pricing">Pricing</a>
+                </li>
+
+                <li class="nav-item dropdown main-navbar__menu-dropdown d-none d-md-inline-block ">
+                    <a class="nav-link dropdown-toggle" href="#" id="useCasesDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                        Use Cases
+                    </a>
+                    <div class="dropdown-menu mt-0" aria-labelledby="useCasesDropdown">
+                        <a class="dropdown-item font-weight-light " href="/for/consultants">For Consultants</a>
+                        <a class="dropdown-item font-weight-light " href="/for/project-managers">For Project Managers</a>
+                        <a class="dropdown-item font-weight-light " href="/enterprise">For Enterprises</a>
+                    </div>
+                </li>
+
+                <li class="nav-item dropdown main-navbar__menu-dropdown d-none d-md-inline-block ">
+                    <a class="nav-link dropdown-toggle" href="#" id="integrationsDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                        Integrations
+                    </a>
+                    <div class="dropdown-menu mt-0" aria-labelledby="integrationsDropdown">
+                        <a class="dropdown-item font-weight-light " href="/for/google-slides">For Google Slides</a>
+                        <a class="dropdown-item font-weight-light " href="/for/powerpoint">For PowerPoint</a>
+                    </div>
+                </li>
+
+                <li class="dropdown-divider d-block d-md-none"></li>
+
+                
+                <li class="nav-item d-block d-md-none ">
+                    <a class="nav-link" href="/for/consultants">For Consultants</a>
+                </li>
+
+                <li class="nav-item d-block d-md-none ">
+                    <a class="nav-link" href="/for/project-managers">For Project Managers</a>
+                </li>
+
+                <li class="nav-item d-block d-md-none ">
+                    <a class="nav-link" href="/enterprise">For Enterprises</a>
+                </li>
+
+                <li class="dropdown-divider d-block d-md-none"></li>
+
+                
+
+                <li class="nav-item d-block d-md-none ">
+                    <a class="nav-link" href="/for/google-slides">For Google Slides</a>
+                </li>
+
+                <li class="nav-item d-block d-md-none ">
+                    <a class="nav-link" href="/for/powerpoint">For PowerPoint</a>
+                </li>
+
+                <li class="dropdown-divider d-block d-md-none"></li>
+
+                
+
+                <li class="nav-item d-block d-md-none">
+                    <a class="nav-link" target="_blank" href="https://blog.vizzlo.com/">Blog</a>
+                </li>
+
+                <li class="nav-item d-block d-md-none">
+                    <a class="nav-link" target="_blank" href="https://help.vizzlo.com/">Help</a>
+                </li>
+            </ul>
+        </div>
+
+        <div>
+            <a id="regsiterButton" href="/register" class="btn btn-secondary main-navbar__signup shadow-none text-white mr-1 mr-lg-3">
+                Get Started
+            </a>
+
+            <a id="loginButton" class="btn btn-outline-light main-navbar__signin shadow-none" href="/login">
+                Sign in
+            </a>
+        </div>
+    </div>
+
+    <ul class="nav nav-tabs submenu-tabs nav-fill d-md-none w-100 mt-2">
+        <li class="nav-item">
+            <a class="nav-link py-2 pl-0 text-left " href="/vizzards">Portfolio</a>
+        </li>
+        <li class="nav-item">
+            <a class="nav-link py-2 " href="/gallery">Gallery</a>
+        </li>
+        <li class="nav-item">
+            <a class="nav-link py-2 pr-0 text-right " href="/pricing">Pricing</a>
+        </li>
+    </ul>
+</nav>
+
+
+
+
+
+    
+
+    
+
+    
+    
+
+    
+    
+</div>
+
+
+<main>
+
+
+<div class="title-section title-section--empty"></div>
+
+
+
+
+
+
+<script type="text/javascript">
+try{
+    document.addEventListener("DOMContentLoaded", function (event) {
+        window.setTimeout(function () {
+            $(".flash-section").fadeOut(500);
+        }, 5000);
+    });
+} catch (e) {
+	console.log(e);
+	throw e;
+}
+</script>
+
+
+
+<div class="content-section content-section--small  document-upload-dropzone">
+<div class="container">
+
+
+
+
+<h1 id="privacy-policy">Privacy Policy</h1>
+<p>Last updated: 2018-05-18</p>
+<h2 id="you-matter">YOU MATTER</h2>
+<p>Vizzlo's mission is to develop great tools and services that help our users to be more productive and successful. We are convinced that a fair relationship with our users is very important. Therefore, we are fully committed to protect your privacy and to communicate how we collect and process data transparently.</p>
+<p>This Privacy Policy (“Policy”) describes how Vizzlo GmbH (“Vizzlo,” “we,” or “us”) collects and processes personal information. The Policy applies when you use our websites, mobile applications, online products, software plug-ins and native software (collectively, the “Services”).</p>
+<h2 id="information-that-you-provide-to-us">Information that you provide to us</h2>
+<p>When you interact with us through the Services, we may collect information that you provide, such as when you:</p>
+<ul>
+<li>Create or modify your account;</li>
+<li>Subscribe for a paid account;</li>
+<li>Send questions or comments via email, social media, or our <a href="https://help.vizzlo.com/">Help Center</a>;</li>
+<li>Or, otherwise, communicate with us through the Services.</li>
+</ul>
+<p>The types of personal information that you provide may include:</p>
+<ul>
+<li>Your name and email;</li>
+<li>Address;</li>
+<li>Postal address, billing address, tax identification number, contact information of an billing representative;</li>
+<li>Other contact or identifying information that you choose to provide.</li>
+</ul>
+<p>The content you provide when you use the Services: Vizzlo stores, processes and maintains data that you enter or upload using the Services—including previous versions of your data. We also store metadata like comments, ratings, sharing lists, timestamps and other data related to your account, your documents, or your collaboration activities.</p>
+<h2 id="information-that-we-collect-automatically-from-you">Information that we collect automatically from you</h2>
+<p>Our system (aided by the use of browser cookies) may automatically record certain information about your use of the Services, such as:</p>
+<ul>
+<li>Account activity;</li>
+<li>User interface usage (e.g., displayed dialogs, or clicks on UI elements);</li>
+<li>Basic access information (e.g., browser version, IP address, date and time of access, cookie ID, referrer URL, etc.).</li>
+</ul>
+<p>We may also collect automated error reports in the case of software malfunction. Such error reports may contain information about your usage of the Services and may be reviewed by Vizzlo employees to help resolve problems with the Services.</p>
+<h2 id="information-we-collect-from-third-parties">Information we collect from third parties</h2>
+<p>We may obtain information from other sources and combine that with information we collect through the Services. For example, if you create or log into your account through a third-party social networking site, we will have access to your email address, in accordance with the authorization procedures determined by such third-party social networking site.</p>
+<p>If you subscribe for a paid account, we may receive information about your purchase from our third-party payment processors. This information will not include your full credit card information.</p>
+<p>We use analytics services and software provided by third parties to help us understand how users access and use the Services. These tools and services place browser cookies, tracking pixels, or related technology on our Services to enable them to track usage data. The data collected typically includes information such as your interface usage (e.g., displayed dialogs or clicks on UI elements) and basic access information (e.g., browser version, IP address, date and time of access, cookie ID, referrer URL, etc.).</p>
+<h2 id="unsolicited-information">Unsolicited information</h2>
+<p>You may provide us with ideas for new products or modifications to existing products, and other unsolicited submissions (collectively, “Unsolicited Information”). All Unsolicited Information shall be deemed to be non-confidential, and we shall be free to reproduce, use, disclose, and distribute such Unsolicited Information to others without limitation or attribution.</p>
+<h2 id="how-do-we-use-your-information">How do we use your information</h2>
+<p>The information that you provided to us or that we collected from you or third parties is used for the purposes described in this Policy or otherwise disclosed to you in connection with the Services. Such uses may include for example:</p>
+<ul>
+<li>Operate and improve the Services;</li>
+<li>Provide and deliver the products and services you request, process transactions, and send you related information, including confirmations and invoices;</li>
+<li>Send you assistance materials, including instructions for specific product features or video tutorials, based on your usage pattern of the Services;</li>
+<li>Send you product update materials, including promotional information about new products and product features, enhancements, special offers, and other events of interest from Vizzlo;</li>
+<li>Send you usage collaboration notices, security alerts, and support or administrative messages;</li>
+<li>Respond to your reviews, comments, questions and requests, and provide customer service;</li>
+<li>Monitor and evaluate activity trends and usage patterns in connection with the Services;</li>
+<li>Personalize the Services.</li>
+</ul>
+<p>Data you create or upload to Vizzlo may—based on the visibility settings of your documents—be read, copied, used and redistributed by people you know or by people you do not know. Use care when disclosing personal or sensitive information which may identify you or anyone else.</p>
+<p>We may review public documents for diagnostics and product improvement purposes. Private documents may only be reviewed by our staff with your explicit consent for troubleshooting purposes.</p>
+<p>Your personal data will be retained until: (i) you actively exercise your rights to delete them as listed below, or (ii) your account is terminated.</p>
+<h2 id="when-do-we-share-your-information">When do we share your information</h2>
+<p>We do not sell your personal information.</p>
+<p>We may share personal information in the limited circumstances spelled out below and with appropriate safeguards on your privacy:</p>
+<ul>
+<li>Agents, consultants and related third parties: Like many businesses, we sometimes hire third-party vendors, consultants and other service providers who work on our behalf, host our data, and need access to your information to carry out their work for us. We ensure that all these entities are compliant with this Policy, the EU General Data Protection Regulations or the EU-U.S. and Swiss-U.S. Privacy Shield Frameworks. All these third parties have agreed to maintain the confidentiality, security, and integrity of the personal information they obtain from us. Unless we notify you otherwise and provide you with an opportunity to opt out, they will not use your personal information for any purpose other than as described in this Policy.</li>
+<li>Business transfers: As we develop our business, we might sell or buy businesses or assets. In the event of a corporate sale, merger, reorganization, bankruptcy, dissolution or similar event, your information may be part of the transferred assets.</li>
+<li>Consent: We may transfer your information with your consent.</li>
+<li>Legal requirements: We may disclose personal information if required to do so by law or in the good faith belief that such action is necessary to: (i) Comply with a legal obligation; (ii) Protect and defend the rights or property of the Company or Related Companies; (iii) Protect the personal safety of users of the Services or the public; or (iv) Protect against legal liability.</li>
+</ul>
+<h2 id="how-do-we-keep-your-data-secure">How do we keep your data secure</h2>
+<p>Vizzlo takes all reasonable steps to ensure that your data remains available to you only and to protect it from loss, misuse, and unauthorized access, disclosure, alteration and destruction. The actual safeguards in place are documented in our <a href="https://vizzlo.com/security/">Security Policy</a>.</p>
+<h2 id="children">Children</h2>
+<p>The protection of the privacy of young children is very important. Our Services are not directed to children younger than 16 years. We do not knowingly collect personal information from children under the age of 16 without parental consent. If you are under the age of 16 years, then please do not use the Services at any time or in any manner. If we learn that personal information has been collected on the Service from persons under 16 years of age and without verifiable parental consent, then we will take the appropriate steps to delete this information. If you are a parent or guardian of a child under the age of 16 and believe he or she has disclosed personal information to us, please contact us at <a href="mailto:help@vizzlo.com">help@vizzlo.com</a></p>
+<h2 id="your-choices-and-your-rights">Your choices and your rights</h2>
+<p>With regards to how we handle your personal information, you have several choices available. Exercise your rights by changing your <a href="https://vizzlo.com/settings/">account settings</a> or getting in touch with us at <a href="mailto:help@vizzlo.com">help@vizzlo.com</a></p>
+<ul>
+<li>Access, edit, delete or limit your personal information: If you have an account with us, you may review, update, or delete optional account information at any time. Please keep in mind that some information, like your billing data, is necessary for getting access to paid features.</li>
+<li>Opt-out of electronic communications: You may opt out of receiving promotional and assistance emails from us at any time. If you opt out of promotional or assistance messages, we may still send you other messages, like those about your account and legal notices (“transactional messages”).</li>
+<li>Terminate your account: You can terminate your account or schedule your subscription cancelation (for next renewal interval) at any time. Please keep in mind that we may continue to retain some of your information after closing your account when that information is reasonably required to comply with legal obligations or reasonably needed for our legitimate business interests.</li>
+<li>Set your browser to reject cookies: You can usually choose to set your browser to remove or reject browser cookies before using our websites. Please keep in mind that some websites and features may not function properly without the aid of cookies.</li>
+</ul>
+<h2 id="european-union-general-data-protection-regulation-gdpr-compliance">European Union General Data Protection Regulation (GDPR) compliance</h2>
+<p>If you are located in specific countries, including those that fall under the scope of the European General Data Protection Regulation (AKA the “GDPR”), data protection laws give you rights concerning your personal data, subject to any exemptions provided by the law, including the rights to:</p>
+<ul>
+<li>Request access to your personal data;</li>
+<li>Request correction or deletion of your personal data;</li>
+<li>Object to our use and processing of your personal data;</li>
+<li>Request that we limit our use and processing of your personal data;</li>
+<li>Request portability of your personal data.</li>
+<li>EU individuals also have the right to make a complaint to a government supervisory authority.</li>
+</ul>
+<p>You can usually access, correct, or delete your personal data using your account settings and tools that we offer. However, if you aren’t able to do that, or you would like to contact us about one of the other rights above, please contact us at <a href="mailto:privacy@vizzlo.com">privacy@vizzlo.com</a></p>
+<h2 id="legal-bases-for-collecting-and-using-information">Legal bases for collecting and using information</h2>
+<p>There are several reasons, why we may be obliged to use your personal information, such as:</p>
+<ul>
+<li>To fulfill our commitments to you under our <a href="https://vizzlo.com/terms/">Terms of Service</a> or other agreements with you;</li>
+<li>To administer your account—for example, to enable access to the Services for you, or charge you for a paid subscription;</li>
+<li>For compliance with any legal obligations;</li>
+<li>To protect your vital interests or those of another person;</li>
+<li>To provide and update the Services, to improve the Services so that we can offer you an even better user experience, to safeguard the Services, to communicate with you, to measure, gauge, and improve the effectiveness of our advertising, and better understand user retention and attrition, to monitor and prevent any problems with the Services, and to personalize your experience;</li>
+<li>Or because you have given us your consent.</li>
+</ul>
+<h2 id="how-to-reach-us">How to reach us</h2>
+<p>To execute your rights or for any questions about privacy related topics please contact us</p>
+<p>Vizzlo GmbH<br>
+Legal / Data Protection Office<br>
+Hall 6, 2nd floor<br>
+Spinnereistrasse 7<br>
+04179 Leipzig<br>
+Germany</p>
+<p>Email: <a href="mailto:privacy@vizzlo.com">privacy@vizzlo.com</a></p>
+
+
+</div>
+</div>
+
+
+</main>
+
+
+<style>
+    #ratingDialog {
+        top: auto;
+        width: 380px;
+        margin-top: 100px;
+        position: fixed;
+        left: 5px;
+        bottom: 0;
+        transform: translate(0, 600px);
+        margin-bottom: 5px;
+        transition: transform 0.3s;
+        z-index: 10000;
+    }
+
+    #ratingDialog .modal-header {
+        border-bottom: none;
+        padding-bottom: 0;
+        padding-top: 20px;
+    }
+
+    #ratingDialog .modal-footer{
+        border-top: none;
+        padding-top: 0;
+    }
+
+    #ratingDialog.show {
+        transform: translate(0, 0);
+    }
+
+    .visible-step-1, .visible-step-2, .visible-step-3 {
+        display: none;
+    }
+
+    .step-1 .visible-step-1 {
+        display: block;
+    }
+
+    .step-2 .visible-step-2 {
+        display: block;
+    }
+
+    .step-3 .visible-step-3 {
+        display: block;
+    }
+
+     
+
+    .rating {
+        border: none;
+         
+        float: left;
+    }
+
+    .rating > input {
+        display: none;
+    }
+
+    .rating > label:before {
+        margin: 5px;
+        font-size: 1.25em;
+        font-family: FontAwesome;
+        display: inline-block;
+        content: "\f006";
+        cursor: pointer;
+    }
+
+    .rating > label {
+        color: #FFD700;
+        float: right;
+        margin-bottom: 0;
+    }
+
+    .rating:hover > label:before {
+    }
+
+     
+
+    .rating > input:checked ~ label,  
+    .rating:not(:checked) > label:hover,  
+    .rating:not(:checked) > label:hover ~ label {
+        color: #FFD700;
+    }
+
+    .rating > input:checked ~ label:before,  
+    .rating:not(:checked) > label:hover:before,  
+    .rating:not(:checked) > label:hover ~ label:before {
+        content: "\f005";
+    }
+
+     
+
+    .rating > input:checked + label:hover,  
+    .rating > input:checked ~ label:hover,
+    .rating > label:hover ~ input:checked ~ label,  
+    .rating > input:checked ~ label:hover ~ label {
+        color: #FFED85;
+    }
+</style>
+<div class="modal-dialog" id="ratingDialog">
+    <div class="modal-content step-1" id="ratingContent">
+        <div class="modal-header">
+            <div class="modal-title h5 visible-step-1 w-100">How was your experience with Vizzlo's <span class="rating-label-vizzard"></span>?</div>
+            <div class="modal-title h5 visible-step-2 text-center w-100">You are awesome! <br>Thank you for your feedback.</div>
+            <button type="button" class="close" data-dismiss="modal" aria-label="Close" style="top: 10px; position: absolute; right: 10px;">
+                <span aria-hidden="true">×</span>
+            </button>
+        </div>
+        <form name="ratingForm">
+            <div class="modal-body">
+                <div class="visible-step-3">
+                    <div style="display: flex; justify-content: space-around; margin: 10px 0;">
+                        <button type="button" class="btn btn-secondary" data-dismiss="modal">No, thanks!</button>
+                        <button type="button" class="btn btn-success" id="startRatingButton">
+                            <i class="fa fa-smile-o" aria-hidden="true"></i>
+                            Sure, I will rate!
+                        </button>
+                    </div>
+                </div>
+                <div class="visible-step-1">
+                    <div class="clearfix">
+                        <fieldset class="rating" style="font-size: 2rem;">
+                            <input type="radio" id="star5" name="rating" value="5"><label class="full" for="star5" title="5 stars"></label>
+                            <input type="radio" id="star4" name="rating" value="4"><label class="full" for="star4" title="4 stars"></label>
+                            <input type="radio" id="star3" name="rating" value="3"><label class="full" for="star3" title="3 stars"></label>
+                            <input type="radio" id="star2" name="rating" value="2"><label class="full" for="star2" title="2 stars"></label>
+                            <input type="radio" id="star1" name="rating" value="1"><label class="full" for="star1" title="1 star"></label>
+                        </fieldset>
+                    </div>
+                    <div>
+                        <label class="small" id="ratingLabel">Select a rating</label>
+                    </div>
+                    <br>
+                    <div class="form-group">
+                        
+                        <textarea class="form-control" name="feedback" id="feedbackTextarea" rows="3" placeholder="Leave your comments and suggestions (optional)"></textarea>
+                    </div>
+                </div>
+                <div class="visible-step-2 text-center">
+                    <div style="font-size: 4rem; text-align: center; color: #4bb5c3;">
+                        <i class="fa fa-thumbs-o-up" aria-hidden="true"></i>
+                    </div>
+                    <div>
+                        We are all ears!<br>
+                        This is how we learn where to improve.
+                    </div>
+                </div>
+            </div>
+            <div class="modal-footer visible-step-1">
+                <button type="submit" class="btn btn-secondary" disabled="">Send</button>
+            </div>
+        </form>
+    </div>
+</div>
+<script type="application/javascript">
+    try{
+        var currentUserName = null;
+        document.addEventListener("DOMContentLoaded", function () {
+            (function ($) {
+                if (currentUserName) {
+                    var ratingsDisabled = false;
+                    var lastVizzard = null;
+                    var ratedVizzard = [];
+                    var lastChangedVizzardKey = currentUserName+ '.LAST_CHANGED_VIZZARD';
+                    var ratedVizzardKey = currentUserName + '.RATED_VIZZARDS';
+                    var disabledKey = currentUserName + '.RATINGS_DISABLED';
+
+                    try {
+                        ratingsDisabled = JSON.parse(window.localStorage.getItem(disabledKey)) === true;
+                    } catch (e) {}
+
+                    try {
+                        lastVizzard = JSON.parse(window.localStorage.getItem(lastChangedVizzardKey));
+                    } catch (e) {
+
+                    }
+                    try {
+                        ratedVizzard = JSON.parse(window.localStorage.getItem(ratedVizzardKey)) || [];
+                    } catch (e) {
+
+                    }
+
+                    var disableDialog = function () {
+                        try {
+                            window.localStorage.removeItem(lastChangedVizzardKey);
+                            window.localStorage.setItem(disabledKey, true);
+                        } catch (e) {}
+                        $('#ratingDialog').removeClass('show');
+                    };
+
+                    var ignoreDialog = function () {
+                        try {
+                            window.localStorage.removeItem(lastChangedVizzardKey);
+                        } catch (e) {}
+                        $('#ratingDialog').removeClass('show');
+                    };
+
+                    window.addEventListener('beforeunload', ignoreDialog);
+
+                    if (lastVizzard && ratedVizzard.indexOf(lastVizzard.id) === -1 && !ratingsDisabled) {
+                        var ratingForm = document.forms.ratingForm;
+                        var closeTimeout = setTimeout(ignoreDialog, 5000);
+                        $('#ratingDialog').bind('mouseover', function () {
+                            closeTimeout && clearTimeout(closeTimeout);
+                        });
+                        $(ratingForm).bind('submit', function (e) {
+                            e.preventDefault();
+                            try {
+                                ratedVizzard.push(lastVizzard.id);
+                                window.localStorage.setItem(ratedVizzardKey, JSON.stringify(ratedVizzard));
+                                window.localStorage.removeItem(lastChangedVizzardKey);
+                            } catch (e) {
+
+                            }
+                            fetch("/api/v1/vizzards/" + lastVizzard.id + "/reviews", {
+                                method: 'POST',
+                                include: 'credentials',
+                                body: JSON.stringify({
+                                    rating: parseInt(ratingForm.elements.rating.value) || 0,
+                                    feedback: ratingForm.elements.feedback.value
+                                })
+                            });
+                            $('#ratingContent').removeClass('step-1', 'step-3').addClass('step-2');
+                            setTimeout(function () {
+                                $('#ratingDialog').removeClass('show');
+                            }, 2000);
+                        });
+                        $('#ratingDialog input[type="radio"]').bind('change', function(){
+                            $('#ratingDialog button[type="submit"]').removeAttr("disabled");
+                        });
+                        $('#ratingDialog *[data-dismiss="modal"]').click(disableDialog);
+                        $('.rating-label-vizzard').html(lastVizzard.title);
+                        $('#ratingDialog').addClass('show');
+                        $('.rating > label').bind('click mouseover', function () {
+                            $('#ratingLabel').html($(this).attr('title'));
+                        });
+                        $('.rating').bind('mouseleave', function () {
+                            var value = ratingForm.elements.rating.value;
+                            $('#ratingLabel').html(value ? $("label[for='star" + value + "']").attr('title') : "Select a rating");
+                        });
+                    }
+                }
+            })(jQuery);
+        });
+    } catch (e) {
+        console.log(e);
+        throw e;
+    }
+</script>
+
+<footer id="pageFooter" class="content-section footer-section">
+    <div class="container">
+        <div class="row">
+            <dl class="col-12 col-sm-6 col-md-4 col-lg-2">
+                <dt>The Product</dt>
+                <dd><a href="/">Home</a></dd>
+                <dd><a title="Infographics, chart types and visualization templates" href="/vizzards">Portfolio</a></dd>
+                <dd><a title="Vizzlo Premium, Business, Enterprise" href="/pricing">Pricing</a></dd>
+                <dd>
+                    <a href="/for/google-slides">For Google Slides</a>
+                </dd>
+                <dd>
+                    <a href="/for/powerpoint">For PowerPoint</a>
+                </dd>
+                <dd><a href="https://help.vizzlo.com">Help Center</a></dd>
+            </dl>
+
+            <dl class="col-12 col-sm-6 col-md-4 col-lg-2">
+                <dt>The Solution</dt>
+                <dd><a title="Business Graphics for Project Consultants" href="/for/consultants">Consultants</a></dd>
+                <dd><a title="Business Graphics for Project Managers" href="/for/project-managers">Project Managers</a></dd>
+                <dd><a title="Business Graphics for Enterprises" href="/enterprise">Enterprises</a></dd>
+            </dl>
+
+            <dl class="col-12 col-sm-6 col-md-4 col-lg-2">
+                <dt>The Company</dt>
+                <dd><a href="/about">About Us</a></dd>
+                <dd><a href="https://blog.vizzlo.com">Blog</a></dd>
+                <dd><a href="/jobs">Jobs</a></dd>
+                <dd><a href="/contact">Contact Us</a></dd>
+                <dd><a href="/security">Security</a></dd>
+            </dl>
+
+            <div class="col-12 col-sm-6 col-md-12 col-lg-5 offset-lg-1">
+                <dl>
+                    <dt>Follow Us</dt>
+                    <dd>
+                        <ul class="list-inline">
+                            <li class="list-inline-item">
+                                <a href="https://twitter.com/vizzlo" title="Twitter" target="_blank">
+                                    <i class="svg-icon svg-icon--36 mr-2 mb-2">
+                                        <svg><use xlink:href="#twitter-rounded"></use></svg>
+                                    </i>
+                                </a>
+                            </li>
+                            <li class="list-inline-item">
+                                <a href="https://pinterest.com/vizzlo" title="Pinterest" target="_blank">
+                                    <i class="svg-icon svg-icon--36 mr-2 mb-2">
+                                        <svg><use xlink:href="#pinterest-rounded"></use></svg>
+                                    </i>
+                                </a>
+                            </li>
+                            <li class="list-inline-item">
+                                <a href="https://www.facebook.com/vizzlo" title="Facebook" target="_blank">
+                                    <i class="svg-icon svg-icon--36 mr-2 mb-2">
+                                        <svg><use xlink:href="#facebook-rounded"></use></svg>
+                                    </i>
+                                </a>
+                            </li>
+                            <li class="list-inline-item">
+                                <a href="https://youtube.com/vizzlo" title="YouTube" target="_blank">
+                                    <i class="svg-icon svg-icon--36 mr-2 mb-2">
+                                        <svg><use xlink:href="#youtube-rounded"></use></svg>
+                                    </i>
+                                </a>
+                            </li>
+                            <li class="list-inline-item">
+                                <a href="https://github.com/vizzlo" title="GitHub" target="_blank">
+                                    <i class="svg-icon svg-icon--36 mr-2 mb-2">
+                                        <svg><use xlink:href="#github-rounded"></use></svg>
+                                    </i>
+                                </a>
+                            </li>
+                        </ul>
+                    </dd>
+                </dl>
+            </div>
+        </div>
+        <div class="row lp-footer__bottomline">
+            <div class="col-md-9 lp-footer__bottomline__copy">
+                © 2019 Vizzlo. Built with ❤ in Leipzig.
+                <br class="d-inline-block d-sm-none">
+                <span class="d-none d-sm-inline-block">&nbsp;</span>
+                <a href="/privacy">Privacy Policy</a>
+                <a href="/terms">Terms of Service</a>
+            </div>
+            <div class="col-md-3 text-md-right mt-4 mt-md-0">
+                <img src="/img/vizzlo.svg?5fb2296f6454781db4aa22a6eb266e66" alt="VIZZLO" width="100px" height="20px">
+            </div>
+        </div>
+    </div>
+</footer>
+
+<div id="introPopup">
+    <a class="intro-close-button">✕</a>
+    <div class="intro-popup-head">
+        <div class="photo"></div>
+    </div>
+    <div class="intro-popup-content">
+        <div class="h3">Welcome aboard!</div>
+        <p>Hi! I'm Hendrik, co-founder and CEO of Vizzlo.</p>
+        <p>Our mission is to make your life easier, so I would like to take you around to help you to get started even faster!</p>
+    </div>
+    <div class="intro-popup-footer">
+        <a id="introSkipTourButton" class="shepherd-button btn btn-flat" tabindex="2">Skip tour</a>
+        <a id="introStartTourButton" class="shepherd-button btn btn-flat btn-secondary" tabindex="1">Let's go</a>
+    </div>
+</div>
+
+<script src="/js/vendor.js?92ba744a908ac01c788be9a36e605b11" type="text/javascript"></script>
+
+
+
+
+
+
+<script>
+    var navbar = $('#navbar');
+    var $window = $(window);
+    var $document = $(document);
+    var $body = $('body');
+    var lightNavClass = 'navbar-light border-bottom border-gray-200';
+    var darkNavClass = 'navbar-dark';
+    var scrollToggleClass = 'fn-scroll-toggle';
+    var topScrollButton = $('#topScrollButton');
+    var lastScrollPosition = 0;
+    var ticking = false;
+
+    window.vizzloIcons = '\/img\/icons.svg?89ff90c9d5b3c3ce0b8faed433052f08';
+    window.mediator = new Shepherd.Evented();
+    window.mediator.on('myTour', function() { window.startTutorial(true);});
+
+    
+    document.addEventListener("DOMContentLoaded", function() {
+        var lazyImages = [].slice.call(document.querySelectorAll(".lazy"));
+
+        if ("IntersectionObserver" in window) {
+            var lazyImageObserver = new IntersectionObserver(function(entries, observer) {
+
+                for (var i=0; i < entries.length; i++) {
+                    if (entries[i].isIntersecting) {
+                        var lazyImage = entries[i].target;
+                        lazyImage.src = lazyImage.dataset.src;
+
+                        if (lazyImage.classList.contains('market-details__slide-img')) {
+
+                            
+                            $(document).trigger('vzl-slide-image-loaded');
+                            lazyImage.classList.remove("lazy");
+                            lazyImageObserver.unobserve(lazyImage);
+                            continue;
+                        }
+
+                        if (lazyImage.dataset.srcset) {
+                            lazyImage.srcset = lazyImage.dataset.srcset;
+                        }
+
+                        lazyImage.classList.remove("lazy");
+                        lazyImageObserver.unobserve(lazyImage);
+                    }
+                }
+            });
+
+            lazyImages.forEach(function(lazyImage) {
+                lazyImageObserver.observe(lazyImage);
+            });
+
+            return;
+        }
+
+        
+        lazyImages.forEach(function(img) {
+
+            if (img.classList.contains('market-details__slide-img')) {
+                $(document).trigger('vzl-slide-image-loaded');
+            }
+
+            img.setAttribute('src', img.getAttribute('data-src'));
+            img.onload = function() {
+                img.removeAttribute('data-src');
+            };
+        });
+    });
+
+    document.addEventListener("DOMContentLoaded",function () {
+        if (window.myTour) {
+            
+            window.myTour.on('cancel', function() {window.hideTourBackdrop(); window.saveTourClose()});
+            window.myTour.on('complete', function() {window.hideTourBackdrop(); window.saveTourClose()});
+        }
+    });
+
+    window.videoJSONLD = function(videoID) {
+        var youtubeAPIKey = 'AIzaSyDl65jixQGcpQEIa7I_5hTHeAHsrTtlKA8';
+        var data = {id: videoID, part: "snippet", key: youtubeAPIKey};
+        $.get("https://www.googleapis.com/youtube/v3/videos", data, function(resposne) {
+            var el = document.createElement('script');
+            var video = resposne.items[0].snippet;
+            var thumb = video.thumbnails.default.url;
+            var thumbBig;
+            var thumbs = [
+                video.thumbnails.default.url,
+                video.thumbnails.medium.url,
+            ];
+
+            if (video.thumbnails.high) {
+                thumbs.push(video.thumbnails.high.url);
+                thumbBig = video.thumbnails.high.url;
+            }
+
+            if (video.thumbnails.maxres) {
+                thumbs.push(video.thumbnails.maxres.url);
+                thumbBig = video.thumbnails.maxres.url;
+            }
+
+            el.type = 'application/ld+json';
+            el.text = JSON.stringify({
+                "@context": "http://schema.org",
+                "@type": "VideoObject",
+                "name": video.title,
+                "uploadDate": video.publishedAt,
+                "description": video.description,
+                "thumbnailUrl": thumbs,
+                "publisher": {
+                    "@type": "Organization",
+                    "name": "Vizzlo",
+                    "url": "https://vizzlo.com/",
+                    "logo": {
+                        "@type": "ImageObject",
+                        "url": "https://vizzlo.com/img/logo80.png",
+                    },
+                    "sameAs": [
+                        "https://www.facebook.com/vizzlo",
+                        "https://twitter.com/vizzlo",
+                        "https://plus.google.com/+vizzlo"
+                    ]
+                },
+                "contentUrl": 'https://www.youtube.com/watch?v=' + videoID,
+                "embedUrl": 'https://www.youtube.com/embed/' + videoID,
+            });
+            document.querySelector('head').appendChild(el);
+            $(document).trigger("video-data-ready", { thumb: thumb, thumbBig: thumbBig });
+        });
+    };
+
+    if (window.youtubeVideos) {
+        $.each(youtubeVideos, function(i, videoID) {
+            window.videoJSONLD(videoID);
+        })
+    }
+
+    window.saveTourClose = function() {
+        window.mediator.trigger('tutorialSeen');
+    };
+
+    var elementsToFix = '.main-navbar, #zendeskWidgetWrapper > div:first-child, .editor-navbar';
+
+    window.showTourBackdrop = function(callback) {
+        
+        if ($body.hasClass('backdrop shepherd-active')) {
+            callback && callback();
+            return;
+        }
+
+        window.scrollTo(0, 0);
+        $('.sidebar__inner').scrollTop(0);
+        $body.addClass('backdrop-animating');
+
+        $.each($(elementsToFix), function(i, el) {
+            $(el).addClass('shepherd-backdrop-fix');
+        });
+
+        if ($('.content-section.content-section--small.documents').length) {
+            $('main').css('position', 'initial');
+        }
+        var circle = $("<div unselectable='on' class='backdrop-animate'></div>");
+        var width = $(window).width();
+        var height = $(window).height();
+        var r = Math.sqrt(width * width + height * height);
+        $body.append(circle);
+
+        circle.animate({
+            width: r * 2,
+            height: r * 2,
+            'margin-right': -r,
+            'margin-bottom': -r
+        }, {
+            duration: 500,
+            easing: 'easeInOutCubic',
+            queue: false,
+            complete: function() {
+                $body.addClass('backdrop');
+                $body.removeClass('backdrop-animating');
+                circle.detach();
+                if (callback) {
+                    callback();
+                }
+            }
+        })
+    };
+
+    window.revertTourCSS = function() {
+        $.each($(elementsToFix), function(i, el) {
+            $(el).removeClass('shepherd-backdrop-fix');
+        });
+
+        $('main').css('position', '');
+        $body.removeClass('backdrop-animating');
+        $('.shepherd-nav-wrap').css('padding-bottom', 0);
+    };
+
+    window.hideTourBackdrop = function() {
+        $body.addClass('backdrop-animating');
+        $body.removeClass('backdrop');
+        var circle = $("<div unselectable='on' class='backdrop-animate'></div>");
+        var width = $(window).width();
+        var height = $(window).height();
+        var r = Math.sqrt(width * width + height * height);
+        $body.append(circle);
+
+        circle.css({
+            width: r * 2,
+            height: r * 2,
+            'margin-right': -r,
+            'margin-bottom': -r
+        });
+
+        circle.animate({
+            width: 0,
+            height: 0,
+            'margin-right': 0,
+            'margin-bottom': 0
+        }, {
+            duration: 500,
+            easing: 'easeInOutCubic',
+            queue: false,
+            complete: function() {
+                window.revertTourCSS();
+                circle.detach();
+            }
+        })
+    };
+
+    var documentTourElements = [
+        '#documentsLink',
+        '#marketLink',
+        '#userDropdownToggle',
+        '#zendeskWidgetOpen'
+    ];
+
+    var validatePublicTour = function() {
+        var offcanvasEl = $('.offcanvas-collapse');
+        var isPublicMenuMobile = offcanvasEl.length && offcanvasEl.css('display') === 'block';
+        var status = true;
+
+        documentTourElements.forEach(function(id){
+            var el = $(id);
+
+            if (!el.length || el.length && !el.is(":visible")) {
+                status = false;
+            }
+        });
+
+        if (isPublicMenuMobile) {
+            status = false;
+        }
+
+        return status;
+    };
+
+    window.startTutorial = function(manual, disableTour) {
+        var isEditor = $('.main-navbar--editor').length;
+        var isPublicTourAllowed = validatePublicTour();
+
+        if (disableTour || (!isEditor && !isPublicTourAllowed)) {
+            return;
+        }
+
+        $('#appearanceTab').click();
+        $('.shepherd-nav-wrap').css('padding-bottom', navbar.innerHeight() + 'px');
+
+        if (manual || localStorage.getItem('tour-intro-shown')) {
+            window.showTourBackdrop(function(){window.myTour.start()});
+            return;
+        }
+
+        window.showIntro();
+    };
+
+    window.tourProgress = function() {
+        var myTour = window.myTour;
+
+        if (!myTour) return;
+
+        var container = $('<div class="shepherd-tour-progress"></div>');
+        myTour.steps.forEach(function(step, i) {
+            var el = $('<a class="shepherd-tour-bullet"></a>');
+            if (myTour.steps.indexOf(myTour.getCurrentStep()) === i) {
+                el.addClass('shepherd-tour-bullet-current');
+            }
+            el.on('click', function() {
+                myTour.show(i);
+            });
+            container.append(el);
+        });
+
+
+        return container;
+    };
+
+    window.tourStep = function(text, customElement) {
+        var el = $('<div>');
+        var content = $('<p>');
+        var customWrapper = $('<div>');
+
+        content.html(text);
+        el.append(content);
+
+        if (customElement) {
+            customWrapper.append(customElement);
+            el.append(customWrapper)
+        }
+
+        el.append(window.tourProgress);
+
+        return el.get(0);
+    };
+
+    window.showIntro = function() {
+        window.showTourBackdrop(function() {
+            localStorage.setItem('tour-intro-shown', true);
+            $('#introPopup').addClass('visible');
+            $('#introSkipTourButton').click(function(){ window.skipTour()});
+            $('#introStartTourButton').click(function(){ $('#introPopup').removeClass('visible'); window.myTour.start()});
+            $('.intro-close-button').click(function(){ $('#introPopup').removeClass('visible'); window.hideTourBackdrop() });
+        });
+    };
+
+    window.skipTour = function() {
+        $('#introPopup').removeClass('visible');
+        window.hideTourBackdrop();
+        window.mediator.trigger('tutorialSkip');
+    };
+
+    window.adjustTourBackground = function() {
+        if (!Shepherd.activeTour) {
+            return;
+        }
+        var el=$(Shepherd.activeTour.getCurrentStep().el);
+        var bg = $('.shepherd-target-bg');
+        if (!bg.length) {
+            bg = $('<div class="shepherd-target-bg"></div>');
+        }
+        bg.attr('x-placement', el.attr('x-placement'));
+        var target=$(Shepherd.activeTour.getCurrentStep().target);
+
+        var offset = {
+            left: target.hasClass('theme-section') ? 15 : 5,
+            right: target.hasClass('nav__undo-redo') ? 0 : 5,
+            top: 5,
+            bottom: 5
+        };
+
+        if (target.length === 0) {
+            return;
+        }
+
+        var targetClientRect = target.get(0).getBoundingClientRect();
+
+        bg.height(targetClientRect.height + offset.top + offset.bottom )
+          .width(targetClientRect.width + offset.right + offset.left)
+          .offset({top: targetClientRect.top - offset.top, left: targetClientRect.left - offset.left});
+
+        $body.append(bg);
+    };
+
+    var handleAdjustTour = debounce(function(){
+        window.adjustTourBackground();
+    }, 50);
+
+    window.addEventListener('resize', handleAdjustTour);
+
+    window.initDocumentsTour = function() {
+        var myTour = new Shepherd.Tour({
+            defaults: {
+                classes: 'shepherd-theme-arrows-plain-buttons',
+                showCancelLink: true,
+                when: {
+                    "show": function () {
+                        window.adjustTourBackground();
+                        $(this.el).find("a").attr("tabindex",1);
+                    },
+                    "hide": function() {
+                        $('.shepherd-target-bg').detach();
+                    }
+                },
+                popperOptions: {
+                    modifiers: {
+                        
+                        preventOverflow: {
+                        boundariesElement: "window"
+                        },
+                        offset: {
+                            enabled: true,
+                            offset: "0, 15"
+                        },
+                    }
+                }
+            }
+        });
+        window.myTour = myTour;
+
+        myTour.addStep('documents', {
+            "attachTo": documentTourElements[0] + " bottom",
+            "title": "This is your personal space",
+            "text": function() { return window.tourStep('In here you will find all of the documents you\'ve created along with options for editing and sorting them.')},
+            "buttons": [
+                 {
+                    text: 'Next',
+                    action: myTour.next,
+                    classes: 'btn btn-flat btn-secondary'
+                }
+            ]
+
+        });
+
+        myTour.addStep('market', {
+            "attachTo": documentTourElements[1] + " bottom",
+            "title": "Discover our collection of over 100+ charts",
+            "text": function() { return window.tourStep('All of our Vizzards are here, the smart templates we have available for you. Simply click on a thumbnail to get started.')},
+            "buttons": [
+                {
+                    text: 'Back',
+                    classes: 'btn btn-flat',
+                    action: myTour.back
+                }, {
+                    text: 'Next',
+                    action: myTour.next,
+                    classes: 'btn btn-flat btn-secondary'
+                }
+            ]
+        });
+
+        myTour.addStep('account', {
+            "attachTo": documentTourElements[2] + " bottom",
+            "title": "Here are your account settings",
+            "text": function() { return window.tourStep('Click here anytime to manage your subscription and edit your personal information.')},
+            "buttons": [
+                {
+                    text: 'Back',
+                    classes: 'btn btn-flat',
+                    action: myTour.back
+                }, {
+                    text: 'Next',
+                    action: myTour.next,
+                    classes: 'btn btn-flat btn-secondary'
+                }
+            ]
+        });
+
+        myTour.addStep('help', {
+            "attachTo": documentTourElements[3] + " top",
+            "title": "Tips and tricks",
+            "text": function() { return window.tourStep('Find out all about our features and the amazing tutorials we\'ve prepared to help you completely harness the power of Vizzlo.')},
+            "buttons": [
+                {
+                    text: 'Back',
+                    classes: 'btn btn-flat',
+                    action: myTour.back
+                }, {
+                    text: 'Got it',
+                    action: myTour.complete,
+                    classes: 'btn btn-flat btn-secondary'
+                }
+            ]
+        });
+    };
+
+
+    function setDarkNav(){
+        navbar.removeClass(lightNavClass).addClass(darkNavClass);
+    }
+
+    function setLightNav(){
+        navbar.removeClass(darkNavClass).addClass(lightNavClass);
+    }
+
+    function toggleNavbarColor(scrollPosition) {
+        if (scrollPosition > 0) {
+            setLightNav();
+            return;
+        }
+
+        setDarkNav();
+    }
+
+    function debounce(func, wait, immediate) {
+        var timeout;
+        return function() {
+            var context = this, args = arguments;
+            var later = function() {
+                timeout = null;
+                if (!immediate) func.apply(context, args);
+            };
+            var callNow = immediate && !timeout;
+            clearTimeout(timeout);
+            timeout = setTimeout(later, wait);
+            if (callNow) func.apply(context, args);
+        };
+    }
+
+    var substringMatcher = function (strs) {
+        return function findMatches(q, cb) {
+            var matches, substrRegex;
+
+            
+            matches = [];
+
+            
+            substrRegex = new RegExp(q, 'i');
+
+            
+            
+            $.each(strs, function (i, str) {
+                if (substrRegex.test(str)) {
+                    matches.push(str);
+                }
+            });
+
+            cb(matches);
+        };
+    };
+
+    function initTypeahead() {
+        var queryInput = $('#queryInput');
+
+        if (queryInput.length === 0) {
+            return;
+        }
+
+        var vizzards =  null ;
+
+        queryInput.typeahead({
+                hint: true,
+                highlight: true,
+                minLength: 1
+            },
+            {
+                name: 'states',
+                source: substringMatcher(vizzards)
+            }).bind('typeahead:select', function(ev, suggestion){
+            $(this.form).submit();
+        });
+
+        if(queryInput.val() === '' && $body.hasClass('market-details') === false) {
+            queryInput.focus();
+        }
+    }
+
+    function toggleTopButton(scrollPosition) {
+        if (scrollPosition > 0) {
+            topScrollButton.removeClass('d-none');
+            return;
+        }
+
+        topScrollButton.addClass('d-none');
+    }
+
+    window.addEventListener('scroll', function() {
+        lastScrollPosition = $window.scrollTop();
+
+        if (!ticking) {
+            window.requestAnimationFrame(function() {
+                if (topScrollButton.length) {
+                    toggleTopButton(lastScrollPosition);
+                }
+
+                if (navbar.length && navbar.hasClass(scrollToggleClass)) {
+                    toggleNavbarColor(lastScrollPosition);
+                }
+
+                ticking = false;
+            });
+
+            ticking = true;
+        }
+    });
+
+    $document.ready(function() {
+        $.ajaxSetup({
+            crossDomain: false,
+            beforeSend: function(xhr, settings) {
+                
+                if (!/^(GET|HEAD|OPTIONS|TRACE)$/.test(settings.type)) {
+                    xhr.setRequestHeader("X-CSRF-Token", "Zy0XUji2AULttMVq9DWKxg");
+                }
+            }
+        });
+
+        $('#navbarOverlay').click(function () {
+            $body.toggleClass('navbar--open');
+        });
+
+        $('#mobile-menu-button').click(function(e) {
+            $body.toggleClass('navbar--open');
+        });
+
+        
+        var handleResize = debounce(function() {
+            if (window.innerWidth < 768) {
+                return;
+            }
+
+            var scroll = $window.scrollTop();
+
+            if (scroll === 0 && navbar.hasClass(scrollToggleClass)) {
+                setDarkNav();
+            }
+
+            if ($body.hasClass('navbar--open')) {
+                $body.removeClass('navbar--open');
+            }
+
+        }, 50);
+
+        $(window).on("resize", handleResize);
+
+        if (navbar.length && navbar.hasClass(scrollToggleClass)) {
+            toggleNavbarColor($window.scrollTop());
+        }
+
+        var backToMarketLink = $("#backToMarketLink");
+
+        if (backToMarketLink.length) {
+            backToMarketLink.click(function (event) {
+                var href = window.sessionStorage.getItem(lastMarketPageKey);
+
+                if(href) {
+                    event.preventDefault();
+                    location.href = href;
+                }
+            });
+        }
+
+        var lastMarkedValue = window.location.pathname === "/" ? window.location.href + "vizzards" : window.location.href;
+        var lastMarketPageKey = "lastMarketPage";
+
+        if(/^\/vizzards|^\/$/.test(window.location.pathname)) {
+            window.sessionStorage.setItem(lastMarketPageKey, lastMarkedValue);
+        }
+
+        window.cookieconsent_options = {
+            learnMore: 'More info',
+            link: 'https://vizzlo.com/privacy'
+        };
+
+        var containerAlertEl = $(".container--alert");
+
+        if (containerAlertEl.length) {
+            window.setTimeout(function () {
+                containerAlertEl.fadeOut(500);
+            }, 5000);
+        }
+
+        initTypeahead();
+        toggleTopButton($window.scrollTop());
+    });
+</script>
+
+<script defer="" src="//cdnjs.cloudflare.com/ajax/libs/cookieconsent2/1.0.9/cookieconsent.min.js"></script>
+
+
+
+
+
+
+</body></html>
