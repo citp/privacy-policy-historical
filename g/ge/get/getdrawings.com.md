@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the getdrawings.com privacy policy that was archived on 2018-08-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180822012101id_/http%3A//getdrawings.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the getdrawings.com privacy policy that was archived on 2019-03-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190330182618id_/http%3A//getdrawings.com/privacy-policy) for the most accurate reproduction.*
 
 # GetDrawings.com drawings
 
