@@ -1,87 +1,120 @@
-> *The following text is extracted and transformed from the iranian.com privacy policy that was archived on 2015-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151218045527id_/http%3A//iranian.com/index/page/name/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the iranian.com privacy policy that was archived on 2019-03-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190330180221id_/https%3A//iranian.com/privacy-policy) for the most accurate reproduction.*
 
-# Iranian.com - Iran News, Blogs and Community
+# Privacy Policy | The Iranian
 
-## Iranian.com Privacy Policy
+Thank you for visiting The Iranian, which is owned and operated by Iranian LLC (“we” “our” or “us”). We want you to know how information about you is collected, used, and shared with others. We also want you to know about the choices you have when you visit us at [http://www.iranian.com](http://www.iranian.com/) (the “Site”).
 
-**Our Privacy Policy and Use of Your Information**
+The Iranian has updated its Privacy Policy and Terms of Use, effective May 25, 2018. These changes were made primarily in preparation for the EU’s new data privacy law, the General Data Protection Regulation (GDPR).
 
-Iranian.com, through itself and its subsidiaries (“Iranian.com” or “we”) created this Privacy Policy to demonstrate its commitment to protecting your personal information and informing you on how it is handled. This Privacy Policy only applies to transactions and activities in which you engage and data gathered on Iranian.com (the “Site”). It does not apply to any other website or offline point of contact between Iranian.com, or any other company, site, or consumers. Please review this Privacy Policy periodically as we may modify it from time to time. Each time you visit the Site or provide Iranian.com with information, by doing so you are accepting the practices described in this Privacy Policy at that time.
+We will be clear about what data we collect from you and how we use it. We will protect all personal data you share with us using the most up-to-date security and will not share it with anyone except those described in this policy.
 
-We hope that you will want to provide some information about yourself to Iranian.com by becoming a “registered user,” because it will make your experience here more valuable to you and to other members of the community. If you are comfortable sharing some basic information about yourself, you will receive enhanced services that are otherwise not possible to offer to unregistered users.
+If you have any queries regarding this privacy notice please contact us on [info@iranian.com](mailto:info@iranian.com).
 
-Regardless, this Privacy Policy applies to all “users,” whether registered or not. However you choose to interact with Iranian.com, you have our pledge that we will manage your privacy information in accordance with the policies set forth herein. Please note that we may share information about you to respond to subpoenas, search warrants, judicial proceedings, court orders, legal process, or other law enforcement measures, to establish or exercise our legal rights, or to defend against legal claims.
+ **Individual’s Rights**
 
-If you choose to engage in public activities on the site, such as posting blogs/comments on the site, any information you submit can be read, collected, or used by others. Please exercise caution when deciding to disclose any personal information in public activities or submissions. Please also remember that Iranian.com is not targeted to children, and we do not knowingly collect personal information from children under 13 years of age.
+You should check your procedures to ensure they cover all the rights individuals have, including how you would delete personal data or provide data electronically and in a commonly used format. The GDPR includes the following rights for individuals:  the right to be informed;  the right of access;  the right to rectification;  the right to erasure;  the right to restrict processing;  the right to data portability;  the right to object; and  the right not to be subject to automated decision-making including profiling.
 
-We may share information about you in the event that the Site is acquired by or merged with another company or a similar corporate transaction takes place. However, the Site will notify you by placing a prominent notice on our site or sending a notice to the primary email address specified in your account before your information is transferred and becomes subject to a different privacy policy. We may also share information about you to investigate, prevent, or take action regarding illegal activities, suspected fraud, situations involving potential threats to the physical safety or other rights and interests of any person, violations of the Site's [Terms and Conditions](https://web.archive.org/index/page/name/terms), or as otherwise required by law.
+## Who are we?
 
-**When you visit Iranian.com ("cookies")**
+The Iranian is an independent media platform covering world affairs, ideas and culture. We seek to challenge power and encourage democratic debate across the world.
 
-Cookies are used on the Iranian.com Web site to manage advertising banner displays by our advertising partners. Iranian.com cookies from registered users also may contain a user's username(s) so that the username is “remembered” on the computer. We use Google Adsense and other advertising networks, and they have their own cookies, for which we are not responsible. Google uses the DoubleClick DART cookie/AdJuggler, which enables it to serve you ads based on your visits to all sites on the Internet which support that cookie. You may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy.
+## What kinds of information do we collect?
 
-Most browsers are initially set to accept cookies, but you can change your settings to notify you when a cookie is being set or updated, or to block cookies altogether. Please consult the "Help" section of your browser for more information.
+The Iranian requests information from you when you subscribe our mailing list or donate money to us. When you sign up for these reasons, we will ask you for personal information so that we can contact you. Website usage information is collected using cookies.
 
-We also gather traffic patterns and Site usage information, such as browser type, referring URL, and IP address, in order to help us develop the design and layout of the Site. This information is not linked to any personally identifiable information about you.
+## How do we get your consent?
 
-We have relationships with advertisers and vendors who sell products and services to customers who click from Iranian.com to the vendor's Web site. We may use broad demographic or geographic information provided by you to target ads, but no advertiser will have access to your personally identifying information. In cases where you click through to an advertisers’ site, Iranian.com does not collect any information about you, and any information provided by you to these vendors and service providers would fall under the privacy policy of such vendor(s). These are external to the Iranian.com Web site, and therefore not under the control of Iranian.com.
+When collecting information from you, we always
 
-We may also share aggregate statistical information regarding our customers, sales, traffic patterns, and Site usage with our commercial partners. For example, we may develop summary, not individual, reports for our advertisers or sponsors. An example of a summary report might be "800 people clicked on Advertisement Z today."
+  * • process data lawfully, fairly and in a transparent manner;
+  * • collect data only for purposes that are legitimate and necessary in relation to the services we provide;
+  * • collect accurate information, keep it up to date and make sure it can be easily deleted or corrected without delay;
+  * • keep data in a form that permits identification no longer than necessary for the purpose for which the personal data is processed;
+  * • keep personal data in a secure place that protects the information against unauthorised or unlawful processing, accidental loss, destruction or damage, making sure we have the appropriate technology to do so.
 
-We also may use this general information in conjunction with generally available marketing databases so that we better understand our customers and can tailor our products, services and Content to meet our customers' needs and preferences. This information is for use by Iranian.com only and is not shared with third parties.
 
-**Your IP Address**
 
-Like most e-commerce Websites, each time you visit the Site, we automatically collect your IP address and the web page from which you came. To administer and optimize the Site for you and to diagnose problems and issues with the Site, we may also use your IP address to help identify you and to gather broad demographic information about you.
+When you provide us with your personal information, we will tell you why we want to collect and use it. We will ask you to explicitly give us consent to our collecting and using it for that specific reason only. We will ask you to positively opt in to our services, through a two-step process.
 
-**When you register at Iranian.com**
+### Making a donation
 
-In order to use some advanced features of Iranian.com, you must first complete the Site registration form. During registration, you must provide certain personal information (specifically “username”, first/last name and email address). We encourage, but do not require, that you use your real name as your username. We use this information to contact you about the Site's services in which you have expressed interest.
+When you make a donation via our website, The Iranian uses third-party organizations to manage the transfer of your money.
 
-You have the option to provide certain demographic information, such as year of birth, “bio,” picture, personal Web site, social media identities, country of residence and gender. We encourage you to submit this information, so that we can provide a more personalized experience on the Site and as a benefit for our community of users. **Should you provide such demographic information, it will be displayed on your blog, and all Users can see it.** Note that your email address is NOT revealed or displayed. If you wish that certain demographic information not be displayed, please do not provide it. (If you have provided it and now wish that it not be displayed, simply “Edit Your Profile” page and remove the information.)
+### Direct email marketing
 
-Registered users may also subscribe or unsubscribe for activity notifications/email newsletters or for occasional special offers from our advertisers. In both cases, we will not intentionally reveal your email address to advertisers or other users.
+If you actively give us consent to contact you,  we will send you direct email marketing. This will ONLY include the newsletters or campaign information you have requested. You can opt out of these services at any time by unsubscribing to the relevant communication. The Iranian uses SendGrid/MailChimp software to produce our newsletter content.
 
-You may opt out of receiving any notifications by “unsubscribing” to these offers on your “Account Settings” page.
+ _We will not share any personal information you give us through donations or email subscriptions with anyone else for marketing or sales reasons._
 
-We use your email address to respond to questions you ask us or for certain administrative communications such as forgotten passwords or confirming activities on your account. And we may use your email address to send you email regarding the status of your user account.
+##  How is your information used?
 
-**Deactivating Your Account**
+The personal information we collect might include your name, address, email address, IP address, and information regarding what pages are accessed and when. The type of personal information we will collect about you will depend on why we are collecting the information. We may use your information to:
 
-You can deactivate your account at any time by visiting the “[Account Settings](https://web.archive.org/users/settings/)” for your profile. When you deactivate your account, your user profile will be disabled, but your blogs and public comments will remain on the site. **The Site has no responsibility to take down, remove, or edit any of your public activities or any submissions that are a result of your public activities.** For more information, please review our [Terms and Conditions](https://web.archive.org/index/page/name/terms).
+  * • keep a record of your relationship and communication preferences with us;
+  * • enable us to deliver more relevant content to you through targeted communications;
+  * • carry out our obligations arising from any contracts entered into by you and us;
+  * • notify you of changes to our services;
+  * • send you communications which you have requested and that may be of legitimate interest to you;
+  * • communicate with you about an article or pitch that you have submitted.
 
-**Public Forums**
 
-Iranian.com may provide public forums for our visitors to read and share information with other individuals. Disclosing personally identifiable information online through comments, forums, message boards or other Content makes the information public information. Please be careful and use discretion when disclosing any information in such a public forum.
 
-**Advertising and Links to Other Sites**
+## What will we do with things you submit yourself?
 
-We may use your personally identifying information to target certain ads based on your geographic location and/or demographic profile (specifically age and gender). We will not reveal your information to the advertiser.
+###  _Submissions_
 
-Iranian.com has arrangements with third parties and advertising networks who provide advertising banners or sponsored links. We do our best to only link to reliable Web sites. However, Iranian.com cannot control the activities of any third parties or ad networks with regard to the ads that appear on our Site or once an Iranian.com customer leaves the Iranian.com Web site. If you have questions about the privacy policies of such third parties, we suggest contacting them directly or visiting their Web sites to review their posted privacy policies.
+The Iranian invites you to submit articles, or pitches for articles, that you would like us to publish on our site. We will assess pitches and articles and let you know if we are interested in publishing them; we aim to do this within three weeks. We require you to give us an email address so that we can communicate with you about your article or pitch.
 
-**Third Party Services**
+Normally we will publish your name with the article. We will also write a short biographical summary based on information that you supply. If you wish the article to be published anonymously or under a pen name, please make this clear on initial submission and in subsequent communications.
 
-To customize your experience on the Site and to simplify the Site's registration process, we provide you with the opportunity to access or interact with third-party services, such as Facebook and Twitter. When you connect to the Site through these third-party services, we may share information about you with these third-party service providers and they may share data about you with us.
+We may edit the article before or after publication. Normally we will try to agree any changes with you before publishing them, but we this may not always be possible, so we reserve the right to alter your article without notice.
 
-In addition, if you connect to a Facebook account, your experience on the Site may be personalized. For example, you may automatically see what stories are popular in your network, and what your friends are saying about particular stories.
+###  _Social media_
 
-Please note that you may disconnect third party accounts at any time. You may be able to modify your privacy settings directly with the third-party service. To modify your Facebook privacy settings, click [here](https://web.archive.org/users/settings). To modify your Twitter privacy settings, click [here](https://web.archive.org/users/settings). 
+When you send Direct Messages via Twitter or Facebook, these companies will store and process your communications and information related to them. openDemocracy will not copy, store or re-share the contents of your communications via these social media sites.
 
-Please remember that we do not control the privacy practices of these third-party services. We encourage you to read the privacy policies of all third-party service providers.
+###  _Online comments_
 
-**Contests, Promotions and Surveys**
+The Iranian may remove any comment on our website or social media channels that we deem inappropriate, spam or offensive.
 
-From time to time, we and/or third parties may offer the opportunity to participate in contests, promotions and surveys. If such contests, promotions or surveys are operated by third parties, by electing to participate you consent to our providing your personal information to those third parties. Those third parties may use your personal information in accordance with their own privacy policies. You will need to contact those third parties to instruct them directly regarding your preferences for the use of your personal information by them. Additionally, you agree we may use and disclose all such information so submitted to such third parties in the same manner in which we are entitled to use and disclose any other information you submit to us.
+###  _Surveys_
 
-**Confidentiality and security**
+From time to time The Iranian will conduct voluntary surveys of site visitors to obtain aggregate demographic information. This information may be aggregated and then compiled and shared with third parties, but no personal details will be traceable or associated with specific individuals.
 
-We limit access to contact information about you to employees/volunteers or service providers who we believe reasonably need to come into contact with that information to provide products or services to you or in order to do their jobs. We also have adopted commercially reasonable technical, physical, and administrative procedures to help protect information about you from loss, misuse, and alteration.
+## Links to other sites
 
-Please note that no data transmission or storage can be guaranteed to be 100% secure. We want you to feel confident using the Site, but we cannot ensure or warrant the security of any information you transmit to us. In the event of an inadvertent disclosure of personal information, including through “hacking” or other unauthorized use of the website, you consent to World Singles notifying you electronically, via the e-mail address you provide upon registration, as to any disclosures it is required to make under the law, or decides to make voluntarily. The law may allow you the right to have such disclosure of compromised personal information made via mail, and you expressly waive that right.
+openDemocracy contains many links to other websites. We are not responsible for the privacy practices or the content of such websites.
 
-We may update this privacy policy at any time to reflect changes in our practices and service offerings. If we modify this privacy policy, we will update the "Effective Date" found at the bottom of this page.
+## What is our lawful basis for processing your data?
 
-If you have questions about this privacy policy, please contact our privacy team at [info@iranian.com](mailto:info@iranian.com)
+The lawful basis for processing your information is set out in article 6 of the GDPR. This requires us to be accountable and transparent about any information we ask from you. In line with the GDPR we will provide clear consent from individuals and only ask for information that is necessary. openDemocracy will ensure that we comply with the law. For more information, please see the [ICO website](https://ico.org.uk/) in regards to processing data.
 
-Effective Date: March 1, 2013
+## Security
+
+The Iranian will ensure that we have all the necessary processes in place to store your data safely. We follow industry-best practices to make sure your information is not inappropriately lost, misused, accessed, disclosed, altered or destroyed. As part of our security process we have trained and dedicated members of staff who regularly audit our security access. This ensures that only the appropriate individuals have access to your data.
+
+All third-party organisations we work with are also GDPR-compliant and we work continually to ensure the security of our online data. We do not share your data with any third parties unless you have given your explicit consent.
+
+## Use of cookies
+
+Like most other sites, The Iranian uses cookies – small files placed on your computer – to track which pages you visit, for how long, and what openDemocracy services you use. Cookies also let us recognize you whenever you return. We use Google Analytics to analyze the use of our website. This is collected in a way that doesn’t trace personal information for The Iranian to use. Google Analytics stores this information.
+
+Cookies make it possible for us to identify registered users without needing to ask for registration details every time you visit the site, and makes it more convenient for you as you don’t need to enter your email address and password each time you visit.
+
+Occasionally, we may also use cookies to track registered or unregistered users on the site – for instance, we might use cookies so that you don’t see a particular advert more than once. This information will never be shared with a third party, and is used only to make our systems more efficient and improve the service we offer you.
+
+We use two types of cookies: session cookies and persistent cookies.
+
+Session cookies are temporary and remain in your browser’s cookie folder only until you leave the site. No personal or identifying information is held in these cookies. As soon as you leave our site or close your browser, they are automatically deleted from your computer.
+
+Persistent cookies stay in your browser’s cookie folder for a longer period, though how long will depend on the settings of the specific cookie. This cookie uniquely identifies you, so you can access member services without logging in to the site each time. If you are concerned about cookies we recommend the Interactive Advertising Bureau’s website [www.allaboutcookies.org](http://www.allaboutcookies.org/), which explains their use and the privacy implications.
+
+## How to exercise your rights under GDPR
+
+Under the GDPR, you have the right to access, rectify and erase your data, as well as the right to restrict processing and data portability. Those who object to our processing or do not wish to be subscribed to our services can use the “unsubscribe” link, which is clearly linked on our website and in any correspondence we have with a subscriber.
+
+If you wish to amend any data we hold that you have the right to change, or exercise any of your other rights, we will require identification before making any changes. As part of our lawful responsibilities, upon request openDemocracy will erase any personal information within a month of receipt.
+
+## Changes to our privacy policy
+
+We regularly review our privacy policy and we will place any updates on this web page. This privacy notice was last updated on May 25, 2018.
