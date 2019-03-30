@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the thediscoverer.com privacy policy that was archived on 2018-08-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180828092310id_/http%3A//thediscoverer.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thediscoverer.com privacy policy that was archived on 2019-03-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190330155617id_/https%3A//www.thediscoverer.com/privacy-policy) for the most accurate reproduction.*
 
-# The Discoverer | Privacy Policy
+# Privacy Policy | The Discoverer
 
 ### What personal information do we collect from the people that visit our website?
 
@@ -21,6 +21,8 @@ We may use the information we collect from you when you register, make a purchas
   * To follow up with you and offer email support.
 
 
+
+Notwithstanding any other provision, we partner with third parties that collect information across various channels, including offline and online, for purposes of delivering more relevant advertising to you. Our partners may place or recognize a cookie on your computer, device, or directly in our emails/communications, and we may share personal information with them if you have submitted such information to us, such as your name, postal address, or email address. Our partners may link the nonpersonal information we share with them to the cookie stored on your browser or device, and they may collect information such as your IP address, browser or operating system type and version, and demographic or inferred-interest information. Our partners use this information to recognize you across different channels and platforms over time for advertising, analytics, attribution, and reporting purposes. For example, our partners may deliver an ad to you in your web browser based on a purchase you made in a physical retail store, or they may send a personalized marketing email to you based on the fact that you visited a particular website. To learn more about interest-based advertising in general and to opt out, please visit <http://www.aboutads.info/choices>.
 
 ### How do we protect your information?
 
