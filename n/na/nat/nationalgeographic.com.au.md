@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the nationalgeographic.com.au privacy policy that was archived on 2018-10-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181019174600id_/https%3A//www.nationalgeographic.com.au/about/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nationalgeographic.com.au privacy policy that was archived on 2019-03-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190330194349id_/https%3A//www.nationalgeographic.com.au/about/privacy.aspx) for the most accurate reproduction.*
 
-# Privacy Policy - National Geographic
+# Privacy Policy Updated - National Geographic
+
+**Headline** : The Walt Disney Company has acquired certain 21st Century Fox businesses, including those providing the services described below. This policy has been updated to reflect that transaction - March 2019.
 
 ###  Table of Contents:
 
@@ -14,9 +16,9 @@
 
 
 
-##  1\. INTRODUCTION
+##  1\. INTRODUCTION 
 
-NGC Network (Australia) Pty Limited (ABN 67 077 753 603) (" **we** " or " **FNG** ") is committed to responsible privacy practices and to complying with the privacy principles contained in the Privacy Act 1988 (Cth) (" **Privacy Act** ") and wants you to be familiar with how we collect, use and disclose information from and about you. This Privacy Policy describes our practices in connection with information collected through services such as websites, mobile sites, applications (" **apps** "), and widgets (collectively, the " **FNG Services** "). By using FNG Services, you agree to the terms and conditions of this Privacy Policy. As described more fully below, we share certain information with our affiliated companies (" **Company Affiliates** "). A list of our Company Affiliates is available at [www.21cf.com](http://www.21cf.com/).
+NGC Network (Australia) Pty Limited (ABN 67 077 753 603) (" **we** " or " **FNG** ") is committed to responsible privacy practices and to complying with the privacy principles contained in the Privacy Act 1988 (Cth) (" **Privacy Act** ") and wants you to be familiar with how we collect, use and disclose information from and about you. This Privacy Policy describes our practices in connection with information collected through services such as websites, mobile sites, applications (" **apps** "), and widgets (collectively, the " **FNG Services** "). By using FNG Services, you agree to the terms and conditions of this Privacy Policy. As described more fully below, we share certain information with our affiliated companies. Our Company Affiliates include members of[ The Walt Disney Family of Companies](https://privacy.thewaltdisneycompany.com/en/definitions/). For further information on Company Affiliates please contact [privacycontact@disney.com](http://privacycontact@disney.com/).
 
 This Privacy Policy applies to all users, including both those who use the FNG Services without being registered with or subscribing to a FNG Service and those who have registered with or subscribed to a FNG Service. This Privacy Policy applies to FNG’s collection and use of your personal information.
 
@@ -34,9 +36,9 @@ FNG and our service providers may collect the following information from and abo
 
 Cookies and other tracking technologies (such as browser cookies, pixels, beacons, and Adobe Flash technology including cookies) are comprised of small bits of data that often include a de-identified or anonymous unique identifier. Websites, apps and other services send this data to your browser when you first request a web page and then store the data on your device so the website can access information when you make subsequent requests for pages from that service. These technologies may also be used to collect and store information about your usage of the FNG Services, such as pages you have visited, content you have viewed, search queries you have run and advertisements you have seen.
 
-Third parties that support the FNGServices by serving advertisements or providing services, such as allowing you to share content or tracking aggregate FNG Services usage statistics, may also use these technologies to collect similar information. FNG does not control these third-party technologies and their use is governed by the privacy policies of third parties using such technologies. For more information about third-party advertising networks and similar entities that use these technologies, see [www.aboutads.info/consumers](http://www.aboutads.info/consumers), and to opt-out of such ad networks’ and services’ advertising practices, go to [www.aboutads.info/choices](http://www.aboutads.info/choices).
+We use our own and third-party cookies to improve our services, personalize your advertising and remember your preferences.Third parties that support the FNGServices by serving advertisements or providing services, such as allowing you to share content or tracking aggregate FNG Services usage statistics, may also use these technologies to collect similar information. FNG does not control these third-party technologies and their use is governed by the privacy policies of third parties using such technologies. For more information about third-party advertising networks and similar entities that use these technologies, see [www.aboutads.info/consumers](http://www.aboutads.info/consumers), and to opt-out of such ad networks’ and services’ advertising practices, go to [www.aboutads.info/choices](http://www.aboutads.info/choices).
 
-Most browsers are initially set to accept cookies, but you can change your settings to notify you when a cookie is being set or updated, or to block cookies altogether. Please consult the "Help" section of your browser for more information. Users can manage the use of Flash technologies, with the Flash management tools available at Adobe’s website, see <http://www.adobe.com/security/flashplayer/>. Please note that by blocking any or all cookies you may not have access to certain features, content or personalization available through the FNG Services.
+Most browsers are initially set to accept cookies, but you can change your settings to notify you when a cookie is being set or updated, or to block cookies altogether. Please consult the "Help" section of your browser for more information. Users can manage the use of Flash technologies, with the Flash management tools available at Adobe’s website, see <http://www.adobe.com/security/flashplayer/>. Please note that by blocking any or all cookies you may not have access to certain features, content or personalization available through the FNG Services. For more information visit our Cookies Policy at [www.nationalgeographic.com/legal/cookie-policy/](http://www.nationalgeographic.com/legal/cookie-policy/).
 
 **Information from Other Sources**. We may supplement the information we collect with information from other sources, such as publicly available information from social media services, commercially available sources and information from our Company Affiliates or business partners in Australia or internationally.
 
@@ -110,6 +112,6 @@ If you have questions, comments or complaints about our collection, use or discl
 
 Email: [info@natgeotv.com.au](mailto:info@natgeotv.com.au)
 
-Mail/Phone: C/O Privacy Officer, Level 3, 4-16 Yurong Street, Darlinghurst, New South Wales 2010 or at (02) 8668 2911 (during normal business hours). FNG will take any privacy complaint seriously and any complaint will be assessed by an appropriate person with the aim of resolving any issue in a timely and efficient manner. We request that you cooperate with us during this process and provide us with any relevant information that we may need.
+Mail/Phone: C/O Privacy Officer, Level 4, 99 Elizabeth Street, Sydney, New South Wales 2000 or at (02) 8668 2911 (during normal business hours). FNG will take any privacy complaint seriously and any complaint will be assessed by an appropriate person with the aim of resolving any issue in a timely and efficient manner. We request that you cooperate with us during this process and provide us with any relevant information that we may need.
 
 If you are not satisfied with the outcome of our assessment of your complaint, you may wish to contact the Office of the Australian Information Commissioner ([click here for information](http://www.oaic.gov.au/privacy/privacy-complaints)).
