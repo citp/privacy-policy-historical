@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the powershow.com privacy policy that was archived on 2018-03-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180321022153id_/http%3A//www.powershow.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the powershow.com privacy policy that was archived on 2019-03-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190331004521id_/https%3A//www.powershow.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - PowerShow.com
 
