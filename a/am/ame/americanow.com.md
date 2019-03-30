@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the americanow.com privacy policy that was archived on 2018-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181212201908id_/https%3A//www.americanow.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the americanow.com privacy policy that was archived on 2019-03-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190330174145id_/https%3A//www.americanow.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
