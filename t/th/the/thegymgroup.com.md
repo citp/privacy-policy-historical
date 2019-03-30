@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thegymgroup.com privacy policy that was archived on 2018-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181123215753id_/https%3A//www.thegymgroup.com/privacy-cookie-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thegymgroup.com privacy policy that was archived on 2019-03-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190330152518id_/https%3A//www.thegymgroup.com/privacy-cookie-policy) for the most accurate reproduction.*
 
 # Cookie Policy | Privacy Policy | The Gym Group
 
@@ -81,6 +81,8 @@ Although this is not an exhaustive list, the following third parties process dat
 • Service Management Group, Inc – survey services
 
 • Nomical Limited – information technology services
+
+• Netpulse UK Limited – mobile app software services
 
 All selected companies may have access to personal information if needed to perform such functions but will only be permitted by us to use personal information for the purpose of performing that function and not for any other purpose.
 
