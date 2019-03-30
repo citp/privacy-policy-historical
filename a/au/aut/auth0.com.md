@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the auth0.com privacy policy that was archived on 2018-08-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180830154104id_/https%3A//auth0.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the auth0.com privacy policy that was archived on 2019-03-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190330202042id_/https%3A//auth0.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Auth0
 
@@ -10,11 +10,11 @@
   * 
 
 
-### Last update: May 25, 2018
+### Last update: November 30, 2018
 
 This is the Privacy & Cookie Policy for the website hosted at https://auth0.com/ ("our site"), and for other Auth0 activities at which you may provide your personal data, such as sponsored events or trade shows. The site is operated by or on behalf of Auth0, Inc. ("we","us"). We are committed to protecting and respecting your privacy.
 
-This policy (together with our terms of service and any other documents referred to on it) sets out:
+This policy (together with our terms of service and any other documents referred to in it) sets out:
 
   * Information we collect about you
   * Cookies and other technologies
@@ -30,7 +30,7 @@ This policy (together with our terms of service and any other documents referred
 
 
 
-Please read the following carefully to understand our views and practices regarding your personal data and how we will treat it. By engaging in our site and services, you acknowledge you have read and understood this privacy policy. For the purposes of Applicable Data Protection Laws including the European Economic Area data protection law, (the "Data Protection Law"), the data controller is: Auth0, Inc., 10900 NE 8th Street, Suite 700, Bellevue, WA 98004, U.S.A.
+Please read the following carefully to understand our views and practices regarding your personal data and how we will treat it. By engaging in our site and services, you acknowledge you have read and understood this privacy policy. For the purposes of Applicable Data Protection Laws including the European Economic Area data protection law, (the "Data Protection Law"), the data controller is: Auth0, Inc., 10800 NE 8th Street, Suite 600, Bellevue, WA 98004, U.S.A.
 
 * * *
 
@@ -153,7 +153,7 @@ We will disclose your personal information to third parties:
 
 ### Where we store your information
 
-The data that we collect from you will primarily be stored in the USA and in the European Economic Area ("EEA"). Data this is transferred to, or stored at, a destination outside the EEA that may not be subject to equivalent Data Protection Law. Where your personal information originates in the EEA and is transferred outside the EEA, we will take all steps reasonably necessary to ensure that your data is subject to appropriate safeguards, such as relying on a recognised legal adequacy mechanism, and that it is treated securely and in accordance with this privacy policy. To comply with European Union and Swiss data protection laws, Auth0, Inc self-certified under the E.U.-U.S. Privacy Shield and the Swiss-U.S. Privacy Shield
+The data that we collect from you will primarily be stored in the USA and in the European Economic Area ("EEA"). Data this is transferred to, or stored at, a destination outside the EEA that may not be subject to equivalent Data Protection Law. Where your personal information originates in the EEA or Switzerland and is transferred outside the EEA, we will take all steps reasonably necessary to ensure that your data is subject to appropriate safeguards, such as relying on a recognised legal adequacy mechanism, and that it is treated securely and in accordance with this privacy policy. To comply with European Union and Swiss data protection laws, Auth0, Inc self-certified under the E.U.-U.S. Privacy Shield and the Swiss-U.S. Privacy Shield
 
 If your personal information originates in the EEA, we may transfer it outside the EEA:
 
@@ -166,7 +166,7 @@ If your personal information originates in the EEA, we may transfer it outside t
 
 We may transfer your personal information to the following countries outside the EEA:
 
-  * United States - Auth0 is E.U.-U.S. Privacy Shield Certified, so this is treated as a transfer to an ‘Adequate Country’ for EU data protection purposes
+  * United States - Auth0 is E.U.-U.S. and Swiss-US Privacy Shield Certified, so this is treated as a transfer to an ‘Adequate Country’ for EU and Swiss data protection purposes
 
 
 
@@ -186,7 +186,7 @@ The site is intended for use only by persons who are at least 16 years of age. B
 
 ### Payment processing
 
-Payment details you provide will be encrypted using secure sockets layer (SSL) technology before they are submitted to us over the internet. Payments made on the site are made through our payment gateway provider, Stripe. You will be providing credit or debit card information directly to Stripe which operates a secure server to process payment details, encrypting your credit/debit card information and authorising payment. Information which you supply to Stripe is not within our control and is subject to Stripe’'s own privacy policy and terms and conditions.
+Payment details you provide will be encrypted using secure sockets layer (SSL) technology before they are submitted to us over the internet. Payments made on the site are made through our payment gateway provider. You will be providing credit or debit card information directly to the operator which operates a secure server to process payment details, encrypting your credit/debit card information and authorizing payment. Information which you supply is not within our control and is subject to the operator's own privacy policy and terms and conditions.
 
 * * *
 
@@ -194,7 +194,7 @@ Payment details you provide will be encrypted using secure sockets layer (SSL) t
 
 All information you provide to us is stored on our secure servers. Any payment transactions will be encrypted using SSL technology.
 
-Unfortunately, the transmission of information via the internet is not completely secure. Although we will do our best to protect your personal data, we cannot guarantee the security of your data transmitted to our site; any transmission is at your own risk. Once we have received your information, we will use strict procedures and security features to try to prevent unauthorised access.
+Unfortunately, the transmission of information via the internet is not completely secure. Although we will do our best to protect your personal data, we cannot guarantee the security of your data transmitted to our site; any transmission is at your own risk. Once we have received your information, we will use strict procedures and security features to try to prevent unauthorized access.
 
 Our site may, from time to time, contain links to external sites. We are not responsible for the privacy policies or the content of such sites.
 
@@ -206,7 +206,7 @@ We retain personal data during any period in which you have expressed an interes
 
 * * *
 
-### EU Citizen rights
+### EU Citizen rights under GDPR
 
   * You have the right under certain circumstances:
     * to be provided with a copy of your personal data held by us;
@@ -224,7 +224,7 @@ Where the processing of your personal information by us is based on consent, you
 
 You can also exercise the rights listed above at any time by contacting us at compliance@auth0.com.
 
-If your request or concern is not satisfactorily resolved by us, you may approach your local data protection authority, (see http://ec.europa.eu/justice/data-protection/bodies/authorities/index_en.html for data protection authorities in the EU).
+We would appreciate the opportunity to directly address any GDPR issues you may have. Please contact us at compliance@auth0.com. You do, however, have the right to approach your local data protection authority, (see http://ec.europa.eu/justice/data-protection/bodies/authorities/index_en.html for data protection authorities in the EU).
 
 * * *
 
@@ -706,9 +706,25 @@ pixel.rubiconproject.com|
   
 * * *
 
+### Privacy Shield for EU & Swiss Data Transferred into the US
+
+Auth0 (“we,” “us”) complies with the EU-US Privacy Shield Framework and the Swiss-US Privacy Shield Framework as set forth by the US Department of Commerce regarding the collection, use, and retention of personal information from European Union member countries and Switzerland transferred to the United States pursuant to Privacy Shield.  We have certified that it adheres to the Privacy Shield Principles with respect to such data. If there is any conflict between the policies in this privacy policy and data subject rights under the Privacy Shield Principles, the Privacy Shield Principles shall govern. To learn more about the Privacy Shield program, and to view our certification page, please visit https://www.privacyshield.gov/
+
+Auth0 is subject to the investigatory and enforcement authority of the United States Federal Trade Commission (FTC).
+
+Pursuant to the Privacy Shield we acknowledge the right of EU and Swiss individuals to access their personal data to inspect, update, or correct it. EU and Swiss individuals wishing to exercise this right may do so by …
+
+Under the Privacy Shield, may be liable for the onward transfer of personal data to third parties as described above under, “Who we give your information to.”
+
+Note that we do not share any personal data with non-agent third parties or for uses other than those for which the information was originally provided. If this practice should change in the future we will update this policy accordingly and provide individuals with opt-out or opt-in choice, as required. We may be required to release personal data in response to lawful requests by public authorities including to meet national security and law enforcement requirements.
+
+In compliance with the Privacy Shield Principles, Auth0 commits to resolve complaints about your privacy and our collection or use of your personal information transferred to the United States pursuant to Privacy Shield. European Union and Swiss individuals with Privacy Shield inquiries or complaints should first contact Auth0  at: a(href="mailto:compliance@auth0.com") or Adam Nunn e Auth0 Inc. 10800 NE 8th Street Suite 600 Bellevue, Washington 98004 Auth0 has further committed to refer unresolved privacy complaints under the Privacy Shield Principles to an independent dispute resolution mechanism, the BBB EU PRIVACY SHIELD, operated by the Council of Better Business Bureaus. If you do not receive timely acknowledgment of your complaint, or if your complaint is not satisfactorily addressed, please visit www.bbb.org/EU-privacy-shield/for-eu-consumers  for more information and to file a complaint. This service is provided free of charge to you. If your Privacy Shield complaint cannot be resolved through the above channels, under certain conditions, you may invoke binding arbitration for some residual claims not resolved by other redress mechanisms.  See Privacy Shield Annex 1 at https://www.privacyshield.gov/article?id=ANNEX-I-introduction
+
+* * *
+
 ### Changes to this policy
 
-Any changes we make to our privacy policy in future will be posted on this page and, in relation to substantive changes, will be notified to you by e-mail. This policy was last updated on May 25, 2018.
+Any changes we make to our privacy policy in future will be posted on this page and, in relation to substantive changes, will be notified to you by e-mail. This policy was last updated on November 30, 2018.
 
 * * *
 
@@ -716,8 +732,10 @@ Any changes we make to our privacy policy in future will be posted on this page 
 
 Questions, comments and requests regarding this privacy policy are welcomed and should be addressed to:
 
+Adam Nunn
+
 Auth0®, Inc.  
-10900 NE 8th Street, Suite 700, Bellevue, WA 98004, U.S.A.  
+10800 NE 8th Street, Suite 600, Bellevue, WA 98004, U.S.A.  
 Director, Compliance  
 +1 (425) 312-6521  
 privacy@auth0.com
