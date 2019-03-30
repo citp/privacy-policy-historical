@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the academy.com privacy policy that was archived on 2018-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181124141622id_/https%3A//academy.custhelp.com/app/answers/detail/a_id/649/kw/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the academy.com privacy policy that was archived on 2019-03-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190330142537id_/https%3A//academy.custhelp.com/app/answers/detail/a_id/649/kw/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -29,7 +29,7 @@ Academy receives information from you in several ways, including when you visit 
 
 
 
-[Back To Top](https://academy.custhelp.com/euf/generated/optimized/1542293599/themes/standard/#Top)
+[Back To Top](https://academy.custhelp.com/euf/generated/optimized/1548795423/themes/standard/#Top)
 
 * * *
 
@@ -43,7 +43,7 @@ Web browsers and applications you use to interact with us digitally may contain 
 
 Visit [allaboutcookies.org](http://allaboutcookies.org/) to learn more. 
 
-[Back To Top](https://academy.custhelp.com/euf/generated/optimized/1542293599/themes/standard/#Top)
+[Back To Top](https://academy.custhelp.com/euf/generated/optimized/1548795423/themes/standard/#Top)
 
 * * *
 
@@ -57,7 +57,7 @@ The information received by Academy and Academy’s Partners based upon your dig
 
 Academy and its Partners may also receive personal information about your digital activities over time and across third party websites or online services. Third parties may employ their own Technology in order to similarly receive such information, including when you visit our Websites and Digital Platforms. This Policy does not apply to, and we are not responsible for, tracking technologies used by a non-Partner third party. 
 
-[Back To Top](https://academy.custhelp.com/euf/generated/optimized/1542293599/themes/standard/#Top)
+[Back To Top](https://academy.custhelp.com/euf/generated/optimized/1548795423/themes/standard/#Top)
 
 * * *
 
@@ -78,7 +78,7 @@ Mechanisms for opting-out of Interest-Based Advertising from Academy include:
 
 Please note that if you choose to opt out of interest-based advertising, you may still see or receive Academy advertisements, however, such advertisements will not be based upon your preferences or browsing history. 
 
-[Back To Top](https://academy.custhelp.com/euf/generated/optimized/1542293599/themes/standard/#Top)
+[Back To Top](https://academy.custhelp.com/euf/generated/optimized/1548795423/themes/standard/#Top)
 
 * * *
 
@@ -88,7 +88,7 @@ If you set up an account on one of our Digital Platforms, we will receive inform
 
 If you wish to know more information about your Academy account, you can contact [Customer Care](https://academy.custhelp.com/)[.](https://academy.custhelp.com/)
 
-[Back To Top](https://academy.custhelp.com/euf/generated/optimized/1542293599/themes/standard/#Top)
+[Back To Top](https://academy.custhelp.com/euf/generated/optimized/1548795423/themes/standard/#Top)
 
 * * *
 
@@ -98,7 +98,7 @@ We use and disclose your individually identifiable information to fulfill your r
 
 Academy may combine your information with information of other individuals and information from other sources. 
 
-[Back To Top](https://academy.custhelp.com/euf/generated/optimized/1542293599/themes/standard/#Top)
+[Back To Top](https://academy.custhelp.com/euf/generated/optimized/1548795423/themes/standard/#Top)
 
 * * *
 
@@ -110,7 +110,7 @@ Additionally, we transmit personal information to third party credit card issuer
 
 We may also share your information upon your request, when we believe it is permitted or required by law, or in connection with a business acquisition of an Academy entity or one of our service providers (i.e. your information may be transferred to an acquiring entity).
 
-[Back To Top](https://academy.custhelp.com/euf/generated/optimized/1542293599/themes/standard/#Top)
+[Back To Top](https://academy.custhelp.com/euf/generated/optimized/1548795423/themes/standard/#Top)
 
 * * *
 
@@ -122,7 +122,7 @@ Academy satisfies the Payment Card Industry (" **PCI** ") security standards and
 
 In addition to using our Websites to place an order, you may place an order with us by calling Customer Care toll-free at 1-888-922-2336, between 7:00 a.m. and 12:00 a.m. Central Time.
 
-[Back To Top](https://academy.custhelp.com/euf/generated/optimized/1542293599/themes/standard/#Top)
+[Back To Top](https://academy.custhelp.com/euf/generated/optimized/1548795423/themes/standard/#Top)
 
 * * *
 
@@ -141,7 +141,7 @@ We will obtain a separate consent from you before contacting you when we are req
 
 If you provide us with your postal address, you may receive periodic advertisements or promotional materials from us. If you do not wish to receive postal mailings from Academy or its Partners, please notify Academy by contacting Customer Care at 1-888-922-2336. Please provide us with your name and postal address and identify which lists you wish to be removed from when submitting your request for removal.
 
-[Back To Top](https://academy.custhelp.com/euf/generated/optimized/1542293599/themes/standard/#Top)
+[Back To Top](https://academy.custhelp.com/euf/generated/optimized/1548795423/themes/standard/#Top)
 
 * * *
 
@@ -149,7 +149,7 @@ If you provide us with your postal address, you may receive periodic advertiseme
 
 Academy complies with the Children's Online **_Privacy_** Protection Act of 1998. Academy does not knowingly collect personally identifiable information of children under the age of thirteen (13) . If you are under the age of thirteen (13), you may not use our Digital Platforms or provide any information to us. If Academy becomes aware that information has been received about a person under the age of thirteen (13), Academy will work to remove and permanently delete that information to the extent reasonably and commercially possible. If you are a parent or guardian who believes that your child under the age of thirteen (13) has submitted information to us, please contact [Customer Care](https://academy.custhelp.com/)[.](https://academy.custhelp.com/) If we verify that you are the parent or legal guardian, we will coordinate with you to discuss any personal information actually received from your child and how that personal information may have been shared or used.
 
-[Back To Top](https://academy.custhelp.com/euf/generated/optimized/1542293599/themes/standard/#Top)
+[Back To Top](https://academy.custhelp.com/euf/generated/optimized/1548795423/themes/standard/#Top)
 
 * * *
 
@@ -157,7 +157,7 @@ Academy complies with the Children's Online **_Privacy_** Protection Act of 1998
 
 If a California resident under the age of eighteen (18) chooses to express an opinion or post information for others to view on our Digital Platforms, those opinions and information may be removed by the poster by following the instructions posted on the Website. Deleting your content from our Website does not delete copies made by third parties, including reposts of your content on other websites and in social media.
 
-[Back To Top](https://academy.custhelp.com/euf/generated/optimized/1542293599/themes/standard/#Top)
+[Back To Top](https://academy.custhelp.com/euf/generated/optimized/1548795423/themes/standard/#Top)
 
 * * *
 
@@ -165,7 +165,7 @@ If a California resident under the age of eighteen (18) chooses to express an op
 
 California Civil Code Section 1798.83 (2003) permits Website users who are California residents to request that we not share their personally identifiable information with any third parties if we know or have reason to know that the third parties use the personally identifiable information for the third parties' direct marketing purposes. If you are a California resident and would like Academy to exercise this right on your behalf, please contact Customer Care at Customer Care at 1-888-922-2336. Upon receipt of a such a request from you, we will require any third parties hired by Academy to keep all personally identifiable information related to you secure and to not permit any use of personally identifiable information for direct marketing or any other purposes not authorized by Academy.
 
-[Back To Top](https://academy.custhelp.com/euf/generated/optimized/1542293599/themes/standard/#Top)
+[Back To Top](https://academy.custhelp.com/euf/generated/optimized/1548795423/themes/standard/#Top)
 
 * * *
 
@@ -177,7 +177,7 @@ We may receive your personal information when you connect to a social media feed
 
 Any information received from social media may be used by us in a manner similar to comparable information we obtain through our Digital Platforms. Academy may use Technology to display interest-based content or ads to you while you are using social media and may send or tailor messages that we believe may be of interest to you based on the information received by us from social media.
 
-[Back To Top](https://academy.custhelp.com/euf/generated/optimized/1542293599/themes/standard/#Top)
+[Back To Top](https://academy.custhelp.com/euf/generated/optimized/1548795423/themes/standard/#Top)
 
 * * *
 
@@ -185,7 +185,7 @@ Any information received from social media may be used by us in a manner similar
 
 Academy may disclose your personal information (sometimes without providing notice to you) in special circumstances, such as when the disclosure is required by a competent legal authority or when we believe sharing information will assist in protecting the safety, property, or rights of Academy or our customers, team members, and other persons who may be affected. 
 
-[Back To Top](https://academy.custhelp.com/euf/generated/optimized/1542293599/themes/standard/#Top)
+[Back To Top](https://academy.custhelp.com/euf/generated/optimized/1548795423/themes/standard/#Top)
 
 * * *
 
@@ -195,7 +195,7 @@ Our Websites may contain links to other websites that are not maintained or cont
 
 [SEE SECTION 19 BELOW FOR IMPORTANT LIMITATIONS ON THE TERMS OF THIS SECTION 16.](https://academy.custhelp.com/app/answers/detail/a_id/649/kw/privacy#_Toc453518564)
 
-[Back To Top](https://academy.custhelp.com/euf/generated/optimized/1542293599/themes/standard/#Top)
+[Back To Top](https://academy.custhelp.com/euf/generated/optimized/1548795423/themes/standard/#Top)
 
 * * *
 
@@ -203,7 +203,7 @@ Our Websites may contain links to other websites that are not maintained or cont
 
 Academy may change, supplement, or update this Policy at any time without providing you notice. The date that this Policy was last updated is indicated at the beginning of the Policy. You are responsible for checking for updates of this Policy each time you use our Websites. We encourage you to review this Policy from time to time to ensure that you understand how Academy collects, uses, shares, and secures, your personal information. Any changes to this Policy will apply from the indicated effective date and will not affect any dispute arising prior to the indicated effective date. Your use or reuse of our Websites and patronage of Academy's retail stores constitutes your agreement to and acceptance of the Policy and any changes to it.
 
-[Back To Top](https://academy.custhelp.com/euf/generated/optimized/1542293599/themes/standard/#Top)
+[Back To Top](https://academy.custhelp.com/euf/generated/optimized/1548795423/themes/standard/#Top)
 
 * * *
 
@@ -211,7 +211,7 @@ Academy may change, supplement, or update this Policy at any time without provid
 
 You may have additional rights not described in this Policy under laws applicable to you.
 
-[Back To Top](https://academy.custhelp.com/euf/generated/optimized/1542293599/themes/standard/#Top)
+[Back To Top](https://academy.custhelp.com/euf/generated/optimized/1548795423/themes/standard/#Top)
 
 * * *
 
@@ -221,7 +221,7 @@ This Policy is intended to be only as broad and inclusive as permitted by the co
 
 If you are a New Jersey consumer, the terms of this _Privacy_ Policy do not limit or waive your rights as a consumer under New Jersey law and the provisions in this Policy are intended to be only as broad and inclusive as is permitted by the laws of the State of New Jersey. 
 
-[Back To Top](https://academy.custhelp.com/euf/generated/optimized/1542293599/themes/standard/#Top)
+[Back To Top](https://academy.custhelp.com/euf/generated/optimized/1548795423/themes/standard/#Top)
 
 * * *
 
@@ -229,4 +229,4 @@ If you are a New Jersey consumer, the terms of this _Privacy_ Policy do not limi
 
 If you have any questions or comments regarding this Policy, please contact us at any time by using our online form or by calling us toll-free at 1-888-922-2336 between 7:00 a.m. and 12:00 a.m. Central Time or by contacting Academy ****[**Customer Care**](https://academy.custhelp.com/). ** __**
 
-[Back To Top](https://academy.custhelp.com/euf/generated/optimized/1542293599/themes/standard/#Top)
+[Back To Top](https://academy.custhelp.com/euf/generated/optimized/1548795423/themes/standard/#Top)
