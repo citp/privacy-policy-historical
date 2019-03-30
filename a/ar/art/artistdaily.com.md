@@ -1,97 +1,146 @@
-> *The following text is extracted and transformed from the artistdaily.com privacy policy that was archived on 2017-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171214053902id_/http%3A//www.fwcommunity.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the artistdaily.com privacy policy that was archived on 2019-03-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190330190535id_/https%3A//subscription.timeinc.com/storefront/privacy/myrecipes/generic_privacy_new.html%3Fdnp-source%3DE) for the most accurate reproduction.*
 
-# Privacy | F+W
+# MyRecipes.com Privacy Policy for the US
 
-Privacy Policy
+## PRIVACY POLICY
 
-[Click here to view our Terms of Use Policy, Updated April 22, 2015](http://www.fwcommunity.com/termsofuse)
+### Table of Contents
 
-SUMMARY  
-This web site is owned by F+W Media, Inc. (“F+W”). At F+W, our goal is to offer products and services that will allow our customers to lead fuller, richer lives. The same holds for how we communicate with you and how we handle your personal data. It’s important to us that you understand what information we collect, how we protect it, and how we use it — and to provide clear instructions if you choose to request changes in how we communicate with you.
+  * Information We Collect
+  * How We Use the Information 
+  * Privacy Options
+  * Your California Privacy Rights: Notice to California Customers
+  * Collection of Information by Third-Parties
+  * Cookies and other Tracking Technologies
+  * Our Commitment to Security
+  * Accessing, Correcting, and Deleting Your Personal Information
+  * Retention of Personal Information
+  * Special Note for Parents
+  * Changes to this Privacy Policy
+  * How to Contact Us
 
-GENERAL CONTACT INFORMATION  
-Our postal address is:  
-F+W Media, Inc.  
-10151 Carver Road Suite #200  
-Blue Ash, OH 45242  
-513.531.2690
 
-To ensure that your communications are properly routed, we ask that you identify the F+W products or services (web site, magazine, book club, etc.) relevant to your inquiry when contacting us. If you would like to receive a response, please be sure to include sufficient information to enable us to contact you (such as an email or postal address).
 
-INFORMATION WE COLLECT  
-Information about your computer hardware and software  
-For each visitor to our web site, our web server automatically recognizes your IP address. The address allows our server to deliver the information you request from us, such as an article or a form for posting to a discussion board. We also collect visitors’ IP addresses in their domain-name form, allowing us to understand for instance how many visitors access our site through various service providers. We collect this information on an individual basis and in aggregate, or combined, form.
+(NEW)[European Union Privacy Information](https://web.archive.org/web/20190402211745id_/https://www.meredith.com/legal-ti/myrecipes/generic_privacy_new_eu.html?dnp-source=E)  
+For citizens of member countries of the European Union, and Switzerland, Norway, Lichtenstein, Iceland, Australia, and New Zealand
 
-We also collect both user-specific and aggregate information on what pages visitors access or visit. We use the information to improve the content of our web pages and to customize the content and layout of our pages.
+[Canada Privacy Information](https://web.archive.org/web/20190402211745id_/https://www.meredith.com/legal-ti/myrecipes/generic_privacy_new_caneu.html?dnp-source=E)  
+This is the Privacy Policy which applies to you if you live outside the [European Union](https://web.archive.org/web/20190402211745id_/https://www.meredith.com/legal-ti/myrecipes/generic_privacy_new_eu.html?dnp-source=E), Switzerland, Norway, Lichtenstein, Iceland, Australia, New Zealand, and [Canada](https://web.archive.org/web/20190402211745id_/https://www.meredith.com/legal-ti/myrecipes/generic_privacy_new_caneu.html?dnp-source=E).
 
-We use cookies to store visitors’ preferences, record session information such as items that consumers add to their shopping cart, record user-specific information on what pages users access or visit, alert visitors to new areas that we think might be of interest to them when they return to our site, record past activity at a site in order to provide better service when visitors return to our site, ensure that visitors are not repeatedly sent the same banner ads, and to customize Web page content based on visitors’ browser type or other information that the visitor sends. We use both session cookies and persistent cookies.
+This Privacy Policy discloses the privacy practices for MyRecipes.com, the Meredith Corporation owned and operated websites and mobile apps on which it appears, including those websites listed [here](https://subscription-assets.timeinc.com/prod/assets/themes/magazines/default/template-resources/html/legal/bus_units.html), our email newsletters and other applications owned and operated by Meredith Corporation , including offline and online subscriptions and other product offerings (collectively referred to as the "Services"), and to any other services that display this Privacy Policy. Your privacy is important to us. To better protect your privacy, we provide this Privacy Policy explaining our information practices and the choices you can make about the way your information is collected and used by Meredith Corporation and its subsidiaries. 
 
-Email address, postal address, telephone number
+#### The Information We Collect
 
-If at any time you provide us with your email address to place an order or access a service, we collect that information. Areas in which we may collect your email address include but are not limited to discussion boards; chat areas; product or service transactions; emails you send us; and interactive forms. If you provide us with your email address, you may receive periodic promotional emails from us and carefully selected partners with information regarding special offers or new products or services. You may also receive informational emails from us related to any user accounts you have set up with us, as well as administrative notices regarding the operation of the web site.  
-If you supply us with your postal address online, you may receive periodic mailings from us and carefully selected partners with information on new products and services.
+Through the Services, you can, among other activities, order publications and products; engage in various activities like entering contests or sweepstakes, playing games, taking quizzes, voting in polls or otherwise expressing an opinion; subscribe to one of our services, such as newsletters; or participate in one of our online forums or communities. We collect the information, including any personally identifiable information, that you provide to us in the course of using the Services. The types of information that may be collected through these Services include, but are not limited to: name, address, gender, e-mail address, telephone number, fax number and credit or debit card information.
 
-Visitors who supply us with their telephone numbers online may receive telephone contact from us with information regarding new products and services or upcoming events. We do not rent telephone contact information to third parties.
+We may also collect information about your personal or professional interests and your use of, or opinions about, various products, programs and services. For instance, we may ask you to identify your job or industry to qualify you for free business magazines.
 
-Finally, we keep any information volunteered by the consumer, such as survey information and/or site registrations, both in aggregate and personally identifiable ways.
+Through some features of the Services and through certain promotions, you can submit information about other people. For example, you might submit a person's name, mailing and/or e-mail address to send a gift or electronic greeting card. The types of personally identifiable information that may be collected about other people at these pages include: recipient's name, address, e-mail address and telephone number.
 
-HOW WE MAY SHARE YOUR INFORMATION  
-We may share the information we collect on the web site with our trusted partners, including but not limited to affiliates, marketing partners, and fulfillment or customer service agents. Our partners may use this information to contact you for marketing purposes.
+We , our partners, advertisers, advertising networks or other third party service providers, as explained further in the **"Collection of Information by Third-Parties"** section below, may also collect certain non-personally identifiable information when you visit our web pages, open our emails, use our applications, or otherwise use the Services, including such information as the type of browser and operating system you are using, your IP address, your device identifiers, your Internet or wireless service provider, location-based information , and the content and advertisements you have interacted with, viewed, or accessed. This data may be combined and linked with data from other sources.
 
-California Privacy Rights  
-Pursuant to California Civil Code Section 1798.83, F+W customers who are California residents can request certain information about the sharing of their own personal information with third parties for direct marketing purposes during the past year. California residents can request this disclosure by sending a request to F+W Media, Inc., Attention: Privacy, 10151 Carver Road, Suite # 200, Blue Ash, OH 45242 or by email to privacy@fwmedia.com. To help us process your request, please provide sufficient information to allow us to identify you in our records, and identify the F+W products or services (website, magazine, book club, etc.) you have used.
+back to top
 
-OPT OUT PROCEDURES  
-If you do not wish to receive promotional emails from us, please let us know by using the opt-out response device that can be found at the bottom of every email we deliver or by emailing us at privacy@fwpubs.com. To help us process your request, please include sufficient information for us to identify you in our records (your email address will suffice) and identify the F+W products or services (web site, magazine, book club, etc.) you have used and from whose mailing lists you wish to be removed. If you wish to be removed from all F+W emailing lists, please indicate so in your request. Please allow a reasonable time for us to process your request.
+#### How We Use the Information
 
-Note that, although you can opt not to receive promotional emails, F+W retains the right to send registered users of its web sites informational email messages about the user’s account or administrative notices regarding the site, as permitted under the CAN-SPAM Act (15 U.S.C. §7701 et seq.).
+We may use the information collected under this Privacy Policy in the following ways: 
 
-If you do not wish to receive mail or telephone calls from us, please let us know by sending your request to: F+W Media, Inc., Attention: List Manager, 10151 Carver Road, Suite # 200, Blue Ash, OH 45242 or by email to listdept@fwmedia.com. To help us process your request, please include sufficient information to allow us to identify you in our records (at a minimum, we will need your postal address to remove you from our mailing list, or your telephone number to remove you from our call list) and identify the F+W products or services (web site, magazine, book club, etc.) you have used and from whose mailing or call lists you wish to be removed. If you wish to be removed from all F+W contact lists, please indicate so in your request. Please allow a reasonable time for us to process your request.
+  * We may use the information you provide about yourself or others to fulfill requests for our publications, products or services, to respond to inquiries about offerings and to offer other products, programs or services that may be of interest.
+  * We may combine information we receive with outside records and share such information with third parties for use on our behalf to enhance our ability to market to you those products or services that may be of interest to you.
+  * We may disclose personally identifiable information that we receive from you and from third party sources to third parties whose practices are not covered by this privacy statement (e.g., other marketers, magazine publishers, retailers, participatory databases, and non-profit organizations) that want to market products or services to you.
+  * When you request a magazine, service, or other product, we will forward the information you give us to the publisher or provider to the extent necessary to fulfill your request. They may contact you with special offers of possible interest.
+  * We sometimes use this information to communicate with you, such as to notify you when you have won one of our contests or sweepstakes, when we make changes to subscriber agreements, to fulfill a request by you for an online newsletter, or to contact you about your account.
+  * If you choose to submit content (e.g., a "letter to our editors" or an online review), we may publish your name, screen name and other information you have provided to us. You hereby consent to this.
+  * The information we collect in connection with our online forums and communities is used to provide an interactive experience. We use this information to facilitate participation in these online forums and communities and, from time to time, to offer you products, programs, or services.
+  * We sometimes use the non-personally identifiable information that we collect to improve the design and content of our publications and websites, and to enable us to customize your Internet experience. We also may use this information to analyze site usage, as well as to offer you products, programs, or services.
+  * We will disclose information we maintain when required to do so by law, for example, in response to a court order or a subpoena. We also may disclose such information in response to a law enforcement agency's request.
+  * Agents and contractors of Meredith Corporation that have access to personally identifiable information are required to protect this information in a manner that is consistent with this Privacy Policy by, for example, not using the information for any purpose other than to carry out the services they are performing for Meredith Corporation 
+  * We may transfer your personally identifiable information to other Meredith Corporation offices for internal management and administrative purposes on our behalf. Your personal data will be transferred to other Meredith Corporation offices where necessary for the performance or conclusion of our contractual obligations to you or for your benefit. To the extent not prohibited under applicable law, transfers and disclosures of personally identifiable information may also be made where necessary for the establishment, exercise, or defense of legal claims, to protect the rights and property of Meredith Corporation , our agents, customers, and others, including to enforce our agreements, policies, and terms of use; or to protect the personal safety of any person.
+  * Please note that if Meredith Corporation or any of its subsidiaries or lines of business is merged, acquired, divested, financed, sold, disposed of or dissolved, including through merger of, consolidation, sale or divestiture of assets, the relevant customer database, including personally identifiable information we may possess about you, may, in whole or in part, be sold, disposed of, transferred, divested, or otherwise disclosed as part of that transaction or proceeding.
 
-If you do not wish for us to share your information with our trusted partners, please let us know by sending your request to: F+W Media, Inc., Attention: List Manager, 10151 Carver Road, Suite # 200, Blue Ash, OH 45242 or by email to listdept@fwmedia.com. To help us process your request, please include sufficient information to allow us to identify you in our records (at a minimum, we will need your postal address to remove you from a mailing list, or your email to remove you from an email list) and identify the F+W products or services (web site, magazine, book club, etc.) you have used. Please allow a reasonable time for us to process your request.
 
-AD SERVERS  
-To bring you offers that are of interest to you, we have relationships with other companies that we allow to place ads on our web pages. As a result of your visit to our site, ad server companies may collect information such as your domain type, your IP address and clickstream information. For further information, consult the privacy policies of:
 
-Burst Media: http://www.burstmedia.com/isl/index.asp?page=privacy  
-Google Inc. http://www.google.com/intl/en/privacy.html
+#### Privacy Options
 
-ANALYTICS  
-To determine how many users visit our site and to better understand the areas of greatest interest to our visitors, we have relationships with other companies that compile this information for us. As a result of your visit to our site, web analytics companies may collect information such as your domain type, your IP address and clickstream information. For further information, consult the privacy policies of:
+If you prefer not to receive traditional mail or other off-line promotions from this or any other Meredith Corporation property, or if you want to opt-out of any sharing of your personally identifiable offline information with third parties not owned by Meredith Corporation , please [click here](https://www.meredith.com/offlinePrivacy.html).
 
-Google Inc. http://www.google.com/intl/en/privacy.html  
-Omniture, Inc. http://www.omniture.com/privacy/product
+If you prefer not to receive e-mail marketing from this or any other Meredith Corporation property, or if you want to opt-out of any sharing of your email address with third parties not owned by Meredith Corporation , please [click here](https://secure.myrecipes.com/common/profile/member/optout/?showAllSites=true).
 
-THIRD PARTY ADVERTISING TECHNOLOGIES  
-We use analytics tools and other third party technologies, such as Google Analytics and DoubleClick Cookies, to collect non-personal information in the form of various usage and user metrics when you use our online Sites and/or Services.
+We will not use or transfer personally identifiable information provided to us in ways unrelated to the ones described above without also providing you with an opportunity to opt out of these unrelated uses.
 
-REMARKETING  
-F+W Media, Inc. (“F+W”) also uses 3rd party vendor re-marketing tracking cookies, including the Google Adwords tracking cookie. This means we will continue to show ads to you across the internet, specifically on the Google Content Network (GCN). As always we respect your privacy and are not collecting any identifiable information through the use of Google’s or any other 3rd party remarketing system.
+back to top
 
-The third-party vendors, including Google, whose services we use – will place cookies on web browsers in order to serve ads based on past visits to our website. – Third party vendors, including Google, use cookies to serve ads based on a user’s prior visits to your website. This allows us to make special offers and continue to market our services to those who have shown interest in our service.
+#### Your California Privacy Rights: Notice to California Customers
 
-Google has additional information available about their [Remarketing Privacy Guidelines](http://support.google.com/adwordspolicy/answer/143465?rd=3) and [Policies ](http://support.google.com/adwords/answer/2549116?hl=en&from=178363&rd=1)
+California's "Shine the Light" law, Civil Code section 1798.83, requires certain businesses to respond to requests from California customers asking about the businesses' practices related to disclosing personal information to third parties for the third parties' direct marketing purposes. Alternately, such businesses may have in place a policy not to disclose personal information of customers to third parties for the third parties' direct marketing purposes if the customer has exercised an option to opt-out of such information-sharing. (Note: Meredith Corporation sites do not recognize the "do not track signals" that some browsers may employ.) As discussed above, if you wish to opt-out of our sharing of your information with third parties for the third parties' direct marketing purposes offline please [click here](https://www.meredith.com/offlinePrivacy.html), or for email please [click here](https://secure.myrecipes.com/common/profile/member/optout/?showAllSites=true). To find out more about your opt-out rights, please contact us as described in the **"How to Contact Us"** section below.
 
-OPT-OUT
+#### Collection of Information by Third Parties
 
-You may opt out of the DoubleClick cookie by visiting the Google [advertising opt-out page](http://www.google.com/policies/technologies/ads/) or you may opt out of Google Analytics by visiting the [Google Analytics opt-out page](https://tools.google.com/dlpage/gaoptout).
+Some of our Services contain links to third party sites and services whose privacy practices may be different than ours. We also allow you to connect with other third party sites and services. You should consult the other third party sites' and services' privacy notices in order to better understand their privacy practices.
 
-DOUBLECLICK’S REMARKETING PIXELS  
-You may opt out of DoubleClick’s remarketing pixels, by visiting the [DoubleClick opt-out page](https://www.google.com/settings/ads/onweb#display_optout)  or the [Network Advertising Initiative opt-out page](http://www.networkadvertising.org/managing/opt_out.asp).
+We sometimes may offer contests, sweepstakes, promotions, editorial features, or other activities or offerings that are sponsored or co-sponsored by or presented with identified third parties. By virtue of your participation in such activities or offerings, your IP address and the personally identifiable information that you voluntarily submit may be provided to both the Meredith Corporation site and the third parties. Meredith Corporation has no control over the third parties' use of this information.
 
-INFORMATION ACCESS  
-Upon request we provide site visitors with access to their own transaction information (e.g., dates on which customers made purchases, amounts and types of purchases) that we maintain about them, and contact information (e.g., name, address, phone number) that we maintain about them.
+We may use third parties to present or serve advertisements, including online behavioral advertisements, that you may see on the Services and to conduct research about the advertisements-or the Services themselves. Additionally, third parties may place and use tracking mechanisms, e.g., tracking pixels, in the emails we may send to you. This Privacy Policy does not cover any use of information that such third parties may have collected from you (e.g., type of browser, operating system, domain name, day and time of visit, page(s) visited) or the methods used by the third-parties to collect that information (e.g., cookies, web beacons and clear gifs).
 
-You can access this information by sending your request to: F+W Media, Inc., Attention: Privacy, 10151 Carver Road, Suite # 200, Blue Ash, OH 45242 or by email to privacy@fwmedia.com. To help us process your request, please provide sufficient information to allow us to identify you in our records, and identify the F+W products or services (website, magazine, book club, etc.) you have used.
+For more information on advertisements and your behavioral advertising options, visit our [About Ads page](http://subscription-assets.timeinc.com/prod/assets/themes/magazines/default/template-resources/html/legal/ti-corp-behavioral.html) and our [Network Advertising Initiatives page](http://subscription-assets.timeinc.com/prod/assets/themes/magazines/default/template-resources/html/legal/parties.html).
 
-Upon request we offer visitors the ability to have inaccuracies corrected in all information we maintain about them. You can have this information corrected by sending your request to: F+W Media, Inc., Attention: Privacy, 10151 Carver Road, Suite # 200, Blue Ash, OH 45242 or by email to privacy@fwmedia.com. To help us process your request, please provide include sufficient information to allow us to identify you in our records, and identify the F+W products or services (website, magazine, book club, etc.) you have used.
+Note regarding Market Research/Ratings: Our Services may also feature Nielsen's proprietary measurement software which may contribute to market research, like Nielsen's TV Ratings. To learn more about this information, please click [here](http://www.nielsen.com/digitalprivacy). Nielsen's software may collect your choices with regards to it.
 
-SECURITY  
-We have appropriate security measures in place in our physical facilities to protect against the loss, misuse or alteration of information that we have collected from you at our site, and we employ security features generally accepted in the industry to protect the security of transactions made on our site. Transactions are protected via Secure Sockets Layer (SSL) technology. We require customers to identify themselves via a unique username and password to access their personal information.
+We also may use certain recognition services by our partner LiveRamp. To opt out of such services by LiveRamp, please visit <https://liveramp.com/opt_out/>.
 
-CHANGES TO THIS POLICY  
-From time to time, we may use customer information for new, unanticipated uses not previously disclosed in our privacy notice. If our information practices change at some time in the future, we will post the policy changes to our web site. We will also provide you with the ability to opt out of these new uses.
+#### Cookies and other Tracking Technologies
 
-If you believe that this site is not following its stated information policy, you may contact us at the above address, the DMA’s Committee on Ethical Business Practices at mgoldberger@the-dma.org, or state or local chapters of the Better Business Bureau.
+We may place "cookies" on your computer or device. Cookies are small text files that we place in your computer or device to store your preferences. Cookies, by themselves, do not tell us your e-mail address or other personal information unless you choose to provide this information to us by, for example, registering with one of our Services. Once you choose to provide us with personal information, this information may be linked to the data stored in the cookie. A cookie assigns a unique numerical identifier to your Web browser or device, and may enable us to recognize you as the same user who has used our Services, and relate your use of the Services to other information about you, such as your usage information and personal information.
 
-The effective date of this Policy is March 12, 2008.
+We use cookies (and Local Shared Objects, HTML5, cache cookies, web beacons, or clear gifs, all described further below) to understand usage of the Services and to improve our content and offerings and to deliver advertisements that you might be interested in. For example, we may use cookies to personalize your experience on our Services (e.g., to recognize you by name when you return to our site, to save your password in password-protected areas, to enable shopping carts, or to tailor content or product and service offerings).
+
+Most browsers automatically accept cookies. You can set your browser option so that you will not receive cookies and you can also delete existing cookies from your browser. However, you may find that some parts of the site will not function properly if you have refused cookies or similar tracking technologies and you should be aware that disabling cookies or similar tracking technologies might prevent you from accessing some of our content. However, your viewing of editorial content may be hampered. If you wish to block cookies, go to <http://www.allaboutcookies.org/> to find out how, or check your browser's instructions.
+
+Some of the tracking technologies we use include: 
+
+  * Local Shared Objects: Local shared objects, such as .Flash cookies,. also may be stored on your computer or device. Local shared objects operate a lot like cookies, but cannot be managed in the same way. Depending on how local shared objects are enabled on your computer or device, you may be able to manage them using software settings. For information on managing Flash cookies, for example, see <http://helpx.adobe.com/flash-player/kb/disable-local-shared-objects-flash.html>.
+  * HTML 5: HTML5, the language some Web sites are coded in, may be used to store information on your computer or device about your Service usage activities. This information may be retrieved by us to help us manage our Services, such as by giving us information about how our Services are being used by our visitors, how they can be improved, and to customize them for our users.
+  * Cache Cookies: Cache cookies, such as eTags, may be used to identify your computer or device as the same computer or device that visited a Service or Services in the past.
+  * Web Beacons: Our websites may also use small pieces of code called "web beacons" or "clear gifs" to collect anonymous and aggregate advertising metrics, such as counting page views, promotion views, or advertising responses. A web beacon is an electronic image called a single-pixel or clear GIF. Web beacons can recognize certain types of information, such as a user's cookie number, time and date of a page view, and description of the page where the web beacon is placed. These web beacons may be used to deliver cookies that conform to our cookie policy above.
+
+
+
+These tracking technologies may be deployed by us and/or by our service providers or partners on our behalf. These technologies enable us to assign a unique number to you, and relate your Service usage information to other information about you, including your personal information. We may match information collected from you through different means or at different times, including both personal information and Service usage information, and use such information along with offline and online information obtained from other sources (including third parties) such as demographic information and updated contact information (where that information has been lawfully disclosed to us) for the purposes of learning more about you so we can provide you with relevant content.
+
+back to top
+
+#### Our Commitment to Security
+
+We have put in place appropriate administrative, technical, and physical safeguards to help prevent unauthorized access, maintain data security and correctly use the information we collect. No system can be completely secure, however, and we do not guarantee that unauthorized disclosures and access will not happen. Although we take appropriate measures to safeguard against unauthorized disclosures of information, we cannot assure you that personally identifiable information that we collect will never be disclosed in a manner that is inconsistent with this Privacy Policy. 
+
+#### Accessing, Correcting, and Deleting Your Personal Information
+
+We will take reasonable steps to accurately record the personal information that you provide to us and any subsequent updates.
+
+We encourage you to review, update, and correct the personal information that we maintain about you, and you may request that we delete personal information about you that is inaccurate, incomplete, or irrelevant for legitimate purposes, or are being processed in a way which infringes any applicable legal requirements, by contacting us as set out in the "How to Contact Us" section below. At our election, instead of deleting such information, we may retain it with your comment or correction noted in our records. By contacting us, you may also object to our further use of your personal information if you have compelling legitimate grounds (this may involve closing your account). We may ask you to verify your identity and to provide other details before we are able to provide you with any information, correct any inaccuracies, or delete any information. Your right to review, update, correct, and delete your personal information may be limited, subject to the law or your jurisdiction: (i) if your requests are abusive or unreasonably excessive, (ii) where the rights or safety of another person or persons would be encroached upon, or (iii) if the information or material you request relates to existing or anticipated legal proceedings between you and us, or providing access to you would prejudice negotiations between us or an investigation of possible unlawful activity. Your right to review, update, correct and delete your information is subject to our records retention policies and applicable law, including any statutory retention requirements.
+
+#### Retention of Personal Information
+
+We will retain your personal information while you have an account with us and thereafter for as long as we need it for purposes not prohibited by applicable laws. Thereafter, we will either delete your personal information or de-identify it so that it is anonymous and not attributed to your identity. Your rights to request that we delete your personal information are set forth in the **"Accessing, Correcting, and Deleting Your Personal Information"** section above.
+
+#### Special Note for Parents
+
+The site you are visiting is one of the Meredith Corporation general audience sites and is not intended for use by children. For more information about our online privacy practices for children's sites, consult the privacy notice at the children's site in which you are interested.
+
+#### Changes to this Privacy Policy
+
+This Privacy Policy may be changed by Meredith Corporation The revised Privacy Policy will be posted to this page so that you are aware of the information we collect, how we use it, and under what circumstances we may disclose it.
+
+#### How to Contact Us
+
+If you have any questions or concerns about the Meredith Corporation Privacy Policy or its implementation please contact us via email by [clicking here](mailto:privacy@meredith.com) or by writing to:
+
+Meredith Corporation  
+1716 Locust Street  
+Des Moines, Iowa 50309  
+Email: [privacy@meredith.com](mailto:privacy@meredith.com)  
+1-515-284-3000
+
+back to top
+
+This Privacy Policy was revised September 29, 2017.
