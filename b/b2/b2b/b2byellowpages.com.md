@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the b2byellowpages.com privacy policy that was archived on 2018-09-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180904112108id_/https%3A//www.b2byellowpages.com/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the b2byellowpages.com privacy policy that was archived on 2019-03-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190330131718id_/https%3A//www.b2byellowpages.com/privacy.shtml) for the most accurate reproduction.*
 
 # Privacy Policy at b2bYellowpages.com
 
