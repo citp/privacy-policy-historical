@@ -1,59 +1,26 @@
-> *The following text is extracted and transformed from the presidentialprayerteam.org privacy policy that was archived on 2017-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170620113956id_/http%3A//www.presidentialprayerteam.org/Privacy-policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the presidentialprayerteam.org privacy policy that was archived on 2019-03-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190330093716id_/https%3A//www.presidentialprayerteam.org/about-us/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy | The Presidential Prayer Team
 
-**Terms of Use/Privacy Policy**
+Your acceptance of these terms
 
-The Presidential Prayer Team ("PPT") has created this Terms of Use/Privacy Policy to explain why we collect particular information and how we will protect your personal privacy both online within our Web PPT Sites and offline. The following discloses our information gathering and dissemination practices for the Web PPT Sites located at the URL 
+By using the PPT Sites, you signify your acceptance of this policy. If you do not agree to this policy, please do not use our PPT Sites. Your continued use of the PPT Sites following the posting of changes to this policy will be deemed your acceptance of those changes.
 
-www.presidentialprayerteam.org.
+**General Provisions**
 
-In order to fully understand your rights we encourage you to read this Terms of Use/Privacy Policy. PPT reserves the right at any time and without notice to change this Privacy Policy simply by posting such changes on our PPT Sites. Any such change will be effective immediately upon posting.
+This Privacy Policy governs the manner in which The Presidential Prayer Team ("PPT") collects, uses, maintains and discloses information collected both offline and online from users (each, a "User") of the following websites  
+(included without limitation):
 
-**TERMS OF USE**
+**PresidentialPrayerTeam.com  
+PresidentialPrayerTeam.org**  
+ **Presidential-Prayer-Team.org**  
+ **PrayTheVote.com  
+PrayTheVote.org**  
+ **IPrayRadio.com  
+IPrayRadio.org  
+Pray.team**
 
-The following terms and conditions govern all use of all the websites of:
-
-PresidentialPrayerTeam.com  
-PresidentialPrayerTeam.org  
-Presidential-Prayer-Team.org  
-PrayTheVote.com  
-IPrayRadio.com  
-USPrayerTeam.org
-
-...and all content, services and products available through these websites, including, but not limited to, the membership area (collectively referred to as the PPT Sites).
-
-The PPT Sites are owned and operated by The Presidential Prayer Team, Inc. The PPT Sites are offered subject to your acceptance without modification of all of the terms and conditions contained herein and all other operating rules, policies (including, without limitation, The Presidential Prayer Team, Inc.'s Privacy Policy) and procedures that may be published from time to time on this PPT Sites. (collectively, the "Agreement").
-
-Please read this Agreement carefully before accessing or using the PPT Sites. By accessing or using any part of the PPT Sites, you expressly agree to the terms and conditions of this agreement. If these terms and conditions are considered an offer by The Presidential Prayer Team, Inc., acceptance is expressly limited to these terms. PPT is available only on the web sites to individuals who are at least 13 years old.
-
-**Membership Area**
-
-You are responsible for maintaining the security of your membership area, and you are fully responsible for all activities that occur under the account and any other actions taken in connection with the account. You must immediately notify The Presidential Prayer Team, Inc. of any unauthorized uses of your account or any other breaches of security. PPT will not be liable for any acts or omissions by You, including any damages of any kind incurred as a result of such acts or omissions.
-
-**Contribution to website**
-
-If you leave comments anywhere on the PPT Sites, post material to the PPT Sites, or otherwise make material available by means of the PPT Sites (any such material, "Content"), You are entirely responsible for the content of, and any harm resulting from, that Content. That is the case regardless of whether the Content in question constitutes text, graphics, or any other submission. 
-
-By submitting Content to PPT for inclusion on our PPT Sites, you grant The Presidential Prayer Team, Inc. a world-wide, royalty-free, and non-exclusive license to reproduce, modify, adapt and/or publish the Content for the purpose of displaying, distributing, promoting or any other lawful use.
-
-Without limiting any of those representations or warranties, PPT has the right (though not the obligation) to, in PPT's sole discretion (i) refuse or remove any content that, in PPT's reasonable opinion, violates any policy or is in any way harmful or objectionable, or (ii) terminate or deny access to and use of the PPT Sites for any individual or entity for any reason, in PPTs sole discretion.   
-
-
-**  
-PRIVACY POLICY**
-
-This Privacy Policy governs the manner in which The Presidential Prayer Team ("PPT") collects, uses, maintains and discloses information collected both offline and online from users (each, a "User") of the following websites:
-
-PresidentialPrayerTeam.com  
-PresidentialPrayerTeam.org  
-Presidential-Prayer-Team.org  
-PrayTheVote.com  
-IPrayRadio.com  
-USPrayerTeam.org  
-
-
-This privacy policy applies to 'online' in the above listed websites (collectively referred to as the PPT Sites) and all 'offline' shared information, materials and services by The Presidential Prayer Team, Inc.
+This privacy policy applies to 'online' in the above listed websites (collectively referred to as the "PPT Sites") and all 'offline' shared information, materials and services referred to as "Services" by The Presidential Prayer Team, Inc.
 
 **Personal identification information**
 
@@ -67,49 +34,57 @@ We may collect non-personal identification information about Users whenever they
 
 PPT Sites may use "cookies" to enhance User experience. User's web browser places cookies on their hard drive for record-keeping purposes and sometimes to track information about them. User may choose to set their web browser to refuse cookies, or to alert you when cookies are being sent. If they do so, it is possible that some parts of the PPT Sites may not function properly.
 
-**How we use collected information**
+How we use collected information
 
 The Presidential Prayer Team may collect and use Users personal information for the following purposes:
 
-  * _\- To improve member service_  
+  * To improve member service  
 Information you provide helps us respond to your customer service requests and support needs more efficiently.
-  * _\- To personalize user experience_  
+  * To personalize user experience  
 We may use information in the aggregate to understand how our Users as a group use the services and resources provided on the PPT Sites.
-  * _\- To improve the PPT Sites_  
+  * To improve the PPT Sites  
 We may use feedback you provide to improve our services.
-  * _\- To send periodic emails_  
-If User decides to opt-in to receive information via emails, it may include Daily Devotionals, Weekly Prayer Updates, Ministry news, updates, related to service information, etc. If at any time the User would like to opt-out from receiving future emails, we include detailed unsubscribe instructions at the bottom of each email or User may contact us via our website or by other methods listed below.
+  * To send periodic emails  
+If a User decides to opt-in to receive information via emails, it may include Daily Devotionals, Weekly Prayer Updates, Ministry news, updates, related to service information, etc. If at any time the User would like to opt-out from receiving future emails, we include detailed unsubscribe instructions at the bottom of each email or User may contact us via our website or by other methods listed below.
+
+
 
 **How we protect your information**
 
 We adopt appropriate data collection, storage and processing practices and security measures to protect against unauthorized access, alteration, disclosure or destruction of your personal information, username, password, transaction information and/or data stored on the PPT Sites.
 
-Sensitive and private data exchange between the PPT Sites and its Users happens over a SSL secured communication channel and is 128-bit encrypted and protected with digital signatures.
+Sensitive and private data exchange between the PPT Sites and its Users happens over a SSL secured communication channel and is 256-bit encrypted and protected with digital signatures.
+
+**Complying With the Legal System**
+
+The Presidential Prayer Team makes every effort to your privacy, we may need to disclose personal information when we have a good-faith belief that such action is necessary to comply with a current judicial proceeding, a court order, or legal process served on our organization.
 
 **Sharing your personal information**
 
-We DO NOT sell, trade, or rent Users personal identification information to ANYONE. 
+We DO NOT sell, trade, or rent Users personal identification information to ANYONE.  
+  
+To the extent any donations are processed through a third-party service provider, our donors’ information will only be used for purposes necessary to process the donation.
+
+**Children Under the Age of 13**
+
+If you are under 13, do not use or provide any information on these Websites or on or through any of its features or provide any information about yourself to us, including your name, address, telephone number, e-mail address, or any screen name or user name you may use. If we learn we have collected or received personal information from a child under 13 without verification of parental consent, we will delete that information as soon as practicable.
+
+**Your California Privacy Rights**
+
+Under California Civil Code Section § 1798.83, we  **do not**  share any personal information with third parties for any direct marketing purposes. 
 
 **Changes to this privacy policy**
 
 The Presidential Prayer Team has the discretion to update this privacy policy at any time. When we do, we will revise the updated date at the bottom of this page. We encourage Users to frequently check this page for any changes to stay informed about how we are helping to protect the personal information we collect. You acknowledge and agree that it is your responsibility to review this privacy policy periodically and become aware of modifications.
 
-**Your acceptance of these terms**
-
-By using the PPT Sites, you signify your acceptance of this policy. If you do not agree to this policy, please do not use our PPT Sites. Your continued use of the PPT Sites following the posting of changes to this policy will be deemed your acceptance of those changes.
-
-**Contacting us**
+**Contacting Us**
 
 If you have any questions about this Privacy Policy, the practices of this PPT Sites, or your dealings with this PPT Sites, please contact us at:
 
-The Presidential Prayer Team  
-[www.PresidentialPrayerTeam.com](https://web.archive.org/web/20170620113956id_/http%3A//www.presidentialprayerteam.org/www.PresidentialPrayerTeam.com)  
-The Presidential Prayer Team   
-PO Box 4140  
-Scottsdale, AZ 85261
+**The Presidential Prayer Team  **  
+ **PO Box 4140**  
+ **Scottsdale, AZ 85261**  
+ **1-866-433-7729 Ext 1  **  
+ **ppt-info@PresidentialPrayerTeam.org**
 
-1-866-433-7729 Ext 1 
-
-info@PresidentialPrayerTeam.org
-
-This document was last updated on April 6, 2016
+This document was last updated on Dec-3-2018
