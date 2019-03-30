@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the elifesciences.org privacy policy that was archived on 2018-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181124024113id_/https%3A//elifesciences.org/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the elifesciences.org privacy policy that was archived on 2019-03-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190330210653id_/https%3A//elifesciences.org/privacy) for the most accurate reproduction.*
 
 # Privacy notice | eLife
 
@@ -17,17 +17,17 @@ This Privacy Notice relates to data held and processed by eLife Sciences Publica
 
 ### What is your personal data used for, and why?
 
-eLife collects information of the sort that web browsers typically make available (such as IP address, browser type, language preference and referring site). In addition we use cookies, including analytics and login cookies, and local storage. We use this information for the legitimate interests of administering the sites, malicious activity tracking, and business analysis and development. This allows us to understand better how our visitors use the website, and to improve the design of the site and decide where to target business development activities.
+eLife collects information of the sort that web browsers typically make available (such as IP address, browser type, language preference and referring site). In addition we use cookies, including analytics and login cookies, and local storage. We use this information for the legitimate interests of administering the sites, malicious activity tracking, and business analysis and development. We also capture anonymised information related to how you interact with our products and services for the legitimate interest of business analysis and development. This allows us to understand better how our visitors use the website, and to improve the design of the site and the user experience, and decide where to target business development activities.
 
 We operate a permission-based email communication system, which allows the collection of personal information to send emails to people who have consented to receive them. Each email contains the option to unsubscribe. We may also use this data for the legitimate interest of business analysis and planning.
 
 Cookies allow us to make the website work more smoothly for users. For users who are logged in, the cookies allow them to move between pages and remain logged in. We use analytics cookies to allow a better understanding, at an anonymous aggregated level, of how users use the site, and broad categories of users, including their location. Local storage is an area of your browser used by websites to store information on your computer rather than making additional web requests, and can speed up browsing.
 
-Visitors who do not wish to have cookies placed on their computers should set their browsers to refuse cookies before using eLife’s websites, with the drawback that certain features of our websites may not function properly without the aid of cookies. You can modify your browser settings to notify you each time a cookie is sent to it and you can decide whether or not to accept. Alternatively, you can set your browser to refuse all cookies. Cookies that have already been set can be deleted at any time using your browser settings. The independent [AboutCookies.org](https://www.aboutcookies.org/) website contains comprehensive information on how to modify your browser settings. You can conceal your true IP address by using a virtual private network (VPN).
+Visitors who do not wish to have cookies placed on their computers should set their browsers to refuse cookies before using eLife’s websites, with the drawback that certain features of our websites may not function properly without the aid of cookies. You can modify your browser settings to notify you each time a cookie is sent to it and you can decide whether or not to accept. Alternatively, you can set your browser to refuse all cookies. Cookies that have already been set can be deleted at any time using your browser settings. The independent [AboutCookies.org](https://www.aboutcookies.org/) website contains comprehensive information on how to modify your browser settings. You can conceal your true IP address by using a virtual private network (VPN). You can opt out of interaction tracking by enabling Do Not Track (DNT) in your browser.
 
 ### What types of personal data do we hold?
 
-Cookies do not necessarily identify you personally, but if you also log in to a service on our site (such as to leave an annotation, or to interact with the submission or payments systems) then they can be matched to an individual. The analytics cookies used for site usage monitoring only allow us to see anonymous and aggregated information. IP addresses might potentially identify individual users, but only when combined with other information, which we do not do.
+Cookies do not necessarily identify you personally, but if you also log in to a service on our site (such as to leave an annotation, or to interact with the submission or payments systems) then they can be matched to an individual. The analytics cookies used for site usage monitoring only allow us to see anonymous and aggregated information. IP addresses might potentially identify individual users, but only when combined with other information, which we do not do. The interaction data is anonymous.
 
 A minimum set of information is required in order to provide a permission-based email communication system. This includes but isn’t limited to basic contact information including: name and email address. We may also store information which you have provided related to your preferences.
 
@@ -67,7 +67,7 @@ We keep your personal data for no longer than reasonably necessary for the purpo
 
 Cookies and local storage are stored on your computer, and so are only available to us when you visit our site.
 
-Aggregated analytics data is retained for as long as it is relevant to business analysis and site development.
+Aggregated analytics data and interaction data are retained for as long as it is relevant to business analysis and site development.
 
 If you add annotations to our site then they remain there indefinitely, but you can login and delete them at any time.
 
@@ -289,4 +289,5 @@ Dec 5, 2012 | Added paragraphs on cookies.
 ---|---  
 Apr 3, 2012 | Removed section on advertisers.  
 May 23, 2018 | Completely restructured and expanded to comply with new legislation. Sections on author and editor data added.  
-Nov 12, 2018 | Clarified use of author data for research purposes and identifying reviewers.
+Nov 12, 2018 | Clarified use of author data for research purposes and identifying reviewers.  
+Mar 12, 2019 | Added explanation of use of anonymised data about how users interact with our sites.
