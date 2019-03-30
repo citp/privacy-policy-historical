@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the agreatertown.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606180137id_/https%3A//www.agreatertown.com/pages/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the agreatertown.com privacy policy that was archived on 2019-03-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190330234518id_/https%3A//www.agreatertown.com/pages/privacy) for the most accurate reproduction.*
 
 # A Greater Town: A Home Page for Every Town
 
