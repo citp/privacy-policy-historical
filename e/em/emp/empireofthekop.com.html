@@ -1,0 +1,914 @@
+<!--The following is the downloaded HTML source of the empireofthekop.com privacy policy that was archived on 2019-03-30.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20190330110434id_/https%3A//www.empireofthekop.com/privacy-policy) for the most accurate reproduction.-->
+
+<!DOCTYPE html><html class="no-js" lang="en" xmlns:fb="http://ogp.me/ns/fb#"><head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+<link rel="icon" href="https://cdn.empireofthekop.com/favicon.ico">
+<link rel="profile" href="http://gmpg.org/xfn/11">
+<link rel="pingback" href="https://www.empireofthekop.com/xmlrpc.php">
+<link href="https://fonts.googleapis.com/css?family=Bitter" rel="stylesheet" type="text/css">
+<meta property="fb:app_id" content="183606664987677">
+<meta property="fb:pages" content="119183616131">
+<link rel="alternate" href="https://www.empireofthekop.com/privacy-policy/" hreflang="en-gb">
+
+<link rel="prev" href="https://www.empireofthekop.com/privacy-policy/"><link rel="next" href="https://www.empireofthekop.com/privacy-policy/page/2/">
+<script id="twitter-wjs" src="https://platform.twitter.com/widgets.js"></script><script id="facebook-jssdk" src="//connect.facebook.net/en_US/sdk.js"></script><script async="" type="text/javascript" src="https://www.googletagservices.com/tag/js/gpt.js"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script data-cfasync="false" src="//dsms0mj1bbhn4.cloudfront.net/assets/pub/shareaholic.js" type="text/javascript" async=""></script><script type="text/javascript">
+//setup our object which our library will load in to later
+var fanatix = {
+	params:{},//stuff that'll come down from wordpress' built in "pass stuff from php to js" mechanisms will live here
+	runtime:{
+		redirecting:false
+	}
+};
+
+fanatix.lib = {
+	debug:function(message) {
+			},
+	loadScriptFromURL:function(url, run_when_loaded) {
+		var script = document.createElement('script');
+		script.async = true;
+		script.type = 'text/javascript';
+		if(run_when_loaded) {
+			if(script.readyState) {
+				script.onreadystatechange = function() {
+					if(script.readyState==='loaded' || script.readyState==='complete') {
+						script.onreadystatechange = null;
+						run_when_loaded();
+					}
+				};
+			}
+			else
+				script.onload = function() {
+					run_when_loaded();
+				};
+		}
+		script.src = url;
+		var node = document.getElementsByTagName('script')[0];
+		node.parentNode.insertBefore(script, node);
+	},
+	detectDevice:function(force_param) {
+		var type = '';
+		var force = force_param?force_param:fanatix.fragment.parse('device');
+		if(force)
+			type = force;
+		else {
+			if(navigator.userAgent.indexOf('Opera Mini')>-1)
+				type = 'serverside';
+			else if(/iPhone|iPod/i.test(navigator.userAgent))
+				type = 'iphone';
+			else if(navigator.userAgent.indexOf('Android')>-1)
+				type = 'android';
+			else if((/Blackberry/i.test(navigator.userAgent) && (/Version\/6/i.test(navigator.userAgent) || /Version\/7/i.test(navigator.userAgent))) || navigator.userAgent.indexOf('Opera Mobi')>-1)
+				type = 'blackberry';
+			else {
+				type = 'other';
+//android's default browser, which has no actual name, doesn't say "android" in its UA, and can only be IDd by AppleWebKit being <=534
+				if(navigator.userAgent.indexOf('Macintosh')==-1 && navigator.userAgent.indexOf('Windows')==-1 && navigator.userAgent.indexOf('iPad')==-1) {
+					var android_stock = /applewebkit\/([0-9]+)/gi.exec(navigator.userAgent);
+					if(android_stock && parseInt(android_stock[1])<=534)
+						type = 'android';
+				}
+			}
+		}
+		return type;
+	},
+	getAppSession:function() {
+		var vars = document.cookie.split(';');
+		var cookies = {};
+		for(var i in vars) {
+			vars[i] = vars[i].replace(/^\s+|\s+$/g, '').trim();
+			if(vars[i].indexOf('fanatix_')==0) {
+				vars[i] = vars[i].substr(8);
+				var eq = vars[i].indexOf('=');
+				cookies[vars[i].substr(0, eq)] = unescape(vars[i].substr(eq+1));
+			}
+		}
+		return cookies;
+	},
+	getQueryParams:function() {
+		var search = window.location.search;
+		if(search) {
+			search = search.substring(1);
+			var params = {};
+			var search = search.split('&');
+			for(var i in search) {
+				var param = search[i].split('=');
+				params[param[0]] = param[1];
+			}
+			return params;
+		}
+		return null;
+	}
+};
+
+fanatix.fragment = {
+	parse:function(return_only_param) {
+		var hash = window.location.hash;
+		if(hash)
+			hash = hash.replace('#', '');
+
+		var params = {};
+		var hash = hash.split('&');
+		for(var i in hash) {
+			if(hash[i].indexOf('=')==-1) {
+				var match = /^article\/([^\/]+)$/.exec(hash[i]);
+				if(match)
+					params.article = match[1];
+			}
+			else {
+				var param = hash[i].split('=');
+				params[param[0]] = param[1];
+			}
+		}
+		fanatix.runtime.fragment = params;
+		return return_only_param?params[return_only_param]:params;
+	}
+};
+
+fanatix.cookie = {
+	get:function(name) {
+		var nameEQ = name + "=";
+		var ca = document.cookie.split(';');
+		for(var i=0;i < ca.length;i++) {
+			var c = ca[i];
+			while(c.charAt(0)==' ')
+				c = c.substring(1,c.length);
+			if(c.indexOf(nameEQ) == 0)
+				return c.substring(nameEQ.length,c.length);
+		}
+		return null;
+	},
+	set:function(name, value, expires) {
+		document.cookie = name+'='+value+(expires?'; expires='+expires:'')+'; path=/';
+	},
+	remove:function(name) {
+		document.cookie = name+'=; expires=Thu, 01 Jan 1970 00:00:01 GMT; path=/';
+	},
+	test:function() {
+		var rng = Math.random();
+		fanatix.cookie.set('fanatix-test-'+rng, 'true');
+		if(fanatix.cookie.get('fanatix-test-'+rng)) {
+			fanatix.cookie.allowed = true;
+			fanatix.cookie.remove('fanatix-test-'+rng);
+		}
+	},
+	allowed:false
+};
+
+fanatix.geo = {
+	callbacks:[],
+	push:function(func) {
+		fanatix.geo.callbacks.push(func);
+	},
+	checkCountryFromCookieForDocumentWriteScripts:function(country) {
+		var cookie = fanatix.cookie.get('country-code');
+		if(!cookie || cookie=='')
+			return false;
+		if(country) {
+			if(country==cookie)
+				return true;
+			return false;
+		}
+		return true;
+	}
+};
+
+fanatix.ads = {};
+
+fanatix.ads.dfp = {
+	enabled:true,
+	slots:{
+		defined:{},
+		active:{},
+	},
+	init:function() {
+		window.googletag = window.googletag || {};
+		window.googletag.cmd = window.googletag.cmd || [];
+
+		(function() {
+			var gads = document.createElement('script');
+			gads.async = true;
+			gads.type = 'text/javascript';
+			var useSSL = 'https:' == document.location.protocol;
+			gads.src = (useSSL ? 'https:' : 'http:') +
+			'//www.googletagservices.com/tag/js/gpt.js';
+			var node = document.getElementsByTagName('script')[0];
+			node.parentNode.insertBefore(gads, node);
+		})();
+
+		var self = this;
+		googletag.cmd.push(function() {
+			self.defineSlots();
+			self.setupEventListener();
+			self.activateGoogletag();
+		});
+	},
+	defineSlots:function() {
+		this.slots.defined = {'dfp-latest-feed-mpu':{slot:googletag.defineSlot('/1101651/Web-All-EOTK-LatestFeed-MPU', [300, 250], 'dfp-latest-feed-mpu')}, 'dfp-featured-feed-mpu':{slot:googletag.defineSlot('/1101651/Web-All-EOTK-FeaturedFeed-MPU', [300, 250], 'dfp-featured-feed-mpu')}, 'dfp-article-mpu':{slot:googletag.defineSlot('/1101651/Web-All-EOTK-Article-MPU', [300, 250], 'dfp-article-mpu')}, 'dfp-article-mpu2':{slot:googletag.defineSlot('/1101651/Web-All-EOTK-Article-MPU2', [300, 250], 'dfp-article-mpu2')}, 'dfp-article-mpu3':{slot:googletag.defineSlot('/1101651/Web-All-EOTK-Article-MPU3', [300, 250], 'dfp-article-mpu3')}, 'dfp-article-footer':{slot:googletag.defineSlot('/1101651/Web-All-EOTK-Article-Footer', [320, 50], 'dfp-article-footer')}, 'dfp-ros-halfpage':{slot:googletag.defineSlot('/1101651/Web-All-EOTK-ROS-SkyscraperLarge', [300, 600], 'dfp-ros-halfpage')}, 'dfp-ros-fullscreen':{slot:googletag.defineSlot('/1101651/Web-All-EOTK-ROS-FullScreen', [1, 1], 'dfp-ros-fullscreen')}, 'dfp-article-fullscreen':{slot:googletag.defineSlot('/1101651/Web-All-EOTK-Article-FullScreen', [1, 1], 'dfp-article-fullscreen')}, 'dfp-article-related-mpu':{slot:googletag.defineSlot('/1101651/Web-All-EOTK-Article-MPURelated', [300, 250], 'dfp-article-related-mpu')}, 'dfp-ros-res-header':{slot:googletag.defineSlot('/1101651/Web-All-EOTK-ROS-ResHeader', [320, 50], 'dfp-ros-res-header').defineSizeMapping(googletag.sizeMapping().addSize([320, 400], [320, 50]).addSize([480, 200], [468, 60]).addSize([768, 200], [728, 90]).addSize([1000, 200], [[728, 90], [970, 250], [970, 66], [970, 90]]).build())}};
+	},
+	setupEventListener:function() {
+		googletag.pubads().addEventListener('slotRenderEnded', function(event) {
+			var slots_active = Object.keys(fanatix.ads.dfp.slots.active);
+			for(var i in slots_active)
+				if(event.slot==fanatix.ads.dfp.slots.defined[slots_active[i]].slot) {
+					if(slots_active[i]=='dfp-ros-res-header' && !event.isEmpty && (event.size[0]!=320 || event.size[1]!=50))
+						$('#dfp-ros-res-header').css({width:event.size[0], height:event.size[1]});
+					if(event.isEmpty) {
+						if(fanatix.ads.dfp.slots.defined[slots_active[i]].container)
+							$(fanatix.ads.dfp.slots.defined[slots_active[i]].container).remove();
+						else
+							$('#'+slots_active[i]).remove();
+					}
+					break;
+				}
+//			console.log('DFP: slotRenderEnded(\''+(slots_active[i]?slots_active[i]:'Unknown Slot')+'\', isEmpty='+(event.isEmpty?'true':'false')+') fired');
+		});
+	},
+	activateGoogletag:function() {
+		try {
+			var querystring = fanatix.lib.getQueryParams();
+			if(querystring && querystring.utm_source=='rsn' && querystring.utm_medium=='rsn' && /^gac([0-9]{4})$/.exec(querystring.utm_campaign)) {
+				googletag.pubads().setTargeting('lpv_source', 'influencer');//lpv is LangingPageView because we're only recording these on Landing pageviews, not session ones
+				googletag.pubads().setTargeting('lpv_influencer', querystring.utm_campaign);
+			}
+		}
+		catch(e) {}
+		googletag.pubads().setTargeting('adunit_identifier', 'EOTK');//aids with targeting test stuff using generic Ad Units
+		googletag.pubads().enableLazyLoad({
+			fetchMarginPercent:100,
+			renderMarginPercent:25,
+			mobileScaling:1.0
+		});
+		googletag.enableServices();
+	},
+	activateSlot:function(slot_name) {
+//		console.log('DFP: activating "'+slot_name+'"');
+		if($('#'+slot_name).length>0 && !this.slots.active[slot_name]) {
+			this.slots.defined[slot_name].slot.addService(googletag.pubads());
+			googletag.display(slot_name);
+			this.slots.active[slot_name] = true;
+		}
+	}
+};
+fanatix.ads.fb = {
+	enabled:false,
+	placements:{'':'fb-latest-native'},
+	split_tests:{
+		'fb-latest-native':{
+			placement_ids:[''],
+			test:'false',
+			slot:null
+		}
+	},
+	init:function() {
+		fanatix.lib.debug('FB: fanatix.ads.fb.init(): Setting window.fbAsyncInit callback');
+		window.fbAsyncInit = function() {
+			fanatix.lib.debug('FB: window.fbAsyncInit() called [183606664987677]');
+			FB.init({
+				appId      : '183606664987677',
+				xfbml      : true,
+				version    : 'v2.11'
+			});
+			if(fanatix.ads.fb.enabled) {
+				FB.Event.subscribe('ad.loaded', function(placementId) {
+					fanatix.lib.debug('FB: Audience Network ad loaded');
+					var e = document.getElementById(fanatix.ads.fb.placements[placementId]);
+					if(e)
+						e.style.display = 'block';
+				});
+				FB.Event.subscribe('ad.error', function(errorCode, errorMessage, placementId) {
+					fanatix.lib.debug('FB: Audience Network error (' + errorCode + ') ' + errorMessage+' ['+placementId+']');
+					if(fanatix.ads.fb.placements[placementId]=='fb-latest-native') {
+						fanatix.lib.debug('FB/DFP: Loading DFP fallback due to FB ad fail to load');
+						$('#dfp-latest-feed-mpu').removeClass('hide');
+					}
+				});
+			}
+		};
+
+		fanatix.lib.debug('FB: fanatix.ads.fb.init(): Loading jssdk');
+		(function(d, s, id){
+			var js, fjs = d.getElementsByTagName(s)[0];
+			if (d.getElementById(id)) {return;}
+			js = d.createElement(s); js.id = id;
+			js.src = "//connect.facebook.net/en_US/sdk.js";
+			fjs.parentNode.insertBefore(js, fjs);
+		}(document, 'script', 'facebook-jssdk'));
+	}
+};
+
+//so anything that depends on local cookies for freq capping can know whether it can set cookies or not
+fanatix.cookie.test();
+
+
+fanatix.interstitial = {
+	runDownloadApp:function() {
+		var referrer_domain = document.referrer?document.referrer.split('/')[2]:'';
+		if(referrer_domain.indexOf('empireofthekop.com')>-1) {
+			var session = fanatix.lib.getAppSession();
+			if(!session.seen_download_app_interstitial_modern) {
+				fanatix.runtime.redirecting = true;
+				window.location = 'https://www.empireofthekop.com/wp-content/themes/fanatix-2-0/interstitial/downloadapp-modern.php#device='+fanatix.runtime.device+'&referrer='+encodeURIComponent(document.location.href);
+			}
+		}
+	},
+	runElevenSports:function() {
+		var session = fanatix.lib.getAppSession();
+		if(!session.seen_elevensports_interstitial) {
+			fanatix.runtime.redirecting = true;
+			window.location = 'https://www.empireofthekop.com/wp-content/themes/fanatix-2-0/interstitial/elevensports.php#device='+fanatix.runtime.device+'&referrer='+encodeURIComponent(document.location.href);
+		}
+	}
+};
+
+fanatix.runtime.device = fanatix.lib.detectDevice();
+if(fanatix.cookie.allowed && true && (fanatix.runtime.device=='android' || fanatix.runtime.device=='iphone' || '1'=='force')) {
+	var now = new Date();
+	if(new Date('2018/11/22 00:00:00')<=now && now<new Date('2018/11/24 19:30:00')) {
+		fanatix.geo.parseResponse = function(obj) {
+			if(obj.response.code=='GB' || obj.response.code=='IE')
+				fanatix.interstitial.runElevenSports();
+			else
+				fanatix.interstitial.runDownloadApp();
+		};
+		fanatix.lib.loadScriptFromURL('https://geo.api.fanatix.com/fanatix-geo/v1.0/country/?ip=self&callback=fanatix.geo.parseResponse');
+	}
+	else
+		fanatix.interstitial.runDownloadApp();
+}
+</script>
+
+<title>
+Privacy Policy - The Empire of The Kop</title>
+
+
+<!-- This site is optimized with the Yoast SEO plugin v2.3.4 - https://yoast.com/wordpress/plugins/seo/ -->
+<meta name="robots" content="noodp,noydir">
+<link rel="canonical" href="https://www.empireofthekop.com/privacy-policy/">
+<!-- / Yoast SEO plugin. -->
+
+<link rel="dns-prefetch" href="//s0.wp.com">
+<link rel="dns-prefetch" href="//code.jquery.com">
+<link rel="dns-prefetch" href="//s.w.org">
+<link rel="alternate" type="application/rss+xml" title="The Empire of The Kop » Feed" href="https://www.empireofthekop.com/feed/">
+<link rel="alternate" type="application/rss+xml" title="The Empire of The Kop » Comments Feed" href="https://www.empireofthekop.com/comments/feed/">
+    <script src="https://cdn.onesignal.com/sdks/OneSignalSDK.js" async=""></script>    <script>
+
+      window.OneSignal = window.OneSignal || [];
+
+      OneSignal.push( function() {
+        OneSignal.SERVICE_WORKER_UPDATER_PATH = "OneSignalSDKUpdaterWorker.js.php";
+        OneSignal.SERVICE_WORKER_PATH = "OneSignalSDKWorker.js.php";
+        OneSignal.SERVICE_WORKER_PARAM = { scope: '/' };
+
+        OneSignal.setDefaultNotificationUrl("https://www.empireofthekop.com");
+        var oneSignal_options = {};
+        window._oneSignalInitOptions = oneSignal_options;
+
+        oneSignal_options['wordpress'] = true;
+oneSignal_options['appId'] = '8a873f22-780c-4d3a-abe4-851a983d4961';
+oneSignal_options['autoRegister'] = false;
+oneSignal_options['httpPermissionRequest'] = { };
+oneSignal_options['httpPermissionRequest']['enable'] = true;
+oneSignal_options['welcomeNotification'] = { };
+oneSignal_options['welcomeNotification']['disable'] = true;
+oneSignal_options['subdomainName'] = "empireofthekop";
+oneSignal_options['safari_web_id'] = "web.onesignal.auto.15375e9b-dec0-4164-84de-dd8ada8f8fb7";
+oneSignal_options['promptOptions'] = { };
+              OneSignal.init(window._oneSignalInitOptions);
+                    });
+
+      function documentInitOneSignal() {
+        var oneSignal_elements = document.getElementsByClassName("OneSignal-prompt");
+
+        var oneSignalLinkClickHandler = function(event) { OneSignal.push(['registerForPushNotifications']); event.preventDefault(); };        for(var i = 0; i < oneSignal_elements.length; i++)
+          oneSignal_elements[i].addEventListener('click', oneSignalLinkClickHandler, false);
+      }
+
+      if (document.readyState === 'complete') {
+           documentInitOneSignal();
+      }
+      else {
+           window.addEventListener("load", function(event){
+               documentInitOneSignal();
+          });
+      }
+    </script>
+
+<!-- This site is powered by Shareaholic - https://shareaholic.com -->
+<script type="text/javascript" data-cfasync="false">
+  //<![CDATA[
+    _SHR_SETTINGS = {"endpoints":{"local_recs_url":"https:\/\/www.empireofthekop.com\/wp-admin\/admin-ajax.php?action=shareaholic_permalink_related","share_counts_url":"https:\/\/www.empireofthekop.com\/wp-admin\/admin-ajax.php?action=shareaholic_share_counts_api"}};
+
+    (function() {
+      var shr = document.createElement('script');
+      shr.setAttribute('data-cfasync', 'false');
+      shr.src = '//dsms0mj1bbhn4.cloudfront.net/assets/pub/shareaholic.js';
+      shr.type = 'text/javascript'; shr.async = 'true';
+      shr.onload = shr.onreadystatechange = function() {
+        var rs = this.readyState;
+        if (rs && rs != 'complete' && rs != 'loaded') return;
+        var site_id = 'a3162dd47fbeaec603b44bfaaba13d17';
+        var page_config = {};
+        try { Shareaholic.init(site_id, page_config); } catch (e) {}
+      };
+      var s = document.getElementsByTagName('script')[0];
+      s.parentNode.insertBefore(shr, s);
+    })();
+  //]]>
+</script>
+
+<!-- Shareaholic Content Tags -->
+<meta name="shareaholic:site_name" content="The Empire of The Kop">
+<meta name="shareaholic:language" content="en-US">
+<meta name="shareaholic:url" content="https://www.empireofthekop.com/privacy-policy/">
+<meta name="shareaholic:article_published_time" content="2018-10-24T10:55:06+01:00">
+<meta name="shareaholic:article_modified_time" content="2019-03-28T16:16:14+00:00">
+<meta name="shareaholic:shareable_page" content="true">
+<meta name="shareaholic:article_author_name" content="Fanatix">
+<meta name="shareaholic:site_id" content="a3162dd47fbeaec603b44bfaaba13d17">
+<meta name="shareaholic:wp_version" content="7.6.1.4">
+
+<!-- Shareaholic Content Tags End -->
+		<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/11\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/11\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/cdn.empireofthekop.com\/wp-includes\/js\/wp-emoji-release.min.js?ver=4.9.9"}};
+			!function(a,b,c){function d(a,b){var c=String.fromCharCode;l.clearRect(0,0,k.width,k.height),l.fillText(c.apply(this,a),0,0);var d=k.toDataURL();l.clearRect(0,0,k.width,k.height),l.fillText(c.apply(this,b),0,0);var e=k.toDataURL();return d===e}function e(a){var b;if(!l||!l.fillText)return!1;switch(l.textBaseline="top",l.font="600 32px Arial",a){case"flag":return!(b=d([55356,56826,55356,56819],[55356,56826,8203,55356,56819]))&&(b=d([55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447],[55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447]),!b);case"emoji":return b=d([55358,56760,9792,65039],[55358,56760,8203,9792,65039]),!b}return!1}function f(a){var c=b.createElement("script");c.src=a,c.defer=c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var g,h,i,j,k=b.createElement("canvas"),l=k.getContext&&k.getContext("2d");for(j=Array("flag","emoji"),c.supports={everything:!0,everythingExceptFlag:!0},i=0;i<j.length;i++)c.supports[j[i]]=e(j[i]),c.supports.everything=c.supports.everything&&c.supports[j[i]],"flag"!==j[i]&&(c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&c.supports[j[i]]);c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&!c.supports.flag,c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.everything||(h=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",h,!1),a.addEventListener("load",h,!1)):(a.attachEvent("onload",h),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),g=c.source||{},g.concatemoji?f(g.concatemoji):g.wpemoji&&g.twemoji&&(f(g.twemoji),f(g.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script><script src="https://cdn.empireofthekop.com/wp-includes/js/wp-emoji-release.min.js?ver=4.9.9" type="text/javascript" defer=""></script>
+		<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+<link rel="stylesheet" id="wpProQuiz_front_style-css" href="https://cdn.empireofthekop.com/wp-content/plugins/wp-pro-quiz/css/wpProQuiz_front.min.css?ver=0.36" type="text/css" media="all">
+<link rel="stylesheet" id="wp-pagenavi-css" href="https://cdn.empireofthekop.com/wp-content/plugins/wp-pagenavi/pagenavi-css.css?ver=2.70" type="text/css" media="all">
+<link rel="stylesheet" id="published-css" href="https://cdn.empireofthekop.com/wp-content/themes/fanatix-2-0/static/css/style.62.min.css?ver=4.9.9" type="text/css" media="all">
+<link rel="stylesheet" id="jetpack_css-css" href="https://cdn.empireofthekop.com/wp-content/plugins/jetpack/css/jetpack.css?ver=6.8.1" type="text/css" media="all">
+<!-- This site uses the Google Analytics by Yoast plugin v5.4.5 - Universal enabled - https://yoast.com/wordpress/plugins/google-analytics/ -->
+<script type="text/javascript">
+	(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+		(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+		m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+	})(window,document,'script','//www.google-analytics.com/analytics.js','__gaTracker');
+
+	__gaTracker('create', 'UA-5020116-11', 'auto');
+	__gaTracker('set', 'forceSSL', true);
+	__gaTracker('set', 'anonymizeIp', true);
+	__gaTracker('send','pageview');
+
+</script>
+<!-- / Google Analytics by Yoast -->
+<script type="text/javascript" src="https://code.jquery.com/jquery-2.1.1.min.js"></script>
+<script type="text/javascript" src="https://cdn.empireofthekop.com/wp-includes/js/jquery/ui/core.min.js?ver=1.11.4"></script>
+<script type="text/javascript" src="https://cdn.empireofthekop.com/wp-includes/js/jquery/ui/widget.min.js?ver=1.11.4"></script>
+<script type="text/javascript" src="https://cdn.empireofthekop.com/wp-includes/js/jquery/ui/mouse.min.js?ver=1.11.4"></script>
+<script type="text/javascript" src="https://cdn.empireofthekop.com/wp-includes/js/jquery/ui/sortable.min.js?ver=1.11.4"></script>
+<script type="text/javascript">
+/* <![CDATA[ */
+var WpProQuizGlobal = {"ajaxurl":"https:\/\/www.empireofthekop.com\/wp-admin\/admin-ajax.php","loadData":"Loading","questionNotSolved":"You must answer this question.","questionsNotSolved":"You must answer all questions before you can completed the quiz.","fieldsNotFilled":"All fields have to be filled."};
+/* ]]> */
+</script>
+<script type="text/javascript" src="https://cdn.empireofthekop.com/wp-content/plugins/wp-pro-quiz/js/wpProQuiz_front.min.js?ver=0.36"></script>
+<script type="text/javascript" src="https://cdn.empireofthekop.com/wp-content/plugins/wp-pro-quiz/js/wpProQuiz_toplist.min.js?ver=0.36"></script>
+<script type="text/javascript" src="https://cdn.empireofthekop.com/wp-content/plugins/wp-pro-quiz/js/jquery.ui.touch-punch.min.js?ver=0.2.2"></script>
+<script type="text/javascript" src="https://cdn.empireofthekop.com/wp-content/themes/fanatix-2-0/static/js/modernizr.js"></script>
+<link rel="https://api.w.org/" href="https://www.empireofthekop.com/wp-json/">
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://www.empireofthekop.com/xmlrpc.php?rsd">
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="https://www.empireofthekop.com/wp-includes/wlwmanifest.xml"> 
+<meta name="generator" content="WordPress 4.9.9">
+<link rel="alternate" type="application/json+oembed" href="https://www.empireofthekop.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.empireofthekop.com%2Fprivacy-policy%2F">
+<link rel="alternate" type="text/xml+oembed" href="https://www.empireofthekop.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.empireofthekop.com%2Fprivacy-policy%2F&amp;format=xml">
+			<meta property="fb:pages" content="119183616131">
+			<link rel="https://github.com/WP-API/WP-API" href="https://www.empireofthekop.com/wp-json">
+
+<link rel="dns-prefetch" href="//v0.wordpress.com">
+<style type="text/css">img#wpstats{display:none}</style>
+<!-- Jetpack Open Graph Tags -->
+<meta property="og:type" content="article">
+<meta property="og:title" content="Privacy Policy">
+<meta property="og:url" content="https://www.empireofthekop.com/privacy-policy/">
+<meta property="og:description" content="Content for this is in privacy.php in repo root (so changes are logged and it can’t be modified accidentally)">
+<meta property="article:published_time" content="2018-10-24T10:55:06+01:00">
+<meta property="article:modified_time" content="2018-10-24T10:55:06+01:00">
+<meta property="og:site_name" content="The Empire of The Kop">
+<meta property="og:image" content="https://s0.wp.com/i/blank.jpg">
+<meta property="og:locale" content="en_US">
+<meta name="twitter:site" content="@empireofthekop">
+<meta name="twitter:text:title" content="Privacy Policy">
+<meta name="twitter:card" content="summary">
+
+<!-- End Jetpack Open Graph Tags -->
+
+<!-- Begin Cookie Consent plugin by Silktide - http://silktide.com/cookieconsent -->
+<script type="text/javascript">
+window.cookieconsent_options = {
+	"message":"We use cookies to ensure you get the best experience on our website",
+	"dismiss":"Got it!",
+	"learnMore":"More info",
+	"link":"http://www.empireofthekop.com/legal/privacy-policy.php#cookies",
+	"theme":"dark-bottom"
+};
+</script>
+<script type="text/javascript" src="//cdnjs.cloudflare.com/ajax/libs/cookieconsent2/1.0.9/cookieconsent.min.js"></script>
+<!-- End Cookie Consent plugin -->
+
+</head>
+
+<body class="page-template-default page page-id-174126 group-blog">
+<div id="dfp-ros-fullscreen"></div>
+
+<div class="off-canvas-wrap" data-offcanvas="">
+  <div class="inner-wrap clearfix">
+    <nav class="tab-bar hide-for-large-up">
+      <section class="left-small"> <a class="left-off-canvas-toggle ico-hamburger" href="#"><span></span></a> </section>
+      <section class="middle tab-bar-section">
+        <a title="Empire Of The Kop" class="logo-link" href="/"> <div class="logo logo-mobile" title="Liverpool Football Club news"></div> </a>        <nav class="control-nav show-for-medium-up">
+          <ul class="follow">
+            <li><a href="http://www.facebook.com/pages/Empire-Of-The-Kop/119183616131" target="_blank"><i class="ss-icon"></i></a></li>
+            <li><a href="https://twitter.com/empireofthekop" target="_blank"><i class="ss-icon"></i></a></li>
+			<li><a href="http://www.empireofthekop.com/feed/" target="_blank"><i class="ss-icon"></i></a></li>
+          </ul>
+        </nav>
+      </section>
+      <section class="right-small"> <a class="right-off-canvas-toggle ico-search" href="#"><span></span></a> </section>
+    </nav>
+    <header class="site-header show-for-large-up">
+      <div class="row">
+        <div class="large-4 columns"><a title="Empire Of The Kop" class="logo-link" href="/"><div class="logo logo-desktop" title="Liverpool Football Club news"></div></a></div>
+        <div class="large-5 columns">
+			<div class="social-follow-widgets right">
+				<div class="social-widget social-rss">
+					<a href="http://www.empireofthekop.com/feed/" target="_blank"><i class="ss-icon"></i></a>
+				</div>
+				<div class="social-widget social-follow-twitter">
+					<a href="https://twitter.com/empireofthekop" class="twitter-follow-button" data-show-count="true" data-show-screen-name="false" data-size="small" data-width="150px" data="" lang="en">Follow @empireofthekop</a>
+				</div>
+				<div class="social-widget social-follow-facebook">
+					<div class="fb-like" data-href="http://www.facebook.com/pages/Empire-Of-The-Kop/119183616131" data-send="false" data-layout="button_count" data-width="90" data-show-faces="false"></div>
+				</div>
+			</div>
+          <ul class="addon-links right">
+
+<li><a href="https://itunes.apple.com/us/app/empire-of-the-kop/id573147755?mt=8&amp;ct=Interstitial%20-%20empireofthekop.com" target="_blank">iPhone App</a></li>
+<li><a href="https://play.google.com/store/apps/details?id=com.eotk.mobile" target="_blank">Android App</a></li>
+          </ul>
+          <nav class="control-nav">
+          </nav>
+        </div>
+      </div>
+    </header><!-- #masthead -->
+
+    <nav class="top-bar show-for-large-up" data-topbar="">
+      <section class="top-bar-section">
+<!-- C-MENU BEGINS -->
+<ul id="menu-main-menu" class="left"><li class="divider"></li><li id="menu-item-102765" class="menu-item menu-item-type-custom menu-item-object-custom current-menu-item current_page_item menu-item-home menu-item-102765"><a href="/">Home</a></li>
+<li class="divider"></li>
+<li id="menu-item-102000" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-102000"><a href="/category/match-highlights/">Match Highlights</a></li>
+<li class="divider"></li>
+<li id="menu-item-201766" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-201766"><a href="/category/transfer-rumours/">Transfer Rumours</a></li>
+<li class="divider"></li>
+<li id="menu-item-301593" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-301593"><a href="/category/opinions/">Opinion</a></li>
+<li class="divider"></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category"><a href="https://anfieldindex.com/eotk" target="_blank">Podcasts</a></li>
+<li class="divider"></li>
+<li id="menu-item-401063" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children has-dropdown menu-item-401063"><a href="/about/">More</a>
+<ul class="sub-menu dropdown">
+	<li id="menu-item-401213" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-401213"><a title="About Empire Of The Kop" href="/about/">About us</a></li>
+    <li id="menu-item-401373" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-401373"><a href="/write-for-eotk/">Write for Us</a></li>
+    <li id="menu-item-401483" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-401483"><a href="/advertising-on-empire-of-the-kop/">Advertising</a></li>
+	<li id="menu-item-401603" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-401603"><a href="/contactus/">Contact Us</a></li>
+    <li id="menu-item-401727" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-401727"><a href="/authors/">Authors</a></li>
+    <li id="menu-item-401728" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-401728"><a href="/privacy-policy/">Privacy Policy</a></li>
+</ul>
+</li>
+<li class="divider"></li>
+</ul>
+
+<!-- MENU ENDS -->           <div class="search-wrap">
+            <div id="sb-search" class="sb-search">
+<!-- Google CSE Search Box Begins  -->
+<!-- Use of this code assumes agreement with the Google Custom Search Terms of Service. -->
+<!-- The terms of service are available at https://www.google.com/cse/docs/tos.html -->
+<form id="cref" action="http://www.google.com">
+<input type="hidden" value="016773797850835625036:xoknxi-wtxq" name="cx">
+<input class="sb-search-input" name="q" placeholder="Enter your search term..." type="text" value="" id="search">
+<input class="sb-search-submit" type="submit" value="" name="sa">
+<span class="sb-icon-search"><div class="ico-search" title="google search"></div></span>
+<input type="hidden" name="siteurl" value="www.empireofthekop.com">
+<input type="hidden" name="ref"><input type="hidden" name="ss">
+</form>
+<!-- Google CSE Search Box Ends -->
+             </div>
+          </div>
+
+      </section>
+    </nav><!-- #site-navigation -->
+
+<!-- OFF CANVAS  NAVIGATION -->
+
+<aside class="left-off-canvas-menu">
+
+<!-- C-MENU BEGINS -->
+<ul id="menu-main-menu-1" class="off-can-nav off-canvas-list"><li><label><div class="logo logo-mobile-nav" title="Empire Of The Kop"></div></label></li><li class="divider"></li><li id="menu-item-102765" class="menu-item menu-item-type-custom menu-item-object-custom current-menu-item current_page_item menu-item-home menu-item-102765"><a href="/">Home</a></li>
+<li class="divider"></li>
+<li id="menu-item-102000" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-102000"><a href="/category/match-highlights/">Match Highlights</a></li>
+<li class="divider"></li>
+<li id="menu-item-201766" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-201766"><a href="/category/transfer-rumours/">Transfer Rumours</a></li>
+<li class="divider"></li>
+<li id="menu-item-301593" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-301593"><a href="/category/opinions/">Opinion</a></li>
+<li class="divider"></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category"><a href="https://anfieldindex.com/eotk" target="_blank">Podcasts</a></li>
+<li class="divider"></li>
+<li id="menu-item-401063" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children has-dropdown menu-item-401063"><a href="/about/">More</a>
+<ul class="sub-menu dropdown">
+	<li id="menu-item-401213" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-401213"><a title="About Empire Of The Kop" href="/about/">About us</a></li>
+    <li id="menu-item-401373" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-401373"><a href="/write-for-eotk/">Write for Us</a></li>
+    <li id="menu-item-401483" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-401483"><a href="/advertising-on-empire-of-the-kop/">Advertising</a></li>
+	<li id="menu-item-401603" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-401603"><a href="/contactus/">Contact Us</a></li>
+    <li id="menu-item-401727" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-401727"><a href="/authors/">Authors</a></li>
+    <li id="menu-item-401728" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-401728"><a href="/privacy-policy/">Privacy Policy</a></li>
+</ul>
+</li>
+<li class="divider"></li>
+</ul>
+
+<!-- MENU ENDS -->
+    <div class="extras">
+        <ul class="ext-app">
+            <li><a href="https://itunes.apple.com/us/app/empire-of-the-kop/id573147755?mt=8&amp;ct=Interstitial%20-%20empireofthekop.com" target="_blank">iPhone App</a></li>
+<li><a href="https://play.google.com/store/apps/details?id=com.eotk.mobile" target="_blank">Android App</a></li>
+        </ul>
+        <ul class="follow sub-menu">
+          <li><a href="http://www.facebook.com/pages/Empire-Of-The-Kop/119183616131" target="_blank"><i class="ss-icon"></i></a></li>
+          <li><a href="https://twitter.com/empireofthekop" target="_blank"><i class="ss-icon"></i></a></li>
+          <li><a href="http://www.empireofthekop.com/feed/" target="_blank"><i class="ss-icon"></i></a></li>
+        </ul>
+     </div>
+
+
+</aside>
+
+<aside class="right-off-canvas-menu">
+
+  <div id="side-search">
+    <h3 class="side-search-title">Google Search</h3>
+
+     <!-- Google CSE Search Box Begins  -->
+<!-- Use of this code assumes agreement with the Google Custom Search Terms of Service. -->
+<!-- The terms of service are available at https://www.google.com/cse/docs/tos.html -->
+<form id="cref" action="http://www.google.com">
+<input type="hidden" value="016773797850835625036:xoknxi-wtxq" name="cx">
+<input class="sb-search-input" name="q" placeholder="Enter your search term..." type="text" value="" id="search">
+<input class="sb-search-submit" type="submit" value="" name="sa">
+<span class="sb-icon-search"><div class="ico-search" title="google search"></div></span>
+<input type="hidden" name="siteurl" value="www.empireofthekop.com">
+<input type="hidden" name="ref"><input type="hidden" name="ss">
+</form>
+<!-- Google CSE Search Box Ends -->
+
+  </div>
+</aside>
+	<section class="main-section">
+
+	<div class="row">
+
+		<div id="adCol" class="large-2 medium-12 columns">
+				<div id="sidebar-skyscrapers-container">
+	<div id="sidebar-skyscrapers">
+    	<div style="margin:0 auto 20px auto; display:block; width:120px;">
+    		<a href="http://www.walkon.com" target="_blank" title="Liverpool News" rel="nofollow"><img src="https://scoopdragonpublishing.com/wp-content/uploads/2012/02/liverpool_news.gif" alt="Liverpool News" width="120" height="45" border="0" style="margin-bottom:5px;"></a>
+					</div>
+        <div id="dfp-ros-skyscraper1"></div>
+		<div id="dfp-ros-skyscraper2" style="margin-top:20px;"></div>
+	</div>
+</div>
+                &nbsp;
+		</div>
+
+
+        <div class="large-7 medium-12 columns">
+
+			
+				
+<article id="post-174126" class="post-174126 page type-page status-publish hentry">
+	<header class="entry-header">
+		<h1 class="entry-title">Privacy Policy</h1>	</header><!-- .entry-header -->
+
+	<div class="entry-content">
+<div class="clearfix" style="margin-bottom:16px;">
+	<span style="float:right;"><i>Version 1.0</i></span>
+	<span style="float:left;"><i>Effective 25<sup>th</sup> May 2018</i></span>
+</div>
+<p>
+	This Privacy Policy describes how and when Rocket Sports Internet Limited ("Rocket") collects, uses, and shares your information when you use any of Rocket's web properties (the "Services"), which include, but are not limited to, caughtoffside.com, chelsea-news.co, empireofthekop.com, fanatix.com, manunitedzone.com, strettynews.com, talkchelsea.net, app.football-italia.net and app.football-espana.net.
+</p>
+<h2>Personally Identifiable Information</h2>
+<p>
+	Rocket does not collect any direct personally identifiable information ("PII") such as your name, address, email address, phone number, age, gender, or social media account details.
+</p>
+<h2>Anonymous Identifiers</h2>
+<p>
+	Rocket collects statistical information about visitors to the Services, including which pages are visited and when they are visited. Information recorded may include your IP address, browser type, operating system, the referring web page, pages visited, location, your mobile carrier, device and application IDs, and search terms. This information is aggregated for statistical purposes, and is never connected to any PII and remains anonymous. This analysis is provided and managed by Google Analytics. Any statistical information collected via Google Analytics for these purposes is not shared outside of this system.
+</p>
+<h2>Legitimate Interest</h2>
+<p>
+	Under the data protection laws entering in to force in Europe in 2018 there are a number of justifications that websites can use for lawfully collecting and processing information about their visitors. One such justification is named "Legitimate Interest" and, broadly, means that websites can process visitor information if they have a genuine and legitimate reason, and are not harming any individuals' rights and interests.
+</p>
+<p>
+	Our goal at Rocket is to provide a high quality free sports news service. To help keep this service free we provide our advertising partners with anonymised data about visitors to our websites, such that these partners may target their promotional messages more appropriately to the most relevant audiences. Without this anonymised data these partners would pay significantly less to promote their goods and services, and our service would not be sustainable.
+</p>
+<p>
+	We believe that providing this anonymised data, in a way which does not harm any of your rights or interests, is in our legitimate interest in continuing to provide our free news service.
+</p>
+<h2>Social &amp; Sharing Platforms</h2>
+<p>
+	Rocket uses code provided by various social media &amp; sharing platforms to provide a number of features and enhancements, as outlined below. At no time does Rocket store, process or receive any information from these services about you or your account(s) with them. These third-party service providers may use cookies and other technologies to collect information about your use of our Services and other websites and services, including your IP address, device ID, and pages viewed.
+</p>
+<ul>
+	<li>Twitter, Instagram and YouTube enhance our articles by allowing us to display content from their users directly</li>
+	<li>Facebook provides our comments feature and allows discussion on individual articles</li>
+	<li>Shareaholic provides a simple means for you to share our articles on many popular social platforms</li>
+</ul>
+<h2>Advertising</h2>
+<p>
+	Rocket displays advertising from a variety of partners in order to fund its activities. These partners may use cookies or other means to target their adverts based on a variety of criteria, such as the country you are in (determined by your device's settings or IP address), the type of device you are using, and which other websites or online properties you have visited in the past. At no point does Rocket provide any advertisers with any PII, nor do we receive any data from them.
+</p>
+<p>
+	Some of our advertising partners allow you to opt out of their anonymous tracking systems, meaning you will see more generic and less tailored advertising from them. If you wish to opt out from any of these, please follow these links:
+</p>
+<ul>
+	<li><a href="https://adssettings.google.com/authenticated?hl=en" target="_blank" rel="nofollow">Google</a></li>
+	<li><a href="https://www.taboola.com/privacy-policy#user-choices-and-optout" target="_blank" rel="nofollow">Taboola</a></li>
+</ul>
+<h2>Cookies</h2>
+<p>
+	Like many websites, we use "cookie" technology to collect additional website usage data and to improve our Services, but we do not explicitly require cookies for many parts of our Services. A cookie is a small data file that is transferred to your computer's hard disk. Rocket may use both session cookies and persistent cookies to better understand how you interact with our Services, to monitor aggregate usage by our users and web traffic routing on our Services, and to customize and improve our Services. Most Internet browsers automatically accept cookies. If you do not want cookies from Rocket or other websites, you can instruct your browser, by changing its settings, to stop accepting cookies or to prompt you before accepting a cookie from the websites you visit. However, some Services may not function properly if you disable cookies.
+</p>
+<h2>Log Data</h2>
+<p>
+	Our servers automatically record information ("Log Data") created by your use of the Services. Log Data may include information such as your IP address, browser type, operating system, the referring web page, pages visited, location, your mobile carrier, device and application IDs, and search terms. We receive Log Data when you interact with our Services, such as when you visit our website(s). Rocket uses Log Data to provide our Services and to measure, customize, and improve them. If not already done earlier, we will either delete Log Data or remove any common identifiers, such as your full IP address, after 18 months.
+</p>
+<h2>Law and Harm</h2>
+<p>
+	Notwithstanding anything to the contrary in this Policy, we may preserve or disclose your information if we believe that it is reasonably necessary to comply with a law, regulation or legal request; to protect the safety of any person; to address fraud, security or technical issues; or to protect Rocket's rights or property. However, nothing in this Privacy Policy is intended to limit any legal defences or objections that you may have to a third party's, including a government's, request to disclose your information.
+</p>
+<h2>Business Transfers</h2>
+<p>
+	In the event that Rocket is involved in a bankruptcy, merger, acquisition, reorganization or sale of assets, your information may be sold or transferred as part of that transaction. The promises in this Privacy Policy will apply to your information as transferred to the new entity.
+</p>
+<h2>Our Policy Towards Children</h2>
+<p>
+	Our Services are not directed to persons under 13. If you become aware that your child has provided us with personal information without your consent, please email <a href="mailto:help@fanatix.com">help@fanatix.com</a>. We do not knowingly collect personal information from children under 13. If we become aware that a child under 13 has provided us with personal information, we take steps to remove such information and terminate the child's account.
+</p>
+<h2>Changes to this Policy</h2>
+<p>
+	We may revise this Privacy Policy from time to time, and will endeavour to draw your attention to any material changes via more prominent messaging on the Services. The most current version of the policy will govern our use of your information.
+</p>
+	</div><!-- .entry-content -->
+	<footer class="entry-footer">
+			</footer><!-- .entry-footer -->
+</article><!-- #post-## -->
+
+				
+			
+		</div>
+		<div class="large-3 medium-12 columns">
+					<div id="secondary" class="widget-area" role="complementary">
+		<aside id="text-453081593" class="widget widget_text"><h1 class="widget-title">Friends &amp; Partners</h1>			<div class="textwidget"><div class="partner-badges">
+<h4>JFT96</h4>
+<a href="http://hfsg.co.uk/" onclick="__gaTracker('send', 'event', 'outbound-widget', 'http://hfsg.co.uk/', ' ');" target="_blank"> <img src="http://www.empireofthekop.com/wp-content/uploads/2015/04/hfsg.jpg" alt="hfsg" width="120" height="122"></a> <a href="http://www.contrast.org/hillsborough/" onclick="__gaTracker('send', 'event', 'outbound-widget', 'http://www.contrast.org/hillsborough/', '');" target="_blank"><img src="http://www.empireofthekop.com/wp-content/uploads/2011/08/badgesmall.jpg" alt="" border="0"></a>
+<hr>
+<h4>Partners</h4>
+<a href="http://www.walkon.com" onclick="__gaTracker('send', 'event', 'outbound-widget', 'http://www.walkon.com', '');" title="Walk On"><img src="http://scoopdragonpublishing.com/wp-content/uploads/2012/02/liverpool_news.gif" alt="Liverpool News" width="120" height="45" border="0"></a> &nbsp; <a href="http://www.lfclive.net/" onclick="__gaTracker('send', 'event', 'outbound-widget', 'http://www.lfclive.net/', '');" target="_blank"><img src="http://www.empireofthekop.com/anfield/wp-content/uploads/2010/04/lfclivenew.gif" border="0"></a> &nbsp; <a href="http://www.liverpoolfcnews.net" onclick="__gaTracker('send', 'event', 'outbound-widget', 'http://www.liverpoolfcnews.net', '');" title="Liverpool News"><img alt="Liverpool News" border="0" src="http://www.liverpoolfcnews.net/liverpool_news_featured.png"></a>
+<hr>
+</div></div>
+		</aside>		<aside id="recent-posts-3" class="widget widget_recent_entries">		<h1 class="widget-title">Recent Posts</h1>		<ul>
+											<li>
+					<a href="https://www.empireofthekop.com/2019/03/28/everyone-talks-about-it-what-are-the-transfers-liverpool-will-make/">Everyone Talks About It – What are the Transfers Liverpool will Make?</a>
+									</li>
+											<li>
+					<a href="https://www.empireofthekop.com/2019/03/28/stats-prove-mo-salah-is-being-targeted-this-season/">Stats prove Mo Salah is being targeted this season</a>
+									</li>
+											<li>
+					<a href="https://www.empireofthekop.com/2019/03/28/three-serie-a-giants-eye-up-liverpool-cb-with-gomez-likely-first-choice-next-season/">Three Serie A giants eye up Liverpool CB, with Gomez likely first-choice next season</a>
+									</li>
+											<li>
+					<a href="https://www.empireofthekop.com/2019/03/28/poch-wouldve-been-far-better-how-lfc-fans-have-reacted-to-solskjaers-full-time-manchester-united-appointment/">‘Poch would’ve been far better…’ How LFC fans have reacted to Solskjaer’s full-time Manchester United appointment</a>
+									</li>
+											<li>
+					<a href="https://www.empireofthekop.com/2019/03/28/wayne-rooney-desperate-for-city-to-win-title-as-liverpool-will-be-unbearable/">Wayne Rooney desperate for City to win title as Liverpool will be unbearable</a>
+									</li>
+											<li>
+					<a href="https://www.empireofthekop.com/2019/03/28/the-mammoth-deal-chelsea-have-offered-cho-to-ward-off-liverpool-and-other-suitors/">The mammoth deal Chelsea have offered CHO to ward off Liverpool and other suitors</a>
+									</li>
+											<li>
+					<a href="https://www.empireofthekop.com/2019/03/28/wow-former-lfc-ace-went-to-melwood-and-was-purring-when-i-got-home-because-of-alisson/">‘Wow…’ Former LFC ace went to Melwood and was ‘purring when I got home’ because of Alisson</a>
+									</li>
+											<li>
+					<a href="https://www.empireofthekop.com/2019/03/28/lfc-fans-love-hendos-england-shthousery-after-savic-explains-what-midfielder-said-during-scuffle/">LFC fans love Hendo’s England ‘sh*thousery’ after Savic explains what midfielder said during scuffle</a>
+									</li>
+											<li>
+					<a href="https://www.empireofthekop.com/2019/03/28/ian-rush-has-absolutely-nailed-it-on-mo-salahs-dry-patch/">Ian Rush has absolutely nailed it on Mo Salah’s dry-patch</a>
+									</li>
+											<li>
+					<a href="https://www.empireofthekop.com/2019/03/28/bbc-sport-journalist-says-klopps-transfer-oversight-will-always-be-a-regret/">BBC Sport journalist says Klopp’s transfer ‘oversight’ will ‘always be a regret’</a>
+									</li>
+											<li>
+					<a href="https://www.empireofthekop.com/2019/03/28/how-lfc-will-pocket-24-9m-this-summer-without-selling-a-senior-player/">How LFC will pocket £24.9m this summer without selling a senior player</a>
+									</li>
+											<li>
+					<a href="https://www.empireofthekop.com/2019/03/27/klopp-suggests-shaqiri-may-return-for-liverpool-v-spurs/">Klopp suggests Shaqiri may return for Liverpool v. Spurs</a>
+									</li>
+											<li>
+					<a href="https://www.empireofthekop.com/2019/03/27/oxlade-chamberlain-stars-in-new-nike-ad-with-big-shaq/">Oxlade-Chamberlain stars in new Nike ad with ‘Big Shaq’</a>
+									</li>
+											<li>
+					<a href="https://www.empireofthekop.com/2019/03/27/liverpool-captain-called-disrespectful-by-former-man-city-defender/">Liverpool captain called ‘disrespectful’ by former Man City defender</a>
+									</li>
+											<li>
+					<a href="https://www.empireofthekop.com/2019/03/27/bobby-adekanye-explains-why-hes-going-to-leave-liverpool/">Bobby Adekanye explains why he’s going to leave Liverpool</a>
+									</li>
+					</ul>
+		</aside>	</div><!-- #secondary -->
+		</div>
+	</div>
+	</section>
+
+		<a class="exit-off-canvas"></a>
+	</div><!-- class="inner-wrap clearfix" -->
+</div><!-- class="off-canvas-wrap" -->
+<a href="#" class="back-to-top">Back to Top</a>
+	<div style="display:none">
+	</div>
+<script type="text/javascript" src="https://s0.wp.com/wp-content/js/devicepx-jetpack.js?ver=201913"></script>
+<script type="text/javascript">
+/* <![CDATA[ */
+var fanatix_params = {"theme_news_posts_per_page":"10","theme_featured_posts_per_page":"10","theme_latest_posts_per_page":"10","theme_col1_mode":"featured","theme_col2_mode":"latest","theme_col3_mode":"mostread","theme_fanatixfeed_posts_per_page":"26","theme_replayfeed_posts_per_page":"9","theme_mostread_posts_per_page":"26","site_url":"https:\/\/www.empireofthekop.com","template_url":"https:\/\/www.empireofthekop.com\/wp-content\/themes\/fanatix-2-0","theme_dfp_adunit_identifier":"EOTK","theme_replayfeed_url":"https:\/\/video.fanatix.com\/","theme_fanatixfeed_api_fetch_direct":"1","theme_fanatixfeed_api_path":"https:\/\/api.fanatix.com\/app-api\/1.5\/news\/all","theme_fanatixfeed_api_news_config":"fanatix-news-web","theme_fanatixfeed_api_app_id":"fanatix-news-web","theme_fanatixfeed_api_app_version":"1.0","theme_replayfeed_api_fetch_direct":"1","theme_replayfeed_api_path":"https:\/\/api.fanatix.com\/app-api\/1.6\/news\/replay","theme_replayfeed_api_app_id":"fanatix-news-web","theme_replayfeed_api_app_version":"8.3","theme_replayfeed_autoplay":"visible","theme_replayfeed_api_order":"latest","theme_replayfeed_attraction_id":"4d10fe7feb3eccefab04308e","theme_display_slider_categories":"1","theme_infinite_scroll_enabled":"1"};
+/* ]]> */
+</script>
+<script type="text/javascript" src="https://cdn.empireofthekop.com/wp-content/themes/fanatix-2-0/static/js/script.62.min.js"></script>
+<script type="text/javascript" src="https://cdn.empireofthekop.com/wp-includes/js/wp-embed.min.js?ver=4.9.9"></script>
+<script type="text/javascript" src="https://stats.wp.com/e-201913.js" async="async" defer="defer"></script>
+<script type="text/javascript">
+	_stq = window._stq || [];
+	_stq.push([ 'view', {v:'ext',j:'1:6.8.1',blog:'95610221',post:'174126',tz:'0',srv:'www.empireofthekop.com'} ]);
+	_stq.push([ 'clickTrackerInit', '95610221', '174126' ]);
+</script>
+<script type="text/javascript">
+//makes sure we don't log an imps if we're redirecting off to the interstitial as they won't have seen the page yet
+if(!fanatix.runtime.redirecting) {
+
+	if(fanatix.ads.dfp.enabled) {
+		fanatix.ads.dfp.init();
+
+		googletag.cmd.push(function() {
+//this breaks responsive ads, so disabling for now
+//			googletag.pubads().collapseEmptyDivs();
+
+			googletag.pubads().addEventListener('slotRenderEnded', function(event) {
+				if(event.slot==fanatix.ads.dfp.slots['dfp-ros-res-header']) {
+					if(!event.isEmpty && (event.size[0]!=320 || event.size[1]!=50))
+						$('#dfp-ros-res-header').css({width:event.size[0], height:event.size[1]});
+				}
+			});
+
+			fanatix.ads.dfp.activateSlot('dfp-ros-res-header');
+
+fanatix.ads.dfp.activateSlot('dfp-ros-fullscreen');
+			jQuery(document).ready(function($) {
+
+//this is a proxy for determining if we're on the "desktop" layout - this element has "show-for-large-up" on it so will only be :visible
+//at that breakpoint, regardless of what it is. So this'll still work if we change the CSS without needing modifying itself
+				$('#sidebar-mpu').remove();
+//				$('#sidebar-halfpage').remove();
+			});//jQuery(document).ready(function($) {
+
+		});//googletag.cmd.push(function() {
+	}//if(fanatix.ads.dfp.enabled) {
+
+
+	fanatix.ads.fb.init();//this also inits all the other fb widgets on the page, btw
+
+//twitter widgets
+	!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+"://platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");
+
+
+
+//actually check what the GEO is if needs be
+	if(fanatix.geo.callbacks.length)
+		document.write('<scr'+'ipt type="text/javascript" src="http://cdn.fanatix.com/resource/fanatix-geo/fanatix_geo-2.0.js"></scr'+'ipt>');
+
+}//if(!fanatix.runtime.redirecting)
+</script>
+
+
+</body></html>
