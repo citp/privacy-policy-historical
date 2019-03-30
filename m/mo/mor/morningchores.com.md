@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the morningchores.com privacy policy that was archived on 2018-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181227025430id_/https%3A//morningchores.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the morningchores.com privacy policy that was archived on 2019-03-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190330183216id_/https%3A//morningchores.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
