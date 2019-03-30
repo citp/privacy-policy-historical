@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the healthjobsuk.com privacy policy that was archived on 2018-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181222111811id_/https%3A//www.healthjobsuk.com/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the healthjobsuk.com privacy policy that was archived on 2019-03-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190330221906id_/https%3A//www.healthjobsuk.com/about/privacy) for the most accurate reproduction.*
 
-# About us
+# Privacy Notice
 
 ## Privacy Notice
 
@@ -24,7 +24,7 @@ Your account will also be erased automatically if you have not logged in for 73
 
 The data controller for this information is Trac Systems Ltd (www.trac.systems). Trac Systems provide an application tracking system, some recruitment support services and have staff and secure data storage located entirely in the UK.
 
-You may contact [dataprotection@trac.system](mailto:dataprotection@trac.system)s if you need to make an enquiry, a request for your personal information held as part of this candidate account, or to arrange for any mistakes to be corrected. If you have a complaint, please contact us so that we can investigate.
+You may contact [dataprotection@trac.systems](mailto:dataprotection@trac.systems) if you need to make an enquiry, a request for your personal information held as part of this candidate account, or to arrange for any mistakes to be corrected. If you have a complaint, please contact us so that we can investigate.
 
 The privacy notice pertaining to your candidate account is displayed on the login and account registration pages.
 
@@ -87,7 +87,7 @@ If you believe there is a mistake with your certificate, you should appeal this 
 
 Completed forms and result information are retained in this system for the time period specified by the DBS for providers who submit electronic checks. After that period they are deleted automatically.
 
-The lawfulness of processing is established under the General Data Protection Regulation article 6(1)(b) as necessary in order to provide you with the service described above and, usually, because it is a necessary step for the contract of employment for which the DBS check is being performed. If you have a complaint, please contact us at [dataprotection@trac.system](mailto:dataprotection@trac.system)s so that we can investigate.
+The lawfulness of processing is established under the General Data Protection Regulation article 6(1)(b) as necessary in order to provide you with the service described above and, usually, because it is a necessary step for the contract of employment for which the DBS check is being performed. If you have a complaint, please contact us at [dataprotection@trac.systems](mailto:dataprotection@trac.systems) so that we can investigate.
 
 ### Employer's talent pool
 
