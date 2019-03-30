@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the archpaper.com privacy policy that was archived on 2018-09-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180912000751id_/https%3A//archpaper.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the archpaper.com privacy policy that was archived on 2019-03-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190330223746id_/https%3A//archpaper.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Archpaper.com
 
