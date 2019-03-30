@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the freepostcodelottery.com privacy policy that was archived on 2018-08-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180815161302id_/https%3A//pickmypostcode.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freepostcodelottery.com privacy policy that was archived on 2019-03-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190330144146id_/https%3A//pickmypostcode.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy policy – Pick My Postcode
 
@@ -85,7 +85,7 @@ If you believe that a site linked to from Pick contains improper content or is m
 
 In order to provide a personalised experience on the Website, we store and process information related to each member’s account (‘Account Data’).
 
-The Account Data includes any email address and any postcode that the member has submitted to the Website. We also record the notifications preferences of each member and their individual answers to our in-house surveys on the survey draw. There are also optional settings for features on the Website such as the leaderboards, as well as advertising preferences. All of these settings can be controlled through your account page.
+The Account Data includes any email address and any postcode that the member has submitted to the Website. We also record the notifications preferences of each member and their individual answers to our In-house surveys on the survey draw. There are also optional settings for features on the Website such as the leaderboards, as well as advertising preferences. All of these settings can be controlled through your account page.
 
 The Account Data also includes how each member was referred to us (e.g. whether they conducted a Google search, clicked on an advert for Pick or were referred by an existing member or acquisition partner). This referral information will sometimes come through third parties and is used to calculate rewards for others members as well as fulfil contractual obligations we have towards third parties including acquisition partners.
 
@@ -123,7 +123,7 @@ Pick does not share any personally identifiable information it has collected abo
 
 By default the only data Pick shares with advertisers or potential advertisers will be anonymous and aggregated, in order for the advertiser or potential advertiser to better understand the general demographics of Pick’s members, measure the success of different kinds of advertisements with a view to serving more appropriate adverts. None of the data shared by Pick can be used to target a specific individual.
 
-Pick and its advertising partners, with the exception of Google, adhere to the Interactive Advertising Bureau’s Transparency and Consent Framework. The details of which can be found at (<https://advertisingconsent.eu/>) (‘Consent Framework’).
+Pick and its advertising partners, with the exception of Google, JW Player and Brid.tv, adhere to the Interactive Advertising Bureau’s Transparency and Consent Framework. The details of which can be found at (<https://advertisingconsent.eu/>) (‘Consent Framework’).
 
 The Consent Framework ensures that any advertisers on the Website are not permitted to process or store any personally identifiable information about you, including any data from third party sources, when serving you advertisements.
 
@@ -139,6 +139,12 @@ You are free to opt-out of Google AdX by visiting (<http://www.aboutads.info/cho
 
 If you have an account with Google, you can control the settings Google AdX uses by visiting your Google Account Page (<https://myaccount.google.com/>). To report or remove unwanted advertisements through Google AdX, please follow the guidance from Google at (<https://support.google.com/ads/answer/2662850>). The details of the cookies that Google AdX uses can be found in our Cookies Policy.
 
+The video players featured on the video draw do not utilise the Quantcast Consent Management Platform. Pick does not actively store, share or process any of your personal data to facilitate the display of the advertisements shown through the video player. Your data will be stored, shared and processed in accordance with the privacy policies of JW Player and Brid.tv, linked to in the useful references below.
+
+The use of video players is in the legitimate interests of both Pick and its members as it helps provide a better video experience and helps generate the prizes for the video draw.
+
+You are free to opt-out of interest-based advertising in the video players by visiting (<http://www.aboutads.info/choices>).
+
 ##### Useful References:
 
   * Your Online Choices (<http://www.youronlinechoices.com/uk/your-ad-choices>)
@@ -147,7 +153,8 @@ If you have an account with Google, you can control the settings Google AdX uses
   * Switch’s Privacy Policy (<https://www.switchconcepts.com/privacy-policy>)
   * Nativo’s Privacy Policy (<https://www.nativo.com/privacy-policy/>)
   * Good Loop’s Privacy Policy (<https://www.good-loop.com/privacy-policy>)
-  * JW Player’s Privacy Policy (<https://www.jwplayer.com/privacy-updated/>)
+  * JW Player’s Privacy Policy ([https://www.jwplayer.com/privacy-updated/](https://www.jwplayer.com/privacy/))
+  * Brid.tv's Privacy Policy (<https://cms.brid.tv/pages/view/privacy>)
   * Quantcast's Privacy Policy (<https://www.quantcast.com/en-uk/privacy/>)
   * Google's Privacy Policy (<https://www.google.com/policies/privacy/>)
 
@@ -213,6 +220,10 @@ The newsletter and important updates emails will contain general information abo
 
 Deactivation emails are sent to warn users before they become ineligible to claim prizes in the Draws. They do not contain any third party marketing and are sent on a weekly basis.
 
+##### Bonus offer confirmation emails
+
+These are transactional emails that confirm when you've completed a bonus offer on the site and include links to other bonus offers you may like to consider.
+
 ##### Messages from our trusted partners
 
 We do not currently have any trusted partners directly emailing our members.
@@ -221,7 +232,7 @@ If you are happy to receive emails direct from our trusted partners, you can reg
 
 By accepting the request, you consent for us to share your email address and any demographic information outlined in the request with the designated trusted partner. No information will be shared should you choose to decline the request.
 
-##### Offers in our emails
+##### Offers and advertisements in our emails
 
 Pick will take reasonable care to only include offers in our emails that are in-keeping with the tone and content of the Website. The offers will be in the following areas of interest:
 
@@ -242,6 +253,10 @@ Pick will take reasonable care to only include offers in our emails that are in-
 
 
 
+Our emails may also include advertisements provided by LiveIntent, which are subject to their privacy policy at (<https://liveintent.com/services-privacy-policy/>).
+
+In order for LiveIntent to display content through our emails, Pick generates a unique identifier and shares it with LiveIntent. By default this identifier is generated at random, ensuring a different identifier is used for each email that we send. Using a random identifier limits the data LiveIntent is able to process and will prevent them from personalising advertisements in subsequent emails. If you would like to see more relevant advertisements from LiveIntent, you can opt-in to personalisation from your account page.
+
 ##### Tracking our emails
 
 In order to better manage the emails we send to you, we collect data to see which emails to our members have been delivered, rejected, marked as spam/junk, opened and/or clicked on. To reduce the likelihood of Pick sending unwanted emails, we also work with third party mail providers that support feedback loops. Feedback loops let us know when you've clicked on the unsubscribe link or have marked us as junk or spam in an email application, so that we can automatically unsubscribe you and prevent you from receiving further emails.
@@ -256,19 +271,21 @@ The Website uses surveys to help us better understand our members and help gener
 
 ##### Pick survey tool
 
-The Pick survey tool is used to collect surveys on behalf of the Website. These are referred to as ‘In-house surveys’. To confirm a survey is an in-house survey, click on the ‘about your data’ link above the survey. If this opens a notice that confirms ‘Your data is being gathered by Pick’ the survey responses given are available for use by the Website only.
+The Pick survey tool is used to collect surveys on behalf of the Website and our sister site, Find Out Now ([https://findoutnow.co.uk](https://findoutnow.co.uk/)). These are referred to as ‘In-house surveys’. To confirm a survey is an In-house survey, click on the ‘about your data’ link above the survey. If this opens a notice that confirms ‘Your data is being gathered by PMP’ the responses are being given for an In-house survey.
 
-If the Pick survey tool is collecting responses on behalf of third parties, the ‘about your data’ notice will default to be open without the need for you to click on the ‘about your data’ link. The notice will confirm who the data is being collected on behalf of, how the data will be used and link to the relevant privacy policy. The Website will store and be able to process this data in the same way as In-house surveys.
+No personally identifiable information will be shared with third parties when taking part in an In-house survey, but we may generate and share summaries of the responses as part of an anonymous and aggregated report.
+
+The Website also uses the Pick survey tool responses to customise the offers and adverts seen by members on the Website and in Notifications.
+
+If the Pick survey tool is collecting personally identifiable responses on behalf of third parties, the ‘about your data’ notice will default to be open without the need for you to click on the ‘about your data’ link. The notice will confirm who the data is being collected on behalf of, how the data will be used and link to the relevant privacy policy. The data being shared with the third party will be limited to the responses to the question within the survey. Additionally, the Website will store and be able to process this data in the same way as In-house surveys.
 
 The Website will also pass the data collected in the responses to the third party stated in the ‘about your data’ notice, but will not share any Account Data with the third party unless it forms part of the freely given survey response.
 
-The Website uses the Pick survey tool responses to customise the offers and adverts seen by members on the Website and in Notifications.
-
-Any answers you supply to us can be viewed, updated, and deleted on your account page. 
+Any answers you supply to us through the Pick survey tool can be viewed, updated, and deleted on your account page.
 
 Where responses have been collected and shared to a third party, the account page will show a link the third party’s privacy policy to help the member view, correct or delete their responses with the third party.
 
-Please note this facility is only available where personally identifiable data (such as an email address) or a unique identifier (such as a user id) has been shared with the third party. Anonymous and aggregated statistics cannot be associated with an account.
+Please note this facility is only available where personally identifiable data (such as an email address) or a unique identifier (such as a user id) has been shared with the third party. Anonymous and aggregated statistics cannot be associated with an account and therefore cannot be amended or deleted.
 
 Members are free to skip surveys they do not wish to answer. Skipping will reveal the survey draw result.
 
@@ -312,7 +329,7 @@ Please also carefully consider the following information Pollfish have requested
 
 ### Third party tracking
 
-The Website shares limited information with third parties, including search engines, social media websites, affiliate networks and acquisition partners to help monitor traffic to the Website and understand where our visitors are coming from. This information is typically used to measure the success of different keywords in search engines, monitor the advertisement of our own services on other websites or reward affiliates and acquisition partners making referrals to the Website. 
+The Website shares limited information with third parties, including search engines, social media websites, analytics services, affiliate networks and acquisition partners to help monitor traffic to the Website and understand where our visitors are coming from and how they are using the Website. This information is typically used to measure the success of different keywords in search engines, monitor the advertisement of our own services on other website, reward affiliates and acquisition partners making referrals to the Website or record analytics on how the Website is being used, which includes recording information that allows us to recreate a simulation of a visit to the Website.
 
 The information shared is limited to the details of the keywords or advertisement and may include the use of a referral id and/or temporary unique identifier. It will also include the information required to make a connection, including your internet protocol address at the time the connection is made as well as details about your device and browser.
 
@@ -324,22 +341,25 @@ The third party tracking services will share aggregated and anonymous data with 
   * Facebook
   * Bing
   * Tradedoubler
+  * Hotjar
 
 
 
-You can opt-out of Google Analytics tracking by installing the opt-out tool available at: https://tools.google.com/dlpage/gaoptout?hl=en-GB
+You can opt-out of Google Analytics tracking by installing the opt-out tool available at (<https://tools.google.com/dlpage/gaoptout?hl=en-GB>)
 
-Please note this will opt-out of Google Analytics for all websites you visit for as long as the tool is active.  
+Please note this will opt-out of Google Analytics for all websites you visit for as long as the tool is active.
+
+To prevent us from recreating a simulation of your visits to the Website, you can opt-out of Hotjar's analytics by following the guidance at (<https://www.hotjar.com/legal/compliance/opt-out>)
 
 ### Changes
 
 Pick will occasionally update this Privacy Policy to reflect company and customer feedback. Pick encourages you to periodically review this Privacy Policy to be informed of any changes to how we deal with your information. To help you in doing so, the version and date of this policy are stated below.  
 
 **This Policy was last updated:**  
-Thursday, 31st May, 2018
+Thursday, 20th December, 2018
 
 **Policy Version:**  
-2.1
+2.2.3
 
 ### Your rights and our details 
 
