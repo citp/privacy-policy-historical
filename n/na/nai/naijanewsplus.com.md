@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the naijanewsplus.com privacy policy that was archived on 2018-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181231020536id_/http%3A//www.naijanewsplus.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the naijanewsplus.com privacy policy that was archived on 2019-03-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190330122810id_/https%3A//www.naijanewsplus.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
-[](http://www.naijanewsplus.com/privacy-policy/market-research-privacy-policy/)
+[](https://www.naijanewsplus.com/privacy-policy/market-research-privacy-policy/)
 
 This privacy policy has been compiled to better serve those who are concerned with how their ‘Personally identifiable information’ (PII) is being used online. PII, as used in US privacy law and information security, is information that can be used on its own or with other information to identify, contact, or locate a single person, or to identify an individual in context. Please read our privacy policy carefully to get a clear understanding of how we collect, use, protect or otherwise handle your Personally Identifiable Information in accordance with our website.
 
@@ -14,7 +14,7 @@ When ordering or registering on our site, as appropriate, you may be asked to en
 
 We collect information from you when you subscribe to a newsletter, fill out a form or enter information on our site.
 
-**Enjoyed the Video? Watch more XXX Below** [](http://hookupgist.com/sugar-mummy-emily-sent-you-private-message-respond-now/)
+Enjoyed the Video? Watch more XXX Below. Always Use Chrome Browser [](http://hookupgist.com/single-mom-dating-is-available-apply-now/)
 
 **How do we use your information?**
 
