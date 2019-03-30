@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the caradvice.com.au privacy policy that was archived on 2018-08-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180823151322id_/https%3A//www.caradvice.com.au/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the caradvice.com.au privacy policy that was archived on 2019-03-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190330111845id_/https%3A//www.caradvice.com.au/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -79,7 +79,7 @@ If we no longer need your personal information, unless we are required under Aus
 
 We will only collect, store, use or disclose personal information as set out in this Privacy Policy unless we are required by law to protect our rights or property (or those of any third party), or to avoid injury to any person. We may share personal information with our business partners in order for us to provide you with our services.
 
-Although the Site may link directly to websites operated by third parties ( **Linked Sites** ), you acknowledge that Linked Sites are not operated by us. We encourage you to always read the applicable Privacy Policy of any Linked Site on entering the Linked Site. We are not responsible for the content or practices of the Linked Sites nor their privacy policies regarding the collection, storage, use and disclosure of your personal information.
+Although the Site may link directly to websites operated by third parties including advertisers ( **Linked Sites** ), you acknowledge that Linked Sites are not operated by us. We encourage you to always read the applicable Privacy Policy of any Linked Site on entering the Linked Site. We are not responsible for the content or practices of the Linked Sites nor their privacy policies regarding the collection, storage, use and disclosure of your personal information.
 
 ### 6\. Cookies and Other Tracking Technologies
 
@@ -151,4 +151,8 @@ If you are not satisfied with the outcome of our assessment of your complaint, y
 
 CarAdvice Network aims to provide an exceptional level of service to our customers at all times. If you have any questions, or believe that a violation of this Privacy Policy may have occurred, please email us at privacy@caradvice.com.au or call us on (02) 9002 5233 and we will endeavour to respond to you within 5 business days.
 
-_Updated at 23rd May 2018_
+### 14\. European Residents
+
+CarAdvice operates in Australia but its pages are open to anyone. Anywhere. CarAdvice uses tracking technologies as set out at section 6 above, but does not otherwise monitor the behaviour of European residents. CarAdvice is not responsible for the actions of advertisers and other Linked Sites who may do so. It is the user’s responsibility to inform themselves of the policies of the Linked Site. 
+
+_Updated at 26th October 2018_
