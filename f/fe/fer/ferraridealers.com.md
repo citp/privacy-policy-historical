@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ferraridealers.com privacy policy that was archived on 2018-09-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180926123232id_/https%3A//auto.ferrari.com/en_EN/legal/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ferraridealers.com privacy policy that was archived on 2019-03-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190330105644id_/https%3A//auto.ferrari.com/en_EN/legal/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Ferrari GT - en-EN
 
