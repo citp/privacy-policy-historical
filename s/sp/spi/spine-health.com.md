@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the spine-health.com privacy policy that was archived on 2018-10-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181011200948id_/https%3A//www.veritashealth.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the spine-health.com privacy policy that was archived on 2019-03-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190330185420id_/https%3A//www.veritashealth.com/privacy-policy) for the most accurate reproduction.*
 
 # Veritas Health Privacy Policy | Veritas Health, LLC
 
@@ -11,9 +11,6 @@ This Privacy Policy (the “Policy”) describes how Veritas Health, LLC (“Ver
   * [Arthritis-health.com](https://www.arthritis-health.com/)
   * [Sports-health.com](https://www.sports-health.com/)
   * [Pain-health.com](https://www.pain-health.com/)
-  * [Spine-health.com/forum](https://www.spine-health.com/forum)
-  * [Arthritis-health.com/forum](https://www.arthritis-health.com/forum)
-  * [Sports-health.com/forum](https://www.sports-health.com/forum)
 
 
 
