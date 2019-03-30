@@ -1,90 +1,94 @@
-> *The following text is extracted and transformed from the rbs6nations.com privacy policy that was archived on 2013-10-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131015213524id_/http%3A//www.rbs6nations.com/en/733.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rbs6nations.com privacy policy that was archived on 2019-03-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190330182312id_/https%3A//www.sixnationsrugby.com/privacy-policy) for the most accurate reproduction.*
 
-# Official RBS 6 Nations Rugby : Privacy Policy
+# Six Nations Rugby | Privacy Policy
 
-This privacy policy describes how we use the information which we collect on our <http://www.rbs6nations.com/> website (the "website"). You do not have to give us any personal information in order to use most of our website. However, if you wish to register with us to receive newsletters you will need to provide us with certain additional information (including certain personally identifiable information). 
+### CONTROLLERS OF INFORMATION
 
-## Our commitment to privacy
+Any personal information provided to or gathered by our website is controlled by Six Nations Rugby Ltd., Simmonscourt Road, Ballsbridge, Dublin 4, Ireland. If you have any queries about this document or how we use your data, please contact:
 
-We may obtain information about you when you use the website. We are committed to protecting your privacy during your visits to the website and recognise our responsibility to keep the information you provide to us confidential at all times.
+[privacy@6nations.net](mailto:office@6nations.net "Email")  
+Ph: +353 (1) 669 0950
 
-## What information we collect and how we use your information
+We aim to process information about you fairly and in a transparent manner and the aim of this document is to provide you with sufficient information for you to be able to understand what we are doing with your data. If you are unsure how we are handling information about you or you think we could improve our privacy information please let us know.
 
-The types of information we collect includes such things as names, emails addresses and such other information as you may have provided us with from time to time. If you decide to provide us with information about yourself, we may use it to send you details about the products and services of 6 Nations and the Royal Bank of Scotland group companies. We may also send you bulletins or other information which we believe may be of interest to you. If at any time you do not want us to do this, please contact us at [info@6nations.net](mailto:info@6nations.net).  
-We use your information to improve our marketing, for administration and to provide our services to you. It is not our practice to disclose your personal information to any other parties or for any other reason, other than as set out on this website, without your prior consent. However, from time to time we may employ the services of a third party to help us in certain areas or our business (including for example for website hosting) and in such cases that third party may receive your information - we will however continue to control the use of your information.
+### WHAT INFORMATION DO WE COLLECT? HOW DO WE USE IT?
 
-## Cookies
+When you use our website and/or register with us we may collect, derive, combine, access, or otherwise process your personal information for the following purposes:
 
-EU Cookie directive
+1\. The monitoring of customer traffic patterns and website usage to help us to develop the design and layout of the website;
 
-From 26 May 2011 a new European Union directive requires us to gain the consent of our users to download cookies on to their machines. There are various methods we could use to gain users consent. For example, we could use pop-ups; prompting users to tick a box to confirm they give permission for us to download cookies on their machine.
+2\. Allowing you to logon to our website or application using social media, such as Facebook or Google+;
 
-Alternatively, we could use an online form that all users must complete before using the website.
+3\. Notifying you of Six Nations news and information, which we think, may be of interest to you including by email. We may also need to make contact via phone call in certain circumstances, typically in relation to competition prizes.
 
-We consider both of these solutions as obtrusive. We want our users find information and services quickly.
+4\. Offering, administering and providing products and services, such as the sale of goods.
 
-Therefore, we have taken the decision to promote how we use cookies on our website instead. This will enable users to make an informed decision whether they want to disable this feature.
+5\. Providing you with a more personalised user experience when using our application, website or any other services we might provide to you by analysing, segmenting and profiling our database and allowing us to target you with information we think you might be most interested in including products and services;
 
-There are links on our terms and conditions and disclaimer pages which are in the footer of every web page pointing to this information.
+6\. Sending you surveys for quality management purposes;
 
-What is a Cookie
+7\. Providing our sponsors with information they would need to assess the effects of their sponsoring and revenue generated by it.
 
-Information may be sent to your computer in the form of an Internet "cookie" to allow our servers to monitor your requirements. The cookie is stored on your computer. Our server may request that your computer return a cookie to it.
+### LEGAL BASIS FOR PROCESSING YOUR DATA
 
-These return cookies do not contain any information supplied by you or any personally identifiable information about you. However, we use cookies to keep track of your shopping cart when you are using the Six Nations Store Online.
+We undertake these activities in the pursuit of our legitimate interests as a commercial organisation including the marketing and promotion of our brand, products, and services and the promotion of the sport of rugby union and to fulfil any contractual obligations we may have when you make purchases from us.
 
-Such measures are necessary to allow Six Nations to measure the usability of the systems, which will help to continually improve user experience of our websites. Your browser software should however enable you to block cookies if you wish to. For more information about cookies, please visit <http://www.allaboutcookies.org/>.
+### AUTOMATED DECISION MAKING AND PROFILING
 
-Strictly Necessary Cookies
+We will use some of the data that we obtain about you to automatically build a profile of you to help us to understand our customers. We may, for example, engage with specialist marketing agencies to use your information to predict if you are likely to buy any products or services from us. This information may be used to determine which communications messages you receive and their frequency.
 
-These cookies are essential in order to enable you to move around the website and use its features, such as accessing secure areas of the website. Without these cookies services you have asked for, like shopping baskets or e-billing, cannot be provided.
+### CHILDREN BELOW THE AGE OF 18
 
-Performance Cookies
+If you are under the age of 18 you may register on the website to receive newsletters and other information but only with parental or guardian consent. You may only make purchases on our website or application if you are aged 18 or over or, if under 18, have received parental or guardian consent.
 
-These cookies collect information about how visitors use a website, for instance which pages visitors go to most often, and if they get error messages from web pages. These cookies don't collect information that identifies a visitor. All information these cookies collect is aggregated and therefore anonymous. It is only used to improve how a website works.
+### WHOM DO WE SHARE YOUR DATA WITH AND FOR WHAT PURPOSE?
 
-Functionality Cookies
+To optimise our services, and to provide you with the best user experience, we may share your personal information between our different group entities. Sharing of your personal information will only occur when this would be allowed given the purpose your personal information was initially collected for.To operate our web shop we have entered into a partnership with Sportfolio Europe LP. Any data that is provided to, collected by, or derived using the web shop is co-controlled by both Sportfolio and Six Nations Rugby Ltd. The use of the web shop is subject to its own privacy policy that can be found at <https://store.sixnationsrugby.com/pages/privacy-policy>.
 
-These cookies allow the website to remember choices you make (such as your user name, language or the region you are in) and provide enhanced, more personal features. For instance, a website may be able to provide you with local weather reports or traffic news by storing in a cookie the region in which you are currently located.
+Next to entities within our group, and our joint ventures with Sportfolio, we employ other companies and individuals to perform functions on our behalf such as delivering packages, analysing data, providing marketing assistance, sending out newsletters, processing credit card payments, and designing and operating our website. Such companies and individuals have access to your personal information for the purpose of carrying out this work only. These enterprises will not use your data for any other purpose and under no circumstances will these enterprises use any additional data about you to which they are party for any other purposes.
 
-These cookies can also be used to remember changes you have made to text size, fonts and other parts of web pages that you can customise. They may also be used to provide services you have asked for such as watching a video or commenting on a blog. The information these cookies collect may be anonymised and they cannot track your browsing activity on other websites.
+Diageo plc has placed a pixel on this site for the purposes of collecting visitor cookie data and retargeting users with relevant online advertising. Please see [Diageo’s privacy policy](https://footer.diageohorizon.com/dfs/assets/www.drinkiq.com/PrivacyPolicy_en.html?locale=en-gb&_sm_au_=iQVnTjrVTKFs8nJn) for more information.
 
-Targeting or Advertising Cookies
+We would like to share information about you with other rugby organisations to enable them to also contact you with information about their fixtures and other promotions including but not limited to the organisations listed below:
 
-These cookies are used to deliver adverts more relevant to you and your interests They are also used to limit the number of times you see an advertisement as well as help measure the effectiveness of the advertising campaign. They are usually placed by advertising networks with the website operator's permission. They remember that you have visited a website and this information is shared with other organisations such as advertisers. Quite often targeting or advertising cookies will be linked to site functionality provided by the other organisation.
+• The British & Irish Lions DAC
 
-Google Analytics
+We would also like to share information about you with our partners and sponsors to assist them to evaluate the effectiveness of their sponsorship program and to enable them to present commercial offers to you either directly or via our marketing and communications program and also to enable us to run an effective and attractive sponsorship and partnership program which is crucial for our commercial development.
 
-Six Nations uses Google Analytics, a web analytics service provided by Google. Google Analytics collects first party cookies, which are text files placed on your computer to collect standard internet log information and visitor behaviour. This information is sent to Google and is used to evaluate how our website is being used. This enables Six Nations to compile statistical reports. A full list of cookies used by Google Analytics and explanations on how these work are available on the Google code website. 
+### RETENTION
 
-Six Nations does not collect (nor allow any third party to collect) personally identifiable information of visitors to our site. We will not associate any data gathered with any personally identifying information. We will not link or seek to link an IP address with the identity of a computer user. In short, Google Analytics doesn't identify who you are, but it does track your movements on our websites.
+We collect personal information for specific purposes and on specific legal bases and endeavour to collect only the personal information required for those purposes. Once this purpose has been fulfilled and the personal information is no longer required, we will anonymise your data by removing any identifiable information or erase it.
 
-How to disable cookies
+### COOKIES
 
-You can stop cookies being downloaded on to your computer by selecting the appropriate settings on your browser. However please note that if you do this you may not be able to use the full functionality of this website.
+We use cookies on our website and enable users to decide whether they want to disable cookies via a box which is provided at the bottom of each web page and always served to first-time users. Visit our ‘[How do Six Nations Rugby use cookies](https://www.sixnationsrugby.com/how-we-use-cookies "To Cookie usage information")‘ page for further information.
 
-There is more information about cookies, including how to delete them on the website aboutcookies.org. You may also opt out of being tracked by Google Analytics.
+### YOUR RIGHTS
 
-Consent
+You have the right to request at reasonable intervals access to the personal information we have collected about you. Please refer any access request to [privacy@6nations.net](mailto:office@6nations.net "Email"). When requesting access to your personal data provide as much detail as possible about what personal data you would like access to and include in the subject line that it regards an access request.
 
-By using our website you consent to collection and use of any information you provide to us by Six Nations Limited for the purposes described above. If we amend our privacy policy, any changes will be published on this web site. If at any time you wish to update the information which we hold about you, or if you wish to stop receiving information from Six Nations, please contact us.
+If you so choose you may request us to rectify, erase or block the processing of your personal data if that personal data is no longer accurate, up-to-date or when the further processing of that personal date would be in violation of applicable data protection legislation.
 
-## Amendments
+You have a right to receive any personal data that you have provided to us in order to transfer it onto another data controller where the processing is based on consent and is carried out by automated means called a data portability request and you have the right to object to our processing of your personal data where the basis of the processing is our legitimate interests including but not limited to direct marketing and profiling. Please see above to determine which processing activities are carried out on the basis of our legitimate interests.
 
-We may modify, amend or replace this privacy policy from time to time at our sole discretion. If we do so then we will use our reasonably endeavours to post notice of such changes on the site.
+You have a right to information about how we are processing information about you and we have an obligation to processes only a minimum of data for specific, explicit and legitimate purposes in a fair, lawful and transparent manner. This privacy notice fulfils our obligations to provide you with information but you should contact us directly if you have any questions or concerns.
 
-## Links
+You have a right to lodge a complaint about any aspect of how we are handling your data with the Irish Data Protection Commissioner, who can be contacted [here](https://www.dataprotection.ie/docs/EN/Contact-us/m/11.htm "Email").
 
-Our website contains links to other websites. We are not responsible for the privacy practices of other websites. This privacy policy applies only to information collected by us on our website.
+### ANY QUESTIONS REGARDING YOUR PRIVACY?
 
-## Security
+We are happy to discuss privacy and data protection with you. Please contact [privacy@6nations.net](mailto:office@6nations.net "Email") or call Ph: +353 (1) 669 0950 if you have any questions.
 
-We take all appropriate steps to protect your information both online and offline. If you would like information on our security procedures please contact us using the details that are listed on Contact us section of the site.
+### SECURITY
 
-## Amending your Personal Information
+We endeavour to take all reasonable steps to protect your personal data including the use of encryption technology, but cannot guarantee the security of any data you disclose online. You accept the inherent security implications of sending information over the Internet and will not hold us responsible for any breach of security unless we have been negligent.
 
-If your personal information changes or if you no longer wish to receive our newsletter, please email us (at the address given in the Contact Us section and let us know by emailing [info@6nations.net](mailto:info@6nations.net) and we will correct, update and/or remove your details as soon as reasonably possible.
+### APPLICABLE DATA PROTECTION LAW
 
-## Contact Us
+This privacy notice has been based on the General Data Protection Regulation (GDPR). If you are subject to more stringent data protection legislation please refrain from using this website or any of our other services.
 
-If you have any questions about this policy please contact us by emailing [info@6nations.net](mailto:info@6nations.net) of using the details listed in Contact Us section of the site.
+### CHANGES TO THIS NOTICE
+
+We might periodically change this privacy notice. If we decide to change our privacy notice, we will post those changes on this page. We therefore recommend you re-visit this page periodically to check for changes.
+
+Version 24 May 2018
