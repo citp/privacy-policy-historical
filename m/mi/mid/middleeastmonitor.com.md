@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the middleeastmonitor.com privacy policy that was archived on 2018-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181215032128id_/https%3A//www.middleeastmonitor.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the middleeastmonitor.com privacy policy that was archived on 2019-03-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190330074850id_/https%3A//www.middleeastmonitor.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy – Middle East Monitor
 
@@ -28,7 +28,7 @@ We collect data primarily through three methods:
 
 
 
-**3.1 Use of Cookies**  
+ **3.1 Use of Cookies**  
 On our website, we collect some data through the use of cookies. Below are the types of cookies used by our website:
 
   * Essential Cookies: These are required for the proper functioning of the website. These cookies do not collect any Personal Data, and cannot be opted-out of.
@@ -40,10 +40,10 @@ On our website, we collect some data through the use of cookies. Below are the t
 
 ## 4\. How do we use the data we collect?
 
-**4.1 Personal Data**  
+ **4.1 Personal Data**  
 Personal data is used by us to deliver our service, including and not limited to, sending you regular email updates, sending you letters or books, registering you for one of events and responding to your enquiry.
 
-**4.2 Statistical Data**  
+ **4.2 Statistical Data**  
 Statistical data is used to help us improve our website and digital communications (social media, newsletter, etc), and to help us predict future trends.
 
 ## 5\. Do we share Personal Data?
