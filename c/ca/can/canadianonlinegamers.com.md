@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the canadianonlinegamers.com privacy policy that was archived on 2018-08-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180821233755id_/https%3A//cogconnected.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the canadianonlinegamers.com privacy policy that was archived on 2019-03-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190330102707id_/https%3A//cogconnected.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - COGconnected
 
