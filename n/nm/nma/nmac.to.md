@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nmac.to privacy policy that was archived on 2018-10-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181014011253id_/https%3A//nmac.to/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nmac.to privacy policy that was archived on 2019-03-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190330165337id_/https%3A//nmac.to/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | NMac Ked
 
