@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the inspiringsavings.com privacy policy that was archived on 2018-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181229115117id_/https%3A//www.inspiringsavings.com/welcome/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the inspiringsavings.com privacy policy that was archived on 2019-03-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190330051500id_/https%3A//www.inspiringsavings.com/welcome/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
