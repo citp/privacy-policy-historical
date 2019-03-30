@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the newsflare.com privacy policy that was archived on 2018-08-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180825065416id_/https%3A//www.newsflare.com/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the newsflare.com privacy policy that was archived on 2019-03-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190330173632id_/https%3A//www.newsflare.com/about/privacy) for the most accurate reproduction.*
 
 # Newsflare
 
@@ -114,8 +114,9 @@ We do not share with, nor sell, nor distribute your personal data to unrelated t
     * Mailchimp - email management
     * Mandrill - email management
     * Act-on – marketing automation
+    * HubSpot - marketing automation
     * Zendesk -  Customer service software
-    * Intercom - Messaging products for sales, marketing and support
+    * HubSpot -  Customer-relationship management
     * Keen.io - Analytics for user-based events
     * Filestack - File upload service
     * Jwplayer - Web-based video player
