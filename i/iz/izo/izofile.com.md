@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the izofile.com privacy policy that was archived on 2017-10-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171025115752id_/http%3A//izofile.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the izofile.com privacy policy that was archived on 2019-03-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190330100006id_/https%3A//izofile.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
-HERE IS THE PRIVACY & POLICY STATEMENT FOR http://izofile.com and http://www.izofile.com
+HERE IS THE PRIVACY & POLICY STATEMENT FOR https://izofile.com and https://www.izofile.com
 
 **EMAIL ADDRESS**
 
