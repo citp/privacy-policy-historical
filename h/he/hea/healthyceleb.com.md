@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the healthyceleb.com privacy policy that was archived on 2018-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181222022638id_/https%3A//healthyceleb.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the healthyceleb.com privacy policy that was archived on 2019-03-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190331002334id_/https%3A//healthyceleb.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Healthy Celeb
 
