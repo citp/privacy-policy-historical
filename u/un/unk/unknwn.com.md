@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the unknwn.com privacy policy that was archived on 2017-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170618082314id_/https%3A//www.unknwn.com/pages/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the unknwn.com privacy policy that was archived on 2019-03-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190330220048id_/https%3A//www.unknwn.com/pages/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy – UNKNWN
 
 **PRIVACY POLICY**
 
-**Effective Date: JUNE 20, 2016**
+**Effective Date: May 24, 2018**
 
 UNKNWN values your privacy. This Privacy Policy tells you how UNKNWN treats the information it collects through its website and mobile app (collectively, the "Properties").
 
@@ -24,13 +24,13 @@ UNKNWN does not share customer information outside the UNKNWN family unless it i
 
 UNKNWN uses cookies in order to improve your shopping experience. Cookies help us keep track of your order as you shop on our Properties. We also use cookies to recognize registered customers when they visit our Properties and to provide them with their account information. If you register with or order from us, we use cookies to monitor and maintain information about your use of our Properties. If you have not registered with or ordered from us, we may monitor and maintain information about your use of our website in a manner that does not identify you.
 
-You can refuse cookies by turning them off in your browser. If you turn off cookies, though, we will not be able to track your order to enable you to purchase from our site.
+You can refuse cookies by turning them off in your browser. If you turn off cookies, though, we may not be able to track your order to enable you to purchase from our site.
 
 **INTEREST-BASED ADVERTISING**
 
-We use third-party advertising companies to serve ads when you visit our Properties. These companies may use cookies or other technologies to collect non-personal information about your visits to our Properties and other online properties in order to provide advertisements about goods and services of interest to you. We may also partner with ad networks and other companies that serve ads on behalf of us and others on non-affiliated web sites. Some of those ads may be personalized, meaning that they are intended to be relevant to you based on information these ad networks collect about your visits to our web site and other non-affiliated web sites or apps over time.
+We use third-party advertising companies, including Google Analytics and Google Adwords, to serve ads when you visit our Properties. These companies may use cookies or other technologies to collect non-personal information about your visits to our Properties and other online properties in order to provide advertisements about goods and services of interest to you. We may also partner with ad networks and other companies that serve ads on behalf of us and others on non-affiliated web sites. Some of those ads may be personalized, meaning that they are intended to be relevant to you based on information these ad networks collect about your visits to our web site and other non-affiliated web sites or apps over time.
 
-You may visit [www.aboutads.info/choices](http://www.aboutads.info/choices "www.aboutads.info/choices") to learn more about interest-based advertising and hot to opt-out of this form of advertising on your web browser by companies participating in the Digital Advertising Alliance ("DAA") self-regulatory program. If you wish to opt-out of interest-based advertising in mobile apps on your device by companies that participate in the DAA’s AppChoices app, you may download that app onto your device and exercise your choice. AppChoices is available at the links below:
+You may visit the Network Advertising Initiative [optout.networkadvertising.org](https://optout.networkadvertising.org/) or [aboutads.info/choices](https://www.aboutads.info/choices "aboutads.info/choices") to learn more about interest-based advertising and how to opt-out of this form of advertising on your web browser by companies participating in the Digital Advertising Alliance ("DAA") self-regulatory program. If you wish to opt-out of interest-based advertising in mobile apps on your device by companies that participate in the DAA’s AppChoices app, you may download that app onto your device and exercise your choice. AppChoices is available at the links below:
 
 [DAA AppChoices iOS](https://itunes.apple.com/us/app/appchoices/id894822870?mt=8)
 
@@ -39,6 +39,8 @@ You may visit [www.aboutads.info/choices](http://www.aboutads.info/choices "www.
 [DAA AppChoices Amazon](http://www.amazon.com/Digital-Advertising-Alliance-AppChoices/dp/B00SVQ4FMO)
 
 You may also limit data collection by third parties by using your mobile device settings. Please note that electing to opt-out will not stop advertising from appearing in your browser or applications. It may make the ads you see less relevant to your interests. Additionally, please note that if you use a different browser or erase cookies from your browser, or use a different mobile device, you may need to renew your opt-out choices.
+
+Google provides ways to manage or opt out certain of its advertising cookies ([adssettings.google.com](https://adssettings.google.com/)) and analytics cookies ([tools.google.com/dlpage/gaoptout](https://tools.google.com/dlpage/gaoptout)). You may read Google’s Privacy Policy at [policies.google.com/privacy](https://policies.google.com/privacy).
 
 **DATA STORAGE**
 
