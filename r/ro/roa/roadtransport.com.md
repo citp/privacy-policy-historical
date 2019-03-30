@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the roadtransport.com privacy policy that was archived on 2018-08-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180816201558id_/https%3A//dvvpolicy.com) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the roadtransport.com privacy policy that was archived on 2019-03-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190330165221id_/https%3A//dvvpolicy.com) for the most accurate reproduction.*
 
 # None
 
@@ -14,7 +14,7 @@
   6. Do we process any sensitive personal data about you?
   7. Sharing your data
   8. Transferring your personal data outside the EEA
-  9. What if you don’t want to share your personal data with us?
+  9. What if you don't want to share your personal data with us?
   10. What should you do if your personal data changes?
   11. How do we keep your data secure?
   12. For how long do we retain your personal data?
@@ -55,14 +55,17 @@ DVV Media International Limited is the UK arm of the global publishing company D
   * Railway Directory
   * Metro Report International
   * Occupational Health
+  * Heavy Lift & Project Forwarding International
+  * Heavy Lift Awards
+  * SmartRail World
 
 
 
-For simplicity throughout this policy, ‘we’ and ‘us’ mean DVV Media International and the above publications.
+For simplicity throughout this policy, 'we' and 'us' mean DVV Media International and the above publications.
 
-When you interact with our websites, buy our subscriptions and use our services we are the “data controller”. This means that we are responsible for deciding how we hold and use personal data about you. We are required under the General Data Protection Regulation 2016 (the “GDPR”) to notify you of the information contained in this privacy policy.
+When you interact with our websites, buy our subscriptions and use our services we are the "data controller". This means that we are responsible for deciding how we hold and use personal data about you. We are required under the General Data Protection Regulation 2016 (the "GDPR") to notify you of the information contained in this privacy policy.
 
-We have a dedicated data protection officer (“DPO”). You can contact the DPO by writing to the above address, marked for the attention of the DPO. Alternatively, you can email [dataprotection@dvvmediainternational](mailto:dataprotection@dvvmediainternational)
+We have a dedicated data protection officer ("DPO"). You can contact the DPO by writing to the above address, marked for the attention of the DPO. Alternatively, you can email [dataprotection@dvvmediainternational](mailto:dataprotection@dvvmediainternational)
 
 **THIRD-PARTY LINKS**
 
@@ -143,6 +146,7 @@ l)| To update your records and contact details to contact you about your account
 m)| To use data analytics and website cookies to improve our websites, products, services, marketing, customer relationships and experiences  
 n)| To deliver relevant website content and advertisements to you and measure or understand the effectiveness of the advertising   
 o)| For management and audit of our business operations  
+p)| To send regularly scheduled email newsletters related to the products or services you are enrolled in  
   
 **With your consent or explicit consent,** such as:
 
@@ -195,7 +199,7 @@ We may, from time to time, expand, reduce or sell our publications and this may 
 
 ### 8\. Transferring your personal data outside the EEA
 
-We are based in the UK but on occasion may transfer your personal data outside the European Economic Area (“EEA”).
+We are based in the UK but on occasion may transfer your personal data outside the European Economic Area (â€œEEAâ€).
 
 **Examples of situations where we may transfer your personal data outside the EEA**
 
@@ -204,7 +208,7 @@ We are based in the UK but on occasion may transfer your personal data outside t
 
 
 
-### 9\. What if you don’t want to share your personal data with us?
+### 9\. What if you don't want to share your personal data with us?
 
 If you fail to provide certain information when requested, we may not be able to provide you with our content, products or services.
 
@@ -262,7 +266,7 @@ There are several ways you can stop direct marketing communications from us:
 
   * Opt out of receiving promotional emails and marketing when you create your account or subscribe to any of our content.
   * If you have an account, log in and change your preferences.
-  * Click the ‘unsubscribe’ link in any email communication we send you. We will then stop sending you any further emails from that particular publication or newsletter.
+  * Click the 'unsubscribe' link in any email communication we send you. We will then stop sending you any further emails from that particular publication or newsletter.
   * Contact our DPO at [inbound@roadtransport.com](mailto:inbound@roadtransport.com) or write to Data Protection Officer, DVV Media International Limited of 6th Floor, Chancery House, St Nicholas Way, Sutton, Surrey, SM1 1JB
 
 
