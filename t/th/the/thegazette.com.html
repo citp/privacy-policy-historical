@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the thegazette.com privacy policy that was archived on 2018-09-27.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20180927130653id_/https%3A//www.thegazette.com/policies) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the thegazette.com privacy policy that was archived on 2019-03-30.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20190330201016id_/https%3A//www.thegazette.com/policies) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html class="no-js"><head>
     	   	<!--Social Meta Tags-->
@@ -19,13 +19,13 @@
 	<meta property="fb:app_id" content="163646090334606">
 	<link rel="shortcut icon" href="https://www.thegazette.com/favicon.ico">
 	<!-- Social meta tags -->
-  	<title> Policies | The Gazette</title>
+<title> Policies | The Gazette</title>
 <meta property="bt:title" content="Policies">
 <meta property="twitter:title" content="Policies">
 <meta property="og:title" content="Policies">
 <!-- <meta property="x:field_position_description" content=""> -->
-<link rel="canonical" href="https://www.thegazette.com/policies">
-<link rel="amphtml" href="https://www.thegazette.com/policies?template=amphtml">
+  <link rel="canonical" href="https://www.thegazette.com/policies">
+  <link rel="amphtml" href="https://www.thegazette.com/policies?template=amphtml">
 <!--Piano-->
 <meta name="section" content="">
 <!--Boomtrain-->
@@ -34,7 +34,6 @@
 <meta property="bt:modDate" content="2018-03-27T17:06:00-05:00">
 <!--Facebook-->
 <meta property="og:type" content="article">
-<meta property="og:article:section" content="Default">
 <meta property="og:url" content="https://www.thegazette.com/policies">
   <meta property="og:image" itemprop="image" content="/images/gaz_static-rotatorimg.jpg">
   <meta name="twitter:image" content="/images/gaz_static-rotatorimg.jpg">
@@ -49,9 +48,9 @@ At The Gazette Company, we are committed to protecting the privacy, accuracy and
 At The Gazette Company, we are committed to protecting the privacy, accuracy and reliability of any personal information you choose to provide and to safeguarding such information from loss, misuse, unauthorized access, disclosure, alteration and distraction. This privacy policy applies to all news product website that are a part of The Gazette Company."><!--EndTwitterDescription-->
 	<!-- CSS Includes -->
 	<link rel="stylesheet" type="text/css" href="/CSS/materialize.min.css">
-	<link rel="stylesheet" type="text/css" href="/CSS/style.css?ver=41444">
+	<link rel="stylesheet" type="text/css" href="/CSS/style.css?ver=59">
 	<link href="https://fonts.googleapis.com/css?family=Lora:400,400i,700,700i|Montserrat:400,400i,600,600i,700,700i,800,900" rel="stylesheet">
-	<script async="" src="https://cdn.boomtrain.com/p13n/e9cd7a8ae2406275f6afb01b679ebf69/p13n.min.js"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script type="text/javascript" async="" src="https://experience.tinypass.com/xbuilder/experience/load?aid=d4XLDKwgVK"></script><script async="" type="text/javascript" src="/JS/min/prebid.min.js"></script><script async="" type="text/javascript" src="//www.googletagservices.com/tag/js/gpt.js"></script><script src="https://tag.contextweb.com/pba.js" async="" type="text/javascript"></script><script src="/JS/jquery-3.2.1.min.js?ver=2"></script>
+	<script async="" src="https://cdn.boomtrain.com/p13n/e9cd7a8ae2406275f6afb01b679ebf69/p13n.min.js"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script type="text/javascript" async="" src="https://experience.tinypass.com/xbuilder/experience/load?aid=d4XLDKwgVK"></script><script type="text/javascript" async="" src="//static.chartbeat.com/js/chartbeat.js"></script><script async="" src="https://unequalbrake.com/v2/0/dzzfqXbHrbTwnR6hH0UiN6BgOFG9OYKaRdBfrd2gVCPfK2rBahYfAfiNodQYKKk_RRluYpRFNxRzvDWQZw"></script><script async="" type="text/javascript" src="/JS/min/prebid.min.js"></script><script async="" type="text/javascript" src="//www.googletagservices.com/tag/js/gpt.js"></script><script async="" src="//c.amazon-adsystem.com/aax2/apstag.js"></script><script src="/JS/jquery-3.2.1.min.js?ver=2"></script>
 	<script>
 	var DFP_sitepage = '';
 	var locationPath = window.location.pathname;
@@ -69,6 +68,7 @@ At The Gazette Company, we are committed to protecting the privacy, accuracy and
   var realname;
   var dimension3Value = "default";
   var activeUser;
+  var userID; 
  /*Ad Block Monitoring Script*/
 document.cookie = "__adblocker=; expires=Thu, 01 Jan 1970 00:00:00 GMT; path=/";
 var setNptTechAdblockerCookie = function(adblocker) {
@@ -82,113 +82,122 @@ script.setAttribute("src", "//www.npttech.com/advertising.js");
 script.setAttribute("onerror", "setNptTechAdblockerCookie(true);");
 document.getElementsByTagName("head")[0].appendChild(script);
 function ta_paywallLoaded(json_userInfo){
-    var usr = null;
-    //console.log("in ta paywall function");
-    try {
-        usr = JSON.parse(json_userInfo);
-        console.log(usr);
-    } catch (exc) {
-        //user is not logged in or Tecnavia sent non-json data
-    }
-    if (usr && usr.username && usr.username.length > 1){
-		tp.push(["setCustomVariable","loggedin","true"])
-		accesslevel = "registered";
-		subType = "none";
-		//console.log(usr);
-		//none,full,registered,news,sports
-		var rateCode = String(usr.currentratecode);
-		if(rateCode.toLowerCase().search(/gazcnmds\d+/) !== -1){
-			accesslevel = "news";
-			subType = "news only"
-		}
-		else if(rateCode.toLowerCase().search(/gazcsmds\d+/) !== -1){
-			accesslevel = "sports";
-			subType = "sports only"		
-		}
-		else if(rateCode.toLowerCase().search(/gaz7day\d+/) !== -1 || rateCode.toLowerCase().search(/gazmds\d+/) !== -1){
-			accesslevel = "full";
-			subType = "7 day";		
-		}
-		else if(rateCode.toLowerCase().search(/gazmonsatftpyrlemp\d+/) !== -1 || rateCode.toLowerCase().search(/gazmms\d+/) !== -1){
-			accesslevel = "full";
-			subType = "6 day";	
-		}
-		else if(rateCode.toLowerCase().search(/gazmmf\d+/) !== -1){
-			accesslevel = "full";
-			subType = "5 day";	
-		}
-		else if(rateCode.toLowerCase().search(/gazcmds\d+/) !== -1 || rateCode.toLowerCase() == "gazcm99centmonth"){
-			accesslevel = "full";
-			subType = "com only";	
-		}
-		else if(rateCode.toLowerCase().search(/comgrds\d+/) !== -1){
-			accesslevel = "full";
-			subType = "com and gg";	
-		}
-		else if(rateCode.toLowerCase().search(/comgrds\d+/) !== -1){
-			accesslevel = "full";
-			subType = "com and gg";	
-		}
-		else if(rateCode.toLowerCase().search(/gazxcmso\d+/) !== -1){
-			accesslevel = "full";
-			subType = "sunday and com";	
-		}
-		else if(rateCode.toLowerCase().search(/gazxocmso\d+/) !== -1){
-			accesslevel = "full";
-			subType = "sunday and com and gg";	
-		}
-		else if(rateCode.toLowerCase().search(/gazxocmss\d+/) !== -1){
-			accesslevel = "full";
-			subType = "weekend and com and gg";	
-		}
-		else if(rateCode.toLowerCase().search(/gazxcmssml\d+/) !== -1 || rateCode.toLowerCase().search(/gazxcmss\d+/) !== -1){
-			accesslevel = "full";
-			subType = "weekend and com";	
-		}
-		else if(rateCode.toLowerCase().search(/gazmss\d+/) !== -1 || rateCode.toLowerCase().search(/gazsatsunftemp\d+/) !== -1 || rateCode.toLowerCase().search(/gazsatsunftpyrlemp\d+/) !== -1 || rateCode.toLowerCase().search(/gazsatsunmtremp\d+/) !== -1 || rateCode.toLowerCase().search(/gazsatsunmtrhdcarr\d+/) !== -1 || rateCode.toLowerCase().search(/gazsatsunmtrpyrlemp\d+/) !== -1){
-			accesslevel = "subscribed";
-			subType = "weekend";	
-		}
-		else if(rateCode.toLowerCase().search(/gazmso\d+/) !== -1 || rateCode.toLowerCase().search(/gazsunftemp\d+/) !== -1 || rateCode.toLowerCase().search(/gazsunftpyrlemp\d+/) !== -1 || rateCode.toLowerCase().search(/gazsunmtremp\d+/) !== -1 || rateCode.toLowerCase().search(/gazxmsoml\d+/) !== -1){
-			accesslevel = "subscribed";
-			subType = "sunday";	
-		}
-		else if(rateCode.toLowerCase().search(/gazomds\d+/) !== -1){
-			accesslevel = "subscribed";
-			subType = "green";			
-		}
-		else if(rateCode.toLowerCase().search(/gazxmso\d+/) !== -1){
-			accesslevel = "subscribed";
-			subType = "sunday and green";			
-		}
-		else if(rateCode.toLowerCase().search(/gazxmss\d+/) !== -1){
-			accesslevel = "subscribed";
-			subType = "weekend and green";			
-		}
+  var usr = null;
+  //console.log("in ta paywall function");
+  try {
+      usr = JSON.parse(json_userInfo);
+      //console.log(usr);
+  } catch (exc) {
+      //user is not logged in or Tecnavia sent non-json data
+  }
+  if (usr && usr.username && usr.username.length > 1){
+	tp.push(["setCustomVariable","loggedin","true"])
+	accesslevel = "registered";
+	userID = usr["cust id"];
+;
+	subType = "none";
+	//console.log(usr);
+	//none,full,registered,news,sports
+	var rateCode = String(usr.currentratecode);
+	if(rateCode.toLowerCase().search(/gazcnmds\d+/) !== -1){
+		accesslevel = "news";
+		subType = "news only"
+	}
+	else if(rateCode.toLowerCase().search(/gazcsmds\d+/) !== -1){
+		accesslevel = "sports";
+		subType = "sports only"		
+	}
+	else if(rateCode.toLowerCase().search(/gaz7day\d+/) !== -1 || rateCode.toLowerCase().search(/gazmds\d+/) !== -1){
+		accesslevel = "full";
+		subType = "7 day";		
+	}
+	else if(rateCode.toLowerCase() == "gaz7dayftpyrlemp" ){
+		accesslevel = "full";
+		subType = "7 day";	
+	}
+	else if(rateCode.toLowerCase().search(/gazmonsatftpyrlemp\d+/) !== -1 || rateCode.toLowerCase().search(/gazmms\d+/) !== -1){
+		accesslevel = "full";
+		subType = "6 day";	
+	}
+	else if(rateCode.toLowerCase().search(/gazmmf\d+/) !== -1){
+		accesslevel = "full";
+		subType = "5 day";	
+	}
+	else if(rateCode.toLowerCase().search(/gazcmds\d+/) !== -1 || rateCode.toLowerCase() == "gazcm99centmonth"){
+		accesslevel = "full";
+		subType = "com only";	
+	}
+	else if(rateCode.toLowerCase().search(/comgrds\d+/) !== -1){
+		accesslevel = "full";
+		subType = "com and gg";	
+	}
+	else if(rateCode.toLowerCase().search(/comgrds\d+/) !== -1){
+		accesslevel = "full";
+		subType = "com and gg";	
+	}
+	else if(rateCode.toLowerCase().search(/gazxcmso\d+/) !== -1){
+		accesslevel = "full";
+		subType = "sunday and com";	
+	}
+	else if(rateCode.toLowerCase().search(/gazxocmso\d+/) !== -1){
+		accesslevel = "full";
+		subType = "sunday and com and gg";	
+	}
+	else if(rateCode.toLowerCase().search(/gazxocmss\d+/) !== -1){
+		accesslevel = "full";
+		subType = "weekend and com and gg";	
+	}
+	else if(rateCode.toLowerCase().search(/gazxcmssml\d+/) !== -1 || rateCode.toLowerCase().search(/gazxcmss\d+/) !== -1){
+		accesslevel = "full";
+		subType = "weekend and com";	
+	}
+	else if(rateCode.toLowerCase().search(/gazmss\d+/) !== -1 || rateCode.toLowerCase().search(/gazsatsunftemp\d+/) !== -1 || rateCode.toLowerCase().search(/gazsatsunftpyrlemp\d+/) !== -1 || rateCode.toLowerCase().search(/gazsatsunmtremp\d+/) !== -1 || rateCode.toLowerCase().search(/gazsatsunmtrhdcarr\d+/) !== -1 || rateCode.toLowerCase().search(/gazsatsunmtrpyrlemp\d+/) !== -1){
+		accesslevel = "subscribed";
+		subType = "weekend";	
+	}
+	else if(rateCode.toLowerCase().search(/gazmso\d+/) !== -1 || rateCode.toLowerCase().search(/gazsunftemp\d+/) !== -1 || rateCode.toLowerCase().search(/gazsunftpyrlemp\d+/) !== -1 || rateCode.toLowerCase().search(/gazsunmtremp\d+/) !== -1 || rateCode.toLowerCase().search(/gazxmsoml\d+/) !== -1){
+		accesslevel = "subscribed";
+		subType = "sunday";	
+	}
+	else if(rateCode.toLowerCase().search(/gazomds\d+/) !== -1){
+		accesslevel = "subscribed";
+		subType = "green";			
+	}
+	else if(rateCode.toLowerCase().search(/gazxmso\d+/) !== -1){
+		accesslevel = "subscribed";
+		subType = "sunday and green";			
+	}
+	else if(rateCode.toLowerCase().search(/gazxmss\d+/) !== -1){
+		accesslevel = "subscribed";
+		subType = "weekend and green";			
+	}
+	//console.log(accesslevel);
+	//console.log(subType);
+	username = usr.username;
+	activeUser = usr;
+	tp.push(["setCustomVariable","username",usr.username]);
+	tp.push(["setCustomVariable","firstname",usr.firstname]);
+	tp.push(["setCustomVariable","lastname",usr.lastname]);
+	tp.push(["setCustomVariable","zipcode",usr.zip]);
+	tp.push(["setCustomVariable","city",usr.town]);
+	tp.push(["setCustomVariable","state",usr.state]);
+	tp.push(["setCustomVariable","subscription",usr.deliveryscheduleid]);
+	tp.push(["setCustomVariable","subid",usr.userid]);
+	tp.push(["setCustomVariable","accesslevel", accesslevel]);
+	tp.push(["setCustomVariable","subtype", subType]);
+	if(userID != null){
+		check_user(userID);
+	}
+	setAccess(accesslevel);
+	//console.log("in registered portion");
+  } else {
+		//console.log("in non registered portion");
+		accesslevel = "none";
 		//console.log(accesslevel);
 		//console.log(subType);
-		username = usr.username;
-		activeUser = usr;
-		tp.push(["setCustomVariable","username",usr.username]);
-		tp.push(["setCustomVariable","firstname",usr.firstname]);
-		tp.push(["setCustomVariable","lastname",usr.lastname]);
-		tp.push(["setCustomVariable","zipcode",usr.zip]);
-		tp.push(["setCustomVariable","city",usr.town]);
-		tp.push(["setCustomVariable","state",usr.state]);
-		tp.push(["setCustomVariable","subscription",usr.deliveryscheduleid]);
-		tp.push(["setCustomVariable","subid",usr.userid]);
-		tp.push(["setCustomVariable","accesslevel", accesslevel]);
-		tp.push(["setCustomVariable","subtype", subType]);
+		tp.push(["setCustomVariable","accesslevel", "none"]);
 		setAccess(accesslevel);
-		//console.log("in registered portion");
-    } else {
-			//console.log("in non registered portion");
-			accesslevel = "none";
-			//console.log(accesslevel);
-			//console.log(subType);
-			tp.push(["setCustomVariable","accesslevel", "none"]);
-			setAccess(accesslevel);
-    }
+  }
 	tp.push(["init", function(){
 		tp.experience.init();
 	}]);
@@ -225,25 +234,93 @@ function ta_afterLogout() {
 	//special request to redirect the user after logout ONLY on the cedar rapids rewards site
 	location.reload();
 }
-	function setAccess(access){
-		$( document ).ready(function() {
-			//console.log("THIS IS ACCESS LEVEL");
-			//console.log(access);
-			if(access == "none"){
-				//console.log("in a logged out space")
-				//$("#login-logout-text").html("LOGOUT/MANAGE")
-				//$(".logged-in").show();
-				$(".logged-out").show();
-				try { _402_Show(); } catch(e) {}
-			}
-			else{
-				//console.log("in a logged in space")
-				$(".logged-in").show();
-				$("#subscriber-name").html(username.toLowerCase());
-				//$("#login-logout-text").html("LOGIN/SUBSCRIBE")
-			}
-		});
+function setAccess(access){
+	$( document ).ready(function() {
+		//console.log("IN SET ACCESS");
+		//console.log("THIS IS ACCESS LEVEL");
+		//console.log(access);
+		if(access == "none"){
+			//console.log("in a logged out space")
+			//$("#login-logout-text").html("LOGOUT/MANAGE")
+			//$(".logged-in").show();
+			$(".logged-out").show();
+			try { _402_Show(); } catch(e) {}		
+		}else{
+			//console.log("in a logged in space")
+			$(".logged-in").show();
+			$("#subscriber-name").html(username.toLowerCase());
+			//$("#login-logout-text").html("LOGIN/SUBSCRIBE")
+		}
+	});
+}
+//USER COOKIE DATA SET
+  function setCookie(cname, cvalue, exdays) {
+    var d = new Date();
+    d.setTime(d.getTime() + (exdays * 24 * 60 * 60 * 1000));
+    var expires = "expires="+d.toUTCString();
+    document.cookie = cname + "=" + cvalue + ";" + expires + ";path=/";
+  }
+  function getCookie(cname) {
+    var name = cname + "=";
+    var ca = document.cookie.split(';');
+    for(var i = 0; i < ca.length; i++) {
+      var c = ca[i];
+      while (c.charAt(0) == ' ') {
+        c = c.substring(1);
+      }
+      if (c.indexOf(name) == 0) {
+        return c.substring(name.length, c.length);
+      }
+    }
+    return "";
+  }
+  function check_user(extid) {
+    var cookie_name = "user_api_"+extid;
+    var user_cookie = getCookie(cookie_name);
+    if (user_cookie == "") {
+      // cookie is blank
+      // perform API call
+      var result = {};
+      //var url = "/users/api?extid="+extid // dev
+      //var url = "https://rewards.thegazette.com/users/api?extid="+extid // prod
+      var url = "http://rewards.staging.thegazette.com/users/api?extid="+extid // stage
+      $.ajax(url).done(function(response,status){
+        result = response;
+        if(result.error=="true"){
+          //don't save the cookie
+          //console.log("error calling the user_api");
+          setCookie(cookie_name,"{}",1);
+          return {};
+        } else {
+          setCookie(cookie_name,JSON.stringify(result),7);
+          //console.log("called api -- result: ")
+          //console.log(result);
+          //PUSH DATA UP TO PIANO
+          updateUserCookieData(result);
+          return result;
+        }        
+      });
+    } else {
+      // cookie is not blank
+      // read cookie value
+      var user = JSON.parse(user_cookie);
+      updateUserCookieData(user);
+      return user;
+    }
+  }
+  function clear_cookie(extid) {
+    var cookie_name = "user_api_"+extid;
+    setCookie(cookie_name,"",-1);
+  }
+function updateUserCookieData(object){
+	//console.log(object);
+	if(object.rewards_status!= null){
+		tp.push(["setCustomVariable","rewards",object.rewards_status]);
 	}
+	if(object.total_points != null){
+		tp.push(["setCustomVariable","points",object.total_points]);
+	}
+}
 </script><script async="true" src="//www.npttech.com/advertising.js" onerror="setNptTechAdblockerCookie(true);"></script>
 	<script>tp.push(["setContentSection", "Article"]);
 		//PYM JS INCLUDE
@@ -252,29 +329,37 @@ function ta_afterLogout() {
 		//Google Surveys Initializer Script
 	</script>
 	<script>
-  function spinAccessLevel(adfunction){
-    var startStamp = Date.now();
-      var accessCheck = setInterval(function(){
-        if(checkAccessLevel()){
-          clearInterval(accessCheck);
-          adfunction();
-        }
-        if (((Date.now() - startStamp) / 1000) > 2) {
-          clearInterval(accessCheck);
-        }
-      }, 250);
-    }
-    var checkAccessLevel = function(){
-      if (typeof accesslevel == 'undefined'){
-        return false;
-      } else {
-        return true;
-      }
-    }
+  function hideDesktopLeaderboard(){$("#ad-leaderboard-footer-wrapper").css("display","none");}
+  function showDesktopLeaderboard(){$("#ad-leaderboard-footer-wrapper").css("display","block");}
+  //----Set Up Ad Variables Begin
+  //Use this to turn corner peel on/off for homepage - false means no corner peel will render
+  var turnOnCornerPeel = true;
+  //Arrays used to track DFP's slots so we can refresh them after lazyloaded in
+  //The arrays are populated by the individual ad slot scripts when they fire
+  var medrec = [];
+  var doubleMedrec = [];
+  var leaderboard = [];
+  var skyscraper = [];
+  var defaultAds = [];
+  //Breakpoint & sizing variables used primarily in header bidding so we can easily adjust when different ad sizes fire
+  var BrowserWidth = window.innerWidth && document.documentElement.clientWidth ? Math.min(window.innerWidth, document.documentElement.clientWidth) : window.innerWidth || document.documentElement.clientWidth || document.getElementsByTagName('body')[0].clientWidth;
   var mobileBreakpoint = 750;
   var doubleMedrecBreakpoint = 993;
-  var BrowserWidth = window.innerWidth && document.documentElement.clientWidth ? Math.min(window.innerWidth, document.documentElement.clientWidth) : window.innerWidth || document.documentElement.clientWidth || document.getElementsByTagName('body')[0].clientWidth;
   var leaderboardDefault = (BrowserWidth >= mobileBreakpoint) ? [728, 90] : [320, 50]
+  var stickyLeaderboard = [728, 90]
+  //Timeout variable used by both Prebid & Amazon header bidding
+  var headerBiddingTimeout = 900;
+  //DFP_sitepage allows us to properly target ads to the homepage
+  if (locationPath == '/') {
+    DFP_sitepage = '/homepage';
+  }
+  var dfpId = '/99211018/thegazette' + DFP_sitepage;
+  var googletag = googletag || {};
+  googletag.cmd = googletag.cmd || [];
+  //----Set Up Ad Variables End
+  //Setting up ad units to be used in header bidding
+  //Only the ads displayed on every page are added here
+  //Additional ad units are added to this array as their ad script fires
   var adUnits = [{
     code: 'ad-leaderboard-header',
     bids: [{
@@ -290,12 +375,12 @@ function ta_afterLogout() {
       bidder: 'aol',
       params: { network: '10809.1', placement: (BrowserWidth >= mobileBreakpoint) ? 4347110 : 4347112 }
     }, {
-      bidder: "districtm",
-      params: { placementId: (BrowserWidth >= mobileBreakpoint) ? 12024121 : 12024122 }
+      bidder: "districtmDMX",
+      params: { memberid: 100763, dmxid: (BrowserWidth >= mobileBreakpoint) ? 174991 : 174992 }
     }, {
-      bidder: 'pulsepoint',
-      params: { cf: (BrowserWidth >= mobileBreakpoint) ? "728X90" : "320X50", cp: 560738, ct: (BrowserWidth >= mobileBreakpoint) ? 526045 : 526049 }
-    }, { 
+      bidder: "districtm",
+      params: { placementId: (BrowserWidth >= mobileBreakpoint) ? 12024121 : 12024122}
+    },{
       bidder: "rhythmone", params: { placementId: 67527}
     }, {
       bidder: "gumgum",
@@ -306,30 +391,30 @@ function ta_afterLogout() {
     code: 'ad-medrec-article',
     bids: [{
       bidder: 'sovrn',
-      params: { tagid: (BrowserWidth >= doubleMedrecBreakpoint) ? 358776 : 358777}
+      params: { tagid: 358776}
     }, {
       bidder: 'ix',
-      params: { siteId: (BrowserWidth >= doubleMedrecBreakpoint) ? 286797 : 286825 , size: (BrowserWidth >= mobileBreakpoint) ? [300,600] : [300,250]}
+      params: { siteId: 286797 , size: [300,600]}
     }, {
       bidder: 'rubicon',
       params: { accountId: 10844, siteId: 26348, zoneId: 577646 }
     }, {
       bidder: 'aol',
-      params: { network: '10809.1', placement: (BrowserWidth >= doubleMedrecBreakpoint) ? 4694576 : 4347113 }
+      params: { network: '10809.1', placement: 4694576 }
+    }, {
+      bidder: "districtmDMX",
+      params: { memberid: 100763, dmxid: 233034 }
     }, {
       bidder: "districtm",
-      params: { placementId: (BrowserWidth >= doubleMedrecBreakpoint) ? 13708791 : 12024118 }
-    }, {
-      bidder: 'pulsepoint',
-      params: { cf: (BrowserWidth >= doubleMedrecBreakpoint) ? '300X600' : '300X250', cp: 560738, ct: (BrowserWidth >= doubleMedrecBreakpoint) ? 616228 : 526046 }
-    }, { 
+      params: { placementId: 13708791}
+    },{
       bidder: "rhythmone",
       params: { placementId: 67527}
     }, {
       bidder: "gumgum",
-      params: { inSlot: (BrowserWidth >= doubleMedrecBreakpoint) ? 8408 : 8424 }
+      params: { inSlot: 8408 }
     }],
-    sizes: (BrowserWidth >= doubleMedrecBreakpoint) ? [[300,600],[300, 250]] : [300, 250]
+    sizes: [[300,600],[300, 250]]
   }, {
     code: 'ad-leaderboard-mobile',
     bids: [{
@@ -345,47 +430,82 @@ function ta_afterLogout() {
       bidder: 'aol',
       params: { network: '10809.1', placement: 4694575 }
     }, {
-      bidder: "districtm",
-      params: { placementId: 12279256 }
+      bidder: "districtmDMX",
+      params: { memberid: 100763, dmxid: 181587 }
     }, {
-      bidder: 'pulsepoint',
-      params: { cf: '320X50', cp: 560738, ct: 616792 }
-    }, { 
+      bidder: "districtm",
+      params: { placementId: 12279256}
+    },{
       bidder: "rhythmone",
       params: { placementId: 67527}
     }, {
       bidder: "gumgum",
       params: { inSlot: 8407 }
     }],
-    sizes: [320, 50]
+    sizes: [ 320, 50 ]
+  },{
+    code: '/99211018/ad-leaderboard-footer',
+    bids: [
+    {
+      bidder: 'ix',
+      params: { siteId: 352908 , size: [728,90]}
+    }, {
+      bidder: 'rubicon',
+      params: { accountId: 10844, siteId: 26348, zoneId: 1228282 }
+    }, {
+      bidder: 'aol',
+      params: { network: '10809.1', placement: 4693139 }
+    }, {
+      bidder: "gumgum",
+      params: { inSlot: '26247' }
+    }
+    ],
+    sizes: [ 728, 90 ]
   }];
-  //PulsePointPrebidAnalytics Script
-  ! function(e, t, n, i, r) {
-    window[e] = window[e] || function() {
-      window[e].opts.queue.push(arguments)
-    }, window[e].opts = {
-      url: n,
-      bidPriceKey: i,
-      pubId: r,
-      queue: []
-    };
-    var o = document.createElement("script");
-    o.src = t, o.async = !0, o.type = "text/javascript";
-    var s = document.getElementsByTagName("script");
-    s[0].parentNode.insertBefore(o, s[0])
-  }("PulsePointPrebidAnalytics", "https://tag.contextweb.com/pba.js", "https://bh.contextweb.com/hba", "hb_pb", "560738");
-</script>
-<script>
+  //Amazon Publisher Services Bidding Begins
+  //load the apstag.js library
+  !function(a9,a,p,s,t,A,g){if(a[a9])return;function q(c,r){a[a9]._Q.push([c,r])}a[a9]={init:function(){q("i",arguments)},fetchBids:function(){q("f",arguments)},setDisplayBids:function(){},targetingKeys:function(){return[]},_Q:[]};A=p.createElement(s);A.async=!0;A.src=t;g=p.getElementsByTagName(s)[0];g.parentNode.insertBefore(A,g)}("apstag",window,document,"script","//c.amazon-adsystem.com/aax2/apstag.js");
+  //initialize the apstag.js library on the page to allow bidding
+  apstag.init({
+    pubID: 'bffe0768-a6af-4305-88ee-9e393b930360',
+    adServer: 'googletag',
+    bidTimeout: headerBiddingTimeout
+  });
+  // define amazon slot objects
+  let apstagSlots =
+  [{
+      slotID: 'ad-leaderboard-header',
+      slotName: dfpId,
+      sizes: [leaderboardDefault]
+    },
+    {
+      slotID: 'ad-medrec-article',
+      slotName: dfpId,
+      sizes: [[300,600]]
+    },
+    {
+      slotID: 'ad-leaderboard-mobile',
+      slotName: dfpId,
+      sizes: [[320,50]]
+    },
+    {
+      slotID: 'div-gpt-ad-1552601933345-0',
+      slotName: '/99211018/ad-leaderboard-footer',
+      sizes: [[728,90]]
+    }
+  ];
   //Prebid Setup Begins
-  var PREBID_TIMEOUT = 900;
+  var PREBID_TIMEOUT = headerBiddingTimeout;
+  var FAILSAFE_TIMEOUT = (headerBiddingTimeout + 25);
   var MAX_RETRIES = 20;
   var pbjs = pbjs || {};
   pbjs.que = pbjs.que || [];
   pbjs.retries = 0;
   var googletag = googletag || {};
   googletag.cmd = googletag.cmd || [];
+  //Disabling DFP's initial load so that we can do our bidding first
   googletag.cmd.push(function() {
-    googletag.pubads().disableInitialLoad();
+    googletag.pubads().disableInitialLoad();    
   });
   function initAdserver() {
     if (pbjs.initAdserverSet) return;
@@ -395,15 +515,16 @@ function ta_afterLogout() {
       return;
     }
     googletag.cmd.push(function() {
+      // set amazon targeting values
+      apstag.setDisplayBids();
+      // Set prebid targeting, send ad request to GAM, and flip pbjs.initAdserverSet boolean
       pbjs.que.push(function() {
+        pbjs.setConfig({ useBidCache: true })
         pbjs.setTargetingForGPTAsync();
-        pbjs.enableAnalytics({
-          provider: 'pulsepoint'
-        });
-      });
-      googletag.pubads().refresh();
-    });
-    pbjs.initAdserverSet = true;
+        googletag.pubads().refresh();
+        pbjs.initAdserverSet = true;
+     });
+    });     
   }
   loadScript('//www.googletagservices.com/tag/js/gpt.js');
   loadScript('/JS/min/prebid.min.js');
@@ -415,55 +536,147 @@ function ta_afterLogout() {
     var node = document.getElementsByTagName('script')[0];
     node.parentNode.insertBefore(script, node);
   }
-function initialHeaderBidding(){
-  if (accesslevel != "full"){
+  // define bidders
+  var bidders = ['a9', 'prebid'];
+  // state object, will help manage when initAdserver() is called
+  var requestManager = {
+     apstagSlots: apstagSlots,
+  };
+  // add bidders to state object
+  bidders.forEach(function(bidder) {
+     requestManager[bidder] = false;
+  })
+  // return true if all bidders have returned
+  function allBiddersBack() {
+     var allBiddersBack = bidders
+       // get the booleans from the object
+       .map(function(bidder) {
+           return requestManager[bidder];
+       })
+       // get rid of false values - indicates that the bidder has responded
+       .filter(Boolean)
+       // if length is equal to bidders, all bidders are back
+       .length === bidders.length;
+     return allBiddersBack;
+  }
+  // executed when each bidder returns and fires their callback
+  function headerBidderBack(bidder) {
+     // return early if request to adserver is already sent
+     if (requestManager.adserverRequestSent === true) {
+         return;
+     }
+     // set the bidder targeting and flip bidder back flag
+     if (bidder === 'a9') {
+         requestManager.a9 = true;
+     } else if (bidder === 'prebid') {
+         requestManager.prebid = true;
+     }
+     // if all bidders are back, send the request to the ad server
+     if (allBiddersBack()) {
+         initAdserver();
+     }
+  }
+  function initialHeaderBidding(){
     pbjs.que.push(function() {
       pbjs.addAdUnits(adUnits);
       pbjs.requestBids({
         bidsBackHandler: function(bidResponses) {
-          initAdserver();
+          // signal that prebid has returned
+          headerBidderBack('prebid');
         },
         timeout: PREBID_TIMEOUT
       });
     });
+    // initiate amazon bid request
+    apstag.fetchBids({
+      slots: requestManager.apstagSlots,
+      timeout: 2e3
+    }, function(bids) {
+      // set apstag targeting on googletag, then trigger the first DFP request in googletag's disableInitialLoad integration
+      googletag.cmd.push(function(){
+        // signal that amazon has returned
+        headerBidderBack('a9');
+      });
+    });
   }
-}
-spinAccessLevel(initialHeaderBidding);
+  //This is only the initial header bidding, for the ads that are always the same on each page
+  initialHeaderBidding();
+  // set failsafe timeout
+  window.setTimeout(function() {
+    initAdserver();
+  }, FAILSAFE_TIMEOUT);
   //Prebid Setup END
-  //DFP Setup Vars
-  //use this to turn corner peel on/off for homepage - false means no corner peel will render
-  var turnOnCornerPeel = true;
-  var medrec = [];
-  var doubleMedrec = [];
-  var leaderboard = [];
-  var skyscraper = [];
-  var defaultAds = [];
-  if (locationPath == '/') {
-    DFP_sitepage = '/homepage';
-  }
-  var dfpId = '/99211018/thegazette' + DFP_sitepage;
+  //Begin DFP Setup
   var googletag = googletag || {};
   googletag.cmd = googletag.cmd || [];
-  //DFP Setup Vars END
   googletag.cmd.push(function() {
-    pbjs.que.push(function() {
-      pbjs.setTargetingForGPTAsync();
-    });
     googletag.pubads().enableSingleRequest();
     googletag.enableServices();
   });
   function refreshBid(type, count, slot) {
     var fullId = 'ad-' + type + '-' + count;
-    pbjs.que.push(function() {
-      pbjs.requestBids({
-        timeout: PREBID_TIMEOUT,
-        adUnitCodes: [fullId],
-        bidsBackHandler: function() {
-          pbjs.setTargetingForGPTAsync([fullId]);
-          googletag.pubads().refresh([slot]);
-        }
+    var timeout = 2000;
+    var biddersBack = 0;
+    var adServerCalled = false;
+    // when this is called, if both bidders are back, make refresh call
+    function bothBiddersBack() {
+      if (adServerCalled) return;
+      if (biddersBack != 2) return;
+      adServerCalled = true;
+      googletag.pubads().refresh([slot]);
+    }
+    // store prebid and amazon bidder config
+    var bidderConfig = {
+      callPrebid: function() {
+      pbjs.que.push(function() {
+        pbjs.requestBids({
+          timeout: PREBID_TIMEOUT,
+          adUnitCodes: [fullId],
+          bidsBackHandler: function() {
+            pbjs.setTargetingForGPTAsync([fullId]);
+            biddersBack++;
+            bothBiddersBack()
+          }
+        });
       });
-    });
+    },
+    callAmazon: function(slot) {
+      apstag.fetchBids({
+        slots: [slot]
+      },
+        function(bids) {
+          googletag.cmd.push(function() {
+            apstag.setDisplayBids([fullId]);
+            biddersBack++;
+            bothBiddersBack();
+          });
+        })
+      }
+    }
+    // get random integer of 1 or 2
+    function getRandomInt(min, max) {
+      min = Math.ceil(min);
+      max = Math.floor(max);
+      return Math.floor(Math.random() * (max - min)) + min; //The maximum is exclusive and the minimum is inclusive
+    }
+    // call bidders in random order
+    if (getRandomInt(1, 3) == 1) {
+      bidderConfig.callPrebid(fullId);
+      bidderConfig.callAmazon(slot);
+    } else {
+      bidderConfig.callAmazon(slot);
+      bidderConfig.callPrebid(fullId);
+    }
+    // set failsafe timeout on bid request
+    (function() {
+      setTimeout(function() {
+        if (adServerCalled) return;
+        adServerCalled = true;
+        googletag.cmd.push(function() {
+            googletag.pubads().refresh([slot]);
+        });
+      }, timeout)
+    })();
   }
 </script>
 <!-- DFP Ad Setup END -->
@@ -485,6 +698,18 @@ ia('track', 'PAGE_VIEW');
 <script async="" src="https://pymx5.com/scripts/load_tags.js"></script>
 <noscript><img height="1" width="1" style="display:none"
 src="https://api.pymx5.com/v1/sites/track?event_type=PAGE_VIEW&noscript=1"/></noscript>
+<!-- Chartbeat -->
+<script type="text/javascript">
+var _sf_async_config = _sf_async_config || {};
+/** CONFIGURATION START **/
+_sf_async_config.uid =65803;
+_sf_async_config.domain = 'thegazette.com';
+_sf_async_config.flickerControl = false;
+_sf_async_config.useCanonical = true;
+_sf_async_config.useCanonicalDomain = true;
+/** CONFIGURATION END **/
+</script>
+<script async="" src="//static.chartbeat.com/js/chartbeat_mab.js"></script>
 
 	</head>
 	<body>
@@ -492,11 +717,13 @@ src="https://api.pymx5.com/v1/sites/track?event_type=PAGE_VIEW&noscript=1"/></no
 			
 <!--False-->
 <!-- Header -->
-<script src="//cedarrapidsgazette-ia-pw.newsmemory.com/?meter&amp;v=6"></script>
+<script src="//cedarrapidsgazette-ia-pw.newsmemory.com/?meter&amp;v=1"></script>
 <!-- p b s:script name="userCookieCheck" language="JScript" -->
 
   
 
+<input type="checkbox" id="sidebartoggler" name="" value="">
+<div class="page-wrap">
 <nav class="mainnav">
   <div class="header-left left">
     <div class="left main-logo">
@@ -511,33 +738,41 @@ src="https://api.pymx5.com/v1/sites/track?event_type=PAGE_VIEW&noscript=1"/></no
       <span id="headline-injection" class="truncate"></span>
     </div>
   </div>
+
   <div class="header-right right">
     <ul id="nav-mobile">
       <li class="main-nav-item greyddd"><a href="/searchresults"><i class="fa fa-search" aria-hidden="true"></i> <span class="hide-on-med-and-down">SEARCH</span></a></li>
 
       
-
-        <li class="main-nav-item greyddd"><a onclick="ta_account();"><i class="fa fa-sign-in" aria-hidden="true"></i> <span id="login-logout-text" class="hide-on-med-and-down">LOGIN</span></a></li>
+				<li class="main-nav-item greyddd"><a id="login-link" onclick="ta_account();"><i class="fa fa-sign-in" aria-hidden="true"></i> <span id="login-logout-text" class="hide-on-med-and-down">LOGIN</span></a></li>
 
         <div id="subscribe-CTA"><a class="button" onclick="ga('send','event','Subscribe','Header Button Clicked')" href="https://crgiservices.dticloud.com/cmo_cmo/subscriber/web/startoffers.html" target="_blank">Subscribe <span class="hidetoday">Today </span><i class="fa fa-angle-right" aria-hidden="true"></i><span class="price">$0.99 for 1 month!</span></a></div>
-      
-      <li id="nav-open" class="main-nav-item grey555" onclick="ga('send','event','Sections Dropdown','Open')"><i class="fa fa-bars" aria-hidden="true"></i> <span class="hide-on-med-and-down">MENU <!-- <i class="fa fa-angle-down" aria-hidden="true"></i> --></span></li>
-    </ul>
+			
+
+      <label for="sidebartoggler" class="toggle">
+      <li class="main-nav-item grey555 padLR15" id="toggler" onclick="ga('send','event','Sections Dropdown','Open')">
+        <i class="fa fa-bars" aria-hidden="true"></i> <span class="hide-on-med-and-down">MENU <!-- <i class="fa fa-angle-down" aria-hidden="true"></i> --></span>
+      </li>
+
+    </label></ul>
   </div>
 </nav>
 
-<ul id="side-nav" class="sidenav">
-  <li><a href="javascript:void(0)" id="nav-close" class="closebtn" onclick="ga('send','event','Sections Dropdown','Close')"><i class="fa fa-times-circle" aria-hidden="true"></i></a></li>
+<div class="sidebar">
+<ul class="sidenav">
+  <!-- <li><a href="javascript:void(0)" class="closebtn" onclick="ga('send','event','Sections Dropdown','Close')"><i class="fa fa-times-circle" aria-hidden="true"></i></a></li> -->
   
   <li>
-      <div class="log-sub">
-        <p>Not a subscriber?</p>
-        <a href="https://crgiservices.dticloud.com/cmo_cmo/subscriber/web/startoffers.html" class="button">SUBSCRIBE</a>
+	    <div class="log-sub">
+	      <p>Not a subscriber?</p>
+	      <a href="https://crgiservices.dticloud.com/cmo_cmo/subscriber/web/startoffers.html" class="button">SUBSCRIBE</a>
           <p style="margin-top:5px;">Already a subscriber?</p>
-        <p><a onclick="ta_account();">Login Here</a><a href="https://crgiservices.dticloud.com/cmo_cmo/subscriber/web/signin.html" target="_blank">Manage Your Account</a></p>
-      </div>
-    </li>
-  
+	      <p><a onclick="ta_account();">Login Here</a><a href="https://crgiservices.dticloud.com/cmo_cmo/subscriber/web/signin.html" target="_blank">Manage Your Account</a></p>
+	    </div>
+	  </li>
+    <!--Admiral Blocker -->
+    <script type="text/javascript">!function(t,o,e){e=t.createElement(o),t=t.getElementsByTagName(o)[0],e.async=1,e.src="https://unequalbrake.com/v2/0/dzzfqXbHrbTwnR6hH0UiN6BgOFG9OYKaRdBfrd2gVCPfK2rBahYfAfiNodQYKKk_RRluYpRFNxRzvDWQZw",t.parentNode.insertBefore(e,t)}(document,"script"),function(t,o){t[o]=t[o]||function(){(t[o].q=t[o].q||[]).push(arguments)}}(document,window,"script","admiral");!function(t,n,e,o){function r(t){try{return t=localStorage.getItem("v4ac1eiZr0"),t&&t.split(",")[4]>0}catch(n){}return!1}function c(){var o=r();if(o){var c=t[n].pubads();typeof c.setTargeting===e&&c.setTargeting("admiral-engaged","true")}}o=t[n]=t[n]||{},o.cmd=o.cmd||[],typeof o.pubads===e?c():typeof o.cmd.unshift===e?o.cmd.unshift(c):o.cmd.push(c)}(window,"googletag","function");;;;;</script>
+	
 
   
   <li class="dropdown-parent">
@@ -555,6 +790,7 @@ src="https://api.pymx5.com/v1/sites/track?event_type=PAGE_VIEW&noscript=1"/></no
 <li><a href="/subject/news/nation-and-world">Nation &amp; World</a></li>
 <li><a href="/subject/news/public-safety">Public Safety</a></li>
 <li><a href="/epic-rebirth">Epic Rebirth Flood Anniversary</a></li>
+<li><a href="/section/election2018">ELECTION 2018</a></li>
 <p class="subnav-subhead">From Our Writers</p>
 <li><a href="/section/blogs?staffID=MADISON">Madison Arnold</a></li>
 <li><a href="/section/blogs?staffID=Boshart">Rod Boshart</a></li>
@@ -577,6 +813,11 @@ src="https://api.pymx5.com/v1/sites/track?event_type=PAGE_VIEW&noscript=1"/></no
 <li><a href="/subject/news/archive/time-machine">Time Machine</a></li>
     </ul>
   </li>
+  <!-- <li class="dropdown-parent">
+    <a href="/section/election2018" class="navgo bgcnews parentlink">ELECTION 2018</a>
+    <div class="deadzone bgcnews show-on600"></div>
+    <div class="clearfix"></div>
+  </li> -->
   <li class="dropdown-parent">
     <a href="/subject/sports" class="navgo bgcsports parentlink">SPORTS</a>
     <a id="parent-sports" class="navgo bgcsports show-on1024 childlinks"><span class="showmore">More <i class="fa fa-angle-down" aria-hidden="true"></i></span></a>
@@ -586,17 +827,18 @@ src="https://api.pymx5.com/v1/sites/track?event_type=PAGE_VIEW&noscript=1"/></no
       <li><a href="/subject/sports">All Sports</a></li>
 <li><a href="/subject/sports/iowa-hawkeyes">Iowa Hawkeyes</a></li>
 <li><a href="/subject/sports/hawkeyes/iowa-football">Iowa Football</a></li>
-<!-- <li><a href="/kirk-ferentz-wins">#KF143 Countdown</a></li>
- --><li><a href="/subject/sports/hawkeyes/iowa-mens-basketball">Iowa Men's Basketball</a></li>
+<li><a href="/subject/sports/hawkeyes/iowa-mens-basketball">Iowa Men's Basketball</a></li>
+<li><a href="/subject/sports/hawkeyes/iowa-womens-basketball">Iowa Women's Basketball</a></li>
 <li><a href="/subject/sports/iowa-prep-sports">Prep Sports</a></li>
+<li><a href="/subject/sports/iowa-prep-sports/basketball">Prep Basketball</a></li>
 <li><a href="/subject/sports/iowa-prep-sports/football">Prep Football</a></li>
-<li><a href="/section/prepfootball">Prep Football Game Center</a></li>
-<li><a href="/subject/sports/iowa-prep-sports/volleyball">Prep Volleyball</a></li>
+<li><a href="/subject/sports/iowa-prep-sports/wrestling">Prep Wrestling</a></li>
 <li><a href="/subject/sports/iowa-state-cyclones">Iowa State Cyclones</a></li>
 <li><a href="/subject/sports/uni-panthers">UNI Panthers</a></li>
 <li><a href="/subject/sports/small-college">Small College Sports</a></li>
 <li><a href="/subject/sports/minor-league">Minor League Sports</a></li>
 <li><a href="/subject/sports/outdoors">Outdoor</a></li>
+<li><a href="/kirk-ferentz-wins">#KF143 COUNTDOWN</a></li>
 <p class="subnav-subhead">From Our Writers</p>
 <li><a href="/section/blogs?staffID=Morehouse">Marc Morehouse</a></li>
 <li><a href="/section/blogs?staffID=Hlas">Mike Hlas</a></li>
@@ -606,24 +848,18 @@ src="https://api.pymx5.com/v1/sites/track?event_type=PAGE_VIEW&noscript=1"/></no
 <li><a href="/section/blogs?staffID=Ogden">JR Ogden</a></li>
 <li><a href="/section/blogs?staffID=dmiles">Douglas Miles</a></li>
 <p class="subnav-subhead">Additional Sports Links</p>
-<li><a href="https://store.thegazette.com/collections/all/hawkeyes" target="_blank">Gazette Store Sports Section</a></li>
+<li><a href="https://store.thegazette.com/collections/iowa-hawkeye-products-from-the-gazette" target="_blank">Gazette Store Sports Section</a></li>
 <li><a href="/hawkeye-trivia">Hawkeye Trivia</a></li>
-<!-- <li><a href="http://www.thegazette.com/data/hawkeyes">Iowa Football Data Center</a></li> -->
 <li><a href="https://www.facebook.com/iowaprepsports/?ref=br_rs" target="_blank">Iowa Prep Sports Facebook</a></li>
 <li><a href="https://twitter.com/iowaprepsports?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor" target="_blank">Iowa Prep Sports Twitter</a></li>
 <li><a href="/email-newsletters">Newsletter Sign Up</a></li>
 <li><a href="https://www.facebook.com/OnIowaCRG/" target="_blank">On Iowa Facebook</a></li>
-<!--Summer
-<li><a href="/subject/sports/iowa-prep-sports/baseball">Prep Baseball</a></li>
-<li><a href="/subject/sports/iowa-prep-sports/softball">Prep Softball</a></li>
-<li><a href="/subject/sports/auto-racing">Auto Racing</a></li>
--->
-<!--SPRING ONLY
-<li><a href="/subject/sports/iowa-prep-sports/track-and-field">Prep Track and Field</a></li>
+<!--MISC 
+<li><a href="http://www.thegazette.com/data/hawkeyes">Iowa Football Data Center</a></li>
 -->
 <!--WINTER ONLY
 <li><a href="/subject/sports/hawkeyes/iowa-womens-basketball">Iowa Women's Basketball</a></li>
-<li><a href="/subject/sports/iowa-prep-sports">Iowa Prep Sports</a></li>
+<li><a href="/subject/sports/iowa-prep-sports">Prep Sports</a></li>
 <li><a href="/subject/sports/iowa-prep-sports/basketball">Prep Basketball</a></li>
 <li><a href="/subject/sports/iowa-prep-sports/football">Prep Football</a></li>
 <li><a href="/subject/sports/iowa-prep-sports/wrestling">Prep Wrestling</a></li>
@@ -639,10 +875,10 @@ src="https://api.pymx5.com/v1/sites/track?event_type=PAGE_VIEW&noscript=1"/></no
 -->
 <!--FALL ONLY
 <li><a href="/subject/sports/iowa-prep-sports/volleyball">Prep Volleyball</a></li>
+<li><a href="/section/prepfootball">Prep Football Game Center</a></li>
 -->
     </ul>
   </li>
-  <li><a href="/kirk-ferentz-wins" class="navgo bgcsports">#KF143 COUNTDOWN</a></li>
   <li class="dropdown-parent">
     <a href="/subject/opinion" class="navgo bgcopinion parentlink">OPINION</a>
     <a id="parent-opinion" class="navgo bgcopinion show-on1024 childlinks"><span class="showmore">More <i class="fa fa-angle-down" aria-hidden="true"></i></span></a>
@@ -720,53 +956,90 @@ src="https://api.pymx5.com/v1/sites/track?event_type=PAGE_VIEW&noscript=1"/></no
   <li class="other-links">
     <h5>MORE LINKS</h5>
     <a href="/customer-care" class="navgo">CONTACT US</a>
+    <a href="https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=1e91abd5-1792-441f-a40a-9a4e07f3f772&amp;ccId=39709857_5737&amp;type=MP&amp;lang=en_US" target="_blank">WORK AT THE GAZETTE</a>
     <a href="/iowaideas" class="navgo" target="_blank">IOWA IDEAS</a>
+    <a href="https://her.today" class="navgo" target="_blank">HER</a>
     <a href="http://cedarrapidsgazette.ia.newsmemory.com/" class="navgo" target="_blank">THE GREEN GAZETTE</a>
     <a href="/subject/special-sections" class="navgo">SPECIAL SECTIONS</a>
     <a href="/subject/special-events" class="navgo">SPECIAL EVENTS</a>
     <a href="https://store.thegazette.com/" target="_blank" class="navgo">THE GAZETTE STORE</a>
     <a href="http://rewards.thegazette.com/" target="_blank" class="navgo">GAZETTE REWARDS</a>
     <a href="http://classifieds.thegazette.com" target="_blank" class="navgo">CLASSIFIEDS</a>
-    <a href="https://www.corridorcareers.com/" target="_blank" class="navgo">CORRIDOR CAREERS</a>
+    <a href="https://www.corridorcareers.com/" target="_blank" class="navgo">JOBS</a>
     <a href="https://garagesales.thegazette.com/" target="_blank">GARAGE SALES</a>
     <a href="http://crgazette.mycapture.com/mycapture/" target="_blank" class="navgo">PHOTO STORE</a>
     <a href="http://local.thegazette.com/?utm_source=thegazette&amp;utm_medium=web&amp;utm_campaign=gazheader" target="_blank" class="navgo">BUSINESS DIRECTORY</a>
   </li>
 </ul>
+</div>
+<div id="ad-leaderboard-footer-wrapper" style="display:none;">
+  <div id="ad-leaderboard-footer-inner">
+    <div id="div-gpt-ad-1552601933345-0">
+      <script>
+        googletag.cmd.push(function(){
+          googletag.pubads().addEventListener('slotRequested', function(event) {
+            var elid = event.slot.getSlotElementId();
+            if(elid =="div-gpt-ad-1552601933345-0"){
+              console.log('Slot has been requested:' + elid);
+              showDesktopLeaderboard();
+            }
+          });
+          googletag.pubads().addEventListener('slotRenderEnded', function(event) {
+            var elid = event.slot.getSlotElementId();
+            if(elid =="div-gpt-ad-1552601933345-0"){
+              console.log('Creative with slot: ' + elid);
+            }
+            if(event.isEmpty && elid =="div-gpt-ad-1552601933345-0"){
+              console.log("hide the div");
+              hideDesktopLeaderboard();
+            }
+          });
+        })
+        googletag.cmd.push(function() {
+          var footerLeaderboard = googletag.sizeMapping()
+            .addSize([750, 0], [728,90])
+            .addSize([300, 0], [])
+            .addSize([0, 0], []).build();
+          leaderboard[7] = googletag.defineSlot('/99211018/ad-leaderboard-footer', [728, 90], "div-gpt-ad-1552601933345-0")
+            .defineSizeMapping(footerLeaderboard)
+            .setTargeting("position", "7")
+            .setTargeting("keywords", keywords)
+            .setTargeting("accesslevel", accesslevel)
+            .setCollapseEmptyDiv(true).addService(googletag.pubads());
+          googletag.pubads().enableSingleRequest();
+          googletag.enableServices();
+          googletag.display("div-gpt-ad-1552601933345-0");
+        });
+      </script>
+    </div>
+    <i class="fa fa-times-circle" style="z-index:99999999"></i>
+  </div>
+</div>
 
 			<!--TOP BAR ELEMENT GOES HERE-->
-<!-- The individual slots for the ad-leaderboard-header and ad-medrec-article tags need updated like so -->
 <div style="clear:both;"></div>
 <div id="ad-leaderboard-header" class="center">
   <script>
-    function headerLeaderboard() {
-      googletag.cmd.push(function() {
-        var mappingLeaderboard = googletag.sizeMapping()
-          .addSize([0, 0], [ [320, 100], [320, 50] ])
-          .addSize([mobileBreakpoint, 0], [728, 90])
-          .addSize([1010, 0], [ [970, 90], [728, 90]]).build();
-        defaultAds[1] = googletag.defineSlot(dfpId, leaderboardDefault, "ad-leaderboard-header")
-          .setTargeting("position", "1")
-          .setTargeting("keywords", keywords)
-          .defineSizeMapping(mappingLeaderboard)
-          .setCollapseEmptyDiv(true)
-          .addService(googletag.pubads());
-        googletag.pubads().enableSingleRequest();
-        googletag.enableServices();
-        googletag.display("ad-leaderboard-header");
-        if (accesslevel != "full"){
-            //Do Nothing
-          } else {
-            googletag.pubads().refresh([defaultAds[1]]);
-          }
-      });
-    }
-    spinAccessLevel(headerLeaderboard);
+    googletag.cmd.push(function() {
+      var mappingLeaderboard = googletag.sizeMapping()
+        .addSize([0, 0], [ [320, 100], [320, 50] ])
+        .addSize([mobileBreakpoint, 0], [728, 90])
+        .addSize([1010, 0], [[728, 90], [970,250]]).build();
+      defaultAds[1] = googletag.defineSlot(dfpId, leaderboardDefault, "ad-leaderboard-header")
+        .setTargeting("position", "1")
+        .setTargeting("keywords", keywords)
+        .defineSizeMapping(mappingLeaderboard)
+        .setCollapseEmptyDiv(true)
+        .addService(googletag.pubads());
+      googletag.pubads().enableSingleRequest();
+      googletag.enableServices();
+      googletag.display("ad-leaderboard-header");
+    });
   </script>
 </div>
 <!-- < p b s : !macro name="topBar" cachetime="60" cachequalifiers="Profile"> -->
 
-		</header>
+		</div></header>
 	<script type="text/javascript">
 		(function() {
 		  var ARTICLE_URL = window.location.href;
@@ -785,6 +1058,10 @@ src="https://api.pymx5.com/v1/sites/track?event_type=PAGE_VIEW&noscript=1"/></no
 	</script>
 		<main class="article">
 			
+
+<script type="text/javascript">
+var taxonomyItems = [];
+</script>
 
 
 
@@ -819,12 +1096,12 @@ src="https://api.pymx5.com/v1/sites/track?event_type=PAGE_VIEW&noscript=1"/></no
 	</div><!-- END col s11 m7 l9 nopad -->
 
 	<div class="col s12 m5 l3 right-side no-print">
-	    <div itemprop="datePublished" class="date">
-	    	Mon., April 21, 2014
+			<div itemprop="datePublished" class="date">
+				Mon., April 21, 2014
 			<!-- 
 				Mar. 27, 2018 at 5:06PM 
 			 -->
-	    </div>
+			</div>
 	</div>
 </div>
 
@@ -835,7 +1112,6 @@ src="https://api.pymx5.com/v1/sites/track?event_type=PAGE_VIEW&noscript=1"/></no
 
 
 
-
 	
 
 	
@@ -843,7 +1119,9 @@ src="https://api.pymx5.com/v1/sites/track?event_type=PAGE_VIEW&noscript=1"/></no
 	 
 
 	
+
 	
+
 	
 		
 		  <div id="ad-medrec-1" class="medrec ad">
@@ -855,44 +1133,38 @@ src="https://api.pymx5.com/v1/sites/track?event_type=PAGE_VIEW&noscript=1"/></no
         { bidder: 'ix', params: {siteId: (BrowserWidth >= mobileBreakpoint) ? 286804 : 286798 , size: [300, 250]}},
         { bidder: 'rubicon', params: {accountId: 10844, siteId: 26348, zoneId: 577648} },
         { bidder: 'aol', params: {placement: '4606145', network: '10809.1'} },
-        { bidder: "districtm", params: {placementId: 12024119} },
-        { bidder: 'pulsepoint', params: {cf: '300X250', cp: 560738, ct: 545184}},
+        { bidder: "districtmDMX", params: { memberid: 100763, dmxid: 174989} },
+        { bidder: "districtm", params: { placementId: 12024119}},
         { bidder: "rhythmone", params: { placementId: 67527}},
         { bidder: "gumgum", params: {inSlot: 8409} }
         ],
         sizes: [300, 250]
       }];
       adUnits = adUnits.concat(medrec1HB);
-      function medrec1(){
-        googletag.cmd.push(function() {
-          medrec[1] = googletag.defineSlot(dfpId, [300, 250], "ad-medrec-1")
-            .setTargeting("position", "1")
-            .setCollapseEmptyDiv(true)
-            .setTargeting("keywords", keywords)
-            .setTargeting("accesslevel", accesslevel)
-            .addService(googletag.pubads());
-          googletag.pubads().enableSingleRequest();
-          googletag.enableServices();
-          googletag.display("ad-medrec-1");
-          if (accesslevel != "full"){
-            refreshBid("medrec", 1, medrec[1]);
-          } else {
-            googletag.pubads().refresh([medrec[1]]);
-          }
-        });
-      }
-      spinAccessLevel(medrec1);
+      googletag.cmd.push(function() {
+        medrec[1] = googletag.defineSlot(dfpId, [300, 250], "ad-medrec-1")
+          .setTargeting("position", "1")
+          .setCollapseEmptyDiv(true)
+          .setTargeting("keywords", keywords)
+          .setTargeting("accesslevel", accesslevel)
+          .addService(googletag.pubads());
+        googletag.pubads().enableSingleRequest();
+        googletag.enableServices();
+        googletag.display("ad-medrec-1");
+        //refreshBid("medrec", 1, medrec[1]);
+      });
     </script>
   </div>
 
 
-	</div>
-
 	
 	
 	
 	
 	
+	
+		<div id="piano-inject-top"></div>
+	</div><!-- close l8 -->
 	
 
 	
@@ -917,8 +1189,7 @@ src="https://api.pymx5.com/v1/sites/track?event_type=PAGE_VIEW&noscript=1"/></no
 
 
 
-
-  		<!--Total Para: 1 <br />
+<!--Total Para: 1 <br />
 Long Para:1 <br />
 Long Pra Total: 22 <br />
 Total Para Total: 23<br />-->
@@ -1438,19 +1709,20 @@ Total Para Total: 23<br />-->
 
 
 
-
-	<div class="lazy"><!--<div class='in-article-element embed-bottom'>
 	
-		<script type="text/javascript">$(".date").hide(); $("#article-top").hide(); $(".content-recirculation").hide(); $("#commentscontainer").hide();</script>
-	</div>--></div>
+		<div class="lazy"><!--<div class='in-article-element embed-bottom'>
+		
+			<script type="text/javascript">$(".date").hide(); $("#article-top").hide(); $(".content-recirculation").hide(); $("#commentscontainer").hide();</script>
+		</div>--></div>
+	
+	<div id="piano-inject-btm"></div>
 
-
-<!--Closing body div for content-->
-</div>
+</div><!--Closing body div for content-->
 
 	
  	<div id="byline-box-side" class="col s10 push-s1 m3 l2">
-    	
+ 		<div id="piano-inject-side"></div>
+    
 		<div id="error-or-omission">
 			<h3>Give us feedback</h3>
 			<h4>We value your trust and work hard to provide fair, accurate coverage. If you have found an error or omission in our reporting, tell us <a target="_blank" href="/corrections-form/">here.</a></h4>
@@ -1458,8 +1730,6 @@ Total Para Total: 23<br />-->
 		</div>
 		<div id="ad-skyscraper-1" class="skyscraper">
   <script>
-  function skyscraper1(){
-  if (accesslevel != "full"){
     pbjs.que.push(function() {
       var adUnits = [{
         code: 'ad-skyscraper-1',
@@ -1468,14 +1738,13 @@ Total Para Total: 23<br />-->
           { bidder: 'ix', params: {siteId: (BrowserWidth >= 601) ? 286816 : 286798 , size: (BrowserWidth >= 601) ? [160, 600] : [300, 250]}},
           { bidder: 'rubicon', params: { accountId: 10844, siteId: 26348, zoneId: (BrowserWidth >= 601) ? 752236 : 577646  }},
           { bidder: 'aol', params: { network: '10809.1', placement: (BrowserWidth >= 601) ? 4693140 : 4606145 }},
-          { bidder: "districtm", params: { placementId: (BrowserWidth >= 601) ? 12270838 : 12024119 }},
-          { bidder: 'pulsepoint', params: { cf: (BrowserWidth >= 601) ? "160X600" : "250X300", cp: 560738, ct: (BrowserWidth >= 601) ? 526052 : 545184 }},
+          { bidder: "districtmDMX", params: { memberid: 100763, dmxid: (BrowserWidth >= 601) ? 181462 : 174989 }},
+          { bidder: "districtm", params: { placementId: (BrowserWidth >= 601) ? 181462 : 12024119}},
           { bidder: "rhythmone", params: { placementId: 67527} },
           { bidder: "gumgum", params: { inSlot: (BrowserWidth >= 601) ? 8421 : 8409 }}
         ], sizes: (BrowserWidth >= 601) ? [160,600] : [300,250]
       }]; pbjs.addAdUnits(adUnits);
     });
-  }
     googletag.cmd.push(function() {
       var mappingSkyscraper = googletag.sizeMapping()
         .addSize([0, 0], [300, 250])
@@ -1489,33 +1758,27 @@ Total Para Total: 23<br />-->
       googletag.pubads().enableSingleRequest();
       googletag.enableServices();
       googletag.display("ad-skyscraper-1");
-      if (accesslevel != "full"){
-        refreshBid("skyscraper", 1, skyscraper[1]);
-      } else {
-        googletag.pubads().refresh([skyscraper[1]]);
-      }
+      //refreshBid("skyscraper", 1, skyscraper[1]);
     });
-  }
-  spinAccessLevel(skyscraper1);
   </script>
 </div>
 
-    	
+    
 	</div>
 	
 
 
 
- 	
+<!--Closing div for content is in /Templates/Objects/ArticleParagraphInsertContent.pbo-->
 </section>
-<div id="show-full-story-button" class="showHide no-print"><a class="button" onclick="ga('send','event','Continue Reading','expand story')">CONTINUE READING</a></div>
 
+<!-- <div id="show-full-story-button" class="showHide no-print"><a class="button" onclick="ga('send','event','Continue Reading','expand story')">CONTINUE READING</a></div> -->
 
 
 
 <script language="JavaScript">
 	var enableForum = "true";
-  var storylink   = '/policies';
+	var storylink   = '/policies';
 
 	function registerVote(aURL) {
 		$.get(aURL, function () {
@@ -1526,12 +1789,7 @@ Total Para Total: 23<br />-->
 
 <div class="clearfix"></div>
 
-
-	
-
-		
-
-		<!--
+<!--
 < p b s : macro name="/Modules/content-recirculation-three" ModuleHeadline="WHAT TO READ NEXT ..." Profs="" currTheme="" mostPopular="no" >
 -->
 <div class="row">
@@ -1541,146 +1799,150 @@ Total Para Total: 23<br />-->
 				<h3>WHAT TO READ NEXT ...</h3>
 				<div class="col s12 nopad">
 					<div class="row">
-						<!-- Profiles -->
+						<!-- Related/Profiles -->
 							<!-- items call for Content Recirculation Three Module -->
 <!-- 
 <div class="col s12 m6 l3 crm-story">
 			<div class="col s3 m4 l12 crm-image">
-				< p b s : macro name="contentimage" OutsideLink="" RegularLink="/subject/news/nation-and-world/trump-abe-agree-two-way-trade-talks-japan-dodges-us-auto-tariffs-20180926" imageLink=https://www.thegazette.com/storyimage/GA/20180926/ARTICLE/180929708/AR/0/0/AR-180929708.jpg mHeight="800" mWidth="800" >
+				< p b s : macro name="contentimage" OutsideLink="" RegularLink="/subject/news/business/dairy-farmers-hold-fast-in-extreme-weather-20190330" imageLink=https://www.thegazette.com/storyimage/GA/20190330/ARTICLE/190339982/AR/0/0/AR-190339982.jpg mHeight="800" mWidth="800" >
 			</div>
 			<div class="col s9 m8 l12 crm-title">
-				< p b s : macro name="titlebuilder" articleTitle="Trump, Abe agree two-way trade talks, Japan dodges U.S. auto tariffs" ExternalLink="" ContentLink="/subject/news/nation-and-world/trump-abe-agree-two-way-trade-talks-japan-dodges-us-auto-tariffs-20180926" LimitedCharacters="NO" >
+				< p b s : macro name="titlebuilder" articleTitle="Dairy farmers hold fast in extreme weather" ExternalLink="" ContentLink="/subject/news/business/dairy-farmers-hold-fast-in-extreme-weather-20190330" LimitedCharacters="NO" >
 			</div>
 </div>
  -->
 <div class="col s12 m6 l3 crm-story">
 	<div class="col s3 m4 l12 crm-image">
-				<a href="/subject/news/nation-and-world/trump-abe-agree-two-way-trade-talks-japan-dodges-us-auto-tariffs-20180926">
+				<a href="/subject/news/business/dairy-farmers-hold-fast-in-extreme-weather-20190330">
 		<div class="lazy">
-			<!--<div class="bg-image-pic lazy" style="background-image: url('https://www.thegazette.com/storyimage/GA/20180926/ARTICLE/180929708/AR/0/0/AR-180929708.jpg&MaxW=800&MaxH=800');"></div>-->
+			<!--<div class="bg-image-pic lazy" style="background-image: url('https://www.thegazette.com/storyimage/GA/20190330/ARTICLE/190339982/AR/0/0/AR-190339982.jpg&MaxW=800&MaxH=800');"></div>-->
 		</div>
 	</a>
-  <!-- < p b s : macro name="contentimage" OutsideLink="" RegularLink="" imageLink=https://www.thegazette.com/storyimage/GA/20180926/ARTICLE/180929708/AR/0/0/AR-180929708.jpg mHeight="800" mWidth="800" > -->
+  <!-- < p b s : macro name="contentimage" OutsideLink="" RegularLink="" imageLink=https://www.thegazette.com/storyimage/GA/20190330/ARTICLE/190339982/AR/0/0/AR-190339982.jpg mHeight="800" mWidth="800" > -->
 	</div>
 	<div class="col s9 m8 l12 crm-title">
 		<!-- 
 macro used on contentlistitem1.pbo, 2, 22, 4, 6, 90, 91, 92, 93, 94 96
-< p b s : macro name="titlebuilder" articleTitle="" ExternalLink="" ContentLink="/subject/news/nation-and-world/trump-abe-agree-two-way-trade-talks-japan-dodges-us-auto-tariffs-20180926" LimitedCharacters="85" >
+< p b s : macro name="titlebuilder" articleTitle="" ExternalLink="" ContentLink="/subject/news/business/dairy-farmers-hold-fast-in-extreme-weather-20190330" LimitedCharacters="85" >
   -->
-		<a class="article-title" href="/subject/news/nation-and-world/trump-abe-agree-two-way-trade-talks-japan-dodges-us-auto-tariffs-20180926" title="Trump, Abe agree two-way trade talks, Japan dodges U.S. auto tariffs">
-			<h4>Trump, Abe agree two-way trade talks, Japan dodges U.S. auto tariffs</h4>
+		<a class="article-title" href="/subject/news/business/dairy-farmers-hold-fast-in-extreme-weather-20190330" title="Dairy farmers hold fast in extreme weather">
+			<h4>Dairy farmers hold fast in extreme weather</h4>
 		</a>
 	</div>
 </div>
 <!-- 
 <div class="col s12 m6 l3 crm-story">
 			<div class="col s3 m4 l12 crm-image">
-				< p b s : macro name="contentimage" OutsideLink="" RegularLink="/subject/news/nation-and-world/longs-improper-use-of-fema-staff-suvs-included-hawaii-pineapple-plant-tour-investigation-finds-20180926" imageLink=https://www.thegazette.com/storyimage/GA/20180926/ARTICLE/180929710/AR/0/0/AR-180929710.jpg mHeight="800" mWidth="800" >
+				< p b s : macro name="contentimage" OutsideLink="" RegularLink="/subject/news/business/residents-near-frac-sand-mines-seek-answers-20190330" imageLink=https://www.thegazette.com/storyimage/GA/20190330/ARTICLE/190339983/AR/0/0/AR-190339983.jpg mHeight="800" mWidth="800" >
 			</div>
 			<div class="col s9 m8 l12 crm-title">
-				< p b s : macro name="titlebuilder" articleTitle="Long&#x2019;s improper use of FEMA staff, SUVs included Hawaii pineapple plant tour, investigation finds" ExternalLink="" ContentLink="/subject/news/nation-and-world/longs-improper-use-of-fema-staff-suvs-included-hawaii-pineapple-plant-tour-investigation-finds-20180926" LimitedCharacters="NO" >
+				< p b s : macro name="titlebuilder" articleTitle="Residents near frac sand mines seek answers" ExternalLink="" ContentLink="/subject/news/business/residents-near-frac-sand-mines-seek-answers-20190330" LimitedCharacters="NO" >
 			</div>
 </div>
  -->
 <div class="col s12 m6 l3 crm-story">
 	<div class="col s3 m4 l12 crm-image">
-				<a href="/subject/news/nation-and-world/longs-improper-use-of-fema-staff-suvs-included-hawaii-pineapple-plant-tour-investigation-finds-20180926">
+				<a href="/subject/news/business/residents-near-frac-sand-mines-seek-answers-20190330">
 		<div class="lazy">
-			<!--<div class="bg-image-pic lazy" style="background-image: url('https://www.thegazette.com/storyimage/GA/20180926/ARTICLE/180929710/AR/0/0/AR-180929710.jpg&MaxW=800&MaxH=800');"></div>-->
+			<!--<div class="bg-image-pic lazy" style="background-image: url('https://www.thegazette.com/storyimage/GA/20190330/ARTICLE/190339983/AR/0/0/AR-190339983.jpg&MaxW=800&MaxH=800');"></div>-->
 		</div>
 	</a>
-  <!-- < p b s : macro name="contentimage" OutsideLink="" RegularLink="" imageLink=https://www.thegazette.com/storyimage/GA/20180926/ARTICLE/180929710/AR/0/0/AR-180929710.jpg mHeight="800" mWidth="800" > -->
+  <!-- < p b s : macro name="contentimage" OutsideLink="" RegularLink="" imageLink=https://www.thegazette.com/storyimage/GA/20190330/ARTICLE/190339983/AR/0/0/AR-190339983.jpg mHeight="800" mWidth="800" > -->
 	</div>
 	<div class="col s9 m8 l12 crm-title">
 		<!-- 
 macro used on contentlistitem1.pbo, 2, 22, 4, 6, 90, 91, 92, 93, 94 96
-< p b s : macro name="titlebuilder" articleTitle="" ExternalLink="" ContentLink="/subject/news/nation-and-world/longs-improper-use-of-fema-staff-suvs-included-hawaii-pineapple-plant-tour-investigation-finds-20180926" LimitedCharacters="85" >
+< p b s : macro name="titlebuilder" articleTitle="" ExternalLink="" ContentLink="/subject/news/business/residents-near-frac-sand-mines-seek-answers-20190330" LimitedCharacters="85" >
   -->
-		<a class="article-title" href="/subject/news/nation-and-world/longs-improper-use-of-fema-staff-suvs-included-hawaii-pineapple-plant-tour-investigation-finds-20180926" title="Long’s improper use of FEMA staff, SUVs included Hawaii pineapple plant tour, investigation finds">
-			<h4>Long's improper use of FEMA staff, SUVs included Hawaii pineapple plant tour, investigation finds</h4>
+		<a class="article-title" href="/subject/news/business/residents-near-frac-sand-mines-seek-answers-20190330" title="Residents near frac sand mines seek answers">
+			<h4>Residents near frac sand mines seek answers</h4>
 		</a>
 	</div>
 </div>
 <!-- 
 <div class="col s12 m6 l3 crm-story">
 			<div class="col s3 m4 l12 crm-image">
-				< p b s : macro name="contentimage" OutsideLink="" RegularLink="/subject/news/nation-and-world/kavanaugh-reportedly-accused-of-drunken-physical-assault-on-woman-in-late-90s-20180926" imageLink=https://www.thegazette.com/storyimage/GA/20180926/ARTICLE/180929711/AR/0/0/AR-180929711.jpg mHeight="800" mWidth="800" >
+				< p b s : macro name="contentimage" OutsideLink="" RegularLink="/subject/news/business/businesses-x2014-and-their-leaders-x2014-need-to-know-how-to-say-theyre-sorry-20190330" imageLink=https://www.thegazette.com/storyimage/GA/20190330/ARTICLE/190339984/AR/0/0/AR-190339984.jpg mHeight="800" mWidth="800" >
 			</div>
 			<div class="col s9 m8 l12 crm-title">
-				< p b s : macro name="titlebuilder" articleTitle="Kavanaugh reportedly accused of drunken physical assault on woman in late &#x2018;90s" ExternalLink="" ContentLink="/subject/news/nation-and-world/kavanaugh-reportedly-accused-of-drunken-physical-assault-on-woman-in-late-90s-20180926" LimitedCharacters="NO" >
+				< p b s : macro name="titlebuilder" articleTitle="Businesses &#x2014; and their leaders &#x2014; need to know how to say they&#x2019;re sorry" ExternalLink="" ContentLink="/subject/news/business/businesses-x2014-and-their-leaders-x2014-need-to-know-how-to-say-theyre-sorry-20190330" LimitedCharacters="NO" >
 			</div>
 </div>
  -->
 <div class="col s12 m6 l3 crm-story">
 	<div class="col s3 m4 l12 crm-image">
-				<a href="/subject/news/nation-and-world/kavanaugh-reportedly-accused-of-drunken-physical-assault-on-woman-in-late-90s-20180926">
+				<a href="/subject/news/business/businesses-x2014-and-their-leaders-x2014-need-to-know-how-to-say-theyre-sorry-20190330">
 		<div class="lazy">
-			<!--<div class="bg-image-pic lazy" style="background-image: url('https://www.thegazette.com/storyimage/GA/20180926/ARTICLE/180929711/AR/0/0/AR-180929711.jpg&MaxW=800&MaxH=800');"></div>-->
+			<!--<div class="bg-image-pic lazy" style="background-image: url('https://www.thegazette.com/storyimage/GA/20190330/ARTICLE/190339984/AR/0/0/AR-190339984.jpg&MaxW=800&MaxH=800');"></div>-->
 		</div>
 	</a>
-  <!-- < p b s : macro name="contentimage" OutsideLink="" RegularLink="" imageLink=https://www.thegazette.com/storyimage/GA/20180926/ARTICLE/180929711/AR/0/0/AR-180929711.jpg mHeight="800" mWidth="800" > -->
+  <!-- < p b s : macro name="contentimage" OutsideLink="" RegularLink="" imageLink=https://www.thegazette.com/storyimage/GA/20190330/ARTICLE/190339984/AR/0/0/AR-190339984.jpg mHeight="800" mWidth="800" > -->
 	</div>
 	<div class="col s9 m8 l12 crm-title">
 		<!-- 
 macro used on contentlistitem1.pbo, 2, 22, 4, 6, 90, 91, 92, 93, 94 96
-< p b s : macro name="titlebuilder" articleTitle="" ExternalLink="" ContentLink="/subject/news/nation-and-world/kavanaugh-reportedly-accused-of-drunken-physical-assault-on-woman-in-late-90s-20180926" LimitedCharacters="85" >
+< p b s : macro name="titlebuilder" articleTitle="" ExternalLink="" ContentLink="/subject/news/business/businesses-x2014-and-their-leaders-x2014-need-to-know-how-to-say-theyre-sorry-20190330" LimitedCharacters="85" >
   -->
-		<a class="article-title" href="/subject/news/nation-and-world/kavanaugh-reportedly-accused-of-drunken-physical-assault-on-woman-in-late-90s-20180926" title="Kavanaugh reportedly accused of drunken physical assault on woman in late ‘90s">
-			<h4>Kavanaugh reportedly accused of drunken physical assault on woman in late '90s</h4>
-		</a>
-	</div>
-</div>
-<!-- 
-<div class="col s12 m6 l3 crm-story">
-			<div class="col s12 crm-title">
-				< p b s : macro name="titlebuilder" articleTitle="Tornado strikes Tuesday in Linn County" ExternalLink="" ContentLink="/subject/news/public-safety/tornado-strikes-tuesday-in-linn-county-20180926" LimitedCharacters="NO" >
-			</div>
-</div>
- -->
-<div class="col s12 m6 l3 crm-story">
-	<div class="col s3 m4 l12 crm-image">
-				<a href="/subject/news/public-safety/tornado-strikes-tuesday-in-linn-county-20180926">
-		<div class="bg-image-default" style="background-image: url('&amp;MaxW=800&amp;MaxH=800');"></div>
-	</a>
-  <!-- < p b s : macro name="contentimage-default" OutsideLink="" RegularLink="" imageLink= mHeight="800" mWidth="800" > -->
-			<!-- <img src="/images/logo-glow-bw.jpg" style="border:0 none; display:block; outline:none;" /> -->
-	</div>
-	<div class="col s9 m8 l12 crm-title">
-		<!-- 
-macro used on contentlistitem1.pbo, 2, 22, 4, 6, 90, 91, 92, 93, 94 96
-< p b s : macro name="titlebuilder" articleTitle="" ExternalLink="" ContentLink="/subject/news/public-safety/tornado-strikes-tuesday-in-linn-county-20180926" LimitedCharacters="85" >
-  -->
-		<a class="article-title" href="/subject/news/public-safety/tornado-strikes-tuesday-in-linn-county-20180926" title="Tornado strikes Tuesday in Linn County">
-			<h4>Tornado strikes Tuesday in Linn County</h4>
+		<a class="article-title" href="/subject/news/business/businesses-x2014-and-their-leaders-x2014-need-to-know-how-to-say-theyre-sorry-20190330" title="Businesses — and their leaders — need to know how to say they’re sorry">
+			<h4>Businesses - and their leaders - need to know how to say they're sorry</h4>
 		</a>
 	</div>
 </div>
 <!-- 
 <div class="col s12 m6 l3 crm-story">
 			<div class="col s3 m4 l12 crm-image">
-				< p b s : macro name="contentimage" OutsideLink="" RegularLink="/subject/news/public-safety/protections-hold-as-cedar-river-crest-passes-20180926" imageLink=https://www.thegazette.com/storyimage/GA/20180926/ARTICLE/180929713/AR/0/0/AR-180929713.jpg mHeight="800" mWidth="800" >
+				< p b s : macro name="contentimage" OutsideLink="" RegularLink="/subject/news/business/cedar-rapids-based-businesses-that-need-a-boost-can-apply-for-micro-loans-20190330" imageLink=https://www.thegazette.com/storyimage/GA/20190330/ARTICLE/190339985/AR/0/0/AR-190339985.jpg mHeight="800" mWidth="800" >
 			</div>
 			<div class="col s9 m8 l12 crm-title">
-				< p b s : macro name="titlebuilder" articleTitle="Protections hold as Cedar River crest passes" ExternalLink="" ContentLink="/subject/news/public-safety/protections-hold-as-cedar-river-crest-passes-20180926" LimitedCharacters="NO" >
+				< p b s : macro name="titlebuilder" articleTitle="Cedar Rapids-based businesses that need a boost can apply for MiCRo loans" ExternalLink="" ContentLink="/subject/news/business/cedar-rapids-based-businesses-that-need-a-boost-can-apply-for-micro-loans-20190330" LimitedCharacters="NO" >
 			</div>
 </div>
  -->
 <div class="col s12 m6 l3 crm-story">
 	<div class="col s3 m4 l12 crm-image">
-				<a href="/subject/news/public-safety/protections-hold-as-cedar-river-crest-passes-20180926">
+				<a href="/subject/news/business/cedar-rapids-based-businesses-that-need-a-boost-can-apply-for-micro-loans-20190330">
 		<div class="lazy">
-			<!--<div class="bg-image-pic lazy" style="background-image: url('https://www.thegazette.com/storyimage/GA/20180926/ARTICLE/180929713/AR/0/0/AR-180929713.jpg&MaxW=800&MaxH=800');"></div>-->
+			<!--<div class="bg-image-pic lazy" style="background-image: url('https://www.thegazette.com/storyimage/GA/20190330/ARTICLE/190339985/AR/0/0/AR-190339985.jpg&MaxW=800&MaxH=800');"></div>-->
 		</div>
 	</a>
-  <!-- < p b s : macro name="contentimage" OutsideLink="" RegularLink="" imageLink=https://www.thegazette.com/storyimage/GA/20180926/ARTICLE/180929713/AR/0/0/AR-180929713.jpg mHeight="800" mWidth="800" > -->
+  <!-- < p b s : macro name="contentimage" OutsideLink="" RegularLink="" imageLink=https://www.thegazette.com/storyimage/GA/20190330/ARTICLE/190339985/AR/0/0/AR-190339985.jpg mHeight="800" mWidth="800" > -->
 	</div>
 	<div class="col s9 m8 l12 crm-title">
 		<!-- 
 macro used on contentlistitem1.pbo, 2, 22, 4, 6, 90, 91, 92, 93, 94 96
-< p b s : macro name="titlebuilder" articleTitle="" ExternalLink="" ContentLink="/subject/news/public-safety/protections-hold-as-cedar-river-crest-passes-20180926" LimitedCharacters="85" >
+< p b s : macro name="titlebuilder" articleTitle="" ExternalLink="" ContentLink="/subject/news/business/cedar-rapids-based-businesses-that-need-a-boost-can-apply-for-micro-loans-20190330" LimitedCharacters="85" >
   -->
-		<a class="article-title" href="/subject/news/public-safety/protections-hold-as-cedar-river-crest-passes-20180926" title="Protections hold as Cedar River crest passes">
-			<h4>Protections hold as Cedar River crest passes</h4>
+		<a class="article-title" href="/subject/news/business/cedar-rapids-based-businesses-that-need-a-boost-can-apply-for-micro-loans-20190330" title="Cedar Rapids-based businesses that need a boost can apply for MiCRo loans">
+			<h4>Cedar Rapids-based businesses that need a boost can apply for MiCRo loans</h4>
+		</a>
+	</div>
+</div>
+<!-- 
+<div class="col s12 m6 l3 crm-story">
+			<div class="col s3 m4 l12 crm-image">
+				< p b s : macro name="contentimage" OutsideLink="" RegularLink="/subject/news/government/state-public-unions-reach-labor-agreements-in-iowa-judges-still-considering-collective-bargaining-20190329" imageLink=https://www.thegazette.com/storyimage/GA/20190329/ARTICLE/190329609/AR/0/0/AR-190329609.jpg mHeight="800" mWidth="800" >
+			</div>
+			<div class="col s9 m8 l12 crm-title">
+				< p b s : macro name="titlebuilder" articleTitle="State, public unions reach labor agreements in Iowa" ExternalLink="" ContentLink="/subject/news/government/state-public-unions-reach-labor-agreements-in-iowa-judges-still-considering-collective-bargaining-20190329" LimitedCharacters="NO" >
+			</div>
+</div>
+ -->
+<div class="col s12 m6 l3 crm-story">
+	<div class="col s3 m4 l12 crm-image">
+				<a href="/subject/news/government/state-public-unions-reach-labor-agreements-in-iowa-judges-still-considering-collective-bargaining-20190329">
+		<div class="lazy">
+			<!--<div class="bg-image-pic lazy" style="background-image: url('https://www.thegazette.com/storyimage/GA/20190329/ARTICLE/190329609/AR/0/0/AR-190329609.jpg&MaxW=800&MaxH=800');"></div>-->
+		</div>
+	</a>
+  <!-- < p b s : macro name="contentimage" OutsideLink="" RegularLink="" imageLink=https://www.thegazette.com/storyimage/GA/20190329/ARTICLE/190329609/AR/0/0/AR-190329609.jpg mHeight="800" mWidth="800" > -->
+	</div>
+	<div class="col s9 m8 l12 crm-title">
+		<!-- 
+macro used on contentlistitem1.pbo, 2, 22, 4, 6, 90, 91, 92, 93, 94 96
+< p b s : macro name="titlebuilder" articleTitle="" ExternalLink="" ContentLink="/subject/news/government/state-public-unions-reach-labor-agreements-in-iowa-judges-still-considering-collective-bargaining-20190329" LimitedCharacters="85" >
+  -->
+		<a class="article-title" href="/subject/news/government/state-public-unions-reach-labor-agreements-in-iowa-judges-still-considering-collective-bargaining-20190329" title="State, public unions reach labor agreements in Iowa">
+			<h4>State, public unions reach labor agreements in Iowa</h4>
 		</a>
 	</div>
 </div>
@@ -1695,145 +1957,145 @@ macro used on contentlistitem1.pbo, 2, 22, 4, 6, 90, 91, 92, 93, 94 96
 <!-- 
 <div class="col s12 m6 l3 crm-story">
 			<div class="col s3 m4 l12 crm-image">
-				< p b s : macro name="contentimage" OutsideLink="" RegularLink="/subject/opinion/staff-columnist/blum-puts-the-i-in-team-on-cr-flood-protection-20180927" imageLink=https://www.thegazette.com/storyimage/GA/20180927/ARTICLE/180929726/AR/0/0/AR-180929726.jpg mHeight="800" mWidth="800" >
+				< p b s : macro name="contentimage" OutsideLink="" RegularLink="/subject/sports/hawkeyes/iowa-womens-basketball/iowa-nc-state-womens-basketball-score-sweet-16-ncaa-tournament-20190330" imageLink=https://www.thegazette.com/storyimage/GA/20190330/ARTICLE/190339981/AR/0/0/AR-190339981.jpg mHeight="800" mWidth="800" >
 			</div>
 			<div class="col s9 m8 l12 crm-title">
-				< p b s : macro name="titlebuilder" articleTitle="Blum puts the &#x2018;I&#x2019; in team on C.R. flood protection" ExternalLink="" ContentLink="/subject/opinion/staff-columnist/blum-puts-the-i-in-team-on-cr-flood-protection-20180927" LimitedCharacters="NO" >
+				< p b s : macro name="titlebuilder" articleTitle="Iowa women&#8217;s basketball advances to Elite 8 for first time in 26 years" ExternalLink="" ContentLink="/subject/sports/hawkeyes/iowa-womens-basketball/iowa-nc-state-womens-basketball-score-sweet-16-ncaa-tournament-20190330" LimitedCharacters="NO" >
 			</div>
 </div>
  -->
 <div class="col s12 m6 l3 crm-story">
 	<div class="col s3 m4 l12 crm-image">
-				<a href="/subject/opinion/staff-columnist/blum-puts-the-i-in-team-on-cr-flood-protection-20180927">
+				<a href="/subject/sports/hawkeyes/iowa-womens-basketball/iowa-nc-state-womens-basketball-score-sweet-16-ncaa-tournament-20190330">
 		<div class="lazy">
-			<!--<div class="bg-image-pic lazy" style="background-image: url('https://www.thegazette.com/storyimage/GA/20180927/ARTICLE/180929726/AR/0/0/AR-180929726.jpg&MaxW=800&MaxH=800');"></div>-->
+			<!--<div class="bg-image-pic lazy" style="background-image: url('https://www.thegazette.com/storyimage/GA/20190330/ARTICLE/190339981/AR/0/0/AR-190339981.jpg&MaxW=800&MaxH=800');"></div>-->
 		</div>
 	</a>
-  <!-- < p b s : macro name="contentimage" OutsideLink="" RegularLink="" imageLink=https://www.thegazette.com/storyimage/GA/20180927/ARTICLE/180929726/AR/0/0/AR-180929726.jpg mHeight="800" mWidth="800" > -->
+  <!-- < p b s : macro name="contentimage" OutsideLink="" RegularLink="" imageLink=https://www.thegazette.com/storyimage/GA/20190330/ARTICLE/190339981/AR/0/0/AR-190339981.jpg mHeight="800" mWidth="800" > -->
 	</div>
 	<div class="col s9 m8 l12 crm-title">
 		<!-- 
 macro used on contentlistitem1.pbo, 2, 22, 4, 6, 90, 91, 92, 93, 94 96
-< p b s : macro name="titlebuilder" articleTitle="" ExternalLink="" ContentLink="/subject/opinion/staff-columnist/blum-puts-the-i-in-team-on-cr-flood-protection-20180927" LimitedCharacters="85" >
+< p b s : macro name="titlebuilder" articleTitle="" ExternalLink="" ContentLink="/subject/sports/hawkeyes/iowa-womens-basketball/iowa-nc-state-womens-basketball-score-sweet-16-ncaa-tournament-20190330" LimitedCharacters="85" >
   -->
-		<a class="article-title" href="/subject/opinion/staff-columnist/blum-puts-the-i-in-team-on-cr-flood-protection-20180927" title="Blum puts the ‘I’ in team on C.R. flood protection">
-			<h4>Blum puts the 'I' in team on C.R. flood protection</h4>
+		<a class="article-title" href="/subject/sports/hawkeyes/iowa-womens-basketball/iowa-nc-state-womens-basketball-score-sweet-16-ncaa-tournament-20190330" title="Iowa women’s basketball advances to Elite 8 for first time in 26 years">
+			<h4>Iowa women's basketball advances to Elite 8 for first time in 26 years</h4>
 		</a>
 	</div>
 </div>
 <!-- 
 <div class="col s12 m6 l3 crm-story">
 			<div class="col s3 m4 l12 crm-image">
-				< p b s : macro name="contentimage" OutsideLink="" RegularLink="/subject/news/government/iowa-city-staff-plans-event-to-kickoff-fair-housing-study-20180926" imageLink=https://www.thegazette.com/storyimage/GA/20180926/ARTICLE/180929714/AR/0/0/AR-180929714.jpg mHeight="800" mWidth="800" >
+				< p b s : macro name="contentimage" OutsideLink="" RegularLink="/subject/news/health/breaking-unitedhealthcare-exiting-iowa-medicaid-program-health-care-iowa-gov-kim-reynolds-20190329" imageLink=https://www.thegazette.com/storyimage/GA/20190329/ARTICLE/190329621/AR/0/0/AR-190329621.jpg mHeight="800" mWidth="800" >
 			</div>
 			<div class="col s9 m8 l12 crm-title">
-				< p b s : macro name="titlebuilder" articleTitle="Iowa City staff plans event to kickoff fair housing study" ExternalLink="" ContentLink="/subject/news/government/iowa-city-staff-plans-event-to-kickoff-fair-housing-study-20180926" LimitedCharacters="NO" >
+				< p b s : macro name="titlebuilder" articleTitle="UnitedHealthcare exiting Iowa&#x2019;s Medicaid program" ExternalLink="" ContentLink="/subject/news/health/breaking-unitedhealthcare-exiting-iowa-medicaid-program-health-care-iowa-gov-kim-reynolds-20190329" LimitedCharacters="NO" >
 			</div>
 </div>
  -->
 <div class="col s12 m6 l3 crm-story">
 	<div class="col s3 m4 l12 crm-image">
-				<a href="/subject/news/government/iowa-city-staff-plans-event-to-kickoff-fair-housing-study-20180926">
+				<a href="/subject/news/health/breaking-unitedhealthcare-exiting-iowa-medicaid-program-health-care-iowa-gov-kim-reynolds-20190329">
 		<div class="lazy">
-			<!--<div class="bg-image-pic lazy" style="background-image: url('https://www.thegazette.com/storyimage/GA/20180926/ARTICLE/180929714/AR/0/0/AR-180929714.jpg&MaxW=800&MaxH=800');"></div>-->
+			<!--<div class="bg-image-pic lazy" style="background-image: url('https://www.thegazette.com/storyimage/GA/20190329/ARTICLE/190329621/AR/0/0/AR-190329621.jpg&MaxW=800&MaxH=800');"></div>-->
 		</div>
 	</a>
-  <!-- < p b s : macro name="contentimage" OutsideLink="" RegularLink="" imageLink=https://www.thegazette.com/storyimage/GA/20180926/ARTICLE/180929714/AR/0/0/AR-180929714.jpg mHeight="800" mWidth="800" > -->
+  <!-- < p b s : macro name="contentimage" OutsideLink="" RegularLink="" imageLink=https://www.thegazette.com/storyimage/GA/20190329/ARTICLE/190329621/AR/0/0/AR-190329621.jpg mHeight="800" mWidth="800" > -->
 	</div>
 	<div class="col s9 m8 l12 crm-title">
 		<!-- 
 macro used on contentlistitem1.pbo, 2, 22, 4, 6, 90, 91, 92, 93, 94 96
-< p b s : macro name="titlebuilder" articleTitle="" ExternalLink="" ContentLink="/subject/news/government/iowa-city-staff-plans-event-to-kickoff-fair-housing-study-20180926" LimitedCharacters="85" >
+< p b s : macro name="titlebuilder" articleTitle="" ExternalLink="" ContentLink="/subject/news/health/breaking-unitedhealthcare-exiting-iowa-medicaid-program-health-care-iowa-gov-kim-reynolds-20190329" LimitedCharacters="85" >
   -->
-		<a class="article-title" href="/subject/news/government/iowa-city-staff-plans-event-to-kickoff-fair-housing-study-20180926" title="Iowa City staff plans event to kickoff fair housing study">
-			<h4>Iowa City staff plans event to kickoff fair housing study</h4>
+		<a class="article-title" href="/subject/news/health/breaking-unitedhealthcare-exiting-iowa-medicaid-program-health-care-iowa-gov-kim-reynolds-20190329" title="UnitedHealthcare exiting Iowa’s Medicaid program">
+			<h4>UnitedHealthcare exiting Iowa's Medicaid program</h4>
 		</a>
 	</div>
 </div>
 <!-- 
 <div class="col s12 m6 l3 crm-story">
 			<div class="col s3 m4 l12 crm-image">
-				< p b s : macro name="contentimage" OutsideLink="" RegularLink="/subject/news/government/gop-hubbell-camp-spar-over-tax-incentives-20180926" imageLink=https://www.thegazette.com/storyimage/GA/20180926/ARTICLE/180929715/AR/0/0/AR-180929715.jpg mHeight="800" mWidth="800" >
+				< p b s : macro name="contentimage" OutsideLink="" RegularLink="/subject/news/public-safety/fairfax-man-rumors-wrong-his-sons-suicide-no-connection-to-chris-bagleys-death-larry-hanson-sr-larry-hanson-jr-20190329" imageLink=https://www.thegazette.com/storyimage/GA/20190329/ARTICLE/190329620/AR/0/0/AR-190329620.jpg mHeight="800" mWidth="800" >
 			</div>
 			<div class="col s9 m8 l12 crm-title">
-				< p b s : macro name="titlebuilder" articleTitle="GOP, Hubbell camp spar over tax incentives" ExternalLink="" ContentLink="/subject/news/government/gop-hubbell-camp-spar-over-tax-incentives-20180926" LimitedCharacters="NO" >
+				< p b s : macro name="titlebuilder" articleTitle="Fairfax man: Rumors are wrong, his son&#x2019;s suicide had no connection to Chris Bagley&#x2019;s death" ExternalLink="" ContentLink="/subject/news/public-safety/fairfax-man-rumors-wrong-his-sons-suicide-no-connection-to-chris-bagleys-death-larry-hanson-sr-larry-hanson-jr-20190329" LimitedCharacters="NO" >
 			</div>
 </div>
  -->
 <div class="col s12 m6 l3 crm-story">
 	<div class="col s3 m4 l12 crm-image">
-				<a href="/subject/news/government/gop-hubbell-camp-spar-over-tax-incentives-20180926">
+				<a href="/subject/news/public-safety/fairfax-man-rumors-wrong-his-sons-suicide-no-connection-to-chris-bagleys-death-larry-hanson-sr-larry-hanson-jr-20190329">
 		<div class="lazy">
-			<!--<div class="bg-image-pic lazy" style="background-image: url('https://www.thegazette.com/storyimage/GA/20180926/ARTICLE/180929715/AR/0/0/AR-180929715.jpg&MaxW=800&MaxH=800');"></div>-->
+			<!--<div class="bg-image-pic lazy" style="background-image: url('https://www.thegazette.com/storyimage/GA/20190329/ARTICLE/190329620/AR/0/0/AR-190329620.jpg&MaxW=800&MaxH=800');"></div>-->
 		</div>
 	</a>
-  <!-- < p b s : macro name="contentimage" OutsideLink="" RegularLink="" imageLink=https://www.thegazette.com/storyimage/GA/20180926/ARTICLE/180929715/AR/0/0/AR-180929715.jpg mHeight="800" mWidth="800" > -->
+  <!-- < p b s : macro name="contentimage" OutsideLink="" RegularLink="" imageLink=https://www.thegazette.com/storyimage/GA/20190329/ARTICLE/190329620/AR/0/0/AR-190329620.jpg mHeight="800" mWidth="800" > -->
 	</div>
 	<div class="col s9 m8 l12 crm-title">
 		<!-- 
 macro used on contentlistitem1.pbo, 2, 22, 4, 6, 90, 91, 92, 93, 94 96
-< p b s : macro name="titlebuilder" articleTitle="" ExternalLink="" ContentLink="/subject/news/government/gop-hubbell-camp-spar-over-tax-incentives-20180926" LimitedCharacters="85" >
+< p b s : macro name="titlebuilder" articleTitle="" ExternalLink="" ContentLink="/subject/news/public-safety/fairfax-man-rumors-wrong-his-sons-suicide-no-connection-to-chris-bagleys-death-larry-hanson-sr-larry-hanson-jr-20190329" LimitedCharacters="85" >
   -->
-		<a class="article-title" href="/subject/news/government/gop-hubbell-camp-spar-over-tax-incentives-20180926" title="GOP, Hubbell camp spar over tax incentives">
-			<h4>GOP, Hubbell camp spar over tax incentives</h4>
+		<a class="article-title" href="/subject/news/public-safety/fairfax-man-rumors-wrong-his-sons-suicide-no-connection-to-chris-bagleys-death-larry-hanson-sr-larry-hanson-jr-20190329" title="Fairfax man: Rumors are wrong, his son’s suicide had no connection to Chris Bagley’s death">
+			<h4>Fairfax man: Rumors are wrong, his son's suicide had no connection to Chris Bagley's death</h4>
 		</a>
 	</div>
 </div>
 <!-- 
 <div class="col s12 m6 l3 crm-story">
 			<div class="col s3 m4 l12 crm-image">
-				< p b s : macro name="contentimage" OutsideLink="" RegularLink="/subject/news/government/final-resting-place-51-years-later-davenport-marines-remains-will-be-laid-to-rest-thursday-20180926" imageLink=https://www.thegazette.com/storyimage/GA/20180926/ARTICLE/180929716/AR/0/0/AR-180929716.jpg mHeight="800" mWidth="800" >
+				< p b s : macro name="contentimage" OutsideLink="" RegularLink="/subject/opinion/staff-editorial/police-body-camera-aclu-lawsuit-video-shooting-death-burlington-government-iowa-public-information-board-20190330" imageLink=https://www.thegazette.com/storyimage/GA/20190330/ARTICLE/190339987/AR/0/0/AR-190339987.jpg mHeight="800" mWidth="800" >
 			</div>
 			<div class="col s9 m8 l12 crm-title">
-				< p b s : macro name="titlebuilder" articleTitle="Final resting place: 51 years later, Davenport Marine&#x2019;s remains will be laid to rest Thursday" ExternalLink="" ContentLink="/subject/news/government/final-resting-place-51-years-later-davenport-marines-remains-will-be-laid-to-rest-thursday-20180926" LimitedCharacters="NO" >
+				< p b s : macro name="titlebuilder" articleTitle="Openness should prevail in Iowa shooting case" ExternalLink="" ContentLink="/subject/opinion/staff-editorial/police-body-camera-aclu-lawsuit-video-shooting-death-burlington-government-iowa-public-information-board-20190330" LimitedCharacters="NO" >
 			</div>
 </div>
  -->
 <div class="col s12 m6 l3 crm-story">
 	<div class="col s3 m4 l12 crm-image">
-				<a href="/subject/news/government/final-resting-place-51-years-later-davenport-marines-remains-will-be-laid-to-rest-thursday-20180926">
+				<a href="/subject/opinion/staff-editorial/police-body-camera-aclu-lawsuit-video-shooting-death-burlington-government-iowa-public-information-board-20190330">
 		<div class="lazy">
-			<!--<div class="bg-image-pic lazy" style="background-image: url('https://www.thegazette.com/storyimage/GA/20180926/ARTICLE/180929716/AR/0/0/AR-180929716.jpg&MaxW=800&MaxH=800');"></div>-->
+			<!--<div class="bg-image-pic lazy" style="background-image: url('https://www.thegazette.com/storyimage/GA/20190330/ARTICLE/190339987/AR/0/0/AR-190339987.jpg&MaxW=800&MaxH=800');"></div>-->
 		</div>
 	</a>
-  <!-- < p b s : macro name="contentimage" OutsideLink="" RegularLink="" imageLink=https://www.thegazette.com/storyimage/GA/20180926/ARTICLE/180929716/AR/0/0/AR-180929716.jpg mHeight="800" mWidth="800" > -->
+  <!-- < p b s : macro name="contentimage" OutsideLink="" RegularLink="" imageLink=https://www.thegazette.com/storyimage/GA/20190330/ARTICLE/190339987/AR/0/0/AR-190339987.jpg mHeight="800" mWidth="800" > -->
 	</div>
 	<div class="col s9 m8 l12 crm-title">
 		<!-- 
 macro used on contentlistitem1.pbo, 2, 22, 4, 6, 90, 91, 92, 93, 94 96
-< p b s : macro name="titlebuilder" articleTitle="" ExternalLink="" ContentLink="/subject/news/government/final-resting-place-51-years-later-davenport-marines-remains-will-be-laid-to-rest-thursday-20180926" LimitedCharacters="85" >
+< p b s : macro name="titlebuilder" articleTitle="" ExternalLink="" ContentLink="/subject/opinion/staff-editorial/police-body-camera-aclu-lawsuit-video-shooting-death-burlington-government-iowa-public-information-board-20190330" LimitedCharacters="85" >
   -->
-		<a class="article-title" href="/subject/news/government/final-resting-place-51-years-later-davenport-marines-remains-will-be-laid-to-rest-thursday-20180926" title="Final resting place: 51 years later, Davenport Marine’s remains will be laid to rest Thursday">
-			<h4>Final resting place: 51 years later, Davenport Marine's remains will be laid to rest Thursday</h4>
+		<a class="article-title" href="/subject/opinion/staff-editorial/police-body-camera-aclu-lawsuit-video-shooting-death-burlington-government-iowa-public-information-board-20190330" title="Openness should prevail in Iowa shooting case">
+			<h4>Openness should prevail in Iowa shooting case</h4>
 		</a>
 	</div>
 </div>
 <!-- 
 <div class="col s12 m6 l3 crm-story">
 			<div class="col s3 m4 l12 crm-image">
-				< p b s : macro name="contentimage" OutsideLink="" RegularLink="/subject/news/government/now-bigger-redevelopment-site-seeks-more-cedar-rapids-tax-breaks-20180926" imageLink=https://www.thegazette.com/storyimage/GA/20180926/ARTICLE/180929717/AR/0/0/AR-180929717.jpg mHeight="800" mWidth="800" >
+				< p b s : macro name="contentimage" OutsideLink="" RegularLink="/subject/opinion/staff-columnist/steve-king-iowa-congress-fort-dodge-water-blake-gibbins-online-fundraising-20190330" imageLink=https://www.thegazette.com/storyimage/GA/20190330/ARTICLE/190339988/AR/0/0/AR-190339988.jpg mHeight="800" mWidth="800" >
 			</div>
 			<div class="col s9 m8 l12 crm-title">
-				< p b s : macro name="titlebuilder" articleTitle="Now bigger, redevelopment site seeks more Cedar Rapids tax breaks" ExternalLink="" ContentLink="/subject/news/government/now-bigger-redevelopment-site-seeks-more-cedar-rapids-tax-breaks-20180926" LimitedCharacters="NO" >
+				< p b s : macro name="titlebuilder" articleTitle="Just like love is love, hate is hate" ExternalLink="" ContentLink="/subject/opinion/staff-columnist/steve-king-iowa-congress-fort-dodge-water-blake-gibbins-online-fundraising-20190330" LimitedCharacters="NO" >
 			</div>
 </div>
  -->
 <div class="col s12 m6 l3 crm-story">
 	<div class="col s3 m4 l12 crm-image">
-				<a href="/subject/news/government/now-bigger-redevelopment-site-seeks-more-cedar-rapids-tax-breaks-20180926">
+				<a href="/subject/opinion/staff-columnist/steve-king-iowa-congress-fort-dodge-water-blake-gibbins-online-fundraising-20190330">
 		<div class="lazy">
-			<!--<div class="bg-image-pic lazy" style="background-image: url('https://www.thegazette.com/storyimage/GA/20180926/ARTICLE/180929717/AR/0/0/AR-180929717.jpg&MaxW=800&MaxH=800');"></div>-->
+			<!--<div class="bg-image-pic lazy" style="background-image: url('https://www.thegazette.com/storyimage/GA/20190330/ARTICLE/190339988/AR/0/0/AR-190339988.jpg&MaxW=800&MaxH=800');"></div>-->
 		</div>
 	</a>
-  <!-- < p b s : macro name="contentimage" OutsideLink="" RegularLink="" imageLink=https://www.thegazette.com/storyimage/GA/20180926/ARTICLE/180929717/AR/0/0/AR-180929717.jpg mHeight="800" mWidth="800" > -->
+  <!-- < p b s : macro name="contentimage" OutsideLink="" RegularLink="" imageLink=https://www.thegazette.com/storyimage/GA/20190330/ARTICLE/190339988/AR/0/0/AR-190339988.jpg mHeight="800" mWidth="800" > -->
 	</div>
 	<div class="col s9 m8 l12 crm-title">
 		<!-- 
 macro used on contentlistitem1.pbo, 2, 22, 4, 6, 90, 91, 92, 93, 94 96
-< p b s : macro name="titlebuilder" articleTitle="" ExternalLink="" ContentLink="/subject/news/government/now-bigger-redevelopment-site-seeks-more-cedar-rapids-tax-breaks-20180926" LimitedCharacters="85" >
+< p b s : macro name="titlebuilder" articleTitle="" ExternalLink="" ContentLink="/subject/opinion/staff-columnist/steve-king-iowa-congress-fort-dodge-water-blake-gibbins-online-fundraising-20190330" LimitedCharacters="85" >
   -->
-		<a class="article-title" href="/subject/news/government/now-bigger-redevelopment-site-seeks-more-cedar-rapids-tax-breaks-20180926" title="Now bigger, redevelopment site seeks more Cedar Rapids tax breaks">
-			<h4>Now bigger, redevelopment site seeks more Cedar Rapids tax breaks</h4>
+		<a class="article-title" href="/subject/opinion/staff-columnist/steve-king-iowa-congress-fort-dodge-water-blake-gibbins-online-fundraising-20190330" title="Just like love is love, hate is hate">
+			<h4>Just like love is love, hate is hate</h4>
 		</a>
 	</div>
 </div>
@@ -1846,22 +2108,22 @@ macro used on contentlistitem1.pbo, 2, 22, 4, 6, 90, 91, 92, 93, 94 96
 				<h3>Trending</h3>
 				<div class="most-popular-items">
 					<ul><li class="cat-post-item">
-	<a class="post-title" href="/subject/news/business/kids-gymnastics-class-lessons-cedar-rapids-gym-child-gymnast-iowa-training-lesson-recreational-activities-20180926">Kids First Gymnastics focuses on building character for kids</a>
+	<a class="post-title" href="/subject/sports/hawkeyes/iowa-womens-basketball/iowa-nc-state-ncaa-womens-basketball-sweet-16-time-tv-live-stream-score-updates-20190330">Iowa vs. NC State: NCAA Tournament final score, stats, highlights</a>
 </li>
 <li class="cat-post-item">
-	<a class="post-title" href="/subject/sports/iowa-prep-sports/basketball/linn-mars-trey-hutcheson-finds-a-college-basketball-home-at-albany-20180926">Linn-Mar’s Trey Hutcheson finds a D-I college basketball home at Albany</a>
+	<a class="post-title" href="/subject/sports/hawkeyes/iowa-football/iowa-football-recruiting-class-2019-receivers-running-backs-tight-ends-quarterback-analysis-20190329">Iowa football recruiting 2019: Filling gaps in the skill groups</a>
 </li>
 <li class="cat-post-item">
-	<a class="post-title" href="/subject/news/public-safety/melinda-lawrence-murder-cyclist-jeffrey-scott-central-city-vehicle-homicide-dollar-general-run-over-suv-20180926">Judge ups bond for Central City woman accused in cyclist death</a>
+	<a class="post-title" href="/subject/sports/hawkeyes/iowa-womens-basketball/iowa-ncaa-womens-basketball-tournament-sweet-16-time-travel-nc-state-20190329">NCAA Sweet 16 time and travel not ideal for Iowa women's basketball</a>
 </li>
 <li class="cat-post-item">
-	<a class="post-title" href="/subject/sports/coordinator-says-hawkeye-punt-returning-can-be-dangerous-for-iowas-opponents-20180926">Coordinator says Hawkeye punt returning can be dangerous ... for Iowa’s opponents</a>
+	<a class="post-title" href="/subject/sports/hawkeyes/iowa-womens-basketball/keep-your-eyes-in-the-paint-when-hawkeyes-wolfpack-collide-20190329">Keep your eyes in the paint when Iowa and NC State collide in NCAA Sweet 16</a>
 </li>
 <li class="cat-post-item">
-	<a class="post-title" href="/subject/news/public-safety/flood-update-crest-cedar-rapids-iowa-impact-20180926">Cedar River hits 17.94 feet and starts to recede</a>
+	<a class="post-title" href="/subject/sports/iowa-prep-sports/basketball/brandon-horman-steps-down-at-cr-jefferson-3rd-metro-basketball-coach-to-resign-in-2-days-20190329">Cedar Rapids Jefferson's Brandon Horman is third Metro basketball coach to resign in 2 days </a>
 </li>
 <li class="cat-post-item">
-	<a class="post-title" href="/subject/news/government/nearly-5000-iowans-registered-updated-voter-information-tuesday-during-national-voter-registration-day-20180926">Nearly 5,000 Iowans registered, updated voter information Tuesday during National Voter Registration Day</a>
+	<a class="post-title" href="/subject/news/education/iowa-supreme-court-to-consider-demolition-of-iowa-city-hoover-elementary-school-20190329">Iowa Supreme Court to consider demolition of Iowa City elementary school</a>
 </li>
 </ul>
 				</div>
@@ -1872,14 +2134,32 @@ macro used on contentlistitem1.pbo, 2, 22, 4, 6, 90, 91, 92, 93, 94 96
 
 
 
-		
-	
 
 
 
-
-
-
+<script type="text/javascript">
+console.log("hi");
+console.log(accesslevel);
+(function() {
+/** CONFIGURATION START **/
+var _sf_async_config = window._sf_async_config =
+(window._sf_async_config || {});
+_sf_async_config.sections = taxonomyItems;
+_sf_async_config.authors = '';
+var _cbq = window._cbq = (window._cbq || []);
+_cbq.push(['_acct', accesslevel]);
+/** CONFIGURATION END **/
+function loadChartbeat() {
+var e = document.createElement('script');
+var n = document.getElementsByTagName('script')[0];
+e.type = 'text/javascript';
+e.async = true;
+e.src = '//static.chartbeat.com/js/chartbeat.js';
+n.parentNode.insertBefore(e, n);
+}
+loadChartbeat();
+})();
+</script>
 
 		</main>
 		<footer class="no-print">
@@ -1891,6 +2171,7 @@ macro used on contentlistitem1.pbo, 2, 22, 4, 6, 90, 91, 92, 93, 94 96
 				<div class="col m6 s6 nopad">
 					<a href="/iowaideas" target="_blank">Iowa Ideas</a><br>
 					<a href="http://hooplanow.com" target="_blank">Hoopla</a><br>
+					<a href="https://her.today" class="navgo" target="_blank">HER</a><br>
 					<a href="http://classifieds.thegazette.com" target="_blank">Classifieds</a><br>
 					<a href="https://www.corridorcareers.com/" target="_blank">Corridor Careers</a><br>
 					<a href="https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=1e91abd5-1792-441f-a40a-9a4e07f3f772&amp;ccId=39709857_5737&amp;type=MP&amp;lang=en_US" target="_blank">Work at The Gazette</a>
@@ -1961,11 +2242,17 @@ macro used on contentlistitem1.pbo, 2, 22, 4, 6, 90, 91, 92, 93, 94 96
 			</div>
 		</div>
 		<div class="row sub-foot">
-			<div class="col l3 m6 s12">
-				<img src="/images/gaz-logo-white_150x35.png"><br>
-				<small>© 2018 The Gazette</small>
+			<div class="col l6 m8 s12">
+				<div class="col l5 m6 s12 nopad gazlogo">
+					<div><a href="/" target="_blank"><img src="/images/gaz-logo-white_150x35.png"></a></div>
+					<div><small>© 2019 The Gazette</small></div>
+				</div>
+				<div class="col l4 m6 s12 nopad foliencelogo">
+					<div><a href="https://www.folience.com" target="_blank"><img src="/images/folience-white_135x35.png"></a></div>
+					<div><small><i>A Folience company</i></small></div>
+				</div>
 			</div>
-			<div class="col l3 push-l6 m6 s12">
+			<div class="col l3 push-l3 m4 s12">
 				<div class="connect">Connect with us:</div>
 				<div class="socials">
 					<a href="https://www.facebook.com/GazetteOnline" target="_blank">
@@ -2016,18 +2303,27 @@ macro used on contentlistitem1.pbo, 2, 22, 4, 6, 90, 91, 92, 93, 94 96
     });
   </script>
 </div>
+<!-- ERROR: Macro /Static/mainJS is missing! -->
 <div id="piano-offer-footer-slideout">
 </div>
 
 		</footer>
 		<!-- JS Includes -->
 <script type="text/javascript">
+  $("#ad-leaderboard-footer-inner").on("click","i",function(e){
+    e.preventDefault();
+    e.stopPropagation();
+    hideDesktopLeaderboard();
+    return false;
+  });
+</script>
+<script type="text/javascript">
 (function(src){var a=document.createElement("script");a.type="text/javascript";a.async=true;a.src=src;var b=document.getElementsByTagName("script")[0];b.parentNode.insertBefore(a,b)})("https://experience.tinypass.com/xbuilder/experience/load?aid=d4XLDKwgVK");
 </script>
 <script src="/js/jquery.lazyload.min.js?ver=24"></script>
 <script src="/JS/materialize.min.js?ver=46"></script>
 <script src="/JS/moment.js?ver=35"></script>
-<script src="/JS/scripts.js?ver=56"></script>
+<script src="/JS/scripts.js?ver=59"></script>
 <script type="text/javascript" src="https://script.crazyegg.com/pages/scripts/0017/2302.js?ver24" async="async"></script>
 <script>
 // Make sure GA isn't loaded within an iframe
@@ -2091,4 +2387,4 @@ document,
 
 
 
-<!--Updated: 2018/09/27 07:59:44--></body></html>
+<!--Updated: 2019/03/30 15:07:02--></body></html>
