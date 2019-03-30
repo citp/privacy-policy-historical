@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the nejm.org privacy policy that was archived on 2018-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181208174810id_/https%3A//www.nejmgroup.org/legal/privacy-policy.htm%3Fquery%3Dfooter) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nejm.org privacy policy that was archived on 2019-03-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190330081106id_/https%3A//www.nejmgroup.org/legal/privacy-policy.htm%3Fquery%3Dfooter) for the most accurate reproduction.*
 
 # NEJM Group
 
-_Last updated: May 2018_
+_Last updated: March 2019_
 
 ### Governing Principles
 
@@ -36,7 +36,7 @@ We may also collect other information about you, your device, or your use of the
 
 #### _Cookies_
 
-We use cookies to collect information and help personalize your user experience. We store minimal personally identifying information in cookies and protect this information. Cookies allow us to recognize you when you return to use a Service and help us to personalize your user experience and track usage. We do not store complete records or credit card numbers in cookies. You can find out more about how we use cookies at our [Cookie Information page](https://web.archive.org/web/20181208174810id_/http://www.nejmgroup.org/legal/cookie-information.htm "NEJM Group Cookie Information").
+We use cookies to collect information and help personalize your user experience. We store minimal personally identifying information in cookies and protect this information. Cookies allow us to recognize you when you return to use a Service and help us to personalize your user experience and track usage. We do not store complete records or credit card numbers in cookies. You can find out more about how we use cookies at our [Cookie Information page](https://web.archive.org/web/20190404230918id_/https://www.nejmgroup.org/legal/cookie-information.htm "NEJM Group Cookie Information").
 
 We also may use cookies and other tracking technology to facilitate the delivery of relevant ads to you through the Services. 
 
@@ -50,7 +50,7 @@ We may also use clear gifs, which are tiny graphics with unique identifiers that
 
 ### HOW IS THIS INFORMATION USED?
 
-Information that you provide to us will be used to process, fulfill, and deliver your requests for content and services and, where applicable, report points and credits to credentialing organizations. This includes, for example, processing your subscription, sending you content and updates (including by email) and enabling you to participate in the features provided by the Services. Through such features, we are able to bring you information and content tailored to your individual interests and needs. We also may contact you periodically with information, surveys, and offers relating to the Services, unless you have indicated you do not wish to receive such further information. You may unsubscribe from our email services at any time. For additional information on how to unsubscribe from our email services, please refer to the [How to Make Changes to Your Information section](https://web.archive.org/web/20181208174810id_/http://www.nejmgroup.org/legal/privacy-policy.htm#how-to-make-changes-to-your-information "NEJM Group Privacy Policy -- How to Make Changes to Your Information") of this Privacy Policy.
+Information that you provide to us will be used to process, fulfill, and deliver your requests for content and services and, where applicable, report points and credits to credentialing organizations. This includes, for example, processing your subscription, sending you content and updates (including by email) and enabling you to participate in the features provided by the Services. Through such features, we are able to bring you information and content tailored to your individual interests and needs. We also may contact you periodically with information, surveys, and offers relating to the Services, unless you have indicated you do not wish to receive such further information. You may unsubscribe from our email services at any time. For additional information on how to unsubscribe from our email services, please refer to the [How to Make Changes to Your Information section](https://web.archive.org/web/20190404230918id_/https://www.nejmgroup.org/legal/privacy-policy.htm#how-to-make-changes-to-your-information "NEJM Group Privacy Policy -- How to Make Changes to Your Information") of this Privacy Policy.
 
 Information collected automatically is used to monitor users’ interests and usage patterns in order to help us enhance and improve our service offerings. 
 
