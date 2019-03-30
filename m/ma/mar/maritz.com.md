@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the maritz.com privacy policy that was archived on 2018-08-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180818051324id_/https%3A//www.maritz.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the maritz.com privacy policy that was archived on 2019-03-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190330234332id_/https%3A//www.maritz.com/Privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -6,17 +6,13 @@
 
 Maritz Holdings Inc., on behalf of its subsidiaries and divisions (collectively, “ **Maritz** ,” “ **us** ,” “ **we** ,” or “ **our** ”) is committed to building user trust and confidence by promoting, and complying with, business practices that help protect the privacy of our customer and user data.  This Privacy Policy covers all information collected through our Maritz Holdings Inc., Maritz LLC, MaritzCX Research LLC, Maritz Motivation Solutions Inc., and Maritz Global Events Inc. businesses, and their parents, subsidiaries and divisions, including, without limitation, Experient Inc.  For more information about our solutions and companies, please review the information in the footer of this webpage.  
 
-Maritz has prepared this Privacy Policy to describe to you, or if you represent an entity or other organization, that entity or organization, (in either case, “ **you** ,” “ **your** ,” or “ **User** ”) our practices regarding the personal information that Maritz collects, uses, and shares regarding our online informational platform (the “ **Platform** ”) accessed through the website located at <http://www.maritz.com/>, and any other websites operated by Maritz or its subsidiaries and divisions (each, a “ **Site** ”) or using mobile applications provided by and on behalf of Maritz or its subsidiaries and divisions (each, an “ **Application** ,” and each Site and Application treated as a part of the “ **Platform** ” for purposes of this Privacy Policy).  Capitalized terms not defined in this Privacy Policy, shall have the meanings as defined in the Maritz Terms of Use, located at: <http://www.maritz.com/legal>.
+Maritz has prepared this Privacy Policy to describe to you, or if you represent an entity or other organization, that entity or organization, (in either case, “ **you** ,” “ **your** ,” or “ **User** ”) our practices regarding the personal information that Maritz collects, uses, and shares regarding our online informational platform (the “ **Platform** ”) accessed through the website located at [http://www.maritz.com/](https://web.archive.org/), and any other websites operated by Maritz or its subsidiaries and divisions (each, a “ **Site** ”) or using mobile applications provided by and on behalf of Maritz or its subsidiaries and divisions (each, an “ **Application** ,” and each Site and Application treated as a part of the “ **Platform** ” for purposes of this Privacy Policy).  Capitalized terms not defined in this Privacy Policy, shall have the meanings as defined in the Maritz Terms of Use, located at: [http://www.maritz.com/legal](https://web.archive.org/legal).
 
 Maritz reserves the right, at any time, to modify this Privacy Policy.  If we make revisions that change the way we collect, use, or share personal information, we will post those changes in this Privacy Policy.  You should review this Privacy Policy periodically so that you keep up to date on our most current policies and practices.  We will note the effective date of the latest version of our Privacy Policy at the end of this Privacy Policy.  
 
 Please read this Privacy Policy carefully to understand Maritz’s views and practices regarding your personal information and how we will treat it.  **By visiting this Platform, you are freely accepting and consenting to the practices in this Privacy Policy.   You may withdraw your consent at any time and for any reason with effect to future data processing by contacting us at the address listed below in the Section titled “Communications”.  Without your consent, Maritz will use personal information, only insofar as such processing is permitted by applicable law (e.g., for the performance of a contract or agreement between Maritz and you) or where such processing is necessary for compliance with a legal obligation to which Maritz is subject.**
 
-**
-
 ### COLLECTION OF PERSONAL INFORMATION
-
-**
 
 Through your interactions with the Platform, Maritz collects “ **personal information** ,” which is information that identifies an individual or relates to an identified individual.  Non-personal information means information that does not directly identify an individual.  We collect both types of information about you. 
 
@@ -134,11 +130,7 @@ We may collect information from you, including your browser type, operating syst
   
 In addition to the information that we collect from you directly, we may also receive information about you from other sources, including third parties, business partners, our affiliates, or publicly available sources.
 
-**
-
 ### USE OF PERSONAL INFORMATION
-
-**
 
 In addition to the uses described above, Maritz uses the personal information collected in an effort to improve your experience on the Platform, to provide services to you, and to communicate with you about information that you request.  Maritz may also use personal information to help target specific offers to you and to help Maritz develop and improve its services.  Additionally, Maritz may use your personal information:
 
@@ -155,11 +147,7 @@ In addition to the uses described above, Maritz uses the personal information co
 
 
 
-**
-
 ### SHARING OF PERSONAL INFORMATION
-
-**
 
 In addition to the specific situations discussed elsewhere in this Privacy Policy, Maritz may disclose personal information in the following situations:
 
@@ -172,35 +160,21 @@ In addition to the specific situations discussed elsewhere in this Privacy Polic
 
 
 
-**
-
 ### SECURITY OF PERSONAL INFORMATION
-
-**
 
 Maritz has implemented reasonable and appropriate security measures to help protect the personal information Maritz collects from loss, misuse, unauthorized access, disclosure, alteration, and destruction.  Although Maritz attempts to protect the personal information in its possession, no security system is perfect, and Maritz cannot promise that your personal information will remain absolutely secure in all circumstances.
 
-**
-
 ### RETENTION OF PERSONAL INFORMATION  
 
-**
+ 
 
 Maritz will retain your personal information as needed to fulfill the purposes for which it was collected.   Maritz will retain and use your personal information as necessary to comply with Maritz’s business requirements, legal obligations, resolve disputes, protect our assets, and enforce our agreements. ****
 
-**
-
 ### DATA INTEGRITY AND PURPOSE LIMITATION
 
-******
-
-Maritz limits the use of personal information to ways that are compatible and relevant to the purposes for which the personal information was collected or subsequently authorized or for which consent was obtained.   Maritz will take reasonable steps to ensure that personal information is reliable for its intended use, accurate, complete, and current. 
-
-**
+Maritz limits the use of personal information to ways that are compatible and relevant to the purposes for which the personal information was collected or subsequently authorized or for which consent was obtained.  Maritz will take reasonable steps to ensure that personal information is reliable for its intended use, accurate, complete, and current. 
 
 ### YOUR CHOICES
-
-**
 
 You can make the following choices regarding your personal information:
 
@@ -215,11 +189,7 @@ You can make the following choices regarding your personal information:
 
 
 
-**
-
 ### CROSS-BORDER TRANSFER OF PERSONAL INFORMATION
-
-**
 
 Maritz may transfer your personal information to Maritz’s entities in the United States, or to third parties as described in this Privacy Policy that are located in various countries around the world.  By using Maritz’s Platform, or providing any personal information to Maritz, where applicable law permits, you consent to the transfer, processing, and storage or such information outside of your country of residence where data protection standards may be different.  When Maritz collects information in one country, and transfers it to another, to the extent possible it applies the same level of data protection required under the laws in the first country even when the data is in the second country.
 
@@ -229,11 +199,7 @@ Maritz safeguards and enables the global transfer of personal information in a n
 
 
 
-**
-
 ### DISPUTE RESOLUTION
-
-**
 
 In compliance with the Privacy Shield Principles, Maritz commits to resolve complaints about your privacy and our collection or use of your personal information.  EU individuals with questions or concerns about our use of personal information or our privacy policy should submit a written request to us using the information in the “Communications” section below.
 
