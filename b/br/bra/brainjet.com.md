@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the brainjet.com privacy policy that was archived on 2018-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181204105906id_/https%3A//www.brainjet.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the brainjet.com privacy policy that was archived on 2019-03-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190330093154id_/https%3A//www.gatewayblend.com/privacy.html) for the most accurate reproduction.*
 
-# Privacy Policy - BrainJet.com
+# Privacy Policy - gatewayblend.com
 
 Last updated: October 26, 2018
 
-This is the privacy policy (“Privacy Policy”) that governs how Gateway Blend, LLC, a Missouri limited liability company (“Gateway Blend”, “we”, “our” or “us”), uses Personal Data (defined below) that we collect, receive and store about individuals in connection with the use of our website: [https://www.brainjet.com](https://www.brainjet.com/) (together with its sub-domains, content and services, a “Site”).
+This is the privacy policy (“Privacy Policy”) that governs how Gateway Blend, LLC, a Missouri limited liability company (“Gateway Blend”, “we”, “our” or “us”), uses Personal Data (defined below) that we collect, receive and store about individuals in connection with the use of our website: [https://www.gatewayblend.com](https://www.gatewayblend.com/) (together with its sub-domains, content and services, a “Site”).
 
 You may choose whether or not to provide or disclose Personal Data in connection with your use of our Site. If you choose not to provide the Personal Data we request, you may still visit and use parts of our Site, but may be unable to access or use certain features, options, programs, and services. Our Site may contain links to third-party websites and services that are not owned or controlled by Gateway Blend. We are not responsible for the privacy practices or the content of third party websites, services and advertisements, and you visit them at your own risk.
 
@@ -20,21 +20,21 @@ We reserve the right, at our discretion, to change the terms of this Privacy Pol
 
 We may receive and/or collect Personal Data in the following ways:
 
-3.1. _Personal Data You Provide To Us On Our Site._ If you send us a “Contact Us” request or feedback, or in connection with creating a job profile on our Site, or when you download any of our content, you may be required to provide us with certain information that may constitute Personal Data, such as: 
-
-* Your name;
-* Email address;
-* Phone Number;
-* Address;
-* Profile photo; and
-* Communications you send to us.
+3.1. _Personal Data You Provide To Us On Our Site._ If you send us a “Contact Us” request or feedback, or in connection with creating a job profile on our Site, or when you download any of our content, you may be required to provide us with certain information that may constitute Personal Data, such as:   
+Your name;   
+Email address;   
+Phone Number;   
+Address;   
+Profile photo; and   
+Communications you send to us.
 
 3.2. _Personal Data You Provide To Third Parties On Our Site._ Please note that we use certain third party service providers on our Site to enhance your experience or deliver certain services. These providers may collect Personal Data in performing their services and/or functions on our Site. For example, we use the following third party service providers for the services identified:
 
-* Google Analytics to track user behavior and content consumption on the Site. To learn more about the privacy practices of Google Analytics, please review <https://www.google.com/policies/technologies/product-privacy/>
-* comScore to understand our audience demographics and interests. To learn more about the privacy practices of comScore, please review <https://www.comscore.com/About-comScore/Privacy-Policy>
-* Addthis to allow for social sharing features on the Site. To learn more about the privacy practices of Addthis, please review <http://www.addthis.com/privacy>
-* Facebook Business Tools, including pixels which use cookies, web beacons, and other storage technologies to collect or receive information from our websites and elsewhere on the internet, and use that information to provide measurement services and target ads. To learn more about the privacy practices of Facebook, please review <https://www.facebook.com/privacy/explanation>
+*AAIM Employers’ Association to collect Personal Data relating to open positions posted on our Site. To learn about the privacy practices of AAIM, please review <https://aaimea.org/privacy-policy/>
+
+*BambooHR to allow for job postings and employment-related content. To learn more about the privacy practices of BambooHR, please review <https://www.bamboohr.com/privacy.php>
+
+*Facebook Business Tools, including pixels which use cookies, web beacons, and other storage technologies to collect or receive information from our websites and elsewhere on the internet, and use that information to provide measurement services and target ads. To learn more about the privacy practices of Facebook, please review <https://www.facebook.com/privacy/explanation>
 
 3.3. _Information Collected Automatically._ Certain information on our Site is collected automatically by means of various software tools. We have a legitimate interest in using such information to assist in log-in, systems administration purposes, information security and abuse prevention, to track user trends, and to analyze the effectiveness of our Site. Alone or in combination with other information, such automatically collected information may constitute Personal Data. Some of our service providers (described in Section 5, below) may use cookies or other methods to gather information regarding your use of our Site. Such third parties may use these cookies or other tracking methods for their own purposes by relating information about your use of our Site with any of your Personal Data that they may have. The use of such information by a third party depends on the privacy policy of that third party.
 
@@ -132,7 +132,7 @@ We reserve the right to retain any Personal Data as long as the Personal Data ar
 
 7.1 _Personal Data._ If you have a job seeker account on our Site, we provide access to—and the ability to edit or delete—certain categories of Personal Data through the account.
 
-If you would like to access, amend, erase, export (i.e., data portability), or object to or restrict the processing of Personal Data collected via our Site, you may submit a request to [info@gatewayblend.com](mailto:info@gatewayblend.com) or write to us at:
+If you would like to access, amend, erase, export (i.e., data portability), or object to or restrict the processing of Personal Data collected via our Site, you may submit a request to [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#0e676068614e696f7a6b796f776c626b606a206d6163) or write to us at:
 
   
 Gateway Blend   
@@ -141,15 +141,15 @@ St. Louis, MO 63105
 
 We will promptly review all such requests in accordance with applicable laws.
 
-Depending on where you live, you may have a right to lodge a complaint with a supervisory authority or other regulatory agency if you believe that we have violated any of the rights concerning Personal Data about you. We encourage you to first reach out to us at [info@gatewayblend.com](mailto:info@gatewayblend.com), so we have an opportunity to address your concerns directly before you do so.
+Depending on where you live, you may have a right to lodge a complaint with a supervisory authority or other regulatory agency if you believe that we have violated any of the rights concerning Personal Data about you. We encourage you to first reach out to us at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#9bf2f5fdf4dbfcfaeffeecfae2f9f7fef5ffb5f8f4f6), so we have an opportunity to address your concerns directly before you do so.
 
-7.2. _Opting-Out of Promotional Emails._ You may choose not to receive future promotional or advertising emails from us by selecting an unsubscribe link at the bottom of each email that you receive from us, or by responding to the emails directly and requesting removal if such a link is not available. Additionally, you may send a request specifying your communications preferences to [info@gatewayblend.com](mailto:info@gatewayblend.com). Please note that even if you opt out of receiving the foregoing emails, we may still send you a response to any “Contact Us” request as well as administrative, maintenance and operational emails.
+7.2. _Opting-Out of Promotional Emails._ You may choose not to receive future promotional or advertising emails from us by selecting an unsubscribe link at the bottom of each email that you receive from us, or by responding to the emails directly and requesting removal if such a link is not available. Additionally, you may send a request specifying your communications preferences to [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#a0c9cec6cfe0c7c1d4c5d7c1d9c2ccc5cec48ec3cfcd). Please note that even if you opt out of receiving the foregoing emails, we may still send you a response to any “Contact Us” request as well as administrative, maintenance and operational emails.
 
 **8\. Personal Data Transferred from the EU or Switzerland To The United States.**
 
 Gateway Blend complies with the EU-US Privacy Shield Framework and Swiss-US Privacy Shield Framework (collectively, “Privacy Shield”) as set forth by the US Department of Commerce regarding the collection, use, and retention of Personal Data from European Union (the “EU”) member countries and Switzerland. Gateway Blend has certified to the Department of Commerce that it adheres to the Privacy Shield Principles of Notice, Choice, Accountability for Onward Transfer, Security, Data Integrity and Purpose Limitation, Access, and Recourse, Enforcement, and Liability. A violation of our commitment to Privacy Shield may be investigated by the Federal Trade Commission and/or the United States Department of Commerce. If there is any conflict between the policies in this Privacy Policy and the Privacy Shield Principles, the Privacy Shield Principles shall govern. To learn more about the Privacy Shield program, and to view our certification page, to the extent available, please visit [https://www.privacyshield.gov](https://www.privacyshield.gov/).
 
-In compliance with the Privacy Shield Principles, Gateway Blend commits to resolve complaints about your privacy and our collection or use of Personal Data about you. Persons from the EU or Switzerland who have inquiries or complaints regarding this Statement should first contact us via email at: [info@gatewayblend.com](mailto:info@gatewayblend.com).
+In compliance with the Privacy Shield Principles, Gateway Blend commits to resolve complaints about your privacy and our collection or use of Personal Data about you. Persons from the EU or Switzerland who have inquiries or complaints regarding this Statement should first contact us via email at: [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#741d1a121b341315001103150d1618111a105a171b19).
 
 Gateway Blend has committed to refer unresolved privacy complaints under the EU-US Privacy Shield Principles to JAMS, an alternative dispute resolution provider located in the United States. If you do not receive timely acknowledgment of your complaint, or if your complaint is not satisfactorily addressed, please visit <https://www.jamsadr.com/eu-us-privacy-shield> for more information and to file a complaint.
 
@@ -169,8 +169,8 @@ At this time, Gateway Blend is unable to universally respond to “Do Not Track�
 
 **12\. Your California Privacy Rights.**
 
-If you are a California resident and have provided Personal Data to Gateway Blend through the Site, you are entitled by law to request certain information regarding any disclosure that may have been made by Gateway Blend to third parties of Personal Data for their direct marketing purposes. To make such a request, send an email to [info@gatewayblend.com](mailto:info@gatewayblend.com) specifying that you seek your “California Customer Choice Privacy Notice.” Please allow thirty (30) days for a response. Gateway Blend is required to respond to only one request per customer each year, and is not required to respond to requests made by means other than through the above email address. We will not share Personal Data about you with third parties for their direct marketing purposes if you request that we do not do so. If you would like more information about not having your information used by third parties, or if you would like to make such an opt-out request, you may send us an email at [info@gatewayblend.com](mailto:info@gatewayblend.com). You may also request to opt-out of an advertiser’s use of cookies by visiting the Network Advertising Initiative or the Digital Advertising Alliance. You may request to opt-out of Google’s use of cookies by visiting www.google.com/ads/preferences. All applicable terms on these websites will apply to your request to opt-out in addition to this Privacy Policy. When contacting us, please indicate your name, address, email address, and what Personal Data you do not want us to share with third parties for their direct marketing purposes. Please note that there is no charge for controlling the sharing of Personal Data or for processing this request.
+If you are a California resident and have provided Personal Data to Gateway Blend through the Site, you are entitled by law to request certain information regarding any disclosure that may have been made by Gateway Blend to third parties of Personal Data for their direct marketing purposes. To make such a request, send an email to [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#a1c8cfc7cee1c6c0d5c4d6c0d8c3cdc4cfc58fc2cecc) specifying that you seek your “California Customer Choice Privacy Notice.” Please allow thirty (30) days for a response. Gateway Blend is required to respond to only one request per customer each year, and is not required to respond to requests made by means other than through the above email address. We will not share Personal Data about you with third parties for their direct marketing purposes if you request that we do not do so. If you would like more information about not having your information used by third parties, or if you would like to make such an opt-out request, you may send us an email at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#573e393138173036233220362e353b3239337934383a). You may also request to opt-out of an advertiser’s use of cookies by visiting the Network Advertising Initiative or the Digital Advertising Alliance. You may request to opt-out of Google’s use of cookies by visiting www.google.com/ads/preferences. All applicable terms on these websites will apply to your request to opt-out in addition to this Privacy Policy. When contacting us, please indicate your name, address, email address, and what Personal Data you do not want us to share with third parties for their direct marketing purposes. Please note that there is no charge for controlling the sharing of Personal Data or for processing this request.
 
 **13\. Contacting Us**
 
-Any comments, concerns, complaints, or questions regarding our Privacy Policy may be addressed to [info@gatewayblend.com](mailto:info@gatewayblend.com).
+Any comments, concerns, complaints, or questions regarding our Privacy Policy may be addressed to [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#dcb5b2bab39cbbbda8b9abbda5beb0b9b2b8f2bfb3b1).
