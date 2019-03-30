@@ -1,114 +1,72 @@
-> *The following text is extracted and transformed from the ondemandkorea.com privacy policy that was archived on 2018-07-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180702213714id_/https%3A//www.ondemandkorea.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ondemandkorea.com privacy policy that was archived on 2019-03-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190330231641id_/https%3A//www.ondemandkorea.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
-Last Updated: July 31, 2017
-
-www.ondemandkorea.com is owned by ODK Media, Inc. (“ODK”) and provides this Privacy Policy to inform you of our policies and procedures regarding the collection, use and disclosure of personal information we receive when you visit and use the www.ondemandkorea.com site and any websites owned or operated by (or on behalf of) ODK (collectively, the "Sites"), and when you use our downloadable media player that enables users to view content ("ODK Player") (collectively, the website content and the player are called "Services"). This Privacy Policy applies only to information that you provide to us through the ODK Services, and when you access, download, purchase or use any information, services, products or content offered by ODK. This Privacy Policy may be updated from time to time. We will post any material changes by posting the new Privacy Policy on the website, accessible by the Privacy Policy button or link. You should consult this Privacy Policy regularly for any changes.
-
-### 1\. INFORMATION COLLECTION : PERSONALLY IDENTIFIABLE INFORMATION
-
-a. In the course of using the Services, we ask you to provide us with certain personally identifiable information that can be used to contact or identify you and administer your account ("Personal Information"). Personal Information may include, but is not limited to, your name, phone number, credit card or other billing information, email address and home and business postal addresses.b. Please be aware that when you register to become an ODK member, other users of the Services may be able to see your screen or user name, in addition to any comments or submissions that you post to the Sites or submit via the Services. We recommend that you guard your anonymity and sensitive information and that you not use your real name as your screen or user name to the extent that allows others to identify you.
-
-c. As you use the Services, our servers automatically record information that the browser sends whenever it points to a website or online service ("Log Data"). Log Data may include, but is not limited to, your computer's Internet Protocol address, browser type, the web page you were visiting before you came to one of the Sites and information you search for on a Site. When a user downloads the ODK Player, we may record that a download took place. When you launch the ODK Player on a website our servers may automatically record Log Data. When the ODK Player checks for new updates, it may also automatically send version number and operating system information to our servers. 
-
-d. Like many websites, we use "cookies" to collect information. A cookie is a small data file that we transfer to your computer's hard disk for record-keeping purposes. We use "persistent cookies" to save your username and login password for future logins to the Sites. We use "session ID cookies" to enable certain features of the Services, to better understand how you interact with the Services and to monitor web traffic routing on the Sites and aggregate usage of the Services. You can instruct your browser, by changing its options, to stop accepting cookies or to prompt you before accepting a cookie from the websites you visit. If you do not accept cookies, however, you may not be able to use all portions of the Sites or all functionality of the Services.  
-
-e. Third party advertisers on the Sites may also place or read cookies on your computer's browser, which permit them to collect information about users who view or interact with their advertisements. The collection and use of such information is subject to such third party's privacy policy. These companies may use information (not including your name, address, email address, or telephone number) about your visits to these Sites in order to provide advertisements about goods and services of interest to you. 
-
-### 2\. OUR POLICY TOWARD CHILDREN
-
-www.ondemandkorea.com is not a website directed to children and ODK does not knowingly collect personally identifiable information from children under 13. If a parent or guardian becomes aware that his or her child has provided us with Personal Information without their consent, he or she should contact us at admin@ondemandkorea.com. If we become aware that a child under 13 has provided us with Personal Information, we will delete such information from our files.
-
-### 3\. HOW WE USE PERSONAL INFORMATION
-
-a. "Personally Identifiable Information" is information that can be used to uniquely identify you personally. Some examples of Personally Identifiable Information include your name, mailing address, telephone number, email address and credit card number.  "Non-Personally Identifiable Information" is information that cannot be used to uniquely identify you personally. Some examples of Non-Personally Identifiable Information include your IP address, the type of browser software you use when visiting our site, the date and time you visit our site and what pages you viewed when visiting our site. 
-
-b. Personal Information is used for the following purposes: (i) to provide and improve the Services, features and content, (ii) to administer your use of the Services and ODK account, (iii) to enable users to enjoy and easily navigate the Sites, (iv) to better understand your needs and interests, (v) to fulfill requests you may make, (vi) to personalize your experience, (vii) to provide service announcements, and (viii) to provide you with further information and offers from us or third parties that we believe you may find useful or interesting, including newsletters, marketing or promotional materials and other information on ODK related services.  
-
-c. If you decide at any time that you no longer wish to receive such communications, please follow the unsubscribe instructions provided in any of the communications.  
-
-d. We use information we obtain by technical means (such as the automatic recording performed by our servers or through the use of cookies) for the above purposes and in order to monitor and analyze use of the Services and for the technical administration of the Sites, to increase the functionality and user-friendliness of the Services, to better tailor both to your needs, to generate and derive useful data and information concerning the interests, characteristics and website use behavior of our users, and to verify that visitors and users to and of the Services meet the criteria required to process their requests.  
-
-e. By registering with ODK, you consent to receiving periodic notifications including: ODK updates and newsletters, relevant account notifications, ODK group/buddy invitations, order/download confirmations and private message notifications. In addition to these you may opt-in to notifications including: media subscriptions and group updates. We will provide means to opt-out of any email notifications from ODK and will include links to opt-out in every email.
-
-### 4\. INFORMATION SHARING AND DISCLOSURE
-
-a.
-
-_Third Parties_
-
-. We will not share or sell personally identifiable information, such as e-mail address, with other organizations for their marketing or promotional uses without your express consent. 
-
-b. Subscriber Members Sharing: In addition to your username, any comments or submissions that you post to the Sites 
-
-_will be publicly available_
-
-. Any information you choose to provide in a comment or a submission should reflect how much you want other users to know about you. We recommend that you guard your anonymity and sensitive information and we encourage ODK members to think carefully about what information about themselves they disclose in their comments or submissions. 
-
-c.
-
-_Aggregate Information and Non-Identifying Information_
-
-. We may share Non-Personally Identifiable Information and Log Data with third parties for industry analysis, demographic profiling, and to deliver targeted advertising about other products and services. Any aggregated information shared in these contexts will not contain your Personal Information. For more information on behavioral advertising by ODK or other Network Advertising Initiative (NAI) companies, please visit the NAI web site at www.networkadvertising.org. 
-
-d.
-
-_Service Providers_
-
-; We may employ third party companies and individuals to facilitate the Services, to provide the Services on our behalf, to perform services related to administration of the Services (including, without limitation, bill and credit card payment processing, maintenance, hosting and database management services, web analytics and administration). These third parties have access to your Personal Information only to perform these tasks on our behalf and are obligated not to disclose or use it for any other purpose. 
-
-e.
-
-_Compliance with Laws and Law Enforcement_
-
-. ODK cooperates with government and law enforcement officials and private parties to enforce and comply with the law. We will disclose any information about you to government or law enforcement officials or private parties as we, in our sole discretion, believe necessary or appropriate to respond to claims and legal process (including but not limited to subpoenas), to protect the property and rights of ODK or a third party, to protect the safety of the public or any person, or to prevent or stop any activity we may consider to be, or to pose a risk of being, illegal, unethical, inappropriate or legally actionable. 
-
-f.
-
-_Business Transfers_
-
-. ODK may sell, transfer or otherwise share some or all of its assets, including your Personal Information, in connection with a merger, acquisition, reorganization or sale of assets or in the event of bankruptcy.
-
-### 5\. CHANGING OR DELETING YOUR INFORMATION
-
-All ODK members may review, update, correct or delete the Personal Information in their registration profile by logging into their account and changing the "user preferences" associated with their account. If you completely delete all such information, your account may be deactivated. We may retain an archived copy of your records as required by law or for legitimate business purposes.
-
-### 6\. SECURITY
-
-ODK is concerned with safeguarding your information. We employ a variety of industry-standard measures designed to protect your information from unauthorized access.
-
-### 7\. INTERNATIONAL TRANSFER
-
-Your information may be transferred to -- and maintained on -- computers located outside of your state, province, country or other governmental jurisdiction where the privacy laws may not be as protective as those in your jurisdiction. If you are located outside the United States and choose to provide information to ODK, please be advised that we transfer Personal Information to the United States and process it there. Your consent to this Privacy Policy followed by your submission of such information represents your agreement to that transfer.
-
-### 8\. LINKS TO OTHER SITES
-
-The Services contain links to other websites. If you choose to visit an advertiser by "clicking on" a banner ad or other type of advertisement, or click on another third party link, you will be directed to that third party's website. The fact that we link to a website or present a banner ad or other type of advertisement is not an endorsement, authorization or representation that we are affiliated with that third party, nor is it an endorsement of their privacy or information security policies or practices. We do not exercise control over third party websites. These other websites may place their own cookies or other files on your computer, collect data or solicit personal information from you. Other websites and services follow different rules regarding the use or disclosure of the personal information you submit to them. We encourage you to read the privacy policies or statements of the other websites you visit.
-
-### 9\. DMCA Agent and Contacting ODK
-
-a. If anyone has a DMCA take down request, or any other demand or notice please present it via email or mail to:  
+  
+Privacy Policy  
 
 
-i. by Email to:
+Last Updated: November 1, 2018
 
-Attn. DMCA Agent
+www.ondemandkorea.com is offered by ODK Media, Inc. and its affiliates (“ **ODK** ”) and provides this Privacy Policy to inform you of our policies and procedures regarding the collection, use and disclosure of personal information we receive when you visit and use the www.ondemandkorea.com site and any websites owned or operated by (or on behalf of) ODK (collectively, the “ **Sites** ”), and when you use our downloadable media player that enables users to view content (“ **ODK Player** ”) or our OnDemandKorea mobile or other applications (collectively, the “ **Apps** ”).  The Sites, the ODK Video Player, the Apps and any and all video clips, text, graphics, logos, photographs, audiovisual works, artwork, and other content that may be made available on any of the foregoing are referred to in this Privacy Policy as the “ **ODK Services** ”. This Privacy Policy applies only to information that you provide to us through the ODK Services, and when you access, download, purchase or use any information, services, products or content offered by ODK. This Privacy Policy may be updated from time to time. We will provide notice of any such changes (including when they take effect) in accordance with applicable law. Your continued use of the ODK Services after any such updates take effect will constitute acknowledgement and acceptance of those changes. If you do not wish to acknowledge or accept any updates to this Privacy Policy, you may cancel your use of the ODK Services. You should consult this Privacy Policy regularly for any changes. Please also review our Terms of Use, which governs your use of the ODK Services.
 
-Legal Counsel
+  
+ **1\. INFORMATION COLLECTION: PERSONALLY IDENTIFIABLE INFORMATION**
 
-admin@ondemankorea.com, or 
+a. In the course of using the ODK Services, we may ask you to provide us or you may otherwise have the ability to provide us with, certain personally identifiable information (i.e., information that can be used to uniquely identify you personally) (“ **Personally Identifiable Information** ”). Personally Identifiable Information may include, but is not limited to, your name, phone number, credit card or other billing information, email address, device geolocation information, and home and business postal addresses.
 
-ii. by Mail to: 
+b. Please be aware that when you register to become an ODK member, other users of the ODK Services may be able to see your screen or user name, in addition to any comments or submissions that you post to the Sites or submit via the ODK Services. We recommend that you guard your anonymity and sensitive information and that you not use your real name as your screen or user name to the extent that allows others to identify you.  
+  
+c. If you access the ODK Services via a third-party platform or service account (e.g., by logging in to the ODK Services using your Facebook account credentials) and/or integrate your ODK account with your third-party platform account, we may collect certain information from such third-party platform, such as your username and other information you provided to such platform in connection with your account (e.g., name, country, date of birth, gender and e-mail address). 
 
-Attn. DMCA Agent
+d. As you use the ODK Services, our servers automatically record information that the browser sends whenever it points to a website or online service (“ **Log Data** ”). Log Data may include, but is not limited to, your computer’s Internet Protocol address, browser type, the web page you were visiting before you came to one of the Sites and information you search for on a Site. When a user downloads the ODK Player, we may record that a download took place. When you launch the ODK Player on a website our servers may automatically record Log Data. When the ODK Player checks for new updates, it may also automatically send version number and operating system information to our servers.   
+  
+e. Like many websites, we use “cookies” to collect information. A cookie is a small data file that we transfer to your computer’s hard disk for record-keeping purposes. We use “persistent cookies” to save your username and login password for future logins to the Sites. We use “session ID cookies” to enable certain features of the ODK Services, to better understand how you interact with the ODK Services and to monitor web traffic routing on the Sites and aggregate usage of the ODK Services. You can instruct your browser, by changing its options, to stop accepting cookies or to prompt you before accepting a cookie from the websites you visit. If you do not accept cookies, however, you may not be able to use all portions of the Sites or all functionality of the ODK Services.    
+  
+f. Third party advertisers on the Sites may also place or read cookies on your computer’s browser, which permit them to collect information about users who view or interact with their advertisements. The collection and use of such information is subject to such third party’s privacy policy. These companies may use information (not including your name, address, email address, or telephone number) about your visits to these Sites in order to provide advertisements about goods and services of interest to you. 
 
-Legal Counsel
+g. We and our service providers may also use other technologies that are similar to cookies, such as browser storage and plugins and web beacons (also known as clear gifs or pixel tags). Like cookies, some of these technologies may store small amounts of data on your device. We may use these and various other technologies for similar purposes as cookies, such as to enforce our terms, prevent fraud, and analyze the use of the ODK Service. There are various ways to exercise choice regarding these technologies. For example, many popular browsers provide the ability to clear browser storage, commonly in the settings or preferences area; see your browser’s help function or support area to learn more.
 
-ODK Media Inc.
+  
+ **2\. OUR POLICY TOWARD CHILDREN**
 
-221 N. Harbor Blvd.
+www.ondemandkorea.com is not a website directed to children and ODK does not knowingly collect personally identifiable information from children under 13. If a parent or guardian becomes aware that his or her child has provided us with Personally Identifiable Information without their consent, he or she should contact us at admin@ondemandkorea.com. If we become aware that a child under 13 has provided us with Personal Information, we will delete such information from our files.
 
-Suite E
+  
+ **3\. HOW WE USE PERSONALLY IDENTIFIABLE INFORMATION**
 
-Fullerton, California 92832, USA
+a. “ **Non-Personally Identifiable Information** ” is information that cannot be used to uniquely identify you personally. Some examples of Non-Personally Identifiable Information include your IP address, the type of browser software you use when visiting our site, the date and time you visit our site and what pages you viewed when visiting our site.   
+  
+b. We may use your Personally Identifiable Information  for the following purposes: (i) to provide and improve the ODK Services, features and content, (ii) to administer your use of the ODK Services and your ODK account, (iii) to enable users to enjoy and easily navigate the Sites, (iv) to better understand your needs and interests, (v) to fulfill requests you may make, (vi) to personalize your experience, (vii) to provide service announcements, and (viii) to provide you with further information and offers from us or third parties that we believe you may find useful or interesting, including newsletters, marketing or promotional materials and other information on ODK related services.    
+  
+c. If you decide at any time that you no longer wish to receive such marketing or promotional communications, please follow the unsubscribe instructions provided in any of the communications.  If you are a registered user of the ODK Services, you may also opt-out of receiving such communications by adjusting your preferences in your account. Please note that we may still send you emails regarding changes to our policies or in connection with a purchase via the ODK Services or other purposes specifically relating to your account and/or use of the ODK Services.  
+  
+d. We use information we obtain by technical means (such as the automatic recording performed by our servers or through the use of cookies) for the above purposes and in order to monitor and analyze use of the ODK Services and for the technical administration of the ODK Services, to increase the functionality and user-friendliness of the ODK Services, to better tailor both to your needs, to generate and derive useful data and information concerning the interests, characteristics and website use behavior of our users, and to verify that visitors and users to and of the ODK Services meet the criteria required to process their requests.    
+  
+e. By registering with ODK, you consent to receiving periodic notifications including: ODK updates and newsletters, relevant account notifications, ODK group/buddy invitations, order/download confirmations and private message notifications. In addition to these you may opt-in to notifications including: media subscriptions and group updates. We will provide means to opt-out of any marketing or promotional email notifications from ODK and will include links to opt-out in such emails.
+
+  
+ **4\. INFORMATION SHARING AND DISCLOSURE**
+
+a.  _Third Parties_. We will not share or sell your Personally Identifiable Information with other organizations for their marketing or promotional uses without your express consent. 
+
+  
+b.  _Subscriber Members Sharing_ : In addition to your username, any comments or submissions that you post to the ODK Services will be publicly available. Any information you choose to provide in a comment or a submission should reflect how much you want other users to know about you. We recommend that you guard your anonymity and sensitive information and we encourage ODK members to think carefully about what information about themselves they disclose in their comments or submissions.   
+  
+c.  _Aggregate Information and Non-Identifying Information_. We may share Non-Personally Identifiable Information and Log Data with third parties for industry analysis, demographic profiling, and to deliver targeted advertising about other products and services. Any aggregated information shared in these contexts will not contain your Personally Identifiable Information.   
+  
+d.  _Service Providers_. We may employ third party companies and individuals to facilitate the ODK Services, to provide the ODK Services on our behalf, to perform services related to administration of the ODK Services (including, without limitation, bill and credit card payment processing, maintenance, hosting and database management services, web analytics and administration). These third parties have access to your Personally Identifiable Information only to perform these tasks on our behalf and are obligated not to disclose or use it for any other purpose.   
+  
+e.  _Compliance with Laws and Law Enforcement_. ODK cooperates with government and law enforcement officials and private parties to enforce and comply with the law. We will disclose any information about you to government or law enforcement officials or private parties as we, in our sole discretion, believe necessary or appropriate to respond to claims and legal process (including but not limited to subpoenas), to protect the property and rights of ODK or a third party, to protect the safety of the public or any person, or to prevent or stop any activity we may consider to be, or to pose a risk of being, illegal, unethical, inappropriate or legally actionable.   
+  
+f.  _Business Transfers_. ODK may sell, transfer or otherwise share some or all of its assets, including your Personally Identifiable Information, in connection with a merger, acquisition, reorganization or sale of assets or in the event of bankruptcy or similar insolvency event.
+
+g.  _Group Entities_. We may disclose your Personally Identifiable Information to other group entities that are affiliates and/or subsidiaries or parents of ODK Media, Inc. in order to provide you with tailored products, services and communications or in accordance with our internal policies or administrative or business practices.
+
+  
+ **5\. USER CHOICE REGARDING COOKIES AND ADVERTISING IDENTIFIERS**  
+
+
+The ODK Services and our third party advertising service providers may employ cookies and other tracking technologies to gather information regarding your use of the ODK Services, your web browsing activity and your device, such as your IP address, device type and other identifiers, browser type, web pages visited, non-precise location information, and information about your interaction with advertisements.  This information is collected in an anonymized, de-identified format and does not personally identify you.  Your information relating to your use of the ODK Services may be combined with information relating to your other online activities over time and across different websites (including those operated by third parties) and devices. The information collected or received by our third party advertising service providers may be used to show you targeted advertisements for products and services that you might be interested in, on the ODK Services and on third party websites and services.  This information may also be used to prevent you from seeing the same advertisements too many times and to conduct research regarding the usefulness of certain advertisements to you. If you would like to learn more about interest-based advertising or opt out of receiving interest-based advertisements, please visit the following websites of the Digital Advertising Alliance (DAA) and **** Network Advertising Initiative (NIA), respectively: [www.aboutads.info/consumers/](http://www.aboutads.info/consumers/); ****[www.networkadvertising.org](http://www.networkadvertising.org/).  Please note that, in order to opt out of receiving interest-based advertising on the App, you may need to adjust your mobile device’s settings. [The ODK Services currently do not take action in response to “do not track signals”.
+
+6. CHANGING OR DELETING YOUR INFORMATION
