@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kitco.com privacy policy that was archived on 2018-10-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181009133107id_/https%3A//online.kitco.com/legal/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kitco.com privacy policy that was archived on 2019-03-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190330185143id_/https%3A//online.kitco.com/legal/privacy-policy) for the most accurate reproduction.*
 
 # Kitco Privacy Policy | KITCO Online
 
