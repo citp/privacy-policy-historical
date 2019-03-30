@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mysensors.org privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606201704id_/https%3A//www.mysensors.org/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mysensors.org privacy policy that was archived on 2019-03-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190330201224id_/https%3A//www.mysensors.org/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | MySensors - Create your own Connected Home Experience
 
