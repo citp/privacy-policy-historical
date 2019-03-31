@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the freeresultalert.com privacy policy that was archived on 2018-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181130152807id_/http%3A//freeresultalert.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freeresultalert.com privacy policy that was archived on 2019-03-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190331235207id_/https%3A//freeresultalert.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy : FreeResultAlert.com
 
@@ -23,7 +23,7 @@ Currently, we do not use Google Adsense when we join us then all the ads cookie
 
 ->Google, as a third-party vendor, uses cookies to serve ads on FreeResultAlert.com
 
-->Google’s use of the DART cookie enables it to serve ads to users based on their visit to http://freeresultalert.com/ and other sites on the Internet.
+->Google’s use of the DART cookie enables it to serve ads to users based on their visit to https://freeresultalert.com/ and other sites on the Internet.
 
 ->Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at the following URL – http://www.google.com/privacy_ads.html
 
