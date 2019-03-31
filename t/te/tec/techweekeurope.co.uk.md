@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the techweekeurope.co.uk privacy policy that was archived on 2018-10-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181006052627id_/https%3A//www.silicon.co.uk/privacy-cookie-policy-update) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the techweekeurope.co.uk privacy policy that was archived on 2019-03-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190331015022id_/https%3A//www.silicon.co.uk/privacy-cookie-policy-update) for the most accurate reproduction.*
 
-# Privacy & Cookie Policy Update | Silicon UK
+# Privacy & Cookie Policy Update | Silicon UK High Tech News
 
 **We at NETMEDIA Europe are committed to protect and respect your privacy.**
 
