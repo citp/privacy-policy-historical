@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the stopwar.org.uk privacy policy that was archived on 2018-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181228171851id_/http%3A//www.stopwar.org.uk/index.php/about/aims-constitution) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the stopwar.org.uk privacy policy that was archived on 2019-03-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190331061613id_/http%3A//www.stopwar.org.uk/index.php/about/aims-constitution) for the most accurate reproduction.*
 
 # Aims, Constitution & Privacy Policy
 
@@ -51,6 +51,23 @@ The Stop the War Coalition was formed on September 21st, 2001 at a public meetin
       2. The Steering Committee shall elect such officers, in addition to the Chair, Convenor and Treasurer directly elected by Conference, as it feels necessary to ensure the discharge of these responsibilities and to conduct the day-to-day work of the Coalition.
 
 
+
+## Code of Conduct
+
+We ask all members and those active on behalf of Stop the War Coalition to abide by the following code of conduct:
+
+We want all Stop the War Coalition members and participants to feel respected and comfortable in the movement.
+
+Healthy debate plays an important part in our activities, but it’s possible for debate to get out of hand. No matter how passionately you feel there is never an excuse to be abusive or aggressive.
+
+Any volunteers or individuals who campaign on behalf of Stop the War Coalition at any level of the organisation must be treated with respect and consideration.
+
+We take the issue of equal opportunities very seriously. At all our events  
+we aim to create an environment that is accessible to everyone and one that is free from discrimination and prejudice.
+
+Any discriminatory comments, including, but not limited to: sexist, racist, Islamophobic, anti-Semitic, homophobic, transphobic, ageist or disablist comments, are not allowed, even if you don’t mean to offend. This stands for all communications on behalf of Stop the War including any social media posts and emails.
+
+The national officers will investigate and act upon formal complaints made, including having the power to suspend/remove membership or affiliation. Such decisions are final, unless appealed during the Annual General Meeting. 
 
 ## Anti-War Charter
 
