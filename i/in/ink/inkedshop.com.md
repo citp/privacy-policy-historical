@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the inkedshop.com privacy policy that was archived on 2018-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181229161419id_/https%3A//www.inkedshop.com/pages/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the inkedshop.com privacy policy that was archived on 2019-03-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190331144827id_/https%3A//www.inkedshop.com/pages/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy - Inked Shop
 
 **INTRODUCTION:**  
 Thank you for visiting our website.  This privacy policy (“Privacy Policy”) applies to the websites that post this Privacy Policy, including, without limitation, www.inkedshop.com (each a “Site” and collectively, the “Sites”) (however accessed and/or used, whether via personal computers, mobile devices or otherwise), which are owned and operated by Inked Shop, Inc. (“Inked Shop” or “we,” “our,” or “us”).  This Privacy Policy also applies to widgets, applications, interactive features and/or downloads that are owned or operated by Inked Shop and available through the Sites, or that post a link to this Privacy Policy.  This Privacy Policy covers information collected at the Sites and does not cover any information collected at any other website or offline by Inked Shop (unless specifically stated).
