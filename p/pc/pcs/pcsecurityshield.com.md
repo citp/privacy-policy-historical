@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pcsecurityshield.com privacy policy that was archived on 2018-03-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180319203339id_/https%3A//pcsecurityshield.com/about/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pcsecurityshield.com privacy policy that was archived on 2019-03-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190331050956id_/https%3A//pcsecurityshield.com/about/privacy-policy.php) for the most accurate reproduction.*
 
 # Privacy Policy - PCSecurityShield
 
@@ -36,4 +36,4 @@ Except as described above or as expressly stated at the time you provide informa
 
 PXE Group, LLC cannot guarantee that the information you provide to us is completely safe. There may be technical problems beyond our control that may make it accessible to unauthorized persons. If PXE Group, LLC is acquired, our user information will be included among the assets transferred to the new owner. There also may be occasions in which PXE Group, LLC is required to provide information by order of a court or when the law requires that subscriber information be treated as a transferable asset, as in bankruptcy. Internet-based commerce is dynamic and changing. We may alter our privacy policy at anytime in order to adjust to these changes. We recommend that you check this Privacy Policy frequently.
 
-If you have questions or comments on this Privacy Statement, please email us at [customersupport@pcss.com](https://web.archive.org/web/20180319203339id_/https%3A//pcsecurityshield.com/about/customersupport@pcss.com), write to us at Privacy Concerns, c/o PXE Group LLC, 8 The Green, Suite A, Dover, DE 19901 or call toll free 1-877-877-9944.
+If you have questions or comments on this Privacy Statement, please email us at [customersupport@pcsecurityshield.com](mailto:%63%75%73%74%6F%6D%65%72%73%75%70%70%6F%72%74%40%70%63%73%65%63%75%72%69%74%79%73%68%69%65%6C%64%2E%63%6F%6D), write to us at Privacy Concerns, c/o PXE Group LLC, 8 The Green, Suite A, Dover, DE 19901 or call toll free 1-877-877-9944.
