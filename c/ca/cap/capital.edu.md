@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the capital.edu privacy policy that was archived on 2018-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180618024301id_/http%3A//www.capital.edu/Privacy-Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the capital.edu privacy policy that was archived on 2019-03-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190331105303id_/https%3A//www.capital.edu/Privacy-Policy) for the most accurate reproduction.*
 
-# Privacy | Capital University
+# Privacy | Capital University, Columbus Ohio
 
 Capital University respects your privacy as a visitor to the university's main Web site, and does not collect or disclose to others personally identifiable information about visitors.
 
