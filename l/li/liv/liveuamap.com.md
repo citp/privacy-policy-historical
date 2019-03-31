@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the liveuamap.com privacy policy that was archived on 2018-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181230163520id_/https%3A//liveuamap.com/about%23privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the liveuamap.com privacy policy that was archived on 2019-03-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190331155147id_/https%3A//liveuamap.com/about%23privacy) for the most accurate reproduction.*
 
 # Liveuamap Company
 
@@ -76,8 +76,10 @@ These Terms of Service (“Terms”) govern your access to and use of our servic
 
 You may use the Services only if you agree to form a binding contract with Liveuamap and are not a person barred from receiving services under the laws of the applicable jurisdiction. In any case, you must be at least 16 years old to use the Services. If you are accepting these Terms and using the Services on behalf of a company, organization, government, or other legal entity, you represent and warrant that you are authorized to do so. 
 
+You may use our data and maps, including map tiles and areas polygons partially, or in the whole in your work, with reference to liveuamap.com. Images and texts from 3rd party social networks are distibuted under Terms of Service of original resources, that you may access via "source" link. 
+
+Any use or reliance on any Content or materials posted via the Services or obtained by you through the Services is at your own risk. We do not endorse, support, represent of any Content or communications posted via the Services or endorse any opinions expressed via the Services. You understand that by using the Services, you may be exposed to Content that might be offensive, harmful, inaccurate or otherwise inappropriate. All Content is the sole responsibility of the person who originated such Content. 
+
 **Privacy**
 
 Our Privacy Policy [(https://liveuamap.com/about#privacy)](https://liveuamap.com/about#privacy) describes how we handle the information you provide to us when you use our Services. 
-
-### Use of data
