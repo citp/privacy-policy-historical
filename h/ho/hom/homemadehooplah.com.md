@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the homemadehooplah.com privacy policy that was archived on 2018-04-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180411091631id_/https%3A//homemadehooplah.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the homemadehooplah.com privacy policy that was archived on 2019-03-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190331013730id_/https%3A//homemadehooplah.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Homemade Hooplah
 
-If you require any more information or have any questions about our privacy policy, please feel free to contact us by email at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#9cfff3f2e8fdffe8dcf4f3f1f9f1fdf8f9f4f3f3ecf0fdf4b2fff3f1).
+If you require any more information or have any questions about our privacy policy, please feel free to contact us by email at [contact@homemadehooplah.com](mailto:contact@homemadehooplah.com).
 
 At homemadehooplah.com we consider the privacy of our visitors to be extremely important. This privacy policy document describes in detail the types of personal information is collected and recorded by homemadehooplah.com and how we use it.
 
