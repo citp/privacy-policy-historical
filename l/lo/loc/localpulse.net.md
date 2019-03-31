@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the localpulse.net privacy policy that was archived on 2017-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171222031621id_/http%3A//www.localpulse.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the localpulse.net privacy policy that was archived on 2019-03-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190331014047id_/https%3A//www.localpulse.net/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy – Local Pulse
+# Privacy Policy • Local Pulse
 
-This Privacy Policy governs the manner in which Local Pulse collects, uses, maintains and discloses information collected from users (each, a “User”) of the [http://www.localpulse.net](http://www.localpulse.net/ "Local Pulse") website (“Site”). This privacy policy applies to the Site and all products and services offered by Local Pulse.
+This Privacy Policy governs the manner in which Local Pulse collects, uses, maintains and discloses information collected from users (each, a “User”) of the [http://www.localpulse.net](https://www.localpulse.net/ "Local Pulse") website (“Site”). This privacy policy applies to the Site and all products and services offered by Local Pulse.
 
 **Personal Identification Information**
 
@@ -56,12 +56,12 @@ Contacting us
 If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this site, please contact us at:  
 Local Pulse
 
-> [Front Page](http://www.localpulse.net/)
+> [Front Page](https://www.localpulse.net/)
 
   
 1 Major Vita cor. Arroyo St., Zone 4 Central Signal, Taguig City, Philippines  
 +639998569287  
-mail@localpulse.net
+[[email protected]](https://web.archive.org/cdn-cgi/l/email-protection)
 
 This document was last updated on August 19, 2014
 
