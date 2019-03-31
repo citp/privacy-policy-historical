@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the favequilts.com privacy policy that was archived on 2018-08-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180828044004id_/https%3A//www.favequilts.com/index.php/hct/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the favequilts.com privacy policy that was archived on 2019-03-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190331222050id_/https%3A//www.favequilts.com/index.php/hct/privacy_policy) for the most accurate reproduction.*
 
 # Privacy Policy | FaveQuilts.com
 
@@ -42,7 +42,7 @@ Prime Publishing LLC with its parents, affiliates and its subsidiaries (collecti
 
 Except as otherwise noted in this Privacy Policy, Prime Publishing is a data controller (as that term is used under the [EU General Data Protection Regulation](http://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:32016R0679&from=EN) ( **"GDPR"** )), which means that we decide how and why the information you provide to us is processed. Contact details are provided in Section 17 below. This Policy may be amended or updated from time to time to reflect changes in our practices with respect to the Processing of your information, or changes in applicable law. We encourage you to read this Policy carefully, and to regularly check this page to review any changes we might make.
 
-**This Privacy Policy covers information collected through our various websites listed at our corporate site — www.primecp.com.**
+**This Privacy Policy covers information collected through our various websites listed at our corporate site —[www.primecp.com](https://www.primecp.com/).**
 
 _arrow_upward_
 
@@ -388,9 +388,9 @@ _arrow_upward_
 
 ##### Summary — Terms of Service
 
-**For more information concerning your use of the Prime Publishing website and application, please see our[Terms of Service](https://web.archive.org/web/20180828044004id_/https%3A//www.favequilts.com/index.php/hct/xxxx).**
+**For more information concerning your use of the Prime Publishing website and application, please see our[Terms of Service](https://web.archive.org/web/20190331222050id_/https%3A//www.favequilts.com/index.php/hct/xxxx).**
 
-For more information concerning your use of the Prime Publishing websites, please consult the [Prime Publishing Terms of Service](https://web.archive.org/web/20180828044004id_/https%3A//www.favequilts.com/index.php/hct/xxxx), which is incorporated by reference into this Privacy Policy. We recommend that you review the Terms of Service regularly, in order to review any changes we might make from time to time.
+For more information concerning your use of the Prime Publishing websites, please consult the [Prime Publishing Terms of Service](https://web.archive.org/web/20190331222050id_/https%3A//www.favequilts.com/index.php/hct/xxxx), which is incorporated by reference into this Privacy Policy. We recommend that you review the Terms of Service regularly, in order to review any changes we might make from time to time.
 
 _arrow_upward_
 
@@ -399,6 +399,8 @@ _arrow_upward_
 ##### Summary — Contact Details
 
 **You may contact us at the addresses set out below or by emailing[privacy@primecp.com](mailto:privacy@primecp.com?subject=Privacy%20Policy)**
+
+Note: To unsubscribe from our e-mail newsletters instantly please visit us [here](https://web.archive.org/section/subctr/).
 
 Prime Publishing LLC  
 Attention: Privacy Department  
