@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the theahl.com privacy policy that was archived on 2018-01-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180125204710id_/http%3A//league.theahl.hockeytech.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the theahl.com privacy policy that was archived on 2019-03-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190331093929id_/http%3A//league.theahl.hockeytech.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | TheAHL.com | The American Hockey League
 
@@ -26,23 +26,24 @@ The quality information on theahl.com is supported by advertising revenue and a 
 
  **Affiliated sites, linked sites and advertisements.**
 
-Theahl.com expects its partners, advertisers and third-party affiliates to respect the privacy of our users. However, third parties, including our partners, advertisers, affiliates and other content providers accessible through our site, may have their own privacy and data collection policies and practices. For example, during your visit to our site you may link to, or view as part of a frame on a theahl.com page, certain content that is actually created or hosted by a third party. Also, through TheAHL.com you may be introduced to, or be able to access, information, Web sites, advertisements, features, contests or sweepstakes offered by other parties. theahl.com is not responsible for the actions or policies of such third parties. You should check the applicable privacy policies of those third parties when providing information on a feature or page operated by a third party.
+Theahl.com expects its partners, advertisers and third-party affiliates to respect the privacy of our users. However, third parties, including our partners, advertisers, affiliates and other content providers accessible through our site, may have their own privacy and data collection policies and practices. For example, during your visit to our site you may link to, or view as part of a frame on a theahl.com page, certain content that is actually created or hosted by a third party. Also, through theahl.com you may be introduced to, or be able to access, information, Web sites, advertisements, features, contests or sweepstakes offered by other parties. Theahl.com is not responsible for the actions or policies of such third parties. You should check the applicable privacy policies of those third parties when providing information on a feature or page operated by a third party.
 
-While on our site, our advertisers, promotional partners or other third parties may use cookies or other technology to attempt to identify some of your preferences or retrieve information about you. For example, some of our advertising is served by third parties and may include cookies that enable the advertiser to determine whether you have seen a particular advertisement before. Through features available on our site, third parties may use cookies or other technology to gather information. theahl.com does not control the use of this technology or the resulting information and is not responsible for any actions or policies of such third parties.
+While on our site, our advertisers, promotional partners or other third parties may use cookies or other technology to attempt to identify some of your preferences or retrieve information about you. For example, some of our advertising is served by third parties and may include cookies that enable the advertiser to determine whether you have seen a particular advertisement before. Through features available on our site, third parties may use cookies or other technology to gather information. Theahl.com does not control the use of this technology or the resulting information and is not responsible for any actions or policies of such third parties.
 
-A cookie gets entered by your Web browser into the “Cookies” folder on your hard drive after you close your browser, and may be used by your browser on subsequent visits to the Site. We use persistent and session cookies to analyze and enhance your experience on the Site, and use third party ad technology to serve ads. The data that is collected is the property of theahl.com, not the third party. We also allow third parties called ad networks or ad servers to serve ads to you on theahl.com. Cookies enable them to compile information about where you, or others who have used your computer, saw their advertisements and determine which ads are clicked on. This information makes it possible for the ad technology, ad servers and ad networks to deliver targeted advertisements to you on theahl.com. theahl.com does not have access to the cookies that may be placed on your computer by third-party ad technology, ad servers or ad networks. Theahl.com maintains relationships with a number of third-party networks. Those parties that use cookies may offer you a way to opt out of ad targeting.
+A cookie gets entered by your Web browser into the “Cookies” folder on your hard drive after you close your browser, and may be used by your browser on subsequent visits to the Site. We use persistent and session cookies to analyze and enhance your experience on the Site, and use third party ad technology to serve ads. The data that is collected is the property of theahl.com, not the third party. We also allow third parties called ad networks or ad servers to serve ads to you on theahl.com. Cookies enable them to compile information about where you, or others who have used your computer, saw their advertisements and determine which ads are clicked on. This information makes it possible for the ad technology, ad servers and ad networks to deliver targeted advertisements to you on theahl.com. Theahl.com does not have access to the cookies that may be placed on your computer by third-party ad technology, ad servers or ad networks. Theahl.com maintains relationships with a number of third-party networks. Those parties that use cookies may offer you a way to opt out of ad targeting.
 
 Please be careful and responsible whenever you are online. Should you choose to voluntarily disclose Personally Identifiable Information on our site, such as in message boards, chat areas or in advertising or notices you post, that information can be viewed publicly and can be collected and used by third parties without our knowledge and may result in unsolicited messages from other individuals or third parties. Such activities are beyond the control of theahl.com and this policy.
 
  **Contacting us.**
 
-We can be reached by contacting:
+We can be reached by mail at:
 
 American Hockey League  
 Attn: TheAHL.com  
 One Monarch Place, Suite 2400  
-Springfield, MA  01144  
-E-mail:  **[info@theahl.com ](mailto:info@theahl.com)**
+Springfield, MA  01144
+
+Or online at [ **theahl.com/contact-us**](http://theahl.com/contact-us)
 
  **Changes to this policy.**
 
@@ -50,8 +51,8 @@ TheAHL.com reserves the right to change this policy at any time. Please check th
 
  **Governing law.**
 
-This policy and the use of this Site are governed by Massachusetts law. Any claim related to the Site or this policy shall be brought in a federal or state court in Massachusetts, within one year after the claim arises. You agree no such claim may be brought as a class action. Users of theahl.com consent to the jurisdiction and venue of such court as the most convenient and appropriate for the resolution of disputes concerning this policy. theahl.com is controlled, operated and administered entirely within the United States. If you are located outside the United States, please note the information you provide to us will be transferred to the United States. You hereby consent to this transfer.
+This policy and the use of this Site are governed by Massachusetts law. Any claim related to the Site or this policy shall be brought in a federal or state court in Massachusetts, within one year after the claim arises. You agree no such claim may be brought as a class action. Users of theahl.com consent to the jurisdiction and venue of such court as the most convenient and appropriate for the resolution of disputes concerning this policy. Theahl.com is controlled, operated and administered entirely within the United States. If you are located outside the United States, please note the information you provide to us will be transferred to the United States. You hereby consent to this transfer.
 
 In the event case of any conflict between the terms of this policy and the terms of any electronic or machine readable privacy policy (for example, a P3P electronic privacy policy), the terms of this written policy shall control.
 
- ** _Last Updated: October 2012_**
+ ** _Last Updated: October 2018_**
