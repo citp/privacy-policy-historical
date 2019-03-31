@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the joyofkosher.com privacy policy that was archived on 2018-10-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181029092513id_/https%3A//www.joyofkosher.com/page/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the joyofkosher.com privacy policy that was archived on 2019-03-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190331063510id_/https%3A//www.joyofkosher.com/page/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Jamie Geller
 
