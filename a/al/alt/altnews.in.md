@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the altnews.in privacy policy that was archived on 2018-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181230094743id_/https%3A//www.altnews.in/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the altnews.in privacy policy that was archived on 2019-03-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190331091139id_/https%3A//www.altnews.in/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Alt News
 
