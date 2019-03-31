@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the racenet.com.au privacy policy that was archived on 2018-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180630134056id_/https%3A//racenet.zendesk.com/hc/en-us/articles/115000944431-Privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the racenet.com.au privacy policy that was archived on 2019-03-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190331172506id_/https%3A//bit.ly/ris_pp) for the most accurate reproduction.*
 
-# Privacy policy – Help Centre Home
+# Untitled Document
 
-Racing Internet Services Privacy Policy
+**Racing Internet Services Privacy Policy**
 
 I. About this policy
 
@@ -111,7 +111,7 @@ We also collect, hold, use and disclose your personal information for marketing 
 (c) send you product and service information on behalf of third parties; and  
 (d) enable our related bodies corporate to send you product and service information directly.
 
-Each time you are sent a marketing communication, you will have the option of opting-out from future marketing communications. You can also opt-out from future marketing communications at any time (email: [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#afdcdadfdfc0dddbefddcecccac1cadb81d5cac1cbcadcc481ccc0c2)). We will promptly action any opt-out request.
+Each time you are sent a marketing communication, you will have the option of opting-out from future marketing communications. You can also opt-out from future marketing communications at any time (email: [support@racenet.zendesk.com](mailto:support@racenet.zendesk.com)). We will promptly action any opt-out request.
 
 **5\. To deliver relevant advertisements and content**
 
@@ -134,7 +134,7 @@ We will take reasonable steps to ensure the personal information we hold about y
 You have a right to ask for access to the personal information we hold about you. Please contact the Privacy Officer at:
 
 Postal Address: Racenet, PO Box 2280, Taren Point NSW 2229  
-E-mail: [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#f5868085859a8781b5879496909b9081db8f909b9190869edb969a98)
+E-mail: [support@racenet.zendesk.com](mailto:support@racenet.zendesk.com)
 
 Your personal information will usually be available within 30 days of your request. If there is a fee for accessing your personal information, we will confirm the amount before providing the information.
 
@@ -145,7 +145,7 @@ In some circumstances we may not be able to grant you access to your personal in
 You have a right to ask us to correct the personal information we hold about you. Please contact the Privacy Officer at:
 
 Postal Address: Racenet, PO Box 2280, Taren Point NSW 2229  
-E-mail: [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#fb888e8b8b94898fbb899a989e959e8fd5819e959f9e8890d5989496)
+E-mail: [support@racenet.zendesk.com](mailto:support@racenet.zendesk.com)
 
 It is not always possible to remove or modify information in our databases, but we will take reasonable steps to correct your personal information so it is accurate, up-to-date, complete, relevant and not misleading.
 
@@ -160,7 +160,7 @@ VI. Making complaints
 If you have a concern about how we have handled your personal information, please let us know so we can fix the problem. You can contact us at:
 
 Postal Address: Privacy Officer, Racenet, PO Box 2280, Taren Point NSW 2229  
-E-mail: [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#11626461617e636551637072747f74653f6b747f7574627a3f727e7c)
+E-mail: [support@racenet.zendesk.com](mailto:support@racenet.zendesk.com)
 
 To lodge a formal complaint, please send details to the Privacy Officer in writing. We will respond within a reasonable time - usually 30 days.
 
