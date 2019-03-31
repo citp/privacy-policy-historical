@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the chessbase.com privacy policy that was archived on 2018-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181229091242id_/https%3A//en.chessbase.com/pages/security) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the chessbase.com privacy policy that was archived on 2019-03-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190331011615id_/https%3A//en.chessbase.com/pages/security) for the most accurate reproduction.*
 
 # Privacy Policy | ChessBase
 
