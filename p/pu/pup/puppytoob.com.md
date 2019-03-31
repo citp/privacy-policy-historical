@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the puppytoob.com privacy policy that was archived on 2017-09-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170904040052id_/http%3A//puppytoob.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the puppytoob.com privacy policy that was archived on 2019-03-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190331084229id_/https%3A//puppytoob.com/privacy) for the most accurate reproduction.*
 
 # Privacy > Puppy Toob
 
 Privacy Policy
 
-Last updated 4/26/2017
+Last updated 5/6/2018
 
 Puppytoob.com is an interactive online service operated by Uncoached Corp. This “ **Privacy Policy** ” applies to this site (however accessed and/or used, whether via personal computers, mobile devices or otherwise (collectively, “ **Computer** “)) and other interactive features, applications or downloads that are operated by us that are available through this site or that interact with this site and post this Privacy Policy (collectively, “ **Website** “). Further, this Privacy Policy does not apply to our collection of information from other sources (unless specifically stated).
 
@@ -12,7 +12,7 @@ We have adopted this Privacy Policy to explain what information may be collected
 
 We generally keep this Privacy Policy posted on our Website and you should review it frequently, as we reserve the right to change it from time to time without prior notice to you. Any changes will be effective immediately upon the posting of the revised Privacy Policy. Uncoached will not use your personally identifiable information, however, in a manner materially different than what was stated at the time it was collected without your consent. WHEN YOU ACCESS OUR WEBSITE, YOU AGREE TO THIS PRIVACY POLICY. IF YOU DO NOT AGREE TO THIS PRIVACY POLICY, OR TO ANY CHANGES WE MAY SUBSEQUENTLY MAKE, IMMEDIATELY STOP ACCESSING OUR WEBSITE.
 
-**A. INFORMATION WE COLLECT**
+ **A. INFORMATION WE COLLECT**
 
 Our Website typically collects two (2) kinds of information about you: (a) information that you provide that personally identifies you; and (b) information that does not personally identify you that we automatically collect when you visit our Website or that you provide us.
 
@@ -24,7 +24,7 @@ Our definition of personally identifiable information includes any information t
 
 Our definition of non-personal information is any information that does not personally identify you. Non-personal information can include certain personally identifiable information that has been de-identified; that is, information that has been rendered anonymous. We and/or our third party service providers obtain non-personal information about you from information that you provide us, either separately or together with your personally identifiable information. We and/or our third party service providers also automatically collect certain non-personal information from you when you access our Website.
 
-**B. HOW WE USE & SHARE THE INFORMATION COLLECTED**
+ **B. HOW WE USE & SHARE THE INFORMATION COLLECTED**
 
 (1) Personally Identifiable Information:
 
@@ -56,7 +56,7 @@ If you send someone else a communication from the Website, such as sending Websi
 
 We also may, from time to time, supplement the information we collect with outside records from third parties in order to enhance our ability to serve you, to tailor our content to you and to offer you opportunities to purchase products or services that we believe may be of interest to you. We may combine the information we receive from those other sources with information we collect through the Website. In those cases, we will apply this Privacy Policy to any personal identifiable information received, unless otherwise specifically disclosed by us at the time you provide your personally identifiable information.
 
-**C. OTHER USES**
+ **C. OTHER USES**
 
 (1) E-mail Communications:
 
@@ -78,36 +78,38 @@ We may offer sweepstakes, contests, and other promotions through the Website tha
 
 The Website may use third parties such as network advertisers to serve advertisements on the Website and may use traffic measurement services to analyze traffic on the Website. Network advertisers are third parties that display advertisements based on your visits to the Website and other websites you have visited. Third-party ad serving enables us to target advertisements to you for products and services in which you might be interested. The Website’s third party ad network providers, the advertisers, the sponsors and/or traffic measurement services may themselves set and access their own cookies and other technologies on your Computer and track certain behavioral information regarding users of your Computer via a Device Identifier. These third party cookies and other technologies are set to, among other things: (a) help deliver advertisements to you that you might be interested in; (b) prevent you from seeing the same advertisements too many times; and (c) understand the usefulness to you of the advertisements that have been delivered to you. Note that any images (or any other parts of a web page) served by third parties in association with third party cookies may serve as web beacons, which enable third parties to carry out the previously described activities. Third party cookies, web beacons, and other third party technologies are governed by each third party’s specific privacy policy, not this one.  **While we may use a variety of companies to serve advertisements on the Website, you may wish to visit**<http://www.networkadvertising.org/optout_nonppii.asp>,  **which provides information regarding this practice by Network Advertising Initiative (“NAI”) members, and your choices regarding having this information used by these companies, including the “opt-out” procedures of NAI members.**  Opting out of one or more NAI members only means that those NAI members will no longer be able to deliver targeted content and/or ads to you, which will affect this and other web sites, but does not mean you will no longer receive any targeted content and/or ads. Also, if your browsers are configured to reject cookies when you visit this opt-out page, or you subsequently erase your cookies, use a different computer or change web browsers, your NAI opt-out may not, or may no longer, be effective. Additional information is available on the NAI’s web site accessible by the above link.
 
-**D. PUBLIC FORUMS**
+We use technologies, such as cookies, to customize content and advertising, to provide social media features and to analyse traffic to the site. We also share information about your use of our site with our trusted social media, advertising and analytics partners.
+
+ **D. PUBLIC FORUMS**
 
 We may offer chat rooms, message boards, bulletin boards or similar public forums where you and other users of our Website can communicate. The protections described in this Privacy Policy do not apply when you provide information (including personally identifiable information) in connection with your use of these public forums. We may use personally identifiable and non-personal information about you to identify you with a posting in a public forum. Any information you share in a public forum is public information and may be seen or collected by anyone, including third parties that do not adhere to our Privacy Policy. We are not responsible for events arising from the distribution of any information you choose to publicly post or share through our Website.
 
-**E. CHILDREN**
+ **E. CHILDREN**
 
 The features, programs, promotions and other aspects of our Website requiring personally identifiable information are not intended for children. We do not knowingly collect personally identifiable information from children under the age of thirteen (13). If you are a parent or guardian of a child under the age of thirteen (13) and believe he or she has disclosed personally identifiable information to us, please contact us at privacy@bcmediagroup.com. A parent or guardian of a child under the age of thirteen (13) may review and request deletion of such child’s personally identifiable information as well as prohibit the use thereof.
 
-**F. KEEPING YOUR INFORMATION SECURE**
+ **F. KEEPING YOUR INFORMATION SECURE**
 
 We have implemented security measures we consider reasonable and appropriate to protect against the loss, misuse and alteration of the information under our control. Please be advised, however, that while we strive to protect your personally identifiable information and privacy, we cannot guarantee or warrant the security of any information you disclose or transmit to us online and are not responsible for the theft, destruction or inadvertent disclosure of your personally identifiable information. In the unfortunate event that your “personally identifiable information” (as the term or similar terms are defined by any applicable law requiring notice upon a security breach) is compromised, we may notify you by e-mail (at our sole and absolute discretion) to the last e-mail address you have provided us in the most expedient time reasonable under the circumstances; provided, however, delays in notification may occur while we take necessary measures to determine the scope of the breach and restore reasonable integrity to the system as well as for the legitimate needs of law enforcement if notification would impede a criminal investigation. From time to time we evaluate new technology for protecting information, and when appropriate, we upgrade our information security systems.
 
-**G. OTHER SITES/LINKS**
+ **G. OTHER SITES/LINKS**
 
 Our Website may link to or contain links to other third party websites that we do not control or maintain, such as in connection with purchasing products referenced on our Website and banner advertisements. We are not responsible for the privacy practices employed by any third party website. We encourage you to note when you leave our Website and to read the privacy statements of all third party websites before submitting any personally identifiable information.
 
-**H. THIRD PARTY APPLICATIONS**
+ **H. THIRD PARTY APPLICATIONS**
 
 Third party applications may be available via the Website. The owners of these applications (“ **Third Party Owners** “) may collect personally identifiable information from you and may have their own policies and practices. We are not responsible for how Third Party Owners or their applications use your personally identifiable information. These Third Party Owners may have their own terms of service, privacy policies or other policies and ask you to agree to the same. We are not responsible for these policies or the practices of Third Party Owners. Be sure to review any available policies before submitting any personally identifiable information to a third party application or otherwise interacting with it.
 
-**I. CONTACT & OPT-OUT INFORMATION**
+ **I. CONTACT & OPT-OUT INFORMATION**
 
 The Website may include subscription and registration management tools that allow you to make changes regarding your preferences for receiving communications. Regardless of whether these tools are available through the Website, you may contact us as at uncoached@gmail.com if: (a) you have questions or comments about our Privacy Policy; (b) wish to make corrections to any personally identifiable information you have provided to us; (c) want to opt-out from receiving future commercial correspondence, including e-mails, from us (we may continue to send you transactional messages such as responding to your inquiries); or (d) wish to withdraw your consent to our future sharing of your personally identifiable information with third parties for their direct marketing purposes.
 
 We will respond to your request and, if applicable and appropriate, make the requested change in our active databases as soon as reasonably practicable. Please, note that we may not be able to fulfill certain requests while allowing you access to certain benefits and features of our Website. Also, please note that it is not always possible to completely change, remove or delete all of your information from our databases and that residual data may remain on backup media or for other reasons. Also, if you have made any public postings on the Website such as in forums or blogs, these communications are generally not removed by us.
 
-**J. CONSENT TO TRANSFER INFORMATION TO THE UNITED STATES**
+ **J. CONSENT TO TRANSFER INFORMATION TO THE UNITED STATES**
 
 The Website is operated in the United States and intended for users located in the United States. If you are located in the European Union, Canada or elsewhere outside of the United States, please be aware that information we collect will be transferred to and processed in the United States. By using the Website or providing us with any information, you consent to this transfer and processing of your information in the United States.
 
-**K. SOLE STATEMENT**
+ **K. SOLE STATEMENT**
 
 This Privacy Policy as posted on this Website is the sole statement of our privacy policy with respect to this Website, and no summary, modification, restatement or other version thereof or other privacy statement or policy, in any form, is valid unless we post a new or revised policy to the Website.
