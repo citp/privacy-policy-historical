@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the vpb.com privacy policy that was archived on 2018-08-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180814145457id_/https%3A//www.vpb.com/privacypolicy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vpb.com privacy policy that was archived on 2019-03-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190331161648id_/https%3A//www.vpb.com/privacypolicy.php) for the most accurate reproduction.*
 
 # privacypolicy - VPB.COM - The Best Global Servers Provider - Dedicated Server,Cloud Server,VPS,Hosting & Data Center Services
 
