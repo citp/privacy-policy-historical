@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ourcodeworld.com privacy policy that was archived on 2018-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181230222057id_/https%3A//ourcodeworld.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ourcodeworld.com privacy policy that was archived on 2019-03-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190331213243id_/https%3A//ourcodeworld.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy policy | Our Code World
 
