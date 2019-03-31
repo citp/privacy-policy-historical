@@ -1,17 +1,17 @@
-> *The following text is extracted and transformed from the freesupertips.com privacy policy that was archived on 2018-07-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180707210427id_/https%3A//www.freesupertips.co.uk/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freesupertips.com privacy policy that was archived on 2019-03-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190331091246id_/https%3A//www.freesupertips.co.uk/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Free Super Tips
 
 About this privacy policy  
 This policy sets out how we will use and share the information that you give us.
 
-freesupertips is a trading name of Apsley Group International Ltd which is registered in England with company number 08774926 and has its registered ofce at 8-10 Whiteladies Road, Bristol, BS8 1PD. Apsley Group International Ltd is registered with the Information Commissioner’s Office under the Data Protection Act 1998; its registration number is ZA296667. When we refer to “we”, “us”, or “freesupertips” we are referring to this company.
+freesupertips is a trading name of Apsley Group International Ltd which is registered in England with company number 08774926 and has its registered office at 5 Fleet Place, London, EC4M 7RD. Apsley Group International Ltd is registered with the Information Commissioner’s Office under the Data Protection Act 1998; its registration number is ZA296667. When we refer to “we”, “us”, or “freesupertips” we are referring to this company.
 
 You can get in touch with us in any of the following ways:
 
- **By email:  [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection)**
+ **By email:  info@freesupertips.co.uk**
 
-By post: Consumer Queries, Apsley Group International Ltd, 8-10 Whiteladies Road, Bristol, BS8 1PD.
+By post: Consumer Queries, Floor 7, Vivo Building, South Bank Central, 30 Stamford Street, London, SE1 9LS.
 
  **Who and what this privacy policy applies to**
 
@@ -83,7 +83,7 @@ You have the right to:
 
 
 
-If you would like to amend or delete your details or contact us in relation to the use of your personal information, please contact using this email: [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection)
+If you would like to amend or delete your details or contact us in relation to the use of your personal information, please contact using this email: info@freesupertips.co.uk
 
  **Disclosure of your information**
 
@@ -146,9 +146,9 @@ We may change the terms of this privacy policy from time to time. Any changes wi
 
 If you any questions or comments about this Privacy Policy, wish to exercise your information rights in connection with the personal data you have shared with us or wish to complain, please contact:
 
-By email: [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection)
+By email: info@freesupertips.co.uk
 
-By post: Consumer Queries, Apsley Group International Ltd, 8-10 Whiteladies Road, Bristol, BS8 1PD.
+By post: Consumer Queries, Floor 7, Vivo Building, South Bank Central, 30 Stamford Street, London, SE1 9LS.
 
 You also have the right to complain to the Information Commissioner’s Ofce if you believe we have not acted within the law or have infringed your rights.
 
