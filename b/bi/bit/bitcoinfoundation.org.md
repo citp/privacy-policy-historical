@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bitcoinfoundation.org privacy policy that was archived on 2018-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181230091732id_/https%3A//bitcoinfoundation.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bitcoinfoundation.org privacy policy that was archived on 2019-03-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190331084412id_/https%3A//bitcoinfoundation.org/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Bitcoin Foundation
 
