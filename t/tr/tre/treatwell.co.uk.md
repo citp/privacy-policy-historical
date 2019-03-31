@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the treatwell.co.uk privacy policy that was archived on 2018-10-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181011203233id_/https%3A//www.treatwell.co.uk/info/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the treatwell.co.uk privacy policy that was archived on 2019-03-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190331200357id_/https%3A//www.treatwell.co.uk/info/privacy-policy) for the most accurate reproduction.*
 
 # Privacy and Cookie Policy - Treatwell
 
@@ -17,8 +17,9 @@ When you visit and/or use our Platform or contact us, we may collect the followi
     
 
   * Personal Information that you choose to share with us when you register for an account, subscribe to emails, newsletters and alerts and which you provide to us when using our services, including information entered into our booking platform and included in your comments, reviews or survey responses. In the course of making a booking or submitting reviews, you might voluntarily provide us with sensitive personal data if relevant to the service that you are requesting or reviewing (relating to your health or ethnicity, for example). 
+  * Personal Information that you share with us as part of an application for a job at Treatwell, submitted either directly on the Websites or indirectly, including but not limited to, via a recruitment agency, unsolicited application or third-party recruitment platform. In the course of making an application you may choose to voluntarily provide us with sensitive personal data relating to whether reasonable adjustments ought to be made for you in the application process or subsequently if an employment relationship is established. However, you must not share any sensitive personal data with us that would not be necessary for us to make reasonable adjustments for you, e.g. political opinions, religious beliefs or specific information on your state of health. 
   * Where you are utilising our online payment facility, we may store (via ourselves or our appointed payment processor) your credit and debit card details on a secure encrypted basis. 
-  * If you choose to communicate with us (for example, through the Platform, email, telephone, SMS, or social media) we will record the fact that you have contacted us and may retain the content of your communication, together with your contact details and our responses. 
+  * If you choose to communicate with us (for example, through the Platform, live chat, email, telephone, SMS, or social media) we will record the fact that you have contacted us, the content of your and our communication, your contact details, and other unique identifiers including IP address and display name. 
   * Information about your visits to and use of the Platform, such as information about the device and browser you are using, your IP address and location, your identifier for advertisers (IDFA), the date and time that you visited, the duration of your visit, the referral source and website navigation paths of your visit and your interactions on the Platform including the salons and treatments you are interested in. Please note that we may associate this information with your Treatwell account. Please see the cookies section of this Privacy Policy for further information on the purposes for which we collect and use this information. 
 
 
@@ -70,7 +71,7 @@ We also use your Personal Information for the following purposes:
     * To conduct market research and consumer surveys 
     * To collate and publish reviews of products or services offered by our Partners, and use these for advertising campaigns 
     * To use customer communications for training, record-keeping and quality control purposes. If you telephone our customer experience team, please note that the fact that you have contacted us will be noted and your call may be recorded. You will be told if such a recording is being made and also given the opportunity to opt-out of being recorded if you wish to do so and the means for doing so 
-    * To process applications for a position at Treatwell which have been submitted via the Website, including contacting referees. Information which you provide will be held for a period of 12 months and may be referred to in the event you make future applications to work at Treatwell  
+    * To process applications for a position at Treatwell, whether submitted directly or indirectly, including to examine your suitability for the role, curriculum vitae, and professional skills, to schedule interviews and assessments, to contact referees and, if successful, to offer you a job and establish an employment relationship with you. Information which you provide will be held for a period of 12 months and may be referred to in the event you make future applications to work at Treatwell.  
 
 
 
@@ -87,7 +88,7 @@ We also use your Personal Information for the following purposes:
     * To send you information about competitions and surveys and details of promotional offers of our Partners and about other selected third parties’ goods or services, for example those of health, beauty, leisure and lifestyle brands, by email and as push notifications via the App 
     * To pass your personal information to our Partners and other selected third parties’, for example health, beauty, leisure and lifestyle brands, to enable them to send you information about their goods and services on their own behalf 
     * To place cookies and use similar technologies in accordance with the Cookies section of this Privacy Policy and the information provided to you when those technologies are used 
-    * on other occasions where we ask you for consent, we will use the data for the purpose which we explain at that time 
+    * On other occasions where we ask you for consent, we will use the data for the purpose which we explain at that time 
 
 
 
@@ -143,8 +144,8 @@ However, we may disclose your Personal Information to selected third parties, in
 
 
 
-  * If you place an order or otherwise engage with Treatwell through a website or app powered on behalf of a third party, then your contact details and details of your order will be passed on to the relevant third party, for example Lastminute.com when you make a booking via spa.lastminute.co.uk. If you give a third party such as Last Minute the relevant consents, they may also send you marketing communications. 
-  * To third party service providers that perform functions on our behalf in relation to the Platform or otherwise in connection with the provision of Treatwell's services (for example, processing credit card payments, website hosting, conducting surveys and market research, providing social media analysis, providing marketing email services, data analysis tools and to manage customer services communications). 
+  * If you place an order or otherwise engage with Treatwell through a website or app powered on behalf of a third party, then your contact details and details of your order will be passed on to the relevant third party, for example [lastminute.com](https://www.lastminute.com/) when you make a booking via [spa.lastminute.com](https://www.lastminute.com/spa/). If you give a third party (such as [lastminute.com](https://www.lastminute.com/)) the relevant consents (which Treatwell collects on behalf of third parties), they may also send you marketing communications. 
+  * To third party service providers that perform functions on our behalf in relation to the Platform or otherwise in connection with the running of our business, recruiting candidates and for the provision of Treatwell's services (for example, processing credit card payments, website hosting, conducting surveys and market research, providing social media analysis, providing marketing email services, data analysis tools and to manage customer services communications including telephone calls and live chat). 
   * To our Partners with whom you book services whether via our Website or Apps, where we act as commercial booking agent, or directly with the Partner via our Partner Platform or Widgets, where we act solely as a technology provider. Your information is shared with Partners in order that: 
 
 
@@ -170,6 +171,12 @@ However, we may disclose your Personal Information to selected third parties, in
 Please note: by posting any Personal Information in any publicly accessible area of our Platform (such as review sections), such information may be collected by third parties over which we have no control. We are not responsible for the use of such information by such third parties. 
 
 Please therefore exercise all due care and consideration before disclosing any Personal Information that will be disclosed on public areas. You should also avoid disclosing on public areas any Personal Information that may be used to identify you (such as your name, age, home or work address or name of your employer). 
+
+**[spa.lastminute.com](https://www.lastminute.com/spa/)**
+
+The [spa.lastminute.com](https://www.lastminute.com/spa/) page is powered by Treatwell. Treatwell performs certain functions as a data controller in partnership with [lastminute.com](https://www.lastminute.com/), also a data controller, and as a result Treatwell is required to process your personal information and share some of that information with [lastminute.com](https://www.lastminute.com/) when you browse and/or book on [spa.lastminute.com](https://www.lastminute.com/spa/). The purposes for which Treatwell collects, processes & shares your personal data with [spa.lastminute.com](https://www.lastminute.com/spa/) are: (i) to fulfil a contract with you, by: (a) processing & managing your bookings; and (b) communicating with you about your booking; and (ii) to fulfil our, or third parties', legitimate interests, by: (a) providing search results; (b) communicating with you, including via Treatwell’s [lastminute.com](https://www.lastminute.com/) branded customer service function via telephone and email; and (c) on behalf of the relevant venue, collecting your consent (if you choose to provide it) at the checkout page to receive marketing emails from the particular venue with whom you are booking. As well as collecting personal information directly from you during the booking process, Treatwell also uses Cookies (defined below) on [spa.lastminute.com](https://www.lastminute.com/spa/) in order to ensure [spa.lastminute.com](https://www.lastminute.com/spa/) works correctly, to enhance and simplify your user experience, to enable us to understand how many users visit our [spa.lastminute.com](https://www.lastminute.com/spa/), to establish the source of your booking (channel, location, etc.) and consequently to enable verification of the booking as a [lastminute.com](https://www.lastminute.com/) booking and to send [lastminute.com](https://www.lastminute.com/) branded transactional communications to [spa.lastminute.com](https://www.lastminute.com/spa/) customers. Please see the cookies section of this Privacy Policy for further information on the purposes for which we collect and use this information. For information on retention of your personal data, transfers of your personal data (to third parties and outside the European Economic Area), and your rights in respect of your personal data, please refer to the relevant sections of this Privacy Policy. If you have any queries or wish to exercise any of your rights in respect of the personal data processing described in this paragraph, please contact Treatwell using the details set out in this Privacy Policy. 
+
+Treatwell will also, on behalf of and under the instructions of [lastminute.com](https://www.lastminute.com/), collect your consent (if you choose to provide it) at the checkout page to receive marketing emails from [lastminute.com](https://www.lastminute.com/) and pass this to [lastminute.com](https://www.lastminute.com/) daily via a secure data feed. For the avoidance of doubt, Treatwell does not collect any marketing opt-in for itself on [spa.lastminute.com](https://www.lastminute.com/spa/). lastminute.com also use cookies and similar tracking measures on [spa.lastminute.com](https://www.lastminute.com/spa/) to collect information about your behaviour and for other purposes including personalisation, analytical and advertising and re-marketing. Please see [lastminute.com](https://www.lastminute.com/)'s privacy policy [here](https://www.lastminute.com/terms/newsletter-privacy.html) and cookie policy [here](https://www.lastminute.com/terms/cookies-lastminute-group.html) for more information on how [lastminute.com](https://www.lastminute.com/) collects and processes your personal data. If you have any queries or wish to exercise any of your rights in respect of the personal data processing described in this paragraph, please contact[lastminute.com](https://www.lastminute.com/) using the details set out in their privacy policy. 
 
 **Your rights in relation to your personal information**
 
@@ -214,9 +221,15 @@ Please note that all PayPal transactions are subject to the PayPal Privacy Polic
 
 **Retention**
 
-We retain your Personal Information for as long as is required to fulfil the activities set out in this Privacy Policy, otherwise communicated to you or for as long as is permitted by applicable law. 
+We retain your Personal Information for as long as is required to fulfil the activities set out in this Privacy Policy, otherwise communicated to you or for as long as is permitted by applicable law. For example:
 
-Where you apply for a position at Treatwell via the Website, information which you provide will be held for a period of 12 months and may be referred to should you make future applications to work at Treatwell.
+    
+
+  * where you apply for a position at Treatwell, whether directly or indirectly, information which you provide will be held for a period of 12 months and may be referred to should you make future applications to work at Treatwell, unless you opt to delete this data which you may do so by following the link in the confirmation of application email that we sent you; 
+  * where you contact us via live chat on the Platform, we usually retain customer live chat data for up to 60 days after the end of the session; and 
+  * where you contact us via telephone and do not opt-out, we shall retain call recordings for up 90 days from the date of the call. 
+
+
 
 **Our policy on Cookies**
 
@@ -298,6 +311,12 @@ _**Google Analytics** is a web analysis service provided by Google, Inc. We use 
     
 
 _**Hotjar** is a software which we use to help us to improve the user experience on our Website ([www.hotjar.com](http://www.hotjar.com/ "http://www.hotjar.com/")), 3 Lyons Range, 20 Bisazza Street, Sliema SLM 1640, Malta, Europe). Hotjar helps us understand how users use the Website (mouse movements, clicks, scrolling etc.). For this purpose Hotjar uses analytics cookies to collect non-personally identifiable information including standard internet log information and details of visitors' behavioural patterns upon visiting our Website. By using our Website, you acknowledge and accept our privacy practices as well as those of Hotjar's. Please see Hotjar's privacy policy ([www.hotjar.com/legal/policies/privacy](http://www.hotjar.com/legal/policies/privacy "http://www.hotjar.com/legal/policies/privacy")) for further information on the data Hotjar collects and how it is processed. _
+
+    
+
+    
+
+_**Awin** is one of the affiliate networks we use to provide affiliate marketing to potential customers of Treatwell. Awin’s network of third party affiliates display Treatwell adverts on our behalf and Awin uses Cookies to analyse the performance of these adverts and to enable us to process commission payments to Awin and its affiliates where those adverts lead customers to make purchases on the Platform. For more information, you can find Awin’s privacy policy here [www.awin.com/gb/legal/privacy-policy](http://www.awin.com/gb/legal/privacy-policy "http://www.awin.com/gb/legal/privacy-policy"). ___
 
     
 
