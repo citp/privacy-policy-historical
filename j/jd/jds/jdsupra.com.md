@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jdsupra.com privacy policy that was archived on 2018-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181208123541id_/https%3A//www.jdsupra.com/terms/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jdsupra.com privacy policy that was archived on 2019-03-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190331032723id_/https%3A//www.jdsupra.com/terms/privacy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy | JD Supra
 
@@ -28,7 +28,7 @@ Other Information: We also collect other information you may voluntarily provide
 
 Information from third parties (such as, from your employer or LinkedIn): We may also receive information about you from third party sources. For example, your employer may provide your information to us, such as in connection with an article submitted by your employer for publication. If you choose to use LinkedIn to subscribe to our Website and Services, we also collect information related to your LinkedIn account and profile.
 
-Your interactions with our Website and Services: As is true of most websites, we gather certain information automatically. This information includes IP addresses, browser type, Internet service provider (ISP), referring/exit pages, operating system, date/time stamp and clickstream data. We use this information to analyze trends, to administer the Website and our Services, to improve the content and performance of our Website and Services, and to track users' movements around the site. We may also link this automatically-collected data to personal information, for example, to inform authors about who has read their articles. Some of this data is collected through information sent by your web browser. We also use cookies and other tracking technologies to collect this information. To learn more about cookies and other tracking technologies that JD Supra may use on our Website and Services please see our "[Cookies Guide](https://web.archive.org/web/20181208123541id_/https://www.jdsupra.com/terms/privacy.aspx/privacy.aspx#cookiesguide)" page. 
+Your interactions with our Website and Services: As is true of most websites, we gather certain information automatically. This information includes IP addresses, browser type, Internet service provider (ISP), referring/exit pages, operating system, date/time stamp and clickstream data. We use this information to analyze trends, to administer the Website and our Services, to improve the content and performance of our Website and Services, and to track users' movements around the site. We may also link this automatically-collected data to personal information, for example, to inform authors about who has read their articles. Some of this data is collected through information sent by your web browser. We also use cookies and other tracking technologies to collect this information. To learn more about cookies and other tracking technologies that JD Supra may use on our Website and Services please see our "[Cookies Guide](https://web.archive.org/web/20190331032723id_/https://www.jdsupra.com/terms/privacy.aspx/privacy.aspx#cookiesguide)" page. 
 
 ## How do we use this information?
 
@@ -164,7 +164,7 @@ The processes for controlling and deleting cookies vary depending on which brows
 
 ## Updates to This Policy
 
-We may update this cookie policy and our [Privacy Policy](https://web.archive.org/web/20181208123541id_/https://www.jdsupra.com/terms/privacy.aspx/privacy.aspx/#policy) from time-to-time, particularly as technology changes. You can always check this page for the latest version. We may also notify you of changes to our privacy policy by email.
+We may update this cookie policy and our [Privacy Policy](https://web.archive.org/web/20190331032723id_/https://www.jdsupra.com/terms/privacy.aspx/privacy.aspx/#policy) from time-to-time, particularly as technology changes. You can always check this page for the latest version. We may also notify you of changes to our privacy policy by email.
 
 ## Contacting JD Supra
 
