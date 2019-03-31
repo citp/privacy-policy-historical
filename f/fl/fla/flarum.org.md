@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the flarum.org privacy policy that was archived on 2018-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180510120153id_/http%3A//flarum.org/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the flarum.org privacy policy that was archived on 2019-03-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190331125553id_/https%3A//flarum.org/privacy) for the most accurate reproduction.*
 
 # Flarum – Forums Made Simple
 
