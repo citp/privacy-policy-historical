@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the momentumdash.com privacy policy that was archived on 2018-08-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180819235716id_/https%3A//momentumdash.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the momentumdash.com privacy policy that was archived on 2019-03-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190331060415id_/https%3A//momentumdash.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Momentum
 
@@ -18,7 +18,7 @@ Your name, email, account settings, and extension data (such as to-dos and links
 
 To upgrade to Momentum Plus, your credit card number, credit card expiration date, security code, name, country and postal code are required. All payment processing is done through a PCI compliant third party (Stripe, Inc.). When paying by a credit card, the card details do not pass through our servers, they are sent directly to Stripe and are stored securely, as per their [Privacy](https://stripe.com/privacy) and [Security](https://stripe.com/docs/security/stripe) policies. 
 
-To perform requested changes to or inquiries about your Momentum Plus account (cancelling, refunding, or changing payment details), authorized members of Momentum’s support team could potentially view payment-related information contained in Stripe’s databases (this is limited to billing name, billing address, postal code, the last four digits of credit card(s), and credit card expiry date(s)) while accessing subscription information via Stripe’s payment dashboard. This information will only accessed upon your request.
+To perform requested changes to or inquiries about your Momentum Plus account (cancelling, refunding, or changing payment details), authorized members of Momentum’s support team could potentially view payment-related information contained in Stripe’s databases (this is limited to billing name, billing address, postal code, the last four digits of credit card(s), and credit card expiry date(s)) while accessing subscription information via Stripe’s payment dashboard. This information will only be accessed upon your request.
 
 **Data accessible through WebExtensions API**
 
@@ -45,14 +45,14 @@ We use several vendors/sub-processors to conduct various aspects of our business
 
 Vendor | Purpose  
 ---|---  
-Microsoft Azure | Microsoft Azure powers our core Cloud infrastructure (providing necessary hardware, software, networking, storage, and other related technology required to run Momentum). The bulk of our user data is hosted in Microsoft Azure.  
+Microsoft Azure | Microsoft Azure powers our core Cloud infrastructure (providing the necessary hardware, software, networking, storage, and other related technology required to run Momentum). The bulk of our user data is hosted in Microsoft Azure.  
 Stripe | Credit card data, payments and renewals are processed by Stripe.  
 Mandrill | Transactional Emails to our users are sent via Mandrill. Your email address and the contents of the email are sent to Mandrill. We specifically direct Mandrill not to archive the contents of transactional emails.  
 Flickr | Some photos/backgrounds are retrieved from Flickr. A request is made from your IP address to download photos.  
 Unsplash | Some photos/backgrounds are retrieved from Unsplash. A request is made from your IP address to download photos.  
 123RF | Some photos/backgrounds are retrieved from 123RF. A request is made from your IP address to download photos.  
 Google Analytics | Google Analytics is an industry standard third-party analytics service that we use to better understand the usage and performance of our service(s). The information is anonymized so that it is not tied to your IP address.  
-Yahoo Weather API | Weather data for our free users is retrieved via Yahoo Weather API. A call is made from your IP address to request weather data. Momentum Plus uses a more accurate weather feed, which is processed through our servers with no personal identifiable information being sent to the third party server.  
+Yahoo Weather API | Weather data for our free users is retrieved via Yahoo Weather API. A call is made from your IP address to request weather data. Momentum Plus uses a more accurate weather feed, which is processed through our servers with no personally identifiable information being sent to the third party server.  
 DuckDuckGo | Thumbnails for links and bookmarks are retrieved using DuckDuckGo. A call is made from your IP address to request thumbnails.  
 Vimeo | Vimeo is used for videos on our help site and blog. Vimeo uses cookies that could be tied to your personal information.  
 UserVoice | User data related to feature requests is maintained in UserVoice.  
@@ -63,7 +63,7 @@ Dropbox | Used for internal communications. User data may be discussed for suppo
 Gmail | Used for internal communications. User data may be discussed for support purposes.  
 Google Docs | Used for internal communications. User data may be discussed for support purposes.  
   
-#### What are my rights in relation to my Personal Data?
+#### What are my rights in relation to my personal data?
 
 By using Momentum Dashboard, you may exercise the following rights:
 
