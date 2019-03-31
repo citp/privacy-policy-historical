@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the eurekalert.org privacy policy that was archived on 2018-10-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181025194516id_/https%3A//www.eurekalert.org/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the eurekalert.org privacy policy that was archived on 2019-03-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190331083747id_/https%3A//www.eurekalert.org/privacy.php) for the most accurate reproduction.*
 
-# EurekAlert! Disclaimer | EurekAlert! Science News
+# Privacy Policy | EurekAlert! Science News
 
 **Posted: October 4, 2018  
 Effective: October 4, 2018**
