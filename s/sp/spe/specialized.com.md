@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the specialized.com privacy policy that was archived on 2018-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181230115001id_/http%3A//www.specialized.com/us/en/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the specialized.com privacy policy that was archived on 2019-04-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190401014005id_/https%3A//www.specialized.com/us/en/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Specialized.com
 
 **Effective date: 1 September 2018**
 
-This Privacy Policy details the privacy practices of Specialized Bicycle Components, Inc., 15130 Concord Circle, Morgan Hill, CA 95037, and its directly and indirectly held subsidiaries (“Specialized”, “we”, “us”, or “our”). Please read below and learn how Specialized collects, uses and shares your information through a variety of digital means, including any of our mobile applications, websites or other Specialized products or services (collectively, “Services”) that link to or refer to this Privacy Policy, and your choices and rights regarding that information. Other Specialized Services may have different privacy policies. If you have questions about this Privacy Policy you can contact us at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#8cdcfee5faedeff5cfedfee9ccfffce9efe5ede0e5f6e9e8a2efe3e1).
+This Privacy Policy details the privacy practices of Specialized Bicycle Components, Inc., 15130 Concord Circle, Morgan Hill, CA 95037, and its directly and indirectly held subsidiaries (“Specialized”, “we”, “us”, or “our”). Please read below and learn how Specialized collects, uses and shares your information through a variety of digital means, including any of our mobile applications, websites or other Specialized products or services (collectively, “Services”) that link to or refer to this Privacy Policy, and your choices and rights regarding that information. Other Specialized Services may have different privacy policies. If you have questions about this Privacy Policy you can contact us at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#3262405b4453514b7153405772414257515b535e5b4857561c515d5f).
 
 In connection with providing our Services, there are times when we may ask for or collect information from you, either in the form of anonymous data or personally identifiable information.
 
@@ -131,7 +131,7 @@ Email is not a secure form of communication. Please do not send us your credit c
 
  _If you are in the EEA, you have the right to access the information we have about you, as well as the right to request that we correct it, complete it, erase it, stop using it, or transfer it to you. Submit your request for information[here](https://media.specialized.com/subject-access-request-forms/en.pdf)_
 
-You can stop receiving promotional communications from us by following the opt-out instructions provided in any such communication you receive. You can also email [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#68381a011e090b112b091a0d283b180d0b01090401120d0c460b0705).
+You can stop receiving promotional communications from us by following the opt-out instructions provided in any such communication you receive. You can also email [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#c393b1aab5a2a0ba80a2b1a68390b3a6a0aaa2afaab9a6a7eda0acae).
 
 You may view and opt-out of tracking cookies for any company that participates in the Digital Advertising Alliance Consumer Choice program at <http://www.aboutads.info/choices/>.
 
@@ -152,6 +152,6 @@ If you have any questions or concerns about this Privacy Policy, the Services, o
 
 You may contact our Data Privacy Specialist using the following details:
 
-By email: [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#faaa88938c9b9983b99b889fba898a9f99939b9693809f9ed4999597d4)
+By email: [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#d686a4bfa0b7b5af95b7a4b396a5a6b3b5bfb7babfacb3b2f8b5b9bbf8)
 
 Post: Data Privacy Specialist, Specialized Bicycle Components, Inc., 15130 Concord Circle, Morgan Hill, CA 95037
