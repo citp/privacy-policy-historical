@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jet2holidays.com privacy policy that was archived on 2018-10-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181028040315id_/https%3A//www.jet2holidays.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jet2holidays.com privacy policy that was archived on 2019-03-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190331211320id_/https%3A//www.jet2holidays.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy policy | Jet2holidays
 
@@ -42,7 +42,7 @@ We understand that not everybody needs or wants to know how we use their informa
   * to _administer promotions and competitions_ which we run from time to time;
   * for _market research_ : from time to time, we may also use your information to contact you by letter, phone, SMS or email to conduct customer satisfaction surveys or similar market research exercises;
   * for the purposes of ensuring _safety and security_ on our flights and in our resorts;
-  * to _help us design our websites and improve your experience_ : we may collect information about the way you use and access our websites. Our web system collects information about each visitor, including IP address, the length of time spent on the website and the order in which pages are visited. This is explained in more detail in the cookies section [here](https://www.jet2holidays.com/cookies)
+  * to _help us design our websites and improve your experience_ : we may collect information about the way you use and access our websites. Our web system collects information about each visitor, including IP address, the length of time spent on the website and the order in which pages are visited. Our web site may use technologies to help analyse how users navigate our web pages, links and forms. This is explained in more detail in the cookies section [here](https://www.jet2holidays.com/cookies)
   * for _fraud prevention_ : to protect our customers and us from fraud and theft, we may look at information that we get from identity checks along with information in our customer records and other information which is publically available (including on social media); 
   * for meeting our _regulatory obligations_ , including liaising with regulatory authorities and for our own internal audit purposes;
   * for _complying with applicable laws and regulations_ ;
@@ -159,6 +159,8 @@ If we sell or buy any business or assets, we will disclose your personal data to
 
 In the event of medical emergency during a flight we may share personal data with third party service providers to call for advice for the purposes of managing and recording passenger medical issues. Your personal data may also be included in a flight report which is sent to the flight operator. 
 
+If you purchase car hire through _**Jet2holidays**_ we will transfer your personal data to Rental Cars (Travel Jigsaw Limited) to provide you with car hire services. **_Jet2holidays_** and Rental Cars will be independent data controllers in respect of that information. Rental Cars will use the information in accordance with their privacy policy <https://www.jet2carhire.com/PrivacyPolicy.do>
+
 We also share personal data for the purposes of fraud prevention and detection with other group companies and other organisations (including law enforcement agencies) involved in fraud prevention and detection. This includes sharing your details with a third party fraud management solution providers, in order to identify potentially fraudulent bookings.
 
 If there are any incidents with disruptive passengers on board our flights, we may share personal data with law enforcement agencies. We also share personal data relating to reported incidents, complaints and feedback in relation to **_Jet2holidays_** with our travel partners and local agents.
@@ -251,4 +253,4 @@ If you have any questions about this policy or about how we use your personal da
 
 If you are unhappy about how we are processing your data or how we have responded to a request or complaint, you have the right to make a complaint to the UK's data protection regulator, the Information Commissioner's Office ( **ICO** ).  You can find more details about how to contact the ICO on their website <https://ico.org.uk/>
 
-**Last updated: 24 May 2018**
+**Last updated: 7 February 2019**
