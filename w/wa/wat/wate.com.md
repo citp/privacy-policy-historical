@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wate.com privacy policy that was archived on 2018-08-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180809041009id_/https%3A//www.wate.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wate.com privacy policy that was archived on 2019-03-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190331025320id_/https%3A//www.wate.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
