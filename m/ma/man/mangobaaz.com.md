@@ -1,190 +1,218 @@
-> *The following text is extracted and transformed from the mangobaaz.com privacy policy that was archived on 2015-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150626130633id_/http%3A//readygraph.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mangobaaz.com privacy policy that was archived on 2019-03-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190331103832id_/https%3A//www.mangobaaz.com/privacy-policy) for the most accurate reproduction.*
 
-# ReadyGraph
+# MangoBaaz - Change the Narrative
 
-## Privacy Policy
+This website https://www.mangobaaz.com/  (the “ **Website** ”) is brought to you by Mangobaaz (private) Limited ( **“Mangobaaz”** ). Mangobaaz takes the privacy of its Website users (i.e. you) very seriously. This policy and all of its clauses are applicable to the Website whether accessed through a computer, mobile device or otherwise.
 
-This Privacy Policy describes the personal information (“Information”) collection and use procedures for the ReadyGraph powered-websites and social/mobile applications, and our website, located at www.ReadyGraph.com (collectively or separately, the “Service”), as well as any other social and mobile apps that ReadyGraph operates. This notice describes how such Information may be used or disclosed by ReadyGraph.  Capitalized terms not defined in this Privacy Policy have the meanings set forth in the Terms of Service.   Please note that for data collected through ReadyGraph-powered sites, ReadyGraph may be acting as a data processor and service provider and collecting the data on behalf of our business clients (“Clients”). As part of the operation of the Service, we collect and may disclose information about you. By accepting and using the Service, you consent to our use and disclosure of your personal information as described in this Privacy Policy. If you have any questions about our privacy practices, please refer to the end of this Privacy Policy for information on how to contact us. 
+BY USING THIS WEBSITE, YOU HEREBY CONSENT TO THE DATA / INFORMATION GATHERING PRACTICES USED BY MANGOBAAZ. FURTHERMORE, BY USING THE WEBSITE, YOU HEREBY AGREE THAT THIS PRIVACY POLICY CONSTITUTE A BINDING AGREEMENT BETWEEN YOU AND MANGOBAAZ.
 
-You should review this Privacy Policy frequently as ReadyGraph may update the Privacy Policy at any time by posting the revised version of this Privacy Policy on or through the Service.  Your continued use of the Service after such notice constitutes your consent to the revised Privacy Policy. 
+**PERSONAL INFORMATION/DATA MANGOBAAZ MAY COLLECT**
 
-#### Information We Collect
+We may collect the following information about you:
 
-In General. We may collect information that can identify you such as your name and email address ("personal information") and other information that does not identify you. We may collect this information through a ReadyGraph-powered website, ReadyGraph.com or a mobile or social (e.g. Facebook app) application. When you provide personal information through our website, the information may be sent to servers located in the United States and other countries around the world. 
+  * **INFORMATION THAT DIRECTLY IDENTIFIES YOU** :  This may include your name, address, email address, username, and password.
+  * **INFORMATION THAT INDIRECTLY IDENTIFIES YOU** :  We automatically receive and record information from your device or web browser when you interact with our sites and apps, for example, your internet protocol (IP) address, mobile device ID, time zone setting, location data, language preference, operating system, platform, and links you have clicked on or shared with others, including through email and social media. We may also create a user ID that may similarly indirectly identify you. We may use this information to collect data about your activities on our sites and apps and on third-party sites, apps and platforms including but not limited to Facebook. We may associate information that indirectly identifies you with your user account (if you have one) and other information we have collected about you.
+  * **LOCATION DATA** :  We may collect geo-data, which tells us where you are, when we collect other information about you. We may also collect the language option or country you choose. We may link location data to other information we have collected about you.
+  * **PROFILE DATA** :  This may include your username and password and other information you give us (if you are a registered user), information you give us in connection with purchases or orders made by you, your interests, preferences, feedback and survey responses. Profile data you enter in your account profile (if you are a registered user), including your username may be shown to other users to facilitate user interaction on our sites and apps. We do not disclose email addresses to other users.
+  * **MARKETING AND COMMUNICATIONS DATA** :  This may include information about your subscriptions to newsletters and your marketing preferences.
+  * **TRANSACTION AND FINANCIAL DATA** :  We may collect or receive transactional and financial information relating to you when you buy something through our sites and apps (for example payment details) or because you have bought something from a third party after clicking on an affiliate link in our content.
+  * **SPECIAL CATEGORY DATA** :  When we conduct research or carry out surveys we may collect sensitive personal data about you, for example information about your racial or ethnic origin, political opinions, religious or philosophical beliefs, sex life or sexual orientation. We will not use or share this information without your explicit consent.
 
-Information you provide. We may collect and store any personal information you enter on our website or on a mobile application, or provide to us in some other manner. This includes but is not limited to identifying information, such as your name, address, email address and telephone number, and, if you transact business with us, financial information such as your payment method (valid credit card number, type, expiration date or other financial information). You may also provide us information about your social connections, interests and activities, your gender and age, and other demographic information such as your hometown or your username. 
 
-Information from other sources. We may receive information about our users from third party social platforms, such as Facebook. When you access or use our website or mobile application through such a site, you allow us to access or collect information made available by the third party site in accordance with its privacy policy. This information may be available from your profile or account with such site or from cookies placed on your device by the third party platform. 
 
-Information about others. We may collect and store personal information about other people that you provide to us, such as but not limited to their name, address and email address. If you use our website to send others (friends, relatives, colleagues, etc.) an invitation to Readygraph.com or a ReadyGraph-powered site or mobile or social app, we may store your personal information, and the personal information of each such recipient in order to process those requests or facilitate future activities. 
+**AGGREGATED DATA**
 
-Use of cookies and other technologies to collect information. We use various technologies to collect information from your device and about your activities on the Service.
+We aggregate personal data we collect, such as the number and frequency of your visits to our sites and apps, to produce metrics and statistical information. We may share this data with third parties.
 
-Information collected automatically. We automatically collect information from your browser or device when you visit any ReadyGraph-powered property or application. This information could include your IP address, device ID, your browser type and language, access times, the content of any undeleted cookies that your browser previously accepted from us (see "Cookies" below), and the referring website address. 
+We share aggregated, anonymized, information with our ad partners and service providers so that we, and they, can understand how people use our sites and apps; this helps us grow our business and improve and develop our products and services. These third parties may share with us information about you that they have independently developed or acquired.
 
-Cookies and Use of Cookie Data. When you visit our Service, we may assign your device one or more cookies, to facilitate access to our site and to personalize your online experience. Through the use of a cookie, we also may automatically collect information about your online activity on our site, such as the pages you visit, the time and date of your visits, the links you click, and the searches you conduct on our site. During your visits to other websites or applications where we advertise, we (or third parties) may use certain data collected on our site to show you ReadyGraph advertisements. Although you may not opt out of receiving online advertisements generally, you may control the collection of data on our site used for targeted ReadyGraph advertising during your visits to other websites. Most browsers automatically accept cookies, but you can usually modify your browser setting to decline cookies. If you choose to decline cookies, please note that you may not be able to sign in or use some of the interactive features offered on our Service. 
+We combine information about you with information about other users to create audience segments of aggregated data, for example, statistical, demographic and usage data. If we combine or connect aggregated data with personal data we treat the combined data as personal data and deal with it in accordance with this privacy notice.
 
-A cookie is a small text file that is stored on a user's device for record keeping purposes. Cookies can be either session cookies or persistent cookies. A session cookie expires when you close your browser and is used to make it easier for you to navigate our site. A persistent cookie remains on your device for an extended period of time. Cookies on our site do not link to or store your personal information.
+**HOW WE COLLECT PERSONAL DATA / INFORMATION**
 
-For example, when you sign in to the Service, we will record your user or member ID and the name associated with your user or member ID in the cookie file on your computer. We also may record your password in this cookie file, if you indicated that you would like your password saved for automatic sign-in. We may allow our service providers to serve cookies from our website or application to allow them to assist us in various activities, such as doing analysis and research on the effectiveness of our site, content and advertising.
+  * You may give us your personal data directly, for example when you create a user account, buy products or services, subscribe to our newsletters, opt in to marketing, publish posts or comments, enter a competition, participate in a promotion or survey, ask for user support, or contact us for any reason.
+  * We automatically collect personal data when you interact with our sites and apps. We collect information about your devices and browsing actions and interests by using cookies and similar technologies. For more details, kindly see Cookies section.
+  * Third parties who provide advertising and related services may give us your personal data, these including analytics providers and ad networks.
+  * We may receive your personal data from third parties when you buy things through our sites and apps or when you buy things from a third party after clicking on an affiliate link in our content. This information may include your contact details and financial and transaction data from providers of technical, payment and delivery services.
+  * If you access our sites and apps using your social media account(s) credentials (including but not limited to Facebook / Twitter / Youtube / Google), we will automatically collect certain information, such as your name, picture, and email address. We will use all information available through your social media account(s) which your social media account(s) (such as Facebook / Twitter / Youtube / Google), including the user ID which those social media accounts attributes to you, in accordance with its policies and your preferences selected through that platform.
 
-You may delete or decline cookies by changing your browser settings. (Click "Help" in the toolbar of most browsers for instructions.) If you do so, some of the features and services of our website may not function properly.
 
-We may allow third-parties, including advertising companies, analytics companies, and ad networks, to display advertisements on our site. These companies may use tracking technologies, such as cookies, to collect information about users who view or interact with their advertisements or our website or mobile applications. They may collect information about where you, or others who are using your device, saw and/or clicked on the advertisements they deliver (such as click stream information, browser type, time and date, subject of advertisements clicked or scrolled over, etc.), and possibly associate this information with your subsequent visits to the advertised websites or other data they have collected. They also may combine this information with personal information they collect from you to provide advertisements about goods and services likely to be of greater interest to you. The collection and use of that information is subject to the third-party's privacy policy. This policy covers the use of cookies by ReadyGraph only and does not cover the use of cookies by any advertisers. 
 
-Notwithstanding any other provision, we may also engage a data provider who may collect web log data from you (including IP address and information about your browser or operating system), or place or recognize a unique cookie on your browser to enable you to receive customized ads or content. These cookies contain no personally identifiable information. The cookies may reflect de-identified demographic or other data linked to data you voluntarily have submitted to us, e.g., your email address, that we may share with a data provider solely in hashed, non-human readable form. To opt-out of these data provider cookies, please go to http://www.aboutads.info/choices. 
+**HOW WE MAY USE YOUR PERSONAL DATA / INFORMATION**
 
-Other Technologies. We may use standard Internet technology, such as web beacons and other similar technologies, to track your use of our Service. We also may include web beacons in advertisements or email messages to determine whether messages have been opened and acted upon. The information we obtain in this manner enables us to customize the services we offer our website or application visitors to deliver targeted advertisements and to measure the overall effectiveness of our online advertising, content, programming or other activities.
+We collect, use or otherwise process personal information as allowed under applicable law, including where based on one or more of the following:
 
-Web beacons (also known as clear gifs, pixel tags or web bugs) are tiny graphics with a unique identifier, similar in function to cookies, and are used to track the online movements of web users or to access cookies. Unlike cookies which are stored on the user's device, web beacons are embedded invisibly on the web pages (or in email). 
+– The consent you provide to us at the point of collection of your personal information;
 
-Web beacons may be used to deliver or communicate with cookies, to count users who have visited certain pages and to understand usage patterns. We also may receive an anonymous identification number if you come to our site from an online advertisement displayed on a third-party website. Third parties may use anonymous information about your visits to our site and other websites in order to improve its products and services and provide advertisements about goods and services of interest to you.
+– The performance of the contract we have with you;
 
-Information collected by third-parties. We may allow service providers, advertising companies and ad networks, and other third parties to display advertisements on our site. These companies may use tracking technologies, such as cookies, to collect information about users who view or interact with their advertisements. Some of these third-party advertising companies may be advertising networks that are members of the Network Advertising Initiative, which offers a single location to opt out of ad targeting from member companies (www.networkadvertising.org).
+– The compliance of a legal obligation to which we are subject; or
 
-In connection with the Service, we may collect Information in the following ways:
+– The legitimate interests of Mangobaaz, a third party or yourself. “Legitimate interest” is a technical term under the regulation. It means that there are good reasons for the processing of your personal information and measures are taken to minimize the impact on your privacy rights and interests. “Legitimate interest” also references our use of your data in ways you would reasonably expect and that have a minimal privacy impact. We have a legitimate interest in collecting and processing personal information, for example: (1) to ensure that our networks and information are secure; (2) to administer and generally conduct business within the Mangobaaz; and (3) to prevent fraud.
 
-•           Through registration forms filled out by a user through the Service
+Following are few of the uses of the Personal Data / Information we collect:
 
-•           Through Information provided by a user in connection with the purchase of products via the Service
+  * Recognize you and analyze how you, and other users, navigate our sites and apps and what you’re interested in. We do this by using cookies or similar technology as explained herein below;
+  * Communicate information to you;
+  * Analyze comments and feedback you have given us including comments, feedback and reviews you have posted on our sites and apps;
+  * Provide you with communications and services you’ve signed up, for such as our newsletters;
+  * Register you as a user of our sites and apps and other products and services and administer your account;
+  * Publish content on our sites and apps including articles, feedback, reviews and user comments about our posts;
+  * Fulfill orders for products or services placed through our sites or apps;
+  * Collect money you owe us;
+  * Verify or obtain payments due to us when you buy something from a third party after clicking on an “affiliate” link in our content, measure the performance of affiliate links, analyze and develop this part of our business;
+  * Communicate our terms, notify you about changes to them and communicate with you about non-compliance;
+  * Ask you to take part in a survey or other research about our sites and apps and other products and services;
+  * Conduct surveys or undertake research so that we can improve and develop our business, our sites and apps and our products and services;
+  * Allow you to take part in a prize draw, sweepstake, or other competition or other promotional activity;
+  * Administration and protection of our business including troubleshooting, data analysis, testing, system maintenance, user support, reporting and hosting data, administration and IT services, network security, fraud prevention, customer services and business reorganisation, including exchanging information with third parties for fraud protection and spam/malware prevention;
+  * Serve content and ads and analyze their performance and effectiveness;
+  * Use of data analytics to improve and develop our products and services and inform our marketing strategy;
+  * Send marketing communications to you if you subscribe to our newsletters or other products and services;
+  * Customising this website and its content to your particular preferences;
+  * Security vetting;
+  * Communicate with you about our services, and content, including published content, content you submit for publication, and content posted by you (including your comments on content, feedback and reviews);
+  * Comply with applicable laws, regulations and legal and regulatory processes.
 
-•           Through the maintenance and analysis of Web server logs
 
-•           Via communications between a user and us
 
-•             Through our use of third-party databases from which user Information is extracted and   combined with Information obtained by us through the Service 
+**MARKETING AND OPTING OUT**
 
-In connection with the Service, the types of Information about a user that we collect may include but is not limited to the following:
+We may share your personal data / information with organization who are our business partners and we or they may contact you, unless you have asked us or them not to do so by email about our or their products, services, promotions, special offers, charitable causes which may be of interest to you.
 
-•           Name and/or Business Name
+If you prefer not to receive any further marketing communications from us, you can opt out at any time.
 
-•           Postal address
+**DISCLOSURE OF YOUR PERSONAL DATA**
 
-•           E-mail address
+We may disclose your personal data / information to:
 
-•           Telephone number
+  * Other Companies within our group;
+  * Our agents and service providers [(for example: provider of web hosting or maintenance services)]:
+  * Third parties who process your data on our behalf when they provide services to us, for example data analytics, ad networks, research, marketing and financial services;
+  * Third parties who use it for their own purposes if you have provided consent;
+  * Third parties when you publish content including articles, comments and reviews on our sites and apps;
+  * If we sell, transfer, or merge parts of our business, or if we buy or merge with another business we may share your personal data. If a change happens to our business, then the new owners may use your personal data as set out in this privacy policy or any amendments made therein;
+  * We may be legally required to disclose or share your personal data without your consent in some circumstances, for example to comply with a court order or law enforcement;
+  * Law enforcement agencies in connection with any investigation to help prevent unlawful activity;
+  * Our business partners in accordance with Marketing and Opting out section hereinabove.
 
-•           Payment information (e.g. credit card numbers and billing addresses), if purchases or payments are made
 
-•           Date of Birth/Age
 
-•           Gender
+**KEEPING YOUR DATA SECURE:**
 
-•           Interests
+We will use technical and organisational measures to safeguard your personal data. We would take steps to safeguard your information by putting in place appropriate security measures to prevent personal data from being accidentally lost, used, accessed in an unauthorized way, altered or disclosed.
 
-•           Friends
+We limit access to your personal data to employees, agents, contractors and other third parties who need to access it. All of them will be subject to a duty of confidentiality and may be required to process your personal data only in accordance with our instructions.
 
-•           Other technical information collected by the Service’s servers.
+Whilst we will use all reasonable efforts to safeguard your personal data, you acknowledge that the use of the internet is not entirely secure and for this reason we cannot guarantee the security or integrity of any personal data which are transferred from you or to you _via_ the internet. In addition, we cannot guarantee or warrant that security measures can completely prevent data breaches. We have made procedures to deal with suspected data breaches and similar situations. However, we will notify you and the relevant regulator of any data breach as required under the relevant applicable law at that time.
 
-When you register for the Service you will be prompted to submit some personal information. We may retain in our files information you have requested be removed from our active databases for certain purposes, such as to resolve disputes, troubleshoot problems and enforce the Terms of Service. Moreover, such prior information may never be completely removed from our databases due to technical and legal constraints, including stored ‘back up' systems. You should not expect that all of your Information will be completely removed from our databases in response to your request. 
+**MONITORING**
 
-#### How we use the information we collect
+We may monitor and record communications with you (such as telephone conversations and emails) for the purpose of quality assurance, training and compliance of our agents / employee with our policies and practices, and to prevent any fraud.
 
-In General. We may use information that we collect about you to: 
+**INFORMATION ABOUT OTHER INDIVIDUALS**
 
-deliver our products and services, and manage our business;
+If you give us any information on behalf of someone else, you confirm that the other person has appointed you to act on his / her behalf and / or has agreed that you can:
 
-manage your account and provide you with customer support;
+  * Give consent on his / her behalf to the processing of his / her personal data;
+  * Receive on his / her behalf any data / information protection notices;
+  * Give consent to the transfer of his / her personal data to other third parties;
+  * Give consent to the processing / publishing of his / her sensitive personal data.
 
-perform research and analysis about your use of, or interest in, our products, services, or content, or products, services or content offered by others; 
 
-communicate with you by email, postal mail, telephone and/or mobile devices about products or services that may be of interest to you either from us, or 3rd parties. You may obtain information and offers for products and services offered by Us as well as selected third parties. In order to accomplish the foregoing, We may provide the Information to trusted third parties, including but not limited to selected marketers 
 
-develop and display content and advertising tailored to your interests on our site and other sites, including providing our advertisements to you when you visit other sites;
+**RETAINING YOUR PERSONAL DATA**
 
-perform ad tracking and website or mobile application analytics;
+We keep your personal data for as long as we need it for the purposes for which it was collected.
 
-verify your eligibility and deliver prizes in connection with contests and sweepstakes; 
+When we decide how long we will keep your information we consider the amount, nature, and sensitivity of the personal data, the potential risk of harm from unauthorized use or disclosure, why we need it, and any relevant legal requirements.
 
-enforce or exercise any rights in our terms and conditions; and perform functions as otherwise described to you at the time of collection 
+We may anonymize your personal data (so that it can no longer be associated with you) for research or statistical purposes, in which case we may use this information indefinitely.
 
-In all circumstances, we may perform these functions directly or use a third party vendor to perform these functions on our behalf who will be obligated to use your personal information only to perform services for us. Also, if you access our Service from a third party social platform, such as Facebook, we may share non-personal information with that platform to the extent permitted by your agreement with it and its privacy settings. 
+**THIRD PARTY SITES, APPS AND PLATFORMS**
 
-#### Control of Your Password/Authentication Mechanism
+Our sites and apps may include links to third-party sites, apps and social media platforms, including but not limited to Facebook, Twitter and Instagram. Clicking on those links may allow third parties to collect or share data about you. We do not control third-party sites, apps and social media platforms and we encourage you to read their privacy policies so that you understand how they process information about you.
 
-You are responsible for all actions taken with your login information and password, including any fees or charges incurred based on such use. You must never share your login information with a third party. If you choose to share this information with a third party, you are responsible for all actions taken with your login information and password by such third party. If you believe your password has been disclosed to third parties or otherwise compromised in any way you should immediately change your password. You should be sure to maintain the control and security of your device at all times to prevent unauthorized use.
+**USE OF COOKIES**
 
-We urge you to take steps to protect yourself as well. For example, select a neutral username that does not include your name or other personally identifiable information. To learn more about how to protect yourself online, we encourage you to visit government websites that address these issues.
+When you use this website, we collect information about your computer, including your IP address and/or browser, which we will use for administration purposes and statistical analysis. This information will not usually identify you personally. A “web beacon,” also known as a tag, pixel tag, or clear GIF, is used to transmit information back to a web server. When we talk about “cookies” in this privacy policy, we mean not just cookies, but web beacons and similar technologies.
 
-#### Information you provide about yourself while using our service
+We may also obtain information about your online movements and use of the internet. We do this by placing a ‘cookie’ which is a small file, on your computer’s hard disk. Cookies are used for several reasons:
 
-We provide areas on our site where you can post information about yourself and others and communicate with others or upload content such as photographs. Such postings are governed by our Terms of Use. In addition, such postings may appear on other websites or when searches are executed on the subject of your posting. Also, whenever you voluntarily disclose personal information on publicly-viewable web pages, that information will be publicly available and can be collected and used by others. We cannot control who reads your posting or what other users may do with the information you voluntarily post, so we encourage you to exercise discretion and caution with respect to your personal information.
+  * To recognise you whenever you visit the website;
+  * To speed up access to this website;
+  * To store your personal preferences;
+  * To build a profile about you;
+  * To better target our marketing and advertising campaigns.
 
-#### A Special Note About Children
 
-The Service is not intended for users under the age of 13, nor do we knowingly collect or retain Information in connection with the Service from children under the age of 13. If you are a parent and believe that your child has submitted information to ReadyGraph, please contact us immediately at support@readygraph.com. 
 
-#### Visiting our websites from outside the United States
+The vast majority of web browsers accept cookies. However, you can change your browsers settings so that cookies are not accepted. If you do this, you may lose some of the functionality of this website.
 
-If you are visiting our website from outside the United States, please be aware that your information may be transferred to, stored, and processed in the United States. By using our services, you understand that your information may be transferred to our facilities and those third parties with whom we share it as described in this privacy policy.
+For further information about cookies and how to disable them please go to: [www.aboutcookies.org](http://www.aboutcookies.org/)
 
-#### Tracking Technologies
+**DOUBLECLICK DART COOKIE**
 
-We also use tracking technologies to log information such as IP address, browser type and usage of the ReadyGraph website. The information collected in this manner is used for Service maintenance, development and potentially advertising. We may also employ "cookies" or similar technologies to provide additional functionality to our website and help us analyze the site usage more accurately. Some of the features on our website will only function if your browser is set to accept cookies. Thus, if you decline to accept cookies, certain features of our website may not operate properly. We reserve the right to use such tracking technologies for the purpose of marketing internal and third parties as well.
+Google is one of a third-party vendor on our site. It also uses cookies, known as DART cookies, to serve ads to our site visitors based upon their visit to www.mangobaaz.com and other sites on the internet. However, visitors may choose to decline the use of DART cookies by visiting the Google ad and content network Privacy Policy at the following URL – [http://www.google.com/privacy_ads.html](https://www.google.com/privacy_ads.html) .
 
-#### Email Policies
+**OUR ADVERTISING PARTNERS**
 
-By default, we will send you periodic updates of various site information including welcome emails, site announcements, notifications and messages related to other ReadyGraph Services members and promotional email. You have full control regarding which of these emails you want to receive. To change your options, simply click "Unsubscribe" link from any email.
+Some of the advertisers on our site may use cookies and web beacons. These advertising partners include, but are not limited to:
 
-#### Push Notification Policies
+Google, Facebook, Twitter
 
-We may send you periodic updates regarding the use of the Service through push notifications. These notifications may impact the data limits set by your provider. You may disable these notifications from the iOS “Settings” application on your device.
+Each of our advertising partners has their own Privacy Policy for their website.
 
-#### Our Use and Sharing of Information
+**LOG FILES**
 
-ReadyGraph has functionality where we may collect some of your personal information through the Facebook Connect and the Graph API. Your data will be shared with us from Facebook or other social applications. We may use Facebook Connect or an Open ID provider to authenticate your identity and provide you the option to share certain personal information with us such as your name and email address to pre-populate our sign up form and to post information about your activities on this Web site to your profile page to share with others within your network.
+Mangobaaz follows a standard procedure of using log files. These files log visitors when they visit websites. All hosting companies do this and as part of hosting services’ analytics. The information collected by log files include internet protocol (IP) addresses, browser type, Internet Service Provider (ISP), date and time stamp, referring/exit pages, and possibly the number of clicks. These are not linked to any information that is personally identifiable. The purpose of the information is for analyzing trends, administering the site, tracking users’ movement on the website, and gathering demographic information.
 
-For the aspects of our Service powered by Facebook applications we also use Facebook Permissions in order to give you the option to share personal information such as your activities and interests as well as the authorization to post information about your activity to your profile page on Facebook, other third party websites, and pages and emails powered by ReadyGraph.  Most personal information that may be collected is done so via an iframe or through a Facebook application on behalf of our client. Please refer to the privacy policy on the site/iframe where this data is collected.
+**YOUR LEGAL RIGHTS**
 
-If you post on a public forum, you should be aware that any information you provide in these areas may be read, collected, and used by others who access them. To request removal of your personal information from our ReadyGraph, ReadyGraph-powered features, our blog or community forum, contact us as described below.  In some cases, we may not be able to remove your personal information. 
+Legal rights you may exercise over your personal data are briefly described below:
 
-We may use Information collected in connection with the Service in the following ways:
+**Right to request access**
 
-•           To provide requested information, products and services to users via the Service or through other online or offline channels
+You have the right to ask for a copy of personal data we hold about you and to check we are dealing with it lawfully by asking for information about how we process it.
 
-•           To improve the user experience with the Service
+**Right to request correction**
 
-•           To enable users to obtain information and offers for products and Services offered by us as well as selected third parties.
+You have the right to ask us to correct incomplete or inaccurate information about you.
 
-In order to do the foregoing, we may provide the Information to third party service providers who help us bring you the services we offer, including but not limited to the operation of the Service, financial verification and payment services, communication services and fulfillment of orders, information verification, and third party marketing services.  We will use commercially reasonable efforts to limit use of the Information by such third parties to the provision of the services to us. These third parties may include the credit card companies and banking institutions used to process and support your transactions. By purchasing, or registering for, or making reservations for products or services of third parties offered on the Service, or by participating in programs offered on the Service that are administered by third parties and that require you to submit financial information in order to use them, you consent to our providing your financial information to those third parties. These third parties will be authorized to use your financial information in accordance with our contractual arrangements with such third parties and in accordance with their own privacy policies, over which we have no control, and you agree that we are not responsible or liable for any of their actions or omissions. 
+**Right to request erasure**
 
-Although we use industry-standard efforts to protect the Information we collect via the Service, we cannot guarantee that this information will not be accessed by the government or third parties in certain circumstances. We may be required by law to disclose information to the government, law enforcement agencies or third parties. You authorize us to report consumer transaction data to third parties for fraud prevention services. In addition, third parties may unlawfully intercept or access transmissions or private communications and other services may abuse or misuse your information that they collect from the Service. Accordingly, you should not expect that your Information or private communications will remain private in all circumstances. 
+You have the right to ask us to delete or remove your personal data.
 
-We use information in the data files we maintain about you, and the other information we obtain from your current and past activities on the Service to resolve disputes, troubleshoot problems and enforce the Terms of Use. We may review the data of multiple users to identify problems or resolve disputes. 
+**Right to object to processing**
 
-We may share data collected via the Service, including Information about you, with our parent, affiliates, subsidiaries, or third parties. It is possible that we could merge with or be acquired by another business entity. Should such merger or acquisition occur, we reserve the right to share some or all of your Information with the merger partner or acquiring party. 
+If we are relying on a legitimate interest to process your personal data, you have the right to object. Our legitimate interest in processing your information may override your rights and freedoms. You also have the right to object to us processing your personal data for direct marketing purposes.
 
-We may also share your information with third parties to develop and deliver targeted advertising on our site and on websites or applications of third parties, and to analyze and report on advertising you see. We may combine information we collect with additional information collected from other sources. We also may share information with third parties, including advisors, advertisers and investors, for the purpose of conducting general business analysis or other business purposes. 
+**Right to withdraw consent**
 
-In addition, we reserve the right to share your information in the following scenarios:
+If we are processing your personal data on the basis of your consent, you can withdraw your consent at any time.
 
-In response to a subpoena or similar investigative demand, a court order, or a request for cooperation from a law enforcement or other government agency; to establish or exercise our legal rights; to defend against legal claims; or as otherwise required by law. In such cases, we may raise or waive any legal objection or right available to us.
+**Right to request restriction of processing.**
 
-When we believe disclosure is appropriate in connection with efforts to investigate, prevent, or take other action regarding illegal activity, suspected fraud or other wrongdoing; to protect and defend the rights, property or safety of our company, our users, our employees, or others; to comply with applicable law or cooperate with law enforcement; or to enforce our website terms and conditions or other agreements or policies.
+You can ask us to suspend processing of your personal data where: (a) you contest the data’s accuracy; or (b) processing of your data is unlawful but you do not want us to erase it; or (c) we no longer need your data but you need us to hold it for a legal claim; or (d) you object to our processing of your data and we are checking whether the legitimate interest we rely on overrides your rights.
 
-#### Fraud
+**Right to request transfer**
 
-Without limiting any other remedies, ReadyGraph may suspend or terminate your account if it suspects that you (by conviction, settlement, insurance or escrow investigation, or otherwise) have engaged in fraudulent activity in connection with the ReadyGraph service.
+You have the right to ask us to transfer your personal data to you, or to a third party. This right applies only to automated information you gave us consent to use, or where we used the information to perform a contract with you.
 
-#### Restricted Activities
+**Right to object to automated decision-making**
 
-Your use of the ReadyGraph service shall not: (a) be false, inaccurate or misleading; (b) be fraudulent or involve the sale of illegal services or items; (c) infringe any third party’s copyright, patent, trademark, trade secret or other proprietary rights or rights of publicity or privacy; (d) violate any applicable law, statute, professional code of conduct, ordinance or regulation (including, but not limited to restrictions on sharing of fees, restrictions on giving referral fees, consumer protection, unfair competition, antidiscrimination or false advertising); (e) be defamatory, trade libelous, unlawfully threatening or unlawfully harassing; (f) be obscene or contain child pornography; (g) contain any viruses, Trojan horses, worms, time bombs, cancelbots, easter eggs or other computer programming routines that may damage, detrimentally interfere with, surreptitiously intercept or expropriate any system, data or personal information; (h) create liability for us or cause us to lose (in whole or in part) the services of our ISPs or other suppliers; and (i) link directly or indirectly to or include descriptions of goods or services that are prohibited under this Agreement or ones that you do not have a right to link to or include.
+You have the right not to be subject to automated decision-making, including profiling, which has legal or other significant effects on you. This right does not apply when the automated decision is necessary for entering into or performing a contract with you or is based on your explicit consent.
 
-#### License
+**How to exercise your rights**
 
-Solely to enable ReadyGraph to use the information you supply us with, so that we are not violating any rights you might have in that information, you agree to grant us a non-exclusive, worldwide, perpetual, irrevocable, royalty-free, sub-licensable (through multiple tiers) right to exercise the copyright, publicity, and database rights (but no other rights) you have in your information, in any media now known or not currently known, with respect to your information. ReadyGraph will only use your information in accordance with our Privacy Policy.
+To exercise your rights email [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection) As a security measure, we will ask you to verify your identity. If a third party is making a request on your behalf we will ask them to prove that they have your permission to act for you.
 
-#### Third Party Use of Information
+We may contact you to ask you for further information to help you exercise your legal rights, or to speed up our response. We will try to respond to requests within one month and we will let you know if we need to take longer, for example, because your request is complicated. We may have an overriding lawful basis for processing your personal data, or certain exemptions may apply. If we refuse your request we will explain why.
 
-This Privacy Policy only addresses the use and disclosure of information we collect from you. If you disclose your Information to other parties, whether via the Service or on sites throughout the Internet, different rules may apply to their use or disclosure of the information you disclose to them. We do not control the privacy policies of any third parties so you should investigate their policies before you disclose your Information to them.
+**YOUR CONSENT**
 
-Information you submit will be used to respond to your request. We may also use your information for other legitimate business purposes, including sending you notices about ReadyGraph, its products and services, or asking for your input and feedback on our products and services.
+By using this Website and/or by providing your information, you consent to the collection and use of the information you disclose to us in accordance with this Privacy Policy, including but not limited to your consent for sharing your information as per this privacy policy. We may change this Privacy Policy from time to time. You should check this policy occasionally to ensure you are aware of the most recent version which will apply each time you access this website.
 
-#### Contact Information
+**OUR CONTACT DETAILS**
 
-App Uprising, Inc. 20 Jay St. Brooklyn, NY 11201 support@readygraph.com +1 (862) 205-4769
-
-Last Updated: 01/2/2014
-
-  
-
+We welcome your feedback and questions. If you wish to contact us, please send an email to [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection)
