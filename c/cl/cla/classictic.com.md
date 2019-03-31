@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the classictic.com privacy policy that was archived on 2018-10-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181004072029id_/https%3A//www.classictic.com/en/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the classictic.com privacy policy that was archived on 2019-03-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190331190610id_/https%3A//www.classictic.com/en/privacy) for the most accurate reproduction.*
 
 # Privacy notice - Classictic.com
 
