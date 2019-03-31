@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the rac.co.uk privacy policy that was archived on 2018-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181229041123id_/https%3A//www.rac.co.uk/legal-information/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rac.co.uk privacy policy that was archived on 2019-03-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190331015500id_/https%3A//www.rac.co.uk/legal-information/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy & Data Protection | RAC
+# RAC Privacy Policy & Data Protection | RAC
 
 This privacy policy explains how we collect and use the personal information you give us, as well as information we collect from other sources.  We will notify you of any significant changes to how your personal information is used, but also recommend that you review the contents of our privacy policy regularly.
 
@@ -13,9 +13,7 @@ This privacy policy explains how we collect and use the personal information you
   7. Your information rights
   8. Marketing
   9. Contact us
-
-* * *
-
+  10. RAC Cars
 
 
 
@@ -296,3 +294,7 @@ BS32 4QN
 Email: [dpo@rac.co.uk](mailto:dpo@rac.co.uk)
 
 You are entitled to contact and escalate any complaints in relation to how we use and process your personal information to the Information Commissioner’s Office (ICO), however we recommend getting in touch with us first to try and resolve any issues you may have.
+
+##  10. RAC Cars
+
+For information on our privacy policy for our RAC Cars site, please click[ here.](https://web.archive.org/cars/privacy-policy)
