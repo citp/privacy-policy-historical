@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the nigerianbulletin.com privacy policy that was archived on 2018-07-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180713211523id_/https%3A//nigerianbulletin.com/index.php/pages/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nigerianbulletin.com privacy policy that was archived on 2019-03-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190331020333id_/https%3A//nigerianbulletin.com/index.php/pages/privacy) for the most accurate reproduction.*
 
-# Privacy Policy - Nigerian Bulletin | Nigerian Bulletin - Trending News
+# Privacy Policy - Nigerian Bulletin | Nigerian Bulletin - Naija Trending News
 
 At Nigerianbulletin.com, we are committed to maintaining the trust and confidence of our visitors and community. We do not sell, rent or trade email lists with other companies and businesses for marketing purposes. Our Privacy Policy sets out in detail when and why we collect your personal information, how we use it, the limited conditions under which we may disclose it to others and how we keep it secure. Please take a few minutes to go through the information below 
 
