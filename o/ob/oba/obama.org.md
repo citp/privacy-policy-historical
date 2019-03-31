@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the obama.org privacy policy that was archived on 2018-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181227233724id_/https%3A//www.obama.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the obama.org privacy policy that was archived on 2019-03-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190331145929id_/https%3A//www.obama.org/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Obama Foundation
 
@@ -79,6 +79,6 @@ You may opt out of receiving text messages, updates and newsletters  by followi
 
 ### Contact Us
 
-If you have any questions about this Privacy Policy, please contact us at: [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#4920272f2609262b28242867263b2e).
+If you have any questions about this Privacy Policy, please contact us at: [info@obama.org](mailto:info@obama.org).
 
 Last updated March 20, 2014
