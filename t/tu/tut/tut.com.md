@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tut.com privacy policy that was archived on 2018-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180905100538id_/https%3A//www.tut.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tut.com privacy policy that was archived on 2019-03-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190331145943id_/https%3A//www.tut.com/privacy) for the most accurate reproduction.*
 
 # TUT - The Universe Talks - Mike Dooley
 
@@ -6,7 +6,7 @@ Last Updated and Effective as of: July 2, 2018
 
 ### SHARING & USAGE:
 
-TUT does not and will never share, sell, or otherwise reveal your email address or other information. Data submitted to us is only available to employees and contractors managing this information for purposes of sending out our daily _Notes from the Universe_ emails and occasional e-mails about events, monthly happenings, and special offers. Any and all the information collected on this site will be kept strictly confidential and will not be sold, reused, rented, disclosed, or loaned! Any information you provide will be held with the utmost care and will not be used in ways that you have not consented to. If you have any questions, please feel free to e-mail us at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#3a5b5e4c5f544e4f485f7a4e4f4e14595557).
+TUT does not and will never share, sell, or otherwise reveal your email address or other information. Data submitted to us is only available to employees and contractors managing this information for purposes of sending out our daily _Notes from the Universe_ emails and occasional e-mails about events, monthly happenings, and special offers. Any and all the information collected on this site will be kept strictly confidential and will not be sold, reused, rented, disclosed, or loaned! Any information you provide will be held with the utmost care and will not be used in ways that you have not consented to. If you have any questions, please feel free to e-mail us at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#e0818496858e94959285a0949594ce838f8d).
 
 We collect information about you and your visits to our site and services in order to:
 
@@ -24,7 +24,7 @@ All credit card purchases are placed over our secure server connection. To ensur
 
 ### CHOICE/OPT-OUT:
 
-This site offers users the option to instantly opt-out/unsubscribe from mailings and to cease receiving all future communications. You may also email us at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#adccc9dbc8c3d9d8dfc8edd9d8d983cec2c0) with such requests or when assistance is needed.
+This site offers users the option to instantly opt-out/unsubscribe from mailings and to cease receiving all future communications. You may also email us at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#d6b7b2a0b3b8a2a3a4b396a2a3a2f8b5b9bb) with such requests or when assistance is needed.
 
 ### THIRD PARTY WEBSITES:
 
@@ -58,7 +58,7 @@ _Opt-out:_ Visiting [Google’s Ads Settings](http://www.google.com/settings/ads
 
 ### CONTACTING THE WEBSITE:
 
-If you have any questions about this privacy promise, the practices of this site, or your dealings with TUT, you can contact the Web Administrator at [TUT World Headquarters](https://web.archive.org/contact-us/), or by email at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#c4a5a0b2a1aab0b1b6a184b0b1b0eaa7aba9).
+If you have any questions about this privacy promise, the practices of this site, or your dealings with TUT, you can contact the Web Administrator at [TUT World Headquarters](https://web.archive.org/contact-us/), or by email at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#8cede8fae9e2f8f9fee9ccf8f9f8a2efe3e1).
 
 ### PRIVACY POLICY CHANGES:
 
