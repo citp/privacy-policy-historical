@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the namepros.com privacy policy that was archived on 2018-08-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180824024821id_/https%3A//www.namepros.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the namepros.com privacy policy that was archived on 2019-03-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190331030804id_/https%3A//www.namepros.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - NamePros
 
-[ ](https://web.archive.org/cdn-cgi/l/email-protection#97e4e2e7e7f8e5e3d7f9f6faf2e7e5f8e4b9f4f8fa)
+[ ](https://www.namesilo.com/register.php?utm_source=namepros&utm_medium=ns19&utm_campaign=register)
 
 Last revised June 8, 2018 (effective date)
 
@@ -42,7 +42,7 @@ We may ask you to enter financial information (e.g., credit card details) for bi
 
 ### Communications
 
-We may collect and store information about you and our interactions with you when you communicate with us, which includes when you contact us through our service (e.g., name, email address, and [IP address](https://en.wikipedia.org/wiki/IP_address) if you use our [contact form](https://web.archive.org/web/20180824022331id_/https://www.namepros.com/help/misc/contact)), send us an email (e.g., message, name, email address, and IP address), start a conversation with us using our support chat (i.e., Intercom), send us a message on social media (e.g., username), and/or when you contact us on other websites.
+We may collect and store information about you and our interactions with you when you communicate with us, which includes when you contact us through our service (e.g., name, email address, and [IP address](https://en.wikipedia.org/wiki/IP_address) if you use our [contact form](https://web.archive.org/web/20190331052036id_/https://www.namepros.com/help/misc/contact)), send us an email (e.g., message, name, email address, and IP address), start a conversation with us using our support chat (i.e., Intercom), send us a message on social media (e.g., username), and/or when you contact us on other websites.
 
 ### Public information from third parties
 
@@ -64,7 +64,7 @@ Most of the information that we collect is used to provide and operate our servi
 
 #### Cookies and browser storage
 
-We, the service providers we use, and our advertisers may use cookies and other browser storage options (e.g., JavaScript local storage) to store information in your web browser on your computer, which can be used in many ways, such as to help us provide certain functionality (e.g., remember your preferences and the ability to login), improve your experience (e.g., personalization), know who has viewed or clicked an ad, detect misuse (e.g., through persistent identifiers to prevent fraud and abuse), and analyze website traffic. We have a detailed [cookie policy](https://web.archive.org/web/20180824022331id_/https://www.namepros.com/help/help/cookies) that provides more information.
+We, the service providers we use, and our advertisers may use cookies and other browser storage options (e.g., JavaScript local storage) to store information in your web browser on your computer, which can be used in many ways, such as to help us provide certain functionality (e.g., remember your preferences and the ability to login), improve your experience (e.g., personalization), know who has viewed or clicked an ad, detect misuse (e.g., through persistent identifiers to prevent fraud and abuse), and analyze website traffic. We have a detailed [cookie policy](https://web.archive.org/web/20190331052036id_/https://www.namepros.com/help/help/cookies) that provides more information.
 
 ### Improve and support our services  
 
@@ -290,6 +290,6 @@ You must not provide your personal information to us if you are under the age of
 
 If you have any questions about our policies or inquiries about our data practices, please contact us at _[[email protected]](https://web.archive.org/cdn-cgi/l/email-protection)_ anytime.
 
-[ ](http://www.lysted.com/)
+[ ](https://www.nameworth.com/?ad=np)
 
-[ ](https://www.namepros.com/threads/undeveloped-com-experience.893201/page-9999)
+[ ](https://escrow.domains/?aid=1b3c71ba-1f5d-4574-ad56-75de40297667)
