@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bsimracing.com privacy policy that was archived on 2018-01-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180124083735id_/http%3A//www.bsimracing.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bsimracing.com privacy policy that was archived on 2019-03-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190331204205id_/https%3A//www.bsimracing.com/privacy-policy) for the most accurate reproduction.*
 
 # bsimracing
 
@@ -38,4 +38,4 @@ Deleting cookies does not mean you are permanently opted out of any advertising 
 
 ### Contacting Us
 
-Please do not hesitate to contact us regarding any matter relating to this Privacy Policy using the [Bsimracing Contact Page](http://www.bsimracing.com/contact-bsim/).
+Please do not hesitate to contact us regarding any matter relating to this Privacy Policy using the [Bsimracing Contact Page](https://www.bsimracing.com/contact-bsim/).
