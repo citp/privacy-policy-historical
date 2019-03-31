@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the greatamericandaily.com privacy policy that was archived on 2018-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181203084354id_/https%3A//greatamericandaily.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the greatamericandaily.com privacy policy that was archived on 2019-03-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190331061625id_/https%3A//greatamericandaily.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Great American Daily
 
