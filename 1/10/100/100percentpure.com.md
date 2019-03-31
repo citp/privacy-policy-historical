@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 100percentpure.com privacy policy that was archived on 2018-11-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181109082840id_/https%3A//www.100percentpure.com/pages/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 100percentpure.com privacy policy that was archived on 2019-03-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190331025649id_/https%3A//www.100percentpure.com/pages/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | 100% PURE
 
@@ -136,7 +136,7 @@ You may deactivate the ability of these analytics services to analyze your brows
 
 We may also contract with third-party advertising networks that collect IP addresses and other information through the use of cookies, web server logs and web beacons on our websites and emails; on third-party websites and emails and on our advertising placed on third-party websites. They use this information to create a profile about you and provide advertisements about products and services tailored to your interests (including for companies not affiliated with us). You may see these advertisements on our websites and other websites. This process also helps us manage and track the effectiveness of our marketing efforts. They will only be used if you continue using this site.
 
-To learn more about interest-based advertising, visit the Digital Advertising Alliance at  _[www.aboutads.info/choices](https://web.archive.org/web/20181109082840id_/https%3A//www.100percentpure.com/pages/www.aboutads.info/choices)_  or the Network Advertising Initiative at  _[www.networkadvertising.org/choices](https://web.archive.org/web/20181109082840id_/https%3A//www.100percentpure.com/pages/www.networkadvertising.org/choices)._
+To learn more about interest-based advertising, visit the Digital Advertising Alliance at  _[www.aboutads.info/choices](https://web.archive.org/web/20190331025649id_/https%3A//www.100percentpure.com/pages/www.aboutads.info/choices)_  or the Network Advertising Initiative at  _[www.networkadvertising.org/choices](https://web.archive.org/web/20190331025649id_/https%3A//www.100percentpure.com/pages/www.networkadvertising.org/choices)._
 
 #### **Third Party Cookies Intended to Improve the Interactivity of the Site**
 
