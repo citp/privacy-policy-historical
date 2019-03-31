@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rageon.com privacy policy that was archived on 2018-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181230054749id_/https%3A//www.rageon.com/pages/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rageon.com privacy policy that was archived on 2019-03-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190331052910id_/https%3A//www.rageon.com/pages/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
