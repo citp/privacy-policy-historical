@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the civilbeat.com privacy policy that was archived on 2018-09-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180921045753id_/https%3A//www.civilbeat.org/civil-beat-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the civilbeat.com privacy policy that was archived on 2019-03-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190331051021id_/https%3A//www.civilbeat.org/civil-beat-privacy-policy) for the most accurate reproduction.*
 
 # Civil Beat Privacy Policy - Honolulu Civil Beat
 
