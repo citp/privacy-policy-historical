@@ -1,49 +1,33 @@
-> *The following text is extracted and transformed from the soapdirt.com privacy policy that was archived on 2011-04-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110405193439id_/http%3A//www.earthgerm.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the soapdirt.com privacy policy that was archived on 2019-04-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190401013405id_/https%3A//soapdirt.com/privacy-policy) for the most accurate reproduction.*
 
-# EarthGerm
+# Privacy Policy | Soap Dirt
 
-At EarthGerm, we are committed to protecting the privacy and security of our customers and the users of our site. This Privacy Policy sets out our policy on the gathering and use of information on this site. Your visit to the site is subject to this Privacy Policy and our [Terms of Use](http://earthgerm.com/terms.html).
+**Last updated:** October 6th, 2017
 
-This Privacy Policy applies only to this site and not to websites of other companies or organizations to which this site is or may be linked. You may be asked to provide us with personal information when you visit certain sections of the site.
+SoapDirt.com is an online service operated in the United States and can be accessed via the internet with a computer, mobile device and other electronic devices,. This “Privacy Policy” applies to this site and other features, applications or downloads that are controlled by us that are available through this site
 
-## Consent to This Privacy Policy
+This Privacy Policy does not apply to collection of information or data from other sources (unless specifically stated).
 
-By using our web site, you indicate that you agree with the terms of our current Privacy Policy as posted on our site as well as the terms of our Terms of Use. If you do not agree with this Policy or our Terms of Use, please do not use our site or provide any personal information to us.
+This Privacy Policy, together with the Terms of Use posted on our Website, sets forth the general rules and policies governing your use of our Website. Depending on your activities when visiting our Website, you may be required to agree to additional terms and conditions.
 
-## The Information We Collect and How We Use It
+We reserve the right to change the privacy policy without prior notice and you should check this Privacy Policy periodically. Any changes will be effective immediately upon the posting of the revised Privacy Policy. If you do not agree with the conditions of this privacy policy you should immediately cease visiting the website.
 
-EarthGerm will not collect any personal information about you, such as your name, address, telephone number or email address through its web site unless you provide it to us yourself. Any consumer information gathered on this Site may be used for promotional purposes and/or for future site development. We may use information gathered about you for the following purposes: to send you or, where appropriate, your organization, information about us and promotional material about our products together with details of any offers we may have available from time to time. The circumstances in which you may choose to provide us personal information include: providing your name and mailing address while entering a contest so that we may notify you if you win; providing your email address so that we may send you information you request; or registering as a user so that you may gain access to a particular section of the site. If you do not wish for us to collect any personal information about you, do not submit it to us.
+Your continued use of the Service after we post any modifications to the Privacy Policy on this page will constitute your acknowledgment of the modifications and your consent to abide and be bound by the modified Privacy Policy.
 
-## Disclosure of Information
+By using the Site, you agree to the collection and use of information in accordance with this policy.
 
-EarthGerm uses and discloses your personal information only for the purposes it was collected. EarthGerm does not sell or rent personal information to any organization or person for any reason.
+**Information Collection And Use**
 
-We do not share your personal information with third party organizations except to offer you a product or service. If your personal information is shared with third parties, these third parties are bound by appropriate agreements with EarthGerm to secure and protect the confidentiality of your personal information.
+While using our Site, we may ask you to provide us with certain personally identifiable information that can be used to contact or identify you. Personally identifiable information may include, but is not limited to your name (“Personal Information”).
 
-EarthGerm retains your personal information only as long as it is required for our business relationship or as required by federal and provincial laws.
+**Log Data**
 
-## Policies for Children
+Like many site operators, we collect information that your browser sends whenever you visit our Site (“Log Data”). This Log Data may include information such as your computer’s Internet Protocol (“IP”) address, browser type, browser version, the pages of our Site that you visit, the time and date of your visit, the time spent on those pages and other statistics. In addition, we may use third party services such as Google Analytics that collect, monitor and analyze collected information and data.
 
-EarthGerm is committed to protecting the online privacy of children and making the Internet safe. We encourage parents/guardians of children under 13 to regularly check and monitor their children's use of email and other activities online. If you are under 13 years of age, you may browse our site; however, you may not provide personal information to us.
+**Communications**
 
-## Security and Data Protection
+We may use your Personal Information to contact you with newsletters, marketing or promotional materials and other information. By providing your contact information, you agree to allow us to contact you.
 
-We take steps to safeguard your personal information, regardless of the format of that information. We implement various security measures in accordance with industry standards to protect the security of your personal information both online and offline. Our security and privacy policies are periodically reviewed and enhanced as required. Notwithstanding the foregoing, we cannot guarantee the security of any information you disclose to us, and you do so at your own risk.
+**Cookies**
 
-## Policy Change
-
-We may revise this Privacy Policy from time to time. If we decide to change our Privacy Policy, we will post the revised policy here. Please check back from time to time to ensure you are aware of our current privacy policy. Please note that our rights to use your personally identifiable information will be based on the privacy policy in effect at the time the information is used.
-
-## Effective Date
-
-This Privacy Policy is effective as of May 24, 2005. We encourage you to check this page periodically to ensure that you are aware of our current Privacy Policy.
-
-## Comments
-
-We have taken great measures to ensure that your visit to the site is an excellent one and that your privacy is constantly respected. If you have any questions, comments or concerns about the site's privacy practices, please contact us by mail or email below.
-
-## Postal Address:
-
-Wyvern Capital Inc.  
-295 The West Mall, Suite 116  
-Toronto, Ontario M9C 4Z4 
+Cookies are files with small amount of data, which may include an anonymous unique identifier. Cookies are sent to your browser from a web site and stored on your computer’s hard drive. Like many sites, we use “cookies” to collect information. You can instruct your browser to refuse all cookies or to indicate when a cookie is being sent. However, if you do not accept cookies, you may not be able to use some portions of our Site. Security The security of your Personal Information is important to us, but remember that no method of transmission over the Internet, or method of electronic storage, is 100% secure. While we strive to use commercially acceptable means to protect your Personal Information, we cannot guarantee its absolute security.
