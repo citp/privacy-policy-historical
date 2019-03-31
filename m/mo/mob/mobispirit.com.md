@@ -1,43 +1,49 @@
-> *The following text is extracted and transformed from the mobispirit.com privacy policy that was archived on 2007-10-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071018115304id_/http%3A//mobispirit.com%3Fq%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mobispirit.com privacy policy that was archived on 2019-04-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190401015817id_/https%3A//mobispirit.com/privacy_policy) for the most accurate reproduction.*
 
-# Privacy statement | mobispirit.com
+# Privacy Policy - MobiSpirit
 
-### Mobispirit's privacy statement 
+Last updated: September 30, 2017
 
-Mobispirit.com, fully owned by Messagio, has created this privacy statement (”Statement”) in order to demonstrate our commitment to customer privacy. Privacy on the Mobispirit.com web site is of great importance to us. Because we gather important information from our visitors and customers, we have established this Statement as a means to communicate our information gathering and dissemination practices. We reserve the right to change this Statement and will provide notification of the change at least thirty (30) business days prior to the change taking effect.  
-Collected Information:  
-We require customers who register to use the services offered on our Site (collectively, the “Service”) to give us contact information, such as their name, company name, address, phone number, and e-mail address, and financial qualification and billing information, such as billing name and address, credit card number, and the number of users within the organization that will be using the Service. At the time you express interest in attaining additional information, or when you register for the Service, we may also ask for additional personal information, such as title, department name, fax number, or additional company information, such as annual revenues, number of employees, or industry. Customers can opt out of providing this additional information by not entering it when asked. Customers can update or remove their personal information at any time by logging into the Website and editing their Personal Information within “My Account”. Customers can view their updated profile to confirm their edits have been made.
+MobiSpirit (“us”, “we”, or “our”) operates http://www.mobispirit.com (the “Site”). This page informs you of our policies regarding the collection, use and disclosure of Personal Information we receive from users of the Site.
 
-Mobispirit.com uses the information that we collect to set up the Service for individuals and their organizations. We may also use the information to contact customers to further discuss customer interest in our company, the Service that we provide, and to send information regarding our company or partners, such as promotions and events. Customers are invited to receive an email newsletter by providing an email address. Customer email addresses and any personal customer information will not be distributed or shared with third parties. Customers can opt out of being contacted by us, or receiving such information from us, at any time by sending an email to [support@mobispirit.com](mailto:support@mobispirit.com). Separately, customers are also asked to provide an email address when registering for the Service, in order to receive a password. We may also email information regarding updates to the Service or company, and will send a Customer Newsletter. Again, email will not be distributed or shared and customers can opt out of receiving any communication by emailing [support@mobispirit.com](mailto:support@mobispirit.com) at the time it is distributed, or at the time any customer registers for the Service.
+We use your Personal Information only for providing and improving the Site. By using the Site, you agree to the collection and use of information in accordance with this policy.
 
-Except as we explicitly state at the time we request information, or as provided for in the Mobispirit.com Master Subscription Agreement, we do not disclose to third parties the information provided. All financial and billing information that we collect through the Site is used solely to check the qualifications of prospective customers and to bill for the Service. This billing information is not used by Mobispirit.com for marketing or promotional purposes. Mobispirit.com uses a third-party intermediary to manage the credit card processing. This intermediary is solely a link in the distribution chain, and is not permitted to store, retain, or use the information provided, except for the sole purpose of credit card processing. Other third parties, such as content providers, may provide content on the web Site but they are not permitted to collect any information nor does Mobispirit.com share user information with these parties.
+**Information Collection And Use**
 
-Customers of the Service will be using the Site to host data and information (”Data”). Mobispirit.com will not review, share, distribute, print, or reference any such Data except as provided in the Mobispirit.com Master Subscription Agreement, or as may be required by law. Individual records may at times be viewed or accessed only for the purpose of resolving a problem, support issue, or suspected violation of the Master Subscription Agreement, or as may be required by law. Of course, customers are responsible for maintaining the confidentiality and security of their user registration and password.
+While using our Site, we may ask you to provide us with certain personally identifiable information that can be used to contact or identify you. Personally identifiable information may include, but is not limited to your name (“Personal Information”).
 
-Mobispirit.com may also collect certain information from visitors to and customers of the Site, such as Internet addresses. This information is logged to help diagnose technical problems, and to administer our Site in order to constantly improve the quality of the Service. We may also track and analyze non-identifying and aggregate usage and volume statistical information from our visitors and customers and provide such information to third parties.
+We use third-party advertising companies to serve ads when you visit our Web site. These companies may use aggregated information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, [click here](http://www.networkadvertising.org/choices/).
 
-If a user elects to use our referral service for informing a friend about our site, we ask them for the friend’s name and email address. Mobispirit.com will automatically send the friend a one-time email inviting them to visit the site. Mobispirit.com does not store this information.
+**Log Data**
 
-Cookies:  
-When you interact with the Mobispirit.com Website we strive to make that experience easy and meaningful. When you come to our Web site, our Web server sends a cookie to your computer. Cookies are files that Web browsers place on a computer’s hard drive and are used to tell us whether customers and visitors have visited the Site previously.
+Like many site operators, we collect information that your browser sends whenever you visit our Site (“Log Data”).
 
-Standing alone, cookies do not identify you personally. They merely recognize your browser. Unless you choose to identify yourself to Mobispirit.com, either by responding to a promotional offer or opening an account, you remain anonymous to Mobispirit.com. Cookies come in two flavors: session and persistent-based. Session cookies exist only during an online session. They disappear from your computer when you close your browser software or turn off your computer. Persistent cookies remain on your computer after you’ve closed your browser or turned off your computer. They include such information as a unique identifier for your browser.
+This Log Data may include information such as your computer’s Internet Protocol (“IP”) address, browser type, browser version, the pages of our Site that you visit, the time and date of your visit, the time spent on those pages and other statistics.
 
-Mobispirit.com uses session cookies containing encrypted information to allow the system to uniquely identify you while you are logged in. This information allows Mobispirit.com to process your online transactions and requests. Session cookies help us make sure you are who you say you are after you’ve logged in and are required in order to use the Mobispirit.com application. Mobispirit.com uses persistent cookies, that only Mobispirit.com can read and use, to identify the fact that you are a Mobispirit.com customer or prior Mobispirit.com Website visitor (whatever the case may be). We are especially careful about the security and confidentiality of the information stored in persistent cookies. For example, we do not store account numbers or passwords in persistent cookies. Users who disable their Web browsers’ ability to accept cookies will be able to browse our Website but will not be able to successfully use our Service.
+In addition, we may use third party services such as Google Analytics that collect, monitor and analyze this data.
 
-Third Party Cookies: We may from time to time engage third parties to track and analyze non-personally identifiable usage and volume statistical information from visitors to our website to help us administer our website and improve its quality. Such third parties may use cookies to help track visitor behavior. Such cookies will not be used to associate individual website visitors to any personally identifiable information. All data collected by such third parties on behalf of Mobispirit.com is used only to provide us with information on site usage and is not shared with any other third parties.
+**Communications**
 
-Third-Party Sites:  
-The Site may contains links to other web sites. Mobispirit.com is not responsible for the privacy practices or the content of these other web sites. Customers and visitors will need to check the policy statement of these others web sites to understand their policies. Customers and visitors who access a linked site may be disclosing their private information. It is the responsibility of the user to keep such information private and confidential.
+We may use your Personal Information to contact you with newsletters, marketing or promotional materials.
 
-Security:  
-Our Site has security measures in place to help protect against the loss, misuse, and alteration of the Data under our control. When our Site is accessed using Mozilla Firefox, or Microsoft Internet Explorer versions 5.5 or higher, Secure Socket Layer (SSL) technology protects information using both server authentication and data encryption to help ensure that Data is safe, secure, and available only to you. Mobispirit.com also implements an advanced security method based on dynamic data and encoded session identifications, and hosts the Site in a secure server environment that uses a firewall and other advanced technology to prevent interference or access from outside intruders. Finally, Mobispirit.com provides unique user names and passwords that must be entered each time a customer logs on. These safeguards help prevent unauthorized access, maintain data accuracy, and ensure the appropriate use of Data.
+**Cookies**
 
-Opt-Out Policy:  
-Mobispirit.com offers its visitors and customers a means to choose how we may use information provided. If, at any time after registering for information or ordering the Service, you change your mind about receiving information from us or about sharing your information with third parties, send us a request specifying your new choice. Simply send your request to [support@mobispirit.com](mailto:support@mobispirit.com).
+Cookies are files with small amount of data, which may include an anonymous unique identifier. Cookies are sent to your browser from a web site and stored on your computer’s hard drive.
 
-Correcting & Updating Your Information:  
-If customers need to update or change registration information they may do so by editing the user or organization record. To update a user Profile or organization’s data, log on to Mobispirit.com and select “My Account” to add or update information. For any other reasons, email [support@mobispirit.com](mailto:support@mobispirit.com) or call +33 1 41 10 42 20. Mobispirit.com will respond to your correction or update request within at most 30 days from the date of your request.
+Like many sites, we use “cookies” to collect information. You can instruct your browser to refuse all cookies or to indicate when a cookie is being sent. However, if you do not accept cookies, you may not be able to use some portions of our Site.
 
-Additional Information:  
-Questions regarding this Statement or the practices of this Site should be directed to Mobispirit.com’s Security Administrator by e-mailing such questions to [security@mobispirit.com](mailto:security@mobispirit.com) or by regular mail addressed to Mobispirit.com, Attn: Security Administrator, MESSAGIO, 98 avenue du Général Leclerc, 92100 Boulogne-Billancourt - FRANCE 
+**Security**
+
+The security of your Personal Information is important to us, but remember that no method of transmission over the Internet, or method of electronic storage, is 100% secure. While we strive to use commercially acceptable means to protect your Personal Information, we cannot guarantee its absolute security.
+
+**Changes To This Privacy Policy**
+
+This Privacy Policy is effective as of September 30, 2017 and will remain in effect except with respect to any changes in its provisions in the future, which will be in effect immediately after being posted on this page.
+
+We reserve the right to update or change our Privacy Policy at any time and you should check this Privacy Policy periodically. Your continued use of the Service after we post any modifications to the Privacy Policy on this page will constitute your acknowledgment of the modifications and your consent to abide and be bound by the modified Privacy Policy.
+
+If we make any material changes to this Privacy Policy, we will notify you either through the email address you have provided us, or by placing a prominent notice on our website.
+
+**Contact Us**
+
+If you have any questions about this Privacy Policy, please contact us at admin@mobispirit.com
