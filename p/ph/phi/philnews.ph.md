@@ -1,10 +1,6 @@
-> *The following text is extracted and transformed from the philnews.ph privacy policy that was archived on 2018-09-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180911031637id_/https%3A//philnews.ph/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the philnews.ph privacy policy that was archived on 2019-03-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190331060540id_/https%3A//philnews.ph/privacy-statement) for the most accurate reproduction.*
 
 # Privacy Statement - Philippine News
-
-  
-We use Ezoic to provide personalization and analytic services on this website, as such Ezoic's privacy policy is in effect and can be reviewed [here](https://g.ezoic.net/privacy/philnews.ph).  
-
 
 We use third-party advertising companies to serve ads when you visit our website. These companies may use information (not including your name, address, email address, or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you.
 
@@ -20,4 +16,4 @@ This site gives users the following options for removing their information from 
 
 ## **Contacting the Web Site**
 
-If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, feel free to contact me by sending an email at the [contact](https://www.philnews.ph/contact/) page.
+If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, feel free to contact me by sending an email at the [contact](http://www.philnews.ph/contact/) page.
