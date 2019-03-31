@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wkrn.com privacy policy that was archived on 2018-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181202195127id_/https%3A//www.wkrn.com/more/privacy-policy/1373238802) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wkrn.com privacy policy that was archived on 2019-03-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190331080636id_/https%3A//www.wkrn.com/more/privacy-policy/1373238802) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -112,7 +112,7 @@ Irving, TX 75062
 
 _Do Not_ _Track_ We support the Do Not Track browser setting. When you have Do Not Track enabled in your browser, we will not collect browser-related information about you. For more information regarding Do Not Track, including how to turn on Do Not Track, visit www.donottrack.us. We encourage users who are interested in limiting the information we collect to search online for tools and services (e.g., NAI's consumer opt-out gateway or the Google Analytics Opt-out Browser Add-on) to prevent or opt-out of collection.
 
- _Cookies_ If you do not want information collected through the use of "cookies" there is a simple procedure in most browsers that allows you to deny or accept cookies. You may set your browser to accept all or certain cookies, block all or certain cookies, or require your consent before accepting a cookie. Blocking our cookies will affect your online experience and may prevent you from experiencing certain features of our Properties.
+_Cookies_ If you do not want information collected through the use of "cookies" there is a simple procedure in most browsers that allows you to deny or accept cookies. You may set your browser to accept all or certain cookies, block all or certain cookies, or require your consent before accepting a cookie. Blocking our cookies will affect your online experience and may prevent you from experiencing certain features of our Properties.
 
  **11\. REVIEWING OR CORRECTING YOUR PERSONAL** **INFORMATION** If you've created a password protected account within our Properties, you can access that account to review and update the Personal Information you provided. You may also update or amend your information by sending an email to [PrivacyAdministrator@nexstar.tv](mailto:PrivacyAdministrator@nexstar.tv). We will provide you with a list of your Personal Information within thirty (30) calendar days from receipt of your request. There may be certain instances in which we may not be able to provide the Personal Information, such as when access would violate the privacy of another individual or when access is prohibited by law.
 
