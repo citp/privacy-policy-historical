@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the concern.net privacy policy that was archived on 2018-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180624015210id_/https%3A//www.concern.net/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the concern.net privacy policy that was archived on 2019-03-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190331214448id_/http%3A//www.concern.net/about/privacy) for the most accurate reproduction.*
 
 # Privacy - Concern Privacy Statement - Concern Worldwide
 
@@ -59,7 +59,7 @@ We may sometimes use geo-demographic and/or other personal information which may
 
 If you would prefer us not to process your personal data for the purpose of wealth screening, we will respect your wishes.
 
-If you do not wish to be subject to such profiling or wealth screening or wish to update your contact preferences, please call our donor support team on 01 417 7777, who will happily address your request or email [preferences@concern.net](mailto:preferences@concern.net).
+If you do not wish to be subject to such profiling or wealth screening or wish to update your contact preferences, please call our donor support team on 01 417 7777, who will happily address your request or email [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#b5c5c7d0d3d0c7d0dbd6d0c6f5d6dadbd6d0c7db9bdbd0c1).
 
 ## Disclosure of your information
 
@@ -92,7 +92,7 @@ Unfortunately, subject to the previous paragraphs, the transmission of informati
 
 ## Your rights with regard to your information
 
-You have rights under Irish Data Protection legislation, with regard to our processing of your data. You can exercise these rights at any time by contacting us via email at [dpo@concern.net](mailto:dpo@concern.net) or in writing at: The Data Protection Officer, Concern Worldwide, 52/55 Lower Camden Street, Dublin 2, Ireland. 
+You have rights under Irish Data Protection legislation, with regard to our processing of your data. You can exercise these rights at any time by contacting us via email at [[email protected]net](https://web.archive.org/cdn-cgi/l/email-protection#83e7f3ecc3e0ecede0e6f1edadede6f7) or in writing at: The Data Protection Officer, Concern Worldwide, 52/55 Lower Camden Street, Dublin 2, Ireland. 
 
 You have the right to access personal data we hold which relates to you, including how we acquired such data, and the purposes for which it is being used. This right requires that you will be given a copy of your personal data which you may have supplied to us via the Site or in other correspondence and interactions. 
 
@@ -116,4 +116,4 @@ Any changes we may make to our privacy statement in the future will be posted on
 
 ## Contact
 
-Questions, comments and requests regarding this privacy statement are welcomed and should be addressed to: The Data Protection Officer, Concern Worldwide, 52/55 Lower Camden Street, Dublin 2, Ireland or [DPO@concern.net](mailto:DPO@concern.net) or call 01 417 7700. 
+Questions, comments and requests regarding this privacy statement are welcomed and should be addressed to: The Data Protection Officer, Concern Worldwide, 52/55 Lower Camden Street, Dublin 2, Ireland or [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#98dcc8d7d8fbf7f6fbfdeaf6b6f6fdec) or call 01 417 7700. 
