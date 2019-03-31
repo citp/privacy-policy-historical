@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gottman.com privacy policy that was archived on 2018-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181230153919id_/https%3A//www.gottman.com/privacy-and-hipaa-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gottman.com privacy policy that was archived on 2019-03-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190331091811id_/https%3A//www.gottman.com/privacy-and-hipaa-policy) for the most accurate reproduction.*
 
 # Privacy and HIPAA Policy - The Gottman Institute
 
@@ -28,7 +28,7 @@ If you want to delete or modify your Personal Information or Automated Informat
 
   * Email: [customerservice@gottman.com](mailto:customerservice@gottman.com)
   * Mail: The Gottman Institute, 2101 4th Avenue Suite 1750, Seattle, WA 98121
-  * Phone: toll-free at (888) 523-9042 or (206) 523-9042 within Washington state
+  * Phone: Toll-free at (888) 523-9042 or (206) 523-9042 within Washington state
 
 
 
@@ -50,9 +50,9 @@ At the beginning of therapy, U.S. Federal HIPAA law requires that your independe
 
 THIS NOTICE DESCRIBES HOW PSYCHOLOGICAL AND MEDICAL INFORMATION ABOUT YOU MAY BE USED AND DISCLOSED AND HOW YOU CAN GET ACCESS TO THIS INFORMATION.
 
-PLEASE REVIEW THE FOLLOWING CAREFULLY.
+PLEASE REVIEW THE FOLLOWING CAREFULLY
 
-**Link to  [HIPAA Agreement](https://cdn.gottman.com/wp-content/uploads/HIPPA-Agreement.pdf "HIPPA AGREEMENT")**
+**[Click to read HIPAA Agreement](https://cdn.gottman.com/wp-content/uploads/HIPPA-Agreement.pdf "HIPPA AGREEMENT")**
 
 ### How we use your information
 
@@ -62,8 +62,8 @@ We use the information you provide and we collect to:
 
   * Administer the Site and diagnose problems with our server
   * Verify your identity
-  * Provide you with information about the Site and Gottman Institute and our products and services;
-  * Facilitate performance by Gottman Institute or You under the Terms and any other agreement You may enter into with the Gottman Institute
+  * Provide you with information about the Site and The Gottman Institute and our products and services;
+  * Facilitate performance by The Gottman Institute or You under the Terms and any other agreement You may enter into with the Gottman Institute
   * Measure the number of visitors to the Site and how the Site is used, in order to make the Site as useful as possible to our visitors
 
 
