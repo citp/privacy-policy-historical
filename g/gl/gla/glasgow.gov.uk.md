@@ -1,16 +1,16 @@
-> *The following text is extracted and transformed from the glasgow.gov.uk privacy policy that was archived on 2018-11-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181117033323id_/https%3A//www.glasgow.gov.uk/index.aspx%3Farticleid%3D22066) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the glasgow.gov.uk privacy policy that was archived on 2019-03-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190331073442id_/https%3A//www.glasgow.gov.uk/index.aspx%3Farticleid%3D22066) for the most accurate reproduction.*
 
 # Privacy statement for Glasgow City Council and our Arms Length External Organisations - Glasgow City Council
 
 These pages describe how Glasgow City Council and its associated Arms' Length External Organisations will process personal information under the new data protection laws that came into force on 25 May 2018.    
 
-This page was last updated on 24 May 2018.
+This page was last updated on 23 November 2018.
 
 If you cannot find the Privacy Statement you are looking for please email [dataprotection@glasgow.gov.uk](mailto:dataprotection@glasgow.gov.uk).
 
 ## Who are we?
 
-Glasgow City Council is a local authority established under the Local Government etc. (Scotland) Act 1994. Our head office is located at City Chambers, George Square, Glasgow G2 1DU, United Kingdom, and you can contact our Data Protection Officer by post at this address or by email at: [dataprotection@glasgow.gov.uk](mailto:dataprotection@glasgow.gov.uk), and by telephone on  0141 287 1055.
+Glasgow City Council is a local authority established under the Local Government etc. (Scotland) Act 1994. Our head office is located at City Chambers, George Square, Glasgow G2 1DU, United Kingdom, and you can contact our Data Protection Officer by post at this address or by email at: [dataprotection@glasgow.gov.uk](mailto:dataprotection@glasgow.gov.uk), and by telephone on  0141 287 1055. Glasgow City Council is registered with the Information Commissioner's Office under registration number Z4871657.
 
  **Our ALEOs**  
 We have also established a number of Arms Length External Organisations - called ALEOs.  Most of these ALEOs carry out functions on behalf of the council which were previously carried out in-house by our departments.  Most ALEOs are wholly-owned by us; a small number are owned jointly with other public bodies, and some of them have charitable status.  A number of our ALEOs are comprised of more than one legal entity such as trading subsidiaries.  You can find a full list of all our current ALEOs on our website at  [www.glasgow.gov.uk/aleos](https://www.glasgow.gov.uk/index.aspx?articleid=18350). The council and our ALEOs are collectively referred to in this privacy statement as 'the council family'.
@@ -22,6 +22,8 @@ The council's Data Protection Officer is also the Data Protection Officer for ea
 We need you to give us your personal information in order to allow us to provide services to you as the local authority for the city of Glasgow, This can be either directly or through the activities of our ALEOs.  We also use your information to verify your identity where required, contact you by post, email or telephone and to maintain our records. 
 
 For a number of areas of activity, we also receive information from third parties. In the main this is from other public authorities, such as the police and court service, HM Revenues and Customs and the Department for Work and Pensions. However, it could also be from other local authorities and from members of the public.  Details of how this information is passed between us all is given in the specific privacy statements relating to functions where we routinely receive personal information from third parties.
+
+Where possible, new IT systems and the development of existing IT systems will make use of system generated or anonymised data in test environments.  However, there may be circumstances in which test environments, their users and their developers appointed by Glasgow City Council, such as CGI, may be required to utilise your personal data in a test environment.  In such circumstances, Glasgow City Council require that development and test activity comply with data protection legislation, taking reasonable steps to protect your personal data.
 
 ## What is our legal basis for using your information?
 
