@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the igamingbusiness.com privacy policy that was archived on 2018-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181230221714id_/http%3A//www.igamingbusiness.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the igamingbusiness.com privacy policy that was archived on 2019-03-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190331190708id_/https%3A//www.igamingbusiness.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | iGaming Business
 
 ## You are here
 
-[Home](https://web.archive.org/node/15355) » Privacy policy
+[Home](https://web.archive.org/home) » Privacy policy
 
 Clarion Events – Group Privacy Policy
 
