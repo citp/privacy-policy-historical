@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the vistage.com privacy policy that was archived on 2018-09-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180926144629id_/https%3A//www.vistage.com/about/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vistage.com privacy policy that was archived on 2019-03-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190331234235id_/https%3A//www.vistage.com/about/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Vistage
 
