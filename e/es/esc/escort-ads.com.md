@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the escort-ads.com privacy policy that was archived on 2018-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180626063149id_/https%3A//www.escort-ads.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the escort-ads.com privacy policy that was archived on 2019-03-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190331025719id_/https%3A//www.escort-ads.com/node/16) for the most accurate reproduction.*
 
 # Privacy Policy | VIP Escorts, Adult Dating and Massage | Escort-Ads.com
 
