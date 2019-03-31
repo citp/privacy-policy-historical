@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the racingone.com privacy policy that was archived on 2018-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181224111057id_/https%3A//www.mrn.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the racingone.com privacy policy that was archived on 2019-03-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190331184611id_/https%3A//www.mrn.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - MRN - Motor Racing Network
 
