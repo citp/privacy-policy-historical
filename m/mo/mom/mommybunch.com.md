@@ -1,38 +1,134 @@
-> *The following text is extracted and transformed from the mommybunch.com privacy policy that was archived on 2017-03-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170310200749id_/http%3A//mommybunch.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mommybunch.com privacy policy that was archived on 2019-03-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190331062939id_/https%3A//mommybunch.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy - Mommy Bunch
 
-At The Mommy Bunch ([http://mommybunch.com](http://mommybunch.com/)), the privacy of our visitors is extremely important. This Privacy Policy outlines the types of personal information that is received and collected and how it is used.
+Websites in the J Helgren Media LLC family, dba The Mommy Bunch found at https://mommybunch.com (“Website”), Apple Blossom Springs found at https://appleblossomsprings.com (“Website”), J Helgren Media LLC found at https://jesicahelgren.com (“Website”), Rock Your Craft found at https://rockyourcraft.com (“Website”), and Kids Say It Best found at https://kidssayitbest.com (“Website”) are governed by the following privacy policy (“Privacy Policy”).
 
-This Privacy Policy is reviewed and revised from time to time. You will want to revisit it regularly. Your use of this site, in any and all forms, constitutes an acceptance of this Privacy Policy.
+We respect your privacy and are committed to protecting it. The purpose of this Privacy Policy is to inform you what personally identifiable information we may collect and how it may be used. This statement only applies to this Website and those listed above.
 
-**1\. Log Files**  
-We use log files like many other websites. The information in the log files include:
+##### WHAT INFORMATION DO WE COLLECT AND HOW IS IT USED?
 
-  * Internet Protocol addresses (IP)
-  * Types of browser
-  * Internet Service Provider (ISP)
-  * Date and time stamp
-  * Referring and exit pages
-  * Number of clicks
+ **Information You Voluntarily Submit to the Website** : We may collect personal information from you such as your name or email address. For example, you may voluntarily submit information to the Website by leaving a comment, subscribing to a newsletter, or submitting a contact form. In addition, you are able to create a user profile, which allows you to create a username and password. We will store the username, but your password will not be visible in our records.
 
+ **Information We Collect from Others** : We may receive information about you from other sources.  You may link your Facebook, Instagram, and/or Google accounts to your user profile.  If you choose to link your Facebook, Instagram, and/or Google accounts to your user profile, we will receive your name, email address and profile picture associated with that account.  The Website utilizes the Facebook commenting system, so if you choose to comment on a Website post, your profile picture will appear.
 
+ **Automatically-Collected Information** : We automatically collect certain information about you and the device with which you access the Website. For example, when you use the Website, we will log your IP address, operating system type, browser type, referring website, pages you viewed, and the dates/times when you accessed the Website. We may also collect information about actions you take when using the Website, such as links clicked.
 
-All of this information is not linked to anything that is personally identifiable.
+ **Our cookie policy**  
+In compliance with the European Union legislation, we inform you that our website will store some information about your preferences on your own computer inside a tiny file called a ‘cookie’.
 
-**2\. Cookies**  
-We use cookies to store information about visitor preferences and to record user-specific information on visits and pages the user views so as to provide a custom experience. In regard to third-party advertisers,The Mommy Bunch  has no access or control over these cookies. You should review the respective privacy policies on any and all third-party ad servers for more information regarding their practices and how to opt-out.  
-If you wish to disable cookies you may do so through your web browser options. Instructions for doing so and for other cookie-related management can be found on the specific web browsers’ websites.
+A cookie is a small piece of data that a website asks your browser to store on your computer or mobile device. The cookie allows the website to “remember” your actions or preferences over time.
 
-_DoubleClick DART Cookie_  
-Google, a third party vendor, uses the DART cookie to serve ads on The Mommy Bunch. Users may opt out of the use of the DART cookie by visiting [Google’s Content Network Privacy Policy](http://www.google.com/privacy/ads/).
+You can delete all cookies that are already on your computer and you can set most browsers to prevent them from being placed. If you do this, however, you may have to manually adjust some preferences every time you visit a site and some services and functionalities may not work.
 
-_Amazon Affiliates Cookie_  
-Amazon Affiliates, a third party system, uses cookies to serve advertisements and links to products on Amazon.com.  You may read more about Amazon Affiliates and their [Operating Agreement here](https://affiliate-program.amazon.com/gp/associates/agreement?ie=UTF8&pf_rd_t=501&ref_=amb_link_84018271_6&pf_rd_m=ATVPDKIKX0DER&pf_rd_p=&pf_rd_s=assoc-right-1&pf_rd_r=&pf_rd_i=assoc_join_menu).
+Most browsers support cookies, but users can set their browsers to decline them and can delete them whenever they like. A third-party website called [aboutcookies.org](https://www.aboutcookies.org/) has been set up to help you with instructions how you can do that on various browsers.
 
-**3\. Other**  
-Users might be asked to subscribe to our newsletter by providing name and email address to receive communication from The Mommy Bunch. We use a secure op-in subscription system and we reserve the right to contact subscribers with information related to this website and blog. Subscribers may unsubscribe anytime and every email delivered will contain an “Unsubscribe” link.  
-If you require any more information or have any questions about our privacy policy, please feel free to contact us by email at [mothersofactivechildrennow@gmail.com](mailto:mothersofactivechildrennow@gmail.com)
+ **We use cookies to:**  
+1) Identify you as a returning user and to count your visits in our traffic statistics analysis;  
+2) remember your custom display preferences;  
+3) Suggest any recent searches you’ve made on our site  
+4) Other usability features including tracking whether you’ve already given your consent to cookies
 
-**Notice Regarding Online Behavioral Advertising**  
-We allow third party companies to serve ads and/or collect certain anonymous information when you visit our Web site.  These companies may use non-personally identifiable information (e.g. click stream information, browser type, time and date, subject of advertisements clicked or scrolled over) during your visits to this and other Web sites in order to provide advertisements about goods and services likely to be of greater interest to you.  These companies typically use a cookie or third party web beacon to collect this information.  To learn more about this behavioral advertising practice visit the NAI at [http://www.networkadvertising.org](http://www.networkadvertising.org/).  To opt-out of this type of advertising, you can visit <http://www.aboutads.info/choices>.
+Enabling cookies from our website is not strictly necessary for the website to work but it will provide you with a better browsing experience.
+
+The cookie-related information is not used to identify you personally and the pattern data is fully under our control. These cookies are not used for any purpose other than those described here.
+
+There may also be other types of cookies created after you’ve visited our website. We use Google Analytics, a popular web analytics service provided by Google, Inc. Google Analytics uses cookies to help us to analyze how users use the site. The information generated by the cookie about your use of our website (including your IP address) will be transmitted to and stored by Google on servers in the United States. Google will use this information for the purpose of evaluating your use of our website, compiling reports on website activity and providing other services relating to website activity and internet usage. Google may also transfer this information to third parties where required to do so by law, or where such third parties process the information on Google’s behalf. Google undertakes not to associate your IP address with any other data held by Google.
+
+The Website uses cookies to store visitors’ preferences, record user-specific information on what pages users access or visit, ensure that visitors are not repeatedly sent the same banner ads, customize Website content based on visitors’ browser type or other information that the visitor sends. Cookies may also be used by third-party services, such as Google Analytics, as described herein.
+
+Users may, at any time, prevent the setting of cookies, by the Website, by using a corresponding setting of your internet browser and may thus permanently deny the setting of cookies. Furthermore, already set cookies may be deleted at any time via an Internet browser or other software programs. This is possible in all popular Internet browsers. However, if users deactivate the setting of cookies in your Internet browser, not all functions of our Website may be entirely usable.
+
+ **Third Party Advertising**  
+We may have third-party advertising companies serving ads to you when you visit our website. These companies may store information about your visits to our website and to other websites in order to provide you with relevant advertisements about goods and services.
+
+These companies may employ cookies and other identifiers to gather information which measures advertising effectiveness. The information is generally not personally identifiable unless, for example, you provide personally identifiable information to them through an ad or an e-mail message.
+
+The Website currently uses the following third-party service providers:
+
+Google Analytics – this service tracks Website usage and provides information such as referring websites and user actions on the Website. Google Analytics may capture your IP address, but no other personal information is captured by Google Analytics.
+
+Mail Chimp – this service is used for delivery of email updates and newsletters. We store your name and email address for purposes of delivering such communications.  Please refer to [Mail Chimp’s privacy policy](https://mailchimp.com/legal/privacy/) for further information.
+
+ConvertKit — this service is used for delivery of email updates and newsletters. We store your name and email address for purposes of delivering such communications. 
+
+At this time, your personal information is not shared with any other third-party applications. This list may be amended from time to time in the Website’s sole discretion.
+
+Except when required by law, we will not sell, distribute, or reveal your email addresses or other personal information without your consent; however, we may disclose or transfer personal information collected through the Website to third parties who acquire all or a portion of our business, which may be the result of a merger, consolidation, or purchase of all or a portion of our assets, or in connection with any bankruptcy or reorganization proceeding brought by or against us.
+
+ **Information Gathered by Third Party Advertisers**  
+Cookies enable advertisers to learn about what ads you see, what ads you click, and other actions you take on our site and other sites. This allows advertisers to provide you with more useful and relevant ads. For example, if they know what ads you are shown while visiting our site, they can be careful not to show you the same ones repeatedly. They do not associate your interaction with unaffiliated sites with your identity in providing you with interest-based ads.
+
+We do not provide any personal information to advertisers or to third party sites. Advertisers and other third-parties (including the ad networks, ad-serving companies, and other service providers they may use) may assume that users who interact with or click on a personalized ad or content are part of the group that the ad or content is directed towards (for example, readers in the Pacific Northwest who read certain types of articles). Also, some third-party cookies may provide them with information about you (such as the sites where you have been shown ads or demographic information) from offline and online sources that they may use to provide you more relevant and useful advertising.
+
+ADVERTISING
+
+ **Display Ads**
+
+We may use third-party advertising companies to serve content and advertisements when you visit the Website, which may use cookies, as noted above.
+
+ **Retargeting Ads**
+
+From time to time, the Website may engage in remarketing efforts with third-party companies, such as Google, Facebook, or Instagram, in order to market the Website. These companies use cookies to serve ads based on someone’s past visits to the Website.
+
+ **Affiliate Program Participation**
+
+The Website may engage in affiliate marketing, which is done by embedding tracking links into the Website. If you click on a link for an affiliate partnership, a cookie will be placed on your browser to track any sales for purposes of commissions.
+
+The Mommy Bunch is a participant in the Amazon Services LLC Associates Program, an affiliate advertising program designed to provide a means for sites to earn advertising fees by advertising and links to Amazon.com.  As part of this Amazon Associates program, the Website will post customized links, provided by Amazon, to track the referrals to their website. This program utilizes cookies to track visits for the purposes of assigning commission on these sales.
+
+The Mommy Bunch is a participant in the following affiliate marketing programs designed to provide a means for sites to earn advertising fees by advertising links. 
+
+ShareASale, Ratukken, Commission Junction, Affiliate Window, Impact Radius, Performance Horizon, Ultimate Bundles, Grove Collaborative, Pajama Affiliates
+
+As part of this programs (as listed above), the Website will post customized links, provided by each affiliate marketing company, respectively, to track the referrals to their website. This program utilizes cookies to track visits for the purposes of assigning commission on these sales.
+
+Newsletters
+
+On the Website, you may subscribe to our newsletter, which may be used for advertising purposes. All newsletters sent may contain tracking pixels. The pixel is embedded in emails and allows an analysis of the success of online marketing campaigns. Because of these tracking pixels, we may see if and when you open an email and which links within the email you click. Also, this allows the Website to adapt the content of future newsletters to the interests of the user. This behavior will not be passed on to third parties.
+
+If you would like to learn more about what options you have about limiting the gathering of information by third-party ad networks, you can consult the website of the [Network Advertising Initiative](https://optout.networkadvertising.org/).
+
+You can opt out of participating in interest-based advertising networks but opting out does not mean you will no longer receive online advertising. It does mean that the companies from which you opted out will no longer customize ads based on your interests and web usage patterns using cookie-based technology.
+
+Opt-out – You may opt-out of future email communications by following the unsubscribe links in our emails. You may also notify us at admin@mommybunch.com to be removed from our mailing list.
+
+ **Type and Purpose of Collection**  
+We collect information at various points in the Website to facilitate its use by our customers. Non-Personal Information: Upon accessing the Website, certain non-personal information will be automatically collected without your knowledge or consent, such as your IP address, location data (which is anonymous) and the referring website (“Non-Personal Information”). We use Non-Personal Information to examine our traffic and to view how our customers use the Website. This type of information will not allow you to be personally identified. For example, we use “cookies”, which contains only certain statistical information. You can instruct your computer to inform you whenever a cookie is being sent, or you can disallow cookies through your web browser. If you do choose to disallow cookies, your experience on the Website may be diminished, or your ability to choose some of the options on the Website may be limited.  
+—————————————–  
+**Sharing Information**  
+We will not sell, rent or disclose to outside parties the information we collect, save and except that we may share the collected information with other parties as follows:
+
+(a) Affiliated Service Providers: We have agreements with various affiliated service providers to facilitate the functioning of the Website, with whom we may share the information we have collected. For example, we may share your credit card information with the credit card service provider to process your purchase. All administrative service providers that we use are required to have the same level of privacy protection as we have, and therefore we expect that your information will be handled with the same level of care that we employ. Additionally, for example, we may use analytic or marketing services such as Google Analytics, Google Adsense, Taboola, or RevContent, to which collection you hereby unconditionally consent.
+
+(b) Where required by law: We may share the collected information where required by law, specifically in response to a demand from government authorities where such demand meets the legal requirements.
+
+(c) Statistical Analysis: We may share Non-Personal Information and aggregated information with third parties, including but not limited to for advertising or marketing purposes. No Personal Information will be shared in this manner.
+
+(d) Transactions: In connection with, or during negotiations of, any merger, sale of company assets, financing or acquisition, or in any other situation where Personal Information may be disclosed or transferred as one of our business assets.  
+—————————————–  
+**Choices and How To Opt Out Of Interest-Based Advertising**
+
+(a) Opting Out of Interest-Based Advertising Services This website is a member of the [Network Advertising Initiative](https://www.networkadvertising.org/) (NAI) and adheres to the NAI Codes of Conduct as described on the NAI website. This website also adheres to the Digital Advertising Alliance (DAA) Self-Regulatory Principles. For a description of the DAA Program, please visit the [DAA website](http://digitaladvertisingalliance.org/). As described above, this website may use or transfer Device Data that it directly collects or that it receives from this website’s Customers, who may use cookies or non-cookie technologies, to enable advertising that is more tailored to Consumers’ inferred interests, preferences, and locations. This practice is known as interest-based advertising.
+
+(b) Opting Out of Interest-Based Advertising by Third Parties  
+This website may permit third parties to collect information on its Site and combine that information with other information collected on non-affiliated websites or applications over time. These third parties may use technologies, including cookies and web beacons, to collect information about Consumers’ or Customers’ use of the Site in order to analyze, report on, or customize content or advertising on this website or on other sites, or to help us operate and improve the Site. To find out more about interest-based advertising in the web environment, and how to opt-out of information collection for this purpose by companies that participate in the Network Advertising Initiative or the Digital Advertising Alliance, visit [NAI’s opt-out page](http://optout.networkadvertising.org/) or [DAA’s Consumer Choice Page](http://optout.aboutads.info/).
+
+Please note that we may need to retain certain information for recordkeeping purposes or to complete transactions, or when required by law.
+
+SENSITIVE PERSONAL INFORMATION
+
+At no time should you submit sensitive personal information to the Website. This includes your social security number, information regarding race or ethnic origin, political opinions, religious beliefs, health information, criminal background, or trade union memberships. If you elect to submit such information to us, it will be subject to this Privacy Policy.
+
+CHILDREN’S INFORMATION
+
+The Website does not knowingly collect any personally identifiable information from children under the age of 16. If a parent or guardian believes that the Website has personally identifiable information of a child under the age of 16 in its database, please contact us immediately at admin@mommybunch.com and we will use our best efforts to promptly remove such information from our records.
+
+CONTACT INFORMATION
+
+At any time, please contact us at admin@mommybunch.com for questions related to this Privacy Policy. 
+
+Last updated: May 23, 2018.
+
+  
+
