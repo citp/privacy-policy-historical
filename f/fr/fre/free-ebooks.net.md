@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the free-ebooks.net privacy policy that was archived on 2018-09-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180927051339id_/https%3A//www.free-ebooks.net/legal/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the free-ebooks.net privacy policy that was archived on 2019-03-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190331145926id_/https%3A//www.free-ebooks.net/legal/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
-**Paradise Publishers, Inc.** (the “Company”) recognizes that its customers, visitors, users, and others who use www.free-ebooks.net or other web sites owned or operated by the Company (the “Websites”) (collectively or individually “Users”) value their privacy. This Privacy Notice details important information regarding the use and disclosure of User information collected on the Websites. Company provides this Privacy Notice to help you make an informed decision about whether to use or continue using the Websites.
+**Stirling Corp** (the “Company”) recognizes that its customers, visitors, users, and others who use www.free-ebooks.net or other web sites owned or operated by the Company (the “Websites”) (collectively or individually “Users”) value their privacy. This Privacy Notice details important information regarding the use and disclosure of User information collected on the Websites. Company provides this Privacy Notice to help you make an informed decision about whether to use or continue using the Websites.
 
 This Privacy Notice is incorporated into and is subject to the Company Terms of Service. Your use of the Websites and any personal information you provide on the Websites remains subject to the terms of this Privacy Notice and our Terms of Service.
 
@@ -47,7 +47,7 @@ You may, of course, decline to submit personally identifiable information throug
 
 To protect your privacy and security, we take reasonable steps (such as requesting a unique password) to verify your identity before granting you profile access or making corrections. You are responsible for maintaining the secrecy of your unique password and account information at all times.
 
-Please contact the Company with any questions or comments about this Privacy Notice, your personal information, your consent, or your opt-in or opt-out choices using this [contact form](https://www.paradisepublishers.com/).
+Please contact the Company with any questions or comments about this Privacy Notice, your personal information, your consent, or your opt-in or opt-out choices using this [contact form](https://www.stirling-corp.com/contact).
 
 **Third-party Advertisers, Links to Other Sites**
 
@@ -61,7 +61,7 @@ You should consult the respective privacy policies of these third-party ad serve
 
 The Company uses commercially reasonable physical, managerial, and technical safeguards to preserve the integrity and security of your personal information. We cannot, however, ensure or warrant the security of any information you transmit to the Company and you do so at your own risk. Once we receive your transmission of information, the Company makes commercially reasonable efforts to ensure the security of our systems. However, please note that this is not a guarantee that such information may not be accessed, disclosed, altered, or destroyed by breach of any of our physical, technical, or managerial safeguards.
 
-If the Company learns of a security systems breach, then we may attempt to notify you electronically so that you can take appropriate protective steps. The Company may post a notice on the Websites if a security breach occurs. Depending on where you live, you may have a legal right to receive notice of a security breach in writing. To receive a free written notice of a security breach (or to withdraw your consent from receiving electronic notice) you should notify us using this [contact form](https://www.paradisepublishers.com/).
+If the Company learns of a security systems breach, then we may attempt to notify you electronically so that you can take appropriate protective steps. The Company may post a notice on the Websites if a security breach occurs. Depending on where you live, you may have a legal right to receive notice of a security breach in writing. To receive a free written notice of a security breach (or to withdraw your consent from receiving electronic notice) you should notify us using this [contact form](https://www.stirling-corp.com/contact).
 
 **Our Commitment To Children’s' Privacy**
 
@@ -73,7 +73,7 @@ The Company does not knowingly collect or maintain personally identifiable infor
 
 **Special Note to International Users**
 
-The Websites(s) are hosted in the United States and are intended for and directed to Users in the United States. If you are a User accessing the Websites from the European Union, Asia, or any other region with laws or regulations governing personal data collection, use, and disclosure, that differ from United States laws, please be advised that through your continued use of the Websites, which are governed by U.S. law, this Privacy Notice, and our Terms of Use, you are transferring your personal information to the United States and you consent to that transfer. For users specifically in the EU, all reasonable steps have been taken to ensure Personal Data compliance in accordance with General Data Protection Regulations 2018 (GDPR), If you are unsure about whether this site is compliant with your own country of residences’ specific data protection and user privacy legislation you should contact our data protection office at DPO@ParadisePublishers.com
+The Websites(s) are hosted in the United States and are intended for and directed to Users in the United States. If you are a User accessing the Websites from the European Union, Asia, or any other region with laws or regulations governing personal data collection, use, and disclosure, that differ from United States laws, please be advised that through your continued use of the Websites, which are governed by U.S. law, this Privacy Notice, and our Terms of Use, you are transferring your personal information to the United States and you consent to that transfer. For users specifically in the EU, all reasonable steps have been taken to ensure Personal Data compliance in accordance with General Data Protection Regulations 2018 (GDPR), If you are unsure about whether this site is compliant with your own country of residences’ specific data protection and user privacy legislation you should contact our data protection office at DPO@Stirling-Corp.com
 
 **In the Event of Merger, Sale, or Bankruptcy**
 
@@ -86,7 +86,7 @@ This Privacy Notice may be revised periodically and this will be reflected by th
 For revisions to this Privacy Notice that may be materially less restrictive on our use or disclosure of the personal information you have already provided to us, we will attempt to obtain your consent before implementing such revisions with respect to such information.
 
 **Date Last Modified:**  
-This Privacy Notice was last modified April 6, 2018.
+This Privacy Notice was last modified December 10, 2018.
 
 **Contact Information:**  
-Please contact the Company with any questions or comments about this Privacy Notice using this [contact form](https://www.paradisepublishers.com/).
+Please contact the Company with any questions or comments about this Privacy Notice using this [contact form](https://www.stirling-corp.com/contact).
