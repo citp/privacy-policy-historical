@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the apptricker.in privacy policy that was archived on 2018-11-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181113050255id_/https%3A//apptricker.in/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the apptricker.in privacy policy that was archived on 2019-03-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190331204851id_/https%3A//apptricker.in/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy for Apptricker
 
