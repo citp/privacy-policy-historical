@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dlife.com privacy policy that was archived on 2018-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181125001136id_/https%3A//dlife.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dlife.com privacy policy that was archived on 2019-03-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190331211114id_/https%3A//dlife.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | dLife
 
@@ -195,3 +195,7 @@ The data protection officer (DPO) appointed by LifeMed Media, Inc. is [Gordon Fi
 If you have any queries, complaints regarding the collecting, processing, transfer of personal data/information or regarding this policy please do contact our Data Protection Officer.
 
 
+
+[ ](https://www.yo1.com/?utm_source=dlife_ad_banner&utm_medium=web&utm_term=300x250)
+
+[ ](https://www.yo1.com/?utm_source=dlife_ad_banner&utm_medium=web&utm_term=728x90)
