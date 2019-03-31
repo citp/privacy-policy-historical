@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the backpacker.com privacy policy that was archived on 2018-10-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181014073436id_/http%3A//www.aimmedia.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the backpacker.com privacy policy that was archived on 2019-03-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190331042418id_/http%3A//www.aimmedia.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy – Active Interest Media
 
