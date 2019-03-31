@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the latestdeals.co.uk privacy policy that was archived on 2018-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181223065009id_/https%3A//www.latestdeals.co.uk/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the latestdeals.co.uk privacy policy that was archived on 2019-03-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190331054258id_/https%3A//www.latestdeals.co.uk/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | LatestDeals.co.uk
 
@@ -7,6 +7,8 @@
 If you sign up as a member to Latest Deals we will store your e-mail address and chosen username so we can get in touch. If you register via Facebook you'll have an option to choose what information you provide us. By default, Facebook sends us what is referred to as your "public profile" information. This can include your email address, full name, profile picture, gender and age range. Whilst signing up you can choose what information is shared with us and opt out if you would prefer.
 
 We also store your IP address. We do this to help prevent abuse of the Latest Deals community and it's [guidelines](https://www.latestdeals.co.uk/guidelines). For example, we may use the IP address to detect retailers who sign up for multiple accounts to try and unscrupulously promote their own services.
+
+For the purpose of creating new features and functionality in the future (e.g. cash back and a personalised deals feed) we store information about some purchases made through the Latest Deals website. This may include products purchased, amount spent and other associated information.
 
 If you choose to sign up for our WhatsApp notifications your mobile number is stored so that we can send you messages. Similarly, if you choose to sign up for our Facebook Messenger notifications, your public Facebook profile information may be stored. For clarity: you have to actively opt-in to these services.
 
