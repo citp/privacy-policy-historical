@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the registerednursern.com privacy policy that was archived on 2018-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181125033534id_/http%3A//www.registerednursern.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the registerednursern.com privacy policy that was archived on 2019-03-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190331192436id_/https%3A//www.registerednursern.com/privacy-policy) for the most accurate reproduction.*
 
 # RegisteredNurseRN.com Privacy Policy
 
-We care about your privacy and want to provide transparency to our visitors. This page will outline the privacy policy for RegisteredNurseRN.com, and by using or accessing this website and its related products and services, you agree to our privacy policy below, as well as our [terms of service](http://www.registerednursern.com/legal-disclosure/).
+We care about your privacy and want to provide transparency to our visitors. This page will outline the privacy policy for RegisteredNurseRN.com, and by using or accessing this website and its related products and services, you agree to our privacy policy below, as well as our [terms of service](https://www.registerednursern.com/legal-disclosure/).
 
   * **We do NOT sell or rent your personal information to third parties**. However, in the event of a sale or transfer of this website, any information you have provided to us will be transferred to the new owner so that they can continue to provide you with access to this site and its related resources.
   * **We use third party website scripts** , plugins, ad programs, and analytics data to add functionality to this site such as quizzes, contact forms, and so forth, which may collect some basic information from you each time you visit our site, as described on this page.
