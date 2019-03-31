@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the thailand-property.com privacy policy that was archived on 2016-08-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160805011403id_/https%3A//www.thailand-property.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thailand-property.com privacy policy that was archived on 2019-03-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190331132151id_/https%3A//www.thailand-property.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy - Thailand Property
+# Privacy Policy | Thailand-Property
 
 At thailand-property.com, we take your online security very seriously, and we're committed to protecting your privacy and personal information. We've compiled this statement to explain how we collect, use, and secure your information. Please read on, and visit our Terms of Use for more information.
 
