@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the lanascooking.com privacy policy that was archived on 2018-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181230224602id_/https%3A//www.lanascooking.com/about/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lanascooking.com privacy policy that was archived on 2019-03-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190331215715id_/http%3A//www.lanascooking.com/about/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Never Enough Thyme
 
-Never Enough Thyme found at https://www.lanascooking.com/ (“Website”) is governed by the following privacy policy (“Privacy Policy”).
+Never Enough Thyme found at http://www.lanascooking.com/ (“Website”) is governed by the following privacy policy (“Privacy Policy”).
 
 We respect your privacy and are committed to protecting it. The purpose of this Privacy Policy is to inform you what personally identifiable information we may collect and how it may be used. This statement only applies to this Website.
 
@@ -10,7 +10,7 @@ WHAT INFORMATION DO WE COLLECT AND HOW IS IT USED?
 
 **Information You Voluntarily Submit to the Website** : We may collect personal information from you such as your name or email address. For example, you may voluntarily submit information to the Website by leaving a comment, subscribing to a newsletter, or submitting a contact form. In addition, you are able to create a user profile, which allows you to create a username and password. We will store the username, but your password will not be visible in our records.
 
-**Information We Collect from Others** : We may receive information about you from other sources.  You may link your Facebook, Instagram, and/or Google accounts to your user profile.  If you choose to link your Facebook, Instagram, and/or Google accounts to your user profile, we will receive your name, email address and profile picture associated with that account.  The Website utilizes the Facebook commenting system, so if you choose to comment on a Website post, your profile picture will appear.
+**Information We Collect from Others** : We may receive information about you from other sources. You may link your Facebook, Instagram, and/or Google accounts to your user profile. If you choose to link your Facebook, Instagram, and/or Google accounts to your user profile, we will receive your name, email address and profile picture associated with that account. The Website utilizes the Facebook commenting system, so if you choose to comment on a Website post, your profile picture will appear.
 
 **Automatically-Collected Information** : We automatically collect certain information about you and the device with which you access the Website. For example, when you use the Website, we will log your IP address, operating system type, browser type, referring website, pages you viewed, and the dates/times when you accessed the Website. We may also collect information about actions you take when using the Website, such as links clicked.
 
@@ -41,7 +41,7 @@ The Website currently uses the following third-party service providers:
 
 Google Analytics – this service tracks Website usage and provides information such as referring websites and user actions on the Website. Google Analytics may capture your IP address, but no other personal information is captured by Google Analytics.
 
-MailerLite – this service is used for delivery of email updates and newsletters. We store your name and email address for purposes of delivering such communications.  Please refer to [MailerLite’s privacy policy](https://www.mailerlite.com/privacy-policy) for further information.
+Mad Mimi® – this service (owned by GoDaddy®) is used for delivery of email updates and newsletters. We store your name and email address for purposes of delivering such communications. Please refer to [MadMimi’s privacy policy](https://www.godaddy.com/agreements/privacy) for further information.
 
 At this time, your personal information is not shared with any other third-party applications. This list may be amended from time to time in the Website’s sole discretion.
 
@@ -53,7 +53,7 @@ From time to time, we may use anonymous data, which does not identify you alone,
 
 PUBLICLY VISIBLE INFORMATION
 
-If you create a user profile on the Website or leave a comment, certain information may be publicly visible.  To create a user profile, you must choose a username and password and input your email address for profile confirmation.  Your email address will never be available publicly.  At your option, you may also add an avatar, a profile description, and a link to your website.
+If you create a user profile on the Website or leave a comment, certain information may be publicly visible. To create a user profile, you must choose a username and password and input your email address for profile confirmation. Your email address will never be available publicly. At your option, you may also add an avatar, a profile description, and a link to your website.
 
 You may also choose to link your Facebook, Instagram, and Google Account.
 
@@ -107,4 +107,4 @@ CONTACT INFORMATION
 
 At any time, please contact us at lana@lanascooking.com for questions related to this Privacy Policy.
 
-Last updated: May 5, 2018.
+Last updated: January 26, 2019.
