@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the extract-the-movie.com privacy policy that was archived on 2018-08-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180827131247id_/https%3A//www.yellowpagesgoesgreen.org/privacy_policies.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the extract-the-movie.com privacy policy that was archived on 2019-03-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190331214159id_/https%3A//www.yellowpagesgoesgreen.org/privacy_policies.php) for the most accurate reproduction.*
 
 # Yellow Pages Directory Inc. - Privacy Policy
 
