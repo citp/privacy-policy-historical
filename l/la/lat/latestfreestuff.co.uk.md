@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the latestfreestuff.co.uk privacy policy that was archived on 2018-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180623093227id_/http%3A//www.latestfreestuff.co.uk/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the latestfreestuff.co.uk privacy policy that was archived on 2019-03-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190331151412id_/https%3A//www.latestfreestuff.co.uk/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | LatestFreeStuff.co.uk
 
@@ -218,4 +218,4 @@ International House,
 London,  
 E1W 1UN
 
-It is very important that the information we hold about you is accurate and up to date. Please let us know if at any time your personal information changes by emailing us at  or filling in our contact us form here: <http://www.latestfreestuff.co.uk/contact-us/>
+It is very important that the information we hold about you is accurate and up to date. Please let us know if at any time your personal information changes by emailing us at  or filling in our contact us form here: <https://www.latestfreestuff.co.uk/contact-us/>
