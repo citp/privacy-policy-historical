@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the vote.org privacy policy that was archived on 2018-10-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181017102112id_/https%3A//www.vote.org/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vote.org privacy policy that was archived on 2019-04-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190401001317id_/https%3A//www.vote.org/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Vote.org
 
-Last updated on July 10, 2018
+Last updated on March 4, 2019
 
 **Last updated: July 10, 2018**
 
@@ -57,5 +57,5 @@ By using and/or visiting our Site, you understand and  agree to be bound by thi
 If you have any questions about this Privacy Policy, you may contact us by sending an e-mail at info@vote.org. You can also write to us at the following address:
 
 Vote.org  
-1270 Grove Street #301  
-San Francisco, CA 94117
+4096 Piedmont Avenue, #368  
+Oakland, CA 94611
