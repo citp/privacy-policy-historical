@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the postallads4free.com privacy policy that was archived on 2017-12-06.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20171206232148id_/http%3A//www.postallads4free.com/privacy_policy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the postallads4free.com privacy policy that was archived on 2019-03-31.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20190331074415id_/https%3A//www.postallads4free.com/privacy_policy.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd"><html><head>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
@@ -7,8 +7,13 @@
 
 <link rel="stylesheet" href="/styles/styles_general.css" type="text/css">
 <!--eah8pdae348llpnu-->
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
 <meta name="google-site-verification" content="sPBaYK5ghlh0vHAvdQdZdA-sSSMXaJ_Gr4q2Wdy3Fig"><title>Privacy Policy</title>
-<script id="facebook-jssdk" src="//connect.facebook.net/en_US/sdk.js#version=v2.4&amp;xfbml=1&amp;appId=609136439151390"></script><script type="text/javascript" async="" src="https://apis.google.com/js/plusone.js"></script><script type="text/javascript">
+	<link rel="stylesheet" href="https://code.jquery.com/ui/1.12.1/themes/base/jquery-ui.min.css">
+
+	
+	
+<script id="facebook-jssdk" src="//connect.facebook.net/en_US/sdk.js#xfbml=1&amp;version=v2.11&amp;appId=609136439151390"></script><script type="text/javascript" async="" src="https://apis.google.com/js/plusone.js"></script><script type="text/javascript">
   (function() {
 	var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
 	po.src = 'https://apis.google.com/js/plusone.js';
@@ -28,28 +33,25 @@
 
 
 <body>
-<script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.8.2/jquery.min.js"></script><script type="text/javascript"> (function(d, s, id) {
+<script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script><script src="https://code.jquery.com/ui/1.12.1/jquery-ui.min.js"></script><script type="text/javascript">
+(function(d, s, id) {
   var js, fjs = d.getElementsByTagName(s)[0];
   if (d.getElementById(id)) return;
   js = d.createElement(s); js.id = id;
-  js.src = '//connect.facebook.net/en_US/sdk.js#version=v2.4&xfbml=1&appId=609136439151390';
+  js.src = '//connect.facebook.net/en_US/sdk.js#xfbml=1&version=v2.11&appId=609136439151390';
   fjs.parentNode.insertBefore(js, fjs);
 }(document, 'script', 'facebook-jssdk'));
 
  window.fbAsyncInit = function() {
 
- 
   FB.init({
     appId      : '609136439151390',
     status     : true, // check login status
     cookie     : true, // enable cookies to allow the server to access the session
     xfbml      : true, //,   parse XFBML
-	version    : 'v2.4'
-	//channelUrl: 'http://www.postallads4free.com/channel.html'
+	version    : 'v2.11'
   });
   };
-
-
 
 function login() {
   			FB.login(function(response) {          
@@ -69,7 +71,9 @@ function startajax(){
 url:'index/fblogin',cache: false, async: true,			
 data:{	email:email_v },
 success: function(result){
-	if(result.redirect == '1' ){
+	if(result.error != '' ){
+		alert(result.error);
+	} else	if(result.redirect == '1' ){
 		window.location = result.redirect_url;
 	}
 },
@@ -80,22 +84,19 @@ type: 'POST',
 dataType: 'json'
 });
 }
-</script> <script src="/styles/ads.js"></script>
+</script>
+
 
 <div id="tpage">
 	<div id="container">
 	<a id="log" href="/"></a>		
 	<div style="margin:0;float:left;width:90px;"><div style="margin:5px 5px 0px 3px;float:left;width:90px;">
-						<div class="g-plusone" data-size="medium" data-href="http://www.postallads4free.com/"></div>
-						</div><div style="margin:3px 10px 2px 3px;float:left;" class="fb-like" data-href="http://www.postallads4free.com/" data-layout="button_count" data-action="like" data-show-faces="false" data-share="true"></div></div>	
+						<div class="g-plusone" data-size="medium" data-href="https://www.postallads4free.com/"></div>
+						</div><div style="margin:3px 10px 2px 3px;float:left;" class="fb-like" data-href="https://www.postallads4free.com/" data-layout="button_count" data-action="like" data-show-faces="false" data-share="true"></div></div>	
 		<div id="tbar"> 
 		<div style="float:right"><a href="/post.html" class="pstlnktpr">Post a Free Ad</a></div><div style="float:right"><a style="font-size:15px;" rel="nofollow" href="/help.html">Help</a></div>
 	<div style="float:right"><a style="font-size:15px;" rel="nofollow" href="/login.html">Log in</a>
-	<!--
-	<br><a style="margin-right:8px" class="facebooklogin" href='#' onclick='login();'><img src="/images/fblog.png" alt=""></a>
-	<img class="loadingt"  style="display:none;margin-right:22px" alt="" src="/images/loader.gif">
-	-->
-	
+		
 	
 		</div>
 
@@ -114,22 +115,22 @@ dataType: 'json'
 <p><br>
 &nbsp;</p>
 <p><strong>DATA WE COLLECT</strong></p>
-<p>We sometimes collect your email address, for purposes such as sending self-publishing and confirmation emails and providing subscription email services etc. We may collect personal information if you provide it in feedback or comments, post it on our classifieds or interactive forums, or if you contact us directly. Please do not post any personal information on PostAllAds4Free.com that you expect to keep private. Our web logs collect standard web log entries for each page served, including your IP address, page URL, and timestamp. Web logs help us to diagnose problems with our server, to administrator the PostAllAds4Free.com site, and to otherwise provide our service to you.</p><style type="text/css">#header {border-bottom:2px solid #b9cfda;margin:8px 8px 2px 8px;height:5px;}</style>	</div>
+<p>We sometimes collect your email address, for purposes such as sending self-publishing and confirmation emails and providing subscription email services etc. We may collect personal information if you provide it in feedback or comments, post it on our classifieds or interactive forums, or if you contact us directly. Please do not post any personal information on PostAllAds4Free.com that you expect to keep private. Our web logs collect standard web log entries for each page served, including your IP address, page URL, and timestamp. Web logs help us to diagnose problems with our server, to administrator the PostAllAds4Free.com site, and to otherwise provide our service to you.</p><style type="text/css">#header {border-bottom:2px solid #bfdfff;margin:8px 8px 2px 8px;height:5px;}</style> 	</div>
 	<div id="footer"></div>
 	</div>
 	<div id="endft">  
 	
-	<a href="http://m.postallads4free.com/"><img style="text-decoration:none;margin-right:5px" alt="" src="/images/mobile.jpg">Mobile</a>
+	<a href="https://m.postallads4free.com/"><img style="text-decoration:none;margin-right:5px" alt="" src="/images/mobile.jpg">Mobile</a>
 	<a href="/">Locations</a>	
 	<a href="/terms_of_use.html" rel="nofollow">Terms of Use</a>
 	<a href="/privacy_policy.html" rel="nofollow">Privacy Policy</a>
 	<a href="/help.html" rel="nofollow">Help</a>
 	<a href="/contact.html" rel="nofollow">Contact</a>
-		<a onclick="window.open(this.href);return false;" href="http://www.facebook.com/PostAllAds4Free" rel="nofollow">Facebook</a>
+		<a onclick="window.open(this.href);return false;" href="https://www.facebook.com/PostAllAds4Free" rel="nofollow">Facebook</a>
 	<a onclick="window.open(this.href);return false;" href="https://plus.google.com/+Postallads4free/posts" rel="nofollow">Google+</a>
 	
 	</div>
-	<div class="copy">Copyright © 2017 PostAllAds4Free.com. Post ads for free. Online advertising. Free classified ads online
+	<div class="copy">Copyright © 2018 PostAllAds4Free.com. Post ads for free. Online advertising. Free classified ads online
 <br>
 	
 <br>
@@ -142,9 +143,9 @@ var sc_project=7909705;
 var sc_invisible=1; 
 var sc_security="89ba7682"; 
 </script>
-<script type="text/javascript" src="http://www.statcounter.com/counter/counter.js"></script>
+<script type="text/javascript" src="https://www.statcounter.com/counter/counter.js"></script>
 <noscript><div class="statcounter"><img class="statcounter"
-src="http://c.statcounter.com/7909705/0/89ba7682/1/"
+src="https://c.statcounter.com/7909705/0/89ba7682/1/"
 alt=""></div></noscript>
 
 
@@ -162,5 +163,9 @@ var google_remarketing_only = true;
 <img height="1" width="1" style="border-style:none;" alt="" src="//googleads.g.doubleclick.net/pagead/viewthroughconversion/1017997309/?value=0&amp;guid=ON&amp;script=0"/>
 </div>
 </noscript>
+
+
+
+
 
 </body></html>
