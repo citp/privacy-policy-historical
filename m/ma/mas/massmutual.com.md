@@ -1,9 +1,8 @@
-> *The following text is extracted and transformed from the massmutual.com privacy policy that was archived on 2018-10-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181007194833id_/https%3A//www.massmutual.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the massmutual.com privacy policy that was archived on 2019-03-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190331061829id_/https%3A//www.massmutual.com/legal/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - MassMutual
 
-**UPDATED AS OF: December 15 **, 2017**  
-**
+**UPDATED AS OF: December 15 **, 2017****
 
 This online privacy policy is being provided by the following MassMutual companies:
 
@@ -18,7 +17,7 @@ At MassMutual (“we”, “us”, or “our”) we are committed to maintaining
 
 Information You Provide To Us
 
-We may collect Personal Information (information that can be used to identify you as an individual) such as your name, email, telephone number, home address, demographic information (such as zip code, age), payment information (such as account or credit card number), social security number, medical and health information, checking history, account balances. The types of Personal Information we collect may vary depending on your use of the features of the Platforms. If you are a customer of MassMutual and use the Platforms to access account, contract or policy information, we will handle your information in accordance with our customer privacy notices, which you may [access here](https://web.archive.org/privacy-notices).
+We may collect Personal Information (information that can be used to identify you as an individual) such as your name, email, telephone number, home address, demographic information (such as zip code, age), payment information (such as account or credit card number), social security number, medical and health information, checking history, account balances. The types of Personal Information we collect may vary depending on your use of the features of the Platforms. If you are a customer of MassMutual and use the Platforms to access account, contract or policy information, we will handle your information in accordance with our customer privacy notices, which you may [access here](https://web.archive.org/legal/privacy-notices).
 
 Information We Collect Automatically
 
@@ -36,7 +35,7 @@ We use the information we collect about and from you for a variety of business p
 
 **3\. SHARING OF INFORMATION**
 
-Except as described here or in our customer [privacy notices](https://web.archive.org/privacy-notices), we will not provide any of your Personal Information to any third parties without your specific consent. We may share non-Personal Information, such as aggregate data and Usage Information with third parties. We may also share your information as disclosed at the time you provide your information, as set forth in this Privacy Policy and in the following circumstances:
+Except as described here or in our customer [privacy notices](https://web.archive.org/legal/privacy-notices), we will not provide any of your Personal Information to any third parties without your specific consent. We may share non-Personal Information, such as aggregate data and Usage Information with third parties. We may also share your information as disclosed at the time you provide your information, as set forth in this Privacy Policy and in the following circumstances:
 
 Third Parties Providing Services. We may share your Personal Information with third parties that perform functions on our behalf (or on behalf of our partners) such as:
 
@@ -60,7 +59,7 @@ We may receive information about you from third parties such as consumer or othe
 
 You control the Personal Information that you provide to us on the Platforms, but some Personal Information is required by us in order for you to obtain services from us or for you to use the Platforms. If you choose not to provide us with your Personal Information on the Platforms, you may not be able to take advantage of some of the services we offer or use some functionality on the Platforms. Except as provided above in section 3, we will not share Personal Information collected on the Platforms with third parties without your consent. You may also direct us to stop sending you promotional emails by following the removal instructions in a communication you receive from us. Your opt-out request will be processed within 10 business days of the date on which we receive it.
 
-If you wish to modify, verify, correct, or delete any of your Personal Information collected through the Platforms, you may edit your registered user information or contact us at the above address or email. In accordance with our routine record keeping, we may delete certain records that contain Personal Information you have submitted through the Platforms. We are under no obligation to store such Personal Information indefinitely and disclaim any liability arising out of, or related to, the destruction of such Personal Information. It may not always possible to completely remove or delete all of your information from our databases without some residual data because of backups and other reasons. We will retain your information (including geo-location data) for as long as your account is active or as needed to provide you services. If you wish to cancel your online account or request that we no longer use your information to provide you services through the platform, [contact us](https://web.archive.org/about-us/contact-us). We will retain and use your information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements. We do not control certain privacy settings and preferences maintained by our social media partners like Facebook and Twitter. If you wish to make changes to those settings and preferences, you may do so by visiting the settings page of the appropriate social media site.
+If you wish to modify, verify, correct, or delete any of your Personal Information collected through the Platforms, you may edit your registered user information or contact us at the above address or email. In accordance with our routine record keeping, we may delete certain records that contain Personal Information you have submitted through the Platforms. We are under no obligation to store such Personal Information indefinitely and disclaim any liability arising out of, or related to, the destruction of such Personal Information. It may not always possible to completely remove or delete all of your information from our databases without some residual data because of backups and other reasons. We will retain your information (including geo-location data) for as long as your account is active or as needed to provide you services. If you wish to cancel your online account or request that we no longer use your information to provide you services through the platform, [contact us](https://www.massmutual.com/about-us/contact-us). We will retain and use your information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements. We do not control certain privacy settings and preferences maintained by our social media partners like Facebook and Twitter. If you wish to make changes to those settings and preferences, you may do so by visiting the settings page of the appropriate social media site.
 
 **6\. ADVERTISING; HOW TO OPT-OUT**
 
@@ -86,4 +85,4 @@ We may update this Privacy Policy to reflect changes to our information practice
 
 **11\. CONTACT US**
 
-If you have any questions or concerns about this Privacy Policy, the practices of the Platforms, or your experiences with the Platforms, please [contact us](https://web.archive.org/about-us/contact-us).
+If you have any questions or concerns about this Privacy Policy, the practices of the Platforms, or your experiences with the Platforms, please [contact us](https://www.massmutual.com/about-us/contact-us).
