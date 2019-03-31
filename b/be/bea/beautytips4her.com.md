@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the beautytips4her.com privacy policy that was archived on 2017-11-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171115071212id_/http%3A//beautytips4her.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the beautytips4her.com privacy policy that was archived on 2019-03-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190331174759id_/https%3A//beautytips4her.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Natural Beauty Skin Care
 
