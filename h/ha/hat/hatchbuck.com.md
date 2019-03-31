@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hatchbuck.com privacy policy that was archived on 2017-04-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170420105703id_/http%3A//www.hatchbuck.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hatchbuck.com privacy policy that was archived on 2019-03-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190331121151id_/https%3A//www.hatchbuck.com/privacy) for the most accurate reproduction.*
 
 # Privacy - Hatchbuck
 
@@ -6,9 +6,7 @@
 
 This Privacy Policy governs the manner in which Hatchbuck (or “we” or “our” or “us”) collects, uses, maintains and discloses information collected from users (a “User” defined as any past, current or prospective customer of Hatchbuck) of the [http://hatchbuck.com](http://hatchbuck.com/) website (“Site” or “Platform”). This privacy policy applies to the Site and all products and services offered by Hatchbuck.
 
-Hatchbuck complies with the U.S.-E.U. Safe Harbor Framework and U.S.-Swiss Safe Harbor Framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal information from European Economic Area member countries and Switzerland. Hatchbuck has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. To learn more about the Safe Harbor program, and to view the Hatchbuck certifications, please visit <http://www.export.gov/safeharbor/>.
-
-Due to the recent changes in the E.U. – U.S. data transfer regulations, Hatchbuck has adopted a Data Processing Agreement which includes the EU Standard Clauses. Please email [sales@hatchbuck.com](mailto:sales@hatchbuck.com) if you would like more information or a copy of the contract.
+Hatchbuck complies with all EU and US privacy regulations including GDPR ([https://www.eugdpr.org/](https://www.eugdpr.org/)) regarding the collection, use, and retention of personal information, as required by law.
 
 ## **Personal identification information**
 
@@ -23,6 +21,14 @@ We may collect non-personal identification information about Users whenever they
 ## **Web browser cookies**
 
 Our Site may use “cookies” to enhance User experience. User’s web browser places cookies on their hard drive for record-keeping purposes and sometimes to track information about them. User may choose to set their web browser to refuse cookies, or to alert you when cookies are being sent. If they do so, note that some parts of the Site may not function properly.
+
+## **Usage Information  **
+
+We store information about system use including files uploaded, emails sent, contacts stored and various other related data. This information is used to enable the functioning of the system. In addition it is used individually and in aggregate to improve the user experience of the system.
+
+## **Other Data Collection**
+
+We may use web beacons, (single pixel images) in emails and on web pages to assess the success of email campaigns and to measure contact engagement. We also may obtain information from public databases, partners, third party data providers and social media platforms. In these cases we work to ensure that the data we obtain has been collected in a manner consistent with all laws and regulations. 
 
 ## **How we use collected information**
 
@@ -42,15 +48,19 @@ We adopt appropriate data collection, storage and processing practices and secur
 
 Sensitive and private data exchange between the Site and its Users happens over a SSL secured communication channel and is encrypted and protected with digital signatures.
 
+## **How we will notify you in case of a breach**
+
+In the event of a security breach that includes unauthorized access of data in our system that would materially affect you or your contacts, we will notify you as soon as possible and also inform you of actions taken in to respond to the issue. 
+
 ## **Accessing your personal information**
 
-A User may (i) access any of their personal information that we collect and maintain, or (ii) correct, update, or delete their personal information, in both cases by contacting us by telephone or mail using the contact information provided in our website footer. Response time to such inquiries will be handled promptly within 30 days.
+A individual may (i) access any of their personal information that we collect and maintain, or (ii) correct, update, or delete their personal information, in both cases by contacting us by telephone or mail using the contact information provided in our website footer. Response time to such inquiries will be handled promptly within 30 days.
 
-We reserve the right to take reasonable steps to verify a customer’s identity prior to granting access to, or processing changes, or corrections to such information in order to protect customer privacy and security. We will retain a User’s personal information for so long as its account is active or as reasonably needed by us to provide our Services. We may also retain and use such information as necessary to comply with our legal obligations, resolve disputes, and enforce agreements.
+We reserve the right to take reasonable steps to verify a customer’s identity prior to granting access to, or processing changes, or corrections to such information in order to protect customer privacy and security. We will retain a User’s personal information for so long as its account is active or as reasonably needed by us to provide our Services. We may also retain and use such information as necessary to comply with our legal obligations, resolve disputes, and enforce agreements. We will not keep personal information in the system longer than is reasonably required to perform these functions.
 
 ## **Sharing your personal information**
 
-We do not sell, trade, or rent Users personal identification information to others. We may share generic aggregated demographic information not linked to any personal identification information regarding visitors and users with our business partners, trusted affiliates and advertisers for the purposes outlined above.
+**We do not sell, trade, or rent Users personal identification information to others.** We may share generic aggregated demographic information not linked to any personal identification information regarding visitors and users with our business partners, trusted affiliates and advertisers for the purposes outlined above.
 
 ## **Third party websites**
 
@@ -78,16 +88,27 @@ If you have any questions about this Privacy Policy, the practices of this site,
 
 
 
-**Hatchbuck**  
-webmaster@hatchbuck.com  
+## **CONTACTING US**
+
+If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this site, please contact us at :
+
+**Hatchbuck**
+
+webmaster@hatchbuck.com
+
 [http://hatchbuck.com](http://hatchbuck.com/)
+
+866-991-4888
+
+439 S. Kirkwood Road, Suite 215  
+St. Louis, Missouri 63122
 
 ## **Effective Date of Policy**
 
 This Policy was last updated as of the last date set forth below.
 
-**Revised: February, 29 2016**
+**Revised: April 5, 2018**
 
 Any rights not expressly granted herein are reserved by Hatchbuck.
 
-© 2016 Hatchbuck
+© 2019 Hatchbuck
