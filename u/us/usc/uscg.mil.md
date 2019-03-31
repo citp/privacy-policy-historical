@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the uscg.mil privacy policy that was archived on 2018-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180628010238id_/http%3A//www.overview.uscg.mil/Disclaim) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the uscg.mil privacy policy that was archived on 2019-03-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190331164729id_/https%3A//www.uscg.mil/Disclaim) for the most accurate reproduction.*
 
-# United States Coast Guard > Disclaim
+# United States Coast Guard > global > disclaim
 
 **Web Site Privacy & Security Policy**
 
