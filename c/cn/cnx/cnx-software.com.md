@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cnx-software.com privacy policy that was archived on 2018-11-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181117142757id_/https%3A//www.cnx-software.com/about/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cnx-software.com privacy policy that was archived on 2019-03-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190331193240id_/https%3A//www.cnx-software.com/about/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -43,8 +43,8 @@ This website relies on Google Analytics to gather traffic information such as pa
 We also use advertisement or affiliate platforms which may gather data, including:
 
   * Google Adsense
-  * Viglink
-  * BuySellAds
+  * Skimlinks
+  * PubGalaxy
   * Shareasale
   * Commission Junction
   * Amazon Affiliate
