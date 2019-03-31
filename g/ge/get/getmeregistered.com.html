@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the getmeregistered.com privacy policy that was archived on 2018-08-19.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20180819095038id_/https%3A//secure.getmeregistered.com/privacy_policy.php%23top) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the getmeregistered.com privacy policy that was archived on 2019-03-31.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20190331050828id_/https%3A//secure.getmeregistered.com/privacy_policy.php%23top) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en" dir="ltr"><!--<![endif]--><head>
 	<meta http-equiv="X-UA-Compatible" content="IE=9; IE=8; IE=7; IE=EDGE">
@@ -27,7 +27,7 @@
 	<!--[if IE 6]>
 	<script src="https://d2pe17571iz33b.cloudfront.net/includes/javascript/DD_belatedPNG.js" type="text/javascript"></script>
 	<script>
-		DD_belatedPNG.fix('.logo,#header-nav a,#header-nav b,.sf-menu li.li_first,.sf-menu ul,#panels,#sidebar .form-list,.click-top');
+		DD_belatedPNG.fix('.logo,#header-nav a,#header-nav b,#panels,#sidebar .form-list,.click-top');
 	</script>
 	<![endif]-->
 
@@ -38,13 +38,12 @@
 	<link type="text/css" rel="stylesheet" href="https://d2pe17571iz33b.cloudfront.net/assets/vendor/font-awesome/4.4.0/css/font-awesome.min.css">
 	<link type="text/css" rel="stylesheet" href="https://d2pe17571iz33b.cloudfront.net/assets/css/reset.min.css">
 	<link type="text/css" rel="stylesheet" href="https://d2pe17571iz33b.cloudfront.net/assets/css/layout.min.css">
-	<link type="text/css" rel="stylesheet" href="https://d2pe17571iz33b.cloudfront.net/assets/css/main.min.css?v=20180621220800">
+	<link type="text/css" rel="stylesheet" href="https://d2pe17571iz33b.cloudfront.net/assets/css/main.min.css?v=20190110">
 	<link type="text/css" rel="stylesheet" href="https://d2pe17571iz33b.cloudfront.net/assets/css/gmr-main.min.css?v=20180424173500">
 	<link type="text/css" rel="stylesheet" href="https://d2pe17571iz33b.cloudfront.net/assets/css/gmr-print.min.css" media="print">
 	<link type="text/css" rel="stylesheet" href="https://d2pe17571iz33b.cloudfront.net/assets/css/layout-responsive.min.css">
-	<link type="text/css" rel="stylesheet" href="https://d2pe17571iz33b.cloudfront.net/assets/css/mobile.min.css">
+	<link type="text/css" rel="stylesheet" href="https://d2pe17571iz33b.cloudfront.net/assets/css/mobile.min.css?v=20190110">
 	<link type="text/css" rel="stylesheet" href="https://d2pe17571iz33b.cloudfront.net/assets/css/gmr-main-responsive.css">
-	<link type="text/css" rel="stylesheet" href="https://d2pe17571iz33b.cloudfront.net/assets/vendor/superfish/1.4.8/css/superfish.min.css" media="screen">
 
 	<!-- General JavaScript -->
 	<script async="" src="https://www.google-analytics.com/analytics.js"></script><script type="text/javascript" src="https://d2pe17571iz33b.cloudfront.net/includes/javascript/common.js"></script>
@@ -62,72 +61,6 @@
 		// Add "js" class to html element
 		addClass(document.documentElement, "js");
 
-		// Load jQuery and any associated scripts
-		GetMeRegistered.load(
-			[
-				{
-					"id":   "gmr-script-jquery",
-					"path": "//ajax.googleapis.com/ajax/libs/jquery/1.8.2/jquery.min.js",
-					"type": "js"
-				}
-			],
-			function (e) {
-				// After jQuery is loaded, load related modules.
-				// Use a closure to prevent potential
-				// namespace problems with $.
-				(function($, undefined) {
-
-					// Always set document.ready
-					$(document).ready(function() {});
-
-					// Load jQuery-related modules
-					var jQueryModules = [],
-						jQueryDocReadyCallbacks = [];
-
-					// Superfish
-					jQueryModules.push({
-						"id":   "gmr-script-jquery-superfish",
-						"path": "https://d2pe17571iz33b.cloudfront.net/assets/vendor/superfish/1.4.8/js/superfish.js",
-						"type": "js"
-					});
-
-					jQueryDocReadyCallbacks.push(function() {
-						$("ul.sf-menu").superfish();
-					});
-					// Load up all the jQuery modules and callbacks
-					GetMeRegistered.load(
-						jQueryModules,
-						function(e) {
-							$(document).ready(function() {
-								for (var i = 0; i < jQueryDocReadyCallbacks.length; ++i) {
-									jQueryDocReadyCallbacks[i]();
-								}
-							});
-						}
-					);
-
-					// Make "top" button scroll nicely
-					$("a.click-top").click(function() {
-						if (location.pathname.replace(/^\//, "") == this.pathname.replace(/^\//, "")
-						    && location.hostname == this.hostname) {
-							var target = $(this.hash);
-							target = target.length ? target : $("[name=" + this.hash.slice(1) + "]");
-
-							if (target.length) {
-								$("html,body").animate({ scrollTop: target.offset().top }, 1000);
-								return false;
-							}
-							else {
-								$("html,body").animate({ scrollTop: "0" }, 1000);
-								return false;
-							}
-						}
-					});
-
-				})(window.jQuery);
-
-			} // End jQuery loaded callback
-		); // End loading jQuery
 	</script>
 
 	<!-- Google Analytics -->
@@ -137,16 +70,30 @@
 		m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
 		})(window,document,"script","https://www.google-analytics.com/analytics.js","ga");
 
-		ga("create", "UA-4006102-2", "auto");
-		ga("send", "pageview");
+		ga("create", "UA-4006102-2", "auto", {
+			"allowLinker": true
+		});
+		ga("require", "linker");
+		ga("require", "ec");
+
 	</script>
 	<!-- End Google Analytics -->
-
+	<!-- Hotjar -->
 	<script>
-		GetMeRegistered.category = null;
+		(function(h,o,t,j,a,r){
+			h.hj=h.hj||function(){(h.hj.q=h.hj.q||[]).push(arguments)};
+			h._hjSettings={hjid:1052890,hjsv:6};
+			a=o.getElementsByTagName("head")[0];
+			r=o.createElement("script");r.async=1;
+			r.src=t+h._hjSettings.hjid+j+h._hjSettings.hjsv;
+			a.appendChild(r);
+		})(window,document,"https://static.hotjar.com/c/hotjar-",".js?sv=");
+	</script><script async="" src="https://static.hotjar.com/c/hotjar-1052890.js?sv=6"></script>
+	<script>
 		GetMeRegistered.event = null;
+		GetMeRegistered.category = null;
+		GetMeRegistered.fee = null;
 	</script>
-
 </head>
 <body id="gmr-body-privacy-policy">
 	<div id="fb-root"></div>
@@ -187,17 +134,25 @@
 					</div>
 					<h3>A BETTER WAY TO <span>REGISTER</span></h3>
 					<nav id="header-nav">
-						<ul class="sf-menu">
-							<li class="current"><a href="/submit_your_event.php#top"><b>SUBMIT EVENT</b></a></li>
-							<li><a href="/confirm.php#top"><b>CONFIRM ENTRY</b></a>
-								<ul>
-									<li class="li_first"></li>
+						<ul class="navigation-menu">
+							<li>
+								<a href="/submit_your_event.php#top">
+									<span>SUBMIT EVENT</span>
+								</a>
+							</li>
+							<li>
+								<a href="/confirm.php#top">
+									<span>CONFIRM ENTRY</span>
+								</a>
+								<ul class="dropdown-menu">
 									<li><a href="/get_confirmation.php#top">Resend Confirmation</a></li>
 								</ul>
 							</li>
-							<li><a href="/about.php#top"><b>ABOUT</b></a>
-								<ul>
-									<li class="li_first"></li>
+							<li>
+								<a href="/about.php#top">
+									<span>ABOUT</span>
+								</a>
+								<ul class="dropdown-menu">
 									<li><a href="/getmeregistered_difference.php#top">The GMR Difference</a></li>
 									<li><a href="/services/social-media-and-sharing.php#top">GMR App for Facebook</a></li>
 									<li><a href="/services/social-media-and-sharing.php#social-media">Social Media</a></li>
@@ -209,7 +164,11 @@
 									<li><a href="/services/confirm-entry-widget.php#top">Confirm Entry Widget</a></li>
 								</ul>
 							</li>
-							<li><a href="/contact.php#top"><b>CONTACT</b></a></li>
+							<li>
+								<a href="/contact.php#top">
+									<span>CONTACT</span>
+								</a>
+							</li>
 						</ul>
 					</nav>
 				</div>
@@ -270,7 +229,7 @@
 			<div id="content">
 				<div id="content-inner-wrapper" class="clearfix">
 					<aside id="sidebar">
-						<div class="section" id="section-search">
+						<div id="section-search" class="section">
 							<form action="/search.php#top" method="get">
 								<h2>Search Events</h2>
 								<fieldset>
@@ -345,13 +304,13 @@
 											</div>
 										</li>
 										<li class="stop-bot">
-											<label for="email_2018230">Enter an email address unless you want this to work:</label>
+											<label for="email_201989">Enter a value unless you want this to work:</label>
 										</li>
 										<li class="stop-bot">
-											<input type="email" name="email_2018230" id="email_2018230" autocomplete="off" value="" placeholder="Enter an email address unless you want this to work" maxlength="64">
+											<input type="text" name="email_201989" id="email_201989" autocomplete="new-password" value="" placeholder="Enter a value unless you want this to work" size="12" maxlength="12">
 										</li>
 									</ul>
-									<input type="hidden" name="gmr_csrf_token" value="b5dd3e66981c29a8c958dc35f0697963925ce53a8d004cc66354bc545946485796a6e93a49bd1f67beabcee1d5e749f861c75faf38b31135df4f93e7c2ba0f6d">
+									<input type="hidden" name="gmr_csrf_token" value="62125f206c46ef418bb6d1d5748fc4e19972074836ab6475ceee67f5329b28003afa8271511cb6dd20ead2a2d9f9d5c05a8f4f573a089fe2b26e798497a3ecdf">
 								</fieldset>
 							</form>
 						</div>
@@ -486,7 +445,7 @@ service@getmeregistered.com
 								<img src="https://d2pe17571iz33b.cloudfront.net/images/cc-mastercard.png" alt="Mastercard" height="45" width="71" style="margin: 0 2px;">
 								<img src="https://d2pe17571iz33b.cloudfront.net/images/cc-visa.png" alt="Visa" height="45" width="49" style="margin: 0 2px;">
 							</li>
-							<li style="margin: 8px 0;">When this page loaded, the official time was 5:50:38 AM EDT.</li>
+							<li style="margin: 8px 0;">When this page loaded, the official time was 1:08:29 AM EDT.</li>
 						</ul>
 					</div> <!-- end content-bottom -->
 				</div> <!-- end content -->
@@ -569,7 +528,7 @@ service@getmeregistered.com
 						<div id="footer-nav-links">
 							<ul>
 								<li>
-									<span>© 2018 GetMeRegistered.com LLC, All Rights Reserved</span>
+									<span>© 2019 GetMeRegistered.com LLC, All Rights Reserved</span>
 								</li>
 								<li>
 									<a href="/privacy_policy.php#top">Privacy Policy</a>
@@ -594,6 +553,16 @@ service@getmeregistered.com
 			</div> <!--end footer-wrapper -->
 		</footer>
 	</div> <!-- end container -->
+	<script>
+
+		// Google Analytics
+		if (ga) {
+			ga("send", "pageview");
+
+		} // End if Google Analytics object is present
+
+
+	</script>
 
 
 </body></html>
