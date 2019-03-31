@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the icv2.com privacy policy that was archived on 2018-08-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180819124041id_/https%3A//icv2.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the icv2.com privacy policy that was archived on 2019-03-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190331161618id_/https%3A//icv2.com/privacy) for the most accurate reproduction.*
 
 # ICv2: The Business of Geek Culture
 
