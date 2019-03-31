@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the marketingprofs.com privacy policy that was archived on 2018-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181230103651id_/https%3A//www.marketingprofs.com/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the marketingprofs.com privacy policy that was archived on 2019-03-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190331095355id_/https%3A//www.marketingprofs.com/about/privacy) for the most accurate reproduction.*
 
 # MarketingProfs | Privacy Policy
 
-Last updated May 25, 2018
+Last updated March 8, 2019
 
 Here at MarketingProfs, we're making a few changes to our Terms & Conditions and Privacy Policy to comply with the General Data Privacy Regulation (GDPR).
 
@@ -12,15 +12,15 @@ Plus, if history (and recent gaffes by a certain social media company that shall
 
 ## tl;dr
 
-  * We're serious about privacy and security. We won’t sell, rent, or use your information to a third-party without your express permission.
+  * We're serious about privacy and security. We won't sell, rent, or use your information to a third-party without your express permission.
   * To subscribe, we'll need your work email. On some forms we may also ask for things like your job title or company details, or questions from content sponsors.
   * We primarily collect your data through online forms, though we get extra details only about your company through third party services. Beyond forms, we track behavioral data, we store credit card information for purchases, and we use cookies.
   * Mostly we use your data to send you editorial and promotional emails, to serve you more relevant content, and to market to you (we are marketers, after all). 
-  * You're welcome to opt out of our emails by managing your subscriptions in the [My Account](https://www.marketingprofs.com/newprem/editaccount/acct_mail.asp) section of the website or by selecting "unsubscribe" at the bottom of any email.
+  * You're welcome to opt out of our emails by managing your subscriptions in the [My Account](https://web.archive.org/account/email) section of the website or by selecting "unsubscribe" at the bottom of any email.
   * We keep your data secure using modern encryption technologies and by restricting staff who can access it.
-  * You don't have to consent to letting us use your data. Just know that you won’t be able to access much of our content.
+  * You don't have to consent to letting us use your data. Just know that you won't be able to access much of our content.
   * You can submit a user access request at any time for a copy of the data we have on file for you, or to delete your account completely.
-  * Be sure to read up on our revised [Terms & Conditions](https://web.archive.org/about/terms-of-use) and new [Cookies Policy](https://www.marketingprofs.com/misc/2018/34704/marketingprofs-cookie-policy).
+  * Be sure to read up on our revised [Terms & Conditions](https://web.archive.org/about/terms-of-use) and new [Cookies Policy](https://web.archive.org/about/cookie-policy).
 
 
 
@@ -48,6 +48,7 @@ MarketingProfs respects your privacy and we take your data security seriously.
   * Business type
   * Company size
   * Annual revenue
+  * Marketing experience
   * Marketing automation platform of choice
 
 
@@ -58,9 +59,9 @@ Some of our content is sponsored. To access this incentive content you may need 
 
 MarketingProfs primarily collects your information through online forms. We also use third-party appending services like Demandbase and Dun & Bradstreet to fill in information about your company, like your industry. We store this data on our secure Rackspace server; within our marketing automation platform, IBM Watson Campaign Automation; within our learning management system, Litmos; and, if you're a multiseat buyer or a sponsor, in Salesforce.
 
-Sometimes we'll get your data through a partnership program we've done with another company. In these cases, you likely opted in when you filled out a form for content on another site.
+Sometimes we'll get your data through a partnership program we've done with another company. In these cases, you likely opted in when you filled out a form for content on another site. This includes forms hosted by our e-book distribution platform, NetLine.
 
-We also track geographic and behavioral data on our website to help provide more relevant content and better market to you. We use some third-party cookies to do this, as well as cookies for web traffic analytics, remarketing, customer support, and other services. You can find more information about how we use cookies by reading our [Cookies Policy](https://www.marketingprofs.com/misc/2018/34704/marketingprofs-cookie-policy). 
+We also track geographic and behavioral data on our website to help provide more relevant content and better market to you. We use some third-party cookies to do this, as well as cookies for web traffic analytics, remarketing, customer support, and other services. You can find more information about how we use cookies by reading our [Cookies Policy](https://web.archive.org/about/cookie-policy). 
 
 Finally, if you purchase a paid training product like MarketingProfs PRO membership or register for one of our paid events like B2B Marketing Forum online, we'll collect your credit card and billing information. We'll only store it long enough to process your transaction and then it is deleted, unless you've asked us to keep it on file.
 
@@ -70,11 +71,11 @@ You'll need to provide a minimal amount of information to sign up for MarketingP
 
 We also use your data to segment, personalize, and send you email. We do this to help us deliver content we think you'll be interested in most. Depending on your email preferences, you may receive our twice-weekly newsletter, announcements about our products, and third-party promotional messages we send on behalf of our sponsors. 
 
-**You can opt out of any of these mailing programs at any time by updating your[email preferences](https://www.marketingprofs.com/newprem/editaccount/acct_mail.asp) in the My Account section or by using the "unsubscribe" link at the bottom of any email.**
+**You can opt out of any of these mailing programs at any time by updating your[email preferences](https://web.archive.org/account/email) in the My Account section or by using the "unsubscribe" link at the bottom of any email.**
 
 Similarly, we use your data to target you with relevant next steps, recommended related content, and promotions when you visit our website.
 
-If you've signed up for a sponsored content program like a webinar, report download, or virtual conference, we'll provide the information entered on the form to the content sponsor(s). 
+If you've signed up for a sponsored content program like a webinar, report download, or online forum, we'll provide the information entered on the form to the content sponsor(s). 
 
 If you register for an on-site event, we'll also use your data for our badge, on-site registration, and scanning system (Validar), and to invite you to use our mobile app (CrowdCompass).
 
@@ -96,8 +97,8 @@ You can visit many pages on our website without giving us any information about 
 
 **Your Rights: User Access Requests and Deleting Your Data**
 
-We recommend using the [My Account](https://www.marketingprofs.com/newprem/editaccount/acct_view.asp) section of the website to verify, update, and correct the details we have in [your profile](https://www.marketingprofs.com/newprem/editaccount/acct_profile.asp), manage your billing preferences, and [adjust your email subscriptions](https://www.marketingprofs.com/newprem/editaccount/acct_mail.asp). 
+We recommend using the [My Account](https://web.archive.org/account/profile) section of the website to verify, update, and correct the details we have in [your profile](https://web.archive.org/account/profile), manage your billing preferences, and [adjust your email subscriptions](https://web.archive.org/account/email). 
 
 Under the GDPR, you may [submit a user access request](mailto:support@marketingprofs.com?subject=User%20Access%20Request) to us asking for a detailed report of the personal information we have for you on file, and we will send it to you within 30 days. 
 
-Want us to delete your information entirely? While we'll be sad to see you go, you can [contact us](http://www.marketingprofs.com/about/contact) and we'll purge your account from our records... just know that you won't be able to access your free or paid content if you do so.
+Want us to delete your information entirely? While we'll be sad to see you go, you can [contact us](https://web.archive.org/about/contact/) and we'll purge your account from our records... just know that you won't be able to access your free or paid content if you do so.
