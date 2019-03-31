@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the puzzlegames.la privacy policy that was archived on 2018-11-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181114195520id_/http%3A//puzzlegames.la/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the puzzlegames.la privacy policy that was archived on 2019-03-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190331041637id_/http%3A//puzzlegames.la/privacy) for the most accurate reproduction.*
 
 # PuzzleGames.la- Best Free Online Games
 
