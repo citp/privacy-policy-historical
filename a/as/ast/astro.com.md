@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the astro.com privacy policy that was archived on 2018-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181226025445id_/http%3A//www.astro.com/contact/legal_e.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the astro.com privacy policy that was archived on 2019-03-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190331022529id_/https%3A//www.astro.com/contact/legal_e.htm) for the most accurate reproduction.*
 
 # Privacy Policy - Astrodienst
 
