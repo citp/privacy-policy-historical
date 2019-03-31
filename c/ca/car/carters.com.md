@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the carters.com privacy policy that was archived on 2018-09-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180921010450id_/https%3A//www.carters.com/privacy/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the carters.com privacy policy that was archived on 2019-03-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190331045640id_/https%3A//www.carters.com/privacy/privacy-policy.html) for the most accurate reproduction.*
 
-# Carters.com | OshKoshBgosh.com Privacy Policy
+# Sites-Carters-Site
 
 ## 
 
