@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the first4figures.com privacy policy that was archived on 2018-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181229071601id_/https%3A//www.first4figures.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the first4figures.com privacy policy that was archived on 2019-03-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190331223859id_/https%3A//www.first4figures.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -30,6 +30,7 @@ First4figures processes your personal data in the following ways, and on the fol
   * To enhance your experience of the First4figures website, we do this as it is in our legitimate interest to ensure that you receive the best experience possible when you shop with us.
   * Any other purposes where we have obtained your consent to do so.
   * We may use your information in an anonymised and/or aggregated manner in order to analyse the data so that we can enhance our IT systems or website and carry out research. We may share this anonymised and/or aggregated data with third parties, but you will not be identifiable from any such data.
+  * Third parties may place cookies on your browser for advertising purposes.
 
 
 
@@ -83,6 +84,7 @@ You have various statutory rights in relation to your personal data. In particul
   * object to or restrict the processing of your personal data in certain circumstances;
   * have your personal data stored in a manner in which it is portable from the environment in which it is stored by First4figures to another environment; and
   * file a complaint with the Information Commissioner’s Office.
+  * To opt out of receiving targeted advertising, you may use the Network Advertising Initiative (NAI) opt out tool [here](http://optout.networkadvertising.org/?c=1), which will allow you to opt out of seeing personalized ads from us and from other NAI approved member companies.
 
 
 
@@ -90,7 +92,7 @@ You have various statutory rights in relation to your personal data. In particul
 
 If First4figures decides to change this privacy notice, any changes will be posted on this page.
 
-This privacy notice was last modified on May 30th 2018.
+This privacy notice was last modified on Jan 7th 2019.
 
 **9\. Contact**
 
