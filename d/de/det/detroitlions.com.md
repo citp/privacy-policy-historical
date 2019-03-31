@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the detroitlions.com privacy policy that was archived on 2018-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181230113117id_/https%3A//www.detroitlions.com/about-us/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the detroitlions.com privacy policy that was archived on 2019-03-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190331203115id_/https%3A//www.detroitlions.com/about-us/privacy-policy) for the most accurate reproduction.*
 
 # Detroit Lions Privacy Policy | Detroit Lions - DetroitLions.com
 
