@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dal.ca privacy policy that was archived on 2018-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181227105833id_/https%3A//www.dal.ca/terms_of_use/privacy-statement.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dal.ca privacy policy that was archived on 2019-04-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190401004407id_/https%3A//www.dal.ca/terms_of_use/privacy-statement.html) for the most accurate reproduction.*
 
 # Privacy Statement - Dalhousie University
 
