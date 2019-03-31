@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the logopond.com privacy policy that was archived on 2018-11-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181103042324id_/https%3A//logopond.com/algae/pp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the logopond.com privacy policy that was archived on 2019-03-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190331045105id_/https%3A//logopond.com/algae/pp) for the most accurate reproduction.*
 
 # Logopond - Logo, Brand & Identity Inspiration
 
-Created: June 13, 2010 
+Created: June 13, 2010 | Modified: February 1, 2019
 
 At Logopond we recognize that privacy is important. This Privacy Policy applies to all of the products, and websites offered by Logopond collectively, Logopond’s “services.” If you have any questions about this Privacy Policy, please feel free to [contact us](mailto:cd@climaxdesigns.com)
 
@@ -12,7 +12,12 @@ We may collect the following types of information:
 
 **Information you provide** – When you sign up for a [Logopond Account](http://logopond.com/members/?account) we ask you for personal information (such as your name, email address and an account password).
 
-**Cookies** – When you visit Logopond, we send one or more cookies – a small file containing a string of characters – to your computer or other device that uniquely identifies your browser. We use cookies to improve the quality of our service, including for storing user preferences. 
+**Cookies** – When you visit Logopond, we send one or more cookies – a small file containing a string of characters – to your computer or other device that uniquely identifies your browser. We use cookies to improve the quality of our service, including for storing user preferences. We measure visitors to our websites and products using [Google Analytics](https://analytics.google.com/analytics/web/). This service records what pages you view within our site, how you arrived at our site and some basic information about your computer. We [anonymize the data in Google Analytics](https://support.google.com/analytics/answer/2763052?hl=en) – so we don’t know who you are; just that  _somebody_  visited our site. The information we collect helps us understand what parts of our sites are doing well, how people arrive at our site and so on. Like most websites, we use this information to make our website better. You can learn more about [Google Analytics](http://www.google.com/analytics/learn/privacy.html "Google Analytics' privacy policy") or [opt out if you wish](https://tools.google.com/dlpage/gaoptout "How to opt out of Google Analytics"). Google Analytics data is automatically deleted 26 months after your last visit. 
+
+Ad Servers: To try and bring you offers that are of interest to you, we have relationships with other companies that we allow to place ads on our Web pages. As a result of your visit to our site, ad server companies may collect information such as your domain type, your IP address and clickstream information. For further information, consult the privacy policies of: 
+
+<https://freestar.io/>  
+<http://www.google.com/adsense/>
 
 **Log information** – When you access Logopond, our servers automatically record information that your browser sends whenever you visit a website. These server logs may include information such as your web request, Internet Protocol address, browser type, browser language, the date and time of your request and one or more cookies that may uniquely identify your browser. 
 
@@ -69,7 +74,7 @@ When you use Logopond, we make good faith efforts to provide you with access to 
 
 **Enforcement**
 
-Logopond regularly reviews its compliance with this Privacy Policy. Please feel free to direct any questions or concerns regarding this Privacy Policy or Logopond’s treatment of personal information by [contacting us](mailto:cd@climaxdesigns.com)
+Logopond regularly reviews its compliance with this Privacy Policy. Please feel free to direct any questions or concerns regarding this Privacy Policy or Logopond’s treatment of personal information by [contacting us](mailto:logopondnoreply@gmail.com)
 
 When we receive formal written complaints at this address, it is Logopond’s policy to contact the complaining user regarding his or her concerns. We will cooperate with the appropriate regulatory authorities, including local data protection authorities, to resolve any complaints regarding the transfer of personal data that cannot be resolved between Logopond and an individual. 
 
