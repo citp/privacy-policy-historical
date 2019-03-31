@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wowdeals.me privacy policy that was archived on 2018-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181230122330id_/https%3A//www.wowdeals.me/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wowdeals.me privacy policy that was archived on 2019-03-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190331121052id_/https%3A//www.wowdeals.me/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - WoWDeals : All Deals in One Place
 
@@ -20,7 +20,7 @@ DoubleClick DART Cookie*
 
 .:: Google's use of the DART cookie enables it to serve ads to users based on their visit to **[WoWDeals](https://www.wowdeals.me/)** ****and other sites on the Internet.*
 
-.:: Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at the following URL - <http://www.google.com/privacy_ads.html>*
+.:: Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at the following URL - [http://www.google.com/privacy_ads.html](https://www.google.com/privacy_ads.html)*
 
 Some of our advertising partners may use cookies and web beacons on our site. Our advertising partners include ....
 
