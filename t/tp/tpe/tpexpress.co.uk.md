@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tpexpress.co.uk privacy policy that was archived on 2018-09-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180916115621id_/https%3A//www.tpexpress.co.uk/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tpexpress.co.uk privacy policy that was archived on 2019-03-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190331192154id_/https%3A//www.tpexpress.co.uk/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | TransPennine Express
 
@@ -437,9 +437,9 @@ These links may also assist you:
 
 With most Internet browsers, you can erase or block cookies or ask to receive a warning before a cookie is stored. The “Help” function within your browser should tell you how. Alternatively, you may wish to visit the following sites:
 
-[www.youronlinechoices.eu ](https://web.archive.org/web/20180916115621id_/https%3A//www.tpexpress.co.uk/www.youronlinechoices.eu)  
-[www.aboutcookies.org](https://web.archive.org/web/20180916115621id_/https%3A//www.tpexpress.co.uk/www.aboutcookies.org)  
-[www.allaboutcookies.org ](https://web.archive.org/web/20180916115621id_/https%3A//www.tpexpress.co.uk/www.allaboutcookies.org)
+[www.youronlinechoices.eu ](https://web.archive.org/web/20190331192154id_/https%3A//www.tpexpress.co.uk/www.youronlinechoices.eu)  
+[www.aboutcookies.org](https://web.archive.org/web/20190331192154id_/https%3A//www.tpexpress.co.uk/www.aboutcookies.org)  
+[www.allaboutcookies.org ](https://web.archive.org/web/20190331192154id_/https%3A//www.tpexpress.co.uk/www.allaboutcookies.org)
 
 which contain comprehensive information on how to do this on a wide variety of browsers. You will also find details on how to delete cookies from your computer as well as more general information about cookies.
 
