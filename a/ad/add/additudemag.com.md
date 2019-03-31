@@ -1,161 +1,211 @@
-> *The following text is extracted and transformed from the additudemag.com privacy policy that was archived on 2018-09-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180917005507id_/https%3A//www.additudemag.com/contact-us/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the additudemag.com privacy policy that was archived on 2019-03-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190331223245id_/https%3A//www.additudemag.com/contact-us/privacy-policy) for the most accurate reproduction.*
 
-# ADDitude's Privacy Policy
+# Privacy Policy for New Hope Media: ADDitude and Adoptive Families
 
-**Effective Date: April 4, 2017**
+New Hope Media (“NHM”, “we”, ‘our”, “us”) takes your privacy seriously; we want you to understand how we do and don’t use information about you.
 
-This Privacy Policy applies to New Hope Media LLC d/b/a ADDitude and Adoptive Families (“ADDitude,” “Adoptive Families,” “our,” “us,” or “we”) and describes how ADDitude and Adoptive Families collect, use and share customer information from our websites, mobile websites,  and the services provided by us in connection with the sites that link to this Privacy Policy such as [www.ADDitudemag.com](http://www.additudemag.com/), [www.ADDconnect.com](http://www.addconnect.com/), [www.adoptivefamilies.com](http://www.adoptivefamilies.com/), [www.adoptivefamiliescircle.com](http://www.adoptivefamiliescircle.com/), [www.buildingyourfamily.com](http://www.buildingyourfamily.com/).  It also provides guidance on how you can manage the personal information that you provide to us. Please also read our full Privacy Policy below.
+We’ve written this Privacy Policy, along with our Terms of Service, to explain our data collection and usage with users of NHM’s digital platforms — which include, e.g., all NHM websites ([additudemag.com](https://www.additudemag.com/), [adoptivefamilies.com](https://www.adoptivefamilies.com/), [adoptivefamiliescircle.com](https://www.adoptivefamiliescircle.com/), [directory.additudemag.com](https://directory.additudemag.com/), [newhopemedia.com](https://www.newhopemedia.com/) and any other website that links to this policy (“Websites”), our apps, and any embeddable content that we may make available for display on outside websites or digital platforms (collectively, the “NHM Platform”). This Privacy Policy covers the personal information we collect when providing services through our Websites or through services we otherwise provide (collectively, “Services”). 
 
-## _ADDitude_ Privacy Policy Highlights
+Please note that the NHM Platform often includes links to third party websites or services, such as social media platforms and recommended resources. This Privacy Policy does not cover any third-party websites or services, or your use of them; we suggest that you review those websites’ policies to learn more about their privacy practices.
 
-_**_Your Information Choices_**_  
-**  
-We do not share the names of visitors to our websites, nor do we sell our subscriber or emails lists to any individual or organization.**
+ **We do not share the names of visitors to our Websites, nor do we sell or share our subscriber or emails lists to any individual or organization for marketing purposes.**
 
-You can control whether you want to receive promotional communications from us. More info
+* How We Collect Information
+* How We Use Information We Collect
+* How We Use Third-Party Advertising Networks and Analytics Services
+* How We Share Information
+* How You Can Access Your Information
+* Your Choices / How to Opt Out
+* How We Keep Your Information Secure
+* Additional Notice If You Are Located In the European Economic Area (EEA)
+* How Long Do We Retain Your Information 
+* Changes to This Privacy Policy
+* Dispute Resolution / Arbitration / Limitation of Liability
+* How to Contact Us
 
-**__Personal Information Collected__**
+### HOW WE COLLECT INFORMATION
 
-When you register with us to access our online community or make a purchase, you voluntarily share certain personal information with us such as your name, e-mail address, address, telephone number, and/or credit/debit card information. You may also share personal information when you connect to our sites through social media networks. We may collect additional information from you (e.g., unique device identifier, device’s operating system, or mobile carrier) if you access our sites through a mobile device. More Info
+  
 
-__**Tracking Technologies (Cookies, etc.)** __
 
-We use tracking technologies such as cookies and similar technologies to measure usage during your visits to our services to provide information and advertising that will be of most interest to you. More info
+#### How We Collect Information Directly
 
-**__Targeted Advertising__**
+  
+You can browse and read most of the NHM Platform without creating an account or revealing any personal information. On certain occasions when you interact with the NHM Platform, you may submit information such as your name and login information, email address, mailing address, phone number, comments, photos and videos, payment information when you make a purchase, and transaction information. Users may submit information of their own accord, or be asked to do so to participate in certain activities, such as: 
 
-Third parties may also use information gathered from your use of the services to serve targeted, interest based advertisements to you on websites and mobile applications. More info
+  * Registering as a site member
+  * Signing up for free newsletter
+  * Requesting a free download
+  * Registering for free webinar
+  * Posting an article comment
+  * Contributing in discussion forums
+  * Sharing a photo
+  * Entering a sweepstakes or contest
 
-**__Use and Sharing of Information__**
 
-We may share information gathered from your use of the services with affiliated companies, service providers, mobile carriers, social networks, legal and law enforcement, others if there is a change of control, and as otherwise set forth in this Privacy Policy. More info
 
-**__Your Information Access and Managing Options__**
+NHM and the NHM Platform are based in the United States. If you voluntarily visit our Websites and provide personal information to us while located or residing in a country outside the United States, you understand that you are voluntarily agreeing to the use and processing of such information as provided in this Privacy Policy, including transfer of your information to the United States, a jurisdiction which may not offer the same framework for the protection of personal information as the jurisdiction in which you are located.
 
-You can change your personal information by logging on to your account or contacting us. We may retain the information collected for the purposes outlined in this Privacy Policy. More info
+#### How We Use Cookies to Collect Some Information Automatically
 
-**__Arbitration__**
+NHM uses cookies and other tagging or tracking technologies that interact with your browser to increase our digital functionality and offer responsive elements based on your and other users’ actions (e.g., to store your preferences, password, or saved articles).
 
-Any disputes under this Privacy Policy will be resolved in accordance binding arbitration as outlined in the [Terms of Use](https://web.archive.org/contact-us/terms-and-conditions/).
+When you use the NHM Platform, we may automatically recognize information such as the following:
 
-**__Updates to this Privacy Policy__**
+  * _Device Information:_ We may collect certain information about the device you use to access the Services, including but not limited to IP addresses for your devices, unique device identifiers, browser types and browser language. 
+  * _User History:_ We may log certain usage information about your use of the Services, which may include a history of the pages you view. If you download and use any software application on your device, the log files will automatically be collected by the application and sent to our servers when your device syncs up for the latest content available.
+  * _Mobile/Location Information:_ We may collect additional information from you if you access the Services through a mobile device, for example your unique device identifier, device’s operating system, mobile carrier, or location when you opt in for us to do so. However, the degree to which your location can be identified depends on the device you are using (e.g. laptop, smartphone, tablet) and how you are connected to the internet (e.g. via cable broadband connection, Wi-Fi, etc.). If you enable location services for the Services, we may collect regional location data periodically as you use or leave open the Services. We may also collect your location information from your IP address or zip code. We may also use location data internally or in conjunction with our third-party service providers to customize your experience and provide offers that may be relevant to you. Depending on the platform you use to access the Services (e.g., Apple™ iOS, Google™ Android, Windows, etc.) you may be able to control from within the settings on your wireless device whether location data is collected.
 
-Changes to this Privacy Policy will be posted with a new “Effective Date”. More info
 
-**__Contacting Us__**
 
-Questions about our Privacy Policy or the use of your information may be sent to [_customerservice@additudemag.com_](mailto:customerservice@additudemag.com) or as otherwise set forth in the Privacy Policy. More info
+Some of the third-party service providers for the NHM Platform (e.g., analytics) may also use their own tracking technologies on our digital properties to help us run and optimize our platforms and serve advertising to you. These third parties may collect information about your online activities over time and across the NYPR Platform and other online properties.
 
-* * *
+To find out more about the Tracking Technologies we use and their function go to our Cookie Notice and to learn more about how to manage your preferences go to our [Cookies Notice](https://web.archive.org/contact-us/cookie/).
 
-## _ADDitude_ Privacy Policy
+#### How We Collect Information from Third-Party Sources
 
-**Effective Date: April 4, 2017**
+_Third-Party Sources._ From time to time we may obtain personal information about you from third-party sources. We may use this information, alone or in combination with other information (including personal information) we collect, to provide our Services.
 
-New Hope Media LLC has developed this privacy policy (“Privacy Policy”) which details important information regarding the use and disclosure of user information collected on New Hope Media LLC owned or controlled websites, including [www.ADDitudemag.com](http://www.additudemag.com/), [www.ADDconnect.com](http://www.addconnect.com/), [www.adoptivefamilies.com](http://www.adoptivefamilies.com/), [www.adoptivefamiliescircle.com](http://www.adoptivefamiliescircle.com/), its mobile sites and applications (collectively, “Sites”), and related services, communications and tools that link to this Privacy Policy, and when you interact offline with ADDitude or Adoptive Families regarding those Sites, and related services and tools (collectively referred to as the “Services”).  New Hope Media provides this Privacy Policy to help you make an informed decision about whether to use to use the Services and the choices we offer for you to manage the information we collect.  Each time that you access or use the Services, you are agreeing to this Privacy Policy.  If you do not agree to this Privacy Policy or Terms of Use (“Terms”), which are incorporated into this Privacy Policy by reference and govern your use of our Services, please discontinue accessing or using the Services.
+_Social Networking Accounts._ In addition, when you choose to link our Websites to your social networking accounts or use one of our hashtags, or otherwise engage with the Services through third-party social media platforms, you may be allowing us ongoing access to certain information stored on those platforms. In addition, as you interact with the Services, you may also be providing information about your activities to the third-party social networking platforms, as applicable. You should make sure that you are comfortable with the information such services may make available to us by visiting the applicable platforms’ privacy policies and/or modifying your privacy settings directly with those platforms.
 
-### 1\. Information We Collect
+_Analytics and Ad Serving._ Google is one of the companies that we use to serve advertising and perform analytics on some of the Services. When you access the Services, our third-party vendors, including Google, use third-party cookies (such as the Google DoubleClick cookie) to serve you ads based on your previous visit to our website and other websites. To learn more about your choices and in particular Google’s currently available opt-outs for the Web, please see Your Choices / How to Opt Out section below. 
 
-**_Information Collected Directly From You._  ** You can browse our Services without telling us who you are or revealing any personal information.  If you create an account to access our online community (e.g., ADDitudemag.com or AdoptiveFamilies.com), contact us, or purchase any of our Services, you are choosing to give us your personal information, including but not limited to your name, address, email address, phone number, mobile telephone number, or physical contact information about yourself.  You may also provide payment information such as credit or debit card information and billing address to purchase our products and services.
+#### Information from Children
 
-**_Information Imported from Social Networks._** _  _We may collect information from you when you interact with our Services through third party social networking services (e.g., Facebook, Twitter, Instagram, Google +) (each and collectively, a “Social Network”).  You may also have the option to consent to connecting your activity on our Services with your Social Network information and activity.  If you permit a connection, we and that Social Network may be able to identify you and associate information received pursuant to the connection with information we already have about you.  Please review the Social Network’s privacy policy and choices for sharing information of any Social Network connected to our Services.
+Our Services are directed at a general audience and not directed to those under the age of 18. NHM does not knowingly collect personal information from individuals under 18 years of age. 
 
-**_Surveys and_ _Promotions._** _  _From time-to-time we may request information from you and other users via surveys, or contests, sweepstakes or other promotions.  Participation is completely voluntary.  Information collected may be used as set forth in this Privacy Policy and as set forth in the applicable terms or official rules, such as to notify the winners and award prizes, and file winners’ information as required by law.  Survey information will be used for the purposes of the survey.
+#### Links to Other Websites
 
-**_Information You Post/Social Networks._ _  _**The Services are designed to enable you to communicate with others and any information or content you post when participating with the Services and Social Networks, plug ins or other applications becomes public information, depending upon your privacy settings, and is subject to redistribution by ADDitude, AdoptiveFamilies and third parties.  There is no expectation of privacy when you are posting content or otherwise participating in such interactive forums and we have no control over how those users may use the information you make public.  Therefore, you should exercise caution and discretion when deciding to disclose your personal information in a submission or posting.
+NHM is not responsible for the content or the privacy policies of websites to which it may link. This Privacy Policy applies solely to information collected by NHM. You should consult the respective privacy policies of any applicable third parties to learn more about their privacy practices.
 
-**_Mobile Devices._  ** We may collect additional information from you if you access our Services through a mobile device; for example, your unique device identifier, device’s operating system, mobile carrier, and regional location.  We may also collect your location information from your IP address or zip code.  The degree to which your location can be identified depends on the device you are using, e.g. laptop, smartphone, tablet or other access device (each a “Device”) and how you are connected to the internet (e.g. via cable broadband connection, WiFi, etc.).
+### HOW WE USE INFORMATION WE COLLECT
 
-_**Information We Collect From Third Parties**._  We acquire information from other trusted sources to update or supplement the information we collect, such as information to validate or update your address or demographic and lifestyle information.
+In general, our main purpose in collection, use, and storage of information is to further our mission by making the NHM Platform work better for you and by staying in touch with you about NHM content that may interest you as well as serve ads that allow us to provide content free of charge to you. So, for example, we may email to invite you to join a new newsletter list, tell you about an upcoming webinar, or ask you to renew your membership when it expires. Our usage of your information is necessary for our legitimate interest in and purpose of staying in touch with you and administering and promoting the NHM Platform. Additional examples include:
 
-### 2\. Information Collected Through Tracking Technologies
+  * To respond to your comments, inquiries and requests and provide customer service.
+  * To personalize and improve your experience and deliver content or features that match your profile and interests, including to show you targeted advertising as described in Tracking Technologies; Advertising and Analytics Services Section below. Please also review Your Choices / How to Opt-Out section below.
+  * To send you marketing and promotional communications. Please see Your Choices / How to Opt-Out section below.
+  * To send you transactional emails.
+  * To perform statistical, and marketing analyses of user behavior.
+  * To manage your account and send you technical privacy policy and service updates, security alerts and other administrative messages. 
+  * To process our sweepstakes, contests, or other promotions and provide any documentation on winners as required by law.
+  * To comply with or enforce legal requirements, agreements and policies. 
+  * To carry out any other purpose for which the information was collected.
+  * To perform other activities that are in our legitimate business interests and consistent with this Privacy Policy.
 
-**_Tracking Technologies._** _ ** ** _In addition to any information that you choose to submit to us, we and our business partners may use a variety of tracking technologies (“Tracking Technologies”), that automatically (or passively) collect certain information from your Device whenever you visit or interact with the Services or third party sites.  This information may include your Device identifier, the type and version of Internet browser software you use, and your operating system.  We may also collect password information from you when you log in, as well as computer and connection information.  During some visits, we may use these tools to measure and collect session information, including page response times, download errors, time spent on certain pages and page interaction information.  Certain features of our Services are only available through the use of Tracking Technologies.  You may encounter tracking technologies/cookies from our third party service providers that we have allowed on our Services and who assist us with various aspects of our operations and Services.  We use Google to serve first party cookies (such as Google Analytics cookie) to report how our ad impressions, and interactions with these ad impressions and ad services are related to visits to the Services.  To learn about Google Analytics’ current available opt-outs for the web, click here.  To learn more about how Google uses cookies in interest based advertising, you can visit the Google ad and content network privacy policy located at <https://www.google.com/policies/privacy/>.  You can opt-out of receiving interest based Google ads, or customize the ads Google shows you by clicking <https://support.google.com/ads/answer/2662922?hl=en>.  Please be aware that if you choose to block certain cookies, you may not be able to sign in or use those cookie dependent features, and preferences that are dependent on cookies may be lost. If you choose to delete cookies, settings and preferences controlled by those cookies, including advertising preferences, may be deleted and may need to be recreated.  Tracking Technologies are used for a variety of purposes, including the following:
 
-**_Operationally Necessary._**   We may use Tracking Technologies for system administration, to prevent fraudulent activity, to improve security or to allow you to make use of our Services.
 
-**_Performance Related._   **We may use Tracking Technologies to assess the performance of our Services, including as part of our analytic practices to improve content offered through the Services.
+If you do not wish to be contacted, please indicate your preference by using the opt-out links provided at the bottom of our emails and newsletters, or by contacting customer service. For more information, see Your Choices / How to Opt-Out section below. We will do our best to make your requested change in a timely manner.
 
-**_Functionality Related._   **We may use Tracking Technologies to tell us, for example, whether you have visited the Services before or if you are a new visitor and to help us identify the features in which you may have the greatest interest.
+Please do note that if you share personal information through certain NHM Platform publishing features, it may become public (e.g. if you include your email address in a comment or your name in a forum post, that information may be seen by other users or used for attribution).
 
-**_Targeting Related._**  We may use Tracking Technologies to deliver content, including ads, relevant to your interests on the Services and third party sites based on how you interact with our advertisements or content, as well as to track the content you access. For more information, see Section 3 below.
+### HOW WE USE THIRD-PARTY ADVERTISING NETWORKS AND ANALYTICS SERVICES
 
-**_Location Functionality._**   Information gathered from your use of the Services may be combined with information from third-party sources to identify your location by state and region (“Regional Location”).  If you enable location services for our Services, we may collect Regional Location data periodically as you use or leave open our Services.
+We and our third-party partners may use Tracking Technologies, such as cookies, pixels and web beacons, and collect and store information about you when you use or interact with our Services, marketing communications, advertising content and/or other websites, in order to provide you with personalized content and targeted advertising based on your browsing activities and interests. We and our third-party partners automatically receive your IP address or mobile device identifier when this happens. We and our third-party partnersf may also use Tracking Technologies to measure the effectiveness of advertisements and to personalize the advertising content and to serve you advertisements that are relevant to your regional location. We may also use information collected using third-party cookies and beacons on the Services and in our emails to deliver advertising about the Services displayed to you on third-party services. To find out more about what the Tracking Technologies we use and how to manage your preferences go to our [Cookies Notice](https://web.archive.org/contact-us/cookie/).
 
-### 3\. Targeted Advertising
+### HOW WE SHARE INFORMATION
 
-**_Interest Based Advertising._ _  _**We may use Tracking Technologies to collect information about your visits over time and across the Services and other third party web sites, as well as information received from other sources, in order to serve more targeted advertising to you. To serve our ads, we use a variety of third party advertising service providers, including networks, data exchanges, ad servers, analytics providers and others.  These third parties may use Tracking Technologies to send directly to your Device the advertisements and links that appear on the Services. They automatically receive your Device identifier when this happens.  Their tools may also limit the number of times you see the same ad and help measure the effectiveness of our advertising campaigns. These third parties may also use information gathered from your use of the Services to serve targeted, interest based advertisements to you on third party websites and applications. Some of the advertising service providers may be members of the Network Advertising Initiative, which offers a single location to opt-out of ad targeting from member companies. If you opt-out of receiving targeted ads in this manner, you will continue to receive advertising messages, but they will not be customized to you based on your use of the Services and third party sites.  If you would like more information about advertisers’ use of tracking technologies and about your option not to accept them, you can go to .  To learn more about how interest-based information is collected, whether the companies we use are part of an industry network regarding behavioral advertising, or to know your choices about not having information used in this manner, you can go to  .  Some newer mobile device operating systems allow you to limit the use of information to deliver interest-based advertising in mobile applications. You can check the settings on your mobile Device for such options in your mobile Devices’ operating system. Alternatively, you may wish to download the TrustE mobile application and/or the Digital Alliance “App Choices” mobile application and follow the instructions provided.
+_With Service Providers_ As noted above, we may engage outside companies to help us develop, operate and improve the NHM Platform and help provide our Services to you. Those third-party service providers assist with the following: analyzing data, hosting data, engaging technical support, payment processing, delivering content, email distribution, and providing customer service.
 
-Please note that the opt-out is cookie-based and will only affect the specific computer or mobile application, and browser or operating system, on which the opt-out is applied. You can also accept or decline cookies through your browser settings. To learn more, please look at the cookie settings available in your specific web browser(s).
+_With Our Payment Processor_ If you are making a purchase, we will require you to provide financial information in order to process a payment from you. Our third-party payment processor will collect that information from you using SSL encryption. You should never provide detailed credit card information directly to us via an unsecure form, such as email.
 
-**_Browser “Do Not Track” Signals._ _  _**Some third party browsers provide “do not track” machine readable signals for websites, which are automatically applied by default and therefore do not necessarily reflect our visitors’ choice as to whether they wish to receive advertisements tailored to their interests.  As a result, we do not respond to these signals.
+_With Prize Sponsors_ If you provide personal information in order to enter a sweepstakes or contest, and you are selected as a winner, we will provide your information to our third-party prize sponsors/providers for the purposes of fulfilling your prize, and for the purposes of providing a winners list as required by law.
 
-### 4\. How We Use and Share Your Information
+_With Third Parties Providing Functionality_ We may work with third parties to provide certain functionalities on the Services and to improve the effectiveness of the Services and its content. These third-party companies may also use Tracking Technologies to independently collect and store information about you and your usage of the Services and may combine this information with information they collect from other sources. Please note, we do not control Tracking Technologies used by third parties, and their use may be governed by the privacy policies of the third parties employing the Tracking Technologies.
 
-**_Our Use of Information._   **We may use information that we collect about you (1) to respond to your requests; (2) to fulfill orders; (3) to provide customer service; (4) to administer surveys, sweepstakes or other promotions; (5) to improve and customize our Services; (6) to provide information to a third party at your request; (7) to give you information about your account or our Services; (8) for internal business purposes; (9) for purposes disclosed at the time you provide your information, or (10) as otherwise set forth in this Privacy Policy.
+_With Mobile Carriers_ If you access the Services through a mobile device or mobil app, we may also share your information with mobile carriers, operating systems and platforms.
 
-**_Service Providers._  ** We may disclose information to our third party service providers in order to monitor the activity of the Services, conduct surveys, administer contests or sweepstakes, send marketing communications, and provide other Services to you, such as customer service.
+_As Required by Law_ NHM may release information if it is required to do so by law or in the good-faith belief that such action is necessary to: (1) comply with the law or comply with legal process served on NHM; (2) protect and defend the legitimate business interests, rights or property of NHM, its users, advertisers, customers, sponsors, advertisers or affiliates; and (3) if we believe your actions are inconsistent with our Terms of Use or policies.
 
-**_Process Payments._**   Information may be disclosed to process credit/debit card transactions, which are handled by established third party banking, processing agents and distribution institutions.  They receive the information needed to verify and authorize your credit card or other payment information and to process your order.  In addition, we may disclose information to third parties to verify the authenticity of any financial transaction involving our company or its affiliates or to update your billing information.
+_With Advertising Partners_ We may partner with third-party advertising networks and exchanges to display advertising on our Websites or to manage and serve our advertising on other sites and may share personal information with them for this purpose. Please see Your Choices / How To Opt Out section below.
 
-**_Co-branded Areas._ _  _**Certain areas on our Services may be provided to you in association with third parties who provide us with specialized content (“Co-Branded Areas”).  Such Co-Branded Areas will identify the third party.  If you elect to register for the products and/or services provided at these Co-Branded Areas, you either will be providing your personal information to both us, or we might be providing your personal information directly to the third party.  Your personal information will be subject to this Privacy Policy as well as the privacy policy and practices of such third party.  We are not responsible for the privacy practices of those third parties and we suggest you review the respective privacy policies of those third parties to learn more about their privacy practices.
+_Organizational Changes_ Should NHM undergo a sale, merger, consolidation, change in control, transfer of substantial assets, reorganization or liquidation, NHM’s accumulated customer information will be treated as an asset and, like other business assets, subject to transfer to or acquisition by a third party. We may also disclose information about our users in connection with a commercial transaction where we, or any one of our businesses, is seeking financing, investment, support or funding.
 
-**_Mobile Data._  ** When you access the Services on a mobile Device, we may use the information collected for any purpose set forth in this Privacy Policy.  For example, we may use the information internally or in conjunction with our third parties to provide you with location-based Services, such as advertising, search results, and other personalized content that may be relevant to you.
+_With Your Consent or at Your Direction_
 
-**_Analyze and Aggregate Non-Personal Information._**   We use aggregate or non-personal information about our users to analyze our Services and user behavior and prepare reports which we may share with third parties.
+### HOW YOU CAN ACCESS YOUR INFORMATION
 
-**_Promotional Communications._   We do not share the names of visitors to our websites, nor do we sell our subscriber or emails lists to any individual or organization  **However, we may use your contact information to send you electronic updates and communications about our products and services or other promotional communications, such as newsletters, emails, or special offers (“Promotional Communications”).  If you wish to opt-out of receiving Promotional Communications from us you may follow the instructions in Section 6 Choice and Opt-Out, set forth below.
+  
+You may access, correct, or update the information you have provided to us. NHM takes reasonable steps to ensure that the data we collect is reliable for its intended use, accurate, complete and up to date. You can update your account information by emailing us at [privacy@additudemag.com](mailto:privacy@additudemag.com). You may also contact us at any time by using the contact details provided in How to Contact Us section below. 
 
-**_Information from Other Sources._  ** The information we collect may be combined with information from outside records (e.g., demographic, navigation, and additional contact information) that we have acquired in accordance with the law.  We may also acquire information from other sources about your visits over time and across other third party websites, in order to serve targeted advertising to you on the Services.
+If you are a visitor based in the EEA please see the Additional Notice to Residents of the European Economic Area below for your data protection rights.
 
-**_Legal Matters; Safety._   **We may, without your consent, access and disclose your information, any communications sent or received by you, and any other information that we may have about you or your account as may be permitted or required by law (including, but not limited to court order or subpoena), or to prevent or investigate suspected fraud, violations of our Terms, or activity that appears to us to be illegal or may expose us to legal liability.  Additionally, we may disclose your information in situations that we believe may involve potential threats to the physical safety of any person or property.
+### YOUR CHOICES / HOW TO OPT OUT
 
-**_Sale or Transfer of Business or Assets._   **If ADDitude or Adoptive Families or any of its affiliated companies or businesses is sold or disposed of as a going concern, whether by merger, sale of assets or otherwise, or in the event of an insolvency, bankruptcy or receivership, information of our users may be one of the assets sold or merged in connection with that transaction.  Information about our users may also be disclosed in connection with a commercial transaction where we are or any one of our businesses is seeking financing, investment, and support or funding.
+#### Opting Out of Email
 
-**_Transactional Communications._  ** We may use your information to send you notices from time to time relating to your account or your purchases.  These may include order confirmations, invoices or customer service notifications.  We may also send you Service-related announcements when it is necessary to do so; for instance, if our Service is temporarily suspended for maintenance, or the delivery of a product is delayed or there are policy changes.
+  * Opt-out Links. Any recipient of email promotional messages may opt out of receiving them at any time. To opt out of receiving promotional emails, follow the unsubscribe instructions located near the bottom of each promotional email. 
+  * You may also opt out of receiving promotional emails from us by emailing us at privacy@additudemag.com.
+  * Transactional Emails. We may send you transactional emails such as those relating to your account, your purchases, subscriptions, or entries in our sweepstakes or contests. Please note that even if you opt out of receiving promotional communications by email, we may continue to send you transactional or administrative communications.
 
-### 5\. Accessing and Managing Your Personal Information
 
-We believe it is important for you to be able to access and manage your account and the information you have provided to us and make choices about how it is used.  To inquire about or update your information, or change your preferences, you may contact customer service at customerservice@additudemag.com or call us at (646)366-0830.
 
-If you have a registered account, you may change your preferences by logging in to your profile and making updates.
+#### Turning Off Tracking Technologies
 
-You may also contact us by mail as set forth in Section 8 below.
+You can choose to have your computer warn you each time a persistent or session cookie is being sent, or you can choose to turn off such cookies through your browser settings. Each browser is a little different, so look at your browser’s Help menu to learn the correct way to modify your cookies. Cookie management tools provided by your browser may not disable HTML5 storage. To learn more about HTML5 storage, see our Cookies Notice. It is important to remember that many of NHM’s services may not function properly if your cookies are disabled. For example, NHM needs first-party cookies to log you in to the Services that require registration. In that case, you may set your browser to block third-party cookies and allow NHM’s first-party cookies only.
 
-### 6\. Choice and Opt-Out
+#### Google Analytics
 
-**_Opting Out of Promotional Messages:_**
+Google is one of the companies that we use to serve advertising and perform analytics on some of the Services. When you access the Services, our third-party vendors, including Google, use third-party cookies (such as the Google DoubleClick cookie) to serve you ads based on your previous visit to our Websites and other websites. To learn about Google Analytics’ currently available opt-outs for the Web, go to <https://tools.google.com/dlpage/gaoptout/>. To learn more about how Google uses cookies in advertising, you can visit the [Google Advertising Privacy & Terms policy](https://policies.google.com/technologies/ads). You can opt out of receiving interest-based Google ads, or customize the ads Google shows you go to <https://adssettings.google.com/u/0/authenticated>.
 
-**_Email._**  If you wish to opt-out of receiving Promotional Communications from us, you may click the unsubscribe link in the footer of any email.  If for any reason the footer has been cut off by a third party email service (e.g., gmail) or you wish to email us send an email to customerservice@additudemag.com with “Unsubscribe from Email” in the subject line. Please be sure to provide us with the email address you wish to opt-out.
+#### “Do Not Track” Signals
 
-**_Interest Based Ads._ ** Please refer to Section 3 for opt-out information.
+Some third-party browsers provide “do not track” machine readable signals for websites which are automatically applied by default and therefore do not necessarily reflect our visitor’s choice as to whether they wish to receive advertisements tailored to their interests. As a result, at this time, NHM does not respond to browser “do not track” signals or other similar mechanisms. Go to [http://www.networkadvertising.org](http://www.networkadvertising.org/) or [http://www.aboutads.info](http://www.aboutads.info/) if you wish to learn more about your options to not accept tracking cookies for the purpose of receiving targeted interest-based advertisements. Please note that the opt out is cookie-based and will only affect the specific computer and browser on which the opt-out is applied.
 
-**_Transactional Messages._**   You may not opt-out of transactional or administrative e-mails, for example e-mails about your account, subscriptions, transactions or policy changes).
+### HOW WE KEEP YOUR INFORMATION SECURE
 
-**_Timing and Third Parties._**  We will endeavor to comply with your request for changes as soon as reasonably possible. Unless required by law, we are not responsible for informing third parties with whom we have already shared your information of any changes requested pursuant to this section, or for removing information from or causing information to be removed from the databases or records of such entities.
+To help prevent unauthorized access, maintain data accuracy, and ensure the appropriate use of information, we have put in place appropriate technical, organizational, physical, electronic, and managerial procedures designed to protect the information under our control. We use third-party hosting providers that use specific security measures such as network intrusion protection, automated https, and secure datacenters. The measures we and our hosting providers use are designed to provide a level of security appropriate to the risk of processing your personal information. However, despite our efforts, no system can completely guaranty that there will never be unauthorized access to your personal information.
 
-### 7\. Important Disclosures, Practices, and Contact Information
+### ADDITIONAL NOTICE IF YOU ARE LOCATED IN THE EUROPEAN ECONOMIC AREA (EEA)
 
-**_Links to Other Sites._**   Our Services may utilize hyperlinks to access third party sites, which are not controlled by us and, therefore, are not subject to this Privacy Policy.  We recommend that you check the privacy policies of those third party sites to determine how the proprietors of those sites will utilize your information.
+#### Legal Basis
 
-**_Security_. ** We implement security measures to protect against the loss, misuse and alteration of personal information under our control.  We use “Secure Socket Layers” or SSL to protect your personal information when collecting and transmitting your billing information to our payment processor.  However, despite our efforts, no system can completely guaranty that there will never be unauthorized access to your personal information, and your use of our Services indicates that assume this risk.
+If you are a visitor from the EEA, our legal basis for collecting and using the personal information described in this Privacy Policy will depend on the personal information concerned and the specific context in which we collect it. 
 
-**_Storage and Retention._  ** Information that you provide to us in the course of requesting a product or service through the Services may be gathered and stored in one or more of our corporate databases. Your personal information is stored for the length of time you have an account and for legitimate business purposes as disclosed in this Privacy Policy. **_ _** We may retain some information from closed accounts so that we can comply with law, prevent fraud, assist with investigations, resolve disputes, analyze or troubleshoot programs, enforce our Terms of Use, or take other actions permitted by law.  If your account is terminated or suspended, we may also maintain some information to prevent re-registration.
+However, we will normally collect personal information from you only (i) where we need the personal information to perform a contract with you, (ii) where the processing is in our legitimate interests and not overridden by your rights, or (iii) where we have your consent to do so.
 
-**_A Note to International Users._**   The Services are hosted in the United States.  If you are using the Services from outside the United States, you are consenting to the transfer of your information to the United States for processing and maintenance in accordance with this Privacy Policy and our Terms.  You are also consenting to the application of United States law and New York state law in all matters concerning the Services.
+If we collect and use your personal information in reliance on our legitimate interests (or those of a third party), this interest will normally be to operate our services and communicate with you as necessary to provide our services and targeted content to you and for our legitimate commercial interest, for instance, when responding to your queries, improving the services we offer, or for the purposes of detecting or preventing illegal activities.
 
-**_Children’s Privacy._  ** The Services are directed to an adult audience.  We do not knowingly collect personal information from individuals under 18 years of age and, if we obtain actual knowledge that a user is under 18 years of age, we will take steps to remove that user’s personal information from our systems.
+If you have any questions about or need further information concerning the legal basis on which we collect and use your personal information, please contact us using the contact details provided in the How to Contact Us section below.
 
-**_Changes to our Privacy Policy._  ** We may change this Privacy Policy from time to time.  You agree that we may notify you about material changes in the way we treat information by providing you with written notice, placing a notice on the Services or by posting the most recent version of the Privacy Policy on the Services, with the “Effective Date” posted at the top.  You should check the Services frequently for updates.  By accessing the Services after the Effective Date, you are deemed to consent to our then-current privacy policy.
+#### EEA Data Protection Rights
 
-**_Disputes._   **If you choose to visit the Services, your visit and any dispute over privacy is subject to this Privacy Policy and our Terms including arbitration, limitations on damages, resolution of disputes, and application of the laws of the United States and the state of New York.
+If you are located in the EEA, you have the following data protection rights: 
 
-### 8\. Contacting Us
+  * You may request access to or ask us to correct, update or delete your personal information. You can update account information by contacting us using the contact details provided under the How to Contact Us section below. We will consider your request in accordance with applicable laws. 
+  * In addition, you can object to processing of your personal information, ask us to restrict processing of your personal information, or request portability of your personal information. Again, you can exercise these rights by contacting us using the contact details provided under the How to Contact Us section below. 
+  * If we have collected and process your personal information with your consent, then you can withdraw your consent at any time. Withdrawing your consent will not affect the lawfulness of any processing we conducted prior to your withdrawal, nor will it affect processing of your personal information conducted in reliance on lawful processing grounds other than consent.
+  * You have the right to complain to a data protection authority about our collection and use of your personal information. For more information, please contact your local data protection authority. 
 
-If you have any questions, comments or concerns about this Privacy Policy or our privacy practices email us at privacy@additudemag.com, call customer service at (646) 366-0830 or write to us at: New Hope Media, 108 W. 39th St. Suite 805, New York NY 10018.
 
-When contacting us, please include your full name, address, phone number, and email address, and indicate the specific nature of your request.
 
-Copyright © 2017 New Hope Media, LLC.  All rights reserved.
+We respond to all requests we receive from individuals wishing to exercise their data protection rights in accordance with applicable data protection laws. We may ask you to verify your identity in order to help us respond efficiently to your request. 
 
-#### [Information Regarding Tracking Technologies](https://web.archive.org/contact-us/privacy-policy/tracking-technologies/)
+#### International Data Transfers
+
+The Services are operated in the United States. If you are located anywhere outside of the United States (including in the EEA), please be aware that information we collect, including personal information, will be transferred to, processed and stored in the United States. The data protection laws in the United States may differ from those of the country in which you are located, and your personal information may be subject to access requests from governments, courts, or law enforcement in the United States according to the laws of the United States. However, we have taken appropriate safeguards to require that your personal information will remain protected in accordance with this Privacy Policy. 
+
+### HOW LONG DO WE RETAIN YOUR INFORMATION
+
+We retain personal information we collect from you where we have an ongoing legitimate business need to do so. For example, we retain information in order to provide you with services, to comply with applicable legal, tax or accounting requirements and to enforce our agreements, prevent fraud, assist with investigations, resolve disputes, analyze or troubleshoot programs, enforce our terms of use, or take other actions permitted by law. We may also retain information to create an archival copy of your information, which might be used by us for recordkeeping and internal purposes.
+
+### CHANGES TO THIS PRIVACY POLICY
+
+From time to time, NHM may update its Privacy Policy to address changes in the law or our privacy practices. We will notify you about material changes by placing a notice on the Websites or by posting the most recent version of the Privacy Policy on the Websites, with the “Last Updated” date posted at the top. we recommend you check the Websites frequently for updates. 
+
+### DISPUTE RESOLUTION / ARBITRATION / LIMITATION OF LIABILITY
+
+If you choose to use the Services, any dispute over privacy is subject to this Privacy Policy and our Terms of Use including arbitration, limitations on damages, resolution of disputes, and application of the laws of the United States, the Federal Arbitration Act or the State of California as stated in the Terms of Use.
+
+### HOW TO CONTACT US
+
+If you have any questions or comments or you have a concern about the way in which we have handled any privacy matter, please contact us using the details below. 
+
+[privacy@additudemag.com](mailto:privacy@additudemag.com)
+
+New Hope Media, LLC  
+108 West 39th Street, Suite 805  
+New York, NY. 10018  
+Attention: Privacy administrator
+
+Copyright © 2018 New Hope Media, LLC. All rights reserved.
