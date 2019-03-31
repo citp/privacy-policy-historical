@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the macxdvd.com privacy policy that was archived on 2018-08-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180819113420id_/https%3A//www.macxdvd.com/company/privacy-policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the macxdvd.com privacy policy that was archived on 2019-03-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190331234938id_/https%3A//www.macxdvd.com/company/privacy-policy.htm) for the most accurate reproduction.*
 
 # MacXDVD Software Privacy Policy
 
