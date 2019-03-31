@@ -1,10 +1,8 @@
-> *The following text is extracted and transformed from the sheerluxe.com privacy policy that was archived on 2018-11-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181109193520id_/https%3A//sheerluxe.com/privacy-cookie-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sheerluxe.com privacy policy that was archived on 2019-03-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190331082750id_/https%3A//sheerluxe.com/privacy-cookie-policy) for the most accurate reproduction.*
 
 # Privacy Policy & Cookies | sheerluxe.com
 
-**For the privacy policies regarding current competition['Win The Ultimate Style Bundle Worth £1,000'](https://sheerluxe.com/2018/11/win-ultimate-style-bundle-worth-%C2%A31000) scroll to section 5**
-
- **PRIVACY NOTICE**    
+**PRIVACY NOTICE**    
 Data privacy is very important to SheerLuxe Ltd (“ **SheerLuxe** ”), we want to be open and transparent about our processing of your personal data.
 
  This is why we have a Privacy Policy (“the **Policy** ”) that establishes how your personal data will be processed and protected.
@@ -79,14 +77,6 @@ We will process your data when you enter our competitions. Your personal data wi
  The processing of your personal data is based on the consent you provide when you choose to enter a competition.
 
  Data that is forwarded to third parties, is only used to provide you with relevant marketing.
-
-For the current competition '[Win The Ultimate Style Bundle Worth £1,000](https://sheerluxe.com/2018/11/win-ultimate-style-bundle-worth-%C2%A31000)' please see the below privacy policies
-
-HQhair: [https://www.hqhair.com/articles/privacy-policy.list](https://www.hqhair.com/articles/privacy-policy.list)  
-Lookfantastic: [https://www.lookfantastic.com/info/privacy-policy.list](https://www.lookfantastic.com/info/privacy-policy.list)  
-Glossy Box: [https://www.glossybox.co.uk/info/privacy-policy.list](https://www.glossybox.co.uk/info/privacy-policy.list)  
-Beauty Expert:[https://www.beautyexpert.com/articles/customer-services/privacy-policy.list](https://www.beautyexpert.com/articles/customer-services/privacy-policy.list)  
- 
 
   1. **SheerLuxe VIP**
 
