@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the babyvote.com privacy policy that was archived on 2016-11-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161113091850id_/https%3A//www.babyvote.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the babyvote.com privacy policy that was archived on 2019-03-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190331011405id_/https%3A//www.babyvote.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy and Cookie Policy - Cutest Baby November 2016 - BabyVote
+# Privacy Policy and Cookie Policy - Cutest Baby March 2019 - BabyVote
 
 No purchase necessary. This promotion is in no way sponsored, endorsed or administered by, or associated with, Facebook. You are providing your information to Pandere Limited, not to Facebook. If you click "Go to App" in the Request for Permission window that appears after you click the enter button, you will be providing ongoing consent to the BabyVote application, which may offer other sweepstakes and contests in addition to this one. You may change this consent at any time through your Facebook Privacy Settings.
 
