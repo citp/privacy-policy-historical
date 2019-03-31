@@ -1,58 +1,103 @@
-> *The following text is extracted and transformed from the magazinemanager.com privacy policy that was archived on 2017-08-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170802153544id_/http%3A//www.mirabeltechnologies.com/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the magazinemanager.com privacy policy that was archived on 2019-03-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190331223245id_/http%3A//www.mirabeltechnologies.com/privacy-statement) for the most accurate reproduction.*
 
 # Privacy Statement
 
-This privacy policy sets out how Mirabel Technologies uses and protects any information that you give Mirabel Technologies when you use this website.
+Mirabel Technologies is committed to the privacy and security of our client’s data.  As a partner in your business, we know that trust is vital to our working relationship. By extension, we are fully aware and deeply respect the same relationship you have with your customers. We have taken and will continue to take every step possible to ensure that all data is kept private and that you are in control of your data at all times.
 
-Mirabel Technologies is committed to ensure that your privacy is protected. Should we ask you to provide certain information by which you can be identified when using this website; you can be assured that it will only be used in accordance with this privacy statement.
+This document will serve to outline our privacy policy and the steps we take to make sure that your right to privacy is held sacred with regards to our working relationship. We will update this policy from time to time to ensure that we keep up with new regulations, trends and also push for your right to privacy beyond what is mandated or standard within our industries.
 
-Mirabel Technologies may change this policy from time to time by updating this page. You should check this page from time to time to ensure that you are happy with any changes. This policy is effective from January 1, 2012.[](https://web.archive.org/contact)
+To stay on top of any relevant updates to policies and offerings, please subscribe to our newsletter for periodic updates on any new developments by clicking here and providing an email you where you would like to receive these updates.
 
- **What we collect**[](https://web.archive.org/contact)
+#### 1\. When and where do we collect data?
 
-We may collect the following information:[](https://web.archive.org/contact)
+a. When you visit our website
 
-  * Name and job title
-  * Contact information including email address
-  * Other information relevant to customer surveys and/or offers
+b. At industry trade events
 
+c. Interactions with our marketing communications
 
+d. Lead forms and registrations for demos and/or events
 
- **What we do with the information we gather**[](https://web.archive.org/contact)
+e. Communications via ticketing system
 
-We require this information to understand your needs and provide you with a better service, and in particular for the following reasons:[](https://web.archive.org/contact)
+#### 2\. Our role as data processor
 
-  * Internal record keeping.
-  * We may use the information to improve our products and services.
-  * We may periodically send promotional emails about new products, special offers or other information which we think you may find interesting using the email address which you have provided.
-  * From time to time, we may also use your information to contact you for market research purposes. We may contact you by email, phone, fax or mail. We may use the information to customize the website according to your interests.
+a. Mirabel Technologies serves as a Data Processor to help your storage, analysis, organization and other activities related to the data you collect on clients and prospective clients. We maintain security and do not share the data you enter into our system with outside entities unless compelled by law to do so.
 
+b. Clients of our software serve as Data Controllers and are responsible for adhering to accepted privacy practices and all regulation covering data privacy to remain in good standing with our company and relevant regulators
 
+c. We serve as data controller for our own direct client’s info relevant to the proper service of our software and to ensure that you have an ideal experience. 
 
- **Security**[](https://web.archive.org/contact)
+#### 3\. Personal data we collect
 
-We are committed to ensuring that your information is secure. In order to prevent unauthorized access or disclosure, we have put in place suitable physical, electronic and managerial procedures to safeguard and secure the information we collect online.[](https://web.archive.org/contact)
+a. Mirabel will collect data submitted via various forms (digital and/or physical), emails, tickets submitted for customer service and will also document information discussed in phone, in person and digital communications that are relevant to ensuring proper service
 
- **How we use cookies**[](https://web.archive.org/contact)
+b. Mirabel also maintains a database of information from publicly available sources to help us better identify current and prospective clients and anticipate their needs
 
-A cookie is a small file which asks permission to be placed on your computer's hard drive. Once you agree, the file is added and the cookie helps analyze web traffic or lets you know when you visit a particular site. Cookies allow web applications to respond to you as an individual.[](https://web.archive.org/contact)
+c. Mirabel also employs tracking technology on our various websites and digital marketing channels that includes, but is not limited to, cookies, web beacons, IP address lookup and other tracking and identification technology
 
-We use traffic log cookies to identify which pages are being used. This helps us analyze data about web page traffic and improve our website in order to tailor it to customer needs. We only use this information for statistical analysis purposes and then the data is removed from the system.[](https://web.archive.org/contact)
+d. All of the information we collect as a data controller is solely owned by Mirabel Technologies and held in a secure fashion in full accordance with all local laws and customs.
 
-Overall, cookies help us provide you with a better website, by enabling us to monitor which pages you find useful and which you do not. A cookie in no way gives us access to your computer or any information about you, other than the data you choose to share with us.[](https://web.archive.org/contact)
+#### 4\. Device and usage data
 
-You can choose to accept or decline cookies. Most web browsers automatically accept cookies, but you can usually modify your browser setting to decline cookies if you prefer. This may prevent you from taking full advantage of the website.[](https://web.archive.org/contact)
+a. Mirabel takes great care to gain a better understanding of our client’s needs by tracking interactions across multiple digital and physical channels to create a cohesive customer service experience by employing tracking tools and integrating multiple marketing and direct communications channels into one profile based system for individualized comprehensive histories of client interactions
 
- **Links to other websites**[](https://web.archive.org/contact)
+b. We also offer the ability to clients to cohesively track usage and interactions across channels in one profile to our clients via The Marketing Manager
 
-Our website may contain links to other websites of interest. However, once you have used these links to leave our site, you should note that we do not have any control over that other website. Therefore, we cannot be responsible for the protection and privacy of any information which you provide whilst visiting such sites and such sites are not governed by this privacy statement. You should exercise caution and look at the privacy statement applicable to the website in question.[](https://web.archive.org/contact)
+c. In both cases, the data collected is the sole property of the respective Data Controller unless prohibited by applicable law
 
- **Controlling your personal information**[](https://web.archive.org/contact)
+d. In all cases where we track and store data and interactions. The data will be treated in accordance with our security policy and any applicable laws.
 
-You may choose to restrict the collection or use of your personal information in the following ways:[](https://web.archive.org/contact)
+#### 5\. EU based clients and customers
 
-\- If you have previously agreed to us using your personal information for direct marketing purposes, you may change your mind at any time by writing to or emailing us at [info@mirabeltechnologies.com](mailto:info@mirabeltechnologies.com)[](https://web.archive.org/contact)
+a. GDPR adoption in the EU affects our ability to comply with applicable laws and provide the same cohesive experience for clients. 
 
-We will not sell, distribute or lease your personal information to third parties unless we have your permission or are required by law to do so. We may use your personal information to send you promotional information about third parties which we think you may find interesting if you tell us that you wish this to happen.[](https://web.archive.org/contact)
+b. We are fully GDPR compliant and offer any client or prospect the relevant controls over their data that can be exercised by sending an email to Privacy@mirabeltechnologies.com
 
-If you believe that any information we are holding on you is incorrect or incomplete, please write to or email us as soon as possible, at the above address. We will promptly correct any information found to be incorrect.[](https://web.archive.org/contact)
+#### 6\. Sharing of personal data
+
+a. Any data collected and as a client will be your sole property and will not be shared unless compelled to do so by law
+
+b. We share our proprietary database via The Marketing Manager product with any clients of said product. This consists of information found via publicly available records and does not include any interaction data.
+
+c. All interaction data compiled by any client of The Marketing Manager remains that clients possession unless prohibited by applicable law
+
+d. Where applicable, we use retargeting tools to send ads via exchange networks to prospective clients who have expressed interest in our product by visiting our website
+
+e. At times, registration for events, webinars, email blasts and other promotional offerings may be shared with our partners who provide such events and will be expressly communicated at the time of data collections.
+
+#### 7\. Your rights regarding your data
+
+a. Your rights to delete, modify, move or take possession of the data we collect will be provided in accordance with applicable law. These rights may include, but are not limited to:
+
+i. Access your personal data
+
+ii. Correct any inaccuracies in personal data
+
+iii. Erase all record of personal data
+
+iv. Restrict access to personal data
+
+v. Transfer personal data
+
+#### 8\. Sensitive data
+
+a. Financial information may be collected for the purposes of billing our software and services
+
+b. All financial processing data, including credit card numbers, are made anonymous and inaccessible for us once we pass the info to the appropriate 3rd party billing company
+
+c. Mirabel maintains no digital records of credit card or other sensitive billing information
+
+d. Data collected on minors that visit our marketing channels is governed by applicable laws and may include a total and complete exclusion of any data collections where applicable
+
+We are striving to always provide our clients with the best possible service and to also help our clients do the same for their own customers, readers and prospective advertisers. We are committed to only collecting data that will help in this process while simultaneously safeguarding that data against any possible data breaches.  We will work tirelessly and in conjunction with any partners to ensure that your data is held privately and securely. Please contact us with any questions or feedback regarding our policies and procedures for data privacy.
+
+Contact info:
+
+Mirabel Technologies
+
+Privacy@mirabeltechnologies.com
+
+(954) 462-4579
+
+1401 E Broward Blvd #206, Fort Lauderdale, FL 33301
