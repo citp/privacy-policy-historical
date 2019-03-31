@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the komarketingassociates.com privacy policy that was archived on 2017-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170620201504id_/https%3A//komarketing.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the komarketingassociates.com privacy policy that was archived on 2019-03-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190331011650id_/https%3A//komarketing.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | KoMarketing
 
@@ -14,6 +14,6 @@ We do use third-party web beacons from Google to help analyze where visitors go 
 
 If you have any other questions about how we use your information please [contact us.](https://komarketing.com/contact/)
 
-> “With other agencies, the tendency is to see a flurry of work initially, and then communication and accountability starts to fall off. Our KoMarketing account team is in contact with us almost daily – it’s like they’re sitting right here in our office. They’re truly an extension of our marketing team.”
+> “The team at KoMarketing was great at listening to our organization’s needs to ensure they were on the same page with goals and objectives. They provided a clear path for getting to desired results, were fast and flexible when adjustments were needed and above all else, provided the highest level of client service. KoMarketing is a pleasure to partner with!”
 
 ## Latest Blog Posts & News
