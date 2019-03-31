@@ -1,11 +1,6 @@
-> *The following text is extracted and transformed from the daraz.com.bd privacy policy that was archived on 2017-09-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170914182120id_/https%3A//www.daraz.com.bd/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the daraz.com.bd privacy policy that was archived on 2019-04-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190401011116id_/https%3A//www.daraz.com.bd/wow/i/bd/help-pages/privacy-policy%3Fhybrid%3D1%26scm%3D1003.4.icms-zebra-100022982-2888463.OTHER_5476361489_2538033) for the most accurate reproduction.*
 
-# Privacy Statement - Daraz
-
-  
-
-
-* * *
+# Privacy Policy Online | Daraz.com.bd
 
 Welcome to the daraz.com.bd website (the "Site") operated by Daraz Bangladesh Ltd. We respect your privacy and want to protect your personal information. To learn more, please read this Privacy Policy.
 
@@ -17,9 +12,10 @@ We will only keep your information for as long as we are either required to by l
 
 You can visit the Site and browse without having to provide personal details. During your visit to the Site you remain anonymous and at no time can we identify you unless you have an account on the Site and log on with your user name and password.
 
-## 1\. Data that we collect
+  
 
-* * *
+
+#### 1\. Data that we collect
 
 We may collect various pieces of information if you seek to place an order for a product with us on the Site. 
 
@@ -31,9 +27,10 @@ We may pass your name and address on to a third party in order to make delivery 
 
 Your actual order details may be stored with us but for security reasons cannot be retrieved directly by us. However, you may access this information by logging into your account on the Site. Here you can view the details of your orders that have been completed, those which are open and those which are shortly to be dispatched and administer your address details, bank details ( for refund purposes) and any newsletter to which you may have subscribed. You undertake to treat the personal access data confidentially and not make it available to unauthorized third parties. We cannot assume any liability for misuse of passwords unless this misuse is our fault. 
 
-## Other uses of your Personal Information
+  
 
-* * *
+
+#### Other uses of your Personal Information
 
 We may use your personal information for opinion and market research. Your details are anonymous and will only be used for statistical purposes. You can choose to opt out of this at any time. Any answers to surveys or opinion polls we may ask you to complete will not be forwarded on to third parties. Disclosing your email address is only necessary if you would like to take part in competitions. We save the answers to our surveys separately from your email address.
 
@@ -41,36 +38,41 @@ We may also send you other information about us, the Site, our other websites, o
 
 We may further anonymize data about users of the Site generally and use it for various purposes, including ascertaining the general location of the users and usage of certain aspects of the Site or a link contained in an email to those registered to receive them, and supplying that anonymized data to third parties such as publishers. However, that anonymized data will not be capable of identifying you personally. 
 
-## Competitions
+  
 
-* * *
+
+#### Competitions
 
 For any competition we use the data to notify winners and advertise our offers. You can find more details where applicable in our participation terms for the respective competition.
 
-## Third Parties and Links
+  
 
-* * *
+
+#### Third Parties and Links
 
 We may pass your details to other companies in our group. We may also pass your details to our agents and subcontractors to help us with any of our uses of your data set out in our Privacy Policy. For example, we may use third parties to assist us with delivering products to you, to help us to collect payments from you, to analyze data and to provide us with marketing or customer service assistance. 
 
 We may exchange information with third parties for the purposes of fraud protection and credit risk reduction. We may transfer our databases containing your personal information if we sell our business or part of it. Other than as set out in this Privacy Policy, we shall NOT sell or disclose your personal data to third parties without obtaining your prior consent unless this is necessary for the purposes set out in this Privacy Policy or unless we are required to do so by law. The Site may contain advertising of third parties and links to other sites or frames of other sites. Please be aware that we are not responsible for the privacy practices or content of those third parties or other sites, nor for any third party to whom we transfer your data in accordance with our Privacy Policy.
 
-## 2\. Cookies
+  
 
-* * *
+
+#### 2\. Cookies
 
 The acceptance of cookies is not a requirement for visiting the Site. However we would like to point out that the use of the 'basket' functionality on the Site and ordering is only possible with the activation of cookies. Cookies are tiny text files which identify your computer to our server as a unique user when you visit certain pages on the Site and they are stored by your Internet browser on your computer's hard drive. Cookies can be used to recognize your Internet Protocol address, saving you time while you are on, or want to enter, the Site. We only use cookies for your convenience in using the Site (for example to remember who you are when you want to amend your shopping cart without having to re-enter your email address) and not for obtaining or using any other information about you (for example targeted advertising). Your browser can be set to not accept cookies, but this would restrict your use of the Site. Please accept our assurance that our use of cookies does not contain any personal or private details and are free from viruses. If you want to find out more information about cookies, go to http://www.allaboutcookies.org or to find out about removing them from your browser, go to http://www.allaboutcookies.org/manage-cookies/index.html. 
 
 This website uses Google Analytics, a web analytics service provided by Google, Inc. ("Google"). Google Analytics uses cookies, which are text files placed on your computer, to help the website analyze how users use the site. The information generated by the cookie about your use of the website (including your IP address) will be transmitted to and stored by Google on servers in the United States. Google will use this information for the purpose of evaluating your use of the website, compiling reports on website activity for website operators and providing other services relating to website activity and internet usage. Google may also transfer this information to third parties where required to do so by law, or where such third parties process the information on Google's behalf. Google will not associate your IP address with any other data held by Google. You may refuse the use of cookies by selecting the appropriate settings on your browser, however please note that if you do this you may not be able to use the full functionality of this website. By using this website, you consent to the processing of data about you by Google in the manner and for the purposes set out above.
 
-## 3\. Security
+  
 
-* * *
+
+#### 3\. Security
 
 We have in place appropriate technical and security measures to prevent unauthorized or unlawful access to or accidental loss of or destruction or damage to your information. When we collect data through the Site, we collect your personal details on a secure server. We use firewalls on our servers. Our security procedures mean that we may occasionally request proof of identity before we disclose personal information to you. You are responsible for protecting against unauthorized access to your password and to your computer. 
 
-## 4\. Your rights
+  
 
-* * *
+
+#### 4\. Your rights
 
 If you are concerned about your data you have the right to request access to the personal data which we may hold or process about you. You have the right to require us to correct any inaccuracies in your data free of charge. At any stage you also have the right to ask us to stop using your personal data for direct marketing purposes.
