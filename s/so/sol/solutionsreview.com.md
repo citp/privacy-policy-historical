@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the solutionsreview.com privacy policy that was archived on 2018-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181203001845id_/https%3A//solutionsreview.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the solutionsreview.com privacy policy that was archived on 2019-03-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190331184125id_/https%3A//solutionsreview.com/privacy-policy) for the most accurate reproduction.*
 
 # Solutions Review Privacy Policy
 
@@ -10,13 +10,13 @@ This Privacy Notice sets out how we may use, process and store your personal inf
 
 You are being presented this Privacy Policy because you are visiting a website (the “Website”) that is either (a) owned and operated by LeadSpark, Inc. d/b/a Solutions Review (“Solutions Review”) or (b) includes content, including but not limited to registration and other forms, owned by Solutions Review or drawn from a website owned and operated by Solutions Review. Solutions Review is committed to protecting the privacy of our visitors’ personally identifiable information. The following privacy policy (“Privacy Policy”) explains our online information practices, use of the information you provide us and the choices you can make about the way your information is used by Solutions Review. By using the Website and providing personally identifiable information about yourself, you do hereby consent to (1) our Terms of Use, (2) our collection, use, and sharing of data as described in this Privacy Policy; (3) the notice, choice, access, and security we are providing, as described above; and (4) the methods we have described to notify you of changes to this Privacy Policy.
 
- **SO THAT WE MAY ASSIST YOU WITH YOUR SOLUTION BUYERS GUIDE INQUIRY, PLEASE BE ADVISED THAT SOLUTIONS REVIEW MAY CHOOSE TO FURNISH THE INFORMATION YOU SUBMIT ON THE WEBSITE TO OUR WEBSITE SPONSORS WITHIN THE SOLUTION CATEGORY YOU HAVE SPECIFIED SO THAT THEY MAY CONTACT YOU ABOUT THEIR PRODUCTS, SERVICES, OFFERS, AND PROMOTIONS.   SOLUTIONS REVIEW WILL ONLY DO THIS WITHIN THE LEGAL REQUIREMENTS FOR CONSENT APPLICABLE TO THE COUNTRY YOU CHOOSE TO SELECT.**
+**SO THAT WE MAY ASSIST YOU WITH YOUR SOLUTION BUYERS GUIDE INQUIRY, PLEASE BE ADVISED THAT SOLUTIONS REVIEW MAY CHOOSE TO FURNISH THE INFORMATION YOU SUBMIT ON THE WEBSITE TO OUR WEBSITE SPONSORS WITHIN THE SOLUTION CATEGORY YOU HAVE SPECIFIED SO THAT THEY MAY CONTACT YOU ABOUT THEIR PRODUCTS, SERVICES, OFFERS, AND PROMOTIONS.   SOLUTIONS REVIEW WILL ONLY DO THIS WITHIN THE LEGAL REQUIREMENTS FOR CONSENT APPLICABLE TO THE COUNTRY YOU CHOOSE TO SELECT.**
 
 As a general rule, you will not be required to provide personally identifiable information as a condition to your browsing the Website. When such information is gathered, we will gather a limited scope of information from you that is necessary to facilitate the requests submitted by you, to improve this Website and your experience with the Website, and to make future visits to the Website easier and more personalized for you.
 
 * * *
 
- **WHAT INFORMATION IS COLLECTED AND HOW COLLECTED INFORMATION IS USED**
+**WHAT INFORMATION IS COLLECTED AND HOW COLLECTED INFORMATION IS USED**
 
 Users of the Website may browse without being obligated to submit any personal information; however, we may collect certain personally identifiable information from you in certain areas of the Website for certain purposes. These purposes include:
 
@@ -77,7 +77,7 @@ If you use a bulletin board or blog on the Website, you should be aware that any
 
 * * *
 
- **WHO IS COLLECTING THIS INFORMATION**
+**WHO IS COLLECTING THIS INFORMATION**
 
 We collect the user information described above by means of your use of the Website and the features of the Website. For example, information is collected in connection with online transactions, with the registration of users, and with the provision of information and/or services.
 
@@ -87,11 +87,11 @@ When you use the Website, you may be linked or directed to other third party sit
 
 * * *
 
- **WITH WHOM MAY THE INFORMATION BE SHARED**
+**WITH WHOM MAY THE INFORMATION BE SHARED**
 
- **PLEASE BE ADVISED THAT SOLUTIONS REVIEW MAY PROVIDE CERTAIN INFORMATION YOU SUBMIT ON THE WEBSITE TO THIRD PARTIES, INCLUDING, BUT NOT LIMITED TO, YOUR NAME, ADDRESS, PHONE NUMBER AND E-MAIL ADDRESS SO THAT THEY MAY CONTACT YOU ABOUT THEIR OWN OR OTHERS’ PRODUCTS, SERVICES, OFFERS AND PROMOTIONS.**
+**PLEASE BE ADVISED THAT SOLUTIONS REVIEW MAY PROVIDE CERTAIN INFORMATION YOU SUBMIT ON THE WEBSITE TO THIRD PARTIES, INCLUDING, BUT NOT LIMITED TO, YOUR NAME, ADDRESS, PHONE NUMBER AND E-MAIL ADDRESS SO THAT THEY MAY CONTACT YOU ABOUT THEIR OWN OR OTHERS’ PRODUCTS, SERVICES, OFFERS AND PROMOTIONS.**
 
- **SITE VISITORS FROM OUTSIDE THE US**
+**SITE VISITORS FROM OUTSIDE THE US**
 
 If you are visiting our Sites from outside the United States, you understand and agree that your Information may be transferred to, stored and used in the US where our servers are located and our central database is operated. While US data protection laws may not be as comprehensive as those in your country, we have taken steps in accordance with US law to ensure that your privacy is protected. By visiting our Sites or using our Services, you acknowledge and agree that your Information may be transferred to our US facilities and those third parties with whom we share it as described in this Privacy Policy.
 
@@ -101,38 +101,38 @@ The rights described in this section are subject to limitations and exceptions u
 
 * * *
 
- **LEGAL DISCLAIMER**
+**LEGAL DISCLAIMER**
 
 We reserve the right to disclose your personally identifiable information as required by law and when we believe that disclosure is necessary to protect our rights and/or comply with a judicial proceeding, court order, or legal process served on the Website.
 
- **CHILDREN’S PRIVACY**
+**CHILDREN’S PRIVACY**
 
 Solutions Review does not solicit personal information from children. We abide by the United States Children’s Online Privacy Protection Act and will not knowingly collect personally identifiable information from children under age 13. We recommend that parents actively participate in their children’s use of the Internet.
 
- **CHOICES YOU CAN MAKE ABOUT YOUR INFORMATION**
+**CHOICES YOU CAN MAKE ABOUT YOUR INFORMATION**
 
 We will give you an opportunity to opt-out of the gathering of your personally identifiable information, specific uses of your personally identifiable information, and any marketing promotions in accordance with the procedures set out in the section below, “Correcting and Changing Your Information.”
 
 In addition, you may opt-out of receiving any further e-mail from Solutions Review by clicking on the “unsubscribe” button in any Solutions Review e-mail. By adjusting the settings in your browser, you can refuse to accept cookies or give yourself the opportunity to accept or reject cookies, or receive notice of cookies. Software programs are available that block cookies. Refusing cookies may impinge or block altogether your user experience on the Website by eliminating personalization or other features.
 
- **CORRECTING OR CHANGING YOUR INFORMATION**
+**CORRECTING OR CHANGING YOUR INFORMATION**
 
- **I** f you wish to amend, correct, update, delete or opt-out of any information to which you have previously opted-in or wish to review information we have collected about you, please contact Solutions Review via e-mail at privacy@solutionsreview.com, and we will attend to your request and make any necessary revisions.
+**I** f you wish to amend, correct, update, delete or opt-out of any information to which you have previously opted-in or wish to review information we have collected about you, please contact Solutions Review via e-mail at privacy@solutionsreview.com, and we will attend to your request and make any necessary revisions.
 
 This provision applies only to personally identifiable information collected via the Website and not to: (i) information that is furnished to or otherwise acquired by us by other means, as set forth in this Privacy Policy, including but not limited to, information provided over the telephone; (ii) non-personally identifiable information that may be gathered by cookies or from IP addresses or (iii) aggregate information. We reserve the right not to allow access to your information if we believe in good faith that such disclosure is prohibited by law or if the rights of another individual might be violated.
 
- **SECURITY PROCEDURES**
+**SECURITY PROCEDURES**
 
 We are concerned with the security of your personally identifiable information and try to provide secure transmission of your information from your PC to our servers. For certain transactions on certain pages of the Websites, we may use Secured Sockets Layer (SSL) technology to secure the transfer of information. Unfortunately, no data transmission over the Internet can be guaranteed to be absolutely secure. As a result, while we strive to protect your personal information, we cannot guarantee the security of any information transmitted over the Internet.
 
 If you have a user name and password for any of the features on the Website, you have the responsibility of keeping your password secret. You should not reveal your password to anyone. We will not ask you in an unsolicited telephone call or e-mail for your password. In addition, you should take reasonable precautions when using a computer that is not your own or in a public setting.
 
- **CHANGES IN THIS PRIVACY STATEMENT**
+**CHANGES IN THIS PRIVACY STATEMENT**
 
 If we decide to change our privacy policy, we will post those changes to this privacy statement and the home page so that you are aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it.  
 We reserve the right to modify this privacy statement at any time, so please review it frequently. If we make material changes to this policy, we will notify you by e-mail or by means of a prominent notice on our home page.
 
- **CONTACTING SOLUTIONS REVIEW**
+**CONTACTING SOLUTIONS REVIEW**
 
 If you have any specific questions regarding any issues about privacy on the Website, please contact: Solutions Review at 500 West Cumming Park, Suite 2750, Woburn, MA 01801 or via e-mail privacy@solutionsreview.com, and we will attend to your request and make any necessary revisions.
 
