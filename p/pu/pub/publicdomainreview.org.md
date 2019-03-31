@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the publicdomainreview.org privacy policy that was archived on 2018-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181229230525id_/https%3A//publicdomainreview.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the publicdomainreview.org privacy policy that was archived on 2019-03-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190331064747id_/https%3A//publicdomainreview.org/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy – The Public Domain Review
 
