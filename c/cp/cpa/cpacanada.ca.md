@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cpacanada.ca privacy policy that was archived on 2018-09-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180925191436id_/https%3A//www.cpacanada.ca/en/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cpacanada.ca privacy policy that was archived on 2019-03-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190331041226id_/https%3A//www.cpacanada.ca/en/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -134,14 +134,12 @@ Last revised: May 25, 2017
 
 ## Highlights
 
-November 22, 2018
+View our complete coverage of the 2019 federal budget. We have tax highlights, an insightful federal budget analysis as well as video interviews with our experts.
 
-CPA Canada’s annual financial literacy conference is a must-attend for those who want to learn how to improve the financial health of Canadians.
+May 22, 2019
 
-October 1, 2018
+Explore important emerging technologies in accounting, business and finance at this must-attend conference for senior leaders. Connect with peers, experts and pioneers on best-fit technology solutions for your clients or organization.
 
-The ONE is Canada’s must-attend, multi-track CPA event of the year. Stay at the top of your game with future-focused sessions, thought-provoking keynotes, prime networking opportunities and a first-class exhibition floor.
+September 23, 2019
 
-October 15, 2018
-
-Stay up-to-date on critical indirect tax issues and network with other indirect tax professionals at Canada’s largest and longest-running indirect tax event.
+Canada’s dynamic, must-attend CPA event of the year is heading to Montréal with the theme of innovation for sustainability.
