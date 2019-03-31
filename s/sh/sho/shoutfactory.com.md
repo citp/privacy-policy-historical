@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the shoutfactory.com privacy policy that was archived on 2018-08-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180824235926id_/https%3A//www.shoutfactory.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shoutfactory.com privacy policy that was archived on 2019-03-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190331052832id_/https%3A//www.shoutfactory.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Shout! Factory
 
@@ -186,6 +186,6 @@ For questions specifically concerning this Privacy Policy, to help us improve ou
 
 **Shout! Factory, LLC**
 
-**2034 Armacost Ave.,  ** **1st Floor**
+**1640 S. Sepulveda Blvd., Suite 400**
 
 **Los Angeles, CA 90025**
