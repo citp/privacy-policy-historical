@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kfc.com.au privacy policy that was archived on 2018-11-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181116110506id_/https%3A//www.kfc.com.au/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kfc.com.au privacy policy that was archived on 2019-03-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190331024910id_/https%3A//www.kfc.com.au/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | KFC Australia
 
@@ -245,7 +245,7 @@ Kentucky Fried Chicken Pty Ltd
 Frenchs Forest NSW 2086
 
 Telephone: (02) 1300 553 899 (9.00am to 5.00pm EST, Monday to Friday)  
-Email: [Privacy.OfficerAUS@yum.com](mailto:Privacy.Officer.AUS@yum.com)
+Email: [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#f7a7859e8196948ed9b891919e949285d9b6a2a4b78e829ad994989a)
 
 Website: [www.kfc.com.au](http://www.kfc.com.au/) (Please complete the form located on the “Contact Us” webpage)
 
