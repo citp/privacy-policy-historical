@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the panmore.com privacy policy that was archived on 2018-10-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181024061643id_/http%3A//panmore.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the panmore.com privacy policy that was archived on 2019-03-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190331021100id_/http%3A//panmore.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Panmore Institute
 
