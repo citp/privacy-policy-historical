@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pipedrive.com privacy policy that was archived on 2018-09-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180914051433id_/https%3A//www.pipedrive.com/en/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pipedrive.com privacy policy that was archived on 2019-03-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190331132124id_/https%3A//www.pipedrive.com/en/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Pipedrive
 
@@ -180,56 +180,56 @@ We do not share with these third parties any information that would readily iden
 
 ##### 11.1 The Following Types of Cookies Are Used in the Site:
 
-  * strictly necessary/essential cookies - These cookies are essential in order to enable you to move around the website and use its features, such as accessing secure areas of the website. Without these cookies services you have asked for cannot be provided. These cookies don’t collect information that identifies a visitor.
-  * performance cookies - These cookies collect information about how visitors use a website, for instance which pages visitors go to most often, and if they get error messages from web pages. These cookies don’t collect information that identifies a visitor. All information these cookies collect is aggregated and therefore anonymous. It is only used to improve how a website works.
-  * functionality cookies - These cookies allow the website to remember choices you make (such as your user name, language or the region you are in) and provide enhanced, more personal features. For instance, a website may be able to provide you with local weather reports or traffic news by storing in a cookie the region in which you are currently located. These cookies can also be used to remember changes you have made to text size, fonts and other parts of web pages that you can customise. They may also be used to provide services you have asked for such as watching a video or commenting on a blog. The information these cookies collect may be anonymised and they cannot track your browsing activity on other websites.
-  * behaviourally targeted advertising cookies - These cookies are used to deliver adverts more relevant to you and your interests They are also used to limit the number of times you see an advertisement as well as help measure the effectiveness of the advertising campaigns. They are usually placed by advertising networks with the website operator’s permission. They remember that you have visited a website and this information is shared with other organisations such as advertisers. Quite often targeting or advertising cookies will be linked to site functionality provided by the other organisation.
+  1. strictly necessary/essential cookies - These cookies are essential in order to enable you to move around the website and use its features, such as accessing secure areas of the website. Without these cookies services you have asked for cannot be provided. These cookies don’t collect information that identifies a visitor.
+  2. performance cookies - These cookies collect information about how visitors use a website, for instance which pages visitors go to most often, and if they get error messages from web pages. These cookies don’t collect information that identifies a visitor. All information these cookies collect is aggregated and therefore anonymous. It is only used to improve how a website works.
+  3. functionality cookies - These cookies allow the website to remember choices you make (such as your user name, language or the region you are in) and provide enhanced, more personal features. For instance, a website may be able to provide you with local weather reports or traffic news by storing in a cookie the region in which you are currently located. These cookies can also be used to remember changes you have made to text size, fonts and other parts of web pages that you can customise. They may also be used to provide services you have asked for such as watching a video or commenting on a blog. The information these cookies collect may be anonymised and they cannot track your browsing activity on other websites.
+  4. behaviourally targeted advertising cookies - These cookies are used to deliver adverts more relevant to you and your interests They are also used to limit the number of times you see an advertisement as well as help measure the effectiveness of the advertising campaigns. They are usually placed by advertising networks with the website operator’s permission. They remember that you have visited a website and this information is shared with other organisations such as advertisers. Quite often targeting or advertising cookies will be linked to site functionality provided by the other organisation.
 
 
 
 ##### 11.2 The Following Cookies are Used in the Site:
 
-Service provider| Cookie name| Cookie type| Expiration| Content  
+Service provider | Cookie name | Cookie type | Expiration | Content  
 ---|---|---|---|---  
-Pipedrive| pd_referrer| 1| 1 year| Helps to identify the referrer and landing page of visitors  
-Pipedrive| pd_referrer_session| 1| session| Helps to identify the referrer and landing page of visitors  
-Pipedrive| pipedrive_trafficsource| 1| 1 year| Helps to identify the traffic source of visitors  
-Pipedrive| split_tests| 1| 1 year| Helps to remember which version of the page to show to visitor  
-Pipedrive| pd_cookie-policy-agreement| 3| 1 year| Helps to remember visitor agreement of the cookie policy  
-Pipedrive| pd_android-banner| 3| 1 year| Helps to remember that visitor has seen the android banner  
-Pipedrive| pd_language_selection| 3| 1 year| Helps to remember preferred language selection of the visitor  
-Pipedrive| has_account| 3| 1 year| Helps to make clear whether the visitor has an account with Pipedrive  
-Pipedrive| pd_account| 3| 1 year| Helps to remember information about visitor Pipedrive account  
-Google DoubleClick| __ar_v4| 2| 5 years| Helps with tracking conversion rates for ads  
-Google Analytics| __utma| 2| 2 years| Helps to identify sessions of visitors  
-Google Analytics| __utmb| 2| 30 minutes| Helps to identify new visitors to the Site  
-Google Analytics| __utmc| 2| session| Helps to identify new visitors to the Site  
-Google Analytics| __utmt| 2| 10 minutes| Helps to throttle traffic rate for Google servers  
-Google Analytics| __utmz| 2| 2 years| Helps to identify the traffic source of visitors  
-Google Analytics| _ga| 2| 2 years| Helps to identify sessions of visitors  
-Google Analytics| _gat| 2| 10 minutes| Helps to throttle traffic rate for Google servers  
-Linkedin Bizo| _bizo_bzid| 2| 1 day| Helps to identify visitors for ad retargeting purposes  
-Linkedin Bizo| _bizo_bzid| 2| 1 day| Helps to identify visitors for ad retargeting purposes  
-Linkedin Bizo| _bizo_bzid| 2| 1 day| Helps to identify visitors for ad retargeting purposes  
-Segment| ajs_anonymous_id| 2| 1 year| Helps to identify sessions of visitors  
-Segment| ajs_group_id| 2| 1 year| Helps to identify registered visitors by group  
-Segment| ajs_user_id| 2| 1 year| Helps to identify registered visitors  
-Amplitude| amplitude_idpipedrive.com| 2| 10 years| Helps to identify sessions of visitors  
-FullStory| fs_uid| 2| 100+ years| Helps to identify sessions of visitors  
- **status.pipedrive.com**  
-Pipedrive| pipedrive_trafficsource| 1| 1 year| Helps to identify the traffic source of visitors  
- **support.pipedrive.com**  
-Google Analytics| _ga| 2| 2 years| Helps to identify sessions of visitors  
-Google Analytics| _ga| 2| 10 minutes| Helps to throttle traffic rate for Google servers  
-Zendesk| _help_center_session| 2| session| Helps to identify new visitors  
-Zendesk| _zendesk_shared_session| 2| session| Helps to identify new visitors  
-Pipedrive| pd_referrer| 1| 1 year| Helps to identify the referrer and landing page of visitors  
-Pipedrive| pd_referrer_session| 1| session| Helps to identify the referrer and landing page of visitors  
-Pipedrive| pipedrive_trafficsource| 1| 1 year| Helps to identify the traffic source of visitors  
- **office365.pipedrive.com**  
-Pipedrive| office-company-domain| 1| session| Helps to identify the users active company  
-Pipedrive| office-user-id| 1| session| Helps to identify the active user  
-Pipedrive| office-saved-emails| 2| 1 minute| Helps to identify which emails are linked to pipedrive  
+Pipedrive | pd_referrer | 1 | 1 year | Helps to identify the referrer and landing page of visitors  
+Pipedrive | pd_referrer_session | 1 | session | Helps to identify the referrer and landing page of visitors  
+Pipedrive | pipedrive_trafficsource | 1 | 1 year | Helps to identify the traffic source of visitors  
+Pipedrive | split_tests | 1 | 1 year | Helps to remember which version of the page to show to visitor  
+Pipedrive | pd_cookie-policy-agreement | 3 | 1 year | Helps to remember visitor agreement of the cookie policy  
+Pipedrive | pd_android-banner | 3 | 1 year | Helps to remember that visitor has seen the android banner  
+Pipedrive | pd_language_selection | 3 | 1 year | Helps to remember preferred language selection of the visitor  
+Pipedrive | has_account | 3 | 1 year | Helps to make clear whether the visitor has an account with Pipedrive  
+Pipedrive | pd_account | 3 | 1 year | Helps to remember information about visitor Pipedrive account  
+Google DoubleClick | __ar_v4 | 2 | 5 years | Helps with tracking conversion rates for ads  
+Google Analytics | __utma | 2 | 2 years | Helps to identify sessions of visitors  
+Google Analytics | __utmb | 2 | 30 minutes | Helps to identify new visitors to the Site  
+Google Analytics | __utmc | 2 | session | Helps to identify new visitors to the Site  
+Google Analytics | __utmt | 2 | 10 minutes | Helps to throttle traffic rate for Google servers  
+Google Analytics | __utmz | 2 | 2 years | Helps to identify the traffic source of visitors  
+Google Analytics | _ga | 2 | 2 years | Helps to identify sessions of visitors  
+Google Analytics | _gat | 2 | 10 minutes | Helps to throttle traffic rate for Google servers  
+Linkedin Bizo | _bizo_bzid | 2 | 1 day | Helps to identify visitors for ad retargeting purposes  
+Linkedin Bizo | _bizo_bzid | 2 | 1 day | Helps to identify visitors for ad retargeting purposes  
+Linkedin Bizo | _bizo_bzid | 2 | 1 day | Helps to identify visitors for ad retargeting purposes  
+Segment | ajs_anonymous_id | 2 | 1 year | Helps to identify sessions of visitors  
+Segment | ajs_group_id | 2 | 1 year | Helps to identify registered visitors by group  
+Segment | ajs_user_id | 2 | 1 year | Helps to identify registered visitors  
+Amplitude | amplitude_idpipedrive.com | 2 | 10 years | Helps to identify sessions of visitors  
+FullStory | fs_uid | 2 | 100+ years | Helps to identify sessions of visitors  
+**status.pipedrive.com**  
+Pipedrive | pipedrive_trafficsource | 1 | 1 year | Helps to identify the traffic source of visitors  
+**support.pipedrive.com**  
+Google Analytics | _ga | 2 | 2 years | Helps to identify sessions of visitors  
+Google Analytics | _ga | 2 | 10 minutes | Helps to throttle traffic rate for Google servers  
+Zendesk | _help_center_session | 2 | session | Helps to identify new visitors  
+Zendesk | _zendesk_shared_session | 2 | session | Helps to identify new visitors  
+Pipedrive | pd_referrer | 1 | 1 year | Helps to identify the referrer and landing page of visitors  
+Pipedrive | pd_referrer_session | 1 | session | Helps to identify the referrer and landing page of visitors  
+Pipedrive | pipedrive_trafficsource | 1 | 1 year | Helps to identify the traffic source of visitors  
+**office365.pipedrive.com**  
+Pipedrive | office-company-domain | 1 | session | Helps to identify the users active company  
+Pipedrive | office-user-id | 1 | session | Helps to identify the active user  
+Pipedrive | office-saved-emails | 2 | 1 minute | Helps to identify which emails are linked to pipedrive  
   
 #### 12\. Minors and Children’s Privacy
 
