@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dwr.com privacy policy that was archived on 2018-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181123164314id_/http%3A//www.dwr.com/privacy-and-security.html%3Flang%3Den_US) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dwr.com privacy policy that was archived on 2019-03-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190331010547id_/https%3A//www.dwr.com/privacy-and-security.html%3Flang%3Den_US) for the most accurate reproduction.*
 
 # Privacy & Security
 
@@ -11,6 +11,8 @@ When making a purchase through our Site, we collect your name, billing address, 
 We use cookies, which is a feature of your browser used to assign identification to your computer. The unique user ID contained within your cookie automatically identifies your computer – but not you – to our servers every time you visit our site. Cookies by themselves cannot be used to find out the identity of any user, but may be correlated with identity information in our log files. You can decline cookies through your browser preference options, but you may not be able to use some of our services properly as a result, such as the option to save your user name and password.
 
 We also collect the IP address of visitors to our Site and collect aggregate information about the use of our Site. All information described in this section entitled "What information does Design Within Reach collect?" constitutes "Data" for purposes of this Privacy Policy.
+
+Design Within Reach may collect your email address via cookies and pixels on the Website through the use of trusted third party partners. These partners may also combine your email information with other information they have access to such as mailing address so that Design Within Reach may serve relevant marketing offers to you via email and direct mail. If you do not want Design Within Reach to collect information about you, please contact us to opt out.
 
 Top
 
@@ -59,7 +61,7 @@ Top
 
 ##### Opt Out Policy
 
-If you would prefer not to receive our catalog, or if you are receiving extra copies that you do not need, please e-mail us at [nocatalog@dwr.com](mailto:nocatalog@dwr.com) with your name and address in the body of the message. If you would prefer not to receive our newsletter, you may use the remove functionality located at the bottom of each newsletter, or send an e-mail to [remove@dwr.com](mailto:remove@dwr.com) with 'unsubscribe' in the subject line. Please be sure to e-mail us from the address that you want removed. Furthermore, if you would like to specify that you would not like to share your information for rental, sales or exchanges, please email us at [service@dwr.com](mailto:service@dwr.com).
+If you’d prefer not to receive our catalog, or if you’re receiving unwanted extra copies, then please [unsubscribe here.](https://www.dwr.com/catalog-opt-out.html?lang=en_US) If you would prefer not to receive our newsletter, you may use the remove functionality located at the bottom of each newsletter, or send an e-mail to [remove@dwr.com](mailto:remove@dwr.com) with 'unsubscribe' in the subject line. Please be sure to e-mail us from the address that you want removed. Furthermore, if you would like to specify that you would not like to share your information for rental, sales or exchanges, please email us at [service@dwr.com](mailto:service@dwr.com).
 
 You can also call us at [800.944.2233](tel:800-944-2233) if you would like to be removed from any of our lists.
 
