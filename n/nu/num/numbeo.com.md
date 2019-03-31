@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the numbeo.com privacy policy that was archived on 2018-08-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180819111136id_/https%3A//www.numbeo.com/common/privacy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the numbeo.com privacy policy that was archived on 2019-03-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190331132118id_/https%3A//www.numbeo.com/common/privacy.jsp) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -52,3 +52,20 @@ The information provided to Numbeo.com is saved indefinitely and may be stored o
 You are responsible for the security of your Customer ID and passwords. Make sure you keep them in a safe place and do not share them with others. Always remember to log out after your session ends to ensure that others cannot access your private personal information. You should take this precaution even if you are not using a public computer, such as at a library or internet café, but even when using your private computer in your home.
 
 We use third-party advertising companies to serve ads when you visit our Website. These companies may use information (not including your name, address email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, please visit [this URL](http://www.networkadvertising.org/managing/opt_out.asp). 
+
+**How we secure personal information**  
+We use standard Linux and MySQL security features to protect personally identifiable data. 
+
+**Removing personally identifiable information**  
+To remove personally identifiable information associated with your email address, please use [this URL](https://web.archive.org/web/20190331132118id_/https%3A//www.numbeo.com/unsubscribe.jsp). To remove cookies, please check the documentation of your web browser. 
+
+Privacy policy contact information:   
+
+    
+    
+    Numbeo Doo
+      Drziceva 9/13
+      11120 Belgrade
+      Serbia
+      email: contact@numbeo.com
+    
