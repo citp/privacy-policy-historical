@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the techonation.com privacy policy that was archived on 2018-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181228073651id_/https%3A//techonation.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the techonation.com privacy policy that was archived on 2019-03-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190331035349id_/https%3A//techonation.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -110,7 +110,7 @@ Visitor comments may be checked through an automated spam detection service.
 
 ## Your contact information
 
-If you want to contact us then you can fill our [contact us](https://techonation.com/contact-us/) page or you can email us at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#0e6f6a6367604e7a6b6d6661606f7a676160206d6163)
+If you want to contact us then you can fill our [contact us](https://techonation.com/contact-us/) page or you can email us at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#b6d7d2dbdfd8f6c2d3d5ded9d8d7c2dfd9d898d5d9db)
 
 ## Additional information
 
