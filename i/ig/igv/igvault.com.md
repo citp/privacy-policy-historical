@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the igvault.com privacy policy that was archived on 2018-09-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180929222143id_/http%3A//www.igvault.com/Company/Privacy-Policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the igvault.com privacy policy that was archived on 2019-04-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190401002658id_/http%3A//www.igvault.com/Company/Privacy-Policy.html) for the most accurate reproduction.*
 
-# FIFA Coins - Dofus Kamas - WoW Gold - IGVault
+# Privacy Policy IGVault - IGVault
 
 **Privacy Policy**
 
