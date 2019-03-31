@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the originpc.com privacy policy that was archived on 2018-11-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181129073757id_/https%3A//www.originpc.com/legal/privacy-policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the originpc.com privacy policy that was archived on 2019-03-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190331203445id_/https%3A//www.originpc.com/legal/privacy-policy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy | ORIGIN PC
 
