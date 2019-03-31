@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the theswapsy.com privacy policy that was archived on 2018-08-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180820052222id_/https%3A//theswapsy.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the theswapsy.com privacy policy that was archived on 2019-03-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190331213213id_/https%3A//theswapsy.com/privacy-policy) for the most accurate reproduction.*
 
 # Swapsy - Privacy Policy
 
@@ -98,4 +98,4 @@ If we are involved in a reorganization, merger, acquisition or sale of our asset
 
 **Contact**
 
-You can contact us with any questions or concerns at: SWAPSY Customer Service, 7703 Cullen Street, San Diego, CA 92111, U.S. or by email: support@theswapsy.com 
+You can contact us with any questions or concerns at: SWAPSY Customer Service, 4250 Executive Square #200, La Jolla, CA 92037, U.S. or by email: support@theswapsy.com 
