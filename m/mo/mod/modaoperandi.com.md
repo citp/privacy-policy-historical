@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the modaoperandi.com privacy policy that was archived on 2018-09-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180908174348id_/https%3A//www.modaoperandi.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the modaoperandi.com privacy policy that was archived on 2019-03-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190331170919id_/https%3A//www.modaoperandi.com/privacy) for the most accurate reproduction.*
 
-# Moda Operandi | Moda Operandi
+# Moda Operandi
 
 Moda Operandi, Inc. ("we," "us," or "our) created this Privacy Policy because we care about your privacy and we understand that you want to know how the information you provide to us is used, stored, and shared. This Privacy Policy describes how we gather information from you when you visit the Moda Operandi, Inc. website located at www.modaoperandi.com (the "Site"), access our Mobile App (the "Mobile App"), or purchase our products and services ("Products" and "Services") through the Site. 
 
