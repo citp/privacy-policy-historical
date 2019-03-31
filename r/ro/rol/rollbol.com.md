@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the rollbol.com privacy policy that was archived on 2018-08-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180822235605id_/https%3A//rollbol.com/static/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rollbol.com privacy policy that was archived on 2019-03-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190331225452id_/https%3A//rollbol.com/static/privacy) for the most accurate reproduction.*
 
-# Rollbol - Privacy
+# Rollbol - Free Social Network - Privacy
 
 We recognize that your privacy is very important and take it seriously. This Privacy Policy describes Sngine's policies and procedures on the collection, use and disclosure of your information when you use the Sngine Service. We will not use or share your information with anyone except as described in this Privacy Policy. 
 
