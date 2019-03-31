@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the trollfootball.me privacy policy that was archived on 2016-03-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160325114634id_/http%3A//www.trollfootball.me/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the trollfootball.me privacy policy that was archived on 2019-03-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190331101722id_/https%3A//www.trollfootball.me/privacy-policy%3Futm_source%3Dtrollfootball.me%26utm_medium%3Dfooter%26utm_name%3Dprivacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Troll Football
 
@@ -23,3 +23,19 @@ If you wish to disable cookies, you may do so through your individual browser op
 Enjoy your time at Troll Football
 
 Team Troll Football
+
+We use cookies to ensure you get the best experience on our website Details OK, Got it 
+
+### We make use of cookies to store information about visitors preferences, record user-specific informations via which we customize Web page content.However, none of this cookies / data would be used to identify or contact you in person.
+
+* * *
+
+To disable all cookies through the browser, click on the corresponding icon and follow the instructions: 
+
+  1. Chrome: [Disable Cookies](https://support.google.com/accounts/answer/61416?hl=en) 
+  2. Firefox: [Disable Cookies](https://support.mozilla.org/en-GB/kb/enable-and-disable-cookies-website-preferences) 
+  3. Internet Explorer: [Disable Cookies](http://windows.microsoft.com/en-gb/internet-explorer/delete-manage-cookies#ie=ie-11) 
+  4. Opera: [Disable Cookies](http://help.opera.com/Windows/10.00/en/cookies.html) 
+  5. Safari: [Disable Cookies](https://support.apple.com/kb/PH17191?viewlocale=en_GB) 
+
+
