@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the bargainbrute.com privacy policy that was archived on 2018-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181231081948id_/https%3A//www.bargainbrute.com/store/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bargainbrute.com privacy policy that was archived on 2019-03-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190331155229id_/https%3A//www.bargainbrute.com/store/privacy) for the most accurate reproduction.*
 
-# HUGE Online Shopping Mall | Save Money at Bargainbrute.com.
+# HUGE Online Shopping Mall - See our Shopping Deals of the Day
 
 #### Privacy
 
