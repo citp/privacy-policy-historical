@@ -1,48 +1,105 @@
-<!--The following is the downloaded HTML source of the rspca.org.uk privacy policy that was archived on 2018-06-25.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20180625015800id_/https%3A//www.rspca.org.uk/utilities/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the rspca.org.uk privacy policy that was archived on 2019-04-01.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20190401000710id_/https%3A//www.rspca.org.uk/utilities/privacy) for the most accurate reproduction.-->
 
-<!DOCTYPE html><html class="aui ltr async-hide" dir="ltr" lang="en-US"><head><meta property="og:title" content="Privacy and Cookie Policy | RSPCA">
+<!DOCTYPE html><html class="ltr yui3-js-enabled webkit js chrome chrome69 chrome69-0 linux secure" dir="ltr" lang="en-US"><div id="yui3-css-stamp" style="position: absolute !important; visibility: hidden !important" class=""></div><head><script type="text/javascript" async="" src="https://snap.licdn.com/li.lms-analytics/insight.min.js"></script><script type="text/javascript" defer="" async="" src="https://collector-1412.tvsquared.com/tv2track.js"></script><script async="" src="https://connect.facebook.net/en_US/fbevents.js"></script><script async="" src="https://www.google-analytics.com/analytics.js"></script><script type="text/javascript">
+(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+})(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
 
-	<meta property="og:description" content="We are committed to protecting the privacy of your personal data. Please read our RSPCA privacy policy.">
+(function(funcName, baseObj) {
+    // The public function name defaults to window.docReady
+    // but you can pass in your own object and own function name and those will be used
+    // if you want to put them in a different namespace
+    funcName = funcName || "docReady";
+    baseObj = baseObj || window;
+    var readyList = [];
+    var readyFired = false;
+    var readyEventHandlersInstalled = false;
 
-	
-	
-<meta property="og:image" content="https://content.rspca.org.uk/cmsprd/Satellite?blobcol=urldata&amp;blobkey=id&amp;blobtable=MungoBlobs&amp;blobwhere=1232989201633&amp;ssbinary=true">
+    // call this when the document is ready
+    // this function protects itself against being called more than once
+    function ready() {
+        if (!readyFired) {
+            // this must be set to true before we start calling callbacks
+            readyFired = true;
+            for (var i = 0; i < readyList.length; i++) {
+                // if a callback here happens to add new ready handlers,
+                // the docReady() function will see that it already fired
+                // and will schedule the callback to run right after
+                // this event loop finishes so all handlers will still execute
+                // in order and no new ones will be added to the readyList
+                // while we are processing the list
+                readyList[i].fn.call(window, readyList[i].ctx);
+            }
+            // allow any closures held by these functions to free
+            readyList = [];
+        }
+    }
+
+    function readyStateChange() {
+        if ( document.readyState === "complete" ) {
+            ready();
+        }
+    }
+
+    // This is the one public interface
+    // docReady(fn, context);
+    // the context argument is optional - if present, it will be passed
+    // as an argument to the callback
+    baseObj[funcName] = function(callback, context) {
+        if (typeof callback !== "function") {
+            throw new TypeError("callback for docReady(fn) must be a function");
+        }
+        // if ready has already fired, then just schedule the callback
+        // to fire asynchronously, but right away
+        if (readyFired) {
+            setTimeout(function() {callback(context);}, 1);
+            return;
+        } else {
+            // add the function and context to the list
+            readyList.push({fn: callback, ctx: context});
+        }
+        // if document already ready to go, schedule the ready function to run
+        if (document.readyState === "complete") {
+            setTimeout(ready, 1);
+        } else if (!readyEventHandlersInstalled) {
+            // otherwise if we don't have event handlers installed, install them
+            if (document.addEventListener) {
+                // first choice is DOMContentLoaded event
+                document.addEventListener("DOMContentLoaded", ready, false);
+                // backup is window load event
+                window.addEventListener("load", ready, false);
+            } else {
+                // must be IE
+                document.attachEvent("onreadystatechange", readyStateChange);
+                window.attachEvent("onload", ready);
+            }
+            readyEventHandlersInstalled = true;
+        }
+    }
+})("docReady", window);
 
 
-	<meta property="og:type" content="article">
-	<meta property="og:url" content="https://www.rspca.org.uk:443/utilities/privacy">
+ga('create', 'UA-1859103-1', 'auto');
+console.log("GA created");
+
+//Check whether we want to suppress the page view in special cases
+docReady( function(){
+	if( document.getElementById("noPageTracking") == null){
+		ga('require', 'GTM-TM2W2H6');
+		console.log("GA required");
+		ga('send', 'pageview');
+		console.log("Page view sent");
+	}
+});
+</script>
 
 
 
 	
 		<title>Privacy and Cookie Policy | RSPCA</title>
 		<meta content="initial-scale=1.0, width=device-width" name="viewport">
-		<script type="text/javascript" async="" src="https://snap.licdn.com/li.lms-analytics/insight.min.js"></script><script type="text/javascript" defer="" async="" src="https://collector-1412.tvsquared.com/tv2track.js"></script><script async="" src="https://connect.facebook.net/en_US/fbevents.js"></script><script async="" src="https://www.google-analytics.com/analytics.js"></script><script type="text/javascript" src="//ajax.googleapis.com/ajax/libs/jquery/2.1.0/jquery.min.js"></script>
-		<script type="text/javascript" src="//code.jquery.com/jquery-migrate-1.2.1.min.js"></script>
-		<script type="text/javascript" src="/webContent/webComponents/cookieBar/js/jquery.cookiebar.refresh.js"></script>
-		
-		<link href="https://plus.google.com/100597930162075621755/" rel="publisher">
-
-<link rel="stylesheet" type="text/css" href="/webContent/webComponents/cookieBar/css/jquery.cookiebar.refresh.css">
-
-					
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
@@ -96,6 +153,7 @@
 
 
 
+<meta content="We are committed to protecting the privacy of your personal data. Please read our RSPCA privacy policy." lang="en-US" name="description">
 
 
 
@@ -106,47 +164,35 @@
 
 
 
+<script data-senna-track="temporary" type="text/javascript">
+	if (window.Analytics) {
+		window._com_liferay_document_library_analytics_isViewFileEntry = false;
+	}
+</script>
+
+<link href="https://www.rspca.org.uk/o/mentions-web/css/mentions.css?browserId=other&amp;themeId=mainSiteTheme_WAR_ptl2017Theme&amp;minifierType=css&amp;languageId=en_US&amp;b=7010&amp;t=1553877328740" rel="stylesheet" type="text/css">
+<link href="https://www.rspca.org.uk/o/dynamic-data-mapping-form-renderer/css/main.css?browserId=other&amp;themeId=mainSiteTheme_WAR_ptl2017Theme&amp;minifierType=css&amp;languageId=en_US&amp;b=7010&amp;t=1553877328740" rel="stylesheet" type="text/css">
+
+
+<link data-senna-track="temporary" href="https://www.rspca.org.uk/o/ptl2017Theme/images/favicon.ico" rel="Shortcut Icon">
 
 
 
 
 
+	<link data-senna-track="temporary" href="https://www.rspca.org.uk/utilities/privacy" rel="canonical">
+
+	
 
 
 
 
 
+<link class="lfr-css-file" data-senna-track="temporary" href="https://www.rspca.org.uk/o/ptl2017Theme/css/aui.css?browserId=other&amp;themeId=mainSiteTheme_WAR_ptl2017Theme&amp;minifierType=css&amp;languageId=en_US&amp;b=7010&amp;t=1553877328740" id="liferayAUICSS" rel="stylesheet" type="text/css">
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+<script charset="utf-8" id="yui_patched_v3_18_1_1_1582523591651_41" src="/combo/?browserId=other&amp;minifierType=&amp;languageId=en_US&amp;b=7010&amp;t=1547131173610&amp;/o/frontend-js-web/aui/event-touch/event-touch-min.js&amp;/o/frontend-js-web/aui/event-move/event-move-min.js" async=""></script><link charset="utf-8" rel="stylesheet" id="yui_patched_v3_18_1_1_1582523591651_44" href="/combo/?browserId=other&amp;minifierType=&amp;languageId=en_US&amp;b=7010&amp;t=1547131173610&amp;/o/frontend-js-web/aui/widget-base/assets/skins/sam/widget-base.css&amp;/o/frontend-js-web/aui/widget-stack/assets/skins/sam/widget-stack.css&amp;/o/frontend-js-web/aui/aui-tooltip-base/assets/skins/sam/aui-tooltip-base.css&amp;/o/frontend-js-web/aui/aui-alert/assets/skins/sam/aui-alert.css"><script charset="utf-8" id="yui_patched_v3_18_1_1_1582523591651_45" src="https://www.rspca.org.uk/o/frontend-js-web/liferay/available_languages.jsp?browserId=other&amp;themeId=mainSiteTheme_WAR_ptl2017Theme&amp;colorSchemeId=01&amp;minifierType=js&amp;languageId=en_US&amp;b=7010&amp;t=1547131173610" async=""></script><script charset="utf-8" id="yui_patched_v3_18_1_1_1582523591651_46" src="/combo/?browserId=other&amp;minifierType=&amp;languageId=en_US&amp;b=7010&amp;t=1547131173610&amp;/o/frontend-js-web/aui/base-core/base-core-min.js&amp;/o/frontend-js-web/aui/base-observable/base-observable-min.js&amp;/o/frontend-js-web/aui/aui-widget-cssclass/aui-widget-cssclass-min.js&amp;/o/frontend-js-web/aui/aui-widget-toggle/aui-widget-toggle-min.js&amp;/o/frontend-js-web/aui/base-build/base-build-min.js&amp;/o/frontend-js-web/aui/aui-aria/aui-aria-min.js&amp;/o/frontend-js-web/aui/transition/transition-min.js&amp;/o/frontend-js-web/aui/aui-widget-transition/aui-widget-transition-min.js&amp;/o/frontend-js-web/aui/aui-widget-trigger/aui-widget-trigger-min.js&amp;/o/frontend-js-web/aui/widget-position/widget-position-min.js&amp;/o/frontend-js-web/aui/widget-position-align/widget-position-align-min.js&amp;/o/frontend-js-web/aui/widget-stdmod/widget-stdmod-min.js&amp;/o/frontend-js-web/aui/aui-widget-position-align-suggestion/aui-widget-position-align-suggestion-min.js&amp;/o/frontend-js-web/aui/escape/escape-min.js&amp;/o/frontend-js-web/aui/widget-autohide/widget-autohide-min.js" async=""></script><script charset="utf-8" id="yui_patched_v3_18_1_1_1582523591651_47" src="/combo/?browserId=other&amp;minifierType=&amp;languageId=en_US&amp;b=7010&amp;t=1547131173610&amp;/o/frontend-js-web/aui/widget-position-constrain/widget-position-constrain-min.js&amp;/o/frontend-js-web/aui/widget-stack/widget-stack-min.js&amp;/o/frontend-js-web/aui/aui-tooltip-base/aui-tooltip-base-min.js&amp;/o/frontend-js-web/aui/aui-tooltip-delegate/aui-tooltip-delegate-min.js&amp;/o/frontend-js-web/liferay/language.js&amp;/o/frontend-js-web/aui/querystring-stringify/querystring-stringify-min.js&amp;/o/frontend-js-web/aui/aui-io-request/aui-io-request-min.js&amp;/o/frontend-js-web/aui/cookie/cookie-min.js&amp;/o/frontend-js-web/aui/timers/timers-min.js&amp;/o/frontend-js-web/aui/aui-alert/aui-alert-min.js&amp;/o/frontend-js-web/liferay/node.js&amp;/o/frontend-js-web/liferay/portlet_base.js&amp;/o/frontend-js-web/liferay/alert.js&amp;/o/frontend-js-web/liferay/notification.js&amp;/o/frontend-js-web/liferay/session.js" async=""></script><link data-senna-track="temporary" href="/o/frontend-css-web/main.css?browserId=other&amp;themeId=mainSiteTheme_WAR_ptl2017Theme&amp;minifierType=css&amp;languageId=en_US&amp;b=7010&amp;t=1547131172337" id="liferayPortalCSS" rel="stylesheet" type="text/css">
 
 
 
@@ -160,81 +206,17 @@
 
 	
 
-	
-
-	
-		<meta content="We are committed to protecting the privacy of your personal data. Please read our RSPCA privacy policy." lang="en-US" name="description">
-	
-
-	
-
-	
-
-
-
-<link href="https://www.rspca.org.uk/ptl2017Themes/images/favicon.ico" rel="Shortcut Icon">
-
-
-
-
-
-
-
-<link class="lfr-css-file" href="https://www.rspca.org.uk/ptl2017Themes/mainSite/css/aui.css?browserId=other&amp;themeId=mainSite_WAR_ptl2017Themes&amp;minifierType=css&amp;languageId=en_US&amp;b=6210&amp;t=1528192271000" rel="stylesheet" type="text/css">
-
-<link href="/html/css/main.css?browserId=other&amp;themeId=mainSite_WAR_ptl2017Themes&amp;minifierType=css&amp;languageId=en_US&amp;b=6210&amp;t=1383311138000" rel="stylesheet" type="text/css">
-
-
-
-
-
 
 
 
 
 	
 
-				<link href="https://www.rspca.org.uk/ptlFatwireArticlePortlets/css/article.css?a=12" rel="stylesheet" type="text/css">
+
 
 	
 
-				<link href="https://www.rspca.org.uk/ptlFatwireArticlePortlets/css/listing.css?browserId=other&amp;themeId=mainSite_WAR_ptl2017Themes&amp;minifierType=css&amp;languageId=en_US&amp;b=6210&amp;t=1528192304000" rel="stylesheet" type="text/css">
-
-	
-
-				<link href="https://www.rspca.org.uk/ptlFatwireArticlePortlets/css/content.css?browserId=other&amp;themeId=mainSite_WAR_ptl2017Themes&amp;minifierType=css&amp;languageId=en_US&amp;b=6210&amp;t=1528192304000" rel="stylesheet" type="text/css">
-
-	
-
-				<link href="https://www.rspca.org.uk/ptlFatwireArticlePortlets/css/content/content.css?browserId=other&amp;themeId=mainSite_WAR_ptl2017Themes&amp;minifierType=css&amp;languageId=en_US&amp;b=6210&amp;t=1528192304000" rel="stylesheet" type="text/css">
-
-	
-
-				<link href="https://www.rspca.org.uk/ptlFatwireArticlePortlets/css/print.css?browserId=other&amp;themeId=mainSite_WAR_ptl2017Themes&amp;minifierType=css&amp;languageId=en_US&amp;b=6210&amp;t=1528192304000" rel="stylesheet" type="text/css">
-
-	
-
-				<link href="https://www.rspca.org.uk/html/portlet/document_library/css/main.css?browserId=other&amp;themeId=mainSite_WAR_ptl2017Themes&amp;minifierType=css&amp;languageId=en_US&amp;b=6210&amp;t=1529578184000" rel="stylesheet" type="text/css">
-
-	
-
-				<link href="https://www.rspca.org.uk/html/portlet/dynamic_data_mapping/css/main.css?browserId=other&amp;themeId=mainSite_WAR_ptl2017Themes&amp;minifierType=css&amp;languageId=en_US&amp;b=6210&amp;t=1529578184000" rel="stylesheet" type="text/css">
-
-	
-
-				<link href="https://www.rspca.org.uk/html/portlet/journal/css/main.css?browserId=other&amp;themeId=mainSite_WAR_ptl2017Themes&amp;minifierType=css&amp;languageId=en_US&amp;b=6210&amp;t=1529578184000" rel="stylesheet" type="text/css">
-
-	
-
-				<link href="https://www.rspca.org.uk/html/portlet/staging_bar/css/main.css?browserId=other&amp;themeId=mainSite_WAR_ptl2017Themes&amp;minifierType=css&amp;languageId=en_US&amp;b=6210&amp;t=1529578184000" rel="stylesheet" type="text/css">
-
-	
-
-				<link href="https://www.rspca.org.uk/ptl2014NavigationPortlet/css/breadcrumb2014/breadcrumb.css?a=33" rel="stylesheet" type="text/css">
-
-	
-
-				<link href="https://www.rspca.org.uk/ptlSocialNetworkingPortlet/css/socialNetworking.css?browserId=other&amp;themeId=mainSite_WAR_ptl2017Themes&amp;minifierType=css&amp;languageId=en_US&amp;b=6210&amp;t=1528192358000" rel="stylesheet" type="text/css">
+		<link data-senna-track="temporary" href="/combo?browserId=other&amp;minifierType=&amp;themeId=mainSiteTheme_WAR_ptl2017Theme&amp;languageId=en_US&amp;b=7010&amp;com_liferay_journal_content_web_portlet_JournalContentPortlet_INSTANCE_3Oh83sTMz4SC:%2Fcss%2Fmain.css&amp;com_liferay_product_navigation_product_menu_web_portlet_ProductMenuPortlet:%2Fcss%2Fmain.css&amp;com_liferay_staging_bar_web_portlet_StagingBarPortlet:%2Fcss%2Fmain.css&amp;fatwireContent_WAR_ptlFatwireArticlePortlets_INSTANCE_cDlEsAlf3fAG:%2Fcss%2Fcontent%2Fcontent.css&amp;fatwireListing_WAR_ptlFatwireArticlePortlets_INSTANCE_4Ioi:%2Fcss%2Flisting.css&amp;fatwireListing_WAR_ptlFatwireArticlePortlets_INSTANCE_4Ioi:%2Fcss%2Fcontent.css&amp;print_WAR_ptlFatwireArticlePortlets_INSTANCE_tA6F:%2Fcss%2Fprint.css&amp;t=1552043016000" id="92c9c04a" rel="stylesheet" type="text/css">
 
 	
 
@@ -244,270 +226,321 @@
 
 
 
-<script type="text/javascript">
+<script data-senna-track="temporary" type="text/javascript">
 	// <![CDATA[
-		var Liferay = {
-			Browser: {
-				acceptsGzip: function() {
-					return false;
-				},
-				getMajorVersion: function() {
-					return 0.0;
-				},
-				getRevision: function() {
-					return "";
-				},
-				getVersion: function() {
-					return "";
-				},
-				isAir: function() {
-					return false;
-				},
-				isChrome: function() {
-					return false;
-				},
-				isFirefox: function() {
-					return false;
-				},
-				isGecko: function() {
-					return false;
-				},
-				isIe: function() {
-					return false;
-				},
-				isIphone: function() {
-					return false;
-				},
-				isLinux: function() {
-					return false;
-				},
-				isMac: function() {
-					return false;
-				},
-				isMobile: function() {
-					return false;
-				},
-				isMozilla: function() {
-					return false;
-				},
-				isOpera: function() {
-					return false;
-				},
-				isRtf: function() {
-					return false;
-				},
-				isSafari: function() {
-					return false;
-				},
-				isSun: function() {
-					return false;
-				},
-				isWap: function() {
-					return false;
-				},
-				isWapXhtml: function() {
-					return false;
-				},
-				isWebKit: function() {
-					return false;
-				},
-				isWindows: function() {
-					return false;
-				},
-				isWml: function() {
-					return false;
-				}
+		var Liferay = Liferay || {};
+
+		Liferay.Browser = {
+			acceptsGzip: function() {
+				return false;
 			},
 
-			Data: {
-				NAV_SELECTOR: '#navigation',
+			
 
-				isCustomizationView: function() {
-					return false;
-				},
-
-				notices: [
-					null
-
-					
-
-					
-				]
+			getMajorVersion: function() {
+				return 0;
 			},
 
-			ThemeDisplay: {
+			getRevision: function() {
+				return '';
+			},
+			getVersion: function() {
+				return '';
+			},
+
+			
+
+			isAir: function() {
+				return false;
+			},
+			isChrome: function() {
+				return false;
+			},
+			isEdge: function() {
+				return false;
+			},
+			isFirefox: function() {
+				return false;
+			},
+			isGecko: function() {
+				return false;
+			},
+			isIe: function() {
+				return false;
+			},
+			isIphone: function() {
+				return false;
+			},
+			isLinux: function() {
+				return false;
+			},
+			isMac: function() {
+				return false;
+			},
+			isMobile: function() {
+				return false;
+			},
+			isMozilla: function() {
+				return false;
+			},
+			isOpera: function() {
+				return false;
+			},
+			isRtf: function() {
+				return false;
+			},
+			isSafari: function() {
+				return false;
+			},
+			isSun: function() {
+				return false;
+			},
+			isWebKit: function() {
+				return false;
+			},
+			isWindows: function() {
+				return false;
+			}
+		};
+
+		Liferay.Data = Liferay.Data || {};
+
+		Liferay.Data.ICONS_INLINE_SVG = true;
+
+		Liferay.Data.NAV_SELECTOR = '#navigation';
+
+		Liferay.Data.NAV_SELECTOR_MOBILE = '#navigationCollapse';
+
+		Liferay.Data.isCustomizationView = function() {
+			return false;
+		};
+
+		Liferay.Data.notices = [
+			null
+
+			
+
+			
+		];
+
+		Liferay.PortletKeys = {
+			DOCUMENT_LIBRARY: 'com_liferay_document_library_web_portlet_DLPortlet',
+			DYNAMIC_DATA_MAPPING: 'com_liferay_dynamic_data_mapping_web_portlet_DDMPortlet',
+			ITEM_SELECTOR: 'com_liferay_item_selector_web_portlet_ItemSelectorPortlet'
+		};
+
+		Liferay.PropsValues = {
+			JAVASCRIPT_SINGLE_PAGE_APPLICATION_TIMEOUT: 0,
+			NTLM_AUTH_ENABLED: false,
+			UPLOAD_SERVLET_REQUEST_IMPL_MAX_SIZE: 104857600
+		};
+
+		Liferay.ThemeDisplay = {
+
+			
+
+			
+				getLayoutId: function() {
+					return '472';
+				},
+
 				
-					getLayoutId: function() {
-						return "472";
-					},
-					getLayoutURL: function() {
-						return "https://www.rspca.org.uk/utilities/privacy";
-					},
-					getParentLayoutId: function() {
-						return "66";
-					},
-					isPrivateLayout: function() {
-						return "false";
-					},
-					isVirtualLayout: function() {
-						return false;
-					},
+
+				getLayoutRelativeControlPanelURL: function() {
+					return '/group/rspca/~/control_panel/manage';
+				},
+
+				getLayoutRelativeURL: function() {
+					return '/utilities/privacy';
+				},
+				getLayoutURL: function() {
+					return 'https://www.rspca.org.uk/utilities/privacy';
+				},
+				getParentLayoutId: function() {
+					return '66';
+				},
+				isControlPanel: function() {
+					return false;
+				},
+				isPrivateLayout: function() {
+					return 'false';
+				},
+				isVirtualLayout: function() {
+					return false;
+				},
+			
+
+			getBCP47LanguageId: function() {
+				return 'en-US';
+			},
+			getCanonicalURL: function() {
+
 				
 
-				getBCP47LanguageId: function() {
-					return "en-US";
-				},
-				getCDNBaseURL: function() {
-					return "https://www.rspca.org.uk";
-				},
-				getCDNDynamicResourcesHost: function() {
-					return "";
-				},
-				getCDNHost: function() {
-					return "";
-				},
-				getCompanyId: function() {
-					return "10108";
-				},
-				getCompanyGroupId: function() {
-					return "260730";
-				},
-				getDefaultLanguageId: function() {
-					return "en_US";
-				},
-				getDoAsUserIdEncoded: function() {
-					return "";
-				},
-				getLanguageId: function() {
-					return "en_US";
-				},
-				getParentGroupId: function() {
-					return "1494939";
-				},
-				getPathContext: function() {
-					return "";
-				},
-				getPathImage: function() {
-					return "/image";
-				},
-				getPathJavaScript: function() {
-					return "/html/js";
-				},
-				getPathMain: function() {
-					return "/c";
-				},
-				getPathThemeImages: function() {
-					return "https://www.rspca.org.uk/ptl2017Themes/images";
-				},
-				getPathThemeRoot: function() {
-					return "/ptl2017Themes";
-				},
-				getPlid: function() {
-					return "1571256";
-				},
-				getPortalURL: function() {
-					return "https://www.rspca.org.uk";
-				},
-				getPortletSetupShowBordersDefault: function() {
-					return true;
-				},
-				getScopeGroupId: function() {
-					return "1494939";
-				},
-				getScopeGroupIdOrLiveGroupId: function() {
-					return "1494939";
-				},
-				getSessionId: function() {
-					
-						
-						
-							return "";
-						
-					
-				},
-				getSiteGroupId: function() {
-					return "1494939";
-				},
-				getURLControlPanel: function() {
-					return "/group/control_panel?refererPlid=1571256";
-				},
-				getURLHome: function() {
-					return "https\x3a\x2f\x2fwww\x2erspca\x2eorg\x2euk\x2fhome";
-				},
-				getUserId: function() {
-					return "10110";
-				},
-				getUserName: function() {
-					
-						
-						
-							return "";
-						
-					
-				},
-				isAddSessionIdToURL: function() {
-					return false;
-				},
-				isFreeformLayout: function() {
-					return false;
-				},
-				isImpersonated: function() {
-					return false;
-				},
-				isSignedIn: function() {
-					return false;
-				},
-				isStateExclusive: function() {
-					return false;
-				},
-				isStateMaximized: function() {
-					return false;
-				},
-				isStatePopUp: function() {
-					return false;
-				}
+				return 'https://www.rspca.org.uk/utilities/privacy';
 			},
-
-			PropsValues: {
-				NTLM_AUTH_ENABLED: false
+			getCDNBaseURL: function() {
+				return 'https://www.rspca.org.uk';
+			},
+			getCDNDynamicResourcesHost: function() {
+				return '';
+			},
+			getCDNHost: function() {
+				return '';
+			},
+			getCompanyGroupId: function() {
+				return '260730';
+			},
+			getCompanyId: function() {
+				return '10108';
+			},
+			getDefaultLanguageId: function() {
+				return 'en_US';
+			},
+			getDoAsUserIdEncoded: function() {
+				return '';
+			},
+			getLanguageId: function() {
+				return 'en_US';
+			},
+			getParentGroupId: function() {
+				return '1494939';
+			},
+			getPathContext: function() {
+				return '';
+			},
+			getPathImage: function() {
+				return '/image';
+			},
+			getPathJavaScript: function() {
+				return '/o/frontend-js-web';
+			},
+			getPathMain: function() {
+				return '/c';
+			},
+			getPathThemeImages: function() {
+				return 'https://www.rspca.org.uk/o/ptl2017Theme/images';
+			},
+			getPathThemeRoot: function() {
+				return '/o/ptl2017Theme';
+			},
+			getPlid: function() {
+				return '1571256';
+			},
+			getPortalURL: function() {
+				return 'https://www.rspca.org.uk';
+			},
+			getScopeGroupId: function() {
+				return '1494939';
+			},
+			getScopeGroupIdOrLiveGroupId: function() {
+				return '1494939';
+			},
+			getSessionId: function() {
+				return '';
+			},
+			getSiteAdminURL: function() {
+				return 'https://www.rspca.org.uk/group/rspca/~/control_panel/manage?p_p_lifecycle=0&p_p_state=maximized&p_p_mode=view';
+			},
+			getSiteGroupId: function() {
+				return '1494939';
+			},
+			getURLControlPanel: function() {
+				return '/group/control_panel?refererPlid=1571256';
+			},
+			getURLHome: function() {
+				return 'https\x3a\x2f\x2fwww\x2erspca\x2eorg\x2euk\x2fhome';
+			},
+			getUserId: function() {
+				return '10110';
+			},
+			getUserName: function() {
+				return '';
+			},
+			isAddSessionIdToURL: function() {
+				return false;
+			},
+			isFreeformLayout: function() {
+				return false;
+			},
+			isImpersonated: function() {
+				return false;
+			},
+			isSignedIn: function() {
+				return false;
+			},
+			isStateExclusive: function() {
+				return false;
+			},
+			isStateMaximized: function() {
+				return false;
+			},
+			isStatePopUp: function() {
+				return false;
 			}
 		};
 
 		var themeDisplay = Liferay.ThemeDisplay;
 
-		
-
 		Liferay.AUI = {
+
+			
+
 			getAvailableLangPath: function() {
-				return 'available_languages.jsp?browserId=other&themeId=mainSite_WAR_ptl2017Themes&colorSchemeId=01&minifierType=js&languageId=en_US&b=6210&t=1475743432000';
+				return 'available_languages.jsp?browserId=other&themeId=mainSiteTheme_WAR_ptl2017Theme&colorSchemeId=01&minifierType=js&languageId=en_US&b=7010&t=1547131173610';
 			},
 			getCombine: function() {
 				return true;
 			},
 			getComboPath: function() {
-				return '/combo/?browserId=other&minifierType=&languageId=en_US&b=6210&t=1475743432000&';
+				return '/combo/?browserId=other&minifierType=&languageId=en_US&b=7010&t=1547131173610&';
+			},
+			getDateFormat: function() {
+				return '%m/%d/%Y';
+			},
+			getEditorCKEditorPath: function() {
+				return '/o/frontend-editor-ckeditor-web';
 			},
 			getFilter: function() {
+				var filter = 'raw';
+
 				
 					
-						return 'min';
+						filter = 'min';
 					
 					
-					
-				
+
+				return filter;
+			},
+			getFilterConfig: function() {
+				var instance = this;
+
+				var filterConfig = null;
+
+				if (!instance.getCombine()) {
+					filterConfig = {
+						replaceStr: '.js' + instance.getStaticResourceURLParams(),
+						searchExp: '\\.js$'
+					};
+				}
+
+				return filterConfig;
 			},
 			getJavaScriptRootPath: function() {
-				return '/html/js';
+				return '/o/frontend-js-web';
 			},
 			getLangPath: function() {
-				return 'aui_lang.jsp?browserId=other&themeId=mainSite_WAR_ptl2017Themes&colorSchemeId=01&minifierType=js&languageId=en_US&b=6210&t=1475743432000';
+				return 'aui_lang.jsp?browserId=other&themeId=mainSiteTheme_WAR_ptl2017Theme&colorSchemeId=01&minifierType=js&languageId=en_US&b=7010&t=1547131173610';
+			},
+			getPortletRootPath: function() {
+				return '/html/portlet';
 			},
 			getStaticResourceURLParams: function() {
-				return '?browserId=other&minifierType=&languageId=en_US&b=6210&t=1475743432000';
+				return '?browserId=other&minifierType=&languageId=en_US&b=7010&t=1547131173610';
 			}
 		};
 
-		Liferay.authToken = 'sbKhJBRO';
+		Liferay.authToken = 'QqKfKZuw';
 
 		
 
@@ -517,26 +550,34 @@
 </script>
 
 
+
+	
+
+	<script src="/o/js_loader_modules?t=1553877328740" type="text/javascript"></script>
+
+
+
 	
 		
 			
-				<script src="/html/js/barebone.jsp?browserId=other&amp;themeId=mainSite_WAR_ptl2017Themes&amp;colorSchemeId=01&amp;minifierType=js&amp;minifierBundleId=javascript.barebone.files&amp;languageId=en_US&amp;b=6210&amp;t=1475743432000" type="text/javascript"></script>
+				<script src="/o/frontend-js-web/barebone.jsp?browserId=other&amp;themeId=mainSiteTheme_WAR_ptl2017Theme&amp;colorSchemeId=01&amp;minifierType=js&amp;minifierBundleId=javascript.barebone.files&amp;languageId=en_US&amp;b=7010&amp;t=1547131173610" type="text/javascript"></script>
 			
 			
-		
 	
 	
 
 
-<script type="text/javascript">
+
+	
+
+	<script src="/o/js_bundle_config?t=1553598919695" type="text/javascript"></script>
+
+
+<script data-senna-track="temporary" type="text/javascript">
 	// <![CDATA[
 		
-
 			
-
-			
-				Liferay.Portlet.list = ['fatwireArticle_WAR_ptlFatwireArticlePortlets', 'fatwireListing_WAR_ptlFatwireArticlePortlets_INSTANCE_4Ioi', 'fatwireContent_WAR_ptlFatwireArticlePortlets_INSTANCE_kvoyUXufgPJi', 'megaNav_WAR_ptl2014NavigationPortlet_INSTANCE_Z5Xg', 'fatwireContent_WAR_ptlFatwireArticlePortlets_INSTANCE_RKpWg2hRxHyO', 'fatwireContent_WAR_ptlFatwireArticlePortlets_INSTANCE_PBeixnJKoHtf', 'fatwireContent_WAR_ptlFatwireArticlePortlets_INSTANCE_cDlEsAlf3fAG', 'print_WAR_ptlFatwireArticlePortlets_INSTANCE_tA6F', '20', '15', 'footerListing_WAR_ptlFatwireArticlePortlets_INSTANCE_E3j7', 'snippet_WAR_ptlHTMLSnippetPortlet_INSTANCE_j8Bp', 'fatwireListing_WAR_ptlFatwireArticlePortlets_INSTANCE_RW3b', 'snippet_WAR_ptlHTMLSnippetPortlet_INSTANCE_2aSQ', 'megaNav_WAR_ptl2014NavigationPortlet_INSTANCE_ww5N', 'breadcrumb2014_WAR_ptl2014NavigationPortlet', 'socialNetworkingPortlet_WAR_ptlSocialNetworkingPortlet'];
-			
+				
 		
 
 		
@@ -549,47 +590,22 @@
 
 
 
-	
-		
-			<style>.async-hide { opacity: 0 !important} </style>
 
-			
-
-			
-				<script>
-					(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){ (i[r].q=i[r].q||[]).push(arguments)}
-					,i[r].l=1*new Date();a=s.createElement(o),
-					m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
-					})(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
-					ga('create', 'UA-1859103-1', 'auto');
-					ga('require', 'GTM-5PJT8M4');
-				</script>
-			
-				<style>.async-hide
-					{ opacity: 0 !important}
-				</style>
-				
-				<script>
-				(function(a,s,y,n,c,h,i,d,e){s.className+=' '+y;h.start=1*new Date;
-					h.end=i=function(){s.className=s.className.replace(RegExp(' ?'+y),'')
-					};
-					(a[n]=a[n]||[]).hide=h;setTimeout(function()
-					{i();h.end=null}
-					,c);h.timeout=c;
-					})(window,document.documentElement,'async-hide','dataLayer',4000,
-						{'GTM-5PJT8M4':true}
-					);
-				</script>
-			
-			
-		
-		
-	
 
 
 
 	
 		
+
+			
+
+			
+		
+		
+
+
+
+	
 		
 
 			
@@ -607,37 +623,23 @@
 
 
 
-	
 
-				<script src="https://www.rspca.org.uk/ptlFatwireArticlePortlets/js/accordion.js?a=3" type="text/javascript"></script>
 
 	
 
-				<script src="https://www.rspca.org.uk/ptlFatwireArticlePortlets/js/friendlyURL.js?browserId=other&amp;minifierType=js&amp;languageId=en_US&amp;b=6210&amp;t=1528192304000" type="text/javascript"></script>
+	
+
+
+
+
 
 	
 
-				<script src="https://www.rspca.org.uk/ptlFatwireArticlePortlets/js/expand.js?browserId=other&amp;minifierType=js&amp;languageId=en_US&amp;b=6210&amp;t=1528192304000" type="text/javascript"></script>
+
 
 	
 
-				<script src="https://www.rspca.org.uk/ptlFatwireArticlePortlets/js/listing.js?browserId=other&amp;minifierType=js&amp;languageId=en_US&amp;b=6210&amp;t=1528192304000" type="text/javascript"></script>
-
-	
-
-				<script src="https://www.rspca.org.uk/ptlFatwireArticlePortlets/js/print.js?browserId=other&amp;minifierType=js&amp;languageId=en_US&amp;b=6210&amp;t=1528192304000" type="text/javascript"></script>
-
-	
-
-				<script src="https://www.rspca.org.uk/html/portlet/journal/js/main.js?browserId=other&amp;minifierType=js&amp;languageId=en_US&amp;b=6210&amp;t=1529578184000" type="text/javascript"></script>
-
-	
-
-				<script src="https://www.rspca.org.uk/html/portlet/journal/js/navigation.js?browserId=other&amp;minifierType=js&amp;languageId=en_US&amp;b=6210&amp;t=1529578184000" type="text/javascript"></script>
-
-	
-
-				<script src="https://www.rspca.org.uk/ptlSocialNetworkingPortlet/js/social.js?browserId=other&amp;minifierType=js&amp;languageId=en_US&amp;b=6210&amp;t=1528192358000" type="text/javascript"></script>
+		<script data-senna-track="temporary" src="/combo?browserId=other&amp;minifierType=&amp;themeId=mainSiteTheme_WAR_ptl2017Theme&amp;languageId=en_US&amp;b=7010&amp;com_liferay_staging_bar_web_portlet_StagingBarPortlet:%2Fjs%2Fstaging.js&amp;com_liferay_staging_bar_web_portlet_StagingBarPortlet:%2Fjs%2Fstaging_branch.js&amp;com_liferay_staging_bar_web_portlet_StagingBarPortlet:%2Fjs%2Fstaging_version.js&amp;fatwireListing_WAR_ptlFatwireArticlePortlets_INSTANCE_4Ioi:%2Fjs%2Flisting.js&amp;print_WAR_ptlFatwireArticlePortlets_INSTANCE_tA6F:%2Fjs%2Fprint.js&amp;t=1552043016000" type="text/javascript"></script>
 
 	
 
@@ -651,14 +653,130 @@
 
 
 
-<link class="lfr-css-file" href="https://www.rspca.org.uk/ptl2017Themes/mainSite/css/main.css?browserId=other&amp;themeId=mainSite_WAR_ptl2017Themes&amp;minifierType=css&amp;languageId=en_US&amp;b=6210&amp;t=1528192271000" rel="stylesheet" type="text/css">
+<link class="lfr-css-file" data-senna-track="temporary" href="https://www.rspca.org.uk/o/ptl2017Theme/css/main.css?browserId=other&amp;themeId=mainSiteTheme_WAR_ptl2017Theme&amp;minifierType=css&amp;languageId=en_US&amp;b=7010&amp;t=1553877328740" id="liferayThemeCSS" rel="stylesheet" type="text/css">
 
 
 
 
-	<style type="text/css">
+	<style data-senna-track="temporary" type="text/css">
 		#dynDonationAsks label {
     display: inline;
+}
+
+.unapproved-warning {
+   border: 1px solid #f00!important;
+}
+
+.textContainer{
+    padding-left: 20px;
+    padding-right: 20px;
+    height: 178px;
+    overflow: hidden;
+    width: calc(100% - 40px);
+}
+
+.contentImage {
+    width: 100%;
+    height: 131px;
+}
+
+#wrapper   a.themeActionButton,  #wrapper   a.themeActionButton:hover, .themeActionButton:visited,  .themeDonationButton:focus, #wrapper .journal-content-article .themeActionButton {
+	display: inline;
+}
+
+.portlet-topper-toolbar .portlet-options {
+	right:  20px;
+}
+@media all and (max-width: 1006px) and (min-width:768px) {
+    .journal-content-article .mobileContentHorizontal {
+        display: flex;
+        overflow: hidden;
+    }
+
+	.journal-content-article .textContainer.hideAbstractMobile {
+        height:129px;
+    }
+	
+    #wrapper .journal-content-article .mobileContentHorizontal .title {
+        margin: 0;
+        padding: 0;
+    }
+	
+    .journal-content-article .mobileContentHorizontal .abstract {
+        display: none;
+    }
+
+    .journal-content-article .mobileContentVertical .abstract {
+        display: none;
+    }
+
+    .journal-content-article .mobileContentHorizontal .contentImage {
+        width: 50%;
+        height: 50%;
+        flex: 1;
+    }
+
+	.journal-content-article .imageDiv {
+		  flex:1;
+	}
+    .journal-content-article .mobileContentHorizontal .abstract {
+        display: none;
+    }
+
+    .journal-content-article .mobileContentHorizontal .textContainer {
+        width: calc(50% - 30px);
+        height: auto;
+        flex: 1;
+        padding-top: 10px;
+        padding-left: 15px;
+        padding-right: 15px;
+    }
+}
+
+@media all and (max-width: 767px) {
+    .journal-content-article .mobileContentHorizontal {
+        display: flex;
+        overflow: hidden;
+    }
+	.journal-content-article .textContainer.hideAbstractMobile {
+        height:129px;
+    }
+
+	#wrapper .journal-content-article .mobileContentHorizontal .title{
+        margin: 0;
+        padding: 0;
+    }
+
+    .journal-content-article .mobileContentVertical .abstract {
+        display: none;
+    }
+	
+	.journal-content-article .imageDiv {
+		  flex:1;
+	}
+
+    .journal-content-article .mobileContentHorizontal .abstract {
+        display: none;
+    }
+
+    .journal-content-article .mobileContentHorizontal .contentImage {
+        width: 50%;
+        height: 50%;
+        flex: 1;
+    }
+
+   .journal-content-article .standardContent:not(.mobileContentHorizontal) .contentImage{
+        height: auto;
+    }
+
+    .journal-content-article .mobileContentHorizontal .textContainer {
+        width: calc(50% - 30px);
+        height: auto;
+        flex: 1;
+        padding-top: 10px;
+        padding-left: 15px;
+        padding-right: 15px;
+    }
 }
 	</style>
 
@@ -666,31 +784,7 @@
 
 
 
-	<style type="text/css">
-
-		
-
-			
-
-		
-
-			
-
-		
-
-			
-
-		
-
-			
-
-		
-
-			
-
-		
-
-			
+	<style data-senna-track="temporary" type="text/css">
 
 		
 
@@ -749,26 +843,91 @@
 	</style>
 
 
+<link data-senna-track="permanent" href="https://www.rspca.org.uk/combo?browserId=other&amp;minifierType=css&amp;languageId=en_US&amp;b=7010&amp;t=1547131138098&amp;/o/product-navigation-simulation-theme-contributor/css/simulation_panel.css&amp;/o/product-navigation-product-menu-dxp-theme-contributor/product_navigation_product_menu.css&amp;/o/product-navigation-control-menu-dxp-theme-contributor/product_navigation_control_menu.css" rel="stylesheet" type="text/css">
+<script data-senna-track="permanent" src="https://www.rspca.org.uk/combo?browserId=other&amp;minifierType=js&amp;languageId=en_US&amp;b=7010&amp;t=1547131138098&amp;/o/product-navigation-control-menu-dxp-theme-contributor/product_navigation_control_menu.js" type="text/javascript"></script>
+<script type="text/javascript">
+// <![CDATA[
+Liferay.on(
+	'ddmFieldBlur', function(event) {
+		if (window.Analytics) {
+			Analytics.send(
+				'fieldBlurred',
+				'Form',
+				{
+					fieldName: event.fieldName,
+					focusDuration: event.focusDuration,
+					formId: event.formId,
+					page: event.page - 1
+				}
+			);
+		}
+	}
+);
 
+Liferay.on(
+	'ddmFieldFocus', function(event) {
+		if (window.Analytics) {
+			Analytics.send(
+				'fieldFocused',
+				'Form',
+				{
+					fieldName: event.fieldName,
+					formId: event.formId,
+					page: event.page - 1
+				}
+			);
+		}
+	}
+);
 
-<meta http-equiv="X-UA-Compatible" content="IE=Edge">
-<meta name="google-site-verification" content="F8ZWAMxjbusBK4XDxAe4ptWDpAe_zEprBWhkIVR-RWU">
-<meta content="initial-scale=1.0, width=device-width, maximum-scale=1.0, user-scalable=no" name="viewport"> 
-	<!-- canonicalUrl found in request -->
+Liferay.on(
+	'ddmFormPageShow', function(event) {
+		if (window.Analytics) {
+			Analytics.send(
+				'pageViewed',
+				'Form',
+				{
+					formId: event.formId,
+					page: event.page,
+					title: event.title
+				}
+			);
+		}
+	}
+);
 
-	<link rel="canonical" href="https://www.rspca.org.uk/utilities/privacy">
+Liferay.on(
+	'ddmFormSubmit', function(event) {
+		if (window.Analytics) {
+			Analytics.send(
+				'formSubmitted',
+				'Form',
+				{
+					formId: event.formId
+				}
+			);
+		}
+	}
+);
 
+Liferay.on(
+	'ddmFormView', function(event) {
+		if (window.Analytics) {
+			Analytics.send(
+				'formViewed',
+				'Form',
+				{
+					formId: event.formId,
+					title: event.title
+				}
+			);
+		}
+	}
+);
+// ]]>
+</script>
 
-
-
-<script type="text/javascript" src="//ajax.googleapis.com/ajax/libs/jquery/2.1.0/jquery.min.js"></script>
-<script type="text/javascript" src="//code.jquery.com/jquery-migrate-1.2.1.min.js"></script>
-
-<script type="text/javascript" src="/ptl2017Themes/js/askAnnie.js?a=1"></script>	
-<script type="text/javascript" src="/webContent/webComponents/pluginIncludeFilesChecker/js/pluginIncludeFilesChecker.js"></script>
-<script type="text/javascript" src="/webContent/webComponents/cookieBar/js/jquery.cookiebar.refresh.js"></script>
-
-	<!-- Facebook Pixel Code -->
+<!-- Facebook Pixel Code -->
 <script>
   !function(f,b,e,v,n,t,s){
   	if(f.fbq)return;n=f.fbq=function(){n.callMethod?
@@ -795,7 +954,40 @@
   gtag('config', 'AW-1007595157');
   gtag('config', 'DC-6522851')
 </script>
-<!-- end Global site tag  --><!-- Begin TVSquared Tracking Code -->
+<!-- end Global site tag  -->		<link href="https://plus.google.com/100597930162075621755/" rel="publisher">
+
+<link rel="stylesheet" type="text/css" href="/webContent/webComponents/cookieBar/css/jquery.cookiebar.refresh.css">
+<link rel="stylesheet" type="text/css" href="/webContent/webComponents/css/fontAwesome/css/all.css">
+
+			<meta http-equiv="X-UA-Compatible" content="IE=Edge">
+<meta name="google-site-verification" content="F8ZWAMxjbusBK4XDxAe4ptWDpAe_zEprBWhkIVR-RWU">
+<meta content="initial-scale=1.0, width=device-width, maximum-scale=1.0, user-scalable=no" name="viewport"> 
+
+
+	<meta property="og:title" content="Privacy and Cookie Policy | RSPCA">
+
+	<meta property="og:description" content="We are committed to protecting the privacy of your personal data. Please read our RSPCA privacy policy.">
+
+	
+	
+<meta property="og:image" content="https://www.rspca.org.uk/o/ptl2017Theme/images/RSPCA_Logo_Big.png">
+	<meta property="og:image:width" content="1396">
+	<meta property="og:image:height" content="775">
+
+
+	<meta property="og:type" content="article">
+	<meta property="og:url" content="https://www.rspca.org.uk/utilities/privacy">
+
+
+
+<script type="text/javascript" src="//ajax.googleapis.com/ajax/libs/jquery/2.1.0/jquery.min.js"></script>
+<script type="text/javascript" src="//code.jquery.com/jquery-migrate-1.2.1.min.js"></script>
+
+<script type="text/javascript" src="https://www.rspca.org.uk/o/ptl2017Theme/js/askAnnie.js?a=1"></script>	
+<script type="text/javascript" src="/webContent/webComponents/pluginIncludeFilesChecker/js/pluginIncludeFilesChecker.js"></script>
+<script type="text/javascript" src="/webContent/webComponents/cookieBar/js/jquery.cookiebar.refresh.js"></script>
+
+	<!-- Begin TVSquared Tracking Code -->
 <script type="text/javascript">
 var _tvq = window._tvq = window._tvq || [];
 (function() {
@@ -817,44 +1009,14 @@ g.src = u + 'tv2track.js';
 s.parentNode.insertBefore(g, s);
 })();
 </script>
-<!-- End TVSquared Tracking Code -->	</head>
+<!-- End TVSquared Tracking Code -->	<script src="/combo/?browserId=other&amp;minifierType=&amp;languageId=en_US&amp;b=7010&amp;t=1547131173610&amp;/o/frontend-js-metal-web/metal/src/coreNamed.js&amp;/o/frontend-js-metal-web/metal/src/core.js&amp;/o/frontend-js-metal-web/metal/src/array/array.js&amp;/o/frontend-js-metal-web/metal/src/async/async.js&amp;/o/frontend-js-metal-web/metal/src/disposable/Disposable.js&amp;/o/frontend-js-metal-web/metal/src/object/object.js&amp;/o/frontend-js-metal-web/metal/src/string/string.js&amp;/o/frontend-js-metal-web/metal/src/metal.js&amp;/o/frontend-js-metal-web/metal-dom/src/domData.js&amp;/o/frontend-js-metal-web/metal-events/src/EventHandle.js&amp;/o/frontend-js-metal-web/metal-events/src/EventEmitter.js&amp;/o/frontend-js-metal-web/metal-events/src/EventEmitterProxy.js&amp;/o/frontend-js-metal-web/metal-events/src/EventHandler.js&amp;/o/frontend-js-metal-web/metal-events/src/events.js&amp;/o/frontend-js-metal-web/metal-dom/src/DomDelegatedEventHandle.js&amp;/o/frontend-js-metal-web/metal-dom/src/DomEventHandle.js&amp;/o/frontend-js-metal-web/metal-dom/src/domNamed.js&amp;/o/frontend-js-metal-web/metal-dom/src/dom.js&amp;/o/frontend-js-metal-web/metal-dom/src/DomEventEmitterProxy.js&amp;/o/frontend-js-metal-web/metal-dom/src/features.js&amp;/o/frontend-js-metal-web/metal-dom/src/globalEval.js&amp;/o/frontend-js-metal-web/metal-dom/src/globalEvalStyles.js&amp;/o/frontend-js-metal-web/metal-dom/src/events.js&amp;/o/frontend-js-metal-web/metal-dom/src/all/dom.js&amp;/o/frontend-js-metal-web/metal-uri/src/parseFromAnchor.js&amp;/o/frontend-js-metal-web/metal-uri/src/parse.js&amp;/o/frontend-js-metal-web/metal-structs/src/MultiMap.js&amp;/o/frontend-js-metal-web/metal-structs/src/TreeNode.js&amp;/o/frontend-js-metal-web/metal-structs/src/all/structs.js&amp;/o/frontend-js-metal-web/metal-uri/src/Uri.js"></script></head>
 	
-	<body class=" yui3-skin-sam controls-visible signed-out public-page site theme">
-<script src="/ptl2017Themes/js/flyout.js?a=99" type="text/javascript"></script>
+	<body class=" controls-visible  yui3-skin-sam signed-out public-page site theme ">
+<script src="https://www.rspca.org.uk/o/ptl2017Theme/js/flyout.js?a=99" type="text/javascript"></script>
 
 
 	
 		<a name="backtotoplink"></a>
-		<a href="#main-content" id="skip-to-content">Skip to Content</a>
-		
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
@@ -950,17 +1112,16 @@ s.parentNode.insertBefore(g, s);
 	
 	
 		<div class="container-fluid" id="wrapper">
-	
 
 <header id="banner" role="banner">		
 		<div id="heading">
 			<a class="logo custom-logo" href="https://www.rspca.org.uk/home" title="" key="go-to-x">
-				<img alt="Royal Society for the Prevention of Cruelty to Animals" src="\ptl2017Themes\images\img\rspca.png">
+				<img alt="Royal Society for the Prevention of Cruelty to Animals" src="https://www.rspca.org.uk/o/ptl2017Theme/images\img\rspca.png">
 			</a>
             <div id="mobile-nav-menu">
-				<a class="hardcoded nav-item nav-search" href="https://www.rspca.org.uk/search"><img src="/ptl2017Themes/images/rspca_navigation/nav-search.png" alt="Search the RSPCA'"></a>
-				<img class="headerSeparator" src="\ptl2017Themes\images\img\separator.png" alt="">
-            	<img class="menu-icon" src="\ptl2017Themes\images\rspca_navigation\mobile-menu.png" alt="RSPCA site navigation">
+				<a class="hardcoded nav-item nav-search" href="https://www.rspca.org.uk/search"><img src="https://www.rspca.org.uk/o/ptl2017Theme/images/rspca_navigation/nav-search.png" alt="Search the RSPCA'"></a>
+				<img class="headerSeparator" src="https://www.rspca.org.uk/o/ptl2017Theme/images\img\separator.png" alt="">
+            	<img class="menu-icon" src="https://www.rspca.org.uk/o/ptl2017Theme/images\rspca_navigation\mobile-menu.png" alt="RSPCA site navigation">
             </div>
             <div id="header-nav-menu">
 	
@@ -979,8 +1140,8 @@ s.parentNode.insertBefore(g, s);
 				<li class="nav-item " data-id="1565924" data-parent-id="0" id="layout_1565924" role="presentation">
 					<div>
 					<a aria-labelledby="layout_1565924" href="https://www.rspca.org.uk/findapet" class="themeTxtSmBd" role="menuitem"><span>Find a pet</span></a>
-						<img class="nav-open nav-button" src="/ptl2017Themes/images/rspca_navigation/down-chevron.png" alt="">
-						<img class="nav-close nav-button" src="/ptl2017Themes/images/rspca_navigation/up-chevron.png" alt="">
+						<img class="nav-open nav-button" src="https://www.rspca.org.uk/o/ptl2017Theme/images/rspca_navigation/down-chevron.png" alt="">
+						<img class="nav-close nav-button" src="https://www.rspca.org.uk/o/ptl2017Theme/images/rspca_navigation/up-chevron.png" alt="">
 						</div>
 	
 	<ul aria-label="Site Pages" class=" nested_nav mobile nav-list-child" role="menubar">
@@ -1023,9 +1184,9 @@ s.parentNode.insertBefore(g, s);
 				
 				<li class="nav-item " data-id="1546200" data-parent-id="0" id="layout_1546200" role="presentation">
 					<div>
-					<a aria-labelledby="layout_1546200" href="https://www.rspca.org.uk/adviceandwelfare" class="themeTxtSmBd" role="menuitem"><span>Advice and Welfare</span></a>
-						<img class="nav-open nav-button" src="/ptl2017Themes/images/rspca_navigation/down-chevron.png" alt="">
-						<img class="nav-close nav-button" src="/ptl2017Themes/images/rspca_navigation/up-chevron.png" alt="">
+					<a aria-labelledby="layout_1546200" href="https://www.rspca.org.uk/adviceandwelfare" class="themeTxtSmBd" role="menuitem"><span>Advice and welfare</span></a>
+						<img class="nav-open nav-button" src="https://www.rspca.org.uk/o/ptl2017Theme/images/rspca_navigation/down-chevron.png" alt="">
+						<img class="nav-close nav-button" src="https://www.rspca.org.uk/o/ptl2017Theme/images/rspca_navigation/up-chevron.png" alt="">
 						</div>
 	
 	<ul aria-label="Site Pages" class=" nested_nav mobile nav-list-child" role="menubar">
@@ -1101,8 +1262,8 @@ s.parentNode.insertBefore(g, s);
 				<li class="nav-item " data-id="1563828" data-parent-id="0" id="layout_1563828" role="presentation">
 					<div>
 					<a aria-labelledby="layout_1563828" href="https://www.rspca.org.uk/getinvolved" class="themeTxtSmBd" role="menuitem"><span>Get involved</span></a>
-						<img class="nav-open nav-button" src="/ptl2017Themes/images/rspca_navigation/down-chevron.png" alt="">
-						<img class="nav-close nav-button" src="/ptl2017Themes/images/rspca_navigation/up-chevron.png" alt="">
+						<img class="nav-open nav-button" src="https://www.rspca.org.uk/o/ptl2017Theme/images/rspca_navigation/down-chevron.png" alt="">
+						<img class="nav-close nav-button" src="https://www.rspca.org.uk/o/ptl2017Theme/images/rspca_navigation/up-chevron.png" alt="">
 						</div>
 	
 	<ul aria-label="Site Pages" class=" nested_nav mobile nav-list-child" role="menubar">
@@ -1194,8 +1355,8 @@ s.parentNode.insertBefore(g, s);
 				<li class="nav-item " data-id="1573248" data-parent-id="0" id="layout_1573248" role="presentation">
 					<div>
 					<a aria-labelledby="layout_1573248" href="https://www.rspca.org.uk/whatwedo" class="themeTxtSmBd" role="menuitem"><span>What we do</span></a>
-						<img class="nav-open nav-button" src="/ptl2017Themes/images/rspca_navigation/down-chevron.png" alt="">
-						<img class="nav-close nav-button" src="/ptl2017Themes/images/rspca_navigation/up-chevron.png" alt="">
+						<img class="nav-open nav-button" src="https://www.rspca.org.uk/o/ptl2017Theme/images/rspca_navigation/down-chevron.png" alt="">
+						<img class="nav-close nav-button" src="https://www.rspca.org.uk/o/ptl2017Theme/images/rspca_navigation/up-chevron.png" alt="">
 						</div>
 	
 	<ul aria-label="Site Pages" class=" nested_nav mobile nav-list-child" role="menubar">
@@ -1263,8 +1424,8 @@ s.parentNode.insertBefore(g, s);
 				<li class="nav-item " data-id="1575882" data-parent-id="0" id="layout_1575882" role="presentation">
 					<div>
 					<a aria-labelledby="layout_1575882" href="https://www.rspca.org.uk/shoponline" class="themeTxtSmBd" role="menuitem"><span>Shop online</span></a>
-						<img class="nav-open nav-button" src="/ptl2017Themes/images/rspca_navigation/down-chevron.png" alt="">
-						<img class="nav-close nav-button" src="/ptl2017Themes/images/rspca_navigation/up-chevron.png" alt="">
+						<img class="nav-open nav-button" src="https://www.rspca.org.uk/o/ptl2017Theme/images/rspca_navigation/down-chevron.png" alt="">
+						<img class="nav-close nav-button" src="https://www.rspca.org.uk/o/ptl2017Theme/images/rspca_navigation/up-chevron.png" alt="">
 						</div>
 	
 	<ul aria-label="Site Pages" class=" nested_nav mobile nav-list-child" role="menubar">
@@ -1295,14 +1456,6 @@ s.parentNode.insertBefore(g, s);
 				
 	
 				
-				<li class="nav-item " data-id="5071370" data-parent-id="1575882" id="layout_5071370" role="presentation">
-					<div>
-					<a aria-labelledby="layout_5071370" href="https://www.rspca.org.uk/shoponline/home" class="themeTxtSm" role="menuitem"><span>Home insurance</span></a>
-						</div>
-				</li>
-				
-	
-				
 				<li class="nav-item " data-id="5071790" data-parent-id="1575882" id="layout_5071790" role="presentation">
 					<div>
 					<a aria-labelledby="layout_5071790" href="https://www.rspca.org.uk/shoponline/shopanddonate" class="themeTxtSm" role="menuitem"><span>Shop and donate</span></a>
@@ -1313,33 +1466,29 @@ s.parentNode.insertBefore(g, s);
 	</ul>
 				<div class="header-nav-menu-buttons">
 					<div class="crueltyDonateButtons">
-						<a href="/utilities/contactus/reportcruelty" class="crueltyButton"><img src="\ptl2017Themes\images\img\reportCruelty.png" alt="Icon">Report cruelty</a>
+						<a href="/utilities/contactus/reportcruelty" class="crueltyButton"><img src="https://www.rspca.org.uk/o/ptl2017Theme/images\img\reportCruelty.png" alt="Icon">Report cruelty</a>
 						<a href="/getinvolved/donate/online" class="themeDonationButton">Donate</a>
 					</div>
-					<div class="askQuestionButton ask-question"><img src="\ptl2017Themes\images\img\askaquestion.png" alt="Icon">Ask us a question</div>
-					<a href="/whatwedo/yourlocal" class="yourLocalButton"><img src="\ptl2017Themes\images\img\yourRSPCA.png" alt="Icon">Your local RSPCA</a>
-					<a class="myRSPCA" href="https://www.rspca.org.uk/myrspca"><img src="\ptl2017Themes\images\img\myRSPCA.png" alt="Icon"><span>my RSPCA</span></a>
+					<div class="askQuestionButton ask-question"><img src="https://www.rspca.org.uk/o/ptl2017Theme/images\img\askaquestion.png" alt="Icon">Ask us a question</div>
+					<a href="/whatwedo/yourlocal" class="yourLocalButton"><img src="https://www.rspca.org.uk/o/ptl2017Theme/images\img\yourRSPCA.png" alt="Icon">Your local RSPCA</a>
+					<a class="myRSPCA" href="https://www.rspca.org.uk/myrspca"><img src="https://www.rspca.org.uk/o/ptl2017Theme/images\img\myRSPCA.png" alt="Icon"><span>my RSPCA</span></a>
 				</div>
             </div>
 			<hr>
 			<div class="headerButtons">
-    			<div class="askQuestionButton ask-question"><img src="\ptl2017Themes\images\img\askaquestion.png" alt="Icon">Ask us a question</div>
-    			<a href="/whatwedo/yourlocal" class="yourLocalButton"><img src="\ptl2017Themes\images\img\yourRSPCA.png" alt="Icon">Your local RSPCA</a>
-    			<a href="/utilities/contactus/reportcruelty" class="crueltyButton"><img src="\ptl2017Themes\images\img\reportCruelty.png" alt="Icon">Report cruelty</a>
+    			<div class="askQuestionButton ask-question"><img src="https://www.rspca.org.uk/o/ptl2017Theme/images\img\askaquestion.png" alt="Icon">Ask us a question</div>
+    			<a href="/whatwedo/yourlocal" class="yourLocalButton"><img src="https://www.rspca.org.uk/o/ptl2017Theme/images\img\yourRSPCA.png" alt="Icon">Your local RSPCA</a>
+    			<a href="/utilities/contactus/reportcruelty" class="crueltyButton"><img src="https://www.rspca.org.uk/o/ptl2017Theme/images\img\reportCruelty.png" alt="Icon">Report cruelty</a>
     			<a href="/getinvolved/donate/online" class="themeDonationButton">Donate</a>
             </div>
 		</div>
-	</header>	
-			<!--
-				<a href="https://www.rspca.org.uk/c/portal/login?p_l_id=1571256" data-redirect="false" id="sign-in" rel="nofollow">Sign In</a>
-			-->
-	
+	</header>
 
 <!-- Starting nav -->
 <nav id="site-navigation" role="navigation">
 
 
-		<!-- freemarker_version = 2.3.17 -->
+		<!-- freemarker_version = 2.3.23 -->
 		
 		<div id="theme-nav-bar">
 			<div id="nav-level-0">
@@ -1366,7 +1515,7 @@ s.parentNode.insertBefore(g, s);
 				
 				<li class="nav-item " data-id="1546200" data-parent-id="0" id="layout_1546200" role="presentation">
 					<div>
-					<a aria-labelledby="layout_1546200" href="https://www.rspca.org.uk/adviceandwelfare" class="themeTxtSm" role="menuitem"><span>Advice and Welfare</span></a>
+					<a aria-labelledby="layout_1546200" href="https://www.rspca.org.uk/adviceandwelfare" class="themeTxtSm" role="menuitem"><span>Advice and welfare</span></a>
 						</div>
 				</li>
 				
@@ -1403,14 +1552,6 @@ s.parentNode.insertBefore(g, s);
 				
 	
 				
-				<li class="nav-item " data-id="1585323" data-parent-id="1585322" id="layout_1585323" role="presentation">
-					<div>
-					<a aria-labelledby="layout_1585323" href="https://www.rspca.org.uk/myrspca/enquiries" class="themeTxtSm" role="menuitem"><span>Enquiries</span></a>
-						</div>
-				</li>
-				
-	
-				
 				<li class="nav-item " data-id="6371192" data-parent-id="1585322" id="layout_6371192" role="presentation">
 					<div>
 					<a aria-labelledby="layout_6371192" href="https://www.rspca.org.uk/myrspca/account" class="themeTxtSm" role="menuitem"><span>My account</span></a>
@@ -1424,12 +1565,20 @@ s.parentNode.insertBefore(g, s);
 					<a aria-labelledby="layout_6371200" href="https://www.rspca.org.uk/myrspca/pets" class="themeTxtSm" role="menuitem"><span>My pets</span></a>
 						</div>
 				</li>
+				
+	
+				
+				<li class="nav-item " data-id="1585323" data-parent-id="1585322" id="layout_1585323" role="presentation">
+					<div>
+					<a aria-labelledby="layout_1585323" href="https://www.rspca.org.uk/myrspca/enquiries" class="themeTxtSm" role="menuitem"><span>Enquiries</span></a>
+						</div>
+				</li>
 				<li class="nav-item" role="presentation">
 					<a href="/myrspca"><span>Sign in</span></a>
 				</li>
 	</ul>
 					</div>
-					<a class="hardcoded nav-item nav-search" href="https://www.rspca.org.uk/search"><img src="/ptl2017Themes/images/rspca_navigation/nav-search.png" alt="Search the RSPCA"></a>
+					<a class="hardcoded nav-item nav-search" href="https://www.rspca.org.uk/search"><img src="https://www.rspca.org.uk/o/ptl2017Theme/images/rspca_navigation/nav-search.png" alt="Search the RSPCA"></a>
 				</div>
 			</div>
 		</div>
@@ -1711,14 +1860,6 @@ s.parentNode.insertBefore(g, s);
 				
 	
 				
-				<li class="nav-item " data-id="5071370" data-parent-id="1575882" id="layout_5071370" role="presentation">
-					<div>
-					<a aria-labelledby="layout_5071370" href="https://www.rspca.org.uk/shoponline/home" class="themeTxtSm" role="menuitem"><span>Home insurance</span></a>
-						</div>
-				</li>
-				
-	
-				
 				<li class="nav-item " data-id="5071790" data-parent-id="1575882" id="layout_5071790" role="presentation">
 					<div>
 					<a aria-labelledby="layout_5071790" href="https://www.rspca.org.uk/shoponline/shopanddonate" class="themeTxtSm" role="menuitem"><span>Shop and donate</span></a>
@@ -1728,20 +1869,6 @@ s.parentNode.insertBefore(g, s);
 		</div>
 		
 		<div id="site-nav-container-level-2">
-	
-	<ul aria-label="Site Pages" class=" nav-level-2  nav-list-child" style="columns: 1;" role="menubar">
-				
-	
-				
-				<li class="nav-item " data-id="1981398" data-parent-id="1968942" id="layout_1981398" role="presentation">
-					<div>
-					<a aria-labelledby="layout_1981398" href="https://www.rspca.org.uk/formadmin/debugging" class="themeTxtSm" role="menuitem"><span>Debugging</span></a>
-						</div>
-				</li>
-	</ul>
-	
-	<ul aria-label="Site Pages" class=" nav-level-2  nav-list-child" role="menubar">
-	</ul>
 	
 	<ul aria-label="Site Pages" class=" nav-level-2  nav-list-child" style="columns: 1;" role="menubar">
 				
@@ -1957,6 +2084,22 @@ s.parentNode.insertBefore(g, s);
 				
 	
 				
+				<li class="nav-item " data-id="4974406" data-parent-id="1546520" id="layout_4974406" role="presentation">
+					<div>
+					<a aria-labelledby="layout_4974406" href="https://www.rspca.org.uk/adviceandwelfare/farm/onfarm" class="themeTxtSm" role="menuitem"><span>On-farm</span></a>
+						</div>
+				</li>
+				
+	
+				
+				<li class="nav-item " data-id="5553947" data-parent-id="1546520" id="layout_5553947" role="presentation">
+					<div>
+					<a aria-labelledby="layout_5553947" href="https://www.rspca.org.uk/adviceandwelfare/farm/livetransport" class="themeTxtSm" role="menuitem"><span>Live transport</span></a>
+						</div>
+				</li>
+				
+	
+				
 				<li class="nav-item " data-id="1546525" data-parent-id="1546520" id="layout_1546525" role="presentation">
 					<div>
 					<a aria-labelledby="layout_1546525" href="https://www.rspca.org.uk/adviceandwelfare/farm/pigs" class="themeTxtSm" role="menuitem"><span>Pigs</span></a>
@@ -2048,22 +2191,6 @@ s.parentNode.insertBefore(g, s);
 				<li class="nav-item " data-id="1546536" data-parent-id="1546520" id="layout_1546536" role="presentation">
 					<div>
 					<a aria-labelledby="layout_1546536" href="https://www.rspca.org.uk/adviceandwelfare/farm/worriedaboutafarmanimal" class="themeTxtSm" role="menuitem"><span>Worried about a farm animal?</span></a>
-						</div>
-				</li>
-				
-	
-				
-				<li class="nav-item " data-id="4974406" data-parent-id="1546520" id="layout_4974406" role="presentation">
-					<div>
-					<a aria-labelledby="layout_4974406" href="https://www.rspca.org.uk/adviceandwelfare/farm/onfarm" class="themeTxtSm" role="menuitem"><span>On-farm</span></a>
-						</div>
-				</li>
-				
-	
-				
-				<li class="nav-item " data-id="5553947" data-parent-id="1546520" id="layout_5553947" role="presentation">
-					<div>
-					<a aria-labelledby="layout_5553947" href="https://www.rspca.org.uk/adviceandwelfare/farm/livetransport" class="themeTxtSm" role="menuitem"><span>Live transport</span></a>
 						</div>
 				</li>
 	</ul>
@@ -2203,6 +2330,25 @@ s.parentNode.insertBefore(g, s);
 					<a aria-labelledby="layout_5204519" href="https://www.rspca.org.uk/adviceandwelfare/seasonal/christmas" class="themeTxtSm" role="menuitem"><span>Christmas</span></a>
 						</div>
 				</li>
+				
+	
+				
+				<li class="nav-item " data-id="7802427" data-parent-id="1546547" id="layout_7802427" role="presentation">
+					<div>
+					<a aria-labelledby="layout_7802427" href="https://www.rspca.org.uk/adviceandwelfare/seasonal/garden" class="themeTxtSm" role="menuitem"><span>Wildlife in the garden</span></a>
+						</div>
+				</li>
+	</ul>
+	
+	<ul aria-label="Site Pages" class=" nav-level-2  nav-list-child" style="columns: 1;" role="menubar">
+				
+	
+				
+				<li class="nav-item " data-id="8633909" data-parent-id="1546550" id="layout_8633909" role="presentation">
+					<div>
+					<a aria-labelledby="layout_8633909" href="https://www.rspca.org.uk/adviceandwelfare/diseases/alabamarot" class="themeTxtSm" role="menuitem"><span>Alabama rot</span></a>
+						</div>
+				</li>
 	</ul>
 	
 	<ul aria-label="Site Pages" class=" nav-level-2  nav-list-child" style="columns: 1;" role="menubar">
@@ -2335,6 +2481,14 @@ s.parentNode.insertBefore(g, s);
 				
 	
 				
+				<li class="nav-item " data-id="5612812" data-parent-id="1563845" id="layout_5612812" role="presentation">
+					<div>
+					<a aria-labelledby="layout_5612812" href="https://www.rspca.org.uk/getinvolved/campaign/fireworks" class="themeTxtSm" role="menuitem"><span>Fireworks</span></a>
+						</div>
+				</li>
+				
+	
+				
 				<li class="nav-item " data-id="5826864" data-parent-id="1563845" id="layout_5826864" role="presentation">
 					<div>
 					<a aria-labelledby="layout_5826864" href="https://www.rspca.org.uk/getinvolved/campaign/circuses" class="themeTxtSm" role="menuitem"><span>Circuses</span></a>
@@ -2356,15 +2510,23 @@ s.parentNode.insertBefore(g, s);
 					<a aria-labelledby="layout_6139369" href="https://www.rspca.org.uk/getinvolved/campaign/farmanimals" class="themeTxtSm" role="menuitem"><span>Farm Animals</span></a>
 						</div>
 				</li>
+				
+	
+				
+				<li class="nav-item " data-id="7468609" data-parent-id="1563845" id="layout_7468609" role="presentation">
+					<div>
+					<a aria-labelledby="layout_7468609" href="https://www.rspca.org.uk/getinvolved/campaign/cheapchicken" class="themeTxtSm" role="menuitem"><span>Cheap chicken</span></a>
+						</div>
+				</li>
 	</ul>
 	
 	<ul aria-label="Site Pages" class=" nav-level-2  nav-list-child" role="menubar">
 				
 	
 				
-				<li class="nav-item " data-id="1563834" data-parent-id="1563833" id="layout_1563834" role="presentation">
+				<li class="nav-item " data-id="8101494" data-parent-id="1563833" id="layout_8101494" role="presentation">
 					<div>
-					<a aria-labelledby="layout_1563834" href="https://www.rspca.org.uk/getinvolved/donate/online" class="themeTxtSm" role="menuitem"><span>Donate online</span></a>
+					<a aria-labelledby="layout_8101494" href="https://www.rspca.org.uk/getinvolved/donate/online" class="themeTxtSm" role="menuitem"><span>Donate online</span></a>
 						</div>
 				</li>
 				
@@ -2380,15 +2542,7 @@ s.parentNode.insertBefore(g, s);
 				
 				<li class="nav-item " data-id="1563836" data-parent-id="1563833" id="layout_1563836" role="presentation">
 					<div>
-					<a aria-labelledby="layout_1563836" href="https://www.rspca.org.uk/getinvolved/donate/other" class="themeTxtSm" role="menuitem"><span>Other ways to donate</span></a>
-						</div>
-				</li>
-				
-	
-				
-				<li class="nav-item " data-id="1564440" data-parent-id="1563833" id="layout_1564440" role="presentation">
-					<div>
-					<a aria-labelledby="layout_1564440" href="https://www.rspca.org.uk/getinvolved/donate/advice" class="themeTxtSm" role="menuitem"><span>Advice for donors</span></a>
+					<a aria-labelledby="layout_1563836" href="https://www.rspca.org.uk/getinvolved/donate/monthly" class="themeTxtSm" role="menuitem"><span>Giving monthly</span></a>
 						</div>
 				</li>
 				
@@ -2402,9 +2556,9 @@ s.parentNode.insertBefore(g, s);
 				
 	
 				
-				<li class="nav-item " data-id="1563839" data-parent-id="1563833" id="layout_1563839" role="presentation">
+				<li class="nav-item " data-id="1563841" data-parent-id="1563833" id="layout_1563841" role="presentation">
 					<div>
-					<a aria-labelledby="layout_1563839" href="https://www.rspca.org.uk/getinvolved/donate/recycling" class="themeTxtSm" role="menuitem"><span>Donate unwanted items</span></a>
+					<a aria-labelledby="layout_1563841" href="https://www.rspca.org.uk/getinvolved/donate/sponsorship" class="themeTxtSm" role="menuitem"><span>Sponsorship</span></a>
 						</div>
 				</li>
 				
@@ -2418,17 +2572,17 @@ s.parentNode.insertBefore(g, s);
 				
 	
 				
-				<li class="nav-item " data-id="1563841" data-parent-id="1563833" id="layout_1563841" role="presentation">
+				<li class="nav-item " data-id="1564440" data-parent-id="1563833" id="layout_1564440" role="presentation">
 					<div>
-					<a aria-labelledby="layout_1563841" href="https://www.rspca.org.uk/getinvolved/donate/sponsorship" class="themeTxtSm" role="menuitem"><span>Sponsorship</span></a>
+					<a aria-labelledby="layout_1564440" href="https://www.rspca.org.uk/getinvolved/donate/advice" class="themeTxtSm" role="menuitem"><span>Advice for donors</span></a>
 						</div>
 				</li>
 				
 	
 				
-				<li class="nav-item " data-id="5336160" data-parent-id="1563833" id="layout_5336160" role="presentation">
+				<li class="nav-item " data-id="1563839" data-parent-id="1563833" id="layout_1563839" role="presentation">
 					<div>
-					<a aria-labelledby="layout_5336160" href="https://www.rspca.org.uk/getinvolved/donate/promise" class="themeTxtSm" role="menuitem"><span>Supporter promise</span></a>
+					<a aria-labelledby="layout_1563839" href="https://www.rspca.org.uk/getinvolved/donate/recycling" class="themeTxtSm" role="menuitem"><span>Unwanted items</span></a>
 						</div>
 				</li>
 	</ul>
@@ -2456,6 +2610,14 @@ s.parentNode.insertBefore(g, s);
 				
 	
 				
+				<li class="nav-item " data-id="1563863" data-parent-id="1563856" id="layout_1563863" role="presentation">
+					<div>
+					<a aria-labelledby="layout_1563863" href="https://www.rspca.org.uk/getinvolved/fundraise/ideas" class="themeTxtSm" role="menuitem"><span>Fundraising ideas</span></a>
+						</div>
+				</li>
+				
+	
+				
 				<li class="nav-item " data-id="1563860" data-parent-id="1563856" id="layout_1563860" role="presentation">
 					<div>
 					<a aria-labelledby="layout_1563860" href="https://www.rspca.org.uk/getinvolved/fundraise/running" class="themeTxtSm" role="menuitem"><span>Running</span></a>
@@ -2480,9 +2642,33 @@ s.parentNode.insertBefore(g, s);
 				
 	
 				
+				<li class="nav-item " data-id="7784648" data-parent-id="1563856" id="layout_7784648" role="presentation">
+					<div>
+					<a aria-labelledby="layout_7784648" href="https://www.rspca.org.uk/getinvolved/fundraise/swimming" class="themeTxtSm" role="menuitem"><span>Swimming</span></a>
+						</div>
+				</li>
+				
+	
+				
+				<li class="nav-item " data-id="8487708" data-parent-id="1563856" id="layout_8487708" role="presentation">
+					<div>
+					<a aria-labelledby="layout_8487708" href="https://www.rspca.org.uk/getinvolved/fundraise/triathlon" class="themeTxtSm" role="menuitem"><span>Triathlon</span></a>
+						</div>
+				</li>
+				
+	
+				
+				<li class="nav-item " data-id="7247904" data-parent-id="1563856" id="layout_7247904" role="presentation">
+					<div>
+					<a aria-labelledby="layout_7247904" href="https://www.rspca.org.uk/getinvolved/fundraise/overseas" class="themeTxtSm" role="menuitem"><span>Overseas events</span></a>
+						</div>
+				</li>
+				
+	
+				
 				<li class="nav-item " data-id="5707508" data-parent-id="1563856" id="layout_5707508" role="presentation">
 					<div>
-					<a aria-labelledby="layout_5707508" href="https://www.rspca.org.uk/getinvolved/fundraise/ownevent" class="themeTxtSm" role="menuitem"><span>Taking part in your own event</span></a>
+					<a aria-labelledby="layout_5707508" href="https://www.rspca.org.uk/getinvolved/fundraise/ownevent" class="themeTxtSm" role="menuitem"><span>Own place in an event</span></a>
 						</div>
 				</li>
 				
@@ -2490,15 +2676,7 @@ s.parentNode.insertBefore(g, s);
 				
 				<li class="nav-item " data-id="1564719" data-parent-id="1563856" id="layout_1564719" role="presentation">
 					<div>
-					<a aria-labelledby="layout_1564719" href="https://www.rspca.org.uk/getinvolved/fundraise/pack" class="themeTxtSm" role="menuitem"><span>Fundraising pack</span></a>
-						</div>
-				</li>
-				
-	
-				
-				<li class="nav-item " data-id="1563863" data-parent-id="1563856" id="layout_1563863" role="presentation">
-					<div>
-					<a aria-labelledby="layout_1563863" href="https://www.rspca.org.uk/getinvolved/fundraise/ideas" class="themeTxtSm" role="menuitem"><span>Fundraising ideas</span></a>
+					<a aria-labelledby="layout_1564719" href="https://www.rspca.org.uk/getinvolved/fundraise/packrequest?formId=159&amp;force=true" class="themeTxtSm" role="menuitem"><span>Fundraising pack</span></a>
 						</div>
 				</li>
 				
@@ -2526,6 +2704,14 @@ s.parentNode.insertBefore(g, s);
 				<li class="nav-item " data-id="5535635" data-parent-id="3086132" id="layout_5535635" role="presentation">
 					<div>
 					<a aria-labelledby="layout_5535635" href="https://www.rspca.org.uk/getinvolved/young/renewal" class="themeTxtSm" role="menuitem"><span>Renewal</span></a>
+						</div>
+				</li>
+				
+	
+				
+				<li class="nav-item " data-id="6862365" data-parent-id="3086132" id="layout_6862365" role="presentation">
+					<div>
+					<a aria-labelledby="layout_6862365" href="https://www.rspca.org.uk/getinvolved/young/buttercupfarm" class="themeTxtSm" role="menuitem"><span>Buttercup Farm</span></a>
 						</div>
 				</li>
 	</ul>
@@ -2596,9 +2782,17 @@ s.parentNode.insertBefore(g, s);
 					<a aria-labelledby="layout_4076027" href="https://www.rspca.org.uk/getinvolved/honours/categories" class="themeTxtSm" role="menuitem"><span>Categories</span></a>
 						</div>
 				</li>
+				
+	
+				
+				<li class="nav-item " data-id="8370228" data-parent-id="4076020" id="layout_8370228" role="presentation">
+					<div>
+					<a aria-labelledby="layout_8370228" href="https://www.rspca.org.uk/getinvolved/honours/winners" class="themeTxtSm" role="menuitem"><span>Previous winners stories</span></a>
+						</div>
+				</li>
 	</ul>
 	
-	<ul aria-label="Site Pages" class=" nav-level-2  nav-list-child" style="columns: 1;" role="menubar">
+	<ul aria-label="Site Pages" class=" nav-level-2  nav-list-child" role="menubar">
 	</ul>
 	
 	<ul aria-label="Site Pages" class=" nav-level-2  nav-list-child" role="menubar">
@@ -2672,14 +2866,6 @@ s.parentNode.insertBefore(g, s);
 				
 	
 				
-				<li class="nav-item " data-id="1573251" data-parent-id="3485345" id="layout_1573251" role="presentation">
-					<div>
-					<a aria-labelledby="layout_1573251" href="https://www.rspca.org.uk/whatwedo/care/financial" class="themeTxtSm" role="menuitem"><span>Financial assistance</span></a>
-						</div>
-				</li>
-				
-	
-				
 				<li class="nav-item " data-id="1581036" data-parent-id="3485345" id="layout_1581036" role="presentation">
 					<div>
 					<a aria-labelledby="layout_1581036" href="https://www.rspca.org.uk/whatwedo/care/wildlifecentres" class="themeTxtSm" role="menuitem"><span>Our wildlife centres</span></a>
@@ -2701,33 +2887,20 @@ s.parentNode.insertBefore(g, s);
 					<a aria-labelledby="layout_2678633" href="https://www.rspca.org.uk/whatwedo/care/homeforlife" class="themeTxtSm" role="menuitem"><span>Home for Life</span></a>
 						</div>
 				</li>
+				
+	
+				
+				<li class="nav-item " data-id="1573251" data-parent-id="3485345" id="layout_1573251" role="presentation">
+					<div>
+					<a aria-labelledby="layout_1573251" href="https://www.rspca.org.uk/whatwedo/care/financial" class="themeTxtSm" role="menuitem"><span>Financial assistance</span></a>
+						</div>
+				</li>
 	</ul>
 	
 	<ul aria-label="Site Pages" class=" nav-level-2  nav-list-child" role="menubar">
-				
+	</ul>
 	
-				
-				<li class="nav-item " data-id="3483372" data-parent-id="1571377" id="layout_3483372" role="presentation">
-					<div>
-					<a aria-labelledby="layout_3483372" href="https://www.rspca.org.uk/whatwedo/latest/publications" class="themeTxtSm" role="menuitem"><span>Publications</span></a>
-						</div>
-				</li>
-				
-	
-				
-				<li class="nav-item " data-id="5074457" data-parent-id="1571377" id="layout_5074457" role="presentation">
-					<div>
-					<a aria-labelledby="layout_5074457" href="https://www.rspca.org.uk/whatwedo/latest/dogrescuers" class="themeTxtSm" role="menuitem"><span>The Dog Rescuers</span></a>
-						</div>
-				</li>
-				
-	
-				
-				<li class="nav-item " data-id="5317038" data-parent-id="1571377" id="layout_5317038" role="presentation">
-					<div>
-					<a aria-labelledby="layout_5317038" href="https://www.rspca.org.uk/whatwedo/latest/social" class="themeTxtSm" role="menuitem"><span>Social</span></a>
-						</div>
-				</li>
+	<ul aria-label="Site Pages" class=" nav-level-2  nav-list-child" role="menubar">
 				
 	
 				
@@ -2747,9 +2920,33 @@ s.parentNode.insertBefore(g, s);
 				
 	
 				
-				<li class="nav-item " data-id="6475720" data-parent-id="1571377" id="layout_6475720" role="presentation">
+				<li class="nav-item " data-id="3483372" data-parent-id="1571377" id="layout_3483372" role="presentation">
 					<div>
-					<a aria-labelledby="layout_6475720" href="https://www.rspca.org.uk/whatwedo/latest/catsandkittens" class="themeTxtSm" role="menuitem"><span>Cats and Kittens</span></a>
+					<a aria-labelledby="layout_3483372" href="https://www.rspca.org.uk/whatwedo/latest/publications" class="themeTxtSm" role="menuitem"><span>Publications</span></a>
+						</div>
+				</li>
+				
+	
+				
+				<li class="nav-item " data-id="5074457" data-parent-id="1571377" id="layout_5074457" role="presentation">
+					<div>
+					<a aria-labelledby="layout_5074457" href="https://www.rspca.org.uk/whatwedo/latest/dogrescuers" class="themeTxtSm" role="menuitem"><span>The Dog Rescuers</span></a>
+						</div>
+				</li>
+				
+	
+				
+				<li class="nav-item " data-id="8634476" data-parent-id="1571377" id="layout_8634476" role="presentation">
+					<div>
+					<a aria-labelledby="layout_8634476" href="https://www.rspca.org.uk/whatwedo/latest/mediacontacts" class="themeTxtSm" role="menuitem"><span>Media contacts</span></a>
+						</div>
+				</li>
+				
+	
+				
+				<li class="nav-item " data-id="8634486" data-parent-id="1571377" id="layout_8634486" role="presentation">
+					<div>
+					<a aria-labelledby="layout_8634486" href="https://www.rspca.org.uk/whatwedo/latest/facts" class="themeTxtSm" role="menuitem"><span>Facts</span></a>
 						</div>
 				</li>
 	</ul>
@@ -2803,6 +3000,14 @@ s.parentNode.insertBefore(g, s);
 					<a aria-labelledby="layout_4979610" href="https://www.rspca.org.uk/whatwedo/whoweare/executives" class="themeTxtSm" role="menuitem"><span>Our executives</span></a>
 						</div>
 				</li>
+				
+	
+				
+				<li class="nav-item " data-id="6780099" data-parent-id="1570769" id="layout_6780099" role="presentation">
+					<div>
+					<a aria-labelledby="layout_6780099" href="https://www.rspca.org.uk/whatwedo/whoweare/ambassadors" class="themeTxtSm" role="menuitem"><span>Our ambassadors</span></a>
+						</div>
+				</li>
 	</ul>
 	
 	<ul aria-label="Site Pages" class=" nav-level-2  nav-list-child" style="columns: 1;" role="menubar">
@@ -2832,7 +3037,7 @@ s.parentNode.insertBefore(g, s);
 				</li>
 	</ul>
 	
-	<ul aria-label="Site Pages" class=" nav-level-2  nav-list-child" role="menubar">
+	<ul aria-label="Site Pages" class=" nav-level-2  nav-list-child" style="columns: 1;" role="menubar">
 				
 	
 				
@@ -2855,22 +3060,6 @@ s.parentNode.insertBefore(g, s);
 				<li class="nav-item " data-id="1575887" data-parent-id="1575884" id="layout_1575887" role="presentation">
 					<div>
 					<a aria-labelledby="layout_1575887" href="https://www.rspca.org.uk/shoponline/petinsurance/compare" class="themeTxtSm" role="menuitem"><span>Compare our policies</span></a>
-						</div>
-				</li>
-				
-	
-				
-				<li class="nav-item " data-id="1575888" data-parent-id="1575884" id="layout_1575888" role="presentation">
-					<div>
-					<a aria-labelledby="layout_1575888" href="https://www.rspca.org.uk/shoponline/petinsurance/faq" class="themeTxtSm" role="menuitem"><span>FAQs</span></a>
-						</div>
-				</li>
-				
-	
-				
-				<li class="nav-item " data-id="1575889" data-parent-id="1575884" id="layout_1575889" role="presentation">
-					<div>
-					<a aria-labelledby="layout_1575889" href="https://www.rspca.org.uk/shoponline/petinsurance/sixweeksfree" class="themeTxtSm" role="menuitem"><span>Six weeks free</span></a>
 						</div>
 				</li>
 				
@@ -2908,76 +3097,13 @@ s.parentNode.insertBefore(g, s);
 					<a aria-labelledby="layout_5071854" href="https://www.rspca.org.uk/shoponline/holidays/haven" class="themeTxtSm" role="menuitem"><span>Haven holidays</span></a>
 						</div>
 				</li>
-				
-	
-				
-				<li class="nav-item " data-id="5071862" data-parent-id="5071782" id="layout_5071862" role="presentation">
-					<div>
-					<a aria-labelledby="layout_5071862" href="https://www.rspca.org.uk/shoponline/holidays/aferry" class="themeTxtSm" role="menuitem"><span>aferry</span></a>
-						</div>
-				</li>
-	</ul>
-	
-	<ul aria-label="Site Pages" class=" nav-level-2  nav-list-child" style="columns: 1;" role="menubar">
-	</ul>
-	
-	<ul aria-label="Site Pages" class=" nav-level-2  nav-list-child" role="menubar">
-				
-	
-				
-				<li class="nav-item " data-id="5071386" data-parent-id="5071378" id="layout_5071386" role="presentation">
-					<div>
-					<a aria-labelledby="layout_5071386" href="https://www.rspca.org.uk/old/shoponline/petinsurance/cat" class="themeTxtSm" role="menuitem"><span>Cat insurance</span></a>
-						</div>
-				</li>
-				
-	
-				
-				<li class="nav-item " data-id="5071394" data-parent-id="5071378" id="layout_5071394" role="presentation">
-					<div>
-					<a aria-labelledby="layout_5071394" href="https://www.rspca.org.uk/old/shoponline/petinsurance/dog" class="themeTxtSm" role="menuitem"><span>Dog insurance</span></a>
-						</div>
-				</li>
-				
-	
-				
-				<li class="nav-item " data-id="5071402" data-parent-id="5071378" id="layout_5071402" role="presentation">
-					<div>
-					<a aria-labelledby="layout_5071402" href="https://www.rspca.org.uk/old/shoponline/petinsurance/compare" class="themeTxtSm" role="menuitem"><span>Compare our policies</span></a>
-						</div>
-				</li>
-				
-	
-				
-				<li class="nav-item " data-id="5071410" data-parent-id="5071378" id="layout_5071410" role="presentation">
-					<div>
-					<a aria-labelledby="layout_5071410" href="https://www.rspca.org.uk/old/shoponline/petinsurance/faq" class="themeTxtSm" role="menuitem"><span>FAQs</span></a>
-						</div>
-				</li>
-				
-	
-				
-				<li class="nav-item " data-id="5071418" data-parent-id="5071378" id="layout_5071418" role="presentation">
-					<div>
-					<a aria-labelledby="layout_5071418" href="https://www.rspca.org.uk/old/shoponline/petinsurance/sixweeksfree" class="themeTxtSm" role="menuitem"><span>Six weeks free</span></a>
-						</div>
-				</li>
-				
-	
-				
-				<li class="nav-item " data-id="5071426" data-parent-id="5071378" id="layout_5071426" role="presentation">
-					<div>
-					<a aria-labelledby="layout_5071426" href="https://www.rspca.org.uk/old/shoponline/petinsurance/exotics" class="themeTxtSm" role="menuitem"><span>Exotics</span></a>
-						</div>
-				</li>
 	</ul>
 	
 	<ul aria-label="Site Pages" class=" nav-level-2  nav-list-child" style="columns: 1;" role="menubar">
 	</ul>
 		</div>
 </nav>
-<!-- End of Nav -->			
-			<div id="breadcrumbSocialShare">
+<!-- End of Nav -->				<div id="breadcrumbSocialShare">
 <div id="navigation-breadcrumb">
 <a class="themeTxtSm" href="https://www.rspca.org.uk/home">Home</a>
 /	<a class="themeTxtSm" href="https://www.rspca.org.uk/utilities">Utilities</a>
@@ -2995,7 +3121,7 @@ s.parentNode.insertBefore(g, s);
 		</div>
 	</div>
     <div id="mobile-child-navigation-menu-holder">
-		<img id="mobile-child-navigation-menu" class="themeBackgroundKingfisher" src="/ptl2017Themes/images/rspca_navigation/down-chevron-large.png" alt="Open child pages">	
+		<img id="mobile-child-navigation-menu" class="themeBackgroundKingfisher" src="https://www.rspca.org.uk/o/ptl2017Theme/images/rspca_navigation/down-chevron-large.png" alt="Open child pages">	
 	</div>
 	<div id="mobile-child-navigation">
 	
@@ -3018,74 +3144,10 @@ s.parentNode.insertBefore(g, s);
 				</li>
 	</ul>
 	</div>
-			</div>
-		
+				</div>
+			
 	
 			<div id="content">
-				
-		
-					
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
@@ -3199,29 +3261,13 @@ s.parentNode.insertBefore(g, s);
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 	
 
-	<div class="portlet-boundary portlet-boundary_fatwireArticle_WAR_ptlFatwireArticlePortlets_  portlet-static portlet-static-end  " id="p_p_id_fatwireArticle_WAR_ptlFatwireArticlePortlets_">
-		<span id="p_fatwireArticle_WAR_ptlFatwireArticlePortlets"></span>
+	<div class="portlet-boundary portlet-boundary_com_liferay_journal_content_web_portlet_JournalContentPortlet_  portlet-static portlet-static-end decorate portlet-journal-content " id="p_p_id_com_liferay_journal_content_web_portlet_JournalContentPortlet_INSTANCE_3Oh83sTMz4SC_">
+		<span id="p_com_liferay_journal_content_web_portlet_JournalContentPortlet_INSTANCE_3Oh83sTMz4SC"></span>
 
 
 
-	
-	
 	
 
 		
@@ -3273,141 +3319,21 @@ s.parentNode.insertBefore(g, s);
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-	
-	
-	
-	
 	
 
 		
 
 		
-			
-				
-<section class="portlet" id="portlet_fatwireArticle_WAR_ptlFatwireArticlePortlets">
-	<header class="portlet-topper">
-		<h1 class="portlet-title">
-			 <span class="portlet-title-text">Fatwire Article Portlet</span>
-		</h1>
+<section class="portlet" id="portlet_com_liferay_journal_content_web_portlet_JournalContentPortlet_INSTANCE_3Oh83sTMz4SC">
 
-		<menu class="portlet-topper-toolbar" id="portlet-topper-toolbar_fatwireArticle_WAR_ptlFatwireArticlePortlets" type="toolbar">
-				
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-	
-
-	
-
-	
-
-	
-
-	
-
-	
-
-	
-
-	
-
-	
-
-	
-
-	
-
-	
-
-	
-
-	
-
-		
-
-		
-
-		
-
-		
-
-		
-
-		
-	
-
-		</menu>
-	</header>
 
 	<div class="portlet-content">
+		<div class="portlet-topper">
+		</div>
+
 		
-					<div class=" portlet-content-container" style="">
-						
+			<div class=" portlet-content-container">
+				
 
 
 	<div class="portlet-body">
@@ -3417,77 +3343,8 @@ s.parentNode.insertBefore(g, s);
 	
 		
 			
-			
 				
 					
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
@@ -3548,7 +3405,6 @@ s.parentNode.insertBefore(g, s);
 				
 
 				
-					
 					
 						
 
@@ -3562,57 +3418,87 @@ s.parentNode.insertBefore(g, s);
 
 
 
-<div class="visibilityBoth">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<span class="stageaware-journal-content"></span>
+
+
+
+
 	
-	<script type="text/javascript" src="/webContent/webComponents/accordion/js/plugin.rspca.accordion_v2.js"></script>
-	<link rel="stylesheet" type="text/css" href="/webContent/webComponents/accordion/css/plugin.rspca.accordion_v2.css?a=1">
-	<div class="articlePortlet None">
 		
 			
-			
-			
 				
-				<div class="contents portlet-type-articlePortlet">
-					<input type="hidden" value="none" class="accordion-pref">
 					
-						
-						<div class="title">
-							
-								
-									<h1>Privacy notice</h1>
-								
+						<div class="text-right user-tool-asset-addon-entries">
 							
 						</div>
 
-						<div class="body">
-							<p>We're committed to respecting your privacy and keeping your personal information safe. This privacy policy tells you what to expect when the Royal Society for the Prevention of Cruelty to Animals (RSPCA) collects personal information.</p>
+						<div class="journal-content-article ">
+							<div class="articlePortlet">
+    
+    <div class="contents portlet-type-articlePortlet accordian-portlet-1">
+        <div class="title">
+            <h1>Privacy notice</h1>
+        </div>
+        
+        <div class="body">
+            <p>We're committed to respecting your privacy and keeping your personal information safe. This privacy policy tells you what to expect when the Royal Society for the Prevention of Cruelty to Animals (RSPCA) collects personal information.</p>
 <p><strong>In particular, this notice tells you about </strong><a href="https://www.rspca.org.uk/utilities/privacy/information"><strong>how we use your information</strong></a><strong> and:</strong></p>
-						</div>
-						
-							<div class="addthis_container fatwirearticle left">
-								<span class="addthis_title themeTxtSm">Share this...</span>
-								<div addthis:url="https://www.rspca.org.uk/utilities/privacy" class="addthis_toolbox addthis_default_style addthis_32x32_style addthis_right">
-									<a class="addthis_button_facebook"></a>
-									<a class="addthis_button_twitter"></a>
-									<a class="addthis_button_email"></a>
-									<a class="addthis_button_google_plusone_share"></a>
-								</div>
-							</div>
-						
-						
-						
-						
-					
-				</div>
-			
-		
-	</div>
-
+        </div>
+    
+    </div>
 </div>
+						</div>
+
+						
+					
+				
+			
+		
+	
+
+
+
+	<div class="content-metadata-asset-addon-entries">
+		
+
+
+
+
+
+
+
+<div class="content-metadata-asset-addon-entry content-metadata-asset-addon-entry-links">
+	
+</div>
+	</div>
+
+
+
 
 	
 	
-
 					
 				
 			
@@ -3621,21 +3507,18 @@ s.parentNode.insertBefore(g, s);
 	
 
 
-
 	</div>
 
-					</div>
-				
+			</div>
+		
 	</div>
 </section>
-			
-			
+
 		
 	
 
 				
 				
-			
 
 		
 
@@ -3698,30 +3581,14 @@ s.parentNode.insertBefore(g, s);
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 	
 
-	<div class="portlet-boundary portlet-boundary_fatwireListing_WAR_ptlFatwireArticlePortlets_  portlet-static portlet-static-end  " id="p_p_id_fatwireListing_WAR_ptlFatwireArticlePortlets_INSTANCE_4Ioi_">
+	<div class="portlet-boundary portlet-boundary_fatwireListing_WAR_ptlFatwireArticlePortlets_  portlet-static portlet-static-end decorate  " id="p_p_id_fatwireListing_WAR_ptlFatwireArticlePortlets_INSTANCE_4Ioi_">
 		<span id="p_fatwireListing_WAR_ptlFatwireArticlePortlets_INSTANCE_4Ioi"></span>
 
 
 
 	
-	
-	
 
 		
 
@@ -3772,141 +3639,21 @@ s.parentNode.insertBefore(g, s);
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-	
-	
-	
-	
 	
 
 		
 
 		
-			
-				
 <section class="portlet" id="portlet_fatwireListing_WAR_ptlFatwireArticlePortlets_INSTANCE_4Ioi">
-	<header class="portlet-topper">
-		<h1 class="portlet-title">
-			 <span class="portlet-title-text">Fatwire Listing Portlet</span>
-		</h1>
 
-		<menu class="portlet-topper-toolbar" id="portlet-topper-toolbar_fatwireListing_WAR_ptlFatwireArticlePortlets_INSTANCE_4Ioi" type="toolbar">
-				
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-	
-
-	
-
-	
-
-	
-
-	
-
-	
-
-	
-
-	
-
-	
-
-	
-
-	
-
-	
-
-	
-
-	
-
-		
-
-		
-
-		
-
-		
-
-		
-
-		
-	
-
-		</menu>
-	</header>
 
 	<div class="portlet-content">
+		<div class="portlet-topper">
+		</div>
+
 		
-					<div class=" portlet-content-container" style="">
-						
+			<div class=" portlet-content-container">
+				
 
 
 	<div class="portlet-body">
@@ -3916,77 +3663,8 @@ s.parentNode.insertBefore(g, s);
 	
 		
 			
-			
 				
 					
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
@@ -4047,7 +3725,6 @@ s.parentNode.insertBefore(g, s);
 				
 
 				
-					
 					
 						
 
@@ -4064,7 +3741,7 @@ s.parentNode.insertBefore(g, s);
 
 <div class="listing-portlet visibilityBoth">
 
-	<input class="items-per-page" type="hidden" value="10">
+	<input class="items-per-page" type="hidden" value="15">
 
 	
 		
@@ -4141,7 +3818,6 @@ s.parentNode.insertBefore(g, s);
 
 	
 	
-
 					
 				
 			
@@ -4150,21 +3826,18 @@ s.parentNode.insertBefore(g, s);
 	
 
 
-
 	</div>
 
-					</div>
-				
+			</div>
+		
 	</div>
 </section>
-			
-			
+
 		
 	
 
 				
 				
-			
 
 		
 
@@ -4227,29 +3900,13 @@ s.parentNode.insertBefore(g, s);
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 	
 
-	<div class="portlet-boundary portlet-boundary_fatwireContent_WAR_ptlFatwireArticlePortlets_  portlet-static portlet-static-end  " id="p_p_id_fatwireContent_WAR_ptlFatwireArticlePortlets_INSTANCE_kvoyUXufgPJi_">
-		<span id="p_fatwireContent_WAR_ptlFatwireArticlePortlets_INSTANCE_kvoyUXufgPJi"></span>
+	<div class="portlet-boundary portlet-boundary_com_liferay_journal_content_web_portlet_JournalContentPortlet_  portlet-static portlet-static-end decorate portlet-journal-content " id="p_p_id_com_liferay_journal_content_web_portlet_JournalContentPortlet_INSTANCE_KPGIZ3Jvf4p6_">
+		<span id="p_com_liferay_journal_content_web_portlet_JournalContentPortlet_INSTANCE_KPGIZ3Jvf4p6"></span>
 
 
 
-	
-	
 	
 
 		
@@ -4301,141 +3958,21 @@ s.parentNode.insertBefore(g, s);
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-	
-	
-	
-	
 	
 
 		
 
 		
-			
-				
-<section class="portlet" id="portlet_fatwireContent_WAR_ptlFatwireArticlePortlets_INSTANCE_kvoyUXufgPJi">
-	<header class="portlet-topper">
-		<h1 class="portlet-title">
-			 <span class="portlet-title-text">Fatwire Content Portlet</span>
-		</h1>
+<section class="portlet" id="portlet_com_liferay_journal_content_web_portlet_JournalContentPortlet_INSTANCE_KPGIZ3Jvf4p6">
 
-		<menu class="portlet-topper-toolbar" id="portlet-topper-toolbar_fatwireContent_WAR_ptlFatwireArticlePortlets_INSTANCE_kvoyUXufgPJi" type="toolbar">
-				
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-	
-
-	
-
-	
-
-	
-
-	
-
-	
-
-	
-
-	
-
-	
-
-	
-
-	
-
-	
-
-	
-
-	
-
-		
-
-		
-
-		
-
-		
-
-		
-
-		
-	
-
-		</menu>
-	</header>
 
 	<div class="portlet-content">
+		<div class="portlet-topper">
+		</div>
+
 		
-					<div class=" portlet-content-container" style="">
-						
+			<div class=" portlet-content-container">
+				
 
 
 	<div class="portlet-body">
@@ -4445,77 +3982,8 @@ s.parentNode.insertBefore(g, s);
 	
 		
 			
-			
 				
 					
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
@@ -4576,7 +4044,6 @@ s.parentNode.insertBefore(g, s);
 				
 
 				
-					
 					
 						
 
@@ -4589,33 +4056,92 @@ s.parentNode.insertBefore(g, s);
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<span class="stageaware-journal-content"></span>
+
+
+
+
+	
+		
+			
+				
+					
+						<div class="text-right user-tool-asset-addon-entries">
+							
+						</div>
+
+						<div class="journal-content-article ">
+							<div class="articlePortlet">
+        <div class="banner-image">
+		    <img src="" alt="" title="">
+	    </div>
+    
+    <div class="contents portlet-type-articlePortlet accordian-portlet-1">
+        <div class="title">
+            <h2>How to make a complaint</h2>
+        </div>
+        
+        <div class="body">
+            <p>Please tell us if you're not happy with how we've handled your personal information. For more information about our complaint process, please visit <a href="https://www.rspca.org.uk/utilities/contactus/complaints">How to Make a Complaint</a>. You are also entitled to make a complaint to the Fundraising Regulator and the Information Commissioner's Office.</p>
+
+<h2>Privacy notice review</h2>
+
+<p>We regularly review this Privacy Notice. If we make changes they'll be updated here and we will place a prominent notice on our website.</p>
+
+<p>This privacy notice was prepared to be as concise as possible. It does not provide exhaustive detail of all aspects of the RSPCA's collection and use of your personal information. However, we are happy to provide any additional information or explanation needed. Any requests for this should be sent to the address below.</p>
+
+<p>Date of this review: August 2017</p>
+
+<h2>How to contact us</h2>
+
+<p>Please contact us if you have any question about our Privacy Policy or information we hold about you.&nbsp; You can email us - <a href="mailto:data.protection@rspca.org.uk">data.protection@rspca.org.uk</a> or write to: Data Protection Team, Legal Services, RSPCA, Wilberforce Way, Southwater, Horsham, West Sussex, RH13 9RS.</p>
+        </div>
+    
+    </div>
+</div>
+						</div>
+
+						
+					
+				
+			
+		
 	
 
 
 
-	
-
-
-
-
-
-	
-
-
-
-
-
-
-
-
-
+	<div class="content-metadata-asset-addon-entries">
+		
+	</div>
 
 
 
 
 	
 	
-
 					
 				
 			
@@ -4624,21 +4150,18 @@ s.parentNode.insertBefore(g, s);
 	
 
 
-
 	</div>
 
-					</div>
-				
+			</div>
+		
 	</div>
 </section>
-			
-			
+
 		
 	
 
 				
 				
-			
 
 		
 
@@ -4704,29 +4227,13 @@ s.parentNode.insertBefore(g, s);
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 	
 
-	<div class="portlet-boundary portlet-boundary_fatwireContent_WAR_ptlFatwireArticlePortlets_  portlet-static portlet-static-end  " id="p_p_id_fatwireContent_WAR_ptlFatwireArticlePortlets_INSTANCE_RKpWg2hRxHyO_">
-		<span id="p_fatwireContent_WAR_ptlFatwireArticlePortlets_INSTANCE_RKpWg2hRxHyO"></span>
+	<div class="portlet-boundary portlet-boundary_com_liferay_journal_content_web_portlet_JournalContentPortlet_  portlet-static portlet-static-end decorate portlet-journal-content " id="p_p_id_com_liferay_journal_content_web_portlet_JournalContentPortlet_INSTANCE_Rw0NULNFJsb2_">
+		<span id="p_com_liferay_journal_content_web_portlet_JournalContentPortlet_INSTANCE_Rw0NULNFJsb2"></span>
 
 
 
-	
-	
 	
 
 		
@@ -4778,141 +4285,21 @@ s.parentNode.insertBefore(g, s);
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-	
-	
-	
-	
 	
 
 		
 
 		
-			
-				
-<section class="portlet" id="portlet_fatwireContent_WAR_ptlFatwireArticlePortlets_INSTANCE_RKpWg2hRxHyO">
-	<header class="portlet-topper">
-		<h1 class="portlet-title">
-			 <span class="portlet-title-text">Fatwire Content Portlet</span>
-		</h1>
+<section class="portlet" id="portlet_com_liferay_journal_content_web_portlet_JournalContentPortlet_INSTANCE_Rw0NULNFJsb2">
 
-		<menu class="portlet-topper-toolbar" id="portlet-topper-toolbar_fatwireContent_WAR_ptlFatwireArticlePortlets_INSTANCE_RKpWg2hRxHyO" type="toolbar">
-				
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-	
-
-	
-
-	
-
-	
-
-	
-
-	
-
-	
-
-	
-
-	
-
-	
-
-	
-
-	
-
-	
-
-	
-
-		
-
-		
-
-		
-
-		
-
-		
-
-		
-	
-
-		</menu>
-	</header>
 
 	<div class="portlet-content">
+		<div class="portlet-topper">
+		</div>
+
 		
-					<div class=" portlet-content-container" style="">
-						
+			<div class=" portlet-content-container">
+				
 
 
 	<div class="portlet-body">
@@ -4922,77 +4309,8 @@ s.parentNode.insertBefore(g, s);
 	
 		
 			
-			
 				
 					
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
@@ -5053,7 +4371,6 @@ s.parentNode.insertBefore(g, s);
 				
 
 				
-					
 					
 						
 
@@ -5066,73 +4383,101 @@ s.parentNode.insertBefore(g, s);
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<span class="stageaware-journal-content"></span>
+
+
+
+
 	
-
-
-
-	
-
-
-
-
-
-	
-
-
-
-
-
-
-
-
-
-
-
-
-	<a class="themeDarkTxt" href="/utilities/privacy/information/-/articleName/EM_Privacy_Your_Information">
-		<div id="_fatwireContent_WAR_ptlFatwireArticlePortlets_INSTANCE_RKpWg2hRxHyO_" class="fatwireContentPortlet mobileContentHorizontal tabletContentHorizontal ">
+		
 			
 				
-					<img class="contentImage" src="https://content.rspca.org.uk/cmsprd/Satellite?blobcol=urldata&amp;blobkey=id&amp;blobtable=MungoBlobs&amp;blobwhere=1232993206601&amp;ssbinary=true" alt="Inspector Claire Ponsford © Joe Murphy/RSPCA photolibrary">
-					<div class="textContainer  hideAbstractMobile themeBackgroundMouse">
+					
+						<div class="text-right user-tool-asset-addon-entries">
+							
+						</div>
+
+						<div class="journal-content-article ">
+							
+
+
+
+
+
+<div>
+        <a class="themeDarkTxt" href="/utilities/privacy/information" target="_self">
+    <div class="standardContent mobileContentHorizontal">
+        <img class="contentImage" src="/documents/1494939/7712593/Ponsford.jpg/fdd9c0cf-08b8-3639-8402-85cee07e5b52?t=1551772070664" alt="" title="">
+	    <div class="textContainer  hideAbstractMobile themeBackgroundMouse">
+            <h3 class="title heading3">How we may use your information</h3>
+        	<p class="abstract themeTxtSm">We will not rent, swap or sell your information to other organisations for marketing purposes.</p>
+    	</div>
+	</div>
+	    </a>
+</div>
+						</div>
+
 						
-						<h3 class="title heading3">How we may use your information</h3>
-						<p class="abstract themeTxtSm">We will not rent, swap or sell your information to other organisations for marketing purposes.</p>
-						<div></div>
-					</div>
-				
+					
 				
 			
-		</div>
-	</a>
+		
+	
+
+
+
+	<div class="content-metadata-asset-addon-entries">
+		
+	</div>
+
+
 
 
 	
 	
-
 					
 				
 			
 		
 	
 	
-
 
 
 	</div>
 
-					</div>
-				
+			</div>
+		
 	</div>
 </section>
-			
-			
+
 		
 	
 
 				
 				
-			
 
 		
 
@@ -5198,29 +4543,13 @@ s.parentNode.insertBefore(g, s);
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 	
 
-	<div class="portlet-boundary portlet-boundary_fatwireContent_WAR_ptlFatwireArticlePortlets_  portlet-static portlet-static-end  " id="p_p_id_fatwireContent_WAR_ptlFatwireArticlePortlets_INSTANCE_PBeixnJKoHtf_">
-		<span id="p_fatwireContent_WAR_ptlFatwireArticlePortlets_INSTANCE_PBeixnJKoHtf"></span>
+	<div class="portlet-boundary portlet-boundary_com_liferay_journal_content_web_portlet_JournalContentPortlet_  portlet-static portlet-static-end decorate portlet-journal-content " id="p_p_id_com_liferay_journal_content_web_portlet_JournalContentPortlet_INSTANCE_wqAZ2ZSMLSHG_">
+		<span id="p_com_liferay_journal_content_web_portlet_JournalContentPortlet_INSTANCE_wqAZ2ZSMLSHG"></span>
 
 
 
-	
-	
 	
 
 		
@@ -5272,141 +4601,21 @@ s.parentNode.insertBefore(g, s);
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-	
-	
-	
-	
 	
 
 		
 
 		
-			
-				
-<section class="portlet" id="portlet_fatwireContent_WAR_ptlFatwireArticlePortlets_INSTANCE_PBeixnJKoHtf">
-	<header class="portlet-topper">
-		<h1 class="portlet-title">
-			 <span class="portlet-title-text">Fatwire Content Portlet</span>
-		</h1>
+<section class="portlet" id="portlet_com_liferay_journal_content_web_portlet_JournalContentPortlet_INSTANCE_wqAZ2ZSMLSHG">
 
-		<menu class="portlet-topper-toolbar" id="portlet-topper-toolbar_fatwireContent_WAR_ptlFatwireArticlePortlets_INSTANCE_PBeixnJKoHtf" type="toolbar">
-				
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-	
-
-	
-
-	
-
-	
-
-	
-
-	
-
-	
-
-	
-
-	
-
-	
-
-	
-
-	
-
-	
-
-	
-
-		
-
-		
-
-		
-
-		
-
-		
-
-		
-	
-
-		</menu>
-	</header>
 
 	<div class="portlet-content">
+		<div class="portlet-topper">
+		</div>
+
 		
-					<div class=" portlet-content-container" style="">
-						
+			<div class=" portlet-content-container">
+				
 
 
 	<div class="portlet-body">
@@ -5416,77 +4625,8 @@ s.parentNode.insertBefore(g, s);
 	
 		
 			
-			
 				
 					
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
@@ -5547,7 +4687,6 @@ s.parentNode.insertBefore(g, s);
 				
 
 				
-					
 					
 						
 
@@ -5560,73 +4699,101 @@ s.parentNode.insertBefore(g, s);
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<span class="stageaware-journal-content"></span>
+
+
+
+
 	
-
-
-
-	
-
-
-
-
-
-	
-
-
-
-
-
-
-
-
-
-
-
-
-	<a class="themeDarkTxt" href="/utilities/privacy/cookies/-/articleName/EM_Cookies_Intro">
-		<div id="_fatwireContent_WAR_ptlFatwireArticlePortlets_INSTANCE_PBeixnJKoHtf_" class="fatwireContentPortlet mobileContentHorizontal tabletContentHorizontal ">
+		
 			
 				
-					<img class="contentImage" src="https://content.rspca.org.uk/cmsprd/Satellite?blobcol=urldata&amp;blobkey=id&amp;blobtable=MungoBlobs&amp;blobwhere=1233047660442&amp;ssbinary=true" alt="Dog being offered plate of dog biscuits ©  RSPCA photolibrary">
-					<div class="textContainer  hideAbstractMobile themeBackgroundMouse">
+					
+						<div class="text-right user-tool-asset-addon-entries">
+							
+						</div>
+
+						<div class="journal-content-article ">
+							
+
+
+
+
+
+<div>
+        <a class="themeDarkTxt" href="/utilities/privacy/cookies" target="_self">
+    <div class="standardContent mobileContentHorizontal">
+        <img class="contentImage" src="/documents/1494939/7712593/Cookies.jpg/993d6557-4285-f9f7-eb3d-5e8ab9b0bb19?t=1551772045240&amp;version=1.0" alt="" title="">
+	    <div class="textContainer  hideAbstractMobile themeBackgroundMouse">
+            <h3 class="title heading3">Cookies</h3>
+        	<p class="abstract themeTxtSm">Cookies help us to assess the effectiveness of our website and can provide useful information.</p>
+    	</div>
+	</div>
+	    </a>
+</div>
+						</div>
+
 						
-						<h3 class="title heading3">Cookies</h3>
-						<p class="abstract themeTxtSm">Cookies help us to assess the effectiveness of our website and can provide useful information.</p>
-						<div></div>
-					</div>
-				
+					
 				
 			
-		</div>
-	</a>
+		
+	
+
+
+
+	<div class="content-metadata-asset-addon-entries">
+		
+	</div>
+
+
 
 
 	
 	
-
 					
 				
 			
 		
 	
 	
-
 
 
 	</div>
 
-					</div>
-				
+			</div>
+		
 	</div>
 </section>
-			
-			
+
 		
 	
 
 				
 				
-			
 
 		
 
@@ -5692,29 +4859,13 @@ s.parentNode.insertBefore(g, s);
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 	
 
-	<div class="portlet-boundary portlet-boundary_fatwireContent_WAR_ptlFatwireArticlePortlets_  portlet-static portlet-static-end  " id="p_p_id_fatwireContent_WAR_ptlFatwireArticlePortlets_INSTANCE_cDlEsAlf3fAG_">
+	<div class="portlet-boundary portlet-boundary_fatwireContent_WAR_ptlFatwireArticlePortlets_  portlet-static portlet-static-end decorate  " id="p_p_id_fatwireContent_WAR_ptlFatwireArticlePortlets_INSTANCE_cDlEsAlf3fAG_">
 		<span id="p_fatwireContent_WAR_ptlFatwireArticlePortlets_INSTANCE_cDlEsAlf3fAG"></span>
 
 
 
-	
-	
 	
 
 		
@@ -5766,141 +4917,21 @@ s.parentNode.insertBefore(g, s);
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-	
-	
-	
-	
 	
 
 		
 
 		
-			
-				
 <section class="portlet" id="portlet_fatwireContent_WAR_ptlFatwireArticlePortlets_INSTANCE_cDlEsAlf3fAG">
-	<header class="portlet-topper">
-		<h1 class="portlet-title">
-			 <span class="portlet-title-text">Fatwire Content Portlet</span>
-		</h1>
 
-		<menu class="portlet-topper-toolbar" id="portlet-topper-toolbar_fatwireContent_WAR_ptlFatwireArticlePortlets_INSTANCE_cDlEsAlf3fAG" type="toolbar">
-				
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-	
-
-	
-
-	
-
-	
-
-	
-
-	
-
-	
-
-	
-
-	
-
-	
-
-	
-
-	
-
-	
-
-	
-
-		
-
-		
-
-		
-
-		
-
-		
-
-		
-	
-
-		</menu>
-	</header>
 
 	<div class="portlet-content">
+		<div class="portlet-topper">
+		</div>
+
 		
-					<div class=" portlet-content-container" style="">
-						
+			<div class=" portlet-content-container">
+				
 
 
 	<div class="portlet-body">
@@ -5910,77 +4941,8 @@ s.parentNode.insertBefore(g, s);
 	
 		
 			
-			
 				
 					
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
@@ -6041,7 +5003,6 @@ s.parentNode.insertBefore(g, s);
 				
 
 				
-					
 					
 						
 
@@ -6097,7 +5058,6 @@ s.parentNode.insertBefore(g, s);
 
 	
 	
-
 					
 				
 			
@@ -6106,21 +5066,18 @@ s.parentNode.insertBefore(g, s);
 	
 
 
-
 	</div>
 
-					</div>
-				
+			</div>
+		
 	</div>
 </section>
-			
-			
+
 		
 	
 
 				
 				
-			
 
 		
 
@@ -6192,29 +5149,13 @@ s.parentNode.insertBefore(g, s);
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 	
 
-	<div class="portlet-boundary portlet-boundary_print_WAR_ptlFatwireArticlePortlets_  portlet-static portlet-static-end  " id="p_p_id_print_WAR_ptlFatwireArticlePortlets_INSTANCE_tA6F_">
+	<div class="portlet-boundary portlet-boundary_print_WAR_ptlFatwireArticlePortlets_  portlet-static portlet-static-end decorate  " id="p_p_id_print_WAR_ptlFatwireArticlePortlets_INSTANCE_tA6F_">
 		<span id="p_print_WAR_ptlFatwireArticlePortlets_INSTANCE_tA6F"></span>
 
 
 
-	
-	
 	
 
 		
@@ -6266,141 +5207,21 @@ s.parentNode.insertBefore(g, s);
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-	
-	
-	
-	
 	
 
 		
 
 		
-			
-				
 <section class="portlet" id="portlet_print_WAR_ptlFatwireArticlePortlets_INSTANCE_tA6F">
-	<header class="portlet-topper">
-		<h1 class="portlet-title">
-			 <span class="portlet-title-text">Print Portlet</span>
-		</h1>
 
-		<menu class="portlet-topper-toolbar" id="portlet-topper-toolbar_print_WAR_ptlFatwireArticlePortlets_INSTANCE_tA6F" type="toolbar">
-				
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-	
-
-	
-
-	
-
-	
-
-	
-
-	
-
-	
-
-	
-
-	
-
-	
-
-	
-
-	
-
-	
-
-	
-
-		
-
-		
-
-		
-
-		
-
-		
-
-		
-	
-
-		</menu>
-	</header>
 
 	<div class="portlet-content">
+		<div class="portlet-topper">
+		</div>
+
 		
-					<div class=" portlet-content-container" style="">
-						
+			<div class=" portlet-content-container">
+				
 
 
 	<div class="portlet-body">
@@ -6410,77 +5231,8 @@ s.parentNode.insertBefore(g, s);
 	
 		
 			
-			
 				
 					
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
@@ -6541,7 +5293,6 @@ s.parentNode.insertBefore(g, s);
 				
 
 				
-					
 					
 						
 
@@ -6560,7 +5311,7 @@ s.parentNode.insertBefore(g, s);
 
 
 <div class="print">
- 	<!-- 1232729609626 has been set in ArticlePortlet as session variable with "PORTLET_SCOPE" -->
+ 	<!--  has been set in ArticlePortlet as session variable with "PORTLET_SCOPE" -->
 	
 		
 		
@@ -6570,8 +5321,8 @@ s.parentNode.insertBefore(g, s);
 	<!-- When there is Article Portlet with friendly URL -->
 	
 		
-			<a id="print" class="printLink articleLink" href="https://www.rspca.org.uk:443/utilities/privacy?p_p_id=print_WAR_ptlFatwireArticlePortlets_INSTANCE_tA6F&amp;p_p_lifecycle=0&amp;p_p_state=exclusive&amp;p_p_mode=view&amp;p_p_col_id=column-7&amp;p_p_col_count=1&amp;_print_WAR_ptlFatwireArticlePortlets_INSTANCE_tA6F_articlePortletDeploymentPage=%2Futilities%2Fprivacy&amp;_print_WAR_ptlFatwireArticlePortlets_INSTANCE_tA6F_action=exclusivePrintMode&amp;_print_WAR_ptlFatwireArticlePortlets_INSTANCE_tA6F_articleName=1232729609626" rel="nofollow">Print this page</a>
 		
+			<a id="print" class="printLink" href="javascript:window.print()" rel="nofollow">Print this page</a>
 		
 	
 	<div class="spacer"></div>
@@ -6582,7 +5333,6 @@ s.parentNode.insertBefore(g, s);
 
 	
 	
-
 					
 				
 			
@@ -6591,21 +5341,18 @@ s.parentNode.insertBefore(g, s);
 	
 
 
-
 	</div>
 
-					</div>
-				
+			</div>
+		
 	</div>
 </section>
-			
-			
+
 		
 	
 
 				
 				
-			
 
 		
 
@@ -6672,29 +5419,13 @@ s.parentNode.insertBefore(g, s);
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 	
 
-	<div class="portlet-boundary portlet-boundary_megaNav_WAR_ptl2014NavigationPortlet_  portlet-static portlet-static-end  " id="p_p_id_megaNav_WAR_ptl2014NavigationPortlet_INSTANCE_Z5Xg_">
+	<div class="portlet-boundary portlet-boundary_megaNav_WAR_ptl2014NavigationPortlet_  portlet-static portlet-static-end decorate  " id="p_p_id_megaNav_WAR_ptl2014NavigationPortlet_INSTANCE_Z5Xg_">
 		<span id="p_megaNav_WAR_ptl2014NavigationPortlet_INSTANCE_Z5Xg"></span>
 
 
 
-	
-	
 	
 
 		
@@ -6746,141 +5477,21 @@ s.parentNode.insertBefore(g, s);
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-	
-	
-	
-	
 	
 
 		
 
 		
-			
-				
 <section class="portlet" id="portlet_megaNav_WAR_ptl2014NavigationPortlet_INSTANCE_Z5Xg">
-	<header class="portlet-topper">
-		<h1 class="portlet-title">
-			 <span class="portlet-title-text">Mega Nav Portlet</span>
-		</h1>
 
-		<menu class="portlet-topper-toolbar" id="portlet-topper-toolbar_megaNav_WAR_ptl2014NavigationPortlet_INSTANCE_Z5Xg" type="toolbar">
-				
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-	
-
-	
-
-	
-
-	
-
-	
-
-	
-
-	
-
-	
-
-	
-
-	
-
-	
-
-	
-
-	
-
-	
-
-		
-
-		
-
-		
-
-		
-
-		
-
-		
-	
-
-		</menu>
-	</header>
 
 	<div class="portlet-content">
+		<div class="portlet-topper">
+		</div>
+
 		
-					<div class=" portlet-content-container" style="">
-						
+			<div class=" portlet-content-container">
+				
 
 
 	<div class="portlet-body">
@@ -6890,77 +5501,8 @@ s.parentNode.insertBefore(g, s);
 	
 		
 			
-			
 				
 					
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
@@ -7021,7 +5563,6 @@ s.parentNode.insertBefore(g, s);
 				
 
 				
-					
 					
 						
 
@@ -7036,7 +5577,7 @@ s.parentNode.insertBefore(g, s);
 
 
 
-<link rel="stylesheet" type="text/css" href="/ptl2014NavigationPortlet/css/megaNav/megaNavViewSideRefresh.css?a=16">
+<link rel="stylesheet" type="text/css" href="/o/ptl2014NavigationPortlet/css/megaNav/megaNavViewSideRefresh.css?a=16">
 
 	<div class="mega-nav-portlet sidenav themeNoBullets">
 		<ul class="nav-list-parent">
@@ -7073,7 +5614,6 @@ s.parentNode.insertBefore(g, s);
 
 	
 	
-
 					
 				
 			
@@ -7082,21 +5622,18 @@ s.parentNode.insertBefore(g, s);
 	
 
 
-
 	</div>
 
-					</div>
-				
+			</div>
+		
 	</div>
 </section>
-			
-			
+
 		
 	
 
 				
 				
-			
 
 		
 
@@ -7132,21 +5669,8 @@ s.parentNode.insertBefore(g, s);
 
 
 
-
-
-
-
-	
-
-
-
-
-
-<form action="#" id="hrefFm" method="post" name="hrefFm">
-	<span></span>
-</form>
-			</div>
-	
+<form action="#" id="hrefFm" method="post" name="hrefFm"><span></span></form>			</div>
+			
 
 <footer id="footer" role="contentinfo">
 
@@ -7158,7 +5682,7 @@ s.parentNode.insertBefore(g, s);
             <div class="footerColumn">
                 <h3 class="footer">How we help</h3>
         		<hr>
-        		<p class="themeTotalNum">114,584</p>			
+        		<p class="themeTotalNum">129,602</p>			
                 <p class="themeTxtSm">Animals were rescued and collected last year</p>
         	</div>
             <div class="footerColumn">
@@ -7206,7 +5730,7 @@ s.parentNode.insertBefore(g, s);
 		</div>
 	</section>
 	<div id="reg-charity">
-		<p class="themeTxtSm">© RSPCA 2018. All rights reserved. The RSPCA helps animals in England and Wales. Registered charity no.219099.</p>
+		<p class="themeTxtSm">© RSPCA 2019. All rights reserved. The RSPCA helps animals in England and Wales. Registered charity no.219099. We're registered with the Fundraising Regulator.</p>
 	</div>
 	<div id="footerNav">
 		<ul>		
@@ -7217,11 +5741,11 @@ s.parentNode.insertBefore(g, s);
 			   <li><a href="https://www.rspca.org.uk/utilities/sitemap">Site map</a></li>
 			   <li><a href="https://www.rspca.org.uk/utilities/privacy">Privacy and cookies</a></li>
 			   <li><a href="https://www.rspca.org.uk/utilities/accessibility">Accessibility</a></li>
+			   <li><a href="https://www.rspca.org.uk/utilities/modernslavery">Modern slavery</a></li>
         </ul>
     </div>
 </footer>		</div>
 	
-		
 
 
 
@@ -7230,6 +5754,7 @@ s.parentNode.insertBefore(g, s);
 
 
 
+	
 
 
 
@@ -7283,8 +5808,6 @@ s.parentNode.insertBefore(g, s);
 
 
 	
-		
-
 
 	
 
@@ -7292,48 +5815,7 @@ s.parentNode.insertBefore(g, s);
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+	
 
 
 
@@ -7349,9 +5831,7 @@ s.parentNode.insertBefore(g, s);
 
 	
 
-
-
-
+	
 
 
 
@@ -7359,19 +5839,7 @@ s.parentNode.insertBefore(g, s);
 
 	
 
-				<script src="https://www.rspca.org.uk/html/portlet/dynamic_data_lists/js/main.js?browserId=other&amp;minifierType=js&amp;languageId=en_US&amp;b=6210&amp;t=1529578184000" type="text/javascript"></script>
 
-	
-
-				<script src="https://www.rspca.org.uk/html/portlet/dynamic_data_mapping/js/main.js?browserId=other&amp;minifierType=js&amp;languageId=en_US&amp;b=6210&amp;t=1529578184000" type="text/javascript"></script>
-
-	
-
-				<script src="https://www.rspca.org.uk/html/portlet/document_library/js/main.js?browserId=other&amp;minifierType=js&amp;languageId=en_US&amp;b=6210&amp;t=1529578184000" type="text/javascript"></script>
-
-	
-
-				<script src="https://www.rspca.org.uk/html/portlet/document_library/js/upload.js?browserId=other&amp;minifierType=js&amp;languageId=en_US&amp;b=6210&amp;t=1529578184000" type="text/javascript"></script>
 
 	
 
@@ -7388,12 +5856,7 @@ s.parentNode.insertBefore(g, s);
 <script type="text/javascript">
 // <![CDATA[
 
-	Liferay.Util.addInputFocus();
-
 	
-
-	
-		
 		
 
 			
@@ -7401,6 +5864,8 @@ s.parentNode.insertBefore(g, s);
 			
 		
 	
+
+	Liferay.BrowserSelectors.run();
 
 // ]]>
 </script>
@@ -7415,159 +5880,18 @@ s.parentNode.insertBefore(g, s);
 
 
 
-
-
-
-
-
-
-	
-
-	
-
-		
-
-		
-	
 
 
 <script type="text/javascript">
-// <![CDATA[
+	// <![CDATA[
 
-	Liferay.Portlet.onLoad(
-		{
-			canEditTitle: false,
-			columnPos: 0,
-			isStatic: 'end',
-			namespacedId: 'p_p_id_print_WAR_ptlFatwireArticlePortlets_INSTANCE_tA6F_',
-			portletId: 'print_WAR_ptlFatwireArticlePortlets_INSTANCE_tA6F',
-			refreshURL: '\x2fc\x2fportal\x2frender_portlet\x3fp_l_id\x3d1571256\x26p_p_id\x3dprint_WAR_ptlFatwireArticlePortlets_INSTANCE_tA6F\x26p_p_lifecycle\x3d0\x26p_t_lifecycle\x3d0\x26p_p_state\x3dnormal\x26p_p_mode\x3dview\x26p_p_col_id\x3dcolumn-7\x26p_p_col_pos\x3d0\x26p_p_col_count\x3d1\x26p_p_isolated\x3d1\x26currentURL\x3d\x252Futilities\x252Fprivacy'
-		}
-	);
+		
 
-	Liferay.Portlet.onLoad(
-		{
-			canEditTitle: false,
-			columnPos: 2,
-			isStatic: 'end',
-			namespacedId: 'p_p_id_fatwireContent_WAR_ptlFatwireArticlePortlets_INSTANCE_kvoyUXufgPJi_',
-			portletId: 'fatwireContent_WAR_ptlFatwireArticlePortlets_INSTANCE_kvoyUXufgPJi',
-			refreshURL: '\x2fc\x2fportal\x2frender_portlet\x3fp_l_id\x3d1571256\x26p_p_id\x3dfatwireContent_WAR_ptlFatwireArticlePortlets_INSTANCE_kvoyUXufgPJi\x26p_p_lifecycle\x3d0\x26p_t_lifecycle\x3d0\x26p_p_state\x3dnormal\x26p_p_mode\x3dview\x26p_p_col_id\x3dcolumn-2\x26p_p_col_pos\x3d2\x26p_p_col_count\x3d3\x26p_p_isolated\x3d1\x26currentURL\x3d\x252Futilities\x252Fprivacy'
-		}
-	);
+		Liferay.currentURL = '\x2futilities\x2fprivacy';
+		Liferay.currentURLEncoded = '\x252Futilities\x252Fprivacy';
 
-	Liferay.Portlet.onLoad(
-		{
-			canEditTitle: false,
-			columnPos: 0,
-			isStatic: 'end',
-			namespacedId: 'p_p_id_megaNav_WAR_ptl2014NavigationPortlet_INSTANCE_Z5Xg_',
-			portletId: 'megaNav_WAR_ptl2014NavigationPortlet_INSTANCE_Z5Xg',
-			refreshURL: '\x2fc\x2fportal\x2frender_portlet\x3fp_l_id\x3d1571256\x26p_p_id\x3dmegaNav_WAR_ptl2014NavigationPortlet_INSTANCE_Z5Xg\x26p_p_lifecycle\x3d0\x26p_t_lifecycle\x3d0\x26p_p_state\x3dnormal\x26p_p_mode\x3dview\x26p_p_col_id\x3dcolumn-3\x26p_p_col_pos\x3d0\x26p_p_col_count\x3d1\x26p_p_isolated\x3d1\x26currentURL\x3d\x252Futilities\x252Fprivacy'
-		}
-	);
-
-	Liferay.Portlet.onLoad(
-		{
-			canEditTitle: false,
-			columnPos: 0,
-			isStatic: 'end',
-			namespacedId: 'p_p_id_fatwireContent_WAR_ptlFatwireArticlePortlets_INSTANCE_PBeixnJKoHtf_',
-			portletId: 'fatwireContent_WAR_ptlFatwireArticlePortlets_INSTANCE_PBeixnJKoHtf',
-			refreshURL: '\x2fc\x2fportal\x2frender_portlet\x3fp_l_id\x3d1571256\x26p_p_id\x3dfatwireContent_WAR_ptlFatwireArticlePortlets_INSTANCE_PBeixnJKoHtf\x26p_p_lifecycle\x3d0\x26p_t_lifecycle\x3d0\x26p_p_state\x3dnormal\x26p_p_mode\x3dview\x26p_p_col_id\x3dcolumn-5\x26p_p_col_pos\x3d0\x26p_p_col_count\x3d1\x26p_p_isolated\x3d1\x26currentURL\x3d\x252Futilities\x252Fprivacy'
-		}
-	);
-
-	Liferay.Portlet.onLoad(
-		{
-			canEditTitle: false,
-			columnPos: 0,
-			isStatic: 'end',
-			namespacedId: 'p_p_id_fatwireArticle_WAR_ptlFatwireArticlePortlets_',
-			portletId: 'fatwireArticle_WAR_ptlFatwireArticlePortlets',
-			refreshURL: '\x2fc\x2fportal\x2frender_portlet\x3fp_l_id\x3d1571256\x26p_p_id\x3dfatwireArticle_WAR_ptlFatwireArticlePortlets\x26p_p_lifecycle\x3d0\x26p_t_lifecycle\x3d0\x26p_p_state\x3dnormal\x26p_p_mode\x3dview\x26p_p_col_id\x3dcolumn-2\x26p_p_col_pos\x3d0\x26p_p_col_count\x3d3\x26p_p_isolated\x3d1\x26currentURL\x3d\x252Futilities\x252Fprivacy'
-		}
-	);
-
-	Liferay.Portlet.onLoad(
-		{
-			canEditTitle: false,
-			columnPos: 0,
-			isStatic: 'end',
-			namespacedId: 'p_p_id_fatwireContent_WAR_ptlFatwireArticlePortlets_INSTANCE_RKpWg2hRxHyO_',
-			portletId: 'fatwireContent_WAR_ptlFatwireArticlePortlets_INSTANCE_RKpWg2hRxHyO',
-			refreshURL: '\x2fc\x2fportal\x2frender_portlet\x3fp_l_id\x3d1571256\x26p_p_id\x3dfatwireContent_WAR_ptlFatwireArticlePortlets_INSTANCE_RKpWg2hRxHyO\x26p_p_lifecycle\x3d0\x26p_t_lifecycle\x3d0\x26p_p_state\x3dnormal\x26p_p_mode\x3dview\x26p_p_col_id\x3dcolumn-4\x26p_p_col_pos\x3d0\x26p_p_col_count\x3d1\x26p_p_isolated\x3d1\x26currentURL\x3d\x252Futilities\x252Fprivacy'
-		}
-	);
-
-	Liferay.Portlet.onLoad(
-		{
-			canEditTitle: false,
-			columnPos: 0,
-			isStatic: 'end',
-			namespacedId: 'p_p_id_fatwireContent_WAR_ptlFatwireArticlePortlets_INSTANCE_cDlEsAlf3fAG_',
-			portletId: 'fatwireContent_WAR_ptlFatwireArticlePortlets_INSTANCE_cDlEsAlf3fAG',
-			refreshURL: '\x2fc\x2fportal\x2frender_portlet\x3fp_l_id\x3d1571256\x26p_p_id\x3dfatwireContent_WAR_ptlFatwireArticlePortlets_INSTANCE_cDlEsAlf3fAG\x26p_p_lifecycle\x3d0\x26p_t_lifecycle\x3d0\x26p_p_state\x3dnormal\x26p_p_mode\x3dview\x26p_p_col_id\x3dcolumn-6\x26p_p_col_pos\x3d0\x26p_p_col_count\x3d1\x26p_p_isolated\x3d1\x26currentURL\x3d\x252Futilities\x252Fprivacy'
-		}
-	);
-
-	Liferay.Portlet.onLoad(
-		{
-			canEditTitle: false,
-			columnPos: 1,
-			isStatic: 'end',
-			namespacedId: 'p_p_id_fatwireListing_WAR_ptlFatwireArticlePortlets_INSTANCE_4Ioi_',
-			portletId: 'fatwireListing_WAR_ptlFatwireArticlePortlets_INSTANCE_4Ioi',
-			refreshURL: '\x2fc\x2fportal\x2frender_portlet\x3fp_l_id\x3d1571256\x26p_p_id\x3dfatwireListing_WAR_ptlFatwireArticlePortlets_INSTANCE_4Ioi\x26p_p_lifecycle\x3d0\x26p_t_lifecycle\x3d0\x26p_p_state\x3dnormal\x26p_p_mode\x3dview\x26p_p_col_id\x3dcolumn-2\x26p_p_col_pos\x3d1\x26p_p_col_count\x3d3\x26p_p_isolated\x3d1\x26currentURL\x3d\x252Futilities\x252Fprivacy'
-		}
-	);
-AUI().use('aui-base', 'liferay-menu', 'liferay-notice', 'liferay-poller', 'liferay-session', function(A) {(function() {
-	Liferay.Util.addInputType();
-
-	Liferay.Portlet.ready(
-		function(portletId, node) {
-			Liferay.Util.addInputType(node);
-		}
-	);
-
-	if (A.UA.mobile) {
-		Liferay.Util.addInputCancel();
-	}
-})();(function() {
-	new Liferay.Menu();
-
-	var liferayNotices = Liferay.Data.notices;
-
-	for (var i = 1; i < liferayNotices.length; i++) {
-		new Liferay.Notice(liferayNotices[i]);
-	}
-
-	
-})();(function() {
-			Liferay.Session = new Liferay.SessionBase(
-				{
-					autoExtend: true,
-					sessionLength: 30,
-					redirectOnExpire: false,
-					redirectUrl: 'https\x3a\x2f\x2fwww\x2erspca\x2eorg\x2euk\x2fhome',
-					warningLength: 0
-				}
-			);
-
-			
-		})();});
-// ]]>
+	// ]]>
 </script>
-
-
-
-
-
-
-
-
-
-<script src="https://www.rspca.org.uk/ptl2017Themes/mainSite/js/main.js?browserId=other&amp;minifierType=js&amp;languageId=en_US&amp;b=6210&amp;t=1528192271000" type="text/javascript"></script>
 
 
 
@@ -7588,7 +5912,320 @@ AUI().use('aui-base', 'liferay-menu', 'liferay-notice', 'liferay-poller', 'lifer
 
 
 
+
+
+
+
+
+
+	
+
+	
+
 		
+
+		
+	
+
+
+<script type="text/javascript">
+// <![CDATA[
+
+	if (Liferay.Data.ICONS_INLINE_SVG) {
+		svg4everybody(
+			{
+				attributeName: 'data-href',
+				polyfill: true
+			}
+		);
+	}
+
+	
+		Liferay.Portlet.register('fatwireContent_WAR_ptlFatwireArticlePortlets_INSTANCE_cDlEsAlf3fAG');
+	
+
+	Liferay.Portlet.onLoad(
+		{
+			canEditTitle: false,
+			columnPos: 0,
+			isStatic: 'end',
+			namespacedId: 'p_p_id_fatwireContent_WAR_ptlFatwireArticlePortlets_INSTANCE_cDlEsAlf3fAG_',
+			portletId: 'fatwireContent_WAR_ptlFatwireArticlePortlets_INSTANCE_cDlEsAlf3fAG',
+			refreshURL: '\x2fc\x2fportal\x2frender_portlet\x3fp_l_id\x3d1571256\x26p_p_id\x3dfatwireContent_WAR_ptlFatwireArticlePortlets_INSTANCE_cDlEsAlf3fAG\x26p_p_lifecycle\x3d0\x26p_t_lifecycle\x3d0\x26p_p_state\x3dnormal\x26p_p_mode\x3dview\x26p_p_col_id\x3dcolumn-6\x26p_p_col_pos\x3d0\x26p_p_col_count\x3d1\x26p_p_isolated\x3d1\x26currentURL\x3d\x252Futilities\x252Fprivacy',
+			refreshURLData: {}
+		}
+	);
+
+	
+		Liferay.Portlet.register('print_WAR_ptlFatwireArticlePortlets_INSTANCE_tA6F');
+	
+
+	Liferay.Portlet.onLoad(
+		{
+			canEditTitle: false,
+			columnPos: 0,
+			isStatic: 'end',
+			namespacedId: 'p_p_id_print_WAR_ptlFatwireArticlePortlets_INSTANCE_tA6F_',
+			portletId: 'print_WAR_ptlFatwireArticlePortlets_INSTANCE_tA6F',
+			refreshURL: '\x2fc\x2fportal\x2frender_portlet\x3fp_l_id\x3d1571256\x26p_p_id\x3dprint_WAR_ptlFatwireArticlePortlets_INSTANCE_tA6F\x26p_p_lifecycle\x3d0\x26p_t_lifecycle\x3d0\x26p_p_state\x3dnormal\x26p_p_mode\x3dview\x26p_p_col_id\x3dcolumn-7\x26p_p_col_pos\x3d0\x26p_p_col_count\x3d1\x26p_p_isolated\x3d1\x26currentURL\x3d\x252Futilities\x252Fprivacy',
+			refreshURLData: {}
+		}
+	);
+
+	
+		Liferay.Portlet.register('com_liferay_journal_content_web_portlet_JournalContentPortlet_INSTANCE_KPGIZ3Jvf4p6');
+	
+
+	Liferay.Portlet.onLoad(
+		{
+			canEditTitle: false,
+			columnPos: 2,
+			isStatic: 'end',
+			namespacedId: 'p_p_id_com_liferay_journal_content_web_portlet_JournalContentPortlet_INSTANCE_KPGIZ3Jvf4p6_',
+			portletId: 'com_liferay_journal_content_web_portlet_JournalContentPortlet_INSTANCE_KPGIZ3Jvf4p6',
+			refreshURL: '\x2fc\x2fportal\x2frender_portlet\x3fp_l_id\x3d1571256\x26p_p_id\x3dcom_liferay_journal_content_web_portlet_JournalContentPortlet_INSTANCE_KPGIZ3Jvf4p6\x26p_p_lifecycle\x3d0\x26p_t_lifecycle\x3d0\x26p_p_state\x3dnormal\x26p_p_mode\x3dview\x26p_p_col_id\x3dcolumn-2\x26p_p_col_pos\x3d2\x26p_p_col_count\x3d3\x26p_p_isolated\x3d1\x26currentURL\x3d\x252Futilities\x252Fprivacy',
+			refreshURLData: {}
+		}
+	);
+
+	
+		Liferay.Portlet.register('fatwireListing_WAR_ptlFatwireArticlePortlets_INSTANCE_4Ioi');
+	
+
+	Liferay.Portlet.onLoad(
+		{
+			canEditTitle: false,
+			columnPos: 1,
+			isStatic: 'end',
+			namespacedId: 'p_p_id_fatwireListing_WAR_ptlFatwireArticlePortlets_INSTANCE_4Ioi_',
+			portletId: 'fatwireListing_WAR_ptlFatwireArticlePortlets_INSTANCE_4Ioi',
+			refreshURL: '\x2fc\x2fportal\x2frender_portlet\x3fp_l_id\x3d1571256\x26p_p_id\x3dfatwireListing_WAR_ptlFatwireArticlePortlets_INSTANCE_4Ioi\x26p_p_lifecycle\x3d0\x26p_t_lifecycle\x3d0\x26p_p_state\x3dnormal\x26p_p_mode\x3dview\x26p_p_col_id\x3dcolumn-2\x26p_p_col_pos\x3d1\x26p_p_col_count\x3d3\x26p_p_isolated\x3d1\x26currentURL\x3d\x252Futilities\x252Fprivacy',
+			refreshURLData: {}
+		}
+	);
+
+	
+		Liferay.Portlet.register('com_liferay_journal_content_web_portlet_JournalContentPortlet_INSTANCE_Rw0NULNFJsb2');
+	
+
+	Liferay.Portlet.onLoad(
+		{
+			canEditTitle: false,
+			columnPos: 0,
+			isStatic: 'end',
+			namespacedId: 'p_p_id_com_liferay_journal_content_web_portlet_JournalContentPortlet_INSTANCE_Rw0NULNFJsb2_',
+			portletId: 'com_liferay_journal_content_web_portlet_JournalContentPortlet_INSTANCE_Rw0NULNFJsb2',
+			refreshURL: '\x2fc\x2fportal\x2frender_portlet\x3fp_l_id\x3d1571256\x26p_p_id\x3dcom_liferay_journal_content_web_portlet_JournalContentPortlet_INSTANCE_Rw0NULNFJsb2\x26p_p_lifecycle\x3d0\x26p_t_lifecycle\x3d0\x26p_p_state\x3dnormal\x26p_p_mode\x3dview\x26p_p_col_id\x3dcolumn-4\x26p_p_col_pos\x3d0\x26p_p_col_count\x3d1\x26p_p_isolated\x3d1\x26currentURL\x3d\x252Futilities\x252Fprivacy',
+			refreshURLData: {}
+		}
+	);
+
+	
+		Liferay.Portlet.register('com_liferay_journal_content_web_portlet_JournalContentPortlet_INSTANCE_wqAZ2ZSMLSHG');
+	
+
+	Liferay.Portlet.onLoad(
+		{
+			canEditTitle: false,
+			columnPos: 0,
+			isStatic: 'end',
+			namespacedId: 'p_p_id_com_liferay_journal_content_web_portlet_JournalContentPortlet_INSTANCE_wqAZ2ZSMLSHG_',
+			portletId: 'com_liferay_journal_content_web_portlet_JournalContentPortlet_INSTANCE_wqAZ2ZSMLSHG',
+			refreshURL: '\x2fc\x2fportal\x2frender_portlet\x3fp_l_id\x3d1571256\x26p_p_id\x3dcom_liferay_journal_content_web_portlet_JournalContentPortlet_INSTANCE_wqAZ2ZSMLSHG\x26p_p_lifecycle\x3d0\x26p_t_lifecycle\x3d0\x26p_p_state\x3dnormal\x26p_p_mode\x3dview\x26p_p_col_id\x3dcolumn-5\x26p_p_col_pos\x3d0\x26p_p_col_count\x3d1\x26p_p_isolated\x3d1\x26currentURL\x3d\x252Futilities\x252Fprivacy',
+			refreshURLData: {}
+		}
+	);
+
+	
+		Liferay.Portlet.register('megaNav_WAR_ptl2014NavigationPortlet_INSTANCE_Z5Xg');
+	
+
+	Liferay.Portlet.onLoad(
+		{
+			canEditTitle: false,
+			columnPos: 0,
+			isStatic: 'end',
+			namespacedId: 'p_p_id_megaNav_WAR_ptl2014NavigationPortlet_INSTANCE_Z5Xg_',
+			portletId: 'megaNav_WAR_ptl2014NavigationPortlet_INSTANCE_Z5Xg',
+			refreshURL: '\x2fc\x2fportal\x2frender_portlet\x3fp_l_id\x3d1571256\x26p_p_id\x3dmegaNav_WAR_ptl2014NavigationPortlet_INSTANCE_Z5Xg\x26p_p_lifecycle\x3d0\x26p_t_lifecycle\x3d0\x26p_p_state\x3dnormal\x26p_p_mode\x3dview\x26p_p_col_id\x3dcolumn-3\x26p_p_col_pos\x3d0\x26p_p_col_count\x3d1\x26p_p_isolated\x3d1\x26currentURL\x3d\x252Futilities\x252Fprivacy',
+			refreshURLData: {}
+		}
+	);
+
+	
+		Liferay.Portlet.register('com_liferay_journal_content_web_portlet_JournalContentPortlet_INSTANCE_3Oh83sTMz4SC');
+	
+
+	Liferay.Portlet.onLoad(
+		{
+			canEditTitle: false,
+			columnPos: 0,
+			isStatic: 'end',
+			namespacedId: 'p_p_id_com_liferay_journal_content_web_portlet_JournalContentPortlet_INSTANCE_3Oh83sTMz4SC_',
+			portletId: 'com_liferay_journal_content_web_portlet_JournalContentPortlet_INSTANCE_3Oh83sTMz4SC',
+			refreshURL: '\x2fc\x2fportal\x2frender_portlet\x3fp_l_id\x3d1571256\x26p_p_id\x3dcom_liferay_journal_content_web_portlet_JournalContentPortlet_INSTANCE_3Oh83sTMz4SC\x26p_p_lifecycle\x3d0\x26p_t_lifecycle\x3d0\x26p_p_state\x3dnormal\x26p_p_mode\x3dview\x26p_p_col_id\x3dcolumn-2\x26p_p_col_pos\x3d0\x26p_p_col_count\x3d3\x26p_p_isolated\x3d1\x26currentURL\x3d\x252Futilities\x252Fprivacy',
+			refreshURLData: {}
+		}
+	);
+Liferay.Loader.require('metal-dom/src/all/dom', 'metal-uri/src/Uri', function(metalDomSrcAllDom, metalUriSrcUri) {
+(function(){
+var dom = metalDomSrcAllDom;
+var metalUriSrcUri1 = metalUriSrcUri;
+(function() {var $ = AUI.$;var _ = AUI._;
+	var Uri = metalUriSrcUri.default;
+	var pathnameRegexp = /\/documents\/(\d+)\/(\d+)\/(.+)\/(.+)/;
+
+	var downloadClickHandler = dom.delegate(
+		document.body,
+		'click',
+		'a',
+		function(event) {
+			if (window.Analytics) {
+				var anchor = event.delegateTarget;
+				var uri = new Uri(anchor.href);
+
+				var match = pathnameRegexp.exec(uri.getPathname());
+
+				if (match) {
+					Analytics.send(
+						'documentDownloaded',
+						'Document',
+						{
+							groupId: match[1],
+							fileEntryUUID: match[4],
+							preview: !!window._com_liferay_document_library_analytics_isViewFileEntry,
+							title: decodeURIComponent(match[3].replace(/\+/ig, ' ')),
+							version: uri.getParameterValue('version')
+						}
+					);
+				}
+			}
+		}
+	);
+
+	var onDestroyPortlet = function() {
+		downloadClickHandler.removeListener()
+		Liferay.detach('destroyPortlet', onDestroyPortlet);
+	}
+
+	Liferay.on('destroyPortlet', onDestroyPortlet);
+})();})();
+},
+function(error) {
+console.error(error);
+});AUI().use('aui-tooltip', 'liferay-menu', 'liferay-notice', 'aui-base', 'liferay-session', 'liferay-poller', function(A) {(function() {var $ = AUI.$;var _ = AUI._;
+	if (A.UA.mobile) {
+		Liferay.Util.addInputCancel();
+	}
+})();(function() {var $ = AUI.$;var _ = AUI._;
+	if (!Liferay.Data.LFR_PORTAL_TOOLTIP) {
+		var triggerShowEvent = ['mouseenter', 'MSPointerDown', 'touchstart'];
+
+		if (A.UA.ios) {
+			triggerShowEvent = ['touchstart'];
+		}
+
+		Liferay.Data.LFR_PORTAL_TOOLTIP = new A.TooltipDelegate(
+			{
+				constrain: true,
+				opacity: 1,
+				trigger: '.lfr-portal-tooltip',
+				triggerHideEvent: ['click', 'mouseleave', 'MSPointerUp', 'touchend'],
+				triggerShowEvent: triggerShowEvent,
+				visible: false,
+				zIndex: Liferay.zIndex.TOOLTIP
+			}
+		);
+	}
+})();(function() {var $ = AUI.$;var _ = AUI._;
+	new Liferay.Menu();
+
+	var liferayNotices = Liferay.Data.notices;
+
+	for (var i = 1; i < liferayNotices.length; i++) {
+		new Liferay.Notice(liferayNotices[i]);
+	}
+
+	
+})();(function() {var $ = AUI.$;var _ = AUI._;
+			Liferay.Session = new Liferay.SessionBase(
+				{
+					autoExtend: true,
+					redirectOnExpire: false,
+					redirectUrl: 'https\x3a\x2f\x2fwww\x2erspca\x2eorg\x2euk\x2fhome',
+					sessionLength: 1800,
+					warningLength: 0
+				}
+			);
+
+			
+		})();});
+// ]]>
+</script>
+
+
+
+
+
+
+
+
+
+<script src="https://www.rspca.org.uk/o/ptl2017Theme/js/main.js?browserId=other&amp;minifierType=js&amp;languageId=en_US&amp;b=7010&amp;t=1553877328740" type="text/javascript"></script>
+
+
+
+
+<script type="text/javascript">
+	// <![CDATA[
+		AUI().use(
+			'aui-base',
+			function(A) {
+				var frameElement = window.frameElement;
+
+				if (frameElement && frameElement.getAttribute('id') === 'simulationDeviceIframe') {
+					A.getBody().addClass('lfr-has-simulation-panel');
+				}
+			}
+		);
+	// ]]>
+</script><script>
+	var PATH_PORTLET_CONFIGURATION_CSS_WEB = '/o/portlet-configuration-css-web';
+
+	AUI().applyConfig(
+		{
+			groups: {
+				portlet_css: {
+					base: PATH_PORTLET_CONFIGURATION_CSS_WEB + '/js/',
+					modules: {
+						'liferay-look-and-feel': {
+							path: 'look_and_feel.js',
+							requires: [
+								'aui-color-picker-popover',
+								'aui-io-plugin-deprecated',
+								'aui-io-request',
+								'aui-tabview',
+								'liferay-portlet-url',
+								'liferay-util-window',
+								'liferay-widget-zindex'
+							]
+						}
+					},
+					root: PATH_PORTLET_CONFIGURATION_CSS_WEB + '/js/'
+				}
+			}
+		}
+	);
+
+	Liferay.provide(
+		Liferay.Portlet,
+		'loadCSSEditor',
+		function(portletId, baseActionURL, baseRenderURL, baseResourceURL) {
+			Liferay.PortletCSS.init(portletId, baseActionURL, baseRenderURL, baseResourceURL);
+		},
+		['liferay-look-and-feel']
+	);
+</script>		
 		
 		<input name="isUserLoggedIn" type="hidden" value="$is_signed_in" id="isUserLoggedIn">
 		
@@ -7605,7 +6242,8 @@ s.parentNode.insertBefore(b, s);})();
 </script>
 <noscript>
 <img height="1" width="1" style="display:none;" alt="" src="https://dc.ads.linkedin.com/collect/?pid=222170&fmt=gif" />
-</noscript>	
+</noscript>
+	
 
 
 
