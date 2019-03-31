@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thesabre.com privacy policy that was archived on 2018-03-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180306235753id_/https%3A//virginia.sportswar.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thesabre.com privacy policy that was archived on 2019-03-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190331183056id_/https%3A//virginia.sportswar.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | TheSabre.com
 
