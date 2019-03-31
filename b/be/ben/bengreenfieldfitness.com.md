@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bengreenfieldfitness.com privacy policy that was archived on 2018-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181222013128id_/https%3A//bengreenfieldfitness.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bengreenfieldfitness.com privacy policy that was archived on 2019-03-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190331225329id_/https%3A//bengreenfieldfitness.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Ben Greenfield Fitness - Diet, Fat Loss and Performance Advice
 
