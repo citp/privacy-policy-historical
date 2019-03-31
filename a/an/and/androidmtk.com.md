@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the androidmtk.com privacy policy that was archived on 2018-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181230103950id_/https%3A//androidmtk.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the androidmtk.com privacy policy that was archived on 2019-03-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190331095636id_/https%3A//androidmtk.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy of Android MTK
 
@@ -16,7 +16,7 @@ We collect several different types of information for various purposes to provid
 
 ### Types of Data Collected
 
-**Personal Data**
+ **Personal Data**
 
 While using our Service, we may ask you to provide us with certain personally identifiable information that can be used to contact or identify you (“Personal Data”). Personally identifiable information may include, but is not limited to:
 
@@ -24,11 +24,11 @@ While using our Service, we may ask you to provide us with certain personally id
 2\. First name and last name  
 3\. Cookies and Usage Data
 
-**Usage Data**
+ **Usage Data**
 
 We may also collect information how the Service is accessed and used (“Usage Data”). This Usage Data may include information such as your computer’s Internet Protocol address (e.g. IP address), browser type, browser version, the pages of our Service that you visit, the time and date of your visit, the time spent on those pages, unique device identifiers and other diagnostic data.
 
-**Tracking & Cookies Data**
+ **Tracking & Cookies Data**
 
 We use cookies and similar tracking technologies to track the activity on our Service and hold certain information.
 
@@ -36,7 +36,7 @@ Cookies are files with small amount of data which may include an anonymous uniqu
 
 You can instruct your browser to refuse all cookies or to indicate when a cookie is being sent. However, if you do not accept cookies, you may not be able to use some portions of our Service.
 
-**Examples of Cookies we use:**
+ **Examples of Cookies we use:**
 
 1\. **Session Cookies**. We use Session Cookies to operate our Service.  
 2\. **Preference Cookies**. We use Preference Cookies to remember your preferences and various settings.  
@@ -70,7 +70,7 @@ Android MTK will take all steps reasonably necessary to ensure that your data is
 
 Android MTK may disclose your Personal Data in the good faith belief that such action is necessary to:
 
-1\. To comply with a legal obligation 
+1\. To comply with a legal obligation
 
 2\. To protect and defend the rights or property of Android MTK  
 3\. To prevent or investigate possible wrongdoing in connection with the Service  
@@ -91,7 +91,7 @@ These third parties have access to your Personal Data only to perform these task
 
 We may use third-party Service Providers to monitor and analyze the use of our Service.
 
-**Google Analytics**
+ **Google Analytics**
 
 Google Analytics is a web analytics service offered by Google that tracks and reports website traffic. Google uses the data collected to track and monitor the use of our Service. This data is shared with other Google services. Google may use the collected data to contextualize and personalize the ads of its own advertising network.
 
