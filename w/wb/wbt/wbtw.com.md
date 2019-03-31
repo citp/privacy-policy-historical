@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the wbtw.com privacy policy that was archived on 2018-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180604082555id_/http%3A//www.wbtw.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wbtw.com privacy policy that was archived on 2019-03-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190331073242id_/https%3A//www.wbtw.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - WBTW
+# Privacy Policy
 
 **Updated: December 1, 2016**
 
