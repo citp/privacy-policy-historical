@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the monstersandcritics.com privacy policy that was archived on 2018-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181228051527id_/https%3A//www.monstersandcritics.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the monstersandcritics.com privacy policy that was archived on 2019-03-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190331023802id_/https%3A//www.monstersandcritics.com/privacy) for the most accurate reproduction.*
 
 # Privacy and cookies policy - Monsters and Critics
 
 ## 1\. Introduction
 
-1.1 We are committed to safeguarding the privacy of Monsters and Critics ([https://www.monstersdandcritics.com](http://www.monstersandcritics.com/)).
+1.1 We are committed to safeguarding the privacy of Monsters and Critics ([https://www.monstersandcritics.com](http://www.monstersandcritics.com/)).
 
 1.2 This policy applies where we are acting as a data controller with respect to the personal data of our website visitors and service users; in other words, where we determine the purposes and means of the processing of that personal data.
 
