@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the routesonline.com privacy policy that was archived on 2018-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181219220203id_/https%3A//www.routesonline.com/content/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the routesonline.com privacy policy that was archived on 2019-03-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190331112349id_/https%3A//www.routesonline.com/content/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy :: Routesonline
 
 UBM plc is a leading global B2B event’s organiser. It is the largest, FTSE-listed pure-play organiser in the world and the largest organiser in the US and Asia.
 
-This privacy policy governs the collection and use of personal information by UBM. For more information about UBM please see: [www.ubm.com](http://www.ubm.com/).
+This privacy policy governs the collection and use of personal information by UBM. For more information about UBM please see: [www.ubm.com](https://www.ubm.com/).
 
 This website is owned and run by UBM.
 
@@ -12,7 +12,7 @@ We are committed to protecting and respecting your privacy. This privacy policy 
 
 ## Who we are
 
-For the purpose of applicable data protection laws, the data controller is UBM (UK) Ltd of 240 Blackfriars Road, London SE1 8BF. Our Data Protection Officer is Mark Peters.
+For the purpose of applicable data protection laws, the data controller is UBM (UK) Ltd of 5 Howick Place, London, SW1P 1WG, United Kingdom. Our Data Protection Officer is Mark Peters.
 
 ## Information covered by this policy
 
@@ -129,6 +129,6 @@ We reserve the right to amend this privacy policy at our sole discretion, withou
 
 If you have any questions about this privacy policy, you can email us at [dpo@ubm.com](mailto:dpo@ubm.com). If you wish to exercise your rights under applicable data protection law and this privacy policy, please contact us in writing at:
 
-**The Data Protection Officer, UBM plc, 240 Blackfriars Road, London SE1 8BF.**
+**The Data Protection Officer, UBM plc, 5 Howick Place,  London, SW1P 1WG, United Kingdom.**
 
 Version 4 of this privacy policy is effective as of **20 April 2018**
