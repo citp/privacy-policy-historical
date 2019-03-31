@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gazettextra.com privacy policy that was archived on 2018-07-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180701113216id_/https%3A//www.gazettextra.com/site/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gazettextra.com privacy policy that was archived on 2019-03-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190331105645id_/https%3A//www.gazettextra.com/site/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy | Site | gazettextra.com
 
@@ -42,6 +42,10 @@ Personal information you voluntarily provide is used for internal purposes only 
 
 Children should always get parental permission before sending any information about themselves over the Internet -- to us or anyone else. We encourage parents to review and share safety tips with their children using the Internet. We do not knowingly collect or solicit personally identifiable information from or about children under 13 except as permitted by law. If we discover we have received any information from a child under 13 in violation of this policy, we will delete that information immediately. If you believe we have any information from or about anyone under 13, please contact us.
 
+ **Prohibited uses**
+
+This site is not intended for use by persons located within the European Economic Area (EEA). We do not request or accept personal information concerning or supplied by persons who are located within the EEA at the time they access this site. If you have accessed this site from within the EEA, you should immediately discontinue your use. If you have supplied personal information to us in violation of this provision, whether through the registration of new user accounts or otherwise, please contact us at gazextra@gazettextra.com.
+
  **Notice regarding other online companies**
 
 The Gazette, Bliss Communications, Inc., and Bliss New Media are affiliated with other online companies and providers, some of which feature our branding. Our web sites also provide text and graphic links to web sites over which we have no control or responsibility for content or business practices. This policy statement does not apply to the web sites of those companies and organizations. Please refer to these affiliated sites to obtain information on their privacy policies. If you cannot find the privacy policy of these sites via a link from the site's home page, you should contact the business or organization directly for more information.
@@ -49,20 +53,3 @@ The Gazette, Bliss Communications, Inc., and Bliss New Media are affiliated with
  **Our right to revise this policy**
 
 The Internet is an ever-changing medium. We reserve the right to alter or amend this policy as required by changes in business strategy or developments in technology. If changes are required, we will post the changes to the Terms of Use and/or Privacy Policy.
-
-####  Readers' Choice 2018 Awards 
-
-We're always interested in hearing about news in our community. Let us know what's going on!
-
-  * Jul 1
-
-  * Jul 1
-
-  * Jul 1
-
-  * Jul 1
-
-  * Jul 1
-
-
-
