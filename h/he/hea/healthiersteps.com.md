@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the healthiersteps.com privacy policy that was archived on 2018-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181225045659id_/https%3A//healthiersteps.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the healthiersteps.com privacy policy that was archived on 2019-03-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190331190022id_/https%3A//healthiersteps.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Healthier Steps
+# Privacy Policy - Healthier Steps
 
 Healthier Steps – Gluten Free and Vegan is committed to protecting your privacy and developing technology that gives you the most powerful and safe online experience. This Statement of Privacy applies to the Healthier Steps – Gluten Free and Vegan Web site and governs data collection and usage. By using the Healthier Steps – Gluten Free and Vegan website, you consent to the data practices described in this statement.
 
