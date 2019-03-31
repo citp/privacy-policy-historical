@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the brooklynpapers.com privacy policy that was archived on 2017-10-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171001020344id_/http%3A//www.brooklynpaper.com/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the brooklynpapers.com privacy policy that was archived on 2019-03-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190331063312id_/https%3A//www.brooklynpaper.com/about/privacy) for the most accurate reproduction.*
 
 # Brooklyn Paper: Privacy Policy
 
