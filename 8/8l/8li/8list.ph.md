@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 8list.ph privacy policy that was archived on 2018-07-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180729022342id_/https%3A//8list.ph/privacy-notice) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 8list.ph privacy policy that was archived on 2019-03-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190331023754id_/https%3A//8list.ph/privacy-notice) for the most accurate reproduction.*
 
 # Privacy – 8List.ph
 
@@ -71,10 +71,10 @@ Data will only be retained until they are still relevant for I.D.8. In case when
 
 You have the following rights as data subjects:
 
-  * Right to be informed what personal information the College holds about you and what it is used for
+  * Right to be informed what personal information I.D.8 holds about you and what it is used for
   * Right to reasonable access your personal information
   * Right to object to the processing of your personal information
-  * Right to update the personal information the College holds or rectify inaccurate data
+  * Right to update the personal information the I.D.8 holds or rectify inaccurate data
   * Right to erasure or blocking
   * Right to damages
   * Right to data portability
@@ -82,7 +82,7 @@ You have the following rights as data subjects:
 
 
 
-You may request access to your personal information, and/or have it corrected, erased or blocked on reasonable grounds. The College will consider the request and reserves the right to deal with the matter in accordance with law.
+You may request access to your personal information, and/or have it corrected, erased or blocked on reasonable grounds.  I.D.8 will consider the request and reserves the right to deal with the matter in accordance with law.
 
 ####  **Children’s Privacy**
 
