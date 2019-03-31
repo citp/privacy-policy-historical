@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dublin.ie privacy policy that was archived on 2017-11-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171114053102id_/https%3A//dublin.ie/privacy-policy-cookie-usage) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dublin.ie privacy policy that was archived on 2019-03-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190331151353id_/https%3A//dublin.ie/privacy-policy-cookie-usage) for the most accurate reproduction.*
 
 # Privacy Policy & Cookie Usage | Dublin.ie
 
@@ -13,24 +13,28 @@ We collect personal information using a number of methods. If you subscribe to t
 Dublin City Council does not collect any personal information other than information that is knowingly and willingly given. To sign up for the Dublin.ie newsletter, we collect your first name, last name and email address. When you email, mail or call Dublin.ie, we may collect certain personal information for the purposes of responding to your query or request.
 
 **Why do we collect your personal information?**  
-We collect personal information in order to respond to any direct requests or queries you make in relation to Dublin.ie. 
+We collect personal information in order to respond to any direct requests or queries you make in relation to Dublin.ie.
 
-If you have signed up to the Dublin.ie newsletter, you can control your personal information via Mailchimp, the service used to distribute the newsletter.
+If you give your consent in signing up to the Dublin.ie newsletter, you can control your personal information via Mailchimp, the service used to distribute the newsletter. If you don’t sign up, you will not be added to the newsletter list.
 
-For any other personal information submitted to Dublin.ie, you may request for it to be deleted or amended at any time. Your personal information will be treated with standards of security and confidentiality, strictly in accordance with the Data Protection Act and regulations made thereunder.
+For any other personal information submitted to Dublin.ie, you may request for it to be deleted or amended at any time. Your personal information will be treated with standards of security and confidentiality, strictly in accordance with the General Data Protection Regulation (GDPR) (EU) 2016/679 and regulations made thereunder.
 
 **Do we share your information?**  
 We respect your privacy and will not sell or give your details to other organisations for marketing or other purposes.
 
 **Period for which personal data will be stored**  
-If you apply to be included on the Dublin.ie newsletter mailing list you will retain control over your personal data and you may decide when you wish to discontinue your subscription to the service. 
+If you apply to be included on the Dublin.ie newsletter mailing list you will retain control over your personal data and you may decide when you wish to discontinue your subscription to the service.
 
 In the eventuality of engagement with Dublin.ie your personal data will be stored for an appropriate period after your query or engagement has been addressed. You have a right to request access to, rectification or erasure of your personal data.
 
 **How can I be sure my privacy is protected?**  
-Dublin City Council will treat your details with the utmost care and in accordance with the Irish Data Protection Act and any regulations made thereunder. We also comply with the Personal Data Security Breach Code of Practice. You have a right to make a complaint to the Office of the Data Protection Commissioner.
+Dublin City Council will treat your details with the utmost care and in accordance with the General Data Protection Regulation (GDPR) (EU) 2016/679 and any regulations made thereunder. You have a right to make a complaint to the Office of the Data Protection Commissioner via:
 
-Dublin City Council will always endeavour to protect your data from loss, misuse, unauthorised access or disclosure, alteration or destruction. For data controller and data protection officer contacts, please see the bottom of this page. 
+Data Protection Commissioner, Canal House, Station Road, Portarlington, R32 AP23, Co. Laois.  
+Telephone: 1890 25 22 31  
+Email: info@dataprotection.ie
+
+Dublin City Council will always endeavour to protect your data from loss, misuse, unauthorised access or disclosure, alteration or destruction. For data controller and data protection officer contacts, please see the bottom of this page.
 
 **Social media**  
 If you connect with Dublin.ie using social media channels such as Twitter and Facebook, we will receive data about you as per the Social Media sites terms and conditions. Please refer to the site for further information.
