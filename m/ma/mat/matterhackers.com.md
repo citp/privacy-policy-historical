@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the matterhackers.com privacy policy that was archived on 2018-10-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181020180954id_/https%3A//www.matterhackers.com/policies/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the matterhackers.com privacy policy that was archived on 2019-03-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190331211632id_/https%3A//www.matterhackers.com/policies/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | MatterHackers
 
