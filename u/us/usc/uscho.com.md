@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the uscho.com privacy policy that was archived on 2018-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180616234532id_/http%3A//www.uscho.com/faq/uscho-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the uscho.com privacy policy that was archived on 2019-03-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190331040012id_/https%3A//www.uscho.com/faq/uscho-privacy-policy) for the most accurate reproduction.*
 
 # USCHO privacy policy | USCHO.com :: Frequently Asked Questions
 
