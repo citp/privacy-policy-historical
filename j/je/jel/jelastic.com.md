@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jelastic.com privacy policy that was archived on 2018-09-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180919194233id_/https%3A//jelastic.com/policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jelastic.com privacy policy that was archived on 2019-03-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190331143303id_/https%3A//jelastic.com/policy) for the most accurate reproduction.*
 
 # Jelastic Privacy Policy
 
@@ -12,7 +12,7 @@ We may collect and process the following data about you:
 
   * information that you provide when you use our website [jelastic.com](https://web.archive.org/) (“Our Site”). This includes information provided at the time of registering for our services such as your IP address, phone number and email address. We may also ask you for information when you report a problem or share a suggestion with our services on Our Site; 
   * if you contact us by telephone or in writing, we may keep a record of that correspondence or communication;
-  * details of transactions you carry out through Our Site and of the fulfillment of your orders; and
+  * details of transactions you carry out through Our Site and of the fulfillment of your orders;
   * details of your visits to Our Site and the resources that you access, including the specific geographic position obtained. Information about the connection.
 
 
@@ -60,7 +60,13 @@ We may disclose your information to a third party where we believe that access, 
 
 
 
-You have the right to ask us not to process your personal data for marketing purposes. We will inform you (at the moment of collecting your data) if we intend to use your data for such purposes or if we intend to disclose your information to any third party for such purposes. Therefore, we will not be able to process your personal data for marketing purposes unless we expressly obtain your consent for it.
+We may share with third parties certain pieces of aggregated, non-personal information, such as the number of users who searched for a particular term, for example, or how many users clicked on a particular advertisement or used particular product or site functionality. Such information does not identify you individually. 
+
+We comply with valid legal process, such as search warrants, court orders, and subpoenas seeking personal information. We will notify you of any pending legal process unless we are prohibited from doing so by law. We may share information in order to investigate, prevent, or take action regarding illegal activities, suspected fraud, situations involving potential threats to the physical safety of any person, violations of our terms of use, or as otherwise required by law.
+
+### Your Rights
+
+You have the right to ask us not to process your personal data for marketing purposes. We usually inform you (at the moment of collecting your data) if we intend to use your data for such purposes or if we intend to disclose your information to any third party for such purposes. Therefore, we will not be able to process your personal data for marketing purposes unless we expressly obtain your consent for it.
 
 Our Site may, from time to time, contain links to and from the websites of our partner networks, advertisers and affiliates. If you follow a link to any of these websites, please note that these websites have their own privacy policies and that we do not accept any responsibility or liability for these policies. Please check these policies before you submit any personal data to these websites. 
 
@@ -72,17 +78,17 @@ You may object to the processing of your data. In this case, Jelastic will stop 
 
 In any of the above cases, Jelastic will communicate any rectification or deletion of personal data, as well as any limitation of treatment made, to each of the recipients to whom the personal data have been communicated, unless it supposes or requires a disproportionate effort. If requested by you, Jelastic will inform about said addressees.
 
-Likewise, the Interested Party shall have the right to receive the personal data incumbent upon him, that he has provided to Jelastic, in a structured format, of common use and mechanical reading, and to transmit them to another person in charge when the treatment is based on the consent or on a contract. , and is carried out by automated means. 
+Likewise, the Interested Party shall have the right to receive the personal data incumbent upon it, that it has provided to Jelastic, in a structured format, of common use and mechanical reading, and to transmit them to another person in charge when the treatment is based on the consent or on a contract, and is carried out by automated means. 
 
-The aforementioned rights of access, rectification, cancellation, opposition and other rights recognized by the current legislation on data protection may be exercised through the e-mail address: [gdpr@jelastic.com](mailto:funcionrgpd@mango.com)
+The aforementioned rights of access, rectification, cancellation, opposition and other rights recognized by the current legislation on data protection may be exercised through the e-mail address: [dataprotection@jelastic.com](mailto:dataprotection@jelastic.com)
 
-Likewise, you will have the right to file a claim with the Spanish Data Protection Agency.
+Likewise, you have the right to file a claim with the appropriate Data Protection Agency.
 
 You can exercise your rights contacting us using our contact details set out below.
 
 ### Retention of Your information & Security
 
-We take appropriate measures to ensure that any information collected from you is kept secure and kept for only so long as is necessary for the purpose for which such information is used. If any of your personal data change or if you have any questions about how we use data collected which relates to you, please use the functionality on Our Site to update your data. If you do this your data will be updated immediately. 
+We take appropriate measures to ensure that any information collected from you is kept secure and kept for only so long as is necessary for the purpose for which such information is used. If any of your personal data change or if you have any questions about how we use data collected which relates to you, please use the functionality on Our Site to update your data. If you do this your data will be updated without undue delay. 
 
 Alternatively, you may contact us with any changes to your personal data. We normally update your personal data within seven (7) working days of any new or updated personal data being provided to us, to ensure that the personal data we hold about you is as accurate and up to date as possible. 
 
@@ -90,16 +96,26 @@ No information transmitted on the internet, nor stored on servers, is 100% secur
 
 Nevertheless, Jelastic has adopted the technical and organizational measures necessary to ensure the security of personal data and avoid their alteration, loss, treatment or unauthorized access and has prepared a security document that includes the technical and organizational measures according to the current security regulations that will be mandatory for all those with access to personal data.
 
+Information can be retained for extended time periods for limited purposes. Sometimes business and legal requirements oblige us to retain certain information, for specific purposes, for an extended period of time. For example, when Jelastic processes a payment for you, or when you make a payment to Jelastic, we’ll retain this data for longer periods of time as required for tax or accounting purposes. Reasons we might retain some data for longer periods of time include: 
+
+  * Security, fraud & abuse prevention;
+  * Financial record-keeping;
+  * Complying with legal or regulatory requirements;
+  * Ensuring the continuity of our services;
+  * Direct communications with Jelastic.
+
+
+
 ### GDPR compliance term and measures
 
 Other conditions of this Privacy Policy apply if they do not contradict this section
 
-  * **1\. By entering into our Terms of Service (Terms) and Privacy Policy, you:**
+  * 1\. By entering into our Terms of Service (Terms) and Privacy Policy, you: 
     * 1.1 confirm that you are over than 16 years old;
     * 1.2 confirm that you gave consent to the processing of your personal data for all the following purposes: 
       * \- Providing our services to you;
       * \- Billing, accounting and financial matters;
-      * \- send informative and marketing communications for the purpose of selling Jelastic products and services to its current clients;
+      * \- Informative and marketing purposes (including using in Google Analytics, MaxMind, etc.);
       * \- Other operations related to the above;
     * 1.3 at the time when personal data are obtained, Jelastic provide you with all of the following information in the sense of the Article 13 of the GDPR: 
       * 1.3.1 the identity and the contact details of the controller; 
@@ -107,46 +123,40 @@ Other conditions of this Privacy Policy apply if they do not contradict this sec
       * 1.3.3 the purposes of the processing for which the personal data are intended as well as the legal basis for the processing;
       * 1.3.4 the recipients or categories of recipients of the personal data, if any;
       * 1.3.5 the criteria used to determine that period for which the personal data will be stored;
-      * 1.3.6 the existence of the **right** to request from the controller access to personal data, the **right** to rectification or erasure of personal data, the **right** to restrict of processing concerning the data subject or to object to processing, the **right** to data portability; 
-      * 1.3.7 the existence of the **right** to withdraw consent at any time, without affecting the lawfulness of processing based on consent before its withdrawal
-      * 1.3.8 the **right** to lodge a complaint with a supervisory authority;
+      * 1.3.6 the existence of the right to request from the controller access to personal data, the right to rectification or erasure of personal data, the right to restrict of processing concerning the data subject or to object to processing, the right to data portability; 
+      * 1.3.7 the existence of the right to withdraw consent at any time, without affecting the lawfulness of processing based on consent before its withdrawal
+      * 1.3.8 the right to lodge a complaint with a supervisory authority;
       * 1.3.9 the provision of personal data is a contractual requirement, and requirement necessary to enter into a contract, you are obliged to provide the personal data and informed about the possible consequences of failure to provide such data;
-    * 1.4 you as the data subject were informed of the possible risks of transfers abroad of EU for the data subject due to the absence of an adequacy decision and appropriate safeguards, and you **explicitly consented** with the possible transfers of your personal data abroad of EU (including but not exclusively to Ukraine), in the sense of the Article 49 (1) of GDPR; 
-  * **2\. Data Processing**
-    * 2.1 **Processor and Controller Responsibilities.** If the European Data Protection Legislation applies to the processing of your Personal Data, the parties acknowledge and agree that: 
-      * 2.1.1 Jelastic is a processor of that Personal Data under the European Data Protection Legislation;
+    * 1.4 informed about the possible risks of transfers abroad EU, and you explicitly consented with the possible transfers of your personal data abroad of EU, in the sense of the Article 49 (1) of GDPR; 
+  * 2\. Data Processing 
+    * 2.1 Processor and Controller Responsibilities. If the European Data Protection Legislation applies to the processing of your Personal Data, you acknowledge and agree that: 
+      * 2.1.1 Jelastic is a controller of that Personal Data under the European Data Protection Legislation;
       * 2.1.2 You are a data subject, as applicable, under European Data Protection Legislation; and
       * 2.1.3 Each party will comply with the obligations applicable to it under the European Data Protection Legislation.
-    * 2.2 Subject Matter: Jelastic’s provision of the Services to you according to Agreement. **Your personal data will be shared with the chosen hoster.**
-    * 2.3 Duration of the Processing: period from entering into Terms until deletion of all your Data in accordance with the Policy.
-    * 2.4 Nature and Purpose of the Processing: Jelastic will process your Personal Data for the purposes of providing the Services to you in accordance with the Terms. Also Jelastic can process personal data for marketing purposes (excluding direct marketing in the sense of the Article 21 (2) of the GDPR). **Also your Personal Data can be used in Google Analytics, MaxMind, etc.**
-    * 2.5 Categories of Data: Data relating to individuals provided to Jelastic via the Services. 
-  * **3\. Data Deletion**
-    * 3.1 **Deletion by Customer.** Jelastic will enable you to delete you Data during the Term in a manner consistent with the functionality of the Services. 
-    * 3.2 **Deletion on Termination.** On expiry of the Term, Customer instructs Jelastic to delete all Customer Data (including existing copies) from Jelastic’s systems in accordance with applicable law. 
-  * **4\. Data Security**
-    * 4.1 **Jelastic’s Security Measures.** Jelastic will implement and maintain technical and organizational measures to protect Customer Data against accidental or unlawful destruction, loss, alteration, unauthorized disclosure or access. Jelastic may update or modify the Security Measures from time to time provided that such updates and modifications do not result in the degradation of the overall security of the Services. 
-    * 4.2 **Security Compliance by Jelastic Staff.** Jelastic will take appropriate steps to ensure compliance with the Security Measures by its employees, contractors and Subprocessors to the extent applicable to their scope of performance, including ensuring that all persons authorized to process Customer Personal Data have committed themselves to confidentiality or are under an appropriate statutory obligation of confidentiality.
-    * 4.3 **Incident Notification.** If Jelastic becomes aware of a Data Incident, Jelastic will: (a) notify you of the Data Incident promptly and without undue delay after becoming aware of the Data Incident (not later than 72 hours after having become aware of a Data Incident); and (b) promptly take reasonable steps to minimize harm and secure your Data. 
-    * 4.4 **Delivery of Notification.** Notification(s) of any Data Incident(s) will be delivered to the Notification Email Address or, at Jelastic’s discretion, by direct communication (for example, by phone call or an in-person meeting). You are solely responsible for ensuring that the Notification Email Address is current and valid. 
-    * 4.5 **Your Security Responsibilities.** You agree that, without prejudice to Jelastic’s obligations under Section Jelastic’s Security Measures and Section Data Incidents: 
-      * 4.5.1 You are solely responsible for its use of the Services, including: 
+    * 2.2 Subject Matter: Jelastic’s provision of the Services to you according to Terms of Use. Your personal data can be shared with the chosen partner.
+    * 2.3 Duration of the Processing:period from entering into Terms of Use until deletion of all your Data in accordance with the Policy.
+    * 2.4 Categories of Data: Data relating to individuals provided to Jelastic via the Services.
+  * 3\. Data Deletion 
+    * 3.1 Deletion by Customer. Jelastic will enable you to delete you Data in a manner consistent with the functionality of the Services. 
+  * 4\. Data Security 
+    * 4.1 Jelastic’s Security Measures. Jelastic will implement and maintain technical and organizational measures to protect Customer Data against accidental or unlawful destruction, loss, alteration, unauthorized disclosure or access. Jelastic may update or modify the Security Measures from time to time provided that such updates and modifications do not result in the degradation of the overall security of the Services. 
+    * 4.2 Security Compliance by Jelastic Staff. Jelastic will take appropriate steps to ensure compliance with the Security Measures by its employees, contractors and processors to the extent applicable to their scope of performance, including ensuring that all persons authorized to process Customer Personal Data have committed themselves to confidentiality or are under an appropriate statutory obligation of confidentiality.
+    * 4.3 Incident Notification. If Jelastic becomes aware of a Data Incident, Jelastic will: (a) notify you of the Data Incident promptly and without undue delay after becoming aware of the Data Incident (not later than 72 hours after having become aware of a Data Incident); and (b) promptly take reasonable steps to minimize harm and secure your Data. 
+    * 4.4 Delivery of Notification. Notification(s) of any Data Incident(s) will be delivered to the Notification Email Address or, at Jelastic’s discretion, by direct communication (for example, by phone call or an in-person meeting). You are solely responsible for ensuring that the Notification Email Address is current and valid. 
+    * 4.5 Your Security Responsibilities. You agree that, without prejudice to Jelastic’s obligations under Section Jelastic’s Security Measures and Section Data Incidents: 
+      * 4.5.1 You are solely responsible for your use of the Services, including: 
         * 4.5.1.1 making appropriate use of the Services and the Additional Security Controls to ensure a level of security appropriate to the risk in respect of your Data;
         * 4.5.1.2 securing the account authentication credentials, systems and devices you use to access the Services;
         * 4.5.1.3 backing up your Data; and
-      * 4.5.2 Jelastic has no obligation to protect your Data that you elect to store or transfer outside of Jelastic’s and its Subprocessors’ systems (for example, offline or on-premises storage).
-  * **5\. Data Transfers**
-    * 5.1 **Data Storage and Processing Facilities** you may select where certain Data will be stored from the list [](https://jelastic.cloud/)https://jelastic.cloud/
-    * 5.2 **Transfers of Data Out of the EEA.** If the storage and/or processing of your Personal Data involves transfers of your Personal Data out of the EEA, and the European Data Protection Legislation applies to the transfers of such data, Jelastic will ensure that Jelastic as the data importer of the Transferred Personal Data enters into Contract Clauses with entity as the data exporter of such data, and that the transfers are made in accordance with such Contract Clauses. 
+      * 4.5.2 Jelastic has no obligation to protect your Data that you elect to store or transfer outside of Jelastic’s and its processors’ systems (for example, offline or on-premises storage).
+  * 5\. Data Transfers 
+    * 5.1 Data Storage and Processing Facilities you may select where certain Data will be stored from the list [](https://jelastic.cloud/)https://jelastic.cloud/
+    * 5.2 Transfers of Data Out of the EEA. If the storage and/or processing of your Personal Data involves transfers of your Personal Data out of the EEA, and the European Data Protection Legislation applies to the transfers of such data, Jelastic will ensure that Jelastic as the data importer of the Transferred Personal Data enters into Contract Clauses (Terms, etc) with entity as the data exporter of such data, and that the transfers are made in accordance with such Contract Clauses (Terms, etc). 
     * 5.3 International transfers of data may also take place in the location of the previous transfers. In any case, third parties with whom certain personal data are shared will have previously accredited the adoption of adequate technical and organizational measures for the correct protection of the same. The transfers will be executed within the framework of the technical and organizational guarantees implemented as binding corporate rules by Jelastic.
-  * **6\. Subprocessors**
-    * 6.1 **Consent to Subprocessor Engagement.** you specifically authorize the engagement of Jelastic’s Affiliates as Subprocessors. In addition, Customer generally authorizes the engagement of any other third parties as Subprocessors. 
-    * 6.2 **Information about Subprocessors:** Jelastic Ukraine (as may be updated by Jelastic from time to time in accordance with this Policy). 
-  * **7\. Cloud Data Protection Team;**
-    * 7.1. **Jelastic’s Cloud Data Protection Team.** Jelastic’s Cloud Data Protection Team can be contacted at gdpr@jelastic.com
-  * **8\. Liability**
-    * 8.1 **Liability Cap.** If Contract Clauses have been entered into as described in Section Transfers of Data Out of the EEA, the total combined liability of either party and its Affiliates towards the other party and its Affiliates under or in connection with the Agreement and such Contract Clauses combined will be limited to the Agreed Liability Cap for the relevant party, subject to Section Liability Cap Exclusions. 
-    * 8.2 **Liability Cap Exclusions.** Nothing in Section Liability Cap will affect the remaining terms of the Agreement relating to liability (including any specific exclusions from any limitation of liability).
+  * 6\. Processors (Subprocessors) 
+    * 6.1 Consent to Processors (Sub Processors) Engagement. you specifically authorize the engagement of Jelastic’s Affiliates and partners as Processors. In addition, Customer generally authorizes the engagement of any other third parties as Processors (Subprocessors). 
+  * 7\. Cloud Data Protection Team 
+    * 7.1. Jelastic’s Cloud Data Protection Team. Jelastic’s Cloud Data Protection Team can be contacted at dataprotection@jelastic.com
 
 
 
@@ -162,4 +172,4 @@ Full list of our contacts is [here](https://web.archive.org/contact/)
 
 For Manage Your Personal Data within Jelastic click [here.](https://web.archive.org/manage-personal-data/)
 
-**Copyright © 2008-2014[Jelastic](https://jelastic.com/). All rights reserved.**
+**Copyright © 2008-2018[Jelastic](https://jelastic.com/). All rights reserved.**
