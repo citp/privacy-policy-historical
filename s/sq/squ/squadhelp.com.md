@@ -1,136 +1,135 @@
-> *The following text is extracted and transformed from the squadhelp.com privacy policy that was archived on 2017-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170611064848id_/http%3A//www.squadhelp.com/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the squadhelp.com privacy policy that was archived on 2019-03-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190331174555id_/https%3A//www.squadhelp.com/privacy-policy) for the most accurate reproduction.*
 
 # Business Name Ideas| Naming & Logo Contests| Brand Name Ideas
 
-This Privacy Policy describes how we use and protect your personal information. By accepting the Privacy Policy and the Terms and Conditions of Service during registration, you expressly consent to our collection, storage, use and disclosure of your personal information as described in this Privacy Policy. This Privacy Policy is effective upon acceptance for new users and is otherwise effective on January 2, 2008. 
+Squadhelp Inc, an Illinois corporation (“ **Squadhelp** ”) is committed to protecting your privacy. We have prepared this Privacy Policy to describe to you our practices regarding the Personal Information (as defined below) we collect from users of our Site at www.squadhelp.com and Services (as defined in the Terms of Use). It also describes the choices available to you regarding the use of your Personal Information and how you can access and update this information. Capitalized terms not defined in this Privacy Policy have the meanings given in our Terms of Use located at [https://www.squadhelp.com/Terms&Conditions](https://www.squadhelp.com/Terms&Conditions).
 
-## Contents
+## 1\. User Consent.
 
-What Information Do We Collect?
+By submitting Personal Information through our Site or Services, you expressly consent to the collection, use and disclosure of your Personal Information in accordance with this Privacy Policy.
 
-How Secure Is The Information We Collect?
+## 2\. Visitors under the age of 14.
 
-How Do We Use Your Information?
+Our Service is not offered to persons under the age of 14. Thus, we do not intentionally gather Personal Information from visitors who are under the age of 14.
 
-How Can You Use Information From Squadhelp?
+## 3\. Types of Data We Collect
 
-To Whom May We Disclose Your Information?
+“ **Personal Information** ” means data that allows someone to identify or contact you, including, for example, your name, address, telephone number, e-mail address, as well as any other non-public information about you that is associated with or linked to any of the foregoing data. We collect Personal Information, only as described below.
 
-How Do We Protect Children's Privacy?
+### a. Information You Provide to Us.
 
-How Do We Use Cookies?
+  * We may collect Personal Information from you, such as your name, e-mail and mailing addresses, phone number, and password when you create an account with us (“ **Account** ”).
+  * If you are a Creative, we may require that you provide your tax information (e.g., social security number). We may also require you to provide a copy of government issued identification and a copy of your recent billing statement for address verification. 
+  * When you make a purchase, we (or our third party service provider) will collect all information necessary to complete the transaction, including your name, credit card information, debit card information, billing information and/or PayPal information.
+  * We retain information on your behalf, such as Creative Briefs, Contests, Entries, transactional history, messages and any other information that you store using your Account.
+  * If you provide us feedback or contact us via e-mail, we will collect your name and e-mail address, as well as any other content included in the e-mail, in order to send you a reply.
+  * When you participate in one of our surveys, we may collect additional profile information.
+  * When you post messages on our Site, the information contained in your posting will be stored on our servers and other users will be able to see it.
+  * We may also collect Personal Information at other points in our Site that state that Personal Information is being collected.
 
-How Can You Protect Your Account?
 
-How Can You Access, Review or Change Your Personal Information?
 
-Third Parties
+### b. Tracking Technologies / Cookies.
 
-General
+  * Squadhelp and our marketing partners, affiliates, or analytics or service providers use cookies or similar technologies in analyzing trends, administering the website, tracking users’ movements around the site and to gather demographic information about our user base as a whole. We may receive reports based on the use of these technologies by these companies on an individual as well as aggregated basis. We use cookies to gather information regarding the date and time of your visit and the information for which you searched and which you viewed. Users can control the use of cookies at the individual browser level. If you reject cookies, you may still use our site, but your ability to use some features or areas of our site may be limited.
+  * To make our Site and Services more useful to you, our servers (which may be hosted by a third party service provider) collect information from you automatically and store it in log files. The information may include your browser type, operating system, Internet Protocol (IP) address (a number that is automatically assigned to your computer when you use the Internet, which may vary from session to session), domain name, internet service provider (ISP), referring/exit pages, clickstream data and/or a date/time stamp for your visit. We may link this automatically-collected data to Personal Information for the purposes of security and to detect fraudulent activity.
+  * We partner with a third party ad network to manage our advertising on other sites. Our ad network partner uses cookies and Web beacons to collect information about your activities on this and other web sites to provide you targeted advertising based upon your interests. If you wish to not have this information used for the purpose of serving you targeted ads, you may opt-out by clicking [here](http://preferences.truste.com/) or if located in the European Union click [here](http://www.youronlinechoices.eu/). Please note this does not opt you out of being served advertising. You will continue to receive generic ads.
 
-### **What Information Do We Collect? **
 
-You can browse most of our site without telling us who you are. In order to start or participate in projects, or participate in the forums, you are required to register. If you choose to give us personal information, you consent to the transfer and storage of that information on our servers located in the United States. We may collect and store the following personal information: 
 
-  * email address, physical contact information, and financial information, such as credit card or bank account numbers (financial information is encrypted for your protection);
-  * transactional information based on your activities on Squadhelp.com (such as your projects or entries to a project); 
-  * community discussions, chats, dispute resolution, correspondence sent to us; and
-  * standard web log information, such as connection information, statistics on page views, traffic to and from our site, ad data, and IP address.
+### c. Google Analytics.
 
+We currently use Google Analytics as well as Google Analytics for Display Advertising. Google Analytics collects information and reports website trends without identifying individual visitors. Google Analytics uses its own cookie to track visitor interactions. Website owners can view a variety of reports about how visitors interact with their website so they can improve their website and how people find it. Please see the following links for more information about Google Analytics:<http://www.google.com/analytics/>, <http://www.google.com/privacy.html> and <http://www.google.com/analytics/tos.html>. You can also opt-out of Google Analytics for Display Advertising by going to [the Google Ads Preferences Manager](https://99designs.com/legal/www.google.com/ads/preferences/).
 
+## 4\. Use of Your Personal Information
 
-return to top
+### a. General Use.
 
-### **How Secure Is The Information We Collect?**
+In general, Personal Information you submit to us is used either to respond to requests that you make, or to aid us in serving you better. We use your Personal Information in the following ways: - to facilitate the creation of and secure your Account; - identify you as a user in our system; - improve our Site and Services; - for our internal research and development; - customize content to match your preferences; - prevent suspended users from re-registering; - provide the Services you request; - send you a welcome e-mail to verify ownership of the e-mail address provided when your Account was created; - send you administrative e-mail notifications, such as security or support and maintenance advisories; - respond to your inquiries and requests; - to make telephone calls to you, from time to time, as a part of secondary fraud protection or to solicit your feedback; and - to send newsletters, surveys, offers, and other promotional materials related to our Services and for other marketing purposes of Squadhelp.
 
-Your information is stored on our servers located in the United States. Squadhelp is committed to industry best practices concerning security to prevent the loss, misuse and alteration of the information in our possession. However, as you know, third parties may unlawfully intercept or access transmissions or private communications, and other users may abuse or misuse your personal information that they collect from the site. Therefore, although we work very hard to protect your privacy, we do not promise, and you should not expect, that your personal information or private communications will always remain private. 
+## 5\. Disclosure of Your Personal Information.
 
-Transactions on the marketplace are conducted in a Secure Socket Layer (SSL) session, which encrypts all transaction data for transmittal in a format that prevents theft of the information. While on a secure page, the lock at the bottom of a web browser becomes locked and this lets you know that you are in a secured session. Our servers are located in a secure, supervised environment. Our databases are accessible only by persons who have entered into and are bound by a confidentiality and nondisclosure agreement with us. 
+We disclose your Personal Information as described below and as described elsewhere in this Privacy Policy. We share your personal information with other companies such as our Trademark partners so that they can provide you with a validation report related to your contest. If you do not want us to share your personal information with these companies, contact us at service@squadhelp.com.
 
-return to top
+### a. Profile Information.
 
-### **How Do We Use Your Information?**
+The profile you create on our Site will be publically accessible unless otherwise indicated. You may delete your profile by requesting to delete your account by contacting us via phone or by email at service@squadhelp.com. The information collected during the registration process by Squadhelp may be used by Squadhelp to: contact members, customize content to match your preferences, display member status, and display the date of a member’s last visit. If you believe that an unauthorized profile has been created about you, please contact us at service@squadhelp.com to request removal.
 
-We will never resell or redistribute your information without your express permission. You agree that we may use your personal information to: 
+### b. Public Member Directory
 
-  * provide the services and customer support you request; 
-  * resolve disputes, collect fees, and troubleshoot problems; 
-  * prevent potentially prohibited or illegal activities, and enforce our Site Policies; 
-  * customize, measure and improve our services, content and advertising; 
-  * tell you about targeted marketing, service updates, and promotional offers based on your specific preferences; and 
-  * compare your information for accuracy, and verify it with third parties.
+We will list you in our publicly accessible member directory. If you wish to request removal of your information from our directory, you can contact us at service@squadhelp.com.
 
+### c. Third Party Service Providers.
 
+We may share your Personal Information with third party service providers to: provide you with the Services that we offer you through our Site; to conduct quality assurance testing; to facilitate creation of accounts; to provide technical support; and/or to provide other services to Squadhelp. These third party service providers are required not to use your Personal Information other than to provide the services requested by Squadhelp.
 
-Your nickname is publicly displayed on our site. Other people can see your projects, entries, feedback, ratings and associated comments, and so on. Notices sent to community members regarding suspicious activity and policy violations on Squadhelp.com may refer to nicknames. 
+### d. Affiliates and Acquisitions.
 
-Occasionally, we conduct user surveys to learn how we can better serve you. These surveys are optional and if you choose to respond, your responses will be kept anonymous. The demographic information we collect in the registration process and through surveys is used to help us improve our services. 
+We may share some or all of your Personal Information with our parent company, subsidiaries, joint ventures, or other companies under a common control (“ **Affiliates** ”), in which case we will require our Affiliates to honor this Privacy Policy. If another company acquires our company, business, or our assets, that company will possess the Personal Information collected by us and will assume the rights and obligations regarding your Personal Information as described in this Privacy Policy. You will be notified via email and/or a prominent notice on our Site of any change in ownership or uses of your Personal Information, as well as any choices you may have regarding your Personal Information.
 
-return to top
+### e. Frames
 
-### **How Can You Use Information from Squadhelp? **
+Some of our pages utilize framing techniques to serve content to from our partners while preserving the look and feel of our site. Please be aware that you are providing your personal information to these third parties and not to Squadhelp.com.
 
-Squadhelp allows users to share personal information to complete transactions and to enter into agreements with each other. We encourage you to respect the privacy of others. To help protect the privacy of all users, we allow only limited access to other users' contact information to facilitate transactions. When users are involved in a transaction (after a project winner is selected), they will have access to each other's name and contact information. You agree to use another userâ€™s information only for: 
+### f. Other Disclosures.
 
-  * Squadhelp transaction-related purposes that are not unsolicited commercial messages; 
+Regardless of any choices you make regarding your Personal Information (as described below), Squadhelp may disclose Personal Information if it believes in good faith that such disclosure is necessary (a) in connection with any legal investigation; (b) to comply with relevant laws or to respond to subpoenas or warrants served on Squadhelp, bankruptcy proceedings, or similar legal process; (c) to protect or defend the rights or property of Squadhelp or users of the Services; and/or (d) to investigate or assist in preventing any violation or potential violation of the law, this Privacy Policy, or the Terms of Use.
 
+## 6\. Third Party Websites.
 
-  * other purposes that the other user expressly permits. 
+### a. Third Party Sites Generally.
 
+When you click on a link to any other website or location, you will leave our Site and go to another site and another entity may collect Personal Information. We have no control over, do not review, and cannot be responsible for, these outside websites or their content. Please be aware that the terms of this Privacy Policy do not apply to these outside websites or content, or to any collection of data after you click on links to such outside websites.
 
+### b. Other Social Media Features.
 
-Neither we nor our users like spam. You may not add other Squadhelp users to your mailing list (email or physical mail), or share, rent or sell other usersâ€™ contact information, without their express consent. To report Squadhelp-related spam or spoof emails to Squadhelp, please forward the email to us: [service@squadhelp.com](mailto:service@squadhelp.com) . You may not use our communication tools to send spam or otherwise send content that would violate our Site Policies. If you send an email to an email address that is not registered in our community (via Tell a Friend or other tools), we do not permanently store that email or use that email address for any marketing purpose. We do not rent or sell these email addresses. 
+Our Site includes social media features (“ **Features** ”) such as the Facebook Like button, Tweet button and other widgets or interactive mini-programs that run on our Site. These Features may collect your IP address, which page you are visiting on our Site, and may set a cookie to enable the Feature to function properly. These Features are either hosted by a third party or hosted directly on our Site. Your interactions with these Features are governed by the terms of use and privacy policy of the company providing them (e.g., Facebook or Twitter).
 
-return to top
+## 7\. Your Choices Regarding Your Personal Information
 
-### **To Whom May We Disclose Your Information? **
+### a. Choices.
 
-We never sell or rent your personal information to third parties for their marketing purposes without your express consent. Upon registration, you can opt-in to receive our monthly e-newsletter. If you don't wish to receive marketing communications from us, simply indicate your preference once you sign-on in to your Account or by following the directions provided in an email. 
+We offer you choices regarding the collection, use, and sharing of your Personal Information.
+    
+    
+    1.  When you create an Account on Squadhelp.com, we may periodically send you free newsletters and e-mails that directly promote the use of our Site or Services. When you receive newsletters or promotional communications from us, you may indicate a preference to stop receiving further communications from us and you will have the opportunity to “opt-out” by following the unsubscribe instructions provided in the e-mail you receive, by adjusting your email preferences from within your Account setting page or by contacting us directly (please see contact information below).  2.  Despite your indicated e-mail preferences, we may send you service related communication (for instance, if our service is temporarily suspended for maintenance) or notices of any updates to our Terms of Use or Privacy Policy. You do not have an option to opt out of these emails, which are not promotional in nature. 
 
-We may disclose personal information if we are legally required to do so, to enforce our policies, to respond to claims that content you submitted violates the rights of others, or to protect the rights, property, or safety of third parties. We may also share your personal information with: 
+### b. Changes to Personal Information.
 
-  * Service providers who help us with our business operations (such as fraud investigations, affiliate and rewards programs); 
-  * Third parties to whom you expressly ask us to send your information; and
-  * Law enforcement or other governmental officials, in response to a verified request relating to a criminal investigation or alleged illegal activity (we will disclose information relevant to the investigation, such as name, city, state, zip code, telephone number, email address, nickname history, IP address, fraud complaints, as well as project and entry history).
+Upon request Squadhelp will provide you with information about whether we hold any of your personal information. You may change any of your Personal Information in your Account by editing your profile within your Account or contacting us via the Site. You may request deletion of your Personal Information by contacting us via the site or at service@squadhelp.com, but please note that we may be required to keep this information and not delete it (or to keep this information for a certain time, in which case we will comply with your deletion request only after we have fulfilled such requirements). When we delete any information, it will be deleted from the active database, but may remain in our archives. We will respond to your request to access within 30 days.
 
+We will retain your information for as long as your Account is active or as needed to provide you Services, for fraud prevention and similar purposes and as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements.
 
+## 8\. Security of Your Personal Information.
 
-In an effort to respect your privacy, we will not otherwise disclose your personal information to law enforcement, other government officials, or other third parties without a subpoena, court order or equivalent legal document, except when we believe in good faith that the disclosure of information is necessary to prevent imminent physical harm or financial loss or to report suspected illegal activity. 
+Squadhelp is committed to protecting the security of your Personal Information. We (and our third party service providers) use a variety of industry-standard security technologies and procedures to help protect your Personal Information from unauthorized access, use, or disclosure. When you enter sensitive information (such as a credit card number) on our order forms, we (or our third party service providers) encrypt transmission of that information using secure socket layer technology (SSL). We also require you to enter a password to access your Account information. Please do not disclose your Account password to unauthorized people. No method of transmission over the Internet, or method of electronic storage, is 100% secure, however. Therefore, while Squadhelp uses reasonable efforts to protect your Personal Information, Squadhelp cannot guarantee its absolute security. If you have any questions about security on our Site, you can contact us at service@Squadhelp.com.
 
-return to top
+## 9\. Blogs.
 
-### **How Do We Protect Childrenâ€™s Privacy?**
+Our Site offers publicly accessible blogs. Our blog is managed by a third party application that may require you to register to post a comment. We do not have access or control of the information posted to the blog. You will need to contact or login into the third party application if you want the personal information that was posted to the comments section removed. To learn how the third party application uses your information, please review their privacy policy.
 
-We do not intentionally or knowingly collect personal information from children under the age of 13. 
+## 10\. Testimonials.
 
-return to top
+We display personal testimonials of satisfied customers on our Site in addition to other endorsements. If you choose to provide a testimonial on the Site, we may post your testimonial along with your name. If you wish to update or delete your testimonial, you can contact us at service@Squadhelp.com.
 
-### **How Do We Use Cookies? **
+## 11\. Referral Program.
 
-Cookies are small text files that help us analyze our site, customize our services, content and advertising, and identify you and maintain your signed-in status, among other uses. Certain features on our site are available only through the use of cookies. You are always free to decline our cookies, although doing so may interfere with your use of some of our services. Should we allow advertisers on our site, those advertisers may use cookies. We have no control over third-party cookies. 
+If you choose to use our referral service to tell a friend about our Site, we will ask you for your friend’s name and email address. We will automatically send your friend a one-time email inviting him or her to visit the Site. Squadhelp stores this information for the sole purpose of sending this one-time email and tracking the success of our referral program. Your friend may contact us to request that we remove this information from our database.
 
-return to top
+## 12\. Contact Information.
 
-### **How Can You Protect Your Account? **
+Squadhelp welcomes your comments or questions regarding this Privacy Policy. Please contact us at the following:
 
-Your password is your key to your account. Use unique numbers, letters and special characters, and do not share your password with anyone. If you do share your password or your personal information with others, remember that you are responsible for all actions taken on your account. If you lose control of your password, you may lose substantial control over your personal information and may be subject to legally binding actions taken on your behalf. Therefore, if your password has been compromised for any reason, you should immediately notify us and change your password. 
+Squadhelp Inc
 
-return to top
+3333 Beverly Road, EC-155A
 
-### **How Can You Access, Review or Change Your Personal Information? **
+Hoffman Estates, IL
 
-You can see, review and change your personal information in your account. You must promptly update your personal information if it changes or is inaccurate. Once you make a public posting, you may not be able to change or remove it. If you request, we will close your account and remove your personal information from view as soon as reasonably possible. We do retain personal information from closed accounts to comply with law, prevent fraud, collect any fees owed, resolve disputes, troubleshoot problems, assist with any investigations, enforce our Site Policies, and take other actions permitted by law. 
+USA
 
-return to top
+or at service@squadhelp.com
 
-### **Third Parties**
+## 13\. Changes to This Privacy Policy.
 
-This document addresses only the use and disclosure of information we collect from you. Squadhelp does not control the privacy policies of third parties, and you are subject to the privacy policies of those third parties where applicable. We encourage you to ask questions before you disclose your personal information to others. 
-
-return to top
-
-### **General **
-
-We may amend this Privacy Policy at any time by posting the amended terms on this site. All amended terms automatically take effect 30 days after they are initially posted on the site and your continued use of Squadhelp.com after such time means that you have accepted the new terms. If your questions are not answered online, you may email us at: [service@squadhelp.com](mailto:service@squadhelp.com). 
-
-return to top
+This Privacy Policy is subject to occasional revision, and if we make any material changes in the way we use your Personal Information, we will notify you by sending you an e-mail to the last e-mail address you provided to us and/or by prominently posting notice of the changes on our Site. Any changes to this Privacy Policy will be effective upon the earlier of thirty (30) calendar days following our dispatch of an e-mail notice to you or thirty (30) calendar days following our posting of notice of the changes on our Site. These changes will be effective immediately for new users of our Service. Please note that at all times you are responsible for updating your Personal Information to provide us with your most current e-mail address. In the event that the last e-mail address that you have provided us is not valid, or for any reason is not capable of delivering to you the notice described above, our dispatch of the e-mail containing such notice will nonetheless constitute effective notice of the changes described in the notice. In any event, changes to this Privacy Policy may affect our use of Personal Information that you provided us prior to our notification to you of the changes. If you do not wish to permit changes in our use of your Personal Information, you must notify us prior to the effective date of the changes that you wish to deactivate your Account with us. Continued use of our Site or Service, following notice of such changes shall indicate your acknowledgement of such changes and agreement to be bound by the terms and conditions of such changes.
