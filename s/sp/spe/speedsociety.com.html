@@ -1,8 +1,8 @@
-<!--The following is the downloaded HTML source of the speedsociety.com privacy policy that was archived on 2017-11-26.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20171126032151id_/http%3A//speedsociety.com/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the speedsociety.com privacy policy that was archived on 2019-03-31.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20190331123538id_/https%3A//speedsociety.com/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en-US"><head>
-<meta http-equiv="x-ua-compatible" content="ie=edge"><script src="https://js-agent.newrelic.com/nr-1059.min.js"></script><script async="" src="https://connect.facebook.net/en_US/fbevents.js"></script><script id="facebook-jssdk" src="//connect.facebook.net/en_US/sdk.js"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script type="text/javascript">(window.NREUM||(NREUM={})).loader_config={xpid:"UgAHWF9VGwQHUFdUAQE="};window.NREUM||(NREUM={}),__nr_require=function(t,n,e){function r(e){if(!n[e]){var o=n[e]={exports:{}};t[e][0].call(o.exports,function(n){var o=t[e][1][n];return r(o||n)},o,o.exports)}return n[e].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<e.length;o++)r(e[o]);return r}({1:[function(t,n,e){function r(t){try{s.console&&console.log(t)}catch(n){}}var o,i=t("ee"),a=t(15),s={};try{o=localStorage.getItem("__nr_flags").split(","),console&&"function"==typeof console.log&&(s.console=!0,o.indexOf("dev")!==-1&&(s.dev=!0),o.indexOf("nr_dev")!==-1&&(s.nrDev=!0))}catch(c){}s.nrDev&&i.on("internal-error",function(t){r(t.stack)}),s.dev&&i.on("fn-err",function(t,n,e){r(e.stack)}),s.dev&&(r("NR AGENT IN DEVELOPMENT MODE"),r("flags: "+a(s,function(t,n){return t}).join(", ")))},{}],2:[function(t,n,e){function r(t,n,e,r,o){try{d?d-=1:i("err",[o||new UncaughtException(t,n,e)])}catch(s){try{i("ierr",[s,c.now(),!0])}catch(u){}}return"function"==typeof f&&f.apply(this,a(arguments))}function UncaughtException(t,n,e){this.message=t||"Uncaught error with no additional information",this.sourceURL=n,this.line=e}function o(t){i("err",[t,c.now()])}var i=t("handle"),a=t(16),s=t("ee"),c=t("loader"),f=window.onerror,u=!1,d=0;c.features.err=!0,t(1),window.onerror=r;try{throw new Error}catch(l){"stack"in l&&(t(8),t(7),"addEventListener"in window&&t(5),c.xhrWrappable&&t(9),u=!0)}s.on("fn-start",function(t,n,e){u&&(d+=1)}),s.on("fn-err",function(t,n,e){u&&(this.thrown=!0,o(e))}),s.on("fn-end",function(){u&&!this.thrown&&d>0&&(d-=1)}),s.on("internal-error",function(t){i("ierr",[t,c.now(),!0])})},{}],3:[function(t,n,e){t("loader").features.ins=!0},{}],4:[function(t,n,e){function r(t){}if(window.performance&&window.performance.timing&&window.performance.getEntriesByType){var o=t("ee"),i=t("handle"),a=t(8),s=t(7),c="learResourceTimings",f="addEventListener",u="resourcetimingbufferfull",d="bstResource",l="resource",p="-start",h="-end",m="fn"+p,w="fn"+h,v="bstTimer",y="pushState",g=t("loader");g.features.stn=!0,t(6);var b=NREUM.o.EV;o.on(m,function(t,n){var e=t[0];e instanceof b&&(this.bstStart=g.now())}),o.on(w,function(t,n){var e=t[0];e instanceof b&&i("bst",[e,n,this.bstStart,g.now()])}),a.on(m,function(t,n,e){this.bstStart=g.now(),this.bstType=e}),a.on(w,function(t,n){i(v,[n,this.bstStart,g.now(),this.bstType])}),s.on(m,function(){this.bstStart=g.now()}),s.on(w,function(t,n){i(v,[n,this.bstStart,g.now(),"requestAnimationFrame"])}),o.on(y+p,function(t){this.time=g.now(),this.startPath=location.pathname+location.hash}),o.on(y+h,function(t){i("bstHist",[location.pathname+location.hash,this.startPath,this.time])}),f in window.performance&&(window.performance["c"+c]?window.performance[f](u,function(t){i(d,[window.performance.getEntriesByType(l)]),window.performance["c"+c]()},!1):window.performance[f]("webkit"+u,function(t){i(d,[window.performance.getEntriesByType(l)]),window.performance["webkitC"+c]()},!1)),document[f]("scroll",r,{passive:!0}),document[f]("keypress",r,!1),document[f]("click",r,!1)}},{}],5:[function(t,n,e){function r(t){for(var n=t;n&&!n.hasOwnProperty(u);)n=Object.getPrototypeOf(n);n&&o(n)}function o(t){s.inPlace(t,[u,d],"-",i)}function i(t,n){return t[1]}var a=t("ee").get("events"),s=t(18)(a,!0),c=t("gos"),f=XMLHttpRequest,u="addEventListener",d="removeEventListener";n.exports=a,"getPrototypeOf"in Object?(r(document),r(window),r(f.prototype)):f.prototype.hasOwnProperty(u)&&(o(window),o(f.prototype)),a.on(u+"-start",function(t,n){var e=t[1],r=c(e,"nr@wrapped",function(){function t(){if("function"==typeof e.handleEvent)return e.handleEvent.apply(e,arguments)}var n={object:t,"function":e}[typeof e];return n?s(n,"fn-",null,n.name||"anonymous"):e});this.wrapped=t[1]=r}),a.on(d+"-start",function(t){t[1]=this.wrapped||t[1]})},{}],6:[function(t,n,e){var r=t("ee").get("history"),o=t(18)(r);n.exports=r,o.inPlace(window.history,["pushState","replaceState"],"-")},{}],7:[function(t,n,e){var r=t("ee").get("raf"),o=t(18)(r),i="equestAnimationFrame";n.exports=r,o.inPlace(window,["r"+i,"mozR"+i,"webkitR"+i,"msR"+i],"raf-"),r.on("raf-start",function(t){t[0]=o(t[0],"fn-")})},{}],8:[function(t,n,e){function r(t,n,e){t[0]=a(t[0],"fn-",null,e)}function o(t,n,e){this.method=e,this.timerDuration=isNaN(t[1])?0:+t[1],t[0]=a(t[0],"fn-",this,e)}var i=t("ee").get("timer"),a=t(18)(i),s="setTimeout",c="setInterval",f="clearTimeout",u="-start",d="-";n.exports=i,a.inPlace(window,[s,"setImmediate"],s+d),a.inPlace(window,[c],c+d),a.inPlace(window,[f,"clearImmediate"],f+d),i.on(c+u,r),i.on(s+u,o)},{}],9:[function(t,n,e){function r(t,n){d.inPlace(n,["onreadystatechange"],"fn-",s)}function o(){var t=this,n=u.context(t);t.readyState>3&&!n.resolved&&(n.resolved=!0,u.emit("xhr-resolved",[],t)),d.inPlace(t,y,"fn-",s)}function i(t){g.push(t),h&&(x?x.then(a):w?w(a):(E=-E,O.data=E))}function a(){for(var t=0;t<g.length;t++)r([],g[t]);g.length&&(g=[])}function s(t,n){return n}function c(t,n){for(var e in t)n[e]=t[e];return n}t(5);var f=t("ee"),u=f.get("xhr"),d=t(18)(u),l=NREUM.o,p=l.XHR,h=l.MO,m=l.PR,w=l.SI,v="readystatechange",y=["onload","onerror","onabort","onloadstart","onloadend","onprogress","ontimeout"],g=[];n.exports=u;var b=window.XMLHttpRequest=function(t){var n=new p(t);try{u.emit("new-xhr",[n],n),n.addEventListener(v,o,!1)}catch(e){try{u.emit("internal-error",[e])}catch(r){}}return n};if(c(p,b),b.prototype=p.prototype,d.inPlace(b.prototype,["open","send"],"-xhr-",s),u.on("send-xhr-start",function(t,n){r(t,n),i(n)}),u.on("open-xhr-start",r),h){var x=m&&m.resolve();if(!w&&!m){var E=1,O=document.createTextNode(E);new h(a).observe(O,{characterData:!0})}}else f.on("fn-end",function(t){t[0]&&t[0].type===v||a()})},{}],10:[function(t,n,e){function r(t){var n=this.params,e=this.metrics;if(!this.ended){this.ended=!0;for(var r=0;r<d;r++)t.removeEventListener(u[r],this.listener,!1);if(!n.aborted){if(e.duration=a.now()-this.startTime,4===t.readyState){n.status=t.status;var i=o(t,this.lastSize);if(i&&(e.rxSize=i),this.sameOrigin){var c=t.getResponseHeader("X-NewRelic-App-Data");c&&(n.cat=c.split(", ").pop())}}else n.status=0;e.cbTime=this.cbTime,f.emit("xhr-done",[t],t),s("xhr",[n,e,this.startTime])}}}function o(t,n){var e=t.responseType;if("json"===e&&null!==n)return n;var r="arraybuffer"===e||"blob"===e||"json"===e?t.response:t.responseText;return h(r)}function i(t,n){var e=c(n),r=t.params;r.host=e.hostname+":"+e.port,r.pathname=e.pathname,t.sameOrigin=e.sameOrigin}var a=t("loader");if(a.xhrWrappable){var s=t("handle"),c=t(11),f=t("ee"),u=["load","error","abort","timeout"],d=u.length,l=t("id"),p=t(14),h=t(13),m=window.XMLHttpRequest;a.features.xhr=!0,t(9),f.on("new-xhr",function(t){var n=this;n.totalCbs=0,n.called=0,n.cbTime=0,n.end=r,n.ended=!1,n.xhrGuids={},n.lastSize=null,p&&(p>34||p<10)||window.opera||t.addEventListener("progress",function(t){n.lastSize=t.loaded},!1)}),f.on("open-xhr-start",function(t){this.params={method:t[0]},i(this,t[1]),this.metrics={}}),f.on("open-xhr-end",function(t,n){"loader_config"in NREUM&&"xpid"in NREUM.loader_config&&this.sameOrigin&&n.setRequestHeader("X-NewRelic-ID",NREUM.loader_config.xpid)}),f.on("send-xhr-start",function(t,n){var e=this.metrics,r=t[0],o=this;if(e&&r){var i=h(r);i&&(e.txSize=i)}this.startTime=a.now(),this.listener=function(t){try{"abort"===t.type&&(o.params.aborted=!0),("load"!==t.type||o.called===o.totalCbs&&(o.onloadCalled||"function"!=typeof n.onload))&&o.end(n)}catch(e){try{f.emit("internal-error",[e])}catch(r){}}};for(var s=0;s<d;s++)n.addEventListener(u[s],this.listener,!1)}),f.on("xhr-cb-time",function(t,n,e){this.cbTime+=t,n?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&&"function"==typeof e.onload||this.end(e)}),f.on("xhr-load-added",function(t,n){var e=""+l(t)+!!n;this.xhrGuids&&!this.xhrGuids[e]&&(this.xhrGuids[e]=!0,this.totalCbs+=1)}),f.on("xhr-load-removed",function(t,n){var e=""+l(t)+!!n;this.xhrGuids&&this.xhrGuids[e]&&(delete this.xhrGuids[e],this.totalCbs-=1)}),f.on("addEventListener-end",function(t,n){n instanceof m&&"load"===t[0]&&f.emit("xhr-load-added",[t[1],t[2]],n)}),f.on("removeEventListener-end",function(t,n){n instanceof m&&"load"===t[0]&&f.emit("xhr-load-removed",[t[1],t[2]],n)}),f.on("fn-start",function(t,n,e){n instanceof m&&("onload"===e&&(this.onload=!0),("load"===(t[0]&&t[0].type)||this.onload)&&(this.xhrCbStart=a.now()))}),f.on("fn-end",function(t,n){this.xhrCbStart&&f.emit("xhr-cb-time",[a.now()-this.xhrCbStart,this.onload,n],n)})}},{}],11:[function(t,n,e){n.exports=function(t){var n=document.createElement("a"),e=window.location,r={};n.href=t,r.port=n.port;var o=n.href.split("://");!r.port&&o[1]&&(r.port=o[1].split("/")[0].split("@").pop().split(":")[1]),r.port&&"0"!==r.port||(r.port="https"===o[0]?"443":"80"),r.hostname=n.hostname||e.hostname,r.pathname=n.pathname,r.protocol=o[0],"/"!==r.pathname.charAt(0)&&(r.pathname="/"+r.pathname);var i=!n.protocol||":"===n.protocol||n.protocol===e.protocol,a=n.hostname===document.domain&&n.port===e.port;return r.sameOrigin=i&&(!n.hostname||a),r}},{}],12:[function(t,n,e){function r(){}function o(t,n,e){return function(){return i(t,[f.now()].concat(s(arguments)),n?null:this,e),n?void 0:this}}var i=t("handle"),a=t(15),s=t(16),c=t("ee").get("tracer"),f=t("loader"),u=NREUM;"undefined"==typeof window.newrelic&&(newrelic=u);var d=["setPageViewName","setCustomAttribute","setErrorHandler","finished","addToTrace","inlineHit","addRelease"],l="api-",p=l+"ixn-";a(d,function(t,n){u[n]=o(l+n,!0,"api")}),u.addPageAction=o(l+"addPageAction",!0),u.setCurrentRouteName=o(l+"routeName",!0),n.exports=newrelic,u.interaction=function(){return(new r).get()};var h=r.prototype={createTracer:function(t,n){var e={},r=this,o="function"==typeof n;return i(p+"tracer",[f.now(),t,e],r),function(){if(c.emit((o?"":"no-")+"fn-start",[f.now(),r,o],e),o)try{return n.apply(this,arguments)}finally{c.emit("fn-end",[f.now()],e)}}}};a("setName,setAttribute,save,ignore,onEnd,getContext,end,get".split(","),function(t,n){h[n]=o(p+n)}),newrelic.noticeError=function(t){"string"==typeof t&&(t=new Error(t)),i("err",[t,f.now()])}},{}],13:[function(t,n,e){n.exports=function(t){if("string"==typeof t&&t.length)return t.length;if("object"==typeof t){if("undefined"!=typeof ArrayBuffer&&t instanceof ArrayBuffer&&t.byteLength)return t.byteLength;if("undefined"!=typeof Blob&&t instanceof Blob&&t.size)return t.size;if(!("undefined"!=typeof FormData&&t instanceof FormData))try{return JSON.stringify(t).length}catch(n){return}}}},{}],14:[function(t,n,e){var r=0,o=navigator.userAgent.match(/Firefox[\/\s](\d+\.\d+)/);o&&(r=+o[1]),n.exports=r},{}],15:[function(t,n,e){function r(t,n){var e=[],r="",i=0;for(r in t)o.call(t,r)&&(e[i]=n(r,t[r]),i+=1);return e}var o=Object.prototype.hasOwnProperty;n.exports=r},{}],16:[function(t,n,e){function r(t,n,e){n||(n=0),"undefined"==typeof e&&(e=t?t.length:0);for(var r=-1,o=e-n||0,i=Array(o<0?0:o);++r<o;)i[r]=t[n+r];return i}n.exports=r},{}],17:[function(t,n,e){n.exports={exists:"undefined"!=typeof window.performance&&window.performance.timing&&"undefined"!=typeof window.performance.timing.navigationStart}},{}],18:[function(t,n,e){function r(t){return!(t&&t instanceof Function&&t.apply&&!t[a])}var o=t("ee"),i=t(16),a="nr@original",s=Object.prototype.hasOwnProperty,c=!1;n.exports=function(t,n){function e(t,n,e,o){function nrWrapper(){var r,a,s,c;try{a=this,r=i(arguments),s="function"==typeof e?e(r,a):e||{}}catch(f){l([f,"",[r,a,o],s])}u(n+"start",[r,a,o],s);try{return c=t.apply(a,r)}catch(d){throw u(n+"err",[r,a,d],s),d}finally{u(n+"end",[r,a,c],s)}}return r(t)?t:(n||(n=""),nrWrapper[a]=t,d(t,nrWrapper),nrWrapper)}function f(t,n,o,i){o||(o="");var a,s,c,f="-"===o.charAt(0);for(c=0;c<n.length;c++)s=n[c],a=t[s],r(a)||(t[s]=e(a,f?s+o:o,i,s))}function u(e,r,o){if(!c||n){var i=c;c=!0;try{t.emit(e,r,o,n)}catch(a){l([a,e,r,o])}c=i}}function d(t,n){if(Object.defineProperty&&Object.keys)try{var e=Object.keys(t);return e.forEach(function(e){Object.defineProperty(n,e,{get:function(){return t[e]},set:function(n){return t[e]=n,n}})}),n}catch(r){l([r])}for(var o in t)s.call(t,o)&&(n[o]=t[o]);return n}function l(n){try{t.emit("internal-error",n)}catch(e){}}return t||(t=o),e.inPlace=f,e.flag=a,e}},{}],ee:[function(t,n,e){function r(){}function o(t){function n(t){return t&&t instanceof r?t:t?c(t,s,i):i()}function e(e,r,o,i){if(!l.aborted||i){t&&t(e,r,o);for(var a=n(o),s=h(e),c=s.length,f=0;f<c;f++)s[f].apply(a,r);var d=u[y[e]];return d&&d.push([g,e,r,a]),a}}function p(t,n){v[t]=h(t).concat(n)}function h(t){return v[t]||[]}function m(t){return d[t]=d[t]||o(e)}function w(t,n){f(t,function(t,e){n=n||"feature",y[e]=n,n in u||(u[n]=[])})}var v={},y={},g={on:p,emit:e,get:m,listeners:h,context:n,buffer:w,abort:a,aborted:!1};return g}function i(){return new r}function a(){(u.api||u.feature)&&(l.aborted=!0,u=l.backlog={})}var s="nr@context",c=t("gos"),f=t(15),u={},d={},l=n.exports=o();l.backlog=u},{}],gos:[function(t,n,e){function r(t,n,e){if(o.call(t,n))return t[n];var r=e();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(t,n,{value:r,writable:!0,enumerable:!1}),r}catch(i){}return t[n]=r,r}var o=Object.prototype.hasOwnProperty;n.exports=r},{}],handle:[function(t,n,e){function r(t,n,e,r){o.buffer([t],r),o.emit(t,n,e)}var o=t("ee").get("handle");n.exports=r,r.ee=o},{}],id:[function(t,n,e){function r(t){var n=typeof t;return!t||"object"!==n&&"function"!==n?-1:t===window?0:a(t,i,function(){return o++})}var o=1,i="nr@id",a=t("gos");n.exports=r},{}],loader:[function(t,n,e){function r(){if(!x++){var t=b.info=NREUM.info,n=l.getElementsByTagName("script")[0];if(setTimeout(u.abort,3e4),!(t&&t.licenseKey&&t.applicationID&&n))return u.abort();f(y,function(n,e){t[n]||(t[n]=e)}),c("mark",["onload",a()+b.offset],null,"api");var e=l.createElement("script");e.src="https://"+t.agent,n.parentNode.insertBefore(e,n)}}function o(){"complete"===l.readyState&&i()}function i(){c("mark",["domContent",a()+b.offset],null,"api")}function a(){return E.exists&&performance.now?Math.round(performance.now()):(s=Math.max((new Date).getTime(),s))-b.offset}var s=(new Date).getTime(),c=t("handle"),f=t(15),u=t("ee"),d=window,l=d.document,p="addEventListener",h="attachEvent",m=d.XMLHttpRequest,w=m&&m.prototype;NREUM.o={ST:setTimeout,SI:d.setImmediate,CT:clearTimeout,XHR:m,REQ:d.Request,EV:d.Event,PR:d.Promise,MO:d.MutationObserver};var v=""+location,y={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-1059.min.js"},g=m&&w&&w[p]&&!/CriOS/.test(navigator.userAgent),b=n.exports={offset:s,now:a,origin:v,features:{},xhrWrappable:g};t(12),l[p]?(l[p]("DOMContentLoaded",i,!1),d[p]("load",r,!1)):(l[h]("onreadystatechange",o),d[h]("onload",r)),c("mark",["firstbyte",s],null,"api");var x=0,E=t(17)},{}]},{},["loader",2,10,4,3]);</script>
+<meta http-equiv="x-ua-compatible" content="ie=edge"><script src="https://js-agent.newrelic.com/nr-1118.min.js"></script><script async="" src="https://connect.facebook.net/en_US/fbevents.js"></script><script id="facebook-jssdk" src="//connect.facebook.net/en_US/sdk.js"></script><script type="text/javascript">window.NREUM||(NREUM={}),__nr_require=function(e,n,t){function r(t){if(!n[t]){var o=n[t]={exports:{}};e[t][0].call(o.exports,function(n){var o=e[t][1][n];return r(o||n)},o,o.exports)}return n[t].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<t.length;o++)r(t[o]);return r}({1:[function(e,n,t){function r(){}function o(e,n,t){return function(){return i(e,[c.now()].concat(u(arguments)),n?null:this,t),n?void 0:this}}var i=e("handle"),a=e(3),u=e(4),f=e("ee").get("tracer"),c=e("loader"),s=NREUM;"undefined"==typeof window.newrelic&&(newrelic=s);var p=["setPageViewName","setCustomAttribute","setErrorHandler","finished","addToTrace","inlineHit","addRelease"],d="api-",l=d+"ixn-";a(p,function(e,n){s[n]=o(d+n,!0,"api")}),s.addPageAction=o(d+"addPageAction",!0),s.setCurrentRouteName=o(d+"routeName",!0),n.exports=newrelic,s.interaction=function(){return(new r).get()};var m=r.prototype={createTracer:function(e,n){var t={},r=this,o="function"==typeof n;return i(l+"tracer",[c.now(),e,t],r),function(){if(f.emit((o?"":"no-")+"fn-start",[c.now(),r,o],t),o)try{return n.apply(this,arguments)}catch(e){throw f.emit("fn-err",[arguments,this,e],t),e}finally{f.emit("fn-end",[c.now()],t)}}}};a("actionText,setName,setAttribute,save,ignore,onEnd,getContext,end,get".split(","),function(e,n){m[n]=o(l+n)}),newrelic.noticeError=function(e,n){"string"==typeof e&&(e=new Error(e)),i("err",[e,c.now(),!1,n])}},{}],2:[function(e,n,t){function r(e,n){if(!o)return!1;if(e!==o)return!1;if(!n)return!0;if(!i)return!1;for(var t=i.split("."),r=n.split("."),a=0;a<r.length;a++)if(r[a]!==t[a])return!1;return!0}var o=null,i=null,a=/Version\/(\S+)\s+Safari/;if(navigator.userAgent){var u=navigator.userAgent,f=u.match(a);f&&u.indexOf("Chrome")===-1&&u.indexOf("Chromium")===-1&&(o="Safari",i=f[1])}n.exports={agent:o,version:i,match:r}},{}],3:[function(e,n,t){function r(e,n){var t=[],r="",i=0;for(r in e)o.call(e,r)&&(t[i]=n(r,e[r]),i+=1);return t}var o=Object.prototype.hasOwnProperty;n.exports=r},{}],4:[function(e,n,t){function r(e,n,t){n||(n=0),"undefined"==typeof t&&(t=e?e.length:0);for(var r=-1,o=t-n||0,i=Array(o<0?0:o);++r<o;)i[r]=e[n+r];return i}n.exports=r},{}],5:[function(e,n,t){n.exports={exists:"undefined"!=typeof window.performance&&window.performance.timing&&"undefined"!=typeof window.performance.timing.navigationStart}},{}],ee:[function(e,n,t){function r(){}function o(e){function n(e){return e&&e instanceof r?e:e?f(e,u,i):i()}function t(t,r,o,i){if(!d.aborted||i){e&&e(t,r,o);for(var a=n(o),u=v(t),f=u.length,c=0;c<f;c++)u[c].apply(a,r);var p=s[y[t]];return p&&p.push([b,t,r,a]),a}}function l(e,n){h[e]=v(e).concat(n)}function m(e,n){var t=h[e];if(t)for(var r=0;r<t.length;r++)t[r]===n&&t.splice(r,1)}function v(e){return h[e]||[]}function g(e){return p[e]=p[e]||o(t)}function w(e,n){c(e,function(e,t){n=n||"feature",y[t]=n,n in s||(s[n]=[])})}var h={},y={},b={on:l,addEventListener:l,removeEventListener:m,emit:t,get:g,listeners:v,context:n,buffer:w,abort:a,aborted:!1};return b}function i(){return new r}function a(){(s.api||s.feature)&&(d.aborted=!0,s=d.backlog={})}var u="nr@context",f=e("gos"),c=e(3),s={},p={},d=n.exports=o();d.backlog=s},{}],gos:[function(e,n,t){function r(e,n,t){if(o.call(e,n))return e[n];var r=t();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(e,n,{value:r,writable:!0,enumerable:!1}),r}catch(i){}return e[n]=r,r}var o=Object.prototype.hasOwnProperty;n.exports=r},{}],handle:[function(e,n,t){function r(e,n,t,r){o.buffer([e],r),o.emit(e,n,t)}var o=e("ee").get("handle");n.exports=r,r.ee=o},{}],id:[function(e,n,t){function r(e){var n=typeof e;return!e||"object"!==n&&"function"!==n?-1:e===window?0:a(e,i,function(){return o++})}var o=1,i="nr@id",a=e("gos");n.exports=r},{}],loader:[function(e,n,t){function r(){if(!E++){var e=x.info=NREUM.info,n=l.getElementsByTagName("script")[0];if(setTimeout(s.abort,3e4),!(e&&e.licenseKey&&e.applicationID&&n))return s.abort();c(y,function(n,t){e[n]||(e[n]=t)}),f("mark",["onload",a()+x.offset],null,"api");var t=l.createElement("script");t.src="https://"+e.agent,n.parentNode.insertBefore(t,n)}}function o(){"complete"===l.readyState&&i()}function i(){f("mark",["domContent",a()+x.offset],null,"api")}function a(){return O.exists&&performance.now?Math.round(performance.now()):(u=Math.max((new Date).getTime(),u))-x.offset}var u=(new Date).getTime(),f=e("handle"),c=e(3),s=e("ee"),p=e(2),d=window,l=d.document,m="addEventListener",v="attachEvent",g=d.XMLHttpRequest,w=g&&g.prototype;NREUM.o={ST:setTimeout,SI:d.setImmediate,CT:clearTimeout,XHR:g,REQ:d.Request,EV:d.Event,PR:d.Promise,MO:d.MutationObserver};var h=""+location,y={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-1118.min.js"},b=g&&w&&w[m]&&!/CriOS/.test(navigator.userAgent),x=n.exports={offset:u,now:a,origin:h,features:{},xhrWrappable:b,userAgent:p};e(1),l[m]?(l[m]("DOMContentLoaded",i,!1),d[m]("load",r,!1)):(l[v]("onreadystatechange",o),d[v]("onload",r)),f("mark",["firstbyte",u],null,"api");var E=0,O=e(5)},{}]},{},["loader"]);</script>
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <link rel="dns-prefetch" href="//pagead2.googlesyndication.com">
 <link rel="dns-prefetch" href="//www.googletagservices.com">
@@ -12,12 +12,13 @@
 <link rel="dns-prefetch" href="//tpc.googlesyndication.com">
 <link rel="dns-prefetch" href="//sb.scorecardresearch.com">
 <link rel="dns-prefetch" href="//tpc.googlesyndication.com">
+<link rel="dns-prefetch" href="//publishers.revcontent.com">
 <link rel="dns-prefetch" href="//a.tribalfusion.com">
 <link rel="dns-prefetch" href="//ajax.cloudflare.com">
 <link rel="dns-prefetch" href="//www.google-analytics.com">
 <link rel="dns-prefetch" href="//ajax.googleapis.com">
 <link rel="dns-prefetch" href="//youtube.com">
-<title>Privacy Policy – Speed Society</title>
+<title>Privacy Policy - Speed Society</title>
 <meta name="description" content="Protecting your private information is our priority. This Statement of Privacy applies to the www.speedsociety.com and Speed Society LLC and governs data c">
 <meta name="Googlebot-News" content="noindex, nofollow">
 
@@ -26,65 +27,72 @@
 <meta property="fb:admins" content="100000257437698">
 <meta property="og:site_name" content="Speed Society">
 <meta property="og:title" content="Privacy Policy">
-<meta property="og:url" content="http://speedsociety.com/privacy-policy/">
+<meta property="og:url" content="https://speedsociety.com/privacy-policy/">
 <meta property="og:type" content="article">
 <meta property="og:description" content="Protecting your private information is our priority. This Statement of Privacy applies to the www.speedsociety.com and Speed Society LLC and governs data collection and usage. For the purposes of this Privacy Policy, unless otherwise noted, all references to Speed Society LLC include www.speedsociety.com and Speed Society. The Speed Society website is a News and...">
-<meta property="og:image" content="http://speedsociety.com/wp-content/uploads/2015/12/privacy-policy-header.jpg">
+<meta property="og:image" content="https://speedsociety.com/wp-content/uploads/2015/12/privacy-policy-header.jpg">
 
+
+
+<link rel="canonical" href="https://speedsociety.com/privacy-policy/">
+<script type="application/ld+json">{"@context":"https://schema.org","@type":"Organization","url":"https://speedsociety.com/","sameAs":["https://www.facebook.com/SpeedSociety/","https://www.instagram.com/speedsociety/","https://www.youtube.com/channel/UCUZ9ZBU5AoWKcYU3IOP2kzw","https://twitter.com/speedsociety"],"@id":"https://speedsociety.com/#organization","name":"Speed Society","logo":"https://speedsociety.com/wp-content/uploads/2015/12/ss-logo.png"}</script>
 
 <link rel="dns-prefetch" href="//s.w.org">
-<link rel="stylesheet" href="/wp-content/themes/ss/dist/styles/main-267f4d11ab.css">
-<meta property="fb:pages" content="414982355185739">
-<link rel="canonical" href="http://speedsociety.com/privacy-policy/">
-<script async="" data-cfasync="false" src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<link rel="apple-touch-icon" href="http://speedsociety.com/wp-content/themes/ss/apple-icon-touch.png">
-<link rel="icon" href="http://speedsociety.com/wp-content/themes/ss/favicon.ico">
-<link rel="manifest" href="/manifest.json">
+<link rel="stylesheet" href="/wp-content/themes/ss/dist/styles/main-69d8d464dd.css">
+<link rel="icon" href="https://speedsociety.com/wp-content/themes/ss/favicon.ico">
+<link rel="apple-touch-icon" sizes="180x180" href="https://speedsociety.com/wp-content/themes/ss/dist/images/icons/apple-touch-icon.png">
+<link rel="icon" type="image/png" sizes="32x32" href="https://speedsociety.com/wp-content/themes/ss/dist/images/icons/favicon-32x32.png">
+<link rel="icon" type="image/png" sizes="16x16" href="https://speedsociety.com/wp-content/themes/ss/dist/images/icons/favicon-16x16.png">
+<link rel="manifest" href="/site.webmanifest">
+<link rel="mask-icon" href="https://speedsociety.com/wp-content/themes/ss/dist/images/icons/safari-pinned-tab.svg" color="#5bbad5">
+<meta name="msapplication-TileColor" content="#d30000">
+<meta name="theme-color" content="#ffffff">
 <meta name="google-site-verification" content="biM-IO9CMJscDsyv-crcesiqVfJrYkgVPO6EFifErJg">
+<meta name="referrer" content="unsafe-url">
+
+
+<script async="" src="https://www.googletagmanager.com/gtag/js?id=UA-45400664-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-45400664-1');
+</script>
 
 <script async="" data-cfasync="false">
-  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
-  	(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
-  	m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
-  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+window.fbAsyncInit = function() {
+  FB.init({
+    appId      : '844513815575707',
+    xfbml      : true,
+    version    : 'v2.7'
+  });
+};
 
-  ga('create', 'UA-45400664-1', 'auto');
-  ga('send', 'pageview');
-  setTimeout(ga('send', 'event', 'unbounce', '45_sec'), 45000);
-  </script>
-
-<script async="" data-cfasync="false">
-  window.fbAsyncInit = function() {
-  	FB.init({
-  		appId      : '844513815575707',
-  		xfbml      : true,
-  		version    : 'v2.7'
-  	});
-  };
-
-  (function(d, s, id){
-  	var js, fjs = d.getElementsByTagName(s)[0];
-  	if (d.getElementById(id)) {return;}
-  	js = d.createElement(s); js.id = id;
-  	js.src = "//connect.facebook.net/en_US/sdk.js";
-  	fjs.parentNode.insertBefore(js, fjs);
-  }(document, 'script', 'facebook-jssdk'));
-  </script>
+(function(d, s, id){
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) {return;}
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/en_US/sdk.js";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));
+</script>
 
 <script data-cfasync="false">
-	!function(f,b,e,v,n,t,s){if(f.fbq)return;n=f.fbq=function(){n.callMethod?
-	n.callMethod.apply(n,arguments):n.queue.push(arguments)};if(!f._fbq)f._fbq=n;
-	n.push=n;n.loaded=!0;n.version='2.0';n.queue=[];t=b.createElement(e);t.async=!0;
-	t.src=v;s=b.getElementsByTagName(e)[0];s.parentNode.insertBefore(t,s)}(window,
-	document,'script','https://connect.facebook.net/en_US/fbevents.js');
-	fbq('init', '439894866151341'); // Insert your pixel ID here.
-	fbq('track', 'PageView');
-	</script>
+!function(f,b,e,v,n,t,s){if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+  n.callMethod.apply(n,arguments):n.queue.push(arguments)};if(!f._fbq)f._fbq=n;
+  n.push=n;n.loaded=!0;n.version='2.0';n.queue=[];t=b.createElement(e);t.async=!0;
+  t.src=v;s=b.getElementsByTagName(e)[0];s.parentNode.insertBefore(t,s)}(window,
+    document,'script','https://connect.facebook.net/en_US/fbevents.js');
+    fbq('init', '439894866151341'); // Insert your pixel ID here.
+    fbq('track', 'PageView');
+    </script>
 <noscript><img height="1" width="1" style="display:none"
-	src="https://www.facebook.com/tr?id=439894866151341&ev=PageView&noscript=1"
-	/></noscript>
+      src="https://www.facebook.com/tr?id=439894866151341&ev=PageView&noscript=1"
+      /></noscript>
 
 
+<script data-cfasync="false" src="https://www.google.com/recaptcha/api.js"></script>
 <style id="fit-vids-style">.fluid-width-video-wrapper{width:100%;position:relative;padding:0;}.fluid-width-video-wrapper iframe,.fluid-width-video-wrapper object,.fluid-width-video-wrapper embed {position:absolute;top:0;left:0;width:100%;height:100%;}</style></head>
 <body class="page page-id-11 privacy-policy sidebar-primary">
 <!--[if IE]>
@@ -93,7 +101,7 @@
 <![endif]-->
 <div id="fb-root"></div>
 <header class="banner">
-<a class="brand" href="http://speedsociety.com/"><img src="/wp-content/themes/ss/dist/images/branding/logo-wht.svg" alt="Speed Society" width="118" height="82"></a>
+<a class="brand" href="https://speedsociety.com/"><img src="/wp-content/themes/ss/dist/images/branding/logo-wht.svg" alt="Speed Society" width="118" height="82"></a>
 <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#navbar" aria-expanded="false" aria-controls="navbar">
 <span class="sr-only">Toggle navigation</span>
 <span class="icon-bar"></span>
@@ -101,8 +109,8 @@
 <span class="icon-bar"></span>
 </button>
 <a href="#" class="search-mobile"><i class="fa fa-search"></i></a>
-<a href="https://goo.gl/h92ZMW" class="win-mobile" target="_blank">Text HELLCAT to 41400<span>to WIN a 1000HP HELLCAT!</span></a><div class="search-form-mobile">
-<form method="get" class="form-inline search-form" action="http://speedsociety.com/">
+<div class="search-form-mobile">
+<form method="get" class="form-inline search-form" action="https://speedsociety.com/">
 <div class="form-group">
 <label class="sr-only">Search for:</label>
 <input type="text" value="" name="s" class="form-control" id="mobile-search" placeholder="Search Speed Society...">
@@ -113,24 +121,25 @@
 <div id="navbar" class="navbar-collapse collapse">
 <img class="h-logo-tilt" src="/wp-content/themes/ss/dist/images/branding/logo-wht.svg" alt="" width="400" height="284">
 <div class="utility">
-<div class="header-notice"><a style="color:inherit;" href="https://goo.gl/h92ZMW" target="_blank">Text HELLCAT&nbsp;to 41400 for a chance to WIN an 1000HP Hellcat!</a></div> <ul class="utility-social">
+<div class="header-notice"><a style="color:inherit;" href="https://goo.gl/h92ZMW" target="_blank"></a><a href="https://bit.ly/2VXmtPz">Stealth is LIVE Shop Now To Claim Your Entries! </a></div> <ul class="utility-social">
 <li><a href="https://www.facebook.com/SpeedSociety" title="Visit us on Facebook" target="_blank"><i class="fa fa-facebook"></i></a></li>
 <li><a href="https://www.instagram.com/speedsociety" title="Visit us on Instagram" target="_blank"><i class="fa fa-instagram"></i></a></li>
 <li><a href="https://www.youtube.com/user/SpeedSocietyVideos" title="Visit us on Youtube" target="_blank"><i class="fa fa-youtube"></i></a></li>
 <li><a href="https://twitter.com/SpeedSociety" title="Visit us on Twitter" target="_blank"><i class="fa fa-twitter"></i></a></li>
 </ul>
-<ul id="menu-utility-nav" class="utility-nav"><li class="menu-item menu-share-a-video"><a href="http://speedsociety.com/share-a-video/">Share a Video</a></li>
-<li class="menu-item menu-about"><a href="http://speedsociety.com/about/">About</a></li>
-<li class="menu-item menu-advertise"><a href="http://speedsociety.com/advertisers/">Advertise</a></li>
+<ul id="menu-utility-nav" class="utility-nav"><li class="menu-item menu-share-a-video"><a href="https://speedsociety.com/share-a-video/">Share a Video</a></li>
+<li class="menu-item menu-about"><a href="https://speedsociety.com/about/">About</a></li>
+<li class="menu-item menu-advertise"><a href="https://speedsociety.com/advertisers/">Advertise</a></li>
+<li class="menu-item menu-careers"><a href="https://speedsociety.com/jobs/">Careers</a></li>
 <li class="menu-item menu-log-in"><a href="http://store.speedsociety.com/my-account/">Log In</a></li>
 </ul> </div>
 <div class="tier-two">
 <div class="pn-wrap">
 <ul id="menu-header-left" class="primary-nav"><li class="menu-item menu-search"><a href="#">Search</a></li>
+<li class="menu-item menu-videos"><a href="https://speedsociety.com/videos/">Videos</a></li>
 <li class="menu-item menu-racing"><a href="/tag/racing">Racing</a></li>
 <li class="menu-item menu-bike"><a href="/tag/bike">Bike</a></li>
 <li class="menu-item menu-offroad"><a href="/tag/offroad">Offroad</a></li>
-<li class="menu-item menu-street-outlaws"><a href="/tag/street-outlaws">Street Outlaws</a></li>
 <li class="menu-item menu-speed-talk"><a href="/editorial/">Speed Talk</a></li>
 <li class="menu-item menu-store"><a href="http://store.speedsociety.com/?km_source=blog">Store</a></li>
 <li class="menu-item menu-browse"><a href="#">Browse</a></li>
@@ -146,160 +155,16 @@
 </div>
 </section>
 <div class="expanding-search">
-<form method="get" class="expanding-search-form" action="http://speedsociety.com/">
+<form method="get" class="expanding-search-form" action="https://speedsociety.com/">
 <label class="sr-only">Search for:</label>
 <input type="search" value="" name="s" class="expanding-search-input" placeholder="Search...">
 </form>
 <div class="expanding-search-content">
 <div class="container-fluid">
 <div class="row">
-<div class="col-md-8">
-<h3>Recent Posts</h3>
-<div class="row">
-<div class="col-sm-6"> <article class="expanding-recent">
-<div class="sw-wrap sw-small">
-<div class="sw-left">
-<a href="/aparently-nascar-teams-throw-the-most-epic-parties-ever/">
-<img width="86" height="48" src="/wp-content/uploads/2017/11/aparently-nascar-teams-throw-the-86x48.jpg" class="attachment-micro-thumb size-micro-thumb wp-post-image" alt="" srcset="http://speedsociety.com/wp-content/uploads/2017/11/aparently-nascar-teams-throw-the-86x48.jpg 86w, http://speedsociety.com/wp-content/uploads/2017/11/aparently-nascar-teams-throw-the-352x198.jpg 352w, http://speedsociety.com/wp-content/uploads/2017/11/aparently-nascar-teams-throw-the-426x239.jpg 426w, http://speedsociety.com/wp-content/uploads/2017/11/aparently-nascar-teams-throw-the-868x488.jpg 868w, http://speedsociety.com/wp-content/uploads/2017/11/aparently-nascar-teams-throw-the.jpg 870w" sizes="(max-width: 86px) 100vw, 86px"> </a>
-</div>
-<div class="sw-right">
-<h4><a href="/aparently-nascar-teams-throw-the-most-epic-parties-ever/">Aparently NASCAR Teams Throw the Most Epic Parties Ever!</a></h4>
-</div>
-</div>
-</article>
-<article class="expanding-recent">
-<div class="sw-wrap sw-small">
-<div class="sw-left">
-<a href="/ronnie-renner-hits-the-dunes-in-4k-and-it-is-pure-visual-pleasure/">
-<img width="86" height="48" src="/wp-content/uploads/2017/11/ronnie-renner-hits-the-dunes-in-86x48.jpg" class="attachment-micro-thumb size-micro-thumb wp-post-image" alt="" srcset="http://speedsociety.com/wp-content/uploads/2017/11/ronnie-renner-hits-the-dunes-in-86x48.jpg 86w, http://speedsociety.com/wp-content/uploads/2017/11/ronnie-renner-hits-the-dunes-in-352x198.jpg 352w, http://speedsociety.com/wp-content/uploads/2017/11/ronnie-renner-hits-the-dunes-in-426x239.jpg 426w, http://speedsociety.com/wp-content/uploads/2017/11/ronnie-renner-hits-the-dunes-in-868x488.jpg 868w, http://speedsociety.com/wp-content/uploads/2017/11/ronnie-renner-hits-the-dunes-in.jpg 870w" sizes="(max-width: 86px) 100vw, 86px"> </a>
-</div>
-<div class="sw-right">
-<h4><a href="/ronnie-renner-hits-the-dunes-in-4k-and-it-is-pure-visual-pleasure/">Ronnie Renner Hits The Dunes in 4K And It Is Pure Visual Pleasure</a></h4>
-</div>
-</div>
-</article>
-<article class="expanding-recent">
-<div class="sw-wrap sw-small">
-<div class="sw-left">
-<a href="/1959-chevrolet-corvette-custom-roadster-the-sema-show-2017/">
-<img width="86" height="48" src="/wp-content/uploads/2017/11/1959-chevrolet-corvette-custom-r-86x48.jpg" class="attachment-micro-thumb size-micro-thumb wp-post-image" alt="" srcset="http://speedsociety.com/wp-content/uploads/2017/11/1959-chevrolet-corvette-custom-r-86x48.jpg 86w, http://speedsociety.com/wp-content/uploads/2017/11/1959-chevrolet-corvette-custom-r-352x198.jpg 352w, http://speedsociety.com/wp-content/uploads/2017/11/1959-chevrolet-corvette-custom-r-426x239.jpg 426w, http://speedsociety.com/wp-content/uploads/2017/11/1959-chevrolet-corvette-custom-r-868x488.jpg 868w, http://speedsociety.com/wp-content/uploads/2017/11/1959-chevrolet-corvette-custom-r.jpg 870w" sizes="(max-width: 86px) 100vw, 86px"> </a>
-</div>
-<div class="sw-right">
-<h4><a href="/1959-chevrolet-corvette-custom-roadster-the-sema-show-2017/">1959 Chevrolet Corvette Custom Roadster The SEMA Show 2017</a></h4>
-</div>
-</div>
-</article>
-<article class="expanding-recent">
-<div class="sw-wrap sw-small">
-<div class="sw-left">
-<a href="/800hp-bmw-m6-sounds-like-a-straight-up-monster/">
-<img width="86" height="48" src="/wp-content/uploads/2017/11/800hp-bmw-m6-sounds-like-a-strai-86x48.jpg" class="attachment-micro-thumb size-micro-thumb wp-post-image" alt="" srcset="http://speedsociety.com/wp-content/uploads/2017/11/800hp-bmw-m6-sounds-like-a-strai-86x48.jpg 86w, http://speedsociety.com/wp-content/uploads/2017/11/800hp-bmw-m6-sounds-like-a-strai-352x198.jpg 352w, http://speedsociety.com/wp-content/uploads/2017/11/800hp-bmw-m6-sounds-like-a-strai-426x239.jpg 426w, http://speedsociety.com/wp-content/uploads/2017/11/800hp-bmw-m6-sounds-like-a-strai-868x488.jpg 868w, http://speedsociety.com/wp-content/uploads/2017/11/800hp-bmw-m6-sounds-like-a-strai.jpg 870w" sizes="(max-width: 86px) 100vw, 86px"> </a>
-</div>
-<div class="sw-right">
-<h4><a href="/800hp-bmw-m6-sounds-like-a-straight-up-monster/">800HP BMW M6 Sounds Like a Straight Up Monster!</a></h4>
-</div>
-</div>
-</article>
-<article class="expanding-recent">
-<div class="sw-wrap sw-small">
-<div class="sw-left">
-<a href="/turbo-k-civic-hatch-vs-hellcat-challenger-with-a-4000-pot/">
-<img width="86" height="48" src="/wp-content/uploads/2017/11/turbo-k-civic-hatch-vs-hellcat-c-86x48.jpg" class="attachment-micro-thumb size-micro-thumb wp-post-image" alt="" srcset="http://speedsociety.com/wp-content/uploads/2017/11/turbo-k-civic-hatch-vs-hellcat-c-86x48.jpg 86w, http://speedsociety.com/wp-content/uploads/2017/11/turbo-k-civic-hatch-vs-hellcat-c-352x198.jpg 352w, http://speedsociety.com/wp-content/uploads/2017/11/turbo-k-civic-hatch-vs-hellcat-c-426x239.jpg 426w, http://speedsociety.com/wp-content/uploads/2017/11/turbo-k-civic-hatch-vs-hellcat-c-868x488.jpg 868w, http://speedsociety.com/wp-content/uploads/2017/11/turbo-k-civic-hatch-vs-hellcat-c.jpg 870w" sizes="(max-width: 86px) 100vw, 86px"> </a>
-</div>
-<div class="sw-right">
-<h4><a href="/turbo-k-civic-hatch-vs-hellcat-challenger-with-a-4000-pot/">Turbo K Civic Hatch vs HellCat Challenger With a $ 4,000 POT</a></h4>
-</div>
-</div>
-</article>
-<article class="expanding-recent">
-<div class="sw-wrap sw-small">
-<div class="sw-left">
-<a href="/ever-seen-a-cts-v-wagon-pull-a-wheelie-here-you-go/">
-<img width="86" height="48" src="/wp-content/uploads/2017/11/ever-seen-a-cts-v-wagon-pull-a-w-86x48.jpg" class="attachment-micro-thumb size-micro-thumb wp-post-image" alt="" srcset="http://speedsociety.com/wp-content/uploads/2017/11/ever-seen-a-cts-v-wagon-pull-a-w-86x48.jpg 86w, http://speedsociety.com/wp-content/uploads/2017/11/ever-seen-a-cts-v-wagon-pull-a-w-352x198.jpg 352w, http://speedsociety.com/wp-content/uploads/2017/11/ever-seen-a-cts-v-wagon-pull-a-w-426x239.jpg 426w, http://speedsociety.com/wp-content/uploads/2017/11/ever-seen-a-cts-v-wagon-pull-a-w-868x488.jpg 868w, http://speedsociety.com/wp-content/uploads/2017/11/ever-seen-a-cts-v-wagon-pull-a-w.jpg 870w" sizes="(max-width: 86px) 100vw, 86px"> </a>
-</div>
-<div class="sw-right">
-<h4><a href="/ever-seen-a-cts-v-wagon-pull-a-wheelie-here-you-go/">Ever Seen a CTS-V Wagon Pull a Wheelie? Here You Go!</a></h4>
-</div>
-</div>
-</article>
-</div>
-<div class="col-sm-6">
-<article class="expanding-recent">
-<div class="sw-wrap sw-small">
-<div class="sw-left">
-<a href="/youtuber-pranks-his-mom-by-crashing-her-car/">
-<img width="86" height="48" src="/wp-content/uploads/2017/11/youtuber-pranks-his-mom-by-crash-86x48.jpg" class="attachment-micro-thumb size-micro-thumb wp-post-image" alt="" srcset="http://speedsociety.com/wp-content/uploads/2017/11/youtuber-pranks-his-mom-by-crash-86x48.jpg 86w, http://speedsociety.com/wp-content/uploads/2017/11/youtuber-pranks-his-mom-by-crash-352x198.jpg 352w, http://speedsociety.com/wp-content/uploads/2017/11/youtuber-pranks-his-mom-by-crash-426x239.jpg 426w, http://speedsociety.com/wp-content/uploads/2017/11/youtuber-pranks-his-mom-by-crash-868x488.jpg 868w, http://speedsociety.com/wp-content/uploads/2017/11/youtuber-pranks-his-mom-by-crash.jpg 870w" sizes="(max-width: 86px) 100vw, 86px"> </a>
-</div>
-<div class="sw-right">
-<h4><a href="/youtuber-pranks-his-mom-by-crashing-her-car/">YouTuber Pranks His Mom By Crashing Her Car…</a></h4>
-</div>
-</div>
-</article>
-<article class="expanding-recent">
-<div class="sw-wrap sw-small">
-<div class="sw-left">
-<a href="/so-much-torque-it-starts-an-earthquake-damn/">
-<img width="86" height="48" src="/wp-content/uploads/2017/11/so-much-torque-it-starts-an-eart-86x48.jpg" class="attachment-micro-thumb size-micro-thumb wp-post-image" alt="" srcset="http://speedsociety.com/wp-content/uploads/2017/11/so-much-torque-it-starts-an-eart-86x48.jpg 86w, http://speedsociety.com/wp-content/uploads/2017/11/so-much-torque-it-starts-an-eart.jpg 160w" sizes="(max-width: 86px) 100vw, 86px"> </a>
-</div>
-<div class="sw-right">
-<h4><a href="/so-much-torque-it-starts-an-earthquake-damn/">So Much Torque It Starts An Earthquake… DAMN!</a></h4>
-</div>
-</div>
-</article>
-<article class="expanding-recent">
-<div class="sw-wrap sw-small">
-<div class="sw-left">
-<a href="/this-guy-says-hell-to-the-flight-plan-skips-across-the-water-like-a-boss/">
-<img width="86" height="48" src="/wp-content/uploads/2017/11/this-guy-says-hell-to-the-flight-86x48.jpg" class="attachment-micro-thumb size-micro-thumb wp-post-image" alt="" srcset="http://speedsociety.com/wp-content/uploads/2017/11/this-guy-says-hell-to-the-flight-86x48.jpg 86w, http://speedsociety.com/wp-content/uploads/2017/11/this-guy-says-hell-to-the-flight.jpg 227w" sizes="(max-width: 86px) 100vw, 86px"> </a>
-</div>
-<div class="sw-right">
-<h4><a href="/this-guy-says-hell-to-the-flight-plan-skips-across-the-water-like-a-boss/">This Guy Says Hell To The Flight Plan… Skips Across The Water Like a Boss</a></h4>
-</div>
-</div>
-</article>
-<article class="expanding-recent">
-<div class="sw-wrap sw-small">
-<div class="sw-left">
-<a href="/cummins-nitrous-backfire-destroys-the-turbo/">
-<img width="86" height="48" src="/wp-content/uploads/2017/11/cummins-nitrous-backfire-destroy-86x48.jpg" class="attachment-micro-thumb size-micro-thumb wp-post-image" alt="" srcset="http://speedsociety.com/wp-content/uploads/2017/11/cummins-nitrous-backfire-destroy-86x48.jpg 86w, http://speedsociety.com/wp-content/uploads/2017/11/cummins-nitrous-backfire-destroy-352x198.jpg 352w, http://speedsociety.com/wp-content/uploads/2017/11/cummins-nitrous-backfire-destroy-426x240.jpg 426w, http://speedsociety.com/wp-content/uploads/2017/11/cummins-nitrous-backfire-destroy.jpg 480w" sizes="(max-width: 86px) 100vw, 86px"> </a>
-</div>
-<div class="sw-right">
-<h4><a href="/cummins-nitrous-backfire-destroys-the-turbo/">Cummins Nitrous Backfire Destroys The Turbo!</a></h4>
-</div>
-</div>
-</article>
-<article class="expanding-recent">
-<div class="sw-wrap sw-small">
-<div class="sw-left">
-<a href="/wheelie-simulator-helps-riders-learn-how-to-wheelie-without-consequence/">
-<img width="86" height="48" src="/wp-content/uploads/2017/11/wheelie-simulator-helps-riders-l-86x48.jpg" class="attachment-micro-thumb size-micro-thumb wp-post-image" alt="" srcset="http://speedsociety.com/wp-content/uploads/2017/11/wheelie-simulator-helps-riders-l-86x48.jpg 86w, http://speedsociety.com/wp-content/uploads/2017/11/wheelie-simulator-helps-riders-l-352x198.jpg 352w, http://speedsociety.com/wp-content/uploads/2017/11/wheelie-simulator-helps-riders-l-426x239.jpg 426w, http://speedsociety.com/wp-content/uploads/2017/11/wheelie-simulator-helps-riders-l-868x488.jpg 868w, http://speedsociety.com/wp-content/uploads/2017/11/wheelie-simulator-helps-riders-l.jpg 870w" sizes="(max-width: 86px) 100vw, 86px"> </a>
-</div>
-<div class="sw-right">
-<h4><a href="/wheelie-simulator-helps-riders-learn-how-to-wheelie-without-consequence/">Wheelie Simulator Helps Riders Learn How To Wheelie Without Consequence</a></h4>
-</div>
-</div>
-</article>
-<article class="expanding-recent">
-<div class="sw-wrap sw-small">
-<div class="sw-left">
-<a href="/nascar-fly-by-is-so-brutal-it-nearly-makes-this-lady-lose-her-balance/">
-<img width="86" height="48" src="/wp-content/uploads/2017/11/nascar-fly-by-is-so-brutal-it-ne-86x48.jpg" class="attachment-micro-thumb size-micro-thumb wp-post-image" alt="" srcset="http://speedsociety.com/wp-content/uploads/2017/11/nascar-fly-by-is-so-brutal-it-ne-86x48.jpg 86w, http://speedsociety.com/wp-content/uploads/2017/11/nascar-fly-by-is-so-brutal-it-ne.jpg 160w" sizes="(max-width: 86px) 100vw, 86px"> </a>
-</div>
-<div class="sw-right">
-<h4><a href="/nascar-fly-by-is-so-brutal-it-nearly-makes-this-lady-lose-her-balance/">NASCAR Fly By is So Brutal It Nearly Makes This Lady Lose Her Balance</a></h4>
-</div>
-</div>
-</article>
-</div> </div>
-</div>
-<div class="col-lg-3 col-lg-offset-1 col-md-4">
-<div class="esc-wrap">
-<h4>Browse Categories</h4>
-<div class="cat-tags"><a href="http://speedsociety.com/category/1949/" title="1949 Category">1949</a> <a href="http://speedsociety.com/category/accident/" title="accident Category">accident</a> <a href="http://speedsociety.com/category/atv/" title="ATV Category">ATV</a> <a href="http://speedsociety.com/category/barn-find/" title="barn find Category">barn find</a> <a href="http://speedsociety.com/category/bike/" title="bike Category">bike</a> <a href="http://speedsociety.com/category/bmw/" title="bmw Category">bmw</a> <a href="http://speedsociety.com/category/boat/" title="boat Category">boat</a> <a href="http://speedsociety.com/category/boosted/" title="boosted Category">boosted</a> <a href="http://speedsociety.com/category/burnout/" title="burnout Category">burnout</a> <a href="http://speedsociety.com/category/bus/" title="bus Category">bus</a> <a href="http://speedsociety.com/category/c10/" title="c10 Category">c10</a> <a href="http://speedsociety.com/category/c7/" title="c7 Category">c7</a> <a href="http://speedsociety.com/category/car/" title="car Category">car</a> <a href="http://speedsociety.com/category/celebrity/" title="Celebrity Category">Celebrity</a> <a href="http://speedsociety.com/category/chevrolet/" title="chevrolet Category">chevrolet</a> <a href="http://speedsociety.com/category/classic/" title="classic Category">classic</a> <a href="http://speedsociety.com/category/corvette/" title="corvette Category">corvette</a> <a href="http://speedsociety.com/category/crash/" title="crash Category">crash</a> </div> </div>
-<div class="esc-wrap">
-<h4>Browse Tags</h4>
-<div class="post-tags"><a href="http://speedsociety.com/tag/dodge-colt/" title="dodge colt Tag">dodge colt</a><a href="http://speedsociety.com/tag/pedestrian/" title="pedestrian Tag">pedestrian</a><a href="http://speedsociety.com/tag/audi-rs6/" title="audi rs6 Tag">audi rs6</a><a href="http://speedsociety.com/tag/porche/" title="porche Tag">porche</a><a href="http://speedsociety.com/tag/charge/" title="charge Tag">charge</a><a href="http://speedsociety.com/tag/truvks/" title="truvks Tag">truvks</a><a href="http://speedsociety.com/tag/tach/" title="tach Tag">tach</a><a href="http://speedsociety.com/tag/social-media/" title="social media Tag">social media</a><a href="http://speedsociety.com/tag/diesel-sellerz/" title="diesel sellerz Tag">diesel sellerz</a><a href="http://speedsociety.com/tag/toyko/" title="toyko Tag">toyko</a><a href="http://speedsociety.com/tag/fords/" title="fords Tag">fords</a><a href="http://speedsociety.com/tag/shmee50/" title="shmee50 Tag">shmee50</a><a href="http://speedsociety.com/tag/gravity/" title="gravity Tag">gravity</a><a href="http://speedsociety.com/tag/gidi/" title="gidi Tag">gidi</a><a href="http://speedsociety.com/tag/aircraft-carrier/" title="aircraft carrier Tag">aircraft carrier</a><a href="http://speedsociety.com/tag/fines/" title="fines Tag">fines</a><a href="http://speedsociety.com/tag/flamethrower/" title="flamethrower Tag">flamethrower</a><a href="http://speedsociety.com/tag/mercedes-amg-vision-gran-turismo/" title="Mercedes AMG Vision Gran Turismo Tag">Mercedes AMG Vision Gran Turismo</a><a href="http://speedsociety.com/tag/132/" title="132 Tag">132</a><a href="http://speedsociety.com/tag/bicyclist/" title="bicyclist Tag">bicyclist</a></div> </div>
-</div>
+
+
+
 </div>
 </div>
 </div>
@@ -339,7 +204,7 @@
 <h4>Opt-Out &amp; Unsubscribe</h4>
 <p>We respect your privacy and give you an opportunity to opt-out of receiving announcements of certain information. Users may opt-out of receiving any or all communications from Speed Society by contacting us here:</p>
 <p><strong>Web page</strong>: www.speedsociety.com<br>
-<strong>Email</strong>: <a href="/cdn-cgi/l/email-protection" class="__cf_email__" data-cfemail="cba2a5ada48bb8bbaeaeafb8a4a8a2aebfb2e5a8a4a6">[email&nbsp;protected]</a><br>
+<strong>Email</strong>: info@speedsociety.com<br>
 <strong>Phone</strong>: (855) 271-1679</p>
 <h4>Changes to this Statement</h4>
 <p>Speed Society will occasionally update this Statement of Privacy to reflect company and customer feedback. Speed Society encourages you to periodically review this Statement to be informed of how Speed Society is protecting your information.</p>
@@ -349,7 +214,7 @@
 4122 Sorrento Valley Blvd.<br>
 Suite 104<br>
 San Diego, California 92121</p>
-<p><strong>Email</strong>: <a href="/cdn-cgi/l/email-protection" class="__cf_email__" data-cfemail="3c55525a537c4f4c5959584f535f55594845125f5351">[email&nbsp;protected]</a><br>
+<p><strong>Email</strong>: info@speedsociety.com<br>
 <strong>Phone</strong>: (855) 271-1679</p>
 <p><em>Effective as of Jan 01, 2012</em></p>
 </div>
@@ -357,40 +222,34 @@ San Diego, California 92121</p>
 <aside class="sidebar">
 <div class="sb-wrap">
 
-<section class="widget text-18 widget_text"> <div class="textwidget"><div class="ad-block ad-sidebar-top" style="text-align: center;">
-
-<ins class="adsbygoogle" style="display:block;width:300px;height:250px;" data-ad-client="ca-pub-2464851386916814" data-ad-slot="2302610080"></ins>
-<script src="/cdn-cgi/scripts/0e574bed/cloudflare-static/email-decode.min.js"></script><script data-cfasync="false">
-	(adsbygoogle = window.adsbygoogle || []).push({});
-	</script>
-</div></div>
-</section> <section class="widget recent-posts-2 widget_recent_entries"> <h4 class="widget-header"><span>The Latest</span></h4> <ul>
-<li>
-<a href="/aparently-nascar-teams-throw-the-most-epic-parties-ever/">Aparently NASCAR Teams Throw the Most Epic Parties Ever!</a>
-</li>
-<li>
-<a href="/ronnie-renner-hits-the-dunes-in-4k-and-it-is-pure-visual-pleasure/">Ronnie Renner Hits The Dunes in 4K And It Is Pure Visual Pleasure</a>
-</li>
-<li>
-<a href="/1959-chevrolet-corvette-custom-roadster-the-sema-show-2017/">1959 Chevrolet Corvette Custom Roadster The SEMA Show 2017</a>
-</li>
-<li>
-<a href="/800hp-bmw-m6-sounds-like-a-straight-up-monster/">800HP BMW M6 Sounds Like a Straight Up Monster!</a>
-</li>
-<li>
-<a href="/turbo-k-civic-hatch-vs-hellcat-challenger-with-a-4000-pot/">Turbo K Civic Hatch vs HellCat Challenger With a $ 4,000 POT</a>
-</li>
-<li>
-<a href="/ever-seen-a-cts-v-wagon-pull-a-wheelie-here-you-go/">Ever Seen a CTS-V Wagon Pull a Wheelie? Here You Go!</a>
-</li>
-</ul>
-</section> <section class="widget text-21 widget_text"> <div class="textwidget"><div class="ad-block">
-<script data-cfasync="false" type="text/javascript"><!--
+<section class="widget text-21 widget_text"> <div class="textwidget"><div class="ad-block">
+<script type="text/javascript"><!--
 		e9 = new Object();
 	    e9.size = "300x250";
-	//--></script>
-<script data-cfasync="false" type="text/javascript" src="http://tags.expo9.exponential.com/tags/SpeedSocietycom/ROS/tags.js"></script>
-</div></div>
+	//--></script><br>
+<script type="text/javascript" src="//tags.expo9.exponential.com/tags/SpeedSocietycom/ROS/tags.js"></script>
+</div>
+</div>
+</section> <section class="widget recent-posts-2 widget_recent_entries"> <h4 class="widget-header"><span>The Latest</span></h4> <ul>
+<li>
+<a href="/why-warplane-tanks-make-great-hot-rods/">Why Warplane Tanks Make Great Hot Rods</a>
+</li>
+<li>
+<a href="/this-truck-attachment-allows-construction-crews-to-safely-move-cones/">This Truck Attachment Allows Construction Crews To Safely Move Cones</a>
+</li>
+<li>
+<a href="/aircraft-carriers-are-like-cities-at-sea-heres-how-they-work/">Aircraft Carriers Are Like Cities At Sea! Here’s How They Work!</a>
+</li>
+<li>
+<a href="/tesla-model-s-takes-on-bmw-m5-porsche-panamera-turbo-s-and-more/">Tesla Model S Takes ON BMW M5, Porsche Panamera Turbo S, And More</a>
+</li>
+<li>
+<a href="/when-an-automotive-loving-friend-passes-away-this-is-the-send-off-we-hope-for/">When An Automotive Loving Friend Passes Away, This Is The Send Off We Hope For!</a>
+</li>
+<li>
+<a href="/nascar-cole-custer-hoonigan-shred-properly/">NASCAR Young Gun Cole Custer Showed HOONIGAN How To Shred Properly! – Bullitt Mustang</a>
+</li>
+</ul>
 </section> </div>
 </aside>
 </div>
@@ -399,7 +258,7 @@ San Diego, California 92121</p>
 <div class="container-fluid">
 <h3 class="line-bg"><span>Premium Partners</span></h3>
 <div class="pp-wrap">
-<div class="pl-wrap"><a href="https://goo.gl/hBTjSj" target="_blank"><img src="http://speedsociety.com/wp-content/uploads/2017/06/sponsor-michelin.png" alt="Speed Society partner Michelin" width="166" height="84"></a><a href="https://goo.gl/gkAZ0t" target="_blank"><img src="http://speedsociety.com/wp-content/uploads/2017/06/cobb-partner-1.png" alt="Speed Society partner Cobb Tuning" width="166" height="84"></a><a href="https://goo.gl/hVH1pq" target="_blank"><img src="http://speedsociety.com/wp-content/uploads/2017/06/sponsor-mustang.png" alt="Speed Society partner Mustant Dyno" width="166" height="84"></a><a href="https://goo.gl/7PHh5B" target="_blank"><img src="http://speedsociety.com/wp-content/uploads/2017/08/sponsor-zeroto60.png" alt="Speed Society partner Zero To Sixty" width="166" height="84"></a><a href="https://goo.gl/iwcu1Z" target="_blank"><img src="http://speedsociety.com/wp-content/uploads/2017/06/sponsor-vp.png" alt="Speed Society partner VP Racing Fuels" width="166" height="84"></a><a href="https://goo.gl/gJ967P" target="_blank"><img src="http://speedsociety.com/wp-content/uploads/2017/06/sponsor-kn.png" alt="Speed Society partner K&amp;N Filters" width="166" height="84"></a></div> </div>
+<div class="pl-wrap"><a href="https://goo.gl/hVH1pq" target="_blank"><img src="https://speedsociety.com/wp-content/uploads/2017/06/sponsor-mustang.png" alt="Speed Society partner Mustant Dyno" width="166" height="84"></a><a href="https://goo.gl/iwcu1Z" target="_blank"><img src="https://speedsociety.com/wp-content/uploads/2017/06/sponsor-vp.png" alt="Speed Society partner VP Racing Fuels" width="166" height="84"></a><a href="https://goo.gl/gJ967P" target="_blank"><img src="https://speedsociety.com/wp-content/uploads/2017/06/sponsor-kn.png" alt="Speed Society partner K&amp;N Filters" width="166" height="84"></a><a href="http://www.acgautomotive.com/" target="_blank"><img src="https://store.speedsociety.com/wp-content/uploads/2018/04/sponsor-acg.png" alt="Speed Society partner ACG Automotive" width="166" height="84"></a><a href="http://sdwrap.com/" target="_blank"><img src="https://store.speedsociety.com/wp-content/uploads/2018/07/logo-sponsor-sdwrap-1.jpg" alt="Speed Society partner SDWrap" width="166" height="84"></a><a href="https://goo.gl/VJso4g" target="_blank"><img src="https://store.speedsociety.com/wp-content/uploads/2018/08/logo.jpg" alt="Speed Society partner Auto Armor" width="166" height="84"></a></div> </div>
 <p><span>Interested in becoming a partner? <a href="/advertisers#contact">Contact us</a> for more info.</span></p>
 </div>
 </div>
@@ -410,15 +269,16 @@ San Diego, California 92121</p>
 <div class="col-md-5 col-sm-6 our-friends">
 <div class="of-wrap">
 <h3 class="line-bg gray-ltr"><span>Our Friends</span></h3>
-<div class="logo-row"><a href="https://goo.gl/bXT8Qf" target="_blank"><img src="http://speedsociety.com/wp-content/uploads/2016/08/bk-86x40.jpg" width="125" height="58" alt="Visit Busted Knuckle"></a><a href="https://goo.gl/I8DfRO" target="_blank"><img src="http://speedsociety.com/wp-content/uploads/2016/11/baf-logo-86x40.png" width="125" height="58" alt="Visit Big Ass Fans"></a><a href="https://goo.gl/gf5Ha3" target="_blank"><img src="http://speedsociety.com/wp-content/uploads/2016/08/grr-86x40.png" width="125" height="58" alt="Visit Gold Rush Rally"></a><a href="https://goo.gl/jjUbHM" target="_blank"><img src="http://speedsociety.com/wp-content/uploads/2016/01/modernimage-86x40.png" width="125" height="58" alt="Visit Modern Image"></a><a href="https://goo.gl/2wj5f4" target="_blank"><img src="http://speedsociety.com/wp-content/uploads/2016/08/acg-1-86x40.png" width="125" height="58" alt="Visit ACG Automotive"></a><a href="https://goo.gl/7fh08B" target="_blank"><img src="http://speedsociety.com/wp-content/uploads/2016/01/nx-86x43.png" width="125" height="58" alt="Visit Nitrous Express"></a><a href="https://goo.gl/tfiu4R" target="_blank"><img src="http://speedsociety.com/wp-content/uploads/2017/03/drag-illustrated-1-86x40.png" width="125" height="58" alt="Visit Drag Illustrated"></a><a href="https://goo.gl/3tgoSD" target="_blank"><img src="http://speedsociety.com/wp-content/uploads/2016/08/c4k-86x43.png" width="125" height="58" alt="Visit C4K"></a><a href="https://goo.gl/aNnkML" target="_blank"><img src="http://speedsociety.com/wp-content/uploads/2016/08/blackmagic-1-86x39.png" width="125" height="58" alt="Visit Black Magic Calibration"></a><a href="https://goo.gl/p3dEqN" target="_blank"><img src="http://speedsociety.com/wp-content/uploads/2016/11/405-app.png" width="125" height="58" alt="Visit 405 Apparel"></a><a href="https://goo.gl/Vw8P59" target="_blank"><img src="http://speedsociety.com/wp-content/uploads/2016/08/shifts3ctor-86x40.png" width="125" height="58" alt="Visit Shift Sector"></a><a href="https://goo.gl/RLbksD" target="_blank"><img src="http://speedsociety.com/wp-content/uploads/2016/08/targa-1-86x40.png" width="125" height="58" alt="Visit Targa Trophy"></a></div> </div>
+<div class="logo-row"><a href="https://goo.gl/I8DfRO" target="_blank"><img src="https://speedsociety.com/wp-content/uploads/2016/11/baf-logo-86x40.png" width="125" height="58" alt="Visit Big Ass Fans"></a><a href="https://goo.gl/gf5Ha3" target="_blank"><img src="https://speedsociety.com/wp-content/uploads/2016/08/grr-86x40.png" width="125" height="58" alt="Visit Gold Rush Rally"></a><a href="https://goo.gl/2wj5f4" target="_blank"><img src="https://speedsociety.com/wp-content/uploads/2016/08/acg-1-86x40.png" width="125" height="58" alt="Visit ACG Automotive"></a><a href="https://goo.gl/aNnkML" target="_blank"><img src="https://speedsociety.com/wp-content/uploads/2016/08/blackmagic-1-86x39.png" width="125" height="58" alt="Visit Black Magic Calibration"></a><a href="https://goo.gl/bXT8Qf" target="_blank"><img src="https://speedsociety.com/wp-content/uploads/2016/08/bk-86x40.jpg" width="125" height="58" alt="Visit Busted Knuckle"></a><a href="https://goo.gl/3tgoSD" target="_blank"><img src="https://speedsociety.com/wp-content/uploads/2016/08/c4k-86x43.png" width="125" height="58" alt="Visit C4K"></a></div> </div>
 <ul id="menu-footer-menu" class="footer-menu"><li class="menu-item menu-home"><a href="/">Home</a></li>
 <li class="menu-item menu-vip-sweepstakes"><a href="http://store.speedsociety.com/sweepstakes/">VIP Sweepstakes</a></li>
-<li class="menu-item menu-podcasts"><a href="http://speedsociety.com/podcast/">Podcasts</a></li>
-<li class="menu-item menu-speed-talk"><a href="http://speedsociety.com/editorial/">Speed Talk</a></li>
-<li class="menu-item menu-share-a-video"><a href="http://speedsociety.com/share-a-video/">Share a Video</a></li>
-<li class="menu-item menu-advertise"><a href="http://speedsociety.com/advertisers/">Advertise</a></li>
-<li class="menu-item menu-about"><a href="http://speedsociety.com/about/">About</a></li>
-<li class="active menu-item menu-privacy-policy"><a href="http://speedsociety.com/privacy-policy/">Privacy Policy</a></li>
+<li class="menu-item menu-podcasts"><a href="https://speedsociety.com/podcast/">Podcasts</a></li>
+<li class="menu-item menu-speed-talk"><a href="https://speedsociety.com/editorial/">Speed Talk</a></li>
+<li class="menu-item menu-share-a-video"><a href="https://speedsociety.com/share-a-video/">Share a Video</a></li>
+<li class="menu-item menu-advertise"><a href="https://speedsociety.com/advertisers/">Advertise</a></li>
+<li class="menu-item menu-about"><a href="https://speedsociety.com/about/">About</a></li>
+<li class="active menu-item menu-privacy-policy"><a href="https://speedsociety.com/privacy-policy/">Privacy Policy</a></li>
+<li class="menu-item menu-careers"><a href="https://speedsociety.com/jobs/">Careers</a></li>
 </ul> </div>
 <div class="col-md-7 col-sm-6">
 <div class="row">
@@ -449,7 +309,7 @@ San Diego, California 92121</p>
 </div>
 </div>
 <div class="col-md-5 col-sm-12 f-branding">
-<a href="http://speedsociety.com/"><img src="/wp-content/themes/ss/dist/images/branding/logo-wht.svg" alt="Speed Society" width="112" height="79">www.speedsociety.com</a>
+<a href="https://speedsociety.com/"><img src="/wp-content/themes/ss/dist/images/branding/logo-wht.svg" alt="Speed Society" width="112" height="79">www.speedsociety.com</a>
 </div>
 </div>
 </div>
@@ -457,21 +317,21 @@ San Diego, California 92121</p>
 <div class="row copyright">
 <div class="col-sm-6"></div>
 <div class="col-sm-6">
-<p>© 2017 <a href="http://speedsociety.com/">Speed Society</a>. All rights reserved.</p>
+<p>© 2019 <a href="https://speedsociety.com/">Speed Society</a>. All rights reserved.</p>
 </div>
 </div>
 </div>
 </footer>
 <div id="snackbar" style="max-height:180px;">
 <script data-cfasync="false">
-	e9 = new Object();
-	e9.snackbar = true;
-	</script>
+		e9 = new Object();
+		e9.snackbar = true;
+		</script>
 <script type="text/javascript" data-cfasync="false" src="//tags.expo9.exponential.com/tags/SpeedSocietycom/Snackbar/tags.js"></script>
 </div>
-<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js" class="superhide"></script>
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
 <script>window.jQuery || document.write('<script src="/wp-includes/js/jquery/jquery.js"><\/script>')</script><script src="/wp-includes/js/jquery/jquery.js"></script>
-<script src="/wp-content/themes/ss/dist/scripts/main-d5617929c5.js"></script>
-<script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","licenseKey":"735f1b0f69","applicationID":"7746660","transactionName":"blAEZ0EEWRFYWkFbWFcaM0FaSl4MXVxNHEdRRQ==","queueTime":0,"applicationTime":357,"atts":"QhcHEQkeSh8=","errorBeacon":"bam.nr-data.net","agent":""}</script>
+<script src="/wp-content/themes/ss/dist/scripts/main-978f6518b1.js"></script>
+<script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","licenseKey":"735f1b0f69","applicationID":"114791645","transactionName":"blAEZ0EEWRFYWkFbWFcaM0FaSl4MXVxNHEdRRQ==","queueTime":0,"applicationTime":374,"atts":"QhcHEQkeSh8=","errorBeacon":"bam.nr-data.net","agent":""}</script>
 
 </body></html>
