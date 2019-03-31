@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the qwertee.com privacy policy that was archived on 2018-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181230192235id_/https%3A//www.qwertee.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the qwertee.com privacy policy that was archived on 2019-03-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190331184119id_/https%3A//www.qwertee.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy |Qwertee : Limited Edition Cheap Daily T Shirts | Gone in 24 Hours | T-shirt Only £9/€11/$12 | Cool Graphic Funny Tee Shirts
 
