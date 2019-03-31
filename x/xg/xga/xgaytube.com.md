@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the xgaytube.com privacy policy that was archived on 2018-08-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180818065659id_/http%3A//xgaytube.com/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the xgaytube.com privacy policy that was archived on 2019-03-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190331214323id_/https%3A//xgaytube.com/privacy-policy.php) for the most accurate reproduction.*
 
 # X GayTube - Free Gay Tube
 
