@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the datanyze.com privacy policy that was archived on 2018-09-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180909011114id_/https%3A//www.datanyze.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the datanyze.com privacy policy that was archived on 2019-03-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190331144036id_/https%3A//www.datanyze.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Datanyze
 
@@ -12,7 +12,7 @@ Datanyze, Inc is responsible for the processing of personal information it recei
 
 With respect to personal information received or transferred pursuant to the Privacy Shield Framework, Datanyze is subject to the regulatory enforcement powers of the U.S. Federal Trade Commission. In certain situations, Datanyze may be required to disclose personal information in response to lawful requests by public authorities, including to meet national security or law enforcement requirements.
 
-If you have an unresolved privacy or data use concern that we have not addressed satisfactorily, please contact  these third party dispute resolution agencies at <http://ec.europa.eu/justice/article-29/structure/data-protection-authorities/index_en.htm> and <http://www.privatim.ch/de/privatim/>.
+Datanyze further has committed to refer unresolved privacy complaints under the Privacy Shield Framework to JAMS (Judicial Arbitration & Mediation Services), an independent alternative dispute resolution provider located in the United States and recognized for this purpose by the US Department of Commerce. If you do not receive timely acknowledgment of your complaint, or if your complaint is not satisfactorily addressed, please visit <https://www.jamsadr.com/eu-us-privacy-shield> for more information, and to file a complaint.
 
 Under certain conditions, more fully described on the [Privacy Shield website](https://www.privacyshield.gov/article?id=How-to-Submit-a-Complaint), you may be entitled to invoke binding arbitration when other dispute resolution procedures have been exhausted.
 
@@ -239,4 +239,4 @@ Please read this Privacy Policy carefully, and if you have any questions on this
 
 Suite 301  
 San Mateo, CA 94402  
-+1 650 393 5177
++1 617 826 2200
