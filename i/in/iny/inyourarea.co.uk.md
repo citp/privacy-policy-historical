@@ -1,18 +1,18 @@
-> *The following text is extracted and transformed from the inyourarea.co.uk privacy policy that was archived on 2018-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180530070000id_/https%3A//www.inyourarea.co.uk/info/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the inyourarea.co.uk privacy policy that was archived on 2019-03-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190331190325id_/https%3A//www.inyourarea.co.uk/news/privacy-notice) for the most accurate reproduction.*
 
-# Privacy Notice
+# Privacy Notice |
 
 **WHO WE ARE**
 
 We are the publishing group Reach plc.  
 
-In this Privacy Notice, when we refer to any of our Sites we mean any website or app, including e-editions, published by our various subsidiary companies and brands, listed [here](https://reachplc.com/brands) (“Reach Group” or “we”), regardless of how you access it.
+In this Privacy Notice, when we refer to any of our Sites we mean any website or app, including e-editions, published by our various subsidiary companies and brands, listed [here](https://reachplc.com/brands) ("Reach Group" or "we"), regardless of how you access it.
 
 **ABOUT THIS PRIVACY NOTICE**
 
 This is the main privacy notice for the Reach Group.  It applies to all our Sites, and brands, but some of them may publish additional or alternative notices, in which case those take precedence.
 
-In summary, depending on your relationship with us, we’ll use your personal information:
+In summary, depending on your relationship with us, we'll use your personal information:
 
   * As needed to provide our products and services, for example to administer subscriptions, take orders and ad placements and handle customer service queries
   * To provide the interactive features of our Sites, such as commenting, discussion forums and competitions
@@ -39,7 +39,7 @@ Information that we collect and process about you includes:
 
 
 
-For more information about cookies, please see our [Cookie Notice](https://web.archive.org/info/cookie-policy/)
+For more information about cookies, please see our [Cookie Notice](https://www.inyourarea.co.uk/news/cookie-notice/)
 
 **2.   USE OF YOUR INFORMATION**
 
@@ -51,19 +51,19 @@ We also use your personal data to contact you, including to notify you about cha
 
 We may use your information for the management of our business and improving the operation of our business and that of our business partners, to assess our internal processes and carry out financial checks.
 
-We may monitor, record and store records of calls, email, text messages, social media messages, in person meetings and other communications where permitted by law and we’ll do this where the law requires it, or to comply with regulatory rules, to prevent or detect crime, for evidential purposes, in the interests of protecting the security of our communications systems and procedures and for quality control and staff training purposes.
+We may monitor, record and store records of calls, email, text messages, social media messages, in person meetings and other communications where permitted by law and we'll do this where the law requires it, or to comply with regulatory rules, to prevent or detect crime, for evidential purposes, in the interests of protecting the security of our communications systems and procedures and for quality control and staff training purposes.
 
 We may use your data to comply with legal and regulatory obligations.
 
 We may make use of your personal information for direct marketing activities, or supply this information to third parties for their direct marketing activities, with your consent or as permitted by law. By direct marketing activities, we mean the communication directly to particular individuals (by e-mail, post or telephone) of any advertising or marketing material.
 
-Where we’re relying upon your consent to process personal data, you can withdraw this at any time by contacting us at [dataprotection@reachplc.com](mailto:dataprotection@reachplc.com).
+Where we're relying upon your consent to process personal data, you can withdraw this at any time by contacting us at [dataprotection@reachplc.com](mailto:dataprotection@reachplc.com).
 
 Information about you helps us sell advertising to businesses of products and services relevant to you so that we can continue to fund these through advertising and you can continue to use the majority of our websites for free.
 
-We may analyse your data, including whether or not you open a newsletter or click on links, and analyse data, gathered thorough our websites and advertising partners, including by analysing your data in aggregated form into categories (known as segments), to help target offers to you that we think are of interest or relevance to you. You can find more information on this in our [Cookie Notice](https://web.archive.org/info/cookie-policy/).
+We may analyse your data, including whether or not you open a newsletter or click on links, and analyse data, gathered thorough our websites and advertising partners, including by analysing your data in aggregated form into categories (known as segments), to help target offers to you that we think are of interest or relevance to you. You can find more information on this in our [Cookie Notice](https://www.inyourarea.co.uk/news/cookie-notice/).
 
-We may disclose details about the use of the Sites to other businesses e.g. to demonstrate patterns of use to advertisers and others. The information we pass on will be anonymised. We compile anonymous records of user trends which we may make use of ourselves or pass to our associated companies, including advertising networks. You can read more about this in our [Cookie Notice](https://web.archive.org/info/cookie-policy/).
+We may disclose details about the use of the Sites to other businesses e.g. to demonstrate patterns of use to advertisers and others. The information we pass on will be anonymised. We compile anonymous records of user trends which we may make use of ourselves or pass to our associated companies, including advertising networks. You can read more about this in our [Cookie Notice](https://www.inyourarea.co.uk/news/cookie-notice/).
 
 **3\. WHO WE SHARE YOUR PERSONAL INFORMATION WITH**
 
@@ -77,11 +77,11 @@ We may also share information to facilitate the sale of one or more parts of our
 
 **4\. COOKIES**
 
-We collect information about you automatically when you visit our Sites by using cookies (small text files) and other tracking technology. For more information about cookies, and other tracking technology including how to turn them off, please see our [Cookie Notice](https://web.archive.org/info/cookie-policy/).
+We collect information about you automatically when you visit our Sites by using cookies (small text files) and other tracking technology. For more information about cookies, and other tracking technology including how to turn them off, please see our [Cookie Notice](https://www.inyourarea.co.uk/news/cookie-notice/).
 
 **5\. TRANSFERS OUTSIDE OF EUROPE**
 
-We’re based in the UK and the Republic of Ireland but sometimes your personal information may be transferred outside the European Economic Area. If we do so we’ll make sure that suitable safeguards are in place, for example by using approved contractual agreements, unless certain exceptions apply.  We can provide more information about this on request.
+We're based in the UK and the Republic of Ireland but sometimes your personal information may be transferred outside the European Economic Area. If we do so we'll make sure that suitable safeguards are in place, for example by using approved contractual agreements, unless certain exceptions apply.  We can provide more information about this on request.
 
 **6\. WHAT ARE THE LEGAL GROUNDS FOR OUR PROCESSING OF YOUR PERSONAL INFORMATION (INCLUDING WHEN WE SHARE IT WITH OTHERS)?**
 
@@ -125,7 +125,7 @@ In general, we keep your personal information for as long as we need it for the 
 
 **8\. WHAT ARE YOUR RIGHTS UNDER DATA PROTECTION LAW?**
 
-The law gives you certain rights in respect of the information that we hold about you.  Below is a short overview of those rights. The website of the Information Commissioner’s Office ([http://www.ico.org.uk](http://www.ico.org.uk/)) has a wealth of useful information in respect of your rights over your personal data.
+The law gives you certain rights in respect of the information that we hold about you.  Below is a short overview of those rights. The website of the Information Commissioner's Office ([http://www.ico.org.uk](http://www.ico.org.uk/)) has a wealth of useful information in respect of your rights over your personal data.
 
 If you wish to exercise your rights, you can  write to us by email [dataprotection@reachplc.com](mailto:dataprotection@reachplc.com)  or by post to Reach plc, One Canada Square, London E14 5AP, for the attention of the legal department.
 
@@ -153,16 +153,18 @@ _**Your right to stop receiving direct marketing from us**_
 
 You have the right to require us to stop sending you direct marketing material (for example, promotional emails).  It can sometimes take a few days to action these requests.
 
-_**Your right to complain to the Information Commissioner’s Office (ICO)**_
+_**Your right to complain to the Information Commissioner's Office (ICO)**_
 
-You have the right to lodge a complaint about our handling of your personal data with the supervisory authority, which in the UK is the Information Commissioner’s Office. But before you do so, please do contact us first to give us a chance to put matters right, at [dataprotection@reachplc.com](mailto:dataprotection@reachplc.com)
+You have the right to lodge a complaint about our handling of your personal data with the supervisory authority, which in the UK is the Information Commissioner's Office. But before you do so, please do contact us first to give us a chance to put matters right, at [dataprotection@reachplc.com](mailto:dataprotection@reachplc.com)
 
 You can contact the ICO on 0303 123 1113.
 
 **9\. CHANGES TO THIS PRIVACY NOTICE**
 
-It’s likely that we’ll need to update this Privacy Notice from time to time.  Any changes to this Privacy Notice will be posted here and such changes will become effective as soon as they are posted. Your continued use of the relevant Site constitutes notice to you of all these changes.  
+It's likely that we'll need to update this Privacy Notice from time to time.  Any changes to this Privacy Notice will be posted here and such changes will become effective as soon as they are posted. Your continued use of the relevant Site constitutes notice to you of all these changes.  
 
 **10\. CONTACT US**
 
 If you have any questions about this privacy notice, or if you wish to exercise your rights you can contact us email at [dataprotection@reachplc.com](mailto:dataprotection@reachplc.com). Alternatively, you can write to the Legal Department, Reach plc, One Canada Square, London E14 5AP
+
+## See **news** and **info** near **you**
