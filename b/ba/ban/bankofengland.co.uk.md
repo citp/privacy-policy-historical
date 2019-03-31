@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bankofengland.co.uk privacy policy that was archived on 2018-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181224004813id_/http%3A//www.bankofengland.co.uk/legal/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bankofengland.co.uk privacy policy that was archived on 2019-04-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190401004606id_/https%3A//www.bankofengland.co.uk/legal/privacy) for the most accurate reproduction.*
 
 # Privacy and the Bank of England | Bank of England
 
@@ -44,8 +44,6 @@ As part of our official functions, and in the public interest, we regulate and s
 
 The majority of information we receive is about the firm’s business, such as how it is structured and how it operates, but some personal data about the firm’s employees and clients may also occasionally be required (such as names, professional information, financial information, addresses, opinions and, in some cases, detailed information about identity and fitness to act in certain roles). We receive this information from individuals, from firms or from third parties (for example, the Financial Conduct Authority).
 
-
-
   * ### Personal data forming part of data collections that inform policy making or regulation
 
 As part of our official functions, and in the public interest, we gather, analyse and publish data, which we use to inform our policy decisions and to supervise firms. 
@@ -56,11 +54,7 @@ These sources of information may be collected from the Financial Conduct Authori
 
 More information about our research and statistical work is available on our [Statistics pages](https://web.archive.org/statistics).
 
-
-
   * As part of our official functions, and in the public interest, when you exchange banknotes we ask for identification and other information to verify you are who you say you are, and to meet other legal and security obligations. More information is available on our [Banknotes pages](https://web.archive.org/banknotes). 
-
-
 
   * ### Our other functions as a central bank
 
@@ -68,35 +62,23 @@ Information we receive as part of our official functions as a central bank can i
 
 The Bank collects personal data about you if the bank or building society with which you have a loan participates in the Sterling Monetary Framework, the Funding for Lending Scheme and/or the Term Funding Scheme and intends to use a loan portfolio which contains your loan as security against Bank funding. We collect personal data under the contractual arrangements we have in place with banks and building societies to assess the eligibility of the loan portfolio as security. We ask your bank or building society to remove the personal data as far as possible. This means that, where possible, we use identifiers in place of your personal data (and that the Bank cannot identify you based solely on the information your bank or building society has provided to us).
 
-
-
   * For more information about how we use personal data when individuals visit our website, including how we use cookies, click [here](https://web.archive.org/legal/privacy-and-cookie-policy). This notice does not cover links to other websites or any interactions you have with third parties. We encourage you to read the privacy statements of all other websites you visit and third parties with whom you interact. 
-
-
 
   * We ask for photo identification for all visitors. If you do not provide it, you will not be able to enter the premises.  CCTV also operates on-site.  It is necessary to do this for the performance of a task carried out in the public interest or in the exercise of official authority of the Bank, and to further our legitimate interests in securing our premises, assets, staff and visitors. 
 
 If you visit the Bank of England Museum, you may receive separate privacy information.
 
-
-
   * We require information about education and professional background in our recruitment process. A separate privacy notice is provided to applicants on our [careers pages](https://web.archive.org/careers) and as part of the on-boarding process. 
-
-
 
   * ### Events, education and information
 
 We undertake a range of activities to improve public understanding of what we do. As part of our official functions in improving public understanding, we may collect personal data to arrange events or distribute materials. To attend some events we may collect identification or conduct security checks. We will process the personal data you choose to give us, which will usually include your name and a method of contacting you. Should you provide a form of identification, we will also process this personal data. 
-
-
 
   * ### Business and industry contacts
 
 We maintain networks of individuals across industries so that we can contact them to understand trends in the economy, and the impacts of regulatory decisions.  Some of our external contacts also speak at Bank events or act as advisers. Without maintaining these networks, we cannot perform tasks that are necessary in the public interest or in the exercise of official authority of the Bank.
 
 The types of personal data we process for this will usually be limited to individuals’ name, business contact information and opinions. We usually receive these details direct from individuals we engage with, or from publicly available sources. We use the information to communicate, arrange events, issue surveys and promote our activities. More information on how we gather market intelligence is available on our [Markets pages](https://web.archive.org/markets).
-
-
 
   * ### People who get in touch with us
 
@@ -196,7 +178,7 @@ Email: [data-protection@bankofengland.co.uk](mailto:data-protection@bankofengla
 
 The Bank will update this page with important changes, or otherwise update specific privacy notices relevant to how we process your data. This page was last updated in May 2018.
 
-This page was last updated 21 November 2018
+This page was last updated 22 January 2019
 
 ### We have placed cookies on your device to help make this website better
 
