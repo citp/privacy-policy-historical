@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the geebo.com privacy policy that was archived on 2018-01-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180121163715id_/https%3A//geebo.com/pages/view/id/2-privacy-policy-) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the geebo.com privacy policy that was archived on 2019-03-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190331031103id_/https%3A//geebo.com/pages/view/id/2-privacy-policy-) for the most accurate reproduction.*
 
 # Privacy Policy at Geebo
 
@@ -30,13 +30,19 @@ NOTICE: [Click here](http://www.ftc.gov/) for important information about safe s
 
 
 
-      Children
+    Children
 
-  * Children must always get permission from their parents before sending any information about themselves over the Internet, to Geebo or to anyone else.  We will not knowingly allow anyone under 13 to register with our site or to provide any other personally identifiable information. 
+  * Children must always get permission from their parents before sending any information about themselves over the Internet, to Geebo or to anyone else.  We will not knowingly allow anyone under 13 to register with our site or to provide any other personally identifiable information.
 
 
 
-**Information Sharing and Disclosure**
+    Personalized Campaign's Exclusion
+
+  * If you prefer not to be a part of Geebo's ongoing digital/marketing campaigns with advertising, you can go ahead and exercise your choice of opting out using the tool provided by the DAA or Digital Advertising Alliance in this link [here](http://optout.aboutads.info/).
+
+
+
+ **Information Sharing and Disclosure**
 
   * Geebo does not rent, sell, or share personal information about you with other people or nonaffiliated companies.
 
