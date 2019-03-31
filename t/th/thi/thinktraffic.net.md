@@ -1,33 +1,83 @@
-> *The following text is extracted and transformed from the thinktraffic.net privacy policy that was archived on 2017-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170516114304id_/https%3A//fizzle.co/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thinktraffic.net privacy policy that was archived on 2019-03-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190331034838id_/https%3A//fizzle.co/privacy) for the most accurate reproduction.*
 
-# Fizzle | Fizzle Privacy Policy — Fizzle
+# Fizzle Privacy Policy
 
-Like most website operators, Fizzle.co collects non-personally-identifying information of the sort that web browsers and servers typically make available, such as the browser type, language preference, referring site, and the date and time of each visitor request.
+This Privacy Policy describes how your personal information is collected, used, and shared when you visit or make a purchase from [https://fizzle.co](https://fizzle.co/) (the “Site”).
 
-Fizzle.co’s purpose in collecting non-personally identifying information is to better understand how Fizzle.co’s visitors use its website. From time to time, Fizzle.co may release non-personally-identifying information in the aggregate, e.g., by publishing a report on trends in the usage of its website.
+## PERSONAL INFORMATION WE COLLECT
 
-Fizzle.co also collects potentially personally-identifying information like Internet Protocol (IP) addresses. Fizzle.co does not use such information to identify its visitors, however, and does not disclose such information, other than under the same circumstances that it uses and discloses personally-identifying information, as described below.
+When you visit the Site, we automatically collect certain information about your device, including information about your web browser, IP address, time zone, and some of the cookies that are installed on your device. Additionally, as you browse the Site, we collect information about the individual web pages or products that you view, what websites or search terms referred you to the Site, and information about how you interact with the Site. We refer to this automatically-collected information as “Device Information.”
 
-### Gathering of Personally-Identifying Information
+We collect Device Information using the following technologies:
 
-Certain visitors to Fizzle.co’s websites choose to interact with Fizzle.co in ways that require Fizzle.co to gather personally-identifying information. The amount and type of information that Fizzle.co gathers depends on the nature of the interaction. For example, we ask visitors who use join as members to provide a username and email address. In each case, Fizzle.co collects such information only insofar as is necessary or appropriate to fulfill the purpose of the visitor’s interaction with Fizzle.co. Fizzle.co does not disclose personally-identifying information other than as described below. And visitors can always refuse to supply personally-identifying information, with the caveat that it may prevent them from engaging in certain website-related activities.
+  * “Cookies” are data files that are placed on your device or computer and often include an anonymous unique identifier. For more information about cookies, and how to disable cookies, visit http://www.allaboutcookies.org.
+  * “Log files” track actions occurring on the Site, and collect data including your IP address, browser type, Internet service provider, referring/exit pages, and date/time stamps.
+  * “Web beacons,” “tags,” and “pixels” are electronic files used to record information about how you browse the Site.
 
-### Aggregated Statistics
 
-Fizzle.co may collect statistics about the behavior of visitors to its websites. For instance, Fizzle.co may reveal how many downloads a particular video received. However, Fizzle.co does not disclose personally-identifying information other than as described below.
 
-### Protection of Certain Personally-Identifying Information
+Additionally when you make a purchase or attempt to make a purchase through the Site, we collect certain information from you, including your name, billing address, shipping address, payment information (including credit card numbers, PayPal details and/or ACH information), email address, and phone number. We refer to this information as “Order Information.”
 
-Fizzle.co discloses potentially personally-identifying and personally-identifying information only to those of its employees, contractors, and affiliated organizations that (i) need to know that information in order to process it on Fizzle.co’s behalf or to provide services available at Fizzle.co’s websites, and (ii) that have agreed not to disclose it to others. Some of those employees, contractors and affiliated organizations may be located outside of your home country; by using Fizzle.co’s websites, you consent to the transfer of such information to them. Fizzle.co will not rent or sell potentially personally-identifying and personally-identifying information to anyone. Other than to its employees, contractors, and affiliated organizations, as described above, Fizzle.co discloses potentially personally-identifying and personally-identifying information only when required to do so by law, or when Fizzle.co believes in good faith that disclosure is reasonably necessary to protect the property or rights of Fizzle.co, third parties, or the public at large. If you are a registered user of a Fizzle.co website and have supplied your email address, Fizzle.co may occasionally send you an email to tell you about new features, solicit your feedback, or just keep you up to date with what’s going on with Fizzle.co and our products. We primarily use our blog to communicate this type of information, so we expect to keep this type of email to a minimum. If you send us a request (for example via a support email or via one of our feedback mechanisms), we reserve the right to publish it in order to help us clarify or respond to your request or to help us support other users. Fizzle.co takes all measures reasonably necessary to protect against the unauthorized access, use, alteration, or destruction of potentially personally-identifying and personally-identifying information.
+When we talk about “Personal Information” in this Privacy Policy, we are talking both about Device Information and Order Information.
 
-### Cookies
+## HOW DO WE USE YOUR PERSONAL INFORMATION?
 
-A cookie is a string of information that a website stores on a visitor’s computer, and that the visitor’s browser provides to the website each time the visitor returns. Fizzle.co uses cookies to help Fizzle.co identify and track visitors, their usage of Fizzle.co website, and their website access preferences. Fizzle.co visitors who do not wish to have cookies placed on their computers should set their browsers to refuse cookies before using Fizzle.co’s websites, with the drawback that certain features of Fizzle.co’s websites may not function properly without the aid of cookies.
+We use the Order Information that we collect generally to fulfill any orders placed through the Site (including processing your payment information, arranging for shipping, and providing you with invoices and/or order confirmations). Additionally, we use this Order Information to:
 
-### Privacy Policy Changes
+  * Communicate with you;
+  * Screen our orders for potential risk or fraud; and
+  * When in line with the preferences you have shared with us, provide you with information or advertising relating to our products or services.
 
-Although most changes are likely to be minor, Fizzle.co may change its Privacy Policy from time to time, and in Fizzle.co’s sole discretion. Fizzle.co encourages visitors to frequently check this page for any changes to its Privacy Policy. Your continued use of this site after any change in this Privacy Policy will constitute your acceptance of such change.
 
-Privacy policy adapted from [wordpress.org](http://wordpress.org/about/privacy/).
 
-[](http://creativecommons.org/licenses/by-sa/2.5/)
+We use the Device Information that we collect to help us screen for potential risk and fraud (in particular, your IP address), and more generally to improve and optimize our Site (for example, by generating analytics about how our customers browse and interact with the Site, and to assess the success of our marketing and advertising campaigns).
+
+## SHARING YOUR PERSONAL INFORMATION
+
+We share your Personal Information with third parties to help us use your Personal Information, as described above. For example, we use WordPress to power our website. We also use Google Analytics to help us understand how our customers use the Site – you can read more about how Google uses your Personal Information here: https://www.google.com/intl/en/policies/privacy/. You can also opt-out of Google Analytics here: https://tools.google.com/dlpage/gaoptout.
+
+Finally, we may also share your Personal Information to comply with applicable laws and regulations, to respond to a subpoena, search warrant or other lawful request for information we receive, or to otherwise protect our rights.
+
+## BEHAVIOURAL ADVERTISING
+
+As described above, we may use your Personal Information to provide you with targeted advertisements or marketing communications we believe may be of interest to you. For more information about how targeted advertising works, you can visit the Network Advertising Initiative’s (“NAI”) educational page at http://www.networkadvertising.org/understanding-online-advertising/how-does-it-work.
+
+You can opt out of targeted advertising by visiting the following URLs:
+
+  * FACEBOOK - https://www.facebook.com/settings/?tab=ads
+  * GOOGLE - https://www.google.com/settings/ads/anonymous
+  * BING - https://advertise.bingads.microsoft.com/en-us/resources/policies/personalized-ads
+
+
+
+Additionally, you can opt out of some of these services by visiting the Digital Advertising Alliance’s opt-out portal at: http://optout.aboutads.info/.
+
+## DO NOT TRACK
+
+Please note that we do not alter our Site’s data collection and use practices when we see a Do Not Track signal from your browser.
+
+## YOUR RIGHTS
+
+If you are a European resident, you have the right to access personal information we hold about you and to ask that your personal information be corrected, updated, or deleted. If you would like to exercise this right, please contact us through the contact information below.
+
+Additionally, if you are a European resident we note that we are processing your information in order to fulfill contracts we might have with you (for example if you make an order through the Site), or otherwise to pursue our legitimate business interests listed above. Additionally, please note that your information will be transferred outside of Europe, including to Canada and the United States.
+
+## DATA RETENTION
+
+When you place an order through the Site, we will maintain your Order Information for our records unless and until you ask us to delete this information.
+
+## MINORS
+
+The Site is not intended for individuals under the age of 18.
+
+## CHANGES
+
+We may update this privacy policy from time to time in order to reflect, for example, changes to our practices or for other operational, legal or regulatory reasons.
+
+## CONTACT US
+
+For more information about our privacy practices, if you have questions, or if you would like to make a complaint, please contact us by e-mail at support@fizzle.co or by mail using the details provided below:
+
+PO Box 4120 #59347, Portland, OR, 97208-4120, United States
+
+* * *
