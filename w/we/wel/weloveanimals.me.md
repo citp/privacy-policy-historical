@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the weloveanimals.me privacy policy that was archived on 2016-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161120093544id_/http%3A//weloveanimals.me/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the weloveanimals.me privacy policy that was archived on 2019-03-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190331042250id_/https%3A//weloveanimals.me/privacy-policy-old) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy-old - weloveanimals.me
 
 ### Privacy Policy for www.weloveanimals.me
 
-If you require any more information or have any questions about our privacy policy, please feel free to contact us by email at info@weloveanimals.me
+If you require any more information or have any questions about our privacy policy, please feel free to contact us by email at [[email protected]](https://weloveanimals.me/cdn-cgi/l/email-protection)
 
 At www.weloveanimals.me the privacy of our visitors is of extreme importance to us. This privacy policy document outlines the types of personal information is received and collected by www.weloveanimals.meand how it is used.
 
