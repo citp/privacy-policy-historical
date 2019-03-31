@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the uhn.ca privacy policy that was archived on 2018-10-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181022065303id_/https%3A//www.uhn.ca/PatientsFamilies/Patient_Safety_Advocacy/Privacy/Pages/website_privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the uhn.ca privacy policy that was archived on 2019-03-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190331195215id_/https%3A//www.uhn.ca/PatientsFamilies/Patient_Safety_Advocacy/Privacy/Pages/website_privacy.aspx) for the most accurate reproduction.*
 
 # Website Privacy
 
