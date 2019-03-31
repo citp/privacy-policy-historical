@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 3balls.com privacy policy that was archived on 2018-08-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180820104011id_/https%3A//www.3balls.com/help/info/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 3balls.com privacy policy that was archived on 2019-03-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190331141132id_/https%3A//www.3balls.com/help/info/privacy) for the most accurate reproduction.*
 
 # Help Desk | 3balls.com
 
