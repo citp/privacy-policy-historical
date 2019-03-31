@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the worldwildlife.org privacy policy that was archived on 2018-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181230184540id_/https%3A//www.worldwildlife.org/pages/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the worldwildlife.org privacy policy that was archived on 2019-03-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190331180046id_/https%3A//www.worldwildlife.org/pages/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Pages | WWF
 
 ## World Wildlife Fund, Inc. Privacy Policy
 
-_Last Modified: November 28,  2018_
+_Last Modified: March 13, 2019_
 
 World Wildlife Fund, Inc. (“WWF”) respects privacy, and we know that many care about how information is used and shared. This Privacy Policy applies to the WWF website www.worldwildlife.org, to all associated subdomains, online services, and mobile applications, and to those sites listed in the paragraph below labeled “Additional Websites Subject to the Privacy Policy” (collectively, the “Sites”). By visiting any of the Sites, you are accepting the practices described in this Privacy Policy. If you disagree with any of the terms herein, please immediately discontinue use of the Sites.
 
@@ -148,6 +148,15 @@ This Privacy Policy shall apply to the following websites and all associated sub
 
 
   * www.climatelandchallenge.org
+
+
+  * www.hydrosheds.org
+
+
+  * www.endwildlifetraffickingonline.org
+
+
+  * www.thirdpolegeolab.org
 
 
 
