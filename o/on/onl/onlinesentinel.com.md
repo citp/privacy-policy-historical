@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the onlinesentinel.com privacy policy that was archived on 2018-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181212080906id_/https%3A//www.centralmaine.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the onlinesentinel.com privacy policy that was archived on 2019-03-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190331055913id_/https%3A//www.centralmaine.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Kennebec Journal and Morning Sentinel
 
