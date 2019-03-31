@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the westgateresorts.com privacy policy that was archived on 2018-08-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180820035737id_/https%3A//www.westgateresorts.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the westgateresorts.com privacy policy that was archived on 2019-03-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190331052428id_/https%3A//www.westgateresorts.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Westgate Resorts | Westgate Resorts
 
@@ -165,6 +165,8 @@ Within Westgate Resorts are numerous other Westgate Web sites that are accessibl
   * http://westgatereservations.com
 
   * http://westgateevents.com
+
+  * westgatelasvegas.com 
 
 
 
