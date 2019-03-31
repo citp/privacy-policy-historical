@@ -1,174 +1,157 @@
-> *The following text is extracted and transformed from the brightonseo.com privacy policy that was archived on 2014-04-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140423002711id_/http%3A//www.brightonseo.com/cookie-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the brightonseo.com privacy policy that was archived on 2019-03-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190331155642id_/https%3A//www.brightonseo.com/privacy-policy) for the most accurate reproduction.*
 
-# Cookie and Privacy Policy - BrightonSEO - BrightonSEO
+# Privacy Policy - BrightonSEO
 
-April 2012  
-[Think@SiteVisibility.co.uk](mailto:Think@SiteVisibility.co.uk "Email Think@SiteVisibility.co.uk")
+### **INTRODUCTION**
 
-This policy covers the data collected by the company, SiteVisibility, how it is used, how it is protected, and the users’ ability to control the collection and use of their personal data.
+This privacy notice provides you with details of how we collect and process your personal data through your use of our site  **https://www.brightonseo.com/**
 
-SiteVisibility (AI Digital Ltd) is registered with the Office of the Information Commissioner Data Protection Act 2003. Our registration number is Z1082412.
+By providing us with your data, you warrant to us that you are over 13 years of age.
 
-SiteVisibility collects anonymous information about the visitors to our website for analytics purposes, and personal information from those users who complete the contact form, or sometimes those who provide information over the phone when calling with an inquiry.
+ **Rough Agenda Limited**  is the data controller and we are responsible for your personal data (referred to as “we”, “us” or “our” in this privacy notice).
 
-The information collected from visitors to the website is anonymous and is used for tracking purposes to determine, for example, the number of pages visited in the session, the length of time spent on each page, and the frequency of visits to the website.
+###  **Contact Details**
 
-Once a visitor completes the contact form, participates in a competition, accesses information behind a ‘wall’ (where the user must provide their personal details such as an email address) or contacts the company by email or phone, any data coming from that exchange will be recorded and kept in our database.
+Our full details are:
 
-The collected information can include your name, company and job title, address and contact details.
+ **Full name of legal entity** : Rough Agenda Limited
 
-We also collect information about people attending our events, such as email address, job title and the name of your employer.
+ **Email address:** [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#39515c40794b564c5e51585e5c575d58175a5654)
 
-## How SiteVisibility/BrightonSEO Uses the Collected Information
+ **Postal address:** King Place Suite, 3 King Place, Brighton, BN1 1GA
 
-The information collected anonymously for the purposes of Google Analytics enables the company to improve the user experience and better understand its users. The information we collect is used to generate reports to make the site more user friendly and to determine which types of content are most appealing for our users.
+ **Telephone number:  [01273](tel:01273 805525)**[ 805525](tel:01273 805525)
 
-## Will The Company Contact You?
+It is very important that the information we hold about you is accurate and up to date. Please let us know if at any time your personal information changes by emailing us at **[[email protected]](https://web.archive.org/cdn-cgi/l/email-protection)** OR by clicking the link to update your preferences in any marketing email you recieve from us.
 
-By completing any of the contact forms and submitting your information, you enable the company to contact you about any information we think you might be interested in, such as a monthly newsletter, new services, or training events.
+###  **WHAT DATA DO WE COLLECT ABOUT YOU, FOR WHAT PURPOSE AND ON WHAT GROUND WE PROCESS IT**
 
-## Sharing Your Information
+Personal data means any information capable of identifying an individual. It does not include anonymised data.
 
-We will not sell your information, trade it with any other company (other than those within our Group), or use it for any other purpose other than to communicate to you offers about the Company’s own service offerings, or closely related events or opportunities we would reasonably consider you to have an interest in based on your initial or any subsequent requests.
+We may process the following categories of personal data about you:
 
-Our "group of companies" are "BrightonSEO and clockworkTalent"
+  *  **Communication Data** that includes any communication that you send to us whether that be through the contact form on our website, through email, text, social media messaging, social media posting or any other communication that you send us. We process this data for the purposes of communicating with you, for record keeping and for the establishment, pursuance or defence of legal claims. Our lawful ground for this processing is our legitimate interests which in this case are to reply to communications sent to us, to keep records and to establish, pursue or defend legal claims.
 
-## How Long Will We Keep Your Data
 
-We will hold your personal information on our systems for as long as is necessary for the relevant activity, or as long as is set out in any relevant contract you hold with the company. The Company will keep your data in the database unless you request otherwise.
+  *  **Customer Data** that includes data relating to any purchases of goods and/or services such as your name, title, billing address, delivery address email address, phone number, contact details, purchase details and your card details. We process this data to supply the goods and/or services you have purchased and to keep records of such transactions. Our lawful ground for this processing is the performance of a contract between you and us and/or taking steps at your request to enter into such a contract.
 
-## Can You Make a Request For the Data the Company Holds About You?
 
-If you would like to know what information the company holds about you, you can make a request to info@sitevisibility.com to have the information shared with you.
+  *  **User Data** that includes data about how you use our website and any online services together with any data that you post for publication on our website or through other online services. We process this data to operate our website and ensure relevant content is provided to you, to ensure the security of our website, to maintain back- ups of our website and/or databases and to enable publication and administration of our website, other online services and business. Our lawful ground for this processing is our legitimate interests which in this case are to enable us to properly administer our website and our business.
 
-You can also apply in writing:
 
-SiteVisibility  
-Kingslake House  
-1-5 Union Street  
-Brighton, East Sussex  
-England  
-BN3 1RN
+  *  **Technical Data** that includes data about your use of our website and online services such as your IP address, your login data, details about your browser, length of visit to pages on our website, page views and navigation paths, details about the number of times you use our website, time zone settings and other technology on the devices you use to access our website. The source of this data is from our analytics tracking system. We process this data to analyse your use of our website and other online services, to administer and protect our business and website, to deliver relevant website content and advertisements to you and to understand the effectiveness of our advertising. Our lawful ground for this processing is our legitimate interests which in this case are to enable us to properly administer our website and our business and to grow our business and to decide our marketing strategy.
 
-In May 2011, the UK Government passed new legislation is regards to the use of Cookies. The following section explains what cookies are, which ones are collected by SiteVisibility and how they are used on SiteVisibility’s website.
 
-## How We Collect Information
+  *  **Marketing Data** that includes data about your preferences in receiving marketing from us and our third parties and your communication preferences. We process this data to enable you to partake in our promotions such as competitions, prize draws and free give-aways, to deliver relevant website content and advertisements to you and measure or understand the effectiveness of this advertising. Our lawful ground for this processing is our legitimate interests which in this case are to study how customers use our products/services, to develop them, to grow our business and to decide our marketing strategy.
 
-Cookies are small text files that are placed on your computer by the websites that you visit. They are commonly used in order to make websites work by tracking goods that you have placed in a basket, or work more efficiently by remembering your login details, as well as to provide information about the sites usage to the owners of the site.
 
-## Types of Cookies
+  * We may use Customer Data, User Data, Technical Data and Marketing Data to deliver relevant website content and advertisements to you (including Facebook adverts or other display advertisements) and to measure or understand the effectiveness of the advertising we serve you. Our lawful ground for this processing is legitimate interests which is to grow our business. We may also use such data to send other marketing communications to you. Our lawful ground for this processing is either consent or legitimate interests (namely to grow our business). **[NOTE SEE SECTION 4 BELOW]**
 
-There are three types of cookies dropped and collected by websites. With some exceptions (i.e.  websites that fundamentally require cookies in order for website functionality – see below) from 26th May 2012, all cookies must be consented to by a site’s users.
 
-**Cookie Type**
 
-| 
+###  **Sensitive Data**
 
-**Description**  
-  
----|---  
-  
-Moderately intrusive
+We do not collect any Sensitive Data about you. Sensitive data refers to data that includes details about your race or ethnicity, religious or philosophical beliefs, sex life, sexual orientation, political opinions, trade union membership, information about your health and genetic and biometric data. We do not collect any information about criminal convictions and offences.
 
-| 
+Where we are required to collect personal data by law, or under the terms of the contract between us and you do not provide us with that data when requested, we may not be able to perform the contract (for example, to deliver goods or services to you). If you don’t provide us with the requested data, we may have to cancel a product or service you have ordered but if we do, we will notify you at the time.
 
-Embedded third-party content and social
+We will only use your personal data for a purpose it was collected for or a reasonably compatible purpose if necessary. For more information on this please email us at [**[email  protected]**](https://web.archive.org/cdn-cgi/l/email-protection#81e9e4f8c1f3eef4e6e9e0e6e4efe5e0afe2eeec). In case we need to use your details for an unrelated new purpose we will let you know and explain the legal grounds for processing.
 
-media-plugins
+We may process your personal data without your knowledge or consent where this is required or permitted by law.
 
-Advertising campaign optimisation  
-  
-Minimally intrusive
+###  **HOW WE COLLECT YOUR PERSONAL DATA  **
 
-| 
+We may collect data about you by you providing the data directly to us (for example by filling in forms on our site or by sending us emails). We may automatically collect certain data from you as you use our website by using cookies and similar technologies. Please see our cookie policy for more details about this.
 
-Web analytics / metrics
+We may receive data from third parties such as analytics providers such as Google based outside the EU, advertising networks such as Facebook based outside the EU, such as search information providers such as Google based outside the EU, providers of technical, payment and delivery services, such as data brokers or aggregators.
 
-Personalised content / interface  
-  
-Necessary for Website Functionality
+We may also receive data from publicly availably sources such as Companies House and the Electoral Register based inside the EU.
 
-(Exempt from changes to privacy regulations)
+We will also collect personal data when you register to attend an event.
 
-| 
+###  **MARKETING COMMUNICATIONS  **
 
-Stop multiple form submissions
+Our lawful ground of processing your personal data to send you marketing communications is either your consent or our legitimate interests (namely to grow our business).
 
-Load balancing
+Under the Privacy and Electronic Communications Regulations, we may send you marketing communications from us if (i) you made a purchase or asked for information from us about our goods or services or (ii) you agreed to receive marketing communications and in each case you have not opted out of receiving such communications since. Under these regulations, if you are a limited company, we may send you marketing emails without your consent. However you can still opt out of receiving marketing emails from us at any time.
 
-Transaction specific  
-  
-SiteVisibility collects the following anonymous cookies for tracking purposes.
+Before we share your personal data with any third party for their own marketing purposes we will get your express consent.
 
-**Name**
+You can ask us or third parties to stop sending you marketing messages at any time by following the opt-out links on any marketing message sent to you OR by emailing us at [**[email  protected]**](https://web.archive.org/cdn-cgi/l/email-protection#87efe2fec7f5e8f2e0efe6e0e2e9e3e6a9e4e8ea) at any time.
 
-| 
+If you opt out of receiving marketing communications this opt-out does not apply to personal data provided as a result of other transactions, such as purchases, warranty registrations etc.
 
-**Description**
+###  **DISCLOSURES OF YOUR PERSONAL DATA**
 
-| 
+We may have to share your personal data with the parties set out below:
 
-**Expiration**  
-  
----|---|---  
-__utma | This cookie is typically written to the browser upon the first visit to your site  _from that web browser_. If the cookie has been deleted by the browser operator, and the browser subsequently visits your site, a new __utma cookie is written with a different unique ID. This cookie is used to determine unique visitors to your site and it is updated with each page view. Additionally, this cookie is provided with a unique ID that Google Analytics uses to ensure both the validity and accessibility of the cookie as an extra security measure. | 2 years from set/update.  
-__utmb | This cookie is used to establish and continue a user session with your site. When a user views a page on your site, the Google Analytics code attempts to update this cookie. If it does not find the cookie, a new one is written and a new session is established. Each time a user visits a different page on your site, this cookie is updated to expire in 30 minutes, thus continuing a single session for as long as user activity continues within 30-minute intervals. This cookie expires when a user pauses on a page on your site for longer than 30 minutes. You can modify the default length of a user session with the [_setSessionCookieTimeout()](https://developers.google.com/analytics/devguides/collection/gajs/methods/gaJSApiBasicConfiguration#_gat.GA_Tracker_._setSessionCookieTimeout) method. | 30 minutes from set/update.  
-__utmc | This cookie is no longer used by the ga.js tracking code to determine session status.Historically, this cookie operated in conjunction with the __utmb cookie to determine whether or not to establish a new session for the user. For backwards compatibility purposes with sites still using the urchin.js tracking code, this cookie will continue to be written and will expire when the user exits the browser. However, if you are debugging your site tracking and you use the ga.js tracking code, you should not interpret the existence of this cookie in relation to a new or expired session. | Not set.  
-__utmz | This cookie stores the type of referral used by the visitor to reach your site, whether via a direct method, a referring link, a website search, or a campaign such as an ad or an email link. It is used to calculate search engine traffic, ad campaigns and page navigation within your own site. The cookie is updated with each page view to your site. | 6 months from set/update.  
-  
-## WordPress Cookies
+  * Other companies in our group who provide services to us.
+  * Service providers who provide IT and system administration services.
+  * Professional advisers including lawyers, bankers, auditors and insurers
+  * Government bodies that require us to report processing activities.
+  * Sponsors and Exhibitors at our events.
+  * Third parties to whom we sell, transfer, or merge parts of our business or our assets.
 
-WordPress websites also collect cookies for commenters. As the SiteVisibility website is built using WordPress, these cookies apply to our users.
 
-When visitors comment on the SiteVisibility blog, they will have cookies stored on their computer. This is purely for convenience, so that the visitor will not be required to re-type all their information again when they want to leave another comment in the future.
 
-Three cookies are set for commenters:
+We require all third parties to whom we transfer your data to respect the security of your personal data and to treat it in accordance with the law. We only allow such third parties to process your personal data for specified purposes and in accordance with our instructions.
 
-comment_author
+###  **INTERNATIONAL TRANSFERS**
 
-comment_author_email
+Countries outside of the European Economic Area ( **EEA** ) do not always offer the same levels of protection to your personal data, so European law has prohibited transfers of personal data outside of the EEA unless the transfer meets certain criteria.
 
-comment_author_url
+Many of our third parties service providers are based outside the European Economic Area ( **EEA** ) so their processing of your personal data will involve a transfer of data outside the EEA.
 
-The commenter cookies are set to expire a little less than one year from the time they’re set.
+Whenever we transfer your personal data out of the EEA, we do our best to ensure a similar degree of security of data by ensuring at least one of the following safeguards is in place:
 
-## Call Beacon (AdInsight) Cookies
+  * We will only transfer your personal data to countries that the European Commission have approved as providing an adequate level of protection for personal data by; or
+  * Where we use certain service providers, we may use specific contracts or codes of conduct or certification mechanisms approved by the European Commission which give personal data the same protection it has in Europe; or
+  * If we use US-based providers that are part of EU-US Privacy Shield, we may transfer data to them, as they have equivalent safeguards in place.
 
-AdInsight is a phone call analytics tool, used by companies to understand the customer interaction between the website and calling the company. Three cookies are used by AdInsight to help demonstrate this journey so the business can improve their customer experience.
 
-**Name**
 
-| 
+If none of the above safeguards is available, we may request your explicit consent to the specific transfer. You will have the right to withdraw this consent at any time.
 
-**Description**
+###  **DATA SECURITY**
 
-| 
+We have put in place security measures to prevent your personal data from being accidentally lost, used, altered, disclosed, or accessed without authorisation. We also allow access to your personal data only to those employees and partners who have a business need to know such data. They will only process your personal data on our instructions and they must keep it confidential.
 
-**Expiration**  
-  
----|---|---  
-adiV | The adiV cookie contains an identifier which is used by AdInsight to track a visitor over time. This allows AdInsight to show multiple visits made by a customer over time from the same browser. | This cookie is set to expire 1 year after the visitor leaves the website.  
-adiVi | The adiVi cookie contains an identifier which is used by AdInsight to help track a visitor’s path while they are on the website. | This cookie is set to expire 30 minutes after the visitor leaves the website.  
-adiLP | The adiLP cookie is used to help track visitors who have multiple tabs open in the same browser to prevent errors in tracking. |   
-  
-## Third Party Cookies
+We have procedures in place to deal with any suspected personal data breach and will notify you and any applicable regulator of a breach if we are legally required to.
 
-Users of the site who wish to share SiteVisibility’s content socially using Facebook, Twitter, or Google+ (the platforms which are currently enabled on the website to allow this function) may have cookies stored on their computers from these third party websites.
+###  **DATA RETENTION**
 
-Cookies are collected from third party sites so that you can be logged in to your account on their site and share our content simply and easily.
+We will only retain your personal data for as long as necessary to fulfil the purposes we collected it for, including for the purposes of satisfying any legal, accounting, or reporting requirements.
 
-For more information on the cookie policies of these third party sites, please visit their websites. You will be able to control the way cookies are used when you are signed into your accounts on these sites through the privacy settings they have made available to you.
+When deciding what the correct time is to keep the data for we look at its amount, nature and sensitivity, potential risk of harm from unauthorised use or disclosure, the processing purposes, if these can be achieved by other means and legal requirements.
 
-Facebook Privacy Policy (<https://www.facebook.com/about/privacy/other>)
+For tax purposes the law requires us to keep basic information about our customers (including Contact, Identity, Financial and Transaction Data) for six years after they stop being customers.
 
-Twitter Privacy Policy (<https://twitter.com/privacy>)
+In some circumstances we may anonymise your personal data for research or statistical purposes in which case we may use this information indefinitely without further notice to you.
 
-Google+ Privacy Policy (<http://www.google.co.uk/intl/en/policies/privacy/>)
+###  **YOUR LEGAL RIGHTS**
 
-If you would like to prevent SiteVisibility from collecting cookies when you visit our site, please update your privacy settings in your browser. You can control the kinds of cookies you accept there.
+Under data protection laws you have rights in relation to your personal data that include the right to request access, correction, erasure, restriction, transfer, to object to processing, to portability of data and (where the lawful ground of processing is consent) to withdraw consent.
 
-<http://www.google.co.uk/goodtoknow/manage-data/>
+You can see more about these rights at:
 
-<http://www.mozilla.org/en-US/privacy/>
+<https://ico.org.uk/for-organisations/guide-to-the-general-data-protection-regulation-gdpr/individual-rights/>
 
-<http://privacy.microsoft.com/en-gb/default.mspx>
+If you wish to exercise any of the rights set out above, please email us at **[[email  protected]](https://web.archive.org/cdn-cgi/l/email-protection#4e262b370e3c213b29262f292b202a2f602d2123) **.
+
+You will not have to pay a fee to access your personal data (or to exercise any of the other rights). However, we may charge a reasonable fee if your request is clearly unfounded, repetitive or excessive or refuse to comply with your request in these circumstances.
+
+We may need to request specific information from you to help us confirm your identity and ensure your right to access your personal data (or to exercise any of your other rights). This is a security measure to ensure that personal data is not disclosed to any person who has no right to receive it. We may also contact you to ask you for further information in relation to your request to speed up our response.
+
+We try to respond to all legitimate requests within one month. Occasionally it may take us longer than a month if your request is particularly complex or you have made a number of requests. In this case, we will notify you.
+
+If you are not happy with any aspect of how we collect and use your data, you have the right to complain to the Information Commissioner’s Office (ICO), the UK supervisory authority for data protection issues ([www.ico.org.uk](https://www.ico.org.uk/)). We should be grateful if you would contact us first if you do have a complaint so that we can try to resolve it for you.
+
+###  **THIRD-PARTY LINKS**
+
+This website may include links to third-party websites, plug-ins and applications. Clicking on those links or enabling those connections may allow third parties to collect or share data about you. We do not control these third-party websites and are not responsible for their privacy statements. When you leave our website, we encourage you to read the privacy notice of every website you visit
+
+###  **COOKIES**
+
+You can set your browser to refuse all or some browser cookies, or to alert you when websites set or access cookies. If you disable or refuse cookies, please note that some parts of this website may become inaccessible or not function properly. For more information about the cookies we use, please see our cookie policy,
+
+DoubleClick: We use Google Adwords & Google Analytics remarketing codes to log when users view specific pages or take specific actions on a website. This allows us to provide targeted advertising in the future. If you do not wish to receive this type of advertising from us in the future you can opt out using the DoubleClick opt-out page or the Network Advertising Initiative opt-out page.
