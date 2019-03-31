@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the libertylondon.com privacy policy that was archived on 2018-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180528231546id_/http%3A//www.libertylondon.com/uk/information/shopping-online/privacy-policy-and-cookies.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the libertylondon.com privacy policy that was archived on 2019-03-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190331175318id_/https%3A//www.libertylondon.com/uk/information/legal/privacy-policy-and-cookies.html) for the most accurate reproduction.*
 
 # Privacy Policy & Cookies | Liberty London
 
@@ -129,7 +129,7 @@ These cookies allow users to share what they’ve been doing on the website on s
 
 Google Analytics is a web analysis service provided by Google, Inc. We use Google Analytics to monitor how visitors use our website, to compile reports and to help us improve the website. Please see Google’s privacy policy [here](https://policies.google.com/privacy?hl=en-GB&gl=uk) for further information on the data Google collects and how it is processed. If you prefer to not have data reported by Google Analytics, you can install the Google Analytics Opt-Out Browser Add-On by following the instructions [here](https://tools.google.com/dlpage/gaoptout).
 
-You may opt out of Google's use of tracking technologies by visiting the Google advertising opt-out page [here](https://policies.google.com/technologies/ads). For more information on opting out of third party vendors' use of cookies please visit Your Online Choices [here](http://www.youronlinechoices.com/uk/).
+You may opt out of Google's use of tracking technologies by visiting the Google advertising opt-out page [here](https://policies.google.com/technologies/ads). For more information on opting out of third party vendors' use of cookies please visit Your Online Choices [here](https://www.youronlinechoices.com/uk/).
 
 ## Facebook Ads
 
