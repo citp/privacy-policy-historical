@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the freeyork.org privacy policy that was archived on 2018-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181230193953id_/https%3A//freeyork.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freeyork.org privacy policy that was archived on 2019-03-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190331185905id_/https%3A//freeyork.org/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy – FREEYORK
+# Privacy Policy
 
 This Privacy Policy governs the manner in which FREEYORK collects, uses, maintains and discloses information collected from users (each, a “User”) of the https://freeyork.org website (“Site”). This privacy policy applies to the Site and all products and services offered by FREEYORK.
 
