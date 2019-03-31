@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the shadowverse.com privacy policy that was archived on 2018-10-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181011064024id_/https%3A//shadowverse.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shadowverse.com privacy policy that was archived on 2019-03-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190331040649id_/https%3A//shadowverse.com/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy | Shadowverse
 
@@ -170,4 +170,4 @@ Title: Shadowverse
 Genre: Strategic Multiplayer Digital Card Game  
 Price: Free-to-play (Optional in-app purchases)  
 Minimum Requirements:  
-iOS 9.0 / Android / Mac OS X 10.9 / Windows 7/8.1/10 (32-bit or 64-bit) 
+iOS 9.0 / Android 4.4 / Mac OS X 10.11 / Windows 7/8.1/10 (32-bit or 64-bit) 
