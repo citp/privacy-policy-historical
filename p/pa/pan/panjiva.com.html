@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the panjiva.com privacy policy that was archived on 2018-10-05.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20181005054736id_/https%3A//panjiva.com/info/privacy_policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the panjiva.com privacy policy that was archived on 2019-03-31.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20190331121726id_/https%3A//panjiva.com/info/privacy_policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" dir="ltr" lang="en" xmlns:fb="https://www.facebook.com/2008/fbml" xmlns:og="http://ogp.me/ns#"><!--<![endif]--><head>
 
@@ -23,7 +23,7 @@
 <meta name="robots" content="all">
 <meta http-equiv="imagetoolbar" content="false">
 <meta name="MSSmartTagsPreventParsing" content="true">
-<meta name="Copyright" content="© 2018 Panjiva, Inc.">
+<meta name="Copyright" content="© 2019 Panjiva, Inc.">
 
 <link rel="shortcut icon" href="https://global-assets.panjiva.com/images/favicon.c71d6d4ad2afb0d5.ico?c71d6d4ad2afb0d5">
 
@@ -50,7 +50,7 @@
     ga('create', 'UA-466277-10', 'auto', {'name': 'bounceTracker', 'cookieDomain': '.panjiva.com', 'legacyCookieDomain': '.panjiva.com' });
 
   ga('pageTracker.set', 'dimension1', 'log_out');
-ga('pageTracker.set', 'dimension2', '------');
+ga('pageTracker.set', 'dimension2', '------psp');
 //]]>
 </script>  
 <script type="text/javascript">
@@ -84,8 +84,8 @@ ga('pageTracker.set', 'dimension2', '------');
   <title>Privacy Policy — Panjiva</title>
   <meta property="og:title" content="Privacy Policy — Panjiva">
   <!-- SL:end:notranslate -->
-    <link href="https://global-assets.panjiva.com/stylesheets/everest_d687c7c20626a982.css?d687c7c20626a982" media="screen" rel="stylesheet" type="text/css">    <link href="https://global-assets.panjiva.com/stylesheets/sidebar_79cf48ccda396001.css?79cf48ccda396001" media="screen" rel="stylesheet" type="text/css">    
-  <link href="https://global-assets.panjiva.com/stylesheets/aboutpanjiva_83947c022acc3309.css?83947c022acc3309" media="screen" rel="stylesheet" type="text/css">
+    <link href="https://global-assets.panjiva.com/stylesheets/everest_2a6a4b5d7499fb4f.css?2a6a4b5d7499fb4f" media="screen" rel="stylesheet" type="text/css">    <link href="https://global-assets.panjiva.com/stylesheets/sidebar_d695ea24d5f5698f.css?d695ea24d5f5698f" media="screen" rel="stylesheet" type="text/css">    
+  <link href="https://global-assets.panjiva.com/stylesheets/aboutpanjiva_b444a80fd4a2dcc1.css?b444a80fd4a2dcc1" media="screen" rel="stylesheet" type="text/css">
     
   
 
@@ -99,14 +99,22 @@ window.onbeforeunload = function() {
 globalInDevelopment = false;
 //]]>
 </script>
-
-    <!--[if lt IE 9]>
-      <script type="text/javascript">
+  <!--[if IE]>
+    <script type="text/javascript">
 //<![CDATA[
-window.location.replace('https://panjiva.com/info/deprecated_browser?after=https%3A%2F%2Fpanjiva.com%2Finfo%2Fprivacy_policy')
+window.location.replace('https://panjiva.com/info/deprecated_browser');
 //]]>
-</script>    <![endif]-->
+</script>  <![endif]-->
 
+  <script type="text/javascript">
+//<![CDATA[
+
+    if (navigator.userAgent.match('MSIE 10.0;')) {
+      window.location.replace('https://panjiva.com/info/deprecated_browser');
+    }
+  
+//]]>
+</script>
 <script src="https://global-assets.panjiva.com/javascripts/jquerybase_b3bdd8ac94b400e9.js?b3bdd8ac94b400e9" type="text/javascript"></script><script type="text/javascript">
 //<![CDATA[
 var $j = jQuery.noConflict();
@@ -180,20 +188,29 @@ $j(document).ajaxError(function(ev, xhr, settings, ex) {
 })(jQuery);
 //]]>
 </script>
-  <script src="https://global-assets.panjiva.com/javascripts/raven_7132fcbf125dd1af.js?7132fcbf125dd1af" type="text/javascript"></script>  <script type="text/javascript">
+  <script src="https://global-assets.panjiva.com/javascripts/raven_bcf23fa1ca991ebe.js?bcf23fa1ca991ebe" type="text/javascript"></script>  <script type="text/javascript">
 //<![CDATA[
 
-    Raven.config('https://f71d3bb85b274a86b7b1366d97d862a9@sentry.panjiva.com/2', {
-      ignoreErrors: [
-        /^JQMIGRATE.*/,           // jQuery Migrate warnings
-        /.*SensorNotRequired.*/   // Google Maps API harmless warnings
-      ]
-    }).install();
+    (function() {
+      var Panjiva = {
+        user: {
+          id: null,
+          email: ''
+        }
+      };
 
-    Raven.setUserContext({
-      id: null,
-      email: ''
-    });
+      Raven.config('https://f71d3bb85b274a86b7b1366d97d862a9@sentry.panjiva.com/2', {
+        ignoreErrors: [
+          /^JQMIGRATE.*/,           // jQuery Migrate warnings
+          /.*SensorNotRequired.*/   // Google Maps API harmless warnings
+        ]
+      }).install();
+
+      Raven.setUserContext(Panjiva.user);
+
+      // Expose id/email to global scope.
+      window.Panjiva = Panjiva;
+    })();
   
 //]]>
 </script>
@@ -207,7 +224,7 @@ $j(document).ajaxError(function(ev, xhr, settings, ex) {
 <script src="https://global-assets.panjiva.com/javascripts/loadingindicator_ade893ee7361b479.js?ade893ee7361b479" type="text/javascript"></script><script src="https://global-assets.panjiva.com/javascripts/nprogress_85305b5b0e0eb104.js?85305b5b0e0eb104" type="text/javascript"></script>
 <script src="https://global-assets.panjiva.com/javascripts/modal_f3fb91067997be4b.js?f3fb91067997be4b" type="text/javascript"></script>
 
-  <script src="https://global-assets.panjiva.com/javascripts/profilev4layout_3546d99ca9b47bb6.js?3546d99ca9b47bb6" type="text/javascript"></script>  
+  <script src="https://global-assets.panjiva.com/javascripts/profilev4layout_30016555c3b524c9.js?30016555c3b524c9" type="text/javascript"></script>  
 
   <script type="text/javascript">
 //<![CDATA[
@@ -276,11 +293,11 @@ $j(document).bind('init.facebox', function(e) {
             <a>Data</a>
             <ul class="translate dropdown-container" style="display:none; min-width: 290px;">
               <li><a href="https://panjiva.com/data/united-states-trade-data">United States Trade Data</a></li>
-              <li><a href="https://panjiva.com/data/mexico-trade-data">Mexico Trade Data</a></li>
               <li><a href="https://panjiva.com/data/brazil-trade-data">Brazil Trade Data</a></li>
               <li><a href="https://panjiva.com/data/central-and-south-america-trade-data">Central &amp; South America Data</a></li>
-              <li><a href="https://panjiva.com/data/china-trade-data">China Trade Data</a></li>
               <li><a href="https://panjiva.com/data/india-trade-data">India Trade Data</a></li>
+              <li><a href="https://panjiva.com/data/philippines-trade-data">Philippines Trade Data</a></li>
+              <li><a href="https://panjiva.com/data/sri-lanka-trade-data">Sri Lanka Trade Data</a></li>
               <li><a href="https://panjiva.com/data/trendspotting">Census Data</a></li>
               <li><a href="https://panjiva.com/data/research">Panjiva Research</a></li>
             </ul>
@@ -737,11 +754,11 @@ $j(document).bind('init.facebox', function(e) {
               <ul>
                 <li class="list-headline">Data</li>
                 <li><a href="https://panjiva.com/data/united-states-trade-data">United States</a></li>
-                <li><a href="https://panjiva.com/data/mexico-trade-data">Mexico</a></li>
                 <li><a href="https://panjiva.com/data/brazil-trade-data">Brazil</a></li>
                 <li><a href="https://panjiva.com/data/central-and-south-america-trade-data">Central &amp; South America</a></li>
-                <li><a href="https://panjiva.com/data/china-trade-data">China</a></li>
                 <li><a href="https://panjiva.com/data/india-trade-data">India</a></li>
+                <li><a href="https://panjiva.com/data/philippines-trade-data">Philippines</a></li>
+                <li><a href="https://panjiva.com/data/sri-lanka-trade-data">Sri Lanka</a></li>
                 <li><a href="https://panjiva.com/data/research">Panjiva Research</a></li>
               </ul>
             </div>
@@ -755,12 +772,13 @@ $j(document).bind('init.facebox', function(e) {
               </ul>
             </div>
             <div class="grid_4 contact-info notranslate">
-                New York, NY, USA                <div class="spacer" style="height: 12px;">‌</div>
+                55 Water Street, 42nd Floor<br>New York, NY 10004                <div class="spacer" style="height: 12px;">‌</div>
 
                 <a href="/request-demo?section=footer" class="footer-request-demo">Request a demo</a>                <br>
 <br>
             </div>
-          </div>
+
+            <a href="https://www.spglobal.com/marketintelligence"><img alt="Spg_mi_logo" class="spg-logo" src="https://global-assets.panjiva.com/images/logo/spg_mi_logo.b01ee2fdda59a467.png?b01ee2fdda59a467"></a>          </div>
         </div>
       </div>
 
@@ -790,7 +808,7 @@ $j(document).bind('init.facebox', function(e) {
           </div>
         <div class="footer-bottom-middle grid_2">
           <div class="footer-links">
-            <span class="copyright-info">© 2018 Panjiva, Inc.</span>
+            <span class="copyright-info">© 2019 Panjiva, Inc.</span>
           </div>
         </div>
       </div>
