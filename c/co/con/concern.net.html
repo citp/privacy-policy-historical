@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the concern.net privacy policy that was archived on 2018-06-24.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20180624015210id_/https%3A//www.concern.net/about/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the concern.net privacy policy that was archived on 2019-03-31.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20190331214448id_/http%3A//www.concern.net/about/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html class="no-js" lang="en" dir="ltr" prefix="fb: http://ogp.me/ns/fb# og: http://ogp.me/ns# article: http://ogp.me/ns/article# book: http://ogp.me/ns/book# profile: http://ogp.me/ns/profile# video: http://ogp.me/ns/video# product: http://ogp.me/ns/product# content: http://purl.org/rss/1.0/modules/content/ dc: http://purl.org/dc/terms/ foaf: http://xmlns.com/foaf/0.1/ rdfs: http://www.w3.org/2000/01/rdf-schema# sioc: http://rdfs.org/sioc/ns# sioct: http://rdfs.org/sioc/types# skos: http://www.w3.org/2004/02/skos/core# xsd: http://www.w3.org/2001/XMLSchema# schema: http://schema.org/"><!--<![endif]--><head>
   <title>Privacy - Concern Privacy Statement - Concern Worldwide</title>
@@ -68,7 +68,7 @@ function isMobile(){
   // Check if user language is saved in cookie and if at all redirect is needed.
   var userlanguage = getCookie('STYXKEY-concernuserlanguage');
   var pathArray = window.location.pathname.split( '/' );
-  if(userlanguage && location.hostname === window.cw_domains[userlanguage]) {
+  if (userlanguage && location.hostname === window.cw_domains[userlanguage]) {
     return;
   }
   // Do nothing if ?geo_redirect=0.
@@ -89,11 +89,11 @@ function isMobile(){
 
   // Determine the most appropriate type of XHR object to use.
   if (window.XDomainRequest) {
-    // support for Old IE CORS.
+    // Support for Old IE CORS.
     var xmlhttp = new XDomainRequest();
   }
   else if (window.XMLHttpRequest) {
-    // support for everyone else.
+    // Support for everything else.
     var xmlhttp = new XMLHttpRequest();
   }
   else {
@@ -119,7 +119,7 @@ function isMobile(){
   // Append the request url
   var pathname = window.location.pathname;
   if (pathname !== '') {
-    if(pathArray[1] == 'checkout' || pathArray[2] == 'checkout') {
+    if (pathArray[1] == 'checkout' || pathArray[2] == 'checkout') {
       pathname = getCookie('STYXKEY-checkouturl');
     }
     lookupservice += '&path=' + pathname;
@@ -133,8 +133,7 @@ function isMobile(){
   // Adds all query params to url.
   lookupservice += '&' + location.search.substr(1);
 
-  // Hide page content until we have completed our IP lookup.
-  // This is prevent flicker.
+  // Hide page content until we have completed our IP lookup to prevent flicker.
   // @see http://stackoverflow.com/questions/6919236/hide-document-body-on-page-load
   document.write('<style class="smartip-hide" ' + 'type="text/css">body {display:none !important;}<\/style>');
 
@@ -144,10 +143,15 @@ function isMobile(){
     var willBeRedirected = false;
     // XDomainRequest doesn't contain status property, status is ok if it invoked onload event.
     if (window.XDomainRequest || (window.XMLHttpRequest && this.status == 200)) {
-      var response = JSON.parse(this.responseText);
-      if (response.redirect == 1) {
-        window.location = response.path;
-        willBeRedirected = true;
+      try {
+        var response = JSON.parse(this.responseText);
+        if (response.redirect == 1) {
+          window.location = response.path;
+          willBeRedirected = true;
+        }
+      }
+      catch (err) {
+
       }
     }
     // Show hidden page content now that we have determined that no redirect is needed.
@@ -163,16 +167,16 @@ function isMobile(){
   xmlhttp.send();
 })();
 </script>
-<link rel="apple-touch-icon-precomposed" href="https://www.concern.net/profiles/concern/themes/contrib/omega4/omega4/apple-touch-icon-precomposed-72x72.png" sizes="72x72">
-<link rel="apple-touch-icon-precomposed" href="https://www.concern.net/profiles/concern/themes/contrib/omega4/omega4/apple-touch-icon-precomposed-144x144.png" sizes="144x144">
 <link rel="apple-touch-icon-precomposed" href="https://www.concern.net/profiles/concern/themes/contrib/omega4/omega4/apple-touch-icon-precomposed-114x114.png" sizes="114x114">
+<link rel="apple-touch-icon-precomposed" href="https://www.concern.net/profiles/concern/themes/contrib/omega4/omega4/apple-touch-icon-precomposed-144x144.png" sizes="144x144">
+<link rel="apple-touch-icon-precomposed" href="https://www.concern.net/profiles/concern/themes/contrib/omega4/omega4/apple-touch-icon-precomposed.png">
 <meta http-equiv="cleartype" content="on">
 <meta name="MobileOptimized" content="width">
 <meta name="HandheldFriendly" content="true">
 <link rel="profile" href="http://www.w3.org/1999/xhtml/vocab">
 <meta property="fb:app_id" content="862309717169924">
 <link rel="shortcut icon" href="https://www.concern.net/profiles/concern/themes/custom/concernmobile/favicon.ico" type="image/vnd.microsoft.icon">
-<link rel="apple-touch-icon-precomposed" href="https://www.concern.net/profiles/concern/themes/contrib/omega4/omega4/apple-touch-icon-precomposed.png">
+<link rel="apple-touch-icon-precomposed" href="https://www.concern.net/profiles/concern/themes/contrib/omega4/omega4/apple-touch-icon-precomposed-72x72.png" sizes="72x72">
 <link rel="stylesheet" media="screen, projection, tty, tv" title="Standard" href="/profiles/concern/modules/contrib/pagestyle/css/style_standard.css" class="ps_standard">
 <link rel="alternate stylesheet" type="text/css" media="screen, projection, tty, tv" title="White/Black" href="/profiles/concern/modules/contrib/pagestyle/css/style_white_black.css" class="ps_white_black">
 <script type="application/ld+json">
@@ -210,25 +214,25 @@ body{font-size:80%;}
 <style>body{display:block !important;}
 </style>
 <![endif]-->
-<link rel="stylesheet" href="https://www.concern.net/sites/default/files/css/css_NTS3hKcwLzD9F_TbYDsgNDEMWFA6-fcoGFXlFRlhQpE.css" media="all">
+<link rel="stylesheet" href="https://www.concern.net/sites/default/files/css/css_FQ9PdYDrKu13SOBdjSyam14dMLToZKZCizQUFOPrlhI.css" media="all">
 
 <!--[if lte IE 8]>
-<link rel="stylesheet" href="https://www.concern.net/sites/default/files/css/css_NsVSzdBpJhBdc4_sT0-MUBcHb9EiQ5P62IOGBp0O2js.css" media="all" />
+<link rel="stylesheet" href="https://www.concern.net/sites/default/files/css/css_mwEp9MyBnKmwTEM-zpFziht7DIVlL09iw4bVG_nV3YM.css" media="all" />
 <![endif]-->
   <script src="//ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.min.js"></script>
 <script>window.jQuery || document.write("<script src='/profiles/concern/modules/contrib/jquery_update/replace/jquery/1.7/jquery.min.js'>\x3C/script>")</script><script src="/profiles/concern/modules/contrib/jquery_update/replace/jquery/1.7/jquery.min.js"></script>
 <script src="https://www.concern.net/sites/default/files/js/js_s3L_uC35AiN5EGYY533su-jccnLRp2aKpOnjgPLbo34.js"></script>
 <script>document.createElement( "picture" );</script>
-<script src="https://www.concern.net/sites/default/files/js/js_5bukS-vij6hVf6TquYncypx9YwxFQE06ZlRQ9sNTnCU.js"></script>
+<script src="https://www.concern.net/sites/default/files/js/js_1TbsV5BpVtDReGtO_yKCEIQ2rJX0WdLj9oo1F0E1dkg.js"></script>
 <script>var dataLayer = dataLayer || []; dataLayer.push({"contentTitle":"Privacy statement ","contentType":"cw_page","platformVersion":1,"event":"event.contentView","pagePathOverridden":"\/about\/privacy"});</script>
 <script>var _vwo_code=(function(){
 var account_id=38765,
 settings_tolerance=2000,
 library_tolerance=2500,
 use_existing_jquery=false,
-f=false,d=document;return{use_existing_jquery:function(){return use_existing_jquery;},library_tolerance:function(){return library_tolerance;},finish:function(){if(!f){f=true;var a=d.getElementById('_vis_opt_path_hides');if(a)a.parentNode.removeChild(a);}},finished:function(){return f;},load:function(a){var b=d.createElement('script');b.src=a;b.type='text/javascript';b.innerText;b.onerror=function(){_vwo_code.finish();};d.getElementsByTagName('head')[0].appendChild(b);},init:function(){settings_timer=setTimeout('_vwo_code.finish()',settings_tolerance);this.load('//dev.visualwebsiteoptimizer.com/j.php?a='+account_id+'&u='+encodeURIComponent(d.URL)+'&r='+Math.random());var a=d.createElement('style'),b='body{opacity:0 !important;filter:alpha(opacity=0) !important;background:none !important;}',h=d.getElementsByTagName('head')[0];a.setAttribute('id','_vis_opt_path_hides');a.setAttribute('type','text/css');if(a.styleSheet)a.styleSheet.cssText=b;else a.appendChild(d.createTextNode(b));h.appendChild(a);return settings_timer;}};}());_vwo_settings_timer=_vwo_code.init();</script><script src="//dev.visualwebsiteoptimizer.com/j.php?a=38765&amp;u=https%3A%2F%2Fweb.archive.org%2Fweb%2F20180624015210id_%2Fhttps%253A%2F%2Fwww.concern.net%2Fabout%2Fprivacy&amp;r=0.4417006760669291" type="text/javascript"></script>
-<script src="https://www.concern.net/profiles/concern/modules/contrib/mobile_navigation/js/mobile_menu.js?paoh6i"></script>
-<script src="https://www.concern.net/profiles/concern/modules/contrib/mobile_navigation/mobile_navigation.js?paoh6i"></script>
+f=false,d=document;return{use_existing_jquery:function(){return use_existing_jquery;},library_tolerance:function(){return library_tolerance;},finish:function(){if(!f){f=true;var a=d.getElementById('_vis_opt_path_hides');if(a)a.parentNode.removeChild(a);}},finished:function(){return f;},load:function(a){var b=d.createElement('script');b.src=a;b.type='text/javascript';b.innerText;b.onerror=function(){_vwo_code.finish();};d.getElementsByTagName('head')[0].appendChild(b);},init:function(){settings_timer=setTimeout('_vwo_code.finish()',settings_tolerance);this.load('//dev.visualwebsiteoptimizer.com/j.php?a='+account_id+'&u='+encodeURIComponent(d.URL)+'&r='+Math.random());var a=d.createElement('style'),b='body{opacity:0 !important;filter:alpha(opacity=0) !important;background:none !important;}',h=d.getElementsByTagName('head')[0];a.setAttribute('id','_vis_opt_path_hides');a.setAttribute('type','text/css');if(a.styleSheet)a.styleSheet.cssText=b;else a.appendChild(d.createTextNode(b));h.appendChild(a);return settings_timer;}};}());_vwo_settings_timer=_vwo_code.init();</script><script src="//dev.visualwebsiteoptimizer.com/j.php?a=38765&amp;u=https%3A%2F%2Fweb.archive.org%2Fweb%2F20190331214448id_%2Fhttp%253A%2F%2Fwww.concern.net%2Fabout%2Fprivacy&amp;r=0.24136014669321093" type="text/javascript"></script>
+<script src="https://www.concern.net/profiles/concern/modules/contrib/mobile_navigation/js/mobile_menu.js?pp63je"></script>
+<script src="https://www.concern.net/profiles/concern/modules/contrib/mobile_navigation/mobile_navigation.js?pp63je"></script>
 <script>  var pagestyleCookieExpires = 365;
   var pagestyleCookieDomain = "/";
   var pagestylePath = "/profiles/concern/modules/contrib/pagestyle";
@@ -336,7 +340,7 @@ f=false,d=document;return{use_existing_jquery:function(){return use_existing_jqu
             <div class="l-region l-region--branding">
     <div id="block-delta-blocks-logo" class="block block--delta-blocks block--delta-blocks-logo">
         <div class="block__content">
-    <div class="logo-img"><a href="https://www.concern.net/" id="logo" title="Return to the Concern Worldwide home page"><img typeof="foaf:Image" src="/profiles/concern/themes/custom/concernmobile/logo.png" alt="Concern Worldwide"></a></div>  </div>
+    <div class="logo-img"><a href="https://www.concern.net/" id="logo" title="Return to the Concern Worldwide home page" class="active"><img typeof="foaf:Image" src="/profiles/concern/themes/custom/concernmobile/logo.png" alt="Concern Worldwide"></a></div>  </div>
 </div>
 <div id="block-delta-blocks-site-slogan" class="block block--delta-blocks block--delta-blocks-site-slogan">
         <div class="block__content">
@@ -357,7 +361,6 @@ f=false,d=document;return{use_existing_jquery:function(){return use_existing_jqu
   <div class="menu-block-wrapper menu-block-1 menu-name-main-menu parent-mlid-0 menu-level-1">
   <ul class="menu"><li class="first expanded menu-mlid-31490"><a href="https://www.concern.net/about" title="About Concern" name="About Concern">About</a><ul class="menu"><li class="first leaf menu-mlid-31760"><a href="https://www.concern.net/about/history">Our history</a></li>
 <li class="leaf menu-mlid-65227"><a href="https://www.concern.net/about/concerns-beliefs">Our beliefs</a></li>
-<li class="leaf menu-mlid-85425"><a href="https://www.concern.net/about/humanitarian-emergency-timeline" title="Humanitarian emergency timeline" name="Humanitarian emergency timeline ">Humanitarian emergency timeline</a></li>
 <li class="leaf has-children menu-mlid-31756"><a href="https://www.concern.net/about/how-we-raise-money">How we raise money</a></li>
 <li class="leaf menu-mlid-31770"><a href="https://www.concern.net/about/how-money-spent">How money is spent</a></li>
 <li class="last leaf menu-mlid-63295"><a href="https://www.concern.net/about/transparency">Transparency</a></li>
@@ -436,9 +439,12 @@ f=false,d=document;return{use_existing_jquery:function(){return use_existing_jqu
 
 <p>With regard to each of your visits to our sites, we may automatically collect the following information:</p>
 
-<ul><li>Technical information, including the Internet protocol (IP) address used to connect your computer to the Internet, your login information, browser type and version, time zone setting, browser plug-in types and versions, operating system and platform</li>
+<ul>
+	<li>Technical information, including the Internet protocol (IP) address used to connect your computer to the Internet, your login information, browser type and version, time zone setting, browser plug-in types and versions, operating system and platform</li>
 	<li>Information about your visit, including the full Uniform Resource Locators (URL) clickstream to, through and from our site (including date and time); products you viewed or searched for; page response times, download errors, length of visits to certain pages, page interaction information (such as scrolling, clicks, and mouse-overs), and methods used to browse away from the page and any phone number used to call our customer service number</li>
-</ul><p>We are also working closely with third parties (including, business partners, sub-contractors in technical, payment and delivery services, advertising networks, data analytics service providers, search information providers) and may receive information about you from them. All such processing will be done in compliance with GDPR.</p>
+</ul>
+
+<p>We are also working closely with third parties (including, business partners, sub-contractors in technical, payment and delivery services, advertising networks, data analytics service providers, search information providers) and may receive information about you from them. All such processing will be done in compliance with GDPR.</p>
 
 <h2>Cookies</h2>
 
@@ -452,12 +458,15 @@ f=false,d=document;return{use_existing_jquery:function(){return use_existing_jqu
 
 <p>We will use your personal data for a number of operational purposes, including, but not limited to:</p>
 
-<ul><li>Carrying out our obligations arising from any contracts entered into between you and us and to provide you with the information and services that you request from us</li>
+<ul>
+	<li>Carrying out our obligations arising from any contracts entered into between you and us and to provide you with the information and services that you request from us</li>
 	<li>Providing you with information about other opportunities to support Concern where you do not object to receiving such information</li>
 	<li>Creating an account for you if you register with us as a supporter or if you wish to receive information about our activities</li>
 	<li>Furthering our charitable aims, including for fundraising activities, where you agree to receive such information</li>
 	<li>Providing you, or permitting selected third parties to provide you, with information about goods or services we feel may interest you</li>
-</ul><p>Depending on the process we are conducting on your personal data, Concern shall rely on specific legal bases for such processing. For example, we may rely on your consent, on contractual obligations, fulfilling certain legal obligations we may have or in our legitimate commercial interests which will not infringe your rights and freedoms. Where processing is based on your consent, you have the right to withdraw that consent. Concern will retain your data for specified periods of time depending on the nature and type of processing. Once these retention periods have expired, Concern undertakes to anonymise, destroy or delete your personal data.</p>
+</ul>
+
+<p>Depending on the process we are conducting on your personal data, Concern shall rely on specific legal bases for such processing. For example, we may rely on your consent, on contractual obligations, fulfilling certain legal obligations we may have or in our legitimate commercial interests which will not infringe your rights and freedoms. Where processing is based on your consent, you have the right to withdraw that consent. Concern will retain your data for specified periods of time depending on the nature and type of processing. Once these retention periods have expired, Concern undertakes to anonymise, destroy or delete your personal data.</p>
 
 <h2>Profiling&nbsp;</h2>
 
@@ -467,7 +476,7 @@ f=false,d=document;return{use_existing_jquery:function(){return use_existing_jqu
 
 <p>If you would prefer us not to process your personal data for the purpose of wealth screening, we will respect your wishes.</p>
 
-<p>If you do not wish to be subject to such profiling or wealth screening or wish to update your contact preferences, please call our donor support team on 01 417 7777, who will happily address your request or email <a href="mailto:preferences@concern.net">preferences@concern.net</a>.</p>
+<p>If you do not wish to be subject to such profiling or wealth screening or wish to update your contact preferences, please call our donor support team on 01 417 7777, who will happily address your request or email <a href="/cdn-cgi/l/email-protection#b5c5c7d0d3d0c7d0dbd6d0c6f5d6dadbd6d0c7db9bdbd0c1"><span class="__cf_email__" data-cfemail="c0b0b2a5a6a5b2a5aea3a5b380a3afaea3a5b2aeeeaea5b4">[email&nbsp;protected]</span></a>.</p>
 
 <h2>Disclosure of your information</h2>
 
@@ -475,16 +484,22 @@ f=false,d=document;return{use_existing_jquery:function(){return use_existing_jqu
 
 <p>We may share your information with selected third parties including:</p>
 
-<ul><li>Business partners, suppliers and sub-contractors for the performance of any contract we enter into with them or you</li>
+<ul>
+	<li>Business partners, suppliers and sub-contractors for the performance of any contract we enter into with them or you</li>
 	<li>Advertisers and advertising networks that require the data to select and serve relevant adverts to you and others. &nbsp;We do not disclose information about identifiable individuals to our advertisers, but we may provide them with anonymised, aggregated information about our users</li>
 	<li>Analytics and search engine providers that assist us in the improvement and optimisation of our site</li>
-</ul><p>We may disclose your personal information to third parties in the following circumstances:</p>
+</ul>
 
-<ul><li>In the event that we sell or buy any business or assets, in which case we may disclose your personal data to the prospective seller or buyer of such business or assets</li>
+<p>We may disclose your personal information to third parties in the following circumstances:</p>
+
+<ul>
+	<li>In the event that we sell or buy any business or assets, in which case we may disclose your personal data to the prospective seller or buyer of such business or assets</li>
 	<li>If any Concern entity or substantially all of its assets are acquired by a third party, in which case personal data held by it about its customers will be one of the transferred assets</li>
 	<li>If we are under a duty to disclose or share your personal data in order to comply with any legal obligation, or in order to enforce or apply our <a href="https://www.concern.net/about/terms-and-conditions">terms and conditions</a>&nbsp;and other agreements; or to protect the rights, property, or safety of any of the Concern entities, our customers, our service recipients or others. This includes exchanging information with other companies and organisations for the purposes of national security, fraud protection and credit risk reduction</li>
 	<li>Where we engage the services of third parties, such services are covered by an appropriate contract, and any data acquired in the course of such services is processed in compliance with the GDPR</li>
-</ul><h2>Where we store your personal data</h2>
+</ul>
+
+<h2>Where we store your personal data</h2>
 
 <p>The data that we collect from you may be transferred to, and stored at, a destination outside the European Economic Area ("EEA"). It may also be processed by staff operating outside the EEA who work for us or for one of our suppliers. In order to safeguard your information we will make any such transfers in strict compliance with data protection legislation with all appropriate contractual arrangements (Privacy Shield, Binding Corporate Rules, or Model Contracts) will be in place. By submitting your personal data for such purposes, you agree to this transfer, storing or processing. Concern will take all reasonable steps necessary to ensure that your personal data is processed securely and in accordance with this Privacy Statement.</p>
 
@@ -494,7 +509,7 @@ f=false,d=document;return{use_existing_jquery:function(){return use_existing_jqu
 
 <h2>Your rights with regard to your information</h2>
 
-<p>You have rights under Irish Data Protection legislation, with regard to our processing of your data. You can exercise these rights at any time by contacting us via email at <a href="mailto:dpo@concern.net">dpo@concern.net</a> or in writing at: The Data Protection Officer, Concern Worldwide, 52/55 Lower Camden Street, Dublin 2, Ireland.&nbsp;</p>
+<p>You have rights under Irish Data Protection legislation, with regard to our processing of your data. You can exercise these rights at any time by contacting us via email at <a href="/cdn-cgi/l/email-protection#83e7f3ecc3e0ecede0e6f1edadede6f7"><span class="__cf_email__" data-cfemail="1377637c53707c7d7076617d3d">[email&nbsp;protected]</span>net</a> or in writing at: The Data Protection Officer, Concern Worldwide, 52/55 Lower Camden Street, Dublin 2, Ireland.&nbsp;</p>
 
 <p>You have the right to access personal data we hold which relates to you, including how we acquired such data, and the purposes for which it is being used. This right requires that you will be given a copy of your personal data which you may have supplied to us via the Site or in other correspondence and interactions.&nbsp;</p>
 
@@ -518,7 +533,7 @@ f=false,d=document;return{use_existing_jquery:function(){return use_existing_jqu
 
 <h2>Contact</h2>
 
-<p>Questions, comments and requests regarding this privacy statement are welcomed and should be addressed to: The Data Protection Officer, Concern Worldwide, 52/55 Lower Camden Street, Dublin 2, Ireland or <a href="mailto:DPO@concern.net">DPO@concern.net</a>&nbsp;or call 01 417 7700.&nbsp;</p>
+<p>Questions, comments and requests regarding this privacy statement are welcomed and should be addressed to: The Data Protection Officer, Concern Worldwide, 52/55 Lower Camden Street, Dublin 2, Ireland or <a href="/cdn-cgi/l/email-protection#98dcc8d7d8fbf7f6fbfdeaf6b6f6fdec"><span class="__cf_email__" data-cfemail="1f5b4f505f7c70717c7a6d7131717a6b">[email&nbsp;protected]</span></a>&nbsp;or call 01 417 7700.&nbsp;</p>
 </div></div></div></div>
 
     </div>
@@ -556,7 +571,7 @@ f=false,d=document;return{use_existing_jquery:function(){return use_existing_jqu
  <input type="radio" id="edit-type-single" name="type" value="single" class="form-radio">  <label class="option" for="edit-type-single">Single donation </label>
 
 </div>
-</div><input type="submit" id="edit-submit" name="op" value="Donate now" class="form-submit"><input type="hidden" name="form_build_id" value="form-nXbaqbQztlxCQI7po0q2vwwIcVCk-X1M9hdLLCGRq7o">
+</div><input type="submit" id="edit-submit" name="op" value="Donate now" class="form-submit"><input type="hidden" name="form_build_id" value="form-LrbyNqUBfN2XCubjnytEyjxMGux7v_p36dOVJlK7ML0">
 <input type="hidden" name="form_id" value="cw_commerce_concernnet_donate_block_form">
 </div></form>  </div>
 </div>
@@ -567,7 +582,7 @@ f=false,d=document;return{use_existing_jquery:function(){return use_existing_jqu
     
   <ul class="menu"><li class="first leaf"><a href="https://www.concern.net/about/annual-reports">Annual reports</a></li>
 <li class="leaf"><a href="https://www.concern.net/about/How-we-are-governed/about-our-ceo">About our CEO</a></li>
-<li class="leaf"><a href="https://www.concern.net/node/11207">Codes and policies</a></li>
+<li class="leaf"><a href="https://www.concern.net/about/codes-practices">Codes and policies</a></li>
 <li class="collapsed"><a href="https://www.concern.net/about/how-we-raise-money/institutional-donors">Institutional donors</a></li>
 <li class="leaf"><a href="https://www.concern.net/about/open-information-approach">Open information appoach</a></li>
 <li class="leaf"><a href="https://www.concern.net/about/concern-partners">Partners</a></li>
@@ -645,7 +660,7 @@ f=false,d=document;return{use_existing_jquery:function(){return use_existing_jqu
           <h2 class="pane-title">Jobs</h2>
         <ul class="menu"><li class="first leaf"><a href="https://jobs.concern.net/">International jobs</a></li>
 <li class="leaf"><a href="https://jobs.concern.net/jobs/ireland">Ireland jobs </a></li>
-<li class="last leaf"><a href="https://www.concern.org.uk/jobs/search/948%2B947%2B950%2B949/all?country_code=GB">UK jobs</a></li>
+<li class="last leaf"><a href="https://www.concern.org.uk/jobs  ">UK jobs</a></li>
 </ul>    </div>
 </div>
   </div>
@@ -654,7 +669,7 @@ f=false,d=document;return{use_existing_jquery:function(){return use_existing_jqu
           <h2 class="pane-title">Donate</h2>
         <ul class="menu"><li class="first leaf"><a href="https://www.concern.net/donate/regular/new">Monthly donation</a></li>
 <li class="leaf"><a href="https://www.concern.net/donate/appeal/882">Single donation</a></li>
-<li class="leaf"><a href="https://gifts.concern.net/">Buy a gift</a></li>
+<li class="leaf"><a href="https://gifts.concern.net">Buy a gift</a></li>
 <li class="last leaf"><a href="https://www.concern.net/donate/leave-a-legacy-in-your-will">Leave a gift in your will</a></li>
 </ul>    </div>
 </div>
@@ -669,7 +684,7 @@ f=false,d=document;return{use_existing_jquery:function(){return use_existing_jqu
     
   <ul class="menu"><li class="first leaf"><a href="https://www.concern.net/sitemap">Site map</a></li>
 <li class="leaf"><a href="https://www.concern.net/about/terms-and-conditions">Terms and conditions</a></li>
-<li class="leaf active-trail"><a href="https://www.concern.net/about/privacy" class="active-trail active">Privacy and cookies</a></li>
+<li class="leaf"><a href="https://www.concern.net/about/privacy" class="active">Privacy and cookies</a></li>
 <li class="leaf"><a href="https://www.concern.net/donate/online-security">Online security</a></li>
 <li class="leaf"><a href="https://www.concern.net/about/press-office" title="Media information">Media information</a></li>
 <li class="leaf"><a href="https://www.concern.net/contact">Contact us</a></li>
@@ -715,7 +730,7 @@ f=false,d=document;return{use_existing_jquery:function(){return use_existing_jqu
   </div>
   </div>
 </div>
-  <script src="https://www.concern.net/sites/default/files/js/js_dRojERwebb8U90PYF1DvYuTY8g7YTl4FHut4LADz38c.js"></script>
+  <script data-cfasync="false" src="/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script><script src="https://www.concern.net/sites/default/files/js/js_dRojERwebb8U90PYF1DvYuTY8g7YTl4FHut4LADz38c.js"></script>
 <script src="https://www.concern.net/sites/default/files/js/js_660WFg47JzpQvyDoX76_R-hBQAtGsdrGTpQChNKthow.js"></script>
 <script src="https://www.concern.net/sites/default/files/js/js_Wan2kVaKqtpIjb7SM_YASzjzu3ooXsE_liocSdbmLug.js"></script>
 <script src="https://www.concern.net/sites/default/files/js/js_seCS3osgJnqIIlrM_QqkzOohQ9I4htoadOotwqEoegY.js"></script>
@@ -747,7 +762,7 @@ $("#views-slideshow-ddblock-cw_get_involved_rotor_concernnet_panel_pane_1", cont
 <![endif]-->
 <script src="https://www.concern.net/sites/default/files/js/js_LKUkOhUGCeAbjnZdXLbUGiXtB17qJUCy1v0f2mQRWS4.js"></script>
 <script src="https://www.concern.net/sites/default/files/js/js_a7k-4HSbJIBC2nLdhSv1RvYMvwxAzU6gZhPPSBH9ejw.js"></script>
-<script src="https://www.concern.net/sites/default/files/js/js_7lkITt-k4aGrkTn4utRX9ztnNNK93g8tEsyEdyJO0A0.js"></script>
+<script src="https://www.concern.net/sites/default/files/js/js_kXhvdNO3uGE2x9Seuvv2qefnLJKOyHZTQDcyVmPzzBk.js"></script>
 <script src="https://www.concern.net/sites/default/files/js/js_BCStJFuDWQAOLIohfxtS8tSL5dsVrbqLFd0RKxUzbMk.js"></script>
 
 
