@@ -1,15 +1,15 @@
-> *The following text is extracted and transformed from the gold.org privacy policy that was archived on 2018-09-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180929221618id_/https%3A//www.gold.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gold.org privacy policy that was archived on 2019-03-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190331091610id_/https%3A//www.gold.org/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | World Gold Council
 
 The World Gold Council ("WGC") recognises the importance of protecting the privacy of all information provided by visitors of this website. We have created the following policy guidelines to let you know how we collect and use your personal information.
 
-### Information collected by the WGC
+**Information collected by the WGC**
 
 The WGC collects information about visitors:
 
   * During their registration for this website: name, address and email address; 
-  * Their participation in  contests and polls;
+  * Their participation in contests, polls, downloading research, use of tools including portfolio modelling and valuation simulators and downloading website materials;
   * Through the use of cookies. When visitors request pages from our server, our web server automatically collects some information about the visitors, including their IP addresses. These addresses are used by computers on the network to send the requested pages to visitors Please also see our [cookie policy](https://web.archive.org/cookies).
 
 
@@ -18,16 +18,18 @@ By using this website your personal data to the WGC you understand that WGC and 
 
 WGC sets out below how it and its affiliates are using your personal data, and whom we share it with: 
 
-### Use of information
+**Use of information**
 
 The WGC will not reveal any personal information of its visitors, to any third party without their permission unless it is lawful to do so. 
 
   * The WGC uses visitors' IP addresses to help diagnose problems with our server, to administer the website, to provide you with our website, to power security measures and related services relating to your access to the website, or to communicate with you about operational changes to the website or our services. 
   * We also use it to gather broad demographic information about our visitors in general. This information does not contain anything that can identify visitors personally. 
-  * We combine demographic information supplied by a subscriber at registration with site usage data to provide profiles, in aggregate form, about our visitors and their preferences in the content of the site and advertising.  We may share this composite information with our advertisers to help them better understand our services, but the WGC does not give advertisers information about individual visitors. .Using e-mail addresses, provided at registration or otherwise. The WGC periodically sends out e-mail newsletters and promotional e-mails about services and publications offered by this website and its advertisers. We will not send visitors these emails unless they have given us their consent to do so. We will ask for your consent before we send you any newsletter or promotional emails. If you consent to receiving these emails, you have the option to change your mind at any time and we will respect your wishes. You can exercise this option by contacting us or by following the instructions for unsubscribing included in each e-mail. Third parties will not contact our visitors through the use of our e-mail newsletter lists except through advertisements within the newsletters themselves, or unless visitors ask to be placed on a list to receive e-mail from our advertisers on subjects of interest.
+  * We combine demographic information supplied by a subscriber at registration with site usage data to provide profiles, in aggregate form, about our visitors and their preferences in the content of the site and advertising.  We may share this composite information with our advertisers to help them better understand our services, but the WGC does not give advertisers information about individual visitors. Using e-mail addresses, provided at registration or otherwise. The WGC periodically sends out e-mail newsletters and promotional e-mails about services and publications offered by this website and its advertisers. We will not send visitors these emails unless they have given us their consent to do so. We will ask for your consent before we send you any newsletter or promotional emails. If you consent to receiving these emails, you have the option to change your mind at any time and we will respect your wishes. You can exercise this option by contacting us or by following the instructions for unsubscribing included in each e-mail. Third parties will not contact our visitors through the use of our e-mail newsletter lists except through advertisements within the newsletters themselves, or unless visitors ask to be placed on a list to receive e-mail from our advertisers on subjects of interest.
+  * We also use it to support our market development activities and interactions with subscribers including preparing and distributing reports, presentations and studies that may be prepared with the assistance of third-parties. When data is shared with such third-parties, it will be aggregated or anonymised.
   * We use your information to enable us to run competitions and offers for which you have signed up, about which we need to be able to communicate with you. 
   * We will collect any feedback or complaints you provide to us and will invite you to undertake surveys about our services. We may use independent research and feedback providers to do so on our behalf. 
   * We will need to use your information to respond to any questions, suggestions, issues or complaints you have raised with us. 
+  * If you choose to become a subscriber, you may also provide us with your email address to create an account or you may choose to create an account using a social network login (such as LinkedIn, Facebook, or Twitter). If you choose to create an account using a social network login, we do not collect login or password information; nor do your social network accounts give us permission to access your contacts (for more information on the use of social network logins.
 
 
 
@@ -35,9 +37,17 @@ The WGC may disclose visitor's personal information if, in our opinion, such dis
 
 Upon request, the WGC will remove visitors (and their information) from our database or permit them to "opt-out" of any further e-mail newsletters or contact - visitors just need to follow the instructions for unsubscribing included in each e-mail and/or contact us at the address below. Although the WGC does not specifically seek to obtain any information from children, there are certain areas of our website that children may visit. We urge children only to give us any information after they have discussed it with their parents.
 
-### Legal basis for processing
+**Links to Other Sites**
 
-In accordance with data protection law, we are obliged to inform you that we are using your information as described in this privacy notice statement on the following legal bases: 
+Our website may contain links to other sites that are not operated by us. If you click on a third-party link, you will be directed to that third party's site. We strongly advise that you review the privacy policy of every site you visit.  We have no control over, and assume no responsibility for the content, privacy policies or practices of any third-party sites or services.
+
+**Third Party Website  & Data Sharing Practices **
+
+We encourage users to collaborate with and engage with others by discussing financial and investment opinions, information and experience. You understand and agree that any such information that you provide through the website or otherwise, including, for instance, as part of your profile or while interacting with other users, will be publicly available, and that other users may use and reproduce such information. We have no control over the use by other users of the information that you voluntarily disclose to the public. We may access information about you from third-party sources and platforms (such as service providers, agents, social networking sites, databases, online marketing firms, and ad targeting firms).
+
+**Legal basis for processing**
+
+In accordance with data protection law, we are obliged to inform you that we are using your information as described in this privacy notice statement on the following legal bases: 
 
   * you have given your consent to us using your information as described in this notice; 
   * the use is necessary to perform a contract between us or to take steps which you requested us to take before entering into a contract; 
@@ -46,11 +56,11 @@ In accordance with data protection law, we are obliged to inform you that we are
 
 
 
-### Personal Data Security
+**Personal Data Security**
 
 We maintain adequate technical and organisational security measures to protect personal information from loss, misuse, and unauthorised access, disclosure, alteration, or destruction.
 
-### Your Rights
+**Your Rights**
 
 You have the right to:
 
@@ -76,20 +86,21 @@ You have the right to:
 
 If your personal information changes, you should click through to the "Update Your Profile" section of our website and update your personal information. Or, if you want us to delete your registration you can contact us at the address below.
 
-### Retention of Personal Information
+**Retention of Personal Information**
 
 In accordance with our legal data protection and privacy obligations, we will only retain your information for as long as necessary. We will then either securely delete it or anonymise it so that it cannot be linked back to you. 
 
-### International Transfers of your Personal Information 
+**International Transfers of your Personal Information  **
 
-### General
+**General**
 
 The WGC is not responsible for the content or the privacy polices of websites to which it may provide links or the websites of its advertisers.
 
 The WGC uses all reasonable precautions to keep the personal information disclosed to us secure and to disclose such information only to responsible third parties after permission from the visitor.
 
-### Contact us
+**Contact us**
 
-If you have any questions about this privacy statement or the practices of this website you can contact us at info@gold.org or by writing to us at the World Gold Council, 10 Old Bailey, London EC4M 7NG, United Kingdom. 
+If you have any questions about this privacy statement or the practices of this website you can contact us at [info@gold.org](mailto:info@gold.org) or by writing to us at the World Gold Council, 10 Old Bailey, London EC4M 7NG, United Kingdom. 
 
-You have the right to lodge a complaint with a supervisory authority. In the UK, this is the Information Commissioner's Office (ICO). However, we would appreciate the chance to put this right for you first. Please contact us using the details set out above. We will do our very best to answer any question and resolve any complaint to your satisfaction. If, for whatever reason, you feel we do not meet the high standards we expect of ourselves, you have a right to complain to the ICO. 
+You have the right to lodge a complaint with a supervisory authority. In the UK, this is the Information Commissioner's Office (ICO). However, we would appreciate the chance to put this right for you first. Please contact us using the details set out above. We will do our very best to answer any question and resolve any complaint to your satisfaction. If, for whatever reason, you feel we do not meet the high standards we expect of ourselves, you have a right to complain to the ICO.   
+ 
