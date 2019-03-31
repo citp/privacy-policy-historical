@@ -1,117 +1,135 @@
-> *The following text is extracted and transformed from the australiaforum.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606020359id_/http%3A//www.australiaforum.com/faq.php%3Ffaq%3Dprivacytext%23faq_privacytextdesc) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the australiaforum.com privacy policy that was archived on 2019-04-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190401010517id_/https%3A//www.verticalscope.com/site-privacy-policy/index.php%3Fsite%3Daustraliaforum.com) for the most accurate reproduction.*
 
-# Living and Working in Australia Forum With Immigration and Travel Information - FAQ: Privacy Policy
+# 
 
-AustraliaForum.com Limited ( **"we", "us" or "our"** ) is committed to protecting and respecting your privacy.
+**Privacy Policy**  
+Last updated: May 15, 2018 
 
-This policy (together with our [terms of use](http://www.australiaforum.com/faq.php?faq=termsofuse#faq_termsofusedesc)) sets out the basis on which any personal data we collect from you, or that you provide to us, will be processed by us. Please read the following carefully to understand our views and practices regarding your personal data and how we will treat it.
+This Privacy Policy describes how VerticalScope Inc. (' **VerticalScope** ', ' **we** ', ' **us** ' or ' **our** ') collects personal information in connection with our websites and mobile or other applications on which this Privacy Policy is posted or linked to (collectively, the ' **Site** '), and how this information may be used, shared and safeguarded. Personal information is information about you as an identifiable Site visitor.
 
-###  INFORMATION WE MAY COLLECT FROM YOU
+By visiting our Site or otherwise providing us with personal information, you agree that we may collect, use and share your personal information as described in this Privacy Policy. If you do not agree, please do not visit our Site or provide us with any personal information. We may at any time and at our sole discretion update this Privacy Policy by posting the updated Privacy Policy here along with the date on which the Privacy Policy was changed. Any changes will be effective immediately upon the posting of or linking to the revised Privacy Policy on our Site. 
 
-We may collect and process the following data about you:
+**QUICK LINKS**
 
-  * Information that you provide by filling in forms on the Website www.australiaforum.com (the " **Website** "). This includes information provided at the time of registering to use the Website, subscribing to our service, posting material in forums or requesting further services. We may also ask you for information and when you report a problem with the Website.  
+Click on one of the links below to jump to the listed section:
 
-  * If you contact us, we may keep a record of that correspondence or communication.  
-
-  * Details of transactions, contributions and/or forum threads you make on the Website.  
-
-  * Any information provided by a moderator or other user which relates to you.  
-
-  * We may also ask you to complete surveys that we use for research purposes, although you do not have to respond to them.  
-
-  * Details of your visits to the Website including, but not limited to, traffic data, location data, weblogs and other communication data and the resources that you access.
-
-Any improper collection or misuse of information provided on the Website is a violation of the australiaforum Terms and conditions and should be reported to privacy@verticalscope.com. 
-
-### IP ADDRESSES AND COOKIES
-
-We may collect information about your computer, including where available your IP address, operating system and browser type, for system administration and to report aggregate information to our advertisers. This is statistical data about our users' browsing actions and patterns, and does not identify any individual.
-
-For the same reason, we may obtain information about your general internet usage by using a cookie file which is stored on the hard drive of your computer. Cookies contain information that is transferred to your computer's hard drive. They help us to improve the Website and to deliver a better and more personalised service. They enable us:
-
-  * To estimate our audience size and usage pattern.  
-
-  * To store information about your preferences, and so allow us to customise the Website according to your individual interests.  
-
-  * To speed up your searches.  
-
-  * To recognise you when you return to the Website. 
+  1. Information we collect
+  2. How we use the information we collect
+  3. Cookies, tracking technologies and interest-based advertising
+  4. How we share your personal information
+  5. How we store and protect your personal information
+  6. Links to external content
+  7. Children
+  8. Accessing and correcting your personal information
+  9. Your choices
+  10. How to contact us
 
 
 
-You may refuse to accept cookies by activating the setting on your browser which allows you to refuse the setting of cookies. However, if you select this setting you may be unable to access certain parts of the Website. Unless you have adjusted your browser setting so that it will refuse cookies, our system will issue cookies when you log on to the Website.
+## **1\. Information we collect**
 
-###  WHERE WE STORE YOUR PERSONAL DATA
+In general, you may visit our Site without providing any personal information. However, in order to use certain features of our Site, we may need to collect your personal information. For example:
 
-The data that we collect from you may be transferred to, and stored at, a destination outside the European Economic Area (" **EEA** "). By submitting your personal data, you agree to this transfer, storing or processing. We will take all steps reasonably necessary to ensure that your data is treated securely and in accordance with this privacy policy.  
-All information you provide to us is stored on our secure servers. Where we have given you (or where you have chosen) a password which enables you to access certain parts of the Website, you are responsible for keeping this password confidential and you agree not to disclose this password to anyone. 
-
-Unfortunately, the transmission of information via the internet is not completely secure. Although we will do our best to protect your personal data, we cannot guarantee the security of your data transmitted to the Website; any transmission is at your own risk. Once we have received your information, we will use strict procedures and security features to try to prevent unauthorised access.
-
-###  USES MADE OF THE INFORMATION
-
-We use information held about you in the following ways:
-
-  * To ensure that content from the Website is presented in the most effective manner for you and for your computer.  
-
-  * Without any obligation on us to do, to check your compliance with our website terms and conditions.  
-
-  * To provide you with information, products or services that you request from us or which we feel may interest you, where you have consented to be contacted for such purposes.  
-
-  * To carry out our obligations arising from any contracts entered into between you and us.  
-
-  * To allow you to participate in interactive features of our service, when you choose to do so.  
-
-  * To notify you about changes to our service.
+  * We collect your username, email address or telephone number, and password when you create an account or public user profile. For some Sites you may be required to provide additional information such as your date of birth or the type of vehicle you own. We collect additional information that you choose to add to your account or public user profile, such as a profile picture or information about your hobbies and interests. 
+  * We collect your name, contact information and payment card information when you purchase a product or service through our Site (such as a subscription or classified advertisement). 
+  * If you use a social media account to create an account on our Site, to log-in to our Site, or if you otherwise interact with a social media service through our Site (such as by using a plug-in), we will receive personal information from the social media service, such as your username, email address, gender, public profile information and any other information that you have agreed to share with us, whether explicitly or through your privacy settings.
+  * Our Site may offer public forums or communication platforms that allow you to communicate with other users, post information, content, images, photos or videos, post your opinions on surveys, or submit reviews or ratings (collectively, your 'Content'). Your Content will be associated with your public user profile. Your Content and public user profile is public, unencrypted and non-confidential. This means that it can be read and used by others, including advertisers. We are not responsible for the information you choose to submit in these public areas. You should exercise caution when deciding to disclose personal information in public areas of our Site.
+  * We collect geographical location information if the Site you are using is location-enabled and your device transmits location data and/or your IP address, so we can provide location-specific information to you.
+  * We may collect personal information when you participate in a survey, poll, contest or promotion, such as your name and contact information and responses to survey or poll questions or the information you provide on a contest entry form.
+  * We may collect other personal information with your consent or where required or permitted by law.
 
 
 
-We may also use your data to provide you with information about goods and services which may be of interest to you and we may contact you by email, provided you have given ticked a box on our registration form by way of consent.   
-If you no longer want to receive such information, please contact us at privacy@verticalscope.com and we will unsubscribe you from these emails. 
+We, our service providers and third party advertising partners also collect information about Site visitors automatically using cookies and other tracking technologies. See Cookies, tracking technologies and interest-based advertising below.
 
-### DISCLOSURE OF YOUR INFORMATION
+## **2\. How we use the information we collect**
 
-We may disclose your personal information to third parties:
+We generally use the personal information we collect to provide the product, service, feature or information you have requested and for our reasonable business purposes, including: 
 
-  * Your account name is displayed to other users of the site and other users of the site can contact you through messages and comments. Any content that you post on the site may be redistributed through the internet and other media channels and may be viewed by the general public.  
+  * to manage our Site and provide our services, such as to create and administer accounts and facilitate the use and enjoyment of forums and communication platforms;
+  * to enable geographic-specific features, such as geographic-specific pricing and information;
+  * to process payments;
+  * to notify you of changes to your account or our Site's services, terms, conditions or policies and to provide you with administrative messages, updates, legal notices, technical notices or security alerts;
+  * to customize your user experience, including by tailoring the advertisements that are displayed to you to make them more useful and relevant to you;
+  * to conduct research and development, analyze and understand trends and user behaviour and to improve our Sites, products and services;
+  * to respond to your inquiries and provide you with technical and other support;
+  * to ensure compliance with our Terms of Use and prevent fraud;
+  * to provide you with newsletters, information, promotional offers and other advertising about us or our advertising partners;
+  * to facilitate your participation in a contest or similar promotion, or a survey or poll;
+  * to meet contractual obligations; and
+  * for other purposes with your consent or as permitted or required by law.
 
-  * We allow non – users to browse forum message boards and general user profiles as a guest. Guests have only limited capabilities and cannot post messages on the Website or view email addresses.  
-
-  * In the event that we sell or buy any business or assets, in which case we may disclose your personal data to the prospective seller or buyer of such business or assets.  
-
-  * If AustraliaForum.com or substantially all of its assets are acquired by a third party, in which case personal data held by it about its customers will be one of the transferred assets.  
-
-  * If we are under a duty to disclose or share your personal data in order to comply with any legal obligation, or in order to enforce or apply our [terms of use](http://www.australiaforum.com/faq.php?faq=termsofuse#faq_termsofusedesc) and other agreements; or to protect the rights, property, or safety of AustraliaForum.com, our customers, or others. This includes exchanging information with other companies and organisations for the purposes of fraud protection and credit risk reduction.
 
 
+## **3\. Cookies, tracking technologies and interest-based advertising**
 
-While we endeavour to ensure that the information we hold about you is accurate and, where necessary, kept up to date, we shall assume that in the absence of evidence to the contrary, the information you provide us with is accurate. Should there be any inaccuracies in the information of which you inform us, or of which we become aware, it shall be promptly rectified by us. We do not retain any information about you which is out of date or no longer required. 
+We, our service providers and third party advertising partners use technologies that automatically collect information about Site visitors.
 
-###  YOUR RIGHTS
+We automatically collect information about how you access, navigate and leave our Site, including the website you came from before visiting our Site, what browser type and operating system you are using, the internet protocol (IP) address you are accessing the Site from, your mobile device ID or Advertising ID if you visit our Site from a mobile device, the pages of our Site that you are navigating through, the date and time of your visit, how long you spend on our Site or certain pages of our Site, and what website you go to after visiting our Site. This information may be used to determine how many visitors visit our Site or certain areas of our Site, how long they remain on our Site, whether they use the hyperlinks we provide or respond to advertising and to tailor our advertisements to you. We may share this information with partners who referred you to our Site, and with advertising partners, who may use the information to optimize the traffic they send to us and for delivering targeted ads to you when you visit other websites.
 
-You have the right to ask us not to process your personal data for marketing purposes. We will usually inform you (before collecting your data) if we intend to use your data for such purposes or if we intend to disclose your information to any third party for such purposes. You can exercise the right at any time by contacting us at privacy@verticalscope.com.  
-Advertisements which appear on the Website may sometimes be delivered directly to users by third party advertisers. They automatically receive your IP address when this happens. These third party advertisers may also download cookies to your computer we do not have access to or control of the cookies that may be placed by any third party advertisers. Third party advertisers have no access to your contact information stored on the Website unless you choose to share it with them. 
+We, our service providers and third-party advertising partners collect information about Site visitors using cookies and other tracking technologies (including browser cookies, pixels and Adobe Flash). We use these technologies to remember your preferences and facilitate your navigation of our Site. We and our service providers and third-party advertising partners also use these technologies to track your activities on our Site and other websites, including the websites and web pages that you visited, the ads or content that you clicked on and the search terms you used, in order to deliver tailored advertising to you. We may also share a hashed or encrypted version of your email address or telephone number with advertising partners so that you may be served with tailored advertising on our websites or other third party websites. These advertising partners are not permitted to use your hashed or encrypted email address for any other purpose. 
 
-This privacy policy covers our use of cookies but does not cover the use of cookies or other tracing technologies by any of its advertisers. 
+If you would prefer not to accept cookies, most browsers will allow you to: (i) change your browser settings to notify you when you receive a cookie, which lets you choose whether or not to accept it; (ii) disable existing cookies; or (iii) set your browser to automatically reject any cookies. You may also set your e-mail options to prevent the automatic downloading of images that may contain technologies that would allow us to know whether you have accessed our e-mail and performed certain functions with it. If you don't want us to share your hashed or encrypted email address with advertising partners, simply opt-out of our promotional communications. See Your Choices below. 
 
-The Website may, from time to time, contain links to and from the websites of our partner networks, advertisers and affiliates. If you follow a link to any of these websites, please note that these websites have their own privacy policies and that we do not accept any responsibility or liability for these policies. Please check these policies before you submit any personal data to these websites.
+At this time, we do not respond to browser 'do not track' signals. However, you may also opt-out of network advertising programs that track your activities across multiple websites to deliver personalized advertising content to you. Please visit [Digital Advertising Alliance of Canada Opt-Out Page](http://youradchoices.ca/understanding-online-advertising), [NAI Opt-Out Page](http://www.networkadvertising.org/choices/%5d%20) and the [Ad Choices Opt-Out Page](http://www.aboutads.info/choices). 
 
-###  CHANGING OR REMOVING INFORMATION
+We use Google Analytics to help us understand how our Site visitors use the Site, and as well as certain features of Google Analytics Display Advertising to advertise online, sell advertising and to develop content. You can opt out of Google Analytics and customize Google's Display Network ads. Please visit [Google's Ad Settings](https://www.google.ca/settings/ads?hl=en-GB&sig=ACi0TChcn38hjfs81vhis-lHPEFutHa4wTjKTTYLde8Te7kFkjhssvxJtvPzARFnl4zsrUvJxBZzttCNq7h0T4bGaa6vdJatyTG0psR5BwGgwEWTWOFuy0c2qoyWC-TPCVzunZHSxtpy7V1KLCOI7EoBsf0HKnoA1J8cmI3FZz_-cuwNnYOHY5MyPD4bpjoQiiq_2M8f0pr-) and [Google Analytics Opt-out Browser Add-on](https://tools.google.com/dlpage/gaoptout). Please visit [How Google uses data when you use our partners' sites or apps](https://policies.google.com/privacy/partners) for a description of how Google uses information sent by our browser and for ways you can control the information sent to Google. 
 
-Access and control over most personal information on the Website is readily available through the profile editing tools. The Website users may modify or delete any of their profile information at any time by logging into their account. Information will be updated immediately. Individuals who wish to deactivate their australiaforum account may do so in the my account page. Removed information may persist in backup copes for a reasonable period of time but will not be generally available to members of australiaforum. 
+## **4\. How we share your information**
 
-Where you make use of the communication features of the service to share information with other individuals on the Website, however (e.g. sending a private message to another the Website user) you generally cannot remove such communication. 
+We may share information we collect about you in the following circumstances.
 
-### ACCESS TO INFORMATION
+**Advertising partners**  
+We share information with our third-party advertising partners as described in the Cookies, tracking technologies and interest-based advertising section above.
 
-The Act gives you the right to access information held about you. Your right of access can be exercised in accordance with the Act. Any access request may be subject to a fee of £10 to meet our costs in providing you with details of the information we hold about you.
+**Service Providers**  
+We may use service providers (including affiliates acting in this capacity) to provide services to us or to you on our behalf. For example, our service providers may host our Site, analyze data collected from our Site, provide customer service on our behalf, administer our promotions, facilitate and process transactions and payments, provide marketing or promotional assistance, distribute emails and other communications, post our advertisements (including online through targeted advertising campaigns), and collect your feedback on our Site and advertisements. We share your personal information with our service providers solely for the purposes of providing services to you and to us. They are not permitted to use your personal information for other purposes. Some of our service providers are located outside of Canada, including in the United States. While your personal information is located outside Canada it will be subject to legal requirements applicable to our service providers, for example, lawful requirements to disclose personal information to national security agencies or government authorities in certain circumstances. 
 
-###  CHANGES TO OUR PRIVACY POLICY
+**Aggregate or de-identified information**  
+We may use your personal information to create aggregate statistics and de-identified data. We may use, share and sell this information for any purpose.
 
-Any changes we may make to our privacy policy in the future will be posted on this page and, where appropriate, notified to you by e-mail.
+**With your consent**  
+We may share your personal information with third parties with your consent. For example, if you provide us with your contact information, such as an e-mail address, for the purposes of signing up for information, newsletters, contests, or marketing offers from a third party, or for receiving business offers or service quotes from a third party, we may share your personal information for that purpose. Once shared, your personal information will be subject to the privacy policy of that third party.
 
-###  CONTACT
+**Business Transactions**  
+We may disclose personal information to third parties in connection with the proposed or actual financing, securitization, insuring, sale, assignment or other disposal of all or part of VerticalScope or our business or assets. These third parties may use the information, for the purposes of evaluating and/or completing the proposed transaction. We will use reasonable efforts to ensure that our successors or assigns process the information we transfer to them in a manner that is consistent with this Privacy Policy. 
 
-Questions, comments and requests regarding this privacy policy are welcomed and should be addressed to privacy@verticalscope.com.  
+**Other**  
+We may disclose your personal information in other circumstances where permitted or required by law or other legal process. For example, we may disclose your personal information: (a) to collect a debt owed to us; (b) as necessary to comply with a subpoena, warrant, court order or other legal process; (c) if disclosure is requested by an investigatory body, law enforcement official or governmental authority which has lawful authority to request the disclosure of the information in respect of an investigation or other legal process; or (d) if we have reasonable grounds to believe that the information relates to a breach of an agreement or contravention of a law, or to protect the personal safety of our users or defend our rights or property.
+
+## **5\. How we store and protect personal information**
+
+Personal information is maintained on our servers (or those of our service providers). In an effort to protect your personal information against unauthorized access or disclosure. For example, accounts you create on our Sites are password protected. In identified parts of our Sites, we use SSL-encryption to protect data transmissions. We limit access to personal information to employees, representatives and service providers who require access in connection with their job responsibilities. Please note it is not possible to transmit data with absolute security over the internet, and we cannot and do not guarantee the security of your personal information.
+
+## **6\. Links to external content**
+
+Our Site may link or direct you to other websites, services or external content provided by third parties. We do not exercise any control over these third party websites or services. We are not responsible for the privacy practices of such third party websites or services. We recommend that you read the privacy policy for any third party website that you visit or service that you use. 
+
+## **7\. Children**
+
+Our Sites are not directed to and we do not knowingly request or collect personal information from children - persons under 13 years of age, or another age if required by applicable law - without prior verifiable parental consent. If we become aware that we have unknowingly collected personal information about a child without verifiable parental consent, we will delete this information from our records or, if that is not reasonable, we will take reasonable available steps to de-identify the information. 
+
+## **8\. Accessing or correcting your personal information**
+
+We encourage you to keep your personal information accurate and up to date. You can access and correct the information in your account or public user profile by logging in to your account or profile and making the necessary edits.  
+You can request access to or correction of your personal information in our custody or control by contacting us as set out below. We may take reasonable steps to authenticate your identity before providing you with access to your personal information or making corrections. Please also note that in some cases we may not be able to provide you with the personal information you have requested (for example, if the information is subject to solicitor-client privilege or contains personal information of others that cannot be severed). 
+
+## **9\. Your Choices**
+
+You may opt out of receiving promotional communications from us at any time by following the unsubscribe instructions included in each communication and/or by selecting your communication preferences in an account or profile.
+
+You may be able to control the information we received from your device or from third parties (such as social media networks) by changing your device settings, browser settings or privacy settings.  
+You may withdraw your consent to our collection, use or disclosure of your personal information, subject to contractual or legal restrictions and reasonable notice. However, if you withdraw your consent to certain collections, uses or disclosures of your personal information, we may not be able to provide you with certain products or services. 
+
+## **10\. How to contact us**
+
+If you have any questions or comments about this Privacy Policy, please contact us at:
+
+privacy@verticalscope.com 
+
+Privacy Officer  
+111 Peter, Suite 901  
+Toronto, Ontario  
+M5V 2H1  
+Canada  
 
