@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the abookapart.com privacy policy that was archived on 2018-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181201210525id_/https%3A//abookapart.com/pages/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the abookapart.com privacy policy that was archived on 2019-03-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190331085508id_/https%3A//abookapart.com/pages/privacy-policy) for the most accurate reproduction.*
 
 # A Book Apart, Privacy Policy
 
