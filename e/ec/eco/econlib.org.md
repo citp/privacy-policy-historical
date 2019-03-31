@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the econlib.org privacy policy that was archived on 2018-09-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180919074738id_/https%3A//www.econlib.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the econlib.org privacy policy that was archived on 2019-03-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190331133845id_/https%3A//www.econlib.org/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy – Econlib
+# Privacy Policy - Econlib
 
 **Privacy Policy**  
 Neither the Library of Economics and Liberty, EconTalk, EconLog, nor their owner, Liberty Fund, Inc., gather information about you that is tied to your name or email address unless you specifically request it. Information tied to your name or email address is not used for anything other than to contact you for matters directly related to your request. We do not sell our mailing lists or use them to send mass mailings other than those for which you have explicitly selected. Neither do we correlate information across the various sources.
