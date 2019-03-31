@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the musicinafrica.net privacy policy that was archived on 2017-03-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170324124831id_/http%3A//musicinafrica.net/legal/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the musicinafrica.net privacy policy that was archived on 2019-03-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190331064218id_/https%3A//www.musicinafrica.net/legal/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Music In Africa
 
