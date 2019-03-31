@@ -1,18 +1,16 @@
-> *The following text is extracted and transformed from the thebl.com privacy policy that was archived on 2018-09-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180912081623id_/http%3A//thebl.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thebl.com privacy policy that was archived on 2019-03-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190331060521id_/https%3A//thebl.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - theBL.com
+# Privacy Policy | TheBL.com
 
-__06:15, 11/08/2018 [Print](http://thebl.com/privacy-policy/print/ "Print") T + T - 
+__06:15, 11 Aug 2018 [Print](https://thebl.com/privacy-policy/print/ "Print") T + T - 
 
 **_Who We Are_**
 
-Beauties of Life INC _(‘we’ or ‘us’ or ‘our’)_ gathers and processes your personal information in accordance with this privacy notice and in compliance with the relevant data protection Regulation and law. This notice provides you with the necessary information regarding your rights and obligations, and explains how, why and when we collect and process your personal data.
-
-Beauties of Life INC’s registered office is at 229 West 28th Street, 6th FL, New York, NY10001, USA. We can be contacted by email: privacy@bldaily.com.
+TheBL.com  _(‘we’ or ‘us’ or ‘our’)_ gathers and processes your personal information in accordance with this privacy notice and in compliance with the relevant data protection Regulation and law. This notice provides you with the necessary information regarding your rights and obligations, and explains how, why and when we collect and process your personal data.
 
 **_Information That We Collect_**
 
-Beauties of Life INC processes your personal information to meet our legal, statutory and contractual obligations and to provide you with our products and services. We will never collect any unnecessary personal data from you and do not process your information in any way, other than already specified in this notice.
+TheBL.com processes your personal information to meet our legal, statutory and contractual obligations and to provide you with our products and services. We will never collect any unnecessary personal data from you and do not process your information in any way, other than already specified in this notice.
 
 **_The personal data that we collect from is:_**
 
@@ -34,7 +32,7 @@ Beauties of Life INC processes your personal information to meet our legal, stat
 
 **_How We Use Your Personal Data (_** _ _Legal Basis for Processing__ _ _)__
 
-Beauties of Life INC takes your privacy very seriously and will never disclosure or sell your data without your consent, unless required to do so by law. We only retain your data for as long as is necessary and for the purposes specified in this notice. Where you have consented to us providing you with promotional offers and marketing, you are free to withdraw consent at any time.  The purposes and reasons for processing your personal data are detailed below:
+TheBL.com takes your privacy very seriously and will never disclosure or sell your data without your consent, unless required to do so by law. We only retain your data for as long as is necessary and for the purposes specified in this notice. Where you have consented to us providing you with promotional offers and marketing, you are free to withdraw consent at any time.  The purposes and reasons for processing your personal data are detailed below:
 
   * we collect information about your use of our websites and Apps, in order to improve the contents of the websites and Apps, make them more suitable to your needs and increase their usability
   * to make your navigation more pleasant and personalized, with our products (such as contents) and services personalized to you
@@ -46,7 +44,7 @@ Beauties of Life INC takes your privacy very seriously and will never disclosure
 
 **_Your Rights_**
 
-You have the right to access any personal information that Beauties of Life INC processes about you and to request information about:
+You have the right to access any personal information that TheBL.com processes about you and to request information about:
 
   * What personal data we hold about you
   * The purposes of the processing
@@ -67,7 +65,7 @@ Please bear in mind that if you exercise such rights, this may affect our abilit
 
 **_Sharing and Disclosing Your Personal Information_**
 
-We do not share or disclose any of your personal information without your consent, other than for the purposes specified in this notice or where there is a legal requirement. Beauties of Life INC uses trusted third-parties to provide the below services and business functions, those our third-parties collect and process your data governed by their privacy policy.
+We do not share or disclose any of your personal information without your consent, other than for the purposes specified in this notice or where there is a legal requirement. TheBL.com uses trusted third-parties to provide the below services and business functions, those our third-parties collect and process your data governed by their privacy policy.
 
 We share your personal data with the following categories:
 
@@ -82,37 +80,35 @@ Our service providers such as Google and Facebook are U.S. companies. They compl
 
 **_Safeguarding Measures_**
 
-Beauties of Life INC takes your privacy seriously and we take every reasonable measure and precaution to protect and secure your personal data. We work hard to protect you and your information from unauthorized access, alteration, disclosure or destruction and have certain qualified security measures in place.
+TheBL.com takes your privacy seriously and we take every reasonable measure and precaution to protect and secure your personal data. We work hard to protect you and your information from unauthorized access, alteration, disclosure or destruction and have certain qualified security measures in place.
 
 Encryption is our security strategy to ensure the stored personal data can be accessed only by the authorized roles and services with audited access to the encryption keys.
 
 Personal data is encrypted and stored in a private and isolated environment for extended security.
 
-We store all personal data we collect from EU countries in Beauties of Life INC EU Data Center, physically located inside EU, where our processing those data takes place as well.
+We store all personal data we collect from EU countries in TheBL.com EU Data Center, physically located inside EU, where our processing those data takes place as well.
 
 **_Consequences of Not Providing Your Data_**
 
-You are not obligated to provide your personal information to Beauties of Life INC, however, as this information is required for us to provide you with our services/deliver products, we will not be able to offer some/all of our products or services without it.
+You are not obligated to provide your personal information to TheBL.com, however, as this information is required for us to provide you with our services/deliver products, we will not be able to offer some/all of our products or services without it.
 
 **_How Long We Keep Your Data_**
 
-Beauties of Life INC retains your personal data for as long as necessary for the purpose for which it is collected, to provide you with our services as our users on websites and Apps.
+TheBL.com retains your personal data for as long as necessary for the purpose for which it is collected, to provide you with our services as our users on websites and Apps.
 
 **_Individuals under 16_**
 
-Beauties of Life INC does not intentionally and knowingly process personal information from individuals under the age of 16. Personal data of users under the age of 16 will be processed only if consent is given or authorized by the holder of parental responsibility over the child. We will make every reasonable effort to verify in such cases.
+TheBL.com does not intentionally and knowingly process personal information from individuals under the age of 16. Personal data of users under the age of 16 will be processed only if consent is given or authorized by the holder of parental responsibility over the child. We will make every reasonable effort to verify in such cases.
 
 **_Lodging A Complaint_**
 
-Beauties of Life INC only processes your personal information in compliance with this privacy notice and in accordance with the relevant data protection laws. If, however you wish to raise a complaint regarding the processing of your personal data or are unsatisfied with how we have handled your information, you have the right to lodge a complaint with the supervisory authority.
+TheBL.com only processes your personal information in compliance with this privacy notice and in accordance with the relevant data protection laws. If, however you wish to raise a complaint regarding the processing of your personal data or are unsatisfied with how we have handled your information, you have the right to lodge a complaint with the supervisory authority.
 
-**Beauties of Life INC  
-****Address** : 960 Jackson Street, San Francisco, CA 94133, USA  
-**Email:** _privacy@bldaily.com_
+**Email:  [contact@thebl.com](mailto:contact@thebl.com)**
 
 **_Changes to our privacy notice_**
 
-Beauties of Life INC may change this notice from time to time. All changes will be posted and updated here. We will notify you directly by email (if we hold one for you) if any significant changes occur. We advise you to check back here frequently to review the most current version of this notice.
+TheBL.com may change this notice from time to time. All changes will be posted and updated here. We will notify you directly by email (if we hold one for you) if any significant changes occur. We advise you to check back here frequently to review the most current version of this notice.
 
 This statement was last updated on May 25, 2018.
 
@@ -120,6 +116,6 @@ This statement was last updated on May 25, 2018.
 
 If you have other questions, contact us by:
 
-sending an email to the following address:  _privacy@bldaily.com_
+  * sending an email to the following address:  **[contact@thebl.com](mailto:contact@thebl.com)**
 
-writing to the following postal address: 960 Jackson Street, San Francisco, CA 94133, USA
+
