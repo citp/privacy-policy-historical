@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the previously.tv privacy policy that was archived on 2018-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181226212002id_/http%3A//previously.tv/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the previously.tv privacy policy that was archived on 2019-03-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190331063402id_/http%3A//previously.tv/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Previously.TV
 
