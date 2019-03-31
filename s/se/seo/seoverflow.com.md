@@ -1,69 +1,48 @@
-> *The following text is extracted and transformed from the seoverflow.com privacy policy that was archived on 2016-03-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160323130256id_/http%3A//www.goinflow.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the seoverflow.com privacy policy that was archived on 2019-03-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190331095144id_/https%3A//www.goinflow.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
-The Inflow Privacy Policy
+This Privacy Policy was last updated on April 26, 2018. This document governs the privacy policy of our websites[ www.goinflow.com](https://www.goinflow.com/) and[ www.inflowconversion.com](https://www.inflowconversion.com/). We know that privacy and confidentiality are important to our subscribers and clients.
 
-**What information do we collect?**
+### **Information We Collect**
 
-We collect information from you when you subscribe to our newsletter, respond to a survey or fill out a form.
+We collect personally identifiable information when you fill out any of our website forms in order to access content, contact us about our services, or subscribe to our email newsletter. This information includes the following categories:
 
-When requesting contact from Inflow or subscribing on our site, as appropriate, you may be asked to enter your name, e-mail address, mailing address or phone number. You may, however, visit our site anonymously.
+  1. Personal contact information
+  2. Interest Categories
+  3. Industry information
+  4. Company information
 
-**What do we use your information for?**
 
-Any of the information we collect from you may be used in one of the following ways:
 
-• To improve our website
+This information is voluntarily provided when you fill out our forms and you control the amount and type of information provided when visiting our websites. As a visitor, you can browse our website without providing any information, it is not a requirement.
 
-We continually strive to improve our website offerings based on the information and feedback we receive from you.
+### **How Information is Used**
 
-• To process transactions
+How your information is used depends on the forms that you fill out. We use email addresses to contact you about our services, provide additional content relating to our services, maintain client communications, and send email newsletters. These email addresses are only for agency use and are never shared with unaffiliated outside parties without your permission.
 
-Your information, whether public or private, will not be sold, exchanged, transferred or given to any other company for any reason whatsoever, without your consent, other than for the express purpose of delivering service requested.
+Information gathered through cookies and Google Analytics tracking does not contain personally identifying information and its use is limited to providing and improving our websites. 
 
-• To administer a contest, promotion, survey or other site feature
+We never use or share any personally identifiable information provided to us in ways unrelated to those described above without providing you the opportunity to opt-out or prohibit such uses. 
 
-• To send periodic emails
+### **Communication**
 
-The email address you provide for order processing/inquiry will only be used to send you information and updates pertaining to your order/inquiry.
+When we communicate with you, we will use only the email address you provide to us through form submissions. Email communications can include: newsletters, content offers with download links, and promotional information about our services. 
 
-If you decide to opt-in to our mailing list, you will receive emails that may include company news, updates, related product/service information, etc.
+We comply with the federal CAN-SPAM Act. You can opt-out of these emails at any time by clicking the “Unsubscribe” link at the bottom of our emails. You can also update your information by sending a message to [Marketing@Goinflow.com](mailto:Marketing@Goinflow.com).
 
-Note: If at any time you would like to unsubscribe from receiving future emails, we include detailed unsubscribe instructions at the bottom of each email.
+### **Cookies and Tracking**
 
-**How do we protect your information?**
+Our websites use “cookies” (small pieces of data stored on your computer or mobile devices by your web browser). Cookies are used to identify the areas of our websites that you visit. These cookies are also used to improve your browsing experience by eliminating the need to submit multiple forms in order to access certain pieces of content. In some cases, cookies may be used to personalize the content you see on our website. Most web browsers allow users the option to disable the use of cookies, if this is information that you do not want to share with us.
 
-We implement a variety of security measures to maintain the safety of your personal information when you place an order.
+Additionally, information such as your IP address, browser type, language, and the date and time of your requests may be automatically recorded. We use this information to track trends amongst users in order to improve your experience. 
 
-**Do we use cookies?**
+### **Google Ad Content and Google Analytics**
 
-Yes. Cookies are small files that a site or its service provider transfers to your computer’s hard drive through your web browser, (if you allow), that enables the sites or service provider’s systems to recognize your browser and capture and remember certain information.
+Our websites use Google Analytics to collect information about users on our site. Google Analytics tracks how often users visit, the pages being visited, browsing behavior, referring sites, and so forth. We use this information in order to improve our site. While Google Analytics records the IP address assigned to you on the date that you visit our site, Google Analytics does not track any identifying information. You can learn more about Google Analytics by reading the[ Google Analytics Terms of Use](http://www.google.com/analytics/terms/us.html). 
 
-We use cookies to understand and save your preferences for future visits and compile aggregate data about site traffic and site interaction so that we can offer better site experiences and tools in the future.
+### **Changes to the Privacy Policy**
 
-**Do we disclose any information to outside parties?**
+Inflow reserves the right to change and update our privacy policy at any time. Updates will always be posted to this page. If our policy should change in a manner that might result in the disclosure of personally identifiable information that a visitor or client has provided, we will contact you via email in order to provide you the opportunity to prevent such disclosure.
 
-We do not sell, trade or otherwise transfer your personally identifiable information to outside parties. This does not include trusted third parties who assist us in operating our website, conducting our business or servicing you, so long as those parties agree to keep this information confidential. We may also release your information when we believe release is appropriate to comply with the law, enforce our site policies or protect our or others’ rights, property or safety. However, non-personally identifiable visitor information may be provided to other parties for marketing, advertising or other uses.
-
-**Third party links**
-
-Occasionally, at our discretion, we may include or offer third party products or services on our website. These third party sites have separate and independent privacy policies. We therefore have no responsibility or liability for the content and activities of these linked sites. Nonetheless, we seek to protect the integrity of our site and welcome any feedback about these sites.
-
-**California Online Privacy Protection Act Compliance**
-
-Because we value your privacy we have taken the necessary precautions to be in compliance with the California Online Privacy Protection Act. We therefore will not distribute your personal information to outside parties without your consent.
-
-**Children’s Online Privacy Protection Act Compliance**
-
-We are in compliance with the requirements of COPPA (Children’s Online Privacy Protection Act), and we do not collect any information from anyone under 13 years of age. Our website, products/ services are all directed to people who are at least 13 years old or older.
-
-**Your Consent**
-
-By using our site, you consent to our [web site privacy policy](http://www.freeprivacypolicy.com/).
-
-**Changes to our Privacy Policy**
-
-If we decide to change our privacy policy, we will post those changes on this page, and/or update the Privacy Policy modification date below.
-
-This policy was last modified on 03/03/2014
+If you have any questions about this policy, please reach out via the contact information at the top of the page. 
