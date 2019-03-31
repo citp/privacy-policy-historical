@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lightroomqueen.com privacy policy that was archived on 2018-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181229154321id_/https%3A//www.lightroomqueen.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lightroomqueen.com privacy policy that was archived on 2019-03-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190331074104id_/https%3A//www.lightroomqueen.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | The Lightroom Queen
 
@@ -34,7 +34,7 @@ Postal address: 125 Firgrove Road, Southampton, SO15 3ET, UK
 
 If you are not happy with any aspect of how we collect and use your data, you have the right to complain to the Information Commissioner’s Office (ICO), the UK supervisory authority for data protection issues ([www.ico.org.uk](https://www.ico.org.uk/)). We should be grateful if you would contact us first if you do have a complaint so that we can try to resolve it for you.
 
-It is very important that the information we hold about you is accurate and up to date. Please let us know if at any time your personal information changes by emailing us at [mail@lightroomqueen.com](mailto:mail@lightroomqueen.com?subject=Privacy%20Policy) or by updating your profile for the [Newsletter](https://www.lightroomqueen.com/members/newsletter/), Forum, and/or [Premium Members Area](https://www.lightroomqueen.com/members/profile/).
+It is very important that the information we hold about you is accurate and up to date. Please let us know if at any time your personal information changes by emailing us at [mail@lightroomqueen.com](mailto:mail@lightroomqueen.com?subject=Privacy%20Policy) or by updating your profile for the [Newsletter](https://www.lightroomqueen.com/members/newsletter/), Forum, and/or [Premium Members Area](https://www.lightroomqueen.com/members/edit-account/).
 
 **2\. WHAT DATA DO WE COLLECT ABOUT YOU**
 
