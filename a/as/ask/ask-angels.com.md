@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ask-angels.com privacy policy that was archived on 2018-10-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181004212841id_/https%3A//www.ask-angels.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ask-angels.com privacy policy that was archived on 2019-03-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190331084439id_/https%3A//www.ask-angels.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Notice - Ask-Angels.com
 
@@ -238,3 +238,5 @@ If you have any questions about our privacy notice, please contact us using the 
 
 Copyright © Orion Systems. This document or any portion of it may not be copied or duplicated without  
 a license from [http://www.DisclaimerTemplate.com](http://www.disclaimertemplate.com/)
+
+[](https://www.pinterest.com/pin/create/button/)
