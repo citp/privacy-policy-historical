@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the everydaypowerblog.com privacy policy that was archived on 2018-10-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181002011138id_/https%3A//everydaypowerblog.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the everydaypowerblog.com privacy policy that was archived on 2019-03-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190331081402id_/https%3A//everydaypowerblog.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Everyday Power Blog
 
