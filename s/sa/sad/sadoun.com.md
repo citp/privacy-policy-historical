@@ -1,39 +1,47 @@
-> *The following text is extracted and transformed from the sadoun.com privacy policy that was archived on 2018-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181203181854id_/http%3A//www.sadoun.com/privacy_policy_statement.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sadoun.com privacy policy that was archived on 2019-03-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190331102846id_/https%3A//www.sadoun.com/privacy-policy) for the most accurate reproduction.*
 
-# 
+# Privacy Policy | Sadoun Sales International
 
-We can be reached via e-mail at [info@sadoun.com](mailto:jamalsadoun@globalssc.com?subject=GlobalSSC%20Privacy%20Policy%20Question)
+Sadoun.com is compliant with The General Data Protection Regulation (GDPR) (EU) 2016/679.
 
-Telephone: 832-819-0560
+It means that we are open about our methods of tracking and use of the visitors’ personal data, and you can freely check what exactly we’re doing to it.
 
-For each visitor to our Web page, our Web server automatically recognizes no information regarding the domain or e-mail address.
+At sadoun.com, we collect:
 
-We collect information volunteered by the consumer, such as survey information and/or site registrations.
+  * Your name and surname
+  * Your email address
+  * Your physical address
+  * Your phone number
+  * The data about the browser and device you use to view the store
+  * The way you navigate the store
 
-The information we collect (including your email address) is used to improve the content of our Web page, used to customize the content and/or layout of our page for each individual visitor, **used to notify consumers about updates to our Web site or products** , shared with other reputable organizations to help them contact consumers for marketing purposes, not shared with other organizations for commercial purposes.
 
-With respect to cookies: We use cookies to store visitors preferences, record session information, such as items that consumers add to their shopping cart, record user-specific information on what pages users access or visit, alert visitors to new areas that we think might be of interest to them when they return to our site, record past activity at a site in order to provide better service when visitors return to our site .
 
-If you do not want to receive e-mail from us in the future, please let us know by sending us e-mail at the above address, writing to us at the above address.  Or you can opt-out using the opt-out links provided on our email newletter.
+We gather your contact details because they are necessary to accept and process your orders, and to make sure you’ve got your packages.
 
-From time to time, we make our _customer_ e-mail list available to other reputable organizations whose products or services we think you might find interesting. If you do not want us to share your e-mail address with other companies or organizations, please let us know by calling us at the number provided above, writing to us at the above address.
+We gather the details of your technical equipment and on-site behavior in order to make our store more user-friendly, and to personalize our store services for you (for example, to automatically switch the store to the mobile version.)
 
-If you supply us with your postal address on-line you will only receive the information for which you provided us your address.
+Our store works with outer companies that help us provide the best service for you, and these third parties also use some of the personal details you’re leaving. We limit the data they can access to only what is necessary for them to perform their obligations.
 
-Persons who supply us with their telephone numbers on-line will only receive telephone contact from us with information regarding orders they have placed on-line.
+  * Payment services use your credit card number, your name and surname to verify and process your payments for our products
+  * Our manufacturers and stock keepers use the data of your order contents to assemble the necessary package for you
+  * Postal services use your first name, last name, and physical address to arrange the product delivery for you
+  * Mass mailing services use your email address to send you emails (if you have subscribed for them)
 
-With respect to Ad Servers: To try and bring you offers that are of interest to you, we have relationships with other companies that we may allow to place ads on our Web pages. As a result of your visit to our site, ad server companies may collect information such as your domain type, your IP address and clickstream information.
 
-From time to time, we may use customer information for new, unanticipated uses not previously disclosed in our privacy notice. If our information practices change at some time in the future we will post the policy changes to our Web site to notify you of these changes and provide you with the ability to opt out of these new uses. If you are concerned about how your information is used, you should check back at our Web site periodically.
 
-Upon request we provide site visitors with access to transaction information (e.g., dates on which customers made purchases, amounts and types of purchases) that we maintain about them, contact information (e.g., name, address, phone number, email address) that we maintain about them .
+If you keep browsing our webstore after reading this Privacy Policy, you give us the consent to use your personal details for the purposes explained above.
 
-Consumers can access this information by e-mailing us at the above address, writing to us at the above address.
+If you don’t agree to these terms, please leave the website.
 
-Upon request we offer visitors the ability to have inaccuracies corrected in contact information, financial information, unique identifiers.
+You can email us at support@sadoun.com and ask:
 
-Consumers can have this information corrected by sending us e-mail at the above address, writing to us at the below address.
+  * To receive the copy of your personal details we have collected
+  * To delete your personal details from our system
+  * To withdraw your consent (if you previously agreed to provide us with the data, but then changed your mind)
 
-With respect to security: We always use industry-standard encryption technologies when transferring and receiving consumer data exchanged with our site, When we transfer and receive certain types of sensitive information such as financial information, we redirect visitors to a secure server and will notify visitors through a pop-up screen on our site.
 
-If you feel that this site is not following its stated information policy, you may contact us at the above addresses or phone number.
+
+We are doing our best to guarantee the security of your personal details while keeping and using them.
+
+Thank you for your cooperation!
