@@ -1,85 +1,136 @@
-> *The following text is extracted and transformed from the easytechguides.com privacy policy that was archived on 2016-08-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160811235326id_/http%3A//www.easytechguides.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the easytechguides.com privacy policy that was archived on 2019-03-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190331084121id_/https%3A//www.easytechguides.com/privacy.html) for the most accurate reproduction.*
 
-# Privacy & Cookie Policy - EasyTechGuides
+# Privacy and cookie policy
 
-Thank you for visiting EasyTechGuides.
+On this privacy and cookie policy page I will explain to you about the personal information that this website collects, why I collect this information, and with whom this information is shared.
 
-To better protect your privacy we want to explain our online information practices and the choices you can make about the way your information is collected and used.
+## Information that this website collects
 
-Your privacy is important to us and it's our job to protect your privacy when you are visiting our website.
+Like most websites, this website uses [Google Analytics](https://analytics.google.com/) to track visitors and measure how users interact with this site.
 
-We will not collect any personal information about our visitors.
+The following information is collected:
 
-We will not share any information about our visitors.
+  * How many people visit this website
+  * How people find this website (e.g., via Google, Bing, Yahoo, etc.)
+  * Which web pages are being visited
+  * How long people stay on this site's web pages
+  * Which countries visitors come from (e.g., United States, United Kingdom, The Netherlands, etc.)
+  * The language of the visitors (e.g., English, Dutch, German, etc.)
+  * Which devices visitors use (e.g., computer, tablet, smartphone, etc.)
+  * Which web browsers visitors use (e.g., Google Chrome, Mozilla Firefox, Opera, etc.)
+  * Which operating systems visitors use (e.g., Windows, macOS, Linux, Android, etc.)
+  * What people search for on this website by using this site's search function
 
-## What we collect
 
-When you visit our website, you do it anonymously. We may collect your IP address (internet address of your computer) to give us an idea of which page you visit and how long you are on that page.
 
-Like many other websites, we may use a "cookie" to collect information about how you use our website.
+Even though I have access to this information, none of this information personally identifies you to me.
 
-## What are cookies?
+Google Analytics also records your computer's IP address (which could be used to personally identify you), but Google does not give me access to this information.
 
-A cookie is a small text file that a website saves on your computer or mobile device when you visit the site. It enables the website to remember your actions and preferences (such as login, language, font size and other display preferences) over a period of time, so you don’t have to keep re-entering them whenever you come back to the site or browse from one page to another.
+But:
 
-## How do we use cookies?
+I enabled IP anonymization in Google Analytics, which means that your full IP address will never be stored.
 
-### Google Analytics
+The IP anonymization/masking takes place as soon as data is received by the Analytics Collection Network before any storage or processing takes place. [More information about IP Anonymization](https://support.google.com/analytics/answer/2763052).
 
-[Google Analytics](https://analytics.google.com/?hl=en) is a simple, easy-to-use tool that helps website owners measure how users interact with website content.
+Google Analytics uses cookies to track visitors and measure how users interact with this site.
 
-Google Analytics provides website owners JavaScript tags (libraries) to record information about the page a user has seen, for example the URL of the page.
+[More information about Google Analytics](https://support.google.com/analytics/answer/6004245).
 
-The Google Analytics JavaScript libraries use [HTTP Cookies](https://en.wikipedia.org/wiki/HTTP_cookie) to "remember" what a user has done on previous pages / interactions with the website.
+[How Google uses information from sites or apps that use their services](https://policies.google.com/technologies/partner-sites).
 
-Important: Google Analytics does not store any personal information about the visitors of our website.
+## Why I collect this information
 
-### DoubleClick cookie
+I collect this information to analyze and improve the content of this website.
 
-The [DoubleClick cookie](https://support.google.com/adsense/answer/2839090?hl=en) is used by Google in the ads served on the websites of its partners, such as websites displaying [AdSense](https://www.google.com/adsense/start/) ads or participating in Google certified ad networks.
+For example, If I notice that my website is mainly visited by people who use computers with the Microsoft Windows 10 operating system, then I know that I need to write more tips about Windows 10 in the future.
 
-When users visit a partner's website and either view or click on an ad, a cookie may be dropped on that end user's browser.
+For example, if I find out that your visit to a page on my site is limited to less than 15 seconds, then I know that the information on the page is not what you were looking for, not relevant or just not good enough. In the future, I can improve that article or change the information.
 
-### Advertising Cookies
+## Advertisements
 
-The ads on this website use cookies and these cookies help to make the ads more effective. Without cookies, it's difficult for an advertiser to reach it's target, find out how many ads are displayed or how many clicks are generated.
+Like many websites, this website uses advertisements from [Google Adsense](https://www.google.com/adsense/start/) to earn money to keep this site running and to pay my bills.
 
-The ad networks may use cookies for various reasons like to prevent that you will always see the same ad, to detect and prevent click fraud and to give probably more relevant ads.
+If ad personalization is turned on, Google will use your information to make your ads more useful for you.
 
-We can not be held responsible for any advertising on our website.
+For example, a website that sells laptops might use Google's ad services. After you visit that site, you could see an ad for laptops on a different website that shows ads served by Google.
 
-## How to control cookies
+If ad personalization is turned off, Google will not collect or use your information to create an ad profile or personalize the ads Google shows to you. You will still see ads, but they may not be as useful.
 
-You can control and/or delete cookies as you wish. For details visit [www.aboutcookies.org](http://www.aboutcookies.org/).
+Google Adsense uses cookies to improve advertising. Some common uses of cookies for advertising are to target advertising based on what's relevant to a user, to improve reporting on campaign performance, and to avoid showing ads the user has already seen.
 
-You can [delete all cookies](http://www.easytechguides.com/clear-web-browsers-cache-cookies-and-history.html) that are already stored on your computer and you can set most browsers to prevent them from being placed.
+But:
 
-If you do this, however, you may have to manually adjust some preferences every time you visit a site and some services and functionalities may not work.
+These cookies contain no information that personally identifies you to Google.
+
+[How Google uses information from sites or apps that use their services](https://policies.google.com/technologies/partner-sites).
+
+## With whom is your information shared?
+
+Your information is shared with Google.
+
+[How Google uses information from sites or apps that use their services](https://policies.google.com/technologies/partner-sites).
+
+## Web Hosting
+
+This website is hosted on [Netlify](https://www.netlify.com/).
+
+[Netlify Privacy Policy](https://www.netlify.com/privacy)
+
+[Netlify GDPR](https://www.netlify.com/gdpr)
+
+## HTTPS
+
+This site uses an SSL certificate, so all traffic between this website and your web browser is encrypted and delivered over [HTTPS](https://en.wikipedia.org/wiki/HTTPS) (HTTP Secure).
+
+## Email
+
+This site uses [Transport Layer Security](https://en.wikipedia.org/wiki/Transport_Layer_Security) (TLS) to encrypt and protect email traffic.
+
+If your email service does not support TLS, then you should know that any emails I send or receive may not be protected in transit.
+
+I will never share or sell your email address to any third parties. I will also never send you spam.
 
 ## Links
 
-This site contains links to other websites.
+This website contains links to other websites.
 
 Please be aware that I am not responsible for the content or privacy of other websites.
 
 If you click on a link on this website and it brings you to another website, then read their privacy policy also.
 
-## Email Privacy
+## How to control and delete cookies
 
-We will never share or sell your email address to any third parties. We will also never send you spam.
+You can control and delete cookies as you wish.
 
-## Problems with Privacy Policy?
+You can delete all cookies already stored on your computer and you can set most browsers to prevent cookies from being placed.
 
-If you have questions, comments or problems with this privacy policy you may [contact me](http://www.easytechguides.com/contact.html).
+However, if you do this, you may have to manually adjust some preferences every time you visit a website and some services and functionalities may not work properly.
 
-## More Information about Privacy & Cookies
+For more information about cookies and how to control and delete them, you can visit [aboutcookies.org](https://www.aboutcookies.org/) and [cookiesandyou.com](https://cookiesandyou.com/).
+
+## Questions
+
+If you have any questions or concerns about this privacy and cookie policy, you can email me at:
+
+## More information about privacy and cookies
+
+[How Google uses information from sites or apps that use our services](https://www.google.com/policies/technologies/partner-sites/)
+
+[How Google uses data when you use our partners' sites or apps](https://policies.google.com/privacy/partners)
+
+[How Google uses cookies](https://www.google.com/policies/technologies/cookies/)
+
+[Types of cookies used by Google](https://www.google.com/policies/technologies/types/)
+
+[Google Analytics opt-out browser add-on](https://support.google.com/analytics/answer/181881?hl=en)
 
 [Wikipedia.org: HTTP_cookie](https://en.wikipedia.org/wiki/HTTP_cookie)
 
-[Webopedia.com: What are Cookies and What Do Cookies Do?](http://www.webopedia.com/DidYouKnow/Internet/all_about_cookies.asp)
+[Webopedia.com: What are Cookies and What Do Cookies Do?](https://www.webopedia.com/DidYouKnow/Internet/all_about_cookies.asp)
 
-[Google.com: How Google uses cookies](https://www.google.com/policies/technologies/cookies/)
+[Lifehacker.com: Fact and Fiction: The Truth About Browser Cookies](https://lifehacker.com/5461114/fact-and-fiction-the-truth-about-browser-cookies)
 
-[Lifehacker.com: Fact and Fiction: The Truth About Browser Cookies](http://lifehacker.com/5461114/fact-and-fiction-the-truth-about-browser-cookies)
+[HTG Explains: What’s a Browser Cookie?](https://www.howtogeek.com/119458/htg-explains-whats-a-browser-cookie/)
 
-[HTG Explains: What’s a Browser Cookie?](http://www.howtogeek.com/119458/htg-explains-whats-a-browser-cookie/)
+[Cookies & You: What are cookies?](https://cookiesandyou.com/)
