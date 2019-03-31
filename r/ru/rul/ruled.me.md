@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ruled.me privacy policy that was archived on 2018-09-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180926191829id_/https%3A//www.ruled.me/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ruled.me privacy policy that was archived on 2019-03-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190331135836id_/https%3A//www.ruled.me/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Ruled Me
 
@@ -17,7 +17,7 @@ www.ruled.me does use cookies to store information about visitors preferences, r
  **DoubleClick DART Cookie**  
 .:: Google, as a third party vendor, uses cookies to serve ads on www.ruled.me.  
 .:: Google’s use of the DART cookie enables it to serve ads to users based on their visit to www.ruled.me and other sites on the Internet.  
-.:: Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at the following URL – http://www.google.com/privacy_ads.html
+.:: Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at the following URL – https://www.google.com/privacy_ads.html
 
 Some of our advertising partners may use cookies and web beacons on our site. Our advertising partners include…
 
