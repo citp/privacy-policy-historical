@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the downgraf.com privacy policy that was archived on 2018-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181208005247id_/https%3A//www.downgraf.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the downgraf.com privacy policy that was archived on 2019-04-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190401002947id_/https%3A//www.downgraf.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - Downgraf.com
+# Privacy Policy
 
 Thank you for choosing to be part of our community at Downgraf (“company”, “we”, “us”, or “our”). We are committed to protecting your personal information and your right to privacy. If you have any questions or concerns about our policy, or our practices with regards to your personal information, please contact us at [rizali@downgraf.com](mailto:rizali@downgraf.com).
 
