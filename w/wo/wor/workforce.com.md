@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the workforce.com privacy policy that was archived on 2017-07-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170731075150id_/https%3A//humancapitalmedia.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the workforce.com privacy policy that was archived on 2019-03-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190331023818id_/https%3A//humancapitalmedia.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Human Capital Media
 
@@ -103,9 +103,8 @@ Beginning on January 1, 2005, California Civil Code Section 1798.83 permits thos
 To make such a request, write us at:
 
 Human Capital Media  
-111 E. WACKER DRIVE  
-STE. 1200  
-CHICAGO, IL 60601
+150 N Michigan Ave, Suite 550  
+Chicago, IL 60601
 
 Human Capital Media reserves the right to amend the Privacy Policy at any time with or without notice. Please check back frequently in the event of changes.
 
