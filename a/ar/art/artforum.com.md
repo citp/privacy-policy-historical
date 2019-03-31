@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the artforum.com privacy policy that was archived on 2018-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180528212549id_/https%3A//www.artforum.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the artforum.com privacy policy that was archived on 2019-03-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190331084356id_/https%3A//www.artforum.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy – Artforum International
 
