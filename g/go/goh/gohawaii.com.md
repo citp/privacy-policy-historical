@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gohawaii.com privacy policy that was archived on 2018-10-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181028060121id_/https%3A//www.gohawaii.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gohawaii.com privacy policy that was archived on 2019-03-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190331122738id_/https%3A//www.gohawaii.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Go Hawaii
 
