@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the carcarekiosk.com privacy policy that was archived on 2018-08-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180826171151id_/https%3A//www.carcarekiosk.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the carcarekiosk.com privacy policy that was archived on 2019-04-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190401005704id_/https%3A//www.carcarekiosk.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy of CarCareKiosk website and Service
 
 **PRIVACY POLICY**
 
-**Updated: May 22, 2018**
+**Updated: October 10, 2018**
 
 Flatsix, LLC (“CarCareKiosk”, “we”, “our” or “us”) understands that you care how information about you is gathered, used and shared. Should we ask you to provide certain information by which you can be identified when using carcarekiosk.com (the “Website”) and related services (the “Service”), then it will be only used in accordance with this Privacy Policy. We may change this policy from time to time by updating this page. You should check this page periodically to ensure that you are happy with the changes.
 
@@ -39,6 +39,8 @@ If you submit personal information to carcarekiosk.com, we may use that informat
 
 
 We do not use your email address or other personal information to send commercial or marketing messages without your consent. We will use your email address to send you notices regarding the Service. If you wish to opt out of email communication from carcarekiosk.com, send an email to [info@carcarekiosk.com](mailto:info@carcarekiosk.com?subject=Opt%20Out%20of%20Email) with the words “Opt Out of Email” in the subject line. Please note that opting out may prevent you from receiving important messages regarding the Service.
+
+If you believe that we possess your personal data and want us to delete it, please send us an email to [info@carcarekiosk.com](mailto:info@carcarekiosk.com?subject=Delete%20Personal%20Data) with the words “Delete Personal Data” in the subject line.
 
 We use cookies, web beacons and log file information to (i) store information that allows you to log in automatically the next time you use the Service; (ii) provide customized and personalized content; (iii) monitor the effectiveness of our marketing efforts; (iv) monitor metrics such as total number of visitors and pages viewed; and (v) track your submissions.
 
