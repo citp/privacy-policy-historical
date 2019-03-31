@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the healthyessentials.com privacy policy that was archived on 2018-08-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180828110730id_/https%3A//www.healthyessentials.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the healthyessentials.com privacy policy that was archived on 2019-03-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190331213620id_/https%3A//www.healthyessentials.com/privacy) for the most accurate reproduction.*
 
 # | HEALTHY ESSENTIALS®
 
