@@ -1,36 +1,32 @@
-> *The following text is extracted and transformed from the thredup.com privacy policy that was archived on 2018-10-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181020073046id_/https%3A//www.thredup.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thredup.com privacy policy that was archived on 2019-03-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190331203507id_/https%3A//www.thredup.com/legal/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | thredUP
 
 **Last Updated:** May 1, 2018
 
-At thredUP, we believe that you have a right to know what information we collect from you, and we want you to understand our commitment to protecting your privacy. This Privacy Policy ("Privacy Policy") applies to our stores, websites, applications, or website features you use or access (collectively, the "Sites"), as well as any mobile application (each, an "Application" or "App") that includes an authorized link to this Privacy Policy (together the stores, Sites and Applications are referred to as the "Services").
+At thredUP, we believe that you have a right to know what information we collect from you, and we want you to understand our commitment to protecting your privacy. This Privacy Policy (“Privacy Policy”) applies to our stores, websites, applications, or website features you use or access (collectively, the “Sites”), as well as any mobile application (each, an “Application” or “App”) that includes an authorized link to this Privacy Policy (together the stores, Sites and Applications are referred to as the “Services”).
 
-By using our Services, you agree to the use, disclosure and procedures this Privacy Policy describes, which is incorporated into our [Terms of Use](https://web.archive.org/tou).
+By using our Services, you agree to the use, disclosure and procedures this Privacy Policy describes, which is incorporated into our [Terms of Use](https://web.archive.org/legal/tou).
 
-Please note that this Privacy Policy does not apply to third party services (each, a "TPS"), such as Facebook, Amazon, or other social network services and commercial partners of thredUP. We are not responsible for their practices, content, or privacy policies. We encourage you to carefully review the privacy policies of any TPS you access so that you know how they will use and share your information.
+Please note that this Privacy Policy does not apply to third party services (each, a “TPS”), such as Facebook, Amazon, or other social network services and commercial partners of thredUP. We are not responsible for their practices, content, or privacy policies. We encourage you to carefully review the privacy policies of any TPS you access so that you know how they will use and share your information.
 
 If you have any questions, please reach out to us at [privacy@thredup.com](mailto:privacy@thredup.com) or by writing to us at:
 
-ThredUp Inc.Attention: Privacy Policy
-
-114 Sansome Street5th FloorSan Francisco
-
-,
-
-CA
-
-94104
+ThredUp Inc.  
+Attention: Privacy Policy  
+114 Sansome Street  
+5th Floor  
+San Francisco, CA 94104
 
 ## 1\. Information Collected or Received
 
-The information we collect from you falls into two categories: personally identifiable information ("Personal Information") and non-personally identifiable information (i.e., information that cannot be used to identify who you are) ("Non-Personal Information").
+The information we collect from you falls into two categories: personally identifiable information (“Personal Information”) and non-personally identifiable information (i.e., information that cannot be used to identify who you are) (“Non-Personal Information”).
 
 Personal Information we may collect from you includes your name, email address and telephone number. We maintain one or more databases to store your Personal Information and may retain it as reasonably required to serve you and operate the Service. Personal Information that we collect depends on how you use the Services. Providing your Personal Information to us is your choice. If you choose not to provide us with certain Personal Information, you may not be able to take advantage of many features of the Services.
 
 Non-Personal Information we may collect from you includes identifier and other technical information, such as your browser information, operating system information, device information, IP address and the date, time, length of stay and specific pages accessed during your interactions with the Services.
 
-We do not knowingly collect information from children under the age of 13, in accordance with the Children’s Online Privacy Protection Act ("COPPA"). If you are a parent or legal guardian of a minor child, you may use the Services on behalf of such minor child. If you have questions concerning our information practices with respect to children, or if after a transaction, you would like to review, have deleted, or stop the further collection of your child’s Personal Information, please email us at [privacy@thredup.com](mailto:privacy@thredup.com).
+We do not knowingly collect information from children under the age of 13, in accordance with the Children’s Online Privacy Protection Act (“COPPA”). If you are a parent or legal guardian of a minor child, you may use the Services on behalf of such minor child. If you have questions concerning our information practices with respect to children, or if after a transaction, you would like to review, have deleted, or stop the further collection of your child’s Personal Information, please email us at [privacy@thredup.com](mailto:privacy@thredup.com).
 
 ## 2\. How Information Is Collected
 
@@ -46,23 +42,23 @@ If you contact us in person, by phone, email, instant message, live chat, social
 
 ### Third Party Services
 
-If you create your thredUP account by connecting through a TPS, such as Amazon or Facebook, you are authorizing us to use public information from that connected account to help complete your thredUP profile. We collect and store this information and use it to help you connect to our Site and to share your public content. Connecting your thredUP account to a TPS is completely optional, and you will have the opportunity to grant permission when you attempt to connect. Please remember that the manner in which the service uses, stores, and discloses your information is governed solely by the policies of such service. We recommend that you review the terms and policies of that TPS, including its privacy and data gathering practices. thredUP shall have no liability or responsibility for the privacy practices or other actions of any TPS or any other third-party site or service that may be enabled within the Service.
+If you create your thredUP account by connecting through a TPS, such as Amazon or Facebook, you are authorizing us to use public information from that connected account to help complete your thredUP profile. We collect and store this information and use it to help you connect to our Site. Connecting your thredUP account to a TPS is completely optional, and you will have the opportunity to grant permission when you attempt to connect. Please remember that the manner in which the service uses, stores, and discloses your information is governed solely by the policies of such service. We recommend that you review the terms and policies of that TPS, including its privacy and data gathering practices. thredUP shall have no liability or responsibility for the privacy practices or other actions of any TPS or any other third-party site or service that may be enabled within the Service.
 
 thredUP partners with TPS who set cookies and tracking pixels for Site visitors and members on our behalf in order to deliver their services. These services include targeted online marketing and analysis of data collected through cookies. These TPS technologies allow a partner to recognize your computer or mobile device each time you visit thredup.com or other sites that also utilize the TPS, but do not allow access to Personal Information from thredUP. TPS may choose to include thredUP widgets on their sites. When you load a site that has chosen to include our widgets, we receive analytics information through a cookie that may be used to enhance our data or to improve our services. thredUP does not have access to or control over these TPS technologies, and they are not covered by our Privacy Policy.
 
-We may, however, at thredUP’s discretion, share your personal information with TPS providers to: (i) provide you with additional services related to our Services; (ii) conduct quality assurance testing; (iii) facilitate creation of accounts; (iv) provide technical support; (v) market the Services; and/or (vi) to provide other services to thredUP.
+We may, however, at thredUP’s discretion, share your personal information with TPS providers and other commercial partners to: (i) provide you with additional services related to our Services; (ii) conduct quality assurance testing; (iii) facilitate creation of accounts; (iv) provide technical support; (v) market the Services; (vi) facilitate business partnerships with trusted partners and/or (vii) to provide other services to thredUP.
 
 ### Information We Automatically Collect
 
-Like most websites, our Services may incorporate technology such as "pixel tags", "web beacons" and "cookies" which allow us to track the actions of users of our Services. Pixel tags, web beacons and cookies collect Non-Personal Information. Pixel tags or web beacons are tracking devices on websites or in emails that can monitor the behavior of the user visiting the website or sending the email. Cookies are small files placed on your computer that recognize you when you return to thredUP and that allow us to customize your user experience and improve the thredUP service. You may modify the cookies that are accepted by your computer by changing your browser settings, although this may change the way the thredUP website is presented to you. Other companies' use of their cookies is subject to their own privacy policies, and we have no obligation to inform you of third party cookies that are set.
+Like most websites, our Services may incorporate technology such as “pixel tags”, “web beacons” and “cookies” which allow us to track the actions of users of our Services. Pixel tags, web beacons and cookies collect Non-Personal Information. Pixel tags or web beacons are tracking devices on websites or in emails that can monitor the behavior of the user visiting the website or sending the email. Cookies are small files placed on your computer that recognize you when you return to thredUP and that allow us to customize your user experience and improve the thredUP service. You may modify the cookies that are accepted by your computer by changing your browser settings, although this may change the way the thredUP website is presented to you. Other companies’ use of their cookies is subject to their own privacy policies, and we have no obligation to inform you of third party cookies that are set.
 
-As an example, thredUP uses cookies to keep track of your shopping cart and for other personalized experiences. We also use tracking technology to create remarketing audiences of users based on visitor behavior on our Sites. thredUP may also deliver custom ads based on your affinities, interests, geographic and demographic signals. In particular, thredUP may use other TPS or services such as Google Analytics to monitor activity on the Site and to assist with advertising. To learn how Google Analytics collects and processes data, please visit: "How Google uses data when you use our partners' sites or apps" located at <https://www.google.com/policies/privacy/partners/>.
+As an example, thredUP uses cookies to keep track of your shopping cart and for other personalized experiences. We also use tracking technology to create remarketing audiences of users based on visitor behavior on our Sites. thredUP may also deliver custom ads based on your affinities, interests, geographic and demographic signals. In particular, thredUP may use other TPS or services such as Google Analytics to monitor activity on the Site and to assist with advertising. To learn how Google Analytics collects and processes data, please visit: “How Google uses data when you use our partners’ sites or apps” located at <https://www.google.com/policies/privacy/partners/>.
 
 We may also collect information when you are visiting our stores. Like most retailers, we have in-store video and user-friendly technology that helps us understand customer behavior within our physical spaces. We may also anonymously collect wireless device signature information while you are near or in our stores to help us better understand our customers.
 
 ### OPTING OUT
 
-If you decide you do not want to receive email or other mail from us, you can select the "opt out" provision in our communications to unsubscribe. Unsubscribing will stop you from receiving most types of communication, but it may not apply to emails about orders or transactions you place through the Services or to respond to your specific request, such as password recovery.
+If you decide you do not want to receive email or other mail from us, you can select the “opt out” provision in our communications to unsubscribe. Unsubscribing will stop you from receiving most types of communication, but it may not apply to emails about orders or transactions you place through the Services or to respond to your specific request, such as password recovery.
 
 Except as we discuss in this Privacy Policy, we will not share your Personal Information with third parties who wish to market other products and services to you.
 
@@ -80,11 +76,13 @@ We may share or disclose aggregated Non-Personal Information on our Site with se
 
 ### Agents
 
-Generally, we will not disclose your Personal Information to unaffiliated third parties. However, we may provide your Personal Information to our employees, contractors, partners, agents, service providers and designees ("Agents") to enable them to perform certain services for us including: order fulfillment, payment processing, Clean Out Bag processing, website-related services such as web hosting, database management, improvement of website-related services and features, maintenance services and distribution of offers, advertisements and other marketing materials on our behalf.
+Generally, we will not disclose your Personal Information to unaffiliated third parties. However, we may provide your Personal Information to our employees, contractors, commercial partners, agents, service providers and designees (“Agents”) to enable them to perform certain services for us including without limitation: order fulfillment, payment processing, Clean Out Bag processing, website-related services such as web hosting, database management, improvement of website-related services and features, maintenance services and distribution of offers, business partnerships, partner promotions, advertisements and other marketing materials on our behalf.
+
+We may also provide our Agents with non-identifying or aggregate information indicating the demographic information of users on our Website, buying behavior, and opportunities to market to select segments of our users indirectly. When we share non-identifying or aggregate user data, it is done in a way that it cannot be linked with your Personal Information.
 
 ### How We Respond to Do Not Track Signals
 
-Some web browsers (including Safari, Internet Explorer, Firefox and Chrome) incorporate a "Do Not Track" ("DNT") or similar feature to signal that a user does not want to have his or her online activity and behavior tracked. If a website that responds to a particular DNT signal receives the DNT signal, the browser can block that website from collecting certain information about the browser's user. This site does not comply with Federal DNT legislation.
+Some web browsers (including Safari, Internet Explorer, Firefox and Chrome) incorporate a “Do Not Track” (“DNT”) or similar feature to signal that a user does not want to have his or her online activity and behavior tracked. If a website that responds to a particular DNT signal receives the DNT signal, the browser can block that website from collecting certain information about the browser’s user. This site does not comply with Federal DNT legislation.
 
 ### Use of Services via Mobile Device
 
@@ -110,13 +108,13 @@ The Service is hosted in the United States. If you are visiting the Service from
 
 ## 5\. Information Security
 
-Without limiting the terms of our [Terms of Use](https://web.archive.org/tou) and this Privacy Policy, you understand that we do not guarantee that your use of the Site and/or information provided by you will be private or secure and we are not responsible or liable to you for any lack of privacy or security you may experience. You are fully responsible for taking precautions and providing security measures best suited for your situation and intended use of the Site. You also understand that any information provided by you or collected by us or our Agents in connection with your use of the Site will be used in the manner described in our [Terms of Use](https://web.archive.org/tou). Any information that you provide to us is done so entirely at your own risk. Please do not use the Site if you do not agree to the terms and conditions described in this Information Security section.
+Without limiting the terms of our [Terms of Use](https://web.archive.org/legal/tou) and this Privacy Policy, you understand that we do not guarantee that your use of the Site and/or information provided by you will be private or secure and we are not responsible or liable to you for any lack of privacy or security you may experience. You are fully responsible for taking precautions and providing security measures best suited for your situation and intended use of the Site. You also understand that any information provided by you or collected by us or our Agents in connection with your use of the Site will be used in the manner described in our [Terms of Use](https://web.archive.org/legal/tou). Any information that you provide to us is done so entirely at your own risk. Please do not use the Site if you do not agree to the terms and conditions described in this Information Security section.
 
 If you would like to modify or delete your Personal Information, please contact our [Support Center](https://web.archive.org/support "thredUP Support Center") with clear instructions about what you would like to be modified or deleted. We will respond to your request promptly.
 
 ## 6\. Updating and Revising Privacy Policy
 
-We occasionally review this Privacy Policy to make sure it complies with applicable law and conforms to changes in our business. We may need to update this Privacy Policy, and we reserve the right to do so at any time. If we do revise this Privacy Policy, we will update the "Last Updated" at the top of this page so that you can tell if it has changed since your last visit. Please review this Privacy Policy regularly to ensure that you are aware of its terms. Your use of the Services constitutes your acceptance of the terms of the Privacy Policy as amended or revised by us from time to time.
+We occasionally review this Privacy Policy to make sure it complies with applicable law and conforms to changes in our business. We may need to update this Privacy Policy, and we reserve the right to do so at any time. If we do revise this Privacy Policy, we will update the “Last Updated” at the top of this page so that you can tell if it has changed since your last visit. Please review this Privacy Policy regularly to ensure that you are aware of its terms. Your use of the Services constitutes your acceptance of the terms of the Privacy Policy as amended or revised by us from time to time.
 
 ## 7\. Personal Information You May Access
 
@@ -124,7 +122,7 @@ Through your account settings, you may access, and, in some cases, edit or delet
 
 The information you can view, update, and delete may change as the Services change. If you have any questions about viewing, updating, or deleting your information, please contact us at [privacy@thredup.com](mailto:privacy@thredup.com).
 
-### Questions?
+## Questions?
 
 If you have any questions about this Privacy Policy, please contact us by email [privacy@thredup.com](mailto:privacy@thredup.com).
   *[CA]: California
