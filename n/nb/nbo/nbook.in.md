@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the nbook.in privacy policy that was archived on 2016-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160527112441id_/https%3A//nbook.in/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nbook.in privacy policy that was archived on 2019-03-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190331053107id_/https%3A//nbook.in/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | nbook.in
+# Buy,Sell,rent,house for sale in trivandrum,house for rent in trivandrum,pg hostels near technopark,real estate news in kerala
 
-This Privacy Policy governs the manner in which Real Estate Portal  collects, uses, maintains and discloses information collected from users (each, a “User”) of the [https://nbook.in/](http://wpresidence.net/) website (“Site”). This privacy policy applies to the Site and all products and services offered by Real Estate News.
+This Privacy Policy governs the manner in which Real Estate Portal collects, uses, maintains and discloses information collected from users (each, a “User”) of the [website (“Site”)](https://nbook.in/). This privacy policy applies to the Site and all products and services offered by Real Estate News.
 
 **Personal identification information**
 
