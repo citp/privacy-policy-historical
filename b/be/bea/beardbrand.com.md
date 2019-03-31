@@ -1,10 +1,65 @@
-> *The following text is extracted and transformed from the beardbrand.com privacy policy that was archived on 2017-04-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170421103800id_/https%3A//www.beardbrand.com/pages/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the beardbrand.com privacy policy that was archived on 2019-03-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190331134603id_/https%3A//www.beardbrand.com/pages/legal) for the most accurate reproduction.*
 
-# Privacy Policy | Beardbrand
+# Legal – Beardbrand
 
-### SECTION 1
+## Trademarks
 
-## WHAT DO WE DO WITH YOUR INFORMATION?
+A trademark can be a word, phrase, symbol, or design that distinguishes the source of the goods or services. Also, as trade dress, it can be the appearance of a product or its packaging, including size, shape, color, texture, graphics, and appearance (e.g, retail store or website). Below is a non-exhaustive list of Beardbrand Trademarks.
+
+## Logos
+
+® ™
+
+## Wordmarks
+
+  * Beardbrand®
+  * Urban Beardsman®
+  * Tree Ranger®
+  * Blank Slate®
+  * Lumber Yard®
+  * Urban Garden®
+  * Black Marble®
+  * Temple Smoke®
+  * Four Vices®
+  * Old Money®
+  * Keep on growing®
+  * Keep Calm & Beard On™
+  * Change the way society views beardsmen™
+  * Style for the urban beardsman™
+  * Beyond the beard™
+
+  
+
+
+* * *
+
+Please read this statement before using www.Beardbrand.com (this website). Use of this website constitutes your acceptance of this copyright statement and terms of use (collectively, “Terms of Use”). If you do not accept these terms of use, do not use this website.
+
+Beardbrand reserves the right to modify these Terms of Use without notice, and any modifications are effective immediately when written here. Beardbrand may, at any time, terminate your access to this website. Access to the website may be monitored by Beardbrand. If you are accessing this website as a representative of an organization, these Terms of Use bind you and your organization. The references to “you” and “your” shall be construed to apply to you individually and the organization.
+
+While Beardbrand maintains copyright protection of all materials, information and publications (collectively, “website information”) it places on this website, Beardbrand consents to downloading, copying and distribution of the information for non-commercial purposes by you only. In consideration of this consent, you agree that copies of website information will retain all copyright and other proprietary notices, and that you will not modify the website information in any way. Except where your use constitutes “fair use” under copyright law, you may not otherwise use, download, upload, copy, print, display, perform, reproduce, publish, or distribute any website information, in whole or in part, without the prior written consent of Beardbrand.
+
+As a condition of your use of this website, you will not use the website or the website information for any purpose that is unlawful or prohibited by these Terms of Use. You will not use this website in any manner that could damage, disable, overload or impair the operation of this website.
+
+Certain information available on this website is provided by other parties, particularly information about such other parties. You understand that all such information, data, text, photographs, graphics, video, messages, or other mediums, are the sole responsibility of the originating party, and that Beardbrand has no responsibility for such content and does not guarantee the accuracy, integrity or quality of such content. In no event is the inclusion of a statement about another party, a reference to such other party or a web link to another party’s website an endorsement of such other party, their products or their services.
+
+You may not use any of Beardbrand’s proprietary logos, marks, or other distinctive graphics, video, or audio material in your links. You may not link in any manner reasonably likely to 1) imply affiliation with or endorsement or sponsorship by Beardbrand; 2) cause puffery, malice, or deception; 3) dilute Beardbrand’s trademarks, service marks or trade names; or 4) otherwise violate applicable law.
+
+Beardbrand makes no representations or promises to develop, provide or market any service or product discussed on this website, and you shall not rely on the information provided or the prospect of availability of any software, service or product currently in development or currently anticipated to be made available in the future.
+
+Any questions on our Terms of Service should be sent to us at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection)
+
+  
+
+
+* * *
+
+  
+
+
+## SECTION 1
+
+### WHAT DO WE DO WITH YOUR INFORMATION?
 
 When you purchase something from our store, as part of the buying and selling process, we collect the personal information you give us such as your name, address and email address. 
 
@@ -12,28 +67,25 @@ When you browse our store, we also automatically receive your computer’s inter
 
 Email marketing (if applicable): With your permission, we may send you emails about our store, new products and other updates. 
 
-### SECTION 2 - CONSENT
+## SECTION 2 - CONSENT
 
-## How do you get my consent?
+### How do you get my consent?
 
 When you provide us with personal information to complete a transaction, verify your credit card, place an order, arrange for a delivery or return a purchase, we imply that you consent to our collecting it and using it for that specific reason only.
 
-If we ask for your personal information for a secondary reason, like marketing, we will either ask you directly for your expressed consent, or provide you with an opportunity to say no. 
+If we ask for your personal information for a secondary reason, like marketing, we will either ask you directly for your expressed consent, or provide you with an opportunity to say no.
 
-## How do I withdraw my consent?
+### How do I withdraw my consent?
 
-If after you opt-in, you change your mind, you may withdrawing your consent for us to contact you, for the continued collection, use or disclosure of your information, at anytime, by contacting us at info@beardbrand.com or mailing us at:
+If after you opt-in, you change your mind, you may withdrawing your consent for us to contact you, for the continued collection, use or disclosure of your information, at anytime, by contacting us at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection) or call our customer service at  **844-662-3273** , hit **0** for a customer service representative.
 
-Beardbrand   
-PO Box 8491, Spokane, Washington, US, 99203
-
-### SECTION 3 - DISCLOSURE
+## SECTION 3 - DISCLOSURE
 
 We may disclose your personal information if we are required by law to do so or if you violate our Terms of Service. 
 
-### SECTION 4 - SHOPIFY
+## SECTION 4 - SHOPIFY
 
-Our store is hosted on Shopify Inc. They provide us with the online e-commerce platform that allows us to sell our products and services to you. 
+Our store is hosted on Shopify Inc. They provide us with the online e-commerce platform that allows us to sell our products and services to you.
 
 Your data is stored through Shopify’s data storage, databases and the general Shopify application. They store your data on a secure server behind a firewall.
 
@@ -45,31 +97,31 @@ PCI-DSS requirements help ensure the secure handling of credit card information 
 
 For more insight, you may also want to read Shopify’s Terms of Service here or Privacy Statement here.
 
-### SECTION 5 - THIRD-PARTY SERVICES
+## SECTION 5 - THIRD-PARTY SERVICES
 
-In general, the third-party providers used by us will only collect, use and disclose your information to the extent necessary to allow them to perform the services they provide to us.  
+In general, the third-party providers used by us will only collect, use and disclose your information to the extent necessary to allow them to perform the services they provide to us.
 
 However, certain third-party service providers, such as payment gateways and other payment transaction processors, have their own privacy policies in respect to the information we are required to provide to them for your purchase-related transactions.
 
-For these providers, we recommend that you read their privacy policies so you can understand the manner in which your personal information will be handled by these providers.  
+For these providers, we recommend that you read their privacy policies so you can understand the manner in which your personal information will be handled by these providers.
 
 In particular, remember that certain providers may be located in or have facilities that are located a different jurisdiction than either you or us. So if you elect to proceed with a transaction that involves the services of a third-party service provider, then your information may become subject to the laws of the jurisdiction(s) in which that service provider or its facilities are located.
 
 As an example, if you are located in Canada and your transaction is processed by a payment gateway located in the United States, then your personal information used in completing that transaction may be subject to disclosure under United States legislation, including the Patriot Act.
 
-Once you leave our store’s website or are redirected to a third-party website or application, you are no longer governed by this Privacy Policy or our website’s Terms of Service. 
+Once you leave our store’s website or are redirected to a third-party website or application, you are no longer governed by this Privacy Policy or our website’s Terms of Service.
 
 Links
 
 When you click on links on our store, they may direct you away from our site. We are not responsible for the privacy practices of other sites and encourage you to read their privacy statements.
 
-### SECTION 6 - SECURITY
+## SECTION 6 - SECURITY
 
 To protect your personal information, we take reasonable precautions and follow industry best practices to make sure it is not inappropriately lost, misused, accessed, disclosed, altered or destroyed.
 
 If you provide us with your credit card information, the information is encrypted using secure socket layer technology (SSL) and stored with a AES-256 encryption.  Although no method of transmission over the Internet or electronic storage is 100% secure, we follow all PCI-DSS requirements and implement additional generally accepted industry standards.
 
-### SECTION 7 - COOKIES
+## SECTION 7 - COOKIES
 
 Here is a list of cookies that we use. We’ve listed them here so you that you can choose if you want to opt-out of cookies or not.
 
@@ -81,24 +133,22 @@ cart, unique token, persistent for 2 weeks, Stores information about the content
 
 _secure_session_id, unique token, sessional storefront_digest, unique token, indefinite If the shop has a password, this is used to determine if the current visitor has access.
 
-Our display advertising partner, AdRoll, then enables us to present you with retargeting advertising on other sites based on your previous interaction with Beardbrand. The techniques our partners employ do not collect personal information such as your name, email address, postal address, or telephone number. You can visit this page (http://www.networkadvertising.org/choices/) to opt out of AdRoll’s and their partners’ targeted advertising.
-
-### SECTION 8 - AGE OF CONSENT
+## SECTION 8 - AGE OF CONSENT
 
 By using this site, you represent that you are at least the age of majority in your state or province of residence, or that you are the age of majority in your state or province of residence and you have given us your consent to allow any of your minor dependents to use this site.
 
-### SECTION 9 - CHANGES TO THIS PRIVACY POLICY
+## SECTION 9 - CHANGES TO THIS PRIVACY POLICY
 
 We reserve the right to modify this privacy policy at any time, so please review it frequently. Changes and clarifications will take effect immediately upon their posting on the website. If we make material changes to this policy, we will notify you here that it has been updated, so that you are aware of what information we collect, how we use it, and under what circumstances, if any, we use and/or disclose it.
 
 If our store is acquired or merged with another company, your information may be transferred to the new owners so that we may continue to sell products to you.
 
-### QUESTIONS AND CONTACT INFORMATION
+## QUESTIONS AND CONTACT INFORMATION
 
-If you would like to: access, correct, amend or delete any personal information we have about you, register a complaint, or simply want more information contact our Privacy Compliance Officer at info@beardbrand.com or by mail at:
+If you would like to: access, correct, amend or delete any personal information we have about you, register a complaint, or simply want more information contact our Privacy Compliance Officer at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection) or by mail at:
 
 Beardbrand
 
 Re: Privacy Compliance Officer
 
-PO Box 8491, Spokane, Washington, US, 99203
+P.O. Box 13124 Austin, TX, 78711
