@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the brand24.com privacy policy that was archived on 2018-09-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180911021913id_/https%3A//brand24.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the brand24.com privacy policy that was archived on 2019-03-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190331043924id_/https%3A//brand24.com/privacy-policy) for the most accurate reproduction.*
 
 # Brand24
 
