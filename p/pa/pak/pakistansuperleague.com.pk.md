@@ -1,9 +1,9 @@
-> *The following text is extracted and transformed from the pakistansuperleague.com.pk privacy policy that was archived on 2018-09-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180924003443id_/https%3A//pakistansuperleague.com.pk/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pakistansuperleague.com.pk privacy policy that was archived on 2019-03-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190331012608id_/https%3A//pakistansuperleague.com.pk/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
 **Privacy Policy**  
-Our site pakistansuperleague.com.pk is not an official website for the Indian Premier League Brand. This website contains purely informational content based on PSL Schedules and where you can buy PSL tickets.  The content published on this website may not be accurate. For original info or complaints please contact the PSL official website.
+Our site pakistansuperleague.com.pk is not an official website for the Pakistan Super League Brand. This website contains purely informational content based on PSL Schedules and where you can buy PSL tickets.  The content published on this website may not be accurate. For original info or complaints please contact the PSL official website.
 
 _The privacy of our visitors to pakistansuperleague.com.pk  is important to us._
 
