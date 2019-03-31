@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the farmville2free.com privacy policy that was archived on 2017-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171202104640id_/http%3A//www.farmville2free.com/p/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the farmville2free.com privacy policy that was archived on 2019-03-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190331045424id_/https%3A//www.farmville2free.com/p/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy - FarmVille 2
 
-If you require any more information or have any questions about our privacy policy, please feel free to contact us by email at [[email protected]](http://www.farmville2free.com/cdn-cgi/l/email-protection#6a090b191e060f1c0306060f020b12525a2a0d070b030644090507).  
+If you require any more information or have any questions about our privacy policy, please feel free to contact us by email at [angelozambrano85@gmail.com](mailto:castlevillehax80@gmail.com).  
 At www.farmville2free.com/ we consider the privacy of our visitors to be extremely important. This privacy policy document describes in detail the types of personal information is collected and recorded by www.farmville2free.com/ and how we use it.   
 **Log Files**  
 Like many other Web sites, www.farmville2free.com/ makes use of log files. These files merely logs visitors to the site - usually a standard procedure for hosting companies and a part of hosting services's analytics. The information inside the log files includes internet protocol (IP) addresses, browser type, Internet Service Provider (ISP), date/time stamp, referring/exit pages, and possibly the number of clicks. This information is used to analyze trends, administer the site, track user's movement around the site, and gather demographic information. IP addresses, and other such information are not linked to any information that is personally identifiable.   
@@ -11,7 +11,7 @@ www.farmville2free.com/ uses cookies to store information about visitors' prefer
 **DoubleClick DART Cookie**  
 → Google, as a third party vendor, uses cookies to serve ads on www.farmville2free.com/.  
 → Google's use of the DART cookie enables it to serve ads to our site's visitors based upon their visit to www.farmville2free.com/ and other sites on the Internet.   
-→ Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at the following URL - [http://www.google.com/privacy_ads.html](http://www.google.com/privacy_ads.html "Opt out of the Dart Cookie")   
+→ Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at the following URL - [http://www.google.com/privacy_ads.html](https://www.google.com/privacy_ads.html "Opt out of the Dart Cookie")   
 **Our Advertising Partners**  
 Some of our advertising partners may use cookies and web beacons on our site. Our advertising partners include ....... 
 
