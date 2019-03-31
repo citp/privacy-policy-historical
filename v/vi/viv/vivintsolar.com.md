@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the vivintsolar.com privacy policy that was archived on 2018-10-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181030094123id_/http%3A//vivintsolar.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vivintsolar.com privacy policy that was archived on 2019-03-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190331153032id_/https%3A//www.vivintsolar.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Vivint Solar
 
