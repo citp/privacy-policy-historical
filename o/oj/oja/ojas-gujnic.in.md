@@ -1,22 +1,20 @@
-> *The following text is extracted and transformed from the ojas-gujnic.in privacy policy that was archived on 2018-09-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180920112647id_/http%3A//www.ojas-gujnic.in/p/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ojas-gujnic.in privacy policy that was archived on 2019-03-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190331135856id_/http%3A//www.ojas-gujnic.in/p/privacy-policy.html) for the most accurate reproduction.*
 
 # Ojas.guj.nic.in: Gujarat Govt Online Job Application: OJAS Bharti: Privacy Policy
 
-[ ](https://www.blogger.com/rearrange?blogID=2294366811699976320&widgetType=Text&widgetId=Text6&action=editWidget&sectionId=main "Edit")
+[ ](https://www.blogger.com/rearrange?blogID=2294366811699976320&widgetType=Text&widgetId=Text4&action=editWidget&sectionId=main "Edit")
 
-[ ](https://www.blogger.com/rearrange?blogID=2294366811699976320&widgetType=Text&widgetId=Text7&action=editWidget&sectionId=main "Edit")
+[ ](https://www.blogger.com/rearrange?blogID=2294366811699976320&widgetType=Text&widgetId=Text2&action=editWidget&sectionId=main "Edit")
 
-[ ](https://www.blogger.com/rearrange?blogID=2294366811699976320&widgetType=Text&widgetId=Text5&action=editWidget&sectionId=main "Edit")
+###  [ Gujarat Gaun Seva Pasandgi Mandal Recruitment 2019 for Supervisor Instructor Posts (OJAS) - Revised ](https://www.ojas-gujnic.in/2017/10/gsssb-recruetment-for-399-posts-ojas.html)
 
-###  [ Junior Clerk Recruitment 2018 (For All District) - Gujarat Panchayat Service Selection Board (OJAS) ](http://www.ojas-gujnic.in/2018/09/gpssb-junior-clerk-notification.html)
-
-Junior Clerk Bharti 2018 Online Application Form – GPSSB Junior Clerk Advertisement: Gujarat Panchayat Seva Pasandgi Mandal (GPSSB) has pu... 
+Gujarat Gaun Seva Pasandgi Mandal (GSSSB) had issued Recruitment notification for filling a vacancy of Supervisor Instructor Posts 2019.... 
 
 [ ](https://www.blogger.com/rearrange?blogID=2294366811699976320&widgetType=FeaturedPost&widgetId=FeaturedPost1&action=editWidget&sectionId=main "Edit")
 
 ##  Today's Popular Jobs 
 
-  *   *   * 
+  *   * 
 
 
 [ ](https://www.blogger.com/rearrange?blogID=2294366811699976320&widgetType=PopularPosts&widgetId=PopularPosts1&action=editWidget&sectionId=main "Edit")
