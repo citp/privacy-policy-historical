@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the papersizes.io privacy policy that was archived on 2018-02-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180209104533id_/http%3A//papersizes.io/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the papersizes.io privacy policy that was archived on 2019-03-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190331150229id_/https%3A//papersizes.io/privacy-policy) for the most accurate reproduction.*
 
 # Paper Sizes | Privacy
 
@@ -51,6 +51,13 @@ You can find out more about Google's position on privacy as regards its analytic
 
 _
 
+Hotjar  
+We use [Hotjar](http://www.hotjar.com/) in order to better understand our users’ needs and to optimize this service and experience. Hotjar is a technology service that helps us better understand our users experience (e.g. how much time they spend on which pages, which links they choose to click, what users do and don’t like, etc.) and this enables us to build and maintain our service with user feedback. Hotjar uses cookies and other technologies to collect data on our users’ behavior and their devices (in particular device's IP address (captured and stored only in anonymized form), device screen size, device type (unique device identifiers), browser information, geographic location (country only), preferred language used to display our website). Hotjar stores this information in a pseudonymized user profile. Neither Hotjar nor we will ever use this information to identify individual users or to match it with further data on an individual user. For further details, please see Hotjar’s privacy policy by clicking on [this link](https://www.hotjar.com/legal/policies/privacy).
+
+You can opt-out to the creation of a user profile, Hotjar’s storing of data about your usage of our site and Hotjar’s use of tracking cookies on other websites by following this [opt-out](https://www.hotjar.com/legal/compliance/opt-out) link.
+
+_
+
 Third Party Cookies  
 These are cookies set on your machine by external websites whose services are used on this site. Cookies of this type are the sharing buttons across the site allow visitors to share content onto social networks. Cookies are currently set by Twitter and Facebook. In order to implement these buttons, and connect them to the relevant social networks and external sites, there are scripts from domains outside of our website. You should be aware that these sites are likely to be collecting information about what you are doing all around the internet, including on this website.
 
@@ -63,7 +70,7 @@ Our website may contain links to other websites of interest. However, once you h
 
 _
 
-This website and its content is copyright of PaperSizes - © PaperSizes 2017. All rights reserved.
+This website and its content is copyright of PaperSizes - © PaperSizes 2018. All rights reserved.
 
 Any redistribution or reproduction of part or all of the contents in any form is prohibited other than the following:
 
