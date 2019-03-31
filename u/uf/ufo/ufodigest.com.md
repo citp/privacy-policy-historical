@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ufodigest.com privacy policy that was archived on 2018-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180525183122id_/http%3A//ufodigest.com/ufo-digest-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ufodigest.com privacy policy that was archived on 2019-03-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190331224347id_/https%3A//ufodigest.com/ufo-digest-privacy-policy) for the most accurate reproduction.*
 
 # UFO Digest Privacy Policy
 
@@ -11,5 +11,3 @@ If you choose to purchase business services through UFO Digest and our provider 
 Profile information will be used to create personalized content and services from our UFO Digest site. In addition, UFO Digest and its licensees may use aggregated information from profiles to provide our partners with information that will help them, and thereby us, to serve you better.
 
 UFO Digest reserves the right to change its policy at any time, but will notify You of any changes. Should a privacy dispute arise, UFO Digest will be held harmless and not liable for any loses that may have been incurred. If you want additional information or clarification, please email us at, [**customer service** , ](mailto:publisher@ufodigest.com)with your specific questions. We will be more than happy to answer them.
-
-[](http://ykr.be/16bgcur9uq)
