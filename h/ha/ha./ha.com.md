@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ha.com privacy policy that was archived on 2018-10-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181005040838id_/https%3A//www.ha.com/c/privacy.zx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ha.com privacy policy that was archived on 2019-03-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190331022156id_/https%3A//www.ha.com/c/privacy.zx) for the most accurate reproduction.*
 
 # Heritage Privacy Policy
 
@@ -14,11 +14,13 @@ If you access HA.com from the European Union, then the representative is Heritag
 
 ## What personal information do we collect, when, and why?
 
-We collect any and/or all of the following, and store the data at our operations centers, including but not limited to those in the United States. Consult the glossary found later in this policy to learn more about terms used in this section.   
+When you visit Heritage Auctions Sites, we will not collect your name, address, telephone number or email address without your consent. We collect any and/or all of the following, and store the data at our operations centers, including but not limited to those in the United States. Consult the glossary found later in this policy to learn more about terms used in this section.   
 
 
   
 
+
+By submitting personally identifiable information, you agree, without limitation or qualification, to this information being used exclusively by Heritage Auctions and its authorized dealers for business purposes only. If you opt not to provide us with personally identifiable information, you may be unable to receive specific communications on products and company information or make full use of Site features. 
 
 ## How does Heritage Auctions use your information?
 
@@ -26,9 +28,11 @@ Heritage Auctions researches our clients' usage patterns and demographics based 
 
 Registration qualifies a user as a Heritage Auctions client, and, regardless of any regulation to the contrary, the user agrees, until this consent is revoked in writing, that Heritage Auctions may from time to time contact the user concerning sale and purchase opportunities available through Heritage Auctions. 
 
+Heritage Auctions collects and stores any login information you create in order to allow you to access your account information and member features. 
+
 ## With whom does Heritage Auctions share your information?
 
-All information is held in confidence by Heritage Auctions. We do not sell your information to third parties nor do we provide it for any third party's general commercial usage. Any information disseminated to parties external to Heritage Auctions is anonymous in nature - for example: the prices realized for a particular auction may include the price paid for a lot. 
+All information is held in confidence by Heritage Auctions. We do not not trade, rent or sell your information, including email addresses, to third parties nor do we provide it for any third party's general commercial usage. Any information disseminated to parties external to Heritage Auctions is anonymous in nature - for example: the prices realized for a particular auction may include the price paid for a lot. 
 
 We may disclose your personal data with our service providers to ensure the proper functioning of your requested services and Heritage Auctions business operations (for example, we may transmit your credit card information to our bank for enhanced data security and authentication). Before we do so, we shall take the necessary steps to ensure that your personal data will be given adequate protection, and our service providers will only use the information for purposes outlined in the “What personal information do we collect, when, and why?” section. 
 
@@ -101,4 +105,4 @@ You may raise a complaint with the relevant supervisory authority if you believe
 
 
 
-Privacy policy last updated on and effective as of 25 May 2018. 
+Privacy policy last updated on and effective as of 25 February 2019. 
