@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the racing-reference.info privacy policy that was archived on 2018-11-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181104205510id_/https%3A//www.racing-reference.info/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the racing-reference.info privacy policy that was archived on 2019-03-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190331114646id_/https%3A//www.racing-reference.info/privacy.htm) for the most accurate reproduction.*
 
 # Privacy Policy - Racing-Reference.info
 
