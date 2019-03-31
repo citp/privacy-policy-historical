@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the surveysavvy.com privacy policy that was archived on 2018-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181230062654id_/https%3A//www.surveysavvy.com/privacy_policy%3Fload_mode%3Dmodal) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the surveysavvy.com privacy policy that was archived on 2019-03-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190331022521id_/https%3A//www.surveysavvy.com/privacy_policy%3Fload_mode%3Dmodal) for the most accurate reproduction.*
 
 # Privacy Policy | SurveySavvy
 
