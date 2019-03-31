@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the viralslot.com privacy policy that was archived on 2018-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180611035923id_/http%3A//viralslot.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the viralslot.com privacy policy that was archived on 2019-04-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190401011832id_/https%3A//viralslot.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy – ViralSlot
 
 Privacy Policy for Viralslot.com
 
-If you require any more information or have any questions about our privacy policy, please feel free to contact us via contact page: http://viralslot.com/contact-us/
+If you require any more information or have any questions about our privacy policy, please feel free to contact us via contact page: https://viralslot.com/contact-us/
 
 At Viralslot.com, the privacy of our visitors is of extreme importance to us. This privacy policy document outlines the types of personal information is received and collected by Viralslot.com and how it is used.
 
