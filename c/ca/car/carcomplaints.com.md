@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the carcomplaints.com privacy policy that was archived on 2018-09-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180909052949id_/https%3A//www.carcomplaints.com/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the carcomplaints.com privacy policy that was archived on 2019-03-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190331140750id_/https%3A//www.carcomplaints.com/privacy.shtml) for the most accurate reproduction.*
 
 # Privacy Policy | CarComplaints.com
 
@@ -19,7 +19,7 @@ We use this data within our company in several ways:
 
 **We use third-party advertising companies to serve ads and collect information when users visit our site.** These companies may use information (but not your name, address, email address or telephone number) about your visits to this and other websites in order to provide advertisements on our site, other websites and other forms of media about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, see [this opt-out link](http://networkadvertising.org/managing/opt_out.asp). 
 
-Exponential Interactive, Inc, as our partner, has a legitimate interest to collect and profile personal data in the form of IP address and cookie ID from users on our website in order to provide targeted online advertising and ad measurement. For more details including opt-out requests, access requests or complaints, please review their [privacy policy](http://exponential.com/privacy/) or contact their data protection officer via [privacy@exponential.com](https://web.archive.org/web/20180909052949id_/https%3A//www.carcomplaints.com/privacy@exponential.com). 
+Exponential Interactive, Inc, as our partner, has a legitimate interest to collect and profile personal data in the form of IP address and cookie ID from users on our website in order to provide targeted online advertising and ad measurement. For more details including opt-out requests, access requests or complaints, please review their [privacy policy](http://exponential.com/privacy/) or contact their data protection officer via [privacy@exponential.com](https://web.archive.org/web/20190331140750id_/https%3A//www.carcomplaints.com/privacy@exponential.com). 
 
 **This policy is subject to change.** Last updated on July 19, 2017. 
 
