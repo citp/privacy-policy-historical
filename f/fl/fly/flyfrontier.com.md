@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the flyfrontier.com privacy policy that was archived on 2018-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181122215552id_/https%3A//www.flyfrontier.com/legal/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the flyfrontier.com privacy policy that was archived on 2019-03-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190331060853id_/https%3A//www.flyfrontier.com/legal/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Frontier Airlines
 
@@ -96,4 +96,4 @@ If you have questions or concerns regarding this Privacy Policy or the collectio
 
 
 
-Copyright© 2017, Frontier Airlines, Inc. All Rights Reserved.
+Copyright© 2019, Frontier Airlines, Inc. All Rights Reserved.
