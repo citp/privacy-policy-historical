@@ -1,92 +1,215 @@
-> *The following text is extracted and transformed from the fridae.com privacy policy that was archived on 2018-03-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180328151953id_/http%3A//www.fridae.asia/privacypolicy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fridae.com privacy policy that was archived on 2019-04-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190401000351id_/https%3A//www.fridae.asia/privacypolicy.php) for the most accurate reproduction.*
 
 # Fridae | Empowering LGBT Asia
 
-[ ](http://www.wandoujia.com/apps/com.dragonstack.fridae)
+**Privacy Policy**
 
-[ ](https://web.archive.org/membership/purchase.php)
+DragonStack UK Ltd ("Fridae", “Hotmale”, “Gay Passport”, “Hotmale Radio”, "we", and "us") respects the privacy of its users ("you") and has developed this Privacy Policy to demonstrate its commitment to protecting your privacy. This Privacy Policy describes the information we collect, how that information may be used, with whom it may be shared, and your choices about such uses and disclosures. We encourage you to read this Privacy Policy carefully when using our website, applications or other services, or when transacting business with us. By using our website or application (our "Service"), you are accepting the practices described in this Privacy Policy.
 
-| 
+If you have any questions about our privacy practices, please refer to the end of this Privacy Policy for information on how to contact us.  
 
-We have created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses our information gathering and dissemination practices for our Site.
 
-**(a) What information do we gather/track about you?**
+Last updated: 25/05/2018
 
-> When you register with our Site, we receive and store the information you enter on our Site. Such information includes but is not limited to contact information (such as name and e-mail address) and demographic information (such as ZIP/postal code, age or income level). 
-> 
-> Your contact information from the registration form is used to send you information about our Services. 
-> 
-> We will also use your contact information to contact you when necessary. You may opt-out of receiving future mailings; see the choice/opt-out section in sub-clause (h) below. 
-> 
-> From time to time, we run contests or surveys on our Site in which we will ask you for information. These contests or surveys are optional. 
-> 
-> We may share both the results of, and the individual entries in, surveys with the sponsors of the survey. Also, the results of contests may be shared with our business partners and advertisers on an aggregate basis. 
-> 
-> We also log Internet Protocol (IP) addresses to help diagnose problems with our server, and to administer our Site. 
-> 
-> Although, our Site contains links to other sites, we are not responsible for the privacy practices or the Content of such Web sites. 
+**Content**
 
-**(b) What do we do with the information we gather/track?**
+  * Information we collect about you
+  * Use of technologies to collect information
+  * How we use the information we collect
+  * With whom we share your information
+  * Do Not Track Disclosure
+  * Third Party Websites
+  * How you can access your information
+  * Your choices about collections and use of your information
+  * How we protect your personal information
+  * Information you provide about yourself while using our Service
+  * Adult Restricted
+  * Visiting our Service from outside the EEA
+  * No Rights of Third Parties
+  * Controller
+  * Data Protection Officer
+  * Changes to this Privacy Policy
+  * How to Contact Us
 
-> We share the demographic and profile data with selected partners on an aggregate basis for the sole purpose of targeted advertising. 
-> 
-> Demographic and profile data also is collected at our Site. We use this data to tailor your experience at our Site, showing you Content that may be of interest to you, and displaying the Content according to your preferences. You can then better enjoy our Products and/or Services. 
-> 
-> We may use an outside advertising company to display advertisements on our Site. These advertisements may contain cookies. While we use cookies in other parts of our Site, cookies received with banner advertisings are collected by our advertising company and are only used for purposes of displaying advertisements on our Site. We do not have access to this cookie information. 
-> 
-> We will NOT sell, barter or trade your personal information gathered at the time of sign up, except where noted above, and/or when required by law to protect the safety of Members, employees or property. Any information that you supply in reference to an advertisement posted on our Site or outside marketing campaign in conjunction with an advertisement is not protected under this privacy policy.
 
-**(c) What are cookies?**
+  1. **Information we collect about you**
 
-> We use cookies to make sure you don't see the same advertisement repeatedly. We use cookies to deliver Content specific to your interests, to save your name and password so you don't have to re-enter it each time you visit our Site, and for other purposes. 
-> 
-> Cookies are alphanumeric identifiers (small sets of information) that are generated by you when you log onto our Site. They are stored on your computer's hard drive. Cookies contain information such as your member name and password. So every time you browse through a page at our Site, a cookie is sent to our Web server as a means of identifying you. This is how our Web server knows which profile or email account to show you when you log on to us. It also helps to keep track of the Content you are interested in. Please note that you may reject the use of cookies and you may still use our Site. 
-> 
-> However, the cookie will help you navigate and experience our Site with greater ease and convenience. 
 
-**(d) What about online interaction and postings?**
 
-> You can access the chat rooms and message boards on our Site. Please note that we do not record chat text from public or private chat rooms. The only time chat text may be recorded is in special event rooms during scheduled events. 
-> 
-> We encourage you to be smart about choosing when, and to whom you release personal information online. Please remember that you should exercise caution when deciding to disclose your personal information as such information, when released in these areas, becomes public information.   
-> 
+1.1. **In General.** When you use Fridae, we automatically collect and store information about your computer or mobile device and your activities. We may collect information that can identify you including but not limited to your name, email address, mobile device ID number, your preferences, technical information about your computer and mobile device ("personal information") and other information that does not identify you. We may collect this information through a website or a mobile application. By using the Service, you are authorising us to gather, parse and retain data related to the provision of the Service. When you provide personal information through our Service, the information may be sent to servers located in the United Kingdom and countries around the world.
 
-**(e) What security measures are in place?**
+1.2. **Information you provide.** In order to become a Fridae member, you will be asked to register. If you do so, you authorise us to collect your location information from your device when you download or use the Service. In addition, we may collect and store any personal information you provide while using our Service or in some other manner. This may include identifying information, such as your name, address, email address and telephone number, and if you transact business with us, financial information. You may also provide us photos, a personal description and information about your gender and preferences for recommendations, such as search distance, age range and gender. If you chat with other Fridae users, you provide us the content of your chats, and if you contact us with a customer service or other inquiry, you provide us with the content of that communication.
 
-> We have security measures in place to protect the loss, misuse and alteration of the information under our control. All registration information is stored in secure locations on password protected servers. 
-> 
-> However, you should remember to protect yourself against unauthorized access to your password and to your computer. You must also remember to sign off when you finish using a shared or public computer. 
+Most of our services do require a form of registration, however users do not need to register to visit our platform without registering. If you choose to proceed without personal data when registering, it may not be possible for you to gain access to certain parts of the site or for us to respond to your queries.
 
-**(f)  What about information in credit card transactions?**
+1.3. **Access to Information**. You have the right to request access to the information we have on you. You can do this by contacting [support@fridae.asia](mailto:support@fridae.asia). We will make sure to provide you with a copy of the data we hold on file about you. In order to comply with your request, we may ask you to verify your identity.
 
-> When purchasing Products and/or Services on our Site, you will be asked for your credit card information. This information is used to bill you for Products and/or Services purchased and to ship the merchandise. Only the billing vendors will have access to financial information and only for the purpose of billing you. 
-> 
-> However, if you access another site through our Site and purchase Products and/or Services through such site, then your activity will be governed by the privacy policy of those sites. 
+We fulfil requests by sending you a copy electronically, unless the request expressly specifies a different method.
 
-**(g) What about collecting information from minors?**
+1.4. **Information correction and Deletion**. If you believe that the information we hold about you is incorrect, you are welcome to contact us so we can update it and keep your data accurate. However, most data held about you can be viewed and corrected by logging into your account and updating you information via you account settings. Any data that is no longer needed for the purposes specified in “How we use the information we collect” will be deleted. If at any point you wish for DragonStack UK Ltd to delete your information, you can contact us at [support@fridae.asia](mailto:support@fridae.asia), or simply delete your account in the user account settings. Please note that information which we are required to keep for legal reasons, e.g. financial transactions, will not be deleted.
 
-> We are concerned about protecting privacy on the Internet and limiting access to information collected from minors. We understand that the protection of children on the Internet is very important. 
-> 
-> We do not allow children under 18 years old to register as members of fridae.asia. As such, our Site does not collect online contact information from children under 18.  If you are concerned about a minor getting access to our Site, consider using one of the following Products, which offer parental control (Surf Watch, Net Nanny and Cybersitter).   
-> 
+  2. **Use of technologies to collect information**
 
-**(h)  Can you choose to opt-out or change personal information?**
 
-> Other than the compulsory information, you have a choice not to provide any other information to us, unless you are purchasing a product, service or merchandise on our Site where necessary and appropriate information is needed to bill you for such a transaction and for shipment purposes. 
-> 
-> Please rest assured that we do not reveal any other information beyond the necessity for such a transaction. 
-> 
-> We may occasionally send you e-mail notifications regarding adminstrative matters, community service events, and the promotion of our services.
-> 
-> The opportunity to opt-out of receiving communications from us and our Affiliates is at the point where we request information about you. 
-> 
-> We also give you the full ability to remove your information from our database, stop future e- mails, cancel our service, and change and/or modify information provided previously.   
-> 
 
-**(i)  Who do you contact?**
+We use various technologies to collect information from your device and about your activities on our Service.
 
-> To cancel our service, please contact:   
->  [webmaster@fridae.asia](mailto:webmaster@fridae.asia)
-> 
-> If you have any questions concerning our privacy statement, the practices of our site, or your dealings with our Site, please contact:   
->  [webmaster@fridae.asia](mailto:webmaster@fridae.asia)
+2.1. Information collected automatically. We automatically collect information from your browser or device when you visit our Service. This information could include your IP address, device ID and type, your browser type and language, the operating system used by your device, access times, your mobile device’s geographic location while our application is actively running, and the referring website address.
+
+2.2. Cookies and Use of Cookie Data. When you visit our Service, we may assign your device one or more cookies to facilitate access to our Service and to personalize your experience. Through the use of a cookie, we also may automatically collect information about your activity on our Service, such as the pages you visit, the time and date of your visits and the links you click. If we advertise, we (or third parties) may use certain data collected on our Service to show you Fridae.asia advertisements on other sites or applications.
+
+2.3. Pixel tags. We embed pixel tags (also called web beacons or clear GIFs) on web pages, ads, and emails. These tiny, invisible graphics are used to access cookies and track user activities (such as how many times a page is viewed). We use pixel tags to measure the popularity of our features and services. Ad companies also use pixel tags to measure the number of ads displayed and their performance (such as how many people clicked on an ad).
+
+2.4. Mobile Device IDs. If you are using our app, we use mobile device IDs (the unique identifier assigned to a device by the manufacturer) or Advertising IDs (for iOS 6 and later), instead of cookies, to recognise you. We do this to store your preferences and track your use of our app. Unlike cookies, device IDs cannot be deleted, but Advertising IDs can be reset in “Settings” on your iPhone. Ad companies also use device IDs or Advertising IDs to track your use of the app, track the number of ads displayed, measure ad performance and display ads that are more relevant to you. Analytics companies use device IDs to track information about app usage.
+
+2.5. Information collected by third-parties for advertising purposes. We may allow service providers, advertising companies and ad networks, and other third parties to display advertisements on our Service. These companies may use tracking technologies, such as cookies or web beacons, to collect information about users who view or interact with their advertisements. We do not provide any non-anonymised personal information to third parties. Some of these third-party advertising companies may be advertising networks that may feature in services such as [Your Online Choices](http://www.youronlinechoices.com/), which offers a single location to opt out of ad targeting from member companies. Opting out will not decrease the number of advertisements you see.
+
+2.6. WHENEVER YOU VOLUNTARILY DISCLOSE PERSONAL INFORMATION ON PUBLICLY VIEWABLE SCREENS OR PAGES, THAT INFORMATION WILL BE PUBLICLY AVAILABLE AND CAN BE COLLECTED AND USED BY OTHERS! We cannot control who reads your posting or what other users may do with information you voluntarily post, so we encourage you to exercise discretion and caution with respect to your personal information.
+
+  3. **How we use the information we collect**
+
+
+
+3.1. **In General**  
+We may use information that we collect about you to:
+
+  * deliver and improve our products and services, and manage our business;
+  * manage your account and provide you with customer support;
+  * perform research and analysis about your use of, or interest in, our or others’ products, services, or content;
+  * communicate with you by email, postal mail, telephone and/or mobile devices about products or services that may be of interest to you, either from us or other third parties;
+  * develop, display, and track content and advertising tailored to your interests on our Service and other sites (for non-VIP members only), including providing our advertisements to you when you visit other sites;
+  * website or mobile application analytics;
+  * verify your eligibility and deliver prizes in connection with competitions and promotions;
+  * enforce or exercise any rights in our [Terms and Conditions](https://web.archive.org/useragreement.php) and perform functions or services as otherwise described to you at the time of collection.
+
+
+
+**3.2. Job Applicants**
+
+3.2.1. If your personal information is submitted through our management website www.dragonstack.com when applying for a position with our company, the information will be used solely in connection with considering and acting upon your application. We may retain your personal information, but only for the purpose of considering your application for current or future available positions. This information, which may include your name and contact information, prior education and experience, and other information you may provide to us, may be shared with third-party service providers retained by us to collect, maintain and analyse candidate submissions for job postings.
+
+3.2.2. In all circumstances, we may perform these functions directly or use a third-party service provider to perform these functions on our behalf, who will be obligated to use your personal information only to perform services for us.
+
+**3.3. Social Media**
+
+Also, if you access our Service from a third party social platform, such as Facebook, we may share non-personal information with that platform to the extent permitted by your agreement with it and its privacy settings.
+
+  4. **With whom we share your information**
+
+
+
+4.1. **Information Shared with Other Users**  
+When you register as a member of Fridae, your Fridae profile will be viewable by other users of the Service. Other members will be able to view information you have provided to us directly, any additional photos you upload, your profile name, your age, approximate number of miles away, your personal description, and information you have in common with the person viewing your profile.
+
+4.2. **Personal information**  
+We do not share your personal information with others except as indicated in this Privacy Policy or when we inform you and give you an opportunity to opt out of having your personal information shared. We may share personal information with:
+
+4.2.1. **Service providers.** We may share information, including personal and financial information, with third parties that perform certain services on our behalf. These services may include providing customer service and marketing assistance, performing business and sales analysis, ad tracking and analytics, member screenings, supporting our Service functionality, and supporting contests, sweepstakes, surveys and other features offered through our Service. These service providers may have access to personal information needed to perform their functions but are not permitted to share or use such information for any other purposes.
+
+4.2.2. **Other Situations.** We may disclose your information, including personal information:
+
+  * In response to a subpoena or similar investigative demand, a court order, or a request for cooperation from a law enforcement or other government agency; to establish or exercise our legal rights; to defend against legal claims; or as otherwise required by law. In such cases, we may raise or waive any legal objection or right available to us.
+  * When we believe disclosure is appropriate in connection with efforts to investigate, prevent, or take other action regarding illegal activity, suspected fraud or other wrongdoing; to protect and defend the rights, property or safety of our company, our users, our employees, or others; to comply with applicable law or cooperate with law enforcement; or to enforce our [Terms and Conditions](https://web.archive.org/web/20190401000351id_/https%3A//www.fridae.asia/useragreement.php) , other agreements or policies.
+  * In connection with a substantial corporate transaction, such as the sale of our business, a divestiture, merger, consolidation, or asset sale, or in the unlikely event of bankruptcy.
+  * Aggregated and/or non-personal information. We may use and share non-personal information we collect under any of the above circumstances. We may combine non-personal information we collect with additional non-personal information collected from other sources. We also may share aggregated, non-personal information, or personal information in hashed, non-human readable form, with third parties, including advisors, advertisers and investors, for the purpose of conducting general business analysis or other business purposes. For example, we may engage a data provider who may collect web log data from you (including IP address and information about your browser or operating system), or place or recognise a unique cookie on your browser to enable you to receive customised ads or content. The cookies may reﬂect de-identified demographic or other data linked to data you have voluntarily submitted to us (such as your email address), that we may share with a data provider solely in hashed, non-human readable form. To opt-out of cookies that may be set by third party data or advertising partners, please go to <http://www.aboutads.info/choices/>
+
+
+  5. **Do Not Track Disclosure**
+
+
+
+Do Not Track ("DNT") is a privacy preference that users can set in their web browsers. DNT is a way for users to inform websites and services that they do not want certain information about their webpage visits collected over time and across websites or online services. We are committed to providing you with meaningful choices about the information we collect and that is why we provide the opt-out links above. However, we do not recognise or respond to any DNT signals, as the Internet industry works toward defining exactly what DNT means, what it means to comply with DNT, and a common approach to responding to DNT.
+
+  6. **Third Party Websites**
+
+
+
+There are a number of places on our Service where you may click on a link to access other websites that do not operate under this Privacy Policy. For example, if you click on an advertisement on our Service, you may be taken to a website that we do not control. These third- party websites may independently solicit and collect information from you, including personal information, and in some instances, provide us with information about your activities on those websites. We recommend that you consult the privacy statements of all third-party websites you visit by clicking on the “privacy” link typically located at the bottom of the webpage you are visiting.
+
+  7. **How you can access your information**
+
+
+
+If you have a Fridae account, you have the ability to review and update your personal information within the Service by opening your account and going to Settings. More information about how to contact us is provided below. Also, you may close your account at any time by visiting the "Settings" page for your account. If you close your account, we will retain certain information associated with your account for analytical purposes and record keeping integrity, as well as to prevent fraud, enforce or take actions we deem necessary to protect the integrity of our Service or our users, or take other actions otherwise permitted by law. In addition, if certain information has already been provided to third parties as described in this Privacy Policy, retention of that information will be subject to those third parties' policies.
+
+  8. **Your choices about collection and use of your information**
+
+
+
+8.1. You can choose not to provide us with certain information, but that may result in you being unable to use certain features of our Service because such information may be required in order for you to register as user; purchase products or services; participate in a contest, promotion, survey, or sweepstakes; ask a question; or initiate other transactions.
+
+8.2. You can also control information collected by cookies. You can delete or decline cookies by changing your browser settings. Click “Help” in the toolbar of most browsers for instructions.
+
+  9. **How we protect your personal information**
+
+
+
+We take security measures to help safeguard your personal information from unauthorised access and disclosure. However, no system can be completely secure. Therefore, although we take steps to secure your information, we do not promise, and you should not expect, that your personal information, chats, or other communications will always remain secure. Users should also take care with how they handle and disclose their personal information and should avoid sending personal information through insecure email.
+
+  10. **Information you provide about yourself while using our Service**
+
+
+
+We provide areas on our Service where you can post information about yourself and others and communicate with others. Such postings are governed by our [Terms and Conditions](https://web.archive.org/web/20190401000351id_/https%3A//www.fridae.asia/useragreement.php). Also, whenever you voluntarily disclose personal information on publicly-viewable pages, that information will be publicly available and can be collected and used by others. For example, if you post your email address, you may receive unsolicited email messages. We cannot control who reads your posting or what other users may do with the information you voluntarily post, so we encourage you to exercise discretion and caution with respect to your personal information.
+
+  11. **Adult Restricted**
+
+
+
+Although our Service is a general audience Service, we restrict the use of our service to individuals age 18 and above. We do not knowingly collect, maintain, or use personal information from individuals under the age of 18.
+
+  12. **Visiting our Service from outside the EEA**
+
+
+
+If you are visiting our Service from outside the European Economic Area (the “EEA”), please be aware that your information may be transferred to, stored, and processed in the EEA where our servers are located and our central database is operated. By using our services, you understand and agree that your information may be transferred to our facilities and those third parties with whom we share it as described in this privacy policy.
+
+  13. **No Rights of Third Parties**
+
+
+
+This Privacy Policy does not create rights enforceable by third parties or require disclosure of any personal information relating to users of the website.
+
+  14. **Controller**
+
+
+
+DragonStack UK Ltd processes Personal Data both as a Processor and as a Controller, as defined in the Directive of 1995 (the “Directive”) and the GDPR of 25 May 2018 (the “GDPR”).
+
+The DragonStack UK Ltd entity with which you as a User entered an agreement when using the Fridae.asia platform, will be the Controller for the User data as outlined above in “Information we collect about you” section.
+
+DragonStack UK Ltd adheres to the Directive and the GDPR. Consequently, DragonStack UK Ltd processes all data provided by its users with accounts in its European Data Region, in the European Economic Area only.
+
+All data collected by DragonStack UK Ltd will be sorted in secure hosting facilities provided by DragonStack UK Ltd. DragonStack UK Ltd has a data processing agreement in place with its providers, ensuring compliance with the Directive. All hosting is performed with the highest security regulations. All transfers of data in the EEA is done in accordance with this data processing agreement.
+
+  15. **Data Protection officer**
+
+
+
+DragonStack UK Ltd has a “Data Protection Officer” who is responsible for matters relating to privacy and data protection. This Data Protection Officer can be reached at the following address:
+
+dataprotectionofficer@fridae.asia
+
+  16. **Changes to this Privacy Policy**
+
+
+
+We will occasionally update this Privacy Policy. When we post changes to this Privacy Policy, we will revise the "last updated" date at the top of this Privacy Policy. We recommend that you check our Service from time to time to inform yourself of any changes in this Privacy Policy or any of our other policies.
+
+  15. **How to Contact Us**
+
+
+
+You can contact us at any time to:
+
+\- request access to the information that DragonStack UK Ltd has about you
+
+\- correct any information that DragonStack UK Ltd has about you
+
+\- delete information that DragonStack UK Ltd has about you
+
+If you have any additional questions about DragonStack UK Ltd collection and storage of data, please contact is at:
+
+[support@fridae.asia](mailto:support@fridae.asia)
+
++44 (0)20 8190 0420
