@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the shopclues.com privacy policy that was archived on 2018-10-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181030081215id_/https%3A//www.shopclues.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shopclues.com privacy policy that was archived on 2019-03-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190331150758id_/https%3A//www.shopclues.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy - India's #1 Online Market Place ShopClues.com
 
