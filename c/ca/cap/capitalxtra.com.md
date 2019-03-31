@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the capitalxtra.com privacy policy that was archived on 2018-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181222031738id_/https%3A//www.capitalxtra.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the capitalxtra.com privacy policy that was archived on 2019-03-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190331025310id_/https%3A//www.capitalxtra.com/privacy-policy) for the most accurate reproduction.*
 
 # Global Privacy Statement - Capital XTRA
 
@@ -51,8 +51,6 @@ We use your personal information:
 
 
 If you would like more information regarding OBA and how to opt out, please visit <http://www.youronlinechoices.com/uk/>
-
-By opting out of personalised advertising, you will still see adverts, but they will not be tailored to your interests. You can change your preferences by clicking here.
 
 We will use your data either because you have consented for us to do so or because we have a legitimate interest in processing your information, as follows:
 
