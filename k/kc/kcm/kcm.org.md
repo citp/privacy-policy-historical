@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kcm.org privacy policy that was archived on 2018-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181229013843id_/http%3A//kcm.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kcm.org privacy policy that was archived on 2019-03-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190331084851id_/https%3A//www.kcm.org/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Kenneth Copeland Ministries
 
