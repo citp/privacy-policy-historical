@@ -1,73 +1,64 @@
-> *The following text is extracted and transformed from the puremagnetik.com privacy policy that was archived on 2008-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080615125823id_/http%3A//puremagnetik.com/index.php%3Foption%3Dcom_content%26task%3Dview%26id%3D33%26Itemid%3D62) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the puremagnetik.com privacy policy that was archived on 2019-03-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190331091736id_/https%3A//puremagnetik.com/15615265/policies/15597957.html) for the most accurate reproduction.*
 
-# puremagnetik.com - Puremagnetik Privacy Policy
+# Privacy policy
 
-Puremagnetik Privacy Policy   
-  
-**Puremagnetik.com Customer Privacy and Security Statement**
+This Privacy Policy describes how your personal information is collected, used, and shared when you visit or make a purchase from puremagnetik.com (the “Site”).
 
-Puremagnetik.com respects the privacy of its customers. This Customer Privacy and Security Statement summarizes what information we gather and how we use it. In our ongoing effort to improve the services and features we provide to our customers. Puremagnetik.com will continue to implement new technologies from time to time. As a result, this policy is subject to change without prior notice. We encourage you to periodically review our privacy policy.
+PERSONAL INFORMATION WE COLLECT   
+When you visit the Site, we automatically collect certain information about your device, including information about your web browser, IP address, time zone, and some of the cookies that are installed on your device. Additionally, as you browse the Site, we collect information about the individual web pages or products that you view, what websites or search terms referred you to the Site, and information about how you interact with the Site. We refer to this automatically-collected information as “Device Information”.
 
-Online Privacy- The Information We Gather:  
-The type of information we may gather online falls into five general categories:  
-Aggregate Site Usage Information  
-Online Order Information  
-Voluntary Registered Shopper Information  
-Click-Stream Data  
-Subscription Preferences  
-Aggregate Site Usage Information:  
-We may collect and store information about the pages viewed by all of our website visitors. We then may use this data in aggregate form to identify overall visitor behavior patterns. Our goal in using this information is to improve our site by making it more responsive to the needs and preferences of our visitors.
+We collect Device Information using the following technologies:   
+\- “Cookies” are data files that are placed on your device or computer and often include an anonymous unique identifier. For more information about cookies, and how to disable cookies, visit http://www.allaboutcookies.org.   
+\- “Log files” track actions occurring on the Site, and collect data including your IP address, browser type, Internet service provider, referring/exit pages, and date/time stamps.   
+\- “Web beacons”, “tags”, and “pixels” are electronic files used to record information about how you browse the Site.
 
-Our Web servers automatically collect information about each visitor who requests Puremagnetik.COM Web pages, including your computer's internet protocol (IP) address. This IP address allows us to identify your computer on the internet so that the Web content you request from us can be sent to you.
+Additionally when you make a purchase or attempt to make a purchase through the Site, we collect certain information from you, including your name, billing address, shipping address, payment information (including credit card numbers, email address, and phone number. We refer to this information as “Order Information”.
 
-From time to time, we may provide portions of this aggregate site behavior information to vendors, consultants, potential advertisers or news agencies. We typically do this in order to demonstrate the amount of interest in our sites and/or to plan for technical infrastructure improvements. We also may use aggregate data in other manners as permitted under law.
+When we talk about “Personal Information” in this Privacy Policy, we are talking both about Device Information and Order Information.
 
-Online Order Information:  
-If you choose to purchase products from any of Puremagnetik.com websites, we require the following information in order to complete your order:  
-Name  
-Contact phone number(s)  
-Address  
-E-mail address  
-Credit card account information  
-We use this information to process your order and to make sure that it is delivered to you. Aggregated order information is also used to track and analyze overall shopping trends, which allows Puremagnetik.com to improve product offerings and services to its customers and web site visitors.
+HOW DO WE USE YOUR PERSONAL INFORMATION?   
+We use the Order Information that we collect generally to fulfill any orders placed through the Site (including processing your payment information, arranging for shipping, and providing you with invoices and/or order confirmations). Additionally, we use this Order Information to:   
+\- Communicate with you;   
+\- Screen our orders for potential risk or fraud; and   
+\- Provide you with information or advertising relating to our products or services.
 
-We request an e-mail address during the order process so that we can send an e-mail confirmation message acknowledging the receipt of your order. This message contains your name, address, the list of items you purchased, an order reference number, a confirmation of your shipping method, and the total cost of items requested, including any shipping / delivery charges and taxes. Please note that this confirmation e-mail does NOT contain your credit card number.
+We use the Device Information that we collect to help us screen for potential risk and fraud (in particular, your IP address), and more generally to improve and optimize our Site (for example, by generating analytics about how our customers browse and interact with the Site, and to assess the success of our marketing and advertising campaigns).
 
-Voluntary Registered Shopper Information:  
-Shopper registration is an optional service provided on the Puremagnetik.com website. You do not have to register as a shopper in order to shop online with us. However, registering allows us to speed up the shopping process for you and lets us offer you access to special features and promotions.
+SHARING YOUR PERSONAL INFORMATION   
+We share your Personal Information with third parties to help us use your Personal Information, as described above. For example, we use Shopify to power our online store--you can read more about how Shopify uses your Personal Information here: https://www.shopify.com/legal/privacy. We also use Google Analytics to help us understand how our customers use the Site -- you can read more about how Google uses your Personal Information here: https://www.google.com/intl/en/policies/privacy/. You can also opt-out of Google Analytics here: https://tools.google.com/dlpage/gaoptout.
 
-In order to register on Puremagnetik.com, you must provide:  
-First and last name - We require this information in order to differentiate your registration profile from others at Puremagnetik.com. We may also use it to automatically populate checkout forms to save you time and effort while shopping.  
-E-mail address - This allows us to send you an e-mail confirming your registration on our site.  
-Updating Registered Shopper Information  
-If you ever need to view, change, update or delete any of your registration information, simply click on the "Your Account" link at the bottom of your screen and log in to your account. Your information will then be available for editing.
+Finally, we may also share your Personal Information to comply with applicable laws and regulations, to respond to a subpoena, search warrant or other lawful request for information we receive, or to otherwise protect our rights.
 
-Click-Stream Data (And Cookie Technology):  
-In order to register on - or purchase products from - Puremagnetik.com, your browser must be set to accept "cookies." A cookie is a small piece of data housed in a text file or folder on your computer's hard drive that helps us recognize you when you visit our sites. We use cookies to help us remember things such as the following: (1) the profile facts you tell us about yourself, (2) your specified areas of interest on our sites, (3) the items you've placed in your shopping basket, and/or (4) the pages you visit as you shop.
+BEHAVIOURAL ADVERTISING   
+As described above, we use your Personal Information to provide you with targeted advertisements or marketing communications we believe may be of interest to you. For more information about how targeted advertising works, you can visit the Network Advertising Initiative’s (“NAI”) educational page at http://www.networkadvertising.org/understanding-online-advertising/how-does-it-work.
 
-The only personal information our Puremagnetik.com cookie can contain is information that you supply yourself. Our cookies cannot read data from other parts of your computer. If you would like more technical information about how cookies work, take a look at http://www.cookiecentral.com.
+You can opt out of targeted advertising by using the links below:   
+\- Facebook: https://www.facebook.com/settings/?tab=ads   
+\- Google: https://www.google.com/settings/ads/anonymous   
+\- Bing: https://advertise.bingads.microsoft.com/en-us/resources/policies/personalized-ads
 
-As stated above, you must enable your Web browser to permit cookies to be accepted for Puremagnetik.com to function correctly. If you are concerned about information contained in your Puremagnetik.com cookie, you may delete the file(s) at the end of each browser session. View your browser's help file for more information on cookies.
+Additionally, you can opt out of some of these services by visiting the Digital Advertising Alliance’s opt-out portal at: http://optout.aboutads.info/.
 
-Click-stream data is information that describes the page-by-page paths you take as you browse through our websites. Using cookies, we may track and store this information to help us positively customize your shopping experience. We may use click-stream data in the aggregate to provide improved services to groups of shoppers who behave similarly. We may also use it on an individual basis to improve your specific shopping experience.
+DO NOT TRACK   
+Please note that we do not alter our Site’s data collection and use practices when we see a Do Not Track signal from your browser.
 
-Communications From Puremagnetik.com and Other Companies:  
-Whenever you purchase products from Puremagnetik.com, we collect and store the information that you provide such as your name, e-mail address, postal address and phone number. The information you supply is added to our customer database. You may receive periodic printed or e-mail communications from us about new products and services, discounts, special promotions or upcoming events.
+YOUR RIGHTS   
+If you are a European resident, you have the right to access personal information we hold about you and to ask that your personal information be corrected, updated, or deleted. If you would like to exercise this right, please contact us through the contact information below.
 
-In some instances, we use third-party companies to help us provide products and services to you, to assist us in managing customer information, or to fulfill promotions and communicate with you. Some of these companies are given access to some or all of the information you provide to us. These companies are contractually restricted from using your information in any manner other than in helping us to provide you with the products and services available from Puremagnetik.com.
+Additionally, if you are a European resident we note that we are processing your information in order to fulfill contracts we might have with you (for example if you make an order through the Site), or otherwise to pursue our legitimate business interests listed above. Additionally, please note that your information will be transferred outside of Europe, including to Canada and the United States.
 
-Other than as stated above, Puremagnetik.com does not provide customer names and postal addresses, including your e-mail address or phone number, to any other company.
+DATA RETENTION   
+When you place an order through the Site, we will maintain your Order Information for our records unless and until you ask us to delete this information.
 
-Other Puremagnetik.com Privacy Notes:  
-Links to or From Other Sites - Puremagnetik.com may provide links to websites outside of Mek! Music.com or Puremagnetik.com as an added convenience to the user. Other websites may link to Puremagnetik.com. Any link to or from this web site does not imply or convey endorsement of the other company or organization, its site, or its products or services. Puremagnetik.com is not responsible for the privacy, terms of use, or other policies of any other website.  
-Puremagnetik.com Children's Policy - Except for membership data applicable to children, we do not intend to collect any personally identifiable information from children through our websites. Please do not allow children under the age of 13 to provide any personally identifiable information.  
-Puremagnetik.com's Online Security Statement:  
-Puremagnetik.com understands that many consumers are concerned about Internet security. Puremagnetik.COM employs industry-leading technologies to store sensitive information and protect it while in transit over the Internet. The following Security Statement describes the technologies we use and provides additional details about how we handle sensitive data like credit card information. We want you to be able to shop at Puremagnetik.COM with complete confidence. 
+CHANGES   
+We may update this privacy policy from time to time in order to reflect, for example, changes to our practices or for other operational, legal or regulatory reasons.
 
-The Transmition of Your Data:  
-Puremagnetik.com works hard to protect the information that you send to us while it is en route to and from our sites. To provide secure transmission, Puremagnetik.COM employs Secure Sockets Layer technology (SSL) on those pages that involve sensitive information such as credit card numbers. SSL, which is supported by a vast majority of Internet browsers available today, is the most commonly employed method of secure, encrypted communication used on the Internet.
+MINORS   
+The Site is not intended for individuals under the age of 18.
 
-We have also obtained Verisign™ digital security certificates for all of our websites. Verisign™ is an independent third party that authenticates the identity of others on the Internet. By registering with Verisign™, we provide you a method of independently authenticating that the entity you are dealing with over the Internet is actually Puremagnetik.COM.
+CONTACT US   
+For more information about our privacy practices, if you have questions, or if you would like to make a complaint, please contact us by e‑mail at hello@puremagnetik.com or by mail using the details provided below:
 
-What Happens To My Information After Puremagnetik.com Receives It?:  
-SSL protects information en route to us. Verisign™ certificate technology helps ensure that Puremagnetik.COM is the actual recipient of this information. But we don't stop there - we also work very hard to make sure the information you send us is stored and managed securely once we receive it. All data collected is stored and protected by multiple levels of data and structural security. This information is only accessible by Puremagnetik.com or Mek! MusicMek! Music, Inc. and trusted, contracted third-party service providers. 
+Puremagnetik   
+[Re: Privacy Compliance Officer]   
+Puremagetik, LLC, 144 Court Street, Brooklyn NY 11231, United States
