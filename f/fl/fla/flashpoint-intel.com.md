@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the flashpoint-intel.com privacy policy that was archived on 2018-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181229032223id_/https%3A//www.flashpoint-intel.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the flashpoint-intel.com privacy policy that was archived on 2019-03-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190331010522id_/https%3A//www.flashpoint-intel.com/privacy-policy) for the most accurate reproduction.*
 
-# Flashpoint - Privacy Policy
+# Privacy Policy – Flashpoint
 
 We at EJ2 Communications, Inc. d/b/a Flashpoint (“Flashpoint,” “we,” “us,” or “our”) provided this privacy policy (this “Privacy Policy”) because we know that you care about how information you provide to us is used and shared. This Privacy Policy relates to the information collection and use practices of Flashpoint when you access and use this website ([https://www.flashpoint-intel.com/](https://www.flashpoint-intel.com/)) (the “Website”) or access and use our proprietary software products (“Products”) via the Website. As of the Effective Date of this Privacy Policy, our Products include Flashpoint Platform, Reports, Curated Alerting and Analysis Assistance. Our Products may change from time to time.
 
