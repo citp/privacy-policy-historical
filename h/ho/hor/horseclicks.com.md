@@ -1,81 +1,280 @@
-> *The following text is extracted and transformed from the horseclicks.com privacy policy that was archived on 2005-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051223090932id_/http%3A//www.equinehits.com/misc_privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the horseclicks.com privacy policy that was archived on 2019-03-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190331100325id_/https%3A//www.horseclicks.com/slpage.php%3Fpage%3D17) for the most accurate reproduction.*
 
-# Equine Hits - Privacy Policy
+# Privacy Policy | HorseClicks
 
-**Introduction**
+**_Last updated: 21st May 2018_**
 
-EquineHits.com ("EquineHits") respects and is committed to protecting your privacy. We have, therefore, established this Online Privacy Policy so that you can understand the care with which we intend to treat your Personal Information.
+Horseclicks is part of Friday Media Group Ltd and is a classified ads marketplace established to accurately match item sellers and service providers with a relevant buying audience.
 
-Personal Information means any information that may be used to identify an individual, including, but not limited to, a first and last name, a home or other physical address and an email address or other contact information, whether at work or at home. In general, you can visit EquineHits's web pages without telling us who you are or revealing any Personal Information about yourself.
+When you submit information to Horseclicks, your information will also be shared with other relevant marketplace sites that form part of the [Friday Media Group portfolio](http://fridaymediagroup.com/what-we-do/). Any such sites will also use your information in accordance with this Privacy Policy. Horseclicks will remain responsible for the management and security of jointly used Personal Information that you submit to Horseclicks.
 
-EquineHits strives to comply with all applicable laws around the globe that are designed to protect your privacy. Although legal requirements may vary from country to country, EquineHits intends to adhere to the principles set forth in this Online Privacy Policy even if, in connection with the above, we transfer your Personal Information from your country to countries that may not require an "adequate" level of protection for your Personal Information. In other words, our goal is to provide protection for your Personal Information no matter where that Personal Information is collected, transferred, or retained.
+We take data protection very seriously and understand the importance of protecting your privacy and Personal Information. "Personal Information" is information that identifies you as an individual such as your name, date of birth, email address, IP address and telephone number.
 
-**Information We Collect**
+* * *
 
-Every computer connected to the Internet is given a domain name and/or a set of numbers, that serve as that computer's "Internet Protocol" IP address. When a visitor requests a page from any web page within EquineHits, our web servers automatically recognize that visitor's domain name and/or IP address. The domain name and/or IP address reveal nothing personal about you other than the IP address from which you have accessed our site. We use this information to examine our traffic in aggregate, and to investigate misuse of EquineHits, its users, or to cooperate with law enforcement. See also "Disclosure to Third Parties" below. We do not collect and evaluate this information for specific individuals.
+**How do we collect information from you?**
 
-EquineHits may offer access to services that require registration. In that event, your registration and/or contact information may be used to send notification to you of EquineHits products and/or services by e-mail. We maintain a strict "No-Spam" policy that means that we do not sell, rent, or otherwise give your e-mail address to a third party, without your consent or as permitted by this Privacy Policy.
+We collect and use your Personal Information in accordance with this Privacy Policy.
 
-When you use co-branded services or those provided by a third party within EquineHits, your Personal Information may be passed to that third party provider. Its use of your Personal Information is subject to their applicable privacy policies.
+The majority of the Personal Information you provide to us freely when you submit to us your advertisement copy or enquire about an item or service via the website. If there is any information you would prefer us not to have, please omit this from any submissions sent to us. Some personal data is necessary for us to create an account for you, so in the instance where you do not want to share this Personal Information, we will be unable to provide our services to you.
 
-**Information We Do Not Collect**
+Some information we collect and store, whilst voluntarily given by yourself, may have been unintentional, such as information divulged through the use of search tools and content you interact with.
 
-When you visit our site, we do not collect your name, email address or any other Personal Information unless you provide it to us.
+**Other sources we use also include:**
 
-**Purchases**
+  * Our group websites
+  * The software applications made available by us for use on or through computers and mobile devices
+  * Publicly available information; 
+  * Cookies (see our [Cookie Policy](https://www.horseclicks.com/cookies.php) for more information on how we use Cookies)
+  * Other tools and applications
 
-If you are make a purchase from EquineHits, your name, e-mail address, mailing address, credit card number and expiration date are requested. This information allows your orders to be processed and fulfilled. Credit card and e-mail information will not be shared or sold to third parties for any purpose.
 
-Wherever EquineHits collects Personal Information we make an effort to include a link to this Privacy Policy on that page.
+
+* * *
+
+**What Personal Information do we collect?**
+
+_Personal Information we collect and store about you may include the following:_
+
+  * _**General identification and contact information:**_  your name; address; email; IP address; telephone details; gender; marital status; family status; date and place of birth; physical attributes including photos
+  * _**Other sensitive information:**_  political opinions, racial or ethnic origin, trade union membership, religious beliefs and criminal record.
+  * _**Information enabling us to provide products and services:**_  age, location, whether or not you hold a driving licence
+  * _**Information from Apps:**_  User generated content submitted through contributing to online forums, commenting on blog posts, completing onsite forms or emailing any of our internal services teams
+  * _**Professional history information available publicly:**_  educational background; employment history; skills and experience; professional licenses and affiliations; educational and professional qualifications
+  * _**Marketing preferences:**_  defined when entering a competition or prize draw, submitting a survey response or other sales/marketing promotional activity
+  * _**Statistical information:**_  aggregate statistical information about site visitors and users for internal use and for other lawful purposes such as salary comparison services. Where we utilise such information, we will do so using an anonymous format and not include any Personal Information.
+
+
+
+* * *
+
+**What legal basis do we rely on to process your Personal Information?**
+
+  * _**Consent:**_  In some cases, Horseclicks processes your data with your consent. For example, we rely on consent when linking your Horseclicks account to your Social Network account. You have the right to withdraw consent at any time. Where consent is the only legal basis for processing, we will cease to process data after consent is withdrawn
+  * _**Processing required to fulfil a contract:**_  Horseclicks may process your data when we need to do this to fulfil a contract with you, such as to send your online enquiry to an item seller or service provider you’ve initiated a conversation with
+  * _**Legitimate Interest:**_  Horseclicks can also process your data when it is deemed our legitimate interest to do so and when these interests are not overridden by your data protection rights
+
+
+
+**Our legitimate interests include:**
+
+  * Ensuring the security and integrity of our Services at all times
+  * Enabling our Websites and Apps to operate effectively
+  * Protecting and maintaining the safety, health and welfare of our customers, employees and other individuals
+  * Promoting, marketing and advertising our products and services and/or sending promotional communications which are relevant and tailored to individual customers
+  * Understanding our customers activities, needs, behaviours and preferences
+  * Developing new products and services and improving existing products
+  * Managing complaints, queries, customer contacts or disputes
+  * Fulfilling our obligations to our customers, employees and shareholders
+
+
+
+The basis for processing this information will be based on an applicable legal obligation. Other examples where Horseclicks may process your data include complying with our legal and regulatory obligations, such as preventing, investigating and detecting crime, fraud or anti-social behaviour, This may include the need to work and share this information with law enforcement agencies.
+
+* * *
+
+**Who do we share your Personal Information with?**
+
+_Horseclicks  may make Personal Information available to the following:_
+
+  * _**Friday Media Group Ltd companies:**_  Where group companies have access to your personal data, they will use it only for the purposes set out in this Privacy Policy. Horseclicks will remain responsible for the management and security of jointly used Personal Information. Access to Personal Information within Horseclicks, and our group companies, is restricted to those individuals who have a need to access the information for legitimate business purposes.
+  * _**Aggregators and other agents:**_  Whilst undertaking our business purpose to help you find relevant products and services, Horseclicks may make Personal Information available to third parties such as aggregators and other intermediaries and agents and other carefully selected business partners
+  * _**Our service providers:**_  This includes, but is not limited to, external third-party service providers such as accountants and auditors, IT systems, support and hosting service providers, market research and analysis service providers, data storage and cloud providers and other outsourced providers that assist us in carrying out business requirements
+  * _**Governmental authorities and third parties involved in court action:**_  Horseclicks may share Personal Information with governmental or other public authorities and third-party civil legal process participants and their accountants, auditors, lawyers and other advisors and representatives as we believe to be necessary or appropriate. Examples would be to comply with applicable law, protect our operations, and to protect the rights of ourselves, our group, you or others
+  * _**Other third parties:**_  Where appropriate, we may occasionally share Personal Information with other third parties. This will always be done under contract and in accordance with your instructions.
+
+
+
+Friday Media Group utilise a number of services and third party products to aid us in providing you with the best on and offsite experience we can. Some of these services are non-negotiable and any request not to have your data shared with these services may mean we are unable to provide you with use of our site(s). In case of a query, please contact our DPO using the details provided below and we will be able to assist you further.
+
+_The following is a list of services we utilise and that details we hold about you may be shared with and why:_
+
+**Business Intelligence/User Experience**
+
+To optimise our on-site conversion processes, providing you with smoother transaction experiences.
+
+  * To amplify and promote our call to actions and data capture forms.
+  * To allow us to communicate with you on-site via web chat services.
+  * To guide our business decisions, providing you with a better product and experience.
+  * To visualise and analyse website usage data (including user journeys and paths).
+  * To optimise our sales and marketing campaigns, ensuring they are best tailored for your interests and purposes of using our services. 
+
+
+
+_We work with the following Third Parties to facilitate the above:_
+
+  * Google Analytics
+  * MySQL workbench
+  * Yandex Metrica
+  * Data Studio
+  * Chartio
+  * Supermetrics
+  * VWO
+  * Optimizely
+  * HelloBar
+  * Intercom
+
+
+
+**Direct & Automated Marketing**
+
+_We may share your data with Third Party processors for the following purposes:_
+
+  * To contact you via Email; SMS; Social Media; Telephone and Mail regarding orders; offers; promotions; products or services.
+  * To enhance and improve our marketing/advertising campaigns to you, providing you with a more tailored service.
+  * To facilitate in providing you with an improved product or service.
+  * To enrich our data, with your consent, for the purposes listed above.
+  * To automate our internal marketing processes and services.
+
+
+
+_We work with the following Third Parties to facilitate the above:_
+
+  * Unbounce
+  * Dotmailer
+  * Zapier
+  * LinkedIn
+  * Facebook
+  * Twitter
+  * SteerFox
+  * Snapchat
+  * Google Adwords
+  * Microsoft Adcentre
+  * JobG8
+  * Gleam
+  * SurveyMonkey
+  * Typeform
+
+
+
+* * *
+
+**How we use Personal Information?**
+
+  * Provide marketing information to you (including information about other products and services offered by selected third-party partners) in accordance with preferences you have previously provided. Please be aware you can always change these at [My Account](https://www.horseclicks.com/account.php)
+  * Carry out market research and analysis, including satisfaction surveys
+  * Allow you to participate in contests, prize draws and similar promotions
+  * Enable social media sharing functionality
+  * Personalise your experience on Horseclicks by presenting information and advertisements tailored to you
+  * Manage our infrastructure and business operations, and comply with internal policies and procedures
+  * Comply with applicable laws and regulatory obligations
+  * Establish and defend legal rights; protect our operations or those of any of our group companies or customers (you)
+  * Resolve complaints, and handle requests for data access or correction
+  * Communicate with you as part of our business and distribute important information regarding changes to our policies
+
+
+
+**Tailoring the advertising we show you:**
+
+Horseclicks is part of the Friday Media Group network and we may take the opportunity to use information  we know about you to show you relevant advertising and marketing from our own group of sites, as well as from third party advertising networks we work with. 
+
+Friday Media Group works with online advertising companies to provide you with advertising that is as relevant and useful as possible. Personalisation may be informed by various factors such as the content on Horseclicks you are using, viewed content from the wider Friday Media Group network of sites, from information you provide, historical searches you conduct, or may be based on your other interests.
+
+Friday Media Group provides you with complete control over what adverts you see and from who in relation to the use of your personal information. You can view the full list of preferences used for advertising options and select which to keep or to opt-out from by updating your [advertising preferences](https://www.horseclicks.com/my_prefs.php?sec=nl_settings). You should be aware however, Friday Media Group uses the delivery of third party advertising as one of its revenue streams for sustainability and subsidised rates of advertising to private selling audiences. As such, by opting out, you will still be shown advertising on all of the Friday Media Group network of sites, however these advertisements will no longer be personally relevant to you or help to enrich your experience on our sites.
+
+* * *
+
+**How can you manage or delete Personal Information?**
+
+_Below are the ways in which you can take control of how we use your Personal Information:_
+
+_**General Information:**_
+
+When you register or send an enquiry through Horseclicks, you will create an account on the site, against which we will store your basic details such as name, sex and location. On future visits, when logging in to your 'My Account' area, it is protected by your password and may only be accessed by you. You can manage the content and information in your Account at any time, by logging in to your "My Account". As part of the account creation process, you will also agree to our [Terms and Conditions](https://www.horseclicks.com/terms.php) and can choose how we keep in contact with you. If you want to update your marketing preferences, you can do so at any time by logging into your account and updating your [preferences](https://www.horseclicks.com/my_prefs.php?sec=nl_settings). 
+
+_**Contact Details:**_
+
+When placing an item/product or service advertisement with Horseclicks, you can select whether or not to expose your telephone number as one of the contact methods you can be reached via. The default setting is for your number to be shown. You may however choose to remove your telephone number from being seen by customers of Horseclicks and any other suitable marketplaces within the Friday Media Group network.  Your advertisement will continue to be shown on our site(s), but you will only be contactable via email. We never expose your email address on any Friday Media Group Ltd websites and do not provide this data to any third parties, beyond those explicitly detailed in this Privacy Policy and where we have a legitimate business case to do so. 
+
+You can also opt to use our Privacy Number service, whereby we will use a third party services called [IOVOX](https://www.iovox.com/)
+
+ to replace your Personally Identifiable number with a re-usable alternative that reroutes calls to the number of your choice when rung.
+
+_**Communications and Promotions:**_
+
+You can decide to update your preferences or unsubscribe from any marketing or promotional information that we may send to you by using the below methods:
+
+  * Using the preferences or unsubscribe functions at the bottom of any email we send
+  * Amending your account details by logging in to our website and opting-in/out of the available communication preferences options
+  * Contacting us on the [Contact Us](https://www.horseclicks.com/contacts.php) page of Horseclicks
+  * Emailing our DPO using the details found below
+
+
+
+_**Analytics:**_
+
+When you access our website online, we store some information about you. This is generally anonymous and used for statistical purposes. However, Horseclicks uses a specific cookie to work with Google Universal Analytics and help us to understand how logged in users interact with our site. We do this by utilising a User ID we store against every user and combining this with the Google Analytics stored information. The information we collect helps us to provide a better experience and allows us to understand how you use Horseclicks to fulfil your goals.
+
+_**Deleting your Personal Information:**_
+
+You can remove any of the information that Horseclicks stores about you, at any time, by logging in to your Horseclicks account and choosing to ‘delete my account’.
+
+If you would like to permanently delete your account and all information held on you (that isn’t legally required to be kept for legitimate business purposes), you can send an email to our Data Protection Officer (DPO) with the subject line "Permanently delete my information and account". Make sure to let us know who you are so we can identify the information to be permanently deleted.
+
+* * *
 
 **Security**
 
-Wherever your Personal Information may be held within EquineHits or on its behalf, we intend to take reasonable and appropriate steps to protect the Personal Information that you share with us from unauthorized access or disclosure.
+Horseclicks is committed to keeping your personal data safe and secure from unauthorised access to or unauthorised alterations, disclosure or destruction of information that we hold. We operate secure data networks protected by industry standard firewall and password protection. We have security measures in place to attempt to protect you to our fullest capability. To minimise any potential breach or misuse, only cleared employees have access to the Personal Information that you provide us. 
 
-EquineHits may use a shopping cart feature that safeguards your Personal Information by using industry standard SSL (Secure Socket Layer) certificate. SSL software encodes data transferred between you and the server. EquineHits is not responsible for any Personal Information you disclose to third party affiliates that do not use SSL software or do not offer a secure way to transfer information.
+Horseclicks use third-party cloud service providers that provide hosting, data storage and other services pursuant to standard terms and conditions that may be nonnegotiable. These providers have informed us or the general public that they apply security measures they consider adequate for the protection of information within their system, or they have a general reputation for applying such measures. However, we will not be liable (to the fullest extent permitted by law) for any damages that may result from the misuse of any information, including Personal Data, by these companies.
 
-It is important for you to protect against unauthorized access to your password and to your computer. Be sure to sign off when finished using a shared computer.
+_**Location based services:**_
 
-**Third Parties**
+In some instances we will use location information made available to us to provide you with items, products and services close to you and to improve the general experience we provide to you. In no case will we merge such information with any personally identifiable information. We will at no times be able to connect you personally in connection with the respective location. You may at any stage opt out of location tracking by updating your device settings.
 
-Some pages on the EquineHits web site include links to third party web sites. These sites are governed by their own privacy statements, and EquineHits is not responsible for their operations, including but not limited to their information practices. Users submitting information to or through third party web sites should review the privacy statement of those sites before providing them with Personal Information.
+There are two methods utilised for identifying your location, either using your devices IP address or by utilising GPS data that your mobile device, such as an iPhone, stores and shares. 
 
-Please keep in mind that whenever you voluntarily disclose Personal Information online (e.g., through e-mail, discussion lists, or elsewhere) that information can be collected and used by others.
+For IP Address LookUp, Horseclicks uses a service from [IPStack](https://ipstack.com/). You can find out more about IPStack and view the [IPStack Privacy Policy](https://ipstack.com/privacy) for more details of their service.
 
-**Disclosure to Third Parties**
+For GPS services, we use ‘[W3 Geolocation API](https://www.w3.org/TR/geolocation-API/)’. As its use is a subject of privacy, we will only use this if you agree to it. Once opted-in, we will use this information to provide you with job offers close to you and to improve our Products and Services. In no case will we merge such information with any personally identifiable information. We will at no times be able to connect you personally in connection with the respective location. You may at any stage opt out of location tracking by updating your device settings.
 
-EquineHits will disclose Personal Information and/or an IP address when required by law or in the good-faith belief that such action is necessary to:
+_**Push notifications:**_
 
-  1. Cooperate with the investigations of purported unlawful activities and conform to the edicts of the law or comply with legal process served on EquineHits,
-  2. Protect and defend the rights or property of EquineHits and related properties, or visitors to EquineHits and related properties,
-  3. Identify persons who may be violating the law, the EquineHits legal notice, the rights of third parties, or otherwise misusing EquineHits or its related properties,
-  4. Fulfill a user's order or request.
+When using Horseclicks, you may also consent to push notifications, text messages, alerts, emails or other types of messages directly sent to you outside or inside of the website to your mobile device or desktop browser. If you declare your consent to receive such messages a device token will be generated, which will be associated with your device.
 
+For desktop Push Notifications, Horseclicks uses a service provided by [OneSignal](https://onesignal.com/). You can view the [OneSignal Privacy Policy](https://onesignal.com/privacy_policy) to view more information on their services and procedures. 
 
+* * *
 
-EquineHits uses reasonable precautions to keep the information disclosed to us secure. EquineHits reserves the right to transfer all such information in connection with the sale of all or part of EquineHits's capital stock or assets. Furthermore, we are not responsible for any breach of security or for any actions of any third parties that receive the information. We are not responsible for such third party privacy policies or how they treat information about their users.
+**Your Rights**
 
-**Children**
+_You have the following rights:_
 
-Collection and use of information from children in the U.S. under the age of thirteen will be made in compliance with the Children's Online Privacy Act of 1998. Specifically, EquineHits will:
-
-  1. provide parents or guardians with Notice of our information practices;
-  2. obtain prior verifiable parental or guardian consent for the collection, use, and/or disclosure of Personally-Identifiable Information from children;
-  3. provide a parent or guardian, upon request, with the means to review the Personally-Identifiable Information collected from his or her child;
-  4. provide a parent or guardian with the opportunity to prevent the further use of Personally-Identifiable Information that has already been collected, or the future collection of Personally-Identifiable Information, from that child;
-  5. limit collection of Personally-Identifiable Information for a child's online participation in a game, prize offer or other activities to Personally-Identifiable Information that is reasonably necessary to participate in the activity; and
-  6. establish procedures to protect the confidentiality, security and integrity of the Personally-Identifiable Information collected from children.
+  * The right to ask what personal data that we hold about you at any time (Friday Media Group retain the right to charge an administrative fee, fixed at £10, in cases where the request for information can be deemed excessive)
+  * The right to ask us to update and correct any out-of-date or incorrect personal data that we hold about you free of charge
+  * The right to opt out of any marketing communications that we may send you
+  * The right to object to how your Personal Information is being used;
+  * And ultimately the right to request erasure of any data we hold on you in line with legal obligations to the contrary
 
 
 
-**Notification of Changes**
+If you wish to exercise any of the above rights, please contact our DPO using the contact details set out below.
 
-This policy may be revised over time as new features are added to the EquineHits service or as we incorporate suggestions from our customers. If we are going to use or disclose your personally identifiable information in a manner materially different from that stated at the time we collected the information, you will have a choice as to whether or not we use or disclose your information in this new manner. Any material changes will be effective only after we provide you by e-mail with at least 30 days' notice of the amended Privacy Policy (if you have closed your PayPal account, you will not be contacted to notify you of the amended Policy and your Personal Information will not be used or disclosed in this new manner).
+* * *
 
-We will post the amended Privacy Policy prominently on our web site so that you can always review what information we gather, how we might use that information, and whether we will disclose it to anyone. Please check the EquineHits web site at [www.equinehits.com](http://www.equinehits.com/) at any time for the most current version of our Privacy Policy.
+**Third Party Privacy Practices**
 
-**Your Consent to This Agreement**
+Horseclicks may make links to other websites available to our customers where we feel there is a benefit or service that our customers may find useful. When you click on such links, you may leave our Site. In some instances, pages we operate may contain information provided by third-parties.
 
-By using EquineHits, you consent to the collection and use of information by EquineHits as specified above. If we decide to change our privacy policy, we will post those changes on this page so that you are always aware of what information we collect, how we use it, and under what circumstances we disclose it.
+No third-party sites are covered by our Privacy Policy, but we will make every effort to ensure that third party sites comply with our Privacy Policy. The inclusion of a link on our Website or App does not imply endorsement of the linked site or service by us or by Friday Media Group Ltd. Before submitting any of your Personal Information to these third party services, you should consider viewing their privacy policies to ensure you are comfortable with their terms of use. 
 
-Please email any questions about EquineHits' Privacy Policy to: [info@equinehits.com](mailto:info@equinehits.com).
+* * *
+
+**Who to contact about your Personal Information**
+
+The data controller responsible for your information is Horseclicks.
+
+If you have any questions about this policy or our use of your Personal Information you can email: dataprotectionofficer@fridaymediagroup.com or write to the Data Protection Officer, Friday Media Group Ltd, London Road, Sayers Common, West Sussex, BN6 9HS. 
+
+If you do not think we are handling your Personal Information adequately, you have the right to lodge a complaint with the [Information Commissioner's Office](https://ico.org.uk/). 
+
+* * *
+
+**Changes to Privacy Policy**
+
+We review this Privacy Policy regularly and reserve the right to make changes at any time to take account of changes in our business and legal requirements. We will place updates on our website. 
+
+Please take a look at the "LAST UPDATED" date at the top of this Privacy Policy to see when it was last revised.
+
+The Site is operated by Friday Media Group Ltd, registered in England. Registered number: 01874025. Registered address: London Road, Sayers Common, West Sussex, BN6 9HS
