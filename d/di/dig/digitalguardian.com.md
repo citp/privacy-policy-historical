@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the digitalguardian.com privacy policy that was archived on 2018-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181227023321id_/https%3A//digitalguardian.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the digitalguardian.com privacy policy that was archived on 2019-03-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190331071355id_/https%3A//digitalguardian.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Digital Guardian
 
