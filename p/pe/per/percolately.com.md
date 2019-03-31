@@ -1,131 +1,75 @@
-> *The following text is extracted and transformed from the percolately.com privacy policy that was archived on 2018-02-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180228040914id_/http%3A//www.percolately.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the percolately.com privacy policy that was archived on 2019-04-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190401000207id_/https%3A//percolately.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - Peroclately
+# Privacy Policy
 
-PRIVACY STATEMENT
+In compliance with the European Union legislation, we inform you that our website will store some information about your preferences on your own computer inside a tiny file called a ‘cookie’.
 
-Your privacy is very important to us. The following explains how we collect, use, protect, and disclose Personal Information, Usage Data, Message Data, and Contact Data when you use Percolately. This Privacy Policy also explains your choices for managing your information preferences. By using Percolately, you consent to this Privacy Policy.
+A cookie is a small piece of data that a website asks your browser to store on your computer or mobile device. The cookie allows the website to “remember” your actions or preferences over time.
 
-We use third-party advertising companies to serve ads when you visit our Web site. These companies may use aggregated information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, [click here](http://www.networkadvertising.org/choices/).
+You can delete all cookies that are already on your computer and you can set most browsers to prevent them from being placed. If you do this, however, you may have to manually adjust some preferences every time you visit a site and some services and functionalities may not work.
 
-—-
+Most browsers support cookies, but users can set their browsers to decline them and can delete them whenever they like. A third-party website called aboutcookies.org has been setup to help you with instructions how you can do that on various browsers.
 
-SECTION 1 – WHAT DO WE DO WITH YOUR INFORMATION?
+  1. Identify you as a returning user and to count your visits in our traffic statistics analysis;
+  2. remember your custom display preferences;
+  3. Suggest any recent searches you’ve made on our site
+  4. Other usability features including tracking whether you’ve already given your consent to cookies
 
-Generally. We use Personal Information, Message Data and Contact Data for internal purposes only, such as to provide you with Percolately, to notify you of new products or services, and to otherwise communicate with you. For example, we may use your Contact Data to let you know when people you know join Percolately. Except as explicitly provided in these Terms, we will not disclose Personal Information, Message Data or Contact Data to third parties without your consent.
 
-Service Providers. From time to time, we may establish a business relationship with other businesses that we believe are trustworthy and who have confirmed that their privacy practices are consistent with ours (“Service Providers”). For example, we may contract with Service Providers to provide certain services, such as customer relationship management, and data storage and management. We provide our Service Providers with only the information necessary for them to perform these services on our behalf. Each Service Provider must agree to use reasonable security procedures and practices, appropriate to the nature of the information involved, in order to protect your Personal Information, Message Data and Contact Data from unauthorized access, use or disclosure. Service Providers are prohibited from using Personal Information, Message Data or Contact Data other than as specified by us.
 
-Standard Analytics Information. We may use, and disclose to third parties, certain aggregate or anonymous Usage Data regarding Percolately. Again, such information does not identify you individually.
+Enabling cookies from our website is not strictly necessary for the website to work but it will provide you with a better browsing experience.
 
-Other Transfers. We may share Personal Information, Usage Data and Message Data with businesses controlling, controlled by, or under common control with us. If our company is merged, acquired, or sold, or in the event of a transfer of some or all of our assets, we may disclose or transfer Personal Information, Usage Data and Message Data in connection with such a transaction. You will have the opportunity to opt out of any such transfer if, in our discretion, the new entity plans to handle your information in a way that differs materially from this Privacy Policy.
+The cookie-related information is not used to identify you personally and the pattern data is fully under our control. These cookies are not used for any purpose other than those described here.
 
-Compliance with Laws and Law Enforcement. We cooperate with government and law enforcement officials to enforce and comply with the law. We may therefore disclose Personal Information, Usage Data, Message Data, and any other information about you, if we have a good faith belief that it is reasonably necessary to (a) satisfy any applicable law, regulation, legal process or enforceable governmental request, (b) enforce our Terms, including investigation of potential violations thereof, (c) detect, prevent, or otherwise address fraud, security or technical issues, or (d) protect against harm to our rights, property or safety, or that of our users or the public as required or permitted by law.
+There may also be other types of cookies created after you’ve visited our website.
 
-SECTION 1.1 – DATA WE COLLECT
+We use Google Analytics, a popular web analytics service provided by Google, Inc. Google Analytics uses cookies to help us to analyze how users use the site.
 
-Personal Information. We collect information that personally identifies you, such as your name, mobile telephone number, e-mail, and other personally identifiable information that you provide us with (“Personal Information”). The decision to provide certain Personal Information is optional. If you choose not to provide the requested information, however, you may not be able to use certain features of Percolately.
+The information generated by the cookie about your use of our website (including your IP address) will be transmitted to and stored by Google on servers in the United States. Google will use this information for the purpose of evaluating your use of our website, compiling reports on website activity and providing other services relating to website activity and internet usage.
 
-Usage Data. We automatically collect usage information that does not identify an individual user (“Usage Data”). For example, when you download and use Percolately, we automatically collect information such as your device type, operating system version and type, IP address, and certain unique device identifiers (such as Android ID, MAC address, and IDFA). We may also collect location information, such as your device GPS coordinates, unless you configure your device operating system settings to prevent our collection of location information.
+Google may also transfer this information to third parties where required to do so by law, or where such third parties process the information on Google’s behalf. Google undertakes not to associate your IP address with any other data held by Google.
 
-Messages. When you send or receive ecards using Percolately, we process and store information relating to the ecards you sent, log and connection data, and other related information (“Message Data”).
+We collect information at various points in the Website to facilitate its use by our customers. Non-Personal Information: Upon accessing the Website, certain non-personal information will be automatically collected without your knowledge or consent, such as your IP address, location data (which is anonymous) and the referring website (“Non-Personal Information). We use Non-Personal Information to examine our traffic and to view how our customers use the Website. This type of information will not allow you to be personally identified. For example, we use “cookies, which contains only certain statistical information. You can instruct your computer to inform you whenever a cookie is being sent, or you can disallow cookies through your web browser. If you do choose to disallow cookies, your experience on the Website may be diminished, or your ability to choose some of the options on the Website may be limited.
 
-Contacts. With your permission, we may collect from your mobile address book, your contacts, including names, telephone numbers, email addresses, and social media handles, if available (“Contact Data”).
+We will not sell, rent or disclose to outside parties the information we collect, save and except that we may share the collected information with other parties as follows:
 
-SECTION 2 – CONSENT
+  1. Affiliated Service Providers: We have agreements with various affiliated service providers to facilitate the functioning of the Website, with whom we may share the information we have collected. For example, we may share your credit card information with the credit card service provider to process your purchase. All administrative service providers that we use are required to have the same level of privacy protection as we have, and therefore we expect that your information will be handled with the same level of care that we employ. Additionally, for example, we may use analytic or marketing services such as Google Analytics, Google Adsense, Taboola, or RevContent, to which collection you hereby unconditionally consent.
+  2. Where required by law: We may share the collected information where required by law, specifically in response to a demand from government authorities where such demand meets the legal requirements.
+  3. Statistical Analysis: We may share Non-Personal Information and aggregated information with third parties, including but not limited to for advertising or marketing purposes. No Personal Information will be shared in this manner.
+  4. Transactions: In connection with, or during negotiations of, any merger, sale of company assets, financing or acquisition, or in any other situation where Personal Information may be disclosed or transferred as one of our business assets.
 
-How do you get my consent?
 
-When you provide us with personal information to complete a transaction, verify your credit card, place an order, arrange for a delivery or return a purchase, we imply that you consent to our collecting it and using it for that specific reason only.
 
-If we ask for your personal information for a secondary reason, like marketing, we will either ask you directly for your expressed consent, or provide you with an opportunity to say no.
+(a) Opting Out of Interest-Based Advertising Services
 
-How do I withdraw my consent?
+This website is a member of the Network Advertising Initiative (NAI) and adheres to the NAI Codes of Conduct as described on the NAI website. This website also adheres to the Digital Advertising Alliance (DAA) Self- Regulatory Principles. For a description of the DAA Program, please visit the DAA website. As described above, this website may use or transfer Device Data that it directly collects or that it receives from this website’s Customers, who may use cookies or non-cookie technologies, to enable advertising that is more tailored to Consumers’ inferred interests, preferences, and locations. This practice is known as interest-based advertising.
 
-If after you opt-in, you change your mind, you may withdraw your consent for us to contact you, for the continued collection, use or disclosure of your information, at anytime, by contacting us at r@Percolately.com or mailing us at: Jonch Technologies, Inc 1490 Sacramento Street, #2F, San Francisco, CA, 94109, United States
+(b) Opting Out of Interest-Based Advertising by Third Parties
 
-SECTION 3 – DISCLOSURE
+This website may permit third parties to collect information on its Site and combine that information with other information collected on non-affiliated websites or applications over time. These third parties may use technologies, including cookies and web beacons, to collect information about Consumers’ or Customers’ use of the Site in order to analyze, report on, or customize content or advertising on this website or on other sites, or to help us operate and improve the Site. To find out more about interest-based advertising in the web environment, and how to opt-out of information collection for this purpose by companies that participate in the
 
-We may disclose your personal information if we are required by law to do so or if you violate our Terms of Service.
+Network Advertising Initiative or the Digital Advertising Alliance, visit [NAI’s ](http://optout.networkadvertising.org/)[opt-out](http://optout.networkadvertising.org/)[ page](http://optout.networkadvertising.org/) or visit the Network Advertising Initiative (US) and the Digital Advertising Alliance Ad Choices – [DAA](https://www.aboutads.info/consumers/) (US), [EDAA](https://www.youronlinechoices.com/) (EU), [DAAC](http://youradchoices.ca/understanding-online-advertising) (Canada), [ADAA](http://www.youronlinechoices.com.au/) (AU/NZ) to see your opt-out choices from other participating companies.
 
-SECTION 4 – SHOPIFY
+(c) [Explore](http://www.networkadvertising.org/understanding-online-advertising/what-are-my-options) other controls and tools to help set and maintain your privacy choices.
 
-Our store is hosted on Shopify Inc. They provide us with the online e-commerce platform that allows us to sell our products and services to you.
+We may have third-party advertising companies, including but not limited to [Google](https://policies.google.com/technologies/partner-sites) (see below for Google’s privacy policy), serving ads to you when you visit our website. These companies may store information about your visits to our website and to other websites in order to provide you with relevant advertisements about goods and services.
 
-Your data is stored through Shopify’s data storage, databases and the general Shopify application. They store your data on a secure server behind a firewall.
+These companies may employ cookies and other identifiers to measure advertising effectiveness. The information is generally not personally identifiable unless, for example, you provide personally identifiable information to them through an ad or an e-mail message.
 
-Payment:
+If you would like to learn more about what options you have about limiting the gathering of information by third-party ad networks, you can consult the website of the Network Advertising Initiative.
 
-If you choose a direct payment gateway to complete your purchase, then Shopify stores your credit card data. It is encrypted through the Payment Card Industry Data Security Standard (PCI-DSS). Your purchase transaction data is stored only as long as is necessary to complete your purchase transaction. After that is complete, your purchase transaction information is deleted.
+You can opt out of participating in interest-based advertising networks but opting out does not mean you will no longer receive online advertising. It does mean that the companies from which you opted out will no longer customize ads based on your interests and web usage patterns using cookie-based technology.
 
-All direct payment gateways adhere to the standards set by PCI-DSS as managed by the PCI Security Standards Council, which is a joint effort of brands like Visa, MasterCard, American Express and Discover.
+Google uses the information shared by sites and apps to deliver our services, maintain and improve them, develop new services, measure the effectiveness of advertising, protect against fraud and abuse, and personalize content and ads you see on Google and on our partners’ sites and apps. See Google’s [Privacy Policy](https://policies.google.com/privacy) to learn more about how we process data for each of these purposes and Google’s [Advertising](https://policies.google.com/technologies/ads) page for more about Google ads, how your information is used in the context of advertising, and how long Google stores this information.
 
-PCI-DSS requirements help ensure the secure handling of credit card information by our store and its service providers.
+## How you can control the information collected by Google on these sites and apps
 
-For more insight, you may also want to read Shopify’s Terms of Service here or Privacy Statement here.
+Here are some of the ways you can control the information that is shared by your device when you visit or interact with sites and apps that use Google services:
 
-SECTION 5 – THIRD-PARTY SERVICES
+  * [Ad Settings](https://adssettings.google.com/) helps you control ads you see on Google services (such as Google Search or YouTube), or on non-Google websites and apps that use Google ad services. You can also [learn how](https://policies.google.com/technologies/ads) ads are personalized, opt out of ad personalization, and block specific advertisers.
+  * If you are signed in to your Google Account, and depending on your Account settings, [My Activity](https://myactivity.google.com/) allows you to review and control data that’s created when you use Google services, including the information we collect from the sites and apps you have visited. You can browse by date and by topic, and delete part or all of your activity.
+  * Many websites and apps use Google Analytics to understand how visitors engage with their sites or apps. If you don’t want Analytics to be used in your browser, you can [install the Google Analytics browser add-on](https://tools.google.com/dlpage/gaoptout). Learn more about [Google Analytics and privacy](https://support.google.com/analytics/answer/6004245).
+  * [Incognito mode in Chrome](https://support.google.com/chrome/answer/95464) allows you to browse the web without recording webpages and files in your browser or Account history (unless you choose to sign in). Cookies are deleted after you’ve closed all of your incognito windows and tabs, and your bookmarks and settings are stored until you delete them. Learn more about [cookies](https://policies.google.com/technologies/cookies).
+  * Many browsers, including Chrome, allow you to block third-party cookies. You can also clear any existing cookies from within your browser. Learn more about [managing cookies in Chrome](https://support.google.com/chrome/answer/95647).
 
-In general, the third-party providers used by us will only collect, use and disclose your information to the extent necessary to allow them to perform the services they provide to us.
 
-However, certain third-party service providers, such as payment gateways and other payment transaction processors, have their own privacy policies in respect to the information we are required to provide to them for your purchase-related transactions.
-
-For these providers, we recommend that you read their privacy policies so you can understand the manner in which your personal information will be handled by these providers.
-
-In particular, remember that certain providers may be located in or have facilities that are located in a different jurisdiction than either you or us. So if you elect to proceed with a transaction that involves the services of a third-party service provider, then your information may become subject to the laws of the jurisdiction(s) in which that service provider or its facilities are located.
-
-As an example, if you are located in Canada and your transaction is processed by a payment gateway located in the United States, then your personal information used in completing that transaction may be subject to disclosure under United States legislation, including the Patriot Act.
-
-Once you leave our store’s website or are redirected to a third-party website or application, you are no longer governed by this Privacy Policy or our website’s Terms of Service.
-
-Links
-
-When you click on links on our store, they may direct you away from our site. We are not responsible for the privacy practices of other sites and encourage you to read their privacy statements.
-
-SECTION 6 – SECURITY
-
-To protect your personal information, we take reasonable precautions and follow industry best practices to make sure it is not inappropriately lost, misused, accessed, disclosed, altered or destroyed.
-
-If you provide us with your credit card information, the information is encrypted using secure socket layer technology (SSL) and stored with a AES-256 encryption. Although no method of transmission over the Internet or electronic storage is 100% secure, we follow all PCI-DSS requirements and implement additional generally accepted industry standards.
-
-COOKIES
-
-Here is a list of cookies that we use. We’ve listed them here so you can choose if you want to opt-out of cookies or not.
-
-_session_id, unique token, sessional, Allows Shopify to store information about your session (referrer, landing page, etc).
-
-_shopify_visit, no data held, Persistent for 30 minutes from the last visit, Used by our website provider’s internal stats tracker to record the number of visits
-
-_shopify_uniq, no data held, expires midnight (relative to the visitor) of the next day, Counts the number of visits to a store by a single customer.
-
-cart, unique token, persistent for 2 weeks, Stores information about the contents of your cart.
-
-_secure_session_id, unique token, sessional
-
-storefront_digest, unique token, indefinite If the shop has a password, this is used to determine if the current visitor has access.
-
-SECTION 7 – AGE OF CONSENT
-
-By using this site, you represent that you are at least the age of majority in your state or province of residence, or that you are the age of majority in your state or province of residence and you have given us your consent to allow any of your minor dependents to use this site.
-
-SECTION 8 – CHANGES TO THIS PRIVACY POLICY
-
-We reserve the right to modify this privacy policy at any time, so please review it frequently. Changes and clarifications will take effect immediately upon their posting on the website. If we make material changes to this policy, we will notify you here that it has been updated, so that you are aware of what information we collect, how we use it, and under what circumstances, if any, we use and/or disclose it.
-
-If our store is acquired or merged with another company, your information may be transferred to the new owners so that we may continue to sell products to you.
-
-QUESTIONS AND CONTACT INFORMATION
-
-If you would like to: access, correct, amend or delete any personal information we have about you, register a complaint, or simply want more information contact our Privacy Compliance Officer at r@percolately.com or by mail at Jonch Technologies, Inc
-
-[Re: Privacy Compliance Officer]
-
-[1490 Sacramento Street, #2F, San Francisco, CA, 94109, United States]
-
-* * *
-
-How to Opt-Out of third party data targeting
-
-If you prefer not to receive interest-based content and ads enabled by Quantcast, you can opt-out by clicking on the “Opt Out” link at either Network Advertising Initiative (NAI) (<http://optout.networkadvertising.org/#/>) or Digital Advertising Alliance’s (DAA) (<http://optout.aboutads.info/#/>) . Quantcast is a member of the Network Advertising Initiative (NAI) and participate in the Digital Advertising Alliance’s (DAA) Self-Regulatory Program. Each of these programs provides an opt-out feature where consumers can choose not to receive targeted advertising from any NAI or DAA affiliate. These links will take you to the NAI opt out (<http://www.networkadvertising.org/managing/opt_out.asp>) and the DAA opt out (<http://www.aboutads.info/choices/>) . If you are located in the European Union, you may prefer to use the EDAA opt out (<http://www.youronlinechoices.eu/>) . After you opt-out, Quantcast will place a cookie on your browser that identifies you as having opted out. Then you will not receive interest-based content or advertisements enabled by Quantcast and Quantcast will not log your pattern of website visits or other online media consumption. Because the opt-out is cookie-based, your browser must be set to accept third party cookies. If you use multiple devices or browsers, you’ll have to opt out on each. If you delete the cookie, you will need to opt-out again.
-
-We use third-party advertising companies to serve ads when you visit our Web site. These companies may use aggregated information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, click [here](http://www.networkadvertising.org/choices/).
