@@ -1,69 +1,134 @@
-> *The following text is extracted and transformed from the isqft.com privacy policy that was archived on 2017-08-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170830083406id_/http%3A//www.isqft.com/start/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the isqft.com privacy policy that was archived on 2019-03-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190331174806id_/https%3A//www.constructconnect.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - iSqFt
+# Privacy Policy | ConstructConnect.com
 
-Last Updated: 11/06/2013
+**Last updated: 6/5/18**
 
-## iSqFt is committed to protecting your privacy online. In order to fully understand your rights, please read this privacy statement before using the iSqFt website (the “Site”), or any website that is powered by iSqFt.
+Your privacy is important to us. This Privacy Policy describes our practices with respect to (i) the personal information we gather on our website (ii) the way we use personal information internally; and (iii) our policy regarding sharing your personal information with others.
 
-When does iSqFt collect personally identifiable information?
+We are committed to processing your information in accordance with international legal standards, including the General Data Protection Regulation (GDPR) and other applicable data protection laws and data protection codes of conduct. We have implemented the practices set out in this Privacy Policy for our websites and dependent pages operated by us and through the software applications made available by us for use on or through computers and mobile devices that link to this Privacy Notice (the “Sites”). We have instructed our website administrator to include information regarding these privacy practices anywhere on the Sites where Personal Information is collected.
 
-iSqFt gathers information from visitors in four ways: registration, cookie technology, IP addresses and participation in the services available on the Site.
+This policy addresses our privacy practices relating to visitors to the Sites and registered users of the Sites. For purposes of this Privacy Policy, “Personal Information” means any information that, by itself or in combination with other information, identifies or can reasonably be used to identify an individual, such as name, email address, IP address, telephone number, address, billing information or date of birth. Personal Information does not include information that is anonymized or publicly-available information. The term “Processing” means any operation or set of operations which is performed on Personal Information, whether or not by automated means, such as collection, use, organization, storage, alteration or destruction, disclosure, or transfer.
 
-**Registration.** When you register at the Site, we collect information which allows us to identify you. The more information you provide, the better we are able to customize our services and your experience to suit your needs and preferences.
+**DECLARATION OF CONSENT**
 
-**Cookies.** We use cookies to store and track your preferences to provide you with a more customized experience. A cookie is a message that is sent to your browser from a web server and stored on your computer’s hard drive. Most Internet sites use cookies. You can set your browser preferences to reject all cookies but then you will not be able access our site.
+**By submitting Personal Information and other information to the Sites, you consent to the Processing of such information in accordance with the terms of this Privacy Policy.**
 
-**IP Address.** We also log IP addresses for the purpose of systems administration and site security. An IP address is a number that is assigned to your computer automatically when you use the Internet. When you visit a particular web page in the Site, our servers log your IP address.
+You may withdraw this consent at any time by notifying us at [privacy@constructconnect.com](mailto:privacy@constructconnect.com), or by writing to ConstructConnect, 3825 Edwards Road, Suite 800, Cincinnati, OH 45209.
 
-How is personally identifiable information used?
+**COLLECTING COMPANY INFORMATION**
 
-**Customized Look and Feel.** iSqFt gathers information to provide you with an effortless experience. For instance, your personal information enables us to greet you when you return to our Site and to provide you with your specified preferences (e.g., Site look and feel and preferred categories).
+Generally, you may browse the Sites without providing any Personal Information. However, we may ask that you provide information, including, without limitation, Personal Information, at various times and locations through the Sites. For example, if you decide to register with the Sites to request information, you will be asked to provide information such as your name and email address. When using forms on the Sites to communicate with us, you may choose to provide other Personal Information, such as your name, company name, mailing address, phone number, and email address. We may collect and store any Personal Information you input into the Sites.
 
-**Email.** If you register with our Site, from time to time, we may email you with informative messages about our services we believe may be of interest to you, notify you of project changes. General Contractors may also use iSqFt to invite you to bid on projects or to provide ongoing project information.
+**PROTECTING PERSONAL INFORMATION**
 
-**Registered User Areas.** If you have access to certain areas of the Site because you are a Registered User (“Registered User Areas”), the Registered User Areas may contain groups, discussions, member profiles, comment areas, blogs and similar areas where Registered Users can share information about themselves and their opinions, as well as post questions. Information you post to a Registered User Area may be viewed, accessed, or collected by, or disclosed to, other Registered Users and may be used by other Registered Users in ways neither you nor iSqFt are able to control or predict, including, without limitation, disclosure of your information to the public or to contact you for unauthorized purposes. By using the Registered User Areas, you hereby acknowledge and agree that any information you share in a Registered User Area (including, without limitation, Personally Identifiable Information) is available to other Registered Users and to iSqFt for use as provided herein.
+We take commercially reasonable steps to protect your Personal Information when you transmit it from your computer to the Sites and to protect such information from loss, misuse, unauthorized access, disclosure, alteration, or destruction. You should keep in mind that no Internet transmission is ever 100% secure or error-free. In particular, e-mail sent to or from the Sites may not be secure, and you should, therefore, take special care in deciding what information you send to us via e-mail. Where you use passwords, ID numbers, or other special access features on this site, it is your responsibility to safeguard them.
 
-With whom does iSqFt share information?
+**HOW WE USE PERSONAL INFORMATION**
 
-We maintain mutual sharing agreements with our strategic business partners for the express purpose of providing our joint customers with opportunities to receive information about valuable products and services. We will not disclose your personal information to any other third parties except to the extent necessary to provide you with a requested service, or under circumstances required by law. We may also share your profile information & project activity with third parties if you click on a publicly posted project or with those subscribers who created a project if you click on their privately invited project.
+The Personal Information collected by and through the Sites may be used by ConstructConnect, its divisions, holding companies, subsidiaries, and affiliates, or other entities that are involved in the operation of the Sites. We may use the information collected and provided, individually or in an aggregate form, in order to:
 
-iSqFt may allow third parties to display advertisements on the Site. iSqFt and these third parties may use tracking technologies, such as cookies, to collect information about users who view and interact with these advertisements and connect to the Site.
+  * contact you about the Sites;
 
-iSqFt may use third party ad servers or vendors to serve or present the ads that appear on the Site and to conduct research about the advertisements. Any of these ad servers may collect non-personal information, such as your browser, operating system, date/time of viewing, IP address and clickstream data. The use of first-party cookies (such as Google Analytics) or third-party cookies (such as Doubleclick) help inform, optimize and serve ads based on the users past visits to the Site. iSqFt cannot control the activities of such advertisers or web sites. PLEASE NOTE THAT THIS POLICY DOES NOT COVER THE COLLECTION AND USE OF INFORMATION BY SUCH AD SERVERS.
+  * notify you about important changes to the Sites;
 
-The Network Advertising Initiative (NAI) is a cooperative group of ad serving providers. The NAI has developed a set of privacy principles to which its members adhere. The NAI is committed to providing consumers with clear explanations of Internet advertising practices and how they affect you and the Internet generally. For more information about the NAI, third party ad servers generally and the opt-out options offered through the NAI, visit <http://www.networkadvertising.org/index.asp>.
+  * evaluate products or services we could offer to you;
 
-What are my options to control the use of personal information?
+  * monitor or improve the use of the Sites;
 
-Most browsers can be configured to reject cookies or alert you when cookies are being sent. However, again remember that if you reject cookies you will not be able to access our site. Residual information may remain in our archives and records, but this information will not be used for a commercial purpose. We reserve the right to maintain information on registered visitors who have violated any of our policies or who have had their access to the Site blocked.
+  * compare and otherwise use data entered by users for any purpose including consulting, research and marketing;
 
-What if want to opt-out?
+  * customize any advertising and content you see on the Sites;
 
-If you wish to opt out of Google’s use of cookies, you may do so by visiting Google’s [Ads Settings](https://www.google.com/settings/u/0/ads?hl=en&sig=ACi0TCgL_x1WcIxTXnHiVa-R-xWftxxhVUxJhPilCafpPLM0B3FqkzfUNGaErrC46XlDq56xt5lRmbhhOri_iH09C7ZWdfjUCDM1_AJVHGewgVjNUAM9Xxjpn3MQ-FEzAXDSl5OOC8HUMEOCk6qkzN9S69rxsC-knVHTAFTfDLeMCoL24PV7ewI). Alternatively, you can opt out of a third-party vendor’s use of cookies by visiting the [Network Advertising Initiative opt-out page](http://www.networkadvertising.org/choices/).
+  * provide specific information to you from us and/or our affiliates; and
 
-What else should I know about my privacy?
+  * send you promotional material from us and/or our affiliates.
 
-You should be aware that if you voluntarily disclose personal information online in a public area, that information may be viewed and used by others. Furthermore, users who choose to list their profile in the iSqFt Network make that information available to subscribers who may be searching for qualified bidders.
 
-iSqFt may disclose any information, including without limitation Personally Identifiable Information, that iSqFt deems necessary, in its sole discretion and without your prior permission, to comply with any applicable law, regulation, legal process or governmental request. iSqFt also may exchange information, including without limitation Personally Identifiable Information, with other companies and organizations for credit fraud protection, risk reduction and related activities or to protect the rights, property of safety of iSqFt and its agents, employees or affiliates or others. iSqFt reserves the right to disclose a user’s Personally Identifiable Information if iSqFt believes the user is in violation of iSqFt’s Terms of Use, even without a subpoena, warrant or other court order.
 
-Please remember that you are solely responsible for maintaining the secrecy of any password you use on the Site.
 
-What if I live in California?
+We do not sell Personal Information about you to unrelated companies for their independent use. 
 
-If you are a resident of California (“California Users”), in addition to the rights set forth in this Privacy Policy, you generally have the right to request information from iSqFt regarding the manner in which iSqFt shares certain categories of Personally Identifiable Information with third parties for their direct marketing purposes.
+**CORRECTIONS AND REQUESTS FOR PERSONAL INFORMATION OR ERASURE OF PERSONAL INFORMATION**
 
-Under the law, however, a business is not required to provide this information if it adopts and discloses to the public (in its privacy policy) a policy of not disclosing customer’s personal information to third parties for their direct marketing purposes unless the customer first affirmatively agrees to the disclosure, as long as the business maintains and discloses this policy. Rather, the business may comply with the law by notifying California Users of their rights to prevent disclosure of personal information and providing a cost free means to exercise that right.
+If you want us to correct your Personal Information or other information, or if you would like us to provide you with a copy of the Personal Information that we hold about you, or if you would like the Personal Information that we hold about you to be erased, please contact us by sending us an email at [privacy@constructconnect.com](mailto:privacy@constructconnect.com) or writing to us at ConstructConnect, 3825 Edwards Road, Suite 800, Cincinnati, OH 45209. We will respond to any such requests within 30 days of receipt.
 
-Please note that whenever you opt in to receive future communications from a third party, your information will be subject to the third party’s privacy policy. If you later decide that you do not want that third party to use your information, you will need to contact the third party directly, as iSqFt has no control over how third parties use information. You should always review the privacy policy of any party that collects your information to determine how it will handle your information.
+**PERSONAL INFORMATION RETENTION**
 
-Please note that iSqFt is only required to respond to one request per customer each year. iSqFt is not required to respond to requests made by means other than through this e-mail address: privacy@iSqFt.com.
+Personal Information will be stored for as long as the information is required to fulfill our legitimate business needs or the purposes for which the Personal Information was collected, or for such period as is required by law.
 
-Changes to this Privacy Policy
+**DATA TRANSFERS TO COUNTRIES OUTSIDE THE EU/EEA**
 
-At any time without prior notice, iSqFt may update this Privacy Policy to reflect changes in iSqFt’s practices. When iSqFt posts changes to this Privacy Policy, iSqFt will revise the “Last Updated” date at the top of this page. iSqFt encourages you to bookmark this Privacy Policy and to periodically review it to inform yourself of changes to it or any of iSqFt’s other policies. Any changes to iSqFt’s Privacy Policy will become effective upon iSqFt’s posting of the updated policy. Use of the Site constitutes your acceptance of the terms of this Privacy Policy then in effect.
+Your data may be used (see the previous section “How We Use Personal Information”) by the Company and its divisions, holding companies, subsidiaries, and affiliates, or other entities outside the European Union (EU) and the European Economic Area (EEA) including in the U.S. Please note that in countries outside the country in which you live, and in particular outside the EU/EEA, a different standard of data protection might apply than the standard that you are used to in your own country. **By completing and submitting the contact form on our website, you acknowledge and consent that data will be transferred across international borders, including to countries outside the EU/EEA.**
 
-Acceptance of Privacy Policy
+**DISCLOSING PERSONAL INFORMATION TO THIRD PARTIES**
 
-By using the Site, you accept this privacy statement. If you do not agree with this privacy statement, do not use the Site. We reserve the right to modify this privacy statement from time to time. Your continued use of any portion of the Site, following notification or posting of such changes, will constitute your acceptance of those changes.
+Any Personal Information that you provide to us will be used for our purposes only. Personal Information will not be shared with individuals or other companies other than those referred to in this Privacy Policy. 
+
+In some instances, however, we may need to provide Personal Information to third parties that we use to deliver specific products or services to you (such as shipping or direct mailing organizations). In such cases, our agreements with these third parties do not permit them to use Personal Information for purposes other than fulfilling those services or allow such third parties to further disclose your Personal Information.
+
+**DOMAIN NAME AND IP ADDRESS**
+
+We collect the domain names and IP addresses of our visitors for statistical purposes, to measure use, to improve the content or responsiveness of the Sites, or to customize the content or layout of the Sites for the individual visitor. We do not disclose this information to third parties. We may also aggregate information relating to our visitors’ traffic patterns from the data that we collect and retain concerning the IP addresses and domain names of our visitors, and we may divulge such aggregate information about our users with third parties such as our business partners, distributors, and service and support providers. 
+
+**LOG FILES**
+
+We maintain a log file of all actions that are initiated or facilitated using the Sites, to capture, record and store data concerning the transaction. Access to this data is restricted to those who administer our network and public website, except that we may use and disclose this information to third parties in response to legal process or law enforcement inquiries, abuse of our website, or violation of any applicable Terms of Use or contractual provision you may have with us. 
+
+**E-MAIL ADDRESSES**
+
+You should know that e-mail is not necessarily secure against all forms of interception. If your communication includes sensitive information about your company and you would prefer not to transmit this information in this fashion, please contact us by post or telephone rather than e-mail.
+
+We collect email addresses that are: volunteered by the visitor; through e-mail messages addressed to us or our employees; through visitor responses via the “contact us” portion of the Sites; or e-mail marketing destination web pages and public events. We use e-mail addresses for marketing purposes and to inform those interested in our products about events, products, services or other items of interest. We may also use e-mail addresses volunteered by our visitors to register the visitor for an extranet account, to process orders for brochures and other written materials, or otherwise to respond to a visitor’s request. 
+
+On the Sites, we will ask you to consent to be contacted by us for promotional and marketing purposes. However, you may opt-out of receiving promotional or marketing emails at any time by notifying us as a reply to any unwanted e-mail, by using the unsubscribe function in our newsletter, by contacting us at [privacy@constructconnect.com](mailto:privacy@constructconnect.com), or by writing to us at ConstructConnect, 3825 Edwards Road, Suite 800, Cincinnati, OH 45209. Requests to unsubscribe from [Company] e-mails may take 5 business days to process.
+
+**COOKIES**
+
+A cookie is an element of data that a website can send to your browser, which may then be stored on your system. You can set your browser to notify you when you receive a cookie, giving you the chance to decide whether to accept it. We use one type of cookie to maintain your login information for as long as you are using the Sites. No Personal Information is stored in this cookie and the cookie is deleted from your computer when you leave the Sites. Our second cookie type simply identifies you as you move throughout the Sites, providing faster, personalized access to view various site pages.
+
+**GOOGLE ANALYTICS**
+
+This website uses Google Analytics, a web analytics service provided by Google, Inc. (“Google”). 
+
+Google Analytics uses “cookies”, which are text files placed on your computer, to help the website analyze how users use the site. The information generated by the cookie about your use of the Sites (including your IP address) will be transmitted to and stored by Google on servers in the U.S. If the IP anonymization is activated, Google will truncate/anonymize the last octet of the IP address for Member States of the European Union as well as for other parties to the Agreement on the European Economic Area. In exceptional cases, the full IP address is sent to and shortened by Google servers in the U.S. 
+
+On behalf of the website provider, Google will use this information for the purpose of evaluating your use of the Sites, compiling reports on website activity for website operators and providing other services relating to website activity and internet usage to the website provider. Google will not associate your IP address with any other data held by Google. 
+
+You may refuse the use of cookies by selecting the appropriate settings on your browser. However, please note that if you do this, you may not be able to use the full functionality of this website. Furthermore, you _can prevent Google’s collection and use of data_ (cookies and IP address) by downloading and installing the browser plug-in available under 
+
+  * <https://tools.google.com/dlpage/gaoptout?hl=en-GB>
+
+
+
+
+Further information concerning the terms and conditions of use and data privacy can be found at:
+
+  * <https://www.google.com/intl/en/policies/privacy/partners/>
+
+  * <http://www.google.com/analytics/terms/gb.html>
+
+  * <https://www.google.de/intl/en_uk/policies/>
+
+  * [https://support.google.com/analytics/answer/6004245?hl=en ](https://support.google.com/analytics/answer/6004245?hl=en)
+
+
+
+
+Please note that on this website, Google Analytics code is supplemented by “anonymizeIp” to ensure an anonymized collection of IP addresses within the EU and EEA (IP-masking)].
+
+**THIRD-PARTY SITES**
+
+The Sites may contain links to other third-party sites. When you click on one of these links you are visiting a website operated by someone other than us and the operator of that website may have a different privacy policy. We are not responsible for their individual privacy practices, so we encourage you to investigate the privacy policies of such third-party operators.
+
+**CHILDREN**
+
+Our website is not intended for children under 13 years of age. No one under age 13 may provide any information to us through the Sites. We do not knowingly collect Personal Information from children under 13. If you are under 13, do not access, use, or provide any information on the Sites or on or through any of its features. If we learn we have collected or received Personal Information from a child under 13 without parental consent, we will delete that information. If you believe we might have any information from or about a child under 13, please contact us by sending us an email at [privacy@constructconnect.com](mailto:privacy@constructconnect.com) or writing to us ConstructConnect, 3825 Edwards Road, Suite 800, Cincinnati, OH 45209.
+
+**DATA BREACHES**
+
+Whilst every effort and measure is taken to reduce the risk of data breaches, we have dedicated controls and procedures in place for such situations, along with the procedures that are required to make notifications to the relevant Supervisory Authority and data subjects (where applicable). 
+
+**COMMENTS AND QUESTIONS**
+
+We welcome comments and questions regarding this Privacy Policy. Any such questions should be directed via e-mail to [privacy@constructconnect.com](mailto:privacy@constructconnect.com). Additionally, you may make your request in writing to ConstructConnect, 3825 Edwards Road, Suite 800, Cincinnati, OH 45209.
