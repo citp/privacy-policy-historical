@@ -1,88 +1,256 @@
-> *The following text is extracted and transformed from the ledger.com privacy policy that was archived on 2018-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180630212707id_/http%3A//www.gatehousemedia.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ledger.com privacy policy that was archived on 2019-03-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190331192622id_/https%3A//www.ledger.com/pages/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy – Gatehouse Media
+# Privacy policy, privacy & terms | Ledger
 
-This privacy policy describes the privacy practices for the websites operated by GateHouse Media, Inc. (“GateHouse”) and certain of GateHouse’s subsidiaries, including this website (the “websites”).
+## Updated 31st of July, 2018.
 
-### INFORMATION COLLECTION AND USE.
+Ledger (hereinafter "Legder" or "we") regards as of paramount importance the protection and security of information about you. The purpose of this Privacy Policy is to inform you about how we use your Data, the security measures we implement to ensure their integrity and the rights you have to control the use of your Data. 
 
-We gather two types of information: (1) personally identifiable information that you supply voluntarily when you register for interactive services, order other products or services, or enter certain other areas of our Websites as noted below in this Privacy Policy and (2) aggregate tracking and site usage information that we gather on an anonymous basis as you access our Websites. Your provision to us of any information through our Websites, or through other sites that link to our Websites, is deemed your agreement to this Privacy Policy. It is our policy to use the personally identifiable information we acquire at our Websites for internal business uses only and to provide products and services to you that you ordered. We do not authorize your personal information to be used by a third party (other than our service providers as described later in this Privacy Policy) without disclosing that intention and receiving your consent, except as described under “Legal Matters” below. We maintain security measures to keep this information private.
+The Privacy Policy is applicable in the existing relationship between you, User of our Website and Ledger, owner and publisher of the Website. This Privacy Policy applies to the use of any Data we collect or that you provide to us in connection with your use of our Website. **We encourage you to read it carefully**.
 
-### PERSONALLY IDENTIFIABLE INFORMATION.
+### DEFINITIONS AND INTERPRETATION **  
+**
 
-Anyone can access our Websites, but there are certain areas and services that require registration or provision of certain personal information if accessed, such as by way of example: entering premium content areas, placing advertisements online and making other online purchases, signing up for email newsletters, promotions, contests, sweepstakes or special offers, or participating in reader forums, message boards, chats and reader surveys. If you choose to make a purchase or use such areas, we will ask for certain personally identifiable information, which may include name, mailing address, valid email address and other personal information. Based upon the personally identifiable information you provide us at registration, we will send you a welcoming email to verify your username and password. We will also communicate with you in response to your inquiries, to provide the services you request, and to manage your “account.” We will communicate with you by email or as otherwise directed by you.
+1\. In this privacy policy, the following definitions are used:
 
-We strive to keep personal information–such as your name or e-mail address–that you voluntarily disclose private. We do not authorize your personal information to be shared with third parties without your consent, aside from third parties that perform services for us (which may include by way of example: credit card processing and billing, shipping, email and list processing, and promotions management). We provide these suppliers only with the information they need to process the transaction or provide the service. We require that such parties either must comply with our Privacy Policy or have comparable privacy policies that protect your information.
+#### Data
 
-If you purchase a product or service from us, or through us, we request certain personally identifiable information from you on our order form. You must provide contact information and billing information (such as credit card number, expiration date.) We use this information for billing purposes and to fill your orders. If we have trouble processing an order, we will use this information to contact you.
+Collectively, all information that you submit to Ledger via our Website.
 
-Certain information supplied by you to our Websites may be password-protected, and you should take appropriate measures to protect the secrecy of your password. If you use a computer in a public place or share a computer with others, remember to sign out and close your browser window when you finish accessing our Website in order to prevent others from accessing your personal information. You are solely responsible for the control and use of each password you create.
+#### Personal Data
 
-Personal information which you provide on bulletin boards or in other areas that are accessible to other users could be collected and disclosed by others. We cannot take any responsibility for such collection or disclosure.
+Collectively, all information making you directly or indirectly identifiable (e.g. your name, first name, address, phone number or email address but also the IP address of your computer, for example, or the information relating to your browsing of our Website).
 
-From time to time, we may obtain e-mail addresses from third party sources to be used for promotional emails. You may opt out of receiving any messages from us in the future by either clicking on the Unsubscribe link in the email, or by contacting us as instructed at the end of this Privacy Policy.
+#### Cookies
 
-### LEGAL MATTERS
+A small text file placed on your computer by our Website when you visit certain parts of the Website and/or when you use certain features of the Website. Please refer to the Cookie Policy for more information.
 
-We may disclose information you have provided to us if we have a good faith belief that such disclosure is necessary to: (1) comply with the law, government action or with legal process served on us; (2) protect and defend our rights or property, including without limitation these Websites; or (3) protect the personal safety or property of our users or the public (by way of example, if you provide false information or pretend to be someone else, information about you may be disclosed as part of an investigation). In the event of a change of control of GateHouse or any of its subsidiaries (such as through a merger or sale of equity) or in the event of a direct or indirect sale of any Website through a sale of assets, liquidation or other transaction, any personal information of users of the affected Websites in our possession will be transferred to the new company as part of the transaction. We are not obligated to notify Website users of any such transaction. You may always change or delete your information or opt out by contacting us as provided below, or if the acquirer posts a new Privacy Policy with new contact information, you may change or delete your information or opt out by following any new instructions that are posted.
+#### Personal Data Controller
 
-### AGGREGATE INFORMATION
+The processing of any personal data provided or collected on the Website is carried out under the supervision of Ledger SAS whose head office is located at 1 rue du Mail in Paris (75002), France.
 
-If we gather demographic information from you (for example, your age, education level or household income), we will not share that information in a manner that identifies you as an individual with any other third party, unless we let you know that at the time of collection and you consent by providing the information. When we share demographic information with third parties, we will give them aggregate information only, unless you have consented otherwise, or unless otherwise required by law, government action or legal process served on us.
+#### GDPR
 
-Occasionally, we use “cookies” to store pertinent user information during a session. Cookies are small pieces of information that are stored in a designated file on your computer. We only use cookies for the purpose of holding information during online sessions (for example, to hold answers to online surveys for short-term storage, or to create a temporary ID for use in a multiple-session assessment). When you view an ad for the Websites on other sites, third party advertisers may place or recognize a unique cookie on your browser. The Websites and the advertiser may also use invisible images (often referred to as pixel tags, clear GIFs or web beacons) to note which website pages you visit after viewing our ads. The information that is collected through the use of these images is not personally identifiable and is used only to track responses to our advertising efforts.
+The "General Data Protection Regulation" (EU Regulation 2016/679), as well as any national legislation adopted in accordance therewith.
 
-We may also collect other information from users to the Websites such as the user’s IP address (the number assigned automatically to your computer whenever you use the World Wide Web), length of time spent on the Websites, and the pages accessed during each visit to the Websites. We use this information to analyze trends, administer the site, track user’s movement, and gather broad demographic information for aggregate use. IP addresses are not linked to personally identifiable information.
+#### **e-Privacy Directive**
 
-We may also use third-party advertising companies to collect data and/or serve ads when you visit our Website. These companies may use information (not including your name, address, email address or telephone number) about your visits to this and other Websites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, visit <http://www.networkadvertising.org/managing/opt_out.asp>.
+Directive 2002/58/EC of the European Parliament and of the Council of 12 July 2002 concerning the processing of personal data and the protection of privacy in the electronic communications sector, as amended in 2009, as well as any national legislation adopted in accordance therewith;
 
-### HOW DO I OPT OUT OR CHANGE MY PERSONAL INFORMATION
+#### 
 
-To opt out of further email communications from us, just click on the Unsubscribe link in the email, or contact us as instructed at the end of this Privacy Policy. We need up to 30 days to process your request.
+#### User or you
 
-To change your personal information that you have provided us, please contact us as instructed at the end of this Privacy Policy.
+Any Internet user who accesses the Website and who is neither (i) employed by Ledger and acting in the course of his/her employment; nor (ii) engaged as a consultant or otherwise providing services to Ledger and accessing the Website in connection with the provision of such services;
 
-### CHILDREN’S ON-LINE PRIVACY INFORMATION
+#### Website
 
-These Websites are not intended for use by children under the age of 13. We do not knowingly collect information from children under the age of 13 although certain third party sites that we link to may do so. These third-party sites have their own terms of use and privacy policies and we encourage parents and legal guardians to monitor their children’s Internet usage and to help enforce our Privacy Policy by instructing their children to never provide information on our Websites without their permission.
+The following websites: www.ledgerwallet.com, www.ledger.com, www.ledger.fr, and all subdomains of these Websites, unless they are expressly excluded from the scope of this Policy by their own terms and conditions.
 
-Involvement of parents: In accordance with the provisions of the Children’s Online Privacy Act, in the event that we do begin collecting any personal information or data from children under the age of 13, we will notify parents first, and will seek parental or guardian consent to collect, use and/or disclose certain personal information from children under the age of 13. A parent may review and have deleted their child’s personal information, and may refuse to permit further collection or use of their child’s information by contacting us as noted at the end of this Privacy Policy. Parents may consent to our collection and use of their child’s personal information without consenting to the disclosure of that information to others.
+2\. In this Privacy Policy, unless the context requires a different interpretation:
 
-### OUR COMMITMENT TO DATA SECURITY
+  1. The singular includes the plural and vice versa;
+  2. References to sections, clauses, appendices refer to the sections, clauses, appendices of this Privacy Policy;
+  3. A reference to a person includes firms, companies, government entities, trusts, and partnerships;
+  4. "Including" means "including but not limited to";
+  5. A reference to any legislative provision includes all amendments thereto;
+  6. Headings and subheadings are not part of this Privacy Policy.
 
-We have put in place security procedures reasonably designed to safeguard and secure the information under our control, and we follow generally accepted industry standards.
 
-Although we will exercise reasonable care in providing secure transmission of information between your computer and our servers and in storing that information on our systems, no method of transmission over the Internet, or of electronic storage, is 100% secure. So we cannot ensure or guarantee the security of any information transmitted to us over the Internet.
 
-When you enter sensitive information (such as credit card numbers) on our forms, we encrypt, or instruct our providers to encrypt, that information using secure socket layer technology (SSL).
+### Scope of this privacy policy
 
-### LINKS TO OTHER SITES
+3. This Privacy Policy applies only to the actions of Ledger and of Users with respect to our Website. It does not extend to websites that can be accessed from our Website, including, but not limited to, any links we may provide to social media websites.
 
-This Privacy Policy solely applies to information collected directly by the Websites. Our Websites may contain links to other web sites. Please be aware that we are not responsible for the privacy practices of such other sites. We encourage users to be aware that when they leave our Websites for another site, even if through a link, they should read the privacy statements of each and every web site that collects personally identifiable information. The provision of external links to other websites is a common practice on the Internet and it in no way indicates that we endorse or approve the linked company, or its products, services or website.
+### **Use of Personal Data**
 
-### AP NEWS REGISTRY PRIVACY POLICY
+4\. When you purchase products or services from our Website, we collect and process the Data that is necessary for the follow-up of our contractual relationship.
 
-This Web site uses services provided by AP News Registry. AP News Registry collects content usage information and may use cookies in conjunction with this activity. Please refer to the AP News Registry privacy policy at <http://www.apnewsregistry.com/privacycenter/servicepolicy.aspx> for further information.
+For this purpose, we use the information you provide us with:
 
-### CHANGES OR UPDATES TO THIS PRIVACY POLICY.
+  * To handle orders,
+  * To deliver our products and/or provide our services,
+  * To process invoices, payments and transactions history,
+  * To manage unpaid bills and claims.
 
-We may modify this Privacy Policy at any time, so please review it frequently. We will post any changes on the Privacy Policy page of the Websites, but we have no other obligation to notify you of such changes. We indicate the date of the current version of this Privacy Policy below, so you know when it was last updated. Any changes will affect all of the information we have previously collected from you, as well as the information we collect after such changes, and may include without limitation additional uses or disclosures of your information. If any of the changes represent a material change that expands our use of personal information, the changes will be posted at least 30 days prior to taking effect and we will post a prompt on the home page of our site for users to review the new privacy policy. If you object to the changes, please contact us as provided below and we will remove your information that we previously collected. However, your subsequent provision of information to us through any of our Websites is deemed your agreement to use of that information in accordance with the then-current Privacy Policy.
 
-GateHouse Media works with DataXu to target advertising based on non-personally identifiable information. To learn more about DataXu’s privacy policy or to opt out, visit [www.dataxu.com/privacy/platform](http://www.dataxu.com/privacy/platform)
 
-### CONTACT US
+5\. Whether you are our customer or simply a Internet user viewing the pages of our Website, we may also process your Data to meet our legitimate interests, consisting of:
 
-If you have any questions about this Privacy Policy or you wish to make changes to your personal information or remove yourself from our database, please contact us in one of the following ways:
 
- **E-mail us at:** [webmaster@gatehousemedia.com](mailto:webmaster@gatehousemedia.com)
 
- **Write to us at:**  
-Webmaster  
-GateHouse Media, LLC  
-175 Sully’s Trail, 3rd Floor  
-Corporate Crossings Office Park  
-Pittsford, NY 14534
+  * Communicating with you about our products and services and send you our promotional offers;
+  * Developing our products and services further; 
+  * Continuously improving our Websites and offering you a more enjoyable and efficient shopping experience.
 
- **Call us at:** (585) 598-0030 and ask for the GateHouse webmaster
 
-Last revised November 2015
+
+6\. The use of the data we collect is, if so, subject to your consent to receive our marketing offers and/or those of our partners electronically (by email or SMS).
+
+Depending on the purposes stated above, we may collect the following types of information:
+
+**\- Information that you provide us with** **:** When you purchase a product or service from Ledger, we collect, as part of the buying and selling process, the personal information you submit during your purchase, including: 
+
+  1. Your surname and first name;
+  2. Your contact information such as your address, e-mail and telephone numbers;
+  3. Your financial information such as your credit/debit card number.
+
+
+
+**\- Information resulting from your activity on our Website** : We receive and store certain types of information every time you interact with us. For example, like many websites, we use Cookies and we obtain certain types of information when your Web browser accesses our Websites and other content provided by or on behalf of Ledger on other websites. We may therefore also collect the following Data from you: 
+
+  * IP address (automatically collected);
+  * Web browser type and version (automatically collected);
+  * Operating system (automatically collected);
+  * Your browsing history to and from the Website;
+
+
+
+In each case, in accordance with this Privacy Policy.   
+For more information on the collection and use of such Data, please check our **Cookie Policy**.
+
+### **Retention of Personal Data**
+
+7\. The retention period of Personal Data processed by Ledger may vary depending on common practice, the documents considered in accordance with the legal obligations and the applicable limitation rules.
+
+  
+With regard to credit card data, Ledger uses payment services providers that manage transaction data in accordance with strict security rules applicable to online payments via encryption methods.
+
+  
+8\. All Personal Data is securely stored on our servers in accordance with industry standards and the GDPR. For more details on the security measures implemented, please refer to the section “Security” below.
+
+### **Recipients of Personal Data**
+
+9.We transmit your Data to our employees who are authorized to process them as part of their duties.
+
+We may also transmit some of your data to our technical and logistic service providers acting on our behalf, and we ensure that they provide for the necessary guarantees with respect to the GDPR.
+
+10\. To allow access to certain payment methods, we use third party providers that may also collect Personal Data. In this case, such service providers are responsible for the collection and processing of Data for the provision of the service. Please refer, if necessary, to their own privacy policy.
+
+11\. All Personal Data used by these third parties is solely used for the purposes of the services provided at our request. Any use for other purposes is strictly prohibited. In addition, any Personal Data processed by third parties will be in accordance with the terms of this Privacy Policy and in compliance with the GDPR. The third party providers we use will only collect, use and disclose your information to the extent necessary to enable them to perform the services they provide to us.
+
+12\. In certain circumstances and where required by law, we may transmit your data to competent administrative or judicial authorities or any other authorized third party.
+
+### **Links to other websites**
+
+13\. Our Website may, from time to time, provide links to other websites. We have no control over such websites and we are not responsible for their content. This Privacy Policy does not extend to the use of such websites. We advise you to read the privacy policy or charter applicable to such other websites before using them.
+
+### **Your rights regarding the use of your Personal Data**
+
+14\. When you provide us with your Personal Data, you stay in control of such Personal Data and have the option to limit their use.   
+This limitation may concern:
+
+  1. The use of Personal Data for direct marketing purposes, which are subject to the opt-in rule; and
+  2. The sharing of Personal Data with third parties.
+
+
+
+15\. You have the right to request access to your Personal Data, their rectification or erasure, as well as the right to request the restriction of the processing or to object to the processing.  
+
+
+
+
+
+You also have the right to withdraw your consent at any time, in particular to have your data no longer processed for the purpose of marketing by electronic means.
+
+In the event that you believe that our use of your Personal Data violates the rules on personal data protection, you may file a complaint with the CNIL.
+
+You also have the right to set general or specific guidelines regarding the fate of your personal data in the event of death. Your specific guidelines can be directly sent to the address below. They can also be registered with a digital trusted third party certified by the CNIL. You have the option to modify or delete such guidelines at any time.
+
+You also have the right to request a copy, in an interoperable format, of the Personal Data that you have provided to us.
+
+You can address your requests to: privacy@ledger.com.
+
+Your requests must be accompanied by a copy of a proof of identity and will be reviewed by our services as soon as possible.
+
+For more information on how to access your Personal Data and to exercise your rights, please contact us (see contact information at the end of this Privacy Policy).
+
+### **Functionality of the Website**
+
+16\. In order to use all the resources and features available on our Website, you may be required to transmit certain Personal Data to us.
+
+17\. You may restrict the use of Cookies in your Web browser. For more information, please refer to our Cookie Policy.
+
+### **Personal Data Security**
+
+18\. Personal Data security is of great importance to Ledger. In order to protect your Personal Data, we have implemented appropriate physical, electronic and organizational procedures to safeguard and secure the Personal Data collected via our Website in order to ensure its integrity and confidentiality.
+
+19\. If a password is required to access certain sections of our Website, you are responsible for keeping this password confidential.
+
+20\. We endeavor to do all we can to protect your Personal Data. However, the transmission of information on the Internet is not fully secure and remains under your sole responsibility. We cannot ensure the security of the transmission of your Data to our Website.
+
+21\. Payment Security: If you provide us with credit card information, such information is encrypted using a secure Internet Trade Protocol (TLS) and sent directly to our banking service provider. This information is never stored on our server.
+
+### **Transfers outside the European Economic Area**
+
+22\. Personal Data that we collect from you may be stored and processed in, and transferred to, countries outside the European Economic Area (EEA). For example, this could happen if our servers are located in a country outside the EEA or if one of our service providers is located in a country outside the EEA. These countries may not have data protection laws equivalent to those in force in the EEA.  
+
+
+
+
+
+23\. If we transfer Personal Data outside the EEA this way, we will take the necessary steps to ensure that your Personal Data continues to be protected in compliance with the GDPR, notably by only transferring your Personal Data to businesses established in countries recognized by the European Commission as providing an adequate level of protection for your Personal Data or on servers of American companies that are members of the Privacy Shield or organizations that have concluded standard contractual clauses or that commit themselves to applying a code of conduct or a certification mechanism validated by the competent European authorities.
+
+For more information on the safeguards put in place, please contact us.
+
+### **Miscellaneous**
+
+24\. If a court or competent authority considers that any provision of this Privacy Policy (or any part thereof) is invalid, illegal or unenforceable, that provision or relevant part of the provision will, to the extent required, be deemed to be deleted. The validity and enforceability of the other provisions of this Privacy Policy will not be affected.  
+
+
+
+
+
+25\. Unless otherwise agreed, no delay, act or omission by a party in exercising a right or remedy will be deemed a waiver of such right, or of another right or remedy.  
+
+
+
+
+
+26\. This Privacy Policy will be governed by and interpreted according to French law. Any dispute arising out of this Privacy Policy will be subject to the exclusive jurisdiction of the French courts.  
+
+
+
+
+
+### **Our commitment to your privacy**
+
+27\. We can assure you that we comply with the GDPR and that we process your Data lawfully, fairly and transparently.  
+
+
+
+
+
+We take confidentiality and privacy issues very seriously. We therefore ensure that your personal information is secure; we communicate our privacy and security guidelines and practices to all our employees and service providers and strictly enforce privacy safeguards within our company.
+
+### **Changes to this Privacy Policy**
+
+28\. We reserve the right to make changes to this Privacy Policy as we deem necessary from time to time or as may be required by law. All changes will be posted immediately on our Website and you are deemed to have accepted the new terms of the Privacy Policy when you first use the Website after such changes.  
+
+
+
+
+
+ 29\. If our company is the subject of a corporate transaction such as an acquisition or merger with another company, your information may be transferred to the new owners so that we can continue to sell our products to you.  
+
+
+
+
+
+30\. In the above cases, we will take steps to protect your privacy.  
+
+
+
+
+
+### **Contact information**
+
+31\. If you wish to access, correct, modify or delete the personal information we have about you, object to their processing, exercise your right to portability, file a complaint or simply obtain more information about the use of your Personal Data, please contact us by e-mail (privacy@ledger.fr) or by mail to Ledger, Legal Department, 1 rue du Mail, 75002 Paris, France.  
+
+
+
+
+
+All such requests will be promptly examined and a reply will be sent to you by our teams.
+
+_Ledger SAS, Paris, France_
