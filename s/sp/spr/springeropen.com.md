@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the springeropen.com privacy policy that was archived on 2018-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181203023326id_/https%3A//www.springeropen.com/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the springeropen.com privacy policy that was archived on 2019-04-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190401002335id_/https%3A//www.springeropen.com/privacy-statement) for the most accurate reproduction.*
 
 # Privacy Statement
 
