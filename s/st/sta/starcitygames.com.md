@@ -1,70 +1,61 @@
-> *The following text is extracted and transformed from the starcitygames.com privacy policy that was archived on 2014-05-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140517191722id_/http%3A//sales.starcitygames.com/FAQ.php%3FID%3D90) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the starcitygames.com privacy policy that was archived on 2019-03-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190331063950id_/https%3A//help.starcitygames.com/article/67-privacy-statement) for the most accurate reproduction.*
 
-# Where can I view StarCityGames.com's Privacy Statement?
+# Privacy Statement - StarCityGames.com Help Center
 
-**Star City Comics & Games, Inc. Privacy Statement**  
-Updated: December 27, 2005
+**Updated: January 11, 2017**
 
-Star City Comics & Games, Inc. (“Star City”) is strongly committed to protecting the privacy of your personal information. This privacy statement explains Star City’s data collection and use practices with respect to its website (the “Site”). By using the pages in this site, you agree to the information collection and use practices described in this privacy statement.
+Star City Comics & Games, Inc. (“Star City”) is strongly committed to protecting the privacy of your personal information. This privacy statement explains Star City’s data collection and use practices with respect to its website (the “Site”). By using the pages in the Site, you agree to the information collection and use practices described in this privacy statement.  If you do not agree to the terms set forth below, do not use the Site.
 
-**Collection of Personal Information**
+## **Collection of Personal Information**
 
-We may ask you for information that personally identifies you (personal information) or allows us to contact you to provide a service or carry out a transaction that you have requested. The personal information we collect may include your name, your address, your credit card number, contact information and other information about products and/or services requested through the Site.  
-The Site may also collect certain information about your visit, such as the name of the Internet service provider and the Internet Protocol (IP) address through which you access the Internet; the date and time you access the Site; the pages that you access while at the Site and the Internet address of the website from which you linked directly to the Site. This information is used, among other things, to help improve the Site, analyze use trends and administer the Site.
+We may ask you for information that personally identifies you (“personal information”) or allows us to contact you to provide a service or carry out a transaction that you have requested. The personal information we collect may include your name, address, payment card information, email address and other contact information, and other information about products and/or services requested through the Site.
 
-**Use of Personal Information**
+The Site may also collect certain information about your visit, such as the name of the Internet service provider and the Internet Protocol (IP) address through which you access the Internet; the date and time you access the Site; the pages that you access while at the Site and the Internet address of the website from which you linked directly to the Site. This information is used, among other reasons, to help improve the Site, analyze use trends and administer the Site.
 
-Except as otherwise required by law, the personal information collected on this Site will be used solely to operate the Site and to provide the service(s) and/or product(s) or carry out the transaction(s) you have requested or authorized. In support of these purposes, Star City may use personal information to provide you with more effective customer service, to improve the Site and any related Star City products or services, and to make the Site easier to use by eliminating the need for your repeated entry of the same information. In order to offer you a more consistent experience in your interactions with Star City, information collected by the Site may be combined with information collected in connection with other Star City products and services.
+## **Use of Personal Information**
 
-Star City occasionally hires other companies to provide limited services on our behalf, such as website hosting, mailing/shipping, etc.. We will only provide those companies the personal information they need to deliver the service. They are required to maintain the confidentiality of the information and are prohibited from using that information for any other purpose.
+Except as otherwise required by law, the personal information collected on the Site will be used solely to operate the Site and to provide the service(s) and/or product(s) or carry out the transaction(s) you have requested or authorized. In support of these purposes, Star City may use personal information to provide you with more effective customer service, send promotional or advertising materials to you (see opt-out provisions below), to improve the Site and any related Star City products or services, and to make the Site easier to use by eliminating the need for your repeated entry of the same information. In order to offer you a more consistent experience in your interactions with Star City, information collected by the Site may be combined with information collected in connection with other Star City products and services.
+
+Star City hires other companies to provide limited services on our behalf, such as website hosting, mailing/shipping, etc. We will only provide those companies the personal information they need to deliver the service. 
 
 Star City may disclose personal information if required to do so by law or in the good faith belief that such action is necessary to (a) conform to the edicts of the law or comply with legal process served on Star City or the Site; or (b) protect and defend the rights or property of Star City and the Site.
 
-**Control of Personal Information**
+## **Control of Personal Information**
 
 Except as otherwise described in this privacy statement, your personal information will not be shared outside of Star City and its subsidiaries and affiliates without your permission.
 
-If you register with the Site or purchase products through the Site, you will need to choose a user name and password. By using the user name and password, you will be able to access certain portions of the Site that are unavailable to unregistered users and will be able to purchase new products without re-entering your personal information and credit card number. You are solely responsible for choosing the user name and password and maintaining the confidentiality of the password that you choose. It is important for you to protect against unauthorized access to your password and to your computer. Failure to protect the security of these items may permit unauthorized individuals to obtain your personal information and your credit card information. Be sure to sign off when finished using a shared computer.
+For persons over the age of 13, registering yourself on the Site is free and completely voluntary.  If you choose to register with the Site or purchase products through the Site, your unique user name will be your email address and you will need to create a unique password.  By using the user name and password, you will be able to access certain portions of the Site that are unavailable to unregistered users (including portions of the Site where you may register and pay for Star City events and event materials) and will be able to purchase new products without re-entering your personal information and credit card number.  You are solely responsible for choosing the user name and password and maintaining the confidentiality of the password that you choose. It is your responsibility to keep your registration data current and accurate as well as to protect against unauthorized access to your password and to your computer. Failure to protect the security of these items may permit unauthorized individuals to obtain your personal information. Be sure to sign off when finished using a shared computer. Star City shall not liable for any loss that you may incur as a result of someone else using your account, either with or without your knowledge.
 
-**Security of Personal Information**
+You must be 13 years old or over to register an account on the Site.  No information should be submitted to or posted to the Site by any child under 13 years of age.  Star City does not knowingly collect information from children under 13.  If you are under 13 years old, you may not attempt to register with the Site.  If Star City determines that an account has been registered by a person under age 13, such account will be terminated.  If you are between the ages of 13 and 17, you may use the Site only with your parent or guardian’s consent; Star City reserves the right to request verification of such parent or guardian’s consent.  Personal information of persons between ages 13 and 17 will be collected as described in this Privacy Policy.  By registering an account on the Site, you represent that you are age 13 or over.  
 
-Star City is strongly committed to protecting the security of your personal information. We use a variety of security technologies and procedures to help protect personal information from unauthorized access, use, or disclosure.
+## **Security of Personal Information**
 
-**Credit Card Transactions**
+Star City is strongly committed to protecting the security of your personal information. We use a variety of security technologies and procedures to help protect personal & payment information from unauthorized access, use, or disclosure.
 
-Some features of the Star City site enable credit card transactions. Star City assures you that we have taken measures to make such transactions secure for our members. 
+## **Cookies**
 
-We utilize industry standard Secure Sockets Layer (SSL) servers to encrypt your information and prevent unauthorized access. 
+We use cookies on the Site to ensure the integrity of the registration process and to personalize the Site. A cookie is a small text file that is placed on your hard disk by a web page server and that helps the Site to recall your specific information on subsequent visits. You have the ability to accept or decline cookies. Most web browsers automatically accept cookies, but you can usually modify your browser setting to decline cookies if you prefer.
 
-Shortly after an order is processed, you will receive a confirmation via e-mail. You are advised to print out and save a copy of the order confirmation for verification necessary to resolve any issues with your order.
+The use of cookies simplifies the process of delivering relevant content, eases Site navigation, and provides other similar benefits to users of the Site. When you return to the Site, the information you previously provided can be retrieved, so you can easily use the Site's features. If you choose to decline cookies, you may not be able to fully experience the interactive features of the Site.
 
-We guarantee that every transaction will be 100 percent safe. This means you are not responsible for unauthorized transactions posted to your credit card that occur as a result of submitting a credit card number to Star City. Star City uses industry standard Secure Sockets Layer (SSL) servers on our transaction pages. SSL encrypts all of your personal information including name, address, and credit card number to prevent unauthorized access as the information travels over the Internet.
+## **Choice/Opt-Out**
 
-**Cookies**
+The Site provides you with the opportunity to choose to receive updates about Star City and information about specials we may want you to know about. You are automatically added to Star City's mailing list and signed up for the above-described services from Star City when you place an order. If you would like to be removed from this list and/or opt out of these services, please click [here](https://www.starcitygames.com/myaccount/mailings) or call or write us at the address and telephone number listed below. Please allow 1-2 business days for processing of your opt-out request.
 
-We use cookies on this Site to ensure the integrity of the registration process and to personalize the Site. A cookie is a small text file that is placed on your hard disk by a web page server and that helps the site to recall your specific information on subsequent visits. You have the ability to accept or decline cookies. Most web browsers automatically accept cookies, but you can usually modify your browser setting to decline cookies if you prefer. 
+## **Links to Other Sites**
 
-The use of cookies simplifies the process of delivering relevant content, eases site navigation, and provides other similar benefits to users of the Site. When you return to the Site, the information you previously provided can be retrieved, so you can easily use the Site's features. If you choose to decline cookies, you may not be able to fully experience the interactive features of the Site.
+The Site contains links to other sites which are not affiliated with Star City. Any such link is not, and is not intended to be, an endorsement of such other website or its content and you should review the terms of use and privacy policy of such other website.  These websites operate independently of Star City and Star City is not responsible for the privacy practices or the content of such websites.
 
-**Choice/Opt-Out**
+## **Changes to this Statement**
 
-Our site provides you with the opportunity to choose to receive updates about Star City and any information of specials we may want you to know about. 
+We reserve the right to update this privacy statement from time to time and without notice to you.  All such updates shall be effective immediately unless otherwise stated. We encourage you to periodically review this privacy statement to stay informed about how we are helping to protect the personal information we collect. Your continued use of the Site constitutes your agreement to this privacy statement, as amended from time to time.
 
-You are automatically signed up for this service from Star City when you place an order. If you would like to be removed from this list, please click [here](mailto:newsletter@starcitygames.com?subject=REMOVE).
+## **Contact Information**
 
-**Links to Other Sites**
+Star City welcomes your comments regarding this privacy statement. If you believe that Star City has not adhered to this privacy statement, please contact us electronically or via postal mail at the following address, and we will use commercially reasonable efforts to promptly determine and remedy the problem:
 
-This site contains links to other sites. Star City is not responsible for the privacy practices or the content of such Web sites.
-
-**Changes to this Statement**
-
-We reserve the right to update this privacy statement from time to time. We encourage you to periodically review this privacy statement to stay informed about how we are helping to protect the personal information we collect. Your continued use of the service constitutes your agreement to this privacy statement, as amended from time to time.
-
-**Contact Information**
-
-Star City welcomes your comments regarding this privacy statement. If you believe that Star City has not adhered to this privacy statement, please contact us electronically or via postal mail at the following address, and we will use commercially reasonable efforts to promptly determine and remedy the problem:  
 StarCityGames.com  
 5728 Williamson Rd. N.W.  
 Roanoke, VA 24012  
 Phone: (540)767-GAME (4263)  
-E-mail: [Contact us through this link](https://sales.starcitygames.com/contactus/contactform.php?emailid=11)
+E-mail: [privacy@starcitygames.com](https://sales.starcitygames.com/contactus/contactform.php?emailid=25)
