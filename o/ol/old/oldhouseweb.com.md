@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the oldhouseweb.com privacy policy that was archived on 2018-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181118013034id_/http%3A//www.oldhouseweb.com/privacy-policy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the oldhouseweb.com privacy policy that was archived on 2019-04-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190401002616id_/http%3A//www.oldhouseweb.com/privacy-policy.shtml) for the most accurate reproduction.*
 
 # Privacy Policy | Old House Web
 
