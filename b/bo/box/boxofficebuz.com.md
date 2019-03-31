@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the boxofficebuz.com privacy policy that was archived on 2018-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181230180604id_/https%3A//boxofficebuz.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the boxofficebuz.com privacy policy that was archived on 2019-03-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190331172249id_/https%3A//boxofficebuz.com/privacy) for the most accurate reproduction.*
 
-# None
+# Movies, TV and Celebrities - Box Office Buz
 
 _This Privacy Policy governs the manner in which Geek Suite, Inc. collects, uses, maintains and discloses information collected from users (each, a "User") of the[http://boxofficebuz.com](https://boxofficebuz.com/) website ("Site"). This privacy policy applies to the Site and all products and services offered by Geek Suite, Inc._
 
