@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the graphite.org privacy policy that was archived on 2017-07-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170701104644id_/https%3A//www.commonsense.org/education/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the graphite.org privacy policy that was archived on 2019-03-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190331024811id_/https%3A//www.commonsense.org/about-us/our-mission/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Common Sense Media
 
@@ -24,7 +24,6 @@ We have strict limitations about what personal information can be collected and 
 
 We are not in the business of renting or selling your personal data. We do not share or disclose your personal data without your prior written consent, except as follows:
 
-  * to [screen postings](https://web.archive.org/about-us/our-mission/privacy-policy#mollom) to ensure they aren't spam;
   * to provide to our [third-party vendors](https://web.archive.org/about-us/our-mission/privacy-policy#third-party-service-providers) who assist us with operating, maintaining, and improving our services by providing us with services, such as donation processing, email delivery, information technology services, marketing Common Sense content, features, and products, and other similar services, and who receive your data for the limited purposes of providing us with such services;
   * to enable [social login](https://web.archive.org/about-us/our-mission/privacy-policy#social-login) (for adults);
   * to provide credit for [Digital Literacy Citizenship Training](https://web.archive.org/about-us/our-mission/privacy-policy#digital-literacy) (for educators);
@@ -49,9 +48,9 @@ For more information on our privacy practices, please go to the full [Privacy Po
 
 You can contact us at: Common Sense Media, 650 Townsend Street, Suite 435, San Francisco, CA 94103 or [privacy@commonsense.org](mailto:privacy@commonsense.org).
 
-**COMMON SENSE MEDIA PRIVACY POLICY**
+Effective Date of Policy: May 1, 2018
 
-Effective Date of Policy: April 19, 2017
+**COMMON SENSE MEDIA PRIVACY POLICY**
 
 Welcome! Below you will find the privacy policy for Common Sense Media, Inc. (" **we** " or " **us** "). We are dedicated to protecting your privacy and handling any personal information we obtain from you with care and respect. The Common Sense Media Privacy Policy (the " **Policy** " or the " **Privacy Policy** ") is designed to answer your questions regarding how we collect, protect, use and share information obtained through the Common Sense Media website, [www.commonsensemedia.org](http://www.commonsensemedia.org/) (the " **Site** "), other Common Sense Media websites, the Common Sense Media mobile application and other applications (" **apps** ") that we operate and that link to this Privacy Policy (collectively, the " **Services** "). Common Sense Media also maintains other websites and apps, which are governed by their own privacy policies. If you are using another Common Sense Media website or app, please be sure to consult the applicable privacy policy, as it may differ from this Policy. We hope this information increases your confidence in Common Sense Media and enhances your experience on our Services.
 
@@ -61,7 +60,7 @@ The Services are controlled and operated by Common Sense Media, a nonprofit orga
 
 **I. INFORMATION THAT WE COLLECT ON OR THROUGH THE SERVICES**
 
-Through the Services, you can be a part of an active and vibrant community of families and educators interested in the impact of media on their children and students. Visitors who complete the membership process through our Services may become registered members (" **Members** "). Members can engage in a full range of activities on our Services, such as posting comments on articles, creating user reviews on media products, participating in surveys and polls, and saving favorites to a personal page. Educator members, in addition to creating user reviews, can participate in educator forums. If you are not currently a Member, you may [click here](https://web.archive.org/user/register) to register, or [here](https://www.graphite.org/user/register) if you are an educator, and become eligible for our Services' features.
+Through the Services, you can be a part of an active and vibrant community of families and educators interested in the impact of media on their children and students. Visitors who complete the membership process through our Services may become registered members (" **Members** "). Members can engage in a full range of activities on our Services, such as posting comments on articles, creating user reviews on media products, participating in surveys and polls, and saving favorites to a personal page. Educator members, in addition to creating user reviews, can participate in educator forums. If you are not currently a Member, you may [click here](https://web.archive.org/user/register) to register, or [here](https://www.commonsense.org/education/user/register) if you are an educator, and become eligible for our Services' features.
 
 **A. Personal Information**
 
@@ -71,7 +70,7 @@ Visitors to the Services may register and opt-in to receive Common Sense Media e
 
 If you wish to become a Member, you must provide us with certain Personal Information as part of the registration process, including, for example, name, email address, school information (for educators), password and age range. We additionally ask for zip code. If the Member is under the age of 18, we do not ask for name or zip code, but we do ask for birthdate information (month and year only).
 
-If you wish to become a Member, you may optionally choose to provide us with certain additional information, such as country of residence. If you are a parent or adult Member, you may also optionally choose to provide us with information about your children such as their ages so we can personalize your experience on the Services and within our email newsletters.
+If you wish to become a Member, you may optionally choose to provide us with certain additional information, such as country of residence. If you are a parent or adult Member, you may also optionally choose to provide us with information about your children such as their ages and names so we can personalize your experience on the Services and within our email newsletters.
 
 In order to simplify our registration and login process, we provide you with the option to register or login and link your Member account on the Site with a third-party social networking service, such as Facebook, Google, and Twitter (each a " ** _Social Networking Service_** "). These services will authenticate your identity, will allow you to log into the Services using the single social login buttons, and will share certain personal information that you allow us to collect, as discussed below.
 
@@ -87,28 +86,13 @@ If you decide that you would like your posted reviews or comments deleted from o
 
 It is possible that Personal Information and other data that you furnished through the Services may remain in our system (such as in backups of the Services' data), even if you are no longer a Member, and can be used by us in accordance with this Policy. PLEASE NOTE THAT WE ARE NOT RESPONSIBLE FOR THE USE BY OTHERS OF ANY PERSONAL INFORMATION YOU DISCLOSE IN YOUR PROFILE OR ON PUBLIC-FACING AREAS OF THE SERVICES.
 
-Note that, through the Common Sense Media app, you may submit the names, ages and photos of your kids; however, such information is stored on your device, and we do not collect it.
-
 We may receive your Personal Information from other sources, such as Common Sense events, Common Sense education partners, activity on Common Sense social media platforms, and public databases.
 
 **B. Collection of Information by Our Service Providers**
 
-To create a better user experience free of spam we use a third party service called [Mollom](http://mollom.com/) to screen messages before they are posted to the Site. Mollom carries out one or more of the following activities:
-
-  * Screens messages and identities (name, nickname, IP address, user ID, OpenID, email address and URL of your website) by making comparisons with other elements in their database, to determine the quality of the content of the messages and to find out whether they are spam.
-  * Stores the content of your messages and other information about your identity during a period of two months. Afterwards, they store the same information in anonymized form for a period of two years, in order to provide this service to other websites.
-
-
-
-For more information about Mollom's privacy practices, please visit its site here: <http://mollom.com/web-service-privacy-policy>.
-
 We use a third-party service provider (the " **Payment Service** "), to handle donations made by credit card and other payment transactions submitted to our Services. If you wish to make a donation through the Services, you will be directed to a webpage that is hosted by the Payment Service (or its service providers) and not by us (such page, the " **Payment Service Page** "). Any Personal Information that you provide through the Payment Service Page will be collected directly by the Payment Service rather than by us, and will be subject to the Payment Service's privacy policy rather than this Policy. We have no control over, and shall not be responsible for, the Payment Service's use of information collected through the Payment Service Page. PLEASE NOTE THAT THIS POLICY DOES NOT ADDRESS THE COLLECTION AND USE OF INFORMATION THROUGH THE PAYMENT SERVICE PAGE OR THE PRIVACY OR INFORMATION PRACTICES OF THE PAYMENT SERVICE.
 
-**C. Physical Location**
-
-Our Common Sense Media App will collect precise information about the location of your device if you opt-in to such collection. This location information is used to allow a third-party service, Fandango, to provide you with local movie showtimes. The location information is stored locally on your device. You may choose to deny such use of your geolocation, and Fandango will not provide you with local movie showtimes.
-
-**D. Cookies and Other Technologies**
+**C. Cookies and Other Technologies**
 
 We and third parties who provide services to us may also collect certain information automatically when you visit the Services, including through the use of cookies and web beacons, such as the browser you are using (e.g., Safari, Internet Explorer, Chrome, Mozilla Firefox, etc.), the internet address from which you linked to the Services, the operating system of your computer (e.g., Microsoft Windows, iOS, Android, etc.), the unique IP address of the computer you used to access our Services and usage and browsing habits. We use this information to administer and improve your experience on our Services, to help diagnose and troubleshoot potential server malfunctions, and to gather use and demographic information. Some of these third parties may use this information for other purposes.
 
@@ -118,7 +102,7 @@ To help make sure you receive information that is relevant to you, our Services 
 
 Our web pages and our e-mail newsletters may contain "web beacons." Web beacons are small pieces of data embedded with images on pages of the Services or in emails, which allow us to collect information such as the number of users that have visited a web page or opened an email. We use web beacons to measure the effectiveness of our content and campaigns and how visitors use our Services. This allows us to learn what pages are most attractive to our visitors, which parts of our Services are the most interesting and what kind of offers our visitors like to see.
 
-**E. Non-Personal Information**
+**D. Non-Personal Information**
 
 Non-Personal Information is aggregated information, demographic information, high-level location information, such as the browser language and country during the user session, and other information that does not reveal a person's specific identity. We may collect Non-Personal Information (e.g., interests, etc.) when you voluntarily provide such information to us, such as through survey responses. Such information constitutes Non-Personal Information because, unless combined with your name or other Personal Information, it does not personally identify you or any other user.
 
@@ -206,7 +190,7 @@ This policy applies to all donor personal information received by Common Sense, 
 
 **VI. IMPORTANT DISCLOSURES, PRACTICES AND CONTACT INFORMATION**
 
-_Links_. This Privacy Policy does not address, and we are not responsible for, the privacy, information or other practices of any third party, including any third party operating any site or service to which the Services link. The inclusion of a link on the Services does not imply our endorsement of the linked site or service. In addition, we are not responsible for the information collection, use, disclosure or security policies and practices of other organizations, such as Facebook, Apple, Google, Microsoft, RIM or any other app developer, app provider, social media platform provider, operating system provider, wireless service provider or device manufacturer.
+_Links_. This Privacy Policy does not address, and we are not responsible for, the privacy, information or other practices of any third party, including any third party operating any site or service to which the Services link. The inclusion of a link on the Services does not imply our endorsement of the linked site or service. In addition, we are not responsible for the information collection, use, disclosure or security policies and practices of other organizations, such as Facebook, Apple, Google Analytics and reCAPTCHA, Microsoft, RIM or any other app developer, app provider, social media platform provider, operating system provider, wireless service provider or device manufacturer.
 
 _Security_. We seek to use reasonable administrative, organizational, technical, and physical measures to help protect the Personal Information you provide to us. Unfortunately, no data transmission or storage system can be guaranteed to be 100% secure. If you have reason to believe that your interaction with us is no longer secure, you should immediately notify us in accordance with the section below entitled "Contacting Us." Please note that if you notify us by physical mail, this will delay the time it takes for us to respond to the problem.
 
@@ -219,15 +203,6 @@ _Changes to the Privacy Policy_. We reserve the right to change this Policy, and
 **VII. CONTACTING US**
 
 If you have any questions about this Policy, or the practices of the Services, please contact us at [privacy@commonsense.org](mailto:privacy@commonsense.org). Or write to us at:
-
-Privacy Department  
-Common Sense Media  
-650 Townsend Street, Ste. 435  
-San Francisco, CA 94103
-
-**VIII. NOTICE TO CALIFORNIA RESIDENTS**
-
-For adults who have specifically opted-in and chosen to become Common Sense Kids Action Advocates, we may share with our affiliates and like-minded coalitions working on behalf of children the email address and/or zip code that you provided to us when you signed up to participate in Common Sense Kids Action. California Civil Code Section 1798.83 permits California residents to request certain information regarding our disclosure of personal information to third parties for their direct marketing purposes. To make such a request, please send an email to or write us: [privacy@commonsense.org](mailto:privacy@commonsense.org) or you may contact us via regular mail at:
 
 Privacy Department  
 Common Sense Media  
