@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pornpros.com privacy policy that was archived on 2018-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181227183641id_/https%3A//pornpros.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pornpros.com privacy policy that was archived on 2019-04-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190401015149id_/https%3A//pornpros.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
