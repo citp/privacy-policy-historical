@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the buzznick.com privacy policy that was archived on 2016-08-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160806052222id_/http%3A//www.sliptalk.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the buzznick.com privacy policy that was archived on 2019-03-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190331141424id_/https%3A//www.buzznick.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -34,7 +34,7 @@ You can choose to accept or decline cookies. Most web browsers automatically acc
 
   * Third party vendors, including Google, use cookies to serve ads based on a your prior web site visits.
   * Google’s use of the DoubleClick cookie enables it and its partners to serve ads to you based on your visits to SlipTalk and/or other sites on the Internet.
-  * You may opt out of the use of the DoubleClick cookie for interest-based advertising by visiting [Ads Settings](http://www.google.com/ads/preferences/). (or by visiting [aboutads.info](http://www.aboutads.info/).)
+  * You may opt out of the use of the DoubleClick cookie for interest-based advertising by visiting [Ads Settings](https://www.google.com/ads/preferences/). (or by visiting [aboutads.info](https://www.aboutads.info/).)
 
 
 
