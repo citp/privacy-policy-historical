@@ -1,101 +1,214 @@
-> *The following text is extracted and transformed from the norestnetwork.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606181917id_/https%3A//account.legalporno.com/docs/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the norestnetwork.com privacy policy that was archived on 2019-04-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190401001844id_/https%3A//account.legalporno.com/docs/privacy-statement) for the most accurate reproduction.*
 
 # 
 
-* #####  **Information Security**
+Last Updated: May 25, 2018 
 
-**https://account.legalporno.com** is dedicated to the protection of Site users' information. To prevent unauthorized access to information provided to us, the Company uses a number of generally accepted industry standard procedures designed to effectively safeguard the confidentiality of your personal information. These procedures include secure server location, controlled access to data and equipment, robust redundant firewall software, network monitoring, adaptive analysis of network traffic to track and prevent attempted network intrusions and other network abuse and appropriate employee training in the area of data security. We shall continue to take reasonable steps to provide effective data protection at all times, however, because no security technology can provide invulnerability to information compromise, the Company cannot, and does not, guarantee the security of any information that you transmit to us or to any third party affiliated with the Site. 
+We, **GTFLIX TV, s.r.o.** , a company registered and existing under the laws of the Czech Republic, having its registered seat at Krakovska 1366/25, 110 00 Prague 1, Czech Republic, the provider of the website gtfcharge.com/ , pornbox.com (hereinafter referred to as the “ **Website** ”). The provider of the Website is the responsible data controller in the sense of Article 4 (7) of European Regulation (EU) 2016/679 of the European Parliament and of the Council on the protection of natural persons with regard to the processing of personal data and on the free movement of such data, and repealing Directive 95/46/EC (hereinafter referred to as the „ **GDPR** “). 
 
-* #####  **User Information**
+This Privacy Policy describes how we collect, use, process, and disclose your information, including personal information, in conjunction with your access to and use of the Website. We are processing personal data only in accordance with this Privacy Policy. 
 
-When you use this Site, including, for example, when you click on any of our links, we will collect and store in one or more of our databases, one or more of the following types of information ("Data"): your IP address (the domain name or other locator indicating your access to Internet); the IP address of the Website from which you linked to our site operating system; browser data; email address data; the date and time you access our Site and its functions, and any other accessible online user, biometric or device information. We will often collect Data at several points throughout the Site, its links and through related functionality. 
+###  1\. INFORMATION WE COLLECT 
 
-We use Data to measure the number of visitors, to provide our marketing partners, licensees, purchasers and successors in interest with accurate Data and to prevent fraud. 
+Personal data refers to any information that tells us something about you or that we can link to you. We processes following categories of information: 
 
-Sometimes, we will ask you to provide, on a strictly optional basis, "Optional Information," such as your name, username, address, zip code or telephone number or other personal information. 
+####  1.1 Information You Give to Us. 
 
-The only personally-identifying information we collect and store about you is the information you, voluntarily choose to provide to us, such as your name, e-mail address, address, zip code, telephone number, etc., in response to a specific prompt that requires you to initially enter the information. In addition, we, our agents, affiliates, Third Party Program Participants and others may ask you to voluntarily provide additional personal information for billing, shipping and other similar purposes. 
+We collect your personal information that we received from you when you use the Website, including personal information you provide to us including when you: watch a video, enquire or make an application for ours services, register to use and/or use any of our services and when you communicate with us through e-mail, the Website or portal, or any other electronic means. 
 
-When a Site user, requests web pages from the Site's server, or otherwise uses the Site's services or other functionalities, we or our agents may automatically collect some information or data about the user and the user's Site use, including the IP address from which the Site is being accessed, the pages or links that were requested, the special preferences or requests of the user and cookie information received from the computer of the user. You agree that all such information and other Data may be collected and used by the Site and its agents. 
+Such information may include: 
 
-When Site user performs purchase, that person will be required to provide certain personal as well as credit card number, cardholder name and expiration date of the credit card. This Site, the Company and its agents, may collect any and all such Optional Information and include it in its databases with Data and other information. 
+  * e-mail address, username, password, photo, etc.; 
+  * credit card details for gtfcharge.com billing system that will be forwarded to payvision payment gateway 
+  * additional personal information (e.g. data concerning a natural person’s sexual orientation) 
 
-If Site user sends any personal communication or correspondence, by any means, to the Site, the Company or any of its employees, agents or representatives, we may collect, in databases and otherwise, and use, any and all such information and other Data regarding that communication, consistent with this Privacy Policy. 
 
-* #####  **Cookies**
 
-We use cookies for your convenience. For example, we use session cookies to make it easier for you to navigate and otherwise use our Site. Cookies are small pieces of data that are stored by a user's Web browser on the user's hard drive. Cookies can be used to "remember" what information a user accesses on one Web page to simplify subsequent interactions with that Web site by the same user or to use the information to streamline the user's transactions on related Web pages. This makes it easier for a user to move between and interact with Web pages and to complete commercial transactions over the Internet. The Site also uses cookies to store and sometimes track information to make your online experience easier and more personalized and for other purposes related to your use of the Site and related services. For example, because a cookie can be linked to information you have inputted or which has otherwise been collected, the need to repetitively enter certain information, such as your username or email address, can be eliminated. The use of cookies also assists us in acquiring important Site usage Data. Cookies can also assist us in tracking and targeting the interests, preferences and desires of our Site users to present the most appropriate messages, offers and other communications to our users, and to generally enhance their experience at our Site. 
+####  1.2 Information We Automatically Collect from Your Use of the Website. 
 
-Currently, there are two general types of cookies commonly used in association with typical Web sites including our Site: "session" cookies and "persistent" cookies. A session or "session ID" cookie is functional only during the current "session" use of your browser, i.e., it ceases to function when you close you browser. A "persistent" cookie remains on your hard beyond the current browser session. You can remove persistent cookies by following directions provided in your Internet browser's "Help" file. We use both session cookies and persistent cookies. 
+We collect information about the services that you use and how you use them, like when you watch a video on the Website, visit a website that uses our advertising services or view and interact with our ads and content. This information includes: 
 
-Most major Web browsers are set up so that they will initially accept cookies, but you may modify your computers preferences to issue you an alert when a cookie is downloaded, or to disable the ability of third parties to download a cookie to you. If you choose to reject cookies, or disable your computer's ability to receive or process them, there are areas of this Site, other related web sites and related services that may not function properly. 
+  * **Device information.** We collect device specific information such as IP address, access dates and times, hardware and software information, device information, cookie data. 
 
-You may obtain further information about "cookies" and how they function at: http://www.cookiecentral.com or http://www.microsoft.com/info/cookies.htm. 
+  * **Geo-location Information.** When you use certain features of the Website, we may collect information about your approximate location as determined through data such as your IP address. 
 
-* #####  **Clear GIFs ("Web Beacons")**
+  * **Usage Information.**  We collect information about your interactions with the Website such as the content you view, your searches queries and other actions on the Website. 
 
-Clear GIFs, otherwise known as "web beacons"or "single-pixel GIFs", are very small web page graphics that contain a unique digital identifying means. They function like cookies, in that they are often used to track and measure online actions taken by web site users. In contrast to cookies, which are stored on a user's computer hard drive, clear GIFs are embedded into the graphics, text or other components of Web pages, including pop up windows, or in other digital documents that can support them, like email messages. We may also use Web Beacons to optimize search engine functionality. Clear GIFs are nearly invisible and are often only the size of small dot, such as a period at the end of a sentence. Also, like cookies, Clear GIFs, help us and our Third Party Program Participants measure and improve Site efficiency and effectiveness. For example, we may use web beacon technology to access your personally identifiable information or compile aggregated statistics about overall Site usage. 
+  * **Cookies and Similar Technologies.**  We use cookies and other similar technologies, such as web beacons, pixels, and mobile identifiers. We may also allow our business partners to use these tracking technologies on the Website, or engage others to track your behaviour on our behalf. For more information on our use of these technologies, see our Cookie Policy. 
 
-Many of our Third Party Program Participants and advertisers also employ Clear GIFs on our Site and in related sites. 
+  * **Payment Transaction Information.** We collect information related to your payment transactions through the payment platform, including the payment instrument used, date and time, payment amount, payment instrument expiration date and billing postcode, PayPal email address, IBAN information, your address and other related transaction details. 
 
-* #####  **Log Files**
 
-The Company and Third Party Program Participants, through the functionality of the Site, related sites and related services, gather Data and other information regarding Site navigation and Site use from cookies, clear GIFs and other means and store such information in log files and other databases. This Data and similar information includes date and time recordation data, Internet protocol (IP) addresses, Internet service provider (ISP) data, referring or exit pages, your computer's operating system and components, such as your browser type, and other data. While this information generally does not directly identify individual users, it does provide us with Data and other broad demographic information. We use this information for a number of purposes including Site usage analysis, analysis of Site navigation by users, determining and analyzing overall user preferences and user trends, Site administration, and general improvement and optimization of Site efficiency and effectiveness and user communications, including promotions to users. We may also provide third parties with some or all such information and other Data collected. 
 
-* #####  **Use of Personal Information and Disclaimer**
 
-We will use information collected from you to send your free gift and fulfill Offers you have accepted. We will also use the information to verify identity, protect against fraud, update and service your account, target and personalize future Offers that we may display on or in association with the Site and in our communications with you. We will use your physical mailing address for mailing of your free gift, fulfilling Offers you have accepted, to improve our ability to provide you with more accurate and appropriate marketing and for other communications with our Company. 
+####  1.3 Information We Collect from Third Parties. 
 
-By your use or continued use of the Site and/or its services, you expressly agree that the Company, via the Site and otherwise may use any and all Data, Optional Information and all other information that it or its agents gather or collect directly or indirectly pertaining to you, including, without limitation, any personal information that has been provided by you, your computer or other device, or information provided by a third party, for any and all technical, administrative, research, development, customer assistance, age verification, marketing, promotion and advertising uses, for the transmission of communications of every kind, including, without limitation, email communications of every kind, for the sending of products, for fulfillment purposes, and for compliance with any and all terms and conditions. Furthermore, you agree that the Company may share, disclose, lease, license, sell and otherwise provide any and all of such information, including personal information to its affiliates, agents, assigns, successors in interest, licensees, clients, customers, Third Party Program Participants and other third parties who have been authorized or permitted to use the information by the Company, its successors, assigns and licensees. 
+We may collect information, including personal information that others provide about you when they use the Website, or obtain information from other sources and combine that with information we collect through the Website. We do not control, supervise or respond for how the third parties providing your information process your personal data, and any information request regarding the disclosure of your personal information to us should be directed to such third parties. 
 
-By your use or continued use of the Site and/or its services, you agree that the Company is not responsible or liable for the use of any information that you or any other visitor, member, subscriber or other Site user may provide to any other person or entity, or that is gathered by any third-party, including, without limitation, any Third Party Program Participant, by any means. This Site does not control, monitor or endorse the information gathering practices or Privacy Policies of any third-party, and you acknowledge that such third-parties and their web sites may, and probably do, have privacy policies that are different from this Privacy Policy. Whenever applicable, you and all other visitors, members, subscribers and other Site users are strongly advised to read the Privacy Policy of any and all third-party web site providers that have one or more advertising banners, or links on the Site, or on the web site of any Third Party Program Provider, and of any entity that provides goods or services at, through or in direct or indirect association with the Site. 
+  * Other Sources. To the extent permitted by applicable law, we may receive additional information about you, such as demographic data or fraud detection information and combine it with information we have about you. 
 
-All Members, visitors and Users of this Site should consider any information provided to or collected by the Site as non-confidential, and consequently the Site assumes no liability or responsibility if any information relating to any Member, visitor or User is intercepted and/or used by an unintended recipient. 
 
-* #####  **Offers, Special Promotions, Opinion Polls, Surveys, Contests, Special Events and Service Alert Emails**
 
-There may be occasions when a visitor, subscriber, member or other Site user will be presented with special offers either from the operators of the Site, their agents, affiliates or from other third-party offerors, that may include the presentation of one or more options for a Site user to consent to receive e-mail solicitations, communications, newsletters or commercial advertising, or to participate in other promotions or special events, including without limitation, contests, opinion polls or surveys (collectively referred to as "Offers"). Offers might be made by the Company, its agents, affiliates, Third Party Program Participants or other third-parties making such Offers. Site users may be asked to provide certain information in order to participate in such Offers. Information requested may include, without limitation, contact information (such as name and address) and demographic information (such as zip code, area code, age level, occupation, etc.). Participation in such special events and special offers is completely voluntary and Site users may elect whether or not to provide the requested information. Information collected will be used for the purposes of winner notification, prize awarding, monitoring and improving Site usage and user satisfaction, providing additional relevant offers, promotions and other communications to Site users via electronic mail and other means, and other purposes consistent with this Privacy Policy. 
+###  2\. HOW WE USE INFORMATION WE COLLECT 
 
-"OPT-IN" Acceptance of Offers. Some Offers may be presented to you with the option to express your preference by either clicking or entering "accept" (or alternatively, for example, "yes") or "decline" (alternatively "no") or "consent" or by indicating your preference regarding participation or non-participation by some other recordable means. By selecting accept, yes, consent, or some other affirmation of participation, you shall be deemed to agree that such action(s) shall constitute an "OPT-IN" to the Offer related to the action and that the you thereby agree and assent that your personal information, Data, Optional Information and other information in the Site's databases may be disclosed to the Company, the Company's affiliates, agents, Third Party Program Participants and other third-parties offerors. 
+We use, store, and process information, including personal information, about you to provide, understand, improve, and develop the Website, to protect us and our users and to comply with our legal obligations. We also use this information to offer you tailored content – like giving you more relevant search results and ads. 
 
-"OPT-OUT" Rejection of Offers Otherwise Accepted. Some Offers may be presented with a pre-selected preference or choice. If you do not deselect the pre-selected preference of choice (i.e. "OPT-OUT" of the Offer) then the Site may transfer your personal information to the Company, its affiliates, agents, Third Party Program Participants, and any other third party making the Offer. If you deselect the pre-selected preference (i.e., reject the Offer) then no personal information relating to the Offer in the Site's database may be disclosed to a third party offeror of that particular Offer with respect to that particular Offer. Nothing herein shall limit information collection or transfer that you have previously authorized or subsequently authorize, including, without limitation any authorization regarding the third party offeror with respect to another Offer. 
+####  2.1 Provide, Improve, and Develop the Website.  
 
-The Company may also send new members, subscribers, visitors or other Site users a welcoming email and occasionally send information on products, services, and special deals from Third Party Program Participants, and other third parties. If you don't want to receive such email or other email messages from us, please follow the directions for unsubscribing or "opting-out" contained in the email message you receive from us. We reserve the right to contact you, however, with non-commercial relationship and other advisory email messages, such as communications of changes or updates to our software, changes to our Terms and Conditions, changes to Offers you have accepted, changes to programs you have elected to participate in, notice of termination of any Offer, program or service or changes to this Privacy Policy. 
+  * Enable you to access and use the Website. 
+  * Enable you to communicate with other users. 
+  * Operate, protect, improve, and optimize the Website, such as by performing analytics and conducting research. 
+  * Provide customer service. 
+  * Send you service or support messages, updates, security alerts, and account notifications. 
+  * To operate, protect, improve, and optimize the Website, and personalize and customize your experience (such as making suggestions or ranking search results), we conduct profiling based on your interactions with the Website, your search and viewing history, your profile information and preferences, and other content you submit to the Website. 
 
-We may provide you with links in our email communications. These links may include one or more special tracking codes, unique to you or some other identifying feature (such as geo-location). These codes assist us in formulating, selecting and distributing content, promotions, Offers, advertisements and other communications to you which are more appropriately targeted to your likely preferences. We may share this data in aggregate form or in individual form. 
 
-The Company and/or Third Party Program Participants may offer you participation in one or more "rewards" programs in which you can earn money or other benefits for participating in such programs. The Company and/or Third Party Program Participants may provide information collected from you as a result of your participation in such program(s) to the program sponsor to assist the sponsor in delivering entitled benefits to you and for other marketing, promotional and other purposes. If you participate in any of the Company's own reward or incentive programs, we will track your activity using your email address or other identifying means and share your email address and other identifying means with affiliated reward sponsors, if any, and any third parties involved with fulfillment of the rewards or other benefits. 
 
-The Company does not provide a process to update or modify a Site user's personally identifiable information. If you no longer desire to use one or more of our services, you must, as relevant, opt-out of our mailings, unsubscribe, cancel membership, remove Company, Third Party Program Participant and/or other third party distributed software from your computer, and/or discontinue the use of the Site and services. 
+We process this information as it is necessary for the adequate performance of the contract with you and given our legitimate interest in improving the Website and our users’ experience with it and with your consent where required. 
 
-* #####  **Revocation of Consent Procedure (Revocation "Opting-Out")**
+####  2.2 Protect us and our Users and Comply with Legal Obligations. 
 
-The Site also offers to you a procedure for "Opting-Out" if you subsequently choose to revoke or withdraw any consent to accept or receive Offers. To revoke or withdraw a consent to accept or receive Offers, send an e-mail using [Customer support](mailto:support@legalporno.com) clearly stating that you have revoked or withdrawn consent to receive any future Offers. 
+  * Detect and prevent fraud, spam, abuse, security incidents, and other harmful activity. 
+  * Conduct security investigations and risk assessments. 
+  * Comply with our legal obligations. 
+  * Resolve any disputes with any of our users and enforce our agreements with third parties. 
+  * Enforce our Terms of Service and other policies. 
 
-If you decide to cancel a subscription, membership or other Offer and later wish to resubscribe, rejoin or recommence receiving a previously cancelled Offer, you may not always be able or entitled to do so, and you many not be entitled to receive credit towards benefits offered by the Company or a third party. We reserve the right at all times to terminate or suspend any subscription, membership, Offer, service or account at any time with or without notice. 
 
-* #####  **Third Party Program Participants and Others**
 
-We may send you offers on behalf of Third Party Program Participants. Acceptance of some Offers through the Site may require you to provide personal information to Third Party Program Participants. These Companies may also independently send you Offers. If you would like to opt-out or cancel any such Offers or prevent Third Party Program Participants from independently communicating with you, you will need to inform them separately pursuant to their process for doing so. 
+We process this information given our legitimate interest in protecting the Website or pursued by a third party and to comply with applicable laws. 
 
-The Company shares aggregated demographic and Site navigation information, Data, Optional Information and other information with Third Party Program Participants, advertisers, analysts and others. We may also sell access to our mailing lists, including email lists, and other information to brokers and third party advertisers and we may transfer your information to such third parties. We may transfer some or all of your information to a purchaser of all or part of our Company or any successor in interest in the Company or the Site. We may also hire contractors or other third parties to perform any Company, Site or Site service function with or without notice to you. The Company and its agents may also aggregate demographic and other information about you and other Site users in databases and disclose, license or sell such information to Third Party Program Participants and other parties. 
+####  2.3 Provide, Personalize, Measure, and Improve our Advertising and Marketing. 
 
-By your use or continued use of the Site or acceptance of any Offer associated with the Site, you expressly agree that this Privacy Policy, all Data, Optional Information and other information collected by the Company, its agents, affiliates, Third Party Program Participants and all other third parties associated with the Company or the Site, all contractual rights and all rights arising under the Terms and Conditions may be freely and unconditionally transferred, assigned, sold, leased or licensed to any person or entity and that all Offers are subject to change and may be terminated by the Company or any third party initiating the Offer, with or without notice. 
+  * Send you promotional messages, marketing, advertising, and other information that may be of interest to you based on your preferences (including information about Website). 
+  * Personalize, measure, and improve our advertising. 
+  * Conduct profiling based on your characteristics and preferences 
+(based on the information you provide to us, your interactions with the Website, information obtained from third parties, and your search and booking history) to send you promotional messages, marketing, advertising and other information that we think may be of interest to you. 
 
-* #####  **Disclosure**
 
-The Company will not disclose or use any of your personally identifiable information except to the extent set forth in this Privacy Policy, or under special circumstances, such as when we believe in good faith that the law requires it, or when we have reason to believe that disclosing this information is necessary to identify, contact or bring legal action against someone who may be violating the Site's Terms and Conditions, defrauding the Company or any third party, including any Third Party Program Participant. 
+We will process your personal information for the purposes listed in this section given our legitimate interest in undertaking marketing activities to offer you products or services that may be of your interest and with your consent where required. You can opt-out of receiving marketing communications from us by following the unsubscribe instructions included in our marketing communications or changing your notification settings within your account. 
 
-The Company will disclose your personal information, without notice, to a party unrelated to the Company if required to do so by law or in the good faith belief that such action is necessary to comply with the law, legal process served on the Company or a Third Party Program Participant, to protect the rights or property of the Company or a Third Party Program Participant, or in urgent circumstances to protect the personal safety of users of the Site or the public at large. 
+###  3\. COOKIES POLICY AND GOOGLE ANALYTICS 
 
-All unsolicited information provided to the Company or any affiliated party, including, without limitation, any Third Party Program Participant, entirely on the initiative of a person providing the information or that person's agent, or any information which is provided independently of any request by the Company or its affiliates shall be deemed to be public information regarding which neither the Company nor any other person or entity has any duty to the information provider or any other person, and as such, the Company may use such unsolicited information in an unlimited manner. 
+####  3.1 We use cookies to collect information about how the Website is used. 
 
-* #####  **Protection of Children**
+Cookies are text files that are placed by the browser in the memory of a user’s device when our website is visited. Our website uses session cookies and persistent cookies: 
 
-The Company and Third Party Program Participants do not publish any content or Offers on the Site that are targeted to children. We do not specifically collect information about children. The Company and Third Party Program Participants do not solicit and do not knowingly accept subscriptions, memberships, or acceptances of Offers from persons under the age of eighteen years. If minors have access to your computer or email, we ask that you take appropriate measures to prevent such minors from accessing or using the Site or any of our Company's services as they are exclusively offered and restricted to, and only authorized for, adults over the age of eighteen years. 
+Session cookies expire at the end of a browser session. They only enable us to collect and connect the user’s actions during the particular browser session and are deleted when the browser is closed or the user logs off. 
 
-* #####  **Revisions to this Privacy Policy**
+Persistent cookies survive a browser session and are stored for a predefined period of time. We are using persistent cookies with the following information and for the following purposes: 
 
-The Company reserves the right, in its sole and absolute discretion, to revise, amend, modify or revoke this Privacy Policy at any time and in any manner. Changes to this Policy will be effective by posting revisions on the Site. In some circumstances you might be required to actively "accept" or "agree" to a new Privacy Policy or to new or modified provisions in the Privacy Policy in order to continue using the Site or services provided by the Company or Third Party Program Participants. Such assent or agreement to revisions to this Privacy Policy may be effectuated via an Opt-In or Opt-Out procedure (as those procedures are discussed above). 
+  * Identifying a registered user; and 
+  * Keeping some search preferences; and 
+  * Keeping the likes of the unregistered users; and 
+  * Saving the video player’s preferences; and 
+  * Displaying the advertisements; and 
+  * Keeping statistics regarding the speed loading of the pages. 
 
-Copyright © 2015 LegalPorno All rights reserved. 
+
+
+The user can disable the cookie function in his browser options. Please see the specific information of the browser used for visiting this website. For details how to control and/or delete cookies, see aboutcookies.org. If cookies are disabled the user might not be able to use all the functions and services of the Website. 
+
+3.2 In addition, we use Google Analytics, a web analytics service provided by Google, Inc. (hereinafter referred to as " **Google** "), using third-party cookies that enable Google to analyze the use of the Website. The information generated by the cookie about the use of this website is transferred to a Google server in North America. Note that we have activated Google’s IP anonymization service “anonymizeIP” for our website which shortens a user’s IP address prior to the transfer. 
+
+Google will use this information on our behalf to evaluate the use of the Website, to compile reports for activities on the Website, and to provide other services to us relating to the Website. 
+
+Google Analytics operates under the following terms: 
+
+  * Terms of Service: [ http://www.google.com/analytics/terms/gb.html ](http://www.google.com/analytics/terms/gb.html)
+
+  * Privacy Statement: [ http://www.google.com/intl/en/analytics/learn/privacy.html ](http://www.google.com/intl/en/analytics/learn/privacy.html)
+
+  * Privacy Policy: [ http://www.google.com/intl/en/policies/privacy ](http://www.google.com/intl/en/policies/privacy)
+
+
+
+
+The user can prevent Google from collecting and processing the data concerning the use of the Website (including the IP address) by installing a browser-plug-in which is available under  [ https://tools.google.com/dlpage/gaoptout ](https://tools.google.com/dlpage/gaoptout) . 
+
+###  4\. SECURITY 
+
+Note that all data is kept in a secure environment. We protect personal data by using appropriate safeguard procedures and measures, in particular: 
+
+  * We encrypt our services using SSL (you can reach our [ SSL ](https://support.google.com/websearch/answer/173733?hl=en-GB) protected website under [gtfcharge.com/](https://gtfcharge.com/) , [www.legalporno.com/](https://www.legalporno.com/) , [pornbox.com](https://pornbox.com/) ). 
+  * We use firewalls to protect your information. 
+  * We review our information collection, storage and processing practices, including physical security measures, to guard against unauthorised access to systems. 
+  * We restrict access to personal information to employees, contractors and agents who need to know that information in order to process it for us and who are subject to strict contractual confidentiality obligations. 
+
+
+
+If you know or have reason to believe that your account credentials have been lost, stolen, misappropriated, or otherwise compromised or in case of any actual or suspected unauthorized use of your account, [ please contact us following the instructions in the Contact Us section below ](https://www.legalporno.com/support/) . 
+
+###  5\. YOUR RIGHTS 
+
+You may exercise any of the rights described in this section by adjusting settings in your profile or by sending an email to dpo@legalporno.com. [ Please note that we will ask you to verify your identity before taking further action on your request, if we cannot identify you we cannot act according to your request. ](https://www.legalporno.com/support/)
+
+####  5.1 Managing Your Information. 
+
+You may access and update some of your information through your account settings. You are responsible for keeping your personal information up-to-date. 
+
+#####  5.2 Rectification of Inaccurate or Incomplete Information. 
+
+You have the right to ask us to correct inaccurate or incomplete personal information concerning you (and which you cannot update yourself within your account). 
+
+####  5.3 Data Access and Portability. 
+
+You have a right to request copies of your personal information held by us. You are also entitled to request copies of personal information that you have provided to us in a structured, commonly used, and machine-readable format and/or request us to transmit this information to another service provider (where technically feasible). 
+
+####  5.4 Data Retention and Erasure. 
+
+We generally retain your personal information for as long as is necessary for the performance of the contract between you and us, to protect our legitimate interest or legitimate interest of a third party and to comply with our legal obligations. If you no longer want us to use your information to provide you the service, you can request that we erase your personal information and close your account. Please note that if you request the erasure of your personal information: 
+
+  * We may retain some of your personal information as necessary for our legitimate business interests, such as fraud detection and prevention and enhancing safety. For example, if we suspend an account for fraud or safety reasons, we may retain certain information from that account to prevent that user from opening a new account in the future. 
+
+  * We may retain and use your personal information to the extent necessary to comply with our legal obligations. 
+
+  * Information you have shared with others (e.g., likes, forum postings) may continue to be publicly visible on the Website, even after your account is cancelled. However, attribution of such information to you will be removed. Additionally, some copies of your information (e.g., log records) may remain in our database, but are disassociated from personal identifiers. 
+
+  * Because we maintain the Website to protect from accidental or malicious loss and destruction, residual copies of your personal information may not be removed from our backup systems for a limited period of time. 
+
+
+
+
+####  5.5 Withdrawing Consent and Restriction of Processing. 
+
+Where you have provided your consent to the processing of your personal information by us you may withdraw your consent at any time by changing your account settings or by sending a communication to us specifying which consent you are withdrawing. Please note that the withdrawal of your consent does not affect the lawfulness of any processing activities based on such consent before its withdrawal. Additionally you have the right to limit the ways in which we use your personal information, in particular where (i) you contest the accuracy of your personal information; (ii) the processing is unlawful and you oppose the erasure of your personal information; (iii) we no longer need your personal information for the purposes of the processing, but you require the information for the establishment, exercise or defence of legal claims; or (iv) you have objected to the processing pursuant to Section 5.6 and pending the verification whether the legitimate grounds of the Website provider override your own. 
+
+####  5.6 Objection to Processing. 
+
+You have a right to require us not to process your personal information for certain specific purposes (including profiling) where such processing is based on legitimate interest. If you object to such processing we will no longer process your personal information for these purposes unless we can demonstrate compelling legitimate grounds for such processing or such processing is required for the establishment, exercise or defence of legal claims.   
+Where your sensitive personal data are processed you may, at any time ask us to cease processing your data by sending an e-mail to [ dpo@legalporno.com ](mailto:dpo@legalporno.com) or by changing your user’s profile settings. 
+
+####  5.7 Lodging Complaints. 
+
+You have the right to file a complaint about the data processing activities carried out before the competent data protection authorities, e.g. to The Office for Personal Data Protection. Also all users may contact: [ dpo@legalporno.com ](mailto:dpo@legalporno.com) . 
+
+###  6\. OPERATING GLOBALLY 
+
+Where we transfer, store and process your personal data outside of the EEA we have ensured that appropriate safeguards are in place to ensure adequate level of data protection. We rely on EU Model clauses and Privacy Shield Framework. 
+
+We share certain data within our corporate group of companies and with the following groups of recipients: 
+
+  * Government authorities; 
+  * Third party service providers; 
+  * Financial institutions; 
+  * Providers of storage systems; 
+  * IT services providers; 
+  * Providers of services necessary for the performance of our activity (administrative activities, archiving, legal advice, receivables management, etc.) 
+
+
+
+###  7\. CHANGES TO THIS PRIVACY POLICY 
+
+We reserve the right to modify this Privacy Policy at any time in accordance with this provision. If we make changes to this Privacy Policy, we will post the revised Privacy Policy on the Website and update the “Last Updated” date at the top of this Privacy Policy. If you disagree with the revised Privacy Policy, you may cancel your account. If you do not cancel your account before the date the revised Privacy Policy becomes effective, your continued access to or use of the Website will be subject to the revised Privacy Policy. 
+
+###  8\. CONTACT US 
+
+You may contact us at 
+
+Also you may contact our Data Protection Officer at [ dpo@legalporno.com ](mailto:dpo@legalporno.com) . 
+
+DPO   
+GTFLIX TV, s.r.o.   
+Krakovska 1366/25 Prague 1   
+Czech Republic 
