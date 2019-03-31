@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bitgold.com privacy policy that was archived on 2018-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181220143306id_/https%3A//www.goldmoney.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bitgold.com privacy policy that was archived on 2019-03-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190331205304id_/https%3A//www.goldmoney.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Goldmoney
 
@@ -19,7 +19,7 @@ This policy sets out:
 
 
 
-We have tried to keep it as simple as possible, but if you're not familiar with terms like cookies, IP addresses, and browsers, then read about these [key terms](https://www.google.com/policies/privacy/key-terms) first. Your privacy matters to Goldmoney so, whether you are new to Goldmoney or a long-time user, please do take the time to get to know our practices and, if you have any questions, please contact us at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#f687839385829f999885b691999a929b9998938fd895999b). 
+We have tried to keep it as simple as possible, but if you're not familiar with terms like cookies, IP addresses, and browsers, then read about these [key terms](https://www.google.com/policies/privacy/key-terms) first. Your privacy matters to Goldmoney so, whether you are new to Goldmoney or a long-time user, please do take the time to get to know our practices and, if you have any questions, please contact us at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#7c0d09190f081513120f3c1b1310181113121905521f1311). 
 
 ##  A. What we collect 
 
@@ -75,7 +75,7 @@ We may also ask you to complete surveys that we use for research purposes, altho
 
 
 
-Please contact us at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#e796928294938e888994a780888b838a8889829ec984888a) with any questions relating to your information that we control. 
+Please contact us at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#f786829284839e989984b790989b939a9899928ed994989a) with any questions relating to your information that we control. 
 
 ##  C. How we share your personal information 
 
@@ -101,7 +101,7 @@ Please contact us at [[email protected]](https://web.archive.org/cdn-cgi/l/emai
 
 1\. Communications between you and Goldmoney may be conducted by mail or by telephone, fax, online, text message, or by other electronic means. Any instructions that you give to us in any such manner will have the same legal effect as if you gave them to us in original written form. You agree that all telephone calls and electronic communications may be recorded and kept by us as a record of your instructions. You also agree that we may contact you electronically in response to a request, inquiry, or complaint, as otherwise solicited by you, or as permitted or required by law. 
 
-2\. We may also communicate with you from time to time electronically about news, promotions, special offers and other information from Goldmoney, regarding either Goldmoney or its selected partners. If you wish to unsubscribe to marketing emails from Goldmoney please contact [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#177a76657c72637e79705770787b737a7879726e3974787a). We will strive to honour your request as soon as possible, and in any event within the next 10 business days. Please note, however, that this request will apply only to marketing emails and not to certain account-based information emails which will continue to be sent to account holders. We are not responsible for any additional information you provide directly to these partners, and we encourage you to become familiar with their privacy and security practices and policies before disclosing information to them. 
+2\. We may also communicate with you from time to time electronically about news, promotions, special offers and other information from Goldmoney, regarding either Goldmoney or its selected partners. If you wish to unsubscribe to marketing emails from Goldmoney please contact [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#254844574e40514c4b4265424a4941484a4b405c0b464a48). We will strive to honour your request as soon as possible, and in any event within the next 10 business days. Please note, however, that this request will apply only to marketing emails and not to certain account-based information emails which will continue to be sent to account holders. We are not responsible for any additional information you provide directly to these partners, and we encourage you to become familiar with their privacy and security practices and policies before disclosing information to them. 
 
 ##  E. Information storage and retention 
 
@@ -109,7 +109,7 @@ Please contact us at [[email protected]](https://web.archive.org/cdn-cgi/l/emai
 
 2\. Your information may also be processed by employees or consultants of the Group who are located outside of the EEA. By submitting your personal data, you agree to this processing, storing, and transfer. 
 
-3\. We will retain your information for as long as you have an open Goldmoney Holding or Goldmoney Personal or Business Account or as is needed to provide you Goldmoney Services. If you wish to terminate Goldmoney Services or request that we no longer use your information to provide you services, please contact us on [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#6b1b19021d0a08122b0c04070f0604050e1245080406). We will retain and use your information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements. 
+3\. We will retain your information for as long as you have an open Goldmoney Holding or Goldmoney Personal or Business Account or as is needed to provide you Goldmoney Services. If you wish to terminate Goldmoney Services or request that we no longer use your information to provide you services, please contact us on [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#aadad8c3dccbc9d3eacdc5c6cec7c5c4cfd384c9c5c7). We will retain and use your information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements. 
 
 ##  F. Cookies and Other Tracking Technologies 
 
