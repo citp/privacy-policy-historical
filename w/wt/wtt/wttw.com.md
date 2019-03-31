@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wttw.com privacy policy that was archived on 2018-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181126165005id_/https%3A//interactive.wttw.com/wwci-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wttw.com privacy policy that was archived on 2019-03-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190331181813id_/https%3A//interactive.wttw.com/wwci-privacy-policy) for the most accurate reproduction.*
 
 # WWCI Privacy Policy | WTTW Chicago
 
@@ -18,7 +18,7 @@
 
 
 **Please Read:**  
-Window To The World Communications, Inc. (WWCI), licensee of television station WTTW/Chicago and radio station WFMT/FM, has created this "Privacy Policy" to demonstrate our commitment to protecting your privacy and security while visiting our website. We are committed to protecting the privacy and security of the users of our sites.
+Window to the World Communications, Inc. (WWCI), licensee of television station WTTW/Chicago and radio station WFMT/FM, has created this "Privacy Policy" to demonstrate our commitment to protecting your privacy and security while visiting our website. We are committed to protecting the privacy and security of the users of our sites.
 
 This privacy policy will advise you about how we protect your personal information, and about what choices you have concerning our use of such information. Please read this policy carefully. We may need to change this policy from time to time in order to address new issues and reflect changes on our sites. We will post those changes here so that you will always know what information we gather, how we might use that information, and whether we will disclose that information to anyone. Please refer back to this policy regularly.
 
