@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the spaceflightinsider.com privacy policy that was archived on 2018-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181120061154id_/http%3A//www.spaceflightinsider.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the spaceflightinsider.com privacy policy that was archived on 2019-03-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190331205409id_/https%3A//www.spaceflightinsider.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - SpaceFlight Insider
 
-Last updated on September 24th, 2016
+Last updated on November 21st, 2018
 
 We consider the privacy of our visitors to be extremely important. This privacy policy describes how information is collected, used and disclosed by SpaceFlight Insider (“us”, “we”, or “our”), and applies to information we collect when you use or access www.spaceflightinsider.com (the “Site”). We use this information only to provide and improve the Site. By using the Site, you agree to the collection and usage of information in accordance with this policy.
 
@@ -23,19 +23,43 @@ If you require additional information or have any questions regarding our privac
 
 ### Log Files
 
-Our Site makes use of web technical server log files to improve user experience. The information collected in these log files may include internet protocol address, Internet Service Provider, browser type, browser version, referring pages, the date and time of your visit, the duration of your visit, and the pages of our Site that you visit. The information gathered in these log files is not linked to any information that is personally identifiable.
+Our Site makes use of technical server log files to improve user experience. The information collected in these log files may include Internet Protocol addresses, internet service providers, browser types, browser versions, referring pages, the date and time of your visit(s), the duration of your visit(s), and the page(s) of our Site that you visit. The information gathered in these log files is not linked to any information that is personally identifiable.
 
 ### Cookies
 
-We use cookies to personalise content and ads, to provide social media features and to analyse our traffic. We also share information about your use of our Site with our social media, advertising and analytics partners who may combine it with other information you’ve provided to them or they’ve collected from your use of their services.
+“Cookies” are files containing small amounts of data, which may include anonymous unique identifiers. Cookies are sent to your browser from the Site or our advertising and analytics partners and stored on your computer.
+
+We use cookies to personalize content and ads, to provide social media features and to analyze our traffic. We also share information about your use of our Site with our social media, advertising and analytics partners, who may combine it with other information you’ve provided to them or they’ve collected from your use of their services.
 
 SpaceFlight Insider may also collect non-personally identifiable information from users via cookies, server log data and other similar technological means. Such information may be used to track site performance and enhance the user experience, and may be shared with trusted third parties.
 
 Third party vendors may use cookies to serve ads based on prior visits to the Site or other websites. To the extent third parties may place advertising on the Site, such third parties may utilize cookies or other technological means within the advertising to collect and utilize non-personally identifiable information. SpaceFlight Insider is not responsible for information collected by third parties in this manner, nor for the collection or use of information by other sites to which the Site is linked.
 
+You may instruct your browser to refuse cookies. However, if you do not accept cookies, you may not be able to use some portions of our Site.
+
+### Our Analytics Partners
+
+We use third party analytics partners to help analyze how visitors use the Site. Our analytics partners include Google, Inc. (“Google”) and Automattic Inc. (“Jetpack” or “Automattic”). Each of these analytics partners maintains their own privacy policy. You should consult the respective policies of these third-parties for more detailed information on their practices.
+
+**Google Analytics Cookies and Privacy**
+
+  * Google Analytics uses cookies to report on visitor interactions on the Site.
+  * Google Analytics may additionally collect Internet Protocol addresses to determine the country, state, or city of visitors.
+  * Visitors may opt out of Google Analytics by following the instructions in Google’s Analytics privacy policy. Google’s Analytics privacy policy can be reviewed at the following location: <https://support.google.com/analytics/answer/6004245?hl=en>
+
+
+
+**Jetpack / Automattic Cookies and Privacy**
+
+  * Automattic may collect a visitor’s Internet Protocol address, WordPress.com user ID and/or username (if logged in), browser type, browser language, visiting URL, referring URL, timestamp of event, and country code. This information is not made available to us and is only retained by Automattic for 28 days.
+  * Automattic may also track page views, video plays, outbound links, referring URLs, search engine terms, and the visitor’s country.
+  * Automattic’s privacy policy can be reviewed at the following location: <https://automattic.com/privacy/>
+
+
+
 ### Our Advertising Partners
 
-Some of our advertising partners may use cookies and web beacons on our site. Our advertising partners include Google, Inc. (“Google”) and Sovrn Holdings, Inc. (“Sovrn”). Each of these advertising partners maintains their own privacy policy. You should consult the respective privacy policies of these third-party partners for more detailed information on their practices.
+Some of our third party advertising partners may use cookies and web beacons on our site. Our advertising partners include Google, Inc. (“Google”) and Sovrn Holdings, Inc. (“Sovrn” or “Lijit”). Each of these advertising partners maintains their own privacy policy. You should consult the respective privacy policies of these third-parties for more detailed information on their practices.
 
 **Google / DoubleClick Cookies and Privacy**
 
