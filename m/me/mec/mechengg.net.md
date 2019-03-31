@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the mechengg.net privacy policy that was archived on 2018-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181130002413id_/http%3A//learnmech.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mechengg.net privacy policy that was archived on 2019-03-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190331155045id_/http%3A//learnmech.com/privacy) for the most accurate reproduction.*
 
 # Privacy - Learn Mechanical Engineering
 
-__January 5, 2015 [Privacy](http://learnmech.com/privacy/)2017-10-27T16:56:16+00:00
+__January 5, 2015 [Privacy](http://learnmech.com/privacy/)2017-10-27T16:56:16+05:30
 
  **Mechengg.Net Privacy Policy**
 
@@ -89,4 +89,4 @@ If there are any questions regarding this privacy policy you may contact us usin
 thoratsachin027@gmail.com
 
 Last Edited on 2017-27 -oct
-  *[January 5, 2015]: 2015-01-05T09:16:00+00:00
+  *[January 5, 2015]: 2015-01-05T09:16:00+05:30
