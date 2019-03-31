@@ -1,168 +1,124 @@
-> *The following text is extracted and transformed from the adzooks.co.uk privacy policy that was archived on 2018-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181219012441id_/http%3A//www.mirror.co.uk/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the adzooks.co.uk privacy policy that was archived on 2019-03-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190331101514id_/https%3A//www.preloved.co.uk/privacy) for the most accurate reproduction.*
 
-# Privacy Statement - Daily Mirror
+# Privacy Policy | Preloved
 
-**WHO WE ARE**
+You are here: 
 
-We are the publishing group Reach plc.  
+  1. [__**Home**](https://www.preloved.co.uk/ "Home page")
+  2. Preloved Privacy Policy
 
-In this Privacy Notice, when we refer to any of our Sites we mean any website or app, including e-editions, published by our various subsidiary companies and brands, listed [here](https://web.archive.org/our-brands/) (“Reach Group” or “we”), regardless of how you access it.
 
-**ABOUT THIS PRIVACY NOTICE**
 
-This is the main privacy notice for the Reach Group.  It applies to all our Sites, and brands, but some of them may publish additional or alternative notices, in which case those take precedence.
+Preloved is committed to protecting our customer's privacy. Please take the time to review this notice which explains what information we collect about you, how we use it, and your rights. Moo Limited trading as "Preloved" and "Preloved Classifieds" ("we" "our" "us") is the data controller of the personal data collected via or in connection with [www.preloved.co.uk](https://www.preloved.co.uk/) and/or [www.preloved.com](https://www.preloved.com/) and/or any associated website or App (the “Site”). 
 
-In summary, depending on your relationship with us, we’ll use your personal information:
+We take your privacy very seriously and are keen to ensure that you do not receive any unwelcome messages or spam as a result of your joining Preloved. 
 
-  * As needed to provide our products and services, for example to administer subscriptions, take orders and ad placements and handle customer service queries
-  * To provide the interactive features of our Sites, such as commenting, discussion forums and competitions
-  * To display advertising on our websites that is more likely to be relevant to you, and to participate in online advertising networks by sharing information about the kinds of people who visit our Sites, in order to help us to fund those Sites and keep the majority of them free to access.  Information gathered in this way does not identify you by name.
-  * To manage our business and to comply with the law.
+Most importantly: 
 
+  * We do not publish your email address on the web site; 
+  * You have complete control over any emails that Preloved sends you; 
+  * We do not share your details with any other company for marketing purposes. 
 
 
-This Privacy Notice, which covers all of your personal information whether collected online or offline, including by telephone or where you write to us, together with our Cookie Notice and any Site-specific notice, provides more detail on those activities and explains your rights and how to exercise them.
 
-For all of our Sites, and brands, either Reach plc or one of its subsidiary companies is the data controller of the personal information that we gather about you.  Regardless of which Reach Group company is the controller, you can always contact us with questions or concerns about your privacy by emailing us at [dataprotection@reachplc.com](mailto:dataprotection@reachplc.com)
+The policy below explains in detail how we manage your personal information. 
 
-**1\. TYPES OF INFORMATION WE PROCESS AND WHERE IT COMES FROM  **
+This policy together with our terms of use ( <https://www.preloved.co.uk/terms> ), our cookie policy ( <https://www.preloved.co.uk/cookies> ) and any other documents referred to therein sets out the basis on which any personal data we collect from you, or that you provide to us, will be processed by us. Please read the following carefully to understand our views and practices regarding your personal data and how we will treat it. 
 
-Information that we collect and process about you includes:
+###  What personal data do we collect about you? 
 
-  * Personal and contact details you have provided to us, such as your name, email address or postal address, for example when you register on a Site or to receive a newsletter, enter a sales promotion or competition, or at an Event, or where you have agreed to receive marketing materials from us or third parties;
-  * Information you have provided when you obtain products or services from us or enquire about those products or services;
-  * Information included in any communications between us or which you provide in any post on any Site or any information collected when you participate in any poll or quiz or obtained via social media or which is publicly available;
-  * Information about your use of third party products or services or from third parties who we may use to operate certain aspects of our business;
-  * Information obtained if we carry out a credit search at a credit search referencing agency;
-  * Information we buy or obtain from third parties, including marketing lists; and
-  * We also collect information from cookies on your devices and this includes information about your IP address, MAC address and other identifying information, information about your devices, including your location, from third party advertising networks and how you use our products and services.
+We collect personal data from you when you provide it to us directly and through your use of the Site. This information may include: 
 
+  * Information you provide to us when you use our Site; 
+  * Information that you provide by filling in forms on our Site. This includes information provided at the time of registering to use Preloved, subscribing to any of our services, posting material, sending messages or requesting further services. We may also ask you for information when you report an issue or concern in connection with your use of Preloved or we have received a complaint or query about you; 
+  * Details of transactions you carry out via Preloved; 
+  * Records of your interactions with us (e.g. if you contact our customer service team, interact with us on social media); 
+  * Information you provide us when you enter a competition or participate in a survey; 
+  * Information collected automatically using cookies and other tracking technologies (e.g. which pages you viewed and whether you clicked on a link in one of our email updates). We may also collect information about the device you use to access our Site; 
+  * Details of your visits to Preloved including, but not limited to, traffic data, location data, weblogs and other communication data, whether this is required for our own billing purposes or otherwise and the resources that you access; 
+  * Details of the messages you send and receive using our messaging service including without limitation, when you sent or received a message and the contents of that message. We may (but are not obliged to) view the contents of any message whether or not you have viewed its contents. Messages are not private and are not confidential. 
 
 
-For more information about cookies, please see our [Cookie Notice](https://web.archive.org/cookie-policy/)
 
-**2.   USE OF YOUR INFORMATION**
+###  What do we use this personal data for? 
 
-We want to offer you products and services which you want to use. We may use and permit others to use your personal data as set out below.
+Depending on how you use our Site, your interactions with us, and the permissions you give us, the purposes for which we use your personal data include: 
 
-We may use information about you to provide and manage the products and services you have subscribed to or purchased, to help us customise our products or services for you, to personalise your visits to our Sites, to help us to choose products and services we think will interest you, for market research and to improve the usefulness of our Sites, products and services.
+  * To fulfil your order and maintain your online account. 
+  * To manage and respond to any queries or complaints to our customer service team. 
+  * To personalise the Site to you and show you content we think you will be most interested in, based on your account information, your purchase history and your browsing activity. 
+  * To improve and maintain the Site, and monitor its usage. 
+  * For market research, e.g. we may contact you for feedback about our products. 
+  * To send you marketing messages and show you targeted advertising, where we have your consent or are otherwise permitted to do so. 
+  * For security purposes, to investigate fraud and where necessary to protect ourselves and third parties. 
+  * To comply with our legal and regulatory obligations. 
 
-We also use your personal data to contact you, including to notify you about changes and updates to products or services, to evaluate the performance of our products and services and to develop new products and services.
 
-We may use your information for the management of our business and improving the operation of our business and that of our business partners, to assess our internal processes and carry out financial checks.
 
-We may monitor, record and store records of calls, email, text messages, social media messages, in person meetings and other communications where permitted by law and we’ll do this where the law requires it, or to comply with regulatory rules, to prevent or detect crime, for evidential purposes, in the interests of protecting the security of our communications systems and procedures and for quality control and staff training purposes.
+We rely on the following legal basis, under data protection law, to process your personal data: 
 
-We may use your data to comply with legal and regulatory obligations.
+  * Because the processing is necessary to perform a contract with you, or take steps prior to entering into a contract with you (e.g. where you have made a purchase with us, we use your personal data to process the payment and fulfil your membership). 
+  * Because we have obtained your consent (e.g. where you contact us with a query, where you add optional information to your account profile, or if you consent to receive marketing from us). 
+  * Because it is in our legitimate interests as an e-commerce provider to maintain and promote our services. We are always seeking to understand more about our customers in order to offer the best products and customer experience. We use information about you to tailor your view of the Site, to make it more interesting and relevant in respect of the products and offers on view. 
 
-We may make use of your personal information for direct marketing activities, or supply this information to third parties for their direct marketing activities, with your consent or as permitted by law. By direct marketing activities, we mean the communication directly to particular individuals (by e-mail, post or telephone) of any advertising or marketing material.
 
-Where we’re relying upon your consent to process personal data, you can withdraw this at any time by contacting us at [dataprotection@reachplc.com](mailto:dataprotection@reachplc.com).
 
-Information about you helps us sell advertising to businesses of products and services relevant to you so that we can continue to fund these through advertising and you can continue to use the majority of our websites for free.
+###  Marketing 
 
-We may analyse your data, including whether or not you open a newsletter or click on links, and analyse data, gathered thorough our websites and advertising partners, including by analysing your data in aggregated form into categories (known as segments), to help target offers to you that we think are of interest or relevance to you. You can find more information on this in our [Cookie Notice](https://web.archive.org/cookie-policy/).
+We love to communicate with our customers and so, depending on your marketing preferences, we may use your personal data to send you marketing messages by email, phone or post. Some of these messages may be tailored to you, based on your previous browsing or purchase activity, and other information we hold about you. 
 
-We may disclose details about the use of the Sites to other businesses e.g. to demonstrate patterns of use to advertisers and others. The information we pass on will be anonymised. We compile anonymous records of user trends which we may make use of ourselves or pass to our associated companies, including advertising networks. You can read more about this in our [Cookie Notice](https://web.archive.org/cookie-policy/).
+If you no longer want to receive marketing communications from us (or would like to opt back in!), you can change your preferences at any time by contacting the Preloved Customer Service Team <https://secure.preloved.co.uk/contact>, clicking on the ‘unsubscribe’ link in any email, or updating your settings in your account. If you unsubscribe from marketing, please note that we may still contact you with service messages from time to time (e.g. membership queries, and information about your legal rights). 
 
-**3\. WHO WE SHARE YOUR PERSONAL INFORMATION WITH**
+You may also see ads for our Site on third party websites, including on social media. These ads may be tailored to you using cookies (which track your web activity and enable us to serve advertising to customers who have visited our Site). Where you see an ad on social media, this may be because we have engaged the social network to show ads to our customers, or users who match the demographic profile of our customers. In some cases, this may involve sharing your email address with the social network. If you no longer want to see tailored ads you can change your cookie and privacy settings on your browser and these third party websites. 
 
-We share information as needed with our third party service providers and partners, to other members if the Reach Group, as part of providing and administering our products and services or operating our business or as set out below.  
+###  Who do we share this personal data with? 
 
-We will disclose your information and co-operate with appropriate bodies and authorities in good faith  where we are required to by law, a court order, a regulatory authority, or otherwise, including with the police, trading standards, regulatory authorities or other relevant authorities.
+We share customers’ personal data with third parties in the following circumstances: 
 
-We may share information about you with credit reference agencies.
+  * With other companies in our group of companies, as necessary to operate the Site. 
+  * With our suppliers and service providers working for us, e.g. payment processors and delivery companies. 
+  * With our professional and legal advisors. 
+  * With third parties engaged in fraud prevention and detection. 
+  * With law enforcement or other governmental authorities, e.g. to report a fraud or in response to a lawful request. 
+  * In the event that we sell any business assets, the personal data of our customers may be disclosed to a potential buyer. In this event, we will make reasonable attempts to ensure the buyer will be bound by the terms of this Privacy Policy. 
+  * Otherwise where we have your consent or are otherwise legally permitted to do so. 
 
-We may also share information to facilitate the sale of one or more parts of our business, including if we are approached by a potential buyer or the restructuring of one or more parts of our business and with auditing organisations such as the Audit Bureau of Circulation
 
-**4\. COOKIES**
 
-We collect information about you automatically when you visit our Sites by using cookies (small text files) and other tracking technology. For more information about cookies, and other tracking technology including how to turn them off, please see our [Cookie Notice](https://web.archive.org/cookie-policy/).
+Preloved works with trusted third parties to help promote your adverts. By uploading an advert to Preloved, you consent to sharing your publicly available information with our trusted partners. If you want any more information on our third parties please contact us at <https://secure.preloved.co.uk/contact>. 
 
-**5\. TRANSFERS OUTSIDE OF EUROPE**
+###  Storage and Retention 
 
-We’re based in the UK and the Republic of Ireland but sometimes your personal information may be transferred outside the European Economic Area. If we do so we’ll make sure that suitable safeguards are in place, for example by using approved contractual agreements, unless certain exceptions apply.  We can provide more information about this on request.
+We use service providers based around the world. Consequently, your personal data may be processed in countries outside of Europe, including in countries where you may have fewer legal rights in respect of your data than you do under local law. If we transfer personal data outside the European Economic Area we will, as required by applicable law, ensure that your privacy rights are adequately protected by appropriate safeguards, in particular the EU’s standard contractual clauses. Please contact us if you would like more information about these safeguards. 
 
-**6\. WHAT ARE THE LEGAL GROUNDS FOR OUR PROCESSING OF YOUR PERSONAL INFORMATION (INCLUDING WHEN WE SHARE IT WITH OTHERS)?**
+We will keep your personal data for as long as we need it for the purposes set out above, and so this period will vary depending on your interactions with us. For example, where you have made a purchase with us, we will keep a record of your purchase for the period necessary for invoicing, tax and warranty purposes. We may also keep a record of correspondence with you (for example if you have made a complaint about a product) for as long as is necessary to protect us from a legal claim. Where we no longer have a need to keep your information, we will delete it. Please note that where you unsubscribe from our marketing communications, we will keep a record of your email address to ensure we do not send you marketing emails in future. 
 
-We rely on the following legal bases to use your personal data:
+###  Security 
 
-_A. Where it is needed to provide you with our products or services, such as:_
+This Site ensures that data is encrypted when leaving the Site. This process involves the converting of information or data into a code to prevent unauthorised access. This Site follows this process and employs secure methods to ensure the protection of all credit and debit card transactions. Encryption methods such as SSL are utilised to protect customer data when in transit to and from this Site over a secure communications channel. 
 
-  * Managing products and services you hold with us, or an enquiry about one
-  * Updating your records, tracing your whereabouts to contact you about your account and doing this for recovering debt (where appropriate)
-  * Sharing your personal information with third parties and services providers when you apply for a product or service to help manage your product or service
-  * All stages and activities relevant to managing any product or service including enquiry, application, administration and management of accounts
+Whilst we do everything within our power to ensure that personal data is protected at all times from our Site, we cannot guarantee the security and integrity of the information that has been transmitted to our Site. 
 
+###  Children 
 
+Our Site is not intended for, and should not be used by, children under the age of 18. We do not knowingly collect personal data from children under 18. 
 
-_B. Where it is in our legitimate interests to do so, such as:_
+###  Cookies 
 
-  * Managing your products and services, updating your records
-  * To perform and/or test the performance of, our products, services and internal processes
-  * For some direct marketing communications, subject to appropriate controls and safeguards
-  * To follow guidance and recommended best practice of government and regulatory bodies
-  * For management and audit of our business operations including accounting
-  * To carry out monitoring and to keep records of our communications with you and us
-  * To administer our good governance requirements and those of other members of our Group, such as internal reporting and compliance obligations or administration required for AGM processes
-  * For market research and analysis and developing statistics
-  * To provide insight and analysis of our customers to business partners either as part of providing products or services, helping us improve products or services, or to assess or to improve the operating of our businesses
-  * Where we need to share your personal information with people or organisations in order to run our business or comply with any legal and/or regulatory obligations
-  * To comply with our legal obligations or where we reasonably believe we are under a legal or regulatory obligation
+Our Sites uses cookies and similar technologies to provide certain functionality to the Site, to understand and measure its performance, and to deliver targeted advertising. Please see our Cookie Policy here: ( <https://www.preloved.co.uk/cookies> ) for further information about the cookies we use and how to amend your cookie settings. 
 
+###  Your rights 
 
+You have certain rights in respect of your personal data, including the right to access and correct your personal data, portability and request the erasure of your personal data. 
 
-_C. With your consent or explicit consent_
+You also have the right to object to your personal data being used for certain purposes, including to send you marketing. See **‘Marketing’** above, for more details of how to opt-out of marketing. 
 
-  * For some direct marketing communications and digital advertising activities
-  * For some of our processing of special data categories of personal data such as about your health
+We will comply with any requests to exercise your rights in accordance with applicable law. Please be aware, however, that there are a number of limitations to these rights, and there may be circumstances where we are not able to comply with your request. To make any requests regarding your personal data, or if you have any questions or concerns regarding your personal data, you should contact us using the details below. You are also entitled to contact your local supervisory authority for data protection. 
 
+Preloved may, from time to time, contain links to and from the websites of our partner networks, advertisers and affiliates. If you follow a link to any of these websites, please note that these websites have their own privacy policies and that we do not accept any responsibility or liability for these policies. Please check these policies before you submit any personal data to these websites. 
 
+###  Contact Us 
 
-**7\. HOW LONG DO WE KEEP YOUR DATA FOR?**
+If you have any queries on any aspect of our Privacy Policy, please contact us at <https://secure.preloved.co.uk/contact>. 
 
-In general, we keep your personal information for as long as we need it for the purpose for which it was collected, plus a short additional period in case of problems. How long we keep it therefore varies according to the type of information it is and why we have it, and will range from a few days or weeks to, in some cases, several years.  We have established a full data retention policy, and can provide further information on request.
-
-**8\. WHAT ARE YOUR RIGHTS UNDER DATA PROTECTION LAW?**
-
-The law gives you certain rights in respect of the information that we hold about you.  Below is a short overview of those rights. The website of the Information Commissioner’s Office ([http://www.ico.org.uk](http://www.ico.org.uk/)) has a wealth of useful information in respect of your rights over your personal data.
-
-If you wish to exercise your rights, you can  write to us by email [dataprotection@reachplc.com](mailto:dataprotection@reachplc.com)  or by post to Reach plc, One Canada Square, London E14 5AP, for the attention of the legal department.
-
-_**Your right to withdraw your consent**_
-
-If we are processing your personal data on the basis of your consent, you have the right to withdraw that consent at any time.
-
-_**Your right to access the information we hold about you**_
-
-With some exceptions designed to protect the rights of others, you have the right to a copy of the personal data that we hold about you, as well as information about what we do with it, who we share it with and how long we will hold it for.  We may make a reasonable charge for additional copies of that data beyond the first copy, based on our administrative costs.
-
-_**Your right to have inaccurate information about you rectified**_
-
-You have the right to have the information we hold about you corrected if it is factually inaccurate.
-
-_**Your right to object to what we do with your data, and to have restrictions placed upon it**_
-
-Where we process your personal data on the basis of our legitimate interest, you have the right to object to that processing and to have restrictions placed upon it while we consider your objection.
-
-_**Your right to have your information erased in some circumstances**_
-
-You have the right to require us to delete the information that we hold about you if it is no longer necessary for the purpose we collected it for, and there is no other legal basis on which we must, or are allowed to, retain it.
-
-_**Your right to stop receiving direct marketing from us**_
-
-You have the right to require us to stop sending you direct marketing material (for example, promotional emails).  It can sometimes take a few days to action these requests.
-
-_**Your right to complain to the Information Commissioner’s Office (ICO)**_
-
-You have the right to lodge a complaint about our handling of your personal data with the supervisory authority, which in the UK is the Information Commissioner’s Office. But before you do so, please do contact us first to give us a chance to put matters right, at [dataprotection@reachplc.com](mailto:dataprotection@reachplc.com)
-
-You can contact the ICO on 0303 123 1113.
-
-**9\. CHANGES TO THIS PRIVACY NOTICE**
-
-It’s likely that we’ll need to update this Privacy Notice from time to time.  Any changes to this Privacy Notice will be posted here and such changes will become effective as soon as they are posted. Your continued use of the relevant Site constitutes notice to you of all these changes.  
-
-**10\. CONTACT US**
-
-If you have any questions about this privacy notice, or if you wish to exercise your rights you can contact us email at [dataprotection@reachplc.com](mailto:dataprotection@reachplc.com). Alternatively, you can write to the Legal Department, Reach plc, One Canada Square, London E14 5AP
+**Last Updated:** 29/03/2018 
