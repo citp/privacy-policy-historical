@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the umassd.edu privacy policy that was archived on 2017-11-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171116200551id_/https%3A//www.umassd.edu/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the umassd.edu privacy policy that was archived on 2019-03-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190331095413id_/https%3A//www.umassd.edu/privacy) for the most accurate reproduction.*
 
-# Privacy - UMass Dartmouth
+# Privacy | UMass Dartmouth
 
 UMass Dartmouth is committed to preserving and maintaining the privacy of visitors to its websites.
 
@@ -21,4 +21,8 @@ Optional information is collected only if you choose to send it. For example if 
 
 
 
-The main UMass Dartmouth website is produced and maintained by the University of Massachusetts Dartmouth University Marketing Web Development Group. [Contact UMass Dartmouth Web Development](mailto:webdevelopment@umassd.edu).
+The main UMass Dartmouth website is produced and maintained by the University of Massachusetts Dartmouth University Marketing Web Development Group. [Contact UMass Dartmouth Web Development](mailto:webdevelopment@umassd.edu "Use alt + click to follow the link").
+
+## General Data Protection Regulation (GDPR)
+
+This website is intended for general use and is viewable on the internet throughout the world. If you are visiting this website from the European Union (EU), personal information you provide to the University may not be subject to the EU General Data Protection Regulation (GDPR).  The GDPR replaces the Data Protection Directive 95/46/EC and was designed to strengthen data privacy protections for EU residents. Should you have additional questions or need information regarding GDPR’s impact and its application to personal information provided to the University visit the [GDPR website](https://www.massachusetts.edu/gdpr).
