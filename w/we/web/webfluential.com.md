@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the webfluential.com privacy policy that was archived on 2018-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181123215545id_/https%3A//webfluential.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the webfluential.com privacy policy that was archived on 2019-03-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190331205056id_/https%3A//webfluential.com/privacy) for the most accurate reproduction.*
 
 # Webfluential | Privacy
 
