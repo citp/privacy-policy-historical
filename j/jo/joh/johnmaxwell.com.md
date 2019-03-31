@@ -1,85 +1,64 @@
-> *The following text is extracted and transformed from the johnmaxwell.com privacy policy that was archived on 2016-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161123124342id_/http%3A//www.johnmaxwell.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the johnmaxwell.com privacy policy that was archived on 2019-03-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190331225550id_/https%3A//www.johnmaxwellacademy.com/pages/privacy-policy) for the most accurate reproduction.*
 
-# The John Maxwell Company
+# Privacy Policy
 
-### What information do we collect?
+  1. **Introduction**    
 
-We collect information from you when you register on our site, place an order, subscribe to our newsletter, respond to a survey or fill out a form.
 
-When ordering or registering on our site, as appropriate, you may be asked to enter your name, e-mail address, mailing address, phone number or credit card information.
+Our Online Privacy Policy is intended to describe to you what data we collect and how and why we may use it.  It also provides options for you to access, update or otherwise take control of your personal data that we process.   
 
-### What do we use your information for?
+Personal information is any information that on its own, or in combination with other information could reasonably identify you.   
 
-Any of the information we collect from you may be used in one of the following ways:
+“Users” are defined as those who visit our websites, including those who download or view website materials, register for any of our services (such as online webinars or in-person corporate events). 
 
-**To personalize your experience**
+  2. **Personal Information We Collect**    
 
-Your information helps us to better respond to your individual needs.
 
-**To improve our website**
+We collect information from you when you create an account, purchase any of our products or services, sign up for an email subscription, request assistance from our customer support team, submit a form from our website (including surveys) or register for an event. 
 
-We continually strive to improve our website offerings based on the information and feedback we receive from you
+  3. **How we use Cookies**     
+We also collect information as you navigate our sites or use information based on your navigation of our site.  The information is collected through-the-use-of commonly used information-gathering tools such as Cookies.  We leverage this technology to customize your experience, to analyze trends and understand how our sites and services are used.   You may opt out of the use of cookies by configuring your web browser to delete and/or control the use of cookies.  
+ 
+  4. **How We Use Your Personal Information**    
 
-**To improve customer service**
 
-Your information helps us to more effectively respond to your customer service requests and support needs
+Any of the information we collect from you may be used in one of the following ways: 
 
-**To process transactions**
+    * To process transactions 
+    * To personalize your experience 
+    * To improve our website 
+    * To improve customer service 
+    * To send periodic e-mails  
+    * To contact you about The John Maxwell Company 
 
-Your information, whether public or private, will not be sold, exchanged, transferred, or given to any other company for any reason whatsoever, without your consent, other than for the express purpose of delivering the purchased product or service requested.
+Your information will not be sold, exchanged, transferred, or given to any other company for any reason without your consent, other than for the express purpose of delivering the purchased product or service requested.   
 
-**To send periodic emails**
+We share your personal information with law enforcement agencies, courts, other government authorities or other third parties that have a legal reason to obtain your information. 
 
-The email address you provide for order processing, may be used to send you information and updates pertaining to your order, in addition to receiving occasional company news, updates, related product or service information, etc.
+  5. **How we protect your information**    
 
-_Note: If at any time you would like to unsubscribe from receiving future emails, we include detailed unsubscribe instructions at the bottom of each email._
 
-**To contact you by phone**
+We follow industry standard security measures to protect your personal information when you purchase a product or request a service from us.  We partner with specialized providers for services such as billing, securing payments and fulfilling orders.   These providers will only have access to your personal information as is necessary to perform specific tasks on our behalf and are contractually obligated not to disclose or use it for other purposes.  
 
-### How do we protect your information?
+After a transaction, your private information (credit cards, social security numbers, financials, etc.) is never stored on our servers.   
 
-We implement a variety of security measures to maintain the safety of your personal information when you place an order or enter, submit, or access your personal information.
+  6. **Additional Information** ** **  
 
-We offer the use of a secure server. All supplied sensitive/credit information is transmitted via Secure Socket Layer (SSL) technology and then encrypted into our Payment gateway providers database only to be accessible by those authorized with special access rights to such systems, and are required to keep the information confidential.
+Your Consent:  By using our site, you consent to our privacy policy. 
 
-After a transaction, your private information (credit cards, social security numbers, financials, etc.) will not be stored on our servers.
+Changes to the Privacy Policy: If we identify the need to change our policy, those changes will be posted on this page.  
 
-### Do we disclose any information to outside parties?
+Contact Us:  
 
-We do not sell, trade, or otherwise transfer to outside parties your personally identifiable information. This does not include trusted third parties who assist us in operating our website, conducting our business, or servicing you, so long as those parties agree to keep this information confidential. We may also release your information when we believe release is appropriate to comply with the law, enforce our site policies, or protect ours or others rights, property, or safety. However, non-personally identifiable visitor information may be provided to other parties for marketing, advertising, or other uses.
+You may at any time request us to change, update or even remove any of your data.  If you believe that anyone has provided us with your personal information and you would like to request that it be removed from our database, please contact us at info@johnmaxwell.com. 
 
-### Third party links
+If at any time you would like to unsubscribe from receiving future e-mails, we include detailed unsubscribe instructions at the bottom of each e-mail. 
 
-Occasionally, at our discretion, we may include or offer third party products or services on our website or through our newsletters. These third party sites have separate and independent privacy policies. We therefore have no responsibility or liability for the content and activities of these linked sites. Nonetheless, we seek to protect the integrity of our site and welcome any feedback about these sites.
+If there are any questions regarding this online privacy policy, you may contact us at the address below:  
 
-### California Online Privacy Protection Act Compliance
+The John Maxwell Company    
+2170 Satellite Blvd, Suite 195    
+Duluth, GA 30097 
 
-Because we value your privacy we have taken the necessary precautions to be in compliance with the California Online Privacy Protection Act. We therefore will not distribute your personal information to outside parties without your consent. All users of our site may make any changes to their information at any time by logging in and editing their profile.
 
-### Childrens Online Privacy Protection Act Compliance
 
-We are in compliance with the requirements of COPPA (Childrens Online Privacy Protection Act), we do not collect any information from anyone under 13 years of age. Our website, products and services are all directed to people who are at least 13 years old or older.
-
-### Online Privacy Policy Only
-
-This online privacy policy applies only to information collected through our website and not to information collected offline.
-
-### Your Consent
-
-By using our site, you consent to our web site privacy policy.
-
-### Changes to our Privacy Policy
-
-If we decide to change our privacy policy, we will post those changes on this page. This policy was last modified on 1/1/2013
-
-### Contacting Us
-
-If there are any questions regarding this privacy policy you may contact us using the information below.
-
-The John Maxwell Company   
-2170 Satellite Blvd Suite 195  
-Duluth, GA 30097 US
-
-info@johnmaxwell.com
-
-* * *
