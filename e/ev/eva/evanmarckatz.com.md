@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the evanmarckatz.com privacy policy that was archived on 2017-02-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170216095558id_/http%3A//www.evanmarckatz.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the evanmarckatz.com privacy policy that was archived on 2019-03-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190331233907id_/https%3A//www.evanmarckatz.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Dating Coach - Evan Marc Katz | Understand Men. Find Love.
 
@@ -34,6 +34,65 @@ A “cookie” is a small text file that an Internet site can place on your comp
 
 Most Internet browsers are initially set up to accept cookies. However, you can reset your browser to refuse all cookies or to alert you when a cookie is being sent (note: you may need to consult your browser’s “Help” area for instructions on how to do that). If you choose to disable your cookies setting or refuse to accept a cookie, some parts of this site will not function properly or may perform considerably slower. For example, without cookies, you will not be able to set personalized preferences or you may have difficulty completing shopping transactions, listening to music or playing games.
 
+**_First, what is a cookie?_  
+**A cookie is a small file of letters and numbers that I/we store on your browser or the hard drive of your computer. You can find more information about web cookies here: <https://en.wikipedia.org/wiki/HTTP_cookie>
+
+**We use the following cookies:**
+
+  * **Strictly necessary cookies.**  These are cookies that are required for you to use the features available on this website. They include, for example, the ability to login and post a comment.
+  * **Analytical/performance cookies.**  These cookies allow us to recognize, track, and count the number of visitors who come to this website. They also allow us to track broken pages on the website and to count what visitors do when they click through the website.
+  * **Functionality cookies.**  These cookies allow us to track and remember your preferences for our website. For example, we can personalized content for you, greet you by name and/or remember your preferences (for example, your choice of language or region).
+
+
+
+We use two different kinds of cookies on this website: First party and third-party cookies (both defined in detail on the wikipedia link above).
+
+**First-party cookies**  
+These cookies are specifically about www.thewideawakening.com and soul.thewideawakening.com and track your usage of this website. These cookies are considered essential for the website to operate correctly. These cookies, none of which capture personally identifiable information, include:
+
+  * Visitor ID – this cookie is a numeric value that identifies unique visitors and provides coherence and consistency to a site visit- it is anonymous and contains no personally identifying information;
+  * Page number – this cookie identifies the page you are on;
+  * Session ID – this cookie identifies your website session;
+  * Test – this cookie checks whether or not your browser supports cookies;
+
+
+
+**Third-party cookies**  
+This website sets different types of third-party cookies to track usage, social sharing and more. These cookies are not under my/our control, and serve to help us understand the visitors who come to the website, as well as support our connection to other third party sites. (Again, see the wikipedia page above for detailed explanations of third party services/cookies).
+
+**Included in our list of third-party cookies are the following services:**
+
+  * **Google Analytics**  –Google Analytics is used to collect data about website usage. This data does not include personally identifiable information. You can view the Google Privacy Policy here: www.google.com/policies/privacy/.
+  * **Social Sharing** – a cookie is used when you use the social sharing service on our website to share a link with LinkedIn, Facebook, Twitter, etc. More information about the Sharing app privacy policy can be found here: https://jetpack.com/support/sharing/#privacy under the Site Visitors sections.
+  * **Facebook**  –a Facebook pixel may be used to obtain information regarding the activities that users engage in while visiting our web pages. For information on Facebook’s Privacy and Cookie policy, visit https://www.facebook.com/policies/cookies/
+  * **Blog Comments** – If you leave a comment on our site you may opt-in to saving your name, email address and website in cookies. These are for your convenience so that you do not have to fill in your details again when you leave another comment. These cookies will last for one year.
+
+
+
+**Your rights  **with **  cookies:**  
+Cookies are set by many entities and may include the website’s owners/developers/managers, plugins, third-party providers, advertisers and anyone else who collects or uses the website’s data.
+
+As a user of this (or any) website, you can block cookies by activating the setting on your browser that allows you to refuse the setting of some, or all cookies. However, if you use your browser settings to block all cookies (including essential cookies) you may not be able to access all or parts of the site.
+
+To learn how to block cookies, simply go to Google and type in “how do I block cookies” on whatever browser you use (Chrome, Firefox etc.) and you will find the details needed to block some or all cookies on your browser.
+
+**Additional data storage and privacy policy considerations**  
+In addition to the non-personally identifiable data collected by cookies, this website also offers the ability to contact with us via contact forms, newsletter registration forms, downloadable ebooks, free downloadable gifts, webinars and other similar files.
+
+To receive free gifts from this website, we require that you share your personal information consisting of your first and last name and your email address. In some cases we have additional optional fields. In most cases, information is gathered and stored in the website database or via a third-party service like Infusionsoft. All information gathered via any form on this website can be deleted upon request.
+
+Information and informational items are provided in exchange for adding your email address and possibly your name, business and or website information to one of our mailing lists. All mailing lists are stored and executed via Infusionsoft for the sole purpose of communicating information, as well as occasional marketing of services and products. Each mailing list will specifically detail what type of emails you may receive and possibly the frequency. You may unsubscribe from said email list(s) at any time by using the unsubscribe link provided in every email.
+
+_**ADDITIONAL:**_
+
+Articles on this site may include embedded content (e.g. videos, images, articles, etc.). Embedded content from other websites behave in the exact same way as if the visitor has visited the other website.
+
+These websites may collect data about you, use cookies, embed additional third-party tracking, and monitor your interaction with that embedded content, including tracing your interaction with the embedded content if you have an account and are logged in to that website.
+
+When visitors leave comments on the site, the data collection form collects the data shown in the comments form, and also the visitor’s IP address and browser user agent string to help spam detection. If you leave a comment, the comment and its metadata are retained indefinitely. This is so we can recognize and approve any follow-up comments automatically instead of holding them in a moderation queue. Visitor comments may be checked through an automated spam detection service.
+
+An anonymized string created from your email address (also called a hash) may be provided to the Gravatar service to see if you are using it. The Gravatar service privacy policy is available here: https://automattic.com/privacy/. After approval of your comment, your profile picture is visible to the public in the context of your comment.
+
 **_Copyright Information_  
 **Some images on evanmarckatz.com are readily available in various places on the Internet and believed to be in public domain. Images posted are believed to be posted within our rights according to the U.S. Copyright Fair Use Act (title 17, U.S. Code.)
 
@@ -58,4 +117,4 @@ We reserve the right to modify, alter or otherwise update this Privacy Policy at
 _**Acceptance of This Privacy Policy**_  
 By using this site, you consent to the collection and use of your Personal Information by evanmarckatz.com in accordance with this Privacy Policy.
 
-© 2013 evanmarckatz.com, All rights reserved.
+© 2018 evanmarckatz.com, All rights reserved.
