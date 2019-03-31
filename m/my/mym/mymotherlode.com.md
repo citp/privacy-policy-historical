@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mymotherlode.com privacy policy that was archived on 2018-09-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180909032453id_/https%3A//www.mymotherlode.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mymotherlode.com privacy policy that was archived on 2019-03-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190331195320id_/https%3A//www.mymotherlode.com/privacy-policy) for the most accurate reproduction.*
 
 # myMotherLode.com Privacy Policy - Sonora Mother Lode | myMotherLode.com
 
