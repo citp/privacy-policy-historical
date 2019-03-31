@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thegamehaus.com privacy policy that was archived on 2018-05-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180505174020id_/http%3A//thegamehaus.com/legal/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thegamehaus.com privacy policy that was archived on 2019-03-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190331153632id_/https%3A//thegamehaus.com/legal/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy • The Game Haus
 
@@ -28,7 +28,7 @@ This site collects certain user information, which may include a username and pa
   * Administer a contest, promotion, survey or other site feature or function
   * Send email to users
 
-help the site owner operate and manage the site, 
+help the site owner operate and manage the site,
 
 
 
@@ -65,3 +65,5 @@ If you have any questions about these Terms, please address them to robhanes23@g
 ## Last Updated
 
 These terms were last updated on _January 7, 2016_
+
+###  _Related_
