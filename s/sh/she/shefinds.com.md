@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the shefinds.com privacy policy that was archived on 2018-10-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181009141701id_/https%3A//www.shefinds.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shefinds.com privacy policy that was archived on 2019-03-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190331230806id_/https%3A//www.shefinds.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -53,7 +53,7 @@ Children
 We do not intentionally collect any information from children.
 
 Contact  
-If you should have any questions about our privacy policy, please contact us at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection)
+If you should have any questions about our privacy policy, please contact us at info@shefinds.com.
 
 This policy was last updated April 2015.
 
