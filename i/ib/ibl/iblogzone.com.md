@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the iblogzone.com privacy policy that was archived on 2018-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181230192155id_/http%3A//www.iblogzone.com/about/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the iblogzone.com privacy policy that was archived on 2019-03-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190331174050id_/http%3A//www.iblogzone.com/about/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
