@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the football-talk.co.uk privacy policy that was archived on 2018-09-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180902093524id_/http%3A//football-talk.co.uk/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the football-talk.co.uk privacy policy that was archived on 2019-03-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190331050012id_/https%3A//football-talk.co.uk/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Football Talk | Premier League News
 
