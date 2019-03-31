@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nonprofitmarketingblog.com privacy policy that was archived on 2018-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181130194352id_/https%3A//www.networkforgood.com/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nonprofitmarketingblog.com privacy policy that was archived on 2019-03-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190331073737id_/https%3A//www.networkforgood.com/about/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Network for Good
 
