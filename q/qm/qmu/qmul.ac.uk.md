@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the qmul.ac.uk privacy policy that was archived on 2018-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181208103839id_/https%3A//www.qmul.ac.uk/site/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the qmul.ac.uk privacy policy that was archived on 2019-03-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190331200603id_/https%3A//www.qmul.ac.uk/site/privacy) for the most accurate reproduction.*
 
 # Privacy and cookies - Queen Mary University of London
 
