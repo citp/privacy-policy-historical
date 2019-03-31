@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pehub.com privacy policy that was archived on 2018-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181231022447id_/https%3A//www.pehub.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pehub.com privacy policy that was archived on 2019-04-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190401011345id_/https%3A//www.pehub.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - PE Hub
 
@@ -129,4 +129,4 @@ Buyouts Insider uses commercially reasonable controls to safeguard data against 
 
 
 
-If you have any questions or suggestions for this Privacy Policy, please email questions to [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#0b687e787f64666e79786e797d62686e4b697e72647e7f78626578626f6e7925686466). You can also reach us by mail at 9 E 38th St, 11th Floor, New York, NY 10016. Contact information for Buyouts Insider staff is available on our [Contact Us page](https://www.pehub.com/contact-us/).
+If you have any questions or suggestions for this Privacy Policy, please email questions to [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#f89b8d8b8c97959d8a8b9d8a8e919b9db89a8d81978d8c8b91968b919c9d8ad69b9795). You can also reach us by mail at 9 E 38th St, 11th Floor, New York, NY 10016. Contact information for Buyouts Insider staff is available on our [Contact Us page](https://www.pehub.com/contact-us/).
