@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the atkins.com privacy policy that was archived on 2018-09-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180911162158id_/https%3A//www.atkins.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the atkins.com privacy policy that was archived on 2019-04-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190401000439id_/https%3A//www.atkins.com/privacy-policy) for the most accurate reproduction.*
 
-# Effective Date: 11/17/14 | Atkins
+# Privacy Policy | Atkins
 
 Atkins Nutritionals, Inc. (“ANI," “we" or “us") values your privacy. In this Privacy Policy (“Policy"), we describe how we collect, use, and disclose information that we obtain about visitors to our websites, [www.atkins.com](http://www.atkins.com/), community.atkins.com, and [www.atkins-HCP.com](http://www.atkins-hcp.com/) (including any forums and chat rooms accessible these websites, all collectively, the “Site") and the features and services available through the Site (collectively, the “Services"), and how we use and disclose that information. If you are using our mobile application, please click here to read a privacy policy specifically designed for the App. Please read this Privacy Policy ("Policy") carefully to understand how we will collect and use your information.
 
@@ -44,15 +44,15 @@ Information We Collect About You
 
 We collect information about you directly from you and from third parties, as well as automatically through your use of the Site or our Services.
 
- **Information We Collect Directly From You**
+## Information We Collect Directly From You
 
 We collect information from you when you register to be a member on our Site, purchase products from us, and otherwise interact with our Site and Services. The type of information that we collect from you varies based on your particular interaction with our Site, but may include, without limitation, your name, address, and email address, and any other information that you choose to provide
 
- **Information We Collect Automatically**
+## Information We Collect Automatically
 
 We may automatically collect the following information about your use of our Site or Services through cookies, web beacons, and other technologies: your domain name; your browser type and operating system; web pages you view; links you click; your IP address; the length of time you visit our Site and use our Services; and the referring URL, or the webpage that led you to our Site. We also may collect information about you automatically if you “Like Us", follow us, or click on other social media plug ins, such as the information listed above. We may combine this information with other information that collect about you. Please see the section “Cookies and Other Tracking Mechanisms" below for more information.
 
- **How We Use Your Information**
+## How We Use Your Information
 
 We use your information, including your personal information, for the following purposes:
 
@@ -68,7 +68,7 @@ To communicate with you. For example, we will send you a welcome email when you 
 
 To better understand how users access and use our Site and Services, both on an aggregated and individualized basis, in order to improve our Site and Services and respond to user desires and preferences, and for other research and analytical purposes.
 
- **How We Share Your Information**
+## How We Share Your Information
 
 We may share your information, including personal information, as follows:
 
@@ -90,11 +90,11 @@ Aggregate and De-Identified Information. We may share aggregate or de-identified
 
 Legal Purposes. To enforce our Terms of Use; for example, to protect the security of our Site, as required by law or when we believe that disclosure is necessary to protect our rights.
 
- **Connecting with Fitness Trackers and Our Mobile App**
+## Connecting with Fitness Trackers and Our Mobile App
 
 If you are a part of our online community or have downloaded your App, you have the option of uploading data from certain fitness trackers to our Site or our App (the permissible trackers may change from time to time). In addition, if you download our App, you may synch your account on our Site with your App.
 
- **Cookies and Other Tracking Mechanisms**
+## Cookies and Other Tracking Mechanisms
 
 We and our third party service providers use cookies and other tracking mechanisms to track information about your use of our Site or Services. We may combine this information with other personal information we collect from you (and our third party service providers may do so on our behalf).
 
@@ -110,15 +110,15 @@ Local Storage Objects. We may use Flash Local Storage Objects (“Flash LSOs") t
 
 Clear GIFs, pixel tags and other technologies. Clear GIFs are tiny graphics with a unique identifier, similar in function to cookies. In contrast to cookies, which are stored on your computer's hard drive, clear GIFs are embedded invisibly on web pages. We may use clear GIFs (a.k.a. web beacons, web bugs or pixel tags), in connection with our Site to, among other things, track the activities of Site visitors, help us manage content, and compile statistics about Site usage. We and our third party service providers also use clear GIFs in HTML e-mails to our customers, to help us track e-mail response rates, identify when our e-mails are viewed, and track whether our e-mails are forwarded.
 
- **Do-Not-Track**
+## Do-Not-Track
 
 Currently, our systems do not recognize browser “do-not-track" requests. You may, however, disable certain tracking as discussed in this section (e.g., by disabling cookies); you also may opt-out of targeted advertising by following the instructions in the Third Party Ad Network section.
 
- **Third-Party Analytics**
+## Third-Party Analytics
 
 We use automated devices and applications, such as Google Analytics, to evaluate usage of our Site and, to the extent permitted, our Application. We also may use other analytic means to evaluate our Services. We use these tools to help us improve our Services, performance and user experiences. These entities may use cookies and other tracking technologies to perform their services. You may opt-out of analytics by visiting the [Google Analytics Opt-out page.](https://tools.google.com/dlpage/gaoptout) 
 
- **Third-Party Ad Networks**
+## Third-Party Ad Networks
 
 We use third parties such as network advertisers to display advertisements on our Site, to assist us in displaying advertisements on third party websites, and to evaluate the success of our advertising campaigns. Network advertisers are third parties that display advertisements based on your visits to our Site as well as other websites. This enables us and these third parties to target advertisements by displaying ads for products and services in which you might be interested. Third party ad network providers, advertisers, sponsors and/or traffic measurement services may use cookies, JavaScript, web beacons (including clear GIFs), Flash LSOs and other technologies to measure the effectiveness of their ads and to personalize advertising content to you. These third party cookies and other technologies are governed by each third party's specific privacy policy, not this one. We may provide these third-party advertisers with information about your usage of our Site and our services, as well as aggregate or non-personally identifiable information about visitors to our Site and users of our service.
 
@@ -128,19 +128,19 @@ You also may opt out of ad networks that are members of NAI and DAA members, by 
 
 Opting out of one or more NAI member or DAA member networks (many of which will be the same) only means that those members no longer will deliver targeted content or ads to you. It does not mean you will no longer receive any targeted content or ads on our Site or other websites. You may continue to receive advertisements, for example, based on the particular website that you are viewing. Also, if your browsers are configured to reject cookies when you visit this opt-out page, or you subsequently erase your cookies, use a different computer or change web browsers, your NAI or DAA opt-out may no longer be effective. Additional information is available on NAI's and DAA's websites accessible by the above links.
 
- **User-Generated Content**
+## User-Generated Content
 
 We invite you to post content on our Site (including our chatrooms/forums) your comments, pictures, and any other information that you would like to be available on our Site. If you post content to our Site, all of the information that you post will be available to all visitors to our Site or, in some cases, only registered users on our Site. If you post your own content on our Site or Services, your posting may become public and we cannot prevent such information from being used in a manner that may violate this Policy, the law, or your personal privacy.
 
- **Third-Party Links**
+## Third-Party Links
 
 Our Site and Services may contain links to third-party websites. Any access to and use of such linked websites is not governed by this Policy, but instead is governed by the privacy policies of those third party websites. We are not responsible for the information practices of such third party websites. Other sites accessible through our Site have their own privacy policies and data collection, use and disclosure practices. Please consult each site's privacy policy. You should contact these sites directly if you have any questions about their use of the information that they collect. We are not responsible for the policies or practices of third parties. We cannot control this collection of information.
 
- **Security of My Personal Information**
+## Security of My Personal Information
 
 Please be aware that no data security measures can guarantee 100% security. You should take steps to protect against unauthorized access to your password, phone, and computer by, among other things, signing off after using a shared computer, choosing a robust password that nobody else knows or can easily guess, and keeping your log-in and password private. We are not responsible for any lost, stolen, or compromised passwords or for any activity on your account via unauthorized password activity.
 
- **What Choices Do I Have Regarding Use of My Personal Information?**
+## What Choices Do I Have Regarding Use of My Personal Information?
 
 We may send periodic promotional or informational emails to you. You may opt-out of such communications by following the opt-out instructions contained in the e-mail or by contacting us by email at contactus@atkins.com or completing the form at [www.atkins.com/contact-us](http://www.atkins.com/contact-us). Please note that it may take up to 10 business days for us to process opt-out requests. If you opt-out of receiving emails about recommendations or other information we think may interest you, we may still send you e-mails about your account or any Services you have requested or received from us.
 
@@ -148,7 +148,7 @@ To request removal of your personal information from our blog or community forum
 
 Children Under 13 Our Site and Services are not directed toward children under age 13. We do not knowingly collect information from anyone under age 13.
 
- **Special Information for California Consumers**
+## Special Information for California Consumers
 
 California residents may request a list of certain third parties to which we have disclosed personally identifiable information about you for their own direct marketing purposes. You may make one request per calendar year. In your request, please attest to the fact that you are a California resident and provide a current California address for your response. You may request this information in writing by contacting us at:
 
@@ -163,7 +163,7 @@ Denver, CO 80202
 
 Please allow up to thirty (30) days for a response.
 
- **Contact Us**
+## Contact Us
 
 Please contact us by sending an email to contactus@atkins.com or you can write to us at:
 
@@ -175,6 +175,6 @@ Attention: Legal Department/Privacy
 
 Denver, CO 80202
 
- **Changes to this Policy**
+## Changes to this Policy
 
 This Policy is current as of the Effective Date set forth above. We may change this Policy from time to time, so please be sure to check back periodically. We will post any changes to this Policy on our Site. If we make any changes to this Policy that materially affect our practices with regard to the personal information we have previously collected from you, we will endeavor to provide you with notice in advance of such change by highlighting the change on our Site.
