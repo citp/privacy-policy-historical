@@ -1,68 +1,66 @@
-> *The following text is extracted and transformed from the canesinsight.com privacy policy that was archived on 2017-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171120052641id_/https%3A//www.canesinsight.com/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the canesinsight.com privacy policy that was archived on 2019-03-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190331202104id_/https%3A//www.canesinsight.com/help/privacy-policy) for the most accurate reproduction.*
 
-# Google Adsense Privacy Policy
+# Privacy policy | CanesInSight
 
-##  [Google Adsense 3rd Party Cookie Info]() [](https://www.canesinsight.com/privacy_policy.php#top)
+We are CanesInSight ("we", "our", "us"). We’re committed to protecting and respecting your privacy. If you have questions about your personal information please [contact us](https://web.archive.org/misc/contact/).
 
-As with most other websites, We collect and use the data contained in log files. The information in the log files include your IP (internet protocol) address, your ISP (internet service provider, such as AOL or Shaw Cable), the browser you used to visit our site (such as Internet Explorer or Firefox), the time you visited our site and which pages you visited throughout our site.
+## What information we hold about you
 
-  
+The type of data that we collect and process includes:
 
-
-##  [Registration]() [](https://www.canesinsight.com/privacy_policy.php#top)
-
-Registration is not necessary for the public to use this Web site. However, members must register in order to gain access to adding threads to the Web site. During registration, you must complete the registration form and create a user name and password. During registration you are required to give us contact information. We use this information to contact you about the services on our site in which you have expressed interest.We are the sole owner of the information collected on this Web site.
-
-  
+  * Your name or username.
+  * Your email address.
+  * Your IP address.
 
 
-##  [Security]() [](https://www.canesinsight.com/privacy_policy.php#top)
 
-We follow generally accepted industry standards to protect the personal information submitted to us, both during transmission and once we receive it. No method of transmission over the Internet, or method of electronic storage, is 100% secure, however. Therefore, while we strive to use commercially acceptable means to protect your personal information, we cannot guarantee its absolute security.
+Further data may be collected if you choose to share it, such as if you fill out fields on your profile.
 
-  
+We collect some or all of this information in the following cases:
 
-
-##  [Ad Servers]() [](https://www.canesinsight.com/privacy_policy.php#top)
-
-To try and bring you offers that are of interest to you, we have relationships with other companies that we allow to place ads on our Web pages. As a result of your visit to our site, ad server companies may collect information such as your domain type, your IP address and clickstream information. For further information, consult the privacy policies of:  
-[ **Google**](http://www.google.com/privacypolicy.html) **  
-[vBulletin](http://www.vbulletin.org/forum/info.php?do=privacy)**[](http://www.vbulletin.org/forum/info.php?do=privacy)  
- **If you have any questions about security on our Web site, you can send email:[Here](https://www.canesinsight.com/sendmessage.php)**
-
-  
+  * You register as a member on this site.
+  * You fill out our contact form.
+  * You browse this site. See "Cookie policy" below.
+  * You fill out fields on your profile.
 
 
-##  [Opt-Out Policy]() [](https://www.canesinsight.com/privacy_policy.php#top)
 
-We give users options wherever necessary and practical. Such choices include:  
-Opting not to register to receive our electronic newsletters.  
-Opting not to participate in certain interactive areas, which completely alleviates the need to gather any personally identifiable information from our user
+## How your personal information is used
 
-  
+We may use your personal information in the following ways:
 
-
-##  [Consent]() [](https://www.canesinsight.com/privacy_policy.php#top)
-
-By using this site, you consent to the collection and use of this information by us.
-
-  
+  * For the purposes of making you a registered member of our site, in order for you to contribute content to this site.
+  * We may use your email address to inform you of activity on our site.
+  * Your IP address is recorded when you perform certain actions on our site. Your IP address is never publicly visible.
 
 
-##  [Disclaimer]() [](https://www.canesinsight.com/privacy_policy.php#top)
 
-We reserve the right to disclose your personally identifiable information as required by law and when we believe that disclosure is necessary to protect our rights and/or to comply with a judicial proceeding, court order, or legal process served on our Web site.
+## Other ways we may use your personal information.
 
-  
+In addition to notifying you of activity on our site which may be relevant to you, from time to time we may wish to communicate with all members any important information such as newsletters or announcements by email. You can opt-in to or opt-out of such emails in your profile.
 
+We may collect non-personally identifiable information about you in the course of your interaction with our site. This information may include technical information about the browser or type of device you're using. This information will be used purely for the purposes of analytics and tracking the number of visitors to our site.
 
-##  [Changes in this Privacy Statement]() [](https://www.canesinsight.com/privacy_policy.php#top)
+## Keeping your data secure
 
-If we decide to change our privacy policy, we will post those changes to this privacy statement, the homepage, and other places we deem appropriate so that you are aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it.  
-We reserve the right to modify this privacy statement at any time, so please review it frequently. If we make material changes to this policy, we will notify you here, by email, or by means of a notice on our home page.  
+We are committed to ensuring that any information you provide to us is secure. In order to prevent unauthorized access or disclosure, we have put in place suitable measures and procedures to safeguard and secure the information that we collect.
 
+## Cookie policy
 
-  
-**PLEASE NOTE that opting out of the ad-serving cookie does not mean that you will stop seeing either pop up advertising or banner ads embedded in websites! You can control many pop ups by using free software available on the Internet or by disabling JavaScript on your browser. DoubleClick has no control over the use or frequency of pop-up ads employed by website publishers or software manufacturers.** For more information about pop-up ads, please [click here](https://www.canesinsight.com/us/about_doubleclick/privacy/faq.asp#pop-ups) **.** | **DoubleClick Opt-out Click link below**  
-[](http://optout.doubleclick.net/cgi-bin/dclk/optout.pl)  
----|---
+Cookies are small text files which are set by us on your computer which allow us to provide certain functionality on our site, such as being able to log in, or remembering certain preferences.
+
+We have a detailed cookie policy and more information about the cookies that we set on [this page](https://web.archive.org/help/cookies).
+
+## Rights
+
+You have a right to access the personal data we hold about you or obtain a copy of it. To do so please [contact us](https://web.archive.org/misc/contact/). If you believe that the information we hold for you is incomplete or inaccurate, you may [contact us](https://web.archive.org/misc/contact/) to ask us to complete or correct that information.
+
+You also have the right to request the erasure of your personal data. Please [contact us](https://web.archive.org/misc/contact/) if you would like us to remove your personal data.
+
+## Acceptance of this policy
+
+Continued use of our site signifies your acceptance of this policy. If you do not accept the policy then please do not use this site. When registering we will further request your explicit acceptance of the privacy policy.
+
+## Changes to this policy
+
+We may make changes to this policy at any time. You may be asked to review and re-accept the information in this policy if it changes in the future.
