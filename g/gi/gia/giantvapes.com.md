@@ -1,11 +1,11 @@
-> *The following text is extracted and transformed from the giantvapes.com privacy policy that was archived on 2018-07-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180730104121id_/https%3A//www.giantvapes.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the giantvapes.com privacy policy that was archived on 2019-03-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190331020851id_/https%3A//www.giantvapes.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy and Terms for Giant Vapes | Giant Vapes
 
 Effective May 25, 2018
 
   
-Welcome! We at Giant Vapes, LLC (“Giant Vapes,” “we,” “us”) thank you for visiting our website (“Site”). This **PRIVACY NOTICE** (“Privacy Notice”) describes the ways in which your privacy is protected when you access, interact with and use this Site. By using this Site, you agree to all Giant Vapes policies made available to you within this Site including, but not limited to, our Terms and Conditions of Use and Sale (available on the Internet at http://www.giantvapes.com/terms-conditions/ (“Terms”), which are hereby incorporated by this reference. Capitalized terms not otherwise defined in this Privacy Notice shall have the meanings ascribed to them in the Terms.
+Welcome! We at Giant Vapes, LLC (“Giant Vapes,” “we,” “us”) thank you for visiting our website (“Site”). This **PRIVACY NOTICE** (“Privacy Notice”) describes the ways in which your privacy is protected when you access, interact with and use this Site. By using this Site, you agree to all Giant Vapes policies made available to you within this Site including, but not limited to, our Terms and Conditions of Use and Sale (available on the Internet at https://www.giantvapes.com/terms-conditions/ (“Terms”), which are hereby incorporated by this reference. Capitalized terms not otherwise defined in this Privacy Notice shall have the meanings ascribed to them in the Terms.
 
   
 With respect to the collection of your information, if you do not want your personal information collected, please do not submit it to us. If you have already submitted information and would like to review, correct, or remove it from our records, please contact [privacy@giantvapes.com](mailto:privacy@giantvapes.com).
