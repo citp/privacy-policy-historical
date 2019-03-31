@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the thepassivevoice.com privacy policy that was archived on 2018-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181202034346id_/http%3A//www.thepassivevoice.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thepassivevoice.com privacy policy that was archived on 2019-03-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190331121236id_/https%3A//www.thepassivevoice.com/privacy) for the most accurate reproduction.*
 
-# Privacy - The Passive Voice
+# Privacy
 
 **This is a GDPR notification.**
 
@@ -12,10 +12,10 @@ Feedburner also provides an RSS feed of blog posts and related information on TP
 
 Feedburner is owned by Google. TPV has no control over these tools or  Feedburner’s operations, is not affiliated with Feedburner, beyond using its services as described and does not collect any data as a result of their use. Google may collect and/or process your data in these circumstances. If you have any concerns regarding Google’s use of your personal data following use of these tools, you may read Google’s policy   **[here](https://policies.google.com/privacy/update)** and **[here](https://policies.google.com/privacy)**.  Google’s Privacy Policy may also be found by  **[searching for the Google Privacy Policy](https://www.google.com/search?q=google+privacy+policy&rlz=1C1CHBF_enUS714US714&oq=google+privacy+policy)**  .
 
-TPV relies on its legitimate interests to process this data so that we can keep you up to date with developments as reported on TPV. TPV does not make any other use of this data.
+TPV relies on its legitimate interests to process the email addresses and RSS data so that we can keep you up to date with developments as reported on TPV. TPV does not make any other use of this data.
 
-In addition some blog posts or comments may include personal data such as the names of people who wrote blogposts, posted information elsewhere online, made comments or similar. These posts are often shared on social media including TPV’s  **[Twitter account](https://twitter.com/passivevoiceblg) **and TPV’s [ **Facebook** **page**](https://www.facebook.com/PassiveVoiceBlog/). The privacy policies of Twitter and Facebook will apply to information posted on their websites.
+In addition some blog posts or comments may include personal data such as the names of people who wrote blogposts, posted information elsewhere online, made comments or similar types of information. These posts are often shared on social media including TPV’s  **[Twitter account](https://twitter.com/passivevoiceblg) **and TPV’s [ **Facebook** **page**](https://www.facebook.com/PassiveVoiceBlog/). The privacy policies of Twitter and Facebook will apply to information posted on their websites.
 
-TPV respects your personal data and takes care to maintain its confidentiality.
+TPV respects your personal data and takes care to maintain its confidentiality. PG has never and will never sell any personal data you provide to any third party.
 
-If you would like any personal data which is included in blogposts or comments to be removed or have any questions about the TPV’s data privacy policy, please email  TPV through the **[Contact Page](http://www.thepassivevoice.com/contact/)**  .
+If you would like any personal data which is included in blog posts or comments to be removed or have any questions about the TPV’s data privacy policy, please email  TPV through the **[Contact Page](http://www.thepassivevoice.com/contact/)**  .
