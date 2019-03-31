@@ -1,19 +1,16 @@
-> *The following text is extracted and transformed from the packers.com privacy policy that was archived on 2018-05-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180519021012id_/http%3A//www.packers.com/footer/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the packers.com privacy policy that was archived on 2019-03-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190331044028id_/https%3A//www.packers.com/fans/privacy-policy) for the most accurate reproduction.*
 
-# Packers.com | Privacy Policy
+# Packers Privacy Policy | Green Bay Packers – packers.com
 
-###### Green Bay Packers Website Privacy Policy
+## Green Bay Packers Website Privacy Policy
 
-[](https://privacy.truste.com/privacy-seal/validation?rid=9cfff619-36a1-45bf-9d94-b477fd3a46a3)
+Updated: November 2017
 
-_Updated: November 2017  
-_
+This privacy policy applies to the Green Bay Packers' websites located at [www.packers.com](http://www.packers.com/), webmail.gbpackersfan.com, [www.packerseverywhere.com](http://www.packerseverywhere.com/), [www.packersproshop.com](http://www.packersproshop.com/), [www.titletown.com](http://www.titletown.com/), [www.packersperks.com](http://www.packersperks.com/), its mobile applications and other services that link to it ("Services"). The purpose of this privacy policy is to disclose to you what information we may collect, how we may collect it, with whom we may share it, and certain other matters related to such information, including the choices you have regarding our collection of information and our use and disclosure to other parties of information we may have collected from you.
 
-This privacy policy applies to the Green Bay Packers' websites located at [www.packers.com](http://www.packers.com/), [webmail.gbpackersfan.com](http://webmail.gbpackersfan.com/), [m.packers.com](http://m.packers.com/), [www.packerseverywhere.com](http://m.packersproshop.com/), [www.packersproshop.com](http://www.packersproshop.com/), [www.titletown.com](http://www.titletown.com/) and [www.packersperks.com](http://www.packersperks.com/), its mobile applications and other services that link to it ("Services"). The purpose of this privacy policy is to disclose to you what information we may collect, how we may collect it, with whom we may share it, and certain other matters related to such information, including the choices you have regarding our collection of information and our use and disclosure to other parties of information we may have collected from you.
+The Website is in part operated by DMInteractive, AmericanEagle.com and Delphic, a Hero Digital Companyon behalf of the Green Bay Packers (collectively, the "Green Bay Packers", "we", "our", or "us"). DMInteractive, AmericanEagle.com and Delphic, a Hero Digital Company do not own any information submitted through this website and cannot use this information for its own purposes.
 
-The Website is in part operated by _DMInteractive_ , _AmericanEagle.com_ and _Delphic, a Hero Digital Company_ on behalf of the Green Bay Packers (collectively, the "Green Bay Packers", "we", "our", or "us"). _DMInteractive_ , _AmericanEagle.com_ and _Delphic, a Hero Digital Company_ do not own any information submitted through this website and cannot use this information for its own purposes.
-
-If you have questions or concerns regarding this statement, you should first contact the Packers Manager of Digital at 920-569-7219 or privacy@packers.com. If you have an unresolved privacy or data use concern that we have not addressed satisfactorily, please contact our U.S.-based third party dispute resolution provider (free of charge) at <https://feedback-form.truste.com/watchdog/request>.
+If you have questions or concerns regarding this statement, please contact the Packers Manager of Digital at (920) 569-7219 or [privacy@packers.com](mailto:privacy@packers.com).
 
 When this privacy policy uses the term "personally identifiable information" or "personal information," we mean information that identifies a particular individual, such as your full name, street address or email address. When other information, such as a favorite team or player, is associated with personal information, it also becomes personally identifiable information for the purposes of this privacy policy.
 
@@ -35,7 +32,7 @@ Please read the information below to learn more about our data collection polici
 
 
 
-Types Of Information That May Be Collected
+**TYPES OF INFORMATION THAT MAY BE COLLECTED**
 
 The following are the types of information we may collect:
 
@@ -47,7 +44,7 @@ Site Usage Information: We may receive and store certain types of internet usage
 
 Email Communications: When you open emails from us, we may receive a confirmation noting you opened the email, if your computer supports such capabilities. We also may keep track of what emails we send you and what emails you may be receiving from our subsidiaries and affiliates. Additionally, we keep a record of what communications you have opted to receive or not to receive.
 
-How Information May Be Collected
+ **HOW INFORMATION MAY BE COLLECTED**
 
 We may collect information from you in several different areas on the Website, including but not limited to those described below:
 
@@ -61,13 +58,13 @@ Surveys or Voting: From time-to-time we may request personally identifiable info
 
 Cookies: As with many Websites, our Website uses a technology called "cookies." A cookie is a unique, random number that is stored in the browser on your computer. The cookie doesn't actually identify you, just the computer that is used to visit the site. Cookies automatically identify your browser to the Website whenever your computer is used to visit the Website. Cookies also let us know how many people visit our website and where visitors go on the site. In addition, cookies can let us know non-personally identifiable information, like what web browser is being used to access the website. For registered users, cookies can make using the Website easier for you by saving information such as your passwords or preferences. By tracking how and when you use the Website, cookies help us determine which areas are popular and which are not. Many improvements and updates to the Website are based on data obtained from cookies. Accepting cookies allows you, among other things, to personalize your experience on the Website. Cookies may also allow the Website to present to you advertising which may be of interest to you. If you do not want information collected through the use of cookies, your browser should contain an option that allows you to disable or delete cookie data at any time. Some areas of the Website, however, may not provide you with a personalized experience if you have disabled the use of cookies. Cookies are not tied to personal information, with the exception of the Packers Partners Message Boards.
 
-Local Storage & Other Tracking Technologies. We, along with third parties, may use other kinds of technologies, such as Local Shared Objects (also referred to as “Flash cookies”) and HTML5 local storage. These technologies are similar to the cookies discussed above in that they are stored on your device and can be used to store certain information about your activities and preferences. However, these technologies may make use of different parts of your device from standard cookies, and so you might not be able to control them using standard browser tools and settings. For HTML5 local storage, the method for disabling HTML5 will vary depending on your browser. For Flash cookies, information about disabling or deleting information contained in Flash cookies can be found [here](http://helpx.adobe.com/flash-player/kb/disable-local-shared-objects-flash.html).
+Local Storage & Other Tracking Technologies. We, along with third parties, may use other kinds of technologies, such as Local Shared Objects (also referred to as “Flash cookies”) and HTML5 local storage. These technologies are similar to the cookies discussed above in that they are stored on your device and can be used to store certain information about your activities and preferences. However, these technologies may make use of different parts of your device from standard cookies, and so you might not be able to control them using standard browser tools and settings. For HTML5 local storage, the method for disabling HTML5 will vary depending on your browser. For Flash cookies, information about disabling or deleting information contained in Flash cookies can be found [here](http://helpx.adobe.com/flash-player/kb/disable-local-shared-objects-flash.html).
 
 IP Addresses and Click-Stream Data: We may collect IP addresses and/or click-stream data. An IP address is a number associated with the service through which you access the Internet, like your ISP (Internet service provider), your company, or your university. Standing alone, your IP address is not personally identifiable. At times, we also use IP addresses for purposes of system administration and to report aggregate information to our advertisers and sponsors, for example regarding the frequency with which our guests visit various parts of our sites. We may combine this information with personally identifiable information. Click-stream data is information collected by our computers when you request Web pages from the Website. Click-stream data may include such information as the page served, the time, the source of the request, the type of browser making the request, the preceding page view and other such non-personal information. When analyzed, this data helps us analyze how visitors arrive at the Website, what type of content is most popular, what type of visitors in the aggregate are interested in particular kinds of content and advertising, and the like.
 
 Transaction Information: If you conduct a financial transaction with our Website, such as buy our products, we will ask you to complete an order form that will request certain information from you, including contact information, demographic information and financial information. We will use this information to complete the transaction that you have requested, i.e., to deliver the information, products or other services that you order, and to invoice you. For your protection, such information is collected and stored through encrypted means.
 
-How We Use The Information Collected
+ **HOW WE USE THE INFORMATION COLLECTED**
 
 As applicable, the information you provide to us may be used to:  
 contact you about the Website;  
@@ -79,7 +76,7 @@ customize the advertising and content you see;
 monitor compliance with our terms and conditions of use of the Website; and  
 send you promotional material or special offers on behalf of our marketing partners and/or their respective affiliates and subsidiaries and other third parties.
 
-With Whom The Information May Be Shared
+ **WITH WHOM THE INFORMATION MAY BE SHARED**
 
 At times, we may share your personal information with others for various purposes. The following outlines the ways in which your information may be shared with others and the ways in which you may opt-out of having your information shared:
 
@@ -93,35 +90,35 @@ Business Transfers: In the event that all or substantially all of our assets are
 
 Administrative or Legal Process: Your personal information may be transferred to third parties without notice to you in order to comply with applicable law, law enforcement agencies, to protect our rights, or protect the rights of other users of this website.
 
-Chat Rooms, Forums, and Message Boards
+ **CHAT ROOMS, FORUMS AND MESSAGE BOARDS**
 
-The Website may make chat rooms, forums and message boards available to its users. You are not required to provide any personal information when using these areas but you may choose to do so. If you post personal information online, it will be publicly available and you may receive unsolicited messages from other parties. We cannot ensure the security of any information you choose to make public in a chat room, forum, or message board. Also, we cannot ensure that parties who have access to such publicly available information will respect your privacy. Please exercise caution when deciding to disclose personal information in these areas. To request removal of your personal information from our blog or community forum, contact us at privacy@packers.com.  In some cases, we may not be able to remove your personal information, in which case we will let you know if we are unable to do so and why.
+The Website may make chat rooms, forums and message boards available to its users. You are not required to provide any personal information when using these areas but you may choose to do so. If you post personal information online, it will be publicly available and you may receive unsolicited messages from other parties. We cannot ensure the security of any information you choose to make public in a chat room, forum, or message board. Also, we cannot ensure that parties who have access to such publicly available information will respect your privacy. Please exercise caution when deciding to disclose personal information in these areas. To request removal of your personal information from our blog or community forum, contact us at [privacy@packers.com](mailto:privacy@packers.com). In some cases, we may not be able to remove your personal information, in which case we will let you know if we are unable to do so and why.
 
-Links To Other Websites
+ **LINKS TO OTHER WEBSITES**
 
 You should be aware that when you are on the Website you could be directed to other Websites beyond our control. For example, if you "click" on a banner advertisement, the "click" may take you off the Website onto a different Website. This includes links from advertisers, sponsors and marketing partners that may use the Website's logo as part of a co-branding agreement. These other Websites may send their own cookies to you, independently collect data or solicit personal information and may or may not have their own published privacy policies. If you visit a Website that is linked to our Website, you should consult that Website's privacy policy before providing any personal information.
 
-Security
+ **SECURITY**
 
 This Website incorporates reasonable safeguards to protect the security, integrity, completeness, accuracy and privacy of the personal information that we may collect and we have put into place reasonable precautions to protect such information from loss, misuse and alteration. Your personally identifiable information is transferred to our computers utilizing encryption software. Only those employees who need access to your information in order to do their jobs are allowed access. Our security policies are reviewed periodically and revised as required.
 
-A Special Note For Parents Concerning Privacy
+ **A SPECIAL NOTE FOR PARENTS CONCERNING PRIVACY**
 
 The Website is a general audience Website. We do not currently collect personal information from children under the age of thirteen on the Website except as permitted by law. If in the future, we collect personally identifiable information from children, we will do so in compliance with the Children's Online Privacy Protection Act including, without limitation, obtaining necessary parental consent when that law requires it.
 
-Your Acceptance Of The Privacy Policy And Notification Of Changes To The Policy
+ **YOUR ACCEPTANCE OF THE PRIVACY POLICY AND NOTIFICATION OF CHANGES TO THE POLICY**
 
 By using this Website, you signify your consent to the practices described in our privacy policy. We may amend this privacy policy at any time. If we make a material change to the way in which we collect, use, and/or share your personal information, we will post a notice on our website and / or send an email to users who have provided an email address. We will assume that you have given your permission for your information to be used under the terms of the new privacy policy, if you do not respond to our email within thirty days or continue to use the Website thirty days after a notice is posted. Please note that you should always update your personal information to provide us with a current email address.
 
-Correcting/Updating Personal Information
+ **CORRECTING/UPDATING PERSONAL INFORMATION**
 
 If your personally identifiable information changes (such as your email address or zip code), or if you no longer desire to access our Website, we will endeavor to provide a way to correct, update or remove the personal data you have provided to us. This can be done by using an opt out message in an email, or by emailing us at [privacy@packers.com](mailto:privacy@packers.com). We will respond to your request within 3-7 business days.
 
-International Transfers
+ **INTERNATIONAL TRANSFERS**
 
 This Website, our servers and our company are headquartered in the United States. Please be aware that if information you provide to us, or that we obtain as a result of your use of our services, may be collected in your country and subsequently transferred to the United States for the purposes described above. The privacy laws of the United States may not always offer the same level of protection as in your country. By using the Services, you consent to the collection, international transfer, storage, and processing of your information.
 
-Your California Privacy Rights
+ **YOUR CALIFORNIA PRIVACY RIGHTS**
 
 California residents may obtain specific information about a business's privacy practices if a company shares information with other companies for those companies' direct marketing purposes.
 
@@ -131,13 +128,13 @@ If you are a California resident and have questions about our compliance with th
 
 Some web browsers may transmit “do-not-track” signals to the websites with which the user communicates. Because of differences in how web browsers incorporate and activate this feature, it is not always clear whether users intend for these signals to be transmitted, or whether they even are aware of them. Because there currently is no industry standard concerning what, if anything, websites should do when they receive such signals, the Services currently do not take action in response to these signals. If and when a final standard is established and accepted, we will reassess how to respond to these signals.
 
-Questions About This Privacy Policy
+ **QUESTIONS ABOUT THIS PRIVACY POLICY**
 
 If you have any questions about this privacy policy or the privacy practices of this Website, contact [privacy@packers.com](mailto:privacy@packers.com).
 
 Questions regarding this statement should be directed to:
 
-Green Bay Packers   
-Attn: Website Privacy Policy - Privacy Manager   
-1265 Lombardi Avenue   
+Green Bay Packers  
+Attn: Website Privacy Policy - Privacy Manager  
+1265 Lombardi Avenue  
 Green Bay, WI 54304
