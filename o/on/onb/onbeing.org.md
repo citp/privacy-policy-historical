@@ -1,215 +1,154 @@
-> *The following text is extracted and transformed from the onbeing.org privacy policy that was archived on 2018-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181122063804id_/https%3A//onbeing.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the onbeing.org privacy policy that was archived on 2019-03-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190331201017id_/https%3A//onbeing.org/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy for On Being / KTPP | The On Being Project
+# Privacy Policy - The On Being Project
 
-Effective Date: May 24, 2018
+Effective Date: January 29, 2019
 
-Your privacy is critically important to us, and the following is our policy which incorporates this commitment. This page informs you of our policies regarding the collection, use, and disclosure of personal data when you use our Product and Content and the choices you have associated with that data.
+This site is owned and operated by the On Being Project (“the On Being Project,” “we,” “us,” and “our”), a not-for-profit 501(c)(3) organization.
 
-The On Being Project, formerly known as Krista Tippett Public Productions (KTPP), is a not-for-profit 501(c)(3) organization, where we have a few fundamental principles:
+This privacy policy describes our commitment to respect your privacy regarding any information we may collect while operating our websites. It reflects the importance we place on earning and keeping your trust.
 
->   * We don’t ask you for personal information unless we truly need it. We won’t ask you for things like your gender or income level for no apparent reason.
->   * We don’t share your personal information with anyone except to comply with the law, develop our products, or protect our rights.
->   * We don’t store personal information on our servers unless required for the on-going operation of one of our services.
->   * On our website, we aim to make it as simple as possible for you to control what’s visible to the public, seen by search engines, kept private, and permanently deleted.
-> 
+To jump to a particular section, click on the relevant link below. Otherwise, scroll down to read the entire Policy.
 
+  * Scope of This Policy
+  * Your Consent
+  * Terms of Use
+  * Your Choices
+  * Changes to Our Policy
+  * Types of Information We Collect
+  * How We Use Information Collected Through This Site
+  * Information About Third-Party Cookies (Ad Choices)
+  * How To Access, Update, or Correct Your Information
+  * Steps We Take To Safeguard Your Personal Information
+  * How We Share Your Information
+  * Children Under the Age of Thirteen
+  * Links to Other Sites
+  * Contact Us
 
-If you have questions about deleting or correcting your personal data please contact our support team at [mail@onbeing.org](mailto:mail@onbeing.org).
 
-The On Being Project (“us”, “we”, or “our”) operates several websites including [https://onbeing.org](https://onbeing.org/), [www.civilconversationsproject.org](http://www.civilconversationsproject.org/), and [www.youraudioselfie.org](http://www.youraudioselfie.org/) (the “Product and Content”).
 
-We use your data to provide and improve our Product and Content. By using the Product and Content, you agree to the collection and use of information in accordance with this policy. 
+**Scope of This Policy**
 
-**Definitions**
+This online privacy policy (this “Policy”) applies only to information collected through the On Being Project-owned platforms on which it is posted (collectively, this “Site”), including our websites at onbeing.org, civilconversationsproject.org, youraudioselfie.org. It does not apply to third-party platforms or to other platforms owned by the On Being Project. It also does not apply to information collected through other channels, such as over the phone or in person.
 
-**Product and Content:** Product and Content is the [https://onbeing.org](https://onbeing.org/), [www.civilconversationsproject.org](http://www.civilconversationsproject.org/), and [www.youraudioselfie.org ](http://www.youraudioselfie.org/)websites operated by The On Being Project.
+Some of the information we collect through this Site may be “personal information” — information that identifies you personally, alone, or in combination with other information available to us. Other information may be non-personally identifiable, such as information collected by cookies.
 
-**Personal Data:** Personal Data means data about a living individual who can be identified from those data (or from those and other information either in our possession or likely to come into our possession).
+We have provided this Policy so that you will know what information we collect, how we use this information, the types of third parties with whom we may share this information, and some of the choices that are available to you.
 
-**Usage Data:** Usage Data is data collected automatically either generated by the use of the Product and Content or from the site infrastructure itself (for example, the duration of a page visit).
+**Your Consent**
 
-**Cookies:** A cookie is a string of information that a website stores on a visitor’s computer, and that the visitor’s browser provides to the website each time the visitor returns. 
+Please take a few minutes to review this Policy before using this Site. By using this Site you are consenting to the collection, use, and disclosure of your information as set forth in this Policy. If you do not agree to be bound by this Policy, you may not access or use this Site.
 
-**Data Controller:** Data Controller means the natural or legal person who (either alone or jointly or in common with other persons) determines the purposes for which and the manner in which any personal information are, or are to be, processed. For the purpose of this Privacy Policy, we are a Data Controller of your Personal Data.
+**This Policy Is Part of Our Terms of Use**
 
-**Data Processors (or Service Providers):  **Data Processor (or Service Provider) means any natural or legal person who processes the data on behalf of the Data Controller. We may use the services of various Service Providers in order to process your data more effectively.
+This Policy is part of the [Terms of Use](https://onbeing.org/terms-of-use/) that govern your use of this Site. A link to our [Terms of Use](https://onbeing.org/terms-of-use/) is provided at the bottom of each page of this Site.
 
-**Users:  **A user is any living individual who is using our Product and Content. A user is the subject of Personal Data.
+**Your Choices**
 
-**Information Collection and Use**
+_In General._ We respect your right to make choices about the ways we collect, use, and disclose the information you provide on or through this Site. We strive to provide choices to you at a meaningful time and in a meaningful place. This Policy describes some of your other choices, such as your choice to opt out of receiving “cookies.”
 
-We collect several different types of information for various purposes to provide and improve our Product and Content to you. Below are the types of data collected: 
+_Do-Not-Track Mechanisms_. Your browser may deliver a “Do-Not-Track (‘DNT’) signal” to this Site. Because of the changing state of technology and indecision within these technology application industries regarding the meaning of DNT signals, we currently do not make any guarantee that we will honor DNT signals.
 
-**Personal Data**  
-The On Being Project collects personally-identifying information like email addresses for users who choose by commenting to opt-in to leave a message on The On Being Project’s websites. The On Being Project only discloses user and commenter email addresses under the same circumstances that it uses and discloses personally-identifying information as described below, except that the commenter email addresses are visible and disclosed to the administrators of the page where the comment was left. The platform that currently manages our comments is Disqus. By commenting, the user acknowledges their information will be transferred over to Disqus for processing and moderation in accordance with their [Privacy Policy and Terms](https://help.disqus.com/terms-and-policies/disqus-privacy-policy).
+_Previously Expressed Preferences._ You may change previously expressed preferences regarding how we use the information you provide on or through this Site. For example, after signing up to receive our electronic newsletter, you may decide to stop receiving it by clicking the “unsubscribe” link in the newsletter’s footer. You may be able to change other preferences through an account you create on this Site. Otherwise, please contact us using the information provided below.
 
-While using our Product and Content, you are freely able to express thanks and generosity in the form of charitable support to provide financial support for our work. Users can give to The On Being Project via the Give page located at [https://onbeing.org/give](https://onbeing.org/give). By filling out this form, you consent and opt-in to provide us with certain personally identifiable information that can be used to contact or identify you (“Personal Data”). Personally identifiable information on this page may include, but is not limited to:
+**This Policy May Change**
 
-  * Email address
-  * First name and last name
-  * Phone number
-  * Address, State, Province, ZIP/Postal code, City
-  * Cookies and Usage Data
+This Policy describes our current policies and practices with regard to the information we collect through this Site.
 
+We are continually improving and adding to the features and functionality of this Site and the products we offer through this Site. As a result of these changes (or changes in the law), we may need to update or revise this Policy. Accordingly, we reserve the right to update or modify this Policy at any time, without prior notice, by posting the revised version of this Policy behind the link marked “Privacy Policy” at the bottom of each page of this Site. Your continued use of this Site after we have posted the revised Policy constitutes your agreement to be bound by the revised Policy. However, we will honor the terms that were in effect when we gathered data from you.
 
+For your convenience, whenever this Policy is changed, we will update the “effective date” at the top of this page. Be sure you check the effective date to see if this Policy has been revised since your last visit.
 
-Users can personally choose to opt-in to hearing from The On Being Project via our pop-up feature or by directly visiting [https://onbeing.org/newsletter](https://onbeing.org/newsletter). On this page, we use MailChimp to communicate with our community. We may use your Personal Data to contact you with newsletters, Products and Content materials and other information that may be of interest to you. By subscribing to our list, the user acknowledges that the information provided will be transferred to MailChimp for processing in accordance with their [Privacy Policy and Terms](https://mailchimp.com/legal/privacy/). 
+You may access the current version of this Policy at any time by clicking the link marked “Privacy Policy” at the bottom of each page of this Site.
 
-You may opt out of receiving any, or all, of these communications from us by following the unsubscribe link in the emails you receive or instructions provided in any email we send or by contacting us directly.
+**Types of Information We Collect**
 
-**Usage Data**  
-The On Being Project collects non-personally-identifying information of the sort that web browsers and servers typically make available, such as the browser type, language preference, referring site, and the date and time of each visitor request as well as user path, time spent on screen, user flow, etc. The On Being Project’s purpose in collecting non-personally identifying information is to better understand how The On Being Project’s visitors use its websites (“Usage Data”). From time to time, The On Being Project may release non-personally-identifying information in the aggregate, e.g., by publishing a report on trends in the usage of its website.
+_Information You Manually Provide_. We collect the information you manually provide (using your keyboard, mouse, or touch screen) when you use this Site. For example, we collect the information you provide when you sign up to receive our newsletter, comment on a blog post, contact us with questions, or otherwise interact with this Site. Some of the information you manually provide may be personal information, such as your name and contact information.
 
-**Tracking Cookies Data**  
-We use cookies and similar tracking technologies to track the activity on our Product and Content which hold certain information.
+_Information From Third-Party Social Media Platforms._ You may be able to register with, log on to, or enhance any profile you create on this Site by choosing to automatically populate the requested data fields with information you previously provided to a third-party social media platform (such as Facebook or Twitter). By doing this, you are asking the third-party platform to send us information, including personal information, from your profile on that platform. We treat that information as we do any other information you give to us when you register, log on, or enhance your profile.
 
-Cookies are files with small amount of data which may include an anonymous unique identifier. Cookies are sent to your browser from a website and stored on your device. Tracking technologies we use, such as Google Analytics, used hold beacons, tags, and scripts to collect and track information and to improve and analyze our Product and Content. The use of cookies is a common practice adopted by most major sites to better serve their visitors. Most browsers are designed to accept cookies, but they can easily modified to block cookies. 
+_Information from your browser or device._ We collect information that is sent to us automatically by your web browser and/or mobile device. This information typically includes your IP address, the name of your operating system, the name and version of your browser, the date and time of your visit, and the pages you visit. The information we receive may depend on your browser or device settings.
 
-You can instruct your browser to refuse all cookies or to indicate when a cookie is being sent. See your browser’s “Help” files for details on how to block cookies, how you know when you have received cookies, and how to disable cookies completely. However, if you do not accept cookies, you may not be able to use some portions of our Product and Content.
+The information we receive from your web browser and device may or may not be, in and of itself, personally identifiable. However, we may combine it with other information in an attempt to identify you, or we may combine it with information that does identify you.
 
-Examples of Cookies we use:
+_Information Collected by Cookies and Other Technologies_. A “cookie” is a small file placed on your device when you visit a site that can be understood by the site that issued the cookie. We use cookies and other technologies, including device identifiers, to collect information and support certain features of this Site. For example, we may use these technologies to collect information about the ways visitors use this Site — which pages they visit, which links they use, and how long they stay on each page. We also use these technologies to collect information and support certain features of this Site. For example, we may use these technologies to:
 
-  * **Session Cookies:**  We use Session Cookies to operate our Product and Content.
-  * **Security Cookies:** We use Security Cookies for security purposes.
+  * collect information about the ways visitors use this Site — which pages they visit, which links they use, and how long they stay on each page;
+  * support the features and functionality of this Site — for example, to save you the trouble of reentering information already in our database or to prompt the settings you established on previous visits;
+  * personalize your experience when you use this Site; and
+  * improve our communication efforts, possibly including through use of targeted advertising.
 
 
 
-Ads and underwriting appearing on any of our websites may be delivered to users by advertising partners, who may set cookies. These cookies allow the ad server to recognize your computer or mobile device each time they send you an online advertisement to compile information about you or others who use your computer. This information allows ad networks to, among other things, deliver targeted advertisements that they believe will be of most interest to you. This Privacy Policy covers the use of cookies by The On Being Project and does not cover the use of cookies by any advertisers.
+The information we collect using cookies and similar technologies may or may not be personally identifiable, but we may link it to personal information that you provide. If you do not wish to receive cookies, you may set your browser to reject cookies or to alert you when a cookie is placed on your computer. Although you are not required to accept cookies when you visit this Site, you may be unable to use all of the functionality of this Site if your browser rejects our cookies.
 
-**Use of Data**
+**How We Use Information Collected Through This Site**
 
-The On Being Project uses the collected data for various purposes:
+Generally, we use the information we collect through this Site:
 
-  * To provide and maintain our Product and Content.
-  * To notify you about changes to our Product and Content.
-  * To allow you to participate in interactive features of our Product and Content when you choose to do so.
-  * To provide and respond and listen to user engagement.
-  * To gather analysis or valuable information so that we can improve our Product and Content.
-  * To monitor the usage of our Product and Content.
-  * To detect, prevent, and address technical issues of our Product and Content.
-  * To provide you with news, products, and general information about other goods, services, and events which we offer that are similar to those that you have already purchased, attended, or inquired about unless you have opted not to receive such information previously.
+  * to provide the information, products, and services you request;
+  * for security or credit fraud prevention purposes;
+  * to provide you with an improved listener experience when you use this Site;
+  * to contact you with information and notices related to your use of this Site;
+  * to contact you with products, offerings, community updates, and other information we believe will be of interest to you (in accordance with any privacy preferences you have expressed to us);
+  * to invite you to participate in surveys and provide feedback to us (in accordance with any privacy preferences you have expressed to us);
+  * to better understand your needs and interests;
+  * to improve the content, functionality, and usability of this Site;
+  * to improve our products and offerings;
+  * to improve our communication and product development efforts;
+  * to receive donations and expressions of financial support for our daily work; and
+  * for any other purpose identified in an applicable privacy notice, click-through agreement, or other agreement between you and us.
 
 
 
-**California Residents**
+**Information About Third-Party Cookies (Ad Choices)**
 
-If you are a California resident and have an established business relationship with us, you can request a notice disclosing the categories of personal information we have shared with third parties, for the third parties’ direct marketing purposes, during the preceding calendar year. To request a notice, please submit your request to [mail@onbeing.org](mailto:mail@onbeing.org) or direct mail at The On Being Project, 1619 Hennepin Avenue, Minneapolis, MN 55403. Please allow up to 60 days for a response.
+In addition to the cookies we deliver to your computer or mobile device through this Site, certain third parties may deliver cookies to you for a variety of reasons. For example, we may use Google Analytics, a web analytics tool that helps us understand how visitors engage with our Sites. To learn more about Google Analytics, [click here.](http://www.google.com/intl/en/analytics/privacyoverview.html)
 
-If you are a California resident under 18 years old, you can request that we remove content or information that you have posted to our website or other online sites. Note that fulfilment of the request may not ensure complete or comprehensive removal (e.g., if the content or information has been reposted by another user across other social media sites). To request removal of content or information, please send your request to [mail@onbeing.org](mailto:mail@onbeing.org).
+Other third parties may deliver cookies to your computer or mobile device for the purpose of tracking your online behaviors over time and across nonaffiliated websites and/or delivering targeted advertisements either on this Site or on other websites.
 
-**Legal Basis for Processing Personal Data Under General Data Protection Regulation (GDPR)**
+You have choices about the collection of information by third parties on our Sites. For example, if you don’t want information about your visit to this Site sent to Google Analytics, you may download an opt-out browser add-on by [clicking here.](http://tools.google.com/dlpage/gaoptout?hl=en) Please note that the add-on does not prevent information from being sent to us.
 
-If you are from the European Economic Area (EEA), The On Being Project legal basis for collecting and using the personal information described in this Privacy Policy depends on the Personal Data we collect and the specific context in which we collect it.
+In addition, if you would like to opt out of having interest-based information collected by certain entities during your visits to this Site or other websites, please [click here for a “Website Opt-Out.”](http://www.aboutads.info/choices) You will be directed to an industry-developed website that contains mechanisms for choosing whether each listed entity may collect and use data for online behavioral advertising purposes. It may be that some of the third parties that collect interest-based information on this Site do not participate in the industry-developed opt-out website, in which case the best way to avoid third-party tracking of your online behaviors may be through your browser settings and deletion of cookies.
 
-The On Being Project may process your Personal Data because:
+The Website Opt-Out described above works only on websites. To opt out of having participating entities track your behaviors for advertising purposes when you are using a mobile app, download and use the Digital Advertising Alliance’s [“App Choices” app.](https://youradchoices.com/appchoices) As with the Website Opt-Out, the “Mobile App Opt-Out” prevents tracking only by participating entities.
 
-  * We need to work with you in a professional capacity. 
-  * You have given us permission to do so.
-  * The processing is in our legitimate interests and it’s not overridden by your rights.
-  * For payment or charitable processing purposes.
-  * To comply with the law.
+Please note that the Website Opt-Out and Mobile App Opt-Out are device-specific, and the Website Opt-Out is browser-specific. If you wish to opt out from having interest-based information collected by participating entities across all devices and browsers, you need take the steps outlined above from each device and browser.
 
+**How to Access, Update, or Correct Your Information**
 
+If you want to access, update, or correct your information, please contact us using the information provided below. We will respond to you within a reasonable time and, in any case, within the time limits established by applicable law. We may ask you for additional information to verify your identity. In most cases, we will provide access and correct or delete any inaccurate information you discover. In some cases, however, we may limit or deny your request if the law permits or requires us to do so or if we are unable to verify your identify. If you seek deletion of information that you provided when you were a minor, please contact us using the information provided below.
 
-**Retention of Data**
+**Steps We Take To Safeguard Your Personal Information**
 
-The On Being Project will retain your Personal Data only for as long as is necessary for the purposes set out in this Privacy Policy. We will retain and use your Personal Data to the extent necessary to comply with our legal obligations (for example, if we are required to retain your data to comply with applicable laws), resolve disputes, and enforce our legal agreements and policies.
+We maintain reasonable administrative, physical, and technological measures to protect the confidentiality and security of information you submit on or through this Site. Unfortunately, no website, server, or database is completely secure or “hacker-proof.” We therefore cannot guarantee that your information will not be disclosed, misused, or lost by accident or by the unauthorized acts of others. Further, we cannot control dissemination of personal information you post on or through this Site using any social networking tools we may provide, and you should have no expectation of privacy in such information.
 
-The On Being Project will also retain Usage Data for internal analysis purposes. Usage Data is generally retained for a shorter period of time, except when this data is used to strengthen the security or to improve the functionality of our Product and Content, or we are legally obligated to retain this data for longer time periods.
+**How We Share Your Information**
 
-**Transfer of Data**
+_With Third-Party Vendors_. We may share information collected through this Site with third-party vendors who act for us or on our behalf. For example, we use third-party vendors to design and operate this Site; to conduct surveys; and to help us with our communication efforts. These third-party vendors may need information about you to perform their functions. Typically, they are required by contract to keep your information confidential and to use it only to provide services on our behalf; however, as described below, we may allow them to use aggregate or de-identified data for their own purposes or to market the products and services of their other clients.
 
-Your information, including Personal Data, may be transferred to — and maintained on — computers located outside of your state, province, country or other governmental jurisdiction where the data protection laws may differ than those from your jurisdiction.
+_With Third-Party Social Media Platforms._ We may provide functionality on this Site that allows you to automatically post information to a third-party social media platform (such as Facebook, Twitter, or Google+). If you choose to take advantage of this functionality, people with access to your profile on the third-party platform will be able to see your post. Thus, you should have no expectation of privacy in those actions.
 
-If you are located outside the United States and choose to provide information to us, please note that we transfer the data, including Personal Data, to the United States and process it there.
+_In Aggregate or De-identified Form._ We use information collected through this Site to create a compiled, aggregate view of usage patterns. We may share aggregate information with third parties so we and they can better understand our community. We may also share with third parties information about how particular individuals use this Site, but only on a de-identified basis (“Individualized Data”). Individualized Data is not personally identifiable, but it does reflect the usage patterns of a particular Site user, as opposed to Site users collectively. We may provide basic demographic information (gender and age) in conjunction with providing Individualized Data. Third parties typically use this information for analytical purposes and to market their own products and services.
 
-Your consent to this Privacy Policy followed by your submission of such information represents your agreement to that transfer.
+_As Part of a Business Transfer_. Your information may be transferred to a successor organization if, for example, we transfer the ownership or operation of this Site to another organization or if we merge with another organization or if we liquidate our assets and sell them individually. If such a transfer occurs, the successor organization’s use of your information will still be subject to this Policy and the privacy preferences you have expressed to us.
 
-The On Being Project will take all steps reasonably necessary to ensure that your data is treated securely and in accordance with this Privacy Policy and no transfer of your Personal Data will take place to an organization or a country unless there are adequate controls in place including the security of your data and other personal information.
+_To Comply with Laws and Protect Our Rights and the Rights of Others_. We may disclose your information when we, in good faith, believe disclosure is appropriate to comply with the law, a court order, or a subpoena. We may also disclose your information to prevent or investigate a possible crime, such as fraud or identity theft; to protect the security of this Site; to enforce or apply our online [Terms of Use](https://onbeing.org/terms-of-use/) or other agreements; or to protect our own rights or property or the rights, property, or safety of our users or others.
 
-**Disclosure of Data**
+_As Described in a Privacy Notice or Click-Through Agreement_. We reserve the right to disclose your information as described in any privacy notice posted on this Site or as described in any click-through agreement to which you have agreed.
 
-**Business Transaction or Transfer:  **If The On Being Project, or substantially all of its assets, were acquired, or in the unlikely event that The On Being Project goes out of business or enters bankruptcy, user information would be one of the assets that is transferred or acquired by a third party. You acknowledge that such transfers may occur, and that any acquirer of The On Being Project may continue to use your personal information as set forth in this policy. We will provide notice before your Personal Data is transferred and becomes subject to a different Privacy Policy.
+**Children Under the Age of Thirteen**
 
-**Disclosure for Law Enforcement:  **Under certain circumstances, The On Being Project may be required to disclose your Personal Data if required to do so by law or in response to valid requests by public authorities (e.g. a court or a government agency).
-
-**Legal Requirements:  **The On Being Project may disclose your Personal Data in the good faith belief that such action is necessary to:
-
-  * To comply with a legal obligation.
-  * To protect and defend the rights or property of The On Being Project.
-  * To prevent or investigate possible wrongdoing in connection with the Product and Content.
-  * To protect the personal safety of users of the Product and Content or the public.
-  * To protect against legal liability.
-
-
-
-**Your Data Protection Rights Under General Data Protection Regulation (GDPR)**
-
-If you are a resident of the European Economic Area (EEA), you have certain data protection rights. The On Being Project aims to take reasonable steps to allow you to correct, amend, delete, or limit the use of your Personal Data.
-
-If you wish to be informed what Personal Data we hold about you and if you want it to be removed from our systems, please contact us.
-
-In certain circumstances, you have the following data protection rights:
-
-  * ****The right to access, update or to delete the information we have on you**.** If you are unable to perform these actions yourself, please contact us to assist you. Users can update their emailing preferences directly with the link included in the footer of the email they received.
-  * ****The right of rectification**.** You have the right to have your information rectified if that information is inaccurate or incomplete. 
-  * ****The right to object**.** You have the right to object to our processing of your Personal Data.
-  * **The right of restriction.** You have the right to request that we restrict the processing of your personal information.
-  * **The right to data portability.** You have the right to be provided with a copy of the information we have on you in a structured, machine-readable and commonly used format.
-  * **The right to withdraw consent.** You also have the right to withdraw your consent at any time where The On Being Project relied on your consent to process your personal information.
-
-
-
-Please note that we may ask you to verify your identity before responding to such requests.
-
-**Service Providers**
-
-We may employ third party companies and individuals (“Service Providers”) to facilitate our Product and Content, to provide the Product and Content on our behalf, to perform Service-related activities or to assist us in analyzing how our Product and Content is used.
-
-These third parties have access to your Personal Data only to perform these tasks on our behalf and have signed a non-disclosure agreement (enforceable by law) or use it for any other purpose.
-
-**Analytics**
-
-We may use third-party Service Providers to monitor and analyze the use of our Product and Content.
-
-**Google Analytics**  
-Google Analytics is a web analytics service offered by Google that tracks and reports website traffic. Google uses the data collected to track and monitor the use of our Product and Content. This data is shared with other Google services. Google may use the collected data to contextualize and personalize the ads of its own advertising network. You can opt-out of having made your activity on the Product and Content available to Google Analytics by installing the Google Analytics opt-out browser add-on. The add-on prevents the Google Analytics JavaScript (ga.js, analytics.js, and dc.js) from sharing information with Google Analytics about visits activity. For more information on the privacy practices of Google, please visit the [Google Privacy Terms web page](https://www.google.com/intl/en/policies/privacy/). 
-
-**Podtrac, Inc.  **  
-Podtrac Inc is a podcast measurement and advertising services company. Podtrac provides analytics to thousands of podcasts including virtually all of the top podcasts and publishers. Its metrics and monthly rankings of podcasts are what we use to understand our listener base. For more information on the privacy practices of Podtrac, Inc., please visit the Podtrac Privacy Policy [here](https://analytics.podtrac.com/privacy-policy). 
-
-**Payments**
-
-We may provide paid products and/or services within the scope of our Products and Content in the future. In that case, we use third-party services for payment processing (e.g. payment processors).
-
-We will not store or collect your payment card details. That information is provided directly to our third-party payment processors whose use of your personal information is governed by their Privacy Policy. These payment processors adhere to the standards set by PCI-DSS as managed by the PCI Security Standards Council, which is a joint effort of brands like Visa, Mastercard, American Express and Discover. PCI-DSS requirements help ensure the secure handling of payment information.
-
-The payment processors we work with are:
-
-**Stripe**  
-Their Privacy Policy can be viewed at [https://stripe.com/us/privacy](https://stripe.com/us/privacy).
+We are proud of this Site and we strive to ensure that it does not offend people of any age. However, this Site is not intended for children or minors under the age of thirteen years without the permission of a parent or guardian. If you believe that a child has submitted personal information on or through this Site without the consent and supervision of a parent or guardian, please contact us using the information provided below so that we can take appropriate action.
 
 **Links to Other Sites**
 
-Our Service may contain links to other sites that are not operated by us. If you click on a third-party link, you will be directed to that third party’s site. We strongly advise you to review the Privacy Policy of every site you visit.
-
-We have no control over and assume no responsibility for the content, privacy policies or practices of any third-party sites or services.
-
-**Changes to This Privacy Policy**
-
-We may update our Privacy Policy from time to time. We will notify you of any changes by posting the new Privacy Policy on this page.
-
-We will let you know via email and/or a prominent notice on our Product and Content, prior to the change becoming effective and update the “effective date” at the top of this Privacy Policy.
-
-You are advised to review this Privacy Policy periodically for any changes. Changes to this Privacy Policy are effective when they are posted on this page.
+This Site may provide links to other websites operated by third parties, including in some cases our third-party vendors. We do not control these websites and are not responsible for their data practices. Any information you provide to third parties on their websites is covered under their privacy and data collection policies and is not covered by this Policy. We urge you to review the privacy policy posted on any site you visit before using the site or providing any personal information.
 
 **Contact Us**
 
-If you have any questions about this Privacy Policy, please contact us:
+If you have any questions regarding this Privacy Policy, please contact us at:
 
-  * By email: mail@onbeing.org
-  * By visiting this page on our website: [https://www.onbeing.org/contact](https://www.onbeing.org/contact)
-  * By mail: 1619 Hennepin Avenue, Minneapolis, MN 55403
-
-
+By email: [mail@onbeing.org](mailto:mail@onbeing.org)  
+By visiting this page on our website: <https://onbeing.org/contact>  
+By mail: 1619 Hennepin Avenue, Minneapolis, MN 55403
