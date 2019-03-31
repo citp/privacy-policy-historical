@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the brentozar.com privacy policy that was archived on 2018-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181228195528id_/https%3A//www.brentozar.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the brentozar.com privacy policy that was archived on 2019-03-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190331145205id_/https%3A//www.brentozar.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy for www.BrentOzar.com - Brent Ozar Unlimited®
 
@@ -23,8 +23,8 @@ In operating the Website we may collect and process the following data about you
     * We will track your last login date and number of sessions in order to monitor for account reuse.
     * We will track your browser name, browser version and device platform in order to tailor our site better for your viewing experience.
   * Information provided to us when you communicate with us for any reason.
-  * For European Union Residents, information collected and processed is limited to:
-  *     * Information that you voluntarily provide by filling in forms on our Website, such as when you subscribe to company emails or other marketing communications. By giving us this information, you consent to this information being collected, used, disclosed, transferred to the United States and stored by us, as described in this Privacy Policy.
+  * For European Union Residents, information collected and processed is limited to: 
+    * Information that you voluntarily provide by filling in forms on our Website, such as when you subscribe to company emails or other marketing communications. By giving us this information, you consent to this information being collected, used, disclosed, transferred to the United States and stored by us, as described in this Privacy Policy.
     * Information that we collect automatically, including the device IP address, location data, browser data and country data. We may collect this information through the use of cookies. Our use of cookies is discussed in more detail below.
 
 
@@ -92,14 +92,17 @@ This Website is hosted by [WPengine.com](https://wpengine.com/). Certain Persona
 Your data may also be shared with our other hosting partners:
 
   * [Automattic](https://automattic.com/) – [Privacy Policy](https://automattic.com/privacy/) – because we filter possible spam comments with Askimet
+  * [Calendly](https://calendly.com/) – [Privacy Policy](https://calendly.com/pages/privacy) – because you may book a call with us there
   * [Disqus](https://disqus.com/) – [Privacy Policy](https://help.disqus.com/terms-and-policies/disqus-privacy-policy) – because we host PasteThePlan comments there
-  * [Facebook](https://www.facebook.com/) – [Privacy Policy](https://www.facebook.com/policy.php) – because we use their advertising to target visitors of this site
   * [Google Analytics](https://www.google.com/analytics/) – [Privacy Policy](https://www.google.com/analytics/terms/us.html) – because we track page popularity and user activity
   * [Google](https://www.google.com/) AMP Cache – [Privacy Policy](https://developers.google.com/amp/cache/policies) – because you may be viewing our pages through their cache
   * [Google](https://www.google.com/) Fonts – [Privacy Policy](https://developers.google.com/fonts/faq#what_does_using_the_google_fonts_api_mean_for_the_privacy_of_my_users) – because we use their fonts to render these pages
   * [GoToWebinar](https://www.gotomeeting.com/webinar) – [Privacy Policy](https://www.logmeininc.com/legal/privacy) – because you may sign up for our webcasts hosted there
+  * [Gumroad](https://gumroad.com/) – [Privacy Policy](https://gumroad.com/privacy) – because you may buy our products through them
+  * [Paypal](https://www.paypal.com/) – [Privacy Policy](https://www.paypal.com/us/webapps/mpp/ua/privacy-full) – because you may use their payment methods
   * [Quickbooks/Intuit](https://quickbooks.intuit.com/) – [Privacy Policy](https://security.intuit.com/index.php/privacy) – because we bill you through their accounting software
-  * [YouCanBook.me](https://youcanbook.me/) – [Privacy Policy](https://youcanbook.me/privacy/) – because you may sign up for a sales call there
+  * [Stripe](https://stripe.com/) – [Privacy Policy](https://stripe.com/us/privacy) – because they process your credit card payments
+  * [Vimeo](https://vimeo.com/) – [Privacy Policy](https://vimeo.com/privacy) – because we embed our training videos on the site
   * [YouTube](https://www.youtube.com/) – [Privacy Policy](https://www.youtube.com/t/privacy) – because we embed YouTube videos on the site
 
 
