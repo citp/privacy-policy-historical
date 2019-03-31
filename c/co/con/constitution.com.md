@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the constitution.com privacy policy that was archived on 2018-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181230023643id_/https%3A//constitution.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the constitution.com privacy policy that was archived on 2019-03-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190331024132id_/https%3A//constitution.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy ⋆ The US Constitution ⋆ Constitution.com
+# Privacy Policy 🇺🇸 The Constitution • Constitution.com • Founding documents, historic papers and writings, state and nation/state constitutions, presidential addresses and executive orders, treaties, united nations reports, etc.
 
 The privacy of our visitors is of extreme importance to us. This Privacy Policy governs the manner in which this website collects, uses, maintains and discloses information collected from users (each, a “User”) of the Constitution.com website (“Site”). This privacy policy applies to the Site and all products and services offered by Site.
 
