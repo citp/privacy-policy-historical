@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the euronext.com privacy policy that was archived on 2018-08-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180826092458id_/https%3A//www.euronext.com/en/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the euronext.com privacy policy that was archived on 2019-03-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190331215913id_/https%3A//www.euronext.com/en/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Statement | Euronext
 
@@ -316,7 +316,7 @@ We may occasionally update this Privacy Statement to reflect changes in our busi
 
 ### 12\. Questions and Requests
 
-Should you have any questions or requests about this policy, please contact us via [dpo@euronext.com](mailto:dpo@euronext.com).
+Should you have any questions or requests about this policy, please contact us via .
 
 ### Annex – List of Euronext Group Companies
 
@@ -339,3 +339,9 @@ Should you have any questions or requests about this policy, please contact us v
   * IR Soft Ltd
 
 
+
+### EU/Swiss-U.S. Privacy Shield Certification
+
+We may transfer the personal information we collect about you to recipients in countries other than the country in which the information originally was collected.  Those countries may not have the same data protection laws as the country in which you initially provided the information.  When we transfer your information to recipients in other countries (such as the U.S.), we will protect that information as described in this Privacy Policy and will comply with applicable legal requirements providing adequate protection for the transfer of personal information to recipients in countries other than the one in which you provided the information.
+
+If you are located in the European Economic Area (“EEA”) or Switzerland, with respect to transfers of personal information to the U.S., Euronext U.S., Inc. and its subsidiaries FastMatch, Inc. and Euronext Synapse LLC are certified under the EU-U.S. and Swiss-U.S. Privacy Shield frameworks developed by the U.S. Department of Commerce, and the European Commission and Swiss Federal Data Protection and Information Commissioner, respectively, regarding the transfer of personal information from the EEA and Switzerland to the U.S. [Click here](https://www.euronext.com/sites/www.euronext.com/files/2018_euronext_us_consumer_data_privacy_protection_policy.pdf) to view our EU/Swiss-U.S. Privacy Shield Privacy Policy. 
