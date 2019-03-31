@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fox5vegas.com privacy policy that was archived on 2018-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181101151153id_/https%3A//www.fox5vegas.com/site/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fox5vegas.com privacy policy that was archived on 2019-03-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190331064341id_/https%3A//www.fox5vegas.com/site/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy | Site | fox5vegas.com
 
