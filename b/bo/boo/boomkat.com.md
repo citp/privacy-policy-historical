@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the boomkat.com privacy policy that was archived on 2018-10-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181023123533id_/https%3A//boomkat.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the boomkat.com privacy policy that was archived on 2019-03-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190331225328id_/https%3A//boomkat.com/privacy) for the most accurate reproduction.*
 
 # Boomkat
 
