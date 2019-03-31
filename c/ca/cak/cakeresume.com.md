@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the cakeresume.com privacy policy that was archived on 2017-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170512175403id_/https%3A//www.cakeresume.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cakeresume.com privacy policy that was archived on 2019-03-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190331154601id_/https%3A//www.cakeresume.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | CakeResume
+# Privacy Policy – CakeResume
 
 Our Privacy Policy was last updated and posted on January 13, 2016. It governs the privacy terms of our Website, located at https://www.cakeresume.com, sub-domains, and any associated web-based and mobile applications (collectively, "Website"), as owned and operated by CakeResume. Any capitalized terms not defined in our Privacy Policy, have the meaning as specified in our Terms of Service.
 
