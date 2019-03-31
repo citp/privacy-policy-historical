@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the speedsociety.com privacy policy that was archived on 2017-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171126032151id_/http%3A//speedsociety.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the speedsociety.com privacy policy that was archived on 2019-03-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190331123538id_/https%3A//speedsociety.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy – Speed Society
+# Privacy Policy - Speed Society
 
 Protecting your private information is our priority. This Statement of Privacy applies to the www.speedsociety.com and Speed Society LLC and governs data collection and usage. For the purposes of this Privacy Policy, unless otherwise noted, all references to Speed Society LLC include www.speedsociety.com and Speed Society. The Speed Society website is a News and Information site. By using the Speed Society website, you consent to the data practices described in this statement.
 
@@ -53,7 +53,7 @@ You will be able to connect your Speed Society account to third party accounts. 
 We respect your privacy and give you an opportunity to opt-out of receiving announcements of certain information. Users may opt-out of receiving any or all communications from Speed Society by contacting us here:
 
 **Web page** : www.speedsociety.com  
-**Email** : [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection)  
+**Email** : info@speedsociety.com  
 **Phone** : (855) 271-1679
 
 #### Changes to this Statement
@@ -69,7 +69,7 @@ Speed Society, Inc.
 Suite 104  
 San Diego, California 92121
 
-**Email** : [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection)  
+**Email** : info@speedsociety.com  
 **Phone** : (855) 271-1679
 
 _Effective as of Jan 01, 2012_
