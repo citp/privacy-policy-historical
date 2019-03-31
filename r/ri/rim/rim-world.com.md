@@ -1,10 +1,8 @@
-> *The following text is extracted and transformed from the rim-world.com privacy policy that was archived on 2017-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170531051952id_/http%3A//rim-world.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rim-world.com privacy policy that was archived on 2019-03-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190331143811id_/https%3A//rim-world.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy ⋆ RimWorld Base
 
 Privacy Policy for [www.rim-world.com](http://www.rim-world.com/)
-
-If you require any more information or have any questions about our privacy policy, please feel free to contact us by email at [info@rim-world.com](mailto:info@rim-world.com).
 
 This privacy policy has been compiled to better serve those who are concerned with how their ‘Personally Identifiable Information’ (PII) is being used online. PII, as described in US privacy law and information security, is information that can be used on its own or with other information to identify, contact, or locate a single person, or to identify an individual in context. Please read our privacy policy carefully to get a clear understanding of how we collect, use, protect or otherwise handle your Personally Identifiable Information in accordance with our website.
 
@@ -18,13 +16,12 @@ We may use the information we collect from you when you register, sign up for ou
 
   * To personalize your experience and to allow us to deliver the type of content in which you are most interested.
   * To improve our website in order to better serve you.
-  * To ask for ratings and reviews of products.
 
 
 
 **Do we use ‘cookies’?**
 
-Yes. Cookies are small files that a site or its service provider transfers to your computer’s hard drive through your Web browser (if you allow it) that enables the site’s or service provider’s systems to recognize your browser and capture and remember certain information. For instance, we use cookies to help us remember and process the items in your shopping cart. They are also used to help us understand your preferences based on previous or current site activity, which enables us to provide you with improved services. We also use cookies to help us compile aggregate data about site traffic and site interaction so that we can offer better site experiences and tools in the future.
+Yes. Cookies are small files that a site or its service provider transfers to your computer’s hard drive through your Web browser (if you allow it) that enables the site’s or service provider’s systems to recognize your browser and capture and remember certain information. They are also used to help us understand your preferences based on previous or current site activity, which enables us to provide you with improved services. We also use cookies to help us compile aggregate data about site traffic and site interaction so that we can offer better site experiences and tools in the future.
 
 We use cookies to:
 
@@ -56,4 +53,8 @@ Opting out:
 
 Users can set preferences for how Google advertises to you using the Google Ad Settings page. Alternatively, you can opt out by visiting the Network Advertising Initiative Opt Out page or by using the Google Analytics Opt Out Browser add on.
 
-If you require any more information or have any questions about our privacy policy, please feel free to contact us by email at [info@rim-world.com](mailto:info@rim-world.com).
+If you require any more information or have any questions about our privacy policy, please feel free to contact us by email at [[email protected]](https://rim-world.com/cdn-cgi/l/email-protection#b9dad6d7cdd8dacdf9cbd0d494ced6cbd5dd97dad6d4).
+
+**Ezoic Service Privacy Policy**
+
+rim-world.com uses a third party technology called Ezoic. [Click here](https://g.ezoic.net/privacy/rim-world.com) to learn more about its own privacy policy.
