@@ -1,9 +1,6 @@
-> *The following text is extracted and transformed from the vfxvoice.com privacy policy that was archived on 2018-08-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180819151647id_/http%3A//vfxvoice.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vfxvoice.com privacy policy that was archived on 2019-03-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190331180208id_/http%3A//vfxvoice.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - VFX Voice MagazineVFX Voice Magazine
-
-_**VFX Voice**_  
-The definitive authority on all things visual effects in the world of film, TV, gaming, virtual reality, commercials, theme parks, and other new media. 
 
 ## COMMITMENT TO YOUR PRIVACY
 
