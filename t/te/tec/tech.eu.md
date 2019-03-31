@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the tech.eu privacy policy that was archived on 2018-08-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180828211138id_/http%3A//tech.eu/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tech.eu privacy policy that was archived on 2019-03-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190331093600id_/https%3A//tech.eu/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Tech.eu
 
-**Company Contact Information:**
+## **Company Contact Information:**
 
 Fores Media Ltd (Tech.eu)
 
@@ -14,7 +14,7 @@ CB25 0PA, UK
 
 yourdata@tech.eu
 
-## **1\. General Information**
+## **1:General information.**
 
 Maintaining your privacy is really important to us. You entrust us with sensitive information, and we take that responsibility seriously. 
 
@@ -22,7 +22,7 @@ This document  explains how we collect, store and use personal data when you su
 
 Please read this Privacy Policy carefully to understand how we will treat your personal data. 
 
-## **2\. What information do we collect?**
+## **2:What information do we collect?**
 
 **Your personal data:**
 
@@ -51,6 +51,7 @@ We collect information about your activity linked to our **reports where they ar
 
   * Personal information provided by you when you download the report  (or that you authorise a third party to give to us on your behalf).
   * We monitor and store information on the reports downloaded so we can understand what topics are of interest to people and use this to improve our products and our communication
+  * Our free reports are often sponsored by a third party partner. Where this is the case we may also share your data from the download with the partner. By giving your consent you agree that our partner can use your email address to contact you with information and communication relating to the report.
 
 
 
