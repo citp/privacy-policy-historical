@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the naijawapaz.net privacy policy that was archived on 2018-03-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180329021655id_/http%3A//naijawapaz.ng/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the naijawapaz.net privacy policy that was archived on 2019-03-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190331022052id_/https%3A//wapaz.co/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - Naijawapaz
+# Privacy Policy - Wapaz.co
 
 We take your privacy seriously. This privacy policy describes what personal information we collect and how we use it on Naijawapaz
 
@@ -27,6 +27,6 @@ Any advertisements served by Google, Inc., and affiliated companies may be contr
 Concerns or questions about this privacy policy can be directed to admin@naijawapaz.ng for further clarification.  
 1) A word filter has been put in place to prevent forum members from using sexually explicit words in their posts.  
 2) Our Members have been informed that they need to keep their words clean if the Website is to survive.  
-3) A privacy policy has been drafted for Naijawapaz.ng See  [http://naijawapaz.ng/privacy-policy](http://www.forumspotz.com/privacy)
+3) A privacy policy has been drafted for Naijawapaz.ng See  <http://naijawapaz.ng/privacy-policy>
 
 I’m ready to do whatever may be additionally required to make my site fully complaint with your policies.
