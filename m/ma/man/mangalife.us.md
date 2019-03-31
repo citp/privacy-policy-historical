@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mangalife.us privacy policy that was archived on 2018-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180617122912id_/http%3A//mangalife.us/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mangalife.us privacy policy that was archived on 2019-03-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190331134540id_/https%3A//mangalife.us/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -61,6 +61,6 @@ By using this Site, you signify your acceptance of this policy and terms of serv
 
 If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this site, please contact us at: 
 
-[MangaLife](http://mangalife.us/)
+[MangaLife](https://mangalife.us/)
 
 animeandmangastuff@outlook.com
