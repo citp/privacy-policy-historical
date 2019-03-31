@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the roguefitness.com privacy policy that was archived on 2018-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181220183215id_/https%3A//www.roguefitness.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the roguefitness.com privacy policy that was archived on 2019-03-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190331212646id_/https%3A//www.roguefitness.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Rogue Fitness
 
