@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the unibet.co.uk privacy policy that was archived on 2018-08-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180817214920id_/https%3A//www.unibet.co.uk/general-info/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the unibet.co.uk privacy policy that was archived on 2019-03-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190331025627id_/https%3A//www.unibet.co.uk/general-info/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -42,7 +42,7 @@ Back to top
 
 There are various ways you can contact us.
 
-For general queries do not hesitate to get in touch with our Customer Service team via phone, email or live chat - please see our [Contact us](https://web.archive.org/general/contact-us) page.
+For general queries do not hesitate to get in touch with our Customer Service team via phone, email or live chat - please see our [Contact us ](https://www.unibet.com/help/)page.
 
 If you have specific questions regarding your personal information or how we use it, please contact our Data Protection Officer directly by email ([DPO.officer@kindredgroup.com](mailto:DPO.officer@kindredgroup.com)).
 
@@ -103,8 +103,8 @@ We recognise the trust and confidence our customers place in us as a service pro
  **To make our services available to you as part of our contract**
 
   * to provide gaming and betting services, activities or online content, to provide you with information about them and to deal with your requests and enquiries;
-  * for "service administration purposes", such as password reminders, service messages, such as site maintenance, updates to our Privacy and Cookies Policy or Terms of Use, to let you know if your Kindred account has become dormant and to ask if you would like to use it again before we close it;
-  * to assess betting risk - when you make a bet, an automated system may be used to assess the risk connected to your bet, in accordance with our [Betting Rules](https://unibet.hs.llnwd.net/polopoly_fs/1.925557.1499167613!/menu/standard/file/UnibetT&Cv1.5-EN\(COM\).pdf). It is a system widely used by the betting operators to help make fair and informed decisions on betting. Betting scoring takes account of information you provide (both, at registration and through your use of our services). If your bet has been rejected or limited, you have the right to ask for a manual assessment by our traders.
+  * for 'service administration purposes', such as password reminders, service messages, such as site maintenance, updates to our Privacy and Cookies Policy or Terms of Use, to let you know if your Kindred account has become dormant and to ask if you would like to use it again before we close it;
+  * to assess betting risk - when you make a bet, an automated system may be used to assess the risk connected to your bet, in accordance with our [Betting Rules](https://www.unibet.com/general-info/terms#section-9). It is a system widely used by the betting operators to help make fair and informed decisions on betting. Betting scoring takes account of information you provide (both, at registration and through your use of our services). If your bet has been rejected or limited, you have the right to ask for a manual assessment by our traders.
   * to process your transactions;
 
 
