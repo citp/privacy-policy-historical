@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cinema5d.com privacy policy that was archived on 2018-09-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180916212111id_/https%3A//www.cinema5d.com/about/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cinema5d.com privacy policy that was archived on 2019-03-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190331201032id_/https%3A//www.cinema5d.com/about/privacy-policy) for the most accurate reproduction.*
 
 # PRIVACY POLICY | cinema5D
 
