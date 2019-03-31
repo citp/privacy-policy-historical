@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ahaparenting.com privacy policy that was archived on 2018-09-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180919221435id_/https%3A//www.ahaparenting.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ahaparenting.com privacy policy that was archived on 2019-03-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190331073007id_/https%3A//www.ahaparenting.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Aha! Parenting
 
