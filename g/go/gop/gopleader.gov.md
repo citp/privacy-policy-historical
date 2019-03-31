@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the gopleader.gov privacy policy that was archived on 2018-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181230081304id_/https%3A//www.majorityleader.gov/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gopleader.gov privacy policy that was archived on 2019-03-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190331102028id_/https%3A//www.republicanleader.gov/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - House Majority Leader
+# Privacy Policy - House Republican Leader
 
 ## Privacy Policy
 
