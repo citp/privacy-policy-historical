@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the groopdealz.com privacy policy that was archived on 2018-01-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180129045017id_/https%3A//www.groopdealz.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the groopdealz.com privacy policy that was archived on 2019-03-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190331165436id_/https%3A//www.groopdealz.com/privacy-policy) for the most accurate reproduction.*
 
-# GroopDealz | Today's Boutique Daily Deal
+# Privacy Policy | Groopdealz
 
 Groopdealz respects your privacy, and recognizes your concern for the way your personal information is handled and shared. We want to ensure that you are aware of our practices and know how to contact us if you have a concern. Please review our privacy policy below and note that we may occasionally update it to reflect new technologies or company procedures. 
 
