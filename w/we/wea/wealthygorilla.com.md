@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wealthygorilla.com privacy policy that was archived on 2018-08-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180819174610id_/https%3A//wealthygorilla.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wealthygorilla.com privacy policy that was archived on 2019-03-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190331093511id_/https%3A//wealthygorilla.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Wealthy Gorilla
 
@@ -8,13 +8,13 @@ The below is a Privacy Policy we have put together for our users. Please read al
 
 WealthyGorilla.com is committed to respecting the privacy rights of its visitors and users of this website. We created this Privacy Policy to give our readers confidence as you visit and use the site, and to demonstrate a commitment to fair information practices and the protection of privacy.
 
-##  **Information Collection Practices**
+## **Information Collection Practices**
 
 The below outlines our practices when it comes to collecting information from the users of WealthyGorilla.com:
 
-###  **What Personally Identifiable Information Do We Collect?**
+### **What Personally Identifiable Information Do We Collect?**
 
- **(a)**   **Categories of Personally Identifiable Information:**   We collect personally identifiable information from you only if you sign up for a newsletter or contact us including:
+**(a)**   **Categories of Personally Identifiable Information:**   We collect personally identifiable information from you only if you sign up for a newsletter or contact us including:
 
   * Your name,
   * Your email address
@@ -22,34 +22,34 @@ The below outlines our practices when it comes to collecting information from th
 
 
 
- **(b)  Modification or Removal Process:** Please contact us if you wish to modify your information.
+**(b)  Modification or Removal Process:** Please contact us if you wish to modify your information.
 
- **(c)  Privacy Policy Modifications and Updates:** We may update and modify this Privacy Policy. If we modify or update the policy, we will post a notice on the Site for 30 days prior to the change going into effect.
+**(c)  Privacy Policy Modifications and Updates:** We may update and modify this Privacy Policy. If we modify or update the policy, we will post a notice on the Site for 30 days prior to the change going into effect.
 
- **(d)**   **Effective Date:**  The effective date of this new privacy policy shall be May 5th, 2018.
+**(d)**   **Effective Date:**  The effective date of this new privacy policy shall be May 5th, 2018.
 
- **(e)  Do Not Track Signals: **We do not currently honor “do not track” signals issued by browsers or other third party sources.
+**(e)  Do Not Track Signals: **We do not currently honor “do not track” signals issued by browsers or other third party sources.
 
- **(f)  Third Party Tracking:** As a matter of transparency, we’ve decided to disclose to you whether third parties can acquire and track your personally identifiable information through our website.
+**(f)  Third Party Tracking:** As a matter of transparency, we’ve decided to disclose to you whether third parties can acquire and track your personally identifiable information through our website.
 
 Google and other sites listed below can track you through this site as we use their services for social media, infrastructure, and analytical purposes; so we can optimize the user experience. Google participates in the NIA opt out program.
 
 You can visit [ **this link**](https://www.networkadvertising.org/choices/#completed) to no longer be tracked by Google and Google properties such as Google Plus. You can also visit the following sites to read their privacy policies and how they track individuals across the web:
 
-  * [ **Facebook**](https://www.facebook.com/about/privacy/)
-  * [ **LinkedIn**](https://www.linkedin.com/legal/pop/pop-privacy-policy)
-  * [ **Twitter**](https://twitter.com/privacy)
-  * [ **YouTube**](https://www.youtube.com/static?template=privacy_guidelines)
+  * [**Facebook**](https://www.facebook.com/about/privacy/)
+  * [**LinkedIn**](https://www.linkedin.com/legal/pop/pop-privacy-policy)
+  * [**Twitter**](https://twitter.com/privacy)
+  * [**YouTube**](https://www.youtube.com/static?template=privacy_guidelines)
 
 
 
 You can use programs such as [ **Privacy Badger**](https://www.eff.org/privacybadger)  to further control the collection of information regarding you online.
 
-###  **What Additional Information Do We Collect?**
+### **What Additional Information Do We Collect?**
 
- **(a)  Automatic collection:** Our servers automatically recognize visitors’ domain names and IP addresses (the number assigned to computers on the Internet). No personal information about you is revealed in this process. Wealthy Gorilla may also gather anonymous aggregate “traffic data” that does not personally identify you; but that may be helpful for marketing purposes or for improving the services we offer.
+**(a)  Automatic collection:** Our servers automatically recognize visitors’ domain names and IP addresses (the number assigned to computers on the Internet). No personal information about you is revealed in this process. Wealthy Gorilla may also gather anonymous aggregate “traffic data” that does not personally identify you; but that may be helpful for marketing purposes or for improving the services we offer.
 
- **(b)  Cookies:** We may use “cookies” to store a small piece of data on your computer during your visit to collect information. The cookies are used to gain information on how you use the web, which we try to incorporate into the Site to improve your experience.
+**(b)  Cookies:** We may use “cookies” to store a small piece of data on your computer during your visit to collect information. The cookies are used to gain information on how you use the web, which we try to incorporate into the Site to improve your experience.
 
 We use cookies to:
 
@@ -68,13 +68,13 @@ The information generated by the cookie about your use of our website (including
 
 Google may also transfer this information to third parties where required to do so by law, or where such third parties process the information on Google’s behalf. Google undertakes not to associate your IP address with any other data held by Google.
 
-##  **Third Party Advertising**
+## **Third Party Advertising**
 
 We may have third-party advertising companies serving ads to you when you visit our website. These companies may store information about your visits to our website and to other websites in order to provide you with relevant advertisements about goods and services. These companies may employ cookies and other identifiers to gather information which measures advertising effectiveness.
 
 The information is generally not personally identifiable unless, for example, you provide personally identifiable information to them through an ad or an e-mail message.
 
-##  **Information Gathered by Third Party Advertisers**
+## **Information Gathered by Third Party Advertisers**
 
 Cookies enable advertisers to learn about what ads you see, what ads you click, and other actions you take on our site and other sites. This allows advertisers to provide you with more useful and relevant ads. For example, if they know what ads you are shown while visiting our site; they can be careful not to show you the same ones repeatedly.
 
@@ -84,23 +84,23 @@ Advertisers and other third-parties (including the ad networks, ad-serving compa
 
 Also, some third-party cookies may provide them with information about you (such as the sites where you have been shown ads or demographic information) from offline and online sources that they may use to provide you more relevant and useful advertising.
 
-If you would like to learn more about what options you have about limiting the gathering of information by third-party ad networks, you can consult the website of the [Network Advertising Initiative](http://optout.networkadvertising.org/).
+If you would like to learn more about what options you have about limiting the gathering of information by third-party ad networks, you can consult the website of the [Network Advertising Initiative](https://optout.networkadvertising.org/).
 
 You can opt out of participating in interest-based advertising networks but opting out does not mean you will no longer receive online advertising. It does mean that the companies from which you opted out will no longer customize ads based on your interests and web usage patterns using cookie-based technology.
 
 ### What Do We Do With Information We Collect?
 
- **(a)  Personal information:** We will not share your personal information with any third parties without your consent, except as necessary to provide you with the services offered by us or to comply with the law.
+**(a)  Personal information:** We will not share your personal information with any third parties without your consent, except as necessary to provide you with the services offered by us or to comply with the law.
 
 Examples of such services include, but are not limited to, third parties providing email facilitation and hosting. However, please note that if you leave Wealthy Gorilla and purchase a product or service we promote, the company you purchase from will notify us of the purchase as well as certain identifying information for you. We do not share this information with others.
 
- **(b)  Anonymous information:** We use anonymous information to analyze our website’s traffic. In addition, we may use anonymous IP addresses to help diagnose problems with our server, to administer our Site, or to display the content according to your preferences.
+**(b)  Anonymous information:** We use anonymous information to analyze our website’s traffic. In addition, we may use anonymous IP addresses to help diagnose problems with our server, to administer our Site, or to display the content according to your preferences.
 
 Traffic and transaction information may also be shared with business partners and advertisers on an aggregate and anonymous basis. Your personal information will not be detailed in this aggregate data.
 
- **(c)  Use of cookies:** We use information obtained from cookies to analyze your use of the Site and to make appropriate adjustments.
+**(c)  Use of cookies:** We use information obtained from cookies to analyze your use of the Site and to make appropriate adjustments.
 
- **(d)  Disclosure of personal information:** We may disclose personal information if required to do so by law or in the good-faith belief that such action is necessary to:
+**(d)  Disclosure of personal information:** We may disclose personal information if required to do so by law or in the good-faith belief that such action is necessary to:
 
   1. Conform to the edicts of the law or comply with legal process served on Wealthy Gorilla
   2. Protect and defend the rights or property of Wealthy Gorila or the users of our website
@@ -108,19 +108,19 @@ Traffic and transaction information may also be shared with business partners an
 
 
 
- **(e)  Sale of information:** In order to accommodate changes in our business, we may sell or buy portions of Wealthy Gorilla or other companies or assets, including the information collected through this website and from orders of our product including your customer information.
+**(e)  Sale of information:** In order to accommodate changes in our business, we may sell or buy portions of Wealthy Gorilla or other companies or assets, including the information collected through this website and from orders of our product including your customer information.
 
 If Wealthy Gorilla or substantially all of its assets are acquired by a third party, your personally identifiable information will be one of the assets transferred to the acquirer.
 
- **(f)  DMCA claim disclosure:** We comply with the Digital Millennium Copyright Act of 1998, better known as the “DMCA”.  Should we receive a claim of copyright infringement, we will comply with the safe harbor requirements of the DMCA. Part of that compliance may require the disclosure of your identity if you are either the allegedly infringing party or the party filing the copyright infringement complaint.
+**(f)  DMCA claim disclosure:** We comply with the Digital Millennium Copyright Act of 1998, better known as the “DMCA”.  Should we receive a claim of copyright infringement, we will comply with the safe harbor requirements of the DMCA. Part of that compliance may require the disclosure of your identity if you are either the allegedly infringing party or the party filing the copyright infringement complaint.
 
- **(g)  Sharing of information:** We have agreements with various affiliated service providers to facilitate the functioning of the Website; with whom we may share the information we have collected. For example, we may share your credit card information with the credit card service provider to process your purchase.
+**(g)  Sharing of information:** We have agreements with various affiliated service providers to facilitate the functioning of the Website; with whom we may share the information we have collected. For example, we may share your credit card information with the credit card service provider to process your purchase.
 
 All administrative service providers that we use are required to have the same level of privacy protection as we have; and therefore we expect that your information will be handled with the same level of care that we employ. Additionally, for example, we may use analytic or marketing services such as Google Analytics, Google Adsense, Taboola, or RevContent, to which collection you hereby unconditionally consent.
 
- **(h)  Statistical analysis:** We may share Non-Personal Information and aggregated information with third parties, including but not limited to for advertising or marketing purposes. No Personal Information will be shared in this manner.
+**(h)  Statistical analysis:** We may share Non-Personal Information and aggregated information with third parties, including but not limited to for advertising or marketing purposes. No Personal Information will be shared in this manner.
 
-##  **Security**
+## **Security**
 
 WealthyGorilla.com has reasonable security measures in place such as Secure Sockets Layer protocols to prevent the loss, misuse, and alteration of the information that we obtain from you; but we make no assurances about our ability to prevent any such loss, misuse, to you or to any third party arising out of any such loss, misuse, or alteration.
 
@@ -128,23 +128,23 @@ WealthyGorilla.com has reasonable security measures in place such as Secure Sock
 
 Our website contains links to and interfaces with third party websites and online platforms. These websites and online platforms have established their own terms of use and privacy policies. You are encouraged to read those documents as we have no control over their provisions and said documents may differ greatly from our terms and privacy policy.
 
-##  **How to Opt Out of Interest-Based Advertising**
+## **How to Opt Out of Interest-Based Advertising**
 
- **(a) Opting Out of Interest-Based Advertising Services**
+**(a) Opting Out of Interest-Based Advertising Services**
 
 This website is a member of the [Network Advertising Initiative](https://www.networkadvertising.org/) (NAI) and adheres to the NAI Codes of Conduct as described on the NAI website. This website also adheres to the Digital Advertising Alliance (DAA) Self-Regulatory Principles.
 
-For a description of the DAA Program, please visit the [DAA website](http://digitaladvertisingalliance.org/). As described above, this website may use or transfer Device Data that it directly collects or that it receives from this website ís Customers, who may use cookies or non-cookie technologies; to enable advertising that is more tailored to Consumers inferred interests, preferences, and locations. This practice is known as interest-based advertising.
+For a description of the DAA Program, please visit the [DAA website](https://digitaladvertisingalliance.org/). As described above, this website may use or transfer Device Data that it directly collects or that it receives from this website ís Customers, who may use cookies or non-cookie technologies; to enable advertising that is more tailored to Consumers inferred interests, preferences, and locations. This practice is known as interest-based advertising.
 
- **(b) Opting Out of Interest-Based Advertising by Third Parties**
+**(b) Opting Out of Interest-Based Advertising by Third Parties**
 
 This website may permit third parties to collect information on its Site and combine that information with other information collected on non-affiliated websites or applications over time.
 
 These third parties may use technologies, including cookies and web beacons, to collect information about Consumers or Customers use of WealthyGorilla.com. In order to analyze, report on, or customize content or advertising on the this website or on other sites, or to help us operate and improve the website.
 
-To find out more about interest-based advertising in the web environment, and how to opt-out of information collection for this purpose by companies that participate in the Network Advertising Initiative or the Digital Advertising Alliance, visit [NAIís opt-out page](http://optout.networkadvertising.org/) or [DAAís Consumer Choice Page](http://optout.aboutads.info/).
+To find out more about interest-based advertising in the web environment, and how to opt-out of information collection for this purpose by companies that participate in the Network Advertising Initiative or the Digital Advertising Alliance, visit [NAIís opt-out page](https://optout.networkadvertising.org/) or [DAAís Consumer Choice Page](https://optout.aboutads.info/).
 
-##  **Newsletters**
+## **Newsletters**
 
 On the Website, you may subscribe to our newsletter, which may be used for advertising purposes. All newsletters sent may contain tracking pixels. The pixel is embedded in emails and allows an analysis of the success of online marketing campaigns.
 
@@ -162,14 +162,14 @@ Forget – In certain situations, you may request that we erase or forget your p
 
 Please note that we may need to retain certain information for recordkeeping purposes or to complete transactions, or when required by law.
 
-##  **Sensitive Personal Information**
+## **Sensitive Personal Information**
 
 At no time should you submit sensitive personal information to the Website. This includes your social security number, information regarding race or ethnic origin, political opinions, religious beliefs, health information, criminal background, or trade union memberships. If you elect to submit such information to us, it will be subject to this Privacy Policy.
 
-##  **Children’s Information**
+## **Children’s Information**
 
 The Website does not knowingly collect any personally identifiable information from children under the age of 16. If a parent or guardian believes that the Website has personally identifiable information of a child under the age of 16 in its database, please contact us immediately at danwestern@wealthygorilla.com and we will use our best efforts to promptly remove such information from our records.
 
-##  **Contact Information**
+## **Contact Information**
 
 If you have any questions about this policy, or our practices related to this website; please email our founder Dan Western at [danwestern@wealthygorilla.com](mailto:danwestern@wealthygorilla.com).
