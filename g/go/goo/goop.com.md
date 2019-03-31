@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the goop.com privacy policy that was archived on 2018-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181230205045id_/https%3A//goop.com/privacy-cookies-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the goop.com privacy policy that was archived on 2019-03-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190331200403id_/https%3A//goop.com/privacy-cookies-policy) for the most accurate reproduction.*
 
 # Privacy & Cookies Policy | Goop
 
@@ -118,7 +118,7 @@ You may wish to visit <http://www.networkadvertising.org/understanding-online-ad
 
 If you want to be removed from our marketing list and do not want us to send you e-mail, postal mail or other messages about our products and services, you can opt out. To do so, please send an e-mail to [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection), with the word “REMOVE” in the subject line.
 
-California Civil Code Section 1798.83 permits California residents to request certain information regarding our disclosure of such residents’ personal information to third parties for such third parties’ direct marketing purposes. To make such a request, please e-mail us at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#b8dbcdcbccd7d5ddcacbddcaced1dbddf8dfd7d7c896dbd7d5).
+California Civil Code Section 1798.83 permits California residents to request certain information regarding our disclosure of such residents’ personal information to third parties for such third parties’ direct marketing purposes. To make such a request, please e-mail us at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#fc9f898f889391998e8f998e8a959f99bc9b93938cd29f9391).
 
 ### **Privacy Policy Updates**
 
@@ -148,4 +148,4 @@ Goop Inc.
 Santa Monica, CA 90402  
 Attn: Customer Service
 
-By e-mail: [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#40233533342f2d25323325323629232500272f2f306e232f2d)
+By e-mail: [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#096a7c7a7d66646c7b7a6c7b7f606a6c496e666679276a6664)
