@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the citizen.org privacy policy that was archived on 2018-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181229221952id_/https%3A//www.citizen.org/public-citizens-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the citizen.org privacy policy that was archived on 2019-03-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190331202505id_/https%3A//www.citizen.org/public-citizens-privacy-policy) for the most accurate reproduction.*
 
 # Public Citizen's Privacy Policy | Public Citizen
 
@@ -66,3 +66,7 @@ This page reflects the current policy at any given time. It may be updated occas
 
    
 If you have questions about this privacy policy, contact our Member Services team at (800) 289-3787 or [member@citizen.org](mailto:member@citizen.org).
+
+PCF URL: 
+
+/about/articles.cfm?ID=6272
