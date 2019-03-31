@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the nationalnotary.org privacy policy that was archived on 2016-10-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161029032713id_/https%3A//www.nationalnotary.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nationalnotary.org privacy policy that was archived on 2019-03-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190331065627id_/https%3A//www.nationalnotary.org/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | NNA
 
-(Last updated: October 2016)
+(Last updated: May 2018)
 
 The National Notary Association (NNA) is committed to protecting your privacy. This NNA Privacy Statement governs the data collection and usage within the NNA family of Web sites: NationalNotary.org, SigningAgent.com, NNAcnap.org and any other domain under the ownership or control of the NNA (the “NNA family of Web sites”). By visiting these Web sites, you consent to the practices set forth in this Privacy Statement. Please take a moment to review the sections below.
 
@@ -15,6 +15,8 @@ The NNA may require you to enter personal information, including your name, ema
 You also may register with the NNA by creating a “My NNA Profile.” To register, the NNA requires you to submit your name, email address, and to select a unique password. When creating your account, you must provide complete and accurate information on your own behalf using your own information, and you must keep your unique password secure. You alone are responsible for any activity that occurs on your account.
 
 If you choose to place an order through NationalNotary.org, we require you to provide your name, shipping and billing address, email address, phone number and credit card information. This personal information is only used for order fulfillment, credit authorization, and to contact you regarding NNA business. Personal information for the role of credit card authorization may be shared with a third-party credit card processing center.
+
+The NNA may collect information required by the states for Notary commissioning and auditing purposes, including but not limited to personal information data such as driver’s license or passport information. This information will be retained for the period designated by the commissioning state, even if you opt out or exercise your Right to be Forgotten in the European Union. Information collected for commissioning purposes may be shared with the commissioning state upon their request for the purposes of confirming commissioning information and/or auditing.
 
 The NNA also collects certain information about your computer hardware and software. This information may include: your IP address, browser type, domain names, access times, referring website addresses and pages visited within NNA Web sites. This information is used by the NNA for the operation of our websites, to maintain quality of the services offered, and to provide general statistics regarding use of the NNA websites.
 
@@ -69,6 +71,8 @@ In each case described above, you will be asked to make your requests while logg
 As part of your NNA membership, you may receive periodic emails informing you of technical service issues, product surveys, featured news articles and news about NNA products and services. These emails provide an option for you to unsubscribe to future mailings.
 
 In the event that the Customer or NNA Member is denied access to this information for any reason, please contact our Customer Care department to resolve this access issue and/or to look up a user ID or reset a password to gain access.  Password resets can be performed online on a self-serve basis as well.
+
+As a Customer or NNA member, if you have a concern that there has been a breach of your private information or our website, please contact customer service at 1-800-876-6827.  We will immediately launch an investigation and report back to you any results of this search.
 
 ### California Privacy Rights
 
