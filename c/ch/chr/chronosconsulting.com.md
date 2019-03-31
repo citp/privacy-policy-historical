@@ -1,37 +1,81 @@
-> *The following text is extracted and transformed from the chronosconsulting.com privacy policy that was archived on 2018-04-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180416151649id_/http%3A//chronosconsulting.com/index.php/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the chronosconsulting.com privacy policy that was archived on 2019-03-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190331203444id_/https%3A//www.chronosconsulting.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Chronos Consulting
+# Privacy Policy - Coberon Chronos Consulting
 
-**Terms & Conditions**
+Chronos Coberon Group* respect your concerns about privacy. This Privacy Policy applies to our job candidates, our clients, other people or entities we provide our HR services to and users of the website.
 
-Chronos Consulting is committed to protecting your privacy. In general, you can visit our website without providing us with any personal information. Certain parts of our website (further mentiones as Website)requires you to give us your personal details via email or via job application form(s), or through any product or services that you are interested in. We may use this information to contact you via email or phone. 
+Because some of the information we collect may ultimately relate to you, it is collected, handled and secured in accordance with the General Data Protection Regulation, Regulation(EU) 2016/679 of 27 April 2016.
 
-**Information on this Website**
+Please read our privacy policy carefully to get a clear understanding of how we collect, use, protect or otherwise handle your personal data in accordance with our website and services we provide.
 
-This Website may contain links to third party websites. Chronos Consulting is not responsible for the content or privacy policies of those websites. However make every possible effort to ensure that the information on this Website is accurate including the partial or whole information is supplied by third parties via links but we are not able to check the accuracy or completeness of that information. We do not accept any liability arising from any inaccuracy or omission in any of the information on our Website or any liability in respect of information on the Website supplied by you, any other website user or any other person.
+As we operate in many countries around the world, our privacy practices may vary among the regions to reflect local practices and laws.
 
-****Privacy Policy****
+## What personal information do we collect from the people that visit our blog and website or apply for a job offer?
 
-**Use of this Site**
+When uploading a CV, requesting information or sending a message by using a form on our site, as appropriate, you may be asked to enter your name, email address, mailing address, phone number, localization, career information or other information contained in your resume or CV to help you with your experience on the website. Moreover the information you provided enables us to contact you to answer your questions or to proceed with the recruitment or other HR processes.
 
-You may only use the Website for lawful purposes when seeking employment or help with your careerwhile submitting your CV via email or directly by forms. You must not under any circumstances seek to undermine the security of the Website or any information submitted to or available through it. In particular, but without limitation, you must not seek to access, alter or delete any information to which you do not have authorised access, seek to overload the system via spamming or flooding, take any action or use any device, routine or software to crash, delay, damage or otherwise interfere with the operation of the Website or attempt to decipher, disassemble or modify any of the software, coding or information comprised in the Website.
+## When do we collect information?
 
-**Special Clause On Information Submitted or Shared by You**
+We collect information from you when you upload a CV, request information or send a message by using forms on ours site. We may collect certain information by automated means, such as cookies when you browse our website.
 
-You are solely responsible for any information submitted by you to or through the Website, any third-party applications. You are responsible for ensuring that all information supplied by you is true, accurate, up-to-date and not misleading or likely to mislead or deceive and that it is not discriminatory, obscene, offensive, defamatory or otherwise illegal, unlawful or in breach of any applicable legislation, regulations, guidelines or codes of practice or the copyright, trade mark or other intellectual property rights of any person in any jurisdiction. You are also responsible for ensuring that all information, data and shared files are free of viruses or other routines or applications that may damage or interfere with any system or data prior to being submitted to this website. We reserve the right to remove any information supplied by you from the Website at our sole discretion at any time and for any reason without being required to give any explanation.
+## How do we use your information?
 
-We will and/or the Chronos Consulting Inc. and any Coberon Chronos Group members will use information supplied by you (including, without limitation the submitted personal data –name/phone/email address only) to aid the recruitment process and associated administrative functions made or provided through this website. This involves us and/or the Chronos Consulting Inc. and any Coberon Chronos Group members, amongst other partners, processing and storing information (including, without limitation submitted personal data –name/phone/email address only) and passing or making available online such information to prospective employers (or third parties assisting them in their recruitment process), course partners or  clients. CVs may be  passed to potential employers or clients. However, resumes are not posted on the website. We may use third parties to help us process your information as part of the recruitment and sales process. We may collect and aggregate anonymus or non-anonymus data from the information supplied by you to help us to understand our users (as jobseeker) group so that we can provide you with a better service. We may also share selected information with selected third parties without disclosing individual names or data. You consent to us and the Chronos Consulting Inc. and any Coberon Chronos Group members using information provided by you  \- including, without limitation, sensitive or non- sensitive personal data- in each of these ways.
+We may use the information we collect from when you surf the website, upload a CV, request information or send a message by using forms on ours site or use certain other site features in the following ways, as permitted under local law:
 
-Please note that all our clients have agreed Chronos Consulting‘s Terms and Conditions and should they be found to be in breach of the Terms and Conditions, they will be prevented from using our services. We may process any data which you provide on the application forms and any further or future forms  and any personal details which you complete or provide to us when using the Website in accordance with primarily US data protection legislations.
+  * To allow us to better serve you in responding to your customer service requests,
+  * To follow up with them after correspondence (live chat, email or phone inquiries),
+  * To respond to individuals’ inquiries,
+  * To send periodic emails regarding your recruitment process or new job offers only if you have given us permission to do so,
+  * To provide HR services to you, including administration of benefit programs, payroll, performance management and disciplinary actions,
+  * We use your personal data you provided us in your application, CV, motivational letter of other recruitment related materials you sent us for recruitment and hiring purposes only, that may include using it for payrolling services or accounts management. We share this data with our clients – your potential employer. Chronos Consulting does not share it with any third party that is not related to your recruitment and hiring process,
+  * To customize and deliver better content on our website tailored to our users’ interests and the manner in which they use our website by using cookies, but only if we obtain your consent before collecting information using cookies or similar automated means.
 
-**Cancelling Your Application**
 
-We may cancel or terminate any of your submitted CV and shared profiles, info at any time without any explanation or notification.
 
-## **Legal Notice**
+We also use third-party analytics services on our Site, such as Google Analytics, that use things like cookies or web server logs. The information collected through these means (including IP address) may be disclosed to Google Analytics, to evaluate use of our website. To learn more about these analytics services and how to opt out, please visit the following site:
 
-Chronos Consulting authorizes you to view, print and copy information published on this website under condition that the material may be used internally only for informational and non-commercial purposes. The Chronos Consulting, Coberon, Coberon Chronos Group, Costa Del Jobs logos, brands and any corporate names are registered trademarks of Chronos Systems and/or Chronos Consulting.
+Google Analytics: https://tools.google.com/dlpage/gaoptout
 
-**Change of Terms & Conditions (T&C) or Privacy Policy**
+## How do we protect your information?
 
-Chronos Consulting reserves the right to modify its T&C or Privacy Policy any time without notice. 
+Your personal information is contained behind secured networks and is only accessible by a limited number of persons who have special access rights to such systems, and are required to keep the information confidential. In addition, all sensitive information you supply is encrypted via Secure Socket Layer (SSL) technology.
+
+We implement a variety of security measures when a user places an order enters, submits, or accesses their information to maintain the safety of your personal information.
+
+## Do we use ‘cookies’?
+
+Yes. Cookies are small files that a site or its service provider transfers to your computer’s hard drive through your Web browser (if you allow) that enables the site’s or service provider’s systems to recognize your browser and capture and remember certain information. For instance, we use cookies to help us remember and process the items in your shopping cart. They are also used to help us understand your preferences based on previous or current site activity, which enables us to provide you with improved services. We also use cookies to help us compile aggregate data about site traffic and site interaction so that we can offer better site experiences and tools in the future.
+
+## We use cookies to:
+
+  * Compile aggregate data about site traffic and site interactions in order to offer better site experiences and tools in the future. We may also use trusted third-party services that track this information on our behalf.
+
+
+
+You can choose to have your computer warn you each time a cookie is being sent, or you can choose to turn off all cookies. You do this through your browser settings. Since every browser is a little different, look at your browser’s Help Menu to learn the correct way to modify your cookies.
+
+If you turn cookies off, it won’t affect the user’s experience.
+
+## Third-party disclosure
+
+We do not sell, trade, or otherwise transfer to outside parties your personal information unless we provide users with advance notice. This does not include website hosting partners and other parties who assist us in operating our website, conducting our business, or serving our users, so long as those parties agree to keep this information confidential. We may also release information when it’s release is appropriate to comply with the law, enforce our site policies, or protect ours or others’ rights, property or safety.
+
+However, non-personally identifiable visitor information may be provided to other parties for marketing, advertising, or other uses.
+
+## Third-party links
+
+Occasionally, at our discretion, we may include or offer third-party products or services on our website. These third-party sites have separate and independent privacy policies. We therefore have no responsibility or liability for the content and activities of these linked sites. Nonetheless, we seek to protect the integrity of our site and welcome any feedback about these sites.
+
+## Your rights
+
+You have the right to be forgotten and have your data erased from our database. You can also rectify or access data, restrict processing, withdraw consent and be kept informed about the processing of your data. If you do not want your personal data to be processed by Chronos Consulting or if you have any question regarding processing your personal data in our company, please send a request to your local Chronos Consulting GDPR officer.
+
+## Contacting Us
+
+If there are any questions regarding this privacy policy, you may contact us at [gdpr@chronosconsulting.com](mailto:gdpr@chronosconsulting.com)
+
+or by using Contact Us form on the website.
+
+*By Chronos Consulting Group we mean the following:
+
+Chronos Turkey, Chronos USA, Chronos Mexico, Chronos Costa Rica, Chronos Colombia, Chronos Argentina, Chronos Canada, Chronos France, Chronos Italia, Chronos Czech Republic, Chronos UK/DMC, Coberon Polska, Coberon Russia, Chronos CBC, Chronos Systems, Chronos Systems Polska.
