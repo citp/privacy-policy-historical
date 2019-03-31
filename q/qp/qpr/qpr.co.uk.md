@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the qpr.co.uk privacy policy that was archived on 2018-09-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180928021602id_/https%3A//www.qpr.co.uk/content/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the qpr.co.uk privacy policy that was archived on 2019-03-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190331072520id_/https%3A//www.qpr.co.uk/content/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
+
+icon_corner icon_start_stop icon_start_stop icon_start_stop goal-black icon_post icon_miss icon_save icon_card_red icon_save icon_start_stop icon_sub icon_card_yellow instagram icon-2018 twitter icon-2018 youtube icon-2018
 
 QPR Holdings ltd and Queens Park Rangers Football & Athletic club (Club) (“we”, “our”, “us”) take your privacy very seriously.
 
@@ -46,7 +48,7 @@ In addition, we reserve the right to perform statistical analysis of user behavi
 
 **Purpose/ Processing Activity** | **Lawful Basis for processing under GDPR.**  
 ---|---  
-Processing membership forms and payments/subs | Performance of a contract  
+Processing membership forms and payments/subs and creating tickets | Performance of a contract  
 Organising matches | Performance of a contract  
 Sending out match or Club information and updates | Performance of a contract  
 Sharing data with coaches, managers or officials to run training sessions or enter events | Performance of a contract  
