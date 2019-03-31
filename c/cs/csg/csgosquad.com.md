@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the csgosquad.com privacy policy that was archived on 2017-01-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170116091536id_/https%3A//csgosquad.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the csgosquad.com privacy policy that was archived on 2019-03-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190331171831id_/https%3A//csgo-stats.com/privacy) for the most accurate reproduction.*
 
-# CS:GO Squad - Privacy Policy
+# CS:GO Stats - Privacy Policy
 
 #### Information We Collect and How We Use Them
 
