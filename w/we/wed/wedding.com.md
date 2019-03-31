@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wedding.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606193042id_/https%3A//www.wedding.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wedding.com privacy policy that was archived on 2019-03-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190331192959id_/https%3A//www.wedding.com/privacypolicy) for the most accurate reproduction.*
 
 # Privacy Policy - Wedding.com
 
@@ -16,9 +16,10 @@ Information Collected Upon Registration. If you desire to have access to certain
 
 Company Information. If you create a Vendor Profile, you have the opportunity to provide additional information ("Company Information") such as your company name, address, phone number, website and a description of your company and the services you provide. You may also upload a profile picture and photo gallery of your previous work. We may supplement or modify the Company Information to conform to our editorial policies or to add information from your website, materials that you supply to us, or publicly available sources. When you respond to a Consumer's Service Request, your Company Information and Profile is displayed to the Consumer making such a Service Request. Providing additional information beyond what is required at registration is entirely optional, but may enable you market your services more effectively and potentially win more jobs at Wedding.com. If you contact us by email through Wedding.com, we may keep a record of your contact information and correspondence, and use such information to respond to your inquiry. 
 
-In general, we may use information that we collect about you to:
+In general, we may use information that we collect about you to: 
 
   * provide you with the products and services that you have requested;
+  * We use your information to help create connections between vendors and couples;
   * market your services to potential local customers;
   * manage your account and provide customer support;
   * perform research and analysis about your use of, or interest in, our products, services, or content, or products, services or content offered by others;
@@ -46,7 +47,7 @@ To Provide Information to Partner Companies. We may enter into agreements with o
 
 To Facilitate Wedding.com's Use of Third-Party Services. We engage certain trusted third parties to perform functions and provide services to us, including, without limitation, hosting and maintenance, customer relationship, database storage and management, direct marketing campaigns and User credit card information storage. We will share your personally identifiable information with these third parties, but only to the extent necessary to perform these functions and provide such services, and only pursuant to binding contractual obligations requiring such third parties to maintain the privacy and security of your data. 
 
-To Comply with Laws and Law Enforcement. Wedding.com may provide information to regulatory authorities and law enforcement officials in accordance with applicable law or when we otherwise believe in good faith that the law requires it. There may be instances when we may access or disclose your information in order to protect or defend the legal rights or property Wedding.com 
+To Comply with Laws and Law Enforcement. Wedding.com may provide information to regulatory authorities and law enforcement officials in accordance with applicable law or when we otherwise believe in good faith that the law requires it. There may be instances when we may access or disclose your information in order to protect or defend the legal rights or property Wedding.com. 
 
 In Connection with Business Transfers. Wedding.com may sell, transfer or otherwise share some or all of its assets in connection with a merger, reorganization or sale of assets, or in the event of bankruptcy. In such an event, personal information may be one of the assets transferred. 
 
@@ -58,4 +59,4 @@ Wedding.com may contain links to other websites. Wedding.com is not responsible 
 
 This website is a general audience site and does not knowingly collect personally identifiable information from children under 13 years of age. If Wedding.com becomes aware that a child under 13 has submitted personally identifiable information, Wedding.com will delete that information. Parents who become aware that a child under the age of 13 has submitted personal information to Wedding.com may contact us at [support@wedding.com](mailto:support@wedding.com). 
 
-If you are a registered user of Wedding.com, you may access and update or correct the information you provided to us by updating your settings in Account Information. If you wish to delete your account, you must email us at [support@wedding.com](mailto:support@wedding.com) or call us at (800) 609-2135. 
+If you are a registered user of Wedding.com, you may access and update or correct the information you provided to us by updating your settings in Account Information. If you wish to delete your account, you must email us at [support@wedding.com](mailto:support@wedding.com) or call us at **(800) 609-2135**. 
