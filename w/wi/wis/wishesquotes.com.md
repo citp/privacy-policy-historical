@@ -1,6 +1,9 @@
-> *The following text is extracted and transformed from the wishesquotes.com privacy policy that was archived on 2018-10-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181003205738id_/https%3A//www.wishesquotes.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wishesquotes.com privacy policy that was archived on 2019-04-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190401013610id_/https%3A//www.wishesquotes.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy – WishesQuotes
+
+  
+
 
 ## Privacy Policy of www.wishesquotes.com
 
@@ -420,7 +423,7 @@ Please note, however, that if you delete cookies or refuse to accept them, you m
   * For the Chrome web browser, please visit this page from Google: <https://support.google.com/accounts/answer/32050>
   * For the Internet Explorer web browser, please visit this page from Microsoft: <http://support.microsoft.com/kb/278835>
   * For the Firefox web browser, please visit this page from Mozilla: <https://support.mozilla.org/en-US/kb/delete-cookies-remove-info-websites-stored>
-  * For the Safari web browser, please visit this page from Apple: <https://support.apple.com/kb/PH21411?locale=en_US>
+  * For the Safari web browser, please visit this page from Apple: <https://support.apple.com/guide/safari/manage-cookies-and-website-data-sfri11471/mac>
   * For any other web browser, please visit your web browser’s official web pages.
 
 
