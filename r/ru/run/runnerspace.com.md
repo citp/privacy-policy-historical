@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the runnerspace.com privacy policy that was archived on 2018-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181118135733id_/http%3A//about.runnerspace.com/gprofile.php%3Fdo%3Dtitle%26title_id%3D774%26mgroup_id%3D38022) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the runnerspace.com privacy policy that was archived on 2019-03-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190331102414id_/https%3A//about.runnerspace.com/gprofile.php%3Fdo%3Dtitle%26title_id%3D774%26mgroup_id%3D38022) for the most accurate reproduction.*
 
 # About - Privacy Policy - Privacy Policy
 
