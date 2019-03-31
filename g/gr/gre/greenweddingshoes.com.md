@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the greenweddingshoes.com privacy policy that was archived on 2018-10-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181007233738id_/https%3A//greenweddingshoes.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the greenweddingshoes.com privacy policy that was archived on 2019-03-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190331015700id_/https%3A//greenweddingshoes.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Green Wedding Shoes
 
-_Updated May 23, 2018_
+_Updated October 26, 2018_
 
 We’ve recently updated both our Privacy Policy and [Terms of Service](https://greenweddingshoes.com/terms-of-service/) to improve transparency and communicate your control over your data.
 
@@ -75,6 +75,10 @@ We may combine this automatically collected log information with other informati
 We have hired third parties to provide us information, reports and analysis about the usage, browsing patterns of our users. They may independently record the type of device and operating system you are using, general location information, as well as events that occur within our apps, such as how often you use our apps.
 
 **Location Information:**  The ads on greenweddingshoes.com are not targeted to you based on your current GPS location, but they may be targeted to you based on your ZIP code or device’s IP address.
+
+**Google Signals**
+
+Google Analytics will associate the visitation information it collects from GWS Services with Google information from accounts of signed-in users who have consented to this association for the purpose of ads personalization. This Google information may include end user location, search history, YouTube history, and data from sites that partner with Google—and is used to provide aggregated and anonymized insights into users’ cross device behaviors. Your data may be accessed and/or deleted by end users via [My Activity](https://myactivity.google.com/myactivity).
 
 #### **Third Parties**
 
