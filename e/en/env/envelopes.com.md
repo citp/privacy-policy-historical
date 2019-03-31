@@ -1,12 +1,16 @@
-> *The following text is extracted and transformed from the envelopes.com privacy policy that was archived on 2016-10-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161022120617id_/https%3A//www.envelopes.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the envelopes.com privacy policy that was archived on 2019-03-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190331223815id_/https%3A//www.envelopes.com/privacy) for the most accurate reproduction.*
 
-# 
+# Privacy Policy | Envelopes.com
 
-[](https://web.archive.org/)
+__TODAY'S DEALS
 
-Products __
+RECENTLY VIEWED 
 
-Printing __
+#### All of Our Special Offers in One Place!
+
+#### Your Recently Viewed Items
+
+Want to pick up where you left off? Here are a few of your recently viewed items.
 
 ##### Privacy Policy
 
@@ -36,7 +40,7 @@ Our web site contains links to sites developed by other companies and organizati
 
 ##### "Opt Out" Policy
 
-By default, we do not send Envelopes.com users any unsolicited e-mail. We only send notifications of product updates, etc., if a user has specifically requested this information. The choice of whether or not to receive these notifications can be changed at any time by sending an e-mail to [service@envelopes.com.](mailto:service@envelopes.com)
+By default, we do not send Envelopes.com users any unsolicited e-mail. We only send notifications of product updates, etc., if a user has specifically requested this information. The choice of whether or not to receive these notifications can be changed at any time by sending an e-mail to [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#f98a9c8b8f909a9cb99c978f9c9596899c8ad79a9694)
 
 ##### Updating Your Information
 
@@ -52,7 +56,7 @@ If another website attempts to falsely identify itself as www.Envelopes.com, you
 
 ##### How You Can Help Keep Your Information Secure
 
-The most important step you can take to keep your information secure is to keep your password secure. Do not give your password to other people and avoid choosing "easily guessed" passwords (e.g. any single word in the dictionary, proper names of people and places easily associated with you, etc.). Change your password immediately if you suspect someone has been accessing your account without your permission (click on the "Profile" section of the Envelopes.com web site after logging in). If for any reason you suspect a security violation has occurred, please immediately send an e-mail to [service@envelopes.com.](mailto:service@envelopes.com) with a description of the situation. 
+The most important step you can take to keep your information secure is to keep your password secure. Do not give your password to other people and avoid choosing "easily guessed" passwords (e.g. any single word in the dictionary, proper names of people and places easily associated with you, etc.). Change your password immediately if you suspect someone has been accessing your account without your permission (click on the "Profile" section of the Envelopes.com web site after logging in). If for any reason you suspect a security violation has occurred, please immediately send an e-mail to [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#89faecfbffe0eaecc9ece7ffece5e6f9ecfaa7eae6e4) with a description of the situation. 
 
 ##### Your Consent
 
