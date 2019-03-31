@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the careeraddict.com privacy policy that was archived on 2018-11-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181128111305id_/https%3A//www.careeraddict.com/info/privacy_statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the careeraddict.com privacy policy that was archived on 2019-03-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190331095821id_/https%3A//www.careeraddict.com/info/privacy_statement) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -81,6 +81,8 @@ See below for descriptions about the cookies used on our websites and how you ca
 Our website uses [Google Analytics](https://analytics.google.com/), a web analysis service of Google, Inc. (“Google”). Learn more from their [Terms of Service](https://www.google.com/analytics/terms/us.html) and [Privacy Policy](https://www.google.com/intl/en/policies/privacy/).  _Opt-out:  _Download the browser plugin “Google Analytics Opt-out Browser Add-on” [here](https://tools.google.com/dlpage/gaoptout).
 
 Our website uses [Google AdWords](https://adwords.google.com/) Conversion Tracking cookie to measure and optimize the performance and user experience related to our ads in Google Search or selected Google Display Network sites. Learn more about Google’s privacy policy [here](https://www.google.com/intl/en/policies/privacy/).  _Opt-out:  _Visiting [Google’s Ads Settings](http://www.google.com/settings/ads).
+
+Our website uses [EZOIC](https://g.ezoic.net/privacy/careeraddict.com).
 
 **TRANSFER OF YOUR PERSONAL INFORMATION**
 
