@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the greenentrepreneur.com privacy policy that was archived on 2018-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181226114752id_/https%3A//www.greenentrepreneur.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the greenentrepreneur.com privacy policy that was archived on 2019-03-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190331041026id_/https%3A//www.greenentrepreneur.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Entrepreneur.com
 
