@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the wesabe.com privacy policy that was archived on 2018-01-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180130163705id_/https%3A//due.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wesabe.com privacy policy that was archived on 2019-03-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190331194957id_/https%3A//due.com/privacy) for the most accurate reproduction.*
 
 # Due Privacy Policy
+
+This Privacy Policy was last modified on and is effective as of May 24, 2018.
 
 Due Inc., knows that you care about how your personal information is used and shared, and we take your privacy seriously. Our primary goal is to provide you with exceptional service (see the [Terms of Use](https://due.com/terms/) for a definition), and we understand that you may have questions or concerns regarding your personal information and how it will be used.
 
@@ -14,7 +16,7 @@ Throughout this policy, we use the term “personal information” to describe i
 
 #### THE INFORMATION WE COLLECT
 
-When you visit the website or use one of our mobile applications, we collect your IP address, and standard web log information, such as your browser type and the pages you accessed on our website. We also may collect certain geo-location information. If you do not agree to our collection of this information, you may not be able to use our Service.
+When you visit the website or use one of our mobile applications, we collect your IP address, and standard web log information, such as your browser type and the pages you accessed on our website. We also may collect certain geo-location information. If you do not agree to our collection of this information, you may not be able to use our Service. You can also at anytime request us to delete your information.
 
 If you open an account, we collect the following information from you:
 
