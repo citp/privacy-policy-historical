@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the legalporno.com privacy policy that was archived on 2018-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181231012257id_/https%3A//account.legalporno.com/docs/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the legalporno.com privacy policy that was archived on 2019-04-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190401001844id_/https%3A//account.legalporno.com/docs/privacy-statement) for the most accurate reproduction.*
 
 # 
 
