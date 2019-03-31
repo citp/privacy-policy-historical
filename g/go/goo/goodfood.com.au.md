@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the goodfood.com.au privacy policy that was archived on 2018-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181207141529id_/http%3A//www.fairfaxmedia.com.au/company/privacy/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the goodfood.com.au privacy policy that was archived on 2019-04-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190401005624id_/https%3A//www.goodfood.com.au/privacy) for the most accurate reproduction.*
 
-# Privacy - Fairfax Media Limited
+# Privacy Policy
 
 You have come through to this page from a website which is published by a subsidiary of Fairfax Media Limited.
 
@@ -164,6 +164,3 @@ We may change this privacy policy from time to time. Any updated versions of thi
 
 **Tracking and Targeting**  
 [Tracking and Targeting Policy](https://web.archive.org/trackingandtargeting?Embed=Y)
-
-  
-
