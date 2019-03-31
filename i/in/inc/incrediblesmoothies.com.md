@@ -1,65 +1,187 @@
-> *The following text is extracted and transformed from the incrediblesmoothies.com privacy policy that was archived on 2017-03-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170326221153id_/http%3A//www.incrediblesmoothies.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the incrediblesmoothies.com privacy policy that was archived on 2019-04-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190401004032id_/https%3A//davyandtracy.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy - Incredible Smoothies
+# Privacy Policy - DavyandTracy.com
 
-We recognize that your privacy is important. This document outlines the types of personal information we receive and collect when you use Incredible Smoothies (http://www.incrediblesmoothies.com), as well as some of the steps we take to safeguard information. We hope this will help you make an informed decision about sharing personal information with us.
+Effective: May 20, 2018
 
-Incredible Smoothies (http://www.incrediblesmoothies.com) strives to maintain the highest standards of decency, fairness and integrity in all our operations. Likewise, we are dedicated to protecting our customers’, consumers’ and online visitors’ privacy on our website.
+Your Privacy is important to us. In this Privacy Policy, we’ll disclose how we collect and use personal information, and what rights/options you have over the information that we collect.
 
-**Personal Information**
+Please read our Privacy Policy carefully to get a clear understanding of how we collect, use, and share information about you, along with the choices that you have with respect to that information.
 
-Incredible Smoothies (http://www.incrediblesmoothies.com) collects personally identifiable information from the visitors to our website only on a voluntary basis. Personal information collected on a voluntary basis may include name, postal address, email address, company name and telephone number.
+## 1\. Who We Are
 
-This information is collected if you request information from us, participate in a contest or sweepstakes, and sign up to join our email list or request some other service or information from us. The information collected is internally reviewed, used to improve the content of our website, notify our visitors of updates, and respond to visitor inquiries.
+Our website address is: https://davyandtracy.com.
 
-Once information is reviewed, it is discarded or stored in our files. If we make material changes in the collection of personally identifiable information we will inform you by placing a notice on our site. Personal information received from any visitor will be used only for internal purposes and will not be sold or provided to third parties.
+DavyandTracy.com is a personal development and lifestyle blog by Davy and Tracy Russell. We inspire people to take bold action towards their dreams through the content on our blog, and through our engagement with social media and other online platforms. We also offer e-courses and coaching programs.
 
-**Use of Cookies and Web Beacons**
+## 2\. What Personal Data We Collect And Why We Collect It
 
-We may use cookies to help you personalize your online experience. Cookies are identifiers that are transferred to your computer’s hard drive through your web browser to enable our systems to recognize your browser. The purpose of a cookie is to tell the web server that you have returned to a specific page. For example, if you personalize the site’s pages, or register with any of our site’s services, a cookie enables Incredible Smoothies (http://www.incrediblesmoothies.com) to recall your specific information on subsequent visits.
+We only collect information about you if we have a reason to do so – for example, to provide our website’s services, to communicate with you, or to make improvement to our website’s function. 
 
-You have the ability to accept or decline cookies by modifying your web browser; however, if you choose to decline cookies, you may not be able to fully experience the interactive features of the site.
+We collect information in three ways: 
 
-A web beacon is a transparent image file used to monitor your journey around a single website or collection of sites.They are also referred to as web bugs and are commonly used by sites that hire third-party services to monitor traffic.They may be used in association with cookies to understand how visitors interact with the pages and content on the pages of a web site.
+  1. If and when you provide information to us, 
+  2. Automatically through operating our website’s services, 
+  3. And from outside sources. 
 
-We may serve third-party advertisements that use cookies and web beacons in the course of ads being served on our website to ascertain how many times you’ve seen an advertisement. No personally identifiable information you give us is provided to them for cookie or web beacon use, so they cannot personally identify you with that information on our web site.
 
-Some third-party advertisements may be provided by Google, which uses cookies to serve ads on this site. Google uses the DART cookie, which enables it to serve ads to our users based on their visits to this site and other sites on the Web. You may opt out of the use of the DART cookie by visiting the [Google ad and content network privacy policy](http://www.google.com/privacy_ads.html).
 
-Browsers can be set to accept or reject cookies or notify you when a cookie is being sent. Privacy software can be used to override web beacons. Taking either of these actions shouldn’t cause a problem with our site, should you so choose.
+The information we collect may include:
 
-**Children’s Online Privacy Protection Act**
+### Comments
 
-This website is directed to adults; it is not directed to children under the age of 13. We operate our site in compliance with the Children’s Online Privacy Protection Act, and will not knowingly collect or use personal information from anyone under 13 years of age.
+When visitors leave comments on the site, we collect the data shown in the comments form, and also the visitor’s IP address and browser user agent string to help spam detection.
 
-**Non-Personal Information**
+An anonymized string created from your email address (also called a hash) may be provided to the Gravatar service to see if you are using it. The Gravatar service privacy policy is available here: https://automattic.com/privacy/. After approval of your comment, your profile picture is visible to the public in the context of your comment.
 
-In some cases, we may collect information about you that is not personally identifiable. We use this information, which does not identify individual users, to analyze trends, to administer the site, to track users’ movements around the site and to gather demographic information about our user base as a whole. The information collected is used solely for internal review and not shared with other organizations for commercial purposes.
+### Media
 
-**Release of Information**
+If you provide us with, e-mail, or upload images to the website, you should avoid uploading images with embedded location data (EXIF GPS) included. Visitors to the website can download and extract any location data from images on the website.
 
-If Incredible Smoothies (http://www.incrediblesmoothies.com) is sold, the information we have obtained from you through your voluntary participation inour site may transfer to the new owner as a part of the sale in order that the service being provided to you may continue. In that event, you will receive notice through our website of that change in control and practices, and we will make reasonable efforts to ensure that the purchaser honors any opt-out requests you might make of us.
+### Contact forms
 
-**How You Can Correct or Remove Information**
+When you fill out a contact form on our site, we collect the data that you type into the form including your name and e-mail address, as well as any other information you relay to us via the text field(s), drop-down or check-box options in the form.
 
-We provide this privacy policy as a statement to you of our commitment to protect your personal information. If you have submitted personal information through our website and would like that information deleted from our records or would like to update or correct that information, please click use our Contact Us page.
+### Cookies
 
-**Updates and Effective Date**
+If you leave a comment on our site you may opt-in to saving your name, email address and website in cookies. These are for your convenience so that you do not have to fill in your details again when you leave another comment. These cookies will last for one year.
 
-Incredible Smoothies (http://www.incrediblesmoothies.com) reserves the right to make changes in this policy. If there is a material change in our privacy practices, we will indicate on our site that our privacy practices have changed and provide a link to the new privacy policy. We encourage you to periodically review this policy so that you will know what information we collect and how we use it.
+If you have an account and you log in to this site, we will set a temporary cookie to determine if your browser accepts cookies. This cookie contains no personal data and is discarded when you close your browser.
 
-**Agreeing to Terms**
+When you log in, we will also set up several cookies to save your login information and your screen display choices. Login cookies last for two days, and screen options cookies last for a year. If you select "Remember Me", your login will persist for two weeks. If you log out of your account, the login cookies will be removed.
 
-If you do not agree to Incredible Smoothies (http://www.incrediblesmoothies.com) Privacy Policy as posted here on this website, please do not use this site or any services offered by this site.
+We also use some third party services on our site that may also create cookies. Please [read our Cookie Policy](https://davyandtracy.com/privacy/cookies/) to understand how we use cookies.
 
-Your use of this site indicates acceptance of this privacy policy.
+### Member Account Profiles
 
-[ssba_hide]
+If you become a member of our site, we collect your username, password, first and last names, and IP address for the purposes of granting you access to premium content on the site that you have purchased.
 
-### **PS: You Can Change A LOT In 28 Days!**
+### Embedded content from other websites
 
-You can feel lighter and more energetic with green smoothies and a plant-based diet. Enjoy [28 days of delicious recipes and motivation](http://www.incrediblesmoothies.com/reset/) and watch how far you will go!
+Articles on this site may include embedded content (e.g. videos, images, articles, etc.). Embedded content from other websites behaves in the exact same way as if the visitor has visited the other website.
+
+These websites may collect data about you, use cookies, embed additional third-party tracking, and monitor your interaction with that embedded content, including tracing your interaction with the embedded content if you have an account and are logged in to that website.
+
+### Analytics
+
+This website uses Google Analytics, a web analytics service provided by Google, Inc. (“Google”). Google Analytics uses cookies to help websites analyse how visitors use the site. The information generated by the cookie about your use of the website will be transmitted to, and stored by Google, on servers in the United States . Google will use this information for the purpose of evaluating your use of the website, compiling reports on website activity for website operators and providing other services relating to website activity and internet usage. 
+
+You can prevent Google’s collection and use of data by downloading and installing the browser plug-in available under https://tools.google.com/dlpage/gaoptout?hl=en.
+
+Please note that our website has configured Google Analytics with the setting “anonymizeIp”. This guarantees anonymized data collection by masking the last part of your IP address, which makes it impossible to connect an IP with an individual.
+
+Further information concerning the terms and conditions of use and data privacy can be found at https://support.google.com/analytics/answer/6004245
+
+### Compliance With Data Protection Laws For Children
+
+All content, products, and services on our website are intended for general audiences and are NOT directed to children. We do not knowingly permit children under age 13 (in the United States) or age 16 (in the EEA) to register for any content, product or service that we offer. We do not knowingly collect, use, or disclose personal information about users under age 13 (in the United States) or age 16 (in the EEA), except as permitted by law. 
+
+## 3\. How And Why We Use Information
+
+### Purposes And Legal Basis For Using Information
+
+We use information about you as mentioned above and for the purposes listed below:
+
+  * To provide our website’s services, for example, to set up and maintain your membership account and to deliver products/services that you purchase through our website in accordance with our Terms of Service;
+  * To further develop and improve our website’s services by adding new features that we think our users will enjoy;
+  * To monitor and analyze trends and better understand how users interact with our website, which helps us improve our website and makes it easier to use;
+  * To measure, gauge, and improve the effectiveness of our advertising, and better understand user retention and attrition–for example, we may analyze how many individuals purchased our product/s after receiving a marketing message;
+  * To monitor and prevent any problems with our website, protect the security of our website, detect and prevent fraudulent transactions and other illegal activities, fight spam, and protect the rights and property of DavyandTracy.com and others, which may result in us declining a transaction or the use of our website;
+  * To communicate with you, for example through an email, about offers and promotions offered by DavyandTracy.com and others we think will be of interest to you, solicit your feedback, or keep you up to date on our website’s services and products; and
+  * To personalize your experience using our website, provide content recommendations, target our marketing messages to groups of our users (for example, those in a certain geography), and serve relevant advertisements.
+
+
+
+## 4\. How We Share Information
+
+We do not sell our users’ private personal information. We share information about you in the limited circumstances spelled out below and with appropriate safeguards on your privacy:
+
+**Subsidiaries, Employees, and Independent Contractors:** We may disclose information about you to our subsidiaries, our employees, and individuals who are our independent contractors that need to know the information in order to help us provide our website’s services, or to process the information on our behalf. We require our subsidiaries, employees, and independent contractors to follow this Privacy Policy for personal information that we share with them.
+
+**Third Party Vendors:** We may share information about you with third party vendors who need to know information about you in order to provide their services. This may include vendors that help us provide our services to you (for example, email delivery services that you opt in to), those that assist us with our marketing efforts (e.g. by providing tools for identifying a specific marketing target group or improving our marketing campaigns), those that help us understand and enhance our website’s services (like analytics providers), and companies that re-publish our posts who may need information about you in order to, for example, provide authorship and proper credits back to you. We require vendors to agree to privacy commitments in order to share information with them.
+
+**Legal Requests:** We may disclose information about you in response to a subpoena, court order, or other governmental request.
+
+**To Protect Rights, Property, and Others:** We may disclose information about you when we believe in good faith that disclosure is reasonably necessary to protect the property or rights of DavyandTracy.com, third parties, or the public at large. For example, if we have a good faith belief that there is an imminent danger of death or serious physical injury, we may disclose information related to the emergency without delay.
+
+**Business Transfers:** In connection with any merger, sale of company assets, or acquisition of all or a portion of our business by another company, or in the event that DavyandTracy.com goes out of business or enters bankruptcy, user information would likely be one of the assets that is transferred or acquired by a third party. If any of these events were to happen, this Privacy Policy would continue to apply to your information and the party receiving your information may continue to use your information, but only consistent with this Privacy Policy.
+
+**Aggregated or De-Identified Information:** We may share information that has been aggregated or reasonably de-identified, so that the information could not reasonably be used to identify you. For instance, we may publish aggregate statistics about the use of our website’s services and we may share a hashed version of your email address to facilitate customized ad campaigns on other platforms.
+
+Visitor comments may be checked through an automated spam detection service.
+
+**Collection of Personal Financial Information by a Payment Service.** We use third party payment services (Stripe and PayPal) to enable you to purchase products or make payments through our website. When making a payment, you may be directed to a page operated by that Payment Service. Any information that you provide to a Payment Service will be subject to the applicable Payment Service’s privacy policy, rather than this Privacy Policy. We have no control over, and are not responsible for, any Payment Service’s use of information collected through any Payment Service.
+
+PayPal Privacy Policy: https://www.paypal.com/privacy/
+
+Stripe Privacy Policy: https://stripe.com/privacy
+
+## 5\. How Long We Retain Your Data
+
+We will retain your information for the period necessary to fulfill the purposes outlined in this Privacy Policy unless a longer retention period is required or allowed by law.
+
+If you leave a comment, the comment and its metadata are retained indefinitely. This is so we can recognize and approve any follow-up comments automatically instead of holding them in a moderation queue.
+
+For users that register on our website, we also store the personal information they provide in their user profile. All users can see, edit, or delete their personal information at any time (except they cannot change their username). Website administrators can also see and edit that information.
+
+Remember that even after you cancel your account, or if you ask us to delete your personal information, copies of some information from your account may remain viewable in some circumstances where, for example, you have shared information with social media or other services. Because of the nature of caching technology, your account may not be instantly inaccessible to others. We may also retain backup information related to your account on our servers for some time after cancellation or your request for deletion, for fraud detection or to comply with applicable law or our internal security or recordkeeping policies. It may is not always be possible to completely remove or delete all of your information due to technical constraints or, contractual, financial, or legal requirements.
+
+If you subscribe to our e-mail newsletter, or otherwise opt-in to electronic communication from us, we will retain your name and e-mail address indefinitely in order to send you communications that you have opted in to. Your name and e-mail may be retained for a period of time even after you have opted out of electronic communication. We periodically batch delete e-mails from persons who have unsubscribed to our services, or opted out of electronic communications from us. You may request that your name and e-mail address be permanently deleted _immediately_ after opting out of electronic communication by using the Privacy Contact Form at the very bottom of this Privacy Policy notice on our website.
+
+## 6\. What Rights You Have Over Your Data
+
+If you have an account on this site, or have left comments, you can request to receive an exported file of the personal data we hold about you, including any data you have provided to us. You can also request that we erase any personal data we hold about you. This does not include any data we are obliged to keep for administrative, legal, or security purposes.
+
+If you are located in certain countries, including those that fall under the scope of the European General Data Protection Regulation (AKA the “GDPR”), data protection laws give you rights with respect to your personal data, subject to any exemptions provided by the law, including the rights to:
+
+  * Request access to your personal data;
+  * Request correction or deletion of your personal data;
+  * Object to our use and processing of your personal data;
+  * Request that we limit our use and processing of your personal data; and
+  * Request portability of your personal data.
+
+
+
+You can usually access, correct, or delete your personal data by sending us a request via email. EU individuals also have the right to make a complaint to a government supervisory authority.
+
+### You have several choices available when it comes to the information that we may collect about you:
+
+**Limit The Information That You Provide:** If you have an account with us, you can choose not to provide the optional account information, or other profile information. Please keep in mind that if you do not provide this information, certain features of our website may not be accessible to you.
+
+**Opt-Out of Electronic Communications:** You may opt out of receiving any and all messages from us. If you subscribe to our e-mail newsletter, you can click on the “Unsubscribe” link at the bottom of every e-mail we send. Additionally, you can manually contact us to request to be opted out of any and/or all communication.
+
+If you opt out of certain messages, we may still send you other messages, like those about your account and legal notices, or responses to requests for information that you send us prior to, or after, you’ve opted out of of electronic communications.
+
+**Set Your Browser to Reject Cookies:** You can choose to set your browser to remove or reject browser cookies before visiting davyandtracy.com, with the drawback that certain features of the website may not function properly without the aid of cookies.
+
+See our [Cookie Policy](https://davyandtracy.com/privacy/cookies/) for more information about cookies, and how we use cookies.
+
+**Close Your Account:** If you have purchased our membership services and no longer wish to use our website, or keep your account, you can close your davyandtracy.com membership account by sending us a request for account deletion via email. 
+
+Please keep in mind that we may continue to retain your information after closing your account, as described in How Long We Keep Information above–for example, when that information is reasonably needed to comply with (or demonstrate our compliance with) legal obligations such as law enforcement requests, or reasonably needed for our legitimate business interests.
+
+## 7\. Contact Information
+
+You can send us questions regarding our privacy policy and your personal information via e-mail using our Privacy Contact Form at the bottom of this page.
+
+## 8\. How We Protect Your Data
+
+DavyandTracy.com takes reasonable measures to help protect information about you from loss, theft, misuse, and unauthorized access, disclosure, alteration, and destruction.
+
+This includes hosting our site with the latest encryption technology, and using best practices to safeguard against hacking and data breaches.
+
+However, no one can guarantee the complete safety of your information online since the Internet is not a 100% secure environment.
+
+## 9\. Additional Information
+
+**Changes to this Privacy Policy.** We may update this Privacy Policy at any time by posting the most recent version of it on our website, along with the date the new Privacy Policy takes effect. If we make any material changes to this Privacy Policy in the way we collect, use, and/or share personal information through our website in a manner that expand our rights to use the personal information we have already collected from you, we will notify you and provide you with a choice about our future use of that information.
+
+**Location of Data.** Our website is hosted in and managed from the United States. If you are a user located outside the United States, you understand and consent to having any personal information (which may include information collected through the use of cookies and other technologies, as described above) processed in the United States or in any other country in which we engage service providers. United States and other countries’ data protection laws may not be the same as those in your jurisdiction. In certain circumstances, courts, law enforcement agencies, regulatory agencies, or security authorities in the United States may be entitled to access your personal information.
+
+**Third-Party Sites.** If you click on or interact with a hyperlink or advertisement that you find on our website, you may leave our website or send information to a different website. Our Privacy Policy does not apply to your interactions with third-party websites, even if you find a link to them on or access them through our website, and so you should read the privacy policy of the third-party provider to see how your personal information will be treated on its site. We have no control over third-parties, their websites, or their products or services.
 
 * * *
 
-**About Tracy** Tracy Russell created Incredible Smoothies to help people improve their health with green smoothies and a plant-based lifestyle. [Read more...](http://www.incrediblesmoothies.com/about/)
+## Privacy Contact Form
+
+Please direct any privacy-related queries to our [Contact Page](https://davyandtracy.com/contact/).
