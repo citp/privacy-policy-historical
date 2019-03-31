@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the science-a2z.com privacy policy that was archived on 2018-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181227192641id_/http%3A//www.science-a2z.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the science-a2z.com privacy policy that was archived on 2019-03-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190331081947id_/https%3A//www.science-a2z.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy – Science A2Z
 
 _(Last modified:   April 18, 2018)_
 
-This privacy policy (“ **Privacy Policy** “ or “ **Policy** ”) governs the data collection practices by us (“ **Company** ” or “ **we** ” or “ **us** ”), while you (“ **you** ” or “ **yours** ” or “ **user** ”) access and use our website.
+This privacy policy (“ **Privacy Policy** “ or “ **Policy** ”) governs the data collection practices by us  **science-a2z.com** (“ **Company** ” or “ **we** ” or “ **us** ”), while you (“ **you** ” or “ **yours** ” or “ **user** ”) access and use our website.
 
 This Privacy Policy provides important and transparent disclosures on  **how**  or  **why**  we collect,  **share**  and  **use**  our users’ data. Our users’ privacy is important to us therefore we encourage you to read the Privacy Policy carefully prior to accessing or using our Website and use it to make informed decisions. By using or accessing the Website, you hereby agree to the terms of this Privacy Policy. Any use or continued use of the Website constitutes your agreement and consent to this Privacy Policy. This Privacy Policy constitutes an integral part of our [**_terms of use_**](http://www.science-a2z.com/terms-of-use/). Definitions herein shall have the same meaning as defined therein.
 
@@ -102,9 +102,9 @@ In the event you contact us and request to exercise any of your rights detailed 
 
 Please note that, you may be provided with different rights according to privacy protections laws in your jurisdiction.
 
-If you wish to be provided with more information , or you would like to exercise your rights, or in  the event that you have any additional complaints about your privacy rights, please initially contact us at:  info@science-a2z.com.
+If you wish to be provided with more information , or you would like to exercise your rights, or in  the event that you have any additional complaints about your privacy rights, please initially contact us at: [**info@science-a2z.com**](mailto:info@science-a2z.com) or contact our **Data Protection Officer Mr. Yossi Zlotnick  **at: [dpo@samyonews.com](mailto:dpo@samyonews.com)
 
-Please note that you have the right at any time to contact your local data protection authority.
+Please note that you have the right at any time to contact your local data protection authority at: [dpo@samyonews.com](mailto:dpo@samyonews.com)
 
 #### **_OPT -OUT CHOICES AND CONTROLS   _**
 
@@ -150,14 +150,18 @@ We reserve the right to periodically amend or revise the Privacy Policy. The rev
 
 #### **_CONTACT US_**
 
-** ** If you have any questions about this Privacy Policy, you may contact us at, in one of the following ways:
+** ** If you have any questions about this Privacy Policy, you may contact us in one of the following ways:
 
-  * through our [Contact Us](http://www.science-a2z.com/terms-of-use/) page
+  * through our [Contact Us](http://www.science-a2z.com/contact-us/?xcmg=1) page; or
+  * send us an email to: [**info@science-a2z.com**](mailto:info@science-a2z.com)
+  * send an email to our Data Protection Officer – Mr. Yossi Zlotnick [dpo@samyonews.com](mailto:dpo@samyonews.com)
 
 
 
 #### **_DATA PROTECTION OFFICER_**
 
-In addition to the above, if you wish to exercise your rights related to your Personal Information, or you have any requests regarding the collection of your information by us, you may contact our Data Protection Officer at:  info@science-a2z.com
+In addition to the above, if you wish to exercise your rights related to your Personal Information, or you have any requests regarding the collection of your information by us, you may contact our Data Protection Officer – Mr. Yossi Zlotnick at:
+
+[**dpo@samyonews.com**](mailto:dpo@samyonews.com)
 
 Please be sure to include your name, address and email address in any correspondence so that we can respond to your inquiry or request.
