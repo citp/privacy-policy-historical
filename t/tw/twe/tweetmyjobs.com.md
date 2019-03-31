@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tweetmyjobs.com privacy policy that was archived on 2018-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181210035516id_/https%3A//www.careerarc.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tweetmyjobs.com privacy policy that was archived on 2019-03-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190331130416id_/https%3A//www.careerarc.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | CareerArc
 
@@ -6,7 +6,7 @@ _(as of June 1, 2016)_
 
   1. **Introduction**
 
-    1. CareerArc Group LLC, with offices at 2600 W. Olive Avenue, Suite 710, Burbank, CA 91505 (referred to as, "CareerArc", "we", "us", "our") provides the [www.careerarc.com](http://www.careerarc.com/), [www.yournextstep.com](http://www.yournextstep.com/), [www.careerbeam.com](http://www.careerbeam.com/), [www.careersearch.net](http://www.careersearch.net/), [www.searchexpo.net](http://www.searchexpo.net/), [www.mycareercenter.com](http://www.mycareercenter.com/), and other CareerArc websites (collectively, the "Site"). The Site includes a variety of services, online and mobile applications, downloadable software, products and features, including, but not limited to, _CareerArc Social Recruiting, CareerArc Outplacement, CareerArc Your Next Step, CareerArc Candidate Care, CareerBeam, CareerSearch, SearchExpo, and MyCareerCenter_ , all available on various mediums or devices now known or hereafter developed (collectively, the, "Services").
+    1. CareerArc Group LLC, with offices at 3400 W. Olive Avenue, Suite 220, Burbank, CA 91505 (referred to as, "CareerArc", "we", "us", "our") provides the [www.careerarc.com](http://www.careerarc.com/), [www.yournextstep.com](http://www.yournextstep.com/), [www.careerbeam.com](http://www.careerbeam.com/), [www.careersearch.net](http://www.careersearch.net/), [www.searchexpo.net](http://www.searchexpo.net/), [www.mycareercenter.com](http://www.mycareercenter.com/), and other CareerArc websites (collectively, the "Site"). The Site includes a variety of services, online and mobile applications, downloadable software, products and features, including, but not limited to, _CareerArc Social Recruiting, CareerArc Outplacement, CareerArc Your Next Step, CareerArc Candidate Care, CareerBeam, CareerSearch, SearchExpo, and MyCareerCenter_ , all available on various mediums or devices now known or hereafter developed (collectively, the, "Services").
     2. This privacy policy ("Privacy Policy") applies to the Site and informs you (also referred to as "your" or "User") what information is collected and used on the Site and through use of the Services. If you are a Subscriber to one or more of the Services, you may additionally be required to execute a separate written contract which incorporates this Privacy Policy by reference.
     3. By clicking the "I Agree", "I Accept" button or another similar button expressing your consent during registration, or by accessing, visiting, browsing, using, signing in or attempting to interact with any part of the Site or any of the Services, you explicitly accept, without limitation or qualification, of the collection, use and transfer of the personal information provided by you in the manner described in this Privacy Policy. Please read this Privacy Policy carefully as it affects your rights and liabilities under law. If you disagree with the way we collect and process personal information collected, do not use the Site or the Services.
     4. We may make content or services from other web sites available to you from links located on the Site or through use of the Services ("Third Party Websites"). These Third Party Web sites are not subject to this Privacy Policy. We recommend that you review the privacy policy at each such website to determine how that site protects your privacy. While we take measures to safeguard your information from unauthorized access or inappropriate use by third parties, we do not control these third parties and we are not responsible for their use of information you post or otherwise make available.
@@ -100,7 +100,7 @@ _(as of June 1, 2016)_
 
 CareerArc Group LLC   
 Attn: Legal   
-2600 W. Olive Ave, Suite 710   
+3400 W. Olive Ave, Suite 220   
 Burbank, CA 91505   
 Phone: (818) 260-3100   
 Fax: (818) 260-3101   
