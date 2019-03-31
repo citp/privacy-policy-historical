@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the virtualtaboo.com privacy policy that was archived on 2018-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181226153929id_/https%3A//virtualtaboo.com/legal-docs/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the virtualtaboo.com privacy policy that was archived on 2019-03-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190331095328id_/https%3A//virtualtaboo.com/legal-docs/privacy-policy) for the most accurate reproduction.*
 
 # Privacy policy, VirtualTaboo
 
