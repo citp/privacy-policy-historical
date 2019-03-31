@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the petition.parliament.uk privacy policy that was archived on 2018-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181223032730id_/https%3A//petition.parliament.uk/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the petition.parliament.uk privacy policy that was archived on 2019-03-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190331025000id_/https%3A//petition.parliament.uk/privacy) for the most accurate reproduction.*
 
 # Privacy and cookies
 
@@ -89,7 +89,7 @@ You have the right to request:
 
   * information about how your personal data is processed
   * a copy of that personal data - this copy will be provided in a structured, commonly used and machine-readable format
-  * that anything inaccurate in your personal data is corrected immediately 
+  * that anything inaccurate in your personal data is corrected immediately
 
 
 
