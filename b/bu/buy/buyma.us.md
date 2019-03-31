@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the buyma.us privacy policy that was archived on 2016-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161221134319id_/https%3A//www.buyma.us/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the buyma.us privacy policy that was archived on 2019-04-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190401013338id_/https%3A//www.buyma.us/privacy) for the most accurate reproduction.*
 
-# A new online personal shopping experience - BUYMA from Japan
+# Privacy Policy - BUYMA
 
 ## REGARDING YOUR CONSENT TO BUYMA’S PRIVACY POLICY
 
