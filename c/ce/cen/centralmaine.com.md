@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the centralmaine.com privacy policy that was archived on 2018-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181212080906id_/https%3A//www.centralmaine.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the centralmaine.com privacy policy that was archived on 2019-03-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190331055913id_/https%3A//www.centralmaine.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Kennebec Journal and Morning Sentinel
 
@@ -104,7 +104,7 @@ In the event of any reorganization, merger, sale, joint venture, assignment, tra
 
 **California Privacy Rights**.
 
-If you are a California resident, you have the right, under California Civil Code Section 1798.83, to request and obtain from us, once a year and free of charge, a list of the third parties to whom we have disclosed Personal Information for their direct marketing purposes in the prior calendar year. Please email requests for such information to [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#38484a514e595b4178555951564c575c5941165b5755).
+If you are a California resident, you have the right, under California Civil Code Section 1798.83, to request and obtain from us, once a year and free of charge, a list of the third parties to whom we have disclosed Personal Information for their direct marketing purposes in the prior calendar year. Please email requests for such information to [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#4e3e3c27382f2d370e232f27203a212a2f37602d2123).
 
 **_International Transfers_**
 
@@ -112,7 +112,7 @@ MaineToday Media is headquartered and operates in the United States, and many of
 
 **_Data Integrity and Security_**
 
-We have implemented commercially appropriate organizational, technological, and physical safeguards to maintain the security of your Personal Information. Although we take appropriate measures to safeguard your Personal Information, no security method is absolute. To further protect your data, we recommend that you use complex, unique passwords for any accounts you maintain with us, and that you not share those passwords with unauthorized people. If you have reason to believe that an account you have created with us is no longer secure, please contact us at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#0474766d7265677d4469656d6a61706b60657d2a676b69).
+We have implemented commercially appropriate organizational, technological, and physical safeguards to maintain the security of your Personal Information. Although we take appropriate measures to safeguard your Personal Information, no security method is absolute. To further protect your data, we recommend that you use complex, unique passwords for any accounts you maintain with us, and that you not share those passwords with unauthorized people. If you have reason to believe that an account you have created with us is no longer secure, please contact us at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#bbcbc9d2cddad8c2fbd6dad2d5decfd4dfdac295d8d4d6).
 
 **_Data Retention_**
 
@@ -128,7 +128,7 @@ To determine the appropriate retention period for Personal Information, we consi
 
 In some circumstances we may anonymize your Personal Information (so that it can no longer be associated with you) for research or statistical purposes in which case we may use this information indefinitely without further notice to you.
 
-If you wish to cancel your account with us, you can do so through the “My Account” section of the applicable website or by contacting us at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#f080829986919389b09d91999e95849f949189de939f9d).
+If you wish to cancel your account with us, you can do so through the “My Account” section of the applicable website or by contacting us at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#58282a312e393b2118353931363d2c373c3921763b3735).
 
 ### **_Lawful Basis for Processing_**
 
@@ -144,7 +144,7 @@ We may also collect or access Personal Information with your consent.
 
 Note that we may process your personal data for more than one lawful ground depending on the specific purpose for which we are using your information. Please contact us if you need additional details about the specific legal ground we are relying on to process your personal data.
 
-Where we rely upon your consent to process the Personal Information, you have the right to withdraw or decline your consent at any time. Generally we do not rely on consent as a legal basis for processing your Personal Information other than in relation to sending third party direct marketing communications to you via email. You may withdraw consent to marketing at any time by contacting us at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#9aeae8f3ecfbf9e3daf7fbf3f4ffeef5fefbe3b4f9f5f7), withdrawing your consent for the placement of certain cookies, or by clicking the unsubscribe link in the marketing email. Please note that this does not affect the lawfulness of the processing based on consent before its withdrawal.
+Where we rely upon your consent to process the Personal Information, you have the right to withdraw or decline your consent at any time. Generally we do not rely on consent as a legal basis for processing your Personal Information other than in relation to sending third party direct marketing communications to you via email. You may withdraw consent to marketing at any time by contacting us at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#6313110a1502001a230e020a0d06170c07021a4d000c0e), withdrawing your consent for the placement of certain cookies, or by clicking the unsubscribe link in the marketing email. Please note that this does not affect the lawfulness of the processing based on consent before its withdrawal.
 
 We recognize and respect that your privacy and Personal Information is important, and that under circumstances you can make decisions about the Personal Information collected by us. Please keep in mind, though, that if you decide to not provide information required by us in order for us to provide a service or product, your use, and our provision, of our Services may be limited or impossible to facilitate.
 
@@ -164,4 +164,4 @@ We reserve the right to update this privacy policy from time to time in light of
 
 ### **_How to Contact Us_**
 
-If you have any questions or concerns about this privacy policy, please contact us via email at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#7d0d0f140b1c1e043d101c1413180912191c04531e1210) or via mail at: MaineToday Media, 295 Gannett Drive, South Portland, Maine 04106.
+If you have any questions or concerns about this privacy policy, please contact us via email at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#5c2c2e352a3d3f251c313d3532392833383d25723f3331) or via mail at: MaineToday Media, 295 Gannett Drive, South Portland, Maine 04106.
