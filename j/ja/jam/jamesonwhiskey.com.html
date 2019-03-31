@@ -1,532 +1,817 @@
-<!--The following is the downloaded HTML source of the jamesonwhiskey.com privacy policy that was archived on 2017-11-15.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20171115004553id_/https%3A//www.jamesonwhiskey.com/us/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the jamesonwhiskey.com privacy policy that was archived on 2019-03-31.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20190331161818id_/https%3A//www.jamesonwhiskey.com/us/privacy-policy) for the most accurate reproduction.-->
 
-<!DOCTYPE html><html class="no-js" lang="en-US"><head>
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta charset="utf-8"><script src="https://js-agent.newrelic.com/nr-1044.min.js"></script><script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-MMZ8MT"></script><script type="text/javascript">(window.NREUM||(NREUM={})).loader_config={xpid:"VgYGV1VVGwoEV1RXBwg="};window.NREUM||(NREUM={}),__nr_require=function(t,n,e){function r(e){if(!n[e]){var o=n[e]={exports:{}};t[e][0].call(o.exports,function(n){var o=t[e][1][n];return r(o||n)},o,o.exports)}return n[e].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<e.length;o++)r(e[o]);return r}({1:[function(t,n,e){function r(t){try{s.console&&console.log(t)}catch(n){}}var o,i=t("ee"),a=t(15),s={};try{o=localStorage.getItem("__nr_flags").split(","),console&&"function"==typeof console.log&&(s.console=!0,o.indexOf("dev")!==-1&&(s.dev=!0),o.indexOf("nr_dev")!==-1&&(s.nrDev=!0))}catch(c){}s.nrDev&&i.on("internal-error",function(t){r(t.stack)}),s.dev&&i.on("fn-err",function(t,n,e){r(e.stack)}),s.dev&&(r("NR AGENT IN DEVELOPMENT MODE"),r("flags: "+a(s,function(t,n){return t}).join(", ")))},{}],2:[function(t,n,e){function r(t,n,e,r,o){try{d?d-=1:i("err",[o||new UncaughtException(t,n,e)])}catch(s){try{i("ierr",[s,c.now(),!0])}catch(u){}}return"function"==typeof f&&f.apply(this,a(arguments))}function UncaughtException(t,n,e){this.message=t||"Uncaught error with no additional information",this.sourceURL=n,this.line=e}function o(t){i("err",[t,c.now()])}var i=t("handle"),a=t(16),s=t("ee"),c=t("loader"),f=window.onerror,u=!1,d=0;c.features.err=!0,t(1),window.onerror=r;try{throw new Error}catch(l){"stack"in l&&(t(8),t(7),"addEventListener"in window&&t(5),c.xhrWrappable&&t(9),u=!0)}s.on("fn-start",function(t,n,e){u&&(d+=1)}),s.on("fn-err",function(t,n,e){u&&(this.thrown=!0,o(e))}),s.on("fn-end",function(){u&&!this.thrown&&d>0&&(d-=1)}),s.on("internal-error",function(t){i("ierr",[t,c.now(),!0])})},{}],3:[function(t,n,e){t("loader").features.ins=!0},{}],4:[function(t,n,e){function r(t){}if(window.performance&&window.performance.timing&&window.performance.getEntriesByType){var o=t("ee"),i=t("handle"),a=t(8),s=t(7),c="learResourceTimings",f="addEventListener",u="resourcetimingbufferfull",d="bstResource",l="resource",p="-start",h="-end",m="fn"+p,w="fn"+h,v="bstTimer",y="pushState",g=t("loader");g.features.stn=!0,t(6);var b=NREUM.o.EV;o.on(m,function(t,n){var e=t[0];e instanceof b&&(this.bstStart=g.now())}),o.on(w,function(t,n){var e=t[0];e instanceof b&&i("bst",[e,n,this.bstStart,g.now()])}),a.on(m,function(t,n,e){this.bstStart=g.now(),this.bstType=e}),a.on(w,function(t,n){i(v,[n,this.bstStart,g.now(),this.bstType])}),s.on(m,function(){this.bstStart=g.now()}),s.on(w,function(t,n){i(v,[n,this.bstStart,g.now(),"requestAnimationFrame"])}),o.on(y+p,function(t){this.time=g.now(),this.startPath=location.pathname+location.hash}),o.on(y+h,function(t){i("bstHist",[location.pathname+location.hash,this.startPath,this.time])}),f in window.performance&&(window.performance["c"+c]?window.performance[f](u,function(t){i(d,[window.performance.getEntriesByType(l)]),window.performance["c"+c]()},!1):window.performance[f]("webkit"+u,function(t){i(d,[window.performance.getEntriesByType(l)]),window.performance["webkitC"+c]()},!1)),document[f]("scroll",r,{passive:!0}),document[f]("keypress",r,!1),document[f]("click",r,!1)}},{}],5:[function(t,n,e){function r(t){for(var n=t;n&&!n.hasOwnProperty(u);)n=Object.getPrototypeOf(n);n&&o(n)}function o(t){s.inPlace(t,[u,d],"-",i)}function i(t,n){return t[1]}var a=t("ee").get("events"),s=t(18)(a,!0),c=t("gos"),f=XMLHttpRequest,u="addEventListener",d="removeEventListener";n.exports=a,"getPrototypeOf"in Object?(r(document),r(window),r(f.prototype)):f.prototype.hasOwnProperty(u)&&(o(window),o(f.prototype)),a.on(u+"-start",function(t,n){var e=t[1],r=c(e,"nr@wrapped",function(){function t(){if("function"==typeof e.handleEvent)return e.handleEvent.apply(e,arguments)}var n={object:t,"function":e}[typeof e];return n?s(n,"fn-",null,n.name||"anonymous"):e});this.wrapped=t[1]=r}),a.on(d+"-start",function(t){t[1]=this.wrapped||t[1]})},{}],6:[function(t,n,e){var r=t("ee").get("history"),o=t(18)(r);n.exports=r,o.inPlace(window.history,["pushState","replaceState"],"-")},{}],7:[function(t,n,e){var r=t("ee").get("raf"),o=t(18)(r),i="equestAnimationFrame";n.exports=r,o.inPlace(window,["r"+i,"mozR"+i,"webkitR"+i,"msR"+i],"raf-"),r.on("raf-start",function(t){t[0]=o(t[0],"fn-")})},{}],8:[function(t,n,e){function r(t,n,e){t[0]=a(t[0],"fn-",null,e)}function o(t,n,e){this.method=e,this.timerDuration=isNaN(t[1])?0:+t[1],t[0]=a(t[0],"fn-",this,e)}var i=t("ee").get("timer"),a=t(18)(i),s="setTimeout",c="setInterval",f="clearTimeout",u="-start",d="-";n.exports=i,a.inPlace(window,[s,"setImmediate"],s+d),a.inPlace(window,[c],c+d),a.inPlace(window,[f,"clearImmediate"],f+d),i.on(c+u,r),i.on(s+u,o)},{}],9:[function(t,n,e){function r(t,n){d.inPlace(n,["onreadystatechange"],"fn-",s)}function o(){var t=this,n=u.context(t);t.readyState>3&&!n.resolved&&(n.resolved=!0,u.emit("xhr-resolved",[],t)),d.inPlace(t,y,"fn-",s)}function i(t){g.push(t),h&&(x?x.then(a):w?w(a):(E=-E,O.data=E))}function a(){for(var t=0;t<g.length;t++)r([],g[t]);g.length&&(g=[])}function s(t,n){return n}function c(t,n){for(var e in t)n[e]=t[e];return n}t(5);var f=t("ee"),u=f.get("xhr"),d=t(18)(u),l=NREUM.o,p=l.XHR,h=l.MO,m=l.PR,w=l.SI,v="readystatechange",y=["onload","onerror","onabort","onloadstart","onloadend","onprogress","ontimeout"],g=[];n.exports=u;var b=window.XMLHttpRequest=function(t){var n=new p(t);try{u.emit("new-xhr",[n],n),n.addEventListener(v,o,!1)}catch(e){try{u.emit("internal-error",[e])}catch(r){}}return n};if(c(p,b),b.prototype=p.prototype,d.inPlace(b.prototype,["open","send"],"-xhr-",s),u.on("send-xhr-start",function(t,n){r(t,n),i(n)}),u.on("open-xhr-start",r),h){var x=m&&m.resolve();if(!w&&!m){var E=1,O=document.createTextNode(E);new h(a).observe(O,{characterData:!0})}}else f.on("fn-end",function(t){t[0]&&t[0].type===v||a()})},{}],10:[function(t,n,e){function r(t){var n=this.params,e=this.metrics;if(!this.ended){this.ended=!0;for(var r=0;r<d;r++)t.removeEventListener(u[r],this.listener,!1);if(!n.aborted){if(e.duration=a.now()-this.startTime,4===t.readyState){n.status=t.status;var i=o(t,this.lastSize);if(i&&(e.rxSize=i),this.sameOrigin){var c=t.getResponseHeader("X-NewRelic-App-Data");c&&(n.cat=c.split(", ").pop())}}else n.status=0;e.cbTime=this.cbTime,f.emit("xhr-done",[t],t),s("xhr",[n,e,this.startTime])}}}function o(t,n){var e=t.responseType;if("json"===e&&null!==n)return n;var r="arraybuffer"===e||"blob"===e||"json"===e?t.response:t.responseText;return h(r)}function i(t,n){var e=c(n),r=t.params;r.host=e.hostname+":"+e.port,r.pathname=e.pathname,t.sameOrigin=e.sameOrigin}var a=t("loader");if(a.xhrWrappable){var s=t("handle"),c=t(11),f=t("ee"),u=["load","error","abort","timeout"],d=u.length,l=t("id"),p=t(14),h=t(13),m=window.XMLHttpRequest;a.features.xhr=!0,t(9),f.on("new-xhr",function(t){var n=this;n.totalCbs=0,n.called=0,n.cbTime=0,n.end=r,n.ended=!1,n.xhrGuids={},n.lastSize=null,p&&(p>34||p<10)||window.opera||t.addEventListener("progress",function(t){n.lastSize=t.loaded},!1)}),f.on("open-xhr-start",function(t){this.params={method:t[0]},i(this,t[1]),this.metrics={}}),f.on("open-xhr-end",function(t,n){"loader_config"in NREUM&&"xpid"in NREUM.loader_config&&this.sameOrigin&&n.setRequestHeader("X-NewRelic-ID",NREUM.loader_config.xpid)}),f.on("send-xhr-start",function(t,n){var e=this.metrics,r=t[0],o=this;if(e&&r){var i=h(r);i&&(e.txSize=i)}this.startTime=a.now(),this.listener=function(t){try{"abort"===t.type&&(o.params.aborted=!0),("load"!==t.type||o.called===o.totalCbs&&(o.onloadCalled||"function"!=typeof n.onload))&&o.end(n)}catch(e){try{f.emit("internal-error",[e])}catch(r){}}};for(var s=0;s<d;s++)n.addEventListener(u[s],this.listener,!1)}),f.on("xhr-cb-time",function(t,n,e){this.cbTime+=t,n?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&&"function"==typeof e.onload||this.end(e)}),f.on("xhr-load-added",function(t,n){var e=""+l(t)+!!n;this.xhrGuids&&!this.xhrGuids[e]&&(this.xhrGuids[e]=!0,this.totalCbs+=1)}),f.on("xhr-load-removed",function(t,n){var e=""+l(t)+!!n;this.xhrGuids&&this.xhrGuids[e]&&(delete this.xhrGuids[e],this.totalCbs-=1)}),f.on("addEventListener-end",function(t,n){n instanceof m&&"load"===t[0]&&f.emit("xhr-load-added",[t[1],t[2]],n)}),f.on("removeEventListener-end",function(t,n){n instanceof m&&"load"===t[0]&&f.emit("xhr-load-removed",[t[1],t[2]],n)}),f.on("fn-start",function(t,n,e){n instanceof m&&("onload"===e&&(this.onload=!0),("load"===(t[0]&&t[0].type)||this.onload)&&(this.xhrCbStart=a.now()))}),f.on("fn-end",function(t,n){this.xhrCbStart&&f.emit("xhr-cb-time",[a.now()-this.xhrCbStart,this.onload,n],n)})}},{}],11:[function(t,n,e){n.exports=function(t){var n=document.createElement("a"),e=window.location,r={};n.href=t,r.port=n.port;var o=n.href.split("://");!r.port&&o[1]&&(r.port=o[1].split("/")[0].split("@").pop().split(":")[1]),r.port&&"0"!==r.port||(r.port="https"===o[0]?"443":"80"),r.hostname=n.hostname||e.hostname,r.pathname=n.pathname,r.protocol=o[0],"/"!==r.pathname.charAt(0)&&(r.pathname="/"+r.pathname);var i=!n.protocol||":"===n.protocol||n.protocol===e.protocol,a=n.hostname===document.domain&&n.port===e.port;return r.sameOrigin=i&&(!n.hostname||a),r}},{}],12:[function(t,n,e){function r(){}function o(t,n,e){return function(){return i(t,[f.now()].concat(s(arguments)),n?null:this,e),n?void 0:this}}var i=t("handle"),a=t(15),s=t(16),c=t("ee").get("tracer"),f=t("loader"),u=NREUM;"undefined"==typeof window.newrelic&&(newrelic=u);var d=["setPageViewName","setCustomAttribute","setErrorHandler","finished","addToTrace","inlineHit","addRelease"],l="api-",p=l+"ixn-";a(d,function(t,n){u[n]=o(l+n,!0,"api")}),u.addPageAction=o(l+"addPageAction",!0),u.setCurrentRouteName=o(l+"routeName",!0),n.exports=newrelic,u.interaction=function(){return(new r).get()};var h=r.prototype={createTracer:function(t,n){var e={},r=this,o="function"==typeof n;return i(p+"tracer",[f.now(),t,e],r),function(){if(c.emit((o?"":"no-")+"fn-start",[f.now(),r,o],e),o)try{return n.apply(this,arguments)}finally{c.emit("fn-end",[f.now()],e)}}}};a("setName,setAttribute,save,ignore,onEnd,getContext,end,get".split(","),function(t,n){h[n]=o(p+n)}),newrelic.noticeError=function(t){"string"==typeof t&&(t=new Error(t)),i("err",[t,f.now()])}},{}],13:[function(t,n,e){n.exports=function(t){if("string"==typeof t&&t.length)return t.length;if("object"==typeof t){if("undefined"!=typeof ArrayBuffer&&t instanceof ArrayBuffer&&t.byteLength)return t.byteLength;if("undefined"!=typeof Blob&&t instanceof Blob&&t.size)return t.size;if(!("undefined"!=typeof FormData&&t instanceof FormData))try{return JSON.stringify(t).length}catch(n){return}}}},{}],14:[function(t,n,e){var r=0,o=navigator.userAgent.match(/Firefox[\/\s](\d+\.\d+)/);o&&(r=+o[1]),n.exports=r},{}],15:[function(t,n,e){function r(t,n){var e=[],r="",i=0;for(r in t)o.call(t,r)&&(e[i]=n(r,t[r]),i+=1);return e}var o=Object.prototype.hasOwnProperty;n.exports=r},{}],16:[function(t,n,e){function r(t,n,e){n||(n=0),"undefined"==typeof e&&(e=t?t.length:0);for(var r=-1,o=e-n||0,i=Array(o<0?0:o);++r<o;)i[r]=t[n+r];return i}n.exports=r},{}],17:[function(t,n,e){n.exports={exists:"undefined"!=typeof window.performance&&window.performance.timing&&"undefined"!=typeof window.performance.timing.navigationStart}},{}],18:[function(t,n,e){function r(t){return!(t&&t instanceof Function&&t.apply&&!t[a])}var o=t("ee"),i=t(16),a="nr@original",s=Object.prototype.hasOwnProperty,c=!1;n.exports=function(t,n){function e(t,n,e,o){function nrWrapper(){var r,a,s,c;try{a=this,r=i(arguments),s="function"==typeof e?e(r,a):e||{}}catch(f){l([f,"",[r,a,o],s])}u(n+"start",[r,a,o],s);try{return c=t.apply(a,r)}catch(d){throw u(n+"err",[r,a,d],s),d}finally{u(n+"end",[r,a,c],s)}}return r(t)?t:(n||(n=""),nrWrapper[a]=t,d(t,nrWrapper),nrWrapper)}function f(t,n,o,i){o||(o="");var a,s,c,f="-"===o.charAt(0);for(c=0;c<n.length;c++)s=n[c],a=t[s],r(a)||(t[s]=e(a,f?s+o:o,i,s))}function u(e,r,o){if(!c||n){var i=c;c=!0;try{t.emit(e,r,o,n)}catch(a){l([a,e,r,o])}c=i}}function d(t,n){if(Object.defineProperty&&Object.keys)try{var e=Object.keys(t);return e.forEach(function(e){Object.defineProperty(n,e,{get:function(){return t[e]},set:function(n){return t[e]=n,n}})}),n}catch(r){l([r])}for(var o in t)s.call(t,o)&&(n[o]=t[o]);return n}function l(n){try{t.emit("internal-error",n)}catch(e){}}return t||(t=o),e.inPlace=f,e.flag=a,e}},{}],ee:[function(t,n,e){function r(){}function o(t){function n(t){return t&&t instanceof r?t:t?c(t,s,i):i()}function e(e,r,o,i){if(!l.aborted||i){t&&t(e,r,o);for(var a=n(o),s=h(e),c=s.length,f=0;f<c;f++)s[f].apply(a,r);var d=u[y[e]];return d&&d.push([g,e,r,a]),a}}function p(t,n){v[t]=h(t).concat(n)}function h(t){return v[t]||[]}function m(t){return d[t]=d[t]||o(e)}function w(t,n){f(t,function(t,e){n=n||"feature",y[e]=n,n in u||(u[n]=[])})}var v={},y={},g={on:p,emit:e,get:m,listeners:h,context:n,buffer:w,abort:a,aborted:!1};return g}function i(){return new r}function a(){(u.api||u.feature)&&(l.aborted=!0,u=l.backlog={})}var s="nr@context",c=t("gos"),f=t(15),u={},d={},l=n.exports=o();l.backlog=u},{}],gos:[function(t,n,e){function r(t,n,e){if(o.call(t,n))return t[n];var r=e();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(t,n,{value:r,writable:!0,enumerable:!1}),r}catch(i){}return t[n]=r,r}var o=Object.prototype.hasOwnProperty;n.exports=r},{}],handle:[function(t,n,e){function r(t,n,e,r){o.buffer([t],r),o.emit(t,n,e)}var o=t("ee").get("handle");n.exports=r,r.ee=o},{}],id:[function(t,n,e){function r(t){var n=typeof t;return!t||"object"!==n&&"function"!==n?-1:t===window?0:a(t,i,function(){return o++})}var o=1,i="nr@id",a=t("gos");n.exports=r},{}],loader:[function(t,n,e){function r(){if(!x++){var t=b.info=NREUM.info,n=l.getElementsByTagName("script")[0];if(setTimeout(u.abort,3e4),!(t&&t.licenseKey&&t.applicationID&&n))return u.abort();f(y,function(n,e){t[n]||(t[n]=e)}),c("mark",["onload",a()+b.offset],null,"api");var e=l.createElement("script");e.src="https://"+t.agent,n.parentNode.insertBefore(e,n)}}function o(){"complete"===l.readyState&&i()}function i(){c("mark",["domContent",a()+b.offset],null,"api")}function a(){return E.exists&&performance.now?Math.round(performance.now()):(s=Math.max((new Date).getTime(),s))-b.offset}var s=(new Date).getTime(),c=t("handle"),f=t(15),u=t("ee"),d=window,l=d.document,p="addEventListener",h="attachEvent",m=d.XMLHttpRequest,w=m&&m.prototype;NREUM.o={ST:setTimeout,SI:d.setImmediate,CT:clearTimeout,XHR:m,REQ:d.Request,EV:d.Event,PR:d.Promise,MO:d.MutationObserver};var v=""+location,y={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-1044.min.js"},g=m&&w&&w[p]&&!/CriOS/.test(navigator.userAgent),b=n.exports={offset:s,now:a,origin:v,features:{},xhrWrappable:g};t(12),l[p]?(l[p]("DOMContentLoaded",i,!1),d[p]("load",r,!1)):(l[h]("onreadystatechange",o),d[h]("onload",r)),c("mark",["firstbyte",s],null,"api");var x=0,E=t(17)},{}]},{},["loader",2,10,4,3]);</script>
-    <title>Jameson Irish Whiskey Website Privacy Statement</title>
-        <meta name="description" content="Our Jameson Irish Whiskey website is open like our distillery doors, so book a tour, enjoy drinks featuring our triple distilled whiskeys, and discover what Sine Metu means.">
-    <meta name="viewport" content="width=device-width,initial-scale=1,maximum-scale=1,user-scalable=no">
-    <meta name="google-site-verification" content="EOKpncahgyZNHdDfVhNcFnk-oAN1KjgkI8jjoXITNdc">
+<!DOCTYPE html><html lang="en"><head>
+        <meta charset="utf-8">
+        <meta http-equiv="x-ua-compatible" content="ie=edge,chrome=1"><script src="https://js-agent.newrelic.com/nr-1118.min.js"></script><script type="text/javascript" async="" src="/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&amp;ns=2&amp;cb=1838163096"></script><script async="" src="https://www.googletagmanager.com/gtm.js?id=GTM-MMZ8MT"></script><script type="text/javascript">(window.NREUM||(NREUM={})).loader_config={xpid:"VgYGV1VVGwoEV1RXBwg="};window.NREUM||(NREUM={}),__nr_require=function(t,n,e){function r(e){if(!n[e]){var o=n[e]={exports:{}};t[e][0].call(o.exports,function(n){var o=t[e][1][n];return r(o||n)},o,o.exports)}return n[e].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<e.length;o++)r(e[o]);return r}({1:[function(t,n,e){function r(t){try{s.console&&console.log(t)}catch(n){}}var o,i=t("ee"),a=t(16),s={};try{o=localStorage.getItem("__nr_flags").split(","),console&&"function"==typeof console.log&&(s.console=!0,o.indexOf("dev")!==-1&&(s.dev=!0),o.indexOf("nr_dev")!==-1&&(s.nrDev=!0))}catch(c){}s.nrDev&&i.on("internal-error",function(t){r(t.stack)}),s.dev&&i.on("fn-err",function(t,n,e){r(e.stack)}),s.dev&&(r("NR AGENT IN DEVELOPMENT MODE"),r("flags: "+a(s,function(t,n){return t}).join(", ")))},{}],2:[function(t,n,e){function r(t,n,e,r,s){try{p?p-=1:o(s||new UncaughtException(t,n,e),!0)}catch(f){try{i("ierr",[f,c.now(),!0])}catch(d){}}return"function"==typeof u&&u.apply(this,a(arguments))}function UncaughtException(t,n,e){this.message=t||"Uncaught error with no additional information",this.sourceURL=n,this.line=e}function o(t,n){var e=n?null:c.now();i("err",[t,e])}var i=t("handle"),a=t(17),s=t("ee"),c=t("loader"),f=t("gos"),u=window.onerror,d=!1,l="nr@seenError",p=0;c.features.err=!0,t(1),window.onerror=r;try{throw new Error}catch(h){"stack"in h&&(t(8),t(7),"addEventListener"in window&&t(5),c.xhrWrappable&&t(9),d=!0)}s.on("fn-start",function(t,n,e){d&&(p+=1)}),s.on("fn-err",function(t,n,e){d&&!e[l]&&(f(e,l,function(){return!0}),this.thrown=!0,o(e))}),s.on("fn-end",function(){d&&!this.thrown&&p>0&&(p-=1)}),s.on("internal-error",function(t){i("ierr",[t,c.now(),!0])})},{}],3:[function(t,n,e){t("loader").features.ins=!0},{}],4:[function(t,n,e){function r(t){}if(window.performance&&window.performance.timing&&window.performance.getEntriesByType){var o=t("ee"),i=t("handle"),a=t(8),s=t(7),c="learResourceTimings",f="addEventListener",u="resourcetimingbufferfull",d="bstResource",l="resource",p="-start",h="-end",m="fn"+p,v="fn"+h,w="bstTimer",y="pushState",g=t("loader");g.features.stn=!0,t(6);var b=NREUM.o.EV;o.on(m,function(t,n){var e=t[0];e instanceof b&&(this.bstStart=g.now())}),o.on(v,function(t,n){var e=t[0];e instanceof b&&i("bst",[e,n,this.bstStart,g.now()])}),a.on(m,function(t,n,e){this.bstStart=g.now(),this.bstType=e}),a.on(v,function(t,n){i(w,[n,this.bstStart,g.now(),this.bstType])}),s.on(m,function(){this.bstStart=g.now()}),s.on(v,function(t,n){i(w,[n,this.bstStart,g.now(),"requestAnimationFrame"])}),o.on(y+p,function(t){this.time=g.now(),this.startPath=location.pathname+location.hash}),o.on(y+h,function(t){i("bstHist",[location.pathname+location.hash,this.startPath,this.time])}),f in window.performance&&(window.performance["c"+c]?window.performance[f](u,function(t){i(d,[window.performance.getEntriesByType(l)]),window.performance["c"+c]()},!1):window.performance[f]("webkit"+u,function(t){i(d,[window.performance.getEntriesByType(l)]),window.performance["webkitC"+c]()},!1)),document[f]("scroll",r,{passive:!0}),document[f]("keypress",r,!1),document[f]("click",r,!1)}},{}],5:[function(t,n,e){function r(t){for(var n=t;n&&!n.hasOwnProperty(u);)n=Object.getPrototypeOf(n);n&&o(n)}function o(t){s.inPlace(t,[u,d],"-",i)}function i(t,n){return t[1]}var a=t("ee").get("events"),s=t(19)(a,!0),c=t("gos"),f=XMLHttpRequest,u="addEventListener",d="removeEventListener";n.exports=a,"getPrototypeOf"in Object?(r(document),r(window),r(f.prototype)):f.prototype.hasOwnProperty(u)&&(o(window),o(f.prototype)),a.on(u+"-start",function(t,n){var e=t[1],r=c(e,"nr@wrapped",function(){function t(){if("function"==typeof e.handleEvent)return e.handleEvent.apply(e,arguments)}var n={object:t,"function":e}[typeof e];return n?s(n,"fn-",null,n.name||"anonymous"):e});this.wrapped=t[1]=r}),a.on(d+"-start",function(t){t[1]=this.wrapped||t[1]})},{}],6:[function(t,n,e){var r=t("ee").get("history"),o=t(19)(r);n.exports=r,o.inPlace(window.history,["pushState","replaceState"],"-")},{}],7:[function(t,n,e){var r=t("ee").get("raf"),o=t(19)(r),i="equestAnimationFrame";n.exports=r,o.inPlace(window,["r"+i,"mozR"+i,"webkitR"+i,"msR"+i],"raf-"),r.on("raf-start",function(t){t[0]=o(t[0],"fn-")})},{}],8:[function(t,n,e){function r(t,n,e){t[0]=a(t[0],"fn-",null,e)}function o(t,n,e){this.method=e,this.timerDuration=isNaN(t[1])?0:+t[1],t[0]=a(t[0],"fn-",this,e)}var i=t("ee").get("timer"),a=t(19)(i),s="setTimeout",c="setInterval",f="clearTimeout",u="-start",d="-";n.exports=i,a.inPlace(window,[s,"setImmediate"],s+d),a.inPlace(window,[c],c+d),a.inPlace(window,[f,"clearImmediate"],f+d),i.on(c+u,r),i.on(s+u,o)},{}],9:[function(t,n,e){function r(t,n){d.inPlace(n,["onreadystatechange"],"fn-",s)}function o(){var t=this,n=u.context(t);t.readyState>3&&!n.resolved&&(n.resolved=!0,u.emit("xhr-resolved",[],t)),d.inPlace(t,y,"fn-",s)}function i(t){g.push(t),h&&(x?x.then(a):v?v(a):(E=-E,O.data=E))}function a(){for(var t=0;t<g.length;t++)r([],g[t]);g.length&&(g=[])}function s(t,n){return n}function c(t,n){for(var e in t)n[e]=t[e];return n}t(5);var f=t("ee"),u=f.get("xhr"),d=t(19)(u),l=NREUM.o,p=l.XHR,h=l.MO,m=l.PR,v=l.SI,w="readystatechange",y=["onload","onerror","onabort","onloadstart","onloadend","onprogress","ontimeout"],g=[];n.exports=u;var b=window.XMLHttpRequest=function(t){var n=new p(t);try{u.emit("new-xhr",[n],n),n.addEventListener(w,o,!1)}catch(e){try{u.emit("internal-error",[e])}catch(r){}}return n};if(c(p,b),b.prototype=p.prototype,d.inPlace(b.prototype,["open","send"],"-xhr-",s),u.on("send-xhr-start",function(t,n){r(t,n),i(n)}),u.on("open-xhr-start",r),h){var x=m&&m.resolve();if(!v&&!m){var E=1,O=document.createTextNode(E);new h(a).observe(O,{characterData:!0})}}else f.on("fn-end",function(t){t[0]&&t[0].type===w||a()})},{}],10:[function(t,n,e){function r(t){var n=this.params,e=this.metrics;if(!this.ended){this.ended=!0;for(var r=0;r<d;r++)t.removeEventListener(u[r],this.listener,!1);if(!n.aborted){if(e.duration=a.now()-this.startTime,4===t.readyState){n.status=t.status;var i=o(t,this.lastSize);if(i&&(e.rxSize=i),this.sameOrigin){var c=t.getResponseHeader("X-NewRelic-App-Data");c&&(n.cat=c.split(", ").pop())}}else n.status=0;e.cbTime=this.cbTime,f.emit("xhr-done",[t],t),s("xhr",[n,e,this.startTime])}}}function o(t,n){var e=t.responseType;if("json"===e&&null!==n)return n;var r="arraybuffer"===e||"blob"===e||"json"===e?t.response:t.responseText;return h(r)}function i(t,n){var e=c(n),r=t.params;r.host=e.hostname+":"+e.port,r.pathname=e.pathname,t.sameOrigin=e.sameOrigin}var a=t("loader");if(a.xhrWrappable){var s=t("handle"),c=t(11),f=t("ee"),u=["load","error","abort","timeout"],d=u.length,l=t("id"),p=t(14),h=t(13),m=window.XMLHttpRequest;a.features.xhr=!0,t(9),f.on("new-xhr",function(t){var n=this;n.totalCbs=0,n.called=0,n.cbTime=0,n.end=r,n.ended=!1,n.xhrGuids={},n.lastSize=null,p&&(p>34||p<10)||window.opera||t.addEventListener("progress",function(t){n.lastSize=t.loaded},!1)}),f.on("open-xhr-start",function(t){this.params={method:t[0]},i(this,t[1]),this.metrics={}}),f.on("open-xhr-end",function(t,n){"loader_config"in NREUM&&"xpid"in NREUM.loader_config&&this.sameOrigin&&n.setRequestHeader("X-NewRelic-ID",NREUM.loader_config.xpid)}),f.on("send-xhr-start",function(t,n){var e=this.metrics,r=t[0],o=this;if(e&&r){var i=h(r);i&&(e.txSize=i)}this.startTime=a.now(),this.listener=function(t){try{"abort"===t.type&&(o.params.aborted=!0),("load"!==t.type||o.called===o.totalCbs&&(o.onloadCalled||"function"!=typeof n.onload))&&o.end(n)}catch(e){try{f.emit("internal-error",[e])}catch(r){}}};for(var s=0;s<d;s++)n.addEventListener(u[s],this.listener,!1)}),f.on("xhr-cb-time",function(t,n,e){this.cbTime+=t,n?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&&"function"==typeof e.onload||this.end(e)}),f.on("xhr-load-added",function(t,n){var e=""+l(t)+!!n;this.xhrGuids&&!this.xhrGuids[e]&&(this.xhrGuids[e]=!0,this.totalCbs+=1)}),f.on("xhr-load-removed",function(t,n){var e=""+l(t)+!!n;this.xhrGuids&&this.xhrGuids[e]&&(delete this.xhrGuids[e],this.totalCbs-=1)}),f.on("addEventListener-end",function(t,n){n instanceof m&&"load"===t[0]&&f.emit("xhr-load-added",[t[1],t[2]],n)}),f.on("removeEventListener-end",function(t,n){n instanceof m&&"load"===t[0]&&f.emit("xhr-load-removed",[t[1],t[2]],n)}),f.on("fn-start",function(t,n,e){n instanceof m&&("onload"===e&&(this.onload=!0),("load"===(t[0]&&t[0].type)||this.onload)&&(this.xhrCbStart=a.now()))}),f.on("fn-end",function(t,n){this.xhrCbStart&&f.emit("xhr-cb-time",[a.now()-this.xhrCbStart,this.onload,n],n)})}},{}],11:[function(t,n,e){n.exports=function(t){var n=document.createElement("a"),e=window.location,r={};n.href=t,r.port=n.port;var o=n.href.split("://");!r.port&&o[1]&&(r.port=o[1].split("/")[0].split("@").pop().split(":")[1]),r.port&&"0"!==r.port||(r.port="https"===o[0]?"443":"80"),r.hostname=n.hostname||e.hostname,r.pathname=n.pathname,r.protocol=o[0],"/"!==r.pathname.charAt(0)&&(r.pathname="/"+r.pathname);var i=!n.protocol||":"===n.protocol||n.protocol===e.protocol,a=n.hostname===document.domain&&n.port===e.port;return r.sameOrigin=i&&(!n.hostname||a),r}},{}],12:[function(t,n,e){function r(){}function o(t,n,e){return function(){return i(t,[f.now()].concat(s(arguments)),n?null:this,e),n?void 0:this}}var i=t("handle"),a=t(16),s=t(17),c=t("ee").get("tracer"),f=t("loader"),u=NREUM;"undefined"==typeof window.newrelic&&(newrelic=u);var d=["setPageViewName","setCustomAttribute","setErrorHandler","finished","addToTrace","inlineHit","addRelease"],l="api-",p=l+"ixn-";a(d,function(t,n){u[n]=o(l+n,!0,"api")}),u.addPageAction=o(l+"addPageAction",!0),u.setCurrentRouteName=o(l+"routeName",!0),n.exports=newrelic,u.interaction=function(){return(new r).get()};var h=r.prototype={createTracer:function(t,n){var e={},r=this,o="function"==typeof n;return i(p+"tracer",[f.now(),t,e],r),function(){if(c.emit((o?"":"no-")+"fn-start",[f.now(),r,o],e),o)try{return n.apply(this,arguments)}catch(t){throw c.emit("fn-err",[arguments,this,t],e),t}finally{c.emit("fn-end",[f.now()],e)}}}};a("actionText,setName,setAttribute,save,ignore,onEnd,getContext,end,get".split(","),function(t,n){h[n]=o(p+n)}),newrelic.noticeError=function(t,n){"string"==typeof t&&(t=new Error(t)),i("err",[t,f.now(),!1,n])}},{}],13:[function(t,n,e){n.exports=function(t){if("string"==typeof t&&t.length)return t.length;if("object"==typeof t){if("undefined"!=typeof ArrayBuffer&&t instanceof ArrayBuffer&&t.byteLength)return t.byteLength;if("undefined"!=typeof Blob&&t instanceof Blob&&t.size)return t.size;if(!("undefined"!=typeof FormData&&t instanceof FormData))try{return JSON.stringify(t).length}catch(n){return}}}},{}],14:[function(t,n,e){var r=0,o=navigator.userAgent.match(/Firefox[\/\s](\d+\.\d+)/);o&&(r=+o[1]),n.exports=r},{}],15:[function(t,n,e){function r(t,n){if(!o)return!1;if(t!==o)return!1;if(!n)return!0;if(!i)return!1;for(var e=i.split("."),r=n.split("."),a=0;a<r.length;a++)if(r[a]!==e[a])return!1;return!0}var o=null,i=null,a=/Version\/(\S+)\s+Safari/;if(navigator.userAgent){var s=navigator.userAgent,c=s.match(a);c&&s.indexOf("Chrome")===-1&&s.indexOf("Chromium")===-1&&(o="Safari",i=c[1])}n.exports={agent:o,version:i,match:r}},{}],16:[function(t,n,e){function r(t,n){var e=[],r="",i=0;for(r in t)o.call(t,r)&&(e[i]=n(r,t[r]),i+=1);return e}var o=Object.prototype.hasOwnProperty;n.exports=r},{}],17:[function(t,n,e){function r(t,n,e){n||(n=0),"undefined"==typeof e&&(e=t?t.length:0);for(var r=-1,o=e-n||0,i=Array(o<0?0:o);++r<o;)i[r]=t[n+r];return i}n.exports=r},{}],18:[function(t,n,e){n.exports={exists:"undefined"!=typeof window.performance&&window.performance.timing&&"undefined"!=typeof window.performance.timing.navigationStart}},{}],19:[function(t,n,e){function r(t){return!(t&&t instanceof Function&&t.apply&&!t[a])}var o=t("ee"),i=t(17),a="nr@original",s=Object.prototype.hasOwnProperty,c=!1;n.exports=function(t,n){function e(t,n,e,o){function nrWrapper(){var r,a,s,c;try{a=this,r=i(arguments),s="function"==typeof e?e(r,a):e||{}}catch(f){l([f,"",[r,a,o],s])}u(n+"start",[r,a,o],s);try{return c=t.apply(a,r)}catch(d){throw u(n+"err",[r,a,d],s),d}finally{u(n+"end",[r,a,c],s)}}return r(t)?t:(n||(n=""),nrWrapper[a]=t,d(t,nrWrapper),nrWrapper)}function f(t,n,o,i){o||(o="");var a,s,c,f="-"===o.charAt(0);for(c=0;c<n.length;c++)s=n[c],a=t[s],r(a)||(t[s]=e(a,f?s+o:o,i,s))}function u(e,r,o){if(!c||n){var i=c;c=!0;try{t.emit(e,r,o,n)}catch(a){l([a,e,r,o])}c=i}}function d(t,n){if(Object.defineProperty&&Object.keys)try{var e=Object.keys(t);return e.forEach(function(e){Object.defineProperty(n,e,{get:function(){return t[e]},set:function(n){return t[e]=n,n}})}),n}catch(r){l([r])}for(var o in t)s.call(t,o)&&(n[o]=t[o]);return n}function l(n){try{t.emit("internal-error",n)}catch(e){}}return t||(t=o),e.inPlace=f,e.flag=a,e}},{}],ee:[function(t,n,e){function r(){}function o(t){function n(t){return t&&t instanceof r?t:t?c(t,s,i):i()}function e(e,r,o,i){if(!l.aborted||i){t&&t(e,r,o);for(var a=n(o),s=m(e),c=s.length,f=0;f<c;f++)s[f].apply(a,r);var d=u[g[e]];return d&&d.push([b,e,r,a]),a}}function p(t,n){y[t]=m(t).concat(n)}function h(t,n){var e=y[t];if(e)for(var r=0;r<e.length;r++)e[r]===n&&e.splice(r,1)}function m(t){return y[t]||[]}function v(t){return d[t]=d[t]||o(e)}function w(t,n){f(t,function(t,e){n=n||"feature",g[e]=n,n in u||(u[n]=[])})}var y={},g={},b={on:p,addEventListener:p,removeEventListener:h,emit:e,get:v,listeners:m,context:n,buffer:w,abort:a,aborted:!1};return b}function i(){return new r}function a(){(u.api||u.feature)&&(l.aborted=!0,u=l.backlog={})}var s="nr@context",c=t("gos"),f=t(16),u={},d={},l=n.exports=o();l.backlog=u},{}],gos:[function(t,n,e){function r(t,n,e){if(o.call(t,n))return t[n];var r=e();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(t,n,{value:r,writable:!0,enumerable:!1}),r}catch(i){}return t[n]=r,r}var o=Object.prototype.hasOwnProperty;n.exports=r},{}],handle:[function(t,n,e){function r(t,n,e,r){o.buffer([t],r),o.emit(t,n,e)}var o=t("ee").get("handle");n.exports=r,r.ee=o},{}],id:[function(t,n,e){function r(t){var n=typeof t;return!t||"object"!==n&&"function"!==n?-1:t===window?0:a(t,i,function(){return o++})}var o=1,i="nr@id",a=t("gos");n.exports=r},{}],loader:[function(t,n,e){function r(){if(!E++){var t=x.info=NREUM.info,n=p.getElementsByTagName("script")[0];if(setTimeout(u.abort,3e4),!(t&&t.licenseKey&&t.applicationID&&n))return u.abort();f(g,function(n,e){t[n]||(t[n]=e)}),c("mark",["onload",a()+x.offset],null,"api");var e=p.createElement("script");e.src="https://"+t.agent,n.parentNode.insertBefore(e,n)}}function o(){"complete"===p.readyState&&i()}function i(){c("mark",["domContent",a()+x.offset],null,"api")}function a(){return O.exists&&performance.now?Math.round(performance.now()):(s=Math.max((new Date).getTime(),s))-x.offset}var s=(new Date).getTime(),c=t("handle"),f=t(16),u=t("ee"),d=t(15),l=window,p=l.document,h="addEventListener",m="attachEvent",v=l.XMLHttpRequest,w=v&&v.prototype;NREUM.o={ST:setTimeout,SI:l.setImmediate,CT:clearTimeout,XHR:v,REQ:l.Request,EV:l.Event,PR:l.Promise,MO:l.MutationObserver};var y=""+location,g={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-1118.min.js"},b=v&&w&&w[h]&&!/CriOS/.test(navigator.userAgent),x=n.exports={offset:s,now:a,origin:y,features:{},xhrWrappable:b,userAgent:d};t(12),p[h]?(p[h]("DOMContentLoaded",i,!1),l[h]("load",r,!1)):(p[m]("onreadystatechange",o),l[m]("onload",r)),c("mark",["firstbyte",s],null,"api");var E=0,O=t(18)},{}]},{},["loader",2,10,4,3]);</script>
+        <title>Jameson Whiskey - Privacy Policy</title>
+        <meta name="description" content="Jameson Whiskey - Privacy Policy">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        
 
-    <link rel="apple-touch-icon" sizes="57x57" href="/apple-touch-icon-57x57.png">
-    <link rel="apple-touch-icon" sizes="60x60" href="/apple-touch-icon-60x60.png">
-    <link rel="apple-touch-icon" sizes="72x72" href="/apple-touch-icon-72x72.png">
-    <link rel="apple-touch-icon" sizes="76x76" href="/apple-touch-icon-76x76.png">
-    <link rel="apple-touch-icon" sizes="114x114" href="/apple-touch-icon-114x114.png">
-    <link rel="apple-touch-icon" sizes="120x120" href="/apple-touch-icon-120x120.png">
-    <link rel="apple-touch-icon" sizes="144x144" href="/apple-touch-icon-144x144.png">
-    <link rel="apple-touch-icon" sizes="152x152" href="/apple-touch-icon-152x152.png">
-    <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon-180x180.png">
-    <link rel="icon" type="image/png" href="/favicon-32x32.png" sizes="32x32">
-    <link rel="icon" type="image/png" href="/favicon-194x194.png" sizes="194x194">
-    <link rel="icon" type="image/png" href="/favicon-96x96.png" sizes="96x96">
-    <link rel="icon" type="image/png" href="/android-chrome-192x192.png" sizes="192x192">
-    <link rel="icon" type="image/png" href="/favicon-16x16.png" sizes="16x16">
-    <link rel="manifest" href="/manifest.json">
-    <link rel="mask-icon" href="/safari-pinned-tab.svg" color="#004027">
-    <meta name="msapplication-TileColor" content="#004027">
-    <meta name="msapplication-TileImage" content="/mstile-144x144.png">
-    <meta name="theme-color" content="#fff0c3">
+        <link rel="apple-touch-icon" sizes="57x57" href="//styles.idlassets.com/prod/jamesonwhiskey-v2/static/apple-touch-icon-57x57.png">
+        <link rel="apple-touch-icon" sizes="60x60" href="//styles.idlassets.com/prod/jamesonwhiskey-v2/static/apple-touch-icon-60x60.png">
+        <link rel="apple-touch-icon" sizes="72x72" href="//styles.idlassets.com/prod/jamesonwhiskey-v2/static/apple-touch-icon-72x72.png">
+        <link rel="apple-touch-icon" sizes="76x76" href="//styles.idlassets.com/prod/jamesonwhiskey-v2/static/apple-touch-icon-76x76.png">
+        <link rel="apple-touch-icon" sizes="114x114" href="//styles.idlassets.com/prod/jamesonwhiskey-v2/static/apple-touch-icon-114x114.png">
+        <link rel="apple-touch-icon" sizes="120x120" href="//styles.idlassets.com/prod/jamesonwhiskey-v2/static/apple-touch-icon-120x120.png">
+        <link rel="apple-touch-icon" sizes="144x144" href="//styles.idlassets.com/prod/jamesonwhiskey-v2/static/apple-touch-icon-144x144.png">
+        <link rel="apple-touch-icon" sizes="152x152" href="//styles.idlassets.com/prod/jamesonwhiskey-v2/static/apple-touch-icon-152x152.png">
+        <link rel="apple-touch-icon" sizes="180x180" href="//styles.idlassets.com/prod/jamesonwhiskey-v2/static/apple-touch-icon-180x180.png">
+        <link rel="icon" type="image/png" href="//styles.idlassets.com/prod/jamesonwhiskey-v2/static/favicon-32x32.png" sizes="32x32">
+        <link rel="icon" type="image/png" href="//styles.idlassets.com/prod/jamesonwhiskey-v2/static/favicon-194x194.png" sizes="194x194">
+        <link rel="icon" type="image/png" href="//styles.idlassets.com/prod/jamesonwhiskey-v2/static/favicon-96x96.png" sizes="96x96">
+        <link rel="icon" type="image/png" href="//styles.idlassets.com/prod/jamesonwhiskey-v2/static/android-chrome-192x192.png" sizes="192x192">
+        <link rel="icon" type="image/png" href="//styles.idlassets.com/prod/jamesonwhiskey-v2/static/favicon-16x16.png" sizes="16x16">
+        <link rel="manifest" href="//styles.idlassets.com/prod/jamesonwhiskey-v2/static/manifest.json">
+        <link rel="mask-icon" href="//styles.idlassets.com/prod/jamesonwhiskey-v2/static/safari-pinned-tab.svg" color="#004027">
+        <meta name="msapplication-TileColor" content="#004027">
+        <meta name="msapplication-TileImage" content="//styles.idlassets.com/prod/jamesonwhiskey-v2/static/mstile-144x144.png">
+        <meta name="theme-color" content="#ffffff">
+
+        <!-- build:css -->
+        <link rel="stylesheet" href="//styles.idlassets.com/prod/jamesonwhiskey-v2/494/css/application.css?v=494" media="all">
+
+                <!-- /build -->
+
+        <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.8.1/css/solid.css" integrity="sha384-QokYePQSOwpBDuhlHOsX0ymF6R/vLk/UQVz3WHa6wygxI5oGTmDTv8wahFOSspdm" crossorigin="anonymous">
+        <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.8.1/css/fontawesome.css" integrity="sha384-vd1e11sR28tEK9YANUtpIOdjGW14pS87bUBuOIoBILVWLFnS+MCX9T6MMf0VdPGq" crossorigin="anonymous">
 
         
+        <meta property="og:url" content="https://www.jamesonwhiskey.com/en-US/privacy-policy">
+        <meta property="og:type" content="Article">
+        <meta property="og:title" content="Jameson Whiskey - Privacy Policy">
+        <meta property="og:image" content="//styles.idlassets.com/prod/jamesonwhiskey-v2/494/images/jameson-neat.jpeg">
+        <meta property="og:description" content="Jameson Whiskey - Privacy Policy">
+        <meta property="og:site_name" content="Jameson Whiskey">
+                    <meta property="og:locale" content="en_US">
+                <meta property="article:author" content="Jameson Irish Whiskey">
+        <meta property="article:published_time" content="Jameson Whiskey">
+
         
-    <meta property="og:title" content="Jameson Irish Whiskey">
-    <meta property="og:site_name" content="Jameson Irish Whiskey">
-    <meta property="og:url" content="https://www.jamesonwhiskey.com/us/privacy-policy">
-    <meta property="og:description" content="Our Jameson Irish Whiskey website is open like our distillery doors, so book a tour, enjoy drinks featuring our triple distilled whiskeys, and discover what Sine Metu means.">
-    <meta property="og:type" content="Article">
-
-    <meta property="og:locale" content="en_US">
-    <meta property="article:author" content="https://www.facebook.com/jamesonwhiskey">
-    <meta property="article:publisher" content="https://www.facebook.com/jamesonwhiskey">
-
-    <meta property="og:image" content="https://img.idlassets.com/prod/jamesonwhiskey.com/991/images/og_image_jameson_whiskey.jpg">
-    
-    
-            <!-- Twitter Card data -->
-    <meta name="twitter:card" content="summary_large_image">
-    <meta name="twitter:site" content="@">
-        <meta name="twitter:title" content="Jameson Irish Whiskey">
-    <meta name="twitter:description" content="Our Jameson Irish Whiskey website is open like our distillery doors, so book a tour, enjoy drinks featuring our triple distilled whiskeys, and discover what Sine Metu means.">
-    <meta name="twitter:image:src" content="https://img.idlassets.com/prod/jamesonwhiskey.com/991/images/og_image_jameson_whiskey.jpg">
+        <script>
+          // Picture element HTML5 shiv
+          document.createElement( "picture" );
+        </script>
 
 
-    
-    <link rel="stylesheet" href="https://s3-eu-west-1.amazonaws.com/jamesonwhiskey/content/cultfilmgalleryjs/galleria.classic.css">
-    <link rel="stylesheet" href="https://styles.idlassets.com/prod/jamesonwhiskey.com/991/css/jw.css">
-
-    <script>
-        var idl = idl || {};
-        idl.origin = "https://www.jamesonwhiskey.com";
-    </script>
-    <script src="https://js.idlassets.com/prod/jamesonwhiskey.com/991/scripts/application.js"></script>
-
-
-    
-    
-    
-    
-</head>
-
-  <body class="en-US ">
-
-  
-      <!-- Google Tag Manager -->
-<noscript>
-    <iframe src="//www.googletagmanager.com/ns.html?id=GTM-MMZ8MT"
-                  height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
-<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
-            new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
-            j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
-            '//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+            <!-- Google Tag Manager -->
+    <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+    new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+    j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+    'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
     })(window,document,'script','dataLayer','GTM-MMZ8MT');</script>
-<!-- End Google Tag Manager -->
+    <!-- End Google Tag Manager -->
+        <script src="https://www.youtube.com/iframe_api"></script>    </head>
 
-  
-<!--[if lt IE 9]>
-<p class="browsehappy">You are using an <strong>outdated</strong> browser. Please <a href="http://browsehappy.com/">upgrade
-    your browser</a> to improve your experience.</p>
-<![endif]-->
-
-
-
-<div id="top">
-    <nav class="navbar navbar-default navbar-fixed-top">
-        <div class="container">
-        <div class="navbar-header">
-
-            <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar-collapse">
-                <span></span>
-            </button>
-
-            <a class="navbar-brand animatedLogo" href="/us/" title="Jameson Irish Whiskey Home Page">
-                <img src="https://img.idlassets.com/prod/jamesonwhiskey.com/991/images/logo.svg" alt="Jameson Irish Whiskey Logo" title="Jameson Irish Whiskey Home">
-            </a>
-
-            <!-- Shop -->
-            <ul class="navbar-shop-list">
-                            <li class="trolley" itemscope="" itemtype="http://schema.org/Store"><meta itemprop="name" content="Jameson Whiskey Product Finder"><a class="trolleyLink" href="/us/productfinder" title="Jameson Whiskey Product Finder"><span id="navTrolleyIcon" class="icon">ê</span></a></li>
-                        </ul>
-            <!-- end Shop -->
-
-        </div>
-
-        <div class="collapse navbar-collapse" id="navbar-collapse">
-            <ul class="nav navbar-nav">
-                <li><a href="/us/ourwhiskeys" title="Jameson Irish Whiskey">Whiskey</a></li>
-                                    <li><a href="/us/people" title="Jameson People">People</a></li>
-                                                <li><a href="/us/our-culture" title="Jameson Culture">Culture</a></li>
-                            </ul>
-            <ul class="nav navbar-nav nav-links-right">
-                <li><a href="/us/drinks" id="btnDrinks" title="Whiskey Cocktails - Jameson Whiskey">Drinks</a></li>
-                                <li><a href="/us/visit-us" id="btnVisitUs" title="Visit Jameson">Visit Jameson</a></li>
-            </ul>
-        </div><!-- /.navbar-collapse -->
-        </div><!-- .container -->
-    </nav>
-
-    <div class="container">
-
+    <body class="compulsory privacypolicy theme-light " data-spy="scroll" data-target=".submenu" data-offset="50">
         
-<div class="container no-hero">
-    <div class="row no-padding">
-        <div class="col-xs-12">
-            <h3>PRIVACY STATEMENT</h3>
-            <hr>
-                            <p>Below are the Privacy Statement Highlights from Jameson® and Pernod Ricard USA, affiliates within the Pernod Ricard family of brands (hereinafter "We" or "Us").  Please read the full <a href="#privacy_statement">Privacy Statement</a> for full details explaining how we handle the information we collect from you.</p> 
                 
-<h4><span>PERSONAL AND OTHER INFORMATION</span></h4>
-<p>We will collect information about you (“Personal Information”) that may be used to identify, contact and locate you.  In many cases, We collect the information directly from you.  We may also collect information about you when you use our mobile applications or services and how you interact with us online via cookies and other automated means.  We may also combine the information we collect from you with information obtained from other sources to help us know our customers better.  Please see 
-<a href="#personal_information">"What types of Personal Information do we collect and how do we collect it?"</a> for more information on our Personal Information collection practices. </p>
-             
-<h4><span><span>USES</span></span></h4>
-<p>We use your Personal Information to fulfill your requests for products, services and information, deliver marketing communications, send personalized content, including interest-based ads, administer promotions and sweepstakes and for other everyday business purposes, such as making back-ups and for legal compliance.  Please see 
-<a href="#personal_information_II">"How do we use your Personal Information?"</a> for more information on how we use your Personal Information. </p>
+        
+
+            <!-- Google Tag Manager (noscript) -->
+    <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-MMZ8MT"
+    height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+    <!-- End Google Tag Manager (noscript) -->
+
+        <!--[if lte IE 9]>
+            <p class="browserupgrade">You are using an <strong>outdated</strong> browser. Please <a href="http://browsehappy.com/">upgrade your browser</a> to improve your experience and security.</p>
+        <![endif]-->
+
+        <nav class="navbar fixed-top navbar-expand-lg navbar-light" id="navbar-main">
+            <div class="container">
+                <button class="navbar-toggler align-self-start" type="button" data-toggle="collapse" data-target="#navbarCollapse" aria-controls="navbarCollapse" aria-expanded="false" aria-label="Toggle navigation">
+                    <span class="navbar-toggler-icon"><svg width="20" height="16" viewBox="0 0 20 16" xmlns="http://www.w3.org/2000/svg"><g fill="none" fill-rule="evenodd"><g id="nav-menu-icon" transform="translate(-20 -104)" fill="#FFF"><g transform="translate(0 64)"><path d="M20 40h20v2H20v-2zm0 7h12v2H20v-2zm0 7h16v2H20v-2z"></path></g></g></g></svg></span>
+                </button>
+                <a class="navbar-brand mx-auto align-self-start" href="/en-US/">
+                    <svg class="logo-jamesonwhiskey" width="150" height="36" viewBox="0 0 150 36" xmlns="http://www.w3.org/2000/svg"><title>Jameson Whiskey</title><path d="M5.642 14.338c-.354-1.327-1.486-2.008-2.256-2.057l-.02-.07s2.084-.76 3.595-1.28c1.57-.53 3.81-1.27 3.81-1.27l.04.07c-.57.52-.83 1.62-.5 2.9 0 0 2.87 11.24 3.28 12.72.41 1.49.98 2.32 1.75 2.42l.03.08c-.4.39-.72 1.36-1.13 2.26-.41.91-1.28 3.65-4.63 4.96-3.65 1.42-7.38.56-8.96-2.01-1.04-1.67-.81-3.98.86-4.92 1.45-.81 3.01-.29 3.61.9.58 1.16.19 2.39-.27 2.8-.09.09 0 .25.22.4.99.66 2.09.62 3.16.05 1.37-.73 1.83-1.9 1.12-4.62-.57-2.18-3.26-11.81-3.66-13.29zm28.578 13.14c-1.545.394-4.175.98-4.175.98l-.02-.07c.614-.563 1.28-1.895.32-3.728l-1.435-2.888-6.056 1.634-.237 3.396c-.01 2.038 1.055 2.916 1.87 3.092l.017.074s-1.94.6-3.452 1.03c-1.48.473-3.354 1.03-3.354 1.03l-.024-.072c.586-.5 1.226-2.198 1.35-4.175.338-5.27.836-13.15 1.28-16.68.217-1.69.008-3.3-1.306-3.75l-.02-.09s1.844-.54 4.087-1.07c1.88-.44 4.125-1.02 4.125-1.02l.03.09c-.87 1.16-.205 2.37.62 3.89.78 1.45 7.414 13.57 7.973 14.57.976 1.68 1.602 2.36 2.604 2.8l.01.08-4.207.9zM23.698 11.293l-.604 8.678 4.323-1.2-3.72-7.47zM53.778.877L60.92.33l.015.07c-1.863.882-1.664 2.478-1.475 4.957l.95 14.122c.23 2.06.743 3.66 1.66 4.06l-.005.07s-1.665.1-3.962.28c-2.285.18-3.98.35-3.98.35l-.015-.08c.838-.57 1.55-2.31 1.392-4.45 0 0-.617-9.19-.68-9.96-.078-.87.007-1.47.007-1.47s-.112.64-.334 1.38L49.91 25l-.12.01s-6.48-11.96-7.06-12.92c-.466-.77-.65-1.496-.65-1.496s.226.68.375 1.596c.15.915 1.3 8.982 1.3 8.982.37 2.115 1.49 3.63 2.435 3.972l.007.074-6.267 1.02-.02-.07c.792-.61.9-2.285.615-4.346l-1.9-14.002C38.33 5.695 37.243 4 35.663 3.48l-.004-.075 7.11-1.212s5.94 10.748 6.98 12.382C50.39 12.53 53.78.877 53.78.877zM80.893.163l-.176 5.126h-.074c-.82-1.91-2.893-2.3-4.75-2.28l-4.025.04-.11 6.18 2.04.05c2.713.05 3.517-.17 4.508-1.89l.072.01-.258 7.34h-.073c-.897-1.91-2.902-2.04-4.757-2.02l-1.527-.01-.16 6.82 4.205.08c2.713.05 4.073-.7 4.95-2.26l.073.01-.75 6.02c-4.96-.168-10.66-.198-15.1.004l-.01-.073c1.01-.66 1.56-2.15 1.57-4.393L66.7 4.3c.02-2.08-.12-3.41-1.57-4.13l.01-.07c4.84-.18 11-.19 15.77.03zm10.825 24.48c-2.98-.09-3.3-.93-4.987-1.316-1.23-.282-2.07.257-2.44.692l-.07-.01.36-8.23.07-.01c.61 1.59 2.34 3.8 4.35 4.92 1.83 1.01 3.67.59 4.62-.6.82-1.04 1.03-2.97-.27-4.28-1.29-1.32-3.33-2.2-5.04-3.51-3.46-2.66-3.24-6.24-2.15-8.24 1.5-2.77 4.67-3.9 7.5-3.63 1.72.16 2.5.6 3.7.99 1.21.38 2.28.15 2.5.03l.07.01-.54 6.49h-.07c-.62-1.71-2.67-3.85-4.83-4.25-1.89-.35-2.94.32-3.4 1.09-.71 1.2-.4 2.53.91 3.43 1.89 1.3 4.19 2.27 5.69 3.69 2.2 2.06 2.9 5.72.95 8.95-1.57 2.61-4.66 3.82-6.88 3.76zm30.662-6.927c-1.622 6.662-6.576 11.277-12.403 10.002-6.35-1.39-8.303-7.375-6.654-14.167 1.628-6.71 6.23-10.94 12.16-9.94 7.032 1.18 8.478 7.61 6.896 14.11zm-7.463-10.768c-3.054-.67-5.09 3.02-6.14 7.78-1.103 5.023-.59 8.91 2.206 9.522 2.666.583 4.923-2.7 6.026-7.72 1.04-4.762.96-8.914-2.1-9.582zm21.707 16.195c.154.636.166 1.47.166 1.47s-.024-.395.28-1.38l2.608-7.646c.662-1.972.64-3.406-.24-4.53l.033-.063 6.33 2.346-.01.073c-1.31.384-2.32 1.472-2.99 3.457-.37 1.19-6.15 18.168-6.15 18.168l-3.19-1.203L130.3 18.3c-.16-.634-.168-1.47-.168-1.47s.02.395-.28 1.382c-.27.886-2.882 8.685-2.882 8.685-.584 2.068-.507 3.493.327 4.584l-.028.07-6.77-1.98.01-.07c1.37-.38 2.54-1.42 3.18-3.4l4.28-13.41c.66-2.19.49-4.19-.71-5.34l.03-.07 6.23 1.81 3.09 14.08zm11.803-6.333c1.14.312 1.81 1.483 1.495 2.623-.312 1.14-1.486 1.808-2.63 1.494-1.143-.312-1.814-1.484-1.498-2.624.316-1.14 1.49-1.807 2.633-1.493zm-.136.482c-.88-.244-1.73.26-1.98 1.153-.24.894.23 1.758 1.12 2 .89.246 1.74-.26 1.98-1.152.25-.893-.22-1.76-1.11-2zm-1.69 2.166c.25.04.28.035.33-.15l.37-1.332c.05-.186.04-.203-.2-.297l.05-.18 1.24.33c.35.09.62.33.52.72-.07.27-.32.45-.63.46l.24.75c.06.16.14.23.22.26l-.04.17-.5-.14c-.11-.03-.166-.12-.21-.3l-.216-.8-.142-.04-.14.51c-.05.18-.03.2.2.3l-.05.17-1.04-.29.048-.18zm1.2-.654c.16.044.39-.018.48-.368.09-.31-.06-.448-.24-.497l-.17-.05-.24.86.17.04z" fill="#FFF" fill-rule="evenodd"></path></svg>
+
+                </a>
+
+                                <div class="d-lg-none collapse navbar-wrapper align-self-start w-100" id="navbarCollapse">
+                    <ul class="navbar-nav list-unstyled my-4">
+                        <li><a class="" href="/en-US/" title="Now">Now</a></li>
+<li><a class="" href="/en-US/ourwhiskeys/" title="Whiskey">Whiskey</a></li>
+<li><a class="" href="/en-US/drinks" title="Drinks">Drinks</a></li>
+<li><a class="" href="/en-US/visit-us" title="Visit Us">Visit Us</a></li>
+
+<li><a href="#" data-toggle="modal" data-target="#buy-now-shop-us" title="Buy Now">Buy Now</a></li>
 
-<h4><span>DISCLOSURES</span></h4>
-<p>Your Personal Information may be shared and/or disclosed:</p>
-<ul>
- <li>to Us and our affiliates around the world who may use it only for the purposes listed in this Privacy Statement, including for their own marketing purposes,</li>
- <li>to our service providers who only use it to perform the services we have requested, or</li>
-<li>when required to do so by law or in connection with the sale of our business.</li>
-</ul>
-
- <p><strong>We will never share your Personal Information with unaffiliated third parties for their own marketing unless you have given us your consent.</strong></p>
-<p>Please see <a href="#personal_information_III">"When is your Personal Information disclosed to others?"</a> for more information on who we share your Personal Information with.</p>
-
-<h4><span>YOUR CHOICES</span></h4>
-
-<p>You can opt out of receiving marketing communications and interest-based ads.  Please see <a href="#choices">"Your Choices"</a> for more information on your rights and how to exercise them.</p>
-
-
-<h4><span>IMPORTANT INFORMATION</span></h4>
-
-<p>Your Personal Information may be processed in other countries, but we will take all appropriate measures to protect the privacy and security of your Personal Information no matter where it is processed. Please see <a href="#european">"European Union and International Privacy Matters"</a> for more information on where your Personal Information may be processed.</p>
-
-<h4><span>HOW TO CONTACT US</span></h4>
-
-<p>Irish Distillers Ltd</p>
-<p>Attn: Legal Department</p>
-<p>Simmonscourt House</p>
-<p>Simmonscourt Road</p>
-<p>Ballsbridge</p>
-<p>DUBLIN 4</p>
-<p>IRELAND</p>
- <p><a href="mailto:info@jamesonwhiskey.com">info@jamesonwhiskey.com</a></p>
-
-
-<h4><span><center><a name="privacy_statement">Privacy Statement</a></center></span></h4>
-
-
-<p>Jameson® and Pernod Ricard USA are affiliates within the Pernod Ricard family of brands (hereinafter "We" or "Us" or "Our").  We respect your right to privacy. We have developed this Privacy Statement to inform you how we handle the Personal Information you provide to us.</p>
-<p>We may update this Privacy Statement from time to time.  If we make any material changes to this Privacy Statement, we will notify you by sending a notice to the primary email address provided to us or by posting the revised Privacy Statement on our website.</p>
-<p>Last Updated: 11 September 2017</p>
-
-<p><strong><a href="#personal_information">1. What types of Personal Information do we collect and how do we collect it?</a></strong></p>
-<p><strong><a href="#personal_information_II">2. How do we use your Personal Information?</a></strong></p>
-<p><strong><a href="#personal_information_III">3. When is your Personal Information disclosed to others?</a></strong></p>
-<p><strong><a href="#cookies">4. Cookies and Other Data Collection Technologies</a></strong></p>
-<p><strong><a href="#applications">5. Mobile Applications</a></strong></p>
-<p><strong><a href="#choices">6. Your Choices</a></strong></p> 
-<p><strong><a href="#rights">7. Access, Correction, and Other Rights</a></strong></p>
-<p><strong><a href="#security">8. Information Security and Retention</a></strong></p>
-<p><strong><a href="#european">9. European Union and International Privacy Matters</a></strong></p> 
-<p><strong><a href="#legal_age">10. Personal Information of People Under the Legal Age</a></strong></p>
-<p><strong><a href="#third_parties">11. Privacy Policies of Third Parties</a></strong></p> 
-<p><strong><a href="#forums">12. Forums and Other Public Areas</a></strong></p> 
-<p><strong><a href="#contact_us">13. How to Contact Us</a></strong></p> 
-
-<h4><span><a name="personal_information">1. What types of Personal Information do we collect and how do we collect it?</a></span></h4>
-
-<p>This Privacy Statement explains our practices with regard to “Personal Information.” Personal Information is any information that can be used to identify, locate or contact you.  We collect the following types of Personal Information:</p>
-<ul>
-<li><strong>Contact Information</strong> that allows us to communicate with you, such as your name, username, mailing address, telephone numbers, country of residence, email address or other addresses that allow us to send you messages.</li>
-<li><strong>Relationship Information</strong> that helps us do business with you, such as your age, demographics and interests as well as your brand and marketing preferences.</li>
-<li><strong>Transaction Information</strong> about how you interact with Us including your purchase history, customer account information.</li>
-<li><strong>Usage Information</strong> about how you use Our websites and mobile applications, to give us a better idea of how you interact with our brands and content.</li>
-</ul>
-
-<p>In many cases, we collect Personal Information directly from you.  We may ask you for Personal Information when you interact with us, such as registering on our websites, liking us on social media, signing up to receive promotions or joining a wine club.  We may also obtain additional information from third party data suppliers who enhance our files and help us better understand our customers.</p> 
-
-<h4><span><a name="personal_information_II">2. How do we use your Personal Information?</a></span></h4>
-
-<p>We use your Personal Information to:</p>
-<ul>
-<li>Fulfill your orders for products or services and for related activities, such as send you communications related to your order, respond to your inquiries, perform age verification, product and service delivery, customer service, account management, support and related training of our personnel involved in such activities, and to provide other services related to your account;</li>
-<li>Develop our relationship with you such as by delivering personalized content;</li>
-<li>Provide you with marketing communications and offers for products and services from Us and, in some cases, our partners, including for offers targeted based on your interests or location;</li>
-<li>Administer surveys and other promotional events that you may voluntarily choose to join;</li>
-<li>match it with other public and private data sources in order to enhance our records, such as appending additional information to your profile, or the records of our business partners.  We also may work with other providers who also possess information about you in order to reach you through different methods and platforms, such as on a social media platform that you use; and</li>
-<li>Manage our everyday business needs, such as payment processing and financial account management, product development, contract management, website administration, forum management, fulfillment, analytics, security and fraud prevention, corporate governance, reporting and legal compliance.</li>
-</ul>
-
-<p>If We intend to uses your Personal Information in a manner materially different than as set out in this Privacy Statement, We will provide you with information on that other purpose prior to that use.</p>
-
-
-<h4><span><a name="personal_information_III">3. When is your Personal Information disclosed to others?</a></span></h4>
-
-<p>We understand that you do not want us to provide your Personal Information directly to third parties for their own marketing purposes without your consent.  We limit our sharing of your Personal Information as follows:</p>
-
-<ul>
-<li>We may share your Personal Information with, or otherwise make it available to, our affiliates, who may only use your Personal Information in compliance with this Privacy Statement.</li>
-<li>We may share your Personal Information with our service providers, who are instructed to only use your Personal Information in accordance with our instructions.</li>
-<li>We may share your Personal Information with unaffiliated joint marketing partners, but only if you have given us your consent.</li>
-<li>We may also disclose Personal Information where needed to affect the sale or transfer of business assets, in connection with a bankruptcy proceeding, to enforce our rights, protect our property, or protect the rights, property or safety of others, or as needed support external auditing, compliance and corporate governance functions.  We may also disclose Personal Information when required to do so by law, such as in response to a subpoena, including to law enforcement agencies and courts in the countries where we operate.</li>
-</ul>
-
-<p>Please note that we may also use and disclose information about you that is not personally identifiable i.e. Personal Information in an aggregate form that no longer identifies you.</p>
-
-<h4><span><a name="cookies">4. Cookies and Other Data Collection Technologies</a></span></h4>
-
-<p>When you visit our website or use our mobile applications, we collect certain Transaction Information by automated means, using technologies such as cookies, pixel tags, browser analysis tools, server logs and web beacons.</p>
-
-<p><i>Cookies</i></p>
-
-<p>When you visit our website, we place cookies on your device. Cookies are small text files that websites send to your device or other Internet-connected devices to uniquely identify your browser or to store information or settings in your browser.  Cookies allow us to recognize you when you return.  They also help us provide a customized experience and enable us to detect certain kinds of fraud.  In many cases, you can manage cookie preferences and opt-out of having cookies and other data collection technologies used by adjusting the settings on your browser.  All browsers are different, so visit the “help” section of your browser to learn about cookie preferences and other privacy settings that may be available.</p>
-
-<p><i>Flash Cookies</i></p>
-
-<p>We may use Flash Cookies (also known as Local Stored Objects) and similar technologies to personalize and enhance your online experience.  The Adobe Flash Player is an application that allows rapid development of dynamic content, such as video clips and animation.  We use Flash cookies for security purposes and to help remember settings and preferences similar to browser cookies, but these are managed through a different interface than the one provided by your web browser.  To manage Flash cookies, please see Adobe’s website at <a href="http://kb2.adobe.com/cps/526/52697ee8.html">http://kb2.adobe.com/cps/526/52697ee8.html</a> or visit 
-<a href="http://www.adobe.com">www.adobe.com</a>.</p>
-
-<p><i>Pixel Tags and Web Beacons</i></p>
-
-<p>Pixel tags and web beacons are tiny graphic images placed on website pages or in our emails that allow us to determine whether you have performed a specific action. When you access these pages or open or click an email, the pixel tags and web beacons generate a notice of that action.  These tools allow us to measure response to our communications and improve our web pages and promotions.</p>
-
-<p><i>Types of Data We Collect</i></p>
-
-<p>We collect many different types of information from cookies and other technologies.  For example, we may collect information about the device you use to access our website, your operating system type, browser type, referring domain, and other system settings, as well as the language your system uses and the country and time zone where your device is located.  Our server logs also record the IP address of the device you use to connect to the Internet.  An IP address is a unique identifier that devices use to identify and communicate with each other on the Internet. We may also collect information about the website you were visiting before you came to US and the website you visit after you leave our site.</p>
-
-<p>In many cases, the information we collect using cookies and other tools is only used in an aggregated or non-identifiable way, without any reference to Personal Information.  For example, we use information we collect about all website users to optimize our websites and to understand website traffic patterns.</p>
-
-<p>In some cases, we do associate the information we collect using cookies and other technology with your Personal Information.  This Privacy Statement governs how we use this information when we associate it with your Personal Information. </p>
-
-<p><i>Third Party Advertisers and Interest-Based Ads</i></p>
-
-<p>We have relationships with Google and other third party advertising companies to deliver interest-based advertisements, targeted to you based on your demographics, brand preferences, online behavior and similar factors.  These companies may also perform tracking and reporting functions for us on this website and other websites.  These companies may place cookies on your device when you visit our website or other websites so that they can display targeted advertisements to you.  These companies do not collect Personal Information in this process, and we do not give any Personal Information to them as part of this process.  However, this Privacy Statement does not cover the collection methods or use of the information collected by these companies.</p>
-
-<p>For more information about interest-based advertising, please visit the Digital Advertising Alliance (DAA) at www.aboutads.info/consumers.  We comply with the Self-Regulatory Principles for Online Behavioral Advertising as administered by the DAA. To opt out of being targeted by some third party advertising companies, you may visit 
-<a href="http://www.aboutads.info/choices">www.aboutads.info/choices</a>.</p>
-
-<p>We may work with third parties that use algorithms to determine if you have interacted with our services on multiple devices and to match such devices together.  We may then display interest-based advertisements to you across your devices or otherwise use the combined data for purposes under this Privacy Statement.  For example, if you exhibit certain behaviors on your desktop computer, we may serve interest-based advertisements to you on your smartphone based upon those behaviors if we have linked both of those devices to you.  If you would like to opt-out of such cross device matching, please visit the Digital Advertising Alliance (DAA) at 
-<a href="http://www.aboutads.info/consumers">www.aboutads.info/consumers</a>.</p>
-
-<p>While we do provide the ability to opt-out of certain targeting advertising as described in this Privacy Statement, we do not respond to “do not track” (a/k/a DNT) signals or similar mechanisms transmitted by web browsers.  To learn more about browser tracking signals and Do Not Track please visit 
-<a href="http://www.aboutads.info/consumers">http://www.allaboutdnt.org/</a>.</p>
-
-<h4><span><a name="applications">5. Mobile Applications</a></span></h4>
-
-<p>We offer mobile applications that allow you to interact with us and receive personalized content, interest-based ads and other information via your smartphone.  When you download our mobile applications, you may choose to allow us to obtain your precise location from your mobile device.  We use this information to customize our response to your requests.  We may also offer automatic (or "push") notifications. We will provide push notifications only to those customers who opt-in to receive such notifications from Us. You do not have to provide location information to Us or enable push notifications to use any of our mobile apps.  If you have questions about location and notification privacy, please contact your mobile service provider or the manufacturer of your device to learn how to adjust your settings.  We may also collect information from mobile applications in the same manner that we do from websites.</p>
-
-<h4><span><a name="choices">6.Your Choices</a></span></h4>
-
-<p>You can always limit certain information you provide to Us</p>
-
-<p>You can also limit the communications that We send to you.  To opt-out of emails, simply click the link labeled “unsubscribe” at the bottom of any email we send you.  Please note that even if you opt-out of promotional messages, we may still need to contact you with important transactional information about your account. For example, even if you opt-out of emails, we may still send you order confirmations and shipping notices.</p>
-
-<p>You can exercise certain choices with respect to interest-based ads as set forth above in the “Third Party Advertisers and Interest-Based Ads” section.</p>
-
-<p>You may request that we delete your Personal Information from our active records.  We will make reasonable efforts to honor such requests, provided that, we may retain archived information and are unable to remove your Personal Information from the records of any third parties with whom the information has previously been shared in compliance with this Policy Statement.  Please <a href="#contact_us">contact us</a> with any such requests.</p>
-
-<h4><span><a name="rights">7. Access, Correction and Other Rights</a></span></h4>
-
-<p>We respect your right to access and correct your Personal Information.  If you have an online account, you can log into your account at any time to access and update the information you have provided to us.  If you need assistance updating your Personal Information, please <a href="#contact_us">contact us</a></p>
-
-<h4><span><a name="security">8. Information Security and Retention</a></span></h4>
-
-<p>We take all appropriate technical and organizational measures to protect the confidentiality and security of your Personal Information. We have implemented an information security program that contains administrative, technical and physical controls that are reasonably designed to safeguard your Personal Information.  For example, we use industry-standard encryption technology to secure Personal Information consisting of credit card numbers and other payment information when it is being collected and transmitted over the Internet as well as firewalls, site monitoring and intrusion detection software.</p>
-
-<p>We retain your Personal Information for as long as your account is active, or as long as needed for the business purposes described in this Privacy Statement, in accordance with applicable legal standards.  Other recipients of your Personal Information who have been provided with such information in compliance with this Privacy Statement may retain your data for longer periods to fulfil the purpose for which your Personal Information was shared with them, or for their own compliance, dispute resolution, enforcement, or record management purposes.</p>
-
-
-<h4><span><a name="european">9. European Union and International Privacy Matters</a></span></h4>
-
-<p>This section describes the additional commitments that apply to your Personal Information if you are located in the European Union and your data is processed by Brand or PR USA outside the European Union, or if your data is processed by a Brand established in the European Union:</p>
-
-<ul>
- <li>We will use your Personal Information as described in this Privacy Statement as necessary (i) for the performance of any contract between you and Us, where you have made a purchase, including in order to process your payment, make a delivery, respond to any customer service requests, (ii) with your consent where required by law, for instance to send you marketing communications or administer surveys and other promotional events, (iii) to comply with our legal obligations, notably in terms of payment processing, financial account management, fraud prevention, legal compliance, and (iv) to further our legitimate interests including our legitimate interest in better serving you and improving our services, improving our communication with you, and ensuring the accuracy of the information we hold about you.</li>
- <li>Where our processing of your Personal Information listed above is not based on your consent or our legitimate interests (i.e. is necessary for the performance of a contract or required to fulfil our legal obligations), failure to provide any of the requested Personal Information may result in us being unable to process your order or respond to your request, and certain features of our website and/or application may not be available.</li>
- <li>We will seek your consent to use and process your Personal Information when required to do so by applicable law.  In such case, you may withdraw such consent at any time by <a href="#contact_us">contacting us</a> or opting out where applicable.</li>
- <li>We may conduct profiling activities based on your interests and your browsing on our web sites to better serve you and provide you with targeted marketing information on our products in accordance with your tastes. You may opt out at any time when receiving such information. We respect your right to restrict or object to the processing of your Personal Information, as well as your right to data erasure and portability. To exercise these rights, please <a href="#contact_us">contact us</a>. You also have the right to lodge a complaint with the competent supervisory authority.</li>
- <li>We will always protect the privacy and security of your Personal Information in accordance with this Privacy Statement as well as with any applicable laws, regardless of where it is processed or stored.</li>
- <li>We will keep your data as long as required by applicable law for the purpose for which the data was collected.</li>
-<li>The categories of data recipients include, but are not limited to our marketing departments and relevant services providers (not namely mentioned) depending on the purposes of the data processing.</li>
-</ul>
-
-<p>Such recipients of your Personal Information may be located outside of the EU. Therefore, where we transfer your Personal Information to a country that may not present an adequate level of protection according to EU law, we may rely on contracts based on the European Commission's standard contractual clauses. If you would like more information on these contracts, please <a href="#contact_us">contact us</a>.</p>
-
-<h4><span><a name="legal_age">10. Personal Information of People Under the Legal Age</a></span></h4>
-
-<p>We do not intend to collect Personal Information from any individuals under the legal purchase age, or to market alcoholic beverages to anyone under the legal purchase age.  Please do not provide us with your Personal Information if you are not of legal age to purchase alcohol in the jurisdiction in which you reside and (if different) in the jurisdiction in which you are interacting with us.  If we receive notice or believe that someone under the legal purchase age has provided us with Personal Information we will use reasonable efforts to remove such Personal Information from our files, or to flag such Personal Information and (to the extent permitted by law) retain it for the sole purpose of ensuring that it is no longer used.</p>
-
-<h4><span><a name="third_parties">11. Privacy Policies of Third Parties</a></span></h4>
-
-<p>This Privacy Statement only addresses the use and disclosure of information by Us. Other websites that may be accessible through this website have their own privacy policies and data collection, use and disclosure practices.  We encourage you to familiarize yourself with the privacy statements provided by all third parties prior to providing them with information or taking advantage of an offer or promotion.</p>
-
-
-<h4><span><a name="forums">12. Forums and Other Public Areas</a></span></h4>
-
-<p>Our websites may provide forums and other areas where you can communicate with others and publicly post information, such as reviews.  Prior to posting in these areas, please read the <a href="https://www.jamesonwhiskey.com/us/terms-conditions">Terms of Use</a> carefully.  All the information you post can be seen by anyone with Internet access, and any Personal Information you include in your posting may be read, collected, and used by others. For example, if you post your email address, you may receive unsolicited messages from others.  Please use caution when posting any Personal Information in the public areas.</p>
-
-<h4><span><a name="contact_us">13. How to Contact Us</a></span></h4>
-
-<p>Please contact us if you have any questions or comments about our privacy practices or this Privacy Statement.  You can always reach us online at <a href="mailto:info@jamesonwhiskey.com">info@jamesonwhiskey.com</a>. You can also reach us via mail to:</p>
-
-<p><strong>Irish Distillers Ltd</strong></p> 
-<p><strong>Attn: Legal Department</strong></p> 
-<p><strong>Simmonscourt House</strong></p> 
-<p><strong>Simmonscourt Road</strong></p> 
-<p><strong>Ballsbridge</strong></p> 
-<p><strong>DUBLIN 4</strong></p> 
-<p><strong>IRELAND</strong></p>
-                    </div>
-    </div>
-    <div class="row no-padding">
-        <div class="col-xs-12">
-            <hr>
-        </div>
-    </div>
-
-</div>
-    </div><!-- .container -->
-
-    <div class="footer en-US">
-        <div class="container">
-
-            <div class="row">
-                <div class="col-xs-12 col-sm-3">
-                    <ul class="list-unstyled">
-                        <li><a href="/us/terms-conditions" title="Jameson Irish Whiskey Website Terms &amp; Conditions">TERMS &amp; CONDITIONS</a></li>
-                                            <li><a href="/us/privacy-policy" title="Jameson Irish Whiskey Website Privacy Statement">PRIVACY STATEMENT</a></li>
-                                                                <li><a href="/us/interest-based-ads" title="Interest-Based Ads">Interest-Based Ads</a></li>
-                                            <li><a href="#" data-toggle="modal" data-target="#locale-switcher">Change Country</a></li>
-                        <li><a href="/us/faq" title="FAQ">FAQ</a></li>
                     </ul>
 
-                </div><!-- end col -->
-                <div class="col-xs-12 col-sm-3">
-
-                    <ul class="list-unstyled">
-                        <li><a href="/us/enjoy-responsibly" title="Jameson Irish Whiskey Responsibility Statement">ENJOY RESPONSIBLY</a></li>
-                                                <li><a href="/us/nutritional-information" title="Jameson Nutritional Information">Nutritional Information</a></li>
-                                                <li><a href="/us/cookie-statement" title="Jameson Irish Whiskey Cookie Statement">Cookie Policy</a></li>
-                                                                        <li><a href="http://responsibility.org/" title="Responsibility.org">Responsibility.org</a></li>
-                                            </ul>
-
-                </div><!-- end col -->
-
-
-                <div class="col-xs-12 col-sm-6 footerRight">
-                                            
-                                                    <a href="https://instagram.com/jameson_us/" id="social_instagram" class="share-icon icon footerSoc" title="Jameson Irish Whiskey on Instagram" target="_blank">¢</a>
-                        
-                        
-                                                    <a href="https://www.facebook.com/jamesonwhiskey" id="social_facebook" class="share-icon icon footerSoc" title="Follow Jameson Irish Whiskey on Facebook" target="_blank">¥</a>
-                        
-                                                    <a href="https://twitter.com/jameson_us" id="social_twitter" class="share-icon icon footerSoc" title="Follow Jameson Irish Whiskey on Twitter" target="_blank">§</a>
-                        
-                                                    <a href="https://plus.google.com/113064343493097298960/posts" id="social_google_plus" class="share-icon icon footerSoc" title="Add Jameson Irish Whiskey on Google Plus" target="_blank">°</a>
-                                            
-                </div><!-- end col -->
-                <div class="col-xs-12 col-sm-12 text-center hidden-md hidden-lg">
-                <span class="visible-sm11">
-                    <br>
-                    © 2017 Irish Distillers Limited
-                    <br>
-                </span>
-                </div><!-- end col -->
-
-            </div><!-- .row -->
-
-            <div class="row hidden-sm">
-                <div class="col-xs-6 footer-logo">
-                    <span class="copyright">© 2017 Irish Distillers Limited</span>
+                    <div class="social-media navbar-nav list-unstyled navbarlist-right">
+                        <ul class="list-unstyled text-right">
+            <li><a target="_blank" rel="noopener" href="https://www.instagram.com/jameson_us/">Instagram</a></li>
+        <li><a target="_blank" rel="noopener" href="https://www.facebook.com/profile.php?id=1164853883539933&amp;ref=content_filter">Facebook</a></li>
+        <li><a target="_blank" rel="noopener" href="https://twitter.com/jameson_us">Twitter</a></li>
+        <li><a target="_blank" rel="noopener" href="https://www.youtube.com/user/jamesonwhiskey">YouTube</a></li>
+    </ul>
+                    </div>
                 </div>
-                <div class="col-xs-6">
-                    <a href="#top" class="top pull-right hidden-xs hidden-sm icon share-icon">ñ</a>
-                </div>
-            </div><!-- .row -->
+                                <div class="d-none d-lg-block w-100">
+                    <button class="navbar-toggler-desktop float-right animated hamburger" type="button" data-toggle="collapse" data-target="#navbarCollapseDesktop" aria-controls="navbarCollapseDesktop" aria-expanded="true/false" aria-label="Toggle menu">
+                        <span class="hamburger-box hamburger--minus">
+                            <span class="navbar-toggler-icon-desktop hamburger-inner"></span>
+                        </span>
+                    </button>
 
+                    <div class="float-right" id="navbarCollapseDesktop">
+                        <ul class="navbar-nav list-unstyled">
+                            <li><a class="" href="/en-US/" title="Now">Now</a></li>
+<li><a class="" href="/en-US/ourwhiskeys/" title="Whiskey">Whiskey</a></li>
+<li><a class="" href="/en-US/drinks" title="Drinks">Drinks</a></li>
+<li><a class="" href="/en-US/visit-us" title="Visit Us">Visit Us</a></li>
 
-            <p class="visible-xs visible-sm text-center" style="padding:30px 0;">
-                <img src="https://img.idlassets.com/prod/jamesonwhiskey.com/991/images/footer-logo.svg" alt="Jameson Irish Whiskey">
-            </p>
-        </div><!-- .container -->
+<li><a href="#" data-toggle="modal" data-target="#buy-now-shop-us" title="Buy Now">Buy Now</a></li>
 
-    </div><!-- .footer -->
+                        </ul>
+                    </div>
+                </div>            </div>
+        </nav>
 
-
-    
         
-
-            
-    
-  </div><!-- #top -->
-
-
-    <!-- Locale Switcher Modal -->
-<div class="modal fade" id="locale-switcher" tabindex="-1" role="dialog" aria-labelledby="locale-switcherLabel">
-    <div class="modal-dialog" role="document">
-        <div class="modal-content">
-            <div class="modal-header">
-                <a class="navbar-brand animatedLogo" href="/us/" title="Jameson Irish Whiskey Home Page">
-                    <img class="visible-xs" src="https://img.idlassets.com/prod/jamesonwhiskey.com/991/images/logo.svg" alt="Jameson Irish Whiskey Logo" title="Jameson Irish Whiskey Home">
-                    <img class="hidden-xs" src="https://img.idlassets.com/prod/jamesonwhiskey.com/991/images/logo_inverted.svg" alt="Jameson Irish Whiskey Logo" title="Jameson Irish Whiskey Home">
-                </a>
-                <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">×</span></button>
-
+        <div class="wrapper">
+            <div class="container">
+                <div role="main" class="main">
+                    
+<div class="row gutters">
+    <div class="col-12 text-left">
+        <h1 class="text-center h3">Privacy Policy</h1>
+        <div class="separator separator-dark"></div>
+    </div>
+    <div class="col-12">
+        <div class="row mb-5 mb-lg-7">
+            <div class="col-0 col-lg-2"></div>
+            <div class="col-12 col-lg-8">
+                Below are the Privacy Statement Highlights from Jameson® and Pernod Ricard USA, affiliates within the Pernod Ricard family of brands (hereinafter "We" or "Us"). Please read the full Privacy Statement for full details explaining how we handle the information we collect from you.<br>
+<br>
+PERSONAL AND OTHER INFORMATION<br>
+We will collect information about you (“Personal Information”) that may be used to identify, contact and locate you. In many cases, We collect the information directly from you. We may also collect information about you when you use our mobile applications or services and how you interact with us online via cookies and other automated means. We may also combine the information we collect from you with information obtained from other sources to help us know our customers better. Please see "What types of Personal Information do we collect and how do we collect it?" for more information on our Personal Information collection practices.<br>
+<br>
+Pernod Ricard  may share for the purposes mentioned in Article 3 your personal information with its subsidiary companies, that is to say companies in which Pernod Ricard has control through either direct or indirect ownership (Please see “Pernod Ricard Brands”)” <br>
+<br>
+USES<br>
+We use your Personal Information to fulfill your requests for products, services and information, deliver marketing communications, send personalized content, including interest-based ads, administer promotions and sweepstakes and for other everyday business purposes, such as making back-ups and for legal compliance. Please see "How do we use your Personal Information?" for more information on how we use your Personal Information.<br>
+<br>
+DISCLOSURES<br>
+Your Personal Information may be shared and/or disclosed:<br>
+<br>
+to Us and our affiliates around the world who may use it only for the purposes listed in this Privacy Statement, including for their own marketing purposes,<br>
+to our service providers who only use it to perform the services we have requested, or<br>
+when required to do so by law or in connection with the sale of our business.<br>
+We will never share your Personal Information with unaffiliated third parties for their own marketing unless you have given us your consent.<br>
+<br>
+Please see "When is your Personal Information disclosed to others?" for more information on who we share your Personal Information with.<br>
+<br>
+YOUR CHOICES<br>
+You can opt out of receiving marketing communications and interest-based ads. Please see "Your Choices" for more information on your rights and how to exercise them.<br>
+<br>
+IMPORTANT INFORMATION<br>
+Your Personal Information may be processed in other countries, but we will take all appropriate measures to protect the privacy and security of your Personal Information no matter where it is processed. Please see "European Union and International Privacy Matters" for more information on where your Personal Information may be processed.<br>
+<br>
+HOW TO CONTACT US<br>
+Irish Distillers Ltd<br>
+<br>
+Attn: Legal Department<br>
+<br>
+Simmonscourt House<br>
+<br>
+Simmonscourt Road<br>
+<br>
+Ballsbridge<br>
+<br>
+DUBLIN 4<br>
+<br>
+IRELAND<br>
+<br>
+info@jamesonwhiskey.com<br>
+<br>
+Privacy Statement<br>
+Jameson® and Pernod Ricard USA are affiliates within the Pernod Ricard family of brands (hereinafter "We" or "Us" or "Our"). We respect your right to privacy. We have developed this Privacy Statement to inform you how we handle the Personal Information you provide to us.<br>
+<br>
+We may update this Privacy Statement from time to time. If we make any material changes to this Privacy Statement, we will notify you by sending a notice to the primary email address provided to us or by posting the revised Privacy Statement on our website.<br>
+<br>
+Last Updated: 11 September 2017<br>
+<br>
+1. What types of Personal Information do we collect and how do we collect it?<br>
+<br>
+2. How do we use your Personal Information?<br>
+<br>
+3. When is your Personal Information disclosed to others?<br>
+<br>
+4. Cookies and Other Data Collection Technologies<br>
+<br>
+5. Mobile Applications<br>
+<br>
+6. Your Choices<br>
+<br>
+7. Access, Correction, and Other Rights<br>
+<br>
+8. Information Security and Retention<br>
+<br>
+9. European Union and International Privacy Matters<br>
+<br>
+10. Personal Information of People Under the Legal Age<br>
+<br>
+11. Privacy Policies of Third Parties<br>
+<br>
+12. Forums and Other Public Areas<br>
+<br>
+13. How to Contact Us<br>
+<br>
+1. What types of Personal Information do we collect and how do we collect it?<br>
+This Privacy Statement explains our practices with regard to “Personal Information.” Personal Information is any information that can be used to identify, locate or contact you. We collect the following types of Personal Information:<br>
+<br>
+Contact Information that allows us to communicate with you, such as your name, username, mailing address, telephone numbers, country of residence, email address or other addresses that allow us to send you messages.<br>
+Relationship Information that helps us do business with you, such as your age, demographics and interests as well as your brand and marketing preferences.<br>
+Transaction Information about how you interact with Us including your purchase history, customer account information.<br>
+Usage Information about how you use Our websites and mobile applications, to give us a better idea of how you interact with our brands and content.<br>
+In many cases, we collect Personal Information directly from you. We may ask you for Personal Information when you interact with us, such as registering on our websites, liking us on social media, signing up to receive promotions or joining a wine club. We may also obtain additional information from third party data suppliers who enhance our files and help us better understand our customers.<br>
+<br>
+2. How do we use your Personal Information?<br>
+We use your Personal Information to:<br>
+<br>
+Fulfill your orders for products or services and for related activities, such as send you communications related to your order, respond to your inquiries, perform age verification, product and service delivery, customer service, account management, support and related training of our personnel involved in such activities, and to provide other services related to your account;<br>
+Develop our relationship with you such as by delivering personalized content;<br>
+Provide you with marketing communications and offers for products and services from Us and, in some cases, our partners, including for offers targeted based on your interests or location;<br>
+Administer surveys and other promotional events that you may voluntarily choose to join;<br>
+match it with other public and private data sources in order to enhance our records, such as appending additional information to your profile, or the records of our business partners. We also may work with other providers who also possess information about you in order to reach you through different methods and platforms, such as on a social media platform that you use; and<br>
+Manage our everyday business needs, such as payment processing and financial account management, product development, contract management, website administration, forum management, fulfillment, analytics, security and fraud prevention, corporate governance, reporting and legal compliance.<br>
+If We intend to uses your Personal Information in a manner materially different than as set out in this Privacy Statement, We will provide you with information on that other purpose prior to that use.<br>
+<br>
+3. When is your Personal Information disclosed to others?<br>
+We understand that you do not want us to provide your Personal Information directly to third parties for their own marketing purposes without your consent. We limit our sharing of your Personal Information as follows:<br>
+<br>
+We may share your Personal Information with, or otherwise make it available to, our affiliates, who may only use your Personal Information in compliance with this Privacy Statement.<br>
+We may share your Personal Information with our service providers, who are instructed to only use your Personal Information in accordance with our instructions.<br>
+We may share your Personal Information with unaffiliated joint marketing partners, but only if you have given us your consent.<br>
+We may also disclose Personal Information where needed to affect the sale or transfer of business assets, in connection with a bankruptcy proceeding, to enforce our rights, protect our property, or protect the rights, property or safety of others, or as needed support external auditing, compliance and corporate governance functions. We may also disclose Personal Information when required to do so by law, such as in response to a subpoena, including to law enforcement agencies and courts in the countries where we operate.<br>
+Please note that we may also use and disclose information about you that is not personally identifiable i.e. Personal Information in an aggregate form that no longer identifies you.<br>
+<br>
+4. Cookies and Other Data Collection Technologies<br>
+When you visit our website or use our mobile applications, we collect certain Transaction Information by automated means, using technologies such as cookies, pixel tags, browser analysis tools, server logs and web beacons.<br>
+<br>
+Cookies<br>
+<br>
+When you visit our website, we place cookies on your device. Cookies are small text files that websites send to your device or other Internet-connected devices to uniquely identify your browser or to store information or settings in your browser. Cookies allow us to recognize you when you return. They also help us provide a customized experience and enable us to detect certain kinds of fraud. In many cases, you can manage cookie preferences and opt-out of having cookies and other data collection technologies used by adjusting the settings on your browser. All browsers are different, so visit the “help” section of your browser to learn about cookie preferences and other privacy settings that may be available.<br>
+<br>
+Flash Cookies<br>
+<br>
+We may use Flash Cookies (also known as Local Stored Objects) and similar technologies to personalize and enhance your online experience. The Adobe Flash Player is an application that allows rapid development of dynamic content, such as video clips and animation. We use Flash cookies for security purposes and to help remember settings and preferences similar to browser cookies, but these are managed through a different interface than the one provided by your web browser. To manage Flash cookies, please see Adobe’s website at http://kb2.adobe.com/cps/526/52697ee8.html or visit www.adobe.com.<br>
+<br>
+Pixel Tags and Web Beacons<br>
+<br>
+Pixel tags and web beacons are tiny graphic images placed on website pages or in our emails that allow us to determine whether you have performed a specific action. When you access these pages or open or click an email, the pixel tags and web beacons generate a notice of that action. These tools allow us to measure response to our communications and improve our web pages and promotions.<br>
+<br>
+Types of Data We Collect<br>
+<br>
+We collect many different types of information from cookies and other technologies. For example, we may collect information about the device you use to access our website, your operating system type, browser type, referring domain, and other system settings, as well as the language your system uses and the country and time zone where your device is located. Our server logs also record the IP address of the device you use to connect to the Internet. An IP address is a unique identifier that devices use to identify and communicate with each other on the Internet. We may also collect information about the website you were visiting before you came to US and the website you visit after you leave our site.<br>
+<br>
+In many cases, the information we collect using cookies and other tools is only used in an aggregated or non-identifiable way, without any reference to Personal Information. For example, we use information we collect about all website users to optimize our websites and to understand website traffic patterns.<br>
+<br>
+In some cases, we do associate the information we collect using cookies and other technology with your Personal Information. This Privacy Statement governs how we use this information when we associate it with your Personal Information.<br>
+<br>
+Third Party Advertisers and Interest-Based Ads<br>
+<br>
+We have relationships with Google and other third party advertising companies to deliver interest-based advertisements, targeted to you based on your demographics, brand preferences, online behavior and similar factors. These companies may also perform tracking and reporting functions for us on this website and other websites. These companies may place cookies on your device when you visit our website or other websites so that they can display targeted advertisements to you. These companies do not collect Personal Information in this process, and we do not give any Personal Information to them as part of this process. However, this Privacy Statement does not cover the collection methods or use of the information collected by these companies.<br>
+<br>
+For more information about interest-based advertising, please visit the Digital Advertising Alliance (DAA) at www.aboutads.info/consumers. We comply with the Self-Regulatory Principles for Online Behavioral Advertising as administered by the DAA. To opt out of being targeted by some third party advertising companies, you may visit www.aboutads.info/choices.<br>
+<br>
+We may work with third parties that use algorithms to determine if you have interacted with our services on multiple devices and to match such devices together. We may then display interest-based advertisements to you across your devices or otherwise use the combined data for purposes under this Privacy Statement. For example, if you exhibit certain behaviors on your desktop computer, we may serve interest-based advertisements to you on your smartphone based upon those behaviors if we have linked both of those devices to you. If you would like to opt-out of such cross device matching, please visit the Digital Advertising Alliance (DAA) at www.aboutads.info/consumers.<br>
+<br>
+While we do provide the ability to opt-out of certain targeting advertising as described in this Privacy Statement, we do not respond to “do not track” (a/k/a DNT) signals or similar mechanisms transmitted by web browsers. To learn more about browser tracking signals and Do Not Track please visit http://www.allaboutdnt.org/.<br>
+<br>
+5. Mobile Applications<br>
+We offer mobile applications that allow you to interact with us and receive personalized content, interest-based ads and other information via your smartphone. When you download our mobile applications, you may choose to allow us to obtain your precise location from your mobile device. We use this information to customize our response to your requests. We may also offer automatic (or "push") notifications. We will provide push notifications only to those customers who opt-in to receive such notifications from Us. You do not have to provide location information to Us or enable push notifications to use any of our mobile apps. If you have questions about location and notification privacy, please contact your mobile service provider or the manufacturer of your device to learn how to adjust your settings. We may also collect information from mobile applications in the same manner that we do from websites.<br>
+<br>
+6.Your Choices<br>
+You can always limit certain information you provide to Us<br>
+<br>
+You can also limit the communications that We send to you. To opt-out of emails, simply click the link labeled “unsubscribe” at the bottom of any email we send you. Please note that even if you opt-out of promotional messages, we may still need to contact you with important transactional information about your account. For example, even if you opt-out of emails, we may still send you order confirmations and shipping notices.<br>
+<br>
+You can exercise certain choices with respect to interest-based ads as set forth above in the “Third Party Advertisers and Interest-Based Ads” section.<br>
+<br>
+You may request that we delete your Personal Information from our active records. We will make reasonable efforts to honor such requests, provided that, we may retain archived information and are unable to remove your Personal Information from the records of any third parties with whom the information has previously been shared in compliance with this Policy Statement. Please contact us with any such requests.<br>
+<br>
+7. Access, Correction and Other Rights<br>
+We respect your right to access and correct your Personal Information. If you have an online account, you can log into your account at any time to access and update the information you have provided to us. If you need assistance updating your Personal Information, please contact us<br>
+<br>
+8. Information Security and Retention<br>
+We take all appropriate technical and organizational measures to protect the confidentiality and security of your Personal Information. We have implemented an information security program that contains administrative, technical and physical controls that are reasonably designed to safeguard your Personal Information. For example, we use industry-standard encryption technology to secure Personal Information consisting of credit card numbers and other payment information when it is being collected and transmitted over the Internet as well as firewalls, site monitoring and intrusion detection software.<br>
+<br>
+We retain your Personal Information for as long as your account is active, or as long as needed for the business purposes described in this Privacy Statement, in accordance with applicable legal standards. Other recipients of your Personal Information who have been provided with such information in compliance with this Privacy Statement may retain your data for longer periods to fulfil the purpose for which your Personal Information was shared with them, or for their own compliance, dispute resolution, enforcement, or record management purposes.<br>
+<br>
+9. European Union and International Privacy Matters<br>
+This section describes the additional commitments that apply to your Personal Information if you are located in the European Union and your data is processed by Brand or PR USA outside the European Union, or if your data is processed by a Brand established in the European Union:<br>
+<br>
+We will use your Personal Information as described in this Privacy Statement as necessary (i) for the performance of any contract between you and Us, where you have made a purchase, including in order to process your payment, make a delivery, respond to any customer service requests, (ii) with your consent where required by law, for instance to send you marketing communications or administer surveys and other promotional events, (iii) to comply with our legal obligations, notably in terms of payment processing, financial account management, fraud prevention, legal compliance, and (iv) to further our legitimate interests including our legitimate interest in better serving you and improving our services, improving our communication with you, and ensuring the accuracy of the information we hold about you.<br>
+Where our processing of your Personal Information listed above is not based on your consent or our legitimate interests (i.e. is necessary for the performance of a contract or required to fulfil our legal obligations), failure to provide any of the requested Personal Information may result in us being unable to process your order or respond to your request, and certain features of our website and/or application may not be available.<br>
+We will seek your consent to use and process your Personal Information when required to do so by applicable law. In such case, you may withdraw such consent at any time by contacting us or opting out where applicable.<br>
+We may conduct profiling activities based on your interests and your browsing on our web sites to better serve you and provide you with targeted marketing information on our products in accordance with your tastes. You may opt out at any time when receiving such information. We respect your right to restrict or object to the processing of your Personal Information, as well as your right to data erasure and portability. To exercise these rights, please contact us. You also have the right to lodge a complaint with the competent supervisory authority.<br>
+We will always protect the privacy and security of your Personal Information in accordance with this Privacy Statement as well as with any applicable laws, regardless of where it is processed or stored.<br>
+We will keep your data as long as required by applicable law for the purpose for which the data was collected.<br>
+The categories of data recipients include, but are not limited to our marketing departments and relevant services providers (not namely mentioned) depending on the purposes of the data processing.<br>
+Such recipients of your Personal Information may be located outside of the EU. Therefore, where we transfer your Personal Information to a country that may not present an adequate level of protection according to EU law, we may rely on contracts based on the European Commission's standard contractual clauses. If you would like more information on these contracts, please contact us.<br>
+<br>
+10. Personal Information of People Under the Legal Age<br>
+We do not intend to collect Personal Information from any individuals under the legal purchase age, or to market alcoholic beverages to anyone under the legal purchase age. Please do not provide us with your Personal Information if you are not of legal age to purchase alcohol in the jurisdiction in which you reside and (if different) in the jurisdiction in which you are interacting with us. If we receive notice or believe that someone under the legal purchase age has provided us with Personal Information we will use reasonable efforts to remove such Personal Information from our files, or to flag such Personal Information and (to the extent permitted by law) retain it for the sole purpose of ensuring that it is no longer used.<br>
+<br>
+11. Privacy Policies of Third Parties<br>
+This Privacy Statement only addresses the use and disclosure of information by Us. Other websites that may be accessible through this website have their own privacy policies and data collection, use and disclosure practices. We encourage you to familiarize yourself with the privacy statements provided by all third parties prior to providing them with information or taking advantage of an offer or promotion.<br>
+<br>
+12. Forums and Other Public Areas<br>
+Our websites may provide forums and other areas where you can communicate with others and publicly post information, such as reviews. Prior to posting in these areas, please read the Terms of Use carefully. All the information you post can be seen by anyone with Internet access, and any Personal Information you include in your posting may be read, collected, and used by others. For example, if you post your email address, you may receive unsolicited messages from others. Please use caution when posting any Personal Information in the public areas.<br>
+<br>
+13. How to Contact Us<br>
+Please contact us if you have any questions or comments about our privacy practices or this Privacy Statement. You can always reach us online at info@jamesonwhiskey.com. You can also reach us via mail to:<br>
+<br>
+Irish Distillers Ltd<br>
+<br>
+Attn: Legal Department<br>
+<br>
+Simmonscourt House<br>
+<br>
+Simmonscourt Road<br>
+<br>
+Ballsbridge<br>
+<br>
+DUBLIN 4<br>
+<br>
+IRELAND<br>
+<br>
+Pernod Ricard Brands:<br>
+Altos Tequila, <br>
+Lot 40 and Pike Creek Canadian Whiskeys<br>
+Aberlour® Scotch Whisky<br>
+Absolut® Vodka<br>
+Avión Tequila<br>
+Azteca de Oro® Mexican Brandy<br>
+Ballantine's® Scotch Whisky<br>
+Becherovka®<br>
+Beefeater® Gin<br>
+Chivas Regal® Scotch Whisky<br>
+Hiram Walker® Liqueurs<br>
+J.P. Wiser's <br>
+Jameson® Irish Whiskey<br>
+Kahlúa Rum &amp; Coffee Liqueur<br>
+Lillet <br>
+Longmorn® Scotch Whisky<br>
+Malibu® Rum<br>
+Martell® Cognac <br>
+Midleton® Irish Whiskey<br>
+Olmeca Altos Facebook<br>
+Pernod© Absinthe &amp; Anise <br>
+Pike Creek®<br>
+Plymouth® Gin<br>
+Powers® Irish Whiskey<br>
+Presidente™<br>
+Redbreast® Irish Whiskey<br>
+Ricard® Pastis<br>
+Royal Salute™ Scotch Whisky<br>
+Scapa® Single Malt Scotch Whisky<br>
+Seagram's Gin®<br>
+Seagram's® Gin &amp; Juice<br>
+Smithworks Vodka Facebook<br>
+Soho® Lychee Liqueur<br>
+The Glenlivet® Single Malt Scotch Whisky <br>
+<br>
+Brancott Estate™ Wines<br>
+Campo Viejo® Wines<br>
+Dead Bolt™ <br>
+GH Mumm® Champagne<br>
+Graffigna® Wines<br>
+Jacob's Creek® Wines <br>
+Kenwood Vineyards <br>
+Mumm Napa® Sparkling Wine <br>
+Perrier-Jouët® Champagne<br>
+Sandeman® Wines<br>
+Stoneleigh® Wines<br>
+Wyndham Estate® Wines<br>
+Ysios® Wine
             </div>
-            <div class="modal-body">
-                <h4 class="modal-title" id="switcherLabelModalLabel">Country</h4>
-                <ul>
-                                        <li><a href="/ar/" hreflang="es-AR">Argentina</a></li>
-                                        <li><a href="/au/" hreflang="en-AU">Australia</a></li>
-                                        <li><a href="/bw/" hreflang="en">Botswana</a></li>
-                                        <li><a href="/bg/" hreflang="bg">Bulgaria</a></li>
-                                        <li><a href="/cm/" hreflang="fr">Cameroon</a></li>
-                                        <li><a href="/ca/" hreflang="en-CA">Canada (English)</a></li>
-                                        <li><a href="/ca-fr/" hreflang="fr-CA">Canada (French)</a></li>
-                                        <li><a href="/cd/" hreflang="en">Democratic Republic of the Congo</a></li>
-                                        <li><a href="/fr/" hreflang="en">France</a></li>
-                                        <li><a href="/de/" hreflang="de-DE">Germany</a></li>
-                                        <li><a href="/gh/" hreflang="en-GH">Ghana</a></li>
-                                        <li><a href="/in/" hreflang="en-IN">India</a></li>
-                                        <li><a href="/ie/" hreflang="en-IE">Ireland</a></li>
-                                        <li><a href="/it/" hreflang="it">Italy</a></li>
-                                        <li><a href="/jp/" hreflang="ja">Japan</a></li>
-                                        <li><a href="/ke/" hreflang="en-KE">Kenya</a></li>
-                                        <li><a href="/lv/" hreflang="en">Latvia</a></li>
-                                        <li><a href="/ma/" hreflang="en">Morocco</a></li>
-                                        <li><a href="/mz/" hreflang="en-IE">Mozambique</a></li>
-                                        <li><a href="/nz/" hreflang="en-NZ">New Zealand</a></li>
-                                        <li><a href="/ng/" hreflang="en-NG">Nigeria</a></li>
-                                        <li><a href="/ph/" hreflang="en-PH">Philippines</a></li>
-                                        <li><a href="/pl/" hreflang="en">Poland</a></li>
-                                        <li><a href="/ro/" hreflang="ro">Romania</a></li>
-                                        <li><a href="/sg/" hreflang="en">Singapore</a></li>
-                                        <li><a href="/sk/" hreflang="en">Slovakia</a></li>
-                                        <li><a href="/za/" hreflang="en-ZA">South Africa</a></li>
-                                        <li><a href="/es/" hreflang="es">Spain</a></li>
-                                        <li><a href="/tz/" hreflang="en">Tanzania</a></li>
-                                        <li><a href="/th/" hreflang="en">Thailand</a></li>
-                                        <li><a href="/uk/" hreflang="en-GB">UK</a></li>
-                                        <li><a href="/ae/" hreflang="en">United Arab Emirates</a></li>
-                                        <li><a href="/us/" hreflang="en-US">United States</a></li>
-                                        <li><a href="/zm/" hreflang="en">Zambia</a></li>
-                                    </ul>
-            </div>
-
         </div>
     </div>
 </div>
 
-  
-  <script>
+                </div><!-- role="main" -->
+            </div><!-- .container -->
+        </div>
 
-      $( document ).ready(function() {
+                    <footer class="footer pt-5 pb-5  ">
+    <div class="container">
+        <div class="row">
+            <div class="col-12 footer-wrapper">
+                <div class="column-menu">
+                    <img class="footer-logo lazyload" alt="Jameson Whiskey Seal" data-src="//styles.idlassets.com/prod/jamesonwhiskey-v2/494/images/icons/jameson_signifier_cream.svg">
+                    <nav class="footer-nav">
+                        <ul class="list-unstyled">
+                            <li><a class="" href="/en-US/" title="Now">Now</a></li>
+<li><a class="" href="/en-US/ourwhiskeys/" title="Whiskey">Whiskey</a></li>
+<li><a class="" href="/en-US/drinks" title="Drinks">Drinks</a></li>
+<li><a class="" href="/en-US/visit-us" title="Visit Us">Visit Us</a></li>
+
+<li><a href="#" data-toggle="modal" data-target="#buy-now-shop-us" title="Buy Now">Buy Now</a></li>
+
+                        </ul>
+                    </nav>
+                </div>
+
+                <div class="column-menu-sec">
+
+                                            <div class="social-media">
+                            <ul class="list-unstyled ">
+            <li><a target="_blank" rel="noopener" href="https://www.instagram.com/jameson_us/">Instagram</a></li>
+        <li><a target="_blank" rel="noopener" href="https://www.facebook.com/profile.php?id=1164853883539933&amp;ref=content_filter">Facebook</a></li>
+        <li><a target="_blank" rel="noopener" href="https://twitter.com/jameson_us">Twitter</a></li>
+        <li><a target="_blank" rel="noopener" href="https://www.youtube.com/user/jamesonwhiskey">YouTube</a></li>
+    </ul>
+                        </div>
+                    
+                    <nav class="footer-sec-nav">
+                        <ul class="list-unstyled text-right">
+                            <li><a href="/en-US/terms-conditions" title="Terms and Conditions">Terms and Conditions</a></li>
+                            <li><a href="/en-US/privacy-policy" title="*Privacy Policy">*Privacy Policy</a></li>
+                                                        <li><a href="/en-US/interest-based-ads" title="Interest-Based Ads">Interest-Based Ads</a></li>
+                                                        <li><a href="#" title="Change Country" data-toggle="modal" data-target="#locale-switcher">Change Country</a></li>
+                            <li><a href="/en-US/faq" title="FAQ">FAQ</a></li>
+                        </ul>
+                        <ul class="list-unstyled text-right">
+                            <li><a href="/en-US/enjoy-responsibly" title="Enjoy Responsibly">Enjoy Responsibly</a></li>
+
+                            
+                                                            <li><a href="https://www.responsibility.org" title="RESPONSIBILITY.ORG" target="_blank">RESPONSIBILITY.ORG</a></li>
+                            
+                            <li><a href="/en-US/nutritional-information" title="Nutritional Information">Nutritional Information</a></li>
+                            <li><a href="/en-US/cookie-statement" title="footer_link_cookie_policy">Cookie Policy</a></li>
+                            <li><p>© 2019 Irish Distillers Limited</p></li>
+                        </ul>
+                    </nav>
+                </div>
+            </div>        </div>    </div>
+    
+</footer>
+        
+        
+        <!-- Placed at the end of the document so the pages load faster -->
+        <script src="//styles.idlassets.com/prod/jamesonwhiskey-v2/494/scripts/application.js?v=494"></script>
+
+                            <div id="welcome-mat-outer-container" wm-id="6"></div>
+            <script type="text/javascript" src="//debraindev.com/wm3/wm3-jameson.js"></script>
+                
+        <script>
+  $(document).ready(function() {
+    if (false) {
+      $('#ecrmModal').modal('show');
+    }
+
+    $('#ecrmModal').on('hidden.bs.modal', function (e) {
+      $.get('/en-US/_ecrm/hidden-modal');
+    });
+
+    if ($('h3.modal-success').length) {
+      setTimeout(function(){
+        $('#ecrmModal').modal('hide');
+        }, 5000);
+    }
+
+    $('#show-form-contents button').click(function(){
+      $('#show-form-contents').hide();
+      $('#form-contents').show();
+    });
+
+  });
+</script>
+
+<div class="modal fade newsletter-modal" id="ecrmModal" role="dialog" aria-labelledby="ecrmModal">
+
+    <div class="modal-dialog modal-lg" role="document">
+
+        <div class="modal-content">
+
+            <div class="modal-header">
+                <div class="modal-header-image" style="background-image: url(//styles.idlassets.com/prod/jamesonwhiskey-v2/494/images/newsletter-modal.jpg)">
+                </div>
+
+                <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">×</span></button>
+            
+                <div class="modal-header-content text-center px-2">
+                                            <h3 class="h1">Join the Jameson Family</h3>
+                        <p>Get firsthand updates on all our events, new products, recipes and more</p>
+                </div>
+            </div>
+            
+            <div class="modal-body">
+                <div class="container">
+                    <div id="show-form-contents">
+                        <div class="text-center"> 
+                            <button class="btn btn-primary btn-lg btn-block-md-down">Sign Up</button>
+                        </div>
+                    </div>
+                    <div id="form-contents" style="display:none">
+                        <div class="row">
+                            <div class="col-12 newsletter">
+
+                                <form name="ecrm" method="post" action="/en-US/ecrm-modal" class="form">
+
+                                    
+
+                                                                        <div class="form-group">
+                                        <input type="text" id="ecrm_firstname" name="ecrm[firstname]" required="required" placeholder="First name" class="form-control">
+                                    </div>
+                                    
+                                                                        <div class="form-group">
+                                        <input type="text" id="ecrm_lastname" name="ecrm[lastname]" required="required" placeholder="Surname" class="form-control">
+                                    </div>
+                                    
+                                                                        <div class="form-group">
+                                        <input type="email" id="ecrm_email" name="ecrm[email]" required="required" placeholder="Email address" class="form-control">
+                                    </div>
+                                    
+                                                                        <div class="form-group">
+                                        <label class="form-label">Date of birth</label>
+                                        <input type="date" id="ecrm_dob" name="ecrm[dob]" required="required" placeholder="dd/mm/yyyy" class="form-control">
+                                    </div>
+                                    
+                                    
+                                    
+                                    
+                                                                        <div class="form-group">
+                                        <input type="text" id="ecrm_postcode" name="ecrm[postcode]" required="required" placeholder="Postcode" class="form-control">
+                                    </div>
+                                    
+                                    
+                                                                        <div class="form-group">
+                                        <label class="form-label">Your country</label>
+                                        <select id="ecrm_country" name="ecrm[country]" required="required" class="form-control"><option value="">ecrm_form_placeholder_country</option><option value="AF">Afghanistan</option><option value="AL">Albania</option><option value="DZ">Algeria</option><option value="AS">American Samoa</option><option value="AD">Andorra</option><option value="AO">Angola</option><option value="AI">Anguilla</option><option value="AQ">Antarctica</option><option value="AG">Antigua And Barbuda</option><option value="AR">Argentina</option><option value="AM">Armenia</option><option value="AW">Aruba</option><option value="AU">Australia</option><option value="AT">Austria</option><option value="AZ">Azerbaijan</option><option value="BS">Bahamas</option><option value="BH">Bahrain</option><option value="BD">Bangladesh</option><option value="BB">Barbados</option><option value="BY">Belarus</option><option value="BE">Belgium</option><option value="BZ">Belize</option><option value="BJ">Benin</option><option value="BM">Bermuda</option><option value="BT">Bhutan</option><option value="BO">Bolivia</option><option value="BA">Bosnia And Herzegovina</option><option value="BW">Botswana</option><option value="BR">Brazil</option><option value="IO">British Indian Ocean Territory</option><option value="VG">British Virgin Islands</option><option value="BN">Brunei</option><option value="BG">Bulgaria</option><option value="BF">Burkina Faso</option><option value="BI">Burundi</option><option value="KH">Cambodia</option><option value="CM">Cameroon</option><option value="CA">Canada</option><option value="CV">Cape Verde</option><option value="KY">Cayman Islands</option><option value="CF">Central African Republic</option><option value="TD">Chad</option><option value="CL">Chile</option><option value="CN">China</option><option value="CX">Christmas Island</option><option value="CC">Cocos Islands</option><option value="CO">Colombia</option><option value="KM">Comoros</option><option value="CK">Cook Islands</option><option value="CR">Costa Rica</option><option value="HR">Croatia</option><option value="CU">Cuba</option><option value="CW">Curacao</option><option value="CY">Cyprus</option><option value="CZ">Czech Republic</option><option value="CD">Democratic Republic Of The Congo</option><option value="DK">Denmark</option><option value="DJ">Djibouti</option><option value="DM">Dominica</option><option value="DO">Dominican Republic</option><option value="TL">East Timor</option><option value="EC">Ecuador</option><option value="EG">Egypt</option><option value="SV">El Salvador</option><option value="GQ">Equatorial Guinea</option><option value="ER">Eritrea</option><option value="EE">Estonia</option><option value="ET">Ethiopia</option><option value="FK">Falkland Islands</option><option value="FO">Faroe Islands</option><option value="FJ">Fiji</option><option value="FI">Finland</option><option value="FR">France</option><option value="PF">French Polynesia</option><option value="GA">Gabon</option><option value="GM">Gambia</option><option value="GE">Georgia</option><option value="DE">Germany</option><option value="GH">Ghana</option><option value="GI">Gibraltar</option><option value="GR">Greece</option><option value="GL">Greenland</option><option value="GD">Grenada</option><option value="GU">Guam</option><option value="GT">Guatemala</option><option value="GG">Guernsey</option><option value="GN">Guinea</option><option value="GW">Guinea-bissau</option><option value="GY">Guyana</option><option value="HT">Haiti</option><option value="HN">Honduras</option><option value="HK">Hong Kong</option><option value="HU">Hungary</option><option value="IS">Iceland</option><option value="IN">India</option><option value="ID">Indonesia</option><option value="IR">Iran</option><option value="IQ">Iraq</option><option value="IE">Ireland</option><option value="IM">Isle Of Man</option><option value="IL">Israel</option><option value="IT">Italy</option><option value="CI">Ivory Coast</option><option value="JM">Jamaica</option><option value="JP">Japan</option><option value="JE">Jersey</option><option value="JO">Jordan</option><option value="KZ">Kazakhstan</option><option value="KE">Kenya</option><option value="KI">Kiribati</option><option value="XK">Kosovo</option><option value="KW">Kuwait</option><option value="KG">Kyrgyzstan</option><option value="LA">Laos</option><option value="LV">Latvia</option><option value="LB">Lebanon</option><option value="LS">Lesotho</option><option value="LR">Liberia</option><option value="LY">Libya</option><option value="LI">Liechtenstein</option><option value="LT">Lithuania</option><option value="LU">Luxembourg</option><option value="MO">Macao</option><option value="MK">Macedonia</option><option value="MG">Madagascar</option><option value="MW">Malawi</option><option value="MY">Malaysia</option><option value="MV">Maldives</option><option value="ML">Mali</option><option value="MT">Malta</option><option value="MH">Marshall Islands</option><option value="MR">Mauritania</option><option value="MU">Mauritius</option><option value="YT">Mayotte</option><option value="MX">Mexico</option><option value="FM">Micronesia</option><option value="MD">Moldova</option><option value="MC">Monaco</option><option value="MN">Mongolia</option><option value="ME">Montenegro</option><option value="MS">Montserrat</option><option value="MA">Morocco</option><option value="MZ">Mozambique</option><option value="MM">Myanmar</option><option value="NA">Namibia</option><option value="NR">Nauru</option><option value="NP">Nepal</option><option value="NL">Netherlands</option><option value="AN">Netherlands Antilles</option><option value="NC">New Caledonia</option><option value="NZ">New Zealand</option><option value="NI">Nicaragua</option><option value="NE">Niger</option><option value="NG">Nigeria</option><option value="NU">Niue</option><option value="KP">North Korea</option><option value="MP">Northern Mariana Islands</option><option value="NO">Norway</option><option value="OM">Oman</option><option value="PK">Pakistan</option><option value="PW">Palau</option><option value="PS">Palestine</option><option value="PA">Panama</option><option value="PG">Papua New Guinea</option><option value="PY">Paraguay</option><option value="PE">Peru</option><option value="PH">Philippines</option><option value="PN">Pitcairn</option><option value="PL">Poland</option><option value="PT">Portugal</option><option value="PR">Puerto Rico</option><option value="QA">Qatar</option><option value="CG">Republic Of The Congo</option><option value="RE">Reunion</option><option value="RO">Romania</option><option value="RU">Russia</option><option value="RW">Rwanda</option><option value="BL">Saint Barthelemy</option><option value="SH">Saint Helena</option><option value="KN">Saint Kitts And Nevis</option><option value="LC">Saint Lucia</option><option value="MF">Saint Martin</option><option value="PM">Saint Pierre And Miquelon</option><option value="VC">Saint Vincent And The Grenadines</option><option value="WS">Samoa</option><option value="SM">San Marino</option><option value="ST">Sao Tome And Principe</option><option value="SA">Saudi Arabia</option><option value="SN">Senegal</option><option value="RS">Serbia</option><option value="SC">Seychelles</option><option value="SL">Sierra Leone</option><option value="SG">Singapore</option><option value="SX">Sint Maarten</option><option value="SK">Slovakia</option><option value="SI">Slovenia</option><option value="SB">Solomon Islands</option><option value="SO">Somalia</option><option value="ZA">South Africa</option><option value="KR">South Korea</option><option value="SS">South Sudan</option><option value="ES">Spain</option><option value="LK">Sri Lanka</option><option value="SD">Sudan</option><option value="SR">Suriname</option><option value="SJ">Svalbard And Jan Mayen</option><option value="SZ">Swaziland</option><option value="SE">Sweden</option><option value="CH">Switzerland</option><option value="SY">Syria</option><option value="TW">Taiwan</option><option value="TJ">Tajikistan</option><option value="TZ">Tanzania</option><option value="TH">Thailand</option><option value="TG">Togo</option><option value="TK">Tokelau</option><option value="TO">Tonga</option><option value="TT">Trinidad And Tobago</option><option value="TN">Tunisia</option><option value="TR">Turkey</option><option value="TM">Turkmenistan</option><option value="TC">Turks And Caicos Islands</option><option value="TV">Tuvalu</option><option value="VI">U.s. Virgin Islands</option><option value="UG">Uganda</option><option value="UA">Ukraine</option><option value="AE">United Arab Emirates</option><option value="GB">United Kingdom</option><option value="US" selected="selected">United States</option><option value="UY">Uruguay</option><option value="UZ">Uzbekistan</option><option value="VU">Vanuatu</option><option value="VA">Vatican</option><option value="VE">Venezuela</option><option value="VN">Vietnam</option><option value="WF">Wallis And Futuna</option><option value="EH">Western Sahara</option><option value="YE">Yemen</option><option value="ZM">Zambia</option><option value="ZW">Zimbabwe</option></select>
+                                    </div>
+                                    
+                                                                                                            <div class="form-group newsletter-terms d-none">
+                                        <div class="checkbox">                                                            <label class="checkbox-label required"><input type="checkbox" id="ecrm_terms_and_conditions" name="ecrm[terms_and_conditions]" required="required" checked="checked" value="1"> I consent to receive news and promotional information about Jameson®</label>
+    </div>
+                                        <div class="help-block with-errors"></div>
+                                    </div>
+                                    
+                                    <div class="text-center"> 
+                                        <button class="btn btn-primary btn-lg btn-block-md-down">Sign Up</button>
+                                    </div>
+
+                                    <div class="form-label-checkbox">By clicking sign up you agree to receive news and invites from Jameson and other trusted brands from Pernod Ricard USA. By signing up you also agree to our <a href="/us/terms-conditions" target="_blank">Terms of Service</a> and <a href="/us/privacy-policy" target="_blank">Privacy Policy</a>.</div>
+
+                                <input type="hidden" id="ecrm__token" name="ecrm[_token]" value="K7R6PNd5NoCPupQ3hsU26KhGO1wJsDPgUChr2UY0pt0">
+    </form>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+                    
+        </div>
+    </div>
+</div>
+
+
+
+
+        
+        <div class="modal fade white" id="locale-switcher">
+    <div class="modal-dialog" role="document">
+        <div class="modal-content">
+                        <div class="modal-header">
+                <div class="container">
+                    <div class="row mt-3">
+                        <div class="col-1"></div>
+                        <div class="col-10 modal-logo text-center">
+                            <a href="/en-US/">
+                                <svg class="logo-modal" width="150" height="36" viewBox="0 0 150 36" xmlns="http://www.w3.org/2000/svg"><title>Jameson Whiskey</title><path d="M5.642 14.338c-.354-1.327-1.486-2.008-2.256-2.057l-.02-.07s2.084-.76 3.595-1.28c1.57-.53 3.81-1.27 3.81-1.27l.04.07c-.57.52-.83 1.62-.5 2.9 0 0 2.87 11.24 3.28 12.72.41 1.49.98 2.32 1.75 2.42l.03.08c-.4.39-.72 1.36-1.13 2.26-.41.91-1.28 3.65-4.63 4.96-3.65 1.42-7.38.56-8.96-2.01-1.04-1.67-.81-3.98.86-4.92 1.45-.81 3.01-.29 3.61.9.58 1.16.19 2.39-.27 2.8-.09.09 0 .25.22.4.99.66 2.09.62 3.16.05 1.37-.73 1.83-1.9 1.12-4.62-.57-2.18-3.26-11.81-3.66-13.29zm28.578 13.14c-1.545.394-4.175.98-4.175.98l-.02-.07c.614-.563 1.28-1.895.32-3.728l-1.435-2.888-6.056 1.634-.237 3.396c-.01 2.038 1.055 2.916 1.87 3.092l.017.074s-1.94.6-3.452 1.03c-1.48.473-3.354 1.03-3.354 1.03l-.024-.072c.586-.5 1.226-2.198 1.35-4.175.338-5.27.836-13.15 1.28-16.68.217-1.69.008-3.3-1.306-3.75l-.02-.09s1.844-.54 4.087-1.07c1.88-.44 4.125-1.02 4.125-1.02l.03.09c-.87 1.16-.205 2.37.62 3.89.78 1.45 7.414 13.57 7.973 14.57.976 1.68 1.602 2.36 2.604 2.8l.01.08-4.207.9zM23.698 11.293l-.604 8.678 4.323-1.2-3.72-7.47zM53.778.877L60.92.33l.015.07c-1.863.882-1.664 2.478-1.475 4.957l.95 14.122c.23 2.06.743 3.66 1.66 4.06l-.005.07s-1.665.1-3.962.28c-2.285.18-3.98.35-3.98.35l-.015-.08c.838-.57 1.55-2.31 1.392-4.45 0 0-.617-9.19-.68-9.96-.078-.87.007-1.47.007-1.47s-.112.64-.334 1.38L49.91 25l-.12.01s-6.48-11.96-7.06-12.92c-.466-.77-.65-1.496-.65-1.496s.226.68.375 1.596c.15.915 1.3 8.982 1.3 8.982.37 2.115 1.49 3.63 2.435 3.972l.007.074-6.267 1.02-.02-.07c.792-.61.9-2.285.615-4.346l-1.9-14.002C38.33 5.695 37.243 4 35.663 3.48l-.004-.075 7.11-1.212s5.94 10.748 6.98 12.382C50.39 12.53 53.78.877 53.78.877zM80.893.163l-.176 5.126h-.074c-.82-1.91-2.893-2.3-4.75-2.28l-4.025.04-.11 6.18 2.04.05c2.713.05 3.517-.17 4.508-1.89l.072.01-.258 7.34h-.073c-.897-1.91-2.902-2.04-4.757-2.02l-1.527-.01-.16 6.82 4.205.08c2.713.05 4.073-.7 4.95-2.26l.073.01-.75 6.02c-4.96-.168-10.66-.198-15.1.004l-.01-.073c1.01-.66 1.56-2.15 1.57-4.393L66.7 4.3c.02-2.08-.12-3.41-1.57-4.13l.01-.07c4.84-.18 11-.19 15.77.03zm10.825 24.48c-2.98-.09-3.3-.93-4.987-1.316-1.23-.282-2.07.257-2.44.692l-.07-.01.36-8.23.07-.01c.61 1.59 2.34 3.8 4.35 4.92 1.83 1.01 3.67.59 4.62-.6.82-1.04 1.03-2.97-.27-4.28-1.29-1.32-3.33-2.2-5.04-3.51-3.46-2.66-3.24-6.24-2.15-8.24 1.5-2.77 4.67-3.9 7.5-3.63 1.72.16 2.5.6 3.7.99 1.21.38 2.28.15 2.5.03l.07.01-.54 6.49h-.07c-.62-1.71-2.67-3.85-4.83-4.25-1.89-.35-2.94.32-3.4 1.09-.71 1.2-.4 2.53.91 3.43 1.89 1.3 4.19 2.27 5.69 3.69 2.2 2.06 2.9 5.72.95 8.95-1.57 2.61-4.66 3.82-6.88 3.76zm30.662-6.927c-1.622 6.662-6.576 11.277-12.403 10.002-6.35-1.39-8.303-7.375-6.654-14.167 1.628-6.71 6.23-10.94 12.16-9.94 7.032 1.18 8.478 7.61 6.896 14.11zm-7.463-10.768c-3.054-.67-5.09 3.02-6.14 7.78-1.103 5.023-.59 8.91 2.206 9.522 2.666.583 4.923-2.7 6.026-7.72 1.04-4.762.96-8.914-2.1-9.582zm21.707 16.195c.154.636.166 1.47.166 1.47s-.024-.395.28-1.38l2.608-7.646c.662-1.972.64-3.406-.24-4.53l.033-.063 6.33 2.346-.01.073c-1.31.384-2.32 1.472-2.99 3.457-.37 1.19-6.15 18.168-6.15 18.168l-3.19-1.203L130.3 18.3c-.16-.634-.168-1.47-.168-1.47s.02.395-.28 1.382c-.27.886-2.882 8.685-2.882 8.685-.584 2.068-.507 3.493.327 4.584l-.028.07-6.77-1.98.01-.07c1.37-.38 2.54-1.42 3.18-3.4l4.28-13.41c.66-2.19.49-4.19-.71-5.34l.03-.07 6.23 1.81 3.09 14.08zm11.803-6.333c1.14.312 1.81 1.483 1.495 2.623-.312 1.14-1.486 1.808-2.63 1.494-1.143-.312-1.814-1.484-1.498-2.624.316-1.14 1.49-1.807 2.633-1.493zm-.136.482c-.88-.244-1.73.26-1.98 1.153-.24.894.23 1.758 1.12 2 .89.246 1.74-.26 1.98-1.152.25-.893-.22-1.76-1.11-2zm-1.69 2.166c.25.04.28.035.33-.15l.37-1.332c.05-.186.04-.203-.2-.297l.05-.18 1.24.33c.35.09.62.33.52.72-.07.27-.32.45-.63.46l.24.75c.06.16.14.23.22.26l-.04.17-.5-.14c-.11-.03-.166-.12-.21-.3l-.216-.8-.142-.04-.14.51c-.05.18-.03.2.2.3l-.05.17-1.04-.29.048-.18zm1.2-.654c.16.044.39-.018.48-.368.09-.31-.06-.448-.24-.497l-.17-.05-.24.86.17.04z" fill="#004027" fill-rule="evenodd"></path></svg>
+                            </a>
+                        </div>
+                        <div class="col-1 text-center text-lg-right">
+                            <button type="button" class="close" data-dismiss="modal" aria-label="Close"><img src="//styles.idlassets.com/prod/jamesonwhiskey-v2/494/images/icons/back.svg" alt="Back"></button>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            
+            <div class="modal-body">
+                <div class="container">
+                    <div class="row">
+                        <div class="col-12 mx-auto">
+                                <h2 class="text-center mt-2">Change Country</h2>
+    <div class="separator"></div>
+
+    <div class="country-list mb-10">
+                <div class="row">
+                        <div class="alternative-markets col-lg-4 col-md-6 col-sm-12 text-center">
+                <div><a href="/ao/" hreflang="pt">Angola</a></div>
+            </div>
+                        <div class="alternative-markets col-lg-4 col-md-6 col-sm-12 text-center">
+                <div><a href="/ar/" hreflang="es">Argentina</a></div>
+            </div>
+                        <div class="alternative-markets col-lg-4 col-md-6 col-sm-12 text-center">
+                <div><a href="/au/" hreflang="en">Australia</a></div>
+            </div>
+                        <div class="alternative-markets col-lg-4 col-md-6 col-sm-12 text-center">
+                <div><a href="/bw/" hreflang="en">Botswana</a></div>
+            </div>
+                        <div class="alternative-markets col-lg-4 col-md-6 col-sm-12 text-center">
+                <div><a href="/bg/" hreflang="bg">Bulgaria</a></div>
+            </div>
+                        <div class="alternative-markets col-lg-4 col-md-6 col-sm-12 text-center">
+                <div><a href="/cm/" hreflang="fr">Cameroon</a></div>
+            </div>
+                        <div class="alternative-markets col-lg-4 col-md-6 col-sm-12 text-center">
+                <div><a href="/ca/" hreflang="en">Canada (English)</a></div>
+            </div>
+                        <div class="alternative-markets col-lg-4 col-md-6 col-sm-12 text-center">
+                <div><a href="/ca-fr/" hreflang="fr">Canada (French)</a></div>
+            </div>
+                        <div class="alternative-markets col-lg-4 col-md-6 col-sm-12 text-center">
+                <div><a href="/cl/" hreflang="es">Chile</a></div>
+            </div>
+                        <div class="alternative-markets col-lg-4 col-md-6 col-sm-12 text-center">
+                <div><a href="/co/" hreflang="es">Colombia</a></div>
+            </div>
+                        <div class="alternative-markets col-lg-4 col-md-6 col-sm-12 text-center">
+                <div><a href="/cz/" hreflang="cs">Czech Republic</a></div>
+            </div>
+                        <div class="alternative-markets col-lg-4 col-md-6 col-sm-12 text-center">
+                <div><a href="/cd/" hreflang="fr">Democratic Republic of the Congo</a></div>
+            </div>
+                        <div class="alternative-markets col-lg-4 col-md-6 col-sm-12 text-center">
+                <div><a href="/fr/" hreflang="fr">France</a></div>
+            </div>
+                        <div class="alternative-markets col-lg-4 col-md-6 col-sm-12 text-center">
+                <div><a href="/de/" hreflang="de">Germany</a></div>
+            </div>
+                        <div class="alternative-markets col-lg-4 col-md-6 col-sm-12 text-center">
+                <div><a href="/gh/" hreflang="en">Ghana</a></div>
+            </div>
+                        <div class="alternative-markets col-lg-4 col-md-6 col-sm-12 text-center">
+                <div><a href="/in/" hreflang="en">India</a></div>
+            </div>
+                        <div class="alternative-markets col-lg-4 col-md-6 col-sm-12 text-center">
+                <div><a href="/ie/" hreflang="en">Ireland</a></div>
+            </div>
+                        <div class="alternative-markets col-lg-4 col-md-6 col-sm-12 text-center">
+                <div><a href="/it/" hreflang="it">Italy</a></div>
+            </div>
+                        <div class="alternative-markets col-lg-4 col-md-6 col-sm-12 text-center">
+                <div><a href="/jp/" hreflang="jp">Japan</a></div>
+            </div>
+                        <div class="alternative-markets col-lg-4 col-md-6 col-sm-12 text-center">
+                <div><a href="/jo/" hreflang="en">Jordan</a></div>
+            </div>
+                        <div class="alternative-markets col-lg-4 col-md-6 col-sm-12 text-center">
+                <div><a href="/ke/" hreflang="en">Kenya</a></div>
+            </div>
+                        <div class="alternative-markets col-lg-4 col-md-6 col-sm-12 text-center">
+                <div><a href="/kr/" hreflang="en">Korea, Republic of</a></div>
+            </div>
+                        <div class="alternative-markets col-lg-4 col-md-6 col-sm-12 text-center">
+                <div><a href="/lv/" hreflang="lv">Latvia</a></div>
+            </div>
+                        <div class="alternative-markets col-lg-4 col-md-6 col-sm-12 text-center">
+                <div><a href="/my/" hreflang="en">Malaysia (English)</a></div>
+            </div>
+                        <div class="alternative-markets col-lg-4 col-md-6 col-sm-12 text-center">
+                <div><a href="/mt/" hreflang="en">Malta</a></div>
+            </div>
+                        <div class="alternative-markets col-lg-4 col-md-6 col-sm-12 text-center">
+                <div><a href="/mz/" hreflang="pt">Mozambique</a></div>
+            </div>
+                        <div class="alternative-markets col-lg-4 col-md-6 col-sm-12 text-center">
+                <div><a href="/nz/" hreflang="en">New Zealand</a></div>
+            </div>
+                        <div class="alternative-markets col-lg-4 col-md-6 col-sm-12 text-center">
+                <div><a href="/ng/" hreflang="en">Nigeria</a></div>
+            </div>
+                        <div class="alternative-markets col-lg-4 col-md-6 col-sm-12 text-center">
+                <div><a href="/pl/" hreflang="pl">Poland</a></div>
+            </div>
+                        <div class="alternative-markets col-lg-4 col-md-6 col-sm-12 text-center">
+                <div><a href="/pt/" hreflang="pt">Portugal</a></div>
+            </div>
+                        <div class="alternative-markets col-lg-4 col-md-6 col-sm-12 text-center">
+                <div><a href="/za/" hreflang="en">South Africa</a></div>
+            </div>
+                        <div class="alternative-markets col-lg-4 col-md-6 col-sm-12 text-center">
+                <div><a href="/es/" hreflang="es">Spain</a></div>
+            </div>
+                        <div class="alternative-markets col-lg-4 col-md-6 col-sm-12 text-center">
+                <div><a href="/th/" hreflang="th">Thailand</a></div>
+            </div>
+                        <div class="alternative-markets col-lg-4 col-md-6 col-sm-12 text-center">
+                <div><a href="/uk/" hreflang="en-GB">UK</a></div>
+            </div>
+                        <div class="alternative-markets col-lg-4 col-md-6 col-sm-12 text-center">
+                <div><a href="/ua/" hreflang="ua">Ukraine</a></div>
+            </div>
+                        <div class="alternative-markets col-lg-4 col-md-6 col-sm-12 text-center">
+                <div><a href="/ae/" hreflang="en">United Arab Emirates</a></div>
+            </div>
+                        <div class="alternative-markets col-lg-4 col-md-6 col-sm-12 text-center">
+                <div><a href="/us/" hreflang="en">United States</a></div>
+            </div>
+                        <div class="alternative-markets col-lg-4 col-md-6 col-sm-12 text-center">
+                <div><a href="/uy/" hreflang="es">Uruguay</a></div>
+            </div>
+                        <div class="alternative-markets col-lg-4 col-md-6 col-sm-12 text-center">
+                <div><a href="/zm/" hreflang="en">Zambia</a></div>
+            </div>
+                    </div>
+    </div>
+
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+                        <div class="modal-footer">
+                <div class="container">
+                    <div class="col-12 mx-auto">
+                    </div>
+                </div>
+            </div>
+                    </div>
+    </div>
+</div>
+
+
+            <div class="modal fade buy-now-shop" id="buy-now-shop-us">
+    <div class="modal-dialog" role="document">
+        <div class="modal-content">
+                        <div class="modal-header">
+                <div class="container">
+                    <div class="row mt-3">
+                        <div class="col-1"></div>
+                        <div class="col-10 modal-logo text-center">
+                            <a href="/en-US/">
+                                <svg class="logo-modal" width="150" height="36" viewBox="0 0 150 36" xmlns="http://www.w3.org/2000/svg"><title>Jameson Whiskey</title><path d="M5.642 14.338c-.354-1.327-1.486-2.008-2.256-2.057l-.02-.07s2.084-.76 3.595-1.28c1.57-.53 3.81-1.27 3.81-1.27l.04.07c-.57.52-.83 1.62-.5 2.9 0 0 2.87 11.24 3.28 12.72.41 1.49.98 2.32 1.75 2.42l.03.08c-.4.39-.72 1.36-1.13 2.26-.41.91-1.28 3.65-4.63 4.96-3.65 1.42-7.38.56-8.96-2.01-1.04-1.67-.81-3.98.86-4.92 1.45-.81 3.01-.29 3.61.9.58 1.16.19 2.39-.27 2.8-.09.09 0 .25.22.4.99.66 2.09.62 3.16.05 1.37-.73 1.83-1.9 1.12-4.62-.57-2.18-3.26-11.81-3.66-13.29zm28.578 13.14c-1.545.394-4.175.98-4.175.98l-.02-.07c.614-.563 1.28-1.895.32-3.728l-1.435-2.888-6.056 1.634-.237 3.396c-.01 2.038 1.055 2.916 1.87 3.092l.017.074s-1.94.6-3.452 1.03c-1.48.473-3.354 1.03-3.354 1.03l-.024-.072c.586-.5 1.226-2.198 1.35-4.175.338-5.27.836-13.15 1.28-16.68.217-1.69.008-3.3-1.306-3.75l-.02-.09s1.844-.54 4.087-1.07c1.88-.44 4.125-1.02 4.125-1.02l.03.09c-.87 1.16-.205 2.37.62 3.89.78 1.45 7.414 13.57 7.973 14.57.976 1.68 1.602 2.36 2.604 2.8l.01.08-4.207.9zM23.698 11.293l-.604 8.678 4.323-1.2-3.72-7.47zM53.778.877L60.92.33l.015.07c-1.863.882-1.664 2.478-1.475 4.957l.95 14.122c.23 2.06.743 3.66 1.66 4.06l-.005.07s-1.665.1-3.962.28c-2.285.18-3.98.35-3.98.35l-.015-.08c.838-.57 1.55-2.31 1.392-4.45 0 0-.617-9.19-.68-9.96-.078-.87.007-1.47.007-1.47s-.112.64-.334 1.38L49.91 25l-.12.01s-6.48-11.96-7.06-12.92c-.466-.77-.65-1.496-.65-1.496s.226.68.375 1.596c.15.915 1.3 8.982 1.3 8.982.37 2.115 1.49 3.63 2.435 3.972l.007.074-6.267 1.02-.02-.07c.792-.61.9-2.285.615-4.346l-1.9-14.002C38.33 5.695 37.243 4 35.663 3.48l-.004-.075 7.11-1.212s5.94 10.748 6.98 12.382C50.39 12.53 53.78.877 53.78.877zM80.893.163l-.176 5.126h-.074c-.82-1.91-2.893-2.3-4.75-2.28l-4.025.04-.11 6.18 2.04.05c2.713.05 3.517-.17 4.508-1.89l.072.01-.258 7.34h-.073c-.897-1.91-2.902-2.04-4.757-2.02l-1.527-.01-.16 6.82 4.205.08c2.713.05 4.073-.7 4.95-2.26l.073.01-.75 6.02c-4.96-.168-10.66-.198-15.1.004l-.01-.073c1.01-.66 1.56-2.15 1.57-4.393L66.7 4.3c.02-2.08-.12-3.41-1.57-4.13l.01-.07c4.84-.18 11-.19 15.77.03zm10.825 24.48c-2.98-.09-3.3-.93-4.987-1.316-1.23-.282-2.07.257-2.44.692l-.07-.01.36-8.23.07-.01c.61 1.59 2.34 3.8 4.35 4.92 1.83 1.01 3.67.59 4.62-.6.82-1.04 1.03-2.97-.27-4.28-1.29-1.32-3.33-2.2-5.04-3.51-3.46-2.66-3.24-6.24-2.15-8.24 1.5-2.77 4.67-3.9 7.5-3.63 1.72.16 2.5.6 3.7.99 1.21.38 2.28.15 2.5.03l.07.01-.54 6.49h-.07c-.62-1.71-2.67-3.85-4.83-4.25-1.89-.35-2.94.32-3.4 1.09-.71 1.2-.4 2.53.91 3.43 1.89 1.3 4.19 2.27 5.69 3.69 2.2 2.06 2.9 5.72.95 8.95-1.57 2.61-4.66 3.82-6.88 3.76zm30.662-6.927c-1.622 6.662-6.576 11.277-12.403 10.002-6.35-1.39-8.303-7.375-6.654-14.167 1.628-6.71 6.23-10.94 12.16-9.94 7.032 1.18 8.478 7.61 6.896 14.11zm-7.463-10.768c-3.054-.67-5.09 3.02-6.14 7.78-1.103 5.023-.59 8.91 2.206 9.522 2.666.583 4.923-2.7 6.026-7.72 1.04-4.762.96-8.914-2.1-9.582zm21.707 16.195c.154.636.166 1.47.166 1.47s-.024-.395.28-1.38l2.608-7.646c.662-1.972.64-3.406-.24-4.53l.033-.063 6.33 2.346-.01.073c-1.31.384-2.32 1.472-2.99 3.457-.37 1.19-6.15 18.168-6.15 18.168l-3.19-1.203L130.3 18.3c-.16-.634-.168-1.47-.168-1.47s.02.395-.28 1.382c-.27.886-2.882 8.685-2.882 8.685-.584 2.068-.507 3.493.327 4.584l-.028.07-6.77-1.98.01-.07c1.37-.38 2.54-1.42 3.18-3.4l4.28-13.41c.66-2.19.49-4.19-.71-5.34l.03-.07 6.23 1.81 3.09 14.08zm11.803-6.333c1.14.312 1.81 1.483 1.495 2.623-.312 1.14-1.486 1.808-2.63 1.494-1.143-.312-1.814-1.484-1.498-2.624.316-1.14 1.49-1.807 2.633-1.493zm-.136.482c-.88-.244-1.73.26-1.98 1.153-.24.894.23 1.758 1.12 2 .89.246 1.74-.26 1.98-1.152.25-.893-.22-1.76-1.11-2zm-1.69 2.166c.25.04.28.035.33-.15l.37-1.332c.05-.186.04-.203-.2-.297l.05-.18 1.24.33c.35.09.62.33.52.72-.07.27-.32.45-.63.46l.24.75c.06.16.14.23.22.26l-.04.17-.5-.14c-.11-.03-.166-.12-.21-.3l-.216-.8-.142-.04-.14.51c-.05.18-.03.2.2.3l-.05.17-1.04-.29.048-.18zm1.2-.654c.16.044.39-.018.48-.368.09-.31-.06-.448-.24-.497l-.17-.05-.24.86.17.04z" fill="#004027" fill-rule="evenodd"></path></svg>
+                            </a>
+                        </div>
+                        <div class="col-1 text-center text-lg-right">
+                            <button type="button" class="close" data-dismiss="modal" aria-label="Close"><img src="//styles.idlassets.com/prod/jamesonwhiskey-v2/494/images/icons/back.svg" alt="Back"></button>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            
+            <div class="modal-body">
+                <div class="container">
+                    <div class="row">
+                        <div class="col-12 mx-auto">
+                                <h2 class="mt-2 mb-5 text-center">Buy Now</h2>
+
+    <div class="row pb-lg-3">
+        <div class="col-12 col-lg-6 mb-3 mb-lg-1">
+            <div class="card text-center">
+                <a href="/en-US/ourwhiskeys/buy-online">
+                    <div class="card-img lazyload" data-bg="//styles.idlassets.com/prod/jamesonwhiskey-v2/494/images/modal-buy-whiskey.jpg"></div>
+                    <div class="card-img-overlay">
+                        <h2 class="card-title text-white">Buy Whiskey</h2>
+                    </div>
+                </a>
+            </div>
+        </div>
+        <div class="col-12 col-lg-6 mb-3 mb-lg-1">
+            <div class="card text-center">
+                <a href="https://shopjamesonus.com?AvpPassThrough=1">
+                    <div class="card-img lazyload" data-bg="//styles.idlassets.com/prod/jamesonwhiskey-v2/494/images/modal-buy-merchandise.jpg"></div>
+                    <div class="card-img-overlay">
+                        <h2 class="card-title text-white">Buy Merchandise</h2>
+                    </div>
+                </a>
+            </div>
+        </div>
+    </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+                        <div class="modal-footer">
+                <div class="container">
+                    <div class="col-12 mx-auto">
+                    </div>
+                </div>
+            </div>
+                    </div>
+    </div>
+</div>
+
+
 
         
         
-//          if( $.cookie('uspolicycookie') == null ) {
 
-              // Show privacy policy warning
-              $('.banner-warning-container').show();
-
-              // US privacy policy Styling
-              var $cookieHeight = $('.banner-warning-container').height();
-              $('.navbar').css("top", $cookieHeight);
-              $('#avp-overlay').css("top", $cookieHeight);
-
-              // Set Cookie
-              $.cookie('uspolicycookie', true, { path: '/', domain: 'jamesonwhiskey.com', expires: 396 });
-//          }
-
-        
-
-          if($("#galleria").length) {
-
-              Galleria.configure({
-                  imageCrop: false,
-                  transition: 'fade',
-                  responsive: true,
-                  showInfo: false,
-                  fullscreenDoubleTap: false
-              });
-
-              // Initialize Galleria
-              Galleria.run('#galleria');
-          }
-      });
-  </script>
-
-  
-
-    <!-- SVG used for the Age gate background -->
-    <svg version="1.1" xmlns="http://www.w3.org/2000/svg" style="display: none;">
-        <filter id="blur"><feGaussianBlur stdDeviation="20"></feGaussianBlur></filter>
-    </svg>
-  <script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","licenseKey":"8bfacffe1e","applicationID":"9435509","transactionName":"ZgRbZxEAWRVZAUQMDV9OekYQFVgLFxJCDBRQAkAeEw5bD1sb","queueTime":0,"applicationTime":11,"atts":"SkNYEVkaShs=","errorBeacon":"bam.nr-data.net","agent":""}</script>
-
+    <script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","licenseKey":"8bfacffe1e","applicationID":"9435509","transactionName":"ZgRbZxEAWRVZAUQMDV9OeFAXCFgIFyNAFSBED11fBltxCUoPQ18HUhNUfgwFVgo=","queueTime":0,"applicationTime":51,"atts":"SkNYEVkaShs=","errorBeacon":"bam.nr-data.net","agent":""}</script><script type="text/javascript">
+//<![CDATA[
+(function() {
+var _analytics_scr = document.createElement('script');
+_analytics_scr.type = 'text/javascript'; _analytics_scr.async = true; _analytics_scr.src = '/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=2&cb=1838163096';
+var _analytics_elem = document.getElementsByTagName('script')[0]; _analytics_elem.parentNode.insertBefore(_analytics_scr, _analytics_elem);
+})();
+// ]]>
+</script>
 
 </body></html>
