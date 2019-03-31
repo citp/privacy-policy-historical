@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the twistedvoxel.com privacy policy that was archived on 2018-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181218194344id_/http%3A//twistedvoxel.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the twistedvoxel.com privacy policy that was archived on 2019-03-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190331122924id_/https%3A//twistedvoxel.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - TwistedVoxel
 
@@ -39,9 +39,9 @@ You can instruct your browser to refuse all cookies or to indicate when a cookie
 
 Examples of Cookies we use:
 
-  * **Session Cookies.** We use Session Cookies to operate our Service.
-  * **Preference Cookies.** We use Preference Cookies to remember your preferences and various settings.
-  * **Security Cookies.** We use Security Cookies for security purposes.
+  *  **Session Cookies.** We use Session Cookies to operate our Service.
+  *  **Preference Cookies.** We use Preference Cookies to remember your preferences and various settings.
+  *  **Security Cookies.** We use Security Cookies for security purposes.
 
 
 
@@ -97,7 +97,7 @@ These third parties have access to your Personal Data only to perform these task
 
 We may use third-party Service Providers to monitor and analyze the use of our Service.
 
-  * **Google Analytics** Google Analytics is a web analytics service offered by Google that tracks and reports website traffic. Google uses the data collected to track and monitor the use of our Service. This data is shared with other Google services. Google may use the collected data to contextualize and personalize the ads of its own advertising network.You can opt-out of having made your activity on the Service available to Google Analytics by installing the Google Analytics opt-out browser add-on. The add-on prevents the Google Analytics JavaScript (ga.js, analytics.js, and dc.js) from sharing information with Google Analytics about visits activity.For more information on the privacy practices of Google, please visit the Google Privacy & Terms web page: <https://policies.google.com/privacy?hl=en>
+  *  **Google Analytics** Google Analytics is a web analytics service offered by Google that tracks and reports website traffic. Google uses the data collected to track and monitor the use of our Service. This data is shared with other Google services. Google may use the collected data to contextualize and personalize the ads of its own advertising network.You can opt-out of having made your activity on the Service available to Google Analytics by installing the Google Analytics opt-out browser add-on. The add-on prevents the Google Analytics JavaScript (ga.js, analytics.js, and dc.js) from sharing information with Google Analytics about visits activity.For more information on the privacy practices of Google, please visit the Google Privacy & Terms web page: <https://policies.google.com/privacy?hl=en>
 
 
 
