@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hmv.com privacy policy that was archived on 2018-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181228000101id_/https%3A//www.hmv.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hmv.com privacy policy that was archived on 2019-03-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190331030206id_/https%3A//www.hmv.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy and Cookies Policy | hmv.com
 
@@ -30,7 +30,7 @@ The following definitions shall apply to  the Privacy Policy and the Cookie Pol
 
 ‘ **United Kingdom** ’– means England, Scotland, Wales, Northern Ireland and the Channel Islands.
 
-‘ **us** ’, ‘ **we** ’,‘ **our** ’ – means collectively HMV Ecommerce Limited, HMV Online Limited, HMV Retail Limited and Pure HMV Loyalty Limited.  Please see the Company Details section for full company details.
+‘ **us** ’, ‘ **we** ’,‘ **our** ’ – means collectively HMV Ecommerce Limited (in administration), HMV Online Limited(in administration), HMV Retail Limited (in administration) and Pure HMV Loyalty Limited (in administration). Please see the Company Details section for full company details.
 
 ‘ **Websites** ’ – means collectively the websites at fopp.com, hmv.com, purehmv.com & store.hmv.com and individually each website (as relevant).
 
@@ -172,25 +172,25 @@ We may immediately suspend or terminate your access to any of our Websites witho
 
 **CONTACT US** ****If you have any questions about how we collect, store and use your information, you may contact us as below.
 
-HMV Online Limited (hmv.com) and HMV Retail Limited (‘hmv’ and ‘fopp’ branded retail stores within the United Kingdom and Channel Islands, but excluding all other HMV branded retail stores in any other territory worldwide and including fopp.com): HMV RETAIL LIMITED, MERMAID HOUSE, PUDDLE DOCK, LONDON, EC4V 3DB; store.service@hmv.co.uk.
+HMV Online Limited (in administration) (hmv.com) and HMV Retail Limited (in administration) (‘hmv’ and ‘fopp’ branded retail stores within the United Kingdom and Channel Islands, but excluding all other HMV branded retail stores in any other territory worldwide and including fopp.com): HMV RETAIL LIMITED (In Administration), Registered in England, Registered Office: 15 Canada Square, London, E14 5GL Registered No. 08380689; store.service@hmv.co.uk.
 
-HMV Ecommerce Limited (store.hmv.com): HMV ECOMMERCE LIMITED, MERMAID HOUSE, PUDDLE DOCK, BLACKFRIARS, LONDON, EC4V 3DB; website.service@hmv.co.uk.
+HMV Ecommerce Limited (in administration) (store.hmv.com): HMV ECOMMERCE LIMITED (In Administration) is registered in England No. 09321397. Registered office: 15 Canada Square, London, E14 5GL; website.service@hmv.co.uk.
 
-Pure HMV Loyalty Limited (purehmv.com): PURE HMV LOYALTY LIMITED, MERMAID HOUSE, PUDDLE DOCK, LONDON, EC4V 3DB; customer.service@purehmv.com.
+Pure HMV Loyalty Limited (purehmv.com): PURE HMV LOYALTY LIMITED (In Administration) Registered in England, Registered Office: 15 Canada Square, London, E14 5GL Registered No. 08384690; customer.service@purehmv.com.
 
 **COMPANY DETAILS**
 
 See below list of all current company details;
 
-**fopp.com**  is a website operated by HMV Retail Limited incorporated and registered in England with company number 08380689, whose registered office is at 80 NEW BOND STREET, LONDON, W1S 1SB and whose principal place of business is at MERMAID HOUSE, PUDDLE DOCK, BLACKFRIARS, LONDON, EC4V 3DB.
+**fopp.com**  is a website operated by HMV Retail Limited (In Administration), Registered in England, Registered Office: 15 Canada Square, London, E14 5GL Registered No. 08380689 and whose principal place of business is at MERMAID HOUSE, PUDDLE DOCK, BLACKFRIARS, LONDON, EC4V 3DB.
 
-**hmv.com**  is a website operated by HMV Online Limited incorporated and registered in England with company number 08510351, whose registered office is at 80 NEW BOND STREET, LONDON, W1S 1SB and whose principal place of business is at MERMAID HOUSE, PUDDLE DOCK, BLACKFRIARS, LONDON, EC4V 3DB.
+**hmv.com**  is a website operated by HMV Online Limited (In Administration), Registered in England, Registered Office: 15 Canada Square, London, E14 5GL Registered No. 08510351 and whose principal place of business is at MERMAID HOUSE, PUDDLE DOCK, BLACKFRIARS, LONDON, EC4V 3DB.
 
-**purehmv.com**  is a website operated by Pure HMV Loyalty Limited incorporated and registered in England with company number 08384690, whose registered office is at 80 NEW BOND STREET, LONDON, W1S 1SB and whose principal place of business is at MERMAID HOUSE, PUDDLE DOCK, BLACKFRIARS, LONDON, EC4V 3DB.
+**purehmv.com**  is a website operated by Pure HMV Loyalty Limited HMV Retail Limited (In Administration), Registered in England, Registered Office: 15 Canada Square, London, E14 5GL Registered No. 08384690 and whose principal place of business is at MERMAID HOUSE, PUDDLE DOCK, BLACKFRIARS, LONDON, EC4V 3DB.
 
-**store.hmv.com**  is a website operated by HMV Ecommerce Limited incorporated and registered in England with company number 09321397, whose registered office is at 80 NEW BOND STREET, LONDON, W1S 1SB and whose principal place of business is at MERMAID HOUSE, PUDDLE DOCK, BLACKFRIARS, LONDON, EC4V 3DB. The registered VAT number of HMV Ecommerce Limited is GB 205 963 701.
+**store.hmv.com**  is a website operated by HMV Ecommerce Limited (In Administration), Registered in England, Registered Office: 15 Canada Square, London, E14 5GL Registered No. 09321397 and whose principal place of business is at MERMAID HOUSE, PUDDLE DOCK, BLACKFRIARS, LONDON, EC4V 3DB. The registered VAT number of HMV Ecommerce Limited is GB 205 963 701.
 
-**HMV**  and  **FOPP**  retail stores are operated by HMV Retail Limited incorporated and registered in England with company number 08380689, whose registered office is at 80 NEW BOND STREET, LONDON, W1S 1SB and whose principal place of business is at MERMAID HOUSE, PUDDLE DOCK, BLACKFRIARS, LONDON, EC4V 3DB.
+**HMV**  and  **FOPP**  retail stores are operated by HMV Retail Limited (In Administration), Registered in England, Registered Office: 15 Canada Square, London, E14 5GL Registered No. 08380689 and whose principal place of business is at MERMAID HOUSE, PUDDLE DOCK, BLACKFRIARS, LONDON, EC4V 3DB.
 
 **AFFILIATE DETAILS**
 
@@ -214,7 +214,7 @@ See below list of all our current affiliates;
 
 **PAYMENT PROVIDERS**
 
-All  **Fopp**  &  **HMV**  branded stores and  **store.hmv.com**  financial transactions are handled through payment services provider WorldPay (UK) Limited. HMV Ecommerce Limited will share information with our payment services provider only to the extent necessary for the purposes of processing payments you make via store.hmv.com, refunding such payments and dealing with complaints and queries relating to such payments and refunds.
+All  **Fopp**  &  **HMV**  branded stores and  **store.hmv.com**  financial transactions are handled through payment services provider WorldPay (UK) Limited. HMV Ecommerce Limited (In Administration) will share information with our payment services provider only to the extent necessary for the purposes of processing payments you make via store.hmv.com, refunding such payments and dealing with complaints and queries relating to such payments and refunds.
 
 [**WorldPay privacy policy**](https://www.worldpay.com/uk/comprehensive-privacy-policy)
 
