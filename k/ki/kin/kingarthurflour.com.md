@@ -1,11 +1,12 @@
-> *The following text is extracted and transformed from the kingarthurflour.com privacy policy that was archived on 2017-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171201173833id_/http%3A//www.kingarthurflour.com/customerservice/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kingarthurflour.com privacy policy that was archived on 2019-03-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190331090331id_/https%3A//www.kingarthurflour.com/policies/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy | King Arthur Flour
 
-  * [bakery café + store](https://web.archive.org/visit/)
-  * [baking school](https://web.archive.org/baking-school/)
-  * [contact](https://web.archive.org/contact/)
-  * [ __ 800 827 6836 ](tel:8008276836)
+  * [Bakery Café + Store](https://web.archive.org/visit/)
+  * [Baking School](https://web.archive.org/baking-school/)
+  * [Bakery Flour Sales](https://web.archive.org/professional/)
+  * [Contact](https://web.archive.org/contact/)
+  * [ __ Contact us ](tel:8008276836)
 
 
 
