@@ -1,26 +1,26 @@
-> *The following text is extracted and transformed from the tasb.org privacy policy that was archived on 2018-09-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180929021612id_/https%3A//www.tasb.org/Copyright/Privacy-Policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tasb.org privacy policy that was archived on 2019-04-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190401181255id_/https%3A//www.tasb.org/Copyright/Privacy-Policy.aspx) for the most accurate reproduction.*
 
 # TASB Website Privacy Policy
 
 ## General
 
-This Privacy Policy (“Policy”) covers how the Texas Association of School Boards, Inc. (“TASB”) handles personal information collected and received from or through the TASB website and our use of information collected about you through our social media pages (the TASB website and social media pages are referred to herein as the “Site”). As used in this Policy, the term “TASB” shall also include its wholly-owned subsidiary (First Public, LLC) and all affiliated entities to which TASB or its subsidiary provides website services on this Site (e.g., TASB Legal Assistance Fund, TASB Risk Management Fund, The Local Government Purchasing Cooperative, TASB Energy Cooperative, Lone Star Investment Pool, and TASB Supplemental Employee Benefits Cooperative).
+This Privacy Policy (“Policy”) covers how the Texas Association of School Boards, Inc. (“TASB”) handles personal information collected and received from or through the TASB website, the online applications that TASB makes available to you, and our use of information collected about you through our social media pages (the TASB website, online applications, and social media pages are collectively referred to herein as the “Site”). As used in this Policy, the term “TASB” shall also include its wholly-owned subsidiary, First Public, LLC, and all affiliated entities to which TASB or its subsidiary provides website services on this Site (e.g., TASB Legal Assistance Fund, TASB Risk Management Fund, The Local Government Purchasing Cooperative, TASB Energy Cooperative, Lone Star Investment Pool, and TASB Benefits Cooperative).
 
-Personal information is information about you that identifies you individually—such as your name, address, e-mail address, or phone number—that might not be publicly available. This Policy does not apply to the practice of entities or people that TASB does not own, control, employ, or manage.
+Personal information is information about you that ordinarily would not be publicly available and that identifies you individually, such as your name, residential address, personal e-mail address, geolocation (your mobile internet device’s longitudinal and latitudinal information), and personal phone number. This Policy does not apply to the practices of entities or people that TASB does not employ, manage, or control.
 
 ## Accessing the Site and Personal Information Collection
 
-You are not required to be a TASB member or to provide personal information to access certain parts of the Site. When you access the Site without actively providing any personal information, we collect limited technical information, such as your IP address. We also use cookies and analytics as described below. 
+You are not required to be a TASB member or to provide personal information to access certain parts of the Site. When you access the Site without actively providing any personal information, we may collect limited technical information, such as your IP address and geolocation. We also use cookies and analytics as described below. 
 
 Certain parts of the Site do require that you provide us with personal information for access to or use of those parts. For example, if you register to use a portion of the Site that is password-protected, you may be required to provide information as described in the “Registration and Forms” section below. 
 
-### Cookies
+## Cookies
 
-TASB uses cookies (text files placed on your hard drive by a web server) to help personalize and maximize your experience and time online. Cookies are not used to run programs or deliver viruses to your computer. They are uniquely assigned to your computer and can only be read by a web server in the domain that issued the cookie to you. We use cookies to improve the Site and to facilitate your use of the Site. (Read more about how to manage cookies in [Terms and Conditions of Use](https://www.tasb.org/Copyright/Terms-and-Conditions-of-Use.aspx).)
+TASB uses cookies (text files placed on your hard drive by a web server) to help personalize and maximize your experience and time online. Cookies are not used to run programs or deliver viruses to your computer. They are uniquely assigned to your computer and can only be read by a web server in the domain that issued the cookie to you. We use cookies to improve the Site and to facilitate your use of the Site. (Read more about how to manage cookies in [Terms and Conditions of Use](https://web.archive.org/copyright/terms-and-conditions-of-use.aspx).)
 
-### Registration and Forms
+## Registration and Forms
 
-From the Site, you may register to attend events, obtain information and services, participate in outreach and advocacy initiatives, and subscribe to receive communications from TASB. These registrations may require you to provide the following:
+From the Site, you may register to attend events, obtain information and services, participate in outreach and advocacy initiatives, answer survey questions and other inquiries, and subscribe to receive communications from TASB. These registrations may require you to provide the following:
 
   * Contact information such as your name, address, phone number, and e-mail address
   * Demographic information such as ZIP Code and date of birth
@@ -28,7 +28,7 @@ From the Site, you may register to attend events, obtain information and service
 
 
 
-We may use this information to effect transactions or provide services for which the information was provided, to contact you with additional information and updates, and to analyze use of our Site and services.
+We may use this information, and any other information you provide, to effect transactions or provide services for which the information was provided, to contact you with additional information and updates, and to analyze use of our Site and services.
 
 In some cases, this information may be collected and stored by third parties and therefore may also be subject to their privacy policies. You may review any such policies by contacting those third parties or by reviewing the policies posted on their websites.
 
@@ -56,9 +56,13 @@ We may receive personal information from a social media site platform or applica
 
 ## Third-Party Data Collection/Online Tracking
 
-We use service providers such as Google Analytics, Google Search Console, Google AdWords, and Kentico to help us understand and improve the usage of the Site and the effectiveness of our marketing efforts. Google Analytics may use cookies, your IP address or an anonymous identifier as well as certain information from your browser, together with other non-personal information about your visits to our Site and other websites, so that we, Google, or third parties may provide you with advertisements about goods and services of interest to you on our Site and other websites (including through Google search results pages) and/or to provide analytical information about our Site. If you would like more information about advertising networks, including choices about the use of information by Google and other companies for multi-site advertising purposes, go to [www.networkadvertising.org](http://www.networkadvertising.org/) and [optout.networkadvertising.org](http://optout.networkadvertising.org/?c=1#!/). Also, Google offers a Google Analytics browser add-on (designed to be compatible only with certain browsers) to provide website visitors the ability to prevent their data from being collected and used by Google Analytics. That add-on may be obtained [here](https://tools.google.com/dlpage/gaoptout?hl=en); other Google privacy controls are available [here](https://privacy.google.com/take-control.html); and you can manage your Google ad settings [here](https://adssettings.google.com/). 
+We use service providers such as Google Analytics, Google Search Console, Google AdWords, and Kentico to help us understand and improve the usage of the Site and the effectiveness of our marketing efforts. Google Analytics may use cookies, your IP address or an anonymous identifier as well as certain information from your browser, together with other information about you and your visits to our Site and other websites, so that we, Google, or third parties may provide you with advertisements about goods and services of interest to you on our Site and other websites (including through Google search results pages) and/or to provide analytical information about our Site. If you would like more information about advertising networks, including choices about the use of information by Google and other companies for multi-site advertising purposes, go to [www.networkadvertising.org](http://www.networkadvertising.org/) and [optout.networkadvertising.org](http://optout.networkadvertising.org/?c=1#!/). Also, Google offers a Google Analytics browser add-on (designed to be compatible only with certain browsers) to provide website visitors the ability to prevent their data from being collected and used by Google Analytics. That add-on may be obtained [here](https://tools.google.com/dlpage/gaoptout?hl=en); other Google privacy controls are available [here](https://privacy.google.com/take-control.html); and you can manage your Google ad settings [here](https://adssettings.google.com/).
 
 Currently, various Internet browsers offer a “do not track” or “DNT” option that uses a DNT header to indicate the DNT preference setting on the browser. TASB does not track your activity over time and across different websites or online services, and thus we do not currently respond to browsers’ DNT signals with respect to the Site. We do not permit our third-party service providers to collect information from the Site for other websites or for their own purposes other than as described in this Policy.
+
+## Geolocation Information
+
+We may receive information about your geolocation and your mobile internet device when you use our Site.  We may use this information to provide you with location-based services and information.  Most mobile internet devices allow you to turn off geolocation, and we encourage you to contact your device manufacturer for detailed instructions on how to do so.
 
 ## Children’s Privacy
 
@@ -76,7 +80,7 @@ TASB may modify this Policy at any time. When changes are made, we will update t
 
 We strive to assure the correctness of the information we maintain. If the information we have about you is inaccurate, we will correct the information in a manner as timely as possible. To provide us with corrections, please contact us in any of the following ways:
 
-  * Send an e-mail message with corrections to [webmaster@tasb.org](mailto:webmaster@tasb.org).
+  * Send an e-mail message with corrections to [webmaster@tasb.org](mailto:webmaster@tasb.org).
   * Send mail with corrections to P.O. Box 400, Austin, Texas 78767.
   * Call us at 512.467.0222.
 
@@ -85,5 +89,3 @@ We strive to assure the correctness of the information we maintain. If the infor
 ## Security
 
 We employ reasonable security methods to prevent unauthorized access, maintain data accuracy, and ensure correct use of your information. However, no data transmission over the Internet or any wireless network can be guaranteed to be perfectly secure. As a result, while we try to protect your information, we cannot ensure or guarantee the security of any information you transmit to us, and you do so at your own risk.
-
-v.07/18
