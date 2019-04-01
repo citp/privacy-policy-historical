@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wingamestore.com privacy policy that was archived on 2018-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181208223748id_/https%3A//www.wingamestore.com/information/Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wingamestore.com privacy policy that was archived on 2019-04-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190401055810id_/https%3A//www.wingamestore.com/information/Privacy) for the most accurate reproduction.*
 
 # Privacy | wingamestore.com
 
@@ -113,28 +113,50 @@ Your browser or device may also offer settings that allow you to choose whether 
 
 **KNOWN 1ST PARTY COOKIES LIST:**
 
-Name| Type| Length| Details  
----|---|---|---  
-PHPSESSID | Essential | Session | Global. Core service key to handle any and all temporary application session data.  
-PHPSLUG | Essential | Session | Global. Core service id tied directly to PHPSESSID, not to a specific user.  
-BinkU | Essential | 6 month | Members only. Signed In session identifier and security token.  
-DinkU_# | Essential | 60 day | Members only. Secondary security token for members who have opted into 2-factor authorization.  
-PrefsU | Essential* | 1 year | Basic site usage prefs, like currency choice, and product results in list or tile. Does not contain any personally identifying information. *Essential if you wish to opt-in/out of specific cookie systems.  
-ARSID | Affiliate | 30 day | Maintains affiliate referral link ID (our internal affiliate system) to grant commissions from purchases made by users coming to us from an external affiliate website. Identifies the affiliate, not the user. Without this cookie, affiliates suffer.  
+Name| Type| Length| Type  
+Length| Details  
+---|---|---|---|---  
+PHPSESSID | Essential | Session | Essential  
+Session | Global. Core service key to handle any and all temporary application session data.  
+PHPSLUG | Essential | Session | Essential  
+Session | Global. Core service id tied directly to PHPSESSID, not to a specific user.  
+BinkU | Essential | 6 month | Essential  
+6 month | Members only. Signed In session identifier and security token.  
+DinkU_# | Essential | 60 day | Essential  
+60 day | Members only. Secondary security token for members who have opted into 2-factor authorization.  
+PrefsU | Essential* | 1 year | Essential*  
+1 year | Basic site usage prefs, like currency choice, and product results in list or tile. Does not contain any personally identifying information. *Essential if you wish to opt-in/out of specific cookie systems instead of all.  
+ARSID | Affiliate | 30 day | Affiliate  
+30 day | Maintains affiliate referral link ID (our internal affiliate system) to grant commissions from purchases made by users coming to us from an external affiliate website. Identifies the affiliate, not the user. Without this cookie, affiliates suffer.  
  **Please allow these** for the sake of your favorite affiliate sites!  
-LSDWeb | Affiliate | 30 day | Maintains affiliate referral link ID (through Rakutan Linkshare 3rd party service) to grant commissions from purchases made by user. (phasing out)  
-UTMWeb | Analytics | 30 day | Internal UTM tracking cookie from our own newsletter, wishlist sale notice, and product notification email campaigns. So we know if a campaign was worth bothering doing again. (phasing out)  
+UTMWeb | Analytics | 30 day | Analytics  
+30 day | Internal UTM tracking cookie from our own newsletter, wishlist sale notice, and product notification email campaigns. So we know if a campaign was worth bothering doing again. (phasing out)  
   
 **3RD PARTY COOKIES LIST:**
 
-Name| Type| Party| Domain| Length| Details  
----|---|---|---|---|---  
-__utm* | Analytics | Google | .google.com | Mixed | Google Analytics cookies used to distinguish users on a website to generate statistical information about their use of the website.  
-(various) | Social | Facebook | .facebook.com | Mixed | Facebook social media sharing buttons come with a plethora of various cookies they set and maintain. Which appear to change often, and in quantity. To find out more about them, please visit Facebook and read their cookie policy.  
-(various) | Social | Twitter | .twitter.com | Mixed | Twitter social media sharing buttons also come with various cookies they set and maintain. To find out more about them, please visit Twitter and read their cookie policy.  
-(numerous) | Comments | Disqus | .disqus.com  
+Name | Type| Length| Party | Type  
+Party | Domain | Details  
+---|---|---|---|---|---|---  
+__utm* | Analytics| Mixed| Google | Analytics  
+Mixed  
+Google  
+.google.com | .google.com | Google Analytics cookies used to distinguish users on a website to generate statistical information about their use of the website.  
+(various) | Social| Mixed| Facebook | Social  
+Mixed  
+Facebook  
+.facebook.com | .facebook.com | Facebook social media sharing buttons come with a plethora of various cookies they set and maintain. Which appear to change often, and in quantity. To find out more about them, please visit Facebook and read their cookie policy.  
+(various) | Social| Mixed| Twitter | Social  
+Mixed  
+Twitter  
+.twitter.com | .twitter.com | Twitter social media sharing buttons also come with various cookies they set and maintain. To find out more about them, please visit Twitter and read their cookie policy.  
+(numerous) | Comments| Mixed| Disqus | Comments  
+Mixed  
+Disqus  
+.disqus.com  
 .pippio.com  
-.rezync.com | Mixed | Disqus is a plug-in comment system found on the bottom of Product detail pages, and articles. Their cookies are vast, numerous, and ranging from multiple other 4th parties. The only way to opt out of these, is to fully [Disable Disqus](https://www.wingamestore.com/information/Cookies/).  
+.rezync.com | .disqus.com  
+.pippio.com  
+.rezync.com | Disqus is a plug-in comment system found on the bottom of Product detail pages, and articles. Their cookies are vast, numerous, and ranging from multiple other 4th parties. The only way to opt out of these, is to fully [Disable Disqus](https://www.wingamestore.com/information/Cookies/).  
   
 **WHAT ARE COOKIES:**
 
