@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the conservative.ca privacy policy that was archived on 2018-12-12.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20181212070005id_/http%3A//cpcp.cc/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the conservative.ca privacy policy that was archived on 2019-04-01.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20190401091841id_/http%3A//cpcp.cc/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en-CA" class="en"><head>
     <meta charset="UTF-8">
@@ -93,14 +93,51 @@ WebFont.load({
       fbq('track', "PageView");
     </script>
 
-  
+  <script src="https://code.jquery.com/jquery-3.3.1.min.js" integrity="sha256-FgpCb/KJQlLNfOu91ta32o/NMZxltwRo8QtmkMRdAu8=" crossorigin="anonymous"></script>
+  <!-- <script type="text/javascript">
+$(document).ready(function(){
+    var speed = 5;
+    var items, scroller = $('#scroller');
+    var width = 0;
+    scroller.children().each(function(){
+        width += $(this).outerWidth(true);
+    });
+    scroller.css('width', width);
+    scroll();
+    function scroll(){
+        items = scroller.children();
+        var scrollWidth = items.eq(0).outerWidth();
+        scroller.animate({'left' : 0 - scrollWidth}, scrollWidth * 100 / speed, 'linear', changeFirst);
+    }
+    function changeFirst(){
+        scroller.append(items.eq(0).remove()).css('left', 0);
+        scroll();
+    }
+});
+</script> -->
   </head>
   <body class="page page-id-445 page-template-default">
 
+
+<!--     <div id="scrollerWrapper">
+<a style="color:unset;background-color: unset;" href="https://www.conservative.ca/cpc/justin-trudeau-must-resign/" target="_blank">        
+        <ul id="scroller">
+            <li>BREAKING</li>
+            <li>BREAKING</li>
+            <li>BREAKING</li>
+            <li>BREAKING</li>
+            <li>BREAKING</li>
+            <li>BREAKING</li>
+            <li>BREAKING</li>
+            <li>BREAKING</li>
+          
+        </ul>
+    </a>
+    </div> -->
 <!-- **********************************
 NAVIGATION MENU
 ************************************-->
-<nav class="navbar top-fixed">
+<nav class="navbar top-fixed" id="top_fixed_nav">
     <div class="w-container navbar-container">
         <div class="w-col w-col-2 w-col-push-5 w-col-medium-4 w-col-medium-push-4 w-col-small-3 w-col-small-push-0 w-col-tiny-3 navbar-logo">
             <a class="logo-container" href="/">
@@ -178,8 +215,9 @@ NAVIGATION MENU
                 <a class="flyout-link" href="//www.conservative.ca/our-party/employment/">Work</a>
                 <a class="flyout-link" href="http://store.conservative.ca">Shop</a>
                            
-                    <a class="flyout-link" href="//www.conservative.ca/cpc/join-our-team/">Volunteer</a>
+                    <a class="flyout-link" href="//volunteer.conservative.ca/">Volunteer</a>
            
+           <a class="flyout-link" href="//events.conservative.ca/">Events</a>
             </div>
 
             <div class="w-col w-col-3 w-col-medium-6 w-col-small-12 w-col-tiny-12">
@@ -443,7 +481,7 @@ QUESTION MODAL
             <div class="w-row footer-byline-block">
                 <div class="w-col w-col-10 w-col-small-12 w-col-tiny-12">
                     <div class="footer-byline-text">
-                                                    © Copyright 2018. Authorized by the Chief Agent of the Conservative Party of Canada. View our
+                                                    © Copyright 2019. Authorized by the Chief Agent of the Conservative Party of Canada. View our
                                                 <a href="http://cpcp.cc/privacy" class="footer-byline-link">privacy policy.</a>
                     </div>
                 </div>
